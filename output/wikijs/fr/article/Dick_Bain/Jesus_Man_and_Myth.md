@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:41:03.577Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Dick Bain<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/DEFRAG">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">DÉFRAG</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="pr-2">Un autre et plus grand Jean-Baptiste !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jésus a un jour posé cette question à ses apôtres : « Pour les hommes, qui suis-je ? » Les apôtres lui dirent qu'il avait été identifié comme étant Moïse, Élie, Isaïe, Jérémie ou encore Jean-Baptiste ressuscité des morts. Puis Jésus leur a posé une question encore plus surprenante : « Pour vous, qui suis-je ? » L’impétueux Simon Pierre se leva d’un bond et dit : « Le libérateur, le Fils de Dieu ! » Beaucoup de ceux qui ne connaissaient Jésus que de réputation pensaient qu’il était la réincarnation d’un prophète bien connu. Certains de ses ennemis semblaient penser qu’il était une personne de connivence avec le prince des démons. Mais les Apôtres, qui vivaient avec lui depuis plus d'un an, croyaient qu'il était le Fils de Dieu et en quelque sorte le Messie attendu par les Juifs. Cela n’a certainement pas réglé le problème ; la recherche de l'identité de Jésus se poursuit depuis plus de 1900 ans et n'est pas encore terminée.
@@ -61,6 +85,31 @@ Quoi que nous pensions de Jésus, la plupart d’entre nous conviendraient qu’
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/DEFRAG">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">DÉFRAG</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="pr-2">Un autre et plus grand Jean-Baptiste !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

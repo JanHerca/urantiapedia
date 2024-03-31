@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre comme Jésus a vécu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/De_Imitatione_Jesu">
+          <span class="pr-2">De Imitatione Jesu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pas si nous prenons la cosmologie des Cahiers d'Urantia au pied de la lettre plutôt que de la considérer comme destinée à fournir un cadre universel temporaire dans lequel réfléchir à nos carrières universelles. De nouvelles preuves sont apparues depuis notre précédente discussion sur ce sujet.
@@ -48,3 +72,28 @@ Si les prédictions s'avèrent exactes, ce sera une preuve supplémentaire que l
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre comme Jésus a vécu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/De_Imitatione_Jesu">
+          <span class="pr-2">De Imitatione Jesu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

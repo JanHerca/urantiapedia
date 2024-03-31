@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le moins que nous devrions savoir sur la Croix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_Wrote_the_Urantia_Papers">
+          <span class="pr-2">Qui a écrit les fascicules d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Imaginez que vous étiez le Jésus morontiel avec seulement quarante jours à votre disposition pour cimenter les objectifs de la Quatrième Révélation d’Époque et assurer sa survie. Pour la toute première fois, vos partisans sont finalement obligés d’accepter que vous n’allez pas prendre le contrôle de Jérusalem, libérer votre peuple de la domination romaine et restaurer les gloires largement mythiques du trône de David.
@@ -91,3 +115,28 @@ Les Cahiers indiquent très clairement que notre rôle d'enseignant doit s'exerc
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le moins que nous devrions savoir sur la Croix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_Wrote_the_Urantia_Papers">
+          <span class="pr-2">Qui a écrit les fascicules d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

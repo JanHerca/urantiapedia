@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T00:53:24.466Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Dick Bain<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/100_stable_elements_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">100 éléments stables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself">
+          <span class="pr-2">« Prouvez-le-vous par vous-même »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -53,3 +77,28 @@ Pour le scénario le plus favorable de l'univers actuel, l'image d'un univers pl
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/100_stable_elements_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">100 éléments stables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself">
+          <span class="pr-2">« Prouvez-le-vous par vous-même »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Gardiens Célestes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="pr-2">De quoi sont faits les rêves ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. Toute vie d’une créature évolutionnaire est assaillie par certaines *inévitabilités,* dont voici des exemples :
@@ -38,3 +62,28 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Gardiens Célestes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="pr-2">De quoi sont faits les rêves ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

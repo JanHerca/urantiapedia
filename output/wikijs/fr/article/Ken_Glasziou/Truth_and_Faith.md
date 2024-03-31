@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="pr-2">Sur la communication avec notre Ajusteur de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Nabon était un Juif grec tenant le premier rang parmi les chefs du principal culte des mystères à Rome, le culte mithriaque. Ce grand-prêtre eut de nombreux entretiens avec le scribe de Damas, mais ce fut la discussion qu’ils eurent, un soir, sur la vérité et la foi qui exerça sur lui l’influence la plus durable. Nabon avait songé à convertir Jésus et lui avait même suggéré de retourner en Palestine comme éducateur mithriaque. Il ne se doutait guère que Jésus le préparait à devenir l’un des premiers convertis à l’évangile du royaume. Voici, transcrite en terminologie moderne, la substance de l’enseignement de Jésus :
@@ -32,3 +53,25 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="pr-2">Sur la communication avec notre Ajusteur de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

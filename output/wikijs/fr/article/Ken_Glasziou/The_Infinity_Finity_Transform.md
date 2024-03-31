@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fenêtres d'opportunité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Trimble/On_Completion">
+          <span class="pr-2">À la fin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ces dernières années, un vif intérêt s’est développé pour les descendants théologiques d’une branche peu connue de la philosophie connue sous le nom de philosophie des processus. Ce développement doit beaucoup à Charles Hartshorne, ancien élève, puis associé, d'Alfred North Whitehead, le véritable fondateur de la philosophie moderne des processus. Whitehead, d'ailleurs, s'est également fait connaître en tant que mathématicien et logicien, étant l'auteur, avec Bertrand Russell, d'un énorme ouvrage classique, Principia Mathematica.
@@ -94,3 +118,28 @@ De plus amples informations peuvent être trouvées au Centre d'études sur les 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fenêtres d'opportunité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Trimble/On_Completion">
+          <span class="pr-2">À la fin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

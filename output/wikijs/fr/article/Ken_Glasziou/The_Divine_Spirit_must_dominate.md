@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="pr-2">Que signifie parler de Dieu ? Un point de vue catholique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La théorie morte, même celle des doctrines religieuses les plus élevées, est impuissante à transformer le caractère humain ou à contrôler le comportement mortel. Ce dont le monde d’aujourd’hui a besoin est la vérité que votre instructeur de jadis a proclamée : « Non seulement en paroles, mais aussi en puissance et dans le Saint-Esprit. » Le germe de la vérité théorique est inerte et les concepts moraux les plus élevés sont sans effet, à moins que et jusqu’à ce que l’Esprit divin ne souffle sur les formes de vérité et ne vivifie les formules de la droiture.
@@ -26,3 +47,25 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="pr-2">Que signifie parler de Dieu ? Un point de vue catholique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

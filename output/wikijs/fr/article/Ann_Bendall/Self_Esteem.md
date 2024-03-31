@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Wouldnt_It_Be_Great_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce ne serait pas génial si ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="pr-2">Le deuxième grand commandement. Un rappel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour répondre à la manière simpliste dont les individus explorent la complexité de la nature humaine, la psychologie a inventé le concept « d’estime de soi » pour représenter ce que le Livre d’Urantia appelle la conscience et ses remontrances de la part de l’Ajusteur de Pensée, l’estime de soi et l’individualité.
@@ -37,3 +61,28 @@ Dans le deuxième cas, sur <a id="a23_26"></a>[LU 139:4.8](/fr/The_Urantia_Book/
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Wouldnt_It_Be_Great_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce ne serait pas génial si ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="pr-2">Le deuxième grand commandement. Un rappel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

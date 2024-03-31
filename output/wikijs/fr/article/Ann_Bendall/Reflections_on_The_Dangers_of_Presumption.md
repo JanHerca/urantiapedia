@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergence – Le contenu scientifique du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Walking_the_Second_Mile">
+          <span class="pr-2">Marcher le deuxième kilomètre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Le Jésus humain voyait Dieu comme étant saint, juste et grand, aussi bien que vrai, beau et bon. Il focalisa dans son mental tous ces attributs de divinité en tant que « volonté du Père qui est aux cieux ». (<a id="a13_210"></a>[LU 196:0.2](/fr/The_Urantia_Book/196#p0_2))
@@ -44,3 +68,28 @@ En tant que lecteurs du _Livre d'Urantia_, la plupart d'entre nous se considère
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergence – Le contenu scientifique du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Walking_the_Second_Mile">
+          <span class="pr-2">Marcher le deuxième kilomètre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

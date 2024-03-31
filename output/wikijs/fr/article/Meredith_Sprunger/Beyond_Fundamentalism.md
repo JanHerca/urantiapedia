@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et les Travaux Secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Midrash">
+          <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les fondamentalistes chrétiens croient en l’inerrance littérale de la Bible. Ils sont tellement impressionnés par les vérités spirituelles des Écritures qu’ils supposent que la science, l’économie, la sociologie et l’histoire de la Bible sont de qualité égale. L’érudition du christianisme traditionnel a depuis longtemps délivré l’Église de ces illusions naïves. Nous avons réalisé que le but de la révélation est l'illumination spirituelle qui doit être distinguée des faits scientifiques et historiques qui peuvent accompagner cette vision spirituelle. La majeure partie du christianisme a atteint la maturité spirituelle nécessaire pour différencier ces vérités spirituelles constantes des faits matériels passagers et parfois erronés qui accompagnent ces idées.
@@ -42,3 +66,28 @@ L'évaluation scientifique montre que le fondamentalisme du Livre d'Urantia est 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et les Travaux Secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Midrash">
+          <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

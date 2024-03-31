@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="pr-2">Convergence – Le contenu scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Les races mortelles représentent l’ordre le plus bas de la création intelligente et personnelle. Vous autres, mortels, êtes divinement aimés, et chacun de vous peut choisir d’accepter la destinée certaine d’une expérience glorieuse, mais vous n’appartenez pas encore par nature à l’ordre divin ; vous êtes entièrement mortels. Dès que la fusion avec l’Ajusteur aura lieu, vous serez comptés parmi les fils ascendants, mais, avant l’amalgamation finale de l’âme humaine survivante avec l’un des types d’esprit éternel et immortel, le statut des mortels du temps et de l’espace est celui de fils de Dieu par la foi.
@@ -30,3 +51,25 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="pr-2">Convergence – Le contenu scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

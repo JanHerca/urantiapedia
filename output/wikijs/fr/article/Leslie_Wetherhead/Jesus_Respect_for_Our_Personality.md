@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Leslie Wetherhead<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Spiritual_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Croissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Extrait de « Jésus et nous-mêmes » de Leslie Weatherhead
@@ -95,3 +116,25 @@ Le livre cité ci-dessus, publié en 1930, était l'une des sources utilisées p
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Spiritual_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Croissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T02:09:16.433Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le souper du Souvenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > L’harmonie, musique des sept niveaux d’associations mélodieuses, est le code universel de communication de l’esprit. La musique telle que la comprennent les mortels d’Urantia atteint son expression la plus haute dans les écoles de Jérusem, ... (<a id="a13_247"></a>[LU 44:1.11](/fr/The_Urantia_Book/44#p1_11))
@@ -64,6 +85,28 @@ Quelle que soit la vérité, il est certain que notre Ajusteur de Pensée dispos
 Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le souper du Souvenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

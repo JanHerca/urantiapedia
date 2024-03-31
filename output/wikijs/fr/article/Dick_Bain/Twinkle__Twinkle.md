@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Dick Bain<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Judgment_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jour du jugement dernier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="pr-2">Naissance du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les astronomes utilisent différents types de bougies standards ou d’étalons cosmiques pour mesurer les distances jusqu’aux étoiles et aux galaxies. L’un de ces critères est la classe d’étoiles connue sous le nom d’étoiles variables céphéides. L’une des erreurs apparentes du Livre d’Urantia vient de l’utilisation de la distance à la galaxie d’Andromède que les astronomes détenaient dans les années 1930. Cette distance a été déterminée à l’aide des étoiles variables céphéides de M31, également appelée galaxie d’Andromède.
@@ -32,6 +56,31 @@ Le télescope est en fait une machine à voyager dans le temps. Plus la lumière
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_5/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Judgment_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jour du jugement dernier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="pr-2">Naissance du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Urantia Book Fellowship<br>© 2020 Jan Herca, quelques ajouts</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Turning_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un tournant !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure class="image urantiapedia">
@@ -86,6 +107,28 @@ L’hypothèse de l’origine catastrophique/la théorie d’Angona a peut-être
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Turning_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un tournant !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

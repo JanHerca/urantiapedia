@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que signifie parler de Dieu ? Un point de vue catholique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Urantia_Cult">
+          <span class="pr-2">Un culte d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a sûrement une très bonne raison. Le livre nous dit que nous, les Urantiens défavorisés, nous paralysons spirituellement si nous ne le faisons pas.
@@ -68,3 +92,28 @@ _Le fait que Jésus a vécu pour nous est infiniment plus significatif que l'ens
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que signifie parler de Dieu ? Un point de vue catholique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Urantia_Cult">
+          <span class="pr-2">Un culte d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a de très nombreuses lunes, quand j'étais un jeune surfeur, mes amis et moi pouvions être trouvés quelque part en mer, assis sur nos planches de surf, attendant que le dieu des vagues nous envoie un « set ». Dans le langage du surf, un « set » était un groupe de grosses vagues qui semblent venir de nulle part. Le dieu des vagues s'appelait « Hughie » et était celui à qui les surfeurs priaient avec ferveur en utilisant la supplication : « Envoie-les, Hughie ». Des lunes plus tard, j'ai appris que la cause principale d'un « ensemble » était le même phénomène que les physiciens appellent « interférence ». Cela peut se produire lorsque les pics de deux ondes provenant de sources différentes coïncident, s'additionnant pour former une grande vague. Mais si le sommet de l’un coïncide avec le creux de l’autre, ils s’annulent et la mer devient plate. Comme les surfeurs, à cette époque, étaient rarement des physiciens, les ensembles étaient considérés comme des actes créateurs de la part d'une divinité. Hughie était un type de dieu de l'Ancien Testament – courroucé, jaloux et pervers – qui exerçait son autorité en laissant les surfeurs deviner où et quand les sets auraient lieu.
@@ -106,3 +127,25 @@ However blocking the path of the “up” stream electrons so they do not enter 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

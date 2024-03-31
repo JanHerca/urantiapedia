@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T23:03:26.250Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir. Quelle est notre tâche ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Quand une religion devient fondamentaliste, elle devient inévitablement contre-productive, contre-intuitive et constitue un obstacle au progrès social et spirituel de ses adhérents_. »
@@ -125,3 +146,25 @@ Mais cela ne nous laisse-t-il pas toujours sans réponse : comment pouvons-nous,
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir. Quelle est notre tâche ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

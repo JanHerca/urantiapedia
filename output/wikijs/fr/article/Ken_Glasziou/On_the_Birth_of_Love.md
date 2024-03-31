@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="pr-2">Jouer avec Dieu : une vocation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Dans la vie physique, les sens révèlent l’existence des choses et le mental découvre la réalité des significations ; mais c’est l’expérience spirituelle qui révèle aux individus les vraies valeurs de la vie. On atteint ces niveaux supérieurs de vie dans l’amour suprême de Dieu et dans l’amour désintéressé des hommes. Si vous aimez vos compagnons, c’est que vous avez découvert leur valeur. Jésus aimait tellement les hommes parce qu’il leur attribuait une haute valeur. C’est en découvrant les mobiles de vos associés que vous découvrez le mieux leur valeur. Si quelqu’un vous irrite et suscite en vous du ressentiment, vous devriez chercher avec sympathie à discerner son point de vue, les motifs de sa conduite désagréable. Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour.
@@ -26,3 +47,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="pr-2">Jouer avec Dieu : une vocation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

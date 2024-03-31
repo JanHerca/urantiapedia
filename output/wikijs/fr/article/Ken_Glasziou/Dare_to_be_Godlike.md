@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Desiderata">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Désidérates</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Le secret de la survie est enveloppé dans le suprême désir des hommes d’être semblables à Dieu, et dans la bonne volonté correspondante de faire et d’être tout ce qui est essentiel pour satisfaire finalement ce désir dominant._ » (<a id="a13_236"></a>[LU 110:3.2](/fr/The_Urantia_Book/110#p3_2))
@@ -43,3 +64,25 @@ Si, après cela, nous pouvons répondre que oui, nous continuerons à essayer d'
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Desiderata">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Désidérates</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

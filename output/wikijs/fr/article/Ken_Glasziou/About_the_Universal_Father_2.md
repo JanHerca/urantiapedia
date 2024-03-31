@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T01:14:22.728Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Personality_of_the_Universal_Father">
+          <span class="pr-2">Sur la personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Significations et valeurs des Cahiers d'Urantia
@@ -99,3 +120,25 @@ Beaucoup de gens croient que Jésus de Nazareth est la source directe de pratiqu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Personality_of_the_Universal_Father">
+          <span class="pr-2">Sur la personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

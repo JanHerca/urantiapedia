@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:14:21.006Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qui alimente notre Soleil et les autres étoiles ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Renewal_of_the_Search_for_the_Neutron_Star">
+          <span class="pr-2">Renouvellement de la recherche de l'étoile à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -77,3 +101,28 @@ Ensemble, ces neutrinos constitueraient une « _grande quantité de minuscules p
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qui alimente notre Soleil et les autres étoiles ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Renewal_of_the_Search_for_the_Neutron_Star">
+          <span class="pr-2">Renouvellement de la recherche de l'étoile à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

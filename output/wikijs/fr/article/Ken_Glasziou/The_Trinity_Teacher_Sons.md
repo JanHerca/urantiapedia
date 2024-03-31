@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Learning_to_Keep_a_Guard_on_Our_Mouths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à garder nos dents sur nos gardes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="pr-2">La Révélation Urantia. Pourquoi l'avons-nous ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qui et que sont les Fils Instructeurs de la Trinité ? Eh bien, pour commencer, ils sont assez haut placés dans l’ordre des choses, appartenant à l’Ordre des Daynals, l’un des trois Ordres des Fils de Dieu du Paradis. Les deux autres membres de cet Ordre sont les Fils Créateurs et les Fils Magistraux.
@@ -35,3 +59,28 @@ Il est évident que nous, Urantiens, avons un très long chemin à parcourir ava
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Learning_to_Keep_a_Guard_on_Our_Mouths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à garder nos dents sur nos gardes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="pr-2">La Révélation Urantia. Pourquoi l'avons-nous ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

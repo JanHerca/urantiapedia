@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T03:56:17.001Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="pr-2">Créationnisme, évolution et livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Jésus répandait le réconfort partout où il passait. Il était plein de grâce et de vérité. Ses associés ne cessèrent de s’émerveiller des paroles aimables qui sortaient de sa bouche. On peut cultiver l’amabilité, mais la bienveillance est l’arôme de l’amitié qui émane d’une âme saturée d’amour.
@@ -37,3 +58,25 @@ dateCreated: 2022-09-26T03:56:17.001Z
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_3/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="pr-2">Créationnisme, évolution et livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

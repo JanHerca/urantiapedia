@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Transmutation_of_Existential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transmutation des potentialités et des réalités existentielles vers le niveau fini de réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="pr-2">L'apparition à Sychar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La croix montre à jamais que l’attitude de Jésus envers les pécheurs n’était ni une condamnation ni une excuse, mais plutôt un salut éternel et plein d’amour. Jésus est véritablement un sauveur dans le sens où sa vie et sa mort conduisent les hommes à la bonté et à une juste survie. Jésus aime tellement les hommes que son amour éveille la réponse d'amour dans le cœur humain. L'amour est vraiment contagieux et éternellement créatif. La mort de Jésus sur la croix illustre un amour suffisamment fort et divin pour pardonner le péché et engloutir toute mauvaise action. Jésus a révélé à ce monde une qualité de justice supérieure à la justice – un simple bien et un mal techniques.
@@ -44,3 +68,28 @@ La croix lance un appel suprême au meilleur de l'homme car elle révèle celui 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Transmutation_of_Existential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transmutation des potentialités et des réalités existentielles vers le niveau fini de réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="pr-2">L'apparition à Sychar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

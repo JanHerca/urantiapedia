@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment grandit l'âme ? Par la prise de décision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Love_Your_Enemies">
+          <span class="pr-2">Aimez vos ennemis !!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Chaque impulsion de chaque électron, pensée ou esprit est une unité active dans tout l’univers. ... L’univers est un tout : nulle chose, nul être n’existent ni ne vivent dans l’isolement. » (<a id="a13_195"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
@@ -64,3 +88,28 @@ La philosophie des processus est holistique. Il perçoit les relations entre les
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment grandit l'âme ? Par la prise de décision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Love_Your_Enemies">
+          <span class="pr-2">Aimez vos ennemis !!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

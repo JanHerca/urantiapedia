@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Matthew Block<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hors contexte : moyens, fins, motivations et moralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="pr-2">Lutte avec Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans le fascicule 39 (<a id="a13_22"></a>[LU 39:5.5](/fr/The_Urantia_Book/39#p5_5)) du _Le Livre d'Urantia_ (437, édition 1955), nous sommes présentés à un groupe de séraphins, appelés les « Âmes de Paix ». Ces anges appartiennent à l'ordre des Aides Planétaires, qui commencent leur ministère sur un monde habité sous le régime adamique. En plus d’aider à favoriser la réalisation de « la paix sur terre et de la bonne volonté entre les hommes », on nous dit que : « Dans les époques les plus avancées de l’évolution planétaire, ces séraphins jouent un rôle déterminant dans le remplacement de l’idée d’expiation par le concept d’harmonisation divine comme une philosophie de survie mortelle. »
@@ -40,3 +64,28 @@ _Le Christ de la Route Indienne_ contient d'autres parallèles avec _Le Livre d'
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hors contexte : moyens, fins, motivations et moralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="pr-2">Lutte avec Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

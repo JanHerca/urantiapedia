@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voulez-vous que vos enfants vous aiment ? Jésus a fourni un modèle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/I_Want_to_be_Aggressive">
+          <span class="pr-2">Je veux être agressif !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours des derniers mois, j'ai reçu un certain nombre d'articles promouvant ou expliquant la canalisation et la « mission d'enseignement ». Certains d’entre eux sont « farfelus » et ridicules, contenant des menaces voilées de les rejoindre sous peine de rejet du salut, tandis que d’autres sont bien écrits et semblent dire, à première vue, toutes les bonnes choses. Tous tentent de suivre les pans du manteau du *Livre d'Urantia*.
@@ -29,3 +53,28 @@ Bien que ce ne soit pas intentionnel, je ne peux penser à aucune façon plus su
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voulez-vous que vos enfants vous aiment ? Jésus a fourni un modèle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/I_Want_to_be_Aggressive">
+          <span class="pr-2">Je veux être agressif !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

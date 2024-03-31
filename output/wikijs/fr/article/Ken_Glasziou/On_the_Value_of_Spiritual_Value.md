@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à enseigner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
+          <span class="pr-2">Leçons du « discours scientifique de Jésus »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Le cœur a ses raisons que la raison ignore.
@@ -84,3 +108,28 @@ L’accomplissement de la promesse révélatrice dépend à la fois de notre rec
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à enseigner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
+          <span class="pr-2">Leçons du « discours scientifique de Jésus »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_the_Urantia_Revelation_reveals">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que révèle la Révélation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/All_things_work_together_for_good_despite_2">
+          <span class="pr-2">Toutes choses concourent au bien, malgré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les réalités du Père se révèlent dans les qualités de la divinité. Et ces qualités de divinité sont personnellement appropriées par les créatures de l’univers dans l’expérience de vivre divinement – et vivre divinement signifie réellement vivre la volonté de Dieu.
@@ -28,3 +52,28 @@ Et nous savons déjà où se dirige Urantia – car « la révélation de Dieu a
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_the_Urantia_Revelation_reveals">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que révèle la Révélation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/All_things_work_together_for_good_despite_2">
+          <span class="pr-2">Toutes choses concourent au bien, malgré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

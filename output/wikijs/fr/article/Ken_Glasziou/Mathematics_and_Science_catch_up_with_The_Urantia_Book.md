@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T11:49:05.941Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La pensée de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les mathématiques et la science rattrapent _Le Livre d'Urantia_ « Dans l'état mortel, rien ne peut être absolument prouvé ; la science et la religion reposent toutes deux sur des hypothèses. (<a id="a13_192"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
@@ -52,3 +73,25 @@ La base de la physique, en fait de toute science, ce sont les mathématiques. Pa
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La pensée de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

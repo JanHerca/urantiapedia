@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Am_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que je suis ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Hinduism">
+          <span class="pr-2">Hindouisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cette histoire a été entendue lors d'une interview à la BBC d'un haut policier britannique qui était également membre d'un groupe chrétien au sein des forces de police. L'intervieweur a demandé comment le fait d'être chrétien aurait pu aider le policier au cours de sa carrière policière. Voici sa réponse :
@@ -31,3 +55,28 @@ Cette histoire a été entendue lors d'une interview à la BBC d'un haut policie
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Am_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que je suis ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Hinduism">
+          <span class="pr-2">Hindouisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2022-09-27T00:06:28.740Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Suite de [numéro de janvier/février](/fr/article/The_Spirituality_Content_of_the_Urantia_Papers))
@@ -531,3 +549,22 @@ Notre but? Grandir spirituellement – comme le démontre notre éveil aux besoi
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_2/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

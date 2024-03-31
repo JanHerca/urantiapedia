@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Dick Bain<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion, science et obsolescence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Desiderata">
+          <span class="pr-2">Désidérates</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les titres de nos chansons sont pleins de rêves : Beautiful Dreamer, Dream Lover, I'm Dreaming of a White Christmas, etc. Les rêves annoncent souvent des événements importants aux gens de la Bible. Deux psychologues éminents, Carl Jung et Sigmund Freud, ont trouvé une signification psychologique importante, bien que différente, dans les rêves. Celui qui a découvert la structure du cycle benzénique a été conduit à cette découverte par un rêve représentant un anneau de serpents. Martin Luther King a dit : « J'ai un rêve... »
@@ -49,6 +73,31 @@ En ce qui me concerne, je continuerai à chercher une signification spirituelle 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion, science et obsolescence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Desiderata">
+          <span class="pr-2">Désidérates</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

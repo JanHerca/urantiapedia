@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:20:22.364Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'alter ego et l'esprit intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="pr-2">Esprit et âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’Esprit-Père Résident – quelles sont ses fonctions ? (<a id="a13_55"></a>[LU 110:0.1](/fr/The_Urantia_Book/110#p0_1))
@@ -51,3 +75,28 @@ Nous ne devons pas confondre la mission et l’influence de notre Esprit-Dieu qu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'alter ego et l'esprit intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="pr-2">Esprit et âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

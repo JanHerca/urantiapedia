@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="pr-2">Le Suaire de Turin – Une mise à jour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > L’unité de l’expérience religieuse parmi les membres d’un groupe social ou racial dérive de l’identité de nature des fragments de Dieu qui habitent les individus. C’est ce divin dans les hommes qui donne naissance à l’intérêt altruiste qu’ils portent au bienêtre des autres hommes. Mais, du fait que la personnalité est unique — deux mortels ne sont jamais pareils — il s’ensuit inévitablement que jamais deux êtres humains ne peuvent interpréter de la même manière les directives et les incitations de l’esprit divin qui vit dans leur mental
@@ -38,3 +59,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="pr-2">Le Suaire de Turin – Une mise à jour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

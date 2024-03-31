@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:52:49.984Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Developing_Saga_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La saga en développement des Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/About_the_Universal_Father">
+          <span class="pr-2">À propos du Père Universel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le défi religieux de l'époque
@@ -115,3 +139,28 @@ Mais il faut veiller à ne pas se tromper. Si les concepts et les idées, comme 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Developing_Saga_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La saga en développement des Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/About_the_Universal_Father">
+          <span class="pr-2">À propos du Père Universel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

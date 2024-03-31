@@ -9,6 +9,30 @@ dateCreated: 2022-09-07T12:15:17.611Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 David Kantor<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_response_to_some_of_the_Gardner_criticisms">
+          <span class="pr-2">Une réponse à certaines critiques de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. (<a id="a13_158"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
@@ -127,3 +151,28 @@ Ces questions se situent aux frontières de la croissance et du service. Jésus 
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_response_to_some_of_the_Gardner_criticisms">
+          <span class="pr-2">Une réponse à certaines critiques de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

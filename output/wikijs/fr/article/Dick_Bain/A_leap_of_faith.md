@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Dick Bain<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Tarichea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tarichée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Those_Christians">
+          <span class="pr-2">Ces chrétiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comment se fait-il qu’à l’âge de 16 ans je me sois retrouvé à débattre de l’existence de Dieu ? Peut-être parce que personne n’a essayé de m’endoctriner avec sa théologie – Dieu merci. Mais j'ai parfois eu une incitation (lire crise) qui m'a motivé à demander de l'aide à une puissance supérieure. Il m’est venu à l’esprit à une de ces occasions que je n’étais pas sûr de croire en un tel être. Comment pourrais-je prier quelqu’un en qui je ne croyais pas ? Après un long dialogue intérieur, j'ai décidé qu'il était plus logique (et bien plus réconfortant) de croire en un univers créé qu'en un univers qui a toujours existé. Il y avait donc un créateur. Oui, j'ai dû justifier ma décision avec une faible logique, mais c'était pour moi un acte de foi.
@@ -51,3 +75,28 @@ Mon voyage avec _Le Livre d'Urantia_ a commencé par la curiosité, est passé p
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Tarichea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tarichée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Those_Christians">
+          <span class="pr-2">Ces chrétiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

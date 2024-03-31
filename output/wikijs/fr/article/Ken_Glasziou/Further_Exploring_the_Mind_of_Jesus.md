@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T07:02:53.956Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Spiritual_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communion spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="pr-2">D'accord avec votre adversaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, ... se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » (<a id="a13_277"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
@@ -290,3 +314,28 @@ En fait, même l’idée que nos vies sont, ou même devraient être, des exempl
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Spiritual_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communion spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="pr-2">D'accord avec votre adversaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

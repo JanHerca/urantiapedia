@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Dick Bain<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort éternelle : un nouvel avenir pour la conscience humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis de nombreuses années, les physiciens se disputent sur la question de savoir si les neutrinos ont ou non une masse. Bien que ce ne soit pas le genre de chose qui provoquerait une querelle de famille autour de la table pour la plupart d’entre nous, cela a de profondes implications pour la cosmologie.
@@ -50,6 +71,28 @@ L’histoire géologique « récente » d’Urantia, telle qu’elle est présen
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_3/page17.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort éternelle : un nouvel avenir pour la conscience humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

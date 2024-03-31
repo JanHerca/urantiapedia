@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Alpha_and_the_Omega">
+          <span class="pr-2">L'Alpha et l'Omega</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Souvent, lorsque je dois faire quelque chose que je préférerais reléguer au panier du « trop dur », mon estomac réagit par des « nausées » réelles plutôt que symboliques. Cela s'est produit lorsqu'Ann Bendall m'a remis environ 300 pages de littérature sur le symbolisme et la religion. Le symbolisme ne figurait pas sur ma liste de passe-temps favoris. Cependant, j'étais conscient que _Le Livre d'Urantia_ avait des choses importantes à dire, pour et contre le symbolisme :
@@ -49,3 +70,25 @@ Il est sûrement temps de changer. Nous avons tous du travail à accomplir, mais
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Alpha_and_the_Omega">
+          <span class="pr-2">L'Alpha et l'Omega</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

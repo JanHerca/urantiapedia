@@ -9,6 +9,30 @@ dateCreated: 2023-01-22T21:33:20.280Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Ken Glasziou<br>© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Créationnisme, évolution et livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="pr-2">Pourquoi est-il nécessaire qu'il y ait une erreur dans Le Livre d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les zircons sont de minuscules cristaux qui se forment dans certains types de roches. Ils sont extrêmement durables et ont une capacité remarquable à enregistrer de nombreux événements géologiques en ajoutant d’autres coquilles de croissance à leur surface tout en préservant intact le cœur du cristal. Et parce qu’ils contiennent l’élément radioactif à longue durée de vie, l’uranium, ils contiennent également une horloge intégrée grâce à laquelle les différentes coquilles de la structure cristalline peuvent être datées avec précision.
@@ -37,3 +61,28 @@ C'est le genre de techniques utilisées par la science moderne pour dater de man
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Créationnisme, évolution et livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="pr-2">Pourquoi est-il nécessaire qu'il y ait une erreur dans Le Livre d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

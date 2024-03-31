@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Limitations_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les limites de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="pr-2">Le but et les limites de la cinquième révélation d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quel plaisir ce serait pour notre Ajusteur de Pensée si nous étions ouverts d'esprit lorsque nous prenons pour la première fois le _Livre d'Urantia_, mais la réalité est que très peu d'entre nous le sont ! Nous lirons le livre à travers notre système de filtrage perceptuel qui traduira son contenu en accord avec nos idées actuelles de vérité et de réalité.
@@ -104,3 +128,28 @@ Le cheminement de l'étudiant devient une aventure de foi dans laquelle nous avo
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Limitations_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les limites de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="pr-2">Le but et les limites de la cinquième révélation d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

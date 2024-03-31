@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Well_Has_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eh bien, n'est-ce pas ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Leslie_Wetherhead/Jesus_Respect_for_Our_Personality">
+          <span class="pr-2">Le respect de Jésus pour notre personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _La croissance spirituelle procure une joie durable, une paix qui dépasse toute compréhension._ » (<a id="a13_103"></a>[LU 100:4.3](/fr/The_Urantia_Book/100#p4_3))
@@ -36,3 +60,28 @@ Ce n’est pas la philosophie du progrès acceptée par notre culture. Pour ceux
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Well_Has_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eh bien, n'est-ce pas ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Leslie_Wetherhead/Jesus_Respect_for_Our_Personality">
+          <span class="pr-2">Le respect de Jésus pour notre personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

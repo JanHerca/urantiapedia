@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il est temps de changer davantage ? Symboles, Cultes et Le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="pr-2">Communion ininterrompue avec notre Ajusteur de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Condensé de « La route moins fréquentée ». par M. Scott Peck_
@@ -31,3 +55,28 @@ Adam et Ève recherchaient la voie la plus facile : manger du fruit qui confère
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il est temps de changer davantage ? Symboles, Cultes et Le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="pr-2">Communion ininterrompue avec notre Ajusteur de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

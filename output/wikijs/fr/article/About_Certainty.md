@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/All_things_work_together_for_good_despite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toutes choses concourent au bien, malgré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Good_and_evil">
+          <span class="pr-2">Le bien et le mal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Avant l'effusion de Jésus, son frère Créateur-Fils, Emmanuel, a conseillé : « Dans cette effusion, vous vous êtes volontairement dépouillé de tout soutien extra-planétaire et de toute assistance spéciale.
@@ -43,3 +67,28 @@ Personne n'est à aucun moment dérangé par l'attitude d'un voisin lorsque cett
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/All_things_work_together_for_good_despite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toutes choses concourent au bien, malgré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Good_and_evil">
+          <span class="pr-2">Le bien et le mal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

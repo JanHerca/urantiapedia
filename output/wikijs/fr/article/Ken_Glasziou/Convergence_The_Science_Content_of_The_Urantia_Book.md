@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T10:32:47.751Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Faith_Sons_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foi, Fils de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="pr-2">Réflexions sur les dangers de la présomption</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Éditorial
@@ -341,3 +365,28 @@ En d’autres termes, il est dit que la moisson de la croyance est la foi ; que 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Faith_Sons_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foi, Fils de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="pr-2">Réflexions sur les dangers de la présomption</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

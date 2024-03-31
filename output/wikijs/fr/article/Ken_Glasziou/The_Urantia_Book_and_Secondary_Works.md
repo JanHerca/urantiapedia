@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moralité, motif et vertu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Au-delà du fondamentalisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, ***qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme***. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour._ » (<a id="a13_733"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
@@ -75,3 +99,28 @@ Je crois que le plus grand potentiel pour diffuser le message essentiel sur la v
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moralité, motif et vertu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Au-delà du fondamentalisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

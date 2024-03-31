@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Ordination_Sermon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le sermon d'ordination</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Prayer">
+          <span class="pr-2">Prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Ce que je vous demande, mes apôtres, c’est l’*unité spirituelle —* dont vous pouvez faire l’expérience dans la joie de l’union de votre consécration à faire, de tout cœur, la volonté de mon Père qui est aux cieux. **Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement semblables**. » (<a id="a13_370"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1))
@@ -50,3 +74,28 @@ Vous ne pouvez pas être ne serait-ce qu’un peu fanatique à l’égard d’un
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Ordination_Sermon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le sermon d'ordination</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Prayer">
+          <span class="pr-2">Prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

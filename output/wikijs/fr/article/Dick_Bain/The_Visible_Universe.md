@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Dick Bain<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Instructions d'une autorité supérieure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_Gardner_Goofs">
+          <span class="pr-2">En savoir plus sur les gaffes de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans le [Fascicule 12](/fr/The_Urantia_Book/12) du _Le Livre d'Urantia_, « L'Univers des Univers », l'auteur, un Perfecteur de Sagesse, nous donne quelques indices sur la structure et la taille de notre univers. À un autre endroit du livre, nous sommes informés que ces informations pourraient un jour devenir obsolètes à mesure que nous progressons dans notre compréhension de l’univers. [^1] Ces informations sont-elles désormais obsolètes, quelque 64 ans après qu'elles nous ont été fournies ? Les découvertes de nos astronomes ont-elles discrédité la taille de l'univers visible donnée dans _Le Livre d'Urantia_ ?
@@ -73,6 +97,31 @@ Cette spéculation sur la taille de l'univers est une étape nécessaire pour é
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Instructions d'une autorité supérieure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_Gardner_Goofs">
+          <span class="pr-2">En savoir plus sur les gaffes de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Robert Walker<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Uncertainties">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les incertitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Without_or_Within">
+          <span class="pr-2">À l'extérieur ou à l'intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a au moins douze pages dans le _Livre d'Urantia_ qui font mention de rêves depuis le rêve fantôme ordinaire de l'homme ancien jusqu'aux rêves extraordinaires de Joseph et de l'apôtre Pierre. La plupart de ces références démystifient le rêve ordinaire quant à ses pouvoirs prophétiques tout en reconnaissant leur influence supermatérialisatrice. Les rêves sont critiqués parce qu’ils sont utilisés pour suggérer bien plus sur la vie qu’ils n’en contiennent – comme les hommes ont tendance à le faire. « _L’interprétation des rêves est largement un système sans base et superstitieux de spéculations ignorantes et fantastiques._ » (<a id="a13_635"></a>[LU 150:3.9](/fr/The_Urantia_Book/150#p3_9)) Un certain tri des implications des références apparemment disparates aux rêves dans le livre s'impose.
@@ -56,3 +80,28 @@ Ainsi, il semblerait que le choix intellectuel d’accepter tout système ration
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Uncertainties">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les incertitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Without_or_Within">
+          <span class="pr-2">À l'extérieur ou à l'intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

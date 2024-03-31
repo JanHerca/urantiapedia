@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Not_If_But_When">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas si, mais quand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="pr-2">Culpabilité parentale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je vois tellement d’arguments et de présentations de la part de nous, religieux « informés », de ceux qui peuvent citer des chapitres et des versets sur les termes « révélation » et « évolution », et qui consacrent beaucoup de temps, d’énergie et d’argent à défendre ou à remettre en question si _Le Livre d'Urantia_ est l'un, ou l'autre, ou les deux.
@@ -67,3 +91,28 @@ Qu'étions-nous censés faire ? Il était clairement demandé aux apôtres de pr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Not_If_But_When">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas si, mais quand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="pr-2">Culpabilité parentale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-8T14:13:8Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi Jésus est-il venu sur Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="pr-2">État stable, Big Bang ou architectes du Maître Univers ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _L’origine de la moralité se trouve dans la raison de la conscience de soi. La moralité est superanimale, mais entièrement évolutionnaire. L’évolution humaine embrasse dans son déroulement toutes les dotations qui ont précédé le don des Ajusteurs et l’effusion de l’Esprit de Vérité._ » (<a id="a13_292"></a>[LU 5:5.1](/fr/The_Urantia_Book/5#p5_1))
@@ -52,3 +76,28 @@ Au bureau australien d'Innerface International, nous serons heureux de recevoir 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi Jésus est-il venu sur Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="pr-2">État stable, Big Bang ou architectes du Maître Univers ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

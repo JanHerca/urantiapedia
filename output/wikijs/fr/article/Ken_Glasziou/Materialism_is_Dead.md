@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Imagine">
+          <span class="pr-2">Imaginez !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Si la personnalité de l'homme peut expérimenter l'univers, il existe un esprit divin et une véritable personnalité quelque part cachés dans cet univers. »
@@ -184,6 +205,28 @@ D'où l'on peut discerner que celui qui a écrit les Cahiers d'Urantia était pl
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Imagine">
+          <span class="pr-2">Imaginez !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

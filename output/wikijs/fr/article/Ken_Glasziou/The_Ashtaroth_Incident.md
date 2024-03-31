@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Learning_in_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre en Phénicie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Process_Theology_and_the_Urantia_Papers">
+          <span class="pr-2">La Théologie du Processus et les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au moment de cet incident, les apôtres et les évangélistes parcouraient les villes et villages de la Décapole, une région située à l’est du Jourdain et de la mer de Galilée. Ils se déplaçaient en petits groupes et parfois seuls. Jésus se trouvait dans une ville nommée Gamala, d'où l'apôtre Jean était parti la veille pour enseigner au village d'Ashtaroth.
@@ -48,3 +72,28 @@ Plus tard, Jean est sorti de ses tendances antérieures, pour finalement devenir
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Learning_in_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre en Phénicie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Process_Theology_and_the_Urantia_Papers">
+          <span class="pr-2">La Théologie du Processus et les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

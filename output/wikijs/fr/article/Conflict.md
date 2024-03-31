@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Nothing_but_the_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rien que la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions">
+          <span class="pr-2">Quarante-huit chromosomes ? Ou des conclusions hâtives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Tout conflit est mauvais. » (<a id="a13_31"></a>[LU 111:4.11](/fr/The_Urantia_Book/111#p4_11)) Ainsi annonce la Cinquième Révélation d'Époque. Pourtant, tout autour de nous, nous observons les dévots du Livre d'Urantia en conflit.
@@ -29,3 +53,28 @@ N'est-il pas étonnant que nous qui connaissons la parole de Jésus parvenons to
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Nothing_but_the_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rien que la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions">
+          <span class="pr-2">Quarante-huit chromosomes ? Ou des conclusions hâtives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

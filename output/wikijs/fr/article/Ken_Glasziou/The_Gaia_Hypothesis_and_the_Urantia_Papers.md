@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Necessity_for_Going_Forward_Backwardly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nécessité d’aller de l’avant – en arrière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Did_You_Know">
+          <span class="pr-2">Le saviez-vous ? Les étoiles, les galaxies et le Big Bang</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'hypothèse Gaia, qui perçoit notre planète comme un organisme vivant complexe et autorégulé, est née des spéculations de James Lovelock[^1] lorsqu'il était employé comme consultant par la NASA sur des questions liées à la recherche de vie sur Mars.
@@ -59,6 +83,31 @@ Au fil du temps, les excès des enthousiastes de Gaia passeront, et un concept G
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_2/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Necessity_for_Going_Forward_Backwardly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nécessité d’aller de l’avant – en arrière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Did_You_Know">
+          <span class="pr-2">Le saviez-vous ? Les étoiles, les galaxies et le Big Bang</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

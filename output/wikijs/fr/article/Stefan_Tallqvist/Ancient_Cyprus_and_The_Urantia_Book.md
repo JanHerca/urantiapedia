@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Stefan Tallqvist<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Discourse_on_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un discours sur la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="pr-2">Diffamation de caractère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Stefan écrit : Chers amis,
@@ -59,3 +83,28 @@ Stefan conclut qu'il trouve que toutes les informations archéologiques sont en 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Discourse_on_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un discours sur la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="pr-2">Diffamation de caractère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

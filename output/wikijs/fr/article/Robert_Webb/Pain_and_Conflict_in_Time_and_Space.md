@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Robert Webb<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Loups ravisseurs, porcs et autres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos, neutrons et étoiles à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La cause profonde de la douleur et des conflits dans le monde actuel du temps et de l’espace dans lequel nous vivons est très simple. De minuscules particules matérielles existent en tant que constituants des atomes. L'espace est une étendue tridimensionnelle dans laquelle se trouvent des particules matérielles. Le temps est une séquence de moments au cours desquels des événements se produisent. Les physiciens ont montré que deux particules matérielles ne peuvent pas occuper le même espace au même instant. Au niveau macro, lorsque deux corps tentent d’occuper le même moment de l’espace-temps, un conflit sera automatiquement généré, ce qui entraînera de la douleur.
@@ -34,3 +58,28 @@ L’univers physique et spatial dans lequel nous vivons a été créé par Dieu 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Loups ravisseurs, porcs et autres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos, neutrons et étoiles à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

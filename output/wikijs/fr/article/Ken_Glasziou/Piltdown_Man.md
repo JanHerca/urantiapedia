@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/100_stable_elements">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">100 éléments stables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Prophesy">
+          <span class="pr-2">Sur « Prophétie »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un sujet très actuel d’intérêt public et scientifique dans les années 1930 était le concept du « chaînon manquant », les preuves fossiles qui relieraient incontestablement l’évolution humaine à celle de nos « cousins », la famille des singes.
@@ -26,3 +50,28 @@ Dans _A Scientific Forgery_ (1990), qui n'était pas disponible pour notre artic
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/100_stable_elements">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">100 éléments stables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Prophesy">
+          <span class="pr-2">Sur « Prophétie »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

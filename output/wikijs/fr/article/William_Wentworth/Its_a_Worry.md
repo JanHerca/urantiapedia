@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 William Wentworth<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'adversité et la valeur spirituelle de la déception</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="pr-2">Avons-nous tous une âme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 S’il y a une seule question qui préoccupe l’esprit des lecteurs du Livre d’Urantia, la question de savoir comment attirer plus de lecteurs, ou alternativement comment diffuser les enseignements, devrait occuper une place de choix. Nous semblons accorder plus d’attention à cette question qu’à presque toute autre. Partout où les lecteurs se réunissent, lors de groupes d’étude, de conférences ou dans des situations sociales quotidiennes, la conversation semble généralement tourner autour de cette question. Et même si aucune enquête n’a été tentée, il y a fort à parier que les lecteurs ont écrit plus de mots sur ce sujet que sur tout autre. La question persiste à se poser dans tous nos esprits. Comment allons-nous présenter la Cinquième Révélation d’Époque au peuple d’Urantia ? Comment la population de notre planète peut-elle prendre connaissance des informations les plus avancées jamais mises à notre disposition ? Que pouvons-nous faire pour aider les gens à prendre à cœur le message d’espérance que contient l’Apocalypse ?
@@ -37,3 +61,28 @@ Néanmoins, même pour Jésus lui-même, « tout doit attendre l’arrivée de s
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'adversité et la valeur spirituelle de la déception</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="pr-2">Avons-nous tous une âme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

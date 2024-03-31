@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="pr-2">Erreurs dans la science des fascicules d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La spiritualité indique immédiatement votre proximité de Dieu et la mesure de votre utilité pour vos compagnons. La spiritualité rehausse l’aptitude à découvrir la beauté dans les choses, à reconnaitre la vérité dans les significations et à trouver la bonté dans les valeurs. Le développement spirituel est déterminé par cette capacité et il est directement proportionnel à l’élimination des aspects égoïstes de l’amour.
@@ -29,3 +50,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="pr-2">Erreurs dans la science des fascicules d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ron Cyr<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Its_a_Worry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">C'est une inquiétude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel">
+          <span class="pr-2">Le véritable Évangile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En tant que lecteur du _Livre d'Urantia_, il me semble qu'Urantia est, et a été, ce que je peux appeler un « puisard génétique » causé par la rébellion de Lucifer et la chute de la mission adamique. On nous raconte comment cet état de choses a affecté Jésus émotionnellement lorsqu'il a été confronté « la vue de ces mortels accablés, hommes, femmes et enfants, souffrant, en grande partie, par suite des fautes et des transgressions commises par ses propres Fils auxquels il avait confié l’administration de l’univers, toucha particulièrement le cœur humain de Jésus et mit au défi la divine miséricorde de ce bienveillant Fils Créateur. » (<a id="a13_642"></a>[LU 145:3.7](/fr/The_Urantia_Book/145#p3_7))
@@ -32,3 +56,28 @@ Alors, Urantia n’est-elle pas aujourd’hui confrontée à une situation dans 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Its_a_Worry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">C'est une inquiétude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel">
+          <span class="pr-2">Le véritable Évangile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

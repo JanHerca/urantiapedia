@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur les dangers de la présomption</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce que nous appelons vaguement « religion » dans notre société excite certaines personnes et d’autres rebutent. Ce que je trouve particulièrement intéressant, c’est qu’autant de bonnes personnes sont découragées que excitées. Il ne sépare en aucun cas les moutons des chèvres.
@@ -42,3 +63,25 @@ C’est difficile, la chose la plus difficile au monde à faire. C’est si diff
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur les dangers de la présomption</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

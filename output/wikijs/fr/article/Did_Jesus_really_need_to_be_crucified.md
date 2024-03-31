@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:22:32.518Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les secrets de la spiritualité de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="pr-2">Ce que dit la Révélation Urantia à propos de l'Esprit de Vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -135,3 +159,28 @@ Toutefois, le remède est entre nos mains. Quand un nombre suffisant d’entre n
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les secrets de la spiritualité de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="pr-2">Ce que dit la Révélation Urantia à propos de l'Esprit de Vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

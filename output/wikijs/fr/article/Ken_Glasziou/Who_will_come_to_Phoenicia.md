@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jesus_Discourse_on_True_Religion">
+          <span class="pr-2">Discours de Jésus sur la religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au moment de « nourrir les cinq mille », la renommée de Jésus en tant que guérisseur et faiseur de miracles avait amené une partie importante de la nation juive à être prête à se lever et à le suivre jusqu'à la mort ou à la gloire en tant que leur Messie, celui qui chasserait les Romains et restaurerait le royaume légendaire de David, centré à Jérusalem.
@@ -75,3 +96,25 @@ Les révélateurs expriment également l’espoir supplémentaire que leur rév�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jesus_Discourse_on_True_Religion">
+          <span class="pr-2">Discours de Jésus sur la religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

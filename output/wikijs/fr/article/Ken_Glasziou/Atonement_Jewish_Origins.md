@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand la Révélation d'époque n'est-elle pas d'époque ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="pr-2">L'Etre Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Jour des Expiations, avec son rituel impressionnant, a lieu le 10e jour du 7e mois (Tishi) du calendrier juif et constitue à la fois le point culminant et le couronnement du culte sacrificiel dans l'Ancien Testament. Décrite en détail dans le Pentateuque du Lévitique, la cérémonie implique à la fois le jeûne et l'abattage de deux chèvres. L’un d’eux est offert en sacrifice de sang pour purifier le « Lieu Saint » dans le Temple et l’autel des holocaustes. Le second devient le bouc émissaire des péchés de la nation.
@@ -53,3 +77,28 @@ Son grand attrait est qu’il nous permet de « nous tirer d’affaire » de nos
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand la Révélation d'époque n'est-elle pas d'époque ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="pr-2">L'Etre Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

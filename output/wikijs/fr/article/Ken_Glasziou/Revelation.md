@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Personality_of_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Truth">
+          <span class="pr-2">Sur la vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si la révélation doit exalter et élever les religions de l'évolution, alors de telles visites divines doivent décrire des enseignements qui ne sont pas trop éloignés de la pensée et des réactions de l'époque à laquelle ils sont présentés. Ainsi, la révélation doit et doit toujours rester en contact avec l'évolution. La religion de la révélation doit toujours être limitée par la capacité de réceptivité de l'homme.
@@ -41,3 +65,28 @@ Mais la plus grande erreur de l’enseignement sur les Écritures est la doctrin
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Personality_of_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Truth">
+          <span class="pr-2">Sur la vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

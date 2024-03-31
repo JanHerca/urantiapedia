@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/More_on_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="pr-2">Le futur. Ce que nous dit le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pas de mouvement, pas de temps. Cela semble fondamental. Même en considérant le temps comme une mesure de la séquentialité, s’il n’y a pas de mouvement, comment peut-il y avoir une séquentialité ? Mais comment peut-il y avoir du mouvement s’il n’y a rien de mobile ?
@@ -61,3 +85,28 @@ Si cela peut vous consoler, alors peut-être y a-t-il du réconfort dans le fait
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/More_on_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="pr-2">Le futur. Ce que nous dit le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

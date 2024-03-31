@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:33:39.898Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La « Vie de Jésus du Livre d'Urantia est-elle dépassée ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="pr-2">La matière noire et un collier de perles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La quatrième partie des Cahiers d'Urantia contient plus de 700 pages où nous pouvons apprendre comment Jésus pensait et vivait, et comment sa vie même révélait la nature du Dieu qu'il appelait Père. Cependant, pour presque chacun d’entre nous, mémoriser le texte de ces 700 pages constitue une tâche impossible. Heureusement, les révélateurs ont fourni un point de départ, une condensation de l’enseignement de Jésus dans un document qu’ils déclarent être « une philosophie maîtresse de la vie ». Ils présentent cela comme le sermon d'ordination aux douze. Ensuite, en couplant ce sermon avec les paraboles pédagogiques préférées de Jésus, un résumé condensé émerge qui peut servir de cadre pour construire une compréhension approfondie de la révélation de Jésus.
@@ -200,3 +224,28 @@ La vie de Jésus est donc un modèle de vie pour tous ceux de n’importe quelle
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La « Vie de Jésus du Livre d'Urantia est-elle dépassée ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="pr-2">La matière noire et un collier de perles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dick Bain<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi nous avons besoin de connaître « La vie terrestre de Jésus et comment il l'a vécue ».</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Intolerance">
+          <span class="pr-2">Intolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Maintenant que j'ai votre attention.  Je suis sûr que ceux d’entre nous dans la communauté d’Urantia donneraient un NON véhément à une telle idée, mais le problème est qu’il y en a d’autres qui ne sont pas des étudiants du _Le Livre d’Urantia_ qui donneraient une réponse différente. Supposons que le dernier groupe Heaven's Gate de San Diego ait récemment mentionné _Le Livre d'Urantia_ sur son site Web ou que le livre ait été trouvé dans sa maison de location après son suicide collectif. Peut-être que certains journalistes d’investigation auraient fait une enquête approfondie sur la communauté Urantia. Leur exposé nous dépeindrait-il comme une secte dangereuse ou étrange ?
@@ -79,3 +103,28 @@ Il existe de nombreuses bonnes raisons d’être au service de nos semblables mo
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi nous avons besoin de connaître « La vie terrestre de Jésus et comment il l'a vécue ».</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Intolerance">
+          <span class="pr-2">Intolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paving_the_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ouvrir la voie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Are_You_a_Truth_Seeker">
+          <span class="pr-2">Êtes-vous un chercheur de vérité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 à partir de <a id="a13_12"></a>[Urantia Paper 180, Sect. 5](/fr/The_Urantia_Book/180#p5).
@@ -96,3 +120,28 @@ Cela nous donne certainement quelque chose sur quoi travailler.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paving_the_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ouvrir la voie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Are_You_a_Truth_Seeker">
+          <span class="pr-2">Êtes-vous un chercheur de vérité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

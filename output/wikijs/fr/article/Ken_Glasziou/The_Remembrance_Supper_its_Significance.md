@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/How_Would_You_Label_This_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Comment qualifieriez-vous cet homme ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="pr-2">L’Univers est amical ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’attitude de nombreux lecteurs du Livre d’Urantia à l’égard du souper du souvenir souffre d’un préconditionnement dérivé de l’association du souper par l’Église chrétienne avec leur doctrine du pardon des péchés par la mort sacrificielle de Jésus. Mais les auteurs des Cahiers d'Urantia, bien que pleinement conscients de cette difficulté, accordent néanmoins une grande importance à la signification symbolique de la dernière Cène pour tous ceux qui suivraient Jésus.
@@ -86,3 +110,28 @@ Une nouvelle ère s’ouvre réellement. Il est temps de « s’activer ». Nous
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/How_Would_You_Label_This_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Comment qualifieriez-vous cet homme ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="pr-2">L’Univers est amical ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

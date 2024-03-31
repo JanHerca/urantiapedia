@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 © Marion Steward<br>1998 La bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Forbid_him_not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ne lui interdisez pas ! »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="pr-2">Les messages cachés dans le Livre d'Urantia — L'Art</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 [Présenté à la Conférence australienne et néo-zélandaise des lecteurs du Livre d'Urantia, Sydney, 1997]
@@ -81,3 +105,28 @@ Où sont donc les Filles de Dieu ? Ils sont partout – les êtres spirituels cr
 
 * Cet article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Forbid_him_not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ne lui interdisez pas ! »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="pr-2">Les messages cachés dans le Livre d'Urantia — L'Art</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

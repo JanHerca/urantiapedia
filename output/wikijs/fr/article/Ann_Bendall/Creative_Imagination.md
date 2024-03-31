@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'aube de l'imagination créatrice : l'alter ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="pr-2">La magie du placebo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Après la dernière lecture du _Le Livre d’Urantia_, la résolution de cette nouvelle année a continué à être que c’était définitivement l’année où j’allais essayer consciencieusement et de manière concertée de suivre l’une des deux dernières suggestions de la Commission Révélatoire : relever le défi... pour parvenir à une meilleure communication avec le Moniteur divin qui habite dans l’esprit humain. (<a id="a13_403"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
@@ -48,3 +72,28 @@ J'ai tellement envie d'être la vérité. « _Cependant, jamais l’homme ne peu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'aube de l'imagination créatrice : l'alter ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="pr-2">La magie du placebo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

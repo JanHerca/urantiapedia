@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Love_Your_Enemies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aimez vos ennemis !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/En_Passant">
+          <span class="pr-2">En Passant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'âme évolutive de l'homme mortel est créée à partir de « possibilités » préexistantes au sein du Suprême (voir <a id="a13_112"></a>[LU 117:5.11](/fr/The_Urantia_Book/117#p5_11)).
@@ -58,3 +82,28 @@ Mais même si nous nous éloignons pour toujours de leur présence, nos âmes po
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Love_Your_Enemies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aimez vos ennemis !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/En_Passant">
+          <span class="pr-2">En Passant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

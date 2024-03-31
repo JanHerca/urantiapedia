@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vie sur la planète Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="pr-2">La Partie 4 du Livre d'Urantia est la « révélation réelle et idéale » mentionnée dans le Fascicule 1.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Le règne des Très Hauts ... est destiné à promouvoir, parmi *tous* les hommes, le plus grand bien pour le plus grand nombre et pour une durée aussi longue que possible. » (<a id="a13_176"></a>[LU 134:5.4](/fr/The_Urantia_Book/134#p5_4))
@@ -70,3 +94,28 @@ D’une certaine manière, les lecteurs du Livre d’Urantia ont traité les fas
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vie sur la planète Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="pr-2">La Partie 4 du Livre d'Urantia est la « révélation réelle et idéale » mentionnée dans le Fascicule 1.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

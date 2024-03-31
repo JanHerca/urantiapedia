@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Sydney Harris<br>© 1998 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La paternité du Livre d’Urantia – Autres aspects</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Gideonism">
+          <span class="pr-2">Gidéonisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 C’est un fait que de nombreuses expressions bibliques d’usage courant sont utilisées de manière incorrecte. « Œil pour œil et dent pour dent », par exemple, est invariablement mal compris par ceux qui l’utilisent comme excuse pour des représailles, alors qu’il s’agit à l’origine d’un appel à la justice.
@@ -43,3 +67,28 @@ D'un point de vue psychologique, le philanthrope a plus besoin des pauvres que d
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La paternité du Livre d’Urantia – Autres aspects</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Gideonism">
+          <span class="pr-2">Gidéonisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="pr-2">Fenêtres d'opportunité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Au royaume de la fraternité croyante de ceux qui aiment la vérité et connaissent Dieu, la règle d’or revêt des qualités vivantes de réalisation spirituelle sur ces niveaux supérieurs d’interprétation qui amènent les fils mortels de Dieu à considérer cette injonction du Maitre comme requérant d’eux qu’ils se situent par rapport à leurs semblables de telle manière que ceux-ci recevront **le plus grand bien possible** de leur contact de croyants avec eux. Ceci est l’essence de la vraie religion : que vous aimiez votre prochain comme vous-même.
@@ -36,3 +57,25 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_2/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="pr-2">Fenêtres d'opportunité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

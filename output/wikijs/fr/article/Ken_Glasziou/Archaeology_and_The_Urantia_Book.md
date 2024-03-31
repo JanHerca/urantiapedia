@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Remarques sur le suicide</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Tarichea">
+          <span class="pr-2">Tarichée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a plus de cent soixante éléments d'intérêt archéologique – noms de lieux ou informations sur des lieux et des personnes – contenus dans la Partie 4 du _Le Livre d'Urantia_. Les révélateurs déclarent que leur mandat exigeait qu’ils utilisent des sources humaines autant que possible. Pour la partie 4, plus de 2 000 sources de ce type ont été utilisées. (<a id="a13_359"></a>[LU 121:8.13](/fr/The_Urantia_Book/121#p8_13)) Il s'ensuit que nous pourrons peut-être découvrir de nombreuses sources d'informations archéologiques dans la partie 4 qui concernent la Palestine du premier siècle. Au fil des années, un certain nombre de lecteurs du Livre d'Urantia se sont intéressés à la localisation de ces sources.
@@ -32,3 +56,28 @@ L'article qui suit concerne la localisation de Tarichée sur la mer de Galilée.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Remarques sur le suicide</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Tarichea">
+          <span class="pr-2">Tarichée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

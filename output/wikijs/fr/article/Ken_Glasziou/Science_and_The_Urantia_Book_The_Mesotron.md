@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une meilleure communication avec mon ajusteur de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La cohésion des protons chargés et des neutrons non chargés du noyau de l’atome est assurée par la fonction alternative du mésotron, particule de matière 180 fois plus lourde que l’électron. Sans ce dispositif, la charge électrique portée par les protons disloquerait le noyau atomique.
@@ -46,3 +67,25 @@ Le mandat confié aux révélateurs permettait « de fournir des renseignements 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une meilleure communication avec mon ajusteur de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du XXIe siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Q_P_Quid/Here_and_There">
+          <span class="pr-2">Ici et là</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La cosmologie matérielle du monde biblique préscientifique était une vision simpliste d’une terre plate surmontée d’un firmament comportant des trous (étoiles) à travers lesquels brillait la lumière du ciel. Notre cosmologie matérielle scientifique quadridimensionnelle actuelle, dans laquelle les distances sont mesurées en années-lumière, indique à quel point l’astronomie biblique est dépassée. Même les fondamentalistes religieux d’aujourd’hui ont abandonné une cosmologie matérielle plate.
@@ -32,3 +56,28 @@ Ici, comme dans tant d’autres domaines de l’illumination spirituelle, le Liv
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du XXIe siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Q_P_Quid/Here_and_There">
+          <span class="pr-2">Ici et là</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

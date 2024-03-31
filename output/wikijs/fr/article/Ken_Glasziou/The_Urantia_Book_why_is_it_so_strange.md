@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Intolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Intolérance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_the_gospel_of_the_kingdom">
+          <span class="pr-2">En savoir plus sur l'Évangile du Royaume</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis longtemps, il y a un groupe de lecteurs du Livre d'Urantia qui réfléchissent au problème de savoir pourquoi le livre a été écrit d'une manière si étrange.
@@ -104,3 +128,28 @@ Alors, qu’est-ce qui doit être proclamé ? Voici quelques-uns de ses composan
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Intolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Intolérance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_the_gospel_of_the_kingdom">
+          <span class="pr-2">En savoir plus sur l'Évangile du Royaume</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T19:36:22.107Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="pr-2">Les univers et la vie peuvent-ils s'auto-générer à partir du néant ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -186,3 +207,25 @@ En répondant à une question sur l’âme, Jésus dit :
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="pr-2">Les univers et la vie peuvent-ils s'auto-générer à partir du néant ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

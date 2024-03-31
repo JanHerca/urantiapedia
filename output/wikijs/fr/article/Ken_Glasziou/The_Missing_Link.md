@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand un « Cœur » n'est-il pas un « Cœur ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="pr-2">Cœur – l'Alpha et l'Oméga de la Spiritualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Condensé de Jacob Needleman, « Le christianisme perdu. Un voyage de redécouverte au centre de l’expérience chrétienne. »_
@@ -88,3 +112,28 @@ Selon Needleman, nettoyer l’intérieur afin que l’extérieur soit également
 
 * Jacob Needleman, « Le christianisme perdu. Un voyage de redécouverte au centre de l'expérience chrétienne », Element Books ; Nouvelle édition (février 1990)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand un « Cœur » n'est-il pas un « Cœur ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="pr-2">Cœur – l'Alpha et l'Oméga de la Spiritualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

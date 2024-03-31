@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_Following_Jesus">
+          <span class="pr-2">L'avenir : suivre Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > JÉSUS avait en Dieu une foi sublime et sincère. Il éprouva les hauts et les bas ordinaires de l’existence de mortel, mais il ne mit jamais religieusement en doute la certitude de la vigilance et des directives de Dieu. Sa foi était le fruit de la clairvoyance née de l’activité de la présence divine, son Ajusteur intérieur. Sa foi n’était ni traditionnelle, ni simplement intellectuelle ; elle était entièrement personnelle et purement spirituelle.
@@ -28,3 +49,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_Following_Jesus">
+          <span class="pr-2">L'avenir : suivre Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

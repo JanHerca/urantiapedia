@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T22:40:28.893Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Implementing_the_Teachings">
+          <span class="pr-2">Sur la mise en œuvre des enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cette présentation tente d'explorer les difficultés auxquelles a été confronté un groupe d'êtres célestes chargés de fournir une nouvelle révélation aux habitants d'une certaine planète défavorisée qu'ils appellent Urantia. Le but de la révélation ? Le peuple d'Urantia souffre non seulement d'un ensemble d'événements imprévus dans son histoire, mais aussi des effets de ces événements sur son rythme de progression évolutive – ce qui, dans des circonstances universelles plus normales, les aurait fait avancer beaucoup plus loin sur un chemin menant loin de leurs instincts comportementaux animaux congénitaux et vers une manière de coexistence beaucoup plus spirituelle.
@@ -284,6 +305,28 @@ Pour ceux qui croient sérieusement à la grande valeur et à la qualité de cet
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_2/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Implementing_the_Teachings">
+          <span class="pr-2">Sur la mise en œuvre des enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

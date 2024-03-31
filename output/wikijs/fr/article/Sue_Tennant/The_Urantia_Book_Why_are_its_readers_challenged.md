@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Sue Tennant<br>© 1994 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fonctions musicales et changement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="pr-2">Loups ravisseurs, porcs et autres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ proclame : La vie sur terre n'est que la pointe de l'iceberg ! Le drame de l'éternité ne fait que commencer ! Une aventure cosmique vous attend !
@@ -59,3 +83,28 @@ Il n'existe aucune autorité humaine, religieuse ou autre, par laquelle la véri
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_6/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fonctions musicales et changement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="pr-2">Loups ravisseurs, porcs et autres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

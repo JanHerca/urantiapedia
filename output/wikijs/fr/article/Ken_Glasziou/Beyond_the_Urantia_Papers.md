@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Great_Expectations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De grandes attentes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_an_Alternative_to_the_Big_Bang_a_Possibilty">
+          <span class="pr-2">Une alternative au Big Bang est-elle une possibilité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. » (<a id="a13_508"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
@@ -99,3 +123,28 @@ Le seul moyen sûr d’amener l’humanité à la religion de l’esprit est que
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Great_Expectations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De grandes attentes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_an_Alternative_to_the_Big_Bang_a_Possibilty">
+          <span class="pr-2">Une alternative au Big Bang est-elle une possibilité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

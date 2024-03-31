@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christianitys_Needs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les besoins du christianisme…</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Joie prophétique. Il sera peut-être difficile pour les mortels d'envisager cette phase de l'humour, mais nous tirons une satisfaction particulière de l'assurance « que toutes choses concourent au bien » – pour les esprits et les morontiens aussi bien que pour les mortels. Cet aspect de l’humour céleste naît de notre foi dans les soins excessifs et affectueux de nos supérieurs et dans la stabilité divine de nos Directeurs Suprêmes.
@@ -27,3 +48,25 @@ Jésus dit à Ganid, un jeune Indien : « Ganid, j’ai une confiance absolue da
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christianitys_Needs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les besoins du christianisme…</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T08:02:29.703Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_is_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience quantique, matérialisme et fascicules d'Urantia – Pourquoi le matérialisme est mort</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Perfection">
+          <span class="pr-2">De la perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Imaginez une autre planète sur laquelle la vie évolue. De petits morceaux de matériel auto-réplicant (équivalent à nos gènes) s'enferment par sélection naturelle dans une armure particulière qui présente une flexibilité comportementale. Une espèce en particulier – par coïncidence un organisme cérébral à deux pattes – devient capable de prouesses exceptionnelles comme communiquer avec subtilité, créer des chefs-d’œuvre artistiques, regarder la télévision, jouer à des jeux informatiques, etc.
@@ -45,3 +69,28 @@ S’il reste vrai que la certitude nous échappe, il reste également vrai que n
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_is_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience quantique, matérialisme et fascicules d'Urantia – Pourquoi le matérialisme est mort</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Perfection">
+          <span class="pr-2">De la perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

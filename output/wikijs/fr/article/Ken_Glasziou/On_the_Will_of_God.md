@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Faith_2">
+          <span class="pr-2">Sur la foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans les univers, Dieu le Père est, en puissance, le surcontrôleur de la matière, de l'esprit et de l'esprit. Ce n'est qu'au moyen de son vaste circuit de personnalité que Dieu traite directement avec les personnalités de sa vaste création de créatures volontaires, mais il n'est contactable (en dehors du Paradis) qu'en présence de ses entités fragmentées, la volonté de Dieu étant à l'étranger dans le univers.
@@ -54,3 +78,28 @@ Ce choix ne consiste pas tant dans la négation de la volonté de la créature :
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page12.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Faith_2">
+          <span class="pr-2">Sur la foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:09:13.189Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La présence intérieure de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="pr-2">Sur la philosophie de la philosophie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Faites aux autres ce que vous voudriez qu'ils vous fassent_ » ([Tobit 4:15](/fr/Bible/Tobit/4#v15); [Matt 7:12](/fr/Bible/Matthew/7#v12); [Luc 6:3](/fr/Bible/Luke/6#v3) ; <a id="a13_176"></a>[LU 131:2.11](/fr/The_Urantia_Book/131#p2_11), <a id="a13_223"></a>[LU 140:3.15](/fr/The_Urantia_Book/140#p3_15), etc. )
@@ -40,3 +64,28 @@ Nous devons donc clairement reconnaître que ni la règle d’or ni l’enseigne
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La présence intérieure de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="pr-2">Sur la philosophie de la philosophie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

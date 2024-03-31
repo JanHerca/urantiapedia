@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Médians Secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Uncertainties">
+          <span class="pr-2">Sur les incertitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les Gardiens Célestes sont décrits comme des fils trinitisés par des créatures qui ont été embrassés par la Trinité du Paradis. Les fils trinitisés peuvent être d'origine simple ou double. Certains, comme les Puissants Messagers, sont des mortels ascendants fusionnés avec des Ajusteurs qui ont déjà atteint le Paradis et le Corps de la Finalité, mais qui ont également réussi un test spécial d'allégeance à l'univers qui les a qualifiés pour être embrassés par la Trinité du Paradis et intronisés dans le messager. service.
@@ -57,3 +81,28 @@ Il y a de nombreuses sections du _Livre d'Urantia_ qui peuvent nous aider dans c
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Médians Secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Uncertainties">
+          <span class="pr-2">Sur les incertitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

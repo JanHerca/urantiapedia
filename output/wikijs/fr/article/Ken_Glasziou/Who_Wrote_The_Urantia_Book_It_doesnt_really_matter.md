@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pardon, réconciliation et réparation : le dilemme ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="pr-2">Sur la pression des groupes de pairs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bien sûr, cela comptera toujours pour certains, surtout lorsqu’ils sont de nouveaux lecteurs. Mais une petite enquête montre que plus un individu lit ce livre depuis longtemps, plus son besoin intellectuel d’une déclaration autoritaire sur ce qu’il devrait ou ne devrait pas croire diminue.
@@ -44,3 +68,28 @@ Les fondamentalistes bibliques ont suscité beaucoup de dérision contre eux-mê
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pardon, réconciliation et réparation : le dilemme ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="pr-2">Sur la pression des groupes de pairs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

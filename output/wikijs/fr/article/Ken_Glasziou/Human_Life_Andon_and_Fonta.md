@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T07:52:13.144Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Error_in_the_Urantia_Papers_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Erreur dans les Cahiers d'Urantia – La vie sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="pr-2">48 chromosomes ? Ou des conclusions hâtives !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -62,3 +86,28 @@ L'homme Herto (photo ci-dessus) est daté de 154 à 160 000 ans BP et constitue 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Error_in_the_Urantia_Papers_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Erreur dans les Cahiers d'Urantia – La vie sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="pr-2">48 chromosomes ? Ou des conclusions hâtives !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

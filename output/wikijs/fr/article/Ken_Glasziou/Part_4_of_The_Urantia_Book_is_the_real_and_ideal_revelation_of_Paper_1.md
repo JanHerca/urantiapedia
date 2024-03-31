@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but des Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Our_Future_Task">
+          <span class="pr-2">Notre tâche future ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Selon le Cahier d'Urantia 7, le plan divin d'atteinte de la perfection pour nous, fils ascendants finis de Dieu, comporte trois composantes uniques. Le premier d’entre eux est intitulé « Le plan de réalisation progressive ». Le deuxième est « Le plan d’effusion ». Et le troisième est « Le plan du ministère de la miséricorde ». (voir <a id="a13_335"></a>[LU 7:4.4-6](/fr/The_Urantia_Book/7#p4_4))
@@ -52,3 +76,28 @@ Il s’agit d’éviter que la confusion sur les erreurs apparentes dans la cosm
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but des Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Our_Future_Task">
+          <span class="pr-2">Notre tâche future ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

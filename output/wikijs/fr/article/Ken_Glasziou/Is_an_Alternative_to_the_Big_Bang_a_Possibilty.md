@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au-delà des Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proclamation">
+          <span class="pr-2">Proclamation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
@@ -91,3 +115,28 @@ Ces visions d’un état quasi-stationnaire s’adaptent beaucoup plus étroitem
 - Explorer le Cosmos. Conférences de l'Université de Californie, Irvine. https://faculty.humanities.uci.edu/bjbecker/ExploringtheCosmos/lecture20.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au-delà des Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proclamation">
+          <span class="pr-2">Proclamation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

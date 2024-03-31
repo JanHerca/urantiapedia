@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="pr-2">La religion personnelle : un signe des temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « L’idée de Dieu en tant que véritable Père aimant est le seul concept que Jésus ait jamais enseigné. Une fois que l’on a saisi cette idée, il faut, immédiatement et en toute logique, abandonner complètement toutes ces notions primitives de Dieu considéré comme un monarque offensé, ... L’amour infini de Dieu tient la première place dans la nature divine. » (<a id="a13_362"></a>[LU 188:4.8](/fr/The_Urantia_Book/188#p4_8))
@@ -41,3 +62,25 @@ Non pas qu'il n'y ait aucun chrétien qui soit intimement familier avec le Dieu 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="pr-2">La religion personnelle : un signe des temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

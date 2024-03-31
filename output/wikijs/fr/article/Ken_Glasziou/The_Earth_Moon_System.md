@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T22:49:09.783Z
 ---
 
 <p class="v-card v-sheet theme—light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_Idealism_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matérialisme, idéalisme et révélation d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a eu quelques critiques à l'égard d'un article paru dans le [numéro de juillet-août](/fr/index/articles_innerface#volumen-11-no-4) d'Innerface concernant notre interprétation de l'utilisation par les révélateurs des mots « masse » et « taille » dans leur description de la croissance au fil du temps de le système terre-lune.
@@ -50,3 +71,25 @@ La datation radioactive moderne des racks a été révolutionnée par l'utilisat
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_Idealism_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matérialisme, idéalisme et révélation d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

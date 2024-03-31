@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Morals_Virtue_and_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morale, vertu et personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="pr-2">Patience : un millénaire équivaut à 1000 ans</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _C’est au cours du souper que Jésus eut avec Matthieu l’entretien où il lui expliqua que ***la moralité d’un acte quelconque est déterminée par le mobile de son auteur***. La moralité de Jésus était toujours positive. La règle d’or reformulée par Jésus exige des contacts sociaux actifs ; l’ancienne règle négative pouvait être suivie dans l’isolement. Jésus dépouilla la moralité de toutes les règles et cérémonies, et l’éleva aux hauteurs majestueuses de la pensée spirituelle et de la vie véritablement droite._ (<a id="a13_518"></a>[LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
@@ -48,3 +72,28 @@ Adopter le concept « la fin justifie les moyens » semble être un stratagème 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Morals_Virtue_and_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morale, vertu et personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="pr-2">Patience : un millénaire équivaut à 1000 ans</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

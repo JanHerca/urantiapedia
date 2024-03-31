@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:39:42.741Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Why_Did_the_Quakers_Fail">
+          <span class="pr-2">Pourquoi les Quakers ont-ils échoué ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans les publications précédentes[^5],[^6],[^7], nous avons concentré notre attention sur ce que nous avons appelé la composante prophétique dans la cosmologie des fascicules. Bien que nous soyons conscients des divergences dans leur histoire sur la géologie et la paléontologie de la planète, celles-ci ont été écartées au motif que les procédures de datation étaient trop imprécises pour être sûrs que les articles étaient erronés.
@@ -173,6 +197,31 @@ De toute évidence, ce contraste extraordinaire entre l'erreur et la déclaratio
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Why_Did_the_Quakers_Fail">
+          <span class="pr-2">Pourquoi les Quakers ont-ils échoué ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

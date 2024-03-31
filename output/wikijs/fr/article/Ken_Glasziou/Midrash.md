@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au-delà du fondamentalisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="pr-2">Prophétie auto-réalisatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Midrash est un nom donné à une méthode d'interprétation utilisée par les rabbins juifs pour **spéculer sur les significations cachées de leurs anciennes Écritures**. En expliquant que les premiers chrétiens utilisaient cette même méthode pour trouver un sens aux événements dans et autour de la vie de Jésus, l'évêque épiscopalien Sheldon Spong (auteur de ***Sauvegarder la Bible du fondamentalisme***) s'est adressé à un rassemblement religieux à New Jersey à propos du récit de Luc sur les événements de la Pentecôte. Les premiers chrétiens, dit-il, comparaient Jésus à un nouvel et plus grand Élie. Ainsi, lorsque la puissance du Saint-Esprit descendit sur les disciples à la Pentecôte, ils la décrivèrent comme un vent puissant, car le mot hébreu pour esprit, *ruach*, est aussi le nom du vent, qui était considéré comme rien de moins que le souffle de Dieu. Cela est également venu comme une langue de feu qui s’est allumée sur la tête des disciples parce qu’Élie était réputé pour son pouvoir de faire descendre le feu du ciel.
@@ -36,3 +60,28 @@ Les révélateurs du _Livre d'Urantia_ utilisent également le midrash, par exem
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Au-delà du fondamentalisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="pr-2">Prophétie auto-réalisatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos du Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="pr-2">Les Gardiens Célestes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il semble que chacun d’eux soit né d’une étrange interaction spirituelle et psychologique entre des couples d’enfants extraordinaires d’Adamson et de Ratta, qui « étaient souvent invisibles ». Lue dans son contexte, la clause « invisible » peut être interprétée de deux manières, l’une étant que chaque individu était tantôt visible, tantôt invisible. Ou bien cela peut signifier que certains de ces enfants extraordinaires étaient visibles, tandis que d’autres étaient invisibles. Le livre déclare : « Un enfant sur quatre qui leur naissait était d’un ordre unique. C’était souvent invisible. (<a id="a13_595"></a>[LU 77:5.6](/fr/The_Urantia_Book/77#p5_6))
@@ -44,3 +68,28 @@ En posant de telles questions, nous devons rester humbles. Les Révélateurs ont
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_5/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos du Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="pr-2">Les Gardiens Célestes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

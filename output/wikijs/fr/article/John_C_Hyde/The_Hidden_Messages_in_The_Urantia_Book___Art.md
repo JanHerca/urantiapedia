@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 John C. Hyde<br>© 1998 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Où sont les Filles de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="pr-2">Religion, science et obsolescence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’un de mes sujets favoris est « les messages cachés dans _Le Livre d’Urantia_ ». Parfois, lorsque l’inspiration me vient, j’essaie d’écrire sur ces messages cachés, même s’ils ne le sont pas vraiment. Cet article traite de la véritable nature de l’art d’un point de vue cosmique et des raisons pour lesquelles l’art défini de cette manière est si important pour nous. Il offre également une nouvelle manière de différencier les offres du _Livre d'Urantia_ des autres « religions » et « révélations » sur le vaste marché des idées.
@@ -78,3 +102,28 @@ Et cela, je le soumets, pourrait être décrit comme le message qui rend le _Liv
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Où sont les Filles de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="pr-2">Religion, science et obsolescence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

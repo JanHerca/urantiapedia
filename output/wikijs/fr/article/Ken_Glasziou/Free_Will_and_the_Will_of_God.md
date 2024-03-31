@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La résidence de l'Esprit dans le Nouveau Testament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans quelle mesure notre libre arbitre est-il libre ? Jusqu’où s’étend-il. Des limites doivent être là. À un extrême, nous ne sommes pas libres de commettre des actes irréalisables. Un examen attentif de ce qui nous est donné dans les Cahiers d'Urantia nous en dit plus sur ce que nous pouvons faire que sur ce que nous ne pouvons pas faire.
@@ -77,3 +98,25 @@ Outre l'orientation que nous recevons du « bien cosmique le plus élevé » en 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La résidence de l'Esprit dans le Nouveau Testament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

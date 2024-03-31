@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Urantia_is_Waiting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout Urantia attend – et attend</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="pr-2">Besoin d'une mise au point</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ décrit, en détail, le plan de Dieu pour que les mortels évolutionnaires ascendants du temps parviennent enfin au Paradis. Nous fournissons ici un bref résumé de ce merveilleux voyage qui commence avec notre naissance en tant qu’êtres à peine plus avancés que les animaux. Mais il y a une différence majeure : nous recevons le don précieux d’un esprit capable à la fois de prendre conscience de soi et de prendre une décision morale.
@@ -129,3 +153,28 @@ Ce serait peut-être une bonne idée de lire maintenant la section intitulée «
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Urantia_is_Waiting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout Urantia attend – et attend</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="pr-2">Besoin d'une mise au point</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

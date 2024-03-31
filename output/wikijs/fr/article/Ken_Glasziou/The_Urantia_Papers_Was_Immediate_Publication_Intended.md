@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Fathers_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les affaires du père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_E_Word">
+          <span class="pr-2">Le mot 'E'</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Après une période de test s'étendant sur plus de vingt ans, les révélateurs des Cahiers d'Urantia ont finalement produit leur version complète dans les années 1934/1935. Quelle était leur intention quant à la date de publication ? Était-ce immédiat – ou dans cinq, dix ou vingt ans ?
@@ -56,3 +80,28 @@ En revenant à la réalité, nous devons accepter que cela ne s’est pas produi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Fathers_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les affaires du père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_E_Word">
+          <span class="pr-2">Le mot 'E'</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

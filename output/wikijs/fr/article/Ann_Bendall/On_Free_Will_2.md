@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Comprehending_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la compréhension du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="pr-2">« « Religion » est un vilain mot ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le seul don possible qui ait une vraie valeur pour Dieu est notre libre arbitre. (<a id="a13_82"></a>[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)) Dieu demande que nous alignions notre volonté sur la sienne. Mais nous ne pouvons pas lui donner notre volonté ou le laisser prendre le relais, ce qui serait un processus délicieusement simple – si cela était possible. Au lieu de cela, Dieu demande que nous devenions réels pour l’univers en alignant notre volonté sur la sienne, c’est-à-dire en nous efforçant de choisir ce qui est divin dans chaque décision que nous prenons. Et donc – des décisions, des décisions, des décisions et encore plus de décisions nous sont demandées.
@@ -73,3 +97,28 @@ Incroyablement ! Dans le Livre d'Urantia, il y a un certain nombre d'exemples cl
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Comprehending_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la compréhension du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="pr-2">« « Religion » est un vilain mot ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

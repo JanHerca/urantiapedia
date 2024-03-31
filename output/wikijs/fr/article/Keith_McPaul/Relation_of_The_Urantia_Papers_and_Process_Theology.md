@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Keith McPaul<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Etre Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_should_a_Urantian_Live">
+          <span class="pr-2">Comment un Urantien devrait-il vivre ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Il y a douze ans, le Dr Jim Mills, alors professeur de philosophie à l'Université de Floride et ancien administrateur de la Fondation Urantia, m'a initié à la philosophie des processus. Jim a exprimé son fervent espoir que cela puisse être la clé pour trouver une place pour les Cahiers d'Urantia dans le programme des institutions supérieures pour l'étude des étudiants en philosophie et en théologie. Jim est mort sans voir son espoir se réaliser.
@@ -130,3 +154,28 @@ La théologie du processus ne prétend pas détenir toutes les réponses, Dieu r
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Etre Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_should_a_Urantian_Live">
+          <span class="pr-2">Comment un Urantien devrait-il vivre ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

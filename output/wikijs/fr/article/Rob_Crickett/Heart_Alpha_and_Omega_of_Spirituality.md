@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Rob Crickett<br>© 1994 La bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Missing_Link">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le chaînon manquant ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="pr-2">Le cœur devenu sans amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La personnalité de Dieu est la merveille de Dieu. C’est dans mon propre cœur que je rencontre la personnalité de Dieu et que je le connais ainsi comme mon Père. Je ne sais pas pourquoi mon cœur seul me permet de voir Dieu et de le connaître comme mon Père. Peut-être que le cœur est le siège de ma propre personnalité et de ma vision. Peut-être est-ce que le cœur est simplement le lieu où Dieu me rencontre, et que sa personnalité et ses merveilles m'éclairent doucement pour me faire devenir une personnalité semblable à celle d'un fils que je peux imaginer. Quoi qu'il en soit, c'est merveilleux. Et la merveille est le pourquoi de tout cela.
@@ -64,3 +88,28 @@ L'une des merveilles du cœur est que, lorsqu'il est touché par la vision de no
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Missing_Link">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le chaînon manquant ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="pr-2">Le cœur devenu sans amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

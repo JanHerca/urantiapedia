@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'apparition à Sychar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cet article a été publié précédemment dans un article intitulé _Science, Archéologie et Anthropologie dans Le Livre d'Urantia_. Ses résultats sont donnés ici pour ceux qui n’ont pas vu l’original et également pour le rendre disponible pour consultation sur le site Web de la Fellowship.
@@ -110,3 +131,25 @@ Ceux qui comprennent toute la signification de ces mots n’ont besoin de rien d
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'apparition à Sychar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

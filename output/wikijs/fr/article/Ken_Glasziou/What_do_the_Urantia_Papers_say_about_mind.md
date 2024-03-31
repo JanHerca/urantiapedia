@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:50:16.501Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Attention ! Est-ce que j’en ai un ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="pr-2">Qu'est-ce que Dieu attend de nous ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les concepts des Cahiers d'Urantia concernant l'esprit sont très similaires à ceux trouvés dans la Philosophie des Processus de Whitehead[^1] – qui dit que même les particules primaires jusqu'aux niveaux subatomiques sont, dans une certaine mesure, « mentales », et cette mentalité est fondée sur l'esprit. dans la nature « conséquente » de Dieu.
@@ -38,6 +62,31 @@ Pour l’humanité, l’esprit s’ajoute à la personnalité, au corps et à l�
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Attention ! Est-ce que j’en ai un ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="pr-2">Qu'est-ce que Dieu attend de nous ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

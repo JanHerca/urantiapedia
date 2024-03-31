@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="pr-2">Où sont les Filles de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Jésus se rendit à Gamala pour visiter Jean et tous ceux qui y travaillaient avec lui. Ce soir-là, après la séance des questions et réponses, Jean dit à Jésus : « Maitre, je suis allé hier à Ashtarot voir un homme qui enseignait en ton nom et qui prétendait même être capable de chasser des démons. Or, cet homme n’a jamais été avec nous et ne nous suit pas ; je lui ai donc défendu d’agir ainsi. » Jésus dit alors :  »
@@ -26,3 +47,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="pr-2">Où sont les Filles de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

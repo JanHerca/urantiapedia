@@ -9,6 +9,27 @@ dateCreated: 2022-09-27T00:09:11.694Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le rôle relatif des miracles, de la résurrection et du pardon des péchés dans la propagation rapide du christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis le début de son ministère public jusqu'à sa crucifixion, la vie de Jésus a été vécue comme une révélation de la nature de Dieu et conformément aux contraintes imposées par le pacte avec Emmanuel énoncé dans le fascicule d'Urantia 120 (<a id="a13_242"></a>[LU 120:1.1](/fr/The_Urantia_Book/120#p1_1)) .
@@ -103,3 +124,25 @@ Ces paroles sont destinées à guider notre transformation et non à être trans
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le rôle relatif des miracles, de la résurrection et du pardon des péchés dans la propagation rapide du christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

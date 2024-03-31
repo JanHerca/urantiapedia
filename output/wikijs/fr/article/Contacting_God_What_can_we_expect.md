@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Is_God_a_Possibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu est-il une possibilité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Growing_Spiritually">
+          <span class="pr-2">Sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Mais le mental qui discerne réellement Dieu, qui entend l’Ajusteur intérieur, est le mental pur. (<a id="a13_102"></a>[LU 101:1.3](/fr/The_Urantia_Book/101#p1_3))
@@ -57,3 +81,28 @@ Et en conclusion :
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Is_God_a_Possibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu est-il une possibilité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Growing_Spiritually">
+          <span class="pr-2">Sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

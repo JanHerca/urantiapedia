@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T16:45:14.471Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="pr-2">Apprendre à enseigner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les marques de la réponse humaine à l'impulsion religieuse englobent les qualités de noblesse et de grandeur. Le religieux sincère est conscient de sa citoyenneté universelle et est conscient d’entrer en contact avec des sources de pouvoir surhumain. Il est ravi et dynamisé par l’assurance d’appartenir à une communauté supérieure et anoblie de fils de Dieu. La conscience de sa propre valeur s’est accrue grâce à la stimulation de la quête des objectifs les plus élevés de l’univers – les buts suprêmes.
@@ -25,3 +46,25 @@ L’une des caractéristiques les plus étonnantes de la vie religieuse est cett
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="pr-2">Apprendre à enseigner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

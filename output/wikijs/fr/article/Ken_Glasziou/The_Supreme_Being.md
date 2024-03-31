@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Expiation : origines juives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="pr-2">Relation entre les Cahiers d'Urantia et la Théologie du Processus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans les Cahiers d'Urantia, certains auteurs ont tendance à se référer à l'Être Suprême comme étant à la fois existant et non encore existant – donc d'une manière similaire à la manière dont les physiciens des particules traitent les particules comme étant simultanément à la fois des ondes et des particules.
@@ -173,3 +197,28 @@ flowchart TB
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Expiation : origines juives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="pr-2">Relation entre les Cahiers d'Urantia et la Théologie du Processus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

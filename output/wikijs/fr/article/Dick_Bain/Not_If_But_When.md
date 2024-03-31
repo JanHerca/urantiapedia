@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Dick Bain<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Limitations_of_Revelation_2">
+          <span class="pr-2">Les limites de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La communauté Urantia est-elle une religion ? Comment nous voyons-nous ? Comment les autres nous voient-ils ? Y aura-t-il un jour une église sur Urantia ? Devrait-il y avoir une église sur Urantia ?
@@ -63,3 +84,25 @@ On pourrait faire valoir qu’une sorte d’église Urantia existe déjà. Consi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Limitations_of_Revelation_2">
+          <span class="pr-2">Les limites de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science et le Livre d'Urantia. Origines d'Andon et Fonta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De nombreux lecteurs seront conscients des affirmations selon lesquelles la vie existe sur Urantia depuis près de 4 milliards d'années, mais que le _Livre d'Urantia_ déclare que les modèles de vie originaux ont été implantés ici il y a 550 000 000 d'années par les Porteurs de Vie. Cette divergence peut être due à des différences dans la définition de ce qui constitue la « vie » et a été discutée dans « Le contenu scientifique du _Le Livre d'Urantia_ »[^1] (Bain, Glasziou, Neibaur, Wright) qui est disponible gratuitement sur le site Internet d'Urantia. Bibliothèque de la Confrérie des Hommes. _Le Livre d'Urantia_ n'est pas nécessairement entièrement cohérent dans la manière dont il utilise le terme « vie ». Un point qui a été négligé dans l'article ci-dessus est cette phrase : « _Le soi matériel, l’égo-entité de l’identité humaine, dépend du fonctionnement continu du véhicule vital matériel, du maintien continu de l’équilibre instable des ***énergies et de l’intellect, auquel on a donné le nom de vie sur Urantia***._ » (<a id="a13_1035"></a>[LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
@@ -25,6 +46,28 @@ Le livre dit : « Le plasma vital originel d’un monde évolutionnaire contienn
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science et le Livre d'Urantia. Origines d'Andon et Fonta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

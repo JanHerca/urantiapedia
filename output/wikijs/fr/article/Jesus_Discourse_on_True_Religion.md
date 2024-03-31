@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_will_come_to_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui viendra en « Phénicie ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Learning_in_Phoenicia">
+          <span class="pr-2">Apprendre en Phénicie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Vous avez émergé parmi vos compagnons qui ont choisi de se satisfaire d’une religion du mental, qui désirent ardemment la sécurité et préfèrent le conformisme. Vous avez choisi d’échanger vos sentiments de certitude basée sur l’autorité contre les assurances de l’esprit de la foi aventureuse et progressive. Vous avez osé protester contre l’épuisante servitude d’une religion institutionnalisée et rejeter l’autorité des traditions écrites actuellement considérées comme la parole de Dieu. Il est exact que notre Père a parlé par la bouche de Moïse, d’Élie, d’Isaïe, d’Amos et d’Osée, mais il n’a pas cessé d’apporter des paroles de vérité au monde après que ces prophètes de jadis eurent terminé leurs proclamations. Mon Père ne fait pas acception de races ni de générations en octroyant la parole de vérité à une époque et en la refusant à la suivante. Ne commettez pas la folie d’appeler divin ce qui est purement humain, et ne manquez pas de discerner les paroles de vérité, même si elles ne proviennent pas des oracles traditionnels d’une prétendue inspiration.
@@ -44,3 +68,28 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_will_come_to_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui viendra en « Phénicie ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Learning_in_Phoenicia">
+          <span class="pr-2">Apprendre en Phénicie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

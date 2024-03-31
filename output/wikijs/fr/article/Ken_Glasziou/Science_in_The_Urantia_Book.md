@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Divine_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la Divine Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="pr-2">Géophysique – autres prophéties : dérive des continents et âge du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -129,6 +153,31 @@ Ainsi, SN 1987A a fourni une confirmation remarquable du tableau général de la
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Divine_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la Divine Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="pr-2">Géophysique – autres prophéties : dérive des continents et âge du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

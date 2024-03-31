@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Essentiality_of_Morality">
+          <span class="pr-2">L'essentiel de la moralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut.
@@ -27,3 +48,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Essentiality_of_Morality">
+          <span class="pr-2">L'essentiel de la moralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

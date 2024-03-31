@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Stefan Tallqvist<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la présentation du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="pr-2">Le Livre d'Urantia contre sa philosophie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Si l’on agrandissait la masse de la matière jusqu’à ce qu’un électron pèse un dixième d’once (2,83 grammes) et si ses dimensions étaient accrues dans la même proportion, le volume de cet électron deviendrait aussi grand que celui de la terre._ (<a id="a13_248"></a>[LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
@@ -43,3 +67,28 @@ Il n’y a aucune possibilité que cela puisse être une sorte de coïncidence. 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la présentation du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="pr-2">Le Livre d'Urantia contre sa philosophie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

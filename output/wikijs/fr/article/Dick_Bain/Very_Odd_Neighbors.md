@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Dick Bain<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fournir un leadership spirituel urantianite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/James_the_Brother_of_Jesus_What_happened_to_him">
+          <span class="pr-2">Jacques, le frère de Jésus. Que lui est-il arrivé ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’idée inhabituelle des voisins d’à côté a été le thème de nombreux films et émissions de télévision. Mais il serait difficile d'imaginer des voisins aussi étranges que certains voisins mentionnés dans _Le Livre d'Urantia_. Ils vivent sur une planète « proche » et sont appelés non-respirants. Les créatures intelligentes existent dans de nombreuses tailles et styles pour s'adapter aux conditions de leur planète, mais, selon les auteurs, de tous les autres mortels, les non-respirateurs sont les plus radicalement différents de nous.
@@ -40,3 +64,28 @@ Sur <a id="a33_4"></a>[LU 40:5.15](/fr/The_Urantia_Book/40#p5_15), l'auteur du P
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fournir un leadership spirituel urantianite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/James_the_Brother_of_Jesus_What_happened_to_him">
+          <span class="pr-2">Jacques, le frère de Jésus. Que lui est-il arrivé ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

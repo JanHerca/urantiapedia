@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_Was_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À quoi ressemblait Jésus ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La pensée matérialiste-déterministe remonte au moins à David Hume (décédé en 1776), dont est issu le paradigme selon lequel une proposition n’a de sens que si elle peut être vérifiée par des moyens empiriques. Pierre La Place (mort en 1827) ajoutait que si la position et le mouvement de tous les atomes pouvaient être connus en même temps, tout pourrait être prédit dans le futur.
@@ -40,3 +61,25 @@ Devinez quoi. Les gens essaient maintenant d’utiliser l’image fantôme du v�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_Was_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À quoi ressemblait Jésus ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

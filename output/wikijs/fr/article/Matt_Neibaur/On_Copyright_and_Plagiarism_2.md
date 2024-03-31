@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'importance des symboles : leur utilisation et leur mauvais usage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="pr-2">Les Cahiers d'Urantia. La tâche peu enviable des révélateurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cet article est paru dans Innerface il y a trois ans. Il est réimprimé en raison de l'importance des points de vue et des concepts qui y sont exprimés :
@@ -54,3 +78,28 @@ Matt Neibaur ajoute ce qui suit :
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'importance des symboles : leur utilisation et leur mauvais usage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="pr-2">Les Cahiers d'Urantia. La tâche peu enviable des révélateurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

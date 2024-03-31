@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">État stable, Big Bang ou architectes du Maître Univers ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les lecteurs du Livre d’Urantia ayant un penchant scientifique ont peut-être remarqué un phénomène de type loi de Murphy dans la revue médiatique de la science d’actualité. Fondamentalement, cela revient à « ne pas renverser le système » et a pour effet que, indépendamment de ce que pourrait indiquer un ensemble de résultats expérimentaux, il faut trouver un moyen de les rendre conformes à la ligne actuelle.
@@ -38,3 +59,25 @@ L’establishment a contré cette affirmation en mettant en doute les techniques
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">État stable, Big Bang ou architectes du Maître Univers ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

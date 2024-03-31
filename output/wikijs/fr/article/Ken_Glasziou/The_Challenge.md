@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T22:34:25.148Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_Idealism_and_the_Urantia_Revelation">
+          <span class="pr-2">Matérialisme, idéalisme et révélation d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, **qui oseront construire une nouvelle et attrayante philosophie** de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour. (<a id="a13_725"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
@@ -42,3 +63,25 @@ Ou nous pouvons choisir de laisser le chaos suivre son cours.
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_Idealism_and_the_Urantia_Revelation">
+          <span class="pr-2">Matérialisme, idéalisme et révélation d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

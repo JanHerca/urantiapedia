@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le statut révélateur du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Faith">
+          <span class="pr-2">Sur la foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que la société occidentale célèbre Noël avec des rituels et un symbolisme comprenant le culte des arbres, le souvenir de la mort de Saint-Nicolas et la naissance de Mithra (pour plus de commodité, étant également désigné comme l'anniversaire de Jésus), la terre non chrétienne du Japon a décidé d'avoir son propre célébration du 25 décembre. Cette journée est donc réservée aux interprétations dans tout le pays du « deuxième hymne national » du Japon, cette partie de la neuvième symphonie de Beethoven connue sous le nom de « _Oh, chante une chanson de joie_ ».
@@ -66,3 +90,28 @@ pour l'amour et la compréhension. <br>
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le statut révélateur du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Faith">
+          <span class="pr-2">Sur la foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

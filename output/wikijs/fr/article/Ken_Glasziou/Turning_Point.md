@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avons-nous besoin d'une autre église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Jupiter_problem">
+          <span class="pr-2">Le problème de Jupiter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cela fait maintenant 60 ans que les Cahiers d'Urantia ont été introduits sur notre planète et qu'une organisation s'est développée, d'abord pour faire publier les Cahiers sous forme de livre, puis pour générer des systèmes pour commencer à diffuser le livre à travers le monde. Cette phase est désormais franchie. Ce faisant, une pseudo-papatie s’est développée. Nous ne pouvons pas savoir si telle était ou non l’intention des révélateurs. Supposons que ce soit le cas et que la tâche initiale se soit déroulée comme prévu. Puisqu’il semble que cette phase soit désormais terminée, nous sommes peut-être censés préparer le terrain pour une nouvelle phase de développement. Quelle pourrait être cette nouvelle phase ?
@@ -47,3 +71,28 @@ Il est donc certain que la correction de cette erreur primordiale est une condit
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avons-nous besoin d'une autre église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Jupiter_problem">
+          <span class="pr-2">Le problème de Jupiter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

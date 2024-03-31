@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="pr-2">Pourquoi la « Vie de Jésus du Livre d'Urantia est-elle si importante ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Combien vous êtes déraisonnables de ne pas adorer Dieu parce que les limitations de la nature humaine et les handicaps de votre création matérielle vous empêchent de le voir. Entre vous et Dieu, il y a une prodigieuse distance (d’espace physique) à franchir. Il existe également un grand abime de différences spirituelles qu’il faut combler. Mais, nonobstant tout ce qui vous sépare physiquement et spirituellement de la présence personnelle de Dieu au Paradis, arrêtez-vous et méditez le fait solennel que Dieu vit en vous. À sa propre manière, il a déjà jeté un pont sur l’abime. Il a envoyé quelque chose de lui, son esprit, pour vivre en vous et peiner avec vous pendant que vous poursuivez votre carrière éternelle dans l’univers.
@@ -28,3 +49,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="pr-2">Pourquoi la « Vie de Jésus du Livre d'Urantia est-elle si importante ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

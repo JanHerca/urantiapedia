@@ -9,6 +9,30 @@ dateCreated: 2022-9-8T13:35:19Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hors d'Afrique ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="pr-2">L'avenir. Quelle est notre tâche ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qu’entend-on par religion de l’esprit ? Premièrement, elle diffère considérablement des religions ordinaires suivies par l’humanité. Il s’agit essentiellement d’activités de groupe qui aboutissent presque toujours à la cristallisation d’un ensemble de rituels et de croyances définissant ce que les membres doivent faire et être.
@@ -47,3 +71,28 @@ Cependant, au cœur de la religion de l'esprit se trouve la quête personnelle d
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hors d'Afrique ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="pr-2">L'avenir. Quelle est notre tâche ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

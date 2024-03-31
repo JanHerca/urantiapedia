@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'arrivée de l'homme rouge dans les Amériques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Monster_dinosaurs_in_Australia">
+          <span class="pr-2">Dinosaures monstres en Australie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les Cahiers d'Urantia associent les processus de formation des montagnes et la dérive des continents comme étant responsables de la chaîne de montagnes de la côte ouest des Amériques, s'étendant de l'Alaska jusqu'au fond de l'Amérique du Sud. (<a id="a13_244"></a>[LU 60:3.2](/fr/The_Urantia_Book/60#p3_2))
@@ -30,3 +54,28 @@ La réponse que nous donnons à cette question reflète nos progrès dans la com
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'arrivée de l'homme rouge dans les Amériques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Monster_dinosaurs_in_Australia">
+          <span class="pr-2">Dinosaures monstres en Australie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

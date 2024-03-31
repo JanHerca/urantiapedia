@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="pr-2">Parabole du perroquet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Alors que Jésus commençait son chemin, un jeune homme accourut, s'agenouilla devant lui et lui demanda : ‘Bon Maître, que dois-je faire pour recevoir la vie éternelle ?’ __‘Pourquoi m'appelles-tu bon ?’__ Jésus demanda de lui, __‘Personne n'est bon sauf Dieu seul.’__ » ([Marc, 10:17,18](/fr/Bible/Mark/10#v17))
@@ -65,3 +86,25 @@ Quelle que soit la réalité, le fait que mon Ajusteur de Pensée soit décrit c
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="pr-2">Parabole du perroquet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

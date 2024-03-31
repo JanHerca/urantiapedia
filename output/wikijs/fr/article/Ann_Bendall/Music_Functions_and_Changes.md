@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_was_Rodan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui était Rodan ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="pr-2">Le Livre d'Urantia : Pourquoi ses lecteurs sont-ils confrontés à plus de 2000 pages de faits abondants et de noms prodigieux ???</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La musique est une forme d’art qui a radicalement changé au cours des 100 dernières années, pas nécessairement dans sa production mais surtout dans son appréciation. Jusqu’au XXe siècle, le temps passé à écouter de la musique était négligeable. Seuls les riches pouvaient s’offrir le luxe de la musique. Le reste de la civilisation planifiait soigneusement sa musique et attendait avec impatience le mariage, la mort ou les quelques occasions festives de l'année pour en profiter.
@@ -57,3 +81,28 @@ La musique peut passer inaperçue à notre oreille consciente, mais jamais à no
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_was_Rodan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui était Rodan ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="pr-2">Le Livre d'Urantia : Pourquoi ses lecteurs sont-ils confrontés à plus de 2000 pages de faits abondants et de noms prodigieux ???</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

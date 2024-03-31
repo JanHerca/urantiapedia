@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Besoin d'une mise au point</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="pr-2">L'harmonisation est égale à la paix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le sens de presque n’importe quel groupe de mots dans un texte peut être modifié, souvent radicalement, par le simple moyen de citer hors contexte. Un exemple facétieux serait : « **Jésus était toujours joyeux, même s'il buvait parfois beaucoup.** » Laissons au lecteur le soin de découvrir le contexte réel qui, nous pouvons vous l'assurer, est bien différent de celui de Jésus. ce qu'il semble être.
@@ -34,3 +58,28 @@ Dans le débat, nous pouvons toujours proposer des circonstances hypothétiques 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Besoin d'une mise au point</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="pr-2">L'harmonisation est égale à la paix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La crucifixion était-elle vraiment nécessaire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Remembrance_Supper">
+          <span class="pr-2">Le souper du Souvenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En dehors de Dieu, les deux personnalités les plus décriées dans l’histoire d’Urantia devraient être Adam et Ève. C’était le couple dont l’aventure « manger des pommes » a coûté à nous, humains, la gloire qui était autrefois la nôtre. À cause de leur erreur, tous les humains naissent intrinsèquement mauvais au lieu d’être bons ! La croyance au mal inné de l’humanité a été adoptée par le père de la psychologie, Freud, et je soupçonne que ses origines religieuses ont influencé ses théories – qui se sont par la suite révélées fausses.
@@ -74,3 +98,28 @@ Quand j'arrive à Jérusem, j'espère qu'Adam et Eve sont toujours là et qu'ils
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La crucifixion était-elle vraiment nécessaire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Remembrance_Supper">
+          <span class="pr-2">Le souper du Souvenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

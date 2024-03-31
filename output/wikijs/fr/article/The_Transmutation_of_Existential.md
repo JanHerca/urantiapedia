@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Trimble/On_Completion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la fin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="pr-2">Le moins que nous devrions savoir sur la Croix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Potentiels et modèles existentiels Dans la terminologie de l'Univers, un modèle est immuable bien que des copies puissent être projetées comme matérielles, spirituelles ou mentales – ou dans n'importe quelle combinaison de ces énergies. Il peut imprégner les personnalités, les identités, les entités ou la matière non vivante. Les modèles sont la substance des potentiels. Le modèle peut configurer l’énergie mais ne la contrôle pas. La gravité est le seul contrôle de la matière énergétique. Ni l'espace ni le motif ne réagissent à la gravité et il n'y a aucune relation entre l'espace et le motif. La réalité de tout modèle est constituée de ses énergies, de son mental, de son esprit ou de ses composants matériels. Le modèle est un modèle à partir duquel des copies sont réalisées. Le Paradis éternel est l'absolu du modèle ; le Fils Éternel est la personnalité modèle ; le Père Universel est l’ancêtre-source direct des deux. Mais le Paradis ne confère pas de modèle et le Fils ne confère pas de personnalité. Cette qualité d'énergie ou de personnalité en vertu de laquelle le modèle apparaît peut être attribuée à Dieu et à la coexistence de la personnalité et du pouvoir.
@@ -162,3 +186,28 @@ flowchart TB
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_2/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Trimble/On_Completion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la fin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="pr-2">Le moins que nous devrions savoir sur la Croix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

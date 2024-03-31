@@ -9,6 +9,24 @@ dateCreated: 2022-12-10T00:54:48.033Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les enseignements « radicaux » du Livre d’Urantia ont-ils un impact sur la théologie « populaire » actuelle telle qu’elle est enseignée dans la plupart des églises chrétiennes ?
@@ -322,3 +340,22 @@ En comparant Borg avec ce que nous trouvons dans le Livre d'Urantia, nous devons
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_4/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

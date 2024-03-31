@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Dick Bain<br>© 1996 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Without_or_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À l'extérieur ou à l'intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -37,6 +58,28 @@ Peut-être devrons-nous attendre d’arriver dans les mondes des maisons pour ob
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_5/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Without_or_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À l'extérieur ou à l'intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Les références
 

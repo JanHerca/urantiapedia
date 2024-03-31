@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Dick Bain<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« La jalousie, le poison du cœur ! Comment Jésus a-t-il réagi ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Great_Commandment">
+          <span class="pr-2">Le deuxième grand commandement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Est-ce que je crois aux anges ? Hé bien oui; mais pourquoi suis-je si réticent à le dire ? Se pourrait-il que les anges ressemblent un peu à la fée Clochette ? Parce qu'ils ont des ailes et font des choses magiques ? Ou peut-être qu’il n’est pas respectable de croire en de tels êtres magiques. Les anges ont-ils mauvaise presse ?
@@ -56,6 +80,31 @@ Malgré une nature naturellement sceptique, due peut-être à ma formation d'ing
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« La jalousie, le poison du cœur ! Comment Jésus a-t-il réagi ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Great_Commandment">
+          <span class="pr-2">Le deuxième grand commandement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

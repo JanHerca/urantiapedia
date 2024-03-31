@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Jacques Tétrault<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="pr-2">Dissonance cognitive. Le Livre d'Urantia peut-il aider ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aujourd’hui, dans la culture occidentale, les valeurs sociales favorisent l’affirmation de soi. Il est important de se montrer fort, indépendant, capable de résister à tout type de domination. Nous apprenons à faire notre propre travail, à tirer le meilleur parti de la plupart des situations. C'est l'âge de l'émancipation, de la revendication de ses droits, de l'exigence. Cela s’applique également à tous les individus : adolescents, femmes, infirmes, personnes âgées, personnes à faible revenu, tous les groupes minoritaires. Chaque individu et chaque groupe veut plus de droits. Cela s’applique également aux nations et aux États.
@@ -45,3 +66,25 @@ Il se pourrait bien que l’affirmation de soi doive précéder la soumission vo
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="pr-2">Dissonance cognitive. Le Livre d'Urantia peut-il aider ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

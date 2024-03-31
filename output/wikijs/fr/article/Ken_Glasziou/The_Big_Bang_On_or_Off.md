@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:31:31.642Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté de Dieu : comment ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="pr-2">Les Cahiers d'Urantia sur la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Actuellement, les progrès en physique des particules, essentiels au développement ultérieur de la théorie sur les débuts de notre univers, ont ralenti à un rythme effréné. La raison : la particule de Higgs est toujours absente.
@@ -63,3 +87,28 @@ C'est donc un vent mauvais qui n'apporte de bien à personne. Le test critique s
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté de Dieu : comment ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="pr-2">Les Cahiers d'Urantia sur la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

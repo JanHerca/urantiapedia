@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Personal_Realities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réalités personnelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="pr-2">Y a-t-il une certitude ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le but de cet article est de fournir une brève discussion sur les raisons pour lesquelles les concepts « classiques » de l’esprit sont considérés comme ayant échoué, et sur la manière dont de nouveaux travaux faisant appel à la théorie quantique pourraient éventuellement fournir une alternative viable. Ces nouvelles idées sont comparées à ce que déclarent les Cahiers d'Urantia au sujet de l'esprit et de la personnalité.
@@ -69,3 +93,28 @@ Il semble peu probable qu’une méthodologie scientifique puisse jamais être d
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Personal_Realities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réalités personnelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="pr-2">Y a-t-il une certitude ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

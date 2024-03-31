@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia : Pourquoi ses lecteurs sont-ils confrontés à plus de 2000 pages de faits abondants et de noms prodigieux ???</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Webb/Pain_and_Conflict_in_Time_and_Space">
+          <span class="pr-2">Douleur et conflits dans le temps et l'espace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jésus n’a fait aucun effort dans ses analogies, comparaisons et métaphores sur nous, les humains. Nous étions vus comme des agneaux et des moutons, tandis qu'en dessous nous étions des « _loups voraces._ » (<a id="a13_207"></a>[LU 140:3.19](/fr/The_Urantia_Book/140#p3_19)) Et c'est l'homme qui « _pouvait être d’un tel secours aux hommes parce qu’il les aimait sincèrement. __Il aimait véritablement chaque homme, chaque femme et chaque enfant__. Il pouvait être un véritable ami à cause de sa remarquable perspicacité — il connaissait entièrement le contenu du cœur et du mental de l’homme. Il était un observateur plein d’intérêt et de finesse. Il était expert à comprendre les besoins des hommes et habile à détecter leurs désirs.._”(<a id="a13_718"></a>[LU 171:7.4](/fr/The_Urantia_Book/171#p7_4)).
@@ -43,3 +67,28 @@ Et enfin le rôle du mouton/agneau – c’est la relation entre moi et Jésus !
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia : Pourquoi ses lecteurs sont-ils confrontés à plus de 2000 pages de faits abondants et de noms prodigieux ???</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Webb/Pain_and_Conflict_in_Time_and_Space">
+          <span class="pr-2">Douleur et conflits dans le temps et l'espace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

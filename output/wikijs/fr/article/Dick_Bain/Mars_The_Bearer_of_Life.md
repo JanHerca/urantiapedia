@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dick Bain<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stanley_McTrusty/Correspondence_from_Stanley_McTrusty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondance de Stanley McTrusty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -51,3 +72,25 @@ Le jury scientifique ne sait toujours pas si la vie a existé sur Mars. Mais si 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stanley_McTrusty/Correspondence_from_Stanley_McTrusty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondance de Stanley McTrusty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

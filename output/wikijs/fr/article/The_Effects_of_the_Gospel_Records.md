@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:52:03.235Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reliability_of_New_Testament_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fiabilité des sources du Nouveau Testament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Early_Years_of_Jesus">
+          <span class="pr-2">Les premières années de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Une recherche approfondie et objective du Jésus historique nous ramène aux documents historiquement fiables qui constituent le récit du Nouveau Testament sur sa vie et ses enseignements. Bien que nous ne soyons pas certains du jour exact de la naissance de Jésus, il s’agit néanmoins d’un événement qui a divisé l’histoire – avant J.-C. avant Christ et après J.-C., Anno domini, « l'année de notre Seigneur ». Une démarcation aussi claire aurait difficilement été faite s’il n’y avait eu aucune base historique pour la vie de Jésus.
@@ -48,3 +72,28 @@ Tout cela démontre une congruence remarquable d’informations provenant des É
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Reliability_of_New_Testament_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fiabilité des sources du Nouveau Testament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Early_Years_of_Jesus">
+          <span class="pr-2">Les premières années de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

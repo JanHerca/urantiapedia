@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus, l'homme et le mythe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="pr-2">Plan A. Qu’est-ce que c’était ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans notre deuxième numéro, nous avons demandé des suggestions sur la manière dont « un autre et plus grand Jean-Baptiste va surgir, proclamant que le royaume de Dieu est proche, sans faire référence à l’Église visible ou à la seconde venue du Christ ».
@@ -55,3 +79,28 @@ En effet, c'est une joie de vivre à une époque où le message vivant de Jésus
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus, l'homme et le mythe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="pr-2">Plan A. Qu’est-ce que c’était ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

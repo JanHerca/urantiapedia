@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:17Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Octets d'énergie houlomotrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _L’or fut le premier métal recherché par les hommes ; il était facile à travailler et fut d’abord employé uniquement comme parure. On se servit ensuite du cuivre, mais assez peu avant le moment où on le mélangea à l’étain pour faire du bronze plus dur. La découverte du mélange cuivre-étain fut faite par un Adamsonite du Turkestan, dont la mine de cuivre se trouvait être située dans les hautes terres au voisinage d’un gisement d’étain._ » (<a id="a13_447"></a>[LU 81:3.5](/fr/The_Urantia_Book/81#p3_5))
@@ -30,3 +51,25 @@ Bien que les chercheurs aient trouvé du minerai d'étain à Kestel, certains sc
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Octets d'énergie houlomotrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

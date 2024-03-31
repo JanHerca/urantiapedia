@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Créer un univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="pr-2">Les Cahiers d'Urantia sur l'amour de notre prochain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 [Cet article est paru dans un bulletin d'information de l'église, auteur anonyme et sans droit d'auteur. Si quelque chose de similaire était publié dans d’autres publications de l’Église, cela pourrait aider à préparer la voie au message du Livre d’Urantia.]
@@ -42,3 +66,28 @@ Depuis que j'ai entrepris mon aventure avec les évangiles, j'ai également appr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Créer un univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="pr-2">Les Cahiers d'Urantia sur l'amour de notre prochain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

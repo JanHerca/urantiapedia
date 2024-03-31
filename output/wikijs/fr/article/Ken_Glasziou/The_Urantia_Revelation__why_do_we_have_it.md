@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Fils Instructeurs de la Trinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_over_Matter">
+          <span class="pr-2">L'esprit avant la matière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De toute évidence, en tant que société, nous, les Urantiens, avons plutôt gâché les choses. Et peut-être qu’avec l’avènement de l’armement nucléaire, les chances d’un effacement sont relativement élevées. En revanche, il se peut que certains signes indiquent que nous avons désormais franchi un cap et que nous nous dirigeons réellement vers « la Lumière et la Vie » comme un objectif très lointain.
@@ -50,3 +74,28 @@ Ce qui est également certain, c’est qu’à mesure que la confiance dans la r
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Fils Instructeurs de la Trinité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_over_Matter">
+          <span class="pr-2">L'esprit avant la matière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

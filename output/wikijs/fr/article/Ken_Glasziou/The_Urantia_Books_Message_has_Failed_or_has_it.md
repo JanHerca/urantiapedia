@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un crime contre l'humanité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="pr-2">La croix comme symbole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour justifier un changement significatif, nous devons d’abord admettre que notre approche actuelle a échoué. Jim Mills, qui était un ancien éminent de l'époque du Forum, m'en avait prévenu avant sa mort il y a quelques années. Au cours de ses années de retraite, Jim a étudié la philosophie, a obtenu son diplôme alors qu'il avait 80 ans et a enseigné au campus de Pensacola de l'Université de Floride. Il se consacrait à faire accepter le _Livre d'Urantia_ pour des études au niveau tertiaire. Mais ses efforts furent vains.
@@ -42,3 +66,28 @@ Alors s’il vous plaît, ne soyons pas comme la majorité de la génération ac
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un crime contre l'humanité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="pr-2">La croix comme symbole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

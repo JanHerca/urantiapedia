@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Evolution_or_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Évolution ou révolution ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Contacting_God_What_can_we_expect">
+          <span class="pr-2">Contacter Dieu : à quoi pouvons-nous nous attendre ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans la théorie des jeux, le terme « à somme nulle » fait référence à une situation dans laquelle il y a clairement un gagnant et un perdant qui, additionnés, ont une somme nulle. En revanche, dans les jeux à somme non nulle, les intérêts des joueurs peuvent se chevaucher. Des exemples du premier sont le tennis, les échecs et la boxe. On constate une somme non nulle dans la chasse et la pêche, où les participants peuvent s'entraider de manière à bénéficier à tous. Ainsi, la somme nulle tend à être totalement compétitive, tandis que la tendance dans le cas d’une somme non nulle peut aller vers une coopération accrue.
@@ -116,6 +140,31 @@ Wright conclut par ce commentaire : « Que vous croyiez ou non que l’histoire 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Evolution_or_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Évolution ou révolution ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Contacting_God_What_can_we_expect">
+          <span class="pr-2">Contacter Dieu : à quoi pouvons-nous nous attendre ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

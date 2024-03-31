@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Crucifixion_Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Crucifixion – Pourquoi ??</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La physique est en réalité une religion. Une religion est basée sur des articles (axiomes) de foi non prouvée. En physique, ces articles non prouvés sont :
@@ -52,3 +73,25 @@ Comme la physique, toute religion dépend d’une foi non prouvée. Il semble qu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Crucifixion_Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Crucifixion – Pourquoi ??</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

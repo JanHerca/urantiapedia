@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dissonance cognitive. Le Livre d'Urantia peut-il aider ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="pr-2">Jésus, l'homme et le mythe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque les ordinateurs stockent vos lettres et vos articles en mémoire afin que vous puissiez les récupérer plus tard, ils en font en réalité un hachage (une purée ?). Le stockage s'effectue sous forme de fichier sur un disque subdivisé en sections. Un système de comptabilité conserve un index et lorsque vous souhaitez récupérer votre fichier, il vous suffit de taper son nom et d'appuyer sur le bouton magique. Cependant, le dossier ne se trouve pas nécessairement entièrement dans un seul classeur. Lors du stockage, le bibliothécaire à l'intérieur de l'ordinateur cherche tout espace libre dans les armoires partiellement remplies et, étant pointilleux, insiste pour remplir tous les espaces vacants avec des morceaux de votre dossier. Ainsi, votre fichier est stocké partout. Finalement, cela rend la tâche du bibliothécaire lente et fastidieuse. Mais un remède est à portée de main ! Tapez simplement « `DEFRAG` » (qui est l'abréviation de défragmentation) et voilà, tous les éléments de tous vos fichiers sont reconstitués, sont stockés au même endroit et l'index est mis à jour afin qu'il puisse être récupéré rapidement et facilement. Cela fonctionne comme par magie.
@@ -40,3 +64,28 @@ C'est là que nous pouvons à nouveau utiliser `DEFRAG2`. Réfléchissez bien au
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dissonance cognitive. Le Livre d'Urantia peut-il aider ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="pr-2">Jésus, l'homme et le mythe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

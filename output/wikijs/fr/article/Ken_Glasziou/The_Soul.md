@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parentalité démocratique : l'importance de la famille et du conseil de famille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="pr-2">Le pouvoir d'une idée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - L'âme est la partie de nous qui réfléchit, discerne la vérité et perçoit l'esprit, qui élève à jamais l'être humain au-dessus du niveau du monde animal.
@@ -30,3 +54,28 @@ Source : _Le Livre d'Urantia_, <a id="a22_31"></a>[LU 133:6.5-7](/fr/The_Urantia
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parentalité démocratique : l'importance de la famille et du conseil de famille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="pr-2">Le pouvoir d'une idée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

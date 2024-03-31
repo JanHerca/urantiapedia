@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/About_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de la certitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/God_consciousness_of_God_the_will_of">
+          <span class="pr-2">Dieu – conscience de ; Dieu – volonté de</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il n'est pas possible que l'Esprit ait plus de bonté que le Père puisque toute bonté a son origine dans le Père, mais dans les actes de l'Esprit nous pouvons mieux comprendre cette bonté. La fidélité du Père et la constance du Fils sont rendues très réelles aux êtres spirituels et aux créatures matérielles des sphères par le ministère d'amour et le service incessant des personnalités de l'Esprit Infini.
@@ -27,3 +51,28 @@ La possibilité du mal est nécessaire au choix moral, mais pas sa réalité. Le
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/About_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de la certitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/God_consciousness_of_God_the_will_of">
+          <span class="pr-2">Dieu – conscience de ; Dieu – volonté de</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

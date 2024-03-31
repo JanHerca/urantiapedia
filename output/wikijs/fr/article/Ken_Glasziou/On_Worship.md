@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La voie : décisions, buts et motivations du baptême de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Brahma_Breathes">
+          <span class="pr-2">Brahma respire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ nous informe que la qualité de notre culte est déterminée par la profondeur de notre perception qui, à son tour, varie proportionnellement à la profondeur de notre connaissance de Dieu. Il s’ensuit que notre expérience d’adoration peut être améliorée de deux manières, premièrement en augmentant notre compréhension de nous-mêmes et deuxièmement en augmentant notre connaissance de Dieu. Commençons donc par essayer d’en savoir plus sur nous-mêmes.
@@ -127,3 +151,28 @@ Une autre pensée qui m'est venue à l'esprit pendant la préparation est la sui
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La voie : décisions, buts et motivations du baptême de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Brahma_Breathes">
+          <span class="pr-2">Brahma respire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

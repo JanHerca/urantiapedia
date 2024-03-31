@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui a écrit le Livre d'Urantia ? Cela n'a pas vraiment d'importance—à mon humble avis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="pr-2">La paternité du Livre d’Urantia – Autres aspects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Céder aux pressions des groupes de pairs a ruiné un nombre incalculable de vies, jeunes et adultes. Pourquoi les gens d’une intelligence et d’un courage normaux deviennent-ils des lâches idiots, impuissants et sans âme face à la pression de leurs pairs ?
@@ -36,3 +60,28 @@ En réalité, vous n'êtes jamais seul. L’Esprit-Dieu qui vous habite est touj
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui a écrit le Livre d'Urantia ? Cela n'a pas vraiment d'importance—à mon humble avis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="pr-2">La paternité du Livre d’Urantia – Autres aspects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

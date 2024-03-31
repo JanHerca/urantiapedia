@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spirit_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="pr-2">Les Urantiens ont-ils une tâche particulière avec le christianisme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tant que la prière est sincère et prononcée avec foi, même si une réponse directe est peu judicieuse ou impossible, toute prière de ce type ne manque jamais d’élargir notre réceptivité spirituelle. (à partir de <a id="a13_211"></a>[LU 144:4.2](/fr/The_Urantia_Book/144#p4_2))
@@ -27,3 +51,28 @@ La vraie prière est le reflet de notre désir spirituel sincère de prendre con
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_1/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spirit_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="pr-2">Les Urantiens ont-ils une tâche particulière avec le christianisme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Physics_is_a_Religion">
+          <span class="pr-2">La physique est une religion !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Certains ont supposé à tort que la droiture de Dieu était inconciliable avec l’amour désintéressé du Père céleste. Cela présupposait l’absence d’unité dans la nature de la Déité et conduisait directement à élaborer la doctrine du rachat qui est un outrage philosophique à la fois à l’unité et au libre arbitre de Dieu. » (<a id="a13_326"></a>[LU 2:6.5](/fr/The_Urantia_Book/2#p6_5))
@@ -66,3 +90,28 @@ Le changement qui semble nécessaire est celui qui façonnera ce qui est mainten
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Physics_is_a_Religion">
+          <span class="pr-2">La physique est une religion !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

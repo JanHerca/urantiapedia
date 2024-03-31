@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ann Bendall<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La matière noire et un collier de perles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mathematics_and_Science_catch_up_with_The_Urantia_Book">
+          <span class="pr-2">La science et le Livre d'Urantia. Le Mésotron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il est possible d'acquérir l'esprit de Jésus. Tel que je le perçois actuellement, il s'agit du développement d'un niveau de moralité, de philosophie et d'éthique universelles, ainsi que des attributs mentaux qui accompagnent les façons d'approcher les autres et les attitudes pour traiter les problèmes afin de refléter son niveau de moralité.
@@ -36,6 +60,31 @@ Comment a-t-il freiné la tendance à réagir à l’environnement social ? Ce s
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La matière noire et un collier de perles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mathematics_and_Science_catch_up_with_The_Urantia_Book">
+          <span class="pr-2">La science et le Livre d'Urantia. Le Mésotron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

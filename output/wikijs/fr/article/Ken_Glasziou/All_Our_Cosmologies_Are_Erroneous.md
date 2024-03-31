@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Voie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="pr-2">Ce que j'aurais aimé savoir à dix-huit ans</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Signification de « cosmologie »
@@ -118,6 +142,31 @@ Au péril de sa vie et de son intégrité physique, je suis obligé de supposer 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Voie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="pr-2">Ce que j'aurais aimé savoir à dix-huit ans</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

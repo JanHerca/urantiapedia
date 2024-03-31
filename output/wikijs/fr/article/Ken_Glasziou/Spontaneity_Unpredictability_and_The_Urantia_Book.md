@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déterminisme matérialiste - Derniers rites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="pr-2">L'aube de l'imagination créatrice : l'alter ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ a été donné au monde à une époque où les concepts de matérialisme et d'univers déterminé étaient au sommet de leur influence. L’impiété qui accompagne le matérialisme a peut-être atteint son apogée au troisième quart du siècle et est peut-être aujourd’hui en déclin. Mais dans la première moitié de notre siècle, nombre de grands esprits, comme celui d’Albert Einstein par exemple, croyaient fermement en un univers déterminé, fondant cette croyance sur l’immuabilité du fonctionnement des lois universelles de la physique.
@@ -56,3 +80,28 @@ Nos citations du _Livre d'Urantia_ sont tout à fait concluantes sur les rôles 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Déterminisme matérialiste - Derniers rites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="pr-2">L'aube de l'imagination créatrice : l'alter ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

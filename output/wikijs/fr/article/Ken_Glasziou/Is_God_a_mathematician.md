@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T08:17:51.384Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Sin_should_we_take_it_seriously">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le péché, devrions-nous le prendre au sérieux ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La science sans religion est boiteuse, la religion sans science est aveugle.
@@ -43,3 +64,25 @@ But this is only a small example of the amazing power of mathematics to unravel 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Sin_should_we_take_it_seriously">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le péché, devrions-nous le prendre au sérieux ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

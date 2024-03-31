@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:47:36.119Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Urantia_is_Waiting_Upon_Whom_For_What">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout Urantia attend – Sur qui ? Pour quoi ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="pr-2">Le rasoir d'Occam appliqué à la religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Selon un rapport biennal de la National Science Foundation (2002), 30 % des adultes américains croient que les ovnis sont les véhicules spatiaux d’extraterrestres venus d’autres planètes ; 32 % croient aux chiffres porte-bonheur ; 40 % pensent que l’astrologie est une science établie ; 60 % croient à la perception extrasensorielle ; 70 % pensent que la thérapie magnétique est scientifique ; et 88 % acceptent la validité de la médecine alternative.
@@ -62,3 +86,28 @@ Pour de très nombreuses raisons, y compris le fait que toutes les occasions d�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Urantia_is_Waiting_Upon_Whom_For_What">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout Urantia attend – Sur qui ? Pour quoi ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="pr-2">Le rasoir d'Occam appliqué à la religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

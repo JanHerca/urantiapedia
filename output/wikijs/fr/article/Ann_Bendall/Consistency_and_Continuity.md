@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T01:53:28.853Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ann Bendall<br>© 1996 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comme Jésus passait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="pr-2">Les clés du Royaume</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les humains résistent naturellement au changement. Une fois que nous nous sommes habitués à une certaine vision de nous-mêmes et de ceux qui nous entourent, nous pouvons être terrifiés et lutter vigoureusement contre tout ce qui est nouveau ou différent. Cette résistance au changement est un phénomène universel, et lorsque nous sommes opposés au changement, nous devenons craintifs, ce qui intensifie en réalité notre conflit. Le changement est menaçant, simplement parce qu’il nous met au défi, nous amène à nous interroger sur l’adéquation de nos compétences pour faire face au nouvel environnement produit par le changement et nous éloigne de la complaisance et de la léthargie. Le changement nous oblige également, le plus souvent, à adopter de nouveaux comportements et à abandonner les anciennes croyances et valeurs.
@@ -36,3 +60,28 @@ Et ainsi se poursuit jusqu’au Paradis, la lente évolution évolutive consista
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comme Jésus passait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="pr-2">Les clés du Royaume</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

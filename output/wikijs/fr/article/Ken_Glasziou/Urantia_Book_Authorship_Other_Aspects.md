@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la pression des groupes de pairs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="pr-2">La charité ne commence pas à la maison !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Outre l'inclusion de certaines informations prophétiques dans les Cahiers d'Urantia et, plus important encore, la qualité remarquable de leur présentation, existe-t-il d'autres moyens par lesquels les lecteurs peuvent trouver la confirmation dans leur esprit que les auteurs étaient surhumains ?
@@ -42,3 +66,28 @@ Y aurait-il eu un être humain si égoïste, si arrogant, si vaniteux, si préte
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la pression des groupes de pairs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="pr-2">La charité ne commence pas à la maison !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la communication avec notre Ajusteur de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="pr-2">Croyances et valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans le numéro précédent d’Innerface, nous avons présenté un récit de la révélation ahurissante par Stefan Tallqvist de deux « prophéties » assez étonnantes qui sont restées inconnues dans _Le Livre d’Urantia_ jusqu’à ce qu’elles soient mises à la lumière du jour par Stefan.
@@ -59,3 +83,28 @@ Les modifications apportées aux comparaisons de Swann telles qu'elles apparaiss
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la communication avec notre Ajusteur de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="pr-2">Croyances et valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

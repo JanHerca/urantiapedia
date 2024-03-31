@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_ignored_the_great_men_of_earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus a expliqué qu'il avait délibérément ignoré les grands hommes de la Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/At_Caesarea_Philippi">
+          <span class="pr-2">À Césarée-Phillipi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le plus connu de toutes les reliques chrétiennes, le Suaire de Turin est un linceul funéraire qui porte la moindre image négative d'un homme crucifié dont le corps porte toutes les marques, blessures, contusions et taches de sang compatibles avec les archives que nous avons de la flagellation et de la flagellation de Jésus. crucifixion d'il y a près de deux mille ans.
@@ -91,3 +115,28 @@ Malgré la débâcle de la datation au carbone, il semble toujours possible que 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_ignored_the_great_men_of_earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus a expliqué qu'il avait délibérément ignoré les grands hommes de la Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/At_Caesarea_Philippi">
+          <span class="pr-2">À Césarée-Phillipi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

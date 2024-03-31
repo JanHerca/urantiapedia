@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La physique quantique a-t-elle découvert le Père Universel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Well_Has_It">
+          <span class="pr-2">Eh bien, n'est-ce pas ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 extrait d'un essai intitulé «Positivisme, métaphysique et religion». par Werner Heisenberg.
@@ -32,3 +56,28 @@ Malgré l’heure tardive, un petit bateau s’est amarré sur la jetée et nous
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La physique quantique a-t-elle découvert le Père Universel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Well_Has_It">
+          <span class="pr-2">Eh bien, n'est-ce pas ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

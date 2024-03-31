@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources humaines du Livre d'Urantia. La Force Forte et la Supernova</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="pr-2">Qui a écrit le Livre d'Urantia ? Cela n'a pas vraiment d'importance—à mon humble avis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Pardonner est divin. » C'est ce qu'on nous dit. Et alors que chacun de nous s’efforce de ressembler davantage à Dieu, nous sommes confrontés au dilemme d’identifier qui nous a fait quoi, pourquoi et quelles en sont les conséquences.
@@ -86,3 +110,28 @@ Même si je peux attirer l’attention sur certains de ces problèmes, les véri
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources humaines du Livre d'Urantia. La Force Forte et la Supernova</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="pr-2">Qui a écrit le Livre d'Urantia ? Cela n'a pas vraiment d'importance—à mon humble avis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

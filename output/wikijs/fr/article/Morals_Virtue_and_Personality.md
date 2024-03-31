@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Pragmatism">
+          <span class="pr-2">Sur le pragmatisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'intelligence à elle seule ne peut expliquer la nature morale. **La moralité, la vertu, est inhérente à la personnalité humaine.** L'intuition morale, la réalisation du devoir, est une composante de la dotation de l'esprit humain et est associée aux autres éléments inaliénables de la nature humaine : la curiosité scientifique et la perspicacité spirituelle. La mentalité de l’homme transcende de loin celle de ses cousins animaux, mais c’est sa nature morale et religieuse qui le distingue particulièrement du monde animal.
@@ -42,3 +63,25 @@ La vertu suprême est donc de choisir de tout cœur de faire la volonté du Pèr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Pragmatism">
+          <span class="pr-2">Sur le pragmatisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

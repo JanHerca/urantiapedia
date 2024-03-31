@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obligations envers les Églises chrétiennes et les autres religions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/All_things_work_together_for_good_despite">
+          <span class="pr-2">Toutes choses concourent au bien, malgré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions ! La communauté chrétienne des croyants n’hésiterait certainement pas à réadapter sa foi et ses habitudes de vie, de manière à pouvoir « suivre » le Maitre dans la démonstration de sa vie réelle de dévotion religieuse à faire la volonté de son Père et de consécration désintéressée au service des hommes. (<a id="a13_563"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
@@ -65,3 +89,28 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page20.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obligations envers les Églises chrétiennes et les autres religions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/All_things_work_together_for_good_despite">
+          <span class="pr-2">Toutes choses concourent au bien, malgré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

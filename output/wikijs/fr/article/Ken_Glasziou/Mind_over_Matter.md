@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Révélation Urantia. Pourquoi l'avons-nous ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/More_on_Prayer">
+          <span class="pr-2">En savoir plus sur la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Le mental est toujours créateur. La dotation mentale individuelle d’un animal, d’un humain, d’un morontien, d’un ascendeur spirituel ou d’un finalitaire est toujours capable de produire un corps approprié et utilisable pour identifier la créature vivante._ (<a id="a13_261"></a>[LU 42:12.9](/fr/The_Urantia_Book/42#p12_9))
@@ -43,3 +67,28 @@ Nous ne devons jamais rejeter les tâches qui nous sont confiées en invoquant �
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Révélation Urantia. Pourquoi l'avons-nous ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/More_on_Prayer">
+          <span class="pr-2">En savoir plus sur la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

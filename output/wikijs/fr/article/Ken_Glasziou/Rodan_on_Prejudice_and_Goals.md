@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/John_Hyde_a_Tribute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">John Hyde - un hommage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Smaller_Beatitudes">
+          <span class="pr-2">Les petites béatitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Les préjugés aveuglent l’âme et l’empêchent de reconnaitre la vérité. Seule peut les écarter une dévotion sincère de l’âme à l’adoration d’une cause embrassant tout et incluant tous nos semblables humains.
@@ -38,3 +62,28 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/John_Hyde_a_Tribute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">John Hyde - un hommage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Smaller_Beatitudes">
+          <span class="pr-2">Les petites béatitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

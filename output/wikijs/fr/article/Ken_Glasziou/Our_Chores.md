@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:17:35.750Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amour, une nécessité pour l'épanouissement de l'humanité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="pr-2">En savoir plus sur « Notre défi »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Consacrez votre vie à démontrer l’affection humaine combinée à la dignité divine du mortel connaissant Dieu.
@@ -37,3 +61,28 @@ Mais avant tout, nous devons vivre comme Jésus a vécu.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amour, une nécessité pour l'épanouissement de l'humanité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="pr-2">En savoir plus sur « Notre défi »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

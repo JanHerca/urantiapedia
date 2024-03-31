@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:01:49.054Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Dick Bain<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Devenir plus spirituel : vivre comme Jésus a vécu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="pr-2">La pensée de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En cartographiant l'univers, les astronomes ont découvert que les galaxies sont disposées en longs filaments et ont émis l'hypothèse que la structure filamentaire est due à la présence d'une substance mystérieuse connue sous le nom de matière noire. Comment la matière noire supposée pourrait-elle être responsable de la structure de l’univers ?
@@ -54,6 +78,31 @@ D'après ce que nos astronomes peuvent voir maintenant, il apparaît que la simp
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Devenir plus spirituel : vivre comme Jésus a vécu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="pr-2">La pensée de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jouer avec Dieu : une vocation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="pr-2">Sur le droit d'auteur et le plagiat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Il y a très, très longtemps, un homme appelé Moïse a fait une annonce aux membres de sa nation. Moïse dit : « Jéhovah a dit que nous devons désormais l’adorer sans utiliser d’idoles fabriquées à la main. À partir de maintenant, plus rien entre les deux : juste toi et Dieu.’ »
@@ -48,3 +72,28 @@ Mais le résultat net est toujours le même. Personne ne gagne vraiment. Au fil 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jouer avec Dieu : une vocation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="pr-2">Sur le droit d'auteur et le plagiat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

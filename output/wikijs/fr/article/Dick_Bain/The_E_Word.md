@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dick Bain<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia. Une publication immédiate était-elle prévue ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consciousness">
+          <span class="pr-2">Conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai toujours considéré le Livre d'Urantia comme un livre spirituel sans égal, mais après de nombreuses années d'étude, il semble différent à certains égards du livre que j'ai lu pour la première fois. Je suis sûr que mon expérience n'est pas unique. Je vois notre rapport au livre comme passant par des étapes semblables à celles d’une romance.
@@ -75,3 +99,28 @@ Matthieu suggère de lire le livre de Mark Haller, « _Eugenics_ », pour avoir 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia. Une publication immédiate était-elle prévue ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consciousness">
+          <span class="pr-2">Conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

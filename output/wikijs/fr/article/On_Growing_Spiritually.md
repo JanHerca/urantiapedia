@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Contacting_God_What_can_we_expect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contacter Dieu : à quoi pouvons-nous nous attendre ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Le but de la réalisation de soi, pour l’homme, devrait être spirituel et non matériel. Les seules réalités qui vaillent l’effort sont divines, spirituelles et éternelles. » (<a id="a13_178"></a>[LU 100:2.6](/fr/The_Urantia_Book/100#p2_6))
@@ -51,3 +72,25 @@ Mais au niveau conscient de l’élimination de l’égoïsme de notre nature, l
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Contacting_God_What_can_we_expect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contacter Dieu : à quoi pouvons-nous nous attendre ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

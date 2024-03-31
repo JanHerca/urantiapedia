@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:17:26.999Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Big Bang : activé ou désactivé ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Urantia_is_Waiting_Upon_Whom_For_What">
+          <span class="pr-2">Tout Urantia attend – Sur qui ? Pour quoi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans les univers, Dieu le Père est, en puissance, le surcontrôleur de la matière, de l'esprit et de l'esprit. Ce n'est qu'au moyen de son vaste circuit de personnalité que Dieu traite directement avec les personnalités de sa vaste création de créatures volontaires, mais il n'est contactable (en dehors du Paradis) qu'en présence de ses entités fragmentées, la volonté de Dieu étant à l'étranger dans le univers.
@@ -49,3 +73,28 @@ Le Jésus humain considérait Dieu comme étant saint, juste et grand, tout en �
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Big Bang : activé ou désactivé ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Urantia_is_Waiting_Upon_Whom_For_What">
+          <span class="pr-2">Tout Urantia attend – Sur qui ? Pour quoi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

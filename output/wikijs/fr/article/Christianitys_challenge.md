@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christianity_hopes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianisme – espoirs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Forward_with_care">
+          <span class="pr-2">Avancer avec précaution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ne négligez pas la valeur de votre héritage spirituel, le fleuve de vérité qui coule à travers les siècles, même jusqu’aux temps stériles d’une époque matérialiste et laïque. Dans tous vos efforts louables pour vous débarrasser des croyances superstitieuses des âges passés, assurez-vous de conserver fermement la vérité éternelle. Mais soyez patient ! Lorsque l'actuelle révolte des superstitions sera terminée, les vérités de l'Évangile de Jésus persisteront glorieusement pour éclairer une voie nouvelle et meilleure.
@@ -37,3 +61,28 @@ La religion révélée est l’élément unificateur de l’existence humaine. L
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christianity_hopes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianisme – espoirs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Forward_with_care">
+          <span class="pr-2">Avancer avec précaution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

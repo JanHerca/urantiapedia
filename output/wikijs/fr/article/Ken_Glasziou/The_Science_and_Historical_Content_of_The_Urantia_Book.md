@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Être moralement parfumé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consistency_Column">
+          <span class="pr-2">Colonne de cohérence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Basé sur une conférence donnée à IC96 par Ken Glasziou, Maleny, Australie
@@ -102,3 +126,28 @@ En conclusion, voyons ce que dit le livre :
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Être moralement parfumé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consistency_Column">
+          <span class="pr-2">Colonne de cohérence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

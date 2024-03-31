@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Personality_and_Communication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et communication</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="pr-2">Angona, Némésis et le système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Des concepts tels que l'immuabilité de Dieu, sa perfection, sa droiture, sa justice, sa miséricorde, son amour et son pardon ont toujours abouti à la confusion lorsque des êtres mortels limités tentent de les lier à des définitions significatives. Les théologiens, en particulier, ont commis l’erreur première de croire en leur propre capacité à affirmer avec précision ce que Dieu est ou n’est pas, ou ce que Dieu peut ou ne peut pas faire.
@@ -83,3 +107,28 @@ Cependant, nous ne sommes jamais seuls : « Ce fragment de la pure Divinité du 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Personality_and_Communication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et communication</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="pr-2">Angona, Némésis et le système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

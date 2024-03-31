@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proof'n Spoof</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Really_Out_of_Date">
+          <span class="pr-2">Vraiment obsolète !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Les faits historiques et les vérités religieuses de cette série d’exposés révélateurs subsisteront dans les annales des âges à venir, mais, en même temps, **nous savons parfaitement** que, d’ici peu d’années, **beaucoup de nos affirmations concernant les sciences physiques auront besoin d’être revues**, à la suite de développements scientifiques additionnels et de découvertes nouvelles. Nous prévoyons, dès maintenant, ces nouveaux développements, **mais il nous est interdit d’inclure, dans nos exposés révélateurs, ces notions que les hommes n’ont pas encore découvertes**. Qu’il soit bien clair que les révélations ne sont pas nécessairement inspirées. **La cosmologie révélée ici n’est pas inspirée.** Elle est limitée par l’autorisation que nous avons de coordonner et de trier les connaissances d’aujourd’hui. La clairvoyance divine ou spirituelle est un don, mais *la sagesse humaine doit évoluer.* » (<a id="a13_916"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
@@ -58,3 +82,28 @@ Ceux qui connaissent la scène de la « pauvreté écrasante » connaîtront bie
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proof'n Spoof</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Really_Out_of_Date">
+          <span class="pr-2">Vraiment obsolète !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proclamation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="pr-2">Le but des Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il n’existe pas de définition universellement acceptée de ce qui constitue la vie. Cependant, la grande majorité d’entre nous accepte que les animaux et les plantes sont des formes de vie, une grande majorité inclut les bactéries et les champignons comme formes de vie, tandis que presque tous considèrent les virus et les entités pathogènes comme les prions comme non vivants. Si nous acceptons l’opinion majoritaire, alors la « vie » semble être présente sur notre planète depuis près de quatre milliards d’années.
@@ -74,3 +98,28 @@ Si tel était le cas, la fonction probable des Porteurs de Vie aurait été de r
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proclamation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="pr-2">Le but des Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

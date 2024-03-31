@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Et si ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="pr-2">L'arrivée de l'homme rouge dans les Amériques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les articles situent l'origine du système solaire à 4,5 milliards d'années, à une époque où l'expansion de l'univers par Hubble était (et est toujours) considérée comme le meilleur indicateur de l'âge de l'univers. En 1952, on a découvert que l’estimation alors actuelle de l’âge de l’univers d’environ 2 milliards d’années était incorrecte parce qu’un mauvais type d’étoile variable céphéide avait été utilisé pour aider à faire l’estimation. Une estimation révisée était d’environ 4 à 5 milliards d’années, ce qui donnait à l’univers le même âge que l’estimation de l’Urantia Paper concernant l’âge du système solaire.
@@ -28,3 +52,28 @@ Ainsi, même si le facteur temps permettait l’utilisation des données sur les
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Et si ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="pr-2">L'arrivée de l'homme rouge dans les Amériques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

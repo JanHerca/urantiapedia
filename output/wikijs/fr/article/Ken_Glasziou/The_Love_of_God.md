@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="pr-2">Les Cahiers d'Urantia s'auto-authentifient</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « La Paternité de Dieu et la fraternité des hommes offrent le paradoxe de la partie et du tout au niveau de la personnalité. Dieu aime *chaque* individu comme un enfant distinct dans la famille céleste. Cependant, Dieu aime ainsi *tous* les individus ; il ne fait pas acception de personnes, et l’universalité de son amour fait naitre une relation d’ensemble, la fraternité universelle. »
@@ -24,3 +45,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="pr-2">Les Cahiers d'Urantia s'auto-authentifient</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

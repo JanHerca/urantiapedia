@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:52:55.262Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que disent les Fascicules d'Urantia à propos de l'esprit ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="pr-2">Puis-je « être » ce que Dieu veut que je « sois ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours de la discussion entre Jésus et Emmanuel sur le but de l’effusion de Jésus, Emmanuel a recommandé ce qui suit :
@@ -51,3 +75,28 @@ Mais avec Jésus comme modèle, avec l'Esprit de Vérité de Jésus comme guide 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que disent les Fascicules d'Urantia à propos de l'esprit ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="pr-2">Puis-je « être » ce que Dieu veut que je « sois ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

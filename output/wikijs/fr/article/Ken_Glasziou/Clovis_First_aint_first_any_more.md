@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Gideonism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gidéonisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La plupart des lecteurs sont conscients du conflit entre une déclaration du _Livre d'Urantia_ concernant la venue de l'homme rouge en Amérique il y a environ 85 000 ans et la vision « Clovis d'abord » de la première préhistoire américaine. Ce dernier point de vue affirmait que la pénétration humaine sur le continent américain était bloquée par une calotte glaciaire canadienne jusqu'il y a 12 000 ans.
@@ -42,3 +63,25 @@ Des preuves de fabrication d'outils remontant à 3 millions d'années en Afrique
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Gideonism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gidéonisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

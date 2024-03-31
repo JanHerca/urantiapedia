@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="pr-2">Les Fils Instructeurs de la Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jésus avait la capacité de réfléchir avant de parler. Il y a un certain nombre de références dans _Le Livre d'Urantia_ certifiant sa « pause » avant de répondre – une technique que j'essaie si durement d'acquérir et que je n'arrive pas à accomplir de manière lamentable. Cela est particulièrement vrai dans les cas où l'émotion est déclenchée par un commentaire, une action, par la frustration ou la colère.
@@ -46,3 +70,28 @@ Et ce n'est que lorsque le coq a chanté que Pierre s'est rendu compte qu'il ava
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="pr-2">Les Fils Instructeurs de la Trinité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

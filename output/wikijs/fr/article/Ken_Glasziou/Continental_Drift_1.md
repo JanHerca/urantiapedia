@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:40:07.436Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prophetic_material_and_errors_Epilogue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matériel prophétique et erreurs dans la révélation sur Urantia – Épilogue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="pr-2">Continental Drift 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > **Dans ce numéro...**
@@ -61,3 +85,28 @@ Une chance chanceuse semble être la seule alternative. Mais les chances de ne p
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page26.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prophetic_material_and_errors_Epilogue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matériel prophétique et erreurs dans la révélation sur Urantia – Épilogue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="pr-2">Continental Drift 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

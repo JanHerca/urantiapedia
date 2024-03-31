@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:46:20.684Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Effects_of_the_Gospel_Records">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les effets des récits évangéliques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_was_the_Gospel_of_Jesus">
+          <span class="pr-2">Quel était l'Évangile de Jésus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour les lecteurs du Livre d’Urantia, et en supposant l’absence de la révélation d’Urantia, il est à la fois intéressant et éducatif de réaliser à quel point on sait peu de choses sur la phase pré-baptismale de la vie de Jésus. Sans Le Livre d’Urantia, même la date ou l’année de naissance de Jésus n’est pas connue.
@@ -57,3 +81,28 @@ Jésus n’était donc pas un rustre de la campagne qui n’avait jamais été e
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Effects_of_the_Gospel_Records">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les effets des récits évangéliques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_was_the_Gospel_of_Jesus">
+          <span class="pr-2">Quel était l'Évangile de Jésus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le cœur devenu sans amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/High_on_Angels">
+          <span class="pr-2">Haut sur les anges</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jésus appelait tout le monde « ami », car il ne faisait aucun doute qu’il n’était effectivement que cela. Qu'il ait une amitié avec la personne était leur décision, et leur seule décision. Pour exister, l'amitié dépendait à 100% du fait que la personne considérait Jésus comme un ami et choisissait d'être également son ami.
@@ -94,3 +118,28 @@ _La jalousie : un poison spirituel qui attaque et détruit le cœur !_
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le cœur devenu sans amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/High_on_Angels">
+          <span class="pr-2">Haut sur les anges</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

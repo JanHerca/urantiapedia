@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T08:20:29.592Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suaire de Turin – Une mise à jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="pr-2">Devenir plus spirituel : vivre comme Jésus a vécu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Apparemment né parmi les théologiens et philosophes allemands au XIXe siècle, un mouvement qui remet en question tous les aspects de l’historicité et de l’authenticité bibliques a lentement gagné en vigueur et semble maintenant être entré dans une phase de croissance exponentielle.
@@ -67,3 +91,28 @@ Avons-nous échoué à relever ce défi en nous enlisant dans des choses laïque
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suaire de Turin – Une mise à jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="pr-2">Devenir plus spirituel : vivre comme Jésus a vécu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

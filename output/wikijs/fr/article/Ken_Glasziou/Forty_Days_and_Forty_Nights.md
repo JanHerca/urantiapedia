@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que j'aurais aimé savoir à dix-huit ans</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Notes_on_the_40_day_error">
+          <span class="pr-2">Notes sur l'erreur de quarante jours</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un article précédent dans ce numéro discutait de l'erreur étrange et assez étonnante dans la Partie 4 du Livre d'Urantia concernant l'utilisation d'un intervalle de quarante jours s'écoulant entre le moment de la crucifixion de Jésus à la veille de la Pâque juive et le moment de son ascension le jour fixé pour la fête de la Pentecôte. Cette ancienne fête juive des récoltes avait lieu sept semaines et un jour après la Pâque, une période de cinquante jours qui tire son nom du mot grec « pentekostos » qui signifie cinquante jours.
@@ -88,3 +112,28 @@ Si nous devons nous préoccuper de ramener l’humanité à la Quatrième Révé
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que j'aurais aimé savoir à dix-huit ans</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Notes_on_the_40_day_error">
+          <span class="pr-2">Notes sur l'erreur de quarante jours</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

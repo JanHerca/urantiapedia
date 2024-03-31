@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur les travaux secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_and_The_Urantia_Book_The_Mesotron">
+          <span class="pr-2">La science et le Livre d'Urantia. Le Mésotron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mon Ajusteur de Pensée peut garantir le fait que j'ai essayé toutes les manières naïves et simples de discuter avec Lui. Dans un article précédent, j'ai mentionné certains de mes efforts déséquilibrés, exigeants, insensés et résolument désespérés pour qu'Il me parle. Si je choisis d’être honnête avec moi-même, ils ont tous échoué !
@@ -48,3 +72,28 @@ En apprenant à connaître Dieu et Jésus, puis en exerçant ma volonté d'une m
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur les travaux secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_and_The_Urantia_Book_The_Mesotron">
+          <span class="pr-2">La science et le Livre d'Urantia. Le Mésotron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

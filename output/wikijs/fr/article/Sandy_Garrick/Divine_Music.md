@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Sandy Garrick<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culpabilité parentale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="pr-2">De l'espace et du rien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mon principal point d'insatisfaction concernant l'origine des papiers d'Urantia a toujours été l'absence d'un musicien authentique dans le premier panel du Forum que le Dr Sadler a réuni dans sa maison de Chicago afin de nous apporter ce superbe document sur l'ampleur de la réalité cosmique de Dieu. 
@@ -46,3 +70,28 @@ Lorsque nous sommes impressionnés par le Maître Univers, nous devons nous arr�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culpabilité parentale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="pr-2">De l'espace et du rien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

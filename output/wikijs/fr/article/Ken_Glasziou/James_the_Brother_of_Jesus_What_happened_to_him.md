@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Non-respirants : des voisins très étranges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="pr-2">Décisions, décisions : accomplir la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ nous dit que Jacques, le frère de Jésus, est devenu le chef titulaire de l'Église de Jérusalem. Mais bien que le livre décrive la mort des douze apôtres, ainsi que celle d’Étienne et de Paul, il ne jette aucune lumière sur le sort ultime de Jacques.
@@ -32,3 +56,28 @@ Alors peut-être qu’il y avait vraiment une personne nommée Jésus de Nazaret
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Non-respirants : des voisins très étranges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="pr-2">Décisions, décisions : accomplir la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

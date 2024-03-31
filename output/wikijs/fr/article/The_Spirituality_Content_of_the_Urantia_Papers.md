@@ -9,6 +9,24 @@ dateCreated: 2022-09-27T00:03:47.821Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans un avenir pas trop lointain, il viendra un moment où une grande partie du Livre d’Urantia sera devenue obsolète. Cela sera dû au caractère obsolète d’une grande partie de sa science ainsi que de parties considérables du contenu historique, y compris le matériel biblique.
@@ -523,3 +541,22 @@ C’est pourquoi les Cahiers nous disent : « ce qui a le plus de valeur est de 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

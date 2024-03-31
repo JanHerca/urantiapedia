@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des trucs profonds sur les âmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Necessity_for_Going_Forward_Backwardly">
+          <span class="pr-2">La nécessité d’aller de l’avant – en arrière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il est intéressant de noter que les Grecs de l’Antiquité ont planté le germe d’un concept qui s’est développé et s’est épanoui sous le nom de « possibilités ». Platon l’a résumé comme étant des « idées » qui existent en elles-mêmes et dont tout le reste dérive.
@@ -34,3 +58,28 @@ Par conséquent, en vertu du chemin par lequel les Fascicules nous sont parvenus
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des trucs profonds sur les âmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Necessity_for_Going_Forward_Backwardly">
+          <span class="pr-2">La nécessité d’aller de l’avant – en arrière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

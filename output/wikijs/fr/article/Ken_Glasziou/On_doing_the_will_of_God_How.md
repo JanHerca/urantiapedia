@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:01:14.495Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit et âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="pr-2">Le Big Bang : activé ou désactivé ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Saviez-vous qu'il est possible pour l'âme humaine de prendre la décision finale de fusionner avec votre Esprit-Père qui vous habite ? Et vous pouvez le faire MAINTENANT. (<a id="a13_171"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
@@ -48,3 +72,28 @@ En résumé, faire la volonté de Dieu signifie, avec Jésus comme modèle, touj
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit et âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="pr-2">Le Big Bang : activé ou désactivé ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

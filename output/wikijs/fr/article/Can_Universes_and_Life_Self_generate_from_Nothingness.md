@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:29:56.106Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Personality_Identity_Mind_and_Consciousness_in_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité, identité, esprit et conscience, dans la révélation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Creation_of_the_Universe_Did_God_participate">
+          <span class="pr-2">Création de l'Univers. Dieu a-t-il participé ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un univers auto-généré, partant du néant, est-il une possibilité ? Et la génération spontanée de la vie est-elle une attente raisonnable ? Telles sont les questions que, tôt ou tard, la plupart d’entre nous se poseront.
@@ -127,3 +151,28 @@ Ainsi, sauf accident, il semble que notre planète devrait être en sécurité p
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Personality_Identity_Mind_and_Consciousness_in_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité, identité, esprit et conscience, dans la révélation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Creation_of_the_Universe_Did_God_participate">
+          <span class="pr-2">Création de l'Univers. Dieu a-t-il participé ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

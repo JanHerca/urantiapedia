@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 William Trimble<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Infinity_Finity_Transform">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transformation Finité-Infini</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Transmutation_of_Existential">
+          <span class="pr-2">La transmutation des potentialités et des réalités existentielles vers le niveau fini de réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - Être au monde, c'est se sentir incomplet.
@@ -44,3 +68,28 @@ Lorsque nous nous réveillerons de notre sommeil terrestre, nous aurons un corps
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Infinity_Finity_Transform">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transformation Finité-Infini</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Transmutation_of_Existential">
+          <span class="pr-2">La transmutation des potentialités et des réalités existentielles vers le niveau fini de réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

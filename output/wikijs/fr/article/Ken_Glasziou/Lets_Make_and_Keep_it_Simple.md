@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patience : un millénaire équivaut à 1000 ans</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="pr-2">Écoutez ! Écoutez ! Tous les précurseurs de l'espoir, les gardiens du droit d'auteur et les protecteurs d'un texte inviolable, écoutez ceci</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comment pouvons-nous savoir si nous sommes habités par l’esprit ? Comment pouvons-nous savoir si nous sommes dirigés par l’esprit ? Comment pouvons-nous distinguer le bien du mal ? Comment pouvons-nous connaître la vérité ? Laissés entièrement à nos propres ressources, nous ne pouvions tout simplement pas en être sûrs. Mais les Cahiers d'Urantia nous fournissent des moyens simples de nous vérifier nous-mêmes. Alors faisons et gardons les choses simples.
@@ -47,3 +71,28 @@ Alors faites simple et restez simple. En toutes choses, cherchez à servir Dieu.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patience : un millénaire équivaut à 1000 ans</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="pr-2">Écoutez ! Écoutez ! Tous les précurseurs de l'espoir, les gardiens du droit d'auteur et les protecteurs d'un texte inviolable, écoutez ceci</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

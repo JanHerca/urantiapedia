@@ -9,6 +9,30 @@ dateCreated: 2022-09-07T18:33:46.811Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Urantia, le grand mystère du culte » de Martin Gardner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="pr-2">Lire le Livre d'Urantia comme pratique religieuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le but de la révélation est de révéler et d'élargir la vérité spirituelle. Toutes les présentations de la révélation sont communiquées dans les cadres de référence intellectuels et culturels de l'époque où elles sont données. Ces concepts humains porteurs de révélation sont éphémères, mais la vérité qu'ils proclament est éternelle. Par exemple, l’histoire de la création en 7 jours dans la Bible, que les théologiens qualifient désormais de « mythe », avait un sens dans la cosmologie simpliste des temps pré-scientifiques et transmettait efficacement la vérité spirituelle selon laquelle Dieu est la source de toute création.
@@ -140,3 +164,28 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Urantia, le grand mystère du culte » de Martin Gardner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="pr-2">Lire le Livre d'Urantia comme pratique religieuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

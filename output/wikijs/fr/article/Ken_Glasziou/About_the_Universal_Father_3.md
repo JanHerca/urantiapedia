@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos du Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="pr-2">Les Médians Secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Bien que les mortels matériels ne puissent voir la personne de Dieu, ils devraient se réjouir dans l’assurance qu’il est une personne. Acceptez par la foi la vérité dépeignant le Père Universel comme ayant tant aimé le monde qu’il a pourvu à l’éternelle progression spirituelle de ses humbles habitants. « Il trouve sa joie dans ses enfants. » Dieu n’est dépourvu d’aucun de ces attributs suprahumains et divins qui constituent une personnalité de Créateur parfaite, éternelle, aimante et infinie.
@@ -43,3 +67,28 @@ dateCreated: 2022-9-9T8:12:18Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos du Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="pr-2">Les Médians Secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

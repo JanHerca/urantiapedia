@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/A_Chance_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une rencontre fortuite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="pr-2">Moralité, motif et vertu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans _Le Livre d'Urantia_, le mot _altruiste_ est utilisé à la fois comme nom et comme adjectif. Ses dérivés, le nom _altruisme_ et l'adverbe _altruisme_, font également leur apparition. En tant que nom, _altruisme_ est associé à l'expérience religieuse, à l'impulsion religieuse et à la réflexion religieuse, ainsi qu'à la perspicacité spirituelle et à la conscience de Dieu. En tant qu'adjectif, il y a une différence dans la façon dont il est utilisé dans les parties 1 à 3 du livre par rapport à la partie 4. Dans cette dernière, il qualifie le service (20 fois), la dévotion (4 fois) et le bien et l'amour une fois. chaque. Dans les parties 1 à 3, _altruisme_ est utilisé pour qualifier le ministère, la camaraderie, le service, l'amour, la prière et l'intérêt pour le bien-être de nos semblables.
@@ -61,3 +85,28 @@ La Bible et le Livre d'Urantia nous informent que toute bonté a son origine dan
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/A_Chance_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une rencontre fortuite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="pr-2">Moralité, motif et vertu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

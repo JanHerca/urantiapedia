@@ -9,6 +9,24 @@ dateCreated: 2022-09-26T03:51:01.787Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **(suite d'Innerface Vol. 12, No. 3)** : [Partie I](/fr/article/Are_The_Urantia_Books_teachings_impacting_on_Christian_Theology_Jesus_New_Vision_Part_I)
@@ -307,3 +325,22 @@ La similitude du récit de Borg sur la vie et la mort de Jésus avec celui fourn
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_5/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

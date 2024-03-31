@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Goals_and_Purposes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Buts et objectifs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Was_the_Big_Bang_Really_Real">
+          <span class="pr-2">Le Big Bang était-il vraiment réel ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - Jésus n'était pas un Messie venu multiplier le pain et le vin.
@@ -29,3 +53,28 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Goals_and_Purposes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Buts et objectifs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Was_the_Big_Bang_Really_Real">
+          <span class="pr-2">Le Big Bang était-il vraiment réel ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

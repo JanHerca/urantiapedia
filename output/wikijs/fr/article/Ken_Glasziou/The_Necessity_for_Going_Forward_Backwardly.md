@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/En_Passant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En Passant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Gaia_Hypothesis_and_the_Urantia_Papers">
+          <span class="pr-2">L'hypothèse de Gaia et les fascicules d'Urantia : une convergence ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > mais, si la révélation doit exalter et élever par étapes les religions d’évolution, il faut que ces visitations divines décrivent des enseignements qui ne soient pas trop éloignés des idées et des réactions de l’âge où ils sont présentés. La révélation doit donc toujours garder contact avec l’évolution, et elle le fait. La religion de révélation se voit toujours limitée par la capacité des hommes de la recevoir. (<a id="a13_419"></a>[LU 92:4.1](/fr/The_Urantia_Book/92#p4_1))
@@ -42,3 +66,28 @@ Mais même lorsque nous avons trouvé ce noyau, nous découvrons également que 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/En_Passant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En Passant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Gaia_Hypothesis_and_the_Urantia_Papers">
+          <span class="pr-2">L'hypothèse de Gaia et les fascicules d'Urantia : une convergence ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_about_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="pr-2">À propos de la science « prophétique »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les Cahiers d'Urantia ont connu un mauvais départ lors de leur première publication sous le titre Le Livre d'Urantia en 1955. Avec les meilleures intentions du monde, beaucoup de ceux qui sont responsables de son introduction initiale ont fait tout leur possible pour l'imposer totalement au monde comme une révélation divinement autorisée.
@@ -62,3 +86,28 @@ Lorsqu’on évalue la validité d’un travail, il est certainement souhaitable
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_about_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="pr-2">À propos de la science « prophétique »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

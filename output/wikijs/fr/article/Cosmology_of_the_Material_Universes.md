@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon odyssée des expériences de pointe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Même s’il n’existe pas de définition officielle de la méthode scientifique, ni de ce qui constitue la logique et les objectifs de la science, certaines choses sont comprises par la majorité des scientifiques professionnels.
@@ -65,3 +86,25 @@ La science aura découvert que le flux d'énergie dans les univers est contrôl�
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_6/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon odyssée des expériences de pointe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

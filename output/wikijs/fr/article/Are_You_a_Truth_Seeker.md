@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Truth_and_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vérité et l'Esprit de Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="pr-2">M. Hubble et les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les Fascicules d'Urantia élèvent la vérité et la recherche de la vérité à des niveaux bien plus élevés que le simple effort d'être correct, juste ou en accord avec la lettre ou la loi de la vérité. Ils redéfinissent la vérité comme ce qui a « de vraies significations sur les niveaux à bulle ».
@@ -54,3 +78,28 @@ Alors même si cela peut être « per ardua ad astra », tendons la main vers le
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Truth_and_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vérité et l'Esprit de Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="pr-2">M. Hubble et les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

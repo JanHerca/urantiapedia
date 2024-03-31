@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un autre et plus grand Jean-Baptiste !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="pr-2">La science et le Livre d'Urantia. Origines d'Andon et Fonta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Selon _Le Livre d'Urantia_, lorsque Jésus nous a donné la _Quatrième Révélation d'Époque_, il projetait un plan pour un nouvel âge. Oui, cela dit vraiment que - __un plan pour un nouvel âge !__ (<a id="a13_195"></a>[LU 141:7.15](/fr/The_Urantia_Book/141#p7_15)) Puisque ce nouvel âge n'est pas encore arrivé, on peut présumer que les instructions du Maître sont toujours d'actualité. Quel était le plan ? Il a été donné à ceux à qui il a demandé d’être enseignants de l’Évangile du royaume. (<a id="a13_472"></a>[LU 141:7.6-7](/fr/The_Urantia_Book/141#p7_6)) Il contenait peu d'instructions, la première étant : « _leur seule affaire consistait à __révéler individuellement à l’homme que Dieu est son Père__ — à amener cet homme à devenir personnellement conscient de sa filiation ; ensuite de présenter cet homme à Dieu comme son fils par la foi._” (<a id="a13_811"></a>[LU 141:7.4](/fr/The_Urantia_Book/141#p7_4))
@@ -39,3 +63,28 @@ Un corollaire de cette affirmation est que __si nous mettons en œuvre le plan A
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un autre et plus grand Jean-Baptiste !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="pr-2">La science et le Livre d'Urantia. Origines d'Andon et Fonta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

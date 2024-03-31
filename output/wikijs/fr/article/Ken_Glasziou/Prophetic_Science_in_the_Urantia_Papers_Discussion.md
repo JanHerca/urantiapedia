@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Géophysique – autres prophéties : dérive des continents et âge du système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Error_in_the_Urantia_Papers">
+          <span class="pr-2">Erreur dans les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bien que les Fascicules d'Urantia contiennent une quantité considérable de matériel lié à la science, la plupart d'entre eux constituent en réalité un contexte pour les aspects importants de ces Fascicules – ceux qui concernent les valeurs religieuses et spirituelles de l'humanité. Que ce contexte soit ou non considéré comme une vérité infaillible n’est pas aussi important que le fait qu’il fournisse un cadre dans lequel nous pouvons réfléchir à ce qui est en fin de compte d’une extrême importance pour l’humanité : pourquoi sommes-nous ici et quel est notre destin ?
@@ -81,6 +105,31 @@ L'ecclésiastique est immédiatement et pour toujours incompatible avec cette fo
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Géophysique – autres prophéties : dérive des continents et âge du système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Error_in_the_Urantia_Papers">
+          <span class="pr-2">Erreur dans les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

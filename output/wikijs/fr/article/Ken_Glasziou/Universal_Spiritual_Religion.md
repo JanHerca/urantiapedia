@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:39:35.235Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foi et croyance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="pr-2">L'amour, une nécessité pour l'épanouissement de l'humanité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé : La croyance en Dieu se réduit à deux axiomes fondamentaux qui donnent naturellement naissance à une religion spirituelle universelle.
@@ -114,3 +138,28 @@ Si l’Esprit habite en nous, nous sommes potentiellement des enfants libres et 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foi et croyance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="pr-2">L'amour, une nécessité pour l'épanouissement de l'humanité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

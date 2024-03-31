@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Angona, Némésis et le système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_Lived">
+          <span class="pr-2">Vivre comme Jésus a vécu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Le but de la réalisation de soi, pour l’homme, devrait être spirituel et non matériel. Les seules réalités qui vaillent l’effort sont divines, spirituelles et éternelles. » (<a id="a13_178"></a>[LU 100:2.6](/fr/The_Urantia_Book/100#p2_6))
@@ -61,3 +85,28 @@ Ainsi, ce sens révélé de l’amour a pour fonction de changer le but traditio
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Angona, Némésis et le système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_Lived">
+          <span class="pr-2">Vivre comme Jésus a vécu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Le'Ruth Ward Tyau<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Univers est amical ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce qui suit fait partie d'une lettre adressée à l'éditeur par Le'Ruth Ward Tyau, un lecteur vivant à Hawaï qui a essayé la méthode recommandée par les révélateurs pour améliorer le contact avec nos Ajusteurs de Pensée. La méthode a été discutée dans le Innerface de janvier/février dans un article intitulé « On Worship ». Le’Ruth a découvert une variante de la méthode qui, pour beaucoup, serait probablement d’une grande aide. Elle a écrit:
@@ -60,3 +81,25 @@ Le'Ruth Ward Tyau
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’Univers est amical ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Where_Jesus_Leads_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Là où Jésus mène</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="pr-2">Fascicule 140. L'ordination : est-ce important ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « La moralité est l’indispensable base préexistante de la conscience personnelle de Dieu, de la réalisation personnelle de la présence intérieure de l’Ajusteur, mais cette moralité n’est ni la source de l’expérience religieuse, ni la clairvoyance spirituelle qui en résulte. La nature morale est superanimale mais subspirituelle. La moralité équivaut à reconnaitre le devoir, à réaliser l’existence de ce qui est juste et de ce qui ne l’est pas. La zone morale s’interpose entre le type de mental animal et le type de mental humain, de même que la morontia fonctionne entre les sphères matérielles et spirituelles d’aboutissement de la personnalité. » (<a id="a13_655"></a>[LU 196:3.25](/fr/The_Urantia_Book/196#p3_25))
@@ -50,3 +74,28 @@ La repentance exige parfois plus qu’un simple « Dieu désolé ». Nous sauron
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Where_Jesus_Leads_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Là où Jésus mène</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="pr-2">Fascicule 140. L'ordination : est-ce important ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

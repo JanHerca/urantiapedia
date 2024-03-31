@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_does_Good_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Que signifie « bien » ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="pr-2">Obligations envers les Églises chrétiennes et les autres religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cet évangile du royaume appartient à la fois aux Juifs et aux gentils, aux riches et aux pauvres, aux libres et aux esclaves, aux hommes et aux femmes, même aux petits enfants. Et vous devez tous proclamer cet évangile d’amour et de vérité par la vie que vous vivez dans la chair. Vous vous aimerez d’une affection nouvelle et surprenante, comme je vous ai aimés. Vous servirez l’humanité avec un dévouement nouveau et étonnant, tout comme je vous ai servi. Et quand les hommes verront que vous les aimez tant, et quand ils verront avec quelle ferveur vous les servez, ils comprendront que vous êtes devenus des compagnons de foi du royaume des cieux, et ils suivront l'Esprit de vérité qu'ils voient dans vos vies, à la découverte du salut éternel.
@@ -30,3 +54,28 @@ Mon Père exige des enfants de la foi qu’ils portent beaucoup de fruits spirit
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_does_Good_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Que signifie « bien » ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="pr-2">Obligations envers les Églises chrétiennes et les autres religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

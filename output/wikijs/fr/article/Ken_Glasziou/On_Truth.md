@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur l'Apocalypse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Will_of_God">
+          <span class="pr-2">De la Volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - Les choses sont conditionnées par le temps mais la vérité est intemporelle. Plus vous connaissez la vérité, plus vous êtes vrai, plus vous pouvez comprendre le passé et le futur.
@@ -34,3 +58,28 @@ La vérité divine est une réalité vivante et discernée par l’esprit. La v�
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur l'Apocalypse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Will_of_God">
+          <span class="pr-2">De la Volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

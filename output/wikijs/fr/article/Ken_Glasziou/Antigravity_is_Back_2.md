@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T03:43:24.961Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cooking_up_a_Universe_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Créer un univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="pr-2">La collision des trous noirs et les papiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -45,3 +69,28 @@ Entre autres choses, le Livre d'Urantia nous dit que « l'antigravité est une p
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cooking_up_a_Universe_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Créer un univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="pr-2">La collision des trous noirs et les papiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

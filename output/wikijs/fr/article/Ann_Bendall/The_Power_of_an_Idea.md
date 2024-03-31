@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="pr-2">Instructions d'une autorité supérieure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je m’efforce de connaître la vérité en majuscules et j’accepte que je ne la connaîtrai jamais. Cette « vérité » me passionne, car la finalité est un concept que je trouve presque terrifiant car cela signifierait plus rien à découvrir, plus rien à apprendre. Mon idée est-elle vraie ? Pour moi, c'est parce que « _le pouvoir d’une idée quelconque ne réside pas dans sa certitude ou sa vérité, mais plutôt dans sa force de séduction sur les hommes._ » (<a id="a13_451"></a>[LU 92:3.3](/fr/The_Urantia_Book/92#p3_3))
@@ -58,3 +82,28 @@ Je peux aider mon partenaire, mon Ajusteur de Pensée en :
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="pr-2">Instructions d'une autorité supérieure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianisme et archéologie : une mise à jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Criticality">
+          <span class="pr-2">Criticalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans une dimension au-delà de ce qui est mondain et fini, la religion de l'esprit définit un état transcendantal qui tire sa réalité de l'expérience collective des âmes des hommes et des femmes de toute l'humanité.
@@ -38,3 +62,28 @@ Et cela semble avoir été son seul objectif – et sa religion de l’esprit.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianisme et archéologie : une mise à jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Criticality">
+          <span class="pr-2">Criticalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cœur – l'Alpha et l'Oméga de la Spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="pr-2">« La jalousie, le poison du cœur ! Comment Jésus a-t-il réagi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ donne une richesse d'informations sur Judas : son enfance, ses caractéristiques de personnalité et ses stratégies d'adaptation pour faire face aux événements de la vie. Les révélateurs, en indiquant qu'un attribut ou des caractéristiques particulières constituaient un obstacle au développement spirituel d'un individu (en particulier Judas), décrivent d'où cela a résulté et donnent des conseils sur la façon de les surmonter (pour les lecteurs qui pourraient reconnaître certaine similitude en eux-mêmes).
@@ -75,3 +99,28 @@ Et le verdict de Jésus sur la manière dont Judas serait jugé se reflète dans
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cœur – l'Alpha et l'Oméga de la Spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="pr-2">« La jalousie, le poison du cœur ! Comment Jésus a-t-il réagi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

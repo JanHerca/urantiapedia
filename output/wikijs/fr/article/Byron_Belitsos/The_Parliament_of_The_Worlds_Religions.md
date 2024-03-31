@@ -9,6 +9,27 @@ dateCreated: 2022-09-07T11:50:43.548Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="pr-2">Apartheid Mandeled</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour quiconque s’intéresse à l’avenir de la religion, le Parlement des religions du monde de 1993, qui s’est tenu à Chicago en septembre dernier, a été un événement central de notre époque, un jubilé du dialogue interreligieux. Cela marquait également le centenaire du Parlement historique mondial de 1893 sur les religions mondiales, désormais reconnu comme l’événement fondateur du mouvement interconfessionnel. Le Parlement de 1993 a marqué un nouveau départ pour le mouvement en faveur de l’unité religieuse dans un monde postmoderne.
@@ -111,3 +132,25 @@ Espérons que les nombreuses leçons du Parlement des religions du monde de 1993
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="pr-2">Apartheid Mandeled</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

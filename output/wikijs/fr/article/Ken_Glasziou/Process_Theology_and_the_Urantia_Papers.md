@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'incident d'Ashtaroth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="pr-2">Proof'n Spoof</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque les visites sur notre site Web, qui porte le titre ci-dessus, ont commencé à dépasser cinq cents par jour, comparé aux cinquante visites par semaine de son site sœur, « Une introduction au Livre d'Urantia », nous avons été forcés de réaliser qu'ici , enfin, est une manière de présenter les Cahiers d'Urantia aux chrétiens à l'esprit académique.
@@ -93,3 +117,28 @@ Très peu de ces publications sont disponibles en Australie mais semblent être 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'incident d'Ashtaroth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="pr-2">Proof'n Spoof</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

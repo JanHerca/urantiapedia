@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T05:38:41.148Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Dick Bain<br>© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi est-il nécessaire qu'il y ait une erreur dans Le Livre d'Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si nous montrions *Le Livre d'Urantia* à quelqu'un pour la première fois, pourrions-nous convaincre cette personne que les concepts majeurs sont logiques et crédibles ? Pourquoi certaines personnes croient-elles à quelque chose comme le Livre d’Urantia, et d’autres le rejettent-elles ? La logique dicte-t-elle ce que nous croyons ? Pourquoi une personne est-elle sceptique et une autre fondamentaliste ?
@@ -80,6 +101,28 @@ Toutes les citations proviennent du *Livre d'Urantia*, sauf indication contraire
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi est-il nécessaire qu'il y ait une erreur dans Le Livre d'Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

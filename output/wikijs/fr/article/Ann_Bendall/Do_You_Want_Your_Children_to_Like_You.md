@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall B.A., Dip. Psyché<br>© 1994 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Everett_Sloffer/Insights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insights</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="pr-2">Autres commentaires sur la canalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La nécessité pour les enfants d’établir des modèles de comportement acceptables est incontestable. La manière dont cela est réalisé est essentielle au bien-être de l’enfant. *Le Livre d'Urantia* explique la méthode de la « conférence familiale » que Jésus a utilisée avec sa famille, qui est une excellente technique, actuellement encouragée comme l'une des meilleures méthodes de discipline familiale par les psychologues. Cependant, pour qu'une méthode soit efficace (y compris frapper l'enfant à la tête avec un marteau pour lui apprendre à ne pas être cruel), **quatre conditions préalables essentielles sont** :
@@ -70,6 +94,31 @@ Les parents doivent consacrer du temps à accumuler un « réservoir de bonne vo
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Everett_Sloffer/Insights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insights</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="pr-2">Autres commentaires sur la canalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

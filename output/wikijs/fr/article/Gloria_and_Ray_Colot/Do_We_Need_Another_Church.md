@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Gloria et Ray Colot<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les religions de l’homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Turning_Point">
+          <span class="pr-2">Un tournant !!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’article de Dick Bain dans Innerface de mars/avril nous a tous enthousiasmés pour son idée d’église Urantia. Après environ trois jours de méditation sur cette pensée et de discussions avec d’autres lecteurs qui étaient également « excités », nous avons lentement fait volte-face. Ce sont les points qui me sont venus à l’esprit.
@@ -42,3 +66,28 @@ L’article de Dick Bain dans Innerface de mars/avril nous a tous enthousiasmés
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les religions de l’homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Turning_Point">
+          <span class="pr-2">Un tournant !!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

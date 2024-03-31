@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Faith_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La foi de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Purpose">
+          <span class="pr-2">Objectif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’échec partiel de la Quatrième Révélation d’Époque, qui a finalement conduit à la stagnation actuelle du christianisme, a été provoqué par deux déformations majeures du message de Jésus à l’humanité. L’une d’elles était en fait la principale raison pour laquelle le message a survécu : l’introduction du concept selon lequel la mort de Jésus sur la croix a incité Dieu à pardonner à l’humanité ses péchés personnels et hérités.
@@ -112,3 +136,28 @@ Pour les lecteurs sincères et dévoués des Cahiers d'Urantia, l'avenir sera s�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Faith_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La foi de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Purpose">
+          <span class="pr-2">Objectif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

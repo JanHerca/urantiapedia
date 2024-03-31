@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T02:19:42.812Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ann Bendall<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Building_upon_the_Quaker_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S'appuyer sur l'expérience Quaker</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans certaines perspectives de la vie de Jésus, je le considère comme un modèle plutôt qu’une source d’inspiration, et cela est principalement lié à ses expériences de vie.
@@ -72,3 +93,25 @@ Et pourtant, il a vécu une vie de joie ! Il n'a jamais résumé ses expérience
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Building_upon_the_Quaker_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S'appuyer sur l'expérience Quaker</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

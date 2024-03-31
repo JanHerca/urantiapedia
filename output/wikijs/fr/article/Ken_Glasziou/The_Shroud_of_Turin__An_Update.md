@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T14:51:02.524Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philosophy_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie de la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="pr-2">La « Vie de Jésus du Livre d'Urantia est-elle dépassée ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -104,6 +128,31 @@ Il existe un certain nombre d’explications possibles à la débâcle de la dat
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philosophy_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Philosophie de la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="pr-2">La « Vie de Jésus du Livre d'Urantia est-elle dépassée ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

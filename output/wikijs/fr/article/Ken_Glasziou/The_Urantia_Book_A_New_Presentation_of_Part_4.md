@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Semeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans l'espoir d'influencer la pensée des chrétiens traditionnels à travers les idées et les concepts que l'on trouve dans la « Vie de Jésus » du Livre d'Urantia, l'expérience a maintenant indiqué que cet effet ne sera probablement obtenu que si cette « Vie » est présentée. sous une forme différente.
@@ -30,3 +51,25 @@ Dans sa forme actuelle, il est peu probable que le Livre d’Urantia contribue d
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Semeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

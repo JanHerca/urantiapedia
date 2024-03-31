@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Being_and_Doing">
+          <span class="pr-2">Être et faire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « L’assurance que tu es entré dans la famille du royaume du Père, et que tu survivras éternellement avec les enfants du royaume, est entièrement une affaire d’expérience personnelle — de foi dans la parole de vérité. L’assurance spirituelle est l’équivalent de ton expérience religieuse personnelle dans les réalités éternelles de la vérité divine ; en d’autres termes, elle est égale à ta compréhension intelligente des réalités de la vérité, augmentée de ta foi spirituelle et diminuée de tes doutes honnêtes. »
@@ -30,3 +51,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Being_and_Doing">
+          <span class="pr-2">Être et faire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

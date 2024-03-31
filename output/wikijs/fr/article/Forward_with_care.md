@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christianitys_challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Vous devez apprendre que l’expression même d’une bonne pensée doit être modulée en fonction du statut intellectuel et du développement spirituel de l’auditeur.
@@ -31,3 +52,25 @@ Cependant, à long terme, nous pouvons nous appuyer sur deux réalités universe
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page16.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christianitys_challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

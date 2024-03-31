@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le ciel ne sera pas ennuyeux, malgré les mécréants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’histoire du _Livre d’Urantia_ sur l’origine de notre système solaire est en contradiction avec les récits populaires et souvent dogmatiques des manuels scolaires. La pensée actuelle indique que toute explication des origines peut comporter un degré élevé d’incertitude.
@@ -63,3 +84,25 @@ Un attracteur étrange est un graphique de l’espace des phases qui trace la tr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le ciel ne sera pas ennuyeux, malgré les mécréants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

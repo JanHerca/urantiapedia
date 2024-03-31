@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Robert Walker<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Earl_Jabay/God_playing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu joue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Archaeology_and_The_Urantia_Book">
+          <span class="pr-2">L'archéologie et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ donne aux humains l'espoir d'un salut personnel par la foi en Dieu. Ce faisant, elle fournit de nombreuses raisons aux humains de ne pas se suicider – raisons qui sont directement liées aux explications de la foi elle-même. Laissant de côté la question morale de savoir si le suicide est un acte infidèle, il peut être instructif d'énumérer les raisons avancées dans le livre pour ne pas mettre fin à cette vie terrestre.
@@ -28,3 +52,28 @@ La vie de Jésus fournit un exemple frappant de la manière d’affronter les vi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Earl_Jabay/God_playing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu joue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Archaeology_and_The_Urantia_Book">
+          <span class="pr-2">L'archéologie et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

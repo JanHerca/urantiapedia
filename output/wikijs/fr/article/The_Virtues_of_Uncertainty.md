@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Question_Time_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'heure des questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paving_the_Way">
+          <span class="pr-2">Ouvrir la voie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bien avant d'atteindre Havona, les enfants ascendants de l'espace et du temps, éprouvés et ayant beaucoup voyagé, « _ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. »_ » (<a id="a13_564"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
@@ -36,3 +60,28 @@ Qu’est-ce qui a une valeur spirituelle ? Jésus considérait le Père comme sa
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Question_Time_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'heure des questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paving_the_Way">
+          <span class="pr-2">Ouvrir la voie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

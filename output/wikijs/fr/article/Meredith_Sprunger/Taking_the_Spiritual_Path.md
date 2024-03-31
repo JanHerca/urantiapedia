@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Goose_Bumps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La chair de poule</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="pr-2">La voie : décisions, buts et motivations du baptême de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -49,3 +73,28 @@ Notre société a désespérément besoin d’une vision spirituelle élargie po
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Goose_Bumps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La chair de poule</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="pr-2">La voie : décisions, buts et motivations du baptême de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

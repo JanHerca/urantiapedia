@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De l'espace et du rien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="pr-2">Aristote, la logique floue et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours de sa treizième année, et lors de son premier voyage à Jérusalem, Jésus et ses parents s'arrêtèrent pour se reposer aux limites d'un petit village appelé Béthanie. Là, Jésus rencontra pour la première fois Lazare (même âge), Marie (deux ans plus jeune) et Marthe (un an plus âgée), qui allaient devenir amis pour la vie (<a id="a13_330"></a>[LU 124:6.9](/fr/The_Urantia_Book/124#p6_9)). Plus tard dans la semaine, ses parents lui ont donné la permission de passer le mercredi soir de la semaine de Pâque chez ses nouveaux amis, et c'est ici que le lien d'amour s'est établi entre les quatre alors que Lazare, Marthe et Marie « entendaient Jésus discuter de certaines choses ». temporel et éternel, humain et divin._ » (<a id="a13_708"></a>[LU 125:2.7](/fr/The_Urantia_Book/125#p2_7)).
@@ -50,3 +74,28 @@ Et au même instant, et au cours de la même série d'événements, une amie, Ma
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De l'espace et du rien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="pr-2">Aristote, la logique floue et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

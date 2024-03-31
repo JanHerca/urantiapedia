@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le futur. Ce que nous dit le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 1991, Dick Bain, Ken Glasziou, Matt Neibaur et Frank Wright ont publié une brochure intitulée « Le contenu scientifique du _Livre d'Urantia_ », qui discutait des déclarations prophétiques du livre sur la dérive des continents et de certains aspects de la physique des particules.
@@ -48,3 +69,25 @@ De toute évidence, de nombreuses sections du livre doivent rester telles qu’e
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le futur. Ce que nous dit le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

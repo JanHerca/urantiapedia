@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Discourse_on_True_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discours de Jésus sur la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="pr-2">L'incident d'Ashtaroth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **« Ce monde n'est qu'un pont ; vous pouvez passer dessus, mais vous ne devriez pas penser à y construire une habitation. »**
@@ -60,3 +84,28 @@ Un incident important s'est produit très tôt dans cette période, son importan
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Discourse_on_True_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discours de Jésus sur la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="pr-2">L'incident d'Ashtaroth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

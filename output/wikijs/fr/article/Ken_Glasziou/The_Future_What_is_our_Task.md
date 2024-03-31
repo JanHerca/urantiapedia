@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:03:26.250Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l'Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself_2">
+          <span class="pr-2">Prouvez-le-vous par vous-même</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Mais la religion ne devrait s’occuper directement ni de créer de nouveaux ordres sociaux, ni de préserver les anciens._ (<a id="a13_124"></a>[LU 99:0.2](/fr/The_Urantia_Book/99#p0_2))
@@ -38,3 +62,28 @@ dateCreated: 2022-09-26T23:03:26.250Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l'Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself_2">
+          <span class="pr-2">Prouvez-le-vous par vous-même</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Journey_to_the_Stars">
+          <span class="pr-2">Un voyage vers les étoiles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » (<a id="a13_433"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
@@ -58,3 +79,25 @@ Hmmm ! Peut-être que certains d’entre nous ont du travail à faire.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Journey_to_the_Stars">
+          <span class="pr-2">Un voyage vers les étoiles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

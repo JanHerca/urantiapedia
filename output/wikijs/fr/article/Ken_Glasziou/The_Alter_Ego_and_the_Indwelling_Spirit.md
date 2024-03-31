@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:28:40.037Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Goal_of_Mortal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la vie mortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="pr-2">L’esprit-père qui habite en nous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain._ » (<a id="a13_147"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
@@ -63,3 +87,28 @@ Lorsque la prière ne cherche rien pour celui qui prie ni rien pour ses semblabl
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Goal_of_Mortal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la vie mortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="pr-2">L’esprit-père qui habite en nous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

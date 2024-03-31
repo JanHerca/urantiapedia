@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Stephen Finlan<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaïda et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space">
+          <span class="pr-2">Surfer sur les rayons du soleil : Calcium, le vagabond de l'espace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'emplacement de Bethsaïda biblique est un problème épineux dans l'érudition biblique depuis près de deux cents ans, et un problème dans l'histoire du pèlerinage chrétien depuis au moins le sixième siècle.
@@ -157,6 +181,31 @@ L'autre lieu de pèlerinage à Tabgha est « l'Église de la Primauté », faisa
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaïda et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space">
+          <span class="pr-2">Surfer sur les rayons du soleil : Calcium, le vagabond de l'espace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

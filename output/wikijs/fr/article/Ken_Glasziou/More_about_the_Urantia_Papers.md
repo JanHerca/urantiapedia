@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Are_The_Urantia_Papers_demonstrably_of_superhuman_origin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia sont-ils manifestement d'origine surhumaine ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Some_Early_history">
+          <span class="pr-2">Un peu d'histoire ancienne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 D’une certaine manière, il semble malheureux qu’un autre nom pour le Livre d’Urantia soit « La Cinquième Révélation d’Époque ». C’est l’effet de ce nom acquis qui a amené tant de lecteurs à attribuer à son contenu un statut de « vérité absolue et infaillible » de style fondamentaliste.
@@ -78,3 +102,28 @@ Un très grand nombre de chrétiens sont, à travers les âges, parvenus à des 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Are_The_Urantia_Papers_demonstrably_of_superhuman_origin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia sont-ils manifestement d'origine surhumaine ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Some_Early_history">
+          <span class="pr-2">Un peu d'histoire ancienne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

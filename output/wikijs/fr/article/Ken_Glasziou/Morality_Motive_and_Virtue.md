@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le désintéressement. Sa relation avec la conscience divine et l'expérience religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="pr-2">Le Livre d'Urantia et les Travaux Secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En utilisant la sagesse par mot comme mesure du contenu significatif, la Section 7 du Fascicule 16 doit figurer parmi les sections les plus puissantes du _Livre d'Urantia_. Il regorge d’extraits d’informations incroyablement précis et décisifs pour nous, Urantiens, qui méritent une étude approfondie et continue. Entre autres choses, la section 7 explique comment diffuser le message principal de notre Révélation – et aussi comment ne pas tenter de le diffuser. Peut-être que la citation suivante mérite une note de sagesse par mot de 10 sur 10 :
@@ -43,3 +67,28 @@ Est-il difficile de choisir la moralité et la vertu ? Il ne devrait pas en êtr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le désintéressement. Sa relation avec la conscience divine et l'expérience religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="pr-2">Le Livre d'Urantia et les Travaux Secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

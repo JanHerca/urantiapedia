@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Rodan_on_The_Personality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodan sur la personnalité de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Red_Alert">
+          <span class="pr-2">Alerte rouge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis que nous avons imprimé cette clause comme une citation du Livre d'Urantia dans le dernier numéro d'Innerface de 1997 avec un point après le mot « mal », nous avons reçu plusieurs réprimandes de divers degrés d'intensité. Nous nous excusons donc pour cette erreur éditoriale.
@@ -64,3 +88,28 @@ Ainsi, jusqu’à ce que nous soyons convaincus du contraire, nous nous en tenon
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Rodan_on_The_Personality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodan sur la personnalité de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Red_Alert">
+          <span class="pr-2">Alerte rouge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

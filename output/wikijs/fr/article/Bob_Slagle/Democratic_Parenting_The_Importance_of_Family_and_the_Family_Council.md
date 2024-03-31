@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Bob Slagle<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Fact_of_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le fait de l'expérience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Soul">
+          <span class="pr-2">L'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Le grand espoir d’Urantia réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles. » (<a id="a13_290"></a>[LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
@@ -108,3 +132,28 @@ Ainsi, il semble que du plus bas au plus haut, de la Terre à Salvington et jusq
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Fact_of_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le fait de l'expérience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Soul">
+          <span class="pr-2">L'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

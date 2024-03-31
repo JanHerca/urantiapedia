@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme—light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Earth_Moon_System">
+          <span class="pr-2">Le système Terre-Lune</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La plupart des Occidentaux considèrent comme un fait scientifique l’idée selon laquelle nous vivons dans un monde matérialiste – un monde dans lequel tout est fait de matière et dans lequel la matière est considérée comme la seule réalité fondamentale.
@@ -513,3 +537,28 @@ Philosophiquement et scientifiquement, la révélation d'Urantia s'accorde bien 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Earth_Moon_System">
+          <span class="pr-2">Le système Terre-Lune</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:32:39.812Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Charles Birch<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Subjectivity_and_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subjectivité et réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="pr-2">Que disent les Fascicules d'Urantia à propos de l'esprit ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Extrait de « Sentiments » de Charles Birch
@@ -216,6 +240,31 @@ Alors que le Dieu d'Aristote et du théisme classique est totalement insensible 
 [^3]: Hartshorne était un associé de Whitehead.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Subjectivity_and_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subjectivité et réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="pr-2">Que disent les Fascicules d'Urantia à propos de l'esprit ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Liens externes
 

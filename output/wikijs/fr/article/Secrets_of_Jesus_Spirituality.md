@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T21:17:53.801Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="pr-2">Jésus avait-il vraiment besoin d'être crucifié ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le secret de sa vie religieuse sans précédent (Jésus) était cette conscience de la présence de Dieu ; et il y est parvenu grâce à une prière intelligente et à une adoration sincère – une communion ininterrompue avec Dieu – et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires.
@@ -23,3 +44,28 @@ Jésus faisait autant confiance à Dieu que l’enfant fait confiance à ses par
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="pr-2">Jésus avait-il vraiment besoin d'être crucifié ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+   </tbody>
+  </table>
+</figure>

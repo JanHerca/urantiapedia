@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Learning_About_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à connaître Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans notre numéro précédent, nous avons discuté d'un article écrit par le Dr G. Gamow en 1942 intitulé _Neutrinos VS Supernovae_ et publié dans le numéro de janvier de la même année de la revue _The Scientific Monthly_. Cet article avait été identifié par Matthew Block comme étant l'une des sources des déclarations du _Le Livre d'Urantia_ au sujet de l'effondrement des étoiles vieillissantes. Il fut également mentionné un document longtemps caché dans lequel le Dr Sadler notait que des ajouts et des modifications avaient été apportés aux Cahiers d'Urantia au cours de la période 1935 à 1942.
@@ -70,3 +91,25 @@ Il est intéressant de noter que le « mésotron » de Yukawa, celui décrit dan
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Learning_About_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apprendre à connaître Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

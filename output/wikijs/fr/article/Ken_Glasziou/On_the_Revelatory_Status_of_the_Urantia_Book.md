@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but et les limites de la cinquième révélation d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Song_of_Joy">
+          <span class="pr-2">Le chant de joie de Beethovan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a quelques années, j'ai écrit un article pour le bulletin d'information Six-O-Six, impliquant que le contenu scientifique du _Le Livre d'Urantia_ pouvait contenir des erreurs. Cette déclaration a suscité une réponse passionnée, niant catégoriquement que le livre puisse contenir des erreurs et affirmant qu'en aucun cas les révélateurs ne nous mentiraient. L'inclusion d'une section de contenu scientifique dans Innerface a suscité des réactions émotionnelles similaires, la plus extrême étant que chaque fois que la science actuelle est en désaccord avec _Le Livre d'Urantia_, c'est la science qui a tort et jamais le livre.
@@ -74,3 +98,28 @@ Même s’il s’agit d’une énigme, l’existence de ses énigmes n’a fait 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but et les limites de la cinquième révélation d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Song_of_Joy">
+          <span class="pr-2">Le chant de joie de Beethovan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

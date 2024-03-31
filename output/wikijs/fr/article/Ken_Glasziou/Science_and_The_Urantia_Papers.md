@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de la science « prophétique »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Radii_of_the_Electron_and_Proton">
+          <span class="pr-2">Rayons de l'électron et du proton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Puisque le mandat des révélateurs les empêchait de nous donner des connaissances non acquises, (<a id="a13_96"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)) il s'ensuit que le niveau d'information scientifique dans les articles ne devrait pas inclure des informations encore non découvertes au milieu des années 1930. L’exception est que les « lacunes manquantes » pourraient être comblées ou les « connaissances perdues » essentielles restaurées.
@@ -49,3 +73,28 @@ Parmi les documents couverts dans cet article, seul l'article sur l'énergie des
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de la science « prophétique »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Radii_of_the_Electron_and_Proton">
+          <span class="pr-2">Rayons de l'électron et du proton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

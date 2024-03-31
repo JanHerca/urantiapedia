@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="pr-2">Quand un « Cœur » n'est-il pas un « Cœur ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'une des histoires préférées de Jésus était celle du « Fils prodigue ». Ce fut certainement une fin heureuse pour le père. Il avait ses deux fils avec lui à la ferme. Cependant, du point de vue des fils, je soupçonne qu'il y aurait des problèmes !
@@ -48,3 +69,25 @@ Dieu, en tant que Père, est patient et souffre longtemps. Il attend longtemps l
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="pr-2">Quand un « Cœur » n'est-il pas un « Cœur ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

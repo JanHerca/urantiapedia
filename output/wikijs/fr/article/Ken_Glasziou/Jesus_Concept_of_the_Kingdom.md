@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="pr-2">Un commentaire sur le Royaume</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Le Maitre fit apparaitre clairement que le royaume des cieux doit commencer par le double concept de la vérité de la paternité de Dieu et le fait corrélatif de la fraternité des hommes, et qu’il doit rester centré sur ce double concept. Jésus déclara que l’acceptation d’un tel enseignement libèrerait les hommes de l’asservissement millénaire à la crainte animale, et en même temps enrichirait la vie humaine avec les dons suivants de la nouvelle vie de liberté spirituelle :
@@ -36,3 +57,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="pr-2">Un commentaire sur le Royaume</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

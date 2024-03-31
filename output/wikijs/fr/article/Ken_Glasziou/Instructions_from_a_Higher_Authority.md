@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le pouvoir d'une idée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Visible_Universe">
+          <span class="pr-2">L'univers visible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine_ » (tel qu'on le trouve sous une forme concentrée dans le texte du _Le Livre d'Urantia_, <a id="a13_390"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)).
@@ -39,3 +63,28 @@ Tant le texte du _Livre d’Urantia_ que les instructions de Jésus qu’il cont
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le pouvoir d'une idée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Visible_Universe">
+          <span class="pr-2">L'univers visible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

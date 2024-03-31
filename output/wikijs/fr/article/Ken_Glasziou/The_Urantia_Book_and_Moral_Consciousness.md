@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Quest_What_is_life_about">
+          <span class="pr-2">La Quête. De quoi parle la vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Par la foi religieuse, l’âme de l’homme se révèle et démontre la divinité potentielle de sa nature émergente par la manière caractéristique dont elle incite la personnalité mortelle à réagir à certaines situations intellectuellement et socialement éprouvantes. La foi spirituelle authentique (la vraie conscience morale) se révèle en ceci :
@@ -36,3 +60,28 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Quest_What_is_life_about">
+          <span class="pr-2">La Quête. De quoi parle la vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

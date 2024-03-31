@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion de l'Esprit, qu'est-ce que cela pourrait signifier ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans un avenir pas si lointain, la civilisation occidentale pourrait être confrontée à une période critique au cours de laquelle la religion chrétienne traditionnelle aura connu un effondrement.
@@ -80,3 +101,25 @@ Il est possible que les Cahiers d'Urantia aient été spécifiquement conçus po
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion de l'Esprit, qu'est-ce que cela pourrait signifier ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

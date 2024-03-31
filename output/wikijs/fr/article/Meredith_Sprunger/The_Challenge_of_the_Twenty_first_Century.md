@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Favorite_Places_On_Prayer_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la prière et de la foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="pr-2">Le scandale de la cosmologie spirituelle actuelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous vivons l’un des tournants majeurs de l’histoire. Notre époque a été diversement qualifiée d’ère post-industrielle, post-moderne et post-chrétienne. Les paradigmes traditionnels de la cosmologie, de la valeur et de la réalité ont perdu leur pertinence et leur autorité incontestées parmi les peuples contemporains. Les institutions sociales qui étaient structurées par ces concepts et valeurs traditionnels se détériorent en termes de vitalité et d'influence. Les infrastructures économiques et politiques de la société s’effondrent et perdent leur crédibilité et leur efficacité. Les mœurs qui constituent le fondement du comportement humain et des normes éthiques de la société s’effondrent et l’immoralité, le crime et la violence sont endémiques. Les institutions religieuses qui étaient autrefois les piliers centraux de la société sont désormais reléguées à une position périphérique.
@@ -32,3 +56,28 @@ L’ingrédient singulier qui apportera sens et unité à l’existence planéta
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Favorite_Places_On_Prayer_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la prière et de la foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="pr-2">Le scandale de la cosmologie spirituelle actuelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

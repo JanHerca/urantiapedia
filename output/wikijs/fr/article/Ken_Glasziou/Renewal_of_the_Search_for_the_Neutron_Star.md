@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:35:59.817Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Neutrinos_Neutrons_and_Neutron_Stars_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Neutrinos, neutrons et étoiles à neutrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics">
+          <span class="pr-2">Quantum Stuff, Basic Physics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Hypothèses sur les origines possibles de la déclaration du Cahier d'Urantia sur l'effondrement des étoiles
@@ -100,6 +124,31 @@ Cela semble laisser les révélateurs eux-mêmes comme les principaux (seuls ?) 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Neutrinos_Neutrons_and_Neutron_Stars_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Neutrinos, neutrons et étoiles à neutrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics">
+          <span class="pr-2">Quantum Stuff, Basic Physics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

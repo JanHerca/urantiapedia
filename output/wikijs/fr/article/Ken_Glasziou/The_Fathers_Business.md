@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="pr-2">Les Cahiers d'Urantia. Une publication immédiate était-elle prévue ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « À quiconque possède, il sera donné davantage, et il possèdera abondamment ; mais, à qui n’a rien, on enlèvera même ce qu’il détient. On ne peut rester stagnant dans les affaires du royaume éternel. Mon Père demande à tous ses enfants de croitre en grâce et dans la connaissance de la vérité. Vous, qui connaissez ces vérités, devez produire l’accroissement des fruits de l’esprit et manifester un dévouement croissant au service désintéressé de vos compagnons qui servent avec vous. Souvenez-vous que, dans la mesure où vous servez le plus humble de mes frères, c’est à moi que vous rendez service.
@@ -27,3 +48,25 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="pr-2">Les Cahiers d'Urantia. Une publication immédiate était-elle prévue ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Conflict_is_Evil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tous les conflits sont mauvais</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/John_Hyde_a_Tribute">
+          <span class="pr-2">John Hyde - un hommage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si l’on suppose que les Fascicules d’Urantia ont été l’œuvre d’un groupe entièrement composé soit de catholiques, soit de protestants, alors, en raison des nombreuses déclarations « de type protestant » que l’on trouve dans les Fascicules, de nombreux étudiants en histoire religieuse voteraient très probablement. en faveur des documents ayant été l'œuvre de protestants apostats.
@@ -36,3 +60,28 @@ Question 3 : Quel effet certaines attitudes actuelles auront-elles sur l’accep
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Conflict_is_Evil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tous les conflits sont mauvais</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/John_Hyde_a_Tribute">
+          <span class="pr-2">John Hyde - un hommage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

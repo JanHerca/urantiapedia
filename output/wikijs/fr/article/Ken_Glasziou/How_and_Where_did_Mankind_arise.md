@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T07:46:56.360Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Worry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi s'inquiéter ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il ne fait aucun doute que les origines de l’humanité se trouvent en Afrique, car on y trouve un groupe de fossiles d’hominidés appartenant au genre Australopithecus, dont l’un quelconque aurait pu être un ancêtre du genre Homo – celui auquel nous appartenons, et qui est également représenté en Afrique
@@ -47,3 +68,25 @@ Une autre preuve que les Néandertaliens ont peu contribué au pool génétique 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Worry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi s'inquiéter ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

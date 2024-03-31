@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Blessed_Assurance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienheureuse Assurance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="pr-2">Vivre comme Jésus a vécu – dans un environnement familial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Ce soir-là, Jésus enseigna dans la maison parce que la pluie commençait à tomber ; il parla très longuement aux douze pour essayer de leur montrer ce qu’ils devaient *être,* et non ce qu’ils devaient *faire.* Les apôtres connaissaient seulement une religion qui imposait de *faire* certaines choses comme moyen d’atteindre la droiture — le salut. Mais Jésus répétait : « Dans le royaume, il faut *être* droit pour faire le travail. »_ (<a id="a13_439"></a>[LU 140:10.1](/fr/The_Urantia_Book/140#p10_1))
@@ -87,3 +111,28 @@ Ainsi, conformément aux preuves citées, nous concluons que les vies vécues à
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Blessed_Assurance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienheureuse Assurance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="pr-2">Vivre comme Jésus a vécu – dans un environnement familial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

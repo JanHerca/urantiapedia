@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T21:06:42.285Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que dit la Révélation Urantia à propos de l'Esprit de Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Uniqueness_of_Jesus">
+          <span class="pr-2">Le caractère unique de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que la renommée de Jésus en tant que guérisseur s’est rapidement répandue dans toutes les régions de Palestine, de Syrie et des pays voisins (<a id="a13_148"></a>[LU 149:1.1](/fr/The_Urantia_Book/149#p1_1)), la capacité de ses apôtres à maintenir cette réputation s’est rapidement estompée après la mort et la résurrection de Jésus. La raison probable peut être trouvée dans :
@@ -49,3 +73,28 @@ En résumant ces preuves, nous concluons que la véracité des apparitions de J�
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ce que dit la Révélation Urantia à propos de l'Esprit de Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Uniqueness_of_Jesus">
+          <span class="pr-2">Le caractère unique de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

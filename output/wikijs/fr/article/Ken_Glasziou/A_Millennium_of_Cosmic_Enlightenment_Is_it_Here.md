@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les religions de l'esprit et la religion de l'esprit : les différences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_of_the_Spirit">
+          <span class="pr-2">La demeure de l'Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Lorsque la progression des évènements sur un monde évolutionnaire indique que le temps est mûr pour inaugurer un âge spirituel, les Fils Instructeurs de la Trinité s’offrent toujours comme volontaires pour ce service. Vous connaissez mal les Fils de cet ordre parce qu’Urantia n’a jamais passé par un âge spirituel, un millénaire d’illumination cosmique. Mais les Fils Instructeurs visitent dès maintenant votre monde en vue d’établir les plans concernant leurs projets de séjour sur votre sphère. Ils seront prêts à apparaitre sur Urantia lorsque ses habitants se **seront suffisamment délivrés des entraves de l’animalité et des chaines du matérialisme**. » (<a id="a13_665"></a>[LU 20:9.1](/fr/The_Urantia_Book/20#p9_1))
@@ -54,3 +78,28 @@ Alors qu’il semblerait que les peuples de notre planète soient à plusieurs m
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les religions de l'esprit et la religion de l'esprit : les différences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_of_the_Spirit">
+          <span class="pr-2">La demeure de l'Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le deuxième grand commandement. Un rappel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/A_True_Story">
+          <span class="pr-2">Une histoire vraie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Réduits à ses bases indestructibles, nous, les mortels, sommes constitués de deux éléments qui ont tous deux leur origine immédiate dans le Père Universel. L’un de ces éléments est mon Ajusteur de Pensée, l’autre ma personnalité. La pièce Ajusteur est d'une qualité absolue et présente des traits de la nature de son origine. Ma personnalité possède des potentialités intrinsèques qui dérivent également de son origine. Entre eux, ils peuvent générer une âme. Des potentiels supplémentaires qui contribuent à la construction de l'âme proviennent d'une dotation mentale et spirituelle dérivée de l'Esprit Mère de l'Univers et d'un corps et d'un cerveau matériels, résultat évolutif du travail des Porteurs de Vie. D'autres influences dérivent directement de l'Esprit Éternel et de notre univers Créateur-Fils et indirectement à travers d'autres êtres célestes.
@@ -30,3 +54,28 @@ En supposant que mon intention irréversible soit de survivre, ce sont les pièc
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le deuxième grand commandement. Un rappel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/A_True_Story">
+          <span class="pr-2">Une histoire vraie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

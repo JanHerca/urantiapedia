@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus ne ferait pas appel à la majorité morale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="pr-2">Le contenu scientifique et historique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « On ne peut jamais faire progresser la moralité par la loi ou par la force. Elle est une affaire personnelle et de libre arbitre. Il faut qu’elle se propage par contagion entre personnes qui répandent une atmosphère de beauté morale, et personnes moins sensibles moralement, mais cependant désireuses dans une certaine mesure de faire la volonté du Père. » (<a id="a13_361"></a>[LU 16:7.9](/fr/The_Urantia_Book/16#p7_9))
@@ -43,3 +67,28 @@ Se pourrait-il qu'une intention majeure des révélateurs en nous fournissant la
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus ne ferait pas appel à la majorité morale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="pr-2">Le contenu scientifique et historique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

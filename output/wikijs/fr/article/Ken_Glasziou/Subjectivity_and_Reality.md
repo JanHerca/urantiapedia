@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T21:42:37.616Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="pr-2">« Attention ! Est-ce que j’en ai un ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Ce n’est pas parce que l’expérience exquise et transcendantale d’aimer et d’être aimé est si purement subjective qu’elle n’est qu’une illusion psychique. La seule réalité vraiment divine et objective qui soit associée aux êtres mortels, l’Ajusteur de Pensée, fonctionne apparemment, pour l’observation humaine, comme un phénomène exclusivement subjectif. Le contact de l’homme avec Dieu, la réalité objective la plus haute, ne s’effectue que par l’expérience purement subjective de le connaitre, de l’adorer et de réaliser la filiation avec lui. (<a id="a13_549"></a>[LU 196:3.21](/fr/The_Urantia_Book/196#p3_21))
@@ -38,3 +59,25 @@ dateCreated: 2022-09-26T21:42:37.616Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="pr-2">« Attention ! Est-ce que j’en ai un ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

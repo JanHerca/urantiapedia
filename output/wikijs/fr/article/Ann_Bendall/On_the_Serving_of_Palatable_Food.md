@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Smaller_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les petites béatitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="pr-2">Boire la coupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Les négateurs de Dieu.
@@ -97,3 +121,28 @@ Et si une personne postule philosophiquement : « Je me demande ce que Dieu veut
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Smaller_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les petites béatitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="pr-2">Boire la coupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

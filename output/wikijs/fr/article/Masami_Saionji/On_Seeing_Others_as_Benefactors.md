@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Masami Saionji<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lutte avec Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="pr-2">Le ciel ne sera pas ennuyeux, malgré les mécréants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tous les gens autour de nous sont là pour nous aider à découvrir la vérité. Leur existence a une grande valeur pour nous. Sans eux, notre esprit n’aurait aucune possibilité d’avancement. Il nous manquerait les moyens de faire ressortir notre divinité. Nous pouvons trouver certaines personnes aimables, certaines haineuses, certaines admirables et certaines déplaisantes. Pourtant, chacun d’eux, de par sa connexion avec nous, a un rôle à jouer pour nous mettre sur le chemin de la vérité.
@@ -31,3 +55,28 @@ Essayez de créer une nouvelle utilisation pour le temps que vous avez perdu en 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lutte avec Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="pr-2">Le ciel ne sera pas ennuyeux, malgré les mécréants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

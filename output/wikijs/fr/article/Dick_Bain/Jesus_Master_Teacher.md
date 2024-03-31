@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Dick Bain<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un commentaire sur le Royaume</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="pr-2">Créer un univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’une des tâches auxquelles de nombreux membres de la communauté Urantia sont confrontés à un moment ou à un autre est d’enseigner le Livre d’Urantia à un individu ou à un groupe. Parfois, nous pouvons nous sentir inadaptés à la tâche, mais nous disposons d’excellents conseils. Bien que Jésus ait vécu dans une culture très différente de la nôtre et que nous ne soyons pas des êtres à double nature comme Jésus, nous pouvons néanmoins apprendre de ses méthodes d’enseignement. Notre culture peut différer de la sienne, mais la nature humaine est la même aujourd’hui qu’elle l’était il y a 2000 ans. Les méthodes d’enseignement de Jésus devraient être tout aussi efficaces aujourd’hui qu’elles l’étaient lorsqu’il parcourait la terre. Nous, étudiants du _Livre d’Urantia_, avons le privilège de posséder un récit détaillé de la vie et des enseignements de Jésus. Je crois que nous qui aspirons à devenir enseignants pouvons tirer un grand profit de l’étude et de la tentative d’utiliser les méthodes pédagogiques de Jésus.
@@ -60,3 +84,28 @@ Les auteurs du _Livre d'Urantia_ nous informent qu'il y avait un certain nombre 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un commentaire sur le Royaume</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="pr-2">Créer un univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

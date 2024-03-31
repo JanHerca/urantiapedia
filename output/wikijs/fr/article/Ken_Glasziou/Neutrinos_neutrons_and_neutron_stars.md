@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T12:14:56.217Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une énigme pour les fondamentalistes purs et durs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure class="image urantiapedia">
@@ -153,6 +174,28 @@ Le langage, le niveau de connaissance et la terminologie de la référence de l'
     Vol. 3 No. 2, mars/avril 1996 : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une énigme pour les fondamentalistes purs et durs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

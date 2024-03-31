@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Some_Early_history">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un peu d'histoire ancienne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="pr-2">La science et les fascicules d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Disséminées dans la composante scientifique, nous trouvons des déclarations assez prophétiques. Cette inclusion est conforme à une déclaration du mandat (<a id="a13_154"></a>[LU 101:4.8](/fr/The_Urantia_Book/101#p4_8)) selon laquelle la fourniture d'éléments clés de connaissances essentielles ou oubliées était autorisée. Cependant, l’inclusion de ces informations ésotériques contraste étrangement avec une grande partie des autres sciences contenues dans le livre qui auraient été connues même des lycéens des années 1930, lorsque les articles ont été reçus pour la première fois.
@@ -52,6 +76,31 @@ Bien entendu, les nouveaux lecteurs doivent trouver leur propre chemin vers la v
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Some_Early_history">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un peu d'histoire ancienne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="pr-2">La science et les fascicules d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Answers_from_The_Urantia_Book">
+          <span class="pr-2">Réponses du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À la conclusion de l'avant-propos du _Livre d'Urantia_, les Révélateurs nous disent que plus de 1000 des concepts humains les plus élevés ont été rassemblés dans la production de la première partie du livre et, pour la Partie 4, des joyaux de pensée et des concepts supérieurs ont été rassemblés à partir de plus de 2000 êtres humains qui ont vécu sur Terre depuis l’époque de Jésus jusqu’au moment de la rédaction de ces révélations – des reformulations plus exactes.
@@ -51,3 +72,25 @@ Matt Neibaur ajoute ce qui suit :
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Answers_from_The_Urantia_Book">
+          <span class="pr-2">Réponses du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

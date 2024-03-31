@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:27:09.642Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que Dieu attend de nous ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Worry">
+          <span class="pr-2">Pourquoi s'inquiéter ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Il faut aussi vous rappeler que vous êtes mes messagers. Vous êtes tenus de vivre votre vie comme j’ai vécu la mienne en esprit._ » (<a id="a13_138"></a>[LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
@@ -50,3 +74,28 @@ Puis-je vivre comme Jésus a vécu ? Bien sûr, je peux. Tout ce qu’il faut, c
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que Dieu attend de nous ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Worry">
+          <span class="pr-2">Pourquoi s'inquiéter ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

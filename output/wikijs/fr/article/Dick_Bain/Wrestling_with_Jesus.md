@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Dick Bain<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'harmonisation est égale à la paix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="pr-2">Considérer les autres comme des bienfaiteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans le livre de la Genèse de l’Ancien Testament, nous lisons que Jacob a lutté toute la nuit avec un homme qui pourrait être un ange ou peut-être Dieu. J'ai eu mon propre match de lutte ; c'était avec le concept de Jésus.
@@ -72,3 +96,28 @@ De même, les récompenses spirituelles d’une relation avec Michel/Jésus dép
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'harmonisation est égale à la paix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="pr-2">Considérer les autres comme des bienfaiteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

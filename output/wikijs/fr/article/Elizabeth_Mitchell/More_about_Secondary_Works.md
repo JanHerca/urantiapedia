@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Elizabeth Mitchell<br>© 1994 La Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le véritable Évangile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="pr-2">Une meilleure communication avec mon ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le premier numéro d'Innerface contenait un article du Sunshine Coast Study Group citant des références du Livre d'Urantia indiquant que les révélateurs s'attendaient à ce que les œuvres secondaires deviennent un moyen majeur de diffuser son message. L'un d'eux attendait avec impatience le moment où « le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom ... ». (<a id="a13_460"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
@@ -42,3 +66,28 @@ N'oubliez pas que le nom du livre est :
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le véritable Évangile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="pr-2">Une meilleure communication avec mon ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

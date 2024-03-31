@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:19:52.836Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dérive des continents 3 – Effets secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_if_the_Papers_had_been_written">
+          <span class="pr-2">Et si ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Avant 1955-1956 environ, l'estimation la plus répandue quant à l'âge de notre Terre était de 3 à 3,4 milliards d'années. Tout était sur le point de changer avec l’avènement de l’utilisation de radio-isotopes dans les procédures de datation.
@@ -34,3 +58,28 @@ Il n’y a absolument aucun moyen qu’en 1955, les planches d’impression du L
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dérive des continents 3 – Effets secondaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_if_the_Papers_had_been_written">
+          <span class="pr-2">Et si ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

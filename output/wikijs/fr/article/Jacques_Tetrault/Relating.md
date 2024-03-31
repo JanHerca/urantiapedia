@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Jacques Tétrault<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décisions, décisions : accomplir la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="pr-2">Les religions de l’homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les lecteurs du _Livre d'Urantia_ devraient profiter du moment où ils ressentent le besoin de communiquer les uns avec les autres, de partager leurs connaissances mais surtout de partager leur expérience religieuse.
@@ -63,3 +87,28 @@ Aidons-nous les uns les autres, racontons-nous ; tout en restant toujours humble
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décisions, décisions : accomplir la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="pr-2">Les religions de l’homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

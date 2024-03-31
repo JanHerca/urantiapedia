@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Stanley McTrusty<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cohérence dans le Livre d'Urantia – Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Mars_The_Bearer_of_Life">
+          <span class="pr-2">Mars : le porteur de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Stanley McTrusty, lecteur de longue date du Livre d'Urantia et mathématicien professionnel, nous a envoyé sa thèse sur la réalité suivie d'une lettre en cours d'élaboration. D'abord la thèse :
@@ -85,3 +109,28 @@ Si une seule personne comprend vraiment ce que j’ai déduit dans ce résumé, 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_2/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cohérence dans le Livre d'Urantia – Personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Mars_The_Bearer_of_Life">
+          <span class="pr-2">Mars : le porteur de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

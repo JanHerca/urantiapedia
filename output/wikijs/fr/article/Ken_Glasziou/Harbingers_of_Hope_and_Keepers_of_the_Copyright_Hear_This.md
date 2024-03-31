@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faisons et gardons les choses simples</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="pr-2">L'origine de la vie sur Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Extrait de la parabole des talents : Le serviteur qui n'avait reçu qu'un seul talent s'avança et dit à son maître : « ...j’ai donc eu peur de risquer quoi que ce soit de ce qui m’avait été confié. J’ai caché ton talent en sécurité dans la terre ; le voici ; tu as maintenant ce qui t’appartient. » (<a id="a13_299"></a>[LU 176:3.4](/fr/The_Urantia_Book/176#p3_4))
@@ -37,3 +61,28 @@ Tous ceux qui pensent en termes de « diffuser le message » en distribuant le t
 
 - Article dans Innerface International : https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faisons et gardons les choses simples</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="pr-2">L'origine de la vie sur Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

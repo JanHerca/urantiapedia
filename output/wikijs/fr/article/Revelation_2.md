@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Purpose_Religion_Religious_philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Objectif, Religion, Philosophie religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spirituality">
+          <span class="pr-2">Spiritualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Révélation : les affirmations remarquables concernant la révélation vivante de Jésus
@@ -55,3 +79,28 @@ Dans l'état mortel **rien ne peut être absolument prouvé**, la science et la 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Purpose_Religion_Religious_philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Objectif, Religion, Philosophie religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spirituality">
+          <span class="pr-2">Spiritualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

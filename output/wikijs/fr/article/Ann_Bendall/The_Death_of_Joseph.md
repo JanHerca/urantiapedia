@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la promotion de notre hypothèse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="pr-2">Sur la présentation du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Les accidents imprévus et inexplicables ne se produisent pas dans le cosmos_ » (<a id="a13_85"></a>[LU 48:7.9](/fr/The_Urantia_Book/48#p7_9)) et « _les accidents matériels, qui sont des évènements courants de nature physique. Dans les circonstances ordinaires, seuls les créatures médianes peuvent agir sur les conditions matérielles pour sauvegarder les personnes, hommes ou femmes, ayant une destinée spéciale, et, même dans des situations spéciales, ils ne peuvent opérer dans ce sens qu’en se conformant aux ordres spécifiques de leurs supérieurs._ » (<a id="a13_542"></a>[LU 123:4.7](/fr/The_Urantia_Book/123#p4_7))
@@ -75,3 +99,28 @@ Et ainsi : « _Jésus aimait naturellement son entourage, il aimait sa famille, 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la promotion de notre hypothèse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="pr-2">Sur la présentation du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

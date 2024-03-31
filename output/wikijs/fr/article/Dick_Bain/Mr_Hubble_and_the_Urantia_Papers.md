@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Dick Bain<br>© 2001 The Brotherhood of Man Library<br>© 2020 Jan Herca, ajout de notes et citations</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Are_You_a_Truth_Seeker">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Êtes-vous un chercheur de vérité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_Was_Jesus_Like">
+          <span class="pr-2">À quoi ressemblait Jésus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La faute à Henrietta Leavitt. Sans elle, Edwin Hubble n'aurait peut-être jamais découvert que l'univers se désagrège à cause d'un événement qui sera plus tard connu sous le nom de « Big Bang ». Mme Leavitt, alors qu'elle étudiait les étoiles variables céphéides dans le Petit Nuage de Magellan en 1912, a découvert que la luminosité de ces étoiles variables est directement liée au temps nécessaire à l'étoile pour passer de la luminosité ou de la luminosité maximale à la luminosité minimale. Il est regrettable que cette brillante astronome n’ait pas reçu davantage de crédit pour son travail.
@@ -83,6 +107,31 @@ Il me semble que les auteurs ont intentionnellement créé un mystère pour nous
 * Francisco R. Villatoro, « Le problème constant de Hubble », juin 2017. https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Are_You_a_Truth_Seeker">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Êtes-vous un chercheur de vérité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_Was_Jesus_Like">
+          <span class="pr-2">À quoi ressemblait Jésus ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

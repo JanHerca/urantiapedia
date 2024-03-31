@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:55:39.184Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Free_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le libre arbitre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="pr-2">Qu'est-ce qu'on attend des lecteurs du Livre d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il n'est pas possible que l'Esprit ait plus de bonté que le Père puisque toute bonté a son origine dans le Père, mais dans les actes de l'Esprit nous pouvons mieux comprendre cette bonté.
@@ -31,3 +55,28 @@ Toutes les bonnes choses descendent du Père de la lumière, en qui il n’y a n
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Free_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le libre arbitre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="pr-2">Qu'est-ce qu'on attend des lecteurs du Livre d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1998 J.E.R. Écuyers<br>© 1998 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Creative_Imagination">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Imagination créatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="pr-2">Qu'est-ce qui constitue une « expérience spirituelle »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un placebo est une substance pharmacologiquement inerte administrée à l'aveugle (à leur insu) à un groupe témoin dans le cadre d'une procédure de test afin de détecter l'activité de substances ou de procédures censées être efficaces dans le traitement d'une maladie particulière.
@@ -34,3 +58,28 @@ Qui a dit que la rationalité avait une valeur de survie ?
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Creative_Imagination">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Imagination créatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="pr-2">Qu'est-ce qui constitue une « expérience spirituelle »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

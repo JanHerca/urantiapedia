@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La charité ne commence pas à la maison !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Clovis_First_aint_first_any_more">
+          <span class="pr-2">« Clovis First » n'est plus le premier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout d’abord, des excuses à tous les membres du mouvement Gideons dont la perception de ce que sont les Gideons est totalement différente de la mienne.
@@ -50,3 +74,28 @@ Nous pouvons être tout à fait certains d’une autre chose. Une approche géd�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La charité ne commence pas à la maison !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Clovis_First_aint_first_any_more">
+          <span class="pr-2">« Clovis First » n'est plus le premier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-09-24T17:46:11.444Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lire le Livre d'Urantia comme pratique religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans son livre *Urantia : Le grand mystère du culte*, Martin Gardner a utilisé toutes les astuces de son métier de démystification dans ses efforts pour ridiculiser le contenu scientifique du *Livre d'Urantia*. Par exemple, de la fin des années 1920 à la fin des années 1950, la théorie de Wegener sur la dérive des continents a été discréditée parmi les géologues, et particulièrement aux États-Unis. La théorie suggérait qu'il y a environ 200 millions d'années, toutes les masses continentales de la Terre étaient réunies et commençaient à se séparer à ce moment-là. Ainsi, si, comme l'affirme Gardner, Wilfred Kellogg et le Dr Sadler étaient des conspirateurs dans la production des Cahiers d'Urantia, pourquoi ont-ils inclus un récit de la dérive des continents dépassant de loin celui de Wegener dans ses détails et indiquant l'heure du début de la dérive à des niveaux très différents ? date d'il y a 750 millions d'années ?
@@ -45,3 +66,25 @@ Le livre définit la « vie » sur Urantia comme un « *équilibre déséquilibr
 
 - Article dans Innerface : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lire le Livre d'Urantia comme pratique religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus">
+          <span class="pr-2">Explorer davantage l'esprit de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La différence caractéristique entre une occasion sociale et un rassemblement religieux est que, contrairement au profane, le religieux est imprégné d’une atmosphère de communion. De cette manière, l’association humaine génère un sentiment de communion avec le divin, et c’est le début du culte de groupe.
@@ -36,3 +57,25 @@ Dieu, le Père, traite l’homme, son enfant, non pas sur la base de vertus ou d
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus">
+          <span class="pr-2">Explorer davantage l'esprit de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

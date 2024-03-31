@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Sydney Harris<br>© 1999 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toutes nos cosmologies sont erronées !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="pr-2">Quarante jours et quarante nuits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - Que chaque jour marque, d'une certaine manière, une bifurcation sur la route ; et qu’au moment où la grande fourchette arrive, nous avons déjà pris tellement de petites décisions qu’il ne nous reste plus vraiment de choix au tournant crucial.
@@ -32,3 +56,28 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Toutes nos cosmologies sont erronées !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="pr-2">Quarante jours et quarante nuits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

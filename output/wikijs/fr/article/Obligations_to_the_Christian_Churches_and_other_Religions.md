@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:28:13.933Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qu'on attend des lecteurs du Livre d'Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christianitys_Needs">
+          <span class="pr-2">Les besoins du christianisme…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. Que la foi révèle votre lumière au monde ; que la révélation de la vérité ouvre les yeux aveuglés par la tradition ; que votre service aimant détruise efficacement les préjugés engendrés par l’ignorance. » (<a id="a13_570"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
@@ -75,3 +99,28 @@ Cette étape, impliquant le développement individuel de la conscience divine, e
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qu'on attend des lecteurs du Livre d'Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christianitys_Needs">
+          <span class="pr-2">Les besoins du christianisme…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

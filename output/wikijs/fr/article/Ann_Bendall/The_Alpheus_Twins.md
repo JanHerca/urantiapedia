@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ann Bendall<br>© 2000 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Y a-t-il une certitude ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="pr-2">Les Fascicules d'Urantia sont-ils la parole divine de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les apôtres désiraient passionnément que le « royaume » soit un royaume terrestre qui viendrait en puissance et en gloire, et Jacques et Jean Zébédée se considéraient comme étant en position d’honneur, les premiers ambassadeurs choisis. De retour de leur recherche de Jésus dans les collines de Pérée, ils ont découvert que Pierre et André « étaient devenus les premiers conseillers acceptés du nouveau royaume » les ont attristés au point de réveiller Jésus pour lui demander une explication.
@@ -63,3 +87,28 @@ Les jumeaux Alphée « ont vécu et sont morts conscients d’avoir été honor�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Y a-t-il une certitude ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="pr-2">Les Fascicules d'Urantia sont-ils la parole divine de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

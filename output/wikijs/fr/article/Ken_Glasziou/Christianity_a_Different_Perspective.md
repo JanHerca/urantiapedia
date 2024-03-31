@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Favorite_Places_Religion_is_a_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion est une expérience spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="pr-2">Sources humaines du Livre d'Urantia. La Force Forte et la Supernova</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comme la plupart des processus associés à l’évolution de la société sur Terre, l’histoire de la religion occidentale a été dominée par l’hormone sexuelle masculine, la testostérone. L’un des principaux fondateurs du christianisme, Paul, possédait trop peu. Un autre, Augustin d'Hippone, dit aussi saint Augustin, souffrait d'excès. Les effets des niveaux de testostérone sur leur fonctionnement mental semblent s’être combinés d’une manière curieuse pour provoquer une scission de la théologie chrétienne vers deux extrêmes dans l’interprétation de l’incarnation de Jésus. Un extrême a donné à la vie de Jésus et à sa révélation divine de la nature de Dieu une signification primordiale. L’autre a pratiquement ignoré la vie de Jésus et son enseignement, attribuant de l’importance uniquement à sa mort sur la croix en tant qu’agneau symbolique sacrifié pour le péché du monde.
@@ -47,6 +71,31 @@ Jusqu’à présent, les hommes chrétiens se sont contentés d’excuser leur c
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_2/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Favorite_Places_Religion_is_a_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion est une expérience spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="pr-2">Sources humaines du Livre d'Urantia. La Force Forte et la Supernova</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

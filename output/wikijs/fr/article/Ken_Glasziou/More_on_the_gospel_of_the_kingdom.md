@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_why_is_it_so_strange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia. Pourquoi est-il si étrange ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > C’est toujours la technique la plus efficace dans toutes les formes et phases de l’enseignement. Même des parents peuvent apprendre de Philippe la meilleure manière de *ne pas* dire à leurs enfants : « allez faire ceci et allez faire cela », mais plutôt : « Venez avec nous, nous allons vous montrer la meilleure route à suivre et y cheminer avec vous. » (<a id="a13_358"></a>[LU 139:5.8](/fr/The_Urantia_Book/139#p5_8))
@@ -57,3 +78,25 @@ _Déclaré dans sa forme la plus simple, l'évangile du royaume est la reconnais
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_why_is_it_so_strange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia. Pourquoi est-il si étrange ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

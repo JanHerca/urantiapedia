@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consistency_Column">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Colonne de cohérence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cosmology_of_the_Material_Universes">
+          <span class="pr-2">Cosmologie des univers matériels. Pourquoi la Science et le Livre d'Urantia ont des perspectives différentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nos vies sont façonnées par nos expériences de pointe. Ces épisodes de transcendance sont parfois difficiles à expliquer, mais la plupart des gens ont le sentiment du ministère d'une réalité qui les dépasse et qui donne un sens à leur vie : « .  à chaque carrefour de la lutte pour l’avenir, l’Esprit de Vérité parlera toujours en disant : « C’est la voie. » » (<a id="a13_362"></a>[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8))
@@ -42,3 +66,28 @@ Pour rechercher la volonté de Dieu en prenant cette décision, j'ai passé des 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consistency_Column">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Colonne de cohérence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cosmology_of_the_Material_Universes">
+          <span class="pr-2">Cosmologie des univers matériels. Pourquoi la Science et le Livre d'Urantia ont des perspectives différentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

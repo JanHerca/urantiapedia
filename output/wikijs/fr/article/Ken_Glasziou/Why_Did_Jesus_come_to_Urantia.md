@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffamation de caractère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consistency_in_The_Urantia_Book">
+          <span class="pr-2">Cohérence dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que l'anniversaire de Jésus approche en août, c'est peut-être le moment de réfléchir à la raison pour laquelle celui qui est, à toutes fins utiles, Dieu dans son propre univers, aurait néanmoins dû venir sur cette humble planète comme un bébé sans défense et vivre parmi nous, méconnus. En faisant abstraction de <a id="a13_319"></a>[LU 120:0.4](/fr/The_Urantia_Book/120#p0_4), nous trouvons ces déclarations :
@@ -143,3 +167,28 @@ Et quel plus grand don pouvons-nous offrir au Dieu de Nébadon que nous-mêmes ?
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffamation de caractère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Consistency_in_The_Urantia_Book">
+          <span class="pr-2">Cohérence dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

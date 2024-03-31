@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="pr-2">L'alter ego et l'esprit intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > ... Le grand accomplissement de la vie de mortel est d’arriver à se consacrer vraiment et intelligemment aux buts éternels de l’esprit divin qui attend et travaille dans votre mental. Mais un effort dévoué et déterminé pour accomplir la destinée éternelle est entièrement compatible avec l’allégresse et la joie de vivre, et avec une carrière terrestre honorable et réussie. La coopération avec l’Ajusteur de Pensée n’implique pas qu’il faille se torturer, faire semblant d’être pieux ou s’humilier d’une façon hypocrite et ostentatoire. La vie idéale consiste à servir avec amour, plutôt qu’à mener une existence d’appréhension craintive.
@@ -29,3 +50,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="pr-2">L'alter ego et l'esprit intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

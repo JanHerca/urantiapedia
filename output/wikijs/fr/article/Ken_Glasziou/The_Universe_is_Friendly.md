@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le souper du Souvenir : sa signification</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/LeRuth_Ward_Tyau/A_letter_to_the_Editor_Communicating_with_our_Indwelling_God_Spirit">
+          <span class="pr-2">Communiquer avec notre Esprit-Dieu qui nous habite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Ganid, j’ai une confiance absolue dans la surveillance supérieure exercée par mon Père qui est aux cieux. Je suis consacré à faire la volonté de mon Père qui est dans les cieux. Je ne crois pas que l’on puisse *réellement* me nuire, ni que l’œuvre de ma vie puisse vraiment être mise en péril par un effort quelconque de mes ennemis contre moi, et par ailleurs nous n’avons certainement à craindre aucune violence de la part de nos amis. Je suis absolument convaincu que l’univers entier est amical à mon égard — et je persiste à croire à cette toute-puissante vérité avec une confiance totale, malgré toutes les apparences contraires._ » (<a id="a13_645"></a>[LU 133:1.4](/fr/The_Urantia_Book/133#p1_4))
@@ -44,3 +68,28 @@ Les attitudes font donc toute la différence. Jésus n’a jamais perçu l’hos
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le souper du Souvenir : sa signification</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/LeRuth_Ward_Tyau/A_letter_to_the_Editor_Communicating_with_our_Indwelling_God_Spirit">
+          <span class="pr-2">Communiquer avec notre Esprit-Dieu qui nous habite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

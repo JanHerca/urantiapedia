@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="pr-2">Le défi du XXIe siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > En tant qu’homme du royaume, Jésus apporta à Dieu la plus grande de toutes les offrandes : il consacra et dédia sa propre volonté au majestueux service de faire la volonté divine. Jésus interprétait toujours immanquablement la religion entièrement sous l’aspect de la volonté du Père. Quand vous étudiez la carrière du Maitre au point de vue de la prière ou de tout autre trait de la vie religieuse, recherchez moins ses enseignements que ses actes. Jamais Jésus ne fit une prière à titre de devoir religieux. Pour lui, la prière était une expression sincère d’attitude spirituelle, une déclaration de loyauté d’âme, un exposé de dévotion personnelle, une expression d’actions de grâces, une manière d’échapper à la tension émotive, une prévention de conflit, une exaltation de l’intellect, un anoblissement des désirs, une justification de décisions morales, un enrichissement de la pensée, un renforcement des tendances supérieures, une consécration d’impulsion, une clarification de point de vue, une déclaration de foi, une reddition transcendantale de la volonté, une sublime affirmation de confiance, une révélation de courage, la proclamation d’une découverte, une confession de dévotion suprême, la confirmation d’une consécration, une technique pour aplanir les difficultés et la puissante mobilisation des pouvoirs conjugués de l’âme pour résister à toutes les tendances humaines à l’égoïsme, au mal et au péché. Il vécut précisément cette vie de pieuse consécration à faire la volonté de son Père et la termina triomphalement par une prière de cet ordre. Le secret de son incomparable vie religieuse était cette conscience de la présence de Dieu ; il l’atteignit par des prières intelligentes et une adoration sincère — une communion ininterrompue avec Dieu — et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires.
@@ -37,3 +58,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="pr-2">Le défi du XXIe siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

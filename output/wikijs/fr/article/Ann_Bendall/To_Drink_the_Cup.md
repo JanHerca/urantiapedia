@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/On_the_Serving_of_Palatable_Food">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le service des aliments savoureux, « lorsque nous passons devant »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Learning_About_God">
+          <span class="pr-2">Apprendre à connaître Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un client gravement handicapé avec lequel j’ai travaillé m’a toujours impressionné par sa capacité à faire face à une douleur incroyable. Jusqu’à présent, il avait dépassé les attentes du spécialiste dans son rétablissement et, étant un homme grand, en forme et majestueux, on ne soupçonnerait jamais les nombreux handicaps de cette personne.
@@ -34,3 +58,28 @@ Je n’ai aucun doute que toute adversité que je pourrais rencontrer dans la vi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/On_the_Serving_of_Palatable_Food">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le service des aliments savoureux, « lorsque nous passons devant »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Learning_About_God">
+          <span class="pr-2">Apprendre à connaître Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

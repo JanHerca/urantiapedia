@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">M. Hubble et les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_is_Dead_Ghosts_are_Becoming">
+          <span class="pr-2">Le matérialisme est mort. Les fantômes « deviennent »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » (<a id="a13_366"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
@@ -85,3 +109,28 @@ Peu à peu, la plupart d’entre nous apprendront que la connaissance la plus im
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">M. Hubble et les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Materialism_is_Dead_Ghosts_are_Becoming">
+          <span class="pr-2">Le matérialisme est mort. Les fantômes « deviennent »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

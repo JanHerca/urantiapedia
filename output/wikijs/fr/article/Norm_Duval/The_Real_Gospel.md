@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Norm Duval<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avons-nous tous une âme ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="pr-2">En savoir plus sur les travaux secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qu'est-ce que l'Évangile ? Si vous deviez poser la question à plusieurs personnes, vous obtiendrez probablement plusieurs réponses différentes. Certains diront que le mot évangile signifie « bonne nouvelle », et c’est vrai, mais ce n’est qu’une définition. Vous voulez savoir __quelle est la bonne nouvelle et d'où vient-elle__.
@@ -118,3 +142,28 @@ Et enfin, comme on peut l’attendre du Fils d’un Dieu aimant, des paroles ré
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avons-nous tous une âme ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="pr-2">En savoir plus sur les travaux secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

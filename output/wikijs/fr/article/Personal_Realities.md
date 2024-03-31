@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_and_Consciousness">
+          <span class="pr-2">Esprit et conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « L’esprit est la réalité personnelle fondamentale dans les univers, et la personnalité est fondamentale pour toute expérience progressive avec la réalité spirituelle. Toutes les phases d’expérience de la personnalité sur tous les niveaux successifs de progression universelle fourmillent d’indices conduisant à la découverte de réalités personnelles attirantes. La véritable destinée des hommes consiste à créer des buts nouveaux et spirituels, puis à répondre aux attraits cosmiques de ces buts célestes de valeur non matérielle. » (<a id="a13_537"></a>[LU 12:9.1](/fr/The_Urantia_Book/12#p9_1))
@@ -35,3 +56,25 @@ Voir l’article « Ce qui survit réellement » pour obtenir des éclaircisseme
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Mind_and_Consciousness">
+          <span class="pr-2">Esprit et conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

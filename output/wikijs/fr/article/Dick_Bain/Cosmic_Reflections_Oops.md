@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Dick Bain<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'origine de la vie sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Red_Shift_Shifted">
+          <span class="pr-2">Le décalage vers le rouge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'astronomie et la cosmologie du _Livre d'Urantia_ ont été un problème pour beaucoup d'entre nous qui se soucient de ce domaine de connaissance. Nous avons du mal à harmoniser les descriptions et les nombres du _Le Livre d'Urantia_ avec les concepts actuels de nos astronomes. L'une de mes récentes tentatives dans ce sens dans un article d'Innerface [^1] présente un sérieux défaut causé par une simple erreur mathématique, ainsi que par quelques fautes de frappe.
@@ -48,6 +72,31 @@ Lorsque l’univers est dans la phase d’expansion du cycle de respiration spat
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'origine de la vie sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Red_Shift_Shifted">
+          <span class="pr-2">Le décalage vers le rouge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

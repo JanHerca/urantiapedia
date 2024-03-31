@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:49:50.339Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dérive des continents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="pr-2">Dérive des continents 3 – Effets secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La nature prophétique du récit du Livre d'Urantia sur la dérive des continents et certaines de ses conséquences ont maintenant été approuvées dans un livre du professeur de géologie, M.A.S. McMenamin, intitulé « Le jardin d'Ediacara », rapporté par Larry Mullins dans le récent « Journal de la Fraternité Spirituelle ». Les citations suivantes provenant du livre de McMenamin font suite au fait que l’attention de cet auteur a été attirée sur le contenu du _Livre d’Urantia_ :
@@ -39,3 +63,28 @@ De toute évidence, de nombreuses sections du livre doivent rester telles qu’e
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dérive des continents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="pr-2">Dérive des continents 3 – Effets secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

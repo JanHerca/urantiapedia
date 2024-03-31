@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:06:39.834Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Règle d'Or</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="pr-2">Foi et croyance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque l’homme aborde l’étude et l’examen de l’univers de l’extérieur, il donne naissance aux diverses sciences physiques ; lorsqu'il aborde la recherche de lui-même et de l'univers de l'intérieur, il donne naissance à la théologie et à la métaphysique. L’art philosophique ultérieur s’est développé dans le but d’harmoniser les nombreuses divergences qui apparaissaient inévitablement entre les découvertes et les enseignements de ces deux voies diamétralement opposées d’approche de l’univers des choses et des êtres.
@@ -40,3 +64,28 @@ La révélation est le seul espoir réaliste de l’homme évolutionnaire de com
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Règle d'Or</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="pr-2">Foi et croyance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

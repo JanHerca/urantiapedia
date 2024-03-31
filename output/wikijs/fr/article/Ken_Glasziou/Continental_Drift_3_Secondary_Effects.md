@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:52:13.783Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Radiometric_chemistry_Age_of_the_Earth">
+          <span class="pr-2">Chimie radiométrique à l'ère de la Terre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Il existe une curieuse histoire parallèle entre l’histoire des trous noirs et la dérive des continents. Les preuves de ces deux idées étaient déjà incontournables en 1916, mais les deux idées furent stoppées dans leur élan pendant un demi-siècle par une résistance confinant à l’irrationnel... mais la résistance à ces deux éléments a commencé à s’effondrer vers 1960. » (Werner Israël, cité dans Thorne[^1])
@@ -40,6 +64,31 @@ La présence de fossiles de marsupiaux dans les strates de l'Oligocène (âgées
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Radiometric_chemistry_Age_of_the_Earth">
+          <span class="pr-2">Chimie radiométrique à l'ère de la Terre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:06:08.036Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divers éléments erronés résumés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="pr-2">La dérive des continents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il ne fait aucun doute que ces Cahiers d'Urantia serpentent parfois entre le sublime et le ridicule. Cela devient plus compréhensible si l’on se rappelle qu’une grande partie du contenu initial constitue la réponse aux questions des membres du « Forum » qui tentaient délibérément de tendre des pièges aux révélateurs pour qu’ils se trahissent. La réalité du livre lui-même témoigne que les révélateurs ont survécu à cette période d'épreuve malgré les limitations que leur imposaient les règles universelles sur la révélation qui interdisaient de révéler des connaissances non acquises – ce qui était en conflit direct avec la détermination des membres du Forum « à poser des questions que personne n'a pu acquérir ». l'être humain pourrait répondre.
@@ -35,3 +59,28 @@ Si la révélation n’avait pas pour but d’apporter de nouvelles connaissance
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divers éléments erronés résumés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="pr-2">La dérive des continents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

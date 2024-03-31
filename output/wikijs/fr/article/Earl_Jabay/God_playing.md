@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Earl Jabay<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Answers_from_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réponses du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="pr-2">Remarques sur le suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Condensé du _Royaume du Soi_ par Earl Jabay. (Logos International, New Jersey)
@@ -94,3 +118,28 @@ Bien qu’il semble signaler une capitulation, un appel à l’aide divine est i
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Answers_from_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réponses du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="pr-2">Remarques sur le suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

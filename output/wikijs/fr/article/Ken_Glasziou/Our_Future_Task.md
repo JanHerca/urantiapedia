@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Partie 4 du Livre d'Urantia est la « révélation réelle et idéale » mentionnée dans le Fascicule 1.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Mais la religion ne devrait s’occuper directement ni de créer de nouveaux ordres sociaux, ni de préserver les anciens. (<a id="a13_122"></a>[LU 99:0.2](/fr/The_Urantia_Book/99#p0_2))
@@ -38,3 +59,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Partie 4 du Livre d'Urantia est la « révélation réelle et idéale » mentionnée dans le Fascicule 1.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

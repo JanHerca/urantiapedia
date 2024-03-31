@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Frederick Beckner<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naissance du système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Archaeology_and_The_Urantia_Book_Tin_in_Turkey">
+          <span class="pr-2">L'archéologie et le Livre d'Urantia. L'étain en Turquie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ déclare « _Dans le superunivers d'Orvonton, il y a cent octaves d'énergie ondulatoire_ » (<a id="a13_111"></a>[LU 42:5.1](/fr/The_Urantia_Book/42#p5_1)).
@@ -48,3 +72,28 @@ Cela nous amène à la question de savoir pourquoi ces informations ont été fo
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naissance du système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Archaeology_and_The_Urantia_Book_Tin_in_Turkey">
+          <span class="pr-2">L'archéologie et le Livre d'Urantia. L'étain en Turquie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

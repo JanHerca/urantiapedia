@@ -9,6 +9,30 @@ dateCreated: 2022-09-07T12:41:28.028Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Dick Bain<br>© 1996 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Editorial_Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial : Urantia de Martin Gardner, le grand mystère du culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">Le but de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a plusieurs années, Martin Gardner, chroniqueur pour un journal appelé *The Skeptical Inquirer*, a écrit deux articles très peu élogieux sur le *Livre d'Urantia*. Environ un an plus tard, il décide d'écrire un livre sur le même sujet. Il commença à interviewer des gens de la communauté Urantia et à rechercher du matériel pour son livre. J'ai été invité chez lui pour un entretien et j'ai accepté. C'est ainsi que j'ai rencontré Martin Gardner.
@@ -67,3 +91,28 @@ J'ai dit à Gardner à la fin de notre entretien que j'étais un pragmatique. J'
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Editorial_Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial : Urantia de Martin Gardner, le grand mystère du culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">Le but de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

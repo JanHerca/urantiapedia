@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Love_Meanings_and_Values_Miracles_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, Significations et Valeurs, Miracles, Moralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Revelation_2">
+          <span class="pr-2">Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## But
@@ -52,3 +76,28 @@ La foi conduit à la connaissance de Dieu, et non seulement à un sentiment myst
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Love_Meanings_and_Values_Miracles_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour, Significations et Valeurs, Miracles, Moralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Revelation_2">
+          <span class="pr-2">Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

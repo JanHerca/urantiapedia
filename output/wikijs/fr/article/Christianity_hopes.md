@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christianitys_challenge">
+          <span class="pr-2">Le défi du christianisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quel service transcendant si, par cette révélation, le Fils de l'Homme devait être récupéré du tombeau de la théologie traditionnelle et présenté comme Jésus vivant à l'Église qui porte son nom, et à toutes les autres religions ! Il est certain que la communauté chrétienne des croyants n'hésitera pas à procéder à des ajustements de foi et de pratiques de vie qui lui permettront de « suivre » le Maître dans la démonstration de sa vie réelle de dévotion religieuse à l'accomplissement de la volonté et de la volonté de son Père. consécration au service désintéressé de l'homme.
@@ -39,3 +63,28 @@ Le christianisme a en effet rendu un grand service à ce monde, mais ce dont on 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page14.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Christianitys_challenge">
+          <span class="pr-2">Le défi du christianisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

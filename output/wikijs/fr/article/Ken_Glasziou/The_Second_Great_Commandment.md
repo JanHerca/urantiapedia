@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/High_on_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Haut sur les anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="pr-2">La science et le Livre d'Urantia. Quand l'Homme Rouge est-il arrivé en Amérique ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au temps de Jésus, le Shema était récité deux fois par jour par les Juifs fidèles : « _Écoute, ô Israël, le Seigneur notre Dieu est un seul Seigneur ; et tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toutes tes forces._ » Ce fut le premier grand commandement mentionné dans les évangiles. La Quatrième Révélation d’Époque a amélioré sa signification en raison de sa révélation de la vraie nature de Dieu à travers la vie de Jésus. Le deuxième grand commandement était que nous devrions aimer notre prochain comme nous-mêmes. La Quatrième Révélation d’Époque a fait un bond en avant dans sa signification en l’élevant d’un niveau matériel à un niveau spirituel. Il nous dit que nous devons nous aimer les uns les autres comme Jésus nous aime.
@@ -53,3 +77,28 @@ Comment Jésus a-t-il aimé ? Le véritable amour, l’amour semblable à celui 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/High_on_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Haut sur les anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="pr-2">La science et le Livre d'Urantia. Quand l'Homme Rouge est-il arrivé en Amérique ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

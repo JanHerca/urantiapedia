@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T16:45:14.471Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Revelatory_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion révélatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="pr-2">Sur la valeur de la valeur spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tôt ou tard, les lecteurs du Livre d'Urantia devront tenir compte des appels lancés par ses révélateurs. L'un d'entre eux est sur <a id="a13_130"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10) :
@@ -77,3 +101,28 @@ La phase dans laquelle notre tâche principale est d'aider les chrétiens à pre
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Revelatory_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion révélatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="pr-2">Sur la valeur de la valeur spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

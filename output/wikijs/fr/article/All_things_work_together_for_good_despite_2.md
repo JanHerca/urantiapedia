@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meanings_and_Goals">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significations et objectifs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/About_Certainty">
+          <span class="pr-2">À propos de la certitude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous savons également que toutes choses concourent au bien de ceux qui aiment Dieu. (Paul dans [Romains 8:28](/fr/Bible/Romans/8#v28))
@@ -25,3 +49,28 @@ Jésus a déclaré : « j’ai une confiance absolue dans la surveillance supér
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meanings_and_Goals">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Significations et objectifs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/About_Certainty">
+          <span class="pr-2">À propos de la certitude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

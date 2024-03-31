@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vérité et Foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="pr-2">Swann, Gardner et le Livre d'Urantia – Protons et électrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. (<a id="a13_141"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
@@ -65,3 +89,28 @@ Ce qui suit cette citation de <a id="a53_30"></a>[LU 193:2.2](/fr/The_Urantia_Bo
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vérité et Foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="pr-2">Swann, Gardner et le Livre d'Urantia – Protons et électrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:29:02.617Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puis-je « être » ce que Dieu veut que je « sois ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_and_Where_did_Mankind_arise">
+          <span class="pr-2">Comment et où l'humanité est-elle née ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans un avenir pas trop lointain, le monde occidental, en particulier, sera confronté à un chaos moral potentiel lorsque les chrétiens se rendront compte que les concepts judéo-chrétiens du bien et du mal sont construits sur une maison de paille. Et dans un monde qui progresse vers l’impiété, quelles opinions prévaudront ou devraient prévaloir ?
@@ -82,6 +106,31 @@ Les deux mille pages du Livre d'Urantia fournissent un contenu beaucoup trop vol
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_6/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puis-je « être » ce que Dieu veut que je « sois ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_and_Where_did_Mankind_arise">
+          <span class="pr-2">Comment et où l'humanité est-elle née ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

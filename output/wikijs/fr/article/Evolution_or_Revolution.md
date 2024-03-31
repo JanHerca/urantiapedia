@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre comme Jésus a vécu – dans un environnement familial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Is_God_a_Possibility">
+          <span class="pr-2">Dieu est-il une possibilité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Que serait-il arrivé si les dirigeants de toutes les principales sectes chrétiennes avaient pleinement approuvé les Cahiers d'Urantia comme étant une révélation donnée par Dieu immédiatement après l'impression du livre en 1955 ?
@@ -99,3 +123,28 @@ En gardant à l’esprit que l’évolution plutôt que la révolution est l’o
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre comme Jésus a vécu – dans un environnement familial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Is_God_a_Possibility">
+          <span class="pr-2">Dieu est-il une possibilité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

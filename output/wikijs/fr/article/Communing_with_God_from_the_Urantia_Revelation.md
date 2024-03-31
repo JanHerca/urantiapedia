@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T04:42:35.653Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Creation_of_the_Universe_Did_God_participate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Création de l'Univers. Dieu a-t-il participé ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La prière éclairée doit reconnaître non seulement un Dieu externe et personnel, mais aussi une Divinité interne et impersonnelle, l'Esprit intérieur du Père. Il est tout à fait approprié que l'homme, lorsqu'il prie, s'efforce de saisir le concept du Père Universel au Paradis ; mais la technique la plus efficace pour la plupart des objectifs pratiques sera de revenir au concept d'un alter ego proche, tout comme l'esprit primitif avait l'habitude de le faire, et de reconnaître ensuite que l'idée de cet alter ego a évolué à partir d'un simple alter ego. fiction à la vérité de l'homme mortel intérieur de Dieu dans la présence factuelle de l'Esprit-Dieu intérieur afin que l'homme puisse parler face à face, pour ainsi dire, avec un alter ego réel, authentique et divin qui l'habite et qui est la présence même et essence du Dieu vivant, le Père Universel.
@@ -26,3 +47,25 @@ La prière a toujours été et sera toujours une double expérience humaine : un
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Creation_of_the_Universe_Did_God_participate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Création de l'Univers. Dieu a-t-il participé ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

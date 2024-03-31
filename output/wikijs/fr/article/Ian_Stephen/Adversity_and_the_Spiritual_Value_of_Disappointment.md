@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ian Stephen<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apartheid Mandeled</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Its_a_Worry">
+          <span class="pr-2">C'est une inquiétude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Livre d'Urantia nous dit que « Jésus a parlé pendant plus d’une heure, aux groupes assemblés, « du rôle de l’adversité et de la valeur spirituelle des déceptions ». » (<a id="a13_171"></a>[LU 151:0.1](/fr/The_Urantia_Book/151#p0_1))
@@ -43,3 +67,28 @@ Si mon « adversité » particulière ne s’était pas produite, je n’aurais 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apartheid Mandeled</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Its_a_Worry">
+          <span class="pr-2">C'est une inquiétude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

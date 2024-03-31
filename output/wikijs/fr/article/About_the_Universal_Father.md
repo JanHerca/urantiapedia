@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T01:11:40.721Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Implementing_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la mise en œuvre des enseignements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - Le Père Universel est la Cause Première et le Contrôleur de tout ce qui existe.
@@ -62,3 +83,25 @@ C’est pourquoi la vérité de toute religion est attestée uniquement par les 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/On_Implementing_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la mise en œuvre des enseignements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

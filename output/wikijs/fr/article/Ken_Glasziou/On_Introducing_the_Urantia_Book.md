@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort de Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="pr-2">Rayon de l'électron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À la conclusion de cet article, il y a une brève discussion d'un segment du Livre d'Urantia qui contient des informations inconnues au moment de la première impression du livre, informations impossibles à deviner et qui sont restées inconnues jusqu'à la décennie en cours. Il s’agit d’un segment parmi plusieurs segments similaires d’informations scientifiques, vraisemblablement présentés selon les termes d’exclusion de leur mandat. (<a id="a13_436"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)) Cependant, cela est inhabituel et, pour la plupart, les auteurs ont utilisé des connaissances scientifiques qui étaient actuelles lorsque les Cahiers d'Urantia ont été reçus au milieu des années 1930. Comme prévu, une grande partie de ces informations sont dépassées depuis longtemps. (<a id="a13_767"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
@@ -45,6 +69,31 @@ Remarque : L'article « Rayon de l'électron » qui suit peut être copié et ut
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort de Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="pr-2">Rayon de l'électron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

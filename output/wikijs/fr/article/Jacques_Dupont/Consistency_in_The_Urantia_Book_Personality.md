@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Jacques Dupont<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Dieu des Fondamentaux qui est une Lumière, pas un Cil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stanley_McTrusty/Correspondence_from_Stanley_McTrusty">
+          <span class="pr-2">Correspondance de Stanley McTrusty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > D'après un article de Jacques Dupont, Recloses, France
@@ -98,3 +122,28 @@ Une étude plus approfondie pourrait inclure d’autres concepts connexes tels q
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Dieu des Fondamentaux qui est une Lumière, pas un Cil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stanley_McTrusty/Correspondence_from_Stanley_McTrusty">
+          <span class="pr-2">Correspondance de Stanley McTrusty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

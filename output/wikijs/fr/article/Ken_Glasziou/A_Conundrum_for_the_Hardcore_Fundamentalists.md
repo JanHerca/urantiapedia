@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aucun homme n'a jamais parlé ainsi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos, neutrons et étoiles à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Certains de nos fondamentalistes du Livre d’Urantia croient fermement en la vérité absolue de tout ce qui est contenu dans le matériel textuel du livre – tout comme les fondamentalistes chrétiens croient en la théorie de la dictature divine pour la Bible. Et ce malgré les avertissements donnés par les Révélateurs concernant leur mandat :
@@ -40,3 +64,28 @@ Les Puissants Messagers n’ont pas le statut de « Créateur », ils sont donc 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aucun homme n'a jamais parlé ainsi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos, neutrons et étoiles à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

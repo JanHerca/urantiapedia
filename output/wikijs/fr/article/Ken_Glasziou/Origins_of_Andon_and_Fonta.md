@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plan A. Qu’est-ce que c’était ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_did_life_start_on_Urantia">
+          <span class="pr-2">Quand la « vie a-t-elle commencé sur Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La sagesse conventionnelle sur l'origine de l'espèce humaine est qu'il y a 4 millions d'années en Afrique, une petite créature d'un peu plus d'un mètre de haut a émergé du creuset de l'évolution et s'est levée.
@@ -43,6 +67,31 @@ Beaucoup (la plupart ?) de lecteurs pensent que _Le Livre d'Urantia_ prétend qu
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_4/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plan A. Qu’est-ce que c’était ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_did_life_start_on_Urantia">
+          <span class="pr-2">Quand la « vie a-t-elle commencé sur Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science et le Livre d'Urantia. Quand l'Homme Rouge est-il arrivé en Amérique ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un article paru dans Natural History (8/92) indique que l'on pensait auparavant que l'ancien lémurien nord-américain (Notharctus) était plus primitif que la variété européenne et qu'il n'avait pas contribué directement à la lignée des primates et des humains. Les récentes découvertes de fossiles faites à Bitter Creek, à l'est du bassin Bridger, dans le Wyoming, ont complètement modifié cette vision. Anciennement décrit comme un petit primate à face de renard semblable au lémurien à queue annelée d'aujourd'hui, la découverte d'un crâne presque complet montre que Notharctus avait un museau beaucoup plus petit que celui des adaptidés éteints ou de nombreux lémuriens vivants. Son découvreur déclare qu'il a peut-être évolué indépendamment de quelques caractéristiques des anthropoïdes, telles que l'os lacrymal réduit du visage, et que, à certains égards, Northarctus ressemble plus à la souche ancestrale qui a produit les singes et les singes qu'à la lignée qui conduit aux lémuriens malgaches et aux propithèques de Madagascar. _Le Livre d'Urantia_ déclare :
@@ -19,3 +40,25 @@ Un article paru dans Natural History (8/92) indique que l'on pensait auparavant 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_3/page18.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science et le Livre d'Urantia. Quand l'Homme Rouge est-il arrivé en Amérique ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

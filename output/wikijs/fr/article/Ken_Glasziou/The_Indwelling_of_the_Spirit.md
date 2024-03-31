@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Millennium_of_Cosmic_Enlightenment_Is_it_Here">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un millénaire d'illumination cosmique : est-il là ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="pr-2">La résidence de l'Esprit dans le Nouveau Testament</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Peut-être qu'aucun concept n'a plus de potentiel pour faire une différence pour le progrès spirituel et le bien-être de cette planète qu'une connaissance largement répandue que l'esprit du Père habite réellement chacun des enfants humains de Dieu - et que l'Esprit de Vérité est également disponible pour leur aide et leurs conseils, simplement sur demande.
@@ -53,3 +77,28 @@ Et dans le cas où l'un de nos lecteurs se trouverait en mesure d'aider les chr�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Millennium_of_Cosmic_Enlightenment_Is_it_Here">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un millénaire d'illumination cosmique : est-il là ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="pr-2">La résidence de l'Esprit dans le Nouveau Testament</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

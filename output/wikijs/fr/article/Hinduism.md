@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/A_True_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une histoire vraie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="pr-2">Concepts de l'Absolu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » (<a id="a13_433"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
@@ -64,3 +88,28 @@ La beauté et la vérité des enseignements de l’hindouisme ont été capturé
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/A_True_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une histoire vraie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="pr-2">Concepts de l'Absolu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

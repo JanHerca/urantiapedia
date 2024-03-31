@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rayon de l'électron</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cest_Important">
+          <span class="pr-2">C'est important !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pierre et les apôtres, enflammés de l'Esprit de Vérité, sont allés à l'encontre de la demande/demande/injonction de Jésus d'enseigner l'évangile du royaume plutôt que d'enseigner sa vie, et ils ont donc créé une religion sur Jésus plutôt que la religion de Jésus. – transformant instantanément une religion basée sur la révélation en une religion basée sur l’évolution. Par conséquent, « _le royaume tel que Jésus le concevait a échoué dans une grande mesure sur terre_ » (<a id="a13_473"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
@@ -45,3 +69,28 @@ Alors que je considère actuellement l'avenir d'Urantia à la lumière de la lec
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rayon de l'électron</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Cest_Important">
+          <span class="pr-2">C'est important !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

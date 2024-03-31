@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Peter Vardy<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Divine_Spirit_must_dominate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Esprit Divin doit dominer...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="pr-2">Pourquoi nous avons besoin de connaître « La vie terrestre de Jésus et comment il l'a vécue ».</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si l’on dit qu’un être humain est bon, cela signifie qu’il possède certaines caractéristiques qui sont considérées comme admirables alors qu’elles auraient pu l’être autrement. Une personne gentille, douce, indulgente, compatissante, qui donne aux pauvres, visite les malades et agit de manière désintéressée pourrait très bien être considérée comme bonne et louée pour ces vertus alors que tant d'autres personnes sont égoïstes, impatientes, froides et indifférent aux besoins des autres. Dans ce cas, le bien est utilisé dans un sens moral.
@@ -132,3 +156,28 @@ Il apparaît donc que la redécouverte de la logique aristotélicienne dans le m
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Divine_Spirit_must_dominate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Esprit Divin doit dominer...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="pr-2">Pourquoi nous avons besoin de connaître « La vie terrestre de Jésus et comment il l'a vécue ».</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

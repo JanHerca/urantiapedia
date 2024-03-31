@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T18:30:58.892Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le rasoir d'Occam appliqué à la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La suggestion suivante vient de la littérature islamique soufie dans laquelle elle est connue sous le terme « notre Dieu idéal ». Il déclare : « La réalité de Dieu dépasse la compréhension humaine. C'est également un mystère pour notre pensée. Cependant, il reste factuel que pour développer notre relation avec Dieu, nous devons avoir une sorte d'imagerie, une sorte d'image mentale de Dieu, qui il est et ce qu'il est.
@@ -25,3 +46,25 @@ Cela vaut peut-être la peine d'essayer ?
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le rasoir d'Occam appliqué à la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

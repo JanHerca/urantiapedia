@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Books_Message_has_Failed_or_has_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le message du Livre d'Urantia a échoué – ou l'a-t-il fait ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Sower">
+          <span class="pr-2">Le Semeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jésus sur la croix, la tête baissée, le sang coulait de sa tête avec sa couronne d'épines, de ses pieds et de ses mains percés de clous, et de son côté où le soldat enfonçait son épée. C'était une image de ma vie quotidienne d'enfant, et malgré une formation intense sur la philosophie de l'expiation, la vue de cet homme doux assassiné de manière si inhumaine niait la valeur de la justification présentée pour la faire paraître nécessaire ou valable.
@@ -53,3 +77,28 @@ La plupart des lecteurs du Livre d'Urantia se considéreraient eux-mêmes comme 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Books_Message_has_Failed_or_has_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le message du Livre d'Urantia a échoué – ou l'a-t-il fait ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Sower">
+          <span class="pr-2">Le Semeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

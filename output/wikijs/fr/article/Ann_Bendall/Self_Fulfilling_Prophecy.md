@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Midrash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Midrash</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="pr-2">La mort éternelle : un nouvel avenir pour la conscience humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce que nous croyons se réalisera, simplement parce que nous sommes des créateurs ! Si je crois que je ne serai pas accepté par les autres, il y a de fortes chances que je ne sois pas accepté simplement parce que j'aborderai ces autres de manière fermée et autoprotectrice. Mon appréhension d’être rejeté crée un environnement dans lequel les chances de rejet ont augmenté d’autant. Je peux même aller jusqu'à me convaincre que cette personne ne vaut même pas la peine d'être associée. Tout en reconnaissant qu'ils sont très probablement un frère/une sœur en esprit (avec peut-être des réserves à ce sujet), ils sont décidément non fraternels/sœurs sur ce plan d'existence. En d’autres termes, j’adopte la stratégie consistant à entrer en premier, à rejeter en prévision du rejet.
@@ -45,3 +69,28 @@ Abordons-nous les autres sans préjugés d’anticipation ? Abordons-nous les au
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Midrash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Midrash</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="pr-2">La mort éternelle : un nouvel avenir pour la conscience humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

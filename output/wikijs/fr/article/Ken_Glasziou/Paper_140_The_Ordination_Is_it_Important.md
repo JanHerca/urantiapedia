@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/No_Morality_No_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas de moralité, pas de rien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Ordination_Sermon">
+          <span class="pr-2">Le sermon d'ordination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a quelques jours, je fouillais dans ma bibliothèque et j'ai remarqué que mon ancienne version King James de la Bible comportait un petit nombre de pages qui, à cause de l'usure, étaient écornées par rapport au reste. Après vérification, les pages abîmées commençaient par l'Évangile de Matthieu et progressaient jusqu'à celui de Marc. La première de ces pages usées commençait à Matthieu 5, le Sermon sur la Montagne.
@@ -106,3 +130,28 @@ Ce commentaire se trouve juste après le sermon.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/No_Morality_No_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas de moralité, pas de rien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Ordination_Sermon">
+          <span class="pr-2">Le sermon d'ordination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

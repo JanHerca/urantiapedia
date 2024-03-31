@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science prophétique dans les fascicules d'Urantia – Discussion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Notre discussion précédente a présenté des lignes de raisonnement qui peuvent faire la lumière sur les nombreuses occurrences d'erreurs dans les Fascicules d'Urantia. Le fait que ces erreurs constituent effectivement un mystère découle de l'observation par beaucoup que les auteurs de ces articles possédaient d'excellentes connaissances hautement spécialisées dans de multiples domaines scientifiques, ainsi que dans la religion, la Bible, la théologie et la philosophie.
@@ -123,6 +144,28 @@ Nous avons les papiers – et l’obligation.
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science prophétique dans les fascicules d'Urantia – Discussion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

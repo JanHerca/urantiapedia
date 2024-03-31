@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Visible_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'univers visible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En détaillant leur récit de la vie et de l'évolution des terres sur notre planète dans les Cahiers d'Urantia [LU 57](/fr/The_Urantia_Book/57), [58](/fr/The_Urantia_Book/58), [59](/fr/The_Urantia_Book/59) et [60](/fr/The_Urantia_Book/60), leurs auteurs ont adopté sans réserve le concept de dérive des continents, une idée vantée pour la première fois par Alfred Wegener en 1910. Supprimez la dérive des continents de ces quatre articles et ils s'effondrent comme un tas irrationnel.
@@ -62,6 +83,28 @@ Entre autres choses, ils déclarent : « _L’existence de Dieu ne pourra jamais
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Visible_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'univers visible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

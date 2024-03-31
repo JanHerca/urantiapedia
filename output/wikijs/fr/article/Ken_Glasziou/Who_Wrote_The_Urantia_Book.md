@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="pr-2">Fournir un leadership spirituel urantianite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Divers sceptiques ont avancé les noms d'un certain nombre d'auteurs uniques qui, selon eux, pourraient avoir été responsables de l'écriture du _Livre d'Urantia_. Parmi ces suggestions figurent le Dr W. Sadler, Wilfred Kellogg, Carl Jung, H.G. Wells et Robert Millikin. J'ai d'abord lu le livre en réponse à une demande de donner un avis sur les affirmations de ses auteurs quant à son caractère révélateur. Mon attitude initiale a été très sceptique et ma première réaction a été que ce livre devait avoir été rédigé par un groupe d'universitaires bien intentionnés ayant pour mission de sauver le monde.
@@ -54,3 +75,25 @@ Il n’y a aucune bonne raison pour que ces membres de la famille, ou leurs asso
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="pr-2">Fournir un leadership spirituel urantianite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

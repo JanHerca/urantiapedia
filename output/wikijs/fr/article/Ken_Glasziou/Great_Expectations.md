@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Tolerating_the_Views_of_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la tolérance aux opinions des autres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="pr-2">Au-delà des Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Avoir les Cahiers d'Urantia, les lire, comprendre leur message et croire à leurs vérités révélatrices, impose d'énormes obligations à ceux qui ont la chance (ou la malchance, selon vos opinions) d'en avoir été les destinataires.
@@ -54,3 +78,28 @@ Peu après la publication des fascicules, l'idée s'est développée selon laque
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Tolerating_the_Views_of_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la tolérance aux opinions des autres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="pr-2">Au-delà des Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

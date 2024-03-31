@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Love_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Amour de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="pr-2">Le retournement des tables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Est-il possible que les Cahiers d'Urantia aient été écrits par des êtres humains ? C’est une question naturelle et importante qu’il convient de se poser. Il y a certainement beaucoup de choses dans les Cahiers qui auraient pu être ainsi écrites. Mais cela n’est guère surprenant puisque les révélateurs apparemment célestes reconnaissent qu’ils ont utilisé des sources humaines partout où ils pouvaient trouver une expression adéquate par un être humain concernant un concept qu’ils souhaitaient présenter. (<a id="a13_508"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12), <a id="a13_553"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12)) Mais il existe également des articles, comme beaucoup de ceux de la première partie du livre, qui expriment des idées et des concepts qui sont assez différents des présentations humaines existantes. Il y a une qualité unique, quelque chose d’ésotérique et de surnaturel dans ces Cahiers qui, de la part d’un lecteur critique et averti, peut susciter la réponse : « Aucun homme n’a jamais parlé ainsi ».
@@ -54,3 +78,28 @@ Ce serait sûrement une contradiction logique que l’auteur de ces mots (et des
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Love_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Amour de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="pr-2">Le retournement des tables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

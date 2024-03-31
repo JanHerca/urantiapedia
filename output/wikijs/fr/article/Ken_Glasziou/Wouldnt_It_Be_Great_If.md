@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion personnelle : un signe des temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Esteem">
+          <span class="pr-2">L'estime de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout autour, je vois des gens d’organisations chrétiennes travailler sur le terrain, secourir les nécessiteux, les malheureux, les impuissants, les opprimés – tout comme le préconise le Maître. Il s’agit de personnes provenant d’organisations telles que l’Armée du Salut, Saint-Vincent de Paul, la Popote roulante pour les personnes âgées et les invalides, les soupes populaires pour les plus démunis et une myriade d’autres. Mais je n’ai pas encore vu ou entendu parler d’une quelconque opération similaire spécifiquement attribuable à ceux appartenant au mouvement Urantia. Nul doute qu’ils existent quelque part. Si vous en connaissez un, que diriez-vous de rédiger un CV pour Innerface ?
@@ -29,3 +53,28 @@ Est-il temps pour les enseignements du _Livre d'Urantia_ non seulement de deveni
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion personnelle : un signe des temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Esteem">
+          <span class="pr-2">L'estime de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

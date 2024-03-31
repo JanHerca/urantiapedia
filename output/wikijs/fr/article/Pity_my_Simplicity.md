@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Fascicules d'Urantia sont-ils la parole divine de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Really_Survives">
+          <span class="pr-2">Qu'est-ce qui survit vraiment ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « ...les simples enseignements de l’évangile de Jésus : la filiation avec Dieu, la fraternité des hommes et la citoyenneté toujours ascendante dans l’univers éternel. » (<a id="a13_172"></a>[LU 94:10.3](/fr/The_Urantia_Book/94#p10_3))
@@ -46,3 +70,28 @@ Si nous nous considérons comme un peuple élu, récompensé d’une manière ou
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Fascicules d'Urantia sont-ils la parole divine de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Really_Survives">
+          <span class="pr-2">Qu'est-ce qui survit vraiment ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

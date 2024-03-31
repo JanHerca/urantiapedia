@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/No_Morality_No_Nothing">
+          <span class="pr-2">Pas de moralité, pas de rien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Jésus amenait les hommes à se sentir chez eux dans le monde ; il les délivrait de l’esclavage des tabous et leur enseignait que le monde n’est pas fondamentalement mauvais. Il n’aspirait pas à échapper à sa vie terrestre. Durant sa vie dans la chair, il maitrisa une technique pour faire la volonté de son Père d’une manière qui fut convenable. Il atteignit une vie religieuse idéaliste au milieu d’un monde réaliste. Jésus ne partageait pas le point de vue pessimiste de Paul sur l’humanité. Le Maitre considérait les hommes comme fils de Dieu et prévoyait un avenir éternel et magnifique pour tous ceux qui choisiraient de survivre. Il n’était pas un sceptique moral ; il regardait l’homme positivement et non négativement. Il considérait la plupart des hommes comme faibles plutôt que mauvais, désaxés plutôt que dépravés. Mais quel que fût leur statut, ils étaient tous les enfants de Dieu et ses frères. »
@@ -24,3 +45,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/No_Morality_No_Nothing">
+          <span class="pr-2">Pas de moralité, pas de rien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

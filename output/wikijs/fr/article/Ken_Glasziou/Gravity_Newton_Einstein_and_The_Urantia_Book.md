@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la pensée floue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > L’accroissement de la masse dans la matière est égal à l’accroissement de l’énergie divisé par le carré de la vitesse de la lumière. Dans un sens dynamique, le travail que peut accomplir la matière au repos est égal à l’énergie dépensée pour réunir ses éléments depuis le Paradis, moins la résistance des forces à vaincre pendant le transit et l’attraction exercée par les parties de la matière l’une sur l’autre. (<a id="a13_417"></a>[LU 42:4.11](/fr/The_Urantia_Book/42#p4_11))
@@ -58,3 +79,25 @@ Il est encore tôt et seul le temps nous dira si ces idées seront vérifiées. 
 * https://en.wikipedia.org/wiki/Casimir_effect
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la pensée floue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia s'auto-authentifient</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Prayer">
+          <span class="pr-2">Sur la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’image populaire de Jésus, notre idéal de perfection, est celle d’une personne douce et douce. Il refusait de se défendre physiquement et verbalement, il ne corrigeait jamais l’opinion que les autres avaient de lui-même, il était l’incarnation de l’altruisme. Mais dans ce modèle de douceur, de tolérance et de tolérance, il y avait aussi de la droiture et de l'intolérance à l'hypocrisie, illustrées par son acte extraordinaire le lundi précédant sa crucifixion lorsqu'il débarrassait le temple des commerçants laïcs (un acte qu'il avait juré d'accomplir 20 ans plus tôt). (<a id="a13_576"></a>[LU 125:6.9](/fr/The_Urantia_Book/125#p6_9))
@@ -38,3 +62,28 @@ La parabole d'action du « lavement des pieds » visait à démontrer ce que Jé
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia s'auto-authentifient</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_Prayer">
+          <span class="pr-2">Sur la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

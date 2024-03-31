@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi la « Vie de Jésus du Livre d'Urantia est-elle si importante ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="pr-2">Spontanéité, imprévisibilité et Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les philosophies combinées du matérialisme et du déterminisme ont dominé la pensée du monde occidental pendant de nombreux siècles. En termes simples, le matérialisme prétend que la matière est tout ce qui existe et le déterminisme prétend que toute matière obéit à des relations de cause à effet. Logiquement, il n'y a pas de place pour le libre arbitre ou le but dans une telle philosophie, favorisant ainsi une tendance automatique à l'impiété.
@@ -54,3 +78,28 @@ En effet, nous avons la chance de vivre en ces temps passionnants dans lesquels 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi la « Vie de Jésus du Livre d'Urantia est-elle si importante ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="pr-2">Spontanéité, imprévisibilité et Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

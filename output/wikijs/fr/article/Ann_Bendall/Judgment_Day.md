@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepts de l'Absolu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="pr-2">Scintille, scintille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quel soulagement de découvrir que je ne serai pas présent aux débats qui décideront de ma survie ou non. Avant de lire Le Livre d'Urantia, je croyais qu'une terrible épreuve attendait ma mort, et que la vie au-delà semblait commencer par un processus terrifiant par lequel je serais convoqué devant les juges qui étaient confrontés à trois choix : l'enfer, le purgatoire ou le paradis. Certes, je connaissais déjà la décision, le purgatoire allait définitivement être ma prochaine demeure. Par un simple processus de déduction, malgré mes nombreux péchés, j'avais la plus grande foi en Dieu étant un parent du type tolérant envers les imbéciles et j'étais convaincu qu'Il me donnerait une bonne chance parce que la plupart de mes péchés étaient dus au fait de ne pas découvrir que mes actions entraient dans cette catégorie jusqu'à ce qu'une analyse post hoc soit entreprise. Le paradis était définitivement absent, car je n'avais aucune illusion sur mon statut en termes de perfection et le paradis était l'endroit pour les personnes parfaites qui savaient comment faire des choses parfaites toute la journée, chaque jour.
@@ -59,3 +83,28 @@ Et ainsi, alors que je parcoure par ignorance l'ascension du Paradis, je me pré
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepts de l'Absolu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="pr-2">Scintille, scintille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

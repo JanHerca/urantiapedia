@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Conflict">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Alternatively">
+          <span class="pr-2">Alternativement...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les déclarations ci-dessous tirées du _Livre d'Urantia_ ont donné lieu à une vaste explosion de déclarations controversées. Lorsque, longtemps après, la poussière est retombée, la plupart ont soit accepté de l'oublier, soit se sont contentés de les reléguer dans le panier trop dur.
@@ -58,3 +82,28 @@ Il ne semble y avoir aucune raison essentielle d'assimiler une unité de contrô
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Conflict">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Alternatively">
+          <span class="pr-2">Alternativement...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

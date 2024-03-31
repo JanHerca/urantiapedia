@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Sydney Harris<br>© 1996 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Christmas_Message_to_all_Urantia_Book_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un message de Noël de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="pr-2">Être moralement parfumé</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’une des riches ironies du mouvement dit « fondamentaliste » est que, même s’il prêche le Christ, il oublie Jésus.
@@ -43,3 +67,28 @@ Quoi que prétende être le fondamentaliste moderne, au nom du Christ, il prend 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Christmas_Message_to_all_Urantia_Book_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un message de Noël de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="pr-2">Être moralement parfumé</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

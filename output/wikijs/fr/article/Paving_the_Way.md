@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Virtues_of_Uncertainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les vertus de l'incertitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Truth_and_the_Spirit_of_Truth">
+          <span class="pr-2">La Vérité et l'Esprit de Vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Le plan de survie des mortels a un but pratique et utile. Si vous êtes les récipiendaires de tout ce travail divin et de cet entrainement soigné, ce n’est pas simplement en vue de survivre pour jouir d’une félicité perpétuelle et d’un bienêtre éternel. Il y a un but de service transcendant caché au-delà de l’horizon du présent âge de l’univers. Si les Dieux avaient simplement projeté de vous emmener dans une longue excursion de joie éternelle, ils n’auraient certainement pas transformé l’univers entier en une seule immense et complexe école d’éducation pratique, ... » (<a id="a13_580"></a>[LU 48:8.3](/fr/The_Urantia_Book/48#p8_3))
@@ -59,3 +83,28 @@ Avec du dévouement et des efforts, de nombreuses personnes pourraient être sen
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Virtues_of_Uncertainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les vertus de l'incertitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Truth_and_the_Spirit_of_Truth">
+          <span class="pr-2">La Vérité et l'Esprit de Vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

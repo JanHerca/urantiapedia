@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/God_on_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu – faire la volonté de Dieu – Comment ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Love_Meanings_and_Values_Miracles_Morality">
+          <span class="pr-2">Amour, Significations et Valeurs, Miracles, Moralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Vivre comme Jésus a vécu : la tâche de Jésus
@@ -61,3 +85,28 @@ Jésus était venu « **pour établir et démontrer une norme de vie humaine pou
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/God_on_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu – faire la volonté de Dieu – Comment ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Love_Meanings_and_Values_Miracles_Morality">
+          <span class="pr-2">Amour, Significations et Valeurs, Miracles, Moralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

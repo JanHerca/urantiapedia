@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Esteem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'estime de soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Am_I">
+          <span class="pr-2">Qu'est-ce que je suis ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À l'époque de Jésus, le **Shema** était récité deux fois par jour par les Juifs fidèles. « Écoute, Israël, le Seigneur notre Dieu est un seul Seigneur, et tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toute ta force. » Ce fut le premier grand commandement mentionné dans les évangiles. La Quatrième Révélation d’Époque a amélioré sa signification en raison de sa révélation de la vraie nature de Dieu à travers et dans la vie de Jésus. Pour les Juifs, le deuxième grand commandement était d’aimer son prochain comme soi-même. La révélation de la Quatrième Époque a fait un bond en avant dans sa signification en l’élevant d’un niveau matériel à un niveau spirituel. Il nous dit que nous devons nous aimer les uns les autres comme Jésus nous a aimés.
@@ -51,3 +75,28 @@ L’essence de l’instruction de la Cinquième Révélation d’Époque sur le 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Esteem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'estime de soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Am_I">
+          <span class="pr-2">Qu'est-ce que je suis ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

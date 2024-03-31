@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quarante-huit chromosomes ? Ou des conclusions hâtives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il existe une interprétation alternative et tout à fait différente de la polémique des 48 chromosomes. Dans le cas présent, nous acceptons simplement que les auteurs ont suivi leur mandat à la lettre. Par conséquent, même s’ils auraient dû savoir que deux de nos chromosomes avaient fusionné pour porter le nombre à 46, ils se sont conformés à la règle selon laquelle ils n’étaient pas autorisés à nous donner des connaissances non acquises (sauf dans des circonstances particulières), et ils sont donc restés avec le puis décompte actuel de 48.
@@ -42,6 +63,28 @@ Ce n’est vraiment pas si difficile une fois que nous avons débarrassé notre 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quarante-huit chromosomes ? Ou des conclusions hâtives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

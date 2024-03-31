@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T00:53:24.466Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">48 chromosomes ? Ou des conclusions hâtives !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/How_far_to_Andromeda">
+          <span class="pr-2">Jusqu'où va Andromède</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -45,6 +69,31 @@ Ainsi, même si, techniquement parlant, la déclaration des auteurs peut être d
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_4/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">48 chromosomes ? Ou des conclusions hâtives !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/How_far_to_Andromeda">
+          <span class="pr-2">Jusqu'où va Andromède</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

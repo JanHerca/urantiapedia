@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:03:19.267Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’esprit-père qui habite en nous</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="pr-2">Faire la volonté de Dieu : comment ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’esprit représente tout ce que nous possédons de la réalité universelle qui est soumise à notre volonté – et notre âme reproduit et représente fidèlement la récolte des décisions temporelles prises par le moi mortel. Mais ce n’est pas tant ce que l’esprit comprend que ce que l’esprit désire comprendre qui assure la croissance de l’âme ; ce n'est pas tant à quoi ressemble l'esprit que ce à quoi l'esprit s'efforce d'être qui constitue l'identification spirituelle. Et ce n’est pas tant que nous sommes conscients de Dieu, mais plutôt que nous aspirons à Dieu, ce qui entraîne l’ascension de l’univers. Ce que nous sommes aujourd’hui n’est pas aussi important que ce que nous devenons de jour en jour et dans l’éternité.
@@ -66,3 +90,28 @@ Si nous interprétons la vie et les paroles de Jésus comme la base d’un ensem
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’esprit-père qui habite en nous</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="pr-2">Faire la volonté de Dieu : comment ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

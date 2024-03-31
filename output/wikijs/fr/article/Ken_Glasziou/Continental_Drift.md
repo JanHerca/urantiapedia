@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qui alimente notre Soleil et les autres étoiles ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_If">
+          <span class="pr-2">Et si ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En détaillant leur récit de la vie et de l'évolution des terres sur notre planète dans les Cahiers d'Urantia [57](/fr/The_Urantia_Book/57), [58](/fr/The_Urantia_Book/58), [59](/fr/The_Urantia_Book/59) et [60](/fr/The_Urantia_Book/60) , les auteurs ont adopté sans réserve le concept de dérive des continents, une idée vantée pour la première fois par Alfred Wegener en 1910. Enlevez la dérive des continents de ces quatre articles et ils s’effondrent comme un tas quelque peu désordonné.
@@ -40,6 +64,31 @@ Une chance chanceuse semble être la seule alternative. Mais les chances de ne p
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol5_7/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qui alimente notre Soleil et les autres étoiles ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_If">
+          <span class="pr-2">Et si ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

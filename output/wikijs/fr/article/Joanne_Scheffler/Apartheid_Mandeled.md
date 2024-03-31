@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Joanne Scheffler<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Parliament_of_The_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Parlement des religions du monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="pr-2">L'adversité et la valeur spirituelle de la déception</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Un miracle s’est produit ; Un homme bon; » Ce sont les mots que j’ai lus en lisant le journal après l’élection de Nelson Mandela à la présidence de l’Afrique du Sud.
@@ -51,6 +75,31 @@ Merci, Nelson Mandela, de nous avoir montré, une fois de plus, ce qui peut êtr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Parliament_of_The_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Parlement des religions du monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="pr-2">L'adversité et la valeur spirituelle de la déception</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

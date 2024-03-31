@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Fatherly_and_Brotherly_Love">
+          <span class="pr-2">Amour paternel et fraternel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > et voici comment il les instruisit. Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. (<a id="a13_417"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
@@ -46,3 +67,25 @@ Et il incombe aux disciples du Maître de tous âges d’apprendre à exercer le
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Fatherly_and_Brotherly_Love">
+          <span class="pr-2">Amour paternel et fraternel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

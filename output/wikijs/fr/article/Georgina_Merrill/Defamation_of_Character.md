@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Georgina Merrill<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stefan_Tallqvist/Ancient_Cyprus_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chypre antique et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="pr-2">Pourquoi Jésus est-il venu sur Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il n'y a pas longtemps, j'étais présent sur Salvington (un messager solitaire) et j'ai entendu une gardienne du destin présenter une déclaration formelle pour atténuer les difficultés liées au ministère auprès de son sujet mortel. Ce séraphin dit :
@@ -44,3 +68,28 @@ Puis une autre pensée m'est venue même si j'étais encore en larmes, j'avais t
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stefan_Tallqvist/Ancient_Cyprus_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chypre antique et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="pr-2">Pourquoi Jésus est-il venu sur Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

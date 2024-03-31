@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaïda-Julias et Bethsaïda de Galilée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -76,6 +97,28 @@ Extrait de « Étoiles et atomes » de Sir Arthur Eddington :
 * _«Étoiles et atomes»_, p. 66, Sir Arthur Eddington, Yale University Press, New Haven ; Presse universitaire d'Oxford, Londres. https://archive.org/details/in.ernet.dli.2015.173636
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaïda-Julias et Bethsaïda de Galilée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

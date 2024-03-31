@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/How_Christian_is_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À quel point le Livre d'Urantia est-il chrétien ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="pr-2">Aucun homme n'a jamais parlé ainsi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans la mesure où il s’agit d’une révélation, il existe un certain nombre d’opinions alternatives possibles qui peuvent même se superposer :
@@ -72,3 +96,28 @@ Mais Jésus nous a dit que la religion de l’esprit n’exige pas l’uniformit
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/How_Christian_is_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À quel point le Livre d'Urantia est-il chrétien ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="pr-2">Aucun homme n'a jamais parlé ainsi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

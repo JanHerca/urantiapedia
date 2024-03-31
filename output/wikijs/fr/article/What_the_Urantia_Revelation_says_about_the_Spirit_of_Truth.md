@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:12:27.885Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus avait-il vraiment besoin d'être crucifié ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="pr-2">Le rôle relatif des miracles, de la résurrection et du pardon des péchés dans la propagation rapide du christianisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Quand le Fils de l’Homme aura achevé son œuvre sur terre, l’Esprit de Vérité vivant sera répandu sur **toute chair**. Ceux qui recevront cet esprit ne connaitront jamais la soif spirituelle. » (<a id="a13_196"></a>[LU 162:6.1](/fr/The_Urantia_Book/162#p6_1))
@@ -109,3 +133,28 @@ Cependant, prenez garde à ne pas commettre l’erreur d’espérer devenir inte
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus avait-il vraiment besoin d'être crucifié ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="pr-2">Le rôle relatif des miracles, de la résurrection et du pardon des péchés dans la propagation rapide du christianisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

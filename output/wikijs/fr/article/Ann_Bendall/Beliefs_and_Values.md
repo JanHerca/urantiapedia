@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Swann, Gardner et le Livre d'Urantia – Protons et électrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="pr-2">Un Dieu des Fondamentaux qui est une Lumière, pas un Cil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Le processus consistant à s'efforcer de donner un sens à un monde d'expériences potentiellement accablant implique l'intériorisation de pensées et de sentiments sur ce qui est bien ou mal, normal ou anormal, bon ou mauvais, et ainsi de suite. Ce sont les jugements de valeur qui servent à définir les limites de l'expérience._ » (_When Living Hurts_, Michael Yappo, 1994) Et c'est le système de valeurs d'une personne, plus que tout autre facteur, qui est le plus grand déterminant de ce que l'on est. et n'est pas capable de le faire.
@@ -56,3 +80,28 @@ Pouvons-nous nous débarrasser des fausses valeurs ? « Et quand Jésus entendit
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Swann, Gardner et le Livre d'Urantia – Protons et électrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="pr-2">Un Dieu des Fondamentaux qui est une Lumière, pas un Cil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

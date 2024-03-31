@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T23:14:44.883Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Reliability_of_New_Testament_Sources">
+          <span class="pr-2">Fiabilité des sources du Nouveau Testament</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Extrait de « *The Essential Jesus* » 2002, (Ed. B.W. Ball et W.G. Johnson) (Pacific Press, Idaho)
@@ -79,3 +100,25 @@ Ainsi, à partir de sources juives et païennes, il existe suffisamment de réf�
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Reliability_of_New_Testament_Sources">
+          <span class="pr-2">Fiabilité des sources du Nouveau Testament</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

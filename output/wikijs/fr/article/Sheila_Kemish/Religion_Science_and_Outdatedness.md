@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Sheila Kemish<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les messages cachés dans le Livre d'Urantia — L'Art</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="pr-2">À l'écoute de vos rêves</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Rapporté dans un magazine paroissial par Mme Sheila Kemish (épouse d'un ministre ordonné)
@@ -76,3 +100,28 @@ Tout ce qui est en dehors du credo minimal peut être personnel. Une solution de
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les messages cachés dans le Livre d'Urantia — L'Art</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="pr-2">À l'écoute de vos rêves</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

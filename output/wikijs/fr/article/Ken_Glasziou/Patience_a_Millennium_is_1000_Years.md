@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Pragmatism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le pragmatisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="pr-2">Faisons et gardons les choses simples</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s’imposent si l’on veut éviter un désastre culturel. ***Ce nouvel ordre social qui approche ne s’installera pas paisiblement pour un millénaire***. Il faut que la race humaine s’adapte à une série de modifications, d’ajustements et de rajustements. L’humanité est en marche vers une nouvelle destinée planétaire non révélée._ » (<a id="a13_497"></a>[Paper 99, Section 1](/fr/The_Urantia_Book/99#p1_1))
@@ -76,3 +100,28 @@ Nous avons tout un millénaire pour travailler. Une approche progressive semble 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Pragmatism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le pragmatisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="pr-2">Faisons et gardons les choses simples</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

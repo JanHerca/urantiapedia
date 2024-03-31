@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:25:13.138Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Historical_Jesus_Who_was_He">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Jésus historique : qui était-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Effects_of_the_Gospel_Records">
+          <span class="pr-2">Les effets des récits évangéliques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De toute évidence, les sources d’informations les plus importantes sur Jésus se trouvent dans le Nouveau Testament. Les Évangiles sont évidemment des documents de foi rédigés d’un point de vue chrétien. Mais s’agit-il de documents historiques fiables ?
@@ -81,3 +105,28 @@ Des symboles chrétiens et des prières adressées à Jésus ont été découver
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Historical_Jesus_Who_was_He">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Jésus historique : qui était-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Effects_of_the_Gospel_Records">
+          <span class="pr-2">Les effets des récits évangéliques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

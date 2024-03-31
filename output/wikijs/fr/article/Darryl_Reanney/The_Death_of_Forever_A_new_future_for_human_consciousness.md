@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Darryl Reanney<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prophétie auto-réalisatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Little_Things_Mean_a_Lot">
+          <span class="pr-2">De petites choses comptent beaucoup : les neutrinos ont-ils une masse ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans cet ouvrage, l'auteur utilise un modèle du biologiste Paul McLean, qui traite le cerveau humain comme une structure composite composée d'éléments imbriqués à trois couches, chacun avec son propre logiciel et ses propres canaux d'entrée et de sortie. La couche la plus ancienne est le cerveau reptilien. Au-dessus se trouve le paléocortex ou système limbique (paléomammien), et au-dessus le néocortex (néomammien).[paléo, ancien; néo, nouveau]
@@ -81,3 +105,28 @@ Nous devrions apprendre à aborder la mort avec gratitude, en la considérant po
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prophétie auto-réalisatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Little_Things_Mean_a_Lot">
+          <span class="pr-2">De petites choses comptent beaucoup : les neutrinos ont-ils une masse ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

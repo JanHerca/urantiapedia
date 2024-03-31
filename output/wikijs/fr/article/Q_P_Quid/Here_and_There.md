@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Q. P. Quid<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le scandale de la cosmologie spirituelle actuelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_and_Archaeology_in_The_Urantia_Book">
+          <span class="pr-2">La science et l'archéologie dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il était une fois, dans une ville de taille moyenne, un homme doté de nombreux dons, dont une présence imposante, un talent oratoire et une personnalité charismatique tempérée par une touche d'égoïsme non négligeable. Après avoir donné sa vie à Dieu lors d'une croisade de renouveau passionnante et inspirante, cet homme a consacré ses nombreux talents au Tout-Puissant et a commencé à les utiliser pour collecter les fonds nécessaires à la construction d'un temple merveilleusement spacieux et sublimement décoré, aussi près que possible du cœur même de sa ville où tous pouvaient venir entendre son discours et se joindre au culte du Tout-Puissant avec des chants de louange retentissants et inspirants.
@@ -40,3 +64,28 @@ Tout cela se déroulait simultanément avec le brouhaha continu qui se déroulai
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le scandale de la cosmologie spirituelle actuelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_and_Archaeology_in_The_Urantia_Book">
+          <span class="pr-2">La science et l'archéologie dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

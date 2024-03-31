@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fascicule 140. L'ordination : est-ce important ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spirit_Unity">
+          <span class="pr-2">Unité spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Jésus reprit alors la parole et dit : « Maintenant que vous êtes ambassadeurs du royaume de mon Père, vous êtes devenus une classe d’hommes séparés et distincts de tous les autres habitants de la terre. Vous n’existez plus maintenant en tant qu’hommes parmi les hommes, mais en tant que citoyens éclairés d’un autre pays céleste parmi les créatures ignorantes de ce monde enténébré. Il ne suffit plus que vous viviez comme avant cette heure ; il vous faut, désormais, vivre comme ceux qui ont gouté les gloires d’une vie meilleure et ont été renvoyés sur terre comme ambassadeurs du Souverain de ce monde nouveau et meilleur. 
@@ -66,3 +90,28 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fascicule 140. L'ordination : est-ce important ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spirit_Unity">
+          <span class="pr-2">Unité spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ces documents confirment que le but de la vie de Jésus sur notre planète comprenait la révélation de Dieu à l'homme et de l'homme à Dieu, et que sa vie était de montrer « les possibilités transcendantes accessibles à un humain qui connait Dieu, pendant la brève carrière d’une existence mortelle. » (<a id="a12_300"></a>[LU 120:2.8](/fr/The_Urantia_Book/120#p2_8))
 
@@ -608,3 +626,22 @@ Le Père est amour vivant et cette vie du Père est en son Fils. Et l'Esprit du 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

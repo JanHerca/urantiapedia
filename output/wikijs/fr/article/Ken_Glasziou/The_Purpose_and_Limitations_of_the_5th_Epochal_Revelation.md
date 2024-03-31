@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Le Livre d'Urantia. Pourquoi certaines personnes l'éteignent-elles et d'autres l'adorent ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="pr-2">Sur le statut révélateur du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En arrivant sur Urantia pour la **3ème Révélation d'Époque**, son pourvoyeur annonça : « _Je suis Melchisédech, prêtre d'El Elyon, le Très-Haut, le seul et unique Dieu._ » Son mandat — **pour garder vivante la vérité du Dieu Unique et préparer le chemin pour l'effusion de Michel**. (<a id="a13_284"></a>[LU 93:3.8](/fr/The_Urantia_Book/93#p3_8))
@@ -65,3 +89,28 @@ Depuis que le _Livre d'Urantia_ a été rendu public au grand public, il y a peu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Le Livre d'Urantia. Pourquoi certaines personnes l'éteignent-elles et d'autres l'adorent ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="pr-2">Sur le statut révélateur du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

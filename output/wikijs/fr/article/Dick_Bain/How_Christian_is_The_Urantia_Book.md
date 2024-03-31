@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:33:58.935Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Dick Bain<br>© 1996 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les clés du Royaume</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="pr-2">Le Livre d'Urantia. Qu'est-ce que c'est et pourquoi est-il ainsi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un jour, lorsque les érudits étudieront les influences religieuses des vingtième et vingt et unième siècles, je suis sûr que le _Livre d'Urantia_ sera l'une de ces influences étudiées. Et inévitablement, la théologie du livre sera comparée à la pensée et à la théologie chrétiennes. Quelle relation au christianisme ces futurs chercheurs détermineront-ils de leur point de vue ? Auront-ils le sentiment que le livre n’est qu’un autre rejeton des marges du christianisme, ou le verront-ils comme une œuvre véritablement nouvelle ? D’ailleurs, lorsque nous présentons le livre aux chrétiens aujourd’hui, comment perçoivent-ils ce livre ?
@@ -68,3 +92,28 @@ Il me semble que _Le Livre d'Urantia_ contient suffisamment de nouveaux élémen
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les clés du Royaume</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="pr-2">Le Livre d'Urantia. Qu'est-ce que c'est et pourquoi est-il ainsi ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

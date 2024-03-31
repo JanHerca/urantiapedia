@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia. La tâche peu enviable des révélateurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Books_Message_has_Failed_or_has_it">
+          <span class="pr-2">Le message du Livre d'Urantia a échoué – ou l'a-t-il fait ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Priver sciemment les générations futures de la chance de connaître un Dieu d’amour qui est à la fois notre Père céleste et le Dieu-Père de Jésus de Nazareth, serait-ce un crime contre l’humanité ?
@@ -94,3 +118,28 @@ Si nous parvenions à convaincre les chrétiens d’avoir les documents sur leur
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia. La tâche peu enviable des révélateurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Books_Message_has_Failed_or_has_it">
+          <span class="pr-2">Le message du Livre d'Urantia a échoué – ou l'a-t-il fait ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

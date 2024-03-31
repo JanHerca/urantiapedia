@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boire la coupe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Human_Sources_of_The_Urantia_Book">
+          <span class="pr-2">Sources humaines du Livre d'Urantia. Le Mésotron évanescent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ (<a id="a13_22"></a>[LU 169:4.3-13](/fr/The_Urantia_Book/169#p4_3)).
@@ -93,3 +117,28 @@ Nous sommes bénis par ce don. Son efficacité est entre nos mains.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boire la coupe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Human_Sources_of_The_Urantia_Book">
+          <span class="pr-2">Sources humaines du Livre d'Urantia. Le Mésotron évanescent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu jouant au Jabay</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Shroud_of_Turin">
+          <span class="pr-2">Le Suaire de Turin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour un Juif vivant en Palestine il y a deux mille ans, qui auraient été les « grands hommes de la terre » ?
@@ -94,3 +118,28 @@ Le cœur de notre révélation se trouve dans cette dernière phrase : nous meno
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu jouant au Jabay</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Shroud_of_Turin">
+          <span class="pr-2">Le Suaire de Turin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

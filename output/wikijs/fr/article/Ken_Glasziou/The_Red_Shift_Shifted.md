@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions cosmiques. Oups !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Bien que vos estimations spectroscopiques des vitesses astronomiques soient assez fiables lorsqu’elles s’appliquent aux royaumes stellaires appartenant à votre superunivers et aux superunivers associés, vos calculs ne sont pas du tout fiables lorsqu’ils se réfèrent aux domaines de l’espace extérieur. Les lignes du spectre s’écartent de la normale vers le violet pour une étoile qui s’approche et vers le rouge pour une étoile qui s’éloigne. De nombreuses influences s’interposent pour faire apparaitre que la vitesse de récession des univers extérieurs augmente à raison de plus de cent-soixante kilomètres par seconde pour chaque million d’années-lumière s’ajoutant à sa distance. Cette méthode de calcul subséquente au perfectionnement de télescopes plus puissants fera apparaitre ces systèmes stellaires lointains comme fuyant votre secteur de l’univers à la vitesse incroyable de plus de cinquante-mille kilomètres à la seconde. Mais cette vitesse apparente de récession n’est pas réelle ; elle résulte de nombreux facteurs erronés incluant des angles d’observation et d’autres distorsions de l’espace-temps._ » (<a id="a13_1124"></a>[LU 12:4.14](/fr/The_Urantia_Book/12#p4_14))
@@ -73,3 +94,25 @@ Il est intéressant de noter que les auteurs de l'Étude d'Urantia ont pris, pou
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions cosmiques. Oups !!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

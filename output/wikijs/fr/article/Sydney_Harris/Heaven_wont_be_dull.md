@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Considérer les autres comme des bienfaiteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Evolution_of_the_Solar_System">
+          <span class="pr-2">Évolution du système solaire : le rôle du chaos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’une des convictions profondes des gens qui ne croient pas au Ciel est que si un Ciel existe, il est occupé par des gens ennuyeux. « Tous mes amis intéressants », disent ces sceptiques en souriant, « seront à l'autre endroit ».
@@ -43,3 +67,28 @@ Il convient de rappeler qu’un seul être humain a reçu l’assurance personne
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Considérer les autres comme des bienfaiteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Evolution_of_the_Solar_System">
+          <span class="pr-2">Évolution du système solaire : le rôle du chaos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

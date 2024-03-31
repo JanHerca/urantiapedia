@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/I_Want_to_be_Aggressive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Je veux être agressif !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Le groupe d'étude de Sunshine Coast, Qld., Australie**
@@ -76,6 +97,28 @@ Une partie de la tâche à accomplir doit être effectuée sans référence dire
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/I_Want_to_be_Aggressive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Je veux être agressif !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

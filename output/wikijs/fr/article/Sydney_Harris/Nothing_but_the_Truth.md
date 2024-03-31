@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Quest_What_is_life_about">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Quête. De quoi parle la vie ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Conflict">
+          <span class="pr-2">Conflit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quand un mensonge n’est-il pas un mensonge ? En quoi consiste dire la vérité ? Ces questions simples n’ont pas de réponses simples. C’est pourquoi les parents et les enseignants ont tant de mal à expliquer les mensonges et la vérité aux enfants.
@@ -41,3 +65,28 @@ Les absolutistes comme les relativistes sont malhonnêtes en cela : les absoluti
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Quest_What_is_life_about">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Quête. De quoi parle la vie ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Conflict">
+          <span class="pr-2">Conflit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

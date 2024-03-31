@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T16:50:33.688Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la valeur de la valeur spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="pr-2">Hors d'Afrique ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce discours (<a id="a13_13"></a>[LU 133:5.4](/fr/The_Urantia_Book/133#p5_4)) a eu lieu entre Jésus et un philosophe grec, apparemment vers 20 après JC. Couplé à la connaissance de notre demeure personnelle par l'esprit du Père, il décrit tout ce qui est nécessaire pour comprendre le but de notre vie humaine. existence.
@@ -99,3 +123,28 @@ En résumé:
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la valeur de la valeur spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="pr-2">Hors d'Afrique ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

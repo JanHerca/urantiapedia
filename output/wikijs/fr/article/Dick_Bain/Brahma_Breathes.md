@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Dick Bain<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans la théologie hindoue, lorsque Brahma expire, l’univers apparaît ; quand il inspire, l'univers disparaît. Le Livre d'Urantia a un concept similaire appelé respiration spatiale. Les auteurs donnent une image verbale de ce phénomène, mais il y a beaucoup de choses qui ne nous sont pas racontées. Quels détails supplémentaires pouvons-nous déduire des informations contenues dans le livre ?
@@ -85,6 +106,28 @@ La spéculation ne fournira pas nécessairement de réponses correctes, mais ell
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_1/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

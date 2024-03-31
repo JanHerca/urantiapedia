@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spontanéité, imprévisibilité et Le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Creative_Imagination">
+          <span class="pr-2">Imagination créatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’un des moments les plus merveilleux de l’enfance est la période de « l’ami imaginaire », qui semble se développer vers l’âge de trois ou quatre ans. Si l'enfant est honoré de pouvoir voir son monde, on découvre que le ou les amis imaginaires ont des noms et des personnalités et sont bien connus de l'enfant. Le rôle de ces amis semble osciller entre celui de conseiller avisé et celui d’objet d’une conscience morale en développement. Par conséquent, l’ami est un sage sage ou un enfant méchant, le personnage prenant conseil ou réprimandant « l’ami » pour ses transgressions.
@@ -32,3 +56,28 @@ La capacité de vivre comme en présence de Dieu passe par « l’alter ego ». 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spontanéité, imprévisibilité et Le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Creative_Imagination">
+          <span class="pr-2">Imagination créatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

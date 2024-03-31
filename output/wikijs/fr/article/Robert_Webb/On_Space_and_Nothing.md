@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Robert Webb<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sandy_Garrick/Divine_Music">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Musique Divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="pr-2">La réprimande adressée à un ami pour défendre un autre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La substance littérale du Paradis est une organisation homogène de puissance spatiale que l’on ne trouve nulle part ailleurs dans le vaste Univers des Univers. (<a id="a13_161"></a>[LU 11:2.9](/fr/The_Urantia_Book/11#p2_9)) La puissance spatiale est une pré-réalité ; c'est le domaine de l'Absolu Non Qualifié. (<a id="a13_292"></a>[LU 42:2.3](/fr/The_Urantia_Book/42#p2_3)) Dans Nébadon, la puissance spatiale est décrite comme _absolutum_, un matériau source du Paradis ni vivant ni mort (<a id="a13_451"></a>[LU 11:2.9](/fr/The_Urantia_Book/11#p2_9))
@@ -30,3 +54,28 @@ Pouvons-nous dire que l’espace dans l’Univers est la base de toute réalité
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sandy_Garrick/Divine_Music">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Musique Divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="pr-2">La réprimande adressée à un ami pour défendre un autre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

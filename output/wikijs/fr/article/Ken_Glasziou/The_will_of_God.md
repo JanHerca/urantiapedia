@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur « Notre défi »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s’en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu. Si un homme effectue ce choix, il *est* grand, même s’il n’est que le plus humble citoyen de Jérusem ou même le plus insignifiant mortel d’Urantia. (<a id="a13_588"></a>[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
@@ -56,3 +77,25 @@ dateCreated: 2022-09-26T19:14:54.696Z
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol11_6/page16.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur « Notre défi »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

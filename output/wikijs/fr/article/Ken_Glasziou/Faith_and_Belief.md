@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:50:10.195Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la philosophie de la philosophie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="pr-2">Religion spirituelle universelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La croyance a atteint le niveau de la foi lorsqu'elle motive la vie et façonne le mode de vie. L’acceptation d’un enseignement comme vrai n’est pas la foi ; c'est une simple croyance. Ni la certitude ni la conviction ne le sont non plus. Un état d’esprit n’atteint le niveau de foi que lorsqu’il domine réellement le mode de vie. La foi est un attribut vivant d’une véritable expérience religieuse personnelle. On croit à la vérité, on admire la beauté et on révère la bonté, mais on ne les adore pas ; une telle attitude de foi salvatrice est centrée sur Dieu seul, qui est tout cela personnifié et infiniment plus.
@@ -36,3 +60,28 @@ S’ensuit un « **assaut combiné** ». (voir p. 2)
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la philosophie de la philosophie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="pr-2">Religion spirituelle universelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

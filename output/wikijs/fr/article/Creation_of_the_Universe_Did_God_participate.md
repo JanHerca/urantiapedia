@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:57:00.996Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les univers et la vie peuvent-ils s'auto-générer à partir du néant ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Communing_with_God_from_the_Urantia_Revelation">
+          <span class="pr-2">Communier avec Dieu – de la Révélation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les curiosités de la théorie quantique (voir Innerface vol. 11, n° 5) poussent nombre de nos physiciens dans une hésitation non matérialiste. En cherchant à donner un sens à leurs propres résultats expérimentaux tout à fait extraordinaires et tout à fait brillants, ils ont proposé des explications apparemment scandaleuses.
@@ -89,6 +113,31 @@ Nous, les humains terriens, attribuons depuis longtemps à Dieu tous ces phénom
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les univers et la vie peuvent-ils s'auto-générer à partir du néant ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Communing_with_God_from_the_Urantia_Revelation">
+          <span class="pr-2">Communier avec Dieu – de la Révélation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

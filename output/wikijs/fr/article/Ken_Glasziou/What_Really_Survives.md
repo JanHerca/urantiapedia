@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pity_my_Simplicity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Pitié pour ma simplicité »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La plupart des nouveaux lecteurs des Cahiers d'Urantia éprouvent un sentiment d'exultation et de soulagement lorsqu'ils apprennent que même les Urantiens en qui scintille encore la moindre lueur de foi recevront la chance d'aller dans les mondes des maisons après la mort mortelle. Nous pouvons même avoir l’impression que, à l’exception d’un corps nouveau et meilleur et d’un esprit nouveau et meilleur, nous commençons plus ou moins le premier monde des maisons exactement là où nous nous sommes arrêtés ici sur Urantia. Mais qu’est-ce qui survit réellement de notre vie sur Urantia ?
@@ -117,3 +138,25 @@ Il existe deux approches pour comprendre ce qu’est le spirituel. Puisque Dieu 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pity_my_Simplicity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Pitié pour ma simplicité »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

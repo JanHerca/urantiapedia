@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/At_Caesarea_Philippi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À Césarée-Phillipi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Problem_Solving">
+          <span class="pr-2">Résolution de problèmes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis qu'Euclide a eu l'idée d'un ensemble d'axiomes par lesquels il pourrait prouver les vérités de sa géométrie, les premiers philosophes, suivis par le reste d'entre nous, ont cherché un moyen d'appliquer une forme de système axiomatique par lequel, en combinaison avec la logique déductive, des hypothèses dans d'autres domaines de la connaissance pourraient être absolument prouvées. Si cela était possible, l’espoir était que, uniquement grâce à notre propre pouvoir de raisonnement, nous, simples humains, serions capables de générer toutes les vérités possibles.
@@ -69,3 +93,28 @@ La première phrase de la déclaration du Cahier d’Urantia a la marque d’avo
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/At_Caesarea_Philippi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À Césarée-Phillipi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Problem_Solving">
+          <span class="pr-2">Résolution de problèmes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

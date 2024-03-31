@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Red_Alert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alerte rouge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Rodan_on_Prejudice_and_Goals">
+          <span class="pr-2">Rodan sur les préjugés et les objectifs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De nombreux lecteurs qui connaissaient John Hyde personnellement ou par correspondance et par courrier électronique auront été déconcertés et consternés par la nouvelle de sa mort. Mais ceux qui étaient conscients des nombreux « démons » qui ont hanté John au cours de sa vie antérieure présumeront peut-être que ces démons ont pris le dessus sur lui au moment où il a été pris au dépourvu.
@@ -59,3 +83,28 @@ Peut-être que Rodan avait une réponse.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Red_Alert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alerte rouge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Rodan_on_Prejudice_and_Goals">
+          <span class="pr-2">Rodan sur les préjugés et les objectifs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

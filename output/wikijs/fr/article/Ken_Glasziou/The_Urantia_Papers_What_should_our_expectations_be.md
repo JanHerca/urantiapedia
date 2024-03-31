@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:14:41.807Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prophetic_material_and_errors_in_Urantia_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matériel prophétique et erreurs dans la révélation sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_there_both_Error_and_Prophecy_in_Urantia">
+          <span class="pr-2">Pourquoi y a-t-il à la fois erreur et prophétie dans la révélation d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Résumé
@@ -44,3 +68,28 @@ En cherchant à éviter ce même sort, les auteurs se sont donné beaucoup de ma
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Prophetic_material_and_errors_in_Urantia_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matériel prophétique et erreurs dans la révélation sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Why_is_there_both_Error_and_Prophecy_in_Urantia">
+          <span class="pr-2">Pourquoi y a-t-il à la fois erreur et prophétie dans la révélation d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

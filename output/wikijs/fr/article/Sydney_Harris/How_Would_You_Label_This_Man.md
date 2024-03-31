@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Sydney Harris<br>© 1999 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia sur l'amour de notre prochain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="pr-2">Le souper du Souvenir : sa signification</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le recenseur de Rome fut envoyé en Galilée vers l’an 28 après J.-C. En entrant dans la région, il rencontra un homme assis sur un âne. L'homme avait les cheveux longs et une barbe flottante ; il portait un vieux manteau en lambeaux, des sandales et des perles.
@@ -65,3 +89,28 @@ Le barbu sourit tristement. « Certains m'appellent le Fils de l'homme. » Tous 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Cahiers d'Urantia sur l'amour de notre prochain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="pr-2">Le souper du Souvenir : sa signification</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

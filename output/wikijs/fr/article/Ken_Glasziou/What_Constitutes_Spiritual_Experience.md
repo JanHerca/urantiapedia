@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La magie du placebo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Paradigms_for_a_New_Religion">
+          <span class="pr-2">Paradigmes pour une nouvelle religion. L'unitarisme : une leçon de tolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « ... l’expérience spirituelle (la réalisation de Dieu) exige que l’homme le trouve et s’efforce sincèrement d’être semblable à lui. » (<a id="a13_138"></a>[LU 5:5.1](/fr/The_Urantia_Book/5#p5_1))
@@ -58,3 +82,28 @@ Peut-être aussi, c'est chaque fois qu'une expérience du monde produit un « me
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La magie du placebo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Paradigms_for_a_New_Religion">
+          <span class="pr-2">Paradigmes pour une nouvelle religion. L'unitarisme : une leçon de tolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

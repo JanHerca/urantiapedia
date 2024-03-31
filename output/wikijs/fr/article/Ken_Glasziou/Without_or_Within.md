@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De quoi sont faits les rêves ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Black_Holes_Re_visited">
+          <span class="pr-2">Les trous noirs revisités</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ayant fréquenté régulièrement l'Église anglicane (épiscopalienne) pendant plus de soixante ans, cela a été un peu un choc pour mon système lorsque je me suis brouillé avec le pasteur local à propos de lui, qualifiant les aviateurs du Bomber Command pendant la Seconde Guerre mondiale de criminels de guerre. Alors que 75 % des aviateurs australiens qui ont servi en Grande-Bretagne dans le Bomber Command ont été tués pour garantir à notre ministre le droit à la liberté d'expression, et qu'un bon nombre d'entre eux étaient des amis avec qui j'ai servi, j'ai ressenti le besoin de l'aider à rectifier ses faits. Cependant, ce monsieur n’était pas intéressé et les choses sont allées de mal en pis, jusqu’à ce que je cesse d’être membre d’église. Cinq ans plus tard, ce ministre a été muté ailleurs et je me suis senti capable de retourner au bercail. Je ne défendrai pas mes attitudes et mes actions car, rétrospectivement, elles étaient quelque peu immatures.
@@ -82,3 +106,28 @@ Trouver des voies et moyens d'enseigner ou de démontrer que l'essence de notre 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De quoi sont faits les rêves ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Black_Holes_Re_visited">
+          <span class="pr-2">Les trous noirs revisités</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

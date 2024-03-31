@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="pr-2">La physique quantique a-t-elle découvert le Père Universel ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lors des conférences du soir sur le mont Garizim, Jésus a enseigné de nombreuses grandes vérités, et en particulier il a mis l'accent sur les points suivants :
@@ -36,3 +57,25 @@ Lors des conférences du soir sur le mont Garizim, Jésus a enseigné de nombreu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="pr-2">La physique quantique a-t-elle découvert le Père Universel ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

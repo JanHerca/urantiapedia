@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les jumeaux Alphée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pity_my_Simplicity">
+          <span class="pr-2">« Pitié pour ma simplicité »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les informations contenues dans les articles qui se rapportent directement à cette question sont dispersées dans tout le texte de leurs pages. Extraordinairement, le mandat définissant les « règles universelles » de la révélation n’est décrit qu’au milieu des articles, et les explications des auteurs sur leur utilisation des sources humaines sont partagées entre le début et les deux tiers du chemin. Des références aussi importantes auraient sûrement dû figurer dans une préface ou dans une introduction ?
@@ -225,3 +249,28 @@ flowchart TD
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les jumeaux Alphée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pity_my_Simplicity">
+          <span class="pr-2">« Pitié pour ma simplicité »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

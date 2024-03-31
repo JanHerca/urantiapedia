@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_of_Date_On_Facing_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obsolète : faire face à la réalité !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a plus de vingt-cinq ans, en lisant le récit du Livre d'Urantia sur les débuts de l'histoire géologique de notre planète, j'ai remarqué certaines déclarations sur la croissance de la planète et de sa lune, ainsi que sur la formation des océans, qui m'ont semblé plutôt étranges. Cependant, ce matériel a été suivi par le récit du livre sur la rupture des continents et la dérive des continents qui en a résulté. J’ai trouvé cela passionnant – et cela m’a amené à négliger le matériel « étrange » jusqu’à tout récemment.
@@ -92,3 +113,25 @@ Mais cela ajoute une nouvelle dimension. Cela **empêchera toute utilisation ré
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Out_of_Date_On_Facing_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obsolète : faire face à la réalité !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

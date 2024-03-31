@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communion ininterrompue avec notre Ajusteur de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Adam_and_Eve">
+          <span class="pr-2">Adam et Ève</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La crucifixion était-elle vraiment nécessaire ? Cela dépend de la théologie de chacun. Pour ceux qui souscrivent à la doctrine de l’expiation du péché originel, c’était certainement le cas. Un besoin psychologique profond d’expiation peut avoir ses racines dans les coutumes de « revanche » que l’on retrouve dans les sociétés primitives, selon lesquelles le châtiment rituel pour des torts réels ou imaginaires était obligatoire pour la famille ou la tribu de la victime – une mort pour une mort, un œil pour un œil, etc. Le paiement d’une certaine forme de compensation, comme moyen d’éviter le préjudice physique exigé par le système de « récupération », est un développement évolutif naturel qui aurait également pu conduire au concept d’expiation pour apaiser la colère de les dieux.
@@ -68,3 +92,28 @@ Ces raisons me suffisent. Il n’y avait pas d’autre solution possible. Je pri
 
 * https://en.wikipedia.org/wiki/Irenaeus
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communion ininterrompue avec notre Ajusteur de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Adam_and_Eve">
+          <span class="pr-2">Adam et Ève</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

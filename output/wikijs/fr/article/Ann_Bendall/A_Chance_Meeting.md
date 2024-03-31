@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="pr-2">Le désintéressement. Sa relation avec la conscience divine et l'expérience religieuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À l’âge de vingt-trois ans, Jésus attendait avec impatience ses premières vraies vacances depuis la mort de son père. Après avoir emmené Simon à Jérusalem pour la Pâque, les deux hommes avaient prévu de visiter toute la Palestine au nord du district de Jérusalem pendant leurs trois semaines de vacances.
@@ -58,3 +79,25 @@ Et tous les événements essentiels, aux apparences extérieures, étaient un en
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="pr-2">Le désintéressement. Sa relation avec la conscience divine et l'expérience religieuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

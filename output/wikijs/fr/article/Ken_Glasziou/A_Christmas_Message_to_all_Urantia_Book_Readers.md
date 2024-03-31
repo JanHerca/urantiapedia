@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="pr-2">Jésus ne ferait pas appel à la majorité morale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Jésus reprit alors la parole et dit : « Maintenant que vous êtes ambassadeurs du royaume de mon Père, vous êtes devenus une classe d’hommes séparés et distincts de tous les autres habitants de la terre. Vous n’existez plus maintenant en tant qu’hommes parmi les hommes, mais en tant que citoyens éclairés d’un autre pays céleste parmi les créatures ignorantes de ce monde enténébré. Il ne suffit plus que vous viviez comme avant cette heure ; il vous faut, désormais, vivre comme ceux qui ont gouté les gloires d’une vie meilleure et ont été renvoyés sur terre comme ambassadeurs du Souverain de ce monde nouveau et meilleur. On attend davantage du professeur que de l’élève ; on exige plus du maitre que du serviteur. On demande plus aux citoyens du royaume céleste qu’à ceux du règne terrestre. Certaines choses que je vais vous dire pourront vous sembler dures, mais vous avez choisi de me représenter dans le monde comme moi-même je représente actuellement le Père. Étant mes agents sur terre, vous serez obligés de vous conformer aux enseignements et aux pratiques qui reflètent mes idéaux de vie mortelle sur les mondes de l’espace, et dont je donne l’exemple dans ma vie terrestre révélant le Père qui est aux cieux.
@@ -58,3 +79,25 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="pr-2">Jésus ne ferait pas appel à la majorité morale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

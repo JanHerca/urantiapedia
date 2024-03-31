@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Worship">
+          <span class="pr-2">Culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La conscience spirituelle éclairée de l'homme civilisé ne s'intéresse pas tant à une croyance intellectuelle spécifique ou à un mode de vie particulier qu'à la découverte de la vérité de la vie, de la bonne et juste technique pour réagir aux situations toujours récurrentes de l'existence mortelle. La conscience morale n'est qu'un nom appliqué à la reconnaissance humaine et à la conscience de ces valeurs éthiques et spirituelles émergentes que le devoir exige que l'homme respecte dans le contrôle et l'orientation quotidienne de sa conduite.
@@ -74,3 +98,28 @@ L'homme mortel a droit à la jouissance des **plaisirs physiques** et à la sati
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_4/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Worship">
+          <span class="pr-2">Culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

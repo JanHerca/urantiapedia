@@ -9,6 +9,27 @@ dateCreated: 2022-09-27T01:15:17.858Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Early_Years_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les premières années de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si nous recherchons dans le _Livre d’Urantia_ l’occurrence d’une expression concise telle que « évangile de Jésus », nous obtenons 13 « correspondances exactes », dont aucune ne fournit d’informations sur le contenu réel de l’évangile de Jésus. Si la recherche est répétée en utilisant une traduction King James du Nouveau Testament, nous obtenons une seule « correspondance exacte », le verset d’ouverture de l’évangile de Marc. Cependant, si une traduction anglaise moderne de Mark est utilisée, nous pouvons faire un vide.
@@ -152,6 +173,28 @@ Bien à vous, Ken Glasziou
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Early_Years_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les premières années de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

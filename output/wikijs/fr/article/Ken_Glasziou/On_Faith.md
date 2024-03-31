@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Song_of_Joy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le chant de joie de Beethovan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Quantum_Theory_The_Urantia_Book_and_the_Absolutes">
+          <span class="pr-2">La Théorie Quantique, Le Livre d'Urantia et les Absolus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans son livre « _Understanding the Present_ », Bryan Appleyard déclare : « _Faith ! Que signifie la foi ? Il est clair que cela ne peut pas signifier être rationnellement persuadé de quelque chose. Si nous avions des raisons de croire, alors ce ne serait pas du tout de la foi, ce serait de la logique._ __La foi ne peut être que déraisonnable.__ »
@@ -33,3 +57,28 @@ C'est peut-être pour cela que les révélateurs nous disent que « _La raison e
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Song_of_Joy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le chant de joie de Beethovan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Quantum_Theory_The_Urantia_Book_and_the_Absolutes">
+          <span class="pr-2">La Théorie Quantique, Le Livre d'Urantia et les Absolus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

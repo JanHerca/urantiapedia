@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions cosmiques. Qu'y a-t-il au centre de la Terre ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Antigravity_is_Back">
+          <span class="pr-2">L'antigravité est de retour !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La plupart des particules fondamentales de la physique subatomique ont au moins deux modes de spin. En regardant dans leur direction de déplacement, la rotation d’une particule peut être soit vers la gauche, soit vers la droite. L'exception est le neutrino, les minuscules particules dépourvues de potentiel électrique mentionnées dans les Cahiers d'Urantia qui s'échappent d'une étoile en train de s'effondrer (<a id="a13_412"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3)). Les neutrinos tournent uniquement vers la gauche – et personne ne sait pourquoi.
@@ -34,3 +58,28 @@ Qu’il soit ou non possible d’expliquer entièrement notre univers à partir 
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions cosmiques. Qu'y a-t-il au centre de la Terre ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Antigravity_is_Back">
+          <span class="pr-2">L'antigravité est de retour !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

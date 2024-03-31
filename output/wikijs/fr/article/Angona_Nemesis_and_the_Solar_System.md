@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Nature_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nature de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Goals_and_Purposes">
+          <span class="pr-2">Buts et objectifs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « *Il y a 4 milliards et demi d’années,* l’énorme système d’Angona commença à s’approcher de ce soleil isolé. Le centre de ce grand système était un géant obscur de l’espace, solide, puissamment chargé, et possédant une prodigieuse force d’attraction gravitationnelle. » (<a id="a13_274"></a>[LU 57:5.4](/fr/The_Urantia_Book/57#p5_4))
@@ -47,3 +71,28 @@ Cette section du livre précède immédiatement celle qui traite de la croissanc
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Nature_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nature de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Goals_and_Purposes">
+          <span class="pr-2">Buts et objectifs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

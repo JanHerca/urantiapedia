@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:26:18.156Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Erreurs dans la science des fascicules d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Building_upon_the_Quaker_experience">
+          <span class="pr-2">S'appuyer sur l'expérience Quaker</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le mouvement Quaker a été fondé il y a 350 ans. Il présentait des similitudes frappantes avec les principaux enseignements des Fascicules d'Urantia. Issu du christianisme, les Quakers se consacraient à vivre conformément à la « Lumière intérieure », ce qui signifie une appréhension intérieure directe du Dieu intérieur, notre Ajusteur de pensée. Ils opéraient sans croyances, sans clergé ou autres corps ecclésiastiques. Leurs dirigeants fondateurs croyaient que cette approche expérimentale de la découverte de Dieu conduirait finalement à la purification de l’ensemble de la chrétienté.
@@ -98,3 +122,28 @@ En un mot, le mouvement Quaker s’est effondré parce qu’il a promu les quest
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Erreurs dans la science des fascicules d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Building_upon_the_Quaker_experience">
+          <span class="pr-2">S'appuyer sur l'expérience Quaker</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

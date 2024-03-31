@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Adam_and_Eve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adam et Ève</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Harmony_The_One_Universal_Code_of_Communication">
+          <span class="pr-2">Harmonie : le code universel unique de communication</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le groupe d'étude de la Sunshine Coast_
@@ -54,3 +78,28 @@ Interrogés, même les membres des églises protestantes fondamentales ont décl
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Adam_and_Eve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adam et Ève</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Harmony_The_One_Universal_Code_of_Communication">
+          <span class="pr-2">Harmonie : le code universel unique de communication</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

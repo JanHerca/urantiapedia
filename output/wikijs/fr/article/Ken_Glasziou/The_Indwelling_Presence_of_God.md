@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:23:08.416Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre défi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="pr-2">La Règle d'Or</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Ne savez-vous pas que vous êtes le temple de Dieu, que l'Esprit de Dieu habite en vous_. »([1 Cor. 3-16](/fr/Bible/1_Corinthians/3#v16))
@@ -31,3 +55,28 @@ La sagesse supérieure et supra-philosophique de ces individus éclairés et dis
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre défi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="pr-2">La Règle d'Or</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

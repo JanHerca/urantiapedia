@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:35:20.588Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">D'accord avec votre adversaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="pr-2">La religion de l'Esprit, qu'est-ce que cela pourrait signifier ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce qui suit est une critique par courrier électronique d'un ministre ordonné de l'Église anglicane d'Australie (ci-après appelé **AA**) d'un ouvrage récemment publié par un évêque élu de l'Église anglicane d'Angleterre (ci-après appelé **AB**). L’archéologie sur laquelle repose la critique provient d’érudits israéliens qui, après la guerre de 1967, ont cherché à vérifier les preuves bibliques soutenant les acquisitions territoriales d’Israël.
@@ -114,3 +138,28 @@ Et peut-être enfin :_ « Quand les hommes verront que vous les aimez tant et av
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">D'accord avec votre adversaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="pr-2">La religion de l'Esprit, qu'est-ce que cela pourrait signifier ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

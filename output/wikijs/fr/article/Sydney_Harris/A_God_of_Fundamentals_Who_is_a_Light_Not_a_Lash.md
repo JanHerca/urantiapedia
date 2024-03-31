@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Croyances et valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="pr-2">Cohérence dans le Livre d'Urantia – Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tous ces arguments et controverses sur l’évolution de l’homme, et aucune réflexion sur l’évolution de Dieu. Les fondamentalistes et les modernistes contestent l’origine des espèces, et ne se soucient pas de la manière dont notre espèce a changé sa vision de Dieu depuis les temps les plus reculés.
@@ -38,3 +62,28 @@ Dieu grandit à mesure que nous grandissons, car il reflète ce que nous devenon
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Croyances et valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="pr-2">Cohérence dans le Livre d'Urantia – Personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

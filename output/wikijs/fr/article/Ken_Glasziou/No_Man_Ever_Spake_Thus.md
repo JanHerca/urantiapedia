@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia. Qu'est-ce que c'est et pourquoi est-il ainsi ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="pr-2">Une énigme pour les fondamentalistes purs et durs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les auditeurs de Jésus étaient à plusieurs reprises « _étonnés de sa parole, car il enseignait comme quelqu'un ayant autorité et non comme les scribes._ » ([Marc 1:22](fr/Bible/Marc/1#v22); <a id="a13_190"></a>[LU 145:2.11](/fr/The_Urantia_Book/145#p2_11))
@@ -38,3 +62,28 @@ L'esprit transmue les valeurs de l'esprit en significations de l'intellect ; la 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia. Qu'est-ce que c'est et pourquoi est-il ainsi ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="pr-2">Une énigme pour les fondamentalistes purs et durs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T15:50:51.908Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dérive des continents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Origin_of_the_Solar_System">
+          <span class="pr-2">Origine du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Et si les Cahiers d'Urantia avaient en réalité été rédigés par un comité déterminé à sauver le monde ? Un tel comité aurait dû inclure une connaissance experte de la Bible, de l’archéologie et de l’histoire de la région palestinienne du premier siècle, une connaissance substantielle du monde romain, ainsi qu’une expertise en chimie, géologie, histoire, physique et sciences générales.
@@ -21,3 +45,28 @@ L’écriture du _Livre d’Urantia_ de 2000 pages aurait nécessité énorméme
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Continental_Drift">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dérive des continents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Origin_of_the_Solar_System">
+          <span class="pr-2">Origine du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

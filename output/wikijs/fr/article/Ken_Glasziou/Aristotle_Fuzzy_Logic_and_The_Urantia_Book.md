@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réprimande adressée à un ami pour défendre un autre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="pr-2">Sur la pensée floue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La croyance selon laquelle toutes choses sont noires ou blanches remonte en Occident au moins aux anciens Grecs, lorsque Démocrite réduisait l'univers à des atomes et au vide, Platon remplissait son monde de formes pures et Aristote écrivit ses règles de logique que les scientifiques et les mathématiciens encore utilisé pour décrire et discuter de ce qui est essentiellement un univers gris. Aristote nous a appris à toujours tracer la ligne entre les contraires, entre chose et non-chose. Mieux vous tracez ces lignes, plus votre esprit est logique et plus votre science est exacte. La logique binaire d’Aristote se réduit à une seule loi : soit A ou non-A, soit le ciel est bleu ou non-bleu, soit une rose est rouge ou non-rouge.
@@ -46,3 +70,28 @@ Au cours de la prochaine décennie, nos habitudes de réflexion sur ce qui est e
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réprimande adressée à un ami pour défendre un autre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="pr-2">Sur la pensée floue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

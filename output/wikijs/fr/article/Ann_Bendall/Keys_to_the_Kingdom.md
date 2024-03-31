@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T02:24:59.960Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ann Bendall<br>© 1996 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Consistency_and_Continuity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cohérence et continuité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/How_Christian_is_The_Urantia_Book">
+          <span class="pr-2">À quel point le Livre d'Urantia est-il chrétien ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si on lui demande : « Êtes-vous dans le Royaume ? la plupart d’entre nous répondraient sans équivoque : « Bien sûr ! » Après tout, nous aimons et croyons en Dieu, nous reconnaissons que nous sommes tous ses enfants et nous voulons être parfaits comme lui.
@@ -45,3 +69,28 @@ Une fois dans le royaume, qui est une expérience évolutive, commençant ici su
 
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol3_2/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Consistency_and_Continuity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cohérence et continuité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/How_Christian_is_The_Urantia_Book">
+          <span class="pr-2">À quel point le Livre d'Urantia est-il chrétien ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

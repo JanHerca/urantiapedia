@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">Auteur inconnu.<br>© 1999 Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La collision des trous noirs et les papiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Taking_the_Spiritual_Path">
+          <span class="pr-2">Prendre le chemin spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La prochaine fois que vous verrez des oies voler dans leur formation caractéristique en « V », réfléchissez à ce que la science a découvert sur les raisons pour lesquelles elles font ce qu’elles font.
@@ -32,3 +56,28 @@ Partager le fardeau et faire le travail acharné à tour de rôle est logique, q
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La collision des trous noirs et les papiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Taking_the_Spiritual_Path">
+          <span class="pr-2">Prendre le chemin spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

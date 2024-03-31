@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les secrets de la spiritualité de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="pr-2">Comment grandit l'âme ? Par la prise de décision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La spiritualité peut être « ressentie » à l’intérieur. On ne peut pas le définir. Ce qu'est la spiritualité, ce que signifie la spiritualité, la valeur spirituelle ou le contenu de toute pensée, parole ou action, tout cela doit grandir en nous à mesure que nous consommons et digérons ce qui nous est révélé sur la spiritualité. La patience et la familiarité avec le contenu des Cahiers d’Urantia sont des clés pour comprendre la spiritualité.
@@ -86,3 +110,28 @@ Dans un article du numéro précédent d’Innerface, nous avons exploré des ci
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les secrets de la spiritualité de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="pr-2">Comment grandit l'âme ? Par la prise de décision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

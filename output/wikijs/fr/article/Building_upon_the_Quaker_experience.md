@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:24:32.789Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Why_Did_the_Quakers_Fail">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi les Quakers ont-ils échoué ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Jesus_Inspiration_and_Friend">
+          <span class="pr-2">Jésus – Inspiration et ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le but ultime fixé par George Fox, l'un des pères fondateurs du mouvement Quaker vers 1650, était que chaque individu se rapporte à l'Esprit de Dieu qui l'habite de manière à pouvoir vivre comme Jésus a vécu - dans un dévouement total à la volonté. de Dieu. Fox avait un autre objectif : inciter l’ensemble de la chrétienté à faire de même.
@@ -136,6 +160,31 @@ En d’autres termes, faire la volonté de Dieu n’est que cela. Ce n'est pas n
 - Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Why_Did_the_Quakers_Fail">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi les Quakers ont-ils échoué ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Jesus_Inspiration_and_Friend">
+          <span class="pr-2">Jésus – Inspiration et ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

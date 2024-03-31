@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Truth_What_is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vérité ! Qu'est-ce que la Vérité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/On_Free_Will_2">
+          <span class="pr-2">Sur le libre arbitre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il serait assez étrange que tous les lecteurs interprètent notre article « Lieux préférés » de la même manière. Cependant, beaucoup de ceux qui ont considéré le contenu de ces passages en sont venus à apprécier _Le Livre d'Urantia_ sous un nouveau jour – un jour dans lequel le contenu spirituel de son texte est vu tout à fait indépendamment des segments du texte qui sont plus pertinents pour le monde profane. 
@@ -43,3 +67,28 @@ Considérés sous cet angle, les révélateurs ont accompli leur mission magnifi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Truth_What_is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Vérité ! Qu'est-ce que la Vérité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/On_Free_Will_2">
+          <span class="pr-2">Sur le libre arbitre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

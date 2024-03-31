@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:30:58.892Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_can_one_believe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que peut-on croire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Become_more_God_like_How">
+          <span class="pr-2">Devenir davantage semblable à Dieu ? Comment ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Brièvement présenté comme une procédure de résolution de problèmes, le principe du rasoir d'Occam consiste d'abord à éliminer toutes les hypothèses, concepts, données, etc. inutiles, et à choisir la plus simple parmi les hypothèses restantes pour une exploration plus approfondie.
@@ -52,3 +76,28 @@ Et parce que nous savons que notre Dieu est parfaitement bon, nous savons aussi 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_can_one_believe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que peut-on croire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Become_more_God_like_How">
+          <span class="pr-2">Devenir davantage semblable à Dieu ? Comment ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

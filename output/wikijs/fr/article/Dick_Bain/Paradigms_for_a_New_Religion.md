@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Dick Bain<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qui constitue une « expérience spirituelle »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les discussions d’église sont dans l’air. La communauté d'Urantia jure et discute de la possibilité d'une église[^1], d'une religion ou d'une sorte d'organisation religieuse qui incorpore les enseignements du Livre d'Urantia. Tout comme le clonage humain est controversé dans la communauté dans son ensemble, cette question divise également la communauté d’Urantia. Quelle que soit la chaleur générée par le débat, il s’agit peut-être d’une idée dont l’heure est arrivée. Si tel est le cas, le moment est venu de discuter de la forme que pourrait prendre une telle religion ou organisation religieuse.
@@ -113,3 +134,25 @@ La valeur et la dignité inhérentes à chaque personne ; Justice, équité et c
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce qui constitue une « expérience spirituelle »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

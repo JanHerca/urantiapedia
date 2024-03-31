@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T17:06:31.253Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion spirituelle universelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Our_Chores">
+          <span class="pr-2">Nos corvées</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Près de 500 ans avant l'ère chrétienne, Mo Tzu, en Chine, a gagné un large public pour ses concepts concernant l'amour mutuel et son potentiel à remplacer la guerre entre États et nations_.
@@ -49,3 +73,28 @@ L’amour doit saisir le concept en constante évolution du bien cosmique le plu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion spirituelle universelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Our_Chores">
+          <span class="pr-2">Nos corvées</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

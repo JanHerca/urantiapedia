@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu, le Père universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_God_a_mathematician">
+          <span class="pr-2">Dieu est-il un mathématicien ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Le péché est la transgression délibérée de la volonté divine. » <a id="a13_66"></a>[LU 75:4.3](/fr/The_Urantia_Book/75#p4_3), <a id="a13_109"></a>[LU 148:4.4](/fr/The_Urantia_Book/148#p4_4)
@@ -40,3 +64,28 @@ Alors oui, si nous prenons la révélation au sérieux, alors nous devons prendr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu, le Père universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_God_a_mathematician">
+          <span class="pr-2">Dieu est-il un mathématicien ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

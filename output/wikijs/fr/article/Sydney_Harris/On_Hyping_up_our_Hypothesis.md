@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Sydney Harris<br>© 1999 Bibliothèque de la Fraternité des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« « Religion » est un vilain mot ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="pr-2">La mort de Joseph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a ceux qui recherchent la vérité et ceux qui recherchent la justification. Ceux qui recherchent uniquement des preuves pour étayer ou justifier leur position, et ceux qui recherchent scrupuleusement toutes les preuves, pour et contre.
@@ -35,3 +59,28 @@ La capacité humaine à traiter de nouveaux faits afin qu’ils concordent avec 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« « Religion » est un vilain mot ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="pr-2">La mort de Joseph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

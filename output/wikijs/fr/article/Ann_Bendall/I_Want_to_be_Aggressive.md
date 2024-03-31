@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autres commentaires sur la canalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_the_Urgent_Need_for_Secondary_Works">
+          <span class="pr-2">Sur l'urgence des travaux secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il était une fois, avant de lire *Le Livre d'Urantia*, je pensais qu'être agressif était résolument antisocial. Le dictionnaire disait que les personnes agressives étaient « querelleuses ou belliqueuses ». J'étais d'accord avec eux. Mon Dieu, le mouvement des femmes criait que tout le problème du monde était les hommes et leur agressivité – leurs tendances agressives ! Nous, les femmes, avons poussé un soupir de soulagement en constatant que nous n'étions pas si maudites (malgré des recherches qui semblent différer : les femmes sont tout aussi agressives que les hommes si elles sont provoquées. Cependant, il semble que beaucoup d'hommes soient naturellement agressifs et peuvent facilement imaginer qu'une provocation s'est produite, si l'envie d'être agressif se fait forte).
@@ -48,6 +72,31 @@ Je n'envisage aucune difficulté de la part de Jésus/Michael car je suis une fe
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autres commentaires sur la canalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/On_the_Urgent_Need_for_Secondary_Works">
+          <span class="pr-2">Sur l'urgence des travaux secondaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

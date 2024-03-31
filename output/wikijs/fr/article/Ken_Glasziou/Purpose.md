@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_Following_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir : suivre Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="pr-2">Les religions de l'esprit et la religion de l'esprit : les différences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Petit à petit, à mesure que les années passent et que nous pouvons prendre du recul et regarder les événements passés, le véritable plan et le but de la révélation d'Urantia peuvent commencer à être plus clairement définis.
@@ -40,3 +64,28 @@ Pouvons-nous rectifier notre erreur ? Nous pourrions essayer en consacrant sinc�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Future_Following_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir : suivre Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="pr-2">Les religions de l'esprit et la religion de l'esprit : les différences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

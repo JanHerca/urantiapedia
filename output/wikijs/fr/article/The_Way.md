@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 La Bibliothèque de la Confrérie des Hommes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="pr-2">Toutes nos cosmologies sont erronées !!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Celui qui se gouverne lui-même est plus grand que celui qui s'empare d'une ville. La maîtrise de soi est la mesure de la nature morale de l'homme et l'indicateur de son développement spirituel. Dans l’ancien ordre, vous jeûniez et priiez ; en tant que nouvelle créature de la renaissance de l’esprit, on vous apprend à croire et à vous réjouir. Dans le royaume du Père, vous devez devenir de nouvelles créatures ; les vieilles choses doivent passer ; voici, je vous montre comment toutes choses doivent devenir nouvelles. Et par votre amour les uns pour les autres, vous devez convaincre le monde que vous êtes passés de l’esclavage à la liberté, de la mort à la vie éternelle.
@@ -25,3 +46,25 @@ Si donc l’esprit habite en vous, vous n’êtes plus des esclaves de la chair 
 
 * Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol6_4/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="pr-2">Toutes nos cosmologies sont erronées !!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
