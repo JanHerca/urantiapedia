@@ -14,7 +14,7 @@ Lines can be any of next types:
 
 Considerations:
 
-- is-title: there must be only line with this at beginning
+- is-title: there must be only one line with this at the beginning
 - is-volume: all lines until a new is-volume line will belong to same volume
 - is-issue: all articles until a new is-issue or is-volume will belong to same issue
 - author: must be one that gives author path name when replacing spaces with `_`. If there is no author use `---`.
