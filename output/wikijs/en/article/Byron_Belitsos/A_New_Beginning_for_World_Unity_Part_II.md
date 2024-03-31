@@ -57,7 +57,7 @@ It was an embarrassment for me to realize that my two religious affiliations, th
 
 Others of the exclusivist strain were more pragmatic. There was no shortage of proselytizing organizations who used the Parliament as a platform to promulgate “truth.” I personally met many attendees who held forth on the superiority of their tradition over others, or who had considerable difficultly allowing me to share my own peculiar faith.
 
-> _I suppose I am an inclusivist. The Urantia Book seems to endorse this position in the “Second Discourse On Religion”_ ([UB 155:6.9](/en/The_Urantia_Book/155#p6_9)), where we read that “_the religion of the spirit requires only unity of experience...only unity of spirit feeling_”.
+> _I suppose I am an inclusivist. The Urantia Book seems to endorse this position in the “Second Discourse On Religion”_ (<a id="a59_122"></a>[UB 155:6.9](/en/The_Urantia_Book/155#p6_9)), where we read that “_the religion of the spirit requires only unity of experience...only unity of spirit feeling_”.
 
 The exclusivist approach might be described as “esoteric,” as opposed to the “exoteric” tendencies that exist within these same traditions. Generally, esoteric religionists identify as “absolute” some feature of the external form of their religion. A revealed text, a ritualistic practice, or some definition or symbol of God, is seen as superior in some sense to all others. To permit relativism would cause an unacceptable insecurity in the faith.
 

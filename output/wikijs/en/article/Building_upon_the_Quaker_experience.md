@@ -103,7 +103,7 @@ Perhaps the best place to discover the religious life of Jesus and how he lived 
 
 ## Our personal spiritualization and “living as Jesus lived.”
 
-> “The goal for human self-realization should be spiritual not material. The only realities worth striving for are divine, spiritual, and eternal.” ([UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
+> “The goal for human self-realization should be spiritual not material. The only realities worth striving for are divine, spiritual, and eternal.” (<a id="a105_149"></a>[UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
 
 > “Spirituality is the indicator of one’s nearness to God. . . it enhances the ability to discover beauty in things, recognize truth in meanings, discover goodness in values.”
 > 

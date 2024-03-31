@@ -78,7 +78,7 @@ On occasions, remarks to this effect have brought inquiries seeking evidence on 
 
 > Indeed, the social readjustments, the economic transformations, the moral rejuvenations, and the religious revisions of Christian civilization would be drastic and revolutionary if the **living religion of Jesus should suddenly supplant** the theologic religion about Jesus. (<a id="a78_278"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
-> Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religious teachings of Jesus, the author and finisher of our faith. You may preach a religion about Jesus, but, perforce, you must live the religion of Jesus. (<a id="a80_269"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+> Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religious teachings of Jesus, the author and finisher of our faith. You may preach a religion about Jesus, but, perforce, you must live the religion of Jesus. (<a id="a80_265"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
 
 ---
 
