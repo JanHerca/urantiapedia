@@ -208,8 +208,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/innerface/index.html">Innerface archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_innerface" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/innerface%20international" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -232,8 +235,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://urantia-book.org/index_spiritual_fellowship_journal.html">Journal archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_spiritual_fellowship_journal" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/the%20spiritual%20fellowship%20journal" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -256,8 +262,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://aue.urantia-association.org/luz-y-vida/"><em>Luz y Vida</em> archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_luz_y_vida" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/luz%20y%20vida" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>

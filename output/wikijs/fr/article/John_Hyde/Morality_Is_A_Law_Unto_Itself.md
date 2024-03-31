@@ -1,5 +1,5 @@
 ---
-Titre : « La moralité est une loi en soi »
+title: "La moralité est une loi en soi"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

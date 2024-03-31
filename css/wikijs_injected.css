@@ -172,136 +172,139 @@ CSS will automatically be minified. */
     text-anchor:middle;
 }
 /* Science books */
+.v-main .contents .urantiapedia-book-science svg g {
+    fill:#301602;
+}
 .v-main .contents .urantiapedia-book-science svg g rect:first-child {
     fill:#301602;
 }
 .v-main .contents .urantiapedia-book-science svg g rect:nth-child(2) {
     fill:#F9F1D2;
 }
-.v-main .contents .urantiapedia-book-science svg g {
-    fill:#301602;
-}
 /* Bible books */
+.v-main .contents .urantiapedia-book-bible svg g {
+    fill:#fff;
+}
 .v-main .contents .urantiapedia-book-bible svg g rect:first-child {
     fill:#e06464;
 }
 .v-main .contents .urantiapedia-book-bible svg g rect:nth-child(2) {
     fill:#690404;
 }
-.v-main .contents .urantiapedia-book-bible svg g text {
+/* Bible apocrypha books */
+.v-main .contents .urantiapedia-book-apocrypha svg g {
     fill:#fff;
 }
-/* Bible apocrypha books */
 .v-main .contents .urantiapedia-book-apocrypha svg g rect:first-child {
     fill:#42ca7d;
 }
 .v-main .contents .urantiapedia-book-apocrypha svg g rect:nth-child(2) {
     fill:#2a4a16;
 }
-.v-main .contents .urantiapedia-book-apocrypha svg g text {
-    fill:#fff;
-}
 /* Readers books */
+.v-main .contents .urantiapedia-book-readers svg g {
+    fill:#223355;
+}
 .v-main .contents .urantiapedia-book-readers svg g rect:first-child {
     fill:#223355;
 }
 .v-main .contents .urantiapedia-book-readers svg g rect:nth-child(2) {
     fill:#eeddcc;
 }
-.v-main .contents .urantiapedia-book-readers svg g {
-    fill:#223355;
-}ç
 /* Study aids */
+.v-main .contents .urantiapedia-book-studyaid svg g {
+    fill:#fff;
+}
 .v-main .contents .urantiapedia-book-studyaid svg g rect:first-child {
     fill:#4999D2;
 }
 .v-main .contents .urantiapedia-book-studyaid svg g rect:nth-child(2) {
     fill:#0e66a1;
 }
-.v-main .contents .urantiapedia-book-studyaid svg g {
-    fill:#fff;
-}
 /* Bahaism books */
+.v-main .contents .urantiapedia-book-bahai svg g {
+    fill:#1a3155;
+}
 .v-main .contents .urantiapedia-book-bahai svg g rect:first-child {
     fill:#1a3155;
 }
 .v-main .contents .urantiapedia-book-bahai svg g rect:nth-child(2) {
     fill:#eed6bd;
 }
-.v-main .contents .urantiapedia-book-bahai svg g {
-    fill:#1a3155;
-}
 /* Buddhism books */
+.v-main .contents .urantiapedia-book-buddha svg g {
+    fill:#471909;
+}
 .v-main .contents .urantiapedia-book-buddha svg g rect:first-child {
     fill:#471909;
 }
 .v-main .contents .urantiapedia-book-buddha svg g rect:nth-child(2) {
     fill:#f5c586;
 }
-.v-main .contents .urantiapedia-book-buddha svg g {
-    fill:#471909;
-}
 /* Christian books */
+.v-main .contents .urantiapedia-book-christian svg g {
+    fill:#19737e;
+}
 .v-main .contents .urantiapedia-book-christian svg g rect:first-child {
     fill:#19737e;
 }
 .v-main .contents .urantiapedia-book-christian svg g rect:nth-child(2) {
     fill:#d0c6bd;
 }
-.v-main .contents .urantiapedia-book-christian svg g {
-    fill:#19737e;
-}
 /* Hinduism books */
+.v-main .contents .urantiapedia-book-hindu svg g {
+    fill:#6a2015;
+}
 .v-main .contents .urantiapedia-book-hindu svg g rect:first-child {
     fill:#6a2015;
 }
 .v-main .contents .urantiapedia-book-hindu svg g rect:nth-child(2) {
     fill:#fe9663;
 }
-.v-main .contents .urantiapedia-book-hindu svg g {
-    fill:#6a2015;
-}
 /* Islam books */
+.v-main .contents .urantiapedia-book-islam svg g {
+    fill:#781915;
+}
 .v-main .contents .urantiapedia-book-islam svg g rect:first-child {
     fill:#781915;
 }
 .v-main .contents .urantiapedia-book-islam svg g rect:nth-child(2) {
     fill:#adc9b2;
 }
-.v-main .contents .urantiapedia-book-islam svg g {
-    fill:#781915;
-}
 /* Jainism books */
+.v-main .contents .urantiapedia-book-jain svg g {
+    fill:#7a5542;
+}
 .v-main .contents .urantiapedia-book-jain svg g rect:first-child {
     fill:#7a5542;
 }
 .v-main .contents .urantiapedia-book-jain svg g rect:nth-child(2) {
     fill:#ffc683;
 }
-.v-main .contents .urantiapedia-book-jain svg g {
-    fill:#7a5542;
-}
 /* Judaism books */
+.v-main .contents .urantiapedia-book-judean svg g {
+    fill:#932322;
+}
 .v-main .contents .urantiapedia-book-judean svg g rect:first-child {
     fill:#932322;
 }
 .v-main .contents .urantiapedia-book-judean svg g rect:nth-child(2) {
     fill:#bababa;
 }
-.v-main .contents .urantiapedia-book-judean svg g {
-    fill:#932322;
-}
 /* Shikhism books */
+.v-main .contents .urantiapedia-book-shikh svg g {
+    fill:#60357a;
+}
 .v-main .contents .urantiapedia-book-shikh svg g rect:first-child {
     fill:#60357a;
 }
 .v-main .contents .urantiapedia-book-shikh svg g rect:nth-child(2) {
     fill:#d3884f;
 }
-.v-main .contents .urantiapedia-book-shikh svg g {
-    fill:#60357a;
-}
 /* Shintoism books */
+.v-main .contents .urantiapedia-book-shinto svg g {
+    fill:#000;
+}
 .v-main .contents .urantiapedia-book-shinto svg g rect:first-child {
     fill:#d50500;
 }
@@ -309,28 +312,25 @@ CSS will automatically be minified. */
     fill:#f0ebe8;
     stroke: #000;
 }
-.v-main .contents .urantiapedia-book-shinto svg g {
-    fill:#000;
-}
 /* Taoism books */
+.v-main .contents .urantiapedia-book-tao svg g {
+    fill:#38373d;
+}
 .v-main .contents .urantiapedia-book-tao svg g rect:first-child {
     fill:#38373d;
 }
 .v-main .contents .urantiapedia-book-tao svg g rect:nth-child(2) {
     fill:#b1bfc2;
 }
-.v-main .contents .urantiapedia-book-tao svg g {
-    fill:#38373d;
-}
 /* Zoroastrianism books */
+.v-main .contents .urantiapedia-book-zoroaster svg g {
+    fill:#371c00;
+}
 .v-main .contents .urantiapedia-book-zoroaster svg g rect:first-child {
     fill:#bc8e53;
 }
 .v-main .contents .urantiapedia-book-zoroaster svg g rect:nth-child(2) {
     fill:#9dbfae;
-}
-.v-main .contents .urantiapedia-book-zoroaster svg g {
-    fill:#371c00;
 }
 @media (max-width:1000px) {
     .v-main .contents figure.image-style-align-right,

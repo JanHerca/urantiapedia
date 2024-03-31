@@ -137,7 +137,9 @@ For previous shortcuts in VS Code goto `File > Preferences > Keyboard shortcuts`
 ```
 
 Other special chars:
-- —
+- — (Em dash)
+- – (En dash)
+- \- (Hyphen)
 - Ö => ...
 - ±
 - °
@@ -233,6 +235,12 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 </figure>
 ```
 
+## LaTeX to Markdown
+
+\\textit\{([^\}]+)\}|_$1_
+\\bigbreak|<br>
+\\noindent \\textsc\{([^\}]+)\}|<span style="font-variant:small-caps;">$1</span>
+
 ## Google Translator common fails
 
 ### From English to Spanish
@@ -248,4 +256,36 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 - `John` instead of `Juan` (about the apostle or the Baptist)
 - `Apocalipsis` instead of `la revelación` (about The Urantia Book itself)
 - `Bethpage` instead of `Betfagé` (`Bethpage` in fact should be `Bethphage`)
-- 
+
+<figure class="table chapter-navigator">\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n</figure>\n
+
+### Replacements
+
+ | 
+«  |« 
+  »| »
+titre : « (.+) »|title: "$1"
+titre : « (.+) \?|title: "$1 ?"
+title: « (.+) »|title: "$1"
+## Les références|## Références
+« text-align:center; »|"text-align:center;"
+\. \. \.|...
+\. \.|. 
+\. \.|. 
+\.  |. 
+\. ,|,
+« clear:both; »|"clear:both;"
+< /p>|</p>
+^titre :|title:
+title: « (.+) »|title: "$1"
+title: « (.+)|title: "$1"
+\[\^(\d+)\] :|[^$1]:
+\[\^(\d+) \]|[^$1] 
+description :|description:
+description: « (.+) »|description: "$1"
+description: « (.+) \?|description: "$1 ?"
+\{est-info\}|{.is-info}
+< /i>|</i>
+^##(\w|\d)|## $1
+
+&nbsp; 

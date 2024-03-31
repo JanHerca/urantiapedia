@@ -1433,7 +1433,7 @@ The list included here includes books that are considered _apocryphal pseudepigr
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
-							<text style="font-size:9px" x="61" y="60">of Zephaniah</text>
+							<text style="font-size:9px" x="61" y="70">of Zephaniah</text>
 						</g>
 					</svg>
 				</div>
