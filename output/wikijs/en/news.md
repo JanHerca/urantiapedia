@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2024
 
+- [March 2024 News](/en/news/2024/03)
 - [February 2024 News](/en/news/2024/02)
 - [January 2024 News](/en/news/2024/01)
 
