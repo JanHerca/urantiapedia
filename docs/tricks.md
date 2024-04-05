@@ -264,10 +264,6 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
  | 
 «  |« 
   »| »
-titre : « (.+) »|title: "$1"
-titre : « (.+) \?|title: "$1 ?"
-title: « (.+) »|title: "$1"
-## Les références|## Références
 « text-align:center; »|"text-align:center;"
 \. \. \.|...
 \. \.|. 
@@ -276,7 +272,6 @@ title: « (.+) »|title: "$1"
 \. ,|,
 « clear:both; »|"clear:both;"
 < /p>|</p>
-^titre :|title:
 title: « (.+) »|title: "$1"
 title: « (.+)|title: "$1"
 \[\^(\d+)\] :|[^$1]:
@@ -287,5 +282,37 @@ description: « (.+) \?|description: "$1 ?"
 \{est-info\}|{.is-info}
 < /i>|</i>
 ^##(\w|\d)|## $1
+
+\. ([a-z])  Check manually
+
+**FR**
+
+titre : « (.+) »|title: "$1"
+titre : « (.+) \?|title: "$1 ?"
+title: « (.+) »|title: "$1"
+^titre :|title:
+## Les références|## Références
+
+**ES**
+
+^título:|title:
+v-card tema v-sheet--gris claro aclarar-3 px-2|v-card v-sheet theme--light gray lighten-3 px-2
+Compañerismo|Fellowship
+Becas|Fellowship
+Comunidad|Fellowship
+confraternidad|Fellowship
+la beca|la Fellowship
+beca|Fellowship
+Beca|Fellowship
+fundación|Fundación
+ El Libro de Urantia | _El Libro de Urantia_ 
+ El Libro de Urantia\.| _El Libro de Urantia_.
+ El Libro de Urantia,| _El Libro de Urantia_,
+ El libro de Urantia | _El Libro de Urantia_ 
+ El libro de Urantia\.| _El libro de Urantia_.
+Porcelana|China
+síndico|fideicomisario
+Síndico|fideicomisario
+LUIS|UBIS
 
 &nbsp; 
