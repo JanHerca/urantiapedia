@@ -58,7 +58,9 @@ Conversão de _The Bible_ :closed_book: de LaTeX para Wiki.js com _Paramony_ :le
 
 A próxima tabela resume o progresso atual:
 
-| Idioma      | :ledger:&nbsp;     | :card_index:&nbsp; | :closed_book:&nbsp; | :blue_book:&nbsp; | :sound:&nbsp;   | :sunrise_over_mountains:&nbsp; |
+<div class="urantiapedia-table-wrapper">
+
+| Idioma      | :ledger:           | :card_index:        | :closed_book:        | :blue_book:        | :sound:            | :sunrise_over_mountains: |
 | ----------- | :----------------: | :-----------------: | :------------------: | :----------------: | :----------------: | :----------------------: |
 | Búlgaro     | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
 | Checo       | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
@@ -86,6 +88,7 @@ A próxima tabela resume o progresso atual:
 | Sueco       | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
 | Turco       | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
 
+</div>
 
 ## Marco II - Livros, artigos, auxílios de estudo, esquemas e índices
 
@@ -123,17 +126,23 @@ Crie índices :capital_abcd: com diferentes critérios para busca rápida no sit
 
 ### Progresso
 
-| Idioma      | :green_book:&nbsp; | :orange_book:&nbsp; | :books:&nbsp; | :notebook_with_decorative_cover:&nbsp; | :page_with_curl:&nbsp; | :notebook:&nbsp; | :memo:&nbsp; | :capital_abcd:&nbsp; |
-| ----------- | :----------- | :-----------  | :--------: | :---------------------------------: | :----------------: | :-------------------: | :------: | :--------------: |
-| Inglês      | :clock2:     |               | :clock2:   | :clock2:                            | :heavy_check_mark: | :heavy_check_mark:    |          | :clock2:         |
-| Espanhol    | :clock2:     |               | :clock2:   | :clock2:                            | :clock2:           | :clock2:              |          | :clock2:         |
-| Francês     |              |               |            |                                     |                    | :clock2:              |          |                  |
+<div class="urantiapedia-table-wrapper">
+
+| Idioma      | :green_book: | :orange_book: | :books:    | :notebook_with_decorative_cover:  | :page_with_curl:    | :notebook:          | :memo:     | :capital_abcd:   |
+| ----------- | :----------- | :------------ | :--------: | :-------------------------------: | :-----------------: | :-----------------: | :--------: | :--------------: |
+| Inglês      | :clock2:     | :clock2:      | :clock2:   | :clock2:                          | :clock2:            | :heavy_check_mark:  |            | :clock2:         |
+| Espanhol    | :clock2:     | :clock2:      | :clock2:   | :clock2:                          | :clock2:            | :clock2:            |            | :clock2:         |
+| Francês     | :clock2:     | :clock2:      | :clock2:   | :clock2:                          | :clock2:            | :clock2:            |            | :clock2:         |
+
+</div>
 
 ### Progresso dos artigos detalhado
 
 Esta é uma informação detalhada sobre o progresso com a adição de artigos. A Urantiapedia recebeu uma doação da Fundação Urântia como parte do [Programa Semente de Mostarda](https://www.urantia.org/news/2023-03/mustard-seed-grants-program). Esta doação inclui recursos para ajudar na adição de artigos nos idiomas especificados abaixo.
 
 A tabela abaixo não está completa. Existem mais sites que estamos considerando adicionar à Urântiapedia. Esta tabela será atualizada à medida que houver progresso nos meses seguintes.
+
+<div class="urantiapedia-table-wrapper">
 
 | Editora /<br>Publicação      | Núm.       | Ing.               | Esp.               | Fr.                |
 | ---------------------------- | ---------: | :----------------: | :----------------: | :----------------: |
@@ -149,24 +158,25 @@ A tabela abaixo não está completa. Existem mais sites que estamos considerando
 | IUA                          |            |                    |                    |                    |
 | - Journal                    |  99        | :heavy_check_mark: |                    |                    |
 | - Tidings                    | 364        | :heavy_check_mark: |                    |                    |
-| Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| Spiritual Fellowship Journal | 400        | :heavy_check_mark: |                    |                    |
+| Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Spiritual Fellowship Journal | 400        | :heavy_check_mark: |                    | :heavy_check_mark: |
 | Spain Association            |            |                    |                    |                    |
-| - Luz y Vida                 | 337        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - Website                    |   ?        |                    |                    |                    |
+| - Luz y Vida                 | 337        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - Website                    | 100        |                    |                    |                    |
 | ANZURA Association           |            |                    |                    |                    |
 | - 6-0-6                      | 257        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - The Arena                  | 108        | :heavy_check_mark: |                    |                    |
 | French Association           |            |                    |                    |                    |
-| - CERDH - The Letter         |   ?        |                    |                    |                    |
-| - Le Lien                    |   ?        |                    |                    |                    |
+| - CERDH - The Letter         | 90         |                    |                    |                    |
+| - Le Lien                    | 600        |                    |                    |                    |
 | Quebec Association           |            |                    |                    |                    |
-| - Reflectivite               |   ?        |                    |                    |                    |
+| - Reflectivite               | 143        |                    |                    |                    |
 | - Website                    | 116        |                    |                    |                    |
 | UB Annotated                 |  20        | :heavy_check_mark: | :clock2:           |                    |
 | Jan Herca articles           |  41        | :clock2:           | :clock2:           |                    |
-| **TOTAL**                    | **3880**   |                    |                    |                    |
+| **TOTAL**                    | **4813**   |                    |                    |                    |
 
+</div>
 
 ## Marco III - Tradutor
 
@@ -238,34 +248,37 @@ Esta é a lista de todas as tarefas que consideramos até agora para cada tipo d
 
 A tabela a seguir resume todo o progresso com cada tipo de conteúdo ([1](#note1)):
 
-| Idioma      |  :blue_book:&nbsp; | :sound:&nbsp;      | :sunrise_over_mountains:&nbsp; | :card_index:&nbsp; | :closed_book:&nbsp; | :green_book:&nbsp; |  :books:&nbsp; | :page_with_curl:&nbsp; | :notebook:&nbsp; | :memo:&nbsp; | :globe_with_meridians:&nbsp; | :earth_americas:&nbsp; | :bar_chart:&nbsp; | :milky_way:&nbsp; |
-| ----------- | :----------------: | :----------------: | :-----------------------: | :------------: | :----------------: | :------------:     | :-------------: | :---------------: | :------------------: | :-----: | :----------------------: | :--------------: | :---------: | :---------: |
-| Búlgaro     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Checo       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Dinamarquês | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Alemão      | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Grego       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Inglês      | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  | :clock2:       | :heavy_check_mark: | :heavy_check_mark: | :clock2:        | :clock2:          | :heavy_check_mark:   | :one:   |                          | :one:            | :one:       | :one:       |
-| Espanhol    | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  | :clock2:       | :heavy_check_mark: | :clock2:           | :clock2:        | :clock2:          | :clock2:             |         |                          | :one:            |             |             |
-| estoniano   | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Persa       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Finlandês   | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Francês     | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   | :clock2:             |         |                          |                  |             |             |
-| Hebraico    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Húngaro     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| indonésio   | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Italiano    | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Japonês     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Coreano     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Lituano     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Holandês    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Polonês     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Português   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Romeno      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Russo       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Sueco       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
-| Turco       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
+<div class="urantiapedia-table-wrapper">
 
+| Idioma      |  :blue_book:       | :sound:            | :sunrise_over_mountains:  | :card_index:   | :closed_book:      | :green_book:       |  :books:    | :page_with_curl:  | :notebook:           | :memo:  | :globe_with_meridians:   | :earth_americas: | :bar_chart: | :milky_way: |
+| ----------- | :----------------: | :----------------: | :-----------------------: | :------------: | :----------------: | :----------------: | :---------: | :---------------: | :------------------: | :-----: | :----------------------: | :--------------: | :---------: | :---------: |
+| Búlgaro     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Checo       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Dinamarquês | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Alemão      | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Grego       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Inglês      | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  | :clock2:       | :heavy_check_mark: | :heavy_check_mark: | :clock2:    | :clock2:          | :heavy_check_mark:   | :one:   |                          | :one:            | :one:       | :one:       |
+| Espanhol    | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  | :clock2:       | :heavy_check_mark: | :clock2:           | :clock2:    | :clock2:          | :clock2:             |         |                          | :one:            |             |             |
+| estoniano   | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Persa       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Finlandês   | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Francês     | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: | :clock2:           | :clock2:    | :clock2:          | :clock2:             |         |                          |                  |             |             |
+| Hebraico    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Húngaro     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| indonésio   | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Italiano    | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Japonês     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Coreano     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Lituano     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Holandês    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Polonês     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Português   | :heavy_check_mark: | :heavy_check_mark: | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Romeno      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Russo       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Sueco       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+| Turco       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |             |                   |                      |         |                          |                  |             |             |
+
+</div>
 
 (<a id="note1">1</a>) Livro de Urântia :blue_book: e Bíblia :closed_book: com o _Paramony_ incluído.
 

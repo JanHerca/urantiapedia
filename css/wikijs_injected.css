@@ -6,6 +6,15 @@ CSS will automatically be minified. */
 .v-main .contents:not(.urantiapedia-full-width) {
     max-width: 1000px;
 }
+.v-main .contents table {
+    margin: .5rem 0rem;
+}
+.v-main .contents .urantiapedia-table-wrapper {
+    overflow-x: scroll;
+}
+.v-main .contents .emoji {
+    max-width: inherit;
+}
 .v-main .contents img.is-imagemap {
     max-width: none;
   }
