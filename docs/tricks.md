@@ -292,6 +292,10 @@ titre : « (.+) \?|title: "$1 ?"
 title: « (.+) »|title: "$1"
 ^titre :|title:
 ## Les références|## Références
+bourse|Fellowship
+Bourse|Fellowship
+Fraternité|Fellowship
+Communauté|Fellowship
 
 **ES**
 
