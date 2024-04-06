@@ -145,7 +145,7 @@ Apprendre à connaître Dieu est un exercice qui dure toute la vie, Dieu dirigea
 
 La théologie du processus ne prétend pas détenir toutes les réponses, Dieu reste encore un mystère. Cependant, cela me donne une façon plus crédible de penser Dieu. Je pense que la théologie du processus rend l’Église plus crédible et plus adaptée au monde moderne et nous donne une meilleure chance de relever les défis du prochain millénaire. Grâce à Dieu!
 
-> Le temps lui-même ne devient plus que l’ombre de l’éternité projetée par les réalités du Paradis sur la panoplie mouvante de l’espace. (<a id="a123_138"></a>[LU 101:10.9](/fr/The_Urantia_Book/101#p10_9))
+> Le temps lui-même ne devient plus que l’ombre de l’éternité projetée par les réalités du Paradis sur la panoplie mouvante de l’espace. (<a id="a147_138"></a>[LU 101:10.9](/fr/The_Urantia_Book/101#p10_9))
 
 ## Liens externes
 

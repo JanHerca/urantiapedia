@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-L'âme évolutive de l'homme mortel est créée à partir de « possibilités » préexistantes au sein du Suprême (voir <a id="a13_112"></a>[LU 117:5.11](/fr/The_Urantia_Book/117#p5_11)).
+L'âme évolutive de l'homme mortel est créée à partir de « possibilités » préexistantes au sein du Suprême (voir <a id="a37_112"></a>[LU 117:5.11](/fr/The_Urantia_Book/117#p5_11)).
 
 Cette déclaration pose plus de questions qu’elle n’en répond. Comment cela se produit-il ? Comment, de quoi et d’où naissent ces « possibilités » ? Comment sont-ils parvenus à faire partie du Suprême, qui est « le Suprême », et comment pouvons-nous obtenir ces « possibilités » afin de construire notre âme ? Mais d’abord, qu’est-ce qu’on appelle ces choses « possibilités » ?
 
@@ -69,11 +69,11 @@ L’expérience « impie » fait-elle partie du Suprême ? Certes, ce qui est «
 
 Les sept esprits mentaux adjoints qui sont si importants pour notre croissance sont appelés par des noms en accord avec leur objectif : intuition, compréhension, courage, connaissance, conseil, adoration et sagesse. Bien que les adjudants aient une aura personnelle, ils ne sont pas de véritables entités. On nous dit qu'ils ressemblent davantage à des circuits, mais cela aurait été une analogie inventée au milieu des années trente. Peut-être que le concept de « champ », tel qu’il est devenu important en physique quantique, pourrait désormais être une meilleure description.
 
-En réalité, les adjudants sont des niveaux de conscience de l'Esprit Mère de l'Univers (<a id="a47_88"></a>[LU 36:5.4](/fr/The_Urantia_Book/36#p5_4)) qui est la source directe de nos esprits individuels. Nous sommes informés qu’il n’y a pas d’influences comparables sur les esprits mentaux adjoints une fois que nous quittons cette Terre.
+En réalité, les adjudants sont des niveaux de conscience de l'Esprit Mère de l'Univers (<a id="a71_88"></a>[LU 36:5.4](/fr/The_Urantia_Book/36#p5_4)) qui est la source directe de nos esprits individuels. Nous sommes informés qu’il n’y a pas d’influences comparables sur les esprits mentaux adjoints une fois que nous quittons cette Terre.
 
 Mais même si nous nous éloignons pour toujours de leur présence, nos âmes posséderont un caractère continu dérivé des décisions que nous avons prises au cours de notre association avec l'esprit de l'adjudant.
 
-> La volition spirituelle s’identifie avec la volonté de Dieu. (<a id="a51_64"></a>[LU 118:6.6](/fr/The_Urantia_Book/118#p6_6))
+> La volition spirituelle s’identifie avec la volonté de Dieu. (<a id="a75_64"></a>[LU 118:6.6](/fr/The_Urantia_Book/118#p6_6))
 
 ## Liens externes
 

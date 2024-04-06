@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-> « La moralité est l’indispensable base préexistante de la conscience personnelle de Dieu, de la réalisation personnelle de la présence intérieure de l’Ajusteur, mais cette moralité n’est ni la source de l’expérience religieuse, ni la clairvoyance spirituelle qui en résulte. La nature morale est superanimale mais subspirituelle. La moralité équivaut à reconnaitre le devoir, à réaliser l’existence de ce qui est juste et de ce qui ne l’est pas. La zone morale s’interpose entre le type de mental animal et le type de mental humain, de même que la morontia fonctionne entre les sphères matérielles et spirituelles d’aboutissement de la personnalité. » (<a id="a13_655"></a>[LU 196:3.25](/fr/The_Urantia_Book/196#p3_25))
+> « La moralité est l’indispensable base préexistante de la conscience personnelle de Dieu, de la réalisation personnelle de la présence intérieure de l’Ajusteur, mais cette moralité n’est ni la source de l’expérience religieuse, ni la clairvoyance spirituelle qui en résulte. La nature morale est superanimale mais subspirituelle. La moralité équivaut à reconnaitre le devoir, à réaliser l’existence de ce qui est juste et de ce qui ne l’est pas. La zone morale s’interpose entre le type de mental animal et le type de mental humain, de même que la morontia fonctionne entre les sphères matérielles et spirituelles d’aboutissement de la personnalité. » (<a id="a37_655"></a>[LU 196:3.25](/fr/The_Urantia_Book/196#p3_25))
 
 La première partie de la première phrase nécessite une réflexion approfondie :
 
@@ -53,13 +53,13 @@ Nous pouvons, et même devons, progressivement devenir de plus en plus moraux. M
 
 Le pas en arrière qui engendre l’immoralité semble nous couper de la conscience de Dieu et de la réalisation de la présence de l’Ajusteur. C’est un rejet de ce que nous savons être juste parce que notre Ajusteur nous a donné cette connaissance. Cela équivaut donc à un rejet de Dieu, car l’Ajusteur est l’esprit intérieur de Dieu.
 
-Pouvons-nous être partiellement moraux et partiellement conscients de Dieu ? Se conformer partiellement à ce que nous savons déjà être moral est le résultat de « ma volonté soit faite », au lieu de « ta volonté soit faite ». Et nous sommes informés que le Dieu d’adoration revendique toute notre allégeance ou aucune. (<a id="a31_319"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
+Pouvons-nous être partiellement moraux et partiellement conscients de Dieu ? Se conformer partiellement à ce que nous savons déjà être moral est le résultat de « ma volonté soit faite », au lieu de « ta volonté soit faite ». Et nous sommes informés que le Dieu d’adoration revendique toute notre allégeance ou aucune. (<a id="a55_319"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
 
 Alors, quelle est l'alternative? À un moment donné de notre vie, la plupart d’entre nous se seront trompés et seront devenus « partiellement moraux » (c’est-à-dire immoraux) lorsque cela nous convenait. Et même si nous pouvons générer des explications assez ingénieuses afin de nous tromper sur les raisons pour lesquelles nous avions raison, la seule réalité disponible est celle qui est démodée et maintenant démodée : se repentir et être sauvé !
 
 La repentance exige parfois plus qu’un simple « Dieu désolé ». Nous saurons quand nous aurons réalisé ce qui est attendu de nous : la conscience de Dieu et la réalisation de l’Ajusteur auront été restaurées.
 
-> « La caractéristique majeure de l’enseignement de Jésus était que la *moralité* de sa philosophie dérivait des relations personnelles entre l’individu et Dieu — précisément cette relation d’enfant à père. » (<a id="a37_210"></a>[LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
+> « La caractéristique majeure de l’enseignement de Jésus était que la *moralité* de sa philosophie dérivait des relations personnelles entre l’individu et Dieu — précisément cette relation d’enfant à père. » (<a id="a61_210"></a>[LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
 
 > Je vois la meilleure solution et je l'approuve. Mais je suis le pire.
 > &nbsp; &nbsp; &nbsp; _Ovide, poète romain_

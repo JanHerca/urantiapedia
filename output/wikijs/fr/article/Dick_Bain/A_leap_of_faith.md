@@ -66,7 +66,7 @@ Mon voyage avec _Le Livre d'Urantia_ a commencé par la curiosité, est passé p
 
 > Jésus insista beaucoup sur ce qu’il appelait les deux vérités de première importance dans les enseignements du royaume, à savoir : 
 > 
-> l’obtention du salut par la foi et la foi seule, associée à l’enseignement révolutionnaire de l’obtention de la liberté humaine par la récognition de la vérité. (<a id="a44_164"></a>[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6))
+> l’obtention du salut par la foi et la foi seule, associée à l’enseignement révolutionnaire de l’obtention de la liberté humaine par la récognition de la vérité. (<a id="a68_164"></a>[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6))
 
 ## Liens externes
 

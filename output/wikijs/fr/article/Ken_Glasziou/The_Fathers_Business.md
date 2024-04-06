@@ -42,7 +42,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 > 
 > Combien le serviteur infidèle muni d’un seul talent ressemble à tous les mortels égoïstes quand il reproche directement sa propre paresse à son Maitre. Quand un homme est confronté aux échecs qui proviennent de lui-même, combien il a tendance à les imputer aux autres, et bien souvent à ceux qui en sont le moins responsables !
 > 
-> Cette nuit-là, au moment où ses auditeurs allaient se reposer, Jésus leur dit : « Vous avez reçu libéralement la vérité du ciel ; vous devriez donc la donner libéralement et, par ce don, cette vérité se multipliera et annoncera la lumière croissante de la grâce qui sauve, dès le moment où vous la dispenserez. » (<a id="a23_316"></a>[LU 176:3.5-10](/fr/The_Urantia_Book/176#p3_5))
+> Cette nuit-là, au moment où ses auditeurs allaient se reposer, Jésus leur dit : « Vous avez reçu libéralement la vérité du ciel ; vous devriez donc la donner libéralement et, par ce don, cette vérité se multipliera et annoncera la lumière croissante de la grâce qui sauve, dès le moment où vous la dispenserez. » (<a id="a44_316"></a>[LU 176:3.5-10](/fr/The_Urantia_Book/176#p3_5))
 
 ## Liens externes
 

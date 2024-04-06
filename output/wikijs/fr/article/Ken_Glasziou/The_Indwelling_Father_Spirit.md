@@ -35,7 +35,7 @@ dateCreated: 2022-09-26T23:20:22.364Z
 
 
 
-L’Esprit-Père Résident – quelles sont ses fonctions ? (<a id="a13_55"></a>[LU 110:0.1](/fr/The_Urantia_Book/110#p0_1))
+L’Esprit-Père Résident – quelles sont ses fonctions ? (<a id="a37_55"></a>[LU 110:0.1](/fr/The_Urantia_Book/110#p0_1))
 
 La dévotion de l’Esprit intérieur envers l’individu est d’une sublime touchante, divinement semblable à celle du Père. Indirectement et méconnu, il communique constamment avec son sujet humain.
 
@@ -67,7 +67,7 @@ La coopération avec notre Esprit-Père n'est pas un processus particulièrement
 
 Nous ne devons pas confondre la mission et l’influence de notre Esprit-Dieu qui nous habite avec ce qu’on appelle communément la conscience. La conscience est une réaction humaine et purement psychique. Même s’il ne faut pas le mépriser, ce n’est pas vraiment la voix de Dieu pour l’âme. La conscience nous exhorte à juste titre à faire le bien ; mais l'Esprit intérieur s'efforce de nous dire ce qui est vraiment juste.
 
-> La motivation de la foi transforme en expérience la pleine réalisation de la filiation de l’homme avec Dieu, mais *l’action,* l’exécution des décisions, est essentielle pour atteindre, par évolution, la conscience de parenté progressive avec *l’actualisation cosmique* de l’Être Suprême. La foi transmue les potentiels en actuels dans le monde spirituel, mais les potentiels ne deviennent des actuels, dans les domaines finis du Suprême, que par la réalisation de l’expérience du choix et grâce à elle. Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d’appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d’agir plus efficacement. (<a id="a45_767"></a>[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
+> La motivation de la foi transforme en expérience la pleine réalisation de la filiation de l’homme avec Dieu, mais *l’action,* l’exécution des décisions, est essentielle pour atteindre, par évolution, la conscience de parenté progressive avec *l’actualisation cosmique* de l’Être Suprême. La foi transmue les potentiels en actuels dans le monde spirituel, mais les potentiels ne deviennent des actuels, dans les domaines finis du Suprême, que par la réalisation de l’expérience du choix et grâce à elle. Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d’appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d’agir plus efficacement. (<a id="a69_767"></a>[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
 
 ## Liens externes
 

@@ -44,13 +44,13 @@ La foi et l'expérience personnelle, et non la science ou même la qualité, son
 
 ## Tiré des Cahiers d'Urantia.
 
-> « Isoler une partie de la vie et l’appeler religion, c’est désintégrer la vie et défigurer la religion. » (<a id="a25_109"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
+> « Isoler une partie de la vie et l’appeler religion, c’est désintégrer la vie et défigurer la religion. » (<a id="a46_109"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
 
-> « Le plus grand péril spirituel pour les hommes est le progrès partiel, la situation fâcheuse d’une croissance inachevée : ... La science moderne, et surtout la psychologie, n’ont affaibli que les religions dépendant essentiellement de la peur, des superstitions et des émotions. » (<a id="a27_285"></a>[LU 99:4.8](/fr/The_Urantia_Book/99#p4_8))
+> « Le plus grand péril spirituel pour les hommes est le progrès partiel, la situation fâcheuse d’une croissance inachevée : ... La science moderne, et surtout la psychologie, n’ont affaibli que les religions dépendant essentiellement de la peur, des superstitions et des émotions. » (<a id="a48_285"></a>[LU 99:4.8](/fr/The_Urantia_Book/99#p4_8))
 
-> « L’élimination de la crainte religieuse par la philosophie et les progrès continus de la science contribuent sérieusement à la mortalité des faux dieux. Même si la disparition de ces déités, créées par les hommes, peut obscurcir momentanément la vision spirituelle, elle détruit, en fin de compte, l’ignorance et la superstition qui ont si longtemps voilé le Dieu vivant, le Dieu d’amour éternel. » (<a id="a29_403"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
+> « L’élimination de la crainte religieuse par la philosophie et les progrès continus de la science contribuent sérieusement à la mortalité des faux dieux. Même si la disparition de ces déités, créées par les hommes, peut obscurcir momentanément la vision spirituelle, elle détruit, en fin de compte, l’ignorance et la superstition qui ont si longtemps voilé le Dieu vivant, le Dieu d’amour éternel. » (<a id="a50_403"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
 
-> « Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. » (<a id="a31_162"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
+> « Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. » (<a id="a52_162"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
 
 ## Liens externes
 

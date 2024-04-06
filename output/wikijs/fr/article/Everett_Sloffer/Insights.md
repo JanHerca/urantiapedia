@@ -43,9 +43,9 @@ Le commentaire qui a fait cela était « Jésus recherchait la volonté du Père
 
 Le Livre d'Urantia nous dit que ce n'est pas vrai :
 
-> ... l’Esprit divin domine et contrôle toutes les phases de l’expérience humaine. (<a id="a21_84"></a>[LU 34:6.7](/fr/The_Urantia_Book/34#p6_7))
+> ... l’Esprit divin domine et contrôle toutes les phases de l’expérience humaine. (<a id="a45_84"></a>[LU 34:6.7](/fr/The_Urantia_Book/34#p6_7))
 
-> ...Jésus soumettre ses moindres désirs à la volonté de son Père céleste ... (<a id="a23_79"></a>[LU 139:4.9](/fr/The_Urantia_Book/139#p4_9))
+> ...Jésus soumettre ses moindres désirs à la volonté de son Père céleste ... (<a id="a47_79"></a>[LU 139:4.9](/fr/The_Urantia_Book/139#p4_9))
 
 Everett dit que ces déclarations impliquent trois choses :
 

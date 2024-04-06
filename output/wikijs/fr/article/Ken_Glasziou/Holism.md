@@ -35,7 +35,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 
 
-> « Chaque impulsion de chaque électron, pensée ou esprit est une unité active dans tout l’univers. ... L’univers est un tout : nulle chose, nul être n’existent ni ne vivent dans l’isolement. » (<a id="a13_195"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
+> « Chaque impulsion de chaque électron, pensée ou esprit est une unité active dans tout l’univers. ... L’univers est un tout : nulle chose, nul être n’existent ni ne vivent dans l’isolement. » (<a id="a37_195"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
 
 Dans les années 1930, cette affirmation était en avance de plusieurs décennies sur son temps. Seule une poignée de physiciens des particules auraient admis que cela pourrait être vrai.
 
@@ -75,11 +75,11 @@ Dans le schéma de Whitehead, la nature primordiale de Dieu est considérée com
 
 Les lecteurs du Livre d'Urantia pourraient noter les similitudes de la nature primordiale de Dieu avec des aspects de la divinité existentielle tels que présentés dans les fascicules d'Urantia et la nature conséquente de Dieu qui est immergé dans le monde ayant des similitudes avec le Dieu Suprême tel que décrit dans les fascicules.
 
-Dans le schéma de Whitehead, dans sa nature primordiale, Dieu a une vision de toutes les potentialités et un plan sur la manière dont chaque individu pourrait les utiliser au mieux pour sa croissance. Les Cahiers d'Urantia nous informent qu'« Il y a dans l'esprit de Dieu un plan qui embrasse chaque créature de tous ses vastes domaines » (<a id="a53_340"></a>[LU 32:5.7](/fr/The_Urantia_Book/32#p5_7)) et que nos Ajusteurs de Pensée établissent des plans pour nos carrières éternelles (<a id="a53_467"></a>[LU 107:7.3](/fr/The_Urantia_Book/107#p7_3)).
+Dans le schéma de Whitehead, dans sa nature primordiale, Dieu a une vision de toutes les potentialités et un plan sur la manière dont chaque individu pourrait les utiliser au mieux pour sa croissance. Les Cahiers d'Urantia nous informent qu'« Il y a dans l'esprit de Dieu un plan qui embrasse chaque créature de tous ses vastes domaines » (<a id="a77_340"></a>[LU 32:5.7](/fr/The_Urantia_Book/32#p5_7)) et que nos Ajusteurs de Pensée établissent des plans pour nos carrières éternelles (<a id="a77_467"></a>[LU 107:7.3](/fr/The_Urantia_Book/107#p7_3)).
 
 La description à la fois de la déité existentielle (déité transcendante) et de la déité expérientielle fournie dans les Cahiers d'Urantia semble être bien en avance sur tout ce qui est postulé par les théologiens du processus. Ce qui est encourageant est la convergence de leurs chemins, couplée à l’observation que tous deux offrent des alternatives rationnelles aux problèmes théologiques qui, dans le passé, n’avaient pas de solution.
 
-La philosophie des processus est holistique. Il perçoit les relations entre les entités primaires, mais transitoires, comme étant la base de toute réalité et croissance, et de toutes choses qui s’influencent mutuellement. Notre citation d'ouverture de <a id="a57_252"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14) établit que les Cahiers d'Urantia proposent également une vision holistique de la réalité.
+La philosophie des processus est holistique. Il perçoit les relations entre les entités primaires, mais transitoires, comme étant la base de toute réalité et croissance, et de toutes choses qui s’influencent mutuellement. Notre citation d'ouverture de <a id="a81_252"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14) établit que les Cahiers d'Urantia proposent également une vision holistique de la réalité.
 
 > On ne peut pas entrer deux fois dans la même rivière.
 > &nbsp; &nbsp; &nbsp; _Héraclite_

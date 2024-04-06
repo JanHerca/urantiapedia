@@ -36,7 +36,7 @@ La prière éclairée doit reconnaître non seulement un Dieu externe et personn
 
 Aucune prière ne peut être éthique lorsque le pétitionnaire recherche un avantage égoïste sur ses semblables. La prière égoïste et matérialiste est incompatible avec les religions éthiques fondées sur l'amour désintéressé et divin. Toutes ces prières contraires à l’éthique reviennent aux niveaux primitifs de la pseudo-magie et sont indignes des civilisations avancées et des religions éclairées. La prière égoïste transgresse l’esprit de toute éthique fondée sur la justice aimante.
 
-La prière a toujours été et sera toujours une double expérience humaine : une procédure psychologique associée à une technique spirituelle. Et ces deux fonctions de la prière ne peuvent jamais être complètement séparées. (<a id="a17_222"></a>[LU 91:3.6](/fr/The_Urantia_Book/91#p3_6))
+La prière a toujours été et sera toujours une double expérience humaine : une procédure psychologique associée à une technique spirituelle. Et ces deux fonctions de la prière ne peuvent jamais être complètement séparées. (<a id="a38_222"></a>[LU 91:3.6](/fr/The_Urantia_Book/91#p3_6))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/milky_way.jpg">

@@ -69,7 +69,7 @@ Au niveau macro, notre monde semble solide, prévisible et fiable. Mais juste so
 
 En effet, nous avons la chance de vivre en ces temps passionnants dans lesquels notre monde peut avoir un sens, Dieu est devenu à la fois une possibilité et une probabilité, et nous pouvons savoir avec certitude que nous avons le libre arbitre pour laisser une marque sur l'avenir de notre avenir. 
 
-> Quand l’homme recherche la vérité, il poursuit ce qui est divinement réel. (<a id="a47_78"></a>[LU 2:7.4](/fr/The_Urantia_Book/2#p7_4))
+> Quand l’homme recherche la vérité, il poursuit ce qui est divinement réel. (<a id="a71_78"></a>[LU 2:7.4](/fr/The_Urantia_Book/2#p7_4))
 
 ## Liens externes
 

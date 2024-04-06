@@ -47,11 +47,11 @@ dateCreated: 2022-9-9T8:13:39Z
 > 9. Elle vit et triomphe indépendamment du fardeau écrasant des civilisations complexes et partielles des temps modernes.
 > 10. Elle contribue à la survivance continue de l’altruisme en dépit de l’égoïsme humain, des antagonismes sociaux, des convoitises industrielles et des dérèglements politiques.
 > 11. Elle adhère fermement à une croyance sublime à l’unité de l’univers et à la gouverne divine, sans se préoccuper de la présence troublante du mal et du péché.
-> 12. Elle continue imperturbablement à adorer Dieu en dépit de tout, et quoi qu’il arrive. Elle ose déclarer : « Même s’il m’immole, je le servirai. » (<a id="a25_153"></a>[LU 101:3.4-16](/fr/The_Urantia_Book/101#p3_4))
+> 12. Elle continue imperturbablement à adorer Dieu en dépit de tout, et quoi qu’il arrive. Elle ose déclarer : « Même s’il m’immole, je le servirai. » (<a id="a49_153"></a>[LU 101:3.4-16](/fr/The_Urantia_Book/101#p3_4))
 
-> 5. Ce nouvel évangile présentait l’aboutissement spirituel comme le vrai but de la vie. (<a id="a27_91"></a>[LU 170:2.6](/fr/The_Urantia_Book/170#p2_6))
+> 5. Ce nouvel évangile présentait l’aboutissement spirituel comme le vrai but de la vie. (<a id="a51_91"></a>[LU 170:2.6](/fr/The_Urantia_Book/170#p2_6))
 
-> Dans la science, le moi humain observe le monde matériel ; la philosophie est l’observation de cette observation du monde matériel ; la religion, la vraie expérience spirituelle, est la réalisation expérientielle de la réalité cosmique de l’observation de l’observation ... (<a id="a29_277"></a>[LU 112:2.12](/fr/The_Urantia_Book/112#p2_12))
+> Dans la science, le moi humain observe le monde matériel ; la philosophie est l’observation de cette observation du monde matériel ; la religion, la vraie expérience spirituelle, est la réalisation expérientielle de la réalité cosmique de l’observation de l’observation ... (<a id="a53_277"></a>[LU 112:2.12](/fr/The_Urantia_Book/112#p2_12))
 
 ## Liens externes
 

@@ -47,7 +47,7 @@ Apparemment, les sources de ce matériau provenaient d’ailleurs que de cette p
 
 ## 1. Sources d'erreur possibles. Ne pas répondre à l'irréponse.
 
-À l’insu des questionneurs, leur intention déclarée de poser des questions auxquelles aucun humain ne pouvait répondre était en conflit avec une « règle universelle en matière de révélation qui proscrit la fourniture de connaissances non acquises ». (<a id="a28_251"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1))
+À l’insu des questionneurs, leur intention déclarée de poser des questions auxquelles aucun humain ne pouvait répondre était en conflit avec une « règle universelle en matière de révélation qui proscrit la fourniture de connaissances non acquises ». (<a id="a49_251"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1))
 
 Comme indiqué précédemment, poser de telles questions dans le but proposé a placé les auteurs sources dans un dilemme. Ils étaient testés. Admettre la véracité de leurs affirmations comme étant d’origine céleste, présenter une excuse pour expliquer pourquoi ils ne pouvaient pas répondre engendrerait presque certainement la conclusion que leurs affirmations étaient fausses – et cela annulerait leurs quinze à vingt années précédentes de travail préparatoire. Mais s’ils s’y conformaient, ils seraient obligés d’enfreindre ce qui, pour eux, était une règle inviolable de l’univers.
 
@@ -135,7 +135,7 @@ Les vérités contenues dans ces fascicules exigent beaucoup. Porter le fruit de
 
 « Quel service transcendant si, grâce à cette révélation, le Fils de l’homme devait être récupéré du tombeau de la théologie traditionnelle et présenté comme Jésus vivant à l’Église qui porte son nom et à toutes les autres religions. » Comment??
 
-> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin **de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels** nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. » (<a id="a116_302"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin **de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels** nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. » (<a id="a137_302"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 Nous avons les papiers – et l’obligation.
 

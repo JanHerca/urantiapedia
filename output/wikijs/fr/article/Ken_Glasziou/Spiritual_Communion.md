@@ -48,7 +48,7 @@ Jésus a balayé tous les cérémoniaux de sacrifice et d'expiation. Il a détru
 
 Dieu, le Père, traite l’homme, son enfant, non pas sur la base de vertus ou de mérites réels, mais en reconnaissance de la motivation de l’enfant – le but et l’intention de la créature. La relation est une relation d’association parent-enfant et est motivée par l’amour divin.
 
-> L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. (<a id="a29_185"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
+> L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. (<a id="a50_185"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
 
 ## Liens externes
 

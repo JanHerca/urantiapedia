@@ -73,11 +73,11 @@ Mais aux yeux de son Père céleste, il avait mérité sa place de Maître Fils 
 
 ## Objectifs et motivations post-baptêmes
 
-> « Il n’y avait qu’*une seule* motivation dans la vie de Jésus sur Urantia après son baptême, c’était d’apporter une révélation meilleure et plus véridique de son Père du Paradis ; » (<a id="a51_185"></a>[LU 138:6.4](/fr/The_Urantia_Book/138#p6_4))
+> « Il n’y avait qu’*une seule* motivation dans la vie de Jésus sur Urantia après son baptême, c’était d’apporter une révélation meilleure et plus véridique de son Père du Paradis ; » (<a id="a75_185"></a>[LU 138:6.4](/fr/The_Urantia_Book/138#p6_4))
 
 La vie de Jésus est un modèle de vie divinement certifié pour tous ses enfants de l’univers. À ses partisans, il a dit :
 
-> « Ne pouvez-vous percevoir que je vous ai appelés comme ambassadeurs d’un royaume spirituel ? Ne comprenez-vous pas que bientôt, très bientôt, vous aurez à me représenter dans le monde et à proclamer le royaume, de même que je représente maintenant mon Père qui est aux cieux ? » (<a id="a55_283"></a>[LU 138:7.1](/fr/The_Urantia_Book/138#p7_1))
+> « Ne pouvez-vous percevoir que je vous ai appelés comme ambassadeurs d’un royaume spirituel ? Ne comprenez-vous pas que bientôt, très bientôt, vous aurez à me représenter dans le monde et à proclamer le royaume, de même que je représente maintenant mon Père qui est aux cieux ? » (<a id="a79_283"></a>[LU 138:7.1](/fr/The_Urantia_Book/138#p7_1))
 
 Jésus n’a fait aucun compromis en nous instruisant sur la motivation de notre vie mortelle. Sa motivation est d'être notre motivation, nos vies terrestres doivent le représenter comme il a représenté le Père, nous devons imiter les buts et les objectifs de sa vie - tout comme il l'a fait - en essayant d'être réellement, dans nos activités quotidiennes, une révélation de la vraie nature de Dieu, notre Père. Rien de moins n’est permis.
 

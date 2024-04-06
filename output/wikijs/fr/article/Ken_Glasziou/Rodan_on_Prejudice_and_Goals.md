@@ -51,7 +51,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > Toutes les philosophies et religions ayant des idéaux inférieurs à ceux-là sont immatures.
 > 
-> La philosophie que j’enseigne, liée à l’évangile que vous prêchez, représente la nouvelle religion de la maturité, l’idéal de toutes les générations futures. Et cela est vrai parce que notre idéal est définitif, infaillible, éternel, universel, absolu et infini. (<a id="a29_266"></a>[LU 160:1.13](/fr/The_Urantia_Book/160#p1_13))
+> La philosophie que j’enseigne, liée à l’évangile que vous prêchez, représente la nouvelle religion de la maturité, l’idéal de toutes les générations futures. Et cela est vrai parce que notre idéal est définitif, infaillible, éternel, universel, absolu et infini. (<a id="a53_266"></a>[LU 160:1.13](/fr/The_Urantia_Book/160#p1_13))
 
 > La gentillesse est l'arôme de convivialité qui émane d'une âme saturée d'amour.
 

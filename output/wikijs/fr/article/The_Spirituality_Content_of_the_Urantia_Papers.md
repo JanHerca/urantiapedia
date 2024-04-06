@@ -35,7 +35,7 @@ Il ne fait plus guère de doute que les révélateurs l’avaient prévu. Tout a
 
 Il en est ainsi dans les faits, comme le montrent :
 
-> « Même chez les candidats à la fusion avec l’Ajusteur, seules les expériences humaines qui présentaient une valeur spirituelle sont la propriété commune du mortel survivant et de l’Ajusteur revenu, et sont donc immédiatement remémorées après la survie du mortel. » (<a id="a19_268"></a>[LU 40:9.7](/fr/The_Urantia_Book/40#p9_7))
+> « Même chez les candidats à la fusion avec l’Ajusteur, seules les expériences humaines qui présentaient une valeur spirituelle sont la propriété commune du mortel survivant et de l’Ajusteur revenu, et sont donc immédiatement remémorées après la survie du mortel. » (<a id="a37_268"></a>[LU 40:9.7](/fr/The_Urantia_Book/40#p9_7))
 
 
 
@@ -43,13 +43,13 @@ Il en est ainsi dans les faits, comme le montrent :
 
 Malgré un grand nombre de références à la « spiritualité » et à la « valeur spirituelle » dans les Fascicules d'Urantia, nulle part ces Fascicules ne fournissent une définition exacte de ces termes. Parmi les meilleurs qui nous sont proposés, citons :
 
-« *Tout ce que nous faisons de bien contribue à l'amélioration de l'au-delà* », combiné à des déclarations telles que « *seules les expériences humaines de valeur spirituelle* » survivent – « *votre vie passée et ses souvenirs n'ont ni signification spirituelle ni valeur morontielle, périra avec le cerveau matériel* » (<a id="a27_321"></a>[LU 112:5.22](/fr/The_Urantia_Book/112#p5_22)).
+« *Tout ce que nous faisons de bien contribue à l'amélioration de l'au-delà* », combiné à des déclarations telles que « *seules les expériences humaines de valeur spirituelle* » survivent – « *votre vie passée et ses souvenirs n'ont ni signification spirituelle ni valeur morontielle, périra avec le cerveau matériel* » (<a id="a45_321"></a>[LU 112:5.22](/fr/The_Urantia_Book/112#p5_22)).
 
 Ainsi, nous pouvons considérer que la valeur spirituelle signifie « ce qui est bon ». D'autres déclarations pertinentes sont :
 
-> La spiritualité indique immédiatement votre proximité de Dieu et la mesure de votre utilité pour vos compagnons. La spiritualité rehausse l’aptitude à découvrir la beauté dans les choses, à reconnaitre la vérité dans les significations et à trouver la bonté dans les valeurs. Le développement spirituel est déterminé par cette capacité et il est directement proportionnel à l’élimination des aspects égoïstes de l’amour. (<a id="a31_424"></a>[LU 100:2.4](/fr/The_Urantia_Book/100#p2_4))
+> La spiritualité indique immédiatement votre proximité de Dieu et la mesure de votre utilité pour vos compagnons. La spiritualité rehausse l’aptitude à découvrir la beauté dans les choses, à reconnaitre la vérité dans les significations et à trouver la bonté dans les valeurs. Le développement spirituel est déterminé par cette capacité et il est directement proportionnel à l’élimination des aspects égoïstes de l’amour. (<a id="a49_424"></a>[LU 100:2.4](/fr/The_Urantia_Book/100#p2_4))
 
-> Le statut spirituel effectif est la mesure de l’aboutissement à la Déité, l’harmonisation avec l’Ajusteur. Accomplir la finalité de la spiritualité équivaut à atteindre le summum de la réalité, le maximum de ressemblance avec Dieu. La vie éternelle est la recherche perpétuelle des valeurs infinies. (<a id="a33_303"></a>[LU 100:2.5](/fr/The_Urantia_Book/100#p2_5))
+> Le statut spirituel effectif est la mesure de l’aboutissement à la Déité, l’harmonisation avec l’Ajusteur. Accomplir la finalité de la spiritualité équivaut à atteindre le summum de la réalité, le maximum de ressemblance avec Dieu. La vie éternelle est la recherche perpétuelle des valeurs infinies. (<a id="a51_303"></a>[LU 100:2.5](/fr/The_Urantia_Book/100#p2_5))
 
 D’où nous concluons : la spiritualité est ce qu’est Dieu – et elle est mesurable par notre proximité avec Dieu, notre ressemblance avec Dieu.
 
@@ -192,7 +192,7 @@ Dieu, le Père, est le dispensateur et le conservateur de chaque personnalité. 
 
 Dieu est personnellement conscient et en contact personnel avec toutes les personnalités de tous les niveaux d'existence consciente de soi - et cette conscience est indépendante de la mission de l'Esprit-Dieu-intérieur.
 
-> « Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. L’homme peut aussi mieux comprendre la nature divine s’il se considère comme un enfant de Dieu et s’il vénère le Créateur du Paradis comme un vrai Père spirituel. » (<a id="a176_366"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
+> « Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. L’homme peut aussi mieux comprendre la nature divine s’il se considère comme un enfant de Dieu et s’il vénère le Créateur du Paradis comme un vrai Père spirituel. » (<a id="a194_366"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
 
 
 

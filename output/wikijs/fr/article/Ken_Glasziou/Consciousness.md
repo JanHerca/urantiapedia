@@ -51,9 +51,9 @@ La logique déterministe suppose que la vie est inévitable, une conséquence sp
 
 Le déterminisme insiste sur le fait que l’esprit, le libre arbitre et la conscience, tout en étant des phénomènes émergents naturellement, naissent néanmoins des illusions d’âmes pleines d’espoir. Le monde déterministe n’a ni place pour Dieu, ni pour un but.
 
-> Les machines ne motivent pas leur vie par la passion de servir d’autres machines et de choisir, pour but de progression éternelle, la tâche sublime de trouver Dieu et de s’efforcer de lui ressembler. Les machines ne sont jamais intellectuelles, émotives, esthétiques, éthiques, morales, ni spirituelles. (<a id="a29_307"></a>[LU 195:7.14](/fr/The_Urantia_Book/195#p7_14))
+> Les machines ne motivent pas leur vie par la passion de servir d’autres machines et de choisir, pour but de progression éternelle, la tâche sublime de trouver Dieu et de s’efforcer de lui ressembler. Les machines ne sont jamais intellectuelles, émotives, esthétiques, éthiques, morales, ni spirituelles. (<a id="a53_307"></a>[LU 195:7.14](/fr/The_Urantia_Book/195#p7_14))
 
-> L’univers fini de la matière deviendrait finalement uniforme et déterministe s’il n’y avait pas la présence conjuguée du mental et de l’esprit. L’influence du mental cosmique injecte constamment de la spontanéité, même dans les mondes matériels. (<a id="a31_249"></a>[LU 195:6.15](/fr/The_Urantia_Book/195#p6_15))
+> L’univers fini de la matière deviendrait finalement uniforme et déterministe s’il n’y avait pas la présence conjuguée du mental et de l’esprit. L’influence du mental cosmique injecte constamment de la spontanéité, même dans les mondes matériels. (<a id="a55_249"></a>[LU 195:6.15](/fr/The_Urantia_Book/195#p6_15))
 
 ## Le déterminisme mis à mal
 
@@ -106,7 +106,7 @@ Arthur J. Deikman de l'Université de Californie estime qu'il existe un « je »
 
 > La science doit toujours être fondée sur la raison. La religion dépend toujours de la foi.
 
-> Sans l’aide de la mota, la foi et la raison ne peuvent ni concevoir ni construire un univers logique. (<a id="a84_105"></a>[LU 103:6.13](/fr/The_Urantia_Book/103#p6_13))
+> Sans l’aide de la mota, la foi et la raison ne peuvent ni concevoir ni construire un univers logique. (<a id="a108_105"></a>[LU 103:6.13](/fr/The_Urantia_Book/103#p6_13))
 
 ## Sur la création d'un Android
 
@@ -138,9 +138,9 @@ Les lecteurs doivent être conscients que les personnes intéressées par ces ph
 
 Un autre physicien quantique, Amit Goswami[^4] considère qu'il doit y avoir une sorte de système quantique cohérent dans le cerveau du type décrit par Hameroff et Penrose qui interagirait avec ce qu'il appelle la « conscience universelle » – dont la conscience humaine est vraiment un élément constitutif. L’interaction des deux médiatise « l’auto-réduction du système cohérent » et amène ainsi le système dans un état de réalité tel que peut le décrire la physique classique. Cette « auto-réduction » est un cas particulier de ce qui est plus communément décrit comme l’effondrement de la fonction d’onde de Schrödinger.
 
-> La conscience de soi inclut l’aptitude à reconnaitre la réalité d’autres personnalités. (<a id="a116_91"></a>[LU 16:8.6](/fr/The_Urantia_Book/16#p8_6))
+> La conscience de soi inclut l’aptitude à reconnaitre la réalité d’autres personnalités. (<a id="a140_91"></a>[LU 16:8.6](/fr/The_Urantia_Book/16#p8_6))
 
-> La conscience de soi consiste à se rendre compte intellectuellement de l’actualité de la personnalité. (<a id="a118_106"></a>[LU 16:8.6](/fr/The_Urantia_Book/16#p8_6))
+> La conscience de soi consiste à se rendre compte intellectuellement de l’actualité de la personnalité. (<a id="a142_106"></a>[LU 16:8.6](/fr/The_Urantia_Book/16#p8_6))
 
 ## Qu'y a-t-il dans la baignoire ?
 
@@ -148,27 +148,27 @@ Ce qui a été décrit ci-dessus n'est pas très éloigné de ce qui peut être 
 
 _Le Livre d'Urantia_ décrit une structure hiérarchique qui a l'Esprit Infini à son sommet. De là, « l’esprit cosmique » est acheminé vers les sept Maîtres Esprits qui sont au centre de l’esprit cosmique alors qu’il est distribué aux superunivers.
 
-L’esprit humain est la dotation de l’Esprit Mère de l’Univers, à la fois directement et via les sept Esprits Mentaux Adjudants. « _La Conscience_ », nous dit le livre, « _repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent. Au cours de sa vie de mortel, l’être humain n’est jamais complètement conscient d’aucun de ces deux systèmes, et c’est pourquoi il lui faut travailler dans le mental dont il est conscient._ » (<a id="a126_505"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
+L’esprit humain est la dotation de l’Esprit Mère de l’Univers, à la fois directement et via les sept Esprits Mentaux Adjudants. « _La Conscience_ », nous dit le livre, « _repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent. Au cours de sa vie de mortel, l’être humain n’est jamais complètement conscient d’aucun de ces deux systèmes, et c’est pourquoi il lui faut travailler dans le mental dont il est conscient._ » (<a id="a150_505"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
 
 L’intérêt des physiciens pour la conscience est naturellement orienté vers ce qui peut être observé et mesuré, alors que l’accent mis dans le Livre d’Urantia penche fortement vers la relation avec les significations et les valeurs cosmiques. Le physicien considère également de nombreux aspects de l’esprit comme appartenant au monde matériel décrit par la physique classique et se tourne vers la « conscience » pour trouver un lien avec le monde quantique. _Le Livre d'Urantia_ est en accord partiel :
 
-> « Chez les êtres en activité, le mental n’est pas séparé de l’énergie ou de l’esprit, ou des deux. Le mental n’est pas inhérent à l’énergie ; l’énergie est réceptive et réactive au mental. Le mental peut se surimposer à l’énergie, mais la conscience n’est pas inhérente au niveau purement matériel. » (<a id="a130_304"></a>[LU 9:4.2](/fr/The_Urantia_Book/9#p4_2))
+> « Chez les êtres en activité, le mental n’est pas séparé de l’énergie ou de l’esprit, ou des deux. Le mental n’est pas inhérent à l’énergie ; l’énergie est réceptive et réactive au mental. Le mental peut se surimposer à l’énergie, mais la conscience n’est pas inhérente au niveau purement matériel. » (<a id="a154_304"></a>[LU 9:4.2](/fr/The_Urantia_Book/9#p4_2))
 
 _Le Livre d'Urantia_ exprime également des points de vue qui ont des affinités avec ceux d'Arthur J. Deikman mentionné plus tôt :
 
-> « La conscience humaine du moi implique la récognition de la réalité d’autres moi que ce moi conscient et implique en plus qu’une telle conscience soit mutuelle ; que le moi soit connu aussi bien qu’il connait. » (<a id="a134_216"></a>[LU 16:9.4](/fr/The_Urantia_Book/16#p9_4))
+> « La conscience humaine du moi implique la récognition de la réalité d’autres moi que ce moi conscient et implique en plus qu’une telle conscience soit mutuelle ; que le moi soit connu aussi bien qu’il connait. » (<a id="a158_216"></a>[LU 16:9.4](/fr/The_Urantia_Book/16#p9_4))
 
 Du point de vue des religieux, l’abandon du matérialisme et du déterminisme qui a été catalysé par les mystères de la physique quantique est un changement bienvenu, d’autant plus que, au premier plan, se trouvent certains des intellectuels les plus remarquables du monde universitaire.
 
 ## Un nouveau jour se lève
 
-Il y a plus de soixante ans, les révélateurs du _Livre d'Urantia_ écrivaient : « _À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs._ » (<a id="a140_465"></a>[LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
+Il y a plus de soixante ans, les révélateurs du _Livre d'Urantia_ écrivaient : « _À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs._ » (<a id="a164_465"></a>[LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
 
 Aujourd’hui, ce ne sont pas seulement les physiciens quantiques qui ont abandonné le matérialisme et le déterminisme. Ils sont désormais rejoints par des philosophes, des psychologues, des neurophysiologistes, des biochimistes et bien d’autres. Un nouveau jour s’est sûrement levé.
 
-> La conscience, et encore bien moins la conscience de soi, ne peut être expliquée par aucune théorie d’association électronique mécanique, ni par aucun phénomène d’énergie matérialiste. (<a id="a144_188"></a>[LU 112:2.10](/fr/The_Urantia_Book/112#p2_10))
+> La conscience, et encore bien moins la conscience de soi, ne peut être expliquée par aucune théorie d’association électronique mécanique, ni par aucun phénomène d’énergie matérialiste. (<a id="a168_188"></a>[LU 112:2.10](/fr/The_Urantia_Book/112#p2_10))
 
-> À mesure que le mental poursuit l’analyse ultime de la réalité, la matière échappe aux sens matériels, mais peut encore rester réelle pour le mental. ... (<a id="a146_157"></a>[LU 112:2.11](/fr/The_Urantia_Book/112#p2_11))
+> À mesure que le mental poursuit l’analyse ultime de la réalité, la matière échappe aux sens matériels, mais peut encore rester réelle pour le mental. ... (<a id="a170_157"></a>[LU 112:2.11](/fr/The_Urantia_Book/112#p2_11))
 
 ## Liens externes
 

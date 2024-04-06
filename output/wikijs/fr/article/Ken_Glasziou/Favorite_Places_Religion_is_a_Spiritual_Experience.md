@@ -56,7 +56,7 @@ En réponse à une question de Nathaniel, Jésus a fourni aux apôtres une instr
 >
 > « Le mortel conscient de Dieu est certain d’être sauvé ; il ne craint pas la vie ; il est loyal et conséquent. Il sait comment supporter courageusement les souffrances inévitables et ne se plaint pas quand il doit affronter des épreuves inéluctables. »
 >
-> « Le vrai croyant ne se lasse pas de bien faire, simplement parce qu’il est contrecarré. Les difficultés fouettent l’ardeur des amants de la vérité et les obstacles ne font que mettre au défi les efforts des intrépides bâtisseurs du royaume. » (<a id="a37_247"></a>[LU 156:5.10-21](/fr/The_Urantia_Book/156#p5_10))
+> « Le vrai croyant ne se lasse pas de bien faire, simplement parce qu’il est contrecarré. Les difficultés fouettent l’ardeur des amants de la vérité et les obstacles ne font que mettre au défi les efforts des intrépides bâtisseurs du royaume. » (<a id="a58_247"></a>[LU 156:5.10-21](/fr/The_Urantia_Book/156#p5_10))
 
 ## Liens externes
 

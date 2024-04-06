@@ -115,7 +115,7 @@ Les enquêtes approfondies menées par Gardner et d’autres n’ont pas non plu
 
 La principale conclusion tirée de cette analyse est que de nombreux auteurs non identifiés sont responsables de la rédaction des Cahiers d'Urantia. L’analyse statistique ne peut rien pour confirmer ou infirmer une origine révélatrice. Personnellement, je crois que j'ai l'aide des forces spirituelles si souvent mentionnées dans les journaux – l'esprit intérieur du Père et l'Esprit de Vérité – pour m'aider dans ma prise de décision. Mais quel que soit le degré d’autorité que nous attribuons aux Fascicules, il n’en demeure pas moins que ces Fascicules d’Urantia constituent une contribution vraiment remarquable à notre littérature religieuse. Encore une fois, d’un point de vue personnel, leur valeur dépasse de loin tout ce qui est disponible pour l’humanité.
 
-L’une des déclarations les plus profondes des Cahiers d’Urantia est : « Jésus a vécu une vie qui est une révélation de l’homme soumis à la volonté du Père. » (<a id="a96_159"></a>[LU 194:2.8](/fr/The_Urantia_Book/194#p2_8))
+L’une des déclarations les plus profondes des Cahiers d’Urantia est : « Jésus a vécu une vie qui est une révélation de l’homme soumis à la volonté du Père. » (<a id="a117_159"></a>[LU 194:2.8](/fr/The_Urantia_Book/194#p2_8))
 
 Ceux qui comprennent toute la signification de ces mots n’ont besoin de rien de plus.
 

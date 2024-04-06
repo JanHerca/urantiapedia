@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 Il existe une interprétation alternative et tout à fait différente de la polémique des 48 chromosomes. Dans le cas présent, nous acceptons simplement que les auteurs ont suivi leur mandat à la lettre. Par conséquent, même s’ils auraient dû savoir que deux de nos chromosomes avaient fusionné pour porter le nombre à 46, ils se sont conformés à la règle selon laquelle ils n’étaient pas autorisés à nous donner des connaissances non acquises (sauf dans des circonstances particulières), et ils sont donc restés avec le puis décompte actuel de 48.
 
-Dans son article intitulé « Intolérance » dans le numéro précédent d'Innerface, Ann Bendall a commenté : « Lorsqu'il s'agit d'intolérance envers les croyances religieuses d'un autre groupe, il est intéressant que le Livre d'Urantia affirme : « C’est seulement avec la religion révélée qu’apparurent les égotismes théologiques autocratiques et intolérants._” (<a id="a15_359"></a>[LU 92:7.2](/fr/The_Urantia_Book/92#p7_2))
+Dans son article intitulé « Intolérance » dans le numéro précédent d'Innerface, Ann Bendall a commenté : « Lorsqu'il s'agit d'intolérance envers les croyances religieuses d'un autre groupe, il est intéressant que le Livre d'Urantia affirme : « C’est seulement avec la religion révélée qu’apparurent les égotismes théologiques autocratiques et intolérants._” (<a id="a36_359"></a>[LU 92:7.2](/fr/The_Urantia_Book/92#p7_2))
 
 Les révélateurs inféraient sûrement qu'un égoïsme théologique autocratique et intolérant ferait inévitablement son apparition parmi les lecteurs du _Livre d'Urantia_.
 
@@ -44,7 +44,7 @@ Interrogés à ce sujet, ces fondamentalistes bibliques déclareront que les pre
 
 Les révélateurs devaient savoir que des choses similaires pouvaient se produire avec l'interprétation des matériaux contenus dans _Le Livre d'Urantia_. Une façon possible d’éviter que le fondamentalisme ne domine le cours futur des événements avec le livre était simplement de parfois prendre le mandat au pied de la lettre et d’utiliser les sources humaines exactement telles qu’elles ont été écrites.
 
-Le fait que nous devons réfléchir profondément sur la façon dont nous pensons au _Livre d'Urantia_ est indiqué par : « La révélation est évolutionnaire, mais toujours progressive... Si la révélation doit exalter et élever par étapes les religions d’évolution... (elle) doit décrire les enseignements pas trop. très éloigné des **pensées et réactions** de l'époque dans laquelle elles sont présentées... La religion de la révélation doit toujours être limitée par la **capacité de réceptivité de l'homme.**" (<a id="a25_508"></a>[LU 92:4.1](/fr/The_Urantia_Book/92#p4_1))
+Le fait que nous devons réfléchir profondément sur la façon dont nous pensons au _Livre d'Urantia_ est indiqué par : « La révélation est évolutionnaire, mais toujours progressive... Si la révélation doit exalter et élever par étapes les religions d’évolution... (elle) doit décrire les enseignements pas trop. très éloigné des **pensées et réactions** de l'époque dans laquelle elles sont présentées... La religion de la révélation doit toujours être limitée par la **capacité de réceptivité de l'homme.**" (<a id="a46_508"></a>[LU 92:4.1](/fr/The_Urantia_Book/92#p4_1))
 
 Il faut également se méfier des changements possibles dans le sens des mots au cours de l’évolution du langage. Par exemple, le mot « cosmologie » est utilisé dans le livre d’une manière très différente de son usage actuel, et d’une manière qui change radicalement le sens de nombreuses affirmations dans lesquelles il apparaît.
 
@@ -56,7 +56,7 @@ Si nous considérons « non inspiré » comme signifiant « sans autorité céle
 
 Les auteurs laissent au lecteur le soin de déterminer ce qui, pour eux, est « inspiré » de la simple « cosmologie » et ce qui ne l’est pas.
 
-Ce n’est vraiment pas si difficile une fois que nous avons débarrassé notre esprit de nos idées préconçues de type fondamentaliste. Et si nous nous trompons, c’est notre faute, pas celle des révélateurs. Ils nous ont donné un avertissement spécifique. (<a id="a37_253"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
+Ce n’est vraiment pas si difficile une fois que nous avons débarrassé notre esprit de nos idées préconçues de type fondamentaliste. Et si nous nous trompons, c’est notre faute, pas celle des révélateurs. Ils nous ont donné un avertissement spécifique. (<a id="a58_253"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
 
 ## Liens externes
 

@@ -35,11 +35,11 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
-_Le Livre d'Urantia_ déclare « _Dans le superunivers d'Orvonton, il y a cent octaves d'énergie ondulatoire_ » (<a id="a13_111"></a>[LU 42:5.1](/fr/The_Urantia_Book/42#p5_1)).
+_Le Livre d'Urantia_ déclare « _Dans le superunivers d'Orvonton, il y a cent octaves d'énergie ondulatoire_ » (<a id="a37_111"></a>[LU 42:5.1](/fr/The_Urantia_Book/42#p5_1)).
 
 Pour ceux qui sont perplexes face à cette déclaration, Frederick écrit : Je crois que le texte du _Livre d'Urantia_ doit être interprété comme écrit. Si cela est fait, alors ce texte est correct. Si ce n’est pas le cas, alors ce texte est manifestement incorrect.
 
-_Le Livre d'Urantia_ dit : « Les rayons du soleil constituent quatre octaves dans l’échelle superuniverselle. Les rayons visibles embrassent seulement une octave qui porte le numéro quarante-six de cette série. » (<a id="a17_214"></a>[LU 42:5.1](/fr/The_Urantia_Book/42#p5_1))
+_Le Livre d'Urantia_ dit : « Les rayons du soleil constituent quatre octaves dans l’échelle superuniverselle. Les rayons visibles embrassent seulement une octave qui porte le numéro quarante-six de cette série. » (<a id="a41_214"></a>[LU 42:5.1](/fr/The_Urantia_Book/42#p5_1))
 
 Si la lumière est la 46e octave de l'énergie des vagues et que la longueur d'onde centrale de la lumière visible est d'environ 500 nm, alors la longueur d'onde centrale de la première octave est égale à 2 puissance 46 (2^46^) fois la longueur d'onde de l'onde. 46ème octave. Cette longueur d'onde est de 7,03 x 10^13^ fois 500 x 10^-9^, soit 35,18 x 10^6^ m. La fréquence correspondant à cette longueur d'onde est de 2,9979 x 10^8^ (la vitesse de la lumière en m/s) divisée par 35,18 x 10^6^ ou 8,52 Hz. De toute évidence, il existe de l'énergie des vagues à des fréquences inférieures aux deux tiers de 8,52 = 5,67 Hz, la limite de fréquence inférieure de la première octave. Des mesures physiques ont été effectuées sur les phénomènes d'énergie des vagues à des fréquences inférieures à 6 cycles par seconde.
 

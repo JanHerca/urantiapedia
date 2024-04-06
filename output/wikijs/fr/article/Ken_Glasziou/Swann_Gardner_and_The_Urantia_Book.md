@@ -37,11 +37,11 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Dans le numéro précédent d’Innerface, nous avons présenté un récit de la révélation ahurissante par Stefan Tallqvist de deux « prophéties » assez étonnantes qui sont restées inconnues dans _Le Livre d’Urantia_ jusqu’à ce qu’elles soient mises à la lumière du jour par Stefan.
 
-Nous avons exprimé notre conviction que cette nouvelle information est inexplicable en termes de paternité humaine du livre, qui doit sûrement être attribuée à une origine surhumaine. Nous examinons maintenant en détail le matériel source humain réel qui a été modifié afin de révéler ce que le livre appelle les informations « manquantes ». (<a id="a15_343"></a>[LU 101:4.9](/fr/The_Urantia_Book/101#p4_9)) Tout d'abord, nous comparons la déclaration du Livre d'Urantia relative au rayon de l'électron avec le travail source du physicien W.F.G. Swann.
+Nous avons exprimé notre conviction que cette nouvelle information est inexplicable en termes de paternité humaine du livre, qui doit sûrement être attribuée à une origine surhumaine. Nous examinons maintenant en détail le matériel source humain réel qui a été modifié afin de révéler ce que le livre appelle les informations « manquantes ». (<a id="a39_343"></a>[LU 101:4.9](/fr/The_Urantia_Book/101#p4_9)) Tout d'abord, nous comparons la déclaration du Livre d'Urantia relative au rayon de l'électron avec le travail source du physicien W.F.G. Swann.
 
 De Swann dans _L'Architecture de l'Univers_. (1934) : « _La masse de l’électron est si petite que si vous grossissiez toutes les masses de manière à ce que l’électron atteigne une masse d’un dixième d’once, ce dixième d’once deviendrait, sur la même échelle de grossissement, aussi lourd que la terre._ »
 
-Et du _Le Livre d'Urantia_ : « _Si l’on agrandissait la masse de la matière jusqu’à ce qu’un électron pèse un dixième d’once (2,83 grammes) et si ses dimensions étaient accrues dans la même proportion, le volume de cet électron deviendrait aussi grand que celui de la terre._” (<a id="a19_278"></a>[LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
+Et du _Le Livre d'Urantia_ : « _Si l’on agrandissait la masse de la matière jusqu’à ce qu’un électron pèse un dixième d’once (2,83 grammes) et si ses dimensions étaient accrues dans la même proportion, le volume de cet électron deviendrait aussi grand que celui de la terre._” (<a id="a43_278"></a>[LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
 
 Au tournant du siècle, le rapport entre la charge de l'électron et sa masse était connu avec un haut degré de précision, mais une mesure aussi précise de sa charge n'a pas été obtenue avant les travaux de Millikan en 1909. Une fois la charge connue, la masse électronique a pu être calculée et s'est avérée être de 9,11 x 10^-28^g. En vérifiant les calculs, nous constatons que Swann a utilisé ce chiffre connu plus la masse connue de la Terre pour calculer le facteur de grossissement qu'il a utilisé pour comparer les masses relatives d'un électron et de la Terre.
 
@@ -51,7 +51,7 @@ Suite à la mesure de la charge électronique par Millikan, Rutherford a propos�
 
 Passons maintenant à l’estimation du rayon du proton par les révélateurs, les extraits pertinents de Swann et du _Livre d’Urantia_ suivent. D'abord de Swann : « _Ensuite, nous avons le proton – l'unité fondamentale de charge positive – une chose 1 800 fois plus lourde que l'électron, mais 1 800 fois plus petite en taille, de sorte que si vous l'agrandissez jusqu'à la taille d'une tête d'épingle, la tête de cette épingle atteindrait, à la même échelle de grossissement, un diamètre égal au diamètre de l’orbite terrestre autour du soleil._”
 
-Et du _Le Livre d'Urantia_ : « _Si le volume d’un proton — mille-huit-cents fois plus lourd qu’un électron — était grossi jusqu’à la taille d’une tête d’épingle, alors, en comparaison, une tête d’épingle aurait un diamètre égal à celui de l’orbite de la terre autour du Soleil._” (<a id="a29_281"></a>[LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
+Et du _Le Livre d'Urantia_ : « _Si le volume d’un proton — mille-huit-cents fois plus lourd qu’un électron — était grossi jusqu’à la taille d’une tête d’épingle, alors, en comparaison, une tête d’épingle aurait un diamètre égal à celui de l’orbite de la terre autour du Soleil._” (<a id="a53_281"></a>[LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
 
 La différence majeure entre les deux est que les révélateurs ont omis le terme de Swann, « _mille huit cents fois plus petit en taille_ », dans leur description.
 
@@ -67,7 +67,7 @@ Les révélateurs ont totalement changé la signification de la comparaison en o
 
 Les modifications apportées aux comparaisons de Swann telles qu'elles apparaissent dans _Le Livre d'Urantia_ montrent sans équivoque que les révélateurs non seulement savaient ce qu'ils faisaient, mais qu'ils ont également fourni de nouvelles connaissances que la science humaine n'était pas destinée à découvrir avant plus de cinquante ans.
 
-> Chaque impulsion de chaque électron, pensée ou esprit est une unité active dans tout l’univers. Seul le péché est isolé et le mal résiste à la gravité sur les niveaux mentaux et spirituels. L’univers est un tout : nulle chose, nul être n’existent ni ne vivent dans l’isolement. » (<a id="a45_283"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
+> Chaque impulsion de chaque électron, pensée ou esprit est une unité active dans tout l’univers. Seul le péché est isolé et le mal résiste à la gravité sur les niveaux mentaux et spirituels. L’univers est un tout : nulle chose, nul être n’existent ni ne vivent dans l’isolement. » (<a id="a69_283"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
 
 
 ## Références

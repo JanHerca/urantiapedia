@@ -39,13 +39,13 @@ Comment pouvons-nous savoir si nous sommes habités par l’esprit ? Comment pou
 
 Le fascicule d'Urantia 115 nous parle des « cadres d'univers ».
 
-> « Des intellects partiels, incomplets et évoluants seraient impuissants dans le maitre univers, incapables de former le moindre modèle rationnel de pensée, si tout mental, **supérieur ou inférieur, n’avait pas l’aptitude innée à former un *cadre universel* dans lequel il peut penser**. » (<a id="a17_292"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+> « Des intellects partiels, incomplets et évoluants seraient impuissants dans le maitre univers, incapables de former le moindre modèle rationnel de pensée, si tout mental, **supérieur ou inférieur, n’avait pas l’aptitude innée à former un *cadre universel* dans lequel il peut penser**. » (<a id="a41_292"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
 Certains psychologues pensent que nous complétons notre « structure universelle » avant d’atteindre l’âge de 10 ans environ et qu’elle reste ensuite avec nous, presque invariante, pour le reste de notre vie.
 
 Notre « cadre universel » n’a pas besoin d’être invariant. Nous pouvons le changer si tel est notre désir. La plupart d’entre nous avons formé notre cadre en l’absence de nombreuses vérités qui nous sont fournies dans les Cahiers d’Urantia. Nous devons repenser notre cadre de pensée à la lumière de ces nouvelles connaissances. Aucune magie ou technique spéciale n'est requise. La foi, la détermination et la persévérance accompliront la tâche.
 
-Les Cahiers d'Urantia nous disent que nous avons un Ajusteur de Pensée, un esprit intérieur venant du Père Universel. La foi qu’il en est ainsi confirmera qu’il en est ainsi. Si nous souhaitons une assurance supplémentaire, alors _Le Livre d'Urantia_ confirme que « nul n'est bon à part Dieu » (<a id="a23_295"></a>[LU 8:2.7](/fr/The_Urantia_Book/8#p2_7)) et que « toute bonté prend son origine dans le Père ». (<a id="a23_392"></a>[LU 196:3.26](/fr/The_Urantia_Book/196#p3_26))
+Les Cahiers d'Urantia nous disent que nous avons un Ajusteur de Pensée, un esprit intérieur venant du Père Universel. La foi qu’il en est ainsi confirmera qu’il en est ainsi. Si nous souhaitons une assurance supplémentaire, alors _Le Livre d'Urantia_ confirme que « nul n'est bon à part Dieu » (<a id="a47_295"></a>[LU 8:2.7](/fr/The_Urantia_Book/8#p2_7)) et que « toute bonté prend son origine dans le Père ». (<a id="a47_392"></a>[LU 196:3.26](/fr/The_Urantia_Book/196#p3_26))
 
 Gardons donc notre processus de réflexion simple. Avons-nous déjà eu une bonne pensée ? Si c’est le cas, nous savons que cela vient de Dieu. Et comment faire autrement que via notre Ajusteur de Pensée ? Intégrons donc ces connaissances dans notre propre « cadre d’univers ».
 
@@ -53,7 +53,7 @@ Comment pouvons-nous distinguer le bien du mal, le bien du mal ? Les fascicules 
 
 Comment pouvons-nous connaître la vérité ? Ici encore, nous avons les capacités innées de notre esprit couplées aux qualités de notre personnalité qui sont des dons du Père Universel. La personnalité est un unificateur et un activateur, et est dotée de la capacité d'examiner les objectifs et de porter un jugement sur leur valeur.
 
-Ajouté à cela, nous avons le don de l’Esprit de Vérité de notre Fils Créateur de l’Univers. L'Esprit de Vérité ne nous rend jamais conscient de lui-même. Il nous fait prendre conscience de Jésus. Plus nous en savons sur Jésus, sa vie et ses enseignements, plus l’Esprit de Vérité peut nous aider. L'Esprit de Vérité est la conviction de la vérité. (<a id="a31_349"></a>[LU 180:5.1](/fr/The_Urantia_Book/180#p5_1)) Si nous recherchons consciemment et consciencieusement la vérité, nous en serons convaincus lorsque nous la trouverons.
+Ajouté à cela, nous avons le don de l’Esprit de Vérité de notre Fils Créateur de l’Univers. L'Esprit de Vérité ne nous rend jamais conscient de lui-même. Il nous fait prendre conscience de Jésus. Plus nous en savons sur Jésus, sa vie et ses enseignements, plus l’Esprit de Vérité peut nous aider. L'Esprit de Vérité est la conviction de la vérité. (<a id="a55_349"></a>[LU 180:5.1](/fr/The_Urantia_Book/180#p5_1)) Si nous recherchons consciemment et consciencieusement la vérité, nous en serons convaincus lorsque nous la trouverons.
 
 Gâcher tous nos efforts est une autre composante de nous-mêmes qui trouve son origine dans notre ascendance animale. Cela tend à détourner nos motivations d’une orientation vers le service vers une orientation égoïste. Permis de prendre le dessus, notre ascendance animale assurera la mort de notre âme. Mais ce n’est vraiment pas si difficile à vaincre – c’est simplement une question de motivation. Débarrassez-vous des ambitions égoïstes, concentrez-vous sur le service de notre Fils Créateur, et les forces spirituelles intérieures seront en mesure de libérer nos potentiels d’esprit et de personnalité.
 

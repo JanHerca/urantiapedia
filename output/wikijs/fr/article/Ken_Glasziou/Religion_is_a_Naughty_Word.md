@@ -37,7 +37,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 La pléthore de profondeur déversée dans les Cahiers d'Urantia est telle que de simples mortels comme nous les lisent sans les digérer, les passent sous silence sans les comprendre.
 
-Une profondeur du _Livre d'Urantia_ déclare : « ***La religion est une expérience vivante et dynamique pour atteindre la divinité fondée sur le service de l’humanité***. » (<a id="a15_173"></a>[LU 5:4.1](/fr/The_Urantia_Book/5#p4_1))
+Une profondeur du _Livre d'Urantia_ déclare : « ***La religion est une expérience vivante et dynamique pour atteindre la divinité fondée sur le service de l’humanité***. » (<a id="a39_173"></a>[LU 5:4.1](/fr/The_Urantia_Book/5#p4_1))
 
 Avec cette définition bien ancrée, ne devrais-je pas être plus que fier d’avoir une religion ? En fait, si je n’ai pas de religion, je devrais sûrement craindre d’avoir mis ma carrière éternelle en péril ?
 
@@ -47,7 +47,7 @@ Et si le mouvement Urantia n’est pas une activité religieuse, qu’est-ce don
 
 Vraisemblablement, ce qui n’est « pas religieux » doit être « non religieux » ? Cela semble être une conclusion assez logique. Mais les révélateurs déclarent : « **toutes les activités non religieuses cherchent à lier l’univers au service déformant du soi.** » C’est là que les choses ont pu mal tourner : le mouvement a rejeté le « service de l’humanité » et a succombé au déformer le service de soi ?
 
-Les révélateurs déclarent en outre : « _Les individus vraiment religieux cherchent à identifier leur moi avec l’univers, et à dédier ensuite les activités de ce moi unifié au service de la famille universelle de leurs compagnons, humains et suprahumains._ » (<a id="a25_259"></a>[LU 5:4.3](/fr/The_Urantia_Book/5#p4_3) )
+Les révélateurs déclarent en outre : « _Les individus vraiment religieux cherchent à identifier leur moi avec l’univers, et à dédier ensuite les activités de ce moi unifié au service de la famille universelle de leurs compagnons, humains et suprahumains._ » (<a id="a49_259"></a>[LU 5:4.3](/fr/The_Urantia_Book/5#p4_3) )
 
 Après réflexion, il peut être valable de conclure que les organisations de lecteurs du Livre d'Urantia ont tendance à impliquer leurs membres dans une activité intellectuelle et à laisser le « service de l'humanité » aux activités privées de l'individu.
 

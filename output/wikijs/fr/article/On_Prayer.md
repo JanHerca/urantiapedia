@@ -45,7 +45,7 @@ Si vous souhaitez prier efficacement, vous devez garder à l’esprit ce qui sui
 - Votre prière sera dirigée exclusivement vers la sagesse divine afin de résoudre les problèmes humains spécifiques rencontrés lors de l'ascension au Paradis : l'atteinte de la perfection divine.
 - Et vous devez avoir la foi, la foi vivante.
 
-> Vous pouvez prêcher une religion sur Jésus, mais, forcément, vous devez vivre la religion de Jésus. (<a id="a23_103"></a>[LU 195:4.4](/fr/The_Urantia_Book/195#p4_4))
+> Vous pouvez prêcher une religion sur Jésus, mais, forcément, vous devez vivre la religion de Jésus. (<a id="a47_103"></a>[LU 195:4.4](/fr/The_Urantia_Book/195#p4_4))
 
 ## Liens externes
 

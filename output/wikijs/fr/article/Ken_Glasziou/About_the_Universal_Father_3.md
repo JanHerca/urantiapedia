@@ -53,12 +53,12 @@ dateCreated: 2022-9-9T8:12:18Z
 > 
 > En contemplant la Déité, il faut dépouiller le concept de personnalité de l’idée de corporéité. Ni chez l’homme ni chez Dieu, un corps matériel n’est indispensable pour une personnalité. L’erreur de la corporéité apparait dans les deux extrêmes de la philosophie humaine. Dans le matérialisme, l’homme cesse d’exister en tant que personnalité puisqu’il perd son corps à son décès. Dans le panthéisme, Dieu n’est pas une personne puisqu’il n’a pas de corps. Le type suprahumain de personnalité progressive fonctionne dans une union de mental et d’esprit.
 > 
-> La personnalité n’est pas simplement un attribut de Dieu. Elle représente plutôt la totalité de la nature infinie coordonnée et de la volonté divine unifiée, parfaitement exprimée en éternité et universalité. Au sens suprême, la personnalité est la révélation de Dieu à l’univers des univers. (<a id="a31_296"></a>[LU 1:5.4-13](/fr/The_Urantia_Book/1#p5_4))
+> La personnalité n’est pas simplement un attribut de Dieu. Elle représente plutôt la totalité de la nature infinie coordonnée et de la volonté divine unifiée, parfaitement exprimée en éternité et universalité. Au sens suprême, la personnalité est la révélation de Dieu à l’univers des univers. (<a id="a55_296"></a>[LU 1:5.4-13](/fr/The_Urantia_Book/1#p5_4))
 
 > Dieu est laisser-être absolu, et le laisser-être est le fondement ontologique de l'amour. Laisser-être, c'est se donner ou se dépenser, de sorte que l'œuvre créatrice de Dieu est une œuvre d'amour et de don de soi, dans laquelle il s'est investi. Dans la mesure où les êtres créés eux-mêmes manifestent créativité, amour et don de soi, ils ont tendance à être comme Dieu.
 > &nbsp; &nbsp; John Macquarrie « _Principes de la théologie chrétienne. »_
 
-> Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. L’homme peut aussi mieux comprendre la nature divine s’il se considère comme un enfant de Dieu et s’il vénère le Créateur du Paradis comme un vrai Père spirituel. (<a id="a36_362"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
+> Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. L’homme peut aussi mieux comprendre la nature divine s’il se considère comme un enfant de Dieu et s’il vénère le Créateur du Paradis comme un vrai Père spirituel. (<a id="a60_362"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
 
 ## Liens externes
 

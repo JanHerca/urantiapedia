@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T02:19:42.812Z
 
 Dans certaines perspectives de la vie de Jésus, je le considère comme un modèle plutôt qu’une source d’inspiration, et cela est principalement lié à ses expériences de vie.
 
-_Le Livre d'Urantia_ déclare que « vous ne pouvez pas percevoir la vérité spirituelle avant d’en éprouver l’expérience, et beaucoup de vérités ne sont réellement ressenties que dans l’adversité. » (<a id="a15_198"></a>[LU 48:7.18](/fr/The_Urantia_Book/48#p7_18)—Morontia Mota)
+_Le Livre d'Urantia_ déclare que « vous ne pouvez pas percevoir la vérité spirituelle avant d’en éprouver l’expérience, et beaucoup de vérités ne sont réellement ressenties que dans l’adversité. » (<a id="a36_198"></a>[LU 48:7.18](/fr/The_Urantia_Book/48#p7_18)—Morontia Mota)
 
 En regardant la vie de Jésus, je ne crois pas qu'un autre être humain aurait pu être soumis à autant d'adversité au cours d'une vie aussi courte que celle qu'il a endurée. Mes propres expériences de vie sont insignifiantes en comparaison, et je sais que peu importe ce à quoi je peux être soumis, lui aussi l'a été – et bien plus encore.
 
@@ -64,7 +64,7 @@ Et ces expériences/adversités de vie l'ont conduit, à l'âge de vingt ans, à
 
 > Jésus devient rapidement un homme, non pas simplement un jeune homme, mais un adulte. Il a bien appris à assumer des responsabilités. Il sait persévérer en présence des déceptions. Il fait bravement front quand ses plans sont contrecarrés et ses projets temporairement déjoués. Il a appris à être équitable et juste même en face de l’injustice. Il est en voie d’apprendre à ajuster ses idéaux de vie spirituelle aux exigences pratiques de l’existence terrestre, d’apprendre à faire des plans pour atteindre un but idéaliste supérieur et lointain, tout en peinant durement dans le but de satisfaire les nécessités plus proches et plus immédiates.
 > 
-> Il acquiert progressivement l’art d’adapter ses aspirations aux exigences banales de la vie des humains. Il a presque maitrisé la technique d’utiliser l’énergie de l’impulsion spirituelle pour faire fonctionner le mécanisme des réalisations matérielles. Il apprend lentement à vivre la vie céleste tout en poursuivant son existence terrestre. De plus en plus, il dépend des directives ultimes de son Père céleste, tout en assumant le rôle paternel de guider et d’orienter les enfants de sa famille terrestre. Il devient expert en l’art d’arracher la victoire à l’emprise même de la défaite. Il apprend à transformer les difficultés du temps en triomphes de l’éternité. (<a id="a45_672"></a>[LU 127:6.12](/fr/The_Urantia_Book/127#p6_12))
+> Il acquiert progressivement l’art d’adapter ses aspirations aux exigences banales de la vie des humains. Il a presque maitrisé la technique d’utiliser l’énergie de l’impulsion spirituelle pour faire fonctionner le mécanisme des réalisations matérielles. Il apprend lentement à vivre la vie céleste tout en poursuivant son existence terrestre. De plus en plus, il dépend des directives ultimes de son Père céleste, tout en assumant le rôle paternel de guider et d’orienter les enfants de sa famille terrestre. Il devient expert en l’art d’arracher la victoire à l’emprise même de la défaite. Il apprend à transformer les difficultés du temps en triomphes de l’éternité. (<a id="a66_672"></a>[LU 127:6.12](/fr/The_Urantia_Book/127#p6_12))
 
 Et tout au long du reste de sa vie, ses expériences comprenaient :
 
@@ -85,7 +85,7 @@ Et pourtant, il a vécu une vie de joie ! Il n'a jamais résumé ses expérience
 - Jouer avec les enfants
 - Avoir des moments calmes
 
-> « Jésus dépeignit la sécurité profonde de l’homme connaissant Dieu en disant : « Pour celui qui connait Dieu et croit au royaume, qu’importe si toutes les choses terrestres s’effondrent ? » Les sécurités temporelles sont vulnérables, mais les sécurités spirituelles sont invulnérables. Quand les marées de l’adversité humaine, de l’égoïsme, de la cruauté, de la haine, de la méchanceté et de la jalousie viennent battre l’âme du mortel, on peut se reposer dans l’assurance qu’il existe un bastion intérieur, la citadelle de l’esprit, qui est absolument inexpugnable ; du moins est-ce vrai pour tout être humain qui a confié la garde de son âme à l’esprit intérieur du Dieu éternel. » (<a id="a66_687"></a>[LU 100:2.7](/fr/The_Urantia_Book/100#p2_7))
+> « Jésus dépeignit la sécurité profonde de l’homme connaissant Dieu en disant : « Pour celui qui connait Dieu et croit au royaume, qu’importe si toutes les choses terrestres s’effondrent ? » Les sécurités temporelles sont vulnérables, mais les sécurités spirituelles sont invulnérables. Quand les marées de l’adversité humaine, de l’égoïsme, de la cruauté, de la haine, de la méchanceté et de la jalousie viennent battre l’âme du mortel, on peut se reposer dans l’assurance qu’il existe un bastion intérieur, la citadelle de l’esprit, qui est absolument inexpugnable ; du moins est-ce vrai pour tout être humain qui a confié la garde de son âme à l’esprit intérieur du Dieu éternel. » (<a id="a87_687"></a>[LU 100:2.7](/fr/The_Urantia_Book/100#p2_7))
 
 ## Liens externes
 

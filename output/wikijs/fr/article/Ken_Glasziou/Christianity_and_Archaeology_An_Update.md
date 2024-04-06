@@ -118,7 +118,7 @@ L’évangile de Marc avait au moins quelque chose de juste lorsqu’il demandai
 
 Mais cela indique également qu’une interprétation littérale des sections des Fascicules d’Urantia n’est pas non plus viable – ce qui est en accord avec ce que nous disent les révélateurs :
 
-> « _Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace._ » (<a id="a96_249"></a>[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
+> « _Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace._ » (<a id="a120_249"></a>[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
 
 Une déclaration clé de l'article des **AA** est la suivante : « _Compte tenu de ce que nous savons, les chrétiens du 21e siècle doivent donner un sens à Dieu et à Jésus du mieux que nous pouvons. »_
 

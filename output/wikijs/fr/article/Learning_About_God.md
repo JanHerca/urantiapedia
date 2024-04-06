@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-_Le Livre d'Urantia_ (<a id="a13_22"></a>[LU 169:4.3-13](/fr/The_Urantia_Book/169#p4_3)).
+_Le Livre d'Urantia_ (<a id="a37_22"></a>[LU 169:4.3-13](/fr/The_Urantia_Book/169#p4_3)).
 
 Vous apprenez Dieu grâce à Jésus en observant la divinité de sa vie, et non en vous dépendant de ses enseignements. De la vie du Maître :
 
@@ -102,13 +102,13 @@ Entendre l’enseignement de Jésus n’équivaut pas à connaître Dieu, mais v
 
 ---
 
-Le texte de <a id="a80_12"></a>[LU 169:4.12](/fr/The_Urantia_Book/169#p4_12) du _Le Livre d'Urantia_ nous dit que, grâce à sa révélation de sa vie, nous sommes capables de « voir » Jésus. Cette « vision mentale » ne peut venir que grâce à une connaissance approfondie de cette vie et de la façon dont Jésus l’a vécue. Lorsque nous acquérons cette familiarité, il devient possible de faire l’expérience d’une révélation du Père à notre âme.
+Le texte de <a id="a104_12"></a>[LU 169:4.12](/fr/The_Urantia_Book/169#p4_12) du _Le Livre d'Urantia_ nous dit que, grâce à sa révélation de sa vie, nous sommes capables de « voir » Jésus. Cette « vision mentale » ne peut venir que grâce à une connaissance approfondie de cette vie et de la façon dont Jésus l’a vécue. Lorsque nous acquérons cette familiarité, il devient possible de faire l’expérience d’une révélation du Père à notre âme.
 
 Le grand avantage de connaître la vie de Jésus vient du fait que, dans pratiquement toutes les situations dans lesquelles nous nous trouvons, nous pouvons demander à notre Ajusteur de Pensée : « Que ferait Jésus ? Et puisque nous avons déjà une représentation picturale de la vie de Jésus stockée dans les banques de mémoire de notre esprit, nous facilitons la capacité de l’Ajusteur de Pensée à communiquer une réponse.
 
 Nous sommes bénis par ce don. Son efficacité est entre nos mains.
 
-> L’homme peut disposer effectivement du pardon de Dieu et en faire l’expérience personnelle dans la mesure exacte où il pardonne à ses semblables. (<a id="a86_149"></a>[LU 170:3.4](/fr/The_Urantia_Book/170#p3_4))
+> L’homme peut disposer effectivement du pardon de Dieu et en faire l’expérience personnelle dans la mesure exacte où il pardonne à ses semblables. (<a id="a110_149"></a>[LU 170:3.4](/fr/The_Urantia_Book/170#p3_4))
 
 ## Liens externes
 

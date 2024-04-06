@@ -37,15 +37,15 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Essentiellement, les Cahiers d'Urantia sont une campagne de recrutement de volontaires qui répondront à l'appel de Jésus :
 
-> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » (<a id="a15_366"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
+> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » (<a id="a39_366"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
 Si nous devons entreprendre cette mission, nous devons faire face à un problème.
 
-> « La moralité est l’indispensable base préexistante de la conscience personnelle de Dieu, de la réalisation personnelle de la présence intérieure de l’Ajusteur, » (<a id="a19_166"></a>[LU 196:3.25](/fr/The_Urantia_Book/196#p3_25))
+> « La moralité est l’indispensable base préexistante de la conscience personnelle de Dieu, de la réalisation personnelle de la présence intérieure de l’Ajusteur, » (<a id="a43_166"></a>[LU 196:3.25](/fr/The_Urantia_Book/196#p3_25))
 
 Il semble y avoir peu de chances de succès dans notre « mission dans le monde » si nous sommes sans conscience de Dieu, donc sans communication efficace avec notre Ajusteur. Aimer et servir nos semblables comme Jésus les aimait et les servait serait au-delà du domaine du possible à moins que nos normes morales ne soient telles qu’elles permettent la conscience de Dieu. Alors, qu'est-ce qui est nécessaire.
 
-> « La nature morale est superanimale mais subspirituelle. La moralité équivaut à reconnaitre le devoir, à réaliser l’existence de ce qui est juste et de ce qui ne l’est pas. La zone morale s’interpose entre le type de mental animal et le type de mental humain, de même que la morontia fonctionne entre les sphères matérielles et spirituelles d’aboutissement de la personnalité. » (<a id="a23_382"></a>[LU 196:3.25](/fr/The_Urantia_Book/196#p3_25))
+> « La nature morale est superanimale mais subspirituelle. La moralité équivaut à reconnaitre le devoir, à réaliser l’existence de ce qui est juste et de ce qui ne l’est pas. La zone morale s’interpose entre le type de mental animal et le type de mental humain, de même que la morontia fonctionne entre les sphères matérielles et spirituelles d’aboutissement de la personnalité. » (<a id="a47_382"></a>[LU 196:3.25](/fr/The_Urantia_Book/196#p3_25))
 
 Bien que la nature morale humaine puisse être suranimale, notre comportement instinctif dérive de notre héritage animal. Les caractéristiques de base sont le comportement de domination, le territorialisme, la libido et la préservation de soi, souvent subtilement déguisés pour produire un manteau de respectabilité.
 
@@ -63,11 +63,11 @@ Notre connaissance de la moralité super-animale mais sous-spirituelle dérive d
 
 Il ne peut y avoir aucune prétention, ni intention partielle, ni compromis lorsqu’il s’agit de notre moralité et de l’entreprise de notre « mission dans le monde ». Comme pour notre religion, c’est un engagement du tout ou rien. Vous ne pouvez pas être une personne partiellement religieuse ou partiellement morale.
 
-> « Isoler une partie de la vie et l’appeler religion, c’est désintégrer la vie et défigurer la religion. C’est justement pourquoi le Dieu d’adoration réclame une fidélité totale, ou n’en demande aucune. » (<a id="a41_207"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
+> « Isoler une partie de la vie et l’appeler religion, c’est désintégrer la vie et défigurer la religion. C’est justement pourquoi le Dieu d’adoration réclame une fidélité totale, ou n’en demande aucune. » (<a id="a65_207"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
 
 Une grande partie des dernières pages de la révélation est consacrée à expliquer ce qui constitue une moralité super-animale mais sous-spirituelle, le qualificatif de l'engagement de vivre comme Jésus a vécu.
 
-Les fascicules révèlent très clairement qu'il s'agit là d'un niveau de moralité que des êtres mortels comme nous peuvent atteindre. Dans son discours à Jésus concernant son effusion à venir, Emmanuel déclare : « Présentez dans votre courte vie dans la chair, comme cela n'a jamais été vu auparavant dans tout Nébadon, ** les possibilités transcendantes accessibles par un humain connaissant Dieu ** pendant la courte carrière de l'existence mortelle...» (<a id="a45_455"></a>[LU 120:2.8](/fr/The_Urantia_Book/120#p2_8))
+Les fascicules révèlent très clairement qu'il s'agit là d'un niveau de moralité que des êtres mortels comme nous peuvent atteindre. Dans son discours à Jésus concernant son effusion à venir, Emmanuel déclare : « Présentez dans votre courte vie dans la chair, comme cela n'a jamais été vu auparavant dans tout Nébadon, ** les possibilités transcendantes accessibles par un humain connaissant Dieu ** pendant la courte carrière de l'existence mortelle...» (<a id="a69_455"></a>[LU 120:2.8](/fr/The_Urantia_Book/120#p2_8))
 
 Quelles sont ces valeurs morales super-animales et comment les atteindre ?
 
@@ -79,13 +79,13 @@ Les valeurs morales de l'univers deviennent des possessions intellectuelles par 
 
 Nous semblons être confrontés à une situation de « qu’est-ce qui vient en premier », de « la poule ou l’œuf ? » Pour faire nos choix moraux, nous avons besoin de la direction de notre Ajusteur de Pensée, mais la conscience de Dieu et notre réalisation de la présence de l'Ajusteur dépendent de notre niveau moral.
 
-> « Si un amant divin ne vivait pas en lui, l’homme ne pourrait aimer généreusement et spirituellement. Si un interprète ne vivait pas dans son mental, l’homme ne pourrait pas vraiment se rendre compte de l’unité de l’univers. Si un estimateur ne demeurait pas en lui, l’homme serait dans l’impossibilité d’apprécier les valeurs morales et de reconnaitre les significations spirituelles. Or, cet amant divin vient de la source même de l’amour infini ; cet interprète est une fraction de l’Unité Universelle ; cet estimateur est l’enfant du Centre-Source de toutes les valeurs absolues de la réalité éternelle et divine. » (<a id="a57_623"></a>[LU 196:3.16](/fr/The_Urantia_Book/196#p3_16))
+> « Si un amant divin ne vivait pas en lui, l’homme ne pourrait aimer généreusement et spirituellement. Si un interprète ne vivait pas dans son mental, l’homme ne pourrait pas vraiment se rendre compte de l’unité de l’univers. Si un estimateur ne demeurait pas en lui, l’homme serait dans l’impossibilité d’apprécier les valeurs morales et de reconnaitre les significations spirituelles. Or, cet amant divin vient de la source même de l’amour infini ; cet interprète est une fraction de l’Unité Universelle ; cet estimateur est l’enfant du Centre-Source de toutes les valeurs absolues de la réalité éternelle et divine. » (<a id="a81_623"></a>[LU 196:3.16](/fr/The_Urantia_Book/196#p3_16))
 
 Il est donc évident que nous devons établir une relation étroite avec notre Ajusteur de Pensée si nous voulons réussir dans notre tâche. Il n’y a peut-être pas de meilleur moyen d’y parvenir que de pratiquer la méthode de « l’alter ego » recommandée dans le fascicule 91. Celui-ci cite le jeu des enfants consistant à inventer un compagnon imaginaire, puis à jouer les deux rôles lorsqu’ils conversent avec « l’autre ego ».
 
 Pour adapter la méthode à notre tâche, nous devons connaître la vie de Jésus au point de pouvoir faire une évaluation raisonnable de la façon dont il réagirait dans une circonstance donnée. Nous pouvons alors nous poser une question sur ce qu’il faut faire, en répondant nous-mêmes à partir de nos banques de connaissances mémorielles sur la propre vie de Jésus. C'est peut-être la raison pour laquelle :
 
-> « L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a63_340"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a87_340"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 Personne n'a dit que ça serait facile. La mission qui nous est demandée, aimer et servir comme Jésus a aimé et servi, exige de la sincérité, du dévouement, du dévouement et de la persévérance.
 
@@ -93,7 +93,7 @@ L'évaluation morale au niveau super-animal nécessite la perspicacité spiritue
 
 Comme tant d’autres choses ayant cette qualité nébuleuse appelée « valeur spirituelle », la moralité est quelque chose que nous savons en nous-mêmes être « juste » simplement parce que nous « écoutons » au moins inconsciemment la voix de l’esprit divin intérieur. Mais dès que nous essayons de définir la moralité, elle se réduit à un ensemble de règles ou de commandements auxquels il faut obéir.
 
-« Les Hébreux de l’époque de Jésus avaient déjà une religion de sublimité morale. » (<a id="a71_85"></a>[LU 196:3.19](/fr/The_Urantia_Book/196#p3_19)) Mais « Jésus a révélé et illustré une religion d’amour : la sécurité dans l’amour du Père, avec la joie et la satisfaction qui découlent du partage de cet amour au service de la fraternité humaine. »
+« Les Hébreux de l’époque de Jésus avaient déjà une religion de sublimité morale. » (<a id="a95_85"></a>[LU 196:3.19](/fr/The_Urantia_Book/196#p3_19)) Mais « Jésus a révélé et illustré une religion d’amour : la sécurité dans l’amour du Père, avec la joie et la satisfaction qui découlent du partage de cet amour au service de la fraternité humaine. »
 
 Sans véritable moralité – du genre Jésus – nous sommes sans véritable amour. Sans le véritable amour – celui de Jésus – nous stagnons dans notre héritage animal. « L'amour est la motivation la plus élevée que l'homme puisse utiliser dans son ascension vers l'univers. »
 

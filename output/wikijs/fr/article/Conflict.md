@@ -35,7 +35,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 
 
-« Tout conflit est mauvais. » (<a id="a13_31"></a>[LU 111:4.11](/fr/The_Urantia_Book/111#p4_11)) Ainsi annonce la Cinquième Révélation d'Époque. Pourtant, tout autour de nous, nous observons les dévots du Livre d'Urantia en conflit.
+« Tout conflit est mauvais. » (<a id="a37_31"></a>[LU 111:4.11](/fr/The_Urantia_Book/111#p4_11)) Ainsi annonce la Cinquième Révélation d'Époque. Pourtant, tout autour de nous, nous observons les dévots du Livre d'Urantia en conflit.
 
 « Eh bien », pourrions-nous dire, « nous devons corriger ceux qui sont malavisés. Et les maintenir dans le rang lorsqu'ils ne sont pas d'accord avec nous. »
 

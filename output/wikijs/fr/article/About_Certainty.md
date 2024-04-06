@@ -37,9 +37,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 Avant l'effusion de Jésus, son frère Créateur-Fils, Emmanuel, a conseillé : « Dans cette effusion, vous vous êtes volontairement dépouillé de tout soutien extra-planétaire et de toute assistance spéciale.
 
-> « De même que tes fils créés de Nébadon dépendent entièrement de toi pour être guidés en sécurité au long de leur carrière universelle, de même il faut maintenant que tu te mettes, entièrement et sans réserve, sous la dépendance de ton Père du Paradis pour être guidé avec sécurité à travers les vicissitudes non révélées de ta prochaine carrière en tant que mortel. (<a id="a15_370"></a>[LU 120:1.3](/fr/The_Urantia_Book/120#p1_3))
+> « De même que tes fils créés de Nébadon dépendent entièrement de toi pour être guidés en sécurité au long de leur carrière universelle, de même il faut maintenant que tu te mettes, entièrement et sans réserve, sous la dépendance de ton Père du Paradis pour être guidé avec sécurité à travers les vicissitudes non révélées de ta prochaine carrière en tant que mortel. (<a id="a39_370"></a>[LU 120:1.3](/fr/The_Urantia_Book/120#p1_3))
 
-> « Et, quand tu auras achevé cette expérience d’effusion, tu connaitras, dans toute sa vérité, le plein sens et la riche signification de cette confiance dans la **foi dont tu exiges si invariablement la maitrise par toutes tes créatures comme part de leurs relations intimes avec toi** en tant que Créateur et Père de leur univers local. (<a id="a17_341"></a>[LU 120:1.3](/fr/The_Urantia_Book/120#p1_3))
+> « Et, quand tu auras achevé cette expérience d’effusion, tu connaitras, dans toute sa vérité, le plein sens et la riche signification de cette confiance dans la **foi dont tu exiges si invariablement la maitrise par toutes tes créatures comme part de leurs relations intimes avec toi** en tant que Créateur et Père de leur univers local. (<a id="a41_341"></a>[LU 120:1.3](/fr/The_Urantia_Book/120#p1_3))
 
 Immanuel a ajouté : « Une fois que vous serez suffisamment conscient de votre identité divine, je vous conseille d'assumer la tâche supplémentaire de mettre fin à la rébellion de Lucifer, et de le faire en tant que « Fils de l'Homme », une créature entièrement mortelle du royaume. »
 
@@ -55,7 +55,7 @@ La certitude intérieure vraie et authentique ne craint pas du tout l’analyse 
 
 Personne n'est à aucun moment dérangé par l'attitude d'un voisin lorsque cette personne a une parfaite confiance dans la vérité de ce à quoi elle croit de tout son cœur. Le courage est la confiance en une honnêteté totale à propos des choses auxquelles on prétend croire.
 
-> _Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. »_ (<a id="a33_522"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+> _Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. »_ (<a id="a57_522"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 > Celui qui veut faire du bien à autrui doit le faire dans les moindres détails. Le bien général est le plaidoyer du scélérat, de l’hypocrite et du flatteur.
 > &nbsp; &nbsp; &nbsp; _William Blake_

@@ -35,7 +35,7 @@ dateCreated: 2022-09-26T19:01:14.495Z
 
 
 
-Saviez-vous qu'il est possible pour l'âme humaine de prendre la décision finale de fusionner avec votre Esprit-Père qui vous habite ? Et vous pouvez le faire MAINTENANT. (<a id="a13_171"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
+Saviez-vous qu'il est possible pour l'âme humaine de prendre la décision finale de fusionner avec votre Esprit-Père qui vous habite ? Et vous pouvez le faire MAINTENANT. (<a id="a37_171"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
 
 Alors, que faut-il pour que nous prenions cette décision et qu’elle soit valable ? Que nous soyons admissibles ou non dépend de l'état de notre esprit, qui doit accorder à notre âme l'autorité de prendre la décision en notre nom.
 
@@ -54,15 +54,15 @@ Les fascicules décrivent le sens de faire la volonté de Dieu en ces termes :
 
 Malgré tous nos efforts, nous ne pouvons pas obtenir d’instructions spécifiques ou un ensemble de règles définissant exactement ce qu’est réellement « faire la volonté de Dieu ». La meilleure façon de le décrire est peut-être la réponse que Jésus a donnée un jour à un jeune chercheur :
 
-> « Ce fut un entretien qui dura bien avant dans la nuit et au cours duquel le jeune homme demanda à Jésus de lui expliquer la différence entre la volonté de Dieu et l’acte mental humain de faire un choix, que l’on appelle aussi volonté. En substance, Jésus dit : « La volonté de Dieu est la voie de Dieu, et cette voie est une association avec le choix de Dieu devant chaque alternative potentielle. Par conséquent, faire la volonté de Dieu est l’expérience progressive qui consiste à devenir de plus en plus semblable à Dieu, Dieu étant la source et la destinée de tout ce qui est bon, beau et vrai. » » (<a id="a32_607"></a>[LU 130:2.7](/fr/The_Urantia_Book/130#p2_7))
+> « Ce fut un entretien qui dura bien avant dans la nuit et au cours duquel le jeune homme demanda à Jésus de lui expliquer la différence entre la volonté de Dieu et l’acte mental humain de faire un choix, que l’on appelle aussi volonté. En substance, Jésus dit : « La volonté de Dieu est la voie de Dieu, et cette voie est une association avec le choix de Dieu devant chaque alternative potentielle. Par conséquent, faire la volonté de Dieu est l’expérience progressive qui consiste à devenir de plus en plus semblable à Dieu, Dieu étant la source et la destinée de tout ce qui est bon, beau et vrai. » » (<a id="a56_607"></a>[LU 130:2.7](/fr/The_Urantia_Book/130#p2_7))
 
 Pour nous engager à faire la volonté de Dieu, nous devons également nous engager à devenir de plus en plus semblables à Dieu, à rechercher une perfection qui ressemble à Dieu. Et la raison pour laquelle des règles spécifiques ne peuvent être établies est que chaque situation dans laquelle nous nous trouvons est unique à ce moment-là et ne se reproduira plus jamais exactement de la même manière. Par conséquent, « la volonté de Dieu » est la « voie de Dieu » qui semble être à peu près aussi précise que possible.
 
-C’est probablement aussi la raison pour laquelle les fascicules nous informent : « _L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut._ » (<a id="a36_421"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+C’est probablement aussi la raison pour laquelle les fascicules nous informent : « _L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut._ » (<a id="a60_421"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 Et dans le premier paragraphe de « La nature de Dieu », dans le fascicule 2 :
 
-> « Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. » (<a id="a40_203"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
+> « Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. » (<a id="a64_203"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
 
 En résumé, faire la volonté de Dieu signifie, avec Jésus comme modèle, toujours essayer de devenir de plus en plus semblable à Dieu. Et le véritable sens et le but de chaque vie sur Urantia se résument à cela.
 

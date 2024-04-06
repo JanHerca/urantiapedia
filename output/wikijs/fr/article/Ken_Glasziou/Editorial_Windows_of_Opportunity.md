@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, » (<a id="a13_306"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, » (<a id="a37_306"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 Cette citation de LU 2:7.10 du _Le Livre d'Urantia_ est évidemment auto-référentielle. Nous sommes censés tirer des fascicules ce qui fera avancer la cause du « royaume » et le présenter sous des formes compréhensibles pour nos frères et sœurs à tous les niveaux de compréhension humaine.
 
@@ -43,7 +43,7 @@ Au cours des derniers jours de son effusion terrestre, le Maître nous a donné 
 
 L'un de ces ordres de style militaire était :
 
-> « Il ne faut pas attaquer les anciens modes de vie ; » (<a id="a21_58"></a>[LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
+> « Il ne faut pas attaquer les anciens modes de vie ; » (<a id="a45_58"></a>[LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
 
 Cela a été suivi par :
 
@@ -63,7 +63,7 @@ Il y a maintenant plus d’un milliard de personnes sur cette terre qui se disen
 
 Si nous pensons que les auteurs des Fascicules d’Urantia ne connaissaient pas ces faits lorsqu’ils ont écrit les Fascicules, alors nous sous-estimons sérieusement leur intelligence. Néanmoins, en de nombreux endroits, ces auteurs ont exprimé l’espoir que le message qu’ils cherchaient à transmettre transformerait l’Église qui porte le nom de Jésus. Un seul exemple est :
 
-> « Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions ! » (<a id="a41_356"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
+> « Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions ! » (<a id="a65_356"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
 
 Une chose est absolument certaine : l’Église ne sera pas transformée de l’extérieur. Si l’on veut récupérer Jésus vivant, cela devra se faire à l’intérieur.
 

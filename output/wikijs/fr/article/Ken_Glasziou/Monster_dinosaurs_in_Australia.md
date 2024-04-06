@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-Les documents indiquent que des restes de dinosaures monstrueux sont enterrés en Amérique, en Europe occidentale, en Afrique du Sud, en Inde, mais pas en Australie. (<a id="a13_166"></a>[LU 60:2.2](/fr/The_Urantia_Book/60#p2_2)) Des fossiles de dinosaures sont présents en Australie, mais à l'heure actuelle (1998), aucun n'appartient à la classe des monstres. Lorsque les articles ont été rédigés, il n’existait pratiquement aucune connaissance en Australie sur ses dinosaures. Alors, sur quelles preuves les experts ont-ils risqué leur hypothèse ? Se tromper rendrait le livre ridicule. Mais cela ne fait pas grand-chose pour impressionner les lecteurs, même s’il est correct.
+Les documents indiquent que des restes de dinosaures monstrueux sont enterrés en Amérique, en Europe occidentale, en Afrique du Sud, en Inde, mais pas en Australie. (<a id="a37_166"></a>[LU 60:2.2](/fr/The_Urantia_Book/60#p2_2)) Des fossiles de dinosaures sont présents en Australie, mais à l'heure actuelle (1998), aucun n'appartient à la classe des monstres. Lorsque les articles ont été rédigés, il n’existait pratiquement aucune connaissance en Australie sur ses dinosaures. Alors, sur quelles preuves les experts ont-ils risqué leur hypothèse ? Se tromper rendrait le livre ridicule. Mais cela ne fait pas grand-chose pour impressionner les lecteurs, même s’il est correct.
 
 ## Liens externes
 

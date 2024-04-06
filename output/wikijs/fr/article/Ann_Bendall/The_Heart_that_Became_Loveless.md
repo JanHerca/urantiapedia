@@ -37,9 +37,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 _Le Livre d'Urantia_ donne une richesse d'informations sur Judas : son enfance, ses caractéristiques de personnalité et ses stratégies d'adaptation pour faire face aux événements de la vie. Les révélateurs, en indiquant qu'un attribut ou des caractéristiques particulières constituaient un obstacle au développement spirituel d'un individu (en particulier Judas), décrivent d'où cela a résulté et donnent des conseils sur la façon de les surmonter (pour les lecteurs qui pourraient reconnaître certaine similitude en eux-mêmes).
 
-Judas était l’enfant unique et gâté de parents imprudents. En conséquence, il a grandi avec des idées exagérées sur sa suffisance, idées auxquelles il a fortement adhéré. En raison de sa vision égocentrique du monde, il est devenu expert dans l’interprétation erronée des paroles et des actes de ses amis, les considérant comme étant liés à lui personnellement. Il espérait toujours gagner, était un piètre perdant et avait des idées vagues et déformées sur l'équité. Et Judas était enclin à la haine, à la suspicion et à la vengeance. Au lieu d'accepter les déceptions « _comme un évènement régulier et courant de l’existence humaine, il recourait infailliblement à la pratique de blâmer quelqu’un en particulier, ou ses associés collectivement, pour toutes ses difficultés ou ses désappointements personnels._ » <a id="a15_814"></a>[LU 193:4.7](/fr/The_Urantia_Book/193#p4_7)
+Judas était l’enfant unique et gâté de parents imprudents. En conséquence, il a grandi avec des idées exagérées sur sa suffisance, idées auxquelles il a fortement adhéré. En raison de sa vision égocentrique du monde, il est devenu expert dans l’interprétation erronée des paroles et des actes de ses amis, les considérant comme étant liés à lui personnellement. Il espérait toujours gagner, était un piètre perdant et avait des idées vagues et déformées sur l'équité. Et Judas était enclin à la haine, à la suspicion et à la vengeance. Au lieu d'accepter les déceptions « _comme un évènement régulier et courant de l’existence humaine, il recourait infailliblement à la pratique de blâmer quelqu’un en particulier, ou ses associés collectivement, pour toutes ses difficultés ou ses désappointements personnels._ » <a id="a39_814"></a>[LU 193:4.7](/fr/The_Urantia_Book/193#p4_7)
 
-Principalement, Judas « s’est trompé » parce qu’il était « une personnalité isolée ». Il ne se confiait ni ne fraternisait librement avec ceux avec qui il vivait en étroite association, préférant chercher conseil et consolation auprès de ses parents non spirituels ou de ces connaissances fortuites qui étaient soit indifférentes, soit réellement hostiles au bien-être et au progrès des réalités spirituelles de son pays. le royaume céleste, dont il était l'un des douze ambassadeurs consacrés sur terre <a id="a17_504"></a>[LU 193:4.7](/fr/The_Urantia_Book/193#p4_7).
+Principalement, Judas « s’est trompé » parce qu’il était « une personnalité isolée ». Il ne se confiait ni ne fraternisait librement avec ceux avec qui il vivait en étroite association, préférant chercher conseil et consolation auprès de ses parents non spirituels ou de ces connaissances fortuites qui étaient soit indifférentes, soit réellement hostiles au bien-être et au progrès des réalités spirituelles de son pays. le royaume céleste, dont il était l'un des douze ambassadeurs consacrés sur terre <a id="a41_504"></a>[LU 193:4.7](/fr/The_Urantia_Book/193#p4_7).
 
 Il n'est jamais allé voir le Maître avec un problème purement personnel ! Ce fait couplé à :
 
@@ -61,9 +61,9 @@ Il n'est jamais allé voir le Maître avec un problème purement personnel ! Ce 
 
 Certains des autres apôtres avaient des caractéristiques similaires à celles de Judas, mais ils ont choisi de grandir dans leur amour pour Jésus et les autres apôtres, conduisant ainsi à une croissance en grâce et en vérité. Ils sont devenus plus confiants, ont développé la confiance nécessaire pour se confier aux autres et, en toute honnêteté, ils ont eu envie de connaître et d’être connus.
 
-> « Judas n’apprit jamais qu’après tout, les récompenses réelles d’une noble vie sont des prix spirituels, qui ne sont pas toujours distribués pendant cette seule courte vie dans la chair. » (<a id="a39_192"></a>[LU 193:4.11](/fr/The_Urantia_Book/193#p4_11))
+> « Judas n’apprit jamais qu’après tout, les récompenses réelles d’une noble vie sont des prix spirituels, qui ne sont pas toujours distribués pendant cette seule courte vie dans la chair. » (<a id="a63_192"></a>[LU 193:4.11](/fr/The_Urantia_Book/193#p4_11))
 
-> « Dans son mental, Judas désirait ardemment les honneurs terrestres, et en vint à aimer ce désir de tout son cœur. » (<a id="a41_120"></a>[LU 177:4.10](/fr/The_Urantia_Book/177#p4_10))
+> « Dans son mental, Judas désirait ardemment les honneurs terrestres, et en vint à aimer ce désir de tout son cœur. » (<a id="a65_120"></a>[LU 177:4.10](/fr/The_Urantia_Book/177#p4_10))
 
 L'honneur du monde étant au centre de l'être de Judas, sa vision est devenue si trouble qu'il a finalement développé une image mentale de Jésus comme : un clown, un lâche ! Il avait honte de Jésus et lui en voulait amèrement, il devint irrité de ce qu'il considérait comme un manque d'appréciation de Jésus envers lui-même et était gêné d'être associé à lui. (Les autres apôtres étaient semblables à Judas dans leur soif mentale d’honneur, mais ils aimaient tellement Jésus qu’ils étaient prêts à substituer ses plus grandes vérités à leurs rêves de gloire.)
 
@@ -79,21 +79,21 @@ Si nous disséquons Judas en termes de personnalité, d’esprit, de tempéramen
 
 * __Émotionnellement,__ il était sans amour et impitoyable.
 
-* __Socialement,__ il était peu confiant et presque entièrement autonome, et pourtant il ne supportait pas le ridicule. C'est le ridicule qui a eu l'influence la plus puissante « dans sa détermination finale d'abandonner Jésus et ses compagnons apôtres » <a id="a57_255"></a>[LU 172:5.13](/fr/The_Urantia_Book/172#p5_13).
+* __Socialement,__ il était peu confiant et presque entièrement autonome, et pourtant il ne supportait pas le ridicule. C'est le ridicule qui a eu l'influence la plus puissante « dans sa détermination finale d'abandonner Jésus et ses compagnons apôtres » <a id="a81_255"></a>[LU 172:5.13](/fr/The_Urantia_Book/172#p5_13).
 
 * __En esprit,__ il est devenu arrogant et égoïstement ambitieux.
 
-* __Dans la vie,__ il ignorait ceux qui l'aimaient, et dans la mort, il était sans amis. <a id="a61_89"></a>[LU 193:4.13](/fr/The_Urantia_Book/193#p4_13)
+* __Dans la vie,__ il ignorait ceux qui l'aimaient, et dans la mort, il était sans amis. <a id="a85_89"></a>[LU 193:4.13](/fr/The_Urantia_Book/193#p4_13)
 
 * __Au moment de la prière,__ il se laissait aller à des pensées de peur humaine, persistait à entretenir des doutes subtils sur la mission de Jésus et cédait également à sa malheureuse tendance à nourrir des sentiments de vengeance.
 
-Ainsi, Judas semble être mort d’une mort lente et douloureuse. En raison de sa persistance à s'accrocher aux caractéristiques ci-dessus, « ses griefs se multiplièrent, ses chagrins s’accrurent, ses anxiétés augmentèrent et son désespoir atteignit une profondeur presque impossible à supporter. » <a id="a65_296"></a>[LU 193:4.12](/fr/The_Urantia_Book/193#p4_12). En décrivant le processus qui a conduit Judas à devenir un traître, Jésus a déclaré :
+Ainsi, Judas semble être mort d’une mort lente et douloureuse. En raison de sa persistance à s'accrocher aux caractéristiques ci-dessus, « ses griefs se multiplièrent, ses chagrins s’accrurent, ses anxiétés augmentèrent et son désespoir atteignit une profondeur presque impossible à supporter. » <a id="a89_296"></a>[LU 193:4.12](/fr/The_Urantia_Book/193#p4_12). En décrivant le processus qui a conduit Judas à devenir un traître, Jésus a déclaré :
 
-> « Ceci est la maturation du mal caché dans le cœur de l’un de vous, qui n’a pas réussi à aimer la vérité de toute son âme. Combien est trompeur l’orgueil intellectuel qui précède la chute spirituelle ! » (<a id="a67_207"></a>[LU 179:4.2](/fr/The_Urantia_Book/179#p4_2))
+> « Ceci est la maturation du mal caché dans le cœur de l’un de vous, qui n’a pas réussi à aimer la vérité de toute son âme. Combien est trompeur l’orgueil intellectuel qui précède la chute spirituelle ! » (<a id="a91_207"></a>[LU 179:4.2](/fr/The_Urantia_Book/179#p4_2))
 
 Et le verdict de Jésus sur la manière dont Judas serait jugé se reflète dans sa déclaration à Pilate :
 
-> « Mais tu n’es pas tellement coupable, car tu ignores l’évangile. Celui qui m’a trahi et celui qui m’a livré à toi ont commis le plus grand péché. » (<a id="a71_152"></a>[LU 185:7.2](/fr/The_Urantia_Book/185#p7_2))
+> « Mais tu n’es pas tellement coupable, car tu ignores l’évangile. Celui qui m’a trahi et celui qui m’a livré à toi ont commis le plus grand péché. » (<a id="a95_152"></a>[LU 185:7.2](/fr/The_Urantia_Book/185#p7_2))
 
 ## Liens externes
 

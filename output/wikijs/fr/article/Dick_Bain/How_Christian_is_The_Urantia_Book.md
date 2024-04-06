@@ -61,7 +61,7 @@ Il existe sans aucun doute de nombreux autres domaines dans lesquels les idées 
 
 La Bible et la théologie chrétienne contiennent des idées ignorées ou rejetées par _Le Livre d'Urantia_ comme suit :
 
-1. La doctrine de l’expiation : la théologie chrétienne, basée sur des interprétations bibliques, considère la mort de Jésus sur la croix comme un sacrifice pour satisfaire la justice de Dieu. Les auteurs du _Livre d'Urantia_ trouvent cela un concept particulièrement odieux, le qualifiant de « ... idée barbare... » (<a id="a39_318"></a>[LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)) [Pour être juste, il faut dire que de nombreux théologiens chrétiens libéraux ont rejeté l'interprétation sacrificielle de la croix et considèrent le mot « Expiation » comme révélateur d'un état d'« unité » avec Dieu.]
+1. La doctrine de l’expiation : la théologie chrétienne, basée sur des interprétations bibliques, considère la mort de Jésus sur la croix comme un sacrifice pour satisfaire la justice de Dieu. Les auteurs du _Livre d'Urantia_ trouvent cela un concept particulièrement odieux, le qualifiant de « ... idée barbare... » (<a id="a63_318"></a>[LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)) [Pour être juste, il faut dire que de nombreux théologiens chrétiens libéraux ont rejeté l'interprétation sacrificielle de la croix et considèrent le mot « Expiation » comme révélateur d'un état d'« unité » avec Dieu.]
 
 2. Enfer : _Le Livre d'Urantia_ n'a pas de place pour une punition temporaire ou éternelle. La conséquence ultime de l'iniquité est la non-résurrection.
 

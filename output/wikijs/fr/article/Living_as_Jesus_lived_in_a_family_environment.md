@@ -65,7 +65,7 @@ Ayant reconnu que tous les êtres humains, et en particulier nous-mêmes, sont a
 
 Une aide est également disponible dans le récit que nous avons de la jeunesse de Jésus dans laquelle il s'est attaqué à ces mêmes problèmes et les a surmontés en apprenant à ne jamais réagir à la volonté d'autrui, mais seulement à la volonté de Dieu et à sa propre volonté.[^3]  Nous pouvons imiter Jésus en faisant la même chose : refuser de réagir émotionnellement au comportement des autres en prenant d'abord une pause pour réfléchir, puis en référant notre problème au Dieu intérieur, et seulement après cela en répondant comme nous pensons que Jésus aurait répondu. ^3]
 
-Si nous pouvons transformer ce processus en une habitude, nous sommes sur la bonne voie pour devenir des vainqueurs. Cependant, nous aurons du mal à répondre comme nous croyons que Jésus aurait répondu si nous n'avions pas une connaissance approfondie de la vie de Jésus. C'est pourquoi les révélateurs ont dit que de toute connaissance humaine, celle qui a la plus grande valeur est de connaître le la vie religieuse de Jésus et comment il l'a vécue. (<a id="a43_453"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+Si nous pouvons transformer ce processus en une habitude, nous sommes sur la bonne voie pour devenir des vainqueurs. Cependant, nous aurons du mal à répondre comme nous croyons que Jésus aurait répondu si nous n'avions pas une connaissance approfondie de la vie de Jésus. C'est pourquoi les révélateurs ont dit que de toute connaissance humaine, celle qui a la plus grande valeur est de connaître le la vie religieuse de Jésus et comment il l'a vécue. (<a id="a67_453"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 Curieusement, c’est la défaite silencieuse et discrète de nos modèles de comportement animal dans notre environnement familial qui s’avère de loin avoir le plus grand potentiel d’influence sur le progrès spirituel à long terme de notre planète.
 
@@ -75,7 +75,7 @@ Ce changement discret dans nos vies, ces actes consistant à ne pas réagir à l
 
 Tous ceux qui ont été élevés dans une famille chrétienne pratiquante savent bien que, bien que le christianisme soit l'une des religions les plus éthiques ayant jamais existé sur Terre, la grande majorité de ses membres sont tout autant en proie aux problèmes de comportement animal de l'humanité que toute autre communauté. Le remède ne résidera donc pas dans la fréquentation de l’église, ni dans des sermons inspirants, ni dans de bonnes œuvres. C’est avant tout ce que les parents « sont » réellement dans leur propre vie familiale qui comptera. La révélation nous informe :
 
-> « Le mariage, avec les enfants et la vie de famille qui s’ensuit, stimule les plus hauts potentiels de la nature humaine et fournit en même temps le canal idéal pour exprimer ces attributs vivifiés de la personnalité de mortel. La famille assure la perpétuation biologique de l’espèce humaine. Le foyer est le cadre social naturel dans lequel les enfants grandissants peuvent saisir l’éthique de la fraternité du sang. La famille est l’unité fondamentale de fraternité dans laquelle parents et enfants apprennent les leçons de patience, d’altruisme, de tolérance et de longanimité qui sont si essentielles pour réaliser la fraternité entre tous les hommes. » (<a id="a53_662"></a>[LU 84:7.28](/fr/The_Urantia_Book/84#p7_28))
+> « Le mariage, avec les enfants et la vie de famille qui s’ensuit, stimule les plus hauts potentiels de la nature humaine et fournit en même temps le canal idéal pour exprimer ces attributs vivifiés de la personnalité de mortel. La famille assure la perpétuation biologique de l’espèce humaine. Le foyer est le cadre social naturel dans lequel les enfants grandissants peuvent saisir l’éthique de la fraternité du sang. La famille est l’unité fondamentale de fraternité dans laquelle parents et enfants apprennent les leçons de patience, d’altruisme, de tolérance et de longanimité qui sont si essentielles pour réaliser la fraternité entre tous les hommes. » (<a id="a77_662"></a>[LU 84:7.28](/fr/The_Urantia_Book/84#p7_28))
 
 > Voir un Monde dans un grain de sable,
 > Et un paradis dans une fleur sauvage,
@@ -127,8 +127,8 @@ Il y a trois cent cinquante ans, les Quakers avaient presque raison. Ils se sont
 
 [^1]: New Scientist, 10 août 2002, p. 23
 
-[^2]: « Exposez votre courte vie dans la chair... les possibilités transcendantes accessibles à un humain connaissant Dieu... » (<a id="a80_129"></a>[LU 120:2.8](/fr/The_Urantia_Book/120#p2_8). Emmanuel à Michael avant son incarnation)
+[^2]: « Exposez votre courte vie dans la chair... les possibilités transcendantes accessibles à un humain connaissant Dieu... » (<a id="a129_129"></a>[LU 120:2.8](/fr/The_Urantia_Book/120#p2_8). Emmanuel à Michael avant son incarnation)
 
 [^3]: Ann Bendall, « L'esprit de Jésus ». Innerface International Vol. 9., n° 5, 2002.
 
-[^4]: « _Permettez-moi de déclarer avec insistance cette vérité éternelle ; si, par la coordination de la vérité, vous apprenez à incarner dans votre vie cette belle intégralité de justice, vos semblables vous rechercheront alors afin de pouvoir acquérir ce que vous avez ainsi acquis._ » (<a id="a84_290"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
+[^4]: « _Permettez-moi de déclarer avec insistance cette vérité éternelle ; si, par la coordination de la vérité, vous apprenez à incarner dans votre vie cette belle intégralité de justice, vos semblables vous rechercheront alors afin de pouvoir acquérir ce que vous avez ainsi acquis._ » (<a id="a133_290"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))

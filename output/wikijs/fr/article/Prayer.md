@@ -35,7 +35,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 
 
-Tant que la prière est sincère et prononcée avec foi, même si une réponse directe est peu judicieuse ou impossible, toute prière de ce type ne manque jamais d’élargir notre réceptivité spirituelle. (à partir de <a id="a13_211"></a>[LU 144:4.2](/fr/The_Urantia_Book/144#p4_2))
+Tant que la prière est sincère et prononcée avec foi, même si une réponse directe est peu judicieuse ou impossible, toute prière de ce type ne manque jamais d’élargir notre réceptivité spirituelle. (à partir de <a id="a37_211"></a>[LU 144:4.2](/fr/The_Urantia_Book/144#p4_2))
 
 Ainsi, tout ce qui élargit notre réceptivité spirituelle doit être pour notre bien. C'est notre capacité de réceptivité spirituelle qui détermine la présence spirituelle de la Divinité dans nos vies, d'où notre potentiel de croissance de l'âme. La bonne nouvelle est que notre réceptivité peut être accrue.
 

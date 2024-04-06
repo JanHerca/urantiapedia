@@ -55,15 +55,15 @@ Jésus a dit : La volonté de Dieu est la voie de Dieu, le partenariat avec le c
 
 > Faire la Volonté de Dieu est donc l'expérience progressive de devenir de plus en plus semblable à Dieu, et Dieu est la source et la destinée de tout ce qui est bon, beau et vrai.
 
-> N’oubliez jamais que la seule aventure plus satisfaisante et plus passionnante que la tentative de découvrir la volonté du Dieu vivant, c’est l’expérience suprême de tâcher honnêtement de faire cette volonté divine. Rappelez-vous toujours que, dans toute occupation terrestre, on peut faire la volonté de Dieu. Il n’y a pas des métiers saints et des métiers profanes. Toutes choses sont sacrées dans la vie de ceux qui sont guidés par l’esprit, c’est-à-dire subordonnés à la vérité, ennoblis par l’amour, dominés par la miséricorde et tempérés par l’équité — par la justice. L’esprit, que mon Père et moi nous enverrons dans le monde, n’est pas seulement l’Esprit de Vérité, mais aussi l’esprit de beauté idéaliste. (<a id="a33_719"></a>[LU 155:6.11](/fr/The_Urantia_Book/155#p6_11))
+> N’oubliez jamais que la seule aventure plus satisfaisante et plus passionnante que la tentative de découvrir la volonté du Dieu vivant, c’est l’expérience suprême de tâcher honnêtement de faire cette volonté divine. Rappelez-vous toujours que, dans toute occupation terrestre, on peut faire la volonté de Dieu. Il n’y a pas des métiers saints et des métiers profanes. Toutes choses sont sacrées dans la vie de ceux qui sont guidés par l’esprit, c’est-à-dire subordonnés à la vérité, ennoblis par l’amour, dominés par la miséricorde et tempérés par l’équité — par la justice. L’esprit, que mon Père et moi nous enverrons dans le monde, n’est pas seulement l’Esprit de Vérité, mais aussi l’esprit de beauté idéaliste. (<a id="a57_719"></a>[LU 155:6.11](/fr/The_Urantia_Book/155#p6_11))
 
-> « Quand la volonté de Dieu est votre loi, vous êtes de nobles sujets esclaves ; mais, quand vous croyez à ce nouvel évangile de filiation divine, la volonté de mon Père devient votre volonté, et vous êtes élevés à la haute position de libres enfants de Dieu, de fils affranchis du royaume. » (<a id="a35_295"></a>[LU 141:2.2](/fr/The_Urantia_Book/141#p2_2))
+> « Quand la volonté de Dieu est votre loi, vous êtes de nobles sujets esclaves ; mais, quand vous croyez à ce nouvel évangile de filiation divine, la volonté de mon Père devient votre volonté, et vous êtes élevés à la haute position de libres enfants de Dieu, de fils affranchis du royaume. » (<a id="a59_295"></a>[LU 141:2.2](/fr/The_Urantia_Book/141#p2_2))
 
 Le royaume de Dieu dans ce monde est le désir suprême de faire la volonté de Dieu, l’amour désintéressé de l’homme qui produit les bons fruits d’une conduite éthique et morale améliorée.
 
 Même si nous ne pouvons pas voir Dieu, nous pouvons le connaître. Et en vivant quotidiennement la volonté du Père céleste, nous pouvons le révéler à nos semblables.
 
-> Dans le royaume à venir, ne vous occupez pas des choses qui entretiennent votre anxiété, mais plutôt occupez-vous en tout temps de faire la volonté du Père qui est aux cieux. » (<a id="a41_180"></a>[LU 137:1.6](/fr/The_Urantia_Book/137#p1_6))
+> Dans le royaume à venir, ne vous occupez pas des choses qui entretiennent votre anxiété, mais plutôt occupez-vous en tout temps de faire la volonté du Père qui est aux cieux. » (<a id="a65_180"></a>[LU 137:1.6](/fr/The_Urantia_Book/137#p1_6))
 
 Le Jésus humain considérait Dieu comme étant saint, juste et grand, tout en étant vrai, beau et bon. Il a concentré tous ces attributs divins dans son esprit comme étant la « volonté du Père céleste ».
 

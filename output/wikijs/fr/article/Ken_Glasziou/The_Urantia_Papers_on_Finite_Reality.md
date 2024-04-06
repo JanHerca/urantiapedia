@@ -79,7 +79,7 @@ La progression maximale atteignable par les créatures humaines culmine avec :
 - Notre connaissance du Suprême
 - Notre réalisation de la perfection, de l'harmonie et de l'unanimité de nos volontés, de telle sorte que le désir de faire la volonté du Père soit suprême dans nos âmes et dominant sur nos esprits.
 
-Ayant atteint cet état désirable, nous nous qualifions pour devenir « comme un » avec l’Esprit-Père intérieur, et ainsi passer de nos limitations mortelles vers les potentiels d’une existence spirituelle transcendante. À partir de ce moment-là, on peut s’attendre à ce que nos concepts de « réalité », finie ou transcendante, connaissent des progrès qui dépassent notre capacité actuelle de compréhension. (voir <a id="a57_412"></a>[LU 130:4.3](/fr/The_Urantia_Book/130#p4_3))
+Ayant atteint cet état désirable, nous nous qualifions pour devenir « comme un » avec l’Esprit-Père intérieur, et ainsi passer de nos limitations mortelles vers les potentiels d’une existence spirituelle transcendante. À partir de ce moment-là, on peut s’attendre à ce que nos concepts de « réalité », finie ou transcendante, connaissent des progrès qui dépassent notre capacité actuelle de compréhension. (voir <a id="a81_412"></a>[LU 130:4.3](/fr/The_Urantia_Book/130#p4_3))
 
 ## Liens externes
 

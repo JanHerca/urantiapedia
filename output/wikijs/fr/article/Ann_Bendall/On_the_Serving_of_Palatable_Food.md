@@ -51,7 +51,7 @@ Alors que je tends l’oreille pour écouter, c’est comme s’ils rejetaient v
 
 Soyons réalistes, si c’était la seule façon pour nous d’être pardonnés, Dieu n’impressionne rien d’autre que d’être craint. N’est-il donc pas regrettable que le Dieu Amour de Jésus, le Dieu que nous découvrons dans l’Évangile et les lettres de Jean, se soit transformé en Dieu de Moïse à travers la débâcle symbolique associée à l’interprétation paulinienne de la crucifixion ?
 
-Avec de tels négationnistes de Dieu, devrions-nous déclarer comme Jésus : « Cet homme n’avait pas faim de la vérité » (<a id="a29_119"></a>[LU 132:7.2](/fr/The_Urantia_Book/132#p7_2)) tout en nous sentant si délicieusement suffisants à l’idée de « faire comme Jésus ». Ou peut-être devrions-nous nous efforcer d’enrichir les connaissances qu’ils possèdent déjà, en leur servant « de la nourriture spirituelle sous une forme attrayante » (<a id="a29_418"></a>[LU 133:4.2](/fr/The_Urantia_Book/133#p4_2)) alors qu’ils semblent ne nous fournir aucune base sur laquelle ajouter ?
+Avec de tels négationnistes de Dieu, devrions-nous déclarer comme Jésus : « Cet homme n’avait pas faim de la vérité » (<a id="a53_119"></a>[LU 132:7.2](/fr/The_Urantia_Book/132#p7_2)) tout en nous sentant si délicieusement suffisants à l’idée de « faire comme Jésus ». Ou peut-être devrions-nous nous efforcer d’enrichir les connaissances qu’ils possèdent déjà, en leur servant « de la nourriture spirituelle sous une forme attrayante » (<a id="a53_418"></a>[LU 133:4.2](/fr/The_Urantia_Book/133#p4_2)) alors qu’ils semblent ne nous fournir aucune base sur laquelle ajouter ?
 
 Pour « ajouter » il faut d’abord essayer de comprendre ces personnes. Beaucoup de ceux qui nient l’existence de Dieu nient en réalité l’Église qui, sur Urantia, a revendiqué il y a longtemps un brevet, un droit d’auteur et un droit de propriété sur Dieu. (Tout novice en histoire peut constater que, presque dès ses débuts, l’Église est devenue tellement mêlée politiquement et socialement aux affaires humaines qu’elle a semblé oublier, ou considérer comme une faible priorité, son rôle de soutien et de soutien spirituel.)
 
@@ -69,7 +69,7 @@ Ironiquement, la plupart de cette population de négateurs de Dieu a généralem
 
 Même si nos négationnistes de Dieu peuvent être très capables d’arguments cinglants et bien réfléchis contre l’existence de Dieu, souvent basés sur l’hypocrisie historique de l’Église, ils acceptent les croyances superstitieuses sans poser de questions ni d’analyses !
 
-À ce jour, n’ayant pas été en mesure de formuler une hypothèse acceptable pour expliquer de telles croyances illogiques, je me base sur la déclaration de Melchisédek : « la religion évolutionniste est sentimentale et non logique ». (<a id="a47_233"></a>[LU 92:4.3](/fr/The_Urantia_Book/92#p4_3))
+À ce jour, n’ayant pas été en mesure de formuler une hypothèse acceptable pour expliquer de telles croyances illogiques, je me base sur la déclaration de Melchisédek : « la religion évolutionniste est sentimentale et non logique ». (<a id="a71_233"></a>[LU 92:4.3](/fr/The_Urantia_Book/92#p4_3))
 
 ## Les usurpateurs de Dieu.
 

@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
-Dans le fascicule 39 (<a id="a13_22"></a>[LU 39:5.5](/fr/The_Urantia_Book/39#p5_5)) du _Le Livre d'Urantia_ (437, édition 1955), nous sommes présentés à un groupe de séraphins, appelés les « Âmes de Paix ». Ces anges appartiennent à l'ordre des Aides Planétaires, qui commencent leur ministère sur un monde habité sous le régime adamique. En plus d’aider à favoriser la réalisation de « la paix sur terre et de la bonne volonté entre les hommes », on nous dit que : « Dans les époques les plus avancées de l’évolution planétaire, ces séraphins jouent un rôle déterminant dans le remplacement de l’idée d’expiation par le concept d’harmonisation divine comme une philosophie de survie mortelle. »
+Dans le fascicule 39 (<a id="a37_22"></a>[LU 39:5.5](/fr/The_Urantia_Book/39#p5_5)) du _Le Livre d'Urantia_ (437, édition 1955), nous sommes présentés à un groupe de séraphins, appelés les « Âmes de Paix ». Ces anges appartiennent à l'ordre des Aides Planétaires, qui commencent leur ministère sur un monde habité sous le régime adamique. En plus d’aider à favoriser la réalisation de « la paix sur terre et de la bonne volonté entre les hommes », on nous dit que : « Dans les époques les plus avancées de l’évolution planétaire, ces séraphins jouent un rôle déterminant dans le remplacement de l’idée d’expiation par le concept d’harmonisation divine comme une philosophie de survie mortelle. »
 
 Cette description de leur ministère est intrigante dans son lien entre paix et harmonisation. Pendant des années, je me suis demandé pourquoi le remplacement de la doctrine de l’expiation était si vital et pertinent pour parvenir à la paix planétaire.
 

@@ -60,7 +60,7 @@ Les données chronologiques sont dissimulées dans l'expression « en ces jours-
 
 Un papyrus conservé au musée britannique indique que le recensement romain a commencé en 8 av. Un autre papyrus égyptien indique qu'il était d'usage que les gens retournent dans leur ville de naissance pour finaliser l'enregistrement de leur famille.
 
-Notez que le Livre d'Urantia déclare que Jésus est né à Bethléem le 21 août 7 av. (<a id="a38_83"></a>[LU 122:7.6](/fr/The_Urantia_Book/122#p7_6)) et que Joseph et Marie, ayant été avertis de l'intention d'Hérode à la mi-octobre de l'an 6 av. J.-C., de tuer tous les enfants de moins de deux ans à Bethléem, partirent pour Alexandrie en Égypte. (<a id="a38_327"></a>[LU 122:10.3](/fr/The_Urantia_Book/122#p10_3))
+Notez que le Livre d'Urantia déclare que Jésus est né à Bethléem le 21 août 7 av. (<a id="a62_83"></a>[LU 122:7.6](/fr/The_Urantia_Book/122#p7_6)) et que Joseph et Marie, ayant été avertis de l'intention d'Hérode à la mi-octobre de l'an 6 av. J.-C., de tuer tous les enfants de moins de deux ans à Bethléem, partirent pour Alexandrie en Égypte. (<a id="a62_327"></a>[LU 122:10.3](/fr/The_Urantia_Book/122#p10_3))
 
 Tout cela démontre une congruence remarquable d’informations provenant des Évangiles de Luc et de Matthieu, d’un papyrus du musée britannique et d’un autre d’Égypte, de découvertes archéologiques d’Égypte et d’Antioche, de plusieurs historiens et enfin du Livre d’Urantia.
 

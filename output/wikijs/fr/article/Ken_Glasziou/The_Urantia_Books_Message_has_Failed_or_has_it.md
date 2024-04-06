@@ -40,7 +40,7 @@ Pour justifier un changement significatif, nous devons d’abord admettre que no
 > La course n'est pas réservée aux rapides, ni la bataille aux forts.
 > [Ecclésiaste IX, 2](/fr/Bible/Ecclesiastes/9#v2)
 
-> Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. (<a id="a18_158"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
+> Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. (<a id="a42_158"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
 
 C’était en 1987, avant même que le désastre actuel n’aggrave encore la situation. Jim a dit sans détour qu'à son avis _Le Livre d'Urantia_ avait déjà échoué et que, à un moment donné dans le futur, les révélateurs devraient faire une autre tentative. Cependant, **le livre lui-même déclare que la révélation réussira**, il est donc sûrement trop tôt pour abandonner. Le document 195 dit : « ... les vérités de l’Évangile de Jésus persisteront glorieusement pour éclairer une voie nouvelle et meilleure.
 
@@ -50,7 +50,7 @@ Mais avant d’abandonner, il y a deux choses dont je suis sûr. La première es
 
 Mon deuxième point de certitude est que la réforme du christianisme était le principal espoir des révélateurs pour le succès de leur révélation. Je crois qu’ils étaient bien conscients que le christianisme n’accepterait pas facilement une nouvelle révélation et que ceux qui l’accepteraient devraient trouver le moyen de la présenter au troupeau. Ils nous disent :
 
-> « Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. » (<a id="a28_384"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> « Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. » (<a id="a52_384"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 Alors s’il vous plaît, ne soyons pas comme la majorité de la génération actuelle de chrétiens aux pieds plantés dans le béton. Soyons réalistes. Car, compte tenu de l’état dégénéré de la société occidentale et pour le bien des nouvelles générations qui grandissent sans Dieu et sans sens à leur vie, **ne serait-ce pas un crime contre l’humanité de ne pas le faire ?**
 

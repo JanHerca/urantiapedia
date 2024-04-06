@@ -53,7 +53,7 @@ dateCreated: 2022-9-9T8:13:38Z
 > 
 > 8. *Le désintéressement —* l’esprit d’oubli de soi — est-il désirable ? Alors, il faut que l’homme mortel vive face à face avec les clameurs incessantes d’un moi qui demande inéluctablement reconnaissance et honneur. L’homme ne pourrait choisir dynamiquement la vie divine s’il n’y avait pas une vie du moi à délaisser. L’homme ne pourrait jamais faire jouer la droiture pour son salut s’il n’y avait pas de mal potentiel pour exalter et différencier le bien par contraste.
 > 
-> 9. *Le plaisir —* la satisfaction du bonheur — est-il désirable ? Alors, il faut que l’homme vive dans un monde où l’alternative de la douleur et la probabilité de la souffrance soient des possibilités d’expérience toujours présentes. (<a id="a31_238"></a>[LU 3:5.5-14](/fr/The_Urantia_Book/3#p5_5))
+> 9. *Le plaisir —* la satisfaction du bonheur — est-il désirable ? Alors, il faut que l’homme vive dans un monde où l’alternative de la douleur et la probabilité de la souffrance soient des possibilités d’expérience toujours présentes. (<a id="a55_238"></a>[LU 3:5.5-14](/fr/The_Urantia_Book/3#p5_5))
 
 ## Liens externes
 

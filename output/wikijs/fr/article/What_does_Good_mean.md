@@ -37,7 +37,7 @@ dateCreated: 2022-09-27T00:55:39.184Z
 
 Il n'est pas possible que l'Esprit ait plus de bonté que le Père puisque toute bonté a son origine dans le Père, mais dans les actes de l'Esprit nous pouvons mieux comprendre cette bonté.
 
-> « Pourquoi m’appelles-tu bon ? Nul n’est bon sinon Dieu, » (<a id="a15_62"></a>[LU 196:2.2](/fr/The_Urantia_Book/196#p2_2))
+> « Pourquoi m’appelles-tu bon ? Nul n’est bon sinon Dieu, » (<a id="a39_62"></a>[LU 196:2.2](/fr/The_Urantia_Book/196#p2_2))
 
 Le Jésus humain considérait Dieu comme étant saint, juste et grand, tout en étant vrai, beau et bon. Il a concentré tous ces attributs divins dans son esprit comme étant la « volonté du Père céleste ». Le Dieu de Jésus était à la fois « le Saint d’Israël » et « le Père céleste vivant et aimant ».
 

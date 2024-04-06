@@ -35,9 +35,9 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-Disséminées dans la composante scientifique, nous trouvons des déclarations assez prophétiques. Cette inclusion est conforme à une déclaration du mandat (<a id="a13_154"></a>[LU 101:4.8](/fr/The_Urantia_Book/101#p4_8)) selon laquelle la fourniture d'éléments clés de connaissances essentielles ou oubliées était autorisée. Cependant, l’inclusion de ces informations ésotériques contraste étrangement avec une grande partie des autres sciences contenues dans le livre qui auraient été connues même des lycéens des années 1930, lorsque les articles ont été reçus pour la première fois.
+Disséminées dans la composante scientifique, nous trouvons des déclarations assez prophétiques. Cette inclusion est conforme à une déclaration du mandat (<a id="a37_154"></a>[LU 101:4.8](/fr/The_Urantia_Book/101#p4_8)) selon laquelle la fourniture d'éléments clés de connaissances essentielles ou oubliées était autorisée. Cependant, l’inclusion de ces informations ésotériques contraste étrangement avec une grande partie des autres sciences contenues dans le livre qui auraient été connues même des lycéens des années 1930, lorsque les articles ont été reçus pour la première fois.
 
-Le mandat comporte ces mentions : « _... les futurs étudiants d’une telle révélation sont tentés de l’écarter... il... parce qu'ils découvrent des erreurs... Nous ne sommes pas libres d’anticiper les découvertes scientifiques de mille ans... La cosmologie de ces révélations n’est pas inspirée._” (<a id="a15_298"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
+Le mandat comporte ces mentions : « _... les futurs étudiants d’une telle révélation sont tentés de l’écarter... il... parce qu'ils découvrent des erreurs... Nous ne sommes pas libres d’anticiper les découvertes scientifiques de mille ans... La cosmologie de ces révélations n’est pas inspirée._” (<a id="a39_298"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2))
 
 Nous ne devons pas nous laisser décourager par les erreurs perçues dans la cosmologie (qui inclut la science). Nous sommes prévenus : la vérité est là où vous la trouvez.
 
@@ -45,13 +45,13 @@ Nous ne devons pas nous laisser décourager par les erreurs perçues dans la cos
 
 J'ai souvent réfléchi à la séquence de texte qui suit le sermon d'ordination de Jésus aux apôtres dans la quatrième partie. Là, Jésus annonce qu'il est sur terre uniquement pour réconforter les esprits, libérer les esprits et sauver les âmes des hommes. Après une pause, il continue :
 
-> « _Il vous faut toujours reconnaitre les deux points de vue de toute conduite des mortels — l’humain et le divin, les voies de la chair et la voie de l’esprit, l‘estimation du temps et le point de vue de l’éternité._ » (<a id="a23_222"></a>[LU 140:6.7](/fr/The_Urantia_Book/140#p6_7))
+> « _Il vous faut toujours reconnaitre les deux points de vue de toute conduite des mortels — l’humain et le divin, les voies de la chair et la voie de l’esprit, l‘estimation du temps et le point de vue de l’éternité._ » (<a id="a47_222"></a>[LU 140:6.7](/fr/The_Urantia_Book/140#p6_7))
 
 Ce commentaire est ensuite suivi de :
 
-> « _Vous trébucherez sur mon enseignement parce ***que vous avez coutume d’interpréter mon message à la lettre ; vous êtes lents à discerner l’esprit de mon enseignement***._ » (<a id="a27_179"></a>[LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
+> « _Vous trébucherez sur mon enseignement parce ***que vous avez coutume d’interpréter mon message à la lettre ; vous êtes lents à discerner l’esprit de mon enseignement***._ » (<a id="a51_179"></a>[LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
 
-Dans notre lecture, la plupart d’entre nous passent probablement sous silence cet avertissement, le considérant comme s’appliquant aux apôtres. Mais dans le même paragraphe, Jésus dit : « _N’oubliez jamais que j’ai des brebis qui ne font pas partie de ce troupeau, et que je suis également tenu de leur fournir le modèle pour la manière de faire la volonté de Dieu tout en vivant la vie de la nature mortelle._” (<a id="a29_413"></a>[LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
+Dans notre lecture, la plupart d’entre nous passent probablement sous silence cet avertissement, le considérant comme s’appliquant aux apôtres. Mais dans le même paragraphe, Jésus dit : « _N’oubliez jamais que j’ai des brebis qui ne font pas partie de ce troupeau, et que je suis également tenu de leur fournir le modèle pour la manière de faire la volonté de Dieu tout en vivant la vie de la nature mortelle._” (<a id="a53_413"></a>[LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
 
 Je me demande si nous, les gens du XXe siècle, ne sommes pas des « brebis qui ne font pas partie de ce troupeau ». Ces pêcheurs galiléens pataugeaient déjà au-delà de leurs profondeurs. Ils venaient de demander à Jésus de l'aider à le comprendre. Le commentaire de Jésus, s’il leur avait été adressé, les aurait complètement bouleversés. Alors, est-ce inclus dans les Cahiers spécifiquement pour notre bénéfice ? Si tel est le cas, cela nous dit-il de ne pas prendre les enseignements au sens littéral ?
 

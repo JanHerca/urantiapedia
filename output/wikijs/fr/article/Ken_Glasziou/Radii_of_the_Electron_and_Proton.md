@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-> « Si la masse de la matière devait être agrandie jusqu'à ce que celle d'un électron soit égale à un dixième d'once, alors si la taille était proportionnellement agrandie, le volume d'un tel électron deviendrait aussi grand que la terre. » (<a id="a13_242"></a>[LU 42:6](/fr/The_Urantia_Book/42#p6))
+> « Si la masse de la matière devait être agrandie jusqu'à ce que celle d'un électron soit égale à un dixième d'once, alors si la taille était proportionnellement agrandie, le volume d'un tel électron deviendrait aussi grand que la terre. » (<a id="a37_242"></a>[LU 42:6](/fr/The_Urantia_Book/42#p6))
 
 Je me suis souvent demandé combien de lecteurs du Livre d’Urantia ont pris la peine de faire les calculs et ont ensuite mis leur réponse de côté, perplexes. Car ce n’est que vers 1990 que cette affirmation a commencé à prendre un sens.
 
@@ -61,7 +61,7 @@ La question qui se pose est de savoir comment une telle estimation aurait pu êt
 
 Le Cahier d'Urantia contient également :
 
-> « Si le volume d'un proton – mille huit cents fois plus lourd qu'un électron – devait être agrandi jusqu'à la taille de la tête d'une épingle, alors, en comparaison, la tête d'une épingle atteindrait un diamètre égal à celui de l'orbite terrestre. autour du Soleil." (<a id="a39_270"></a>[LU 42:6](/fr/The_Urantia_Book/42#p6))
+> « Si le volume d'un proton – mille huit cents fois plus lourd qu'un électron – devait être agrandi jusqu'à la taille de la tête d'une épingle, alors, en comparaison, la tête d'une épingle atteindrait un diamètre égal à celui de l'orbite terrestre. autour du Soleil." (<a id="a63_270"></a>[LU 42:6](/fr/The_Urantia_Book/42#p6))
 
 Encore une fois, nous sommes redevables à Stefan Tallqvist d’avoir pris la peine de faire les calculs et d’attirer l’attention sur les résultats.
 

@@ -38,9 +38,9 @@ Par l’ancienne méthode, vous cherchez à supprimer, à obéir et à vous conf
 
 N’oubliez pas : c’est votre foi personnelle dans les promesses extrêmement grandes et précieuses de Dieu qui garantit que vous devenez participants de la nature divine. Ainsi, par votre foi et la transformation de l'esprit, vous devenez en réalité les temples de Dieu, et son esprit habite réellement en vous.
 
-Si donc l’esprit habite en vous, vous n’êtes plus des esclaves de la chair mais des fils libres et libérés de l’esprit. La nouvelle loi de l’esprit vous confère la liberté de maîtrise de soi, à la place de l’ancienne loi de la peur de l’esclavage et de l’esclavage du renoncement. (<a id="a19_282"></a>[LU 143:2.4](/fr/The_Urantia_Book/143#p2_4))
+Si donc l’esprit habite en vous, vous n’êtes plus des esclaves de la chair mais des fils libres et libérés de l’esprit. La nouvelle loi de l’esprit vous confère la liberté de maîtrise de soi, à la place de l’ancienne loi de la peur de l’esclavage et de l’esclavage du renoncement. (<a id="a40_282"></a>[LU 143:2.4](/fr/The_Urantia_Book/143#p2_4))
 
-> Mais n’en doutez pas, ce même royaume des cieux, dont le Maitre enseigna l’existence dans le cœur des hommes, sera encore proclamé à cette Église chrétienne, ainsi qu’à toutes les autres religions, races et nations de la terre — et même à chaque individu. (<a id="a21_259"></a>[LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
+> Mais n’en doutez pas, ce même royaume des cieux, dont le Maitre enseigna l’existence dans le cœur des hommes, sera encore proclamé à cette Église chrétienne, ainsi qu’à toutes les autres religions, races et nations de la terre — et même à chaque individu. (<a id="a42_259"></a>[LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
 
 ## Liens externes
 

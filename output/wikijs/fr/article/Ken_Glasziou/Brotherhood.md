@@ -35,19 +35,19 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-> « La paix religieuse — la fraternité — ne peut jamais exister sans que toutes les religions soient disposées à se dépouiller de toute autorité ecclésiastique et à abandonner entièrement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain. » (<a id="a13_265"></a>[LU 134:4.4](/fr/The_Urantia_Book/134#p4_4))
+> « La paix religieuse — la fraternité — ne peut jamais exister sans que toutes les religions soient disposées à se dépouiller de toute autorité ecclésiastique et à abandonner entièrement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain. » (<a id="a37_265"></a>[LU 134:4.4](/fr/The_Urantia_Book/134#p4_4))
 
 Vous ne pouvez avoir la liberté religieuse que si vous transférez TOUTE l’autorité religieuse à un niveau surhumain, à Dieu lui-même. La fraternité, le royaume des cieux dans le cœur des hommes et des femmes, créera l’unité religieuse si, et seulement si, les religieux sont libres de toute notion d’autorité et de souveraineté ecclésiastique (religieuse).
 
 Le terme « autorité ecclésiastique » dérive du grec ancien « ecclesia », l’assemblée des hommes libres d’Athènes, et a évolué pour désigner l’autorité religieuse par opposition à l’autorité civile. Les fascicules nous informent que la fraternité religieuse n'est possible que lorsque ses frères et sœurs rejettent toute autorité religieuse autre que Dieu lui-même.
 
-Ceci est souligné par leur affirmation selon laquelle, au moment même où nous perdons de vue le fait que Dieu est l’unique autorité sur les questions religieuses, notre type particulier de religion commencera à tenter d’affirmer sa supériorité. Le résultat, affirment-ils, sera toujours des dissensions, des récriminations, voire des « guerres » entre religieux – ce qui n’est guère une « fraternité ». (<a id="a19_404"></a>[LU 134:4.8](/fr/The_Urantia_Book/134#p4_8))
+Ceci est souligné par leur affirmation selon laquelle, au moment même où nous perdons de vue le fait que Dieu est l’unique autorité sur les questions religieuses, notre type particulier de religion commencera à tenter d’affirmer sa supériorité. Le résultat, affirment-ils, sera toujours des dissensions, des récriminations, voire des « guerres » entre religieux – ce qui n’est guère une « fraternité ». (<a id="a43_404"></a>[LU 134:4.8](/fr/The_Urantia_Book/134#p4_8))
 
 Comme en témoignent les « guerres », les divisions et la décimation passées au sein du mouvement, même ceux qui croient en l’autorité des Cahiers d’Urantia n’en sont pas exemptés. D’une manière ou d’une autre, nous devons intégrer au premier plan de notre esprit le fait que nos croyances religieuses sont entre nous, en tant qu’individus, et notre Dieu, et ne doivent pas être imposées aux autres, ni même suggérées comme étant supérieures.
 
 La « règle universelle » semble être que nous pouvons présenter nos opinions religieuses aux autres, mais que nous ne devons jamais chercher à les imposer, à suggérer leur supériorité ou à dénigrer les opinions des autres. Agir ainsi, c’est usurper une autorité à laquelle nous ne pouvons avoir aucun droit ni prétendre.
 
-Les êtres libres, nous dit-on, qui ignorent ces directives, mettront inévitablement à l’épreuve leur propre capacité à acquérir du pouvoir et de l’autorité d’une manière ou d’une autre. (<a id="a25_187"></a>[LU 134:4.9](/fr/The_Urantia_Book/134#p4_9)) La véritable fraternité n'émerge qu'avec la reconnaissance de l'autorité unique de Dieu dans toutes les questions religieuses.
+Les êtres libres, nous dit-on, qui ignorent ces directives, mettront inévitablement à l’épreuve leur propre capacité à acquérir du pouvoir et de l’autorité d’une manière ou d’une autre. (<a id="a49_187"></a>[LU 134:4.9](/fr/The_Urantia_Book/134#p4_9)) La véritable fraternité n'émerge qu'avec la reconnaissance de l'autorité unique de Dieu dans toutes les questions religieuses.
 
 L’histoire nous enseigne que l’humanité a toujours tenté à plusieurs reprises d’usurper l’autorité de Dieu.
 

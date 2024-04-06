@@ -43,7 +43,7 @@ L’une des principales sources de discorde concernait la question de savoir qui
 
 Il est probable que les disciples de Jésus se sentaient à un niveau supérieur à celui de Jean. Peut-être était-ce en compensation que les disciples de Jean se sont vu accorder le droit exclusif de baptiser les nouveaux convertis.
 
-> Plus un homme approche Dieu de près par l’amour, plus la réalité — l’actualité — de cet homme est grande. Plus un homme se retire de Dieu, plus il approche de près la non-réalité — la cessation d’existence. (<a id="a21_210"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
+> Plus un homme approche Dieu de près par l’amour, plus la réalité — l’actualité — de cet homme est grande. Plus un homme se retire de Dieu, plus il approche de près la non-réalité — la cessation d’existence. (<a id="a45_210"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
 
 Le libellé exact de leur cérémonie de baptême nous est perdu, mais il est peu probable qu'il ait été très différent de celui de leur chef décédé.
 
@@ -57,7 +57,7 @@ Même si, à première vue, les efforts visant à jouer avec Dieu peuvent appara
 
 Le jeu de Dieu et la fierté qui y est associée sont un piège permanent. Car une fois que nos motivations sont polluées et que, en réalité, nous commençons à valoriser la gloire des hommes, alors cette gloire est sa propre récompense. En tant que tels, nos efforts n’ont aucune valeur spirituelle.
 
-> « Ne recherchez donc pas une paix trompeuse et une joie temporaire, mais plutôt l’assurance de la foi et la sécurité de la filiation divine, qui donnent la quiétude, le contentement et la joie suprême dans l’esprit. » (<a id="a35_221"></a>[LU 149:5.4](/fr/The_Urantia_Book/149#p5_4))
+> « Ne recherchez donc pas une paix trompeuse et une joie temporaire, mais plutôt l’assurance de la foi et la sécurité de la filiation divine, qui donnent la quiétude, le contentement et la joie suprême dans l’esprit. » (<a id="a59_221"></a>[LU 149:5.4](/fr/The_Urantia_Book/149#p5_4))
 
 ## Liens externes
 

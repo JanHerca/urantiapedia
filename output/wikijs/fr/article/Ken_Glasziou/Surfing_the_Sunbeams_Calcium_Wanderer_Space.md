@@ -37,9 +37,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <figcaption><em>Surfer sur les sunbcams nécessite de l'énergie que le calcium atomique acquiert grâce à la lumière du soleil. Les bandes H et K sont visibles en haut à gauche de ce spectre réalisé avec un spectrohéliographe de 14 pieds.</em> <a href="https://www.researchgate.net/figure/Fraunhofer-lines-in-the-solar-spectrum.jpg">ResearchGate</a></figcaption>
 </figure>
 
-> ...L’imprégnation de l’espace local par le calcium est due au fait qu’il s’échappe sous forme modifiée de la photosphère solaire en chevauchant littéralement sur les rayons de soleil émis. ... (<a id="a18_196"></a>[LU 41:6.3](/fr/The_Urantia_Book/41#p6_3))
+> ...L’imprégnation de l’espace local par le calcium est due au fait qu’il s’échappe sous forme modifiée de la photosphère solaire en chevauchant littéralement sur les rayons de soleil émis. ... (<a id="a39_196"></a>[LU 41:6.3](/fr/The_Urantia_Book/41#p6_3))
 
-Combien d'entre nous ont été intrigués par la section du Livre d'Urantia intitulée <a id="a20_83"></a>[Calcium, the Wanderer of Space](/fr/The_Urantia_Book/41#p6) ? Eh bien, les principales sources humaines utilisées dans la composition de cette présentation ont été découvertes, grâce aux dons uniques du lecteur, Matthew Block, et à son utilisation dévouée et implacable de ces dons pour traquer certains des « concepts humains » (<a id="a20_414"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)), les « schémas de pensée humaine » (<a id="a20_495"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12)) et les « déclarations cosmologiques » définies dans le livre comme « jamais inspirées ». (<a id="a20_632"></a>[LU 101:4.5](/fr/The_Urantia_Book/101#p4_5)) Cette source était un cours de « Discussion du soir », intitulé « Étoiles et atomes », présenté par Sir Arthur Eddington à la British Association à Oxford en août 1926. Dans l'espoir qu'une personne suffisamment qualifiée parmi nos les lecteurs seront maintenant inspirés pour faire une analyse comparative des concepts d'Eddington et du Livre d'Urantia sur la pierre errante du cosmos, des extraits pertinents des conférences d'Eddington sont annexés. Il semble être disponible sur microfilm auprès de l'Ohio State University, mais, si nécessaire, Innerface International, Australie, s'engage à fournir une copie de ce dont nous disposons.
+Combien d'entre nous ont été intrigués par la section du Livre d'Urantia intitulée <a id="a41_83"></a>[Calcium, the Wanderer of Space](/fr/The_Urantia_Book/41#p6) ? Eh bien, les principales sources humaines utilisées dans la composition de cette présentation ont été découvertes, grâce aux dons uniques du lecteur, Matthew Block, et à son utilisation dévouée et implacable de ces dons pour traquer certains des « concepts humains » (<a id="a41_414"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)), les « schémas de pensée humaine » (<a id="a41_495"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12)) et les « déclarations cosmologiques » définies dans le livre comme « jamais inspirées ». (<a id="a41_632"></a>[LU 101:4.5](/fr/The_Urantia_Book/101#p4_5)) Cette source était un cours de « Discussion du soir », intitulé « Étoiles et atomes », présenté par Sir Arthur Eddington à la British Association à Oxford en août 1926. Dans l'espoir qu'une personne suffisamment qualifiée parmi nos les lecteurs seront maintenant inspirés pour faire une analyse comparative des concepts d'Eddington et du Livre d'Urantia sur la pierre errante du cosmos, des extraits pertinents des conférences d'Eddington sont annexés. Il semble être disponible sur microfilm auprès de l'Ohio State University, mais, si nécessaire, Innerface International, Australie, s'engage à fournir une copie de ce dont nous disposons.
 
 Extrait de « Étoiles et atomes » de Sir Arthur Eddington :
 
@@ -86,7 +86,7 @@ Extrait de « Étoiles et atomes » de Sir Arthur Eddington :
 
 > **Question aux lecteurs**
 >
-> _Le Livre d'Urantia_ (<a id="a67_24"></a>[LU 41:6.5](/fr/The_Urantia_Book/41#p6_5)) donne un chiffre d'un millionième de seconde pour le temps de relaxation de l'état excité du calcium comparé au cent millionième de seconde d'Eddington. La figure du Livre d'Urantia est-elle une erreur typographique ou de copie, ou quelque chose du genre, ou est-ce une correction délibérée par les révélateurs des calculs du professeur Milne ??? Des lecteurs peuvent-ils répondre ?
+> _Le Livre d'Urantia_ (<a id="a88_24"></a>[LU 41:6.5](/fr/The_Urantia_Book/41#p6_5)) donne un chiffre d'un millionième de seconde pour le temps de relaxation de l'état excité du calcium comparé au cent millionième de seconde d'Eddington. La figure du Livre d'Urantia est-elle une erreur typographique ou de copie, ou quelque chose du genre, ou est-ce une correction délibérée par les révélateurs des calculs du professeur Milne ??? Des lecteurs peuvent-ils répondre ?
 
 ## Liens externes
 
@@ -122,4 +122,4 @@ Extrait de « Étoiles et atomes » de Sir Arthur Eddington :
 
 ## Remarques
 
-[^1]: _Note de l'auteur_ : _Le Livre d'Urantia_, <a id="a81_49"></a>[LU 41:6.5](/fr/The_Urantia_Book/41#p6_5), dit un millionième de seconde.
+[^1]: _Note de l'auteur_ : _Le Livre d'Urantia_, <a id="a124_49"></a>[LU 41:6.5](/fr/The_Urantia_Book/41#p6_5), dit un millionième de seconde.

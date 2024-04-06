@@ -44,7 +44,7 @@ dateCreated: 2022-9-9T8:13:39Z
 - À mesure qu'elle mûrit, notre âme se rapproche de plus en plus de son actualisation en tant qu'entité intervenant entre le matériel et le spirituel, le moi matériel et l'esprit divin intérieur.
 - Le mortel moralement conscient « connaît » intuitivement l'existence de son âme en tant qu'expérience spirituelle réelle et personnelle.
 
-Source : _Le Livre d'Urantia_, <a id="a22_31"></a>[LU 133:6.5-7](/fr/The_Urantia_Book/133#p6_5)
+Source : _Le Livre d'Urantia_, <a id="a46_31"></a>[LU 133:6.5-7](/fr/The_Urantia_Book/133#p6_5)
 
 > La foi est l'audace de l'âme d'aller plus loin que ce qu'elle peut voir.
 > _Inspirations_ (anon.)

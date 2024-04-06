@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Dans quelle mesure notre libre arbitre est-il libre ? Jusqu’où s’étend-il. Des limites doivent être là. À un extrême, nous ne sommes pas libres de commettre des actes irréalisables. Un examen attentif de ce qui nous est donné dans les Cahiers d'Urantia nous en dit plus sur ce que nous pouvons faire que sur ce que nous ne pouvons pas faire.
 
-Avant tout, nous sommes libres de faire notre propre choix concernant notre destinée éternelle. Et aucune force, créateur ou agent dans l’ensemble des univers n’est autorisé à interférer avec ce choix. À cet égard, le Père Universel a décrété la souveraineté absolue du libre arbitre des mortels. (<a id="a15_298"></a>[LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
+Avant tout, nous sommes libres de faire notre propre choix concernant notre destinée éternelle. Et aucune force, créateur ou agent dans l’ensemble des univers n’est autorisé à interférer avec ce choix. À cet égard, le Père Universel a décrété la souveraineté absolue du libre arbitre des mortels. (<a id="a36_298"></a>[LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
 
-De plus, toute forme de coercition dans notre choix est positivement exclue. La porte de l’éternité ne s’ouvre « qu’en réponse au choix libre des fils du Dieu du libre arbitre ». (<a id="a17_180"></a>[LU 5:6.12](/fr/The_Urantia_Book/5#p6_12))
+De plus, toute forme de coercition dans notre choix est positivement exclue. La porte de l’éternité ne s’ouvre « qu’en réponse au choix libre des fils du Dieu du libre arbitre ». (<a id="a38_180"></a>[LU 5:6.12](/fr/The_Urantia_Book/5#p6_12))
 
 Si nous souhaitons comprendre certaines des particularités des Cahiers d’Urantia, et particulièrement si nous sommes enclins à avoir une attitude fondamentaliste à leur égard, nous devrons peut-être consacrer un temps et des efforts considérables à analyser ce que nous considérons comme constituant une coercition ou une interférence avec « » le choix libre d’un fils libre arbitre du Dieu du libre arbitre.
 
@@ -58,7 +58,7 @@ Le comportement humain est une forme modifiée de comportement animal provoquée
 
 Nous, les humains, possédons tous les attributs nécessaires pour prendre des décisions librement. Mais les pouvoirs en place ont décrété que nous ne devons pas être contraints à prendre une décision particulière. Cette décision particulière consiste à choisir pour toujours la volonté de Dieu plutôt que la nôtre. Cette même décision est également décrite comme l’entrée dans le royaume, le « choix de la vie éternelle », le « salut », etc. Et cela doit se faire par la foi et par la foi seule. Ceci s’exprime sous de nombreuses formes :
 
-> « Le salut... on ne l’obtient qu’en croyant, par une foi simple et sincère » (<a id="a39_80"></a>[LU 140:10.1](/fr/The_Urantia_Book/140#p10_1)) ; « L'obtention du salut se fait par la foi et par la foi seule » (<a id="a39_194"></a>[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6)) ; « La foi, la simple foi d'enfant est la clé de la porte du royaume » (<a id="a39_311"></a>[LU 170:3.2](/fr/The_Urantia_Book/170#p3_2)) ; « Seule la foi vous fera franchir ses portails. » (<a id="a39_409"></a>[LU 140:1.4](/fr/The_Urantia_Book/140#p1_4)); « L’individu ne connaît Dieu que par la foi. » (<a id="a39_503"></a>[LU 102:6.5](/fr/The_Urantia_Book/102#p6_5)).
+> « Le salut... on ne l’obtient qu’en croyant, par une foi simple et sincère » (<a id="a60_80"></a>[LU 140:10.1](/fr/The_Urantia_Book/140#p10_1)) ; « L'obtention du salut se fait par la foi et par la foi seule » (<a id="a60_194"></a>[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6)) ; « La foi, la simple foi d'enfant est la clé de la porte du royaume » (<a id="a60_311"></a>[LU 170:3.2](/fr/The_Urantia_Book/170#p3_2)) ; « Seule la foi vous fera franchir ses portails. » (<a id="a60_409"></a>[LU 140:1.4](/fr/The_Urantia_Book/140#p1_4)); « L’individu ne connaît Dieu que par la foi. » (<a id="a60_503"></a>[LU 102:6.5](/fr/The_Urantia_Book/102#p6_5)).
 
 Il s'ensuit logiquement que les auteurs des Fascicules d'Urantia n'avaient d'autre choix que d'éviter de fournir une preuve positive de l'autorité de leur révélation. Nous devions avoir de bonnes raisons de douter de tout et de rien dans les journaux.
 
@@ -70,11 +70,11 @@ Nous avons un autre problème à résoudre. Notre premier choix est notre décis
 
 Pour nous, mortels d’Urantia arriérés et reculés, la manière la plus sûre et la meilleure de répondre à des questions aussi difficiles est toujours de voir d’abord comment Jésus a répondu ou ce que Jésus a fait. Celui-ci semble approprié :
 
-> Jésus dit : « La volonté de Dieu est la voie de Dieu, et cette voie est une association avec le choix de Dieu devant chaque alternative potentielle. Par conséquent, faire la volonté de Dieu est l’expérience progressive qui consiste à devenir de plus en plus semblable à Dieu, Dieu étant la source et la destinée de tout ce qui est bon, beau et vrai. » (<a id="a51_355"></a>[LU 130:2.7](/fr/The_Urantia_Book/130#p2_7))
+> Jésus dit : « La volonté de Dieu est la voie de Dieu, et cette voie est une association avec le choix de Dieu devant chaque alternative potentielle. Par conséquent, faire la volonté de Dieu est l’expérience progressive qui consiste à devenir de plus en plus semblable à Dieu, Dieu étant la source et la destinée de tout ce qui est bon, beau et vrai. » (<a id="a72_355"></a>[LU 130:2.7](/fr/The_Urantia_Book/130#p2_7))
 
 En voici un autre extrêmement utile :
 
-> « Le Jésus humain voyait Dieu comme étant saint, juste et grand, aussi bien que vrai, beau et bon. Il focalisa dans son mental tous ces attributs de divinité en tant que « volonté du Père qui est aux cieux ». » (<a id="a55_214"></a>[LU 196:0.2](/fr/The_Urantia_Book/196#p0_2))
+> « Le Jésus humain voyait Dieu comme étant saint, juste et grand, aussi bien que vrai, beau et bon. Il focalisa dans son mental tous ces attributs de divinité en tant que « volonté du Père qui est aux cieux ». » (<a id="a76_214"></a>[LU 196:0.2](/fr/The_Urantia_Book/196#p0_2))
 
 Tout comme les valeurs spirituelles ou divines auxquelles aucune définition précise ne peut être donnée, il en est de même pour la « volonté de Dieu ». Sa définition est « circonstancielle » : elle dépend de circonstances, dont certaines peuvent être extrêmement complexes.
 
@@ -82,7 +82,7 @@ Tous les termes saint, juste, grand, vrai, beau et bon sont indéfinissables et 
 
 Un bon guide sur la façon dont nous devrions aimer notre prochain est donné par la déclaration :
 
-> « L’amour, le désintéressement, doit constamment subir une vivante réadaptation interprétative des relations conforme aux directives de l’Esprit de Vérité. Il faut que l’amour saisisse ainsi les concepts toujours changeants et plus étendus du **bien cosmique le plus élevé** pour la personne qui est aimée. » (<a id="a63_312"></a>[LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
+> « L’amour, le désintéressement, doit constamment subir une vivante réadaptation interprétative des relations conforme aux directives de l’Esprit de Vérité. Il faut que l’amour saisisse ainsi les concepts toujours changeants et plus étendus du **bien cosmique le plus élevé** pour la personne qui est aimée. » (<a id="a84_312"></a>[LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
 
 Le terme « bien cosmique le plus élevé » signifie qu’en cherchant à rendre service ou à aimer autrui, ce n’est pas nécessairement son bénéfice immédiat dont nous devrions nous préoccuper. Nous devrions plutôt demander à l’Esprit de Vérité de nous aider à connaître et à faire ce qui pourrait les aider d’une manière ou d’une autre à faire avancer leur carrière éternelle – ou du moins à ne pas la mettre en péril.
 

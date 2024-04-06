@@ -42,7 +42,7 @@ dateCreated: 2022-9-9T8:13:38Z
 > 2. Un Fils Créateur issu de Dieu est devenu l’un de vous. Il est en fait votre frère ainé ; et, si en esprit vous devenez véritablement des frères apparentés au Christ, au victorieux Micaël, alors il faut qu’en esprit vous soyez aussi les fils du Père que vous avez en commun — le Père de tous, le Père Universel lui-même.
 > 3. Vous êtes fils parce que l’esprit d’un Fils a été répandu sur vous, a été libéralement et certainement effusé sur toutes les races d’Urantia. Cet esprit vous attire toujours vers le Fils divin qui en est la source, et vers le Père du Paradis qui est la source de ce Fils divin.
 > 4. De son libre arbitre divin, le Père Universel vous a donné votre personnalité de créature. Vous avez été dotés d’une mesure de cette divine spontanéité d’action libre que Dieu partage avec tous ceux qui peuvent devenir ses fils.
-> 5. Un fragment du Père Universel habite en vous, ce qui vous relie ainsi directement au divin Père de tous les Fils de Dieu. (<a id="a23_128"></a>[LU 40:6.1-8](/fr/The_Urantia_Book/40#p6_1))
+> 5. Un fragment du Père Universel habite en vous, ce qui vous relie ainsi directement au divin Père de tous les Fils de Dieu. (<a id="a44_128"></a>[LU 40:6.1-8](/fr/The_Urantia_Book/40#p6_1))
 
 ## Liens externes
 

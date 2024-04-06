@@ -39,11 +39,11 @@ Il serait assez étrange que tous les lecteurs interprètent notre article « Li
 
 Après avoir considéré les restrictions qui interdisent la transmission de connaissances non acquises ou prématurées, ainsi que les limites individuelles des différents auteurs, de nombreux lecteurs voient le contenu profane des articles comme simplement un cadre de fond dans lequel ils peuvent mieux comprendre le véritable sens de leur séjour. sur cette planète. **L'exigence de ce cadre n'est pas sa vérité absolue mais son adéquation pragmatique** pour aider le lecteur à construire son propre cadre d'univers dans lequel réfléchir à des questions plus importantes liées à une carrière universelle éternelle.
 
-Ces lecteurs sont alors libres de déterminer eux-mêmes comment les éléments spirituels des fascicules devraient influencer leur pensée et leur vie. À cette fin, une compréhension de l'aide disponible de l'Esprit de Vérité (<a id="a17_223"></a>[Papier 194, Sect. 2](/fr/The_Urantia_Book/194#p2)) pour déterminer le contenu de vérité relative de tout matériel considéré est indispensable.
+Ces lecteurs sont alors libres de déterminer eux-mêmes comment les éléments spirituels des fascicules devraient influencer leur pensée et leur vie. À cette fin, une compréhension de l'aide disponible de l'Esprit de Vérité (<a id="a41_223"></a>[Papier 194, Sect. 2](/fr/The_Urantia_Book/194#p2)) pour déterminer le contenu de vérité relative de tout matériel considéré est indispensable.
 
 **Quel est alors le rôle prévu des informations extraordinairement prophétiques également incluses dans le texte des Cahiers ?**—des informations comme le rayon de l'électron découvert par Stefan Tallqvist qu'il aurait été tout à fait impossible à tout humain de connaître à l'époque. moment de la première publication du livre. (voir l'article suivant [« Le rayon de l'électron. »](/fr/article/Stefan_Tallqvist/Radius_of_the_Electron))
 
-Il semble que les auteurs des articles aient été confrontés à une tâche de type « tenir en équilibre sur le fil du couteau ». Les documents expliquent la valeur de notre libre arbitre : « _Quant à la survie éternelle, Dieu a décrété que la volonté matérielle et humaine était souveraine, et ***ce décret est absolu***._ » (<a id="a21_323"></a>[LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
+Il semble que les auteurs des articles aient été confrontés à une tâche de type « tenir en équilibre sur le fil du couteau ». Les documents expliquent la valeur de notre libre arbitre : « _Quant à la survie éternelle, Dieu a décrété que la volonté matérielle et humaine était souveraine, et ***ce décret est absolu***._ » (<a id="a45_323"></a>[LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
 
 Il n’est pas nécessaire de se concentrer excessivement pour percevoir comment des démonstrations miraculeuses, quelles qu’elles soient, peuvent interférer avec notre libre arbitre de choisir notre propre voie plutôt que celle que nous pourrions percevoir comme étant la voie de Dieu. La croyance aux miracles a contraint de nombreux chrétiens à accepter la loi mosaïque contre leur propre volonté.
 
@@ -55,7 +55,7 @@ Les révélateurs avaient également la tâche difficile que, tout en décourage
 
 Considérés sous cet angle, les révélateurs ont accompli leur mission magnifiquement, au point qu’il leur a même été permis d’inclure cette prophétie sur la dernière page de leur présentation :
 
-> « _Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut._ » (<a id="a33_164"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
+> « _Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut._ » (<a id="a57_164"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
 
 > L'intelligence est la rapidité à appréhender, par opposition à la capacité, qui est la capacité d'agir sagement sur la chose appréhendée.
 > &nbsp; &nbsp; &nbsp; _Alfred North Whitehead_

@@ -43,7 +43,7 @@ Une autre curiosité est l'inclusion de matériaux qui semblent se rapprocher de
 
 L’inclusion de ces matériaux n’a certainement rien fait pour étayer la prétention d’authenticité révélatrice du livre. Curieusement, ils auraient pu être omis, qu'ils soient vrais ou non, et le livre n'aurait rien perdu de son importance. Cependant, le pur génie intellectuel démontré par les révélateurs dans tant d’autres parties du livre amène beaucoup d’entre nous à conclure que les « trucs amusants » ont été inclus pour une bonne raison. Quelle pourrait être cette raison ?
 
-L’article d’Ann Bendall sur l’intolérance contient quelques observations qui peuvent être pertinentes. Ann nous rappelle que le livre affirme : «_C’est seulement avec la religion révélée qu’apparurent les égotismes théologiques autocratiques et intolérants._» (<a id="a21_261"></a>[LU 92:7.2](/fr/The_Urantia_Book/92#p7_2)) Ann commente également que l'un des risques d'une religion révélée est qu'elle a tendance à diminuer. la nécessité d’une foi vivante ainsi que de favoriser le phénomène de « quelques élus ».
+L’article d’Ann Bendall sur l’intolérance contient quelques observations qui peuvent être pertinentes. Ann nous rappelle que le livre affirme : «_C’est seulement avec la religion révélée qu’apparurent les égotismes théologiques autocratiques et intolérants._» (<a id="a45_261"></a>[LU 92:7.2](/fr/The_Urantia_Book/92#p7_2)) Ann commente également que l'un des risques d'une religion révélée est qu'elle a tendance à diminuer. la nécessité d’une foi vivante ainsi que de favoriser le phénomène de « quelques élus ».
 
 Peut-être que les observations d’Ann pourraient éclairer la raison pour laquelle le _Livre d’Urantia_ a été écrit d’une manière si étrange. Les attentes concernant la Quatrième Révélation d’Époque ne se sont pas réalisées comme espéré. Cela était dû en grande partie aux distorsions apportées au concept du royaume des cieux tel qu’enseigné par Jésus au cours des premières années de la chrétienté.
 
@@ -53,7 +53,7 @@ Jésus a enseigné que les caractéristiques cardinales de l’Évangile du roya
 - La volonté comme facteur déterminant dans l’expérience de l’homme.
 - Fraternité spirituelle avec Dieu, le Père
 - Les satisfactions suprêmes du service aimant de l'homme.
-- La transcendance du spirituel sur le matériel dans la personnalité humaine. (<a id="a31_79"></a>[LU 170:4.9-13](/fr/The_Urantia_Book/170#p4_9))
+- La transcendance du spirituel sur le matériel dans la personnalité humaine. (<a id="a55_79"></a>[LU 170:4.9-13](/fr/The_Urantia_Book/170#p4_9))
 
 Aucune de ces caractéristiques n'apparaît dans le texte du Credo de Nicée auquel pratiquement tous les chrétiens souscrivent comme codage de leurs croyances fondamentales.
 
@@ -65,7 +65,7 @@ Dans cette transition, la mort de Jésus, signifiant le salut du péché, est de
 
 À la lumière de ce que nous, les humains, avons fait lors de la Quatrième Révélation d’Époque, n’est-il pas logique et naturel que les révélateurs prennent des précautions pour éviter un désastre lors de la Cinquième Révélation ?
 
-Il se peut qu’ils considéraient le fondamentalisme comme une menace majeure, car c’est la marque même du fondamentalisme que « _les égotismes théologiques autocratiques et intolérants._ » (<a id="a43_189"></a>[LU 92:7.2](/fr/The_Urantia_Book/92#p7_2))
+Il se peut qu’ils considéraient le fondamentalisme comme une menace majeure, car c’est la marque même du fondamentalisme que « _les égotismes théologiques autocratiques et intolérants._ » (<a id="a67_189"></a>[LU 92:7.2](/fr/The_Urantia_Book/92#p7_2))
 
 Il semble que le fondamentalisme transforme invariablement ses sources en objets sacrés – la Bible, le Coran, le Livre de Mormon, le _Livre d'Urantia_, etc. – dont le contenu finit par devenir des proclamations divines. Une façon possible de contrecarrer un tel sort pour une nouvelle révélation pourrait être d’inclure des éléments incroyables qui permettraient aux critiques, aux opposants et aux sceptiques de la ridiculiser ou de la vilipender.
 
@@ -83,9 +83,9 @@ Et pourquoi la grande majorité d’entre nous croit-elle qu’il y avait quelqu
 
 Est-il possible qu'une version mise à jour de l'histoire du pharisien dans le temple priant : « Je remercie mon Dieu de ce que je ne suis pas comme ce publicain là-bas.  » pourrait devenir un lecteur du Livre d'Urantia en priant : « Je remercie Dieu de ce que je ne suis pas comme ce chrétien là-bas. » Mais, bien sûr, nous oublions que les lecteurs du _Livre d’Urantia_ ne prient pas – ils communiquent !
 
-Nous devons remercier Ann de nous avoir rappelé le syndrome du « peuple élu ». Jésus a vanté la vertu de la véritable humilité. Il a même dit : « _le premier sera le dernier et le dernier sera le premier._ » (<a id="a61_209"></a>[LU 163:3.4](/fr/The_Urantia_Book/163#p3_4); [Marc 10:31](/fr/Bible/Mark/10#v31))
+Nous devons remercier Ann de nous avoir rappelé le syndrome du « peuple élu ». Jésus a vanté la vertu de la véritable humilité. Il a même dit : « _le premier sera le dernier et le dernier sera le premier._ » (<a id="a85_209"></a>[LU 163:3.4](/fr/The_Urantia_Book/163#p3_4); [Marc 10:31](/fr/Bible/Mark/10#v31))
 
-Le livre nous informe que « _les idées et les idéaux de Jésus, incorporés dans l’enseignement de l’évangile du royaume, faillirent n’être pas réalisés... Puis il est dit : « Mais n’en doutez pas, ce même royaume des cieux, dont le Maitre enseigna l’existence dans le cœur des hommes, sera encore proclamé à cette Église chrétienne, ainsi qu’à toutes les autres religions, races et nations de la terre — et même à chaque individu._ » (<a id="a63_434"></a>[LU 170:5.4](/fr/The_Urantia_Book/170#p5_4); <a id="a63_479"></a>[LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
+Le livre nous informe que « _les idées et les idéaux de Jésus, incorporés dans l’enseignement de l’évangile du royaume, faillirent n’être pas réalisés... Puis il est dit : « Mais n’en doutez pas, ce même royaume des cieux, dont le Maitre enseigna l’existence dans le cœur des hommes, sera encore proclamé à cette Église chrétienne, ainsi qu’à toutes les autres religions, races et nations de la terre — et même à chaque individu._ » (<a id="a87_434"></a>[LU 170:5.4](/fr/The_Urantia_Book/170#p5_4); <a id="a87_479"></a>[LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
 
 Alors, qu’est-ce qui doit être proclamé ? Voici quelques-uns de ses composants :
 

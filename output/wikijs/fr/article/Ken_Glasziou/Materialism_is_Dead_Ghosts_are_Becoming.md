@@ -52,7 +52,7 @@ Maintenant, jetez un œil à l’autre point focal de l’ellipse et, surprise, 
 
 Devinez quoi. Les gens essaient maintenant d’utiliser l’image fantôme du véritable atome de cobalt pour voir s’ils peuvent le lier à un autre atome réel afin de créer une molécule hybride comportant un atome fantôme et un atome réel.
 
-> Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompensent vos efforts ! (<a id="a33_288"></a>[LU 32:5.7](/fr/The_Urantia_Book/32#p5_7))
+> Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompensent vos efforts ! (<a id="a54_288"></a>[LU 32:5.7](/fr/The_Urantia_Book/32#p5_7))
 
 ## Liens externes
 

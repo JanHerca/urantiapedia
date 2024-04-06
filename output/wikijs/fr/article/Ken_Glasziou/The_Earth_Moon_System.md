@@ -34,9 +34,9 @@ dateCreated: 2022-09-26T22:49:09.783Z
 
 Il y a eu quelques critiques à l'égard d'un article paru dans le [numéro de juillet-août](/fr/index/articles_innerface#volumen-11-no-4) d'Innerface concernant notre interprétation de l'utilisation par les révélateurs des mots « masse » et « taille » dans leur description de la croissance au fil du temps de le système terre-lune.
 
-Les révélateurs déclarent : « _Il y a 2 milliards et demi d’années, la taille des planètes avait immensément grandi. Urantia était une sphère bien développée ; elle avait environ ***un dixième*** de sa ***masse*** actuelle et s’accroissait toujours rapidement par absorption de météorites._. <a id="a15_292"></a>[LU 57:6.10](/fr/The_Urantia_Book/57#p6_10)
+Les révélateurs déclarent : « _Il y a 2 milliards et demi d’années, la taille des planètes avait immensément grandi. Urantia était une sphère bien développée ; elle avait environ ***un dixième*** de sa ***masse*** actuelle et s’accroissait toujours rapidement par absorption de météorites._. <a id="a36_292"></a>[LU 57:6.10](/fr/The_Urantia_Book/57#p6_10)
 
-Puis ils ont : « _Il y a 2 milliards d’années, la Terre commença nettement à gagner sur la Lune. La planète avait toujours été plus grosse que son satellite, mais il n’y avait pas une telle différence de ***taille*** avant cette époque au cours de laquelle d’énormes corps spatiaux furent captés par la Terre. Urantia avait alors environ ***un cinquième*** de sa ***taille*** actuelle..._ » <a id="a17_391"></a>[LU 57:7.2](/fr/The_Urantia_Book/57#p7_2)
+Puis ils ont : « _Il y a 2 milliards d’années, la Terre commença nettement à gagner sur la Lune. La planète avait toujours été plus grosse que son satellite, mais il n’y avait pas une telle différence de ***taille*** avant cette époque au cours de laquelle d’énormes corps spatiaux furent captés par la Terre. Urantia avait alors environ ***un cinquième*** de sa ***taille*** actuelle..._ » <a id="a38_391"></a>[LU 57:7.2](/fr/The_Urantia_Book/57#p7_2)
 
 La formulation de ce dernier paragraphe encourage la croyance que ces deux corps avaient grandi au même rythme et avaient à peu près la même taille tout au long de leur vie de plus de 2 milliards d'années.
 
@@ -44,7 +44,7 @@ Le processus de croissance par accrétion de la Terre et de son satellite lunair
 
 Il est donc difficile de voir comment, jusqu'à la capture déclarée par la planète Terre d'énormes corps spatiaux il y a 2 milliards d'années, cette planète et son satellite lune auraient pu avoir des densités autres que similaires. Et s'ils ont fait cela, alors l'utilisation apparemment imprudente des termes masse et taille par les révélateurs devient explicable, car la relation densité = masse/volume signifie que 2 corps ayant la même densité et la même masse doivent avoir le même volume ou s'ils ont de même densité et de même volume, ils doivent aussi avoir la même masse.
 
-Cependant, les lecteurs doivent être conscients que le concept de co-accrétion lente pour la Lune et la Terre, bien qu'en faveur au moment de la réception des Cahiers d'Urantia, est maintenant connu pour être tout à fait incompatible avec les données accumulées depuis – et donc dans la catégorie des « connaissances imméritées ou prématurées » (<a id="a25_346"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)), mais tout à fait adéquates comme « cadre dans lequel penser ». (<a id="a25_456"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+Cependant, les lecteurs doivent être conscients que le concept de co-accrétion lente pour la Lune et la Terre, bien qu'en faveur au moment de la réception des Cahiers d'Urantia, est maintenant connu pour être tout à fait incompatible avec les données accumulées depuis – et donc dans la catégorie des « connaissances imméritées ou prématurées » (<a id="a46_346"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)), mais tout à fait adéquates comme « cadre dans lequel penser ». (<a id="a46_456"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/The_Earth_Moon_System/004227.jpg">

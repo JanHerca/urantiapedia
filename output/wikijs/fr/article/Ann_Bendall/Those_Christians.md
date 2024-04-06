@@ -57,7 +57,7 @@ Il y a enfermé dans chaque vie humaine une richesse d’amour et de joie qui pa
 
 > « La preuve pour le monde entier que vous êtes nés d’esprit est que vous vous aimez sincèrement les uns les autres. »
 >
-> Jésus, Le Livre d'Urantia (<a id="a35_29"></a>[LU 142:5.4](/fr/The_Urantia_Book/142#p5_4))
+> Jésus, Le Livre d'Urantia (<a id="a59_29"></a>[LU 142:5.4](/fr/The_Urantia_Book/142#p5_4))
 
 > Par le hasard de la fortune, un homme peut gouverner le monde pour un temps, mais en vertu de l'amour, il peut gouverner le monde pour toujours.
 >

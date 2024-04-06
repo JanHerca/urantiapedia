@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
-Le Livre d'Urantia nous dit que « Jésus a parlé pendant plus d’une heure, aux groupes assemblés, « du rôle de l’adversité et de la valeur spirituelle des déceptions ». » (<a id="a13_171"></a>[LU 151:0.1](/fr/The_Urantia_Book/151#p0_1))
+Le Livre d'Urantia nous dit que « Jésus a parlé pendant plus d’une heure, aux groupes assemblés, « du rôle de l’adversité et de la valeur spirituelle des déceptions ». » (<a id="a37_171"></a>[LU 151:0.1](/fr/The_Urantia_Book/151#p0_1))
 
 J'étudie Le Livre d'Urantia depuis peu de temps, mais quand j'ai lu ce passage, j'ai senti très conscient qu'il avait une grande signification pour moi – que j'y étais lié.
 

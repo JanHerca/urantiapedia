@@ -47,7 +47,7 @@ Réponses du _Le Livre d'Urantia_.
 - Réponse. Demandez-nous : « Qu’aurait fait Jésus ?
 
 - Q. Et comment pouvons-nous savoir ce que Jésus aurait fait ?
-- Réponse. L’une des choses les plus importantes dans la vie humaine est.  connaître la vie religieuse de Jésus et comment il l'a vécue. (<a id="a25_138"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+- Réponse. L’une des choses les plus importantes dans la vie humaine est.  connaître la vie religieuse de Jésus et comment il l'a vécue. (<a id="a49_138"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 - Q. Comment pouvons-nous faire la volonté de Dieu ?
 - Réponse. Nous faisons la volonté de Dieu en devenant de plus en plus semblables à Dieu.
@@ -69,14 +69,14 @@ Réponses du _Le Livre d'Urantia_.
 
 > Nourriture pour la pensée
 >
-> Ceci dit, Jésus s’intéressait uniquement aux individus, et non à la masse. (<a id="a47_78"></a>[LU 140:8.11](/fr/The_Urantia_Book/140#p8_11))
+> Ceci dit, Jésus s’intéressait uniquement aux individus, et non à la masse. (<a id="a71_78"></a>[LU 140:8.11](/fr/The_Urantia_Book/140#p8_11))
 
 > Les vraies familles sont fondées sur la tolérance, la patience et le pardon.
 > Michel de Nébadon
 
 ## Références
 
-- <a id="a54_2"></a>[The Urantia Book, Paper 130, Section 2](/fr/The_Urantia_Book/130#p2).
+- <a id="a78_2"></a>[The Urantia Book, Paper 130, Section 2](/fr/The_Urantia_Book/130#p2).
 
 ## Liens externes
 

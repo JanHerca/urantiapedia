@@ -83,11 +83,11 @@ Une fois arrivés au tombeau, Joseph et Nicodème enveloppèrent le corps dans d
 
 S'il y avait deux draps, il est possible que le premier drap ait été ramené chez lui par Joseph d'Arimathie, avec le brancard et les récipients utilisés pour les liquides d'embaumement. Si tel est le cas, Joseph et sa famille en furent les premiers gardiens. Les Cahiers d'Urantia nous informent que la permission de disposer du corps de Jésus a été accordée aux êtres surhumains présents sur le site du tombeau :
 
-> « La dépouille mortelle de Jésus a subi le processus naturel de désintégration élémentale qui caractérise tous les corps humains sur terre, sauf qu’au point de vue du facteur temps, ce mode de dissolution naturelle fut considérablement accéléré, et hâté au point de devenir presque instantané. » (<a id="a61_299"></a>[LU 189:2.8](/fr/The_Urantia_Book/189#p2_8))
+> « La dépouille mortelle de Jésus a subi le processus naturel de désintégration élémentale qui caractérise tous les corps humains sur terre, sauf qu’au point de vue du facteur temps, ce mode de dissolution naturelle fut considérablement accéléré, et hâté au point de devenir presque instantané. » (<a id="a85_299"></a>[LU 189:2.8](/fr/The_Urantia_Book/189#p2_8))
 
 Il semble hautement improbable que des lois naturelles de la physique aient été suspendues lors de cette dissolution éclair du corps matériel de Jésus. Cela aurait généré une énorme chaleur. C’est peut-être pour cela que le corps a été sorti du tombeau pour être dissous.
 
-Apparemment, les tissus funéraires ont d'abord été retirés. On nous raconte que lorsque Marie, puis Pierre, se rendirent au tombeau, le linge où reposait la tête de Jésus et les bandages étaient encore dans le tombeau tandis que le « drap de couverture gisait au pied de la niche funéraire ». (<a id="a65_294"></a>[LU 189:4.6](/fr/The_Urantia_Book/189#p4_6))
+Apparemment, les tissus funéraires ont d'abord été retirés. On nous raconte que lorsque Marie, puis Pierre, se rendirent au tombeau, le linge où reposait la tête de Jésus et les bandages étaient encore dans le tombeau tandis que le « drap de couverture gisait au pied de la niche funéraire ». (<a id="a89_294"></a>[LU 189:4.6](/fr/The_Urantia_Book/189#p4_6))
 
 ## Conclusion
 

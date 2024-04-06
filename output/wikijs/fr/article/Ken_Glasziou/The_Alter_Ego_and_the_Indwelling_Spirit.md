@@ -35,11 +35,11 @@ dateCreated: 2022-09-26T22:28:40.037Z
 
 
 
-> « _Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain._ » (<a id="a13_147"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
+> « _Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain._ » (<a id="a37_147"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
 
 ## Notre « alter ego » – ses débuts
 
-Lorsqu’ils apprennent à utiliser le langage, de nombreux enfants ont tendance à penser à voix haute, à exprimer leurs pensées avec des mots, même si personne n’est présent pour les entendre. Et avec l’aube de l’imagination créatrice de l’enfant, il manifeste une tendance à converser avec des compagnons imaginaires. (<a id="a17_318"></a>[LU 91:3.1](/fr/The_Urantia_Book/91#p3_1))
+Lorsqu’ils apprennent à utiliser le langage, de nombreux enfants ont tendance à penser à voix haute, à exprimer leurs pensées avec des mots, même si personne n’est présent pour les entendre. Et avec l’aube de l’imagination créatrice de l’enfant, il manifeste une tendance à converser avec des compagnons imaginaires. (<a id="a41_318"></a>[LU 91:3.1](/fr/The_Urantia_Book/91#p3_1))
 
 De cette manière, un ego naissant cherche à communier avec un alter ego fictif. Grâce à cette technique, l’enfant apprend très tôt à convertir ses conversations monologues en pseudo-dialogues dans lesquels cet alter ego répond aux pensées et souhaits originaux de l’enfant. Une grande partie de la pensée adulte s’exprime mentalement sous cette même forme conversationnelle.
 
@@ -79,7 +79,7 @@ La prière a toujours été et sera toujours une double expérience humaine : un
 
 Lorsque la prière ne cherche rien pour celui qui prie ni rien pour ses semblables, alors de telles attitudes de l'âme tendent vers les niveaux de la véritable adoration.
 
-> En dehors de ce qui concerne le moi supérieur dans l’expérience de la prière, il faut se rappeler que la prière éthique est une manière splendide d’élever l’égo et de renforcer le moi pour une vie meilleure et des accomplissements plus élevés. La prière incite l’égo humain à rechercher de l’aide dans les deux directions : pour l’assistance matérielle en puisant dans le réservoir subconscient de l’expérience du mortel, et pour l’inspiration et la gouverne en allant aux frontières superconscientes où le matériel prend contact avec le spirituel, avec le Moniteur de Mystère. (<a id="a57_581"></a>[LU 91:3.5](/fr/The_Urantia_Book/91#p3_5))
+> En dehors de ce qui concerne le moi supérieur dans l’expérience de la prière, il faut se rappeler que la prière éthique est une manière splendide d’élever l’égo et de renforcer le moi pour une vie meilleure et des accomplissements plus élevés. La prière incite l’égo humain à rechercher de l’aide dans les deux directions : pour l’assistance matérielle en puisant dans le réservoir subconscient de l’expérience du mortel, et pour l’inspiration et la gouverne en allant aux frontières superconscientes où le matériel prend contact avec le spirituel, avec le Moniteur de Mystère. (<a id="a81_581"></a>[LU 91:3.5](/fr/The_Urantia_Book/91#p3_5))
 
 ## Liens externes
 

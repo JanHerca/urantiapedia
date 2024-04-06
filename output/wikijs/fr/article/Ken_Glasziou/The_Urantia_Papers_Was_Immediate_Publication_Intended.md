@@ -39,9 +39,9 @@ Après une période de test s'étendant sur plus de vingt ans, les révélateurs
 
 C’est une question intéressante car elle peut jeter un peu de lumière sur le passé, le présent et l’avenir des Cahiers.
 
-> La droiture divine n’est pas dominée par une stricte justice distributive. Dieu en tant que père transcende Dieu en tant que juge. (<a id="a17_134"></a>[LU 2:6.6](/fr/The_Urantia_Book/2#p6_6))
+> La droiture divine n’est pas dominée par une stricte justice distributive. Dieu en tant que père transcende Dieu en tant que juge. (<a id="a41_134"></a>[LU 2:6.6](/fr/The_Urantia_Book/2#p6_6))
 
-C'est principalement grâce au travail de Matthew Block que nous avons maintenant une connaissance raisonnablement détaillée de l'étendue de l'utilisation par les révélateurs de matériaux de source humaine dans la préparation des articles (reconnus par eux sur <a id="a19_260"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12) et <a id="a19_307"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12) du _Le Livre d'Urantia_).
+C'est principalement grâce au travail de Matthew Block que nous avons maintenant une connaissance raisonnablement détaillée de l'étendue de l'utilisation par les révélateurs de matériaux de source humaine dans la préparation des articles (reconnus par eux sur <a id="a43_260"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12) et <a id="a43_307"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12) du _Le Livre d'Urantia_).
 
 L’un des effets du retard dans la première impression des fascicules jusqu’en 1955 a été que pendant cette longue période d’incubation (plus une période encore plus longue au cours de laquelle le lectorat a augmenté), une attitude fondamentaliste à l’égard du contenu des fascicules a pris racine.
 
@@ -57,11 +57,11 @@ Le travail de Matthew Block dans la révélation des sources humaines nous a per
 
 Parmi les ouvrages sources figuraient des livres tels que _The Architecture of the Universe_ de William Swann, imprimé en 1934, ainsi que d’autres textes d’actualité sur des sujets académiques, notamment la théologie.
 
-Il est hautement improbable qu'un large lectorat du _Livre d'Urantia_ se soit formé sans que ces sources soient rapidement dévoilées. Sans aucun doute, cela aurait généré de la publicité et des critiques – et cela aurait été encore plus rapidement suivi par des lecteurs dévoués attirant l'attention sur le mandat de révélation sur <a id="a35_332"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2).
+Il est hautement improbable qu'un large lectorat du _Livre d'Urantia_ se soit formé sans que ces sources soient rapidement dévoilées. Sans aucun doute, cela aurait généré de la publicité et des critiques – et cela aurait été encore plus rapidement suivi par des lecteurs dévoués attirant l'attention sur le mandat de révélation sur <a id="a59_332"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2).
 
 Le mandat contient des passages tels que : « d'ici quelques années, nombre de nos déclarations concernant les sciences physiques auront besoin d'être révisées ; nous n'avons pas la liberté d'anticiper sur les découvertes scientifiques de mille ans ; nous sommes grandement gênés par l’interdiction de transmettre des connaissances non acquises ; qu'il soit précisé que la révélation n'est pas nécessairement inspirée ; la cosmologie de ces révélations n'est pas inspirée ; etc."
 
-L'attention aurait également très probablement été attirée sur les commentaires sur <a id="a39_84"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12) et <a id="a39_131"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12) sur l'utilisation par les révélateurs d'environ trois mille sources humaines dans la préparation de leurs articles.
+L'attention aurait également très probablement été attirée sur les commentaires sur <a id="a63_84"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12) et <a id="a63_131"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12) sur l'utilisation par les révélateurs d'environ trois mille sources humaines dans la préparation de leurs articles.
 
 Cela dépasse l’imagination de penser à ce qui aurait pu se produire. _Le Livre d'Urantia_ en tant que révélation d'êtres faillibles, soi-disant célestes plutôt que censés détenir l'autorité divine, a peut-être eu un impact significatif dans les collèges théologiques et autres institutions tertiaires.
 

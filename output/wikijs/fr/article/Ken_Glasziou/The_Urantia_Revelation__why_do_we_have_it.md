@@ -43,7 +43,7 @@ La révélation d'Urantia a-t-elle joué un rôle ? Aucune preuve directe n’es
 
 Si _Le Livre d'Urantia_ est le chaînon manquant, qu'est-ce qui l'a rendu efficace ? Cela ne peut guère être dû à la correction de doctrines erronées ni au fait que cela ait diminué le fondamentalisme biblique. Alors, que peut-il y avoir dans ces quelque 2000 pages qui détiennent un tel pouvoir ?
 
-Une réponse est donnée dans la section intitulée « Les Fils Instructeurs de la Trinité » dans le Fascicule 19 : « On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l’étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : **l’origine, l’histoire et la destinée**. » (<a id="a21_377"></a>[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6))
+Une réponse est donnée dans la section intitulée « Les Fils Instructeurs de la Trinité » dans le Fascicule 19 : « On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l’étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : **l’origine, l’histoire et la destinée**. » (<a id="a45_377"></a>[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6))
 
 Le chaînon manquant dans notre compréhension humaine du sens de la vie est présent dans la triade ci-dessus « origine, histoire et destin ».
 
@@ -51,11 +51,11 @@ Les archéologues, les historiens et les scientifiques nous ont fourni une histo
 
 Concernant le destin, les chrétiens ont l’assurance de Jésus que : « Dans la maison de mon Père, il y a plusieurs demeures. Si ce n’était pas le cas, je vous l’aurais dit. Ces paroles réconfortent les fidèles mais ne donnent aucun détail réel sur le destin.
 
-Donc pour la grande majorité des Terriens, le destin, l’au-delà, il y a un vide. A ce sujet, les révélateurs préviennent qu'il y a «_un grand danger de succomber à l’erreur d’avoir un point de vue restreint, au mal inhérent à une conception fragmentaire de la réalité et de la divinité._» (<a id="a29_290"></a>[LU 19:1.4](/fr/The_Urantia_Book/19#p1_4))
+Donc pour la grande majorité des Terriens, le destin, l’au-delà, il y a un vide. A ce sujet, les révélateurs préviennent qu'il y a «_un grand danger de succomber à l’erreur d’avoir un point de vue restreint, au mal inhérent à une conception fragmentaire de la réalité et de la divinité._» (<a id="a53_290"></a>[LU 19:1.4](/fr/The_Urantia_Book/19#p1_4))
 
-La connaissance du **destin** est l'élément essentiel manquant pour compléter un « cadre universel » dans lequel nous pouvons comprendre le sens de notre séjour terrestre. (<a id="a31_173"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+La connaissance du **destin** est l'élément essentiel manquant pour compléter un « cadre universel » dans lequel nous pouvons comprendre le sens de notre séjour terrestre. (<a id="a55_173"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
-> « L’orientation de l’homme sur terre, sa clairvoyance cosmique et l’orientation de sa conduite spirituelle sont toutes rehaussées par une meilleure compréhension des réalités de l’univers et de leurs techniques d’interassociation, d’intégration et d’unification. » (<a id="a33_268"></a>[LU 106:0.1](/fr/The_Urantia_Book/106#p0_1))
+> « L’orientation de l’homme sur terre, sa clairvoyance cosmique et l’orientation de sa conduite spirituelle sont toutes rehaussées par une meilleure compréhension des réalités de l’univers et de leurs techniques d’interassociation, d’intégration et d’unification. » (<a id="a57_268"></a>[LU 106:0.1](/fr/The_Urantia_Book/106#p0_1))
 
 **Les dangers inhérents à l'information manquante sur la destinée humaine sont éliminés par les Cahiers d'Urantia.** Ils fournissent des informations détaillées sur notre destinée divine - non seulement en ce qui concerne notre obtention de la présence du Père au Paradis, mais bien au-delà dans détaillant les rôles réels et possibles du Finaliter Corps dont nous deviendrons éventuellement membres.
 
@@ -65,7 +65,7 @@ Mais ce n’est qu’un « peut-être » incertain. Ce qui est certain, c’est 
 
 Ce qui est également certain, c’est qu’à mesure que la confiance dans la réalité de ce dernier membre de la triade, le « **destin** », grandit, il y aura une énorme augmentation de l’attrait et de l’effet de la religion. Sans un tel destin, pour beaucoup, la vie mortelle n’a plus de sens, voire n’est qu’une plaisanterie cruelle.
 
-> « _L’histoire seule ne réussit pas à révéler convenablement le développement futur — la destinée. Les origines finies sont utiles, mais seules les causes divines révèlent les effets finals. Les fins éternelles ne se montrent pas dans les commencements temporels. ***On ne peut véritablement interpréter le présent qu’à la lumière de la corrélation du passé et du futur***._ » (<a id="a43_379"></a>[LU 19:1.11](/fr/The_Urantia_Book/19#p1_11))
+> « _L’histoire seule ne réussit pas à révéler convenablement le développement futur — la destinée. Les origines finies sont utiles, mais seules les causes divines révèlent les effets finals. Les fins éternelles ne se montrent pas dans les commencements temporels. ***On ne peut véritablement interpréter le présent qu’à la lumière de la corrélation du passé et du futur***._ » (<a id="a67_379"></a>[LU 19:1.11](/fr/The_Urantia_Book/19#p1_11))
 
 ## Liens externes
 

@@ -50,9 +50,9 @@ dateCreated: 2022-09-26T03:56:17.001Z
 > 
 > La plupart des choses réellement importantes que Jésus dit ou fit semblèrent se produire par hasard, « tandis qu’il passait ». Le ministère terrestre du Maitre présenta fort peu d’aspects professionnels, bien prévus, ou prémédités. Il dispensa la santé et répandit le bonheur avec naturel et grâce au cours de son voyage à travers la vie. Il était littéralement vrai qu’il « circulait en faisant du bien ».
 > 
-> Dans tous les âges, il sied que les disciples du Maitre apprennent à exercer leur ministère « en passant » — à faire du bien avec désintéressement en vaquant à leurs devoirs quotidiens. (<a id="a31_189"></a>[LU 171:7.1-10](/fr/The_Urantia_Book/171#p7_1))
+> Dans tous les âges, il sied que les disciples du Maitre apprennent à exercer leur ministère « en passant » — à faire du bien avec désintéressement en vaquant à leurs devoirs quotidiens. (<a id="a52_189"></a>[LU 171:7.1-10](/fr/The_Urantia_Book/171#p7_1))
 
-> Une fois que vous aurez commencé à découvrir Dieu dans votre âme, vous ne tarderez pas à le découvrir dans l’âme des autres hommes, et finalement dans toutes les créatures et créations d’un puissant univers. Mais quelle chance a le Père d’apparaitre, en tant que Dieu des loyautés suprêmes et des idéaux divins, dans les âmes d’hommes qui ne consacrent que peu ou pas de temps à la contemplation réfléchie de ces réalités éternelles ? Bien que le mental ne soit pas le siège de la nature spirituelle, il est, en vérité, la porte qui y conduit. (<a id="a33_547"></a>[LU 155:6.13](/fr/The_Urantia_Book/155#p6_13))
+> Une fois que vous aurez commencé à découvrir Dieu dans votre âme, vous ne tarderez pas à le découvrir dans l’âme des autres hommes, et finalement dans toutes les créatures et créations d’un puissant univers. Mais quelle chance a le Père d’apparaitre, en tant que Dieu des loyautés suprêmes et des idéaux divins, dans les âmes d’hommes qui ne consacrent que peu ou pas de temps à la contemplation réfléchie de ces réalités éternelles ? Bien que le mental ne soit pas le siège de la nature spirituelle, il est, en vérité, la porte qui y conduit. (<a id="a54_547"></a>[LU 155:6.13](/fr/The_Urantia_Book/155#p6_13))
 
 ## Liens externes
 

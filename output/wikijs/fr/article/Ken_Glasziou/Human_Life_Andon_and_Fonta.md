@@ -49,7 +49,7 @@ Lucy avait un crâne plus semblable à celui d'un singe qu'à celui d'un humain 
 
 Quel est le lien avec Andon et Fonta (environ 1 000 000 A.P.) ou Adam et Eve (37 898 A.P.) ?
 
-Beaucoup (la plupart ?) de lecteurs pensent que le Livre d'Urantia prétend qu'Andon et Fonta étaient nos seuls parents ancestraux à tous. En fait, ce n’est pas le cas. Il dit : « _Même la perte d’Andon et de Fonta, avant qu’ils aient procréé une descendance, n’aurait pu empêcher l’évolution humaine ; elle l’aurait seulement retardée. Après l’apparition d’Andon et de Fonta et avant que les potentiels de mutation humains de la vie animale fussent épuisés, il n’évolua pas moins de ***sept-mille*** lignées favorables qui auraient pu atteindre certains types humains de développement. Du reste, ***beaucoup de ces bonnes lignées furent assimilées plus tard par les différentes branches de l’espèce humaine en voie d’expansion***._ » (<a id="a27_735"></a>[LU 65:3.4](/fr/The_Urantia_Book/65#p3_4)).
+Beaucoup (la plupart ?) de lecteurs pensent que le Livre d'Urantia prétend qu'Andon et Fonta étaient nos seuls parents ancestraux à tous. En fait, ce n’est pas le cas. Il dit : « _Même la perte d’Andon et de Fonta, avant qu’ils aient procréé une descendance, n’aurait pu empêcher l’évolution humaine ; elle l’aurait seulement retardée. Après l’apparition d’Andon et de Fonta et avant que les potentiels de mutation humains de la vie animale fussent épuisés, il n’évolua pas moins de ***sept-mille*** lignées favorables qui auraient pu atteindre certains types humains de développement. Du reste, ***beaucoup de ces bonnes lignées furent assimilées plus tard par les différentes branches de l’espèce humaine en voie d’expansion***._ » (<a id="a51_735"></a>[LU 65:3.4](/fr/The_Urantia_Book/65#p3_4)).
 
 ## Alors, comment et où l'humanité est-elle née ?
 
@@ -78,7 +78,7 @@ Une autre preuve que les Néandertaliens ont peu contribué au pool génétique 
 
 [Les cellules végétales et animales contiennent un grand nombre de mitochondries, les « usines » qui décomposent les sucres et fournissent de l’énergie à la cellule. Chacun possède son propre morceau d’ADN indépendant de l’ADN nucléaire. Les descendants héritent de leurs mitochondries uniquement de leur mère et sont des copies d'eux-mêmes. La variation vient uniquement de la mutation.]
 
-L'homme Herto (photo ci-dessus) est daté de 154 à 160 000 ans BP et constitue la première preuve fossile d'une personne s'approchant du type humain moderne. Andon et Fonta ont vécu près de 1 000 000 d'années BP. L’histoire d’Andon et Fonta ne correspond pas bien à la pensée anthropologique moderne mais constitue certainement un « cadre de réflexion » adéquat. (<a id="a56_363"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+L'homme Herto (photo ci-dessus) est daté de 154 à 160 000 ans BP et constitue la première preuve fossile d'une personne s'approchant du type humain moderne. Andon et Fonta ont vécu près de 1 000 000 d'années BP. L’histoire d’Andon et Fonta ne correspond pas bien à la pensée anthropologique moderne mais constitue certainement un « cadre de réflexion » adéquat. (<a id="a80_363"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
 ## Liens externes
 

@@ -47,7 +47,7 @@ Si les informations fournies dans les paragraphes ci-dessous avaient été acces
 > 
 > _La présence et la fonction des mésotrons expliquent aussi une autre énigme concernant l’atome. Quand les atomes agissent radioactivement, ils émettent beaucoup plus d’énergie qu’on ne pourrait s’y attendre. Cet excédent de radiation provient du démembrement du mésotron « porteur d’énergie », qui devient alors un simple électron. La désintégration du mésotron s’accompagne aussi de l’émission de certaines petites particules dépourvues de charge._
 > 
-> _Le mésotron explique certaines propriétés cohésives du noyau atomique, mais n’explique ni la cohésion entre protons ni l’adhésion entre neutrons. La force puissante et paradoxale qui assure l’intégrité cohésive de l’atome est une forme d’énergie non encore découverte sur Urantia._ (<a id="a25_286"></a>[LU 42:8.3-6](/fr/The_Urantia_Book/42#p8_3))
+> _Le mésotron explique certaines propriétés cohésives du noyau atomique, mais n’explique ni la cohésion entre protons ni l’adhésion entre neutrons. La force puissante et paradoxale qui assure l’intégrité cohésive de l’atome est une forme d’énergie non encore découverte sur Urantia._ (<a id="a49_286"></a>[LU 42:8.3-6](/fr/The_Urantia_Book/42#p8_3))
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics/bubble-chamber-bebc.jpg">
@@ -74,7 +74,7 @@ Cette force, inconnue en 1934 (et d'ailleurs en 1955, lorsque le _Livre d'Uranti
 
 La force forte est également responsable de l’interaction proton-proton et neutron-neutron – de telle sorte que, par exemple, si seulement quelques pour cent plus forts (selon Freeman Dyson), deux protons pourraient se combiner sous une forme relativement stable (mais avec des effets désastreux sur le taux d'épuisement des étoiles).
 
-Le mandat confié aux révélateurs permettait « _de fournir des renseignements qui comblent des lacunes fondamentales dans les connaissances acquises par ailleurs_ ». (<a id="a52_166"></a>[LU 101:4.9](/fr/The_Urantia_Book/101#p4_9)) Les Fascicules d'Urantia n'étaient pas en circulation avant 1955, date à laquelle les informations fournies dans ces paragraphes auraient été redondantes. Cependant, cela illustre le degré de connaissances des auteurs des articles.
+Le mandat confié aux révélateurs permettait « _de fournir des renseignements qui comblent des lacunes fondamentales dans les connaissances acquises par ailleurs_ ». (<a id="a76_166"></a>[LU 101:4.9](/fr/The_Urantia_Book/101#p4_9)) Les Fascicules d'Urantia n'étaient pas en circulation avant 1955, date à laquelle les informations fournies dans ces paragraphes auraient été redondantes. Cependant, cela illustre le degré de connaissances des auteurs des articles.
 
 ## Liens externes
 

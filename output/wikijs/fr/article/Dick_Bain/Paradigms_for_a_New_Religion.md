@@ -60,7 +60,7 @@ L'accent d'une grande partie de l'enseignement et de la prédication de l'UU est
 
 L’environnementalisme est également un domaine qui intéresse particulièrement de nombreuses UU. Beaucoup sont de fervents environnementalistes et soutiennent fermement les organisations vouées à la préservation et à la protection de notre environnement. Cette préoccupation pour la Terre se reflète dans l’une des déclarations de principes de l’UU[^2] qui dit que l’UU « Respecte le réseau interdépendant de l’existence... »
 
-Je crois que le collectif des congrégations de l'UU réalise la projection du _Livre d'Urantia_ selon laquelle « _Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes._ » (<a id="a41_428"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
+Je crois que le collectif des congrégations de l'UU réalise la projection du _Livre d'Urantia_ selon laquelle « _Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes._ » (<a id="a62_428"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
 
 En raison de leur manque de dogme et de leur ouverture, les congrégations UU attirent une grande diversité de personnes. Je n’étais pas conscient de la diversité des UU jusqu’à ce que je mène une enquête auprès de notre congrégation lors de l’un de nos services d’été. Cette enquête informelle a révélé la répartition suivante : athées, 15 % ; Agnostique 21 % ; Théiste 10% ; Chrétien 15%; Déiste 7%; Autres 19 % ; Païen 13%.
 
@@ -68,7 +68,7 @@ C’est uniquement parce que la tolérance est un principe important de l’UU-i
 
 Même si les membres de la communauté Urantia sont liés par les enseignements du _Livre d'Urantia_, cette communauté constitue néanmoins un groupe de personnes très diversifié. Toute organisation religieuse urantienne sera confrontée à certains des mêmes problèmes auxquels les congrégations UU sont confrontées. Tout le monde n'accepte pas tous les enseignements du _Livre d'Urantia_, alors quel sera le rôle du livre dans une telle organisation religieuse ? Allons-nous accueillir les sceptiques dans notre communauté ?
 
-Je pense que les auteurs du livre essayaient de nous donner des conseils sur toute organisation religieuse lorsqu'ils écrivent : « _Quand un membre d’un groupe religieux social s’est conformé aux exigences du groupe, il faudrait l’encourager à jouir de la liberté religieuse dans la pleine expression de son interprétation personnelle des vérités de la croyance religieuse et des faits de l’expérience religieuse. La sécurité d’un groupe religieux dépend de son unité spirituelle et non de son uniformité théologique. Les membres d’un groupe religieux devraient pouvoir jouir de la liberté de penser librement sans devenir forcément des « libres penseurs ». De grands espoirs sont permis pour toute Église qui adore le Dieu vivant, qui valide la fraternité des hommes et qui ose dégager ses membres de toute contrainte dogmatique._” (<a id="a49_834"></a>[LU 103:5.12](/fr/The_Urantia_Book/103#p5_12))
+Je pense que les auteurs du livre essayaient de nous donner des conseils sur toute organisation religieuse lorsqu'ils écrivent : « _Quand un membre d’un groupe religieux social s’est conformé aux exigences du groupe, il faudrait l’encourager à jouir de la liberté religieuse dans la pleine expression de son interprétation personnelle des vérités de la croyance religieuse et des faits de l’expérience religieuse. La sécurité d’un groupe religieux dépend de son unité spirituelle et non de son uniformité théologique. Les membres d’un groupe religieux devraient pouvoir jouir de la liberté de penser librement sans devenir forcément des « libres penseurs ». De grands espoirs sont permis pour toute Église qui adore le Dieu vivant, qui valide la fraternité des hommes et qui ose dégager ses membres de toute contrainte dogmatique._” (<a id="a70_834"></a>[LU 103:5.12](/fr/The_Urantia_Book/103#p5_12))
 
 Bien que de nombreuses UU n’« adorent pas le Dieu vivant », elles valident certainement la « fraternité des hommes » et n’exercent aucune « pression de croyance » sur leurs membres.
 
@@ -90,7 +90,7 @@ Les UU ont développé quelques symboles uniques. Le symbole le plus distinctif 
 
 Les églises UU de Tchécoslovaquie ont le tournesol comme l'un de leurs symboles. Le sceau unitaire de Transylvanie est la colombe entourée d'un serpent. Ceci est dérivé de l'instruction de Jésus à ses apôtres citée dans Matthieu : « _être aussi sages que les serpents et aussi inoffensifs que les colombes._ » Les auteurs du Livre d'Urantia nous enseignent que :
 
-> « _Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la reformulation de la religion de Jésus doit développer un nouveau symbolisme adéquat. Il faut que les hommes modernes trouvent un symbolisme approprié à leurs nouveaux idéaux, à leurs nouvelles idées et obédiences en expansion. Ce symbole supérieur d’une plus haute civilisation doit surgir de la vie religieuse, de l’expérience spirituelle._ » (<a id="a71_492"></a>[LU 87:7.6](/fr/The_Urantia_Book/87#p7_6))
+> « _Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la reformulation de la religion de Jésus doit développer un nouveau symbolisme adéquat. Il faut que les hommes modernes trouvent un symbolisme approprié à leurs nouveaux idéaux, à leurs nouvelles idées et obédiences en expansion. Ce symbole supérieur d’une plus haute civilisation doit surgir de la vie religieuse, de l’expérience spirituelle._ » (<a id="a92_492"></a>[LU 87:7.6](/fr/The_Urantia_Book/87#p7_6))
 
 ## Identité
 
@@ -123,7 +123,7 @@ Je crois que nous avons beaucoup à apprendre des religions et des institutions 
 2. **Une déclaration de principes :** Nous, les congrégations membres de l'Association Unitaire Universaliste, nous engageons à affirmer et à promouvoir :
 
 > Mon fils, chaque chose doit venir en son temps.
-> Jésus à Ganid (<a id="a104_17"></a>[LU 130:5.3](/fr/The_Urantia_Book/130#p5_3))
+> Jésus à Ganid (<a id="a125_17"></a>[LU 130:5.3](/fr/The_Urantia_Book/130#p5_3))
 
 La valeur et la dignité inhérentes à chaque personne ; Justice, équité et compassion dans les relations humaines ; Acceptation les uns des autres et encouragement à la croissance spirituelle dans nos congrégations ; Une recherche libre et responsable de vérité et de sens ; Le droit de conscience et le recours au processus démocratique au sein de nos congrégations et dans la société en général ; L'objectif d'une communauté mondiale avec la paix, la liberté et la justice pour tous ; Respect du réseau interdépendant de toute existence dont nous faisons partie.
 

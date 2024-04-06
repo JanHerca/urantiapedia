@@ -40,7 +40,7 @@ L’écriture du Livre d’Urantia de 2000 pages aurait nécessité énormément
 
 ## Contenu
 
-**Construction de montagnes.** Les Cahiers d'Urantia associent les processus de formation de montagnes et la dérive des continents comme étant responsables de la chaîne de montagnes sur la côte ouest des Amériques, s'étendant de l'Alaska jusqu'au fond de l'Amérique du Sud. (<a id="a21_275"></a>[LU 60:3.2](/fr/The_Urantia_Book/60#p3_2))
+**Construction de montagnes.** Les Cahiers d'Urantia associent les processus de formation de montagnes et la dérive des continents comme étant responsables de la chaîne de montagnes sur la côte ouest des Amériques, s'étendant de l'Alaska jusqu'au fond de l'Amérique du Sud. (<a id="a42_275"></a>[LU 60:3.2](/fr/The_Urantia_Book/60#p3_2))
 
 Les lecteurs modernes n’accordent probablement pas une réflexion passagère à cette déclaration. Mais jusqu’au milieu des années 1950 et même plus tard, la dérive des continents était considérée comme une hérésie interdite par la grande majorité des géologues. Alors pourquoi l’a-t-on inclus comme facteur majeur de construction de montagnes ?
 
@@ -50,15 +50,15 @@ Des fossiles de marsupiaux se trouvent dans les strates de l’Oligocène supér
 
 Encore une fois, la plupart des lecteurs modernes ignoreraient cette information sans se rendre compte que, une fois écrit, le concept de dérive des continents, jusque dans les années 1960, était encore une hérésie majeure. Or, le lien entre ces trois continents constitue une partie acceptée de la théorie.
 
-**Explosion de supernova à double étoile.** La plus récente des éruptions cosmiques majeures à Orvonton fut l'extraordinaire explosion de double étoile, dont la lumière atteignit Urantia en 1572 après JC. Cette conflagration était si intense que l'explosion était clairement visible en plein jour. (<a id="a31_299"></a>[LU 41:3.5](/fr/The_Urantia_Book/41#p3_5))
+**Explosion de supernova à double étoile.** La plus récente des éruptions cosmiques majeures à Orvonton fut l'extraordinaire explosion de double étoile, dont la lumière atteignit Urantia en 1572 après JC. Cette conflagration était si intense que l'explosion était clairement visible en plein jour. (<a id="a52_299"></a>[LU 41:3.5](/fr/The_Urantia_Book/41#p3_5))
 
 L’explosion d’une supernova en 1572 était un spectacle brillant visible en plein jour et est devenue connue sous le nom de nova de Tycho Brahe. Les Cahiers d'Urantia disent que cette nova était due à l'explosion d'une étoile double. La première description théorique sérieuse des novas et des supernovas a été présentée en 1957 par Burbidge, Fowler et Hoyle et a indiqué que des nova et supernova à étoile unique ou double peuvent se produire. Le reste de la supernova Tycho Brahe a été redécouvert en 1952 grâce à l'utilisation du radiotélescope nouvellement inventé, mais il n'a pas pu être démontré qu'il s'agissait d'une explosion d'une ou deux étoiles jusqu'à ce qu'il soit cartographié en détail par l'observatoire à rayons X en orbite d'Einstein en 1967, lorsque son statut de double étoile a été démontré.
 
-**Rayons X du Soleil.** « L'intérieur de votre soleil est un vaste générateur de rayons X ». (<a id="a35_94"></a>[LU 41:5.3](/fr/The_Urantia_Book/41#p5_3))
+**Rayons X du Soleil.** « L'intérieur de votre soleil est un vaste générateur de rayons X ». (<a id="a56_94"></a>[LU 41:5.3](/fr/The_Urantia_Book/41#p5_3))
 
 Le Soleil a été le premier objet céleste déterminé à émettre des rayons X ; des compteurs de rayonnement embarqués sur une fusée mesuraient les émissions de rayons X de sa couronne en 1949. Dans le « Physics-Astronomy Front » de Hoyle et Narliker, nous trouvons : « L'un des auteurs se souvient comment, au milieu des années 1940, la question de savoir si le soleil pourrait émettre des rayons X était considéré par les astronomes comme hautement spéculatif.
 
-**Nébuleuse du Crabe.** « ... la nébuleuse du Crabe, qui a vu le jour il y a environ neuf cents ans, et qui présente encore la sphère mère comme une étoile solitaire près du centre de cette masse nébuleuse irrégulière. » (<a id="a39_222"></a>[LU 41:8.4](/fr/The_Urantia_Book/41#p8_4))
+**Nébuleuse du Crabe.** « ... la nébuleuse du Crabe, qui a vu le jour il y a environ neuf cents ans, et qui présente encore la sphère mère comme une étoile solitaire près du centre de cette masse nébuleuse irrégulière. » (<a id="a60_222"></a>[LU 41:8.4](/fr/The_Urantia_Book/41#p8_4))
 
 L'Étude d'Urantia déclare que la nébulaire du Crabe trouve son origine dans une explosion de nova survenue il y a 900 ans. L'existence d'une étoile à neutrons en son centre a été démontrée en 1967 avec la détection d'un pulsar qui pulsait à une vitesse de 30 par seconde. C'était beaucoup trop élevé pour qu'il provienne d'une naine blanche qui se désintégrerait si elle tournait à cette vitesse. Cela ne pourrait provenir que d’une étoile à neutrons.
 

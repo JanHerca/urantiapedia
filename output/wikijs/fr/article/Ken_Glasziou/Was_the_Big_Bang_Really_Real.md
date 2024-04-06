@@ -55,7 +55,7 @@ On pense que ces mégasoleils n’ont existé qu’au début des temps, car une 
 
 L’énergie rayonnante du rayonnement gamma émanant des hypernovae mégasolaires devrait être détectable, mais pas avec les instruments actuellement disponibles. Leur détection pourrait provenir d’une mission nommée « Exist » qui devrait être lancée depuis la Station spatiale internationale dans cinq ans, ou du télescope spatial de nouvelle génération de la NASA, le successeur prévu du Hubble.
 
-Si les prédictions s'avèrent exactes, ce sera une preuve supplémentaire que le Big Bang était réel et que la cosmologie qui nous a été donnée dans les Cahiers d'Urantia était simplement pour fournir un cadre universel temporaire qui fournit une toile de fond sur laquelle nous pouvons mieux comprendre nos carrières dans l'univers. (<a id="a33_333"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+Si les prédictions s'avèrent exactes, ce sera une preuve supplémentaire que le Big Bang était réel et que la cosmologie qui nous a été donnée dans les Cahiers d'Urantia était simplement pour fournir un cadre universel temporaire qui fournit une toile de fond sur laquelle nous pouvons mieux comprendre nos carrières dans l'univers. (<a id="a57_333"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
 (Pour une discussion sur ce point, voir la dernière page de [Innerface Vol. 7, No. 5](/fr/index/articles_innerface#volume-7-no-5) qui est disponible sur [www.urantia-book.org/archive/newsletters/innerface.html.] (http://www.urantia-book.org/archive/newsletters/innerface.html.))
 

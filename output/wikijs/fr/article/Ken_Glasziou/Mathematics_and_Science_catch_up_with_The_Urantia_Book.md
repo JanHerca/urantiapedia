@@ -32,7 +32,7 @@ dateCreated: 2022-09-26T11:49:05.941Z
 
 
 
-Les mathématiques et la science rattrapent _Le Livre d'Urantia_ « Dans l'état mortel, rien ne peut être absolument prouvé ; la science et la religion reposent toutes deux sur des hypothèses. (<a id="a13_192"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
+Les mathématiques et la science rattrapent _Le Livre d'Urantia_ « Dans l'état mortel, rien ne peut être absolument prouvé ; la science et la religion reposent toutes deux sur des hypothèses. (<a id="a34_192"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
 
 En 1935, cette affirmation ne pouvait être faite avec assurance que par une poignée de nos hommes les plus érudits.
 

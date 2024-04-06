@@ -51,7 +51,7 @@ Les révélateurs du _Livre d'Urantia_ utilisent également le midrash, par exem
 > 
 > **A.** Non, monsieur. J'ai été abattu à mi-chemin entre le fracas et le nombril.
 
-> Les apôtres apprirent que les Juifs étaient spirituellement stagnants et mourants parce qu’ils avaient cristallisé la vérité en un crédo. Si l’on formule la vérité sous l’aspect d’une ligne frontière d’exclusivisme pharisaïque, au lieu de servir de poteaux indicateurs de directives et de progrès spirituels, les enseignements correspondants perdent leur pouvoir créatif et vivifiant, et finissent par devenir simplement conservateurs et fossilisants. (<a id="a29_455"></a>[LU 155:3.3](/fr/The_Urantia_Book/155#p3_3))
+> Les apôtres apprirent que les Juifs étaient spirituellement stagnants et mourants parce qu’ils avaient cristallisé la vérité en un crédo. Si l’on formule la vérité sous l’aspect d’une ligne frontière d’exclusivisme pharisaïque, au lieu de servir de poteaux indicateurs de directives et de progrès spirituels, les enseignements correspondants perdent leur pouvoir créatif et vivifiant, et finissent par devenir simplement conservateurs et fossilisants. (<a id="a53_455"></a>[LU 155:3.3](/fr/The_Urantia_Book/155#p3_3))
 
 ## Liens externes
 

@@ -67,7 +67,7 @@ Pensez à toutes ces occasions récentes où nous avons échoué à ce test. Que
 
 Si nous voulons un jour que nos forces spirituelles intérieures prennent le contrôle de nos vies, si nous voulons un jour devenir utiles au programme divin visant à améliorer le progrès spirituel de cette planète, alors peut-être avons-nous quelques réflexions à faire.
 
-> « Il vous faut tous proclamer cet évangile d’amour et de vérité par la vie que vous vivez dans la chair. Vous vous aimerez les uns les autres d’un amour nouveau et remarquable, comme je vous ai aimés. Vous servirez l’humanité avec une dévotion nouvelle et étonnante, comme je vous ai servis. Quand les hommes verront que vous les aimez ainsi, et combien vous les servez avec ferveur, ils percevront que vous êtes entrés par la foi dans la communauté du royaume des cieux ; alors, ils suivront l’Esprit de Vérité, qu’ils apercevront dans votre vie, jusqu’à ce qu’ils trouvent le salut éternel. » (<a id="a45_598"></a>[LU 191:6.2](/fr/The_Urantia_Book/191#p6_2))
+> « Il vous faut tous proclamer cet évangile d’amour et de vérité par la vie que vous vivez dans la chair. Vous vous aimerez les uns les autres d’un amour nouveau et remarquable, comme je vous ai aimés. Vous servirez l’humanité avec une dévotion nouvelle et étonnante, comme je vous ai servis. Quand les hommes verront que vous les aimez ainsi, et combien vous les servez avec ferveur, ils percevront que vous êtes entrés par la foi dans la communauté du royaume des cieux ; alors, ils suivront l’Esprit de Vérité, qu’ils apercevront dans votre vie, jusqu’à ce qu’ils trouvent le salut éternel. » (<a id="a69_598"></a>[LU 191:6.2](/fr/The_Urantia_Book/191#p6_2))
 
 L’Esprit de Vérité est-il visible dans ma vie ? Dans le tien?
 

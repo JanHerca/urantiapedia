@@ -44,7 +44,7 @@ Cependant, la plupart des nouveaux lecteurs avertis connaîtront la production d
 
 ---
 
-> Dans Orvonton, il n’a jamais été possible d’assembler naturellement plus de cent électrons orbitaux dans un même système atomique. Quand un cent-unième a été introduit artificiellement dans le champ des orbites, il en est toujours résulté une dislocation instantanée du proton central et une folle dispersion des électrons et autres énergies libérées. (<a id="a22_355"></a>[LU 42:7.7](/fr/The_Urantia_Book/42#p7_7))
+> Dans Orvonton, il n’a jamais été possible d’assembler naturellement plus de cent électrons orbitaux dans un même système atomique. Quand un cent-unième a été introduit artificiellement dans le champ des orbites, il en est toujours résulté une dislocation instantanée du proton central et une folle dispersion des électrons et autres énergies libérées. (<a id="a46_355"></a>[LU 42:7.7](/fr/The_Urantia_Book/42#p7_7))
 
 Le texte ci-dessus date de la première impression, quelqu'un ayant pris la liberté d'ajouter les mots « presque » avant « instantané » dans les impressions ultérieures. Le mot important à garder à l’esprit est « naturellement ».
 

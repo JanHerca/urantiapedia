@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-> « ...les simples enseignements de l’évangile de Jésus : la filiation avec Dieu, la fraternité des hommes et la citoyenneté toujours ascendante dans l’univers éternel. » (<a id="a13_172"></a>[LU 94:10.3](/fr/The_Urantia_Book/94#p10_3))
+> « ...les simples enseignements de l’évangile de Jésus : la filiation avec Dieu, la fraternité des hommes et la citoyenneté toujours ascendante dans l’univers éternel. » (<a id="a37_172"></a>[LU 94:10.3](/fr/The_Urantia_Book/94#p10_3))
 
 La clé de cette doctrine « simple » est la nature même de Dieu telle qu’elle a été révélée dans la vie de Jésus de Nazareth. Cette nature a été révélée de la manière la plus efficace dans les paraboles de Jésus, en particulier dans celles-ci :
 

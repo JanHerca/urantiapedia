@@ -32,7 +32,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 
-> « L’esprit est la réalité personnelle fondamentale dans les univers, et la personnalité est fondamentale pour toute expérience progressive avec la réalité spirituelle. Toutes les phases d’expérience de la personnalité sur tous les niveaux successifs de progression universelle fourmillent d’indices conduisant à la découverte de réalités personnelles attirantes. La véritable destinée des hommes consiste à créer des buts nouveaux et spirituels, puis à répondre aux attraits cosmiques de ces buts célestes de valeur non matérielle. » (<a id="a13_537"></a>[LU 12:9.1](/fr/The_Urantia_Book/12#p9_1))
+> « L’esprit est la réalité personnelle fondamentale dans les univers, et la personnalité est fondamentale pour toute expérience progressive avec la réalité spirituelle. Toutes les phases d’expérience de la personnalité sur tous les niveaux successifs de progression universelle fourmillent d’indices conduisant à la découverte de réalités personnelles attirantes. La véritable destinée des hommes consiste à créer des buts nouveaux et spirituels, puis à répondre aux attraits cosmiques de ces buts célestes de valeur non matérielle. » (<a id="a34_537"></a>[LU 12:9.1](/fr/The_Urantia_Book/12#p9_1))
 
 Parmi la multitude de déclarations révélatrices inspirantes contenues dans les Cahiers d'Urantia, celle-ci n'est-elle pas parmi les plus significatives ?
 
@@ -47,7 +47,7 @@ Voir l’article « Ce qui survit réellement » pour obtenir des éclaircisseme
 > Le test spirituel de grandeur est le suivant :
 > 
 > la qualité de générosité révélée dans le travail désintéressé pour le bienêtre des compagnons terrestres
-> voir (<a id="a28_8"></a>[LU 28:6.20](/fr/The_Urantia_Book/28#p6_20))
+> voir (<a id="a49_8"></a>[LU 28:6.20](/fr/The_Urantia_Book/28#p6_20))
 
 ## Liens externes
 

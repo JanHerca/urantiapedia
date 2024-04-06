@@ -32,7 +32,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
-> « L’idée de Dieu en tant que véritable Père aimant est le seul concept que Jésus ait jamais enseigné. Une fois que l’on a saisi cette idée, il faut, immédiatement et en toute logique, abandonner complètement toutes ces notions primitives de Dieu considéré comme un monarque offensé, ... L’amour infini de Dieu tient la première place dans la nature divine. » (<a id="a13_362"></a>[LU 188:4.8](/fr/The_Urantia_Book/188#p4_8))
+> « L’idée de Dieu en tant que véritable Père aimant est le seul concept que Jésus ait jamais enseigné. Une fois que l’on a saisi cette idée, il faut, immédiatement et en toute logique, abandonner complètement toutes ces notions primitives de Dieu considéré comme un monarque offensé, ... L’amour infini de Dieu tient la première place dans la nature divine. » (<a id="a34_362"></a>[LU 188:4.8](/fr/The_Urantia_Book/188#p4_8))
 
 Cette déclaration peut introduire l'un des concepts les plus importants du _Le Livre d'Urantia_ pour les besoins actuels de notre planète.
 

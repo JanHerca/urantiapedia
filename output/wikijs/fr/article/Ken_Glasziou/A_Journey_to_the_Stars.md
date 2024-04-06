@@ -47,7 +47,7 @@ La première partie du voyage est cruciale dans la mesure où nous sommes censé
 
 Le livre nous dit que la moindre lueur de foi nous assure une seconde chance de faire ce choix de libre arbitre requis lorsque nous arriverons à la prochaine étape de notre voyage, l'endroit que nous connaissons sous le nom de Mondes des Maisons. Le livre déclare :
 
-> « _Maintenant, ne vous y trompez pas, mon Père répondra toujours à la plus faible lueur de foi. Il prend note des émotions physiques et superstitieuses de l’homme primitif. Et, avec ces âmes honnêtes mais craintives, dont la foi est si faible qu’elle ne représente guère plus qu’un conformisme intellectuel à une attitude passive d’assentiment aux religions d’autorité, le Père est toujours vigilant pour honorer et soutenir même toutes ces faibles tentatives pour l’atteindre. ***Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit.***_ » (<a id="a25_690"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
+> « _Maintenant, ne vous y trompez pas, mon Père répondra toujours à la plus faible lueur de foi. Il prend note des émotions physiques et superstitieuses de l’homme primitif. Et, avec ces âmes honnêtes mais craintives, dont la foi est si faible qu’elle ne représente guère plus qu’un conformisme intellectuel à une attitude passive d’assentiment aux religions d’autorité, le Père est toujours vigilant pour honorer et soutenir même toutes ces faibles tentatives pour l’atteindre. ***Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit.***_ » (<a id="a49_690"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
 
 Pour les lecteurs du Livre d'Urantia qui ont pris cette moindre lueur de foi comme une garantie de survie, il peut être conseillé d'examiner attentivement la dernière phrase de la citation ci-dessus.
 
@@ -141,7 +141,7 @@ En tant que Finalitaires, nous sommes affectés à un service d'observation et d
 
 Le destin ultime du Corps of Finality est inconnu. La spéculation veut que nous tentions de connaître Dieu comme l’Ultime, et qu’après avoir atteint ce but, nous commencerions la quête de l’Absolu.
 
-Ce serait peut-être une bonne idée de lire maintenant la section intitulée « Conducteurs de culte » sur <a id="a119_104"></a>[LU 27:0.4](/fr/The_Urantia_Book/27#p0_4) du livre afin d'avoir une idée de ce qu'est réellement ce voyage. Bon voyage.
+Ce serait peut-être une bonne idée de lire maintenant la section intitulée « Conducteurs de culte » sur <a id="a143_104"></a>[LU 27:0.4](/fr/The_Urantia_Book/27#p0_4) du livre afin d'avoir une idée de ce qu'est réellement ce voyage. Bon voyage.
 
 > Le paradis ne s'atteint pas d'un seul bond. Mais nous construisons l’échelle par laquelle nous montons.
 > &nbsp; &nbsp; &nbsp; G.J. Holland

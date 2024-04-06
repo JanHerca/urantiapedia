@@ -37,7 +37,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Une compréhension du terme « jouer avec Dieu » tel qu'utilisé par le Révérend Earl Jabay dans son livre « Le Royaume du Soi » peut être utile pour nous tous dans nos efforts pour réaliser les espoirs de Jésus comme annoncé dans les Cahiers d'Urantia par leurs auteurs.
 
-> « **Votre mission dans le monde** est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission **se concrétisera dans la vie que vous vivrez parmi les hommes** — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis » (<a id="a15_373"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
+> « **Votre mission dans le monde** est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission **se concrétisera dans la vie que vous vivrez parmi les hommes** — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis » (<a id="a39_373"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
 Si nous voulons exprimer efficacement la vie vécue par Jésus dans nos propres vies, nous devons certainement être libérés même des restes du syndrome du jeu de Dieu, qui, d’une manière ou d’une autre, nous afflige tous.
 
@@ -67,7 +67,7 @@ Mais son désormais ex-ami se battait pour préserver l’une des convictions le
 
 Le jeu de Dieu a été à l’origine de nombreuses tragédies majeures de l’histoire, provoquées par des hommes comme Napoléon, Hitler, Staline et bien d’autres. Mais si nous pouvions résumer les dommages réels causés à l’humanité par le jeu divin d’individus ordinaires comme vous et moi, cette somme dépasserait de loin les dommages causés par les exemples spectaculaires de l’histoire enregistrée.
 
-L’exigence selon laquelle nous vivons notre vie comme Jésus a vécu la sienne est pleine de dangers, en particulier si nous nous considérons dans des rôles de leadership plutôt que dans celui de servir humblement « pendant que nous passons ». L'article qui suit met en évidence une déclaration extraordinaire faite par Jésus au moment où il rassemblait pour la première fois ceux qui deviendront plus tard ses apôtres : « Jésus a expliqué qu'il avait délibérément ignoré les ‘grands hommes de la terre’. » (<a id="a45_506"></a>[LU 141:7.8](/fr/The_Urantia_Book/141#p7_8))
+L’exigence selon laquelle nous vivons notre vie comme Jésus a vécu la sienne est pleine de dangers, en particulier si nous nous considérons dans des rôles de leadership plutôt que dans celui de servir humblement « pendant que nous passons ». L'article qui suit met en évidence une déclaration extraordinaire faite par Jésus au moment où il rassemblait pour la première fois ceux qui deviendront plus tard ses apôtres : « Jésus a expliqué qu'il avait délibérément ignoré les ‘grands hommes de la terre’. » (<a id="a69_506"></a>[LU 141:7.8](/fr/The_Urantia_Book/141#p7_8))
 
 Apparemment, la tâche accomplie par Jésus dans sa révélation, et qui sera maintenant poursuivie par cette nouvelle révélation dans les Cahiers d'Urantia, ne pouvait être accomplie efficacement **que par les hommes et les femmes « ordinaires » de l'époque de Jésus**. De plus en plus, il apparaît également que cette nouvelle révélation ne peut être rendue efficace qu’à travers la vie réelle vécue par l’équivalent moderne du même type de gens « ordinaires ».
 
@@ -75,7 +75,7 @@ La plupart des « grands hommes de la terre » qui appartenaient à la société
 
 Jésus aimait faire des commentaires tels que : « Celui qui veut être le plus grand d’entre vous, qu’il soit d’abord le serviteur de tous. » Ce type de qualification ne faisait pas du tout partie de la composition des « grands hommes de la terre » de la population juive de cette époque. Ils avaient une vision de la vie tout à fait différente, que nous qualifierions aujourd’hui d’égocentrisme aigu. Jésus les a décrits ainsi :
 
-> « En outre, ces dirigeants égocentriques prennent plaisir à faire leurs bonnes œuvres de manière à être vus par les hommes. Ils agrandissent leurs phylactères et élargissent la bordure de leurs vêtements officiels. Ils recherchent les places d’honneur aux festins et exigent les sièges d’honneur dans les synagogues. Ils convoitent des salutations élogieuses sur les places de marché et désirent que tous les hommes les appellent rabbi. Et, pendant qu’ils cherchent à être ainsi honorés par les hommes, ils s’emparent à la dérobée des maisons des veuves et tirent profit des offices du temple sacré. Ces hypocrites font le simulacre de prier longtemps en public et de donner des aumônes pour attirer l’attention de leurs concitoyens. » (<a id="a53_739"></a>[LU 175:1.9](/fr/The_Urantia_Book/175#p1_9))
+> « En outre, ces dirigeants égocentriques prennent plaisir à faire leurs bonnes œuvres de manière à être vus par les hommes. Ils agrandissent leurs phylactères et élargissent la bordure de leurs vêtements officiels. Ils recherchent les places d’honneur aux festins et exigent les sièges d’honneur dans les synagogues. Ils convoitent des salutations élogieuses sur les places de marché et désirent que tous les hommes les appellent rabbi. Et, pendant qu’ils cherchent à être ainsi honorés par les hommes, ils s’emparent à la dérobée des maisons des veuves et tirent profit des offices du temple sacré. Ces hypocrites font le simulacre de prier longtemps en public et de donner des aumônes pour attirer l’attention de leurs concitoyens. » (<a id="a77_739"></a>[LU 175:1.9](/fr/The_Urantia_Book/175#p1_9))
 
 Jésus a vécu sa vie comme une révélation de la nature de son Père céleste : un Dieu d’amour, de miséricorde et de compassion. Jésus a vécu pour des gens comme vous et moi. Et Jésus est mort pour des gens comme vous et moi.
 
@@ -85,7 +85,7 @@ Nous disposons désormais d’un récit complet et intact de cette vie et de cet
 
 « C'est la question brûlante. »
 
-> Le désintéressement — l’esprit d’oubli de soi — est-il désirable ? Alors, il faut que l’homme mortel vive face à face avec les clameurs incessantes d’un moi qui demande inéluctablement reconnaissance et honneur. (<a id="a63_215"></a>[LU 3:5.13](/fr/The_Urantia_Book/3#p5_13))
+> Le désintéressement — l’esprit d’oubli de soi — est-il désirable ? Alors, il faut que l’homme mortel vive face à face avec les clameurs incessantes d’un moi qui demande inéluctablement reconnaissance et honneur. (<a id="a87_215"></a>[LU 3:5.13](/fr/The_Urantia_Book/3#p5_13))
 
 ## Liens externes
 

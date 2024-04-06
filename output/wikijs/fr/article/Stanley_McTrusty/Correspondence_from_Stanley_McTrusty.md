@@ -99,7 +99,7 @@ Pour résumer : je dois faire la bonne chose, de la bonne manière, au bon momen
 
 J'ai une grande confiance dans ce que j'ai fait et expliqué car cela m'aidera à réduire considérablement mes transgressions de la Loi Divine.
 
-_Le Livre d'Urantia_ déclare (<a id="a77_30"></a>[LU 2:5.3](/fr/The_Urantia_Book/2#p5_3)) « _Les Créateurs sont les premiers à tenter de sauver l’homme des résultats désastreux de ses folles transgressions des lois divines._ »
+_Le Livre d'Urantia_ déclare (<a id="a101_30"></a>[LU 2:5.3](/fr/The_Urantia_Book/2#p5_3)) « _Les Créateurs sont les premiers à tenter de sauver l’homme des résultats désastreux de ses folles transgressions des lois divines._ »
 
 Si une seule personne comprend vraiment ce que j’ai déduit dans ce résumé, et si cela l’aide autant que moi, j’aurai ma récompense.
 

@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
-> « On ne peut jamais faire progresser la moralité par la loi ou par la force. Elle est une affaire personnelle et de libre arbitre. Il faut qu’elle se propage par contagion entre personnes qui répandent une atmosphère de beauté morale, et personnes moins sensibles moralement, mais cependant désireuses dans une certaine mesure de faire la volonté du Père. » (<a id="a13_361"></a>[LU 16:7.9](/fr/The_Urantia_Book/16#p7_9))
+> « On ne peut jamais faire progresser la moralité par la loi ou par la force. Elle est une affaire personnelle et de libre arbitre. Il faut qu’elle se propage par contagion entre personnes qui répandent une atmosphère de beauté morale, et personnes moins sensibles moralement, mais cependant désireuses dans une certaine mesure de faire la volonté du Père. » (<a id="a37_361"></a>[LU 16:7.9](/fr/The_Urantia_Book/16#p7_9))
 
 Essentiellement, le livre nous dit que si la société Urantia doit progresser spirituellement, notre moralité ne peut pas être statique, moribonde. Il faut que cela aille de l'avant. Cependant, nous ne pouvons pas légiférer ou utiliser des méthodes punitives pour imposer le progrès moral. Une société réalise de tels progrès si, et seulement si, elle compte des membres moralement parfumés dont la moralité est contagieuse – et au moins quelques autres membres qui sont moralement sensibles.
 
@@ -45,7 +45,7 @@ Alors, comment les lecteurs du Livre d’Urantia peuvent-ils être moralement pa
 
 Je pense que le parfum moral doit être inconscient. Si nous sommes conscients de nos normes morales et essayons de quelque manière que ce soit de les montrer aux autres, le parfum diminuera certainement et disparaîtra probablement. Nous devons « être » avant de pouvoir « faire ».
 
-> « Ce soir-là, Jésus enseigna dans la maison parce que la pluie commençait à tomber ; il parla très longuement aux douze pour essayer de leur montrer ce qu’ils devaient *être,* et non ce qu’ils devaient *faire.* Les apôtres connaissaient seulement une religion qui imposait de *faire* certaines choses comme moyen d’atteindre la droiture — le salut. Mais Jésus répétait : « Dans le royaume, il faut *être* droit pour faire le travail. » ... Mais c’était une tâche difficile de persuader ces pêcheurs de Galilée que, dans le royaume, il faut d’abord *être* droit, par la foi, avant d’*agir* avec droiture dans la vie quotidienne des mortels de la terre. » (<a id="a23_657"></a>[LU 140:10.1](/fr/The_Urantia_Book/140#p10_1))
+> « Ce soir-là, Jésus enseigna dans la maison parce que la pluie commençait à tomber ; il parla très longuement aux douze pour essayer de leur montrer ce qu’ils devaient *être,* et non ce qu’ils devaient *faire.* Les apôtres connaissaient seulement une religion qui imposait de *faire* certaines choses comme moyen d’atteindre la droiture — le salut. Mais Jésus répétait : « Dans le royaume, il faut *être* droit pour faire le travail. » ... Mais c’était une tâche difficile de persuader ces pêcheurs de Galilée que, dans le royaume, il faut d’abord *être* droit, par la foi, avant d’*agir* avec droiture dans la vie quotidienne des mortels de la terre. » (<a id="a47_657"></a>[LU 140:10.1](/fr/The_Urantia_Book/140#p10_1))
 
 La justice inclut certainement la moralité, donc si la Cinquième Révélation d’Époque doit faire son travail, alors nous, lecteurs, devons « être » à la fois justes et moraux si nous voulons devenir moralement parfumés et contagieux.
 
@@ -53,7 +53,7 @@ Il doit être extrêmement difficile pour une personne irréligieuse de souscrir
 
 Sans un Dieu qui est amour et sans la promesse d’une vie après la mort désirable, l’adoption de la philosophie alternative de Paul devient presque obligatoire : « Mangez, buvez et réjouissez-vous car demain nous mourrons. » ([1 Cor. 15:32](/fr/Bible/1_Corinthians/15#v32)) Et avec son acceptation, vient une détérioration de la moralité avec une tendance à maximiser l'égoïsme, car sans autorité divine, la base de toute moralité devient discutable et auto-égoïste. l’intérêt devient la motivation primordiale.
 
-> « Quand l’homme ne parvient pas à discriminer les buts de ses efforts de mortel, il vit au même niveau d’existence que les animaux.  » (<a id="a31_138"></a>[LU 16:7.5](/fr/The_Urantia_Book/16#p7_5))
+> « Quand l’homme ne parvient pas à discriminer les buts de ses efforts de mortel, il vit au même niveau d’existence que les animaux.  » (<a id="a55_138"></a>[LU 16:7.5](/fr/The_Urantia_Book/16#p7_5))
 
 Se pourrait-il qu'une intention majeure des révélateurs en nous fournissant la Cinquième Révélation d'Époque soit l'espoir que les adhérents deviennent ces personnes moralement parfumées qui, par leur exemple personnel, deviendront les fixateurs d'objectifs pour un nouvel ordre moral dans la société ?
 

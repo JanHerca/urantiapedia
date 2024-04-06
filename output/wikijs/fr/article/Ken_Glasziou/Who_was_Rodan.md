@@ -67,7 +67,7 @@ Nous devons toujours considérer l’objet de notre loyauté religieuse comme é
 
 La religion de Jésus transcende tous nos anciens concepts de l'idée d'adoration dans la mesure où il dépeint non seulement son Père comme l'idéal d'une réalité infinie, mais déclare positivement que cette source divine de valeurs et le centre éternel de l'univers est véritablement et personnellement accessible en toute créature mortelle qui choisit d'entrer dans le royaume des cieux sur terre, reconnaissant ainsi l'acceptation de la filiation avec Dieu et de la fraternité avec l'homme. Rodan conclut qu’il s’agit du concept de religion le plus élevé que le monde ait jamais connu.
 
-> Il ne peut jamais y avoir de preuves scientifiques ou logiques de la divinité. La raison seule ne peut jamais valider les valeurs et les bienfaits de l’expérience religieuse. Par contre, il restera toujours vrai que quiconque veut faire la volonté de Dieu comprendra la validité des valeurs spirituelles ; c’est ainsi que, sur le niveau mortel, on s’approche le plus de la possibilité de prouver la réalité de l’expérience religieuse. (<a id="a45_438"></a>[LU 101:10.6](/fr/The_Urantia_Book/101#p10_6))
+> Il ne peut jamais y avoir de preuves scientifiques ou logiques de la divinité. La raison seule ne peut jamais valider les valeurs et les bienfaits de l’expérience religieuse. Par contre, il restera toujours vrai que quiconque veut faire la volonté de Dieu comprendra la validité des valeurs spirituelles ; c’est ainsi que, sur le niveau mortel, on s’approche le plus de la possibilité de prouver la réalité de l’expérience religieuse. (<a id="a69_438"></a>[LU 101:10.6](/fr/The_Urantia_Book/101#p10_6))
 
 ## Liens externes
 
