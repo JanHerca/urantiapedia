@@ -85,7 +85,7 @@ The Trustees of Urantia Foundation
 
 ## References
 
-- Urantia Foundation's Urantian News: https://www.urantia.org/news/1990-10
+- [Urantia Foundation's Urantian News](https://www.urantia.org/news/1990-10)
 
 <figure class="table chapter-navigator">
   <table>

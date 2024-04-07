@@ -441,7 +441,7 @@ Thank you for your attention.
 
 ## References
 
-- Urantia Foundation's Urantian News: https://www.urantia.org/news/1998-08/trustee-georges-michelson-dupont-speaks-iua-conference-in-helsinki
+- [Urantia Foundation's Urantian News](https://www.urantia.org/news/1998-08/trustee-georges-michelson-dupont-speaks-iua-conference-in-helsinki)
 
 <figure class="table chapter-navigator">
   <table>

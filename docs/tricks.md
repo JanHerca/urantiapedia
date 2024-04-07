@@ -317,6 +317,11 @@ fundación|Fundación
 Porcelana|China
 síndico|fideicomisario
 Síndico|fideicomisario
+Patronos|Fideicomisarios
 LUIS|UBIS
+UrANTIA|URANTIA
+'El Libro de URANTIA'|‘El Libro de URANTIA’
+Cotización|Cita
+<br estilo=«claro:ambos;»/>|<br style="clear:both;"/>
 
 &nbsp; 

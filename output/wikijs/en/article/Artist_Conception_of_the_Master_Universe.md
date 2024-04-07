@@ -1,5 +1,5 @@
 ---
-title: An Artist's Conception of the Master Universe
+title: "An Artist's Conception of the Master Universe"
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
@@ -72,5 +72,5 @@ It is believed that surviving mortals born on the planets of space (like Urantia
 
 ## References
 
-Study obtained from:
-- https://www.urantia.org/study/artists-conception-master-universe
+Obtained from:
+- [Study in Urantia Foundation website](https://www.urantia.org/study/artists-conception-master-universe)

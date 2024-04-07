@@ -1,5 +1,5 @@
 ---
-title: Une conception artistique du Maître Univers
+title: "Une conception artistique du Maître Univers"
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
@@ -70,3 +70,8 @@ Dans l'espace extra-atmosphérique, des millions de nouvelles galaxies sont en t
 Les tailles des niveaux d'espace extérieurs sont énormes - des millions d'années-lumière de largeur. Des télescopes améliorés révéleront au regard émerveillé de nos astronomes pas moins de 375 millions de nouvelles galaxies dans l'espace. Il existe déjà dans l'espace extra-atmosphérique 70 000 agrégats de matière, dont chacun est plus grand que n'importe lequel des sept superunivers - et ce n'est que le début de l'évolution stellaire dans ces régions. Nous pouvons imaginer l'immensité de l'espace extra-atmosphérique, nous pouvons sentir son étendue et ses dimensions majestueuses, mais sinon nous ne pouvons pas en savoir plus sur ces royaumes.
 
 On pense que les mortels survivants nés sur les planètes de l'espace (comme Urantia) lors de leur ascension vers le Paradis sont formés pour prendre part à la future administration de ces niveaux d'espace extérieurs.
+
+## Références
+
+Traduit de :
+- [Étude sur le site de la Fondation Urantia](https://www.urantia.org/study/artists-conception-master-universe)

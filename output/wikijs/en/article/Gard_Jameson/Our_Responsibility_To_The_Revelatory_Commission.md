@@ -97,7 +97,7 @@ Can we all recognize this process of which we are a part and breath into the "sw
 
 ## References
 
-- Urantia Foundation's Urantian News: https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki
+- [Urantia Foundation's Urantian News](https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki)
 
 <figure class="table chapter-navigator">
   <table>
