@@ -237,9 +237,15 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 
 ## LaTeX to Markdown
 
+\\par|\n
 \\textit\{([^\}]+)\}|_$1_
 \\bigbreak|<br>
+\\section\*\{([^\}]+)\}|## $1
 \\noindent \\textsc\{([^\}]+)\}|<span style="font-variant:small-caps;">$1</span>
+\\begin\{displayquote\}\[\]|>
+\\begin\{displayquote\}|> 
+\n\\end\{displayquote\}|
+\{\\footnotesize (\d+)\}|<sup><small>$1</small></sup>
 
 ## Google Translator common fails
 
