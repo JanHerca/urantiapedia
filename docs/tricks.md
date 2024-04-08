@@ -237,7 +237,7 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 
 ## LaTeX to Markdown
 
-\\par|\n
+\\par |\n
 \\textit\{([^\}]+)\}|_$1_
 \\bigbreak|<br>
 \\section\*\{([^\}]+)\}|## $1
