@@ -9,6 +9,24 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1990 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#número-1-octubre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número 1, Octubre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -59,7 +77,7 @@ En comparación con su predecesora, la Asociación de la Hermandad Urantia tendr
 
 Con todo esto en mente, los Fideicomisarios de la Fundación Urantia confían en que la Asociación de la Hermandad Urantia proporcionará un foro social y fraternal en el que las personas puedan servirse, animarse e inspirarse mutuamente, llamando la atención sobre las enseñanzas supremas del Libro de Urantia y beneficiándose de ellas. 
 
-El ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)), los intermedios nos dicen que «Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual». Creemos que los miembros de la Asociación de la Hermandad Urantia, actuando con una mayor comprensión del propósito evolutivo del Ser Supremo en un universo dominado por el amor, harán contribuciones notables a ese resultado. Al ayudarse mutuamente a comprender y apreciar las enseñanzas de _El Libro de Urantia_, los miembros de la Asociación de la Hermandad Urantia crearán un nuevo clima espiritual que fomente el crecimiento de su personalidad total y aumente dramáticamente su utilidad potencial para toda la humanidad.
+El (<a id="a79_4"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)), los intermedios nos dicen que «Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual». Creemos que los miembros de la Asociación de la Hermandad Urantia, actuando con una mayor comprensión del propósito evolutivo del Ser Supremo en un universo dominado por el amor, harán contribuciones notables a ese resultado. Al ayudarse mutuamente a comprender y apreciar las enseñanzas de _El Libro de Urantia_, los miembros de la Asociación de la Hermandad Urantia crearán un nuevo clima espiritual que fomente el crecimiento de su personalidad total y aumente dramáticamente su utilidad potencial para toda la humanidad.
 
 Por nuestra parte, no podemos imaginar una empresa más noble.
 
@@ -70,3 +88,22 @@ Los Fideicomisarios de la Fundación Urantia
 
 - [Urantian News de la Fundación Urantia](https://www.urantia.org/news/1990-10)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#número-1-octubre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número 1, Octubre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

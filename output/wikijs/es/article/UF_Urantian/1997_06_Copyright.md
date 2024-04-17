@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_Urantian/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian News — Noticias de la Fundación Urantia — marzo de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#volumen-16-número-1-marzo-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, Marzo 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -166,3 +187,25 @@ Maaherra sostiene que, no obstante, el reclamo de la Fundación está excluido i
 
 fin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_Urantian/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian News — Noticias de la Fundación Urantia — marzo de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#volumen-16-número-1-marzo-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, Marzo 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

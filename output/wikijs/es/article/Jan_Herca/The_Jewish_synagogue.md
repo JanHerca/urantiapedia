@@ -37,7 +37,7 @@ Debemos distinguir entre los ancianos (_archontes_, _presbiteroi_, _geroysiarche
 
 En arameo se decía _ros ha-keneset_. Es el director del culto. La responsabilidad de este puesto era la de atender al culto público. Era la persona, por ejemplo, encargada de invitar al orador idóneo para realizar la lectura, la plegaria, así como para la predicación. Se solía escoger para el cargo a alguno de los ancianos. Le correspondían, hablando en general, vigilar para que nada impropio ocurriera en la sinagoga, y es probable que tuviera también a su cargo el cuidado de los edificios de la sinagoga. Véase [Mc 5:22](/es/Bible/Mark/5#v22); [Mc 5:35,36,38](/es/Bible/Mark/5#v35); [Lc 8:49](/es/Bible/Luke/8#v49); [Lc 13:14](/es/Bible/Luke/13#v14).
 
-Un ejemplo de archisinagogo lo conocemos por el evangelio, donde se menciona a Jairo, el archisinagogo de Cafarnaúm, y que muy probablemente, después de la curación milagrosa de su hija gracias a Jesús, debió hacerse seguidor del Maestro. Véase [Mc 5:21-43](/es/Bible/Mark/5#v21); [Mt 9:18-26](/es/Bible/Matthew/9#v18); [Lc 8:40-56](/es/Bible/Luke/8#v40). Esta deducción aparece tal cual en [LU 154:1.2](/es/The_Urantia_Book/154#p1_2).
+Un ejemplo de archisinagogo lo conocemos por el evangelio, donde se menciona a Jairo, el archisinagogo de Cafarnaúm, y que muy probablemente, después de la curación milagrosa de su hija gracias a Jesús, debió hacerse seguidor del Maestro. Véase [Mc 5:21-43](/es/Bible/Mark/5#v21); [Mt 9:18-26](/es/Bible/Matthew/9#v18); [Lc 8:40-56](/es/Bible/Luke/8#v40). Esta deducción aparece tal cual en <a id="a39_391"></a>[LU 154:1.2](/es/The_Urantia_Book/154#p1_2).
 
 ### El limosnero
 
@@ -70,7 +70,7 @@ Cuando un miembro se negaba a someterse al ordenamiento legal religioso imperant
 
 En cualquier caso tan sólo representaba una exclusión social, no un castigo físico. La persona quedaba marcada para siempre bajo la sospecha, y lo normal era que se le marginara socialmente, lo cual obligaba a la persona a abandonar su lugar de origen y a cambiar de residencia con frecuencia. También le impedía la entrada a la sinagoga. Pero para un judío esto representaba el peor de los castigos.
 
-Esto nos permite entender mejor los pasajes de los evangelios donde se muestra a Jesús cambiando Cafarnaúm por Tiro y Sidón de forma inadvertida ([Mc 7:24](/es/Bible/Mark/7#v24)), probablemente a causa de su excomunión, que curiosamente no aparece nunca mencionada en los evangelios (pero sí en [LU 154:2.1](/es/The_Urantia_Book/154#p2_1)). Aparece mencionada, eso sí, como acción contra sus discípulos, _aphorizein_ en [Lc 6:22](/es/Bible/Luke/6#v22) y _aposynagogon poiein_ o _ginesthai_ ([Jn 9:22](/es/Bible/John/9#v22), [12:42](/es/Bible/John/12#v42), [16:2](/es/Bible/John/16#v2)).
+Esto nos permite entender mejor los pasajes de los evangelios donde se muestra a Jesús cambiando Cafarnaúm por Tiro y Sidón de forma inadvertida ([Mc 7:24](/es/Bible/Mark/7#v24)), probablemente a causa de su excomunión, que curiosamente no aparece nunca mencionada en los evangelios (pero sí en <a id="a72_295"></a>[LU 154:2.1](/es/The_Urantia_Book/154#p2_1)). Aparece mencionada, eso sí, como acción contra sus discípulos, _aphorizein_ en [Lc 6:22](/es/Bible/Luke/6#v22) y _aposynagogon poiein_ o _ginesthai_ ([Jn 9:22](/es/Bible/John/9#v22), [12:42](/es/Bible/John/12#v42), [16:2](/es/Bible/John/16#v2)).
 
 ## El edificio
 

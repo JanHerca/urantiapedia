@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1983 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_Urantian/1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian News — Noticias de la Fundación Urantia — diciembre de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#número-2-diciembre-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número 2, Diciembre 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -43,3 +64,25 @@ Fundación Urantia
 
 Por Martin W. Myers como vicepresidente
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_Urantian/1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian News — Noticias de la Fundación Urantia — diciembre de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#número-2-diciembre-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número 2, Diciembre 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

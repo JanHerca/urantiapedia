@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Gard Jameson<br>© 1998 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de la IUA en Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#volumen-17-número-2-septiembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 2, Septiembre 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Fideicomisario, Gard Jameson habla en la conferencia de la IUA en Helsinki_
 
@@ -69,7 +90,7 @@ Deberíamos preguntarnos ¿qué hemos aprendido en este proceso, este proceso qu
 
 Peep se refirió a la incertidumbre del proceso del que somos parte con una cita de _El Libro de Urantia_. 
 
-> _En las eras planetarias más avanzadas, estos serafines acrecientan la apreciación humana de la verdad de que la incertidumbre es el secreto de la continuidad satisfecha. Ayudan a los filósofos mortales a comprender que cuando la ignorancia es esencial para conseguir algo, sería un desatino colosal que la criatura conociera el futuro. Realzan el gusto del hombre por el dulzor de la incertidumbre, por el encanto y el atractivo de un futuro impreciso y desconocido._ (<a id="a92_433"></a>[UB 39:5.9](/es/The_Urantia_Book/39#p5_9 )) 
+> _En las eras planetarias más avanzadas, estos serafines acrecientan la apreciación humana de la verdad de que la incertidumbre es el secreto de la continuidad satisfecha. Ayudan a los filósofos mortales a comprender que cuando la ignorancia es esencial para conseguir algo, sería un desatino colosal que la criatura conociera el futuro. Realzan el gusto del hombre por el dulzor de la incertidumbre, por el encanto y el atractivo de un futuro impreciso y desconocido._ ([UB 39:5.9](/es/The_Urantia_Book/39#p5_9 )) 
 
 ¿Podemos todos reconocer este proceso del que somos parte y respirar la «dulzura de la incertidumbre»? ¿Tenemos la voluntad de dejar atrás nuestros comportamientos poco cooperativos y continuar resolviendo nuestra falta de unidad? ¿Tenemos el coraje de darle al Maestro lo que realmente quiere dentro de nuestra comunidad? En nombre de nuestro Maestro, ruego que lo hagamos. ¡Y rezo para que esta sea tu oración también! 
 
@@ -77,3 +98,25 @@ Peep se refirió a la incertidumbre del proceso del que somos parte con una cita
 ## Referencias 
 
 - [Noticias Urantianas de la Fundación Urantia](https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de la IUA en Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#volumen-17-número-2-septiembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 2, Septiembre 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,11 +9,35 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Georges Michelson-Dupont<br>© 1998 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_Urantian/1998_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian News — Noticias de la Fundación Urantia — September 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#volumen-17-número-2-septiembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 2, Septiembre 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson/Our_Responsibility_To_The_Revelatory_Commission">
+          <span class="pr-2">Nuestra responsabilidad ante la Comisión Reveladora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Georges Michelson-Dupont_
 
-> _Cuando el alma ascendente del hombre se encuentra ante el Juez Supremo, la decisión de importancia eterna no está determinada por los éxitos materiales ni por los logros cuantitativos; el veredicto que resuena en todas las cortes supremas proclama: «Bien hecho, buen y fiel servidor; has sido fiel en algunas cosas esenciales; serás establecido como gobernante de las realidades universales.»_ <a id="a38_368">[LU 25:1.6](/es/The_Urantia_Book/25#p1_6)
+> _Cuando el alma ascendente del hombre se encuentra ante el Juez Supremo, la decisión de importancia eterna no está determinada por los éxitos materiales ni por los logros cuantitativos; el veredicto que resuena en todas las cortes supremas proclama: «Bien hecho, buen y fiel servidor; has sido fiel en algunas cosas esenciales; serás establecido como gobernante de las realidades universales.»_ <a id="a38_368"><a id="a39_413"></a>[LU 25:1.6](/es/The_Urantia_Book/25#p1_6)
 
 Queridos amigos,
 
@@ -78,7 +102,7 @@ Y con el quinto, no sabemos qué investigaciones y técnicas se utilizaron para 
 
 ### Desarrollo temprano de los documentos de Urantia
 
-A principios del siglo XX, el Dr. William S. Sadler, un destacado médico y psiquiatra que ejercía en Chicago, se convirtió en el jefe reconocido del grupo conocido como la Comisión de Contacto, que recibió los mensajes e instrucciones de los reveladores que dieron como resultado El Libro de Urantia. _ La Comisión Reveladora funcionó a través de una personalidad de contacto humano cuya identidad permanecerá para siempre en la oscuridad. _«El hombre mortal es muy propenso a venerar, e incluso a deificar, a sus compatriotas extraordinarios y a sus superiores superhumanos.»_ [LU 114:3.1](/es/The_Urantia_Book/114#p3_1)
+A principios del siglo XX, el Dr. William S. Sadler, un destacado médico y psiquiatra que ejercía en Chicago, se convirtió en el jefe reconocido del grupo conocido como la Comisión de Contacto, que recibió los mensajes e instrucciones de los reveladores que dieron como resultado El Libro de Urantia. _ La Comisión Reveladora funcionó a través de una personalidad de contacto humano cuya identidad permanecerá para siempre en la oscuridad. _«El hombre mortal es muy propenso a venerar, e incluso a deificar, a sus compatriotas extraordinarios y a sus superiores superhumanos.»_ <a id="a104_578"></a>[LU 114:3.1](/es/The_Urantia_Book/114#p3_1)
 
 La Comisión de Contacto fueron los únicos seres humanos al tanto de los métodos utilizados para producir los documentos en inglés. Juraron no revelar detalles sobre las transacciones. _El Libro de Urantia_; por su carácter revelador, debía sostenerse por su propio mérito, naturaleza y contenido.
 
@@ -170,7 +194,7 @@ Vemos que toda revelación requiere dos lados, el lado revelador y el lado evolu
 
 En la página 1569 del _Libro de Urantia_, y justo antes del «Sermón de la Ordenación de los Doce», se nos cuenta cómo Jesús, en un discurso solemne a su Padre celestial, presenta a sus apóstoles:
 
-> _«Padre mío, aquí te traigo a estos hombres, mis mensajeros. Entre nuestros hijos de la Tierra, he escogido a estos doce para que vayan a representarme como yo he venido para representarte. Ámalos y acompáñalos como tú me has amado y acompañado. Y ahora, Padre mío, concédeles sabiduría a estos hombres, mientras deposito todos los asuntos del reino venidero entre sus manos»_ [LU 140:2.2](/es/The_Urantia_Book/140#p2_2)
+> _«Padre mío, aquí te traigo a estos hombres, mis mensajeros. Entre nuestros hijos de la Tierra, he escogido a estos doce para que vayan a representarme como yo he venido para representarte. Ámalos y acompáñalos como tú me has amado y acompañado. Y ahora, Padre mío, concédeles sabiduría a estos hombres, mientras deposito todos los asuntos del reino venidero entre sus manos»_ <a id="a196_379"></a>[LU 140:2.2](/es/The_Urantia_Book/140#p2_2)
 
 Y la narración continúa
 
@@ -190,11 +214,11 @@ Su llamada «libertad» es para ellos más importante que su obligación hacia e
 
 > _«En mi universo y en el universo de universos de mi Padre, nuestros hijos-hermanos son tratados como individuos en todas sus relaciones espirituales, pero en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija. Nuestro reino es un reino de orden, y cuando dos o más criaturas volitivas actúan en cooperación, siempre se prevé la autoridad de un jefe.»_ [Jesús, [LU 181:2.16](/es/El_Libro_de_Urantia/181#p2_16)]
 
-Esta responsabilidad social y trascendental ejercida por la Fundación Urantia no infringe ni se opone a los derechos religiosos de los individuos. El libro nos dice que _la religión es pura y totalmente una cuestión de experiencia personal_ [LU 138:2.1](/es/The_Urantia_Book/138#p2_1) La Fundación Urantia siempre lo ha hecho y siempre lo hará Aliente a todos y cada uno de los individuos a experimentar, en su vida interior, las enseñanzas del Libro de Urantia.
+Esta responsabilidad social y trascendental ejercida por la Fundación Urantia no infringe ni se opone a los derechos religiosos de los individuos. El libro nos dice que _la religión es pura y totalmente una cuestión de experiencia personal_ <a id="a216_241"></a>[LU 138:2.1](/es/The_Urantia_Book/138#p2_1) La Fundación Urantia siempre lo ha hecho y siempre lo hará Aliente a todos y cada uno de los individuos a experimentar, en su vida interior, las enseñanzas del Libro de Urantia.
 
 Pero surgen situaciones de conflicto social potencial cuando los individuos anteponen la importancia de su propia libertad a la libertad de sus semejantes:
 
-> _«La libertad sometida a las reglas colectivas es la meta legítima de la evolución social. La libertad sin restricción es el sueño vano e imaginario de las mentes humanas inestables y caprichosas.»_ [LU 81:5.7](/es/The_Urantia_Book/81#p5_7)
+> _«La libertad sometida a las reglas colectivas es la meta legítima de la evolución social. La libertad sin restricción es el sueño vano e imaginario de las mentes humanas inestables y caprichosas.»_ <a id="a220_201"></a>[LU 81:5.7](/es/The_Urantia_Book/81#p5_7)
 
 Por lo tanto, invocar la libertad religiosa para justificar cualquier intento contra la protección del texto de El Libro de Urantia muestra un comportamiento inmaduro y egoísta.
 
@@ -242,13 +266,13 @@ Es mi entendimiento, mi creencia y mi convicción que mientras sigamos las instr
 
 Desviarse de este camino puede ser realmente fácil. A veces puede resultar tentador para algunas personas desviarse del rumbo inicial cuando un argumento o la formulación de un nuevo plan sutil es atractivo y se presenta de una manera que apela a las emociones, o se presenta de una manera amigable y aparentemente lógica. A menudo estos argumentos no tienen en cuenta el contexto histórico. Pero estamos en este planeta para que seamos probados en cuanto a nuestra lealtad, fe y confiabilidad.
 
-> _La lealtad —la devoción al deber más elevado— ¿es deseable? Entonces el hombre debe caminar entre las posibilidades de traición y de deserción. El valor de la devoción al deber consiste en el peligro implícito de incumplirlo._ ([LU 3:5.12](/es/The_Urantia_Book/3#p5_12))
+> _La lealtad —la devoción al deber más elevado— ¿es deseable? Entonces el hombre debe caminar entre las posibilidades de traición y de deserción. El valor de la devoción al deber consiste en el peligro implícito de incumplirlo._ (<a id="a268_231"></a>[LU 3:5.12](/es/The_Urantia_Book/3#p5_12))
 >
-> _A primera vista, podría parecer que Urantia y los mundos aislados asociados son de lo más desafortunados por estar privados de la presencia y de la influencia benéficas de unas personalidades superhumanas tales como un Príncipe Planetario y un Hijo y una Hija Materiales. Pero el aislamiento de estas esferas ofrece a sus razas una oportunidad única para ejercitar su fe y para desarrollar una calidad de confianza especial en la fiabilidad cósmica que no dependen de la vista ni de ninguna otra consideración material. Al final puede resultar que las criaturas mortales procedentes de los mundos que están en cuarentena a consecuencia de la rebelión sean extremadamente afortunadas. Hemos descubierto que a estos ascendentes les confían muy pronto numerosas tareas especiales en empresas cósmicas donde una fe incuestionable y una confianza sublime son esenciales para triunfar._ [LU 50:7.1](/es/The_Urantia_Book/50#p7_1)
+> _A primera vista, podría parecer que Urantia y los mundos aislados asociados son de lo más desafortunados por estar privados de la presencia y de la influencia benéficas de unas personalidades superhumanas tales como un Príncipe Planetario y un Hijo y una Hija Materiales. Pero el aislamiento de estas esferas ofrece a sus razas una oportunidad única para ejercitar su fe y para desarrollar una calidad de confianza especial en la fiabilidad cósmica que no dependen de la vista ni de ninguna otra consideración material. Al final puede resultar que las criaturas mortales procedentes de los mundos que están en cuarentena a consecuencia de la rebelión sean extremadamente afortunadas. Hemos descubierto que a estos ascendentes les confían muy pronto numerosas tareas especiales en empresas cósmicas donde una fe incuestionable y una confianza sublime son esenciales para triunfar._ <a id="a270_884"></a>[LU 50:7.1](/es/The_Urantia_Book/50#p7_1)
 
 ## Las razones de un derecho de autor
 
-Desafortunadamente, Urantia está marcada con el sello de la rebelión y la impaciencia: _La impaciencia es un veneno del espíritu_... [LU 48:7.20](/es/The_Urantia_Book/48#p7_20) dice un Arcángel de Nebadón.
+Desafortunadamente, Urantia está marcada con el sello de la rebelión y la impaciencia: _La impaciencia es un veneno del espíritu_... <a id="a274_133"></a>[LU 48:7.20](/es/The_Urantia_Book/48#p7_20) dice un Arcángel de Nebadón.
 
 La historia de nuestro planeta muestra que desde la rebelión de Lucifer, todas las revelaciones han sido objeto de severos ataques. La Quinta Revelación de Época no es una excepción. Debido a que éste llegó en forma de libro, los ataques se dirigen contra el texto mismo, así como contra las herramientas existentes para su protección y difusión. Por lo tanto es de la mayor importancia que, hasta su difusión mundial, el texto esté protegido con derechos de autor.
 
@@ -276,7 +300,7 @@ Quinto: el mundo necesita toda la revelación. Al igual que a Adán y Eva, a qui
 
 Y si esos argumentos no son lo suficientemente explícitos entonces, escuche lo que Jesús dijo a sus apóstoles como una instrucción muy clara durante su última aparición:
 
-> _«Os exhorto a que recordéis siempre que vuestra misión entre los hombres consiste en proclamar el evangelio del reino —la realidad de la paternidad de Dios y la verdad de la filiación de los hombres. Proclamad la verdad total de la buena nueva, y no solamente una parte del evangelio salvador.»_ [LU 193:0.4](/es/The_Urantia_Book/193#p0_4)
+> _«Os exhorto a que recordéis siempre que vuestra misión entre los hombres consiste en proclamar el evangelio del reino —la realidad de la paternidad de Dios y la verdad de la filiación de los hombres. Proclamad la verdad total de la buena nueva, y no solamente una parte del evangelio salvador.»_ <a id="a302_299"></a>[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)
 
 Esta revelación es tan poderosa y atractiva que es inevitable que atraiga, y seguirá atrayendo, a individuos o grupos inmaduros, impacientes y desequilibrados que, bajo el falso pretexto de la libertad religiosa o del llamado servicio desinteresado, querrían apropiarse de _El El Libro de Urantia_ para sus propios fines, por lo que tienen que luchar contra los derechos de autor para poder poner el texto en el dominio público antes de que el libro esté seguro y traducido a muchos idiomas.
 
@@ -304,7 +328,7 @@ Debemos comprender y reconocer que la lucha actual entre nuestros grupos de lect
 
 El libro nos enseña lo siguiente sobre la competencia:
 
-> _Durante las épocas primitivas de un mundo cualquiera, la competencia es imprescindible para la civilización progresiva. A medida que progresa la evolución del hombre, la cooperación se vuelve cada vez más real. En las civilizaciones avanzadas, la cooperación es más eficaz que la competencia. La competencia estimula al hombre primitivo. La evolución primitiva está caracterizada por la supervivencia de los seres biológicamente capacitados, pero la mejor manera de fomentar las civilizaciones posteriores es a través de la cooperación inteligente, la fraternidad comprensiva y la hermandad espiritual._ [LU 71:5.3](/es/The_Urantia_Book/71#p5_3)
+> _Durante las épocas primitivas de un mundo cualquiera, la competencia es imprescindible para la civilización progresiva. A medida que progresa la evolución del hombre, la cooperación se vuelve cada vez más real. En las civilizaciones avanzadas, la cooperación es más eficaz que la competencia. La competencia estimula al hombre primitivo. La evolución primitiva está caracterizada por la supervivencia de los seres biológicamente capacitados, pero la mejor manera de fomentar las civilizaciones posteriores es a través de la cooperación inteligente, la fraternidad comprensiva y la hermandad espiritual._ <a id="a330_607"></a>[LU 71:5.3](/es/The_Urantia_Book/71#p5_3)
 
 El segundo paso del plan todavía está en marcha. Los hablantes de inglés, español y francés representan sólo el 15% del mundo en términos de idioma. Nos encontramos con dificultades extremas con la distribución en Rusia. El 85% del mundo aún no ha estado expuesto a las enseñanzas de _El Libro de Urantia_ y el lanzamiento aún ni siquiera ha comenzado. Es utópico pensar que con sólo un total de 350.000 copias vendidas en muy pocos países, y con sólo un puñado de traducciones completadas, las enseñanzas de El Libro de Urantia están a salvo de ser distorsionadas o presentadas al mundo de una manera que no sea la correcta. de acuerdo con las intenciones de los reveladores.
 
@@ -316,7 +340,7 @@ Hay mucho, muchísimo, que los lectores y los grupos pueden hacer para difundir 
 
 Otro tema que me gustaría abordar hoy es el de las marcas registradas: el símbolo de los tres círculos concéntricos y los nombres «Urantia» y «Urantiano», especialmente el símbolo de los tres círculos concéntricos.
 
-En primer lugar, se nos dice que el símbolo es _el emblema material del gobierno de la Trinidad_ [LU 53:5.4](/es/The_Urantia_Book/53#p5_4). Fueron exhibidos como «el estandarte de Miguel» bajo el cual se reunieron los seres leales cuando «hubo guerra en el cielo durante el episodio de la rebelión de Lucifer.
+En primer lugar, se nos dice que el símbolo es _el emblema material del gobierno de la Trinidad_ <a id="a342_97"></a>[LU 53:5.4](/es/The_Urantia_Book/53#p5_4). Fueron exhibidos como «el estandarte de Miguel» bajo el cual se reunieron los seres leales cuando «hubo guerra en el cielo durante el episodio de la rebelión de Lucifer.
 
 Luego, fueron utilizados por Maquiventa durante su revelación de emergencia en la tierra y, como tales, quedaron asociados con la tercera revelación.
 
@@ -354,7 +378,7 @@ La publicación y distribución de _El Libro de Urantia_ es una tarea empresaria
 
 ### Promoción de un ambiente amigable para la Cooperación
 
-> _Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. En el universo hay pocas obligaciones para el servidor solitario. Cuanto más os eleváis, más solos os sentís cuando temporalmente no estáis asociados con vuestros compañeros._ [Mensajero Poderoso [LU 28:5.14](/es/The_Urantia_Book/28#p5_14)].
+> _Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. En el universo hay pocas obligaciones para el servidor solitario. Cuanto más os eleváis, más solos os sentís cuando temporalmente no estáis asociados con vuestros compañeros._ <a id="a380_412"></a>[Mensajero Poderoso [LU 28:5.14](/es/The_Urantia_Book/28#p5_14)].
 
 El trabajo en equipo se basa en la confianza y el respeto mutuo. Todos somos lectores y creyentes dedicados. Los Fideicomisarios de la Fundación Urantia están dispuestos a cooperar y trabajar en armonía con personas o grupos que creen en la importancia de la revelación para nuestro planeta y que están dispuestos a trabajar en asociación con los reveladores y en apoyo de la Declaración de Confianza.
 
@@ -419,3 +443,28 @@ Gracias por su atención.
 ## Referencias
 
 - [Noticias Urantianas de la Fundación Urantia](https://www.urantia.org/news/1998-08/trustee-georges-michelson-dupont-speaks-iua-conference-in-helsinki)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_Urantian/1998_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian News — Noticias de la Fundación Urantia — September 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_urantian#volumen-17-número-2-septiembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 2, Septiembre 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson/Our_Responsibility_To_The_Revelatory_Commission">
+          <span class="pr-2">Nuestra responsabilidad ante la Comisión Reveladora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
