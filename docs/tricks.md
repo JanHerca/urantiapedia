@@ -262,6 +262,8 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 - `John` instead of `Juan` (about the apostle or the Baptist)
 - `Apocalipsis` instead of `la revelación` (about The Urantia Book itself)
 - `Bethpage` instead of `Betfagé` (`Bethpage` in fact should be `Bethphage`)
+- `Capernaúm` or `Capernaum` instead of `Cafarnaúm`
+- `Nazareth` instead of `Nazaret`
 
 <figure class="table chapter-navigator">\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n</figure>\n
 
@@ -306,6 +308,7 @@ Communauté|Fellowship
 **ES**
 
 ^título:|title:
+^descripción:|description:
 v-card tema v-sheet--gris claro aclarar-3 px-2|v-card v-sheet theme--light gray lighten-3 px-2
 Compañerismo|Fellowship
 Becas|Fellowship
@@ -319,7 +322,8 @@ fundación|Fundación
  El Libro de Urantia\.| _El Libro de Urantia_.
  El Libro de Urantia,| _El Libro de Urantia_,
  El libro de Urantia | _El Libro de Urantia_ 
- El libro de Urantia\.| _El libro de Urantia_.
+ El libro de Urantia\.| _El Libro de Urantia_.
+^El Libro de Urantia |_El Libro de Urantia_ 
 Porcelana|China
 síndico|fideicomisario
 Síndico|fideicomisario

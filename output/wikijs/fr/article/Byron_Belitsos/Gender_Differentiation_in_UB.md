@@ -123,7 +123,7 @@ Des sphères de charme et de grâce... Des beautés bilingues repérées dans le
 Je laisserai à d’autres la définition plus approfondie des « sphères de charme et de grâce ». Mais les bienfaits que l’amour maternel confère à la civilisation sont bien compris par tous ceux qui ont entretenu des relations saines avec leur propre mère.
 
 > _Byron a été journaliste et producteur de télévision et est actuellement consultant dans l'industrie des télécommunications._
-{.is-}
+{.is-info}
 
 > « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a127_499"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 

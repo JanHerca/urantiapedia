@@ -122,7 +122,7 @@ Spheres of charm and grace...Bilingual beauties spotted in uptown cafes after a 
 I will leave further definition of “spheres of charm and grace” to others. But the benefits that mother-love confer on civilization are well understood to all who have enjoyed healthy relationships with their own mothers.
 
 > _Byron has been a journalist and television producer and is presently a consultant in the telecommunications industry._
-{.is-}
+{.is-info}
 
 > “To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it." (<a id="a126_437"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
