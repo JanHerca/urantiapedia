@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 David A. Kantor<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i >>p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 David A. Kantor<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
 
 
 Internet proporciona una plataforma para actividades misioneras y el desarrollo de redes sociales de creyentes únicas en el momento de la Quinta Revelación de Época. La Fellowship está estableciendo silenciosamente una arquitectura para la propagación de revelaciones adecuada para el futuro inmediato de la acelerada revolución global de la información. Esta infraestructura coexistirá y explotará el potencial misionero de múltiples tecnologías de comunicaciones emergentes. El uso internacional de la infraestructura tecnológica de la Fellowship se acercó a los 12.000 usuarios individuales en septiembre. Incluyendo aquellos que regresaron varias veces, el total superó las 16.000 visitas durante el mes. Actualmente, el uso se está expandiendo a una tasa mensual del 20%. El éxito final de este experimento de difusión de revelaciones dependerá de la calidad y cantidad de la participación de los lectores.

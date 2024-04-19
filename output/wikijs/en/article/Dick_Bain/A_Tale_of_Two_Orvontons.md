@@ -106,7 +106,7 @@ After many years of consideration, I've decided that the book presents not one, 
 
 [Since the authors use “nebulae” to indicate galaxies in Section 1, and since they say the “individual aggregations of matter” are like the nebulae (galaxies) that are external to our galaxy, the authors seem to be saying that Orvonton is composed of many galaxies.]
 
-> “The Seven Superuniverses are not primary physical organizations; nowhere do their boundaries divide a nebular family, neither do they cross a local universe, a prime creative unit. Each superuniverse is simply a geographic space clustering of approximately one seventh of the organized and partially inhabited post-Havona creation, and each is about equal in the number of local universes embraced and in the space encompassed.” <a id="a108_432"></a>[UB 12:1.12](/en/The_Urantia_Book/12#p1_6)
+> “The Seven Superuniverses are not primary physical organizations; nowhere do their boundaries divide a nebular family, neither do they cross a local universe, a prime creative unit. Each superuniverse is simply a geographic space clustering of approximately one seventh of the organized and partially inhabited post-Havona creation, and each is about equal in the number of local universes embraced and in the space encompassed.” <a id="a108_432"></a>[UB 12:1.12](/en/The_Urantia_Book/12#p1_12)
 
 [If by “nebular family” the authors mean clusters of galaxies, then they may be saying that Orvonton is a cluster of galaxies. On the other hand, they may regard the Milky Way galaxy and its small close-by satellite galaxies as a “nebular family.”]
 

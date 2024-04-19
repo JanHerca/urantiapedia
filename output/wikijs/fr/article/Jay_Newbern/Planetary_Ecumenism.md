@@ -93,7 +93,7 @@ Ce qui semble impossible aux mortels est, bien sûr, possible à Dieu. Il nous e
 
 > « Les religions de désespoir pessimiste cherchent à se libérer des fardeaux de la vie ; elles souhaitent ardemment l’anéantissement dans un sommeil et un repos sans fin. Ce sont les religions de la peur et de la crainte primitives. La religion de Jésus est un nouvel évangile de foi à proclamer à l’humanité qui se débat. Cette religion nouvelle est fondée sur la foi, l’espérance et l’amour. » (<a id="a93_398"></a>[LU 194:3.2](/fr/The_Urantia_Book/194#p3_2))
 
-> « Tenez-vous tous fermement à la corde de Dieu. Ne vous divisez pas en divisions. Rappelez-vous la grâce de Dieu envers vous, combien vous étiez autrefois ennemis, et il a uni vos cœurs dans des liens mutuels, de sorte que par sa grâce, vous êtes devenus frères. (Coran 3:103)
+> « Tenez-vous tous fermement à la corde de Dieu. Ne vous divisez pas en divisions. Rappelez-vous la grâce de Dieu envers vous, combien vous étiez autrefois ennemis, et il a uni vos cœurs dans des liens mutuels, de sorte que par sa grâce, vous êtes devenus frères. ([Coran 3:103](/fr/book/Islam/Quran/3#v103))
 
 Amen. (Ainsi soit-il)
 

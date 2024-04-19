@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 David E. Glass<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i >>p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 David E. Glass<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
 
 
 Hacer la voluntad del Padre es una empresa multifacética. Hacer la voluntad de Dios es un estilo de vida completo que se relaciona no sólo con lo que uno hace para cumplir la voluntad del Padre, sino también con la forma en que uno realiza la voluntad de Dios: el espíritu con el que el hijo o la hija de Dios se acerca, discierne y actúa. en cuanto a su concepto más elevado de la voluntad del Padre. Sin embargo, muchos mortales planetarios no saben mucho acerca de la voluntad de Dios. Incluso algunos lectores del Libro de Urantia no siempre están seguros de cuál puede ser la voluntad del Padre: primero, en su relación personal con Dios; segundo, en el servicio a sus hermanos y hermanas; y tercero, con referencia a la información presentada en la revelación recién recibida. En la vida todos desempeñamos muchas funciones: familiares, económicas, intelectuales, sociales y espirituales; y cada uno de ellos es relevante para uno o más aspectos de la voluntad del Padre.

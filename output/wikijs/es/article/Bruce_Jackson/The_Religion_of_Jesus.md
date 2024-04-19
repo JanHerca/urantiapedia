@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Bruce R. Jackson<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i >>p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Bruce R. Jackson<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
 
 
 Durante mi último semestre en un seminario evangélico mayor, el establishment de la iglesia me obligó a tomar una decisión firme con respecto a la declaración pública de mi fe. Esta fue una tarea verdaderamente difícil ya que mi decisión iba a tener graves consecuencias en mi carrera ministerial y en la expresión pública de mi fe. Me vi obligado a repensar seriamente mi comprensión de los principios básicos de la fe cristiana a la luz de mi experiencia personal, mi formación cristiana y una lectura básica de _El Libro de Urantia_.

@@ -92,7 +92,7 @@ That which appears impossible to mortals is, of course, possible with God. He se
 
 > “The religions of pessimistic despair seek to obtain release from the burdens of life; they crave extinction in endless slumber and rest. These are the religions of primitive fear and dread. The religion of Jesus is a new gospel of faith to be proclaimed to struggling humanity. This new religion is founded on faith, hope, and love.” (<a id="a92_338"></a>[UB 194:3.2](/en/The_Urantia_Book/194#p3_2))
 
-> “Take firm hold, all of you, on the rope of God. Do not break up into divisions. Be mindful of the grace of God to you, how you were formerly enemies, and He united your hearts in mutual bonds, so that by His grace, you became brothers.” (Qur'an 3:103)
+> “Take firm hold, all of you, on the rope of God. Do not break up into divisions. Be mindful of the grace of God to you, how you were formerly enemies, and He united your hearts in mutual bonds, so that by His grace, you became brothers.” ([Qur'an 3:103](/en/book/Islam/Quran/3#v103))
 
 Amen. (So be it)
 

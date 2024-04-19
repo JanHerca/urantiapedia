@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 David A. Kantor<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i >>p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 David A. Kantor<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
 
 
 
