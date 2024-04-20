@@ -45,7 +45,7 @@ Una serie del Dr. Ken Glasziou, 1996
 
 ## Enlaces externos
 
-- [Temas científicos en el sitio web de la beca _El Libro de Urantia_](https://urantiabook.org/Science-Topics-in-The-Urantia-Book)
+- [Temas científicos en el sitio web de la Fellowship de _El Libro de Urantia_](https://urantiabook.org/Science-Topics-in-The-Urantia-Book)
 - [Este libro publicado en el sitio web de la Fellowship de _El Libro de Urantia_](https://archive.urantiabook.org/archive/readers/doc181.htm)
 
 

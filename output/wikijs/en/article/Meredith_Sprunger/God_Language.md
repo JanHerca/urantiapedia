@@ -79,7 +79,7 @@ There has been a recurring expression of the need for the motherhood concept of 
 In summary, we observe that the names we use for God are determined by our knowledge, experience, and culture. There seems to be a consensus that parental and family appellations for God best describe the experience and preference of the majority of people in our culture. It is unfortunate that some traditionalists and some feminists attempt to coerce others to use the God language they prefer. Both sides find theological and religious reasons for their preferences. It is much better to allow each person the spiritual freedom to select their own analogical and metaphorical expressions for God that coincide with their experience. Indeed, we should encourage creative spiritual imagination to enrich our God language.
 
 > The Rev. Dr. Meredith J. Sprunger is a United Church of Christ minister and college professor and administrator, now retired. He is author of Spiritual Psychology, A Primer, and serves as editor of _The Spiritual Fellowship Journal_.
-{is-info}
+{.is-info}
 
 > “To 'follow Jesus' means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (<a id="a83_437"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 

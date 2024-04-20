@@ -42,9 +42,7 @@ _« EarthCurrents_ est un exercice d'analyse culturelle, vu globalement. Il se c
 
 Howard Snyder présente une analyse provocatrice de huit tendances mondiales : En ligne – La nouvelle forme de la culture mondiale ; Web mondial – L'économie mondiale émergente ; Le pouvoir du genre – La révolution féministe ; Serre fragile – L’environnement à risque ; Cordes vitales – ADN et supercordes ; Electric Minds — Intelligence artificielle et réalité virtuelle ; Le déclin de l'Ouest – la dernière heure de l'Amérique ? et Nouvel Ordre Mondial – Culture Mondiale ou Choc des Civilisations.
 
-La deuxième section du livre décrit six visions du monde globales : Global Economics – APragmatic Worldview ; Mystère quantique －Une nouvelle vision scientifique du monde ?; La vie sur un
-
-_Journal de la Fraternité Spirituelle_ Living Planet — La vision du monde Gaia ; Conception divine – Dieu dans l’ombre ?; La force du destin – Le déterminisme revisité ; et Postmodernisme – La mort des visions du monde ?.
+La deuxième section du livre décrit six visions du monde globales : Global Economics – APragmatic Worldview ; Mystère quantique －Une nouvelle vision scientifique du monde ?; La vie sur un Planète vivante — La vision du monde Gaia ; Conception divine – Dieu dans l’ombre ?; La force du destin – Le déterminisme revisité ; et Postmodernisme – La mort des visions du monde ?.
 
 La troisième section de _EarthCurrents_ discute des forces et des faiblesses des visions du monde contemporaines et présente un argument en faveur d'une vision chrétienne du monde actualisée. Une vision du monde viable, observe Snyder, doit être cohérente – elle doit tenir compte de la connectivité de toutes choses et de tous les êtres. L'ordre (le but), la surprise (l'indéterminisme) et la beauté sont des marques indélébiles de l'univers et de la société humaine. Ils sont fondamentaux pour une vision ou une réalité cohérente.
 

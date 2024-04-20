@@ -41,9 +41,7 @@ _“EarthCurrents_ is an exercise in cultural analysis, viewed globally. It focu
 
 Howard Snyder presents a provocative analysis of eight global trends: Online — The New Shape of Global Culture; Global Web — The Emerging World Economy; Gender Power — The Feminist Revolution; Fragile Greenhouse — The Environment at Risk; Vital Strings — DNA and Superstrings; Electric Minds — Artificial Intelligence and Virtual Reality; Western Decline — America's Final Hour?; and New World Order — Global Culture or Clash of Civilizations.
 
-The second section of the book describes six global worldviews: Global Economics — APragmatic Worldview; Quantum Mystery－ANew Scientific Worldview?; Life on a
-
-_The Spiritual Fellowship Journal_ Living Planet — The Gaia Worldview; Divine Design — God in the Shadows?; The Force of Fate — Determinism Revisited; and Postmodernism — The Death of Worldviews?.
+The second section of the book describes six global worldviews: Global Economics — APragmatic Worldview; Quantum Mystery－ANew Scientific Worldview?; Life on a Living Planet — The Gaia Worldview; Divine Design — God in the Shadows?; The Force of Fate — Determinism Revisited; and Postmodernism — The Death of Worldviews?.
 
 The third section of _EarthCurrents_ discusses the strength and weaknesses of contemporary worldviews and presents an argument for an updated Christian worldview. A viable worldview, Snyder observes, must be coherent — it must account for the connectedness of all things and beings. Order (purpose), surprise (indeterminism), and beauty are indelible marks of the universe and human society. They are basic to a coherent view or reality.
 
