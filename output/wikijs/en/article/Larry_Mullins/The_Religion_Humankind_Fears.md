@@ -45,7 +45,7 @@ Some readers, when discussing a Urantia religion, have protested that they “al
 
 Yet, sometimes the Papers do refer to what they call formal religion, or organized religion. In this case they are generally discussing specific “religions” such as the Jewish, Christian, or other religions. This is the common definition most people are accustomed to. This is also what most people think of when the word “religion” is used. Formal religion is traditionally described in the second dictionary definition:
 
-> _2. (a) any specific system of belief and worship, often involving a code of ethics and a philosophy [the Christian religion, the Buddhist religion, etc.l (b) any system of beliefs, practices, ethical values, etc. resembling, suggestive of, or likened to, such a system._ [Compton's 1997 Edition]
+> _2. (a) any specific system of belief and worship, often involving a code of ethics and a philosophy [the Christian religion, the Buddhist religion, etc.] (b) any system of beliefs, practices, ethical values, etc. resembling, suggestive of, or likened to, such a system._ [Compton's 1997 Edition]
 
 For most of us, our formal “religion” is an accident of birth. We may be Catholic, yet if we had been born into a Jewish family, we would likely be Jewish. If we were born in Syria we would more likely be a Moslem. There are exceptions, but this is generally the case. It is similar to being born in Dallas and rooting for the Dallas Cowboys, or in Washington D.C. and rooting for the Washington Redskins.
 

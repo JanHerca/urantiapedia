@@ -46,7 +46,7 @@ Certains lecteurs, lorsqu’ils discutaient d’une religion d’Urantia, ont pr
 
 Pourtant, les documents font parfois référence à ce qu’ils appellent la religion formelle ou la religion organisée. Dans ce cas, ils parlent généralement de « religions » spécifiques telles que les religions juive, chrétienne ou autres. C’est la définition courante à laquelle la plupart des gens sont habitués. C’est aussi ce à quoi pensent la plupart des gens lorsqu’on utilise le mot « religion ». La religion formelle est traditionnellement décrite dans la deuxième définition du dictionnaire :
 
-> _2. (a) tout système spécifique de croyance et de culte, impliquant souvent un code d'éthique et une philosophie [la religion chrétienne, la religion bouddhiste, etc.l (b) tout système de croyances, de pratiques, de valeurs éthiques, etc. ressemblant, suggestif de, ou comparé à, un tel système._ [Compton's 1997 Edition]
+> _2. (a) tout système spécifique de croyance et de culte, impliquant souvent un code d'éthique et une philosophie [la religion chrétienne, la religion bouddhiste, etc.] (b) tout système de croyances, de pratiques, de valeurs éthiques, etc. ressemblant, suggestif de, ou comparé à, un tel système._ [Compton's 1997 Edition]
 
 Pour la plupart d’entre nous, notre « religion » formelle est un accident de naissance. Nous sommes peut-être catholiques, mais si nous étions nés dans une famille juive, nous serions probablement juifs. Si nous étions nés en Syrie, nous serions probablement musulmans. Il y a des exceptions, mais c'est généralement le cas. C'est comme être né à Dallas et soutenir les Cowboys de Dallas, ou à Washington D.C. et soutenir les Redskins de Washington.
 
