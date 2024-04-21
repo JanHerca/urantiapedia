@@ -1,5 +1,5 @@
 ---
-Título: "Encuentra el eslabón perdido"
+title: "Encuentra el eslabón perdido"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

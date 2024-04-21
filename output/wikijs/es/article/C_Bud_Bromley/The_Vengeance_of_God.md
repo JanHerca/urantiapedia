@@ -1,5 +1,5 @@
 ---
-Título: "La venganza de Dios"
+title: "La venganza de Dios"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

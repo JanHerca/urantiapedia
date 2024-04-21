@@ -1,5 +1,5 @@
 ---
-Título: "El estado del Movimiento Urantia"
+title: "El estado del Movimiento Urantia"
 description: "Informe anual del presidente de The Urantia Book Fellowship - julio de 2000"
 published: true
 date: 2023-09-29T14:02:03.086Z

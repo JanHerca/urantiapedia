@@ -1,5 +1,5 @@
 ---
-Título: "Los diarios de Sherman"
+title: "Los diarios de Sherman"
 description: "Editorial"
 published: true
 date: 2023-09-29T14:02:03.086Z

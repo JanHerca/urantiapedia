@@ -1,5 +1,5 @@
 ---
-Título: "La Doctrina de la Expiación"
+title: "La Doctrina de la Expiación"
 description: "Editorial invitada: Carta a un amigo fundamentalista"
 published: true
 date: 2023-09-29T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-Título: "La moralidad es una ley en sí misma"
+title: "La moralidad es una ley en sí misma"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

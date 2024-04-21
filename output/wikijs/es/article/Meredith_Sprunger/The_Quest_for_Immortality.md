@@ -1,5 +1,5 @@
 ---
-Título: "La búsqueda de la inmortalidad"
+title: "La búsqueda de la inmortalidad"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-Título: "El encuentro transformador"
+title: "El encuentro transformador"
 description: "El libro de Urantia y la renovación espiritual"
 published: true
 date: 2023-09-29T14:02:03.086Z

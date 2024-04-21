@@ -1,5 +1,5 @@
 ---
-Título: "La plenitud de los tiempos"
+title: "La plenitud de los tiempos"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

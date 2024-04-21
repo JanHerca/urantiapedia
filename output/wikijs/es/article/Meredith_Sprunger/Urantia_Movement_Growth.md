@@ -1,5 +1,5 @@
 ---
-Título: "Crecimiento del Movimiento Urantia"
+title: "Crecimiento del Movimiento Urantia"
 description: "Editoriales"
 published: true
 date: 2023-09-29T14:02:03.086Z

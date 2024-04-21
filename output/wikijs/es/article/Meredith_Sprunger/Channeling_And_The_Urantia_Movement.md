@@ -1,5 +1,5 @@
 ---
-Título: "La canalización y el movimiento Urantia"
+title: "La canalización y el movimiento Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

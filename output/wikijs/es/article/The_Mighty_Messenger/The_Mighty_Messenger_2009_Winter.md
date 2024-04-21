@@ -263,7 +263,7 @@ Para ser voluntario para el servicio, comuníquese con Lara Amyx al 772-466-7950
 
 ### Seminario de estudio de verano 2010
 
-Título: Ángeles de la guarda. Tutores: Katharina Becker y Charles Laurence Olivea
+title: Ángeles de la guarda. Tutores: Katharina Becker y Charles Laurence Olivea
 Prerrequisitos: Este seminario ha requerido lectura y estudio. Todos los participantes deben leer y estudiar el documento 113, Los Guardianes Seráficos del Destino, antes de la conferencia de Estudio en julio de 2010. También deberán traer sus copias de _El Libro de Urantia_ al seminario con el fin de consultarlo durante la conversación sobre Guardianes. Ángeles y Moralidad Cósmica. La participación en el seminario está limitada a catorce por orden de llegada. En caso de que el seminario se llene, se abrirá un segundo con un límite de catorce personas también. Póngase en contacto con Charles Laurence Olivea; Camino Prado Vista 3320; Santa Fe, Nuevo México 87507. (505) 438-7746. colivea@cs.com
 
 ## Una vida de servicio

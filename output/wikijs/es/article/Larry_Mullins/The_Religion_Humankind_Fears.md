@@ -1,5 +1,5 @@
 ---
-Título: "La religión que teme la humanidad"
+title: "La religión que teme la humanidad"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

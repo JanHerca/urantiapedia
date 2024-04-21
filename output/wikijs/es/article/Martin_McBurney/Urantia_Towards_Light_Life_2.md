@@ -1,5 +1,5 @@
 ---
-Título: "Urantia: hacia la luz y la vida"
+title: "Urantia: hacia la luz y la vida"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z

@@ -276,7 +276,7 @@ El Comité de Educación tiene varias presentaciones de talleres que están disp
 **Urantian Communities Northwest** (UCNOW) se complace en anunciar que organizaremos una conferencia regional el próximo verano en Oregón. UCNOW es una organización no afiliada 'súper regional' que se formó para servir y apoyar mejor a los lectores de _El Libro de Urantia_ de Alaska, Columbia Británica, Idaho, Oregón y Washington. Aunque nuestro enfoque comunitario está dentro de esa región, estamos invitando a nuestra familia extendida a unirse a nosotros en la profundización de las Relaciones. Nos reuniremos en un centro de retiro en la remota esquina noreste de Oregón, bellamente situado en la base de las montañas Wallowa. Juntos exploraremos este país de las maravillas naturales mientras desarrollamos relaciones eternas entre nosotros y dentro de nuestras vidas espirituales internas.
 
 Fecha: 6-9 de septiembre de 2018
-Título: Reunión de 2018 en el lago Wallowa
+title: Reunión de 2018 en el lago Wallowa
 Tema: Cultivando Relaciones Eternas: Alcanzando, Alcanzando, Alcanzando Lugar: Campamento de Wallow Lake ~ Joseph, Oregon
 
 ## Próximos Eventos

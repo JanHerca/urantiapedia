@@ -291,7 +291,7 @@ description: « (.+) \?|description: "$1 ?"
 < /i>|</i>
 ^##(\w|\d)|## $1
 
-\. ([a-z])  Check manually
+“|”|\{|"|'|\. [a-z]  Check manually
 
 **FR**
 
@@ -308,6 +308,7 @@ Communauté|Fellowship
 **ES**
 
 ^título:|title:
+^Título:|title:
 ^descripción:|description:
 v-card tema v-sheet--gris claro aclarar-3 px-2|v-card v-sheet theme--light gray lighten-3 px-2
 Compañerismo|Fellowship
