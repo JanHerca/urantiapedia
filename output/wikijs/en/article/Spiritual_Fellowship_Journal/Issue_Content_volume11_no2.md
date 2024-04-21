@@ -161,7 +161,7 @@ Suggested annual donation: $\$ 10$. Please make checks payable to Penumbra Press
 - **Identity in the Modern Renaissance**, Dr. Bruce R. Jackson
 	“I believe that contained within the pages of _The Urantia Book_ is the kernel that is needed to give the modern renaissance direction and focus: a complete description of ascendant life. No other single piece of information has the potential to change the human condition on a massive scale.”
 - **A Sincere “Spiritual Attitude” = “Positive Doing”**, Nancy Bigelow
-“What do you say to a four or five year old who looks up into your eyes and asks: ”What does God look like?“ I think the worst possible response is: ”I don't know,"
+  “What do you say to a four or five year old who looks up into your eyes and asks: ”What does God look like?“ I think the worst possible response is: ”I don't know,"
 - **The Turning Point — Part I**, Arthur Nash
 	“ ‘Brother Nash, I want to ask you a question. In view of the exposition you have just given the class, do you believe that Mrs. d'Arcambal can be saved?’ The question hit me as would a blow planted squarely between the eyes. Up to that moment, possibly, I had never ventured on a really independent thought in the whole course of my life.”
 - **The Religion that Humankind Fears**, Larry Mullins

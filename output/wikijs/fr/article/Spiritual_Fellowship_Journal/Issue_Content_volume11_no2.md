@@ -162,7 +162,7 @@ Don annuel suggéré : $\$ 10$. Veuillez libeller votre chèque à l'ordre de Pe
 - **L'identité dans la Renaissance moderne**, Dr Bruce R. Jackson
 	« Je crois que les pages du Livre d'Urantia contiennent le noyau qui est nécessaire pour donner à la renaissance moderne une direction et un objectif : une description complète de la vie ascendante. Aucune autre information n’a le potentiel de changer la condition humaine à grande échelle.
 - **Une « attitude spirituelle » sincère = « agir positif »**, Nancy Bigelow
-« Que dites-vous à un enfant de quatre ou cinq ans qui vous regarde dans les yeux et vous demande : » À quoi ressemble Dieu ? « Je pense que la pire réponse possible est : » Je ne sais pas ".
+  « Que dites-vous à un enfant de quatre ou cinq ans qui vous regarde dans les yeux et vous demande : » À quoi ressemble Dieu ? « Je pense que la pire réponse possible est : » Je ne sais pas ".
 - **Le tournant — Partie I**, Arthur Nash
 	« 'Frère Nash, je veux vous poser une question. Au vu de l'exposé que vous venez de donner à la classe, croyez-vous que Mme d'Arcambal puisse être sauvée ? » La question me frappa comme le ferait un coup planté en plein entre les yeux. Jusqu’à ce moment-là, je ne m’étais peut-être jamais aventuré dans toute ma vie à une pensée vraiment indépendante.
 - **La religion que l'humanité craint**, Larry Mullins

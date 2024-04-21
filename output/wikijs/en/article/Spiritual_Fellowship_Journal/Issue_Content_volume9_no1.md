@@ -150,7 +150,7 @@ Suggested annual donation — \$10.
 ***Articles***
 
 - **Disseminating the Teachings**
-History demonstrates that only religious organizations, institutional religion, is effective in infusing spiritual teachings into civilization.
+  History demonstrates that only religious organizations, institutional religion, is effective in infusing spiritual teachings into civilization.
 - **Meta-Values**
     Understanding how to work with Meta-Value energies is as important as anything we will ever learn.
 - **Doing the Father's Will**

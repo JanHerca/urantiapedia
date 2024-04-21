@@ -104,7 +104,7 @@ Merlyn Cox<br>
 Meredith J. Sprunger<br>
 <br>
 <b>Editorial Consultants</b><br>
->Richard Bain<br>
+Richard Bain<br>
 Larry & Joan Mullins<br>
 Nancy Long
 </p>

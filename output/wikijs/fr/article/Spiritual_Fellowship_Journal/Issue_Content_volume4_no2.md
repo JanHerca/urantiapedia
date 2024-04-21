@@ -131,7 +131,7 @@ Copyright © 1994, Tous droits réservés.
 
 - **Interface** : Le Jésus non historique
 - **La rencontre transformatrice**
-Une laïque décrit sa rencontre avec _Le Livre d'Urantia_
+  Une laïque décrit sa rencontre avec _Le Livre d'Urantia_
 - **Livres importants** :
 	Rencontrer Jésus pour la première fois, par Marcus Borg
 - ***Psaumes aujourd'hui***

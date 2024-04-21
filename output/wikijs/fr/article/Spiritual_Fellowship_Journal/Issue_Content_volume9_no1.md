@@ -151,7 +151,7 @@ Don annuel suggéré : 10 $.
 ***Des articles***
 
 - **Diffusion des enseignements**
-L’histoire démontre que seules les organisations religieuses, les religions institutionnelles, sont efficaces pour insuffler des enseignements spirituels à la civilisation.
+  L’histoire démontre que seules les organisations religieuses, les religions institutionnelles, sont efficaces pour insuffler des enseignements spirituels à la civilisation.
 - **Méta-valeurs**
     Comprendre comment travailler avec les énergies des méta-valeurs est aussi important que tout ce que nous apprendrons un jour.
 - **Faire la volonté du Père**

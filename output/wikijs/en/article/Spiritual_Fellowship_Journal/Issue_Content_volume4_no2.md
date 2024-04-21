@@ -130,7 +130,7 @@ Copyright © 1994, All Rights Reserved.
 
 - **Interface**: The Non-Historical Jesus
 - **The Transforming Encounter**
-A layperson describes her encounter with _The Urantia Book_
+  A layperson describes her encounter with _The Urantia Book_
 - **Significant Books**:
 	Meeting Jesus Again for the First Time, by Marcus Borg
 - ***Psalms Today***
