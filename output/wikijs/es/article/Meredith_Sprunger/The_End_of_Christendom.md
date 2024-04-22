@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Meredith Sprunger<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Seismic_Shift_in_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cambio sísmico en el cristianismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Restatement_of_Gospels">
+          <span class="pr-2">Una reformulación de los evangelios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recientemente leí un pequeño libro titulado El fin de la cristiandad y el futuro del cristianismo, escrito por Douglas John Hall, un teólogo canadiense, profesor de Teología Cristiana en la Universidad McGill. La tesis del libro es que el cristianismo está atravesando una transición importante. «Creo que el compromiso con el modelo institucional establecido de la iglesia –con la cristiandad en sus diversas formas institucionales– es la causa más importante de la inercia y del retraso de una respuesta intencional y creativa a esta gran transición». (pág. 7)
@@ -17,3 +41,28 @@ El profesor Hall cree que la mano de Dios está en este cambio. Piensa que esta 
 
 Este libro es ilustrativo del motivo recurrente del pensamiento profético imaginativo en la creciente vanguardia del cristianismo contemporáneo. Los Altísimos, a mi juicio, están preparando nuestro mundo para la Quinta Revelación de Época. El conflicto y los pleitos en el movimiento Urantia son acontecimientos menores que distraen la misión principal y el propósito de la Quinta Revelación de Época.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Seismic_Shift_in_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cambio sísmico en el cristianismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Restatement_of_Gospels">
+          <span class="pr-2">Una reformulación de los evangelios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

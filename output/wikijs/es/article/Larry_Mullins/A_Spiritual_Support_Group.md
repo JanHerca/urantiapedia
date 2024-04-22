@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Larry Mullins<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos de hoy: guía espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/UB_and_the_Internet">
+          <span class="pr-2">El libro de Urantia e Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los espíritus afines pueden ayudar a que el viaje sea más fácil
@@ -19,9 +43,9 @@ Después de pensarlo un poco, he llegado a creer que el premio final se encuentr
 
 El amor incondicional es algo que experimentamos personalmente (si tenemos suerte) en la forma en que amamos a nuestros padres. Luego, aprendemos que el amor por otra persona, fuera de nuestra familia, es una experiencia de amor mayor. Más adelante, incluso esta experiencia de amor palidecerá cuando aprendamos a amar a nuestros hijos. Sin embargo, como prometen los Documentos de Urantia, la mayor de todas las experiencias de amor incondicional ocurre cuando el amor de Dios fluye a través de nosotros libre e incondicionalmente para tocar a otros hijos del Poder Supremo. Este es un amor que, de hecho, es demasiado profundo para expresarlo con palabras.
 
-He aprendido que, durante los intervalos más breves, la paz nos brinda tranquilidad y reposo maravillosos. Entonces, como de la fuente misma de la paz, brotará el espíritu del Poder Supremo. Como observó Rodán ([LU 160:3.1](/es/The_Urantia_Book/160#p3_1)), este espíritu fluye a través de nuestras almas y nos refresca, también busca transitar hacia afuera desde nosotros, para iluminar, elevar y bendecir con gracia y gracia a quienes nos rodean. Experimentamos así la verdad de que el Amor del Padre Universal no debe ser contenido. Este amor ingobernable se actualiza o es real para nosotros en la medida en que cooperamos con su flujo exterior y en proporción a nuestra capacidad de compartirlo con los demás. «Y he aquí un misterio: cuanto más estrechamente se acerca el hombre a Dios a través del amor, mayor es la realidad —la manifestación— de ese hombre. Cuanto más se aleja el hombre de Dios, más cerca se aproxima a la no realidad —al cese de la existencia». ([LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
+He aprendido que, durante los intervalos más breves, la paz nos brinda tranquilidad y reposo maravillosos. Entonces, como de la fuente misma de la paz, brotará el espíritu del Poder Supremo. Como observó Rodán (<a id="a45_211"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)), este espíritu fluye a través de nuestras almas y nos refresca, también busca transitar hacia afuera desde nosotros, para iluminar, elevar y bendecir con gracia y gracia a quienes nos rodean. Experimentamos así la verdad de que el Amor del Padre Universal no debe ser contenido. Este amor ingobernable se actualiza o es real para nosotros en la medida en que cooperamos con su flujo exterior y en proporción a nuestra capacidad de compartirlo con los demás. «Y he aquí un misterio: cuanto más estrechamente se acerca el hombre a Dios a través del amor, mayor es la realidad —la manifestación— de ese hombre. Cuanto más se aleja el hombre de Dios, más cerca se aproxima a la no realidad —al cese de la existencia». (<a id="a45_971"></a>[LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
 
-En mis últimos años me encontré confrontado con el mandamiento supremo de Jesús: que debemos amarnos unos a otros como Jesús nos amó. Llegué a comprender que si quería progresar espiritualmente, debía aprender progresivamente a vivir estas palabras: «Cuando esos mortales conducidos por el espíritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un universo amistoso, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios.» ([LU 180:5.8](/es/The_Urantia_Book/180#p5_8)) Cada vez más urantianos veteranos parecen desear una actualización de este ideal. Mis estudios de las teorías psicológicas de Abraham Maslow y otros también indicaron que el proceso de autorrealización en sí no puede tener lugar en el vacío.
+En mis últimos años me encontré confrontado con el mandamiento supremo de Jesús: que debemos amarnos unos a otros como Jesús nos amó. Llegué a comprender que si quería progresar espiritualmente, debía aprender progresivamente a vivir estas palabras: «Cuando esos mortales conducidos por el espíritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un universo amistoso, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios.» (<a id="a47_610"></a>[LU 180:5.8](/es/The_Urantia_Book/180#p5_8)) Cada vez más urantianos veteranos parecen desear una actualización de este ideal. Mis estudios de las teorías psicológicas de Abraham Maslow y otros también indicaron que el proceso de autorrealización en sí no puede tener lugar en el vacío.
 
 ## Un nuevo tipo de reunión Urantia que cambia vidas
 
@@ -97,7 +121,7 @@ Se debe tener mucho cuidado al formar el grupo inicial, porque una persona difí
 
 ## Aprender a amarnos unos a otros
 
-Los metavalores emergen como nunca antes en un grupo íntimo, afectuoso y solidario. En nuestra vida física, nuestros sentidos nos hablan de la existencia de las cosas; Nuestras mentes descubren la realidad de los significados, pero la experiencia espiritual nos revela los verdaderos valores de la vida. Se alcanzan altos niveles de vida como resultado de amar al Poder Supremo: el Dios del amor. El camino más fácil para amar a Dios es amar a tus hermanos y hermanas cósmicos: «En la vida física, los sentidos comunican la existencia de las cosas; la mente descubre la realidad de los significados; pero la experiencia espiritual revela al individuo los verdaderos valores de la vida. Estos niveles elevados de vida humana se alcanzan mediante el amor supremo a Dios y el amor desinteresado a los hombres. Si amáis a vuestros semejantes, es porque habéis descubierto sus valores. ... En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor». ([LU 100:4.4](/es/The_Urantia_Book/100#p4_4))
+Los metavalores emergen como nunca antes en un grupo íntimo, afectuoso y solidario. En nuestra vida física, nuestros sentidos nos hablan de la existencia de las cosas; Nuestras mentes descubren la realidad de los significados, pero la experiencia espiritual nos revela los verdaderos valores de la vida. Se alcanzan altos niveles de vida como resultado de amar al Poder Supremo: el Dios del amor. El camino más fácil para amar a Dios es amar a tus hermanos y hermanas cósmicos: «En la vida física, los sentidos comunican la existencia de las cosas; la mente descubre la realidad de los significados; pero la experiencia espiritual revela al individuo los verdaderos valores de la vida. Estos niveles elevados de vida humana se alcanzan mediante el amor supremo a Dios y el amor desinteresado a los hombres. Si amáis a vuestros semejantes, es porque habéis descubierto sus valores. ... En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor». (<a id="a123_1011"></a>[LU 100:4.4](/es/The_Urantia_Book/100#p4_4))
 
 Si bien lo había entendido de manera intelectual, antes de nuestro proceso grupal no lo había experimentado, al menos no en el nivel que fomentaba la participación social limitada. La dinámica de grupo es una socialización del concepto de experiencia religiosa personal. La dinámica de grupo funciona, siempre que los individuos que participan sean espíritus afines, es decir, que compartan los mismos valores. Hay que afirmar nuevamente que no debe haber teorías personales intrusivas que puedan incomodar a otros miembros del grupo.
 
@@ -125,3 +149,28 @@ Sin embargo, lo último que un grupo como este quiere fomentar es un «pueblo el
 
 Si otras personas que conoces quieren experimentar este tipo de grupo y estás «lleno» o tienes dudas sobre si esta persona encaja bien en el tuyo, anímalas a formar el suyo propio. Independientemente de la interpretación general que un grupo haga de los Documentos de Urantia, un programa Viviendo las Enseñanzas puede ayudar a los miembros individuales a lograr progresos extraordinarios si está compuesto por espíritus afines con objetivos iluminados.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos de hoy: guía espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/UB_and_the_Internet">
+          <span class="pr-2">El libro de Urantia e Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dinámica del empoderamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="pr-2">La Iglesia y el Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El coraje y la sabiduría son los elementos clave que actualizan el progreso. La mayoría de las personas en situaciones críticas exhiben una sorprendente cantidad de coraje físico. No muchos de nosotros estamos dispuestos a expresar opiniones o iniciar acciones que requieran valentía mental y espiritual. Es mucho más fácil guardar silencio que hacer algo que pueda provocar oposición o hacer que otros piensen menos favorablemente de nosotros. Nos sentimos más cómodos aceptando opiniones y comportamientos generalmente aceptados. De hecho, es raro el individuo que tiene el coraje de tomar medidas en la búsqueda de la verdad o la justicia que puedan amenazar con excluirlo de su grupo.
@@ -25,7 +49,32 @@ Dentro de muchas generaciones, sus sucesores se maravillarán de que este libro 
 
 ---
 
-> «La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la fraternidad del reino de Jesús debería emocionar a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne.» ([LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
+> «La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la fraternidad del reino de Jesús debería emocionar a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne.» (<a id="a51_321"></a>[LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
 
-> «El servicio —el servicio resuelto, no la esclavitud— produce la satisfacción más elevada y expresa la dignidad más divina. El servicio —más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto— es la meta del tiempo y el destino del espacio.» ([LU 28:6.17](/es/The_Urantia_Book/28#p6_17))
+> «El servicio —el servicio resuelto, no la esclavitud— produce la satisfacción más elevada y expresa la dignidad más divina. El servicio —más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto— es la meta del tiempo y el destino del espacio.» (<a id="a53_304"></a>[LU 28:6.17](/es/The_Urantia_Book/28#p6_17))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_dynamics_of_Empowerment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La dinámica del empoderamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="pr-2">La Iglesia y el Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

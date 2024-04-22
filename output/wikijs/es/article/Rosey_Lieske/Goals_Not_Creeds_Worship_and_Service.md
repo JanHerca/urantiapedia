@@ -9,9 +9,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Rosey Lieske<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El estado del Movimiento Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="pr-2">La mitología del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «Pero la gran dificultad que existe para encontrar un simbolismo nuevo y satisfactorio reside en que los hombres modernos, como grupo, se adhieren a la actitud científica, evitan las supersticiones y aborrecen la ignorancia, mientras que como individuos, todos ansían el misterio y veneran lo desconocido.» ([LU 87:7.9](/es/The_Urantia_Book/87#p7_9))
+
+> «Pero la gran dificultad que existe para encontrar un simbolismo nuevo y satisfactorio reside en que los hombres modernos, como grupo, se adhieren a la actitud científica, evitan las supersticiones y aborrecen la ignorancia, mientras que como individuos, todos ansían el misterio y veneran lo desconocido.» (<a id="a37_310"></a>[LU 87:7.9](/es/The_Urantia_Book/87#p7_9))
 
 Cada persona debe decidir por sí misma cuál es realmente el mensaje central de la revelación. Algunos señalan al Libro de Urantia como el puente potencial entre la ciencia y la religión, y otros al impresionante mapa que nos proporciona nuestra primera visión real de la longitud y la amplitud de la creación. Para mí, el mensaje central es mucho más simple que cualquiera de estos. Es el mensaje del evangelio abortado del Maestro –de la Paternidad de Dios y la Hermandad del Hombre– y de su realización a través de la adoración y el servicio.
 
@@ -39,7 +63,7 @@ Sinceramente, hemos pensado que si nos adherimos a formatos organizativos más o
 
 El problema con todo esto es que obliga a nuestros verdaderos impulsos religiosos a pasar a la clandestinidad. Subvierte todos los impulsos relacionados con nuestra genuina hambre espiritual de experimentar a Dios en nuestro centro: ponerlo en primer lugar y acudir a él tanto colectiva como individualmente. Incluso sabernos a nosotros mismos como una comunidad que ***puede*** seguir a Michael hacia Dios y servir en niveles más universales.
 
-Nuestra determinación de dejar la religión fuera de esto, por así decirlo, y poner el libro en el medio ha creado una situación muy extraña. Debido a que nuestros temores religiosos no pueden examinarse a la luz de la fe colectiva, nos hemos estancado y forzado, proclives a algunos de los errores religiosos que tememos. De todos modos, la «mala religión» se ha cruzado en nuestro camino. Resulta que ni siquiera necesitamos crear una iglesia para experimentarlo, porque la mala religión tiene mucho que ver con actividades no religiosas que se realizan dentro de una comunidad espiritual. «Para volverse fetiches, las palabras tenían que ser consideradas como inspiradas, y la invocación de unos escritos supuestamente inspirados por la divinidad condujo directamente al establecimiento de la *autoridad* de la iglesia, mientras que la evolución de las formas civiles condujo a la instauración de la *autoridad* del Estado». ([LU 88:2.10](/es/The_Urantia_Book/88#p2_10))
+Nuestra determinación de dejar la religión fuera de esto, por así decirlo, y poner el libro en el medio ha creado una situación muy extraña. Debido a que nuestros temores religiosos no pueden examinarse a la luz de la fe colectiva, nos hemos estancado y forzado, proclives a algunos de los errores religiosos que tememos. De todos modos, la «mala religión» se ha cruzado en nuestro camino. Resulta que ni siquiera necesitamos crear una iglesia para experimentarlo, porque la mala religión tiene mucho que ver con actividades no religiosas que se realizan dentro de una comunidad espiritual. «Para volverse fetiches, las palabras tenían que ser consideradas como inspiradas, y la invocación de unos escritos supuestamente inspirados por la divinidad condujo directamente al establecimiento de la *autoridad* de la iglesia, mientras que la evolución de las formas civiles condujo a la instauración de la *autoridad* del Estado». (<a id="a65_928"></a>[LU 88:2.10](/es/The_Urantia_Book/88#p2_10))
 
 Los propios reveladores intentaron salvarnos del paso en falso de dar origen a una religión urantiana de autoridad al enfatizar que el libro no es una obra divinamente inspirada. Sin embargo, nuestro miedo profundamente arraigado al impago nos ha llevado a muchos de nosotros a imbuir los «mandatos» de la Fundación con la cualidad de la divinidad. El libro nos dice, en la cita anterior, que este tipo de psicología religiosa es fetichismo. Pero como nos creíamos inmunes a tales cosas en virtud de invertir en organizaciones en lugar de iglesias, sin querer fuimos víctimas y permitimos que un pequeño grupo de personas invocara estos «mandatos divinos», formando posteriormente una pequeña ortodoxia muy eficaz, una ortodoxia que no perdió tiempo en adherirse a la institución secular del gobierno. Ahora tenemos entre nosotros uno de los fantasmas religiosos más antiguos de todos: una minoría conservadora y temerosa facultada por la ley secular para controlar a otros religiosos: una religión urantiana de autoridad. (¡Mira Ma-no iglesia!)
 
@@ -65,9 +89,34 @@ También necesitamos estar más dispuestos a aceptar la responsabilidad con resp
 
 Se nos dice que algún día «las metas, no los credos», unificarán a los religiosos. El principal problema del evangelio es que es engañosamente simple. Estamos de acuerdo con ello; por lo tanto creemos que ya lo hemos explorado. La adoración y el servicio, enfatizados y verdaderamente puestos en acción entre nosotros, cambiarían dinámicamente nuestro enfoque. Por un lado, podríamos empezar a ver cuán lejos estamos realmente de la meta en términos de conectarnos con su potencial. Sí, es un enfoque simple de dos partes, pero el Maestro no fue estúpido. Sabía que cuanto más sencillo fuera el enfoque, más universalmente podría aplicarse. Quiere que se aplique universalmente, empezando por nosotros. Tendríamos mucho que aprender. Necesitaríamos dejar espacio para que el Padre reúna a las personas para el servicio. No podíamos tenerlo todo resuelto de antemano, con nosotros mismos prealineados según opiniones compartidas. También necesitamos ampliar nuestra perspectiva sobre el servicio. El Maestro consideraba valioso todo servicio, no sólo el que pertenecía específicamente al trabajo espiritual o religioso.
 
-Mira cómo están organizados los ángeles para el servicio planetario el [LU 114:6.1-20](/es/The_Urantia_Book/114#p6_1). El concepto universal de servicio es verdaderamente amplio. ¿Qué significaría para nosotros y la revelación abrazar conscientemente este enfoque más universal tanto de la adoración como del servicio y alinearnos con él? ¡Nos abriría! Las personas en el movimiento propiamente dicho, que luchan por servir a Dios tal como son, recibirían mucho más apoyo familiar. La gente de fuera llegaría a asociar todo tipo de esfuerzos encantadores con el movimiento Urantia, vendrían en masa para ver qué nos inspira, en lugar de presenciar la pequeña y viciosa disputa familiar en la que estamos ahora, y por lo tanto se mantendrían alejados.
+Mira cómo están organizados los ángeles para el servicio planetario el <a id="a91_71"></a>[LU 114:6.1-20](/es/The_Urantia_Book/114#p6_1). El concepto universal de servicio es verdaderamente amplio. ¿Qué significaría para nosotros y la revelación abrazar conscientemente este enfoque más universal tanto de la adoración como del servicio y alinearnos con él? ¡Nos abriría! Las personas en el movimiento propiamente dicho, que luchan por servir a Dios tal como son, recibirían mucho más apoyo familiar. La gente de fuera llegaría a asociar todo tipo de esfuerzos encantadores con el movimiento Urantia, vendrían en masa para ver qué nos inspira, en lugar de presenciar la pequeña y viciosa disputa familiar en la que estamos ahora, y por lo tanto se mantendrían alejados.
 
 Necesitamos un énfasis en metas y más metas, como individuos, grupos pequeños y organizaciones, como familia espiritual. Necesitamos metas de adoración, meditación y oración, junto con metas de servicio, hechas y alcanzadas en un millón de combinaciones entre nosotros, con el Padre justo en el centro y a plena luz del día. Necesitamos tableros de anuncios de adoración y servicio para la publicación pública de estas metas. También necesitamos recursos de adoración y servicio, listas de los innumerables esfuerzos que ya están en marcha en el mundo, para ayudarnos a conectarnos con nuestra familia más grande de hermanos espirituales.
 
 No necesitamos esperar a que una alineación artificial entre organizaciones inicie el nacimiento de una comunidad espiritual entre nosotros. Las organizaciones humanas nunca podrán hacer lo que el Padre puede hacer. Sólo necesitamos darnos permiso para unirnos en medio de nuestro desorden y poner énfasis en estas líneas engañosamente simples: escuchar al Padre para guiarnos. De todos modos, ya está empezando a suceder entre nosotros: a pesar de todas nuestras limitaciones, prejuicios e inmadurez; a pesar de nuestra historia y condicionamiento previo, e incluso a pesar de nuestro miedo morboso a equivocarnos. (¡Nos equivocaremos!) Ya está sucediendo. Sólo necesitamos ayudar a que esto suceda más.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El estado del Movimiento Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="pr-2">La mitología del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

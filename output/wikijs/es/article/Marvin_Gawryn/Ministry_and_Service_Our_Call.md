@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Marvin Gawryn<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cuestión de la infalibilidad reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="pr-2">Perspectivas espirituales en el lugar de trabajo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me gustaría comenzar a compartir con ustedes el tema «Ministerio y servicio: nuestro llamado», contándoles una historia contada por un amigo, Jim Davis, pastor asociado de la iglesia a la que asistimos. Es posible que haya leído en los periódicos el año pasado sobre el brote de una enfermedad en la India que mató a muchos miles de personas. En medio de los que morían, la Madre Teresa y sus compañeros de trabajo atendieron las necesidades de los que dejaban este mundo. La Madre Teresa, de unos 80 años y con una salud frágil, trabajaba día tras día, 15 y 16 horas al día. Un periodista que la seguía finalmente le preguntó: «¿Cómo puedes seguir haciendo esto?» «Tengo que hacerlo», respondió ella, «amo a Dios, y este es el pueblo de Dios».
@@ -29,19 +53,19 @@ La vocación de cada persona evoluciona con el tiempo y es tan única como la pe
 
 ## Un sentido del deber: servicio
 
-La fuente de nuestro sentido de llamado fluye no sólo de nuestro amor por Dios; también se refiere a un sentido fundamental del deber. Cuando nos damos cuenta de cuánto nos da el Padre en cada momento, sentimos que debemos devolverlo. Queremos hacer algo para equilibrar la ecuación. Entregarnos en servicio satisface profundamente este impulso de cumplir con nuestro deber. Podemos hacer nuestra contribución al equilibrio cósmico. Se convierte en nuestro gran gozo, nuestra gran satisfacción, devolverle a Dios ministrando a sus hijos. Como observan los autores de El libro de Urantia: «Éste es el nacimiento de la moralidad cósmica y la comprensión naciente del deber universal». ([LU 110:3.10](/es/The_Urantia_Book/110#p3_10))
+La fuente de nuestro sentido de llamado fluye no sólo de nuestro amor por Dios; también se refiere a un sentido fundamental del deber. Cuando nos damos cuenta de cuánto nos da el Padre en cada momento, sentimos que debemos devolverlo. Queremos hacer algo para equilibrar la ecuación. Entregarnos en servicio satisface profundamente este impulso de cumplir con nuestro deber. Podemos hacer nuestra contribución al equilibrio cósmico. Se convierte en nuestro gran gozo, nuestra gran satisfacción, devolverle a Dios ministrando a sus hijos. Como observan los autores de El libro de Urantia: «Éste es el nacimiento de la moralidad cósmica y la comprensión naciente del deber universal». (<a id="a55_684"></a>[LU 110:3.10](/es/The_Urantia_Book/110#p3_10))
 
 > _Para mí, la palabra ministerio se ha asociado con la transmisión de la verdad a un alma hambrienta, en todas las muchas formas en que se puede transmitir. Para mí, la palabra servicio es el término más amplio que connota hacer el bien a otro en diferentes formas._
 
 Antes de hablar de ámbitos de servicio específicos, me gustaría hablar de dos distinciones que han sido muy importantes para mí al pensar en este tema. La primera distinción está vagamente ligada a las dos palabras: ministerio y servicio. Para mí, la palabra ministerio se ha asociado con la transmisión de la verdad a un alma hambrienta, en todas las formas en que se puede transmitir. Para mí, la palabra servicio es el término más amplio que connota hacer el bien a otro de diferentes maneras.
 
-Esta distinción era bastante clara e importante para Jesús. Al describir su ministerio personal en [LU 132:4.2](/es/The_Urantia_Book/132#p4_2), los autores de _El libro de Urantia_ dicen que escuchó con simpatía, ofreció sugerencias prácticas y pronunció palabras de consuelo y consuelo. Sin embargo, además, «a estos mortales afligidos les hablaba invariablemente del amor de Dios, y mediante métodos diversos y variados, les trasmitía el mensaje de que eran los hijos de este afectuoso Padre que está en los cielos». El [LU 178:1.11](/es/The_Urantia_Book/178#p1_11), hablando con cincuenta de sus seguidores, Jesús hace la distinción bastante explícita. «Que toda la humanidad se beneficie del desbordamiento de vuestro afectuoso ministerio espiritual, de vuestra comunión intelectual iluminadora, y de vuestro servicio social edificante; pero no se debe permitir que ninguna de estas labores humanitarias, ni todas a la vez, reemplacen la proclamación del evangelio».
+Esta distinción era bastante clara e importante para Jesús. Al describir su ministerio personal en <a id="a61_99"></a>[LU 132:4.2](/es/The_Urantia_Book/132#p4_2), los autores de _El libro de Urantia_ dicen que escuchó con simpatía, ofreció sugerencias prácticas y pronunció palabras de consuelo y consuelo. Sin embargo, además, «a estos mortales afligidos les hablaba invariablemente del amor de Dios, y mediante métodos diversos y variados, les trasmitía el mensaje de que eran los hijos de este afectuoso Padre que está en los cielos». El <a id="a61_522"></a>[LU 178:1.11](/es/The_Urantia_Book/178#p1_11), hablando con cincuenta de sus seguidores, Jesús hace la distinción bastante explícita. «Que toda la humanidad se beneficie del desbordamiento de vuestro afectuoso ministerio espiritual, de vuestra comunión intelectual iluminadora, y de vuestro servicio social edificante; pero no se debe permitir que ninguna de estas labores humanitarias, ni todas a la vez, reemplacen la proclamación del evangelio».
 
-Y el [LU 132:6.1](/es/The_Urantia_Book/132#p6_1), después de que Jesús y Ganid le devolvieron un niño perdido a su madre en Roma, Jesús dijo: «Sabes, Ganid, la mayoría de los seres humanos son como este niño perdido. ... ¿No hemos disfrutado de manera suprema con este servicio de devolver el niño a su madre? De la misma forma, los que conducen los hombres a Dios experimentan la satisfacción suprema del servicio humano». Entonces, la forma más elevada de servicio, el servicio indispensable que Jesús siempre incluyó, de diversas y diversas maneras, fue el ministerio de compartir las verdades esenciales del evangelio para salvar almas.
+Y el <a id="a63_5"></a>[LU 132:6.1](/es/The_Urantia_Book/132#p6_1), después de que Jesús y Ganid le devolvieron un niño perdido a su madre en Roma, Jesús dijo: «Sabes, Ganid, la mayoría de los seres humanos son como este niño perdido. ... ¿No hemos disfrutado de manera suprema con este servicio de devolver el niño a su madre? De la misma forma, los que conducen los hombres a Dios experimentan la satisfacción suprema del servicio humano». Entonces, la forma más elevada de servicio, el servicio indispensable que Jesús siempre incluyó, de diversas y diversas maneras, fue el ministerio de compartir las verdades esenciales del evangelio para salvar almas.
 
 Una segunda distinción que ha sido importante para mí es entre dos de las formas de compartir la verdad espiritual que tenemos a nuestra disposición. Primero, compartir la Biblia o el Libro de Urantia en sí mismos, y segundo, compartir, en su forma más simple, nuestra mejor comprensión de las principales enseñanzas de Jesús.
 
-Desafortunadamente, a veces hemos caído en la trampa de pensar que uno u otro de estos enfoques es el «correcto» o el «mejor». Como siempre, la penetrante visión de Jesús puede corregir nuestro malentendido. El [LU 133:4.2](/es/The_Urantia_Book/133#p4_2) le dice al molinero de Corinto: «Da la leche de la verdad a aquellos que están en la infancia de la percepción espiritual. En tu ministerio viviente y amante, sirve el alimento espiritual de una manera atractiva y adaptada a la capacidad de recepción de cada uno de los que te pregunten». Servir alimento espiritual en una forma atractiva y adecuada a las necesidades de nuestros diferentes interesados es una forma de arte que combina habilidad, intuición y un libro de cocina con más de una receta.
+Desafortunadamente, a veces hemos caído en la trampa de pensar que uno u otro de estos enfoques es el «correcto» o el «mejor». Como siempre, la penetrante visión de Jesús puede corregir nuestro malentendido. El <a id="a67_211"></a>[LU 133:4.2](/es/The_Urantia_Book/133#p4_2) le dice al molinero de Corinto: «Da la leche de la verdad a aquellos que están en la infancia de la percepción espiritual. En tu ministerio viviente y amante, sirve el alimento espiritual de una manera atractiva y adaptada a la capacidad de recepción de cada uno de los que te pregunten». Servir alimento espiritual en una forma atractiva y adecuada a las necesidades de nuestros diferentes interesados es una forma de arte que combina habilidad, intuición y un libro de cocina con más de una receta.
 
 _El Libro de Urantia_ fue diseñado para responder a la sofisticada búsqueda espiritual de muchos hombres y mujeres modernos cuyas necesidades siguen sin satisfacer las actuales formas evolutivas de religión. El libro presenta una visión del universo, una teología y una narrativa de la historia global que satisface y reorienta profundamente la mente moderna, y la lleva hasta los límites de su capacidad actual. Dos de sus contribuciones teológicas más innovadoras son una descripción increíblemente detallada de la vida eterna que sitúa esta primera vida en un contexto que satisface al alma, y más de cincuenta páginas dedicadas exclusivamente a revelar el regalo más asombroso del Padre a cada uno de nosotros: su morada en nuestro interior. presencia. Para muchas personas que buscan más allá de las fuentes religiosas contemporáneas, _El Libro de Urantia_ bien puede satisfacerles en su búsqueda de la verdad.
 
@@ -85,7 +109,7 @@ Cuando he sentido la frustración de las responsabilidades familiares que me imp
 
 Y no todo es mundano. Introducir a nuestros hijos en una relación viva con nuestro Padre es un ministerio espiritual de primer orden. Si lo hacemos bien, podremos esperar una amistad eterna con cada uno de nuestros hijos en la cual saborear los frutos de nuestro trabajo. Hace unos meses estaba acostando a uno de mis hijos para pasar la noche y le dije: «Estoy tan feliz de que Dios me haya dado para criarte como su hijo». Ella me dio un gran abrazo y me respondió: «Estoy tan contenta de que Dios te haya dado para que seas mi papá». Sentí que las campanas repicaban en lo alto; ¡Fue un momento increíblemente pleno!
 
-El amor y el servicio están espiritualmente vinculados. En [LU 129:0.2](/es/The_Urantia_Book/129#p0_2) de _El Libro de Urantia_ leemos: «Jesús ... quería a su familia, y este afecto natural había crecido enormemente debido a su extraordinaria dedicación a ellos. Cuanto más plenamente nos entregamos a nuestros semejantes, más llegamos a amarlos; puesto que Jesús se había dado tan completamente a su familia, los quería con un afecto grande y ferviente». Entonces parece que el amor y el servicio son muy recíprocos. Cuanto más amamos a alguien, más queremos servirle, y cuanto más le servimos, más llegamos a amarle.
+El amor y el servicio están espiritualmente vinculados. En <a id="a111_59"></a>[LU 129:0.2](/es/The_Urantia_Book/129#p0_2) de _El Libro de Urantia_ leemos: «Jesús ... quería a su familia, y este afecto natural había crecido enormemente debido a su extraordinaria dedicación a ellos. Cuanto más plenamente nos entregamos a nuestros semejantes, más llegamos a amarlos; puesto que Jesús se había dado tan completamente a su familia, los quería con un afecto grande y ferviente». Entonces parece que el amor y el servicio son muy recíprocos. Cuanto más amamos a alguien, más queremos servirle, y cuanto más le servimos, más llegamos a amarle.
 
 ## La familia interior
 
@@ -93,11 +117,11 @@ Esta idea conduce al cuarto y último ámbito de servicio que me gustaría menci
 
 Ahora bien, ¿cómo es que podemos prestar servicio a esta familia interior? Servir es determinar qué es lo que más satisfaría y beneficiaría a otra persona, y hacerlo por ella. ¿Qué es lo que más desea de nosotros el Espíritu de Dios que mora en nosotros? Es nuestro amor, nuestro cariño confiado como hijos suyos. Dios quiere compartir con nosotros una relación de amor mutuo, cuya expresión plena ocurre sólo en el abrazo de la adoración.
 
-Mire nuevamente a Jesús. Pasó gran parte de su tiempo en comunión de adoración con su Padre. Aquí es donde encontramos el corazón vivo de su evangelio. Aquí es donde nos sentimos hijos de Dios. Aquí es donde nosotros mismos somos renovados y nutridos en su amor, que luego se desborda en nuestro ministerio hacia los demás. Sin adoración nos secamos, como el lecho polvoriento de un río separado de su fuente. En [LU 143:7.6](/es/The_Urantia_Book/143#p7_6) leemos: «La adoración es la técnica de buscar en el *Uno* la inspiración para servir a la *multitud*».
+Mire nuevamente a Jesús. Pasó gran parte de su tiempo en comunión de adoración con su Padre. Aquí es donde encontramos el corazón vivo de su evangelio. Aquí es donde nos sentimos hijos de Dios. Aquí es donde nosotros mismos somos renovados y nutridos en su amor, que luego se desborda en nuestro ministerio hacia los demás. Sin adoración nos secamos, como el lecho polvoriento de un río separado de su fuente. En <a id="a119_413"></a>[LU 143:7.6](/es/The_Urantia_Book/143#p7_6) leemos: «La adoración es la técnica de buscar en el *Uno* la inspiración para servir a la *multitud*».
 
-También se nos dice que «el Espíritu de la Verdad vino para ayudar al creyente a atestiguar las realidades de las enseñanzas de Jesús y de su vida tal como la vivió en la carne, y tal como la vive ahora de nuevo una y otra vez en el creyente individual de cada generación sucesiva de hijos de Dios llenos de espíritu». ([LU 194:2.6](/es/The_Urantia_Book/194#p2_6)) Es en la oración que desarrollamos nuestra relación con Jesús y nos abrimos a la transformación de su Espíritu. Si nos hemos alistado en la obra continua de Jesús en este mundo, cuanto más crezca nuestra relación con él en oración, cuanto más pueda vivir en nosotros y a través de nosotros, más eficaces podremos ser en su servicio.
+También se nos dice que «el Espíritu de la Verdad vino para ayudar al creyente a atestiguar las realidades de las enseñanzas de Jesús y de su vida tal como la vivió en la carne, y tal como la vive ahora de nuevo una y otra vez en el creyente individual de cada generación sucesiva de hijos de Dios llenos de espíritu». (<a id="a121_320"></a>[LU 194:2.6](/es/The_Urantia_Book/194#p2_6)) Es en la oración que desarrollamos nuestra relación con Jesús y nos abrimos a la transformación de su Espíritu. Si nos hemos alistado en la obra continua de Jesús en este mundo, cuanto más crezca nuestra relación con él en oración, cuanto más pueda vivir en nosotros y a través de nosotros, más eficaces podremos ser en su servicio.
 
-También se nos dice que nuestros ángeles guían «los pasos de la personalidad humana por caminos de experiencias nuevas y progresivas... trabajando a través del entorno social, ético y moral de los seres humanos». ([LU 113:4.1](/es/The_Urantia_Book/113#p4_1)) Creo que es en nuestra vida interior, a través de la oración sincera, que podemos desarrollar amistad y una colaboración con nuestros ángeles y los ángeles de los demás, y así ser más eficaces en nuestros esfuerzos por ministrar a nuestros compañeros.
+También se nos dice que nuestros ángeles guían «los pasos de la personalidad humana por caminos de experiencias nuevas y progresivas... trabajando a través del entorno social, ético y moral de los seres humanos». (<a id="a123_214"></a>[LU 113:4.1](/es/The_Urantia_Book/113#p4_1)) Creo que es en nuestra vida interior, a través de la oración sincera, que podemos desarrollar amistad y una colaboración con nuestros ángeles y los ángeles de los demás, y así ser más eficaces en nuestros esfuerzos por ministrar a nuestros compañeros.
 
 Creo que _honramos_, _servimos_ y _trabajamos_ con los miembros de nuestra familia interna al elegir pasar tiempo en relación con ellos en las profundidades de la oración y la adoración. Y creo que todos nuestros esfuerzos de servicio y ministerio en los otros tres ámbitos familiares echan raíces y se sostienen en esta vida de la familia interna. Es la fuente vital de la que deben fluir todos nuestros esfuerzos de servicio.
 
@@ -119,9 +143,34 @@ _El Libro de Urantia_ contiene mucho de lo que la gente ha estado esperando y bu
 
 Estas asombrosas verdades son el festín que nuestro mundo anhela.
 
-El [LU 192:2.4](/es/The_Urantia_Book/192#p2_4) Jesús le dice a Pedro: «Apacienta mis ovejas. No abandones al rebaño. ... Ama al rebaño como yo te he amado y conságrate a su bienestar como yo he consagrado mi vida a tu bienestar.».
+El <a id="a145_3"></a>[LU 192:2.4](/es/The_Urantia_Book/192#p2_4) Jesús le dice a Pedro: «Apacienta mis ovejas. No abandones al rebaño. ... Ama al rebaño como yo te he amado y conságrate a su bienestar como yo he consagrado mi vida a tu bienestar.».
 
 Que cada uno de nosotros, a nuestra manera, preste atención al llamado del Maestro a ministrar y servir.
 
 > _Marvin Gawryn es terapeuta matrimonial y familiar, autor de_ Reaching High: The Psychology of Spiritual Living _y estudiante de_ El Libro de Urantia _desde hace mucho tiempo. _Vive con su esposa y sus dos hijos en el área de Seattle._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cuestión de la infalibilidad reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="pr-2">Perspectivas espirituales en el lugar de trabajo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

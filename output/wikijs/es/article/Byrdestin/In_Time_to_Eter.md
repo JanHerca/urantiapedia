@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Byrdestin<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi experiencia de expansión mental con El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="pr-2">Algunas fuentes humanas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Este es el día que hizo el Señor y en él nos alegramos.
@@ -50,3 +74,28 @@ Y sin embargo, en divina compasión:
 En verdad, éste es el día que hizo el Señor.
 ¡Regocijémonos y alegrémonos en ello, por los siglos de los siglos! ¡Amén!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi experiencia de expansión mental con El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="pr-2">Algunas fuentes humanas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

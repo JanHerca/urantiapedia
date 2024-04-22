@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Merlyn Cox<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La teología contemporánea anticipa el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="pr-2">Salmos hoy: más allá de la tradición y la ortodoxia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A medida que muchos en el movimiento Urantia consideren y comiencen a trabajar hacia nuevas formas de estructura religiosa y comunidad, sin duda habrá muchos enfoques diferentes. Como pastor en una denominación principal durante más de 30 años, constantemente recuerdo la diversidad de las iglesias. Eso incluye sentirse avergonzado y a veces avergonzado por la falta de unidad en asuntos esenciales del Espíritu, y la contienda y competencia que a menudo se introduce en las relaciones entre iglesias, incluso dentro de la misma denominación.
@@ -25,6 +49,31 @@ Debido a que es tan importante, haríamos bien en escuchar las ideas de la comun
 Es, en mi opinión, el libro sobre adoración más revelador y útil que jamás haya leído. La mayoría de sus afirmaciones básicas reflejan las del Libro de Urantia. Creo que este es un recurso para el diálogo con las mejores ideas de la tradición cristiana, una tradición cuyos tesoros no deben ignorarse. Insto a todos los lectores del Libro de Urantia a entrar en ese diálogo y a utilizar el libro de Marva Dawn como uno de los recursos.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La teología contemporánea anticipa el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="pr-2">Salmos hoy: más allá de la tradición y la ortodoxia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

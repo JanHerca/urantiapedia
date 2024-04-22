@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 La Fellowship Cristiana de Estudiantes de <i>El Libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia como recurso para sermones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="pr-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este artículo está escrito por ministros. Dado que <ins>El Libro de Urantia</ins> en este momento es potencialmente controvertido, a veces se omite el nombre del autor para no interferir con su relación en el ministerio.
@@ -21,3 +45,28 @@ La descripción anterior es un resumen de mi propio peregrinaje intelectual-espi
 
 La descripción que hace _El Libro de Urantia_ de la esencia de la religión como una relación personal con Dios, la descripción ampliada de la vida y las enseñanzas de Jesús y su cosmología espiritual sobrecogedora presentan la fuente más prometedora de renovación espiritual que ha aparecido en los últimos 2000 años. Creo que _El Libro de Urantia_ será un factor clave en el resurgimiento del cristianismo tradicional y otros movimientos religiosos progresistas, y los establecerá como la vanguardia de un nuevo renacimiento espiritual en nuestro planeta.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia como recurso para sermones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="pr-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

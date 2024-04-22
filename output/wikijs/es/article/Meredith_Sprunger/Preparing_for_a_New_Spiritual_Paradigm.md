@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="pr-2">Fundamentalismo progresivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ellen T. Charry, editora asociada de Theology Today, observa en el número de abril de 1999 que las librerías están repletas de obras sobre espiritualidad. En nuestra cultura se está estableciendo una visión nueva y más amplia de la espiritualidad. «La vida cristiana», dice, «ya no puede interpretarse en términos exclusivamente denominacionales o confesionales». (pág. 2)
@@ -19,3 +43,28 @@ Marci McDonald, en la edición del 1 de mayo de 1999 de _U.S. News and World Rep
 
 Robert Wuthnow, en _After Heaven: Spirituality in America Since the 1950's_ (Berkeley, University of California Press, 1998), señala que durante la última mitad del siglo XX en Estados Unidos ha habido un cambio detectable desde una iglesia o sinagoga hasta espiritualidad a alguien que está separado de la lealtad denominacional. La gente está desarrollando una espiritualidad adaptada a sus propias necesidades. La visión institucional tradicional de Dios y la espiritualidad ya no es adecuada para atender las necesidades del siglo XXI. El creciente número de personas en nuestro mundo son buscadores. ¡Algún día descubrirán la Quinta Revelación de Época!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="pr-2">Fundamentalismo progresivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

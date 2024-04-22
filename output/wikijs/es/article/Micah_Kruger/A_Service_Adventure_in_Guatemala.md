@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Micah Kruger<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misterios cuánticos y los documentos de Urantia, Parte I de II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Raveill/Lets_Go_Public">
+          <span class="pr-2">Hagámoslo público</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Micah Kruger representa una nueva generación audaz de urantianos que crecieron con los Documentos de Urantia. Esta nueva generación no duda en identificarse como urantianos. No cargan con el equipaje ni la culpa del típico dogma cristiano. Estos jóvenes urantianos son un recurso rico y sin explotar. Tienen mucho que decir y debemos escuchar._
@@ -59,3 +83,28 @@ Esta autocrítica me motiva en la lucha por el mandamiento de Dios: «sed perfec
 > _Micah Kruger tiene 25 años y vive en Boulder, Colorado. Pertenece a una nueva generación de lectores del Libro de Urantia que crecieron con el Libro. Micah no lo reveló en su artículo, pero uno de los proyectos de servicio en el que está involucrado ahora es la formación de un Grupo de Jóvenes Urantia en Boulder. Puede comunicarse con Micah en krugermquat@hotmail.com_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misterios cuánticos y los documentos de Urantia, Parte I de II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Raveill/Lets_Go_Public">
+          <span class="pr-2">Hagámoslo público</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

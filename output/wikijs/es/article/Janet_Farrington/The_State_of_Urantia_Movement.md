@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Janet Farrington Graham<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i> </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tu parte favorita del Apocalipsis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="pr-2">Metas, no credos: adoración y servicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -28,13 +52,13 @@ A menudo me pregunto qué piensan nuestros supervisores espirituales sobre el es
 
 No hay soluciones listas. En nuestros mejores momentos, soñamos con una comunidad unificada, libre de la lucha por el control del texto, compartiendo los frutos del espíritu con un mundo en lucha. En nuestros momentos más reveladores, visualizamos una asociación activa con el gobierno planetario, brindando apoyo administrativo en preparación para la próxima era espiritual. En nuestros momentos más privados, cada uno de nosotros busca sinceramente un mayor servicio a nuestro Hijo Creador y al Supremo.
 
-No tengo ninguna duda de que nuestra comunidad tiene hambre de hermandad. Aunque sabemos que la hermandad social es una evolución que nace de la lucha, la hermandad espiritual se puede lograr ahora. «Siempre podemos tener diversidad de comprensión e interpretación intelectual, incluso distintos grados de socialización, pero la falta de hermandad espiritual es a la vez imperdonable y reprensible». ([LU 170:5.20](/es/The_Urantia_Book/170#p5_20))
+No tengo ninguna duda de que nuestra comunidad tiene hambre de hermandad. Aunque sabemos que la hermandad social es una evolución que nace de la lucha, la hermandad espiritual se puede lograr ahora. «Siempre podemos tener diversidad de comprensión e interpretación intelectual, incluso distintos grados de socialización, pero la falta de hermandad espiritual es a la vez imperdonable y reprensible». (<a id="a54_401"></a>[LU 170:5.20](/es/The_Urantia_Book/170#p5_20))
 
-Quizás ayudaría a cambiar nuestro enfoque de los fines seculares a los medios espirituales. El conflicto es inevitable, el resultado de mentes humanas diversas y voluntades comprometidas; El conflicto ilumina el potencial de crecimiento personal. La resolución es creativa, el resultado de que mentes espiritualizadas descubran la voluntad del Padre; La resolución indica la realización del crecimiento espiritual. «La comprensión mutua y el amor fraternal son civilizadores trascendentes y factores poderosos en la realización mundial de la hermandad del hombre». ([LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
+Quizás ayudaría a cambiar nuestro enfoque de los fines seculares a los medios espirituales. El conflicto es inevitable, el resultado de mentes humanas diversas y voluntades comprometidas; El conflicto ilumina el potencial de crecimiento personal. La resolución es creativa, el resultado de que mentes espiritualizadas descubran la voluntad del Padre; La resolución indica la realización del crecimiento espiritual. «La comprensión mutua y el amor fraternal son civilizadores trascendentes y factores poderosos en la realización mundial de la hermandad del hombre». (<a id="a56_566"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
 
 > _No tengo ninguna duda de que nuestra comunidad tiene hambre de hermandad. Aunque sabemos que la hermandad social es una evolución que nace de la lucha, la hermandad espiritual se puede lograr ahora. «Siempre podemos tener diversidad de comprensión e interpretación intelectual, incluso diversos grados de socialización, pero la falta de hermandad espiritual es a la vez excusable y reprensible». (LU 170:5.20)_
 
-Y tal vez sería útil cambiar nuestro enfoque hacia una perspectiva universal. «Urantia es el santuario sentimental de todo Nebadon, el jefe de diez millones de mundos habitados, el hogar mortal de Cristo Miguel, soberano de todo Nebadon, un ministro Melquisedec para los reinos, un salvador del sistema, un progresador adámico, un Hijo del Hombre en la semejanza de la carne mortal y el Príncipe Planetario de Urantia. Y su registro dice la verdad cuando dice que este mismo Jesús ha prometido algún tiempo para regresar al mundo de su otorgamiento terminal, el Mundo de la Cruz». ([LU 119:8.8](/es/The_Urantia_Book/119#p8_8))
+Y tal vez sería útil cambiar nuestro enfoque hacia una perspectiva universal. «Urantia es el santuario sentimental de todo Nebadon, el jefe de diez millones de mundos habitados, el hogar mortal de Cristo Miguel, soberano de todo Nebadon, un ministro Melquisedec para los reinos, un salvador del sistema, un progresador adámico, un Hijo del Hombre en la semejanza de la carne mortal y el Príncipe Planetario de Urantia. Y su registro dice la verdad cuando dice que este mismo Jesús ha prometido algún tiempo para regresar al mundo de su otorgamiento terminal, el Mundo de la Cruz». (<a id="a60_582"></a>[LU 119:8.8](/es/The_Urantia_Book/119#p8_8))
 
 > _Lo que necesitamos es el coraje para resolver nuestros conflictos inevitables, para reformar nuestras organizaciones obsoletas, para revitalizar nuestra comunidad espiritual._
 
@@ -42,3 +66,28 @@ Los ojos del universo están sobre nosotros. El gobierno planetario está dedica
 
 Me retiro del servicio organizacional por un tiempo para abrazar más plenamente una perspectiva comunitaria y explorar los potenciales del servicio de revelación. Estoy agradecido por estos tres años como presidente de la Fellowship y mis nueve años como Consejero General. Y tengo fe en que el próximo Presidente y el próximo Consejo General servirán a los miembros lo mejor que puedan.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tu parte favorita del Apocalipsis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="pr-2">Metas, no credos: adoración y servicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

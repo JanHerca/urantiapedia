@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jim Downs<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Critical_Approach_to_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un enfoque crítico del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Hymnody">
+          <span class="pr-2">Himnodia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 He estado leyendo _El Libro de Urantia_ desde 1972 y puedo identificarme con la dificultad de integrar las creencias cristianas tradicionales con los nuevos conceptos del Libro de Urantia. Aunque las nuevas organizaciones religiosas puedan inspirarse en la Quinta Revelación de Época, no debemos rechazar las religiones tradicionales con las que hemos crecido. Los conceptos ampliados y mejorados presentados en _El Libro de Urantia_ introducen algunos conflictos y diferencias con los puntos de vista tradicionales, pero debemos recordar que el crecimiento espiritual siempre implica un ajuste intelectual a conceptos nuevos y más maduros. ¿No hemos tenido todos la experiencia de aprender una cosa cuando éramos niños y luego tener que lidiar con una idea más adulta cuando éramos mayores? Vemos tales cambios en todos los grupos religiosos contemporáneos. Por ejemplo, crecí como católico con la creencia de que era pecado comer carne los viernes. Cuando la iglesia cambió esta regla, no destruyó mi fe en un Padre celestial amoroso. Por supuesto, existen algunos conflictos irreconciliables que deben trascenderse en el crecimiento espiritual, pero de eso se trata el crecimiento. No es necesario tirar al bebé con el agua del baño.
@@ -27,3 +51,28 @@ Jim Downs ha compilado una lista enciclopédica de estos valores. Dice: «Siempr
 
 El libro intenta estimular la guía, el equilibrio y la inspiración para el crecimiento espiritual. Es un compendio inspirador de rasgos admirables para fomentar la superación personal. Jim también ha creado una tabla de cualidades positivas y un botón de amor, verdad, belleza y bondad. Todos estos se pueden obtener a través de Good Cheer Press, Box 18764, Boulder, CO 80308.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Critical_Approach_to_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un enfoque crítico del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Hymnody">
+          <span class="pr-2">Himnodia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

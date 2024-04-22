@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “El buen libro” de Peter J. Gomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="pr-2">Ser prudentes como serpientes, inofensivos como palomas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 John B. Cobb, Jr.
@@ -29,5 +53,30 @@ Es posible que la renovación de la iglesia pueda ocurrir sin un cambio transfor
 El mayor problema del profesor Cobb es tratar de explicar cómo se reconoce a «Cristo como Señor» y al mismo tiempo se ven otras religiones como caminos auténticos hacia Dios. La cosmología de _El Libro de Urantia_ resuelve este problema de una manera única y hermosa. Desafortunadamente, la experiencia de los últimos cuarenta años sugiere que incluso teólogos de mente abierta como el profesor Cobb no están preparados para la transformación de un nuevo paradigma espiritual, la Quinta Revelación de época, que traería un verdadero renacimiento a la Iglesia cristiana.
 
 
-> «La prueba decisiva para cualquier filosofía religiosa consiste en saber si distingue o no entre las realidades del mundo material y las del mundo espiritual, reconociendo al mismo tiempo su unificación en el esfuerzo intelectual y el servicio social.» ([LU 101:7.5](/es/The_Urantia_Book/101#p7_5))
+> «La prueba decisiva para cualquier filosofía religiosa consiste en saber si distingue o no entre las realidades del mundo material y las del mundo espiritual, reconociendo al mismo tiempo su unificación en el esfuerzo intelectual y el servicio social.» (<a id="a55_256"></a>[LU 101:7.5](/es/The_Urantia_Book/101#p7_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “El buen libro” de Peter J. Gomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="pr-2">Ser prudentes como serpientes, inofensivos como palomas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Richard S. Omura<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Científico intrigado por El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="pr-2">Metavalores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -42,13 +66,13 @@ La evolución espiritual es una fuerza suprema en el universo. No prevalecerán 
 
 ## Religión institucional
 
-La institucionalización de cualquier religión es absolutamente vital para su supervivencia. «Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña». ([LU 98:6.1](/es/The_Urantia_Book/98#p6_1)) Ha habido varios individuos y grupos interesados en formar una Iglesia Urantia. El temor entre algunos estudiantes de _El Libro de Urantia_ de que una Iglesia Urantia se convierta en una organización dogmática y cristalizada es muy improbable si se hace de acuerdo con las ideas que nos brinda _El Libro de Urantia_. _El Libro de Urantia_ en [LU 99:6.2](/es/The_Urantia_Book/99#p6_2) nos da pautas maravillosas sobre qué esforzarnos y qué evitar al socializar una religión. Creo que se debe utilizar cierta cantidad de imaginación, inventiva y propósito para guiar y nutrir el nacimiento natural de esta nueva religión socializada.
+La institucionalización de cualquier religión es absolutamente vital para su supervivencia. «Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña». (<a id="a68_362"></a>[LU 98:6.1](/es/The_Urantia_Book/98#p6_1)) Ha habido varios individuos y grupos interesados en formar una Iglesia Urantia. El temor entre algunos estudiantes de _El Libro de Urantia_ de que una Iglesia Urantia se convierta en una organización dogmática y cristalizada es muy improbable si se hace de acuerdo con las ideas que nos brinda _El Libro de Urantia_. _El Libro de Urantia_ en <a id="a68_747"></a>[LU 99:6.2](/es/The_Urantia_Book/99#p6_2) nos da pautas maravillosas sobre qué esforzarnos y qué evitar al socializar una religión. Creo que se debe utilizar cierta cantidad de imaginación, inventiva y propósito para guiar y nutrir el nacimiento natural de esta nueva religión socializada.
 
 Crear organizaciones religiosas en el movimiento Urantia no es lo mismo que crear una nueva religión. Un nuevo paradigma de religión basado en la Quinta Revelación de Época ya ha evolucionado en los corazones y las mentes de los estudiantes de _El Libro de Urantia_. Necesita integrarse en una religión socializada viable. Esta nueva religión socializada no será perfecta. Incluso con cualquier salvaguardia que podamos crear para protegerlo de los peligros de la religión institucional, puede degradarse y cristalizar con el tiempo, pero esperemos que no hasta que haya transformado nuestra civilización y cultura.
 
 > _Un nuevo paradigma de religión basado en la Quinta Revelación de Época ya ha evolucionado en los corazones y las mentes de los estudiantes de_ El Libro de Urantia. _Necesita integrarse en una religión socializada viable._
 
-Esta nueva religión socializada basada en la Quinta Revelación de Época iniciará un nuevo movimiento religioso en el mundo. La Fundación Urantia tendrá tanto poder sobre ella como los editores de la Biblia sobre las iglesias cristianas: ninguno. La Fellowship también dejará de tener una función orgánica en este nuevo movimiento religioso, a menos que se convierta en una organización espiritual. Algunas de las Sociedades de Fellowship ya están avanzando en esta dirección. En mi opinión, sería inspirador cambiar la declaración de la misión de la Fellowship para reflejar «el verdadero propósito de la socialización de la religión» declarada en [LU 99:6.2](/es/The_Urantia_Book/99#p6_2).
+Esta nueva religión socializada basada en la Quinta Revelación de Época iniciará un nuevo movimiento religioso en el mundo. La Fundación Urantia tendrá tanto poder sobre ella como los editores de la Biblia sobre las iglesias cristianas: ninguno. La Fellowship también dejará de tener una función orgánica en este nuevo movimiento religioso, a menos que se convierta en una organización espiritual. Algunas de las Sociedades de Fellowship ya están avanzando en esta dirección. En mi opinión, sería inspirador cambiar la declaración de la misión de la Fellowship para reflejar «el verdadero propósito de la socialización de la religión» declarada en <a id="a74_648"></a>[LU 99:6.2](/es/The_Urantia_Book/99#p6_2).
 
 Cuando se inaugure dicha organización espiritual, habrá comenzado una nueva era en la difusión de las enseñanzas del Libro de Urantia. Será una era en la que los conceptos mismos estarán antes que el libro. Y vivir las enseñanzas vendrá antes que los conceptos. Llegará el momento en que los mensajes espirituales del libro comenzarán a prevalecer en las almas de los mortales de Urantia.
 
@@ -61,3 +85,28 @@ Si está dispuesto a ayudar, comencemos a pensar en la declaración de misión d
 > _Richard S. Omura es un antiguo estudiante de_ El Libro de Urantia, _actualmente presidente de la Primera Sociedad de Los Ángeles, Consejero General y asesor de la Escuela de Significados y Valores. Es coordinador de producción de la televisión japonesa y ha trabajado como fotógrafo, disc jockey, guía turístico e intérprete. Richard está trabajando actualmente en una novela basada en_ El Libro de Urantia.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Científico intrigado por El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="pr-2">Metavalores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

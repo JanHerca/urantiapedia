@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misterios cuánticos y los documentos de Urantia: Parte II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="pr-2">Paz personal y global</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Gary Dangerfield es un lector desde hace 20 años en Eureka Springs Arkansas. Durante muchos años fue ministro cristiano, pero lo atormentaba la idea de que debía haber algo más, algo que aún no había encontrado_. El Libro de Urantia _satisfizo ese hambre en Gary. Dice que sigue encontrando en las páginas de_ El Libro de Urantia _la impresionante inspiración de un «Dios más grande». Incluso antes de encontrar el libro, Gary solía decirle a su audiencia: «No importa cuán grandioso puedas concebir que sea Dios, Él siempre seguirá siendo más grande y grandioso que ese concepto». Gary ahora está semi-jubilado y es dueño de una tienda de artesanía en madera de temporada en la hermosa e histórica ciudad montañosa de Ozark, Eureka Springs, Arkansas. Satisface su deseo de llegar a otros con una serie de folletos diseñados para dar a los cristianos tradicionales la idea de un «Dios más grande» como se describe en los Documentos de Urantia. Reimprimimos a continuación dos de sus muchos títulos._
@@ -135,3 +159,28 @@ Ese tipo de perspectiva hará maravillas para ayudarle con las circunstancias di
 > Eureka Springs, AR 72632
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misterios cuánticos y los documentos de Urantia: Parte II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="pr-2">Paz personal y global</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

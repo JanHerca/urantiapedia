@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Signs_of_a_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Signos de un renacimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/On_Possible_and_impossible_Thoughts">
+          <span class="pr-2">Interfaz: Sobre pensamientos posibles e imposibles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Existe un notable grado de unanimidad acerca de Jesús entre los cristianos contemporáneos. El año pasado, Interchurch Features encargó una encuesta de selección aleatoria de 6.000 lectores de las publicaciones oficiales de noticias de ocho denominaciones principales. Sin embargo, dentro del círculo común de acuerdo hubo algunas diferencias interesantes.
@@ -23,13 +47,38 @@ Si esta vida y enseñanzas de Jesús hubieran sido publicadas solas como una nov
 
 > _¡Si esta vida y enseñanzas de Jesús hubieran sido publicadas solas como una novela escrita por un autor conocido, sería la furia de los líderes de la iglesia así como de la gente secular y literaria!_
 
-> «Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!» ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> «Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!» (<a id="a49_559"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
 ---
 
-> Cuando sentimos la tentación de exagerar nuestra propia importancia, si nos detenemos a contemplar la infinidad de la grandeza y de la nobleza de nuestros Hacedores, nuestra propia glorificación se vuelve supremamente ridícula, rayando incluso en lo humorístico. Una de las funciones del humor es la de ayudarnos a todos a tomarnos menos en serio. *El humor es el antídoto divino contra la exaltación del ego*. ([LU 48:4.15](/es/The_Urantia_Book/48#p4_15))
+> Cuando sentimos la tentación de exagerar nuestra propia importancia, si nos detenemos a contemplar la infinidad de la grandeza y de la nobleza de nuestros Hacedores, nuestra propia glorificación se vuelve supremamente ridícula, rayando incluso en lo humorístico. Una de las funciones del humor es la de ayudarnos a todos a tomarnos menos en serio. *El humor es el antídoto divino contra la exaltación del ego*. (<a id="a53_414"></a>[LU 48:4.15](/es/The_Urantia_Book/48#p4_15))
 
-> «No podemos juzgar a una religión por el estado de la civilización que la acompaña; es mejor que apreciemos la verdadera naturaleza de una civilización por la pureza y la nobleza de su religión. Muchos de los educadores religiosos más notables del mundo fueron prácticamente incultos. La sabiduría del mundo no es necesaria para ejercer una fe salvadora en las realidades eternas.» ([LU 102:8.2](/es/The_Urantia_Book/102#p8_2))
+> «No podemos juzgar a una religión por el estado de la civilización que la acompaña; es mejor que apreciemos la verdadera naturaleza de una civilización por la pureza y la nobleza de su religión. Muchos de los educadores religiosos más notables del mundo fueron prácticamente incultos. La sabiduría del mundo no es necesaria para ejercer una fe salvadora en las realidades eternas.» (<a id="a55_385"></a>[LU 102:8.2](/es/The_Urantia_Book/102#p8_2))
 
-> «Algún día, una reforma en la iglesia cristiana podría causar un impacto lo suficientemente profundo como para regresar a las enseñanzas religiosas puras de Jesús, el autor y consumador de nuestra fe. Podéis *predicar* una religión *acerca de* Jesús, pero la religión *de* Jesús, forzosamente, tenéis que *vivirla*.» ([LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
+> «Algún día, una reforma en la iglesia cristiana podría causar un impacto lo suficientemente profundo como para regresar a las enseñanzas religiosas puras de Jesús, el autor y consumador de nuestra fe. Podéis *predicar* una religión *acerca de* Jesús, pero la religión *de* Jesús, forzosamente, tenéis que *vivirla*.» (<a id="a57_320"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Signs_of_a_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Signos de un renacimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/On_Possible_and_impossible_Thoughts">
+          <span class="pr-2">Interfaz: Sobre pensamientos posibles e imposibles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

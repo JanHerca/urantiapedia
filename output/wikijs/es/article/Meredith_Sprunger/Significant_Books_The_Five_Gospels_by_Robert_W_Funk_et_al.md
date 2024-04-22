@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La venganza de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="pr-2">Libros importantes: Jesús: una nueva visión de Marcus J. Borg</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Robert W. Funk, Roy W. Hoover y The Jesus Seminar, Macmillan, 1993, págs. 553
@@ -37,5 +61,30 @@ Las razones de las decisiones de los becarios se dan en el texto y se presentan 
 
 ---
 
-> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. Es inútil hablar de un renacimiento del cristianismo primitivo; tenéis que avanzar desde el lugar donde os encontráis. La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. Es inútil hablar de un renacimiento del cristianismo primitivo; tenéis que avanzar desde el lugar donde os encontráis. La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. (<a id="a63_581"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La venganza de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="pr-2">Libros importantes: Jesús: una nueva visión de Marcus J. Borg</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

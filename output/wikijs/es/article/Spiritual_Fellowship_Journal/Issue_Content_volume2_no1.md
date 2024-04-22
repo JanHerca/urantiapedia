@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Resistance_to_Spiritual_Truth">
+          <span class="pr-2">Resistencia a la verdad espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 2, Número 1, primavera de 1992
@@ -149,3 +170,25 @@ El lector de _El Libro de Urantia_ también descubre en muchas secciones del lib
 
 Si su librería local no vende _El Libro de Urantia_, puede pedirlo a La Fundación Urantia, 533 Diversey Parkway, Chicago, IL 60614. El _Concordex_ y el _Paramony_ se pueden comprar en Good Cheer Press. 1790 Calle 30, #400, Boulder, CO 80301.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Resistance_to_Spiritual_Truth">
+          <span class="pr-2">Resistencia a la verdad espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

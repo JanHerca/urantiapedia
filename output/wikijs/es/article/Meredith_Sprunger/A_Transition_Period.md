@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Meredith Sprunger<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El factor Nadia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Observations_on_Religious_Institutions">
+          <span class="pr-2">Interfaz: Observaciones sobre las instituciones religiosas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Parece que el movimiento Urantia está emergiendo de su lucha inicial por la identidad y ahora se encuentra en una postura que continuará durante algún tiempo. Prácticamente ha desaparecido la avalancha de demandas sobre el derecho a controlar el uso y la publicación de _El Libro de Urantia_ y el Tribunal de Apelaciones afirmó que el libro ahora es de dominio público (a la espera del intento de la Fundación de que el caso sea visto en el Tribunal Supremo).
@@ -52,3 +76,28 @@ Gradualmente, los pueblos del mundo aprenderán a reconocer y rechazar estas for
 > mjsprunger@aol.com
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El factor Nadia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Observations_on_Religious_Institutions">
+          <span class="pr-2">Interfaz: Observaciones sobre las instituciones religiosas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

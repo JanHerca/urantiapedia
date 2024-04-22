@@ -9,9 +9,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La búsqueda de la verdad: la importancia de múltiples aportaciones y del equilibrio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="pr-2">Interfaz: La Iglesia en el próximo siglo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «_...esta iglesia es solamente el estado larvario del frustrado reino espiritual, ..._» ([LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
+
+> «_...esta iglesia es solamente el estado larvario del frustrado reino espiritual, ..._» (<a id="a37_91"></a>[LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
 
 Las instituciones humanas avanzan y prosperan como resultado de visiones nuevas y ampliadas de la realidad espiritual. La historia está repleta de ejemplos de tales transformaciones. Los ciclos de la cultura comienzan con estas nuevas visiones de la realidad. Se desarrollan con el florecimiento de todas las instituciones sociales y declinan cuando la dinámica espiritual de su empoderamiento se pierde o se agota. Estos acontecimientos históricos están estrechamente asociados con la revelación: un avance significativo en la conceptualización de la verdad y una actualización cada vez más amplia de la belleza y la bondad.
 
@@ -23,3 +47,28 @@ Algún día los historiadores mirarán hacia atrás y verán que esta preocupaci
 
 Está llegando el momento en que los teólogos y administradores de la iglesia examinarán seriamente el mensaje del libro y reconocerán su misión de mejorar nuestra comprensión de la realidad y profundizar nuestra conciencia del ministerio espiritual. En ese día, la etapa larval de la iglesia comenzará su emocionante metamorfosis hacia la creación hermosa, dinámica, solidaria y empoderadora del reino espiritual en el que está destinada a convertirse, y que reflejará brillantemente la realidad universal de que Cristo es el Señor.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La búsqueda de la verdad: la importancia de múltiples aportaciones y del equilibrio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="pr-2">Interfaz: La Iglesia en el próximo siglo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

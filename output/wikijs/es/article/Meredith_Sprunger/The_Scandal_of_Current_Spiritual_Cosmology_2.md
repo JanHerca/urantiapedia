@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_Twenty_First_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío del siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Hidden_God">
+          <span class="pr-2">Interfaz: El Dios Oculto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La cosmología material del mundo bíblico precientífico era una visión simplista de una tierra plana coronada por un firmamento que tenía agujeros (estrellas) a través de los cuales se mostraba la luz del cielo. Nuestra actual cosmología material científica de cuatro dimensiones, en la que las distancias se miden en años luz, indica cuán anticuada está la astronomía bíblica. Incluso los fundamentalistas religiosos de hoy han abandonado una cosmología material de la Tierra plana.
@@ -19,3 +43,28 @@ Lo sorprendente es que los teólogos progresistas y liberales del siglo XX hayan
 
 Aquí, como en tantas otras áreas de la iluminación espiritual, _El Libro de Urantia_ presenta una visión ampliada de la realidad espiritual. La cosmología espiritual de la Quinta Revelación de Época eclipsa incluso la gigantesca cosmología material de la astronomía contemporánea. A medida que el conocimiento de la cosmología espiritual infinita del Libro de Urantia se infiltre en nuestro mundo, traerá nuevo significado y propósito a toda la vida. Los jóvenes una vez más se sentirán emocionados por el desafío del crecimiento y los logros espirituales, mientras que los de edad avanzada se sentirán inspirados por el potencial de la aventura más allá de la tumba.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_Twenty_First_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío del siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Hidden_God">
+          <span class="pr-2">Interfaz: El Dios Oculto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

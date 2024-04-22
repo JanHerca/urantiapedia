@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Meredith J. Sprunger<br>© 2006 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermandad Urantia: origen, historia y destino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="pr-2">Técnica de enseñanza de confrontación de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cualquiera que haya experimentado una relación personal dinámica con Dios y se haya dedicado a las exigencias de esta relación debe hacer algo al respecto. La religión genuina siempre motiva la acción y cambia vidas. Jesús enfatiza que el servicio es el verdadero indicador de nuestra relación con el Padre Universal. Los religiosos a menudo han eludido la exigente disciplina del ministerio espiritual al dedicarse a sustitutos religiosos como la teología, el cultivo de cultos, la administración organizacional y la contemplación mística. Las sectas y los grupos sectarios tienden a ser centrípetos (introvertidos), su enfoque y sus relaciones principales son con los de dentro. Una religión o religionista más madura es abierta y extrovertida y busca llevar el ministerio a toda la humanidad.
@@ -86,3 +110,28 @@ Vivimos en uno de los principales períodos de transición de la historia de la 
 > _Meredith Sprunger es un pastor jubilado de la UCC y profesor universitario que ha trabajado durante más de cincuenta años para interactuar con el clero principal. Es el fundador y primer editor senior del Spiritual Fellowship Journal y actualmente se desempeña como editor asociado._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermandad Urantia: origen, historia y destino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="pr-2">Técnica de enseñanza de confrontación de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

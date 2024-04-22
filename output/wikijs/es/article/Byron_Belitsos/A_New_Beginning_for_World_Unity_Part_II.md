@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El potencial supremo de la familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/My_God_is_a_Sweet_Juicy_Apple_Without_the_Waxy_Cover">
+          <span class="pr-2">Dios mío es una manzana dulce y jugosa, sin la cubierta cerosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Esta es la sección final de un informe de dos partes sobre el Parlamento de las Religiones del Mundo de 1993._ [Primera parte](/es/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I)
@@ -34,7 +58,7 @@ Fue una vergüenza para mí darme cuenta de que mis dos afiliaciones religiosas,
 
 Otros de la línea exclusivista fueron más pragmáticos. No faltaron organizaciones proselitistas que utilizaron el Parlamento como plataforma para promulgar la «verdad». Personalmente conocí a muchos asistentes que defendieron la superioridad de su tradición sobre otras, o que tuvieron dificultades considerables para permitirme compartir mi propia fe peculiar.
 
-> _Supongo que soy inclusivista. El Libro de Urantia parece respaldar esta posición en el «Segundo discurso sobre la religión»_ ([LU 155:6.9](/es/The_Urantia_Book/155#p6_9)), donde leemos que «_la religión del espíritu requiere sólo unidad de experiencia... sólo unidad de sentimiento espiritual_».
+> _Supongo que soy inclusivista. El Libro de Urantia parece respaldar esta posición en el «Segundo discurso sobre la religión»_ (<a id="a60_129"></a>[LU 155:6.9](/es/The_Urantia_Book/155#p6_9)), donde leemos que «_la religión del espíritu requiere sólo unidad de experiencia... sólo unidad de sentimiento espiritual_».
 
 El enfoque exclusivista podría describirse como «esotérico», a diferencia de las tendencias «exotéricas» que existen dentro de esas mismas tradiciones. Generalmente, los religiosos esotéricos identifican como «absoluto» algún rasgo de la forma externa de su religión. Un texto revelado, una práctica ritual o alguna definición o símbolo de Dios se considera superior en algún sentido a todos los demás. Permitir el relativismo provocaría una inseguridad inaceptable en la fe.
 
@@ -44,7 +68,7 @@ En contraste con lo esotérico, la fe exotérica se basa en una experiencia pers
 
 Los creyentes exotéricos de cualquier tradición tienen una base obvia para el diálogo que se basa en su experiencia mística común. Esto implicaría que sólo hay dos tipos de religiones: la esotérica y la esotérica, y estos enfoques divergentes se encuentran en cada tradición. Schuon dice que las verdaderas divisiones en la religión mundial no se dan entre muchas religiones, sino entre estos dos tipos muy diferentes de personas religiosas.
 
-Supongo que soy inclusivista. _El Libro de Urantia_ parece respaldar esta posición en el «Segundo Discurso sobre la Religión» ([LU 155:6.9](/es/The_Urantia_Book/155#p6_9)), donde leemos que «la religión del espíritu requiere sólo unidad de experiencia... sólo unidad de sentimiento espiritual».
+Supongo que soy inclusivista. _El Libro de Urantia_ parece respaldar esta posición en el «Segundo Discurso sobre la Religión» (<a id="a70_127"></a>[LU 155:6.9](/es/The_Urantia_Book/155#p6_9)), donde leemos que «la religión del espíritu requiere sólo unidad de experiencia... sólo unidad de sentimiento espiritual».
 
 Para mí, el significado último del Parlamento estaba en el creciente sentido de la unidad de la experiencia religiosa como base para el diálogo interreligioso. Una unidad de sentimiento religioso siempre fue palpable en las sesiones de meditación interreligiosa que se celebraban cada mañana y cada tarde. Este sentido de unidad era especialmente cierto en las sesiones plenarias: grandes eventos a los que a menudo asistían varios miles de personas, algunos de los cuales los miraban por circuito cerrado de televisión en salones de baile contiguos.
 
@@ -60,9 +84,9 @@ Los académicos lucharon con modelos más exigentes para crear una base legítim
 
 ## Funcionalista
 
-Defino el modelo funcionalista de diálogo interreligioso como la búsqueda de objetivos y propósitos ampliamente comunes, especialmente el de unir a toda la humanidad (incluso a los no creyentes) en aras de la supervivencia del planeta. Los funcionalistas son pragmáticos. Se dan cuenta de lo difícil que sería unir «...a los seguidores de las diferentes teologías intelectuales que tanto caracterizan a Urantia». ([LU 92:5.16](/es/The_Urantia_Book/92#p5_16))
+Defino el modelo funcionalista de diálogo interreligioso como la búsqueda de objetivos y propósitos ampliamente comunes, especialmente el de unir a toda la humanidad (incluso a los no creyentes) en aras de la supervivencia del planeta. Los funcionalistas son pragmáticos. Se dan cuenta de lo difícil que sería unir «...a los seguidores de las diferentes teologías intelectuales que tanto caracterizan a Urantia». (<a id="a86_414"></a>[LU 92:5.16](/es/The_Urantia_Book/92#p5_16))
 
-Los funcionalistas pueden encontrar un apoyo considerable para su enfoque en _El Libro de Urantia_, que predica que «Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas...» ([LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
+Los funcionalistas pueden encontrar un apoyo considerable para su enfoque en _El Libro de Urantia_, que predica que «Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas...» (<a id="a88_362"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
 
 ## Declaración de una Ética Global
 
@@ -78,3 +102,28 @@ El Parlamento de las Religiones del Mundo de 1993 fue un nuevo comienzo para la 
 > _Byron ha sido periodista y productor de televisión y actualmente es consultor en la industria de las telecomunicaciones._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El potencial supremo de la familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/My_God_is_a_Sweet_Juicy_Apple_Without_the_Waxy_Cover">
+          <span class="pr-2">Dios mío es una manzana dulce y jugosa, sin la cubierta cerosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

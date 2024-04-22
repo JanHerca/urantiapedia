@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Qué tan buenas son las buenas noticias?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">El impacto cultural del libro de Urantia en los próximos cincuenta años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***_El Libro de Urantia_ y la renovación espiritual***
@@ -35,3 +59,28 @@ Considero _El Libro de Urantia_ como el acontecimiento espiritual más significa
 
 No he resuelto el problema de relacionar las enseñanzas de _El Libro de Urantia_ con el cristianismo protestante organizado, mi trasfondo religioso. Muchas de estas personas tienen una mentalidad cerrada, algunos incluso creen que el libro es «una obra del diablo». Otros amigos, menos prejuiciosos y temerosos, han descubierto que el libro es el almacén espiritual revolucionario que yo he experimentado. Y espero con ansias seguir expuesto a las enseñanzas de Jesús, libre de las distorsiones de los lapas de la tradición.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Qué tan buenas son las buenas noticias?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">El impacto cultural del libro de Urantia en los próximos cincuenta años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

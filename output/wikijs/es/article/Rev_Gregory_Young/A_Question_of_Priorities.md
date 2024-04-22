@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Rev. Gregory Young<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: servicio creativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Ascendancy_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">La Ascendencia de la Quinta Revelación de Época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -31,3 +55,28 @@ Un día, Mark caminaba a casa desde la escuela cuando notó que el niño que iba
 
 Es interesante que Jesús pusiera a un niño entre ellos como medio para ayudar a sus discípulos a modificar sus prioridades. Jesús sabía que los niños son a menudo quienes nos recuerdan que nuestras prioridades están fuera de control. Y nuestro amor por nuestros hijos puede ayudarnos a motivarnos a nosotros mismos para que nuestras vidas vuelvan a tener el enfoque adecuado. Considere un artículo que apareció recientemente en la revista People sobre un hombre que recuperó la concentración gracias al amor que sentía por su hija. Los investigadores informan que de las pocas personas que alguna vez pierden cantidades sustanciales de peso, la mayoría recupera el peso en unos pocos años. Parece muy difícil encontrar la motivación para perder peso y no recuperarlo. Pero Randy Leamer no tuvo problemas con la motivación. Sabía que si no perdía peso, su pequeña hija podría morir. Con sólo dieciocho meses, a Meagan Leamer le diagnosticaron una enfermedad renal grave. No importa qué tratamiento intentaron los médicos con ella, la pequeña seguía empeorando. Cuando tenía cinco años, Meagan necesitaba desesperadamente un trasplante de riñón. Los padres de Meagen, Randy y Genie Leamer, estaban más que dispuestos a donar un órgano a su hija, y se descubrió que ambos eran buenos compatibles. Pero la familia de Genie tenía un largo historial de problemas renales y presión arterial alta, por lo que una donación de órganos sería riesgosa por su parte. Eso dejó al padre de Meagan, Randy, como el único donante posible. Había solo un problema; Randy Leamer pesaba más de 300 libras. Los médicos temían que, en el estado de Randy, no sobreviviría a la cirugía para extraerle el riñón. Entonces Randy decidió perder más de $100 libras para prepararse para la cirugía de su hija. Comenzó a hacer ejercicio y a llevar una dieta baja en grasas. Los amigos en el trabajo lo animaron e incluso le trajeron su ropa vieja a Randy cuando la ropa le quedó demasiado grande. En ocho meses, Randy Leaner había bajado a 194 dólares por libra. La cirugía de riñón de Meagan se realizó el 12 de diciembre de 1997. Tanto Randy como Meagen se recuperaron completamente de la cirugía. Debido al amor que sentía por su hija, Randy Leamer tomó una medida necesaria que, a la larga, podría darle una vida más larga. Todos queremos ser lo mejor que podamos ser. Quizás todos sentimos que pasar por la vida es como un acto de malabarismo. Esa es una condición dada y podemos vivir con ella. Pero recuerda que algunas de las bolas con las que hacemos malabares son de goma y otras de cristal precioso. Que Dios nos dé a cada uno de nosotros la sabiduría y la fe para establecer prioridades que tengan un valor espiritual duradero.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: servicio creativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Ascendancy_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">La Ascendencia de la Quinta Revelación de Época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

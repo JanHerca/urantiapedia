@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Renewal_of_Theology">
+          <span class="pr-2">La renovación de la teología</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 4, Número 2, Otoño de 1994
@@ -131,3 +152,25 @@ El Dr. Duane L. Faw, profesor emérito de Derecho de la Facultad de Derecho de l
 
 La Fundación Urantia publicó una concordancia exhaustiva del _Libro de Urantia_ en 1993. Si su librería local no vende la concordancia _El libro de Urantia_ o _El libro de Urantia_, puede solicitarlas a la Fundación Urantia, 533 Diversey Parkway, Chicaago, IL 60614. La Fundación también publica ediciones en francés, español y finlandés de _El Libro de Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Renewal_of_Theology">
+          <span class="pr-2">La renovación de la teología</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

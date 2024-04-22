@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Larry Mullins<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume13_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="pr-2">Un período de transición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***«Tengo lágrimas en los ojos...»***
@@ -55,5 +79,30 @@ JJ es un gran evangelista urantiano a mi juicio. Él nunca elude su deber de ayu
 
 Yo creo que no. Estos urantianos «ordinarios» han llevado la evangelización y la extensión urantiana a otro nivel. Debemos admirarlos y aplaudirlos. Son un ejemplo del genio del pueblo.
 
-> ««Al igual que el Padre me ha enviado a este mundo, yo os envío a vosotros. Todos estáis llamados a llevar la buena nueva a aquellos que están en las tinieblas. Este evangelio del reino pertenece a todos los que crean en él; no será confiado al cuidado exclusivo de los sacerdotes. El Espíritu de la Verdad vendrá pronto a vosotros, y os conducirá a toda la verdad. Id pues por el mundo entero predicando este evangelio, y pensad que siempre estoy con vosotros, incluso hasta el fin de los tiempos».» ([LU 191:6.3](/es/The_Urantia_Book/191#p6_3))
+> ««Al igual que el Padre me ha enviado a este mundo, yo os envío a vosotros. Todos estáis llamados a llevar la buena nueva a aquellos que están en las tinieblas. Este evangelio del reino pertenece a todos los que crean en él; no será confiado al cuidado exclusivo de los sacerdotes. El Espíritu de la Verdad vendrá pronto a vosotros, y os conducirá a toda la verdad. Id pues por el mundo entero predicando este evangelio, y pensad que siempre estoy con vosotros, incluso hasta el fin de los tiempos».» (<a id="a81_504"></a>[LU 191:6.3](/es/The_Urantia_Book/191#p6_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume13_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="pr-2">Un período de transición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

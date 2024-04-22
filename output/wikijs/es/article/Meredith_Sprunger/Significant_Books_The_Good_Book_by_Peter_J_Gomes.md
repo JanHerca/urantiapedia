@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: Discutiendo con Nicodemo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="pr-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pedro J. Gomes
@@ -26,3 +50,28 @@ En la última sección del libro, Gomes muestra lo que su interpretación de la 
 
 Nuestra sociedad tiene una necesidad crítica del poder reorientador y rejuvenecedor de la Quinta Revelación de Época. _El Libro de Urantia_ en nuestro tiempo está en relación con la Biblia de la misma manera que el Nuevo Testamento estaba en relación con el Antiguo Testamento en el primer siglo d.C.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: Discutiendo con Nicodemo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="pr-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

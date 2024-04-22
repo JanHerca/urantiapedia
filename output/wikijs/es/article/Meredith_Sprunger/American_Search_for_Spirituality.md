@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_need_for_a_New_Vision_of_Spiritual_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La necesidad de una nueva visión de la realidad espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Historical_Jesus">
+          <span class="pr-2">El Jesús histórico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Se nos recuerda repetidamente que vivimos en una sociedad secular. En las últimas décadas hemos experimentado una erosión de valores y una disminución de nuestra sensación de seguridad. La amenaza de un holocausto nuclear, la guerra de Vietnam, el uso generalizado de drogas y el aumento del crimen y la violencia han socavado nuestra confianza en nuestra civilización materialista-secular. Hay un anhelo creciente por algo más sustancial. La civilización occidental busca una nueva dimensión de espiritualidad. Phyllis Tickle en _Rediscovering the Sacred: Spirituality in America_ (Crossroad, 1995, \$19,95) observa que la venta de libros religiosos ha aumentado un 59\% desde 1992, y un estudio de Gallup predice que la demanda de libros sobre espiritualidad aumentará un 82% para 2010.
@@ -17,3 +41,28 @@ Existe una distinción notable en la sociedad contemporánea entre religión y e
 
 Como reconocerán los lectores de _The Spiritual Fellowship Journal_, este ha sido nuestro tema básico desde que comenzamos a publicar el Journal en 1991. Creemos que las principales iglesias cristianas, a través de la experiencia evolutiva, están preparadas para descubrir la visión espiritual transformadora presentada en _El Libro de Urantia_. Con este descubrimiento de la Quinta Revelación de Época, estas iglesias no sólo recuperarán su relevancia espiritual, sino que se convertirán en iglesias de primera línea en nuestra cultura.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_need_for_a_New_Vision_of_Spiritual_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La necesidad de una nueva visión de la realidad espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Historical_Jesus">
+          <span class="pr-2">El Jesús histórico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

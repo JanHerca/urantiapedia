@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Merlyn Cox<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Existe el cielo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="pr-2">Salmos de hoy: guía espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recientemente, con algo de tiempo extra durante las vacaciones, leí otro libro sobre ovnis. Ha sido un tema de interés durante algún tiempo, como aparentemente lo ha sido para la mayoría de los estadounidenses, y parece estar aumentando. Me considero un escéptico abierto al respecto. Ha habido suficientes informes que resultan intrigantes, pero ninguno totalmente convincente. Creo que eso es lo que Carl Sagan quiso decir cuando dijo, en efecto, que simplemente no había ni la más mínima evidencia que demostrara que los ovnis existen o que hemos sido visitados. Creo que habría sido más exacto decir que hay una enorme cantidad de evidencia (decenas, si no cientos de miles de avistamientos en todo el mundo); sin embargo, la mayoría es pobre y algunas ridículas. Sagan tiene razón: no se puede señalar una sola pieza de evidencia, algún artefacto que todas las personas razonables puedan examinar y afirmar que no es de este mundo. No recuerdo cuántos documentales de televisión e informes sobre presuntos ovnis he visto que comenzaban con un comentario como: «Bueno, vi esta luz brillante en el cielo y se movió como nunca antes había visto.» A menudo me encuentro diciendo en voz alta: «Dame un respiro».
@@ -35,6 +59,31 @@ Si tales acontecimientos resultan ser ciertos (pasados, presentes o en algún mo
 
 Lo que _El Libro de Urantia_ nos brinda, además de una cosmología física significativa para comprender tales eventos, es una cosmología espiritual que puede asegurarnos que todavía somos parte de un universo que, en última instancia, es amigable y está en consonancia con los planes del Creador para todos sus hijos. Semejante visita no sería, como suele afirmarse, el acontecimiento más importante de la historia de la humanidad. Sin embargo, podría ayudarnos a comprender lo que es, es decir, la Encarnación de un Hijo Creador, Cristo Miguel, como Jesús de Nazaret.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Existe el cielo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="pr-2">Salmos de hoy: guía espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

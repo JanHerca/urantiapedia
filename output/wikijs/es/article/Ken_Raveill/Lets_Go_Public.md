@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Raveill<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una aventura de servicio en Guatemala por Micah Kruger</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="pr-2">Compárese: Conceptos humanos paralelos a los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mi esposa y yo descubrimos _El Libro de Urantia_ en 1979 mientras visitábamos la casa de unos amigos. Ocupaba un lugar destacado en la mesa de café de la sala de estar. Mi esposa comenzó a leer el libro casualmente y luego me llamó la atención. Nos interesó lo suficiente como para anotar el nombre del editor y enviamos a Chicago a buscar una copia. Unos días más tarde llegó el Gran Libro Azul y casi de inmediato recibimos una llamada telefónica amistosa de Ila Hall, una completa desconocida, invitándonos a un grupo de estudio del _Libro de Urantia_ que se reunía en su casa los domingos por la tarde. Ila y Loren Hall vivían en el suroeste de Kansas City, Missouri, a unas 35 millas de nuestra casa en Independence, pero decidimos aceptar la invitación, al menos por una vez. Asistimos al grupo de estudio de Ila Hall durante más de 10 años y aprendimos a amar a Ila y Loren y a compartir su amor por _El Libro de Urantia_.
@@ -41,3 +65,28 @@ Es posible que no tenga una librería Barnes & Noble cerca, pero hay salas comun
 > «Todas las grandes religiones afirman que sus creencias son verdad, ya sea que nieguen que haya verdad en otras religiones o reconozcan que hay alguna medida de verdad en algunas o en todas las demás. Pero, aunque afirman... la verdad de sus creencias, no todos asumen ni reconocen la obligación de hacer proselitismo, de emprender actividades misioneras en todo el mundo destinadas a convertir a la mayor cantidad de personas posible... ¿Cuál es el significado del hecho de que, mientras que cada una de las grandes religiones afirma la verdad por sus creencias fácticas o morales... ¿sólo algunas religiones emprenden actividades misioneras e intentan hacer conversos, mientras que otras no hacen nada por el estilo, y algunas incluso operan bajo la obligación de no hacer proselitismo ni convertirse? Si una religión afirma que sus creencias son verdad, ¿por qué no busca universalizarse? ¿No debería compartirse lo más ampliamente posible la verdad que defienden sus comunicantes?» Mortimer Adler
 > _La verdad en la religión... la pluralidad de las religiones y la unidad de la verdad_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una aventura de servicio en Guatemala por Micah Kruger</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="pr-2">Compárese: Conceptos humanos paralelos a los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

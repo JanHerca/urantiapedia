@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Meredith Sprunger<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Seismic_Shift_in_Christianity">
+          <span class="pr-2">Un cambio sísmico en el cristianismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -21,3 +45,28 @@ La Revista, a mi juicio, tiene potencial para hacer contribuciones significativa
 
 Además de trabajar en _Un manual de discusión_ para los Documentos de Urantia y reescribir los _Salmos_, Sherilyn Henry y yo estamos organizando una Junta de Investigación compuesta por subgrupos para investigar y crear recursos que se utilizarán para iniciar la infraestructura de una nueva organización religiosa, The Spiritual Fellowship, basado en la Quinta Revelación de Época que brindará alimento espiritual desde el nacimiento hasta la muerte. Esto estará en proceso durante varios años. Creemos que es el momento adecuado para este esfuerzo. El corazón y la dinámica subyacente de The Spiritual Fellowship es la fe en que todas las personas del mundo son amadas por Dios y que cada uno es miembro de la amorosa familia de Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Seismic_Shift_in_Christianity">
+          <span class="pr-2">Un cambio sísmico en el cristianismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

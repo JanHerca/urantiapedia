@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Merlyn Cox<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los comienzos de la semilla de mostaza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="pr-2">Tu parte favorita del Apocalipsis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recientemente asistí a un taller sobre «Liderazgo en el siglo XXI».[^1] Fue dirigido por especialistas en crecimiento de iglesias que han estado estudiando durante muchos años la forma en que operan las iglesias prósperas (alrededor del 10\%), versus aquellas que no lo son ( alrededor del 90\%). Fue un evento provocativo y estimulante, lleno de ideas que podrían beneficiar a la mayoría de las organizaciones, especialmente a las iglesias y otras organizaciones sin fines de lucro. [^2]
@@ -23,8 +47,33 @@ Su principal preocupación es: ¿cómo ayudar a las personas a descubrir sus don
 
 No deberíamos tener que recordarnos lo que Jesús declaró tan claramente: que nunca alcanzaremos la uniformidad de pensamiento; sólo podemos esforzarnos por lograr una unidad de espíritu. No podremos, ni deberíamos intentar, controlar el alcance del creciente movimiento Urantia a través de una organización burocrática central: la comunidad Urantia es demasiado diversa, creativa y «caótica». En cambio, creo que deberíamos luchar por estructuras que sean flexibles, moldeadas por un propósito claro, con límites amplios pero claros, estructuras que permitan y alienten a los individuos y grupos a encontrar su «llamado» dentro del movimiento. Podemos reconocer y regocijarnos de que el Padre tiene la capacidad infinita de adaptarse según las necesidades de cada una de sus criaturas, en todas y cada una de las circunstancias, y confiar en que su Espíritu hará su obra como nosotros hacemos la nuestra.
 
-> Jesús era realmente un maestro de hombres; ejercía una gran influencia sobre sus semejantes a causa de la fuerza y el encanto combinados de su personalidad. Su vida ruda, nómada y sin hogar producía una sutil influencia dominante. Había un atractivo intelectual y un poder persuasivo espiritual en su manera de enseñar llena de autoridad, en su lógica lúcida, en la fuerza de su razonamiento, en su perspicacia sagaz, en su viveza mental, en su serenidad incomparable y en su sublime tolerancia. Era sencillo, varonil, honrado e intrépido. Junto a toda esta influencia física e intelectual que manifestaba la presencia del Maestro, también se encontraban todos los encantos espirituales del ser que se habían asociado con su personalidad —la paciencia, la ternura, la mansedumbre, la dulzura y la humildad. ([LU 141:3.4](/es/The_Urantia_Book/141#p3_4))
+> Jesús era realmente un maestro de hombres; ejercía una gran influencia sobre sus semejantes a causa de la fuerza y el encanto combinados de su personalidad. Su vida ruda, nómada y sin hogar producía una sutil influencia dominante. Había un atractivo intelectual y un poder persuasivo espiritual en su manera de enseñar llena de autoridad, en su lógica lúcida, en la fuerza de su razonamiento, en su perspicacia sagaz, en su viveza mental, en su serenidad incomparable y en su sublime tolerancia. Era sencillo, varonil, honrado e intrépido. Junto a toda esta influencia física e intelectual que manifestaba la presencia del Maestro, también se encontraban todos los encantos espirituales del ser que se habían asociado con su personalidad —la paciencia, la ternura, la mansedumbre, la dulzura y la humildad. (<a id="a49_810"></a>[LU 141:3.4](/es/The_Urantia_Book/141#p3_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los comienzos de la semilla de mostaza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="pr-2">Tu parte favorita del Apocalipsis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

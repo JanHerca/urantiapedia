@@ -9,23 +9,47 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Dr. Meredith J. Sprunger<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscientes de una mejor elección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="pr-2">Misterios cuánticos y los documentos de Urantia, Parte I de II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «_Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual._» ([LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
 
-> «_La religión del espíritu significa esfuerzo, lucha, conflicto, fe, determinación, amor, lealtad y progreso._» ([LU 155:5.11](/es/The_Urantia_Book/155#p5_11))
+> «_Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual._» (<a id="a37_248"></a>[LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
+
+> «_La religión del espíritu significa esfuerzo, lucha, conflicto, fe, determinación, amor, lealtad y progreso._» (<a id="a39_115"></a>[LU 155:5.11](/es/The_Urantia_Book/155#p5_11))
 
 Siempre supe que _El Libro de Urantia_ inspiraría nuevas organizaciones religiosas. La Fellowship Espiritual parece ser la primera de estas nuevas organizaciones religiosas que busca fundar intencionalmente una comunidad basada en la adoración, el crecimiento espiritual personal, la extensión y la evangelización, las cosas que tradicionalmente hemos asociado con una iglesia, sinagoga o mezquita. Ha tenido un período de gestación de cuarenta y cinco años. El Dr. Sadler y yo solíamos discutir la probable naturaleza de las organizaciones religiosas inspiradas en la Quinta Revelación de Época. Observamos que los autores de los Documentos de Urantia hablaban de la necesidad de una nueva organización religiosa.
 
-> «_A pesar de que el culto siempre ha retrasado el progreso social, es lamentable que tantos creyentes modernos en las normas morales y en los ideales espirituales no posean un simbolismo adecuado —un culto donde apoyarse mutuamente— nada a lo que puedan *pertenecer*._» ([LU 87:7.3](/es/The_Urantia_Book/87#p7_3))
+> «_A pesar de que el culto siempre ha retrasado el progreso social, es lamentable que tantos creyentes modernos en las normas morales y en los ideales espirituales no posean un simbolismo adecuado —un culto donde apoyarse mutuamente— nada a lo que puedan *pertenecer*._» (<a id="a43_273"></a>[LU 87:7.3](/es/The_Urantia_Book/87#p7_3))
 
-> «_Es difícil que la religión sobreviva cuando sólo es la práctica privada de unos individuos aislados. Los dirigentes religiosos siempre han cometido el siguiente error: Al observar los males de la religión institucionalizada, tratan de destruir la técnica de las actividades en grupo. En lugar de destruir todo el ritual, harían mejor en reformarlo._» ([LU 97:10.7](/es/The_Urantia_Book/97#p10_7))
+> «_Es difícil que la religión sobreviva cuando sólo es la práctica privada de unos individuos aislados. Los dirigentes religiosos siempre han cometido el siguiente error: Al observar los males de la religión institucionalizada, tratan de destruir la técnica de las actividades en grupo. En lugar de destruir todo el ritual, harían mejor en reformarlo._» (<a id="a45_356"></a>[LU 97:10.7](/es/The_Urantia_Book/97#p10_7))
 
-> «_Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña._» ([LU 98:6.1](/es/The_Urantia_Book/98#p6_1))
+> «_Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña._» (<a id="a47_274"></a>[LU 98:6.1](/es/The_Urantia_Book/98#p6_1))
 
-> «_A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado._» ([LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
+> «_A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado._» (<a id="a49_232"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
 
-> «_La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo. Todas las religiones vivientes estimulan la amistad humana, conservan la moralidad, promueven el bienestar de la vecindad y facilitan la difusión del evangelio esencial contenido en sus respectivos mensajes de salvación eterna._» ([LU 99:6.2](/es/The_Urantia_Book/99#p6_2))
+> «_La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo. Todas las religiones vivientes estimulan la amistad humana, conservan la moralidad, promueven el bienestar de la vecindad y facilitan la difusión del evangelio esencial contenido en sus respectivos mensajes de salvación eterna._» (<a id="a51_745"></a>[LU 99:6.2](/es/The_Urantia_Book/99#p6_2))
 
 ## Eventos en segundo plano
 
@@ -147,12 +171,37 @@ La Fellowship Espiritual está comprometida a motivar, empoderar y apoyar a toda
 
 _El Libro de Urantia_, a mi juicio, tiene el mayor potencial para hacer avanzar espiritualmente a nuestro mundo que cualquier evento desde la venida de Jesús hace más de 2000 años. La historia de la religión muestra que los sistemas de valores espirituales siempre son establecidos y promovidos por algún tipo de organización religiosa. La Fellowship Espiritual busca establecer fundaciones religiosas de base basadas en las enseñanzas de los Documentos de Urantia que llevarán su mensaje transformador a las personas espiritualmente hambrientas del mundo. Creo que estamos en el comienzo de una nueva era de religión en nuestro mundo. Te invitamos a unirte a nosotros en esta misión de divulgación.
 
-Este ministerio de extensión no será fácil. No es para almas tímidas. Es difícil para las personas que son ciudadanos equilibrados y sólidos en su comunidad correr el riesgo de ser vistas como «diferentes» o como pertenecientes a algún culto o movimiento extraño. Los pioneros siempre enfrentan dificultades y penurias. Las presentaciones nuevas y ampliadas de la verdad siempre han sido, y siempre serán, atacadas por los tradicionalistas y fundamentalistas religiosos. La historia del crecimiento espiritual muestra que hasta que una visión ampliada de la verdad es atacada y sus pioneros perseguidos, no llama la atención y atrae a un número significativo de buscadores creativos de la verdad espiritual en la sociedad: «Bienaventurados los perseguidos a causa de su rectitud, porque de ellos es el reino de los cielos._» [[LU 140:3.11](/es/The_Urantia_Book/140#p3_11)]
+Este ministerio de extensión no será fácil. No es para almas tímidas. Es difícil para las personas que son ciudadanos equilibrados y sólidos en su comunidad correr el riesgo de ser vistas como «diferentes» o como pertenecientes a algún culto o movimiento extraño. Los pioneros siempre enfrentan dificultades y penurias. Las presentaciones nuevas y ampliadas de la verdad siempre han sido, y siempre serán, atacadas por los tradicionalistas y fundamentalistas religiosos. La historia del crecimiento espiritual muestra que hasta que una visión ampliada de la verdad es atacada y sus pioneros perseguidos, no llama la atención y atrae a un número significativo de buscadores creativos de la verdad espiritual en la sociedad: «Bienaventurados los perseguidos a causa de su rectitud, porque de ellos es el reino de los cielos._» <a id="a173_825"></a>[[LU 140:3.11](/es/The_Urantia_Book/140#p3_11)]
 
-Sin embargo, aquellos que tienen el coraje y la sabiduría de llevar el conocimiento de la Quinta Revelación de Época a los individuos e instituciones de nuestro mundo están participando en uno de los ministerios más importantes de nuestros tiempos. Estos evangelistas misioneros abrirán la puerta a una dinámica espiritual que sin duda transformará nuestro planeta en los próximos mil años. Un Arcángel de Nebadon nos recuerda: «Los débiles se conforman con los propósitos, pero los fuertes actúan. La vida sólo es el trabajo de un día —hacedlo bien. El acto es nuestro; las consecuencias pertenecen a Dios._» [[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)] ¡Ahora es el momento de actuar con valentía y sabiduría!
+Sin embargo, aquellos que tienen el coraje y la sabiduría de llevar el conocimiento de la Quinta Revelación de Época a los individuos e instituciones de nuestro mundo están participando en uno de los ministerios más importantes de nuestros tiempos. Estos evangelistas misioneros abrirán la puerta a una dinámica espiritual que sin duda transformará nuestro planeta en los próximos mil años. Un Arcángel de Nebadon nos recuerda: «Los débiles se conforman con los propósitos, pero los fuertes actúan. La vida sólo es el trabajo de un día —hacedlo bien. El acto es nuestro; las consecuencias pertenecen a Dios._» <a id="a175_610"></a>[[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)] ¡Ahora es el momento de actuar con valentía y sabiduría!
 
 > _El Dr. Meredith J. Sprunger es presidente de_ The Spiritual Fellowship _y fundador y editor emérito de_ The Spiritual Fellowship Journal. _Vive en Fort Wayne, Indiana con su esposa, Irene. Puede comunicarse con el Dr. Sprunger en:_
 >
 >mjsprunger@aol.com
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscientes de una mejor elección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="pr-2">Misterios cuánticos y los documentos de Urantia, Parte I de II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

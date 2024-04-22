@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Jean Barr<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la hermandad del hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="pr-2">La religión de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -55,10 +79,35 @@ Estos cambios sólo pueden ser implementados por el individuo, no por la iglesia
 
 > _La humanidad en su conjunto no tiene objetivos espirituales para hoy y, en realidad, tampoco para el futuro. Las visiones pueriles de volar en una nube con un arpa, o visiones igualmente irreales del cosmos espiritual, no atraen a la persona inteligente. Las personas que buscan en todo el mundo están hambrientas de la visión inspiradora de la realidad infinita que se encuentra en _El Libro de Urantia_.
 
-_El Libro de Urantia_ dice que «Las metas, más que los credos, deberían unificar a los religiosos» ([LU 99:5.7](/es/The_Urantia_Book/99#p5_7)) y eso es lo que yo y mis alumnos enseñamos: la meta de la Conciencia Cósmica o la Autotrascendencia. Trasciende todas las doctrinas y dogmas religiosos. Cualquier religión que se base en la creencia en Dios debe estar de acuerdo en que se supone que debemos hacer de este un mundo mejor y, a menos que el individuo cambie dramáticamente, el mundo no cambiará para mejor.
+_El Libro de Urantia_ dice que «Las metas, más que los credos, deberían unificar a los religiosos» (<a id="a81_100"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)) y eso es lo que yo y mis alumnos enseñamos: la meta de la Conciencia Cósmica o la Autotrascendencia. Trasciende todas las doctrinas y dogmas religiosos. Cualquier religión que se base en la creencia en Dios debe estar de acuerdo en que se supone que debemos hacer de este un mundo mejor y, a menos que el individuo cambie dramáticamente, el mundo no cambiará para mejor.
 
-«Hace mil novecientos años, los galileos ignorantes contemplaron a Jesús dando su vida como una contribución espiritual a la experiencia interior del hombre y luego salieron y pusieron patas arriba a todo el Imperio Romano». ([LU 195:6.9](/es/The_Urantia_Book/195#p6_9)) No somos «galileos ignorantes»; por lo tanto, debemos enseñar al mundo las metas que se pueden alcanzar aquí (en esta vida), no sólo una vaga «esperanza del cielo». Debemos inspirar a la humanidad con: (1) la realidad de la Autotrascendencia o Conciencia Cósmica, (2) la realidad de una vida sin miedo y una relación más cercana con Dios, y (3) la actualidad de la modificación de cualquier persona que esté dispuesta a cambien sus patrones de hábitos y transformen sus miedos en reacciones positivas de una fe viva. ¡Y sólo esta disciplina, inspirada por el Espíritu de Dios que mora en nosotros, producirá la felicidad engendrada por la hermandad del hombre y la Paternidad de Dios en este planeta!
+«Hace mil novecientos años, los galileos ignorantes contemplaron a Jesús dando su vida como una contribución espiritual a la experiencia interior del hombre y luego salieron y pusieron patas arriba a todo el Imperio Romano». (<a id="a83_226"></a>[LU 195:6.9](/es/The_Urantia_Book/195#p6_9)) No somos «galileos ignorantes»; por lo tanto, debemos enseñar al mundo las metas que se pueden alcanzar aquí (en esta vida), no sólo una vaga «esperanza del cielo». Debemos inspirar a la humanidad con: (1) la realidad de la Autotrascendencia o Conciencia Cósmica, (2) la realidad de una vida sin miedo y una relación más cercana con Dios, y (3) la actualidad de la modificación de cualquier persona que esté dispuesta a cambien sus patrones de hábitos y transformen sus miedos en reacciones positivas de una fe viva. ¡Y sólo esta disciplina, inspirada por el Espíritu de Dios que mora en nosotros, producirá la felicidad engendrada por la hermandad del hombre y la Paternidad de Dios en este planeta!
 
 > _Jean Barr, además de tener una exitosa carrera empresarial, ahora es ministro, conferencista y profesor de conceptos del_ Libro de Urantia. _Es fundadora y presidenta de The Michaels Foundation, Inc._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la hermandad del hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="pr-2">La religión de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

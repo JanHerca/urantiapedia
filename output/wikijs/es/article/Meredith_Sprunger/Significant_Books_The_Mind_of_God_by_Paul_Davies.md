@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Service_Motive_Emerging">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El motivo de servicio emergente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Reflections_on_the_Soul">
+          <span class="pr-2">Reflexiones sobre el alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **«La Mente de Dios (La Base Científica para un Mundo Racional)» por Paul Davies**
@@ -25,3 +49,28 @@ Hay muchos tipos de respuestas filosóficas a esta pregunta. Davies examina solu
 
 El último capítulo de La Mente de Dios comienza así: «La esencia de este libro ha sido rastrear la lógica de la racionalidad científica hasta donde sea posible en la búsqueda de respuestas definitivas al misterio de la existencia». (p. 223) Davies observa que la respuesta final a este misterio está más allá de los límites de la ciencia y la lógica. Sugiere que la intuición mística (una experiencia de primera mano de la Realidad) es el único tipo de conocimiento que puede aportar este tipo de comprensión significativa.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Service_Motive_Emerging">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El motivo de servicio emergente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Reflections_on_the_Soul">
+          <span class="pr-2">Reflexiones sobre el alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

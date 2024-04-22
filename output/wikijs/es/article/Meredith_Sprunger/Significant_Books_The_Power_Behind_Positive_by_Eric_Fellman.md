@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Real_Jesus_by_Luke_Timothy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: el verdadero Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="pr-2">Serie de sermones sobre crecimiento espiritual: Parte 2, Reconociendo la bondad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Eric Fellman
@@ -24,3 +48,28 @@ Fellman construye una pirámide de vida básica de valores espirituales clave qu
 
 La presentación de Eric Fellman de estas disciplinas espirituales clásicas me pareció interesante y esclarecedora, y las situaciones de la vida que utiliza para ilustrar estas técnicas de crecimiento espiritual son estimulantes e inspiradoras.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Real_Jesus_by_Luke_Timothy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: el verdadero Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="pr-2">Serie de sermones sobre crecimiento espiritual: Parte 2, Reconociendo la bondad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Merlyn Cox<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destino principal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="pr-2">Cómo puede contribuir el libro de Urantia a la Iglesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Creo que una de las reacciones iniciales más generalizadas e inhibidoras ante _El Libro de Urantia_, aparte de sus elementos aparentemente gnósticos, proviene de nuestras suposiciones sobre la revelación misma, es decir, que no se espera ni se necesita una revelación verdaderamente contemporánea para nuestro mundo.
@@ -35,3 +59,28 @@ Si Dios se reveló tan plenamente en la Encarnación que cualquiera que haya vis
 
 Dios no se oculta arbitrariamente: se revela intencionalmente. Si finalmente hemos alcanzado un punto en la historia del mundo que representa una disposición para mejorar nuestra comprensión del plan eterno para todos nosotros, ¿quién querría decir: «No, gracias, ya tenemos suficiente?»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destino principal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="pr-2">Cómo puede contribuir el libro de Urantia a la Iglesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

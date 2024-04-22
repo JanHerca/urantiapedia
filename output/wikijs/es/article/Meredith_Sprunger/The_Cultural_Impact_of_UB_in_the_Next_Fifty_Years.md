@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Meredith J. Sprunger<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/My_Lifes_Most_Significant_Spiritual_Event">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El acontecimiento espiritual más significativo de mi vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Geography_of_Faith">
+          <span class="pr-2">La geografía de la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Cuál será el impacto cultural de _El Libro de Urantia_ durante los próximos cincuenta años? ¿Quién de nosotros puede siquiera estar seguro de lo que sucederá mañana? La gente ha estado haciendo predicciones sobre el futuro desde los albores de la historia. Al examinar tales profecías, uno queda impresionado por la falta de precisión de un gran porcentaje de estas predicciones, incluso cuando son hechas por las personas más eruditas. A finales del siglo XIX, cuando Lord Kelvin era presidente de la Sociedad Real Británica. predijo que la radio no tendría futuro, que las máquinas voladoras más pesadas que el aire eran imposibles y que los rayos X resultarían ser un engaño. El Dr. James Bryant Conant, presidente de la Universidad de Harvard, al dirigirse a la Sociedad Química Estadounidense en 1951, predijo que para 1985 se aprovecharía la energía solar y la energía sería tan barata y abundante que se destilaría agua dulce del océano y los desiertos se transformarían. en lugares del jardín. No sólo nuestros mejores pronósticos son a menudo inexactos, sino que acontecimientos históricos inesperados cambian el contexto de toda la situación cultural. Sin embargo, los seres humanos son futuristas incurables; Nos encanta mirar hacia lo desconocido y construir un escenario de futuro. Aunque nuestra visión pueda ser inexacta, esa anticipación de los acontecimientos del mañana es más creativa y constructiva que simplemente reaccionar ante los incidentes después de que hayan ocurrido.
@@ -68,3 +92,28 @@ Si uno o más de estos eventos inusuales ocurrieran en los próximos cincuenta a
 
 Los acontecimientos inesperados tienen su propia dinámica. Aparte de desarrollar una presencia popular estable en nuestra sociedad, poco podemos hacer para prepararnos para eventos inusuales. Cuando se produzcan estos cambios repentinos, estarán gobernados por su propio liderazgo y nuestra capacidad para responder sabiamente a la situación contemporánea. Nuestra tarea es continuar recorriendo el camino lleno de baches y pedregosos del desarrollo evolutivo. Los cambios repentinos marcarán su propio destino.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/My_Lifes_Most_Significant_Spiritual_Event">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El acontecimiento espiritual más significativo de mi vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Geography_of_Faith">
+          <span class="pr-2">La geografía de la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

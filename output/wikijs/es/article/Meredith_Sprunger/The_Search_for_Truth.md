@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Great_Theological_Challenge_of_our_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El gran desafío teológico de nuestros días</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="pr-2">La metamorfosis de la Iglesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El otoño pasado, el Dr. Richard L. Hamm, el nuevo presidente de los Discípulos de Cristo, pronunció un sermón en la Primera Iglesia Cristiana en Fort Wayne, donde anteriormente fue pastor. Ojalá todos los miembros de la iglesia en Estados Unidos hubieran podido escucharlo. El Dr. Hamm se refirió a uno de los primeros ministros Discípulos, Walter Scott, cuyo sermón, «Un ejercicio de cinco dedos», ayudó a estructurar el mensaje de la iglesia. Si no recuerdo mal, los «cinco dedos» eran: la fe, la Biblia, el arrepentimiento, el bautismo y el Espíritu Santo.
@@ -19,3 +43,28 @@ Necesitamos la guía fundamental de la revelación en la base de nuestros esfuer
 
 En este sermón espiritualmente perspicaz, el Dr. Hamm enfatizó en gran medida, sin duda sin saberlo, el mensaje filosófico-teológico básico de _El Libro de Urantia_. Ojalá todos los ministros tuvieran esta fuente incomparable de sabiduría espiritual como recurso en su enseñanza y predicación. Creo que con el tiempo esto sucederá.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Great_Theological_Challenge_of_our_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El gran desafío teológico de nuestros días</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="pr-2">La metamorfosis de la Iglesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

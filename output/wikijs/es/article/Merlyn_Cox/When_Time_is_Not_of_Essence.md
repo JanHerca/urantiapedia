@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Merlyn Cox<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un llamado al avivamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="pr-2">Reflexiones sobre la hermandad del hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A medida que crecí, mi visión de la historia cambió; no sólo mi comprensión, sino mi sentido de lo que es verdaderamente antiguo y lo que es reciente. Cuando era niño, tendía a ver cualquier cosa más larga que el presente como un largo tiempo pasado o un largo tiempo hacia el futuro. Gradualmente, mi visión de las cosas se alargó, pero tendió a fijarse en mi generación, mi vida, como la medida de todas las cosas significativas. Sólo en años más recientes ha crecido mucho más allá de eso. Ahora comprimo la historia en bloques más grandes, donde los acontecimientos de hace mil o incluso diez mil años no parecen tan lejanos.
@@ -25,7 +49,7 @@ Algunos pueden caer en el pensamiento milenialista, tratando de vincular los eve
 
 Hay una historia apócrifa relacionada con _El Libro de Urantia_ que creo que es interesante y útil. Según la historia, los responsables de iniciar el proceso que condujo a _El Libro de Urantia_ inicialmente solicitaron a las autoridades superiores que comenzaran este proyecto hacia finales del siglo XII, sintiendo que era el momento adecuado para tal avance en conocimiento y comprensión. Fue negado. No era el momento adecuado. Sólo después de 800 años más se concedió el permiso. En retrospectiva, podemos ver cuántas cosas tuvieron que suceder, especialmente la revolución científica y tecnológica, antes de que estuviéramos preparados para tal revelación. A los involucrados en la recepción de los documentos se les dijo que incluso entonces (entre los años 1930 y 1950), era principalmente para las generaciones venideras.
 
-No sabemos cuántas generaciones vendrán y pasarán antes de que _El Libro de Urantia_ sea ampliamente leído y recibido como una revelación para nuestro planeta. No es necesario. Combinando nuestro impulso de compartir con paciencia y sabiduría, podemos estar seguros de que si bien «el acto es nuestro, las consecuencias [son] de Dios». ([LU 117:5.5](/es/The_Urantia_Book/117#p5_5))
+No sabemos cuántas generaciones vendrán y pasarán antes de que _El Libro de Urantia_ sea ampliamente leído y recibido como una revelación para nuestro planeta. No es necesario. Combinando nuestro impulso de compartir con paciencia y sabiduría, podemos estar seguros de que si bien «el acto es nuestro, las consecuencias [son] de Dios». (<a id="a51_337"></a>[LU 117:5.5](/es/The_Urantia_Book/117#p5_5))
 
 > _Así como los primeros cristianos estaban impacientes por ver «el fin del mundo» y todas las cosas cumplidas durante su vida, así queremos ver resultados a escala global en el horizonte humano inmediato. Necesitamos el punto de vista de la eternidad para situar nuestro propio tiempo._
 
@@ -34,5 +58,30 @@ Estoy convencido de que algún día la gente recordará con tristeza y asombro c
 Sobre todo, nunca debemos dejar de dar gracias porque esta revelación está aquí ahora, y es nuestra para conocerla, celebrarla y compartirla.
 
 
-> La verdadera iglesia —la fraternidad de Jesús— es invisible, espiritual y está caracterizada por la *unidad*, pero no necesariamente por la *uniformidad*. ... Esta fraternidad está destinada a convertirse en un *organismo viviente*, en contraste con una organización social institucionalizada. Puede utilizar muy bien estas organizaciones sociales, pero no debe ser sustituida por ellas. ([LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
+> La verdadera iglesia —la fraternidad de Jesús— es invisible, espiritual y está caracterizada por la *unidad*, pero no necesariamente por la *uniformidad*. ... Esta fraternidad está destinada a convertirse en un *organismo viviente*, en contraste con una organización social institucionalizada. Puede utilizar muy bien estas organizaciones sociales, pero no debe ser sustituida por ellas. (<a id="a60_391"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un llamado al avivamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="pr-2">Reflexiones sobre la hermandad del hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

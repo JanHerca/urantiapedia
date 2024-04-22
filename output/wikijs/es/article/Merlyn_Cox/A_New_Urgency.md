@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Merlyn Cox<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joan_Batson_Mullins/Significant_Books_Practicing_His_Presence_by_Frank_Laubach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Practicando su presencia, por Frank Laubach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Forgotten_Urantian_Don_Deam">
+          <span class="pr-2">Urantianos olvidados - Don Deam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los acontecimientos recientes literalmente han hecho evidente la necesidad de que el mundo escuche la Buena Nueva, y la escuche sin prejuicios y conflictos culturales. Las condiciones que dan origen al odio, los prejuicios y la intolerancia son complejas desde el punto de vista económico y cultural, pero simples en términos de la naturaleza humana básica. Tales condiciones siempre existirán mientras no reconozcamos a los demás como hermanos y hermanas en la familia humana del único Padre-Creador divino. Los lectores de _El Libro de Urantia_ sin duda sienten una nueva urgencia al compartir el mensaje de la Quinta Revelación de Época.
@@ -21,3 +45,28 @@ Pero lo hizo. La urgencia de su tarea siempre estuvo ahí, pero también la paci
 
 Así que mientras realizamos nuestras tareas, oro por un sentido de urgencia y paciencia, porque como embajadores de la Quinta Revelación de Época, creo que necesitaremos ambos, en igual medida.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joan_Batson_Mullins/Significant_Books_Practicing_His_Presence_by_Frank_Laubach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Practicando su presencia, por Frank Laubach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Forgotten_Urantian_Don_Deam">
+          <span class="pr-2">Urantianos olvidados - Don Deam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

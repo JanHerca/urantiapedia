@@ -9,13 +9,37 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Kenneth Glasziou<br>© 2004 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración y adoración como debemos entenderla</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="pr-2">Jesús y la cruz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (El énfasis en el artículo es del autor)
 
-> «Los mecanismos no dominan de manera absoluta toda la creación; el universo de universos *en su totalidad* está planeado por la mente, construido por la mente y administrado por la mente.» ([LU 42:11.2](/es/The_Urantia_Book/42#p11_2))
+> «Los mecanismos no dominan de manera absoluta toda la creación; el universo de universos *en su totalidad* está planeado por la mente, construido por la mente y administrado por la mente.» (<a id="a39_192"></a>[LU 42:11.2](/es/The_Urantia_Book/42#p11_2))
 
-> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, ***que se atrevan a construir una nueva y atrayente filosofía*** de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor._ ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, ***que se atrevan a construir una nueva y atrayente filosofía*** de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor._ (<a id="a41_731"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 Los autores de la revelación de Urantia presentaron sus propias calificaciones en lo que seguramente debe ser uno de los libros más notables jamás escritos, una obra que sería aún más notable si realmente la escribieran seres humanos.
 
@@ -191,17 +215,17 @@ Con la ciencia idealista hemos llegado a una ciencia que no excluye ni lo subjet
 
 (Tenga en cuenta que las palabras «conciencia» y «mente» no están definidas con precisión ni en la filosofía ni en la revelación de Urantia y tienden a ser intercambiables).
 
-> «_En la valoración y el reconocimiento de la mente, se debe recordar que ***el universo*** no es ni mecánico ni mágico; ***es una creación de la mente*** y un mecanismo con leyes._» ([LU 42:11.1](/es/The_Urantia_Book/42#p11_1))
+> «_En la valoración y el reconocimiento de la mente, se debe recordar que ***el universo*** no es ni mecánico ni mágico; ***es una creación de la mente*** y un mecanismo con leyes._» (<a id="a217_185"></a>[LU 42:11.1](/es/The_Urantia_Book/42#p11_1))
 
-> «_Los mecanismos no dominan de manera absoluta toda la creación; ***el universo de universos en su totalidad está planeado por la mente, construido por la mente y administrado por la mente***. Pero el mecanismo divino del universo de universos es demasiado perfecto como para que los métodos científicos de la mente finita del hombre puedan discernir siquiera una huella de la dominación de la mente infinita. Pues esta mente creadora, controladora y sostenedora no es ni una mente material ni la mente de una criatura; es una mente espiritual que ejerce su actividad en, y desde, los niveles creadores de la realidad divina._» ([LU 42:11.2](/es/The_Urantia_Book/42#p11_2))
+> «_Los mecanismos no dominan de manera absoluta toda la creación; ***el universo de universos en su totalidad está planeado por la mente, construido por la mente y administrado por la mente***. Pero el mecanismo divino del universo de universos es demasiado perfecto como para que los métodos científicos de la mente finita del hombre puedan discernir siquiera una huella de la dominación de la mente infinita. Pues esta mente creadora, controladora y sostenedora no es ni una mente material ni la mente de una criatura; es una mente espiritual que ejerce su actividad en, y desde, los niveles creadores de la realidad divina._» (<a id="a219_631"></a>[LU 42:11.2](/es/The_Urantia_Book/42#p11_2))
 
-> «_*La mente cósmica*. Es la séptuple mente diversificada del tiempo y del espacio, y cada uno de los Siete Espíritus Maestros aporta su ministerio a una fase de esta mente en uno de los siete superuniversos. La mente cósmica abarca todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolutiva de la Mente Suprema, coordinándose trascendentalmente con los niveles existenciales de la mente absoluta —con los circuitos directos del Actor Conjunto._» ([LU 42:10.6](/es/The_Urantia_Book/42#p10_6))
+> «_*La mente cósmica*. Es la séptuple mente diversificada del tiempo y del espacio, y cada uno de los Siete Espíritus Maestros aporta su ministerio a una fase de esta mente en uno de los siete superuniversos. La mente cósmica abarca todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolutiva de la Mente Suprema, coordinándose trascendentalmente con los niveles existenciales de la mente absoluta —con los circuitos directos del Actor Conjunto._» (<a id="a221_498"></a>[LU 42:10.6](/es/The_Urantia_Book/42#p10_6))
 
-> «_El Padre Universal es la única personalidad en todo el universo que sabe realmente el número de las estrellas y de los planetas del espacio. Todos los mundos de cada universo están constantemente en la ***conciencia*** de Dios._» ([LU 3:3.2](/es/The_Urantia_Book/3#p3_2))
+> «_El Padre Universal es la única personalidad en todo el universo que sabe realmente el número de las estrellas y de los planetas del espacio. Todos los mundos de cada universo están constantemente en la ***conciencia*** de Dios._» (<a id="a223_235"></a>[LU 3:3.2](/es/The_Urantia_Book/3#p3_2))
 
-> «_Dios posee un poder ilimitado para conocer todas las cosas; su ***conciencia*** es universal. Su circuito personal abarca a todas las personalidades, y su conocimiento de las criaturas, incluidas las humildes, lo completa indirectamente mediante la serie descendente de los Hijos divinos, y directamente a través de los Ajustadores del Pensamiento interiores._» ([LU 3:3.3](/es/The_Urantia_Book/3#p3_3))
+> «_Dios posee un poder ilimitado para conocer todas las cosas; su ***conciencia*** es universal. Su circuito personal abarca a todas las personalidades, y su conocimiento de las criaturas, incluidas las humildes, lo completa indirectamente mediante la serie descendente de los Hijos divinos, y directamente a través de los Ajustadores del Pensamiento interiores._» (<a id="a225_367"></a>[LU 3:3.3](/es/The_Urantia_Book/3#p3_3))
 
-> «_El Padre Universal es consciente, en la plenitud de la ***conciencia*** divina, de toda la experiencia individual de las luchas progresivas de las mentes en expansión y de los espíritus ascendentes de cada entidad, ser y personalidad de toda la creación evolutiva del tiempo y del espacio. Y todo esto es literalmente cierto, porque «***en Él todos vivimos, nos movemos y tenemos nuestra existencia***»._» ([LU 1:5.16](/es/The_Urantia_Book/1#p5_16))
+> «_El Padre Universal es consciente, en la plenitud de la ***conciencia*** divina, de toda la experiencia individual de las luchas progresivas de las mentes en expansión y de los espíritus ascendentes de cada entidad, ser y personalidad de toda la creación evolutiva del tiempo y del espacio. Y todo esto es literalmente cierto, porque «***en Él todos vivimos, nos movemos y tenemos nuestra existencia***»._» (<a id="a227_411"></a>[LU 1:5.16](/es/The_Urantia_Book/1#p5_16))
 
 ***(continuará...)***
 
@@ -210,3 +234,28 @@ Con la ciencia idealista hemos llegado a una ciencia que no excluye ni lo subjet
 > También publica [«Interface International»](/es/index/articles_innerface) de donde está tomado este artículo, con permiso del autor.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración y adoración como debemos entenderla</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="pr-2">Jesús y la cruz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

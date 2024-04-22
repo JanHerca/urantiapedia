@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="pr-2">Desafío ecuménico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Existe una marcada divergencia de opiniones en el movimiento Urantia sobre el uso de los derechos de autor y las marcas de servicio asociadas con _El Libro de Urantia_. Me he abstenido de expresar plenamente mi opinión sobre estos temas porque tengo amigos cercanos en ambos lados de esta controversia y porque prefiero evitar la participación política. La actividad de extensión y el ministerio espiritual, en mi opinión, son las actividades más importantes que necesita nuestra sociedad.
@@ -36,3 +60,28 @@ Creo que es bueno que la Fundación tenga marcas de servicio. Pero creo que es l
 
 Es mi esperanza y oración que podamos tener unidad de propósito en medio de la diversidad de opiniones y actividades. Deberíamos apoyar a la Fundación en su publicación de traducciones y materiales de estudio del Libro de Urantia. Es mi convicción que, a pesar de errores y controversias, la Quinta Revelación de Época se abrirá paso en el mundo y lo transformará en los próximos 2000 años.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="pr-2">Desafío ecuménico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

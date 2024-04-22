@@ -9,11 +9,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Janet Farrington<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="pr-2">Un nuevo comienzo para la unidad religiosa mundial (Parte II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introducción editorial
 
-_Para la mayoría de nosotros que crecimos en la civilización occidental, aunque éramos miembros activos y conocedores de la iglesia, el descubrimiento de_ El Libro de Urantia _abrió una nueva y emocionante visión de la Realidad. Además de la centralidad de la Trinidad,_ El Libro de Urantia _describe Absolutos de potencialidad y un aspecto evolutivo de la Deidad, llamado Dios Supremo. El Supremo crece a medida que las personalidades de los universos en evolución alcanzan la semejanza de Dios. Esta creciente actualización de la Deidad está muy cerca de los conceptos de Deidad en los escritos de Jung, Teilhard de Chardin y Whitehead. El Supremo es ese aspecto evolutivo de la Deidad en el que «vivimos, nos movemos y tenemos nuestro ser». Dios Supremo es el útero cósmico en el que crece el potencial finito, la Madre Universal de la creación finita en evolución. El Supremo es el reino de lo actual y lo potencial: «La gran lucha de esta era universal es entre lo potencial y lo real: la búsqueda de la actualización por parte de todo lo que aún no se ha expresado»._ ([LU 117:4.11](/es/The_Urantia_Book/117#p4_11))
+_Para la mayoría de nosotros que crecimos en la civilización occidental, aunque éramos miembros activos y conocedores de la iglesia, el descubrimiento de_ El Libro de Urantia _abrió una nueva y emocionante visión de la Realidad. Además de la centralidad de la Trinidad,_ El Libro de Urantia _describe Absolutos de potencialidad y un aspecto evolutivo de la Deidad, llamado Dios Supremo. El Supremo crece a medida que las personalidades de los universos en evolución alcanzan la semejanza de Dios. Esta creciente actualización de la Deidad está muy cerca de los conceptos de Deidad en los escritos de Jung, Teilhard de Chardin y Whitehead. El Supremo es ese aspecto evolutivo de la Deidad en el que «vivimos, nos movemos y tenemos nuestro ser». Dios Supremo es el útero cósmico en el que crece el potencial finito, la Madre Universal de la creación finita en evolución. El Supremo es el reino de lo actual y lo potencial: «La gran lucha de esta era universal es entre lo potencial y lo real: la búsqueda de la actualización por parte de todo lo que aún no se ha expresado»._ (<a id="a39_1075"></a>[LU 117:4.11](/es/The_Urantia_Book/117#p4_11))
 
 ## El desafío de la paternidad
 
@@ -31,7 +55,7 @@ Los padres humanos tienen completa responsabilidad por este papel en las vidas d
 
 Sin esta presencia, sin una presencia constante y amorosa de los padres, los hijos de Dios no desarrollarán todo su potencial. Y por esta razón, la vida familiar proporciona la base más importante sobre la cual se alcanza el destino humano y la realización de la Deidad del Supremo.
 
-> EN LA medida en que hacemos la voluntad de Dios en cualquier lugar del universo donde podamos tener nuestra existencia, el potencial todopoderoso del Supremo se manifiesta un paso más. ([LU 117:0.1](/es/The_Urantia_Book/117#p0_1))
+> EN LA medida en que hacemos la voluntad de Dios en cualquier lugar del universo donde podamos tener nuestra existencia, el potencial todopoderoso del Supremo se manifiesta un paso más. (<a id="a57_188"></a>[LU 117:0.1](/es/The_Urantia_Book/117#p0_1))
 
 ## La Familia como Microcosmos del Supremo
 
@@ -47,7 +71,7 @@ El niño reside simultáneamente dentro del Supremo, dentro de la familia de la 
 
 El niño representa un potencial casi ilimitado para la Supremacía. El niño que crece en el amoroso abrazo de una extensa familia humana experimenta el parentesco de la humanidad durante los críticos años de formación. El servicio se convierte en una extensión natural del amor por los demás. El niño que es criado como hijo de Dios por una familia amorosa crece seguro en una fe experiencial en el Padre/Maternidad de Dios. La extensión se convierte en una extensión natural del amor de Dios.
 
-> El hombre puede descubrir al Padre en su corazón, pero tendrá que buscar al Supremo en el corazón de todos los demás hombres; y cuando todas las criaturas revelen perfectamente el amor del Supremo, éste se convertirá entonces en una realidad universal para todas las criaturas. ([LU 117:6.23](/es/The_Urantia_Book/117#p6_23))
+> El hombre puede descubrir al Padre en su corazón, pero tendrá que buscar al Supremo en el corazón de todos los demás hombres; y cuando todas las criaturas revelen perfectamente el amor del Supremo, éste se convertirá entonces en una realidad universal para todas las criaturas. (<a id="a73_281"></a>[LU 117:6.23](/es/The_Urantia_Book/117#p6_23))
 
 ## Una filosofía de familia
 
@@ -55,7 +79,7 @@ Muchas personas de nuestra sociedad han señalado la necesidad de una mejor form
 
 Necesitamos que los mayores se sienten de rodillas con los niños atentos y compartan historias llenas de sabiduría y amor. Necesitamos mentores que caminen al lado de los adolescentes mientras se preparan para ingresar al mundo de los adultos definiendo valores y descubriendo metas. Necesitamos amigos que apoyen a los padres en momentos de necesidad, que ofrezcan apoyo y sustento mientras todos nos esforzamos por criar a los niños con bondad y amor. Necesitamos sentir la presencia de los demás; para tocar el espíritu interior de los demás.
 
-> El Supremo es la belleza de la armonía física, la verdad de los significados intelectuales y la bondad de los valores espirituales. Es el dulzor del éxito verdadero y la alegría de los logros perpetuos. Es la superalma del gran universo, la conciencia del cosmos finito, la culminación de la realidad finita, y la personificación de la experiencia del Creador y la criatura. ([LU 117:1.1](/es/The_Urantia_Book/117#p1_1))
+> El Supremo es la belleza de la armonía física, la verdad de los significados intelectuales y la bondad de los valores espirituales. Es el dulzor del éxito verdadero y la alegría de los logros perpetuos. Es la superalma del gran universo, la conciencia del cosmos finito, la culminación de la realidad finita, y la personificación de la experiencia del Creador y la criatura. (<a id="a81_378"></a>[LU 117:1.1](/es/The_Urantia_Book/117#p1_1))
 
 Una filosofía integral de la familia reconocería las realidades separadas, simultáneas y supremas de la vida familiar. Cada uno de nosotros pertenecemos a una familia original, una familia primaria, una familia extendida, una familia global y una familia divina. Cada nueva expresión de familia se basa en todas las expresiones anteriores y abarca todo lo que un hijo de Dios ha descubierto acerca de las relaciones amorosas.
 
@@ -69,13 +93,13 @@ El perdón es la moneda de la evolución. Sin perdón, nuestras relaciones mutua
 
 Debemos perdonar los errores de nuestros padres, tal como esperamos ser perdonados por nuestros hijos. Esto no significa olvidar. Esto no significa ignorar. No podemos esperar progresar sin comprender esas fuerzas que nos han llevado a la encrucijada de nuestras vidas como padres e hijos. En esos momentos en los que sentimos la necesidad de repetir los errores que sufrimos en nuestra infancia, necesitamos perdonar: a nuestros padres, a nosotros mismos, a nuestros hijos. Y en ese momento de perdón, el Supremo evoluciona, la familia evoluciona y el parentesco de la humanidad progresa un paso más allá de lo que era un momento antes. En ese momento de perdón la realidad de Dios se refleja en la vida de un niño humano.
 
-Debemos perdonar los errores de nuestros hermanos y hermanas, tal como esperamos ser perdonados por ellos. Esto no significa que debamos ignorar el mal. Esto no significa que debamos pasar por alto la injusticia. No podemos esperar progresar sin un examen sabio de las decisiones y acciones que dan forma a nuestro mundo, y no podemos esperar progresar sin una respuesta amable. La necesidad de criticar a los demás suele ser más fuerte que el deseo de perdonar y fomentar la resolución; sin embargo, un conflicto continuo hace muy poco por hacer evolucionar al Supremo. La falta de perdón y resolución retarda la evolución tanto como las formas más obvias de maldad e injusticia: «Los frutos del espíritu son la sustancia del Supremo tal como es realizable en la experiencia humana». ([LU 117:6.17](/es/The_Urantia_Book/117#p6_17))
+Debemos perdonar los errores de nuestros hermanos y hermanas, tal como esperamos ser perdonados por ellos. Esto no significa que debamos ignorar el mal. Esto no significa que debamos pasar por alto la injusticia. No podemos esperar progresar sin un examen sabio de las decisiones y acciones que dan forma a nuestro mundo, y no podemos esperar progresar sin una respuesta amable. La necesidad de criticar a los demás suele ser más fuerte que el deseo de perdonar y fomentar la resolución; sin embargo, un conflicto continuo hace muy poco por hacer evolucionar al Supremo. La falta de perdón y resolución retarda la evolución tanto como las formas más obvias de maldad e injusticia: «Los frutos del espíritu son la sustancia del Supremo tal como es realizable en la experiencia humana». (<a id="a95_786"></a>[LU 117:6.17](/es/The_Urantia_Book/117#p6_17))
 
 El Supremo no evoluciona como resultado del éxito, poder, prestigio o posición adquirida por un individuo. El Supremo evoluciona como resultado de las relaciones amorosas actualizadas entre los individuos. Y estas relaciones dependen del perdón, el tacto, la tolerancia, el estímulo y la bondad. No hay límite para el poder del amor; si motiva toda conducta, puede soportar todas las respuestas. Esto es especialmente cierto en la familia. No hay mejor manera de enseñar respeto a los niños que tratarlos con respeto. No hay mejor manera de revelar la existencia de Dios que reflejar el amor de Dios.
 
 Si el perdón es la moneda de la evolución, entonces la familia es el banco del Supremo. El interés que se acumula como resultado del perdón y el amor en la familia crece exponencialmente a lo largo de la eternidad. Los niños a quienes se les perdonan sus faltas en su familia original aprenden a perdonar a sus propios hijos en su familia primaria. Las personas a quienes se les perdonan sus errores en la familia extensa, aprenden a perdonar a todos sus hermanos y hermanas en la familia global. Estas inversiones humanas tienen valor espiritual. Estos son los dividendos que hacen evolucionar al Supremo.
 
-> Cuando encontréis al Padre, habréis encontrado la gran causa de vuestra ascensión espiritual por los universos; cuando encontréis al Supremo, descubriréis el gran resultado de vuestra carrera de progreso hacia el Paraíso. ([LU 117:6.26](/es/The_Urantia_Book/117#p6_26))
+> Cuando encontréis al Padre, habréis encontrado la gran causa de vuestra ascensión espiritual por los universos; cuando encontréis al Supremo, descubriréis el gran resultado de vuestra carrera de progreso hacia el Paraíso. (<a id="a101_225"></a>[LU 117:6.26](/es/The_Urantia_Book/117#p6_26))
 
 El Padre es la causa, el Supremo es el resultado. Creo que la familia es el camino: El camino para integrar los valores espirituales con el progreso social; la manera de iniciar el Padre/Maternidad e invertir en el hermano/hermandad; la manera de realizar el valor cósmico de la experiencia finita como hijo de Dios en la familia de la humanidad. La familia puede proporcionar un refugio seguro, un abrazo amoroso, un lugar al que recurrir cuando la vida se pone difícil.
 
@@ -84,3 +108,28 @@ La familia de lectores del _Libro de Urantia_ es una familia extensa inspirada p
 > _Janel Farrington, estudiante de_ El libro de Urantia _desde hace mucho tiempo, es vicepresidente de la Fellowship para lectores de_ El libro de Urantia. _Es mediadora familiar y también imparte formación en gestión para organizaciones empresariales y escolares._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="pr-2">Un nuevo comienzo para la unidad religiosa mundial (Parte II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

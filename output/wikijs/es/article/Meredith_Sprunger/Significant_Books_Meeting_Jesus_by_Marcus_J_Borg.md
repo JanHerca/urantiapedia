@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Meredith J. Sprunger<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Misterio de la Trinidad: Unidad en la Pluralidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="pr-2">El encuentro transformador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Marco J. Borg
@@ -31,3 +55,28 @@ Durante las últimas dos décadas, un movimiento conocido como teología de la h
 
 La fuerza de la honestidad intelectual de la erudición bíblica contemporánea, junto con su falta de evidencia en la comprensión de la divinidad de Jesús, subraya la gran necesidad en el cristianismo tradicional de las ideas inspiradoras de _El Libro de Urantia_. _El Libro de Urantia_ La cristología refuerza tanto la fe cristiana histórica en la divinidad de Jesús como muchas de las ideas de la erudición moderna. Nos libera de la religión divisiva acerca de Jesús y vuelve a enfatizar y magnificar la religión de Jesús.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Misterio de la Trinidad: Unidad en la Pluralidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="pr-2">El encuentro transformador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

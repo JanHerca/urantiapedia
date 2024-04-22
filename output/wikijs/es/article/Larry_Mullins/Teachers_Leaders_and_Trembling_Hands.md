@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Larry Mullins<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/View_From_the_Trenches">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: Vista desde las trincheras</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="pr-2">Salmos hoy: servicio creativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A los primeros urantianos se les dijo, según un memorando escrito por Bill Sadler, Jr. en 1955, titulado [_El momento del libro de Urantia_](/es/article/The_Publication_Mandate), que los Documentos de Urantia pertenecían a «la era que siguió inmediatamente a la conclusión de la actual lucha ideológica». Afortunadamente para nosotros, _El Libro de Urantia_ no se retrasó hasta el colapso del comunismo ruso. A los primeros urantianos también se les dijo:
@@ -33,7 +57,32 @@ Ha llegado la hora para estos maestros y servidores líderes urantianos desconoc
 
 Los urantianos están unidos por una visión compartida de la misión de los Documentos de Urantia. Cada uno de nosotros lleva una parte de esa visión, y el compuesto lo formará el «Genio del Pueblo». Nuestro círculo será tan amplio como sea necesario para incluir a cada persona de buena voluntad. Nuestra política será simple y exclusivamente el mayor bien para todos los interesados. Nuestra religión será urantiana.
 
-Hace más de seis décadas se escribió: «_Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual_». ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) Más de seis décadas es mucho tiempo para que los urantianos tiemblen. Muchos urantianos ahora miran hacia adentro y escuchan una voz suave y apacible que dice: «_Levántate ahora, te necesito. Salir adelante._»
+Hace más de seis décadas se escribió: «_Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual_». (<a id="a59_212"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) Más de seis décadas es mucho tiempo para que los urantianos tiemblen. Muchos urantianos ahora miran hacia adentro y escuchan una voz suave y apacible que dice: «_Levántate ahora, te necesito. Salir adelante._»
 
-Como declaró el Maestro en [LU 155:6.5](/es/The_Urantia_Book/155#p6_5): «_La religión del espíritu os deja eternamente libres para seguir la verdad, dondequiera que os lleven las directrices del espíritu. ¿Y quién puede juzgar —quizás este espíritu tenga algo que comunicar a esta generación, que las otras generaciones han rehusado escuchar?_»
+Como declaró el Maestro en <a id="a61_27"></a>[LU 155:6.5](/es/The_Urantia_Book/155#p6_5): «_La religión del espíritu os deja eternamente libres para seguir la verdad, dondequiera que os lleven las directrices del espíritu. ¿Y quién puede juzgar —quizás este espíritu tenga algo que comunicar a esta generación, que las otras generaciones han rehusado escuchar?_»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/View_From_the_Trenches">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: Vista desde las trincheras</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="pr-2">Salmos hoy: servicio creativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

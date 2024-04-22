@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Meredith J. Sprunger<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/A_Question_of_Priorities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una cuestión de prioridades</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Durante los primeros cuarenta y cinco años de su historia, el movimiento Urantia ha evolucionado desde un puñado de lectores en Chicago hasta cientos de grupos de estudio y decenas de miles de lectores en todo el mundo. Sin publicidad ni promoción masiva, se han vendido unos 500.000 ejemplares de _El Libro de Urantia_ y hay traducciones disponibles en muchos de los idiomas del mundo. Se encuentran disponibles versiones en audio y por computadora del libro y se han publicado numerosas ayudas para el estudio. Se celebran Congresos Regionales e Internacionales y proliferan los trabajos secundarios.
@@ -21,3 +42,25 @@ El núcleo sólido del movimiento Urantia ha superado estas tribulaciones con de
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/A_Question_of_Priorities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una cuestión de prioridades</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

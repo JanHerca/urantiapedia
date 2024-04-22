@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/On_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los valores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bienaventurados aquellos que alcanzan la conciencia de Dios, porque son capaces de ver la dimensión espiritual de la Realidad.
@@ -37,3 +58,25 @@ Un conocimiento cada vez más profundo del Supremo nos da una seguridad inquebra
 
 mientras las certezas terrenales se desmoronan. (128)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/On_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los valores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

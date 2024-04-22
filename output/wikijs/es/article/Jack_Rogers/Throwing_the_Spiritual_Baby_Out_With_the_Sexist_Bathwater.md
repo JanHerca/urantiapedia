@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Jack Rogers<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sintonizando la vida interior y exterior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/A_Teacher_Sent_From_God">
+          <span class="pr-2">«Un maestro enviado por Dios»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **MÚSICA EN ADORACIÓN**
@@ -45,5 +69,30 @@ Pero el crecimiento evolutivo suele tener lugar lentamente en la iglesia y en la
 
 De hecho, una gran verdad reside en los himnos de generaciones anteriores. No perdamos su mensaje en nuestra prisa por respaldar nuevas tendencias. ¡Debemos tener cuidado de no tirar al bebé espiritual con el agua del baño sexista!
 
-> La religión de Jesús es la influencia más dinámica que haya activado nunca a la raza humana. Jesús hizo pedazos las tradiciones, destruyó los dogmas e invitó a la humanidad a que realizara sus ideales más elevados en el tiempo y en la eternidad —a ser perfecta como el Padre que está en los cielos es perfecto. ([LU 99:5.3](/es/The_Urantia_Book/99#p5_3))
+> La religión de Jesús es la influencia más dinámica que haya activado nunca a la raza humana. Jesús hizo pedazos las tradiciones, destruyó los dogmas e invitó a la humanidad a que realizara sus ideales más elevados en el tiempo y en la eternidad —a ser perfecta como el Padre que está en los cielos es perfecto. (<a id="a71_314"></a>[LU 99:5.3](/es/The_Urantia_Book/99#p5_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sintonizando la vida interior y exterior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/A_Teacher_Sent_From_God">
+          <span class="pr-2">«Un maestro enviado por Dios»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

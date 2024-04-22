@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Meredith Sprunger<br>© 2004 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión en transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="pr-2">¿Estamos comenzando una nueva religión?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Toda vida progresista comienza con la motivación y el coraje para explorar nuevas posibilidades y lo desconocido. Requiere esfuerzo y determinación y está salvaguardado por la sabiduría. Vivir al amparo de marcos de referencia y valores tradicionales permite evitar en gran medida desafíos y conflictos.
@@ -21,3 +45,28 @@ La Quinta Revelación de Época seguirá un patrón similar. Habrá un largo per
 
 Ahora estamos entrando en un extenso intervalo histórico en el que la Quinta Revelación de Época parece estar más o menos inactiva, pero en realidad está atravesando un período de gestación en el que se están produciendo acontecimientos que preparan nuestro mundo para una nueva era. Aquellos de nosotros que tenemos la suerte de estar activos en el útero del tiempo tenemos la feliz oportunidad de contribuir al borde de la iluminación espiritual. Es un tiempo de libertad para la actividad creativa, un tiempo para disfrutar de los acontecimientos sutiles que dan forma al futuro, un tiempo de alegría que anticipa el advenimiento de una nueva era.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión en transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="pr-2">¿Estamos comenzando una nueva religión?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

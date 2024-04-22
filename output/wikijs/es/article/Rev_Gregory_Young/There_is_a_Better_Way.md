@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Rev. Gregory Young<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación y paciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="pr-2">El amor insondable de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Era un hermoso día de verano y Clarence disfrutaba remando en el bote con su encantadora novia, anticipando el picnic que harían cuando llegaran a la isla en el centro del lago. Eran los días en que los jóvenes y las jóvenes vestían en público algo más que pantalones cortos y camisetas.
@@ -39,3 +63,28 @@ A Byrun Janus le sucedió algo extraordinario. En un breve período de siete mes
 
 A través de la vida y la creatividad de Byrun Janus, se nos da una visión de lo que el espíritu humano puede lograr cuando se fortalece con los recursos espirituales que nuestro Padre Celestial pone a nuestra disposición. El gran psicólogo Eric Fromm lamentó una vez que muchos seres humanos hayan muerto antes de nacer del todo. Hay una manera mejor: orar para que podamos estar abiertos y receptivos a esta guía y transformación espiritual.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación y paciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="pr-2">El amor insondable de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

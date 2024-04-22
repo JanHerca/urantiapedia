@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Rev. Dan McCauley<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stan_Hartman/Fusion_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poder de fusión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Dos semanas después de la publicación del siguiente artículo, me pidieron que predicara en la Iglesia Bautista Lakeshore Drive, una iglesia que había apoyado mi ministerio. El sermón fue bien recibido._
@@ -82,3 +103,25 @@ Tratar de vivir según este credo requiere esfuerzo, lucha, conflicto, fe, deter
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stan_Hartman/Fusion_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poder de fusión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

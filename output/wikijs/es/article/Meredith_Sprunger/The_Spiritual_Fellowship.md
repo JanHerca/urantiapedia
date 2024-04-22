@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Dra. Meredith Sprunger<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alcance de la vida real</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="pr-2">La Spiritual Fellowship: ¿por qué ahora?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Durante los últimos 45 años ha habido diferencias de opinión sobre la naturaleza del movimiento Urantia. Algunos lo han considerado un movimiento religioso; otros lo han visto como un movimiento educativo con un propósito religioso. Las organizaciones oficiales (la Fundación Urantia, la Fellowship del Libro de Urantia y la Asociación Urantia Internacional) han negado que sean organizaciones religiosas. Han perdido gran parte de la dinámica del ministerio de extensión y, en cambio, están involucrados en luchas de poder político.
@@ -35,15 +59,15 @@ Nuestro Preámbulo destaca los siete conceptos más importantes que The Spiritua
 
 La era industrial fue principalmente una extensión de la fuerza muscular. La era de la información es una extensión del poder mental. La Era Caórdica[^1] promete ser una extensión de influencia, percepción y transformación espiritual. Esperamos que The Spiritual Fellowship sea el comienzo de una institución religiosa que llevará la religión de Jesús y la Quinta Revelación de Época a todo el mundo.
 
-> «Es difícil que la religión sobreviva cuando sólo es la práctica privada de unos individuos aislados. Los dirigentes religiosos siempre han cometido el siguiente error: Al observar los males de la religión institucionalizada, tratan de destruir la técnica de las actividades en grupo. En lugar de destruir todo el ritual, harían mejor en reformarlo.» ([LU 97:10.7](/es/The_Urantia_Book/97#p10_7))
+> «Es difícil que la religión sobreviva cuando sólo es la práctica privada de unos individuos aislados. Los dirigentes religiosos siempre han cometido el siguiente error: Al observar los males de la religión institucionalizada, tratan de destruir la técnica de las actividades en grupo. En lugar de destruir todo el ritual, harían mejor en reformarlo.» (<a id="a61_354"></a>[LU 97:10.7](/es/The_Urantia_Book/97#p10_7))
 
-> «Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña.» ([LU 98:6.1](/es/The_Urantia_Book/98#p6_1))
+> «Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña.» (<a id="a63_272"></a>[LU 98:6.1](/es/The_Urantia_Book/98#p6_1))
 
-> «A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado.» ([LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
+> «A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado.» (<a id="a65_230"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
 
-> «A pesar de que el culto siempre ha retrasado el progreso social, es lamentable que tantos creyentes modernos en las normas morales y en los ideales espirituales no posean un simbolismo adecuado —un culto donde apoyarse mutuamente— nada a lo que puedan *pertenecer*.» ([LU 87:7.3](/es/The_Urantia_Book/87#p7_3))
+> «A pesar de que el culto siempre ha retrasado el progreso social, es lamentable que tantos creyentes modernos en las normas morales y en los ideales espirituales no posean un simbolismo adecuado —un culto donde apoyarse mutuamente— nada a lo que puedan *pertenecer*.» (<a id="a67_271"></a>[LU 87:7.3](/es/The_Urantia_Book/87#p7_3))
 
-> «La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo.» ([LU 99:6.2](/es/The_Urantia_Book/99#p6_2))
+> «La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo.» (<a id="a69_515"></a>[LU 99:6.2](/es/The_Urantia_Book/99#p6_2))
 
 La Fellowship Espiritual es una visión espiritual centrada en Dios que se esfuerza por desarrollar un simbolismo apropiado y una expresión socioreligiosa de la Quinta Revelación de Época. Te invitamos a participar en esta nueva aventura espiritual de diversas formas que te parezcan apropiadas, tales como:
 
@@ -58,6 +82,31 @@ Creemos que The Spiritual Fellowship llevará la religión de Jesús y la Quinta
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alcance de la vida real</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="pr-2">La Spiritual Fellowship: ¿por qué ahora?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

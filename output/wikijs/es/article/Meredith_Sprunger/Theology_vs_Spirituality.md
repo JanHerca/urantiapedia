@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/No_Credible_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ninguna teología creíble</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="pr-2">La teología contemporánea anticipa el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La teología es la disciplina que explica la fe. A menudo resulta en la intelectualización de la fe. Cuando la teología domina la religión, la religión se convierte más en una forma que en una fuerza. La fuerza y el poder de la religión es su espiritualidad: su comunicación y mediación de la verdad, la belleza, la bondad y el amor. El interés por la espiritualidad está en su punto más alto en nuestra sociedad. «La espiritualidad en Estados Unidos tiene un kilómetro y medio de ancho y una pulgada de profundidad», dice David Kinnaman del Barna Research Group. «Pero», comenta, «la gente está empezando a desarrollar una fe personal híbrida que integra diferentes perspectivas de diferentes religiones que pueden incluso ser contradictorias». La gente de hoy tiene hambre de una infusión de espiritualidad fresca y dinámica. El poder de los Documentos de Urantia es su capacidad para comunicar una nueva visión de la espiritualidad junto con un nuevo paradigma de la realidad que tiene una credibilidad racional superior.
@@ -18,3 +42,28 @@ Recientemente me impresionó la capacidad de un individuo que posee una teologí
 
 A pesar de su teología obsoleta, Yancey ofrece una imagen perspicaz y valiente de la verdad, la belleza, la bondad y el amor aplicados a la religión y la sociedad contemporáneas. Habla más desde la religión de Jesús que desde la religión de Jesús. Los lectores de _El Libro de Urantia_ encontrarán muchos conceptos paralelos en sus escritos, como la separación de las organizaciones religiosas de las alianzas seculares. «La política, que siempre se rige por las reglas de la falta de gracia, nos incita a cambiar la gracia por el poder, una tentación que la iglesia a menudo no ha podido resistir». (p. 211) Yancey muestra que la iglesia es a menudo un obstáculo importante para la espiritualidad. Es reconfortante encontrar tales ideas en el cristianismo evangélico.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/No_Credible_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ninguna teología creíble</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="pr-2">La teología contemporánea anticipa el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

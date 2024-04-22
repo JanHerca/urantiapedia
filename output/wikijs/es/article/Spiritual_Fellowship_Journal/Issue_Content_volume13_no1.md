@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 La Fellowship Cristiana de Estudiantes de <i>El Libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="pr-2">El factor Nadia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***para estudiantes y creyentes en la revelación de los documentos de Urantia***
@@ -138,5 +159,27 @@ Editoriales
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">
 </figure>
 
-> «Cuando sopla el viento, oyes el susurro de las hojas, pero no ves el viento —de dónde viene o adónde va— y lo mismo sucede con todo aquel que ha nacido del espíritu. Con los ojos de la carne puedes contemplar las manifestaciones del espíritu, pero no puedes discernir realmente al espíritu». ([LU 142:6.5](/es/The_Urantia_Book/142#p6_5))
+> «Cuando sopla el viento, oyes el susurro de las hojas, pero no ves el viento —de dónde viene o adónde va— y lo mismo sucede con todo aquel que ha nacido del espíritu. Con los ojos de la carne puedes contemplar las manifestaciones del espíritu, pero no puedes discernir realmente al espíritu». (<a id="a161_296"></a>[LU 142:6.5](/es/The_Urantia_Book/142#p6_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="pr-2">El factor Nadia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

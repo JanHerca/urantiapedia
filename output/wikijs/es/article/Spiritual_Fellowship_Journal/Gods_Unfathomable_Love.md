@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/There_is_a_Better_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hay una manera mejor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="pr-2">Cuando Dios no tiene sentido</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Oh Señor de todos, cuán majestuoso y venerado es tu
@@ -54,3 +78,28 @@ plan para toda la creación!
 ¡Cuán majestuoso y glorioso es tu nombre en todos los
 universos!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/There_is_a_Better_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hay una manera mejor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="pr-2">Cuando Dios no tiene sentido</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="pr-2">Más sobre Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El año pasado, Henry Grunwald, ex embajador de Estados Unidos en Austria y ex editor en jefe de _Time_, escribió un artículo para _Time_ titulado «El año 2000: ¿es el fin o sólo el comienzo?» Tras la caída del comunismo y los nuevos acuerdos internacionales, Grunwald dice: «Estamos presenciando el fin, o al menos el declive, de una era de incredulidad y el comienzo de lo que podría ser una nueva era de fe». El gurú de la gestión, Peter Drucker, dice que el siglo XXI ya ha llegado. Es «totalmente nuevo y dinámico, y no estamos en absoluto preparados para ello».
@@ -25,3 +49,28 @@ Creo que la mejor esperanza para la revitalización de la Iglesia y el florecimi
 
 ¿La evolución progresiva de la religión será impulsada por nuevas instituciones religiosas aún no nacidas? Hay un número creciente de personas que buscan identidad y compañerismo en una iglesia abierta donde las nuevas ideas son bienvenidas. Más de 200.000 Libros de Urantia circulan en nuestra cultura, y repetidamente escucho a estos lectores del libro decir que están buscando una iglesia donde se sientan cómodos. La relativa indiferencia de la estructura de poder de la Iglesia cristiana hacia la visión espiritual ampliada de este libro fundamental puede estar creando un vacío espiritual que resultará en el advenimiento de nuevas instituciones religiosas.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="pr-2">Más sobre Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

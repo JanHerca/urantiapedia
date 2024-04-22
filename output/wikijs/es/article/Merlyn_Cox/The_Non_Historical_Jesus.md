@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Merlyn Cox<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_New_Approach_to_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un nuevo enfoque de la revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="pr-2">La idea del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Qué tan bien se puede conocer a Jesús? Ahora que hemos llegado al ocaso de la segunda búsqueda del Jesús histórico, la respuesta aparentemente es muy parecida a la primera: muy poco. Al leer «Los Cinco Evangelios», los resultados publicados de una encuesta realizada por un grupo de eruditos conocido como el Seminario de Jesús, uno se pregunta si el resultado de todo este intenso esfuerzo nos ha acercado o alejado de quien dijo « sígueme» y procedió a transformar el mundo.
@@ -30,5 +54,30 @@ Si necesitamos más conocimiento, es un conocimiento acerca de Jesús que unifiq
 La única fuente que sostiene esa posibilidad es _El Libro de Urantia_, y lo hace de manera tan completa y convincente que uno sólo puede sorprenderse ante el escepticismo y el miedo que impiden que lo lean tanto los eruditos como los legos que están tan sedientos de lo que contiene..
 
 
-> Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
+> Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. (<a id="a56_553"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_New_Approach_to_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un nuevo enfoque de la revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="pr-2">La idea del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

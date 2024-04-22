@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 David A. Kantor<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: La Iglesia en el próximo siglo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="pr-2">Jesús, hombre y mito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _«Si entendiéramos así que ya no teníamos que buscar, no sería el Dios de la revelación el que habríamos encontrado». -Avery Dulles_
@@ -190,6 +214,31 @@ Mi propósito ha sido únicamente esbozar un contexto en el que _El Libro de Ura
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: La Iglesia en el próximo siglo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="pr-2">Jesús, hombre y mito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notas
 
 [^1]: Karl Rahner, _Investigaciones teológicas_, vol. XVI, Nueva York: The Crossroad Publishing Company, 1983, 156.
@@ -228,15 +277,15 @@ Mi propósito ha sido únicamente esbozar un contexto en el que _El Libro de Ura
 
 [^18]: Dulles, _Teología del Apocalipsis_.
 
-[^19]: _El libro de Urantia_, [LU 101:4.2](/es/The_Urantia_Book/101#p4_2).
+[^19]: _El libro de Urantia_, <a id="a279_30"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2).
 
-[^20]: _El libro de Urantia_, [LU 0:12.11](/es/The_Urantia_Book/0#p12_11).
+[^20]: _El libro de Urantia_, <a id="a281_30"></a>[LU 0:12.11](/es/The_Urantia_Book/0#p12_11).
 
-[^21]: _El libro de Urantia_, [LU 0:12.12](/es/The_Urantia_Book/0#p12_12).
+[^21]: _El libro de Urantia_, <a id="a283_30"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12).
 
 [^22]: H. R. Niebuhr, _El significado de la revelación_, 68.
 
-[^23]: _El libro de Urantia_, [LU 101:1.4](/es/The_Urantia_Book/101#p1_4).
+[^23]: _El libro de Urantia_, <a id="a287_30"></a>[LU 101:1.4](/es/The_Urantia_Book/101#p1_4).
 
 [^24]: Michael J. Buckley, S. J., _At the Origins of Modern Atheism_ (Londres: Yale University Press, 1987), 35.
 
@@ -252,4 +301,4 @@ Mi propósito ha sido únicamente esbozar un contexto en el que _El Libro de Ura
 
 [^30]: Matthew Block, [«Algunas fuentes humanas de _El libro de Urantia_,»](/es/article/Matthew_Block/Some_Human_Sources_of_LU) _The Spiritual Fellowship Journal_ (primavera de 1993): 9-13. Existen importantes posibilidades para el análisis crítico textual y literario para futuros estudiantes.
 
-[^31]: _El libro de Urantia_, [LU 195:10.21](/es/The_Urantia_Book/195#p10_21).
+[^31]: _El libro de Urantia_, <a id="a303_30"></a>[LU 195:10.21](/es/The_Urantia_Book/195#p10_21).

@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos de hoy: nuestro refugio y esperanza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="pr-2">El boletín informativo Reflectivité de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bruce Bawer
@@ -31,3 +55,28 @@ Esta herencia es continuada por Hal Lindsey en _The Late Great Planet Earth_, Je
 
 _Robar a Jesús_ a veces se estanca en minucias, pero es un buen estudio del origen y desarrollo de las diferencias entre fundamentalistas, evangélicos e iglesias tradicionales. Podría considerarse como una secuela de Rescatar la Biblia del fundamentalismo de John Shelby Spong.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos de hoy: nuestro refugio y esperanza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="pr-2">El boletín informativo Reflectivité de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

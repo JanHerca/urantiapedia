@@ -9,11 +9,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Mark Kulieke<br>© 2006 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cristianismo en transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Call_to_Ministry">
+          <span class="pr-2">El llamado al ministerio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sólo unos pocos años después de que comenzaron a llegar los Documentos de Urantia y de que el Foro los estudiara juntos, se pensó seriamente en un grupo o grupos que se formarían para patrocinar la nueva revelación de la verdad al mundo y traer personas de similares características. intereses bien pensados juntos. Este período inicial de reflexión se produjo en los años treinta y principios de los cuarenta. Es evidente que algunos eran de tendencia idealista y no favorecían en absoluto las organizaciones, o sólo la forma más mínima de organización. Al leer los Diarios de Sherman, es evidente que Harold Sherman fue uno de ellos. Incluso un miembro de la Comisión de Contacto, Bill Sadler, admitió inicialmente ser de esta convicción, hasta que llegaron una serie de comunicaciones que le hicieron cambiar de opinión.
 
-Incluso si no sobrevive todo el texto de estas, es bastante evidente en algunas secciones de _El Libro de Urantia_ cuál podría haber sido la naturaleza de estas comunicaciones. [Paper 99, Section 6](/es/The_Urantia_Book/99#p6) es minucioso al enumerar «los peligros de la religión formalizada», pero también afirma que «hay un propósito real en la socialización de la religión» y enumera muchos de estos propósitos. El libro habla de la diferencia entre Moisés e Iknaton: que Moisés fue un gran organizador y triunfó, que Iknaton fue, en esencia, un idealista que fracasó. ([Documentos 95](/es/The_Urantia_Book/95) y [96](/es/The_Urantia_Book/96)) Se hace una comparación similar entre Paul y Abner. ([Documentos 195](/es/The_Urantia_Book/195) y [95](/es/The_Urantia_Book/95)) Abner era un idealista pero demasiado rígido y no tuvo éxito en Arabia. Una declaración hecha por los reveladores fue en el sentido de que «... amaban a Abner, pero trabajaban con Pablo». También se mencionó que su esperanza para la Revelación Urantia era tener una verdadera mezcla de ideísta e idealista. Pero otros puntos claves para tener una organización se resumieron en estas afirmaciones:
+Incluso si no sobrevive todo el texto de estas, es bastante evidente en algunas secciones de _El Libro de Urantia_ cuál podría haber sido la naturaleza de estas comunicaciones. <a id="a39_177"></a>[Paper 99, Section 6](/es/The_Urantia_Book/99#p6) es minucioso al enumerar «los peligros de la religión formalizada», pero también afirma que «hay un propósito real en la socialización de la religión» y enumera muchos de estos propósitos. El libro habla de la diferencia entre Moisés e Iknaton: que Moisés fue un gran organizador y triunfó, que Iknaton fue, en esencia, un idealista que fracasó. ([Documentos 95](/es/The_Urantia_Book/95) y [96](/es/The_Urantia_Book/96)) Se hace una comparación similar entre Paul y Abner. ([Documentos 195](/es/The_Urantia_Book/195) y [95](/es/The_Urantia_Book/95)) Abner era un idealista pero demasiado rígido y no tuvo éxito en Arabia. Una declaración hecha por los reveladores fue en el sentido de que «... amaban a Abner, pero trabajaban con Pablo». También se mencionó que su esperanza para la Revelación Urantia era tener una verdadera mezcla de ideísta e idealista. Pero otros puntos claves para tener una organización se resumieron en estas afirmaciones:
 
 «Desde el Evangelio de Jesús no ha aparecido en la tierra un núcleo tan dinámico en torno al cual se pudieran construir tantas organizaciones y que atrajera a tantos hombres con motivaciones diferentes: buenos, malos e indiferentes».
 
@@ -63,8 +87,33 @@ La Hermandad Urantia es ahora la Fellowship _El Libro de Urantia_ y se ha manten
 
 > _Por fin las traducciones se publican a un ritmo rápido y encuentran miles de lectores interesados en todo el mundo. Parecería que el escenario está preparado para pasar a una nueva fase importante._
 
-Hay quienes critican a las organizaciones, a muchos pasos que han dado y al progreso del Movimiento, eso es de esperarse. Es de esperar que podamos seguir aprendiendo tanto de la crítica correctiva como de la escuela de la experiencia. Creo que es sabio y bueno recordar que vivimos en un mundo experimental y que estamos en medio de un experimento. Incluso los altos reveladores celestiales no saben completamente qué anticipar; este tipo de proyecto aparentemente nunca antes se había intentado en Nebadon. Está bien intentar cosas, equivocarse y tropezar, intentarlo de nuevo y aprender de los errores. No nos dejemos desanimar por ningún acontecimiento del pasado y sigamos impertérritos. Necesitamos seguir haciendo lo mejor que podamos como embajadores del futuro para esforzarnos arduamente, tomar decisiones y hacerlo con sinceridad. Sólo eso, tomar decisiones sinceras, nos llevará a donde vamos. Si el grueso de los soldados de los círculos del Libro de Urantia continúa esforzándose por tomar decisiones sinceras y sabias, nuestro destino está asegurado. Como siempre, «El acto es nuestro; las consecuencias, de Dios». ([LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
+Hay quienes critican a las organizaciones, a muchos pasos que han dado y al progreso del Movimiento, eso es de esperarse. Es de esperar que podamos seguir aprendiendo tanto de la crítica correctiva como de la escuela de la experiencia. Creo que es sabio y bueno recordar que vivimos en un mundo experimental y que estamos en medio de un experimento. Incluso los altos reveladores celestiales no saben completamente qué anticipar; este tipo de proyecto aparentemente nunca antes se había intentado en Nebadon. Está bien intentar cosas, equivocarse y tropezar, intentarlo de nuevo y aprender de los errores. No nos dejemos desanimar por ningún acontecimiento del pasado y sigamos impertérritos. Necesitamos seguir haciendo lo mejor que podamos como embajadores del futuro para esforzarnos arduamente, tomar decisiones y hacerlo con sinceridad. Sólo eso, tomar decisiones sinceras, nos llevará a donde vamos. Si el grueso de los soldados de los círculos del Libro de Urantia continúa esforzándose por tomar decisiones sinceras y sabias, nuestro destino está asegurado. Como siempre, «El acto es nuestro; las consecuencias, de Dios». (<a id="a89_1131"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
 
 > _Mark Kulieke es presidente de la Fundación Morning Star, que posee una biblioteca con más de 200 obras secundarias asociadas con_ El Libro de Urantia. _Su padre y su tío fueron miembros del Foro (junto con varios otros miembros de la familia) y ex presidentes de la Hermandad Urantia, y Mark fue presidente de la Primera Sociedad Urantia y trabajó a tiempo completo para la Fundación entre 1974 y 1978._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cristianismo en transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Call_to_Ministry">
+          <span class="pr-2">El llamado al ministerio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Bruce Barton<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Our_Urantian_in_Pakistan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro urantiano en Pakistán: extractos de las cartas de Nadia a J.J. Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Yo era uno de los que algunos llaman: «los que no tienen iglesia». Como urantiano, a veces sentí que esto me daba grandes ventajas sobre muchos otros lectores. Por un lado, casi no tenía bagaje religioso: tenía mi propia idea adquirida de cómo era realmente Jesús. Casi nunca asistí a la iglesia y, aunque técnicamente la familia era católica, yo no sabía casi nada de esa religión. Un día, alrededor de los nueve años, encontré un libro viejo en una caja en nuestro sótano. Se titulaba: «El hombre que nadie conoce... un descubrimiento del verdadero Jesús». Fue escrito por Bruce Barton, quien (lo descubriría muchos años después) era un famoso publicista. Este libro causó una gran impresión en mi mente joven. De alguna manera conservé este libro a lo largo de los años. Como urantiano, muchos años después, me sorprende lo cerca que estuvo Bruce Barton en 1924 de describir lo que creo que era el verdadero Jesús. Espero que disfrutes de estos extractos._
@@ -214,7 +235,29 @@ Incluso Pilato lo sintió. Los dos hombres ofrecían un extraño contraste allí
 
 _Los Documentos de Urantia, la Quinta Revelación de Época, nos proporcionan esta información adicional y reveladora:_
 
-> «En verdad, el temeroso gobernador romano poco podía imaginar que en aquel mismo momento el universo permanecía atento, contemplando esta escena única en la que su amado Soberano se sometía así a la humillación de las burlas y los golpes de sus súbditos mortales ignorantes y envilecidos. Y cuando Pilatos habló, la frase «¡He aquí a Dios y al Hombre!» resonó por todo Nebadon. Desde ese día, incalculables millones de criaturas han continuado contemplando a este hombre en todo un universo, mientras que el Dios de Havona, el gobernante supremo del universo de universos, acepta al hombre de Nazaret como que satisface el ideal de las criaturas mortales de este universo local del tiempo y del espacio. En su vida incomparable, Jesús no dejó nunca de revelar Dios al hombre. Ahora, durante estos episodios finales de su carrera mortal y de su muerte posterior, efectuó una nueva y conmovedora revelación del hombre a Dios.» ([LU 186:2.11](/es/The_Urantia_Book/186#p2_11))
+> «En verdad, el temeroso gobernador romano poco podía imaginar que en aquel mismo momento el universo permanecía atento, contemplando esta escena única en la que su amado Soberano se sometía así a la humillación de las burlas y los golpes de sus súbditos mortales ignorantes y envilecidos. Y cuando Pilatos habló, la frase «¡He aquí a Dios y al Hombre!» resonó por todo Nebadon. Desde ese día, incalculables millones de criaturas han continuado contemplando a este hombre en todo un universo, mientras que el Dios de Havona, el gobernante supremo del universo de universos, acepta al hombre de Nazaret como que satisface el ideal de las criaturas mortales de este universo local del tiempo y del espacio. En su vida incomparable, Jesús no dejó nunca de revelar Dios al hombre. Ahora, durante estos episodios finales de su carrera mortal y de su muerte posterior, efectuó una nueva y conmovedora revelación del hombre a Dios.» (<a id="a237_928"></a>[LU 186:2.11](/es/The_Urantia_Book/186#p2_11))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Our_Urantian_in_Pakistan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro urantiano en Pakistán: extractos de las cartas de Nadia a J.J. Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

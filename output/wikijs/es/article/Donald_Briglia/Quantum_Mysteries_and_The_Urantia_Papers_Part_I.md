@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Donald Briglia<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_History_of_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Historia de la Fellowship Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="pr-2">Una aventura de servicio en Guatemala por Micah Kruger</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _El año pasado Joan y yo visitamos Santa Bárbara y allí conocimos al Grupo de Estudio Urantia. Se me ocurrió mencionar algo sobre el misterio del número de tres dígitos, 137, y su relación con la mecánica cuántica. (Consulte el editorial de esta edición, «La pequeña broma de tres dígitos de Dios sobre la ciencia cuántica»). Los urantianos veteranos deberían notar rápidamente la relación de 137 con los Documentos de Urantia... siendo uno la Primera Fuente y Centro, tres la Trinidad y siete el límite de diferentes asociaciones de la Trinidad. Donald Briglia, un físico, estaba en el grupo de Santa Bárbara. En esa maravillosa tarde de California, Donald le dio al grupo una elegante explicación científica del «137», mucho más allá de mis habilidades legas. Amablemente accedió a ampliar esta explicación en nuestro Diario. El comentario de Donald sigue._
@@ -16,15 +40,15 @@ dateCreated: 2023-09-29T14:02:03.086Z
 > Larry Mullins
 {.is-info}
 
-Reconociendo el enorme contenido de información que contiene incluso una sola imagen, se considera que la visión es el sentido principal. La luz, la porción visible del espectro electromagnético [[LU 42:5.10](/es/The_Urantia_Book/42#p5_10)], es el facilitador de la información visual y se produce siempre que los electrones cambian su relación energética en un átomo o molécula en el rango de energía relevante, es decir, las capas externas del estructura, por lo que se les conoce como electrones ópticos.
+Reconociendo el enorme contenido de información que contiene incluso una sola imagen, se considera que la visión es el sentido principal. La luz, la porción visible del espectro electromagnético <a id="a42_195"></a>[[LU 42:5.10](/es/The_Urantia_Book/42#p5_10)], es el facilitador de la información visual y se produce siempre que los electrones cambian su relación energética en un átomo o molécula en el rango de energía relevante, es decir, las capas externas del estructura, por lo que se les conoce como electrones ópticos.
 
-Toda la luz visible es el resultado de la dinámica de la energía de los electrones, en la que los electrones ópticos cambian su estado. Las señales electromagnéticas más energéticas provienen de transiciones de capas internas, _por ejemplo, «rayos X»._ [[LU 42:5.1](/es/The_Urantia_Book/42#p5_1)]
+Toda la luz visible es el resultado de la dinámica de la energía de los electrones, en la que los electrones ópticos cambian su estado. Las señales electromagnéticas más energéticas provienen de transiciones de capas internas, _por ejemplo, «rayos X»._ <a id="a44_253"></a>[[LU 42:5.1](/es/The_Urantia_Book/42#p5_1)]
 
 Como facilitadora del sentido primario y más importante, la luz transmite al ojo o al instrumento óptico imágenes de muy alto contenido de información a través de la acción de fotones, pequeños haces de energía «ondulada» que viajan más rápido que cualquier otra cosa, y cuya velocidad representa un límite superior a la velocidad de la materia material (teorizado por primera vez por Einstein en su teoría especial de la relatividad). La mayor parte de lo que se sabe sobre el cosmos proviene de observaciones de la luz y otros fotones no visibles del espectro electromagnético. Nuestro primer conocimiento matemático de la composición submicroscópica de la materia, la teoría atómica, se desarrolló a partir de observaciones de la luz, producida cuando los electrones se vuelven dinámicos.
 
-La ciencia que analiza la luz dispersa en sus componentes espectrales e interpreta estos espectros se conoce como espectroscopia óptica y esta rama de la física produjo no sólo nuestro primer conocimiento matemático de la estructura atómica sino que también condujo a la teoría cuántica y a la mayor parte del resto de la «nueva física»..” Por ejemplo, cuando la luz del átomo más simple, el hidrógeno, un solo protón y un solo electrón unidos por su atracción eléctrica mutua, se analizó en sus componentes espectrales, no se encontró ninguna concordancia con la teoría electromagnética clásica. Clásica (en este caso) significa física teórica anterior a la cuántica y a la relatividad. Un temprano enfoque cuántico de N. Bohr produjo una teoría que proporcionó cierto acuerdo y condujo a nuestro primer modelo matemático de estructura atómica. (Por supuesto, hubo modelos anteriores, probablemente remontándose a los griegos, y Rutherford tenía un modelo anterior, el llamado «modelo nuclear del átomo de Rutherford», que se derivaba de la dispersión de partículas alfa por un núcleo, pero desde el los alfas, rápidos y mucho más masivos, difícilmente se ven afectados por los electrones, este tipo de experimento no proporciona ningún conocimiento sobre la estructura electrónica de los átomos.) «_Toda la materia se forma de manera parecida a la del sistema solar....Dentro del átomo los electrones giran alrededor del protón central..._» [[LU 42:7.1](/es/The_Urantia_Book/42#p7_1)]
+La ciencia que analiza la luz dispersa en sus componentes espectrales e interpreta estos espectros se conoce como espectroscopia óptica y esta rama de la física produjo no sólo nuestro primer conocimiento matemático de la estructura atómica sino que también condujo a la teoría cuántica y a la mayor parte del resto de la «nueva física»..” Por ejemplo, cuando la luz del átomo más simple, el hidrógeno, un solo protón y un solo electrón unidos por su atracción eléctrica mutua, se analizó en sus componentes espectrales, no se encontró ninguna concordancia con la teoría electromagnética clásica. Clásica (en este caso) significa física teórica anterior a la cuántica y a la relatividad. Un temprano enfoque cuántico de N. Bohr produjo una teoría que proporcionó cierto acuerdo y condujo a nuestro primer modelo matemático de estructura atómica. (Por supuesto, hubo modelos anteriores, probablemente remontándose a los griegos, y Rutherford tenía un modelo anterior, el llamado «modelo nuclear del átomo de Rutherford», que se derivaba de la dispersión de partículas alfa por un núcleo, pero desde el los alfas, rápidos y mucho más masivos, difícilmente se ven afectados por los electrones, este tipo de experimento no proporciona ningún conocimiento sobre la estructura electrónica de los átomos.) «_Toda la materia se forma de manera parecida a la del sistema solar....Dentro del átomo los electrones giran alrededor del protón central..._» <a id="a48_1443"></a>[[LU 42:7.1](/es/The_Urantia_Book/42#p7_1)]
 
-La teoría de Bohr no tiene en cuenta las sutilezas de los espectros, como los componentes espectrales que se dividen en más de una señal, lo que se denomina estructura fina. A. Sommerfeld añadió características al modelo de Bohr que tenían en cuenta la relatividad especial de Einstein (el electrón se mueve rápido en este modelo) y el aparente giro del electrón. Este modelo ampliado produjo una teoría que coincidía con la mayoría de las observaciones. «_Las rotaciones axiales de los electrones y sus velocidades orbitales alrededor del núcleo atómico se encuentran más allá de la imaginación humana..._» [[LU 42:7.3](/es/The_Urantia_Book/42#p7_3)]
+La teoría de Bohr no tiene en cuenta las sutilezas de los espectros, como los componentes espectrales que se dividen en más de una señal, lo que se denomina estructura fina. A. Sommerfeld añadió características al modelo de Bohr que tenían en cuenta la relatividad especial de Einstein (el electrón se mueve rápido en este modelo) y el aparente giro del electrón. Este modelo ampliado produjo una teoría que coincidía con la mayoría de las observaciones. «_Las rotaciones axiales de los electrones y sus velocidades orbitales alrededor del núcleo atómico se encuentran más allá de la imaginación humana..._» <a id="a50_608"></a>[[LU 42:7.3](/es/The_Urantia_Book/42#p7_3)]
 
 ## El Misterioso Número 137
 
@@ -50,7 +74,7 @@ Cuando un electrón libre captura un protón libre que inicialmente estaba en re
 
 Esta es la misma cantidad de energía que se debe gastar para separar los dos en reposo en una separación muy grande, llamada potencial de ionización (energía).
 
-> «_Cuando la posición de los electrones o de otros elementos cambia, la cantidad de energía absorbida o emitida es siempre un «cuanto» o un múltiplo del mismo, pero las dimensiones de las estructuras materiales correspondientes determinan totalmente el comportamiento vibratorio u ondulatorio de estas unidades de energía. Estos rizos ondulatorios de energía tienen 860 veces el diámetro de los ultimatones, electrones, átomos u otras unidades que actúan así._» ([LU 42:4.14](/es/The_Urantia_Book/42#p4_14))
+> «_Cuando la posición de los electrones o de otros elementos cambia, la cantidad de energía absorbida o emitida es siempre un «cuanto» o un múltiplo del mismo, pero las dimensiones de las estructuras materiales correspondientes determinan totalmente el comportamiento vibratorio u ondulatorio de estas unidades de energía. Estos rizos ondulatorios de energía tienen 860 veces el diámetro de los ultimatones, electrones, átomos u otras unidades que actúan así._» (<a id="a76_464"></a>[LU 42:4.14](/es/The_Urantia_Book/42#p4_14))
 
 Aquí se ha utilizado la licencia (generalmente se afirma que el protón nuclear captura el electrón) para llamar la atención sobre la observación de que el electrón es dimensionalmente mucho más grande que el protón en modelos de procesos/estructuras ópticas atómicas, aunque es mucho más pequeño en masa. La forma más correcta de plantear la recombinación es que se capturan entre sí para formar su unión. Utilizando el modelo planetario de este sistema atómico, el más simple, y calculando la rapidez con la que se mueve el electrón, el resultado es que la velocidad del electrón es sólo ligeramente relativista, menos del uno por ciento de la velocidad de la luz, ya que la luz viaja 137 veces más rápido. Al interpretar la frase «ondas de energía ondulatorias» en el sentido de «longitudes de onda», se obtiene una coherencia lógica. La razón por la que 860 se indica como un número adimensional es que es la relación entre dos longitudes, una longitud de onda y un diámetro.
 
@@ -102,5 +126,30 @@ El lector tal vez haya anticipado que existe una conexión entre estos dos núme
 > _Donald Briglia ha sido un lector ocasional de los Documentos de Urantia durante quince años. Después de tres años de servicio militar, principalmente en Alemania, estudió Física en Cornell y UCLA e Ingeniería Informática en Stanford. Hizo algunas investigaciones en Física (procesos de colisión de electrones), luego en Ingeniería Física en el campo de instrumentos científicos (principalmente instrumentos de medición de semiconductores)._
 {.is-info}
 
-> «La energía-materia es reconocida por la lógica matemática de los sentidos; la razón-mente conoce intuitivamente su deber moral; la fe-espíritu (la adoración) es la religión de la realidad de la experiencia espiritual. Estos tres factores básicos del pensamiento reflexivo pueden unificarse y coordinarse en el desarrollo de la personalidad, o pueden volverse desproporcionados y prácticamente inconexos en sus funciones respectivas. Pero cuando están unificados, producen un carácter fuerte que consiste en la correlación de una ciencia basada en los hechos, de una filosofía moral y de una experiencia religiosa auténtica. Estas tres intuiciones cósmicas son las que le dan una validez objetiva, una realidad, a la experiencia humana con las cosas, los significados y los valores, y en ellos.» ([LU 16:6.10](/es/The_Urantia_Book/16#p6_10))
+> «La energía-materia es reconocida por la lógica matemática de los sentidos; la razón-mente conoce intuitivamente su deber moral; la fe-espíritu (la adoración) es la religión de la realidad de la experiencia espiritual. Estos tres factores básicos del pensamiento reflexivo pueden unificarse y coordinarse en el desarrollo de la personalidad, o pueden volverse desproporcionados y prácticamente inconexos en sus funciones respectivas. Pero cuando están unificados, producen un carácter fuerte que consiste en la correlación de una ciencia basada en los hechos, de una filosofía moral y de una experiencia religiosa auténtica. Estas tres intuiciones cósmicas son las que le dan una validez objetiva, una realidad, a la experiencia humana con las cosas, los significados y los valores, y en ellos.» (<a id="a128_799"></a>[LU 16:6.10](/es/The_Urantia_Book/16#p6_10))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_History_of_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Historia de la Fellowship Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="pr-2">Una aventura de servicio en Guatemala por Micah Kruger</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

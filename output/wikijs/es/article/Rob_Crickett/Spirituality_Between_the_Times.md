@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Robert Crickett<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/An_Introduction_to_the_New_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una introducción a la nueva misión de The Spiritual Fellowship Journal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Tennant/Spiritual_Affirmations_to_Enhanced_Religious_Living">
+          <span class="pr-2">Afirmaciones espirituales para mejorar la vida religiosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las expresiones espirituales y religiosas de la Quinta Revelación de Época están en su infancia, meros brotes que responden a las primeras corrientes cálidas de una Primavera completamente nueva. La aparición inicial de los Documentos de Urantia se produjo en una cultura cristiana. A medida que desarrollamos una experiencia espiritual en el contexto de la Quinta Revelación de Época, es útil darse cuenta de que los autores diseñaron sus enseñanzas para que descansaran en los fundamentos de las mejores ideas de la experiencia cristiana. Para comprender la Quinta Revelación de época en su relación histórica con la experiencia espiritual cristiana, uno debe darse cuenta de que el cristianismo se basa en las autoridades del Espíritu Santo, la Biblia y dos mil años de historia de la iglesia. Sin embargo, en la promoción de los Documentos de Urantia entre los cristianos, estas formidables autoridades no son fáciles de contrarrestar. Los Documentos de Urantia no tienen pedigrí ni autoridad excepto la dirección del Espíritu de Dios en los corazones y las mentes de los individuos. Dado que la mayoría de las personas necesitan el apoyo de sus compañeros en la experiencia religiosa, el crecimiento inicial de la revelación de época es siempre un movimiento lento y de base.
@@ -44,5 +68,30 @@ Creo que el movimiento Urantia tiene la obligación de ser proactivo en el desar
 > _Robert Crickett conoció_ El Libro de Urantia _en 1972. Esto mejoró su vocación como monje budista y fue influyente en su trabajo en el campo del tratamiento del abuso de sustancias. Actualmente asiste en la Iglesia de Cristo Miguel en Melbourne, Australia._
 {.is-info}
 
-> «_La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo._» ([LU 195:9.4](/es/The_Urantia_Book/195#p9_4))
+> «_La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo._» (<a id="a70_655"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/An_Introduction_to_the_New_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una introducción a la nueva misión de The Spiritual Fellowship Journal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Tennant/Spiritual_Affirmations_to_Enhanced_Religious_Living">
+          <span class="pr-2">Afirmaciones espirituales para mejorar la vida religiosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

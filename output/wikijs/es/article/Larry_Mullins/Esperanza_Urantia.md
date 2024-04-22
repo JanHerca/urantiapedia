@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Larry Mullis<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tom_Choquette/The_Priceless_Opportunity_The_Joy_that_Knows_No_Bounds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La oportunidad invaluable... La alegría que no conoce límites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="pr-2">Más lecciones de los pájaros y las abejas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Llegará un momento, lo sé, en que los urantianos saldrán al mundo para establecer una religión que no pertenezca a una raza, a una nación ni a un grupo especial de maestros o predicadores.
@@ -21,3 +45,28 @@ Sé que llegará un momento en que los urantianos se amarán unos a otros con un
 
 Y cuando llegue esta hora, la nueva y eterna religión de Jesús por fin arderá en toda la tierra en las vidas de los hombres y mujeres que la creen.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tom_Choquette/The_Priceless_Opportunity_The_Joy_that_Knows_No_Bounds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La oportunidad invaluable... La alegría que no conoce límites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="pr-2">Más lecciones de los pájaros y las abejas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

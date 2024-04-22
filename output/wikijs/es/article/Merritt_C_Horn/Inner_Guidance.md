@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Merritt C. Horn<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: ¿No hay otro nombre? Por Paul F. Knitter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Craig_T_McClellan/Arise_Take_Up_Your_Life_and_Walk">
+          <span class="pr-2">Levántate, toma tu vida y anda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Quién te dijo <br>
@@ -89,3 +113,28 @@ A cada generación <br>
 
 De El llamado del Espíritu, Copyright © 1984
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: ¿No hay otro nombre? Por Paul F. Knitter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Craig_T_McClellan/Arise_Take_Up_Your_Life_and_Walk">
+          <span class="pr-2">Levántate, toma tu vida y anda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

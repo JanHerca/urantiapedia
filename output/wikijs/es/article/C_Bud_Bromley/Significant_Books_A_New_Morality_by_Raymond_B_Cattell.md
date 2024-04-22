@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Bud Bromley<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprender el mal en la experiencia humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="pr-2">Compartiendo la Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Raymond B. Cattell
@@ -38,8 +62,33 @@ El resto del libro cita varios ejemplos de investigaciones que parecen tener imp
 
 Los estudiantes de _El Libro de Urantia_ deberían estar particularmente interesados en lo que el Dr. Cattell tiene que decir, porque _El Libro de Urantia_, si bien ofrece elevadas ideas espirituales, evita cuidadosamente decirnos qué moral específica debemos desarrollar. [^1] «Jesús haría a todos los hombres semejantes a Dios y luego permanecería al margen con simpatía mientras estos hijos de Dios resuelven sus propios problemas políticos, sociales y económicos». (Pág. 1581) «Jesús no ofreció reglas para el avance social…» (Pág. 2083) Pero esta es precisamente la brecha que el Dr. Cattell propone que debemos resolver por nosotros mismos mediante los métodos de la ciencia. Su libro es una lectura que invita profundamente a la reflexión de cualquiera que se preocupe: «¿Qué debo hacer?»
 
-> «_¡No os engañéis! Existe en las enseñanzas de Jesús una naturaleza eterna que no les permitirá permanecer estériles para siempre en el corazón de los hombres inteligentes. El reino, tal como Jesús lo concebía, ha fracasado en gran parte en la Tierra; por ahora, una iglesia exterior ha tomado su lugar. Pero deberíais comprender que esta iglesia es solamente el estado larvario del frustrado reino espiritual, ... El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva._» ([LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
+> «_¡No os engañéis! Existe en las enseñanzas de Jesús una naturaleza eterna que no les permitirá permanecer estériles para siempre en el corazón de los hombres inteligentes. El reino, tal como Jesús lo concebía, ha fracasado en gran parte en la Tierra; por ahora, una iglesia exterior ha tomado su lugar. Pero deberíais comprender que esta iglesia es solamente el estado larvario del frustrado reino espiritual, ... El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva._» (<a id="a64_660"></a>[LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprender el mal en la experiencia humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="pr-2">Compartiendo la Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

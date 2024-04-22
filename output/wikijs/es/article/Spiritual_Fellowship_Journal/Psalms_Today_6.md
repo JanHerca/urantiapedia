@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Philosophical_Scientists_by_David_Foster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: Los científicos filosóficos, de David Foster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/On_Values">
+          <span class="pr-2">Sobre los valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Oh pueblo de la tierra y de las huestes celestiales, dad gloria y honor al Padre Universal, Primera Fuente Creadora y Divina.
@@ -51,3 +75,28 @@ Los soles brillantes son como velas apagadas en la presencia de Dios. Los ojos d
 
 ¡Esta Fuente Infinita de todas las cosas es nuestro Padre Universal! ¡Qué misterio! ¡Qué hecho tan incomprensible del amor!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Philosophical_Scientists_by_David_Foster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: Los científicos filosóficos, de David Foster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/On_Values">
+          <span class="pr-2">Sobre los valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

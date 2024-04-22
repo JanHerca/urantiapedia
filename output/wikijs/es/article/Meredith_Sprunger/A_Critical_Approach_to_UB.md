@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paralelos en la revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_Downs/Positive_Qualities">
+          <span class="pr-2">Cualidades positivas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La revelación se ha asociado tradicionalmente con «la voz de Dios», y esta autoridad ha sido una influencia poderosa para establecer lo que se acepta como verdad en la sociedad. La mayoría de la gente tiende a olvidar el largo proceso experiencial que se requiere en cualquier grupo social grande para establecer la aceptación de una fuente reveladora. Cualquier afirmación de una «nueva revelación» seguramente provocará un escepticismo generalizado y una fuerte oposición. Lo primero que suele examinarse y cuestionarse es el origen y la autoría de tales afirmaciones y luego el contenido de la nueva revelación.
@@ -28,5 +52,30 @@ Mi opinión personal, después de cuarenta años de estudio y evaluación, es qu
 4. Y finalmente, una presentación muy ampliada de la vida y las enseñanzas de Jesús, que esté sólidamente arraigada en las realidades del Nuevo Testamento.
 
 
-> «_El mundo necesita más que nada una religión de primera mano. Incluso el cristianismo —la mejor religión del siglo veinte— no es solamente una religión *acerca de* Jesús, sino que es una religión que los hombres experimentan ampliamente de segunda mano. Éstos cogen su religión íntegramente tal como se la transmiten sus educadores religiosos aceptados. ¡Qué despertar experimentaría el mundo si tan sólo pudiera ver a Jesús tal como vivió realmente en la Tierra, y conocer de primera mano sus enseñanzas dadoras de vida! Las palabras que describen las cosas bellas no pueden conmover tanto como la visión de esas cosas, y las palabras de un credo tampoco pueden inspirar el alma de los hombres como la experiencia de conocer la presencia de Dios._» ([LU 195:9.8](/es/The_Urantia_Book/195#p9_8))
+> «_El mundo necesita más que nada una religión de primera mano. Incluso el cristianismo —la mejor religión del siglo veinte— no es solamente una religión *acerca de* Jesús, sino que es una religión que los hombres experimentan ampliamente de segunda mano. Éstos cogen su religión íntegramente tal como se la transmiten sus educadores religiosos aceptados. ¡Qué despertar experimentaría el mundo si tan sólo pudiera ver a Jesús tal como vivió realmente en la Tierra, y conocer de primera mano sus enseñanzas dadoras de vida! Las palabras que describen las cosas bellas no pueden conmover tanto como la visión de esas cosas, y las palabras de un credo tampoco pueden inspirar el alma de los hombres como la experiencia de conocer la presencia de Dios._» (<a id="a54_754"></a>[LU 195:9.8](/es/The_Urantia_Book/195#p9_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paralelos en la revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_Downs/Positive_Qualities">
+          <span class="pr-2">Cualidades positivas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

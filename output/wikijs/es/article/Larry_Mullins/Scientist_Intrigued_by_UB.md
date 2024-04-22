@@ -10,9 +10,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: más allá de la tradición y la ortodoxia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="pr-2">Difundiendo las Enseñanzas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «_Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos de esa religión, puesto que consideráis que el concepto supremo de vuestra religión es digno de la adoración de toda la humanidad, de todas las inteligencias del universo. Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual._» ([LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
+
+> «_Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos de esa religión, puesto que consideráis que el concepto supremo de vuestra religión es digno de la adoración de toda la humanidad, de todas las inteligencias del universo. Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual._» (<a id="a38_523"></a>[LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
 
 El Dr. Sprunger comenzó un acercamiento enérgico y programado a colegas ministeriales cristianos hace décadas. Tal atractivo para personas con títulos y experiencia profesional, para la mayoría de nosotros, los legos, está fuera de discusión. ¿Cómo podemos esperar interesar a un profesor o un religioso profesional en los Documentos de Urantia? Sin embargo, debemos tener en cuenta que los Documentos de Urantia se refieren a Jesús como un laico y hacen el comentario de que «el mayor maestro religioso del mundo era en realidad un laico». (pág. 2091)
 
@@ -42,8 +66,33 @@ Hay otras áreas del libro del Dr. McMenamin que buscan respuestas e inciden en 
 
 Es lamentable que Martin Gardner no tuviera una evaluación equilibrada de la ciencia contenida en _El Libro de Urantia_ e ignorara por completo la observación de los autores de que pronto sería necesario revisar la ciencia de los Artículos. Ahora existe una nueva oportunidad de llegar a los científicos, especialmente a aquellos que desean beneficiarse de algunas «gemas» esclarecedoras del Libro de Urantia.
 
-> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina._» ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina._» (<a id="a68_478"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: más allá de la tradición y la ortodoxia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="pr-2">Difundiendo las Enseñanzas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

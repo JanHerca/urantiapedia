@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Merlyn Cox<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajustando nuestra perspectiva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="pr-2">Sir Hubert Wilkins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Fellowship Espiritual está trabajando para establecer comunidades espirituales llamadas comunidades donde personas con ideas afines puedan adorar y servir juntas. ¿Cuándo necesitan estas comunidades liderazgo y, de ser así, qué tipo de liderazgo necesitan?
@@ -21,7 +45,7 @@ No es que la gente necesite que le digan qué hacer; es que un grupo necesita a 
 
 En el pasado, el antiguo estilo piramidal de liderazgo utilizado en la industria fue también el modelo utilizado por los líderes de organizaciones religiosas. En estas organizaciones la información fluía principalmente de arriba hacia abajo. Este modelo, probablemente originado en organizaciones militares, ha funcionado en el pasado, pero plantea muchos problemas. No invita a la plena participación y retroalimentación de quienes realizan el trabajo práctico. Los nuevos modelos de liderazgo intentan involucrar plenamente a todos los miembros de una organización en la toma de decisiones para que tengan un sentido de propiedad de cualquier trabajo que la organización decida realizar. Probablemente el modelo de liderazgo más radical fue el sugerido por Jesús.
 
-Jesús dijo: «_Recordad, os he enseñado que el que quiera ser el mayor entre vosotros, debe convertirse en servidor de todos._» ([LU 175:1.10](/es/The_Urantia_Book/175#p1_10)) Esto puede ser algo difícil de hacer para algunos líderes. Muchos de los que ocupan puestos de liderazgo parecen tener grandes egos. Ciertamente debes tener confianza para ser un líder eficaz, pero aún así resistirte a colocarte por encima de aquellos que te han elegido como su líder.
+Jesús dijo: «_Recordad, os he enseñado que el que quiera ser el mayor entre vosotros, debe convertirse en servidor de todos._» (<a id="a47_128"></a>[LU 175:1.10](/es/The_Urantia_Book/175#p1_10)) Esto puede ser algo difícil de hacer para algunos líderes. Muchos de los que ocupan puestos de liderazgo parecen tener grandes egos. Ciertamente debes tener confianza para ser un líder eficaz, pero aún así resistirte a colocarte por encima de aquellos que te han elegido como su líder.
 
 ## Fuente de líderes
 
@@ -84,6 +108,31 @@ El liderazgo no es algo que se aprende en un seminario de fin de semana, aunque 
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajustando nuestra perspectiva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="pr-2">Sir Hubert Wilkins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

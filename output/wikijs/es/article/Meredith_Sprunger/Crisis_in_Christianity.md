@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume8_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diario de Fellowship espiritual - Diario de Fellowship espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Between_the_Times">
+          <span class="pr-2">Entre los tiempos, la necesidad de la interioridad espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Durante décadas, las iglesias cristianas principales (¿antiguas? ¿laterales?) han estado perdiendo credibilidad y membresía en nuestra cultura. Como señala Mark Noll en The Scandal of the Evangelical Mind (Eerdmans, 1994), existe una falta de respetabilidad académica en las iglesias cristianas conservadoras, lo que resulta en que nuestra sociedad secular las ignore en gran medida; y como señala Bruce Bower en _Stealing Jesus_ (Crown, 1997) distorsionan seriamente la religión de Jesús. Thomas Reeves en The Empty Church: The Suicide of Liberal Christianity (Nueva York, Free, 1996), declara que las elites denominacionales liberales, celosas y arraigadas, se preocupan más por las últimas modas políticas e ideológicas que por el evangelio cristiano básico. La atmósfera religiosa negativa se ha vuelto tan crítica que vemos artículos en revistas teológicas como «¿Nuestras iglesias seguirán siendo iglesias en el siglo XXI?» por David R. Inglis (_Prism_, primavera de 1997).
@@ -37,3 +61,28 @@ Las implicaciones de estas doce tesis reflejan la crisis de la teología cristia
 
 Los estudiantes de _El Libro de Urantia_ reconocerán que el Obispo Spong está bordeando las enseñanzas de la Quinta Revelación de Época. Como observé al revisar Por qué el cristianismo debe cambiar o morir, su visión religiosa realmente se dispararía si tuviera las alas de la cosmología espiritual y la visión de la Deidad y la Realidad en _El Libro de Urantia_. Con suerte, nos estamos acercando al día en que los teólogos cristianos emprendan una evaluación seria de la Quinta Revelación de época.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume8_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diario de Fellowship espiritual - Diario de Fellowship espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Between_the_Times">
+          <span class="pr-2">Entre los tiempos, la necesidad de la interioridad espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Merlyn Cox<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/On_Theological_Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre las transiciones teológicas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="pr-2">Libros significativos: “El buen libro” de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Es algo curioso. Una de las luchas constantes que enfrento como pastor de una iglesia es lograr que las personas dentro de su comunidad crean en las Buenas Nuevas. A menudo se ve a la iglesia como una colonia de fe en medio de un mar de dudas y escepticismo. Pero sigo preguntándome, ¿por qué es tan difícil para las personas dentro de la comunidad eclesial creer realmente en la gran Buena Nueva que profesamos, que somos hijos de un Padre-Creador, un Padre Divino que nos ama con un amor infinito, un amor que echa fuera todo temor?
@@ -23,3 +47,28 @@ Sin entrar en la cuestión de si el materialismo realmente representa mejor la c
 
 Hasta entonces, a menudo nos encontraremos discutiendo con Nicodemo, alguien que conoce el idioma, afirma la premisa, pero ignora por completo las realidades fundamentales subyacentes. Para él sólo podemos dar testimonio de esas realidades y esperar pacientemente. Sin embargo, podemos animarnos al comprender la manera en que el mensaje finalmente dio frutos en su vida.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/On_Theological_Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre las transiciones teológicas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="pr-2">Libros significativos: “El buen libro” de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

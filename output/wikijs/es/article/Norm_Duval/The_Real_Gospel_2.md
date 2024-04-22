@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Norm Du Val<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i> </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Infinitud de Dios, una Enfoque Astronómico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arthur_Nash/The_Turning_Point_Part_II">
+          <span class="pr-2">El punto de inflexión - Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > ***Nota de Urantiapedia***: Otra edición de este artículo se publicó en Innerface [Revista internacional, Volumen 1 — No. 5, 1994](/es/article/Norm_Duval/The_Real_Gospel).
@@ -137,3 +161,28 @@ _Todas las citas de la Biblia extraídas o adaptadas de la versión King James. 
 > _Norm Du Val ha sido un urantiano muy activo durante muchos años. Norm nació y creció en Minneapolis. Pasó tres años en el ejército de los EE. UU., de los cuales un año en Corea en 1962. Pocas personas saben que Norm estaba relacionado con Emma Louise Christensen («Christy»), una de las comisionadas de contacto. Su primer Libro de Urantia, una primera impresión original de 1955, le fue regalado en 1959 por su abuela, Olga Christensen, que era hermana de Emma... y que también tenía el sobrenombre de «Christy». Norm guarda ahora su impresión de 1955 en una caja de seguridad. Se mudó a Missoula, Montana en 1969. Norm se jubiló de la oficina de correos de EE. UU. en Missoula en 1992. Ahora vive en una zona rural de EE. UU. Norm mantiene un sitio web en http://www.freeurantia.org... se le puede contactar por correo electrónico a: nduval@pop.ctctel.com_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Infinitud de Dios, una Enfoque Astronómico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arthur_Nash/The_Turning_Point_Part_II">
+          <span class="pr-2">El punto de inflexión - Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

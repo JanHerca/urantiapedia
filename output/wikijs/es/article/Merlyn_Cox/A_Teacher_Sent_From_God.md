@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Merlyn Cox<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tirar al bebé espiritual con el agua del baño sexista</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sermón del Rev. Merlyn Cox, 26/05/91
@@ -83,3 +104,25 @@ Somos muy parecidos a Nicodemo: orgullosos, materialistas, cautelosos. Que tambi
 
 El nacimiento de nuestras vidas en el Espíritu puede llevar tiempo, pero tenemos un maestro enviado por Dios que nos mostrará el camino: _si lo dejamos... si lo dejamos_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tirar al bebé espiritual con el agua del baño sexista</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

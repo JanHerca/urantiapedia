@@ -10,6 +10,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Byron Belitsos<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas espirituales en el lugar de trabajo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -31,7 +52,7 @@ El apocalipticismo contiene un cierto orgullo de conocimiento que podríamos lla
 
 A mi modo de ver, la fe depende de nuestra esperanza en las promesas de Dios. [^2] _El Libro de Urantia_ nos promete un DÍA de perfección personal, nuestra fusión con nuestro Ajustador del Pensamiento y un «DÍA del Señor» (para usar la fraseología de la Biblia, como en 1 Cor 1:8 o Fil 1: 10), el regreso de Miguel a su planeta natal. Estas promesas siempre nos llaman hacia adelante con esperanza. En este sentido, la fe y la esperanza son interdependientes. La fe genuina induce el crecimiento del alma cuando enfrentamos un futuro desconocido, llenos de esperanza en las promesas de Dios. ¿Y cuáles son estas promesas? Que algún día toda la verdad será revelada. Y que algún día lejano, en el fin literal de los tiempos, en la consumación de esta era universal, el Supremo _surgirá_ triunfante, en el gran jubileo de su poder-personalización, el DÍA del **verdadero** apocalipsis de esta era..
 
-Pero la fe sufre cuando nuestra sublime esperanza en el cumplimiento de estas promesas se convierte en un conocimiento presuntuoso de un «fin de los tiempos» mítico: el fin de las pruebas de la evolución. La interdependencia de la fe y la esperanza está rota. El desafío de la elección del libre albedrío frente a la incertidumbre, así como las otras _«inevitabilidades_ de la vida de las criaturas evolutivas» de las que se habla en el muy querido pasaje sobre [LU 3:5.5](/es/The_Urantia_Book/3#p5_5) en _El Libro de Urantia_—nos es robado. Éste es el peligro del pensamiento apocalíptico para el crecimiento personal y el progreso ordenado de la comunidad humana.
+Pero la fe sufre cuando nuestra sublime esperanza en el cumplimiento de estas promesas se convierte en un conocimiento presuntuoso de un «fin de los tiempos» mítico: el fin de las pruebas de la evolución. La interdependencia de la fe y la esperanza está rota. El desafío de la elección del libre albedrío frente a la incertidumbre, así como las otras _«inevitabilidades_ de la vida de las criaturas evolutivas» de las que se habla en el muy querido pasaje sobre <a id="a54_462"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5) en _El Libro de Urantia_—nos es robado. Éste es el peligro del pensamiento apocalíptico para el crecimiento personal y el progreso ordenado de la comunidad humana.
 
 > _Pero la fe sufre cuando nuestra sublime esperanza en el cumplimiento de estas promesas se convierte en un conocimiento presuntuoso de un «fin de los tiempos» mítico: el fin de las pruebas de la evolución. La interdependencia de la fe y la esperanza está rota._
 
@@ -47,7 +68,7 @@ En términos judeocristianos, el sueño del milenio es la realización más plen
 > 4. La perspectiva de una realización más perfecta de la voluntad de Dios, el progreso hacia el amanecer de un nuevo orden social en conexión con una vida espiritual mejorada —la era siguiente de la humanidad.
 > 5. El reino en su plenitud, la futura era espiritual de luz y de vida en la Tierra.
 > 
-> Por eso tenemos siempre que examinar la enseñanza del Maestro para averiguar a cuál de estas cinco fases puede estar refiriéndose cuando utiliza la expresión «el reino de los cielos». Mediante este proceso de cambiar gradualmente la voluntad del hombre, influyendo así en las decisiones humanas, Miguel y sus asociados están cambiando también, de manera gradual pero segura, todo el curso de la evolución humana, tanto social como en otros aspectos. ([LU 170:4.1-7](/es/The_Urantia_Book/170#p4_1))
+> Por eso tenemos siempre que examinar la enseñanza del Maestro para averiguar a cuál de estas cinco fases puede estar refiriéndose cuando utiliza la expresión «el reino de los cielos». Mediante este proceso de cambiar gradualmente la voluntad del hombre, influyendo así en las decisiones humanas, Miguel y sus asociados están cambiando también, de manera gradual pero segura, todo el curso de la evolución humana, tanto social como en otros aspectos. (<a id="a70_453"></a>[LU 170:4.1-7](/es/The_Urantia_Book/170#p4_1))
 
 Lo que llamo «New Ageism» enfatiza el repentino e impaciente advenimiento del reino interior. La enseñanza de que «el Reino está dentro de vosotros» es la primera y más importante fase de la enseñanza del Reino. Pero aquí estamos hablando de una versión apocalíptica, de una interpretación estrecha. Esto puede venir en forma de una aniquilación budista del ego, como se enseña en algunos cultos y comunidades de América del Norte; o, más comúnmente, a través de un espiritualismo «tuerto» que reduce esta poderosa enseñanza del reino al éxtasis de encontrar «a Dios dentro» y luego mantenerlo allí. El cristiano fundamentalista invierte este espiritualismo «de adentro hacia afuera» de la Nueva Era.
 
@@ -57,15 +78,37 @@ _El Libro de Urantia_ nos dice claramente que los primeros cristianos, habiendo 
 
 > Cuando los seguidores inmediatos de Jesús reconocieron que habían fracasado parcialmente en la realización del ideal del Maestro, consistente en establecer el reino en el corazón de los hombres mediante la dominación y la guía del espíritu en los creyentes individuales, se pusieron a salvar su enseñanza para que no se perdiera por completo, sustituyendo el ideal del reino que tenía el Maestro por la creación gradual de una organización social visible, la iglesia cristiana. Después de haber efectuado este programa de sustitución, procedieron a situar el reino en el futuro para mantener la coherencia y asegurar el reconocimiento de las enseñanzas del Maestro sobre el hecho del reino. **En cuanto la iglesia estuvo bien establecida, empezó a enseñar que el reino aparecería en realidad cuando culminara la era cristiana, con la segunda venida de Cristo.**
 > 
-> De esta manera, el reino se convirtió en el concepto de una era, en la idea de una visita futura, y en el ideal de la redención final de los santos del Altísimo. ([LU 170:5.14-15](/es/The_Urantia_Book/170#p5_14), énfasis añadido)
+> De esta manera, el reino se convirtió en el concepto de una era, en la idea de una visita futura, y en el ideal de la redención final de los santos del Altísimo. (<a id="a80_165"></a>[LU 170:5.14-15](/es/The_Urantia_Book/170#p5_14), énfasis añadido)
 
 El texto clave del apocalipticismo cristiano, el libro del Apocalipsis, habla de una «Nueva Jerusalén» milagrosamente liberada desde afuera (y desde arriba) en una secuencia de eventos que culminaron en la Batalla de Armagedón y el reinado milenario de Cristo. Pero casi no hace ninguna referencia a las enseñanzas cruciales de Jesús sobre el «Reino interior».
 
 En mi opinión, cada uno de estos enfoques esbozados anteriormente son atajos impacientes en el pedregoso camino de la evolución. El ritmo de la evolución requiere que lleguemos a un acuerdo con el mal del tiempo mediante las técnicas evolutivas de la fe y la esperanza. Para mantener la fe y la esperanza en equilibrio, **cada** una de las fases de las enseñanzas del Reino es necesaria para realizar cualquiera** de sus fases. No debemos enfatizar demasiado la meta (el «reino milenario» de Luz y Vida) ni el punto de partida (el «Reino interior») de este largo viaje. Y esta es otra manera de decir que la Paternidad/Maternidad de Dios y la hermandad de la humanidad son realidades interdependientes.
 
-> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor.» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor.» (<a id="a86_725"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas espirituales en el lugar de trabajo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

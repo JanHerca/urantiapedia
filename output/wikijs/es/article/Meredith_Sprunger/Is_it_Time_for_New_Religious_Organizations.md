@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Historys_Unpredictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La imprevisibilidad de la historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Aspects_of_Prophetic_Leadership">
+          <span class="pr-2">Aspectos del liderazgo profético</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las tres organizaciones centrales del movimiento Urantia (la Fundación Urantia, la Fellowship del Libro de Urantia y la Asociación Urantia Internacional) han declarado repetidamente que no son organizaciones religiosas. Con la continua participación de la Fundación en juicios contra estudiantes de _El Libro de Urantia_ y su reciente amenaza contra la Fellowship del Libro de Urantia, uno se pregunta si estas organizaciones seculares son la égida adecuada para la difusión de las enseñanzas de la Quinta Revelación de Época.
@@ -33,3 +57,28 @@ Hace muchos años, en preparación para el momento en que la Quinta Revelación 
 11. La Fellowship reconoce que a medida que evolucionan las ceremonias, los rituales y el simbolismo espiritual, deben ser relativamente simples, llenos de belleza y significado. Buscamos crear una estructura en la que este simbolismo y sus ceremonias relacionadas puedan evolucionar.
 12. La Fellowship recomienda que cada congregación proporcione en su programa local, siempre que sea posible, oportunidades de educación religiosa, asesoramiento personal, orientación espiritual y adoración en grupo. Estos ministerios religiosos deben dramatizar las lealtades espirituales, magnificar los atractivos de la verdad, la belleza y la bondad, glorificar los potenciales de la vida familiar, estimular el servicio desinteresado y la cálida amistad, conservar la moralidad ilustrada, apoyar el bienestar humano y promover un sabio ministerio de extensión al mundo..
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Historys_Unpredictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La imprevisibilidad de la historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Aspects_of_Prophetic_Leadership">
+          <span class="pr-2">Aspectos del liderazgo profético</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Kenneth T. Glasziou<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El clero evalúa el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="pr-2">El libro de Urantia como recurso para sermones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El materialismo y el ateísmo son enfermedades modernas (o fenómenos, según el punto de vista de cada uno) que tuvieron sus raíces entre los empiristas de los siglos XVI, XVII y XVIII. En este grupo se destacaron Francis Bacon, Thomas Hobbes, John Locke y David Hume. Quizás la afirmación más conocida derivada de su trabajo sea la de Hume, quien en su Investigación sobre el entendimiento humano dijo: «Cuando revisamos nuestras bibliotecas, persuadidos de estos principios, cuántos estragos debemos causar. Si tomamos en nuestras manos cualquier volumen de teología o de metafísica escolar, por ejemplo, preguntémonos: ¿contiene algún razonamiento abstracto sobre la cantidad y el número? No. ¿Contiene algún razonamiento experimental sobre cuestiones de hecho o existencia? No. Entrégalo entonces a las llamas porque no puede contener más que sofismas e ilusiones». Es de suponer que el arte, la literatura, la poesía y la música también habrían contribuido a la hoguera de Hume.
@@ -78,5 +102,30 @@ Para mí, la aceptación de la autoridad reveladora de _El Libro de Urantia_ tie
 > _K. T. Glasziou, M. Sc., Ph. D., es un científico investigador, jubilado, que participa activamente en la obra de la iglesia en Australia. Es autor de_ «Ciencia y religión: la nueva era más allá del 2000 d. C.»
 {.is-info}
 
-> «_La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús._» ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
+> «_La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús._» (<a id="a104_349"></a>[LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El clero evalúa el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="pr-2">El libro de Urantia como recurso para sermones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

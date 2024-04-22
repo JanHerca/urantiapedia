@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serie de sermones sobre crecimiento espiritual: Parte 2, Reconociendo la bondad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los seres humanos son por naturaleza criaturas que resuelven problemas. Nuestras necesidades e impulsos básicos interactúan con los estímulos ambientales en busca de satisfacción y plenitud del organismo. Toda resolución de problemas desde el nacimiento hasta la muerte se sitúa en el contexto de nuestra naturaleza, experiencia y aprendizaje. La forma en que resolvemos nuestros problemas está determinada fundamentalmente por nuestra naturaleza y recursos. Somos seres materiales integrados y controlados por un sistema neuronal dirigido por la mente y habitado por el espíritu. Por lo tanto, los seres humanos tienen recursos físicos, mentales y espirituales para ayudar en la resolución de problemas. Todas estas capacidades y capacidades interactúan y funcionan de manera integral.
@@ -62,7 +83,7 @@ Al concluir nuestro pensamiento sobre la resolución de problemas mediante la or
 
 La mejor imagen del uso eficaz de la oración es observar la vida de oración de Jesús:
 
-> Jesús nunca oraba porque fuera un deber religioso. Para él, la oración era una expresión sincera de la actitud espiritual, una declaración de la lealtad del alma, una recitación de devoción personal, una expresión de acción de gracias, una manera de evitar la tensión emocional, una prevención de los conflictos, una exaltación del intelecto, un ennoblecimiento de los deseos, una confirmación de las decisiones morales, un enriquecimiento del pensamiento, una estimulación de las tendencias más elevadas, una consagración del impulso, una clarificación de un punto de vista, una declaración de fe, una rendición trascendental de la voluntad, una sublime afirmación de confianza, una revelación de valentía, la proclamación de un descubrimiento, una confesión de devoción suprema, la validación de una consagración, una técnica para ajustar las dificultades y la poderosa movilización de los poderes combinados del alma para resistir todas las tendencias humanas al egoísmo, al mal y al pecado. Vivió precisamente este tipo de vida consagrada piadosamente a hacer la voluntad de su Padre, y terminó su vida triunfalmente con una oración de este tipo. El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera —una comunión ininterrumpida con Dios— y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias. ([LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
+> Jesús nunca oraba porque fuera un deber religioso. Para él, la oración era una expresión sincera de la actitud espiritual, una declaración de la lealtad del alma, una recitación de devoción personal, una expresión de acción de gracias, una manera de evitar la tensión emocional, una prevención de los conflictos, una exaltación del intelecto, un ennoblecimiento de los deseos, una confirmación de las decisiones morales, un enriquecimiento del pensamiento, una estimulación de las tendencias más elevadas, una consagración del impulso, una clarificación de un punto de vista, una declaración de fe, una rendición trascendental de la voluntad, una sublime afirmación de confianza, una revelación de valentía, la proclamación de un descubrimiento, una confesión de devoción suprema, la validación de una consagración, una técnica para ajustar las dificultades y la poderosa movilización de los poderes combinados del alma para resistir todas las tendencias humanas al egoísmo, al mal y al pecado. Vivió precisamente este tipo de vida consagrada piadosamente a hacer la voluntad de su Padre, y terminó su vida triunfalmente con una oración de este tipo. El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera —una comunión ininterrumpida con Dios— y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias. (<a id="a85_1454"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
 
 > _Meredith Sprunger es ministra y maestra universitaria de la Iglesia Unida de Cristo, jubilada y editora de_ The Spiritual Fellowship Journal.
 {.is-info}
@@ -70,3 +91,25 @@ La mejor imagen del uso eficaz de la oración es observar la vida de oración de
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serie de sermones sobre crecimiento espiritual: Parte 2, Reconociendo la bondad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

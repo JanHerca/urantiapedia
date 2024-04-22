@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="pr-2">Decadencia espiritual y renacimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 6, Número 2, Otoño de 1996
@@ -121,7 +142,7 @@ Copyright © 1996, Todos los derechos reservados.
 
 La Sociedad de Estudiantes de _El Libro de Urantia_ de Nueva York está fomentando las traducciones de _El Libro de Urantia_ al ruso y al coreano. La Sociedad planea tener el primer borrador de la traducción al ruso terminado para fines de 1998, y el primer borrador de la traducción al coreano de la Vida y Enseñanzas de Jesús para el otoño de 1996. Puede obtenerse información sobre la traducción al ruso de Leela. Dogim, 201-886-2243; y puede obtener un informe sobre la traducción coreana de Barry Clark, 201-438-3359. Puede obtener información general sobre el proyecto de traducción de Eileen Laurence, 914-273-8922.
 
-> Jesús describió la profunda seguridad del mortal que conoce a Dios cuando dijo: «Para un creyente en el reino que conoce a Dios, ¿que importa si todas las cosas terrenales se derrumban?» Las seguridades temporales son vulnerables, pero las certezas espirituales son inquebrantables. Cuando las mareas de la adversidad, el egoísmo, la crueldad, el odio, la maldad y los celos humanos sacuden el alma de los mortales, podéis tener la seguridad de que existe un bastión interior, la ciudadela del espíritu, que es absolutamente inatacable; al menos esto es cierto para todo ser humano que ha confiado la custodia de su alma al espíritu interior del Dios eterno. ([LU 100:2.7](/es/The_Urantia_Book/100#p2_7))
+> Jesús describió la profunda seguridad del mortal que conoce a Dios cuando dijo: «Para un creyente en el reino que conoce a Dios, ¿que importa si todas las cosas terrenales se derrumban?» Las seguridades temporales son vulnerables, pero las certezas espirituales son inquebrantables. Cuando las mareas de la adversidad, el egoísmo, la crueldad, el odio, la maldad y los celos humanos sacuden el alma de los mortales, podéis tener la seguridad de que existe un bastión interior, la ciudadela del espíritu, que es absolutamente inatacable; al menos esto es cierto para todo ser humano que ha confiado la custodia de su alma al espíritu interior del Dios eterno. (<a id="a144_662"></a>[LU 100:2.7](/es/The_Urantia_Book/100#p2_7))
 
 ## Recursos del _Libro de Urantia_
 
@@ -131,3 +152,25 @@ El Dr. Duane L. Faw, profesor emérito de Derecho de la Facultad de Derecho de l
 
 La Fundación Urantia publicó una concordancia exhaustiva del _Libro de Urantia_ en 1993. Si su librería local no vende la concordancia _El libro de Urantia_ o _El libro de Urantia_, puede solicitarlas a la Fundación Urantia, 533 Diversey Parkway, Chicaago, IL 60614. La Fundación también publica ediciones en francés, español y finlandés de _El Libro de Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="pr-2">Decadencia espiritual y renacimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="pr-2">La búsqueda de la verdad: la importancia de múltiples aportaciones y del equilibrio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Vivimos en una época de uno de los mayores aumentos de interés y actividad espiritual de la historia. La gente busca autenticidad espiritual en muchas y diversas fuentes. El Manual enciclopédico de cultos en Estados Unidos de Melton sólo toca la superficie de este movimiento. Según Wade C. Roof en _A Generation of Seekers_ (Harper, San Francisco), se está produciendo una revolución silenciosa que está cambiando las actitudes y prácticas religiosas de millones de estadounidenses.
@@ -28,3 +52,28 @@ Después de años de intentar comprender por qué los teólogos son tan reacios 
 
 A pesar de estas comprensibles reservas, y debido al tremendo potencial para el bien de la Iglesia -así como de todo el planeta-, creo que una evaluación seria del Libro de Urantia es el gran desafío teológico de nuestros tiempos. El artículo de David Kantor «_El libro de Urantia_: Hacia un contexto para la evaluación teológica» en este número de la Revista describe algunos de los parámetros de dicho proyecto teológico.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="pr-2">La búsqueda de la verdad: la importancia de múltiples aportaciones y del equilibrio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

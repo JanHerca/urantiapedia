@@ -9,9 +9,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 J. J. Johnson<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: una nueva moralidad desde la ciencia: el más allá</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Consilience_by_Edward_O_Wilson">
+          <span class="pr-2">Libros significativos: la consiliencia, la unidad del conocimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Me identifico fuertemente con estas afirmaciones: «_Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual._» ([LU 160:5.3](/es/The_Urantia_Book/160#p5_3)) «Habéis recibido gratuitamente las buenas cosas del reino; dad gratuitamente». ([LU 163:1.4](/es/The_Urantia_Book/163#p1_4))
+
+Me identifico fuertemente con estas afirmaciones: «_Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual._» (<a id="a37_296"></a>[LU 160:5.3](/es/The_Urantia_Book/160#p5_3)) «Habéis recibido gratuitamente las buenas cosas del reino; dad gratuitamente». (<a id="a37_421"></a>[LU 163:1.4](/es/The_Urantia_Book/163#p1_4))
 
 Los reveladores, según me han dicho, desafiaron a la Comisión de Contacto a darse cuenta de la importancia de los documentos que recibieron. Desde el momento en que leí por primera vez la sección sobre «La Realidad de Dios» en el Documento 1, supe intuitivamente que esto no provenía de simples humanos. Desgasté la tapa dura de mi primer Libro de Urantia llevándolo a todas partes. Todavía lo llevo donde quiera que vaya, con pocas excepciones. Lo hago automáticamente: es como llevar las llaves del coche, me sentiría desnudo sin ellas.
 
@@ -23,3 +47,28 @@ He probado muchas vías diferentes para llevar esta revelación a nuestro planet
 
 Sin embargo, si me dijeran: «J. J., ¿recuerdas a esa señora discapacitada en la parada del autobús? ¿Por qué no compartiste _El Libro de Urantia_ con ella? Mira lo que le hizo una caja de chocolates a Forest Gump cuando los compartió en la parada del autobús…»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: una nueva moralidad desde la ciencia: el más allá</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Consilience_by_Edward_O_Wilson">
+          <span class="pr-2">Libros significativos: la consiliencia, la unidad del conocimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

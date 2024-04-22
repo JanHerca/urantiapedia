@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Lynn E. Rhoderick<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor insondable de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Finding_Darwins_God_by_Kenneth_R_Miller">
+          <span class="pr-2">Libros importantes: Encontrar al Dios de Darwin, por Kenneth R. Miller</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando me reclutaron en el ejército durante la Guerra de Corea, traté de cumplir con mi juramento de Boy Scout de hacer lo mejor que pudiera para servir a Dios y a la patria. Pronto aprendí que los Boy Scouts no son bienvenidos en el ejército. Esto se debe a que la única manera de mantener contentos a la mayoría de los soldados y mantener su moral alta es dejarles dejar la moral en casa. Llegué a la conclusión de que el tipo de religión «Pollyanna» que me habían enseñado en mi ciudad natal no era demasiado práctica en el ejército.
@@ -24,7 +48,7 @@ Creo que _El Libro de Urantia_ ha hecho que las barreras de fe entre Dios y yo s
 3. Estoy seguro de que Dios me ama de verdad y que me ha dado dos regalos especiales. Estos dones son mi personalidad única y mi «Ajustador del Pensamiento» personal.
 4. Sé que este Ajustador del Pensamiento, mi ayudante celestial, me ha llevado a creer de todo corazón la siguiente promesa que Jesús hizo a todos los que creen en él:
 
-> _Enseñad a todos los creyentes que el hecho de entrar en el reino no los inmuniza contra los accidentes del tiempo ni las catástrofes ordinarias de la naturaleza. La creencia en el evangelio no impedirá que tengáis dificultades, pero sí asegurará que *no tendréis miedo* cuando se presenten las dificultades. Si os atrevéis a creer en mí y empezáis a seguirme de todo corazón, al hacerlo os meteréis con toda seguridad en el camino preciso que lleva a las dificultades. No os prometo liberaros de las aguas de la adversidad, pero lo que sí os prometo es atravesarlas todas con vosotros._ ([LU 159:3.13](/es/The_Urantia_Book/159#p3_13))
+> _Enseñad a todos los creyentes que el hecho de entrar en el reino no los inmuniza contra los accidentes del tiempo ni las catástrofes ordinarias de la naturaleza. La creencia en el evangelio no impedirá que tengáis dificultades, pero sí asegurará que *no tendréis miedo* cuando se presenten las dificultades. Si os atrevéis a creer en mí y empezáis a seguirme de todo corazón, al hacerlo os meteréis con toda seguridad en el camino preciso que lleva a las dificultades. No os prometo liberaros de las aguas de la adversidad, pero lo que sí os prometo es atravesarlas todas con vosotros._ (<a id="a50_591"></a>[LU 159:3.13](/es/The_Urantia_Book/159#p3_13))
 
 Recientemente, un amigo me regaló una copia del libro del Dr. James Dobson, Cuando Dios no tiene sentido. Creo que podría sentar bases importantes para ayudar a los cristianos a descubrir la Quinta Revelación de época. Lo único que lamento es que este libro no estuviera disponible en 1955, cuando entré en Wayland Baptist College. Podría haberme ayudado a convertirme en un ministro exitoso. La tesis del libro del Dr. Dobson es que muchos cristianos sinceros están siendo engañados por la «religión de la comida rápida» diseñada para resolver todos los problemas humanos. El Dr. Dobson cree en el «principio de adversidad». Proclama que todos los individuos progresan espiritualmente sólo aceptando con valentía las pruebas de la vida.
 
@@ -35,3 +59,28 @@ La preocupación central en mis «pruebas de vida» es encontrar un medio eficaz
 > _Lynn Rhoderick estudia desde hace mucho tiempo_ _El Libro de Urantia_. _Lynn se jubiló en 1994 después de enseñar treinta y seis años en escuelas públicas._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor insondable de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Finding_Darwins_God_by_Kenneth_R_Miller">
+          <span class="pr-2">Libros importantes: Encontrar al Dios de Darwin, por Kenneth R. Miller</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

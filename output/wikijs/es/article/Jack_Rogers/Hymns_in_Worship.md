@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Jack Rogers<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canción del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Media_and_Values">
+          <span class="pr-2">Medios y Valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Esta columna aborda la preocupación por las ayudas contemporáneas para el culto. Agradecemos el material que pueda inspirarle a escribir y compartir._
@@ -31,3 +55,28 @@ Esta columna buscará apoyar ese cambio y ofrecer aliento a los ministros que se
 
 «_¿Es esto realmente una ‘Nueva Era?’_» ¿Los himnos de la Nueva Era hacen una contribución significativa a la adoración, o deberíamos ignorarlos?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canción del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Media_and_Values">
+          <span class="pr-2">Medios y Valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

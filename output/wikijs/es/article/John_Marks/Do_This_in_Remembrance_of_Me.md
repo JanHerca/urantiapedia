@@ -9,12 +9,36 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 John Marks<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Id a todo el mundo, a cada raza, tribu y nación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="pr-2">Servicio de Comunión: La Cena del Recuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 > «_Todo ideal inspirador se apodera de algún simbolismo que lo perpetúe —busca alguna técnica de manifestación cultural que asegure su supervivencia y aumente su desarrollo— y el culto consigue esta finalidad mediante el fomento y la satisfacción de las emociones._»
 > 
-> «_Desde los albores de la civilización, todo movimiento atractivo de cultura social o de progreso religioso ha desarrollado un ritual, un ceremonial simbólico._» ([LU 87:7.1-2](/es/The_Urantia_Book/87#p7_1))
+> «_Desde los albores de la civilización, todo movimiento atractivo de cultura social o de progreso religioso ha desarrollado un ritual, un ceremonial simbólico._» (<a id="a40_165"></a>[LU 87:7.1-2](/es/The_Urantia_Book/87#p7_1))
 
 Una de las características de la religión es la realización de rituales. Los rituales religiosos suelen estar asociados con una historia o mito sagrado, y juntos, el ritual y la historia expresan simbólicamente el intento humano de interactuar con lo que se percibe como una realidad sagrada o divina. Un vasto cuerpo de estudios antropológicos, así como los hallazgos de la religión comparada, documentan la universalidad del ritual como un componente indispensable de la religión. Aunque existen muchas teorías sobre sus orígenes, naturaleza y funciones, es seguro decir que el ritual parece ser la principal técnica humana para representar o dramatizar, y así preservar mediante la repetición, sentimientos religiosos que se consideran vitales para el bienestar de una persona. comunidad particular (por lo tanto sagrada). [^2]
 
@@ -67,14 +91,39 @@ Por supuesto, las religiones reales no pueden simplemente fabricarse. En el proc
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Id a todo el mundo, a cada raza, tribu y nación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="pr-2">Servicio de Comunión: La Cena del Recuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notas
 
 [^1]: [Lucas 22;19](/es/Bible/Luke/22#v19)
 
 [^2]: Una excelente reseña del papel del ritual en la religión es el artículo «Ritual» de Evan M. Zuesse en _The Encyclopedia of Religion_, Mircea Eliade, Editor en Jefe (Nueva York: Macmillan, 1987), vol. 12, págs. 405-422
 
-[^3]: Por ejemplo, [Mat. 9:10-17](/es/Bible/Matthew/9#v10); [12:1-14](/es/Bible/Matthew/12#v1); [Marcos 2:15-28](/es/Bible/Mark/2#v15); [3:1-6](/es/Bible/Mark/3#v1); [Lucas 5:29-39](/es/Bible/Luke/5#v29); [6:1-11](/es/Bible/Luke/6#v1). [LU 147:5.1](/es/The_Urantia_Book/147#p5_1) - [LU 147:8.6](/es/The_Urantia_Book/147#p8_6)
+[^3]: Por ejemplo, [Mat. 9:10-17](/es/Bible/Matthew/9#v10); [12:1-14](/es/Bible/Matthew/12#v1); [Marcos 2:15-28](/es/Bible/Mark/2#v15); [3:1-6](/es/Bible/Mark/3#v1); [Lucas 5:29-39](/es/Bible/Luke/5#v29); [6:1-11](/es/Bible/Luke/6#v1). <a id="a124_236"></a>[LU 147:5.1](/es/The_Urantia_Book/147#p5_1) - <a id="a124_282"></a>[LU 147:8.6](/es/The_Urantia_Book/147#p8_6)
 
-[^4]: Ver [LU 120:3.6-7](/es/The_Urantia_Book/120#p3_6), puntos 5 y 6; cf. [LU 151:3.2-16](/es/The_Urantia_Book/151#p3_2).
+[^4]: Ver <a id="a126_10"></a>[LU 120:3.6-7](/es/The_Urantia_Book/120#p3_6), puntos 5 y 6; cf. <a id="a126_75"></a>[LU 151:3.2-16](/es/The_Urantia_Book/151#p3_2).
 
 [^5]: Ya en el tercer milenio a.E.C., los sacerdotes sumerios servían a las estatuas de sus dioses una comida sagrada, que luego consumían. Véase también Diccionario Bíblico Anchor, vol. 4: 653-655 sobre la antigüedad de la comida sagrada.

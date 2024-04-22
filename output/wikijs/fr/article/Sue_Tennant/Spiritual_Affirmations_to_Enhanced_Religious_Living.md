@@ -43,7 +43,9 @@ Ce don spirituel provient de la Source Absolue et Infinie de toute personnalité
 
 Une foi forte, combinée à de la patience et à des efforts intelligents, peut guérir les relations brisées et éliminer des montagnes de difficultés matérielles. La fréquence à laquelle affirmer les vérités spirituelles est une question entièrement individuelle, mais comme c'est si édifiant et agréable, plus vaut mieux que moins. Dès le matin, c'est efficace parce que l'esprit est très réceptif, puis souvent tout au long de la journée, il peut
 
-## Exemples d'affirmations spirituelles <br> Sur la relation fils/fille avec Dieu :
+## Exemples d'affirmations spirituelles
+
+***Sur la relation fils/fille avec Dieu :***
 
 Je choisis d'affirmer Dieu comme mon Père et je ne doute jamais de son amour et de sa miséricorde. Instant après instant, jour après jour, je permets à l’esprit qui m’habite de transformer mes perceptions, mes pensées et mes actions. Je suis conduit pas à pas des ténèbres à la lumière, du désespoir à l'espoir. L'univers est généreux et me fournit tout ce dont j'ai besoin pour apprendre et grandir.
 

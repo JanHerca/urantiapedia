@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Rebecca Kantor<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Nuestra principal responsabilidad: difundir la quinta revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sesión de verano de Vancouver, 1997
@@ -48,7 +72,7 @@ Cualquier comparación entre la sabiduría de la posición de la Hermandad en 19
 
 Lo que **sí** sabemos es que las buenas decisiones sobre la política de la Fellowship requieren una abundancia de _conocimiento, percepción experiencial y juicio sabio_.
 
-Los reveladores nos dicen que «a medida que el yo madura, se remonta cada vez más hacia el pasado en busca de experiencia, mientras que sus pronósticos de sabiduría buscan penetrar cada vez más profundamente en el futuro desconocido. Y a medida que el yo que concibe extiende este alcance cada vez más hacia el pasado y el futuro, el juicio se vuelve cada vez menos dependiente del presente momentáneo». ([LU 118:1.5](/es/The_Urantia_Book/118#p1_5))
+Los reveladores nos dicen que «a medida que el yo madura, se remonta cada vez más hacia el pasado en busca de experiencia, mientras que sus pronósticos de sabiduría buscan penetrar cada vez más profundamente en el futuro desconocido. Y a medida que el yo que concibe extiende este alcance cada vez más hacia el pasado y el futuro, el juicio se vuelve cada vez menos dependiente del presente momentáneo». (<a id="a74_405"></a>[LU 118:1.5](/es/The_Urantia_Book/118#p1_5))
 
 También podemos aplicar este concepto al proceso grupal. Debido a que deseamos tomar buenas decisiones basadas en la experiencia del pasado, un conocimiento adecuado del presente y con preocupación por el futuro, nos corresponde examinar con gran cuidado las razones subyacentes del cambio de actitud de la Hermandad en 1976 al contemplar cualquier cambio en la política de la Fellowship hoy.
 
@@ -84,18 +108,18 @@ El artículo del Dr. Sprunger de 1981 pronostica la situación actual cuando hac
 > 2. **Podemos reformar o revisar las instituciones religiosas existentes**. Es probable que la mayoría de los religiosos del mundo, después de leer y reconocer las enseñanzas superiores del Libro de Urantia, sigan este camino, al menos inicialmente.
 > 
 > **Cuando sea posible, normalmente es mejor construir sobre cimientos y tradiciones históricas**. Los autores de _El Libro de Urantia_ parecen dar a entender que el mejor enfoque para desarrollar una religión relevante en nuestro planeta en armonía con la Quinta Revelación de Época es trabajar hacia una revisión del cristianismo. Los reveladores hacen las siguientes declaraciones:
-> - El cristianismo es la mejor de las religiones del siglo XX. ([LU 195:9.8](/es/The_Urantia_Book/195#p9_8))
-> - Jesús impulsó a la iglesia como el mejor exponente de su vida-obra en la tierra. ([LU 195:10.9](/es/The_Urantia_Book/195#p10_9))
-> - La Iglesia cristiana es la etapa larvaria del reino espiritual, el capullo en el que ahora duerme el concepto de Jesús del reino de los cielos. ([LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
-> - Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús.. ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
-> - El reino de los cielos que Jesús enseñó algún día será proclamado a la Iglesia cristiana y a todas las demás religiones. ([LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
-> - En el artículo sobre «La fe de Jesús», los autores expresan la esperanza de que algún día una reforma de la Iglesia cristiana la devolverá a las enseñanzas puras de Jesús. ([LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
-> - Estamos llamados a construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la hermandad del reino de Jesús. ([LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
-> - _El Libro de Urantia_ dedica más tiempo a comentar sobre el cristianismo y hacer sugerencias o su mejora que sobre cualquier otra religión. Es uno de los mayores poderes para el bien en la Tierra y deberíamos tomarlo en serio. ([LU 195:10.12](/es/The_Urantia_Book/195#p10_12))
-> - Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros. ([LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
-> - La mayor esperanza de nuestro mundo reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. ([LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
+> - El cristianismo es la mejor de las religiones del siglo XX. (<a id="a110_65"></a>[LU 195:9.8](/es/The_Urantia_Book/195#p9_8))
+> - Jesús impulsó a la iglesia como el mejor exponente de su vida-obra en la tierra. (<a id="a111_86"></a>[LU 195:10.9](/es/The_Urantia_Book/195#p10_9))
+> - La Iglesia cristiana es la etapa larvaria del reino espiritual, el capullo en el que ahora duerme el concepto de Jesús del reino de los cielos. (<a id="a112_149"></a>[LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
+> - Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús.. (<a id="a113_177"></a>[LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
+> - El reino de los cielos que Jesús enseñó algún día será proclamado a la Iglesia cristiana y a todas las demás religiones. (<a id="a114_126"></a>[LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
+> - En el artículo sobre «La fe de Jesús», los autores expresan la esperanza de que algún día una reforma de la Iglesia cristiana la devolverá a las enseñanzas puras de Jesús. (<a id="a115_177"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
+> - Estamos llamados a construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la hermandad del reino de Jesús. (<a id="a116_147"></a>[LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
+> - _El Libro de Urantia_ dedica más tiempo a comentar sobre el cristianismo y hacer sugerencias o su mejora que sobre cualquier otra religión. Es uno de los mayores poderes para el bien en la Tierra y deberíamos tomarlo en serio. (<a id="a117_232"></a>[LU 195:10.12](/es/The_Urantia_Book/195#p10_12))
+> - Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros. (<a id="a118_182"></a>[LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
+> - La mayor esperanza de nuestro mundo reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. (<a id="a119_281"></a>[LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
 
-Y agregaría un comentario más, este de una Brillante Estrella Vespertina de Nebadon: «El culto cristiano primitivo era el más eficaz, atractivo y duradero de todos los rituales que se hayan concebido o inventado jamás, pero una gran parte de su valor ha sido aniquilada en la era científica mediante la destrucción de muchos de sus principios originales subyacentes. El culto cristiano se ha debilitado debido a la pérdida de muchas ideas fundamentales». ([LU 87:7.4](/es/The_Urantia_Book/87#p7_4))
+Y agregaría un comentario más, este de una Brillante Estrella Vespertina de Nebadon: «El culto cristiano primitivo era el más eficaz, atractivo y duradero de todos los rituales que se hayan concebido o inventado jamás, pero una gran parte de su valor ha sido aniquilada en la era científica mediante la destrucción de muchos de sus principios originales subyacentes. El culto cristiano se ha debilitado debido a la pérdida de muchas ideas fundamentales». (<a id="a121_456"></a>[LU 87:7.4](/es/The_Urantia_Book/87#p7_4))
 
 Así pues, los lectores del Libro de Urantia tienen ante sí al menos dos opciones cuando contemplan la formación de una comunidad religiosa: 1. la creación de un culto completamente nuevo, o 2 . una revisión de una de las religiones evolucionistas, con un sesgo revelador hacia el cristianismo.
 
@@ -149,7 +173,7 @@ A menos que sea consciente de este peligro y esté equipado, a través del entre
 
 Pero, ¿cómo adquiere una persona las habilidades necesarias para tener éxito en un liderazgo religioso remunerado, dada la cantidad de funciones y responsabilidades que se le exigen? ¿Qué es la habilidad? La habilidad surge cuando el _conocimiento_ es templado por la sabiduría y moldeado por la _introspección experiencial_. Pero la habilidad ministerial profesional requiere todos estos factores más una vida espiritual sana y activa que consista en oración privada y adoración al Dios vivo.
 
-Rodán, el filósofo griego, dijo: «Aunque estéis eficazmente preparados para afrontar las situaciones difíciles de la vida, no podéis esperar mucho éxito a menos que estéis provistos de esa sabiduría de la mente y de ese encanto de la personalidad que os permita conseguir el apoyo y la cooperación sincera de vuestros semejantes. Tanto en el trabajo seglar como en el trabajo religioso, no podéis esperar mucho éxito a menos que aprendáis a persuadir a vuestros semejantes, a convencer a los hombres. Simplemente debéis de tener tacto y tolerancia». ([LU 160:1.9](/es/The_Urantia_Book/160#p1_9))
+Rodán, el filósofo griego, dijo: «Aunque estéis eficazmente preparados para afrontar las situaciones difíciles de la vida, no podéis esperar mucho éxito a menos que estéis provistos de esa sabiduría de la mente y de ese encanto de la personalidad que os permita conseguir el apoyo y la cooperación sincera de vuestros semejantes. Tanto en el trabajo seglar como en el trabajo religioso, no podéis esperar mucho éxito a menos que aprendáis a persuadir a vuestros semejantes, a convencer a los hombres. Simplemente debéis de tener tacto y tolerancia». (<a id="a175_551"></a>[LU 160:1.9](/es/The_Urantia_Book/160#p1_9))
 
 ¿Qué proporcionará la sabiduría mental y el encanto de personalidad necesarios que permitan a su líder priorizar y desempeñar con éxito las numerosas funciones que le han sido delegadas, mientras se gana el apoyo y la cooperación cordial de sus grupos religiosos?
 
@@ -184,7 +208,7 @@ Dejame explicar.
 
 Jesús escogió a seis hombres para que fueran parte de su equipo. Ellos, a su vez, eligieron a seis compañeros de equipo adicionales. Más tarde, amplió su grupo de enseñanza y ministerio para incluir a setenta evangelistas más y diez mujeres, un acto que fue escandaloso en su cultura. En otras palabras, Jesús, como su Padre en el cielo, era un _delegador_. Delegó todos los aspectos imaginables de la gestión del grupo en sus doce apóstoles. Y aunque inicialmente carecían de formación en los métodos particulares de enseñanza y predicación de Jesús, colectivamente estaban bien versados en el conocimiento de la época. Los intermedios nos dicen:
 
-> No cometáis el error de considerar a los apóstoles como totalmente ignorantes e incultos. Todos, salvo los gemelos Alfeo, se habían graduado en las escuelas de la sinagoga, habiendo sido educados a fondo en las escrituras hebreas y en gran parte de los conocimientos corrientes de aquella época. Siete de ellos se habían graduado en las escuelas de la sinagoga de Cafarnaúm, y no existían mejores escuelas judías en toda Galilea. ([LU 139:0.3](/es/The_Urantia_Book/139#p0_3))
+> No cometáis el error de considerar a los apóstoles como totalmente ignorantes e incultos. Todos, salvo los gemelos Alfeo, se habían graduado en las escuelas de la sinagoga, habiendo sido educados a fondo en las escrituras hebreas y en gran parte de los conocimientos corrientes de aquella época. Siete de ellos se habían graduado en las escuelas de la sinagoga de Cafarnaúm, y no existían mejores escuelas judías en toda Galilea. (<a id="a210_433"></a>[LU 139:0.3](/es/The_Urantia_Book/139#p0_3))
 
 Miremos un poco más de cerca las funciones delegadas a los apóstoles, teniendo en cuenta las nueve tareas del ministerio que describí anteriormente:
 
@@ -231,8 +255,33 @@ Hay mucho más que decir sobre los desafíos y oportunidades de la religión org
 > _Rebecca Kantor tiene una Maestría en Religión, con intereses especiales en la psicología de la religión y la psicología del ministerio. Ha sido estudiante de_ El Libro de Urantia _durante más de 25 años._
 {.is-info}
 
-> La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la fraternidad del reino de Jesús debería emocionar a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne. ([LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
+> La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la fraternidad del reino de Jesús debería emocionar a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne. (<a id="a257_319"></a>[LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Nuestra principal responsabilidad: difundir la quinta revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

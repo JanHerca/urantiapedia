@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Meredith J. Sprunger<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El boletín informativo Reflectivité de Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Outreach_to_Young_Urantians">
+          <span class="pr-2">Acercamiento a los jóvenes urantianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En octubre de 1955 se publicó con gran entusiasmo _El Libro de Urantia_. La recién organizada Urantia Brotherhood se imaginó la organización de miles de grupos de estudio y la creación gradual de sociedades bien cimentadas. La naturaleza específica de estas sociedades era ambigua. La mayoría de los miembros fundadores consideraban a la Hermandad Urantia como una organización religiosa o cuasi religiosa. El Dr. Sadler vio claramente que las sociedades se desarrollaban como grupos religiosos auténticos.
@@ -44,7 +68,7 @@ Debemos desarrollar instituciones religiosas que brinden alimento espiritual a l
 Hay una serie de principios inherentes al desarrollo de nuevas instituciones religiosas que debemos tener en cuenta, tales como:
 
 1. El idealista que hay en muchos de nosotros, que nos hemos inspirado en _El Libro de Urantia_, ha proyectado una visión de la Quinta Revelación de Época que supera a todas las religiones del mundo y une a la humanidad en una comunidad espiritual común. Nos desanima el provincianismo y la rigidez de las instituciones religiosas contemporáneas y sentimos que lo último que necesitamos es otra institución religiosa. Pero las lecciones de la historia y las enseñanzas de _El Libro de Urantia_ nos dicen que los agentes sociales más eficaces del cambio espiritual son las nuevas instituciones religiosas que encarnan verdades espirituales más amplias. El Supremo trabaja desde la base hacia arriba, no de arriba hacia abajo. Este enfoque no es tan romántico como nuestra visión idealista, pero es el único proceso realista que sienta las bases para el crecimiento social y espiritual de la cultura.
-2. Las nuevas instituciones religiosas no están «diseñadas»: evolucionan. Los autores de _El Libro de Urantia_ nos recuerdan: «El hombre no puede provocar el crecimiento, pero puede proporcionar condiciones favorables». ([LU 100:3.7](/es/The_Urantia_Book/100#p3_7)) Deberíamos establecer este tipo de investigación «condicional». Habrá muchos tipos de nuevas organizaciones religiosas que surgirán de la Quinta Revelación de Época. Necesitamos preparar materiales para un posible uso por parte de dichas nuevas organizaciones religiosas. Numerosas personas me han pedido dicha ayuda en los últimos diez años; puede que esta investigación les resulte útil o no. Se supone que los recursos compilados durante un período de tiempo por estudiantes maduros de _El Libro de Urantia_ proporcionarán conocimientos y sabiduría útiles que de otra manera no podrían. estar disponible.
+2. Las nuevas instituciones religiosas no están «diseñadas»: evolucionan. Los autores de _El Libro de Urantia_ nos recuerdan: «El hombre no puede provocar el crecimiento, pero puede proporcionar condiciones favorables». (<a id="a70_221"></a>[LU 100:3.7](/es/The_Urantia_Book/100#p3_7)) Deberíamos establecer este tipo de investigación «condicional». Habrá muchos tipos de nuevas organizaciones religiosas que surgirán de la Quinta Revelación de Época. Necesitamos preparar materiales para un posible uso por parte de dichas nuevas organizaciones religiosas. Numerosas personas me han pedido dicha ayuda en los últimos diez años; puede que esta investigación les resulte útil o no. Se supone que los recursos compilados durante un período de tiempo por estudiantes maduros de _El Libro de Urantia_ proporcionarán conocimientos y sabiduría útiles que de otra manera no podrían. estar disponible.
 3. Debemos ser conscientes del contexto espiritual más amplio en el que funciona una institución religiosa. La hermandad de todas las personas, el parentesco de toda la humanidad, tiene lugar en el reino del Supremo. Una auténtica comunión espiritual, que es la base de una institución religiosa, tiene su origen en la conciencia del alma. El alma lleva la huella de su creación divino-humana y da lugar a una conciencia mental segunda o auxiliar. A medida que crecemos en el Supremo, nuestra identidad personal se transfiere cada vez más de la mente material a la conciencia del alma. Cada vez más operamos desde nuestra «alma-mente». Esta comunidad de almas es el fundamento de una institución religiosa genuina.
     Pero los seres humanos son mucho más que almas incorpóreas. Tenemos cuerpos materiales únicos y mentes basadas en materiales. Integramos nuestras vidas con personalidades diferentes y funcionamos en diversos grupos sociales. Por lo tanto, una institución religiosa sólida y útil debe tener la profundidad espiritual y la flexibilidad teológico-social para servir a una amplia variedad de seres humanos. Su sistema de gobierno debe encarnar la más elevada sabiduría experiencial.
 4. Yo, personalmente, no creo que la Fellowship deba estar conectada orgánica u oficialmente con esta investigación ni con ninguna institución religiosa que se derive de ella. Muchos estudiantes de _El Libro de Urantia_ todavía se sienten incómodos con las actividades religiosas institucionales. La Fellowship tiene un lugar en la coordinación de todos los tipos y niveles de actividad asociados con _El Libro de Urantia_. Podría alentar o incluso facilitar estas actividades religiosas sin involucrarse orgánicamente en ellas. Es de esperar que la Fellowship pueda establecer relaciones de cooperación con muchas organizaciones diversas y al mismo tiempo permanecer organizacionalmente independiente de ellas.
@@ -64,3 +88,28 @@ Nuestra intención es preparar el terreno para el advenimiento de instituciones 
 > _Meredith Sprunger es profesor universitario y ministro de la Iglesia Unida de Cristo, ahora jubilado y editor de The Spiritual Fellowship Journal._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El boletín informativo Reflectivité de Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Outreach_to_Young_Urantians">
+          <span class="pr-2">Acercamiento a los jóvenes urantianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

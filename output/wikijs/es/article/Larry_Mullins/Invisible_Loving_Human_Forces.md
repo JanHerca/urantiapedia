@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Larry Mullins<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="pr-2">Libros significativos: El arte de la posibilidad, Rosamund Stone Zander y Benjamin Zander</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 William James escribió, a principios del siglo pasado: «He terminado con grandes cosas y grandes planes, grandes instituciones y grandes éxitos. Estoy a favor de esas pequeñas, invisibles y amorosas fuerzas humanas que actúan de individuo a individuo, arrastrándose por los rincones del mundo como raicillas o como capilares que rezuman agua, pero que, si se les da tiempo, desgarrarán los monumentos más duros de la humanidad. orgullo humano._»
@@ -41,5 +65,30 @@ Compañeros peregrinos, nunca habrá un intervalo más fortuito en el que no hay
 
 Para nosotros, estos son ahora los días notables de la Quinta Revelación de Época, y esta es la hora de la «nueva y eterna religión de Jesús». Este es el tiempo del genio del pueblo, la gente corriente: los jóvenes, los urantianos silenciosos y anónimos, el ejército de laicos que volverán a hacer visible a Jesús ante un mundo hambriento de verdad.
 
-> «...pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. Es inútil hablar de un renacimiento del cristianismo primitivo; tenéis que avanzar desde el lugar donde os encontráis. La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. La religión no es más que un humanismo elevado hasta que se hace divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal.» ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> «...pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. Es inútil hablar de un renacimiento del cristianismo primitivo; tenéis que avanzar desde el lugar donde os encontráis. La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. La religión no es más que un humanismo elevado hasta que se hace divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal.» (<a id="a67_908"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="pr-2">Libros significativos: El arte de la posibilidad, Rosamund Stone Zander y Benjamin Zander</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

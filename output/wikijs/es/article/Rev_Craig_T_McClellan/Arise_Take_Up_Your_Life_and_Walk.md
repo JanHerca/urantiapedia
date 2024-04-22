@@ -9,13 +9,34 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Craig T. McClellan<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guía interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sermón de **Rev. Craig T. McClellan**
 
 Escritura: [Marcos 2:1-12](/es/Bible/Mark/2#v1)
 
-Nota: Estoy en deuda con una historia del ministerio de Jesús descrita en _El Libro de Urantia_ ([LU 130:6.1](/es/The_Urantia_Book/130#p6_1)) que he reformulado y mejorado con la Lección de las Escrituras.
+Nota: Estoy en deuda con una historia del ministerio de Jesús descrita en _El Libro de Urantia_ (<a id="a38_97"></a>[LU 130:6.1](/es/The_Urantia_Book/130#p6_1)) que he reformulado y mejorado con la Lección de las Escrituras.
 
 Voy a presentar el sermón de esta mañana en forma de meditación guiada. Por eso, te sugiero que te sientes de forma relajada, lo que te resulte cómodo en cuanto a tus manos y tus piernas. Si tienes algo en tus manos, te sugiero que lo dejes a tu lado. [pausa...] Te pediría que cerraras los ojos, te relajaras en la presencia de Dios, ... y concéntrate interiormente en esta historia de nuestro Señor Jesús que quiero compartir contigo... Sé consciente de tu respiración... mientras el aliento de vida, física y espiritualmente,... se mueve en ti y a través de ti. Cuando sientas que la respiración es aspirada hacia adentro, céntrate hacia abajo.... Céntrate y escucha esta historia de Dios...
 
@@ -45,3 +66,25 @@ Por eso, en el nombre de Jesucristo, os digo: ¡Levántate, toma tu vida y anda!
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guía interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

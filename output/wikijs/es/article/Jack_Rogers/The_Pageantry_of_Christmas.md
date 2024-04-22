@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El CiberCristo Emergente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today">
+          <span class="pr-2">Salmos hoy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **MÚSICA EN ADORACIÓN**
@@ -38,3 +62,28 @@ En primer lugar, debemos reconocer que es difícil reconstruir la historia. La N
 
 Felizmente, la información contenida en _El Libro de Urantia_ nos presenta la posibilidad de una alternativa creativa. Nos dice que Jesús nació el 21 de agosto, la época del año en la que algunos eruditos suponen que tuvo lugar su nacimiento. Esta fecha nos brinda la oportunidad de desarrollar una celebración que se centre en el significado espiritual de la Encarnación: la Paternidad de Dios y la hermandad de la humanidad. ¡Qué apertura tan fortuita podría ser esta para resaltar el mensaje central de la misión de Jesús en nuestro mundo! Aquí hay una base para el mayor esplendor posible del Adviento: ¡la presencia de Dios en nuestro mundo!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El CiberCristo Emergente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today">
+          <span class="pr-2">Salmos hoy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

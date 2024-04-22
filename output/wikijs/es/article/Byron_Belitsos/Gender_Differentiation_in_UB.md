@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Byron Belitsos<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/On_Elbows_and_Equality">
+          <span class="pr-2">Sobre los codos y la igualdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Esta columna es un extracto adoptado de un trabajo de investigación que será publicado por la Fellowship de Estudiantes de _El Libro de Urantia_.)
@@ -19,7 +43,7 @@ Aunque _El Libro de Urantia_ tiene muchas referencias a las diferencias de sexo,
 > 
 > La civilización nunca podrá eliminar el abismo que existe entre la conducta de los dos sexos. Las costumbres cambian de una época a la siguiente, pero el instinto jamás. El amor materno innato nunca permitirá a la mujer emancipada rivalizar seriamente con el hombre en la industria. Cada sexo permanecerá siempre supremo en su propio ámbito, un ámbito determinado por la diferenciación biológica y la disparidad mental.
 > 
-> Cada sexo tendrá siempre su propia esfera especial, aunque de vez en cuando se superpongan. Los hombres y las mujeres sólo competirán en términos de igualdad en el terreno social. ([LU 84:5.12-14](/es/The_Urantia_Book/84#p5_12))
+> Cada sexo tendrá siempre su propia esfera especial, aunque de vez en cuando se superpongan. Los hombres y las mujeres sólo competirán en términos de igualdad en el terreno social. (<a id="a45_183"></a>[LU 84:5.12-14](/es/The_Urantia_Book/84#p5_12))
 
 En el artículo de investigación más extenso, hemos considerado posibles definiciones de «dominios determinados por diferencias biológicas...» y la cuestión más controvertida de «dominios determinados por... disimilitud mental». Si continuamos siguiendo el hilo del argumento del Libro sobre las diferencias sexuales, llegaremos ahora a un concepto de género aún más controvertido: la noción de «esferas» complementarias pero distintivas de actividad específica de género, junto con un conjunto exclusivo de derechos indefinidos. pertenecientes a cada esfera. Estés o no de acuerdo con ello, este parece ser el concepto maestro de género del _Libro de Urantia_.
 
@@ -46,7 +70,7 @@ Al construir el primero de ellos, parece que los reveladores recorrieron a lo la
 
 Estas líneas parecen traducirse en el siguiente pasaje, uno de los más vívidos de todo el Libro:
 
-> Las mujeres parecen tener más intuición que los hombres, pero también parecen ser un poco menos lógicas. Sin embargo, la mujer ha sido siempre la abanderada moral y la dirigente espiritual de la humanidad. La mano que mece la cuna fraterniza todavía con el destino. ([LU 84:6.4](/es/The_Urantia_Book/84#p6_4))
+> Las mujeres parecen tener más intuición que los hombres, pero también parecen ser un poco menos lógicas. Sin embargo, la mujer ha sido siempre la abanderada moral y la dirigente espiritual de la humanidad. La mano que mece la cuna fraterniza todavía con el destino. (<a id="a72_269"></a>[LU 84:6.4](/es/The_Urantia_Book/84#p6_4))
 
 Ella es líder en espiritualidad y en la defensa de los estándares morales. Éste es el ámbito en el que ella ha reinado supremamente. ¿Ella todavía? El siguiente paso de la reveladora es un salto al concepto de su instintivo amor maternal. Sí, la madre de la especie da a luz y «fraterniza» con el destino del niño. Por supuesto, fraternizar es un término más débil que la noción sentimental de Wallace de «gobernar» el mundo. Aún así, este pasaje presenta una fuerte imagen de liderazgo.
 
@@ -88,7 +112,7 @@ Al menos así era antes de la revolución industrial. En la sección sobre «Las
 
 Además, esta liberación _material_ ha abierto otra cualidad distintiva de su esfera, según el Libro:
 
-> En otro tiempo, el valor de una mujer consistía en su capacidad para producir alimentos, pero los inventos y la prosperidad le han permitido crear un nuevo mundo en el cual actuar —el ámbito de la gracia y el encanto. La industria ha ganado así su batalla inconsciente y no intencional para la emancipación social y económica de la mujer. ([LU 84:5.8](/es/The_Urantia_Book/84#p5_8))
+> En otro tiempo, el valor de una mujer consistía en su capacidad para producir alimentos, pero los inventos y la prosperidad le han permitido crear un nuevo mundo en el cual actuar —el ámbito de la gracia y el encanto. La industria ha ganado así su batalla inconsciente y no intencional para la emancipación social y económica de la mujer. (<a id="a114_342"></a>[LU 84:5.8](/es/The_Urantia_Book/84#p5_8))
 
 He aquí un pasaje desconcertante para las feministas preocupadas por la igualdad de remuneración por el mismo trabajo. La «emancipación económica y social» de la mujer, lograda por la industria, no la lleva automáticamente a la industria para competir en igualdad de condiciones con los hombres como mujer emancipada. Más bien, le permite crear un mundo nuevo y bastante separado de, digamos, encanto y elegancia. Esto es a lo que la industria apunta inconscientemente en su «lucha involuntaria». Ésta es la ganancia evolutiva que «ni siquiera la revelación logró lograr».
 
@@ -101,7 +125,32 @@ Dejaré a otros una definición más detallada de «esferas de encanto y gracia�
 > _Byron ha sido periodista y productor de televisión y actualmente es consultor en la industria de las telecomunicaciones._
 {.is-info}
 
-> ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.» ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.» (<a id="a127_487"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
-> «Si la religión moderna encuentra difícil ajustar su actitud a las transformaciones sociales que varían con rapidez, es únicamente porque se ha permitido volverse completamente tradicional, dogmatizada e institucionalizada. La religión de la experiencia viviente no encuentra ninguna dificultad en mantenerse por delante de todos esos desarrollos sociales y agitaciones económicas, desempeñando siempre su actividad en medio de ellos como estabilizadora moral, guía social y piloto espiritual. La verdadera religión transporta de una época a la siguiente la cultura que merece la pena y esa sabiduría que ha nacido de la experiencia de conocer a Dios y de esforzarse por parecerse a él.» ([LU 99:2.6](/es/The_Urantia_Book/99#p2_6))
+> «Si la religión moderna encuentra difícil ajustar su actitud a las transformaciones sociales que varían con rapidez, es únicamente porque se ha permitido volverse completamente tradicional, dogmatizada e institucionalizada. La religión de la experiencia viviente no encuentra ninguna dificultad en mantenerse por delante de todos esos desarrollos sociales y agitaciones económicas, desempeñando siempre su actividad en medio de ellos como estabilizadora moral, guía social y piloto espiritual. La verdadera religión transporta de una época a la siguiente la cultura que merece la pena y esa sabiduría que ha nacido de la experiencia de conocer a Dios y de esforzarse por parecerse a él.» (<a id="a129_691"></a>[LU 99:2.6](/es/The_Urantia_Book/99#p2_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/On_Elbows_and_Equality">
+          <span class="pr-2">Sobre los codos y la igualdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

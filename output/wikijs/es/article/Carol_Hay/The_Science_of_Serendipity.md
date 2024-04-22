@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Carol Hay<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Urantia_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Una Iglesia Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Aphorism_on_Prayer_and_Worship">
+          <span class="pr-2">Aforismo sobre la oración y la adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La ciencia siempre me ha fascinado. Me han intrigado especialmente las historias de cómo algunos de los descubrimientos más importantes ocurrieron por casualidad, como cuando alguien accidentalmente derribó una botella en el laboratorio y encontró la solución a un problema desconcertante, o cómo algún científico caminaba por las calles en el en medio de la noche, incapaz de dormir debido a un problema que no podía resolver, y alguna actividad totalmente ajena, como sentarse en un banco del parque, de repente disipaba su confusión y le brindaba una respuesta muy clara al problema.
@@ -49,7 +73,7 @@ La historia de nuestro mundo es la historia de estructuras disipativas. La gran 
 
 ¿De dónde surgió esta creencia de que tenemos que mantener unido al mundo, de que los sistemas vivos son tan frágiles? Según Margaret Wheatley; Proviene de la ciencia del siglo XVII, el reduccionismo newtoniano, en el que el mundo era visto como una máquina increíble puesta en movimiento por Dios, un sistema cerrado como un reloj gigantesco. Era peligroso alterar el mecanismo. Sus líderes le dijeron a la humanidad que éste era un universo al que no se le podía confiar el cambio, el rejuvenecimiento y el crecimiento. Se nos advirtió que teníamos que controlar un sistema vivo porque una vez que fuera perturbado, se desmoronaría.
 
-Pero poco a poco estamos aprendiendo que no vivimos en un universo mecanicista: «El universo no se parece a las leyes, los mecanismos y las constantes que descubre el científico, y que llega a considerar como ciencia, sino que se parece más bien al *científico* curioso que piensa, escoge, crea, combina y discrimina, que observa así los fenómenos del universo y clasifica los hechos matemáticos inherentes a las fases mecanicistas del aspecto material de la creación». ([LU 195:7.22](/es/The_Urantia_Book/195#p7_22)) Cambia y crece como indígena en el universo. La fluctuación y la modificación son parte del proceso mismo mediante el cual se crea el orden. En lugar de valorar la estabilidad, deberíamos valorar la _resiliencia_.
+Pero poco a poco estamos aprendiendo que no vivimos en un universo mecanicista: «El universo no se parece a las leyes, los mecanismos y las constantes que descubre el científico, y que llega a considerar como ciencia, sino que se parece más bien al *científico* curioso que piensa, escoge, crea, combina y discrimina, que observa así los fenómenos del universo y clasifica los hechos matemáticos inherentes a las fases mecanicistas del aspecto material de la creación». (<a id="a75_471"></a>[LU 195:7.22](/es/The_Urantia_Book/195#p7_22)) Cambia y crece como indígena en el universo. La fluctuación y la modificación son parte del proceso mismo mediante el cual se crea el orden. En lugar de valorar la estabilidad, deberíamos valorar la _resiliencia_.
 
 ¿Qué hace que un sistema sea capaz de ser resiliente y reorganizarse? ¿Cuál es la característica clave de un sistema saludable y autoorganizado? La respuesta es «autorreferencia». En respuesta a perturbaciones ambientales o internas que señalan la necesidad de cambio, un sistema puede cambiar de manera que siga siendo consistente con su naturaleza esencial. A medida que cambia, lo hace refiriéndose a sí mismo; cualquier cambio que haga será consistente con su identidad ya establecida. La autorreferencia es lo que facilita el cambio ordenado. Cuando te cortas, por ejemplo, ¿cómo sabe tu cuerpo que se supone que le debe crecer piel en lugar de pelo en ese lugar? Porque el cuerpo se refiere a sí mismo y encuentra la respuesta en tu ADN. El cuerpo es un sistema autoorganizado que forma parte de un sistema mucho más complejo del ser humano holístico. La personalidad y el Espíritu de Dios que mora en nosotros son los núcleos que constituyen nuestros puntos de referencia inmutables. Cuando oramos o adoramos, nos auto-referenciamos con nuestras fuentes últimas de ser.
 
@@ -92,3 +116,28 @@ De las nuevas ciencias he aprendido que la vida está infinitamente más integra
 > _Carol Hay, estudiante de The Lrantia Book desde hace mucho tiempo, habla extensamente ante grupos de iglesias sobre el crecimiento religioso personal y es editora de The Invisible Fellowship Magazine._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Urantia_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Una Iglesia Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Aphorism_on_Prayer_and_Worship">
+          <span class="pr-2">Aforismo sobre la oración y la adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

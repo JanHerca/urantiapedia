@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Rev. Gregory Young<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Metavalores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="pr-2">Hacer la voluntad del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me gustaría plantear una pregunta retórica: «¿Crees que la única vida que vale la pena vivir es la que se basa en la verdad y se dedica a amar a Dios y a la humanidad?» Muchos de nosotros probablemente estaríamos de acuerdo en que éste es un ideal noble. A la luz de este ideal, mira tu vida y recuerda todo aquello con lo que estás comprometido de todo corazón. ¿Por qué estás realmente dispuesto a hacer sacrificios?
@@ -46,3 +70,28 @@ Por lo tanto, avancemos como pioneros espirituales; aprender a deleitarse con la
 > _Gregory Young es pastor de la Iglesia Unida de Cristo St. John en Germantown, Wisconsin._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Metavalores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="pr-2">Hacer la voluntad del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

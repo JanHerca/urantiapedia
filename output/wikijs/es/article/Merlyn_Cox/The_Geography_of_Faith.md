@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Merlyn H. Cox<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El impacto cultural del libro de Urantia en los próximos cincuenta años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="pr-2">Algunas citas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «Tierra Santa» siempre ha despertado un especial interés e incluso fascinación para los cristianos. Los peregrinos han viajado durante mucho tiempo hasta allí para estar cerca de los lugares donde tuvieron lugar los acontecimientos del Antiguo y Nuevo Testamento. Es más que una cuestión de satisfacer la curiosidad académica. Tanto para cristianos como para judíos, viajar a Israel es una especie de regreso a la casa espiritual. La gente desea «caminar por donde caminó Jesús», visitar los pueblos y áreas donde vivió y enseñó, contemplar el paisaje y ver las mismas colinas y valles y las aguas brillantes del Mar de Galilea.
@@ -52,15 +76,15 @@ Tampoco está claro cómo era Nazaret en los días de Jesús. Algunos creen que 
 
 ## Palestina del Nuevo Testamento en _El Libro de Urantia_
 
-En contraste con la falta de detalles en el Nuevo Testamento sobre la geografía de los acontecimientos en la vida de Jesús, _El Libro de Urantia_ es rico en tales detalles. Por ejemplo, el viaje de Jesús desde Beerseba a Dan antes del comienzo de su ministerio público se describe de la siguiente manera: «En este viaje hacia el norte se detuvo en Hebrón, Belén (donde vio su lugar de nacimiento), Jerusalén (no visitó Betania), Beerot, Lebona, Sicar, Siquem, Samaria, Geba, En-Ganim, Endor y Madón. Atravesando Magdala y Cafarnaúm, continuó hacia el norte, pasando al este de las Aguas de Merom, y se dirigió por Cárata hasta Dan o Cesarea de Filipo». ([LU 134:7.5](/es/The_Urantia_Book/134#p7_5))
+En contraste con la falta de detalles en el Nuevo Testamento sobre la geografía de los acontecimientos en la vida de Jesús, _El Libro de Urantia_ es rico en tales detalles. Por ejemplo, el viaje de Jesús desde Beerseba a Dan antes del comienzo de su ministerio público se describe de la siguiente manera: «En este viaje hacia el norte se detuvo en Hebrón, Belén (donde vio su lugar de nacimiento), Jerusalén (no visitó Betania), Beerot, Lebona, Sicar, Siquem, Samaria, Geba, En-Ganim, Endor y Madón. Atravesando Magdala y Cafarnaúm, continuó hacia el norte, pasando al este de las Aguas de Merom, y se dirigió por Cárata hasta Dan o Cesarea de Filipo». (<a id="a78_654"></a>[LU 134:7.5](/es/The_Urantia_Book/134#p7_5))
 
-En otra ocasión, Jesús y sus discípulos, yendo desde Cesarea de Filipo a la costa fenicia, «rodearon la región pantanosa, pasando por Luz, hasta el empalme con el camino de Magdala hacia el Monte Líbano, y desde allí hasta el cruce con la carretera que conducía a Sidón, donde llegaron el viernes por la tarde». ([LU 155:4.1](/es/The_Urantia_Book/155#p4_1))
+En otra ocasión, Jesús y sus discípulos, yendo desde Cesarea de Filipo a la costa fenicia, «rodearon la región pantanosa, pasando por Luz, hasta el empalme con el camino de Magdala hacia el Monte Líbano, y desde allí hasta el cruce con la carretera que conducía a Sidón, donde llegaron el viernes por la tarde». (<a id="a80_313"></a>[LU 155:4.1](/es/The_Urantia_Book/155#p4_1))
 
-Durante la misión de Perea, «trabajaron en las ciudades y poblaciones siguientes, así como en unos cincuenta pueblos adicionales: Zafón, Gadara, Macad, Arbela, Ramat, Edrei, Bosora, Caspin, Mispé, Gerasa, Ragaba, Sucot, Amatus, Adam, Penuel, Capitolias, Dion, Hatita, Gada, Filadelfia, Jogbeha, Galaad, Bet-Nimra, Tiro, Eleale, Livias, Hesbón, Callirhue, Bet-Peor, Sitim, Sibma, Medeba, Bet-Meón, Areópolis y Aroer». ([LU 165:0.1](/es/The_Urantia_Book/165#p0_1))
+Durante la misión de Perea, «trabajaron en las ciudades y poblaciones siguientes, así como en unos cincuenta pueblos adicionales: Zafón, Gadara, Macad, Arbela, Ramat, Edrei, Bosora, Caspin, Mispé, Gerasa, Ragaba, Sucot, Amatus, Adam, Penuel, Capitolias, Dion, Hatita, Gada, Filadelfia, Jogbeha, Galaad, Bet-Nimra, Tiro, Eleale, Livias, Hesbón, Callirhue, Bet-Peor, Sitim, Sibma, Medeba, Bet-Meón, Areópolis y Aroer». (<a id="a82_418"></a>[LU 165:0.1](/es/The_Urantia_Book/165#p0_1))
 
-Hay referencias a más de ciento veinticinco pueblos y aldeas en estas narraciones. Describe Galilea como «una provincia de pueblos agrícolas y de ciudades industriales florecientes, con más de doscientas ciudades por encima de los cinco mil habitantes y treinta con más de quince mil». ([LU 124:2.9](/es/The_Urantia_Book/124#p2_9))
+Hay referencias a más de ciento veinticinco pueblos y aldeas en estas narraciones. Describe Galilea como «una provincia de pueblos agrícolas y de ciudades industriales florecientes, con más de doscientas ciudades por encima de los cinco mil habitantes y treinta con más de quince mil». (<a id="a84_287"></a>[LU 124:2.9](/es/The_Urantia_Book/124#p2_9))
 
-Respecto a la ciudad de Nazaret, «Desde tiempos inmemoriales, muchas rutas de caravanas procedentes de Oriente pasaban por alguna parte de esta región hacia los escasos buenos puertos de mar del extremo oriental del Mediterráneo, desde donde los barcos transportaban sus cargamentos a todo el Occidente marítimo. Y más de la mitad del tráfico de estas caravanas pasaba por la pequeña ciudad de Nazaret en Galilea, o cerca de ella». ([LU 121:2.2](/es/The_Urantia_Book/121#p2_2))
+Respecto a la ciudad de Nazaret, «Desde tiempos inmemoriales, muchas rutas de caravanas procedentes de Oriente pasaban por alguna parte de esta región hacia los escasos buenos puertos de mar del extremo oriental del Mediterráneo, desde donde los barcos transportaban sus cargamentos a todo el Occidente marítimo. Y más de la mitad del tráfico de estas caravanas pasaba por la pequeña ciudad de Nazaret en Galilea, o cerca de ella». (<a id="a86_433"></a>[LU 121:2.2](/es/The_Urantia_Book/121#p2_2))
 
 Nazaret era una estación de paso para las caravanas y una encrucijada de viajes. El principal medio de José para mantener a su joven familia era administrar un pequeño taller cerca del lote de caravanas. Aquí Jesús, siendo joven, pudo escuchar las conversaciones de conductores y pasajeros de todo el mundo conocido.
 
@@ -98,9 +122,9 @@ Según _El Libro de Urantia_, Betsaida era de hecho el hogar de Zebedeo y sus do
 
 En el Evangelio de Marcos, se dice que Pedro vivió en Cafarnaúm, mientras que Juan dice que Betsaida era la «ciudad de Andrés y Pedro». Si Betsaida no sólo fue el lugar de nacimiento de Pedro, sino también su hogar cuando era adulto, y estos pueblos estaban tan juntos, esto podría explicar cierta confusión en los registros.
 
-Según las narraciones de _El Libro de Urantia_, el hogar de Zebedeo se convirtió en la sede de los discípulos y la base de su actividad misionera y evangelística. El gran acontecimiento de múltiples curaciones tuvo lugar en el patio delantero de la casa de Zebedeo la misma noche del ministerio de Jesús a la suegra de Pedro. Y fue en casa de Zebedec donde el paralítico, «traído por sus amigos desde Cafarnaúm en una pequeña litera», fue bajado desde el techo. ([LU 148:9.2](/es/The_Urantia_Book/148#p9_2)) Hubo un tiempo en que Betsaida era la ubicación de una gran ciudad de tiendas de campaña junto al mar formada por varios buscadores y seguidores, e incluía una escuela de capacitación para nuevos discípulos, así como un hospital considerable.
+Según las narraciones de _El Libro de Urantia_, el hogar de Zebedeo se convirtió en la sede de los discípulos y la base de su actividad misionera y evangelística. El gran acontecimiento de múltiples curaciones tuvo lugar en el patio delantero de la casa de Zebedeo la misma noche del ministerio de Jesús a la suegra de Pedro. Y fue en casa de Zebedec donde el paralítico, «traído por sus amigos desde Cafarnaúm en una pequeña litera», fue bajado desde el techo. (<a id="a124_463"></a>[LU 148:9.2](/es/The_Urantia_Book/148#p9_2)) Hubo un tiempo en que Betsaida era la ubicación de una gran ciudad de tiendas de campaña junto al mar formada por varios buscadores y seguidores, e incluía una escuela de capacitación para nuevos discípulos, así como un hospital considerable.
 
-También es interesante observar que, según _El Libro de Urantia_, fue Betsaida-Julia, no Betsaida, la que figuraba entre las ciudades que no respondieron a la proclamación de las buenas nuevas: «Pero, ¡ay de los habitantes que rechazan la luz en Corazín, Betsaida-Julias y Cafarnaúm, esas ciudades que no han recibido bien a estos mensajeros! Declaro que si las obras poderosas que se han hecho en esos lugares hubieran sido hechas en Tiro y en Sidón, los habitantes de esas ciudades llamadas paganas se habrían arrepentido hace mucho tiempo dándose golpes de pecho». ([LU 163:6.5](/es/The_Urantia_Book/163#p6_5))
+También es interesante observar que, según _El Libro de Urantia_, fue Betsaida-Julia, no Betsaida, la que figuraba entre las ciudades que no respondieron a la proclamación de las buenas nuevas: «Pero, ¡ay de los habitantes que rechazan la luz en Corazín, Betsaida-Julias y Cafarnaúm, esas ciudades que no han recibido bien a estos mensajeros! Declaro que si las obras poderosas que se han hecho en esos lugares hubieran sido hechas en Tiro y en Sidón, los habitantes de esas ciudades llamadas paganas se habrían arrepentido hace mucho tiempo dándose golpes de pecho». (<a id="a126_569"></a>[LU 163:6.5](/es/The_Urantia_Book/163#p6_5))
 
 En retrospectiva, uno podría cuestionar el relato de los evangelios por esta razón: ¿por qué Jesús habría mencionado a Betsaida, cuando, de hecho, era tan claramente productiva en cuanto a discípulos y seguidores?
 
@@ -114,6 +138,31 @@ Esto no es más que una breve descripción de cómo se puede utilizar _El Libro 
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El impacto cultural del libro de Urantia en los próximos cincuenta años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="pr-2">Algunas citas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

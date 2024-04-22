@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Larry Mullins<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunas fuentes humanas del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Mind_of_God_by_Paul_Davies">
+          <span class="pr-2">Libros importantes: La mente de Dios de Paul Davies</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Menos espectacular que el colapso del comunismo, pero igualmente significativa, es la evolución de las empresas estadounidenses hacia el móvil del servicio. En la última década, las vacas sagradas gemelas de las ganancias y el poder han ido perdiendo lentamente primacía frente a ideales más elevados.
@@ -17,7 +41,7 @@ En las empresas ilustradas, el beneficio ya no se persigue como único objetivo 
 
 Hace veinticinco años, cuando yo era un joven ejecutivo de publicidad, la advertencia hecha en 71:6.1 de _El Libro de Urantia_ parecía increíblemente optimista:
 
-> La economía actual, motivada por el lucro, está condenada al fracaso a menos que los móviles del servicio se añadan a los móviles del lucro. La competencia implacable, basada en el egoísmo de miras estrechas, termina finalmente por destruir aquellas mismas cosas que pretendía conservar. La motivación que busca un beneficio exclusivo para sí mismo es incompatible con los ideales cristianos —y mucho más con las enseñanzas de Jesús. ([LU 71:6.1](/es/The_Urantia_Book/71#p6_1))
+> La economía actual, motivada por el lucro, está condenada al fracaso a menos que los móviles del servicio se añadan a los móviles del lucro. La competencia implacable, basada en el egoísmo de miras estrechas, termina finalmente por destruir aquellas mismas cosas que pretendía conservar. La motivación que busca un beneficio exclusivo para sí mismo es incompatible con los ideales cristianos —y mucho más con las enseñanzas de Jesús. (<a id="a43_437"></a>[LU 71:6.1](/es/The_Urantia_Book/71#p6_1))
 
 El propósito de este artículo es documentar algunos de los cambios radicales que están surgiendo en las empresas, organizaciones e instituciones estadounidenses. Mi premisa es que estas transformaciones son evidencia de la exactitud de la predicción de _El Libro de Urantia_ sobre la evolución del motivo de servicio. Más que esto, busco mostrar que algunos de los principios de Jesús están siendo ampliamente aplicados por empresas ilustradas.
 
@@ -35,7 +59,7 @@ En su libro, Arthur Nash escribió sobre su preocupación por la gran cantidad d
 
 Nash continuó diciendo que la frase: «_¡El cristianismo no había fracasado, simplemente porque el cristianismo aún no había sido probado!_» había sido tomada de él por varios escritores durante la Primera Guerra Mundial. Ahora compare su cita con este extracto de 154:4.6 de _El Libro de Urantia_:
 
-> Los hombres de muchas generaciones posteriores han dicho las mismas cosas. Incluso en la época más iluminada de las presentes revelaciones, muchos hombres inteligentes y con buenas intenciones sostienen que la civilización moderna no podría haberse construido sobre las enseñanzas de Jesús —y en parte tienen razón. Pero todos esos escépticos olvidan que se podría haber construido una civilización mucho mejor sobre sus enseñanzas, y que alguna vez se construirá. Este mundo nunca ha intentado seriamente poner en práctica, a gran escala, las enseñanzas de Jesús, aunque a menudo se han hecho intentos poco entusiastas por seguir las doctrinas del llamado cristianismo. ([LU 154:4.6](/es/The_Urantia_Book/154#p4_6))
+> Los hombres de muchas generaciones posteriores han dicho las mismas cosas. Incluso en la época más iluminada de las presentes revelaciones, muchos hombres inteligentes y con buenas intenciones sostienen que la civilización moderna no podría haberse construido sobre las enseñanzas de Jesús —y en parte tienen razón. Pero todos esos escépticos olvidan que se podría haber construido una civilización mucho mejor sobre sus enseñanzas, y que alguna vez se construirá. Este mundo nunca ha intentado seriamente poner en práctica, a gran escala, las enseñanzas de Jesús, aunque a menudo se han hecho intentos poco entusiastas por seguir las doctrinas del llamado cristianismo. (<a id="a61_674"></a>[LU 154:4.6](/es/The_Urantia_Book/154#p4_6))
 
 ## La regla de oro en acción
 
@@ -55,7 +79,7 @@ En su libro, Nash instó a que todas las empresas adoptaran sus métodos, declar
 
 _El Libro de Urantia_ amplía un concepto similar en 195:10.1:
 
-> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. ... La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. ... La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. (<a id="a81_536"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 ## Una perspectiva moderna
 
@@ -85,7 +109,7 @@ _Competing Against Time_ fue escrito por George Stalk, Jr. y Thomas M. Hout, dos
 
 Se podría argumentar que tales motivaciones son claramente egoístas y no de servicio en su forma más pura. Pero _El Libro de Urantia_ declara que el motivo de servicio debe aumentar el motivo de lucro, no suplantarlo. _El Libro de Urantia_ también advierte contra un abandono precipitado de la economía motivada por las ganancias:
 
-> _En un tipo avanzado de sociedad, el afán de lucro en las actividades económicas es totalmente despreciable y enteramente indigno; sin embargo, es un factor indispensable durante todas las fases iniciales de la civilización. A los hombres no se les debe quitar el móvil del lucro hasta que posean firmemente unos móviles no lucrativos de tipo superior que puedan emplear en la competencia económica y en el servicio social —la motivación trascendente de una sabiduría superlativa, una fraternidad fascinante y una consecución espiritual magnífica._ ([LU 71:6.3](/es/The_Urantia_Book/71#p6_3))
+> _En un tipo avanzado de sociedad, el afán de lucro en las actividades económicas es totalmente despreciable y enteramente indigno; sin embargo, es un factor indispensable durante todas las fases iniciales de la civilización. A los hombres no se les debe quitar el móvil del lucro hasta que posean firmemente unos móviles no lucrativos de tipo superior que puedan emplear en la competencia económica y en el servicio social —la motivación trascendente de una sabiduría superlativa, una fraternidad fascinante y una consecución espiritual magnífica._ (<a id="a111_552"></a>[LU 71:6.3](/es/The_Urantia_Book/71#p6_3))
 
 La quiebra y desintegración del comunismo nos tomó por sorpresa. De una manera menos sensacionalista, los sabios líderes empresariales están modulando a los dioses del poder y las ganancias, largamente venerados, a un estatus secundario. Algunas de las organizaciones más rentables de la actualidad arden con una dedicación casi fanática al excelente servicio al cliente.
 
@@ -107,7 +131,7 @@ El clero progresista ha introducido conceptos como _Liderazgo de servicio_ [^2] 
 
 En _El Libro de Urantia_, el proceso de empoderamiento se describe a menudo como un requisito en el ministerio de Jesús. De 159:3.3 (Jesús está hablando):
 
-> Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y de refrenarla en los que la tienen. ... No olvidéis que no me detendré ante nada para restablecer la autoestima en aquellos que la han perdido, y que realmente desean recuperarla. ([LU 159:3.3](/es/The_Urantia_Book/159#p3_3))
+> Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y de refrenarla en los que la tienen. ... No olvidéis que no me detendré ante nada para restablecer la autoestima en aquellos que la han perdido, y que realmente desean recuperarla. (<a id="a133_280"></a>[LU 159:3.3](/es/The_Urantia_Book/159#p3_3))
 
 El concepto de empoderamiento a través de la mejora de la autoestima está siendo adoptado y enseñado con urgencia por líderes influyentes y respetados en el mundo empresarial. Tenga en cuenta este comentario de las páginas de _Horizontal Management_ [^3]:
 
@@ -152,6 +176,31 @@ Pero seguramente algún día un gran líder empresarial hará la pregunta fundam
 > _Larry Mullins es presidente de Mutual Commiment Management, Boulder, Colorado, y consultor en publicidad y marketing. Es autor de «Gente inmadura con poder» y «Jesús: Dios y el hombre».
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunas fuentes humanas del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Mind_of_God_by_Paul_Davies">
+          <span class="pr-2">Libros importantes: La mente de Dios de Paul Davies</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

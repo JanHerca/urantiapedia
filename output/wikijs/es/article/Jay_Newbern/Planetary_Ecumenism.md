@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jay Newbern<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mitología del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="pr-2">Revelación y paciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «Dios es Uno y le gusta la unidad». (Hadith, Is-)
@@ -67,13 +91,38 @@ Nuestra civilización y sus culturas mundiales están amenazadas, así como la b
 
 Lo que parece imposible para los mortales es, por supuesto, posible para Dios. Él nos envía su Palabra de Verdad para animarnos en nuestra gran lucha. A continuación se presentan dos ejemplos, uno de la revelación divina y el otro de las sagradas escrituras islámicas:
 
-> «Las religiones de desesperación pesimista tratan de liberarse de las cargas de la vida; anhelan la extinción en un sueño y un reposo sin fin. Son las religiones del miedo y del temor primitivos. La religión de Jesús es un nuevo evangelio de fe que se ha de proclamar a una humanidad que lucha. Esta nueva religión está fundada en la fe, la esperanza y el amor.» ([LU 194:3.2](/es/The_Urantia_Book/194#p3_2))
+> «Las religiones de desesperación pesimista tratan de liberarse de las cargas de la vida; anhelan la extinción en un sueño y un reposo sin fin. Son las religiones del miedo y del temor primitivos. La religión de Jesús es un nuevo evangelio de fe que se ha de proclamar a una humanidad que lucha. Esta nueva religión está fundada en la fe, la esperanza y el amor.» (<a id="a93_366"></a>[LU 194:3.2](/es/The_Urantia_Book/194#p3_2))
 
 > «Agarraos todos firmemente de la cuerda de Dios. No os dividáis en divisiones. Recordad la gracia de Dios para con vosotros, cómo antes erais enemigos y Él unió vuestros corazones en lazos mutuos, de modo que por Su gracia os convertisteis en hermanos». ([Corán 3:103](/es/book/Islam/Quran/3#v103))
 
 Amén. (Que así sea)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mitología del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="pr-2">Revelación y paciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

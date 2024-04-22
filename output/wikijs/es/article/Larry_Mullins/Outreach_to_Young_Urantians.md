@@ -9,11 +9,32 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Larry Mullins<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro de la quinta revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «Si la iglesia cristiana se atreviera tan sólo a abrazar el programa del Maestro, miles de jóvenes aparentemente indiferentes se precipitarían para alistarse en esta empresa espiritual, y no dudarían en llevar a cabo hasta el fin esta gran aventura.» ([LU 195:10.10](/es/The_Urantia_Book/195#p10_10))
 
-> «Sólo la verdadera religión de la experiencia espiritual personal puede ejercer sus funciones de manera útil y creativa en la crisis actual de la civilización.» ([LU 99:2.1](/es/The_Urantia_Book/99#p2_1))
+> «Si la iglesia cristiana se atreviera tan sólo a abrazar el programa del Maestro, miles de jóvenes aparentemente indiferentes se precipitarían para alistarse en esta empresa espiritual, y no dudarían en llevar a cabo hasta el fin esta gran aventura.» (<a id="a34_254"></a>[LU 195:10.10](/es/The_Urantia_Book/195#p10_10))
+
+> «Sólo la verdadera religión de la experiencia espiritual personal puede ejercer sus funciones de manera útil y creativa en la crisis actual de la civilización.» (<a id="a36_164"></a>[LU 99:2.1](/es/The_Urantia_Book/99#p2_1))
 
 El potencial religioso más poderoso y atractivo que jamás haya existido en este planeta, y el mayor regalo jamás otorgado a hombres y mujeres, ha sido muy lento en su desarrollo. En los Documentos de Urantia se nos dice que el ámbito más fértil para la evangelización son los jóvenes. Para aquellos urantianos que no tienen mucha experiencia en evangelismo personal (y yo lo soy), este tipo de alcance ofrece una atmósfera amigable y gentil.
 
@@ -27,3 +48,25 @@ Uno o más artículos o artículos bien escritos sobre el tema de la creación d
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro de la quinta revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

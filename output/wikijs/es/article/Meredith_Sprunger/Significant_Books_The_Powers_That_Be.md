@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Meredith J. Sprunger<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Galilee Doubleday, Nueva York, 1998, 207 págs.
@@ -23,3 +44,25 @@ El profesor Wink ha escrito un libro brillante y útil. Las limitaciones del lib
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

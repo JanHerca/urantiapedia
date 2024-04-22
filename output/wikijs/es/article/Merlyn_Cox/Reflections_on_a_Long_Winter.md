@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="pr-2">Hacia el compañerismo espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Al mirar por la ventana de mi estudio durante el mes de marzo, me cansé de ver el mismo marrón universal que caracteriza el final del invierno. Siempre trato de consolarme en esta época del año con una cuenta regresiva para la primavera, pero este año, justo hasta el día designado y pasado, el viento frío fue implacable y los pronósticos a largo plazo simplemente no cambiaron: temperaturas por debajo de lo normal. siguió viniendo como un mantra, sin interrupción a la vista.
@@ -40,3 +64,28 @@ Este número está cargado de artículos relacionados con la ciencia y _El Libro
 
 - Aquellos con experiencia en ciencia o análisis estadístico pueden haber notado que en el «Desafío: parte 1» de Ken Glasziou, se omitió inadvertidamente un signo menos en la designación de poderes en la página 12, en la sección «Más allá del espacio…»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="pr-2">Hacia el compañerismo espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Rev. Gregory Young<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio de Comunión: La Cena del Recuerdo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/God_the_Supreme">
+          <span class="pr-2">Dios el Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay una historia interesante sobre un evento inusual que ocurrió en un teatro de Broadway. Era viernes por la noche y el teatro estaba lleno para ver la representación de La noche de la iguana, de Tennessee Williams, protagonizada por la notable actriz Dorothy McGuire. Justo antes de que el telón estuviera a punto de levantarse, una mujer entre el público, una mujer de mediana edad con sobrepeso y vestida con un vestido estampado azul, sorprendió al público gritando de repente: «¡Empieza el espectáculo! ¡Empieza el espectáculo! Quiero ver a Dorothy McGuire. ¡Amo a Dorothy McGuire!» Los ujieres y el administrador de la casa descendieron para intentar hacer entrar en razón a la mujer. Se acercaron a ella, pero ella se echó hacia atrás y continuó gritando: «¡Quiero ver a Dorothy McGuire! ¡Que comience el espectáculo!».
@@ -82,3 +106,28 @@ Nunca puedo entender del todo
 El valor de un alma y el cambio que se ha producido
 Por el toque de la mano del Maestro.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio de Comunión: La Cena del Recuerdo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/God_the_Supreme">
+          <span class="pr-2">Dios el Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

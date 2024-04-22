@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 La Fellowship Cristiana de Estudiantes de <i>El Libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: La adoración y la comunidad Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="pr-2">Científico intrigado por El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sálvanos, Maestro Supremo, del orgullo del saber, de
@@ -49,3 +73,28 @@ que tu voluntad se haga cada vez más en la tierra como
 está en el cielo.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: La adoración y la comunidad Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="pr-2">Científico intrigado por El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

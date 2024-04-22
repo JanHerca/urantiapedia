@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Rev. Gregory Young<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro con el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="pr-2">Salmos hoy: una nueva canción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La historia de la Creación en [Génesis 1:26](/es/Bible/Genesis/1#v26) dice: «Hagamos al hombre a nuestra imagen y semejanza...» Somos creados a imagen de Dios. Nuestras raíces de ser se basan en la Realidad Última. Es cierto que se trata de una afirmación sorprendente y desafiante. ¿Qué significa? Significa que hay mucho más para ti de lo que parece, y mucho más reservado para ti a medida que viajas por esta vida y más allá de lo que posiblemente puedas imaginar en tus sueños más locos y esperanzadores. ¿No es un pensamiento así emocionante e intrigante? Bueno, es verdad, y en esta serie los invitaré a un viaje conmigo, mientras juntos exploramos cómo podemos crecer personalmente y como comunidad en estatura y visión espiritual.
@@ -54,3 +78,28 @@ Por favor, sepa que Dios lo sostiene tiernamente en su mano y lo guiará a una c
 > _Gregory Young es pastor de la Iglesia Unida de Cristo St. John en Germantown, Wisconsin._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro con el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="pr-2">Salmos hoy: una nueva canción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El encuentro transformador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="pr-2">El potencial supremo de la familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Cuánto tiempo, oh Señor, tendremos que esperar para la iluminación de la humanidad?
@@ -38,3 +62,28 @@ En medio de los problemas y el sufrimiento de mi vida, vivo en las abundantes be
 
 ¡Te alabaré eternamente! (13)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El encuentro transformador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="pr-2">El potencial supremo de la familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

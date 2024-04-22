@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Richard I. Bain y Meredith J. Sprunger<br>© 1996 La Christian Fellowship de Estudiantes de <i>The El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Hall/Poor_in_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pobres de espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="pr-2">Encuentro con el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _La gran mayoría de las enseñanzas de_ El Libro de Urantia _refuerzan y mejoran las ideas y verdades de la teología cristiana tradicional y los conceptos más elevados de todas las religiones del mundo. Sin embargo, a veces es bueno señalar los aspectos más controvertidos de un nuevo paradigma para afinar su distinción con respecto a un paradigma tradicional y estimular así el pensamiento crítico._
@@ -71,7 +95,7 @@ La teoría de la expiación con sangre tuvo su origen en el lenguaje conceptual 
 
 Debemos reconocer que la mayoría de aquellos que todavía aceptan una teoría literal de la expiación con sangre en nuestros días probablemente lo hacen por ignorancia y malentendido y sin ninguna intención de negar la naturaleza amorosa de Dios. _El Libro de Urantia_ observa:
 
-> «La idea bárbara de apaciguar a un Dios enojado, de hacerse propicio a un Señor ofendido, de obtener los favores de la Deidad mediante sacrificios y penitencias e incluso por medio del derramamiento de sangre, representa una religión totalmente pueril y primitiva, una filosofía indigna de una época iluminada por la ciencia y la verdad. Estas creencias son completamente repulsivas para los seres celestiales y los gobernantes divinos que sirven y reinan en los universos. Es una afrenta a Dios creer, sostener o enseñar que hace falta derramar sangre inocente para ganar su favor o desviar una cólera divina ficticia.» ([LU 4:5.4](/es/The_Urantia_Book/4#p5_4))
+> «La idea bárbara de apaciguar a un Dios enojado, de hacerse propicio a un Señor ofendido, de obtener los favores de la Deidad mediante sacrificios y penitencias e incluso por medio del derramamiento de sangre, representa una religión totalmente pueril y primitiva, una filosofía indigna de una época iluminada por la ciencia y la verdad. Estas creencias son completamente repulsivas para los seres celestiales y los gobernantes divinos que sirven y reinan en los universos. Es una afrenta a Dios creer, sostener o enseñar que hace falta derramar sangre inocente para ganar su favor o desviar una cólera divina ficticia.» (<a id="a97_624"></a>[LU 4:5.4](/es/The_Urantia_Book/4#p5_4))
 
 ## Doctrina de la Humanidad
 
@@ -83,11 +107,11 @@ La visión cristiana tradicional de la vida después de la muerte ha sido simpli
 
 _El Libro de Urantia_ describe una imagen eminentemente razonable de la vida después de la muerte. Nuestro crecimiento espiritual continúa justo donde lo dejamos en nuestra existencia mortal. Resucitamos en los «mundos de estancia» de nuestro sistema local con un cuerpo «morontial», que es en parte material y en parte espiritual, y gradualmente adquirimos una existencia más espiritual. Todo el universo espiritual es una gran universidad educativa de aprendizaje y logros donde estamos preparados para el servicio futuro. En nuestro viaje ascendente, al igual que en Urantia, nos encontramos con muchas pruebas y frustraciones.
 
-> Éste es pues el curso primario o elemental con el que se enfrentan los peregrinos del espacio cuya fe ha sido probada y que tanto han viajado. Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible»{3}. ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
+> Éste es pues el curso primario o elemental con el que se enfrentan los peregrinos del espacio cuya fe ha sido probada y que tanto han viajado. Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible»{3}. (<a id="a109_674"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 Avanzamos a través del universo local, el superuniverso, el universo central y nos graduamos a la Isla del Paraíso donde nos encontramos con el Padre Universal y somos conducidos al Cuerpo de Finalidad en preparación para un mayor servicio en la eternidad.
 
-> Vosotros, los humanos, habéis empezado el despliegue interminable de un panorama casi infinito, una expansión ilimitada en unas esferas de oportunidades sin fin en constante aumento, donde llevar a cabo un servicio estimulante, aventuras incomparables, incertidumbres sublimes y logros sin límites. Cuando las nubes se acumulan sobre vuestras cabezas, vuestra fe debería aceptar el hecho de la presencia del Ajustador interior, y así deberíais ser capaces de mirar más allá de las brumas de las incertidumbres mortales, hacia el claro resplandor del sol de la rectitud eterna que ilumina las alturas atrayentes de los mundos de las mansiones de Satania. ([LU 108:6.8](/es/The_Urantia_Book/108#p6_8))
+> Vosotros, los humanos, habéis empezado el despliegue interminable de un panorama casi infinito, una expansión ilimitada en unas esferas de oportunidades sin fin en constante aumento, donde llevar a cabo un servicio estimulante, aventuras incomparables, incertidumbres sublimes y logros sin límites. Cuando las nubes se acumulan sobre vuestras cabezas, vuestra fe debería aceptar el hecho de la presencia del Ajustador interior, y así deberíais ser capaces de mirar más allá de las brumas de las incertidumbres mortales, hacia el claro resplandor del sol de la rectitud eterna que ilumina las alturas atrayentes de los mundos de las mansiones de Satania. (<a id="a113_657"></a>[LU 108:6.8](/es/The_Urantia_Book/108#p6_8))
 
 ## Reflexiones
 
@@ -107,3 +131,28 @@ Nuestra opinión personal, después de muchos años de estudio y evaluación, es
 > _Meredith Sprunger es pastora y maestra universitaria jubilada, y editora de_ The Spiritual Fellowship Journal. _Richard Bain es ingeniero eléctrico y editor de Innerface International._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Hall/Poor_in_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pobres de espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="pr-2">Encuentro con el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

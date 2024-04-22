@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Power_Behind_Positive_by_Eric_Fellman">
+          <span class="pr-2">Libros importantes: el poder detrás del pensamiento positivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lucas Timothy Johnson
@@ -32,3 +56,28 @@ Después de un considerable análisis académico, Johnson hace las siguientes de
 
 El Dr. Johnson finaliza su disertación presentando un modelo más completo para la erudición crítica que abarca los aspectos antropológicos, históricos, literarios y religiosos del texto. Qué maravillosa ocasión será cuando los eruditos bíblicos finalmente descubran la riqueza del material de investigación que se encuentra en la vida y las enseñanzas de Jesús presentado en _El Libro de Urantia_. Los estudiosos descubrirán que afirma y realza al «verdadero Jesús» que se encuentra en los Evangelios, como señala tan eficazmente Johnson.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Power_Behind_Positive_by_Eric_Fellman">
+          <span class="pr-2">Libros importantes: el poder detrás del pensamiento positivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

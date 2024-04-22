@@ -10,9 +10,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith J. Sprunger<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La muerte, la última frontera</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="pr-2">Valores: aprenderlos o perderlos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Nuestras vidas están moldeadas por nuestras experiencias de vistazo. Estos episodios de trascendencia son a veces difíciles de explicar, pero la mayoría de las personas tienen un sentido del ministerio de una Realidad por encima y más allá de ellos mismos que está dando sentido a sus vidas: «...en cada encrucijada en la lucha hacia adelante, el Espíritu de La verdad siempre hablará, diciendo: ‘Este es el camino’». ([LU 34:7.8](/es/The_Urantia_Book/34#p7_8))
+
+Nuestras vidas están moldeadas por nuestras experiencias de vistazo. Estos episodios de trascendencia son a veces difíciles de explicar, pero la mayoría de las personas tienen un sentido del ministerio de una Realidad por encima y más allá de ellos mismos que está dando sentido a sus vidas: «...en cada encrucijada en la lucha hacia adelante, el Espíritu de La verdad siempre hablará, diciendo: ‘Este es el camino’». (<a id="a38_419"></a>[LU 34:7.8](/es/The_Urantia_Book/34#p7_8))
 
 Mi búsqueda del conocimiento y la verdad comenzó a una edad temprana. Tengo un recuerdo vívido, a la edad de cuatro años, de una necesidad imperiosa y un hambre profunda de saber más sobre la vida. Estaba parado afuera en el lado sur de nuestra casa bajo un sol brillante. Recuerdo haberme dicho a mí mismo: «Hay algo en la vida que no entiendo, pero lo voy a descubrir».
 
@@ -30,7 +54,7 @@ El peregrinaje de mi vida transcurrió con cierta normalidad a través del Missi
 
 Si bien fue la noche oscura del alma, también fue la experiencia cumbre transformadora de mi vida. Despojado de todas mis defensas y racionalizaciones del ego, me enfrenté a ceder a la desesperación o entregar mis defensas del ego y entregarme completamente a Dios sin importar las consecuencias. Vi esta como la única opción con la que podía identificarme. Mi vida había estado dedicada a Dios antes, pero ahora me había enfrentado a la prueba definitiva. La reestructuración de mi vida interior fue lenta pero segura. Comprendí mejor lo que significa nacer de nuevo espiritualmente. Había pasado por el fuego templado de las pruebas y conocía la invencibilidad espiritual de ser un hijo de Dios. Mucho más tarde mi experiencia resonó con un pasaje que leí en El Libro de Urantia:
 
-> Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible». ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
+> Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible». (<a id="a56_528"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 En 1952 asumimos el pastorado en Grace Church en Culver, Indiana. Descubrí que mis conocimientos y crecimiento espirituales adquirieron una nueva dimensión. Después de varios años de elaborar sermones y artículos formulando mi propia experiencia espiritual y enfatizando la religión de Jesús en lugar de la religión sobre Jesús, me di cuenta de que se necesitaba un nuevo enfoque espiritual en la teología cristiana principal. Tentativamente esbocé un par de libros que necesitaban ser escritos, pero rehuí la disciplina requerida para escribirlos. Después de un tiempo de intentar evitar el compromiso con este proyecto, me di cuenta de que, siendo fiel a este liderazgo interno, debía tomar una decisión.
 
@@ -39,3 +63,28 @@ Para buscar la voluntad de Dios al tomar esta decisión, pasé horas bajo las es
 > _Meredith es ministra ordenada de la Iglesia Unida de Cristo, ahora jubilada, lectora de_ El Libro de Urantia _durante casi cuarenta años y editora de_ The Spiritual Fellowship Journal.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La muerte, la última frontera</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="pr-2">Valores: aprenderlos o perderlos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

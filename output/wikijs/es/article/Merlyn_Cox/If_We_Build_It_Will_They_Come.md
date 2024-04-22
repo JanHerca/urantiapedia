@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Merlyn Cox<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Love/Buckminster_Fullers_Life_Changing_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La experiencia transformadora de Buckminster Fuller</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="pr-2">Conscientes de una mejor elección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -34,3 +58,28 @@ Necesitamos sentar las bases y establecer metas con respecto a las cosas sobre l
 > _Merlyn Cox es pastor y sirve en la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del Libro de Urantia durante 18 años y trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991, y trabajó durante diez años como editor asociado. Actualmente es presidente del Equipo Educativo de The Spiritual Fellowship._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Love/Buckminster_Fullers_Life_Changing_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La experiencia transformadora de Buckminster Fuller</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="pr-2">Conscientes de una mejor elección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Charting_a_New_Course">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trazando un nuevo rumbo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/New_Dimensions_in_Theology">
+          <span class="pr-2">Nuevas dimensiones de la teología</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Frente a la realidad de que nuestra cultura ya no es cristiana, Brian K. Smith en un artículo de la edición de enero de 1997 de Theology Today titulado «El cristianismo como segundo idioma» dice: «Al intentar pensar en la situación que enfrentamos, es Es a la vez obvio que la mera modificación de los patrones existentes es insuficiente. Se necesita un enfoque más radical». (p. 439) Expresa su insatisfacción con las teorías actuales de la religión y cita el enfoque cultural-lingüístico de George Lindbeck [^1] para arrojar luz sobre nuestra situación contemporánea. Esta visión ve la religión como un marco de referencia interpretativo integral que estructura la experiencia humana y la comprensión de uno mismo y del mundo.
@@ -19,9 +43,34 @@ Para convertirse en cristiano, uno debe aprender el idioma y la cultura del cris
 
 Smith tiene razón en su análisis del problema religioso contemporáneo. La metodología de su solución también es sólida. Sin embargo, el logro de su objetivo está seriamente limitado porque el marco cultural-lingüístico del cristianismo tradicional está arraigado en una orientación cultural-religiosa precientífica y obsoleta. Las personas que buscan la verdad espiritual en nuestra sociedad secular no se sentirán inspiradas por los gritos de batalla de la Edad Media. Las instituciones religiosas necesitan desesperadamente un nuevo paradigma de realidad espiritual. Afortunadamente, esta necesidad ha sido suplida en _El Libro de Urantia_, que pretende ser la Quinta Revelación de Época. Está sólidamente arraigado en las verdades del cristianismo histórico y amplía nuestra visión espiritual con una visión que es relevante para el siglo XXI y más allá.
 
-Pero como nos recuerdan Brian Smith y el Dr. Lindbeck de Yale, cualquier paradigma lingüístico conceptual nuevo o desconocido sólo se volverá autóctono y dinámico en las vidas de los individuos y la sociedad a través de un período de instrucción y aprendizaje integral o catequesis. Actualmente hay cientos de grupos de estudio que absorben las enseñanzas cultural-lingüísticas del _El Libro de Urantia_. Se necesitan miles de estos grupos de estudio en la iglesia y la sociedad para lograr finalmente un renacimiento espiritual en el siglo XXI. De hecho, «[nos estremecemos] actualmente al borde mismo de una de [nuestras] épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual». ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
+Pero como nos recuerdan Brian Smith y el Dr. Lindbeck de Yale, cualquier paradigma lingüístico conceptual nuevo o desconocido sólo se volverá autóctono y dinámico en las vidas de los individuos y la sociedad a través de un período de instrucción y aprendizaje integral o catequesis. Actualmente hay cientos de grupos de estudio que absorben las enseñanzas cultural-lingüísticas del _El Libro de Urantia_. Se necesitan miles de estos grupos de estudio en la iglesia y la sociedad para lograr finalmente un renacimiento espiritual en el siglo XXI. De hecho, «[nos estremecemos] actualmente al borde mismo de una de [nuestras] épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual». (<a id="a45_733"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Charting_a_New_Course">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trazando un nuevo rumbo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/New_Dimensions_in_Theology">
+          <span class="pr-2">Nuevas dimensiones de la teología</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

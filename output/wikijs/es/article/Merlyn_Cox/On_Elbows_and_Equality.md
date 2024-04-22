@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Merlyn Cox<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diferenciación de género en El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Sermón basado en [Efesios 5: 22-23](/es/Bible/Ephesians/5#v22): «Esposas, estad sujetas a vuestro marido como lo estáis al Señor. Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia».
@@ -119,3 +140,25 @@ Si esto no se ha realizado plenamente en la sociedad y en la iglesia, entonces s
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diferenciación de género en El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

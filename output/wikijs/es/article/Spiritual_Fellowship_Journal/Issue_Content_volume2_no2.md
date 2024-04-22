@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Fullness_of_Time">
+          <span class="pr-2">La plenitud de los tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 2, Número 2, Otoño de 1992
@@ -144,3 +165,25 @@ El lector de _El Libro de Urantia_ también descubre en muchas secciones del lib
 
 Si su librería local no vende _El Libro de Urantia_, puede pedirlo a La Fundación Urantia, 533 Diversey Parkway, Chicago, IL 60614. El _Concordex_ y el _Paramony_ se pueden comprar en Good Cheer Press, P. O. Box 18764, Boulder, CO 80308 .
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Fullness_of_Time">
+          <span class="pr-2">La plenitud de los tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

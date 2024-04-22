@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="pr-2">Una era de transición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 7, Número 1, primavera de 1997
@@ -124,3 +145,25 @@ La edición de Uversa Press de _El libro de Urantia_, la edición Pathways de _L
 
 La Fundación Urantia publicó una concordancia exhaustiva del _Libro de Urantia_ en 1993. Si su librería local no vende la concordancia _El libro de Urantia_ o _El libro de Urantia_, puede solicitarlas a la Fundación Urantia, 533 Diversey Parkway, Chicago, IL 60614 (1- 888-872-6842). La Fundación Urantia también publica ediciones en francés, español y finlandés de _El Libro de Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="pr-2">Una era de transición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

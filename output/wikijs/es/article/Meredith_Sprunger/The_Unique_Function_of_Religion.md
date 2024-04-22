@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="pr-2">Apreciación bíblica mejorada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las iglesias tradicionales han perdido casi cinco millones de miembros desde 1965. Existe una preocupación generalizada por esta pérdida y un reconocimiento preocupado de que las iglesias tradicionales ya no hablan como la «voz central» de nuestra cultura. Muchos individuos y grupos dentro de las iglesias han recomendado estrategias para la renovación espiritual. En el _Reader's Digest_ de diciembre de 1990 («Mira lo que han hecho con mis canciones»), John S. Tompkins, un laico presbiteriano, sugiere que los ministros-burócratas profesionales han enfatizado una teología que resta importancia a lo espiritual y lo han sustituido por lo social, lo económico y lo social. y acción política para la función real de la religión: iluminación y crianza espiritual.
@@ -27,3 +51,28 @@ La iglesia debe desarrollar comunidades creativas, reconfortantes y que expandan
 
 Pero dado que la iglesia como institución está tan profundamente involucrada en actividades seculares, ¿cómo puede encontrar renovación espiritual y funcionar como una institución verdaderamente religiosa que pueda dar dirección y sustentar espiritualmente a toda nuestra sociedad? He estado contemplando esta cuestión durante más de treinta años y estoy convencido de que _El Libro de Urantia_ tiene el mayor potencial de cualquier recurso contemporáneo para facilitar esta transición. Tiene la profundidad y amplitud reveladora para reestructurar nuestra concepción de la Realidad, para darle a la iglesia una imagen clara de su misión y para traer inspiración espiritual que nos capacite para un ministerio transformador.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="pr-2">Apreciación bíblica mejorada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

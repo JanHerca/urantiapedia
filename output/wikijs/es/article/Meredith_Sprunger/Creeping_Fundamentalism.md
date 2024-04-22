@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Preparing_for_a_New_Spiritual_Paradigm">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparándose para un nuevo paradigma espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Movement_Growth">
+          <span class="pr-2">Crecimiento del Movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los fundamentalistas entre las religiones del mundo suelen ser los centros de controversia, antagonismo o fanatismo. El fundamento del punto de vista fundamentalista es la creencia en la inerrancia de sus Escrituras. Con la ayuda de las mayores críticas a la Biblia en el último siglo, los principales teólogos cristianos han llegado a darse cuenta de que el propósito de la revelación es la iluminación espiritual. Aunque hay muchos errores de hecho en la Biblia y sus conceptos están formulados en una ciencia obsoleta, esto no invalida su percepción y verdad espiritual.
@@ -17,3 +41,28 @@ Hace muchos años, cuando conocí a personas que eran estudiantes de _El Libro d
 
 Ha habido varias discusiones en Internet bajo el título general «Corrupciones en la Revelación». En _El Libro de Urantia_ se citan errores de hecho (ciencia) y cronológicos junto con contradicciones. Varios motivos parecen subyacer a estas discusiones. Pero lo que todos los estudiantes de los Documentos de Urantia deberían comprender es que estas imperfecciones fácticas de la Quinta Revelación de Época no disminuyen su propósito espiritual de presentar una visión ampliada de la realidad y la percepción espiritual. Con suerte, los fundamentalistas del _Libro de Urantia_ se darán cuenta de que todas las revelaciones espacio-temporales, necesariamente, participan de limitaciones espacio-temporales. Pero son el mejor enfoque hacia la verdad y la realidad última disponible para los seres finitos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Preparing_for_a_New_Spiritual_Paradigm">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparándose para un nuevo paradigma espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Movement_Growth">
+          <span class="pr-2">Crecimiento del Movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

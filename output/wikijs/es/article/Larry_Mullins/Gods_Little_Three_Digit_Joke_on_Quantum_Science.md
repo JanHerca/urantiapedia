@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Larry Mullins<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diario de Fellowship espiritual —</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/An_Old_Fashioned_Conference_of_Urantia_Believers">
+          <span class="pr-2">Una conferencia a la antigua usanza de creyentes de Urantia en Unity Village</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Uno de los físicos cuánticos de renombre histórico, Richard Feynman, sugirió una vez que todos los físicos deberían colocar un letrero en su oficina con un número particular de tres dígitos que les recordaría cuánto la ciencia no sabe. Werner Heisenberg, del famoso principio de incertidumbre, declaró que todos los dilemas de la física cuántica desaparecerían si alguna vez se explicara este mismo número de tres dígitos. En The God Particle, del físico cuántico ganador del Premio Nobel Leon Lederman, se hace referencia a la aparición del mismo desconcertante número de tres dígitos: «..... desnudo por todos lados. Esto significa que un científico en Marte, o el decimocuarto planeta de la estrella Sirio, usando cualquier espantosa unidad que tenga para carga, velocidad y su versión de la constante de Plank, obtendría [el mismo número de tres dígitos]. Es un número puro». Lederman va aún más lejos: «Los físicos han agonizado por [este número de tres dígitos] durante cincuenta años... Les digo a mis estudiantes universitarios que si alguna vez están en una ciudad importante en cualquier parte del mundo, deben escribir [este número de tres dígitos] en un cartel y sostenerlo en una esquina concurrida. Con el tiempo, un físico verá que están angustiados y acudirá en su ayuda».
@@ -27,3 +51,28 @@ Joan y yo visitamos un grupo de Estudio Urantia en California hace un verano y m
 
 A algunos les resultará un poco difícil este artículo, pero vale la pena el esfuerzo de leerlo. Está bien documentado y ofrece una gran cantidad de posibles hilos que podrían ser retomados y desarrollados por algunas de nuestras mentes científicas más jóvenes y creativas. Y, con respecto a la ciencia, tengamos en cuenta que Richard Feynman señaló una vez que nada de lo que sabemos sobre partículas y fuerzas elementales puede decirnos nada sobre los reptiles verdes que croan en la noche, o la música de Mozart, o los Diez Mandamientos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diario de Fellowship espiritual —</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/An_Old_Fashioned_Conference_of_Urantia_Believers">
+          <span class="pr-2">Una conferencia a la antigua usanza de creyentes de Urantia en Unity Village</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

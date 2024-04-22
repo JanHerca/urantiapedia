@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El milagro de la recuperación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Purpose_of_Revelation_2">
+          <span class="pr-2">El propósito de la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Margaret J. Wheatley
@@ -23,3 +47,28 @@ Los sistemas vivos demuestran que el desequilibrio es la condición necesaria pa
 
 La información es la energía creativa de todas las organizaciones. Es el ingrediente básico de la autorrenovación. A menudo la información se guarda y se entrega sólo a la élite de las instituciones. Las principales iglesias cristianas son un ejemplo de organizaciones que sufren por la falta de información. Su número y vitalidad han ido disminuyendo constantemente durante décadas. La mayoría de los ministros, por ejemplo, no han compartido conocimientos inquietantes sobre el origen y la naturaleza de la Biblia o la doctrina de la expiación con sangre que aprendieron en el seminario. De hecho, compartir esta información sorprendería a muchos de los fieles. Pero también sentaría las bases para reestructurar la iglesia y convertirla en una comunidad espiritual más relevante y vital. Estos mismos clérigos principales, en general, se han negado a examinar seriamente _El Libro de Urantia_. Aunque el mensaje del libro algún día revitalizará la iglesia y transformará nuestro mundo, los líderes de la iglesia temen enfrentar esta posibilidad. La nueva información es el alma de todas nuestras instituciones. Si queremos crecer, debemos compartirlo con las bases de la sociedad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El milagro de la recuperación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Purpose_of_Revelation_2">
+          <span class="pr-2">El propósito de la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

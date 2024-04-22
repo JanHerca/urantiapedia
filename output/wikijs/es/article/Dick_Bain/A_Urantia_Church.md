@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ortodoxia oriental y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Science_of_Serendipity">
+          <span class="pr-2">La ciencia de la serendipia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de Urantia_ presenta uno de los cuadros más completos de teología y religión de que dispone la humanidad. Muchos estudiantes del libro se refieren a sus enseñanzas como su religión. Otros lectores se sienten incómodos con cualquier referencia a la religión tradicional. Cada vez más surge la pregunta: «¿_El Libro de Urantia_ inspirará la organización de nuevas instituciones religiosas?» ¿Debería haber una iglesia Urantia?
@@ -29,7 +53,7 @@ Otra objeción que la gente tiene a la religión socializada, especialmente tal 
 
 Algunas personas verán el desarrollo de una iglesia Urantia como una gran traición, el comienzo de la burocracia y la muerte de la religión real. A estas personas les haría esta pregunta: ¿Cuántos gnósticos practicantes conoce? Los gnósticos del cristianismo primitivo se oponían al desarrollo de un clero profesional y estaban en contra de una organización excesiva. Pero sin organización no tenían poder. El gnosticismo se marchitó como resultado del poder de la iglesia cristiana organizada. Los humanos somos constructores de instituciones porque las instituciones son las máquinas que llevan a cabo las grandes tareas de la civilización. El movimiento Urantia tendrá dificultades para llevar a cabo programas grandes y de largo plazo sin el poder de una iglesia bien organizada.
 
-El [LU 97:10.7](/es/The_Urantia_Book/97#p10_7), los autores de _El Libro de Urantia_ ofrecen una razón adicional para el desarrollo de una institución religiosa socializada como una iglesia: «La religión judía persistió también gracias a sus instituciones. Es difícil que la religión sobreviva como práctica privada de individuos aislados». Y nuevamente sobre [LU 98:6.1](/es/The_Urantia_Book/98#p6_1): «Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña.» Si existe o se está desarrollando una religión Urantia, entonces parece que eventualmente necesitará organizarse para sobrevivir.
+El <a id="a55_3"></a>[LU 97:10.7](/es/The_Urantia_Book/97#p10_7), los autores de _El Libro de Urantia_ ofrecen una razón adicional para el desarrollo de una institución religiosa socializada como una iglesia: «La religión judía persistió también gracias a sus instituciones. Es difícil que la religión sobreviva como práctica privada de individuos aislados». Y nuevamente sobre <a id="a55_360"></a>[LU 98:6.1](/es/The_Urantia_Book/98#p6_1): «Aunque es cierto que la institucionalización de la religión ha reducido generalmente su calidad espiritual, es también un hecho que ninguna religión ha logrado sobrevivir hasta ahora sin la ayuda de algún tipo de organización institucional, más grande o más pequeña.» Si existe o se está desarrollando una religión Urantia, entonces parece que eventualmente necesitará organizarse para sobrevivir.
 
 > _Los humanos somos constructores de instituciones porque las instituciones son las máquinas que llevan a cabo las grandes tareas de la civilización. El movimiento Urantia tendrá dificultades para llevar a cabo programas grandes y de largo plazo sin el poder de una iglesia bien organizada.
 
@@ -57,14 +81,39 @@ Además de los grupos de estudiantes de _El Libro de Urantia_ que forman iglesia
 
 Parece que los ritos y rituales son una parte necesaria de la mayoría de las religiones, y estoy seguro de que una iglesia de Urantia no será una excepción. Los ritos y rituales que forman parte de la religión cristiana tienen una larga historia y una fuerte identidad y podrían ser apropiados por una iglesia emergente estructurada según las enseñanzas del Libro de Urantia. Desafortunadamente, algunos de los rituales, como la comunión, tienen significados de expiación tradicionales que no están en armonía con la teología del Libro de Urantia, pero podrían redefinirse para que reflejen las enseñanzas más positivas del libro. Incluso si una iglesia Urantia se desarrolla totalmente fuera de la iglesia cristiana, sospecho que habrá muchas similitudes entre la iglesia Urantia y la iglesia cristiana. Es mucho más fácil, más rápido y, en general, una tendencia humana natural a adaptar los ritos y rituales existentes en lugar de empezar desde cero. Los símbolos pueden ser un problema mayor.
 
-En [LU 87:7.6](/es/The_Urantia_Book/87#p7_6), los autores nos informan que «...incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado». ¿Qué pasa entonces con el símbolo principal del cristianismo tradicional, la cruz? Ciertamente tiene un significado bastante diferente para aquellos que son estudiantes de _El Libro de Urantia_. ¿Se puede purgar este venerable símbolo cristiano de su conexión de expiación y rehabilitarlo para simbolizar el verdadero significado de la vida y muerte de Jesús? El problema es que la cruz es principalmente un símbolo de la muerte de Jesús, no de su vida. Quizás el cayado de un pastor sería un símbolo más apropiado. Otro símbolo del que seguramente se apropiará una iglesia Urantia es el de los tres círculos azules concéntricos, el estandarte de Cristo Miguel y el símbolo de la Trinidad del Paraíso. Sospecho que una iglesia de Urantia utilizará durante mucho tiempo símbolos bien conocidos antes de desarrollar un simbolismo único.
+En <a id="a83_3"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6), los autores nos informan que «...incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado». ¿Qué pasa entonces con el símbolo principal del cristianismo tradicional, la cruz? Ciertamente tiene un significado bastante diferente para aquellos que son estudiantes de _El Libro de Urantia_. ¿Se puede purgar este venerable símbolo cristiano de su conexión de expiación y rehabilitarlo para simbolizar el verdadero significado de la vida y muerte de Jesús? El problema es que la cruz es principalmente un símbolo de la muerte de Jesús, no de su vida. Quizás el cayado de un pastor sería un símbolo más apropiado. Otro símbolo del que seguramente se apropiará una iglesia Urantia es el de los tres círculos azules concéntricos, el estandarte de Cristo Miguel y el símbolo de la Trinidad del Paraíso. Sospecho que una iglesia de Urantia utilizará durante mucho tiempo símbolos bien conocidos antes de desarrollar un simbolismo único.
 
 La proliferación de iglesias que reflejen las enseñanzas de _El Libro de Urantia_ puede ser un largo camino en el futuro. Será necesariamente precedido por una conciencia social generalizada de las enseñanzas del Libro de Urantia. Siento que el movimiento Urantia ya es una religión, ya sea que los estudiantes del Libro de Urantia se reconozcan como tales o no. Los primeros cristianos probablemente no se percibían a sí mismos como una nueva religión; Ni siquiera se nombraron ellos mismos, alguien más lo hizo. Cuando llegue a haber una conciencia generalizada de la comunidad Urantia, tal vez también sea nombrada por personas de fuera.
 
 Se podría argumentar que ya existe una especie de iglesia Urantia. Considere: Los asistentes a la iglesia se reúnen periódicamente para tener compañerismo y adoración. Los estudiantes de _El Libro de Urantia_ se reúnen periódicamente para tener compañerismo y, ocasionalmente, adorar en conferencias. No tienen edificios permanentes para estas funciones, ni un sacerdocio, pero existen maestros y líderes talentosos que organizan conferencias, dirigen talleres y cultos. Y hay una especie de iglesia clandestina en los grupos de estudio que se reúnen en los hogares de las personas. Estos grupos son generalmente educativos y sociales, pero ciertamente tienen connotaciones espirituales. Hace unas décadas existió en Estados Unidos el llamado movimiento de «iglesias en casas». Los proponentes estaban tratando de alejar la iglesia de los edificios convencionales y llevarla al hogar para orar y adorar como lo hacían los primeros cristianos. Aquellos grupos de estudio de Urantia que tienen un enfoque más espiritual ciertamente tienen el sabor de una iglesia en casa. Cuando surge una iglesia Urantia, incluso si se origina dentro de la iglesia cristiana, la fuente real podría ser las semillas de los grupos de estudio más espirituales. Podemos conjeturar sobre dónde o cómo surgirá una nueva organización religiosa como resultado de la Quinta Revelación de Época, pero los autores de _El Libro de Urantia_ dejan claro que algo surgirá no si, sino cuándo.
 
-> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día.» ([LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
+> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día.» (<a id="a89_274"></a>[LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
 
 > _Dick Bain es ingeniero eléctrico y editor de Innerface International. Es estudiante del Libro de Urantia desde hace mucho tiempo.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ortodoxia oriental y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Science_of_Serendipity">
+          <span class="pr-2">La ciencia de la serendipia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Larry Watkins<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paz personal y global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Cosh/Is_this_a_Boring_Movement">
+          <span class="pr-2">¿Es este un movimiento aburrido?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En la edición de otoño e invierno de 2002-2003 de _The Spiritual Fellowship Journal_, un editorial volvió a plantear la pregunta recurrente: «_¿Dónde están los grandes líderes y maestros de Urantia?_» Durante el movimiento, se pensaba que el futuro desarrollo de la revelación tendría que llegar a través del establecimiento de miles de grupos de estudio y de maestros Urantianos capacitados que instruyeran al público en la ciencia, la religión, la historia y la filosofía urantianas.
@@ -50,3 +74,28 @@ Esta y otras observaciones estadísticas sobre el texto de _El Libro de Urantia_
 
 http://www.ubook.org/lwatkins/LUStats/StatisticsIndex.htm
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paz personal y global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Cosh/Is_this_a_Boring_Movement">
+          <span class="pr-2">¿Es este un movimiento aburrido?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

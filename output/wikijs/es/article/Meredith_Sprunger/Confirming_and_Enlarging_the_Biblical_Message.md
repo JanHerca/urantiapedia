@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una era de transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="pr-2">Un llamado al avivamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de Urantia_ pretende ser la Quinta Revelación de Época. Semejante afirmación es audaz y plantea serias dudas a las personas con mentes críticas. Aquellos de nosotros que nos sentimos amenazados por afirmaciones tan reveladoras (y un libro de 2.000 páginas con terminología y autoría extrañas) rápidamente lo descartamos como otro invento descabellado. Muchos de los curiosos entre nosotros, sin embargo, han decidido examinar críticamente esta afirmación.
@@ -21,3 +45,28 @@ El número de diciembre de 1996 de The Disciple incluye un artículo titulado «
 
 La relación de compañerismo entre la Biblia y _El Libro de Urantia_ está aún más estrechamente integrada que la relación de compañerismo entre el Antiguo Testamento y el Nuevo Testamento. Así como el Nuevo Testamento mejora la apreciación del Antiguo Testamento, _El Libro de Urantia_ aumenta la comprensión y el aprecio de toda la Biblia.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una era de transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="pr-2">Un llamado al avivamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

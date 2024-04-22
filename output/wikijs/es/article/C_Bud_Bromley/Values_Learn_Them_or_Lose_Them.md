@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Bud Bromley<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi odisea de experiencias cumbres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="pr-2">Libros importantes: el enfoque humilde de John M. Templeton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace un tiempo apareció en algunos periódicos locales un breve informe titulado: «**Comité rechaza plan para enseñar valores en la escuela.**» Esta decisión es, por supuesto, un juicio de valor que determina la forma en que se enseñan los valores en nuestras escuelas. Necesitamos reconsiderar urgentemente la miopía de tal decisión. Nuestro sistema educativo, consciente o inconscientemente, siempre enseña algún tipo de valores. Necesitamos ser claramente intencionales acerca de qué valores realmente enseñamos. ¿Cómo puede existir un grupo cohesivo si no tiene un núcleo de valores comunes claramente comprendido? ¿Y cómo se seguirán apreciando esos valores si no se enseñan, primero en casa y en los grupos religiosos de nuestra elección, pero también en las escuelas públicas? Nos desmoronaremos como país si no podemos ponernos de acuerdo sobre un núcleo mínimo de valores públicos esenciales y enseñar esos valores vigorosamente en nuestras escuelas.
@@ -37,3 +61,28 @@ Para aquellos interesados en un enfoque religioso profundamente reflexivo para e
 >_C. Bud Bromley es programador informático y profesor universitario, ahora jubilado. Bud ha sido estudiante de_ El Libro de Urantia _durante muchos años._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi odisea de experiencias cumbres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="pr-2">Libros importantes: el enfoque humilde de John M. Templeton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

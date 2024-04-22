@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Merlyn Cox<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Esperanza_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esperanza Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="pr-2">La integridad científica del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «¡Oh Señor, cuán múltiples son todas tus obras!» dice el salmista: «Con sabiduría las has hecho todas. La tierra está llena de tus criaturas. Allá está el mar, grande y ancho; Allí hay seres que se arrastran sin contar, seres vivos, grandes y pequeños».
@@ -133,6 +157,31 @@ La naturaleza tiene mucho que enseñarnos, y quizás lo más simple e importante
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Esperanza_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esperanza Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="pr-2">La integridad científica del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

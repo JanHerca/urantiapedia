@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Byron Belitsos<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/Toward_a_Global_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia una teología global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="pr-2">La muerte, la última frontera</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introducción
@@ -51,25 +75,25 @@ Dentro de su profundidad de claridad de sustancia
 Vi la Gran Luz brillar en tres círculos
 En tres colores claros unidos en un mismo espacio. [^4]
 
-En un pasaje inusualmente poético, _El Libro de Urantia_, representa la Trinidad de una manera comparable, simbolizada por esferas concéntricas: «La presencia personal del Padre Universal está inmediatamente rodeada por la presencia personal del Hijo Eterno, mientras que ambos están investidos por lo indescriptible. gloria del Espíritu Infinito». ([LU 11:1.1](/es/The_Urantia_Book/11#p1_1))
+En un pasaje inusualmente poético, _El Libro de Urantia_, representa la Trinidad de una manera comparable, simbolizada por esferas concéntricas: «La presencia personal del Padre Universal está inmediatamente rodeada por la presencia personal del Hijo Eterno, mientras que ambos están investidos por lo indescriptible. gloria del Espíritu Infinito». (<a id="a77_350"></a>[LU 11:1.1](/es/The_Urantia_Book/11#p1_1))
 
 En _El Libro de Urantia_, Dios como Padre es análogo a la «Gran Luz que brilla en tres círculos» de Dante. El Padre es «lógicamente» primordial – y central – en relación con la co-igual Madre-Hijo y el Espíritu Infinito. (El Libro de Urantia incluso presenta el símbolo de la Trinidad como tres círculos concéntricos, de color azul).
 
 El Padre es primordial en relación con la Trinidad, y también es la «Primera Fuente y Centro» de todas las demás cosas y seres, mientras que el Hijo y el Espíritu son designados como la «Segunda Fuente y Centro» y la «Tercera Fuente y Centro» respectivamente. El Padre Primordial tiene muchas fases de manifestación. En una fase, el Padre es la fuente y centro del cosmos físico, en virtud de ser la Causa Primera de su centro gravitacional y energético universal. Este gran centro se llama «Paraíso»; _El Libro de Urantia_ se apropia del término multivalente «paraíso» de las tradiciones escriturales y artísticas del cristianismo y le da un toque moderno y muy diferente.
 
-Dios es la fuente del Paraíso, lo que _El Libro de Urantia_ llama la eterna, central e inmóvil «Isla del Paraíso» o «Isla Eterna». El paraíso es «desde la eternidad»; en realidad no tiene causa. Pero _El Libro de Urantia_ utiliza el lenguaje de la causalidad como una «concesión filosófica... a la mente finita, limitada por el tiempo y el espacio, del hombre, a la imposibilidad de que la criatura comprenda las existencias eternas...» ([LU 0:3.23](/es/The_Urantia_Book/0#p3_23))
+Dios es la fuente del Paraíso, lo que _El Libro de Urantia_ llama la eterna, central e inmóvil «Isla del Paraíso» o «Isla Eterna». El paraíso es «desde la eternidad»; en realidad no tiene causa. Pero _El Libro de Urantia_ utiliza el lenguaje de la causalidad como una «concesión filosófica... a la mente finita, limitada por el tiempo y el espacio, del hombre, a la imposibilidad de que la criatura comprenda las existencias eternas...» (<a id="a83_438"></a>[LU 0:3.23](/es/The_Urantia_Book/0#p3_23))
 
-La Isla del Paraíso es absolutamente única en el cosmos. Es el verdaderamente _centro sagrado_ del universo de universos: «El Paraíso es el centro de la activación de fuerza-energía del cosmos – la posición universal de la Primera Fuente y Centro...» ([LU 104:4.26](/es/The_Urantia_Book/104#p4_26)) Sorprendentemente, mientras es a la vez «físico» -un «objeto material central»- pero también es un cuerpo trascendente en el tiempo-espacio compuesto de un material «absoluto» que no se encuentra en ningún otro lugar:
+La Isla del Paraíso es absolutamente única en el cosmos. Es el verdaderamente _centro sagrado_ del universo de universos: «El Paraíso es el centro de la activación de fuerza-energía del cosmos – la posición universal de la Primera Fuente y Centro...» (<a id="a85_252"></a>[LU 104:4.26](/es/The_Urantia_Book/104#p4_26)) Sorprendentemente, mientras es a la vez «físico» -un «objeto material central»- pero también es un cuerpo trascendente en el tiempo-espacio compuesto de un material «absoluto» que no se encuentra en ningún otro lugar:
 
 > La Isla eterna está compuesta de una sola forma de materialización —de sistemas estacionarios de realidad. Esta sustancia tangible del Paraíso es una organización homogénea de potencia espacial que no se encuentra en ninguna otra parte de todo el extenso universo de universos. Ha recibido muchos nombres en diferentes universos, y los Melquisedeks de Nebadon la han llamado desde hace mucho tiempo *absolutum.* Esta materia fuente del Paraíso no está muerta ni viva; es la expresión original no espiritual de la Fuente-Centro Primera; es el *Paraíso,* y el Paraíso no tiene copias.
 > 
-> A nosotros nos parece que la Fuente-Centro Primera ha concentrado en el Paraíso todo el potencial absoluto de la realidad cósmica como parte de su técnica para liberarse de las limitaciones de la infinidad, como un medio para hacer posible la creación subinfinita e incluso la creación espacio-temporal. Pero de esto no se deduce que el Paraíso esté limitado por el espacio-tiempo, solamente porque el universo de universos revele estas cualidades. **El Paraíso existe sin el tiempo y no está ubicado en el espacio.** ([LU 11:2.9-10](/es/The_Urantia_Book/11#p2_9))
+> A nosotros nos parece que la Fuente-Centro Primera ha concentrado en el Paraíso todo el potencial absoluto de la realidad cósmica como parte de su técnica para liberarse de las limitaciones de la infinidad, como un medio para hacer posible la creación subinfinita e incluso la creación espacio-temporal. Pero de esto no se deduce que el Paraíso esté limitado por el espacio-tiempo, solamente porque el universo de universos revele estas cualidades. **El Paraíso existe sin el tiempo y no está ubicado en el espacio.** (<a id="a89_521"></a>[LU 11:2.9-10](/es/The_Urantia_Book/11#p2_9))
 
-Sin tiempo ni espacio, el Paraíso también, se nos dice, está absolutamente en reposo e inmóvil. _El Libro de Urantia_ tiene mucho que decir sobre la naturaleza del espacio que está más allá del alcance de este artículo. Por supuesto, el concepto de espacio es de suma importancia en cualquier cosmología. Una sorprendente afirmación tras otra sobre la cosmología emana del Libro de Urantia. Algunas de ellas son predicciones genuinas en el sentido de que son verificables o refutables mediante observación científica. Quizás la principal de ellas sea que todas las galaxias existentes están en realidad en procesión alrededor de un centro de gravedad absoluto. Hemos visto que investigaciones astrofísicas recientes sobre el «movimiento peculiar» de las galaxias podrían llevar a esa conclusión. Esta rotación universal alrededor del Santo Centro del Paraíso se debe al hecho de que la Isla eterna «es el centro y punto focal de la _gravedad material absoluta_». ([LU 11:8.2](/es/The_Urantia_Book/11#p8_2)) [Énfasis añadido]
+Sin tiempo ni espacio, el Paraíso también, se nos dice, está absolutamente en reposo e inmóvil. _El Libro de Urantia_ tiene mucho que decir sobre la naturaleza del espacio que está más allá del alcance de este artículo. Por supuesto, el concepto de espacio es de suma importancia en cualquier cosmología. Una sorprendente afirmación tras otra sobre la cosmología emana del Libro de Urantia. Algunas de ellas son predicciones genuinas en el sentido de que son verificables o refutables mediante observación científica. Quizás la principal de ellas sea que todas las galaxias existentes están en realidad en procesión alrededor de un centro de gravedad absoluto. Hemos visto que investigaciones astrofísicas recientes sobre el «movimiento peculiar» de las galaxias podrían llevar a esa conclusión. Esta rotación universal alrededor del Santo Centro del Paraíso se debe al hecho de que la Isla eterna «es el centro y punto focal de la _gravedad material absoluta_». (<a id="a91_964"></a>[LU 11:8.2](/es/The_Urantia_Book/11#p8_2)) [Énfasis añadido]
 
 Entre las galaxias observables y el Centro Paraíso interviene una creación material central, que _El Libro de Urantia_ llama universo central o «Havona». Más allá del universo central hay galaxias que giran alrededor del universo central en una elipse en el sentido contrario a las agujas del reloj, que a su vez también gira alrededor del Paraíso. Estos están organizados como siete cúmulos de galaxias masivos conocidos como los «siete superuniversos».
 
-> Vuestro sistema solar y los otros mundos del tiempo no se están sumergiendo precipitadamente, sin mapas ni brújula, en un espacio desconocido. El universo local al que pertenece vuestro sistema sigue una trayectoria precisa y bien comprendida, en el sentido contrario a las agujas del reloj, alrededor del inmenso recorrido que rodea al universo central. Esta ruta cósmica está bien trazada, y los observadores de estrellas del superuniverso la conocen tan bien como los astrónomos de Urantia conocen las órbitas de los planetas que forman vuestro sistema solar. ([LU 15:1.2](/es/The_Urantia_Book/15#p1_2))
+> Vuestro sistema solar y los otros mundos del tiempo no se están sumergiendo precipitadamente, sin mapas ni brújula, en un espacio desconocido. El universo local al que pertenece vuestro sistema sigue una trayectoria precisa y bien comprendida, en el sentido contrario a las agujas del reloj, alrededor del inmenso recorrido que rodea al universo central. Esta ruta cósmica está bien trazada, y los observadores de estrellas del superuniverso la conocen tan bien como los astrónomos de Urantia conocen las órbitas de los planetas que forman vuestro sistema solar. (<a id="a95_566"></a>[LU 15:1.2](/es/The_Urantia_Book/15#p1_2))
 
 Los científicos que han contemplado _El Libro de Urantia_ han luchado durante mucho tiempo con su controvertida afirmación de un Centro universal, alrededor del cual gira toda la creación material. Obviamente va en contra de un principio clave de la relatividad, la afirmación de que no existe un marco de referencia físico único en el universo, nada inmóvil mediante el cual medir otros movimientos.
 
@@ -79,19 +103,19 @@ Sin embargo, existen muchos puntos de contacto con la cosmología moderna. Por e
 
 ## El Misterio Paradójico del Paraíso
 
-Dios es retratado en _El Libro de Urantia_ como la Fuente y el Centro tanto de la realidad espiritual como del universo material. Dios reside _de hecho_ en el centro del cosmos: «La personalidad absoluta de la Deidad existe en... el Paraíso». ([LU 0:3.13](/es/The_Urantia_Book/0#p3_13)) «El Padre Universal está cósmicamente focalizado, espiritualmente personalizado y geográficamente residente en este centro del universo de universos». ([LU 11:1.2](/es/The_Urantia_Book/11#p1_2)) La energía y el espíritu, los hechos y la verdad, todas las cosas divergentes en los universos espacio-temporales, se vuelven uno en la presencia del Padre en el Paraíso.
+Dios es retratado en _El Libro de Urantia_ como la Fuente y el Centro tanto de la realidad espiritual como del universo material. Dios reside _de hecho_ en el centro del cosmos: «La personalidad absoluta de la Deidad existe en... el Paraíso». (<a id="a105_244"></a>[LU 0:3.13](/es/The_Urantia_Book/0#p3_13)) «El Padre Universal está cósmicamente focalizado, espiritualmente personalizado y geográficamente residente en este centro del universo de universos». (<a id="a105_439"></a>[LU 11:1.2](/es/The_Urantia_Book/11#p1_2)) La energía y el espíritu, los hechos y la verdad, todas las cosas divergentes en los universos espacio-temporales, se vuelven uno en la presencia del Padre en el Paraíso.
 
 ¿Cómo «surgió» el Paraíso en la eternidad? En el «pasado eterno», _El Libro de Urantia_ revela que la primera transacción fue lo que los teólogos modernos podrían llamar la kénosis de Dios. La actividad kenótica en este sentido significa la elección de Dios de autolimitar su infinitud incondicional. Lo logra «absolutizando» al Hijo, el Otro divino. El Hijo Eterno es el absoluto de la personalidad. Simultáneamente con esta estupenda transacción, Dios se convirtió en la primera causa de lo absoluto de su identidad no espiritual. En este momento de eternidad: el Paraíso brotó del Padre. En la transacción-eternidad final, esta dualidad se resuelve perfectamente en la «aparición-eternidad» del Espíritu Infinito, armonizador y unificador de los absolutos del espíritu (el Hijo) y la materia (el Paraíso). Así, la Trinidad, en la formulación de _El Libro de Urantia_, tiene una coordenada absoluta no espiritual: el Paraíso.
 
-En un sentido muy importante, el Paraíso es también la paradoja absoluta. Cada vez más paradójico, _El Libro de Urantia_ describe el Paraíso como «el centro geográfico del infinito». ([LU 11:9.2](/es/The_Urantia_Book/11#p9_2)) En otra parte el texto dice: «La Isla del Paraíso tiene una ubicación en el universo pero no una posición en el espacio». ([LU 0:4.12](/es/The_Urantia_Book/0#p4_12)) En otro pasaje, el Paraíso se describe como el cuerpo material más grande del universo, pero está _fuera del espacio y el tiempo_. En otros pasajes, se nos dice que el Paraíso es el núcleo tanto de todo el cosmos físico como de cada partícula última del cosmos. Por lo tanto, el concepto «Paraíso» representa una dinámica _radical_ de uno a muchos y de partes enteras en el cosmos. Su dinamismo de paradoja es digno de la famosa dialéctica «el uno y los muchos» del diálogo de Platón _Parménides_, o del método dialéctico de Hegel en su _Lógica_.
+En un sentido muy importante, el Paraíso es también la paradoja absoluta. Cada vez más paradójico, _El Libro de Urantia_ describe el Paraíso como «el centro geográfico del infinito». (<a id="a109_184"></a>[LU 11:9.2](/es/The_Urantia_Book/11#p9_2)) En otra parte el texto dice: «La Isla del Paraíso tiene una ubicación en el universo pero no una posición en el espacio». (<a id="a109_350"></a>[LU 0:4.12](/es/The_Urantia_Book/0#p4_12)) En otro pasaje, el Paraíso se describe como el cuerpo material más grande del universo, pero está _fuera del espacio y el tiempo_. En otros pasajes, se nos dice que el Paraíso es el núcleo tanto de todo el cosmos físico como de cada partícula última del cosmos. Por lo tanto, el concepto «Paraíso» representa una dinámica _radical_ de uno a muchos y de partes enteras en el cosmos. Su dinamismo de paradoja es digno de la famosa dialéctica «el uno y los muchos» del diálogo de Platón _Parménides_, o del método dialéctico de Hegel en su _Lógica_.
 
 > _Pero entre las sorprendentes declaraciones sobre el Paraíso, quizás la más escandalosa sea esta afirmación: El Paraíso es la Fuente y Centro de todo el cosmos en virtud de ser su fuente de energía y centro de gravedad, pero también interpenetra el cosmos en la escala más pequeña como el núcleo de cada parte indivisible._
 
 Pero entre las sorprendentes declaraciones sobre el Paraíso, quizás la más escandalosa sea esta: El Paraíso es la Fuente y Centro de todo el cosmos en virtud de ser su fuente de energía y centro de gravedad, pero también interpenetra el cosmos en la escala más pequeña como núcleo. de cada _parte_ indivisible. En otras palabras, la afirmación es que el Paraíso es al mismo tiempo el núcleo de cada unidad material última del cosmos y, sin embargo, es también la fuente y el centro del Infinito: ¡la totalidad del cosmos físico (y espiritual)! ¿Cómo es esto concebible? En última instancia, es humanamente inconcebible y absolutamente paradójico:
 
-> Es casi imposible para la lógica humana y la razón finita armonizar el concepto de inmanencia divina, Dios dentro y parte de cada individuo, con la idea de la trascendencia de Dios, la dominación divina del universo de universos. ([LU 5:5.6](/es/The_Urantia_Book/5#p5_6)) Pero nunca una criatura puede entender cómo es que esta unidad se convierte en dualidad, trinidad y diversidad, sin dejar de ser una unidad incondicional. ([LU 115:3.3](/es/The_Urantia_Book/115#p3_3))
+> Es casi imposible para la lógica humana y la razón finita armonizar el concepto de inmanencia divina, Dios dentro y parte de cada individuo, con la idea de la trascendencia de Dios, la dominación divina del universo de universos. (<a id="a115_233"></a>[LU 5:5.6](/es/The_Urantia_Book/5#p5_6)) Pero nunca una criatura puede entender cómo es que esta unidad se convierte en dualidad, trinidad y diversidad, sin dejar de ser una unidad incondicional. (<a id="a115_430"></a>[LU 115:3.3](/es/The_Urantia_Book/115#p3_3))
 
-Resulta que el Paraíso es paradigmático de una relación holográfica radical de todo-parte que impregna todos los niveles de la realidad. Esta característica del Paraíso nos permite concebir una forma especial de panenteísmo, que consideraremos más adelante. La dinámica total que subyace a la cosmología del Libro de Urantia es paradójica y holográfica, y sigue los contornos del concepto del Paraíso. No sorprende que su teología siga el mismo patrón complejo de unidad dualista, y el resultado sea una enseñanza radicalmente panenteísta. Desde este punto de vista, la teología de _El Libro de Urantia_ puede reformularse como «Dios está en cada uno y cada uno está en Dios». En una declaración resumida, se nos dice que «la criatura no sólo existe en Dios, sino que Dios también vive en la criatura». ([LU 3:1.4](/es/The_Urantia_Book/3#p1_4)) Este se considera uno de los secretos del misterio de la trascendencia e inmanencia divina, según _El Libro de Urantia_. También es un principio central del modelo cosmoteocéntrico del universo presentado aquí.
+Resulta que el Paraíso es paradigmático de una relación holográfica radical de todo-parte que impregna todos los niveles de la realidad. Esta característica del Paraíso nos permite concebir una forma especial de panenteísmo, que consideraremos más adelante. La dinámica total que subyace a la cosmología del Libro de Urantia es paradójica y holográfica, y sigue los contornos del concepto del Paraíso. No sorprende que su teología siga el mismo patrón complejo de unidad dualista, y el resultado sea una enseñanza radicalmente panenteísta. Desde este punto de vista, la teología de _El Libro de Urantia_ puede reformularse como «Dios está en cada uno y cada uno está en Dios». En una declaración resumida, se nos dice que «la criatura no sólo existe en Dios, sino que Dios también vive en la criatura». (<a id="a117_804"></a>[LU 3:1.4](/es/The_Urantia_Book/3#p1_4)) Este se considera uno de los secretos del misterio de la trascendencia e inmanencia divina, según _El Libro de Urantia_. También es un principio central del modelo cosmoteocéntrico del universo presentado aquí.
 
 ¿La cosmología teológica contemporánea o la teología natural ratifican de alguna manera estas afirmaciones? Como vehículo para abordar esta cuestión, a continuación consideraremos las teorías existentes que respaldan la noción del universo como «en» Dios. Después de esto, cambiaremos la situación cósmica y veremos las formas en que el diálogo actual entre ciencia y teología concibe a Dios como _en_ todas y cada una de las partes del universo.
 
@@ -135,9 +159,9 @@ Ahora tenemos un lugar para la _creatio continua_. El resultado del análisis de
 
 ## El Paraíso y el Cosmos
 
-Formas comparables de acción divina de arriba hacia abajo y de abajo hacia arriba están incorporadas en el concepto de Paraíso del _Libro de Urantia_. Primero, Dios actúa sobre el cosmos físico a través de su Centro Universal Paradisíaco: «Como controlador físico en el universo de universos material, la Fuente-Centro Primera ejerce su actividad en los arquetipos de la Isla eterna del Paraíso, y a través de este centro de gravedad absoluto, el Dios eterno ejerce un supercontrol cósmico sobre el nivel físico tanto en el universo central como en todo el universo de universos». ([LU 1:2.10](/es/The_Urantia_Book/1#p2_10)) Este es el modo general de la acción de arriba hacia abajo de Dios en el cosmos físico. Y hay muchas otras formas de causalidad de arriba hacia abajo que emanan a través del Paraíso actuando a través de numerosos agentes intermedios, presentados en _El Libro de Urantia_.
+Formas comparables de acción divina de arriba hacia abajo y de abajo hacia arriba están incorporadas en el concepto de Paraíso del _Libro de Urantia_. Primero, Dios actúa sobre el cosmos físico a través de su Centro Universal Paradisíaco: «Como controlador físico en el universo de universos material, la Fuente-Centro Primera ejerce su actividad en los arquetipos de la Isla eterna del Paraíso, y a través de este centro de gravedad absoluto, el Dios eterno ejerce un supercontrol cósmico sobre el nivel físico tanto en el universo central como en todo el universo de universos». (<a id="a161_582"></a>[LU 1:2.10](/es/The_Urantia_Book/1#p2_10)) Este es el modo general de la acción de arriba hacia abajo de Dios en el cosmos físico. Y hay muchas otras formas de causalidad de arriba hacia abajo que emanan a través del Paraíso actuando a través de numerosos agentes intermedios, presentados en _El Libro de Urantia_.
 
-Y segundo, el Paraíso actúa de abajo hacia arriba a través de sus piezas _fractales_, los ultimátones. Hemos visto anteriormente que el Paraíso no es espacial y que «el espacio existe en relación con el Paraíso... El Paraíso existe en el foco del espacio». ([LU 105:3.4](/es/The_Urantia_Book/105#p3_4)) Además, la presencia física del Paraíso en el foco del espacio se manifiesta en el espacio como la captación instantánea de la gravedad _al nivel del ultimáton_. (Nuevamente, nos referimos aquí a la forma de gravedad denominada «gravedad absoluta»). Esto significa que el sobrecontrol universal de la Primera Fuente y Centro se extiende hasta el nivel cuántico de la materia. Y esta es sólo una de las implicaciones de la revelación de que cada ultimáton tiene como núcleo el Centro del Universo. Según el matemático Philip Calabrese, la afirmación de que cada ultimatón es sostenido por la gravedad del Paraíso significa que «presumiblemente, esta es la verdadera fuerza fuerte». En este sentido, el Dr. Calabrese también sugiere que el concepto de Paraíso puede ser el secreto detrás del fenómeno de la no localidad:
+Y segundo, el Paraíso actúa de abajo hacia arriba a través de sus piezas _fractales_, los ultimátones. Hemos visto anteriormente que el Paraíso no es espacial y que «el espacio existe en relación con el Paraíso... El Paraíso existe en el foco del espacio». (<a id="a163_258"></a>[LU 105:3.4](/es/The_Urantia_Book/105#p3_4)) Además, la presencia física del Paraíso en el foco del espacio se manifiesta en el espacio como la captación instantánea de la gravedad _al nivel del ultimáton_. (Nuevamente, nos referimos aquí a la forma de gravedad denominada «gravedad absoluta»). Esto significa que el sobrecontrol universal de la Primera Fuente y Centro se extiende hasta el nivel cuántico de la materia. Y esta es sólo una de las implicaciones de la revelación de que cada ultimáton tiene como núcleo el Centro del Universo. Según el matemático Philip Calabrese, la afirmación de que cada ultimatón es sostenido por la gravedad del Paraíso significa que «presumiblemente, esta es la verdadera fuerza fuerte». En este sentido, el Dr. Calabrese también sugiere que el concepto de Paraíso puede ser el secreto detrás del fenómeno de la no localidad:
 
 > La mecánica cuántica contemporánea... se enfrenta hoy en día a experimentos descritos como fenómenos de «realidad no local»... Quizás la respuesta a este enigma no sea la realidad «no local», sino más bien la realidad «omnilocal», la omnipresencia del Paraíso... en el espacio y sus alrededores. [^12]
 
@@ -161,6 +185,31 @@ En última instancia, la validación última de la visión estereoscópica subya
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/Toward_a_Global_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia una teología global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="pr-2">La muerte, la última frontera</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

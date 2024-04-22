@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Byron Belitsos<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amanecer de una nueva era</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jack_Rogers/The_Pageantry_of_Christmas">
+          <span class="pr-2">El espectáculo de la Navidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Jesús de la Parte IV de _El Libro de Urantia_ inspirará muchas cristologías nuevas en el próximo siglo. En una versión, creo, Cristo Miguel aparecerá como el «CiberCristo». El concepto del CiberCristo es la forma de Jesús más presentable para los descendientes directos de la revolución informática, tal como se reafirma el evangelio para su generación. Proféticamente hablando, el CiberCristo es el Cristo de la transfiguración personal inducida por medios informáticos avanzados: el Jesús que patrocina experiencias religiosas cósmicas en un mundo posmoderno. Con suerte, este Jesús puede competir con los dioses neopaganos que ahora llenan el vacío espiritual de los niños sofisticados de la era de las computadoras.
@@ -54,3 +78,28 @@ Si bien ofrece muchas líneas de elogio a la tecnología y su potencial, _Lawnmo
 > _Byron ha sido periodista y productor de televisión y ahora es consultor en la industria de las telecomunicaciones._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amanecer de una nueva era</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jack_Rogers/The_Pageantry_of_Christmas">
+          <span class="pr-2">El espectáculo de la Navidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

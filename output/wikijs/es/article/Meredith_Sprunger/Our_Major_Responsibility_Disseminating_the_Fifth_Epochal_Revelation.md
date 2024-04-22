@@ -9,14 +9,38 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ser prudentes como serpientes, inofensivos como palomas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="pr-2">Ambigüedades del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestra principal responsabilidad en el movimiento Urantia, a mi juicio, es difundir la Quinta Revelación de Época por todo nuestro mundo. Los autores de _El Libro de Urantia_ proyectan dos lugares en los que esto tendrá lugar:
 
-1. _Estableciendo nuevos grupos religiosos_. «Independientemente de los inconvenientes y desventajas, cada nueva revelación de la verdad ha dado lugar a un nuevo culto, e incluso la reformulación de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado... Al igual que los antiguos, el nuevo culto debe favorecer los sentimientos, satisfacer las emociones y promover la lealtad; pero debe hacer algo más: Debe facilitar el progreso espiritual, realzar los significados cósmicos, aumentar los valores morales, animar el desarrollo social y estimular un tipo elevado de vida religiosa personal». ([LU 87:7.7](/es/The_Urantia_Book/87#p7_7))
-2. _Al fermentar las religiones tradicionales, se dirige especial atención al cristianismo_. «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
+1. _Estableciendo nuevos grupos religiosos_. «Independientemente de los inconvenientes y desventajas, cada nueva revelación de la verdad ha dado lugar a un nuevo culto, e incluso la reformulación de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado... Al igual que los antiguos, el nuevo culto debe favorecer los sentimientos, satisfacer las emociones y promover la lealtad; pero debe hacer algo más: Debe facilitar el progreso espiritual, realzar los significados cósmicos, aumentar los valores morales, animar el desarrollo social y estimular un tipo elevado de vida religiosa personal». (<a id="a39_611"></a>[LU 87:7.7](/es/The_Urantia_Book/87#p7_7))
+2. _Al fermentar las religiones tradicionales, se dirige especial atención al cristianismo_. «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». (<a id="a40_530"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
-> Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
+> Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. (<a id="a42_553"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
 ## La resistencia histórica a la nueva revelación
 
@@ -64,3 +88,28 @@ Así como fueron necesarios casi 1.800 años de desarrollo evolutivo para precip
 > _Meredith Sprunger es profesor universitario y ministro de la Iglesia Unida de Cristo, ahora jubilado, y editor de_ The Spiritual Fellowship Journal.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ser prudentes como serpientes, inofensivos como palomas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="pr-2">Ambigüedades del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

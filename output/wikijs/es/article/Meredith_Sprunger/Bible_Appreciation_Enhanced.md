@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Unique_Function_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La función única de la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="pr-2">Destino principal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace muchos años, un amigo que era el ministro principal de una importante iglesia de la ciudad me preguntó: «¿Cómo ves la Biblia después de leer _El libro de Urantia_?» Examinó brevemente el libro y asumió que tendría un efecto negativo en mi evaluación de la Biblia. Por lo tanto, se sorprendió un poco cuando le respondí: «Aprecio mucho más la Biblia desde que estudio _El libro de Urantia_».
@@ -19,3 +43,28 @@ _El Libro de Urantia_ presenta un trasfondo y un escenario para muchas declaraci
 
 Las nuevas revelaciones auténticas siempre se basan en lo mejor de las antiguas. El Nuevo Testamento es una continuación de las verdades más elevadas del Antiguo Testamento. Del mismo modo, _El Libro de Urantia_ confirma las verdades esenciales del mensaje bíblico. Se afirma y amplía el lugar del papel de Jesús en la revelación y la salvación. El efecto principal de la lectura del Libro de Urantia para la mayoría de los cristianos es una apreciación nueva y ampliada de la estatura y la sabiduría de Jesús y una gratitud iluminada por la eficacia de su ministerio salvador para nuestro mundo y universo. Creemos que esto, junto con una visión ampliada de la realidad universal, está destinado a aportar una mayor autenticidad espiritual a la proclamación del evangelio en nuestra sociedad contemporánea.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Unique_Function_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La función única de la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="pr-2">Destino principal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

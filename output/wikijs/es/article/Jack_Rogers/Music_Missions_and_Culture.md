@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Will_UB_Inspire_a_New_Religious_Institution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Inspirará el libro de Urantia una nueva institución religiosa?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Everett_Sloffer/The_Power_of_New_Spiritual_Insight">
+          <span class="pr-2">El poder de la nueva percepción espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando Cristo llamó a sus discípulos a «ir y hacer discípulos a todas las naciones», se produjo un movimiento misionero que continúa hasta el día de hoy. Millones de hombres y mujeres jóvenes abandonaron sus hogares y viajaron a tierras extranjeras para compartir el evangelio de Cristo. A lo largo de la historia, la música ha demostrado ser sumamente eficaz para lograr que se escuche la palabra hablada y para servir como vehículo comunicativo de valores.
@@ -25,11 +49,11 @@ Desde una perspectiva teológica, es cuestionable que la destrucción cultural t
 
 Mientras asistía a cierto seminario evangélico, me enseñaron que Cristo es el transformador de la cultura. Los dogmas teológicos conservadores de esta iglesia dictaron sus «normas aceptables» para una cultura cristiana. Cuando esto sucede, el evangelio tiende a asociarse con formas culturales específicas, y esos grupos religiosos a menudo tienen problemas para adaptarse al cambio social progresivo. _El Libro de Urantia_ advierte contra la vinculación de tendencias sociales, económicas o políticas con el mensaje del evangelio:
 
-> Si la religión moderna encuentra difícil ajustar su actitud a las transformaciones sociales que varían con rapidez, es únicamente porque se ha permitido volverse completamente tradicional, dogmatizada e institucionalizada. La religión de la experiencia viviente no encuentra ninguna dificultad en mantenerse por delante de todos esos desarrollos sociales y agitaciones económicas, desempeñando siempre su actividad en medio de ellos como estabilizadora moral, guía social y piloto espiritual. ([LU 99:2.6](/es/The_Urantia_Book/99#p2_6))
+> Si la religión moderna encuentra difícil ajustar su actitud a las transformaciones sociales que varían con rapidez, es únicamente porque se ha permitido volverse completamente tradicional, dogmatizada e institucionalizada. La religión de la experiencia viviente no encuentra ninguna dificultad en mantenerse por delante de todos esos desarrollos sociales y agitaciones económicas, desempeñando siempre su actividad en medio de ellos como estabilizadora moral, guía social y piloto espiritual. (<a id="a51_496"></a>[LU 99:2.6](/es/The_Urantia_Book/99#p2_6))
 
 > _A la religión moderna le resulta difícil ajustar su actitud hacia los cambios sociales que cambian rápidamente sólo porque se ha permitido llegar a ser completamente tradicionalizada, dogmatizada e institucionalizada._
 
-La religión es sólo uno de los muchos formadores y portadores de la cultura. «Las mayores influencias del siglo XX que contribuyeron al avance de la civilización y de la cultura son el marcado aumento de los viajes por el mundo y las mejoras incomparables en los métodos de comunicación». ([LU 81:6.25](/es/The_Urantia_Book/81#p6_25)) El advenimiento de la era de la comunicación y un creciente sentido de comunidad mundial han puesto en primer plano del debate popular la cuestión del dominio cultural.
+La religión es sólo uno de los muchos formadores y portadores de la cultura. «Las mayores influencias del siglo XX que contribuyeron al avance de la civilización y de la cultura son el marcado aumento de los viajes por el mundo y las mejoras incomparables en los métodos de comunicación». (<a id="a55_290"></a>[LU 81:6.25](/es/The_Urantia_Book/81#p6_25)) El advenimiento de la era de la comunicación y un creciente sentido de comunidad mundial han puesto en primer plano del debate popular la cuestión del dominio cultural.
 
 Lo que me interesa es hasta qué punto el debate popular sobre la dominación cultural se ha centrado principalmente en nuestra experiencia materialista del siglo XX. La preocupación por mantener las identidades culturales en todo el mundo frente a las exportaciones comerciales occidentales ha sido noticia de primera plana. Miles de misioneros están contribuyendo a esta exportación de la cultura occidental por todo el mundo. El creciente enfoque de alta tecnología en los esfuerzos misioneros que incorporan métodos de medios de comunicación está llegando a audiencias increíblemente grandes. Esta comercialización contemporánea del mensaje del evangelio es una preocupación seria para muchos cristianos tradicionales.
 
@@ -41,11 +65,36 @@ En Centro y Sudamérica, después de 500 años de dominio de la Iglesia Católic
 
 La lección de estos ejemplos es clara: las culturas indígenas son difíciles de destruir. Siempre que los misioneros introducen una nueva fe religiosa en una cultura indígena, se produce una adaptación. La nueva fe se adopta en expresiones indígenas que dan como resultado formas de culto que son exclusivas de esa cultura. He contemplado el significado de estas dinámicas cultural-religiosas y me ha impresionado profundamente la sabiduría que _El Libro de Urantia_ tiene para compartir con nosotros como ministros misioneros del evangelio. Considere los siguientes pasajes entre muchos que podrían seleccionarse:
 
-> Los mortales de los mundos del tiempo y del espacio pueden diferir enormemente en sus capacidades innatas y en sus dones intelectuales, pueden disfrutar de entornos excepcionalmente favorables para el avance social y el progreso moral, o pueden sufrir la carencia de casi toda ayuda humana para cultivarse y avanzar supuestamente en las artes de la civilización; pero las posibilidades para el progreso espiritual en la carrera de la ascensión son iguales para todos; los niveles crecientes de perspicacia espiritual y de significados cósmicos se alcanzan con absoluta independencia de todos los diferenciales sociomorales de los entornos materiales diversificados de los mundos evolutivos. ([LU 5:1.4](/es/The_Urantia_Book/5#p1_4))
+> Los mortales de los mundos del tiempo y del espacio pueden diferir enormemente en sus capacidades innatas y en sus dones intelectuales, pueden disfrutar de entornos excepcionalmente favorables para el avance social y el progreso moral, o pueden sufrir la carencia de casi toda ayuda humana para cultivarse y avanzar supuestamente en las artes de la civilización; pero las posibilidades para el progreso espiritual en la carrera de la ascensión son iguales para todos; los niveles crecientes de perspicacia espiritual y de significados cósmicos se alcanzan con absoluta independencia de todos los diferenciales sociomorales de los entornos materiales diversificados de los mundos evolutivos. (<a id="a67_694"></a>[LU 5:1.4](/es/The_Urantia_Book/5#p1_4))
 
-> La supervivencia eterna de la personalidad depende enteramente de la elección de la mente mortal, cuyas decisiones determinan el potencial de supervivencia del alma inmortal. Cuando la mente cree en Dios y el alma conoce a Dios, cuando con el Ajustador que estimula todos *desean* a Dios, entonces la supervivencia está asegurada. Las limitaciones del intelecto, las restricciones de la educación, la privación de cultura, el empobrecimiento de la posición social e incluso unos criterios morales humanos inferiores ocasionados por la falta desafortunada de ventajas educativas, culturales y sociales, no pueden invalidar la presencia del espíritu divino en esos individuos desafortunados y humanamente perjudicados, pero creyentes. La presencia interior del Monitor de Misterio constituye el comienzo, y asegura la posibilidad, del potencial de crecimiento y de supervivencia del alma inmortal. ([LU 5:5.13](/es/The_Urantia_Book/5#p5_13))
+> La supervivencia eterna de la personalidad depende enteramente de la elección de la mente mortal, cuyas decisiones determinan el potencial de supervivencia del alma inmortal. Cuando la mente cree en Dios y el alma conoce a Dios, cuando con el Ajustador que estimula todos *desean* a Dios, entonces la supervivencia está asegurada. Las limitaciones del intelecto, las restricciones de la educación, la privación de cultura, el empobrecimiento de la posición social e incluso unos criterios morales humanos inferiores ocasionados por la falta desafortunada de ventajas educativas, culturales y sociales, no pueden invalidar la presencia del espíritu divino en esos individuos desafortunados y humanamente perjudicados, pero creyentes. La presencia interior del Monitor de Misterio constituye el comienzo, y asegura la posibilidad, del potencial de crecimiento y de supervivencia del alma inmortal. (<a id="a69_899"></a>[LU 5:5.13](/es/The_Urantia_Book/5#p5_13))
 
 El fundamento filosófico para la actividad misionera presentado en _El Libro de Urantia_ tiene importantes contribuciones que hacer a la iglesia contemporánea. Nos llama a reconocer la actividad mundial del Espíritu de Dios entre todos los pueblos del mundo. Sugiere que las formas indígenas de adoración pueden no sólo ser aceptables para Dios sino que también pueden tener algo que enseñarnos. Y, finalmente, desafía la noción misma de la «salvación de los perdidos», de que todos los no cristianos están condenados, como fundamento del esfuerzo misionero.
 
 En las observaciones anteriores, esta columna ha entrado en un campo minado de desafíos para los cristianos contemporáneos, tanto tradicionales como conservadores. Creo que debemos plantearnos preguntas difíciles sobre qué mensajes teológicos y culturales se presentan en nuestra predicación y en nuestra música. La música está en una posición única para ayudarnos con esta evaluación porque muy a menudo es el principal portador de mensajes teológicos para las personas a las que servimos. Por lo tanto, me gustaría continuar esta discusión en la próxima columna que se titulará «La búsqueda de la indigenización» con la esperanza de que nuestra discusión pueda contribuir a los esfuerzos de extensión de la iglesia local tanto dentro de su propio vecindario como en todo el mundo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Will_UB_Inspire_a_New_Religious_Institution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Inspirará el libro de Urantia una nueva institución religiosa?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Everett_Sloffer/The_Power_of_New_Spiritual_Insight">
+          <span class="pr-2">El poder de la nueva percepción espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

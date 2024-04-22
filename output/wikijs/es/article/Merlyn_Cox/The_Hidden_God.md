@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Merlyn Cox<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El escándalo de la cosmología espiritual actual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="pr-2">El milagro de la recuperación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El filósofo Descartes dijo una vez que cualquier filosofía que no afirme que Dios está oculto no es cierta. El Pentateuco declara que nadie puede mirar a Dios y vivir. Ambas son afirmaciones de la distancia entre lo finito y lo infinito. Es, sin duda, la razón fundamental de la creencia deísta de que Dios hizo el universo como un reloj gigante, un enorme mecanismo autónomo sujeto por sus propias leyes, y luego retirado en un espléndido aislamiento.
@@ -31,3 +55,28 @@ Esta es la razón por la que _El Libro de Urantia_ tiene tanto sentido para tant
 
 Su rica cosmología y coordinación de conocimientos de las principales disciplinas, junto con una descripción muy mejorada de la vida y las enseñanzas de Jesús, ofrecen una fuente de conocimiento e inspiración para esta nueva era, de hecho para las edades venideras, o al menos hasta que la sabiduría Divina considere el mundo está listo para dar otro paso adelante de una manera apropiada para ese tiempo y época.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El escándalo de la cosmología espiritual actual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="pr-2">El milagro de la recuperación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

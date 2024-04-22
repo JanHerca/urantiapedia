@@ -9,11 +9,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Transition_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempos de transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="pr-2">Paralelos en la revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El objetivo más elevado de la vida humana enunciado por todas las religiones del mundo de diversas maneras es lograr la conciencia de Dios y moldear la propia vida en armonía con la voluntad de Dios. Este objetivo también es citado como el mayor logro de los seres humanos en _El Libro de Urantia_.
 
-> El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, ... Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe. ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, ... Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe. (<a id="a39_686"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
 Pero ¿qué es la conciencia de Dios? La mayoría de la gente tiende a pensar en la conciencia de Dios en términos de una experiencia de alter ego, escuchar una voz o la conciencia de la presencia de otra personalidad. Estos conceptos, a mi juicio, dan una imagen engañosa de la presencia de Dios en nuestras vidas. El Espíritu de Dios que mora en nosotros, el Ajustador del Pensamiento, es en realidad un aspecto interior de la mente. Es la cualidad superconsciente de la mente en oposición a la herencia animal subconsciente de la mente. Este fragmento del espíritu de Dios es de naturaleza prepersonal y se experimenta como una cualidad de la conciencia. Cuando, a través de nuestras decisiones volitivas dedicadas y persistentes, el Espíritu de Dios es funcionalmente dominante en nuestra conciencia, esta influencia superconsciente se evidencia por ciertas características básicas:
 
@@ -25,3 +49,28 @@ Pero ¿qué es la conciencia de Dios? La mayoría de la gente tiende a pensar en
 
 En la asociación cooperativa entre el Espíritu de Dios que mora en nosotros y la voluntad-mente humana, se desarrolla una creciente conciencia de Dios, junto con el desarrollo del alma, que culmina en la unidad de la mente y la voluntad humanas con la voluntad de Dios. En ese momento, el alma humana se fusiona con el fragmento interior del Espíritu de Dios, generalmente en los mundos de estancia del reino del Padre, y nace una nueva personalidad universal.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Transition_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempos de transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="pr-2">Paralelos en la revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

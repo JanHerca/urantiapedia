@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Rev. Gregory Young<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi introducción a Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="pr-2">Salmos de hoy: nuestro refugio y esperanza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Hace poco, una mañana temprano, mientras salía a correr, me emocionó ver los primeros petirrojos de la temporada. Luego, de camino a la oficina de la iglesia, vi varios mirlos de alas rojas en el humedal del lado norte de la carretera de Donges Bay. Genial, pensé, estos son los presagios de la primavera. ¡Es hora de prepararnos para plantar nuestro jardín!
@@ -40,5 +64,30 @@ Como seguidores de Jesús, todos pertenecemos a la hermandad de la humanidad y e
 > _Gregory Young es pastor de la Iglesia Unida de Cristo St. John en Germantown, Wisconsin._
 {.is-info}
 
-> «_La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús._» ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
+> «_La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús._» (<a id="a66_349"></a>[LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi introducción a Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="pr-2">Salmos de hoy: nuestro refugio y esperanza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

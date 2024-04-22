@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Matt Neibaur<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un nuevo comienzo para la unidad religiosa mundial (Parte II)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mientras servía en una misión en Argentina para la Iglesia Mormona, tuve un sueño. En ese momento yo trabajaba en un barrio de Buenos Aires llamado Mataderos. Este es el distrito que contiene los mataderos. Los restos de animales desechados fueron quemados, dejando una humareda oscura sobre el barrio. El sistema de alcantarillado era deficiente y a menudo se desbordaba, lo que provocaba que las alcantarillas de las calles adoquinadas se llenaran de sangre. El olor a muerte estaba por todas partes. Pensé en Auchwitz mientras esquivaba los coches en mi bicicleta oxidada.
@@ -25,3 +46,25 @@ En este momento de mi vida, todo era nuevo y vivo. Vi a Dios en todo y en todos.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un nuevo comienzo para la unidad religiosa mundial (Parte II)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

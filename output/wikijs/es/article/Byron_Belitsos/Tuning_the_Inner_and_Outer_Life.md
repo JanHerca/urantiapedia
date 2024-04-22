@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Byron Belitsos<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="pr-2">Tirar al bebé espiritual con el agua del baño sexista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En nuestra última columna sobre Medios y Valores, defendí la visión bastante inusual de que la televisión y las nuevas formas de medios electrónicos pueden y deben afectar favorablemente la vida espiritual interior del individuo. Exploremos cómo podría ocurrir esto a medida que se desarrolla la revolución mediática de los años noventa.
@@ -21,7 +45,7 @@ En la Parte III de _El Libro de Urantia_, en los artículos 85-98, los autores p
 
 Al principio, la verdad divina era competencia exclusiva de un individuo carismático designado o de un grupo privilegiado: en las sociedades tribales era el chamán; en Egipto el faraón; en la India el sacerdocio brahmán. Estas autorrevelaciones (conocimientos derivados de la asociación con el espíritu interior de Dios) eventualmente se convirtieron en textos sagrados, de los cuales se derivaron rituales y mitos, y luego se impusieron a las poblaciones pasivas.
 
-Se escribió un nuevo capítulo en Israel. Aquí somos testigos de una tensión constante entre las nuevas voces de los profetas, cuyas autorrevelaciones surgieron de nuevas fuentes, y la rígida tradición farisaica de textos y rituales. Jesús fue el primer profeta judío que enseñó el amor del Padre por el individuo, que se puede contactar directamente con el Padre en modos de pensamiento y actitud muy personales. La visión bíblica de la vida interior de Jesús es hermosa y anecdótica, pero los autores de _El Libro de Urantia_ presentan la vida espiritual interior de Jesús como asombrosamente rica y variada. «...Para él, la oración era una expresión sincera de la actitud espiritual, una declaración de la lealtad del alma, una recitación de devoción personal, una expresión de acción de gracias, una manera de evitar la tensión emocional, una prevención de los conflictos, una exaltación del intelecto... » ([LU 196:0.10](/es/The_Urantia_Book/196#p0_10)) más una lista adicional de otras 12 actitudes hacia la verdad que parecen agotar toda la gama de respuestas internas a posibles estímulos espirituales.
+Se escribió un nuevo capítulo en Israel. Aquí somos testigos de una tensión constante entre las nuevas voces de los profetas, cuyas autorrevelaciones surgieron de nuevas fuentes, y la rígida tradición farisaica de textos y rituales. Jesús fue el primer profeta judío que enseñó el amor del Padre por el individuo, que se puede contactar directamente con el Padre en modos de pensamiento y actitud muy personales. La visión bíblica de la vida interior de Jesús es hermosa y anecdótica, pero los autores de _El Libro de Urantia_ presentan la vida espiritual interior de Jesús como asombrosamente rica y variada. «...Para él, la oración era una expresión sincera de la actitud espiritual, una declaración de la lealtad del alma, una recitación de devoción personal, una expresión de acción de gracias, una manera de evitar la tensión emocional, una prevención de los conflictos, una exaltación del intelecto... » (<a id="a47_911"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10)) más una lista adicional de otras 12 actitudes hacia la verdad que parecen agotar toda la gama de respuestas internas a posibles estímulos espirituales.
 
 Jesús estaba espiritualmente en sintonía con su Padre Celestial. Su mente estaba muy refinada y bien sintonizada para recibir las señales internas más específicas de su Ajustador (espíritu interno) para manejar un conjunto muy diverso de situaciones en Palestina y alrededor del Mediterráneo.
 
@@ -57,7 +81,7 @@ Nuestra sintonía es interactiva en el sentido de que un yo que pregunta y pide 
 
 La vida interior es más real cuando es creativa. Los productos más elevados del alma/espíritu son sorpresas para la mente, que a menudo trascienden lo que la educación, la cultura o las costumbres habrían predicho. La autorrevelación puede ser contraria a las creencias actuales del médium, como fue el caso de la persona que actuó como canal para el texto altamente creativo, El curso de los milagros. Esta persona era un agnóstico declarado.
 
-La sintonía espiritual implica sintonizarse con las corrientes más esquivas de la mente. Las indicaciones del Ajustador del Pensamiento nunca se imponen, y estos impulsos se pierden fácilmente en las corrientes materiales de la mente. Nuestros primeros contactos pueden ser experiencias sensacionales, que pueden incluso «...cegar a la criatura...» ([LU 110:4.5](/es/The_Urantia_Book/110#p4_5)), pero estas corrientes siempre están mezcladas con emociones inferiores y tendencias intelectuales, al igual que el contenido del Ajustador del la vida onírica está contaminada con «...la presión de emociones no expresadas...» y «...deseos no expresados». ([LU 110:5.4](/es/The_Urantia_Book/110#p5_4))
+La sintonía espiritual implica sintonizarse con las corrientes más esquivas de la mente. Las indicaciones del Ajustador del Pensamiento nunca se imponen, y estos impulsos se pierden fácilmente en las corrientes materiales de la mente. Nuestros primeros contactos pueden ser experiencias sensacionales, que pueden incluso «...cegar a la criatura...» (<a id="a83_350"></a>[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)), pero estas corrientes siempre están mezcladas con emociones inferiores y tendencias intelectuales, al igual que el contenido del Ajustador del la vida onírica está contaminada con «...la presión de emociones no expresadas...» y «...deseos no expresados». (<a id="a83_652"></a>[LU 110:5.4](/es/The_Urantia_Book/110#p5_4))
 
 Finalmente, la vida interior es _sinérgica_. La imaginación es esencial para el desarrollo de la fe; la fe despliega todas las facultades y todos los sentidos. La fe es una condición de toda la persona.
 
@@ -84,3 +108,28 @@ Lo más alentador es el hecho de que estos programas educativos, informativos y 
 > _Byron ha sido periodista y productor de televisión y ahora es consultor en la industria de las telecomunicaciones._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="pr-2">Tirar al bebé espiritual con el agua del baño sexista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

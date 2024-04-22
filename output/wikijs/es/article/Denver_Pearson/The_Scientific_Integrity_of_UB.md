@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Denver Pearson<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más lecciones de los pájaros y las abejas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="pr-2">La Infinitud de Dios, una Enfoque Astronómico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando los lectores con mentalidad científica examinan por primera vez _El Libro de Urantia_, pronto se les ocurre que muchas de sus afirmaciones sobre las ciencias naturales entran en conflicto con los datos y teorías actualmente vigentes. En opinión de muchos, esto suscita dudas sobre la veracidad de esas declaraciones. La sabiduría nos llevaría a darnos cuenta de que nada que no sea la perfección es perfecto y que todo lo que toca la mano humana tiene huellas dactilares. Estos deberían ser nuestros pensamientos que nos guíen al contemplar la exactitud del contenido científico de los Documentos de Urantia.
@@ -27,7 +51,7 @@ Pero no estamos hablando ahora de errores tipográficos y distorsiones. Estos no
 
 Al tomar conciencia de las diferencias entre la ciencia actual y la revelación, nos vemos obligados a llegar a la conclusión de que ambas no pueden tener razón y de alguna manera debemos tomar una decisión entre ellas. De inmediato nos enfrentamos a la idea de afrontar la posibilidad de que algo huela mal en alguna parte. ¿Cómo podemos probar las dos fuentes? ¿Qué prueba sería adecuada para resolver este problema tan terriblemente molesto? ¿Qué tal si utilizamos nuestro sentido común y los antecedentes de los Documentos de Urantia y de la ciencia?
 
-Como niños crédulos que crecimos en la nueva era científica de los descubrimientos, aceptamos naturalmente la autoridad sensata de lo que nos decían. ¿Quiénes éramos nosotros para cuestionar a estas grandes mentes que investigaban todos los rincones de la realidad conocida? Siempre ha sido más fácil aceptar su información como un evangelio que buscarla nosotros mismos. Generalmente todavía lo hago, pero con un grano de sal. En _El Libro de Urantia_ se nos dice que «la fe no encadena la imaginación creadora ni tampoco mantiene prejuicios irrazonables hacia los descubrimientos de la investigación científica». [[LU 101:8.4](/es/The_Urantia_Book/101#p8_4)] Así que seamos razonables.
+Como niños crédulos que crecimos en la nueva era científica de los descubrimientos, aceptamos naturalmente la autoridad sensata de lo que nos decían. ¿Quiénes éramos nosotros para cuestionar a estas grandes mentes que investigaban todos los rincones de la realidad conocida? Siempre ha sido más fácil aceptar su información como un evangelio que buscarla nosotros mismos. Generalmente todavía lo hago, pero con un grano de sal. En _El Libro de Urantia_ se nos dice que «la fe no encadena la imaginación creadora ni tampoco mantiene prejuicios irrazonables hacia los descubrimientos de la investigación científica». <a id="a53_615"></a>[[LU 101:8.4](/es/The_Urantia_Book/101#p8_4)] Así que seamos razonables.
 
 Sólo recientemente me he dado cuenta de que esto llamado ciencia es un proceso extremadamente imperfecto llevado a cabo por individuos extremadamente imperfectos. La palabra «proceso» es la palabra clave aquí. La realidad universal es una constante, y la ciencia es ese proceso de acierto mediante el cual intentamos comprender esa realidad. ¿Cómo sabemos si tenemos un acierto o un error? Sólo el tiempo lo dirá, y el arte del descubrimiento científico es todavía muy joven.
 
@@ -41,15 +65,15 @@ Ahora bien, si la gente insiste en que la opinión científica actual es correct
 
 Una y otra vez se afirma que los reveladores recibieron el mandato de utilizar la ciencia de la época, para dar preferencia a los más elevados conceptos humanos existentes. Y ahora que se han hecho nuevos descubrimientos, la revelación parece ser errónea. El reconocimiento al comienzo del libro parece ser una de las fuentes de esta idea. Dice que al coordinar los conocimientos esenciales los autores deben dar preferencia a los conceptos más elevados pertenecientes a los temas a presentar (p. 16). No importa cómo lea esa línea, nunca tengo la impresión de que al coordinar el conocimiento esencial fuera necesario incluir imprecisiones a propósito. (Al leer atentamente el reconocimiento parece que se refiere principalmente a cosas de valor espiritual).
 
-Ya hemos determinado que con conceptos espirituales elevados hay cierta distorsión, pero cuando se trata de la simplicidad mecánica de las ciencias físicas esto no parece sensato. Hay demasiados casos en el libro en los que la ciencia de la época no se utilizó o, de hecho, se corrigió. La deriva continental es un ejemplo ([LU 58:4.3-4](/es/The_Urantia_Book/58#p4_3)), y los cálculos de la masa del sol son otro ([LU 41:4.1](/es/The_Urantia_Book/41#p4_1)).
+Ya hemos determinado que con conceptos espirituales elevados hay cierta distorsión, pero cuando se trata de la simplicidad mecánica de las ciencias físicas esto no parece sensato. Hay demasiados casos en el libro en los que la ciencia de la época no se utilizó o, de hecho, se corrigió. La deriva continental es un ejemplo (<a id="a67_324"></a>[LU 58:4.3-4](/es/The_Urantia_Book/58#p4_3)), y los cálculos de la masa del sol son otro (<a id="a67_414"></a>[LU 41:4.1](/es/The_Urantia_Book/41#p4_1)).
 
-En [LU 101:4.2](/es/The_Urantia_Book/101#p4_2), el llamado «descargo de responsabilidad», los autores también afirman que sus declaraciones sobre las ciencias físicas necesitarán revisión debido a nuevos descubrimientos y desarrollos, y que se les prohibió incluir estos hechos no descubiertos en estos registros. Una vez más, no hay ninguna implicación de que tuvieran que utilizar declaraciones falsas. Limitado, sí, pero no falso. Debido a que tanto los hombres como los ángeles deben buscar y descubrir la naturaleza física del universo (no es inspirado), sería injusto que los ángeles nos revelaran información que aún tenemos que descubrir.
+En <a id="a69_3"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2), el llamado «descargo de responsabilidad», los autores también afirman que sus declaraciones sobre las ciencias físicas necesitarán revisión debido a nuevos descubrimientos y desarrollos, y que se les prohibió incluir estos hechos no descubiertos en estos registros. Una vez más, no hay ninguna implicación de que tuvieran que utilizar declaraciones falsas. Limitado, sí, pero no falso. Debido a que tanto los hombres como los ángeles deben buscar y descubrir la naturaleza física del universo (no es inspirado), sería injusto que los ángeles nos revelaran información que aún tenemos que descubrir.
 
 Lo que llamará la atención de los futuros estudiantes de esta revelación serán las notables omisiones de datos científicos. Estos errores de omisión harán que ciertas declaraciones queden obsoletas y necesiten revisión a medida que avance el proceso científico. ¿Significa esto que realmente vamos a recibir una revisión en alguna fecha futura? No necesariamente. Durante la expansión de Estados Unidos, los mapas contenían únicamente aquellos estados que pertenecían a la Unión. Los primeros mapas tenían sólo trece y, a medida que se unieron más estados a la Federación, los mapas se revisaron para incluir estos nuevos estados. Ahora que tenemos mapas con cincuenta estados, ¿esos mapas anteriores son falsos? No. «Necesitan revisión» y son erróneos sólo en comparación con los datos actuales debido a omisiones, pero son precisos en contexto.
 
 Como se señaló anteriormente, se ha sugerido que los Reveladores colocaron intencionalmente información errónea en el libro, las llamadas «bombas de tiempo». La idea es que estos errores algún día «exploten» en la página, dañando el contenido del libro, haciéndolo contaminado y poco atractivo para aquellos lectores que de otro modo lo convertirían en un fetiche. En todos mis años de estudio, nunca me he encontrado con nadie que tenga un fetiche por el Libro de Urantia. De hecho, todo lo contrario. Lo marcamos, le derramamos cosas y lo dejamos tirado en el suelo. Esto es como decir que Adán y Eva tropezaron y cayeron constantemente a propósito para no ser adorados como dioses. Esto es un insulto a la inteligencia de aquellos individuos que están en un nivel capaz de aceptar la alta verdad. Sin embargo, sentimos una saludable reverencia por el libro porque es una hermosa obra de arte literario. Incluso los oponentes del libro reconocen su uso dominante del idioma inglés.
 
-Una de esas «bombas de tiempo» supuestamente ha sido descubierta en un complicado párrafo sobre [LU 57:6.2](/es/The_Urantia_Book/57#p6_2). Afirma:
+Una de esas «bombas de tiempo» supuestamente ha sido descubierta en un complicado párrafo sobre <a id="a75_96"></a>[LU 57:6.2](/es/The_Urantia_Book/57#p6_2). Afirma:
 
 «Los planetas más cercanos al Sol fueron los primeros en ver sus revoluciones ralentizadas por la fricción de las mareas. Tales influencias gravitacionales también contribuyen a la estabilización de las órbitas planetarias al tiempo que actúan como un freno en la velocidad de la revolución axial planetaria, lo que hace que un planeta gire cada vez más lento hasta que cesa la revolución axial, dejando un hemisferio del planeta siempre orientado hacia el sol o hacia el sol. cuerpo, como lo ilustran el planeta Mercurio y la Luna, que siempre giran la misma cara hacia Urantia». En el momento de la revelación, la comunidad científica creía que Mercurio mostraba el mismo lado hacia el sol. En 1965 se demostró lo contrario. Una lectura casual hace que parezca como si los escritores estuvieran expresando la ciencia de la época. Se ha sugerido que debido a que los Reveladores sabían esto, debieron haber utilizado material erróneo para crear fallas en un libro que de otro modo sería casi perfecto para evitar el fetichismo.
 
@@ -59,9 +83,9 @@ Me gustaría abordar otra «bomba de tiempo» sugerida que se ha abordado en el 
 
 Debido a que algunos lectores insisten en interpretar «en el tercer día/período» en el sentido de que sólo significa un período de tres días, como ocurrió con la resurrección de Jesús, se enfrentan al problema de cómo los serafines, que no pueden proceder a más de tres veces la velocidad de la luz, pueden llegar a los mundos mansión a varios años luz de distancia en un período de tres días. Este es un problema muy desconcertante, pero ¿debemos recurrir a distorsionar el tiempo y doblar el espacio para que funcione? En mi opinión, la revelación deja claro que el transporte a través del espacio es un procedimiento bastante simple para ir de un lugar a otro, excepto para ciertas personalidades como los Mensajeros de la Gravedad que parecen no estar condicionados por el tiempo y el espacio. Hay algunos lectores que creen que podría haber una forma de transporte aún no revelada a nosotros por alguna razón que explicaría este problema de los viajes seráficos a través de grandes distancias en un período de tiempo relativamente corto.
 
-La mejor explicación que he escuchado para este problema es que «al tercer día/período» se refiere a un período de tiempo indefinido que es de corta duración en lugar de largo. Algo similar a la expresión judía común de la época de Jesús, «al tercer día», que significaba «presentemente» o «poco después» ([LU 171:4.8](/es/The_Urantia_Book/171#p4_8)). Esto es similar a la forma en que usamos «un salto, un salto y un salto» para indicar una distancia corta en lugar de una larga.
+La mejor explicación que he escuchado para este problema es que «al tercer día/período» se refiere a un período de tiempo indefinido que es de corta duración en lugar de largo. Algo similar a la expresión judía común de la época de Jesús, «al tercer día», que significaba «presentemente» o «poco después» (<a id="a85_306"></a>[LU 171:4.8](/es/The_Urantia_Book/171#p4_8)). Esto es similar a la forma en que usamos «un salto, un salto y un salto» para indicar una distancia corta en lugar de una larga.
 
-No tiene sentido que los mandatos reveladores alentaran la colocación de ciencia y cosmología inexactas en una revelación que fue diseñada para «reducir la confusión mediante la eliminación autorizada del error» ([LU 101:4.6](/es/The_Urantia_Book/101#p4_6)). La idea del engaño divino es repugnante, y difícilmente creo que los Ancianos de los Días autorizarían tales mandatos.
+No tiene sentido que los mandatos reveladores alentaran la colocación de ciencia y cosmología inexactas en una revelación que fue diseñada para «reducir la confusión mediante la eliminación autorizada del error» (<a id="a87_213"></a>[LU 101:4.6](/es/The_Urantia_Book/101#p4_6)). La idea del engaño divino es repugnante, y difícilmente creo que los Ancianos de los Días autorizarían tales mandatos.
 
 Los mandatos relativos a las ciencias físicas podrían haber sido algo tan simple como esto: (1) Si alguna mente humana ha concebido algo remotamente relacionado con el hecho, entonces los autores podrían reformularlo con más claridad. No tenía por qué ser una idea común o publicada. Esto podría dar lugar a muchas afirmaciones aparentemente predictivas; (2) Si una determinada línea de investigación científica avanza hacia un descubrimiento definitivo en un futuro muy cercano, entonces los autores podrían revelar ese descubrimiento antes de tiempo, sabiendo que los científicos no leerían la revelación y, por lo tanto, no revelarían hechos no descubiertos. Esto también produciría declaraciones predictivas; (3) Si los datos actuales son incorrectos en alguna teoría conocida, entonces se pueden corregir cumpliendo con los dos primeros mandatos. Esto es sólo una sugerencia de cuáles pudieron haber sido algunos de los mandatos.
 
@@ -74,3 +98,28 @@ Para avanzar con seguridad hacia la verdad de esta revelación y de la ciencia a
 > _Denver Pearson ha estado activo durante mucho tiempo en el Movimiento Urantia. Nos dice: «El Libro de Urantia me encontró en 1970». Denver se convirtió en miembro general de la Hermandad Urantia en 1977. Ha organizado y participado en grupos de estudio dondequiera que haya vivido. Mientras vivía en Denver, Colorado, se convirtió en miembro de la Rocky Mountain Spiritual Fellowship. Denver ha servido como funcionario en esa Sociedad. Denver tiene una licenciatura en bellas artes de la Universidad de Nuevo México. Muchos urantianos conocen a Denver como un músico consumado y publicó una cinta musical con canciones originales inspiradas en la LU. Actualmente está trabajando en una novela basada en los Documentos de Urantia._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más lecciones de los pájaros y las abejas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="pr-2">La Infinitud de Dios, una Enfoque Astronómico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

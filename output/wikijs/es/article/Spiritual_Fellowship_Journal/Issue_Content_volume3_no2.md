@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/On_Accepting_Evolutionary_Reality">
+          <span class="pr-2">Sobre la aceptación de la realidad evolutiva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 3, Número 2, Otoño de 1993
@@ -135,3 +156,25 @@ El lector de _El Libro de Urantia_ también descubre en muchas secciones del lib
 
 La Fundación Urantia publicó una concordancia exhaustiva del Libro de Urantia en 1993. Si su librería local no vende la Concordancia _El Libro de Urantia_ o _El Libro de Urantia_, puede solicitarlas a la Fundación Urantia, 533 Diversey Parkway, Chicaago, IL 60614. La Fundación también publica ediciones en francés, español y finlandés de _El Libro de Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/On_Accepting_Evolutionary_Reality">
+          <span class="pr-2">Sobre la aceptación de la realidad evolutiva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

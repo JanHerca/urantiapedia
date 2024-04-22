@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Kenneth T. Glasziou<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: servicio creativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Great_Enterprise">
+          <span class="pr-2">La gran empresa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Para muchos de sus lectores, _El Libro de Urantia_, desde el momento de su publicación en 1955, se convirtió en una herejía ficticia o en un reemplazo iconoclasta infalible de una Biblia obsoleta.
@@ -23,7 +47,7 @@ La segunda mala interpretación, grave pero persistente, de los Documentos tiene
 
 Pero, ¿cómo se desarrolló tal oposición antagónica a los cristianos y al cristianismo frente a las esperanzas expresadas repetidamente en los Documentos de que esta revelación sería el catalizador para el regreso de los cristianos individuales y de «la iglesia que lleva su nombre» al estado espiritual de ¿Una relación individualizada y personal con el espíritu interior de nuestro Padre-Dios? ¿Podemos darle sentido a lo que ha sucedido? Al parecer ya ha sucedido antes:
 
-> «A los apóstoles les resultaba muy difícil comprender la desgana que mostraba el Maestro en hacer declaraciones positivas sobre los problemas científicos, sociales, económicos y políticos. No se daban plenamente cuenta de que su misión terrenal estaba exclusivamente interesada en las revelaciones de las verdades espirituales y religiosas.» ([LU 167:5.6](/es/The_Urantia_Book/167#p5_6))
+> «A los apóstoles les resultaba muy difícil comprender la desgana que mostraba el Maestro en hacer declaraciones positivas sobre los problemas científicos, sociales, económicos y políticos. No se daban plenamente cuenta de que su misión terrenal estaba exclusivamente interesada en las revelaciones de las verdades espirituales y religiosas.» (<a id="a49_345"></a>[LU 167:5.6](/es/The_Urantia_Book/167#p5_6))
 
 Dado que la Quinta Revelación de Época contiene una versión ampliada de la Cuarta Revelación de Época, y luego profundiza sobre Jesús y su misión a lo largo de los Documentos, ¿no podríamos haber esperado que la misión de la Quinta hubiera tenido un motivo similar al de la Cuarta? Si es así, las líneas anteriores podrían leerse:
 
@@ -47,13 +71,13 @@ Es esencial comprender que la «cosmología» en los Documentos de Urantia no si
 
 Probablemente el ochenta por ciento o más de las Partes 1 a 3 podrían estar contenidas dentro del manto del uso de esa palabra cosmología a principios del siglo XX. Su uso actual, que se refiere casi exclusivamente a la astrofísica, no se generalizó realmente hasta mucho después de la recepción de los artículos.
 
-La cosmología, tal como la utilizan los reveladores, es el tema principal de comentarios como: «La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos». ([LU 2:7.1](/es/The_Urantia_Book/2#p7_1)) «Los marcos conceptuales del universo sólo son relativamente verdaderos;...» ([LU 115:1.2](/es/The_Urantia_Book/115#p1_2)) «...dentro de unos pocos años, muchas de nuestras afirmaciones sobre las ciencias físicas se mantendrán necesidad de revisión... La verdad puede ser relativamente inspirada... las declaraciones con referencia a la cosmología nunca son inspiradas...» ([LU 101:4.5](/es/The_Urantia_Book/101#p4_5))
+La cosmología, tal como la utilizan los reveladores, es el tema principal de comentarios como: «La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos». (<a id="a73_244"></a>[LU 2:7.1](/es/The_Urantia_Book/2#p7_1)) «Los marcos conceptuales del universo sólo son relativamente verdaderos;...» (<a id="a73_363"></a>[LU 115:1.2](/es/The_Urantia_Book/115#p1_2)) «...dentro de unos pocos años, muchas de nuestras afirmaciones sobre las ciencias físicas se mantendrán necesidad de revisión... La verdad puede ser relativamente inspirada... las declaraciones con referencia a la cosmología nunca son inspiradas...» (<a id="a73_659"></a>[LU 101:4.5](/es/The_Urantia_Book/101#p4_5))
 
-> «Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio. Aunque una confesión como ésta quizás pueda reducir la fuerza y la autoridad inmediatas de todas las revelaciones, ha llegado la hora en que es conveniente hacer estas sinceras declaraciones incluso a riesgo de debilitar la influencia y la autoridad futuras de esta obra, que es la revelación más reciente de la verdad para las razas mortales de Urantia.» ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
+> «Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio. Aunque una confesión como ésta quizás pueda reducir la fuerza y la autoridad inmediatas de todas las revelaciones, ha llegado la hora en que es conveniente hacer estas sinceras declaraciones incluso a riesgo de debilitar la influencia y la autoridad futuras de esta obra, que es la revelación más reciente de la verdad para las razas mortales de Urantia.» (<a id="a75_611"></a>[LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
 ## Recepción de los Papeles
 
-Si recordamos los reconocimientos al final del Prólogo, encontramos: «Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios». ([LU 0:12.13](/es/The_Urantia_Book/0#p12_13))
+Si recordamos los reconocimientos al final del Prólogo, encontramos: «Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios». (<a id="a79_677"></a>[LU 0:12.13](/es/The_Urantia_Book/0#p12_13))
 
 La declaración anterior la resume el Dr. Sadler en la sección titulada «Cómo obtuvimos los documentos de Urantia» como: «Los Reveladores dependen de los Ajustadores internos y del Espíritu de la Verdad para ayudarnos en la apropiación de la verdad en la Revelación de Urantia». Sin embargo, los miembros del Foro ni siquiera hicieron las preguntas correctas, y mucho menos intentaron «apropiarse de la verdad en la Revelación Urantia».
 
@@ -61,13 +85,13 @@ El reconocimiento de la verdad espiritual y religiosa y de los significados y va
 
 Así, parece que toda la fase en la que el Foro recibió las Partes 1 a 3, aproximadamente 10 años, fue en realidad una fase de entrenamiento para la creación de un grupo de individuos espiritualizados y conscientes de Dios, en el que cada uno lograría una relación personal. con el PadreEspíritu. Posteriormente, este grupo iba a ser un campo de pruebas, una caja de resonancia para la producción de una nueva revelación «que se ocupara exclusivamente de revelaciones de verdades espirituales y religiosas».
 
-Si esta especulación se aproxima a la verdad, entonces parece que el plan no logró el resultado deseado. Se hizo necesario un compromiso y nuestro planeta recibió la nueva y mayor revelación, ahora la Parte 4 de _El Libro de Urantia_, completa, de una sola pieza, pero no probada con respecto a la apreciación y comprensión humanas. ¿Pero tal vez la Parte 4 también fue un compromiso? Y la nueva revelación aún está por llegar: ¿qué más pueden significar estos comentarios de la Parte 4? «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación... Las actuaciones espirituales a gran velocidad deben esperar la nueva revelación y la aceptación más generalizada de la verdadera religión de Jesús». ([LU 195:10.18](/es/The_Urantia_Book/195#p10_18))
+Si esta especulación se aproxima a la verdad, entonces parece que el plan no logró el resultado deseado. Se hizo necesario un compromiso y nuestro planeta recibió la nueva y mayor revelación, ahora la Parte 4 de _El Libro de Urantia_, completa, de una sola pieza, pero no probada con respecto a la apreciación y comprensión humanas. ¿Pero tal vez la Parte 4 también fue un compromiso? Y la nueva revelación aún está por llegar: ¿qué más pueden significar estos comentarios de la Parte 4? «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación... Las actuaciones espirituales a gran velocidad deben esperar la nueva revelación y la aceptación más generalizada de la verdadera religión de Jesús». (<a id="a87_720"></a>[LU 195:10.18](/es/The_Urantia_Book/195#p10_18))
 
 Esto deja abierto un campo para la especulación sobre lo que sucedió, o debería haber sucedido, con las Partes 1 a 3. Quizás su contenido nunca estuvo pensado para su publicación en su totalidad, lo que ofrece una explicación de algunas de las peculiaridades, errores, etc., presentes en algunos de los artículos de este grupo.
 
 ## ¿Entonces que?
 
-Habiendo asimilado el verdadero mensaje de los Documentos y habiendo logrado una relación personal con nuestras fuerzas espirituales residentes, ¿entonces qué? ¿Cuál es el propósito? Qué vamos a hacer? Los Documentos nos informan que debemos «ser» antes de poder «hacer». Con esto quieren decir: «Cuando los hombres vean que los amáis así, y cuando observen el fervor con que los servís, percibirán que sois hermanos por la fe en el reino de los cielos, y seguirán al Espíritu de la Verdad que verán en vuestra vida, hasta que encuentren la salvación eterna». ([LU 191:6.2](/es/The_Urantia_Book/191#p6_2))
+Habiendo asimilado el verdadero mensaje de los Documentos y habiendo logrado una relación personal con nuestras fuerzas espirituales residentes, ¿entonces qué? ¿Cuál es el propósito? Qué vamos a hacer? Los Documentos nos informan que debemos «ser» antes de poder «hacer». Con esto quieren decir: «Cuando los hombres vean que los amáis así, y cuando observen el fervor con que los servís, percibirán que sois hermanos por la fe en el reino de los cielos, y seguirán al Espíritu de la Verdad que verán en vuestra vida, hasta que encuentren la salvación eterna». (<a id="a93_561"></a>[LU 191:6.2](/es/The_Urantia_Book/191#p6_2))
 
 Es gracias a lo que nos convertimos como compañeros de fe, exponentes de vivir como vivió Jesús, demostrando el Espíritu de la Verdad en nuestras vidas, que podemos servir de una manera que pueda ayudar al crecimiento espiritual de nuestros hermanos y hermanas. Pero tenga en cuenta que, al menos inicialmente, la audiencia esperada es cristiana, porque es probable que sólo los cristianos comprendan el significado del Espíritu de la Verdad, el espíritu de Jesús, que obra en nuestras vidas.
 
@@ -75,11 +99,11 @@ Actualmente hay alrededor de dos mil millones de cristianos nominales en este pl
 
 Además, hay no menos de veinticinco párrafos en los Documentos que apoyan el concepto de que un objetivo principal de los Documentos es la espiritualización del cristianismo autoritario:
 
-> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día.» ([LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
+> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día.» (<a id="a101_274"></a>[LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
 
-> «El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia —la fraternidad de Jesús— es invisible, espiritual y está caracterizada por la *unidad*, pero no necesariamente por la *uniformidad*. ... Esta fraternidad está destinada a convertirse en un *organismo viviente*, en contraste con una organización social institucionalizada.» ([LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
+> «El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia —la fraternidad de Jesús— es invisible, espiritual y está caracterizada por la *unidad*, pero no necesariamente por la *uniformidad*. ... Esta fraternidad está destinada a convertirse en un *organismo viviente*, en contraste con una organización social institucionalizada.» (<a id="a103_380"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
 
-> «Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual.» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
+> «Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no comprometidas de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la Tierra. Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual.» (<a id="a105_555"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
 Y hay muchas, muchas más declaraciones de este tipo sobre esperanzas y objetivos reveladores. La mayoría de los urantianos aún no se han dado cuenta de que la misión de los reveladores tiene poco que ver con «problemas científicos, sociales, económicos y políticos». Al igual que la Cuarta Revelación de época, su misión urantiana debía estar dominada por la revelación de la verdad espiritual y religiosa.
 
@@ -101,7 +125,7 @@ La mayoría de los primeros lectores del libro aceptaron más o menos incondicio
 
 Es en gran medida debido a los avances sin precedentes en el conocimiento científico durante los últimos cincuenta años que muchos de nosotros nos vemos obligados a repensar esas visiones anteriores. Pero a pesar de todo lo demás, la calidad del libro en su conjunto es tal que obliga a concluir que es especial, realmente único, y particularmente en lo que respecta a las verdades, significados y valores espirituales y religiosos.
 
-Ésa es una cara de la moneda. La otra es que hay secciones que desafían la credulidad y obligan a preguntarse cómo pudieron, o por qué, los reveladores incluyeron tales materiales. Un escenario es que gran parte de las partes 1 a 3 del libro fueran el resultado de preguntas de los miembros del Foro «que ningún ser humano podría responder». Al no responder, los reveladores pusieron en peligro la aceptación de sus credenciales. Al responder de una manera coherente con la norma universal que prohibe el conocimiento no ganado ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1)), se vieron obligados a rebajar el valor de verdad relativo de su respuesta.
+Ésa es una cara de la moneda. La otra es que hay secciones que desafían la credulidad y obligan a preguntarse cómo pudieron, o por qué, los reveladores incluyeron tales materiales. Un escenario es que gran parte de las partes 1 a 3 del libro fueran el resultado de preguntas de los miembros del Foro «que ningún ser humano podría responder». Al no responder, los reveladores pusieron en peligro la aceptación de sus credenciales. Al responder de una manera coherente con la norma universal que prohibe el conocimiento no ganado (<a id="a127_529"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)), se vieron obligados a rebajar el valor de verdad relativo de su respuesta.
 
 Para agravar nuestras dificultades está el hecho de que muchas de las historias relevantes sobre la recepción y publicación de los Documentos de Urantia son inconsistentes hasta el punto de que la sombra de la duda se cierne sobre todos. Esto puede llevar a un escenario alternativo que postula que el contacto con los autores de los artículos se perdió poco después de recibir la Parte 4 y que nunca se estableció ningún otro contacto. De ser así, el grupo Sadler se vio abandonado a su suerte para comunicar la revelación al mundo, que es lo que les sucedió a los apóstoles después de la resurrección de Jesús.
 
@@ -121,9 +145,34 @@ Independientemente de cuál sea realmente la verdad detallada, el hecho es que e
 
 - Nuestra obligación terrenal: servir a nuestros hermanos y hermanas con amor y humildad, para que conozcan al Padre-Espíritu-dentro como nosotros mismos lo conocemos.
 
-> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres.» ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres.» (<a id="a147_291"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_14">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: servicio creativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Great_Enterprise">
+          <span class="pr-2">La gran empresa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 David A. Kantor<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un grupo de apoyo espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_11">
+          <span class="pr-2">Salmos de hoy: el camino del padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Internet proporciona una plataforma para actividades misioneras y el desarrollo de redes sociales de creyentes únicas en el momento de la Quinta Revelación de Época. La Fellowship está estableciendo silenciosamente una arquitectura para la propagación de revelaciones adecuada para el futuro inmediato de la acelerada revolución global de la información. Esta infraestructura coexistirá y explotará el potencial misionero de múltiples tecnologías de comunicaciones emergentes. El uso internacional de la infraestructura tecnológica de la Fellowship se acercó a los 12.000 usuarios individuales en septiembre. Incluyendo aquellos que regresaron varias veces, el total superó las 16.000 visitas durante el mes. Actualmente, el uso se está expandiendo a una tasa mensual del 20%. El éxito final de este experimento de difusión de revelaciones dependerá de la calidad y cantidad de la participación de los lectores.
@@ -67,3 +91,28 @@ En última instancia, la eficacia de esta oportunidad única de difusión depend
 
 David A. Kantor es un diseñador de software utilizado para gestionar redes corporativas de comunicación de voz y datos. Ha sido estudiante de _El Libro de Urantia_ durante más de treinta años y es el administrador del sitio web de la Fellowship.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un grupo de apoyo espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_11">
+          <span class="pr-2">Salmos de hoy: el camino del padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

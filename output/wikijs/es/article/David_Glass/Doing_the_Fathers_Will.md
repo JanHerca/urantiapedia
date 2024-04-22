@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 David E. Glass<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La única vida que vale la pena vivir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprender el mal en la experiencia humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hacer la voluntad del Padre es una empresa multifacética. Hacer la voluntad de Dios es un estilo de vida completo que se relaciona no sólo con lo que uno hace para cumplir la voluntad del Padre, sino también con la forma en que uno realiza la voluntad de Dios: el espíritu con el que el hijo o la hija de Dios se acerca, discierne y actúa. en cuanto a su concepto más elevado de la voluntad del Padre. Sin embargo, muchos mortales planetarios no saben mucho acerca de la voluntad de Dios. Incluso algunos lectores del Libro de Urantia no siempre están seguros de cuál puede ser la voluntad del Padre: primero, en su relación personal con Dios; segundo, en el servicio a sus hermanos y hermanas; y tercero, con referencia a la información presentada en la revelación recién recibida. En la vida todos desempeñamos muchas funciones: familiares, económicas, intelectuales, sociales y espirituales; y cada uno de ellos es relevante para uno o más aspectos de la voluntad del Padre.
@@ -37,13 +61,13 @@ Visto desde una perspectiva potenciada por la revelación, la hermandad de la hu
 
 Si bien la voluntad del Padre incluye un plan y un destino para nuestro planeta y para el universo en su conjunto, Dios también tiene un plan y un propósito para cada mortal planetario. Tales planes incluyen, por ejemplo, la experiencia iluminadora de la paternidad, y tal requisito se cumplirá en la Guardería de Prueba en el Mundo del Finalista si no se experimenta durante la vida mortal.
 
-El plan y propósito únicos para cada individuo se extiende más allá de la vida planetaria para incluir: la carrera morontial del universo local, la ascensión espiritual del superuniverso, la experiencia de Havona, la ciudadanía en el Paraíso y, como miembros del Cuerpo Mortal de la Finalidad, asignaciones en los otros seis. superuniversos y, más allá de la supremacía, aventuras administrativas en las Zonas del Espacio Exterior del Universo Maestro, y luego actividades interminables en la insondable eternidad de nuestras carreras postuladas en el Cosmos Infinito. Probablemente tales planes sean conocidos, sugeriría, sólo por el Padre, por el Ajustador del Pensamiento particular de cada uno, y quizás por el Hijo Eterno y el Espíritu Infinito. La voluntad del Padre para el individuo es, como vemos, ilimitada. Como escribe un revelador: «¡La búsqueda de Dios es interminable!» ([LU 106:7.5](/es/The_Urantia_Book/106#p7_5)) Si bien parece ser la voluntad del Padre que sus hijos en Urantia sepan de este abrumador destino eterno futuro, un revelador también afirma que, en un momento dado, el trabajo de la vida presente y la esfera residencial actual de uno es principal en importancia.
+El plan y propósito únicos para cada individuo se extiende más allá de la vida planetaria para incluir: la carrera morontial del universo local, la ascensión espiritual del superuniverso, la experiencia de Havona, la ciudadanía en el Paraíso y, como miembros del Cuerpo Mortal de la Finalidad, asignaciones en los otros seis. superuniversos y, más allá de la supremacía, aventuras administrativas en las Zonas del Espacio Exterior del Universo Maestro, y luego actividades interminables en la insondable eternidad de nuestras carreras postuladas en el Cosmos Infinito. Probablemente tales planes sean conocidos, sugeriría, sólo por el Padre, por el Ajustador del Pensamiento particular de cada uno, y quizás por el Hijo Eterno y el Espíritu Infinito. La voluntad del Padre para el individuo es, como vemos, ilimitada. Como escribe un revelador: «¡La búsqueda de Dios es interminable!» (<a id="a63_886"></a>[LU 106:7.5](/es/The_Urantia_Book/106#p7_5)) Si bien parece ser la voluntad del Padre que sus hijos en Urantia sepan de este abrumador destino eterno futuro, un revelador también afirma que, en un momento dado, el trabajo de la vida presente y la esfera residencial actual de uno es principal en importancia.
 
-Es parte de la voluntad del Padre que lo conozcamos, que nos volvamos conscientes de Dios. «[Dios] ha movilizado los recursos de la sabiduría divina en un esfuerzo interminable por revelarse a los hijos de sus dominios universales». ([LU 5:1.2](/es/The_Urantia_Book/5#p1_2)) Para mí, esto se logra mejor a través de las técnicas de oración, meditación y adoración. Considero que la lectura del Libro de Urantia, el servicio beneficioso a los demás y la socialización con otros mortales que conocen a Dios son especialmente útiles. Y, como Jesús enseñó: «No es tan importante que conozcáis el hecho de Dios, como que desarrolléis cada vez más la habilidad de *sentir la presencia de Dios*. Una vez que comiences a encontrar a Dios en tu alma, pronto comenzarás a descubrirlo en las almas de otros hombres y eventualmente en todas las criaturas y creaciones de un universo poderoso». ([LU 155:6.12-13](/es/The_Urantia_Book/155#p6_12))
+Es parte de la voluntad del Padre que lo conozcamos, que nos volvamos conscientes de Dios. «[Dios] ha movilizado los recursos de la sabiduría divina en un esfuerzo interminable por revelarse a los hijos de sus dominios universales». (<a id="a65_234"></a>[LU 5:1.2](/es/The_Urantia_Book/5#p1_2)) Para mí, esto se logra mejor a través de las técnicas de oración, meditación y adoración. Considero que la lectura del Libro de Urantia, el servicio beneficioso a los demás y la socialización con otros mortales que conocen a Dios son especialmente útiles. Y, como Jesús enseñó: «No es tan importante que conozcáis el hecho de Dios, como que desarrolléis cada vez más la habilidad de *sentir la presencia de Dios*. Una vez que comiences a encontrar a Dios en tu alma, pronto comenzarás a descubrirlo en las almas de otros hombres y eventualmente en todas las criaturas y creaciones de un universo poderoso». (<a id="a65_883"></a>[LU 155:6.12-13](/es/The_Urantia_Book/155#p6_12))
 
 > _Con respecto a la proclamación del evangelio de la filiación o hija de Dios, Jesús entrenó a sus apóstoles experiencialmente para convencerlos directamente de que tácticas como el atractivo emocional, la realización de milagros, la curación física o simplemente alimentar a las personas no necesariamente crean personas espiritualmente devotas. discípulos y creyentes humanos_
 
-Sobre el tema de hacer la voluntad del Padre, un Divino Consejero escribe: «La afectuosa dedicación de la voluntad humana a hacer la voluntad del Padre es el don más selecto del hombre a Dios; de hecho, tal consagración de la voluntad de la criatura constituye el único regalo posible de verdadero valor que el hombre puede hacer al Padre del Paraíso». ([LU 1:1.2](/es/The_Urantia_Book/1#p1_2)) Y un Mensajero Solitario también testifica: «[E]l hacer la voluntad [de Dios] es el secreto de la supervivencia y de la perfección en la supervivencia... [C] uando la personalidad de la criatura consiente — elige — sujetar la voluntad de la criatura a la voluntad del Padre... [tal] elección de la criatura no es una rendición de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad... [Y] esta elección no consiste tanto en la negación de la voluntad de la criatura: ‘No se haga mi voluntad, sino la tuya’ — ya que consiste en la afirmación positiva de la criatura: ‘Es mi voluntad que se haga tu voluntad’». ([LU 111:5.6](/es/The_Urantia_Book/111#p5_6))
+Sobre el tema de hacer la voluntad del Padre, un Divino Consejero escribe: «La afectuosa dedicación de la voluntad humana a hacer la voluntad del Padre es el don más selecto del hombre a Dios; de hecho, tal consagración de la voluntad de la criatura constituye el único regalo posible de verdadero valor que el hombre puede hacer al Padre del Paraíso». (<a id="a69_354"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2)) Y un Mensajero Solitario también testifica: «[E]l hacer la voluntad [de Dios] es el secreto de la supervivencia y de la perfección en la supervivencia... [C] uando la personalidad de la criatura consiente — elige — sujetar la voluntad de la criatura a la voluntad del Padre... [tal] elección de la criatura no es una rendición de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad... [Y] esta elección no consiste tanto en la negación de la voluntad de la criatura: ‘No se haga mi voluntad, sino la tuya’ — ya que consiste en la afirmación positiva de la criatura: ‘Es mi voluntad que se haga tu voluntad’». (<a id="a69_1102"></a>[LU 111:5.6](/es/The_Urantia_Book/111#p5_6))
 
 ## Relaciones amorosas
 
@@ -51,7 +75,7 @@ Es la voluntad del Padre (tal como la reveló Jesús) que todos sus hijos mortal
 
 Ahora bien, debido al alcance de la revelación, también sabemos que la enseñanza de la verdad y el fomento del compañerismo familiar entre los mortales comenzaron en nuestro mundo (mucho antes de la misión de autootorgamiento de Miguel) hace unos 500.000 años con el advenimiento de nuestro entonces leal Príncipe Planetario, Caligastia y su servicial personal. E, incluso antes, Onagar, el primer maestro de la verdad, insinuó y estableció parcialmente la promoción de relaciones de personalidad positivas y justas, como la voluntad del dios del «Gran Más Allá», hace casi un millón de años.
 
-Con respecto a la proclamación del evangelio de la filiación o hija con Dios, Jesús entrenó a sus apóstoles _experiencialmente_ para convencerlos directamente de que tácticas como el atractivo emocional, la realización de milagros, la curación física o simplemente alimentar a las personas no necesariamente crean discípulos humanos espiritualmente devotos y creyentes. Somos inmensamente bendecidos por tener el relato escrito de cómo Jesús capacitó a líderes para que se desempeñaran eficazmente como constructores del reino, porque ahora podemos mirar y aprender de sus experiencias antes de lanzarnos a la proclamación planetaria del evangelio. Tenemos mucho material para formular maneras sabias de proclamar el evangelio de acuerdo con la voluntad del Padre, aunque es necesario que las adaptemos a las condiciones de los siglos XX y XXI. Respondamos al encargo de Jesús: «Como el Padre me envió a este mundo, así ahora yo os envío». ([LU 191:6.3](/es/The_Urantia_Book/191#p6_3))
+Con respecto a la proclamación del evangelio de la filiación o hija con Dios, Jesús entrenó a sus apóstoles _experiencialmente_ para convencerlos directamente de que tácticas como el atractivo emocional, la realización de milagros, la curación física o simplemente alimentar a las personas no necesariamente crean discípulos humanos espiritualmente devotos y creyentes. Somos inmensamente bendecidos por tener el relato escrito de cómo Jesús capacitó a líderes para que se desempeñaran eficazmente como constructores del reino, porque ahora podemos mirar y aprender de sus experiencias antes de lanzarnos a la proclamación planetaria del evangelio. Tenemos mucho material para formular maneras sabias de proclamar el evangelio de acuerdo con la voluntad del Padre, aunque es necesario que las adaptemos a las condiciones de los siglos XX y XXI. Respondamos al encargo de Jesús: «Como el Padre me envió a este mundo, así ahora yo os envío». (<a id="a77_941"></a>[LU 191:6.3](/es/The_Urantia_Book/191#p6_3))
 
 > _Jesús enseñó que, al hacer la voluntad del Padre, atraeremos los intereses de los demás y llevaremos a nuestros semejantes a preguntarnos cuál es la fuente de nuestro optimismo, la causa de nuestra motivación de servicio y la razón de nuestra vida devota._
 
@@ -67,10 +91,35 @@ La voluntad de Dios incluye el estudio material y científico del cosmos, así c
 
 ## Amar a Dios
 
-En la primera página del texto (posterior al Prólogo) se afirma que una de las principales razones de Dios para poblar las innumerables esferas del universo de universos con seres que experimentan el amor es para que Dios tenga más y más personalidades inteligentes a quienes amar, «seres que podrían conocer a Dios, recibir el afecto divino y amarlo a cambio». ([LU 1:0.2](/es/The_Urantia_Book/1#p0_2)) Así, ser amado por Dios y amarlo también es una de las mejores y más placenteras formas de hacer la voluntad eterna del Padre mientras experimentamos su amor infinito.
+En la primera página del texto (posterior al Prólogo) se afirma que una de las principales razones de Dios para poblar las innumerables esferas del universo de universos con seres que experimentan el amor es para que Dios tenga más y más personalidades inteligentes a quienes amar, «seres que podrían conocer a Dios, recibir el afecto divino y amarlo a cambio». (<a id="a93_363"></a>[LU 1:0.2](/es/The_Urantia_Book/1#p0_2)) Así, ser amado por Dios y amarlo también es una de las mejores y más placenteras formas de hacer la voluntad eterna del Padre mientras experimentamos su amor infinito.
 
 Sigamos todos orando por el progreso continuo de toda nuestra comunidad planetaria hacia una mayor educación y conocimiento de la voluntad de Dios. Dios ama a cada personalidad infinita e incondicionalmente. Ciertamente todos queremos servir a nuestro Padre sabia y bien mientras buscamos discernir los aspectos generales y específicos de su voluntad para todos nosotros colectivamente y para nuestras vidas individuales. Nuestro Padre está dando a cada mortal individual: amor infinito, revelación asombrosa, un Ajustador del Pensamiento divino y vida eterna. Respondamos todos esforzándonos por discernir y hacer la voluntad del Padre. Como le gustaba decir con frecuencia a un querido amigo mío: «¡Que se haga la voluntad de Dios... por ti!»
 
 > _David Glass es escritor, músico y estudiante de_ El Libro de Urantia _desde hace mucho tiempo y vive en Beaverton, Oregón._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La única vida que vale la pena vivir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprender el mal en la experiencia humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Everett Sloffer<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Latent_Mainline_Potential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Potencial latente de línea principal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Interface_Does_it_Preach">
+          <span class="pr-2">Interfaz: ¿Predica?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Esta es una declaración de un lector de mucho tiempo del Libro de Urantia que fue desafiado por este pastor a escribir su punto de vista sobre el propósito de la iglesia._
@@ -43,3 +67,28 @@ Quinto, estamos unidos en la creencia de que, en su sentido más profundo, la re
 
 No importa qué tan alto elevemos nuestras miras espirituales, la traducción definitiva de nuestros potenciales en logros reales no se hará realidad en abstracto. Debemos actuar; debemos convertir nuestras aspiraciones en acciones, nuestros ideales en cualidades de ser.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Latent_Mainline_Potential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Potencial latente de línea principal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Interface_Does_it_Preach">
+          <span class="pr-2">Interfaz: ¿Predica?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

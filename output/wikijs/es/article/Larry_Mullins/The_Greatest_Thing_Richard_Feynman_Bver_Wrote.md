@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Larry Mullins<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Ordination_at_Boulder">
+          <span class="pr-2">Ordenación en Boulder... Un día para recordar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A menos que sea un aficionado a la ciencia, es posible que el nombre Richard Feynman (1918 - 1988) no le suene. Fue uno de los grandes físicos de todos los tiempos. La pasión de Feynman por la física era legendaria; sus conferencias grabadas se venden hoy en cadenas de librerías populares. Feynman fue uno de los científicos clave involucrados en el Proyecto Atómico de Manhattan, y su teoría de la electrodinámica cuántica (QED) generalmente se considera la teoría científica más exitosa y precisa jamás desarrollada.
@@ -19,7 +43,7 @@ John Gribbon cuenta la historia en su brillante libro Los gatitos de Schrödinge
 
 En nuestra propia pasión por defender los Documentos de Urantia, esta declaración debería ser nuestro principio rector. Cuando podamos decir: «los Documentos de Urantia no son importantes, el amor sí lo es», habremos alcanzado el nivel operativo de comprensión del evangelio de Jesús. Obviamente, las cuestiones que rodean los Documentos de Urantia tampoco son importantes (en términos relativos), el amor sí lo es. Porque el amor es lo más grande del universo.
 
-> «Para el hombre finito, la verdad, la belleza y la bondad abarcan la revelación completa de la realidad de la divinidad. A medida que esta comprensión de que la Deidad es amor encuentra su expresión espiritual en la vida de los mortales que conocen a Dios, se producen los frutos de la divinidad: la paz intelectual, el progreso social, la satisfacción moral, la alegría espiritual y la sabiduría cósmica. Los mortales avanzados de un mundo en la séptima etapa de luz y de vida han aprendido que el amor es la cosa más grande del universo —y saben que Dios es amor.» ([LU 56:10.20](/es/The_Urantia_Book/56#p10_20))
+> «Para el hombre finito, la verdad, la belleza y la bondad abarcan la revelación completa de la realidad de la divinidad. A medida que esta comprensión de que la Deidad es amor encuentra su expresión espiritual en la vida de los mortales que conocen a Dios, se producen los frutos de la divinidad: la paz intelectual, el progreso social, la satisfacción moral, la alegría espiritual y la sabiduría cósmica. Los mortales avanzados de un mundo en la séptima etapa de luz y de vida han aprendido que el amor es la cosa más grande del universo —y saben que Dios es amor.» (<a id="a45_570"></a>[LU 56:10.20](/es/The_Urantia_Book/56#p10_20))
 
 Esta idea me parece un factor recordatorio que me ayuda a mantener las cosas en proporción. De todos los valores espirituales, la Bondad es el único que no se puede practicar en el vacío. Se puede vivir la integridad y la Verdad apartados del mundo. Uno puede practicar la excelencia o la belleza de forma aislada... pero no la Bondad o el Amor. Si bien sería un oxímoron decir: «Jane (o Bill, o quien sea) no es importante; el amor sí lo es, es completamente correcto sopesar cualquier objeto material, concepto o preocupación frente al Amor y encontrarlo relativamente sin importancia.»
 
@@ -35,3 +59,28 @@ Hace varios años vi una película en la que aparecía una gran mujer. Ella ya n
 
 Seguramente la paz llegará al mundo cuando una masa crítica de personas se esfuerce por honrar esas palabras.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Ordination_at_Boulder">
+          <span class="pr-2">Ordenación en Boulder... Un día para recordar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

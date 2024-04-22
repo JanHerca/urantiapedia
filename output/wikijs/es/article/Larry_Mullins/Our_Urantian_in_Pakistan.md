@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 La Fellowship Cristiana de Estudiantes de <i>El Libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compárese: Conceptos humanos paralelos a los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Barton/The_Man_Nobody_Knows_Part_I">
+          <span class="pr-2">El hombre que nadie conoce, un descubrimiento del verdadero Jesús. Parte 1 de 3 partes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _«JJ» Johnson está sirviendo a nuestro país como civil en un lugar muy peligroso, Islamabad, Pakistán. Este infante de marina (no existe un ex infante de marina) es «Semper Fi» para los Documentos de Urantia, como siempre. JJ está ayudando a algunas de las personas hambrientas de verdad a obtener los Documentos de Urantia... especialmente la Vida y las Enseñanzas de Jesús. Aquí hay algunas comunicaciones de una de las jóvenes más valientes y maravillosas que ha aceptado la Revelación._
@@ -113,3 +137,28 @@ Nadia
 > jj606joh@isb.paknet.com.pk
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compárese: Conceptos humanos paralelos a los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Barton/The_Man_Nobody_Knows_Part_I">
+          <span class="pr-2">El hombre que nadie conoce, un descubrimiento del verdadero Jesús. Parte 1 de 3 partes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

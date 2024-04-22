@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Meredith J. Sprunger<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Judith_L_Mace/UB_and_Sexist_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y el lenguaje sexista</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson/The_Goddess">
+          <span class="pr-2">La Diosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El término más utilizado para designar la Realidad Última en nuestro mundo es «Dios». El nombre usado para Dios varía según la experiencia y la cultura. La Primera Fuente y Centro de todas las cosas y seres no se revela por su nombre sino por la naturaleza. El nombre dado a esta Realidad Última es de poca importancia espiritual. Lo importante es que debemos conocer esta Presencia Espiritual a través de la experiencia personal y esforzarnos por replicar esta realidad en nuestras vidas.
@@ -58,5 +82,30 @@ En resumen, observamos que los nombres que usamos para Dios están determinados 
 > El Reverendo Dr. Meredith J. Sprunger es ministro de la Iglesia Unida de Cristo y profesor y administrador universitario, ahora jubilado. Es autor de_ Spiritual Psychology, A Primer _y se desempeña como editor de_ The Spiritual Fellowship Journal.
 {.is-info}
 
-> ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.» ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.» (<a id="a84_487"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Judith_L_Mace/UB_and_Sexist_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y el lenguaje sexista</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson/The_Goddess">
+          <span class="pr-2">La Diosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

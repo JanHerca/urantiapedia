@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Helena E. Sprague<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Interface_A_New_Revelation_Who_needs_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Una nueva revelación? ¿Quién la necesita?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="pr-2">El clero evalúa el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este artículo está escrito por laicos activos en su iglesia-_
@@ -38,7 +62,7 @@ Herman Fiefel en _Nuevos significados de la muerte_ comenta: “...uno se pregun
 
 _The Spiritual Fellowship Journal_ visión del hombre y su papel en el universo que puede prepararnos para afrontar la certeza de la muerte y sus secuelas«. Los lectores de _El Libro de Urantia_ que declaran: »Ha cambiado mi vida", mencionarán con mayor frecuencia su clara Visión , lógica y convincente de la muerte como una transición a otro nivel de realidad, un paso en la experiencia de una personalidad humana duradera que encuentra a Dios. Elegimos este viaje a través de nuestras elecciones de toda la vida, decisiones de libre albedrío para buscar hacer su voluntad; llevar consigo nuestros valores y relaciones. Dios nos acompaña con su espíritu y nos rodea a cada uno de nosotros con fuerzas y personalidades celestiales para enseñarnos, guiarnos y consolarnos. Como padre verdaderamente amoroso, no nos complace ni castiga, sino que nos envuelve a todos con afecto. a medida que crecemos en nuestra comprensión de sus enseñanzas y la fuerza de nuestra fe.
 
-Se recuerda a la iglesia que su misión puede verse paralizada por la rigidez y el énfasis excesivo en la organización. El reino de los cielos que Jesús enseñó es la comunión invisible, dentro del corazón y sin fronteras de todos los creyentes en la Paternidad de Dios, el parentesco de la humanidad y la supervivencia de la personalidad en un universo amigable. Una organización religiosa es una comunidad social visible de creyentes. En él, Jesús «enseñaría cómo perfeccionar vuestra vida espiritual interior para volveros mucho más competentes para atacar la solución de vuestros problemas puramente humanos». ([LU 140:8.17](/es/The_Urantia_Book/140#p8_17))
+Se recuerda a la iglesia que su misión puede verse paralizada por la rigidez y el énfasis excesivo en la organización. El reino de los cielos que Jesús enseñó es la comunión invisible, dentro del corazón y sin fronteras de todos los creyentes en la Paternidad de Dios, el parentesco de la humanidad y la supervivencia de la personalidad en un universo amigable. Una organización religiosa es una comunidad social visible de creyentes. En él, Jesús «enseñaría cómo perfeccionar vuestra vida espiritual interior para volveros mucho más competentes para atacar la solución de vuestros problemas puramente humanos». (<a id="a64_613"></a>[LU 140:8.17](/es/The_Urantia_Book/140#p8_17))
 
 _El Libro de Urantia_ demuestra que la revelación genuina es posible en estos tiempos sin autoridad eclesiástica, ego, publicidad, poder, ganancias o «pruebas» en los fenómenos. Hace comprensible mucho de lo que ha sido abstracto, esquivo y misterioso; llena los vacíos en los registros y ofrece motivos razonables para reinterpretar o descartar algunos de ellos. Hay una guía práctica para vivir con los problemas de ricos y pobres, el engrandecimiento personal, la familia y la paternidad, la violencia personal y política. Hay explicaciones plausibles sobre el origen de la humanidad, el papel de este planeta y nuestro destino final, y el actual desorden y confusión del mundo. La encarnación de un Hijo de Dios se sitúa en un contexto cósmico coherente con nuestra era espacial, reconfortando a cada persona al brindarle una nueva intimidad con Jesús como un ser divino que vivió una vida plenamente humana.
 
@@ -46,3 +70,28 @@ La forma en que los ministros pueden decidir abrir el camino para que _El Libro 
 
 Aunque niega la infalibilidad o la finalidad, _El Libro de Urantia_ presenta un hito en la evolución intelectual y espiritual del planeta. Este notable recurso puede ayudar a profundizar nuestra fe personal en la medida en que esté entretejida en nuestras vidas mediante la búsqueda solitaria, en grupos de estudio o en cualquier iglesia que se comprometa con seriedad y flexibilidad a nutrir la fe como una tarea de desarrollo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Interface_A_New_Revelation_Who_needs_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Una nueva revelación? ¿Quién la necesita?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="pr-2">El clero evalúa el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

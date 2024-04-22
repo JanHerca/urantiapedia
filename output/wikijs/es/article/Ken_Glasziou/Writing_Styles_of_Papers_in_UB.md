@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Ken Glasziou<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Por qué algunos ministros no leen el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="pr-2">Salmos hoy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de Urantia_ pretende ser una revelación dada a los mortales por seres celestiales. Cuando me presentaron el libro por primera vez, supuse que había sido escrito por un comité de académicos bien intencionados en una misión para salvar el mundo. Al familiarizarme más con el contenido del libro, quedé impresionado no sólo por la calidad y coherencia de su mensaje, sino que también noté material de naturaleza científica que sólo podían haber sido conjeturas en el momento en que se recibieron los artículos. No tenía sentido que un grupo de autores obviamente conocedores y talentosos se arriesgara a poner en peligro la aceptación de su trabajo al incluir material profético polémico, particularmente porque el libro fácilmente podría haber ganado el reconocimiento como una obra filosófica y religiosa de gran mérito.
@@ -44,6 +68,31 @@ El estudio que compara la conferencia del Dr. Sadler, «La evolución del alma»
 > Ken Glasziou es un científico investigador, jubilado, que participa activamente en la obra de la iglesia en Australia. Es autor de _Ciencia y religión: la nueva era más allá_ 2000 d.C._ y _Cristo o Caos: La evolución de una revelación_.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Por qué algunos ministros no leen el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="pr-2">Salmos hoy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

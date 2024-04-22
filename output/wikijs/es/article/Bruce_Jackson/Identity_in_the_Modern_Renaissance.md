@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Dr. Bruce R. Jackson<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia: lugar de nacimiento de la ciudadanía cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="pr-2">“Actitud espiritual” sincera [LU 155:6.12] = “Acción positiva” [LU 159:5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ¿Estamos viviendo en un Renacimiento?
@@ -78,3 +102,28 @@ De hecho, esta es una tarea difícil. ¿Estamos preparados para hacer el esfuerz
 > _Bruce Jackson es profesor asistente de Humanidades en la Universidad Lincoln de Missouri. Toca y compone jazz, música popular y religiosa para la banda familiar con sus tres hijos (17, 15 y 12 años). Este nativo de Arkansas vive actualmente en Columbia, MO._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia: lugar de nacimiento de la ciudadanía cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="pr-2">“Actitud espiritual” sincera [LU 155:6.12] = “Acción positiva” [LU 159:5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

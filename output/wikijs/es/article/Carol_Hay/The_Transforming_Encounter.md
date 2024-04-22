@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Carol Hay<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Meeting_Jesus_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: Encontrando a Jesús nuevamente por primera vez por Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="pr-2">Salmos hoy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando era joven me encontré frente a una creciente insatisfacción espiritual que no podía encontrar una manera de resolver. Aunque tenía una sólida formación cristiana, tenía hambre de más. Necesitaba algo que llenara los vacíos en mi experiencia religiosa personal y que de manera realista me ayudara a transferir mis creencias religiosas a la vida religiosa.
@@ -28,3 +52,28 @@ _El Libro de Urantia_ presenta la oportunidad de ampliar nuestra perspectiva del
 > _Carol Hay, estudiante de _El Libro de Urantia_ desde hace mucho tiempo, habla extensamente ante grupos de iglesias sobre el crecimiento religioso personal. También es editora de la revista Invisible Fellowship._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Meeting_Jesus_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: Encontrando a Jesús nuevamente por primera vez por Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="pr-2">Salmos hoy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: la presencia salvadora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 John Shelby Spong
@@ -26,10 +47,32 @@ La religión del obispo Spong se centra en su experiencia con la presencia inter
 
 
 
-> «La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús.» ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
+> «La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús.» (<a id="a49_347"></a>[LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
 
 
 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salmos hoy: la presencia salvadora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

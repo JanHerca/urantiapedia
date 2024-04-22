@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuando Dios no tiene sentido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Kenneth R. Miller es profesor de biología en la Universidad de Brown. _Encontrar al Dios de Darwin_ es una refutación definitiva de la descripción creacionista del origen de la humanidad. El Dr. Miller discrepa con aquellos científicos que afirman que la ciencia moderna excluye la existencia de Dios. Sostiene de manera convincente que la ciencia y la religión ofrecen formas diferentes, pero compatibles, de ver el mundo. Bien entendida, la evolución añade profundidad y significado no sólo a una visión científica del mundo, sino también a una visión espiritual.
@@ -24,3 +45,25 @@ El materialismo total es una posición insostenible, observa Miller, porque la f
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuando Dios no tiene sentido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

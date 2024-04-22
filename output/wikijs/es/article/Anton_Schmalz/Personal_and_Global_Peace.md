@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Anton Schmalz<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Dangerfield/Unique_Urantian_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alcance urantiano único</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="pr-2">¿Dónde están los grandes líderes y maestros de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Para la oruga es el fin del mundo; para el resto de nosotros es una mariposa._
@@ -71,7 +95,7 @@ Después de todo, desde hace mucho tiempo, con demasiada frecuencia se han acumu
 
 Afortunadamente, el ideal de Paz también ha estado «germinando» de alguna forma en la conciencia humana desde nuestros inicios. ¿Cómo y qué podemos hacer para que la Paz sea lo suficientemente atractiva como para ser _rentable_ — _más rentable_ que nuestras formas actuales? En la serie de televisión _El poder del mito_, Joseph Campbell declara que: “_Los mitos y leyendas de las culturas y tradiciones de toda la humanidad tienen la misma intención: ayudarnos a cada uno de nosotros a abrirnos, a estar en contacto con la Divinidad interior._ "
 
-En _El Libro de Urantia_ se nos recuerda que: «La paz es la vara social que mide el progreso de la civilización... La guerra está rápidamente llegando a la bancarrota cultural... incapaz de producir dividendos de ganancia social de ninguna manera proporcionales a las terribles pérdidas que conlleva su invocación..... Si bien los antagonismos son naturales, la paz sólo se garantiza mediante algún tipo de sistema de regulación social._» [[LU 70:1.1](/es/The_Urantia_Book/70#p1_1)]
+En _El Libro de Urantia_ se nos recuerda que: «La paz es la vara social que mide el progreso de la civilización... La guerra está rápidamente llegando a la bancarrota cultural... incapaz de producir dividendos de ganancia social de ninguna manera proporcionales a las terribles pérdidas que conlleva su invocación..... Si bien los antagonismos son naturales, la paz sólo se garantiza mediante algún tipo de sistema de regulación social._» <a id="a97_439"></a>[[LU 70:1.1](/es/The_Urantia_Book/70#p1_1)]
 
 Hacer entonces preguntas verdaderamente integrales y escuchar y considerar sinceramente las respuestas lo más temprano posible en el proceso de manifestación puede ser decisivo para el resultado deseado. De lo contrario, las preguntas no reconocidas o rechazadas persisten en su pudrición desatendida. ¿Ha notado que los problemas no resueltos tienden a persistir a menos y hasta que reclamen nuestra atención?
 
@@ -144,3 +168,28 @@ Su compromiso siempre es bienvenido en el proceso de evolución de la cultura de
 > _Anton Schmalz ha sido estudiante de _El Libro de Urantia_ desde 1975. Le gusta aplicar las ideas del Libro de Urantia a cuestiones de paz mundial. Anton ha sido un escritor profesional en todos los medios. Ha ayudado a desarrollar estrategias importantes y ha preparado declaraciones políticas para cuatro presidentes de Estados Unidos. Puede comunicarse con él en: 390 W. Calle de las Flores, Green Valley, AZ 85614_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Dangerfield/Unique_Urantian_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alcance urantiano único</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="pr-2">¿Dónde están los grandes líderes y maestros de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

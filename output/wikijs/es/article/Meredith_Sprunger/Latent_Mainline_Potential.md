@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Faith_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una aventura de fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Everett_Sloffer/The_Church_A_Statement_of_Purpose_and_Belief">
+          <span class="pr-2">La Iglesia: una declaración de propósito y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aunque las principales iglesias cristianas han experimentado una pérdida sustancial de miembros en los últimos veinte años, creemos que estas instituciones religiosas en el centro de nuestra cultura histórica tienen el potencial latente para continuar siendo la vanguardia creciente de la fe cristiana. Los ejecutivos y teólogos liberales de la iglesia durante el último cuarto de siglo se involucraron tanto en cuestiones y acciones sociales que tendieron a perder contacto con las preocupaciones y necesidades espirituales de los feligreses. Las iglesias tradicionales crearon, sin saberlo, un vacío espiritual esperando ser llenado. Las iglesias evangélicas y fundamentalistas que enfatizaban «la palabra de Dios», el mensaje salvador del evangelio y las relaciones interpersonales amorosas, empaquetadas en formas y canales de comunicación efectivos, se convirtieron en las comuniones de más rápido crecimiento.
@@ -19,3 +43,28 @@ Una visión fresca y relevante de la Realidad universal debe tener dos caracter�
 
 Éstas son áreas en las que _El Libro de Urantia_ puede proporcionar recursos incomparables. La descripción extensa del libro de la esencia de la religión como una relación personal con Dios, junto con su descripción ampliada de la vida y las enseñanzas de Jesús, brindará una nueva orientación espiritual y una mayor apreciación de Jesús a todos los que lo lean. La cosmología espiritual ampliada de _El Libro de Urantia_ es inspiradora, eclipsando incluso la imagen enorme y en expansión del universo que ofrece la astronomía contemporánea. Debido a estas y muchas otras ideas de _El Libro de Urantia_, creemos que será un factor clave en el resurgimiento del cristianismo tradicional y lo establecerá como la vanguardia de un nuevo renacimiento espiritual en nuestro planeta.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Faith_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una aventura de fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Everett_Sloffer/The_Church_A_Statement_of_Purpose_and_Belief">
+          <span class="pr-2">La Iglesia: una declaración de propósito y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

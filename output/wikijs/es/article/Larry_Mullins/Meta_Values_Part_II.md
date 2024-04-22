@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/The_Quest_for_Spiritual_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La búsqueda de la cultura espiritual: hacia un paradigma de espiritualidad para el siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Living_the_Family_of_God">
+          <span class="pr-2">Viviendo la familia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -57,7 +81,7 @@ Las observaciones de Viktor Frankl merecen una cuidadosa consideración por part
 
 Ningún urantiano sabio dejará de notar el paralelo de las ideas de Frankl con la revelación de los Documentos de Urantia:
 
-> «Puesto que la verdadera religión es un asunto de experiencia espiritual personal, es inevitable que cada persona religiosa individual posea su propia interpretación personal sobre la manera de efectuar esta experiencia espiritual. La palabra «fe» debería representar la relación del individuo con Dios, en lugar de ser la expresión de un credo sobre el que un grupo de mortales ha conseguido ponerse de acuerdo como actitud religiosa común. «¿Tenéis fe? Entonces tenedla por vosotros mismos».» ([LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
+> «Puesto que la verdadera religión es un asunto de experiencia espiritual personal, es inevitable que cada persona religiosa individual posea su propia interpretación personal sobre la manera de efectuar esta experiencia espiritual. La palabra «fe» debería representar la relación del individuo con Dios, en lugar de ser la expresión de un credo sobre el que un grupo de mortales ha conseguido ponerse de acuerdo como actitud religiosa común. «¿Tenéis fe? Entonces tenedla por vosotros mismos».» (<a id="a83_498"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
 
 Lamentablemente, gran parte de la gran obra de Viktor Frankl no ha sido plenamente reconocida debido a la influencia de la vaca sagrada del monomaterialismo «científico». De hecho, gran parte de la ciencia moderna ha roto con la tiranía del dogma religioso, para quedar prácticamente ligada a la tiranía del monomaterialismo. Así, cuando la mayoría de los científicos cuánticos se topan con los misterios inexplicables, atemporales y espaciales de lo muy pequeño, encuentran más seguro postular una serie absurda de «universos paralelos infinitos» que permitir una Primera Fuente y Centro más elegantemente lógico.
 
@@ -155,9 +179,34 @@ Entonces, si estas preguntas te inquietan, te insto a que las leas nuevamente. L
 > _Este material ha sido adaptado del Capítulo 17 de un trabajo en progreso de Larry Mullins, The Step Beyond. © Copyright 1998, Larry Mullins, Boulder, CO. Larry Mullins es consultor en publicidad y marketing. Es consultor editorial del Journal y autor de Immature People with Power y Jesus: God and Man._
 {.is-info}
 
-> «Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos de esa religión, puesto que consideráis que el concepto supremo de vuestra religión es digno de la adoración de toda la humanidad, de todas las inteligencias del universo. Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual.» ([LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
+> «Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos de esa religión, puesto que consideráis que el concepto supremo de vuestra religión es digno de la adoración de toda la humanidad, de todas las inteligencias del universo. Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual.» (<a id="a181_521"></a>[LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/The_Quest_for_Spiritual_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La búsqueda de la cultura espiritual: hacia un paradigma de espiritualidad para el siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Living_the_Family_of_God">
+          <span class="pr-2">Viviendo la familia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

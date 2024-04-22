@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: Los cinco evangelios de Robert W. Funk et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I">
+          <span class="pr-2">Un nuevo comienzo para la unidad mundial (Parte I)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Marcus J. Borg, Harper Collins, 1989, 1991, págs.207
@@ -38,6 +62,31 @@ Este libro contiene una multitud de referencias que indican que está surgiendo 
 > _Ken Glasziou es un científico investigador, jubilado y activo en la obra de la iglesia en Australia. Es autor de_ Ciencia y religión: la nueva era más allá del año 2000 d. C. _y_ Cristo o el caos: la evolución de una revelación.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: Los cinco evangelios de Robert W. Funk et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I">
+          <span class="pr-2">Un nuevo comienzo para la unidad mundial (Parte I)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

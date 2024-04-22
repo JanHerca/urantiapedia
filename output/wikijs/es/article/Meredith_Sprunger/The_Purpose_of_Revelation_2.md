@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Leadership_by_Margaret_J_Wheatley">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: liderazgo y nueva ciencia de Margaret J. Wheatley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="pr-2">La cuestión de la infalibilidad reveladora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El propósito de la revelación es revelar y ampliar la verdad espiritual. Todas las presentaciones de la revelación se comunican en los marcos de referencia intelectual-culturales de la época en que se dan. Estos conceptos humanos portadores de la revelación son transitorios, pero la verdad que proclaman es eterna. Por ejemplo, la historia de la creación de siete días en la Biblia que los teólogos ahora clasifican como «mito», tenía sentido en la cosmología simplista de tiempos precientíficos y transmitía efectivamente la verdad espiritual de que Dios es la fuente de toda la creación.
@@ -28,9 +52,9 @@ Los estudiantes de la Quinta Revelación de Época están experimentando ahora e
 
 Lo central que debemos recordar acerca de la revelación, como hemos mencionado, es que su propósito es revelar y ampliar la verdad espiritual. Los hechos científicos y las costumbres culturales que las acompañan y que se utilizan para transmitir y presentar estas verdades espirituales son transitorios. Es el genio de la revelación el que las verdades espirituales eternas puedan presentarse utilizando hechos temporales y costumbres culturales cambiantes. Los conceptos cosmológicos y metafísicos de la revelación son importantes porque son los marcos de referencia que hacen que su mensaje sea relevante en los tiempos en que se da la revelación. La cosmología espiritual ampliada de la Quinta Revelación de Época es de vital importancia para el cristianismo liberal y tradicional, así como para todas las religiones tradicionales. Dado que la cristología contemporánea tiene sus raíces en una cosmología material precientífica y una cosmología espiritual extremadamente simplista, los teólogos consideran cada vez más increíble la doctrina de la salvación exclusiva a través de la fe en el Jesús posterior a la resurrección. Ya no pueden afirmar lo que se ha llamado el «escándalo de la particularidad».
 
-La teología cristiana necesita desesperadamente la cosmología espiritual presentada en _El Libro de Urantia_ para imaginar una concepción metafísica de la realidad que permita a los teólogos comprender la «gloria de la particularidad» en la personalidad de Jesús posterior a la resurrección. La Quinta Revelación de Época «sintetiza las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica, en una explicación coordinada e ininterrumpida tanto de la ciencia como de la religión, creando así una armonía mental y una satisfacción espiritual que contesta, en la experiencia humana, a aquellos interrogantes de la mente mortal que ansía saber *de qué manera* el Infinito pone en práctica su voluntad y realiza sus planes en la materia, con las mentes y sobre el espíritu». ([LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
+La teología cristiana necesita desesperadamente la cosmología espiritual presentada en _El Libro de Urantia_ para imaginar una concepción metafísica de la realidad que permita a los teólogos comprender la «gloria de la particularidad» en la personalidad de Jesús posterior a la resurrección. La Quinta Revelación de Época «sintetiza las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica, en una explicación coordinada e ininterrumpida tanto de la ciencia como de la religión, creando así una armonía mental y una satisfacción espiritual que contesta, en la experiencia humana, a aquellos interrogantes de la mente mortal que ansía saber *de qué manera* el Infinito pone en práctica su voluntad y realiza sus planes en la materia, con las mentes y sobre el espíritu». (<a id="a54_848"></a>[LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
 
-Los autores de _El Libro de Urantia_ en las páginas [LU 101:4.5-10](/es/The_Urantia_Book/101#p4_5) dan una excelente descripción del uso del conocimiento transitorio y la verdad eterna en la revelación. «La verdad puede ser sólo relativamente inspirada, aunque la revelación sea invariablemente un fenómeno espiritual. Las afirmaciones referentes a la cosmología nunca son inspiradas, pero estas revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos mediante:
+Los autores de _El Libro de Urantia_ en las páginas <a id="a56_52"></a>[LU 101:4.5-10](/es/The_Urantia_Book/101#p4_5) dan una excelente descripción del uso del conocimiento transitorio y la verdad eterna en la revelación. «La verdad puede ser sólo relativamente inspirada, aunque la revelación sea invariablemente un fenómeno espiritual. Las afirmaciones referentes a la cosmología nunca son inspiradas, pero estas revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos mediante:
 
 1. La reducción de la confusión, eliminando con autoridad los errores.
 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos.
@@ -105,7 +129,32 @@ Poco después de celebrarse las conferencias regionales y nacionales, los estudi
 
 Ahora estamos entrando en la lucha intelectual-espiritual que tardó siglos en resolverse en gran medida al cristianismo tradicional: distinguir entre los conceptos contemporáneos y falibles de portadores humanos utilizados en la revelación de sus verdades espirituales eternas. El libro de Martin Gardner, Urantia: El gran misterio del culto, puede ayudar a acortar este período en el movimiento Urantia. También puede ayudar a protegerse contra actitudes de culto entre aquellos que tienen una fe viva en las verdades espirituales ampliadas de la Quinta Revelación de Época.
 
-El núcleo sólido del movimiento Urantia ha superado estas tribulaciones con dedicación y equilibrio renovados. Hemos alcanzado la mayoría de edad. La libertad espiritual y la democracia participativa nos han enseñado que puede haber unidad de propósito en medio de la diversidad intelectual y política. La Quinta revelación de Época se abrirá paso y superará cualquier barrera que se interponga en su camino. Estamos en el umbral de «una de las épocas más asombrosas y fascinantes de reajuste social, aceleración moral e iluminación espiritual» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) en nuestro planeta. Los avances preliminares y orientadores del crecimiento del movimiento Urantia han quedado en gran medida detrás de nosotros. Nos espera el potencial de una apasionante misión de divulgación de la Quinta Revelación de Época. Los Altísimos nos han preparado a nosotros y a nuestro planeta para la visión más emocionante de la realidad espiritual desde que Jesús de Nazaret caminó en nuestro mundo. ¡Esta misión de extensión será multifacética, pluralista y victoriosa!
+El núcleo sólido del movimiento Urantia ha superado estas tribulaciones con dedicación y equilibrio renovados. Hemos alcanzado la mayoría de edad. La libertad espiritual y la democracia participativa nos han enseñado que puede haber unidad de propósito en medio de la diversidad intelectual y política. La Quinta revelación de Época se abrirá paso y superará cualquier barrera que se interponga en su camino. Estamos en el umbral de «una de las épocas más asombrosas y fascinantes de reajuste social, aceleración moral e iluminación espiritual» (<a id="a131_546"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) en nuestro planeta. Los avances preliminares y orientadores del crecimiento del movimiento Urantia han quedado en gran medida detrás de nosotros. Nos espera el potencial de una apasionante misión de divulgación de la Quinta Revelación de Época. Los Altísimos nos han preparado a nosotros y a nuestro planeta para la visión más emocionante de la realidad espiritual desde que Jesús de Nazaret caminó en nuestro mundo. ¡Esta misión de extensión será multifacética, pluralista y victoriosa!
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Leadership_by_Margaret_J_Wheatley">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: liderazgo y nueva ciencia de Margaret J. Wheatley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="pr-2">La cuestión de la infalibilidad reveladora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

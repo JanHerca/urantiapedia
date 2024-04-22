@@ -49,7 +49,7 @@ Au fur et à mesure que la lecture se poursuivait, des questions étonnantes sur
 
 Avec le temps, des liens ont été établis avec d'autres lecteurs et groupes d'étude et de nombreuses conférences pour les étudiants du _Livre d'Urantia_ sont devenues une partie importante de ma vie. J'ai commencé à comprendre qu'à tout le moins, ce livre contribuerait à faciliter les changements conceptuels nécessaires pour résoudre les problèmes spirituels, sociaux, économiques et politiques urgents de notre monde. Nos diversités conflictuelles ont besoin d’un principe unificateur transcendant et d’une nouvelle inspiration spirituelle si l’on veut que le progrès mondial se produise. La cause profonde des divisions est l’incapacité des individus à comprendre leur potentiel spirituel commun, le fait de la présence intérieure de Dieu, source de l’unité et de l’amour. Notre monde a désespérément besoin d’une nouvelle vision de la réalité. Combien il est important de partager avec l’humanité la bonne nouvelle qu’une vision sans précédent de Dieu est décrite dans le _Livre d’Urantia_, et que des opportunités créatives inimaginables pour servir la famille humaine toute entière sont révélées dans ses idées avec une clarté étonnante !
 
-> _Sue Tennant a fréquenté le Wycliffe College de la Toronto School of Theology et termine actuellement sa dernière année au New Seminary de New York. Elle est une ancienne publiciste de Toronto et auteur de « Crossing_
+> _Sue Tennant a fréquenté le Wycliffe College de la Toronto School of Theology et termine actuellement sa dernière année au New Seminary de New York. Elle est une ancienne publiciste de Toronto et auteur de « CrossingCrossing Crossing Cultures in Business »._
 {.is-info}
 
 

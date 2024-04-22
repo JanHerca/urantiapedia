@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Lee Loots<br>© 2006 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una historia de dos Orvontons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _La Urantia Book Fellowship opera un servidor de listas para administradores actuales y pasados de la Sociedad, así como para funcionarios de la Fraternidad. Recientemente, en este servidor de listas, se planteó una consulta abierta sobre lo que un maestro en ciernes puede querer tener en cuenta. La mayoría de los comentarios a continuación se ofrecieron en respuesta a esta discusión._
@@ -87,3 +108,25 @@ En su [_Compare_ columna del 1/9/'05](/es/article/Tom_and_Karen_Allen/Compare_Hu
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una historia de dos Orvontons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

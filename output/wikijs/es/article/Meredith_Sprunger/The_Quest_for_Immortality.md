@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decadencia espiritual y renacimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="pr-2">Semántica en la Cena del Señor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La búsqueda de la inmortalidad es uno de los temas perennes de la religión. Todas las principales religiones del mundo tienen alguna conceptualización de este estado futuro proyectado. La vida después de la muerte en la fe cristiana está estrechamente asociada con la ubicación geográfica del Paraíso. Byron Belitsos en su reciente artículo en el Journal, «Paradise: The Recentering of Theology», muestra que la astrofísica contemporánea y la imagen cosmológica del Paraíso en _El Libro de Urantia_ tienen algunas relaciones notablemente armoniosas. El historiador teológico Jean Delumeau ha iniciado recientemente un estudio en tres volúmenes sobre esta persistente búsqueda de la inmortalidad. El primer volumen, Historia del Paraíso: El Jardín del Edén en mitos y tradiciones (Continuum, 1995, 276 págs., 29,50 dólares), señala el poder continuo de la historia del Jardín del Edén hasta el siglo XIX. El volumen dos trazará las proyecciones milenarias y el volumen tres estudiará la esperanza y el gozo de las expectativas del Paraíso.
@@ -19,3 +43,28 @@ Caroline Walker Bynum en _The Resurrection of the Body in Western Christianity_,
 
 Una vez más, como en tantas otras dificultades teológicas, _El Libro de Urantia_ presenta una visión de la vida después de la muerte que es coherente y significativa. Describe el crecimiento del alma como contingente con nuestras decisiones y dedicación a las realidades de la verdad, la belleza y la bondad (la voluntad de Dios) y la permanencia de cada personalidad. Resucitamos con un cuerpo morontial (en parte material, en parte espiritual) que evoluciona gradualmente hasta convertirse en un cuerpo espiritual genuino. Continuamos nuestra educación y crecimiento espiritual en el universo y eventualmente llegamos a la Isla del Paraíso, somos abrazados por el Padre Universal y conducidos al Cuerpo Finalitario de servicio eterno. Para la humanidad inquisitiva que se pregunta sobre la vida después de la muerte y nuestra relación con los seres queridos que han hecho esta transición, la descripción de la aventura de la eternidad en _El Libro de Urantia_ es una revelación racionalmente satisfactoria y emocionalmente reconfortante. Dentro de un siglo, la gente mirará hacia atrás y se maravillará de que haya sido necesario tanto tiempo para que la gran mayoría de la humanidad descubriera su mensaje incomparable.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decadencia espiritual y renacimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="pr-2">Semántica en la Cena del Señor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

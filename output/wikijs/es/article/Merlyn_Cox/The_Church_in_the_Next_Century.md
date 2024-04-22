@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Merlyn Cox<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La metamorfosis de la Iglesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="pr-2">El libro de Urantia: hacia un contexto para la evaluación teológica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A medida que nos acercamos al comienzo de otro siglo, así como al próximo milenio, muchas denominaciones están tratando de pronosticar los cambios que podrían ocurrir. Muchos están buscando una nueva dirección, alguna nueva percepción que ayude a rejuvenecer la iglesia.
@@ -27,3 +51,28 @@ Estoy convencido, sin embargo, de que este estancamiento y malestar eventualment
 
 Esta visión empoderadora está disponible ahora en _El Libro de Urantia_, y no puedo dejar de creer que durante las próximas generaciones, su levadura se abrirá paso cada vez más en la vida y el pensamiento de más y más personas, proporcionando la base para una verdadera nuevo mundo y universo: comprensión.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La metamorfosis de la Iglesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="pr-2">El libro de Urantia: hacia un contexto para la evaluación teológica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

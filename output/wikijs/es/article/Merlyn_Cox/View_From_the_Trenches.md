@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Merlyn Cox<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Restatement_of_Gospels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una reformulación de los evangelios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Teachers_Leaders_and_Trembling_Hands">
+          <span class="pr-2">Maestros, líderes y manos temblorosas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Creo que hay un imperativo evangélico necesario para la fe. Todos queremos compartir la Buena Nueva de la Paternidad de Dios y de nosotros mismos como su familia humana, como lo atestigua la vida y las enseñanzas de Jesús de Nazaret.
@@ -26,7 +50,7 @@ _Esto sucede incluso en las iglesias_. A pesar de la enorme inercia de la religi
 
 Necesitamos aclarar: la Buena Nueva ciertamente ha sido proclamada y compartida por la iglesia, pero su poder y testimonio han sido silenciados por luchas internas, competencia, intolerancia y superstición. Sus divisiones son una vergüenza y una contradicción con el mensaje que proclama. La iglesia cristiana sigue siendo uno de los mayores impedimentos para su propia tarea declarada.
 
-Sin embargo, si bien «Jesús no fundó la llamada iglesia cristiana, pero de todas las maneras compatibles con su naturaleza, la ha *fomentado* como la mejor representante existente de la obra de su vida en la Tierra». ([LU 195:10.9](/es/The_Urantia_Book/195#p10_9)) Y los autores de _El Libro de Urantia_ sugieren que algún día despertará y será transformado por la revelación avanzada de la vida y las enseñanzas de Jesús, aunque la fuente de ese despertar pueda provenir de fuera de la iglesia.
+Sin embargo, si bien «Jesús no fundó la llamada iglesia cristiana, pero de todas las maneras compatibles con su naturaleza, la ha *fomentado* como la mejor representante existente de la obra de su vida en la Tierra». (<a id="a52_218"></a>[LU 195:10.9](/es/The_Urantia_Book/195#p10_9)) Y los autores de _El Libro de Urantia_ sugieren que algún día despertará y será transformado por la revelación avanzada de la vida y las enseñanzas de Jesús, aunque la fuente de ese despertar pueda provenir de fuera de la iglesia.
 
 Conozco y comparto regularmente con personas de la iglesia que se preocupan y buscan y que sienten pasión por su fe. Veo esto como una «visión desde las trincheras», donde se desarrollan las luchas de fe esenciales del día a día. Esta gran reserva de fe, buena voluntad y mentes y corazones escrutadores es uno de los secretos mejor guardados para muchos miembros del Movimiento Urantia cuya experiencia con la religión institucional ha sido tan negativa.
 
@@ -44,3 +68,28 @@ Puedo imaginarme a familias en el movimiento Urantia con una participación salu
 
 ¿Cómo será esto? En algunos casos puede parecerse mucho a una iglesia actual. Sospecho, y espero, que sea diverso, flexible, que cambie y se remodele constantemente de tal manera que las personas de cada generación puedan elegir los tipos de comunidades y estructuras que mejor nutran y atiendan sus necesidades. Y aunque tales expresiones institucionales siempre serán secundarias a la fe y llevarán consigo su propio equipaje y peligros no deseados, podemos orar para que sean instrumentos para la gloria de Dios y la transformación del mundo. Ningún objetivo menor es digno de nuestros esfuerzos y de la revelación que nos ha inspirado en su servicio.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Restatement_of_Gospels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una reformulación de los evangelios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Teachers_Leaders_and_Trembling_Hands">
+          <span class="pr-2">Maestros, líderes y manos temblorosas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

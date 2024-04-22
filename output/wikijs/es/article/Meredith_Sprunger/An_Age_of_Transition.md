@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume7_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Confirming_and_Enlarging_the_Biblical_Message">
+          <span class="pr-2">Confirmando y ampliando el mensaje bíblico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestra cultura secular ha sido etiquetada de diversas maneras como «la era poscristiana», «la era posmoderna», «la era de la sospecha» y «la era del carnaval», donde todos intentan atraerte a tu espectáculo secundario, pero ninguna atracción tiene un efecto negativo. Posición privilegiada y todo se relativiza. Es un mundo muy parecido a la civilización grecorromana a la que llegaron los apóstoles de Jesús con su mensaje evangélico. La nuestra es una era que carece de fundamentos filosófico-religiosos sólidos, un mundo que considera todas las afirmaciones de verdad como cuestiones de opinión y las convicciones morales como preferencias personales.
@@ -20,6 +44,31 @@ Nuestro mundo está claramente experimentando una era de transición. Estamos si
 Puede que sean necesarias generaciones para que esta nueva visión de la realidad espiritual obtenga el reconocimiento de los líderes religiosos, y siglos para que transforme la cultura en todo el mundo. Pero la minoría creativa entre nosotros, tanto dentro como fuera de las instituciones religiosas, está descubriendo ahora esta presentación ampliada de la verdad a la humanidad y son los pioneros de la nueva Era de la Fe que evoluciona en las alas de la historia.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume7_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Confirming_and_Enlarging_the_Biblical_Message">
+          <span class="pr-2">Confirmando y ampliando el mensaje bíblico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

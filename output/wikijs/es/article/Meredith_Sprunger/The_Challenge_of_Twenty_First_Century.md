@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="pr-2">El escándalo de la cosmología espiritual actual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Vivimos en uno de los mayores puntos de inflexión de la historia. Nuestra época ha sido etiquetada de diversas formas como era posindustrial, posmoderna y poscristiana. Los paradigmas tradicionales de cosmología, valor y realidad han perdido su incuestionable relevancia y autoridad entre la gente contemporánea. Las instituciones sociales que fueron estructuradas según estos conceptos y valores tradicionales están perdiendo vitalidad e influencia. Las infraestructuras económicas y políticas de la sociedad se están derrumbando y perdiendo credibilidad y eficacia. Las costumbres que han sido la base del comportamiento humano y las normas éticas en la sociedad se están desmoronando y la inmoralidad, el crimen y la violencia son endémicos. Las instituciones religiosas que alguna vez fueron los pilares centrales de la sociedad ahora están relegadas a una posición periférica.
@@ -23,3 +47,28 @@ La raíz del colapso del comportamiento individual, el deterioro y malestar de n
 
 El ingrediente singular que traerá significado y unidad a la existencia planetaria es un paradigma inspirador de la realidad que armonizará la ciencia, la filosofía y la religión e inspirará a la humanidad a luchar por metas y objetivos comunes. Sólo una visión reveladora nueva y ampliada de la realidad tiene el potencial de lograrlo. Es de esperar que los buscadores de nuestro mundo descubran la Quinta Revelación de Época en el siglo XXI. _El Libro de Urantia_ es la única fuente de realidad que es lo suficientemente grande y espiritualmente empoderadora para unificar y energizar a todo el planeta. ¡Culturizar al mundo con las inspiradoras y ennoblecedoras enseñanzas de la Quinta Revelación de Época es el desafío del siglo XXI!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="pr-2">El escándalo de la cosmología espiritual actual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

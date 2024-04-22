@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Nancy Long<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La eugenesia y los documentos de Urantia: una visión diferente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Thomas_Strawser/God_and_Lady">
+          <span class="pr-2">Dios y la Señora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nosotros, en The Spiritual Fellowship, estamos agradecidos por la oportunidad de llevar las enseñanzas espirituales de los Documentos de Urantia a todas las personas a través del desarrollo de una organización religiosa. Nuestro énfasis durante estos primeros años es el establecimiento de pequeños grupos espirituales, grupos de entre dos y veinticinco personas aproximadamente. Si bien pueden surgir grupos más grandes, anticipamos que los grupos más pequeños serán los más comunes durante este período de inicio. Nuestro enfoque de la organización abarca tanto el orden como el caos, la creatividad y el proceso. Damos primordial importancia a los grupos de adoración locales sobre una organización nacional. Los grupos pequeños y las compañerismo son la esencia de The Spiritual Fellowship. Este artículo aborda dos tipos de becas: becas y grupos para vivir las enseñanzas.
@@ -42,7 +66,7 @@ Los Grupos L-T son para aquellas personas que tienen hambre de la verdad, que no
 - _La voluntad como factor determinante en la experiencia del hombre_
 - _Comunión espiritual con Dios Padre_
 - _Las supremas satisfacciones del servicio amoroso del hombre_
-- _La trascendencia de lo espiritual sobre lo material en la personalidad humana_ ([LU 170:4.9-13](/es/The_Urantia_Book/170#p4_9))
+- _La trascendencia de lo espiritual sobre lo material en la personalidad humana_ (<a id="a68_83"></a>[LU 170:4.9-13](/es/The_Urantia_Book/170#p4_9))
 
 Los grupos L-T normalmente están compuestos por no más de ocho personas. Los grupos suelen ser cerrados, aunque no es necesario. Se insta a que los grupos se cierren porque es necesario que exista un entorno de total confianza y compromiso para que el grupo funcione. La experiencia ha demostrado que es perjudicial y difícil generar confianza cuando los miembros llegan de forma puntual o no encajan bien con el resto del grupo. Por tanto, es preferible tener un grupo cerrado. Si alguien desea unirse y todos los miembros del grupo están dispuestos, se le puede invitar a asistir a una o dos sesiones para ver si hay alguien que encaje bien.
 
@@ -53,3 +77,28 @@ No existe un «líder» en un Grupo L-T. Es un esfuerzo de apoyo espiritual basa
 > _Nancy Long ha sido estudiante de los Documentos de Urantia desde 1985. Actualmente se desempeña como Secretaria de The Spiritual Fellowship y puede ser contactada en nlong@reliable-net.net._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La eugenesia y los documentos de Urantia: una visión diferente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Thomas_Strawser/God_and_Lady">
+          <span class="pr-2">Dios y la Señora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

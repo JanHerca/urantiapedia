@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entre los tiempos, la necesidad de la interioridad espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="pr-2">Interfaz: ¿Qué pasa si los extraterrestres han aterrizado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El artículo de Time del 24 de marzo de 1997 «¿Existe el cielo?» abordó un tema sobre el cual los ministros y teólogos tienen muy poco que decir. David Wells, profesor de teología del Seminario Teológico Grodon-Conwell, observa: «No creo que el cielo sea ni siquiera un punto en la pantalla cristiana, de un extremo al otro del espectro denominacional. La pregunta más desconcertante es: ¿qué explica esto?» (pág. 73)
@@ -19,7 +43,32 @@ Como hemos observado repetidamente en estas columnas, _El Libro de Urantia_ conf
 
 > La razón, la sabiduría y la fe son los logros más elevados del hombre. La razón introduce al hombre en el mundo de los hechos, de las cosas; la sabiduría lo introduce en el mundo de la verdad, de las relaciones; la fe lo hace entrar en el mundo de la divinidad, de la experiencia espiritual.
 > 
-> La fe arrastra con mucho gusto a la razón hasta donde la razón puede llegar; luego la fe continúa con la sabiduría hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad. ([LU 103:9.6-7](/es/The_Urantia_Book/103#p9_6))
+> La fe arrastra con mucho gusto a la razón hasta donde la razón puede llegar; luego la fe continúa con la sabiduría hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad. (<a id="a45_270"></a>[LU 103:9.6-7](/es/The_Urantia_Book/103#p9_6))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entre los tiempos, la necesidad de la interioridad espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="pr-2">Interfaz: ¿Qué pasa si los extraterrestres han aterrizado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

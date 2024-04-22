@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 La Fellowship Cristiana de Estudiantes de <i>El Libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Looking_for_Alternative_Communities">
+          <span class="pr-2">Buscando comunidades alternativas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 15, Número 1, Otoño-Invierno, 2005
@@ -136,9 +157,31 @@ Donación anual sugerida: \$10.
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Looking_for_Alternative_Communities">
+          <span class="pr-2">Buscando comunidades alternativas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notas
 
 
-[^1]: Ver [LU 87:7.6-10](/es/The_Urantia_Book/87#p7_6)
+[^1]: Ver <a id="a184_10"></a>[LU 87:7.6-10](/es/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, Nueva York, 1977, pág. 237.

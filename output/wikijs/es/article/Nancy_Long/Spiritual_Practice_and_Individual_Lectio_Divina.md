@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Nancy Long<br>© 2006 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Técnica de enseñanza de confrontación de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="pr-2">Una historia de dos Orvontons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La importancia de la práctica espiritual
@@ -17,9 +41,9 @@ _Práctica espiritual_ — me fascina. Cuando surge la oportunidad, me encuentro
 
 La idea de la práctica espiritual adquirió un significado más profundo para mí el año pasado después de leer _Long Quiet Highway_, una autobiografía de Natalie Goldberg. Goldberg es un escritor contemporáneo y profesor de escritura creativa. La suya es la historia de una mujer judía convertida en budista zen, que se encuentra a sí misma y despierta a su espiritualidad a través de la escritura como práctica espiritual. Tuve uno de esos «¡ajá!» momentos en algún lugar a mitad de su libro, donde el poder y la importancia simbólica de la práctica espiritual cobraron vida. Me sorprendió el papel convincente que la práctica espiritual podía desempeñar tanto en el simbolismo religioso como en el desarrollo de la vida interior.
 
-Los Documentos de Urantia nos instan a desarrollar un simbolismo religioso nuevo y apropiado ([LU 87:7.6](/es/The_Urantia_Book/87#p7_6)). Me he dado cuenta de que las prácticas espirituales son uno de esos símbolos. Las prácticas espirituales que sancionemos y realicemos, ya sea individual o colectivamente, serán parte de aquellos elementos que conforman un «culto de apoyo mutuo» y serán indicadores de ese grupo al que «pertenecemos» ([LU 87:7.3](/es/The_Urantia_Book/87#p7_3)). Como tales, merecen una consideración seria y seria.
+Los Documentos de Urantia nos instan a desarrollar un simbolismo religioso nuevo y apropiado (<a id="a43_94"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6)). Me he dado cuenta de que las prácticas espirituales son uno de esos símbolos. Las prácticas espirituales que sancionemos y realicemos, ya sea individual o colectivamente, serán parte de aquellos elementos que conforman un «culto de apoyo mutuo» y serán indicadores de ese grupo al que «pertenecemos» (<a id="a43_439"></a>[LU 87:7.3](/es/The_Urantia_Book/87#p7_3)). Como tales, merecen una consideración seria y seria.
 
-«_Perfecciona tu vida espiritual interior_» ([LU 140:8.17](/es/The_Urantia_Book/140#p8_17)). En cuanto a nuestros desafíos y metas terrenales, los Documentos de Urantia nos enseñan que nuestro gran desafío es lograr una mejor comunicación con la chispa interior de Dios. Y nuestras mayores aventuras, al menos aquí en la tierra, serán esos esfuerzos sanos y equilibrados que intentamos de todo corazón para llevar nuestra autoconciencia al contacto real con esa presencia divina ([LU 196:3.31](/es/The_Urantia_Book/196#p3_31)). Para mí, tales esfuerzos tienen lugar principalmente en el ámbito de nuestra _vida espiritual interior_. Los Reveladores comparten que Jesús, si estuviera aquí hoy, nos aconsejaría sobre la vida espiritual interior, no sobre problemas políticos, sociales o económicos. En cambio, nos enseñaría formas de perfeccionar nuestra vida espiritual interior para que podamos resolver esos problemas puramente humanos nosotros mismos ([LU 140:8.17](/es/The_Urantia_Book/140#p8_17)).
+«_Perfecciona tu vida espiritual interior_» (<a id="a45_45"></a>[LU 140:8.17](/es/The_Urantia_Book/140#p8_17)). En cuanto a nuestros desafíos y metas terrenales, los Documentos de Urantia nos enseñan que nuestro gran desafío es lograr una mejor comunicación con la chispa interior de Dios. Y nuestras mayores aventuras, al menos aquí en la tierra, serán esos esfuerzos sanos y equilibrados que intentamos de todo corazón para llevar nuestra autoconciencia al contacto real con esa presencia divina (<a id="a45_480"></a>[LU 196:3.31](/es/The_Urantia_Book/196#p3_31)). Para mí, tales esfuerzos tienen lugar principalmente en el ámbito de nuestra _vida espiritual interior_. Los Reveladores comparten que Jesús, si estuviera aquí hoy, nos aconsejaría sobre la vida espiritual interior, no sobre problemas políticos, sociales o económicos. En cambio, nos enseñaría formas de perfeccionar nuestra vida espiritual interior para que podamos resolver esos problemas puramente humanos nosotros mismos (<a id="a45_954"></a>[LU 140:8.17](/es/The_Urantia_Book/140#p8_17)).
 
 Nosotros, los creyentes en la revelación de Urantia, no tenemos que quitar nieve nueva en esta área de la práctica espiritual. Si bien algunas prácticas espirituales que surgirán de la revelación serán ciertamente nuevas, creo que haríamos bien en explorar también las muchas prácticas probadas y verdaderas que han agregado valor a la vida espiritual interior de quienes nos precedieron. Esta exploración no es un llamado a duplicar prácticas arcaicas que no tienen relevancia para nosotros hoy. Más bien, es un llamado a redescubrir lo que funciona en nuestra tradición humana, a redescubrir y quizás agregar un nuevo giro a aquellas prácticas que han resistido la prueba del tiempo como caminos probados hacia Dios. Para impulsar nuestra consideración de las prácticas espirituales, ofrezco la siguiente discusión sobre la lectio divina.
 
@@ -27,15 +51,15 @@ Nosotros, los creyentes en la revelación de Urantia, no tenemos que quitar niev
 
 ## Lectio divina: Antecedentes
 
-Como sabemos intuitivamente, no existe una única práctica espiritual que sea la mejor. Jesús enseñó a los apóstoles que las personas son diferentes y se les debe permitir desarrollarse, cada una a su manera, como un individuo perfeccionador y separado ante Dios ([LU 140:8.23](/es/The_Urantia_Book/140#p8_23)). Sentí que la consideración de la lectio divina era apropiada para quienes estudian la Quinta Revelación de Época, ya que somos un grupo al que le encanta leer. Lectio divina se puede traducir como «_lectura sagrada_» o «_lectura divina_». La mayoría de las tradiciones religiosas actualmente tienen, o han tenido, prácticas que implicaban la recitación de textos espirituales. Por ejemplo, en el budismo estos textos se utilizan en la práctica de la recitación que contribuye al cultivo espiritual. En el hinduismo existen diversas prácticas, siendo un ejemplo más reciente la meditación de pasaje, donde «el objeto de atención no es una imagen u objeto externo sino un pasaje inspirador elegido de cualquiera de las grandes tradiciones espirituales del mundo y memorizado de antemano.» Y el judaísmo sitúa su lectura sagrada en el centro de la fe, creyendo que las palabras son la voz de Dios.
+Como sabemos intuitivamente, no existe una única práctica espiritual que sea la mejor. Jesús enseñó a los apóstoles que las personas son diferentes y se les debe permitir desarrollarse, cada una a su manera, como un individuo perfeccionador y separado ante Dios (<a id="a53_263"></a>[LU 140:8.23](/es/The_Urantia_Book/140#p8_23)). Sentí que la consideración de la lectio divina era apropiada para quienes estudian la Quinta Revelación de Época, ya que somos un grupo al que le encanta leer. Lectio divina se puede traducir como «_lectura sagrada_» o «_lectura divina_». La mayoría de las tradiciones religiosas actualmente tienen, o han tenido, prácticas que implicaban la recitación de textos espirituales. Por ejemplo, en el budismo estos textos se utilizan en la práctica de la recitación que contribuye al cultivo espiritual. En el hinduismo existen diversas prácticas, siendo un ejemplo más reciente la meditación de pasaje, donde «el objeto de atención no es una imagen u objeto externo sino un pasaje inspirador elegido de cualquiera de las grandes tradiciones espirituales del mundo y memorizado de antemano.» Y el judaísmo sitúa su lectura sagrada en el centro de la fe, creyendo que las palabras son la voz de Dios.
 
 En el cristianismo, la lectio divina surgió del catolicismo, donde existe una práctica antigua de leer la Biblia en voz alta, lenta y decididamente. Las órdenes benedictinas remontan su devoción a la lectio divina a la Regla de San Benito, escrita a mediados del siglo VI. Todavía hoy lo practican activamente varias denominaciones cristianas, no sólo los católicos. Si desea obtener más información sobre los orígenes y las aplicaciones de la lectio divina, una visita a un centro de retiro espiritual patrocinado por las órdenes benedictina o carmelita puede resultar beneficiosa. Por ejemplo, hay dos centros de retiro a poca distancia de mí en el centro de Indiana, ambos dirigidos por hermanas benedictinas, que incluyen la lectio divina en sus programas abiertos de retiro interreligioso. Además, una búsqueda de lectio divina en Internet arrojará una gran cantidad de sitios. (El enlace de la Orden de San Benito dedicado a la lectio divina es http://www.osb.org/lectio/about.html.) Y por supuesto, hay varios libros sobre el tema, como _Sacred Reading: The Ancient Art of Lectio Divina_, de Michael Casey, prior de la Abadía cisterciense de Tarrawarra en Victoria, Australia.
 
-«_Tomás, Tomás, ¿cuánto falta para que adquieras la capacidad de escuchar con el oído del espíritu?_» ([LU 142:7.17](/es/The_Urantia_Book/142#p7_17)) El principio subyacente de la lectura sagrada es que es comunión con Dios, un encuentro personal con el Divino. Uno no practica la lectio divina para adquirir conocimiento intelectual del texto que se lee. En la lectio divina, nos detenemos en el texto, lo leemos repetidamente y descansamos con reverencia en él. El enfoque durante este tiempo de comunión generalmente no es el mismo que cuando estudiamos los Documentos de Urantia. Con la lectio divina no pretendemos aprender del significado literal de las palabras. En cambio, nos esforzamos por escuchar con el oído del espíritu, por escuchar espiritualmente la «voz» de Dios para enseñarnos y transformarnos.
+«_Tomás, Tomás, ¿cuánto falta para que adquieras la capacidad de escuchar con el oído del espíritu?_» (<a id="a57_103"></a>[LU 142:7.17](/es/The_Urantia_Book/142#p7_17)) El principio subyacente de la lectura sagrada es que es comunión con Dios, un encuentro personal con el Divino. Uno no practica la lectio divina para adquirir conocimiento intelectual del texto que se lee. En la lectio divina, nos detenemos en el texto, lo leemos repetidamente y descansamos con reverencia en él. El enfoque durante este tiempo de comunión generalmente no es el mismo que cuando estudiamos los Documentos de Urantia. Con la lectio divina no pretendemos aprender del significado literal de las palabras. En cambio, nos esforzamos por escuchar con el oído del espíritu, por escuchar espiritualmente la «voz» de Dios para enseñarnos y transformarnos.
 
-«_La oración es el aliento del alma._» ([LU 144:2.3](/es/The_Urantia_Book/144#p2_3)) La mayoría de los practicantes consideran la lectio divina una forma de rayo. Por supuesto, hay muchas maneras diferentes de orar. Y en un buen número de ellos nuestra oración está activa. Es decir, buscamos un diálogo con Dios y, en algunos casos, es un monólogo absoluto en el que somos nosotros los que hablamos. Lectio divina es un método de oración que proporciona una estructura flexible, siendo la tarea principal escuchar en lugar de hablar. Abarca un ritmo de lectura, de escucha profunda, donde gradualmente nos alejamos de nuestra propia agenda y abrimos nuestro espíritu a lo que Dios comparte específicamente con nosotros. Lectio divina no es leer de forma lineal, donde comenzamos por la primera página y avanzamos hasta el final. No, este método de oración de lectura sagrada es más tortuoso, con mucha repetición y divagación, saboreo y silencio.
+«_La oración es el aliento del alma._» (<a id="a59_40"></a>[LU 144:2.3](/es/The_Urantia_Book/144#p2_3)) La mayoría de los practicantes consideran la lectio divina una forma de rayo. Por supuesto, hay muchas maneras diferentes de orar. Y en un buen número de ellos nuestra oración está activa. Es decir, buscamos un diálogo con Dios y, en algunos casos, es un monólogo absoluto en el que somos nosotros los que hablamos. Lectio divina es un método de oración que proporciona una estructura flexible, siendo la tarea principal escuchar en lugar de hablar. Abarca un ritmo de lectura, de escucha profunda, donde gradualmente nos alejamos de nuestra propia agenda y abrimos nuestro espíritu a lo que Dios comparte específicamente con nosotros. Lectio divina no es leer de forma lineal, donde comenzamos por la primera página y avanzamos hasta el final. No, este método de oración de lectura sagrada es más tortuoso, con mucha repetición y divagación, saboreo y silencio.
 
-La lectio divina también incorpora un paso de silencio interior y de oración, no para servir como un vacío o un tiempo para no hacer nada, sino para crear un espacio para la presencia de Dios, para darnos espacio para estar atentos a Dios. De hecho, Jesús nos enseñó a permanecer por un tiempo en receptividad silenciosa después de la oración para brindarle al espíritu que mora en nosotros la mejor oportunidad de hablar a nuestras almas que escuchan ([LU 146:2.17](/es/The_Urantia_Book/146#p2_17)).
+La lectio divina también incorpora un paso de silencio interior y de oración, no para servir como un vacío o un tiempo para no hacer nada, sino para crear un espacio para la presencia de Dios, para darnos espacio para estar atentos a Dios. De hecho, Jesús nos enseñó a permanecer por un tiempo en receptividad silenciosa después de la oración para brindarle al espíritu que mora en nosotros la mejor oportunidad de hablar a nuestras almas que escuchan (<a id="a61_453"></a>[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)).
 
 La lectio divina también incorpora un paso de silencio interior y de oración, no para servir como un vacío o un tiempo para no hacer nada, sino para crear un espacio para la presencia de Dios, para darnos espacio para estar atentos a Dios.
 
@@ -59,19 +83,44 @@ Luego, piensa en la palabra o frase que te llamó la atención, o en el pasaje q
 
 ## Etapa 3 — Oración (oratio)
 
-Jesús nos enseñó que una oración eficaz es aquella que no es sólo para nosotros mismos. Es aquel que está lleno de fe, es sincero, inteligente y confiado ([LU 144:3.8](/es/The_Urantia_Book/144#p3_8)). Ofrece una oración ahora, después de tu tiempo de reflexión. Podrías orar por comprensión. Ofrece una oración de agradecimiento por lo que ha sido revelado. Ofrece a Dios lo que has encontrado dentro de tu alma. Tu oración puede ser verbal, dicha en voz alta o en silencio. Podría tomar la forma de una imagen, idea, sentimiento, una combinación de esas cosas o algo completamente distinto. Lo importante aquí es la interacción amorosa con Dios.
+Jesús nos enseñó que una oración eficaz es aquella que no es sólo para nosotros mismos. Es aquel que está lleno de fe, es sincero, inteligente y confiado (<a id="a85_155"></a>[LU 144:3.8](/es/The_Urantia_Book/144#p3_8)). Ofrece una oración ahora, después de tu tiempo de reflexión. Podrías orar por comprensión. Ofrece una oración de agradecimiento por lo que ha sido revelado. Ofrece a Dios lo que has encontrado dentro de tu alma. Tu oración puede ser verbal, dicha en voz alta o en silencio. Podría tomar la forma de una imagen, idea, sentimiento, una combinación de esas cosas o algo completamente distinto. Lo importante aquí es la interacción amorosa con Dios.
 
 ## Etapa 4 — Contemplación (comtemplaio)
 
 Cuando hayas terminado de orar, entra en unión con Dios. Siéntate en silencio, simplemente descansando en la presencia de Dios, hasta que el Espíritu te lleve a detenerte. Deja ir tus propias ideas, palabras y pensamientos durante este tiempo, sin importar cuán espirituales creas que son. Escucha a Dios en el nivel más profundo de tu ser y permítete ser transformado desde dentro.
 
-«_Puedes predicar una religión acerca de Jesús, pero, por fuerza, debes vivir la religión de Jesús._» ([LU 196:2.1](/es/The_Urantia_Book/196#p2_1)) Ninguna práctica está completa si no avanzamos viviendo lo que hemos aprendido, compartiendo los frutos de nuestra relación con Dios, e incorporar las enseñanzas espirituales de Jesús en nuestra vida diaria. Esta es una parte crucial de cualquier esfuerzo espiritual.
+«_Puedes predicar una religión acerca de Jesús, pero, por fuerza, debes vivir la religión de Jesús._» (<a id="a91_103"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1)) Ninguna práctica está completa si no avanzamos viviendo lo que hemos aprendido, compartiendo los frutos de nuestra relación con Dios, e incorporar las enseñanzas espirituales de Jesús en nuestra vida diaria. Esta es una parte crucial de cualquier esfuerzo espiritual.
 
 ## Conclusión
 
 Como comunidad religiosa recién formada, creo que _The Spiritual Fellowship_ debería incluir la consideración de la práctica espiritual como una parte crítica de una discusión continua sobre un simbolismo religioso nuevo y apropiado y como un método potencialmente poderoso en el desarrollo de la vida espiritual interior de un individuo.. Las prácticas existentes, o alguna forma modificada de ellas, así como las nuevas prácticas, tienen un lugar en nuestra comunidad espiritual en desarrollo.
 
-La lectio divina es una de esas prácticas existentes que sin duda es relevante para nosotros hoy. Es una experiencia de ritmos sagrados y espirituales, un reflujo y un flujo de la actividad a la receptividad, de regreso a la actividad. La lectio divina puede ser transformadora, porque el Apocalipsis nos enseña que la oración es esa parte del plan divino para transformar lo que es en lo que debe ser ([LU 144:4.9](/es/The_Urantia_Book/144#p4_9)). Si la lectio divina resuena contigo, sé regular y persistente en la práctica, así como nuestro amado Soberano nos anima a ser persistentes en la oración, no para ganar el favor de Dios, sino para cambiar nuestra actitud y ampliar la capacidad de nuestra alma para la receptividad espiritual ([LU 144:2.5](/es/The_Urantia_Book/144#p2_5)).
+La lectio divina es una de esas prácticas existentes que sin duda es relevante para nosotros hoy. Es una experiencia de ritmos sagrados y espirituales, un reflujo y un flujo de la actividad a la receptividad, de regreso a la actividad. La lectio divina puede ser transformadora, porque el Apocalipsis nos enseña que la oración es esa parte del plan divino para transformar lo que es en lo que debe ser (<a id="a97_403"></a>[LU 144:4.9](/es/The_Urantia_Book/144#p4_9)). Si la lectio divina resuena contigo, sé regular y persistente en la práctica, así como nuestro amado Soberano nos anima a ser persistentes en la oración, no para ganar el favor de Dios, sino para cambiar nuestra actitud y ampliar la capacidad de nuestra alma para la receptividad espiritual (<a id="a97_741"></a>[LU 144:2.5](/es/The_Urantia_Book/144#p2_5)).
 
 > _Nancy Long ha sido estudiante de_ El Libro de Urantia _durante más de veinte años. Actualmente se desempeña como Directora Ejecutiva interina de The Spiritual Fellowship y se está preparando para el ministerio TSF. La práctica espiritual es un tema cercano y querido para su corazón. Ella te invita a compartir con ella tus experiencias y pensamientos sobre la práctica espiritual. Puede comunicarse con ella en nlong@thespiritualfellowship.org._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Técnica de enseñanza de confrontación de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="pr-2">Una historia de dos Orvontons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

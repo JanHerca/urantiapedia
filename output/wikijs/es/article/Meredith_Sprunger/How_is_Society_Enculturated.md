@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desafío ecuménico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="pr-2">Los comienzos de la semilla de mostaza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Probablemente la principal preocupación de los dedicados estudiantes de los Documentos de Urantia sea cómo compartir eficazmente la iluminación espiritual y la sabiduría suprema de la Quinta Revelación de Época con la gente del mundo. En resumen, ¿cuál es el método más eficaz para inculturar al mundo con la visión espiritual ampliada del Libro de Urantia?
@@ -24,3 +48,28 @@ Durante los últimos diez o veinte años, en muchos grupos de estudio y sociedad
 
 La pregunta básica sigue siendo: ¿Cómo enculturará a la sociedad el paradigma de espiritualidad de los Documentos de Urantia? A mi juicio, esto sólo ocurrirá mediante la institucionalización de sus enseñanzas. Si esto es correcto, actualmente deberíamos estar difundiendo la visión de _El Libro de Urantia_ a través de diversos medios de comunicación, debate público y la formación de grupos de estudio. Y al mismo tiempo debemos comprometernos en la preparación para la formación de grupos o instituciones religiosas mediante la promoción de discusiones teológicas, filosóficas y políticas relacionadas con un simbolismo apropiado y una expresión socioreligiosa de la Quinta Revelación de Época.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desafío ecuménico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="pr-2">Los comienzos de la semilla de mostaza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

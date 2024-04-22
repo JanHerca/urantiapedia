@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Larry Mullins<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Podemos, deberíamos, organizarnos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="pr-2">El estado del Movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Jardín del Edén fascina a un gran número de urantianos. Desde mi propia perspectiva, teniendo en mi juventud mucha menos formación religiosa que la mayoría de la gente, la historia del Jardín era relativamente poco interesante. Esto ha cambiado en los últimos meses. Un amigo y compañero urantiano, Behzad Sarmast, comenzó a contarnos apasionadamente a Joan y a mí sobre sus investigaciones y descubrimientos sobre las leyendas y mitos que tienen sus raíces en la verdadera historia urantiana del Jardín. Reveló algunas cosas sorprendentes. Prácticamente todas las civilizaciones tienen una versión de la historia del Jardín, con hilos que se remontan al pasado lejano y luego parecen desvanecerse y desaparecer. Los paralelos entre estas leyendas son asombrosos.
@@ -31,7 +55,32 @@ Sin embargo, no he estado ni cerca de utilizar gran parte de la información con
 
 > _Los Documentos de Urantia llevan el concepto de valores más allá de los parámetros comunes del pensamiento filosófico. Hay tanta información allí, y está tan condensada, que una sola vida no podría comenzar a explorarla._
 
-Consideremos que David Zebadee fue el primer Internet espiritual. ¿Cómo podemos ampliar su noble servicio en estos días de agitación y confusión? El componente femenino de Dios puede interesarte: ¿cómo se puede presentar ese factor en beneficio de las mujeres jóvenes del Movimiento Urantia? ¡Imagínese el gran servicio que sería si pudiera traducir los Documentos de Rodán en una filosofía moderna de vida práctica! Cualesquiera que sean las partes de los documentos que sean de especial interés para usted, piense en formas de presentarlas en un esfuerzo de divulgación original y creativo. «La religión del espíritu os deja eternamente libres para seguir la verdad, dondequiera que os lleven las directrices del espíritu. ¿Y quién puede juzgar —quizás este espíritu tenga algo que comunicar a esta generación, que las otras generaciones han rehusado escuchar?» ([LU 155:6.5](/es/The_Urantia_Book/155#p6_5))
+Consideremos que David Zebadee fue el primer Internet espiritual. ¿Cómo podemos ampliar su noble servicio en estos días de agitación y confusión? El componente femenino de Dios puede interesarte: ¿cómo se puede presentar ese factor en beneficio de las mujeres jóvenes del Movimiento Urantia? ¡Imagínese el gran servicio que sería si pudiera traducir los Documentos de Rodán en una filosofía moderna de vida práctica! Cualesquiera que sean las partes de los documentos que sean de especial interés para usted, piense en formas de presentarlas en un esfuerzo de divulgación original y creativo. «La religión del espíritu os deja eternamente libres para seguir la verdad, dondequiera que os lleven las directrices del espíritu. ¿Y quién puede juzgar —quizás este espíritu tenga algo que comunicar a esta generación, que las otras generaciones han rehusado escuchar?» (<a id="a57_865"></a>[LU 155:6.5](/es/The_Urantia_Book/155#p6_5))
 
 Muchos urantianos pueden responder a esta pregunta: «¿Quién, yo?» A Abraham Maslow le gustaba desafiar a sus clases universitarias diciendo: «¿Quién en esta sala será el próximo gran líder, escritor, científico, artista o poeta?» Después de unos momentos de silencio embarazoso, sin más sonido que algunas risitas ahogadas, preguntaba: «Si no eres tú, ¿entonces quién?»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Podemos, deberíamos, organizarnos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="pr-2">El estado del Movimiento Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

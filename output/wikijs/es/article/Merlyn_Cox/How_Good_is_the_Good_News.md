@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Future_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro de la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/My_Lifes_Most_Significant_Spiritual_Event">
+          <span class="pr-2">El acontecimiento espiritual más significativo de mi vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A menudo se ha dicho que la razón por la que muchas personas tienen problemas para creer las Buenas Nuevas es que son demasiado buenas para ser verdad. La idea de la encarnación divina, de Dios revelándose en forma humana, todavía parece demasiado íntima, demasiado buena, para ser del todo creíble. La enseñanza de Jesús sobre la relación del Creador con sus criaturas como la de un padre infinitamente sabio y amoroso parece a muchos una proyección de deseos. Jesús, sin duda, fue un hombre bueno y grande, incluso heroico; pero seguramente no puede ser todo lo que la iglesia ha pretendido que sea. Una vez más, eso sería simplemente demasiado para creer, demasiado bueno para ser verdad.
@@ -21,7 +45,7 @@ Conozco pastores que evitan usar el evangelio de Juan debido a la aparente inmod
 
 > _El Libro de Urantia ofrece una imagen de las naturalezas divina y humana integradas de Jesús que, si bien aún está más allá de toda explicación, es razonable y profundamente tranquilizadora._
 
-_El Libro de Urantia_ ofrece una imagen de las naturalezas divina y humana integradas de Jesús que, si bien aún está más allá de toda explicación, es razonable y profundamente tranquilizadora. Se afirma sin concesiones la afirmación cristiana clásica sobre la humanidad y la divinidad de Jesús, tanto sobre su preexistencia como sobre su plena humanidad terrenal. El libro refleja y amplifica la verdad del testimonio de Juan y además nos dice, como Jesús dijo a quienes cuestionaron su afirmación: «Yo soy todo lo que decís, pero más». ([LU 153:2.11](/es/The_Urantia_Book/153#p2_11))
+_El Libro de Urantia_ ofrece una imagen de las naturalezas divina y humana integradas de Jesús que, si bien aún está más allá de toda explicación, es razonable y profundamente tranquilizadora. Se afirma sin concesiones la afirmación cristiana clásica sobre la humanidad y la divinidad de Jesús, tanto sobre su preexistencia como sobre su plena humanidad terrenal. El libro refleja y amplifica la verdad del testimonio de Juan y además nos dice, como Jesús dijo a quienes cuestionaron su afirmación: «Yo soy todo lo que decís, pero más». (<a id="a47_538"></a>[LU 153:2.11](/es/The_Urantia_Book/153#p2_11))
 
 De hecho, en _El Libro de Urantia_, Jesús no sólo es más de lo que nos hubiéramos atrevido a creer, sino que la Realidad misma es mucho más llena de gracia, inteligencia y propósito de lo que habíamos imaginado, o incluso éramos capaces de imaginar. «Lo que el ojo no vio, ni el oído oyó, ni el corazón del hombre concibió…» se ilustra hecho tras hecho y capa tras capa de conocimiento integrado en un todo coherente y comprensible.
 
@@ -31,5 +55,30 @@ Al leer muchas de las descripciones de nuevas teorías científicas, uno encuent
 
 Muchos estudiantes serios de _El Libro de Urantia_ se sienten al principio intrigados y luego asombrados por la elegante integración de las realidades teológicas, filosóficas y científicas. A pesar de todos los aspectos complejos de la realidad tratados en sus 2.000 páginas, emerge una armonía que es convincente, sobrecogedora y profundamente hermosa. En _El Libro de Urantia_ las Buenas Nuevas son ciertamente incluso mejores de lo que esperábamos. De hecho, muchos han encontrado que el Libro de Urantia es demasiado bueno y demasiado hermoso para ser verdad.
 
-> ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.» ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.» (<a id="a57_487"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Future_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro de la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/My_Lifes_Most_Significant_Spiritual_Event">
+          <span class="pr-2">El acontecimiento espiritual más significativo de mi vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Larry Mullins<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Ordination_at_Boulder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ordenación en Boulder... Un día para recordar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Mix_of_Joy_and_Discouragement">
+          <span class="pr-2">Interfaz: La mezcla de alegría y desaliento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Es bastante difícil pensar en Peggy Johnson sin pensar también en su marido durante 51 años, Dick. Siempre estaban juntos, o eso parecía, en las conferencias y actividades de Urantia. Peggy se embarcó en la gran aventura del universo el 23 de febrero de 2002. Su graduación de Urantia se celebró el día de San Patricio, el 17 de marzo, en la casa de los Johnson en Phoenix, Arizona. Hubo comida compartida, canciones y ceremonia para despedirse de ella.
@@ -21,3 +45,28 @@ La edición de primavera de The Servant, el boletín de la Grand Canyon Society,
 
 «Peggy será profundamente extrañada en la vida de muchos. Las palabras no pueden comenzar a expresar lo maravillosa y generosa que era. Ella fue una inspiración tanto para amigos como para familiares. Los años pasarán ahora lentamente para quienes lamentan su pérdida. Esperamos verla en los mundos mansión de nuestro padre».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Ordination_at_Boulder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ordenación en Boulder... Un día para recordar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Mix_of_Joy_and_Discouragement">
+          <span class="pr-2">Interfaz: La mezcla de alegría y desaliento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

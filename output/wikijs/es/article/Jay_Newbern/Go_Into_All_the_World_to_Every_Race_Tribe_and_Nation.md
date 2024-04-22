@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jay Newbern<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Our_Subliminal_Mentor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro mentor subliminal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Marks/Do_This_in_Remembrance_of_Me">
+          <span class="pr-2">Haced esto en memoria de mí</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hoy en Urantia, según las Naciones Unidas, 5 mil millones de personas saben leer y escribir; esto es más del 83% del total de 6 mil millones. No hubo alfabetización masiva hasta después del desarrollo de la imprenta a mediados del siglo XV. Actualmente hay 31 idiomas principales en el mundo y cada uno de ellos cuenta con 36 millones de hablantes o más. _El Libro de Urantia_ se publica ahora en cinco de estos idiomas (inglés, español, ruso, francés y coreano) y se está traduciendo a otros siete idiomas principales: chino mandarín, árabe, portugués, alemán, tamil, italiano y farsi.
@@ -54,9 +78,9 @@ Población de hablantes en millones
 
 ## La importancia del lenguaje
 
-El lenguaje escrito en este planeta apareció por primera vez hace 5200 años cuando los sumerios inventaron la escritura inicial. Usando un lápiz de caña, este pueblo de Medio Oriente creó imágenes de fichas para contar productos en tabletas de arcilla húmeda. «Ningún otro invento (tal vez sólo la rueda se le acerca) ha tenido un impacto mayor y más prolongado. La escritura ayudó a preservar las tres principales religiones monoteístas, a cuyos creyentes el Corán se refiere como «el Pueblo del Libro».[^1] «El lenguaje es la herramienta de pensamiento más grande y útil del hombre...» ([LU 81:6.17](/es/The_Urantia_Book/81#p6_17))
+El lenguaje escrito en este planeta apareció por primera vez hace 5200 años cuando los sumerios inventaron la escritura inicial. Usando un lápiz de caña, este pueblo de Medio Oriente creó imágenes de fichas para contar productos en tabletas de arcilla húmeda. «Ningún otro invento (tal vez sólo la rueda se le acerca) ha tenido un impacto mayor y más prolongado. La escritura ayudó a preservar las tres principales religiones monoteístas, a cuyos creyentes el Corán se refiere como «el Pueblo del Libro».[^1] «El lenguaje es la herramienta de pensamiento más grande y útil del hombre...» (<a id="a80_589"></a>[LU 81:6.17](/es/The_Urantia_Book/81#p6_17))
 
-Los sumerios tuvieron su origen hace 200.000 años tras el hundimiento de Dalamatia (Primera Revelación de Época) cuyo alfabeto perdieron; Adoptaron un peculiar sistema de escritura originario de Dilmun. «La lengua sumeria, aunque prácticamente perdida para el mundo, no era semítica; tenía mucho en común con las llamadas lenguas arias». ([LU 77:4.7](/es/The_Urantia_Book/77#p4_7)) Sus tablillas de arcilla hablan del primer y segundo Edén, pero estaban confundidos acerca de Dalamatia. Eran en su mayoría de extracción andita, aunque su cultura era más de carácter nodita. «Hacia el año 5000 a.C. las tres líneas más puras de los descendientes de Adán estaban en Sumeria, el norte de Europa y Grecia». ([LU 80:7.9](/es/The_Urantia_Book/80#p7_9)) El arte de la escritura y su alfabeto fueron importados de las ciudades sumerias del Golfo Pérsico por los dravidianos, que eran marinos y comerciantes.
+Los sumerios tuvieron su origen hace 200.000 años tras el hundimiento de Dalamatia (Primera Revelación de Época) cuyo alfabeto perdieron; Adoptaron un peculiar sistema de escritura originario de Dilmun. «La lengua sumeria, aunque prácticamente perdida para el mundo, no era semítica; tenía mucho en común con las llamadas lenguas arias». (<a id="a82_339"></a>[LU 77:4.7](/es/The_Urantia_Book/77#p4_7)) Sus tablillas de arcilla hablan del primer y segundo Edén, pero estaban confundidos acerca de Dalamatia. Eran en su mayoría de extracción andita, aunque su cultura era más de carácter nodita. «Hacia el año 5000 a.C. las tres líneas más puras de los descendientes de Adán estaban en Sumeria, el norte de Europa y Grecia». (<a id="a82_704"></a>[LU 80:7.9](/es/The_Urantia_Book/80#p7_9)) El arte de la escritura y su alfabeto fueron importados de las ciudades sumerias del Golfo Pérsico por los dravidianos, que eran marinos y comerciantes.
 
 > _Actualmente hay 31 idiomas principales en el mundo, cada uno de los cuales cuenta con 36 millones de hablantes o más._ El Libro de Urantia _se publica ahora en cinco de estos idiomas (inglés, español, ruso, francés y coreano) y se está traduciendo a otros siete. Idiomas principales: chino mandarín, árabe, portugués, alemán, tamil, italiano y farsi._
 
@@ -70,7 +94,7 @@ Nuestro idioma inglés, el más complejo del planeta con más de 600.000 palabra
 
 El alfabeto levantino original fue creado por los fenicios. Plantó las raíces de otros sistemas de escritura en el Mediterráneo oriental, incluidos el hebreo y el árabe modernos. Por ejemplo, la letra latina moderna «A» evolucionó a partir de la «aleph» fenicia y hebrea, la «alaph» aramea, la «alif» árabe y la «alpha» griega. En la historia de la humanidad se han hablado más de 10.000 lenguas, muchas de las cuales ya han desaparecido. Actualmente se hablan unos 6.000, pero es poco probable que más de la mitad de ellos sobrevivan en el siglo XXI. La mitad tiene menos de 10.000 hablantes y una cuarta parte tiene menos de 1.000.
 
-Antropóloga Luisa Moffi: «En la Biblia la multiplicidad de lenguas puede interpretarse como una maldición. Más bien, se ha sugerido que es una salvaguardia para que no tengamos los mismos puntos ciegos culturales. El pueblo Acoma Pueblo dice que la diosa Iatiku creó diferentes idiomas para que a los humanos no les resulte fácil pelear». [^4] Los Documentos de Urantia no están de acuerdo. «Desde entonces, las diferencias lingüísticas han sido el gran obstáculo para la extensión de la paz. La conquista de dialectos debe preceder a la difusión de una cultura a lo largo de una raza, de un continente o de todo un mundo. Un lenguaje universal promueve la paz, asegura la cultura y aumenta la felicidad». ([LU 81:6.18](/es/The_Urantia_Book/81#p6_18))
+Antropóloga Luisa Moffi: «En la Biblia la multiplicidad de lenguas puede interpretarse como una maldición. Más bien, se ha sugerido que es una salvaguardia para que no tengamos los mismos puntos ciegos culturales. El pueblo Acoma Pueblo dice que la diosa Iatiku creó diferentes idiomas para que a los humanos no les resulte fácil pelear». [^4] Los Documentos de Urantia no están de acuerdo. «Desde entonces, las diferencias lingüísticas han sido el gran obstáculo para la extensión de la paz. La conquista de dialectos debe preceder a la difusión de una cultura a lo largo de una raza, de un continente o de todo un mundo. Un lenguaje universal promueve la paz, asegura la cultura y aumenta la felicidad». (<a id="a96_707"></a>[LU 81:6.18](/es/The_Urantia_Book/81#p6_18))
 
 ## Problemas planetarios
 
@@ -90,6 +114,31 @@ Al recorrer todo el mundo, a cada raza, tribu y nación, ¿puede haber alguna du
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Our_Subliminal_Mentor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro mentor subliminal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Marks/Do_This_in_Remembrance_of_Me">
+          <span class="pr-2">Haced esto en memoria de mí</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

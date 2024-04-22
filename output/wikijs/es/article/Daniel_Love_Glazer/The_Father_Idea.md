@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Daniel Love Glazer<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i> </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Non_Historical_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: El Jesús no histórico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Historicity_of_UB">
+          <span class="pr-2">La historicidad del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una respuesta a: «_El libro de Urantia_ y el lenguaje sexista», por Judith L. Mace
@@ -52,22 +76,22 @@ Los colaboradores de estas antologías señalan que Jesús, «el autor y consuma
 
 Pero se puede decir que los autores representados en estas antologías presumiblemente escriben sin ningún conocimiento o aceptación del Libro de Urantia. Si aceptamos la lectura de Judith Mace, _El Libro de Urantia_, a pesar de estar «cargado de lenguaje sexista», contiene los principios que apoyan el desarrollo de un lenguaje nuevo e «inclusivo».
 
-Pero la lectura de Mace está muy sesgada. Por ejemplo, sostiene que «los autores probablemente sabían de la inminente evolución social que se alejaría del lenguaje patriarcal; sin duda, lo esperaban». Esto es pura especulación y proyección de su parte. Para respaldarlo, cita la declaración del libro de que necesariamente contiene errores en «las cosmologías asociadas allí presentadas» ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) [énfasis agregado], como si las cosmologías se refirieran a un «lenguaje sexista».
+Pero la lectura de Mace está muy sesgada. Por ejemplo, sostiene que «los autores probablemente sabían de la inminente evolución social que se alejaría del lenguaje patriarcal; sin duda, lo esperaban». Esto es pura especulación y proyección de su parte. Para respaldarlo, cita la declaración del libro de que necesariamente contiene errores en «las cosmologías asociadas allí presentadas» (<a id="a78_389"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) [énfasis agregado], como si las cosmologías se refirieran a un «lenguaje sexista».
 
-Más adelante pretende citar _El Libro de Urantia_ cuando dice: «Ningún lenguaje puede considerarse universal y útil a menos que incluya o no incluya el género». Pero el pasaje al que se hace referencia en realidad no dice nada sobre el género; más bien, se refiere simplemente a «La conquista de los dialectos: el triunfo de una lengua universal». ([LU 71:8.12-14](/es/The_Urantia_Book/71#p8_12))
+Más adelante pretende citar _El Libro de Urantia_ cuando dice: «Ningún lenguaje puede considerarse universal y útil a menos que incluya o no incluya el género». Pero el pasaje al que se hace referencia en realidad no dice nada sobre el género; más bien, se refiere simplemente a «La conquista de los dialectos: el triunfo de una lengua universal». (<a id="a80_349"></a>[LU 71:8.12-14](/es/The_Urantia_Book/71#p8_12))
 
 Mace señala, con aprobación, la sección uno del primer documento en la que se dan muchos nombres para Dios el Padre y se nos dice que «La Primera Fuente y Centro del Universo nunca se ha revelado por su nombre, sólo por naturaleza». Pero pasa por alto otras declaraciones en la misma sección que respaldan el nombre «Padre». Aquí hay dos:
 
 - «Si creemos que somos hijos de este Creador, es natural que eventualmente lo llamemos Padre».
 - «En un planeta de criaturas sexuales, en un mundo donde los impulsos de la emoción parental son inherentes al corazón de su ser inteligente, el término Padre se convierte en un nombre muy expresivo y apropiado para el Dios eterno.»
 
-Mace parece complacida en mencionar que _El Libro de Urantia_ afirma que «Jesús trató de sustituir el reino por muchos términos, pero siempre sin éxito». Bajo la aparente impresión de que ayuda a su caso, continúa citando este párrafo: «Entre otros usó: la familia de Dios, la voluntad del Padre, los amigos de Dios, la comunidad de los creyentes, la fraternidad de los hombres, el redil del Padre, los hijos de Dios, la comunidad de los fieles, el servicio del Padre, y los hijos liberados de Dios». ([LU 170:2.24](/es/The_Urantia_Book/170#p2_24)) Aunque cita este pasaje completo, no destaca el significado de que «reino» sea la palabra que Jesús buscó reemplazar. No se considera que el uso de Padre y el uso genérico de hermandad, hombre e hijos presenten un problema.
+Mace parece complacida en mencionar que _El Libro de Urantia_ afirma que «Jesús trató de sustituir el reino por muchos términos, pero siempre sin éxito». Bajo la aparente impresión de que ayuda a su caso, continúa citando este párrafo: «Entre otros usó: la familia de Dios, la voluntad del Padre, los amigos de Dios, la comunidad de los creyentes, la fraternidad de los hombres, el redil del Padre, los hijos de Dios, la comunidad de los fieles, el servicio del Padre, y los hijos liberados de Dios». (<a id="a87_502"></a>[LU 170:2.24](/es/The_Urantia_Book/170#p2_24)) Aunque cita este pasaje completo, no destaca el significado de que «reino» sea la palabra que Jesús buscó reemplazar. No se considera que el uso de Padre y el uso genérico de hermandad, hombre e hijos presenten un problema.
 
-Mace luego hace una afirmación sorprendente. «En la última frase de _El Libro de Urantia_, los autores escriben que en aquel momento el concepto del Padre era la imagen más elevada disponible para describirnos a Dios... En los más de sesenta años transcurridos desde que se transmitió el libro, se han producido cambios radicales en nuestra cultura y uno puede sugerir justificadamente que los autores ahora podrían elegir otro concepto». ¡Vaya! ¿Qué dice realmente la última frase de El Libro de Urantia? «**Cuando todo está dicho y hecho, la idea del Padre sigue siendo el concepto humano más elevado de Dios.**» ([LU 196:3.35](/es/The_Urantia_Book/196#p3_35)) Esto es muy diferente de lo que informa Mace. La frase «Cuando todo esté dicho y hecho» significa cuando se ha dicho todo lo que se puede decir, no simplemente cuando consideramos lo que está disponible en este momento.
+Mace luego hace una afirmación sorprendente. «En la última frase de _El Libro de Urantia_, los autores escriben que en aquel momento el concepto del Padre era la imagen más elevada disponible para describirnos a Dios... En los más de sesenta años transcurridos desde que se transmitió el libro, se han producido cambios radicales en nuestra cultura y uno puede sugerir justificadamente que los autores ahora podrían elegir otro concepto». ¡Vaya! ¿Qué dice realmente la última frase de El Libro de Urantia? «**Cuando todo está dicho y hecho, la idea del Padre sigue siendo el concepto humano más elevado de Dios.**» (<a id="a89_616"></a>[LU 196:3.35](/es/The_Urantia_Book/196#p3_35)) Esto es muy diferente de lo que informa Mace. La frase «Cuando todo esté dicho y hecho» significa cuando se ha dicho todo lo que se puede decir, no simplemente cuando consideramos lo que está disponible en este momento.
 
-De hecho, otros conceptos humanos ciertamente estaban disponibles para los autores del libro, cuyo mandato es «dar preferencia a los conceptos humanos más elevados existentes relacionados con los temas a presentar» y quienes «pueden recurrir a la revelación pura sólo cuando el concepto de presentación ha sido completado». no tuvo una expresión previa adecuada por parte de la mente humana». ([LU 0:12.11](/es/The_Urantia_Book/0#p12_11)) En la edición de primavera de 1993 de _The Spiritual Fellowship Journal_, Matthew Block informa sobre su descubrimiento de una serie de obras publicadas que evidentemente sirvieron como material fuente para _El libro de Urantia_. Block ha observado que los autores del libro se apropian magistralmente del material de estas obras, utilizando ideas y expresiones que encajan en la estructura y los conceptos del libro, mientras editan y mejoran libremente pasajes que no se ajustan al mensaje del libro.
+De hecho, otros conceptos humanos ciertamente estaban disponibles para los autores del libro, cuyo mandato es «dar preferencia a los conceptos humanos más elevados existentes relacionados con los temas a presentar» y quienes «pueden recurrir a la revelación pura sólo cuando el concepto de presentación ha sido completado». no tuvo una expresión previa adecuada por parte de la mente humana». (<a id="a91_394"></a>[LU 0:12.11](/es/The_Urantia_Book/0#p12_11)) En la edición de primavera de 1993 de _The Spiritual Fellowship Journal_, Matthew Block informa sobre su descubrimiento de una serie de obras publicadas que evidentemente sirvieron como material fuente para _El libro de Urantia_. Block ha observado que los autores del libro se apropian magistralmente del material de estas obras, utilizando ideas y expresiones que encajan en la estructura y los conceptos del libro, mientras editan y mejoran libremente pasajes que no se ajustan al mensaje del libro.
 
-Block ha encontrado recientemente el libro The Enduring Quest: A Search for a Philosophy of Life, de H. A. Overstreet (Nueva York: W. W. Norton, 1931). Block ha identificado numerosos pasajes en este libro que tienen claramente un paralelo en el lenguaje y el pensamiento de _El Libro de Urantia_. En un capítulo titulado «Dios y el hombre moderno» hay varios pasajes que parecen encontrar ecos claros en las páginas finales de _El Libro de Urantia_. Entre ellas se encuentran las fuentes aparentes de «El hombre mortal tiene un núcleo espiritual» ([LU 12:9.6](/es/The_Urantia_Book/12#p9_6)) (Overstreet lo expresa: «Lo más característico de [el hombre] es que está, por así decirlo, nucleado. [^5]  ), y «Toda la fantasía del hombre sobre el universo puede no ser un hecho, pero una parte, una gran parte es verdad.». ([LU 196:3.31](/es/The_Urantia_Book/196#p3_31)) (Cf. Overstreet sobre «La verdad del romance del hombre», p. 208).
+Block ha encontrado recientemente el libro The Enduring Quest: A Search for a Philosophy of Life, de H. A. Overstreet (Nueva York: W. W. Norton, 1931). Block ha identificado numerosos pasajes en este libro que tienen claramente un paralelo en el lenguaje y el pensamiento de _El Libro de Urantia_. En un capítulo titulado «Dios y el hombre moderno» hay varios pasajes que parecen encontrar ecos claros en las páginas finales de _El Libro de Urantia_. Entre ellas se encuentran las fuentes aparentes de «El hombre mortal tiene un núcleo espiritual» (<a id="a93_549"></a>[LU 12:9.6](/es/The_Urantia_Book/12#p9_6)) (Overstreet lo expresa: «Lo más característico de [el hombre] es que está, por así decirlo, nucleado. [^5]  ), y «Toda la fantasía del hombre sobre el universo puede no ser un hecho, pero una parte, una gran parte es verdad.». (<a id="a93_820"></a>[LU 196:3.31](/es/The_Urantia_Book/196#p3_31)) (Cf. Overstreet sobre «La verdad del romance del hombre», p. 208).
 
 En un capítulo de The Enduring Quest llamado «Dios y el hombre moderno» hay varios pasajes que parecen encontrar ecos claros en las páginas finales de _El Libro de Urantia_. Junto a los pasajes que aparentemente contaron con la aprobación de los autores de _El Libro de Urantia_, encontramos los siguientes:
 
@@ -81,14 +105,14 @@ Mace parece tan decidida a actualizar _El Libro de Urantia_ con sus propias noci
 
 - Consideremos esta caracterización del Hijo Eterno: «En el mismo sentido que Dios es el Padre Universal, el Hijo es la Madre Universal». (pág. 79)
 - Y en la página 1289, se nos dice: «Todos los humanos en evolución del alma son literalmente hijos evolutivos de Dios Padre y Dios Madre, el Ser Supremo».
-- Luego está el «Espíritu Materno del universo local». ([LU 17:6.2](/es/The_Urantia_Book/17#p6_2))
-- Finalmente, una de las «oraciones parábolas» que Jesús compartió con sus apóstoles contiene el saludo: «Padre y Madre gloriosos en un solo padre combinados». ([LU 144:5.55](/es/The_Urantia_Book/144#p5_55))
+- Luego está el «Espíritu Materno del universo local». (<a id="a107_56"></a>[LU 17:6.2](/es/The_Urantia_Book/17#p6_2))
+- Finalmente, una de las «oraciones parábolas» que Jesús compartió con sus apóstoles contiene el saludo: «Padre y Madre gloriosos en un solo padre combinados». (<a id="a108_161"></a>[LU 144:5.55](/es/The_Urantia_Book/144#p5_55))
 
 Estos pasajes, y otros similares, demuestran que _El Libro de Urantia_ sí indica que lo que podríamos llamar la idea de «Dios Madre» tiene un lugar legítimo. Al mismo tiempo, el testimonio abrumador de la revelación de Urantia es que, en lo que respecta a la primera Persona de la Trinidad, «Padre» es el nombre más apropiado en nuestro marco de referencia del universo mortal. De los muchos pasajes de apoyo que podría citar, me contentaré con el siguiente, escrito por un Consejero Divino:
 
-> En Dios Padre, las acciones de su libre albedrío no están dirigidas por el poder ni guiadas por el solo intelecto; la personalidad divina se puede definir como que consiste en un espíritu y se manifiesta a los universos como amor. Por eso, en todas sus relaciones personales con las personalidades de las criaturas de los universos, la Fuente-Centro Primera es siempre y consecuentemente un Padre amoroso. Dios es un Padre en el sentido más elevado del término. Está eternamente motivado por el idealismo perfecto del amor divino, y esta tierna naturaleza encuentra su expresión más poderosa y su mayor satisfacción en el hecho de amar y ser amado. ([LU 4:4.6](/es/The_Urantia_Book/4#p4_6))
+> En Dios Padre, las acciones de su libre albedrío no están dirigidas por el poder ni guiadas por el solo intelecto; la personalidad divina se puede definir como que consiste en un espíritu y se manifiesta a los universos como amor. Por eso, en todas sus relaciones personales con las personalidades de las criaturas de los universos, la Fuente-Centro Primera es siempre y consecuentemente un Padre amoroso. Dios es un Padre en el sentido más elevado del término. Está eternamente motivado por el idealismo perfecto del amor divino, y esta tierna naturaleza encuentra su expresión más poderosa y su mayor satisfacción en el hecho de amar y ser amado. (<a id="a112_652"></a>[LU 4:4.6](/es/The_Urantia_Book/4#p4_6))
 
-Nosotros, que aceptamos _El Libro de Urantia_ como una revelación de época de la verdad divina, debemos tener en cuenta que los Consejeros Divinos son seres de origen trinitario que «son la perfección del consejo divino de la Trinidad del Paraíso». Ellos «representan, de hecho _son_ el consejo de la perfección». ([LU 19:3.6](/es/The_Urantia_Book/19#p3_6)) [énfasis en el original]
+Nosotros, que aceptamos _El Libro de Urantia_ como una revelación de época de la verdad divina, debemos tener en cuenta que los Consejeros Divinos son seres de origen trinitario que «son la perfección del consejo divino de la Trinidad del Paraíso». Ellos «representan, de hecho _son_ el consejo de la perfección». (<a id="a114_315"></a>[LU 19:3.6](/es/The_Urantia_Book/19#p3_6)) [énfasis en el original]
 
 ## El conflicto contemporáneo
 
@@ -130,6 +154,31 @@ Un efecto seguro de sucumbir a la presión para efectuar una revisión total del
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Non_Historical_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: El Jesús no histórico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Historicity_of_UB">
+          <span class="pr-2">La historicidad del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

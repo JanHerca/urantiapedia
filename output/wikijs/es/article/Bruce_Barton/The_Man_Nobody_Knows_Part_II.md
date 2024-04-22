@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Bruce Barton<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/JioLin_Johnson/God_within_Our_Daily_Life_and_our_Eternity_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios en nuestra vida diaria y nuestra aventura en la eternidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _«El hombre que nadie conoce... un descubrimiento del verdadero Jesús» fue escrito por Bruce Barton, quien (lo descubriría muchos años después) era un famoso publicista. Este libro causó una gran impresión en mi mente joven. De alguna manera conservé Como urantiano, muchos años después, me sorprende lo cerca que estuvo Bruce Barton en 1924 de describir lo que creo que era el verdadero Jesús. Gracias a los muchos urantianos que han expresado su interés en este trabajo._
@@ -213,9 +234,31 @@ _En los Documentos de Urantia, el relato de Nalda se cuenta con gran profundidad
 > 
 > Jesús percibió la tentativa del alma de la mujer por evitar un contacto directo y escrutador con su Hacedor, pero también vio que en su alma estaba presente el deseo de conocer la mejor manera de vivir. Después de todo, en el corazón de Nalda había una verdadera sed de agua viva; la trató pues con paciencia, diciéndole: «Mujer, déjame decirte que se acerca el día en que no adorarás al Padre ni en esta montaña ni en Jerusalén. ... Tu salvación proviene no de saber cómo deberían adorar los demás o dónde deberían hacerlo, sino de recibir en tu propio corazón este agua viva que te ofrezco en este mismo momento».
 > 
-> Pero Nalda haría un esfuerzo más por esquivar la discusión del embarazoso problema de su vida personal en la Tierra y del estado de su alma ante Dios. Una vez más recurrió a cuestiones sobre la religión en general, diciendo: «Sí, ya sé, Señor, que Juan ha predicado sobre la venida del Convertidor, aquel que será llamado el Libertador, y que cuando venga, nos proclamará todas las cosas...». y Jesús, interrumpiendo a Nalda, le dijo con una seguridad sorprendente: «Yo, que te hablo, soy esa persona». ([LU 143:5.5-7](/es/The_Urantia_Book/143#p5_5))
+> Pero Nalda haría un esfuerzo más por esquivar la discusión del embarazoso problema de su vida personal en la Tierra y del estado de su alma ante Dios. Una vez más recurrió a cuestiones sobre la religión en general, diciendo: «Sí, ya sé, Señor, que Juan ha predicado sobre la venida del Convertidor, aquel que será llamado el Libertador, y que cuando venga, nos proclamará todas las cosas...». y Jesús, interrumpiendo a Nalda, le dijo con una seguridad sorprendente: «Yo, que te hablo, soy esa persona». (<a id="a236_506"></a>[LU 143:5.5-7](/es/The_Urantia_Book/143#p5_5))
 
 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/JioLin_Johnson/God_within_Our_Daily_Life_and_our_Eternity_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios en nuestra vida diaria y nuestra aventura en la eternidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

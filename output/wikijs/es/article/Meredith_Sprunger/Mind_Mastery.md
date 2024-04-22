@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Meredith J. Sprunger<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Marks/Faith_and_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe y espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="pr-2">Salmos hoy: servicio creativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El logro más importante de la experiencia humana es el dominio de nuestra mente mediante la dirección del Espíritu que mora en nosotros. Este dominio es el factor humano clave en la iniciación y desarrollo de nuestra alma inmortal. Los Intermedios llaman la atención sobre la importancia del dominio de la mente al mencionar el dominio progresivo de Jesús de su mente humana a los 24, 26, 29 y 30 años. Este es el bien supremo y el logro culminante de la existencia humana.
@@ -27,7 +51,7 @@ Toda nuestra personalidad funciona como una unidad holística. La mente, el Ajus
 
 ## Dominio del espíritu
 
-El objetivo más creativo en la experiencia humana es dominar nuestra mente bajo la guía del Espíritu que mora en nosotros. Las metáforas pueden ser útiles para visualizar este proceso de transformación. El Espíritu es el arquitecto, la mente es el constructor, el carácter es el edificio. Dicho de otra manera: «La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán». ([LU 111:1.9](/es/The_Urantia_Book/111#p1_9)) Sólo el intelecto espiritualizado puede discernir los verdaderos valores. A medida que disciplinamos nuestra mente y controlamos nuestros pensamientos con la guía del Espíritu, nuestra conciencia se sintoniza naturalmente con los frutos del espíritu. Este autodominio nos libera gradualmente de las luchas de control negativo y de la esclavitud de la abnegación a medida que nos motivamos espontáneamente a actualizar los frutos del espíritu: «servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera». ([LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
+El objetivo más creativo en la experiencia humana es dominar nuestra mente bajo la guía del Espíritu que mora en nosotros. Las metáforas pueden ser útiles para visualizar este proceso de transformación. El Espíritu es el arquitecto, la mente es el constructor, el carácter es el edificio. Dicho de otra manera: «La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán». (<a id="a53_407"></a>[LU 111:1.9](/es/The_Urantia_Book/111#p1_9)) Sólo el intelecto espiritualizado puede discernir los verdaderos valores. A medida que disciplinamos nuestra mente y controlamos nuestros pensamientos con la guía del Espíritu, nuestra conciencia se sintoniza naturalmente con los frutos del espíritu. Este autodominio nos libera gradualmente de las luchas de control negativo y de la esclavitud de la abnegación a medida que nos motivamos espontáneamente a actualizar los frutos del espíritu: «servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera». (<a id="a53_1123"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 
 Este crecimiento es en gran medida el resultado del dominio del alma. En realidad, el alma funciona como la mente media, entre la mente material inferior y la mente cósmica superior, y aporta paz interior, alegría y la libertad del espíritu como atmósfera dominante de nuestra conciencia. A medida que maduramos espiritualmente vivimos cada vez más en nuestra alma-mente que trasciende la lucha entre la «carne y el espíritu».
 
@@ -49,3 +73,28 @@ El Dr. Dan Berger era un hemofílico grave que había contraído el SIDA a trav�
 
 El Dr. Berger determinó que él y su sentido de misión controlarían su vida, no su enfermedad. Perdió su batalla en 1996. Y el Dr. Groopman comentó: «Su espíritu, como la luz de una estrella distante, continúa iluminando mi vida, mucho después de que su fuente se haya extinguido». La comunión con Dios y la dedicación al servicio son ayudas creativas que nos ayudan a dominar nuestra mente. A medida que modelamos nuestras mentes y encontramos cada vez más nuestra identidad con nuestra alma-mente, moldeamos nuestro destino espiritual.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Marks/Faith_and_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe y espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="pr-2">Salmos hoy: servicio creativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

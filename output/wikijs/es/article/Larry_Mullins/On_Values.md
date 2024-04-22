@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Larry Mullins<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más Salmos Hoy: El Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_7">
+          <span class="pr-2">Más Salmos hoy: Realidades espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Platón observó que ideas como la verdad, la belleza y la bondad son más «reales» que el mundo material real en el que vivimos. Los filósofos modernos en general han descartado ese concepto. «Platónico» es un término que ha llegado a significar irrealmente idealista.
@@ -33,8 +57,33 @@ De hecho, los valores son más reales que la vida ordinaria, especialmente más 
 
 > He vivido casi cincuenta años y he visto la vida tal como es. Miseria, dolor, hambre: una crueldad increíble. He oído los cantos de las tabernas y los gemidos de la inmundicia de las calles. He sido soldado y he visto a mis camaradas caer en batalla o morir más lentamente bajo el látigo en África. Los he tenido en mis brazos en los momentos finales. Eran hombres que vieron la vida tal como es y, sin embargo, murieron desesperados. Ni palabras valientes, ni dichos galantes. Sólo en sus ojos había confusión y un gemido de pregunta: «¿Por qué?» No creo que preguntaran por qué morían, sino por qué habían vivido. Cuando la vida misma parece una locura, ¿quién sabe dónde está la locura? ¡Demasiada cordura puede ser locura! Renunciar a los sueños puede ser una locura. Buscar un tesoro en dónde sólo hay basura. ¡Pero lo más loco de todo es ver la vida como es y no como debería ser!
 
-Así, podemos entender la nueva y emocionante verdad que Jesús enseñó a los apóstoles, y que sólo Santiago comprendió al principio: _debían vivir la vida como si fueran embajadores de un glorioso reino terrenal de luz y vida_ ***que ya existe***. ([LU 140:8.25](/es/The_Urantia_Book/140#p8_25)) Todos los verdaderos miembros del reino de Dios deben vivir como tales nobles embajadores, porque el evangelio de Jesús nos revela que la familia espiritual del Padre se encuentra dentro del ahora eterno.
+Así, podemos entender la nueva y emocionante verdad que Jesús enseñó a los apóstoles, y que sólo Santiago comprendió al principio: _debían vivir la vida como si fueran embajadores de un glorioso reino terrenal de luz y vida_ ***que ya existe***. (<a id="a59_247"></a>[LU 140:8.25](/es/The_Urantia_Book/140#p8_25)) Todos los verdaderos miembros del reino de Dios deben vivir como tales nobles embajadores, porque el evangelio de Jesús nos revela que la familia espiritual del Padre se encuentra dentro del ahora eterno.
 
 > _Larry Mullins es consultor en publicidad y marketing. Es autor de «Gente inmadura con poder» y «Jesús: Dios y el hombre»._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más Salmos Hoy: El Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_7">
+          <span class="pr-2">Más Salmos hoy: Realidades espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

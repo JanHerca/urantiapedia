@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Meredith Sprunger<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pluralismo religioso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
+          <span class="pr-2">Un examen cuidadoso de las exenciones de responsabilidad «no inspiradas» del libro de Urantia (Parte 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Philip Jenkins, autor de _The Next Christendom: The Coming of Global Christianity_, Oxford University Press, 2002, cree que el acontecimiento más significativo y revolucionario de los últimos cien años son los cambios religiosos que han tenido lugar. En gran medida no hemos sido conscientes de la explosiva expansión del cristianismo hacia el sur en África, Asia y América Latina. Jenkins afirma que para el año 2050 sólo uno de cada cinco cristianos será blanco no latino, y el centro de gravedad del mundo cristiano se habrá desplazado firmemente hacia el hemisferio sur.
@@ -21,3 +45,28 @@ La influencia evolutiva de la Quinta Revelación de Época se integrará gradual
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pluralismo religioso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_II">
+          <span class="pr-2">Un examen cuidadoso de las exenciones de responsabilidad «no inspiradas» del libro de Urantia (Parte 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Larry Austin<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La interreligión podría iluminar el futuro de nuestro mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
+          <span class="pr-2">Estilos de redacción de los artículos de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Casi todos los que descubren la asombrosa riqueza de verdades contenidas en _El Libro de Urantia_ están muy motivados para compartir el libro con otros. Los miembros de la iglesia frecuentemente muestran el libro a su ministro con la esperanza de que él o ella descubra en sus páginas la asombrosa riqueza de conocimiento espiritual que los ha inspirado.
@@ -52,3 +76,28 @@ Una vez que nos dediquemos de todo corazón a evaluar el libro según sus mérit
 >_El reverendo Dr. Larry Austin es un ministro presbiteriano en el área de Detroit y fundador de Day Spring Ministries, que brinda servicios de consultoría, atención pastoral y educación para la iglesia.._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La interreligión podría iluminar el futuro de nuestro mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
+          <span class="pr-2">Estilos de redacción de los artículos de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

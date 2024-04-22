@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 La Fellowship Cristiana de Estudiantes de <i>El Libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Are_You_an_Unused_Urantia_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es usted un recurso Urantia no utilizado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/If_We_Build_It_Will_They_Come">
+          <span class="pr-2">Interfaz: Si la construimos, ¿vendrán?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > **(Entrevista original de John Love)**
@@ -45,5 +69,30 @@ Estoy absolutamente convencido de que todo lo que me ha sucedido desde entonces 
 
 Muchas veces me he acobardado y inevitablemente todo sale mal. Pero luego, cuando vuelvo a mi compromiso, mi vida de repente vuelve a funcionar. Hay algo de milagroso en eso.
 
-> _La mayoría de los fenómenos espectaculares relacionados con las conversiones llamadas religiosas son de naturaleza totalmente psicológica, pero de vez en cuando se producen experiencias que tienen también un origen espiritual. Cuando la movilización mental es absolutamente total en un nivel cualquiera de la expansión psíquica hacia la consecución espiritual, cuando las motivaciones humanas de lealtad a la idea divina son perfectas, entonces se produce con mucha frecuencia un descenso repentino del espíritu interior para sincronizarse con el objetivo concentrado y consagrado de la mente superconsciente del mortal creyente. Estas experiencias de unificación de los fenómenos intelectuales y espirituales son las que constituyen la conversión, la cual consiste en unos factores que sobrepasan las implicaciones puramente psicológicas._ ([LU 100:5.4](/es/The_Urantia_Book/100#p5_4))
+> _La mayoría de los fenómenos espectaculares relacionados con las conversiones llamadas religiosas son de naturaleza totalmente psicológica, pero de vez en cuando se producen experiencias que tienen también un origen espiritual. Cuando la movilización mental es absolutamente total en un nivel cualquiera de la expansión psíquica hacia la consecución espiritual, cuando las motivaciones humanas de lealtad a la idea divina son perfectas, entonces se produce con mucha frecuencia un descenso repentino del espíritu interior para sincronizarse con el objetivo concentrado y consagrado de la mente superconsciente del mortal creyente. Estas experiencias de unificación de los fenómenos intelectuales y espirituales son las que constituyen la conversión, la cual consiste en unos factores que sobrepasan las implicaciones puramente psicológicas._ (<a id="a71_845"></a>[LU 100:5.4](/es/The_Urantia_Book/100#p5_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Are_You_an_Unused_Urantia_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es usted un recurso Urantia no utilizado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/If_We_Build_It_Will_They_Come">
+          <span class="pr-2">Interfaz: Si la construimos, ¿vendrán?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

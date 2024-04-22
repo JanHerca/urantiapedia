@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Merlyn Cox<br>© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Our_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/In_His_Presence">
+          <span class="pr-2">En su presencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Canto la cultura de la alta tecnología. Desde que tengo uso de razón, he esperado ansiosamente a que prácticamente todas las nuevas tecnologías llegaran a escena. Cuando era niño soñaba con alunizajes cuando los más sabios de nuestros científicos pensaban que no era más que una quimera. Consideré el éxito del telescopio Hubble como una cuestión de importancia religiosa por la que oraba. Estos problemas iniciales los consideré similares a la caída en el jardín. He esperado ansiosamente la llegada de la televisión de alta definición desde que vi una demostración por primera vez hace más de 15 años. Estoy cerca de convertirme en uno de esos adictos a la alta tecnología que nunca se cansan de lo último y mejor que la tecnología tiene para ofrecer.
@@ -29,8 +53,33 @@ Esta es la razón por la que el testimonio personal sigue siendo tan importante 
 
 Todavía celebro la alta tecnología, el cuerpo humano más grande eléctrico (Internet, etc.) y su papel a la hora de compartir las noticias sobre _El Libro de Urantia_; pero valoro aún más el ámbito de la presencia del Espíritu, donde dos o más se reúnen, y las buenas nuevas de las que da testimonio se vuelven más reales.
 
-> _La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día._ ([LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
+> _La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día._ (<a id="a55_274"></a>[LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Our_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/In_His_Presence">
+          <span class="pr-2">En su presencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

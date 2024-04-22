@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Larry Mullins<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Toward_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia el compañerismo espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joan_Batson_Mullins/The_Inner_Life_Challenge">
+          <span class="pr-2">El desafío de la vida interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Recientemente se ha generado entre los lectores del _Libro de Urantia_ un interés significativo en iniciar un hogar Grupo Viviendo las Enseñanzas. A continuación se muestra un extracto de uno de nuestros folletos «Vivir las enseñanzas».
@@ -25,3 +49,28 @@ El grupo que ahora llamamos Viviendo las Enseñanzas se propuso aprender y defin
 
 Descubrimos que este proceso es una aventura mutua, pero profundamente personal y continua. Cada vez más nos descubrimos gravitando hacia una creencia religiosa. Pero no una creencia religiosa como cualquiera que hayamos conocido antes. Era más una creencia religiosa personal que abordaba la vida interior de cada individuo. Empezamos a descubrir lo que los Documentos llaman «la religión de la experiencia personal…»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Toward_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia el compañerismo espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joan_Batson_Mullins/The_Inner_Life_Challenge">
+          <span class="pr-2">El desafío de la vida interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

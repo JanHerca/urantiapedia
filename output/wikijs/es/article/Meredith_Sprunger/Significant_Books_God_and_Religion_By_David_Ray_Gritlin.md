@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “La verdad en la religión” de Mortimer Adler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="pr-2">Una reacción principal al apocalipticismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Prensa de la Universidad Estatal de Nueva York, 1989, 175 págs.
@@ -29,3 +53,28 @@ El teísmo sobrenaturalista tiende a ver a Dios actuando unilateralmente, aparte
 
 «Finalmente, esta cosmovisión fortalece nuestro sentido de parentesco entre nosotros, retratándonos a todos como teniendo una fuente divina común, viviendo en medio de una realidad divina común y teniendo una meta divina común. Esta realidad divina del universo habita en nosotros, y nosotros en ella, y nuestras vidas tienen en ella un significado inmortal». (p. 67) El Dr. Griffin ofrece un análisis penetrante de las limitaciones tanto de la teología tradicional como del modernismo secular. Luego utiliza los conocimientos de la teología del proceso para desarrollar una cosmovisión teísta posmoderna. Este es un libro excelente para mantenerse al tanto de algunos de los pensamientos más reveladores de la teología contemporánea.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “La verdad en la religión” de Mortimer Adler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="pr-2">Una reacción principal al apocalipticismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

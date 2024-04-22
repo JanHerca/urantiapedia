@@ -9,9 +9,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Philip Calabrese, Ph.D.<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia </i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Global_Preparation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparación Global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="pr-2">Libros importantes: alegría en el trabajo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «_...la revelación sintetiza las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica, en una explicación coordinada e ininterrumpida tanto de la ciencia como de la religión, creando así una armonía mental y una satisfacción espiritual que contesta, en la experiencia humana, a aquellos interrogantes de la mente mortal que ansía saber *de qué manera* el Infinito pone en práctica su voluntad y realiza sus planes en la materia, con las mentes y sobre el espíritu._» ([LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
+
+> «_...la revelación sintetiza las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica, en una explicación coordinada e ininterrumpida tanto de la ciencia como de la religión, creando así una armonía mental y una satisfacción espiritual que contesta, en la experiencia humana, a aquellos interrogantes de la mente mortal que ansía saber *de qué manera* el Infinito pone en práctica su voluntad y realiza sus planes en la materia, con las mentes y sobre el espíritu._» (<a id="a37_547"></a>[LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
 
 _(Viene de_ [_parte 1; Primavera-verano, '05_](/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_LU_Part_I))
 
@@ -25,11 +49,11 @@ _(Viene de_ [_parte 1; Primavera-verano, '05_](/es/article/Philip_Calabrese/A_Ca
 > 4. Vuestra ignorancia sobre los seis objetivos primordiales del desarrollo superuniversal, que no están relacionados con la ascensión de los mortales al Paraíso.
 > 5. Vuestra incapacidad para captar un punto de vista, aunque sea parcial, de la eternidad.
 > 6. La imposibilidad de describir la evolución y el destino cósmicos en relación con todas las eras universales, y no simplemente con respecto a la presente era del desarrollo evolutivo de los siete superuniversos.
-> 7. La incapacidad de todas las criaturas para captar el significado real de lo preexistencial y de lo postexperiencial —de aquello que está situado antes de los comienzos y después de los destinos. ([LU 106:0.10-17](/es/The_Urantia_Book/106#p0_10))
+> 7. La incapacidad de todas las criaturas para captar el significado real de lo preexistencial y de lo postexperiencial —de aquello que está situado antes de los comienzos y después de los destinos. (<a id="a51_201"></a>[LU 106:0.10-17](/es/The_Urantia_Book/106#p0_10))
 
 Tenga en cuenta que estas limitaciones no son del tipo que requieren una revisión de la ciencia del Libro de Urantia en «unos pocos años» o «en un tiempo muy corto»; son de larga duración que deben esperar a que el lenguaje humano evolucione, que la mente mortal se expanda en conciencia, al mayor desarrollo de los siete superuniversos, y otras circunstancias de larga duración que dentro de unos años no cambiarán.
 
-> «El escenario espacial del universo maestro parece ser adecuado para la realización del Ser Supremo, para la formación y el pleno funcionamiento de la Trinidad Última, para la existenciación de Dios Último e incluso para el comienzo de la Trinidad Absoluta. Pero nuestros conceptos sobre el pleno funcionamiento de esta segunda Trinidad experiencial parecen implicar unos factores que se encuentra más allá incluso del universo maestro en vías de expansión.» ([LU 106:6.2](/es/The_Urantia_Book/106#p6_2))
+> «El escenario espacial del universo maestro parece ser adecuado para la realización del Ser Supremo, para la formación y el pleno funcionamiento de la Trinidad Última, para la existenciación de Dios Último e incluso para el comienzo de la Trinidad Absoluta. Pero nuestros conceptos sobre el pleno funcionamiento de esta segunda Trinidad experiencial parecen implicar unos factores que se encuentra más allá incluso del universo maestro en vías de expansión.» (<a id="a55_462"></a>[LU 106:6.2](/es/The_Urantia_Book/106#p6_2))
 
 Se trata de conceptos de gran alcance, quizá relativos, pero que probablemente no necesitarán revisión por parte de nuestros científicos durante mucho, mucho tiempo.
 
@@ -37,17 +61,17 @@ Se trata de conceptos de gran alcance, quizá relativos, pero que probablemente 
 
 ## Documento 195 — Después de Pentecostés
 
-«El universo finito de la materia se volvería finalmente uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad incluso en los mundos materiales». ([LU 195:6.15](/es/The_Urantia_Book/195#p6_15))
+«El universo finito de la materia se volvería finalmente uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad incluso en los mundos materiales». (<a id="a63_254"></a>[LU 195:6.15](/es/The_Urantia_Book/195#p6_15))
 
 Esta «mente cósmica» aún debe ser descubierta por la ciencia contemporánea.
 
 ## Documento 189 — La resurrección
 
-> «La humanidad es lenta en percibir que, en todo lo que es personal, la materia es el esqueleto de la morontia, y que ambos son la sombra reflejada de la realidad espiritual duradera. ¿Cuánto tiempo necesitaréis para considerar que el tiempo es la imagen móvil de la eternidad, y el espacio la sombra fugaz de las realidades del Paraíso?» ([LU 189:1.3](/es/The_Urantia_Book/189#p1_3))
+> «La humanidad es lenta en percibir que, en todo lo que es personal, la materia es el esqueleto de la morontia, y que ambos son la sombra reflejada de la realidad espiritual duradera. ¿Cuánto tiempo necesitaréis para considerar que el tiempo es la imagen móvil de la eternidad, y el espacio la sombra fugaz de las realidades del Paraíso?» (<a id="a69_341"></a>[LU 189:1.3](/es/The_Urantia_Book/189#p1_3))
 
 Por eso se nos pide que reformulemos nuestros conceptos de espacio y tiempo reconociendo el Paraíso.
 
-> «Cuando al jefe de los arcángeles le hubieron concedido esta petición, llamó en su ayuda a un gran número de sus semejantes, así como a una multitud de representantes de todas las órdenes de personalidades celestiales; luego, con la ayuda de los intermedios de Urantia, procedió a hacerse cargo del cuerpo físico de Jesús. Este cadáver era una creación puramente material; era literalmente físico; no podía ser sacado de la tumba tal como la forma morontial de la resurrección había podido escapar del sepulcro sellado. Con la ayuda de ciertas personalidades morontiales auxiliares, la forma morontial puede hacerse en ciertos momentos semejante a la del espíritu, de tal manera que puede volverse indiferente a la materia común, mientras que en otros momentos puede volverse discernible y contactable para los seres materiales tales como los mortales del reino.» ([LU 189:2.3](/es/The_Urantia_Book/189#p2_3))
+> «Cuando al jefe de los arcángeles le hubieron concedido esta petición, llamó en su ayuda a un gran número de sus semejantes, así como a una multitud de representantes de todas las órdenes de personalidades celestiales; luego, con la ayuda de los intermedios de Urantia, procedió a hacerse cargo del cuerpo físico de Jesús. Este cadáver era una creación puramente material; era literalmente físico; no podía ser sacado de la tumba tal como la forma morontial de la resurrección había podido escapar del sepulcro sellado. Con la ayuda de ciertas personalidades morontiales auxiliares, la forma morontial puede hacerse en ciertos momentos semejante a la del espíritu, de tal manera que puede volverse indiferente a la materia común, mientras que en otros momentos puede volverse discernible y contactable para los seres materiales tales como los mortales del reino.» (<a id="a73_867"></a>[LU 189:2.3](/es/The_Urantia_Book/189#p2_3))
 
 Se reveló la existencia y naturaleza de «morontia», una nueva palabra. Nuestros científicos no pudieron descubrirlo. Requería revelación. Recordemos que nuestra metafísica es un fracaso y sólo añade confusión; Necesitamos revelación para darle sentido a este reino semiespiritual y semimaterial llamado morontial. Por cierto, esa nueva palabra podría derivarse de «más» y «ontia» (realidad).
 
@@ -55,7 +79,7 @@ Se reveló la existencia y naturaleza de «morontia», una nueva palabra. Nuestr
 
 ## Documento 12: el Universo de Universos
 
-«Aunque vuestras estimaciones espectroscópicas de las velocidades astronómicas son bastante fiables cuando se aplican a los reinos estelares pertenecientes a vuestro superuniverso y a los superuniversos asociados, estos cálculos carecen por completo de fiabilidad cuando se refieren a los dominios del espacio exterior. Las líneas espectrales se desplazan desde lo normal hacia el violeta para una estrella que se acerca; estas líneas se desplazan igualmente hacia el rojo para una estrella que se aleja. Muchas influencias se interponen para dar la impresión de que la velocidad de recesión de los universos exteriores aumenta a razón de más de ciento sesenta kilómetros por segundo por cada millón de años-luz que aumente la distancia. Después de que se perfeccionen unos telescopios más potentes, con este método de cálculo parecerá que estos sistemas tan remotos se alejan de esta parte del universo a la velocidad increíble de cerca de cincuenta mil kilómetros por segundo. Pero esta velocidad aparente de recesión no es real; es el resultado de numerosos factores erróneos entre los que se incluyen los ángulos de observación y otras distorsiones del espacio-tiempo». ([LU 12:4.14](/es/The_Urantia_Book/12#p4_14))
+«Aunque vuestras estimaciones espectroscópicas de las velocidades astronómicas son bastante fiables cuando se aplican a los reinos estelares pertenecientes a vuestro superuniverso y a los superuniversos asociados, estos cálculos carecen por completo de fiabilidad cuando se refieren a los dominios del espacio exterior. Las líneas espectrales se desplazan desde lo normal hacia el violeta para una estrella que se acerca; estas líneas se desplazan igualmente hacia el rojo para una estrella que se aleja. Muchas influencias se interponen para dar la impresión de que la velocidad de recesión de los universos exteriores aumenta a razón de más de ciento sesenta kilómetros por segundo por cada millón de años-luz que aumente la distancia. Después de que se perfeccionen unos telescopios más potentes, con este método de cálculo parecerá que estos sistemas tan remotos se alejan de esta parte del universo a la velocidad increíble de cerca de cincuenta mil kilómetros por segundo. Pero esta velocidad aparente de recesión no es real; es el resultado de numerosos factores erróneos entre los que se incluyen los ángulos de observación y otras distorsiones del espacio-tiempo». (<a id="a81_1175"></a>[LU 12:4.14](/es/The_Urantia_Book/12#p4_14))
 
 Aquí un Perfeccionador de la Sabiduría, actuando por autoridad de los Ancianos de los Días, nos dice que la idea del Big Bang, el «universo en expansión» de la ciencia contemporánea es rotundamente errónea y se debe a «numerosos factores de error» en las interpretaciones de nuestras observaciones. El Big Bang es actualmente una premisa fundamental de casi toda la cosmología contemporánea.
 
@@ -73,17 +97,17 @@ Aquí un Melquisedec de Nebadón admite que quiere pecar de debilitar la autorid
 
 ## Religión ampliada por la revelación
 
-> «La revelación es una técnica que permite ahorrar grandes períodos de tiempo en el trabajo necesario de clasificar y separar los errores de la evolución de las verdades conseguidas por medio del espíritu.» ([LU 101:5.1](/es/The_Urantia_Book/101#p5_1))
+> «La revelación es una técnica que permite ahorrar grandes períodos de tiempo en el trabajo necesario de clasificar y separar los errores de la evolución de las verdades conseguidas por medio del espíritu.» (<a id="a99_209"></a>[LU 101:5.1](/es/The_Urantia_Book/101#p5_1))
 
 De modo que «edades tras edades» son salvadas por la revelación, y nuestra ciencia superará sólo «muchas» declaraciones científicas reveladoras en «unos pocos años», no «la mayoría» ni «todos».
 
-> «Siempre que ha sido posible y compatible con nuestra misión, hemos intentado utilizar y hasta cierto punto coordinar las narraciones existentes relacionados con la vida de Jesús en Urantia. Aunque hemos tenido la suerte de acceder a los escritos perdidos del apóstol Andrés, y nos hemos beneficiado de la colaboración de una multitud de seres celestiales que se encontraban en la Tierra en los tiempos de la donación de Miguel (en particular su Ajustador ahora personalizado), también hemos querido utilizar los evangelios llamados de Mateo, de Marcos, de Lucas y de Juan.» ([LU 121:8.1](/es/The_Urantia_Book/121#p8_1))
+> «Siempre que ha sido posible y compatible con nuestra misión, hemos intentado utilizar y hasta cierto punto coordinar las narraciones existentes relacionados con la vida de Jesús en Urantia. Aunque hemos tenido la suerte de acceder a los escritos perdidos del apóstol Andrés, y nos hemos beneficiado de la colaboración de una multitud de seres celestiales que se encontraban en la Tierra en los tiempos de la donación de Miguel (en particular su Ajustador ahora personalizado), también hemos querido utilizar los evangelios llamados de Mateo, de Marcos, de Lucas y de Juan.» (<a id="a103_578"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1))
 
 De modo que se ha proporcionado el conocimiento perdido acerca de Jesús. Nótese que el autor dice que su mandato es expresar la vida y las enseñanzas de Jesús y hacerlo con conocimiento humano si es posible, o si es necesario con conocimiento sobrehumano.
 
 > _Así que se ha suplido el conocimiento perdido acerca de Jesús. Nótese que el autor dice que su mandato es expresar la vida y enseñanzas de Jesús y hacerlo con conocimiento humano si es posible, o si es necesario_
 
-> «Los memorando que he reunido, a partir de los cuales he preparado este relato de la vida y de las enseñanzas de Jesús —además de las memorias que el apóstol Andrés había registrado— contienen joyas del pensamiento y conceptos muy elevados de las enseñanzas de Jesús, procedentes de más de dos mil seres humanos que han vivido en la Tierra desde la época de Jesús hasta el día en que fueron redactadas las presentes revelaciones, o más exactamente estas reexposiciones. El permiso de revelar solamente ha sido utilizado cuando el escrito humano o los conceptos humanos no conseguían proporcionar un modelo de pensamiento adecuado. Mi misión de revelación me prohibía recurrir a fuentes extrahumanas de información o de expresión, hasta que pudiera atestiguar que había agotado todas las posibilidades para encontrar la expresión conceptual necesaria en las fuentes puramente humanas.» ([LU 121:8.13](/es/The_Urantia_Book/121#p8_13))
+> «Los memorando que he reunido, a partir de los cuales he preparado este relato de la vida y de las enseñanzas de Jesús —además de las memorias que el apóstol Andrés había registrado— contienen joyas del pensamiento y conceptos muy elevados de las enseñanzas de Jesús, procedentes de más de dos mil seres humanos que han vivido en la Tierra desde la época de Jesús hasta el día en que fueron redactadas las presentes revelaciones, o más exactamente estas reexposiciones. El permiso de revelar solamente ha sido utilizado cuando el escrito humano o los conceptos humanos no conseguían proporcionar un modelo de pensamiento adecuado. Mi misión de revelación me prohibía recurrir a fuentes extrahumanas de información o de expresión, hasta que pudiera atestiguar que había agotado todas las posibilidades para encontrar la expresión conceptual necesaria en las fuentes puramente humanas.» (<a id="a109_888"></a>[LU 121:8.13](/es/The_Urantia_Book/121#p8_13))
 
 Así que nuevamente había permiso para revelar si los conceptos humanos eran inadecuados; y se requerían algunas expresiones conceptuales incluso si eso significaba usar conceptos sobrehumanos.
 
@@ -100,3 +124,28 @@ Para entonces en Urantia, un lugar llamado Paraíso, con una zona geográfica de
 > _Phil Calabrese es un matemático profesional y lector de_ El Libro de Urantia _desde 1970._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Global_Preparation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preparación Global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="pr-2">Libros importantes: alegría en el trabajo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

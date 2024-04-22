@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Question_of_Angels">
+          <span class="pr-2">La cuestión de los ángeles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volumen 5, Número 1, primavera de 1995
@@ -121,3 +142,25 @@ El Dr. Duane L. Faw, profesor emérito de Derecho de la Facultad de Derecho de l
 
 La Fundación Urantia publicó una concordancia exhaustiva del _Libro de Urantia_ en 1993. Si usted: la librería local no vende la concordancia _El libro de Urantia_ o _El libro de Urantia_, puede solicitarlas a la Fundación Urantia, 533 Diversey Parkway, Chicaago, IL 60614. La Fundación Urantia también publica ediciones en francés, español y finlandés de _El Libro de Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Question_of_Angels">
+          <span class="pr-2">La cuestión de los ángeles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

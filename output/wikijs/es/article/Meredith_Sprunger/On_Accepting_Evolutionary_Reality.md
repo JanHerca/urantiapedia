@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Gender_Problems">
+          <span class="pr-2">Problemas de género</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde nuestra perspectiva de 2000 años de historia, nos resulta difícil comprender la hostilidad que los fariseos y saduceos mostraron hacia el mensaje de Jesús. Tendemos a olvidar la fuerza de la tradición y las estructuras de poder institucional. Si tenemos en cuenta estas dinámicas evolutivas, nos resultará más fácil comprender tanto su reacción como nuestra situación contemporánea.
@@ -28,3 +52,28 @@ Los pioneros, el 1% que Abraham Maslow describe como innovadores, abren caminos 
 
 Si bien en las antiguas instituciones se produce una lenta fermentación evolutiva, sin duda surgirán nuevas instituciones religiosas para llevar al mundo las ideas espirituales mejoradas y ampliadas del Libro de Urantia. Como personas que aman la iglesia y anhelan su revitalización, esperamos que la orientación progresiva de muchos miembros del cristianismo tradicional permita a la iglesia descubrir el mensaje esclarecedor y renovador de _El Libro de Urantia_ en un tiempo mucho más corto del requerido para el rejuvenecimiento espiritual. de las instituciones religiosas en el pasado.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Gender_Problems">
+          <span class="pr-2">Problemas de género</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

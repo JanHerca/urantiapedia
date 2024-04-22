@@ -42,7 +42,9 @@ This spirit gift hails from the Absolute and Infinite Source of all personality,
 
 A strong faith, combined with patience and intelligent effort, can heal broken relationships and remove mountains of material difficulty. It is entirely an individual matter how frequently to affirm spiritual truths, but since it's so uplifting and pleasurable, more is better than less. The first thing in the morning it is effective because the mind is so receptive, and then often throughout the day it can
 
-## Examples of Spiritual Affirmations <br> On son/daughtership with God:
+## Examples of Spiritual Affirmations
+
+***On son/daughtership with God:***
 
 I choose to affirm God as my Father and I never doubt his love and mercy. Moment by moment, day by day, I permit the indwelling spirit to transform my perceptions, thinking and actions. I am led step by step from darkness to light, from despair to hope. The universe is generous and provides me with all I need to learn and grow.
 

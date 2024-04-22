@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Bruce Barton<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Thomas_Strawser/God_and_Lady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios y la Señora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Esta es la última entrega de «El hombre que nadie conoce... un descubrimiento del verdadero Jesús», escrito por Bruce Barton, quien (lo descubriría muchos años después) era un famoso publicista. Este libro causó una gran impresión en mi mente joven. De alguna manera conservé este libro a lo largo de los años. Como urantiano, muchos años después, me sorprende lo cerca que estuvo Bruce Barton en 1924 de describir lo que creo que es el verdadero Jesús. Gracias a los muchos urantianos que han expresado su interés en este trabajo._
@@ -167,3 +188,25 @@ Leed eso, oh hombres, e inclinad la cabeza. Tú que te has permitido imaginarlo 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Thomas_Strawser/God_and_Lady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios y la Señora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Preston Thomas<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Semántica en la Cena del Señor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Hall/Poor_in_Spirit">
+          <span class="pr-2">Pobres de espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -64,3 +88,28 @@ B. J., en esta carta he intentado reafirmar y organizar lo que le dije en Acció
 
 > _Preston Thomas reside en Earlysville, Virginia y tiene un master en Filosofía de la Universidad de Virginia. Durante nueve años trabajó como tutor privado de niños con problemas de aprendizaje. En 1981, Preston fundó la Escuela Einstein que brinda instrucción educativa personalizada y enfatiza las enseñanzas básicas de Jesús. Preston es un estudiante de_ El Libro de Urantia _desde hace mucho tiempo. En 1992 publicó_ La vida y las enseñanzas de Jesús, _que organiza y clasifica el material bíblico que trata sobre Jesús en armonía cronológica con los Documentos de Urantia._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Semántica en la Cena del Señor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Hall/Poor_in_Spirit">
+          <span class="pr-2">Pobres de espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

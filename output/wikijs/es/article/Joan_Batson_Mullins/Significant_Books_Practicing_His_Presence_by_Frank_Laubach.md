@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Joan Batson Mullins<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i> </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: El arte de la posibilidad, Rosamund Stone Zander y Benjamin Zander</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/A_New_Urgency">
+          <span class="pr-2">Interfaz: ¿una nueva urgencia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «¿Puedo traer al Señor de regreso a mi flujo mental cada pocos segundos para que Dios esté siempre en mi mente? Elijo hacer del resto de mi vida un experimento para responder a esta pregunta». pag. 10
@@ -19,9 +43,34 @@ La editorial SeedSowers ha combinado las cartas de Frank Laubach y una nueva ver
 
 > «Al analizarme encuentro que me suceden varias cosas como resultado de... un esfuerzo extenuante por tener presente al Señor en cada minuto. Esta concentración en Dios es extenuante, pero todo lo demás ha dejado de serlo. Pienso con más claridad, lo olvido con menos frecuencia. Cosas que antes hacía con esfuerzo, ahora las hago fácilmente y sin esfuerzo alguno. No me preocupo por nada... ya no tengo prisa por nada. Todo va bien». pag. 15
 
-En los Documentos de Urantia se nos habla de Jesús: «El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera —una comunión ininterrumpida con Dios…» [[LU 196:0.10](/es/The_Urantia_Book/196#p0_10)]. Y se nos anima a intentarlo nosotros mismos: «... los dones divinos pueden fluir hasta el corazón y el alma de aquellos que se acuerdan de mantener así, mediante la oración sincera y la verdadera adoración, una comunión ininterrumpida con su Hacedor...» [[LU 194:3.20](/es/The_Urantia_Book/194#p3_20)]. Laubach responde a la pregunta de cómo recordar: «¡Formando un nuevo hábito! Todo pensamiento emplea palabras silenciosas y en realidad es una conversación con tu ser interior. En lugar de hablar contigo mismo, forma el hábito de hablar con Cristo... cuando vengan malos pensamientos de cualquier tipo, di: ‘Señor, estos pensamientos no son aptos para discutir contigo. Señor, tú piensas. Renueva mi mente con tu presencia».» pág. 32
+En los Documentos de Urantia se nos habla de Jesús: «El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera —una comunión ininterrumpida con Dios…» <a id="a45_254"></a>[[LU 196:0.10](/es/The_Urantia_Book/196#p0_10)]. Y se nos anima a intentarlo nosotros mismos: «... los dones divinos pueden fluir hasta el corazón y el alma de aquellos que se acuerdan de mantener así, mediante la oración sincera y la verdadera adoración, una comunión ininterrumpida con su Hacedor...» <a id="a45_557"></a>[[LU 194:3.20](/es/The_Urantia_Book/194#p3_20)]. Laubach responde a la pregunta de cómo recordar: «¡Formando un nuevo hábito! Todo pensamiento emplea palabras silenciosas y en realidad es una conversación con tu ser interior. En lugar de hablar contigo mismo, forma el hábito de hablar con Cristo... cuando vengan malos pensamientos de cualquier tipo, di: ‘Señor, estos pensamientos no son aptos para discutir contigo. Señor, tú piensas. Renueva mi mente con tu presencia».» pág. 32
 
 Laubach comparte cómo sus relaciones se han imbuido de un nuevo afecto: «_Elijo mirar a las personas a través de Dios, usando a Dios como mis lentes, coloreados con Su amor por ellos_» p.25. Frank Laubach se convirtió en un educador de renombre mundial, escribió más de 50 libros, recibió muchos honores y vivió «_una de las vidas más plenas jamás vividas por un seguidor de Cristo_» p. xiv
 
 > «_Y si te olvidas de Él por minutos o incluso días, no te quejes ni te arrepientas, sino comienza de nuevo con una sonrisa. Cada minuto puede ser un nuevo comienzo._» p.37
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: El arte de la posibilidad, Rosamund Stone Zander y Benjamin Zander</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/A_New_Urgency">
+          <span class="pr-2">Interfaz: ¿una nueva urgencia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

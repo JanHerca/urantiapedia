@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Gard Jameson<br>© 1993 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/God_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lenguaje de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="pr-2">La interreligión podría iluminar el futuro de nuestro mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este artículo está tomado de un discurso pronunciado ante un grupo de Unitarios Universalistas._
@@ -42,5 +66,30 @@ Que la realidad holística de este Padre Divino dentro de ti te bendiga, te sost
 > _Gard Jameson es Contador Público Certificado y enseña religión comparada en la Universidad de Nevada._
 {.is-info}
 
-> «La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús.» ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
+> «La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús.» (<a id="a68_347"></a>[LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/God_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lenguaje de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="pr-2">La interreligión podría iluminar el futuro de nuestro mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

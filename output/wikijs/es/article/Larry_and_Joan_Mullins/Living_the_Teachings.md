@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Larry Mullins<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: alegría en el trabajo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="pr-2">Pioneros en la Nueva Era</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Buenas noches. Tomémonos un momento para agradecer a Jesús por estar con nosotros esta noche. Sintamos su presencia y pidamos su gracia.
@@ -168,3 +192,28 @@ Cerremos los ojos por un momento y meditemos en la paz de Jesús. (Meditación d
 > _Larry se desempeñó como editor de_ The Spiritual Fellowship Journal _de 2002 a 2003._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: alegría en el trabajo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="pr-2">Pioneros en la Nueva Era</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

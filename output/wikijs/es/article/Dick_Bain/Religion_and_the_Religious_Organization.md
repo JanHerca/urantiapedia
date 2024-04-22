@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Richard I. Bain<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_coming_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El próximo renacimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="pr-2">Siempre hay un movimiento más</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Parece haber cierta agitación en la comunidad Urantia respecto del posible surgimiento de una organización religiosa urantiana. ¿Una parte de nuestra comunidad está evolucionando hacia una organización de este tipo? ¿Cómo te sientes al respecto?
@@ -65,13 +89,13 @@ Algunos pueden adoptar la opinión de que la teología de una religión Urantia 
 
 ## ¿Odres nuevos o viejos?
 
-¿Y qué hacemos con los ritos y rituales de una religión urantiana? ¿Tomamos prestado del cristianismo y otras religiones para una nueva religión Urantia? Cuando un fariseo le preguntó a Jesús por qué sus apóstoles no ayunaban como lo hacían los demás judíos, él respondió en parte: «Tampoco se echa vino nuevo en odres viejos, no sea que el vino nuevo reviente los odres y se pierdan tanto el vino como los odres... El hombre sabio pone el vino nuevo en odres nuevos. Por eso mis discípulos muestran sabiduría al no incorporar demasiadas cosas del viejo orden en la nueva enseñanza del evangelio del reino». ([LU 147:7.2](/es/The_Urantia_Book/147#p7_2)) Los nuevos conceptos de la Quinta Revelación de Época obviamente requerirán nuevas observancias y rituales, pero una religión centrada en los Documentos de Urantia también podría utilizar lo mejor de las prácticas religiosas más antiguas. Creo que deberíamos utilizar símbolos y rituales que puedan dotarse de nuevos significados, significados apropiados para nuestra comunidad y la teología del Libro de Urantia, pero estos ritos, rituales y símbolos no deberían ser simplemente una copia de los existentes. Por ejemplo, debido a su conexión con la Doctrina de la Expiación, me sorprendería ver una cruz sobre o dentro de un centro de adoración urantiano, pero esperaría ver un servicio de comunión celebrado en dicho centro. Es lógico que la comunión encuentre un lugar en una religión urantiana, especialmente porque Jesús estableció este ritual en la Última Cena. Pero la teología de esta comunión ciertamente no será como la de la comunión cristiana, ya que _El Libro de Urantia_ condena enérgicamente la Doctrina de la Expiación. Afortunadamente, tenemos algunas orientaciones de Jesús en _El Libro de Urantia_ sobre cómo dotar a los elementos del servicio de la comunión de un significado nuevo y más apropiado. ([LU 179:5.4](/es/The_Urantia_Book/179#p5_4))
+¿Y qué hacemos con los ritos y rituales de una religión urantiana? ¿Tomamos prestado del cristianismo y otras religiones para una nueva religión Urantia? Cuando un fariseo le preguntó a Jesús por qué sus apóstoles no ayunaban como lo hacían los demás judíos, él respondió en parte: «Tampoco se echa vino nuevo en odres viejos, no sea que el vino nuevo reviente los odres y se pierdan tanto el vino como los odres... El hombre sabio pone el vino nuevo en odres nuevos. Por eso mis discípulos muestran sabiduría al no incorporar demasiadas cosas del viejo orden en la nueva enseñanza del evangelio del reino». (<a id="a91_609"></a>[LU 147:7.2](/es/The_Urantia_Book/147#p7_2)) Los nuevos conceptos de la Quinta Revelación de Época obviamente requerirán nuevas observancias y rituales, pero una religión centrada en los Documentos de Urantia también podría utilizar lo mejor de las prácticas religiosas más antiguas. Creo que deberíamos utilizar símbolos y rituales que puedan dotarse de nuevos significados, significados apropiados para nuestra comunidad y la teología del Libro de Urantia, pero estos ritos, rituales y símbolos no deberían ser simplemente una copia de los existentes. Por ejemplo, debido a su conexión con la Doctrina de la Expiación, me sorprendería ver una cruz sobre o dentro de un centro de adoración urantiano, pero esperaría ver un servicio de comunión celebrado en dicho centro. Es lógico que la comunión encuentre un lugar en una religión urantiana, especialmente porque Jesús estableció este ritual en la Última Cena. Pero la teología de esta comunión ciertamente no será como la de la comunión cristiana, ya que _El Libro de Urantia_ condena enérgicamente la Doctrina de la Expiación. Afortunadamente, tenemos algunas orientaciones de Jesús en _El Libro de Urantia_ sobre cómo dotar a los elementos del servicio de la comunión de un significado nuevo y más apropiado. (<a id="a91_1874"></a>[LU 179:5.4](/es/The_Urantia_Book/179#p5_4))
 
-La Navidad y otras festividades cristianas pueden ser otra área problemática para los urantianos. Hay muchos rituales cristianos asociados con la Navidad. ¿Celebrarán los religiosos urantianos la Navidad de forma diferente a los cristianos? Sospecho que las organizaciones religiosas de nuestra cultura conservarán gran parte del boato y el ritual navideño, ya que es parte del patrimonio cultural de aquellos de nosotros que venimos de un entorno cristiano. Pero espero que una modesta celebración de cumpleaños el 21 de agosto de cada año también sea uno de los ritos de los centros de adoración urantianos. La Pascua en los Documentos de Urantia no está asociada con la Doctrina de la Expiación. Pero la cruz y los dramáticos acontecimientos que condujeron a ella son parte tanto del Libro de Urantia como de la Biblia. Estoy seguro de que los artículos de _El Libro de Urantia_ que tratan de estos acontecimientos serán la base para los servicios de Pascua exclusivamente urantianos. Ciertamente podemos sacar provecho de las «Lecciones de la Cruz» ([LU 188:5](/es/The_Urantia_Book/188#p5)) y celebrar la resurrección con tanta sinceridad como lo hacen los cristianos, aunque no por las mismas razones.
+La Navidad y otras festividades cristianas pueden ser otra área problemática para los urantianos. Hay muchos rituales cristianos asociados con la Navidad. ¿Celebrarán los religiosos urantianos la Navidad de forma diferente a los cristianos? Sospecho que las organizaciones religiosas de nuestra cultura conservarán gran parte del boato y el ritual navideño, ya que es parte del patrimonio cultural de aquellos de nosotros que venimos de un entorno cristiano. Pero espero que una modesta celebración de cumpleaños el 21 de agosto de cada año también sea uno de los ritos de los centros de adoración urantianos. La Pascua en los Documentos de Urantia no está asociada con la Doctrina de la Expiación. Pero la cruz y los dramáticos acontecimientos que condujeron a ella son parte tanto del Libro de Urantia como de la Biblia. Estoy seguro de que los artículos de _El Libro de Urantia_ que tratan de estos acontecimientos serán la base para los servicios de Pascua exclusivamente urantianos. Ciertamente podemos sacar provecho de las «Lecciones de la Cruz» (<a id="a93_1054"></a>[LU 188:5](/es/The_Urantia_Book/188#p5)) y celebrar la resurrección con tanta sinceridad como lo hacen los cristianos, aunque no por las mismas razones.
 
 ## Símbolos de una religión urantiana
 
-Una religión organizada que surja de la comunidad Urantia necesitará símbolos potentes que ayuden a unir a sus participantes. Un símbolo que ya han proporcionado los autores de _El Libro de Urantia_ son los tres círculos concéntricos. Desafortunadamente, este símbolo era un balón de fútbol político porque fue registrado como marca registrada por la Fundación Urantia. Sin embargo, parece que este símbolo ahora puede ser utilizado por una organización religiosa como símbolo religioso sin crear problemas legales; Tengo entendido que la Fundación permitirá el uso de círculos concéntricos con fines religiosos. Sin duda, otros símbolos surgirán de la vida religiosa de los urantianos a medida que evolucione la religión urantiana. Y los símbolos son importantes. Los autores de _El Libro de Urantia_ señalan: «A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado. El hombre moderno debe encontrar un simbolismo adecuado para sus nuevos ideales, ideas y lealtades en expansión. Este símbolo realzado debe surgir de la vida religiosa, de la experiencia espiritual. Este simbolismo superior de una civilización más elevada debe estar basado en el concepto de la Paternidad de Dios y estar cargado del poderoso ideal de la fraternidad de los hombres». ([LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
+Una religión organizada que surja de la comunidad Urantia necesitará símbolos potentes que ayuden a unir a sus participantes. Un símbolo que ya han proporcionado los autores de _El Libro de Urantia_ son los tres círculos concéntricos. Desafortunadamente, este símbolo era un balón de fútbol político porque fue registrado como marca registrada por la Fundación Urantia. Sin embargo, parece que este símbolo ahora puede ser utilizado por una organización religiosa como símbolo religioso sin crear problemas legales; Tengo entendido que la Fundación permitirá el uso de círculos concéntricos con fines religiosos. Sin duda, otros símbolos surgirán de la vida religiosa de los urantianos a medida que evolucione la religión urantiana. Y los símbolos son importantes. Los autores de _El Libro de Urantia_ señalan: «A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado. El hombre moderno debe encontrar un simbolismo adecuado para sus nuevos ideales, ideas y lealtades en expansión. Este símbolo realzado debe surgir de la vida religiosa, de la experiencia espiritual. Este simbolismo superior de una civilización más elevada debe estar basado en el concepto de la Paternidad de Dios y estar cargado del poderoso ideal de la fraternidad de los hombres». (<a id="a97_1422"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
 
 > _Los nuevos conceptos de la Quinta Revelación de Época obviamente requerirán nuevas observancias y rituales, pero una religión centrada en los Documentos de Urantia también podría utilizar lo mejor de las prácticas religiosas más antiguas. Creo que deberíamos utilizar símbolos y rituales que puedan dotarse de nuevos significados, significados apropiados para nuestra comunidad y la teología del Libro de Urantia, pero estos ritos, rituales y símbolos no deberían ser simplemente una copia de los existentes._
 
@@ -97,3 +121,28 @@ Creo que tenemos mucho que aprender de las religiones y las instituciones religi
 > _Richard Bain es ingeniero eléctrico y editor de Innerface International. Es un estudiante desde hace mucho tiempo de_ El Libro de Urantia.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_coming_Spiritual_Renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El próximo renacimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="pr-2">Siempre hay un movimiento más</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

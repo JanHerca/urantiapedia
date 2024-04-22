@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Charles E. Hansen<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/UB_and_Religious_Studies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y los estudios religiosos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="pr-2">El libro de Urantia y la ciencia moderna: ¿armonía o discordia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este artículo es una condensación de un capítulo de un libro de próxima publicación que definirá las referencias abreviadas. Esperamos revisar el libro después de su publicación._
@@ -127,10 +151,35 @@ Como observó Alfred North Whitehead en 1925: «Estamos entrando en una era de r
 
 En consecuencia, las matemáticas del amor establecen la base lógica mediante la cual puede comenzar la construcción de una nueva era. El amor, por supuesto, no puede entenderse simplemente como una cuestión de matemáticas, de vectores. Es comprensible sólo en términos de toda la personalidad, de la cual emanan los vectores de atención, escucha, agradecimiento, aliento y todo lo demás. La totalidad del amor debe encontrar su comprensión en el modelo de personalidades que aman. Y, sin que muchos de nosotros lo sepamos, el propio Einstein se refirió a Jesús y sus enseñanzas como el modelo definitivo a seguir por los humanos. (TWAISI, p. 111) Los filósofos científicos más importantes de Estados Unidos, Charles Peirce y Alfred North Whitehead, llegaron a la misma conclusión. (ITPOCSP, p. 462) Desde hace tiempo se reconoce que las religiones tienden a centrarse en la personalidad amorosa y modelo de sus fundadores. Al agregar el fundamento científico a lo que han demostrado estas personalidades, solo aclaramos su esencia. Pero esto también significa que desde la perspectiva de la ciencia, la filosofía y la religión, la piedra que los constructores han rechazado pronto será reconocida como la piedra angular, con la ayuda de un lenguaje que los constructores no pueden ignorar: el lenguaje universal de la ciencia: las matemáticas, Las matemáticas del amor. $\square$
 
-> _El autor señala que la invariante definida por las Matemáticas del Amor parece ser la definida específicamente en [LU 12:7.1](/es/The_Urantia_Book/12#p7_1): Existe una ley inexorable e impersonal que está en vigor a lo largo de todo el tiempo y del espacio y con respecto a toda realidad de cualquier naturaleza que sea; esta ley equivale al funcionamiento de una providencia cósmica._
+> _El autor señala que la invariante definida por las Matemáticas del Amor parece ser la definida específicamente en <a id="a153_117"></a>[LU 12:7.1](/es/The_Urantia_Book/12#p7_1): Existe una ley inexorable e impersonal que está en vigor a lo largo de todo el tiempo y del espacio y con respecto a toda realidad de cualquier naturaleza que sea; esta ley equivale al funcionamiento de una providencia cósmica._
 
 Copyright © 1988, Charles E. Hansen. Reservados todos los derechos.
 
 > _Charles Hansen es un economista y empresario con especial interés en el desempeño humano, la productividad, la creatividad y la innovación. Además de publicar varios artículos en estas áreas, está terminando un libro titulado <ins>La tecnología del amor</ins>._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/UB_and_Religious_Studies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y los estudios religiosos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="pr-2">El libro de Urantia y la ciencia moderna: ¿armonía o discordia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

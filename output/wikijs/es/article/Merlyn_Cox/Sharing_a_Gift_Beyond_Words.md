@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Iglesia y el Reino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="pr-2">La Segunda Ilustración: Liberalismo y Religión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***_El Libro de Urantia_ y la renovación espiritual***
@@ -33,3 +57,28 @@ Entonces, ¿cómo se puede afrontar tal descubrimiento? Había orado y prometido
 
 Para mí, simplemente aceptarlo fue el primer acto de acción de gracias y compromiso. Grandes declaraciones y gestos humanos en respuesta a un regalo tan asombroso parecían de alguna manera pretenciosos y fuera de lugar. Más allá de eso, por supuesto, existe el deseo de vivir una vida digna del magnífico llamamiento y destino revelados en esta revelación. Y finalmente está el deseo de compartirlo con los demás. Pocas cosas pueden ser tan satisfactorias como compartirlo con familiares, amigos y aquellos a quienes amo. Al mismo tiempo, una vez me pregunté si podría compartirlo con alguien. Era muy consciente de las sospechas y suposiciones que han producido tanto nuestra era secular como nuestras religiones ligadas a la tradición. Decidí simplemente continuar dando gracias, convertirme en un estudiante diligente y, cuando se me presentara la oportunidad, tratar de compartirlo con los demás de la misma manera que Felipe hizo con Natanael con respecto a su creencia en Jesús: invitándolos a venir y ver.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Iglesia y el Reino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="pr-2">La Segunda Ilustración: Liberalismo y Religión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

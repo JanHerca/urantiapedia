@@ -9,19 +9,43 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean Barr<br>© 2004 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/Should_a_Urantia_Church_be_Formed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Debería formarse una Iglesia Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Challenge_Part_I">
+          <span class="pr-2">El desafío: Parte 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_La adoración tiene su razón de ser en sí misma; la oración incorpora un elemento de interés personal o para sí mismo; ésta es la gran diferencia entre la adoración y la oración. La verdadera adoración no contiene en absoluto ninguna petición para sí mismo ni ningún otro elemento de interés personal; adoramos simplemente a Dios por lo que comprendemos que él es. La adoración no pide nada ni espera nada para el adorador. No adoramos al Padre porque podamos obtener algo de esa veneración; le rendimos esa devoción y nos dedicamos a esa adoración como reacción espontánea y natural al reconocimiento de la personalidad incomparable del Padre y a causa de su naturaleza encantadora y de sus atributos adorables._»
 > 
-> «En el momento en que un elemento de interés personal se introduce en la adoración, la devoción pasa de la adoración a la oración, y sería más conveniente dirigirla a la persona del Hijo Eterno o del Hijo Creador.» ([LU 5:3.3-4](/es/The_Urantia_Book/5#p3_3))
+> «En el momento en que un elemento de interés personal se introduce en la adoración, la devoción pasa de la adoración a la oración, y sería más conveniente dirigirla a la persona del Hijo Eterno o del Hijo Creador.» (<a id="a39_218"></a>[LU 5:3.3-4](/es/The_Urantia_Book/5#p3_3))
 
-> La religión griega tenía un lema: «Conócete a ti mismo»; los hebreos centraban su enseñanza en «Conoced a vuestro Dios»; los cristianos predican un evangelio dirigido al «conocimiento del Señor Jesucristo»; Jesús proclamó la buena nueva de «conoce a Dios y conócete a ti mismo como hijo de Dios». Estos conceptos diferentes sobre la meta de la religión determinan la actitud del individuo en las diversas situaciones de la vida, y presagian la profundidad de su adoración y la naturaleza de sus hábitos personales de oración. El estado espiritual de cualquier religión se puede determinar por la naturaleza de sus oraciones. ([LU 5:4.8](/es/The_Urantia_Book/5#p4_8))
+> La religión griega tenía un lema: «Conócete a ti mismo»; los hebreos centraban su enseñanza en «Conoced a vuestro Dios»; los cristianos predican un evangelio dirigido al «conocimiento del Señor Jesucristo»; Jesús proclamó la buena nueva de «conoce a Dios y conócete a ti mismo como hijo de Dios». Estos conceptos diferentes sobre la meta de la religión determinan la actitud del individuo en las diversas situaciones de la vida, y presagian la profundidad de su adoración y la naturaleza de sus hábitos personales de oración. El estado espiritual de cualquier religión se puede determinar por la naturaleza de sus oraciones. (<a id="a41_628"></a>[LU 5:4.8](/es/The_Urantia_Book/5#p4_8))
 
-> Las palabras no tienen ninguna importancia en el rezo; son simplemente el canal intelectual por el que fluye casualmente el río de la súplica espiritual. El valor verbal de una plegaria es puramente autosugestivo en las devociones privadas, y sociosugestivo en las devociones colectivas. Dios responde a la actitud del alma, no a las palabras. ([LU 91:8.12](/es/The_Urantia_Book/91#p8_12))
+> Las palabras no tienen ninguna importancia en el rezo; son simplemente el canal intelectual por el que fluye casualmente el río de la súplica espiritual. El valor verbal de una plegaria es puramente autosugestivo en las devociones privadas, y sociosugestivo en las devociones colectivas. Dios responde a la actitud del alma, no a las palabras. (<a id="a43_347"></a>[LU 91:8.12](/es/The_Urantia_Book/91#p8_12))
 
-> La actitud más sana de meditación espiritual se halla en la _adoración reflexiva_ y en la oración de acción de gracias. La comunión directa con el Ajustador del Pensamiento, tal como sucedió en los últimos años de la vida de Jesús en la carne, no debería confundirse con estas experiencias llamadas místicas. ([LU 100:5.10](/es/The_Urantia_Book/100#p5_10)) (Tenga en cuenta que fue en los últimos años después de que Él logró completar la mayoría o todos los niveles de crecimiento que nosotros, como seres humanos, debemos completar aquí para tener esta comunión directa).
+> La actitud más sana de meditación espiritual se halla en la _adoración reflexiva_ y en la oración de acción de gracias. La comunión directa con el Ajustador del Pensamiento, tal como sucedió en los últimos años de la vida de Jesús en la carne, no debería confundirse con estas experiencias llamadas místicas. (<a id="a45_312"></a>[LU 100:5.10](/es/The_Urantia_Book/100#p5_10)) (Tenga en cuenta que fue en los últimos años después de que Él logró completar la mayoría o todos los niveles de crecimiento que nosotros, como seres humanos, debemos completar aquí para tener esta comunión directa).
 
-> ««La oración es una expresión enteramente personal y espontánea de la actitud del alma hacia el espíritu; la oración debería ser la comunión de la filiación y la expresión de la hermandad. Cuando la oración es dictada por el espíritu, conduce al progreso espiritual cooperativo. ***La oración ideal es una forma de comunión espiritual que conduce a la adoración inteligente. La verdadera oración es la actitud sincera de tender la mano hacia el cielo para conseguir vuestros ideales».***» ([LU 144:2.2](/es/The_Urantia_Book/144#p2_2))
+> ««La oración es una expresión enteramente personal y espontánea de la actitud del alma hacia el espíritu; la oración debería ser la comunión de la filiación y la expresión de la hermandad. Cuando la oración es dictada por el espíritu, conduce al progreso espiritual cooperativo. ***La oración ideal es una forma de comunión espiritual que conduce a la adoración inteligente. La verdadera oración es la actitud sincera de tender la mano hacia el cielo para conseguir vuestros ideales».***» (<a id="a47_492"></a>[LU 144:2.2](/es/The_Urantia_Book/144#p2_2))
 
 > «Jesús siempre interpretó la religión, de manera sistemática, totalmente en función de la voluntad del Padre. Cuando estudiéis la carrera del Maestro, en lo referente a la oración o a cualquier otra característica de la vida religiosa, no busquéis tanto lo que enseñó como lo que hizo. Jesús nunca oraba porque fuera un deber religioso. Para él, la oración era:
 > 
@@ -46,15 +70,15 @@ dateCreated: 2023-09-29T14:02:03.086Z
 > - una confesión de devoción suprema, 
 > - la validación de una consagración, 
 > - una técnica para ajustar las dificultades 
-> - y la poderosa movilización de los poderes combinados del alma para resistir todas las tendencias humanas al egoísmo, al mal y al pecado. ([LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
+> - y la poderosa movilización de los poderes combinados del alma para resistir todas las tendencias humanas al egoísmo, al mal y al pecado. (<a id="a72_142"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
 
-> Vivió precisamente este tipo de vida consagrada piadosamente a hacer la voluntad de su Padre, y terminó su vida triunfalmente con una oración de este tipo. ***El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera —una comunión ininterrumpida con Dios— y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias.***» ([LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
+> Vivió precisamente este tipo de vida consagrada piadosamente a hacer la voluntad de su Padre, y terminó su vida triunfalmente con una oración de este tipo. ***El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera —una comunión ininterrumpida con Dios— y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias.***» (<a id="a74_466"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10))
 
 Podemos lograr _casi_ (no somos Jesús) esta conciencia de la presencia de Dios a través del logro diligente de los círculos y niveles mentales de los que somos conscientes en algún momento después del equilibrio y la trascendencia. ¡Eventualmente, un grado (como criaturas humanas) de la conciencia de Su presencia estará con nosotros las 24 horas del día!
 
-> «_En la vida terrestre de Jesús, la religión fue una experiencia viviente, un movimiento directo y personal ***desde la veneración espiritual hasta la rectitud práctica***. La fe de Jesús produjo los frutos trascendentes del espíritu divino. Su fe no era inmadura y crédula como la de un niño, pero en muchos aspectos se parecía a la confianza sin sospechas de la mente de un niño; Jesús confiaba en Dios como un niño confía en su padre. Tenía una profunda confianza en el universo —la misma confianza que tiene un niño en el ambiente de sus padres. La fe incondicional de Jesús en la bondad fundamental del universo se parecía mucho a la confianza del niño en la seguridad de su entorno terrestre._» ([LU 196:0.11](/es/The_Urantia_Book/196#p0_11))
+> «_En la vida terrestre de Jesús, la religión fue una experiencia viviente, un movimiento directo y personal ***desde la veneración espiritual hasta la rectitud práctica***. La fe de Jesús produjo los frutos trascendentes del espíritu divino. Su fe no era inmadura y crédula como la de un niño, pero en muchos aspectos se parecía a la confianza sin sospechas de la mente de un niño; Jesús confiaba en Dios como un niño confía en su padre. Tenía una profunda confianza en el universo —la misma confianza que tiene un niño en el ambiente de sus padres. La fe incondicional de Jesús en la bondad fundamental del universo se parecía mucho a la confianza del niño en la seguridad de su entorno terrestre._» (<a id="a78_704"></a>[LU 196:0.11](/es/The_Urantia_Book/196#p0_11))
 
-> «No es extraño que dijera una vez: «A menos que os volváis como un niño pequeño, no entraréis en el reino». Aunque la fe de Jesús era *ingenua*, no era en ningún sentido *infantil*.» ([LU 196:0.12](/es/The_Urantia_Book/196#p0_12))
+> «No es extraño que dijera una vez: «A menos que os volváis como un niño pequeño, no entraréis en el reino». Aunque la fe de Jesús era *ingenua*, no era en ningún sentido *infantil*.» (<a id="a80_186"></a>[LU 196:0.12](/es/The_Urantia_Book/196#p0_12))
 
 Si prácticamente vivimos y modificamos nuestras vidas, mediante las siguientes cosas simples:
 
@@ -86,7 +110,7 @@ La confianza surge y se construye a medida que decidimos repetidamente hacer el 
 4. Debes hacer una elección incondicional de la voluntad divina. Debes borrar el punto muerto de la indecisión. (Haga un bien mayor, elimine la procrastinación y tome una decisión irrevocable de convertirse en Su Hijo).
 5. No sólo reconoces la voluntad del Padre y eliges hacerla, sino que has efectuado una consagración incondicional y una dedicación dinámica a hacer la voluntad del Padre. (Ya sabes lo que es; consulta \# 4. Es muy importante que se repita con diferentes palabras).
 6. Tu oración estará dirigida exclusivamente a que la sabiduría divina resuelva los problemas humanos específicos encontrados en la ascensión al Paraíso: el logro de la perfección divina.
-7. Y debéis tener una fe que viva la fe. (La confianza es imprescindible). ([LU 91:9.1-8](/es/The_Urantia_Book/91#p9_1))
+7. Y debéis tener una fe que viva la fe. (La confianza es imprescindible). (<a id="a112_76"></a>[LU 91:9.1-8](/es/The_Urantia_Book/91#p9_1))
 
 _Se nos dice que oremos sólo por valores, no por cosas._ Cosas que podemos obtener, valores con los que debemos recibir ayuda y desarrollar el crecimiento para apreciar y reconocer los valores.
 
@@ -110,3 +134,28 @@ _Y la adoración es agradecimiento por todo lo que tenemos, sabemos y somos._
 > _Jean Barr es ministro ordenado, ha ocupado puestos ejecutivos de alto nivel en la industria de seguros durante más de 30 años y ahora se desempeña como presidente de Michael's Foundation, Inc., de Dallas, y es ejecutivo de marketing en una empresa de atención médica administrada._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/Should_a_Urantia_Church_be_Formed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Debería formarse una Iglesia Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Challenge_Part_I">
+          <span class="pr-2">El desafío: Parte 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

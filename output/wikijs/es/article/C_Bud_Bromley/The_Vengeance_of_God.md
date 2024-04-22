@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Bud Bromley<br>© 1994 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ben_LeMay/Meeting_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro con el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="pr-2">Libros importantes: Los cinco evangelios de Robert W. Funk et al</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «Mía es la venganza [^1]», dice el Señor. ([Deut. 32:35a.](/es/Bible/Deuteronomy/32#v35)) Curiosamente, sin embargo, cuando Jesús decidió leer [Isaías 61:1-2](/es/Bible/Isaiah/61#v1), decidió detenerse en medio de una oración, sin continuar hacia «y el día de la venganza de nuestro Dios». ([Lucas 4:18-20](/es/Bible/Luke/4#v18)) No sólo dejó de leer, sino que «cerró el rollo», como para enfatizar el lugar donde se detuvo. ¿Estaba Jesús anulando Deuteronomio e Isaías? ¿Cuáles son las declaraciones más autorizadas de la Biblia sobre el carácter de Dios?
@@ -23,17 +47,17 @@ _Jesús es la autoridad suprema en la Biblia, enviado directamente por Dios._ S�
 
 Jesús dijo: «Os doy un mandamiento nuevo: que os améis unos a otros como yo os he amado». ([Juan 13:34](/es/Bible/John/13#v34)) Si Jesús nos ama, y si nos está mostrando a Dios, entonces Dios mismo nos ama.
 
-_El Libro de Urantia_ retrata a Dios como un Dios de amor. «Nosotros (los Consejeros Divinos) estamos desconcertados por el creciente desarrollo del panorama interminable de la verdad de su infinita bondad (de Dios), infinita misericordia, sabiduría incomparable y carácter soberbio». ([LU 1:4.4](/es/The_Urantia_Book/1#p4_4)) [^3] «....sabéis igualmente bien que el Padre Universal no puede ser nada menos que una personalidad eterna, infinita, verdadera, buena y hermosa.» ([LU 1:5.2](/es/The_Urantia_Book/1#p5_2)) «...su vida (de Jesús) de lograr la voluntad del Padre se convierte en la revelación más real e ideal de la personalidad de Dios para el hombre.» ([LU 1:6.8](/es/The_Urantia_Book/1#p6_8)) «Dios es inherentemente bondadoso, naturalmente compasivo y eternamente misericordioso». ([LU 2:4.2](/es/The_Urantia_Book/2#p4_2)) «_Dios nunca está iracundo, vengativo o enojado._» (cursiva mía) ([LU 2:6.7](/es/The_Urantia_Book/2#p6_7)) «‘Dios es amor’; por lo tanto, su única actitud personal hacia los asuntos del universo es siempre una reacción de afecto divino». ([LU 2:5.1](/es/The_Urantia_Book/2#p5_1)) «Dios es divinamente bondadoso con los pecadores. Cuando los rebeldes vuelven a la justicia, son recibidos con misericordia». ([LU 2:5.4](/es/The_Urantia_Book/2#p5_4)) Estas declaraciones representan bien a Dios, como se describe en _El Libro de Urantia_. (¡Y estamos apenas en el primer 1,96 por ciento de todo el libro!) [^4]
+_El Libro de Urantia_ retrata a Dios como un Dios de amor. «Nosotros (los Consejeros Divinos) estamos desconcertados por el creciente desarrollo del panorama interminable de la verdad de su infinita bondad (de Dios), infinita misericordia, sabiduría incomparable y carácter soberbio». (<a id="a49_286"></a>[LU 1:4.4](/es/The_Urantia_Book/1#p4_4)) [^3] «....sabéis igualmente bien que el Padre Universal no puede ser nada menos que una personalidad eterna, infinita, verdadera, buena y hermosa.» (<a id="a49_476"></a>[LU 1:5.2](/es/The_Urantia_Book/1#p5_2)) «...su vida (de Jesús) de lograr la voluntad del Padre se convierte en la revelación más real e ideal de la personalidad de Dios para el hombre.» (<a id="a49_664"></a>[LU 1:6.8](/es/The_Urantia_Book/1#p6_8)) «Dios es inherentemente bondadoso, naturalmente compasivo y eternamente misericordioso». (<a id="a49_795"></a>[LU 2:4.2](/es/The_Urantia_Book/2#p4_2)) «_Dios nunca está iracundo, vengativo o enojado._» (cursiva mía) (<a id="a49_902"></a>[LU 2:6.7](/es/The_Urantia_Book/2#p6_7)) «‘Dios es amor’; por lo tanto, su única actitud personal hacia los asuntos del universo es siempre una reacción de afecto divino». (<a id="a49_1075"></a>[LU 2:5.1](/es/The_Urantia_Book/2#p5_1)) «Dios es divinamente bondadoso con los pecadores. Cuando los rebeldes vuelven a la justicia, son recibidos con misericordia». (<a id="a49_1243"></a>[LU 2:5.4](/es/The_Urantia_Book/2#p5_4)) Estas declaraciones representan bien a Dios, como se describe en _El Libro de Urantia_. (¡Y estamos apenas en el primer 1,96 por ciento de todo el libro!) [^4]
 
 Dios es un Padre celestial amoroso. El hijo pródigo, en la parábola de Jesús, cuando «volvió en sí», fue recibido por su padre con amor. ([Lucas 15:11-24](/es/Bible/Luke/15#v11)) Pablo escribió: «Quedan la fe, la esperanza y el amor; y el mayor de ellos es el amor». ([I Cor. 13:13](/es/Bible/1_Corinthians/13#v13)) Pero venganza es: contraataque, castigo, represalia, venganza, retribución.[^5] (Tenga en cuenta que «acción correctiva» no figura como sinónimo de « venganza»). En la misma cruz, ¿Jesús pidió venganza? ¡No! Más bien, dijo: «Padre, perdónalos; No saben lo que hacen.» ([Lucas 23:34](/es/Bible/Luke/23#v34)) ¿Podría haber alguna vez un repudio más fuerte a la venganza? Recuerde, Él todavía nos estaba mostrando lo que es el Padre. Si Jesús tenía razón, entonces no hay venganza en Dios en el sentido demasiado humano de esa palabra.
 
 ¿No hay entonces ningún tipo de justicia en el cielo? Por supuesto que sí. Jesús dijo que si alguien engañaba a los niños, ¡sería mejor que le colgaran al cuello una gran piedra de molino y lo arrojaran a lo profundo del mar! (Mat.18:6, [Marcos 9:42](/es/Bible/Mark/9#v42), [Lucas 17:2](/es/Bible/Luke/17#v2)) Nótese bien, sin embargo, que Jesús no estaba diciendo que debiéramos hacerle esto a nadie, ni que Dios lo haría; pero estaba insinuando claramente que para los pecados habrá una respuesta.
 
-¿Pero la justicia de Dios requiere venganza? Hace más de un siglo, Frederick Faber escribió en su gran himno: «Hay una bondad en su justicia que es más que libertad». _El Libro de Urantia_ dice que «Sólo el discernimiento de la sabiduría infinita permite a un Dios justo ministrar justicia y misericordia al mismo tiempo y en cualquier situación universal dada». ([LU 2:4.3](/es/The_Urantia_Book/2#p4_3)) Sin embargo, nosotros los mortales podemos especular sobre cómo podría funcionar el amor y la justicia combinados de Dios. Hay una hermosa frase en la Conferencia Bíblica Masónica que alentaría a todos los hombres buenos a estudiar la Biblia para «guiar sus pasos a través de la vida por la luz que allí encontrarán, y como allí la encontrarán». [^6] Por lo tanto, en nuestra especulación, debemos aceptar el hecho de que, «Es con nuestros juicios como con nuestros relojes; Ninguno va igual, pero cada uno cree en lo suyo». [^7]
+¿Pero la justicia de Dios requiere venganza? Hace más de un siglo, Frederick Faber escribió en su gran himno: «Hay una bondad en su justicia que es más que libertad». _El Libro de Urantia_ dice que «Sólo el discernimiento de la sabiduría infinita permite a un Dios justo ministrar justicia y misericordia al mismo tiempo y en cualquier situación universal dada». (<a id="a55_364"></a>[LU 2:4.3](/es/The_Urantia_Book/2#p4_3)) Sin embargo, nosotros los mortales podemos especular sobre cómo podría funcionar el amor y la justicia combinados de Dios. Hay una hermosa frase en la Conferencia Bíblica Masónica que alentaría a todos los hombres buenos a estudiar la Biblia para «guiar sus pasos a través de la vida por la luz que allí encontrarán, y como allí la encontrarán». [^6] Por lo tanto, en nuestra especulación, debemos aceptar el hecho de que, «Es con nuestros juicios como con nuestros relojes; Ninguno va igual, pero cada uno cree en lo suyo». [^7]
 
-Con esta admisión de que la luz que uno puede encontrar puede diferir de la luz que otro puede encontrar, permítanme comenzar mi conjetura sobre cómo Dios podría combinar el amor con la justicia usando otra afirmación de El Libro de Urantia: «El hombre comprende mejor a su prójimo», más fácil será perdonarlo e incluso amarlo». ([LU 2:4.2](/es/The_Urantia_Book/2#p4_2)) Dado que Dios es un Dios de amor, mi postulado básico es que, para progresar espiritualmente en el Más Allá, debemos crecer en comprensión amorosa de tal manera que seamos capaces de amarnos verdaderamente unos a otros. «El que no ama no conoce a Dios, porque Dios es amor». ([I Juan 4:8](/es/Bible/1_John/4#v8))
+Con esta admisión de que la luz que uno puede encontrar puede diferir de la luz que otro puede encontrar, permítanme comenzar mi conjetura sobre cómo Dios podría combinar el amor con la justicia usando otra afirmación de El Libro de Urantia: «El hombre comprende mejor a su prójimo», más fácil será perdonarlo e incluso amarlo». (<a id="a57_330"></a>[LU 2:4.2](/es/The_Urantia_Book/2#p4_2)) Dado que Dios es un Dios de amor, mi postulado básico es que, para progresar espiritualmente en el Más Allá, debemos crecer en comprensión amorosa de tal manera que seamos capaces de amarnos verdaderamente unos a otros. «El que no ama no conoce a Dios, porque Dios es amor». ([I Juan 4:8](/es/Bible/1_John/4#v8))
 
-¿Hay alguien en tu vida que, tal como lo percibes actualmente, te haya cometido una grave injusticia? ¿Podrías alguna vez aprender a «perdonarlo e incluso amarlo»? Hay un ejemplo sorprendente de este tipo de posibilidad. Visualice, en la boca de una cueva, «...un hombre bajito, deforme, sucio y gruñón, de pie, con las piernas abiertas y el garrote en alto, respirando odio y animosidad mientras mira ferozmente hacia adelante». ¡Qué salvaje tan brutal! Nuestras sensibilidades civilizadas están listas para ser ofendidas. Pero espera; aprendamos más. «Frente a este humano animado se agacha un tigre con dientes de sable; detrás de él, una mujer y dos niños». [^8] ([LU 100:4.5](/es/The_Urantia_Book/100#p4_5)) Esa imagen ampliada debería cambiar toda nuestra comprensión. He aquí un padre que defiende valientemente a su familia. Esto hace que sea fácil rescindir nuestro juicio apresurado e «incluso amarlo».
+¿Hay alguien en tu vida que, tal como lo percibes actualmente, te haya cometido una grave injusticia? ¿Podrías alguna vez aprender a «perdonarlo e incluso amarlo»? Hay un ejemplo sorprendente de este tipo de posibilidad. Visualice, en la boca de una cueva, «...un hombre bajito, deforme, sucio y gruñón, de pie, con las piernas abiertas y el garrote en alto, respirando odio y animosidad mientras mira ferozmente hacia adelante». ¡Qué salvaje tan brutal! Nuestras sensibilidades civilizadas están listas para ser ofendidas. Pero espera; aprendamos más. «Frente a este humano animado se agacha un tigre con dientes de sable; detrás de él, una mujer y dos niños». [^8] (<a id="a59_668"></a>[LU 100:4.5](/es/The_Urantia_Book/100#p4_5)) Esa imagen ampliada debería cambiar toda nuestra comprensión. He aquí un padre que defiende valientemente a su familia. Esto hace que sea fácil rescindir nuestro juicio apresurado e «incluso amarlo».
 
 No sólo sé lo que haremos en el Más Allá. Pero si he ofendido a alguien (¿y quién no lo ha hecho?), afirmo que tarde o temprano debo aprender a vivir con tanta nobleza que él pueda llegar a ser capaz de perdonarme e incluso de amarme. Y si alguien me ha ofendido, entonces, mientras él aprende a ser amable, yo debo aprender a ser tan comprensivo que pueda llegar a perdonarlo e incluso a amarlo. El concepto no es nuevo; En su historia más notable, Dickens nos habla de Scrooge, quien, cuando mostró milagrosamente su comportamiento y sus consecuencias, cambió de tal manera que amó y llegó a ser amado por aquellos a quienes antes había agraviado.
 
@@ -49,6 +73,31 @@ Este concepto de la venganza de Dios no satisface el impulso humano primitivo de
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ben_LeMay/Meeting_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro con el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="pr-2">Libros importantes: Los cinco evangelios de Robert W. Funk et al</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

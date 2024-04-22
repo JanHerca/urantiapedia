@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Eric Cosh<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Dónde están los grandes líderes y maestros de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="pr-2">La orquesta de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Fue allá por 1972 cuando conocí por primera vez _El Libro de Urantia_. En ese momento, yo era un animador profesional y acababa de regresar de tomarme fotografías de nuestro grupo. Invité a nuestro fotógrafo y a su novia a acompañarnos a mí y a mi novia en mi apartamento para tomar un refrigerio.
@@ -60,3 +84,28 @@ Recientemente hice una producción de video para John Teets, ex director ejecuti
 > _Eric Cosh vio por primera vez El Libro de Urantia en 1972 en Denver, Colorado, compró El Libro de Urantia por primera vez en la librería Blue Note de Denver en 1976 y se unió a la Sociedad de Oklahoma en 1981. Eric fue uno de los fundadores de «La Sociedad del Gran Cañón para lectores de El libro de Urantia». Ha estado grabando conferencias en vídeo profesionalmente y realizando entrevistas sobre Urantia durante más de una década. Puede comunicarse con Eric en: eric@pvpweddings.com_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Dónde están los grandes líderes y maestros de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="pr-2">La orquesta de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

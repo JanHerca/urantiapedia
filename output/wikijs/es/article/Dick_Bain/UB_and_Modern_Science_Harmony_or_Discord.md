@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Richard I. Bain<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las matemáticas del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/UB_and_Spiritual_Renewal">
+          <span class="pr-2">El libro de Urantia y la renovación espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Biblia es una colección de libros. _El Libro de Urantia_ es una colección de artículos. Ambos libros hablan del origen de los mortales en este planeta. Ambos hablan de nuestra relación con Dios. Ambos contienen información sobre la vida y las enseñanzas de Jesús. En opinión de muchos cristianos, el Nuevo Testamento es sólo una actualización del Antiguo Testamento. Algunos de los que leen _El Libro de Urantia_ pueden considerarlo un suplemento de la Biblia o un «tercer testamento». Desde un punto de vista espiritual esto puede ser cierto. Sin embargo, una evaluación crítica de ambos libros indica que están escritos en diferentes niveles conceptuales. Una diferencia obvia es que la Biblia es un documento precientífico. Fue escrito por personas que creían que el mundo era plano y que no tenían idea de que las estrellas son soles distantes. _El Libro de Urantia_, por otra parte, está en armonía tanto con la ciencia del siglo XX como con las enseñanzas de Jesús.
@@ -19,9 +43,9 @@ _El Libro de Urantia_ habla de la misión de Jesús aquí como la Cuarta Revelac
 
 En los últimos cientos de años, la ciencia y la religión no siempre han tenido una relación cordial. La Iglesia intentó aferrarse a los conceptos obsoletos de una era precientífica y al mismo tiempo intentar suprimir las nuevas ideas, a veces inquietantes, que la ciencia les imponía. Pero no se podía negar la ciencia. Tan pronto como la religión perdió el poder del Estado para hacer cumplir sus edictos, la ciencia floreció y prevaleció. La balanza se ha inclinado tanto en dirección a la ciencia que ésta es casi una religión en nuestra era materialista. Hoy en día, muchos recurren a la ciencia en busca de respuestas a preguntas como el origen de la vida o cómo prevenir o poner fin al sufrimiento. El reino del espíritu es sospechoso. La atmósfera que alguna vez estuvo llena de ángeles ahora contiene sólo cosas como ondas de radio, ondas de luz visible y satélites. Lo que se necesita en los siglos XX y XXI es una filosofía y una visión de la realidad que restablezcan la credibilidad de lo espiritual, reconociendo al mismo tiempo la validez de las teorías y observaciones de la ciencia. Semejante visión de la realidad no sólo debería elevar la ciencia y la religión, sino también mostrar su interrelación. _El Libro de Urantia_ ofrece esa visión. Además, delinea cómo la filosofía puede equilibrar y armonizar las dos búsquedas.
 
-Al considerar la ciencia y la cosmología del libro, cabe señalar que a los autores se les impusieron ciertas restricciones con respecto a lo que podían revelarnos. El [LU 101:4.6](/es/The_Urantia_Book/101#p4_6) los reveladores nos dicen: «Las leyes de la revelación nos obstaculizan enormemente al prohibir la impartición de conocimiento no ganado... No tenemos la libertad de anticipar los descubrimientos científicos de mil años.» Entonces, ¿qué nos pueden decir en este ámbito? Los autores nos informan que pueden discutir hechos conocidos o por conocerse. Por supuesto, «a punto de ser conocido» implica un período de tiempo relativamente corto para nosotros, pero ¿cuánto tiempo es para los seres que existieron antes de que aparecieran los mortales en la Tierra? Los autores de los artículos parecen dar a entender que este período de tiempo es inferior a mil años. Podemos tener una idea de hasta qué punto se les permitió proyectar a los autores comparando los conceptos que han incluido en los artículos con las teorías actuales de nuestros científicos. La inclusión en el libro de conceptos científicos que pronto quedarán obsoletos plantea una cuestión seria. ¿La credibilidad de la ciencia en el libro se refleja en la validez de los conceptos espirituales del libro?
+Al considerar la ciencia y la cosmología del libro, cabe señalar que a los autores se les impusieron ciertas restricciones con respecto a lo que podían revelarnos. El <a id="a45_167"></a>[LU 101:4.6](/es/The_Urantia_Book/101#p4_6) los reveladores nos dicen: «Las leyes de la revelación nos obstaculizan enormemente al prohibir la impartición de conocimiento no ganado... No tenemos la libertad de anticipar los descubrimientos científicos de mil años.» Entonces, ¿qué nos pueden decir en este ámbito? Los autores nos informan que pueden discutir hechos conocidos o por conocerse. Por supuesto, «a punto de ser conocido» implica un período de tiempo relativamente corto para nosotros, pero ¿cuánto tiempo es para los seres que existieron antes de que aparecieran los mortales en la Tierra? Los autores de los artículos parecen dar a entender que este período de tiempo es inferior a mil años. Podemos tener una idea de hasta qué punto se les permitió proyectar a los autores comparando los conceptos que han incluido en los artículos con las teorías actuales de nuestros científicos. La inclusión en el libro de conceptos científicos que pronto quedarán obsoletos plantea una cuestión seria. ¿La credibilidad de la ciencia en el libro se refleja en la validez de los conceptos espirituales del libro?
 
-Los autores de _El Libro de Urantia_ dejan bastante claro que la cosmología y la ciencia del libro se encuentran en una categoría bastante diferente a la de sus conceptos espirituales. En [LU 101:4.6](/es/The_Urantia_Book/101#p4_6) leemos: «La cosmología de estas revelaciones no es inspirada... Si bien la percepción divina o espiritual es un don, la sabiduría humana debe evolucionar». Los autores nos informan además en la misma página: «... dentro de unos pocos años, muchas de nuestras declaraciones sobre las ciencias físicas necesitarán una revisión como consecuencia de desarrollos científicos adicionales y nuevos descubrimientos». Está claro que los conceptos espirituales del libro deben valerse por sí mismos. Pero si una parte de la ciencia pronto quedará obsoleta, ¿qué valor tiene esa parte para nosotros? En [LU 101:4.6](/es/The_Urantia_Book/101#p4_6), los autores nos dicen que las ideas científicas «son de inmenso valor porque al menos aclaran transitoriamente el conocimiento al:
+Los autores de _El Libro de Urantia_ dejan bastante claro que la cosmología y la ciencia del libro se encuentran en una categoría bastante diferente a la de sus conceptos espirituales. En <a id="a47_188"></a>[LU 101:4.6](/es/The_Urantia_Book/101#p4_6) leemos: «La cosmología de estas revelaciones no es inspirada... Si bien la percepción divina o espiritual es un don, la sabiduría humana debe evolucionar». Los autores nos informan además en la misma página: «... dentro de unos pocos años, muchas de nuestras declaraciones sobre las ciencias físicas necesitarán una revisión como consecuencia de desarrollos científicos adicionales y nuevos descubrimientos». Está claro que los conceptos espirituales del libro deben valerse por sí mismos. Pero si una parte de la ciencia pronto quedará obsoleta, ¿qué valor tiene esa parte para nosotros? En <a id="a47_824"></a>[LU 101:4.6](/es/The_Urantia_Book/101#p4_6), los autores nos dicen que las ideas científicas «son de inmenso valor porque al menos aclaran transitoriamente el conocimiento al:
 
 1. La reducción de la confusión, eliminando con autoridad los errores.
 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos.
@@ -37,7 +61,7 @@ La primera categoría abarca conceptos científicos que se consideraban válidos
 
 > _Los autores de ***El Libro de Urantia*** dejan bastante claro que la cosmología y la ciencia en el libro están en una categoría bastante diferente a la de sus conceptos espirituales._
 
-La segunda categoría es la ciencia que quedó obsoleta poco después de la publicación del libro pero que concordaba con la teoría científica en el momento en que se recibieron los Documentos de Urantia. Esta segunda categoría es de especial interés porque puede haber un propósito no revelado al incluir este tipo de ciencia en el libro. Hay dos buenos candidatos en esta segunda categoría. Uno de ellos es la distancia a la galaxia de Andrómeda. En [LU 15:4.7](/es/The_Urantia_Book/15#p4_7) del libro se nos dice que la luz que vemos desde esta galaxia tardó un millón de años en llegar hasta aquí, pero hoy en día los astrónomos tienen buenas razones para fijar la distancia a esta galaxia en más de dos millones de años luz. Sin embargo, cuando se recibieron los artículos, los astrónomos creían que esta galaxia estaba a sólo un millón de años luz de distancia. Otro ejemplo de conceptos científicos de segunda categoría se refiere al planeta Mercurio. Una declaración en [LU 57:6.2](/es/The_Urantia_Book/57#p6_2) nos informa que el planeta Mercurio mantiene la misma cara hacia el sol mientras gira alrededor de él. De hecho, Mercurio gira aproximadamente 1,5 veces por cada revolución alrededor del sol. Esto se descubrió en la década de 1960 mediante estudios de radar, pero en el momento en que se recibieron los artículos y en el momento en que se publicó el libro, los astrónomos creían que Mercurio mantenía la misma cara hacia el sol. Otro posible miembro de la categoría número dos es el rompecabezas de los «cien elementos». _El Libro de Urantia_ parece decir que sólo puede haber 100 elementos, pero hoy la ciencia afirma haber encontrado más de 120 elementos. Algunas sutilezas pueden calificar los elementos por encima del número 100 de una manera que los excluya de la consideración como elementos, pero nuestros científicos aún no han encontrado estas sutilezas. Quizás sea posible explicar el aparente conflicto observando que la ciencia había descubierto menos de 100 elementos cuando se recibieron los Documentos de Urantia. Quizás a los autores no se les permitió ir más allá de conceptos para los cuales ya existía una teoría o un número.
+La segunda categoría es la ciencia que quedó obsoleta poco después de la publicación del libro pero que concordaba con la teoría científica en el momento en que se recibieron los Documentos de Urantia. Esta segunda categoría es de especial interés porque puede haber un propósito no revelado al incluir este tipo de ciencia en el libro. Hay dos buenos candidatos en esta segunda categoría. Uno de ellos es la distancia a la galaxia de Andrómeda. En <a id="a63_449"></a>[LU 15:4.7](/es/The_Urantia_Book/15#p4_7) del libro se nos dice que la luz que vemos desde esta galaxia tardó un millón de años en llegar hasta aquí, pero hoy en día los astrónomos tienen buenas razones para fijar la distancia a esta galaxia en más de dos millones de años luz. Sin embargo, cuando se recibieron los artículos, los astrónomos creían que esta galaxia estaba a sólo un millón de años luz de distancia. Otro ejemplo de conceptos científicos de segunda categoría se refiere al planeta Mercurio. Una declaración en <a id="a63_975"></a>[LU 57:6.2](/es/The_Urantia_Book/57#p6_2) nos informa que el planeta Mercurio mantiene la misma cara hacia el sol mientras gira alrededor de él. De hecho, Mercurio gira aproximadamente 1,5 veces por cada revolución alrededor del sol. Esto se descubrió en la década de 1960 mediante estudios de radar, pero en el momento en que se recibieron los artículos y en el momento en que se publicó el libro, los astrónomos creían que Mercurio mantenía la misma cara hacia el sol. Otro posible miembro de la categoría número dos es el rompecabezas de los «cien elementos». _El Libro de Urantia_ parece decir que sólo puede haber 100 elementos, pero hoy la ciencia afirma haber encontrado más de 120 elementos. Algunas sutilezas pueden calificar los elementos por encima del número 100 de una manera que los excluya de la consideración como elementos, pero nuestros científicos aún no han encontrado estas sutilezas. Quizás sea posible explicar el aparente conflicto observando que la ciencia había descubierto menos de 100 elementos cuando se recibieron los Documentos de Urantia. Quizás a los autores no se les permitió ir más allá de conceptos para los cuales ya existía una teoría o un número.
 
 La tercera categoría incluye ciencia que no estaba de acuerdo con la teoría científica vigente en el momento en que se recibieron los artículos, pero que desde entonces ha sido validada por nuevos hallazgos científicos. Un ejemplo de esta categoría es el de la tectónica de placas y la deriva continental. En una edición del boletín Six-O-Six de Australia, el Dr. Ken Glasziou analiza la historia de la teoría de la deriva continental en un artículo titulado «La segunda predicción». Relata que la teoría fue propuesta en 1912 por Wegener, pero fue generalmente desacreditada hasta la década de 1960, cuando el examen de los procesos geológicos en el fondo del mar confirmó el concepto de deriva continental. _El Libro de Urantia_ habla del único supercontinente que algunos científicos han llamado «Pangea». El libro dice que este continente se rompió, formando los continentes de hoy. El libro apoya así una teoría que estaba desacreditada en el momento en que se recibieron los artículos.
 
@@ -62,3 +86,28 @@ Sin duda, la ciencia y la cosmología del libro tienen importancia por derecho p
 > Richard Bain es ingeniero eléctrico y editor de «Cosmic Reflections». Es un estudiante de _El Libro de Urantia_ desde hace mucho tiempo.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las matemáticas del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/UB_and_Spiritual_Renewal">
+          <span class="pr-2">El libro de Urantia y la renovación espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

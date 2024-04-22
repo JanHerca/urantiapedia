@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Paul Herrick<br>© 1995 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Just_Another_Source">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Sólo otra fuente?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="pr-2">La ortodoxia oriental y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando consideré por primera vez el título de la columna «_El Libro de Urantia_ y la renovación espiritual», sentí que no podía responder a eso directamente porque debe haber una «nueva» antes de que pueda haber una «renovación». Pero a medida que pensaba más en ello. Me di cuenta de que efectivamente había una «nueva». Cuando era muy joven tenía algunas inclinaciones espirituales. El problema fue que mi desarrollo intelectual los superó muy rápidamente. Mi fascinación tanto por la ciencia como por la aventura, combinada con una rápida comprensión de las falacias del «cristianismo», tendió a socavar estas inclinaciones y relegarlas al final de mi lista de prioridades. Cuando regresé a la universidad en 1960, después de tres años en el ejército, estaba en camino de pasar de «creyente»... a agnóstico... a ateo.
@@ -31,5 +55,30 @@ Mi vida de aventuras ha continuado (no puedo parar) y he tenido muchas más expe
 > _Paul Herrick es ingeniero aeronáutico y estudiante de_ El Libro de Urantia _desde hace mucho tiempo._
 {.is-info}
 
-> No intentéis satisfacer la curiosidad o contentar todas las aventuras latentes que surgen dentro del alma, en una corta vida en la carne. ¡Tened paciencia! No caigáis en la tentación de zambulliros de manera desordenada en aventuras baratas y sórdidas. Aprovechad vuestras energías y refrenad vuestras pasiones; permaneced tranquilos mientras esperáis el desarrollo majestuoso de una carrera sin fin de aventuras progresivas y de descubrimientos emocionantes. ([LU 195:5.10](/es/The_Urantia_Book/195#p5_10))
+> No intentéis satisfacer la curiosidad o contentar todas las aventuras latentes que surgen dentro del alma, en una corta vida en la carne. ¡Tened paciencia! No caigáis en la tentación de zambulliros de manera desordenada en aventuras baratas y sórdidas. Aprovechad vuestras energías y refrenad vuestras pasiones; permaneced tranquilos mientras esperáis el desarrollo majestuoso de una carrera sin fin de aventuras progresivas y de descubrimientos emocionantes. (<a id="a57_463"></a>[LU 195:5.10](/es/The_Urantia_Book/195#p5_10))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Just_Another_Source">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: ¿Sólo otra fuente?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="pr-2">La ortodoxia oriental y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

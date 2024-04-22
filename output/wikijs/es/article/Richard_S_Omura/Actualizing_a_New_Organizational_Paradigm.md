@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Richard S. Omura<br>© 2004 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús y la cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Poison_Parables_and_Paradise">
+          <span class="pr-2">Veneno, parábolas y paraíso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 He expresado mi opinión de que es necesaria una organización espiritual basada en las enseñanzas de _El Libro de Urantia_ para promover las verdades del libro en las vidas de los hombres y mujeres del planeta, como se detalla en mi tesis, «Difundir las enseñanzas en El Libro de Urantia»..” Los puntos en disputa de tal organización son los peligros de la religión institucionalizada de la que habla El Libro de Urantia:
@@ -32,7 +56,7 @@ He expresado mi opinión de que es necesaria una organización espiritual basada
 > 14. la religión formalista crea la discriminación nefasta de las castas religiosas; 
 > 15. se convierte en un juez intolerante de la ortodoxia; 
 > 16. no logra conservar el interés de la juventud aventurera, y pierde gradualmente el mensaje salvador del evangelio de la salvación eterna.
-> 17. La religión oficial frena a los hombres en sus actividades espirituales personales, en lugar de liberarlos para un servicio más elevado como constructores del reino. <a id="a57_145"></a>[LU 99:6.3-4](/es/The_Urantia_Book/99#p6_3)
+> 17. La religión oficial frena a los hombres en sus actividades espirituales personales, en lugar de liberarlos para un servicio más elevado como constructores del reino. <a id="a58_172"></a>[LU 99:6.3-4](/es/The_Urantia_Book/99#p6_3)
 
 Aunque los peligros son muchos, creo que tarde o temprano debemos aventurarnos por este camino. Actualmente, la Fundación Urantia satisface las necesidades materiales del libro, publicándolo y distribuyéndolo. The Fellowship reúne a los lectores en un contexto social y crea un ambiente donde las ideas del libro se discuten intelectual y filosóficamente. Pero, lamentablemente, no existe ninguna organización que promueva y desarrolle los conceptos espirituales que son una parte tan integral del libro.
 
@@ -77,3 +101,28 @@ Como es evidente, esto es sólo una idea en este momento y definitivamente neces
 > _Richard Omura ha sido lector de_ El libro de Urantia _desde principios de los años 70. Ha escrito dos libros basados en sus conceptos y, a menudo, imparte talleres en las conferencias de la Fellowship. Su sitio web es: www.RichardOmura.com._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús y la cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Poison_Parables_and_Paradise">
+          <span class="pr-2">Veneno, parábolas y paraíso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

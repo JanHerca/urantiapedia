@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Movement_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento del Movimiento Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="pr-2">Interfaz: En lenguaje sencillo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La edición de octubre de 1998 de _Theology Today_ examina la creciente conversación entre ciencia y teología. El tono es muy diferente del conflicto librado entre religión y ciencia descrito en el libro clásico de Andrew White, Una historia de la guerra de la ciencia con la teología en la cristiandad (1896). En ambas disciplinas cada vez se comprende más que existe una unidad básica de conocimiento, que todas las disciplinas académicas pueden aprender unas de otras. Esta tendencia se ve en el pensamiento de Teilhard de Chardin y Alfred North Whitehead, donde los datos científicos son un componente importante de su filosofía y teología.
@@ -21,8 +45,33 @@ Es lamentable que no haya habido un intento serio de examinar el libro por parte
 
 ---
 
-> «_El cristianismo muestra en su historia que tuvo su origen en la transformación no intencionada de la religión de Jesús en una religión acerca de Jesús. Además, su historia indica que experimentó la helenización, la paganización, la secularización, la institucionalización, el deterioro intelectual, la decadencia espiritual, la hibernación moral, la amenaza de extinción, el rejuvenecimiento posterior, la fragmentación y una rehabilitación relativa más reciente. Este historial indica una vitalidad inherente y la posesión de inmensos recursos de recuperación._» ([LU 195:4.4](/es/The_Urantia_Book/195#p4_4))
+> «_El cristianismo muestra en su historia que tuvo su origen en la transformación no intencionada de la religión de Jesús en una religión acerca de Jesús. Además, su historia indica que experimentó la helenización, la paganización, la secularización, la institucionalización, el deterioro intelectual, la decadencia espiritual, la hibernación moral, la amenaza de extinción, el rejuvenecimiento posterior, la fragmentación y una rehabilitación relativa más reciente. Este historial indica una vitalidad inherente y la posesión de inmensos recursos de recuperación._» (<a id="a47_569"></a>[LU 195:4.4](/es/The_Urantia_Book/195#p4_4))
 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Movement_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento del Movimiento Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="pr-2">Interfaz: En lenguaje sencillo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Meredith Sprunger<br>© 2006 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Gifts_and_Graces_of_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regalos y gracias de la comunidad Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="pr-2">Hermandad Urantia: origen, historia y destino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En la edición de abril de The Atlantic, Philip Jenkins se refiere a _El Libro de Urantia_ como un clásico de culto. Muchas personas reflexivas, incluidos los cristianos tradicionales, creen que es mucho más que esto. Tiene un tono de verdad al que responde un número cada vez mayor de personas que buscan, y esta resonancia sólo aumenta con años de cuidadoso examen y estudio.
@@ -21,3 +45,28 @@ Cada vez más, muchas de las influencias teológicas y culturales de Pablo está
 
 Todos estos desarrollos evolutivos están trabajando juntos para cambiar el carácter del cristianismo y, en mi opinión, conducirán al descubrimiento de las enseñanzas del Libro de Urantia. En los próximos cientos de años, creo que La vida y las enseñanzas de Jesús en los Documentos de Urantia están destinadas a traer un renacimiento al cristianismo y una relación armoniosa entre las principales religiones del mundo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Gifts_and_Graces_of_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regalos y gracias de la comunidad Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="pr-2">Hermandad Urantia: origen, historia y destino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

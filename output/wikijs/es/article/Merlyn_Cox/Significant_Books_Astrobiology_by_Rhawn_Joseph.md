@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un examen cuidadoso de las exenciones de responsabilidad «no inspiradas» del libro de Urantia, parte 1</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mel_Quinn/On_the_Supreme_An_Essay">
+          <span class="pr-2">Sobre El Supremo: un ensayo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nota sobre el título [^1]
@@ -59,7 +83,7 @@ En medio del flujo y la incertidumbre que a menudo caracterizan gran parte de la
 
 Para los lectores del Libro de Urantia, resultará obvio que las conclusiones de José están muy en consonancia con la comprensión del libro sobre la evolución, una comprensión que hasta ahora ha estado claramente fuera de sintonía con la teoría científica actual. La evolución, según _El Libro de Urantia_, no es accidental ni aleatoria, sino que refleja el desarrollo progresivo de la vida, según un plan predeterminado, y culmina en una vida inteligente y consciente de sí misma:
 
-> «_Los procesos evolutivos interminables de los pueblos, los planetas y los universos están perfectamente controlados por los creadores y administradores universales, y se desarrollan según el propósito eterno del Padre Universal, avanzando en orden y armonía de acuerdo con el plan infinitamente sabio de Dios._» ([LU 3:2.2](/es/The_Urantia_Book/3#p2_2))
+> «_Los procesos evolutivos interminables de los pueblos, los planetas y los universos están perfectamente controlados por los creadores y administradores universales, y se desarrollan según el propósito eterno del Padre Universal, avanzando en orden y armonía de acuerdo con el plan infinitamente sabio de Dios._» (<a id="a85_316"></a>[LU 3:2.2](/es/The_Urantia_Book/3#p2_2))
 
 Joseph lo expresó de esta manera: «Tampoco hay nada aleatorio en la evolución de las especies, y hay una progresión obvia desde una sola célula hasta la mujer y el hombre. Sólo los nihilistas, aquellos que temen la ‘mano guía de Dios’ y aquellos que afirman que las bacterias y los humanos tienen el mismo valor, argumentarían lo contrario». (pág.154)
 
@@ -73,6 +97,31 @@ Aunque el pensamiento y las tradiciones científicas cambian lentamente, los lec
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un examen cuidadoso de las exenciones de responsabilidad «no inspiradas» del libro de Urantia, parte 1</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mel_Quinn/On_the_Supreme_An_Essay">
+          <span class="pr-2">Sobre El Supremo: un ensayo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difundiendo las Enseñanzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="pr-2">La única vida que vale la pena vivir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nota: El término «metavalores» fue acuñado originalmente por Abraham Maslow. El Dr. Maslow creía que se debería desarrollar una «Ciencia de los Valores», una idea que aún no se ha hecho realidad. Los urantianos pueden captar fácilmente el concepto de MetaValores y utilizarlo para mejorar su capacidad de vivir las enseñanzas de los Documentos de Urantia.
@@ -68,7 +92,7 @@ Los Documentos de Urantia nos aseguran que la visión espiritual nos dará las r
 - 2) _Oración regular, meditativa_. La percepción espiritual también puede facilitarse o aumentarse mediante la relajación y la receptividad mediante la oración meditativa. También podemos definir esta actividad como un esfuerzo consciente para alinearnos con las fuerzas de la realidad del universo, como se describe en detalle en la sección Rodán de los Documentos de Urantia.
 - 3) _Tocar fondo_. Una experiencia cumbre, en un momento de desesperación total, ha preparado el escenario para una comprensión inferior de la percepción espiritual que puede conducir a una vida de dedicación a un proyecto o causa que es más importante que uno mismo.
 
-Independientemente de cómo se produzca una visión espiritual, sabemos que la voluntad humana es necesaria para capturar una visión espiritual y llevarla al nivel material de manifestación o actualización por medio de la acción. Jesús enseñó que la voluntad humana de hacer surge del respeto a uno mismo y de la convicción de que uno puede hacer y de que tenemos algo que vale la pena ofrecer. Creemos que nuestra acción tendrá sentido. Cuando la voluntad de hacer se fusiona con la creencia de que uno puede hacer, el compuesto se manifiesta como un impulso asertivo para ser proactivo y hacer que algo suceda. Sin embargo, la asertividad pura, independientemente de su justificación, podría invadir y explotar sin piedad a otras personas, absolviéndose a sí misma al declarar que «el fin justifica los medios». Claramente, la asertividad es una cualidad necesaria, pero se necesita algo más si queremos estar alineados con los Metavalores. Jesús vio esto claramente: «Cuando atraigáis a los hombres hacia el reino, no disminuyáis ni destruyáis su autoestima. Una autoestima excesiva puede destruir la humildad adecuada y terminar en orgullo, presunción y arrogancia, pero la pérdida de la autoestima acaba a menudo en la parálisis de la voluntad. Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y de refrenarla en los que la tienen. No cometáis el error de limitaros a condenar las equivocaciones que veáis en la vida de vuestros alumnos; recordad también que debéis reconocer generosamente las cosas más dignas de elogio que veáis en sus vidas. No olvidéis que no me detendré ante nada para restablecer la autoestima en aquellos que la han perdido, y que realmente desean recuperarla». ([LU 159:3.3](/es/The_Urantia_Book/159#p3_3))
+Independientemente de cómo se produzca una visión espiritual, sabemos que la voluntad humana es necesaria para capturar una visión espiritual y llevarla al nivel material de manifestación o actualización por medio de la acción. Jesús enseñó que la voluntad humana de hacer surge del respeto a uno mismo y de la convicción de que uno puede hacer y de que tenemos algo que vale la pena ofrecer. Creemos que nuestra acción tendrá sentido. Cuando la voluntad de hacer se fusiona con la creencia de que uno puede hacer, el compuesto se manifiesta como un impulso asertivo para ser proactivo y hacer que algo suceda. Sin embargo, la asertividad pura, independientemente de su justificación, podría invadir y explotar sin piedad a otras personas, absolviéndose a sí misma al declarar que «el fin justifica los medios». Claramente, la asertividad es una cualidad necesaria, pero se necesita algo más si queremos estar alineados con los Metavalores. Jesús vio esto claramente: «Cuando atraigáis a los hombres hacia el reino, no disminuyáis ni destruyáis su autoestima. Una autoestima excesiva puede destruir la humildad adecuada y terminar en orgullo, presunción y arrogancia, pero la pérdida de la autoestima acaba a menudo en la parálisis de la voluntad. Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y de refrenarla en los que la tienen. No cometáis el error de limitaros a condenar las equivocaciones que veáis en la vida de vuestros alumnos; recordad también que debéis reconocer generosamente las cosas más dignas de elogio que veáis en sus vidas. No olvidéis que no me detendré ante nada para restablecer la autoestima en aquellos que la han perdido, y que realmente desean recuperarla». (<a id="a94_1736"></a>[LU 159:3.3](/es/The_Urantia_Book/159#p3_3))
 
 ## La voluntad de hacer más la voluntad de hacer cosas buenas
 
@@ -96,12 +120,37 @@ Las Acciones de Fe son movimientos dramáticos que quienes nos conocen no podrí
 
 ¿Cómo podemos nosotros, los urantianos, estar seguros de que nuestras acciones están impulsadas por la fe? ¿Cómo podemos estar seguros de si estamos operando en sincronía con el flujo de metavalores? Afortunadamente, se nos ha dado un indicador interno e infalible que opera instantáneamente en la vida interior. Cuando el mundo se vuelve gris y «peligroso» y nuestras energías flaquean, estamos fuera de la zona. Cuando estamos histéricamente enérgicos y el mundo parece obstruir y frustrar todo lo que intentamos hacer, estamos demasiado metidos en la agresión y fuera de zona. Cuando nos sentimos explotados, agotados y utilizados, cuando permitimos que nuestros derechos sean invadidos, estamos en un grado imprudente de «bondad». En la medida en que experimentemos ligereza, olvido de nosotros mismos, atemporalidad, alegría y paz inexpresables, estamos en la zona. Cuando las puertas se abren de golpe y «coincidencias» notables nos ayudan, y el mundo se hace a un lado para que ofrezcamos nuestro regalo, estamos en la zona. Rodán expresó estos conceptos con estas hermosas palabras:
 
-> «Jesús nos ha enseñado que Dios vive en el hombre; entonces, ¿cómo podemos inducir al hombre a que libere estos poderes de la divinidad y de la infinidad que están ligados en su alma? ¿Cómo induciremos a los hombres a que dejen paso a Dios y Éste pueda brotar para refrescar nuestras propias almas mientras transita hacia el exterior, y luego sirva al propósito de iluminar, elevar y bendecir a otras innumerables almas? ¿De qué manera puedo despertar mejor estos poderes latentes para el bien que yace dormido en vuestra alma? De una cosa estoy seguro: la excitación emocional no es el estímulo espiritual ideal. La excitación no aumenta la energía; más bien agota las fuerzas de la mente y del cuerpo. ¿De dónde viene pues la energía para hacer estas grandes cosas? Observad a vuestro Maestro. En este mismo momento se encuentra allá en las colinas, llenándose de fuerza, mientras nosotros estamos aquí gastando energía. El secreto de todo este problema está envuelto en la comunión espiritual, en la adoración. Desde el punto de vista humano, se trata de combinar la meditación y la relajación. La meditación pone en contacto a la mente con el espíritu; la relajación determina la capacidad para la receptividad espiritual. Este intercambio de la debilidad por la fuerza, del temor por el valor, de la mente del yo por la voluntad de Dios, constituye la adoración». ([LU 160:3.1](/es/The_Urantia_Book/160#p3_1))
+> «Jesús nos ha enseñado que Dios vive en el hombre; entonces, ¿cómo podemos inducir al hombre a que libere estos poderes de la divinidad y de la infinidad que están ligados en su alma? ¿Cómo induciremos a los hombres a que dejen paso a Dios y Éste pueda brotar para refrescar nuestras propias almas mientras transita hacia el exterior, y luego sirva al propósito de iluminar, elevar y bendecir a otras innumerables almas? ¿De qué manera puedo despertar mejor estos poderes latentes para el bien que yace dormido en vuestra alma? De una cosa estoy seguro: la excitación emocional no es el estímulo espiritual ideal. La excitación no aumenta la energía; más bien agota las fuerzas de la mente y del cuerpo. ¿De dónde viene pues la energía para hacer estas grandes cosas? Observad a vuestro Maestro. En este mismo momento se encuentra allá en las colinas, llenándose de fuerza, mientras nosotros estamos aquí gastando energía. El secreto de todo este problema está envuelto en la comunión espiritual, en la adoración. Desde el punto de vista humano, se trata de combinar la meditación y la relajación. La meditación pone en contacto a la mente con el espíritu; la relajación determina la capacidad para la receptividad espiritual. Este intercambio de la debilidad por la fuerza, del temor por el valor, de la mente del yo por la voluntad de Dios, constituye la adoración». (<a id="a122_1372"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1))
 
 > _Este material ha sido adaptado del Capítulo 17 de un trabajo en progreso de Larry Mullins, The Step Beyond. © Copyright 1998, Larry Mullins, Boulder, CO. La Parte II de Meta-Values, en la edición de otoño del Journal, ofrecerá un sistema organizado que puede ser útil en nuestra búsqueda urantiana de la Verdad. Larry Mullins es consultor en publicidad y marketing. Es consultor editorial del Journal y autor de_ Inmature People with Power _and_ Jesus: God and Man.
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difundiendo las Enseñanzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="pr-2">La única vida que vale la pena vivir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

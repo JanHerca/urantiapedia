@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Meredith Sprunger<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los diarios de Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="pr-2">Liderazgo para comunidades espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando se publicó _El Libro de Urantia_ en 1955, muchas de las personas en el Foro esperaban que traería acontecimientos dramáticos en nuestra sociedad. Después de casi medio siglo de experiencia, nos damos cuenta de que la Quinta Revelación de Época seguirá una lenta dinámica de cambio evolutivo muy similar a la influencia de la Vida y las Enseñanzas de Jesús. Rodney Stark en The Rise of Christianity observa que hubo una población cristiana muy pequeña en los dos primeros siglos. Thomas Kuhn en _La estructura de las revoluciones científicas_ documenta este mismo lento desarrollo del cambio científico.
@@ -32,3 +56,28 @@ Fueron necesarios casi 1.800 años de desarrollo evolutivo para precipitar un ju
 > mjsprunger@aol.com
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los diarios de Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="pr-2">Liderazgo para comunidades espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Dios y la religión en el mundo posmoderno” por David Ray Gritlin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="pr-2">El amanecer de una nueva era</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde hace varios años he tenido un interés especial en examinar los mensajes de algunos televangelistas actuales. Entre muchos de los televangelistas más fundamentalistas parece haber un tema común en su predicación que podría ser de cierta preocupación tanto para el clero tradicional como para los lectores de _El Libro de Urantia_.
@@ -63,3 +87,28 @@ El futuro del destino humano está en buenas manos. Aunque no tenemos una bola d
 
 Finalmente, estoy convencido de que el regreso de Cristo a nuestro planeta superará nuestras más altas expectativas humanas y será mucho más glorioso de lo que cualquiera de nosotros imagina. No necesitamos inventar escenarios de desastre para ganar almas para el reino. El programa del Maestro que enfatiza las prioridades de la verdad, la belleza y la bondad realizadas a través del amor y el servicio es suficiente para inspirar a todas las personas a entrar en el reino y compartir el gozoso conocimiento de que la vida es progresivamente enriquecedora y eterna.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Dios y la religión en el mundo posmoderno” por David Ray Gritlin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="pr-2">El amanecer de una nueva era</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

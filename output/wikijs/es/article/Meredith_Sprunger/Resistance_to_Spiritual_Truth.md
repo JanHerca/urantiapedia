@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume2_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="pr-2">Fundamentalismo del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las autoridades religiosas suelen ser las personas más difíciles de presentar a la nueva verdad espiritual. A los seguidores de Jesús les resultó imposible trabajar dentro del judaísmo. Era necesario iniciar un nuevo movimiento religioso para dar cabida a la enseñanza cristiana. De manera similar, durante el período de la reforma, los reformadores no pudieron trabajar dentro de la Iglesia Católica Romana. Como resultado nació el movimiento protestante. No sorprende, por tanto, que la mayoría de los líderes que trajeron nuevas verdades espirituales a la humanidad hayan sido laicos y no profesionales religiosos.
@@ -23,3 +47,28 @@ En 1980 escribí cartas personales a alrededor de 100 profesores de teología en
 
 A pesar de estas dificultades, la mayoría de los miembros de nuestra Red del Clero creen que eventualmente será posible compartir las verdades del _Libro de Urantia_ dentro de la iglesia. Afortunadamente, el pluralismo que ha evolucionado en el cristianismo tradicional permite compartir ideas nuevas y heterodoxas. Una verdad más elevada e inclusiva reemplazará lentamente los conceptos más limitados de la Realidad. El progreso en la iglesia depende de nuestra capacidad de comunicar esta visión más amplia con amor, paciencia y sabiduría. El Espíritu de Dios siempre conduce a la humanidad a una realización más plena de la verdad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume2_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="pr-2">Fundamentalismo del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

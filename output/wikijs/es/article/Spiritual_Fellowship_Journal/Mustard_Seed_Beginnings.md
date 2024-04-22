@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/How_is_Society_Enculturated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cómo se encultura la sociedad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="pr-2">Interfaz: ¿Podemos, deberíamos, organizarnos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Padre Universal, te damos gracias por tu maravilloso
@@ -55,3 +79,28 @@ creación finita. Nos alegramos de que seamos tus hijos.
 en el tiempo y la eternidad.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/How_is_Society_Enculturated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cómo se encultura la sociedad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2000 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="pr-2">Interfaz: ¿Podemos, deberíamos, organizarnos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

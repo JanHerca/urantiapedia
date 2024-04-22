@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Merlyn Cox<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un período de transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="pr-2">Misterios cuánticos y los documentos de Urantia: Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tras mi reciente jubilación no pude evitar reflexionar sobre los últimos treinta y cinco años y las alegrías y frustraciones de estar involucrado en la iglesia institucional. En los primeros años tomé la administración con bastante calma y me sumergí en las tareas que tenía entre manos con gran entusiasmo. Una vez asistí al menos a una reunión todas las noches durante cuarenta días seguidos. Mi entusiasmo disminuyó un poco y me di cuenta de que probablemente no le estaba haciendo un favor a la iglesia al quemarme. Sin embargo, tomé en serio la administración tal como lo implica su significado fundamental: ministrar o estar en el ministerio y sentí la conexión de una planificación seria con la oportunidad de compartir el amor de Dios con sus hijos.
@@ -24,3 +48,28 @@ Entonces, ¿por qué estoy compartiendo esto en un momento en el que estamos tra
 > _Merlyn Cox se jubiló recientemente como pastor de la Conferencia de la Iglesia Metodista Unida del Norte de Indiana. Ha sido lector del Libro de Urantia durante 18 años, trabajó con Meredith Sprunger en la iniciación de The Spiritual Fellowship Journal en 1991 y trabajó durante diez años como editor asociado. Es miembro de la junta y presidente del equipo educativo de The Spiritual Fellowship._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un período de transición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="pr-2">Misterios cuánticos y los documentos de Urantia: Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

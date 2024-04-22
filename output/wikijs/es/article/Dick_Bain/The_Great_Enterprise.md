@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Richard Bain<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Truth_What_is_Truth_Who_Knows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad, ¿qué es la verdad? ¿Quién sabe?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Marks/Faith_and_Spirituality">
+          <span class="pr-2">Fe y espiritualidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -24,7 +48,7 @@ Hay quienes en la comunidad Urantia se lamentan del hecho de que _El Libro de Ur
 
 ## Paciencia y más paciencia
 
-En artículos que datan de la década de 1930, los autores de _El Libro de Urantia_ nos dicen que nuestro planeta está temblando al borde de un gran renacimiento espiritual. (p. [LU 195:9.4](/es/The_Urantia_Book/195#p9_4)) Para nosotros, simples mortales, seis décadas es mucho tiempo para temblar. Desafortunadamente, declaraciones como esta de los autores pueden tener a algunas personas en un estado de gran expectativa y anticipando que algún gran evento espiritual sucederá pronto o al menos durante nuestras vidas. Pero debemos recordar que los autores tienen un sentido del tiempo bastante diferente al nuestro. Incluso los Intermedios han experimentado miles de años de historia de Urantia; Una vida humana no es más que un breve episodio de la saga de la historia humana para nuestros amigos invisibles. Un antídoto para nuestra impaciencia es que desarrollemos la visión de futuro de nuestros hermanos celestiales. Aunque tal vez no vivamos para ver que nuestros esfuerzos dan frutos, no debemos desanimarnos. Alguien dijo una vez que cuando compras una casa y plantas un árbol, probablemente lo estás plantando para que el próximo propietario tenga sombra. Si nadie alguna vez plantara un árbol porque no podría disfrutar de su sombra, entonces pocos de nosotros tendríamos árboles o sombra.
+En artículos que datan de la década de 1930, los autores de _El Libro de Urantia_ nos dicen que nuestro planeta está temblando al borde de un gran renacimiento espiritual. (p. <a id="a50_176"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)) Para nosotros, simples mortales, seis décadas es mucho tiempo para temblar. Desafortunadamente, declaraciones como esta de los autores pueden tener a algunas personas en un estado de gran expectativa y anticipando que algún gran evento espiritual sucederá pronto o al menos durante nuestras vidas. Pero debemos recordar que los autores tienen un sentido del tiempo bastante diferente al nuestro. Incluso los Intermedios han experimentado miles de años de historia de Urantia; Una vida humana no es más que un breve episodio de la saga de la historia humana para nuestros amigos invisibles. Un antídoto para nuestra impaciencia es que desarrollemos la visión de futuro de nuestros hermanos celestiales. Aunque tal vez no vivamos para ver que nuestros esfuerzos dan frutos, no debemos desanimarnos. Alguien dijo una vez que cuando compras una casa y plantas un árbol, probablemente lo estás plantando para que el próximo propietario tenga sombra. Si nadie alguna vez plantara un árbol porque no podría disfrutar de su sombra, entonces pocos de nosotros tendríamos árboles o sombra.
 
 Cuando la gente mire hacia atrás dentro de cien años, ¿verá la Quinta Revelación de Época y a nuestra comunidad como fracasos? No me parece. Creo que pueden decidir que nos faltaba una visión claramente definida para el futuro de nuestra comunidad. Parece que estamos construyendo una base para algún tipo de estructura. ¿Será la estructura una iglesia Urantia mundial? ¿Cuál es nuestra visión?
 
@@ -42,7 +66,7 @@ Hay poder en la organización. Si bien admitimos los problemas potenciales de la
 
 ## Comunicarse con espíritus afines
 
-Hay muchos urantianos a quienes les gustaría adorar con espíritus afines. Es posible que ahora estén asistiendo a alguna iglesia cristiana donde adoran el domingo por la mañana. Si bien obtienen beneficios espirituales de esto, sin duda lamentan no poder compartir mucho con sus amigos de la iglesia sobre _El Libro de Urantia_. Y desafortunadamente, el culto en algunas iglesias cristianas carece de creatividad; Con demasiada frecuencia consiste en recitar frases teológicas antiguas y cantar canciones cuyas palabras algunos de nosotros tal vez no aceptemos. Aquellos de nosotros que hemos estudiado _El Libro de Urantia_ sentimos que existe una adoración profunda posible que podría emocionar el alma y darnos un sentimiento de comunión genuina con Dios. Nos gustaría tender hacia esto, pero nos sentimos sofocados por la falta de espontaneidad y creatividad de algún ritual cristiano. Nos sentimos más observadores que participantes. Algunos pensadores cristianos han lamentado esta carencia en la iglesia. El filósofo existencialista Kirkegaard fue uno de esos pensadores. Lamentó que en las iglesias ahora, Dios es el apuntador, el ministro es el actor y la congregación es la audiencia. La forma en que debe ser es que el ministro sea el apuntador, los miembros de la congregación sean los actores y Dios sea la audiencia. Además, cierta teología de la iglesia cristiana no está en armonía con los elevados conceptos del Libro de Urantia. Un ejemplo evidente de esto es la Doctrina de la Expiación. Sobre esta doctrina, los autores de _El Libro de Urantia_ nos dicen: «Es una afrenta a Dios creer, sostener o enseñar que se debe derramar sangre inocente para ganar su favor o para desviar la ficticia ira divina». ([LU 4:5.4](/es/The_Urantia_Book/4#p5_4)) Quizás entonces una organización espiritual urantiana sea necesaria y deseable. ¿Puede esta organización satisfacer las necesidades de todos?
+Hay muchos urantianos a quienes les gustaría adorar con espíritus afines. Es posible que ahora estén asistiendo a alguna iglesia cristiana donde adoran el domingo por la mañana. Si bien obtienen beneficios espirituales de esto, sin duda lamentan no poder compartir mucho con sus amigos de la iglesia sobre _El Libro de Urantia_. Y desafortunadamente, el culto en algunas iglesias cristianas carece de creatividad; Con demasiada frecuencia consiste en recitar frases teológicas antiguas y cantar canciones cuyas palabras algunos de nosotros tal vez no aceptemos. Aquellos de nosotros que hemos estudiado _El Libro de Urantia_ sentimos que existe una adoración profunda posible que podría emocionar el alma y darnos un sentimiento de comunión genuina con Dios. Nos gustaría tender hacia esto, pero nos sentimos sofocados por la falta de espontaneidad y creatividad de algún ritual cristiano. Nos sentimos más observadores que participantes. Algunos pensadores cristianos han lamentado esta carencia en la iglesia. El filósofo existencialista Kirkegaard fue uno de esos pensadores. Lamentó que en las iglesias ahora, Dios es el apuntador, el ministro es el actor y la congregación es la audiencia. La forma en que debe ser es que el ministro sea el apuntador, los miembros de la congregación sean los actores y Dios sea la audiencia. Además, cierta teología de la iglesia cristiana no está en armonía con los elevados conceptos del Libro de Urantia. Un ejemplo evidente de esto es la Doctrina de la Expiación. Sobre esta doctrina, los autores de _El Libro de Urantia_ nos dicen: «Es una afrenta a Dios creer, sostener o enseñar que se debe derramar sangre inocente para ganar su favor o para desviar la ficticia ira divina». (<a id="a68_1723"></a>[LU 4:5.4](/es/The_Urantia_Book/4#p5_4)) Quizás entonces una organización espiritual urantiana sea necesaria y deseable. ¿Puede esta organización satisfacer las necesidades de todos?
 
 ## El panorama más amplio
 
@@ -58,9 +82,34 @@ Hay cosas que podemos hacer. En primer lugar, podemos apoyar esfuerzos como las 
 
 > _Creo que en lugar de conspirar para convertir el mundo al urantismo, deberíamos tratar de establecer relaciones de trabajo con todos los grupos religiosos del mundo. Pero para hacer esto necesitaremos una organización religiosa que pueda representar a nuestra comunidad ante el mundo.
 
-Sí, nos encontramos en el hoyo trabajando en los cimientos y es posible que no recibamos crédito por nuestro trabajo. Sin embargo, como agondontes potenciales, avancemos con fe. Que la importancia del trabajo sea nuestra motivación. Mientras trabajamos junto con nuestros amigos invisibles, otra pieza del rompecabezas cósmico encaja en su lugar; Dios Supremo emerge. «El acto es nuestro, las consecuencias de Dios». ([LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
+Sí, nos encontramos en el hoyo trabajando en los cimientos y es posible que no recibamos crédito por nuestro trabajo. Sin embargo, como agondontes potenciales, avancemos con fe. Que la importancia del trabajo sea nuestra motivación. Mientras trabajamos junto con nuestros amigos invisibles, otra pieza del rompecabezas cósmico encaja en su lugar; Dios Supremo emerge. «El acto es nuestro, las consecuencias de Dios». (<a id="a84_418"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Truth_What_is_Truth_Who_Knows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad, ¿qué es la verdad? ¿Quién sabe?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Marks/Faith_and_Spirituality">
+          <span class="pr-2">Fe y espiritualidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Meredith Sprunger<br>© 1992 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fundamentalismo del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="pr-2">Interfaz: ¿Qué tan buenas son las buenas noticias?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recientemente escuché al Dr. Anson Shupe, del Departamento de Sociología y Antropología de la Universidad Indiana-Purdue en Fort Wayne, dar una conferencia sobre «El futuro de la religión estadounidense». El Dr. Shupe enumeró cinco tendencias principales: (1) Aumento del pluralismo religioso, (2) Disminución numérica de la membresía en las principales denominaciones principales y crecimiento continuo de denominaciones más conservadoras, (3) Una continuación de los temores a las sectas, (4) El nuevo cristianismo Correcto, y (5) Un mayor énfasis y sensibilidad hacia la influencia religiosa en la curación física y mental.
@@ -23,3 +47,28 @@ Esto, al parecer, es una descripción de la larga evolución religiosa que está
 
 El malestar religioso y la búsqueda espiritual actuales presagian un importante punto de inflexión en nuestra historia religiosa. Creo que la próxima reforma espiritual nos traerá de regreso a la religión de Jesús y a una visión universal de la Paternidad de Dios y el parentesco de toda la humanidad. Estoy convencido de que algún día la reflexión histórica revelará que la llegada de _El Libro de Urantia_ fue el avance revelador que provocó la reforma espiritual del siglo XXI.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Urantia_Book_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fundamentalismo del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="pr-2">Interfaz: ¿Qué tan buenas son las buenas noticias?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Richard I. Bain<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paraíso: el rearranque de la teología</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="pr-2">Mi odisea de experiencias cumbres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En la serie original de Star Trek, el Capitán Kirk nos informaba al comienzo de cada programa que el espacio es la última frontera. Esto puede ser cierto para nuestra civilización, pero ¿no es la muerte la última frontera para nosotros como individuos? Incluso si tuviéramos alguna idea de qué es la muerte y qué hay más allá, es sin embargo una barrera impenetrable y absoluta para los vivos. La muerte es un salto a una existencia totalmente desconocida, desde este mundo familiar de cosas y personas. ¿Pero es el salto que tanto tememos? Solía pensar que la muerte está muy sobrevalorada como objeto de miedo hasta que me di cuenta de que la muerte es tanto un destino como un proceso. El destino puede causar cierta ansiedad debido a las incertidumbres que encierra, pero es la anticipación de nuestro viaje hacia este destino lo que a menudo induce el mayor miedo.
@@ -51,7 +75,7 @@ La actitud del Dr. Leslie D. Weatherhead, un clérigo británico retirado, parec
 
 ## ¿Tu libro de respuestas?
 
-Solía tener un colega que bromeaba sobre mi estudio del Libro de Urantia. Cuando surgía una cuestión moral o ética difícil en una conversación, preguntaba: «¿Qué dice Tu libro de respuestas al respecto?» ¿No sería conveniente para los estudiantes de _El Libro de Urantia_ si pudieran abrir el libro y encontrar respuestas a preguntas tales como la moralidad de la eutanasia explicadas en detalle? Pero, al igual que Jesús, los autores del libro se abstienen de abordar estas cuestiones sociales. El suicidio se menciona algunas veces, pero normalmente sólo como un hecho antropológico relacionado con culturas pasadas. En el caso del suicidio de Judas, los autores dicen: «... este mortal renegado... cometió el acto final en el drama de huir de las realidades de la existencia mortal: el suicidio». ([LU 139:12.13](/es/The_Urantia_Book/139#p12_13)) Tenga en cuenta, sin embargo , que Judas no era un paciente terminal de cáncer o de SIDA que intentaba evitar una muerte lenta y dolorosa. Realmente no abordan el suicidio en estas circunstancias y su moderación es comprensible. Cualquier juicio de valor que se haga puede estar en armonía con las costumbres de una época o cultura, pero no con las de otra.
+Solía tener un colega que bromeaba sobre mi estudio del Libro de Urantia. Cuando surgía una cuestión moral o ética difícil en una conversación, preguntaba: «¿Qué dice Tu libro de respuestas al respecto?» ¿No sería conveniente para los estudiantes de _El Libro de Urantia_ si pudieran abrir el libro y encontrar respuestas a preguntas tales como la moralidad de la eutanasia explicadas en detalle? Pero, al igual que Jesús, los autores del libro se abstienen de abordar estas cuestiones sociales. El suicidio se menciona algunas veces, pero normalmente sólo como un hecho antropológico relacionado con culturas pasadas. En el caso del suicidio de Judas, los autores dicen: «... este mortal renegado... cometió el acto final en el drama de huir de las realidades de la existencia mortal: el suicidio». (<a id="a77_801"></a>[LU 139:12.13](/es/The_Urantia_Book/139#p12_13)) Tenga en cuenta, sin embargo , que Judas no era un paciente terminal de cáncer o de SIDA que intentaba evitar una muerte lenta y dolorosa. Realmente no abordan el suicidio en estas circunstancias y su moderación es comprensible. Cualquier juicio de valor que se haga puede estar en armonía con las costumbres de una época o cultura, pero no con las de otra.
 
 > _Incluso si los autores del libro aprobaran la eutanasia como una forma misericordiosa de aliviar el sufrimiento, podría no ayudarnos a decidir las cuestiones. Es nuestro mundo y, en última instancia, nuestra decisión personal en cuanto a lo que será aceptable al hacer estos juicios.
 
@@ -84,6 +108,31 @@ Cuando formaba parte de un programa de visitas a la iglesia, una de las personas
 > _Dick Bain es ingeniero eléctrico y editor de_ Interface International. _Estudia desde hace mucho tiempo_ _El Libro de Urantia_.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paraíso: el rearranque de la teología</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="pr-2">Mi odisea de experiencias cumbres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

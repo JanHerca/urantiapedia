@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Merlyn Cox<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Everett_Sloffer/The_Church_A_Statement_of_Purpose_and_Belief">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Iglesia: una declaración de propósito y creencias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Isabelle_Masel/Church_Members_and_UB">
+          <span class="pr-2">Los miembros de la Iglesia y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace algún tiempo estuve hablando sobre _El Libro de Urantia_ con un compañero pastor y amigo de mucho tiempo. Después de que hice algunos comentarios positivos iniciales sobre el libro, se volvió hacia mí y me preguntó: «¿Predica?»
@@ -25,3 +49,28 @@ Difícilmente podría comenzar en una columna inicial a demostrar la validez de 
 
 Espero que los nuevos lectores lo prueben por sí mismos. ¿No es precisamente ésta la prueba final de la verdad para todos los cristianos: que el Espíritu da testimonio de que es verdad? Como Juan registra las enseñanzas de Jesús, el papel central del Espíritu Santo en nuestras vidas es dar testimonio de la verdad que el Padre ha revelado a través del Hijo. ([Juan 16:13-14](/es/Bible/John/16#v13)) Para aquellos que han encontrado esto en _El Libro de Urantia_, abre tesoros sin medida.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Everett_Sloffer/The_Church_A_Statement_of_Purpose_and_Belief">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Iglesia: una declaración de propósito y creencias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Isabelle_Masel/Church_Members_and_UB">
+          <span class="pr-2">Los miembros de la Iglesia y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

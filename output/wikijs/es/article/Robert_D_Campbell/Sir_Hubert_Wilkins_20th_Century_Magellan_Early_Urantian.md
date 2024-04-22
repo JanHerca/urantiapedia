@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Robert D. Campbell<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Liderazgo para comunidades espirituales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Eugenics_and_the_Urantia_Papers">
+          <span class="pr-2">La eugenesia y los documentos de Urantia: minas terrestres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Escuchamos en respetuoso silencio, completamente asombrados por la historia que nos contó esa hermosa tarde de verano en el club de natación local. Mientras nuestra vecina Kris se secaba las lágrimas y a veces hacía una pausa para recomponerse, supimos que nunca había conocido a su padre, ya que él y su equipo de geólogos habían desaparecido hace más de cuatro décadas mientras exploraban las regiones árticas. Ahora, increíblemente, ella fue una de varias personas a las que las autoridades canadienses rastrearon después de que recientemente localizaron el avión perdido hace mucho tiempo de esa desafortunada misión y encontraron artículos de identificación en su interior, entre ellos la billetera del padre de Kris. Dentro de unos días viajaría hacia el Polo Norte para participar en una ceremonia destinada a cerrar la vida de las familias de aquella expedición que pereció en el desierto helado.
@@ -69,14 +93,39 @@ Como «mejor epitafio» de la extraordinaria vida de su marido, ofreció esta or
 > _Para que la experiencia de vivir me guíe a mí y a mis semejantes_
 > _A una mayor realidad espiritual._
 
-Esta es, por supuesto, la doctrina pura del Libro de Urantia, extraída directamente de [LU 48:7.8](/es/The_Urantia_Book/48#p7_8) y que se encuentra entre una serie de otras declaraciones de filosofía humana enumeradas como prerrequisitos esenciales para nuestro continuo crecimiento espiritual.
+Esta es, por supuesto, la doctrina pura del Libro de Urantia, extraída directamente de <a id="a95_87"></a>[LU 48:7.8](/es/The_Urantia_Book/48#p7_8) y que se encuentra entre una serie de otras declaraciones de filosofía humana enumeradas como prerrequisitos esenciales para nuestro continuo crecimiento espiritual.
 
-Cualquiera que tenga aunque sea una mínima familiaridad con las hazañas de Sir Hubert Wilkins y se encuentre abandonado en un rincón remoto del mundo, bien puede morir aferrado a la esperanza de que un salvador con una constitución igual pasará meses buscando a su tripulación. En el gélido aislamiento que fue el teatro de la muerte del padre de Kris, puede que le haya brindado cierto consuelo haber escuchado o leído las palabras con las que todos estamos tan familiarizados, las palabras que el proteico aventurero Sir Hubert Wilkins había considerado «más consolador.» Quizás este simple pasaje de [LU 91:9.8](/es/The_Urantia_Book/91#p9_8) de _El Libro de Urantia_ hubiera ayudado: «_Debes tener fe, fe viva._»
+Cualquiera que tenga aunque sea una mínima familiaridad con las hazañas de Sir Hubert Wilkins y se encuentre abandonado en un rincón remoto del mundo, bien puede morir aferrado a la esperanza de que un salvador con una constitución igual pasará meses buscando a su tripulación. En el gélido aislamiento que fue el teatro de la muerte del padre de Kris, puede que le haya brindado cierto consuelo haber escuchado o leído las palabras con las que todos estamos tan familiarizados, las palabras que el proteico aventurero Sir Hubert Wilkins había considerado «más consolador.» Quizás este simple pasaje de <a id="a97_603"></a>[LU 91:9.8](/es/The_Urantia_Book/91#p9_8) de _El Libro de Urantia_ hubiera ayudado: «_Debes tener fe, fe viva._»
 
 > _Robert D. Campbell ha estado leyendo Los Documentos de Urantia durante 33 años. Vive en Haddonfield, Nueva Jersey._
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Liderazgo para comunidades espirituales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Eugenics_and_the_Urantia_Papers">
+          <span class="pr-2">La eugenesia y los documentos de Urantia: minas terrestres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

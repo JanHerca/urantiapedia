@@ -9,11 +9,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Kenneth Glasziou<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia el compañerismo espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="pr-2">Un examen cuidadoso de las exenciones de responsabilidad «no inspiradas» del libro de Urantia, parte 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (El énfasis en el artículo es del autor)
 
-> «Los mecanismos no dominan de manera absoluta toda la creación; el universo de universos *en su totalidad* está planeado por la mente, construido por la mente y administrado por la mente.» ([LU 42:11.2](/es/The_Urantia_Book/42#p11_2))
+> «Los mecanismos no dominan de manera absoluta toda la creación; el universo de universos *en su totalidad* está planeado por la mente, construido por la mente y administrado por la mente.» (<a id="a39_192"></a>[LU 42:11.2](/es/The_Urantia_Book/42#p11_2))
 
 
 ## La teoría cuántica y el observador.
@@ -102,29 +126,29 @@ La conciencia cósmica implica el reconocimiento de una Primera Causa, la única
 
 > _1. *Prepersonal* —como en el ministerio de los fragmentos del Padre, tales como los Ajustadores del Pensamiento._
 > _2. *Personal* —como en la experiencia evolutiva de los seres creados y procreados._
-> _3. *Superpersonal* —como en las realidades existenciadas de ciertos seres absonitos y otros seres asociados._ ([LU 0:2.3-5](/es/The_Urantia_Book/0#p2_3))
+> _3. *Superpersonal* —como en las realidades existenciadas de ciertos seres absonitos y otros seres asociados._ (<a id="a128_114"></a>[LU 0:2.3-5](/es/The_Urantia_Book/0#p2_3))
 
-> _Dios posee un poder ilimitado para conocer todas las cosas; su conciencia es universal. Su circuito personal abarca a todas las personalidades, y su conocimiento de las criaturas, incluidas las humildes, lo completa indirectamente mediante la serie descendente de los Hijos divinos, y directamente a través de los Ajustadores del Pensamiento interiores. Además, el Espíritu Infinito está constantemente presente en todas partes._ ([LU 3:3.3](/es/The_Urantia_Book/3#p3_3))
+> _Dios posee un poder ilimitado para conocer todas las cosas; su conciencia es universal. Su circuito personal abarca a todas las personalidades, y su conocimiento de las criaturas, incluidas las humildes, lo completa indirectamente mediante la serie descendente de los Hijos divinos, y directamente a través de los Ajustadores del Pensamiento interiores. Además, el Espíritu Infinito está constantemente presente en todas partes._ (<a id="a130_434"></a>[LU 3:3.3](/es/The_Urantia_Book/3#p3_3))
 
-> _El Padre Universal es la única personalidad en todo el universo que sabe realmente el número de las estrellas y de los planetas del espacio. Todos los mundos de cada universo están constantemente en la conciencia de Dios._ ([LU 3:3.2](/es/The_Urantia_Book/3#p3_2))
+> _El Padre Universal es la única personalidad en todo el universo que sabe realmente el número de las estrellas y de los planetas del espacio. Todos los mundos de cada universo están constantemente en la conciencia de Dios._ (<a id="a132_227"></a>[LU 3:3.2](/es/The_Urantia_Book/3#p3_2))
 
-> _La mente cósmica abarca todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolutiva de la Mente Suprema, coordinándose trascendentalmente con los niveles existenciales de la mente absoluta —con los circuitos directos del Actor Conjunto._ ([LU 42:10.6](/es/The_Urantia_Book/42#p10_6))
+> _La mente cósmica abarca todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolutiva de la Mente Suprema, coordinándose trascendentalmente con los niveles existenciales de la mente absoluta —con los circuitos directos del Actor Conjunto._ (<a id="a134_290"></a>[LU 42:10.6](/es/The_Urantia_Book/42#p10_6))
 
-> _La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente. Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender; lo que constituye la identificación con el espíritu no es tanto cómo es la mente sino cómo la mente se esfuerza por ser. Lo que conduce a la ascensión por el universo no es tanto que el hombre sea consciente de Dios como que el hombre anhele a Dios. Lo que sois hoy no es tan importante como lo que vais siendo día tras día y en la eternidad._ ([LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
+> _La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente. Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender; lo que constituye la identificación con el espíritu no es tanto cómo es la mente sino cómo la mente se esfuerza por ser. Lo que conduce a la ascensión por el universo no es tanto que el hombre sea consciente de Dios como que el hombre anhele a Dios. Lo que sois hoy no es tan importante como lo que vais siendo día tras día y en la eternidad._ (<a id="a136_802"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
-> _La conciencia de Dios, tal como la experimentan los mortales evolutivos de los mundos, debe consistir en tres factores variables, en tres niveles diferenciales de comprensión de la realidad. En primer lugar está la conciencia mental —la comprensión de la *idea* de Dios. Luego le sigue la conciencia del alma —la comprensión del *ideal* de Dios. Finalmente despunta la conciencia del espíritu —la comprensión de la *realidad espiritual* de Dios._ ([LU 5:5.11](/es/The_Urantia_Book/5#p5_11))
+> _La conciencia de Dios, tal como la experimentan los mortales evolutivos de los mundos, debe consistir en tres factores variables, en tres niveles diferenciales de comprensión de la realidad. En primer lugar está la conciencia mental —la comprensión de la *idea* de Dios. Luego le sigue la conciencia del alma —la comprensión del *ideal* de Dios. Finalmente despunta la conciencia del espíritu —la comprensión de la *realidad espiritual* de Dios._ (<a id="a138_451"></a>[LU 5:5.11](/es/The_Urantia_Book/5#p5_11))
 
-> _La concesión de la personalidad es una ocupación exclusiva del Padre Universal, es la personalización de los sistemas energéticos vivientes, a los cuales dota de los atributos de una conciencia creativa relativa y del control de la misma por medio del libre albedrío._ ([LU 5:6.4](/es/The_Urantia_Book/5#p6_4))
+> _La concesión de la personalidad es una ocupación exclusiva del Padre Universal, es la personalización de los sistemas energéticos vivientes, a los cuales dota de los atributos de una conciencia creativa relativa y del control de la misma por medio del libre albedrío._ (<a id="a140_273"></a>[LU 5:6.4](/es/The_Urantia_Book/5#p6_4))
 
-> _El Ser Supremo no ha creado al hombre, pero el hombre fue creado literalmente a partir de la potencialidad del Supremo, y su misma vida deriva de esta potencialidad. El Supremo tampoco hace evolucionar al hombre, y sin embargo el Supremo es la esencia misma de la evolución. Desde el punto de vista finito, vivimos, nos movemos y tenemos realmente nuestra existencia dentro de la inmanencia del Supremo._ ([LU 117:3.12](/es/The_Urantia_Book/117#p3_12))
+> _El Ser Supremo no ha creado al hombre, pero el hombre fue creado literalmente a partir de la potencialidad del Supremo, y su misma vida deriva de esta potencialidad. El Supremo tampoco hace evolucionar al hombre, y sin embargo el Supremo es la esencia misma de la evolución. Desde el punto de vista finito, vivimos, nos movemos y tenemos realmente nuestra existencia dentro de la inmanencia del Supremo._ (<a id="a142_409"></a>[LU 117:3.12](/es/The_Urantia_Book/117#p3_12))
 
-> _Incluso la experiencia del hombre y del Ajustador debe encontrar su resonancia en la divinidad de Dios Supremo, pues los Ajustadores se parecen al Supremo en la manera de obtener su experiencia, y el alma evolutiva del hombre mortal es creada a partir de la posibilidad preexistente dentro del Supremo para llevar a cabo esta experiencia._ ([LU 117:5.11](/es/The_Urantia_Book/117#p5_11))
+> _Incluso la experiencia del hombre y del Ajustador debe encontrar su resonancia en la divinidad de Dios Supremo, pues los Ajustadores se parecen al Supremo en la manera de obtener su experiencia, y el alma evolutiva del hombre mortal es creada a partir de la posibilidad preexistente dentro del Supremo para llevar a cabo esta experiencia._ (<a id="a144_344"></a>[LU 117:5.11](/es/The_Urantia_Book/117#p5_11))
 
-> _El tiempo, el espacio y la experiencia son los mayores auxiliares del hombre para percibir, de manera relativa, la realidad, y son sin embargo sus obstáculos más formidables para percibir, de manera completa, la realidad. Los mortales, y otras muchas criaturas del universo, necesitan pensar en los potenciales como que se hacen reales en el espacio y evolucionan hasta su fructificación en el tiempo, pero todo este proceso es un fenómeno espacio-temporal que no ocurre realmente en el Paraíso ni en la eternidad. En el nivel absoluto no existe ni el tiempo ni el espacio; todos los potenciales se pueden percibir allí como actuales._ ([LU 106:9.3](/es/The_Urantia_Book/106#p9_3))
+> _El tiempo, el espacio y la experiencia son los mayores auxiliares del hombre para percibir, de manera relativa, la realidad, y son sin embargo sus obstáculos más formidables para percibir, de manera completa, la realidad. Los mortales, y otras muchas criaturas del universo, necesitan pensar en los potenciales como que se hacen reales en el espacio y evolucionan hasta su fructificación en el tiempo, pero todo este proceso es un fenómeno espacio-temporal que no ocurre realmente en el Paraíso ni en la eternidad. En el nivel absoluto no existe ni el tiempo ni el espacio; todos los potenciales se pueden percibir allí como actuales._ (<a id="a146_640"></a>[LU 106:9.3](/es/The_Urantia_Book/106#p9_3))
 
-> _Aquellos que conocen a Dios han experimentado el hecho de su presencia; estos mortales que conocen a Dios poseen, en su experiencia personal, la única prueba positiva de la existencia del Dios viviente que un ser humano pueda ofrecer a otro. La existencia de Dios sobrepasa por completo toda posibilidad de demostración, excepto en lo que se refiere al contacto entre la conciencia de Dios que posee la mente humana y la presencia de Dios representada por el Ajustador del Pensamiento que reside en el intelecto mortal, y que es otorgado al hombre en calidad de regalo gratuito del Padre Universal._ ([LU 1:2.8](/es/The_Urantia_Book/1#p2_8))
+> _Aquellos que conocen a Dios han experimentado el hecho de su presencia; estos mortales que conocen a Dios poseen, en su experiencia personal, la única prueba positiva de la existencia del Dios viviente que un ser humano pueda ofrecer a otro. La existencia de Dios sobrepasa por completo toda posibilidad de demostración, excepto en lo que se refiere al contacto entre la conciencia de Dios que posee la mente humana y la presencia de Dios representada por el Ajustador del Pensamiento que reside en el intelecto mortal, y que es otorgado al hombre en calidad de regalo gratuito del Padre Universal._ (<a id="a148_604"></a>[LU 1:2.8](/es/The_Urantia_Book/1#p2_8))
 
-> _Conocemos plenamente las dificultades de nuestra misión; reconocemos la imposibilidad de traducir completamente el lenguaje de los conceptos de la divinidad y de la eternidad a los símbolos lingüísticos de los conceptos finitos de la mente mortal. Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios._ ([LU 0:12.13](/es/The_Urantia_Book/0#p12_13))
+> _Conocemos plenamente las dificultades de nuestra misión; reconocemos la imposibilidad de traducir completamente el lenguaje de los conceptos de la divinidad y de la eternidad a los símbolos lingüísticos de los conceptos finitos de la mente mortal. Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios._ (<a id="a150_858"></a>[LU 0:12.13](/es/The_Urantia_Book/0#p12_13))
 
 ## Creación de valor
 
@@ -135,11 +159,11 @@ La conciencia cósmica implica el reconocimiento de una Primera Causa, la única
 > _1. El criterio de sí mismo —la elección moral._
 > _2. El criterio social —la elección ética._
 > _3. El criterio de Dios —la elección religiosa._
-> _Así pues, parece ser que todo progreso humano se efectúa mediante una técnica de *evolución revelatoria* conjunta._ ([LU 196:3.10-15](/es/The_Urantia_Book/196#p3_10))
+> _Así pues, parece ser que todo progreso humano se efectúa mediante una técnica de *evolución revelatoria* conjunta._ (<a id="a161_120"></a>[LU 196:3.10-15](/es/The_Urantia_Book/196#p3_10))
 
-> _Si un amante divino no viviera en él, el hombre no podría amar de manera desinteresada y espiritual. Si un intérprete no viviera en su mente, el hombre no podría comprender realmente la unidad del universo. Si un evaluador no residiera en él, al hombre le sería totalmente imposible apreciar los valores morales y reconocer los significados espirituales. Y este amante procede de la fuente misma del amor infinito; este intérprete es una parte de la Unidad Universal; este evaluador es el hijo del Centro y la Fuente de todos los valores absolutos de la realidad divina y eterna._ ([LU 196:3.16](/es/The_Urantia_Book/196#p3_16))
+> _Si un amante divino no viviera en él, el hombre no podría amar de manera desinteresada y espiritual. Si un intérprete no viviera en su mente, el hombre no podría comprender realmente la unidad del universo. Si un evaluador no residiera en él, al hombre le sería totalmente imposible apreciar los valores morales y reconocer los significados espirituales. Y este amante procede de la fuente misma del amor infinito; este intérprete es una parte de la Unidad Universal; este evaluador es el hijo del Centro y la Fuente de todos los valores absolutos de la realidad divina y eterna._ (<a id="a163_585"></a>[LU 196:3.16](/es/The_Urantia_Book/196#p3_16))
 
-> _La supervivencia humana depende, en gran parte, de que la voluntad humana se consagre a escoger los valores elegidos por este clasificador de los valores espirituales —el intérprete y unificador interior._ ([LU 196:3.17](/es/The_Urantia_Book/196#p3_17))
+> _La supervivencia humana depende, en gran parte, de que la voluntad humana se consagre a escoger los valores elegidos por este clasificador de los valores espirituales —el intérprete y unificador interior._ (<a id="a165_210"></a>[LU 196:3.17](/es/The_Urantia_Book/196#p3_17))
 
 ## ¿Que significa todo esto?
 
@@ -194,3 +218,28 @@ _Dios, ser autoexistente también se explica por sí mismo, Dios en realidad viv
 > También publica «Interface International», del cual está tomado este artículo, con el permiso del autor.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia el compañerismo espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="pr-2">Un examen cuidadoso de las exenciones de responsabilidad «no inspiradas» del libro de Urantia, parte 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,15 +9,39 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 David A. Kantor<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: En lenguaje sencillo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Meta_Values_Part_II">
+          <span class="pr-2">Metavalores II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 
 **Citas clave de los Documentos de Urantia:**
 
-> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo._ ([LU 195:9.4](/es/The_Urantia_Book/195#p9_4))
+> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres. Entonces, esas almas nacidas del espíritu proporcionarán rápidamente la dirección y la inspiración necesarias para la reorganización social, moral, económica y política del mundo._ (<a id="a41_653"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4))
 
-> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor._ ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor._ (<a id="a43_725"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 ## Bienvenida y descripción general
 
@@ -51,7 +75,7 @@ El consenso general de opinión sostenido por quienes intentan estudiar estas te
 
 La mayoría de nosotros estaríamos de acuerdo en que _El Libro de Urantia_ proporciona esa visión. Pero, ¿cómo podemos aplicar las ideas de este libro a los problemas de nuestro mundo? ¿Cómo pasamos de la tinta y el papel a una civilización en avance regida por la sabiduría espiritual? Si bien los reveladores nos han proporcionado generosamente una visión general completa del contexto cósmico dentro del cual se desarrolla la actual lucha planetaria, hoy tenemos ante nosotros el desafío de aplicar eficazmente esta información.
 
-_El Libro de Urantia_ describe la religión como «la poderosa palanca que saca a la civilización del caos». ([LU 70:8.18](/es/The_Urantia_Book/70#p8_18)) Pero también se nos dice que la religión _institucional_ «no puede proporcionar inspiración ni liderazgo en esta inminente reconstrucción social mundial». ([LU 99:2.1](/es/The_Urantia_Book/99#p2_1)) Se nos dice que «Sólo la verdadera religión de la experiencia espiritual personal puede funcionar de manera útil y creativa en la actual crisis de la civilización».
+_El Libro de Urantia_ describe la religión como «la poderosa palanca que saca a la civilización del caos». (<a id="a77_108"></a>[LU 70:8.18](/es/The_Urantia_Book/70#p8_18)) Pero también se nos dice que la religión _institucional_ «no puede proporcionar inspiración ni liderazgo en esta inminente reconstrucción social mundial». (<a id="a77_309"></a>[LU 99:2.1](/es/The_Urantia_Book/99#p2_1)) Se nos dice que «Sólo la verdadera religión de la experiencia espiritual personal puede funcionar de manera útil y creativa en la actual crisis de la civilización».
 
 Y es esta «religión real de experiencia espiritual personal» junto con la descripción que hace _El Libro de Urantia_ de los ideales de ciudadanía cósmica, la que encierra tanta esperanza para transformar las instituciones humanas. Con estos conceptos, _El Libro de Urantia_ perfila un paradigma de espiritualidad diferente al de cualquier religión o filosofía existente en el mundo actual. Vincula el desarrollo espiritual personal con una integración significativa de la personalidad que da como resultado la hermandad del hombre.
 
@@ -63,7 +87,7 @@ En [Documento 103](/es/The_Urantia_Book/103) Melquisedec nos advierte que «reco
 
 En un intercambio amoroso, afectuoso y «auténtico» con otra personalidad, las funciones superconscientes de la mente se movilizan en un estado de receptividad dinámica, abierta al descubrimiento de valores divinos que el momento inmediato presenta como potenciales. Imagine por un momento que está comprometido con otra persona en un esfuerzo por resolver un problema. Estás buscando sinceramente el mejor resultado posible. Mientras participa en esta discusión, intenta pensar lo mejor que pueda; simultáneamente intentas ser consciente de los valores morales y éticos de la situación. Intenta expresar su comunicación de una manera afectuosa y amorosa. La interacción está libre de cualquier esfuerzo por manipular psicológica o emocionalmente al otro. Al comunicarte, estás tratando de permanecer «consciente de la conciencia»; has movilizado tus mejores recursos y, mientras los aplicas, todavía estás evaluando activamente, buscando discernir valores aún más elevados. Incluso puedes alcanzar un nivel de participación en el que busques activamente traer una comprensión de la voluntad del Padre a la interacción: estás compartiendo la vida interior con Dios al participar en esta relación.
 
-Esta experiencia, en la que la personalidad participa en una danza de toma de decisiones con los significados y valores del cosmos, es el proceso vivo mediante el cual nos abrimos a la guía espiritual. Los Intermedios comentan que «Cada vez que el hombre hace una elección moral reflexiva, inmediatamente experimenta una nueva invasión divina de su alma». ([LU 196:3.20](/es/The_Urantia_Book/196#p3_20)) Los valores espirituales no existen independientemente del proceso de interacción de la personalidad. En este proceso vivo de relación es donde aparecen los frutos del espíritu. Es donde aplicamos los niveles superiores de la regla de oro. Es donde implementamos el gran mandamiento de Jesús. Es donde se descubre experiencialmente la hermandad del reino de Jesús. _Éste es el paradigma de espiritualidad que los apóstoles no supieron captar_.
+Esta experiencia, en la que la personalidad participa en una danza de toma de decisiones con los significados y valores del cosmos, es el proceso vivo mediante el cual nos abrimos a la guía espiritual. Los Intermedios comentan que «Cada vez que el hombre hace una elección moral reflexiva, inmediatamente experimenta una nueva invasión divina de su alma». (<a id="a89_357"></a>[LU 196:3.20](/es/The_Urantia_Book/196#p3_20)) Los valores espirituales no existen independientemente del proceso de interacción de la personalidad. En este proceso vivo de relación es donde aparecen los frutos del espíritu. Es donde aplicamos los niveles superiores de la regla de oro. Es donde implementamos el gran mandamiento de Jesús. Es donde se descubre experiencialmente la hermandad del reino de Jesús. _Éste es el paradigma de espiritualidad que los apóstoles no supieron captar_.
 
 Y hoy pregunto: «¿Lo entendemos?» ¿Realmente hemos adquirido más comprensión que la que tenían los apóstoles con respecto a las profundas implicaciones de las enseñanzas de Jesús sobre el reino de los cielos? En [Documento 170](/es/The_Urantia_Book/170) los Intermedios comentan que «a sus apóstoles Jesús siempre les enseñó que el reino abarca la experiencia personal del hombre en relación con sus semejantes en la tierra y con el Padre en el cielo». «El reino de los cielos», dijo Jesús, «es una relación espiritual entre Dios y el hombre».
 
@@ -71,7 +95,7 @@ Dado este paradigma de espiritualidad, y la dificultad del apóstol para captarl
 
 > _Los valores espirituales no existen independientemente del proceso de interacción de la personalidad. En este proceso vivo de relación es donde aparecen los frutos del espíritu. Es donde aplicamos los niveles superiores de la regla de oro. Es donde implementamos el gran mandamiento de Jesús. Es donde se descubre experiencialmente la hermandad del reino de Jesús. Éste es el paradigma de espiritualidad que los apóstoles no lograron captar.
 
-Dijo el Maestro con ocasión de ese primer recuerdo: «Toda alma que consigue obtener esta naturaleza unida de Dios y hombre vivirá para siempre. Este pan de vida que doy a todos los que quieren recibirlo es mi propia naturaleza viviente y combinada. El Padre está en el Hijo y el Hijo es uno con el Padre —ésta es mi revelación donadora de vida al mundo y mi don de salvación para todas las naciones». ([LU 153:2.12](/es/The_Urantia_Book/153#p2_12)) En el contexto de la cena del recuerdo, nuestras almas pueden sentir experimentalmente el estado espiritual de integración de la personalidad que _El Libro de Urantia_ indica que debe actualizarse como una realidad cultural a gran escala.
+Dijo el Maestro con ocasión de ese primer recuerdo: «Toda alma que consigue obtener esta naturaleza unida de Dios y hombre vivirá para siempre. Este pan de vida que doy a todos los que quieren recibirlo es mi propia naturaleza viviente y combinada. El Padre está en el Hijo y el Hijo es uno con el Padre —ésta es mi revelación donadora de vida al mundo y mi don de salvación para todas las naciones». (<a id="a97_402"></a>[LU 153:2.12](/es/The_Urantia_Book/153#p2_12)) En el contexto de la cena del recuerdo, nuestras almas pueden sentir experimentalmente el estado espiritual de integración de la personalidad que _El Libro de Urantia_ indica que debe actualizarse como una realidad cultural a gran escala.
 
 Un Melquisedec se refiere a la cena de conmemoración como «la práctica de la presencia de Dios que culmina en el surgimiento de la hermandad del hombre». Los Intermedios comentan que al establecer este sacramento, «el Maestro buscó liberar el alma renacida del hombre sobre las alegres alas de una libertad espiritual nueva y viva».
 
@@ -99,9 +123,9 @@ Para intentar tener una idea útil de lo que implica la cooperación con los rev
 
 Entonces, ¿cómo funcionan los serafines? En [Documento 113](/es/The_Urantia_Book/103) se nos dice que son «estimuladores de la mente», que buscan continuamente promover decisiones en círculos en la mente mortal; que «operan desde afuera hacia adentro, trabajando a través del entorno social, ético y moral de los seres humanos». Esta red de relaciones interpersonales espiritualizadoras es real. Forma un entorno morontial en el que los serafines pueden ministrar a las mentes y almas participantes.
 
-En el [Documento 196](/es/The_Urantia_Book/196) se nos recuerda que «la mente humana no crea valores reales; la experiencia humana no proporciona una visión del universo. En cuanto a la intuición, el reconocimiento de los valores morales y el discernimiento de los significados espirituales, todo lo que la mente humana puede hacer es descubrir, reconocer, interpretar y elegir». ([LU 196:3.10](/es/The_Urantia_Book/196#p3_10)) Son los Serafines quienes hacen que los valores espirituales sean «visibles» para el superconsciente, tal como funciona en el entorno social, ético y moral de la comunión interpersonal.
+En el [Documento 196](/es/The_Urantia_Book/196) se nos recuerda que «la mente humana no crea valores reales; la experiencia humana no proporciona una visión del universo. En cuanto a la intuición, el reconocimiento de los valores morales y el discernimiento de los significados espirituales, todo lo que la mente humana puede hacer es descubrir, reconocer, interpretar y elegir». (<a id="a125_381"></a>[LU 196:3.10](/es/The_Urantia_Book/196#p3_10)) Son los Serafines quienes hacen que los valores espirituales sean «visibles» para el superconsciente, tal como funciona en el entorno social, ético y moral de la comunión interpersonal.
 
-En _El Libro de Urantia_ se nos anima a orar por valores; se nos dice que esa oración indica que la religión ha «evolucionado hasta ese nivel en el que la mente humana reconoce la realidad de poderes o seres benéficos que son capaces de realzar los valores sociales y aumentar los ideales morales…» ([LU 91:1.4](/es/The_Urantia_Book/91#p1_4)) Desde el ministerio de los Poderosos Supernafines Primarios que facilitan las relaciones entre los diversos residentes del Paraíso, hasta los Seconafines Primarios, que facilitan las relaciones entre los Ancianos de los Días, la Trinidad y los Hijos Creadores, hasta los Serafines del Hogar, que funcionan Dentro de las relaciones entre los miembros de su familia, el ministerio del Espíritu Infinito está fomentando continuamente los potenciales de valores inherentes a las asociaciones de personalidad.
+En _El Libro de Urantia_ se nos anima a orar por valores; se nos dice que esa oración indica que la religión ha «evolucionado hasta ese nivel en el que la mente humana reconoce la realidad de poderes o seres benéficos que son capaces de realzar los valores sociales y aumentar los ideales morales…» (<a id="a127_300"></a>[LU 91:1.4](/es/The_Urantia_Book/91#p1_4)) Desde el ministerio de los Poderosos Supernafines Primarios que facilitan las relaciones entre los diversos residentes del Paraíso, hasta los Seconafines Primarios, que facilitan las relaciones entre los Ancianos de los Días, la Trinidad y los Hijos Creadores, hasta los Serafines del Hogar, que funcionan Dentro de las relaciones entre los miembros de su familia, el ministerio del Espíritu Infinito está fomentando continuamente los potenciales de valores inherentes a las asociaciones de personalidad.
 
 Estas relaciones (nuestras primeras conexiones vivas con el cosmos infinito) son asuntos frágiles y tenues que oscilan de la realidad a la irrealidad de acuerdo con la calidad de los valores que se implementan en cualquier interacción determinada. Este es el ámbito en el que los serafines trabajan para reforzar los más débiles destellos de fe, para fortalecer las almas recién emergentes y comenzar inmediatamente a integrarlas con la cultura del cosmos espiritual.
 
@@ -118,9 +142,9 @@ Sólo contemplar estos nombres nos da una idea de la naturaleza personal del cos
 5. Sentamos las bases para una acción seráfica mejorada cuando proporcionamos información espiritualmente útil. ¡Haz que _El Libro de Urantia_ se difunda por todo el planeta! Recuerde la parábola del sembrador en el Documento 151. Jesús dijo que esta parábola era una pista de lo que los mensajeros del reino podrían esperar en su ministerio de generación en generación a medida que pasara el tiempo. Maximizar todas las oportunidades y recursos disponibles para la difusión de la revelación. No esperes a que sucedan cosas: haz que sucedan.
 6. Participar; participar creativamente en asociaciones humanas. Vuelve a dedicarte al servicio en tu matrimonio y tu familia, tu comunidad laboral y tu grupo de estudio. El icono cultural del santo monástico que vive en una dicha contemplativa, alejado de las preocupaciones de la gente menos ilustrada, ya no es útil. La Madre Teresa, Dag Hammersjold, Vaclav Havel, innumerables hombres y mujeres con altos ideales, que trabajan en el centro de la ciudad, en las aulas, en las iglesias, luchando por revitalizar nuestras instituciones: estos son los nuevos íconos de la espiritualidad aplicada de la quinta época. El benigno virus del amor no invadirá la corriente de emociones sentimentales de la humanidad a menos que estemos ahí afuera ayudando a establecer las conexiones de personalidad necesarias para su transmisión.
 
-Al dedicarnos a tal programa, al elegir los valores más elevados que podamos reconocer en cualquier situación dada, podemos servir como conductos a través de los cuales los valores más elevados del mundo espiritual pueden pasar al mundo mortal e incorporarse a las instituciones planetarias. «La verdadera religión», nos dice un Melquisedec, «es la devoción del yo al servicio de valores significativos y supremos». ([LU 92:7.5](/es/The_Urantia_Book/92#p7_5))
+Al dedicarnos a tal programa, al elegir los valores más elevados que podamos reconocer en cualquier situación dada, podemos servir como conductos a través de los cuales los valores más elevados del mundo espiritual pueden pasar al mundo mortal e incorporarse a las instituciones planetarias. «La verdadera religión», nos dice un Melquisedec, «es la devoción del yo al servicio de valores significativos y supremos». (<a id="a144_417"></a>[LU 92:7.5](/es/The_Urantia_Book/92#p7_5))
 
-Esta visión es ennoblecedora; es empoderante. Tu familia, la junta escolar local en la que sirves, el equipo de fútbol de tus hijos, el grupo de jóvenes de tu iglesia, el grupo de trabajo de tu oficina... cuando te das cuenta de que todos estos son ámbitos en los que los serafines están trabajando para lograr una transformación espiritual, las tareas más comunes de la vida diaria adquieren un significado cósmico y se vuelven dignas de nuestros mejores esfuerzos. Así es como la religión de la experiencia espiritual personal puede convertirse en «la poderosa palanca que saque a la civilización del caos». ([LU 70:8.18](/es/The_Urantia_Book/70#p8_18))
+Esta visión es ennoblecedora; es empoderante. Tu familia, la junta escolar local en la que sirves, el equipo de fútbol de tus hijos, el grupo de jóvenes de tu iglesia, el grupo de trabajo de tu oficina... cuando te das cuenta de que todos estos son ámbitos en los que los serafines están trabajando para lograr una transformación espiritual, las tareas más comunes de la vida diaria adquieren un significado cósmico y se vuelven dignas de nuestros mejores esfuerzos. Así es como la religión de la experiencia espiritual personal puede convertirse en «la poderosa palanca que saque a la civilización del caos». (<a id="a146_611"></a>[LU 70:8.18](/es/The_Urantia_Book/70#p8_18))
 
 ## Conclusión
 
@@ -136,5 +160,30 @@ Que el llamado a la alta aventura contenido en _El Libro de Urantia_, este llama
 
 > _David Kantor es un diseñador de software utilizado para gestionar redes corporativas de comunicación de voz y datos. Ha sido estudiante de_ El Libro de Urantia _durante más de treinta años y es el administrador del sitio web de la Fellowship._
 
-> _El evangelio de Jesús presentaba muchos aspectos diferentes, y precisamente por eso, en el transcurso de unos pocos siglos, los estudiosos de los relatos de sus enseñanzas se dividieron en tantos cultos y sectas. Esta lamentable subdivisión de los creyentes cristianos se debe a que no han sido capaces de discernir, en las múltiples enseñanzas del Maestro, la divina unidad de su vida incomparable. Pero algún día, los verdaderos creyentes en Jesús no estarán divididos espiritualmente de esta manera en su actitud ante los no creyentes. Siempre podemos tener diferencias de comprensión y de interpretación intelectuales, e incluso diversos grados de socialización, pero la falta de fraternidad espiritual es a la vez inexcusable y reprensible._ ([LU 170:5.20](/es/The_Urantia_Book/170#p5_20))
+> _El evangelio de Jesús presentaba muchos aspectos diferentes, y precisamente por eso, en el transcurso de unos pocos siglos, los estudiosos de los relatos de sus enseñanzas se dividieron en tantos cultos y sectas. Esta lamentable subdivisión de los creyentes cristianos se debe a que no han sido capaces de discernir, en las múltiples enseñanzas del Maestro, la divina unidad de su vida incomparable. Pero algún día, los verdaderos creyentes en Jesús no estarán divididos espiritualmente de esta manera en su actitud ante los no creyentes. Siempre podemos tener diferencias de comprensión y de interpretación intelectuales, e incluso diversos grados de socialización, pero la falta de fraternidad espiritual es a la vez inexcusable y reprensible._ (<a id="a162_751"></a>[LU 170:5.20](/es/The_Urantia_Book/170#p5_20))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interfaz: En lenguaje sencillo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Meta_Values_Part_II">
+          <span class="pr-2">Metavalores II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

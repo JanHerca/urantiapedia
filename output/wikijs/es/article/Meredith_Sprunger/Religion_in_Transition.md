@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Meredith Sprunger<br>© 2004 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transiciones...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Joy_of_Living_ina_New_Age">
+          <span class="pr-2">La alegría de vivir al límite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El obispo John Shelby Spong, en su libro _Por qué el cristianismo debe cambiar o morir_, cita pruebas de que la religión, especialmente el cristianismo, necesita urgentemente una reestructuración. Señala que los conceptos y expresiones de la teología cristiana establecidos en la era precientífica ya no tienen sentido. Spong cree que los primeros cristianos fueron responsables de establecer el concepto de un Dios personal, el teísmo, que rechaza y, en su lugar, acepta el concepto de Dios de Paul Tillich como el fundamento no personal del ser. Se extiende mucho al redefinir a Jesús, la trascendencia, el significado de la oración, la base de la ética, el futuro de la iglesia y la vida eterna. Su comprensión de la conciencia de Dios se acerca a las relaciones con el Ajustador del Pensamiento prepersonal.
@@ -19,3 +43,28 @@ Hay muchas señales de que el comienzo de esta transición está en marcha. En _
 
 Vivimos tiempos emocionantes con el privilegio de experimentar los inicios de un nuevo paradigma espiritual en nuestro mundo, junto con la oportunidad de influir en la forma del futuro.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Merlyn_Cox/Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transiciones...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2004 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Joy_of_Living_ina_New_Age">
+          <span class="pr-2">La alegría de vivir al límite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

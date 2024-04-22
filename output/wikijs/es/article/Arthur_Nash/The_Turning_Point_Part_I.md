@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Arthur Nash<br>© 2001 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Actitud espiritual” sincera [LU 155:6.12] = “Acción positiva” [LU 159:5.1]</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Real_Life_Outreach">
+          <span class="pr-2">Alcance de la vida real</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Extraído del libro «La regla de oro en los negocios», copyright 1923, este material tiene importancia para los eruditos urantianos por tres razones. Proporciona información de primera fuente sobre las creencias religiosas fundamentales del Dr. William S. Sadler, quien, en su juventud, fue un ministro ordenado Adventista del Séptimo Día y contemporáneo de Nash. Claramente, estas creencias están muy alejadas de los Documentos de Urantia. En segundo lugar, la Parte I de este extracto narra la devoción de Nash a su iglesia y el fundamentalismo equivocado de la organización que resultó en su expulsión. Es inspirador leer el nacimiento de la religión personal en Nash a través del servicio amoroso: el gran evangelio de Jesús de Nazaret. La tercera razón para examinar el trabajo de Nash es que bien pudo haber sido una fuente humana secundaria para un concepto clave de los Documentos de Urantia, como veremos en la Parte II.
@@ -80,3 +104,28 @@ Algunos de mis lectores tal vez recuerden la historia del obrero empleado en la 
 > _La segunda parte de la historia de Arthur Nash se publicará en la edición de primavera y verano de _The Spiritual Fellowship Journal_. En esta parte, Nash demuestra que algún día se sustituirá el afán de lucro en los negocios por el afán de servicio, como se predijo en los Documentos de Urantia. Además, Nash bien puede ser la fuente humana original de la proclamación de que la religión de Jesús no ha fracasado, nunca ha sido probada seriamente a gran escala.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Actitud espiritual” sincera [LU 155:6.12] = “Acción positiva” [LU 159:5.1]</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2001 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Real_Life_Outreach">
+          <span class="pr-2">Alcance de la vida real</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

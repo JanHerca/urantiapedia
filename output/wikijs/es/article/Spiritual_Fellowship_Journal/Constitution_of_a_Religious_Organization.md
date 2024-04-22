@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡He aquí, estoy haciendo algo nuevo!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 1. El Padre/Maternidad de Dios y el hermano/hermandad de todas las personas es el principio rector de la Fellowship. Reconocemos como espíritus afines a todos los individuos y tradiciones, pasados y presentes, que reconocen este principio. El reconocimiento de la religión de Jesús como el ideal supremo de vida es central en nuestra enseñanza, pero buscamos evitar toda forma de legalismo y literalismo coercitivo. Las escrituras utilizadas para la adoración y la educación en la Fellowship serán el Libro de Urantia y la Biblia, así como pasajes de las Escrituras de las diversas religiones del mundo que describen la sabiduría espiritual.
@@ -27,3 +48,25 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡He aquí, estoy haciendo algo nuevo!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

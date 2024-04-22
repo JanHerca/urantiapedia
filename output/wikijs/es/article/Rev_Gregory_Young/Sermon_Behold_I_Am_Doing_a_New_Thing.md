@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Rev. Gregory Young<br>© 1997 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/My_Acceptance_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y la renovación espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Constitution_of_a_Religious_Organization">
+          <span class="pr-2">Preámbulo sugerente para la constitución de una organización religiosa basada en la Quinta Revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace algunos años, cuando el zoológico de Denver estaba atravesando una renovación importante, había un oso polar que había llegado al zoológico antes de que estuviera listo un gran entorno naturalista que se estaba construyendo. La jaula en la que pusieron al oso temporalmente era lo suficientemente grande como para que el oso polar pudiera dar tres bonitos pasos oscilantes en una dirección, girar y dar tres pasos en la otra dirección, hacia adelante y hacia atrás. El oso polar pasó muchos meses en esa jaula particular que restringía su comportamiento. Finalmente, se completó el entorno naturalista y el oso fue liberado de su jaula... ¿y adivina qué? El oso polar todavía caminaba de un lado a otro como si la jaula todavía estuviera allí.
@@ -83,5 +107,30 @@ Por el toque de la mano del Maestro.
 {.is-info}
 
 
-> «La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo; el alma del hombre necesita, como nunca antes en toda la historia del mundo, escudriñar cuidadosamente sus mapas de moralidad y observar esmeradamente la brújula de su orientación religiosa. La misión suprema de la religión, como influencia social, consiste en estabilizar los ideales de la humanidad durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente.» ([LU 99:1.3](/es/The_Urantia_Book/99#p1_3))
+> «La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo; el alma del hombre necesita, como nunca antes en toda la historia del mundo, escudriñar cuidadosamente sus mapas de moralidad y observar esmeradamente la brújula de su orientación religiosa. La misión suprema de la religión, como influencia social, consiste en estabilizar los ideales de la humanidad durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente.» (<a id="a109_669"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_Bud_Bromley/My_Acceptance_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y la renovación espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Constitution_of_a_Religious_Organization">
+          <span class="pr-2">Preámbulo sugerente para la constitución de una organización religiosa basada en la Quinta Revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

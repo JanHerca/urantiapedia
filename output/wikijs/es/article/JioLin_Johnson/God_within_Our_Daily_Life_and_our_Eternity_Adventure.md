@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 JoiLin Johnson<br>© 2003 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La orquesta de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Barton/The_Man_Nobody_Knows_Part_II">
+          <span class="pr-2">El hombre que nadie conoce. Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _El 7 de junio de 2003, JoiLin Johnson se dirigió a la comunidad Urantia de Boulder. Sus inspiradas palabras nos conmovieron a todos, mientras contaba la historia de la lucha de su esposo Eric por sobrevivir a un ataque cardíaco masivo. La historia de JoiLin es una historia de fe, espíritu comunitario y los caminos milagrosos de la comprensión de Dios. A continuación, imprimimos las palabras que pronunció esa noche._
@@ -16,7 +40,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 > Larry Mullins
 {.is-info}
 
-> «_*Los dirigentes sabios y eficaces*. La civilización depende mucho, muchísimo, de un espíritu de cooperación entusiasta y eficaz. Diez hombres no valen mucho más que uno solo para levantar un gran peso, a menos que lo levanten todos juntos —todos al mismo tiempo. Este trabajo de equipo —la cooperación social— depende de los dirigentes. Las civilizaciones culturales del pasado y del presente han estado basadas en la cooperación inteligente de los ciudadanos con unos jefes sabios y progresivos; y hasta que el hombre no alcance por evolución unos niveles más elevados, la civilización continuará dependiendo de una autoridad sabia y vigorosa._» ([LU 81:6.37](/es/The_Urantia_Book/81#p6_37))
+> «_*Los dirigentes sabios y eficaces*. La civilización depende mucho, muchísimo, de un espíritu de cooperación entusiasta y eficaz. Diez hombres no valen mucho más que uno solo para levantar un gran peso, a menos que lo levanten todos juntos —todos al mismo tiempo. Este trabajo de equipo —la cooperación social— depende de los dirigentes. Las civilizaciones culturales del pasado y del presente han estado basadas en la cooperación inteligente de los ciudadanos con unos jefes sabios y progresivos; y hasta que el hombre no alcance por evolución unos niveles más elevados, la civilización continuará dependiendo de una autoridad sabia y vigorosa._» (<a id="a42_652"></a>[LU 81:6.37](/es/The_Urantia_Book/81#p6_37))
 
 Hasta hace poco, nunca tuve muchos motivos para considerar realmente el significado de comunidad y lo que podría significar para mí: comunidad significaba ir a servicios de adoración, grupos de estudio y otras reuniones a lo largo del año. La mayoría de ustedes ya saben por lo que ha pasado mi esposo Eric durante los últimos 2 años, pero para aquellos que no lo saben, lo resumiré brevemente.
 
@@ -49,3 +73,28 @@ Recibimos tantas bendiciones, tantos milagros de amor y apoyo de Dios y de nuest
 > _JoiLin ha estado leyendo_ El Libro de Urantia _desde 1983. Ha trabajado como funcionaria de Rocky Mountain Spiritual Fellowship y participa activamente en grupos de estudio de Denver. JoiLin es maestra de Reiki en trabajos de liberación emocional. JoiLin y Eric Johnson han estado casados durante seis años y tienen cinco hijos y seis nietos._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La orquesta de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2003 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Barton/The_Man_Nobody_Knows_Part_II">
+          <span class="pr-2">El hombre que nadie conoce. Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

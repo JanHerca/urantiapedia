@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Media_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Medios y Valores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="pr-2">Guía interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Libros Orbis, 1985, 231 págs.
@@ -29,3 +53,28 @@ Paul Knitter sostiene que Jesús fue profundamente teocéntrico y busca establec
 
 Este es un libro de teología creativa de primer nivel que desafiará al lector a repensar los conceptos cristianos básicos. Debería ser una lectura obligatoria para cualquiera que desee mantenerse al tanto de la creciente vanguardia del pensamiento teológico con respecto a la doctrina de la salvación y las actitudes cristianas hacia otras religiones. La visión de Knitter está en armonía con la cristología del Libro de Urantia, que presenta a Jesús como una personalidad universal única y como un mediador inclusivo para todos los que buscan a Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Media_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Medios y Valores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1991-primer-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1991 — Primer número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="pr-2">Guía interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

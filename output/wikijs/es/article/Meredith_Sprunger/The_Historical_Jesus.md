@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/American_Search_for_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Búsqueda estadounidense de espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="pr-2">El misterio de la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La búsqueda actual del Jesús histórico es la tercera ola de investigación teológica crítica en los tiempos modernos para buscar al Jesús detrás de la imagen del Nuevo Testamento. Es, en esencia, un enfoque académico secular que utiliza una impresionante variedad de disciplinas: antropología cultural, historia de las religiones, economía política, sociología de la religión, psicología de la religión, estudios de las sociedades campesinas, sociedades de pureza, sociedades patriarcales, honor-vergüenza. sociedades y diversos métodos literarios.
@@ -23,3 +47,28 @@ Creo que la mejor respuesta a este dilema se encuentra en La vida y enseñanzas 
 
 La imagen del _Libro de Urantia_ es una imagen mucho más satisfactoria y razonable de la vida y las enseñanzas de Jesús que la que encontramos en los escritos teológicos contemporáneos sobre el Jesús histórico. Estoy convencido de que la narrativa del _Libro de Urantia_ eventualmente será reconocida como la descripción más confiable de Jesús y sus enseñanzas disponible para la humanidad. Este reconocimiento está destinado a desencadenar un renacimiento del cristianismo y una revitalización de los valores espirituales en todo el mundo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/American_Search_for_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Búsqueda estadounidense de espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="pr-2">El misterio de la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

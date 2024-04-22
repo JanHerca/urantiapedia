@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Merlyn Cox<br>© 2006 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume16_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="pr-2">El cristianismo en transición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Fellowship Urantia es una comunidad diversa, rica en talento y compleja. A medida que siga creciendo, seguramente lo será aún más. Esto puede ser a la vez una fuente de satisfacción y de cierta consternación, porque si bien me asombran los dones y las gracias de los individuos de la comunidad, a veces me siento consternado por la falta de unidad y de visión común. Siendo realistas, no debería ser una sorpresa; idealistamente, es decepcionante e incluso desalentador en ocasiones.
@@ -50,3 +74,28 @@ Sin embargo, creo que, en el amor, podemos llegar a comprender y apreciar nuestr
 - Lee Loots analiza el proceso y el «arte de la educación», con sugerencias para los líderes de los grupos de estudio y educación de Urantia.
 - Richard Bain explora preguntas y cuestiones que surgen cuando los lectores buscan comprender la cosmología de _El Libro de Urantia_, en este caso la relación entre la Vía Láctea y el superuniverso de Orvonton.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume16_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2006-último-número">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Último número — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="pr-2">El cristianismo en transición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

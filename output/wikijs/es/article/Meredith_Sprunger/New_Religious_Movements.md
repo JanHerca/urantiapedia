@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/No_Credible_Theology">
+          <span class="pr-2">Ninguna teología creíble</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las religiones suelen evolucionar en torno a personalidades carismáticas o proféticas. Cuando los sentimientos y prácticas religiosos logran la identidad del grupo indígena y su institucionalización en una sociedad, se convierten en parte permanente de esa cultura. La teología, la política y la práctica de una religión pueden sufrir cambios a lo largo de los años, pero mantienen su identidad histórica. Nunca un paradigma religioso nuevo y avanzado ha vencido la estructura de poder de las religiones más antiguas.
@@ -22,3 +46,28 @@ Jesús intentó mejorar el judaísmo y sus seguidores comenzaron como una secta 
 
 Este fenómeno de resistencia al cambio se aplica a las revelaciones de época. Todas las revelaciones de época anteriores han encontrado obstáculos. La Quinta Revelación de Época está experimentando algunas de las mismas dificultades. Los Intermedios patrocinadores de La Vida y Enseñanzas de Jesús parecen estar intentando mejorar el cristianismo. Durante los últimos cuarenta años he intentado lograr que teólogos y ministros cristianos examinaran seriamente _El Libro de Urantia_, prácticamente sin éxito. Incluso aquellos ministros que reconocen su calidad y utilizan sus enseñanzas lo hacen de forma encubierta. Está claro que cualquier organización religiosa que surja de la Quinta Revelación de Época será una nueva organización religiosa. Obviamente habrá numerosas organizaciones de este tipo en los siglos venideros. Es de esperar que dichas organizaciones e instituciones en su teología, política y práctica se beneficien de la sabiduría espiritual de los Documentos de Urantia. Durante estos primeros años de desarrollo que preceden al advenimiento de nuevas organizaciones religiosas, la misión de esta Revista es _Promover debates teológicos, filosóficos y políticos relacionados con un simbolismo y una expresión socioreligiosa apropiados de la Quinta Revelación de época_. Con suerte, estas discusiones contribuirán a la sabiduría espiritual que estará disponible cuando aparezcan estas nuevas organizaciones religiosas.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, primavera de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 1999 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/No_Credible_Theology">
+          <span class="pr-2">Ninguna teología creíble</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

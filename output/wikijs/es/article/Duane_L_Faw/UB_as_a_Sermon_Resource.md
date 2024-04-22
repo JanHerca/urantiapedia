@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Duane L. Faw, JD<br>© 1991 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El clero evalúa el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="pr-2">El libro de Urantia y la renovación espiritual: confirmando una peregrinación espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mientras enseñaba derecho en Londres en 1982, me enteré de que el vicario de una iglesia anglicana cercana era un «lector en el armario» de _El Libro de Urantia_. Se resistía a verme en la oficina de su iglesia o en la rectoría, así que acordamos encontrarnos en un pub conveniente del vecindario. Le expliqué que me atraía el libro porque más del 98% de sus citas eran de la Biblia, los libros apócrifos y los pseudoepígrafos. Como profesor de una clase de Biblia para adultos y orador laico certificado, quería saber qué decían tanto la Biblia como el _Libro de Urantia_ sobre un texto o concepto antes de usarlo. Los márgenes de mi _Libro de Urantia_ contenían todas las referencias bíblicas que pude encontrar para cada cita y concepto, y pude pasar del _El Libro de Urantia_ a la Biblia con facilidad; pero sin notas marginales en una Biblia que se refirieran a la página y línea de pasajes relevantes en _El Libro de Urantia_, era imposible pasar de la Biblia al _Libro de Urantia_ usando esta misma técnica. Por lo tanto, utilicé un programa de computadora para reorganizar mis notas marginales en un formato que facilitara ir en cualquier dirección. Le mostré la última copia impresa de este material que traje a Inglaterra para mi uso personal.
@@ -44,3 +68,28 @@ Desde la publicación de la primera edición de tapa dura de Paramony en 1986, h
 > _Duane Faw es ex juez de apelaciones, general de brigada del Cuerpo de Marines de los EE. UU. (retirado) y profesor emérito de derecho en la Facultad de Derecho de la Universidad Pepperdine. El Dr. Faw ha impartido clases bíblicas para adultos durante 40 años y ha sido orador laico certificado en la Iglesia Metodista Unida durante 25 años._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El clero evalúa el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="pr-2">El libro de Urantia y la renovación espiritual: confirmando una peregrinación espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

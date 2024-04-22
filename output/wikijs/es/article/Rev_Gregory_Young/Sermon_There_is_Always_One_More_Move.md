@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Rev. Gregory Young<br>© 1998 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Religion_and_the_Religious_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión y la organización religiosa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="pr-2">Salmos hoy: la presencia salvadora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un niño fue al supermercado y le pidió al dependiente una caja de detergente Duz. El empleado dijo: «Hijo, ¿para qué necesitas detergente?» El niño dijo: «Quiero lavar a mi perro». El empleado dijo: «Bueno, hijo, ese detergente Duz es bastante fuerte para lavar a un perrito». El niño dijo: «Eso es lo que quiero». El empleado dijo: «Está bien», y le vendió el Duz, pero le aconsejó: «Ahora tenga cuidado cuando lave a su perro. Ese detergente es muy fuerte; podría matarlo». El niño dijo: «Tendré cuidado». Se llevó la caja de detergente a casa.
@@ -48,3 +72,28 @@ Amigos míos, sea cual sea el dolor o el sufrimiento que soporten, sea cual sea 
 > _Gregory Young es pastor de la Iglesia Unida de Cristo St. John en Germantown, Wisconsin._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Religion_and_the_Religious_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión y la organización religiosa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1998 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="pr-2">Salmos hoy: la presencia salvadora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Arthur Nash<br>© 2002 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Norm_Duval/The_Real_Gospel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El verdadero evangelio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Extraído del libro «La regla de oro en los negocios», copyright 1923, este material tiene importancia para los eruditos urantianos por tres razones. La primera parte de este extracto narra la devoción de Nash a su iglesia y el fundamentalismo equivocado de la organización que resultó en su expulsión. En la Parte II narra su renacimiento espiritual. En uno de los testimonios más notables de los valores prácticos de la Regla de Oro, Nash describe cómo la aplicó a un negocio en quiebra y vio cómo prosperaba y crecía. Es inspirador leer el nacimiento de la religión personal en Nash mediante un servicio amoroso: el gran evangelio de Jesús de Nazaret. El trabajo de Nash bien pudo haber sido una fuente humana secundaria para un concepto clave de los Documentos de Urantia, como veremos._
@@ -140,13 +161,35 @@ Bueno, eso es lo que descubrí durante las semanas de estudio más duras que he 
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Norm_Duval/The_Real_Gospel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El verdadero evangelio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2002 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notas
 
-[^1]: «Se habló mucho [en la sinagoga] sobre las doctrinas que Jesús predicaba y que trastornaban a la gente corriente; sus enemigos sostenían que sus enseñanzas eran impracticables, que todo saltaría en pedazos si todo el mundo hiciera un esfuerzo honrado por vivir de acuerdo con sus ideas. Los hombres de muchas generaciones posteriores han dicho las mismas cosas. Incluso en la época más iluminada de las presentes revelaciones, muchos hombres inteligentes y con buenas intenciones sostienen que la civilización moderna no podría haberse construido sobre las enseñanzas de Jesús —y en parte tienen razón. Pero todos esos escépticos olvidan que se podría haber construido una civilización mucho mejor sobre sus enseñanzas, y que alguna vez se construirá. Este mundo nunca ha intentado seriamente poner en práctica, a gran escala, las enseñanzas de Jesús, aunque a menudo se han hecho intentos poco entusiastas por seguir las doctrinas del llamado cristianismo». [[LU 154:4.6](/es/The_Urantia_Book/154#p4_6)]
-	«Este mundo nunca ha puesto a prueba de manera seria, sincera y honrada estas ideas dinámicas y estos ideales divinos de la doctrina del reino de los cielos enseñada por Jesús». [[LU 170:4.14](/es/The_Urantia_Book/170#p4_14)]
+[^1]: «Se habló mucho [en la sinagoga] sobre las doctrinas que Jesús predicaba y que trastornaban a la gente corriente; sus enemigos sostenían que sus enseñanzas eran impracticables, que todo saltaría en pedazos si todo el mundo hiciera un esfuerzo honrado por vivir de acuerdo con sus ideas. Los hombres de muchas generaciones posteriores han dicho las mismas cosas. Incluso en la época más iluminada de las presentes revelaciones, muchos hombres inteligentes y con buenas intenciones sostienen que la civilización moderna no podría haberse construido sobre las enseñanzas de Jesús —y en parte tienen razón. Pero todos esos escépticos olvidan que se podría haber construido una civilización mucho mejor sobre sus enseñanzas, y que alguna vez se construirá. Este mundo nunca ha intentado seriamente poner en práctica, a gran escala, las enseñanzas de Jesús, aunque a menudo se han hecho intentos poco entusiastas por seguir las doctrinas del llamado cristianismo». <a id="a187_965"></a>[[LU 154:4.6](/es/The_Urantia_Book/154#p4_6)]
+	«Este mundo nunca ha puesto a prueba de manera seria, sincera y honrada estas ideas dinámicas y estos ideales divinos de la doctrina del reino de los cielos enseñada por Jesús». <a id="a188_179"></a>[[LU 170:4.14](/es/The_Urantia_Book/170#p4_14)]
 	«La economía actual, motivada por el lucro, está condenada al fracaso a menos que los móviles del servicio se añadan a los móviles del lucro. La competencia implacable, basada en el egoísmo de miras estrechas, termina finalmente por destruir aquellas mismas cosas que pretendía conservar. La motivación que busca un beneficio exclusivo para sí mismo es incompatible con los ideales cristianos —y mucho más con las enseñanzas de Jesús.
 	«En la economía, el móvil del lucro es con relación al móvil del servicio lo que, en la religión, el miedo es con relación al amor. Pero el afán de lucro no se debe destruir o eliminar de manera repentina; mantiene trabajando arduamente a muchos mortales que de otra manera serían perezosos. Sin embargo, no es necesario que los objetivos de este estimulador de la energía social sean permanentemente egoístas.
-	«En un tipo avanzado de sociedad, el afán de lucro en las actividades económicas es totalmente despreciable y enteramente indigno; sin embargo, es un factor indispensable durante todas las fases iniciales de la civilización. A los hombres no se les debe quitar el móvil del lucro hasta que posean firmemente unos móviles no lucrativos de tipo superior que puedan emplear en la competencia económica y en el servicio social —la motivación trascendente de una sabiduría superlativa, una fraternidad fascinante y una consecución espiritual magnífica.». [[LU 71:6.1-3](/es/The_Urantia_Book/71#p6_1)]
+	«En un tipo avanzado de sociedad, el afán de lucro en las actividades económicas es totalmente despreciable y enteramente indigno; sin embargo, es un factor indispensable durante todas las fases iniciales de la civilización. A los hombres no se les debe quitar el móvil del lucro hasta que posean firmemente unos móviles no lucrativos de tipo superior que puedan emplear en la competencia económica y en el servicio social —la motivación trascendente de una sabiduría superlativa, una fraternidad fascinante y una consecución espiritual magnífica.». <a id="a191_551"></a>[[LU 71:6.1-3](/es/The_Urantia_Book/71#p6_1)]
 
 
 

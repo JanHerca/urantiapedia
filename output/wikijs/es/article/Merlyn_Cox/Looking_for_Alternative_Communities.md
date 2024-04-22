@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 La Christian Fellowship de Estudiantes de <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, Otoño-Invierno 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="pr-2">Pluralismo religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Como pastor, ahora jubilado, y como lector de Urantia durante unos 20 años, me encantaría ver una alternativa a la iglesia dividida y atada a la tradición, que se debate desesperadamente en busca de una comprensión más clara de su Señor y su misión en nuestro mundo. hoy. Me encantaría ser parte de una comunidad con un correctivo incorporado en su mandato que nos permitiría evitar lo peor de los conflictos y las luchas internas de esta institución tan humana. Me encantaría ver surgir una alternativa de la comunidad Urantia, o al menos contemplar una iglesia transformada por la Quinta Revelación de época, una que de alguna manera capture lo mejor de la comunidad cristiana, una que fomente una gran esperanza y alegría, una comunidad amorosa. basado en la adoración trascendente y el servicio olvidadizo de uno mismo.
@@ -58,3 +82,28 @@ No es necesario, porque si bien creemos y confiamos en que el trabajo es nuestro
 
 - En mi reseña del libro de Rhawn Joseph, «Astrobiología: El origen de la vida y la muerte del darwinismo», en el último número, página 21, párrafo 5: «Más bien, los antígenos de todas las enfermedades posibles...» debería decir: « Más bien, linfocitos para todas las enfermedades posibles…»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, Otoño-Invierno 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_spiritual_fellowship_journal#otoño-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2005 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="pr-2">Pluralismo religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
