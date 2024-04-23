@@ -55,7 +55,7 @@ Without intention of intruding upon the supremely personal and sacred domain of 
 > 
 > _In time the alter-ego concept is exalted to a superior status of divine dignity, and prayer as an agency of religion has appeared_. <a id="a55_135"></a>[[UB 91:3.1-2](/en/The_Urantia_Book/91#p3_1)]
 
-> _…It is altogether fitting that man, when he prays, should strive to grasp the concept of the Universal Father on Paradise; but the more effective technique for most practical purposes will be to revert to the concept of a near-by alter ego, just as the primitive mind was wont to do, and then to recognize that the idea of this alter ego has evolved from a mere fiction to the truth of God’s indwelling mortal man in the factual presence of the Adjuster_. . .  <a id="a57_464"></a>[[UB 91:3.6](/en/The_Urantia_Book/91#p3_6)]
+> _…It is altogether fitting that man, when he prays, should strive to grasp the concept of the Universal Father on Paradise; but the more effective technique for most practical purposes will be to revert to the concept of a near-by alter ego, just as the primitive mind was wont to do, and then to recognize that the idea of this alter ego has evolved from a mere fiction to the truth of God’s indwelling mortal man in the factual presence of the Adjuster..._  <a id="a57_464"></a>[[UB 91:3.7](/en/The_Urantia_Book/91#p3_7)]
 
 The conversational form of language is the dominant form of thought: to think reflectively usually means to think in the verbal forms of conversation. With the dawn of the creative imagination the child then begins to converse with an alter ego. And this alter ego, the son of the creative imagination, may evolve toward a status of divine dignity, eventually becoming the experiential fact of the eternal presence of God in the temporal mind of man. The divinely ordained (but not necessarily inevitable) destiny of the alter ego from its moment of conception can only signify the direct intervention of spirit influences, circuits, and entities in the creative imagination and upon the concept of the alter ego.
 
@@ -67,7 +67,7 @@ It is the action of these spirit forces in the creative imagination which is par
 
 > _Certain abrupt presentations of thoughts, conclusions, and other pictures of mind are sometimes the direct or indirect work of the Adjuster. . ._ <a id="a67_149"></a>[Paper [UB 110:4.3](/en/The_Urantia_Book/110#p4_3)]
 
-> _The races on some worlds have one gland, on others two, as do Urantians, while on still other spheres the races have three of these unique bodies. The inherent imagination and spiritual receptivity is definitely influenced by this differential chemical endowment._ <a id="a69_268"></a>[[UB 49:5.11](/en/The_Urantia_Book/49#p5_11)]
+> _The races on some worlds have one gland, on others two, as do Urantians, while on still other spheres the races have three of these unique bodies. The inherent imagination and spiritual receptivity is definitely influenced by this differential chemical endowment._ <a id="a69_268"></a>[[UB 49:5.19](/en/The_Urantia_Book/49#p5_19)]
 
 > _The volunteering Adjuster is … interested in … Spiritual perception. The prospects of reverential development, the birth and growth of the religious nature. What is the potential of soul, the probable spiritual capacity of receptivity?_ <a id="a71_240"></a>[[UB 108:1.3](/en/The_Urantia_Book/108#p1_3)]
 
