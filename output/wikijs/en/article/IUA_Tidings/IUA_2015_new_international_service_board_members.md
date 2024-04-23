@@ -65,7 +65,7 @@ Andres’ main focus has been with electronic media. He created a YouTube Channe
 
 Besides working with electronic media Andres is involved with the planning of events and conferences and develops strategies for the dissemination of the teachings of _The Urantia Book_. He says: “I have learned about the real importance and real objectives and goals of having an Association. As a purpose in life I’m willing to serve as much as I can in the work of disseminating the teachings of _The Urantia Book_.”
 
-Andres has a keen mind and a deep commitment to work with Urantia Association in the service of the Revelation.  We are truly blessed to have him on the board.
+Andres has a keen mind and a deep commitment to work with Urantia Association in the service of the Revelation.  We are truly blessed to have him on the board.
 <br style="clear:both;"/>
 
 ## Conference Chair – Antonio Schefer

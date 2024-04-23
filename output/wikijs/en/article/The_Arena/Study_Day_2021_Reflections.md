@@ -38,9 +38,9 @@ dateCreated: 2023-11-04T14:02:03.086Z
 <img src="/image/article/The_Arena/20180519_154825-300x169.jpg">
 </figure>
 
-When ANZURA arranges a Study Day, the hope is to provide an opportunity for students of _The Urantia Book_ to participate in a specially formed study group in their regional areas so that reads are meeting on the same day studying the same paper. The value of meeting with other readers is not to be underestimated—after all, our personal growth and religious experiences are best fostered while we are relating – inter-acting – with other personalities!
+When ANZURA arranges a Study Day, the hope is to provide an opportunity for students of _The Urantia Book_ to participate in a specially formed study group in their regional areas so that reads are meeting on the same day studying the same paper. The value of meeting with other readers is not to be underestimated—after all, our personal growth and religious experiences are best fostered while we are relating – inter-acting – with other personalities!
 
-Groups met over the weekend of 19<sup>th</sup> June to study **Paper 2: The Nature of God.** The following articles contain some reflections from some who met.
+Groups met over the weekend of 19<sup>th</sup> June to study **Paper 2: The Nature of God.** The following articles contain some reflections from some who met.
 <br style="clear:both;"/>
 
 ## Hunter Region Meeting Reflections
@@ -135,11 +135,11 @@ This paper endeavors to enlarge the reader’s human concept of God by employing
 
 > _…efforts to enlarge the human concept of God would be well-nigh futile except for the fact that the mortal mind is indwelt by the bestowed Adjuster of the Universal Father and is pervaded by the Truth Spirit of the Creator Son…_ <a id="a135_232"></a>[UB 2:0.3](/en/The_Urantia_Book/2#p0_3)
 
-> **_… animal-origin_** _peoples. Only once in his sevenfold career as a bestowal Son is a Paradise Michael born of woman as you have the record of the babe of Bethlehem. Only once does he live and die as a member of the **lowest** order of evolutionary will creatures._ <a id="a137_271"></a>[UB 21:4.3](/en/The_Urantia_Book/21#p4_3)
+> **_… animal-origin_** _peoples. Only once in his sevenfold career as a bestowal Son is a Paradise Michael born of woman as you have the record of the babe of Bethlehem. Only once does he live and die as a member of the **lowest** order of evolutionary will creatures._ <a id="a137_271"></a>[UB 21:4.3](/en/The_Urantia_Book/21#p4_3)
 
 In effect, what the content of this paper is saying, humble acceptance of sonship is a prerequisite to enlightenment:
 
-> _“The kingdom of God is within you” was probably the **greatest pronouncement** Jesus ever made, next to the declaration that his Father is a living and loving spirit_. <a id="a141_171"></a>[UB 195:10.4](/en/The_Urantia_Book/195#p10_4)
+> _“The kingdom of God is within you” was probably the **greatest pronouncement** Jesus ever made, next to the declaration that his Father is a living and loving spirit_. <a id="a141_171"></a>[UB 195:10.4](/en/The_Urantia_Book/195#p10_4)
 
 Upon such a basis the Divine Counselor _cheerfully_ carries on with the attempt at enlightenment of the mind of the reader
 
@@ -161,7 +161,7 @@ What follows is illuminative of the following characteristics of the Divine natu
 
 > _“…The justice of the Universal Father cannot be influenced by the acts and performances of his creatures, “for there is no iniquity with the Lord our God, no respect of persons, no taking of gifts.”_
 > 
-> _Supreme justice is dominated by a Father’s love; therefore will justice never destroy that **which mercy** can save. Time to accept salvation is vouchsafed every evildoer._ <a id="a163_176"></a>[UB 54:5.3](/en/The_Urantia_Book/54#p5_3)
+> _Supreme justice is dominated by a Father’s love; therefore will justice never destroy that **which mercy** can save. Time to accept salvation is vouchsafed every evildoer._ <a id="a163_176"></a>[UB 54:5.3](/en/The_Urantia_Book/54#p5_3)
 
 **God’s Mercy**
 
@@ -171,11 +171,11 @@ What follows is illuminative of the following characteristics of the Divine natu
 
 > _“…The experience of loving is very much a direct response to the experience of being loved. Knowing that God loves me…”_ _“…**God is love**, but love is not God._
 > 
-> _…The infinite **love** of God is not **secondary** to anything in the divine nature._ <a id="a173_89"></a>[UB 188:4.8](/en/The_Urantia_Book/188#p4_8)
+> _…The infinite **love** of God is not **secondary** to anything in the divine nature._ <a id="a173_89"></a>[UB 188:4.8](/en/The_Urantia_Book/188#p4_8)
 
 **God’s Goodness**
 
-> _“…religion is a faith-trust in the goodness of God…”, “…in religion God must also be moral; he must be good. Man might fear a great God, but he trusts and loves only a good God…”,   “…God as a father transcends God as a judge…”, “…The goodness of God rests at the bottom of the divine free-willness — the universal tendency to love, show mercy, manifest patience, and minister forgiveness…”_
+> _“…religion is a faith-trust in the goodness of God…”, “…in religion God must also be moral; he must be good. Man might fear a great God, but he trusts and loves only a good God…”,   “…God as a father transcends God as a judge…”, “…The goodness of God rests at the bottom of the divine free-willness — the universal tendency to love, show mercy, manifest patience, and minister forgiveness…”_
 
 **Divine Truth and Beauty**
 
@@ -187,7 +187,7 @@ Reading this paper has been an _education_
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/study-day-2021-reflections
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/07/29/study-day-2021-reflections)
 
 <figure class="table chapter-navigator">
   <table>

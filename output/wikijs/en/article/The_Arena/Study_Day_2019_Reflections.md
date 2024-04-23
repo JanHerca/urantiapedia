@@ -91,9 +91,9 @@ We came together for the first time in ages. Some readers are of ‘old stock’
 
 This regional gathering drew Urantia Book readers from Milang, Strathalbyn, Mount Barker and Adelaide. Milang is on the shores of Lake Alexandrina, Strathalbyn midland about halfway between Milang and Mount Barker, Mount Barker is in the Adelaide hills on the South Eastern freeway heading toward Murray Bridge, about halfway between Adelaide and Murray Bridge, 35 minutes’ drive either way, Seacliff a beach side suburb of Adelaide. This illustrates nicely, how spread-out we are across this land, but with goodwill and the various transport options “we can do it!” and we did. We decided to make such meetings more regular in the future.
 
-Paper 9 was indeed a good starting point. As Beverly reflected afterwards, the collective reading and shared time were welcoming and informative. “Focusing on the universe Mother Spirit made you feel the inner mindal compass and as we are drawn toward our Third Source and Centre our Universe Journey toward the First Source and Centre is in this way guaranteed.”
+Paper 9 was indeed a good starting point. As Beverly reflected afterwards, the collective reading and shared time were welcoming and informative. “Focusing on the universe Mother Spirit made you feel the inner mindal compass and as we are drawn toward our Third Source and Centre our Universe Journey toward the First Source and Centre is in this way guaranteed.”
 
-We really did enjoy one another’s company and paused to ask questions and comment on various aspects of the Paper. Thank you, Stephen, Tamara, Beverly and Roger; you made it all come together so perfectly.
+We really did enjoy one another’s company and paused to ask questions and comment on various aspects of the Paper. Thank you, Stephen, Tamara, Beverly and Roger; you made it all come together so perfectly.
 <br style="clear:both;"/>
 
 ## Online Forum Discussion Reflections
@@ -157,7 +157,7 @@ On the other hand, Bonita clarified her case regarding the role of the Holy Spir
 
 “She (the Holy Spirit) provides the supermind, the liaison between material consciousness and superconsciousness and the link from material life to emerging morontia life. Mind and life go together. Without it there’d be no interrelationship between the two levels of consciousness. And without her personal presence, the cocreative event which gives birth to the morontia soul would have nothing to cocreate with. Only personalities cocreate. Once the soul is cocreated there is a dwelling place for the Adjuster. The Adjuster needs a mind to live in. First the dwelling place, then the indwelling.”
 
-I replied: “Bonita, thanks for sharpening the question! It’s precisely this “**cocreative event which gives birth to the morontia soul**” that we were wondering about. Regarding the actual birth or creation of our human souls, here’s a quick sample of cherry-picked quotes. At the end, I raise that question we bumped into.
+I replied: “Bonita, thanks for sharpening the question! It’s precisely this “**cocreative event which gives birth to the morontia soul**” that we were wondering about. Regarding the actual birth or creation of our human souls, here’s a quick sample of cherry-picked quotes. At the end, I raise that question we bumped into.
 
 > _As the soul of joint mind and Adjuster_ **_creation_** _becomes increasingly existent…_ <a id="a161_91"></a>[UB 5:2.5](/en/The_Urantia_Book/5#p2_5) emphasis added
 
@@ -183,7 +183,7 @@ I replied: “Bonita, thanks for sharpening the question! It’s precisely this 
 
 > _The evolving immortal soul of man, the joint creation of the_ **_material mind_** _and the_ **_Adjuster_**_…_ <a id="a183_113"></a>[UB 117:5.3](/en/The_Urantia_Book/117#p5_3) emphasis added
 
-**So here’s the question**: given all the above, is an Adjuster **required** for creating a human soul?
+**So here’s the question**: given all the above, is an Adjuster **required** for creating a human soul?
 
 For Bonita’s reply, and the entire excellent discussion, see:
 
@@ -193,7 +193,7 @@ For Bonita’s reply, and the entire excellent discussion, see:
 <img src="/image/article/The_Arena/Online-SD-Discussion-570x345.jpg" alt="Sydney Study Day">
 </figure>
 
-A soul emerges. _“Discover, recognize, interpret, and choose.”_  <a id="a195_65"></a>[[UB 196:3.10](/en/The_Urantia_Book/196#p3_10)]
+A soul emerges. _“Discover, recognize, interpret, and choose.”_  <a id="a195_65"></a>[[UB 196:3.10](/en/The_Urantia_Book/196#p3_10)]
 
 > _“Now, mistake not, my Father will ever respond to the faintest flicker of faith. He takes note of the physical and superstitious emotions of the primitive man. And with those honest but fearful souls whose faith is so weak that it amounts to little more than an intellectual conformity to a passive attitude of assent to religions of authority, the Father is ever alert to honor and foster even all such feeble attempts to reach out for him. But you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit.”_ <a id="a197_627"></a>[[UB 155:6.17](/en/The_Urantia_Book/155#p6_17)]
 
@@ -203,7 +203,7 @@ A soul emerges. _“Discover, recognize, interpret, and choose.”_  <a id="a19
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/study-day-2019-reflections
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/study-day-2019-reflections)
 
 <figure class="table chapter-navigator">
   <table>

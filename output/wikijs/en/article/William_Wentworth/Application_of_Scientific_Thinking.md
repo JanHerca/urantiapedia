@@ -46,7 +46,7 @@ Ken Glasziou was a scientist who took pains to make his reasoning comprehensible
 
 Science develops so rapidly that I don’t really know whether his comments are still relevant, but it led me to think about the application of scientific thinking to cosmology as _The Urantia Book_ explains it.
 
-Scientists have been trying to develop a theory which accounts for everything in the cosmos, both large scale and small, from the largest clusters of galaxies to the smallest particles within atoms.  Some of the most accomplished physicists and mathematicians have given themselves to this effort, so far without success, since they restrict themselves to consideration of only a part of the whole of which the cosmos consists.
+Scientists have been trying to develop a theory which accounts for everything in the cosmos, both large scale and small, from the largest clusters of galaxies to the smallest particles within atoms.  Some of the most accomplished physicists and mathematicians have given themselves to this effort, so far without success, since they restrict themselves to consideration of only a part of the whole of which the cosmos consists.
 
 While they have developed some of the most amazing methods to measure both sub-atomic particles on the one hand, and enormous aggregations of matter on the other, they have not been able to blend them into a unified theory which accounts for all the measurements. There always seems to be something which doesn’t fit.
 
@@ -77,7 +77,7 @@ That said, however, the ambition to develop a unified theory to explain the cosm
 <img src="/image/article/The_Arena/Marions-diversity.jpg">
 </figure>
 
-As a consequence, there is nothing which is not composed of I AM in some form. All matter, mind, Spirit and personality consist of I AMness. Nothing can be excluded because there **is** nothing else.  Everything is composed of some metamorphosis of I AM. And this includes the material cosmos which is assumed by material science. But, of course, it also includes much more than the material cosmos which science assumes to be all that there is. It includes spirit, mind and personal realities which science ignores.
+As a consequence, there is nothing which is not composed of I AM in some form. All matter, mind, Spirit and personality consist of I AMness. Nothing can be excluded because there **is** nothing else.  Everything is composed of some metamorphosis of I AM. And this includes the material cosmos which is assumed by material science. But, of course, it also includes much more than the material cosmos which science assumes to be all that there is. It includes spirit, mind and personal realities which science ignores.
 
 In asserting this, however, we need to be careful not to fall into the error of Pantheism. The metamorphosis of I AM involves a separation of that part which contains the potential of Deity from all the rest. The potential of Deity is referred to as the Deity Absolute, while everything non-deified remains as the Unqualified Absolute, and it is within this Unqualified Absolute that the potential of the material cosmos is contained. The materialistic cosmos thus is not deified, and the mistaken notion of Pantheism that it is part of Deity must be rejected. The material reality, although derived from the I AM, is not part of Deity. It is a consequence of the action of Deity, but of itself is not deified.
 
@@ -87,7 +87,7 @@ There are aspects of Deity which are not personal. These other realities are the
 
 _The Universal Father, the Eternal Son, and the Infinite Spirit are unique persons; none is a duplicate; each is original; all are united_. <a id="a87_140"></a>[UB 10:2.6](/en/The_Urantia_Book/10#p2_6)
 
-God is the personality of Deity, but there is still much of Deity which is not personal. There are such things as the presence circuits of the Eternal Son and the Infinite Spirit, spirit and mind gravity, the  circuits of the Reflective Spirits, the Cosmic Mind of the Master Spirits, and no doubt much more.  These phenomena are deity, but not personal, and thus not God.
+God is the personality of Deity, but there is still much of Deity which is not personal. There are such things as the presence circuits of the Eternal Son and the Infinite Spirit, spirit and mind gravity, the  circuits of the Reflective Spirits, the Cosmic Mind of the Master Spirits, and no doubt much more.  These phenomena are deity, but not personal, and thus not God.
 
 Destiny is to allow spirit to dominate matter through mind as directed by personality, and from this can be derived some aspects of God’s purpose. But to material science, destiny and purpose are figments of mortal mind. Science recognises mind but regards it as simply the output of the mortal brain. Certainly, the mortal brain does exhibit some measurable output, but that is only a fraction of its function which science mistakes for the whole. As a consequence, science regards questions of destiny and purpose as purely subjective expressions of mortal minds and dismisses them as teleological delusions.
 
@@ -97,7 +97,7 @@ It took many centuries for the reverse to happen—that is for revelatory techni
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/application-scientific-thinking
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/07/29/application-scientific-thinking)
 
 <figure class="table chapter-navigator">
   <table>

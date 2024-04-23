@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Brazil-Conf-4-300x225.jpg">
 </figure>
 
-The National Meeting for Brazilian Urantia Book readers was held in Curitiba, Paraná 9 to 12 October. Regardless of the economic crisis in Brazil, 60 people attended this event. We were pleased to welcome the Brazilian pioneer reader, Mr. Caio Mario Café, and also Andres Ramires from Colombia.
+The National Meeting for Brazilian Urantia Book readers was held in Curitiba, Paraná 9 to 12 October. Regardless of the economic crisis in Brazil, 60 people attended this event. We were pleased to welcome the Brazilian pioneer reader, Mr. Caio Mario Café, and also Andres Ramires from Colombia.
 
 This year we celebrated the 10<sup>th</sup> Brazilian event, with three magical days of in-depth involvement from all participants. The agenda included four plenary presentations, three workshops, an interactive quiz, and a celebration party. All attendants were constantly active and deeply involved.
 

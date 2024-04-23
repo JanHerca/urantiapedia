@@ -38,13 +38,13 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Swedish-Flag-cropped-scaled-e1648080463725.jpg">
 </figure>
 
-The Sweden Urantia Association was chartered as a Local Association of Urantia Association in 2007. The study group in Stockholm started around 2005. Over that time, group members have been changing as some have left the group and new ones have been coming in. Today there are five of us from Sweden and two from Finland.
+The Sweden Urantia Association was chartered as a Local Association of Urantia Association in 2007. The study group in Stockholm started around 2005. Over that time, group members have been changing as some have left the group and new ones have been coming in. Today there are five of us from Sweden and two from Finland.
 
-Normally we have meetings at someone’s home, twice a month. During the pandemic, the meetings have been once a month on the Internet, and still are. 
+Normally we have meetings at someone’s home, twice a month. During the pandemic, the meetings have been once a month on the Internet, and still are. 
 
-We donated the Finnish translation of _The Urantia Book_ to the Finnish library in Stockholm about ten years ago. The book was stolen so we donated another one. Now we are planning to donate books to the Swedish libraries. 
+We donated the Finnish translation of _The Urantia Book_ to the Finnish library in Stockholm about ten years ago. The book was stolen so we donated another one. Now we are planning to donate books to the Swedish libraries. 
 
-To find new readers, we have been displaying _The Urantia Book_ in a spiritual book fair where some new readers have been finding the book. 
+To find new readers, we have been displaying _The Urantia Book_ in a spiritual book fair where some new readers have been finding the book. 
 
 Our biggest event of each year is the birthday celebration of Jesus on August 21. In 2020 and 2020 we celebrated via the internet for because of the pandemic.
 

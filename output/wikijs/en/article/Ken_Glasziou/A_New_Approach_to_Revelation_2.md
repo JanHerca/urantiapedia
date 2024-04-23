@@ -44,7 +44,7 @@ By Ken Glasziou, Sunshine Coast QLD
 
 _(“Mined” from the [Urantia Book Fellowship’s Journal 1994](/en/article/Ken_Glasziou/A_New_Approach_to_Revelation))_
 
-After many years of introducing both Christian laity and ministers to _The Urantia Book,_ I am increasingly faced with the realization that one of the major obstacles preventing them from a serious examination of the book is its claim to revelatory status. Most people who grew up in the nurture of the Christian faith have consciously or unconsciously developed a fundamentalist attitude toward the Bible: “This is the word of God and should not be questioned or doubted.” This impression is reinforced in the book’s concluding verses which threaten anyone adding or taking away from the book with plagues and other terrible consequences. (It is not widely known that this kind of threat was once very common, a forerunner of what we now know as copyright.)
+After many years of introducing both Christian laity and ministers to _The Urantia Book,_ I am increasingly faced with the realization that one of the major obstacles preventing them from a serious examination of the book is its claim to revelatory status. Most people who grew up in the nurture of the Christian faith have consciously or unconsciously developed a fundamentalist attitude toward the Bible: “This is the word of God and should not be questioned or doubted.” This impression is reinforced in the book’s concluding verses which threaten anyone adding or taking away from the book with plagues and other terrible consequences. (It is not widely known that this kind of threat was once very common, a forerunner of what we now know as copyright.)
 
 Because of this cultural conditioning, many church members assume that all authentic revelation ceased with the Book of Revelation. We should not be surprised, therefore, if such people automatically recoil from any suggestion of new revelation.
 
@@ -65,7 +65,7 @@ As more and more people in our society understand the openness and non-authorita
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/new-approach-to-revelation
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/new-approach-to-revelation)
 
 <figure class="table chapter-navigator">
   <table>

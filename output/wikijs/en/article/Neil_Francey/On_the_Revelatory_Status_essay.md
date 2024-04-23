@@ -57,7 +57,7 @@ These past circumstances and the current challenges are then projected into a fu
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2023/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-winter-2023/)
 
 <figure class="table chapter-navigator">
   <table>

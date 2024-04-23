@@ -97,7 +97,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Relation of mind to energy and spirit.
 	> “While mind is energy associated in purely material beings and spirit associated in purely spiritual personalities, innumerable orders of personality, including the human, possess minds that are associated with both energy and spirit. The spiritual aspects of creature mind unfailingly respond to the spirit-gravity pull of the Eternal Son; the material features respond to the gravity urge of the material universe.” <a id="s97_421"></a>[UB 9:6.5](/en/The_Urantia_Book/9#p6_5)
 4. The differential functioning of mind.
-	> “The greater the spirit-energy divergence, the greater the observable function of mind; the lesser the diversity of energy and spirit, the lesser the observable function of mind. Apparently, the maximum function of the cosmic mind is in the time universes of space. Here mind seems to function in a mid-zone between energy and spirit, but this is not true of the higher levels of mind; on Paradise, energy and spirit are essentially one.” <a id="s99_442"></a>[UB 9:6.7](/en/The_Urantia_Book/9#p6_7)
+	> “The greater the spirit-energy divergence, the greater the observable function of mind; the lesser the diversity of energy and spirit, the lesser the observable function of mind. Apparently, the maximum function of the cosmic mind is in the time universes of space. Here mind seems to function in a mid-zone between energy and spirit, but this is not true of the higher levels of mind; on Paradise, energy and spirit are essentially one.” <a id="s99_442"></a>[UB 9:6.7](/en/The_Urantia_Book/9#p6_7)
 
 ### V. THE COSMIC MIND
 

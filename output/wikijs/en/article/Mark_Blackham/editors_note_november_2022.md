@@ -38,13 +38,13 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Mark-B-2022-1-e1674520636764-150x150.jpg">
 </figure>
 
-Welcome to the November 2022 edition of the Urantia Association’s _Journal_, a publication dedicated to the thoughts, observations, and experiences of Urantia Book students from around the world. Our contributors explore a wide range of topics, including personal stories of spiritual discovery, finding new meanings and values, and enhancing spiritual perception. Others write about cosmology, science, and ways to improve global civilization. Throughout all these articles, we see an extraordinary diversity of thought coupled with a spirited unity of purpose. 
+Welcome to the November 2022 edition of the Urantia Association’s _Journal_, a publication dedicated to the thoughts, observations, and experiences of Urantia Book students from around the world. Our contributors explore a wide range of topics, including personal stories of spiritual discovery, finding new meanings and values, and enhancing spiritual perception. Others write about cosmology, science, and ways to improve global civilization. Throughout all these articles, we see an extraordinary diversity of thought coupled with a spirited unity of purpose. 
 
 Our first article, **Our Missing Mother God: Monotheism at the Cost of Trinitarianism** by Elisabeth Callahan, is an insightful and novel essay centered on the Mother concept of God. Elisabeth has conducted several classes and forums at the Urantia University Institute on the nature of the local universe Mother Spirit as well the maternal characteristics of the Eternal Son and God the Supreme. In this essay, she makes the case that the continued focus on a male dominated monotheism in world religions detracts from the higher truth inherent in the nature of trinitarianism and, in the process, has devalued the maternal creative function.
 
 She points out that _The Urantia Book,_ although it carries on the tradition of male-centric language, also provides significant detail about the nature and characteristics of the Creative Daughter and her personalized presence as the Holy Spirit, as well as the workings of her many agencies throughout the grand universe.
 
-Elisabeth feels that an emphasis on the Father-Son concept of God tends to overlook the unique characteristics of our Divine Mother and thereby ignores the higher reality of a “Three-Persons-in-One-God,” a concept that embodies a Divine Family of Father, Mother, and Child, all of whom are equal and one with each other. This, she suggests, not only has a social impact on the relative value of men and women in society but also affects the tenor of our culture and institutions as well as our awareness of our environment, even our spiritual environment.
+Elisabeth feels that an emphasis on the Father-Son concept of God tends to overlook the unique characteristics of our Divine Mother and thereby ignores the higher reality of a “Three-Persons-in-One-God,” a concept that embodies a Divine Family of Father, Mother, and Child, all of whom are equal and one with each other. This, she suggests, not only has a social impact on the relative value of men and women in society but also affects the tenor of our culture and institutions as well as our awareness of our environment, even our spiritual environment.
 <br style="clear:both;"/>
 
 > “I think it is fair to suggest that such an imbalance in our understanding of God adversely affects cultural development and the progress of civilization towards light and life insofar as the proper integrated functioning of Love and Law in society is not achieved.”
@@ -57,7 +57,7 @@ Kurt’s candid descriptions of his personal religious experiences should encour
 
 Our third article, **The Psychic Circles and the Morontial Life** by André Desjardins, is a fascinating foray into the meanings of the seven psychic circles of human progression. André suggests that, by reaching these successive circles of attainment, we bring ourselves closer and closer to a true morontia existence in our earthly lives.
 
-A very original feature of André’s essay is that he not only digs out the qualities and characteristics that define the seventh, third, and first circles as defined by _The Urantia Book_ but he also theorizes on the nature of the remaining circles.  
+A very original feature of André’s essay is that he not only digs out the qualities and characteristics that define the seventh, third, and first circles as defined by _The Urantia Book_ but he also theorizes on the nature of the remaining circles.  
 
 In a progression of thought, André also proposes four segments, or groupings, of psychic circles, each defined by a particular stage of evolutionary growth and morontia progression. For all of you who wonder what is required to advance in the circles, this is a must-read.
 

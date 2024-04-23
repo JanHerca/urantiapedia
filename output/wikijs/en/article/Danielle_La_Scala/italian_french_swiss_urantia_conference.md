@@ -40,11 +40,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 We are pleased to announce the second conference in Italy for Italian, Swiss and French-speaking readers of _The Urantia Book_ to be held 7 to 9 October, 2016 in Italy_._
 
-It will be an honor and a pleasure to welcome Spanish, German and English-speaking participants also. We intend this event to be a spiritually uplifting meeting as we come together in a friendly atmosphere to share our common ideals.
+It will be an honor and a pleasure to welcome Spanish, German and English-speaking participants also. We intend this event to be a spiritually uplifting meeting as we come together in a friendly atmosphere to share our common ideals.
 <br style="clear:both;"/>
 
 **7-9 October 2016**
-Theme: _“Survival of the Human Self?”_
+Theme: _“Survival of the Human Self?”_
 
 [Hotel Europa](http://desenzanohoteleuropa.com/), Desenzano del Garda, Italy
 
@@ -58,7 +58,7 @@ Email: [danielle.lascala@yahoo.it](mailto:danielle.lascala@yahoo.it)
 
 The cost of the conference package is 30€. Please note this does not include accommodation or food.
 
-**Read more for details on hotel booking which includes accommodation and all meals.**
+**Read more for details on hotel booking which includes accommodation and all meals.**
 
 **Payment**
 
@@ -71,20 +71,20 @@ https://youtu.be/KdkZjXaoNCg
 **Hotel Europa**
 
 Lungolago Cesare Battisti, 71  
-25015 Desenzano del Garda  – Italy  
-Tel +39 030 914 2333 – F +39 030 914 1006  
+25015 Desenzano del Garda  – Italy  
+Tel +39 030 914 2333 – F +39 030 914 1006  
 [Website hotel](http://desenzanohoteleuropa.com/)  
-Email: [info@desenzanohoteleuropa.com](mailto:info@desenzanohoteleuropa.com)  
-Google Maps: [click here](https://goo.gl/maps/RAL2qbhYnGm)
+Email: [info@desenzanohoteleuropa.com](mailto:info@desenzanohoteleuropa.com)  
+Google Maps: [click here](https://goo.gl/maps/RAL2qbhYnGm)
 
 **Pricing**
 
 The Hotel Europa will have special room rates for the Conference:
 
-40€    per person per night for a double occupancy double room including breakfasts  
-45€    per person per night for a single room or single-occupancy double including breakfast  
-15€   lunch, including beverages and coffee  
-17€   dinner, including beverages and coffee
+40€    per person per night for a double occupancy double room including breakfasts  
+45€    per person per night for a single room or single-occupancy double including breakfast  
+15€   lunch, including beverages and coffee  
+17€   dinner, including beverages and coffee
 
 Please reserve your rooms directly with the hotel.
 
@@ -99,7 +99,7 @@ The special rates are available from Thursday October 6 to Monday October 10, 20
 **Transfer**
 
 The Desenzano’s Rail station is 2 km away from the Hotel Europa.  
-The taxi fare is about 8€. Verona’s Airport is about 30 km away.  
+The taxi fare is about 8€. Verona’s Airport is about 30 km away.  
 Milan-Bergamo’s Airport of Orio al Serio is about 80 km away.  
 Milano Malpensa and Milano Linate Airports are about 100­~120 km away.
 

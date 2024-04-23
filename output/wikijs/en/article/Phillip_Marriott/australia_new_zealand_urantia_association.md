@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Canberra-Conf-2019-scaled.jpg">
 </figure>
 
-The Australia & New Zealand Urantia Association (ANZURA) was first chartered as a National Association in 1994 and was one of the pioneer non-American associations to join the then new Urantia Association International that has always supported and worked closely with Urantia Foundation. (Many of ANZURA’s founding members had been members-at-large of the former Urantia Brotherhood.)  
+The Australia & New Zealand Urantia Association (ANZURA) was first chartered as a National Association in 1994 and was one of the pioneer non-American associations to join the then new Urantia Association International that has always supported and worked closely with Urantia Foundation. (Many of ANZURA’s founding members had been members-at-large of the former Urantia Brotherhood.)  
 
 **Study Groups**  
 

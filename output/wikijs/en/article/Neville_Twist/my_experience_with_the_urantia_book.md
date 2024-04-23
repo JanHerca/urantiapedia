@@ -57,12 +57,12 @@ It’s disappointing that membership numbers have remained pretty much static ov
 
 Over the years, I have attended about 12 regional and international conferences, all in Australia, except for 2 in New Zealand. Through excellent planning and organisation by dedicated and talented individuals, these conferences have always been truly educational, uplifting, motivating, refreshing and inspirational. They are a wonderful opportunity to get to know new readers, reacquaint with old friends, share experiences and to learn from some very wise and clever people. It is also humbling to be able to share in group prayer, meditation and worship, as well as to fraternize with music and skits and laughter. Friendships made that can last a lifetime or maybe much longer.
 
-As an individual, as a believer in _The Urantia Book_ and its teachings, as a believer that the fifth epochal revelation will one day entirely change this world, I believe it is my responsibility to quietly share these truths with others; to whet the appetites of one’s fellows for the truth; try and appeal to their divine fragments. I am never ashamed of _The Urantia Book_. With discretion I will discuss the book with anyone who hungers for truth. Most people who know me also know that I am a student of _The Urantia Book_ and that I am only too willing to share these supernal truths with anyone who will lend an ear.
+As an individual, as a believer in _The Urantia Book_ and its teachings, as a believer that the fifth epochal revelation will one day entirely change this world, I believe it is my responsibility to quietly share these truths with others; to whet the appetites of one’s fellows for the truth; try and appeal to their divine fragments. I am never ashamed of _The Urantia Book_. With discretion I will discuss the book with anyone who hungers for truth. Most people who know me also know that I am a student of _The Urantia Book_ and that I am only too willing to share these supernal truths with anyone who will lend an ear.
 
 What a privilege it is to have discovered _The Urantia Book_ and to have so much confusion, doubt, dogma, theology, tradition and rituals removed. To have a new ‘central point of reference’ in one’s mind; to have hope in this planet, of eternal life and an everlasting universe career. Praise be to the Father and his wonderful creator son, Jesus of Nazareth, son of God and son of man.
 
 Neville Twist  
-Member of Urantia Association’s Study Group Committee  
+Member of Urantia Association’s Study Group Committee  
 Vice President of ANZURA
 <br style="clear:both;"/>
 

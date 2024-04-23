@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Quebec-Conf-milling-around-300x200.jpg">
 </figure>
 
-The international conference that Line and Gaetan Charland, and others organized in Quebec was unforgettable for me for many reasons, but most of all because of the new initiatives of cooperation that our hardworking and dear President Chris Wood announced between Urantia Association and the Fellowship in upcoming conferences.  One for which I have a date is a joint conference planned for June 9-12, 2016, in San Antonio. Other announcements will be shared as appropriate. There’s one in Budapest; and another in Latin America.
+The international conference that Line and Gaetan Charland, and others organized in Quebec was unforgettable for me for many reasons, but most of all because of the new initiatives of cooperation that our hardworking and dear President Chris Wood announced between Urantia Association and the Fellowship in upcoming conferences.  One for which I have a date is a joint conference planned for June 9-12, 2016, in San Antonio. Other announcements will be shared as appropriate. There’s one in Budapest; and another in Latin America.
 
 When I attended the Summer Study Session, I could feel it. People are being drawn together – the unseen friends are moving like nothing I’ve ever witnessed before. Anger is being flushed, friendships are being formed, and love is breaking out. Members of Urantia Foundation are involved, too. I heard a number of reports about people who had not associated across organizational lines who are now doing so.
 

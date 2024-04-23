@@ -87,7 +87,7 @@ Conference Committee
 
 **Talkin' Bout a Revelation**
 
-We invite you to join us at the 2023 ANZURA Annual Conference that will be held **25 to 28 August** at the delightful Peter Canisius House in Pymble on Sydney’s leafy North Shore.
+We invite you to join us at the 2023 ANZURA Annual Conference that will be held **25 to 28 August** at the delightful Peter Canisius House in Pymble on Sydney’s leafy North Shore.
 
 
 **About the Conference Theme**
@@ -133,7 +133,7 @@ _Julian was the main organiser of_ _the 2022 ANZURA Conference in Tasmania_ _and
 
 I would like to begin by saying that I believe this theme, this topic, is the most important one in the entire universe. Perhaps this is an overstatement, but I hope that after reading the article, you will understand where I’m coming from, and maybe even agree with me. I believe it is the reason for the universe itself existing and ultimately, why we exist at all.
 
-_The Urantia Book_ tells us that billions of years ago, our Creator Son, Michael of Nebadon, who later incarnated on our planet as Jesus of Nazareth, was given his ‘patch of turf’ by the Universal Father on which to create his own personal universe. Moreover, he was given the mandate to bring forth millions upon millions of children for the Father, sentient mortal beings of evolutionary origin who would be capable of having a personal, intimate relationship with an indwelling  fragment of the Universal Father….our Thought Adjuster. These evolutionary, animal-origin children made from the dust of the earth would be created according to divine mandate “in the image of God” and would be required to be perfect as the Universal Father is perfect. (<a id="a135_753"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
+_The Urantia Book_ tells us that billions of years ago, our Creator Son, Michael of Nebadon, who later incarnated on our planet as Jesus of Nazareth, was given his ‘patch of turf’ by the Universal Father on which to create his own personal universe. Moreover, he was given the mandate to bring forth millions upon millions of children for the Father, sentient mortal beings of evolutionary origin who would be capable of having a personal, intimate relationship with an indwelling  fragment of the Universal Father….our Thought Adjuster. These evolutionary, animal-origin children made from the dust of the earth would be created according to divine mandate “in the image of God” and would be required to be perfect as the Universal Father is perfect. (<a id="a135_753"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
 
 An extraordinary challenge, to say the least! We are further told that Michael, together with his universe consort, the Divine Minister or Universe Mother Spirit, appointed power directors and energy controllers to build a physical universe consisting of constellations, solar systems, and individual planets. (<a id="a137_311"></a>[UB 32:2.2](/en/The_Urantia_Book/32#p2_2)) Once these planets developed conditions conducive to the formation of life, Life Carriers were dispatched with the task of initiating and overseeing the evolution of living, biological systems. (<a id="a137_549"></a>[UB 58:1.1](/en/The_Urantia_Book/58#p1_1)) In collaboration with the seven adjutant mind spirits, the Life Carriers worked tirelessly to bring about animal-origin creatures having minds that were capable of interacting with absolute deity, the indwelling Father fragment. But before this could happen, these first human creatures were immediately encircuited within the protective and nurturing embrace of the Holy Spirit, the personal spirit of the Divine Minister. Nevertheless, due to the deleterious effects of the Lucifer rebellion and the Adamic default, initially only exceptional humans were indwelt by Thought Adjusters. In general, humans were not capable of experiencing personal and intimate communion with Thought Adusters. (<a id="a137_1287"></a>[UB 108:2.2-3](/en/The_Urantia_Book/108#p2_2))
 
@@ -175,11 +175,11 @@ Neville Twist, Auckland NZ
 
 _(Presented at the 2022 ANZURA Conference in Tasmania)_
 
-Coming through customs the other day, the custom’s officer asked me if I had any criminal convictions? "What, is it still a requirement to enter Australia" I replied? "Trying to be a smart arse, are we?" "No, not at all officer" I replied. "It’s just that I’ll be staying at Port Arthur, and I wanted to make doubly sure." ☺
+Coming through customs the other day, the custom’s officer asked me if I had any criminal convictions? "What, is it still a requirement to enter Australia" I replied? "Trying to be a smart arse, are we?" "No, not at all officer" I replied. "It’s just that I’ll be staying at Port Arthur, and I wanted to make doubly sure." ☺
 
-Apologies for there being no power point presentation, white boards, charts etc. I’m afraid you are just going to have to listen to me ramble on for the next 20 minutes or so – so let’s get on with it.
+Apologies for there being no power point presentation, white boards, charts etc. I’m afraid you are just going to have to listen to me ramble on for the next 20 minutes or so – so let’s get on with it.
 
-Before we get underway, I’d like to start with a tribute to Queen Elizabeth II. QE2 was an amazing woman. To me she was an exemplar of service to her subjects around the world. Something about her that most people overlook is the fact that she was a deeply religious person. She had a deep personal faith in God. She was after all the head of the Church of England and this was a role she took very seriously. Her life was devoted to service and bringing people together. What a privilege it was living under her reign and the consistency, devotion, and loyalty she brought to our lives during 70 years of turbulence, upheaval, and constant change. In a BBC radio presentation recently, they spoke about how she was so impressed with the evangelist Billy Graham when he held crusades in Britain back in the 1960’s & 70’s, that she invited him for an audience at Buckingham palace. Two great people of faith who left an indelible impression on our world for good, and for God himself.  
+Before we get underway, I’d like to start with a tribute to Queen Elizabeth II. QE2 was an amazing woman. To me she was an exemplar of service to her subjects around the world. Something about her that most people overlook is the fact that she was a deeply religious person. She had a deep personal faith in God. She was after all the head of the Church of England and this was a role she took very seriously. Her life was devoted to service and bringing people together. What a privilege it was living under her reign and the consistency, devotion, and loyalty she brought to our lives during 70 years of turbulence, upheaval, and constant change. In a BBC radio presentation recently, they spoke about how she was so impressed with the evangelist Billy Graham when he held crusades in Britain back in the 1960’s & 70’s, that she invited him for an audience at Buckingham palace. Two great people of faith who left an indelible impression on our world for good, and for God himself.  
 
 [Read more](/en/article/Neville_Twist/The_Ultimate_Human_Experience)
 <br style="clear:both;"/>
@@ -196,7 +196,7 @@ Marion Steward, Auckland NZ
 
 The annual celebration of Christmas is here upon us once more, and students of _The Urantia Book_ are possibly asking themselves that perennial question generated by the knowledge that the actual date of the birth of Jesus is August 21<sup>st</sup>, not December 25<sup>th </sup> – ‘what should we do about Christmas?
 
-In New Zealand, Christmas for Christian families/communities continues to be a celebration of the birth of Jesus, but for most of the non-religious people (48.6% of the population as declared at the 2018 census) it is a public holiday with a special emphasis on the family. The way that people celebrate this event for the most part has very little to do with the birth of Jesus – lights, Christmas trees, gifts, decorations around the home and garden, special food at various times of the day, Christmas crackers – but for many people these aspects represent ‘Christmas’. 
+In New Zealand, Christmas for Christian families/communities continues to be a celebration of the birth of Jesus, but for most of the non-religious people (48.6% of the population as declared at the 2018 census) it is a public holiday with a special emphasis on the family. The way that people celebrate this event for the most part has very little to do with the birth of Jesus – lights, Christmas trees, gifts, decorations around the home and garden, special food at various times of the day, Christmas crackers – but for many people these aspects represent ‘Christmas’. 
 
 There have been occasional moves over the years to de-winterfy the celebration here – my daughter learned a song at primary school called “Christmas at the Beach”, but the Northern Hemisphere traditions retain their strong hold on the celebrations here, and so fake snow still abounds in shop windows, along with all the other songs that stem from Christmas observed in the heart of winter.
 
@@ -221,7 +221,7 @@ The ideas expressed here are purely speculative. They have no basis in revelatio
 
 [View article in PDF here (opens in a new tab)](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2022/12/2022-GODS-CD-COLLECTION.pdf)
 
-Also on the ANZURA website under Topical Index/Study Aids you can find an excellent description, with diagrams, for the Master Universe. (Or you can click on this link to go straight to it: [An Artist's Conception of the Master Universe](/en/article/Artist_Conception_of_the_Master_Universe), or the original in [ANZURA website](https://anzura.urantia-association.org/1986/06/30/an-artists-conception-of-the-master-universe/))
+Also on the ANZURA website under Topical Index/Study Aids you can find an excellent description, with diagrams, for the Master Universe. (Or you can click on this link to go straight to it: [An Artist's Conception of the Master Universe](/en/article/Artist_Conception_of_the_Master_Universe), or the original in [ANZURA website](https://anzura.urantia-association.org/1986/06/30/an-artists-conception-of-the-master-universe/))
 
 <br style="clear:both;"/>
 
@@ -264,7 +264,7 @@ To view current and past issues of the _Arena_ [click here](https://anzura.urant
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2022/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-summer-2022/)
 
 <figure class="table chapter-navigator">
   <table>

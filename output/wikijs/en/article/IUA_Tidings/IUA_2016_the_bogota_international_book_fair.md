@@ -46,7 +46,7 @@ The Bogotá Urantia Association has been present at the fair for the last severa
 
 More volunteers are participating in the booth as awareness of _El libro de Urantia_ is growing. This project would not have been possible without the service and support of more than forty people, including direct volunteers at the booth and indirect partners providing support in various other ways. The Bogotá Urantia Association gives the volunteers a big thank-you for their work and service.
 
-We are also thankful to Urantia Foundation for donating 150 hardcover books for the fair. One hundred and two books were sold at our booth, and proceeds were used to help offset costs of the booth.
+We are also thankful to Urantia Foundation for donating 150 hardcover books for the fair. One hundred and two books were sold at our booth, and proceeds were used to help offset costs of the booth.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Bogota-BF-3-300x308.jpg">
@@ -70,7 +70,7 @@ We gained great personal satisfaction from our efforts in several ways: through 
 
 Warm regards,  
 Andres Ramírez, Marlene Tovar Alvarado, and Wilson León  
-Members of the Bogotá Urantia Association
+Members of the Bogotá Urantia Association
 <br style="clear:both;"/>
 
 ## References

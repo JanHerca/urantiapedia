@@ -60,7 +60,7 @@ I talk directly to the audience. No notes. No scaffolding. I tell them, as indiv
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/08/06/existentialism-australia-new-zealand
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/08/06/existentialism-australia-new-zealand)
 
 <figure class="table chapter-navigator">
   <table>

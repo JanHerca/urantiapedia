@@ -82,7 +82,7 @@ To give you an idea of the subjects discussed, following is a list of the titles
 - _The world, society and civilization_
 - _Saving the potential of eternal life_
 - _Spiritual development_
-- _Paradise – the ultimaton core, problems of velocities in_ The Urantia Book
+- _Paradise – the ultimaton core, problems of velocities in_ The Urantia Book
 - _John the Baptist_
 
 All questions were initially addressed to a group of panellists who expressed their own point of view, then followed a general discussion during which everyone had a chance to express their positions on all the issues discussed.
@@ -113,7 +113,7 @@ On the last day after breakfast we held a discussion about future joint projects
 
 A copy of _The Urantia Book_ was signed and donated to the library of the Novahoff Hotel before we all said our goodbyes and departed the conference.
 
-Materials presented at the conference are published in Russian at: [https://drive.google.com/drive/folders/0B\_L9kH3d6qVGTERySGFSYks0Yjg?usp=sharing](https://drive.google.com/drive/folders/0B_L9kH3d6qVGTERySGFSYks0Yjg?usp=sharing)
+Materials presented at the conference are published in Russian at: [https://drive.google.com/drive/folders/0B\_L9kH3d6qVGTERySGFSYks0Yjg?usp=sharing](https://drive.google.com/drive/folders/0B_L9kH3d6qVGTERySGFSYks0Yjg?usp=sharing)
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Moscow22.jpg">

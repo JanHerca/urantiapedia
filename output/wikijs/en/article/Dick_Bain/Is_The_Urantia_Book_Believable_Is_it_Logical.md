@@ -51,7 +51,7 @@ Let's be honest. Some of the ideas in *The Urantia Book* seem rather strange whe
 
 The authors of *The Urantia Book* tell us that belief is more a function of mind than of spirit. When we believe The Urantia Book, we decide to accept its concepts and historical presentations as true. But belief isn't the same as logic. We tend to believe that which we find logical, but not everything we believe is necessarily logical. In fact, beliefs may totally fly in the face of logic. This doesn't necessarily mean they're wrong, but that they aren't amenable to logical analysis. This doesn't mean that we have to abandon logic; it is a powerful tool. Shouldn't logic support our beliefs whenever possible?
 
-Beliefs, like birds, come in many varieties. But not all beliefs can be analyzed with logic. I would categorize beliefs and their relation to logic as follows: 
+Beliefs, like birds, come in many varieties. But not all beliefs can be analyzed with logic. I would categorize beliefs and their relation to logic as follows: 
 
 1. **Irrational beliefs**: If you believe that you have a horn growing out of the middle of your forehead, and you obviously don't, most people would say that belief is irrational and illogical. No amount of logic will convince people that you actually have a horn growing out of your forehead. You probably need some time on a psychiatrist's couch.
 2. **Non-rational beliefs**: If I say, “I have experienced God in my inner life,” this is not a statement that can be analyzed with logic to determine its truthfulness or lack thereof. This is true of most subjective experiences.

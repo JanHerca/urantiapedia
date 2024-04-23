@@ -38,13 +38,13 @@ The Representative Council of the Association held elections in January of this 
 - _Membership Chair:_ Luis Garcia-Bory (replaced Anton Miroshnichenko)  
 - _Conference Chair:_ Antonio Schefer (re-elected)  
 - _Education Chair:_ Jeannie Vasquez (replaced Sheila Keene-Lund)  
-- _Translation Chair:_  Gabriel Rymberg (replaced Chris Moseley) 
+- _Translation Chair:_  Gabriel Rymberg (replaced Chris Moseley) 
 
 The newly elected ISB members assume their new position on April 1, 2017.
 
-In addition to the ISB elections, Travis Binion was re-elected as Chief Judicial Commissioner.  On December 18, 2016 the RC confirmed Joyce Anderson as the third Judicial Commissioner to fill a vacancy, joining Travis and Benet Rutenberg.
+In addition to the ISB elections, Travis Binion was re-elected as Chief Judicial Commissioner.  On December 18, 2016 the RC confirmed Joyce Anderson as the third Judicial Commissioner to fill a vacancy, joining Travis and Benet Rutenberg.
 
-The Association proudly welcomes Luis Garcia- Bory from Mexico living in Switzerland, Jeannie Vasquez from Uruguay, and Gabriel Rymberg who lives in Israel to the ISB and we thank them for their willingness to serve and their untiring loyalty in their work for the Association.
+The Association proudly welcomes Luis Garcia- Bory from Mexico living in Switzerland, Jeannie Vasquez from Uruguay, and Gabriel Rymberg who lives in Israel to the ISB and we thank them for their willingness to serve and their untiring loyalty in their work for the Association.
 
 Our heart-felt gratitude and best wishes go to our outgoing members: Anton Miroshnichenko from the Ukraine, Sheila Keene-Lund from the USA and Chris Moseley from the UK, who have volunteered untold hours of their time to serve on the board for the last 4 to 8 years.
 

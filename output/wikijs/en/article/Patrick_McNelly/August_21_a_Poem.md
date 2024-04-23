@@ -87,7 +87,7 @@ The Brotherhood of every man
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-spring-2020/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-spring-2020/)
 
 <figure class="table chapter-navigator">
   <table>

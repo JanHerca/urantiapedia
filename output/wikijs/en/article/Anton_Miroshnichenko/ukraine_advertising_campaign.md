@@ -53,13 +53,13 @@ Our total expense, including the delivery of books to the shops, was approximate
 You can view photos of our campaign at this link: [http://bit.ly/tub-adv-ukr](http://bit.ly/tub-adv-ukr)
 
 
-Number of Urantia Books sold through the BUKVA stores network for the last six months:
+Number of Urantia Books sold through the BUKVA stores network for the last six months:
 
 November<br>2015 | December<br>2015 | January<br>2015 | February<br>2016 | March<br>2016<br>(with adcampaign in stores andsubway) | April<br>2016 <br>(ad only in subway)
 ---: | ---: | ---: | ---: | ---: | ---:
 2 | 5 | 6 | 6 | 14 | 10
 
-The entire amount of Urantia Books sold in Ukraine from 2014 till now directly to readers and through the BUKVA stores network is 273 books.
+The entire amount of Urantia Books sold in Ukraine from 2014 till now directly to readers and through the BUKVA stores network is 273 books.
 
 On behalf of members of Urantia Association of Ukraine I want to thank all donors of Urantia Association who made this project possible. We plan to repeat such advertisement campaign in the future.
 

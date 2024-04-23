@@ -103,9 +103,9 @@ Dylan Roberts, ACT
 <img src="/image/article/The_Arena/DylanCanb19-246x300.jpg" alt="Dylan Roberts">
 </figure>
 
-At the 2019 Canberra Urantia Conference, I facilitated a workshop titled _Spirit in Society – Overcoming Resistance_, where the intention was to look at some common atheistic objections (in the form of questions),  and see what we could come up with in terms of what _The Urantia Book_ teaches on these problems and what we could potentially say when facing such objections.
+At the 2019 Canberra Urantia Conference, I facilitated a workshop titled _Spirit in Society – Overcoming Resistance_, where the intention was to look at some common atheistic objections (in the form of questions),  and see what we could come up with in terms of what _The Urantia Book_ teaches on these problems and what we could potentially say when facing such objections.
 
-The attendees were divided into three groups, and each group attempted to answer one of the common objections, given 30 minutes to do so. Afterwards, the group leaders were given an opportunity to report back to everybody.  I’ll now attempt to summarize the group answers produced during the workshop:
+The attendees were divided into three groups, and each group attempted to answer one of the common objections, given 30 minutes to do so. Afterwards, the group leaders were given an opportunity to report back to everybody.  I’ll now attempt to summarize the group answers produced during the workshop:
 
 [Read more](/en/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance)
 <br style="clear:both;"/>
@@ -120,7 +120,7 @@ Nigel Nunn, VIC
 
 > _Faith most willingly carries_ **_reason_** _along as far as reason can go and then goes on with_ **_wisdom_** _to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH._ <a id="a120_261"></a>[[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)]
 
-“Reason” has helped scientists to write some compelling tales about the history of the universe:  inflationary Big Bangs, colliding branes, a multiverse. Problem is, each of these histories involve assumptions that lie beyond our capacity to disprove. These stories do however all share one feature: an attempt to replace faith with facts in their assumptions.
+“Reason” has helped scientists to write some compelling tales about the history of the universe:  inflationary Big Bangs, colliding branes, a multiverse. Problem is, each of these histories involve assumptions that lie beyond our capacity to disprove. These stories do however all share one feature: an attempt to replace faith with facts in their assumptions.
 
 [Read more](/en/article/Nigel_Nunn/Other_and_Higher_Frames)
 
@@ -133,7 +133,7 @@ Susan Hemmingsen, New Zealand
 <img src="/image/article/The_Arena/Covid-19-1-570x193.jpg" alt="Covid-19">
 </figure>
 
-This being the topic of the moment, I decided to put together some Urantia Book quotes to see what was said, about health, disease, what happened in the past, how this reflects on what is happening today, and what can be expected in the future.  I have put them into four different categories:
+This being the topic of the moment, I decided to put together some Urantia Book quotes to see what was said, about health, disease, what happened in the past, how this reflects on what is happening today, and what can be expected in the future.  I have put them into four different categories:
 
 
 - The celestial help available now
@@ -188,7 +188,7 @@ Ari Majurinen, NSW
 
 **Mining the Archives**
 
-_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from the Arena Newsletter, Volume 1 No 5, December 1994.**_ _It is a presentation by Ari Majurinen from the Elanora Conference in Sydney, 1993)_ 
+_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from the Arena Newsletter, Volume 1 No 5, December 1994.**_ _It is a presentation by Ari Majurinen from the Elanora Conference in Sydney, 1993)_ 
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Ari-Majurinen-cropped-300x276.jpg" alt="Ari Majurinen">
@@ -300,7 +300,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-autumn-2020/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-autumn-2020/)
 
 <figure class="table chapter-navigator">
   <table>

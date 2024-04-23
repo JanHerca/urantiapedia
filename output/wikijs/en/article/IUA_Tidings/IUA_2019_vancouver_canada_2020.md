@@ -65,7 +65,7 @@ Focus Group participants will start their discussions by concentrating on the tw
 
 Vision teams will be composed of presenters, panelists, project leaders, authors, artists, and inspirational speakers who will engage in creating cooperative service project goals for the revelation as well as learning and contributing to existing or emerging projects in the future service of civilization.
 
-The aim is to engage with the insights gained from our morning discussions outlining our visions for service, teaching, and for living the revelatory truths on both personal and collective levels by finding supportive ways to cooperate with existing service organizations.
+The aim is to engage with the insights gained from our morning discussions outlining our visions for service, teaching, and for living the revelatory truths on both personal and collective levels by finding supportive ways to cooperate with existing service organizations.
 
 Both Focus Groups and Vision Teams will present and share their collective insights and conclusions at the end of the experience. These ideas will form the basis for ongoing centers of dialogue in which all participants can engage. We hope to inspire everyone to continue to evolve these ideas with the intention of making them a reality on the world stage.
 

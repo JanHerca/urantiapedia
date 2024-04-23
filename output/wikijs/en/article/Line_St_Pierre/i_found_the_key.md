@@ -52,7 +52,7 @@ In February 2020, I completed The Master’s Ministry course at The School of Am
 
 I learned to bridge the gap between what the person already believes and what _The Urantia Book_ teaches by building on what already exists and embellishing it with greater depths from the revelation. I have also learned to uplift conversations with people who are not spiritually knowledgeable. Jesus never took anything away from what his listener said, he always added to what was true.
 
-This school is dedicated exclusively to the development of leaders and teachers of the Gospel of Jesus who use _The Urantia Book_ as a reference guide and who do so in a wonderful way. 
+This school is dedicated exclusively to the development of leaders and teachers of the Gospel of Jesus who use _The Urantia Book_ as a reference guide and who do so in a wonderful way. 
 
 The privilege of having found _The Urantia Book_ makes us eternally indebted to our Thought Adjusters and the Spirit of Truth so we must also work to prepare others to carry on the work of Jesus beyond our generation to bring more light to this planet.
 

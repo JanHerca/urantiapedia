@@ -50,7 +50,7 @@ The Board of Trustees of URANTIA Foundation
 
 ---
 
-## COPYRIGHT APPEALS RESULTS
+## COPYRIGHT APPEALS RESULTS
 
 June 11, 1997
 

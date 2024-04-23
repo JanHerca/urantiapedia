@@ -77,7 +77,7 @@ While we may not reach conclusions, we hope to establish that _The Urantia Book_
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/conference-2004-echoes-eden
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/conference-2004-echoes-eden)
 
 <figure class="table chapter-navigator">
   <table>

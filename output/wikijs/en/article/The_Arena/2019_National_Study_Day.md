@@ -40,7 +40,7 @@ By ANZURA Board
 <img src="/image/article/The_Arena/Study-Day-Group-lighter-300x169.jpg" alt="Study Day Group">
 </figure>
 
-This year’s National Study Day, where you can participate in a study group in your local area and read the same paper on the same day as other readers, will be held on **Saturday 1 June, 2019.**  We’ll be studying **Paper** **9: _Relation of the Infinite Spirit to the Universe._**
+This year’s National Study Day, where you can participate in a study group in your local area and read the same paper on the same day as other readers, will be held on **Saturday 1 June, 2019.**  We’ll be studying **Paper** **9: _Relation of the Infinite Spirit to the Universe._**
 
 <br style="clear:both;"/>
 
@@ -60,7 +60,7 @@ For more information on virtual study groups contact ANZURA by either calling us
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/03/25/2019-national-study-day
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/03/25/2019-national-study-day)
 
 <figure class="table chapter-navigator">
   <table>

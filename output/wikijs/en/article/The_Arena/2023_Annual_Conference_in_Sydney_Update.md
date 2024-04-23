@@ -48,7 +48,7 @@ If you’re planning on coming, please get your registrations in as soon as poss
 
 **Theme: Talkin’ Bout a Revelation**
 
-How are we talking about the concepts of _The Urantia Book_ with non-readers and new readers? How can we discuss such universal truths that everyone needs to know without alienating them? How can we convince increasingly secular, sceptical and materially focused people that the spiritual world is just as real? How can we help to transform stagnant traditional religious practice into courageous living and dynamic spiritual growth?
+How are we talking about the concepts of _The Urantia Book_ with non-readers and new readers? How can we discuss such universal truths that everyone needs to know without alienating them? How can we convince increasingly secular, sceptical and materially focused people that the spiritual world is just as real? How can we help to transform stagnant traditional religious practice into courageous living and dynamic spiritual growth?
 
 We have in our hands an updated version of revelations presented to our ancestors that over time have become unclear and unappealing to many in our modern world. It is a very big book that requires years of invested time and effort for most of us to even glimpse an understanding. But when we do understand, we realise that we know what the world needs most to hear to help meet present day challenges and improve the lives of everyone on this planet. How can we, seasoned readers, best demonstrate and discuss what we have learned in ways that attract others to the book and its teachings, and that doesn’t do harm to our message? How can we better identify fertile ground: those who may be seeking and receptive to the seeds of truth we have to offer them? What might be their objections and criticisms and how should we best overcome them?
 
@@ -57,12 +57,12 @@ At this year’s ANZURA conference we hope to tap into and share that huge reser
 _“Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it.”_ (176:3.10, 1918.3)
 
 
-_The act is ours, the consequences God’s._ (48:7.13, 556.13)
+_The act is ours, the consequences God’s._ (48:7.13, 556.13)
 
 **Cost**:
 
-**Full Conference: $500 – includes 3 nights of twin-share accommodation and all meals from Friday dinner to Monday breakfast.
-Daily Rate: $100 –** includes lunch and dinner.**Daily Rate: $50 –** includes lunch only.
+**Full Conference: $500 – includes 3 nights of twin-share accommodation and all meals from Friday dinner to Monday breakfast.
+Daily Rate: $100 –** includes lunch and dinner.**Daily Rate: $50 –** includes lunch only.
 
 For more detailed information [click here](https://anzura.urantia-association.org/2023/01/06/2023-annual-conference-sydney/)
 
@@ -75,7 +75,7 @@ Or [click here](mailto:anzura.urantia@gmail.com) to email us or give us a call o
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/06/25/2023-annual-conference-in-sydney-update
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/06/25/2023-annual-conference-in-sydney-update)
 
 <figure class="table chapter-navigator">
   <table>

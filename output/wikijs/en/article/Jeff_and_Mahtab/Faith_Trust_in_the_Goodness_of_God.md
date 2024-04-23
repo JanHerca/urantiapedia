@@ -43,12 +43,12 @@ By Jeff and Mahtab, USA
 _(This is a dialogue between Jeff and Mathab that was presented via Zoom at the 2022 ANZURA Conference in Tasmania.)_
 
 **Jeff:** Hi, Mahtab, good to see you. What have you been up to lately?
-**Mahtab**: Oh, the religion of personal experience.
-**Jeff:** Cool! Could you tell me about it a little?
-**Mahtab**: Sure—after you answer the same question. What have you been doing?
+**Mahtab**: Oh, the religion of personal experience.
+**Jeff:** Cool! Could you tell me about it a little?
+**Mahtab**: Sure—after you answer the same question. What have you been doing?
 **Jeff:** Same thing, what do you know! The religion of personal experience. I like the conference title and the phrase, “intimacy with God.” For me, the religion of personal experience involves times when I’m wrestling with the intimate details of my personal growth struggles. But I’m also writing about this religion of the spirit as we find it in Jesus and his gospel.
-**Mahtab:** Tell me more.
-**Jeff:** Sure—but—would you be willing to start?
+**Mahtab:** Tell me more.
+**Jeff:** Sure—but—would you be willing to start?
 <br style="clear:both;"/>
 
 ## Mathab’s discourse
@@ -67,7 +67,7 @@ This experience has been of great value for me personally—in large measure bec
 
 ## Jeff’s discourse
 
- Mahtab, thank you for your open, courageous, and helpful sharing. And also, for that beautiful and insightful concluding reflection on Jesus’ personal religious experience as the basis of his gospel.
+ Mahtab, thank you for your open, courageous, and helpful sharing. And also, for that beautiful and insightful concluding reflection on Jesus’ personal religious experience as the basis of his gospel.
 
 Two months ago, when Mahtab sent me the first draft of her presentation, I was struck by what she emphasized: faith-trust in the goodness of God. I immediately sensed that this was important for _me_. I had never worked with this teaching. And I recognized that I had some deficiency in this area, so it was the perfect topic for _me_, too.
 
@@ -85,7 +85,7 @@ Living faith is also active. Faith, given by God, comes with unsuspected power. 
 
 Here’s one of the coolest things that faith can do. I quote:
 
-> _The cry of the righteous is the faith act of the child of God which opens the door of the Father’s storehouse of goodness, truth, and mercy, and these good gifts have long been in waiting for the son’s approach and personal appropriation._ (Paper <a id="a87_250"></a>[UB 146:2.8](/en/The_Urantia_Book/146#p2_8))
+> _The cry of the righteous is the faith act of the child of God which opens the door of the Father’s storehouse of goodness, truth, and mercy, and these good gifts have long been in waiting for the son’s approach and personal appropriation._ (Paper <a id="a87_250"></a>[UB 146:2.8](/en/The_Urantia_Book/146#p2_8))
 
 The Father’s storehouse of goodness is within you. It’s like the cook who has prepared the meal for the guests and calls out, “Come and get it.” Appropriation means making the gift truly your own.
 When your faith goes into action and you trust in the goodness of God, you _expect_ good things to happen. Expectancy makes a big difference. Recall the Bethsaida hospital, where Jesus visited those who were sick. It was noted that:
@@ -104,7 +104,7 @@ God’s free-willness is the Father’s tendency to love, show mercy, manifest p
 
 And it’s not only God’s tendency. It’s the _universal_ tendency. This means that God’s goodness is at the bottom of the same tendency in you.
 
-So as you love, show mercy, manifest patience, and minister forgiveness—you can _know_ that at the bottom of it rests the goodness of God. 
+So as you love, show mercy, manifest patience, and minister forgiveness—you can _know_ that at the bottom of it rests the goodness of God. 
 
 Next, here are some tips about how to enhance your experience of faith-trust in the goodness of God. After this discourse, we’re going to take five minutes to try it out.
 
@@ -122,7 +122,7 @@ OK. That’s it. Next, we have a five-minute period of silence for you to allow 
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/06/25/__trashed-2
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/06/25/__trashed-2)
 
 <figure class="table chapter-navigator">
   <table>

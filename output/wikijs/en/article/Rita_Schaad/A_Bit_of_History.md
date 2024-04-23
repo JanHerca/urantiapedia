@@ -131,7 +131,7 @@ Just another little snipped in honor of our present NZ conference organizers. Co
 
 “A recent letter from Mark McEwan in Auckland tells of their latest news. It is of particular interest for fellow readers in Australia, and we’d like to present relevant details for your enjoyment:
 
-“The scene in New Zealand, as far as readers of _The Urantia Book_ goes, is still in the early stages with a hard core of about seven or eight (it varies), based in Wellington, and two readers in Auckland.  The study group in Wellington has been functioning for over two years now and has had its share of conflicts, but if not continuing formally, it certainly continues informally.
+“The scene in New Zealand, as far as readers of _The Urantia Book_ goes, is still in the early stages with a hard core of about seven or eight (it varies), based in Wellington, and two readers in Auckland.  The study group in Wellington has been functioning for over two years now and has had its share of conflicts, but if not continuing formally, it certainly continues informally.
 
 “One recent undertaking which is becoming a very successful enterprise is the development of the New Zealand Jazz Foundation. Colin Hemmingsen, one of our readers, was elected president, and his wife Susan is putting in many hours of unpaid work to function as secretary and behind-the-scenes organiser. Other readers are involved with this Foundation in various ways, but the important thing is that this organization has ‘clout’, and can open our education system to aspiring creative musicians. The Hemmingsen’s also ran a ‘Creative Music School’ for some years and were responsible for the introduction of the National Jazz Clinics to New Zealand, which entailed some twenty odd faculties from the U.S.A. visiting and passing on their approach and philosophies.
 
@@ -170,7 +170,7 @@ Rita Schaad, Newcastle NSW
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/a-bit-of-history
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/02/10/a-bit-of-history)
 
 <figure class="table chapter-navigator">
   <table>

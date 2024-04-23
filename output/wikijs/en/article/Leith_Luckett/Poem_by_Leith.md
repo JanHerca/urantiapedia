@@ -71,7 +71,7 @@ To grasp, enjoy and embrace all my ties
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/05/02/poem-leith
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/05/02/poem-leith)
 
 <figure class="table chapter-navigator">
   <table>

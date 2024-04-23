@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-### Symmetry of Soul Progresses into its Fifth Year
+### Symmetry of Soul Progresses into its Fifth Year
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/James-Woodward-150x150.jpg">

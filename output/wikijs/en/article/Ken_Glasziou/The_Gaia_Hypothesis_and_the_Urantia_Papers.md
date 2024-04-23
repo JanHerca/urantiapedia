@@ -40,11 +40,11 @@ From his research, Lovelock reasoned that there was really no need to go to a pl
 
 The atmosphere of a planet like Earth with an oxygen content of approximately twenty percent, is in a highly improbable state that could not be sustained by normal geological and physical processes. Lovelock decided that there must be some extraordinary process involved for any planet that sustains an atmosphere far from its thermodynamic equilibrium. Hence any such eventuality should be an indicator for life on a planet. Since the atmospheres of both Mars and Venus were very close to their equilibrium value, Lovelock concluded they must be lifeless.
 
-From this original limited speculation, the Gaia hypothesis has been expanded by many to include not only the Earth, but also galaxies and even the whole universe to the state of being  vibrant, self-regulating, self-sustaining living organisms.
+From this original limited speculation, the Gaia hypothesis has been expanded by many to include not only the Earth, but also galaxies and even the whole universe to the state of being  vibrant, self-regulating, self-sustaining living organisms.
 
 This extremism has brought disrepute upon the Gaia hypothesis which nevertheless has much to commend it--provided we stick with science and recognize these untestable speculations for what they are.
 
-The incredibly complex role of life in the self-regulation of non-equilibrium states for our atmosphere in respect to oxygen, carbon dioxide, moisture, temperature, light absorption and  reflectance, etc., is well documented even though not completely understood. The effects of life extend far beyond the atmosphere, and even without the unwise undertakings of human beings, living organisms often have large and drastic effects upon the “normal” physical processes on land, ocean and air.
+The incredibly complex role of life in the self-regulation of non-equilibrium states for our atmosphere in respect to oxygen, carbon dioxide, moisture, temperature, light absorption and  reflectance, etc., is well documented even though not completely understood. The effects of life extend far beyond the atmosphere, and even without the unwise undertakings of human beings, living organisms often have large and drastic effects upon the “normal” physical processes on land, ocean and air.
 
 An interesting situation has been unveiled over the last two or three decades with respect to the self-regulation of galaxies, particularly spiral galaxies like the Milky Way. [^2]
 
@@ -52,7 +52,7 @@ One entirely unexpected discovery was that the inner and outer stars of these ga
 
 When this was discovered, it was reasonably simple to calculate that the mass of a galaxy was quite inadequate to hold it together through gravitation. One conclusion--to date the solitary one conceivable--is that we “see” only a small portion of the galaxy, about 80% or more of its mass being invisible to us. This invisible mass has the name “dark matter.[^3]”
 
-A further surprise, still not well known outside of astronomy circles, is that the spirals arms that we see in photographs of these galaxies actually rotate independently of the galaxy and its stars. Hence they are better thought of as “waves of motion” through the galaxy that cause some stars to become much more visible as the “wave”  passes through their region.
+A further surprise, still not well known outside of astronomy circles, is that the spirals arms that we see in photographs of these galaxies actually rotate independently of the galaxy and its stars. Hence they are better thought of as “waves of motion” through the galaxy that cause some stars to become much more visible as the “wave”  passes through their region.
 
 As further information came to light, it began to be appreciated that a spiral galaxy is a highly stable, self-regulating system that sustains itself in a state far from thermodynamic equilibrium. Its spiral arms are also recognized as the main location where new stars are being born.
 
@@ -62,7 +62,7 @@ From what we can read in the Urantia Papers, the truth may be somewhere in betwe
 
 Relevant quotations from the Papers follow:
 
-> “...the universe is neither mechanical nor magical; it is a creation of mind and a  mechanism of law. But while in practical application the laws of nature operate in what seems to be the dual realms of the physical and the spiritual, in reality they are one.”  (<a id="a64_265"></a>[UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
+> “...the universe is neither mechanical nor magical; it is a creation of mind and a  mechanism of law. But while in practical application the laws of nature operate in what seems to be the dual realms of the physical and the spiritual, in reality they are one.”  (<a id="a64_265"></a>[UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
 
 > “Extremely complex and highly automatic-appearing cosmic mechanisms always tend to conceal the presence of the originative or creative indwelling mind from any and all intelligences very far below the universe levels of the nature and capacity of the mechanism itself. Therefore is it inevitable that the higher universe mechanisms must appear to be mindless to the lower orders of creatures. The only possible exception to such a conclusion would be the implication of mindedness in **the amazing phenomenon of an apparently self-maintaining universe**—but that is a matter of philosophy rather than one of actual experience.” (<a id="a66_631"></a>[UB 42:11.6](/en/The_Urantia_Book/42#p11_6))
 

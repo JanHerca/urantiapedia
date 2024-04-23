@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/XVI-Spanish-Meeting-Group-photo-300x225.jpg">
 </figure>
 
-The 16th meeting for Spanish Urantia Book readers was held from April 28<sup>th</sup> to May 1<sup>st </sup> in the Hotel Tryp in Guadalajara (near the capital, Madrid.) In attendance were almost 50 people hailing from the north, east, and south of Spain. Antonio Schefer’s presence was appreciated as he again came The Netherlands to represent Urantia Association International.
+The 16th meeting for Spanish Urantia Book readers was held from April 28<sup>th</sup> to May 1<sup>st </sup> in the Hotel Tryp in Guadalajara (near the capital, Madrid.) In attendance were almost 50 people hailing from the north, east, and south of Spain. Antonio Schefer’s presence was appreciated as he again came The Netherlands to represent Urantia Association International.
 
 The theme of this meeting was “God in Man,” which is the title of section 6 in Paper 108 (_Mission and Ministry of Thought Adjuster_). The main subject of discussion were the Thought Adjusters: what they are, what they do for us, and what we will become together. On this occasion, our goal was to coordinate the presentations so they could approach different aspects of the Thought Adjusters and our relationship to them.
 
@@ -62,7 +62,7 @@ For the first time, the presentations were broadcast and recorded in Zoom so the
 <img src="/image/article/IUA_Tidings/XVI-Spanish-Meeting-Zoom-300x225.jpg">
 </figure>
 
-Sunday afternoon was the time for workshops. There were five different workshops with five different facilitators. This time, the mechanics were a little different: each assistant was assigned to a workshop randomly, so groups were as heterogeneous as possible. Each workshop addressed a topic related to the Thought Adjusters:
+Sunday afternoon was the time for workshops. There were five different workshops with five different facilitators. This time, the mechanics were a little different: each assistant was assigned to a workshop randomly, so groups were as heterogeneous as possible. Each workshop addressed a topic related to the Thought Adjusters:
 
 - The Nature of Thought Adjusters
 - The Psychic Circles

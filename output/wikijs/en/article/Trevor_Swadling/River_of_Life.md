@@ -69,7 +69,7 @@ Says the high and holy one
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/river-of-life
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/12/16/river-of-life)
 
 <figure class="table chapter-navigator">
   <table>

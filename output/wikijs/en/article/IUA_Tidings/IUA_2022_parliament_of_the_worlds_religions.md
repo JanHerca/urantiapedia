@@ -43,7 +43,7 @@ In August 2023, the Parliament of the World’s Religions returns to Chicago, th
 
 It’s Mission: “The Parliament of the World’s Religions was created to cultivate harmony among the world’s religious and spiritual communities and foster their engagement with the world and its guiding institutions in order to achieve a just, peaceful and sustainable world.”
 
-Attendees of the Parliament conventions bring unique wisdom and world views from their religious traditions and lives, their scholarship, artistic talents, and activism. At the 2023 Parliament of the World’s Religions, attendees from around the world are _answering a call to conscience._
+Attendees of the Parliament conventions bring unique wisdom and world views from their religious traditions and lives, their scholarship, artistic talents, and activism. At the 2023 Parliament of the World’s Religions, attendees from around the world are _answering a call to conscience._
 
 Once again Urantia Association International, the Urantia Book Fellowship, and Urantia Foundation will collaborate to ensure _The Urantia Book_ is displayed at this event. Let’s make sure the teachings of _The Urantia Book_ are well represented and presented at this event. If you would like to volunteer, please contact the Association’s representatives on the planning committee at: [nathenjansen@urantia-association.org](mailto:nathenjansen@urantia-association.org).
 

@@ -74,7 +74,7 @@ What does it mean to you to be a son or daughter of God? _The Urantia Book’_s 
 
 _by Jeffrey Wattles (Ohio, USA)_
 
-God is spirit, but the Creator works on material and intellectual levels, too. Cosmic citizens establish spiritual goals as their top priority, and _The Urantia Book_ teaches many ways to coordinate, integrate, and unify these levels. This talk will touch on the concepts of cosmic mind (16:6), cosmic truth (2:7), using an example that will help listeners understand how to apply and work effectively as a cosmic citizen with the down-to-earth facts of daily life.
+God is spirit, but the Creator works on material and intellectual levels, too. Cosmic citizens establish spiritual goals as their top priority, and _The Urantia Book_ teaches many ways to coordinate, integrate, and unify these levels. This talk will touch on the concepts of cosmic mind (16:6), cosmic truth (2:7), using an example that will help listeners understand how to apply and work effectively as a cosmic citizen with the down-to-earth facts of daily life.
 
 **1.3. How Does Humankind Evolve from Primitive Origins to a Glorious Planetary Destiny?**  
 
@@ -92,7 +92,7 @@ See at the end of the Program information on how to view the workshop descriptio
 
 _by Panelists: Anibal Pacheco (Chile), Olga Lopez (Spain), Raul Pujol (Cuba), and Víctor García-Bory (Mexico)_ 
 
-An interactive panel will discuss a 10-year long journey of challenges, service, teamwork, and friendship, as well as the results achieved.   
+An interactive panel will discuss a 10-year long journey of challenges, service, teamwork, and friendship, as well as the results achieved.   
 
 **2.1. What Are Some Principles of Holistic Personal Growth for Cosmic Citizenship?**  
 
@@ -120,7 +120,7 @@ Passing of the torch to the President of the National Association that will be h
 
 During the registration process you will find the list of workshops and you will be guided how to choose your workshop for each day.
 
-Note that the last 2 hours of each day will be devoted to Workshops. Throughout the conference there will also be some breaks, cultural activities, ways to get to know Cusco, Peru (a virtual tour), and the possibility to interact with others.
+Note that the last 2 hours of each day will be devoted to Workshops. Throughout the conference there will also be some breaks, cultural activities, ways to get to know Cusco, Peru (a virtual tour), and the possibility to interact with others.
 
 [Click here](https://urantia-association.org/wp-content/uploads/2021/04/UAI-2021-Workshops-March20-2.pdf) to view PDF of Workshops
 

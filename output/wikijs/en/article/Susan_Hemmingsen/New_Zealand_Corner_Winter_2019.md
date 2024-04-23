@@ -57,7 +57,7 @@ Some years ago, the original Auckland Study group learnt the Morontia Motas by h
 
 and particularly:
 
-> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ <a id="a59_137"></a>[[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
+> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ <a id="a59_137"></a>[[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
 
 Sadly, before the attack, the general view was that all Muslims were terrorists, and this community suffered by being shunned, discriminated against, and generally being totally misunderstood, and just as there are many aspects of Islam which need updating the same can be said for Christianity.
 
@@ -106,7 +106,7 @@ Read more about [Arena - Winter 2019](https://anzura.urantia-association.org/cat
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/new-zealand-corner-winter-2019
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/new-zealand-corner-winter-2019)
 
 
 

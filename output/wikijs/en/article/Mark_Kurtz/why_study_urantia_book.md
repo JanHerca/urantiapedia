@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Lessons-Image-300x213.jpg">
 </figure>
 
-The key word is **WHY?**  May we address its profundity? Here are some thoughts:
+The key word is **WHY?**  May we address its profundity? Here are some thoughts:
 
 Because we seek clarity of our life purposes in harmony with divine plans.
 

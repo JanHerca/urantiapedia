@@ -50,7 +50,7 @@ There is a Urantia candle that we lit as a symbol of the alliance between the Du
 <img src="/image/article/IUA_Tidings/IMG_1330.jpg">
 </figure>
 
-Leading up to the Urantia Association International Conference in Amsterdam in 2018 with the theme: “Jesus as a Teacher,”  the main theme for this year was chosen to be: “Michael of Nebadon: Son of God and Son of the People.” Johan Vandewalle took care of the first presentation with the theme: “The status of Michael for his final bestowal,” while Karen Huigsloot presented the second reading relating to the final bestowal, Jesus himself, his dual purpose, and his bestowal orders and restrictions.
+Leading up to the Urantia Association International Conference in Amsterdam in 2018 with the theme: “Jesus as a Teacher,”  the main theme for this year was chosen to be: “Michael of Nebadon: Son of God and Son of the People.” Johan Vandewalle took care of the first presentation with the theme: “The status of Michael for his final bestowal,” while Karen Huigsloot presented the second reading relating to the final bestowal, Jesus himself, his dual purpose, and his bestowal orders and restrictions.
 
 The third presentation was innovative in design. Ria Sprenger and Ina Terra held a dialogue, led by Frank van Rooij with the theme: “The current position of Michael of Nebadon and the value of his bestowal on this planet and the local universe.”
 

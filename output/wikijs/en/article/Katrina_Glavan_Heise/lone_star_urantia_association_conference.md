@@ -50,7 +50,7 @@ A presentation on _Social Architecture_ by Kaye Cooper.
 <img src="/image/article/IUA_Tidings/2015-Lone-Star-Conf-150x150.jpg">
 </figure>
 
-_Send Them A What?_ A skit written by Suzanne Kelly about a group of Seraphim discussing the possibility of sending Urantian mortals “a book”. These angels and “the 24” were excited about the possibilities and lots of people wanted to get in on the act including Andon and Fonta.
+_Send Them A What?_ A skit written by Suzanne Kelly about a group of Seraphim discussing the possibility of sending Urantian mortals “a book”. These angels and “the 24” were excited about the possibilities and lots of people wanted to get in on the act including Andon and Fonta.
 
 David Glass presented a powerful and moving video he helped to create that showed a beautiful overview of the Local Universe.
 

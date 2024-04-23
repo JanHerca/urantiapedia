@@ -50,7 +50,7 @@ Selections from Parts I, II, III, and IV will be available by the end of Decembe
 
 **Uncover** the dynamic process of evolutionary, experiential life in the Grand Universe: the divinely coordinated material, mindal, and spiritual outworking of the plan of the Paradise Deities whereby the Universal Father engages in the synthesis of power and personality.
 
-**Deepen** your understanding of the profound meaning of the life and teachings of Jesus which perfectly demonstrated the way of living wholly in faith-trust in God and doing the will of the Universal Father.  
+**Deepen** your understanding of the profound meaning of the life and teachings of Jesus which perfectly demonstrated the way of living wholly in faith-trust in God and doing the will of the Universal Father.  
 
 UUI’s [Self-Directed Study](https://urantiauniversity.org/sys/website/?pageId=1804236) provides an opportunity for new and advanced students of _The Urantia Book_ to begin to master the content of individual papers, explore resources, apply knowledge, and actively engage with the meanings and values of the revelation. Here’s a quick tour of what the courses look like.
 

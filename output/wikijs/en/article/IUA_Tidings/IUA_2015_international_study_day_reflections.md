@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-On 16<sup>th</sup> of May study groups met for the annual International Study Day. This year we read Papers 160 and 161 – _Rodan of Alexandria_ and _Further Discussions with Rodan._ Following are some reflections from several of the groups that met.
+On 16<sup>th</sup> of May study groups met for the annual International Study Day. This year we read Papers 160 and 161 – _Rodan of Alexandria_ and _Further Discussions with Rodan._ Following are some reflections from several of the groups that met.
 
 ## Canberra Visits Sydney
 
@@ -46,9 +46,9 @@ The plan was for the Canberra Study Group to visit the Sydney group for a joint 
 
 The study was of papers 160 and 161—the discussions with Rodan.
 
-The usual questions about Rodan’s  identity were raised with no-one being any the wiser, and the presentation of his philosophy drew the admiration of most of us, bearing in mind that Rodan had constructed it from his own interpretation of prevailing Greek thought following only some preliminary conversations with Jesus.
+The usual questions about Rodan’s  identity were raised with no-one being any the wiser, and the presentation of his philosophy drew the admiration of most of us, bearing in mind that Rodan had constructed it from his own interpretation of prevailing Greek thought following only some preliminary conversations with Jesus.
 
-It is sometimes not entirely clear whether the Midwayers are quoting Rodan more or less directly, or whether they are adapting his philosophy to more modern interpretation, but whatever the case, a very creditable result is presented, one which is substantially in keeping with Jesus’ teachings.  And following Nathaniel’s astute reasoning to convince Rodan of God’s personal nature there seems little to suggest that Rodan’s position differed much from what Jesus was teaching the apostles.
+It is sometimes not entirely clear whether the Midwayers are quoting Rodan more or less directly, or whether they are adapting his philosophy to more modern interpretation, but whatever the case, a very creditable result is presented, one which is substantially in keeping with Jesus’ teachings.  And following Nathaniel’s astute reasoning to convince Rodan of God’s personal nature there seems little to suggest that Rodan’s position differed much from what Jesus was teaching the apostles.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Sydney-SD-Beach-300x225.jpg">
@@ -77,7 +77,7 @@ Carlos Rubinsky
 <img src="/image/article/IUA_Tidings/Tassie-Study-Group-300x225.jpg">
 </figure>
 
-Warm greetings to all my fellow students of _The Urantia Book_ scattered around Australia and indeed around this amazing planet called Urantia. Over the past few months, our little study group here in Tasmania has more than doubled in size….we now have six regular attendees at our fortnightly meetings with several others coming along intermittently.  It was a real joy to come together on the Study Day weekend knowing that we were part of a worldwide movement of truth-seeking people desirous of learning more about this remarkable Greek philosopher named Rodan, “one of the greatest of his race.”
+Warm greetings to all my fellow students of _The Urantia Book_ scattered around Australia and indeed around this amazing planet called Urantia. Over the past few months, our little study group here in Tasmania has more than doubled in size….we now have six regular attendees at our fortnightly meetings with several others coming along intermittently.  It was a real joy to come together on the Study Day weekend knowing that we were part of a worldwide movement of truth-seeking people desirous of learning more about this remarkable Greek philosopher named Rodan, “one of the greatest of his race.”
 
 The Revelators were clearly impressed with this man’s understanding of truth, beauty, and goodness; they devoted a whole paper to his philosophy of life! There was so much to talk about but here are some of the precious ‘gems’ that we discovered:
 <br style="clear:both;"/>

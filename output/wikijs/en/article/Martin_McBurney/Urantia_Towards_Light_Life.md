@@ -40,7 +40,7 @@ By Martin McBurney, VIC
 <img src="/image/article/The_Arena/Mining-the-Archives.jpg" alt="Mining Archives">
 </figure>
 
-_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology.)_
+_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology.)_
 
 _From the Six-O-Six Newsletter , Sept-Oct 1988_
 <br style="clear:both" />
@@ -56,7 +56,7 @@ There is the story of the Australian fisherman who worked out an easy way to cat
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/05/05/urantia-towards-light-life
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/05/05/urantia-towards-light-life)
 
 <figure class="table chapter-navigator">
   <table>

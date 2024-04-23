@@ -66,7 +66,7 @@ Conference website: [https://urantiaforum.modoo.at/](https://urantiaforum.modoo.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/06/25/korean-readers-conference
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/06/25/korean-readers-conference)
 
 <figure class="table chapter-navigator">
   <table>

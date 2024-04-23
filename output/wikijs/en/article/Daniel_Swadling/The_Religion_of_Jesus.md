@@ -158,13 +158,13 @@ And finally,
 During one of the Master’s appearances after his death to the Jerusalem group of followers, he said:
 
 > _“And now you should give ear to my words lest you again make the mistake of hearing my teaching with the mind while in your hearts you fail to comprehend the meaning. From the beginning of my sojourn as one of you, I taught you that my one purpose was to reveal my Father in heaven to his children on earth. I have lived the God-revealing bestowal that you might experience the God-knowing career. I have revealed God as your Father in heaven; I have revealed you as the sons of God on earth. It is a fact that God loves you, his sons. By faith in my word this fact becomes an eternal and living truth in your hearts. When, by living faith, you become divinely God-conscious, you are then born of the spirit as children of light and life, even the eternal life wherewith you shall ascend the universe of universes and attain the experience of finding God the Father on Paradise._
-
-> _“That which the world needs most to know is: **Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth**. My bestowal should help all men to know that they are the children of God, but such knowledge will not suffice if they fail **personally** to faith-grasp the saving truth that they are the **living spirit sons** of the eternal Father.”_ <a id="a161_403"></a>[UB 193:0.3](/en/The_Urantia_Book/193#p0_3)
+> 
+> _“That which the world needs most to know is: **Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth**. My bestowal should help all men to know that they are the children of God, but such knowledge will not suffice if they fail **personally** to faith-grasp the saving truth that they are the **living spirit sons** of the eternal Father.”_ <a id="a161_403"></a>[UB 193:0.3-4](/en/The_Urantia_Book/193#p0_3)
 
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/the-religion-of-jesus
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/01/06/the-religion-of-jesus)
 
 <figure class="table chapter-navigator">
   <table>

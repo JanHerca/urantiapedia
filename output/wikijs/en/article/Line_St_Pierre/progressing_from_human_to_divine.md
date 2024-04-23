@@ -31,7 +31,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-## Progressing from Human to Divine: Revealing Ourselves to God
+## Progressing from Human to Divine: Revealing Ourselves to God
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Line-St-Pierre-Photo.jpg">
@@ -41,7 +41,7 @@ July 30–August 2, 2015
 Bishop University, Lennoxville,  
 Quebec, Canada
 
-The Urantia Association of Quebec under the umbrella of Urantia Association of Canada will be hosting this event on behalf of Urantia Association International. It will take place at the beautiful site of Bishop’s University in Lennoxville, province of Quebec, Canada, from July 30th to August 2nd. 
+The Urantia Association of Quebec under the umbrella of Urantia Association of Canada will be hosting this event on behalf of Urantia Association International. It will take place at the beautiful site of Bishop’s University in Lennoxville, province of Quebec, Canada, from July 30th to August 2nd. 
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Bishops-University-Qucebec-Conference-150x150.jpg">
@@ -53,7 +53,7 @@ The Heavenly Father has a mission for each of us. He welcomes us into the great 
 
 How do we carry out this major project, this grand and eternal adventure, this beautiful partnership between the human and the divine? By agreeing to become perfect as our heavenly Father is perfect. Growth and progress are the watchwords of the universe. By agreeing to grow, to progress from the human to the divine, we will be able to bring into fruition what God has placed in our hands. What are the winning conditions, the tools, and healthy lifestyles that allow for better growth?
 
-Plan your 2015 vacation. Information on accommodation and registration is available now at [http://urantia-association.org/2014/11/01/2015-urantia-association-international-conference/](http://urantia-association.org/2014/11/01/2015-urantia-association-international-conference/). We encourage parents and grandparents to bring their children and share this experience. Children under the age of thirteen years old are free and we will have a special program for them. More information to come in the next issue of Tidings.
+Plan your 2015 vacation. Information on accommodation and registration is available now at [http://urantia-association.org/2014/11/01/2015-urantia-association-international-conference/](http://urantia-association.org/2014/11/01/2015-urantia-association-international-conference/). We encourage parents and grandparents to bring their children and share this experience. Children under the age of thirteen years old are free and we will have a special program for them. More information to come in the next issue of Tidings.
 
 ## References
 

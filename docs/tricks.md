@@ -320,10 +320,10 @@ Comunidad|Fellowship
 confraternidad|Fellowship
 la beca|la Fellowship
 beca|Fellowship
-**Beca**|Fellowshi
+**Beca**|Fellowship
 fundación|Fundación
  El [L|l]ibro de Urantia([ |\.|,|;|:|\?|!])| _El Libro de Urantia_$1
-^El [L|l]ibro de Urantia([ |\.|,|;|:|\?|!])| _El Libro de Urantia_$1
+^El [L|l]ibro de Urantia([ |\.|,|;|:|\?|!])|_El Libro de Urantia_$1
 Porcelana|China
 síndico|fideicomisario
 Síndico|fideicomisario

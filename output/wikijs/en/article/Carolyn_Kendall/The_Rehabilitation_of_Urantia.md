@@ -75,7 +75,7 @@ Dispensations (Epochs) | Average duration in years | Urantia
 6\. Post-Teacher Son Man | 1,000 or more | &nbsp;
 7\. Era of Light and Life | &nbsp; | &nbsp;
 
-\*  There was no dispensational adjudication at the time of Melchizedek.
+\*  There was no dispensational adjudication at the time of Melchizedek.
 
 ## The Melchizedeks’ Role in Rehabilitation 
 

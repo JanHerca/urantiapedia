@@ -48,7 +48,7 @@ Anybody who examined the detailed evidence accumulated over the years that follo
 
 The body blow to believers came when, in 1989, samples of cloth from the shroud were examined by three independent carbon-14 dating laboratories who jointly declared the cloth to date at about 1350 AD--along with an announcement by one of the scientists involved that the odds against them being wrong were a thousand trillion to one.
 
- Naturally there followed a spate of books denouncing the shroud as an artist's fake. But there were also counter arguments that were just as adamant that there was no possibility of this shroud image being faked in the manner described or by the particular technique proposed.
+ Naturally there followed a spate of books denouncing the shroud as an artist's fake. But there were also counter arguments that were just as adamant that there was no possibility of this shroud image being faked in the manner described or by the particular technique proposed.
 
 One of the most vociferous of those crying fake claimed the image was a simple iron oxide painting using techniques that were well known in the middle ages. For anyone acquainted with the detail of the image, the proposal appears too simplistic. It also fails to account for figures from spectral analysis showing there is not enough iron in the image areas to account for the intensity of the color.
 
@@ -60,7 +60,7 @@ For example, in 1984 samples of a well preserved body from a peat bog in Cheshir
 
 In 1989 a test was devised by Britain's Science and Engineering Council for inter-comparison of 38 carbon-dating laboratories, all given material from the same sample. Results were considered satisfactory for only seven of these. Among those faring badly were laboratories that used the then new accelerator mass spectrometer methodology as employed for dating of the Turin shroud.
 
-Perhaps the strongest grounds for criticism of the carbon dating of the shroud came from an investigator who had prior experience with Mayan carvings that were initially considered to be fakes. This was because of the presence of a hard, varnish-like coating. However, the coating  actually turned out to be a natural, biologically-derived coat caused by the activities of bacteria and fungi.
+Perhaps the strongest grounds for criticism of the carbon dating of the shroud came from an investigator who had prior experience with Mayan carvings that were initially considered to be fakes. This was because of the presence of a hard, varnish-like coating. However, the coating  actually turned out to be a natural, biologically-derived coat caused by the activities of bacteria and fungi.
 
 This investigator, Dr Garza-Valdes, later had the opportunity to examine under the microscope, small pieces of the shroud material that had been cut out for the carbon dating work. He immediately recognized the apparent presence of similar biologically derived contamination on the shroud fibers. Given this information, the carbon-dating people stated how they had cleaned the samples with acid and alkali but further tests using their technique demonstrated the contamination remained.
 
@@ -68,7 +68,7 @@ Garza-Valdes then arranged for further examination of the blood stains including
 
 The catch with this work is that it was not officially authorized and is not recognized by the Vatican on the grounds that they are not in a position to guarantee that the samples were genuine.
 
- However, the Garza-Valdes work appears to have gained peer group acceptance, and most probably consists in authentic findings. Opinion appears to be that the carbon dating work must now be re-done.
+ However, the Garza-Valdes work appears to have gained peer group acceptance, and most probably consists in authentic findings. Opinion appears to be that the carbon dating work must now be re-done.
 
 Whatever the results of new tests, problems will remain. Several scientists from nuclear establishments have pointed out that the biblical version of the resurrection claims the physical body of Jesus simply disappeared. Thus, those who accept that this was a supernatural event are quite right to claim that carbon dating cannot give conclusive proof. For example, there is a distinct possibility of conversion of carbon 13 to carbon 14 via neutron bombardment reactions that could feasibly have occurred during a supernatural dissolution of a material body.
 
@@ -78,7 +78,7 @@ As the two went to retrieve it, they took with them a large quantity of myrrh an
 
 At Golgotha, they wrapped the body of Jesus in one of the large linen sheets. The disciple John and the Roman centurion then helped them carry the body. Limp bodies are notoriously difficult to carry and they also had the embalming ointments so the fact that four men were involved tends to support the use of a stretcher-like carrying device.
 
-Once at the tomb, Joseph and Nicodemus wrapped the body in cloths saturated with the embalming ointments, after which they wrapped it in a linen sheet and placed it reverently on a shelf. The account reads as if this was a second linen sheet but it may not have been. If there were two sheets, the one used in carrying the body to the tomb would be the only one that could have the markings that are on the Turin shroud--the marks from scourging, etc. This is because  the second sheet was wrapped over the top of the embalming cloths soaked in myrrh and aloes, hence would not directly contact the body.
+Once at the tomb, Joseph and Nicodemus wrapped the body in cloths saturated with the embalming ointments, after which they wrapped it in a linen sheet and placed it reverently on a shelf. The account reads as if this was a second linen sheet but it may not have been. If there were two sheets, the one used in carrying the body to the tomb would be the only one that could have the markings that are on the Turin shroud--the marks from scourging, etc. This is because  the second sheet was wrapped over the top of the embalming cloths soaked in myrrh and aloes, hence would not directly contact the body.
 
 If there were two sheets, possibly the first sheet would have been taken back to his home by Joseph of Arimathea, along with the stretcher and vessels used for the embalming fluids. If so, Joseph and his family were its initial custodians. The Urantia Papers inform us that permission to dispose of the body of Jesus was granted to superhuman beings present at the tomb site:
 

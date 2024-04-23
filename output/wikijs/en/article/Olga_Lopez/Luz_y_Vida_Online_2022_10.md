@@ -117,7 +117,7 @@ In this article, the author deals with the Last Supper (which is precisely menti
 
 In this presentation, the author reviews what for her are the desirable characteristics in leaders who drink from the teachings of _The Urantia Book_, which have little to do with the concept of leader that we have seen so far in history. religions and humanity in general. It also includes examples of true leaders who appear in the book in each of the earlier epochal revelations, and finally lists the characteristics that make the book's community of readers different from the communities that have been created out of evolutionary religions.
 <br style="clear:both" />
- 
+ 
 ## History and teachings – Chronicle of the life of Jesus
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">

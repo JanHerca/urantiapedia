@@ -50,7 +50,7 @@ To make the total experience more complete after the 2nd European Conference we 
 
 ## Visa-Free Cruise to St. Petersburg
 
-Visit the former capital of Russia, the city of Czars. St. Petersburg is one of the most breathtakingly beautiful places on earth and virtually any building in the large historic centre, threaded with canals dotted with baroque bridges, can be considered an attraction and indeed, it is a UNESCO World Heritage site. This is a magical city, with a long list of major attractions. Its Hermitage Museum, housed in the Winter Palace of the Romanov Dynasty, is both one of the world’s greatest and oldest collections of art, treasure, and antiquities, and one of its most beautiful buildings.
+Visit the former capital of Russia, the city of Czars. St. Petersburg is one of the most breathtakingly beautiful places on earth and virtually any building in the large historic centre, threaded with canals dotted with baroque bridges, can be considered an attraction and indeed, it is a UNESCO World Heritage site. This is a magical city, with a long list of major attractions. Its Hermitage Museum, housed in the Winter Palace of the Romanov Dynasty, is both one of the world’s greatest and oldest collections of art, treasure, and antiquities, and one of its most beautiful buildings.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Picture1-706x236.jpg">
@@ -98,9 +98,9 @@ Prices include transfer from Tallinn to Helsinki and all passenger fees!
 <img src="/image/article/IUA_Tidings/Price-list-2019-Post-Conference.jpg">
 </figure>
 
-Visit St.Petersburg                    [http://www.visit-petersburg.ru/en/](http://www.visit-petersburg.ru/en/)  
-MobySpl                                     [https://stpeterline.com/](https://stpeterline.com/)  
-Tallink                                         [https://www.tallinksilja.com/book-a-cruise](https://www.tallinksilja.com/book-a-cruise)
+Visit St.Petersburg                    [http://www.visit-petersburg.ru/en/](http://www.visit-petersburg.ru/en/)  
+MobySpl                                     [https://stpeterline.com/](https://stpeterline.com/)  
+Tallink                                         [https://www.tallinksilja.com/book-a-cruise](https://www.tallinksilja.com/book-a-cruise)
 
 ## How to Register
 
@@ -116,7 +116,7 @@ To register your post-conference cruise package with accommodation, meals and ot
 
 - Class B2V for two, bunk beds, € 67,50 pp
 - Class B2 for two, twin beds, € 80,00 pp
-- Class A2  for two, twin beds with a seaview, € 103,5
+- Class A2  for two, twin beds with a seaview, € 103,5
 
 If you want to have the cabin by yourself, you have to pay double the price.
 
@@ -155,7 +155,7 @@ We try to handle the payments by the bank account of the Finnish Urantia Associa
 
 ## Need More Help?
 
-If you need more information, don’t hesitate to contact us by sending an e-mail to [risto.mantynen@gmail.com](mailto:risto.mantynen@gmail.com) or by phone +358 50 390 3040.
+If you need more information, don’t hesitate to contact us by sending an e-mail to [risto.mantynen@gmail.com](mailto:risto.mantynen@gmail.com) or by phone +358 50 390 3040.
 
 Hope to see you at our post-conference!
 

@@ -38,19 +38,19 @@ dateCreated: 2023-11-04T14:02:03.086Z
 <img src="/image/article/The_Arena/PCH-21-adj-570x259.jpg">
 </figure>
 
-For those planning on coming to this year’s Sydney conference being held **1 – 4 October** at the Peter Canisius House in Pymble, this is a reminder to send us your registration.
+For those planning on coming to this year’s Sydney conference being held **1 – 4 October** at the Peter Canisius House in Pymble, this is a reminder to send us your registration.
 
 Although we’ve all no doubt been affected by the July Covid-19 lockdowns, we’re still anticipating that the conference will go ahead as an in-person event in October. As it’s still a couple of months away and the vaccines continue to roll out, it’s still possible that things will be under control by then. And if we do go ahead, we’ve been assured by the staff at the venue (who continued to operate last year during the initial outbreak) that they will take all the necessary precautions to minimise the chances of spreading the virus. Of course, if we do need to cancel, we will fully reimburse those who have already paid their registrations.
 
-## About the Program: The Goodness of Love – The Keystone to Reality
+## About the Program: The Goodness of Love – The Keystone to Reality
 
 The universe we live in is a wonderful and mysterious place and our minds are innately equipped to embark on an alluring adventure of discovery. This mind can be likened to a living instrument. Each of us are the creative personal players and composers of it. We each have the potential and responsibility within us to contribute to the creation of finite reality as we are all incredibly unique and can be of tremendous value to one another. Collectively we can—over time—make a truly good and beautiful finite world for our children and our children’s children.
 
-But what is a keystone? When building an archway, a keystone is the wedge-shaped stone at the summit of the arch. It is the final stone placed during construction and locks all the other stones into position, allowing the arch to bear the weight. It is something on which associated things depend, hence the term “the keystone of one’s philosophy.”
+But what is a keystone? When building an archway, a keystone is the wedge-shaped stone at the summit of the arch. It is the final stone placed during construction and locks all the other stones into position, allowing the arch to bear the weight. It is something on which associated things depend, hence the term “the keystone of one’s philosophy.”
 
 The folks on the conference planning team have endeavoured to produce a program that goes deep into subjects near and dear to our hearts, while allowing plenty of time for discussion. Our goal is to find and unpack the elements—or qualities—needed to make up our keystone to reality.
 
-> **_Truth is coherent, beauty attractive, goodness stabilizing_**_. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ <a id="a52_241"></a>[[UB 2:7.12](/en/The_Urantia_Book/2#p7_12) emphasis added]
+> **_Truth is coherent, beauty attractive, goodness stabilizing_**_. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ <a id="a52_241"></a>[[UB 2:7.12](/en/The_Urantia_Book/2#p7_12) emphasis added]
 
 As a preview, here is a list the presentations and presenters:
 
@@ -77,7 +77,7 @@ Phone: 0431 285 943
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/sydney-conference-reminder-2021
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/07/29/sydney-conference-reminder-2021)
 
 <figure class="table chapter-navigator">
   <table>

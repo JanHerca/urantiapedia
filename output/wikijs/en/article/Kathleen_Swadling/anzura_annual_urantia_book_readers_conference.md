@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/ANZURA-Group-2015-300x215.jpg">
 </figure>
 
-This year’s Australia & New Zealand Urantia Association (ANZURA) conference was held 9 to 12 October at the Sydney Academy of Sport & Recreation on the shores of the beautiful Narrabeen Lagoon on the Northern Beaches of Sydney. The members of the Sydney Study Group hosted the conference and apart from the Sydney readers, other attendees travelled from Brisbane, Canberra, Finland, Hobart, Melbourne, Newcastle, New Zealand, NSW Central Coast, Queensland’s Gold Coast, and Wollongong. A special thanks went to our visitors who travelled all the way from Finland, Irmeli Sjolie and Matti Hokka.
+This year’s Australia & New Zealand Urantia Association (ANZURA) conference was held 9 to 12 October at the Sydney Academy of Sport & Recreation on the shores of the beautiful Narrabeen Lagoon on the Northern Beaches of Sydney. The members of the Sydney Study Group hosted the conference and apart from the Sydney readers, other attendees travelled from Brisbane, Canberra, Finland, Hobart, Melbourne, Newcastle, New Zealand, NSW Central Coast, Queensland’s Gold Coast, and Wollongong. A special thanks went to our visitors who travelled all the way from Finland, Irmeli Sjolie and Matti Hokka.
 
 Given that the members of the Sydney Study Group are keen to hone their skills in presenting topics from _The Urantia Book_, the conference planning committee decided to allocate short presentation time slots to allow for a diversity of presentations. Not only did this approach give the presenters a unique opportunity to delve into an in depth study of their topic and to exercise their presentation abilities, it also kept the conference attendees engaged and interested and left them with much food for thought.
 
@@ -75,7 +75,7 @@ As well as the presentations there were several other engaging events:
 <img src="/image/article/IUA_Tidings/Anzura-AGM-300x225.jpg">
 </figure>
 
-Then of course we can never hold a conference without making time for ANZURA’s Annual General Meeting.  The usual business matters were discussed and elections for Vice President and Treasurer were held.  Neville Twist was elected as Vice President and Trevor Swadling as Treasurer.  William Wentworth continues as President and Phillip Marriott as Secretary. Ian Campbell replaced Marion Steward as the New Zealand Representative. Julian McGarry from Hobart volunteered the crew in Tasmania to host next year’s conference. Stay tuned for more details on that one.
+Then of course we can never hold a conference without making time for ANZURA’s Annual General Meeting.  The usual business matters were discussed and elections for Vice President and Treasurer were held.  Neville Twist was elected as Vice President and Trevor Swadling as Treasurer.  William Wentworth continues as President and Phillip Marriott as Secretary. Ian Campbell replaced Marion Steward as the New Zealand Representative. Julian McGarry from Hobart volunteered the crew in Tasmania to host next year’s conference. Stay tuned for more details on that one.
 <br style="clear:both;"/>
 
 ## References

@@ -48,11 +48,11 @@ The venue has changed since our first announcement. Instead of holding the confe
 
 ## Theme: Walking the ROPE – An Invitation to Intimacy with God
 
-The ‘ROPE’ in the theme title is an acronym for the **R**eligion **O**f **P**ersonal **E**xperience so the full meaning of the theme title translates to ‘Walking the Religion of Personal Experience – An Invitation to Intimacy with God’. We hope that this will be a truly enriching spiritual experience for all who attend, either in person or via Zoom. We will be talking about the _ultimate human experience_.
+The ‘ROPE’ in the theme title is an acronym for the **R**eligion **O**f **P**ersonal **E**xperience so the full meaning of the theme title translates to ‘Walking the Religion of Personal Experience – An Invitation to Intimacy with God’. We hope that this will be a truly enriching spiritual experience for all who attend, either in person or via Zoom. We will be talking about the _ultimate human experience_.
 
-_The Urantia Book_ is replete with awe-inspiring quotes reminding us that personal, intimate fellowship with God is within reach of us all!
+_The Urantia Book_ is replete with awe-inspiring quotes reminding us that personal, intimate fellowship with God is within reach of us all!
 
-> _It is high time that man had a religious experience so personal and so sublime that it could be realized and expressed only by “feelings that lie too deep for words.”_ <a id="a54_171"></a>[UB 99:5.9](/en/The_Urantia_Book/99#p5_9)
+> _It is high time that man had a religious experience so personal and so sublime that it could be realized and expressed only by “feelings that lie too deep for words.”_ <a id="a54_171"></a>[UB 99:5.9](/en/The_Urantia_Book/99#p5_9)
 
 ## Venue
 
@@ -129,7 +129,7 @@ Email: [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/2022-anzura-annual-conference
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/2022-anzura-annual-conference)
 
 <figure class="table chapter-navigator">
   <table>

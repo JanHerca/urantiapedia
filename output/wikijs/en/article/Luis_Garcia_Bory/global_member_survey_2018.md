@@ -37,14 +37,14 @@ Following is a sample of the questions that will be part of the survey, which wi
 
 - _What made you choose to be a member of Urantia Association International?_ 
 - _What drives you to be part of the Association? Do you feel part of our international family?_ 
-- _Are we serving you well at the international level? What can we do to help you more?_
+- _Are we serving you well at the international level? What can we do to help you more?_
 - _What can leaders in your country and city do to serve you and meet your expectations better?_
 - _How can we engage more effectively with younger readers and truth-seeking friends in your community?_
 - _Would you be interested in participating more actively in our outreach programs or international activities and projects?_ 
 
 The survey will give us a unique opportunity to start a conversation with you and use your valuable opinions, ideas and suggestions to keep our focus on our most important objective: to constantly improve the way we serve you.
 
-Your responses to this survey will be anonymous and collected centrally by the Membership Committee of the Association. Feedback to our leaders and volunteers will be provided on a no-name basis and all the information you give us will be used to improve how we communicate with and support our independent and institutional members in every continent.
+Your responses to this survey will be anonymous and collected centrally by the Membership Committee of the Association. Feedback to our leaders and volunteers will be provided on a no-name basis and all the information you give us will be used to improve how we communicate with and support our independent and institutional members in every continent.
 
 If you have any questions or suggestions about other aspects that the survey should include, please send them to Luis Garcia-Bory, Membership Chair [members@urantia-association.org](mailto:members@urantia-association.org) by 31<sup>st</sup> December.
 

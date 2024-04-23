@@ -65,7 +65,7 @@ This quotation reveals the difficulty of specifying the progressive levels in pe
 
 > The seventh circle. This level is entered when human beings develop the powers of personal choice, individual decision, moral responsibility, and the capacity for the attainment of spiritual individuality. <a id="a65_208"></a>[[UB 110:6.13](/en/The_Urantia_Book/110#p6_13)]
 
-Four powers stand out in this seventh circle:  It is actually the first for the personality and is the beginning of personal progression through the higher circles; it initiates the phenomenon of personal evolution within the psychic circles accompanied by a Thought Adjuster. _“Entrance upon the seventh circle marks the beginning of true human personality function”_ <a id="a67_369"></a>[[UB 110:6.1](/en/The_Urantia_Book/110#p6_1)].
+Four powers stand out in this seventh circle:  It is actually the first for the personality and is the beginning of personal progression through the higher circles; it initiates the phenomenon of personal evolution within the psychic circles accompanied by a Thought Adjuster. _“Entrance upon the seventh circle marks the beginning of true human personality function”_ <a id="a67_369"></a>[[UB 110:6.1](/en/The_Urantia_Book/110#p6_1)].
 
 The seventh circle is not very well defined in relation to the others but concerns exclusively the status of the human personality; it forms a set of four elements (or powers) as stated before and is considered to be the first group of four circles that demonstrate the advancement and evolution of the personality within the psychic circles. These are:
 

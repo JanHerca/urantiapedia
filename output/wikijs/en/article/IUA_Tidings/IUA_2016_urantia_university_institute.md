@@ -40,11 +40,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Actualizing personal potentials of mind, matter and spirit through enlightened study, service and experience._
 
-Urantia University is a global center of study and service dedicated to training teachers and farseeing leaders and fostering a spiritual community with cosmic ideals based on truths in _The Urantia B_ook.
+Urantia University is a global center of study and service dedicated to training teachers and farseeing leaders and fostering a spiritual community with cosmic ideals based on truths in _The Urantia B_ook.
 
-Part of a long-range plan to develop a university grounded in cosmic wisdom, ideals and aspiration, Urantia University Institute (UUI) was set up to provide diverse learning paths for students in an online educational environment in which to explore, discern, and actualize the truths and knowledge found in _The Urantia Book_.
+Part of a long-range plan to develop a university grounded in cosmic wisdom, ideals and aspiration, Urantia University Institute (UUI) was set up to provide diverse learning paths for students in an online educational environment in which to explore, discern, and actualize the truths and knowledge found in _The Urantia Book_.
 
-It offers an exciting and innovative series of online classes which not only  introduce newer readers (and any student) to some of the most important concepts, truths and themes found in _The Urantia Book_, but also provide intensive studies of selected topics in the book.
+It offers an exciting and innovative series of online classes which not only  introduce newer readers (and any student) to some of the most important concepts, truths and themes found in _The Urantia Book_, but also provide intensive studies of selected topics in the book.
 
 The classes do not require attendance at any fixed times. The UUI virtual classroom is open 24/7 so students may visit anytime to engage in their classwork. Most classes may be taken in one of two ways:
 

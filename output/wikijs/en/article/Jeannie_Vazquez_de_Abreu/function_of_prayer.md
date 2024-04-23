@@ -183,11 +183,11 @@ _Self-forgetting—superthinking:_ If we forget ourselves when we are focusing o
 
 We make effective use of thought processes when we seek, study, analyze, comprehend, share, and live the truth, and when we pray sincerely. We discount all processes of thinking when we elevate ourselves to the superconscious level in the inner worshipful silence, transcending thinking with love and devotion to the Father. Let us remember that it is the soul who worships God with the consent of the mind. Worship is a superconscious activity.
 
-> _Effortless attention focused on God’s presence, which indwells our superconsciousness.  Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion._ <a id="a185_189"></a>[[UB 143:7.7](/en/The_Urantia_Book/143#p7_7)]
+> _Effortless attention focused on God’s presence, which indwells our superconsciousness.  Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion._ <a id="a185_189"></a>[[UB 143:7.7](/en/The_Urantia_Book/143#p7_7)]
 
 _To step aside from the rush of life_—to escape the harassments of material existence—while [believers] refresh the soul, inspire the mind, and renew the spirit by worshipful communion. All this is done by God; this is the function of silent spiritual receptiveness.
 
-> _Restfulness, relaxation (physical and mental stillness). The strain of living—the time tension of personality—should be relaxed by the restfulness of worship. _ <a id="a189_164"></a>[[UB 143:7.3](/en/The_Urantia_Book/143#p7_3)]
+> _Restfulness, relaxation (physical and mental stillness). The strain of living—the time tension of personality—should be relaxed by the restfulness of worship. _ <a id="a189_164"></a>[[UB 143:7.3](/en/The_Urantia_Book/143#p7_3)]
 > 
 > _… Relaxation determines the capacity for spiritual receptivity._ <a id="a191_68"></a>[[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)]
 

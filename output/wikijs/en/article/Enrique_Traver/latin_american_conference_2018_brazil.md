@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Logo-2nd-Latin-American-Urantia-Conference-small-300x319.jpg">
 </figure>
 
-We are rapidly approaching the time when the 2<sup>nd</sup> Latin American regional conference will be held in São Paulo, Brazil on November 1—4, 2018. The theme for the conference will be “_Living the Teachings_” and will take place at the Monaco Hotel, in the city of Guarulhos (one of the towns of São Paulo) and which is very close to the São Paulo International Airport (Guarulhos).
+We are rapidly approaching the time when the 2<sup>nd</sup> Latin American regional conference will be held in São Paulo, Brazil on November 1—4, 2018. The theme for the conference will be “_Living the Teachings_” and will take place at the Monaco Hotel, in the city of Guarulhos (one of the towns of São Paulo) and which is very close to the São Paulo International Airport (Guarulhos).
 
 This will be a unique opportunity to share experiences and knowledge, discover new friends and strengthen relationships, and learn from each other different ways of seeing the teachings of _The Urantia Book_ from the varying perspectives of our different cultures.
 
@@ -52,7 +52,7 @@ The event will be held in three languages with simultaneous translations into Po
 
 The Monaco Hotel offers double rooms, complete with all the comfortable facilities. You can choose to have an exclusive apartment (individual price, USD $70.00 per day) or share with friends or family (event package price.)
 
-The package negotiated by the conference organizers includes all meals (breakfast, lunch and dinner) for R $184.00 per day, per person, which based on the current dollar exchange rate (3.70 R \$ / 1USD) is approximately USD $50.00 per day, or a total of USD $150.00 for the three-day event. There is an additional registration fee of R $111.00 (USD $30.00) per person. So the total cost for the conference is approximately USD $180.00.
+The package negotiated by the conference organizers includes all meals (breakfast, lunch and dinner) for R $184.00 per day, per person, which based on the current dollar exchange rate (3.70 R \$ / 1USD) is approximately USD $50.00 per day, or a total of USD $150.00 for the three-day event. There is an additional registration fee of R $111.00 (USD $30.00) per person. So the total cost for the conference is approximately USD $180.00.
 
 Although the cost is reasonable, if you still have economic difficulties restricting you from attending, you may apply for a sponsorship that could cover the partial or total fee. Send your request to [contato@urantia.com.br](mailto:contato@urantia.com.br).
 

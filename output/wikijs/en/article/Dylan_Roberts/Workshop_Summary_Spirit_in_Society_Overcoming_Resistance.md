@@ -40,9 +40,9 @@ By Dylan Roberts, ACT
 <img src="/image/article/The_Arena/DylanCanb19-246x300.jpg" alt="Dylan Roberts">
 </figure>
 
-At the 2019 Canberra Urantia Conference, I facilitated a workshop titled _Spirit in Society – Overcoming Resistance_, where the intention was to look at some common atheistic objections (in the form of questions),  and see what we could come up with in terms of what _The Urantia Book_ teaches on these problems and what we could potentially say when facing such objections.
+At the 2019 Canberra Urantia Conference, I facilitated a workshop titled _Spirit in Society – Overcoming Resistance_, where the intention was to look at some common atheistic objections (in the form of questions),  and see what we could come up with in terms of what _The Urantia Book_ teaches on these problems and what we could potentially say when facing such objections.
 
-The attendees were divided into three groups, and each group attempted to answer one of the common objections, given 30 minutes to do so. Afterwards, the group leaders were given an opportunity to report back to everybody.  I’ll now attempt to summarize the group answers produced during the workshop:
+The attendees were divided into three groups, and each group attempted to answer one of the common objections, given 30 minutes to do so. Afterwards, the group leaders were given an opportunity to report back to everybody.  I’ll now attempt to summarize the group answers produced during the workshop:
 <br style="clear:both;"/>
 
 ## Group A
@@ -51,7 +51,7 @@ The attendees were divided into three groups, and each group attempted to answer
 
 _The Atheist Says:_ Why has God never said ‘hello’ to me?
 
-- God delegates everything he can to subordinates. The assumption is that a God does, or should do, everything. God delegates choice to  us, and one of those is to believe or not believe.
+- God delegates everything he can to subordinates. The assumption is that a God does, or should do, everything. God delegates choice to  us, and one of those is to believe or not believe.
 - When a prayer does not appear to have been answered, bitterness might ensue. Are our expectations of God reasonable though?
 - We are the custodians of the planet so it’s up to us to improve conditions.
 - Faith (believing without seeing and hearing) is of great value.
@@ -103,7 +103,7 @@ Canberra
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/11/21/workshop-summary-spirit-society-overcoming-resistance
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/11/21/workshop-summary-spirit-society-overcoming-resistance)
 
 <figure class="table chapter-navigator">
   <table>

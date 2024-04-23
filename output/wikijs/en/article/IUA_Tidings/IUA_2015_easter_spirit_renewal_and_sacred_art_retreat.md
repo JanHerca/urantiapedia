@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-Are you looking for ways to deepen the experience of your relationship to God and spirit? Are you yearning to enjoy greater harmony in your life and your relationships with others? Are you interested in nurturing your soul by developing your innate artistic abilities?
+Are you looking for ways to deepen the experience of your relationship to God and spirit? Are you yearning to enjoy greater harmony in your life and your relationships with others? Are you interested in nurturing your soul by developing your innate artistic abilities?
 
 Then don’t miss out on this momentous occasion—March 27th-30th, 2015—as we dedicate ourselves to the joy of renewing our spirit with the Creator Son while expressing the Creative Spirit through the arts during the 2015 Easter Spirit Renewal and Sacred Art Retreat.
 

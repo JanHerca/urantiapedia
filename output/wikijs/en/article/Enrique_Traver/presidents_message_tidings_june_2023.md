@@ -42,7 +42,7 @@ Urantia Association International exists because _we believe that the teachings 
 
 We want to reach each person, every individual, for whom we hope to **create** opportunities to help them connect to God by sharing the teachings of _The Urantia Book._
 
-What is meant by create?  Opportunities often come out of the blue, or are prompted by the spirit, or just occur suddenly – and often we don’t even notice them, we just let them pass by. The act of seeking to create keeps us connected, aware, so we won’t let any opportunity pass by, even those we do not create but have been given to us.
+What is meant by create?  Opportunities often come out of the blue, or are prompted by the spirit, or just occur suddenly – and often we don’t even notice them, we just let them pass by. The act of seeking to create keeps us connected, aware, so we won’t let any opportunity pass by, even those we do not create but have been given to us.
 
 **Creating** or **having**, allows the same opportunity to reach the individual. “Having**”** grants us the opportunity _to perceive the Spirit call to serve the individual;_ to quench their thirst and hunger for God. “Creating**”** gives us the opportunity _to ask the Spirit to help serve that individual_ and to satisfy his or her thirst and hunger for God.
 

@@ -133,7 +133,7 @@ William Wentworth, Canberra - Presented at Canberra Conference
 
 **Introduction**
 
-In eternity God the Father separated spirit from energy-matter and put spirit under the control of the Eternal Son and energy-matter under the control of Paradise. But interestingly, the revelators point out that on Paradise, from which both forms are distributed to the universes, the two energy forms are indistinguishable—they cannot be told one from the other. In Havona, we are told, they are distinguishable but the harmonious nature of Havona and its inhabitants means that there is no difficulty in relating one form of energy to the other. But by the time those two energy forms are projected to the superuniverses, however, spirit and energy-matter have diverged so far that they do not relate to one another. And thereby hangs a tale so pregnant with possibilities that the culture of the Grand Universe may be said to derive from it.  For the only way in which spirit and energy-matter can interact is through mind, as mind is the only reality with which both can interact. Mind can contact spirit, and mind can also contact energy-matter, so through mind the two energy forms can relate to one another.
+In eternity God the Father separated spirit from energy-matter and put spirit under the control of the Eternal Son and energy-matter under the control of Paradise. But interestingly, the revelators point out that on Paradise, from which both forms are distributed to the universes, the two energy forms are indistinguishable—they cannot be told one from the other. In Havona, we are told, they are distinguishable but the harmonious nature of Havona and its inhabitants means that there is no difficulty in relating one form of energy to the other. But by the time those two energy forms are projected to the superuniverses, however, spirit and energy-matter have diverged so far that they do not relate to one another. And thereby hangs a tale so pregnant with possibilities that the culture of the Grand Universe may be said to derive from it.  For the only way in which spirit and energy-matter can interact is through mind, as mind is the only reality with which both can interact. Mind can contact spirit, and mind can also contact energy-matter, so through mind the two energy forms can relate to one another.
 
 [Read more](/en/article/William_Wentworth/Growing_the_Supreme)
 <br style="clear:both;"/>
@@ -167,7 +167,7 @@ In this presentation I speak briefly about my background with _The Urantia Book_
 
 **How I Initially Came Across _The Urantia Book_**
 
-From a very young age (roughly eight to ten years old) I was introduced to _The Urantia Book_ by my father who had been a reader for several years prior. Almost every Sunday we had a reading, focusing on short sections, and paraphrased according to my capacity to receive the teachings of the book. I always enjoyed these study sessions and remember asking countless questions to the point that we would often not complete a single section of a paper.  This continued on for a few years, on and off.
+From a very young age (roughly eight to ten years old) I was introduced to _The Urantia Book_ by my father who had been a reader for several years prior. Almost every Sunday we had a reading, focusing on short sections, and paraphrased according to my capacity to receive the teachings of the book. I always enjoyed these study sessions and remember asking countless questions to the point that we would often not complete a single section of a paper.  This continued on for a few years, on and off.
 
 
 **What Motivated Me to Read and Study the Book?**
@@ -209,7 +209,7 @@ Susan Hemmingsen, Kirikiriroa, NZ
 
 **2020 ANZURA Conference**
 
-I am happy to relate that things are going well in New Zealand and preparations/organisation is well underway for the ANZURA conference in Auckland next year (2020). We are using the same venue as our last New Zealand ANZURA conference, Vaughan Park, which is in the northern beach suburbs of Auckland.  ([https://vaughanpark.nz/venue](https://vaughanpark.nz/venue))
+I am happy to relate that things are going well in New Zealand and preparations/organisation is well underway for the ANZURA conference in Auckland next year (2020). We are using the same venue as our last New Zealand ANZURA conference, Vaughan Park, which is in the northern beach suburbs of Auckland.  ([https://vaughanpark.nz/venue](https://vaughanpark.nz/venue))
 
 
 **Gathering of New Zealand Readers, Villa Ika, Taupo**
@@ -220,7 +220,7 @@ Each year NZ readers try to get together somewhere in the country to connect wit
 <img src="/image/article/The_Arena/Group-Taupo-Meeting-300x225.jpg" alt="New Zealand Readers">
 </figure>
 
-Attendees were: (see photo) Neville Twist, Frances Potter, Susan Hemmingsen, Matt Hall, Norman Weiss, Diana Whakapapa, Ian Campbell and sitting in the front, Marion Steward.  Missing from this photo, Doug Cook, who joined us on Saturday. It was so good to meet the two new members of our online study group, Diana and Norman, in person and to find they are long-time readers and valuable members of our NZ group.
+Attendees were: (see photo) Neville Twist, Frances Potter, Susan Hemmingsen, Matt Hall, Norman Weiss, Diana Whakapapa, Ian Campbell and sitting in the front, Marion Steward.  Missing from this photo, Doug Cook, who joined us on Saturday. It was so good to meet the two new members of our online study group, Diana and Norman, in person and to find they are long-time readers and valuable members of our NZ group.
 
 [Read more](/en/article/Susan_Hemmingsen/New_Zealand_Corner_Summer_2019)
 <br style="clear:both;"/>
@@ -338,7 +338,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2019/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-summer-2019/)
 
 <figure class="table chapter-navigator">
   <table>

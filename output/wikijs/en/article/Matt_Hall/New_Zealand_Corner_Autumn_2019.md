@@ -53,7 +53,7 @@ I’m in a better place because I have connected with local readers this way. An
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/03/28/new-zealand-corner-autumn-2019
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/03/28/new-zealand-corner-autumn-2019)
 
 <figure class="table chapter-navigator">
   <table>

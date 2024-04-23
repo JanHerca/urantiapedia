@@ -47,7 +47,7 @@ Our approach consists in establishing a progressive program of personal assimila
 
 ## History
 
-Our process is initiated and supervised by truth seekers, students of _The Urantia Book_ who have accumulated more than forty years of study with their spiritual educator in Senegal. These researchers then gained experience by sharing these truths, first in Dakar, Senegal, with several hundred truth seekers from 1973 to 2000, then with more than thirty readers from Europe, Canada, and America from 2000 to 2018.
+Our process is initiated and supervised by truth seekers, students of _The Urantia Book_ who have accumulated more than forty years of study with their spiritual educator in Senegal. These researchers then gained experience by sharing these truths, first in Dakar, Senegal, with several hundred truth seekers from 1973 to 2000, then with more than thirty readers from Europe, Canada, and America from 2000 to 2018.
 
 The aim is, first of all, to provide a framework for the clarification and personal assimilation of the concepts of _The Urantia Book_, in a living, gradual and transmissible form, to any seeker of truth. The ultimate goal is to help those who want to become future educators of the teachings.
 
@@ -70,7 +70,7 @@ During 2021, the activities of the Progressive Divine Wisdom Group (after the 20
 
 - Creation of a group of meetings every Saturday by Zoom for deepenings, sharing sessions, and questions and answers (Groupe Afrique francophone created on September 11, 2021 and held 19 sharing meetings in 2021).
 
-- Creation of a Group on 26 September 2021, meeting once every three weeks, by Zoom, on Sunday with readers from Haiti (Groupe Haiti) for  Q&A sessions with four meetings held in 2021.
+- Creation of a Group on 26 September 2021, meeting once every three weeks, by Zoom, on Sunday with readers from Haiti (Groupe Haiti) for  Q&A sessions with four meetings held in 2021.
 <br style="clear:both;"/>
 
 ## Perspectives

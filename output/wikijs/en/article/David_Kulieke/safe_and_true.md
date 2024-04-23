@@ -169,7 +169,7 @@ The most important thing is that we all need to try. There are many ways we can 
 
 Whatever the circumstances we find ourselves, professionally or otherwise, we can find ways to positively bring the teachings of the book and the fruits of the spirit to those we encounter: life is relationships.
 
- There are three levels of education outlined here:
+ There are three levels of education outlined here:
 
 1. Improving the study of _The Urantia Book_ for readers.
 2. Using formal situations, such as in classrooms, to convey its teachings without the book.

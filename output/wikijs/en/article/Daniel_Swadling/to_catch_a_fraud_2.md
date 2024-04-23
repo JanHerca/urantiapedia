@@ -39,7 +39,7 @@ _Presented at the Sydney ANZURA Conference, October 2015_
 
 I began this presentation with a simple experiment. Without any warning I caused a very loud, totally unexpected noise that startled the audience and elicited the typical gasps, shrieks and jolting movements from everyone as you would expect. I informed the audience that I had just activated their fear responses and pointed out that they were right now as one body, behaving in unison through their fear and asked, isn’t that great we’re all united like this together? Isn’t that what we’re all seeking? some kind of togetherness that leads to brotherhood for us to live in peace and harmony and on to eternal life?
 
-Well that way, my friends I hope to show today, is a complete fraud. Fear has a role to play in our survival, granted, but we know through _The Urantia Book_ teachings that survival on its own is not enough. There must be growth to pass through time and into eternity. Growth is necessary on the pathway to Paradise and beyond.
+Well that way, my friends I hope to show today, is a complete fraud. Fear has a role to play in our survival, granted, but we know through _The Urantia Book_ teachings that survival on its own is not enough. There must be growth to pass through time and into eternity. Growth is necessary on the pathway to Paradise and beyond.
 
 > _Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul._ <a id="a43_149"></a>[[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)] from Morontia Mota No. 2
 
@@ -91,7 +91,7 @@ Now, I want to have a look at what’s actually going on when we experience fear
 
 Again:
 
-> _Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul._ <a id="a93_92"></a>[[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)] from Morontia Mota No. 2
+> _Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul._ <a id="a93_92"></a>[[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)] from Morontia Mota No. 2
 
 Firstly let’s just review, what is the soul?
 
@@ -101,9 +101,9 @@ From Paper 111, The Adjuster and the Soul, there are three factors in the evolut
 > _2\. The divine spirit indwelling this human mind and all potentials inherent in such a fragment of absolute spirituality together with all associated spiritual influences and factors in human life._
 > _3\. The relationship between material mind and divine spirit, which connotes a value and carries a meaning not found in either of the contributing factors to such an association. The reality of this unique relationship is neither material nor spiritual but morontial. It is the soul._ <a id="a101_288"></a>[[UB 111:2.4](/en/The_Urantia_Book/111#p2_4)]
 
-If every time we are faced with threats, frightened by a challenge, terrorized by the new and unknown, if we allow our higher thinking to be bypassed and allow an unthinking response, we are removing the interaction between our mind and spirit **when we need it the most**. For it is in those moments when we are pushed to our limits and tested that we improve and grow. We know this is the case for our physical bodies and minds, we have learned from these teachings it is also the case for our spiritual selves.
+If every time we are faced with threats, frightened by a challenge, terrorized by the new and unknown, if we allow our higher thinking to be bypassed and allow an unthinking response, we are removing the interaction between our mind and spirit **when we need it the most**. For it is in those moments when we are pushed to our limits and tested that we improve and grow. We know this is the case for our physical bodies and minds, we have learned from these teachings it is also the case for our spiritual selves.
 
-Here we see the true fraudulent nature of fear. Fear has no place in bringing us closer to God, rather the opposite! **Fear wrecks the mind-spirit relationship**, poisoning the growth of our soul and thereby keeping us further away from God.
+Here we see the true fraudulent nature of fear. Fear has no place in bringing us closer to God, rather the opposite! **Fear wrecks the mind-spirit relationship**, poisoning the growth of our soul and thereby keeping us further away from God.
 
 The angels, the book tells us, are not that much different from us.
 
@@ -117,21 +117,21 @@ There is much science that shows we can reduce our fear and cope with phobias. W
 
 The aim of fear management is don’t try to eliminate the fear, rather change the way you experience it and respond to it. For example, learning through exposure: by exposing yourself to a fear safely, the brain will adapt to it and learn not to be afraid of it. This is known as ‘habituation’ or ‘conditioning.’ Fear can be managed in such a way before it becomes an anxiety disorder. We know that if we can slow down and choose our responses to fear, this results in being less reactive to the amygdala, thus our sense of fear is reduced. If we have the time to make a decision, this allows us to take more into account.
 
-Training the brain is like training muscles, requires ‘working out.’ Training means exposure, habituation, familiarity, experience, preparation, meditation is a proven approach, to gain confidence and assurance that _you will be ok despite the threat_**: the brain will override fear impulses and despite feeling fearful you will be able to choose courageous action anyway.**
+Training the brain is like training muscles, requires ‘working out.’ Training means exposure, habituation, familiarity, experience, preparation, meditation is a proven approach, to gain confidence and assurance that _you will be ok despite the threat_**: the brain will override fear impulses and despite feeling fearful you will be able to choose courageous action anyway.**
 
 The point is: change is possible. We can change fears into respect.
 
 “It’s not what happens in our life that causes stress, rather our reactions to it”—we can’t change what happens to us; we can change how we react.
 
-Now, if we can do all this on physical and cognitive levels, there’s **no reason to say we can’t do this on a spiritual level as well**.
+Now, if we can do all this on physical and cognitive levels, there’s **no reason to say we can’t do this on a spiritual level as well**.
 
 Remember The Adjusters Problem:
 
-> _Much of my difficulty was due to …_ (among other things) _the fountain of faith polluted by the poisons of fear …_ <a id="a129_118"></a>[[UB 111:7.5](/en/The_Urantia_Book/111#p7_5)]
+> _Much of my difficulty was due to …_ (among other things) _the fountain of faith polluted by the poisons of fear …_ <a id="a129_118"></a>[[UB 111:7.5](/en/The_Urantia_Book/111#p7_5)]
 
 And (part of) The Adjusters Mission:
 
-> _The Thought Adjusters would like to change your feelings of fear to convictions of love and confidence; but they cannot mechanically and arbitrarily do such things; that is your task. **In executing those decisions which deliver you from the fetters of fear, you literally supply the psychic fulcrum on which the Adjuster may subsequently apply a spiritual lever of uplifting and advancing illumination**._ <a id="a133_410"></a>[[UB 108:5.8](/en/The_Urantia_Book/108#p5_8)] emphasis added
+> _The Thought Adjusters would like to change your feelings of fear to convictions of love and confidence; but they cannot mechanically and arbitrarily do such things; that is your task. **In executing those decisions which deliver you from the fetters of fear, you literally supply the psychic fulcrum on which the Adjuster may subsequently apply a spiritual lever of uplifting and advancing illumination**._ <a id="a133_410"></a>[[UB 108:5.8](/en/The_Urantia_Book/108#p5_8)] emphasis added
 
 We all know fear, we let ourselves be victims of fear, and we know how it operates. And since you know fear, this puts you in the best position to catch the fear, arrest it, and overcome it before it destroys you. **By slowing down your responses to fear you give your higher mind a chance to properly process it, releasing you from its slave-bondage grip, and allows your indwelling spirit to connect with your mind in that moment and further grow your soul**.
 

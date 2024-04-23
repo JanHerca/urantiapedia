@@ -83,7 +83,7 @@ Watch this space for more information as plans unfold or contact us at: [anzura.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/annual-conference-auckland-new-zealand-2020
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/12/16/annual-conference-auckland-new-zealand-2020)
 
 <figure class="table chapter-navigator">
   <table>

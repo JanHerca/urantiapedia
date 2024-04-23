@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Mark-B-2022-1-e1674520636764-150x150.jpg">
 </figure>
 
-Welcome to the May 2023 edition of the Urantia Association’s _Journal_, a publication dedicated to the thoughts, observations, and experiences of Urantia Book students from around the world. Our contributors explore a wide range of topics relating to the fifth epochal revelation, demonstrating both an extraordinary diversity of thought and a spirited unity of purpose. 
+Welcome to the May 2023 edition of the Urantia Association’s _Journal_, a publication dedicated to the thoughts, observations, and experiences of Urantia Book students from around the world. Our contributors explore a wide range of topics relating to the fifth epochal revelation, demonstrating both an extraordinary diversity of thought and a spirited unity of purpose. 
 
 Our first article has to do with the fascinating interface between science and religion. “**Getting to Know Ourselves Better: The Neurophysiological Basis of Self-Control**” by Helena Bañas, a medical doctor, explores the nature of the brain and consciousness in relation to the spiritual forces operating within the mind. In particular, she underscores how the power of personality, in conjunction with the inner Spirit, can actually change the physical structure of the brain, a process known as neuroplasticity.
 

@@ -46,9 +46,9 @@ The conference was held via Zoom and live-streamed to the Association’s Facebo
 
 Simultaneous translations for English, Spanish, and Portuguese were provided during certain segments. Thank you once again to those amazing translators who again served tirelessly for hours at a time to make it possible for more people to experience the diversity of presentations. Also thank you to those who volunteered to host the various segments to ensure there was always someone fresh and able to keep this around-the-clock event on track. And of course, a big thank you to all of those loyal and industrious volunteers who worked so hard in the preceding weeks and months to make this event happen.
 
-If you were unable to attend, missed anything, or simply wish to revisit a presentation, you can view the recordings in the video section of our Facebook page at: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/) 
+If you were unable to attend, missed anything, or simply wish to revisit a presentation, you can view the recordings in the video section of our Facebook page at: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/) 
 
-Also, the presentations will eventually be available on our YouTube channel. Keep checking in at: [https://www.youtube.com/c/UrantiaAssociationInternational/playlists](https://www.youtube.com/c/UrantiaAssociationInternational/playlists) and click on the relevant Playlist.
+Also, the presentations will eventually be available on our YouTube channel. Keep checking in at: [https://www.youtube.com/c/UrantiaAssociationInternational/playlists](https://www.youtube.com/c/UrantiaAssociationInternational/playlists) and click on the relevant Playlist.
 
 ## References
 

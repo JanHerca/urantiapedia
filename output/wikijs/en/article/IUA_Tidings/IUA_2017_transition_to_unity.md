@@ -42,11 +42,11 @@ _The following is an account of the Transition to Unity meeting held in October 
 <img src="/image/article/IUA_Tidings/Unity-Meeting-Committee-300x225.jpg">
 </figure>
 
-On October 3-5, 2016, representatives from the Fellowship and the Association met in Chicago, USA to discuss the possibility of unity between our organizations. This meeting was approved by the Association’s International Service Board and Representative Council, and the Fellowship’s Executive Council. Chris Wood, Merindi B, Rick Lyon, Share Beasley and Susan Owen represented the Association.  Michael Challis, Paula Thompson, Steve Dreier, Janet Graham, and Geoffrey Theiss represented the Fellowship. Janet had to leave early so John Hales replaced her on the second day.
+On October 3-5, 2016, representatives from the Fellowship and the Association met in Chicago, USA to discuss the possibility of unity between our organizations. This meeting was approved by the Association’s International Service Board and Representative Council, and the Fellowship’s Executive Council. Chris Wood, Merindi B, Rick Lyon, Share Beasley and Susan Owen represented the Association.  Michael Challis, Paula Thompson, Steve Dreier, Janet Graham, and Geoffrey Theiss represented the Fellowship. Janet had to leave early so John Hales replaced her on the second day.
 
 The meeting began at 7:30 pm Sunday October 2<sup>nd</sup> after a delicious dinner prepared by Jen Siegel. Dana Brademeyer introduced us to a strategic thinking method using small group discussion. The stage was set by framing our discussion from the planetary government’s perspective. Our first discussion assignment was framed as follows: We were a group of student visitors to Urantia from other planets, and the planetary supervisors have asked us to advise them on outcomes we would like to see from this organizational unity meeting on Urantia. The outcomes of this assignment formed the basis for the discussions the following day.
 
-Two videos were viewed during the meeting which informed our discussions.  They are worth viewing.  Links:
+Two videos were viewed during the meeting which informed our discussions.  They are worth viewing.  Links:
 
 [Dr. Russel Ackoff on Systems Theory](https://www.youtube.com/watch?v=OqEeIG8aPPk)  
 [Clay Shirky on Institutions versus Collaboration](https://www.youtube.com/watch?v=sPQViNNOAkw)
@@ -55,7 +55,7 @@ We discussed what unity might look like and what actions and activities might mo
 
 The next step in the unity process is for the General Council of the Fellowship and the International Representative Council of Urantia Association to consider the proposal and agree to move forward with the unity process. If this occurs, then small teams will begin work on developing a detailed plan and working out the fine details of uniting our groups. When these small teams are done with their work, formal resolutions along with the plan will be presented to our governing groups to be voted upon. We believe this work can be completed within one to two years.
 
-In the meantime, we encourage the entire Urantia community to engage in discussions about the Unity Proposal presented below. Urantia Association of the United States has already held two Zoom meetings for the leaders of the Local Associations to discuss this proposal.  Members of the Association team attended both meetings, and Michael Challis, Steve Drier and Geoffrey Theiss of the Fellowship attended the second Zoom meeting where they answered many questions from attendees.
+In the meantime, we encourage the entire Urantia community to engage in discussions about the Unity Proposal presented below. Urantia Association of the United States has already held two Zoom meetings for the leaders of the Local Associations to discuss this proposal.  Members of the Association team attended both meetings, and Michael Challis, Steve Drier and Geoffrey Theiss of the Fellowship attended the second Zoom meeting where they answered many questions from attendees.
 
 Everyone is encouraged to join both the Association and the Fellowship, to serve on the committees and leadership councils of each group, and even for entire Local Associations and Societies to formally join the other organization and work as one. Joint service projects at the local and individual levels are also encouraged.
 
@@ -82,7 +82,7 @@ _Greater collaboration –_ Wherever possible, at local, national and internatio
 
 _A different narrative –_ Leaders of both the Association and the Fellowship work to produce a new and different narrative. A narrative focusing on unity, combined effort, and shared mission. The new narrative could be communicated through a separate “unity newsletter,” at meetings, successful unity stories in our newsletters, perhaps a “unity blogspace,” and perhaps common use of the tag #urantiaunity. 
 
-_Exchange students–_ Two members of the Association could be invited to join the General Council (as observers) and two members of the Fellowship could be invited to observe the ongoing electronic meeting of the Representative Council, and/or observe the International Service Board meetings. In addition, members of each organization who may hold dual membership are encouraged to run for a position in either organization. The Fellowship has already invited dual members to run for two open seats on the General Council.
+_Exchange students–_ Two members of the Association could be invited to join the General Council (as observers) and two members of the Fellowship could be invited to observe the ongoing electronic meeting of the Representative Council, and/or observe the International Service Board meetings. In addition, members of each organization who may hold dual membership are encouraged to run for a position in either organization. The Fellowship has already invited dual members to run for two open seats on the General Council.
 
 _Mapping of local groups –_ A combined “map” of local societies and associations could be put together to foster cooperative efforts. The local groups could then pair-up to produce shared projects.
 
@@ -114,7 +114,7 @@ Our North American community is more spiritually and socially united now than at
 
 In service,  
 Chris Wood  
-President, Urantia Association International
+President, Urantia Association International
 
 ## References
 

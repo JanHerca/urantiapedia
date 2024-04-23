@@ -69,7 +69,7 @@ As I try to show in these videos, in 1934 _The Urantia Book_ appears to have giv
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/recent-developments-astrophysics-sector
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/07/29/recent-developments-astrophysics-sector)
 
 <figure class="table chapter-navigator">
   <table>

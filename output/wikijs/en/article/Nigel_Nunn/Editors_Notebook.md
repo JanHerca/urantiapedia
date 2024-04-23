@@ -54,7 +54,7 @@ In the _study group_, and by means of _The Urantia Book_, they have put in place
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/editors-notebook
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/09/07/editors-notebook)
 
 <figure class="table chapter-navigator">
   <table>

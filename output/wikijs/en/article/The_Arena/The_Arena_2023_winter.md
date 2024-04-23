@@ -89,7 +89,7 @@ If you’re planning on coming, please get your registrations in as soon as poss
 
 **Theme: Talkin' Bout a Revelation**
 
-How are we talking about the concepts of _The Urantia Book_ with non-readers and new readers? How can we discuss such universal truths that everyone needs to know without alienating them? How can we convince increasingly secular, sceptical and materially focused people that the spiritual world is just as real? How can we help to transform stagnant traditional religious practice into courageous living and dynamic spiritual growth?
+How are we talking about the concepts of _The Urantia Book_ with non-readers and new readers? How can we discuss such universal truths that everyone needs to know without alienating them? How can we convince increasingly secular, sceptical and materially focused people that the spiritual world is just as real? How can we help to transform stagnant traditional religious practice into courageous living and dynamic spiritual growth?
 
 [Read more](/en/article/The_Arena/2023_Annual_Conference_in_Sydney_Update)
 <br style="clear:both;"/>
@@ -157,12 +157,12 @@ Jeff and Mahtab, USA
 _(This is a dialogue between Jeff and Mathab that was presented via Zoom at the 2022 ANZURA Conference in Tasmania.)_
 
 **Jeff:** Hi, Mahtab, good to see you. What have you been up to lately?
-**Mahtab**: Oh, the religion of personal experience.
-**Jeff:** Cool! Could you tell me about it a little?
-**Mahtab**: Sure—after you answer the same question. What have you been doing?
+**Mahtab**: Oh, the religion of personal experience.
+**Jeff:** Cool! Could you tell me about it a little?
+**Mahtab**: Sure—after you answer the same question. What have you been doing?
 **Jeff:** Same thing, what do you know! The religion of personal experience. I like the conference title and the phrase, “intimacy with God.” For me, the religion of personal experience involves times when I’m wrestling with the intimate details of my personal growth struggles. But I’m also writing about this religion of the spirit as we find it in Jesus and his gospel.
-**Mahtab:** Tell me more.
-**Jeff:** Sure—but—would you be willing to start?
+**Mahtab:** Tell me more.
+**Jeff:** Sure—but—would you be willing to start?
 
 **Mathab’s discourse:**
 
@@ -252,7 +252,7 @@ Marion Steward, NZ
 
 Winter is well and truly here in our part of the world, and we have been enjoying both sunny days and quite cold nights over the past few weeks. In Auckland, especially, the sunny days have been a welcome change from the seemingly endless round of heavy rain, and storms that have afflicted us since the end of January. There hasn’t been enough time between these weather events to clean up after the flooding and repair roads and so on, and it is very tough for lots of people in different parts of the North Island right now.
 
-I have been reflecting on the Urantia Book’s encouragement to ‘feast upon uncertainty’!  
+I have been reflecting on the Urantia Book’s encouragement to ‘feast upon uncertainty’!  
 
 _…long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable_. (<a id="a256_366"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3)).
 
@@ -320,7 +320,7 @@ To view current and past issues of the _Arena_ [click here](https://anzura.urant
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2023/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-winter-2023/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -52,7 +52,7 @@ Groot Kievitsdal is beautifully situated between the forests of the Estate Pijne
 <img src="/image/article/IUA_Tidings/Netherlands-Logo-300x135.jpg">
 </figure>
 
-More information about this conference can be found at: [www.urantia.nl](http://www.urantia.nl/).
+More information about this conference can be found at: [www.urantia.nl](http://www.urantia.nl/).
 
 Jaap Terra,  
 President of Urantia Association of the Netherlands (UAISUN)

@@ -63,7 +63,7 @@ Phillip Marriott
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/07/26/presidents-report-2
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/07/26/presidents-report-2)
 
 <figure class="table chapter-navigator">
   <table>

@@ -84,7 +84,7 @@ And we also see why the 187,432,811 Jerusem citizens were so few.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/where-are-they-all
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/where-are-they-all)
 
 <figure class="table chapter-navigator">
   <table>

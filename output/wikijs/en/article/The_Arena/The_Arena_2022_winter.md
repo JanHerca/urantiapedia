@@ -44,7 +44,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 - **Presidents Report** – Phillip Mariott
 - **Countdown to Tassie Conference**
 - **National Study Day Reflections** – Study Group Hosts
-- **Urantia Book Presentation** – Phillip Marriott, Adelaide, SA 
+- **Urantia Book Presentation** – Phillip Marriott, Adelaide, SA 
 - **Reflections of Body, Mind and Psychic Expo** – Regina Williamson, VIC
 - **New Zealand Corner**
 - **Doing According to the Urantia Papers** – Neil Francey, Queensland
@@ -87,7 +87,7 @@ Time is running out to register for this year's Annual Conference being held in 
 
 After two years of virtual conferences, we are excited about meeting up with everyone again face-to-face. There's no substitute for in-person contact while discussing in-depth our favourite book!
 
-Stewarts Bay Lodge is set in a stunning waterfront location and is nestled in a world heritage listed national park. It's in walking distance to Port Arthur’s Historic Site and offers a variety of quality self-contained cabin and chalet accommodation with restaurant, function rooms and recreation facilities all surrounded by a white-sand beach, crystal clear ocean waters and beautiful woodlands.
+Stewarts Bay Lodge is set in a stunning waterfront location and is nestled in a world heritage listed national park. It's in walking distance to Port Arthur’s Historic Site and offers a variety of quality self-contained cabin and chalet accommodation with restaurant, function rooms and recreation facilities all surrounded by a white-sand beach, crystal clear ocean waters and beautiful woodlands.
 
 [Read more](/en/article/The_Arena/Countdown_to_Tassie_Conference)
 
@@ -113,18 +113,18 @@ Three members of the Canberra Study Group, Verona, Ysbrand and William, met by Z
 
 Our attention was caught by Jesus’ statement to the apostles that to live out the truth is a more effective way of winning souls than preaching. There was also considerable discussion about his comments on the crystallized creeds, and how Judaism had become formalized into lifeless dogma. Some of us saw obvious parallels with modern Christianity.
 
-However, the core of the paper seems to be the two discourses on religion which Jesus gave in response to a question from Thomas. Jesus referred to the evolution of religion, pointing out that he was himself was an agent of such an evolutionary leap in our planet’s religions, and that such development involves hard spiritual effort, many mistakes, and difficult struggles in order to leave the safety of tradition and engage in true spiritual growth. To transition from the religion of the mind to the religion of the spirit is the supreme adventure of existence, for that is what brings us closer to the Father.
+However, the core of the paper seems to be the two discourses on religion which Jesus gave in response to a question from Thomas. Jesus referred to the evolution of religion, pointing out that he was himself was an agent of such an evolutionary leap in our planet’s religions, and that such development involves hard spiritual effort, many mistakes, and difficult struggles in order to leave the safety of tradition and engage in true spiritual growth. To transition from the religion of the mind to the religion of the spirit is the supreme adventure of existence, for that is what brings us closer to the Father.
 
-In the second discourse, Jesus does, however, warn us that having begun our journey into truth, we should not be betrayed into looking down on those who still languish in the traditional creeds. He points out that those creeds have crystallized from the sincere efforts of previous generations and are not to be despised. The Father responds to the “faintest flicker” of faith.
+In the second discourse, Jesus does, however, warn us that having begun our journey into truth, we should not be betrayed into looking down on those who still languish in the traditional creeds. He points out that those creeds have crystallized from the sincere efforts of previous generations and are not to be despised. The Father responds to the “faintest flicker” of faith.
 
-I think each one of us derived something worthwhile from our reading and discussion.  
+I think each one of us derived something worthwhile from our reading and discussion.  
 
 [Read more](/en/article/The_Arena/National_Study_Day_Reflections)
 <br style="clear:both;"/>
 
 ## Urantia Book Presentation
 
-Phillip Marriott, Adelaide, SA 
+Phillip Marriott, Adelaide, SA 
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Arena/Master-Universe-GT-570x383.jpg" alt="Master Universe">
@@ -146,7 +146,7 @@ Regina Williamson, VIC
 <img src="/image/article/The_Arena/IMG-20220707-WA0005-e1658988774944-300x225.jpg" alt="Regina Williamson">
 </figure>
 
-First my feelings of anticipation: It’s this weekend! I am excited about the whole thing: travel and expo on Saturday and Sunday, a totally new adventure for me. And what will we be doing there? We, meaning Phillip, the project manager, and Bevan and myself as assistants. We will be presenting God’s revelation to the world by sowing seeds!! We will be promoting the Father’s business and spreading the good news of Jesus’ gospel. Thank you, Phillip, for giving us this opportunity.
+First my feelings of anticipation: It’s this weekend! I am excited about the whole thing: travel and expo on Saturday and Sunday, a totally new adventure for me. And what will we be doing there? We, meaning Phillip, the project manager, and Bevan and myself as assistants. We will be presenting God’s revelation to the world by sowing seeds!! We will be promoting the Father’s business and spreading the good news of Jesus’ gospel. Thank you, Phillip, for giving us this opportunity.
 
 Apart from all the above coming true, we also socialised with our Urantia friends and family members. I felt privileged to get to know Colleen, Phillip’s wife and had a wonderful time in their “castle”. I loved it. Thank you, Colleen and Phillip, for your hospitality.
 
@@ -160,9 +160,9 @@ Apart from all the above coming true, we also socialised with our Urantia friend
 <img src="/image/article/The_Arena/Marion-07-150x150.jpg" alt="Marion">
 </figure>
 
-The winter solstice has just passed and here in New Zealand we are weathering the colder conditions – it's a time to draw inwards and take time through the long winter nights to reflect on life, the universe, and higher things. In addition to marking the longest night and the shortest day, for the first time this year, just after the winter solstice, the country celebrated Matariki, as a public holiday. This is the beginning of the new year in the Maori lunar calendar and is the Maori name for the Pleiades star cluster, which first rises in late June or early July. In Maori tradition, this celebration involved looking back and mourning those who had passed in the previous year and making forecasts for the year to come.  
+The winter solstice has just passed and here in New Zealand we are weathering the colder conditions – it's a time to draw inwards and take time through the long winter nights to reflect on life, the universe, and higher things. In addition to marking the longest night and the shortest day, for the first time this year, just after the winter solstice, the country celebrated Matariki, as a public holiday. This is the beginning of the new year in the Maori lunar calendar and is the Maori name for the Pleiades star cluster, which first rises in late June or early July. In Maori tradition, this celebration involved looking back and mourning those who had passed in the previous year and making forecasts for the year to come.  
 
-Some of us took the opportunity of a new holiday at Matariki to meet up for a study day. Two of us from the Auckland study group drove down to Tauranga where two long time readers from our group had moved to last year. We stayed overnight, and then studied Paper 155 in the morning, which led to some very interesting and thought-provoking discussion and insights, particularly into the religion of the mind and the religion of the spirit.   
+Some of us took the opportunity of a new holiday at Matariki to meet up for a study day. Two of us from the Auckland study group drove down to Tauranga where two long time readers from our group had moved to last year. We stayed overnight, and then studied Paper 155 in the morning, which led to some very interesting and thought-provoking discussion and insights, particularly into the religion of the mind and the religion of the spirit.   
 
 We also reflected on key events of the previous year, and in our forecasts of the year to come, the conference in Tasmania was at the forefront. Quite a few New Zealand readers are planning to go, and we are looking forward very much to reuniting with everyone face to face for the first time in some years and enjoying even more stimulating discussions and the great joy of spiritual fellowship.
 <br style="clear:both;"/>
@@ -172,7 +172,7 @@ We also reflected on key events of the previous year, and in our forecasts of th
 
 Neil Francey, Queensland
 
-_(Editor’s Note: This article has been "mined" from the Archives and is being re-published here. It is a presentation that was given by Neil Francey at the 2002 Queensland conference.)_
+_(Editor’s Note: This article has been "mined" from the Archives and is being re-published here. It is a presentation that was given by Neil Francey at the 2002 Queensland conference.)_
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Neil-Francey-18-243x300.jpg" alt="Neil Francey">
@@ -212,32 +212,32 @@ Thank you Urantia DACH. [https://dach.urantia-association.org/blog/](https://dac
 
 _Explanation from Wikipedia:_
 
-_Instruction of Amenemope_ (also called _Instructions of Amenemopet_, _Wisdom of Amenemopet_) is a literary work composed in Ancient Egypt, most likely during the Ramesside Period (ca. 1300–1075 BCE); it contains thirty chapters of advice for successful living, ostensibly written by the scribe Amenemope son of Kanakht as a legacy for his son.
+_Instruction of Amenemope_ (also called _Instructions of Amenemopet_, _Wisdom of Amenemopet_) is a literary work composed in Ancient Egypt, most likely during the Ramesside Period (ca. 1300–1075 BCE); it contains thirty chapters of advice for successful living, ostensibly written by the scribe Amenemope son of Kanakht as a legacy for his son.
 
- A characteristic product of the New Kingdom “Age of Personal Piety”, the work reflects on the inner qualities, attitudes, and behaviours required for a happy life in the face of increasingly difficult social and economic circumstances.
+ A characteristic product of the New Kingdom “Age of Personal Piety”, the work reflects on the inner qualities, attitudes, and behaviours required for a happy life in the face of increasingly difficult social and economic circumstances.
 
-It is widely regarded as one of the masterpieces of ancient near-eastern wisdom literature and has been of particular interest to modern scholars because of its similarity to the later biblical Book of Proverbs.
+It is widely regarded as one of the masterpieces of ancient near-eastern wisdom literature and has been of particular interest to modern scholars because of its similarity to the later biblical Book of Proverbs.
 
 **Psalm 1**
 
-Blessed is the one who does not walk in step with the wicked
+Blessed is the one who does not walk in step with the wicked
 
-or stand in the way that sinners take
-or sit in the company of mockers,
-but whose delight is in the law of the Lord,
-and who meditates on his law day and night.
+or stand in the way that sinners take
+or sit in the company of mockers,
+but whose delight is in the law of the Lord,
+and who meditates on his law day and night.
 
-That person is like a tree planted by streams of water,
-which yields its fruit in season
-and whose leaf does not wither—
+That person is like a tree planted by streams of water,
+which yields its fruit in season
+and whose leaf does not wither—
 whatever they do prospers.
 
 Not so the wicked!
 They are like chaff that the wind blows away.
-Therefore the wicked will not stand in the judgment,
-nor sinners in the assembly of the righteous.
+Therefore the wicked will not stand in the judgment,
+nor sinners in the assembly of the righteous.
 
-For the Lord watches over the way of the righteous,
+For the Lord watches over the way of the righteous,
 but the way of the wicked leads to destruction.
 <br style="clear:both;"/>
 
@@ -250,7 +250,7 @@ Anzura Admin
 <img src="/image/article/The_Arena/Aust-NZ-snip-300x207.jpg" alt="Arena newsletter">
 </figure>
 
-The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
+The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
 
 It is our intention not to encumber our work for the spreading of _The Urantia Book_ and its teachings with church, temple, or other spiritual institutions. Our members have come to recognise the significance of the book and the integrated beauty of its supernal teachings which encourage us to develop our own philosophy through study, experience, decisions, and actions. Nevertheless, we hold the view, and recognise that collectively there are many valuable projects and programs we can undertake together to achieve our goals.
 
@@ -315,7 +315,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2022/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-winter-2022/)
 
 <figure class="table chapter-navigator">
   <table>

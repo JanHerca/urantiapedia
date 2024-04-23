@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
 </figure>
 
-Urantia Association of the Netherlands (UAISUN) invites you to attend the 10th International Conference of Urantia Association International in **Amsterdam, The Netherlands**.
+Urantia Association of the Netherlands (UAISUN) invites you to attend the 10th International Conference of Urantia Association International in **Amsterdam, The Netherlands**.
 
 Our conference theme is **‘Jesus as a Teacher’** and we are inviting students of _The Urantia Book_ from all over the world. The subtitle is ‘Are You Ready to Live His Teachings In the 21st Century?’ This question calls us to explore what we know about Jesus’ teachings, his personal religion, and his message to us today. The program will inspire us to be true followers of Jesus and his teachings, and become the leaders and teachers of the future. 
 <br style="clear:both;"/>
@@ -59,9 +59,9 @@ The language spoken during the conference will be English but we are offering si
 
 Plan your trip to our Conference 12-15 April 2018 right now and explore the great location in the middle of the flower fields during the wonderful blossoming season in the Netherlands near Amsterdam.
 
-Sign up for this memorable event and receive an **Early Bird discount of €75** if you register before the 1<sup>st</sup> of October 2017.
+Sign up for this memorable event and receive an **Early Bird discount of €75** if you register before the 1<sup>st</sup> of October 2017.
 
-Click on the following link: [http://www.uai2018.org/](http://www.uai2018.org/) to register for the event and to book your room. 
+Click on the following link: [http://www.uai2018.org/](http://www.uai2018.org/) to register for the event and to book your room. 
 
 ### Encourage Urantia Book Students
 

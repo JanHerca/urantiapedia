@@ -42,7 +42,7 @@ By Susan Hemmingsen, Kirikiriroa, NZ
 
 ## 2020 ANZURA Conference
 
-I am happy to relate that things are going well in New Zealand and preparations/organisation is well underway for the ANZURA conference in Auckland next year (2020). We are using the same venue as our last New Zealand ANZURA conference, Vaughan Park, which is in the northern beach suburbs of Auckland.  ([https://vaughanpark.nz/venue](https://vaughanpark.nz/venue))
+I am happy to relate that things are going well in New Zealand and preparations/organisation is well underway for the ANZURA conference in Auckland next year (2020). We are using the same venue as our last New Zealand ANZURA conference, Vaughan Park, which is in the northern beach suburbs of Auckland.  ([https://vaughanpark.nz/venue](https://vaughanpark.nz/venue))
 
 
 ## Gathering of New Zealand Readers, Villa Ika, Taupo
@@ -53,7 +53,7 @@ Each year NZ readers try to get together somewhere in the country to connect wit
 <img src="/image/article/The_Arena/Group-Taupo-Meeting-300x225.jpg" alt="New Zealand Readers">
 </figure>
 
-Attendees were: (see photo) Neville Twist, Frances Potter, Susan Hemmingsen, Matt Hall, Norman Weiss, Diana Whakapapa, Ian Campbell and sitting in the front, Marion Steward.  Missing from this photo, Doug Cook, who joined us on Saturday. It was so good to meet the two new members of our online study group, Diana and Norman, in person and to find they are long-time readers and valuable members of our NZ group.
+Attendees were: (see photo) Neville Twist, Frances Potter, Susan Hemmingsen, Matt Hall, Norman Weiss, Diana Whakapapa, Ian Campbell and sitting in the front, Marion Steward.  Missing from this photo, Doug Cook, who joined us on Saturday. It was so good to meet the two new members of our online study group, Diana and Norman, in person and to find they are long-time readers and valuable members of our NZ group.
 
 The programme was, as usual, fairly loose, but on the agenda were a couple of sessions dealing with next year’s ANZURA conference theme, “2020 Vision Through a Cosmic Lens: Hindsight, Insight and Foresight.”
 
@@ -82,7 +82,7 @@ Diana is wanting to start a “face-to-face” group in Gisborne where participa
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/new-zealand-corner-summer-2019
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/12/16/new-zealand-corner-summer-2019)
 
 <figure class="table chapter-navigator">
   <table>

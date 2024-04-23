@@ -40,9 +40,9 @@ By Cecilia Ann Bendall, TAS
 <img src="/image/article/The_Arena/Cecilia-Ann-Bendall-249x300.jpg" alt="Cecilia Ann Bendall">
 </figure>
 
-One of the few topics that we are told led to Jesus being _stirred within his spirit_ was the inference that we should all see alike. When asked by James Zebedee _Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?_ (UB 141:5.1) Jesus replied: 
+One of the few topics that we are told led to Jesus being _stirred within his spirit_ was the inference that we should all see alike. When asked by James Zebedee _Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?_ (UB 141:5.1) Jesus replied: 
 
-> _“James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and_ **_freedom_** _before God. I do not desire that social harmony and fraternal_ **_peace_** _shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny._
+> _“James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and_ **_freedom_** _before God. I do not desire that social harmony and fraternal_ **_peace_** _shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny._
 > 
 > _“In this way you may experience a perfected unity of spirit purpose and spirit understanding growing out of the mutual consciousness of the identity of each of your indwelling_ **_Paradise_** _spirits; and you may enjoy all of this profound spiritual unity in the very face of the utmost diversity of your individual attitudes of intellectual thinking, temperamental feeling, and social conduct. Your personalities may be refreshingly diverse and markedly different, while your spiritual natures and spirit fruits of divine worship and brotherly love may be so unified that all who behold your lives will of a surety take cognizance of this spirit identity and soul unity; they will recognize that you have been with me and have thereby learned, and acceptably, how to do the will of the Father in heaven. You can achieve the unity of the service of God even while you render such service in accordance with the technique of your own original endowments of mind, body, and soul._
 > 
@@ -62,7 +62,7 @@ We also seem to feel that we need to, (a) suppress our viewpoints as the price o
 
 As the prime subject of my research into how the human being thinks, I watch myself, again and again, listening to another’s viewpoint on a ‘religious/spiritual’ topic, the certitude or conviction in their tone that they are speaking a universal truth, followed by my expressing my opinion in relation to a topic. On a passionate topic like religion, on many occasions the discussion quickly deteriorates into a significant debate into who is ‘right’ and who is ‘wrong’ with a bias to display absolutely no respect for the other’s current reality, in our need to educate them in the error of their belief.
 
-This is despite Jesus never doing this. To him, “.…_the true teacher maintains his intellectual integrity by ever remaining a learner.”_ (<a id="a64_138"></a>[UB 130:3.7](/en/The_Urantia_Book/130#p3_7))
+This is despite Jesus never doing this. To him, “.…_the true teacher maintains his intellectual integrity by ever remaining a learner.”_ (<a id="a64_138"></a>[UB 130:3.7](/en/The_Urantia_Book/130#p3_7))
 
 I amaze myself in how I can so quickly become emotionally attached to my viewpoint and dismiss another’s differing opinion as being born of ignorance, accompanied by a penchant on my part to infer this to them.
 
@@ -80,7 +80,7 @@ After reading _The Urantia Book_ I appreciated how important it was to respect a
 
 Reared a Catholic I had a rough idea of this religion and, having a friend who decided to convert to Catholicism in the early 2000’s, was able to appreciate the amazing transfer of emphasis from Jesus as the Son of God to Jesus as The Son of Man that has occurred, commencing at around the late 1960’s in this religion (thanks to people such as Thomas Merton).
 
-So, I read on most other religions, including reading their ‘holy books’, plus lots of New Age beliefs.  To aid in this process I had the record of Jesus’ and Ganid’s project of seeking the best in holy books and writings. I discovered such gems, such as Jesus being regarded in the Islamic faiths as the most beloved of Allah’s prophets, as exemplified by his being taken to Heaven alive.
+So, I read on most other religions, including reading their ‘holy books’, plus lots of New Age beliefs.  To aid in this process I had the record of Jesus’ and Ganid’s project of seeking the best in holy books and writings. I discovered such gems, such as Jesus being regarded in the Islamic faiths as the most beloved of Allah’s prophets, as exemplified by his being taken to Heaven alive.
 
 I have found that reading about other religions has aided me in respecting that no one needs converting, and how important it is only to give advice if asked for, and phrase it as “this is my current belief”.
 
@@ -90,7 +90,7 @@ more articles of Cecilia Ann Bendall can be found in the archives of [_Innerface
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/think-alike-necessary-or-unnecessary
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/02/10/think-alike-necessary-or-unnecessary)
 
 <figure class="table chapter-navigator">
   <table>

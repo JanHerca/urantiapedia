@@ -111,7 +111,7 @@ To help the greatest number of people to participate in this event, we invite yo
 We look forward to welcoming you to the Sacred Valley of the Incas, in Cusco, Peru!
 
 _Lourdes Burga-Cisneros_  
-_President, Urantia Peru National Association_  
+_President, Urantia Peru National Association_  
 Email: [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.com)
 
 _Antonio Schefer_  

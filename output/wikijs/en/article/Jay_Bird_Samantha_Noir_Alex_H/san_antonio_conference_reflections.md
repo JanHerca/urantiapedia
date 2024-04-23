@@ -99,7 +99,7 @@ Special thanks go to the Lone Star Urantia Association of San Antonio, the North
 
 Love to you!  
 Alexander H, Cologne,  
-Board Member and Ambassador of Urantia-DACH  
+Board Member and Ambassador of Urantia-DACH  
 Urantia Young Adult International committee member
 
 ## References

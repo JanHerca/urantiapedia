@@ -153,7 +153,7 @@ The reading of The Urantia Papers by oneself is certainly important as an introd
 
 Urantia Book study groups are essential for at least the following reasons:
 
-- _Study groups_ are the place where religionists can share their faith with others and can build the social brotherhood of believers by intimate association. The progress of one study group attendee can benefit the other attendees, and the progress of the group can benefit each member of the group.  One for all and all for one.
+- _Study groups_ are the place where religionists can share their faith with others and can build the social brotherhood of believers by intimate association. The progress of one study group attendee can benefit the other attendees, and the progress of the group can benefit each member of the group.  One for all and all for one.
 - _Study groups_ offer a friendly and secure environment to welcome new readers and to study the book with other readers.
 - _Study groups_ are a place where team spirit is fostered and where creative teamwork is exercised.
 - _Study groups_ develop a dynamic for growth, a cross-fertilizing of ideas and ideals conducive for training teachers and leaders.
@@ -206,7 +206,7 @@ We will analyze these four elements later in the presentation.
 After the reading of paragraphs, the leader-facilitator might ask questions to stimulate discussion.
 
 - _Questioning_ transforms a passive reader into an active seeker and makes it easier for the Thought Adjuster and the Spirit of Truth to participate.
-- _Questioning_ is non-invasive, non-coercive, non-destructive,  non-interpretive, and quite Jesusonian. It is respectful of participant’s free will and does not force nor control the mind.
+- _Questioning_ is non-invasive, non-coercive, non-destructive,  non-interpretive, and quite Jesusonian. It is respectful of participant’s free will and does not force nor control the mind.
 - _Questioning_ has the potential to open the mind to a new perspective.
 - _Questioning_ encourages sharing and brotherhood.
 - _Questioning_ enhances the possibility that the study group members will discover answers for and by themselves.
@@ -242,7 +242,7 @@ In preparing for the meeting, the teacher will be keen to research the questions
 
 Recall that in the second paragraph on page 1 of the Foreword, a Divine Counselor states that the purpose of _The Urantia Book_ is “to expand cosmic consciousness and enhance spiritual perception.” The expansion of cosmic consciousness is more intellectual in nature. And often we lose the significance of intellectual concepts because we do not connect them with our day-to-day life. During study group discussions, the study group leader-facilitator should do his or her best to associate the intellectual concepts with the real life of the study group attendees by bringing the teachings to the experiential level.
 
-To illustrate this approach, let us take the following example: The concept of “mind spiritualization” is somewhat vague. 
+To illustrate this approach, let us take the following example: The concept of “mind spiritualization” is somewhat vague. 
 
 First, using thought-provoking questions, the leader-facilitator brings the study group attendees to the realization that mind spiritualization involves a day-to-day exercise of choice between the egoism of the animal nature and the altruism of spiritual nature, between the impulses of the animal nature and the meanings and values of the spiritual nature.
 
@@ -258,7 +258,7 @@ For instance, the following paragraph explains the survival technique, but the c
 
 After the above paragraph has been read, the leader-facilitator might facilitate understanding of the paragraph by cross-referencing as follows:
 
-“Those adjustments of the human will” refers to the innate capacity of choice of the personality’s free-will between the relative right and wrong. By reading  <a id="s260_159"></a>[UB 16:6.4](/en/The_Urantia_Book/16#p6_4), one finds additional explanation of the mechanism of the Cosmic Mind in personality. Also, by reading  <a id="s260_305"></a>[UB 16:8.7](/en/The_Urantia_Book/16#p8_7), one finds the different situations in which the free will of the personality is involved:
+“Those adjustments of the human will” refers to the innate capacity of choice of the personality’s free-will between the relative right and wrong. By reading  <a id="s260_159"></a>[UB 16:6.4](/en/The_Urantia_Book/16#p6_4), one finds additional explanation of the mechanism of the Cosmic Mind in personality. Also, by reading  <a id="s260_305"></a>[UB 16:8.7](/en/The_Urantia_Book/16#p8_7), one finds the different situations in which the free will of the personality is involved:
 
 “Those transformations in the mortal mind” refers to the acceptance of the mortal mind to cooperate with the Thought Adjuster through repetitive choice of right versus wrong, the altruistic urge versus the egoistic inclination. In Paper 110, section 3 <a id="s262_252"></a>[UB 110:3](/en/The_Urantia_Book/110#p3), a Solitary Messenger explains how to improve cooperation with the Thought Adjuster and in 111:1 <a id="s262_389"></a>[UB 111:1](/en/The_Urantia_Book/111#p1). It dissects the mental framework in which personality choices are made.
 

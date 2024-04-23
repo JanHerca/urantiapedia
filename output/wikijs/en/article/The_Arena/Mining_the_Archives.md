@@ -34,7 +34,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 </figure>
 
 
-> _(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from Innerface Newsletter, September 2002.** Additional note: The next two articles in this issue of Arena-Winter 2021 by William Wentworth and Nigel Nunn are thoughts inspired by this 2002 article of Gen Glasziou’s.)_
+> _(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from Innerface Newsletter, September 2002.** Additional note: The next two articles in this issue of Arena-Winter 2021 by William Wentworth and Nigel Nunn are thoughts inspired by this 2002 article of Gen Glasziou’s.)_
 {.is-info}
 
 ## Mathematics and Science Catch up with _The Urantia Book_
@@ -53,7 +53,7 @@ The foundation for logical thinking was laid by the Greeks way back in ancient t
 
 Isaac Newton started a revolution when he converted physics into a branch of mathematics. For scientists this meant that Euclidian geometry having for its foundation a set of axioms held to be self-evident and not requiring formal proof was also a foundation stone of their physics.
 
-A major work to put mathematics on a more reliable foundation was undertaken by the outstanding German mathematician, Gottlob Frege, who had already published the first volume of a highly acclaimed work and had the second ready for press when a short letter from Bertrand Russell pointed out what would seem to be a trivial and unimportant question. “Is the set of all sets a member of itself?” This apparently harmless question completely undermined Frege’s work and caused him to add an admission to his second volume that the whole of the work was now useless.
+A major work to put mathematics on a more reliable foundation was undertaken by the outstanding German mathematician, Gottlob Frege, who had already published the first volume of a highly acclaimed work and had the second ready for press when a short letter from Bertrand Russell pointed out what would seem to be a trivial and unimportant question. “Is the set of all sets a member of itself?” This apparently harmless question completely undermined Frege’s work and caused him to add an admission to his second volume that the whole of the work was now useless.
 
 Next on the list of similar calamities was Principia Mathematica, an enormous work by Whitehead and Russell which apparently found a way around Frege’s problem but later fell victim to the work of Kurt Gödel in 1929. Effectively Gödel’s work means that any system of axioms that is complete enough to be useful cannot do otherwise than contain unprovable truths. So how can we know whether they are true truths? Practically this means that each system must be subjected to rigorous experimental testing. It also means that we have no way of guaranteeing that a flaw will not appear at some future time—we can never be absolutely certain that it will not.
 
@@ -71,7 +71,7 @@ _There is a theory which states if anyone discovers exactly what the universe is
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/mining-archives-glasziou
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/07/29/mining-archives-glasziou)
 
 <figure class="table chapter-navigator">
   <table>

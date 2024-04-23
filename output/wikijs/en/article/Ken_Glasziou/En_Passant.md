@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-Interestingly, the ancient Greeks planted the germ of a concept that grew and flowered as  the concept of “possibilities.” It was summarized by Plato as being “ideas” that exist in themselves from which all else derives.
+Interestingly, the ancient Greeks planted the germ of a concept that grew and flowered as  the concept of “possibilities.” It was summarized by Plato as being “ideas” that exist in themselves from which all else derives.
 
 The idea of a “Supreme Being” at the head of a world of persons was added by philosopher, R.P. Bowne in the late 19th century.
 

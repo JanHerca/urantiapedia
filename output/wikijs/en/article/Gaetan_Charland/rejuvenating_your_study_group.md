@@ -44,7 +44,7 @@ Many study groups have come and gone since the time of the first publication of 
 
 > _The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men_. <a id="a44_142"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
-I use this quote to highlight the importance of living life according to Jesus’s teachings, not to preach about him as so many believers are prone to do; to live the truth that Jesus so eloquently preached to the best of our ability not only in words but as living examples of the Fatherhood of God and the brotherhood of men.
+I use this quote to highlight the importance of living life according to Jesus’s teachings, not to preach about him as so many believers are prone to do; to live the truth that Jesus so eloquently preached to the best of our ability not only in words but as living examples of the Fatherhood of God and the brotherhood of men.
 
 > _“I declare that the kingdom of heaven is the realization and acknowledgment of God’s rule within the hearts of men.”_ <a id="a48_121"></a>[[UB 141:2.1](/en/The_Urantia_Book/141#p2_1)]
 
@@ -54,7 +54,7 @@ I use this quote to highlight the importance of living life according to Jesus�
 <img src="/image/article/IUA_Tidings/Study-Group-2011-300x224.jpg">
 </figure>
 
-Why did the Revelators urge us to create thousands of study groups and train leaders and teachers? They had a plan in mind; a plan that looked so simple in its application that we have often failed to see its far-reaching mission to change the spiritual mindset of the world. To change that mindset, shouldn’t we transform ourselves to be the carriers of this change? Shouldn’t study groups be a place that provide the means where we can be helped, and help others to do just that?
+Why did the Revelators urge us to create thousands of study groups and train leaders and teachers? They had a plan in mind; a plan that looked so simple in its application that we have often failed to see its far-reaching mission to change the spiritual mindset of the world. To change that mindset, shouldn’t we transform ourselves to be the carriers of this change? Shouldn’t study groups be a place that provide the means where we can be helped, and help others to do just that?
 
 How can we answer the call to create thousands of study groups and train leaders and teachers? Shouldn’t we first do everything we can to make our study groups more stimulating both intellectually and spiritually? How can we do that? Should we have a plan? A wise man by the name of Benjamin Franklin once said, “If you fail to plan, you are planning to fail!” I believe he was right; if we fail to have a plan for our study groups, we probably will fail in the mission we were given.
 <br style="clear:both;"/>

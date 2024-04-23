@@ -46,7 +46,7 @@ The name and subject of the Conference will be _The Teacher and The Student_. Th
 
 [Lancaster House](http://www.lancasterhouse.com.co/), Bogotá, Colombia
 
-_This conference is hosted by the **Bogotá Urantia Association** and s__ponsored by Urantia Association International, Urantia Foundation and Urantia Book Fellowship_ 
+_This conference is hosted by the **Bogotá Urantia Association** and s__ponsored by Urantia Association International, Urantia Foundation and Urantia Book Fellowship_ 
 
 **Latin American Leadership Scholarship**
 
@@ -56,7 +56,7 @@ If we are able to bring enough Latin American leaders to this conference we will
 
 **REGISTRATION**
 
-Registrations must be made no later than 7 October, 2016! Conference Package without lodging USD$180.
+Registrations must be made no later than 7 October, 2016! Conference Package without lodging USD$180.
 
 [Register Now](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
 
@@ -64,7 +64,7 @@ For registration related questions email to: [latinamericanconference@urantia-as
 
 **TRANSFER**
 
-Transportation from the [airport](http://eldorado.aero/en/) to the hotel will be provided free to those who need it after registration. They will be contacted by the organizers to confirm their arrival date and time. The Lancaster House is in the northern part of the city and is a four star hotel. 
+Transportation from the [airport](http://eldorado.aero/en/) to the hotel will be provided free to those who need it after registration. They will be contacted by the organizers to confirm their arrival date and time. The Lancaster House is in the northern part of the city and is a four star hotel. 
 
 Lancaster House
 
@@ -73,7 +73,7 @@ Bogotá – Colombia
 +571 629 1100  
 [Website hotel](http://www.lancasterhouse.com.co/)  
 Email [reservas@lancasterhouse.com.co](mailto:%20reservas@lancasterhouse.com.co)  
-Google Maps [click here](https://goo.gl/maps/JZKE1V32qe42)
+Google Maps [click here](https://goo.gl/maps/JZKE1V32qe42)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/hotel-1-706x454.jpg">
@@ -145,13 +145,13 @@ These are the conference packages with lodging prices:
 1. **For Colombian residents:** Please go to [www.urantiabogota.com](http://www.urantiabogota.com/) and follow the instructions provided.
 2. **For visitors outside of Colombia:** The instructions are as follows: 
 
-To register your Conference Package with or without lodging, you have to use RegOnline by Lanyon. There you can pay with Credit card, Paypal and via wire transfer.
+To register your Conference Package with or without lodging, you have to use RegOnline by Lanyon. There you can pay with Credit card, Paypal and via wire transfer.
 
-You can register your Conference Package with or without lodging [here](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
+You can register your Conference Package with or without lodging [here](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
 
 https://youtu.be/8JyWjeXjyZo
 
-Let us know if you want to share a room when you register. Please note if you have not reserved a room with the hotel, or us we cannot guarantee you will have a room at the hotel during the event! We have a limited number of Junior Suites for 1 person so register as soon as you can if this has your preference
+Let us know if you want to share a room when you register. Please note if you have not reserved a room with the hotel, or us we cannot guarantee you will have a room at the hotel during the event! We have a limited number of Junior Suites for 1 person so register as soon as you can if this has your preference
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/hotelpicturesmixed-Lancaster-Houset-big-706x507.jpg">
@@ -159,7 +159,7 @@ Let us know if you want to share a room when you register. Please note if you h
 
 **PAYMENT**
 
-Your conference package with lodging needs to be paid to us in USD via RegOnline by Lanyon. We will use RegOnline for an easy and safe collection of payments. There you can pay with Credit card, Paypal and via wire transfer.
+Your conference package with lodging needs to be paid to us in USD via RegOnline by Lanyon. We will use RegOnline for an easy and safe collection of payments. There you can pay with Credit card, Paypal and via wire transfer.
 
 You can register [here](https://www.regonline.com/Register/Checkin.aspx?EventId=1847691)
 
@@ -191,9 +191,9 @@ Link to the [Poster](http://urantia-association.org/wp-content/uploads/2016/05/P
 <img src="/image/article/IUA_Tidings/Poster-Teacher-and-Student-ENG-508x706.jpg">
 </figure>
 
-**_Note_**_: This conference is hosted by the Bogotá Urantia Association and sponsored by Urantia Association International, Urantia Foundation and The Urantia Book Fellowship_ 
+**_Note_**_: This conference is hosted by the Bogotá Urantia Association and sponsored by Urantia Association International, Urantia Foundation and The Urantia Book Fellowship_ 
 
-Link to the Latin American Event [PDF Brochure](http://urantia-association.org/wp-content/uploads/2016/05/Latin-American-Urantia-Event-Brochure.pdf)
+Link to the Latin American Event [PDF Brochure](http://urantia-association.org/wp-content/uploads/2016/05/Latin-American-Urantia-Event-Brochure.pdf)
 
 ## References
 

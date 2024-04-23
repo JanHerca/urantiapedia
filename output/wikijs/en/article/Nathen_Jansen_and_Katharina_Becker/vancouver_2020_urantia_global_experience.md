@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-**University of the Fraser Valley, BC  Canada**
+**University of the Fraser Valley, BC  Canada**
 
 **July 28 to August 1, 2020**
 
@@ -55,7 +55,7 @@ To implement these grand ideals, we need your help. We are currently taking appl
 
 - **Facilitator Pairs** – are required to moderate the discussions in both Focus Groups and Vision Teams. These discussions will focus on the 12 points of progressive civilization as placed in the context of working with the Supreme, and all Facilitators should be conversant in these areas.
 - **Presenters** – further discussions (Visionary Explorations) are dedicated to the advancement of civilization through current active projects, planned projects, and great ideas for new projects.
-- **Volunteers** – anyone who would like to lend a helping hand as custodians or ushers, as well as setting up equipment, cleaning, or doing a great variety of minor chores. We also need people who would like to sing in our choir.
+- **Volunteers** – anyone who would like to lend a helping hand as custodians or ushers, as well as setting up equipment, cleaning, or doing a great variety of minor chores. We also need people who would like to sing in our choir.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Choir2.jpg">

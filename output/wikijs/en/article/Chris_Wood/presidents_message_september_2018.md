@@ -46,7 +46,7 @@ One recent example of this is “personality,” which in a book that has person
 
 > _…it would be presumptuous to attempt the definition of personality…_ <a id="a46_72"></a>[[UB 112:0.2](/en/The_Urantia_Book/112#p0_2)]
 
-but then randomly in the Sojourn at Rome, a midwayer decides that it’s apparently not presumptuous, it’s just, umm… sumptuous? …  for us to be told that:
+but then randomly in the Sojourn at Rome, a midwayer decides that it’s apparently not presumptuous, it’s just, umm… sumptuous? …  for us to be told that:
 
 
 > _The presence of goodness and evil in the world is in itself positive proof of the existence and reality of man’s moral will, the personality…_ <a id="a51_146"></a>[[UB 132:2.8](/en/The_Urantia_Book/132#p2_8)]

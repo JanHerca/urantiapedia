@@ -82,7 +82,7 @@ President, ANZURA
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/presidents-report-december-2019
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/12/16/presidents-report-december-2019)
 
 <figure class="table chapter-navigator">
   <table>

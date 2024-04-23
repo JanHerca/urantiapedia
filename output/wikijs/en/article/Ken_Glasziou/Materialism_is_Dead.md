@@ -35,7 +35,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 "There is a divine mind somewhere concealed in the universe." Thousands upon thousands of the philosophically minded would have made a similar assertion over the ages. In this century, many quantum physicists have expressed this same thought, but not simply as a phenomenon of rational thinking.""
 
-Rather, it is because of their experimental work and the hard evidence gained from empirical testing that they have been led to speculate on the reality of an intelligence, perhaps operating in another dimension of space and time, that appears to participate in ordering the outcome of  experiments done at the atomic level or below.
+Rather, it is because of their experimental work and the hard evidence gained from empirical testing that they have been led to speculate on the reality of an intelligence, perhaps operating in another dimension of space and time, that appears to participate in ordering the outcome of  experiments done at the atomic level or below.
 
 Two of the greatest, Werner Heisenberg and Wolfgang Pauli, both Nobel laureates, called this "out there somewhere" intelligence, "the Central Order of Things." Others have used terms such as "Universal Consciousness" for this hypothetical intelligence.
 
@@ -153,7 +153,7 @@ To extend these results, the mirror reflecting the up spinning electrons so as t
 
 It is well worth while pondering upon these results and making sure they are well understood. The apparatus used was a constant throughout. The only possible interpretation appears to be concerned with what the observer is allowed to know and it is difficult to see how anything other than an intelligence 'out there somewhere' applied the rule prohibiting simultaneous knowledge of both up/down and left/right spin attributes.
 
- In recent years, quantum effects have graduated to the "real world" in experiments not only with work with sodium atoms but also with what are called Bose-Einstein condensates (BEC's). Proposed early in the twentieth century, these BEC's were expected to occur when gases condensed to a solid state at extremely low temperatures and in such a way that they formed a giant molecule with its millions of atoms all in a single state of super-positioning. Only very recently has it been technically possible to achieve the very low temperature conditions in which BEC's will form. In one reported experiment  two such condensates, both large enough to be visible to the naked eye, were brought together in a way that permitted their wave components to form an interference pattern with one another.
+ In recent years, quantum effects have graduated to the "real world" in experiments not only with work with sodium atoms but also with what are called Bose-Einstein condensates (BEC's). Proposed early in the twentieth century, these BEC's were expected to occur when gases condensed to a solid state at extremely low temperatures and in such a way that they formed a giant molecule with its millions of atoms all in a single state of super-positioning. Only very recently has it been technically possible to achieve the very low temperature conditions in which BEC's will form. In one reported experiment  two such condensates, both large enough to be visible to the naked eye, were brought together in a way that permitted their wave components to form an interference pattern with one another.
 
 > As long as our brain is a mystery, the universe, the reflection of the structure of the brain, will also be a mystery. 
 > 
@@ -171,7 +171,7 @@ Quantum theory collapsed all that. It states there is no certainty, only probabi
 
 What do the Urantia Papers have to say that might help us to understand mind and consciousness? Dispersed throughout its pages, it describes a hierarchical structure with the mind of the Infinite Spirit at the apex.
 
- We are told that consciousness and self-conscious are, to some extent, properties of mind. However, subjective self-consciousness derives mainly from personality which is a direct gift from the Universal Father. What we normally think of simply as mind is actually a complex. It is in partnership with our personality which adds its own inherent properties to the partnership. Our minds also interact with divine spirit, directly with the indwelling spirit of the Father, and also with the Spirit of Truth representing the combined spirits of the Father and Creative Son.
+ We are told that consciousness and self-conscious are, to some extent, properties of mind. However, subjective self-consciousness derives mainly from personality which is a direct gift from the Universal Father. What we normally think of simply as mind is actually a complex. It is in partnership with our personality which adds its own inherent properties to the partnership. Our minds also interact with divine spirit, directly with the indwelling spirit of the Father, and also with the Spirit of Truth representing the combined spirits of the Father and Creative Son.
 
 Another aspect of mind is non-teachable or mechanical mind. It is the "mind" of primitive creatures and comes under the direction of the Master Physical Controllers--who may also be responsible for supervising the quantum rules?
 
@@ -185,7 +185,7 @@ When the Papers were received in the 1920-35 period only a handful of physicists
 
 > "The finite universe of matter would eventually become uniform and deterministic but for the combined presence of mind and spirit. The influence of the cosmic mind constantly injects spontaneity into even the material worlds." (<a id="a185_230"></a>[UB 195:6.15](/en/The_Urantia_Book/195#p6_15))
 
-From which it may be discerned that whoever wrote the Urantia Papers was fully aware of these fundamentals long before science and its empirical evidence commenced its revelation of  experimentally demonstrable facts.
+From which it may be discerned that whoever wrote the Urantia Papers was fully aware of these fundamentals long before science and its empirical evidence commenced its revelation of  experimentally demonstrable facts.
 
 > The remarkable thing about the human mind is its range of limitations.
 >
@@ -196,7 +196,7 @@ From which it may be discerned that whoever wrote the Urantia Papers was fully a
 >   Peter de Vries
 
 
-> Addendum: An analogy that may assist our comprehension of the mind problem is to think of cosmic mind as a ‘field,’ (similar to  the electromagnetic fields that can be made visible with iron filings). The cosmic mind field permeates the whole universe and, like an electromagnetic field, it can be manipulated. It is the Universe Mother-Spirit who manipulates the interaction of cosmic mind with the neuro-anatomy of our brains in ways that permit us to think and to experience self-consciousness and God-consciousness.
+> Addendum: An analogy that may assist our comprehension of the mind problem is to think of cosmic mind as a ‘field,’ (similar to  the electromagnetic fields that can be made visible with iron filings). The cosmic mind field permeates the whole universe and, like an electromagnetic field, it can be manipulated. It is the Universe Mother-Spirit who manipulates the interaction of cosmic mind with the neuro-anatomy of our brains in ways that permit us to think and to experience self-consciousness and God-consciousness.
 {.is-info}
 
 ## External links

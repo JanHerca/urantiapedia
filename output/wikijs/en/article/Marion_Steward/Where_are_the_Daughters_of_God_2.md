@@ -24,7 +24,7 @@ Our mission here on this planet is to strive to become Godlike, but the leap fro
 
 He named himself the Son of Man, and the Son of God.
 
-The Universe is teeming with Sons of God, starting with the Eternal Son, then all the descending Sons, the Paradise Sons of God—Creator Sons, Magisterial Sons, and Trinity Teacher Sons; then the Local Universe Sons of God–Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, and the Life Carriers; and numerous, unrevealed orders of Trinitized Sons.  Then we have the ascending Sons—Father-fused, Son-fused and Spirit-fused mortals, evolutionary seraphim, ascending Material Sons, Translated Midwayers, personalized Adjusters.
+The Universe is teeming with Sons of God, starting with the Eternal Son, then all the descending Sons, the Paradise Sons of God—Creator Sons, Magisterial Sons, and Trinity Teacher Sons; then the Local Universe Sons of God–Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, and the Life Carriers; and numerous, unrevealed orders of Trinitized Sons.  Then we have the ascending Sons—Father-fused, Son-fused and Spirit-fused mortals, evolutionary seraphim, ascending Material Sons, Translated Midwayers, personalized Adjusters.
 
 A reader could easily come to the conclusion, then, that to be Godlike means to become a Son of God—but for those of us who find it difficult to see ourselves as sons, this poses a certain difficulty.
 
@@ -34,7 +34,7 @@ Of course, it may merely be a question of language. In the 1930’s there was no
 <img src="/image/article/The_Arena/DSC08738-300x225.jpg" alt="Marion Steward">
 </figure>
 
-The authors frequently bemoan the paucity of the English language, and the constraints they suffered in rendering this revelation into print—limitations imposed both by deficiencies in the language, and by the lack of advanced spiritual concepts on Urantia. When we start to learn ‘Nebadon-ese’ and ‘Satanian-ese’ as we progress through the mansion worlds, then we will undoubtedly discover a whole new range of useful vocabulary items, which we will need to express our enlarged ideas of the universe.  I look forward to reaching Havona, where …o_ne hour’s instruction is the equivalent of 10,000 years of the word-memory methods of Urantia_. (27:6.4, 303.2)
+The authors frequently bemoan the paucity of the English language, and the constraints they suffered in rendering this revelation into print—limitations imposed both by deficiencies in the language, and by the lack of advanced spiritual concepts on Urantia. When we start to learn ‘Nebadon-ese’ and ‘Satanian-ese’ as we progress through the mansion worlds, then we will undoubtedly discover a whole new range of useful vocabulary items, which we will need to express our enlarged ideas of the universe.  I look forward to reaching Havona, where …o_ne hour’s instruction is the equivalent of 10,000 years of the word-memory methods of Urantia_. (27:6.4, 303.2)
 
 However, I tend to believe that they deliberately used ‘son’ and other such gender-specific words to represent roles and function, rather than physical descriptions. In one telling sentence, the Eternal Son is also called the Universal Mother, a statement which clearly goes far beyond issues of sex differentiation.
 <br style="clear:both;"/>
@@ -53,7 +53,7 @@ The most notable of all these, as far as we mortals are concerned, the daughter 
 
 A study of the sections dealing with the Creator Son and the Daughter Spirit reveals a very close relationship of interdependence. Michael relies on the Spirit for her omnipresence, and she through him compensates for being bound by time. Together they can transcend both time and space. In the whole creation of the local universe, she is totally indispensable—she provides the mind for each creature, she provides the life spark, she creates the Seven Adjutant Spirits who foster the mind development of all creatures, and she ministers to all human beings through her own Holy Spirit.
 
-This Daughter of God has many attributes which I would dearly love to emulate, but unfortunately, God has not organized the universe like that.  We cannot hope to be omnipresent, useful though it would be, and neither can we ever aspire to be able to bestow mind, physical matter, or the vital life spark on other beings in the same way that she does—though clearly, those of us who are lucky enough to be mothers have some pale experience of this in a human way in the administration of our homes and families.
+This Daughter of God has many attributes which I would dearly love to emulate, but unfortunately, God has not organized the universe like that.  We cannot hope to be omnipresent, useful though it would be, and neither can we ever aspire to be able to bestow mind, physical matter, or the vital life spark on other beings in the same way that she does—though clearly, those of us who are lucky enough to be mothers have some pale experience of this in a human way in the administration of our homes and families.
 
 As far as the relationship between this Daughter and Son is concerned, at the enthronement of Michael as a Master Son, our universe’s Creative Daughter Spirit acknowledged her subordination to him, and pledged fidelity and obedience. In return, Michael acknowledged his eternal dependence on her, and declared her to be co-ruler of his universe, and equal with him in personality and divine attributes.
 
@@ -63,7 +63,7 @@ What are the issues here for daughters to reflect on? Publicly declaring one’s
 
 So, what about other Daughters in the Universe? On a level far closer to ours, there are the Material Daughters, all the Eves. Though seldom in the Book are any Eves talked about on their own—almost always are they referred to as “the Material Son and Daughter.” On page 828 we read:
 
-> _The Material Sons and Daughters always serve together. It is the essence of their service at all times and in all places never to be separated.  They are designed to work in pairs; seldom do they function alone_. <a id="a65_216"></a>[[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)]
+> _The Material Sons and Daughters always serve together. It is the essence of their service at all times and in all places never to be separated.  They are designed to work in pairs; seldom do they function alone_. <a id="a65_216"></a>[[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)]
 
 Their chief task is to multiply and uplift the children of time and they contribute to the improvement of the races by cultural education, particularly in the physical, scientific and economic realms. They lead very much by example.
 
@@ -77,11 +77,11 @@ In studying the way of life of Adam and Eve, the theme of working together in eq
 
 This was a new idea for humans in those days, and who knows what sort of society we would all be living in now if it had not been for the default.
 
-The Material Sons and Daughters live permanently, of course, on the system capitals, and there are certainly a lot of them! At last count, there were 161,432,840 Material Sons and Daughters in Nebadon, and they all play a major part in the administration of those spheres and in the further training of mortal ascenders. They run the probationary nurseries on the finaliters’ world and take ascenders to live with them in their homes.  They model …_the ideals of the union of man and woman in the bonds of marriage and for the purpose of procreating and rearing offspring._ (<a id="a79_575"></a>[UB 83:8.5](/en/The_Urantia_Book/83#p8_5))
+The Material Sons and Daughters live permanently, of course, on the system capitals, and there are certainly a lot of them! At last count, there were 161,432,840 Material Sons and Daughters in Nebadon, and they all play a major part in the administration of those spheres and in the further training of mortal ascenders. They run the probationary nurseries on the finaliters’ world and take ascenders to live with them in their homes.  They model …_the ideals of the union of man and woman in the bonds of marriage and for the purpose of procreating and rearing offspring._ (<a id="a79_575"></a>[UB 83:8.5](/en/The_Urantia_Book/83#p8_5))
 
-So we now have two ideals of marriage, and this study of daughters is becoming also an examination of males and females, and the way they relate to each other.  What does the book have to say about male and female?
+So we now have two ideals of marriage, and this study of daughters is becoming also an examination of males and females, and the way they relate to each other.  What does the book have to say about male and female?
 
-> _Male and female are… two distinct varieties of the same species….Their viewpoints and entire life reactions are essentially different, they are wholly incapable of full and real comprehension of each other.”  This statement would strike a chord with most couples on this planet. ._ <a id="a83_285"></a>[[UB 84:6.3](/en/The_Urantia_Book/84#p6_3)]
+> _Male and female are… two distinct varieties of the same species….Their viewpoints and entire life reactions are essentially different, they are wholly incapable of full and real comprehension of each other.”  This statement would strike a chord with most couples on this planet. ._ <a id="a83_285"></a>[[UB 84:6.3](/en/The_Urantia_Book/84#p6_3)]
 
 This statement would strike a chord with most couples on this planet.
 
@@ -99,7 +99,7 @@ This may perhaps be stretching the point slightly, but the essential idea is tha
 
 > _With the Son and in the Spirit did God project eternal Havona, and ever since has there obtained the eternal pattern of co-ordinate participation in creation—sharing. This pattern of sharing is the master design for every one of the Sons and Daughters of God who go out into space to engage in the attempt to duplicate in time the central universe of eternal perfection._ <a id="a99_375"></a>[[UB 53:2.1](/en/The_Urantia_Book/53#p2_1)]
 
-And Michael himself, our own Creator Son who has worked with our own Creative Daughter Spirit for eons in the creation and administering of our own local universe, encouraged us to follow this example in our lives on Urantia. He stunned and amazed everybody in his advocating of the equality of women and in his equal treatment of them. Time after time the apostles would come across him talking to a woman by a well, or in the street, often a woman of less than desirable reputation, giving words of comfort and encouragement to these daughters of God.  Despite this, they were still utterly astonished when he set up the women’s corps of evangelists and issued an emancipation proclamation—so similar to the proclamation of equality with the Universe Mother Spirit which he issued at the termination of his bestowal on Urantia.
+And Michael himself, our own Creator Son who has worked with our own Creative Daughter Spirit for eons in the creation and administering of our own local universe, encouraged us to follow this example in our lives on Urantia. He stunned and amazed everybody in his advocating of the equality of women and in his equal treatment of them. Time after time the apostles would come across him talking to a woman by a well, or in the street, often a woman of less than desirable reputation, giving words of comfort and encouragement to these daughters of God.  Despite this, they were still utterly astonished when he set up the women’s corps of evangelists and issued an emancipation proclamation—so similar to the proclamation of equality with the Universe Mother Spirit which he issued at the termination of his bestowal on Urantia.
 
 In talks about marriage and divorce, he said:
 
@@ -119,4 +119,4 @@ Where, then, are the Daughters of God? They are everywhere—the spirit beings c
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/daughters-of-god
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/09/07/daughters-of-god)

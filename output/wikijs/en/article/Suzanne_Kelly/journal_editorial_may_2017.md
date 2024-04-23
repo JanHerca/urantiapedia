@@ -51,11 +51,11 @@ Charles tackles the nature and morontial significance of study groups, their str
 
 > _“With God the Supreme, **achievement** is the prerequisite to status—one must do something as well as be something.”_ <a id="a51_121"></a>[[UB 115:0.1](/en/The_Urantia_Book/115#p0_1)] (Emphasis added)
 
-The second article is _The Hallelujah Aftermath_ by Neal Waldrup. It is a melodious interpretation of _The Messiah_ by George Frideric Handel [^1] and its lyrical comparison of texts within _The Urantia Book_ 
+The second article is _The Hallelujah Aftermath_ by Neal Waldrup. It is a melodious interpretation of _The Messiah_ by George Frideric Handel [^1] and its lyrical comparison of texts within _The Urantia Book_ 
 
 > _“Hallelujah! For the Lord God omnipotent reigneth, the kingdom of our Lord and of His Christ; and he shall reign for ever and ever, King of Kings, and Lord of Lords.”_ 
 
-In the Paper entitled, _The Paradise Sons of God_ (_i.e.,_ Paper 21), a Perfector of Wisdom duplicates the phrase “King of Kings and Lord of Lords.”
+In the Paper entitled, _The Paradise Sons of God_ (_i.e.,_ Paper 21), a Perfector of Wisdom duplicates the phrase “King of Kings and Lord of Lords.”
 
 On the other hand, this seems substantially more likely to be an implicit reference to the corresponding verse in the Christian scriptures (i.e., Revelation 19:16), rather than a citation from the Hallelujah chorus. Nonetheless, we should bear in mind that the im­plicitly political overtones of the phrase “the kingdom of God” gave the early Christians considerable trouble, as the Midwayer Commission points out in Paper 170.
 
@@ -102,4 +102,4 @@ Suzanne Kelly
 ## Notes
 
 
-[^1]: Composed in 1741, but first performed in 1742.
+[^1]: Composed in 1741, but first performed in 1742.

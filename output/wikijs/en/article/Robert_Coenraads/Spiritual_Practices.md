@@ -140,7 +140,7 @@ For further information on the Practical Applications of meditation [click here 
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/06/25/spiritual-practices-for-walking-the-rope-an-invitation-to-intimacy-with-god
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/06/25/spiritual-practices-for-walking-the-rope-an-invitation-to-intimacy-with-god)
 
 <figure class="table chapter-navigator">
   <table>

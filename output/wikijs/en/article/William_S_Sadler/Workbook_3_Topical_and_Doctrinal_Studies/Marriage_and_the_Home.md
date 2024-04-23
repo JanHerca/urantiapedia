@@ -62,7 +62,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. Will modern woman be worthy of her newly won dignity and equality? <a id="s61_70"></a>[UB 84:5.10](/en/The_Urantia_Book/84#p5_10)
 3. Divorce will persist as long as young people are not properly prepared for marriage. <a id="s62_88"></a>[UB 83:7.8](/en/The_Urantia_Book/83#p7_8)
 4. The family-council of the Andites would be helpful today. <a id="s63_61"></a>[UB 84:7.29](/en/The_Urantia_Book/84#p7_29)
-5. The differences between men and women persist throughout the ascendant career—even in the Corps of Finality. <a id="s64_112"></a>[UB 84:6.6](/en/The_Urantia_Book/84#p6_6)
+5. The differences between men and women persist throughout the ascendant career—even in the Corps of Finality. <a id="s64_112"></a>[UB 84:6.6](/en/The_Urantia_Book/84#p6_6)
 
 
 <br>

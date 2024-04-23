@@ -50,7 +50,7 @@ Since the Milky Way is more fun to discuss than collapsed matter, let’s begin 
 <img src="/image/article/IUA_Journal/MW_map-Nigels-706x487.jpg">
 </figure>
 
-With regard to distances, we are warned that our use of redshift to estimate distances **in outer space** will lead to wildly erroneous estimates. <a id="a52_147"></a>[[UB 12:4.14](/en/The_Urantia_Book/12#p4_14)]
+With regard to distances, we are warned that our use of redshift to estimate distances **in outer space** will lead to wildly erroneous estimates. <a id="a52_147"></a>[[UB 12:4.14](/en/The_Urantia_Book/12#p4_14)]
 
 On the other hand, they confirm that our toolbox of astrometric techniques should allow us to measure **local** distances “most precisely.” <a id="a54_140"></a>[[UB 41:3.10](/en/The_Urantia_Book/41#p3_10)] Encouraged by this comment, in this first picture I show some of the local features we’ve been able to measure, together with that surprising distance of “**200,000** light years” to Uversa. <a id="a54_377"></a>[[UB 32:2.11](/en/The_Urantia_Book/32#p2_11)]
 
@@ -78,7 +78,7 @@ What might this distribution look like from above? If we were Force Organizers l
 
 I expect that we’d also find all ten major sectors are “co-planar,” i.e. they share a common plane. Let’s speculate about the distribution of these major sectors within such a “superuniverse plane.”
 
-Recall that these ten sectors are arranged so that the “length” of Orvonton is “far greater than the breadth” <a id="a80_110"></a>[[UB 15:3.2](/en/The_Urantia_Book/15#p3_2)].  Think what this implies:  since it’s 250,000 light years from the outskirts (near Nebadon) to Uversa, and since Uversa is centrally located, should we assume that Orvonton extends (more or less) a similar distance on the opposite side? If so, then this implies a “length” for Orvonton on the order of **400,000 to 500,000** light years.
+Recall that these ten sectors are arranged so that the “length” of Orvonton is “far greater than the breadth” <a id="a80_110"></a>[[UB 15:3.2](/en/The_Urantia_Book/15#p3_2)].  Think what this implies:  since it’s 250,000 light years from the outskirts (near Nebadon) to Uversa, and since Uversa is centrally located, should we assume that Orvonton extends (more or less) a similar distance on the opposite side? If so, then this implies a “length” for Orvonton on the order of **400,000 to 500,000** light years.
 
 But they reveal that this **length** is far greater than Orvonton’s **breadth**. From what we can see given our location in space, native astronomers estimate the breadth of this system to be about 100,000 light years. Despite our view of things being greatly obscured, we can nevertheless conclude that Orvonton must have a distinctly elongated shape, extruded by the **tidal** effects of Paradise gravity (acting for over a **trillion** years) towards the center of all things.
 
@@ -102,35 +102,35 @@ But in Paper 15, section 3, they also explain that the local universes of Orvont
 <img src="/image/article/IUA_Journal/Massive-Orvonton4-706x291.jpg">
 </figure>
 
-Given what the authors chose to reveal, it looks like the so-called “sun-forming nebula” centered on and rotating about Sagittarius A\* (**SgrA\***), must be much more than a local universe, but somewhat less than a superuniverse.  Which implies that this vast spiral may actually form the bulk of a single major sector (Splandon), and that the other nine major sectors tend to contract and cluster on the Havona side.
+Given what the authors chose to reveal, it looks like the so-called “sun-forming nebula” centered on and rotating about Sagittarius A\* (**SgrA\***), must be much more than a local universe, but somewhat less than a superuniverse.  Which implies that this vast spiral may actually form the bulk of a single major sector (Splandon), and that the other nine major sectors tend to contract and cluster on the Havona side.
 
 What could cause such clustering? Recall that (in this Urantia Book scheme) this superuniverse system of swirling major sectors (**a**) floats in a rotating pool of ultimata, which is (**b**) orbiting Paradise in a beltway of segregata, which is (**c**) flowing along its “curved space path of lessened resistance to motion,” and (**d**) that not far off to the right (in the pictures above) sits the source and center of gravitational control for the entire master universe. And (**e**) that Paradise grips matter by its ultimatons.
 
 Of course, in a young, “Big-Banged” universe, this sort of distribution is not what astronomers would expect. Such a scheme implies what one student has called “**a new cosmological theory.**” My approach is that _The Urantia Book_ is presenting a new cosmological theory, and I’m simply exploring the scientific implications.
 
-Nevertheless, as a student of astronomy, I almost feel like apologizing for proposing such an astronomically outlandish model. But let me explain. This adventure began when I noticed the revelators had posed an interesting question: “What’s the relationship between **gravita**, and the pool of **ultimata** within which that gravita forms?”  Let’s explore this line of thought.
+Nevertheless, as a student of astronomy, I almost feel like apologizing for proposing such an astronomically outlandish model. But let me explain. This adventure began when I noticed the revelators had posed an interesting question: “What’s the relationship between **gravita**, and the pool of **ultimata** within which that gravita forms?”  Let’s explore this line of thought.
 
 In _The Urantia Book_ story, before you can have hydrogen, and thus suns, you need a reservoir of ultimatons. It’s these ultimatons that “power directors” can arrange into the type of matter that interacts with light. So before we can have this “type of matter that interacts with light,” we need those ultimatons. For students of _The Urantia Book_, this seems like a reasonable starting point.
 
-In the four parts of the upcoming video (1. Foundations, 2. Mass & Matter, 3. Dark Islands, 4. Milky Way) I try to map out what _The Urantia Book_ reveals about the ancestry and interactions of **ultimata** or “emergent energies” <a id="a114_230"></a>[[UB 42:2.10](/en/The_Urantia_Book/42#p2_10)], and how these ultimatonic underpinnings might determine the gravitational dynamics acting within and upon Orvonton, and what our astronomers might expect to measure. The crucial bits being (1) ultimatons have **mass**; (2) being pre-electronic, ultimatons do **not** interact with electromagnetic light; and (3) being intimately connected with the cause of weak hypercharge (“zilch”), clusters of ultimatons **interact** aggressively with this now famous Higgs-type field (“primordial force-charge”). Anyone keeping up with either particle physics or astronomy will be struck by how neatly **ultimata** solves the two outstanding issues of our standard models:  (1) invisible mass, and (2) the energy of quantized fields.
+In the four parts of the upcoming video (1. Foundations, 2. Mass & Matter, 3. Dark Islands, 4. Milky Way) I try to map out what _The Urantia Book_ reveals about the ancestry and interactions of **ultimata** or “emergent energies” <a id="a114_230"></a>[[UB 42:2.10](/en/The_Urantia_Book/42#p2_10)], and how these ultimatonic underpinnings might determine the gravitational dynamics acting within and upon Orvonton, and what our astronomers might expect to measure. The crucial bits being (1) ultimatons have **mass**; (2) being pre-electronic, ultimatons do **not** interact with electromagnetic light; and (3) being intimately connected with the cause of weak hypercharge (“zilch”), clusters of ultimatons **interact** aggressively with this now famous Higgs-type field (“primordial force-charge”). Anyone keeping up with either particle physics or astronomy will be struck by how neatly **ultimata** solves the two outstanding issues of our standard models:  (1) invisible mass, and (2) the energy of quantized fields.
 
 With regard to the origin of ultimatons, “pause to consider” the way an **Associate** Master Force Organizer injects angular momentum into the foundations of finite physics: in some region of space potency, the (eventuated) presence of a **Primary** (Paradise) Force Organizer segregates an island of “pure energy” (see segregata, <a id="a116_331"></a>[UB 42:2.9](/en/The_Urantia_Book/42#p2_9).) When an associate force organizer shows up, his transcendental presence imposes some kind of chiral torque on this island, which starts to rotate.
 
 Picture the situation: we have an island of segregata within which a halo of “emergent energies” (see ultimata, <a id="a118_112"></a>[UB 42:2.13](/en/The_Urantia_Book/42#p2_13)) condenses. This massive halo of ultimata is locked onto, and rotating about, an irresistible center of rotation. In this picture, there’s not yet any source of friction, so we have an increasing quantity of angular momentum being generated within a superfluid medium. As our own physics has discovered, angular momentum in a superfluid naturally disperses, but it cannot disappear. So the angular momentum injected by that associate force organizer into his halo of ultimata dissipates into smaller and smaller vortices, until some minimum “quantum of vorticity” (spin), is achieved.
 
-As a thought experiment, let’s use that minimal vortex to help define an ultimaton. Recall that a “mature ultimaton”  has a well-defined response to absolute (Paradise) gravity. However,
+As a thought experiment, let’s use that minimal vortex to help define an ultimaton. Recall that a “mature ultimaton”  has a well-defined response to absolute (Paradise) gravity. However,
 
 > _Ultimatons are capable of accelerating revolutionary velocity to the point of partial antigravity behavior_ <a id="a122_111"></a>[[UB 42:6.3](/en/The_Urantia_Book/42#p6_3)]
 
-If we define the “**mass**” of an ultimaton as its response to Paradise gravity, then paper <a id="a124_92"></a>[UB 42:6.3](/en/The_Urantia_Book/42#p6_3) implies that ultimatons achieve a maximum of such “mass” when they have that minimum quantum of spin. As an ultimaton’s “velocity of axial revolution” <a id="a124_285"></a>[[UB 42:6.6](/en/The_Urantia_Book/42#p6_6)] _increases_, its response to Paradise _decreases_.
+If we define the “**mass**” of an ultimaton as its response to Paradise gravity, then paper <a id="a124_92"></a>[UB 42:6.3](/en/The_Urantia_Book/42#p6_3) implies that ultimatons achieve a maximum of such “mass” when they have that minimum quantum of spin. As an ultimaton’s “velocity of axial revolution” <a id="a124_285"></a>[[UB 42:6.6](/en/The_Urantia_Book/42#p6_6)] _increases_, its response to Paradise _decreases_.
 
 What I’d like to propose is that this coupling of (**minimum spin**) + (**maximum mass**) defines what we might call “the ground state of the mature ultimaton.” And that each galactic collection of superuniverse major sectors floats in a rotating pool of such ground state ultimatons.
 
-To help break the ice with this “**new cosmological theory,**” here’s a simple and game-changing point: as students of these papers, what we’re considering is **not** how (linear) gravity may have nudged galaxies around for a mere 13 billion years. What we’re exploring is _The Urantia Book_ story of how 70 major sectors were “force-organized” (in place) within a sheet of segregata centered on nether Paradise. And that this happened hundreds of billions of years before any spirals began to form in the outer space levels. And that an ancient, central and relatively small “grand universe” needs to be distinguished from the far younger systems we can see evolving in the outer space levels of a vastly larger “master universe.”
+To help break the ice with this “**new cosmological theory,**” here’s a simple and game-changing point: as students of these papers, what we’re considering is **not** how (linear) gravity may have nudged galaxies around for a mere 13 billion years. What we’re exploring is _The Urantia Book_ story of how 70 major sectors were “force-organized” (in place) within a sheet of segregata centered on nether Paradise. And that this happened hundreds of billions of years before any spirals began to form in the outer space levels. And that an ancient, central and relatively small “grand universe” needs to be distinguished from the far younger systems we can see evolving in the outer space levels of a vastly larger “master universe.”
 
 These are the sort of things I explore (in a Urantia Book-reader-friendly way!) in that video, being recorded in four parts (4A: Foundations, 4B: Mass & Matter, 4C: Dark Islands, 4D: Milky Way).
 
-Parts 4A and 4B are ready, and can be found here: [Click here](https://youtu.be/ZerrvI4dLTQ)
+Parts 4A and 4B are ready, and can be found here: [Click here](https://youtu.be/ZerrvI4dLTQ)
 
 If anyone would like to help adjust the content and presentation in these videos, please let me know!
 
@@ -154,7 +154,7 @@ Even with “improved telescopic technique” <a id="a148_42"></a>[[UB 41:3.10](
 
 The issue this data implies is that if all ten major sectors lie in a common plane less than 5,000 light years thick, with 80% of the stars in each sector locked into disks a mere **1,000** light years thick, then even with our current best telescopic techniques, our neighbor major sectors, and Uversa itself, remain almost completely hidden behind this infrared “line of avoidance.” The video at the following link illustrates the problem, comparing our best infrared and visible views using the “GigaPixel” data released in 2012:
 
-[http://www.eso.org/public/videos/eso1242a/](http://www.eso.org/public/videos/eso1242a/)    [see the 70MB, HD 720p version]
+[http://www.eso.org/public/videos/eso1242a/](http://www.eso.org/public/videos/eso1242a/)    [see the 70MB, HD 720p version]
 
 As we can see, there really **is** a wall blocking our view towards Uversa!
 
@@ -164,7 +164,7 @@ Of course this does not change the hard fact that:
 
 Given all the above, while it is quite correct for the revelators to say that Uversa is located “far, far away in the dense diameter of the Milky Way”, it may be even more correct to say that “when the angle of observation is propitious”, Uversa lies **174,000** light years directly behind Umajor the Fifth, the center of rotation we call Sagittarius A\* (**SgrA\***), the physical center of our major sector, Splandon.
 
-But what makes all this even _more_ interesting is the way a cluster of such superuniverses fits neatly at the center of Marshall L. McCall’s famous “Council of Giants” (see [https://arxiv.org/abs/1403.3667](https://arxiv.org/abs/1403.3667)), that nearby ring of 12 giant galaxies surrounding our relatively tiny—but absolutely extraordinary—place in space.
+But what makes all this even _more_ interesting is the way a cluster of such superuniverses fits neatly at the center of Marshall L. McCall’s famous “Council of Giants” (see [https://arxiv.org/abs/1403.3667](https://arxiv.org/abs/1403.3667)), that nearby ring of 12 giant galaxies surrounding our relatively tiny—but absolutely extraordinary—place in space.
 
 ## References
 

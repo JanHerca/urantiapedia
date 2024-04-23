@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/The-Teacher-hands-300x238.jpg">
 </figure>
 
-The fourth epochal revelation—the one brought by our Creator Son to his world under the human identity of Jesus of Nazareth—is very closely related to the next one, the fifth epochal revelation contained in _The Urantia Book_. That may be why, when we read Part IV of the book, we cannot help feeling the midwayers in charge of the revelation of the life and teachings of Jesus are not just describing the facts of the seventh bestowal of Michael of Nebadon, but also conveying very valuable insights for the success of the fifth epochal revelation.
+The fourth epochal revelation—the one brought by our Creator Son to his world under the human identity of Jesus of Nazareth—is very closely related to the next one, the fifth epochal revelation contained in _The Urantia Book_. That may be why, when we read Part IV of the book, we cannot help feeling the midwayers in charge of the revelation of the life and teachings of Jesus are not just describing the facts of the seventh bestowal of Michael of Nebadon, but also conveying very valuable insights for the success of the fifth epochal revelation.
 
 More precisely, there is a section in Paper 159—The Decapolis Tour—titled “Instruction for Teachers and Believers” that is worth a thorough study. These instructions were a part of a speech that Jesus gave to _“guide those who preach truth”_ and to _“activate all who teach the gospel of the kingdom”_ <a id="a42_302"></a>[[UB 159:3.1](/en/The_Urantia_Book/159#p3_1)]
 
@@ -76,7 +76,7 @@ Have you noticed how many good, beautiful, and true teachings are in this paragr
 
 Even though it may sound commonplace, it’s fundamental to love oneself first in order to love and serve the others. As one of my favorite quote says, _“Love is the desire to do good to others,”_ and to do good to others means help them to progress, to become more than they are now, and for that end, it’s fundamental to keep their self-esteem high enough. We should take into account these people may love and serve the others in turn, so that they can spread the benign virus of love. This is what Jesus’ gospel is about.
 
-> _…Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it._  <a id="a78_306"></a>[[UB 159:3.3](/en/The_Urantia_Book/159#p3_3)]
+> _…Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it._  <a id="a78_306"></a>[[UB 159:3.3](/en/The_Urantia_Book/159#p3_3)]
 
 The Master applied this rule of behavior, and we should do that too. How many times do we regret or criticize what we think other people do in a wrong way! We are too generous with criticisms and too greedy with compliments! It’s not that we have to praise every trifle, but everybody has their good points to recognize and we should make our fellows feel appreciated and valuable. Who could resist a sincere compliment? Thus people will have a more receptive attitude immediately.
 
@@ -118,7 +118,7 @@ Why are we, human beings, so stubborn, and insist on searching outside what we a
 
 > _… Faith is to religion what sails are to a ship; it is an addition of power, not an added burden of life. There is but one struggle for those who enter the kingdom, and that is to fight the good fight of faith. The believer has only one battle, and that is against doubt — unbelief._ <a id="a118_287"></a>[[UB 159:5.8](/en/The_Urantia_Book/159#p5_8)]
 
-Faith provides the conviction that there is a higher reality, and the hope which gives to us provides also the energy to face the life hardships.  Of course, there are always moments in which faith may weaken. We live in a world where there is too much unfairness, life can be very hard sometimes, and it’s very easy to feel discouraged, to fall into pessimism, and to question ourselves whether what we believe is real or just a beautiful tale to make our life easier to bear. But, if our faith resists doubt and disbelief, nothing can defeat us: we will be able to fly higher and beyond all the mud of the mundane existence. And misfortune, if we ever experience it, is not going to get to us because faith makes us stronger. Faith is our distinguishing mark as agondonters!
+Faith provides the conviction that there is a higher reality, and the hope which gives to us provides also the energy to face the life hardships.  Of course, there are always moments in which faith may weaken. We live in a world where there is too much unfairness, life can be very hard sometimes, and it’s very easy to feel discouraged, to fall into pessimism, and to question ourselves whether what we believe is real or just a beautiful tale to make our life easier to bear. But, if our faith resists doubt and disbelief, nothing can defeat us: we will be able to fly higher and beyond all the mud of the mundane existence. And misfortune, if we ever experience it, is not going to get to us because faith makes us stronger. Faith is our distinguishing mark as agondonters!
 
 > _In preaching the gospel of the kingdom, you are simply teaching friendship with God. And this fellowship will appeal alike to men and women in that both will find that which most truly satisfies their characteristic longings and ideals…_ <a id="a122_241"></a>[[UB 159:5.8](/en/The_Urantia_Book/159#p5_8)]
 
@@ -156,17 +156,17 @@ A true believer in the kingdom—a follower of the religion OF Jesus—will neve
 
 All the believers in the religion of Jesus—and, of course, in the fifth revelation—must have in mind the benefits of having a divine spark within us—a little piece of the Universal Father inside our minds:
 
-- a) **Faith expands our minds:** we are not talking about blind faith, the impulsive consent to statements made by other people or holy texts. Living faith —reasoned faith—makes us more open-minded always, because Truth can be everywhere. Those who have faith in realities beyond human existence are seekers by definition.
+- a) **Faith expands our minds:** we are not talking about blind faith, the impulsive consent to statements made by other people or holy texts. Living faith —reasoned faith—makes us more open-minded always, because Truth can be everywhere. Those who have faith in realities beyond human existence are seekers by definition.
 
-- b) **Faith ennobles the soul:** we are sons and daughters of God by faith, and therefore we see the others as sons and daughters of God as well, as our brothers and sisters.
+- b) **Faith ennobles the soul:** we are sons and daughters of God by faith, and therefore we see the others as sons and daughters of God as well, as our brothers and sisters.
 
-- c) **Faith reinforces our personality:** faith makes us face life better, for we know there are better things to expect than what we are experiencing now in this life.
+- c) **Faith reinforces our personality:** faith makes us face life better, for we know there are better things to expect than what we are experiencing now in this life.
 
-- d) **Faith augments our happiness:** The hope that faith gives to us makes us happier even in objectively hard situations. It’s not about the happiness that money or other material things supposedly give, but a more profound and lasting happiness which does not depend on something as volatile and fleeting as our material welfare.
+- d) **Faith augments our happiness:** The hope that faith gives to us makes us happier even in objectively hard situations. It’s not about the happiness that money or other material things supposedly give, but a more profound and lasting happiness which does not depend on something as volatile and fleeting as our material welfare.
 
-- e) **Faith deepens our spirit perception:** learning by faith that we have within us a Father fragment makes us be alert towards its divine guidance, strive for keeping in tune with it. This makes us more receptive to spiritual values.
+- e) **Faith deepens our spirit perception:** learning by faith that we have within us a Father fragment makes us be alert towards its divine guidance, strive for keeping in tune with it. This makes us more receptive to spiritual values.
 
-- f) **Faith enhances our power to love and be loved:** how could we not love someone having a divine spark within? All humans with normal minds are endowed with this divine gift of the heavenly Father. We may be different, physically and intellectually, but we have the same spiritual endowment, the same potential to reach Paradise and to stand at the very presence of God.
+- f) **Faith enhances our power to love and be loved:** how could we not love someone having a divine spark within? All humans with normal minds are endowed with this divine gift of the heavenly Father. We may be different, physically and intellectually, but we have the same spiritual endowment, the same potential to reach Paradise and to stand at the very presence of God.
 
 Now, let’s go to the last paragraph of Jesus’ teachings in this section:
 
@@ -198,7 +198,7 @@ Once we got here, and after analyzing the Master’s words on this section, I wo
 
 If there is something which automatically discredits people claiming themselves as religionists is doing just the opposite to what they claim to believe. If we commit ourselves to make _The Urantia Book_ teachings known, it’s useless to give impressive speeches or write long essays about the fatherhood of God and the brotherhood of men if we don’t make this dual principle the foundation for our daily living. If there is something that people tell immediately is the inconsistency between our words and our doings, and those listening to us will think—with good reason—it’s useless to devote their attention to teachings that have not transformed their interlocutor.
 
-As believers in the fifth revelation teachings, we cannot fall into the same errors as institutionalized religions have. While it’s true, good and desirable to have a deeper understanding of the book’s teachings, it’s not about becoming book scholars or experts. _The Urantia Book_ has such a depth and density of concepts that its study can take a lifetime, but we should not lose sight of the fact that our final goal is to progress spiritually.
+As believers in the fifth revelation teachings, we cannot fall into the same errors as institutionalized religions have. While it’s true, good and desirable to have a deeper understanding of the book’s teachings, it’s not about becoming book scholars or experts. _The Urantia Book_ has such a depth and density of concepts that its study can take a lifetime, but we should not lose sight of the fact that our final goal is to progress spiritually.
 
 **2\. The ends don’t justify the means, no matter how noble they are. People are never means, but ends.**
 

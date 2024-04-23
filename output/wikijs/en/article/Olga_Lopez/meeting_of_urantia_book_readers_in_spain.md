@@ -48,11 +48,11 @@ On this occasion, different formats were used: presentations which lasted approx
 
 These are the presentations that we enjoyed in this meeting:
 
--  “A Quick View on the Ascension Career,” by Jaime Marco
--  “Inner Aids,” by Ginés Avilés
--  “Outer Aids,” by Víctor Izquierdo
--  “Physical and Material Aids,” by José Manuel Duarte
--  “Free will,” by Carmelo Martínez
+-  “A Quick View on the Ascension Career,” by Jaime Marco
+-  “Inner Aids,” by Ginés Avilés
+-  “Outer Aids,” by Víctor Izquierdo
+-  “Physical and Material Aids,” by José Manuel Duarte
+-  “Free will,” by Carmelo Martínez
 
 An open and lively discussion would start right after each presentation. The workshop was about Paper 112 (Personality Survival), and it was facilitated by Eduardo Altuzarra.
 

@@ -48,7 +48,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. ADAM AND EVE
 
-1. Adam and Eve, the biologic uplifters, were agriculturists and horticulturists. <a id="s50_82"></a>[UB 50:4.3](/en/The_Urantia_Book/50#p4_3) [^1]
+1. Adam and Eve, the biologic uplifters, were agriculturists and horticulturists. <a id="s50_82"></a>[UB 50:4.3](/en/The_Urantia_Book/50#p4_3) [^1]
 2. The second garden was the center of civilization for thirty thousand years. <a id="s51_79"></a>[UB 78:0.1](/en/The_Urantia_Book/78#p0_1)
 3. By 19,000 B.C. the Adamites numbered 4,500,000. <a id="s52_51"></a>[UB 78:2.5](/en/The_Urantia_Book/78#p2_5)
 4. The Aryan races sprang from the Adamites—also the Sumerians. <a id="s53_64"></a>[UB 78:4.4](/en/The_Urantia_Book/78#p4_4) [^2]

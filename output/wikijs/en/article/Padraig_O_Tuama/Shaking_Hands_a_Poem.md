@@ -80,7 +80,7 @@ So lead.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/shaking-hands-poem
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/shaking-hands-poem)
 
 <figure class="table chapter-navigator">
   <table>

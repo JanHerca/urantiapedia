@@ -99,7 +99,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	10. Conquest of dialects.
 	11. Ending of war.
 	12. Universal pursuit of wisdom. <a id="s100_34"></a>[UB 71:8.2](/en/The_Urantia_Book/71#p8_2)
-4. The great problem of statehood is to prevent the state from becoming parasitical or tyrannical. <a id="s101_99"></a>[UB 71:5.2](/en/The_Urantia_Book/71#p5_2)
+4. The great problem of statehood is to prevent the state from becoming parasitical or tyrannical. <a id="s101_99"></a>[UB 71:5.2](/en/The_Urantia_Book/71#p5_2)
 
 ## VI. PROGRESSIVE CIVILIZATION
 

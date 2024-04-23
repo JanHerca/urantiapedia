@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-## Urantia Association’s International Conference in The Netherlands 12—15 April 2018
+## Urantia Association’s International Conference in The Netherlands 12—15 April 2018
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Netherlands-Conf-2018-Logo-e1496169986256-300x302.jpg">
@@ -49,7 +49,7 @@ How did Jesus develop as a true teacher? What methods did he apply, both then an
 
 > _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._ <a id="a49_591"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
-The program will provide space for seven plenary speakers, readers of _The Urantia Book_ who have studied the book for many years and who can help us to better understand this Fifth Revelation. The emphasis of the program will be based on learning through experience and exchanges in small groups.
+The program will provide space for seven plenary speakers, readers of _The Urantia Book_ who have studied the book for many years and who can help us to better understand this Fifth Revelation. The emphasis of the program will be based on learning through experience and exchanges in small groups.
 
 The language spoken during the conference will be English, but we are offering simultaneous translations for Spanish (by Serapis Murillo) and French (by Christopher Moseley.)
 
@@ -85,13 +85,13 @@ Between presentations and group work, much space has been left for socializing a
 
 On both Friday and Saturday night performances have been scheduled by professional artists. On Friday evening [Iris Kroes](http://www.uai2018.org/program/entertainment/iris/en) entertains us with a harp and vocal performance. Saturday [Pato Banton](http://www.uai2018.org/program/entertainment/pato/en) and [Antoinette Hall](http://www.uai2018.org/program/entertainment/antoinette/en) will treat us to their special performance.
 
-If you’re planning to go to Urantia Association’s International Conference in Amsterdam, The Netherlands next year, we urge you to book your accommodation in the hotel now! A lot of activities take place in the region surrounding the conference venue at that time of the year, so it is very important to book your accommodation early to insure you secure a room.
+If you’re planning to go to Urantia Association’s International Conference in Amsterdam, The Netherlands next year, we urge you to book your accommodation in the hotel now! A lot of activities take place in the region surrounding the conference venue at that time of the year, so it is very important to book your accommodation early to insure you secure a room.
 
 All information for the conference can be found on our website: [www.uai2018.org](https://urantia-association.org/international-conference-2018-update/www.uai2018.org). On this website you can also register for the conference and book your room.
 
 We hope to meet you next year in Amsterdam.
 
-Jaap Terra and, President of the Urantia Association of the Netherlands (UAISUN)  
+Jaap Terra and, President of the Urantia Association of the Netherlands (UAISUN)  
 Karen Huigsloot, Conference Program Committee  
 E-mail: [info@urantia.nl](mailto:info@urantia.nl)
 

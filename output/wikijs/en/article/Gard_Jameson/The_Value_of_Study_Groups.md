@@ -16,7 +16,7 @@ If you are considering a study group you have made a decision of great consequen
 
 ## An Historical Perspective
 
-Balanced participation, shared openness, intellectual discovery, a heightened sense of values, warm fellowship and good cookies: what could be a more superb focus for study than _The Urantia Book_? 
+Balanced participation, shared openness, intellectual discovery, a heightened sense of values, warm fellowship and good cookies: what could be a more superb focus for study than _The Urantia Book_? 
 
 In the early years of the revelation we were asked by the revelators to form thousands of study groups to enable this great message to evolve into the consciousness of the population. There are hundreds now in existence with many more on the horizon as many foreign translations of the book find their way into the hands of souls hungry for an enlarged perspective on the meaning of our existence. The need for more study groups is great. And so are the rewards for the group, the individual, and the planet.
 
@@ -94,7 +94,7 @@ If you have accepted responsibility of leadership of a group there are certain e
 
 Social control, ideally, is invisible, gracious and unconscious. Nobody, even the leader, should dominate the conversation. A healthy study group is one that maintains self-mastery over problems such as folks who wish to steer the meeting away from the book or emotionally troublesome individuals. A good group shares the responsibility of self-mastery. Individuals and groups differ in the degree to which they enjoy a more freewheeling discussion.
 
-Many a study group limps or dies, however, due to inadequate social control. 
+Many a study group limps or dies, however, due to inadequate social control. 
 
 Perseverance- the tenacity to pursue a worthy goal no matter who else cares to join, is a quality that must be practiced if a successful group is to flourish. One study group began with a husband and wife, who studied alone every week for about two years; then they were joined by another couple. After a few more years, more people joined, and after a decade there were sixty people coming to the group.
 
@@ -102,7 +102,7 @@ Perseverance- the tenacity to pursue a worthy goal no matter who else cares to j
 
 > “All this must be according to the Father's plan, which has predicated finite progress upon effort, creature achievement upon perseverance, and personality development upon faith.” <a id="s102_183"></a>[UB 115:7.2](/en/The_Urantia_Book/115#p7_2)
 
-When you are cleaning your house and setting up the chairs for your study group, keep in mind these quotes. 
+When you are cleaning your house and setting up the chairs for your study group, keep in mind these quotes. 
 
 > “Jesus always insisted that true goodness must be unconscious, in bestowing charity not allowing the left hand to know what the right hand does.” <a id="s106_148"></a>[UB 140:8.26](/en/The_Urantia_Book/140#p8_26)
 
@@ -138,7 +138,7 @@ The Fathers' sovereignty in the heart of your group is all important for the les
 
 > “Freewill beings who regard themselves as equals, unless they mutually acknowledge themselves as subject to some supersovereignty, some authority over and above themselves, sooner or later are tempted to try out their ability to gain power and authority over other persons and groups. The concept of equality never brings peace except in the mutual recognition of some over controlling influence of supersovereignty.” <a id="s138_420"></a>[UB 134:4.9](/en/The_Urantia_Book/134#p4_9)
 
-Study groups will bring you in contact with a multitude of personalities you would probably not have as friends or even acquaintances. This is not because they are not good people, but because their interests, age, backgrounds are so very different from yours that sometimes all you have in common is _The Urantia Book_. This can cause conflict and misunderstanding. Of course, there are all kinds of people and all come with their particular expectations and needs to your study group! You must be prepared for a certain quality of tension or conflict, which is not always bad. 
+Study groups will bring you in contact with a multitude of personalities you would probably not have as friends or even acquaintances. This is not because they are not good people, but because their interests, age, backgrounds are so very different from yours that sometimes all you have in common is _The Urantia Book_. This can cause conflict and misunderstanding. Of course, there are all kinds of people and all come with their particular expectations and needs to your study group! You must be prepared for a certain quality of tension or conflict, which is not always bad. 
 
 > “New religious insights arise out of conflicts which initiate the choosing of new and better reaction habits in the place of older and inferior reaction patterns. New meanings only emerge amid conflict; and conflict persists only in the face of refusal to espouse the higher values connoted in superior meanings.” <a id="s142_316"></a>[UB 100:4.1](/en/The_Urantia_Book/100#p4_1)
 
@@ -231,7 +231,7 @@ Reading, like listening, is an art and a test: “Think not only of the multitud
 
 Sometimes a reader can only see one side of a complex text. “It is just because the gospel of Jesus was so many-sided that within a few centuries students of the records of his teachings became divided up into so many cults and sects. This pitiful subdivision of Christian believers results from failure to discern in the Master's manifold teachings the divine oneness of his matchless life.” <a id="s231_393"></a>[UB 170:5.20](/en/The_Urantia_Book/170#p5_20)
 
-We read the papers sentence by sentence, sequentially. But there is also artistry to be discovered in the structure of the composition of sections, papers, parts, and the book as a whole. 
+We read the papers sentence by sentence, sequentially. But there is also artistry to be discovered in the structure of the composition of sections, papers, parts, and the book as a whole. 
 
 > “The wise philosopher will always look for the creative design which is behind, and pre-existent to, all universe phenomena.” <a id="s235_128"></a>[UB 2:7.5](/en/The_Urantia_Book/2#p7_5)
 
@@ -249,7 +249,7 @@ For something different, consider using one passage as the springboard for an ev
 
 ## Comparative Study
 
-If you do no more than share a list of passages that you really like, individuals in the group may benefit from simply bringing old favorites to mind on a new occasion. It is possible, however, to do much more. The highest level of study, according to Mortimer J. Adler in his _How to Read A Book_, is to compare the great thought of authors of different books. If you are interested in topical study, you might consider this path. Bring literature outside _The Urantia Book_ to extend and clarify what the book contains. _The Urantia Book_ draws on many human sources, and it is designed to function in a cultural civilization---interacting with the ideas and ideals of current and future generation. Correlating passages from the book with evolutionary products may be confusing for a beginners' group. Those who know the book well will find it very stimulating. One benefit is, that it helps us see the book through the others' eyes. What does anthropology say about primitive religion? What does biology say about evolution? It doesn't take much hunting in the library to come up with some material that will prove interesting to your fellows. There has been much correlative work done on the science found in The Urantia Book with contemporary science. This is a fascinating study. Make sure, however, that the study group stays focused on _The Urantia Book_. Comparative study is not recommended for a beginners group.
+If you do no more than share a list of passages that you really like, individuals in the group may benefit from simply bringing old favorites to mind on a new occasion. It is possible, however, to do much more. The highest level of study, according to Mortimer J. Adler in his _How to Read A Book_, is to compare the great thought of authors of different books. If you are interested in topical study, you might consider this path. Bring literature outside _The Urantia Book_ to extend and clarify what the book contains. _The Urantia Book_ draws on many human sources, and it is designed to function in a cultural civilization---interacting with the ideas and ideals of current and future generation. Correlating passages from the book with evolutionary products may be confusing for a beginners' group. Those who know the book well will find it very stimulating. One benefit is, that it helps us see the book through the others' eyes. What does anthropology say about primitive religion? What does biology say about evolution? It doesn't take much hunting in the library to come up with some material that will prove interesting to your fellows. There has been much correlative work done on the science found in The Urantia Book with contemporary science. This is a fascinating study. Make sure, however, that the study group stays focused on _The Urantia Book_. Comparative study is not recommended for a beginners group.
 
 Such study groups need to be carefully guided so that they remain sessions which are primarily devoted to the study of _The Urantia Book_. Some groups try to explore _The Urantia Book_ along with some other alleged source(s) of revelation. While truth is to be found in countless sources, and while an occasional reference to information and perspectives from outside _The Urantia Book_ can be very helpful in a study group, it is nevertheless confusing for other sources to be given as much or more attention than the fifth epochal revelation. This is sometimes done because the leader or another participant wants to use the prestige of a Urantia Book study group to proselytize his or her personal convictions about other sources.
 

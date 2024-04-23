@@ -44,7 +44,7 @@ On behalf of the Study Group Committee I’d like to thank everyone who devoted 
 
 I’d like to share a summary of this survey with you so you can—in your own ways—find some answers or solutions that may make your study groups more responsive to the needs of different kinds of readers and cultures.
 
-One question that is often raised by readers is, “Where are the young students?” Another question is, “How can we interest our youth to participate in study groups?” I invite you to read the comments that have been published in this newsletter that were made by Alice Wood and Cheryl Glicker in response to these two questions.
+One question that is often raised by readers is, “Where are the young students?” Another question is, “How can we interest our youth to participate in study groups?” I invite you to read the comments that have been published in this newsletter that were made by Alice Wood and Cheryl Glicker in response to these two questions.
 
 From this survey, which was sent to 3,744 readers in four different languages, we received a total of 550 responses, which is a 14.69% response. We hoped there would have been more respondents to the survey, so we could have gathered a more accurate picture of the interests of Urantia Book readers in relation to study groups.
 

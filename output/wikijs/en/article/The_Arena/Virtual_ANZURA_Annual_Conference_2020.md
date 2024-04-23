@@ -71,11 +71,11 @@ NZ Conference Committee
 | 5:00 PM | 3:00 PM | Hara Davis | A Brief Review of <br>Hara’s Beautiful Study Aids |
 | 5:50 PM | 3:50 PM | Ian Campbell | Close & Goodbye |
 
-For more information contact us by emailing either Ian Campbell at: [ian.campbell@xtra.co.nz](mailto:ian.campbell@xtra.co.nz)  or the Anzura admins at: [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
+For more information contact us by emailing either Ian Campbell at: [ian.campbell@xtra.co.nz](mailto:ian.campbell@xtra.co.nz)  or the Anzura admins at: [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/virtual-annual-conference-2020
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/09/07/virtual-annual-conference-2020)
 
 <figure class="table chapter-navigator">
   <table>

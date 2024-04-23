@@ -111,7 +111,7 @@ I know these ideas are too general to inspire directly, so I continue to look fo
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2018/10/30/on-cosmic-background
+- [Article of the newsletter online](https://anzura.urantia-association.org/2018/10/30/on-cosmic-background)
 
 <figure class="table chapter-navigator">
   <table>

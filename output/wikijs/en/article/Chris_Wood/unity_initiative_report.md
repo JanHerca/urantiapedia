@@ -52,7 +52,7 @@ The Association continues to thrive as we share the teachings of _The Urantia Bo
 
 In service,  
 Chris Wood  
-President, Urantia Association International
+President, Urantia Association International
 
 <br style="clear:both;"/>
 

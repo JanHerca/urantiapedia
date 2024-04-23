@@ -33,7 +33,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. El.
 	5. Elohim. <a id="s33_12"></a>[UB 96:1.2](/en/The_Urantia_Book/96#p1_2)
 2. The Hebrews deanthropomorphized God without making him an abstraction of philosophy. <a id="s34_88"></a>[UB 97:0.1](/en/The_Urantia_Book/97#p0_1)
-3. The Kenites held many of the concepts of Melchizedek respecting Deity. <a id="s35_74"></a>[UB 96:0.2](/en/The_Urantia_Book/96#p0_2)
+3. The Kenites held many of the concepts of Melchizedek respecting Deity. <a id="s35_74"></a>[UB 96:0.2](/en/The_Urantia_Book/96#p0_2)
 4. There was a continuous evolution of Deity concept from the primitive Yahweh to the high level of the Isaiahs. <a id="s36_113"></a>[UB 96:4.9](/en/The_Urantia_Book/96#p4_9)
 
 ## II. TIMES OF MOSES

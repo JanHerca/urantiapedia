@@ -42,17 +42,17 @@ dateCreated: 2023-9-16T10:55:6Z
 
 It seemed like only yesterday when, at the end of 2016, we were asked to host the International Conference that Urantia Association International organizes every three years. The Urantia Peru team celebrated when we received the torch at the Amsterdam Conference to be the hosts in 2021 and we quickly placed ourselves under the Father’s command.
 
-Since the beginning of 2017, it became an intense, coordinated job. We had in mind that achieving this challenge demanded doing it onsite with the standards a conference requires. So, we were ready, even with some pre-paid services and facilities. 
+Since the beginning of 2017, it became an intense, coordinated job. We had in mind that achieving this challenge demanded doing it onsite with the standards a conference requires. So, we were ready, even with some pre-paid services and facilities. 
 
-But _fate_ provided another challenge for us. The corona pandemic arrived and we asked God: Father, given this new unforeseen situation, do you still want us to go for it? 
+But _fate_ provided another challenge for us. The corona pandemic arrived and we asked God: Father, given this new unforeseen situation, do you still want us to go for it? 
 
 We eventually made the decision to make it happen virtually and the 11th Urantia Association International Conference: **Towards Cosmic Citizenship… Your Time Has Come!** …turned into “A Virtual Experience.”
 
 Throughout the following days and months, we kept researching and studying about new technologies and digital strategies. And we always wondered what benefits could be brought to a virtual event so we could take advantage of them in the dissemination of the fifth revelation.
 
-We set ourselves three challenges: 
+We set ourselves three challenges: 
 
-First, we yearned to unify all those familiar with the teachings of _The Urantia Book_, whether they were registered or not in any official association or organization. Second, we wanted the attendees to become familiar with the ancestral cultures that gave rise to the Inca Empire in Cusco, Peru, one well known by its monumental architecture and social structures. Third, we wished to activate passive readers as well as find new seekers of truth through the loving and voluntary service of letting them know more of the teachings of _The Urantia Book_.
+First, we yearned to unify all those familiar with the teachings of _The Urantia Book_, whether they were registered or not in any official association or organization. Second, we wanted the attendees to become familiar with the ancestral cultures that gave rise to the Inca Empire in Cusco, Peru, one well known by its monumental architecture and social structures. Third, we wished to activate passive readers as well as find new seekers of truth through the loving and voluntary service of letting them know more of the teachings of _The Urantia Book_.
 
 So now, sometime after the realization of the event, we feel at peace. We firmly believe that, after the virtual experience of this conference, future virtual events will largely exceed what Urantia Peru, in coordination with Urantia Association International could humbly achieve—close to 2,000 people registered from all over the world.
 
@@ -65,7 +65,7 @@ The conference started by explaining the Andite influence in the Inca Empire, wh
 
 To finish, I would like to mention what moved me the most about this experience of being part of the Peruvian team: the wonder of witnessing how each volunteer was motivated into action, how each one respected the other no matter what their skills or abilities were, and how each one discovered their assigned work through loving service. The job of every volunteer was, without a doubt, the key that made this conference possible, but more so, their testimonies, insights, dedication, and pure hearts all worked as a team for the Universal Father.
 
-We have received many congratulations from around the world and we have told everyone that we were not alone and that it wasn’t just the work of Urantia Peru. We were all together! 
+We have received many congratulations from around the world and we have told everyone that we were not alone and that it wasn’t just the work of Urantia Peru. We were all together! 
 
 There are many who have always wanted to work in anonymity, such as the volunteer who designed the new registration system; those who designed the format and the strategy to post the event in the social media networks; those who led the training in managing Zoom for volunteers supporting workshops and their facilitators; and those who worked editing artistic pieces for others. We have witnessed that nationality did not matter—there was no discrimination… Spanish editing for North Americans; Colombian and Mexicans working on artistic pieces from several countries; volunteers from Argentina serving African artists from _The Urantia Boo_k community … and doing it non-stop until everything was ready and in order to have four hours of pure Urantian Art.
 
@@ -73,7 +73,7 @@ For the Urantia Peru team, it has been an unforgettable experience. We had the o
 
 We only have one thing left to say: Thank you to all of you who worked together in this great challenge! And to the Glory of the Father!
 
-Cecilia Barreto   
+Cecilia Barreto   
 Organizing Team, Urantia Association of Peru
 
 ## References

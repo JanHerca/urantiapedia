@@ -45,7 +45,7 @@ At the 2016 conference in San Antonio, TX, I presented my very first workshop, s
 
 I came up with the idea primarily based on my experience with trying to get my family and friends to read _The Urantia Book_.
 
-I found _The Urantia Book_ and finished a cover-to-cover reading in 1996. Like many of us, I was eager to share this marvelous book with those closest to me, my family and friends. I couldn’t wait to tell my best friend the good news!  I had discovered a true treasure, something beyond my wildest imagination.
+I found _The Urantia Book_ and finished a cover-to-cover reading in 1996. Like many of us, I was eager to share this marvelous book with those closest to me, my family and friends. I couldn’t wait to tell my best friend the good news!  I had discovered a true treasure, something beyond my wildest imagination.
 
 One day I bought him a book and handed it to him saying, “Man, you have GOT to read this!” I was fired up! I was hoping my best friend would be just as excited as I was. I wanted him to read it, so we could share our thoughts as we had when we read the Carlos Castaneda and J.R.R. Tolkien books in years past.
 
@@ -53,13 +53,13 @@ Let’s just say, things didn’t work out as I had hoped; my friend never read 
 
 In my own defense, please bear in mind that, at that time I didn’t know anything about Urantia Foundation, the history of the book or study groups, and I hadn’t met anyone else who had read the book.
 
-Over the years I tried various approaches, trying to coax people to read the book and none were successful. A wise man once said that doing the same thing over and over again and expecting a different result is the definition of insanity.  It was time to rethink my approach.
+Over the years I tried various approaches, trying to coax people to read the book and none were successful. A wise man once said that doing the same thing over and over again and expecting a different result is the definition of insanity.  It was time to rethink my approach.
 
 My eye-opening moment came during a stint as a booth volunteer at the 2015 Parliament of the World Religions in Salt Lake City, Utah. Not sure how best to talk to folks about the book, I sat back and observed others who were more practiced, many with 40+ years experience.
 
-I also watched the visitors as they interacted with the experienced booth volunteers and made mental notes of their reactions. When it came time for me to take my place at the booth I tried out some of the approaches I observed others using.  I didn’t meet with much success; I just wasn’t comfortable with the way things were going.
+I also watched the visitors as they interacted with the experienced booth volunteers and made mental notes of their reactions. When it came time for me to take my place at the booth I tried out some of the approaches I observed others using.  I didn’t meet with much success; I just wasn’t comfortable with the way things were going.
 
-The magic moment came when a visitor asked me what I thought of the book. That is when I hit my comfort zone. _The Urantia Book_ had a profound impact on my life and I was eager to share what I had learned and how it changed my life.  We ended up talking for about an hour.  After that exchange I felt energized and confident.
+The magic moment came when a visitor asked me what I thought of the book. That is when I hit my comfort zone. _The Urantia Book_ had a profound impact on my life and I was eager to share what I had learned and how it changed my life.  We ended up talking for about an hour.  After that exchange I felt energized and confident.
 <br style="clear:both;"/>
 
 Now, when people ask me what the book is about I simply tell them about my experience and what I learned from reading the book. I endeavor to avoid revelational terminology and simply say:
@@ -76,7 +76,7 @@ Now, when people ask me what the book is about I simply tell them about my exper
 
 And I leave it at that.
 
-If they ask for more information I suggest that if they have similar questions they might also find the answers they are looking for in _The Urantia Book_.  If they persist with questions I do my best to address them while avoiding the introduction of terms that are unique to the book. I’ve also learned that you don’t start out by telling people that human beings don’t become angels and that dogs don’t go to heaven.
+If they ask for more information I suggest that if they have similar questions they might also find the answers they are looking for in _The Urantia Book_.  If they persist with questions I do my best to address them while avoiding the introduction of terms that are unique to the book. I’ve also learned that you don’t start out by telling people that human beings don’t become angels and that dogs don’t go to heaven.
 
 As mentioned, a couple of years ago I was asked to give a workshop at the San Antonio, TX conference. The conference theme was “Jesus the Master Teacher.”
 
@@ -115,11 +115,11 @@ He did not attempt to shovel too much truth; it would have surely overwhelmed th
 
 We can learn much from Jesus’ method of teaching by using the eyedropper, spoon, and shovel approach ourselves when we desire to reveal the truths contained in _The Urantia Book_.
 
-There is much we can learn from Jesus that will help us to be better teachers and leaders in our daily lives. We tend to attempt too much, too soon, which can overwhelm people.  I have found that sharing my personal story about how the revelation has changed my life is much more powerful than saying, “The book says this, or the book says that…”  People can relate to a personal story.
+There is much we can learn from Jesus that will help us to be better teachers and leaders in our daily lives. We tend to attempt too much, too soon, which can overwhelm people.  I have found that sharing my personal story about how the revelation has changed my life is much more powerful than saying, “The book says this, or the book says that…”  People can relate to a personal story.
 
 Let us bear in mind the method Jesus used as he shared a new revelation of truth with the Apostles, disciples and the masses. We should focus on the things Jesus taught while also keeping in mind those things that Jesus _did not_ teach and let that guide us as well.
 
-Jesus’ life changed the world. His teachings led to the eventual creation of the Christian Church which went on to spread his teachings all over the world.  He was able to change the perception of the God of Moses, which depicted an angry and vengeful God, to a God of Love, a loving Father who adores his earthly children.  Jesus taught us about the Kingdom of Heaven and the Brotherhood of Man, that men and women are “saved” by their faith alone.
+Jesus’ life changed the world. His teachings led to the eventual creation of the Christian Church which went on to spread his teachings all over the world.  He was able to change the perception of the God of Moses, which depicted an angry and vengeful God, to a God of Love, a loving Father who adores his earthly children.  Jesus taught us about the Kingdom of Heaven and the Brotherhood of Man, that men and women are “saved” by their faith alone.
 
 > _When all is said and done, the Father idea is still the highest concept of God._ <a id="a123_84"></a>[[UB 196:3.35](/en/The_Urantia_Book/196#p3_35)]
 

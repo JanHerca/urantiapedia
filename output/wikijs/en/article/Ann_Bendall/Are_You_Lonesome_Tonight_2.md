@@ -34,7 +34,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 Well, sit down, open up your heart and pour it all out to Michael! Open up the channel to his Spirit of Truth and he can act as he desires, as the most sympathetic, empathetic friend you have in the universe and he knows what it is all about, so the two of you can compare notes.
 
-There has never walked this earth, and there never will walk this planet another individual who has experienced the  loneliness and shattering of every conceivable dream, such as Jesus experienced. Every other planet in his local universe benefited from his bestowal but potentially, none so much as ours.
+There has never walked this earth, and there never will walk this planet another individual who has experienced the  loneliness and shattering of every conceivable dream, such as Jesus experienced. Every other planet in his local universe benefited from his bestowal but potentially, none so much as ours.
 
 As a result we are released from all of the deleterious effects of being quarantined, all the damage done by the Caligastia rebellion, and the Adamic default. That is, providing we wish to take advantage of The Spirit of Truth. All of the revelators refer to The Spirit of Truth as an impersonal channel. It is carefully explained that it does not provide a one-to-one communication link, that is everyone, except Jesus. He refers to it as “he”. Note whenever he refers to the coming of the Spirit of Truth of “myself and my Father” he unfailingly says and “when he comes” and “he” will do this and that!
 

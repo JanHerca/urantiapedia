@@ -99,7 +99,7 @@ Future generations will live within some paradigm. As readers dedicated to the F
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/inner-world-of-mankind
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/12/16/inner-world-of-mankind)
 
 <figure class="table chapter-navigator">
   <table>

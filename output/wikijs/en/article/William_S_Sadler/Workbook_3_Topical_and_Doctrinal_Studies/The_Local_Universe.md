@@ -27,7 +27,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Urantia belongs to a system which is well out towards the borderland of your local universe. <a id="s26_96"></a>[UB 15:1.6](/en/The_Urantia_Book/15#p1_6)
 2. Local evolutionary universes are the handiwork of the Paradise Creator Sons. <a id="s27_80"></a>[UB 32:0.1](/en/The_Urantia_Book/32#p0_1)
 3. The Universe Mother Spirit is cocreator in the local universe. <a id="s28_66"></a>[UB 14:6.30](/en/The_Urantia_Book/14#p6_30)
-4. The identification of Urantia up through the grand universe is given on <a id="s29_75"></a>[ [UB 15:14.5](/en/The_Urantia_Book/15#p14_5)
+4. The identification of Urantia up through the grand universe is given on <a id="s29_75"></a>[ [UB 15:14.5](/en/The_Urantia_Book/15#p14_5)
 5. The density of our sun is about one and one-half that of water. <a id="s30_67"></a>[UB 41:4.1](/en/The_Urantia_Book/41#p4_1)
 6. Architectural worlds enjoy ten forms of material life—three vegetable and three animal—with four difficult of comprehension. <a id="s31_128"></a>[UB 43:6.4](/en/The_Urantia_Book/43#p6_4)
 

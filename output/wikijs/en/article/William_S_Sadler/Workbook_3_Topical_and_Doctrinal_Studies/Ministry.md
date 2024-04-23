@@ -140,7 +140,7 @@ The New Testament recognizes many groups of ministers.
 	> “As for you....do the work of an evangelist, fulfill your ministry.” [2 Tim 4:5](/en/Bible/2_Timothy/4#v5).
 	> 
 	> (**Note**: Timothy was first a traveling evangelist—afterward he became a settled pastor.)
-4. _TEACHERS._ 
+4. _TEACHERS._ 
 	> “Now in the church at Antioch there were prophets and teachers.” [Acts 13:1](/en/Bible/Acts_of_the_Apostles/13#v1).
 5. _PASTORS._ ([Eph 4:11](/en/Bible/Ephesians/4#v11).)
 	> (Bear in mind that pastor, bishop, elder, presbyter, and overseer are many times used interchangeably. They were all administrators.)

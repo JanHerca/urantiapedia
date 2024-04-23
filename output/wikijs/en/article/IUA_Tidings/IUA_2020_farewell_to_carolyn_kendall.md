@@ -38,11 +38,11 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Carolyn-Kendall.jpg">
 </figure>
 
-Carolyn Kendall, long time Urantia Book reader, Forum member, faithful and loyal servant to the revelation, a pillar of strength, and beloved friend to many in the Urantia community, recently passed away at the age of 88 on the 7<sup>th</sup> of November after years of poor health.  
+Carolyn Kendall, long time Urantia Book reader, Forum member, faithful and loyal servant to the revelation, a pillar of strength, and beloved friend to many in the Urantia community, recently passed away at the age of 88 on the 7<sup>th</sup> of November after years of poor health.  
 
 Carolyn was the youngest Forum member, joining in 1951 after graduating from high school (her father was also a Forum member having joined at the beginning of the Forum days). A few months after joining, Carolyn began working for Dr. William Sadler as a receptionist for his psychiatric practice and, from him, she heard firsthand about the origins and ongoing project of the Urantia revelation which began in the 1920s and ended in the ‘30s. She continued working for Sadler until 1954 when she left to begin a family. Carolyn’s husband was Tom Kendall who served as a Trustee for twenty years. For ten of those years, he served as the Foundation’s President.
 
-Over the years, Carolyn served in numerous positions of the former Urantia Brotherhood. She was a founding member of the First Society (1956), elected to the General Council (1967) and served two terms, chaired the Fraternal Relations Committee (1975), and elected Vice President (1982). She also served as an Associate Trustee of Urantia Foundation (2003 – 2006).   
+Over the years, Carolyn served in numerous positions of the former Urantia Brotherhood. She was a founding member of the First Society (1956), elected to the General Council (1967) and served two terms, chaired the Fraternal Relations Committee (1975), and elected Vice President (1982). She also served as an Associate Trustee of Urantia Foundation (2003 – 2006).   
 
 Carolyn was a valuable source of information on the history of the early days of the book and Urantia movement. Being the youngest member of the Forum, she has been able to share—right up to recent times with the current generation of readers—her firsthand knowledge of people and events of those early years.
 

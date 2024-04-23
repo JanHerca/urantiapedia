@@ -125,7 +125,7 @@ In the words of the author: «The parables of Jesus do not have a single interpr
 The origins of the documents that gave rise to _The Urantia Book_ are a matter of curiosity to many people. In this article, not only a general review of the revealing process is made, but also a brief historical tour of the genesis of the organizations that emerged around the book and how a community was formed around the teachings of _The Book of Urantia_.
 <br style="clear:both" />
 
- 
+ 
 ## History and teachings: Chronicle of the life of Jesus
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">

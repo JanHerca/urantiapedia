@@ -41,7 +41,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 > 
 > The prayer of a God-knowing person may be so distorted by ignorance and so deformed by superstition that the answer thereto would be highly undesirable. Then must the intervening spirit beings so translate such a prayer that, when the answer arrives, the petitioner wholly fails to recognize it as the answer to his prayer.
 > 
-> All true prayers are addressed to spiritual beings, and all such petitions must be answered in spiritual terms, and all such answers must consist in spiritual realities. Spirit beings cannot bestow material answers to the spirit petitions of even material beings. Material beings can pray effectively only when they “pray in the spirit.” 
+> All true prayers are addressed to spiritual beings, and all such petitions must be answered in spiritual terms, and all such answers must consist in spiritual realities. Spirit beings cannot bestow material answers to the spirit petitions of even material beings. Material beings can pray effectively only when they “pray in the spirit.” 
 > 
 > No prayer can hope for an answer unless it is born of the spirit and nurtured by faith.
 > 

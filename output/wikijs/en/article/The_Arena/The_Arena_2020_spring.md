@@ -127,7 +127,7 @@ Our mission here on this planet is to strive to become Godlike, but the leap fro
 
 He named himself the Son of Man, and the Son of God.
 
-The Universe is teeming with Sons of God, starting with the Eternal Son, then all the descending Sons, the Paradise Sons of God—Creator Sons, Magisterial Sons, and Trinity Teacher Sons; then the Local Universe Sons of God–Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, and the Life Carriers; and numerous, unrevealed orders of Trinitized Sons.  Then we have the ascending Sons—Father-fused, Son-fused and Spirit-fused mortals, evolutionary seraphim, ascending Material Sons, Translated Midwayers, personalized Adjusters.
+The Universe is teeming with Sons of God, starting with the Eternal Son, then all the descending Sons, the Paradise Sons of God—Creator Sons, Magisterial Sons, and Trinity Teacher Sons; then the Local Universe Sons of God–Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, and the Life Carriers; and numerous, unrevealed orders of Trinitized Sons.  Then we have the ascending Sons—Father-fused, Son-fused and Spirit-fused mortals, evolutionary seraphim, ascending Material Sons, Translated Midwayers, personalized Adjusters.
 
 [Read more](/en/article/Marion_Steward/Where_are_the_Daughters_of_God)
 <br style="clear:both;"/>
@@ -187,7 +187,7 @@ Anne Bendall, QLD
 
 **Mining the Archives**
 
-_(**Editor’s Note:** Mining the Archives is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from the Six-O-Six Newsletter July/August 1990**)_
+_(**Editor’s Note:** Mining the Archives is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from the Six-O-Six Newsletter July/August 1990**)_
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Cecilia-Tas-16-289x300.jpg" alt="Anne Bendall">
@@ -195,7 +195,7 @@ _(**Editor’s Note:** Mining the Archives is a collection of articles that ha
 
 Well, sit down, open up your heart and pour it all out to Michael! Open up the channel to his Spirit of Truth and he can act as he desires, as the most sympathetic, empathetic friend you have in the universe and he knows what it is all about, so the two of you can compare notes.
 
-There has never walked this earth, and there never will walk this planet another individual who has experienced the  loneliness and shattering of every conceivable dream, such as Jesus experienced. Every other planet in his local universe benefited from his bestowal but potentially, none so much as ours.
+There has never walked this earth, and there never will walk this planet another individual who has experienced the  loneliness and shattering of every conceivable dream, such as Jesus experienced. Every other planet in his local universe benefited from his bestowal but potentially, none so much as ours.
 
 As a result we are released from all of the deleterious effects of being quarantined, all the damage done by the Caligastia rebellion, and the Adamic default. That is, providing we wish to take advantage of The Spirit of Truth. All of the revelators refer to The Spirit of Truth as an impersonal channel. It is carefully explained that it does not provide a one-to-one communication link, that is everyone, except Jesus. He refers to it as “he”. Note whenever he refers to the coming of the Spirit of Truth of “myself and my Father” he unfailingly says and “when he comes” and “he” will do this and that!
 
@@ -212,14 +212,14 @@ Neil Francey, QLD
 <img src="/image/article/The_Arena/Neil-Francey-18-243x300.jpg" alt="Neil Francey">
 </figure>
 
-This work is dealing with  business concepts  that can be used by any organization or commercial enterprise as a guide for the best possible practices based on the highest human values.
+This work is dealing with  business concepts  that can be used by any organization or commercial enterprise as a guide for the best possible practices based on the highest human values.
 
 Any enterprise which applies the principles and concepts described in _The Urantia Book_, is one based on ethics, honesty, the Golden Rule, and fairness, all motivated by the will of God.
 <br style="clear:both;"/>
 
 > _If we know God, our real business on earth is so to live as to permit_ _the Father to reveal himself in our lives …_ \[Paper 132:7.2, page 1466.2\]
 
-The specific religious, political, and social pursuits of the individuals of a business are personal matters. However they will in some way reflect on all aspects of their lives. It therefore follows that a Urantia inspired organization will be built on those values held by the individual. If individuals and groups of people act in accordance with natural and spiritual law, there is harmony and improved living in a material sense. 
+The specific religious, political, and social pursuits of the individuals of a business are personal matters. However they will in some way reflect on all aspects of their lives. It therefore follows that a Urantia inspired organization will be built on those values held by the individual. If individuals and groups of people act in accordance with natural and spiritual law, there is harmony and improved living in a material sense. 
 
 [Read more](/en/article/Neil_Francey/Business_on_Urantia)
 
@@ -244,7 +244,7 @@ _My sympathies to Martin’s loved ones. I haven’t seen him for a while, but h
 
 In an article Martin wrote in 1988 titled “Urantia Towards Light and Life” he said:
 
-_There is a song called “What Are You Doing the Rest of Your Life.” Well, every day for the rest of my life I intend to say this prayer: “God my Father, it is my will that Urantia achieves progress (as you will) ever more effectively. Michael, I love you.” Do I expect to see real progress during my lifetime? Yes I do! That song is from a motion picture called “The Happy Ending”!_
+_There is a song called “What Are You Doing the Rest of Your Life.” Well, every day for the rest of my life I intend to say this prayer: “God my Father, it is my will that Urantia achieves progress (as you will) ever more effectively. Michael, I love you.” Do I expect to see real progress during my lifetime? Yes I do! That song is from a motion picture called “The Happy Ending”!_
 <br style="clear:both;"/>
 
 ## August 21 – a Poem
@@ -292,7 +292,7 @@ the inner recesses of my soul.<br>
 </p>
 
 [Read more](/en/article/Barry_Culligan/The_Stillness_a_Poem)
- 
+ 
 ## About ANZURA
 
 Anzura Admin
@@ -301,7 +301,7 @@ Anzura Admin
 <img src="/image/article/The_Arena/Aust-NZ-snip-300x207.jpg" alt="Arena newsletter">
 </figure>
 
-The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
+The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
 
 It is our intention not to encumber our work for the spreading of _The Urantia Book_ and its teachings with church, temple, or other spiritual institutions. Our members have come to recognise the significance of the book and the integrated beauty of its supernal teachings which encourage us to develop our own philosophy through study, experience, decisions, and actions. Nevertheless, we hold the view, and recognise that collectively there are many valuable projects and programs we can undertake together to achieve our goals.
 
@@ -368,7 +368,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-spring-2020/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-spring-2020/)
 
 <figure class="table chapter-navigator">
   <table>

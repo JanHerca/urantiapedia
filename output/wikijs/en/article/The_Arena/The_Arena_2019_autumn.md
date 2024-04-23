@@ -68,7 +68,7 @@ Julian McGarry, Tasmania
 <img src="/image/article/The_Arena/Julian-McGarry-2016-253x300.jpg" alt="Julian McGarry" width="350">
 </figure>
 
-The recent tragic events in Christchurch underline how quickly our lives can change and how turbulent our times have become. The global phenomenon of the 24-hour news cycle and the proliferation of social media have certainly contributed to the increasing incidence of social unease and distress.  At such times, isn’t it wonderful that we, as students of _The Urantia Book_, can be comforted by these promises:
+The recent tragic events in Christchurch underline how quickly our lives can change and how turbulent our times have become. The global phenomenon of the 24-hour news cycle and the proliferation of social media have certainly contributed to the increasing incidence of social unease and distress.  At such times, isn’t it wonderful that we, as students of _The Urantia Book_, can be comforted by these promises:
 
 <br style="clear:both;"/>
 
@@ -96,9 +96,9 @@ This year the ANZURA conference returns to the nation’s capital, this time in 
 
 ### Theme: Mind Over Matter—Spirit Over Mind
 
-> _In the evolutionary superuniverses energy-matter is dominant except in personality, where spirit through the mediation of mind is struggling for the mastery. The goal of the evolutionary universes is the subjugation of energy-matter by mind, the co-ordination of mind with spirit, and all of this by virtue of the creative and unifying presence of personality._ <a id="a98_365"></a>[[UB 116:6.1](/en/The_Urantia_Book/116#p6_1)]
+> _In the evolutionary superuniverses energy-matter is dominant except in personality, where spirit through the mediation of mind is struggling for the mastery. The goal of the evolutionary universes is the subjugation of energy-matter by mind, the co-ordination of mind with spirit, and all of this by virtue of the creative and unifying presence of personality._ <a id="a98_365"></a>[[UB 116:6.1](/en/The_Urantia_Book/116#p6_1)]
 
-It is pretty obvious that in the 21<sup>st</sup> Century there is considerable understanding of the ways in which the human mind has been subjugating matter. The industrial and technological advances of the previous couple of centuries have resulted in modern men becoming virtual worshipers of science, and many suggest that this will lead eventually to mankind’s complete understanding of the material world.
+It is pretty obvious that in the 21<sup>st</sup> Century there is considerable understanding of the ways in which the human mind has been subjugating matter. The industrial and technological advances of the previous couple of centuries have resulted in modern men becoming virtual worshipers of science, and many suggest that this will lead eventually to mankind’s complete understanding of the material world.
 
 [Read more](/en/article/The_Arena/ANZURAs_Conference_Canberra_2019)
 
@@ -111,7 +111,7 @@ ANZURA Board
 <img src="/image/article/The_Arena/Study-Day-Group-lighter-300x169.jpg" alt="Study Day Group">
 </figure>
 
-This year’s National Study Day, where you can participate in a study group in your local area and read the same paper on the same day as other readers, will be held on **Saturday 1 June, 2019.**  We’ll be studying **Paper** **9: _Relation of the Infinite Spirit to the Universe._**
+This year’s National Study Day, where you can participate in a study group in your local area and read the same paper on the same day as other readers, will be held on **Saturday 1 June, 2019.**  We’ll be studying **Paper** **9: _Relation of the Infinite Spirit to the Universe._**
 
 <br style="clear:both;"/>
 
@@ -154,7 +154,7 @@ Neil Francey, Queensland
 _(Presented at Urantia Association’s International Conference in Dourdan, France, July 2002)_
 
 
-> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ <a id="a156_488"></a>[[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
+> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ <a id="a156_488"></a>[[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
 
 In recent days we have learnt of the brilliant plans of the Father and of the Son. Now we shall see the correlation of these plans with the plan of the Infinite Spirit.
 
@@ -190,7 +190,7 @@ Martin McBurney, VIC
 <img src="/image/article/The_Arena/Mining-the-Archives.jpg" alt="Mining Archives">
 </figure>
 
-_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology.)_
+_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology.)_
 
 _From the Six-O-Six Newsletter , Sept-Oct 1988_
 <br style="clear:both" />
@@ -292,7 +292,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-autumn-2019/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-autumn-2019/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -45,7 +45,7 @@ _The Urantia Book_ tells us that:
 
 > _Service—more service, increased service, difficult service, adventurous service, and at last divine and perfect service—is the goal of time and the destination of space._ <a id="a45_174"></a>[[UB 28:6.17](/en/The_Urantia_Book/28#p6_17)] 
 
-That’s all fine and dandy, but I’ve got a hive of hornets that have embedded themselves in the walls of my home and are swarming the office.  
+That’s all fine and dandy, but I’ve got a hive of hornets that have embedded themselves in the walls of my home and are swarming the office.  
 
 I have been devoting a great amount of time to the contemplation of “motivations” lately. My wife and I will be giving a short speech on the concept of service to an upcoming conference so we are reading about it, discussing it with others, and jotting down ideas to piece together into a speech. One of the definitions that _The Urantia Book_ provides is that “service” is a “living love” which I generally re-phrase as “service is love put into action.” And although I’m sure I’ll make a metaphor out of this at some point, I’m distracted because there are literally dozens of hornets buzzing the window trying to figure out how to escape through glass panes.
 

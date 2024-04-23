@@ -69,7 +69,7 @@ We could respond to this statement by telling ourselves that we do not have the 
 
 Once again, The Publication Mandate offers food for thought:
 
-> _This book is given to those who are ready for it, long before the day of its world mission. Thousands of study groups must be set up and the book must be translated into several languages._ [The Publication Mandate](/en/article/The_Publication_Mandate)
+> _This book is given to those who are ready for it, long before the day of its world mission. Thousands of study groups must be set up and the book must be translated into several languages._ [The Publication Mandate](/en/article/The_Publication_Mandate)
 
 Here again, mention is made of the period in which we live, and especially our relationship with the book. Interestingly, in this passage there is also a temporal time dimension and again the need for translations. Are we really the ones who are ready for this book or will there arise more gifted people for this mission? Each person must decide for himself.
 
@@ -79,7 +79,7 @@ What may seem difficult at first could easily be accomplished if each one of us 
 
 Jesus gave us a phenomenal amount of practical and spiritual examples. The Publication Mandate invites us to explore its lessons:
 
-> _The future is not open to your mortal comprehension, but you will do well to diligently study the order, plan, and methods of progression as they were enacted in the earth life of Michael when the Word was made flesh._ [The Publication Mandate](/en/article/The_Publication_Mandate)
+> _The future is not open to your mortal comprehension, but you will do well to diligently study the order, plan, and methods of progression as they were enacted in the earth life of Michael when the Word was made flesh._ [The Publication Mandate](/en/article/The_Publication_Mandate)
 
 Not only do the Urantia papers teach us how Jesus did it, but also they give us invaluable lessons on personal spiritual life transformation.
 
@@ -118,13 +118,13 @@ Here are a few examples:
 11. Read the document titled “101 Ways to Introduce _The Urantia Book”_ by Vern Grimsley and spread spiritual truth. Put some of his advice into practice.
 12. Give your name for an activity that appeals to you in the volunteer center in the city where you live.
 
-Let me tell you a little story about an episode of the time when I was President of the Urantia Association International (UAI). During one of my many trips to Colombia, I was invited to a dinner organized by a world-renowned international social club, I believe it was the Rotary Club. The person who facilitated this invitation, Tamila Ragimova, then President of the Urantia Association of Medellin, had taken great care to seat us at the table of Presidents, which gave me the opportunity to be seated next to the outgoing President of this association. During supper, I asked him about the importance of social clubs such as  Rotary in Colombia and his response really surprised me. He said without these social clubs the country would find itself in financially and intellectually poorer conditions, while facing many problems of social inequality. He then said that the United States, thanks to the presence of many associations of this kind, could enjoy a cultural and economic wealth superior to many countries by promoting the sharing of cultural, religious, artistic, and information resources.
+Let me tell you a little story about an episode of the time when I was President of the Urantia Association International (UAI). During one of my many trips to Colombia, I was invited to a dinner organized by a world-renowned international social club, I believe it was the Rotary Club. The person who facilitated this invitation, Tamila Ragimova, then President of the Urantia Association of Medellin, had taken great care to seat us at the table of Presidents, which gave me the opportunity to be seated next to the outgoing President of this association. During supper, I asked him about the importance of social clubs such as  Rotary in Colombia and his response really surprised me. He said without these social clubs the country would find itself in financially and intellectually poorer conditions, while facing many problems of social inequality. He then said that the United States, thanks to the presence of many associations of this kind, could enjoy a cultural and economic wealth superior to many countries by promoting the sharing of cultural, religious, artistic, and information resources.
 
 The world abounds with many various associations sharing an unimaginable number of exchanges of all kinds. This sharing would aid the world’s cultural and religious evolution adventure. Each person should participate in one or more organizations or projects to sow seeds of truth. We can “fertilize” the ground thus helping to prepare the world for our time.
 
-> _Thus will the book be in readiness when the battle for man’s liberty is finally won and the world is once more made safe for the religion of Jesus and the freedom of mankind._  [The Publication Mandate](/en/article/The_Publication_Mandate)
+> _Thus will the book be in readiness when the battle for man’s liberty is finally won and the world is once more made safe for the religion of Jesus and the freedom of mankind._  [The Publication Mandate](/en/article/The_Publication_Mandate)
 
-The important thing for us is to be systematic and consistent in our actions. There is no need to travel the world or be scholars to make a grain of salt; but simply to recognize available opportunities “as we pass by” in our lives. We may live a salty life regularly sowing the seeds of truth from our souls. There is nothing more powerful and rewarding than unselfish loving service. Neither do we need to convince them to read _The Urantia Book_. When they are ready they will find it like you did, because the angels will be ready to harvest the seeds you so lovingly scattered.
+The important thing for us is to be systematic and consistent in our actions. There is no need to travel the world or be scholars to make a grain of salt; but simply to recognize available opportunities “as we pass by” in our lives. We may live a salty life regularly sowing the seeds of truth from our souls. There is nothing more powerful and rewarding than unselfish loving service. Neither do we need to convince them to read _The Urantia Book_. When they are ready they will find it like you did, because the angels will be ready to harvest the seeds you so lovingly scattered.
 
 Opportunities to influence family, friends, fellow workers, even managers and bosses, might emerge if we truly desire service.
 

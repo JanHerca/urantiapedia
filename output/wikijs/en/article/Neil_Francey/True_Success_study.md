@@ -66,7 +66,7 @@ Practice of worship, union with divinity, we gather strength and wisdom. In this
 
 **Be Perfect**
 
-It is the purpose of the long career of all mortals to ascend by personal choice and effort to find our individual self and our own journey to heaven.  
+It is the purpose of the long career of all mortals to ascend by personal choice and effort to find our individual self and our own journey to heaven.  
 
 **Civilisation**
 
@@ -96,7 +96,7 @@ God is a living friend and a loving father. There is an exhilaration in having s
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/true-success
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/07/29/true-success)
 
 - Original _True Success_ PDF: http://anzura.urantia-association.org/wp-content/uploads/sites/3/2021/04/2021-True-Success.pdf
 

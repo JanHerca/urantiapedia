@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 **September 10-13, 2015 – Urantia Foundation, Chicago**
 
-_The Urantia Book_ informs us that as we are led by the Spirit of God, we are Daughters (Sons) of God.
+_The Urantia Book_ informs us that as we are led by the Spirit of God, we are Daughters (Sons) of God.
 
 Have you ever acted upon an inspiration of value that brought you great (spiritual) joy? In their next retreat, “Dancing with God,” four Daughters of God have put together a program in which the participants will explore questions such as:
 <br style="clear:both;"/>

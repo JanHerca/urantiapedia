@@ -42,9 +42,9 @@ _(Editor’s Note: Jean Ascher is the translator of_ Urantia Bogen, _the Danish 
 
 My show name is Yman Juran and I was born inside my first real life virtual game, called Second Life (SL) on the 27th of February 2007. I was almost like a newborn babe, had never before played any computer game, and knew absolutely nothing about any game, its ethics, way of function, style, or what I was able to do and experience, but I was soon to learn.
 
-Second Life is a virtual space where imagination, fantasy, fiction, and historic reality can be expressed with beauty, goodness, and intelligence. But before we start the journey into Second Life, into the grid and on the many simulators (sims), the reader needs to know a few basics. A sim is 256 m x 256 m (65,536 m²) of land and total grid size is 2065 km<sup>2</sup>. You initially join the world by creating yourself as an avatar. Whatever you select to be, you can always change later. An avatar is basically just a living creature, and you can be whatever you like from superhuman, to angel, magician, elf, yourself, robot, mermaid, dragon, beetle, crow, or even animals such as a seadryke or a snail.  But be aware that behind each living creature you meet is a living personality sitting behind his or her computer somewhere in the world. You can either chat (type) or talk directly with them, even Skype.
+Second Life is a virtual space where imagination, fantasy, fiction, and historic reality can be expressed with beauty, goodness, and intelligence. But before we start the journey into Second Life, into the grid and on the many simulators (sims), the reader needs to know a few basics. A sim is 256 m x 256 m (65,536 m²) of land and total grid size is 2065 km<sup>2</sup>. You initially join the world by creating yourself as an avatar. Whatever you select to be, you can always change later. An avatar is basically just a living creature, and you can be whatever you like from superhuman, to angel, magician, elf, yourself, robot, mermaid, dragon, beetle, crow, or even animals such as a seadryke or a snail.  But be aware that behind each living creature you meet is a living personality sitting behind his or her computer somewhere in the world. You can either chat (type) or talk directly with them, even Skype.
 
-For those readers familiar with 3D designer programs, it is possible within SL to create almost anything. Besides the 3D creativity, which is quite advanced and amazing, there are also particle effects. The best comparison is to say it is like fireworks, (pyrotechnics) but you can shape it into any form such as rings, mist, smoke, steams, clouds and make it do as you like. The SL world contains landscapes, mountains, rivers, hills, underground, trees, and animals (animated), as well as weather and time. And you can activate rain, thunder, fire, snow and other natural effects as well as unnatural ones. You can make water yellow and turn daylight to midnight in an instant. You can, besides walking, also fly, swim, teleport yourself, drive and bicycle. I have participated in Second Life for 14 years and if you are interested in the details, and there are many, please contact me by email by clicking here: [Yman Juran](mailto:Yourantiaman@mail.dk)
+For those readers familiar with 3D designer programs, it is possible within SL to create almost anything. Besides the 3D creativity, which is quite advanced and amazing, there are also particle effects. The best comparison is to say it is like fireworks, (pyrotechnics) but you can shape it into any form such as rings, mist, smoke, steams, clouds and make it do as you like. The SL world contains landscapes, mountains, rivers, hills, underground, trees, and animals (animated), as well as weather and time. And you can activate rain, thunder, fire, snow and other natural effects as well as unnatural ones. You can make water yellow and turn daylight to midnight in an instant. You can, besides walking, also fly, swim, teleport yourself, drive and bicycle. I have participated in Second Life for 14 years and if you are interested in the details, and there are many, please contact me by email by clicking here: [Yman Juran](mailto:Yourantiaman@mail.dk)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/Jean-Asher-Fire-Tricks-300x226.jpg">
@@ -62,15 +62,15 @@ I joined the virtual world with one purpose: To create a virtual entertainment c
 </figure>
 
 
-Likewise I had all my life been a notorious book reader, especially interested in philosophy, cosmology, and universal revelations of all kinds so it was natural for me to add various specialized designed spiritual talks into the performance, since what I had decided to create was not  going to be an entertainment show only, but rather an “edutainment” and a highly live experience with a message of wisdom, peace, enlightenment, and love which would and could uplift the listeners and the whole culture inside Second Life. I remembered a saying from my younger days which somehow had been lingering within my mind. “What you find missing in this world – create it.”
+Likewise I had all my life been a notorious book reader, especially interested in philosophy, cosmology, and universal revelations of all kinds so it was natural for me to add various specialized designed spiritual talks into the performance, since what I had decided to create was not  going to be an entertainment show only, but rather an “edutainment” and a highly live experience with a message of wisdom, peace, enlightenment, and love which would and could uplift the listeners and the whole culture inside Second Life. I remembered a saying from my younger days which somehow had been lingering within my mind. “What you find missing in this world – create it.”
 
 So in short …I wanted to create a Urantia show which was much more than just a virtual show for fun and enjoyment but a performance which would enrich and elevate the souls and spirits of the ones who happen to be present. I wanted to create a spiritual impression within the minds of the audience which would last beyond long down time… and into the reality of the future.
 
 From the 23rd of June 2007, and until today, 14 years later, we have done nearly 350 shows.
 
-I had made contacts with various DJs and uploaded  their songs to the stage program text, so when we walk on stage for a show I have an American DJ, a Portuguese, a Dutch, and a German dancer and myself from Denmark all cooperating together, ready to do one full hour of live performances in synchronization as close as possible to the speed of light making acrobatic animations, fire dancing in rotating trapezes, walking elephants, high-wire and rolling  balls all alive, jumping through fire rings with fire pois and sticks in hand and mouth and fire helmets on our heads, spiced with the colors of the spectrum, spinning, exploding, flying, streaming out from us and all around intermixed with various enlightened talks and music  interspersing/wrapping the show into a complex fascinating spiritual experience—reaching an audience from all over the world.
+I had made contacts with various DJs and uploaded  their songs to the stage program text, so when we walk on stage for a show I have an American DJ, a Portuguese, a Dutch, and a German dancer and myself from Denmark all cooperating together, ready to do one full hour of live performances in synchronization as close as possible to the speed of light making acrobatic animations, fire dancing in rotating trapezes, walking elephants, high-wire and rolling  balls all alive, jumping through fire rings with fire pois and sticks in hand and mouth and fire helmets on our heads, spiced with the colors of the spectrum, spinning, exploding, flying, streaming out from us and all around intermixed with various enlightened talks and music  interspersing/wrapping the show into a complex fascinating spiritual experience—reaching an audience from all over the world.
 
-Each show is written with text designed and formulated to that particular event, but always will I have my DJ saying: 
+Each show is written with text designed and formulated to that particular event, but always will I have my DJ saying: 
 
 **The Opening**…
 
@@ -78,9 +78,9 @@ Each show is written with text designed and formulated to that particular event,
 <img src="/image/article/IUA_Journal/ChangHigh-Sisters.jpg">
 </figure>
 
-“We welcome all of you to (name of sim).” And, “We welcome you to a performance done in inspiration and appreciation to The Mighty Acts of the Gods—who support humanity in its progressive future of creativity and culture here in SL as well as in reality.”
+“We welcome all of you to (name of sim).” And, “We welcome you to a performance done in inspiration and appreciation to The Mighty Acts of the Gods—who support humanity in its progressive future of creativity and culture here in SL as well as in reality.”
 
-“The show is an attempt to morph true cosmic reality with ultimate virtuality, a morphing of spiritual experience with existential cosmic consciousness.”
+“The show is an attempt to morph true cosmic reality with ultimate virtuality, a morphing of spiritual experience with existential cosmic consciousness.”
 
 > The high mission of any art is, by its illusions, to foreshadow a higher universe reality, to crystallize the emotions of time into the thought of eternity. <a id="a84_159"></a>[[UB 48:7.23](/en/The_Urantia_Book/48#p7_23)]
 
@@ -94,13 +94,13 @@ Each show is written with text designed and formulated to that particular event,
 
 “We are gathered here tonight to celebrate you the magnificent people of Sanctuary….the residents and citizens from Second Life.”
 
-“A true documentation of mortal and divine creativity and how it can be merged into higher perceptions of cosmic reality.”
+“A true documentation of mortal and divine creativity and how it can be merged into higher perceptions of cosmic reality.”
 
 “A virtual space where imagination, fantasy, fiction and historic reality can be expressed with beauty, goodness, and intelligence.”
 
 “A universe where human potentials and the highest and most advanced technology can be utilized for the benefit of mankind and its future.”
 
-“We, The ChangHigh Trinity Sisters and I, would like to encourage each of you to work for the sister- and brotherhood of man as a goal wherever your work takes you.”
+“We, The ChangHigh Trinity Sisters and I, would like to encourage each of you to work for the sister- and brotherhood of man as a goal wherever your work takes you.”
 
 “Because Life, in whatever form, shape, kind, or style, is the ultimate gift of Love.”
 
@@ -126,29 +126,29 @@ All humankind is one vast family and this world our home. We sleep beneath one r
 
 **And in the finale**…
 
-“May I have the honor to present The ChangHigh Trinity Sisters,  Miss Melvin Starbrook, Miss Nikira Naimarc, Miss Kerstin, and Miss Yman Juran.”
+“May I have the honor to present The ChangHigh Trinity Sisters,  Miss Melvin Starbrook, Miss Nikira Naimarc, Miss Kerstin, and Miss Yman Juran.”
 
-“We hope you all have enjoyed the legendary sisters and their Show of Life, Light, and Love…”
+“We hope you all have enjoyed the legendary sisters and their Show of Life, Light, and Love…”
 
 “We thank you all, and may your journey through the labyrinth of your mortal existence be blessed and filled with Light, Life and Love…”
 
 “My name is Ktahdn Vesuvino, the sisters and your DJ narrator.”
 
-“Feel free to roam the universe of Light, Life and Love …because it is made for you and me.”
+“Feel free to roam the universe of Light, Life and Love …because it is made for you and me.”
 
-“The show was held in appreciation to the Universal Creator of the universe of universes who filled it with Light, Life and Love for all of us to share…”
+“The show was held in appreciation to the Universal Creator of the universe of universes who filled it with Light, Life and Love for all of us to share…”
 
 “So take care of it because it is the most precious gift ever given and it is for us to learn and grow within, our walk toward our ultimate destiny as immortal children of the Most High. “
 
 “You have just witnessed a cosmic conceptualization of divine creativity of Light, Life and Love.”
 
-“So… see you in the future… and may peace prevail among you all.”
+“So… see you in the future… and may peace prevail among you all.”
 
 As the DJ says these words, we go to the front of stage, stop, make a back flip into the air and out of sight (actually under the floor), change into white garments like lightening white angels, return up and kneel three times, teleport out, and the show is finished.
 
 ---
 
-This is one way of communicating a message so as to stimulate the listener to think or reflect without actually saying anything about the source itself.  I find this idea of watering human imagination and fertilizing the mind with new insight is a good way to stimulate people’s curiosity, so they feel an urge to take an initiative to investigate the perceptions planted within.
+This is one way of communicating a message so as to stimulate the listener to think or reflect without actually saying anything about the source itself.  I find this idea of watering human imagination and fertilizing the mind with new insight is a good way to stimulate people’s curiosity, so they feel an urge to take an initiative to investigate the perceptions planted within.
 
 One can plow the furrows of cerebral matter, fertilize the spirit of a being and be watering the growing sprout of a spiritual personality and never know when the fruits will blossom.
 
@@ -158,7 +158,7 @@ I have created within SL a fully readable version of _The Urantia Book_ for anyo
 
 _The Urantia Book_ is, as such, one huge fertilizing bomb prepared to initialize the explosion of light, life, and love within anyone who gets hit by it.
 
-YOUTUBE:   Second Life 16-year birthday, June 23, 2019.
+YOUTUBE:   Second Life 16-year birthday, June 23, 2019.
 
 https://youtu.be/HlyH58FtknU
 
@@ -170,7 +170,7 @@ See you in the future. Feel free to roam the universe of Light, Life and Love…
 
 In closing, I would like to extend an invitation to you, the reader to visit us inside SL.
 
-I can be contacted inside SL as Yman Juran.
+I can be contacted inside SL as Yman Juran.
 
 [https://community.secondlife.com/profile/763178-yman-juran/content/](https://community.secondlife.com/profile/763178-yman-juran/content/)
 

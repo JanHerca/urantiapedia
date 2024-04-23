@@ -65,7 +65,7 @@ For more information and registration details you can either:
 
 - Visit the website at: [https://anzura.urantia-association.org/2018/11/12/anzuras-conference-canberra-2019/](https://anzura.urantia-association.org/2018/11/12/anzuras-conference-canberra-2019/) or
 - Email Kathleen at [kathleen@theswadlings.com.au](mailto:kathleen@theswadlings.com.au), phone: 0417 706 692 or
-- Click on this [Conference Brochure](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2019/04/ANZURAConf2019-broch.pdf)
+- Click on this [Conference Brochure](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2019/04/ANZURAConf2019-broch.pdf)
 
 <a href="http://anzura.urantia-association.org/wp-content/uploads/sites/3/2019/04/ANZURAConf2019-broch.pdf">
 <figure id="Figure_1" class="image urantiapedia">
@@ -75,7 +75,7 @@ For more information and registration details you can either:
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/conference-reminder-register
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/conference-reminder-register)
 
 <figure class="table chapter-navigator">
   <table>

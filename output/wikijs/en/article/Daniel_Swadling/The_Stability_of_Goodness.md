@@ -133,7 +133,7 @@ So next time you’re sitting around the campfire and the only thing you have to
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/stability-of-goodness
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/stability-of-goodness)
 
 <figure class="table chapter-navigator">
   <table>

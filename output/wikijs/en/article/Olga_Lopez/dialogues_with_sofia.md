@@ -70,7 +70,7 @@ This novel is free in electronic format. These are the links to download it for 
     - [ePub](https://drive.google.com/file/d/1cjAiy-CUgIDl_rUMbCviYvL6LOoEX70X/view?usp=sharing)
     - [MOBI](https://drive.google.com/file/d/15-Qbr6Q3XPFbBPouuh5QNnyUgnjMPQ-U/view?usp=sharing)
 
-The Kindle versions are available at Amazon.com. Paperbacks are available through Amazon and Lulu.com. Just look for the title!
+The Kindle versions are available at Amazon.com. Paperbacks are available through Amazon and Lulu.com. Just look for the title!
 
 I always say that I write the books that I would like to read. There is little left to invent in terms of ways to tell a story, but there is a lot to do in terms of the stories that need to be told.
 

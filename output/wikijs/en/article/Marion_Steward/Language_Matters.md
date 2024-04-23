@@ -58,7 +58,7 @@ This image expresses the key aspects of communication. Person A has a thought/id
 
 This is explained as follows:
 
-Words cannot carry thoughts and feelings, because these occur inside people.  We can only try to encode these into words, but we will each have developed our own unique meanings for all words through our own experiences. (Barnett & O’Rourke, 201, p. 33).
+Words cannot carry thoughts and feelings, because these occur inside people.  We can only try to encode these into words, but we will each have developed our own unique meanings for all words through our own experiences. (Barnett & O’Rourke, 201, p. 33).
 
 This aspect of communication to me is one of the most challenging – that each person has their own understanding of what words mean, which has been influenced by things they have experienced in their lives, and, most importantly, they do not realise that other people have a different understanding. It is not hard to see how this easily leads to miscommunication and misunderstandings.
 
@@ -159,17 +159,17 @@ In the end, communication is mostly between individuals, and I feel that here we
 
 - Barnett, S. & O’Rourke, s. (2011). _Communication, Organisation and Innovation_ (3<sup>rd</sup> Edn.). Pearson New Zealand.
 
-- Cimpanu, C. (2020, August). IBM, Microsoft staff rally to remove racially insensitive language from products. ZDNet.  [https://www.zdnet.com/article/ibm-microsoft-staff-rally-to-remove-racially-insensitive-language-from-products/](https://www.zdnet.com/article/ibm-microsoft-staff-rally-to-remove-racially-insensitive-language-from-products/)
+- Cimpanu, C. (2020, August). IBM, Microsoft staff rally to remove racially insensitive language from products. ZDNet.  [https://www.zdnet.com/article/ibm-microsoft-staff-rally-to-remove-racially-insensitive-language-from-products/](https://www.zdnet.com/article/ibm-microsoft-staff-rally-to-remove-racially-insensitive-language-from-products/)
 
-- Harvie, W. (2018). Flashback:  NZ almost legalises eugenic sterilisation.  Stuff.  [https://www.stuff.co.nz/national/101587899/flashback-nz-almost-legalises-eugenic-sterilisation](https://www.stuff.co.nz/national/101587899/flashback-nz-almost-legalises-eugenic-sterilisation)
+- Harvie, W. (2018). Flashback:  NZ almost legalises eugenic sterilisation.  Stuff.  [https://www.stuff.co.nz/national/101587899/flashback-nz-almost-legalises-eugenic-sterilisation](https://www.stuff.co.nz/national/101587899/flashback-nz-almost-legalises-eugenic-sterilisation)
 
-- Language Matters: The Importance of Sensitivity in Writing: Part 1.  (2013).  [https://en-author-services.edanz.com/blogs/language-matters-importance-sensitivity-writing-part-1](https://en-author-services.edanz.com/blogs/language-matters-importance-sensitivity-writing-part-1)
+- Language Matters: The Importance of Sensitivity in Writing: Part 1.  (2013).  [https://en-author-services.edanz.com/blogs/language-matters-importance-sensitivity-writing-part-1](https://en-author-services.edanz.com/blogs/language-matters-importance-sensitivity-writing-part-1)
 
-- Oliva, Sioux (2013).  The Sadlers and Eugenics.  [http://legacyhistory.com/blog/the-sadlers-and-eugenics](http://legacyhistory.com/blog/the-sadlers-and-eugenics)
+- Oliva, Sioux (2013).  The Sadlers and Eugenics.  [http://legacyhistory.com/blog/the-sadlers-and-eugenics](http://legacyhistory.com/blog/the-sadlers-and-eugenics)
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/language-matters
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/02/10/language-matters)
 
 <figure class="table chapter-navigator">
   <table>

@@ -41,7 +41,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 ## In This Issue
 
-- **President’s Report – Summer 2021** – Phillip Marriott, Adelaide, SA 
+- **President’s Report – Summer 2021** – Phillip Marriott, Adelaide, SA 
 - **2022 Anzura Annual Conference** – Conference Committee
 - **2021 ANZURA Virtual Conference Report** – Kathleen Swadling, Sydney NSW
 - **Living In the Flesh** – Julian Martin, Sydney NSW
@@ -58,7 +58,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 ## President’s Report – Summer 2021
 
-Phillip Marriott, Adelaide, SA 
+Phillip Marriott, Adelaide, SA 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Phillip-Marriott-150x150.jpg" alt="Phillip Marriott">
@@ -97,7 +97,7 @@ Kathleen Swadling, Sydney NSW
 <img src="/image/article/The_Arena/Goodness-of-Love-slide-screenshot-e1639355665587.jpg" alt="Goodness of Love slide">
 </figure>
 
-This year’s 2021 ANZURA conference, hosted by our Sydney team was held as a virtual Zoom conference on 2<sup>nd</sup> October. Once again, for all the “new normal” reasons we had to cancel our in-person event. We had high hopes all year that we could meet face-to-face as we saw our case numbers rapidly diminish to almost zero and then… as we all know, Delta hit and cases soared, so it was back to square one. Nevertheless, since we are told that disappointment is actually good for us, we joyfully knuckled down to figure out how we could adjust our plans accordingly.
+This year’s 2021 ANZURA conference, hosted by our Sydney team was held as a virtual Zoom conference on 2<sup>nd</sup> October. Once again, for all the “new normal” reasons we had to cancel our in-person event. We had high hopes all year that we could meet face-to-face as we saw our case numbers rapidly diminish to almost zero and then… as we all know, Delta hit and cases soared, so it was back to square one. Nevertheless, since we are told that disappointment is actually good for us, we joyfully knuckled down to figure out how we could adjust our plans accordingly.
 
 As this was our second year of lockdowns, many of us were becoming old hands at holding conferences, meetings, and study groups via Zoom. Even though the virtual format is not as good as our face-to-face conferences, it was still wonderful to be with everyone virtually for a good six hours of in-depth Urantia Book presentations and discussions. This method has proven to be a surprisingly effective alternative in keeping us all connected and has even had the very positive outcome of allowing many who could not previously attend study groups or gatherings because of distance, to participate from the comfort of their living rooms.
 
@@ -119,15 +119,15 @@ Before reading he explained that this particular passage had had a tremendous im
 
 The passage is section one of Paper 140, _The Ordination of the Twelve_. Julian felt that this first section, _Preliminary Instruction_, is so full of priceless gems that we ought to reflect upon them as we start each day and indeed, every time we meet for a conference like this as we embark on the path of faith of our onward journey towards God. Jesus’ first objective was always “**_seek_** _ye first the Kingdom of God.”_
 
-When looking for the Truth – our truth, our purpose in life – we often get overwhelmed by the immense vastness of the difficulties and complexities facing us within this world; our questions about what we are supposed to do – what the Master desires of us – can best be answered when we open our heart and _allow_ Jesus to establish his kingdom as a **personal relationship** within us. In this way we enter the ‘slip stream of God’ and will find our purpose by following the insights we gain.
+When looking for the Truth – our truth, our purpose in life – we often get overwhelmed by the immense vastness of the difficulties and complexities facing us within this world; our questions about what we are supposed to do – what the Master desires of us – can best be answered when we open our heart and _allow_ Jesus to establish his kingdom as a **personal relationship** within us. In this way we enter the ‘slip stream of God’ and will find our purpose by following the insights we gain.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Julians-image.jpg" alt="Julian Martin">
 </figure>
 
-Julian felt that this passage **brings him home** to where Jesus resides, it keeps reminding him that his kingdom is ruled with love rather than might and power. By having chosen God – by having allowed him to enter our innermost sanctum – it’s not by force but by our surrendering that he effects those mighty changes in us and fills us with his gracious love which brings our heart to overflowing, enabling us to share that personal gift with others.
+Julian felt that this passage **brings him home** to where Jesus resides, it keeps reminding him that his kingdom is ruled with love rather than might and power. By having chosen God – by having allowed him to enter our innermost sanctum – it’s not by force but by our surrendering that he effects those mighty changes in us and fills us with his gracious love which brings our heart to overflowing, enabling us to share that personal gift with others.
 
-Sharing our inner-world **enables** God to expand his kingdom as we connect as a group and express our faith. May we all remember this as we go through this day and may we open our hearts to one another.
+Sharing our inner-world **enables** God to expand his kingdom as we connect as a group and express our faith. May we all remember this as we go through this day and may we open our hearts to one another.
 <br style="clear:both;"/>
 
 ## We Are, Because I AM
@@ -144,7 +144,7 @@ There’s an old insight about village life: “I am because we are.” I, as an
 
 But _The Urantia Book_ shows humans from another perspective. From our Father’s point of view,
 
-Because I AM  –  Because I Love  –  We Are.
+Because I AM  –  Because I Love  –  We Are.
 
 In other words, “We are because I AM.”
 
@@ -219,21 +219,21 @@ Marion Steward, Auckland, NZ
 <img src="/image/article/The_Arena/Marion-07-150x150.jpg" alt="Marion Steward">
 </figure>
 
-How to describe 2021 in New Zealand? I have seen it described as a year of two halves.  January to July was almost normal — we went about our daily lives with very few restrictions. We had face-to-face meetings of our study group in Auckland once a month, we met online once a fortnight with other readers up and down the country, and felt somewhat insulated from the effects of Covid 19 outside our borders. 
+How to describe 2021 in New Zealand? I have seen it described as a year of two halves.  January to July was almost normal — we went about our daily lives with very few restrictions. We had face-to-face meetings of our study group in Auckland once a month, we met online once a fortnight with other readers up and down the country, and felt somewhat insulated from the effects of Covid 19 outside our borders. 
 
-This all changed in August, and those of us in Auckland went into lockdown for four long months.  December got a little better, and we were finally able to leave Auckland just before Christmas, and mostly celebrate this festive season as usual. 
+This all changed in August, and those of us in Auckland went into lockdown for four long months.  December got a little better, and we were finally able to leave Auckland just before Christmas, and mostly celebrate this festive season as usual. 
 
-As I write this, we are in that hiatus between Christmas and New Year — perhaps recovering from overindulgence in rich fare at the Christmas table, enjoying time with family and friends, at home, at the beach, and in other towns finally visiting loved ones we had only seen onscreen for so many months. 
+As I write this, we are in that hiatus between Christmas and New Year — perhaps recovering from overindulgence in rich fare at the Christmas table, enjoying time with family and friends, at home, at the beach, and in other towns finally visiting loved ones we had only seen onscreen for so many months. 
 
-These few days are often a time of reflection — looking back and evaluating events and personal achievements and growth, and also a time of anticipation — looking ahead to 2022, wondering what will happen, making plans vague or firm, depending on the sphere of influence. I, for example, plan to go for a walk every morning but I cannot plan whether I will then go to work onsite or have to work from home, as external factors are outside my sphere of influence. 
+These few days are often a time of reflection — looking back and evaluating events and personal achievements and growth, and also a time of anticipation — looking ahead to 2022, wondering what will happen, making plans vague or firm, depending on the sphere of influence. I, for example, plan to go for a walk every morning but I cannot plan whether I will then go to work onsite or have to work from home, as external factors are outside my sphere of influence. 
 
 As ascenders making our way towards Paradise, we are told that on this journey we will learn to “feast upon uncertainty” (26:5.3), and in the past two years we have certainly been presented with many opportunities to develop this personality attribute! I suspect that 2022 will continue in this vein.
 
-Our online study group has continued to meet throughout all the change and uncertainty of the past year, through health challenges and moving house. Our meetings have provided a stable anchor of spiritual communion and fellowship along with stimulating discussion of spiritual themes. 
+Our online study group has continued to meet throughout all the change and uncertainty of the past year, through health challenges and moving house. Our meetings have provided a stable anchor of spiritual communion and fellowship along with stimulating discussion of spiritual themes. 
 
-We finished the year with an examination of Paper 170, _The Kingdom of Heaven_, which was a wonderful reminder that another world exists in the inner life. It emphasised "the pre-eminence of the spiritual compared with the material" (170:2.4) and enabled us to lift our perspectives above the transitory difficulties of daily life in our current world. We enjoyed contemplating the higher possibilities inherent in our efforts to exercise our individual will in "spiritual fellowship with God the Father" (170:4.3) and look for opportunities to provide service to our brothers and sisters.
+We finished the year with an examination of Paper 170, _The Kingdom of Heaven_, which was a wonderful reminder that another world exists in the inner life. It emphasised "the pre-eminence of the spiritual compared with the material" (170:2.4) and enabled us to lift our perspectives above the transitory difficulties of daily life in our current world. We enjoyed contemplating the higher possibilities inherent in our efforts to exercise our individual will in "spiritual fellowship with God the Father" (170:4.3) and look for opportunities to provide service to our brothers and sisters.
 
-So we end one year and begin the next with hope and an expectation that we will continue feasting upon uncertainty! 
+So we end one year and begin the next with hope and an expectation that we will continue feasting upon uncertainty! 
 <br style="clear:both;"/>
 
 
@@ -249,7 +249,7 @@ The “Tree of Life” is one of many images that I love, such as rainbows, and 
 
 Since knowing _The Urantia Book_, I like to see it as The Brotherhood of Man and our spiritual family and friends, under the Fatherhood of God.
 
-I have seen the tree of life in paintings, carpets, bronze and other statues and decided to do a Google search. As per Wikipedia:  
+I have seen the tree of life in paintings, carpets, bronze and other statues and decided to do a Google search. As per Wikipedia:  
 
 [Read more](/en/article/Ann_Bendall/The_Tree_of_Life_Myth_or_Fact)
 <br style="clear:both;"/>
@@ -262,7 +262,7 @@ Anzura Admin
 <img src="/image/article/The_Arena/Aust-NZ-snip-300x207.jpg" alt="Arena newsletter">
 </figure>
 
-The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
+The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
 
 It is our intention not to encumber our work for the spreading of _The Urantia Book_ and its teachings with church, temple, or other spiritual institutions. Our members have come to recognise the significance of the book and the integrated beauty of its supernal teachings which encourage us to develop our own philosophy through study, experience, decisions, and actions. Nevertheless, we hold the view, and recognise that collectively there are many valuable projects and programs we can undertake together to achieve our goals.
 
@@ -329,7 +329,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2021/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-summer-2021/)
 
 <figure class="table chapter-navigator">
   <table>

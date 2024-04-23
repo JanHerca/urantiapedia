@@ -46,7 +46,7 @@ We are the beginning of a long list of trainees/leaders who are preparing the so
 
 Consider this:
 
->  _In some of the older universes we find worlds settled in the fifth and the sixth stages of light and life —even far extended into the seventh epoch —whose local systems are not yet settled in light. Younger planets may delay system unification, but this does not in the least handicap the progress of an older and advanced world. Neither can environmental limitations, even on an isolated world, thwart the personal attainment of the individual mortal; Jesus of Nazareth, as a man among men, personally achieved the status of light and life over nineteen hundred years ago on Urantia._ <a id="a48_590"></a>[[UB 55:11.7](/en/The_Urantia_Book/55#p11_7)]
+>  _In some of the older universes we find worlds settled in the fifth and the sixth stages of light and life —even far extended into the seventh epoch —whose local systems are not yet settled in light. Younger planets may delay system unification, but this does not in the least handicap the progress of an older and advanced world. Neither can environmental limitations, even on an isolated world, thwart the personal attainment of the individual mortal; Jesus of Nazareth, as a man among men, personally achieved the status of light and life over nineteen hundred years ago on Urantia._ <a id="a48_590"></a>[[UB 55:11.7](/en/The_Urantia_Book/55#p11_7)]
 
 My take on this is that even though our world as large may be retarded, we as individuals who chose to do the Father’s will are not penalized by the mass of humanity who choose not to do the Father’s will.
 

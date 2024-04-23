@@ -43,9 +43,9 @@ dateCreated: 2023-9-16T10:55:6Z
 September 21 to 24, 2017  
 Urantia Foundation, Chicago
 
-As our series of women’s retreats continues at Urantia Foundation, the “Daughters of God” facilitator team is inviting you to an intimate, experiential, and fun weekend.
+As our series of women’s retreats continues at Urantia Foundation, the “Daughters of God” facilitator team is inviting you to an intimate, experiential, and fun weekend.
 
-In their next retreat, “Dancing with God-Emerging in Sacredness,” four Daughters of God have designed a program where they will co-create a milieu of trust within a spiritual circle, to explore together questions such as:
+In their next retreat, “Dancing with God-Emerging in Sacredness,” four Daughters of God have designed a program where they will co-create a milieu of trust within a spiritual circle, to explore together questions such as:
 <br style="clear:both;"/>
 
 - What does this statement mean to you: “Jesus never failed to exalt the sacredness of the individual?”

@@ -49,7 +49,7 @@ One of the big names in the mindfulness movement, Jon Kabat-Zinn, made the follo
 
 _The Urantia Book_ presents us with this challenge:
 
-> _Is unselfishness — the spirit of self-forgetfulness — desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. Man could not dynamically choose the divine life if there were no self-life to forsake._ <a id="a51_275"></a>[[UB 3:5.13](/en/The_Urantia_Book/3#p5_13)]
+> _Is unselfishness — the spirit of self-forgetfulness — desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. Man could not dynamically choose the divine life if there were no self-life to forsake._ <a id="a51_275"></a>[[UB 3:5.13](/en/The_Urantia_Book/3#p5_13)]
 
 Does this sound familiar? Have we not all experienced “the incessant clamouring of an inescapable self for recognition and honour”? Is not the “self” in this context just a reference to the human ego, what we might call our animal origin mind or “adjutant mind”? But then the quote goes on to say that man has a _choice_: to dynamically choose the divine life while forsaking the self-life. What enables man to make such a choice is the Father’s gift of _personality_.
 
@@ -145,7 +145,7 @@ As self-conscious moral beings we can use our minds to effect a transfer of our 
 
 Jesus devoted his life to the doing of His Father’s will; a close examination of his life and teachings (the religion of Jesus) provides us with a model to follow: forsaking the self-life and choosing the divine life.
 
-> _The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them — advance in spirit status — **by decisions, by more decisions, and by more decisions**. The highest moral choice is the choice of the highest possible value, and always — in any sphere, in all of them — this is to **choose to do the will of God**. If man thus chooses, he is great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia._ <a id="a147_497"></a>[[UB 39:4.14](/en/The_Urantia_Book/39#p4_14); emphasis added]
+> _The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them — advance in spirit status — **by decisions, by more decisions, and by more decisions**. The highest moral choice is the choice of the highest possible value, and always — in any sphere, in all of them — this is to **choose to do the will of God**. If man thus chooses, he is great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia._ <a id="a147_497"></a>[[UB 39:4.14](/en/The_Urantia_Book/39#p4_14); emphasis added]
 
 In every moment of our lives, we face this choice: to identify with the material life or the spiritual life, to choose the self-life or the divine life, to be selfish, or self-forgetful. But how did Jesus achieve this goal of total surrender to his Father’s will? What was the secret of his unparalleled religious life?
 
@@ -173,7 +173,7 @@ Yes, Rodan exhorted us to follow the Master’s example of unbroken communion wi
 
 What a contrast we would experience if we were to forsake “the incessant clamouring of an inescapable self for recognition and honour (our egos), and instead, as “listening souls”, choose the silent receptivity of true worship!
 
-> _“It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to feel the presence of God.”_ <a id="a175_153"></a>[[UB 155:6.12](/en/The_Urantia_Book/155#p6_12)]
+> _“It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to feel the presence of God.”_ <a id="a175_153"></a>[[UB 155:6.12](/en/The_Urantia_Book/155#p6_12)]
 
 How can we “maintain unbroken communion with our Maker” and “grow in the ability to feel the presence of God” if we are endlessly caught up in the compulsive chatter of our ego minds?
 
@@ -187,7 +187,7 @@ Remember…
 
 In the microcosm of our personal mind experience, we can participate and cooperate with the fundamental goal of the evolutionary universes: the coordination of mind with spirit by means of the creative and unifying presence of personality! As self-conscious personalities, we can lessen the struggle for mastery that the spirit experiences in this process by choosing to consecrate our minds to the achievement of God-consciousness.
 
-> _The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within   your mind._ <a id="a189_272"></a>[[UB 110:3.4](/en/The_Urantia_Book/110#p3_4)] 
+> _The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within   your mind._ <a id="a189_272"></a>[[UB 110:3.4](/en/The_Urantia_Book/110#p3_4)] 
 
 We have been blessed with the gift of personality from the Universal Father, which means that we have the ability and responsibilty to choose our destiny through the decisions we make within the mind arena in which we live as personalities. <a id="a191_241"></a>[[UB 111:1.3](/en/The_Urantia_Book/111#p1_3); page 1216.4\] Let us resolve to choose the divine life and forsake the ‘self’ life. Let us be determined like Jesus, to be self-forgetful and to make it our will to do the Father’s will. Let us aspire to God consciousness by being receptive to the leadings and urges of our Thought Adjusters in the realm of superconsciousness.
 
@@ -195,7 +195,7 @@ We have been blessed with the gift of personality from the Universal Father, whi
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/09/28/mind-over-matter-spirit-over-mind
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/09/28/mind-over-matter-spirit-over-mind)
 
 <figure class="table chapter-navigator">
   <table>

@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
       <tr>
         <td>
         <a href="/en/article/William_Wentworth/meaning_of_worship">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Meaning of Worship and Service </span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Meaning of Worship and Service </span>
         </a>
         </td>
         <td>
@@ -31,7 +31,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-## …Meditation in the Superconscious with the Spirit of the Infinite, Eternal, and Universal
+## …Meditation in the Superconscious with the Spirit of the Infinite, Eternal, and Universal
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/SuperMed-Cover-300x390.jpg">
@@ -57,7 +57,7 @@ It is multifaceted: thoughtful problem solving, making contact with our indwelli
 
 The supreme desire for truth, coupled with the highest values, ensures this practice of searching for God within us is the most natural, safest, and worthwhile endeavor.
 
-Is it effective? Does it work? Is it the way to a better life? Discover for yourself. Live it. It is an exciting adventure that lasts a lifetime. It is your unique and personal journey.
+Is it effective? Does it work? Is it the way to a better life? Discover for yourself. Live it. It is an exciting adventure that lasts a lifetime. It is your unique and personal journey.
 
 [For the entire course click here or on the images for the PDF](https://370w5yam0ls19yopg2kwq2la-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/SuperMeditation_webReady.pdf)
 
@@ -73,7 +73,7 @@ Is it effective? Does it work? Is it the way to a better life? Discover for your
       <tr>
         <td>
         <a href="/en/article/William_Wentworth/meaning_of_worship">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Meaning of Worship and Service </span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Meaning of Worship and Service </span>
         </a>
         </td>
         <td>

@@ -54,11 +54,11 @@ Three members of the Canberra Study Group, Verona, Ysbrand and William, met by Z
 
 Our attention was caught by Jesus’ statement to the apostles that to live out the truth is a more effective way of winning souls than preaching. There was also considerable discussion about his comments on the crystallized creeds, and how Judaism had become formalized into lifeless dogma. Some of us saw obvious parallels with modern Christianity.
 
-However, the core of the paper seems to be the two discourses on religion which Jesus gave in response to a question from Thomas. Jesus referred to the evolution of religion, pointing out that he was himself was an agent of such an evolutionary leap in our planet’s religions, and that such development involves hard spiritual effort, many mistakes, and difficult struggles in order to leave the safety of tradition and engage in true spiritual growth. To transition from the religion of the mind to the religion of the spirit is the supreme adventure of existence, for that is what brings us closer to the Father.
+However, the core of the paper seems to be the two discourses on religion which Jesus gave in response to a question from Thomas. Jesus referred to the evolution of religion, pointing out that he was himself was an agent of such an evolutionary leap in our planet’s religions, and that such development involves hard spiritual effort, many mistakes, and difficult struggles in order to leave the safety of tradition and engage in true spiritual growth. To transition from the religion of the mind to the religion of the spirit is the supreme adventure of existence, for that is what brings us closer to the Father.
 
-In the second discourse, Jesus does, however, warn us that having begun our journey into truth, we should not be betrayed into looking down on those who still languish in the traditional creeds. He points out that those creeds have crystallized from the sincere efforts of previous generations and are not to be despised. The Father responds to the “faintest flicker” of faith.
+In the second discourse, Jesus does, however, warn us that having begun our journey into truth, we should not be betrayed into looking down on those who still languish in the traditional creeds. He points out that those creeds have crystallized from the sincere efforts of previous generations and are not to be despised. The Father responds to the “faintest flicker” of faith.
 
-I think each one of us derived something worthwhile from our reading and discussion.  
+I think each one of us derived something worthwhile from our reading and discussion.  
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Phillip-Marriott-150x150.jpg" alt="Phillip Marriott">
@@ -89,11 +89,11 @@ The very Father that forever pours forth love, life and all else I require. I do
 
 **Verona Armstrong**
 
-The essence of Paper 155 centres on Jesus’ (the Master’s) teaching about the religion of the Spirit. He reminded the apostles of previous religious devotion (a) primitive religion – the religion of fear, (b) the religion of civilization being the established religions of authority and (c) the true religion being the religion of the spirit **_in human experience_**. 
+The essence of Paper 155 centres on Jesus’ (the Master’s) teaching about the religion of the Spirit. He reminded the apostles of previous religious devotion (a) primitive religion – the religion of fear, (b) the religion of civilization being the established religions of authority and (c) the true religion being the religion of the spirit **_in human experience_**. 
 
 After much discussion and questioning of Jesus by the apostles about **_this new religion of the spirit_**, the Master told them that true religion was loyalty to ones highest convictions and that it entailed effort, struggle conflict, faith, determination, love, loyalty and progress (<a id="a93_286"></a>[UB 155:5.11](/en/The_Urantia_Book/155#p5_11))
 
-On the other hand he told them that previous religious devotion was an easy path of certainty and intellectual stability.  Jesus made it clear that the difference between the religion of the mind and religion of the spirit is that the religion of the mind was based in ecclesiastical authority while religion of the spirit is wholly based in human experience and he never grew weary of telling them of the great danger of accepting religious symbols and ceremonies in the place of religious experience –
+On the other hand he told them that previous religious devotion was an easy path of certainty and intellectual stability.  Jesus made it clear that the difference between the religion of the mind and religion of the spirit is that the religion of the mind was based in ecclesiastical authority while religion of the spirit is wholly based in human experience and he never grew weary of telling them of the great danger of accepting religious symbols and ceremonies in the place of religious experience –
 
 > _… his whole earth life was consistently devoted to the mission of thawing out the frozen forms of religion into the liquid liberties of enlightened sonship._ <a id="a97_161"></a>[UB 155:3.8](/en/The_Urantia_Book/155#p3_8)
 
@@ -105,9 +105,9 @@ Jesus pointing out each of the twenty-four and calling them by name, Jesus said:
 
 Jesus ended this flight through Northern Galilee by saying:
 
->  “_You are my apostles … but rather, shall your religion become the fact of real experience which testifies that God has found you, and that you have enlisted in the eternal adventure of finding the God who has thus found and son-shipped you_.” <a id="a107_247"></a>[UB 155:6.18](/en/The_Urantia_Book/155#p6_18)
+>  “_You are my apostles … but rather, shall your religion become the fact of real experience which testifies that God has found you, and that you have enlisted in the eternal adventure of finding the God who has thus found and son-shipped you_.” <a id="a107_247"></a>[UB 155:6.18](/en/The_Urantia_Book/155#p6_18)
 
-> _“Let us be on our way.”_  <a id="a109_29"></a>[UB 155:6.19](/en/The_Urantia_Book/155#p6_19)
+> _“Let us be on our way.”_  <a id="a109_29"></a>[UB 155:6.19](/en/The_Urantia_Book/155#p6_19)
 
 While Jesus did not teach direct reference to Thought Adjusters to the apostles in Paper 155 we must acknowledge that Adjuster fragments are indeed pure energy and pure spirit and proceed directly from the Universal Father, they are of God, **_they are God_**. Paper 107:1.2.
 
@@ -119,7 +119,7 @@ While Jesus did not teach direct reference to Thought Adjusters to the apostles 
 
 **Regina Williamson**
 
-This is one of those special occasions in the Urantia community where groups in Australia and New Zealand are given the opportunity to read the same paper on the same day. Our meeting in Melbourne was held as a face to face gathering and seven people attended which included two new people—one who was new to the book and the other a long-time reader. 
+This is one of those special occasions in the Urantia community where groups in Australia and New Zealand are given the opportunity to read the same paper on the same day. Our meeting in Melbourne was held as a face to face gathering and seven people attended which included two new people—one who was new to the book and the other a long-time reader. 
 
 After socialising we read the entire paper right through first and then went back to read and discuss. This paper contained very beneficial material. It is teamwork. It binds us. It brings tolerance. It opens our eyes as we read:
 <br style="clear:both;"/>
@@ -164,7 +164,7 @@ Enjoy these photos from our day…
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/07/26/national-study-day-reflections
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/07/26/national-study-day-reflections)
 
 <figure class="table chapter-navigator">
   <table>

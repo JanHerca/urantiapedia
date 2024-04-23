@@ -54,7 +54,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Error suggests lack of intellectual keenness; evil, deficiency of wisdom; sin, abject spiritual poverty; but iniquity is indicative of vanishing personality control.. And when sin has so many times been chosen and so often been repeated, it may become habitual. Habitual sinners can easily become iniquitous, become wholehearted rebels against the universe and all of its divine realities. While all manner of sins may be forgiven, we doubt whether the established iniquiter would ever sincerely experience sorrow for his misdeeds or accept forgiveness for his sins. <a id="s54_569"></a>[UB 67:1.5](/en/The_Urantia_Book/67#p1_5)
 
-> Iniquity is the willful, determined, and , the Father’s will. Iniquity is the measure of the continued rejection of the Father’s loving plan of personality survival and the Sons’ merciful ministry of salvation. <a id="s56_213"></a>[UB 148:4.5](/en/The_Urantia_Book/148#p4_5)
+> Iniquity is the willful, determined, and , the Father’s will. Iniquity is the measure of the continued rejection of the Father’s loving plan of personality survival and the Sons’ merciful ministry of salvation. <a id="s56_213"></a>[UB 148:4.5](/en/The_Urantia_Book/148#p4_5)
 
 ## Insight,cosmic
 

@@ -44,7 +44,7 @@ By Neil Francey, Queensland
 
 _(Presented at Urantia Association’s International Conference in Dourdan, France, July 2002)_
 
-> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ <a id="a46_488"></a>[[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
+> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ <a id="a46_488"></a>[[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
 
 In recent days we have learnt of the brilliant plans of the Father and of the Son. Now we shall see the correlation of these plans with the plan of the Infinite Spirit.
 
@@ -135,7 +135,7 @@ _(We need to work together)_
 
 ## Guardian Angels
 
-Guardian angels are seraphim devoted to the ministry to individual mortals. They are only assigned as guardian seraphim when appointed to a human soul who has realized one or more of three achievements:
+Guardian angels are seraphim devoted to the ministry to individual mortals. They are only assigned as guardian seraphim when appointed to a human soul who has realized one or more of three achievements:
 
 - ‘has made a supreme decision to become Godlike,
 - has entered the third circle, or
@@ -232,7 +232,7 @@ Thank you.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/05/02/living-ascension-plan-terrestrial-human-experience
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/05/02/living-ascension-plan-terrestrial-human-experience)
 
 <figure class="table chapter-navigator">
   <table>

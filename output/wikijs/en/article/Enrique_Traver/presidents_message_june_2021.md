@@ -58,7 +58,7 @@ Trust tells us the storm will be over soon, and that its instability and menace 
 
 _It is always a matter of looking, of perception, of faith._ 
 
-Faith, however, brings us the certainty that challenges are fleeting and that we build our learning and wisdom on them. It will assure us that, no matter what happens, everything will be fine. If we wish, we will continue to be supported by God’s hands. He will stand with us in all our joys and in all our afflictions and together we will hopefully reach a safe port. 
+Faith, however, brings us the certainty that challenges are fleeting and that we build our learning and wisdom on them. It will assure us that, no matter what happens, everything will be fine. If we wish, we will continue to be supported by God’s hands. He will stand with us in all our joys and in all our afflictions and together we will hopefully reach a safe port. 
 
 _It is always a matter of looking, of perception, of faith._
 
@@ -66,7 +66,7 @@ God is our safe port. We are in him, or we are not. We have faith or we do not. 
 
 Faith will not remove the challenges we need to overcome, but it will allow us to overcome these challenges with more love, greater serenity, more wisdom, and the confidence that everything will work out.
 
-Wonderful things have happened in these days of learning. All of them inspiring us to create an opportunity for unity, fraternity, friendship, and inclusion. 
+Wonderful things have happened in these days of learning. All of them inspiring us to create an opportunity for unity, fraternity, friendship, and inclusion. 
 
 Interacting with people is magical, it is divine.
 

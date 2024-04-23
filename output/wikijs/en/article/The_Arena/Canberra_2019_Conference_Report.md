@@ -93,7 +93,7 @@ Enjoy this photo gallery of some shots taken at the conference:
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/canberra-2019-conference-report
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/12/16/canberra-2019-conference-report)
 
 <figure class="table chapter-navigator">
   <table>

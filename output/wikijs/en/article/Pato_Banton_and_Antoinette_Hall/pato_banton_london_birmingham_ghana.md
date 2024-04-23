@@ -89,13 +89,13 @@ There were many great moments throughout this event but some of the main highlig
 <img src="/image/article/IUA_Tidings/Pato-Birmingham-2.jpg">
 </figure>
 
-_To illustrate these inspiring events in the UK, two attendees: Akex H from Germany and Anna Zeven from the Netherlands wrote reports of their enlightening experiences. See:_ [https://urantia-association.org/2017/attendee-reports-urantia-gatherings-uk](https://urantia-association.org/2017/attendee-reports-urantia-gatherings-uk) 
+_To illustrate these inspiring events in the UK, two attendees: Akex H from Germany and Anna Zeven from the Netherlands wrote reports of their enlightening experiences. See:_ [https://urantia-association.org/2017/attendee-reports-urantia-gatherings-uk](https://urantia-association.org/2017/attendee-reports-urantia-gatherings-uk) 
 
 ## Part 3—Accra City Hotel, Ghana, West Africa
 
 With our missions to London and Birmingham completed, we set our sights towards Africa…
 
-This was truly set to be an international gathering with attendees from the UK, France, Nigeria, Ivory Coast, Cameroon, and the USA. The “meet and greet” that had been planned the evening before the conference, progressed into “An introduction to _The Urantia Book_” due to the many inquisitive new truth-seekers who had heard about the event and wanted to know, “What is this all about?” They had heard of _The Urantia Book_ from local readers who had invited them to the conference and from friends in the USA who told them that we would be hosting a spiritual event in Accra. We stayed up late into the night answering questions and getting to know our African brothers and sisters.
+This was truly set to be an international gathering with attendees from the UK, France, Nigeria, Ivory Coast, Cameroon, and the USA. The “meet and greet” that had been planned the evening before the conference, progressed into “An introduction to _The Urantia Book_” due to the many inquisitive new truth-seekers who had heard about the event and wanted to know, “What is this all about?” They had heard of _The Urantia Book_ from local readers who had invited them to the conference and from friends in the USA who told them that we would be hosting a spiritual event in Accra. We stayed up late into the night answering questions and getting to know our African brothers and sisters.
 
 We could write a book about the amazing presentations, musical performances, testimonies of faith, group discussions and inspiring moments during our conference the following day, which was attended by a very diverse group of people from a wide range of belief systems.
 

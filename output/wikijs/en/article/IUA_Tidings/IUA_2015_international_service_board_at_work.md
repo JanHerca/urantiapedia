@@ -39,7 +39,7 @@ The following describes some of the activities undertaken by the ISB members in 
 
 ### President
 
-Chris Wood, who is also acting Fundraising Committee Chair, chairs the Executive Team, and is the liaison with the leadership of Urantia Foundation and the Fellowship, attended and made a presentation at the Lone Star Urantia Association regional conference in Argyle Texas in March and provided special training on the 3-Year Plan for the newly elected ISB members.
+Chris Wood, who is also acting Fundraising Committee Chair, chairs the Executive Team, and is the liaison with the leadership of Urantia Foundation and the Fellowship, attended and made a presentation at the Lone Star Urantia Association regional conference in Argyle Texas in March and provided special training on the 3-Year Plan for the newly elected ISB members.
 
 ### Vice President
 
@@ -51,7 +51,7 @@ Bradly Tharp is also a member of the Fundraising Committee. The 2014 Year-End Fi
 
 ### Secretary
 
-Susan Owen, who is also a member of the Education Committee and the Website Management Committee, continued to provide meeting minutes and action points for the monthly ISB meetings, posted January and February ISB meeting minutes and 2014 Year-End Financials to the RC, submitted the 2014 RC Meeting Minutes, and provided training for the new ISB members.
+Susan Owen, who is also a member of the Education Committee and the Website Management Committee, continued to provide meeting minutes and action points for the monthly ISB meetings, posted January and February ISB meeting minutes and 2014 Year-End Financials to the RC, submitted the 2014 RC Meeting Minutes, and provided training for the new ISB members.
 
 ### Membership Committee Chair
 
@@ -59,7 +59,7 @@ Gary Rawlings, whose term expired at the end of June after serving two full term
 
 ### Communications Committee Chair
 
-Vern Verass, whose term expired at the end of March after serving two full terms, made a smooth transition to the newly elected Communications Chair, Kathleen Swadling who joined the board in April. The first online issue of Tidings was posted and translating of the website began in French, Spanish, Portuguese, Ukrainian and Russian.
+Vern Verass, whose term expired at the end of March after serving two full terms, made a smooth transition to the newly elected Communications Chair, Kathleen Swadling who joined the board in April. The first online issue of Tidings was posted and translating of the website began in French, Spanish, Portuguese, Ukrainian and Russian.
 
 ### Education Committee Chair
 
@@ -67,11 +67,11 @@ Sheila Keene-Lund advised the topical index of the Tidings and Journal articles 
 
 ### Conference Committee Chair
 
-Antonio Schefer took office at the end of December and has selected his first committee members, Olga López Molina, Tamila Ragimova and Mike MacIssac. He has completed the review and fixed the audio problems on all the 2011 Leadership Symposium videos. Antonio attended a Blue Club conference in Berlin in March and is making contact with and planning to visit all of the European Associations. He is also on the 2015 International Conference Financial Aid team.
+Antonio Schefer took office at the end of December and has selected his first committee members, Olga López Molina, Tamila Ragimova and Mike MacIssac. He has completed the review and fixed the audio problems on all the 2011 Leadership Symposium videos. Antonio attended a Blue Club conference in Berlin in March and is making contact with and planning to visit all of the European Associations. He is also on the 2015 International Conference Financial Aid team.
 
 ### Translation Committee Chair
 
-Chris Moseley continued to look for volunteer translators and to provide translation services to the ISB, RC and the website.
+Chris Moseley continued to look for volunteer translators and to provide translation services to the ISB, RC and the website.
 
 ## References
 

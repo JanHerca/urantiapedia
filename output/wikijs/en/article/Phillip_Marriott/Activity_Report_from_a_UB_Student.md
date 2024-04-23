@@ -83,7 +83,7 @@ So other than my own personal studies, I continue to run my business and sociali
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/06/25/activity-report-from-a-urantia-book-student-2
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/06/25/activity-report-from-a-urantia-book-student-2)
 
 <figure class="table chapter-navigator">
   <table>

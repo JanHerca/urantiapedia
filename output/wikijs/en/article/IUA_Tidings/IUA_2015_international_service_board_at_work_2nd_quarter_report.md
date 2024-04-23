@@ -58,11 +58,11 @@ Members of the Executive Team are Chris Wood, Andres Ramirez, Bradly Tharp and S
 
 ## Membership Committee
 
-Anton Miroshnichenko and committee members continued to work with Urantia Dach to form an Association covering Germany, Switzerland and Austria.  The committee is also working with contacts in Hungary, Costa Rica and Venezuela. Anton also found an inexpensive translation service for the Central Administration.  
+Anton Miroshnichenko and committee members continued to work with Urantia Dach to form an Association covering Germany, Switzerland and Austria.  The committee is also working with contacts in Hungary, Costa Rica and Venezuela. Anton also found an inexpensive translation service for the Central Administration.  
 
 ## Communications Committee
 
-Kathleen Swadling and committee members published the first and second issues of the _Journal_ for 2015, as well as the April and June issues of _Tidings_. The 2014 Annual Report was finalized and submitted for formatting and printing. The main pages of the website are now live in Russian and Ukrainian thanks to the work and expertise of Anton Miroshnichenko.  The Spanish, French and Portuguese translation teams are in place and work is progressing. The Events section of the website is being revamped and work continues with the Education Committee on a topical index of study aids for the website. Sub-committees for Public Relations and Website Management were established. 
+Kathleen Swadling and committee members published the first and second issues of the _Journal_ for 2015, as well as the April and June issues of _Tidings_. The 2014 Annual Report was finalized and submitted for formatting and printing. The main pages of the website are now live in Russian and Ukrainian thanks to the work and expertise of Anton Miroshnichenko.  The Spanish, French and Portuguese translation teams are in place and work is progressing. The Events section of the website is being revamped and work continues with the Education Committee on a topical index of study aids for the website. Sub-committees for Public Relations and Website Management were established. 
 
 ## Study Group Committee
 

@@ -75,7 +75,7 @@ Nigel Nunn
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/ancient-orvonton-young-cosmic-web
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/02/10/ancient-orvonton-young-cosmic-web)
 
 <figure class="table chapter-navigator">
   <table>

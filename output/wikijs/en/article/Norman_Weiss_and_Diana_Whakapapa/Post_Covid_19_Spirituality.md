@@ -103,7 +103,7 @@ Thank you for participating in this connecting with Spirit experience.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/post-covid-19-spirituality
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/02/10/post-covid-19-spirituality)
 
 <figure class="table chapter-navigator">
   <table>

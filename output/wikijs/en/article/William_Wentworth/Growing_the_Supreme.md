@@ -42,7 +42,7 @@ By William Wentworth, Canberra - Presented at Canberra Conference on September 2
 
 ## Introduction
 
-In eternity God the Father separated spirit from energy-matter and put spirit under the control of the Eternal Son and energy-matter under the control of Paradise. But interestingly, the revelators point out that on Paradise, from which both forms are distributed to the universes, the two energy forms are indistinguishable—they cannot be told one from the other. In Havona, we are told, they are distinguishable but the harmonious nature of Havona and its inhabitants means that there is no difficulty in relating one form of energy to the other. But by the time those two energy forms are projected to the superuniverses, however, spirit and energy-matter have diverged so far that they do not relate to one another. And thereby hangs a tale so pregnant with possibilities that the culture of the Grand Universe may be said to derive from it.  For the only way in which spirit and energy-matter can interact is through mind, as mind is the only reality with which both can interact. Mind can contact spirit, and mind can also contact energy-matter, so through mind the two energy forms can relate to one another.
+In eternity God the Father separated spirit from energy-matter and put spirit under the control of the Eternal Son and energy-matter under the control of Paradise. But interestingly, the revelators point out that on Paradise, from which both forms are distributed to the universes, the two energy forms are indistinguishable—they cannot be told one from the other. In Havona, we are told, they are distinguishable but the harmonious nature of Havona and its inhabitants means that there is no difficulty in relating one form of energy to the other. But by the time those two energy forms are projected to the superuniverses, however, spirit and energy-matter have diverged so far that they do not relate to one another. And thereby hangs a tale so pregnant with possibilities that the culture of the Grand Universe may be said to derive from it.  For the only way in which spirit and energy-matter can interact is through mind, as mind is the only reality with which both can interact. Mind can contact spirit, and mind can also contact energy-matter, so through mind the two energy forms can relate to one another.
 
 It is, of course, a matter of everyday experience for us inhabitants of the Grand Universe to recognise that spirit and energy-matter are utterly different. But the Father’s requirement that the Grand Universe should be perfected leads us to realise that they must be integrated with one another. And it turns out that it is the job of us Grand Universe inhabitants to bring this about. For the task of completing the evolution of the Grand Universe involves:
 
@@ -70,7 +70,7 @@ The Grand Universe exists in time and space—in finite reality. Paradise Deity 
 
 The Supreme grows and evolves as the Grand Universe grows and evolves. He begins as a spirit presence in Havona—on the sixth circuit—and he evolves in capacity and attributes with the superuniverses through the agency of the Supreme Creator Personalities, who are the activating influences endeavouring to subjugate energy-matter to spirit. The Supreme himself does not act so much as react to the performances of his creator personalities, and his growth is a consequence of their activities. But it is undoubtedly his spirit influence which gives direction and purpose to finite evolution.
 
-It is here that the great opportunity for creatures is revealed, for deity wants the energy/matter of the superuniverses to be perfected—conforming to God’s will—by being subjected to spirit.  And spirit can reach energy/matter only through mind. So creature mind, brought into being by the efforts of the supreme creator personalities, is given the task of subjecting energy/matter to spirit through the mediation of mind directed by personality. This is how deity directs the evolution of the grand universe, bringing it to perfection by the action of creatures who are themselves evolving the capacity to undertake the task.
+It is here that the great opportunity for creatures is revealed, for deity wants the energy/matter of the superuniverses to be perfected—conforming to God’s will—by being subjected to spirit.  And spirit can reach energy/matter only through mind. So creature mind, brought into being by the efforts of the supreme creator personalities, is given the task of subjecting energy/matter to spirit through the mediation of mind directed by personality. This is how deity directs the evolution of the grand universe, bringing it to perfection by the action of creatures who are themselves evolving the capacity to undertake the task.
 
 Everything evolves to bring the grand universe to perfection, the Supreme Being to completion and the universe age finalised by the action of creatures doing the will of the Universal Father.
 
@@ -112,7 +112,7 @@ They warn us about the problem of mind dominating energy-matter while failing to
 
 But after thinking about it a bit more I began to realise that these secular mortals are all adjuster indwelt, or most of them are. Adjusters are trying to spiritualise their thinking just as they are with those of us who have the advantage of the Urantia book. They are not wicked, and they exhibit the normal range of concern for their fellow man. When they do something unselfish they feel good, and they learn sometimes to do good to others, enjoy doing it and would like to do it more. Remember:
 
->  _Love is the desire to do good to others._ <a id="a114_46"></a>[[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
+>  _Love is the desire to do good to others._ <a id="a114_46"></a>[[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
 
 And this constitutes spiritual experience. So even though many of these secularists reject the notion of spirit, they are nevertheless exhibiting some spirit leading without recognising it for what it is.
 
@@ -132,7 +132,7 @@ An aspect of the Supreme’s growth which interests me is that all the agencies 
 
 I realised that all the personalities involved must themselves grow as the Supreme grows when I read the message which a thought adjuster gave to his indwelt subject on P 1213.5 and I realised that adjusters are interested in our progress, not only because they love us, but also because they have something to gain from our progress. Altruism is there, but it is not the sole motive.
 
-> _“And I exhort him to survival, not to disappoint me, not to deprive me of the reward of my patient and intense struggle.  On the human will our achievement of personality depends.  Circle by circle I have patiently ascended this human mind, and I have testimony that I am meeting the approval of the chief of my kind.  Circle by circle I am passing on to judgement.  I await with pleasure and without apprehension the roll call of destiny; I am prepared to submit all to the tribunals of the Ancients of Days.”_  <a id="a134_516"></a>[[UB 110:7.10](/en/The_Urantia_Book/110#p7_10)]
+> _“And I exhort him to survival, not to disappoint me, not to deprive me of the reward of my patient and intense struggle.  On the human will our achievement of personality depends.  Circle by circle I have patiently ascended this human mind, and I have testimony that I am meeting the approval of the chief of my kind.  Circle by circle I am passing on to judgement.  I await with pleasure and without apprehension the roll call of destiny; I am prepared to submit all to the tribunals of the Ancients of Days.”_  <a id="a134_516"></a>[[UB 110:7.10](/en/The_Urantia_Book/110#p7_10)]
 
 So I reason that if thought adjusters—fragments of absolute deity—have skin in the game, then probably all evolving beings do to.
 
@@ -186,7 +186,7 @@ The stage is set for the invasion of the first outer space level and the inaugur
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/09/28/growing-the-supreme
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/09/28/growing-the-supreme)
 
 <figure class="table chapter-navigator">
   <table>

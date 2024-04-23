@@ -53,7 +53,7 @@ Please come and join us for this very special Jesus’ birthday celebration. The
 
 The South Wales Coast, with its attractive beaches and small towns, is just nearby and the venue offers a cozy setting for our celebration of Jesus’ bestowal on our planet.
 
-It’s not too late to join us. For booking accommodation contact the venue directly via their website at [www.tyncellarfarm.co.uk](http://www.tyncellarfarm.co.uk/).
+It’s not too late to join us. For booking accommodation contact the venue directly via their website at [www.tyncellarfarm.co.uk](http://www.tyncellarfarm.co.uk/).
 
 For more information email either:
 

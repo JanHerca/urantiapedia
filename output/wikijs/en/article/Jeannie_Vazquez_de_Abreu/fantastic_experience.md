@@ -56,9 +56,9 @@ Jesus taught his followers:
 
 > _Worship_… _makes one increasingly like the being who is worshiped. Worship is a transforming experience whereby the finite gradually approaches and ultimately attains the presence of the Infinite._ <a id="a56_201"></a>[[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)]
 
-Prayer, as taught in _The Urantia Book,_ has an ever-increasing spiritualizing and ennobling effect on us because it is accompanied by worship. This receptive phase nourishes our soul with divine gifts in an ideal way. This silent,  effortless, receptive phase is what leads us to the contact of worshipful communion with God—the Adjuster in our superconsciousness.
+Prayer, as taught in _The Urantia Book,_ has an ever-increasing spiritualizing and ennobling effect on us because it is accompanied by worship. This receptive phase nourishes our soul with divine gifts in an ideal way. This silent,  effortless, receptive phase is what leads us to the contact of worshipful communion with God—the Adjuster in our superconsciousness.
 
-The Father’s supreme mandate to us, the perfect expression of God’s will that sums up the entire ascending path, is _“Be you perfect, even as I am perfect”_ <a id="a60_157"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)].  To become perfect as the Father is perfect, we need to find him within us and strive to be like him, transforming and vitalizing our soul with the bread of life—the living truth, the eternal word of God—and receiving the water of life of the Spirit of Truth that nourishes and vivifies the soul, quenching our spiritual thirst.
+The Father’s supreme mandate to us, the perfect expression of God’s will that sums up the entire ascending path, is _“Be you perfect, even as I am perfect”_ <a id="a60_157"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)].  To become perfect as the Father is perfect, we need to find him within us and strive to be like him, transforming and vitalizing our soul with the bread of life—the living truth, the eternal word of God—and receiving the water of life of the Spirit of Truth that nourishes and vivifies the soul, quenching our spiritual thirst.
 
 These works of art and the shared, divine teachings are a balm to our soul, and I hope they gave the attendees an impulse to worship and to feel inspired to live increasingly the divine teachings, to be loving and spiritualized persons.
 

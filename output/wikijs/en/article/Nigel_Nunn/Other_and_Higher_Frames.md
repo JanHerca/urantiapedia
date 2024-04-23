@@ -42,7 +42,7 @@ By Nigel Nunn, VIC
 
 > _Faith most willingly carries_ **_reason_** _along as far as reason can go and then goes on with_ **_wisdom_** _to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH._ <a id="a42_261"></a>[[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)]
 
-“Reason” has helped scientists to write some compelling tales about the history of the universe:  inflationary Big Bangs, colliding branes, a multiverse. Problem is, each of these histories involve assumptions that lie beyond our capacity to disprove. These stories do however all share one feature: an attempt to replace faith with facts in their assumptions.
+“Reason” has helped scientists to write some compelling tales about the history of the universe:  inflationary Big Bangs, colliding branes, a multiverse. Problem is, each of these histories involve assumptions that lie beyond our capacity to disprove. These stories do however all share one feature: an attempt to replace faith with facts in their assumptions.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Reason-Nigel-1-300x170.jpg" alt="Reason">
@@ -70,17 +70,17 @@ Here are links to the videos (on YouTube), plus their (PDF) scripts:
 
 **Part 4A – Foundations (v2)** https://youtu.be/ZerrvI4dLTQ
 
-( [Script for Part 4A](http://ubron.org/groupdocs/P4_A_Foundations1.pdf) )
+( [Script for Part 4A](http://ubron.org/groupdocs/P4_A_Foundations1.pdf) )
 
 **Part 4B1 – Mass and Matter** https://youtu.be/-ZurF1V81W8
 
 **Part 4B2 – Mass and Matter** https://youtu.be/AE0uUliBfis
 
-( [Script for Part 4B](http://ubron.org/groupdocs/P4_B_Mass_Matter1.pdf) )
+( [Script for Part 4B](http://ubron.org/groupdocs/P4_B_Mass_Matter1.pdf) )
 
 **Part 4C – Exploding Dark Islands (v2)** https://youtu.be/q8nAUKE0-OM
 
-( [Script for Part 4C](http://ubron.org/groupdocs/P4_C_2018_Apr15.pdf) )
+( [Script for Part 4C](http://ubron.org/groupdocs/P4_C_2018_Apr15.pdf) )
 
 The two links below are a draft script for the final video (Part 4D). This last part remains a work in progress, as I try to accommodate current developments in mainstream cosmology. Recording of this final video is expected to coincide with some surprising developments in astronomy!
 
@@ -91,7 +91,7 @@ _**The Urantia Book**_ – a gift to those future souls who will dare to launch 
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/10/31/other-higher-frames
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/10/31/other-higher-frames)
 
 <figure class="table chapter-navigator">
   <table>

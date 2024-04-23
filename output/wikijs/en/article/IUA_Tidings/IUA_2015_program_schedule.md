@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/UAI-2015-logo_13a-300x309.jpeg">
 </figure>
 
-Following are the plenaries for you to appreciate. Also see further on for the Program Schedule. Workshops will be published soon for readers to volunteer as facilitators.
+Following are the plenaries for you to appreciate. Also see further on for the Program Schedule. Workshops will be published soon for readers to volunteer as facilitators.
 
 ## Day One
 
@@ -50,7 +50,7 @@ _The Urantia Book_ teaches us that the universe is a great school where we are b
 
 This plenary will reflect on the concepts of _The Urantia Book_ in regard to socializing our children. The most effective agent of socialization is the couple and the manner in which the father and mother will live their relationship, because it leads more effectively to virtue than to precepts.
 
-- the influence of family (nuclear and extended) in the socialization of  children;
+- the influence of family (nuclear and extended) in the socialization of  children;
 - the importance of playful aspects in learning teamwork;
 - the importance of real and imaginary journeys as engines of creativity;
 - the importance of domestic and social responsibilities in the acquisition of maturity.
@@ -61,7 +61,7 @@ _The Urantia Book_ teaches us that the home is the fundamental human institution
 
 ## Day Two
 
-1\. Human Dignity (_pending approval_)
+1\. Human Dignity (_pending approval_)
 
 Respect for human dignity is to recognize the divine nature of man since we are all children of God created in His image. But how can we really make human dignity the cornerstone of our relationship? What influences do the religions of authority have on the self-assertion of our dignity? How do associations of personalities and expression of mutual affection promote the acquisition of social maturity?
 
@@ -110,7 +110,7 @@ _12:15 – 1:30_ | _Lunch_
 3:15 – 4:45 | Workshops  
 _6:00 – 7:00_ | _Dinner_
 7:30 –| Entertainment  
-7:30 – 9:00  | Planetary Program
+7:30 – 9:00  | Planetary Program
 
 ---
 
@@ -120,15 +120,15 @@ Encourage balanced growth
 
 &nbsp; | &nbsp;
 --- | ---
-7:00 – 7:30  | Meditation  
+7:00 – 7:30  | Meditation  
 _7:30 – 8 :30_ | _Breakfast_  
 8:45 –10:15 | Plenaries  
 10:40 – 12:15 | Workshops  
-_12:15 – 1:30_  | _Lunch_  
-2:00 – 3:00  | Plenary  
-3:15 – 4:45  | Workshops  
+_12:15 – 1:30_  | _Lunch_  
+2:00 – 3:00  | Plenary  
+3:15 – 4:45  | Workshops  
 _6 :00 – 7:00_ | _Dinner_  
-7: 30 –   | Entertainment
+7: 30 –   | Entertainment
 
 ---
 

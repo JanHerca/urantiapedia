@@ -42,14 +42,14 @@ By Neil Francey, QLD
 <img src="/image/article/The_Arena/Neil-Francey-18-243x300.jpg" alt="Neil Francey">
 </figure>
 
-This work is dealing with  business concepts  that can be used by any organization or commercial enterprise as a guide for the best possible practices based on the highest human values.
+This work is dealing with  business concepts  that can be used by any organization or commercial enterprise as a guide for the best possible practices based on the highest human values.
 
 Any enterprise which applies the principles and concepts described in _The Urantia Book_, is one based on ethics, honesty, the Golden Rule, and fairness, all motivated by the will of God.
 <br style="clear:both;"/>
 
 > _If we know God, our real business on earth is so to live as to permit_ _the Father to reveal himself in our lives …_ [132:7.2]
 
-The specific religious, political, and social pursuits of the individuals of a business are personal matters. However they will in some way reflect on all aspects of their lives. It therefore follows that a Urantia inspired organization will be built on those values held by the individual. If individuals and groups of people act in accordance with natural and spiritual law, there is harmony and improved living in a material sense. 
+The specific religious, political, and social pursuits of the individuals of a business are personal matters. However they will in some way reflect on all aspects of their lives. It therefore follows that a Urantia inspired organization will be built on those values held by the individual. If individuals and groups of people act in accordance with natural and spiritual law, there is harmony and improved living in a material sense. 
 
 An organization can be in disguise. Through public relations, advertising, spin, corporate design, sponsors and paid presenters in advertising and marketing, we can be sold a false image. However, the true caliber of its people, particularly those at the top, will inevitably be revealed. They cannot hide, nor can they pretend to live truth, reflect morality, show genuine fairness, promote goodness, and live selflessly.
 

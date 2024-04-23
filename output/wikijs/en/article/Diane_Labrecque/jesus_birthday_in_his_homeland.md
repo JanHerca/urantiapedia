@@ -38,15 +38,15 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/urantia-family.jpg">
 </figure>
 
-_Happy New Year to you!_  Here is our greeting video and special announcement for 2016 [https://youtu.be/oU-pg04pa9s](https://youtu.be/oU-pg04pa9s).
+_Happy New Year to you!_  Here is our greeting video and special announcement for 2016 [https://youtu.be/oU-pg04pa9s](https://youtu.be/oU-pg04pa9s).
 
-We want to wish you a warm welcome to The United Urantia Family Festival 2016!  _Celebrating Jesus’ Birthday Together in His Homeland!_
+We want to wish you a warm welcome to The United Urantia Family Festival 2016!  _Celebrating Jesus’ Birthday Together in His Homeland!_
 
 The United Urantia Family is beyond pleased to announce our 2016 Family Festival Gathering from August 10-23, 2016 in “The Holy Land of Jesus” during Jesus’ Birthday on Sunday August 21 which will be celebrated in Nazareth itself – the land of his youth.
 
 This pilgrimage will bring you to Jerusalem, Bethlehem, Mount of Olives, Bethany, Capernaum, Mount of Beatitudes, the Jordan River, Sepphoris, Scythopolis, Nazareth, Cana, Caesarea-Philippi, Mount Hermon as well as the Sea of Galilee!
 
-Our theme is  _‘Celebrating Jesus’ Birthday Together in His Homeland’_  and for that special occasion, we will have a specially catered meal to mark this unique event while dining together at Nazareth Village amidst the decor of an authentic replica of a Nazareth village as in the days of Jesus.
+Our theme is  _‘Celebrating Jesus’ Birthday Together in His Homeland’_  and for that special occasion, we will have a specially catered meal to mark this unique event while dining together at Nazareth Village amidst the decor of an authentic replica of a Nazareth village as in the days of Jesus.
 
 This exceptional trip will be one of close bonding and sharing while revisiting the Life and Teachings of Jesus as He lived it during His Bestowal years on Urantia. For more details, visit us at [www.tuuff.org](http://www.tuuff.org/) or direct link [http://www.tuuff.com/Family%20Festivals/Israel\_2016/home.html](http://www.tuuff.com/Family%20Festivals/Israel_2016/home.html)
 

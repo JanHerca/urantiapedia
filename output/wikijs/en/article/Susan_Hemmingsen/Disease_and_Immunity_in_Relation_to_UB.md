@@ -40,7 +40,7 @@ By Susan Hemmingsen, New Zealand
 <img src="/image/article/The_Arena/Covid-19-1-570x193.jpg" alt="Covid-19">
 </figure>
 
-This being the topic of the moment, I decided to put together some Urantia Book quotes to see what was said, about health, disease, what happened in the past, how this reflects on what is happening today, and what can be expected in the future.  I have put them into four different categories:
+This being the topic of the moment, I decided to put together some Urantia Book quotes to see what was said, about health, disease, what happened in the past, how this reflects on what is happening today, and what can be expected in the future.  I have put them into four different categories:
 
 - The celestial help available now
 - How ancient man dealt with disease
@@ -65,7 +65,7 @@ Ancient man had his own way of dealing with disease, and although many on our pl
 
 > _Among some people disease was thought to be caused by a wicked conspiracy between spirits and animals. This gave rise to the belief that there existed a beneficent plant remedy for every animal-caused disease. The red men were especially devoted to the plant theory of universal remedies; they always put a drop of blood in the root hole left when the plant was pulled up._ <a id="a65_377"></a>[UB 90:4.7](/en/The_Urantia_Book/90#p4_7)
 
-Some of our current religious groups believe that faith is all that is required to heal, but in Paper 90, _Shamanism–Medicine Men and Priests_,  _The Urantia Book_ says:
+Some of our current religious groups believe that faith is all that is required to heal, but in Paper 90, _Shamanism–Medicine Men and Priests_,  _The Urantia Book_ says:
 
 > _The faith required to get well under the foolish ministrations of one of these ancient shamans was, after all, not materially different from that which is required to experience healing at the hands of some of his later-day successors who engage in the non-scientific treatment of disease._ <a id="a69_294"></a>[UB 90:4.2](/en/The_Urantia_Book/90#p4_2)
 
@@ -102,7 +102,7 @@ Each country has reacted differently to Covid-19, some with very strict lockdown
 
 In Paper 71, _Development of the State_, under section 4: _Progressive Civilization_, one of the points indicating a progressive civilisation says:
 
-> _Economics, society, and government must evolve if they are to remain. Static conditions on an evolutionary world are indicative of decay; only those institutions which move forward with the evolutionary stream persist…._  <a id="a104_225"></a>[UB 71:4.1](/en/The_Urantia_Book/71#p4_1).
+> _Economics, society, and government must evolve if they are to remain. Static conditions on an evolutionary world are indicative of decay; only those institutions which move forward with the evolutionary stream persist…._  <a id="a104_225"></a>[UB 71:4.1](/en/The_Urantia_Book/71#p4_1).
 
 On a normal planet:
 
@@ -121,7 +121,7 @@ During the Golden Ages:
 
 > _During this age of light and life the world increasingly prospers under the fatherly rule of the Planetary Sovereign. By this time the worlds are progressing under the momentum of one language, one religion, and, on normal spheres, one race. But this age is not perfect. These worlds still have well-appointed hospitals, homes for the care of the sick. There still remain the problems of caring for accidental injuries and the inescapable infirmities attendant upon the decrepitude of old age and the disorders of senility. Disease has not been entirely vanquished, neither have the earth animals been subdued in perfection; but such worlds are like Paradise in comparison with the early times of primitive man during the pre-Planetary Prince age. You would instinctively describe such a realm — could you be suddenly transported to a planet in this stage of development — as heaven on earth._ <a id="a121_897"></a>[UB 55:3.1](/en/The_Urantia_Book/55#p3_1)
 
-The quote below portrays what happens on a normal planet after the arrival of the Post Bestowal Son. Of course, we have benefited from the bestowal of  Jesus, our Post Bestowal Son, but as we were not at the usual stage of evolution that exists on a normal planet for this bestowal, the advancements in the quote below are not ours.
+The quote below portrays what happens on a normal planet after the arrival of the Post Bestowal Son. Of course, we have benefited from the bestowal of  Jesus, our Post Bestowal Son, but as we were not at the usual stage of evolution that exists on a normal planet for this bestowal, the advancements in the quote below are not ours.
 
 > _During this era the problems of disease and delinquency are virtually solved. Degeneracy has already been largely eliminated by selective reproduction. Disease has been practically mastered through the high resistant qualities of the Adamic strains and by the intelligent and world-wide application of the discoveries of the physical sciences of preceding ages. The average length of life, during this period, climbs well above the equivalent of three hundred years of Urantia time._ <a id="a125_487"></a>[UB 52:5.9](/en/The_Urantia_Book/52#p5_9)
 
@@ -137,7 +137,7 @@ All who have faith in God and are trying to live the Golden Rule have the benefi
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/05/10/disease-and-immunity
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/05/10/disease-and-immunity)
 
 <figure class="table chapter-navigator">
   <table>

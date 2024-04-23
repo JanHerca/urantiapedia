@@ -43,15 +43,15 @@ dateCreated: 2023-9-16T10:55:6Z
 **28—31 March 2024**
 **Maritime Conference Center, Baltimore, Maryland, USA**
 
-Mark your calendars now for the next exciting Urantia Association International Conference in 2024! This will be the 12th International Conference of the Association and is being organized by Urantia Association of the United States (UAUS) and will be hosted by Urantia Association of Hawaii. 
+Mark your calendars now for the next exciting Urantia Association International Conference in 2024! This will be the 12th International Conference of the Association and is being organized by Urantia Association of the United States (UAUS) and will be hosted by Urantia Association of Hawaii. 
 
-This conference was first announced by Katrina Glavan-Heise, President of UAUS at the end of the virtual 11th International Conference after the Peruvian team handed her the virtual torch to present the next international conference in 2024. The announcement was preceded by a lovely promotion trailer that you can view by [clicking here](https://drive.google.com/file/d/1qz_HTMt41XHPhGjI8C1z_2JcQx9xUPJQ/view).
+This conference was first announced by Katrina Glavan-Heise, President of UAUS at the end of the virtual 11th International Conference after the Peruvian team handed her the virtual torch to present the next international conference in 2024. The announcement was preceded by a lovely promotion trailer that you can view by [clicking here](https://drive.google.com/file/d/1qz_HTMt41XHPhGjI8C1z_2JcQx9xUPJQ/view).
 
-Following is a bit of history of the evolution of this event in the words of Marian Hughes, one of the conference organizers and member of Urantia Association of Hawaii (HULA): 
+Following is a bit of history of the evolution of this event in the words of Marian Hughes, one of the conference organizers and member of Urantia Association of Hawaii (HULA): 
 
 The Hawaii Urantia Local Association had planned to hold a Pacific regional conference in 2018 until our Kilauea volcano decided to erupt and spoil our plans and fun. The facility we had booked was in the Volcano National Park, which had to close due to earthquake damage. I truly felt that the disappointments hardest to bear sometimes do come. 
 
-My first Urantia Conference was in 1973 at the First Western Conference in Brentwood L.A. where I was impressed by Christy’s words to us to be “Soldiers of the Circles.” Ever since then I have been a lifelong Urantia conference attendee. Fast forward to the Estonian European Conference in 2019 where the former Association President, Chris Wood mentioned to me that we need to be thinking about a host country for the 2024 international conference. Having already been inspired to have the regional Pacific conference theme on _The Nature and Nurture of The Soul_, and having already secured a keynote speaker, the seed was planted, and I thought why not turn the ideas for the Hawaii conference into an international conference. 
+My first Urantia Conference was in 1973 at the First Western Conference in Brentwood L.A. where I was impressed by Christy’s words to us to be “Soldiers of the Circles.” Ever since then I have been a lifelong Urantia conference attendee. Fast forward to the Estonian European Conference in 2019 where the former Association President, Chris Wood mentioned to me that we need to be thinking about a host country for the 2024 international conference. Having already been inspired to have the regional Pacific conference theme on _The Nature and Nurture of The Soul_, and having already secured a keynote speaker, the seed was planted, and I thought why not turn the ideas for the Hawaii conference into an international conference. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Cherry-Blossoms-1-267x400.jpg">

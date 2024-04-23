@@ -51,11 +51,11 @@ Welcome to the first meeting for Russian speaking readers of _The Urantia Book_ 
 
 ## Theme: Becoming Friends and Loving Each Other
 
-> _While you cannot observe the divine spirit at work in your minds, there  is a practical method of discovering the degree to which you have yielded the control of your soul powers to the teaching and guidance of this indwelling spirit of the heavenly Father, and that is the degree of your  love for your fellow men. This spirit of the Father partakes of the love of the Father, and as it dominates man, it unfailingly leads in the directions of divine worship and loving regard for one’s fellows._ <a id="a53_501"></a>[[UB 146:3.6](/en/The_Urantia_Book/146#p3_6)]
+> _While you cannot observe the divine spirit at work in your minds, there  is a practical method of discovering the degree to which you have yielded the control of your soul powers to the teaching and guidance of this indwelling spirit of the heavenly Father, and that is the degree of your  love for your fellow men. This spirit of the Father partakes of the love of the Father, and as it dominates man, it unfailingly leads in the directions of divine worship and loving regard for one’s fellows._ <a id="a53_501"></a>[[UB 146:3.6](/en/The_Urantia_Book/146#p3_6)]
 
-> _It is not so important to love all men today as it is that each day you learn to love one more human being._  <a id="a55_113"></a>[[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)]
+> _It is not so important to love all men today as it is that each day you learn to love one more human being._  <a id="a55_113"></a>[[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)]
 
-Those who are interested in giving a presentation are kindly asked to send us the title of their presentation and a brief half-page summary of its content before August 1, 2016. Email: [urantia.tamila@gmail.com](mailto:urantia.tamila@gmail.com)
+Those who are interested in giving a presentation are kindly asked to send us the title of their presentation and a brief half-page summary of its content before August 1, 2016. Email: [urantia.tamila@gmail.com](mailto:urantia.tamila@gmail.com)
 
 We will be sending monthly updates of the meeting as more details unfold.  
 _Note_ that there will be no English translation!
@@ -71,8 +71,8 @@ The meeting program begins on September 9 at 10.00 am and ends on September 11 a
 **REGISTRATION**
 
 To register please contact:  
-Ekaterina Alexandrova – email: [miss.katara2014@yandex.ru](mailto:miss.katara2014@yandex.ru) Telephone: +7 916 114 73 73 or  
-Tamila Ragimova – email: [urantia.tamila@gmail.com](mailto:urantia.tamila@gmail.com) Telephone +57 312 850 97 16
+Ekaterina Alexandrova – email: [miss.katara2014@yandex.ru](mailto:miss.katara2014@yandex.ru) Telephone: +7 916 114 73 73 or  
+Tamila Ragimova – email: [urantia.tamila@gmail.com](mailto:urantia.tamila@gmail.com) Telephone +57 312 850 97 16
 
 Those who are interested in participating are kindly asked to send their name, email, phone number, city and country before August 1, 2016 to [urantia.tamila@gmail.com](mailto:urantia.tamila@gmail.com)
 
@@ -82,7 +82,7 @@ Those who are interested in participating are kindly asked to send their name, e
 
 **PRICING**
 
-A double room costs 3,000 rubles per person per day (US$50), meals (US$10). Check into the hotel September 8, after 3.00 pm. Payment is due upon arrival. Contribution to the costs of organizing the meeting is 2,000 rubles (US$33) paid at registration. We have sponsors so please contact us in case of the need for financial assistance. 
+A double room costs 3,000 rubles per person per day (US$50), meals (US$10). Check into the hotel September 8, after 3.00 pm. Payment is due upon arrival. Contribution to the costs of organizing the meeting is 2,000 rubles (US$33) paid at registration. We have sponsors so please contact us in case of the need for financial assistance. 
 
 **TRANSPORT**
 
@@ -96,13 +96,13 @@ Hotel Novahoff
 <img src="/image/article/IUA_Tidings/Map-Airpor-to-Venue-Moscow.jpg">
 </figure>
 
-**Airport Taxi**: You can order a taxi from Sheremetyevo International Airport to Hotel Novahoff via [www.transparking.ru](http://www.transparking.ru/) or by phone  +7 964 588-88-80.
+**Airport Taxi**: You can order a taxi from Sheremetyevo International Airport to Hotel Novahoff via [www.transparking.ru](http://www.transparking.ru/) or by phone  +7 964 588-88-80.
 
-**Public Transport**: Bus or taxi № 541 from metro station “Tushinskaya” to the last stop “Nicholas Uryupino” (40-60 min).
+**Public Transport**: Bus or taxi № 541 from metro station “Tushinskaya” to the last stop “Nicholas Uryupino” (40-60 min).
 
-Link to venue routemap: [https://goo.gl/maps/gscqYcwWuj32](https://goo.gl/maps/gscqYcwWuj32)
+Link to venue routemap: [https://goo.gl/maps/gscqYcwWuj32](https://goo.gl/maps/gscqYcwWuj32)
 
-**_Note_**_: This conference is organized by Russian Urantia Book Readers from all around the world_ 
+**_Note_**_: This conference is organized by Russian Urantia Book Readers from all around the world_ 
 
 [Click here for information in Russian](http://urantia-association.org/2016/07/24/%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%b2-%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8/?lang=ru)
 

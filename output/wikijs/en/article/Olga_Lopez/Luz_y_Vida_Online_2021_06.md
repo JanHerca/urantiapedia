@@ -190,7 +190,7 @@ The Agora 2.0 group organizes biweekly virtual conferences in which it proposes 
 
 [https://agora-20.blogspot.com/](https://agora-20.blogspot.com/)
 
- 
+ 
 ## Video – our recommendation of the month
 
 ### The origin of _The Urantia Book_. Is it a revelation?

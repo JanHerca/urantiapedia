@@ -84,8 +84,8 @@ Fifth Bestowal | Uversa Mortal | Will of Conjoint Actor
 Sixth Bestowal | Morontia Mortal | Will of Eternal Son
 Seventh Bestowal | Human Mortal | Will of universal Father
 
-> _In completing his creature bestowals, Michael was not only establishing his own sovereignty but also was augmenting the evolving sovereignty of God the Supreme. In the course of these bestowals the Creator Son not only engaged in a descending exploration of the various natures of creature personality, but he also achieved the revelation of the variously diversified wills of the Paradise Deities, whose synthetic unity, as revealed by the Supreme Creators, is revelatory of the will of the Supreme Being._ <a id="a86_511"></a>[[UB 119:8.4](/en/The_Urantia_Book/119#p8_4)]
-> 
+> _In completing his creature bestowals, Michael was not only establishing his own sovereignty but also was augmenting the evolving sovereignty of God the Supreme. In the course of these bestowals the Creator Son not only engaged in a descending exploration of the various natures of creature personality, but he also achieved the revelation of the variously diversified wills of the Paradise Deities, whose synthetic unity, as revealed by the Supreme Creators, is revelatory of the will of the Supreme Being._ <a id="a86_511"></a>[[UB 119:8.3](/en/The_Urantia_Book/119#p8_3)]
+
 > _These various will aspects of the Deities are eternally personalized in the differing natures of the Seven Master Spirits, and each of Michael’s bestowals was peculiarly revelatory of one of these divinity manifestations._ <a id="a88_226"></a>[[UB 119:8.4](/en/The_Urantia_Book/119#p8_4)]
 
 Michael’s required bestowal experience represents a pattern expression for the process of universe education designed to demonstrate that personal sovereignty, at least for a Paradise Son, is based on the experiential comprehension of the wills of the Paradise Deities as they impact and influence the expression of God’s diversity in the finite realm (time and space). Is our personal sovereignty as will creatures consequential as well to such divinity experience?
@@ -182,7 +182,7 @@ The newly revealed truths in _The Urantia Book_ disclose the line of demarcation
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/educational-imperative-strategy-coming-decades
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/educational-imperative-strategy-coming-decades)
 
 <figure class="table chapter-navigator">
   <table>

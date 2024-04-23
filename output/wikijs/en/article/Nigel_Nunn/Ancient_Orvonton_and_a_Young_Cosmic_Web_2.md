@@ -68,7 +68,7 @@ Regarding the final video in that series (Part 4D), the _James Webb Space Telesc
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/video-part-4d-ancient-orvonton-young-cosmic-web
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/video-part-4d-ancient-orvonton-young-cosmic-web)
 
 <figure class="table chapter-navigator">
   <table>

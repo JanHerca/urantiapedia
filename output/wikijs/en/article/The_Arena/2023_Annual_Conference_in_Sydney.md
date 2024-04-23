@@ -44,7 +44,7 @@ By Conference Committee
 
 ## Talkin’ Bout a Revelation
 
-We invite you to join us at the 2023 ANZURA Annual Conference that will be held **25 to 28 August** at the delightful Peter Canisius House in Pymble on Sydney’s leafy North Shore.
+We invite you to join us at the 2023 ANZURA Annual Conference that will be held **25 to 28 August** at the delightful Peter Canisius House in Pymble on Sydney’s leafy North Shore.
 
 ## About the Conference Theme
 
@@ -56,19 +56,19 @@ At this year’s ANZURA conference we hope to tap into and share that huge reser
 
 > “No man, when he lights a lamp, covers it up with a vessel or puts it under the bed; he puts his lamp on a stand where all can behold the light. Let me tell you that nothing is hid in the kingdom of heaven which shall not be made manifest; neither are there any secrets which shall not ultimately be made known. Eventually, all these things shall come to light.” <a id="a56_365"></a>[UB 151:3.1](/en/The_Urantia_Book/151#p3_1)
 
-> “You cannot stand still in the affairs of the eternal kingdom. My Father requires all his children to grow in grace and in a knowledge of the truth. You who know these truths must yield the increase of the fruits of the spirit and manifest a growing devotion to the unselfish service of your fellow servants. And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me.” <a id="a58_426"></a>[UB 176:3.5](/en/The_Urantia_Book/176#p3_5) 
+> “You cannot stand still in the affairs of the eternal kingdom. My Father requires all his children to grow in grace and in a knowledge of the truth. You who know these truths must yield the increase of the fruits of the spirit and manifest a growing devotion to the unselfish service of your fellow servants. And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me.” <a id="a58_426"></a>[UB 176:3.5](/en/The_Urantia_Book/176#p3_5) 
 
 > “Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it.” <a id="a60_208"></a>[UB 176:3.10](/en/The_Urantia_Book/176#p3_10)
 
-> The act is ours, the consequences God’s. <a id="a62_43"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+> The act is ours, the consequences God’s. <a id="a62_43"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 ## Venue
 
-Peter Canisius House is a retreat centre conveniently located on a five-acre site in Pymble on Sydney’s North Shore. Although it’s situated in the heart of suburbia you wouldn’t know it. As you drive into the property you might think you were out in the country. The site is steeped in history and was established by the Order of the Society of Jesus which is better known as the Jesuits. Their vision is to “Provide outstanding hospitality to our guests to share and experience a spirit of quiet and a sacred place to engage in spiritual conversations.”
+Peter Canisius House is a retreat centre conveniently located on a five-acre site in Pymble on Sydney’s North Shore. Although it’s situated in the heart of suburbia you wouldn’t know it. As you drive into the property you might think you were out in the country. The site is steeped in history and was established by the Order of the Society of Jesus which is better known as the Jesuits. Their vision is to “Provide outstanding hospitality to our guests to share and experience a spirit of quiet and a sacred place to engage in spiritual conversations.”
 
 ## Cost
 
-_**Full Conference:**_ $500 – includes 3 nights of twin-share accommodation and all meals from Friday dinner to Monday breakfast.  
+_**Full Conference:**_ $500 – includes 3 nights of twin-share accommodation and all meals from Friday dinner to Monday breakfast.  
 **_Daily Rate:_** $100 – includes lunch and dinner.  
 **_Daily Rate:_** $50 – includes lunch only.
 
@@ -82,9 +82,9 @@ All meals are provided from Friday dinner to Monday breakfast along with morning
 <img src="/image/article/The_Arena/PCH-21-adj-300x136.jpg" alt="Peter Canisius House">
 </figure>
 
-Peter Canisius House is located at **102 Mona Vale Road, Pymble NSW**
+Peter Canisius House is located at **102 Mona Vale Road, Pymble NSW**
 
-**_By Car:_** The conference centre can be accessed via Mona Vale Road. If heading south towards St Ives it is just past the traffic lights at the intersection of Telegraph Road which is the nearest cross street.
+**_By Car:_** The conference centre can be accessed via Mona Vale Road. If heading south towards St Ives it is just past the traffic lights at the intersection of Telegraph Road which is the nearest cross street.
 
 **_By Public Transport_****:** If travelling by train or bus from Central Station, catch a train on the North Shore Line to Gordon, which is the nearest train station with good bus links to the venue. Most buses go straight past the venue.
 
@@ -123,7 +123,7 @@ Mailing Address: PO Box 1581, Warriewood NSW 2102
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/2023-annual-conference-sydney
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/01/06/2023-annual-conference-sydney)
 
 <figure class="table chapter-navigator">
   <table>

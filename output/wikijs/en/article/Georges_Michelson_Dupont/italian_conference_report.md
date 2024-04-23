@@ -38,9 +38,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Georges_Michelson_Dupont_300.jpg">
 </figure>
 
-The first meeting of Italian readers of _The Urantia Book_ took place in Verona, the beautiful and historic city of Romeo and Juliet.
+The first meeting of Italian readers of _The Urantia Book_ took place in Verona, the beautiful and historic city of Romeo and Juliet.
 
-Danielle La Scala, who organized the meeting, is a former resident of France and Switzerland. The meeting was held from Friday, August 28, to Sunday, August 30. Of the eight Italians who wrote that they would attend the gathering, only three were present for the full meeting. Memo Z., the chief translator of the Italian translation, came Saturday and Sunday, and one person came just for Saturday afternoon. In addition to Danielle, my wife, Marlène, and I, Antonio Schefer from the Netherlands, representing Urantia Association International , were in attendance. A Swiss man from Lausanne was also present as well as three French readers, a woman and two men, from Marseille, France.
+Danielle La Scala, who organized the meeting, is a former resident of France and Switzerland. The meeting was held from Friday, August 28, to Sunday, August 30. Of the eight Italians who wrote that they would attend the gathering, only three were present for the full meeting. Memo Z., the chief translator of the Italian translation, came Saturday and Sunday, and one person came just for Saturday afternoon. In addition to Danielle, my wife, Marlène, and I, Antonio Schefer from the Netherlands, representing Urantia Association International , were in attendance. A Swiss man from Lausanne was also present as well as three French readers, a woman and two men, from Marseille, France.
 
 Friday night was devoted to socializing and enjoying a good meal at the hotel.
 
@@ -67,9 +67,9 @@ We devoted the first part of Sunday morning to the study of mind spiritualizatio
 
 A two-hour sharing ensued about the meaning of “the adjustments of the human will and those transformations in the mortal mind” described in this paragraph. Again, clarification of ideas and consequences in human daily life were examined.
 
-After eleven o’clock it was time to pack and get ready for lunch, which took place in a nice, typical Italian ristorante with much _frutti di mare_ and pasta.
+After eleven o’clock it was time to pack and get ready for lunch, which took place in a nice, typical Italian ristorante with much _frutti di mare_ and pasta.
 
-The results of this gathering look very positive and promising. Two of the three Italians are dedicated readers and want to become active in the process of creating study groups, preparing other gatherings, and fostering interest among Italians in _The Urantia Book_. Memo Z. wants to retire from his position as contact person. Danielle offered to take over his position.
+The results of this gathering look very positive and promising. Two of the three Italians are dedicated readers and want to become active in the process of creating study groups, preparing other gatherings, and fostering interest among Italians in _The Urantia Book_. Memo Z. wants to retire from his position as contact person. Danielle offered to take over his position.
 
 Danielle did a great job in taking the initiative and organizing this gathering. She deserves a great deal of respect for this service.
 

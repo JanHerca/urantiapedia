@@ -101,7 +101,7 @@ Yet _he_ is the one who ultimately gave up. There are many reasons for that and 
 
 Unfortunately, we do not have the transcript of Jesus’ talk on “The mission of adversity and the spiritual value of disappointment” referred to at the beginning of Paper 151. We are given so many of his discourses, yet this one is mentioned only in passing, despite it being called memorable. Did Jesus give his apostles the lemonade speech? We may never really know.
 
-Left to speculate, I thought of the _Book of Job_. Despite all that happened to him, “… Job did not … charge God with wrongdoing” (Job 1:22). He did not moan and wail, “Where was God?” as many people do after some atrocity happens. I heard this frequently after the terrorist attacks on New York.  “Where was God on 9/11?” was a common refrain among many groups of people.
+Left to speculate, I thought of the _Book of Job_. Despite all that happened to him, “… Job did not … charge God with wrongdoing” (Job 1:22). He did not moan and wail, “Where was God?” as many people do after some atrocity happens. I heard this frequently after the terrorist attacks on New York.  “Where was God on 9/11?” was a common refrain among many groups of people.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/cliffs-1-300x200.jpg">

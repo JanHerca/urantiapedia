@@ -67,7 +67,7 @@ Jesus portrayed the profound surety of the God-knowing mortal when he said: “T
 
 It seems that our creature disorientation creates problems when setting priorities and goals; this comes from the single reason which is our relative lack of God-knowing.
 
-How do we get to know God? We just need to seek for him in our hearts and then serve our brothers and sisters.  We just need to feel him acting through us.
+How do we get to know God? We just need to seek for him in our hearts and then serve our brothers and sisters.  We just need to feel him acting through us.
 
 ## References
 

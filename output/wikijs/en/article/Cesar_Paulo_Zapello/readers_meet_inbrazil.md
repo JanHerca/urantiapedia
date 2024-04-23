@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 The Brazilian Urantia Association met in Canela, Rio Grande do Sul, Brazil, on May 23, 2015, at the home of our host Edison Arpino Torres and his wife Susana. We are always received warmly and are welcomed to join together in search of knowledge and to share our insights gained from reading _The Urantia Book_.
 
-Everyone in the group looks forward to this valuable time every month. We are united in our pursuit of strength and enlightenment with the mutual objective of understanding how best to do the will of the Father. Thanks to everyone who actively participated in sharing _The Urantia Book’s_ teachings, and experiencing the special presence of the Spirit of Truth. We all share a sincere desire to follow the path to a new reality during our lives on earth, and prepare ourselves for the eternal and progressive journey.
+Everyone in the group looks forward to this valuable time every month. We are united in our pursuit of strength and enlightenment with the mutual objective of understanding how best to do the will of the Father. Thanks to everyone who actively participated in sharing _The Urantia Book’s_ teachings, and experiencing the special presence of the Spirit of Truth. We all share a sincere desire to follow the path to a new reality during our lives on earth, and prepare ourselves for the eternal and progressive journey.
 
 This meeting was dedicated to the subject developed by our sister Jeannie Vázquez de Abreu, “Wise Leadership for Effectively Promoting the Urantia Revelation”.
 

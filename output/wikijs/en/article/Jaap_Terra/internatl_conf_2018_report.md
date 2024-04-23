@@ -76,7 +76,7 @@ We considered it a great honor to have been invited to organize this Internation
 With kind regards,
 
 Jaap Terra  
-President of Urantia Association of the Netherlands (UAISUN)  
+President of Urantia Association of the Netherlands (UAISUN)  
 Email: [info@urantia.nl](mailto:info@urantia.nl)
 <br style="clear:both;"/>
 

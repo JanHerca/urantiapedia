@@ -124,7 +124,7 @@ This presentation by the author begins by making a “file” of each one of the
 In this article, its author makes a systematic analysis of all these concepts because, in order to better understand what each of them deals with and what their differences are, "it is good to define what is understood by basic terms, and that is what we are going to do prior to your exam: 1) Fundamentals, 2) Method, 3) Object and 4) Field of action”. Finally, the author compares the way in which each one can face the problem of God. All this supported by quotes from the book, which so magnificently expresses the scope of application of all of them and the importance of not confusing these areas to avoid falling into materialism or the most flagrant pantheism.
 <br style="clear:both" />
 
- 
+ 
 ## History and teachings: Chronicle of the life of Jesus
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
@@ -137,7 +137,7 @@ We present the following installment of the chronicles of the life of Jesus, whi
 
 [Abstract of paper 142](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/02/Documento-142.pdf)
 <br style="clear:both" />
- 
+ 
 ## Children's Guide to The Urantia Book: Jesus at Twelve Years
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">

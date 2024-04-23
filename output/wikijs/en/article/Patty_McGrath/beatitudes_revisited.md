@@ -209,7 +209,7 @@ Let us resolve to practice these attitudes and prepare our minds by prayer so th
 
 Our Father asks us to go about “doing good.” As the little expressions of his love flow through us to others, we increase our awareness of the love that exists within us. Unlike physical things, the intangibles of love, understanding, kindness, courage, loyalty, and trust, only increase if they are given away. To know you have love, give it away.
 
-> _“… by the lives you live… men will know you have been with me and have learned of the realities of the kingdom._” <a id="a211_117"></a>[[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
+> _“… by the lives you live… men will know you have been with me and have learned of the realities of the kingdom._” <a id="a211_117"></a>[[UB 140:1.7](/en/The_Urantia_Book/140#p1_7)]
 
 With the challenges that the 21<sup>st</sup> century brings, these guidelines for living are here for us to remember while we go about our daily lives.
 

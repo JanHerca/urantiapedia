@@ -64,7 +64,7 @@ Faith is the price you pay for entrance into the family of God; but forgiveness 
 
 When theology masters religion, religion dies; it becomes a doctrine instead of a life. The mission of theology is merely to facilitate the self-consciousness of personal spiritual experience. Theology constitutes the religious effort to define, clarify, expound, and justify the experiential claims of religion, which, in the last analysis, can be validated only by living faith.
 
-In the higher philosophy of the universe, wisdom, like reason, becomes allied to faith. Reason, wisdom, and faith are man's highest human attainments. Reason  introduces man to the world of facts, to things; wisdom introduces him to a world of truth, to relationships; faith initiates him into a world of divinity, spiritual experience.
+In the higher philosophy of the universe, wisdom, like reason, becomes allied to faith. Reason, wisdom, and faith are man's highest human attainments. Reason  introduces man to the world of facts, to things; wisdom introduces him to a world of truth, to relationships; faith initiates him into a world of divinity, spiritual experience.
 
 > But for you, my children, and for all others who would follow you into this kingdom, there is set a severe test. Faith alone will pass you through its portals, but you must bring forth the fruits of my Father's spirit if you would continue to ascend in the progressive life of the divine fellowship. (<a id="a68_303"></a>[UB 140:1.4](/en/The_Urantia_Book/140#p1_4))
 

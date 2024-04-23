@@ -90,7 +90,7 @@ ANZURA President
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/presidents-report-3
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/01/06/presidents-report-3)
 
 <figure class="table chapter-navigator">
   <table>

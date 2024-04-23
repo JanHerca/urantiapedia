@@ -57,7 +57,7 @@ The grand universe creation of the seven superuniverses will become a perfected 
 
 ### God the Supreme
 
-- _The actualizing or evolving God of time and space_ <a id="a59_54"></a>[[UB 0:2.16](/en/The_Urantia_Book/0#p2_16)]
+- _The actualizing or evolving God of time and space_ <a id="a59_54"></a>[[UB 0:2.16](/en/The_Urantia_Book/0#p2_16)]
 - The first experiential level of unifying Deity manifestation
 - Personal Deity associatively realizing the time-space experiential achievement of creature-Creator identity
 - The achievement of Deity unity as the evolving and experiential God of the evolutionary creatures of time and space

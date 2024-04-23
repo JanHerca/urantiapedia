@@ -42,7 +42,7 @@ I am a conference fanatic. One of my first experiences with the Urantia communit
 
 When I was elected President of Urantia Association International I had few concrete goals, but one of them was simply, “More conferences.” This year the Urantia Community will be trying something we have never tried before: four conferences on four continents sharing the same theme. And although Urantia Association is leading this effort, this is truly a conference season for uniting the entire Urantia Community for these events.
 
-North America will begin the conference season over the four day weekend of June 9-12 in San Antonio, Texas, USA, where Urantia Association of the United States (UAUS) and _The Urantia Book_ Fellowship are co-hosting a joint event uniting an Association National Conference with a Fellowship Study Summer Session. This will be an exciting event as these two groups unite for the first time! Registration is now open and currently around 140 people have already signed up!
+North America will begin the conference season over the four day weekend of June 9-12 in San Antonio, Texas, USA, where Urantia Association of the United States (UAUS) and _The Urantia Book_ Fellowship are co-hosting a joint event uniting an Association National Conference with a Fellowship Study Summer Session. This will be an exciting event as these two groups unite for the first time! Registration is now open and currently around 140 people have already signed up!
 
 In September, two conferences on opposite sides of the world will share a theme and a weekend and, technology willing, some program highlights. In Blackmans Bay, Tasmania, Australia the Australia and New Zealand Urantia Association (ANZURA) will host their annual conference September 16-19. Concurrently, September 15-18 in Budapest, the Hungary Urantia Association will work with the Blue Club of Europe to host a continental conference uniting the many Urantia communities spread throughout Europe. Registration is open soon for both events, so join us in one hemisphere or the other, your choice!
 
@@ -54,7 +54,7 @@ One more quick note: attending a conference is often the first interaction a per
 
 In service,  
 Chris Wood  
-President, Urantia Association International
+President, Urantia Association International
 
 <br style="clear:both;"/>
 

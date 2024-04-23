@@ -51,14 +51,14 @@ The fact that evolution has accelerated since then on both social and technologi
 <img src="/image/article/IUA_Tidings/IMG_4046-1-e1504345136369.jpg">
 </figure>
 
-The result of this study is that a person who really wants to evolve must first use his or her complete intellectual abilities (theSeven Adjutant Mind-Spirits) and discernment (personality) so as to reach the highest level of perception (cosmicconsciousness). Then the diverse spiritual helpers can efficiently add their influence to guide (Angels), actualize (Adjuster) and confirm (Spirit of Truth).
+The result of this study is that a person who really wants to evolve must first use his or her complete intellectual abilities (theSeven Adjutant Mind-Spirits) and discernment (personality) so as to reach the highest level of perception (cosmicconsciousness). Then the diverse spiritual helpers can efficiently add their influence to guide (Angels), actualize (Adjuster) and confirm (Spirit of Truth).
 
 However, it is to be noted that, owing to the fact that it is the Divine Minister who is in charge of the bestowal of this Spirit of Truth, the direct connection with the superior Adjutant Mind-Spirits is a certainty.
 <br style="clear:both;"/>
 
 ## Business Meeting:
 
-The situation of the French Association is that we are not growing as we would like for several reasons, but this is not a unique problem.    
+The situation of the French Association is that we are not growing as we would like for several reasons, but this is not a unique problem.    
 
 In France, it has been difficult to make _The Urantia Book_ known. Due to highly publicized cult activities in the past, there is fear of being labeled as members of a sect, as they did a lot of harm in our country, not to mention the dark past of the Catholic Church and the scandals nowadays. 
 

@@ -62,7 +62,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Three groups of beings have to do with force control and energy regulation:
 	1. Primary Eventuated Master Force Organizers.
 	2. Associate Transcendental Master Force Organizers.
-	3. Universe Power Directors. <a id="s64_30"></a>[UB 29:5.1](/en/The_Urantia_Book/29#p5_1)
+	3. Universe Power Directors. <a id="s64_30"></a>[UB 29:5.1](/en/The_Urantia_Book/29#p5_1)
 2. Paradise Force Organizers function throughout the master universe under the supervision of the Master Architects. <a id="s65_117"></a>[UB 29:5.1](/en/The_Urantia_Book/29#p5_1)
 3. Cosmic force comes from paradise and circulates throughout the master universe as the of pervaded space. <a id="s66_108"></a>[UB 12:8.2](/en/The_Urantia_Book/12#p8_2)
 4. Cosmic force swings on forever around the eternal space paths. <a id="s67_66"></a>[UB 12:8.3](/en/The_Urantia_Book/12#p8_3)

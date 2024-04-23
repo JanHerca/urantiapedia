@@ -42,7 +42,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 ## In This Issue
 
-- **President’s Report – Summer 2020** – Phillip Marriott, Adelaide, SA 
+- **President’s Report – Summer 2020** – Phillip Marriott, Adelaide, SA 
 - **2021 Annual Conference in Sydney** – Sydney Conference Committee
 - **2020 Annual Conference Report** – NZ Conference Committee
 - **Language Matters** – Marion Steward, NZ
@@ -60,7 +60,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 ## President’s Report – Summer 2020
 
-Phillip Marriott, Adelaide, SA 
+Phillip Marriott, Adelaide, SA 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Phillip-Marriott-150x150.jpg" alt="Phillip Marriott">
@@ -89,13 +89,13 @@ Sydney Conference Committee
 
 THIS CONFERENCE HAS BEEN CANCELLED DUE TO COVID-19 AND CONVERTED TO A VIRTUAL EVENT.
 
-SEE  [https://anzura.urantia-association.org/2021/09/07/anzura-conference-virtual-experience/](https://anzura.urantia-association.org/2021/09/07/anzura-conference-virtual-experience/) FOR DETAILS
+SEE  [https://anzura.urantia-association.org/2021/09/07/anzura-conference-virtual-experience/](https://anzura.urantia-association.org/2021/09/07/anzura-conference-virtual-experience/) FOR DETAILS
 
 \*\*\*\
 
 **The Goodness of Love – _a Keystone to Reality_**
 
-We invite you to join us at the 2021 ANZURA Annual Conference that will be held **1 – 4 October** at the Peter Canisius House in Pymble, Sydney.
+We invite you to join us at the 2021 ANZURA Annual Conference that will be held **1 – 4 October** at the Peter Canisius House in Pymble, Sydney.
 
 **Registration is Now Open!**
 
@@ -105,12 +105,12 @@ We invite you to join us at the 2021 ANZURA Annual Conference that will be held�
 
 ### About the Theme
 
-> _Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ <a id="a107_235"></a>[[UB 2:7.12](/en/The_Urantia_Book/2#p7_12)]
+> _Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ <a id="a107_235"></a>[[UB 2:7.12](/en/The_Urantia_Book/2#p7_12)]
 
 When we embark on the quest for the highest value and eliminate the selfish qualities of love, we have the potential to contribute to the creation of finite reality in our own incredibly unique ways. When we become more real—more balanced in our personalities—we come close to understanding that the keystone to reality is the highest value of all—the Goodness of Love.
 
 
-> _…man’s nearest and dearest approach to God is by and through love, for God is love._ <a id="a112_88"></a>[[UB 3:4.7](/en/The_Urantia_Book/3#p4_7)]
+> _…man’s nearest and dearest approach to God is by and through love, for God is love._ <a id="a112_88"></a>[[UB 3:4.7](/en/The_Urantia_Book/3#p4_7)]
 
 ### Venue
 
@@ -130,15 +130,15 @@ All meals are provided from Friday dinner to Monday lunch along with morning tea
 <img src="/image/article/The_Arena/PCH-12-300x200.jpg" alt="Peter Canisius House">
 </figure>
 
-Full Conference:**_ $450 – includes 3 nights of twin-share accommodation and all meals from Friday dinner to Monday lunch.
+Full Conference:**_ $450 – includes 3 nights of twin-share accommodation and all meals from Friday dinner to Monday lunch.
 **_Daily Rate:_** $100 – includes lunch and dinner.
 **_Daily Rate:_** $50 – includes lunch only.
 
 **Transport**
 
-Peter Canisius House is located at **102 Mona Vale Road, Pymble NSW**
+Peter Canisius House is located at **102 Mona Vale Road, Pymble NSW**
 
-**_By Car:_** The conference centre can be accessed via Mona Vale Road. If heading south towards St Ives it is just past the traffic lights at the intersection of Telegraph Road which is the nearest cross street.
+**_By Car:_** The conference centre can be accessed via Mona Vale Road. If heading south towards St Ives it is just past the traffic lights at the intersection of Telegraph Road which is the nearest cross street.
 
 **_By Public Transport_****:** If travelling by train or bus from Central Station, catch a train on the North Shore Line to Gordon, which is the nearest train station with good bus links to the venue. Most buses go straight past the venue.
 
@@ -295,10 +295,10 @@ Cecilia Ann Bendall, TAS
 <img src="/image/article/The_Arena/Cecilia-Ann-Bendall-249x300.jpg" alt="Cecilia Ann Bendall">
 </figure>
 
-One of the few topics that we are told led to Jesus being _stirred within his spirit_ was the inference that we should all see alike. When asked by James Zebedee _Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?_ (<a id="a297_253"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)) Jesus replied: 
+One of the few topics that we are told led to Jesus being _stirred within his spirit_ was the inference that we should all see alike. When asked by James Zebedee _Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?_ (<a id="a297_253"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)) Jesus replied: 
 <br style="clear:both;"/>
 
-> _“James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and_ **_freedom_** _before God. I do not desire that social harmony and fraternal_ **_peace_** _shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny._
+> _“James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and_ **_freedom_** _before God. I do not desire that social harmony and fraternal_ **_peace_** _shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny._
 
 [Read more](/en/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary)
 <br style="clear:both;"/>
@@ -313,7 +313,7 @@ Chris Moseley, England
 
 **Mining the Archives**
 
-(_Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology._ **_This one is from the Arena Newsletter,_** **Autumn 1999**)
+(_Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology._ **_This one is from the Arena Newsletter,_** **Autumn 1999**)
 
 The concept of ‘Mind’ in itself, in the abstract, unlimited sense of the word, does not imply free will, but the individual mind, mortal mind, has freewill as an inseparable, defining component. In the passage on p.1216 entitled _The Mind Arena of Choice_, there is a striking sentence that almost expresses the kernel of the whole human condition:
 <br style="clear:both;"/>
@@ -359,7 +359,7 @@ Anzura Admin
 <img src="/image/article/The_Arena/Aust-NZ-snip-300x207.jpg" alt="Arena newsletter">
 </figure>
 
-The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
+The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
 
 It is our intention not to encumber our work for the spreading of _The Urantia Book_ and its teachings with church, temple, or other spiritual institutions. Our members have come to recognise the significance of the book and the integrated beauty of its supernal teachings which encourage us to develop our own philosophy through study, experience, decisions, and actions. Nevertheless, we hold the view, and recognise that collectively there are many valuable projects and programs we can undertake together to achieve our goals.
 
@@ -425,7 +425,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2020/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-summer-2020/)
 
 <figure class="table chapter-navigator">
   <table>

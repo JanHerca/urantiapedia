@@ -75,7 +75,7 @@ President, ANZURA
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/president-report-spring-2020
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/09/07/president-report-spring-2020)
 
 <figure class="table chapter-navigator">
   <table>

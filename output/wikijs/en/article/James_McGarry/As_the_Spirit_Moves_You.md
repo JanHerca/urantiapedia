@@ -44,7 +44,7 @@ In this presentation I speak briefly about my background with _The Urantia Book_
 
 ## How I Initially Came Across The Urantia Book
 
-From a very young age (roughly eight to ten years old) I was introduced to _The Urantia Book_ by my father who had been a reader for several years prior. Almost every Sunday we had a reading, focusing on short sections, and paraphrased according to my capacity to receive the teachings of the book. I always enjoyed these study sessions and remember asking countless questions to the point that we would often not complete a single section of a paper.  This continued on for a few years, on and off.
+From a very young age (roughly eight to ten years old) I was introduced to _The Urantia Book_ by my father who had been a reader for several years prior. Almost every Sunday we had a reading, focusing on short sections, and paraphrased according to my capacity to receive the teachings of the book. I always enjoyed these study sessions and remember asking countless questions to the point that we would often not complete a single section of a paper.  This continued on for a few years, on and off.
 
 ## What Motivated Me to Read and Study the Book?
 
@@ -90,7 +90,7 @@ Yes, because:
 
 Yes, because:
 
-It helped me to integrate all the previous spiritual/religious teachings together in a unified manner in accordance with the teachings of _The Urantia Book_. Buddhist teachings on mindfulness helped me to separate my seat of identity with the mind – to see the mind as a tool. However, these religious teachings on mindfulness (being present) merely talked about the cessation of suffering as the goal, rather than a powerful tool to access higher states of thinking in the superconscious, and for the use of  effective prayer and worship (getting closer to God). _The Urantia Book_, therefore, helped me to go beyond what evolutionary religion could provide – it helped me to understand that Truth without goodness (service to humanity) is incomplete. The teachings from _The Urantia Book_ have had profound implications on my life in several ways:
+It helped me to integrate all the previous spiritual/religious teachings together in a unified manner in accordance with the teachings of _The Urantia Book_. Buddhist teachings on mindfulness helped me to separate my seat of identity with the mind – to see the mind as a tool. However, these religious teachings on mindfulness (being present) merely talked about the cessation of suffering as the goal, rather than a powerful tool to access higher states of thinking in the superconscious, and for the use of  effective prayer and worship (getting closer to God). _The Urantia Book_, therefore, helped me to go beyond what evolutionary religion could provide – it helped me to understand that Truth without goodness (service to humanity) is incomplete. The teachings from _The Urantia Book_ have had profound implications on my life in several ways:
 
 - Letting go of old habits and cultivating positive daily habits (e.g. even small things like what I eat and drink) that help me to align closer with the spirit. In other words, cultivating a philosophy of living.
 - Shifting my consciousness away from the old adjutant mind towards the soul mind. Being conscious of spending more time in spiritual communion (i.e. prayer, meditation, and worship) helps facilitate this and thereby facilitates greater receptivity to spirit influence on my mind. I’m now much more conscious of every small, or big, decision that I make in my life in accordance with God’s will.
@@ -98,7 +98,7 @@ It helped me to integrate all the previous spiritual/religious teachings togethe
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/09/27/as-spirit-moves-you
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/09/27/as-spirit-moves-you)
 
 <figure class="table chapter-navigator">
   <table>

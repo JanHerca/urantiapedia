@@ -101,7 +101,7 @@ The Urantia Book – Urantia Foundation
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/07/26/urantia-book-presentation
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/07/26/urantia-book-presentation)
 
 <figure class="table chapter-navigator">
   <table>

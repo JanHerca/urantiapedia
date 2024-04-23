@@ -41,7 +41,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 ## In This Issue
 
-- **President’s Report – Winter 2021** – Phillip Marriott, Adelaide, SA 
+- **President’s Report – Winter 2021** – Phillip Marriott, Adelaide, SA 
 - **Sydney Conference Reminder – 2021**
 - **Study Day 2021 – Reflections**
 - **Mining the Archives**
@@ -82,12 +82,12 @@ In my opinion it’s all about perspective. With which lens do I choose to view 
 <img src="/image/article/The_Arena/PCH-21-adj-570x259.jpg">
 </figure>
 
-For those planning on coming to this year’s Sydney conference being held **1 – 4 October** at the Peter Canisius House in Pymble, this is a reminder to send us your registration.
+For those planning on coming to this year’s Sydney conference being held **1 – 4 October** at the Peter Canisius House in Pymble, this is a reminder to send us your registration.
 
 Although we’ve all no doubt been affected by the July Covid-19 lockdowns, we’re still anticipating that the conference will go ahead as an in-person event in October. As it’s still a couple of months away and the vaccines continue to roll out, it’s still possible that things will be under control by then. And if we do go ahead, we’ve been assured by the staff at the venue (who continued to operate last year during the initial outbreak) that they will take all the necessary precautions to minimise the chances of spreading the virus. Of course, if we do need to cancel, we will fully reimburse those who have already paid their registrations.
 
 
-**About the Program: The Goodness of Love – The Keystone to Reality**
+**About the Program: The Goodness of Love – The Keystone to Reality**
 
 The universe we live in is a wonderful and mysterious place and our minds are innately equipped to embark on an alluring adventure of discovery. This mind can be likened to a living instrument. Each of us are the creative personal players and composers of it. We each have the potential and responsibility within us to contribute to the creation of finite reality as we are all incredibly unique and can be of tremendous value to one another. Collectively we can—over time—make a truly good and beautiful finite world for our children and our children’s children.
 
@@ -100,9 +100,9 @@ The universe we live in is a wonderful and mysterious place and our minds are in
 <img src="/image/article/The_Arena/20180519_154825-300x169.jpg">
 </figure>
 
-When ANZURA arranges a Study Day, the hope is to provide an opportunity for students of _The Urantia Book_ to participate in a specially formed study group in their regional areas so that reads are meeting on the same day studying the same paper. The value of meeting with other readers is not to be underestimated—after all, our personal growth and religious experiences are best fostered while we are relating – inter-acting – with other personalities!
+When ANZURA arranges a Study Day, the hope is to provide an opportunity for students of _The Urantia Book_ to participate in a specially formed study group in their regional areas so that reads are meeting on the same day studying the same paper. The value of meeting with other readers is not to be underestimated—after all, our personal growth and religious experiences are best fostered while we are relating – inter-acting – with other personalities!
 
-Groups met over the weekend of 19<sup>th</sup> June to study **Paper 2: The Nature of God.** The following articles contain some reflections from some who met.
+Groups met over the weekend of 19<sup>th</sup> June to study **Paper 2: The Nature of God.** The following articles contain some reflections from some who met.
 
 
 **Hunter Region Meeting Reflections**
@@ -118,7 +118,7 @@ They call the material at hand ‘poorly’, although they agree that the olden 
 
 ## Mining the Archives
 
-_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from Innerface Newsletter, September 2002.** Additional note: The next two articles in this issue of Arena-Winter 2021 by William Wentworth and Nigel Nunn are thoughts inspired by this 2002 article of Gen Glasziou’s.)_
+_(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from Innerface Newsletter, September 2002.** Additional note: The next two articles in this issue of Arena-Winter 2021 by William Wentworth and Nigel Nunn are thoughts inspired by this 2002 article of Gen Glasziou’s.)_
 
 
 **Mathematics and Science Catch up with _The Urantia Book_**
@@ -149,7 +149,7 @@ Ken Glasziou was a scientist who took pains to make his reasoning comprehensible
 
 Science develops so rapidly that I don’t really know whether his comments are still relevant, but it led me to think about the application of scientific thinking to cosmology as _The Urantia Book_ explains it.
 
-Scientists have been trying to develop a theory which accounts for everything in the cosmos, both large scale and small, from the largest clusters of galaxies to the smallest particles within atoms.  Some of the most accomplished physicists and mathematicians have given themselves to this effort, so far without success, since they restrict themselves to consideration of only a part of the whole of which the cosmos consists.
+Scientists have been trying to develop a theory which accounts for everything in the cosmos, both large scale and small, from the largest clusters of galaxies to the smallest particles within atoms.  Some of the most accomplished physicists and mathematicians have given themselves to this effort, so far without success, since they restrict themselves to consideration of only a part of the whole of which the cosmos consists.
 
 While they have developed some of the most amazing methods to measure both sub-atomic particles on the one hand, and enormous aggregations of matter on the other, they have not been able to blend them into a unified theory which accounts for all the measurements. There always seems to be something which doesn’t fit.
 
@@ -187,9 +187,9 @@ Marion Steward, Auckland, New Zealand
 <img src="/image/article/The_Arena/Marion-07-150x150.jpg" alt="Marion Steward">
 </figure>
 
-Diversity is one of the dominant aspects of the universe as described in _The Urantia Book_. It pervades all of the grand universe, including spiritual and ascending beings and the physical environments.  Diversity presents challenges to us all as we go about our daily lives, but because of its never-ending and constantly expanding presence, it is very important to learn how to deal with it here on Urantia in preparation for our future universe career.
+Diversity is one of the dominant aspects of the universe as described in _The Urantia Book_. It pervades all of the grand universe, including spiritual and ascending beings and the physical environments.  Diversity presents challenges to us all as we go about our daily lives, but because of its never-ending and constantly expanding presence, it is very important to learn how to deal with it here on Urantia in preparation for our future universe career.
 
-The article will first outline the scope and range of diversity in the Universe, and portray just how individual and varied almost everything is. It will focus first on what can be called outer diversity – how the appearance and form of almost everything and every living being varies in the universe, and of course on our planet. This will be followed by a brief overview of what I have called inner diversity, which is some of the main ways in which people can vary, including mental, emotional, social, racial, cultural and personality.   The next section will discuss how diversity is part of God’s plan for the universe, and is never-ending, followed by a brief outline of how this diversity presents challenges to us in the world today.  Finally, there will be a discussion of what Jesus had to say about this aspect of life, and how his advice might be applied, in very broad terms. to the situations we might find ourselves in in our everyday lives.
+The article will first outline the scope and range of diversity in the Universe, and portray just how individual and varied almost everything is. It will focus first on what can be called outer diversity – how the appearance and form of almost everything and every living being varies in the universe, and of course on our planet. This will be followed by a brief overview of what I have called inner diversity, which is some of the main ways in which people can vary, including mental, emotional, social, racial, cultural and personality.   The next section will discuss how diversity is part of God’s plan for the universe, and is never-ending, followed by a brief outline of how this diversity presents challenges to us in the world today.  Finally, there will be a discussion of what Jesus had to say about this aspect of life, and how his advice might be applied, in very broad terms. to the situations we might find ourselves in in our everyday lives.
 
 [Read more](https://anzura.urantia-association.org/2021/07/29/challenges-of-diversity/#more-1647)
 <br style="clear:both;"/>
@@ -244,7 +244,7 @@ Anzura Admin
 <img src="/image/article/The_Arena/Aust-NZ-snip-300x207.jpg" alt="Arena newsletter">
 </figure>
 
-The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
+The Australia and New Zealand Urantia Association (ANZURA) is made up of individuals who desire to assist in fostering the study of _The Urantia Book_ and the dissemination of its teachings throughout Australia and New Zealand. It seeks to do this by providing interactive learning environments in which students may deepen and broaden their knowledge of the book and enjoy the interaction and exchange of ideas with fellow students.
 
 It is our intention not to encumber our work for the spreading of _The Urantia Book_ and its teachings with church, temple, or other spiritual institutions. Our members have come to recognise the significance of the book and the integrated beauty of its supernal teachings which encourage us to develop our own philosophy through study, experience, decisions, and actions. Nevertheless, we hold the view, and recognise that collectively there are many valuable projects and programs we can undertake together to achieve our goals.
 
@@ -311,7 +311,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2021/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-winter-2021/)
 
 <figure class="table chapter-navigator">
   <table>

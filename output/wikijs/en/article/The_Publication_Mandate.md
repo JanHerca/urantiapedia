@@ -12,7 +12,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 COMPILED BY: Certain members of the General Council of Urantia Brotherhood
 
-FOR: The files of the Executive Committee of Urantia Brotherhood
+FOR: The files of the Executive Committee of Urantia Brotherhood
 
 PRESENTED: 4 April, 1955
 
@@ -22,7 +22,7 @@ It seems appropriate, a second time, to bring to the attention of the Executive 
 
 (Generally designated as “The Publication Mandate” [^1])
 
-“We regard _The Urantia Book_ as a feature of the progressive evolution of human society. It is not germane to the spectacular episodes of epochal revolution, even though it may apparently be timed to appear in the wake of one such revolution in human society. The book belongs to the era immediately to follow the conclusion of the present ideological struggle. That will be the day when men will be willing to seek truth and righteousness. When the chaos of the present confusion has passed, it will be more readily possible to formulate the cosmos of a new and improved era of human relationships. And it is for this better order of affairs on earth that the book has been made ready.
+“We regard _The Urantia Book_ as a feature of the progressive evolution of human society. It is not germane to the spectacular episodes of epochal revolution, even though it may apparently be timed to appear in the wake of one such revolution in human society. The book belongs to the era immediately to follow the conclusion of the present ideological struggle. That will be the day when men will be willing to seek truth and righteousness. When the chaos of the present confusion has passed, it will be more readily possible to formulate the cosmos of a new and improved era of human relationships. And it is for this better order of affairs on earth that the book has been made ready.
 
 “But the publication of the book has not been postponed to that (possibly) somewhat remote date. An early publication of the book has been provided so that it may be in hand for the training of leaders and teachers. Its presence is also required to engage the attention of persons of means who may be thus led to provide funds for translations into other languages.
 

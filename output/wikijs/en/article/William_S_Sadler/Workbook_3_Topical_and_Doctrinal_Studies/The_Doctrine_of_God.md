@@ -34,8 +34,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. THE I AM
 
-1. The concept of the I AM is a philosophic concession which is made to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences, nonbeginning, nonending realities and relationships. <a id="s36_248"></a>[UB 0:3.23](/en/The_Urantia_Book/0#p3_23)
-2. The I AM achieves personality by becoming the Eternal Father of the Original Son and the Eternal Source of Paradise. <a id="s37_120"></a>[UB 0:3.22](/en/The_Urantia_Book/0#p3_22)
+1. The concept of the I AM is a philosophic concession which is made to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences, nonbeginning, nonending realities and relationships. <a id="s36_248"></a>[UB 0:3.23](/en/The_Urantia_Book/0#p3_23)
+2. The I AM achieves personality by becoming the Eternal Father of the Original Son and the Eternal Source of Paradise. <a id="s37_120"></a>[UB 0:3.22](/en/The_Urantia_Book/0#p3_22)
 3. Absolute causation resides in the Universal Father functioning as the I AM. <a id="s38_79"></a>[UB 105:1.1](/en/The_Urantia_Book/105#p1_1)
 4. The sevenfold nature of the I AM is suggested by the Seven Absolutes of Infinity:
 	1. The Universal Father.

@@ -46,7 +46,7 @@ Possibly because study groups have been an integral part of the landscape since 
 
 They go further in their desire to guide us in how we should proceed with the mission of spreading the good news by telling us:
 
-> “The future is not open to (your) mortal comprehension, but (you) will do well to diligently study the order, plan, and methods of progression as they were enacted in the earth life of Michael when the Word was made flesh. You are becoming actors in an ensuing episode when the Word is made Book. Great is the difference in these dispensations of religion, but many are the lessons which can be learned from a study of the former age.”  \[The Publication Mandate\]
+> “The future is not open to (your) mortal comprehension, but (you) will do well to diligently study the order, plan, and methods of progression as they were enacted in the earth life of Michael when the Word was made flesh. You are becoming actors in an ensuing episode when the Word is made Book. Great is the difference in these dispensations of religion, but many are the lessons which can be learned from a study of the former age.”  \[The Publication Mandate\]
 
 What did Michael/Jesus do in his day that we can learn from and apply today? He first created a group of twelve apostles (students) whom he trained as educators. In fact, Jesus simply created a study group where each student was invited to learn and integrate new ideas, new concepts and, in turn, become teachers. Let us remember that these apostles were mostly ordinary people with normal education levels, very similar to many of us.
 

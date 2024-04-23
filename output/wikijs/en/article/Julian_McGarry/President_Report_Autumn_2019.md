@@ -40,7 +40,7 @@ By Julian McGarry, Tasmania
 <img src="/image/article/The_Arena/Julian-McGarry-2016-253x300.jpg" alt="Julian McGarry" width="350">
 </figure>
 
-The recent tragic events in Christchurch underline how quickly our lives can change and how turbulent our times have become. The global phenomenon of the 24-hour news cycle and the proliferation of social media have certainly contributed to the increasing incidence of social unease and distress.  At such times, isn’t it wonderful that we, as students of _The Urantia Book_, can be comforted by these promises:
+The recent tragic events in Christchurch underline how quickly our lives can change and how turbulent our times have become. The global phenomenon of the 24-hour news cycle and the proliferation of social media have certainly contributed to the increasing incidence of social unease and distress.  At such times, isn’t it wonderful that we, as students of _The Urantia Book_, can be comforted by these promises:
 
 <br style="clear:both;"/>
 
@@ -56,7 +56,7 @@ Back in late February, I organized an interfaith festival here in Hobart which w
 > 
 > _“I have come to show you that, while you are seeking to find God, God is likewise seeking to find you.”_ <a id="a56_108"></a>[[UB 169:1.2](/en/The_Urantia_Book/169#p1_2)]
 
-I sincerely hope that we at ANZURA can be more accessible and approachable to you members  in the Australasian and Oceanic region. ANZURA is a service organization. It is made up of volunteers who are here to serve members and readers. If there is anyway that we can do this better, if there’s anything that you need more of or less of, please let us know. We are always receptive to constructive feedback. I can be contacted at my email address: [julianmcgarry@gmail.com](mailto:julianmcgarry@gmail.com).
+I sincerely hope that we at ANZURA can be more accessible and approachable to you members  in the Australasian and Oceanic region. ANZURA is a service organization. It is made up of volunteers who are here to serve members and readers. If there is anyway that we can do this better, if there’s anything that you need more of or less of, please let us know. We are always receptive to constructive feedback. I can be contacted at my email address: [julianmcgarry@gmail.com](mailto:julianmcgarry@gmail.com).
 
 A few small changes are on the horizon which will make it easier for those who are unable to attend the national conference to have live as well as post-conference access to the program; other opportunities for coming together are also in the pipeline. More about these in the next newsletter.
 
@@ -75,7 +75,7 @@ President, ANZURA
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/05/02/president-report
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/05/02/president-report)
 
 <figure class="table chapter-navigator">
   <table>

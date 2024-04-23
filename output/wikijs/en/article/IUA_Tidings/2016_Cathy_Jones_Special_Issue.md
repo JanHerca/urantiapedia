@@ -43,7 +43,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Cathy Jones graduated from this world on September 17, 2016 at the age of 91. Cathy was loved and respected by many students of _The Urantia Book_ all over the world. She played a prominent role in helping to build Urantia Association International and worked tirelessly for the revelation. She served as the Association’s first Executive Administrator and established this newsletter, _Tidings_ to keep us in touch with news and events of Urantia associations across the globe.
 
-The memorial ceremony was held October 10. On behalf of Urantia Association and in honor of Cathy’s dedication to the revelation, Rick Lyon presented Cathy’s granddaughter and grandson with the Amadon Award.
+The memorial ceremony was held October 10. On behalf of Urantia Association and in honor of Cathy’s dedication to the revelation, Rick Lyon presented Cathy’s granddaughter and grandson with the Amadon Award.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Award-Casey-and-Oliver-e1476656780826-300x225.jpg">
@@ -58,13 +58,13 @@ My grandmother and I shared a very special relationship. More than anything she 
 <img src="/image/article/IUA_Tidings/Cathy-Obit-706x383.jpg">
 </figure>
 
-The following testimonies show what an inspiration Cathy was to so many students of _The Urantia Book;_ starting with Patricia Snyder who was a close personal friend – one who championed her during the trying times of her illness in her final months and helped to raise the funds needed to bring Cathy home from China so she could pass peacefully with her family by her side.
+The following testimonies show what an inspiration Cathy was to so many students of _The Urantia Book;_ starting with Patricia Snyder who was a close personal friend – one who championed her during the trying times of her illness in her final months and helped to raise the funds needed to bring Cathy home from China so she could pass peacefully with her family by her side.
 
 
 ### Patricia Snyder
 USA
 
-My heart sings and cries to inform you that Cathy passed last weekend. Casey, her granddaughter was with her, holding her hand. Casey said, it was a beautiful transition. With a singing and crying heart, I said, how could it have been any different with our Cathy. Thank you all for your support, prayers and good vibes throughout our Cathy’s intense trials to get home. Her real journey has started. Let’s hear it for Agondonters!!
+My heart sings and cries to inform you that Cathy passed last weekend. Casey, her granddaughter was with her, holding her hand. Casey said, it was a beautiful transition. With a singing and crying heart, I said, how could it have been any different with our Cathy. Thank you all for your support, prayers and good vibes throughout our Cathy’s intense trials to get home. Her real journey has started. Let’s hear it for Agondonters!!
 
 
 ### Gaetan Charland
@@ -83,7 +83,7 @@ President of Urantia Association International
 Cathy Jones put you to work. In the Ordination of the Twelve we are told
 
 
-> The carpenter’s son never taught character _building;_ he taught character _growth…”_ <a id="a85_88"></a>[[UB 140:8.27](/en/The_Urantia_Book/140#p8_27)]
+> The carpenter’s son never taught character _building;_ he taught character _growth…”_ <a id="a85_88"></a>[[UB 140:8.27](/en/The_Urantia_Book/140#p8_27)]
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Cathy-Jones-Xmas-e1476417580707-300x400.jpg">
@@ -91,7 +91,7 @@ Cathy Jones put you to work. In the Ordination of the Twelve we are told
 
 Cathy urged you to grow, she put you in the position where you could choose positive action, and she defended you in your mistakes as grand moments for learning and personal evolution.
 
-The first time I met Cathy, she put me to work identifying regional leaders and building a local community in my home city. The second time we met she sat me down for a few hours of folding letters, addressing envelops, and taking them to the post. 18 years later, just a few months ago, I spoke with her for the last time and she laid out plans for synchronizing local and regional conferences throughout the United States. She was always leading.
+The first time I met Cathy, she put me to work identifying regional leaders and building a local community in my home city. The second time we met she sat me down for a few hours of folding letters, addressing envelops, and taking them to the post. 18 years later, just a few months ago, I spoke with her for the last time and she laid out plans for synchronizing local and regional conferences throughout the United States. She was always leading.
 
 Study _The Urantia Book_, Love One Another, Get to Work. I am one of many people throughout the world who Cathy guided into leadership. She changed my life. It was an honor to serve with Cathy Jones.
 <br style="clear:both;"/>
@@ -109,11 +109,11 @@ Cathy was one of the driving forces in the creation of Urantia Association Inter
 ### Carlos Runinsky
 Buenos Aires, Argentina
 
-I can say that Cathy Jones is my sister for ever. I have her in my soul. Since I first met her I felt we were family. Since that day, around 15 years ago, I keep a place in my heart that belongs to her. She showed me her love and her irrevocable belief in _The Urantia Book_, as well as her commitment to building an organization of readers and students of the Revelation. She came to South America not knowing the language nor the readers, but with the mission of helping to create a Urantia Association. This happened at the first Conference of readers taking place in Santiago de Chile, where I flew from Buenos Aires. And the task was accomplished; the Urantia Association of the Southern Cone was born. But although this chapter of the Association didn’t last long, it provided the foundations for the creation of different Associations in those countries whose readers tried to work together. On that day she designated the officers of the first board, and I became its Vice President. She chose me as a leader for no reason, but by doing so I felt I was obliged to act according to her expectations, and I’ve been involved with the Urantia movement since that day, mainly because of her. She has always been an inspiration for all who had the lucky chance of meeting her.
+I can say that Cathy Jones is my sister for ever. I have her in my soul. Since I first met her I felt we were family. Since that day, around 15 years ago, I keep a place in my heart that belongs to her. She showed me her love and her irrevocable belief in _The Urantia Book_, as well as her commitment to building an organization of readers and students of the Revelation. She came to South America not knowing the language nor the readers, but with the mission of helping to create a Urantia Association. This happened at the first Conference of readers taking place in Santiago de Chile, where I flew from Buenos Aires. And the task was accomplished; the Urantia Association of the Southern Cone was born. But although this chapter of the Association didn’t last long, it provided the foundations for the creation of different Associations in those countries whose readers tried to work together. On that day she designated the officers of the first board, and I became its Vice President. She chose me as a leader for no reason, but by doing so I felt I was obliged to act according to her expectations, and I’ve been involved with the Urantia movement since that day, mainly because of her. She has always been an inspiration for all who had the lucky chance of meeting her.
 
 I’ve been trying to recall some of our conversations and I remember asking and receiving her wise advice many times. The most vivid impression is the loving feeling that comes to my conscious when I think of Cathy. She is a big loving soul that shows us the way of how to be a child of God…
 
-Hope to see you again soon dear Cathy, (not too soon though :-) Enjoy your new residence. Many of us will miss your physical presence, the special sound of your voice, but you remain in our minds and in our hearts. I love you always dear Sister!! Thanks for everything!!
+Hope to see you again soon dear Cathy, (not too soon though :-) Enjoy your new residence. Many of us will miss your physical presence, the special sound of your voice, but you remain in our minds and in our hearts. I love you always dear Sister!! Thanks for everything!!
 
 
 ### Marian Hughes
@@ -133,7 +133,7 @@ In memory of Cathy I will be making donations to both Urantia Association of the
 ### David Linthicum
 Tulsa, Oklahoma, USA
 
-I first met Cathy at the chartering ceremony for Spirit of Oklahoma in 1997. Over the years she was my mentor and friend, always willing to offer sage advice, support and, above all, words of encouragement that helped me to weather storms along the way. Once, when I was feeling rather down, she told me, in that way she had, to perk up, be patient, keep a long view in mind, do the work, build the basics today and have faith that those that follow will take it from there. I have carried that message with me ever since, and it has served me well. Cathy was the embodiment of loving service and unselfish devotion to the Revelation. She is much loved and will be sorely missed.
+I first met Cathy at the chartering ceremony for Spirit of Oklahoma in 1997. Over the years she was my mentor and friend, always willing to offer sage advice, support and, above all, words of encouragement that helped me to weather storms along the way. Once, when I was feeling rather down, she told me, in that way she had, to perk up, be patient, keep a long view in mind, do the work, build the basics today and have faith that those that follow will take it from there. I have carried that message with me ever since, and it has served me well. Cathy was the embodiment of loving service and unselfish devotion to the Revelation. She is much loved and will be sorely missed.
 
 
 ### Caio Mario Caffe Nascimento
@@ -149,7 +149,7 @@ Cathy left to us a legacy of successful achievements that certainly help to fost
 ### Gary Rawlings
 Wales, UK
 
-I would like to pay my respects and tributes to Catherine Jones who has now departed from Urantia and graduated to the Mansion Worlds. She was my mentor and under her guidance I was able to serve two terms having taken over from her in the position of Membership Chair from 2005 to 2015 for and on behalf of the Association to whom she was a founding member of the organisation. With her visionary ability and exceptional personality, Catherine shone in so many ways, and I, like many others, will miss her dearly. Thank you for going all those many extra miles.
+I would like to pay my respects and tributes to Catherine Jones who has now departed from Urantia and graduated to the Mansion Worlds. She was my mentor and under her guidance I was able to serve two terms having taken over from her in the position of Membership Chair from 2005 to 2015 for and on behalf of the Association to whom she was a founding member of the organisation. With her visionary ability and exceptional personality, Catherine shone in so many ways, and I, like many others, will miss her dearly. Thank you for going all those many extra miles.
 
 With Catherine in mind, let us all try to remember that:
 

@@ -65,13 +65,13 @@ https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/
 
 Several regular study groups around Australia and New Zealand have become virtual due to the isolation rules, so now more people are joining in who previously were unable to travel to a group. For information on study groups in our region see the [Study Group Contact List](https://anzura.urantia-association.org/find-study-groups/) on ANZURA’s website.
 
-> _Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true,_ “No man lives unto himself.” <a id="a67_190"></a>[[UB 112:1.16](/en/The_Urantia_Book/112#p1_16)]
+> _Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true,_ “No man lives unto himself.” <a id="a67_190"></a>[[UB 112:1.16](/en/The_Urantia_Book/112#p1_16)]
 
-> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ <a id="a69_150"></a>[[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
+> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ <a id="a69_150"></a>[[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/05/10/virtual-study-groups-conferences
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/05/10/virtual-study-groups-conferences)
 
 <figure class="table chapter-navigator">
   <table>

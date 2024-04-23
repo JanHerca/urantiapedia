@@ -74,7 +74,7 @@ I hope you enjoy this issue of the _Arena_. Thank you all and go in peace, but a
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/presidents-report-winter-2021
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/07/29/presidents-report-winter-2021)
 
 <figure class="table chapter-navigator">
   <table>

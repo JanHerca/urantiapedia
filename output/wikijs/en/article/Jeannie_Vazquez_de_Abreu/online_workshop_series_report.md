@@ -56,10 +56,10 @@ to **_Donna Mejia_**_,_ who gave us an instructive, touching and thought-provoki
 I would also like to give a special thanks to:
 
 - _Samantha Nior_ for her a wonderful job facilitating this Workshop Series.  
-- _Susan Owen_ for her loving and constant assistance.  
-- _Flor Robles_ for her steadfast service and love.  
-- _Susan Lyon_ for her loving service and for sharing her joy of living with us.  
-- _Pato Banton_ for sharing his beautiful and enlightening experience of service and understanding about the teachings.  
+- _Susan Owen_ for her loving and constant assistance.  
+- _Flor Robles_ for her steadfast service and love.  
+- _Susan Lyon_ for her loving service and for sharing her joy of living with us.  
+- _Pato Banton_ for sharing his beautiful and enlightening experience of service and understanding about the teachings.  
 - _Antoinette Rootsdawtah_ for her loving service to our Father and the Spiritual Brotherhood.
 
 This was a real wonderful team effort and without the involvement of all these dedicated and conscientious volunteers, we would not have been able to provide such a value-packed set of workshops. God bless you all.

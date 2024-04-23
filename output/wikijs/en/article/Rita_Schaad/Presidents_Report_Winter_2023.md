@@ -82,7 +82,7 @@ Rita
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/06/25/presidents-report-4
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/06/25/presidents-report-4)
 
 <figure class="table chapter-navigator">
   <table>

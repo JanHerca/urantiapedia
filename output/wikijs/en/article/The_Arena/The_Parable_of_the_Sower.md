@@ -59,7 +59,7 @@ Jesus’s teachings about the earlier parables of the Sower explained to his apo
 3. The crowded heart
 4. The fruitful heart
 
-**The Fruitful Heart.** In this last parable of the sower Jesus spoke to his apostles privately concerning the _fruitful heart_ and his remarks were directed specifically to them. Jesus had already established that each of his apostles’ hearts were in the right place. So he knew that their hearts were receptive and that his sowing of the word of God fell on fertile soil which in turn would be nourished by the apostles enabled by his spirit.  Jesus anticipated that the seed – the Word of God – would send down roots and be nurtured by his apostles and would bear good fruit.
+**The Fruitful Heart.** In this last parable of the sower Jesus spoke to his apostles privately concerning the _fruitful heart_ and his remarks were directed specifically to them. Jesus had already established that each of his apostles’ hearts were in the right place. So he knew that their hearts were receptive and that his sowing of the word of God fell on fertile soil which in turn would be nourished by the apostles enabled by his spirit.  Jesus anticipated that the seed – the Word of God – would send down roots and be nurtured by his apostles and would bear good fruit.
 
 Jesus’s daily conferences with his father about his apostles and his teaching drew on his own life’s experiences and his astute observations of nature and the great differences in humanity as he encountered them in his daily life. Thus did Jesus use the parables of the sower to impart a comprehensive overview of what they could expect from their own teaching experience.
 
@@ -115,7 +115,7 @@ I keep thinking it is about Jesus’ mission to sow the seeds – the Gospel –
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/parable-of-sower
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/09/07/parable-of-sower)
 
 <figure class="table chapter-navigator">
   <table>

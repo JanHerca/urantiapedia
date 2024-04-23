@@ -42,7 +42,7 @@ However the actual input from our sensory organs is very far from what we imagin
 
 If we had the equipment to photograph the retinal images at the back of our eyeballs, we would get an entirely different picture. At no time would the image of the table be rectangular, it would be trapezoid. That trapezoid figure would also keep changing shape depending on the angle of perception.
 
-Remarkably, if our entrance to the dining room had been down a set of stairs we may have viewed a number of different tables, some rectangular, some square, some  round, and some of markedly different size. All of this, we could take in at a glance, and all of our impressions would be approximately correct if we later checked them through measurement. Again the photographic record of what we really “saw” in our retinal images would quite amaze us.
+Remarkably, if our entrance to the dining room had been down a set of stairs we may have viewed a number of different tables, some rectangular, some square, some  round, and some of markedly different size. All of this, we could take in at a glance, and all of our impressions would be approximately correct if we later checked them through measurement. Again the photographic record of what we really “saw” in our retinal images would quite amaze us.
 
 The scene gets much more complicated if we compared our retinal images with what we think we see when viewing a landscape having different sized objects at varying distances, perhaps with some moving relative to the others.
 

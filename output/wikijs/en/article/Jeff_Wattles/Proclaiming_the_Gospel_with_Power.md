@@ -123,7 +123,7 @@ Thank you for cooperating in the Spirit of Truth!
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/proclaiming-gospel-with-power
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/proclaiming-gospel-with-power)
 
 <figure class="table chapter-navigator">
   <table>

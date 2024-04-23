@@ -40,18 +40,18 @@ dateCreated: 2023-9-16T10:55:6Z
 
 The mission of Urantia Foundation is to seed _The Urantia Book_ and its teachings globally. The mission of Urantia Association International is to foster the in-depth study of the book and the dissemination of its teachings—teachings which have the potential to rejuvenate spirituality in this world and enhance the comfort, happiness and well-being of every person. I have the privilege of serving in both organizations, and it is no coincidence that we overlap, especially in the area of educational outreach.
 
-Urantia Foundation’s online school began in the late nineties, when the internet was still in its nascency. The vision of trustee Georges Michelson-Dupont became a reality thanks to a team of enthusiastic and dedicated readers who in turn recruited students to join as staff members and fellow facilitators.  And it still works that way. UBIS has always fostered peer-to-peer facilitation, rather than the credentialing of teachers. We offer training in the art of group dynamics and in the development of insightful questions that help students explore layers of facts, meanings, and values. Every individual has a unique experience of the revelation, and the soulful sharing of these insights and new-found truths animate our course discussion periods.   
+Urantia Foundation’s online school began in the late nineties, when the internet was still in its nascency. The vision of trustee Georges Michelson-Dupont became a reality thanks to a team of enthusiastic and dedicated readers who in turn recruited students to join as staff members and fellow facilitators.  And it still works that way. UBIS has always fostered peer-to-peer facilitation, rather than the credentialing of teachers. We offer training in the art of group dynamics and in the development of insightful questions that help students explore layers of facts, meanings, and values. Every individual has a unique experience of the revelation, and the soulful sharing of these insights and new-found truths animate our course discussion periods.   
 
 Just as the Association welcomes people regardless of beliefs or background, race or nationality, faith or religion, UBIS welcomes these same readers, whether new to the book or a reader of 40 years. What began as a program for English speakers has evolved over the past two decades into a truly international school. Courses are offered in English, French, Portuguese, and Spanish, and more languages are coming soon!
 
-Georges, also the Foundation’s Manager of Translations, maintains a close and personal relationship with his translators and revisers. He has been encouraging several of them to take courses in English, which they all speak and write fluently, and then become trained in the art of facilitating our unique “UBIS Experience.” As a result, Polish, Hungarian, German, Indonesian, and Chinese-speaking students of _The Urantia Book_ are preparing to launch courses in their native languages. 
+Georges, also the Foundation’s Manager of Translations, maintains a close and personal relationship with his translators and revisers. He has been encouraging several of them to take courses in English, which they all speak and write fluently, and then become trained in the art of facilitating our unique “UBIS Experience.” As a result, Polish, Hungarian, German, Indonesian, and Chinese-speaking students of _The Urantia Book_ are preparing to launch courses in their native languages. 
 
-It is an exciting and expansive time for UBIS. The challenges of training, collaborating, and mentoring across languages and cultures (not to mention time zones) are monumental. Anyone who has been active in the Association’s leadership knows this well. But thanks to our dedicated team of volunteers, and the bedrock of support from Urantia Foundation, the vision of world-wide education is becoming a reality.  
+It is an exciting and expansive time for UBIS. The challenges of training, collaborating, and mentoring across languages and cultures (not to mention time zones) are monumental. Anyone who has been active in the Association’s leadership knows this well. But thanks to our dedicated team of volunteers, and the bedrock of support from Urantia Foundation, the vision of world-wide education is becoming a reality.  
 
-Is your local association looking for ways to foster and promote education? If so, please consider joining hands with the UBIS team. We have many exciting options to offer you, including a future course intended for emerging leaders within the Urantia community and organizations like Urantia Association.  
+Is your local association looking for ways to foster and promote education? If so, please consider joining hands with the UBIS team. We have many exciting options to offer you, including a future course intended for emerging leaders within the Urantia community and organizations like Urantia Association.  
 <br style="clear:both;"/>
 
-If you have never taken a class with UBIS, we invite you to do so! For more information, or to open a student account, go to: [https://new.ubis.urantia.org/moodle/](https://new.ubis.urantia.org/moodle/) Registration for the upcoming trimester opens on January 3<sup>rd</sup>. 
+If you have never taken a class with UBIS, we invite you to do so! For more information, or to open a student account, go to: [https://new.ubis.urantia.org/moodle/](https://new.ubis.urantia.org/moodle/) Registration for the upcoming trimester opens on January 3<sup>rd</sup>. 
 
 Here is a small sample of our slate of 17 courses!
 
@@ -107,7 +107,7 @@ Here is a small sample of our slate of 17 courses!
 
 - **El pecado: origen, naturaleza y consecuencias with Eduardo Valle**
 
-- **Luz e Vida: O Destino do Nosso Planeta with Jorge Lauri Mörschbächer**
+- **Luz e Vida: O Destino do Nosso Planeta with Jorge Lauri Mörschbächer**
 
 - **Maquiventa Melquisedeque: O Sábio de Salém with Geraldo N. de Queiroz**
 

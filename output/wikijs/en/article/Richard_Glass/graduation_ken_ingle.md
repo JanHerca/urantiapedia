@@ -35,7 +35,7 @@ _(Editor’s note: Ken Ingle of the Lone Star Urantia Association (LSUA) in Texa
 
 ![](https://urantia-association.org/wp-content/uploads/2019/02/Ken-Ingle-1-150x150.jpg)
 
-As real lover of life, Ken’s example of defining his own life was a good goal for any personality. He became a self-created, award-winning, science-fiction novelist heralded and acclaimed by sci-fi loving groups at UTA and other locations in the state and nation. Ken hosted a study group for many years. He had a wide variety of world interests which included his family, maintaining his health and vitality, sports, science, and his passion for science-fiction writing.
+As real lover of life, Ken’s example of defining his own life was a good goal for any personality. He became a self-created, award-winning, science-fiction novelist heralded and acclaimed by sci-fi loving groups at UTA and other locations in the state and nation. Ken hosted a study group for many years. He had a wide variety of world interests which included his family, maintaining his health and vitality, sports, science, and his passion for science-fiction writing.
 
 I was very happy when Ken first contacted me in the 1980s to inquire about the book and its study in the area. I was living in Fort Worth and he in Arlington at the time. It was shortly thereafter that he decided to host a study group on Pebble Way that kept going and growing, having its ups and downs, and sometimes serving as a venue for introducing some prospective readers to the Good News—to Better News than anyone initially expects.
 

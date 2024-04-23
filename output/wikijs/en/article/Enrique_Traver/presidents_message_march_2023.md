@@ -52,7 +52,7 @@ That is, we are a group of people who are passionate about _The Urantia Book_ te
 
 _To foster the study of_ The Urantia Book _and to disseminate its teachings._
 
-As a group of people who are enthusiastic and eager to change the world through this revelation, we yearn to expand our body and add new members to the group. The world is wide, with  lots of challenges to overcome to successfully fulfill our mission. So, we need more enthusiasts, more talented friends for this mission.
+As a group of people who are enthusiastic and eager to change the world through this revelation, we yearn to expand our body and add new members to the group. The world is wide, with  lots of challenges to overcome to successfully fulfill our mission. So, we need more enthusiasts, more talented friends for this mission.
 
 However, _our goal is not to count new members or_ _new associates._ Instead, our goal is to enthrone God in the hearts of all people, to quench the spiritual hunger and thirst of all those who seek to know God.
 
@@ -68,9 +68,9 @@ So, the book is there! What about us? Are we ready? Is this anticipated era appr
 
 (You) who have dedicated (your) lives to the service of the Book and the Brotherhood can little realize the import of (your) doings. (You) will doubtless live and die without fully realizing that (you) are participating in the birth of a new age of religion on this world.
 
-We need to be ready; we need to be prepared.  _We must do what we do best—_to help others to connect to God by sharing the teachings of _The Urantia Book_.
+We need to be ready; we need to be prepared.  _We must do what we do best—_to help others to connect to God by sharing the teachings of _The Urantia Book_.
 
-To be ready, an important thing to accomplish in these turbulent times, is to achieve harmony and create a safe place for the souls who seek God.  **Harmony requires UNITY, a convergence point free of conflicts.**
+To be ready, an important thing to accomplish in these turbulent times, is to achieve harmony and create a safe place for the souls who seek God.  **Harmony requires UNITY, a convergence point free of conflicts.**
 
 Unity and harmony are two things people around the world have been unable to reach throughout the current ideological battles. In this scenario, the most effective way to reach a convergence of the ideas is through God; it is love and it is a place where we all can speak the same language and feel the same comfort. A place where we can feel as being ONE.
 

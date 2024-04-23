@@ -160,7 +160,7 @@ We continue to review the secondary work _A Children's Guide to The Urantia Book
 
 [Download the entire chapter in PDF format](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/01/016-Jesus-a-los-once-anos.pdf)
 <br style="clear:both" />
- 
+ 
 ## Other spiritual growth books
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
@@ -316,7 +316,7 @@ Zoom Room: [https://urantia-org.zoom.us/j/4457962840](https://urantia-org.zoom.u
 
 We wait for you!
 <br style="clear:both" />
- 
+ 
 ## About the Light and Life newsletter
 
 <figure id="Figure_15" class="image urantiapedia">

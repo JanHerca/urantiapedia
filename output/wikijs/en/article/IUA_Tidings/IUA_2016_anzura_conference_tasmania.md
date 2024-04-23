@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 **16-19 September, 2016**
 
 Maryknoll Retreat and Conference Centre15 Home Ave  
-Blackmans Bay, Tasmania  
+Blackmans Bay, Tasmania  
 Australia
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -50,13 +50,13 @@ Urantia is poised to experience a spiritual revolution, the likes of which has n
 
 > _Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment_. <a id="a50_168"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)]
 
-It has now been more than seventy five years since a Midwayer Commission declared that message to our troubled world! Where and how do we, as readers and students of _The Urantia Book_, fit into this planetary scenario of social, moral, and spiritual reformation? Consider the following:
+It has now been more than seventy five years since a Midwayer Commission declared that message to our troubled world! Where and how do we, as readers and students of _The Urantia Book_, fit into this planetary scenario of social, moral, and spiritual reformation? Consider the following:
 
-> _The religion of Jesus is the most powerful unifying influence the world has ever known._ <a id="a54_92"></a>[[UB 194:3.17](/en/The_Urantia_Book/194#p3_17)]
+> _The religion of Jesus is the most powerful unifying influence the world has ever known._ <a id="a54_92"></a>[[UB 194:3.17](/en/The_Urantia_Book/194#p3_17)]
 
-Could it be that this _religion of Jesus_ is the fuse that ignites and the driving force behind this global renaissance? And if so, just how does this take place….who are the key players….and just what is the divine plan for this unprecedented spiritual renewal?
+Could it be that this _religion of Jesus_ is the fuse that ignites and the driving force behind this global renaissance? And if so, just how does this take place….who are the key players….and just what is the divine plan for this unprecedented spiritual renewal?
 
-These intriguing questions and many more are to be considered and answered at ANZURA’s forthcoming national conference, to be held in Hobart, Tasmania from the 16<sup>th</sup> to the 19<sup>th</sup> September 2016. It was almost six years ago that Hobart hosted its inaugural national conference and once again you are warmly invited to gather with us at the Maryknoll Retreat Centre overlooking the picturesque Blackmans Bay, just fifteen minutes south of the city centre.
+These intriguing questions and many more are to be considered and answered at ANZURA’s forthcoming national conference, to be held in Hobart, Tasmania from the 16<sup>th</sup> to the 19<sup>th</sup> September 2016. It was almost six years ago that Hobart hosted its inaugural national conference and once again you are warmly invited to gather with us at the Maryknoll Retreat Centre overlooking the picturesque Blackmans Bay, just fifteen minutes south of the city centre.
 
 #### Our Theme
 
@@ -64,7 +64,7 @@ These intriguing questions and many more are to be considered and answered at AN
 
 > _….the teachers of this new religion are now equipped with spiritual weapons…_<a id="a64_80"></a>[[UB 194:3.11](/en/The_Urantia_Book/194#p3_11)]
 
-> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men._ <a id="a66_421"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> _Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men._ <a id="a66_421"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 Who are these “new teachers of Jesus’ religion”, who courageously proclaim his life-giving message to the world? What qualifies them to be such? What are these “spiritual weapons” that they are equipped with? How do they perform this critical role on behalf of their fellow mortals? These are pertinent questions to consider as we respond to the call to be teachers of the religion of Jesus. Are we willing to step up to the task? If not us….then who?
 
@@ -85,10 +85,10 @@ The Centre provides a self-serve breakfast as well as lunch and dinner every day
 
 Full conference (Shared bathroom): $390, (Hermitage): $420. These costs cover 3 night’s accommodation plus all meals from Friday dinner to Monday lunch. Alcoholic beverages will be available for an extra cost.
 
-_Daily Rate:_ $80 – includes both lunch and dinner plus tea and coffee throughout the day  
-_Daily Rate:_ $40 – includes only lunch plus tea and coffee throughout the day
+_Daily Rate:_ $80 – includes both lunch and dinner plus tea and coffee throughout the day  
+_Daily Rate:_ $40 – includes only lunch plus tea and coffee throughout the day
 
-Contact [anzura@urantia-anzura.org](mailto:anzura@urantia-anzura.org)
+Contact [anzura@urantia-anzura.org](mailto:anzura@urantia-anzura.org)
 
 ## References
 

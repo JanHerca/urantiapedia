@@ -213,7 +213,7 @@ So, let’s change gears a bit.
 > 
 > _A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom. The living Jesus is the only hope of a possible unification of Christianity. The true church—the Jesus brotherhood—is invisible, spiritual, and is characterized by unity._ <a id="a213_299"></a>[[UB 195:10.12](/en/The_Urantia_Book/195#p10_12)]
 
-We can see in _The Urantia Book_ that many splits and divisions have occurred in the past within the community of believers in Jesus.  Abner split from the Apostles.  Nathaniel split from the Apostles when they changed the gospel. There was the great Schism of 1054, that brought about the final separation between the Eastern Christian churches and the Western church led by Pope Leo IX that did not end (kind of) until 1965.
+We can see in _The Urantia Book_ that many splits and divisions have occurred in the past within the community of believers in Jesus.  Abner split from the Apostles.  Nathaniel split from the Apostles when they changed the gospel. There was the great Schism of 1054, that brought about the final separation between the Eastern Christian churches and the Western church led by Pope Leo IX that did not end (kind of) until 1965.
 
 Every major religious group has undergone one or multiple splits or schisms. They are usually based on succession disputes, political power, or doctrinal disagreements. In addition, there are usually three divisions within such groups that represent different types of belief—conservative, moderate, and liberal views.
 
@@ -223,11 +223,11 @@ How can we prepare for or prevent future disagreements within the worldwide and 
 
 We are currently experiencing a major family crisis right now within our Urantia family. Many people blame this crisis on someone who no doubt did what they thought was right in the best way they knew how, but one person cannot create a crisis.
 
-The reactions of each party contributed to the crisis. Some of the issues resolved themselves or became less important over time but a few remain to be solved.  However, many people are working to resolve this crisis and the issues that once seemed insurmountable are now viewed as potential areas of negotiation. Unity is no longer seen as impossible to achieve but as a matter of “when and how can we achieve it” What will this unified movement look like in the future?
+The reactions of each party contributed to the crisis. Some of the issues resolved themselves or became less important over time but a few remain to be solved.  However, many people are working to resolve this crisis and the issues that once seemed insurmountable are now viewed as potential areas of negotiation. Unity is no longer seen as impossible to achieve but as a matter of “when and how can we achieve it” What will this unified movement look like in the future?
 
-This crisis began roughly in 1989. Only a handful of people alive today really know what triggered the crisis.  Our young students and leaders don’t really care what happened back then. For them it is all about today and tomorrow.
+This crisis began roughly in 1989. Only a handful of people alive today really know what triggered the crisis.  Our young students and leaders don’t really care what happened back then. For them it is all about today and tomorrow.
 
-I recently met with a team of people for what we called the Unity Initiative. One person who was directly involved in the Urantia schism told me that, “Looking back, I can’t believe some of the things I said and some of the things I did.”  Another one said, “We could have and probably should have done things differently.”
+I recently met with a team of people for what we called the Unity Initiative. One person who was directly involved in the Urantia schism told me that, “Looking back, I can’t believe some of the things I said and some of the things I did.”  Another one said, “We could have and probably should have done things differently.”
 
 It is obvious that many people on all sides could have done things differently and all of us, me included, have said things we wish we had not said.
 

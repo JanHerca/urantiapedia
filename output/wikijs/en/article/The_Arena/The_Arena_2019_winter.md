@@ -149,7 +149,7 @@ Some years ago, the original Auckland Study group learnt the Morontia Motas by h
 
 and particularly:
 
-> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ <a id="a151_137"></a>[[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
+> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ <a id="a151_137"></a>[[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
 
 Sadly, before the attack, the general view was that all Muslims were terrorists, and this community suffered by being shunned, discriminated against, and generally being totally misunderstood, and just as there are many aspects of Islam which need updating the same can be said for Christianity.
 
@@ -234,7 +234,7 @@ Publications Service Group
 
 **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share by publishing them on websites and newsletters.
 
-Each issue of the _Arena_ usually has one “gem” published but for this issue we have two: the first, by  the late Ken Glasziou was”mined” from the Fellowship’s Journal 1994,  and the second, by William Wentworth, is from the _Arena_ Newsletter, Autumn 2004 and was the preamble on the Canberra Conference theme—”Echoes of Eden.” Enjoy!
+Each issue of the _Arena_ usually has one “gem” published but for this issue we have two: the first, by  the late Ken Glasziou was”mined” from the Fellowship’s Journal 1994,  and the second, by William Wentworth, is from the _Arena_ Newsletter, Autumn 2004 and was the preamble on the Canberra Conference theme—”Echoes of Eden.” Enjoy!
 <br style="clear:both;"/>
 
 ## A New Approach to Revelation
@@ -249,7 +249,7 @@ Ken Glasziou, Sunshine Coast QLD
 
 _(“Mined” from the Urantia Book Fellowship’s Journal 1994)_
 
-After many years of introducing both Christian laity and ministers to _The Urantia Book,_ I am increasingly faced with the realization that one of the major obstacles preventing them from a serious examination of the book is its claim to revelatory status. Most people who grew up in the nurture of the Christian faith have consciously or unconsciously developed a fundamentalist attitude toward the Bible: “This is the word of God and should not be questioned or doubted.” This impression is reinforced in the book’s concluding verses which threaten anyone adding or taking away from the book with plagues and other terrible consequences. (It is not widely known that this kind of threat was once very common, a forerunner of what we now know as copyright.)
+After many years of introducing both Christian laity and ministers to _The Urantia Book,_ I am increasingly faced with the realization that one of the major obstacles preventing them from a serious examination of the book is its claim to revelatory status. Most people who grew up in the nurture of the Christian faith have consciously or unconsciously developed a fundamentalist attitude toward the Bible: “This is the word of God and should not be questioned or doubted.” This impression is reinforced in the book’s concluding verses which threaten anyone adding or taking away from the book with plagues and other terrible consequences. (It is not widely known that this kind of threat was once very common, a forerunner of what we now know as copyright.)
 
 Because of this cultural conditioning, many church members assume that all authentic revelation ceased with the Book of Revelation. We should not be surprised, therefore, if such people automatically recoil from any suggestion of new revelation.
 
@@ -291,13 +291,13 @@ Publications Service Group
 
 _(**Editor’s Note**: There are many interesting people who are popping up on the Internet and are lecturing via YouTube videos and Podcasts. The Arena editors have decided to create a section in this newsletter to share some of the “Pearls of Wisdom” circulating around the world that may be of interest. One such individual who has grabbed the attention of many Urantia Book readers is Jordan Peterson. But first… **Who Is Jordan Peterson?…**)_
 
-Dr. Jordan B. Peterson is a professor of psychology at the University of Toronto, a clinical psychologist and the author of the multi-million copy bestseller [12 Rules for Life: An Antidote to Chaos](https://www.jordanbpeterson.com/12-rules-for-life/).
+Dr. Jordan B. Peterson is a professor of psychology at the University of Toronto, a clinical psychologist and the author of the multi-million copy bestseller [12 Rules for Life: An Antidote to Chaos](https://www.jordanbpeterson.com/12-rules-for-life/).
 
-With his students and colleagues, Dr. Peterson has published more than a hundred scientific papers, advancing the modern understanding of creativity, competence and personality, while his now-classic book, [Maps of Meaning: The Architecture of Belief](https://amzn.to/2yvJf9L) (released in June 2018 as a now bestselling author-read audiobook) transformed the psychology of religion. He was nominated for five consecutive years as one of Ontario’s Best University Lecturers, and is one of only three profs rated as “life changing” in the U of T’s underground student handbook of course ratings.
+With his students and colleagues, Dr. Peterson has published more than a hundred scientific papers, advancing the modern understanding of creativity, competence and personality, while his now-classic book, [Maps of Meaning: The Architecture of Belief](https://amzn.to/2yvJf9L) (released in June 2018 as a now bestselling author-read audiobook) transformed the psychology of religion. He was nominated for five consecutive years as one of Ontario’s Best University Lecturers, and is one of only three profs rated as “life changing” in the U of T’s underground student handbook of course ratings.
 
-In 2016, shortly before the publication of 12 Rules, several of Dr. Peterson’s online lectures, videos and interviews went viral, launching him into unprecedented international prominence as a public intellectual and educator. His work, public postings and discussions are featured at:
+In 2016, shortly before the publication of 12 Rules, several of Dr. Peterson’s online lectures, videos and interviews went viral, launching him into unprecedented international prominence as a public intellectual and educator. His work, public postings and discussions are featured at:
 
-[Jordan Peterson Videos, on YouTube](https://www.youtube.com/user/JordanPetersonVideos/playlists), features Dr. Peterson’s university and public lectures (including a highly-viewed 15-part biblical series on Genesis, slated to continue with the Exodus stories in 2019), responses to the polarizing political crises of today, has 1.8 million subscribers, with 90 million views; videos derived from his online content by others have been viewed more than half a billion times. 
+[Jordan Peterson Videos, on YouTube](https://www.youtube.com/user/JordanPetersonVideos/playlists), features Dr. Peterson’s university and public lectures (including a highly-viewed 15-part biblical series on Genesis, slated to continue with the Exodus stories in 2019), responses to the polarizing political crises of today, has 1.8 million subscribers, with 90 million views; videos derived from his online content by others have been viewed more than half a billion times. 
 
 Read on for an article by Jordan Peterson on “[Existentialism in Australia and New Zealand](/en/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand)”
 
@@ -407,7 +407,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2019/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-winter-2019/)
 
 <figure class="table chapter-navigator">
   <table>

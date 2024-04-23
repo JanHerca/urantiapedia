@@ -40,11 +40,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 We are pleased to announce that the next International Conference for Urantia Association International will be held in the Sacred Valley of the Incas, Urubamba, Cusco, Peru **April 22—25, 2021** and will be hosted by the Urantia Association of Peru.
 
-The theme will be _Towards Cosmic Citizenship_ and the program will incorporate a combination of plenary sessions that will be held at the conference center, and workshops that will be held at the nearby famous archaeological sites. (The most beautiful and famous sites of the Incas are found in the Sacred Valley. A bus service will be provided to transport us to these sites and the costs will be included in the conference package price.)
+The theme will be _Towards Cosmic Citizenship_ and the program will incorporate a combination of plenary sessions that will be held at the conference center, and workshops that will be held at the nearby famous archaeological sites. (The most beautiful and famous sites of the Incas are found in the Sacred Valley. A bus service will be provided to transport us to these sites and the costs will be included in the conference package price.)
 
 For those interested in pre- and/or post-conference activities, the trains that go to Machu Picchu (one of the new Seven Wonders of the World) depart from the Sacred Valley and are close to the venue.
 
-If you always wanted to go to Peru, then 2021 is the year to do it! This is a conference that should not be missed.
+If you always wanted to go to Peru, then 2021 is the year to do it! This is a conference that should not be missed.
 
 [Click here](https://www.youtube.com/watch?v=FCs6JRW3R1g&list=PLQYC6XW8Ev1cPJ3zR3UYAdLK1xW1SNuDj) for video tour
 <br style="clear:both;"/>

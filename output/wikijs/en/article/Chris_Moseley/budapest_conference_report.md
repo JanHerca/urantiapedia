@@ -60,7 +60,7 @@ Being multinational, it was also a multilingual conference, and that was where y
 
 And what of the program? It was thrilling and varied, and the standard was high. Let me treat you to some of the things you missed, if you weren’t there, so you can appreciate the international nature of the gathering. The conference was divided into plenary sessions and (a choice of) workshops. On the first full day, Christian Ruch presented a thoughtful paper entitled “Two in One, One in Two–How Can Man be God?” Ade Awoyinka, the other participant from the UK apart from myself, gave the thematic plenary “Who is Jesus?” Karmo Kalda from Estonia drew on his own professional experience to present “Jesus – The First Marketing Manager.” Alan Theiss from the United States spoke on “Partnership with the Father.” Risto Mäntynen and Eija Seppänen-Bolotinski from Finland gave a visually-based presentation of “The Many Faces of Jesus in Art.” Tamila Ragimova gave her paper in Spanish: “The Life of Jesus as an Example for Humanity.”
 
-The workshops were just as varied as the plenaries, and drew on the particular expertise and interests of their leaders. Ade Awoyinka led a group on “The Life and Times of Jesus.” Jeffrey Wattles, known to many of us already from his on-line classes in the teachings of the book, encouraged us to think about “Effectively Revealing the Master to all Men.” Gaétan Charland presented on “Urantia Book Study Groups–a Learning Adventure.”
+The workshops were just as varied as the plenaries, and drew on the particular expertise and interests of their leaders. Ade Awoyinka led a group on “The Life and Times of Jesus.” Jeffrey Wattles, known to many of us already from his on-line classes in the teachings of the book, encouraged us to think about “Effectively Revealing the Master to all Men.” Gaétan Charland presented on “Urantia Book Study Groups–a Learning Adventure.”
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Budapest-Conference-Image-300x366.jpg">
@@ -76,7 +76,7 @@ The last half-day concluded the conference with two excellent plenaries: Peep S�
 
 There was a final summing-up session before we all reluctantly parted, which then merged into a meeting of European readers, to discuss the plans for the next meeting. We all hope and pray that for the coming together of European Urantia Book readers, this is just the beginning.
 
-(To view video recordings of the plenary presentations go to: [http://urantia-association.org/2016/10/19/videos-budapest-conf-2016/](http://urantia-association.org/2016/10/19/videos-budapest-conf-2016/))
+(To view video recordings of the plenary presentations go to: [http://urantia-association.org/2016/10/19/videos-budapest-conf-2016/](http://urantia-association.org/2016/10/19/videos-budapest-conf-2016/))
 
 Warm regards,  
 Chris Moseley (UK)

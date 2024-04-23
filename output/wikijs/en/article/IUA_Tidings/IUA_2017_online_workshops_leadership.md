@@ -60,7 +60,7 @@ Gatean is the Urantia Association’s Study Group Chair, and during over three s
 
 In his second session, he spoke about:
 
-“…the qualities and lessons that are given by Jesus to become effective teachers.  We will share with each other how and why these qualities and lessons inspire us.”
+“…the qualities and lessons that are given by Jesus to become effective teachers.  We will share with each other how and why these qualities and lessons inspire us.”
 
 In the third session, Gaetan invited the participants to explore the questions:
 
@@ -84,7 +84,7 @@ During this session, the participants introduced themselves and shared their exp
 
 Rick serves as the UAUS Vice President and Education Committee Chair. Rick presented a session about _“Social Organization,”_ during which we learned some valuable concepts, like:
 
-“…an organization of people working together at the same time in the same direction for the same purpose is much more effective than that same number of people working for the same purpose individually and separately.  There is a different form of math that applies to groups and social organizations such as: one plus one equals three, two plus two equals eight etc.
+“…an organization of people working together at the same time in the same direction for the same purpose is much more effective than that same number of people working for the same purpose individually and separately.  There is a different form of math that applies to groups and social organizations such as: one plus one equals three, two plus two equals eight etc.
 
 “We all know this but we often try to go it alone because it is easier to do something ourselves than to try to get others to help us. Some people don’t want to help. Some say they will but don’t. Some think your idea is good but that their idea is better. So leading is often frustrating but from what _The Urantia Book_ says I suspect we need the practice.
 
@@ -96,7 +96,7 @@ Rick serves as the UAUS Vice President and Education Committee Chair. Rick prese
 
 Jeff presented two workshop sessions. On November 11<sup>th</sup> he led a session about “_Leadership and Teamwork_,” and on November 18<sup>th</sup> another one on “_Teaching_.” One of his most inspirational remarks was:
 
-“Whether our gift for leadership is large or small, developing that gift is a part of becoming like God. God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality _and in_ _his universal sphere of righteous supremacy._ <a id="a98_355"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)] To become like God _in our sphere_, means (in addition to acquiring self-mastery and the beautiful wholeness of righteousness) becoming a good leader, even in such a temporary, mundane activity such as showing another person how to do something simple, or organizing a few people to prepare a meal. We all have opportunities for leadership, whether we think of it in that way or not; and we do well to study the ways of divine leadership, and its profound connections with service and teamwork.”
+“Whether our gift for leadership is large or small, developing that gift is a part of becoming like God. God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection of personality _and in_ _his universal sphere of righteous supremacy._ <a id="a98_355"></a>[[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)] To become like God _in our sphere_, means (in addition to acquiring self-mastery and the beautiful wholeness of righteousness) becoming a good leader, even in such a temporary, mundane activity such as showing another person how to do something simple, or organizing a few people to prepare a meal. We all have opportunities for leadership, whether we think of it in that way or not; and we do well to study the ways of divine leadership, and its profound connections with service and teamwork.”
 
 If you want to read more about this beautiful lesson, please go to: [https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork](https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork)
 

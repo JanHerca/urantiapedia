@@ -48,7 +48,7 @@ It is imperative that we continue to have a steady stream of people dedicated to
 
 A second issue which was a highlight of the meeting is the ongoing need to ensure that _The Urantia Book_ and its teachings are well represented on their own merit and not blended with outside political, social or intellectual influences. Our community needs to “Hold the Center” and not let the Urantia teachings become overly influenced by any one cultural influence. _The Urantia Book_ tells us that the Christian religion…
 
-> _…has become so thoroughly Occidentalized that many non-European peoples very naturally look upon Christianity as a strange revelation of a strange God and for strangers._ <a id="a50_174"></a>[[UB 92:6.18](/en/The_Urantia_Book/92#p6_18)]
+> _…has become so thoroughly Occidentalized that many non-European peoples very naturally look upon Christianity as a strange revelation of a strange God and for strangers._ <a id="a50_174"></a>[[UB 92:6.18](/en/The_Urantia_Book/92#p6_18)]
 
 We must ensure that the Urantia teachings do not fall to a similar fate.
 

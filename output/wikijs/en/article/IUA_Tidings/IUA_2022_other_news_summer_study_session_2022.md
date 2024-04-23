@@ -55,7 +55,7 @@ Together we will:
 
 - Examine the circumstances that led to his bestowal
 - Study his teachings and how they set the stage for Michael’s bestowal
-- Explore the lessons to be learned from the Melchizedek mission for modern-day truth revealers
+- Explore the lessons to be learned from the Melchizedek mission for modern-day truth revealers
 - And much more…
 
 ## Call For Presenters and Volunteers

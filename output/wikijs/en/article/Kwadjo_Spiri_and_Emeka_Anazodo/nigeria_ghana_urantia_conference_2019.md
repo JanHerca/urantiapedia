@@ -62,7 +62,7 @@ Collins Lomo from Ghana gave an interesting presentation on “My Brother’s Ke
 
 I gave a presentation on “Spiritual Communion” where emphasis was placed on the importance of being adamant in our faith in the reality of the indwelling Adjuster, or Father, at all times in life. The Thought Adjuster is a solution-package to all our challenges in this first earthly life. Faith in the reality of this indwelling super-power through intelligent prayer can release the power to overcome any of life’s tasks and challenges. Attention was drawn to faith in the Thought Adjuster as being the only requirement to gain favor with God and that, through this same faith, we can increasingly share in the nature of God and ultimately fuse (become one) with him.
 
-Jesse gave a speech on the importance of reading _The Urantia Book_, the fifth epochal revelation and a young lady, Maya of Nigeria, refreshed the short space afterwards with a memory verse from the book.
+Jesse gave a speech on the importance of reading _The Urantia Book_, the fifth epochal revelation and a young lady, Maya of Nigeria, refreshed the short space afterwards with a memory verse from the book.
 
 Emeka concluded the day’s presentations with a talk on effective praying, drawing our attention to the prerequisites of effective prayer as outlined in _The Urantia Book_. He expounded on each point and shared great insights into the subject in order to whet our appetite for daily effective prayer.
 

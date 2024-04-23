@@ -44,7 +44,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 **Come on and join us in Mexico!**  
 
-[Register](https://register.urantiaevents.com/1.php?event=10&lang=en) now for the next Latin American Urantia Continental Conference! This will be the 3<sup>rd</sup> Latin American Conference and it is being organized by Asociación Urantia de Mexico (AUM).
+[Register](https://register.urantiaevents.com/1.php?event=10&lang=en) now for the next Latin American Urantia Continental Conference! This will be the 3<sup>rd</sup> Latin American Conference and it is being organized by Asociación Urantia de Mexico (AUM).
 
 We are inviting Urantia Book students from all over Latin America. The program will focus on the major themes of revelation, to inspire us to grow in our knowledge and understanding of the teachings. More information on the program of activities and presentations on the overall theme “The Fifth Revelation in the 21<sup>st</sup> Century” will be available soon.
 

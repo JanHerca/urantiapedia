@@ -73,7 +73,7 @@ To date, students of the Progressive Divine Wisdom method are divided into diffe
 
 - French and Canadian students, including truth seekers from Belgium, Reunion, Comoro and some from African countries. This group met every Friday in 2022 from January to the end of October.
 - French-speaking African students from Africa and the Diaspora. It is composed of a dozen members who have met every Saturday afternoon since mid-September 2021.
-- Haitian Students from the island of Haiti and the United States. It is composed of a dozen members who meet on Sunday every three weeks.
+- Haitian Students from the island of Haiti and the United States. It is composed of a dozen members who meet on Sunday every three weeks.
 
 In addition to these group fellowship meetings, Progressive Divine Wisdom students receive training sessions from qualified educators. This is done in zoom sessions, adapted to specific situations. This training is given to a total number of over fifty people of sixteen nationalities, in sixteen countries on three continents.
 <br style="clear:both;"/>

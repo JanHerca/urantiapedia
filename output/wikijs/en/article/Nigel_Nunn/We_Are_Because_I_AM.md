@@ -46,7 +46,7 @@ There’s an old insight about village life: “I am because we are.” I, as an
 
 But _The Urantia Book_ shows humans from another perspective. From our Father’s point of view,
 
-Because I AM  –  Because I Love  –  We Are.
+Because I AM  –  Because I Love  –  We Are.
 
 In other words, “We are because I AM.”
 
@@ -54,7 +54,7 @@ Of course, this is not at all straightforward, and requires something called “
 
 Notice, all this is very deeply personal. “**I AM**” is not only our “premier philosophic postulate” <a id="a54_101"></a>[[UB 105:1.3](/en/The_Urantia_Book/105#p1_3)], it’s also the most personal possible experience: I AM. We Are. From this perspective, the universe becomes _a Family Affair_. We’ll get back to this. But for now, I just want to set up this idea, that Love is the motivator, the mediator, quite literally the _Light & Life_ of all interactions unfolding in the Father’s personal domain.
 
-Ok. With this idea in place, let’s get back down to earth and see what we can learn about Love.  What is it, and how does it work?
+Ok. With this idea in place, let’s get back down to earth and see what we can learn about Love.  What is it, and how does it work?
 
 Back in 1965, a young Mick Jagger expressed, quite eloquently, the central problem of human life:
 
@@ -73,7 +73,7 @@ And that feeling stayed with me, becoming a kind of benchmark against which to m
 
 For example: I was about 17, and one day (suddenly, much to my surprise), I noticed that the usual satisfactions – from sex and drugs, from money, food or fame – all seemed, well, trivial when compared with that “remembered satisfaction” that came from simply doing something good for someone else, from allowing our _inherent_ “desire to do good to others” to take its course.
 
-But “the desire to do good to others” is one way _The Urantia Book_ defines Love. From Paper 56 section 10, _Love is the desire to do good to others._  <a id="a75_152"></a>[[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
+But “the desire to do good to others” is one way _The Urantia Book_ defines Love. From Paper 56 section 10, _Love is the desire to do good to others._  <a id="a75_152"></a>[[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
 
 So what’s this got to do with that eloquent cry from a young Mick Jagger? Turns out that Michael of Nebadon knew that many of us would bump into this same problem, of seeking and failing to find the sort of satisfaction that could quench an intolerable thirst. So he lived that life as Jesus, in which he revealed, and demonstrated, a short-cut to satisfactions of the deepest kind.
 
@@ -129,7 +129,7 @@ _Nigel Nunn, October 2021_
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/we-are-because-i-am
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/we-are-because-i-am)
 
 <figure class="table chapter-navigator">
   <table>

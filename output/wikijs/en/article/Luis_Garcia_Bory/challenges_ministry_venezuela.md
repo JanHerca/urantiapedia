@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Marcelino-Ramirez-Venezuela-300x289.jpg">
 </figure>
 
-It is forty years since Marcelino Ramirez opened his mind and spirit to God in the aftermath of a personal crisis that lasted more than 15 years. After a prolonged period of self-edification, he discovered _The Urantia Book_ in 1991. By 1996, he found that the teachings of the book were such an extraordinary inspiration he decided to travel to many states in his beloved Venezuela to sow the seeds of what he calls “our wonderful Revelation.”
+It is forty years since Marcelino Ramirez opened his mind and spirit to God in the aftermath of a personal crisis that lasted more than 15 years. After a prolonged period of self-edification, he discovered _The Urantia Book_ in 1991. By 1996, he found that the teachings of the book were such an extraordinary inspiration he decided to travel to many states in his beloved Venezuela to sow the seeds of what he calls “our wonderful Revelation.”
 
 His service extended for another five years, until early 2001, when he decided to devote himself full-time to the dissemination of the revelation in his country, relying only on his modest state pension for money and what he calls “the miracle of the limited economic support of a few people with a huge heart.”
 

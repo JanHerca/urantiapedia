@@ -33,7 +33,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 By Neil Francey, Queensland
 
-_(Editor’s Note: This article has been “mined” from the Archives and is being re-published here. It is a presentation that was given by Neil Francey at the 2002 Queensland conference.)_
+_(Editor’s Note: This article has been “mined” from the Archives and is being re-published here. It is a presentation that was given by Neil Francey at the 2002 Queensland conference.)_
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Neil-Francey-18-243x300.jpg" alt="Neil Francey">
@@ -69,21 +69,21 @@ There is an action that operates above and beyond these essential commitments. B
 
 ## Problem Solving is also Doing
 
-> _Religious habits of **thinking and acting** are contributory to the economy of spiritual  growth…Habits which favor religious growth embrace … **worshipful** **problem solving**…_ <a id="a71_183"></a>[[UB 100:1.8](/en/The_Urantia_Book/100#p1_8) emphasis mine]
+> _Religious habits of **thinking and acting** are contributory to the economy of spiritual  growth…Habits which favor religious growth embrace … **worshipful** **problem solving**…_ <a id="a71_183"></a>[[UB 100:1.8](/en/The_Urantia_Book/100#p1_8) emphasis mine]
 
 ## Being Spirit Led is Doing
 
-> _“…some persons are naturally more happy than others. Much, very much, depends upon the     willingness of man **to be led and directed by the Father’s spirit** which lives within him.” _ <a id="a75_190"></a>[[UB 149:5.2](/en/The_Urantia_Book/149#p5_2) emphasis mine]    
+> _“…some persons are naturally more happy than others. Much, very much, depends upon the     willingness of man **to be led and directed by the Father’s spirit** which lives within him.” _ <a id="a75_190"></a>[[UB 149:5.2](/en/The_Urantia_Book/149#p5_2) emphasis mine]    
 
 > _**Such spirit-born individuals are so re-motivated** in life that they can calmly stand by while their fondest ambitions perish and their keenest hopes crash;_ <a id="a77_163"></a>[[UB 100:2.8](/en/The_Urantia_Book/100#p2_8) emphasis mine]
 
-> If you would be **led by this spirit** from above, very soon would you begin to see with the eyes of the spirit, and then by the **wholehearted choice of spirit guidance would you be born of  the spirit** since your only purpose in living would be **to do** the will of your Father who is in heaven. <a id="a79_302"></a>[[UB 142:6.6](/en/The_Urantia_Book/142#p6_6) emphasis mine]
+> If you would be **led by this spirit** from above, very soon would you begin to see with the eyes of the spirit, and then by the **wholehearted choice of spirit guidance would you be born of  the spirit** since your only purpose in living would be **to do** the will of your Father who is in heaven. <a id="a79_302"></a>[[UB 142:6.6](/en/The_Urantia_Book/142#p6_6) emphasis mine]
 
 ## Living Faith is Doing
 
 > _When, **by living faith, you become divinely God conscious**, you are then born of the spirit…and attain the **experience** of finding God the Father on Paradise._ <a id="a83_167"></a>[[UB 193:0.3](/en/The_Urantia_Book/193#p0_3) emphasis mine]
 
-> _Although **religious experience** is a purely spiritual subjective phenomenon, such an  experience embraces a positive and **living faith attitude** toward the highest realms of universe objective reality._ <a id="a85_210"></a>[[UB 103:9.5](/en/The_Urantia_Book/103#p9_5) emphasis mine]
+> _Although **religious experience** is a purely spiritual subjective phenomenon, such an  experience embraces a positive and **living faith attitude** toward the highest realms of universe objective reality._ <a id="a85_210"></a>[[UB 103:9.5](/en/The_Urantia_Book/103#p9_5) emphasis mine]
 
 So there can be a process. If we implement this process what are we actually doing? The answer can be described as _taking faith steps_. Thinking, discovering values, making decisions and choices, solving problems, being spirit led—all actions in _doing_. This is the way we can _implement_ the Father’s will. It is not so much asking ‘what is your will’ as allowing God to bestow his will.
 
@@ -151,7 +151,7 @@ JUST TRY IT. People may think you’re crazy, but love you for it anyway.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/07/26/doing-according-to-urantia-papers
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/07/26/doing-according-to-urantia-papers)
 
 <figure class="table chapter-navigator">
   <table>

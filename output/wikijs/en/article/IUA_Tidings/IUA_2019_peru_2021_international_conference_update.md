@@ -78,7 +78,7 @@ This next international conference will bring some interesting innovations. The 
 <img src="/image/article/IUA_Tidings/OLLANTAYTAMBO-3-300x225.jpg">
 </figure>
 
-Peru, besides being a country of ancient history, is permeated with traces of an extraordinary culture, the origins of which are described in the pages of _The Urantia Book_. It is precisely in this context—in the Sacred Valley of the Incas, Urubamba, Cusco—where this unique conference will be held.
+Peru, besides being a country of ancient history, is permeated with traces of an extraordinary culture, the origins of which are described in the pages of _The Urantia Book_. It is precisely in this context—in the Sacred Valley of the Incas, Urubamba, Cusco—where this unique conference will be held.
 
 The main plenary sessions will be held in the conference room of the five-star _Hotel Tambo del Inca_ and the afternoon workshops will take place in two archaeological sites, one being Ollantaytambo and the other yet to be determined.
 
@@ -115,7 +115,7 @@ Registration is now open! Sign up now for this memorable event in Peru and recei
 
 **_Note:_** Paying by credit card instead of PayPal during checkout saves the organizers extra fees!
 
-For more registration and lodging information: [Click Here](https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/)
+For more registration and lodging information: [Click Here](https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/)
 
 ## Additional Costs
 
@@ -137,7 +137,7 @@ The price of the tourist ticket ranges between approximately USD$10 and USD$40. 
 The foreseen accommodation facilities range from five-star hotels-haciendas to smaller (but no less warm and beautiful) hotels—according to individual budgets. All accommodation facilities are close to one another. The accommodation prices include breakfast and will depend on the hotel each person chooses to stay in. Following is a list of the different hotels, with their different price ranges and links, in case you wish to make a booking for the mentioned dates (check-in: April 22<sup>nd</sup> / check-out: April 25<sup>th</sup> of 2021)
 
 [Hotel Tambo del Inca](https://www.marriott.com/hotels/event-planning/business-meeting/cuztl-tambo-)  
-Bookings: [corporativo@libertador.com.pe](mailto:corporativo@libertador.com.pe)
+Bookings: [corporativo@libertador.com.pe](mailto:corporativo@libertador.com.pe)
 
 [Hotel Sonesta Yucay](https://www.sonestapiyucay.com/?partner=4153&utm_source=google&utm_medium=)  
 Bookings: [reservas.sonestayucay1@ghlhoteles.com](http://reservas.sonestayucay1@ghlhoteles.com/)
@@ -163,7 +163,7 @@ Once you complete your registration, we will inform the hotel about your pre-boo
 
 To keep track of further details of the conference see: [https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/](https://urantia-association.org/2020/peru-2021-urantia-international-conference-and-registration/)
 
-If you would like to receive information and updates on registration and other issues regarding the conference, please go to the Contact form on the Association’s website at [https://urantia-association.org/about-uai/contact-us](https://urantia-association.org/about-uai/contact-us/). Then please fill out the form providing your contact information, and in the Message text box below the form state your request to receive updates regarding the 2021 International Conference in Peru. Then hit the blue “Submit” button. (Your message will automatically be sent to the appropriate people who will add you to a list to receive all future updates and conference information.) 
+If you would like to receive information and updates on registration and other issues regarding the conference, please go to the Contact form on the Association’s website at [https://urantia-association.org/about-uai/contact-us](https://urantia-association.org/about-uai/contact-us/). Then please fill out the form providing your contact information, and in the Message text box below the form state your request to receive updates regarding the 2021 International Conference in Peru. Then hit the blue “Submit” button. (Your message will automatically be sent to the appropriate people who will add you to a list to receive all future updates and conference information.) 
 
 ## Donations
 

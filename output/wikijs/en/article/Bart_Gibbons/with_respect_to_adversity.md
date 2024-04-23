@@ -196,7 +196,7 @@ Happily, the equalizer to this immense challenge is given in The Morontia Life b
 
 Just earlier, it reads
 
-> _One of the functions of humor is to help all of us take ourselves less seriously. Humor is the divine antidote for exaltation of ego._ <a id="a198_138"></a>[[UB 48:4.15](/en/The_Urantia_Book/48#p4_15)]
+> _One of the functions of humor is to help all of us take ourselves less seriously. Humor is the divine antidote for exaltation of ego._ <a id="a198_138"></a>[[UB 48:4.15](/en/The_Urantia_Book/48#p4_15)]
 
 Indited by an American agondonter for the benefit of all fellow Urantians. 
 

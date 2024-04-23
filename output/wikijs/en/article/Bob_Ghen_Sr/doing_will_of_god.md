@@ -49,7 +49,7 @@ When I began _The Urantia Book_ journey so many years ago, that was my initial r
 
 Ah yes, those early years . . . (sigh)
 
-As a _Urantia Book_ novice I _believed_ in God (in his existence), yet I was still seeking to intellectually discern his will for me in terms of each individual decision, but without actually _knowing_ him. What did he want me to do about this, or about that? What should I do next? Should I take this job? Should I rent this house? Should I end my troubled marriage? Should I . . . should I . . . the list never ended. However absurdly impossible, my fanciful spiritual wish was to wake each morning with an explicit to-do list directly from God at my bedside. How else would I ever know for certain what his will was on every occasion? Truth be told, it was frustrating and stressful. Yet for a time, I continued to falsely believe that doing the will of God was somehow about figuring it out at each and every turn, every fork in the road. After all, aren’t we also taught that we advance spiritually, decision by decision? But uh-oh, what if I make the wrong one? Sheesh!
+As a _Urantia Book_ novice I _believed_ in God (in his existence), yet I was still seeking to intellectually discern his will for me in terms of each individual decision, but without actually _knowing_ him. What did he want me to do about this, or about that? What should I do next? Should I take this job? Should I rent this house? Should I end my troubled marriage? Should I . . . should I . . . the list never ended. However absurdly impossible, my fanciful spiritual wish was to wake each morning with an explicit to-do list directly from God at my bedside. How else would I ever know for certain what his will was on every occasion? Truth be told, it was frustrating and stressful. Yet for a time, I continued to falsely believe that doing the will of God was somehow about figuring it out at each and every turn, every fork in the road. After all, aren’t we also taught that we advance spiritually, decision by decision? But uh-oh, what if I make the wrong one? Sheesh!
 
 Gradually of course, I did come to recognize that doing God’s will did not mean foisting a quandary of psycho-spiritual struggle on myself over every choice that life presented. With that simple, authoritative declaration in _The Urantia Book_, I progressively realized that doing God’s will was not at all what I thought. Increasingly, I found my personal experience aligning with this profoundly elegant quote. I was realizing that “doing God’s will” is more of a place to _come from,_ than it is a place to _get to_.
 
@@ -61,13 +61,13 @@ To be clear, none of this should be taken as an “official” representation of
 
 What, then, does this actually _mean_? Let’s dissect it a bit:
 
-**_The doing of the will of God_…** This clearly states that what we are talking about is performing action with respect to the will of God; that’s what “doing” means. The will of God is something we do.
+**_The doing of the will of God_…** This clearly states that what we are talking about is performing action with respect to the will of God; that’s what “doing” means. The will of God is something we do.
 
-**_…is nothing more or less…_** This phrase is specifically definitive, narrowly and purposely defining the scope of its intent. It unambiguously means: It is this, and only this, and nothing but this.
+**_…is nothing more or less…_** This phrase is specifically definitive, narrowly and purposely defining the scope of its intent. It unambiguously means: It is this, and only this, and nothing but this.
 
 **_…than an exhibition of creature willingness…_** An exhibition is not simply a wish or a desire on the part of the creature. It is a showing, a demonstration of willingness by way of action. Again, it means _doing_ something.
 
-**_…to share the inner life with God._** This refers to the highly intimate, subjective, and progressive spiritual experience of one’s intentionally active _personal relationship_ with the indwelling spiritual presence of God.
+**_…to share the inner life with God._** This refers to the highly intimate, subjective, and progressive spiritual experience of one’s intentionally active _personal relationship_ with the indwelling spiritual presence of God.
 
 The Solitary Messenger presenting this sublime truth makes it crystal clear that, sharing the inner life with God involves explicit action on the part of the individual. He thereby also implies that a purely passive attitude is flatly ineffective.
 
@@ -99,7 +99,7 @@ With few exceptions, all life pulsates between these periods of rest (energy int
 
 But spiritual renewal is neither automatic, nor biological. Restoring spiritual energy must be _chosen_. It must be a deliberate, personal choice, a free will _decision—_each and every time! And those frequent decisions, made sincerely and persistently as the months and years unfold become a spiritual _habit_. And it is this purposive habit that establishes the living spiritual pulse that freely replenishes our depleted spiritual energies as we come and go about our busy days in the outer social arena.
 
-Consciously attending to this habit of input and output, to our personal spiritual pulse, nourishes and sustains a life of increasing spiritual intimacy. Such a persistent practice is the very essence of an active and progressive _exhibition of creature willingness to share the inner life with God._
+Consciously attending to this habit of input and output, to our personal spiritual pulse, nourishes and sustains a life of increasing spiritual intimacy. Such a persistent practice is the very essence of an active and progressive _exhibition of creature willingness to share the inner life with God._
 
 Sincere daily practice yields lifelong results—eternal results!
 <br style="clear:both;"/>
@@ -134,7 +134,7 @@ _The Urantia Book_ teaches that sincere worship is entirely distinct from all fo
 
 When we recognize and submit to this craving of the soul, when we mentally _choose_ to allow it, only then does the soul initiate the worship experience. And now, with the divine inner Adjuster thus engaged, it is he who actually conducts the worship on our behalf, directly relaying our personal devotion to the Universal Father at the center of all things. _The Urantia Book_ teaches that this is the natural, subjective, experiential sequence that leads the personally praying mind up through intelligent prayer into the sincere worship experience.
 
-> _Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father._ <a id="a136_355"></a>[[UB 111:5.5](/en/The_Urantia_Book/111#p5_5)]
+> _Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will; and such choosing raises the creature will from the level of temporal significance to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father._ <a id="a136_355"></a>[[UB 111:5.5](/en/The_Urantia_Book/111#p5_5)]
 
 ## I Experience It This Way
 

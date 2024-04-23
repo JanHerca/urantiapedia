@@ -54,7 +54,7 @@ We have no doubt that their efforts have been noted and recorded by our unseen f
 
 We also wish to thank Andres Ramirez for his service as the Association’s Vice President and congratulate him for his new opportunity to serve replace Gaetan as the new Study Groups Chair.
 
-We are grateful to Kathleen Swadling and very appreciative of her willingness to continue to serve as Communications Chair for the extremely important Association website, _Journal_, _Tidings_ and other communications.  Image is everything and ours starts here. Kathleen actively served this revelation long before many of us even found the book!
+We are grateful to Kathleen Swadling and very appreciative of her willingness to continue to serve as Communications Chair for the extremely important Association website, _Journal_, _Tidings_ and other communications.  Image is everything and ours starts here. Kathleen actively served this revelation long before many of us even found the book!
 
 With sincerity and on behalf of all UAUS,  
 Rick Lyon  

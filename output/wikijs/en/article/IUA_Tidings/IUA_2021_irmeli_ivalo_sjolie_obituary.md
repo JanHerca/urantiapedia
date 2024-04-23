@@ -44,7 +44,7 @@ Irmeli was a diplomat’s daughter and traveled the world with her parents. She 
 Irmeli was the head of the control laboratory at Astra do Brasil, the head of the department for clinical trials at Radium Hospital in Oslo, Norway, a teacher of homeopathy at the institute of natural medicine in Helsinki, Finland, and a board member of Victor Frankl Institute of Logotheraphy in Texas, USA.
 <br style="clear:both;"/>
 
-> “She was the epitome of European elegance, education, style and individuality which is becoming increasingly rare these days. And wit!”  – Dr. Alexander Batthyany
+> “She was the epitome of European elegance, education, style and individuality which is becoming increasingly rare these days. And wit!”  – Dr. Alexander Batthyany
 
 Farewell Irmeli. You’ve had wonderful innings in your selfless and generous service to humanity and to the Urantia revelation. We wish you well in your ongoing adventure.
 

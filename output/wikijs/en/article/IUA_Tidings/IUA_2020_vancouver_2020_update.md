@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ## Lifting Together – United in Purpose – Serving God the Supreme
 
-University of the Fraser Valley, BC  Canada
+University of the Fraser Valley, BC  Canada
 **July 28 to August 1, 2020**
 
 [Registration is now open – Urantia Global Experience](https://urantiaglobalexperience.com/)
@@ -49,7 +49,7 @@ The Urantia Association of Canada and The Urantia Book Fellowship have teamed up
 
 The Urantia Global Experience is a gathering of minds dedicated to serving God the Supreme through the exploration of solutions for the progressive evolution of civilization. We believe the overall success of this experimental endeavor rests on our spirit unity – our common motive to express the will of God in our daily lives as well as in our social institutions.
 
-All participants are expected to actively engage in discussion groups focused on a variety of topics drawn from _The Urantia Book_  (71:4 Progressive Civilization). From these discussions, we hope to derive common ideas, solutions, and purpose.
+All participants are expected to actively engage in discussion groups focused on a variety of topics drawn from _The Urantia Book_  (71:4 Progressive Civilization). From these discussions, we hope to derive common ideas, solutions, and purpose.
 
 One prime objective is to work in liaison with the angelic ministry, particularly the master seraphim of planetary supervision (114:6). Participants who are focused on, or presently engaged in, any aspect of civilization or angelic ministry are encouraged to share their experiences and knowledge in mutually interactive discussions. Let us know how your work aligns with the ideas and ideals promoted in _The Urantia Book._
 

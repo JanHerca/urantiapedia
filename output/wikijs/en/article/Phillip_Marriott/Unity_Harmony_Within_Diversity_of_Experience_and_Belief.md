@@ -112,7 +112,7 @@ The book best sums it up with these final papers:
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/06/25/unity-harmony-within-diversity-of-experience-and-belief
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/06/25/unity-harmony-within-diversity-of-experience-and-belief)
 
 <figure class="table chapter-navigator">
   <table>

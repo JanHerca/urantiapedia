@@ -42,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-Hello friends!  Two years have passed and it’s now time for our Biannual Vancouver Island Urantia Friends Campout! We have been holding this event since 2007 and, over the years, have had the pleasure of meeting Urantia Book readers from around the world. It’s normally a small group affair of about 15-25 people but we can always accommodate more.
+Hello friends!  Two years have passed and it’s now time for our Biannual Vancouver Island Urantia Friends Campout! We have been holding this event since 2007 and, over the years, have had the pleasure of meeting Urantia Book readers from around the world. It’s normally a small group affair of about 15-25 people but we can always accommodate more.
 
 This year, we will be meeting at [Miracle Beach Provincial Campground](http://www.env.gov.bc.ca/bcparks/explore/parkpgs/miracle_bch/) from Monday, August 26 to Friday, August 30 (four nights). This is a beautiful space and the ocean is spectacular! The campground is midway between Courtenay and Campbell River (an hour or so north of Nanaimo) on the east coast of Vancouver Island, British Columbia.
 
@@ -60,7 +60,7 @@ Looking forward to seeing you there!
 
 **Registration**
 
-Registration fee is $65.00 Canadian which is $50.00 US. The price includes camping fees for the week. For registration and further info please contact Debbie at [nebadon373@hotmail.com](mailto:nebadon373@hotmail.com)
+Registration fee is $65.00 Canadian which is $50.00 US. The price includes camping fees for the week. For registration and further info please contact Debbie at [nebadon373@hotmail.com](mailto:nebadon373@hotmail.com)
 
 Love,  
 Debbie Bartman

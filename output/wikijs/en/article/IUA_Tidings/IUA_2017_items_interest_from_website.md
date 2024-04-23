@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Have you seen Urantia Association International’s Study Aids & Resources section of the website?
 
-Many students of _The Urantia Book_ produce study aids and derivative works—creative tools that can help others understand the complexity of _The Urantia Book_. \*
+Many students of _The Urantia Book_ produce study aids and derivative works—creative tools that can help others understand the complexity of _The Urantia Book_. \*
 
 The Association has developed a resource library where many of these works are available. The full index of subjects can be viewed at the [Topical Index of Articles](https://urantia-association.org/topical-index-of-articles/) section of the website. Here are a few specific links that may be of interest:
 

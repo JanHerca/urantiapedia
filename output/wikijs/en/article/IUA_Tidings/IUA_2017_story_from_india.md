@@ -47,7 +47,7 @@ Indeed, as they went up the hill, the old cracked pot took notice of the sun war
 <img src="/image/article/IUA_Tidings/Water-Bearer-India-Story2-300x188.jpg">
 </figure>
 
-The bearer said to the pot, “Did you notice that there were flowers only on your side of your path, but not on the other pot’s side? That’s because I have always known about your flaw, and I took advantage of it. I planted flower seeds on your side of the path, and every day while we walk back from the stream, you’ve watered them.  For two years I have been able to pick these beautiful flowers to decorate my master’s table. Without you being just the way you are, he would not have this beauty to grace his house.”
+The bearer said to the pot, “Did you notice that there were flowers only on your side of your path, but not on the other pot’s side? That’s because I have always known about your flaw, and I took advantage of it. I planted flower seeds on your side of the path, and every day while we walk back from the stream, you’ve watered them.  For two years I have been able to pick these beautiful flowers to decorate my master’s table. Without you being just the way you are, he would not have this beauty to grace his house.”
 
 Each of us has our own unique flaws. We are all cracked pots. But if we will allow it, the Lord will use our flaws to grace his Father’s table. In God’s great economy, nothing goes to waste.
 

@@ -25,7 +25,7 @@ dateCreated: 2023-9-16T10:55:6Z
         </td>
         <td>
         <a href="/en/article/William_Wentworth/meaning_of_worship">
-          <span class="pr-2">The Meaning of Worship and Service </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">The Meaning of Worship and Service </span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -175,7 +175,7 @@ And avoid mental poisons. In today’s world of rampant social media, it’s eas
 
 Jesus said the greatest commandment of all is to
 
-> _“…love the Lord your God with all your heart and with all your soul, with all your mind and with all your strength.”_ <a id="a177_121"></a>[[UB 174:4.2](/en/The_Urantia_Book/174#p4_2)]
+> _“…love the Lord your God with all your heart and with all your soul, with all your mind and with all your strength.”_ <a id="a177_121"></a>[[UB 174:4.2](/en/The_Urantia_Book/174#p4_2)]
 
 The love of God leads to intelligent and wholehearted worship. God’s love for us never diminishes; it is an infinite love much greater than we can possibly imagine. We are limited in our ability to worship only by our individual capacity to love God in return. Once again, we can improve our capacity to love our Maker simply by learning more about his divine nature.
 
@@ -234,7 +234,7 @@ However, God’s ability to help us is greatly retarded by our own preconceived 
         </td>
         <td>
         <a href="/en/article/William_Wentworth/meaning_of_worship">
-          <span class="pr-2">The Meaning of Worship and Service </span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">The Meaning of Worship and Service </span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

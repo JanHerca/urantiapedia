@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-> What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith and of practices of living as will enable it to “follow after” the Master in the demonstration of his real life of religious devotion to the doing of his Father's will and of consecration to the unselfish service of man. (<a id="a36_551"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith and of practices of living as will enable it to “follow after” the Master in the demonstration of his real life of religious devotion to the doing of his Father's will and of consecration to the unselfish service of man. (<a id="a36_551"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 > If Christianity could only grasp more of Jesus' teachings, it could do so much more in helping modern man to solve his new and increasingly complex problems. (<a id="a38_161"></a>[UB 195:10.19](/en/The_Urantia_Book/195#p10_19))
 

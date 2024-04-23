@@ -43,55 +43,55 @@ Also appearing below is an interview with Travis Binion on the same subject. Mr.
 
 ### Interview with Harry McMullan, III
 
-_MM:_  Some people have said that you published _Jesus—A New Revelation,_ which is basically Part IV of _The Urantia Book,_ because you are trying to draw a lawsuit from Urantia Foundation. Is that true? 
+_MM:_  Some people have said that you published _Jesus—A New Revelation,_ which is basically Part IV of _The Urantia Book,_ because you are trying to draw a lawsuit from Urantia Foundation. Is that true? 
 
-_McMullan:_  No. If my purpose had been to get Urantia Foundation into court, all I would have had to do is go down to the courthouse and file a lawsuit. Michael Foundation, of which I am president, published _Jesus—A New Revelation_ to help that 95% or so of the people who would never come near the entire _Urantia Book_ to find out about the true life and teachings of Jesus, which the book says is the most important human knowledge.
+_McMullan:_  No. If my purpose had been to get Urantia Foundation into court, all I would have had to do is go down to the courthouse and file a lawsuit. Michael Foundation, of which I am president, published _Jesus—A New Revelation_ to help that 95% or so of the people who would never come near the entire _Urantia Book_ to find out about the true life and teachings of Jesus, which the book says is the most important human knowledge.
 
-_MM:_  Aren't you a little worried that you are basically targeting the Christian community to the exclusion of everyone else?
+_MM:_  Aren't you a little worried that you are basically targeting the Christian community to the exclusion of everyone else?
 
-_McMullan:_  _Jesus—A New Revelation_ is for whoever wants it, not just Christians. Just yesterday, for example, I heard a story of a Muslim taking a copy of it home to read. However, even if the book were targeted just at Christians, its existence in no way precludes other treatments designed to be of particular appeal to non-Christian groups.
+_McMullan:_  _Jesus—A New Revelation_ is for whoever wants it, not just Christians. Just yesterday, for example, I heard a story of a Muslim taking a copy of it home to read. However, even if the book were targeted just at Christians, its existence in no way precludes other treatments designed to be of particular appeal to non-Christian groups.
 
-_MM:_  What about the legality of this matter? Aren't you concerned that you may be breaking the law?
+_MM:_  What about the legality of this matter? Aren't you concerned that you may be breaking the law?
 
-_McMullan:_  The publication of _JANR_ will be found to be perfectly legal if it is ever tested in court. The opinion under which Urantia Foundation's copyright was reinstated held that revelation itself is not subject to copyright, but that the forum's involvement in asking questions of the revelators supplied sufficient human authorship to permit _The Urantia Book_ to be copyrighted. The theory underlying that decision would allow anyone who had batted around a few ideas with an author to make a claim to copyright on his work—a totally unworkable situation which would overturn the entire concept of authorship in copyright. It will be overturned if it is seriously challenged. Moreover, even if the decision did stand, it does not apply to Part IV, since the evidence is that Part IV was delivered as a complete unit without any of the forum involvement necessary to qualify for a copyright.
+_McMullan:_  The publication of _JANR_ will be found to be perfectly legal if it is ever tested in court. The opinion under which Urantia Foundation's copyright was reinstated held that revelation itself is not subject to copyright, but that the forum's involvement in asking questions of the revelators supplied sufficient human authorship to permit _The Urantia Book_ to be copyrighted. The theory underlying that decision would allow anyone who had batted around a few ideas with an author to make a claim to copyright on his work—a totally unworkable situation which would overturn the entire concept of authorship in copyright. It will be overturned if it is seriously challenged. Moreover, even if the decision did stand, it does not apply to Part IV, since the evidence is that Part IV was delivered as a complete unit without any of the forum involvement necessary to qualify for a copyright.
 
 _MM:_ I am sure you have heard the argument that, because you sit on the Fellowship's Executive Committee, your publication of Part IV is ipso facto a Fellowship project. How do you respond to that?
 
 _McMullan:_ The Fellowship had no input of any kind in this project. Those who serve on Fellowship boards do not thereby lose their separate identity and prerogatives of independent action.
 
-_MM:_  How do you plan to distribute this book?
+_MM:_  How do you plan to distribute this book?
 
-_McMullan:_  So far, distribution has been highly effective through Urantia Book readers who believe in the project and wish it to succeed. Thousands have already been sold. In the near future normal commercial distribution will be arranged. This is a bit more complex than it normally would be due to Urantia Foundation having warned book distributors not to carry the book.
+_McMullan:_  So far, distribution has been highly effective through Urantia Book readers who believe in the project and wish it to succeed. Thousands have already been sold. In the near future normal commercial distribution will be arranged. This is a bit more complex than it normally would be due to Urantia Foundation having warned book distributors not to carry the book.
 
-_MM:_  Why that particular cover depicting a crucifixion?
+_MM:_  Why that particular cover depicting a crucifixion?
 
-_McMullan:_  If one accepts that it's appropriate for a book about Jesus to have Jesus on the cover, the question becomes, which one? Most all pictures of Jesus are just terrible. I like the Dali painting because it shows a muscular Jesus, not the sickly man normally portrayed. I like the fact that his face does not show, making his the face of “everyman.” I like the fact that he is not actually attached to the cross—it's as if he is looking with mercy and compassion over the people below. I like the perspective. However, the cover is not the main thing, but what's inside. If a better cover idea comes up, I'm not at all opposed to using it for the next printing.
+_McMullan:_  If one accepts that it's appropriate for a book about Jesus to have Jesus on the cover, the question becomes, which one? Most all pictures of Jesus are just terrible. I like the Dali painting because it shows a muscular Jesus, not the sickly man normally portrayed. I like the fact that his face does not show, making his the face of “everyman.” I like the fact that he is not actually attached to the cross—it's as if he is looking with mercy and compassion over the people below. I like the perspective. However, the cover is not the main thing, but what's inside. If a better cover idea comes up, I'm not at all opposed to using it for the next printing.
 
-_MM:_  Now, we've been talking about your publication of Part IV, but that's not totally accurate. You left out paper 120.  Why?
+_MM:_  Now, we've been talking about your publication of Part IV, but that's not totally accurate. You left out paper 120.  Why?
 
-_McMullan:_  I felt that without the background provided in the rest of the book, it would be confusing to non-readers to start out with Immanuel's bestowal commission. The rest of Part IV stands very well on its own. In fact, there are only about 20 words in _Jesus—A New Revelation_ which require an understanding of the first three parts in order to be intelligible. The index accompanying the book deals with those by a brief explanation and a reference to the Paper in the whole _Urantia Book_ in which the word or concept is described.
+_McMullan:_  I felt that without the background provided in the rest of the book, it would be confusing to non-readers to start out with Immanuel's bestowal commission. The rest of Part IV stands very well on its own. In fact, there are only about 20 words in _Jesus—A New Revelation_ which require an understanding of the first three parts in order to be intelligible. The index accompanying the book deals with those by a brief explanation and a reference to the Paper in the whole _Urantia Book_ in which the word or concept is described.
 
 ### Interview with Travis Binion
 
-_MM:_  As you know, Harry McMullan published Part IV of _The Urantia Book,_ or, more accurately, Urantia Papers 121-196, in a volume entitled _Jesus—A New Revelation._ Do you think this is a positive step in the furtherance of the revelation on the planet?
+_MM:_  As you know, Harry McMullan published Part IV of _The Urantia Book,_ or, more accurately, Urantia Papers 121-196, in a volume entitled _Jesus—A New Revelation._ Do you think this is a positive step in the furtherance of the revelation on the planet?
 
-_Binion:_  The future is only rational in hindsight. If one looks back, one can sometimes see why a consequence occurred. If one looks forward, one just doesn't know. Thus, I tend to take a conservative approach because of my long experience with unforeseen consequences when dealing with human interactions. I had told Harry quite some time ago that I would support a fictional biography of Jesus based upon Part IV. In my mind that had little risk of adverse consequences and the potential to make _The New York Times_ best seller list. Harry replied that he wasn't skilled enough to do that and was unwilling to support a good writer to do the job.
+_Binion:_  The future is only rational in hindsight. If one looks back, one can sometimes see why a consequence occurred. If one looks forward, one just doesn't know. Thus, I tend to take a conservative approach because of my long experience with unforeseen consequences when dealing with human interactions. I had told Harry quite some time ago that I would support a fictional biography of Jesus based upon Part IV. In my mind that had little risk of adverse consequences and the potential to make _The New York Times_ best seller list. Harry replied that he wasn't skilled enough to do that and was unwilling to support a good writer to do the job.
 
-_MM:_  The Urantia Foundation has termed this publication “illegal.” Do you believe it is illegal?
+_MM:_  The Urantia Foundation has termed this publication “illegal.” Do you believe it is illegal?
 
-_Binion:_  Yes, I believe it is an illegal act.
+_Binion:_  Yes, I believe it is an illegal act.
 
-_MM:_  We have heard it said that the fact that Harry McMullan is an officer of the Fellowship makes this publication a Fellowship project. Do you think that is so?
+_MM:_  We have heard it said that the fact that Harry McMullan is an officer of the Fellowship makes this publication a Fellowship project. Do you think that is so?
 
-_Binion:_  I accept Janet Farrington Graham's assertion that it is not a Fellowship project.
+_Binion:_  I accept Janet Farrington Graham's assertion that it is not a Fellowship project.
 
-_MM:_  What effect, if any, do you think this publication will have on the “unity” efforts in the “movement”?
+_MM:_  What effect, if any, do you think this publication will have on the “unity” efforts in the “movement”?
 
-_Binion:_  I believe Harry's publication has already had an adverse effect on the unity effort. I observe many readers with strong differing opinions who cannot separate Harry's role with the Fellowship from this issue. In their minds the Fellowship is tainted because of his relationship and the Fellowship's silence, and that affects the unity effort.
+_Binion:_  I believe Harry's publication has already had an adverse effect on the unity effort. I observe many readers with strong differing opinions who cannot separate Harry's role with the Fellowship from this issue. In their minds the Fellowship is tainted because of his relationship and the Fellowship's silence, and that affects the unity effort.
 
-_MM:_  Yes, we've seen a number of comments to that effect. What do you think the Fellowship needs to do about this?
+_MM:_  Yes, we've seen a number of comments to that effect. What do you think the Fellowship needs to do about this?
 
-_Binion:_  Issue a statement, take a stand. That stand could be as innocuous as passing the resolution that Paul Snider introduced during the recent Society Conclave in Vancouver acknowledging the fact of the Foundation's ownership of the copyright and marks. The problem many IUA members have with the Fellowship is that the Fellowship's silence on the controversial issues that effect the entire community is taken as endorsing the sentiments of many Fellowship members who are adverse to the Foundation. What the Fellowship doesn't seem to understand is that the IUA members are supportive of, not controlled by, the Foundation.
+_Binion:_  Issue a statement, take a stand. That stand could be as innocuous as passing the resolution that Paul Snider introduced during the recent Society Conclave in Vancouver acknowledging the fact of the Foundation's ownership of the copyright and marks. The problem many IUA members have with the Fellowship is that the Fellowship's silence on the controversial issues that effect the entire community is taken as endorsing the sentiments of many Fellowship members who are adverse to the Foundation. What the Fellowship doesn't seem to understand is that the IUA members are supportive of, not controlled by, the Foundation.
 
 ## President's Report on the General Council Meeting
 
@@ -105,11 +105,11 @@ The first resolution states: “The General Council of The Fellowship supports t
 
 The MI consists of twenty individuals associated with the IUA, the Fellowship and other organizations, who agreed to meet and discuss potential ways in which our two organizations could better work together. The committee proposed a formal working alliance, and although we understand that the council's decision does not activate this alliance, we look forward to hearing from the IUA regarding their interest in pursuing the MI recommendation. We envision cooperative outreach projects, shared educational resources and study group information, and other progressive initiatives that serve the community of readers.
 
-The second resolution states: Whereas questions have arisen within the readership concerning the attitude of the Fellowship towards the recent private publication of  “The Life and Teachings of Jesus” as a separate book, the General Council hereby reaffirms the Fellowship's constitutional purpose, e.g., the study and dissemination of the teachings of _The Urantia Book._
+The second resolution states: Whereas questions have arisen within the readership concerning the attitude of the Fellowship towards the recent private publication of  “The Life and Teachings of Jesus” as a separate book, the General Council hereby reaffirms the Fellowship's constitutional purpose, e.g., the study and dissemination of the teachings of _The Urantia Book._
 
 The council also directed me to briefly review our recent history regarding the separate publication of Part IV. Our hope is that the membership of the Fellowship will better understand our consistent behavior regarding this issue.
 
-At the August 9, 1996 General Council meeting—during the time _The Urantia Book_ was in the public domain and after we had completed our publication of the Uversa Press edition—a proposal for the publication of Part IV as a separate volume was debated.  During that 1996 meeting, a proposal was made by a councilor concerning publishing Part IV of _The Urantia Book_ as a separate volume. Money for the project would have been privately provided and would not come out of the Fellowship's budget. Another councilor indicated strong interested in the project.
+At the August 9, 1996 General Council meeting—during the time _The Urantia Book_ was in the public domain and after we had completed our publication of the Uversa Press edition—a proposal for the publication of Part IV as a separate volume was debated.  During that 1996 meeting, a proposal was made by a councilor concerning publishing Part IV of _The Urantia Book_ as a separate volume. Money for the project would have been privately provided and would not come out of the Fellowship's budget. Another councilor indicated strong interested in the project.
 
 The council was then reminded that when _The Urantia Book_ first went into the public domain, the council voted unanimously to protect and preserve the text inviolate; this project of publishing Part IV as a separate volume was deemed to be in conflict with that resolution. After discussion, the two councilors withdrew their request, stating that they needed time to rethink the project and to reflect on the various opinions expressed to them.
 
@@ -137,7 +137,7 @@ At the end of the conference, on a sprawling lawn, the participants were treated
 
 By _Lee Smith_
 
-At the IC 99 conference, the Urantia Book Fellowship embarked on a new program for disseminating the teachings of the Fifth Epochal Revelation. It is called the Special Interest Group Network  (S.I.G.N.). The purpose of this effort is to bring together or “network” individuals who share common interests, avocations or professions, and whose lives are dominated by the teachings of the Fifth Epochal Revelation. The thrust of this effort is to provide a platform wherein individuals, who have been imbued with the revelation, can relate to other like minded persons the experiential meanings and values that they have gained while embracing of the faith of Jesus and the teachings of _The Urantia Book._
+At the IC 99 conference, the Urantia Book Fellowship embarked on a new program for disseminating the teachings of the Fifth Epochal Revelation. It is called the Special Interest Group Network  (S.I.G.N.). The purpose of this effort is to bring together or “network” individuals who share common interests, avocations or professions, and whose lives are dominated by the teachings of the Fifth Epochal Revelation. The thrust of this effort is to provide a platform wherein individuals, who have been imbued with the revelation, can relate to other like minded persons the experiential meanings and values that they have gained while embracing of the faith of Jesus and the teachings of _The Urantia Book._
 
 Initially, this network is being seeded by _Urantia Book_ readers, but eventually it is to be open to any and all spiritually led individuals who are drawn to the particular special interest group that is hosted by the core group of readers. Thus, the focus of S.I.G.N. is on building relationships through this network. This may be some- what of a departure from the idea of concentration on _The Urantia Book_ itself, but many of us have come to the realization that not everyone will be attracted to reading the book, per se. It is far easier to hand someone the book and say, “read this, it will change your life,” than it is to enter into a heart-to-heart conversation with that person regarding his or her interests, intentions, and needs, and then bring forth some aspect of fact, meaning or value from our experiential understanding of the revelation that will be an opening to the realization of truth, beauty and goodness that goes to the heart of spiritual insight.
 
@@ -145,7 +145,7 @@ This program is in its infancy, but interest groups are already forming in the a
 
 In reality this list could go on and on, because if you have an interest that sparks your imagination, your thirst for truth, and brings forth your desire to illustrate the fruits of the Spirit, then you have a way to start or join a Special Interest Group Network through the Urantia Book Fellowship.
 
-The quickest and most feasible way to participate in S.I.G.N. is through the Internet. To join in, simply log onto the Fellowship's web site at: www.urantia-book.org and register on line. You can also call the Fellowship toll free at 877-335-5669 (or fax request to 773-327-6159) and ask for the S.I.G.N. registration form. When you return your form, you will be contacted by the hosting person and then begin to dialogue about your interest. As interest accrues, your group may be offered List Serve functions as well as a web page through the Fellowship's Internet resources.  As each group grows and ideally wants to foster communication with the greater public, then web-based discussion bulletin boards can be established.
+The quickest and most feasible way to participate in S.I.G.N. is through the Internet. To join in, simply log onto the Fellowship's web site at: www.urantia-book.org and register on line. You can also call the Fellowship toll free at 877-335-5669 (or fax request to 773-327-6159) and ask for the S.I.G.N. registration form. When you return your form, you will be contacted by the hosting person and then begin to dialogue about your interest. As interest accrues, your group may be offered List Serve functions as well as a web page through the Fellowship's Internet resources.  As each group grows and ideally wants to foster communication with the greater public, then web-based discussion bulletin boards can be established.
 
 ## Happenings here and there
 

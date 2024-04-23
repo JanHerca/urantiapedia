@@ -42,7 +42,7 @@ At the age of 49, I started to increase my efforts as a spiritual truth-seeker. 
 
 During my time of searching spirituality, I went to different study groups, teachers, gurus, and I checked them all. I did different types of spiritual and esoteric practices of meditation, affirmation, and prayers.
 
-I also organized a spiritual forum in my home that attracted between 10 to 25 people. We explored all types of spiritual disciplines, from near-death experiences, Ascended Masters, spiritual healing, meditations, prayers, etc. One of the speakers we invited was James Woodward, who had worked in Reader Services at Urantia Foundation. He came to our meetings and gave us an introductory presentation on _The Urantia Book_. 
+I also organized a spiritual forum in my home that attracted between 10 to 25 people. We explored all types of spiritual disciplines, from near-death experiences, Ascended Masters, spiritual healing, meditations, prayers, etc. One of the speakers we invited was James Woodward, who had worked in Reader Services at Urantia Foundation. He came to our meetings and gave us an introductory presentation on _The Urantia Book_. 
 
 It was around seven years ago that I finally asked my spiritual group who might be interested in studying _The Urantia Book_. Not everyone joined the new group but a few did. We hosted the study group for close to a year when we finally decided to be part of the more organized study groups, as none of us really had a comprehensive grasp of the teachings. We decided it would be more efficient and beneficial for us if we attended the two main study groups in the Chicago area.
 

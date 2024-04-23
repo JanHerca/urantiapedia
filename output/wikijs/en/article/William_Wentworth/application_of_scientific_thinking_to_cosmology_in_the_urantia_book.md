@@ -42,7 +42,7 @@ Ken Glasziou was a scientist and student of _The Urantia Book_ who took pains to
 
 Science develops so rapidly that I don’t really know whether his comments are still relevant, but it led me to think about the application of scientific thinking to cosmology as _The Urantia Book_ explains it.
 
-Scientists have been trying to develop a theory which accounts for everything in the cosmos, both large scale and small, from the largest clusters of galaxies to the smallest particles within atoms. Some of the most accomplished physicists and mathematicians have given themselves to this effort, so far without success, since they restrict themselves to consideration of only a part of the whole of which the cosmos consists.
+Scientists have been trying to develop a theory which accounts for everything in the cosmos, both large scale and small, from the largest clusters of galaxies to the smallest particles within atoms. Some of the most accomplished physicists and mathematicians have given themselves to this effort, so far without success, since they restrict themselves to consideration of only a part of the whole of which the cosmos consists.
 
 While they have developed some of the most amazing methods to measure both sub-atomic particles on the one hand, and enormous aggregations of matter on the other, they have not been able to blend them into a unified theory which accounts for all the measurements. There always seems to be something which doesn’t fit.
 
@@ -87,7 +87,7 @@ There are aspects of Deity which are not personal. These other realities are the
 
 > _The Universal Father, the Eternal Son, and the Infinite Spirit are unique persons; none is a duplicate; each is original; all are united_. <a id="a87_142"></a>[[UB 10:2.6](/en/The_Urantia_Book/10#p2_6)]
 
-God is the personality of Deity, but there is still much of Deity which is not personal. There are such things as the presence circuits of the Eternal Son and the Infinite Spirit, spirit and mind gravity, the circuits of the Reflective Spirits, the cosmic mind of the Master Spirits, and no doubt much more. These phenomena are Deity, but not personal, and thus not God the Father.
+God is the personality of Deity, but there is still much of Deity which is not personal. There are such things as the presence circuits of the Eternal Son and the Infinite Spirit, spirit and mind gravity, the circuits of the Reflective Spirits, the cosmic mind of the Master Spirits, and no doubt much more. These phenomena are Deity, but not personal, and thus not God the Father.
 
 Destiny is to allow spirit to dominate matter through mind as directed by personality, and from this can be derived some aspects of God’s purpose. But to material science, destiny and purpose are figments of mortal mind. Science recognizes mind but regards it as simply the output of the mortal brain. Certainly, the mortal brain does exhibit some measurable output, but that is only a fraction of its function which science mistakes for the whole. As a consequence, science regards questions of destiny and purpose as purely subjective expressions of mortal minds and dismisses them as teleological delusions.
 

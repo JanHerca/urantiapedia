@@ -47,9 +47,9 @@ Almost all of the discussions were held in German and any key ideas were transla
 <img src="/image/article/IUA_Tidings/DACH-nov-2016-01-300x225.jpg">
 </figure>
 
-On the first day Chris was asked to speak about Urantia Association International and answered questions. On Saturday and Sunday evenings we socialized at the hotel’s cafe. In general, the meeting left a warm impression. The nature of the conference resembled more of a working meeting without too much planning or additional activities.
+On the first day Chris was asked to speak about Urantia Association International and answered questions. On Saturday and Sunday evenings we socialized at the hotel’s cafe. In general, the meeting left a warm impression. The nature of the conference resembled more of a working meeting without too much planning or additional activities.
 
-It is very encouraging to see the opening of a new Association that will serve this very important region of the world in these trying times. The immigration crisis was quite noticeable in this big European city of Frankfurt. Many of the participants at the meeting feel that the crisis is extensive enough to change Germany significantly in the future. It has highlighted the need to actively promote _The Urantia Book_ in Germany and plans are being made for a library placement project.
+It is very encouraging to see the opening of a new Association that will serve this very important region of the world in these trying times. The immigration crisis was quite noticeable in this big European city of Frankfurt. Many of the participants at the meeting feel that the crisis is extensive enough to change Germany significantly in the future. It has highlighted the need to actively promote _The Urantia Book_ in Germany and plans are being made for a library placement project.
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">

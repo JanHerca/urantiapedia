@@ -36,7 +36,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 If you would engage in effective prayer, you should bear in mind the following:
 
-- You qualify as a potent prayer by  sincerely and courageously facing the problems of universe reality. You must possess cosmic stamina.
+- You qualify as a potent prayer by  sincerely and courageously facing the problems of universe reality. You must possess cosmic stamina.
 - You must have honestly exhausted the human capacity for human adjustment (i.e. "do it yourself"). You must have been industrious.
 - You must surrender every wish of mind and every craving of soul to the transforming embrace of spiritual growth. You must have experienced an enhancement of meanings and an elevation of values.
 - You must make a wholehearted choice of the divine will. You must obliterate the dead center of indecision.

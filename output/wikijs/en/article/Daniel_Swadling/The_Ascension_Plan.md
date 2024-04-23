@@ -86,8 +86,8 @@ And so we have the Ascension Plan; the spiritual transformation required to get 
 
 ## The Main Steps:
 
-> _On Urantia you pass through a short and intense test during your initial life of_ **material** _existence._ _On the mansion worlds and up through your system, constellation, and local universe, you traverse the **morontia** phases of ascension.
-> __On the training worlds of the superuniverse you pass through the_ **true spirit** _stages of progression and are prepared for eventual transit to Havona._ <a id="a89_159"></a>[[UB 14:5.1](/en/The_Urantia_Book/14#p5_1), emphasis added]
+> _On Urantia you pass through a short and intense test during your initial life of_ **material** _existence._ _On the mansion worlds and up through your system, constellation, and local universe, you traverse the **morontia** phases of ascension._
+> _On the training worlds of the superuniverse you pass through the_ **true spirit** _stages of progression and are prepared for eventual transit to Havona._ <a id="a89_159"></a>[[UB 14:5.1](/en/The_Urantia_Book/14#p5_1), emphasis added]
 
 In Havona, our attainment is intellectual, spiritual and experiential, we attain full comprehension of God on many levels through traversing its seven circuits:
 
@@ -101,9 +101,9 @@ In Havona, our attainment is intellectual, spiritual and experiential, we attain
 
 ## The Jubilee Markers:
 
-> The first jubilee marked the mortal agreement with the Thought Adjuster when the purpose to survive was sealed;
+> The first jubilee marked the mortal agreement with the Thought Adjuster when the purpose to survive was sealed;
 > the second was the awakening in the morontia life;
-> the third was the fusion with the Thought Adjuster;
+> the third was the fusion with the Thought Adjuster;
 > the fourth was the awakening in Havona;
 > the fifth celebrated the finding of the Universal Father; and
 > the sixth jubilee was the occasion of the Paradise awakening from the final transit slumber of time.
@@ -158,9 +158,9 @@ There is something you can be doing every day to be working on this target: deci
 
 The Urantia Papers frequently refer to truth, beauty and goodness, which they’ve borrowed from the ancient Greeks (Plato). They are referred to as the Transcendental Ideals of being. _The Urantia Book_ has recognised them as examples of some of the highest ideals we’ve ever developed—because they approach being divine, because they transcend time and have the potential to be eternal—thus they are God-like values. When you make choices that are guided by these types of ideals of being, they are God-like choices; they a) improve your life immediately, **and** b) **contribute to the growth of your (potentially immortal) soul.** And the more we grow spiritually, the closer we are to fusion.
 
-> _Material evolution has provided you a life machine, your body; the Father himself has endowed you with the purest spirit reality known in the universe, your Thought Adjuster. But into your hands, subject to your own decisions, has been given **mind**, and it is by mind that you live or die. It is within this mind and with this mind that you make those moral decisions which enable you to achieve Adjusterlikeness, and that is Godlikeness._ <a id="a160_445"></a>[[UB 111:1.4](/en/The_Urantia_Book/111#p1_4), emphasis added]
+> _Material evolution has provided you a life machine, your body; the Father himself has endowed you with the purest spirit reality known in the universe, your Thought Adjuster. But into your hands, subject to your own decisions, has been given **mind**, and it is by mind that you live or die. It is within this mind and with this mind that you make those moral decisions which enable you to achieve Adjusterlikeness, and that is Godlikeness._ <a id="a160_445"></a>[[UB 111:1.4](/en/The_Urantia_Book/111#p1_4), emphasis added]
 > 
-> _When a moral being chooses to be unselfish when confronted by the urge to be selfish, that is primitive religious experience. No animal can make such a choice; such a decision is both human and religious. It embraces the fact of God-consciousness and exhibits the impulse of social service, the basis of the brotherhood of man. When mind chooses a right moral judgment by an act of the free will, such a decision constitutes a religious experience._ <a id="a162_453"></a>[[UB 103:2.8](/en/The_Urantia_Book/103#p2_8)]
+> _When a moral being chooses to be unselfish when confronted by the urge to be selfish, that is primitive religious experience. No animal can make such a choice; such a decision is both human and religious. It embraces the fact of God-consciousness and exhibits the impulse of social service, the basis of the brotherhood of man. When mind chooses a right moral judgment by an act of the free will, such a decision constitutes a religious experience._ <a id="a162_453"></a>[[UB 103:2.8](/en/The_Urantia_Book/103#p2_8)]
 
 This is where the soul becomes involved. Soul is something that evolves and grows. It is the by-product of the relationship between material mind and divine spirit.
 
@@ -168,7 +168,7 @@ This is where the soul becomes involved. Soul is something that evolves and grow
 
 Why do you need soul, and why is it important?
 
-> _During the life in the flesh the evolving soul is enabled to reinforce the supermaterial decisions of the mortal mind. The soul, being supermaterial, does not of itself function on the material level of human experience. Neither can this subspiritual soul, without the collaboration of … the Adjuster, function above the morontia level… During life the mortal will, the personality power of decision-choice, is resident in the **material** mind circuits; as terrestrial mortal growth proceeds, this self, with its priceless powers of choice, becomes increasingly identified with the emerging **morontia-soul** entity; after death and following the mansion world resurrection, the human personality is **completely** identified with the morontia self. **The soul is thus the embryo of the future morontia vehicle of personality identity.**_<a id="a170_842"></a>[[UB 111:3.2](/en/The_Urantia_Book/111#p3_2), emphasis added]
+> _During the life in the flesh the evolving soul is enabled to reinforce the supermaterial decisions of the mortal mind. The soul, being supermaterial, does not of itself function on the material level of human experience. Neither can this subspiritual soul, without the collaboration of … the Adjuster, function above the morontia level… During life the mortal will, the personality power of decision-choice, is resident in the **material** mind circuits; as terrestrial mortal growth proceeds, this self, with its priceless powers of choice, becomes increasingly identified with the emerging **morontia-soul** entity; after death and following the mansion world resurrection, the human personality is **completely** identified with the morontia self. **The soul is thus the embryo of the future morontia vehicle of personality identity.**_<a id="a170_842"></a>[[UB 111:3.2](/en/The_Urantia_Book/111#p3_2), emphasis added]
 
 The soul is the receptacle in which the personality of **YOU** resides after death. So, if you want to survive after death and keep working on your target of Adjuster fusion, then you need to grow your soul. It’s nothing fanciful, just technical.
 
@@ -178,11 +178,11 @@ This is what Jesus meant when he advised us to ‘build up your treasures in hea
 
 And finally:
 
-> _Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accepting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul — the morontia self — will faithfully portray the **harvest** of the temporal decisions which the mortal self is making. Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as what mind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. **It is not so much that man is conscious of God as that man yearns for God that results in universe ascension**. What you are today is not so important as what you are becoming day by day and in eternity._ <a id="a180_1133"></a>[[UB 111:1.5](/en/The_Urantia_Book/111#p1_5), emphasis added]
+> _Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accepting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul — the morontia self — will faithfully portray the **harvest** of the temporal decisions which the mortal self is making. Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as what mind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. **It is not so much that man is conscious of God as that man yearns for God that results in universe ascension**. What you are today is not so important as what you are becoming day by day and in eternity._ <a id="a180_1133"></a>[[UB 111:1.5](/en/The_Urantia_Book/111#p1_5), emphasis added]
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/09/27/ascension-plan
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/09/27/ascension-plan)
 
 <figure class="table chapter-navigator">
   <table>

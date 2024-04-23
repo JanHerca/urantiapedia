@@ -40,9 +40,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 8th to 10th December 2017
 
-The first National Conference for the Urantia Association of Peru will be held in the town of Pachacamac which is in beautiful countryside region of Lima just 30 minutes away from the city.
+The first National Conference for the Urantia Association of Peru will be held in the town of Pachacamac which is in beautiful countryside region of Lima just 30 minutes away from the city.
 
-The Urantia Association of Peru has recently been incorporated and its Governing Board members are working very hard to promote the study of _The Urantia Book_ and the spreading of its teachings by fostering study groups in their region of the world. The aim of this National Conference is to get to know, relate, interpret, be inspired and act upon the legacy of Jesus teachings, as well as to promote spiritual brotherhood. The conference will be in Spanish and will be utilizing plenary presentations as well as experiential workshops throughout the weekend.
+The Urantia Association of Peru has recently been incorporated and its Governing Board members are working very hard to promote the study of _The Urantia Book_ and the spreading of its teachings by fostering study groups in their region of the world. The aim of this National Conference is to get to know, relate, interpret, be inspired and act upon the legacy of Jesus teachings, as well as to promote spiritual brotherhood. The conference will be in Spanish and will be utilizing plenary presentations as well as experiential workshops throughout the weekend.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

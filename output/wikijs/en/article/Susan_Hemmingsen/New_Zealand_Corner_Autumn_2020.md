@@ -46,7 +46,7 @@ Like all of you, we in New Zealand are experiencing the effects of the Covid-19 
 
 On the whole, New Zealanders have taken to this lockdown with the right spirit, and this has led to a lot of cooking and baking and other creative pursuits. A really positive outcome is that it has enabled parents to spend more time with their families than they’re used to, which is beneficial to both. I pray that this additional time with children doesn’t fade with the virus.
 
-So here I am temporarily living by myself, in a small studio apartment, without all the things I’m used to for cooking, sewing and other crafts, with not even a garden to walk around. In the meantime, I have to content myself with my own company and although I can’t shop or see my daughter or grandchildren or visit friends, I am grateful for the internet and the ability to talk with anyone anywhere. And, to top it off, I have my loving father to keep me company.
+So here I am temporarily living by myself, in a small studio apartment, without all the things I’m used to for cooking, sewing and other crafts, with not even a garden to walk around. In the meantime, I have to content myself with my own company and although I can’t shop or see my daughter or grandchildren or visit friends, I am grateful for the internet and the ability to talk with anyone anywhere. And, to top it off, I have my loving father to keep me company.
 
 I have long had the benefit of knowing God is always with me and for me and loves me. Some years ago, over a period of several months, I had panic attacks and at a time when I felt I was only holding on by a thread and I thought my brain would explode; I heard an inner voice telling me that there was something inside me which would always stop me going over the edge. At the time, I was agnostic (pre-Urantia Book days) and didn’t believe in a personal God, but now I know that it was my loving Thought Adjuster, nudging me back to sanity.
 <br style="clear:both;"/>
@@ -79,7 +79,7 @@ Susan Hemmingsen
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/05/10/new-zealand-corner
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/05/10/new-zealand-corner)
 
 <figure class="table chapter-navigator">
   <table>

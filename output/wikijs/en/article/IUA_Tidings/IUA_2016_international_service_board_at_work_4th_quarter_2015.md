@@ -63,7 +63,7 @@ Antonio is an active member of the 2018 International Conference planning commit
 
 ## Translation Committee – Chris Moseley, Chair
 
-Chris continues to look for volunteer translators.  A Portuguese translator has been found to replace the previous one who resigned. Translation services to the ISB, RC and the website have been provided.
+Chris continues to look for volunteer translators.  A Portuguese translator has been found to replace the previous one who resigned. Translation services to the ISB, RC and the website have been provided.
 
 ## President
 

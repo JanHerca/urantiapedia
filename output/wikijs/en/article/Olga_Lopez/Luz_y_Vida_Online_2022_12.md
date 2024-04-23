@@ -124,7 +124,7 @@ This is the text of a presentation that was given during the Urantiathon on Nove
 In this presentation, Urantia Foundation Trustee and Vice President International Georges Michelson Dupont shares his extensive experience hosting study groups and facilitating seminars, all based on the pedagogy deployed by the revelators in The Urantia Book. It also proposes practical examples and recommendations for the group to develop effectively and encourages the participation of its members.
 <br style="clear:both" />
 
- 
+ 
 ## History and teachings – Chronicle of the life of Jesus
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">

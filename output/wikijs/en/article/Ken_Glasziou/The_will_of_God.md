@@ -33,11 +33,11 @@ dateCreated: 2022-09-26T19:14:54.696Z
 
 > The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them--advance in spirit status--by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always--in any sphere, in all of them--this is to choose to do the _will of God_. If man thus chooses, he is great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia. (<a id="a33_486"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14))
 
->  This God-Spirit-Within did indeed triumph in Jesus' human mind--that mind which in each of life's recurring situations maintained a consecrated dedication to the _Father's will_, saying, "Not my will, but yours, be done." Such decisive consecration constitutes the true passport from the limitations of human nature to the finality of divine attainment. (<a id="a35_358"></a>[UB 109:6.5](/en/The_Urantia_Book/109#p6_5))
+>  This God-Spirit-Within did indeed triumph in Jesus' human mind--that mind which in each of life's recurring situations maintained a consecrated dedication to the _Father's will_, saying, "Not my will, but yours, be done." Such decisive consecration constitutes the true passport from the limitations of human nature to the finality of divine attainment. (<a id="a35_358"></a>[UB 109:6.5](/en/The_Urantia_Book/109#p6_5))
 
 > The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the _will of God_, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true. (<a id="a37_295"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7))  
 
-> The Master thereby chose a program of living which was the equivalent of deciding  against miracles and wonders. Again he decided in favor of the _Father's will_; again he surrendered everything into the hands of his Paradise Father. (<a id="a39_237"></a>[UB 136:6.2](/en/The_Urantia_Book/136#p6_2)) 
+> The Master thereby chose a program of living which was the equivalent of deciding  against miracles and wonders. Again he decided in favor of the _Father's will_; again he surrendered everything into the hands of his Paradise Father. (<a id="a39_237"></a>[UB 136:6.2](/en/The_Urantia_Book/136#p6_2)) 
 
 > Jesus agreed that it was proper to want to see social, economic, and political orders improved, but he would always add: “_That is not our business. We must be dedicated to the doing of the Father's will. Our business is to be ambassadors of a spiritual government on high, and we must not immediately concern ourselves with aught but the representation of the will and character of the divine Father who stands at the head of the government whose credentials we bear._” (<a id="a41_474"></a>[UB 139:11.9](/en/The_Urantia_Book/139#p11_9))
 
@@ -64,7 +64,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
 
 > The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the _Father's will_. (<a id="a64_255"></a>[UB 187:2.9](/en/The_Urantia_Book/187#p2_9))
 
-> The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the "_will of the Father_ in heaven."  (<a id="a66_201"></a>[UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
+> The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the "_will of the Father_ in heaven."  (<a id="a66_201"></a>[UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
 
 > The faith of Jesus visualized all spirit values as being found in the kingdom of God; therefore he said, "Seek first the kingdom of heaven." Jesus saw in the advanced and ideal fellowship of the kingdom the achievement and fulfillment of the _will of God._ The very heart of the prayer which he taught his disciples was, "Your kingdom come; your will be done." Having thus conceived of the kingdom as comprising the _will of God_, he devoted himself to the cause of its realization with amazing self-forgetfulness and unbounded enthusiasm. (<a id="a68_543"></a>[UB 196:0.8](/en/The_Urantia_Book/196#p0_8))
 

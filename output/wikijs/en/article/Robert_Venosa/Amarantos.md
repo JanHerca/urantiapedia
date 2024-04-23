@@ -82,7 +82,7 @@ That in love it return to the heart of its sire.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2020/
+- [Article of the newsletter online](https://anzura.urantia-association.org/newsletter/arena-summer-2020/)
 
 <figure class="table chapter-navigator">
   <table>

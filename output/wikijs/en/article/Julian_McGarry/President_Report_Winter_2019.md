@@ -53,7 +53,7 @@ The second was the unprecedented mass healing by Jesus of 683 men, women, and ch
 
 > _When the Master stepped out of the front entrance of Zebedee’s house, his eyes met an array of stricken and afflicted humanity. He gazed upon almost one thousand sick and ailing human beings; at least that was the number of persons gathered together before him. Not all present were afflicted; some had come assisting their loved ones in this effort to secure healing._
 > 
-> _The sight of these afflicted mortals, men, women, and children, suffering in large measure as a result of the mistakes and misdeeds of his own trusted Sons of universe administration, peculiarly touched the human heart of Jesus and challenged the divine mercy of this benevolent Creator Son….Not since Cana had the supernatural or miraculous attended his teaching; still, this afflicted multitude touched his sympathetic heart and mightily appealed to his understanding affection._ <a id="a55_485"></a>[[UB 145:3.6-7](/en/The_Urantia_Book/145#p3_6)]
+> _The sight of these afflicted mortals, men, women, and children, suffering in large measure as a result of the mistakes and misdeeds of his own trusted Sons of universe administration, peculiarly touched the human heart of Jesus and challenged the divine mercy of this benevolent Creator Son….Not since Cana had the supernatural or miraculous attended his teaching; still, this afflicted multitude touched his sympathetic heart and mightily appealed to his understanding affection._ <a id="a55_485"></a>[[UB 145:3.6-7](/en/The_Urantia_Book/145#p3_6)]
 
 Both accounts served to lift my spirits by reminding me that our Universal Father and Jesus our universe sovereign are compassionately aware of our afflictions and are attentive to our prayers for mercy and relief. So this winter, if you come down with a cold or the dreaded flu, do your best to look after yourself. Eat healthily, try to get plenty of rest, see your doctor, and most importantly, remember that God and his Son love you infinitely and desire to nurture you during your illness.
 
@@ -66,7 +66,7 @@ ANZURA President
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/president-report-winter-2019
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/07/31/president-report-winter-2019)
 
 <figure class="table chapter-navigator">
   <table>

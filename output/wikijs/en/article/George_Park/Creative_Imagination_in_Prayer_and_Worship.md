@@ -55,7 +55,7 @@ Without intention of intruding upon the supremely personal and sacred domain of 
 > 
 > _In time the alter-ego concept is exalted to a superior status of divine dignity, and prayer as an agency of religion has appeared_. <a id="a55_135"></a>[[UB 91:3.1-2](/en/The_Urantia_Book/91#p3_1)]
 
-> _…It is altogether fitting that man, when he prays, should strive to grasp the concept of the Universal Father on Paradise; but the more effective technique for most practical purposes will be to revert to the concept of a near-by alter ego, just as the primitive mind was wont to do, and then to recognize that the idea of this alter ego has evolved from a mere fiction to the truth of God’s indwelling mortal man in the factual presence of the Adjuster_. . .  <a id="a57_464"></a>[[UB 91:3.6](/en/The_Urantia_Book/91#p3_6)]
+> _…It is altogether fitting that man, when he prays, should strive to grasp the concept of the Universal Father on Paradise; but the more effective technique for most practical purposes will be to revert to the concept of a near-by alter ego, just as the primitive mind was wont to do, and then to recognize that the idea of this alter ego has evolved from a mere fiction to the truth of God’s indwelling mortal man in the factual presence of the Adjuster_. . .  <a id="a57_464"></a>[[UB 91:3.6](/en/The_Urantia_Book/91#p3_6)]
 
 The conversational form of language is the dominant form of thought: to think reflectively usually means to think in the verbal forms of conversation. With the dawn of the creative imagination the child then begins to converse with an alter ego. And this alter ego, the son of the creative imagination, may evolve toward a status of divine dignity, eventually becoming the experiential fact of the eternal presence of God in the temporal mind of man. The divinely ordained (but not necessarily inevitable) destiny of the alter ego from its moment of conception can only signify the direct intervention of spirit influences, circuits, and entities in the creative imagination and upon the concept of the alter ego.
 
@@ -101,7 +101,7 @@ To know the idea of God is one thing. To worship the ideal of God is another. An
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/creative-imagination-prayer-worship
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/09/07/creative-imagination-prayer-worship)
 
 <figure class="table chapter-navigator">
   <table>

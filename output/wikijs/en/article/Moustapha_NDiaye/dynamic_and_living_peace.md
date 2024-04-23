@@ -186,7 +186,7 @@ The main reason for this inward focus, to the omission of all else, stems from H
 
 This “omission of all else” effectively orphaned them from an understanding of a personalized deity. The powerful philosophy it produced had a similar effect on subsequent Oriental philosophies. Consequently, both Hinduism and Buddhism lack a simple and clear understanding of the personality of the Universal Father as presented by the missionaries of Salem and confirmed through Michael of Nebadon’s seventh bestowal ministry.
 
-> _…The concept of the Buddha Absolute is at times quasi-personal, at times wholly impersonal — even an infinite creative force. Such concepts, though helpful to philosophy, are not vital to religious development. **Even an anthropomorphic Yahweh is of greater religious value than an infinitely remote Absolute of Buddhism or Brahmanism**_. <a id="a188_342"></a>[[UB 94:11.12](/en/The_Urantia_Book/94#p11_12), Emphasis added.]
+> _…The concept of the Buddha Absolute is at times quasi-personal, at times wholly impersonal — even an infinite creative force. Such concepts, though helpful to philosophy, are not vital to religious development. **Even an anthropomorphic Yahweh is of greater religious value than an infinitely remote Absolute of Buddhism or Brahmanism**_. <a id="a188_342"></a>[[UB 94:11.12](/en/The_Urantia_Book/94#p11_12), Emphasis added.]
 
 ### Nirvana and Spiritual Peace
 
@@ -196,7 +196,7 @@ While their incomplete understanding does highlight very important concepts and 
 
 The problem arises from the strict logic of these philosophies, a logic that omits any consideration of a personalized Father. Orphaned in this way, these philosophies cannot delve into the full nature of being and, although they can lead to a comparable state of peace, they have a tendency to push the individual towards prolonged isolation.
 
-> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ <a id="a198_150"></a>[[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
+> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ <a id="a198_150"></a>[[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
 
 This isolation, deemed necessary to master the compulsive self, can end up dissociating the disciple, which then makes it difficult to reconcile society’s current confused state with the sublime peace that the follower may attain through personal isolation. There is simply no bridge connecting the ever-growing gap between the two. Followers of these philosophies often choose to spend their lives as hermits, perhaps revered by society at large but not necessarily of service to humanity. They could run the risk of unwittingly responding to the cry for self-assertion with its call for a precedence of the mind that separates them from the recognition of, and conscious shared participation with, the Father’s spirit.
 
@@ -239,7 +239,7 @@ The outpouring of the Spirit of Truth at Pentecost, which followed the seventh b
 
 Recall _The Urantia Book_ teachings that include:
 
-_It would be helpful in the study of selfhood to remember:_
+_It would be helpful in the study of selfhood to remember:_
 
 1. _That physical systems are subordinate._
 2. _That intellectual systems are co-ordinate._

@@ -60,7 +60,7 @@ In actual truth and fact _…this was one of the most extraordinary days that th
 
 However, it was when he went through the temple courts that _…he was shocked and sickened by the spirit of irreverence which he observed. He deemed the conduct of the temple throngs to be inconsistent with their presence in “his Father’s house”._ (<a id="a60_248"></a>[UB 125:1.1](/en/The_Urantia_Book/125#p1_1))
 
-And by the time he got to the priest’ courts, with the killing of droves of animals, blood-stained hands of the slaughter priests, and the sounds of dying animals, the boy was sickened, and clutching his dad’s arm he begged to be taken away. That night _…he had revolting dreams of slaughter and suffering. His mind was distraught and his heart torn by the inconsistencies and absurdities of the theology of the whole Jewish ceremonial system…_ (<a id="a62_446"></a>[UB 125:2.4](/en/The_Urantia_Book/125#p2_4))
+And by the time he got to the priest’ courts, with the killing of droves of animals, blood-stained hands of the slaughter priests, and the sounds of dying animals, the boy was sickened, and clutching his dad’s arm he begged to be taken away. That night _…he had revolting dreams of slaughter and suffering. His mind was distraught and his heart torn by the inconsistencies and absurdities of the theology of the whole Jewish ceremonial system…_ (<a id="a62_446"></a>[UB 125:2.4](/en/The_Urantia_Book/125#p2_4))
 
 And so the Passover week proceeded. _Again and again his parents would find him sitting off by himself with his youthful head in his hands, profoundly thinking._ (<a id="a64_163"></a>[UB 125:2.9](/en/The_Urantia_Book/125#p2_9))
 
@@ -68,13 +68,13 @@ One major highlight for Jesus during that week was meeting scores of boys about 
 
 Rather than wander too far off the topic of deep cleaning, suffice to say, that by the end of the week Jesus’ parents were relieved to be going home to Nazareth.
 
-So off Joseph and Mary went, each assuming that the other had Jesus in tow. Men and women being required to travel separately, it was only at a night stopover in Jericho that they realised that Jesus had been left behind in Jerusalem. He had remained in the temple listening to the discussions and “enjoying the more quiet and decorous atmosphere, the great crowds of the Passover week having about disappeared”. It appears that he was so preoccupied, that his being abandoned was of little concern to him. When temple discussions ended, he went to the home of his Bethany friends who were thrilled to have him stay. We are told that …e_arly next day Jesus was up and on his way to the temple. On the bow of Olivet_… this 13 year old boy _…paused and wept over the sight his eyes beheld – a spiritually impoverished people, tradition bound, and living under the surveillance  of the Roman legions._ (<a id="a70_900"></a>[UB 125:4.2](/en/The_Urantia_Book/125#p4_2))
+So off Joseph and Mary went, each assuming that the other had Jesus in tow. Men and women being required to travel separately, it was only at a night stopover in Jericho that they realised that Jesus had been left behind in Jerusalem. He had remained in the temple listening to the discussions and “enjoying the more quiet and decorous atmosphere, the great crowds of the Passover week having about disappeared”. It appears that he was so preoccupied, that his being abandoned was of little concern to him. When temple discussions ended, he went to the home of his Bethany friends who were thrilled to have him stay. We are told that …e_arly next day Jesus was up and on his way to the temple. On the bow of Olivet_… this 13 year old boy _…paused and wept over the sight his eyes beheld – a spiritually impoverished people, tradition bound, and living under the surveillance  of the Roman legions._ (<a id="a70_900"></a>[UB 125:4.2](/en/The_Urantia_Book/125#p4_2))
 
 And for the next three days he took part in the discussions with the scribes and teachers in the temple, in effect asking questions and ending up confusing the “wise men of the law”. All ended abruptly on the fourth day when his parents found him.
 
-And they immediately left for the three-day journey back home to Nazareth. Jesus and his parents paused briefly on the way to Jericho for the first night’s stay, on the brow of Olivet. There _…the lad raised  his staff aloft and, quivering from head to foot  under the surging  of intense emotion, said: “O Jerusalem, Jerusalem, and the people thereof, what slaves you are – subservient to the Roman yoke and victims of your own traditions – but I will return  to cleans yonder temple and deliver  my people from this bondage!” (<a id="a74_529"></a>[UB 125:6.9](/en/The_Urantia_Book/125#p6_9))
+And they immediately left for the three-day journey back home to Nazareth. Jesus and his parents paused briefly on the way to Jericho for the first night’s stay, on the brow of Olivet. There _…the lad raised  his staff aloft and, quivering from head to foot  under the surging  of intense emotion, said: “O Jerusalem, Jerusalem, and the people thereof, what slaves you are – subservient to the Roman yoke and victims of your own traditions – but I will return  to cleans yonder temple and deliver  my people from this bondage!” (<a id="a74_529"></a>[UB 125:6.9](/en/The_Urantia_Book/125#p6_9))
 
-It could be regarded that this was the histrionics of a young adolescent, particularly as no temple cleaning urge was mentioned by Jesus thereafter. All that was observed by those who knew him well was that by the time he was 20 he had developed _…a strange and increasing aversion to this Herod-built temple with its politically appointed priesthood._ (<a id="a76_354"></a>[UB 12:6.5](/en/The_Urantia_Book/12#p6_5))
+It could be regarded that this was the histrionics of a young adolescent, particularly as no temple cleaning urge was mentioned by Jesus thereafter. All that was observed by those who knew him well was that by the time he was 20 he had developed _…a strange and increasing aversion to this Herod-built temple with its politically appointed priesthood._ (<a id="a76_354"></a>[UB 127:6.5](/en/The_Urantia_Book/127#p6_5))
 
 And then, about 23 years after his promise, with only four more days of life as a man of Urantia, the urge to deep clean again erupted, catching all of us by total surprise.
 
@@ -90,7 +90,7 @@ Thus ends the story of the Jerusalem temple deep clean.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/temple-deep-clean
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/09/07/temple-deep-clean)
 
 <figure class="table chapter-navigator">
   <table>

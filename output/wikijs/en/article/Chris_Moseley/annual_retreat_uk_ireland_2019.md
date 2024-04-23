@@ -42,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 **6—8 September 2019**
 
-Once again it’s time to invite you to the annual summer retreat of British readers of _The Urantia Book—_a chance to relax for a weekend in congenial company and beautiful surroundings with fellow truth seekers. This is the first gathering held by our new British-Irish organization: Urantia Association of Great Britain & Ireland (UAGBI).
+Once again it’s time to invite you to the annual summer retreat of British readers of _The Urantia Book—_a chance to relax for a weekend in congenial company and beautiful surroundings with fellow truth seekers. This is the first gathering held by our new British-Irish organization: Urantia Association of Great Britain & Ireland (UAGBI).
 
 We welcome our members as well as other students of the revelation both at home and abroad to this annual event.
 

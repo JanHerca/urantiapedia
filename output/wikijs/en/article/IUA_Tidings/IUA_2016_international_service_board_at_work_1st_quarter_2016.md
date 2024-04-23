@@ -95,7 +95,7 @@ Following are some of the topics addressed by this team in the 1<sup>st</sup> Qu
 
 ## Fundraising Committee – _Chris Wood, Chair_
 
-Chris reported that the initial 3-year goals set when he took office have been achieved.  The committee began discussing the next 3-year goals including increasing donations from Latin America and Europe. Work began on the Spring Fundraiser.
+Chris reported that the initial 3-year goals set when he took office have been achieved.  The committee began discussing the next 3-year goals including increasing donations from Latin America and Europe. Work began on the Spring Fundraiser.
 
 ## Finance Committee – _Bradly Tharp, Chair_
 

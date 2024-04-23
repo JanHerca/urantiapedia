@@ -95,23 +95,23 @@ One of the apostles once asked: “Master, what should I do if a stranger forced
 
 Jesus said: "The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised, ( [Luke 4:18](/en/Bible/Luke/4#v18))
 
-Jesus spoke to them saying: 
+Jesus spoke to them saying: 
 
-Blessed are they who know they are spiritually poor: for theirs is the kingdom of heaven. 
+Blessed are they who know they are spiritually poor: for theirs is the kingdom of heaven. 
 
-Blessed are they that mourn: for they shall be comforted. 
+Blessed are they that mourn: for they shall be comforted. 
 
-Blessed are the humble: for they shall inherit the earth. 
+Blessed are the humble: for they shall inherit the earth. 
 
-Blessed are they which do hunger and thirst after righteousness: for they shall be filled. 
+Blessed are they which do hunger and thirst after righteousness: for they shall be filled. 
 
-Blessed are the merciful: for they shall obtain mercy. 
+Blessed are the merciful: for they shall obtain mercy. 
 
-Blessed are the pure in heart: for they shall see God. 
+Blessed are the pure in heart: for they shall see God. 
 
 Blessed are the peacemakers: for they shall be called the children of God.
 
- Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.
+ Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.
 
 Blessed are you, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven.
 

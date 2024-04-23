@@ -36,11 +36,11 @@ dateCreated: 2023-9-16T10:55:6Z
 <figcaption><em>Collins Lomo</em></figcaption>
 </figure>
 
-The future of _The Urantia Book_ in Africa very much depends on having a group of core readers who are committed to the ideals of the book—readers who are willing to work towards providing dependable support and direction to the growing readership on the continent. As such, we are pleased to announce that Collins Lomo from Accra, Ghana has been elected as Urantia Association’s new Continental Coordinator for Africa.  
+The future of _The Urantia Book_ in Africa very much depends on having a group of core readers who are committed to the ideals of the book—readers who are willing to work towards providing dependable support and direction to the growing readership on the continent. As such, we are pleased to announce that Collins Lomo from Accra, Ghana has been elected as Urantia Association’s new Continental Coordinator for Africa.  
 
-Collins has been fostering the development of Urantia Book reader activity in Ghana and various other African countries since 2014. He represented Africa at the Urantia Association’s 2018 International conference in the Netherlands and facilitated the joint conference held in Lagos, Nigeria in December of 2019.  
+Collins has been fostering the development of Urantia Book reader activity in Ghana and various other African countries since 2014. He represented Africa at the Urantia Association’s 2018 International conference in the Netherlands and facilitated the joint conference held in Lagos, Nigeria in December of 2019.  
 
-In his role as the African Continental Coordinator, Collins plans to foster the development of leaders among the active readership in Africa and provide an African Leadership Forum to encourage collaboration and communication. The goals will be to bring African leaders together to share experiences and find ways to improve the effectiveness of study groups, to encourage readers to undertake in-depth study of _The Urantia Book_, and to find ways to promote the book effectively on the African continent. 
+In his role as the African Continental Coordinator, Collins plans to foster the development of leaders among the active readership in Africa and provide an African Leadership Forum to encourage collaboration and communication. The goals will be to bring African leaders together to share experiences and find ways to improve the effectiveness of study groups, to encourage readers to undertake in-depth study of _The Urantia Book_, and to find ways to promote the book effectively on the African continent. 
 
 Collins has a Bachelor of Science in Information Technology and a Diploma in Management Accounting. We look forward to having Collins on the team and we will do all we can to assist him and his team in their endeavors to further the growth of _The_ _Urantia_ _Book_ revelation in Africa.
 

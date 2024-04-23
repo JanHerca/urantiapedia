@@ -40,7 +40,7 @@ We on the Education Committee are getting in touch with you again through this a
 
 The truth-seekers and students of _The Urantia Book_ in Mexico find an open and free space to meet each other in the conferences and workshops offered by the Urantia Association. Here, they listen to good lessons, learn, discern, and cultivate friendships and spiritual brotherhood.
 
-Here are some of the stories told by those who lived them (namely Norma Angelica Perez Arteaga, Hector Landin Vazquez, and Martin Guzman.) They speak for themselves.
+Here are some of the stories told by those who lived them (namely Norma Angelica Perez Arteaga, Hector Landin Vazquez, and Martin Guzman.) They speak for themselves.
 
 ## I do not know what to do or where to look, but I have to do something to know more about God
 

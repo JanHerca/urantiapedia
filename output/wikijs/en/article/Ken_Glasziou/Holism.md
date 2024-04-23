@@ -40,7 +40,7 @@ In the 1930's, that statement was decades ahead of its time. Only a handful of p
 
 Einstein's theory of relativity specified that the speed of light was a limiting velocity. Nothing could travel faster—and if it did, it would travel backwards in time.
 
- Information transfer is also assumed to be limited by the speed of light. So how could a universe with a radius of 15 billion light years possible be holistic—with every particle being affected by every other particle? Common sense says it would take a minimum of 30 billion years for particles at opposite ends of the universe to be able to influence one another.
+ Information transfer is also assumed to be limited by the speed of light. So how could a universe with a radius of 15 billion light years possible be holistic—with every particle being affected by every other particle? Common sense says it would take a minimum of 30 billion years for particles at opposite ends of the universe to be able to influence one another.
 
 Proof of physical holism did not come until about 1990 when the “non-local” behavior of twin particles having correlated properties was observed. Non-local implies instantaneous interaction. Thus, appropriately paired electrons display linked behavior instantaneously, even if separated at opposite ends of the universe. What is done to one is instantly reflected in the other.
 
@@ -58,7 +58,7 @@ Most conventional philosophy assumes that a fixed and permanent reality comprise
 
 In contrast, Whitehead's process concepts assert that basic reality is in a constant state of flux, its smallest ingredients having only a fleeting existence before they perish. It is the interactions of these transient ingredients, existing as “societies of entities,” that affords apparent permanence.
 
-Hence all the objects and people we observe around us are really  “societies” that, at the deepest level, are similar to the virtual particles of the physicist. These are demonstrated experimentally to momentarily pop into and out of existence by borrowing energy from the “vacuum.”
+Hence all the objects and people we observe around us are really  “societies” that, at the deepest level, are similar to the virtual particles of the physicist. These are demonstrated experimentally to momentarily pop into and out of existence by borrowing energy from the “vacuum.”
 
 Just as conventional physics has the principle of conservation of energy (energy-matter can neither be created nor destroyed), so also does materialistic or substance philosophy have a static baseline. But process philosophy puts its emphasis on dynamic becoming.
 
@@ -70,7 +70,7 @@ The Urantia Papers present us with the concept of the Supreme, a God in the proc
 
 Whitehead's solution of the transcendence-immanence problem was to make God “dipolar,” having both a “primordial” and a “consequent” nature. God's primordial nature is independent of the world, while his consequent nature is immersed in the world and experiences its joys and vicissitudes.
 
-In Whitehead's scheme, God's primordial nature is taken as the source of “eternal objects” from which God offers  particular aims to each entity (including us) at the beginning of our growth period. However, we are free to accept or reject God's plan for us, his action in the world being seen as always persuasive and never coercive.
+In Whitehead's scheme, God's primordial nature is taken as the source of “eternal objects” from which God offers  particular aims to each entity (including us) at the beginning of our growth period. However, we are free to accept or reject God's plan for us, his action in the world being seen as always persuasive and never coercive.
 
 Urantia Book readers might note the similarities of the primordial nature of God with aspects of existential deity as propounded in the Urantia Papers and the consequent nature of God which is immersed in the world having similarities with the God the Supreme as described in the Papers.
 

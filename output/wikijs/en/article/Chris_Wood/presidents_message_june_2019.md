@@ -38,7 +38,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
 </figure>
 
-This summer, the European Continental Conference will be hosted by the Estonian Association in Tallinn. The theme of the conference is: “Sowing Seeds—Qualitative Internal and Quantitative External Growth” and the conference will focus on the relationship between the internal growth of the individual and our external growth in service.
+This summer, the European Continental Conference will be hosted by the Estonian Association in Tallinn. The theme of the conference is: “Sowing Seeds—Qualitative Internal and Quantitative External Growth” and the conference will focus on the relationship between the internal growth of the individual and our external growth in service.
 
 In our local study group recently, we read about Jesus going to John for baptism. _The Urantia Book_ explains that the people being baptized were not doing so as a sign that they are ready to enter into Faith, which is how we use the baptism ceremony today; rather, they were submitting to baptism on behalf of their people, hoping that if enough people submitted themselves to God’s will then the trials of their nation would end. It was in this spirit that Jesus submitted himself to baptism, as the Son of Man, as a representative of his people—all humanity and all mortals.
 

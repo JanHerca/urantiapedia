@@ -58,7 +58,7 @@ We publish two to three Arena’s each year which contain interesting informatio
 
 If you have anything you would like to contribute to the _Arena_ please contact us. Also if you would like to take more of an active role in ANZURA please contact us and let us know how you would like to help.
 
-May you all have a very happy and safe Christmas and New Year and enjoy your festivities with friends and family. 
+May you all have a very happy and safe Christmas and New Year and enjoy your festivities with friends and family. 
 
 In service and faithfully  
 Phillip Marriott
@@ -66,7 +66,7 @@ Phillip Marriott
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/presidents-report-summer-2021
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/01/01/presidents-report-summer-2021)
 
 <figure class="table chapter-navigator">
   <table>

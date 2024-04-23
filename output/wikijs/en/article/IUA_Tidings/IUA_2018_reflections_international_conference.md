@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-The following are testimonials from two conference attendees, Jorge Buckingham and Mairam Durand from Peru who shared their experiences of the International Conference in The Netherlands with us.
+The following are testimonials from two conference attendees, Jorge Buckingham and Mairam Durand from Peru who shared their experiences of the International Conference in The Netherlands with us.
 
 ## Jorge Buckingham, Urantia Peru:
 

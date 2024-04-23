@@ -56,7 +56,7 @@ My hope is to be sincere.
 
 My hope is to be able to share with you things precious to me, for, as we are told,
 
-> _The God-knowing man describes his spiritual experiences… for the edification and mutual satisfaction of believers._ <a id="a58_119"></a>[[UB 1:6.6](/en/The_Urantia_Book/1#p6_6)]
+> _The God-knowing man describes his spiritual experiences… for the edification and mutual satisfaction of believers._ <a id="a58_119"></a>[[UB 1:6.6](/en/The_Urantia_Book/1#p6_6)]
 
 In 1986 I had a dream. I was on a beach. The weather was beautiful, there was no wind, the sun shined gently. Out of the blue, a giant wave descended on the shore, taking me with it. I was powerless, flopping about and trying to instinctively catch hold of something. Strangely, there was no fear.
 
@@ -137,7 +137,7 @@ Yet, I had made up my mind that I would turn the faith into the tool. And so my 
 Warning: before proceeding, read instructions carefully.
 
 1\. Purpose of the tool: to encourage religious living.  
-2\. Operating environment:  day-to-day life.  
+2\. Operating environment:  day-to-day life.  
 3\. Safety precautions:
 
 - Handle with care: Faith is both powerful and delicate. When abused, it can lead to **_“convulsions of fanaticism”_** <a id="a142_119"></a>[[UB 110:4.5](/en/The_Urantia_Book/110#p4_5)]

@@ -47,7 +47,7 @@ Realizing the importance of a dictionary from the same period as the Urantia Pap
 
 Before shipping the dictionary and stand to Chicago, I researched the word “Urantia” again to review its meaning. Glancing through the Internet, I discovered similar definitions for “Urantia” but felt I might refine it further. The word “Urantia” is broken into two separate parts of “Uran” and “tia.” I found it interesting that there are two similar words whose specific definitions are no longer used in the English language today, even removed from the current Webster’s dictionary. These words are “Urania” and “Uranian,” which are related to the root “Uran.” These definitions are found only in earlier 20th-century English dictionaries. The descriptions are as follows:
 
-**Urania** – (Latin fr. Greek) “heavenly, heaven.” (Greek) Ourania, Ouranios – “heavenly” Ouranos – “heaven”
+**Urania** – (Latin fr. Greek) “heavenly, heaven.” (Greek) Ourania, Ouranios – “heavenly” Ouranos – “heaven”
 
 **Uranian** – “Of, pertaining to, or concerned with the heavens, or the science of astronomy; astronomical.”
 

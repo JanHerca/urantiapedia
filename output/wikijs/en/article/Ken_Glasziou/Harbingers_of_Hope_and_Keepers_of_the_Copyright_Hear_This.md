@@ -48,7 +48,7 @@ The parable of the talents arose during discussion round the campfire at Gethsem
 > 
 > “But such a plea concerning spiritual indolence will not justify the barren steward of truth in the presence of the Master. In accordance with the truth committed to your hands will the Master of truth require a reckoning.” (<a id="a48_227"></a>[UB 176:3.7](/en/The_Urantia_Book/176#p3_7))
 
-Now, if the steward with the one talent had taken the others to court for actually doing something with what had been entrusted to them, what would have been his master's response? Would he have given this unprofitable servant a  commendation?
+Now, if the steward with the one talent had taken the others to court for actually doing something with what had been entrusted to them, what would have been his master's response? Would he have given this unprofitable servant a  commendation?
 
 Everybody who thinks in terms of “spreading the message” by handing out the complete and inviolate text of the Urantia Papers must surely have missed reading the comments accompanying the parable of the talents. And not only this but other comments from the revelators confirm that we are not meant to crystallize the truths provided to us. “Static truth is dead truth,” we are told, “and only dead truth can be held as a theory. Living truth is dynamic and can enjoy only an experiential existence in the human mind.” <a id="a52_519"></a>[UB 180:5.2](/en/The_Urantia_Book/180#p5_2) Then there is the exhortation on <a id="a52_596"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10):
 

@@ -60,7 +60,7 @@ To view the entire work click on: [Universal Ethics](/en/article/Neil_Francey/Un
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/universal-ethics
+- [Article of the newsletter online](https://anzura.urantia-association.org/2021/02/10/universal-ethics)
 
 <figure class="table chapter-navigator">
   <table>

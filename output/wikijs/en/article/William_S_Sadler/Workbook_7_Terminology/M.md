@@ -146,7 +146,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Mind transmutes the values of spirit into the meanings of intellect; volition has power to bring the meanings of mind to fruit in both the material and spiritual domains. The Paradise ascent involves a relative and differential growth in spirit, mind, and energy. The personality is the unifier of these components of experiential individuality. <a id="s146_348"></a>[UB 9:4.6](/en/The_Urantia_Book/9#p4_6)
 
-> Mind, on Urantia, is a compromise between the essence of thought -perfection and the evolving mentality of your immature human nature. Mind is truly of divine origin, and it does have a divine destiny, but your mortal minds are not yet of divine dignity. <a id="s148_257"></a>[UB 9:5.6](/en/The_Urantia_Book/9#p5_6)
+> Mind, on Urantia, is a compromise between the essence of thought -perfection and the evolving mentality of your immature human nature. Mind is truly of divine origin, and it does have a divine destiny, but your mortal minds are not yet of divine dignity. <a id="s148_257"></a>[UB 9:5.6](/en/The_Urantia_Book/9#p5_6)
 
 > Mind is the technique whereby spirit realities become experiential to creature personalities. And in the last analysis the unifying possibilities of even human mind, the ability to co-ordinate things, ideas, and values, is supermaterial. <a id="s150_240"></a>[UB 12:8.8](/en/The_Urantia_Book/12#p8_8)
 

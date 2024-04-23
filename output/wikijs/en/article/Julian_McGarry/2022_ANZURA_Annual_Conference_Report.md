@@ -76,7 +76,7 @@ Julian McGarry
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/2022-anzura-annual-conference-report
+- [Article of the newsletter online](https://anzura.urantia-association.org/2023/01/06/2022-anzura-annual-conference-report)
 
 <figure class="table chapter-navigator">
   <table>

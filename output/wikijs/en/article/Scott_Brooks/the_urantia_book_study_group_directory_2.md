@@ -48,7 +48,7 @@ The directory team meets frequently via teleconference to manage and work on the
 
 The team responds to the many questions sent in by users. There is a procedure to deal with reports of listed study groups that may not be aligned with the requirements of the directory (i.e., a study group must be focused exclusively on the study of _The Urantia Book)_. When such a report is submitted, the team follows this approved process to investigate the complaint and delist the study group if necessary.
 
-The team continues to plan new features and make necessary _tweaks_ to the interface. While the site will remain simple, straight-forward, and focused on the primary task of helping readers find study groups, there are always new challenges.
+The team continues to plan new features and make necessary _tweaks_ to the interface. While the site will remain simple, straight-forward, and focused on the primary task of helping readers find study groups, there are always new challenges.
 
 A most daunting challenge is that of keeping the database up-to-date and ensuring that only active study groups are listed in the directory. Each year a mail and phone campaign makes contact with all study groups hosts and request that they validate their study group information. Unresponsive study groups are culled from the directory! Surprisingly, getting all listed study groups to periodically verify their current information has proven to be one of the biggest, among the many big challenges, to have faced the UBSGD team in these early years.
 

@@ -35,7 +35,7 @@ By Ari Majurinen, NSW
 
 **Mining the Archives**
 
-> _(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from the Arena Newsletter, Volume 1 No 5, December 1994.**_ _It is a presentation by Ari Majurinen from the Elanora Conference in Sydney, 1993)_ 
+> _(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from the Arena Newsletter, Volume 1 No 5, December 1994.**_ _It is a presentation by Ari Majurinen from the Elanora Conference in Sydney, 1993)_ 
 {.is-info}
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -92,7 +92,7 @@ To future generations, by demonstrating the love of God, the Father and his love
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2020/05/10/apostle-matthew-mining-archives
+- [Article of the newsletter online](https://anzura.urantia-association.org/2020/05/10/apostle-matthew-mining-archives)
 
 <figure class="table chapter-navigator">
   <table>

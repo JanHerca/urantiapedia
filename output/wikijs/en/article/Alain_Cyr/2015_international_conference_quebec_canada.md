@@ -69,7 +69,7 @@ On the subjective level, I can only say that this event for me was a bath in a t
 
 To view the video presentations of the plenary sessions visit: [https://vimeo.com/album/3537836](https://vimeo.com/album/3537836)
 
- To view photos of the conference visit:  [https://www.flickr.com/photos/131017306@N03/sets/72157655409215754/](https://www.flickr.com/photos/131017306@N03/sets/72157655409215754/)
+ To view photos of the conference visit:  [https://www.flickr.com/photos/131017306@N03/sets/72157655409215754/](https://www.flickr.com/photos/131017306@N03/sets/72157655409215754/)
 
 Read more about [Conference Archives](https://urantia-association.org/category/reader-activities/presentations/), [Reader Activity Reports](https://urantia-association.org/category/reader-activities/regional-activity-reports/), [Quebec Conference 2015](https://urantia-association.org/tag/international-conference-canada-2015/).
 <br style="clear:both;"/>

@@ -70,7 +70,7 @@ Then there is the matter of justice. When we think of the tremendous damage that
 
 This question arises because of what is recorded in Paper 54:
 
-> . . . . the Ancients of Days refuse to annihilate any being until all moral values and all spiritual realities are extinct, both in the evildoer **and in all related supporters and possible sympathizers**.  (<a id="a72_210"></a>[UB 54:3.3](/en/The_Urantia_Book/54#p3_3), emphasis added)
+> . . . . the Ancients of Days refuse to annihilate any being until all moral values and all spiritual realities are extinct, both in the evildoer **and in all related supporters and possible sympathizers**.  (<a id="a72_210"></a>[UB 54:3.3](/en/The_Urantia_Book/54#p3_3), emphasis added)
 
 Consider also what is recorded about Satan in Paper 43:
 

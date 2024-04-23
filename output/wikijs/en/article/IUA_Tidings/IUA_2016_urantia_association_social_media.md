@@ -44,7 +44,7 @@ The Mission Statement for this Public Group states: _As Urantia Association Inte
 
 This Group may be viewed at [https://www.facebook.com/groups/UrantiaAssociationInternational](https://www.facebook.com/groups/UrantiaAssociationInternational).
 
-In addition, the Social Media Committee has been revising the Association’s Facebook and Twitter sites. See our Facebook Page at: [https://www.facebook.com/urantia.association](https://www.facebook.com/urantia.association) and Twitter at [https://twitter.com/UrantiaAssoc](https://twitter.com/UrantiaAssoc). (Follow us on Twitter!)
+In addition, the Social Media Committee has been revising the Association’s Facebook and Twitter sites. See our Facebook Page at: [https://www.facebook.com/urantia.association](https://www.facebook.com/urantia.association) and Twitter at [https://twitter.com/UrantiaAssoc](https://twitter.com/UrantiaAssoc). (Follow us on Twitter!)
 
 The creation of the internet’s social media opened a vast arena of networking capability for Urantia Book students and teachers. It expanded the reach and potential of the local Urantia Book study group. Many Urantia oriented social media sites are now available to the new and seasoned reader. From the Association’s Forum to our Facebook Page and Public Group, from Twitter to Instagram, from YouTube to Vimeo, from LinkedIn to ‘Blogtalkradio,’ you will find many, many items of interest related to study and dissemination of _The Urantia B_ook. This was not so a mere ten years ago. What will it be in 2026? The potentials are virtually endless for study and dissemination.
 
@@ -56,9 +56,9 @@ _A note of caution:_ Social media is not yet perfected. Participants are well ad
 
 Urantia Association International’s Social Media:
 
-Facebook: [https://www.facebook.com/urantia.association/](https://www.facebook.com/urantia.association/?hc_location=ufi)  
+Facebook: [https://www.facebook.com/urantia.association/](https://www.facebook.com/urantia.association/?hc_location=ufi)  
 Twitter: [https://twitter.com/UrantiaAssoc](https://twitter.com/UrantiaAssoc)  
-Forum: [http://urantia-association.org/forums](http://urantia-association.org/forums)
+Forum: [http://urantia-association.org/forums](http://urantia-association.org/forums)
 
 <br style="clear:both;"/>
 

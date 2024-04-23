@@ -44,7 +44,7 @@ Presently, classes are being offered at **Urantia Book International School** an
 
 ## Urantia Book International School
 
-The Urantia Book International School (UBIS) is sponsored by the Urantia Foundation. The January trimester is now in session and all courses are full, but new courses will be offered in April. Enrollment opens on Monday, April 17. 
+The Urantia Book International School (UBIS) is sponsored by the Urantia Foundation. The January trimester is now in session and all courses are full, but new courses will be offered in April. Enrollment opens on Monday, April 17. 
 
 Courses are generally available in German, Polish, Hungarian, Portuguese, Spanish, French, and English. Course content can vary by language. See the UBIS website for more information. [https://new.ubis.urantia.org/](https://new.ubis.urantia.org/)
 
@@ -81,7 +81,7 @@ Instructor: Michael Hill
 Orientation Date: Saturday, April 1  
 Start Date: Saturday, April 15
 
- This course is designed to refresh and renew the spiritual aspirations of Urantia Book readers who have by faith, entered the kingdom of God and therein set for themselves the achievement of the fullness of mortal life. Here, we will strive to address the enhancement of personal spiritual perception and the influence of such growth on daily life while sharing our spiritual life with others and recognizing the religious life of others.
+ This course is designed to refresh and renew the spiritual aspirations of Urantia Book readers who have by faith, entered the kingdom of God and therein set for themselves the achievement of the fullness of mortal life. Here, we will strive to address the enhancement of personal spiritual perception and the influence of such growth on daily life while sharing our spiritual life with others and recognizing the religious life of others.
 
 **To learn more about these classes, see this link.**  
 [https://www.urantiauniversity.org/all-courses](https://www.urantiauniversity.org/all-courses)

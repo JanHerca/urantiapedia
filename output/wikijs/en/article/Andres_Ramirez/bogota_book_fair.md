@@ -60,7 +60,7 @@ In addition Urantia booths will be present at book fairs in Bolivia, May to June
 <img src="/image/article/IUA_Tidings/IMG-20170502-WA0022_1495260741480-706x397.jpg">
 </figure>
 
-Book fairs provide a unique opportunity for volunteers to promote the revelation to the reading public while at the same time providing opportunities to meet with fellow students and volunteers creating strong bonds and friendship among the family of Urantia Associations around the world.
+Book fairs provide a unique opportunity for volunteers to promote the revelation to the reading public while at the same time providing opportunities to meet with fellow students and volunteers creating strong bonds and friendship among the family of Urantia Associations around the world.
 
 ## References
 

@@ -42,7 +42,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > While religion is not the product of the rationalistic speculations of a material cosmology, it is, nonetheless, the creation of a wholly rational insight which originates in man's mind-experience. <a id="s42_200"></a>[UB 101:1.5](/en/The_Urantia_Book/101#p1_5)
 
-> Religion is so vital that it persists in the absence of learning. It lives in spite of its contamination with erroneous cosmologies and false philosophies; it survives even the confusion of metaphysics. In and through all the historic vicissitudes of religion there ever persists that which is indispensable to human progress and survival: the ethical conscience and the moral consciousness.  <a id="s44_395"></a>[UB 101:3.1](/en/The_Urantia_Book/101#p3_1)
+> Religion is so vital that it persists in the absence of learning. It lives in spite of its contamination with erroneous cosmologies and false philosophies; it survives even the confusion of metaphysics. In and through all the historic vicissitudes of religion there ever persists that which is indispensable to human progress and survival: the ethical conscience and the moral consciousness.  <a id="s44_395"></a>[UB 101:3.1](/en/The_Urantia_Book/101#p3_1)
 
 **The Urantia Revelation and Cosmology**
 
@@ -50,7 +50,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 > 
 > Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. Revelators must act in accordance with the instructions which form a part of the revelation mandate. We see no way of overcoming this difficulty, either now or at any future time. We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day knowledge. While divine or spiritual insight is a gift, _human wisdom must evolve_. <a id="s50_1174"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1)
 
-> Truth may be but relatively inspired, even though revelation is invariably a spiritual phenomenon. While statements with reference to cosmology are never inspired, such revelations are of immense value in that they at least transiently clarify knowledge by:  
+> Truth may be but relatively inspired, even though revelation is invariably a spiritual phenomenon. While statements with reference to cosmology are never inspired, such revelations are of immense value in that they at least transiently clarify knowledge by:  
 > 
 > 1. The reduction of confusion by the authoritative elimination of error.
 > 2. The co-ordination of known or about-to-be-known facts and observations.

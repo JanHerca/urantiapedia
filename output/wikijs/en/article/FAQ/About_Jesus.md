@@ -61,7 +61,7 @@ But when Jesus had finished his earth life, this name of the Father had been so 
 > I am the light of the world.
 > I am the desire of all ages.
 > I am the open door to eternal salvation.
-> I am the reality of endless life.
+> I am the reality of endless life.
 > I am the good shepherd.
 > I am the pathway of infinite perfection.
 > I am the resurrection and the life.
@@ -96,9 +96,9 @@ In the narrative of Jesus' life, you'll hear Jesus referred to as "Michael" many
 
 ## Can you tell me why Jesus is called Michael?
 
-Parts I-III of The Urantia Book cover your question in detail, Papers 21 and 33 specifically; also Papers 119 and 120 just prior to the "Times of Michaels’s Bestowal" Paper will help you understand these concepts. You can read these Papers on-line beginning here ( [Paper 21](/en/The_Urantia_Book/21); [Paper 33](/en/The_Urantia_Book/33); [Paper 119](/en/The_Urantia_Book/119); [Paper 120](/en/The_Urantia_Book/120)) and can listen to them as you read along from our site.
+Parts I-III of The Urantia Book cover your question in detail, Papers 21 and 33 specifically; also Papers 119 and 120 just prior to the "Times of Michaels’s Bestowal" Paper will help you understand these concepts. You can read these Papers on-line beginning here ( [Paper 21](/en/The_Urantia_Book/21); [Paper 33](/en/The_Urantia_Book/33); [Paper 119](/en/The_Urantia_Book/119); [Paper 120](/en/The_Urantia_Book/120)) and can listen to them as you read along from our site.
 
-Jesus had existed as a person for countless ages before being born here but we haven’t been given his prior name, Jesus being the English form of the name Joseph and Mary gave their baby. Variations of the name Jesus are what we know him by here on Earth. Michael is not his name, it is a title for an order of celestial beings as it has been coined in the English language. The name Michael is attributed to an archangel in the Bible but that’s due to a confusion of the personalities involved.
+Jesus had existed as a person for countless ages before being born here but we haven’t been given his prior name, Jesus being the English form of the name Joseph and Mary gave their baby. Variations of the name Jesus are what we know him by here on Earth. Michael is not his name, it is a title for an order of celestial beings as it has been coined in the English language. The name Michael is attributed to an archangel in the Bible but that’s due to a confusion of the personalities involved.
 
 ## What was the purpose of Jesus' life?
 

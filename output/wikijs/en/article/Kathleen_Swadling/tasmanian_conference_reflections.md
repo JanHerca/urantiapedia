@@ -56,11 +56,11 @@ Urantia Book readers came from all around Australia and two from New Zealand. A 
 
 In the words of Robin Evans, one of the Tasmanian locals:
 
-> _The conference was like climbing into a safe place and refueling; I had been quite separated for some years from my spiritual journey. It was good to meet some locals as well as all the regional folk from Australia and New Zealand and strike up some friendships that I have kept up with._
+> _The conference was like climbing into a safe place and refueling; I had been quite separated for some years from my spiritual journey. It was good to meet some locals as well as all the regional folk from Australia and New Zealand and strike up some friendships that I have kept up with._
 > 
 > _What to say about the conference? Well, it was great; it was big on unity and short on proselytizing so I learned a lot about other readers and their approaches to_ The Urantia Book_. I felt immediately included though I knew no one; it was a bit like what waking up on Mansion World Number One might be, everyone knew me or was willing to._
 > 
-> _I felt energized and invigorated by the conference and I met some wonderful people who I am having ongoing meetings with to read and share with._ _Thanks to everyone that attended, I hope we meet again somewhere here on Urantia…_
+> _I felt energized and invigorated by the conference and I met some wonderful people who I am having ongoing meetings with to read and share with._ _Thanks to everyone that attended, I hope we meet again somewhere here on Urantia…_
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/20160917_154226-150x150.jpg">
@@ -82,13 +82,13 @@ Following is a list of the presentation titles and their presenters:
 - _Teaching and living the religion of Jesus,_ Trevor Swadling
 - _How can we successfully teach the religion of Jesus today?,_ Robert Coenraads
 
-These presentations will gradually be published as study articles and placed on the website.
+These presentations will gradually be published as study articles and placed on the website.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/20160917_205422-150x150.jpg">
 </figure>
 
-In addition to the presentations there were several other engaging events:
+In addition to the presentations there were several other engaging events:
 
 - A break out study session where we all read Paper 159, _The Decapolis Tour_
 - An evening of humorous entertainment where several guys dressed up as apostles and enacted out some private dialogue concerning some of their experiences while _Labouring with the Master in the Fields_. In addition a modern day rendition based on Jesus’ method of dealing with “the young man who was afraid.” In this case it was an enactment of how to deal with a teenage girl who was lonely and confused after running away from home.

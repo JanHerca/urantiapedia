@@ -40,7 +40,7 @@ By Regina Williamson, VIC
 <img src="/image/article/The_Arena/IMG-20220707-WA0005-e1658988774944-300x225.jpg" alt="Regina Williamson">
 </figure>
 
-First my feelings of anticipation: It’s this weekend! I am excited about the whole thing: travel and expo on Saturday and Sunday, a totally new adventure for me. And what will we be doing there? We, meaning Phillip, the project manager, and Bevan and myself as assistants. We will be presenting God’s revelation to the world by sowing seeds!! We will be promoting the Father’s business and spreading the good news of Jesus’ gospel. Thank you, Phillip, for giving us this opportunity.
+First my feelings of anticipation: It’s this weekend! I am excited about the whole thing: travel and expo on Saturday and Sunday, a totally new adventure for me. And what will we be doing there? We, meaning Phillip, the project manager, and Bevan and myself as assistants. We will be presenting God’s revelation to the world by sowing seeds!! We will be promoting the Father’s business and spreading the good news of Jesus’ gospel. Thank you, Phillip, for giving us this opportunity.
 
 Apart from all the above coming true, we also socialised with our Urantia friends and family members. I felt privileged to get to know Colleen, Phillip’s wife and had a wonderful time in their “castle”. I loved it. Thank you, Colleen and Phillip, for your hospitality.
 
@@ -64,7 +64,7 @@ We concluded that expos like this are a great idea, and we should certainly do m
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2022/07/26/reflections-body-mind-psychic-expo
+- [Article of the newsletter online](https://anzura.urantia-association.org/2022/07/26/reflections-body-mind-psychic-expo)
 
 <figure class="table chapter-navigator">
   <table>

@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 September 21-25, 2017
 
-What can be expected when thirteen women gather for a retreat called, _Dancing with God: Emerging in Sacredness?_ From the very moment of arrival at Urantia Foundation, the atmosphere of welcome, appreciation, and joyful anticipation was palpable. Thank you for the feminine touches, Joanne, Jen, and Tamara at 533!
+What can be expected when thirteen women gather for a retreat called, _Dancing with God: Emerging in Sacredness?_ From the very moment of arrival at Urantia Foundation, the atmosphere of welcome, appreciation, and joyful anticipation was palpable. Thank you for the feminine touches, Joanne, Jen, and Tamara at 533!
 
 It was in a milieu of trust created on the second floor of the Foundation that thirteen women, all students of _The Urantia Book_, gathered for this special time. The retreat facilitators used the Fishbowl method of conversation, in which leaders sit in the middle of the circle and begin a conversation that the outer circle later joins into. We contemplated and delved into two questions: How do I become aware of the sacred in the drudgery of everyday life? And how do we as women emerge in sacredness?
 
