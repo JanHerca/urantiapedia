@@ -1,5 +1,5 @@
 ---
-title: "-Defining Spiritual Service"
+title: "Defining Spiritual Service"
 description: "A Look Back Gives Thought For the Future"
 published: true
 date: 2023-10-29T10:55:6Z

@@ -50,7 +50,7 @@ The golden rule is itself subject to incomplete interpretation. To some, it is t
 
 ## Religion
 
-Jesus touched on the final significance of the golden rule in giving his new commandment to the apostles, an application of this cosmic principle to the challenge of establishing a spiritual identity in a secular world. love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another."
+Jesus touched on the final significance of the golden rule in giving his new commandment to the apostles, an application of this cosmic principle to the challenge of establishing a spiritual identity in a secular world: “love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another.”
 
 Jesus did not instruct his disciples in a system of fixed beliefs or rituals but in the expression of living faith. Belief fixates, faith liberates. Beliefs may become group possessions, but faith must be personal. The institutionalization of any religion curtails its power for good, while multiplying the possibilities for evil. Yet organized group function has ever been required for survival of a religion. True religionists must effect cooperation on the basis of unity of ideals and purposes, rather than on the basis of psychological opinions and theological beliefs. There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members.
 

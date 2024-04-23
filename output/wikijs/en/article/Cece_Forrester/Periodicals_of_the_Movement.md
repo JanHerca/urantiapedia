@@ -36,7 +36,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Cece Forrester, Chicago, Ill._
 
-_In the inaugural issue of the STUDY GROUP HFRALD, we listed names and addresses of known periodicals for Urantia Book Readers. In this and future columns, we roill publish updates and new information supplied to us. In each issue we will also bring you a close-up of one periodical and its publishers, together with reprints of selected articles._
+_In the inaugural issue of the STUDY GROUP HERALD, we listed names and addresses of known periodicals for Urantia Book Readers. In this and future columns, we roill publish updates and new information supplied to us. In each issue we will also bring you a close-up of one periodical and its publishers, together with reprints of selected articles._
 
 ## Updates
 

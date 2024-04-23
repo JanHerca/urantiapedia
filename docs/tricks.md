@@ -265,6 +265,9 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 - `Capernaúm` or `Capernaum` instead of `Cafarnaúm`
 - `Nazareth` instead of `Nazaret`
 
+
+### To remove navigation headers remove this (with and without three lines `\n(.+)`)
+
 <figure class="table chapter-navigator">\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n(.+)\n</figure>\n
 
 ### Replacements
@@ -317,14 +320,10 @@ Comunidad|Fellowship
 confraternidad|Fellowship
 la beca|la Fellowship
 beca|Fellowship
-Beca|Fellowship
+**Beca**|Fellowshi
 fundación|Fundación
- El Libro de Urantia | _El Libro de Urantia_ 
- El Libro de Urantia\.| _El Libro de Urantia_.
- El Libro de Urantia,| _El Libro de Urantia_,
- El libro de Urantia | _El Libro de Urantia_ 
- El libro de Urantia\.| _El Libro de Urantia_.
-^El Libro de Urantia |_El Libro de Urantia_ 
+ El [L|l]ibro de Urantia([ |\.|,|;|:|\?|!])| _El Libro de Urantia_$1
+^El [L|l]ibro de Urantia([ |\.|,|;|:|\?|!])| _El Libro de Urantia_$1
 Porcelana|China
 síndico|fideicomisario
 Síndico|fideicomisario
@@ -334,5 +333,6 @@ UrANTIA|URANTIA
 'El Libro de URANTIA'|‘El Libro de URANTIA’
 Cotización|Cita
 <br estilo=«claro:ambos;»/>|<br style="clear:both;"/>
+estilo=«claro:ambos;»|style="clear:both;"
 
 &nbsp; 

@@ -64,7 +64,7 @@ During that time many decisions on how to reorganize the economy were adopted. R
 
 The process of liberalization in Lithuania's economy is occurring in two directions. First, the change of the scope of activity to a free market economy and, second, the establishment of new institutions and laws needed for this market economy.
 
-Lithuania has signed a Free Trade Agreement with foreign countries and has become an associate member of the EU. Lithuania is obliged to adjust its law and economic system according to the free market economy model until 1999. So our first goal is integration into the $\mathrm{EU}$, as determined by our geographical location and political situation.
+Lithuania has signed a Free Trade Agreement with foreign countries and has become an associate member of the EU. Lithuania is obliged to adjust its law and economic system according to the free market economy model until 1999. So our first goal is integration into the UE, as determined by our geographical location and political situation.
 
 ## The Spiritual Sphere in Lithuania
 

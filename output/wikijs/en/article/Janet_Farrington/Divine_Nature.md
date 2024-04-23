@@ -62,14 +62,14 @@ surrounded by inspiring scenes
 endless dreams unfold.
 
 Beauty transcends normal vision
- human finds divine
+human finds divine
 flowing tree befween dimensions 
 blurring nature's line.
 
-Periection paints amazing grace 
+Perfection paints amazing grace 
 brushing rocks with truth 
 upon the canvas nature wears 
-beaury offers proof.
+beauty offers proof.
 
 Divinity embraces all 
 world and mind converge,

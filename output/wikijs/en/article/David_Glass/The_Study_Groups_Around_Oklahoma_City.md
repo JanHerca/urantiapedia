@@ -38,7 +38,7 @@ _Reported by David Glass, Fort Worth, Texas_
 
 > “_Then Jesus spoke, saying: ‘Now that you are ambassadors of my Father's kingdom, you have become a class of men separate and distinct from all other men on earth. You are not now as men among men but as the enlightened citizens of another and heavenly country among the ignorant creatures of this dark world. It is not enough that you live as you were before this hour, but henceforth must you live as those who have tasted the glories of a better life and have been sent back to earth as ambassadors of the sovereign of that new and better world’._” <a id="a38_554"></a>[UB 140:3.1](/en/The_Urantia_Book/140#p3_1)
 
-**The First Society Of Oklahoma**
+## The First Society Of Oklahoma
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Oklahoma.jpg">
