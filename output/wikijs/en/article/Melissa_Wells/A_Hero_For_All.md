@@ -63,7 +63,7 @@ When I read in _The Urantia Book_ of the difficulties Jesus faced while raising 
 
 When I lost my job and faced the challenge of finding another position, with no real positive leads and two children absolutely dependent upon me for their well being, again it helped to have my hero to look to for guidance and inspiration.
 
-“Apparently all Jesus' plans for a career were thwarted. The future did not look bright as matters now developed. But he did not falter; he was not discouraged. He lived on, day by day, doing well the present duty and faithfully discharging the immediate responsibilities of his station in life." (page 1393)
+> “Apparently all Jesus' plans for a career were thwarted. The future did not look bright as matters now developed. But he did not falter; he was not discouraged. He lived on, day by day, doing well the present duty and faithfully discharging the immediate responsibilities of his station in life.” ([UB 126:5.4](/en/The_Urantia_Book/126#p5_4))
 
 The manner in which my next job - the beginning of a true career - unfolded relayed that my hero and his helpers had a hand in that important next step of my life.
 
