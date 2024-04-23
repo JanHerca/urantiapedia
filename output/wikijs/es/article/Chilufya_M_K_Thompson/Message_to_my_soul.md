@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Chilufya M.K. Thompson<br>© 1991 La comunidad para lectores de El libro de Urantia</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Chilufya M.K. Thompson<br>© 1991 La Fellowship para lectores de El libro de Urantia</p>
 
 
 Damos la bienvenida a la correspondencia de lectores de todo el mundo. Comparte con nosotros tus inspiraciones y tus ideas, tus estudios y tus redes sociales. Escribe: Editor internacional, Chilufja M.K. Thompson, PO. Box 22620, Kitwe, Zambia.

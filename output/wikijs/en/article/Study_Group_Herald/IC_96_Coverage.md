@@ -34,7 +34,7 @@ dateCreated: 2023-10-23T10:55:6Z
 </figure>
 
 
-_Over 1,000 people came from the far corners of the globe for IC 96. The campus at Northern Arizona University was aglow for one week in August with creative expression, stimulating thought, wholesome worship and explorations in harmony. And, yes, there was great music and plenty of singing. In this issue of the Herald, we are publishing three of the four plenary presentations along with a presentation by a reader of _The Urantia Book_ who lives in Vilnius, Lithuania. Throughout this magazine, you'll see beautiful mandalas that were created for the Pattern series of workshops presented at IC 96. We have such limited space to share all that happened at IC 96. The best we can do is provide a glimpse of this rich experience._
+_Over 1,000 people came from the far corners of the globe for IC 96. The campus at Northern Arizona University was aglow for one week in August with creative expression, stimulating thought, wholesome worship and explorations in harmony. And, yes, there was great music and plenty of singing. In this issue of the Herald, we are publishing three of the four plenary presentations along with a presentation by a reader of_ The Urantia Book _who lives in Vilnius, Lithuania. Throughout this magazine, you'll see beautiful mandalas that were created for the Pattern series of workshops presented at IC 96. We have such limited space to share all that happened at IC 96. The best we can do is provide a glimpse of this rich experience._
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/IC_logo.jpg">

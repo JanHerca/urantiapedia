@@ -13,7 +13,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 Por Dan Massey
 
-<p estilo=«text-align: centro»>
+<p style="text-align: center">
 En la eternidad...<br>
 En la eternidad en el centro absoluto del infinito...<br>
 En la eternidad en el centro absoluto del infinito hay una cosa.<br>

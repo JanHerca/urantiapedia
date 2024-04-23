@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Francyl Streano Gawryn<br>© 1992 La comunidad para lectores de El libro de Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Francyl Streano Gawryn<br>© 1992 La Fellowship para lectores de El libro de Urantia</p>
 
 
 > Nota del Editor: _Esta columna está dedicada a informar sobre los rituales y celebraciones utilizados por los lectores del Libro de Urantia y sus familias. Es un placer compartir unos con otros las muchas alegrías de la vida. Considere escribir sobre sus celebraciones y rituales familiares especiales para esta columna y envíelos (¡junto con fotografías!) al Editor de vida familiar._

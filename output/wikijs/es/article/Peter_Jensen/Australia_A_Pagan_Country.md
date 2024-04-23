@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Dr. P. Jensen<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p >
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Dr. P. Jensen<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

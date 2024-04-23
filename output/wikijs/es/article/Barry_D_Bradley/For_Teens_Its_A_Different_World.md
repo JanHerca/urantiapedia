@@ -55,7 +55,7 @@ J.D. tiene 18 años. Proviene de una familia mestiza. Se encontró a sí mismo (
 
 Lo que sigue es una transcripción editada de esas entrevistas individuales.
 
-HERALDO DEL GRUPO DE ESTUDIO: ¿Crees que es más difícil para los adolescentes crecer en los años 90 que para las generaciones anteriores?
+_The STUDY GROUP HERALD_: ¿Crees que es más difícil para los adolescentes crecer en los años 90 que para las generaciones anteriores?
 
 BECKY: Sí. Hay nuevos problemas que afrontar. Hay toda esta deuda y todo el mundo se preocupa por todo. Y los adultos sienten la presión y a veces se desquitan con nosotros.
 

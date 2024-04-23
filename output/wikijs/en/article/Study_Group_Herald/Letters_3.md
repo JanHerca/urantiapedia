@@ -302,7 +302,7 @@ You may be familiar with E.D. Hirch's books about cultural literacy. In these yo
 
 So I have gotten together with a number of people, in writing and locally, and we are working on a “Hedge School Anthology.” For over a hundred years, when education was forbidden in Ireland, those courageous people educated their children behind the hedges. When my great, great grandfather came to this country during the potatoe famine, he not only knew reading, writing, math, and history but catechism and Latin. All learned in secret. Parents can provide for their children if they've a mind to.
 
-What should be in such an anthology? I wel. come any suggestions. Though I have, as usual. the specific needs of Catholics in mind, I hope to be more honest than Hirsch about the genuine religious motivations of men throughout history and all over the world. As you know, the Urantia revelation transforms one's perception of everything.
+What should be in such an anthology? I welcome any suggestions. Though I have, as usual. the specific needs of Catholics in mind, I hope to be more honest than Hirsch about the genuine religious motivations of men throughout history and all over the world. As you know, the Urantia revelation transforms one's perception of everything.
 
 Perhaps this project will interest some readers. Love,
 

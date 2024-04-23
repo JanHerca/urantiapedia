@@ -32,7 +32,7 @@ dateCreated: 2023-10-23T10:55:6Z
 </figure>
 
 
-## Announcerent
+## Announcements
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 The Fellowship for readers of The Urantia Book</p>
 

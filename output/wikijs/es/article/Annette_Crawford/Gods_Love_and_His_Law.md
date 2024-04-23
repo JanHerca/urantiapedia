@@ -13,7 +13,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Notas del grupo de estudio recopiladas por Annette Crawford, Deinver, Colorado._
 
-> Ed. Nota: _El ministerio de misericordia, la manera divina de criarnos a los hijos en una realidad que consiste tanto en ley como en amor es precisamente lo que hace posible nuestra vida evolutiva, experiencial y ascendente. Este estudio brinda la oportunidad de contemplar la asombrosa complejidad de nuestra experiencia de la relatividad en un universo cuyo fundamento es la perfección absoluta y cuyo destino es la finalidad como individuos, la supremacía como compleción evolutiva total y la ultimidad de la fruición divina._
+> Nota del Ed.: _El ministerio de misericordia, la manera divina de criarnos a los hijos en una realidad que consiste tanto en ley como en amor es precisamente lo que hace posible nuestra vida evolutiva, experiencial y ascendente. Este estudio brinda la oportunidad de contemplar la asombrosa complejidad de nuestra experiencia de la relatividad en un universo cuyo fundamento es la perfección absoluta y cuyo destino es la finalidad como individuos, la supremacía como compleción evolutiva total y la ultimidad de la fruición divina._
 > 
 > Este estudio presenta una visión verdaderamente hermosa del panorama del ministerio de misericordia y la ley divina inmutable.
 {.is-info}

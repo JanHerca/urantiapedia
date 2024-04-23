@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Jean Ramsay<br>© 1993 La comunidad para lectores de El libro de Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Jean Ramsay<br>© 1993 La Fellowship para lectores de El libro de Urantia</p>
 
 
 _Por Jean Ramsay_
