@@ -60,7 +60,7 @@ In this regard, it is worth noting that the members of the Planetary Prince’s 
 
 As a result of their lack of adjusters, sixty of the one hundred members of Caligastis’s staff fell into rebellion. Unlike the 187,432,811 on Jerusem who still retained their adjusters, they did not have the extra guidance which their adjusters would have provided, and so they fell. This was a tragedy for them, and their situation remains unclear. Their adjusters wait on Jerusem.
 
-> _When the staff of one hundred came to Urantia, they were temporarily detached from their Thought Adjusters. Immediately upon the arrival of the Melchizedek receivers the loyal personalities (except Van) were returned to Jerusem and were reunited with their waiting Adjusters. We know not the fate of the sixty staff rebels; their Adjusters still tarry on Jerusem. Matters will undoubtedly rest as they now are until the entire Lucifer rebellion is finally adjudicated and the fate of all participants decreed._ <a id="a62_514"></a>[UB 67:4.6](/en/The_Urantia_Book/67#p4_6)
+> _When the staff of one hundred came to Urantia, they were temporarily detached from their Thought Adjusters. Immediately upon the arrival of the Melchizedek receivers the loyal personalities (except Van) were returned to Jerusem and were reunited with their waiting Adjusters. We know not the fate of the sixty staff rebels; their Adjusters still tarry on Jerusem. Matters will undoubtedly rest as they now are until the entire Lucifer rebellion is finally adjudicated and the fate of all participants decreed._ <a id="a62_514"></a>[UB 67:4.5](/en/The_Urantia_Book/67#p4_5)
 
 The situation will only be clarified when the ramifications of the rebellion are disposed of.
 

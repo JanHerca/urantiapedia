@@ -187,8 +187,8 @@ Having a mighty Friend — forever — amazing!!
 
 ## References
 
-- Newsletter: https://anzura.urantia-association.org/newsletter/arena-winter-2023/
-- The original PDF: http://anzura.urantia-association.org/wp-content/uploads/sites/3/2023/06/Too-Deep-for-Words-Rita-Schaad.pdf
+- [Newsletter](https://anzura.urantia-association.org/newsletter/arena-winter-2023/)
+- [The original PDF](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2023/06/Too-Deep-for-Words-Rita-Schaad.pdf)
 
 <figure class="table chapter-navigator">
   <table>

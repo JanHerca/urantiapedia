@@ -46,7 +46,7 @@ _(Presented at the October 2020 online ANZURA conference)_
 
 COVID 19 has put the entire world through a period of great challenge. One of the reasons a virus like this is such a challenge is because it affects peoples’ lives in a very mortal sense. The threat of dying suddenly raises deep anxiety in people. They think, am I ready? Am I prepared? What about those I leave behind? Have I done enough to earn my place in the ascension scheme? While others are more worried about their government placing limiting sanctions on their freedom. There is also great concern about how the extended lockdowns have impacted our economic life.
 
-In short, this COVID 19 episode has threatened modern society with the **uncertainties of life**. _The Urantia Book_ tells us that, _All creature life is beset by certain inevitabilities._ (3:5.5) We cannot avoid the vicissitudes of existence, nor the uncertainties of life.
+In short, this COVID 19 episode has threatened modern society with the **uncertainties of life**. _The Urantia Book_ tells us that, _All creature life is beset by certain inevitabilities._ ([UB 3:5.5](/en/The_Urantia_Book/3#p5_5)) We cannot avoid the vicissitudes of existence, nor the uncertainties of life.
 
 We live in an imperfect world and sometimes bad things happen but _The Urantia Book_ tells us that these uncertainties and vicissitudes provide us mortals with the opportunities to develop qualities such as, courage, hope, faith, idealism, loyalty and unselfishness. Challenging times such as these can often ripen in us the “Fruits of the Spirit.” So, I would like you to consider that, because of COVID 19, we have the possibility of implementing changes for a better future once all this has passed.
 

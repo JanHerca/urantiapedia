@@ -75,7 +75,7 @@ But, we must also remember:
 
 There are many ways we humans try to overcome disease, so efficacious and some not, but during Jesus’ third preaching tour, there was a thoroughgoing discussion on the whole subject of human superstition and one of the things Jesus said was:
 
-> _Charms and relics are impotent to heal disease, ward off disaster, or influence evil spirits; the belief in all such material means of influencing the spiritual world is nothing but gross._ <a id="a77_193"></a>[UB 150:3.7](/en/The_Urantia_Book/150#p3_7)
+> _Charms and relics are impotent to heal disease, ward off disaster, or influence evil spirits; the belief in all such material means of influencing the spiritual world is nothing but gross._ <a id="a77_193"></a>[UB 150:3.6](/en/The_Urantia_Book/150#p3_6)
 
 ## 3. The Influence (or lack of) of Adam and Eve on Our Health
 
