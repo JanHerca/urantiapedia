@@ -77,7 +77,7 @@ There is an action that operates above and beyond these essential commitments. B
 
 > _**Such spirit-born individuals are so re-motivated** in life that they can calmly stand by while their fondest ambitions perish and their keenest hopes crash;_ <a id="a77_163"></a>[[UB 100:2.8](/en/The_Urantia_Book/100#p2_8) emphasis mine]
 
-> If you would be **led by this spirit** from above, very soon would you begin to see with the eyes of the spirit, and then by the **wholehearted choice of spirit guidance would you be born of  the spirit** since your only purpose in living would be **to do** the will of your Father who is in heaven. <a id="a79_302"></a>[[UB 142:6.6](/en/The_Urantia_Book/142#p6_6) emphasis mine]
+> If you would be **led by this spirit** from above, very soon would you begin to see with the eyes of the spirit, and then by the **wholehearted choice of spirit guidance would you be born of  the spirit** since your only purpose in living would be **to do** the will of your Father who is in heaven. <a id="a79_302"></a>[[UB 142:6.7](/en/The_Urantia_Book/142#p6_7) emphasis mine]
 
 ## Living Faith is Doing
 
@@ -103,9 +103,9 @@ We need to proceed on all fronts to encounter/create situations that will provid
 
 > _…the teachers of this new religion are now equipped with spiritual weapons. They are **to go out to conquer the****world with unfailing forgiveness, matchless good will,****and abounding love.**._ <a id="a103_200"></a>[[UB 194:3.11](/en/The_Urantia_Book/194#p3_11) emphasis mine]
 
-> _The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and **loving**_ **_service in unselfish ministry to one’s fellow creatures**_. <a id="a105_233"></a>[[UB 91:7.2](/en/The_Urantia_Book/91#p7_2) emphasis mine]
+> _The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and_ **loving** **service in unselfish ministry to one’s fellow creatures**. <a id="a105_233"></a>[[UB 91:7.1](/en/The_Urantia_Book/91#p7_1) emphasis mine]
 
-> _The motivation of faith makes experiential the full realization of man’s sonship with God, **but action**, **completion of decisions**, is essential to the evolutionary attainment of consciousness of progressive kinship with the cosmic actuality of the Supreme Being._ <a id="a107_272"></a>[[UB 110:6.12](/en/The_Urantia_Book/110#p6_12) emphasis mine]
+> _The motivation of faith makes experiential the full realization of man’s sonship with God, **but action**, **completion of decisions**, is essential to the evolutionary attainment of consciousness of progressive kinship with the cosmic actuality of the Supreme Being._ <a id="a107_272"></a>[[UB 110:6.17](/en/The_Urantia_Book/110#p6_17) emphasis mine]
 
 > _The religion of Jesus demands **living and spiritual experience**._ <a id="a109_71"></a>[[UB 160:5.12](/en/The_Urantia_Book/160#p5_12) emphasis mine]
 
@@ -117,7 +117,7 @@ Remember life is all about decisions and more decisions. We must be prepared to 
 
 > Mortals live in God, and so God has willed to live in mortals. **As men trust themselves to him, so has he—and first—trusted a part of himself to be with men**…_ <a id="a117_164"></a>[[UB 111:5.3](/en/The_Urantia_Book/111#p5_3) emphasis mine]
 
-> Jesus taught that, **by faith**, the believer enters the kingdom now_._ <a id="a119_74"></a>[[UB 170:2.12](/en/The_Urantia_Book/170#p2_12) emphasis mine]
+> Jesus taught that, **by faith**, the believer enters the kingdom now_._ <a id="a119_74"></a>[[UB 170:2.20](/en/The_Urantia_Book/170#p2_20) emphasis mine]
 
 So how do we do _take_ faith steps? Steps that might help us hand over to God, to trust in the Father?
 

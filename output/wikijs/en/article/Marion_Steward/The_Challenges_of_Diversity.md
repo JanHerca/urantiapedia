@@ -64,7 +64,7 @@ A consideration of this fact highlights the incredible range of variation that i
 
 The Creator Sons and their local universes continue this theme.
 
-> _…each [Creator Son] is unique, diverse, exclusive, and original in nature as well as in personality. And since they are the architects and makers of the life plans of their respective realms, this very diversity insures that their domains will also be diverse in every form and phase of Michael-derived living existence which may be created or subsequently evolved therein._ <a id="a66_378"></a>[UB 21:2.9](/en/The_Urantia_Book/21#p2_9)
+> _…each [Creator Son] is unique, diverse, exclusive, and original in nature as well as in personality. And since they are the architects and makers of the life plans of their respective realms, this very diversity insures that their domains will also be diverse in every form and phase of Michael-derived living existence which may be created or subsequently evolved therein._ <a id="a66_378"></a>[UB 21:2.10](/en/The_Urantia_Book/21#p2_10)
 
 It is clear that all the spiritual beings created to run our universe, and every other living creature on every planet,  will be a bit different to each other, and different from equivalent beings in other local universes.
 
@@ -111,17 +111,17 @@ Creature-trinitized sons are an extraordinary example of the constant diversific
 
 And all of this diversification is a never-ending process.
 
-> _And it is altogether possible that the continued diversification of the original reality of the First Source and Center may proceed onward and outward throughout age upon age, on and one, into the faraway and inconceivable stretches of absolute infinity_ <a id="a113_258"></a>[UB 105:7.8](/en/The_Urantia_Book/105#p7_8).
+> _And it is altogether possible that the continued diversification of the original reality of the First Source and Center may proceed onward and outward throughout age upon age, on and one, into the faraway and inconceivable stretches of absolute infinity_ <a id="a113_258"></a>[UB 105:7.18](/en/The_Urantia_Book/105#p7_18).
 
 ## The Never-ending Adventure
 
 So God creates the universe to be richly and eternally diverse, and intentionally ensures that each living being of the uncountable and ever increasing number of beings in unique in some way, then also ensures that these beings, particularly the mortal ascendant ones, are required to learn how to work together to achieve group goals and tasks.
 
-> _One of the most important lessons to be learned during your mortal career is teamwork.  The spheres of perfection are manned by those who have mastered this art of working with other beings_ <a id="a119_194"></a>[UB 28:5.3](/en/The_Urantia_Book/28#p5_3).
+> _One of the most important lessons to be learned during your mortal career is teamwork.  The spheres of perfection are manned by those who have mastered this art of working with other beings_ <a id="a119_194"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14).
 
 Luckily, guides and teachers are also provided, as this is quite a daunting task.  On the planets and the mansion worlds, there are racial interpreters and race commissioners.
 
-> _On the worlds of time the seraphic racial interpreters further the efforts of the race commissioners to harmonise the varied viewpoints of the races, and they continue to function on the mansion worlds, where these same differences tend to persist in a measure_ <a id="a123_265"></a>[UB 48:6.2](/en/The_Urantia_Book/48#p6_2).
+> _On the worlds of time the seraphic racial interpreters further the efforts of the race commissioners to harmonise the varied viewpoints of the races, and they continue to function on the mansion worlds, where these same differences tend to persist in a measure_ <a id="a123_265"></a>[UB 48:6.22](/en/The_Urantia_Book/48#p6_22).
 
 Even after fusion with our Adjusters, this process of learning to work with others continues.  Post-fusion, an ascending mortal is described as “a candidate for further growth and development” (112:7.9, 123.4).
 
@@ -129,11 +129,11 @@ A key part of this further growth appears to be the continuing training in worki
 
 > _[On Jerusem] you achieved the willingness to submit the self to the disciplines of group activities and co-ordinated undertakings; but now on the constellation training worlds you are to achieve the real socialization of your evolving morontial personality_ <a id="a129_261"></a>[UB 43:8.4](/en/The_Urantia_Book/43#p8_4).
 
-This paper gives a very detailed description of this training, which is conducted by the Univitatia, children of the Creator Son and the Creative Spirit.  There are, naturally, 70 diverse orders of personality of Univitatia, and their purpose is to preside over the special training and cultural schools on the Edentia training worlds. Our training consists of a series of placements among Univitatia. We must “live happily and work effectively” with 10 univitatia, at first, and then over time more of our fellow morontial mortals join us until there are finally 10 morontial mortals and 10 univitatia in the same group, who are all abiding joyfully and co-operating heartily! (43:8.1 and 494.1-7). This section refers quite realistically to the need to improve our ability to live with diverse beings with “ever-lessening irritability and ever-diminishing resentment”. It is not difficult to project this experience on to Havona and then our adventures as finaliters, bearing in mind that we are never sent back to the same superuniverse we came from, and each superuniverse is different from the others.
+This paper gives a very detailed description of this training, which is conducted by the Univitatia, children of the Creator Son and the Creative Spirit.  There are, naturally, 70 diverse orders of personality of Univitatia, and their purpose is to preside over the special training and cultural schools on the Edentia training worlds. Our training consists of a series of placements among Univitatia. We must “live happily and work effectively” with 10 univitatia, at first, and then over time more of our fellow morontial mortals join us until there are finally 10 morontial mortals and 10 univitatia in the same group, who are all abiding joyfully and co-operating heartily! ([UB 43:8.1](/en/The_Urantia_Book/43#p8_1)). This section refers quite realistically to the need to improve our ability to live with diverse beings with “ever-lessening irritability and ever-diminishing resentment”. It is not difficult to project this experience on to Havona and then our adventures as finaliters, bearing in mind that we are never sent back to the same superuniverse we came from, and each superuniverse is different from the others.
 
 ## The Challenges of Diversity on Urantia
 
-In the section on the different coloured races on Urantia, and on other planets, one of the stated reasons for doing it this way is “the development of human tolerance and altruism” (64:31, 726. 3&4).
+In the section on the different coloured races on Urantia, and on other planets, one of the stated reasons for doing it this way is “the development of human tolerance and altruism” ([UB 64:6.34](/en/The_Urantia_Book/64#p6_34)).
 
 Elsewhere it is also stated that the material-comfort era in which we live is often characterized by intolerance (<a id="a137_114"></a>[UB 50:5.3](/en/The_Urantia_Book/50#p5_3)).
 

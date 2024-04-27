@@ -24,7 +24,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
           <span class="pr-2">Where are the Daughters of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -132,7 +132,7 @@ I keep thinking it is about Jesus’ mission to sow the seeds – the Gospel –
         </a>
         </td>
         <td>
-        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
           <span class="pr-2">Where are the Daughters of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

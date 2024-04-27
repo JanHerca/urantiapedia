@@ -129,7 +129,7 @@ He named himself the Son of Man, and the Son of God.
 
 The Universe is teeming with Sons of God, starting with the Eternal Son, then all the descending Sons, the Paradise Sons of God—Creator Sons, Magisterial Sons, and Trinity Teacher Sons; then the Local Universe Sons of God–Melchizedek Sons, Vorondadek Sons, Lanonandek Sons, and the Life Carriers; and numerous, unrevealed orders of Trinitized Sons.  Then we have the ascending Sons—Father-fused, Son-fused and Spirit-fused mortals, evolutionary seraphim, ascending Material Sons, Translated Midwayers, personalized Adjusters.
 
-[Read more](/en/article/Marion_Steward/Where_are_the_Daughters_of_God)
+[Read more](/en/article/Marion_Steward/Where_are_the_Daughters_of_God_2)
 <br style="clear:both;"/>
 
 ## Editor’s Notebook

@@ -68,7 +68,7 @@ In David Kantor’s script for his upcoming movie presentation to theologians an
 
 The crisis of Christianity is, by extension, the crisis of Western Civilization. Every culture, every civilization that we know of has been held together by values derived from shared stories about the gods and their relationship to humanity. The post-enlightenment West is the first civilization that we know of to abandon its foundational stories, forsake its dependence on God, and attempt to go it alone. 
 
-Is this the end of Western civilisation or is there hope of a renaissance. To be honest, it’s not looking that good out there, especially on the spiritual front. We will probably have to wait for the “end of the current ideological struggle” before people are ready to accept the truths of Jesus found in _The Urantia Book_. But rest assured, the teachings of Jesus will not fail! Maybe it could be through a unique musician. “But be not discouraged; someday a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. … It is literally true, “melody has power a whole world to transform.” (p.500:6)
+Is this the end of Western civilisation or is there hope of a renaissance. To be honest, it’s not looking that good out there, especially on the spiritual front. We will probably have to wait for the “end of the current ideological struggle” before people are ready to accept the truths of Jesus found in _The Urantia Book_. But rest assured, the teachings of Jesus will not fail! Maybe it could be through a unique musician. “But be not discouraged; someday a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. … It is literally true, “melody has power a whole world to transform.” ([UB 44:1.15](/en/The_Urantia_Book/44#p1_15))
 
 Yet we can experience this sublime truth right here and now. Again, that wonderful quote from UB 100:6.6 “One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil” <a id="a72_314"></a>[UB 100:6.6](/en/The_Urantia_Book/100#p6_6)
 
@@ -80,35 +80,35 @@ In Peter DeCamp’s study aid “The Entities, Beings and Personalities of _The 
 
 I believe the song writer got it right when they penned these beautiful lyrics: –
 
-**I come to the garden alone,
+I come to the garden alone,
 While the dew is still on the roses;
 And the voice I hear, falling on my ear,
 The Son of God discloses.
 
-_And He walks with me, and He talks with me,
+And He walks with me, and He talks with me,
 And He tells me I am His own,
 And the joy we share as we tarry there,
-None other has ever known._
+None other has ever known.
 
 He speaks, and the sound of His voice
 Is so sweet the birds hush their singing;
 And the melody that He gave to me
 Within my heart is ringing.
 
-_And He walks with me, and He talks with me,
+And He walks with me, and He talks with me,
 And He tells me I am His own,
 And the joy we share as we tarry there,
 None other has ever known.
-_
+
 I’d stay in the garden with Him
 Tho’ the night around me be falling;
 But He bids me go; through the voice of woe,
 His voice to me is calling.
 
-_And He walks with me, and He talks with me,
+And He walks with me, and He talks with me,
 And He tells me I am His own,
 And the joy we share as we tarry there,
-None other has ever known._**  
+None other has ever known.
 
 We should be filled with joy. We should try to share this joy with everybody we come in contact with. Then will people inquire of us the source of our joy and happiness. Jesus of course was a master at this. Just his countenance and demeanour were enough to draw men and women unto him.
 

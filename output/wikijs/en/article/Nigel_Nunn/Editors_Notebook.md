@@ -14,7 +14,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Daughters of God?</span>
         </a>
         </td>
@@ -61,7 +61,7 @@ In the _study group_, and by means of _The Urantia Book_, they have put in place
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Daughters of God?</span>
         </a>
         </td>
