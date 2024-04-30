@@ -35,7 +35,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 
-_Grupo de Estudio de la Costa del Sol_
+_Grupo de Estudio de la Sunshine Coast_
 
 Muchos acontecimientos de este siglo han sonado como una advertencia siniestra sobre los peligros inherentes que enfrentan los individuos cuando se los somete a presiones que surgen dentro de los grupos sociales. Algunos ejemplos son: los excesos que se derivaron del paradigma nietzschiano de raza superior impuesto al pueblo alemán por sus líderes nazis; el comportamiento kamikaze de las tropas y aviadores japoneses; la irracional sumisión de los jóvenes a las presiones de sus pares respecto de hábitos potencialmente nocivos (fumar, consumir drogas), o la idea de que la condición de virginidad es vergonzosa, lo que puede llevar a la consiguiente exposición de mentes y cuerpos inmaduros a los peligros del embarazo, el SIDA, y enfermedades venéreas. Más espectacularmente, han habido resultados extraños relacionados con ministerios religiosos como el del Reverendo Jones, cuyo rebaño se suicidó en masa tomando cianuro, o el reciente holocausto resultante del asunto Waco.
 
