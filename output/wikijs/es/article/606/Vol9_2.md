@@ -58,7 +58,7 @@ Cambiar Urantia comienza con cambiar primero las actitudes en nosotros mismos. U
 
 Hace algún tiempo, mientras experimentaba con la adoración en grupo con algunos otros lectores, me sorprendió una aparente incongruencia en lo que estábamos intentando. Nos turnábamos para hablar con Dios en nombre del grupo, y estaba claro que todos le pedíamos a Dios que hiciera algo, con la esperanza de que de ese modo Él sería influenciado para hacer algo que de otro modo no habría hecho. Por ejemplo, le pedíamos a Dios que nos diera la sabiduría para comprender una determinada situación, esperando que esta oración de alguna manera hiciera que Él nos «dara» la sabiduría que buscamos, algo que Él no habría hecho sin nuestra oración. En otras palabras, esperábamos que Dios fuera influenciado por nuestra oración para apartarse de su hábito normal y hacer algo que de otro modo no habría hecho.
 
-[Leer más](/es/article/Willian_Wentworth/Group_worship)
+[Leer más](/es/article/William_Wentworth/Group_worship)
 
 Willian Wentworth, Towamba, Nueva Gales del Sur.
 

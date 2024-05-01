@@ -56,11 +56,11 @@ A continuación se presentan las diferencias tabuladas en las fechas:
 | 29 de septiembre | 6 de octubre | 7 |
 | 5 de diciembre | 1 de diciembre | 4 |
 
-Libro de URANTIA (1955) | Bretagnon & Simon (1986) | Diferencia (días) |
+| Libro de URANTIA (1955) | Bretagnon & Simon (1986) | Diferencia (días) |
 | :--- | :--- | :--- |
-29 de mayo | 29 de mayo | 0
-29 de septiembre | 30 de septiembre | 1
-5 de diciembre | 5 de diciembre | 0
+| 29 de mayo | 29 de mayo | 0 |
+| 29 de septiembre | 30 de septiembre | 1 |
+| 5 de diciembre | 5 de diciembre | 0 |
 
 Es notable que los nuevos cálculos coincidan tan estrechamente con el texto de URANTIA. La única excepción es la fecha calculada del 30 de septiembre y lo que figura en el texto como 29 de septiembre. Una posible explicación para esta discrepancia puede ser metodológica. En 'Computing the Star of Bethlehem', Sinnott afirma:
 

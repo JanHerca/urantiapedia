@@ -38,7 +38,7 @@ Changer Urantia commence par changer nos attitudes en nous-mêmes. Un léger cha
 
 Il y a quelque temps, alors que j'expérimentais le culte de groupe avec quelques autres lecteurs, j'ai été frappé par une apparente incongruité dans ce que nous essayions. Nous parlions à Dieu à tour de rôle au nom du groupe, et il était clair que nous demandions tous à Dieu de faire quelque chose, dans l'espoir qu'il serait ainsi influencé à faire quelque chose qu'il n'aurait pas fait autrement. Par exemple, nous demandions à Dieu de nous donner la sagesse nécessaire pour comprendre une certaine situation, en espérant que cette prière l’amènerait d’une manière ou d’une autre à nous « donner » la sagesse recherchée – quelque chose qu’Il n’aurait pas fait sans notre prière. En d’autres termes, nous nous attendions à ce que Dieu soit influencé par notre prière pour s’écarter de son habitude normale et faire quelque chose qu’Il n’aurait pas fait autrement.
 
-[Lire la suite](/fr/article/Willian_Wentworth/Group_worship)
+[Lire la suite](/fr/article/William_Wentworth/Group_worship)
 
 Willian Wentworth, Towamba, Nouvelle-Galles du Sud.
 

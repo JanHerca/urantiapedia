@@ -76,7 +76,7 @@ En 1572, un ancien professeur de droit de Bologne nommé Ugo Buoncompagni devint
 
 Les tentatives de réforme ont suscité de nombreux débats, tant académiques que religieux. À un moment donné, le pape a menacé d'excommunication toute personne refusant d'accepter le nouveau calendrier. Les détails et les controverses créées par la réforme sont magnifiquement présentés dans un article du numéro de mai 1982 de Scientific American rédigé par Gordon Moyer et intitulé « Le calendrier grégorien ».
 
-[Lire la suite](/fr/article/Matt_Neibaur/Computer_Analysis_Of_Dates_In_LU)
+[Lire la suite](/fr/article/Matt_Neibaur/Computer_Analysis_Of_Dates_In_UB)
 
 Matt Neibaur, 211 North Roscoe, Ponte Verda Beach, FL, 32082, États-Unis
 

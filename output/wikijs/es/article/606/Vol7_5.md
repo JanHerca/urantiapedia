@@ -74,7 +74,7 @@ _El Libro de Urantia_ (<a id="a72_23"></a>[LU 49:2.1](/es/The_Urantia_Book/49#p2
 
 La sonda Mariner 5 enviada a Venus en 1967 envió datos sobre la atmósfera y sondas posteriores proporcionaron datos sobre Marte. Estas mediciones mostraron que la presión atmosférica en la superficie de Venus es 90 veces mayor que la de la Tierra, por lo tanto de alta densidad, mientras que la de Marte es 1/100 de la de la Tierra, por lo tanto de baja densidad.
 
-[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_LU_2)
+[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2)
 
 Ken Glasziou, Clifton, Queensland.
 

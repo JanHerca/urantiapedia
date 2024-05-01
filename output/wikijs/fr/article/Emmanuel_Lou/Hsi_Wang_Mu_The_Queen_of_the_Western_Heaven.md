@@ -40,17 +40,17 @@ Dans les peintures chinoises, Hsi Wang est généralement représentée comme un
 
 (1) « Cette péninsule méditerranéenne jouissait d’un climat salubre et d’une température régulière. La stabilité du temps était due aux montagnes qui l’entouraient..." (<a id="a40_169"></a>[LU 73:3.3](/fr/The_Urantia_Book/73#p3_3))
 
-	«  Le rivage de la péninsule était très surélevé... » (<a id="a42_56"></a>[LU 73:3.4](/fr/The_Urantia_Book/73#p3_4))
+> «  Le rivage de la péninsule était très surélevé... » (<a id="a42_56"></a>[LU 73:3.4](/fr/The_Urantia_Book/73#p3_4))
 
 (2) « Les pierres précieuses et les métaux abondaient dans les montagnes entourant le Jardin, mais on n’y prêtait que très peu d’attention. L’idée dominante était de glorifier l’horticulture et d’exalter l’agriculture. » (<a id="a44_222"></a>[LU 73:3.5](/fr/The_Urantia_Book/73#p3_5))
 
 (3) « Nulle part ailleurs il n’y avait d’emplacement susceptible de se prêter aussi parfaitement à devenir un tel paradis d’expression botanique. » (<a id="a46_149"></a>[LU 73:3.6](/fr/The_Urantia_Book/73#p3_6))
 
-	« Bien que le travail d’embellissement ne fût pas tout à fait terminé au moment de l’arrivée d’Adam, l’endroit était déjà un joyau de splendeur botanique ; durant les débuts de son séjour en Éden, l’ensemble du Jardin prit une nouvelle forme et assuma de nouvelles proportions de beauté et de grandeur.» (<a id="a48_306"></a>[LU 73:5.8](/fr/The_Urantia_Book/73#p5_8))
+> « Bien que le travail d’embellissement ne fût pas tout à fait terminé au moment de l’arrivée d’Adam, l’endroit était déjà un joyau de splendeur botanique ; durant les débuts de son séjour en Éden, l’ensemble du Jardin prit une nouvelle forme et assuma de nouvelles proportions de beauté et de grandeur.» (<a id="a48_306"></a>[LU 73:5.8](/fr/The_Urantia_Book/73#p5_8))
 
 (4) « Leurs sens spéciaux étaient beaucoup plus aiguisés ; ils étaient capables de voir les médians et les armées d’anges, les Melchizédek... » (<a id="a50_145"></a>[LU 76:4.5](/fr/The_Urantia_Book/76#p4_5))
 
-	« ... les médians, qui sont capables de faire de telles choses, les transportèrent au temple du Père. » (<a id="a52_106"></a>[LU 74:4.4](/fr/The_Urantia_Book/74#p4_4))
+> « ... les médians, qui sont capables de faire de telles choses, les transportèrent au temple du Père. » (<a id="a52_106"></a>[LU 74:4.4](/fr/The_Urantia_Book/74#p4_4))
 
 (5) « Des centaines de colonies croyantes avaient fidèlement, année après année, maintenu l'approvisionnement en pigeons élevés sur place pour une telle occasion. » (<a id="a54_166"></a>[LU 74:2.3](/fr/The_Urantia_Book/74#p2_3))
 
@@ -62,7 +62,7 @@ Dans les peintures chinoises, Hsi Wang est généralement représentée comme un
 
 (9) « Dans ce rendez-vous (dans le Jardin d'Eden) se rassemblait la création de la civilisation d'Urantia. » (<a id="a62_110"></a>[LU 73:3.6](/fr/The_Urantia_Book/73#p3_6)) Cela rappelle-t-il les six races de couleur Sangik plus la race violette ? (Voir page <a id="a62_239"></a>[LU 64:5.2](/fr/The_Urantia_Book/64#p5_2))
 
-	« Amadon présidait ce comité, qui était composé de douze membres : un représentant de chacune des six races sangik ; ... " (<a id="a64_125"></a>[LU 74:2.5](/fr/The_Urantia_Book/74#p2_5))
+> « Amadon présidait ce comité, qui était composé de douze membres : un représentant de chacune des six races sangik ; ... " (<a id="a64_125"></a>[LU 74:2.5](/fr/The_Urantia_Book/74#p2_5))
 
 Les Boat people de Hong Kong de dix gardent parmi leurs dieux domestiques un parchemin de la Reine du Ciel occidental, et c'est sur sa grue que sont montées en effigie les filles décédées avant d'atteindre la maturité.
 

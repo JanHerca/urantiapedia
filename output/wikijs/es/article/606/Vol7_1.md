@@ -148,7 +148,7 @@ _(debe resolverse en inglés)_
 - 12\. Todos nosotros... hijos de Dios (3)
 - 13\. Nathan hizo vasijas de.... (4)
 - 14\. Joshua podía tocar música hermosa en su... (4)
-- dieciséis\. Nombre de la gran ciudad de Egipto donde Jesús pasó sus primeros años (10)
+- 16\. Nombre de la gran ciudad de Egipto donde Jesús pasó sus primeros años (10)
 - 18\. Nombre del sacerdote que fue padre de Juan Bautista (9)
 - 19\. Cuando Joshua tenga 5 años. viejo, el.... su mamá con el bebe (5)
 - 23\. Antes de que naciera Joshua, él era el creador de nuestro universo. Él era...(7)

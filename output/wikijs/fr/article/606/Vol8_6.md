@@ -26,7 +26,7 @@ Vendredi soir, à 18 heures, des gens ont commencé à arriver de partout. Inuti
 
 Le samedi matin a commencé par une introduction de Trevor Swadling, après quoi nous nous sommes divisés en deux groupes pour étudier le Fascicule 133 — Le retour de Rome.
 
-[Lire la suite](/fr/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_LU_Readers)
+[Lire la suite](/fr/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers)
 
 Kathleen Swadling, Sydney
 

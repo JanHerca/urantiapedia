@@ -37,7 +37,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 > « _...la révélation synthétise les sciences de la nature et la théologie religieuse, apparemment divergentes, en une philosophie de l’univers cohérente et logique, en une explication coordonnée et sans hiatus aussi bien de la science que de la religion, créant ainsi une harmonie du mental et la satisfaction à l’esprit. Elle répond, dans l’expérience humaine, aux interrogations du mental avide de savoir *comment* l’Infini met sa volonté et ses plans à exécution dans la matière, avec le mental et sur l’esprit._ » (<a id="a37_520"></a>[LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
 
-_(Suite de_ [_partie 1 ; Printemps-été, '05_](/fr/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_LU_Part_I))
+_(Suite de_ [_partie 1 ; Printemps-été, '05_](/fr/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I))
 
 ## Paper 106 — Niveaux de réalité de l'univers
 

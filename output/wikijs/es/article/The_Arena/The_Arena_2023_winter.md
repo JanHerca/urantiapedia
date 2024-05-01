@@ -216,7 +216,7 @@ Esta feria se celebra una vez al mes y cada vez se traslada a un lugar diferente
 
 En el pasado solía hacer estas promociones en los mercados de productos. La mayor parte del tiempo recibí una mala respuesta y casi nunca vendí libros. El interés era muy limitado y a menudo me preguntaba si ese era mi enfoque. Sin embargo, finalmente llegué a la conclusión de que estaba pescando en el barril equivocado.
 
-[Leer más](/es/article/Phillip_Marriott/Activity_Report_from_a_LU_Student)
+[Leer más](/es/article/Phillip_Marriott/Activity_Report_from_a_UB_Student)
 <br style="clear:both;"/>
 
 ## Sobre el estado revelador

@@ -119,7 +119,7 @@ Los interesados en participar o asistir deberán escribir a: Simposio Científic
 
 La reencarnación es una realidad de la vida que poseen millones de personas en todo el mundo. Las personas en gran medida responsables de la difusión de esta filosofía, y a las que se tiene en alta estima por sus conocimientos sobre el tema, son los budistas mahayana tibetanos y chinos, los budistas hinayana tailandeses, birmanos y de Sri Lanka, los taoístas chinos, los hindúes y una variedad aparentemente interminable de asiáticos panteístas locales. ramificaciones que varían de una ciudad a otra. Fue a partir de estas fuentes asiáticas que la idea de la reencarnación se filtró en los ámbitos del pensamiento religioso occidental. Parte de la teoría llegó a nosotros en sistemas completos, como con el enfoque tibetano cada vez más popular, mientras que otra parte llegó en cuentagotas, fragmentos de religiones cuidadosamente editados por el evangelista para adaptarse al clima social y a sus necesidades. capacidad y condicionamiento espiritual.
 
-[Leer más](/es/article/Robert_Crickett/On_the_matter_of_Reincarnation)
+[Leer más](/es/article/Rob_Crickett/On_the_matter_of_Reincarnation)
 
 ---
 

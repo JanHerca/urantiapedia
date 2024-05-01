@@ -53,7 +53,7 @@ Later on in the afternoon we approached the following subjects:
 	People were offered the opportunity to personally place a book in their local library. If you want to participate in this project, books are still available for placement. Just contact the following people:
 	- In N.S.W. ring Kathleen Swadling on (02) 913-7893
 	- In Vic. ring Steve Shanahan on (03) 592- 8690
-	- In Q1d. ring Neil Francey on (07) 849- 4504
+	- In Qld. ring Neil Francey on (07) 849- 4504
 	- In W.A. ring Peter Webb on (09) 561-1417
 	- In S.A. ring Steve Shanahan
 	To raise funds for the postage of library books it was suggested that we could have some social events for which a small fee was charged.

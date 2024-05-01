@@ -90,7 +90,7 @@ El tema de este mes:
 
 **Física subatómica**
 
-[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_LU)
+[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB)
 
 Ken Glasziou, Clifton, Queensland
 

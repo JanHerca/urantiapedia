@@ -48,7 +48,7 @@ Veuillez noter notre nouvelle adresse pour toute correspondance :
 
 Le sifflement d'un train venant à toute vitesse vers nous devient plus aigu à mesure que le train s'approche, et le ton diminue à mesure que le train s'éloigne. En raison du mouvement du train, les ondes sonores sont compressées, donc plus aiguës (fréquence) à mesure que le train s'approche, et décomprimées (fréquence plus basse) à mesure que le train s'éloigne. C'est ce qu'on appelle l'effet Doppler. Le même effet est utilisé pour tenir compte du déplacement spectral de la lumière provenant d’étoiles lointaines. Les bandes spectrales sont généralement décalées vers des longueurs d'onde plus longues, c'est-à-dire vers le rouge. Ce qu'on appelle le décalage vers le rouge est à la base des estimations de l'âge de l'univers, actuellement estimé entre 10 et 20 milliards d'années, et donne également naissance à la théorie du Big Bang sur son origine. _Le Livre d'Urantia_ déclare que c'est tout à fait faux, que l'effet est dû à d'autres causes et, bien sûr, cela donne un âge bien plus grand au grand univers.
 
-[Lire la suite](/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_LU_3)
+[Lire la suite](/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3)
 
 Ken Glasziou, Clifton, Queensland.
 

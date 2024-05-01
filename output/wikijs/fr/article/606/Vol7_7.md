@@ -218,7 +218,7 @@ De plus en plus de gens lisent ou entendent à la télévision que la vie existe
 
 Les archives fossiles nous montrent que les formes de vie existaient il y a environ 500 à 600 millions d’années et que ces formes étaient relativement avancées, du moins en ce qui concerne leur organisation cellulaire biochimique. La complexité de leurs restes squelettiques implique qu'ils devaient posséder le même système très complexe de stockage d'informations et le même système tout aussi complexe pour sa traduction en organisme vivant que nous connaissons aujourd'hui. Ce système comprend les acides nucléiques, l’ARN et l’ADN ainsi que les enzymes, les ribosomes, etc.
 
-[Lire la suite](/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_LU_4)
+[Lire la suite](/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_4)
 
 Ken Glasziou, Clifton, Queensland.
 

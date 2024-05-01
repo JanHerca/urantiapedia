@@ -99,7 +99,7 @@ Les personnes intéressées à participer ou à assister doivent écrire : Sympo
 
 La réincarnation est une réalité vécue par des millions de personnes à travers le monde. Les personnes en grande partie responsables de la diffusion de la philosophie, et tenues en haute estime pour leurs connaissances sur le sujet, sont les bouddhistes Mahayana tibétains et chinois, les bouddhistes Hinayana thaïlandais et sri-lankais, les taoïstes chinois, les hindous et un éventail apparemment infini de panthéistes asiatiques locaux. des ramifications qui varient d'une ville à l'autre. C’est à partir de ces sources asiatiques que l’idée de réincarnation s’est infiltrée dans les arènes de pensée religieuses occidentales. Une partie de la théorie nous est parvenue sous forme de systèmes complets, comme avec l'approche tibétaine de plus en plus populaire, tandis que d'autres sont venues au compte-goutte, des extraits de religions soigneusement édités par l'évangéliste pour s'adapter au climat social et à son environnement. capacité et conditionnement spirituels.
 
-[Lire la suite](/fr/article/Robert_Crickett/On_the_matter_of_Reincarnation)
+[Lire la suite](/fr/article/Rob_Crickett/On_the_matter_of_Reincarnation)
 
 ---
 

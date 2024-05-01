@@ -45,7 +45,7 @@ At 6.00 on Friday evening, people started arriving from far and wide. Needless t
 
 Saturday morning began with an introduction by Trevor Swadling, after which we split into two groups to study Paper 133 — The Return From Rome.
 
-[Read more](/en/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_Readers)
+[Read more](/en/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers)
 
 Kathleen Swadling, Sydney
 

@@ -68,7 +68,7 @@ Tenga en cuenta nuestra nueva dirección para toda la correspondencia:
 
 El silbido de un tren que se acerca a toda velocidad aumenta su tono a medida que el tren se acerca, y el tono se hace más bajo a medida que el tren se aleja. Debido al movimiento del tren, las ondas sonoras se comprimen, por lo tanto tienen un tono más alto (frecuencia) a medida que el tren se acerca y se descomprimen (frecuencia más baja) a medida que el tren se aleja. Esto se llama efecto Doppler. El mismo efecto se utiliza para explicar el desplazamiento espectral de la luz procedente de estrellas lejanas. Las bandas espectrales suelen desplazarse hacia longitudes de onda más largas, es decir, hacia el rojo. El llamado corrimiento al rojo es la base de las estimaciones de la edad del universo, que actualmente se estima entre 10 y 20 mil millones de años, y también da lugar a la teoría del Big Bang sobre su origen. El Libro de Urantia afirma que esto es bastante erróneo, que el efecto se debe a otras causas y, por supuesto, le da una edad mucho mayor al gran universo.
 
-[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_LU_3)
+[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3)
 
 Ken Glasziou, Clifton, Queensland.
 

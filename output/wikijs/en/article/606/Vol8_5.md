@@ -118,7 +118,7 @@ Those interested in participating or attending should write: Scientific Symposiu
 
 Reincarnation is a fact of life held by millions of people the world over. The people largely responsible for the philosophy's dissemination, and held in high regard for their knowledge on the subject, are Tibetan and Chinese Mahayana Buddhists, Thai Burmese and Sri Lankan Hinayana Buddhists, Chinese Taoists, Hindus, and a seemingly endless array of homegrown pantheistic Asian offshoots which vary from town to town. It is from these Asian sources that the idea of reincarnation filtered into Western religious arenas of thought. Some of the theory came to us in complete systems, such as with the growing-in-popularity Tibetan approach, while some of it came in dribs and drabs, snippets from religions neatly edited by the evangelist to suit the social climate and his or her spiritual capacity and conditioning.
 
-[Read more](/en/article/Robert_Crickett/On_the_matter_of_Reincarnation)
+[Read more](/en/article/Rob_Crickett/On_the_matter_of_Reincarnation)
 
 ---
 

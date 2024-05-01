@@ -96,7 +96,7 @@ En 1572, un antiguo profesor de derecho de Bolonia llamado Ugo Buoncompagni se c
 
 Los intentos de reforma desencadenaron una amplia gama de debates, tanto académicos como religiosos. En un momento dado, el Papa amenazó con la excomunión contra cualquiera que se negara a aceptar el nuevo calendario. Los detalles y controversias creadas por la reforma se presentan bellamente en un artículo publicado en la edición de mayo de 1982 de Scientific American por Gordon Moyer titulado «El calendario gregoriano».
 
-[Leer más](/es/article/Matt_Neibaur/Computer_Analysis_Of_Dates_In_LU)
+[Leer más](/es/article/Matt_Neibaur/Computer_Analysis_Of_Dates_In_UB)
 
 Matt Neibaur, 211 North Roscoe, Ponte Verda Beach, FL, 32082, EE. UU.
 

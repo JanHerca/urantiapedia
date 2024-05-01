@@ -37,7 +37,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 > «_...la revelación sintetiza las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica, en una explicación coordinada e ininterrumpida tanto de la ciencia como de la religión, creando así una armonía mental y una satisfacción espiritual que contesta, en la experiencia humana, a aquellos interrogantes de la mente mortal que ansía saber *de qué manera* el Infinito pone en práctica su voluntad y realiza sus planes en la materia, con las mentes y sobre el espíritu._» (<a id="a37_547"></a>[LU 101:2.1](/es/The_Urantia_Book/101#p2_1))
 
-_(Viene de_ [_parte 1; Primavera-verano, '05_](/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_LU_Part_I))
+_(Viene de_ [_parte 1; Primavera-verano, '05_](/es/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I))
 
 ## Documento 106 — Niveles de realidad del universo
 

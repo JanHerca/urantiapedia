@@ -54,7 +54,7 @@ _Le Livre d'Urantia_ (<a id="a52_22"></a>[LU 49:2.1](/fr/The_Urantia_Book/49#p2_
 
 La sonde Mariner 5 vers Vénus en 1967 a renvoyé des données sur l'atmosphère et les sondes ultérieures ont fourni des données sur Mars. Ces mesures ont montré que la pression atmosphérique à la surface de Vénus est 90 fois supérieure à celle de la Terre, donc une densité élevée, tandis que celle de Mars est 1/100ème de celle de la Terre, donc une faible densité.
 
-[Lire la suite](/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_LU_2)
+[Lire la suite](/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2)
 
 Ken Glasziou, Clifton, Queensland.
 

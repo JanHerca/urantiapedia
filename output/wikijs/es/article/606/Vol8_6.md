@@ -46,7 +46,7 @@ El viernes a las seis de la tarde empezó a llegar gente de todas partes. No hac
 
 El sábado por la mañana comenzó con una introducción de Trevor Swadling, después de lo cual nos dividimos en dos grupos para estudiar el Documento 133: El regreso de Roma.
 
-[Leer más](/es/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_LU_Readers)
+[Leer más](/es/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers)
 
 Kathleen Swadling, Sídney
 

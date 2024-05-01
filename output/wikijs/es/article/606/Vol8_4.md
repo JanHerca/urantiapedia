@@ -53,13 +53,13 @@ Más tarde en la tarde abordamos los siguientes temas:
 1. Esquema de colocación en la biblioteca.
 	A las personas se les ofreció la oportunidad de colocar personalmente un libro en su biblioteca local. Si quieres participar en este proyecto, todavía hay libros disponibles para su colocación. Simplemente contacte a las siguientes personas:
 	- En N.S.W. llame a Kathleen Swadling al (02) 913-7893
-	- En Vic. Llame a Steve Shanahan al (03) 592-8690.
-	- En el primer trimestre. llame a Neil Francey al (07) 849-4504
+	- En Vic. llame a Steve Shanahan al (03) 592-8690.
+	- En Qld. llame a Neil Francey al (07) 849-4504
 	- En W.A. llame a Peter Webb al (09) 561-1417
-	- En el ring SA Steve Shanahan
+	- En S.A. llame a Steve Shanahan
 	Para recaudar fondos para el envío postal de los libros de la biblioteca, se sugirió que pudiéramos organizar algunos eventos sociales por los que se cobrara una pequeña tarifa.
 2. Suscripciones al boletín Six-0-Six.
-	La mayoría de la gente estaba a favor de un $10 per year subscription fee for the newsletter to cover costs of postage photocopying, envelopes, registration with Australia Post etc. Overseas readers US $12.
+	La mayoría de la gente estaba a favor de $10 de cuota de suscripción anual al boletín para cubrir los gastos de envío, fotocopias, sobres, registro en Australia Post, etc. Lectores extranjeros: 12 dólares EE.UU.
 	Sus pensamientos son bienvenidos sobre este asunto.
 3. Venta de libros.
 	Se decidió que en el futuro las ventas de Libros URANTIA deberían ser manejadas por las librerías. Aunque Steve Shanahan informa que se vendieron alrededor de 80 libros en 8 meses, principalmente por recomendación personal, todavía sentimos que el libro pertenece a las librerías. Como señaló Kevin Meyrick el año pasado en la Conferencia de Melbourne: Cada vez que vendemos un libro a precio de coste, una librería pierde una venta. Para crear demanda en las librerías, debemos mantenernos firmes. retroceda y deje que el comercio de libros se encargue de ello, aunque eso signifique que suba el precio de $40 to $65 y más. En el último mes nos hemos acercado a las siguientes librerías: The Mystical, The Esoteric, Crysalis y The T.S. Librería, quienes han aceptado llevar el libro y han prometido exhibirlo.

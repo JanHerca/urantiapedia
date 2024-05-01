@@ -67,7 +67,7 @@ The task of our newsletter is communication. Its literary heritage, its historic
 
 Neil Francey, Brisbane
 
-## Mensa Embraces The Urantia Boor
+## Mensa Embraces The Urantia Book
 
 America Mensa, Ltd. is “a not-for-profit corporation of New York State” which consists exclusively of members who have IQs at or above a certain figure. (I do not know what that level 13.) Among their many activities, Mensa features “Speciai Interest Group” which are devoted to activities of all kinds relevant to a particular subject. Charles G. Schilling, SIG (Special Interest Group) Officer, sent a letter to Dan Amyx of Tampa, Florida, who had submitted _The URANIIA Book_ as a candidate for the focus of an official SIG. The first paragraph of that letter reads, “This will acknowledge receipt of your SIG Recognition Request, and inform you that your SIG, _The URANTIA Book_, is now recognized as a special interest group of American Mensa, Ltd. Announcement of the SIG's formation will appear in the Mensa Bulletin for April, 1986, and a listing will appear in the Sig Directory wich will be included in the September, 1986, edition.”
 

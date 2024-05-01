@@ -68,7 +68,7 @@ La tarea de nuestro boletín es la comunicación. Su herencia literaria, su valo
 
 Neil Francey, Brisbane
 
-## Mensa abraza al patán de Urantia
+## Mensa abraza El Libro de Urantia
 
 America Mensa, Ltd. es «una corporación sin fines de lucro del estado de Nueva York» que está compuesta exclusivamente por miembros que tienen un coeficiente intelectual igual o superior a una determinada cifra. (No sé cuál es el nivel 13.) Entre sus muchas actividades, Mensa presenta «Grupos de interés especial» que se dedican a actividades de todo tipo relevantes para un tema en particular. Charles G. Schilling, Oficial del SIG (Grupo de Interés Especial), envió una carta a Dan Amyx de Tampa, Florida, quien había presentado _El Libro URANIIA_ como candidato para el foco de un SIG oficial. El primer párrafo de esa carta dice: «Esto acusará recibo de su solicitud de reconocimiento SIG y le informará que su SIG, _El Libro de URANTIA_, ahora está reconocido como un grupo de interés especial de American Mensa, Ltd. El anuncio de la formación del SIG aparecerá en el Boletín Mensa de abril de 1986, y aparecerá un listado en el Directorio Sig que se incluirá en la edición de septiembre de 1986.»
 

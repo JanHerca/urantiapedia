@@ -57,7 +57,7 @@ Changing Urantia starts with first changing the attitudes in ourselves. A slight
 
 Some time ago, while experimenting with group worship with a few other readers, I was struck by an apparent incongruity in what we were attempting. We were taking turns in talking to God on behalf of the group, and it was clear that we were all asking God to do something, in the hope that He would thereby be influenced to do something He would not otherwise have done. For example, we were asking God to give us the wisdom to understand a certain situation, expecting that this prayer would somehow cause him to “give” us the sought-for wisdom — something He would not have done without our prayer. In other words, we were expecting God to be influenced by our prayer to depart from his normal habit and do something He would not otherwise have done.
 
-[Read more](/en/article/Willian_Wentworth/Group_worship)
+[Read more](/en/article/William_Wentworth/Group_worship)
 
 Willian Wentworth, Towamba, NSW.
 

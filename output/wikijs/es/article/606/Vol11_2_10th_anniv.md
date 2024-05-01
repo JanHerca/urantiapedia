@@ -987,9 +987,9 @@ _En este número se anunció que los resúmenes del Boletín URANTIA estarían d
 
 ## EVIDENCIA CIENTÍFICA
 
-_A lo largo de los años hemos publicado un buen número de artículos sobre la comparación de evidencia científica recientemente encontrada con referencias específicas en _El Libro de URANTIA_, para ver cómo se «apilan». Siempre es nuestra intención presentar un punto de vista equilibrado en Six-O-Six, ya que algunos lectores los encuentran muy interesantes, mientras que otros no.
+_A lo largo de los años hemos publicado un buen número de artículos sobre la comparación de evidencia científica recientemente encontrada con referencias específicas en_ El Libro de URANTIA, _para ver cómo se «apilan». Siempre es nuestra intención presentar un punto de vista equilibrado en Six-O-Six, ya que algunos lectores los encuentran muy interesantes, mientras que otros no._
 
-_Ken Glasziou ha desempeñado un papel importante en el área de la evidencia científica. En ***mayo de 1986***. Six-O-Six publicó el primero de una serie de cuatro artículos de Ken, quien había estado recopilando detalles sobre el contenido científico de El Libro de URANTIA durante muchos años. Había estado haciendo esto más o menos de forma aislada e invitó a otros lectores con cierta formación científica a unirse a él en un esfuerzo por producir un mejor comentario y también actualizarlo más continuamente.
+_Ken Glasziou ha desempeñado un papel importante en el área de la evidencia científica. En ***mayo de 1986***. Six-O-Six publicó el primero de una serie de cuatro artículos de Ken, quien había estado recopilando detalles sobre el contenido científico de El Libro de URANTIA durante muchos años. Había estado haciendo esto más o menos de forma aislada e invitó a otros lectores con cierta formación científica a unirse a él en un esfuerzo por producir un mejor comentario y también actualizarlo más continuamente._
 
 _Desde entonces, Ken asistió al Simposio Científico en Nashville, Tennessee, entre el 13 y el 15 de mayo de 1988 y tuvo la suerte de hacer nuevos amigos entre un grupo de científicos interesados._
 
@@ -997,7 +997,7 @@ _En la Reunión Regional del Pacífico Sur hizo una presentación que fue un res
 
 «...Hay muchos temas de naturaleza científica o histórica sobre los cuales se hacen declaraciones definitivas en _El Libro de URANTIA_, y sobre los cuales la humanidad no tenía conocimiento seguro durante el período previo a la publicación. Desde entonces se ha descubierto que muchos de estos elementos son correctos o coinciden ahora con la opinión científica actual...»
 
-_Cubrió evidencia sobre días y fechas específicos mencionados, referencias a la Estrella de Belén, física de partículas, deriva continental, formación de montañas, estabilidad de elementos, atmósferas planetarias, movimiento de la luna, explosiones de supernovas, existencia de estrellas recientemente «descubiertas», qué hace brillar las estrellas, la edad del sistema solar, los agujeros negros y las estrellas de neutrones, los dinosaurios, los descubrimientos de fósiles que respaldan las predicciones de los libros y el momento del cruce del hombre rojo de Asia a América.
+_Cubrió evidencia sobre días y fechas específicos mencionados, referencias a la Estrella de Belén, física de partículas, deriva continental, formación de montañas, estabilidad de elementos, atmósferas planetarias, movimiento de la luna, explosiones de supernovas, existencia de estrellas recientemente «descubiertas», qué hace brillar las estrellas, la edad del sistema solar, los agujeros negros y las estrellas de neutrones, los dinosaurios, los descubrimientos de fósiles que respaldan las predicciones de los libros y el momento del cruce del hombre rojo de Asia a América._
 
 _Ken también ha escrito un catálogo completo de artículos científicos disponibles a través de la Biblioteca de la Hermandad del Hombre, y Ken los puede obtener escribiendo a:_
 

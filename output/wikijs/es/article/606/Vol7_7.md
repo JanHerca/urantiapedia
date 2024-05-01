@@ -238,7 +238,7 @@ Cada vez más se lee o se escucha en la televisión que la vida existe en la Tie
 
 El registro fósil nos muestra que existieron formas de vida hace del orden de 500 a 600 millones de años, y que estas formas estaban relativamente avanzadas al menos con respecto a su organización celular bioquímica. La complejidad de sus restos esqueléticos implica que debieron poseer el mismo sistema altamente complejo de almacenamiento de información y el sistema igualmente complejo para su traducción en un organismo vivo que conocemos hoy. Este sistema consta de ácidos nucleicos, ARN y ADN más enzimas, ribosomas, etc.
 
-[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_LU_4)
+[Leer más](/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_4)
 
 Ken Glasziou, Clifton, Queensland.
 

@@ -79,7 +79,7 @@ ibid., (1987), 256(4), 84 .
 
 _The URANTIA Book_ associates mountain building on the west coast of North and South America with continental drift. Today, nobody doubts that mountain building occurs at the edge of drifting continents, concomitantly with the subduction of the oceanic crust. However virtually nobody believed in continental drift at the time of writing (or publication) of _The URANTIA Book_. 
 
-Reference: _The URANTIA Book_, [UB paper:60.3](/en/The_Urantia_Book/paper#p60_3)2.
+Reference: _The URANTIA Book_, [UB 60:3.2](/en/The_Urantia_Book/60#p3_2).
 
 ## Stable Elements
 

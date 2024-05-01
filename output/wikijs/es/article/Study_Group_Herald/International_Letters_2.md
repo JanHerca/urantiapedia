@@ -19,7 +19,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 Con gran empatía leí la carta de Chilufya [Chilufya Thompson es editora internacional del _Herald_.] en la última edición del _Study Group Herald_. Viví durante seis años en Londres a mediados de los años 80, y un antiguo estudiante, Gez Lamb, me presentó el gran libro azul. En Londres hay un grupo de estudio activo que se reúne periódicamente, y asistir al grupo fue un gran sostén de mi entusiasmo por el libro.
 
-Regresé a mi país natal en mayo de 1990 e inmediatamente me puse a tratar de encontrar en este país a aquellos que fueran lectores de _La LU_. Mi búsqueda encontró a tres personas, todas las cuales viven a una distancia considerable de mi casa. La primera vive en el noroeste del país y la conversación con ella reveló que había leído el libro una vez, hace mucho tiempo, y que no tenía ningún interés en retomarlo.
+Regresé a mi país natal en mayo de 1990 e inmediatamente me puse a tratar de encontrar en este país a aquellos que fueran lectores del _LU_. Mi búsqueda encontró a tres personas, todas las cuales viven a una distancia considerable de mi casa. La primera vive en el noroeste del país y la conversación con ella reveló que había leído el libro una vez, hace mucho tiempo, y que no tenía ningún interés en retomarlo.
 
 Los otros dos nombres eran Jim y Lorraine Breffni, una pareja que vive en el norte de la isla. Estuvieron encantados de saber de mí y al cabo de tres meses nos conocimos y fundamos el Grupo de Estudio Irlandés. Sólo logramos reunirnos unas cinco veces al año, pero valoramos mucho estas tardes juntos. Solemos elegir un artículo por sesión y nos turnamos para leer en voz alta, y luego compartimos nuestras interpretaciones de lo que hemos leído. Las sesiones duran unas dos horas.
 

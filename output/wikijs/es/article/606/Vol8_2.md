@@ -145,7 +145,7 @@ Eva Cvokus, Brookfield, Queensland.
 
 ---
 
-## ¿Cuándo fue la fecha de la crucifixión de Michael?
+## ¿Cuándo fue la fecha de la crucifixión de Miguel?
 
 A veces es interesante ver qué tan cerca está la ciencia de la verdad. Tomemos, por ejemplo, el debate sobre la fecha correcta de la crucifixión.
 
