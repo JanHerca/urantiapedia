@@ -65,7 +65,7 @@ Este valioso índice del Gancho de Urantia está siendo revisado por su autor, C
 
 Las siguientes publicaciones trimestrales están disponibles en EE. UU.
 
-1. El Urantiano - Diario de la Hermandad Urantia.
+1. Urantian - Diario de la Hermandad Urantia.
 2. Boletín de la Hermandad Urantia.
 3. Agondonter - Boletín de la Primera Sociedad Urantia de Los Ángeles
 4. El Heraldo del Renacimiento Espiritual:
