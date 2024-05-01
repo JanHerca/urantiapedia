@@ -16,7 +16,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1993</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal — Contenido del número, otoño de 1993</span>
         </a>
         </td>
         <td>
@@ -60,7 +60,7 @@ Si bien en las antiguas instituciones se produce una lenta fermentación evoluti
       <tr>
         <td>
         <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1993</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal — Contenido del número, otoño de 1993</span>
         </a>
         </td>
         <td>

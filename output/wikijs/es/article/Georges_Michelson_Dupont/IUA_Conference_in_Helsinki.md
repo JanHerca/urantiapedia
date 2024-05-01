@@ -37,7 +37,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Georges Michelson-Dupont_
 
-> _Cuando el alma ascendente del hombre se encuentra ante el Juez Supremo, la decisión de importancia eterna no está determinada por los éxitos materiales ni por los logros cuantitativos; el veredicto que resuena en todas las cortes supremas proclama: «Bien hecho, buen y fiel servidor; has sido fiel en algunas cosas esenciales; serás establecido como gobernante de las realidades universales.»_ <a id="a38_368"><a id="a39_413"></a>[LU 25:1.6](/es/The_Urantia_Book/25#p1_6)
+> _Cuando el alma ascendente del hombre se encuentra ante el Juez Supremo, la decisión de importancia eterna no está determinada por los éxitos materiales ni por los logros cuantitativos; el veredicto que resuena en todas las cortes supremas proclama: «Bien hecho, buen y fiel servidor; has sido fiel en algunas cosas esenciales; serás establecido como gobernante de las realidades universales.»_ [LU 25:1.6](/es/The_Urantia_Book/25#p1_6)
 
 Queridos amigos,
 
@@ -59,7 +59,7 @@ Hechos, significados y valores es el tema general de esta conferencia internacio
 
 ## La Quinta Revelación de Época: _El Libro de Urantia_
 
-Respecto a la sucesión de Revelaciones de Época, se nos dice que Urantia es un planeta decimal y sujeto a experimentos. También se nos dice que nuestro desafortunado mundo ha sufrido traición, impaciencia y cuarentena y, por lo tanto, sabemos que _«Urantia no avanza en el orden normal.»_ [LU 52:6.1](/es/El_Libro_de_Urantia/52#p6_1).
+Respecto a la sucesión de Revelaciones de Época, se nos dice que Urantia es un planeta decimal y sujeto a experimentos. También se nos dice que nuestro desafortunado mundo ha sufrido traición, impaciencia y cuarentena y, por lo tanto, sabemos que _«Urantia no avanza en el orden normal.»_ [LU 52:6.1](/es/The_Urantia_Book/52#p6_1).
 
 Supongo que los seres espirituales a cargo del bienestar de nuestro planeta se enfrentaron al siguiente problema: ¿qué tipo de revelación de época ofrecerían a Urantia como quinta, teniendo en cuenta que las dos primeras fracasaron, la tercera fue una revelación de emergencia, y la cuarto murió en la cruz con las enseñanzas de Jesús y quedó algo distorsionada y occidentalizada.
 
@@ -198,13 +198,13 @@ En la página 1569 del _Libro de Urantia_, y justo antes del «Sermón de la Ord
 
 Y la narración continúa
 
-> _...Un gran silencio invadió el lugar, mientras que una multitud de seres celestiales contemplaba desde arriba esta escena solemne y sagrada —el Creador de un universo poniendo los asuntos de la fraternidad divina de los hombres bajo la dirección de unas mentes humanas._ [LU 140:2.3](/es/El_Libro_de_Urantia/140#p2_3)
+> _...Un gran silencio invadió el lugar, mientras que una multitud de seres celestiales contemplaba desde arriba esta escena solemne y sagrada —el Creador de un universo poniendo los asuntos de la fraternidad divina de los hombres bajo la dirección de unas mentes humanas._ [LU 140:2.3](/es/The_Urantia_Book/140#p2_3)
 
 ¿Y estos doce hombres tenían un don especial?
 
 Nos dijeron:
 
-> _... Y precisamente por eso escogió, como representantes personales suyos, a doce hombres corrientes que eran en su mayoría pescadores toscos, viriles y valerosos._ [LU 140:8.20](/es/El_Libro_de_Urantia/140#p8_20)
+> _... Y precisamente por eso escogió, como representantes personales suyos, a doce hombres corrientes que eran en su mayoría pescadores toscos, viriles y valerosos._ [LU 140:8.20](/es/The_Urantia_Book/140#p8_20)
 
 Con respecto a la presente revelación, el proyecto de los Documentos de Urantia, los intermedios pusieron en manos de los Fideicomisarios de la Fundación Urantia la total responsabilidad de la difusión de las enseñanzas y la plena autoridad para la protección del _El Libro de Urantia_ como se establece en su Declaración de Fideicomiso. .
 
@@ -212,7 +212,7 @@ Algunos individuos niegan esta autoridad humana sobre la difusión y protección
 
 Su llamada «libertad» es para ellos más importante que su obligación hacia el grupo o sus deberes como ciudadanos cósmicos. Deben meditar en la siguiente declaración de Jesús:
 
-> _«En mi universo y en el universo de universos de mi Padre, nuestros hijos-hermanos son tratados como individuos en todas sus relaciones espirituales, pero en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija. Nuestro reino es un reino de orden, y cuando dos o más criaturas volitivas actúan en cooperación, siempre se prevé la autoridad de un jefe.»_ [Jesús, [LU 181:2.16](/es/El_Libro_de_Urantia/181#p2_16)]
+> _«En mi universo y en el universo de universos de mi Padre, nuestros hijos-hermanos son tratados como individuos en todas sus relaciones espirituales, pero en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija. Nuestro reino es un reino de orden, y cuando dos o más criaturas volitivas actúan en cooperación, siempre se prevé la autoridad de un jefe.»_ [Jesús, [LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
 
 Esta responsabilidad social y trascendental ejercida por la Fundación Urantia no infringe ni se opone a los derechos religiosos de los individuos. El libro nos dice que _la religión es pura y totalmente una cuestión de experiencia personal_ <a id="a216_241"></a>[LU 138:2.1](/es/The_Urantia_Book/138#p2_1) La Fundación Urantia siempre lo ha hecho y siempre lo hará Aliente a todos y cada uno de los individuos a experimentar, en su vida interior, las enseñanzas del Libro de Urantia.
 
@@ -402,7 +402,7 @@ Una vez más, lo más importante es la experiencia de primera mano del lector co
 
 Lo que sigue es la declaración de un Consejero Divino de Orvonton sobre _El Libro de Urantia_.
 
-> _Conocemos plenamente las dificultades de nuestra misión; reconocemos la imposibilidad de traducir completamente el lenguaje de los conceptos de la divinidad y de la eternidad a los símbolos lingüísticos de los conceptos finitos de la mente mortal. Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios._ [LU 0:12.13](/es/El_Libro_de_Urantia/0#p12_13)
+> _Conocemos plenamente las dificultades de nuestra misión; reconocemos la imposibilidad de traducir completamente el lenguaje de los conceptos de la divinidad y de la eternidad a los símbolos lingüísticos de los conceptos finitos de la mente mortal. Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios._ [LU 0:12.13](/es/The_Urantia_Book/0#p12_13)
 
 Respecto al llamado «material canalizado» hay que recordar también que, según el propio _El Libro de Urantia_, los 196 documentos representan la totalidad del Apocalipsis.
 
@@ -436,7 +436,7 @@ En este momento, me gustaría citar a uno de mis predecesores en el Fideicomiso:
 
 > «Debemos ser ejemplos vivos de esta nueva revelación individual y colectivamente.» Y para concluir, la siguiente cita de _El Libro de Urantia_:
 >
-> > _«Esto que vuestros ojos contemplan ahora, este pequeño comienzo de doce hombres comunes, se multiplicará y crecerá hasta que, finalmente, toda la Tierra se llene con las alabanzas de mi Padre. Y no será tanto por las palabras que diréis, sino más bien por la vida que viviréis, como los hombres sabrán que habéis estado conmigo y que habéis aprendido las realidades del reino. Aunque no quisiera colocar ninguna carga pesada sobre vuestra mente, estoy a punto de depositar sobre vuestra alma la solemne responsabilidad de representarme en el mundo cuando os deje dentro de poco, como yo represento ahora a mi Padre en esta vida que estoy viviendo en la carne». Cuando Jesús terminó de hablar, se levantó._ [LU 140:1.7](/es/El_Libro_de_Urantia/140#p1_7)
+> > _«Esto que vuestros ojos contemplan ahora, este pequeño comienzo de doce hombres comunes, se multiplicará y crecerá hasta que, finalmente, toda la Tierra se llene con las alabanzas de mi Padre. Y no será tanto por las palabras que diréis, sino más bien por la vida que viviréis, como los hombres sabrán que habéis estado conmigo y que habéis aprendido las realidades del reino. Aunque no quisiera colocar ninguna carga pesada sobre vuestra mente, estoy a punto de depositar sobre vuestra alma la solemne responsabilidad de representarme en el mundo cuando os deje dentro de poco, como yo represento ahora a mi Padre en esta vida que estoy viviendo en la carne». Cuando Jesús terminó de hablar, se levantó._ [LU 140:1.7](/es/The_Urantia_Book/140#p1_7)
 
 Gracias por su atención.
 

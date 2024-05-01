@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1995</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal — Contenido del número, otoño de 1995</span>
         </a>
         </td>
         <td>
@@ -55,7 +55,7 @@ El ingrediente singular que traerá significado y unidad a la existencia planeta
       <tr>
         <td>
         <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1995</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal — Contenido del número, otoño de 1995</span>
         </a>
         </td>
         <td>

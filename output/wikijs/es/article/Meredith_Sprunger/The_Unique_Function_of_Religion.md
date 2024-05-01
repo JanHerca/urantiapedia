@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1991</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal — Contenido del número, otoño de 1991</span>
         </a>
         </td>
         <td>
@@ -59,7 +59,7 @@ Pero dado que la iglesia como institución está tan profundamente involucrada e
       <tr>
         <td>
         <a href="/es/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal - Contenido del número, otoño de 1991</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Fellowship Journal — Contenido del número, otoño de 1991</span>
         </a>
         </td>
         <td>

@@ -66,8 +66,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation online news</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_uf_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/urantian%20news" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -132,8 +135,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_study_group_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/study%20group%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -244,8 +250,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://urantia-book.org/index_spiritual_fellowship_journal.html">Journal archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_spiritual_fellowship_journal" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/the%20spiritual%20fellowship%20journal" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -295,8 +304,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/">Arena archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_arena" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/the%20arena" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>

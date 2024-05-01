@@ -167,7 +167,7 @@ CSS will automatically be minified. */
     display: flex;
     flex: none;
     min-height: 52px;
-    padding: 0.5rem;
+    padding: 1rem;
 }
 .v-main .contents .urantiapedia-book-front {
     align-items: center;

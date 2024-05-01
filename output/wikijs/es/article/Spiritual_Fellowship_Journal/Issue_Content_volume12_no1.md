@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Fellowship Journal - Contenido del número, primavera de 2002"
+title: "Spiritual Fellowship Journal — Contenido del número, primavera de 2002"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

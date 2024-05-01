@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Fellowship Journal - Contenido del número, Otoño-Invierno 2005"
+title: "Spiritual Fellowship Journal — Contenido del número, Otoño-Invierno 2005"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

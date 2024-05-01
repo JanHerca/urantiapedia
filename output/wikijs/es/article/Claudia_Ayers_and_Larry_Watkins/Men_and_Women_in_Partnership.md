@@ -74,7 +74,7 @@ Jesús logró mantenerse alejado de los problemas sociales y políticos de su é
 
 Hay un plan divino que exalta la relación entre la personalidad masculina y femenina revelado en _El Libro de Urantia_. Está retratado en la relación entre el Hijo Creador y el Espíritu Materno Creativo. Sus roles son diferentes, pero trabajan en armonía para el beneficio de toda su creación. En esta relación divina están simbolizados los roles de género apropiados para los mortales. A medida que trabajamos para desarrollar nuestro potencial a través de relaciones de asociación, esta importante relación celestial se convierte en nuestro estudio más significativo. (_Ver citas del Grupo 8_.)
 
-## Cotizaciones para estudio
+## Citas para estudio
 
 **Grupo 1: Hombres y mujeres no son iguales**
 
