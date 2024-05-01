@@ -1,6 +1,6 @@
 ---
 title: "Valores: aprenderlos o perderlos"
-description: "Problemas y respuestas: esta característica presenta temas controvertidos para la reflexión y el debate".
+description: "Problemas y respuestas: esta característica presenta temas controvertidos para la reflexión y el debate"
 published: true
 date: 2023-09-29T14:02:03.086Z
 tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article
