@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="pr-2">Informe del presidente: invierno de 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -106,7 +127,7 @@ _(Nota del editor: **Explorar los archivos** es una colección de artículos que
 _El difunto Ken Glasziou, Queensland_
 
 
-> _En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones._ ([LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
+> _En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones._ (<a id="a129_142"></a>[LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
 
 En 1935, esa afirmación sólo podría haber sido hecha con confianza por un puñado de nuestros hombres más eruditos.
 
@@ -207,7 +228,7 @@ Marion Steward, Auckland, Nueva Zelanda
 Mientras escribo esto, nuestro gobierno acaba de anunciar una pausa de la burbuja de viajes Trans-Tasmania durante al menos 8 semanas. Esto ha causado bastante consternación y agitación entre miles de neozelandeses que habían ido a Australia a visitar a familiares y amigos, lo que refleja los fuertes vínculos entre nuestros dos países. Habrá algunos desafíos muy difíciles por delante para aquellos que no puedan regresar en el tiempo, pero no es la primera vez que esto sucede y probablemente no será la última. Vivimos en tiempos muy inciertos, pero, según _El Libro de Urantia_, parte de nuestra misión en la vida es aprender a:
 <br style="clear:both;"/>
 
-> _...han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable._ ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
+> _...han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable._ (<a id="a230_325"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 Desde cualquier perspectiva, la situación global actual nos presenta oportunidades para hacer todas estas cosas.
 
@@ -293,3 +314,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-winter-2021/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="pr-2">Informe del presidente: invierno de 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

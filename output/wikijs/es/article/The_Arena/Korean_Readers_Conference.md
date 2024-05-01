@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Marion Steward<br>© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marion_Steward/New_Zealand_Corner_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón de Nueva Zelanda</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Administrador
@@ -48,3 +69,25 @@ Sitio web de la conferencia: [https://urantiaforum.modoo.at/](https://urantiafor
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/06/25/korean-readers-conference)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marion_Steward/New_Zealand_Corner_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón de Nueva Zelanda</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

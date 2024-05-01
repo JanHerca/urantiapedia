@@ -80,76 +80,76 @@ Hay un plan divino que exalta la relación entre la personalidad masculina y fem
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 69:3.8](/es/The_Urantia_Book/69#p3_8) | Diferenciación basada en mano de obra diversa.../calificada.
-[LU 84:5.3-14](/es/The_Urantia_Book/84#p5_3) | La idea moderna.../términos iguales.
-[LU 84:6.2-8](/es/The_Urantia_Book/84#p6_2) | La sociedad.../marido y mujer.
-[LU 111:4.6](/es/The_Urantia_Book/111#p4_6) | Los cristales de nieve son.../siempre únicos.
+<a id="a82_0"></a>[LU 69:3.8](/es/The_Urantia_Book/69#p3_8) | Diferenciación basada en mano de obra diversa.../calificada.
+<a id="a83_0"></a>[LU 84:5.3-14](/es/The_Urantia_Book/84#p5_3) | La idea moderna.../términos iguales.
+<a id="a84_0"></a>[LU 84:6.2-8](/es/The_Urantia_Book/84#p6_2) | La sociedad.../marido y mujer.
+<a id="a85_0"></a>[LU 111:4.6](/es/The_Urantia_Book/111#p4_6) | Los cristales de nieve son.../siempre únicos.
 
 **Grupo 2: La cooperación es una necesidad**
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 28:5.15](/es/The_Urantia_Book/28#p5_15) | Están los.../tus compañeros.
-[LU 68:1.4-5](/es/The_Urantia_Book/68#p1_4) | Humano primitivo.../civilización humana.
-[LU 84:1.9](/es/The_Urantia_Book/84#p1_9) | Independientemente de la.../felicidad.
-[LU 111:4.7](/es/The_Urantia_Book/111#p4_7) | Felicidad y alegría.../con los demás.
-[LU 133:5.6](/es/The_Urantia_Book/133#p5_6) | La matemática afirma.../sus partes.
-[LU 160:2.1](/es/The_Urantia_Book/160#p2_1) | 2\. El Arte de Vivir.../de la madurez.
+<a id="a91_0"></a>[LU 28:5.15](/es/The_Urantia_Book/28#p5_15) | Están los.../tus compañeros.
+<a id="a92_0"></a>[LU 68:1.4-5](/es/The_Urantia_Book/68#p1_4) | Humano primitivo.../civilización humana.
+<a id="a93_0"></a>[LU 84:1.9](/es/The_Urantia_Book/84#p1_9) | Independientemente de la.../felicidad.
+<a id="a94_0"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7) | Felicidad y alegría.../con los demás.
+<a id="a95_0"></a>[LU 133:5.6](/es/The_Urantia_Book/133#p5_6) | La matemática afirma.../sus partes.
+<a id="a96_0"></a>[LU 160:2.1](/es/The_Urantia_Book/160#p2_1) | 2\. El Arte de Vivir.../de la madurez.
 
 **Grupo 3 — Actitudes de Igualdad**
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 52:2.7-8](/es/The_Urantia_Book/52#p2_7) | Esta es la.../vida familiar.
-[LU 83:6.1](/es/The_Urantia_Book/83#p6_1) | 6\. Verdadera monogamia.../autoperpetuación.
-[LU 83:8.8-9](/es/The_Urantia_Book/83#p8_8) | Los ideales de.../generaciones pasadas.
-[LU 84:5.7](/es/The_Urantia_Book/84#p5_7) | Ciencia.../poder de la mujer.
-[LU 150:1.3](/es/The_Urantia_Book/150#p1_3) | Fue más.../fuera de práctica.
-[LU 167:5.5](/es/The_Urantia_Book/167#p5_5) | Y así, mientras Jesús rechazó.../privilegios de divorcio.
+<a id="a102_0"></a>[LU 52:2.7-8](/es/The_Urantia_Book/52#p2_7) | Esta es la.../vida familiar.
+<a id="a103_0"></a>[LU 83:6.1](/es/The_Urantia_Book/83#p6_1) | 6\. Verdadera monogamia.../autoperpetuación.
+<a id="a104_0"></a>[LU 83:8.8-9](/es/The_Urantia_Book/83#p8_8) | Los ideales de.../generaciones pasadas.
+<a id="a105_0"></a>[LU 84:5.7](/es/The_Urantia_Book/84#p5_7) | Ciencia.../poder de la mujer.
+<a id="a106_0"></a>[LU 150:1.3](/es/The_Urantia_Book/150#p1_3) | Fue más.../fuera de práctica.
+<a id="a107_0"></a>[LU 167:5.5](/es/The_Urantia_Book/167#p5_5) | Y así, mientras Jesús rechazó.../privilegios de divorcio.
 
 **Grupo 4 — Lucha entre hombres y mujeres**
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 69:3.11](/es/The_Urantia_Book/69#p3_11) | Especialización basada.../amueblar la vivienda.
-[LU 69:7.5](/es/The_Urantia_Book/69#p7_5) | Cuando el hombre era.../historia humana.
-[LU 83:7.7-8](/es/The_Urantia_Book/83#p7_7) | El alto grado.../costumbres en evolución.
-[LU 84:3.7](/es/The_Urantia_Book/84#p3_7) | La mujer siempre ha.../métodos de parto.
-[LU 84:4.1](/es/The_Urantia_Book/84#p4_1) | 4\. Estatus de la Mujer.../modo de existencia.
-[LU 84:5.10-14](/es/The_Urantia_Book/84#p5_10) | En los ideales.../igualdad de términos.
+<a id="a113_0"></a>[LU 69:3.11](/es/The_Urantia_Book/69#p3_11) | Especialización basada.../amueblar la vivienda.
+<a id="a114_0"></a>[LU 69:7.5](/es/The_Urantia_Book/69#p7_5) | Cuando el hombre era.../historia humana.
+<a id="a115_0"></a>[LU 83:7.7-8](/es/The_Urantia_Book/83#p7_7) | El alto grado.../costumbres en evolución.
+<a id="a116_0"></a>[LU 84:3.7](/es/The_Urantia_Book/84#p3_7) | La mujer siempre ha.../métodos de parto.
+<a id="a117_0"></a>[LU 84:4.1](/es/The_Urantia_Book/84#p4_1) | 4\. Estatus de la Mujer.../modo de existencia.
+<a id="a118_0"></a>[LU 84:5.10-14](/es/The_Urantia_Book/84#p5_10) | En los ideales.../igualdad de términos.
 
 **Grupo 5: Valor de la asociación**
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 68:2.8](/es/The_Urantia_Book/68#p2_8) | Casi todo.../a sus hijos.
-[LU 83:8.6-9](/es/The_Urantia_Book/83#p8_6) | Matrimonio siempre.../generaciones.
-[LU 84:1.2](/es/The_Urantia_Book/84#p1_2) | Mujer, porque.../niños.
-[LU 84:3.1](/es/The_Urantia_Book/84#p3_1) | Puede.../orden patriarcal.
-[LU 84:6.8](/es/The_Urantia_Book/84#p6_8) | El matrimonio es el.../marido y mujer.
-[LU 84:7.8-9](/es/The_Urantia_Book/84#p7_8) | Pero el hogar.../a su manera.
+<a id="a124_0"></a>[LU 68:2.8](/es/The_Urantia_Book/68#p2_8) | Casi todo.../a sus hijos.
+<a id="a125_0"></a>[LU 83:8.6-9](/es/The_Urantia_Book/83#p8_6) | Matrimonio siempre.../generaciones.
+<a id="a126_0"></a>[LU 84:1.2](/es/The_Urantia_Book/84#p1_2) | Mujer, porque.../niños.
+<a id="a127_0"></a>[LU 84:3.1](/es/The_Urantia_Book/84#p3_1) | Puede.../orden patriarcal.
+<a id="a128_0"></a>[LU 84:6.8](/es/The_Urantia_Book/84#p6_8) | El matrimonio es el.../marido y mujer.
+<a id="a129_0"></a>[LU 84:7.8-9](/es/The_Urantia_Book/84#p7_8) | Pero el hogar.../a su manera.
 
 **Grupo 6: La religión retrasa la igualdad**
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 84:3.2](/es/The_Urantia_Book/84#p3_2) | La escasa cortesía.../pastor.
-[LU 89:3.6-7](/es/The_Urantia_Book/89#p3_6) | Fueron solo.../seguidores.
-[LU 167:6.4](/es/The_Urantia_Book/167#p6_4) | El estatus de la mujer.../les enseñó.
-[LU 194:3.14](/es/The_Urantia_Book/194#p3_14) | Antes de las enseñanzas.../libertad.
+<a id="a135_0"></a>[LU 84:3.2](/es/The_Urantia_Book/84#p3_2) | La escasa cortesía.../pastor.
+<a id="a136_0"></a>[LU 89:3.6-7](/es/The_Urantia_Book/89#p3_6) | Fueron solo.../seguidores.
+<a id="a137_0"></a>[LU 167:6.4](/es/The_Urantia_Book/167#p6_4) | El estatus de la mujer.../les enseñó.
+<a id="a138_0"></a>[LU 194:3.14](/es/The_Urantia_Book/194#p3_14) | Antes de las enseñanzas.../libertad.
 
 **Grupo 7 — Valores del carácter de Jesús**
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 139:0.1](/es/The_Urantia_Book/139#p0_1) | Documento 139
+<a id="a144_0"></a>[LU 139:0.1](/es/The_Urantia_Book/139#p0_1) | Documento 139
 
 **Grupo 8 — Roles mortales**
 
 Página | Comienza con/Termina con
 --- | ---
-[LU 33:3.1-8](/es/The_Urantia_Book/33#p3_1) | 3\. El Universo Hijo y Espíritu.../el otro.
-[LU 34:4.3-7](/es/The_Urantia_Book/34#p4_3) | El Hijo Creador.../Espíritu Santo.
+<a id="a150_0"></a>[LU 33:3.1-8](/es/The_Urantia_Book/33#p3_1) | 3\. El Universo Hijo y Espíritu.../el otro.
+<a id="a151_0"></a>[LU 34:4.3-7](/es/The_Urantia_Book/34#p4_3) | El Hijo Creador.../Espíritu Santo.
 
 ## Bibliografía
 

@@ -15,7 +15,7 @@ _Por Mary Daly, Garretson, SD_
 
 ## Origen del Ministro Divino
 
-([LU 6:1.2](/es/The_Urantia_Book/6#p1_2)) Cuando un/universo proyectado.
+(<a id="a17_1"></a>[LU 6:1.2](/es/The_Urantia_Book/6#p1_2)) Cuando un/universo proyectado.
 [Génesis 1:1-2](/es/Bible/Genesis/1#v1)
 [Proverbios 8:22-35](/es/Bible/Proverbs/8#v22)
 
@@ -64,7 +64,7 @@ Hace unos años, le pregunté a una compañera lectora, una ex católica, cuánt
 
 Bueno, lo de «la diosa» no se parece mucho a la enseñanza católica, y tampoco se parece mucho al Ministro Divino. De hecho, es como la rebelión de Lucifer.
 
-Se podría resumir el Manifiesto de Lucifer ([LU 53:3.1](/es/The_Urantia_Book/53#p3_1)) en tres declaraciones: «No adoraré; No serviré; No seré responsable». De manera similar, «lo de la diosa» es anti-Padre, incluida la Paternidad de Dios y el privilegio de ser atraído nuevamente a su adoración. Rechaza muchas formas de servicio como subyugación, incluida toda forma de servicio que comienza con la sumisión a la voluntad de otro. Elude la responsabilidad al consagrar el papel de la intuición sin distinguir entre el trabajo primitivo y prelógico del primer espíritu mental ayudante y el desarrollo del alma y el superconsciente que legítimamente hacen afirmaciones que trascienden la lógica (pero no la contradicen).
+Se podría resumir el Manifiesto de Lucifer (<a id="a66_44"></a>[LU 53:3.1](/es/The_Urantia_Book/53#p3_1)) en tres declaraciones: «No adoraré; No serviré; No seré responsable». De manera similar, «lo de la diosa» es anti-Padre, incluida la Paternidad de Dios y el privilegio de ser atraído nuevamente a su adoración. Rechaza muchas formas de servicio como subyugación, incluida toda forma de servicio que comienza con la sumisión a la voluntad de otro. Elude la responsabilidad al consagrar el papel de la intuición sin distinguir entre el trabajo primitivo y prelógico del primer espíritu mental ayudante y el desarrollo del alma y el superconsciente que legítimamente hacen afirmaciones que trascienden la lógica (pero no la contradicen).
 
 En resumen, lo de la diosa es competitivo, astuto, irresponsable y completamente terrenal. Es la confusión máxima entre los reinos psíquico y espiritual, impuesta como doctrina y consagrada en prácticas que ridiculizan la posibilidad de dar al análisis un lugar saludable en el pensamiento religioso. Es la corrupción, no el despertar, de una experiencia religiosa evolutiva. No tiene nada útil que decir sobre la maternidad espiritual y mucho que sugerir que es perjudicial para la armonía de género y, en consecuencia, para el avance de la vida familiar.
 
@@ -74,7 +74,7 @@ En pocas palabras, ¿es sexista llamar a la Primera Fuente y Centro «Padre nues
 
 El feminismo tiene dos caras. One Face reivindica la igualdad de dignidad para mujeres y hombres y busca la justicia para las mujeres en la esfera pública junto con el desarrollo continuo de la protección y el cuidado en el ámbito de la familia. La revelación de Urantia respalda este programa sólo señalando que la igualdad social total debe esperar al final de la guerra porque las mujeres no pueden competir en este esfuerzo sin sacrificar sus logros en el ámbito familiar.
 
-La otra cara del feminismo busca reforzar las afirmaciones de igualdad de género con afirmaciones espurias de igualdad que no tienen base ni en la ciencia ni en la espiritualidad y que con frecuencia van en contra de los mejores intereses de la familia. Sobre este rostro _El Libro de Urantia_ tiene palabras fuertes: _La mujer finalmente ha ganado reconocimiento, dignidad, independencia, igualdad y educación; pero ¿será ella digna de todo este logro nuevo y sin precedentes? ¿Responderá la mujer moderna a este gran logro de liberación social con ociosidad, indiferencia, esterilidad e infidelidad? Hoy, en el siglo XX, la mujer está atravesando la prueba crucial de su larga existencia en el mundo. ([LU 84:5.10](/es/The_Urantia_Book/84#p5_10))
+La otra cara del feminismo busca reforzar las afirmaciones de igualdad de género con afirmaciones espurias de igualdad que no tienen base ni en la ciencia ni en la espiritualidad y que con frecuencia van en contra de los mejores intereses de la familia. Sobre este rostro _El Libro de Urantia_ tiene palabras fuertes: _La mujer finalmente ha ganado reconocimiento, dignidad, independencia, igualdad y educación; pero ¿será ella digna de todo este logro nuevo y sin precedentes? ¿Responderá la mujer moderna a este gran logro de liberación social con ociosidad, indiferencia, esterilidad e infidelidad? Hoy, en el siglo XX, la mujer está atravesando la prueba crucial de su larga existencia en el mundo. (<a id="a76_704"></a>[LU 84:5.10](/es/The_Urantia_Book/84#p5_10))
 
 ¡El Papa podría haber usado esa línea en su encíclica Humanae Vitae!
 

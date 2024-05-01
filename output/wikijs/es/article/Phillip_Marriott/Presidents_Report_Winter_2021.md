@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Phillip Marriott<br>© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2021_winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Invierno 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="pr-2">Recordatorio de la conferencia de Sídney - 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Phillip Marriott, Adelaida, SA
@@ -53,3 +77,28 @@ Espero que disfrutes de esta edición de _Arena_. Gracias a todos y váyanse en 
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/07/29/presidents-report-winter-2021)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2021_winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Invierno 2021 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="pr-2">Recordatorio de la conferencia de Sídney - 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 James McGarry<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente sobre la materia, el espíritu sobre la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="pr-2">El Plan de la Ascensión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por James McGarry, Hobart - Presentado en la Conferencia de Canberra el 27 de septiembre de 2019
@@ -77,3 +101,28 @@ Me ayudó a integrar todas las enseñanzas espirituales/religiosas anteriores de
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/09/27/as-spirit-moves-you)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente sobre la materia, el espíritu sobre la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="pr-2">El Plan de la Ascensión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

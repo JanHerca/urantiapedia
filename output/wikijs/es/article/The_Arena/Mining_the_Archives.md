@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día de Estudio 2021 – Reflexiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="pr-2">Aplicación del pensamiento científico...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _(Nota del editor: **Explorar los archivos** es una colección de artículos que se han publicado en varios boletines a lo largo de los años y han permanecido enterrados en los archivos. Un equipo de voluntarios ha estado «extrayendo los archivos» para gemas, por lo que ahora podemos sacarlas a la luz para compartirlas utilizando la tecnología moderna. **Este es del boletín Innerface, septiembre de 2002.** Nota adicional: los próximos dos artículos de esta edición de Arena-Winter 2021 de William Wentworth y Nigel Nunn son pensamientos inspirados en este artículo de 2002 del general Glasziou.)_
@@ -18,7 +42,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 _El difunto Ken Glasziou, Queensland_
 
-> _En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones._ ([LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
+> _En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones._ (<a id="a44_142"></a>[LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
 > 
 > En el estado mortal no hay nada que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones. En el nivel morontial, los postulados de la ciencia y de la religión se pueden probar parcialmente mediante la lógica de la mota. En el nivel espiritual representado por el estado máximo, la necesidad de una prueba finita se desvanece gradualmente ante la experiencia efectiva de, y con, la realidad; pero incluso entonces existen muchas cosas más allá de lo finito que permanecen sin poderse probar.
 
@@ -50,3 +74,28 @@ _Existe una teoría que afirma que si alguien descubre exactamente para qué sir
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/07/29/mining-archives-glasziou)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día de Estudio 2021 – Reflexiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="pr-2">Aplicación del pensamiento científico...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

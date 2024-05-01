@@ -16,7 +16,7 @@ dateCreated: 2023-10-23T10:55:6Z
 </figure>
 
 
-> «Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal.» ([LU 102:7.10](/es/The_Urantia_Book/102#p7_10))
+> «Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal.» (<a id="a18_288"></a>[LU 102:7.10](/es/The_Urantia_Book/102#p7_10))
 
 **Por Melissa Wells**
 **Raleigh, Carolina del Norte**

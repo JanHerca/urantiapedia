@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jeff y Mahtab<br>© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rita_Schaad/Feelings_Too_Deep_for_Words">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sentimientos demasiado profundos para expresarlos con palabras</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Coenraads/Spiritual_Practices">
+          <span class="pr-2">Prácticas espirituales: una invitación a la intimidad con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Jeff y Mahtab, EE. UU.
@@ -30,17 +54,17 @@ _(Este es un diálogo entre Jeff y Mathab que se presentó a través de Zoom en 
 
 ## El discurso de Mathab
 
-«En su verdadera esencia, la religión es fe-confianza en la bondad de Dios». ([LU 2:6.1](/es/The_Urantia_Book/2#p6_1)) Un problema de salud reciente me hizo preguntarme qué tan cierta es esta afirmación en mi propia experiencia personal.
+«En su verdadera esencia, la religión es fe-confianza en la bondad de Dios». (<a id="a56_78"></a>[LU 2:6.1](/es/The_Urantia_Book/2#p6_1)) Un problema de salud reciente me hizo preguntarme qué tan cierta es esta afirmación en mi propia experiencia personal.
 
 Una mañana me desperté con la garganta hinchada y apenas podía tragar ni siquiera la saliva. Durante los días siguientes, traté de comer pequeños bocados de comida, con la esperanza de que pasara lo que fuera en uno o dos días. No fue así y, de hecho, las cosas empeoraron. Poco a poco, hablar se volvió incómodo y comencé a perder la voz, seguido de una pérdida de peso significativa. Después de visitar a algunos especialistas, recibí un diagnóstico de enfermedad por reflujo laringofaríngeo o LPR. Me tomó algún tiempo darme cuenta de que esto podría convertirse en una condición crónica. Tenía miedo, ya que nada parecía ayudar, y buscaba desesperadamente una explicación a lo que había provocado mis síntomas en primer lugar.
 
-Esta prueba también me hizo tomar conciencia de cuánto me había faltado en la fe viva. Habían sido tiempos difíciles e incómodos, y me encontré cayendo en una espiral de miedo y ansiedad. _El Libro de Urantia_ nos dice que «la fe es un atributo vivo de una experiencia religiosa personal genuina». ([LU 101:8.1](/es/The_Urantia_Book/101#p8_1)) Y dice que «un estado de ánimo alcanza niveles de fe sólo cuando realmente domina el modo de vivir». (LU 101:8.1) En las primeras etapas de mi enfermedad, me sentí completamente dominado, no por la fe-confianza en Dios, sino por el miedo y la incertidumbre. En el fragor del momento, me había faltado esa fe «viva», «en expansión», «liberadora» y «liberadora» y esa confianza sublime en el cuidado excesivo de Dios que me habría abierto a la guía de su espíritu interior. Fácilmente perdí de vista la verdad de que, sin importar lo que estuviera pasando, Dios todavía estaba presente. Que el espíritu del Padre amoroso de un universo que lo sabe todo todavía habita en mi mente, y que probablemente estaba trabajando incansablemente para enseñarme algo en medio de esta experiencia turbulenta.
+Esta prueba también me hizo tomar conciencia de cuánto me había faltado en la fe viva. Habían sido tiempos difíciles e incómodos, y me encontré cayendo en una espiral de miedo y ansiedad. _El Libro de Urantia_ nos dice que «la fe es un atributo vivo de una experiencia religiosa personal genuina». (<a id="a60_299"></a>[LU 101:8.1](/es/The_Urantia_Book/101#p8_1)) Y dice que «un estado de ánimo alcanza niveles de fe sólo cuando realmente domina el modo de vivir». (LU 101:8.1) En las primeras etapas de mi enfermedad, me sentí completamente dominado, no por la fe-confianza en Dios, sino por el miedo y la incertidumbre. En el fragor del momento, me había faltado esa fe «viva», «en expansión», «liberadora» y «liberadora» y esa confianza sublime en el cuidado excesivo de Dios que me habría abierto a la guía de su espíritu interior. Fácilmente perdí de vista la verdad de que, sin importar lo que estuviera pasando, Dios todavía estaba presente. Que el espíritu del Padre amoroso de un universo que lo sabe todo todavía habita en mi mente, y que probablemente estaba trabajando incansablemente para enseñarme algo en medio de esta experiencia turbulenta.
 
 Han pasado casi dos años desde esa mañana y, mirando hacia atrás, he aprendido mucho sobre mi condición y cómo manejarla. Por ejemplo, aprendí sobre las opciones dietéticas y de estilo de vida que probablemente provocaron mi dolencia. Y lo más importante, la idea de que cuando se trata de tomar decisiones sobre dieta y estilo de vida, no existe una solución única para todos. Haré bien en sintonizarme con mi propio cuerpo, en lugar de seguir una tendencia popular. Mentalmente, me he vuelto más paciente y resiliente, sabiendo que aunque mis síntomas pueden ser particularmente graves en un día determinado, casi siempre mejoran al día siguiente. Y que el cuerpo tiene una maravillosa capacidad de curación, con el tiempo y el tratamiento adecuado. A día de hoy, sigo aprendiendo sobre mi condición y adaptándome en consecuencia.
 
 Más recientemente, cuando el polvo se asentó y comencé a recomponerme y a pensar con más claridad, me di cuenta más plenamente de la dimensión espiritual del problema y pude hacer algunos progresos. He estado utilizando una técnica para ayudar a nutrir una fe viva y confianza en mi relación con Dios. Cuando las nubes de incertidumbre y sentimientos de miedo comienzan a acumularse en mi mente, me detengo para reconocerlas primero y luego cambiar activamente mi estado mental a un modo de confianza: esa seguridad de que todas las cosas ayudan a bien, porque Dios es bueno.  No siempre consigo desviar mis pensamientos de esta manera, pero sé que con la práctica esto puede convertirse en un hábito. Estoy agradecido por cada paso del progreso espiritual. Debido a esta actitud de confianza, ya estoy notando que mi mente se ha vuelto más activa en los dominios espirituales. Esta fe-confianza me ha impulsado a tomar _y_ ejecutar decisiones que permitirán aún más que el espíritu de Dios obre en mí y a través de mí. Por ejemplo, cuando me siento abrumado por las tareas diarias que tengo por delante, en lugar de sentirme paralizado, me concentro en una actitud de confianza y asumo una tarea a la vez.
 
-Esta experiencia ha sido de gran valor para mí personalmente, en gran medida porque he aprovechado el valor universal de la experiencia personal de Jesús. Su vida demuestra mejor el concepto de fe viva. Su experiencia religiosa personal forma la base del Evangelio. Se nos dice que su fe viva «dominaba totalmente sus pensamientos y sentimientos, su creencia y su oración, su enseñanza y su predicación. Esta fe personal de un hijo en la certidumbre y la seguridad de la guía y la protección del Padre celestial confirió a su vida excepcional una profunda dotación de realidad espiritual». ([LU 196:0.9](/es/The_Urantia_Book/196#p0_9)) El evangelio de Jesús fue la buena noticia de la paternidad de Dios y la hermandad del hombre. Así como un niño confía fácilmente en su padre terrenal, nosotros podemos confiar en que nuestro Padre celestial velará por nosotros y nos guiará en todas las circunstancias de la vida diaria. La Paternidad (o paternidad) de Dios abarca muchas cosas, sobre todo un amor incomparable por sus hijos. Un Padre amoroso desea que sus hijos le amen a cambio, pero también que confíen en él con todo el corazón. De hecho, se nos dice que «la bondad de Dios se encuentra sólo en el mundo espiritual de la experiencia religiosa personal». ([LU 2:6.1](/es/The_Urantia_Book/2#p6_1))
+Esta experiencia ha sido de gran valor para mí personalmente, en gran medida porque he aprovechado el valor universal de la experiencia personal de Jesús. Su vida demuestra mejor el concepto de fe viva. Su experiencia religiosa personal forma la base del Evangelio. Se nos dice que su fe viva «dominaba totalmente sus pensamientos y sentimientos, su creencia y su oración, su enseñanza y su predicación. Esta fe personal de un hijo en la certidumbre y la seguridad de la guía y la protección del Padre celestial confirió a su vida excepcional una profunda dotación de realidad espiritual». (<a id="a66_591"></a>[LU 196:0.9](/es/The_Urantia_Book/196#p0_9)) El evangelio de Jesús fue la buena noticia de la paternidad de Dios y la hermandad del hombre. Así como un niño confía fácilmente en su padre terrenal, nosotros podemos confiar en que nuestro Padre celestial velará por nosotros y nos guiará en todas las circunstancias de la vida diaria. La Paternidad (o paternidad) de Dios abarca muchas cosas, sobre todo un amor incomparable por sus hijos. Un Padre amoroso desea que sus hijos le amen a cambio, pero también que confíen en él con todo el corazón. De hecho, se nos dice que «la bondad de Dios se encuentra sólo en el mundo espiritual de la experiencia religiosa personal». (<a id="a66_1262"></a>[LU 2:6.1](/es/The_Urantia_Book/2#p6_1))
 
 ## El discurso de Jeff
 
@@ -62,16 +86,16 @@ La fe viva también es activa. La fe, dada por Dios, viene con un poder insospec
 
 Esta es una de las cosas más interesantes que la fe puede hacer. Yo cito:
 
-> _El grito del justo es el acto de fe del hijo de Dios que abre la puerta del almacén de bondad, de verdad y de misericordia del Padre; estos dones preciados han estado esperando mucho tiempo a que el hijo se acerque y se los apropie personalmente._ ([LU 146:2.8](/es/The_Urantia_Book/146#p2_8))
+> _El grito del justo es el acto de fe del hijo de Dios que abre la puerta del almacén de bondad, de verdad y de misericordia del Padre; estos dones preciados han estado esperando mucho tiempo a que el hijo se acerque y se los apropie personalmente._ (<a id="a88_252"></a>[LU 146:2.8](/es/The_Urantia_Book/146#p2_8))
 
 El almacén de bondad del Padre está dentro de vosotros. Es como el cocinero que ha preparado la comida para los invitados y grita: «Ven a buscarla». Apropiación significa hacer verdaderamente tuyo el regalo.
 Cuando tu fe entra en acción y confías en la bondad de Dios, _esperas_ que sucedan cosas buenas. La expectativa hace una gran diferencia. Recordemos el hospital de Betsaida, donde Jesús visitaba a los enfermos. Se señaló que:
 
-> _...se trataba únicamente de esas transformaciones de mente y de espíritu que a veces se producen en la experiencia de las personas expectantes y dominadas por la fe, cuando se encuentran bajo la influencia inmediata e inspiradora de una personalidad fuerte, positiva y benéfica, cuyo ministerio destierra el temor y destruye la ansiedad._ ([LU 148:2.2](/es/The_Urantia_Book/148#p2_2))
+> _...se trataba únicamente de esas transformaciones de mente y de espíritu que a veces se producen en la experiencia de las personas expectantes y dominadas por la fe, cuando se encuentran bajo la influencia inmediata e inspiradora de una personalidad fuerte, positiva y benéfica, cuyo ministerio destierra el temor y destruye la ansiedad._ (<a id="a93_343"></a>[LU 148:2.2](/es/The_Urantia_Book/148#p2_2))
 
 A continuación, invitemos a Dios a aumentar nuestro concepto de su bondad.
 
-> «_La bondad de Dios descansa en el fondo del libre albedrío divino —la tendencia universal a amar, a mostrar misericordia, a manifestar paciencia y a ofrecer el perdón._» ([LU 2:6.9](/es/The_Urantia_Book/2#p6_9))
+> «_La bondad de Dios descansa en el fondo del libre albedrío divino —la tendencia universal a amar, a mostrar misericordia, a manifestar paciencia y a ofrecer el perdón._» (<a id="a97_174"></a>[LU 2:6.9](/es/The_Urantia_Book/2#p6_9))
 
 ## Detente y reflexiona
 
@@ -89,7 +113,7 @@ En mi opinión, la investigación en el campo de la psicología positiva ha desc
 
 Fredrickson descubre que la mayoría de las veces no permitimos que las emociones positivas florezcan y nos llenen. Tenemos un sentimiento positivo a un nivel modesto, y asumimos que eso es todo. Entonces no nos abrimos a nada más. En cambio, nos distraemos y pasamos a otra cosa.
 
-Pero podemos fomentar este florecimiento. Consejo: interprete las cosas y las ideas a medida que se desarrollan, de manera que generen emociones positivas. Ella escribe: «Te permites tomarte un momento para **encontrar lo bueno, y cuando lo encuentras, lo apoyas y lo dejas crecer**.» _El Libro de Urantia_ dice prácticamente lo mismo refiriéndose al espíritu interior de Dios: «¿Por qué no animas al ayudante celestial a animarte con la visión clara de la perspectiva eterna de la vida universal mientras contemplas perplejo los problemas de la hora que pasa?» ([LU 111:7.3](/es/The_Urantia_Book/111#p7_3))
+Pero podemos fomentar este florecimiento. Consejo: interprete las cosas y las ideas a medida que se desarrollan, de manera que generen emociones positivas. Ella escribe: «Te permites tomarte un momento para **encontrar lo bueno, y cuando lo encuentras, lo apoyas y lo dejas crecer**.» _El Libro de Urantia_ dice prácticamente lo mismo refiriéndose al espíritu interior de Dios: «¿Por qué no animas al ayudante celestial a animarte con la visión clara de la perspectiva eterna de la vida universal mientras contemplas perplejo los problemas de la hora que pasa?» (<a id="a115_563"></a>[LU 111:7.3](/es/The_Urantia_Book/111#p7_3))
 
 Entonces, en respuesta a nuestro reconocimiento de la bondad de Dios, lo que puede comenzar como un sentimiento cálido en el corazón puede convertirse en una adoración amorosa.
 
@@ -101,3 +125,28 @@ DE ACUERDO. Eso es todo. A continuación, tenemos un período de silencio de cin
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/06/25/__trashed-2)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rita_Schaad/Feelings_Too_Deep_for_Words">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sentimientos demasiado profundos para expresarlos con palabras</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Coenraads/Spiritual_Practices">
+          <span class="pr-2">Prácticas espirituales: una invitación a la intimidad con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

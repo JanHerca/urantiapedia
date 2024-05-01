@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Marion Steward<br>© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neil_Francey/On_the_Revelatory_Status_essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el estatus revelador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Korean_Readers_Conference">
+          <span class="pr-2">Conferencia de lectores coreanos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Marion Steward, Nueva Zelanda
@@ -21,7 +45,7 @@ El invierno ya está aquí en nuestra parte del mundo, y hemos estado disfrutand
 
 ¡He estado reflexionando sobre el estímulo del Libro de Urantia a «deleitarnos con la incertidumbre»!
 
-> _...Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable._ ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
+> _...Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable._ (<a id="a47_397"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
 Sin duda, se nos están brindando muchas oportunidades para poner esto en práctica: el clima es muy incierto, el Covid no ha desaparecido y ahora estamos empezando a experimentar las primeras fases de nuestras elecciones nacionales, donde el resultado también es bastante incierto, pero podría traer muchos cambios.
 
@@ -44,3 +68,28 @@ Debes pensar que los kiwis somos un grupo desesperado, pero no ha pasado mucho a
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/06/25/new-zealand-corner-7)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neil_Francey/On_the_Revelatory_Status_essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el estatus revelador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Korean_Readers_Conference">
+          <span class="pr-2">Conferencia de lectores coreanos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

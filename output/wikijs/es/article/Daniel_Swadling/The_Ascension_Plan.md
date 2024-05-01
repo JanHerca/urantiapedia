@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Daniel Swadling<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_McGarry/As_the_Spirit_Moves_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Como el Espíritu te mueve</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Summer_2019">
+          <span class="pr-2">Rincón de Nueva Zelanda – Verano 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Daniel Swadling, Sydney - Presentado en la Conferencia de Canberra el 27 de septiembre de 2019
@@ -24,7 +48,7 @@ En primer lugar, me gustaría agradecer al grupo de Canberra por esta conferenci
 Fue un día histórico cuando Jesús dejó sus herramientas de carpintería en el cobertizo para botes por última vez, después de escuchar que Juan el Bautista había sido arrestado, y entró en el templo para comenzar su ministerio de enseñanza pública y predicó sobre el ‘reino interior’ donde dijo:
 <br style="clear:both;"/>
 
-> _«Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina»._ ([LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
+> _«Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina»._ (<a id="a50_435"></a>[LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
 
 Volveré a esto, pero primero (¡ya que es el día de las Grandes Finales de fútbol!) quiero hablar un poco sobre los objetivos.
 
@@ -38,11 +62,11 @@ Durante mucho tiempo nos hemos preguntado hacia dónde vamos en esta vida, si ti
 
 El paraíso es **la** Meta. _El Libro de Urantia_ afirma:
 
-> _...la cosa más importante para los mortales, en lo que concierne al Paraíso eterno, es el hecho de que esta morada perfecta del Padre Universal es el destino **real** y lejano de las **almas inmortales** de los hijos mortales y materiales de Dios, las criaturas ascendentes de los mundos evolutivos del tiempo y del espacio._ ([LU 11:9.8](/es/The_Urantia_Book/11#p9_8))
+> _...la cosa más importante para los mortales, en lo que concierne al Paraíso eterno, es el hecho de que esta morada perfecta del Padre Universal es el destino **real** y lejano de las **almas inmortales** de los hijos mortales y materiales de Dios, las criaturas ascendentes de los mundos evolutivos del tiempo y del espacio._ (<a id="a64_330"></a>[LU 11:9.8](/es/The_Urantia_Book/11#p9_8))
 
 Y:
 
-> _El Paraíso es único en el sentido de que es la esfera de origen primordial y la meta de destino final de todas las personalidades espirituales. ... el Paraíso sigue siendo la meta deseada por todas las personalidades supermateriales._ ([LU 11:9.1](/es/The_Urantia_Book/11#p9_1))
+> _El Paraíso es único en el sentido de que es la esfera de origen primordial y la meta de destino final de todas las personalidades espirituales. ... el Paraíso sigue siendo la meta deseada por todas las personalidades supermateriales._ (<a id="a68_239"></a>[LU 11:9.1](/es/The_Urantia_Book/11#p9_1))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Arena/Daniel-Swadling-292x300.jpg" alt="Daniel Swadling">
@@ -57,14 +81,14 @@ Estos Documentos del Libro de Urantia describen ese plan. Los Documentos nos dic
 _El plan es:_ transformarnos de trozos materiales de materia, en incrementos cada vez más espirituales, en «personalidades supermateriales», «almas inmortales», seres puramente espirituales. ¿Por qué? Bueno, reflexiona sobre esto:
 <br style="clear:both;"/>
 
-> _La belleza material del Paraíso consiste en la magnificencia de su ***perfección física***; la grandiosidad de la Isla de Dios se manifiesta en los ***logros intelectuales*** y en el ***desarrollo mental magníficos*** de sus habitantes; la gloria de la Isla central se manifiesta en la donación infinita de la personalidad espiritual divina —la luz de la vida. ***Pero*** la intensidad de la belleza espiritual y las maravillas de este conjunto magnífico ***sobrepasan*** por completo la comprensión de la mente finita de las criaturas materiales. La gloria y el esplendor espiritual de la morada divina son imposibles de comprender por los mortales. Y el Paraíso existe desde la eternidad; no hay ni archivos ni tradiciones respecto al origen de esta Isla nuclear de Luz y de Vida._ ([LU 11:0.2](/es/The_Urantia_Book/11#p0_2))
+> _La belleza material del Paraíso consiste en la magnificencia de su ***perfección física***; la grandiosidad de la Isla de Dios se manifiesta en los ***logros intelectuales*** y en el ***desarrollo mental magníficos*** de sus habitantes; la gloria de la Isla central se manifiesta en la donación infinita de la personalidad espiritual divina —la luz de la vida. ***Pero*** la intensidad de la belleza espiritual y las maravillas de este conjunto magnífico ***sobrepasan*** por completo la comprensión de la mente finita de las criaturas materiales. La gloria y el esplendor espiritual de la morada divina son imposibles de comprender por los mortales. Y el Paraíso existe desde la eternidad; no hay ni archivos ni tradiciones respecto al origen de esta Isla nuclear de Luz y de Vida._ (<a id="a83_788"></a>[LU 11:0.2](/es/The_Urantia_Book/11#p0_2))
 
 Y así tenemos el Plan de Ascensión; la transformación espiritual necesaria para llegar al Paraíso y encontrarse con el Padre de toda la creación:
 
 ## Los pasos principales:
 
 > _En Urantia pasáis por una prueba corta e intensa durante la vida inicial de vuestra existencia ***material***. En los mundos de las mansiones y pasando por vuestro sistema, vuestra constelación y vuestro universo local, atravesáis las fases morontiales de la ascensión._
-> _En los mundos formativos del superuniverso pasáis por las verdaderas etapas espirituales de la progresión y os preparáis para el tránsito final hacia Havona. En los siete circuitos de Havona, vuestra consecución es intelectual, espiritual y experiencial. Y existe una tarea determinada a realizar en cada uno de los mundos de cada uno de estos circuitos._ ([LU 14:5.1](/es/The_Urantia_Book/14#p5_1))
+> _En los mundos formativos del superuniverso pasáis por las verdaderas etapas espirituales de la progresión y os preparáis para el tránsito final hacia Havona. En los siete circuitos de Havona, vuestra consecución es intelectual, espiritual y experiencial. Y existe una tarea determinada a realizar en cada uno de los mundos de cada uno de estos circuitos._ (<a id="a90_360"></a>[LU 14:5.1](/es/The_Urantia_Book/14#p5_1))
 
 En Havona, nuestro logro es intelectual, espiritual y experiencial; alcanzamos la comprensión total de Dios en muchos niveles al atravesar sus siete circuitos:
 
@@ -74,7 +98,7 @@ En Havona, nuestro logro es intelectual, espiritual y experiencial; alcanzamos l
 - cuarto: alcanzar al Hijo Eterno
 - tercero: reconocer al Padre Universal
 - segundo: familiarizarse más con los anfitriones de Paradise
-- primer circuito: mayor logro espiritual. Nuestra llegada aquí señala nuestra aceptación al servicio del Paraíso. Luego, cuando se nos considera listos, pasamos hacia adentro, a lo que ahora se convierte en nuestro hogar Paradisíaco, y somos admitidos en el Cuerpo de la Finalidad. [[LU 14:5.4](/es/The_Urantia_Book/14#p5_4)]
+- primer circuito: mayor logro espiritual. Nuestra llegada aquí señala nuestra aceptación al servicio del Paraíso. Luego, cuando se nos considera listos, pasamos hacia adentro, a lo que ahora se convierte en nuestro hogar Paradisíaco, y somos admitidos en el Cuerpo de la Finalidad. <a id="a100_283"></a>[[LU 14:5.4](/es/The_Urantia_Book/14#p5_4)]
 
 ## Los marcadores del jubileo:
 
@@ -86,7 +110,7 @@ En Havona, nuestro logro es intelectual, espiritual y experiencial; alcanzamos l
 > y el sexto jubileo fue el acontecimiento del despertar en el Paraíso después del sueño de tránsito final del tiempo. 
 > El séptimo jubileo señala la entrada en el cuerpo finalitario de los mortales y el comienzo del servicio en la eternidad. 
 > Cuando un finalitario alcance la séptima fase de su realización espiritual, este hecho señalará probablemente la celebración del primer jubileo de la eternidad. 
-> ([LU 27:7.8](/es/The_Urantia_Book/27#p7_8))
+> (<a id="a112_3"></a>[LU 27:7.8](/es/The_Urantia_Book/27#p7_8))
 
 El plan se ha puesto en marcha para ayudarnos a cumplir **gradualmente** ese mandato universal de «Sed vosotros perfectos, así como vuestro Padre que está en los cielos es perfecto». Permite que la realidad potencial se convierta en realidad real. Y hay una gran cantidad de seres y espíritus que nos ministran a lo largo del camino para ayudarnos siempre hacia arriba y hacia adentro.
 
@@ -98,7 +122,7 @@ Y no olvidemos cuán importante es realmente esta vida material. Si fue lo sufic
 
 Dijo el Poderoso Mensajero, un antiguo mortal que regresó aquí desde el Paraíso para decirnos:
 
-> _¡Qué destino tan digno y qué consecución tan gloriosa os espera a cada uno de vosotros! ¿Apreciáis plenamente lo que se ha hecho por vosotros? ¿Comprendéis la grandiosidad de las alturas de los logros eternos que se extienden ante vosotros —incluso ante vosotros que ahora camináis con dificultad por el humilde sendero de la vida a través de vuestro llamado «valle de lágrimas»?_ ([LU 40:7.5](/es/The_Urantia_Book/40#p7_5))
+> _¡Qué destino tan digno y qué consecución tan gloriosa os espera a cada uno de vosotros! ¿Apreciáis plenamente lo que se ha hecho por vosotros? ¿Comprendéis la grandiosidad de las alturas de los logros eternos que se extienden ante vosotros —incluso ante vosotros que ahora camináis con dificultad por el humilde sendero de la vida a través de vuestro llamado «valle de lágrimas»?_ (<a id="a124_385"></a>[LU 40:7.5](/es/The_Urantia_Book/40#p7_5))
 
 ## Poner el plan en acción
 
@@ -113,21 +137,21 @@ Estos son los principales niveles de logro, que son tanto geográficos como espi
 
 No podemos avanzar al siguiente nivel hasta que hayamos logrado lo que necesitamos, **espiritualmente**, en el nivel en el que nos encontramos actualmente. Entonces, si somos serios y estamos motivados para alcanzar el objetivo final, debemos avanzar paso a paso. **Solo necesitamos, por ahora**, centrarnos en el próximo objetivo alcanzable, que para nosotros, los seres materiales... es la fusión. (Esto es más que suficiente para que lo afrontemos ahora mismo, ¡habrá amplias oportunidades para considerar los objetivos siguientes después de que nos fusionemos!)
 
-**El secreto de la supervivencia personal es la identificación espiritual (fusión)** con el Ajustador. [[LU 40:5.4](/es/The_Urantia_Book/40#p5_4)] Dicen:
+**El secreto de la supervivencia personal es la identificación espiritual (fusión)** con el Ajustador. <a id="a139_103"></a>[[LU 40:5.4](/es/The_Urantia_Book/40#p5_4)] Dicen:
 
-> _El hombre mortal puede acercarse a Dios y alejarse repetidas veces de la voluntad divina durante tanto tiempo como conserve su poder de elección. El destino final del hombre no se decide hasta que ha perdido el poder de elegir la voluntad del Padre. El Padre no cierra nunca su corazón a las necesidades y a las súplicas de sus hijos. Es su progenitura la que cierra su corazón para siempre al poder de atracción del Padre cuando pierde final y definitivamente el deseo de hacer su voluntad divina —la de conocerle y ser semejante a él. El destino eterno del hombre está igualmente asegurado cuando su fusión con el Ajustador proclama al universo que este ascendente ha hecho la elección final e irrevocable de vivir la voluntad del Padre._ ([LU 5:1.11](/es/The_Urantia_Book/5#p1_11))
+> _El hombre mortal puede acercarse a Dios y alejarse repetidas veces de la voluntad divina durante tanto tiempo como conserve su poder de elección. El destino final del hombre no se decide hasta que ha perdido el poder de elegir la voluntad del Padre. El Padre no cierra nunca su corazón a las necesidades y a las súplicas de sus hijos. Es su progenitura la que cierra su corazón para siempre al poder de atracción del Padre cuando pierde final y definitivamente el deseo de hacer su voluntad divina —la de conocerle y ser semejante a él. El destino eterno del hombre está igualmente asegurado cuando su fusión con el Ajustador proclama al universo que este ascendente ha hecho la elección final e irrevocable de vivir la voluntad del Padre._ (<a id="a141_745"></a>[LU 5:1.11](/es/The_Urantia_Book/5#p1_11))
 
 Si la fusión no ocurre durante la vida mortal, entonces típicamente ocurre durante la fase de existencia inmediatamente posterior a esta, generalmente en el sexto Mundo Mansión. Describen estos mundos como mundos «**desmaterializantes**» o «**desmortalizantes**», que gradualmente van destruyendo nuestra humanidad.
 
 _(Ahí estamos)_
 
-> _...una mente humana alojada en una forma morontial —un cuerpo material del mundo morontial, pero no un tabernáculo mortal de carne y hueso. Pasáis realmente del estado mortal al estado inmortal en el momento de fusionar con el Ajustador, y cuando hayáis terminado vuestra carrera en Jerusem, seréis unos morontianos plenamente desarrollados._ ([LU 47:9.5](/es/The_Urantia_Book/47#p9_5))
+> _...una mente humana alojada en una forma morontial —un cuerpo material del mundo morontial, pero no un tabernáculo mortal de carne y hueso. Pasáis realmente del estado mortal al estado inmortal en el momento de fusionar con el Ajustador, y cuando hayáis terminado vuestra carrera en Jerusem, seréis unos morontianos plenamente desarrollados._ (<a id="a147_347"></a>[LU 47:9.5](/es/The_Urantia_Book/47#p9_5))
 
 Y:
 
 > _En los mundos evolutivos, la individualidad es material; es una cosa en el universo y, como tal, está sometida a las leyes de la existencia material. Es un hecho en el tiempo y es sensible a las vicisitudes del mismo._ ***Las decisiones sobrela supervivencia han de ser expresadas aquí***. 
 > _En el estado morontial, el yo se ha convertido en una realidad universal nueva y más duradera, y su crecimiento continuo está basado en una sintonización creciente con los circuitos mentales y espirituales de los universos._ ***Las decisiones sobre la supervivencia deben confirmarse ahora***. 
-> _Cuando el yo alcanza el nivel espiritual, se ha vuelto un valor seguro en el universo, y este nuevo valor está basado en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que está atestiguado por la fusión eterna con el Ajustador del Pensamiento. Después de haber alcanzado el estado de un verdadero valor en el universo, la criatura se vuelve potencialmente libre de buscar el valor universal más elevado —Dios._ ([LU 112:7.6](/es/The_Urantia_Book/112#p7_6))
+> _Cuando el yo alcanza el nivel espiritual, se ha vuelto un valor seguro en el universo, y este nuevo valor está basado en el hecho de que ***las decisiones sobre la supervivencia se han tomado***, un hecho que está atestiguado por la fusión eterna con el Ajustador del Pensamiento. Después de haber alcanzado el estado de un verdadero valor en el universo, la criatura se vuelve potencialmente libre de buscar el valor universal más elevado —Dios._ (<a id="a153_452"></a>[LU 112:7.6](/es/The_Urantia_Book/112#p7_6))
 
 Así que éste es nuestro objetivo a corto plazo: fusionarnos con esa muestra de divinidad que llevamos dentro.
 
@@ -135,29 +159,54 @@ Hay algo que puedes hacer todos los días para trabajar en este objetivo: decisi
 
 Los Documentos de Urantia se refieren con frecuencia a la verdad, la belleza y la bondad, que tomaron prestadas de los antiguos griegos (Platón). Se les conoce como los Ideales Trascendentales del ser. _El Libro de Urantia_ los ha reconocido como ejemplos de algunos de los ideales más elevados que jamás hayamos desarrollado, porque se acercan a ser divinos, porque trascienden el tiempo y tienen el potencial de ser eternos, por lo que son valores semejantes a Dios. Cuando tomas decisiones guiadas por este tipo de ideales de ser, son elecciones divinas; ellos a) mejoran tu vida inmediatamente, **y** b) **contribuyen al crecimiento de tu alma (potencialmente inmortal).** Y cuanto más crecemos espiritualmente, más cerca estamos de la fusión.
 
-> _La evolución material os ha proporcionado una máquina viviente, vuestro cuerpo; el Padre mismo os ha dotado de la realidad espiritual más pura que se conoce en el universo, vuestro Ajustador del Pensamiento. Pero la ***mente*** ha sido puesta en vuestras manos, sometida a vuestras propias decisiones, y es a través de la mente como vivís o morís. Con esta mente y dentro de esta mente es donde tomáis las decisiones morales que os permiten volveros semejantes al Ajustador, es decir semejantes a Dios._ [[LU 111:1.4](/es/The_Urantia_Book/111#p1_4), énfasis añadido]
+> _La evolución material os ha proporcionado una máquina viviente, vuestro cuerpo; el Padre mismo os ha dotado de la realidad espiritual más pura que se conoce en el universo, vuestro Ajustador del Pensamiento. Pero la ***mente*** ha sido puesta en vuestras manos, sometida a vuestras propias decisiones, y es a través de la mente como vivís o morís. Con esta mente y dentro de esta mente es donde tomáis las decisiones morales que os permiten volveros semejantes al Ajustador, es decir semejantes a Dios._ <a id="a161_507"></a>[[LU 111:1.4](/es/The_Urantia_Book/111#p1_4), énfasis añadido]
 > 
-> _Cuando un ser moral escoge ser desinteresado al enfrentarse con el impulso de ser egoísta, lleva a cabo una experiencia religiosa primitiva. Ningún animal puede hacer esta elección; esta decisión es a la vez humana y religiosa. Abarca el hecho de la conciencia de Dios y manifiesta el impulso hacia el servicio social, la base de la fraternidad de los hombres. Cuando la mente escoge, mediante un acto de libre albedrío, un juicio moral justo, esta decisión constituye una experiencia religiosa._ [[LU 103:2.8](/es/The_Urantia_Book/103#p2_8)]
+> _Cuando un ser moral escoge ser desinteresado al enfrentarse con el impulso de ser egoísta, lleva a cabo una experiencia religiosa primitiva. Ningún animal puede hacer esta elección; esta decisión es a la vez humana y religiosa. Abarca el hecho de la conciencia de Dios y manifiesta el impulso hacia el servicio social, la base de la fraternidad de los hombres. Cuando la mente escoge, mediante un acto de libre albedrío, un juicio moral justo, esta decisión constituye una experiencia religiosa._ <a id="a163_500"></a>[[LU 103:2.8](/es/The_Urantia_Book/103#p2_8)]
 
 Aquí es donde el alma se involucra. El alma es algo que evoluciona y crece. Es el subproducto de la relación entre la mente material y el espíritu divino.
 
-> _Aunque el trabajo de los Ajustadores es de naturaleza espiritual, deben efectuar forzosamente toda su tarea sobre una base intelectual. La mente es el terreno humano a partir del cual el Monitor espiritual debe hacer evolucionar el alma morontial, con la cooperación de la personalidad en la que habita._ ([LU 111:1.1](/es/The_Urantia_Book/111#p1_1))
+> _Aunque el trabajo de los Ajustadores es de naturaleza espiritual, deben efectuar forzosamente toda su tarea sobre una base intelectual. La mente es el terreno humano a partir del cual el Monitor espiritual debe hacer evolucionar el alma morontial, con la cooperación de la personalidad en la que habita._ (<a id="a167_309"></a>[LU 111:1.1](/es/The_Urantia_Book/111#p1_1))
 
 ¿Por qué necesitas alma y por qué es importante?
 
-> _Durante la vida en la carne, el alma en evolución tiene la capacidad de reforzar las decisiones supermateriales de la mente mortal. Como es supermaterial, el alma no funciona por sí misma en el nivel material de la experiencia humana. Sin la colaboración de un espíritu de la Deidad, como el Ajustador, este alma subespiritual tampoco puede funcionar por encima del nivel morontial. El alma tampoco toma decisiones finales hasta que la muerte o el traslado la separan de su asociación material con la mente mortal, a menos que esta mente material delegue libre y voluntariamente dicha autoridad a su alma morontial con quien funciona de manera asociada. Durante la vida, la voluntad mortal, el poder de decisión y de elección de la personalidad, reside en los circuitos ***materiales*** de la mente; a medida que avanza el crecimiento del mortal en la Tierra, este yo, con sus inestimables poderes de elección, se identifica cada vez más con la entidad emergente del ***alma morontial***; después de la muerte y de la resurrección en el mundo de las mansiones, la personalidad humana está ***completamente*** identificada con el yo morontial. ***El alma es así el embrión del futuro vehículo morontial de la identidad de la personalidad***._ ([LU 111:3.2](/es/The_Urantia_Book/111#p3_2))
+> _Durante la vida en la carne, el alma en evolución tiene la capacidad de reforzar las decisiones supermateriales de la mente mortal. Como es supermaterial, el alma no funciona por sí misma en el nivel material de la experiencia humana. Sin la colaboración de un espíritu de la Deidad, como el Ajustador, este alma subespiritual tampoco puede funcionar por encima del nivel morontial. El alma tampoco toma decisiones finales hasta que la muerte o el traslado la separan de su asociación material con la mente mortal, a menos que esta mente material delegue libre y voluntariamente dicha autoridad a su alma morontial con quien funciona de manera asociada. Durante la vida, la voluntad mortal, el poder de decisión y de elección de la personalidad, reside en los circuitos ***materiales*** de la mente; a medida que avanza el crecimiento del mortal en la Tierra, este yo, con sus inestimables poderes de elección, se identifica cada vez más con la entidad emergente del ***alma morontial***; después de la muerte y de la resurrección en el mundo de las mansiones, la personalidad humana está ***completamente*** identificada con el yo morontial. ***El alma es así el embrión del futuro vehículo morontial de la identidad de la personalidad***._ (<a id="a171_1246"></a>[LU 111:3.2](/es/The_Urantia_Book/111#p3_2))
 
 El alma es el receptáculo en el que reside la personalidad de **TÚ** después de la muerte. Entonces, si quieres sobrevivir después de la muerte y seguir trabajando en tu objetivo de fusión con el Ajustador, entonces necesitas hacer crecer tu alma. No es nada fantástico, sólo técnico.
 
 Esto es lo que Jesús quiso decir cuando nos aconsejó que ‘acumulemos vuestros tesoros en el cielo’. Y ese día dejó sus herramientas de carpintería por última vez y entró en el templo y comenzó a predicar sobre el ‘reino interior’, diciendo:
 
-> «_Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina._» ([LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
+> «_Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina._» (<a id="a177_435"></a>[LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
 
 Y finalmente:
 
-> _La mente mortal es un sistema intelectual temporal prestado a los seres humanos para ser utilizado durante una vida material, y según la manera en que utilicen esta mente, estarán aceptando o rechazando el potencial de la existencia eterna. La mente es casi todo lo que poseéis de la realidad universal que está sometido a vuestra voluntad, y el alma —el yo morontial— describirá fielmente la ***cosecha*** de decisiones temporales que habrá tomado el yo mortal. La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente. Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender; lo que constituye la identificación con el espíritu no es tanto cómo es la mente sino cómo la mente se esfuerza por ser. ***Lo que conduce a la ascensión por el universo no es tanto que el hombre sea consciente de Dios como que el hombre anhele a Dios***. Lo que sois hoy no es tan importante como lo que vais siendo día tras día y en la eternidad._ ([[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
+> _La mente mortal es un sistema intelectual temporal prestado a los seres humanos para ser utilizado durante una vida material, y según la manera en que utilicen esta mente, estarán aceptando o rechazando el potencial de la existencia eterna. La mente es casi todo lo que poseéis de la realidad universal que está sometido a vuestra voluntad, y el alma —el yo morontial— describirá fielmente la ***cosecha*** de decisiones temporales que habrá tomado el yo mortal. La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente. Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender; lo que constituye la identificación con el espíritu no es tanto cómo es la mente sino cómo la mente se esfuerza por ser. ***Lo que conduce a la ascensión por el universo no es tanto que el hombre sea consciente de Dios como que el hombre anhele a Dios***. Lo que sois hoy no es tan importante como lo que vais siendo día tras día y en la eternidad._ (<a id="a181_1271"></a>[[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
 ## Referencias
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/09/27/ascension-plan)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_McGarry/As_the_Spirit_Moves_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Como el Espíritu te mueve</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Summer_2019">
+          <span class="pr-2">Rincón de Nueva Zelanda – Verano 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

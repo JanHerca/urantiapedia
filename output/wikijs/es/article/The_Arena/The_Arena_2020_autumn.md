@@ -9,6 +9,27 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="pr-2">Informe del Presidente - Otoño de 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -98,7 +119,7 @@ Nigel Nunn
 <img src="/image/article/The_Arena/Nigels-Video2-1-570x318.jpg" alt="Nigel Nunn">
 </figure>
 
-> _La fe arrastra con mucho gusto a la ***razón*** hasta donde la razón puede llegar; luego la fe continúa con la ***sabiduría*** hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad._ ([LU 103:9.7](/es/The_Urantia_Book/103#p9_7))
+> _La fe arrastra con mucho gusto a la ***razón*** hasta donde la razón puede llegar; luego la fe continúa con la ***sabiduría*** hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad._ (<a id="a121_284"></a>[LU 103:9.7](/es/The_Urantia_Book/103#p9_7))
 
 La «razón» ha ayudado a los científicos a escribir algunas historias convincentes sobre la historia del universo: Big Bangs inflacionarios, colisiones de branas, un multiverso. El problema es que cada una de estas historias implica suposiciones que están más allá de nuestra capacidad de refutarlas. Sin embargo, todas estas historias comparten una característica: un intento de reemplazar la fe con hechos en sus suposiciones.
 
@@ -130,7 +151,7 @@ Julian McGarry – Hobart, Tasmania
 
 (Esta es una presentación que se realizó en el Evento Urantia en línea de 24 horas el 21 de marzo de 2020)
 
-> _Pocas personas viven a la altura de la fe que poseen realmente. El miedo irracional es un fraude intelectual magistral ejercido sobre el alma mortal en evolución._ ([LU 48:7.4](/es/The_Urantia_Book/48#p7_4))
+> _Pocas personas viven a la altura de la fe que poseen realmente. El miedo irracional es un fraude intelectual magistral ejercido sobre el alma mortal en evolución._ (<a id="a153_168"></a>[LU 48:7.4](/es/The_Urantia_Book/48#p7_4))
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Julian-McGarry-ANZURA.jpg" alt="Julian McGarry">
@@ -282,3 +303,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-autumn-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="pr-2">Informe del Presidente - Otoño de 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

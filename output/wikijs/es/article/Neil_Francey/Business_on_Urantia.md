@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Neil Francey<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Are_You_Lonesome_Tonight">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estás solo esta noche?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_McNelly/August_21_a_Poem">
+          <span class="pr-2">21 de agosto – un poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Neil Francey, Queensland
@@ -24,7 +48,7 @@ Este trabajo trata sobre conceptos de negocio que pueden ser utilizados por cual
 Cualquier empresa que aplique los principios y conceptos descritos en _El Libro de Urantia_ se basa en la ética, la honestidad, la Regla de Oro y la justicia, todo ello motivado por la voluntad de Dios.
 <br style="clear:both;"/>
 
-> _Si conocemos a Dios, nuestra verdadera ocupación en la tierra es vivir de manera que permitamos al Padre revelarse en nuestras vidas…_ [[LU 132:7.2](/es/The_Urantia_Book/132#p7_2)]
+> _Si conocemos a Dios, nuestra verdadera ocupación en la tierra es vivir de manera que permitamos al Padre revelarse en nuestras vidas…_ <a id="a50_138"></a>[[LU 132:7.2](/es/The_Urantia_Book/132#p7_2)]
 
 Las actividades religiosas, políticas y sociales específicas de los individuos de una empresa son asuntos personales. Sin embargo, de alguna manera reflexionarán sobre todos los aspectos de sus vidas. Por lo tanto, se deduce que una organización inspirada por Urantia se construirá sobre los valores que sostiene el individuo. Si los individuos y grupos de personas actúan de acuerdo con las leyes naturales y espirituales, hay armonía y una vida mejor en un sentido material.
 
@@ -39,3 +63,28 @@ El mundo no siempre protege a quienes creen en la bondad y la verdad. Esto, a su
 
 [Para leer y estudiar la obra completa haga clic aquí](/es/article/Neil_Francey/Business_on_Urantia_Big_Picture)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Are_You_Lonesome_Tonight">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estás solo esta noche?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_McNelly/August_21_a_Poem">
+          <span class="pr-2">21 de agosto – un poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

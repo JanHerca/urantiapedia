@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del presidente: invierno de 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="pr-2">Día de Estudio 2021 – Reflexiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -27,7 +51,7 @@ Pero ¿qué es una piedra angular? Al construir un arco, una piedra angular es l
 
 La gente del equipo de planificación de la conferencia se ha esforzado por producir un programa que profundice en temas cercanos y queridos para nuestros corazones, al tiempo que permite suficiente tiempo para la discusión. Nuestro objetivo es encontrar y desentrañar los elementos (o cualidades) necesarios para constituir nuestra piedra angular de la realidad.
 
-> ***La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora***. _Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad._ ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
+> ***La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora***. _Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad._ (<a id="a53_279"></a>[LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
 
 A modo de adelanto, aquí tenéis una lista de las presentaciones y presentadores:
 
@@ -56,3 +80,28 @@ Teléfono: 0431 285 943
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/07/29/sydney-conference-reminder-2021)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del presidente: invierno de 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="pr-2">Día de Estudio 2021 – Reflexiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

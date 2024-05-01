@@ -9,17 +9,41 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Virtual_ANZURA_Annual_Conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Anual Virtual ANZURA 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
+          <span class="pr-2">¿Dónde están las Hijas de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por el grupo de estudio en línea del miércoles por la noche
 
 En el Documento 151, **Demorándose y enseñando a la orilla del mar**, Jesús comenzó a cambiar sus métodos de enseñanza usando parábolas para transmitir las verdades que quería transmitir. Todos los Apóstoles intentaron interpretar la parábola del sembrador y terminaron con interpretaciones muy diferentes. Luego, al final de la Sección 3 (Más sobre las parábolas), Jesús dijo a los apóstoles:
 
-> «_Antes de despedir al grupo para pasar la noche, Jesús dijo: «Ahora os voy a contar lo último de la parábola del sembrador. Quiero probaros para saber cómo recibiréis esto: El reino de los cielos se parece también a un hombre que echa una buena semilla en la tierra; mientras dormía por la noche y se ocupaba de sus asuntos durante el día, la semilla brotó y creció, y aunque no sabía cómo sucedió, la planta fructificó. Primero fue la hoja, luego la espiga y luego el grano completo en la espiga. Y cuando el grano estuvo maduro, empleó la hoz y fue el final de la cosecha. El que tenga oídos para oír, que oiga»._» ([LU 151:3.15](/es/The_Urantia_Book/151#p3_15))
+> «_Antes de despedir al grupo para pasar la noche, Jesús dijo: «Ahora os voy a contar lo último de la parábola del sembrador. Quiero probaros para saber cómo recibiréis esto: El reino de los cielos se parece también a un hombre que echa una buena semilla en la tierra; mientras dormía por la noche y se ocupaba de sus asuntos durante el día, la semilla brotó y creció, y aunque no sabía cómo sucedió, la planta fructificó. Primero fue la hoja, luego la espiga y luego el grano completo en la espiga. Y cuando el grano estuvo maduro, empleó la hoz y fue el final de la cosecha. El que tenga oídos para oír, que oiga»._» (<a id="a41_621"></a>[LU 151:3.15](/es/The_Urantia_Book/151#p3_15))
 
 En el siguiente párrafo se nos dice:
 
-> _Los apóstoles le dieron muchas vueltas a estas palabras en su mente, pero el Maestro nunca volvió a mencionar este añadido a la parábola del sembrador._ ([LU 151:3.16](/es/The_Urantia_Book/151#p3_16))
+> _Los apóstoles le dieron muchas vueltas a estas palabras en su mente, pero el Maestro nunca volvió a mencionar este añadido a la parábola del sembrador._ (<a id="a45_157"></a>[LU 151:3.16](/es/The_Urantia_Book/151#p3_16))
 
 En el grupo de estudio decidimos experimentar este ejercicio de interpretación de parábolas intentando encontrar el significado de lo que Jesús pretendía con esta última parábola del sembrador. Cada uno de nosotros lo intentó y esto es lo que compartimos la semana siguiente:
 
@@ -62,7 +86,7 @@ Para mí, el mensaje de la parábola es que el evangelio que Jesús había venid
 
 > _Después de haber escuchado otras objeciones similares al evangelio del reino presentadas por Tomás, Natanael, Simón Celotes y Mateo, Jesús dijo a los doce:_
 > 
-> «_«He venido a este mundo para hacer la voluntad de mi Padre y para revelar su carácter afectuoso a toda la humanidad. Ésta es, hermanos míos, mi misión. Y ésta es la única cosa que haré, independientemente de que mis enseñanzas sean mal comprendidas por los judíos o los gentiles de esta época o de otra generación. Pero no deberíais pasar por alto el hecho de que el amor divino también tiene sus disciplinas severas. El amor de un padre por su hijo obliga muchas veces al padre a refrenar las acciones imprudentes de su atolondrado descendiente. El hijo no siempre comprende los motivos sabios y afectuosos de la disciplina restrictiva del padre. Pero os aseguro que mi Padre Paradisiaco gobierna de hecho un universo de universos con el poder predominante de su amor. El amor es la más grande de todas las realidades espirituales. La verdad es una revelación liberadora, pero el amor es la relación suprema. Cualesquiera que sean los desatinos que vuestros compañeros humanos puedan cometer en la administración del mundo de hoy, el evangelio que os proclamo gobernará este mismo mundo en una era por venir. La meta última del progreso humano consiste en reconocer respetuosamente la paternidad de Dios y en materializar con amor la fraternidad de los hombres»._» ([LU 143:1.3-4](/es/The_Urantia_Book/143#p1_3))
+> «_«He venido a este mundo para hacer la voluntad de mi Padre y para revelar su carácter afectuoso a toda la humanidad. Ésta es, hermanos míos, mi misión. Y ésta es la única cosa que haré, independientemente de que mis enseñanzas sean mal comprendidas por los judíos o los gentiles de esta época o de otra generación. Pero no deberíais pasar por alto el hecho de que el amor divino también tiene sus disciplinas severas. El amor de un padre por su hijo obliga muchas veces al padre a refrenar las acciones imprudentes de su atolondrado descendiente. El hijo no siempre comprende los motivos sabios y afectuosos de la disciplina restrictiva del padre. Pero os aseguro que mi Padre Paradisiaco gobierna de hecho un universo de universos con el poder predominante de su amor. El amor es la más grande de todas las realidades espirituales. La verdad es una revelación liberadora, pero el amor es la relación suprema. Cualesquiera que sean los desatinos que vuestros compañeros humanos puedan cometer en la administración del mundo de hoy, el evangelio que os proclamo gobernará este mismo mundo en una era por venir. La meta última del progreso humano consiste en reconocer respetuosamente la paternidad de Dios y en materializar con amor la fraternidad de los hombres»._» (<a id="a88_1271"></a>[LU 143:1.3-4](/es/The_Urantia_Book/143#p1_3))
 
 ## William Wentworth, Canberra
 
@@ -94,3 +118,28 @@ Sigo pensando que se trata de la misión de Jesús de sembrar las semillas –el
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2020/09/07/parable-of-sower)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Virtual_ANZURA_Annual_Conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Anual Virtual ANZURA 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marion_Steward/Where_are_the_Daughters_of_God_2">
+          <span class="pr-2">¿Dónde están las Hijas de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

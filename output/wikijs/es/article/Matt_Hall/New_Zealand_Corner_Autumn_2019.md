@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Matt Hall<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neil_Francey/Living_the_Ascension_Plan_in_Terrestrial_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viviendo el Plan de Ascensión en la Experiencia Humana Terrestre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_McBurney/Urantia_Towards_Light_Life">
+          <span class="pr-2">Urantia hacia la luz y la vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Matt Hall, Nueva Zelanda
@@ -32,3 +56,28 @@ Estoy en un lugar mejor porque me he conectado con lectores locales de esta mane
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/03/28/new-zealand-corner-autumn-2019)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neil_Francey/Living_the_Ascension_Plan_in_Terrestrial_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viviendo el Plan de Ascensión en la Experiencia Humana Terrestre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_McBurney/Urantia_Towards_Light_Life">
+          <span class="pr-2">Urantia hacia la luz y la vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

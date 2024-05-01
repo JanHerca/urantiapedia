@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Susan Hemmingsen<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día de Estudio 2019 – Reflexiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Farewell_Mark_Bloomfield_2">
+          <span class="pr-2">Adiós Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Susan Hemmingsen, Auckland, Nueva Zelanda
@@ -26,15 +50,15 @@ Además, este es un enlace a una entrevista de Radio NZ sobre por qué la gente 
 Hace algunos años, el grupo de Estudio original de Auckland aprendió las Motas Morontia de memoria y con el paso de los años vienen a mi mente cuando parecen encajar en la situación. Mientras observaba las consecuencias de este horrendo y cobarde ataque, me vinieron a la mente las siguientes Motas Morontia.
 <br style="clear:both;"/>
 
-> _5. Las dificultades pueden desafiar la mediocridad y derrotar a los temerosos, pero sólo estimulan a los verdaderos hijos de los Altísimos._ [[LU 48:7.7](/es/The_Urantia_Book/48#p7_7)]
+> _5. Las dificultades pueden desafiar la mediocridad y derrotar a los temerosos, pero sólo estimulan a los verdaderos hijos de los Altísimos._ <a id="a52_144"></a>[[LU 48:7.7](/es/The_Urantia_Book/48#p7_7)]
 > 
-> _12. La mayor aflicción del cosmos es no haber sido nunca afligido. Los mortales sólo aprenden sabiduría experimentando tribulaciones._ [[LU 48:7.14](/es/The_Urantia_Book/48#p7_14)]
+> _12. La mayor aflicción del cosmos es no haber sido nunca afligido. Los mortales sólo aprenden sabiduría experimentando tribulaciones._ <a id="a54_138"></a>[[LU 48:7.14](/es/The_Urantia_Book/48#p7_14)]
 > 
-> _13. Las estrellas se disciernen mejor desde el aislamiento solitario de las profundidades experienciales, no desde las cimas de las montañas iluminadas y extáticas._ [[LU 48:7.15](/es/The_Urantia_Book/48#p7_15)]
+> _13. Las estrellas se disciernen mejor desde el aislamiento solitario de las profundidades experienciales, no desde las cimas de las montañas iluminadas y extáticas._ <a id="a56_169"></a>[[LU 48:7.15](/es/The_Urantia_Book/48#p7_15)]
 
 y particularmente:
 
-> _16. No podéis percibir la verdad espiritual hasta que no la experimentéis con sensibilidad, y muchas verdades no se sienten realmente salvo en la adversidad._ ([LU 48:7.18](/es/The_Urantia_Book/48#p7_18))
+> _16. No podéis percibir la verdad espiritual hasta que no la experimentéis con sensibilidad, y muchas verdades no se sienten realmente salvo en la adversidad._ (<a id="a60_163"></a>[LU 48:7.18](/es/The_Urantia_Book/48#p7_18))
 
 Lamentablemente, antes del ataque, la opinión general era que todos los musulmanes eran terroristas, y esta comunidad sufrió al ser rechazada, discriminada y, en general, totalmente incomprendida, y así como hay muchos aspectos del Islam que necesitan ser actualizados, lo mismo se puede decir para el cristianismo.
 
@@ -65,9 +89,9 @@ Mi oración es que este derramamiento de amor, comprensión y apoyo sea permanen
 
 Y finalmente:
 
-> _«…En vuestras vidas derribad el error y venced el mal por el amor de la verdad viva. En todas tus relaciones con los hombres haz bien por mal...»_ [[LU 131:1.7](/es/The_Urantia_Book/131#p1_7)]
+> _«…En vuestras vidas derribad el error y venced el mal por el amor de la verdad viva. En todas tus relaciones con los hombres haz bien por mal...»_ <a id="a91_150"></a>[[LU 131:1.7](/es/The_Urantia_Book/131#p1_7)]
 > 
-> _...El amor paternal se deleita en devolver bien por mal–hacer el bien en represalia por la injusticia..._ [[LU 140:5.24](/es/The_Urantia_Book/140#p5_24)]
+> _...El amor paternal se deleita en devolver bien por mal–hacer el bien en represalia por la injusticia..._ <a id="a93_109"></a>[[LU 140:5.24](/es/The_Urantia_Book/140#p5_24)]
 
 ## Encuentro en Nueva Zelanda: Taupo, fin de semana laboral
 
@@ -87,3 +111,28 @@ Leer más sobre [Arena - Invierno 2019](https://anzura.urantia-association.org/c
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día de Estudio 2019 – Reflexiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Farewell_Mark_Bloomfield_2">
+          <span class="pr-2">Adiós Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

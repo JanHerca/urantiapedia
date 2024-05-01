@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 William Wentworth<br>© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Mining_the_Archives">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploración de los archivos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="pr-2">Desarrollos recientes en el sector de la astrofísica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por William Wentworth, Canberra el 29 de julio de 2021 30 de julio de 2021
@@ -34,11 +58,11 @@ Esperan poder comprender y generar vida, y ven el **propósito** y el **destino*
 
 Los estudiantes de _El Libro de Urantia_ verán inmediatamente que hay problemas con esta visión. En cuanto a la vida, el libro afirma sin rodeos que la ciencia nunca podrá crearla, por mucho que los científicos crean que se acercan a ella. Como dice un Mensajero Poderoso:
 
-> _Después de que se realicen progresos aún más grandes y descubrimientos adicionales, después de que Urantia haya avanzado inconmensurablemente en comparación con el conocimiento actual, aunque consigáis controlar las rotaciones energéticas de las unidades eléctricas de la materia hasta el punto de modificar sus manifestaciones físicas —incluso después de todos estos posibles progresos, los científicos serán siempre incapaces de crear un solo átomo de materia, o de producir un destello de energía, o de añadir nunca a la materia aquello que llamamos vida._ ([LU 42:1.4](/es/The_Urantia_Book/42#p1_4))
+> _Después de que se realicen progresos aún más grandes y descubrimientos adicionales, después de que Urantia haya avanzado inconmensurablemente en comparación con el conocimiento actual, aunque consigáis controlar las rotaciones energéticas de las unidades eléctricas de la materia hasta el punto de modificar sus manifestaciones físicas —incluso después de todos estos posibles progresos, los científicos serán siempre incapaces de crear un solo átomo de materia, o de producir un destello de energía, o de añadir nunca a la materia aquello que llamamos vida._ (<a id="a60_564"></a>[LU 42:1.4](/es/The_Urantia_Book/42#p1_4))
 
 En cuanto a propósito y destino, el libro tiene bastante que decir. Como dice un Divino Consejero:
 
-> _Incluso en el estudio de la evolución biológica del hombre en Urantia, el enfoque exclusivamente histórico de su situación actual y de sus problemas corrientes presenta graves objeciones. La verdadera perspectiva de cualquier problema sobre la realidad —humano o divino, terrestre o cósmico— sólo se puede obtener mediante el estudio y la correlación completos e imparciales de tres fases de la realidad universal: el origen, la historia y el destino. La comprensión adecuada de estas tres realidades experienciales proporciona la base para apreciar sabiamente el estado actual._ ([LU 19:1.6](/es/The_Urantia_Book/19#p1_6))
+> _Incluso en el estudio de la evolución biológica del hombre en Urantia, el enfoque exclusivamente histórico de su situación actual y de sus problemas corrientes presenta graves objeciones. La verdadera perspectiva de cualquier problema sobre la realidad —humano o divino, terrestre o cósmico— sólo se puede obtener mediante el estudio y la correlación completos e imparciales de tres fases de la realidad universal: el origen, la historia y el destino. La comprensión adecuada de estas tres realidades experienciales proporciona la base para apreciar sabiamente el estado actual._ (<a id="a64_584"></a>[LU 19:1.6](/es/The_Urantia_Book/19#p1_6))
 
 La comprensión adecuada de estas tres realidades experienciales proporciona la base para una estimación inteligente del estado actual.
 
@@ -46,7 +70,7 @@ Pero antes de entrar en eso, es importante recordar a los lectores que el libro 
 
 La ciencia de los materiales ha tenido éxitos en la representación de materia/energía. Éste es el ámbito donde el pensamiento racional y las matemáticas son supremos. La teología y la superstición no son forma de estudiar el cosmos material. Como señala la Comisión Intermedia:
 
-> _El laicismo nunca podrá traer la paz a la humanidad. Nada puede sustituir a Dios en la sociedad humana. ¡Pero poned mucha atención! No os apresuréis a abandonar las ventajas beneficiosas de la sublevación laica que os ha liberado del totalitarismo eclesiástico. La civilización occidental disfruta hoy de muchas libertades y satisfacciones debido a la sublevación laica. El gran error del laicismo fue el siguiente: Al sublevarse contra el control casi total de la vida por parte de la autoridad religiosa, y después de conseguir liberarse de esta tiranía eclesiástica, los laicos continuaron adelante iniciando una sublevación contra el mismo Dios, a veces tácitamente y a veces de manera manifiesta._ ([LU 195:8.6](/es/The_Urantia_Book/195#p8_6))
+> _El laicismo nunca podrá traer la paz a la humanidad. Nada puede sustituir a Dios en la sociedad humana. ¡Pero poned mucha atención! No os apresuréis a abandonar las ventajas beneficiosas de la sublevación laica que os ha liberado del totalitarismo eclesiástico. La civilización occidental disfruta hoy de muchas libertades y satisfacciones debido a la sublevación laica. El gran error del laicismo fue el siguiente: Al sublevarse contra el control casi total de la vida por parte de la autoridad religiosa, y después de conseguir liberarse de esta tiranía eclesiástica, los laicos continuaron adelante iniciando una sublevación contra el mismo Dios, a veces tácitamente y a veces de manera manifiesta._ (<a id="a72_707"></a>[LU 195:8.6](/es/The_Urantia_Book/195#p8_6))
 
 Dicho esto, sin embargo, la ambición de desarrollar una teoría unificada para explicar el cosmos mediante el estudio de sus aspectos materiales sigue siendo un sueño imposible. Como explica _El Libro de Urantia_, la realidad que asume la ciencia es en realidad sólo una parte del todo, e incluso esa parte tiene su origen en una realidad supermaterial. Los reveladores explican que la situación original es aquella en la que no hay nada más que pre-Dios, una infinidad que constituye el potencial de Dios. Los reveladores señalan que este infinito, al que llaman YO SOY, es todo lo que existe. No hay vacío, ni espacio, ni nada en absoluto excepto YO SOY, y el YO SOY se autometamorfosea en todo lo que puede concebirse como real.
 
@@ -62,7 +86,7 @@ El potencial no deificado del cosmos material se activa mediante una metamorfosi
 
 Hay aspectos de la Deidad que no son personales. Estas otras realidades son propiedades de esas metamorfosis del YO SOY que dan origen a la Deidad y, como explican los reveladores, la Deidad contiene una personalidad que se manifiesta como Dios, el Padre Universal. La Deidad propaga el espíritu a través del Hijo Eterno, quien es personalizado por Dios, y también la mente a través del Espíritu Infinito, igualmente personalizado por Dios, permitiendo así que el espíritu y la materia interactúen. El hecho de que estas personalizaciones de la Deidad estén unificadas en la Trinidad de ninguna manera disminuye el control de Dios. Podría realizar las funciones del espíritu y de la mente si así lo desea, pero no es necesario porque las otras personas de la Deidad lo hacen tan bien que no hay necesidad de que él interfiera. Como señala un Censor Universal:
 
-_El Padre Universal, el Hijo Eterno y el Espíritu Infinito son personas únicas; ninguno es un duplicado; cada uno es original; todos estamos unidos_. [LU 10:2.6](/es/The_Urantia_Book/10#p2_6)
+_El Padre Universal, el Hijo Eterno y el Espíritu Infinito son personas únicas; ninguno es un duplicado; cada uno es original; todos estamos unidos_. <a id="a88_150"></a>[LU 10:2.6](/es/The_Urantia_Book/10#p2_6)
 
 Dios es la personalidad de la Deidad, pero todavía hay mucho de la Deidad que no es personal. Existen cosas como los circuitos de presencia del Hijo Eterno y el Espíritu Infinito, la gravedad del espíritu y la mente, los circuitos de los Espíritus Reflectantes, la Mente Cósmica de los Espíritus Rectores y, sin duda, mucho más. Estos fenómenos son deidades, pero no personales y, por tanto, no son Dios.
 
@@ -76,3 +100,28 @@ Fueron necesarios muchos siglos para que ocurriera lo contrario: es decir, que l
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/07/29/application-scientific-thinking)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Mining_the_Archives">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploración de los archivos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="pr-2">Desarrollos recientes en el sector de la astrofísica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

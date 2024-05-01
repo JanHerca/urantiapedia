@@ -14,21 +14,21 @@ dateCreated: 2023-10-23T10:55:6Z
 **Por Déborah Foster**
 **Anchorage, Alaska**
 
-> _Estaríais más que interesados en la conducta planetaria de este tipo de mortales, porque una raza de seres de esta clase vive en una esfera muy cercana a Urantia._ ([LU 49:3.6](/es/The_Urantia_Book/49#p3_6))
+> _Estaríais más que interesados en la conducta planetaria de este tipo de mortales, porque una raza de seres de esta clase vive en una esfera muy cercana a Urantia._ (<a id="a16_168"></a>[LU 49:3.6](/es/The_Urantia_Book/49#p3_6))
 
 Entre las muchas afirmaciones intrigantes de _El Libro de Urantia_, la más tentadora siempre ha sido la relativa a la ubicación de un mundo de mortales que no respiran. ¿Qué es exactamente la proximidad? ¿Los autores están utilizando sus marcos de referencia o los nuestros? ¿Podrían los humanos encontrar este mundo?
 
 Mirando alrededor de nuestro vecindario, las estrellas más cercanas están en el sistema Alpha Centauri, a unos 4,29 años luz (25 billones de millas)[^1] de nosotros. Este es un sistema estelar triple que contiene Alpha Centauri A, Alpha Centauri B y Proxima Centauri. Y podría ser un buen candidato para la ubicación de Anova.
 
-> «_El mundo habitado más antiguo de Satania, el mundo número uno, es Anova, uno de los cuarenta y cuatro satélites que giran alrededor de un enorme planeta oscuro, pero que está expuesto a la luz diferencial de tres soles vecinos. Anova se encuentra en un estado avanzado de civilización progresiva._» ([LU 49:0.5](/es/The_Urantia_Book/49#p0_5))
+> «_El mundo habitado más antiguo de Satania, el mundo número uno, es Anova, uno de los cuarenta y cuatro satélites que giran alrededor de un enorme planeta oscuro, pero que está expuesto a la luz diferencial de tres soles vecinos. Anova se encuentra en un estado avanzado de civilización progresiva._» (<a id="a22_304"></a>[LU 49:0.5](/es/The_Urantia_Book/49#p0_5))
 
 Veinticinco billones de millas es una caminata, por lo que mirando un poco más cerca de casa, nuestro propio sistema solar, leemos:
 
-> «_En vuestro superuniverso no hay un planeta frío entre cuarenta que sea habitable por los seres de vuestra orden. Y por supuesto, los soles supercalientes y los mundos alejados muy fríos son inadecuados para albergar una vida superior. En vuestro sistema solar sólo hay tres planetas en la actualidad que convienen para albergar la vida. Por su tamaño, su densidad y su posición, Urantia es ideal en muchos aspectos para el hábitat humano._» ([LU 15:6.15](/es/The_Urantia_Book/15#p6_15))
+> «_En vuestro superuniverso no hay un planeta frío entre cuarenta que sea habitable por los seres de vuestra orden. Y por supuesto, los soles supercalientes y los mundos alejados muy fríos son inadecuados para albergar una vida superior. En vuestro sistema solar sólo hay tres planetas en la actualidad que convienen para albergar la vida. Por su tamaño, su densidad y su posición, Urantia es ideal en muchos aspectos para el hábitat humano._» (<a id="a26_446"></a>[LU 15:6.15](/es/The_Urantia_Book/15#p6_15))
 
 Los autores nombran estos planetas y denominan los tipos de mortales que los habitarían. Venus albergaría superrespiradores y Marte, con su fina atmósfera, sería el hogar de subrespiradores. El otro planeta, por supuesto, es Urantia. El Melquisedec de la Escuela de Administración Planetaria de Jerusem, que escribió el Documento 49 - Los mundos habitados, nos dice luego:
 
-> «_Si los mortales vivieran en un planeta desprovisto de aire como vuestra Luna, pertenecerían a la orden particular de los no respiradores. Este tipo representa una adaptación radical o extrema al entorno planetario, y será examinado por separado. Los no respiradores suponen el uno y medio por ciento restante de los mundos de Satania._» ([LU 49:2.14](/es/The_Urantia_Book/49#p2_14))
+> «_Si los mortales vivieran en un planeta desprovisto de aire como vuestra Luna, pertenecerían a la orden particular de los no respiradores. Este tipo representa una adaptación radical o extrema al entorno planetario, y será examinado por separado. Los no respiradores suponen el uno y medio por ciento restante de los mundos de Satania._» (<a id="a30_342"></a>[LU 49:2.14](/es/The_Urantia_Book/49#p2_14))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Europa.jpg">
@@ -54,7 +54,7 @@ Varias características señalan a Europa como el hogar de los que no respiran:
 
 2\. El satélite estaría ubicado donde existe la posibilidad de que se produzcan «tormentas eléctricas desastrosas».
 
-> «Estos mundos también están sometidos a unas tormentas eléctricas desastrosas de una naturaleza desconocida en Urantia. Durante esos períodos de enormes fluctuaciones energéticas, los habitantes deben refugiarse en sus estructuras especiales de aislamiento protector.» ([LU 49:3.3](/es/The_Urantia_Book/49#p3_3))
+> «Estos mundos también están sometidos a unas tormentas eléctricas desastrosas de una naturaleza desconocida en Urantia. Durante esos períodos de enormes fluctuaciones energéticas, los habitantes deben refugiarse en sus estructuras especiales de aislamiento protector.» (<a id="a56_272"></a>[LU 49:3.3](/es/The_Urantia_Book/49#p3_3))
 
 La rápida rotación de Júpiter, de 10 horas de duración, crea un enorme campo magnético que envuelve al planeta, sus lunas y el área espacial circundante hasta llegar a Saturno. Si fuera visible desde la Tierra, este campo, llamado magnetosfera, parecería tan grande como el sol. Dentro de la magnetosfera hay láminas de corriente eléctrica que giran por encima y por debajo del ecuador del planeta, un toro de plasma que transporta 5 millones de amperios de corriente a 400.000 voltios. Estos cinturones de radiación emiten suficiente radiación como para matar humanos cientos de veces.[^4]
 
@@ -62,7 +62,7 @@ La aurora más grande jamás vista, de 18.000 millas de largo, se ha observado s
 
 3\. Evidencias de protección contra meteoritos, como la ausencia de cráteres de meteoritos.
 
-> «Millones y millones de meteoritos penetran diariamente en la atmósfera de Urantia, entrando a una velocidad de casi trescientos veinte kilómetros por segundo. En los mundos donde no se respira, las razas avanzadas deben hacer muchas cosas para protegerse de los daños meteóricos, construyendo instalaciones eléctricas que se encargan de consumir o de desviar los meteoros. Se enfrentan a grandes peligros cuando se aventuran más allá de estas zonas protegidas.» ([LU 49:3.3](/es/The_Urantia_Book/49#p3_3))
+> «Millones y millones de meteoritos penetran diariamente en la atmósfera de Urantia, entrando a una velocidad de casi trescientos veinte kilómetros por segundo. En los mundos donde no se respira, las razas avanzadas deben hacer muchas cosas para protegerse de los daños meteóricos, construyendo instalaciones eléctricas que se encargan de consumir o de desviar los meteoros. Se enfrentan a grandes peligros cuando se aventuran más allá de estas zonas protegidas.» (<a id="a64_466"></a>[LU 49:3.3](/es/The_Urantia_Book/49#p3_3))
 
 Con instalaciones que «consumen o desvían meteoros», el resultado de esa acción sería un mundo sin cráteres graves y sin algún lugar al que se desvíen esos meteoros. Se ha comparado a Europa con una «bola de billar blanca marcada con un rotulador». 6 Es el cuerpo más liso de nuestro sistema solar. Casi todos los demás satélites de nuestro sistema solar tienen una apariencia que es una variación de nuestra propia luna, con muchos cráteres de diferentes tamaños esparcidos por toda su superficie. Pero en Europa sólo se han cartografiado con certeza entre tres y doce cráteres.
 
@@ -74,7 +74,7 @@ Esto puede explicar la forma peculiar del cometa Shoemaker-Levy 9, que se estrel
 
 4\. Evidencia de características inusuales que pueden indicar mentes creativas en el trabajo.
 
-> «Durante esos períodos de enormes fluctuaciones energéticas, los habitantes deben refugiarse en sus estructuras especiales de aislamiento protector.» ([LU 49:3.3](/es/The_Urantia_Book/49#p3_3))
+> «Durante esos períodos de enormes fluctuaciones energéticas, los habitantes deben refugiarse en sus estructuras especiales de aislamiento protector.» (<a id="a76_153"></a>[LU 49:3.3](/es/The_Urantia_Book/49#p3_3))
 
 La luna está cubierta por rayas claras y oscuras intercaladas con muchas manchas oscuras aleatorias. Las áreas más oscuras tienen una apariencia orgánica definida para el no científico. Quizás estas vetas sean la vida vegetal de Europa. Esta es la descripción de los rayos de luz que hace la NASA: «Uno de los fenómenos geológicos más notables descubiertos por la Voyager son los rayos de luz que aparecen en Europa. Son más pequeñas que las rayas oscuras, de sólo unos 10 kilómetros de ancho, pero mucho más uniformes. Vistos desde un ángulo bajo del Sol, muestran un relieve vertical de menos de unos pocos cientos de metros. Estas crestas de luz se ven mejor cuando el Sol está bajo y tienden a ser visibles en ángulos de iluminación más altos. Lo más sorprendente de las crestas luminosas es su forma. En lugar de ser rectos, forman festones o cúspides con curvas suaves que se repiten regularmente en una escala de 100 a unos pocos cientos de kilómetros. En algunas de las fotografías desde el ángulo bajo del Sol, la superficie de Europa parece estar cubierta por una hermosa red de estas líneas curvas regulares. La impresión es tan extraña que uno tiende a no creer la realidad de lo que se ve. Nunca se ha visto nada remotamente parecido en ningún otro planeta».[^8]
 

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Marion Steward<br>© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desarrollos recientes en el sector de la astrofísica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/True_Success_study">
+          <span class="pr-2">El verdadero éxito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Marion Steward, Auckland, Nueva Zelanda
@@ -35,13 +59,13 @@ El artículo primero describirá el alcance y la amplitud de la diversidad en el
 En términos de apariencia y forma, la diversidad y la singularidad comienzan con Havona. En este universo central que rodea la Isla del Paraíso hay mil millones de palabras, cada una de las cuales es única.
 <br style="clear:both;"/>
 
-> _La arquitectura, el embellecimiento natural, las estructuras morontiales y las creaciones espirituales son exclusivas y ***únicas*** en cada esfera. Cada mundo es un lugar de belleza perpetua y es ***totalmente diferente*** a cualquier otro mundo en el universo central._ ([LU 18:2.4](/es/The_Urantia_Book/18#p2_4))
+> _La arquitectura, el embellecimiento natural, las estructuras morontiales y las creaciones espirituales son exclusivas y ***únicas*** en cada esfera. Cada mundo es un lugar de belleza perpetua y es ***totalmente diferente*** a cualquier otro mundo en el universo central._ (<a id="a61_276"></a>[LU 18:2.4](/es/The_Urantia_Book/18#p2_4))
 
 Una consideración de este hecho resalta el increíble rango de variación que es posible cuando se trata de los mundos físicos.
 
 Los Hijos Creadores y sus universos locales continúan con este tema.
 
-> _...la naturaleza así como la personalidad de cada uno de ellos [Hijos Creadores] es única, distinta, exclusiva y original. Y puesto que son los arquitectos y los autores de los planes para la vida de sus reinos respectivos, esta misma diversidad asegura que sus dominios serán también diferentes en todas las formas y fases de existencias vivientes, derivadas de los Migueles, que puedan crearse o evolucionar posteriormente allí._ ([LU 21:2.10](/es/The_Urantia_Book/21#p2_10))
+> _...la naturaleza así como la personalidad de cada uno de ellos [Hijos Creadores] es única, distinta, exclusiva y original. Y puesto que son los arquitectos y los autores de los planes para la vida de sus reinos respectivos, esta misma diversidad asegura que sus dominios serán también diferentes en todas las formas y fases de existencias vivientes, derivadas de los Migueles, que puedan crearse o evolucionar posteriormente allí._ (<a id="a67_436"></a>[LU 21:2.10](/es/The_Urantia_Book/21#p2_10))
 
 Está claro que todos los seres espirituales creados para gobernar nuestro universo, y todas las demás criaturas vivientes en cada planeta, serán un poco diferentes entre sí y diferentes de los seres equivalentes en otros universos locales.
 
@@ -56,7 +80,7 @@ Luego, cuando se trata de seres ascendentes en los planetas, el mismo enfoque de
 _El Libro de Urantia_ nos dice que existen patrones de vida básicos, pero mucha variación.
 <br style="clear:both;"/>
 
-> _... los Portadores de Vida ... Fomentan un tipo generalizado de criatura mortal en el sistema, pero hay siete tipos físicos distintos, así como miles y miles de variantes menores de estas siete diferenciaciones sobresalientes:_ ([LU 49:2.1](/es/The_Urantia_Book/49#p2_1))
+> _... los Portadores de Vida ... Fomentan un tipo generalizado de criatura mortal en el sistema, pero hay siete tipos físicos distintos, así como miles y miles de variantes menores de estas siete diferenciaciones sobresalientes:_ (<a id="a82_232"></a>[LU 49:2.1](/es/The_Urantia_Book/49#p2_1))
 
 Estos tipos varían de varias maneras, incluidos los tipos atmosféricos, los tipos elementales y los tipos de gravedad. Esto lleva a seres tan fascinantes como los que no respiran y los mortales que pueden navegar por el aire o el agua, así como personas de uno, dos y tres cerebros.
 
@@ -67,7 +91,7 @@ A todo esto se suman las variantes raciales, posiblemente el aspecto más visibl
 
 Además del amplio alcance de la diversidad visible, existe un rango aún mayor cuando se trata de aspectos menos visibles de los seres inteligentes en el universo. El más poderoso es la personalidad. De todas las cosas que contribuyen a la diversidad de los mortales individuales en todo el Gran Universo, la más significativa e influyente es la singularidad de cada don de personalidad otorgado por Dios.
 
-> _10. La personalidad es única, absolutamente única: es única en el tiempo y en el espacio; es única en la eternidad y en el Paraíso; es única cuando es otorgada —no existen copias de ella; es única durante todos los momentos de la existencia; es única con respecto a Dios ..._ ([LU 112:0.12](/es/The_Urantia_Book/112#p0_12))
+> _10. La personalidad es única, absolutamente única: es única en el tiempo y en el espacio; es única en la eternidad y en el Paraíso; es única cuando es otorgada —no existen copias de ella; es única durante todos los momentos de la existencia; es única con respecto a Dios ..._ (<a id="a93_280"></a>[LU 112:0.12](/es/The_Urantia_Book/112#p0_12))
 
 Por lo tanto, se insiste enfáticamente en que cada uno de nosotros tiene una personalidad completamente única, que afectará todo lo relacionado con cómo vemos y reaccionamos ante el mundo que nos rodea.
 
@@ -84,37 +108,37 @@ Esta es una descripción bastante completa de los principales aspectos de la var
 
 Toda la información anterior y muchas otras declaraciones y descripciones en el Libro de Urantia muestran que la diversidad es en gran medida un eje del plan Divino de creación. Después de todo, el acto original de Creación (reconociendo que esto en realidad no sucedió linealmente) fue aquel en el que la Primera Fuente y Centro decidió diversificarse. Este enfoque en la individualidad, la unicidad y la diversificación constante impregna el universo, e incluso cuando los seres son creados o evolucionan como seres perfectos para su función, aún así logran individualizarse.
 
-Los hijos trinidizados por la criatura son un ejemplo extraordinario de la constante diversificación de la creación. Aquí es donde dos finalitarios mortales, que «independientemente han ideado un concepto original, que no ha sido trinidizado antes», reciben permiso para crear un ser que encarne este concepto ([LU 22:7](/es/The_Urantia_Book/22#p7)). Así, incluso un pensamiento nuevo y original puede convertirse en un ser vivo independiente.
+Los hijos trinidizados por la criatura son un ejemplo extraordinario de la constante diversificación de la creación. Aquí es donde dos finalitarios mortales, que «independientemente han ideado un concepto original, que no ha sido trinidizado antes», reciben permiso para crear un ser que encarne este concepto (<a id="a110_311"></a>[LU 22:7](/es/The_Urantia_Book/22#p7)). Así, incluso un pensamiento nuevo y original puede convertirse en un ser vivo independiente.
 
 Y toda esta diversificación es un proceso interminable.
 
-> _Es enteramente posible que la diversificación continua de la realidad original de la Fuente-Centro Primera siga aumentando y exteriorizándose a lo largo de las épocas, cada vez más, hasta las extensiones lejanas e inconcebibles de la infinidad absoluta._ ([LU 105:7.18](/es/The_Urantia_Book/105#p7_18))
+> _Es enteramente posible que la diversificación continua de la realidad original de la Fuente-Centro Primera siga aumentando y exteriorizándose a lo largo de las épocas, cada vez más, hasta las extensiones lejanas e inconcebibles de la infinidad absoluta._ (<a id="a114_259"></a>[LU 105:7.18](/es/The_Urantia_Book/105#p7_18))
 
 ## La aventura sin fin
 
 Entonces Dios crea el universo para que sea rico y eternamente diverso, e intencionalmente asegura que cada ser vivo del incontable y cada vez mayor número de seres sea único de alguna manera, luego también asegura que estos seres, particularmente los mortales ascendentes, estén obligados a aprender a trabajar juntos para lograr las metas y tareas del grupo.
 
-> _Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres._ ([LU 28:5.14](/es/The_Urantia_Book/28#p5_14))
+> _Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres._ (<a id="a120_238"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14))
 
 Por suerte, también se proporcionan guías y profesores, ya que es una tarea bastante titánica. En los planetas y los mundos mansión hay intérpretes raciales y comisionados raciales.
 
-> _En los mundos del tiempo, los intérpretes raciales seráficos favorecen los esfuerzos de los comisionados raciales para armonizar los diversos puntos de vista de las razas, y continúan ejerciendo su actividad en los mundos de las mansiones, donde estas mismas diferencias tienden a persistir en cierta medida._ ([LU 48:6.22](/es/The_Urantia_Book/48#p6_22))
+> _En los mundos del tiempo, los intérpretes raciales seráficos favorecen los esfuerzos de los comisionados raciales para armonizar los diversos puntos de vista de las razas, y continúan ejerciendo su actividad en los mundos de las mansiones, donde estas mismas diferencias tienden a persistir en cierta medida._ (<a id="a124_314"></a>[LU 48:6.22](/es/The_Urantia_Book/48#p6_22))
 
 Incluso después de la fusión con nuestros Ajustadores, este proceso de aprender a trabajar con otros continúa. Después de la fusión, un mortal ascendente se describe como «un candidato a mayor crecimiento y desarrollo» (112:7.9, 123.4).
 
 Una parte clave de este mayor crecimiento parece ser la formación continua para trabajar con otros seres diversos.
 
-> _[en Jerusem] consentisteis en someter vuestro yo a las disciplinas de las actividades colectivas y de las empresas coordinadas; pero ahora, en los mundos formativos de la constelación, tenéis que conseguir hacer realmente sociable vuestra personalidad morontial evolutiva_ ([LU 43:8.4](/es/The_Urantia_Book/43#p8_4))
+> _[en Jerusem] consentisteis en someter vuestro yo a las disciplinas de las actividades colectivas y de las empresas coordinadas; pero ahora, en los mundos formativos de la constelación, tenéis que conseguir hacer realmente sociable vuestra personalidad morontial evolutiva_ (<a id="a130_277"></a>[LU 43:8.4](/es/The_Urantia_Book/43#p8_4))
 
-Este artículo da una descripción muy detallada de esta formación, que es conducida por los Univitatia, hijos del Hijo Creador y del Espíritu Creativo. Naturalmente, hay 70 órdenes diversas de personalidades en Univitatia, y su propósito es presidir las escuelas culturales y de formación especial en los mundos de formación de Edentia. Nuestra formación consta de una serie de prácticas entre Univitatia. Debemos «vivir felices y trabajar eficazmente» con 10 univitatia, al principio, y luego, con el tiempo, más compañeros mortales morontiales se unen a nosotros hasta que finalmente haya 10 mortales morontiales y 10 univitatia en el mismo grupo, quienes moran con alegría y compañía. -¡operando de todo corazón! ([LU 43:8.1](/es/The_Urantia_Book/43#p8_1)). Esta sección se refiere de manera bastante realista a la necesidad de mejorar nuestra capacidad de vivir con seres diversos con «una irritabilidad cada vez menor y un resentimiento cada vez menor». No es difícil proyectar esta experiencia a Havona y luego nuestras aventuras como finalistas, teniendo en cuenta que nunca somos enviados de regreso al mismo superuniverso del que venimos, y cada superuniverso es diferente de los demás.
+Este artículo da una descripción muy detallada de esta formación, que es conducida por los Univitatia, hijos del Hijo Creador y del Espíritu Creativo. Naturalmente, hay 70 órdenes diversas de personalidades en Univitatia, y su propósito es presidir las escuelas culturales y de formación especial en los mundos de formación de Edentia. Nuestra formación consta de una serie de prácticas entre Univitatia. Debemos «vivir felices y trabajar eficazmente» con 10 univitatia, al principio, y luego, con el tiempo, más compañeros mortales morontiales se unen a nosotros hasta que finalmente haya 10 mortales morontiales y 10 univitatia en el mismo grupo, quienes moran con alegría y compañía. -¡operando de todo corazón! (<a id="a132_716"></a>[LU 43:8.1](/es/The_Urantia_Book/43#p8_1)). Esta sección se refiere de manera bastante realista a la necesidad de mejorar nuestra capacidad de vivir con seres diversos con «una irritabilidad cada vez menor y un resentimiento cada vez menor». No es difícil proyectar esta experiencia a Havona y luego nuestras aventuras como finalistas, teniendo en cuenta que nunca somos enviados de regreso al mismo superuniverso del que venimos, y cada superuniverso es diferente de los demás.
 
 ## Los desafíos de la diversidad en Urantia
 
-En la sección sobre las razas de diferentes colores en Urantia y en otros planetas, una de las razones declaradas para hacerlo de esta manera es «el desarrollo de la tolerancia y el altruismo humanos» ([LU 64:6.34](/es/The_Urantia_Book/64#p6_34)).
+En la sección sobre las razas de diferentes colores en Urantia y en otros planetas, una de las razones declaradas para hacerlo de esta manera es «el desarrollo de la tolerancia y el altruismo humanos» (<a id="a136_202"></a>[LU 64:6.34](/es/The_Urantia_Book/64#p6_34)).
 
-En otros lugares también se afirma que la era del bienestar material en la que vivimos se caracteriza a menudo por la intolerancia ([LU 50:5.3](/es/The_Urantia_Book/50#p5_3)).
+En otros lugares también se afirma que la era del bienestar material en la que vivimos se caracteriza a menudo por la intolerancia (<a id="a138_132"></a>[LU 50:5.3](/es/The_Urantia_Book/50#p5_3)).
 
-Parecería, entonces, que la intolerancia a la diversidad es uno de los mayores desafíos que enfrentamos en nuestra carrera en Urantia. La intolerancia se define como «la falta de voluntad para aceptar puntos de vista, creencias o comportamientos que difieren de los propios» [Diccionario de Google], y en _El Libro de Urantia_, se describe como «eternamente hostil al progreso humano» ([LU 71:3.2](/es/The_Urantia_Book/71#p3_2)). Estas son palabras realmente fuertes y, sin embargo, vivimos en un mundo donde la intolerancia es tan omnipresente como la diversidad, como lo demostrará un vistazo rápido a los artículos de noticias de cualquier día.
+Parecería, entonces, que la intolerancia a la diversidad es uno de los mayores desafíos que enfrentamos en nuestra carrera en Urantia. La intolerancia se define como «la falta de voluntad para aceptar puntos de vista, creencias o comportamientos que difieren de los propios» [Diccionario de Google], y en _El Libro de Urantia_, se describe como «eternamente hostil al progreso humano» (<a id="a140_386"></a>[LU 71:3.2](/es/The_Urantia_Book/71#p3_2)). Estas son palabras realmente fuertes y, sin embargo, vivimos en un mundo donde la intolerancia es tan omnipresente como la diversidad, como lo demostrará un vistazo rápido a los artículos de noticias de cualquier día.
 
 Las piezas del rompecabezas de la variación humana que se muestran arriba ilustran todos los factores desencadenantes de la intolerancia en nuestro mundo.
 
@@ -124,9 +148,9 @@ Actualmente, esto se ve exacerbado por la creciente y más visible diversidad en
 
 ¿Cómo se pueden afrontar estos desafíos con éxito? ¿Cómo se puede reducir la intolerancia para que la raza humana pueda progresar? Jesús discutió esto en varias ocasiones con los apóstoles, quienes no tenían los mismos puntos de vista sobre muchas cosas. Su consejo fue que no era necesario tener las mismas opiniones para lograr objetivos compartidos. Aquí están dos de sus comentarios para ellos:
 
-> «_La religión del espíritu sólo exige una unidad de experiencia —un destino uniforme— aceptando plenamente la diversidad de creencias._» ([LU 155:6.9](/es/The_Urantia_Book/155#p6_9))
+> «_La religión del espíritu sólo exige una unidad de experiencia —un destino uniforme— aceptando plenamente la diversidad de creencias._» (<a id="a150_140"></a>[LU 155:6.9](/es/The_Urantia_Book/155#p6_9))
 
-> «_No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para *ser iguales* espiritualmente._» ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
+> «_No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para *ser iguales* espiritualmente._» (<a id="a152_155"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
 
 Tener el mismo propósito y los mismos **_ideales_** parece ser una de las mejores maneras de avanzar: apuntar a la unidad, no a la uniformidad.
 
@@ -167,3 +191,28 @@ Si tenemos **_fe_** en el plan eterno de Dios y trabajamos firmemente para super
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/07/29/challenges-of-diversity)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desarrollos recientes en el sector de la astrofísica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/True_Success_study">
+          <span class="pr-2">El verdadero éxito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

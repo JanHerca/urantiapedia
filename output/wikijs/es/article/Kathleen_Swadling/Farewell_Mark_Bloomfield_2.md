@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Kathleen Swadling<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón de Nueva Zelanda – Invierno 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Our_Educational_Imperative_A_Strategy">
+          <span class="pr-2">Nuestro imperativo educativo: una estrategia para las próximas décadas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Kathleen Swadling, Nueva Gales del Sur
@@ -76,7 +100,7 @@ Ben Bowler, quien se hizo cargo del trabajo de Marks en FreeSchools en Tailandia
 
 ## 2006 en Australia
 
-Algunos de nosotros recordaremos a Mark de la Conferencia Internacional de la Asociación Urantia de 2006 celebrada en el Women's College de Sydney. Nuestro tema se tituló «Recompensas del aislamiento: equipos pequeños en aguas profundas». Mark hizo una presentación apasionada e inspiradora sobre la naturaleza y la misión de la Revelación Urantia. Un aspecto de su charla me impresionó mucho; Disputó la parte de «pequeños equipos en aguas profundas» del título de nuestro tema invirtiendo completamente el significado al decir, con todo el poder del universo detrás de nosotros, ¿cómo podemos llamarnos así? ¡Más bien preferiría pensar en nosotros como «grandes equipos en pequeños charcos»! Al enfatizar la magnitud de la misión de la quinta revelación de época, las masas de amigos celestiales invisibles que luchan por nuestro éxito y el poder de nuestra Fe, deberíamos tener más confianza y coraje para atrevernos a avanzar _...en la única compañía de la VERDAD._ [[LU 103:9.7](/es/The_Urantia_Book/103#p9_7)]
+Algunos de nosotros recordaremos a Mark de la Conferencia Internacional de la Asociación Urantia de 2006 celebrada en el Women's College de Sydney. Nuestro tema se tituló «Recompensas del aislamiento: equipos pequeños en aguas profundas». Mark hizo una presentación apasionada e inspiradora sobre la naturaleza y la misión de la Revelación Urantia. Un aspecto de su charla me impresionó mucho; Disputó la parte de «pequeños equipos en aguas profundas» del título de nuestro tema invirtiendo completamente el significado al decir, con todo el poder del universo detrás de nosotros, ¿cómo podemos llamarnos así? ¡Más bien preferiría pensar en nosotros como «grandes equipos en pequeños charcos»! Al enfatizar la magnitud de la misión de la quinta revelación de época, las masas de amigos celestiales invisibles que luchan por nuestro éxito y el poder de nuestra Fe, deberíamos tener más confianza y coraje para atrevernos a avanzar _...en la única compañía de la VERDAD._ <a id="a102_970"></a>[[LU 103:9.7](/es/The_Urantia_Book/103#p9_7)]
 
 Nuestro más sentido pésame y nuestras oraciones están para la familia de Mark y para todos aquellos que lo conocieron bien y lo llamaron «amigo» y «hermano». Que su resurrección en los Mundos Mansión sea gozosa y compense la forma trágica de su partida prematura de este mundo.
 
@@ -90,3 +114,28 @@ _Aquí hay algunos buenos recuerdos de la visita de Mark a Australia para la Con
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/07/31/farewell-mark-bloomfield)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón de Nueva Zelanda – Invierno 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Our_Educational_Imperative_A_Strategy">
+          <span class="pr-2">Nuestro imperativo educativo: una estrategia para las próximas décadas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Julian McGarry<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2019_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Otoño 2019 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="pr-2">Conferencia de ANZURA Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Julian McGarry, Tasmania
@@ -23,15 +47,15 @@ Los trágicos acontecimientos ocurridos recientemente en Christchurch ponen de r
 
 > _A lo largo de cada prueba y en presencia de cada dificultad, las almas nacidas del espíritu están sostenidas por esa esperanza que trasciende todo temor, porque el amor de Dios se derrama en todos los corazones a través de la presencia del Espíritu divino._ [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
 > 
-> _La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. La religión no es más que un humanismo elevado hasta que se hace divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal._ [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+> _La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. La religión no es más que un humanismo elevado hasta que se hace divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal._ <a id="a49_566"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 ¡Qué Maestro tan magnífico tenemos! ¡Sus buenas noticias, el evangelio de Jesús, son el mensaje que nuestro mundo atribulado necesita escuchar!
 
 A finales de febrero organicé un festival interreligioso aquí en Hobart, que fue una experiencia increíble. Envié invitaciones a representantes de los gobiernos estatales, federales y locales, que en la mayoría de los casos fueron recibidas y respondidas por sus asistentes personales o secretarias. Sólo una o dos veces tuve acceso directo al VIP. Esto es comprensible, por supuesto, pero me hizo apreciar lo extraordinario que es que podamos tener acceso a nuestro amoroso Padre y a nuestro divino hermano en cualquier momento del día o de la noche sin tener que recurrir a un intermediario o concertar una cita. Además, ¿no es impresionante que nuestro Padre Universal anhele tener comunión con nosotros?
 
-> _Nuestro Padre no se oculta; no se encuentra en un retiro arbitrario. Ha movilizado los recursos de su sabiduría divina en un esfuerzo sin fin por revelarse a los hijos de sus dominios universales. La majestad de su amor lleva unidas una grandeza infinita y una generosidad inexpresable que le inducen a anhelar asociarse con cada ser creado que pueda comprenderlo, amarlo o acercarse a él._ [[LU 5:1.2](/es/The_Urantia_Book/5#p1_2)]
+> _Nuestro Padre no se oculta; no se encuentra en un retiro arbitrario. Ha movilizado los recursos de su sabiduría divina en un esfuerzo sin fin por revelarse a los hijos de sus dominios universales. La majestad de su amor lleva unidas una grandeza infinita y una generosidad inexpresable que le inducen a anhelar asociarse con cada ser creado que pueda comprenderlo, amarlo o acercarse a él._ <a id="a55_394"></a>[[LU 5:1.2](/es/The_Urantia_Book/5#p1_2)]
 > 
-> _«Pero yo he venido a mostraros que, mientras tratáis de encontrar a Dios, Dios también trata de encontraros a vosotros.»_ [[LU 169:1.2](/es/The_Urantia_Book/169#p1_2)]
+> _«Pero yo he venido a mostraros que, mientras tratáis de encontrar a Dios, Dios también trata de encontraros a vosotros.»_ <a id="a57_125"></a>[[LU 169:1.2](/es/The_Urantia_Book/169#p1_2)]
 
 Sinceramente espero que en ANZURA podamos ser más accesibles y accesibles para ustedes, miembros de la región de Australasia y Oceanía. ANZURA es una organización de servicios. Está formado por voluntarios que están aquí para servir a los miembros y lectores. Si hay alguna forma de que podamos hacerlo mejor, si hay algo que necesite más o menos, háganoslo saber. Siempre somos receptivos a comentarios constructivos. Me pueden contactar a mi dirección de correo electrónico: [julianmcgarry@gmail.com](mailto:julianmcgarry@gmail.com).
 
@@ -54,3 +78,28 @@ Presidente, ANZURA
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/05/02/president-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2019_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Otoño 2019 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="pr-2">Conferencia de ANZURA Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

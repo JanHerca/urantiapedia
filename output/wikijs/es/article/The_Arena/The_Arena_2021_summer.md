@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="pr-2">Informe del presidente - Verano de 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -130,7 +151,7 @@ En otras palabras, «Somos porque YO SOY».
 
 Por supuesto, esto no es nada sencillo y requiere algo llamado «la Era del Universo Maestro». Pero para el Padre, el resultado final es una familia casi infinita de Unos como él y, por tanto, una garantía de que la Eternidad será casi infinitamente interesante. En cuanto a cómo nuestro Padre «lo hace así», los autores de _El Libro de Urantia_ revelan que este acontecimiento infinito, este embellecimiento de la eternidad, está motivado y mediado por el Amor, el primer motor, la motivación esencial y apremiante.
 
-Fíjate, todo esto es muy profundamente personal. «**YO SOY**» no es sólo nuestro «principal postulado filosófico» [[LU 105:1.3](/es/The_Urantia_Book/105#p1_3)], sino que también es la experiencia más personal posible: YO SOY. Somos. Desde esta perspectiva, el universo se convierte en un asunto de familia. Volveremos a esto. Pero por ahora, sólo quiero establecer esta idea, que el Amor es el motivador, el mediador, literalmente la Luz y la Vida de todas las interacciones que se desarrollan en el dominio personal del Padre.
+Fíjate, todo esto es muy profundamente personal. «**YO SOY**» no es sólo nuestro «principal postulado filosófico» <a id="a153_114"></a>[[LU 105:1.3](/es/The_Urantia_Book/105#p1_3)], sino que también es la experiencia más personal posible: YO SOY. Somos. Desde esta perspectiva, el universo se convierte en un asunto de familia. Volveremos a esto. Pero por ahora, sólo quiero establecer esta idea, que el Amor es el motivador, el mediador, literalmente la Luz y la Vida de todas las interacciones que se desarrollan en el dominio personal del Padre.
 
 [Leer más](/es/article/Nigel_Nunn/We_Are_Because_I_AM)
 <br style="clear:both;"/>
@@ -165,7 +186,7 @@ William Wentworth, Canberra ACT
 
 Recientemente, me llamó la atención un artículo en Mighty Messenger, primavera de 2021. Escrito por Gary Tonge, un lector estadounidense, señalaba que la Rebelión de Lucifer no reclamó a ninguna de las personalidades ascendentes que eran ciudadanos de Jerusem en ese momento. Estos eran 187.432.811.
 
-_Pasaron más de dos años de tiempo del sistema desde el comienzo de la «guerra en el cielo» hasta la instalación del sucesor de Lucifer. Pero por fin llegó el nuevo Soberano, aterrizando en el mar de cristal con su bastón. Yo estaba entre las reservas movilizadas en Edentia por Gabriel, y recuerdo bien el primer mensaje de Lanaforge al Padre de la Constelación de Norlatiadek. Decía: «No se perdió ni un solo ciudadano de Jerusem. Cada mortal ascendente sobrevivió a la prueba de fuego y emergió de la prueba crucial triunfante y totalmente victorioso». Y a Salvington, Uversa y el Paraíso llegó este mensaje de seguridad de que la experiencia de supervivencia de la ascensión mortal es la mayor seguridad contra la rebelión y la salvaguardia más segura contra el pecado. Este noble grupo de fieles mortales de Jerusem contaba con sólo 187.432.811._ [[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)]
+_Pasaron más de dos años de tiempo del sistema desde el comienzo de la «guerra en el cielo» hasta la instalación del sucesor de Lucifer. Pero por fin llegó el nuevo Soberano, aterrizando en el mar de cristal con su bastón. Yo estaba entre las reservas movilizadas en Edentia por Gabriel, y recuerdo bien el primer mensaje de Lanaforge al Padre de la Constelación de Norlatiadek. Decía: «No se perdió ni un solo ciudadano de Jerusem. Cada mortal ascendente sobrevivió a la prueba de fuego y emergió de la prueba crucial triunfante y totalmente victorioso». Y a Salvington, Uversa y el Paraíso llegó este mensaje de seguridad de que la experiencia de supervivencia de la ascensión mortal es la mayor seguridad contra la rebelión y la salvaguardia más segura contra el pecado. Este noble grupo de fieles mortales de Jerusem contaba con sólo 187.432.811._ <a id="a188_852"></a>[[LU 53:7.12](/es/The_Urantia_Book/53#p7_12)]
 
 [Leer más](/es/article/William_Wentworth/Where_Are_They_All)
 <br style="clear:both;"/>
@@ -185,7 +206,7 @@ _El Libro de Urantia_ presenta una cosmología que conmueve el alma: un universo
 Sin embargo, justo después de haber conmovido nuestras almas, los autores echan un jarro de agua fría sobre nuestras expectativas.
 <br style="clear:both;"/>
 
-> _...pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ..._ ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+> _...pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ..._ (<a id="a208_133"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 «Necesitará una revisión». Cuando se la compara con la cosmología consensuada actual de un universo joven que comienza con un Big Bang caliente, la cosmología de _El Libro de Urantia_ es tan poco ortodoxa y tan aparentemente equivocada, que algunos estudiosos de estos artículos ahora ven esta cosmología como poco más que una decoración para la presentación de los temas más importantes del libro: sus revelaciones _espirituales_ y _filosóficas_. Pero echemos otro vistazo a las «Limitaciones de la Revelación» discutidas en el Documento 101. Inmediatamente después de afirmar que estaban limitados en cuanto a los hechos científicos que podían revelar, continúan enumerando una serie de cosas que se les permitió hacer. El primero de ellos es especialmente interesante.
 
@@ -311,3 +332,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-summer-2021/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="pr-2">Informe del presidente - Verano de 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

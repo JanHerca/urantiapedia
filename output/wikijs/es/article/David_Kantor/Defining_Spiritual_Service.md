@@ -95,7 +95,7 @@ El servicio desinteresado es la actitud que Jesús nos desafía a llevar a todas
 
 A medida que nos involucramos en el proceso de servicio desinteresado, traemos a la existencia temporal un contexto vivo dentro del cual las fuerzas espirituales que nos rodean pueden funcionar más eficazmente.
 
-El servicio que realizan las personas en nuestro mundo hoy constituye un punto focal para que el poder espiritual sea administrado directamente en las vidas de las personas. «La religión es sólo un humanismo exaltado hasta que se diviniza mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal». ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+El servicio que realizan las personas en nuestro mundo hoy constituye un punto focal para que el poder espiritual sea administrado directamente en las vidas de las personas. «La religión es sólo un humanismo exaltado hasta que se diviniza mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal». (<a id="a97_335"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 Otra visión del servicio es verlo como un mecanismo genético mediante el cual la bondad divina se replica y propaga a través del organismo vivo del Supremo.
 

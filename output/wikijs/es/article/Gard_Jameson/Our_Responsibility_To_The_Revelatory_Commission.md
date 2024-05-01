@@ -90,7 +90,7 @@ Deberíamos preguntarnos ¿qué hemos aprendido en este proceso, este proceso qu
 
 Peep se refirió a la incertidumbre del proceso del que somos parte con una cita de _El Libro de Urantia_. 
 
-> _En las eras planetarias más avanzadas, estos serafines acrecientan la apreciación humana de la verdad de que la incertidumbre es el secreto de la continuidad satisfecha. Ayudan a los filósofos mortales a comprender que cuando la ignorancia es esencial para conseguir algo, sería un desatino colosal que la criatura conociera el futuro. Realzan el gusto del hombre por el dulzor de la incertidumbre, por el encanto y el atractivo de un futuro impreciso y desconocido._ ([UB 39:5.9](/es/The_Urantia_Book/39#p5_9)) 
+> _En las eras planetarias más avanzadas, estos serafines acrecientan la apreciación humana de la verdad de que la incertidumbre es el secreto de la continuidad satisfecha. Ayudan a los filósofos mortales a comprender que cuando la ignorancia es esencial para conseguir algo, sería un desatino colosal que la criatura conociera el futuro. Realzan el gusto del hombre por el dulzor de la incertidumbre, por el encanto y el atractivo de un futuro impreciso y desconocido._ (<a id="a92_472"></a>[UB 39:5.9](/es/The_Urantia_Book/39#p5_9)) 
 
 ¿Podemos todos reconocer este proceso del que somos parte y respirar la «dulzura de la incertidumbre»? ¿Tenemos la voluntad de dejar atrás nuestros comportamientos poco cooperativos y continuar resolviendo nuestra falta de unidad? ¿Tenemos el coraje de darle al Maestro lo que realmente quiere dentro de nuestra comunidad? En nombre de nuestro Maestro, ruego que lo hagamos. ¡Y rezo para que esta sea tu oración también! 
 

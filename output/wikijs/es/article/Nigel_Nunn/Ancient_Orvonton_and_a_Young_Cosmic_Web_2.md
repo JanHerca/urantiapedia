@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Nigel Nunn<br>© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Where_Are_They_All">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Dónde están todos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Tree_of_Life_Myth_or_Fact">
+          <span class="pr-2">El árbol de la vida: mito o realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Nigel Nunn, Canberra, ACT
@@ -24,15 +48,15 @@ _El Libro de Urantia_ presenta una cosmología que conmueve el alma: un universo
 Sin embargo, justo después de haber conmovido nuestras almas, los autores echan un jarro de agua fría sobre nuestras expectativas.
 <br style="clear:both;"/>
 
-> _...pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ..._ ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+> _...pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ..._ (<a id="a50_133"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 «Necesitará una revisión». Cuando se la compara con la cosmología consensuada actual de un universo joven que comienza con un Big Bang caliente, la cosmología de _El Libro de Urantia_ es tan poco ortodoxa y tan aparentemente equivocada, que algunos estudiosos de estos artículos ahora ven esta cosmología como poco más que una decoración para los temas más importantes: sus revelaciones _espirituales_ y _filosóficas_. Pero echemos otro vistazo a las «Limitaciones de la Revelación» discutidas en el Documento 101. Inmediatamente después de afirmar que estaban limitados en cuanto a los hechos científicos que podían revelar, continúan enumerando una serie de cosas que se les permitió hacer. El primero de ellos es especialmente interesante.
 
-> _1. La reducción de la confusión, eliminando con autoridad los errores._ ([LU 101:4.6](/es/The_Urantia_Book/101#p4_6))
+> _1. La reducción de la confusión, eliminando con autoridad los errores._ (<a id="a54_76"></a>[LU 101:4.6](/es/The_Urantia_Book/101#p4_6))
 
 «[L]a eliminación autorizada del error». Hasta donde puedo decir, sólo hay un lugar donde los autores señalan explícitamente una de nuestras suposiciones científicas y nos dicen sin rodeos que está mal. Esto se encuentra en el Documento 12, sobre el uso del corrimiento al rojo para determinar la distancia a las galaxias en el espacio exterior.
 
-> _Pero esta velocidad aparente de recesión no es real;_ ([LU 12:4.14](/es/The_Urantia_Book/12#p4_14))
+> _Pero esta velocidad aparente de recesión no es real;_ (<a id="a58_58"></a>[LU 12:4.14](/es/The_Urantia_Book/12#p4_14))
 
 Recordemos que la «aparente velocidad de recesión» de las galaxias distantes forma la base de nuestra cosmología de consenso actual, según la cual el universo comenzó con una gran explosión hace apenas 14 mil millones de años. Entonces, si esta **_«velocidad aparente de la recesión»_** es en realidad **_«no real»_**, entonces esta única suposición (sobre la «Ley de Hubble») es de hecho responsable de una enorme confusión. Por lo tanto, los autores estarían en su derecho de intentar alguna «reducción de la confusión mediante la eliminación autorizada del error».
 
@@ -47,3 +71,28 @@ Respecto al vídeo final de esa serie (Parte 4D), el _Telescopio Espacial James 
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2022/01/01/video-part-4d-ancient-orvonton-young-cosmic-web)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Where_Are_They_All">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Dónde están todos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Tree_of_Life_Myth_or_Fact">
+          <span class="pr-2">El árbol de la vida: mito o realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

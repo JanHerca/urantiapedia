@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/President_Report_Autumn_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Otoño de 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/2019_National_Study_Day">
+          <span class="pr-2">Día Nacional del Estudio 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por el Comité de la Conferencia
@@ -23,7 +47,7 @@ Este año la conferencia ANZURA regresa a la capital del país, esta vez en un e
 
 ## Tema: La mente sobre la materia, el espíritu sobre la mente
 
-> _La energía-materia domina en los superuniversos evolutivos, salvo en la personalidad, donde el espíritu lucha, por mediación de la mente, para conseguir la superioridad. La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._ ([LU 116:6.1](/es/The_Urantia_Book/116#p6_1))
+> _La energía-materia domina en los superuniversos evolutivos, salvo en la personalidad, donde el espíritu lucha, por mediación de la mente, para conseguir la superioridad. La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._ (<a id="a49_393"></a>[LU 116:6.1](/es/The_Urantia_Book/116#p6_1))
 
 Es bastante obvio que en el siglo XXI hay una comprensión considerable de las formas en que la mente humana ha estado subyugando la materia. Los avances industriales y tecnológicos de los dos siglos anteriores han hecho que los hombres modernos se conviertan en virtuales adoradores de la ciencia, y muchos sugieren que esto conducirá eventualmente a la comprensión completa del mundo material por parte de la humanidad.
 
@@ -59,3 +83,28 @@ Leer más sobre [Archivos de la Conferencia](https://anzura.urantia-association.
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2018/11/12/anzuras-conference-canberra-2019)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/President_Report_Autumn_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Otoño de 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/2019_National_Study_Day">
+          <span class="pr-2">Día Nacional del Estudio 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

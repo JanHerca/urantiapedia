@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="pr-2">Informe del Presidente - Primavera de 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -82,11 +103,11 @@ Grupo de estudio en línea del miércoles por la noche
 En el Documento 151, **Demorándose y enseñando a la orilla del mar**, Jesús comenzó a cambiar sus métodos de enseñanza usando parábolas para transmitir las verdades que quería transmitir. Todos los Apóstoles intentaron interpretar la parábola del sembrador y terminaron con interpretaciones muy diferentes. Luego, al final de la Sección 3 (Más sobre las parábolas), Jesús dijo a los apóstoles:
 
 
-> «_Antes de despedir al grupo para pasar la noche, Jesús dijo: «Ahora os voy a contar lo último de la parábola del sembrador. Quiero probaros para saber cómo recibiréis esto: El reino de los cielos se parece también a un hombre que echa una buena semilla en la tierra; mientras dormía por la noche y se ocupaba de sus asuntos durante el día, la semilla brotó y creció, y aunque no sabía cómo sucedió, la planta fructificó. Primero fue la hoja, luego la espiga y luego el grano completo en la espiga. Y cuando el grano estuvo maduro, empleó la hoz y fue el final de la cosecha. El que tenga oídos para oír, que oiga»._» ([LU 151:3.15](/es/The_Urantia_Book/151#p3_15))
+> «_Antes de despedir al grupo para pasar la noche, Jesús dijo: «Ahora os voy a contar lo último de la parábola del sembrador. Quiero probaros para saber cómo recibiréis esto: El reino de los cielos se parece también a un hombre que echa una buena semilla en la tierra; mientras dormía por la noche y se ocupaba de sus asuntos durante el día, la semilla brotó y creció, y aunque no sabía cómo sucedió, la planta fructificó. Primero fue la hoja, luego la espiga y luego el grano completo en la espiga. Y cuando el grano estuvo maduro, empleó la hoz y fue el final de la cosecha. El que tenga oídos para oír, que oiga»._» (<a id="a105_621"></a>[LU 151:3.15](/es/The_Urantia_Book/151#p3_15))
 
 En el siguiente párrafo se nos dice:
 
-> _Los apóstoles le dieron muchas vueltas a estas palabras en su mente, pero el Maestro nunca volvió a mencionar este añadido a la parábola del sembrador._ ([LU 151:3.16](/es/The_Urantia_Book/151#p3_16))
+> _Los apóstoles le dieron muchas vueltas a estas palabras en su mente, pero el Maestro nunca volvió a mencionar este añadido a la parábola del sembrador._ (<a id="a109_157"></a>[LU 151:3.16](/es/The_Urantia_Book/151#p3_16))
 
 En el grupo de estudio decidimos experimentar este ejercicio de interpretación de parábolas intentando encontrar el significado de lo que Jesús pretendía con esta última parábola del sembrador. Cada uno de nosotros lo intentó y esto es lo que compartimos la semana siguiente:
 
@@ -154,9 +175,9 @@ George Park, Estados Unidos
 <img src="/image/article/The_Arena/DIVINE-SPARK-By-Kim-S.-MacKenzie-223x300.jpg" alt="Divine Spark">
 </figure>
 
-_La manera en que el Padre Universal habita con las criaturas del tiempo es el más profundo de todos los misterios del universo; la presencia divina en la mente del hombre es el misterio de los misterios._ [[LU 1:4.1](/es/The_Urantia_Book/1#p4_1)]
+_La manera en que el Padre Universal habita con las criaturas del tiempo es el más profundo de todos los misterios del universo; la presencia divina en la mente del hombre es el misterio de los misterios._ <a id="a177_206"></a>[[LU 1:4.1](/es/The_Urantia_Book/1#p4_1)]
 
-La técnica mediante la cual el Ajustador del Pensamiento puede hacer conocer su presencia eterna a la mente material es un misterio. El método mediante el cual el espíritu registra la realidad de la eternidad en la mente material como una experiencia del «ahora eterno» es un milagro filosófico que escapa a nuestra comprensión. ([LU 118:1.1](/es/The_Urantia_Book/118#p1_1)) Sin embargo, la técnica utilizada por la mente material en su búsqueda hacia arriba y hacia adentro para experimentar la presencia de Dios, el comportamiento psicológico de la mente humana para fomentar su propia espiritualización, no está completamente fuera de nuestro alcance. 
+La técnica mediante la cual el Ajustador del Pensamiento puede hacer conocer su presencia eterna a la mente material es un misterio. El método mediante el cual el espíritu registra la realidad de la eternidad en la mente material como una experiencia del «ahora eterno» es un milagro filosófico que escapa a nuestra comprensión. (<a id="a179_330"></a>[LU 118:1.1](/es/The_Urantia_Book/118#p1_1)) Sin embargo, la técnica utilizada por la mente material en su búsqueda hacia arriba y hacia adentro para experimentar la presencia de Dios, el comportamiento psicológico de la mente humana para fomentar su propia espiritualización, no está completamente fuera de nuestro alcance. 
 
 [Leer más](/es/article/George_Park/Creative_Imagination_in_Prayer_and_Worship)
 <br style="clear:both;"/>
@@ -350,3 +371,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-spring-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="pr-2">Informe del Presidente - Primavera de 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Rita Schaad<br>© 2022 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2022_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El verdadero éxito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="pr-2">Conferencia Anual 2023 en Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Rita Schaad, Newcastle NSW
@@ -26,7 +50,7 @@ Y Señor de señores... aleluya...
 Y Él reinará por los siglos de los siglos...
 <br style="clear:both;"/>
 
-> _En ningún mundo de este universo, ni en la vida de ningún otro mortal, Dios no se ha vuelto nunca una *realidad tan viviente* como en la experiencia humana de Jesús de Nazaret._ ([LU 196:0.3](/es/The_Urantia_Book/196#p0_3))
+> _En ningún mundo de este universo, ni en la vida de ningún otro mortal, Dios no se ha vuelto nunca una *realidad tan viviente* como en la experiencia humana de Jesús de Nazaret._ (<a id="a52_182"></a>[LU 196:0.3](/es/The_Urantia_Book/196#p0_3))
 
 Nunca en ningún otro mundo entre muchos sistemas y constelaciones – ni siquiera en todo el Universo de Nebadon – sucedió lo que sucedió en el nuestro, el primer y único planeta humilde que tuvo el honor de albergar a Cristo Miguel entregándose en carne como Jesús. Se nos conoce como «el mundo de la cruz», el santuario sentimental de todo Nebadon; somos conocidos en todo el reino por su pasado (y presente) devastado por los conflictos y sus mortales rebeldes. ¡Y esto todavía, incluso después de 2000 años de que el Ajustador mora en la mayoría de los habitantes!
 
@@ -36,7 +60,7 @@ _Nuestro mundo_ es anfitrión de un ser celestial tan elevado. ¡GUAU! Otros mun
 
 Fuimos anfitriones del Creador en su noble búsqueda de simplemente:
 
-> _...para conseguir que todos los hombres reconocieran el amor del Padre y fueran conscientes de su filiación con Dios._ ([LU 98:7.1](/es/The_Urantia_Book/98#p7_1))
+> _...para conseguir que todos los hombres reconocieran el amor del Padre y fueran conscientes de su filiación con Dios._ (<a id="a62_123"></a>[LU 98:7.1](/es/The_Urantia_Book/98#p7_1))
 
 Cuando la magnitud de este regalo es lo suficientemente profunda, seguramente seremos conmovidos de tal manera que nos estimule a _....¡salir por todas las naciones a proclamar las buenas nuevas_! Nos insta a buscar algún tipo de compromiso en un intento de responder a la acusación de difundir la verdad de esta increíble declaración.
 
@@ -50,7 +74,7 @@ Como sabrá, recibimos muchas consultas de lectores durante el año, incluso sol
 
 ¿Qué falta aquí?
 
-> _Si la iglesia cristiana se atreviera tan sólo a abrazar ***el programa del Maestro***, miles de jóvenes aparentemente indiferentes se precipitarían para alistarse en esta empresa espiritual, y no dudarían en llevar a cabo hasta el fin esta gran aventura._ ([LU 195:10.10](/es/The_Urantia_Book/195#p10_10))
+> _Si la iglesia cristiana se atreviera tan sólo a abrazar ***el programa del Maestro***, miles de jóvenes aparentemente indiferentes se precipitarían para alistarse en esta empresa espiritual, y no dudarían en llevar a cabo hasta el fin esta gran aventura._ (<a id="a76_260"></a>[LU 195:10.10](/es/The_Urantia_Book/195#p10_10))
 
 ¿Podríamos leer esto también como: «Si **nosotros** nos atreviéramos a adoptar el programa de Maestría…»? ¿Qué es ese Programa?
 
@@ -69,3 +93,28 @@ Presidente de ANZURA
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/01/06/presidents-report-3)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2022_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El verdadero éxito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="pr-2">Conferencia Anual 2023 en Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

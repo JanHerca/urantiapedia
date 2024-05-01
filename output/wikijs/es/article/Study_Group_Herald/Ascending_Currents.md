@@ -96,7 +96,7 @@ poder y sabiduría divinos hasta el mismo
 fin, hasta que termine la última lucha terrestre.
 
 Adaptado de la advertencia de un Ajustador
-([LU 110:7.10](/es/The_Urantia_Book/110#p7_10))
+(<a id="a98_1"></a>[LU 110:7.10](/es/The_Urantia_Book/110#p7_10))
 
 ---
 La poesía de mi alma se extrae de

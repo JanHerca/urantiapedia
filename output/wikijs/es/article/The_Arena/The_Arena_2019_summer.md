@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="pr-2">Informe del Presidente - Diciembre de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -172,7 +193,7 @@ En primer lugar, me gustaría agradecer al grupo de Canberra por esta conferenci
 Fue un día histórico cuando Jesús dejó sus herramientas de carpintería en el cobertizo para botes por última vez, después de escuchar que Juan el Bautista había sido arrestado, y entró en el templo para comenzar su ministerio de enseñanza pública y predicó sobre el 'reino interior'. donde dijo:
 <br style="clear:both;"/>
 
-> _«Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina»{39}._ ([[LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
+> _«Este reino es un dominio perpetuo. Los que entren en el reino ascenderán hasta mi Padre; alcanzarán ciertamente la diestra de su gloria en el Paraíso. Todos los que entren en el reino de los cielos se convertirán en los hijos de Dios, y en la era venidera ascenderán hasta el Padre. No he venido a llamar a los supuestos justos, sino a los pecadores y a todos los que tienen hambre y sed de la rectitud de la perfección divina»{39}._ (<a id="a195_439"></a>[[LU 137:8.16](/es/The_Urantia_Book/137#p8_16))
 
 Volveré a esto, pero primero (¡ya que es el día de las Grandes Finales de fútbol!) quiero hablar un poco sobre los objetivos.
 
@@ -220,7 +241,7 @@ _(Nota del editor: **Explorar los archivos** es una colección de artículos que
 
 **El mundo interior de la humanidad: buscando una descripción para la quinta época**
 
-_Los avances de la verdadera civilización nacen todos en este mundo interior de la humanidad._ [[LU 111:4.3](/es/The_Urantia_Book/111#p4_3)]
+_Los avances de la verdadera civilización nacen todos en este mundo interior de la humanidad._ <a id="a243_95"></a>[[LU 111:4.3](/es/The_Urantia_Book/111#p4_3)]
 
 La humanidad aún no ha compartido un mundo interior. Hasta ahora, los mundos internos de nuestras tribus y naciones han sido fragmentados y locales. En lugar de un rico tapiz de verdades y hechos, los telones de fondo de estos mundos interiores parciales han sido collages más o menos toscos, tejidos a partir de sueños, miedos y ambiciones, a veces salpicados de gemas de revelación dislocadas.
 
@@ -320,3 +341,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-summer-2019/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="pr-2">Informe del Presidente - Diciembre de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

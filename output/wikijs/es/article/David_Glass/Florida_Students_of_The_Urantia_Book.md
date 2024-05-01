@@ -75,7 +75,7 @@ Lee y Connie Lester y su amiga Norma, que conduce hasta Englewood desde Venice, 
 
 Este grupo de estudio ha descubierto «los conceptos superiores del libro y cómo forman una estructura de creencias en la que pueden encajar otros temas tratados en El libro de Urantia». Dicen que con lecturas posteriores se ve más «panorama general» y el libro en su conjunto se vuelve más comprensible. Connie y Lee leen juntos con frecuencia y la revelación es una parte esencial de su vida juntos. Han sido el conducto personal a través del cual muchos ejemplares de _El Libro de Urantia_ han pasado a manos de nuevos lectores.
 
-Los Primeros Hijos Unidos de Englewood también se llaman a sí mismos «Los Saladores» mientras se esfuerzan por ser la «sal de la tierra, sal con sabor salvador». ([LU 140:4.2](/es/The_Urantia_Book/140#p4_2)) Con respecto a la desaprobación de sus antiguos asociados, los testigos de Jehová, Lee afirma que la lealtad a una enseñanza superior requiere «perseverancia, verdadera dedicación, una actitud no caprichosa y compromiso personal».
+Los Primeros Hijos Unidos de Englewood también se llaman a sí mismos «Los Saladores» mientras se esfuerzan por ser la «sal de la tierra, sal con sabor salvador». (<a id="a77_163"></a>[LU 140:4.2](/es/The_Urantia_Book/140#p4_2)) Con respecto a la desaprobación de sus antiguos asociados, los testigos de Jehová, Lee afirma que la lealtad a una enseñanza superior requiere «perseverancia, verdadera dedicación, una actitud no caprichosa y compromiso personal».
 
 ## Los Ascendentes Tropicales
 

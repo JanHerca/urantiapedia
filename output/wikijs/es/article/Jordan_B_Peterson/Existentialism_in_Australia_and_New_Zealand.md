@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Dr. Jordan B. Peterson<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preámbulo de la Conferencia 2004 – Ecos del Edén</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Padraig_O_Tuama/Shaking_Hands_a_Poem">
+          <span class="pr-2">Dar la mano - un poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por el Dr. Jordan B. Peterson, Canadá
@@ -39,3 +63,28 @@ Hablo directamente con la audiencia. Sin notas. Sin andamios. Les digo, como ind
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/08/06/existentialism-australia-new-zealand)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preámbulo de la Conferencia 2004 – Ecos del Edén</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Padraig_O_Tuama/Shaking_Hands_a_Poem">
+          <span class="pr-2">Dar la mano - un poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

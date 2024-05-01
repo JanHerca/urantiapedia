@@ -48,9 +48,9 @@ La forma en que se desarrolló mi siguiente trabajo, el comienzo de una verdader
 
 No me gusta que nadie cuestione mis motivos o acciones. En la vida familiar esto sucede mucho. Pero nuevamente aprendí de Jesús cómo manejar la sospecha y la desconfianza.
 
-> «La certidumbre interior verdadera y auténtica no teme en absoluto el análisis exterior, ni la verdad se resiente por una crítica honesta. ... Los hombres sinceros no temen el examen crítico de sus verdaderas convicciones y de sus nobles ideales».» ([LU 146:3.2](/es/The_Urantia_Book/146#p3_2))
+> «La certidumbre interior verdadera y auténtica no teme en absoluto el análisis exterior, ni la verdad se resiente por una crítica honesta. ... Los hombres sinceros no temen el examen crítico de sus verdaderas convicciones y de sus nobles ideales».» (<a id="a50_252"></a>[LU 146:3.2](/es/The_Urantia_Book/146#p3_2))
 
-> «Seamos pacientes; la verdad nunca teme un examen honesto.» ([LU 153:2.11](/es/The_Urantia_Book/153#p2_11))
+> «Seamos pacientes; la verdad nunca teme un examen honesto.» (<a id="a52_63"></a>[LU 153:2.11](/es/The_Urantia_Book/153#p2_11))
 
 Cuando mi madre cuestionó críticamente mis razones para separarme de mi marido y privar a mis hijos de una relación cercana con su padre, me sentí impotente para mostrarle mi versión de la historia. Pero enfrenté sus diatribas de ira, no me desmayé ante sus malas interpretaciones de los hechos y gentilmente pude ayudarla a ver que solo estaba haciendo lo mejor que podía en una mala situación. Mientras tanto, durante esos momentos de conflicto, me aferré a imágenes de Jesús de pie y representando la verdad tal como él la conocía. Y me dio fuerzas para enfrentar a una de las personas más importantes de mi vida que había perdido temporalmente la fe en mí.
 
@@ -58,9 +58,9 @@ Cuando mi madre cuestionó críticamente mis razones para separarme de mi marido
 
 Nunca deja de sorprenderme cómo Jesús pudo manejar con tanto éxito los intentos de sus enemigos de avergonzarlo en público. Tal sabiduría, tal agilidad, tal razonamiento claro son para mí una maravilla. Y lo amo aún más por eso, porque tengo muy poco de ello, excepto mi capacidad para apreciarlo en él.
 
-> «Jesús hubiera manejado amablemente a la multitud y hubiera desarmado eficazmente incluso a sus enemigos más violentos, ... Hacía tiempo que Jesús había enseñado a los apóstoles que una respuesta dulce desvía el furor.» ([LU 150:9.3](/es/The_Urantia_Book/150#p9_3))
+> «Jesús hubiera manejado amablemente a la multitud y hubiera desarmado eficazmente incluso a sus enemigos más violentos, ... Hacía tiempo que Jesús había enseñado a los apóstoles que una respuesta dulce desvía el furor.» (<a id="a60_223"></a>[LU 150:9.3](/es/The_Urantia_Book/150#p9_3))
 
-> «Ejercía una influencia poderosa y particularmente fascinante tanto sobre sus amigos como sobre sus enemigos. Las multitudes lo seguían durante semanas enteras, únicamente para escuchar sus palabras benévolas y para observar su vida sencilla. Los hombres y las mujeres leales amaban a Jesús con un afecto casi sobrehumano, y cuanto más lo conocían, más lo amaban. Y todo esto sigue siendo verdad; incluso hoy y en todas las épocas futuras, cuanto más conozca el hombre a este Dios-hombre, más lo amará y lo seguirá.» ([LU 149:2.14](/es/The_Urantia_Book/149#p2_14))
+> «Ejercía una influencia poderosa y particularmente fascinante tanto sobre sus amigos como sobre sus enemigos. Las multitudes lo seguían durante semanas enteras, únicamente para escuchar sus palabras benévolas y para observar su vida sencilla. Los hombres y las mujeres leales amaban a Jesús con un afecto casi sobrehumano, y cuanto más lo conocían, más lo amaban. Y todo esto sigue siendo verdad; incluso hoy y en todas las épocas futuras, cuanto más conozca el hombre a este Dios-hombre, más lo amará y lo seguirá.» (<a id="a62_520"></a>[LU 149:2.14](/es/The_Urantia_Book/149#p2_14))
 
 ## Jesús, mi amigo
 
@@ -74,7 +74,7 @@ Mi testimonio favorito entre las personas que intentan vivir según la voluntad 
 
 Le oré: «Ya que no puedo escapar de este problema, lo afrontaré, pero quiero saber que tú realmente estarás ahí para ayudarme». Y desde entonces sé que cuento con la ayuda de un poder mucho mayor que yo. Mi héroe es el mejor y también puede ser tuyo, con sólo pedírselo.
 
-> «A vosotros y a todos los que sigan vuestros pasos a lo largo de los siglos, dejad que os diga que siempre estoy cerca, y que mi convocatoria es, y será siempre: Venid a mí, todos los que os afanáis y lleváis una carga pesada, que yo os daré el descanso. Haced vuestro mi yugo y aprended de mí, pues soy sincero y leal, y encontraréis el descanso espiritual para vuestra alma». ([LU 163:6.7](/es/The_Urantia_Book/163#p6_7))
+> «A vosotros y a todos los que sigan vuestros pasos a lo largo de los siglos, dejad que os diga que siempre estoy cerca, y que mi convocatoria es, y será siempre: Venid a mí, todos los que os afanáis y lleváis una carga pesada, que yo os daré el descanso. Haced vuestro mi yugo y aprended de mí, pues soy sincero y leal, y encontraréis el descanso espiritual para vuestra alma». (<a id="a76_381"></a>[LU 163:6.7](/es/The_Urantia_Book/163#p6_7))
 
-> «Cuando pusieron a prueba las promesas del Maestro, comprobaron que sus palabras eran ciertas. Y desde aquel día, un número incalculable de personas también han probado y comprobado la certeza de estas mismas promesas.» ([LU 163:6.8](/es/The_Urantia_Book/163#p6_8))
+> «Cuando pusieron a prueba las promesas del Maestro, comprobaron que sus palabras eran ciertas. Y desde aquel día, un número incalculable de personas también han probado y comprobado la certeza de estas mismas promesas.» (<a id="a78_223"></a>[LU 163:6.8](/es/The_Urantia_Book/163#p6_8))
 

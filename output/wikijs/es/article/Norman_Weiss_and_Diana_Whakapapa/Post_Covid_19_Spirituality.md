@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Norman Weiss y Diana Whakapapa<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marion_Steward/Language_Matters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El idioma importa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/A_Bit_of_History">
+          <span class="pr-2">Un poco de historia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Norman Weiss y Diana Whakapapa, Nueva Zelanda
@@ -23,7 +47,7 @@ _(Presentado en la conferencia ANZURA en línea de octubre de 2020)_
 
 COVID 19 ha sometido al mundo entero a un período de grandes desafíos. Una de las razones por las que un virus como este representa un desafío tan grande es porque afecta la vida de las personas en un sentido muy mortal. La amenaza de muerte provoca repentinamente una profunda ansiedad en las personas. Piensan, ¿estoy listo? ¿Estoy preparado? ¿Qué pasa con los que dejo atrás? ¿He hecho lo suficiente para ganarme mi lugar en el esquema de ascensión? Mientras que otros están más preocupados de que su gobierno imponga sanciones limitantes a su libertad. También existe una gran preocupación sobre cómo los bloqueos prolongados han impactado nuestra vida económica.
 
-En resumen, este episodio de COVID 19 ha amenazado a la sociedad moderna con las **incertidumbres de la vida**. _El Libro de Urantia_ nos dice que, _Toda vida creatura está plagada de ciertas inevitabilidades_ ([LU 3:5.5](/es/The_Urantia_Book/3#p5_5)) No podemos evitar las vicisitudes de la existencia, ni las incertidumbres de la vida.
+En resumen, este episodio de COVID 19 ha amenazado a la sociedad moderna con las **incertidumbres de la vida**. _El Libro de Urantia_ nos dice que, _Toda vida creatura está plagada de ciertas inevitabilidades_ (<a id="a49_211"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5)) No podemos evitar las vicisitudes de la existencia, ni las incertidumbres de la vida.
 
 Vivimos en un mundo imperfecto y a veces suceden cosas malas, pero _El Libro de Urantia_ nos dice que estas incertidumbres y vicisitudes nos brindan a los mortales la oportunidad de desarrollar cualidades como el coraje, la esperanza, la fe, el idealismo, la lealtad y el altruismo. Tiempos desafiantes como estos a menudo pueden hacer madurar en nosotros los «frutos del Espíritu». Entonces, me gustaría que consideraran que, gracias al COVID 19, tenemos la posibilidad de implementar cambios para un futuro mejor una vez que todo esto haya pasado.
 
@@ -46,7 +70,7 @@ Entonces yo pregunté: «¿Qué se puede hacer para crear el equilibrio espiritu
 
 El documento 34 de _El Libro de Urantia_, en la sección 6 nos dice:
 
-> «_«Sois el templo de Dios, y el espíritu de Dios habita en vosotros». No es suficiente con que este espíritu se haya derramado sobre vosotros; el Espíritu divino debe dominar y controlar cada fase de la experiencia humana._» ([LU 34:6.7](/es/The_Urantia_Book/34#p6_7))
+> «_«Sois el templo de Dios, y el espíritu de Dios habita en vosotros». No es suficiente con que este espíritu se haya derramado sobre vosotros; el Espíritu divino debe dominar y controlar cada fase de la experiencia humana._» (<a id="a72_228"></a>[LU 34:6.7](/es/The_Urantia_Book/34#p6_7))
 
 Llegar a esa etapa requiere que me sumerja en las aguas espirituales todos los días. Ir hacia adentro me permite alinearme más fácilmente con la voluntad de Dios. Tenemos una vida interior y una vida exterior.
 
@@ -82,3 +106,28 @@ Gracias por participar en esta experiencia de conexión con el Espíritu.
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/02/10/post-covid-19-spirituality)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marion_Steward/Language_Matters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El idioma importa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/A_Bit_of_History">
+          <span class="pr-2">Un poco de historia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

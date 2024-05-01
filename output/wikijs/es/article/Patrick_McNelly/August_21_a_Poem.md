@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patrick McNelly<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neil_Francey/Business_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Negocios en Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Barry_Culligan/The_Stillness_a_Poem">
+          <span class="pr-2">La quietud – un poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Patrick McNelly, Estados Unidos
@@ -66,3 +90,28 @@ La Hermandad de cada hombre
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-spring-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neil_Francey/Business_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Negocios en Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Barry_Culligan/The_Stillness_a_Poem">
+          <span class="pr-2">La quietud – un poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

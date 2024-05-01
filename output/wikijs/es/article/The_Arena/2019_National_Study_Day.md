@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de ANZURA Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Graeme_C/On_the_Cosmic_Background">
+          <span class="pr-2">Sobre el trasfondo cósmico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por la Junta de ANZURA
@@ -21,7 +45,7 @@ El Día Nacional de Estudio de este año, donde puedes participar en un grupo de
 
 <br style="clear:both;"/>
 
-> _El Espíritu Infinito, el Creador Conjunto, es un ministro universal y divino. El Espíritu administra sin cesar la misericordia del Hijo y el amor del Padre, en armonía con la justicia estable, invariable y recta de la Trinidad del Paraíso. Su influencia y sus personalidades siempre están cerca de vosotros; os conocen realmente y os comprenden verdaderamente._ ([LU 9:0.3](/es/The_Urantia_Book/9#p0_3))
+> _El Espíritu Infinito, el Creador Conjunto, es un ministro universal y divino. El Espíritu administra sin cesar la misericordia del Hijo y el amor del Padre, en armonía con la justicia estable, invariable y recta de la Trinidad del Paraíso. Su influencia y sus personalidades siempre están cerca de vosotros; os conocen realmente y os comprenden verdaderamente._ (<a id="a47_366"></a>[LU 9:0.3](/es/The_Urantia_Book/9#p0_3))
 
 Una vez más hemos invitado a los lectores internacionales a unirse a nosotros para que podamos estar unidos en Espíritu con los estudiantes de _El Libro de Urantia_ en todo el mundo.
 
@@ -39,3 +63,28 @@ Para obtener más información sobre grupos de estudio virtuales, comuníquese c
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/03/25/2019-national-study-day)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de ANZURA Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Graeme_C/On_the_Cosmic_Background">
+          <span class="pr-2">Sobre el trasfondo cósmico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

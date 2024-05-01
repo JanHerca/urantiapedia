@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 William Wentworth<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la conferencia Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="pr-2">La mente sobre la materia, el espíritu sobre la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por William Wentworth, Canberra - Presentado en la Conferencia de Canberra el 28 de septiembre de 2019
@@ -27,17 +51,17 @@ Por supuesto, para nosotros, habitantes del Gran Universo, es una cuestión de e
 
 La cita exacta es:
 
-> «_La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._» ([LU 116:6.1](/es/The_Urantia_Book/116#p6_1))
+> «_La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._» (<a id="a53_225"></a>[LU 116:6.1](/es/The_Urantia_Book/116#p6_1))
 
 Esto se afirma directamente varias veces; de hecho, ocho según mis cuentas. Aquí están:
-- [LU 0:6.8](/es/The_Urantia_Book/0#p6_8)
-- [LU 42:10.1](/es/The_Urantia_Book/42#p10_1)
-- [LU 42:12.15](/es/The_Urantia_Book/42#p12_15)
-- [LU 111:6.4](/es/The_Urantia_Book/111#p6_4)
-- [LU 116:5.15](/es/The_Urantia_Book/116#p5_15)
-- [LU 116:6.1](/es/The_Urantia_Book/116#p6_1)
-- [LU 117:3.2](/es/The_Urantia_Book/117#p3_2)
-- [LU 117:7.13](/es/The_Urantia_Book/117#p7_13)
+- <a id="a56_2"></a>[LU 0:6.8](/es/The_Urantia_Book/0#p6_8)
+- <a id="a57_2"></a>[LU 42:10.1](/es/The_Urantia_Book/42#p10_1)
+- <a id="a58_2"></a>[LU 42:12.15](/es/The_Urantia_Book/42#p12_15)
+- <a id="a59_2"></a>[LU 111:6.4](/es/The_Urantia_Book/111#p6_4)
+- <a id="a60_2"></a>[LU 116:5.15](/es/The_Urantia_Book/116#p5_15)
+- <a id="a61_2"></a>[LU 116:6.1](/es/The_Urantia_Book/116#p6_1)
+- <a id="a62_2"></a>[LU 117:3.2](/es/The_Urantia_Book/117#p3_2)
+- <a id="a63_2"></a>[LU 117:7.13](/es/The_Urantia_Book/117#p7_13)
 
 Puede que me haya perdido alguno. Pero lo mismo se da a entender en numerosas ocasiones sin que se indique explícitamente. De hecho, si se requiere alguna descripción concisa de lo que está sucediendo en el Gran Universo, esta es tan buena como cualquier otra.
 
@@ -83,19 +107,19 @@ Por supuesto, esto no altera el hecho de que los humanos individuales, como noso
 
 Pero a escala planetaria estamos muy lejos de contribuir mucho. Las civilizaciones de Urantia en general son seculares y, como dicen los reveladores:
 
-> «_La debilidad inherente al laicismo consiste en que desecha la ética y la religión a favor de la política y del poder. Es simplemente imposible establecer la fraternidad de los hombres cuando se ignora o se niega la paternidad de Dios._» ([LU 195:8.11](/es/The_Urantia_Book/195#p8_11))
+> «_La debilidad inherente al laicismo consiste en que desecha la ética y la religión a favor de la política y del poder. Es simplemente imposible establecer la fraternidad de los hombres cuando se ignora o se niega la paternidad de Dios._» (<a id="a109_242"></a>[LU 195:8.11](/es/The_Urantia_Book/195#p8_11))
 
 Nos advierten sobre el problema de que la mente domina la energía-materia y no permite que el espíritu dé dirección a la mente. Ahí es donde estamos hoy. Mucha gente inteligente que trabaja en la ciencia, en la educación, en las humanidades, en las artes, en las finanzas, en el gobierno (todos los campos del esfuerzo humano), trabajando para que la mente establezca control sobre la energía-materia, y a menudo lo logran, pero sin interés en hacer que el espíritu domine la mente. Son intelectuales seculares sin conocimiento ni interés en el espíritu, que consideran a Dios como una superstición primitiva de la que todo hombre sensato debería superar. Por lo tanto, sus esfuerzos carecen del propósito y la dirección que los verdaderos valores espirituales imparten a sus actividades y carecen de valor de supervivencia. Tut-tut, pensé cuando comencé a pensar en esto (¡convenientemente pasando por alto que yo mismo estuve, por un tiempo, en la misma posición!).
 
 Pero después de pensarlo un poco más comencé a darme cuenta de que todos estos mortales seculares son ajustadores que habitan en ellos, o la mayoría de ellos lo son. Los Ajustadores están tratando de espiritualizar su pensamiento tal como lo hacen con aquellos de nosotros que tenemos la ventaja del libro de Urantia. No son malvados y muestran el grado normal de preocupación por sus semejantes. Cuando hacen algo desinteresadamente se sienten bien y a veces aprenden a hacer el bien a los demás, disfrutan haciéndolo y les gustaría hacerlo más. Recordar:
 
-> _El amor es el deseo de hacer el bien a los demás._ ([LU 56:10.21](/es/The_Urantia_Book/56#p10_21))
+> _El amor es el deseo de hacer el bien a los demás._ (<a id="a115_55"></a>[LU 56:10.21](/es/The_Urantia_Book/56#p10_21))
 
 Y esto constituye una experiencia espiritual. Entonces, aunque muchos de estos secularistas rechazan la noción de espíritu, están exhibiendo cierta dirección espiritual sin reconocerlo por lo que es.
 
 Recuerda también:
 
-> _El gran circuito del amor procede del Padre, pasa de los hijos a los hermanos, y de ahí se dirige al Supremo._ ([LU 117:6.10](/es/The_Urantia_Book/117#p6_10))
+> _El gran circuito del amor procede del Padre, pasa de los hijos a los hermanos, y de ahí se dirige al Supremo._ (<a id="a121_115"></a>[LU 117:6.10](/es/The_Urantia_Book/117#p6_10))
 
 Así que me he dado cuenta de que muchos secularistas no son tan seculares como creen, y parte de su pensamiento está influenciado por su ajustador interno.
 
@@ -109,7 +133,7 @@ Un aspecto del crecimiento del Supremo que me interesa es que todas las agencias
 
 Me di cuenta de que todas las personalidades involucradas deben crecer a medida que crece el Supremo cuando leí el mensaje que un ajustador del pensamiento le dio a su sujeto interno en LU 110:7.10 y me di cuenta de que los ajustadores están interesados en nuestro progreso, no sólo porque nos aman, sino también porque tienen algo que ganar con nuestro progreso. El altruismo está ahí, pero no es el único motivo.
 
-> «_Y le exhorto a sobrevivir, a que no me decepcione, a que no me prive de la recompensa de mi lucha paciente e intensa. Dependemos de la voluntad humana para conseguir la personalidad. Círculo tras círculo he elevado pacientemente esta mente humana, y tengo el testimonio de que el jefe de mi orden me concede su aprobación. Círculo tras círculo paso por un juicio. Espero con placer y sin aprensión el llamamiento nominal del destino; estoy preparado para someterlo todo a los tribunales de los Ancianos de los Días»._» ([LU 110:7.10](/es/The_Urantia_Book/110#p7_10))
+> «_Y le exhorto a sobrevivir, a que no me decepcione, a que no me prive de la recompensa de mi lucha paciente e intensa. Dependemos de la voluntad humana para conseguir la personalidad. Círculo tras círculo he elevado pacientemente esta mente humana, y tengo el testimonio de que el jefe de mi orden me concede su aprobación. Círculo tras círculo paso por un juicio. Espero con placer y sin aprensión el llamamiento nominal del destino; estoy preparado para someterlo todo a los tribunales de los Ancianos de los Días»._» (<a id="a135_524"></a>[LU 110:7.10](/es/The_Urantia_Book/110#p7_10))
 
 Así que razona que si los ajustadores del pensamiento (fragmentos de la deidad absoluta) tienen piel en el juego, entonces probablemente todos los seres en evolución también la tengan.
 
@@ -125,7 +149,7 @@ El progreso de la ciencia y la tecnología ha transformado las condiciones mater
 
 Como dicen los reveladores:
 
-> _El gran circuito del amor procede del Padre, pasa de los hijos a los hermanos, y de ahí se dirige al Supremo._ ([LU 117:6.10](/es/The_Urantia_Book/117#p6_10))
+> _El gran circuito del amor procede del Padre, pasa de los hijos a los hermanos, y de ahí se dirige al Supremo._ (<a id="a151_115"></a>[LU 117:6.10](/es/The_Urantia_Book/117#p6_10))
 
 Y ahí es donde estamos hoy.
 
@@ -165,3 +189,28 @@ El escenario está preparado para la invasión del primer nivel del espacio exte
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/09/28/growing-the-supreme)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la conferencia Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="pr-2">La mente sobre la materia, el espíritu sobre la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

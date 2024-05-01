@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Daniel Swadling<br>© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/We_Are_Because_I_AM">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Somos, porque YO SOY</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Where_Are_They_All">
+          <span class="pr-2">¿Dónde están todos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Daniel Swadling, Sídney, Nueva Gales del Sur
@@ -21,14 +45,14 @@ _(Presentación de la Conferencia Anual Virtual 2021 de ANZURA)_
 <img src="/image/article/The_Arena/Dan-2017-300x258.jpg" alt="Daniel Swadling">
 </figure>
 
-La creación espacio-temporal es una vasta fragmentación de un Dios infinito en expresiones individuales de las cuales somos sólo uno (y nuestra gran aventura universal es la de la reunificación con ese Dios). Sin embargo, la unidad de Dios persiste. Todas sus partes constitutivas están unificadas en la personalidad del Padre en su eterna perfección. Y nuestra personalidad, como don exclusivo y directo de Dios, también tiene el potencial de unificar todos nuestros elementos constitutivos, así como la personalidad de Dios unifica la suya. ([LU 56:4.3](/es/The_Urantia_Book/56#p4_3))
+La creación espacio-temporal es una vasta fragmentación de un Dios infinito en expresiones individuales de las cuales somos sólo uno (y nuestra gran aventura universal es la de la reunificación con ese Dios). Sin embargo, la unidad de Dios persiste. Todas sus partes constitutivas están unificadas en la personalidad del Padre en su eterna perfección. Y nuestra personalidad, como don exclusivo y directo de Dios, también tiene el potencial de unificar todos nuestros elementos constitutivos, así como la personalidad de Dios unifica la suya. (<a id="a47_544"></a>[LU 56:4.3](/es/The_Urantia_Book/56#p4_3))
 
-Personalidad implica voluntad. Es nuestra voluntad la que toma decisiones que ayudan o dificultan nuestro crecimiento. Es nuestra voluntad la que puede elegir abrazar los valores divinos que conducen al crecimiento espiritual, acercándonos y eventualmente a Dios. Los valores divinos que espero son casi infinitos, pero con el propósito de vivir por ahora en este mundo, pueden destilarse en los conceptos de verdad, belleza y bondad. Estos conceptos representan nuestro mejor intento de discernir a Dios en mente, materia y espíritu, mientras los estudiamos en filosofía, cosmología y religión. ([LU 56:10.2](/es/The_Urantia_Book/56#p10_2))
+Personalidad implica voluntad. Es nuestra voluntad la que toma decisiones que ayudan o dificultan nuestro crecimiento. Es nuestra voluntad la que puede elegir abrazar los valores divinos que conducen al crecimiento espiritual, acercándonos y eventualmente a Dios. Los valores divinos que espero son casi infinitos, pero con el propósito de vivir por ahora en este mundo, pueden destilarse en los conceptos de verdad, belleza y bondad. Estos conceptos representan nuestro mejor intento de discernir a Dios en mente, materia y espíritu, mientras los estudiamos en filosofía, cosmología y religión. (<a id="a49_597"></a>[LU 56:10.2](/es/The_Urantia_Book/56#p10_2))
 <br style="clear:both;"/>
 
 Llevando estos conceptos a sus niveles más altos:
 
-> _Los significados de la verdad ***eterna*** ejercen una atracción combinada sobre las naturalezas intelectual y espiritual del hombre mortal. La belleza ***universal*** abarca las relaciones y los ritmos armoniosos de la creación cósmica; esto constituye más claramente la atracción intelectual y conduce a la comprensión unificada y sincrónica del universo material. La bondad ***divina*** representa la revelación de los valores infinitos a la mente finita, para que sean percibidos y elevados allí hasta el umbral mismo del nivel espiritual de la comprensión humana._ ([LU 56:10.9](/es/The_Urantia_Book/56#p10_9))
+> _Los significados de la verdad ***eterna*** ejercen una atracción combinada sobre las naturalezas intelectual y espiritual del hombre mortal. La belleza ***universal*** abarca las relaciones y los ritmos armoniosos de la creación cósmica; esto constituye más claramente la atracción intelectual y conduce a la comprensión unificada y sincrónica del universo material. La bondad ***divina*** representa la revelación de los valores infinitos a la mente finita, para que sean percibidos y elevados allí hasta el umbral mismo del nivel espiritual de la comprensión humana._ (<a id="a54_574"></a>[LU 56:10.9](/es/The_Urantia_Book/56#p10_9))
 
 «La bondad divina representa la revelación de valores infinitos a la mente finita». Entonces la bondad de Dios nos revela algo que es eterno, que es finito. _Si se pasa de lo temporal, que está limitado por su propia naturaleza y que eventualmente debe pasar, al infinito que persistirá hasta la eternidad, ¿podría haber algo más estabilizador que eso?_
 
@@ -86,25 +110,25 @@ Y el registro del Nuevo Testamento contiene suficiente información de las ense�
 - ‘haced bien a los que os odian’ en ([Lucas 6:27-28](/es/Bible/Luke/6#27)).
 - elegir el bien es elegir ser como Dios, cuando eres bueno estás más cerca de cómo es Dios ([3 Juan 1:11](/es/Bible/3_John/1#v11)).
 
-Y aquí hoy hemos llegado a entender la bondad como un valor divino. Es uno de los principios más importantes por los que guiar su vida si está interesado en la supervivencia después de la muerte. Cuando aplicas un estándar de bondad a todo en tu vida, todo se estabiliza y mejora, permitiendo el crecimiento, incluido el crecimiento del alma. Cuando construyes algo que necesita durar, debes comenzar con una buena base y buenos materiales. Sólido, fuerte, fiable, la sustancia adecuada y correctamente ubicado. Cuando tengas esto, lo que estés construyendo será de calidad y estará estabilizado. Lo mismo ocurre con la construcción de tu alma: …_la bondad_ conduce a la grandeza, y la grandeza desarrolla el carácter de _supervivencia_ ([LU 28:6.22](/es/The_Urantia_Book/28#p6_22)). Los cimientos se establecen con elecciones morales, es decir, elegir el bien sobre el mal, sobre el mal. Esto crea un comienzo estable sobre el cual hacer crecer un alma. ¡Esto es lo que querían decir cuando dijeron: arrepiéntanse! Jesús dijo que cuando las personas creen en su enseñanza, «…que es una revelación de la bondad de Dios, serán llevados al arrepentimiento voluntario de todo pecado conocido» ([LU 150:5.5](/es/The_Urantia_Book/150#p5_5)) lo que abre un camino hacia la salvación de sus almas. 
+Y aquí hoy hemos llegado a entender la bondad como un valor divino. Es uno de los principios más importantes por los que guiar su vida si está interesado en la supervivencia después de la muerte. Cuando aplicas un estándar de bondad a todo en tu vida, todo se estabiliza y mejora, permitiendo el crecimiento, incluido el crecimiento del alma. Cuando construyes algo que necesita durar, debes comenzar con una buena base y buenos materiales. Sólido, fuerte, fiable, la sustancia adecuada y correctamente ubicado. Cuando tengas esto, lo que estés construyendo será de calidad y estará estabilizado. Lo mismo ocurre con la construcción de tu alma: …_la bondad_ conduce a la grandeza, y la grandeza desarrolla el carácter de _supervivencia_ (<a id="a112_738"></a>[LU 28:6.22](/es/The_Urantia_Book/28#p6_22)). Los cimientos se establecen con elecciones morales, es decir, elegir el bien sobre el mal, sobre el mal. Esto crea un comienzo estable sobre el cual hacer crecer un alma. ¡Esto es lo que querían decir cuando dijeron: arrepiéntanse! Jesús dijo que cuando las personas creen en su enseñanza, «…que es una revelación de la bondad de Dios, serán llevados al arrepentimiento voluntario de todo pecado conocido» (<a id="a112_1191"></a>[LU 150:5.5](/es/The_Urantia_Book/150#p5_5)) lo que abre un camino hacia la salvación de sus almas. 
 
 ## Unificación a través de la personalidad
 
 Se nos dice que:
 
-> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor._ ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. La verdad, la belleza y la bondad son realidades divinas, y a medida que el hombre asciende la escala de la vida espiritual, estas cualidades supremas del Eterno se coordinan y se unifican cada vez más en Dios, que es amor._ (<a id="a118_725"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
-La naturaleza de Dios es infinita, eterna, perfecta, infalible y eternamente inmutable. Aquí en los universos, la perfección es relativa; Estamos evolucionando, creciendo y luchando por ese ideal. La perfección de Dios consiste en la perfección inherente a la bondad de su naturaleza divina. Y todo el esquema de la vida universal tiene como objetivo elevarnos a compartir esa perfección del Padre en el cielo ([LU 2:2.5](/es/The_Urantia_Book/2#p2_5)). Nuestra salud, cordura y felicidad son «..._integraciones_ de la verdad, la belleza y la bondad tal como se _combinan_ en la experiencia humana... a través de la _unificación_ de sistemas de energía, sistemas de ideas y sistemas espirituales». ([LU 2:7.11](/es/The_Urantia_Book/2#p7_11), énfasis mío) Y «El verdadero propósito de toda educación universal es lograr una mejor coordinación del niño aislado de los mundos con las realidades más amplias de su experiencia en expansión». ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12), el énfasis es mío)
+La naturaleza de Dios es infinita, eterna, perfecta, infalible y eternamente inmutable. Aquí en los universos, la perfección es relativa; Estamos evolucionando, creciendo y luchando por ese ideal. La perfección de Dios consiste en la perfección inherente a la bondad de su naturaleza divina. Y todo el esquema de la vida universal tiene como objetivo elevarnos a compartir esa perfección del Padre en el cielo (<a id="a120_411"></a>[LU 2:2.5](/es/The_Urantia_Book/2#p2_5)). Nuestra salud, cordura y felicidad son «..._integraciones_ de la verdad, la belleza y la bondad tal como se _combinan_ en la experiencia humana... a través de la _unificación_ de sistemas de energía, sistemas de ideas y sistemas espirituales». (<a id="a120_698"></a>[LU 2:7.11](/es/The_Urantia_Book/2#p7_11), énfasis mío) Y «El verdadero propósito de toda educación universal es lograr una mejor coordinación del niño aislado de los mundos con las realidades más amplias de su experiencia en expansión». (<a id="a120_937"></a>[LU 2:7.12](/es/The_Urantia_Book/2#p7_12), el énfasis es mío)
 
-«La eterna búsqueda es la unificación, la coherencia divina». ([LU 2:7.7](/es/The_Urantia_Book/2#p7_7)) Los aspectos físicos, intelectuales y espirituales de nuestro gran universo apuntan a la coherencia. Nosotros, los mortales aislados del tiempo y el espacio, nos unimos a Dios Padre a través de la _relación directa_ entre él y el fragmento espiritual que envió para morar en nosotros... este fragmento busca eternamente la unificación divina. ([LU 2:7.7](/es/The_Urantia_Book/2#p7_7)) Esto es lo que significa la metáfora «el reino de los cielos está dentro de ti».
+«La eterna búsqueda es la unificación, la coherencia divina». (<a id="a122_63"></a>[LU 2:7.7](/es/The_Urantia_Book/2#p7_7)) Los aspectos físicos, intelectuales y espirituales de nuestro gran universo apuntan a la coherencia. Nosotros, los mortales aislados del tiempo y el espacio, nos unimos a Dios Padre a través de la _relación directa_ entre él y el fragmento espiritual que envió para morar en nosotros... este fragmento busca eternamente la unificación divina. (<a id="a122_448"></a>[LU 2:7.7](/es/The_Urantia_Book/2#p7_7)) Esto es lo que significa la metáfora «el reino de los cielos está dentro de ti».
 
-Entonces, en resumen, es nuestra personalidad la que elige, cuando se enfrenta y se expone a los estímulos persistentes y desafiantes que ofrece esta vida, para alinearnos con los valores divinos. Es nuestra personalidad la que discierne la verdad, aprecia la belleza, retiene el bien/rechaza el mal – retiene lo que vale la pena, lo que es valioso y puede contribuir al crecimiento, y rechaza lo que no. «Estas cualidades divinas están perfecta y absolutamente _unificadas_ en Dios. Y todo hombre que conoce a Dios... posee el potencial de una autoexpresión ilimitada en niveles siempre progresivos de _autorrealización unificada_ mediante... la _fusión_ experiencial en la experiencia evolutiva de la verdad eterna, la belleza universal y la bondad divina». La técnica del logro interminable de la semejanza de Dios. [LU 44:7.4](/es/The_Urantia_Book/44#p7_4)
+Entonces, en resumen, es nuestra personalidad la que elige, cuando se enfrenta y se expone a los estímulos persistentes y desafiantes que ofrece esta vida, para alinearnos con los valores divinos. Es nuestra personalidad la que discierne la verdad, aprecia la belleza, retiene el bien/rechaza el mal – retiene lo que vale la pena, lo que es valioso y puede contribuir al crecimiento, y rechaza lo que no. «Estas cualidades divinas están perfecta y absolutamente _unificadas_ en Dios. Y todo hombre que conoce a Dios... posee el potencial de una autoexpresión ilimitada en niveles siempre progresivos de _autorrealización unificada_ mediante... la _fusión_ experiencial en la experiencia evolutiva de la verdad eterna, la belleza universal y la bondad divina». La técnica del logro interminable de la semejanza de Dios. <a id="a124_819"></a>[LU 44:7.4](/es/The_Urantia_Book/44#p7_4)
 
 Jesús enseñó
 
-> _...Pero el alma que sobrevive al tiempo y emerge en la eternidad debe efectuar una elección viviente y personal entre el bien y el mal, tal como éstos están determinados por los verdaderos valores de las normas espirituales establecidas por el espíritu divino que el Padre que está en los cielos ha enviado a residir en el corazón del hombre._ ([LU 132:2.2](/es/The_Urantia_Book/132#p2_2))
+> _...Pero el alma que sobrevive al tiempo y emerge en la eternidad debe efectuar una elección viviente y personal entre el bien y el mal, tal como éstos están determinados por los verdaderos valores de las normas espirituales establecidas por el espíritu divino que el Padre que está en los cielos ha enviado a residir en el corazón del hombre._ (<a id="a128_348"></a>[LU 132:2.2](/es/The_Urantia_Book/132#p2_2))
 
-> _La bondad siempre está creciendo hacia nuevos niveles de mayor libertad para autorrealizarse moralmente y alcanzar la personalidad espiritual —el descubrimiento del Ajustador interior y la identificación con él. Una experiencia es buena cuando eleva la apreciación de la belleza, aumenta la voluntad moral, realza el discernimiento de la verdad, aumenta la capacidad para amar y servir a nuestros semejantes, exalta los ideales espirituales y unifica los supremos motivos humanos del tiempo con los planes eternos del Ajustador interior. Todo esto conduce directamente a un mayor deseo de hacer la voluntad del Padre, alimentando así la pasión divina de ***encontrar a Dios y de parecerse más a él***._ ([LU 132:2.5](/es/The_Urantia_Book/132#p2_5))
+> _La bondad siempre está creciendo hacia nuevos niveles de mayor libertad para autorrealizarse moralmente y alcanzar la personalidad espiritual —el descubrimiento del Ajustador interior y la identificación con él. Una experiencia es buena cuando eleva la apreciación de la belleza, aumenta la voluntad moral, realza el discernimiento de la verdad, aumenta la capacidad para amar y servir a nuestros semejantes, exalta los ideales espirituales y unifica los supremos motivos humanos del tiempo con los planes eternos del Ajustador interior. Todo esto conduce directamente a un mayor deseo de hacer la voluntad del Padre, alimentando así la pasión divina de ***encontrar a Dios y de parecerse más a él***._ (<a id="a130_707"></a>[LU 132:2.5](/es/The_Urantia_Book/132#p2_5))
 
 Así que la próxima vez que estés sentado alrededor de la fogata y lo único de lo que tengas que preocuparte es de cuándo poner tu pesca fresca sobre las brasas, estarás relajado con una buena bebida en la mano y te olvidarás de los problemas del mundo, podrías sentirte tentado a decir: «¡Está todo bien, amigo!». Y es bueno tener eso por un tiempo, pero realmente sabes que es sólo temporal. Con Dios que es eterno, **todo** está bien **todo** el tiempo. Puedes tener «la buena vida» de comodidad material o crecer espiritualmente y aspirar a la vida eterna. La decisión es tuya.
 
@@ -112,3 +136,28 @@ Así que la próxima vez que estés sentado alrededor de la fogata y lo único d
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2022/01/01/stability-of-goodness)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/We_Are_Because_I_AM">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Somos, porque YO SOY</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Where_Are_They_All">
+          <span class="pr-2">¿Dónde están todos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

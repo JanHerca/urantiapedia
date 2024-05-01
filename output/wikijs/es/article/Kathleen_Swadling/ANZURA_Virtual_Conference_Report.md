@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Kathleen Swadling<br>© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/2022_Anzura_Annual_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Anual de Anzura 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nigel_Nunn/We_Are_Because_I_AM">
+          <span class="pr-2">Somos, porque YO SOY</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Kathleen Swadling, Sídney, Nueva Gales del Sur
@@ -47,3 +71,28 @@ Gracias a todas las abejas trabajadoras silenciosas que hicieron posible este ev
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2022/01/01/2021-anzura-virtual-conference-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/2022_Anzura_Annual_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Anual de Anzura 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nigel_Nunn/We_Are_Because_I_AM">
+          <span class="pr-2">Somos, porque YO SOY</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

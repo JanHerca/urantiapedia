@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="pr-2">Informe del presidente - Verano de 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -48,7 +69,7 @@ El reino de nuestro Señor – Rey de reyes por los siglos de los siglos…
 Y Señor de señores……… aleluya……
 Y Él reinará por los siglos de los siglos….
 
-_Nunca en todos los mundos de este universo, en la vida de ningún mortal, Dios se convirtió en una realidad tan viva como en la experiencia humana de Jesús de Nazaret._ [[LU 196:0.3](/es/The_Urantia_Book/196#p0_3)]
+_Nunca en todos los mundos de este universo, en la vida de ningún mortal, Dios se convirtió en una realidad tan viva como en la experiencia humana de Jesús de Nazaret._ <a id="a71_169"></a>[[LU 196:0.3](/es/The_Urantia_Book/196#p0_3)]
 
 Nunca en ningún otro mundo entre muchos sistemas y constelaciones – ni siquiera en todo el Universo de Nebadon – sucedió lo que sucedió en el nuestro, el primer y único planeta humilde que tuvo el honor de albergar a Cristo Miguel entregándose en carne como Jesús. Se nos conoce como «el mundo de la cruz», el santuario sentimental de todo Nebadon; somos conocidos en todo el reino por su pasado (y presente) devastado por los conflictos y sus mortales rebeldes. ¡Y esto todavía, incluso después de 2000 años de que el Ajustador mora en la mayoría de los habitantes!
 
@@ -89,7 +110,7 @@ Julian McGarry, Hobart TAS
 <img src="/image/article/The_Arena/22-Conf.-logo.jpg" alt="2022 ANZURA Annual Conference">
 </figure>
 
-_Ya es hora de que el hombre tenga una experiencia religiosa tan personal y tan sublime que pueda realizarse y expresarse sólo mediante «sentimientos que son demasiado profundos para expresarlos con palabras»._ [[LU 99:5.9](/es/The_Urantia_Book/99#p5_9)]
+_Ya es hora de que el hombre tenga una experiencia religiosa tan personal y tan sublime que pueda realizarse y expresarse sólo mediante «sentimientos que son demasiado profundos para expresarlos con palabras»._ <a id="a112_211"></a>[[LU 99:5.9](/es/The_Urantia_Book/99#p5_9)]
 
 Las conferencias anuales son siempre lo más destacado del año para los miembros de ANZURA, pero este año fue particularmente notable porque fue la primera vez en tres años que tuvimos una conferencia cara a cara debido a la pandemia. Cómodamente alojados en el hermoso Stewarts Bay Lodge, que está a pocos pasos del sitio histórico de Port Arthur, nos reunimos para concentrarnos en la experiencia personal definitiva: una relación personal e íntima con la Primera Fuente y Centro del universo de universos, nuestro Padre Universal.
 
@@ -113,9 +134,9 @@ _Julian fue el organizador principal de_ _la Conferencia ANZURA 2022 en Tasmania
 
 Me gustaría empezar diciendo que creo que este tema, este tema, es el más importante de todo el universo. Quizás esto sea una exageración, pero espero que después de leer el artículo, entiendas de dónde vengo y tal vez incluso estés de acuerdo conmigo. Creo que es la razón por la que el universo mismo existe y, en última instancia, por la que existimos.
 
-_El Libro de Urantia_ nos dice que hace miles de millones de años, nuestro Hijo Creador, Miguel de Nebadón, que más tarde encarnó en nuestro planeta como Jesús de Nazaret, recibió del Padre Universal su «parcela de césped» para crear su propio universo personal. Además, se le dio el mandato de engendrar millones y millones de hijos para el Padre, seres mortales sensibles de origen evolutivo que serían capaces de tener una relación personal e íntima con un fragmento residente del Padre Universal... nuestro Ajustador del Pensamiento. Estos niños evolutivos de origen animal, hechos del polvo de la tierra, serían creados según el mandato divino «a imagen de Dios» y se les exigiría que fueran perfectos como lo es el Padre Universal. ([LU 1:0.3](/es/The_Urantia_Book/1#p0_3))
+_El Libro de Urantia_ nos dice que hace miles de millones de años, nuestro Hijo Creador, Miguel de Nebadón, que más tarde encarnó en nuestro planeta como Jesús de Nazaret, recibió del Padre Universal su «parcela de césped» para crear su propio universo personal. Además, se le dio el mandato de engendrar millones y millones de hijos para el Padre, seres mortales sensibles de origen evolutivo que serían capaces de tener una relación personal e íntima con un fragmento residente del Padre Universal... nuestro Ajustador del Pensamiento. Estos niños evolutivos de origen animal, hechos del polvo de la tierra, serían creados según el mandato divino «a imagen de Dios» y se les exigiría que fueran perfectos como lo es el Padre Universal. (<a id="a136_739"></a>[LU 1:0.3](/es/The_Urantia_Book/1#p0_3))
 
-¡Un desafío extraordinario, por decir lo menos! Se nos dice además que Miguel, junto con su consorte universal, el Ministro Divino o Espíritu Madre del Universo, nombró directores de poder y controladores de energía para construir un universo físico que consta de constelaciones, sistemas solares y planetas individuales. ([LU 32:2.2](/es/The_Urantia_Book/32#p2_2)) Una vez que estos planetas desarrollaron condiciones propicias para la formación de vida, los Portadores de Vida fueron enviados con la tarea de iniciar y supervisar la evolución de los sistemas biológicos vivos. ([LU 58:1.1](/es/The_Urantia_Book/58#p1_1)) En colaboración con los siete espíritus mentales ayudantes, los Portadores de Vida trabajaron incansablemente para crear criaturas de origen animal que tuvieran mentes capaces de interactuar con la deidad absoluta, el fragmento del Padre residente. Pero antes de que esto pudiera suceder, estas primeras criaturas humanas fueron inmediatamente rodeadas por el abrazo protector y nutritivo del Espíritu Santo, el espíritu personal del Ministro Divino. Sin embargo, debido a los efectos nocivos de la rebelión de Lucifer y el incumplimiento adámico, inicialmente sólo los Ajustadores del Pensamiento moraban en humanos excepcionales. En general, los humanos no eran capaces de experimentar una comunión personal e íntima con los Adaptadores del Pensamiento. ([LU 108:2.2-3](/es/The_Urantia_Book/108#p2_2))
+¡Un desafío extraordinario, por decir lo menos! Se nos dice además que Miguel, junto con su consorte universal, el Ministro Divino o Espíritu Madre del Universo, nombró directores de poder y controladores de energía para construir un universo físico que consta de constelaciones, sistemas solares y planetas individuales. (<a id="a138_323"></a>[LU 32:2.2](/es/The_Urantia_Book/32#p2_2)) Una vez que estos planetas desarrollaron condiciones propicias para la formación de vida, los Portadores de Vida fueron enviados con la tarea de iniciar y supervisar la evolución de los sistemas biológicos vivos. (<a id="a138_580"></a>[LU 58:1.1](/es/The_Urantia_Book/58#p1_1)) En colaboración con los siete espíritus mentales ayudantes, los Portadores de Vida trabajaron incansablemente para crear criaturas de origen animal que tuvieran mentes capaces de interactuar con la deidad absoluta, el fragmento del Padre residente. Pero antes de que esto pudiera suceder, estas primeras criaturas humanas fueron inmediatamente rodeadas por el abrazo protector y nutritivo del Espíritu Santo, el espíritu personal del Ministro Divino. Sin embargo, debido a los efectos nocivos de la rebelión de Lucifer y el incumplimiento adámico, inicialmente sólo los Ajustadores del Pensamiento moraban en humanos excepcionales. En general, los humanos no eran capaces de experimentar una comunión personal e íntima con los Adaptadores del Pensamiento. (<a id="a138_1380"></a>[LU 108:2.2-3](/es/The_Urantia_Book/108#p2_2))
 
 [Leer más](/es/article/Julian_McGarry/Walking_the_R_O_P_E)
 <br style="clear:both;"/>
@@ -130,15 +151,15 @@ Daniel Swadling, Sídney, Nueva Gales del Sur
 
 (Presentado en la Conferencia ANZURA 2022 en Tasmania)
 
-_El gran objetivo de la existencia humana es sintonizarse con la divinidad del Ajustador interior; el gran logro de la vida mortal es el logro de una consagración verdadera y comprensiva a los objetivos eternos del espíritu divino que espera y trabaja dentro de tu mente._ [LU 110:3.4](/es/The_Urantia_Book/110#p3_4)
+_El gran objetivo de la existencia humana es sintonizarse con la divinidad del Ajustador interior; el gran logro de la vida mortal es el logro de una consagración verdadera y comprensiva a los objetivos eternos del espíritu divino que espera y trabaja dentro de tu mente._ <a id="a153_273"></a>[LU 110:3.4](/es/The_Urantia_Book/110#p3_4)
 
 Vemos esta misma sintonía y consagración demostrada, y realmente ocurre, en la vida de Jesús, que me gustaría explorar con ustedes hoy.
 
-_De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió._ [LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
+_De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió._ <a id="a157_118"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
 
-La religión es una experiencia. _‘La religión es una experiencia exclusivamente individual.’_ ([LU 196:2.11](/es/The_Urantia_Book/196#p2_11)) Para entender la religión de Jesús, tenemos que ver cómo se reveló a través de su vida y cómo la vivió, ya que es una experiencia vivida.
+La religión es una experiencia. _‘La religión es una experiencia exclusivamente individual.’_ (<a id="a159_95"></a>[LU 196:2.11](/es/The_Urantia_Book/196#p2_11)) Para entender la religión de Jesús, tenemos que ver cómo se reveló a través de su vida y cómo la vivió, ya que es una experiencia vivida.
 
-El creador de nuestro universo se entregó a nuestro planeta con una doble misión: vivir la vida de una de sus criaturas humanas y revelarnos a Dios para ayudarnos a comprenderlo mejor. ([LU 128:0.2](/es/The_Urantia_Book/128#p0_2))
+El creador de nuestro universo se entregó a nuestro planeta con una doble misión: vivir la vida de una de sus criaturas humanas y revelarnos a Dios para ayudarnos a comprenderlo mejor. (<a id="a161_186"></a>[LU 128:0.2](/es/The_Urantia_Book/128#p0_2))
 
 Jesús vino a liberarnos de instituciones nacionalistas estancadas y espiritualmente empobrecedoras, a eliminar a los mediadores entre las personas y Dios, y a demostrar que la religión es esa relación entre el individuo y Dios. Entre tú y Dios. Enseñó que «no estás solo», que tú y cada persona del planeta son importantes, valiosas, pueden vivir después de la muerte y potencialmente hasta la eternidad, en un universo que está lleno de otra vida, es amigable y solidario, y con oportunidades y aventuras ilimitadas.
 
@@ -193,7 +214,7 @@ Neil Francey, Burleigh dirige QLD
 
 La inmensidad del universo maestro es casi inmensurable, sin embargo, los reveladores lo describen como dentro de un límite. ¿Se extiende entonces el infinito más allá de esa dimensión, hacia una oscuridad insondable? ¿Podría haber otros universos maestros ubicados más allá de las capacidades de poder, comunicación y viaje del que se nos presenta?
 
-Tales reflexiones están en buena compañía, como en numerosas ocasiones en las citas siguientes, los reveladores dicen efectivamente (como en [LU 56:7.6](/es/The_Urantia_Book/56#p7_6)): «No lo sabemos, pero especulamos mucho sobre estos y otros asuntos relacionados».
+Tales reflexiones están en buena compañía, como en numerosas ocasiones en las citas siguientes, los reveladores dicen efectivamente (como en <a id="a216_141"></a>[LU 56:7.6](/es/The_Urantia_Book/56#p7_6)): «No lo sabemos, pero especulamos mucho sobre estos y otros asuntos relacionados».
 
 Las ideas expresadas aquí son puramente especulativas. No tienen base en la revelación y son meramente una observación personal. Estos conceptos no se comparan en modo alguno con las investigaciones astronómicas académicas y las deducciones que están haciendo los analistas profesionales de la revelación de Urantia. \[Mi agradecimiento a Nigel Nunn por su inestimable interés y comentarios sobre este artículo.\]
 
@@ -246,3 +267,25 @@ Para ver números actuales y pasados de _Arena_ [haga clic aquí](https://anzura
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-summer-2022/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="pr-2">Informe del presidente - Verano de 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

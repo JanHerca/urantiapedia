@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Anne Bendall<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/Creative_Imagination_in_Prayer_and_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Imaginación creativa en la oración y la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Business_on_Urantia">
+          <span class="pr-2">Negocios en Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Anne Bendall, Queensland
@@ -35,3 +59,28 @@ Como resultado, somos liberados de todos los efectos nocivos de la cuarentena, d
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2020/09/07/are-you-lonesome-tonight)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/Creative_Imagination_in_Prayer_and_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Imaginación creativa en la oración y la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Business_on_Urantia">
+          <span class="pr-2">Negocios en Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

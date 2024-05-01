@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Primavera de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/The_Parable_of_the_Sower">
+          <span class="pr-2">La parábola del sembrador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por administrador de Anzura
@@ -54,3 +78,28 @@ Para obtener más información, comuníquese con nosotros enviando un correo ele
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2020/09/07/virtual-annual-conference-2020)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Primavera de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-primavera-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Primavera 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/The_Parable_of_the_Sower">
+          <span class="pr-2">La parábola del sembrador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

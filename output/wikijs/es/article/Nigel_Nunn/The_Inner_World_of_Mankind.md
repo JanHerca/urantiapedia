@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Nigel Nunn<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Summer_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rincón de Nueva Zelanda – Verano 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/River_of_Life">
+          <span class="pr-2">Río de la Vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Nigel Nunn, VIC
@@ -19,7 +43,7 @@ _(Nota del editor: **Explorar los archivos** es una colección de artículos que
 
 ## El mundo interior de la humanidad: buscando una descripción para la quinta época
 
-_Los avances de la verdadera civilización nacen todos en este mundo interior de la humanidad._ [[LU 111:4.3](/es/The_Urantia_Book/111#p4_3)]
+_Los avances de la verdadera civilización nacen todos en este mundo interior de la humanidad._ <a id="a45_95"></a>[[LU 111:4.3](/es/The_Urantia_Book/111#p4_3)]
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Nigel-Myrn-238x300.jpg" alt="Nigel Nunn">
@@ -44,9 +68,9 @@ Por supuesto, somos libres de arruinar este diseño interior. Pero recuerda, el 
 
 Recientemente hemos estado explorando la idea de que la humanidad necesita un telón de fondo épico, una descripción de la realidad que sea consistente, descriptible, compartible y estimulante. En épocas pasadas, las culturas tejieron mitos para que actuaran como su universo.
 
-> _Cuando se aplican las pruebas espirituales de la grandeza, los elementos morales no se descuidan, pero la verdadera *medida* de la grandeza planetaria es la calidad de la generosidad revelada en el trabajo desinteresado por el bienestar de los propios compañeros terrenales, ..._ ([LU 28:6.20](/es/The_Urantia_Book/28#p6_20))
+> _Cuando se aplican las pruebas espirituales de la grandeza, los elementos morales no se descuidan, pero la verdadera *medida* de la grandeza planetaria es la calidad de la generosidad revelada en el trabajo desinteresado por el bienestar de los propios compañeros terrenales, ..._ (<a id="a70_284"></a>[LU 28:6.20](/es/The_Urantia_Book/28#p6_20))
 
-> _La revelación es una técnica que permite ahorrar grandes períodos de tiempo en el trabajo necesario de clasificar y separar los errores de la evolución ..._ ([LU 101:5.1](/es/The_Urantia_Book/101#p5_1))
+> _La revelación es una técnica que permite ahorrar grandes períodos de tiempo en el trabajo necesario de clasificar y separar los errores de la evolución ..._ (<a id="a72_161"></a>[LU 101:5.1](/es/The_Urantia_Book/101#p5_1))
 
 Estos documentos son una herramienta ideal para ayudar a coordinar, integrar y elevar los mitos e ideologías que actualmente sostienen y restringen las culturas de nuestro mundo. (Y seguramente no cometeremos el error de simplemente cambiar viejos mitos y fábulas por un nuevo credo. Un concepto válido puede evocar la verdad o ser enjaulado como dogma.)
 
@@ -66,15 +90,40 @@ Como primeros destinatarios de esta nueva descripción, después de que reparamo
 
 Como lectores, cada uno de nosotros tiene esta semilla de revelación plantada en su interior. Es alrededor de esta semilla, sobre este núcleo de verdad fundamental, que hemos comenzado a construir las primeras versiones vacilantes y evolutivas de este marco de quinta época. El siguiente paso difícil es ampliar tanto nuestras pequeñas comprensiones, nuestros «mundos interiores» privados, que podamos contribuir al establecimiento de este «mundo interior de la humanidad». Una valiosa contribución al avance de la verdadera civilización.
 
-> _Todos los progresos de la verdadera civilización nacen en este mundo interior de la humanidad._ ([LU 111:4.3](/es/The_Urantia_Book/111#p4_3))
+> _Todos los progresos de la verdadera civilización nacen en este mundo interior de la humanidad._ (<a id="a92_100"></a>[LU 111:4.3](/es/The_Urantia_Book/111#p4_3))
 
 Las generaciones futuras vivirán dentro de algún paradigma. Como lectores dedicados al Padre y a nuestro Miguel, estamos poderosamente equipados para ayudar a los Altísimos a construirlo. Pero muchos de los primeros destinatarios parecen ser clientes, no servidores. Muchos parecen dispuestos y deseosos de disfrutar de este futuro «mundo interior», ignorando el hecho de que aún no existe. Si bien todos disfrutaremos bebiendo el vino, todavía no podemos prensar las uvas que acabamos de empezar a plantar.
 
-> _La vida sólo es el trabajo de un día —hacedlo bien._ ([LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
+> _La vida sólo es el trabajo de un día —hacedlo bien._ (<a id="a96_57"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
 
-> _Nunca es necesario ejercer ninguna influencia sobre el Padre para suscitar su bondad. La necesidad de las criaturas es enteramente suficiente para asegurar todo el caudal de la tierna misericordia del Padre y de su gracia salvadora._ ([LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
+> _Nunca es necesario ejercer ninguna influencia sobre el Padre para suscitar su bondad. La necesidad de las criaturas es enteramente suficiente para asegurar todo el caudal de la tierna misericordia del Padre y de su gracia salvadora._ (<a id="a98_238"></a>[LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
 
 ## Referencias
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/12/16/inner-world-of-mankind)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Summer_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rincón de Nueva Zelanda – Verano 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/River_of_Life">
+          <span class="pr-2">Río de la Vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

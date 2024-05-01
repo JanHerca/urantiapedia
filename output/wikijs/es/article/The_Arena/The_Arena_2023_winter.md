@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/Presidents_Report_Winter_2023">
+          <span class="pr-2">Informe del presidente: invierno de 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -96,7 +117,7 @@ Una de las conferencias nocturnas más agitadas de Amathus fue la sesión que tu
 
 «…Lo que exijo de ustedes, apóstoles míos, es **unidad espiritual**, y eso lo pueden experimentar en el gozo de su dedicación unida a hacer de todo corazón la voluntad de mi Padre celestial».
 
-«No es necesario ver igual, ni sentir igual, ni siquiera pensar igual, para ser espiritualmente igual». ([LU 141:5.1-4](/es/The_Urantia_Book/141#p5_1))
+«No es necesario ver igual, ni sentir igual, ni siquiera pensar igual, para ser espiritualmente igual». (<a id="a119_105"></a>[LU 141:5.1-4](/es/The_Urantia_Book/141#p5_1))
 
 La unidad espiritual es algo por lo que hay que esforzarse y trabajar; no vendrá automáticamente. Hay que pensarlo y ordenarlo conscientemente.
 
@@ -146,7 +167,7 @@ _(Este es un diálogo entre Jeff y Mathab que se presentó a través de Zoom en 
 
 **Discurso de Mathab:**
 
-«En su verdadera esencia, la religión es fe-confianza en la bondad de Dios». ([LU 2:6.1](/es/The_Urantia_Book/2#p6_1)) Un problema de salud reciente me hizo preguntarme qué tan cierta es esta afirmación en mi propia experiencia personal.
+«En su verdadera esencia, la religión es fe-confianza en la bondad de Dios». (<a id="a169_78"></a>[LU 2:6.1](/es/The_Urantia_Book/2#p6_1)) Un problema de salud reciente me hizo preguntarme qué tan cierta es esta afirmación en mi propia experiencia personal.
 
 Una mañana me desperté con la garganta hinchada y apenas podía tragar ni siquiera la saliva. Durante los días siguientes, traté de comer pequeños bocados de comida, con la esperanza de que pasara lo que fuera en uno o dos días. No fue así y, de hecho, las cosas empeoraron. Poco a poco, hablar se volvió incómodo y comencé a perder la voz, seguido de una pérdida de peso significativa. Después de visitar a algunos especialistas, recibí un diagnóstico de enfermedad por reflujo laringofaríngeo o LPR. Me tomó algún tiempo darme cuenta de que esto podría convertirse en una condición crónica. Tenía miedo, ya que nada parecía ayudar, y buscaba desesperadamente una explicación a lo que había provocado mis síntomas en primer lugar.
 
@@ -234,7 +255,7 @@ El invierno ya está aquí en nuestra parte del mundo, y hemos estado disfrutand
 
 ¡He estado reflexionando sobre el estímulo del Libro de Urantia a «deleitarnos con la incertidumbre»!
 
-_...mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con la incertidumbre, a engordar con la desilusión, a entusiasmarse con la aparente derrota, a vigorizarse en presencia de las dificultades, a exhibir un coraje indomable frente a la inmensidad y a ejercer una fe invencible ante el desafío de lo inexplicable_. ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3)).
+_...mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con la incertidumbre, a engordar con la desilusión, a entusiasmarse con la aparente derrota, a vigorizarse en presencia de las dificultades, a exhibir un coraje indomable frente a la inmensidad y a ejercer una fe invencible ante el desafío de lo inexplicable_. (<a id="a257_360"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3)).
 
 Sin duda, se nos están brindando muchas oportunidades para poner esto en práctica: el clima es muy incierto, el Covid no ha desaparecido y ahora estamos empezando a experimentar las primeras fases de nuestras elecciones nacionales, donde el resultado también es bastante incierto, pero podría traer muchos cambios.
 
@@ -302,3 +323,25 @@ Para ver números actuales y pasados de _Arena_ [haga clic aquí](https://anzura
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-winter-2023/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/Presidents_Report_Winter_2023">
+          <span class="pr-2">Informe del presidente: invierno de 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Winter_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de los presidentes: invierno de 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/National_Study_Day_Reflections">
+          <span class="pr-2">Reflexiones del Día Nacional del Estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -32,7 +56,7 @@ La ‘CUERDA’ en el título del tema es un acrónimo de **R**eligion **O**f **
 
 _El Libro de Urantia_ está repleto de citas impresionantes que nos recuerdan que la comunión personal e íntima con Dios está al alcance de todos nosotros.
 
-> _Ya es hora de que los hombres tengan una experiencia religiosa tan personal y tan sublime, que sólo se pueda comprender y expresar mediante unos «sentimientos que se encuentran demasiado profundos como para ser dichos con palabras»._ ([LU 99:5.9](/es/The_Urantia_Book/99#p5_9))
+> _Ya es hora de que los hombres tengan una experiencia religiosa tan personal y tan sublime, que sólo se pueda comprender y expresar mediante unos «sentimientos que se encuentran demasiado profundos como para ser dichos con palabras»._ (<a id="a58_238"></a>[LU 99:5.9](/es/The_Urantia_Book/99#p5_9))
 
 ## PROGRAMA
 
@@ -161,3 +185,28 @@ Correo electrónico: [anzura.urantia](mailto:anzura.urantia@gmail.com)@kathleen
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2022/07/26/countdown-tassie-conference)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Winter_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de los presidentes: invierno de 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/National_Study_Day_Reflections">
+          <span class="pr-2">Reflexiones del Día Nacional del Estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

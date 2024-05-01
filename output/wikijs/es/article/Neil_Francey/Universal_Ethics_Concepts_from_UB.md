@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Neil Francey<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El antiguo Orvonton y una joven red cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="pr-2">Pensar igual: ¿necesario o innecesario?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Neil Francey, Queensland
@@ -39,3 +63,28 @@ Para ver el trabajo completo haga clic en: [Ética Universal](/es/article/Neil_F
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/02/10/universal-ethics)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El antiguo Orvonton y una joven red cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="pr-2">Pensar igual: ¿necesario o innecesario?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

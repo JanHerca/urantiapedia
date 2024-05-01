@@ -11,7 +11,7 @@ dateCreated: 2023-10-23T10:55:6Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Michael Gillespie, Robin Robinson y Melissa Wells<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
 
 
-«... la fe del hombre nacido del espíritu confiere la seguridad de una comunión viva con el Dios eterno». _El Libro de Urantia_ [LU 178:1.11](/es/The_Urantia_Book/178#p1_11)
+«... la fe del hombre nacido del espíritu confiere la seguridad de una comunión viva con el Dios eterno». _El Libro de Urantia_ <a id="a13_128"></a>[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)
 
 **Por Michael Gillespie, Robin Robinson y Melissa Wells**
 

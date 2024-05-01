@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Kathleen Swadling<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Otoño de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="pr-2">Resumen del taller: Espíritu en la sociedad, superación de resistencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Kathleen Swadling, Sídney
@@ -42,11 +66,36 @@ https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/
 
 Varios grupos de estudio regulares en Australia y Nueva Zelanda se han vuelto virtuales debido a las reglas de aislamiento, por lo que ahora se están uniendo más personas que antes no podían viajar a un grupo. Para obtener información sobre grupos de estudio en nuestra región, consulte la [Lista de contactos de grupos de estudio](https://anzura.urantia-association.org/find-study-groups/) en el sitio web de ANZURA.
 
-> _La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia. Es literalmente cierto que «ningún hombre vive para sí mismo»._ ([LU 112:1.16](/es/The_Urantia_Book/112#p1_16))
+> _La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia. Es literalmente cierto que «ningún hombre vive para sí mismo»._ (<a id="a68_240"></a>[LU 112:1.16](/es/The_Urantia_Book/112#p1_16))
 
-> _Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable._ ([LU 100:5.8](/es/The_Urantia_Book/100#p5_8))
+> _Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable._ (<a id="a70_179"></a>[LU 100:5.8](/es/The_Urantia_Book/100#p5_8))
 
 ## Referencias
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2020/05/10/virtual-study-groups-conferences)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Otoño de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="pr-2">Resumen del taller: Espíritu en la sociedad, superación de resistencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

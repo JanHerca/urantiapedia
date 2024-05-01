@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Phillip Marriott<br>© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/2023_Annual_Conference_in_Sydney_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actualización de la Conferencia Anual de 2023 en Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/Feelings_Too_Deep_for_Words">
+          <span class="pr-2">Sentimientos demasiado profundos para expresarlos con palabras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Phillip Marriott, SA
@@ -32,7 +56,7 @@ Jesús discutió esto en el Documento 141, sección 5.1-4:
 >
 > «...Lo que exijo de vosotros, mis apóstoles, es **unidad espiritual**, y eso lo podéis experimentar en el gozo de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre celestial.
 >
-> «No es necesario ver igual ni sentir igual ni siquiera pensar igual para ser espiritualmente similar.» ([LU 141:5.1-4](/es/The_Urantia_Book/141#p5_1))
+> «No es necesario ver igual ni sentir igual ni siquiera pensar igual para ser espiritualmente similar.» (<a id="a58_106"></a>[LU 141:5.1-4](/es/The_Urantia_Book/141#p5_1))
 
 La unidad espiritual es algo por lo que hay que esforzarse y trabajar; no vendrá automáticamente. Hay que pensarlo y ordenarlo conscientemente.
 
@@ -46,7 +70,7 @@ Entonces, esto me hizo pensar en mi camino a casa después de la feria: cómo te
 
 > _Seleccionó a cinco dirigentes de los estoicos, a once de los cínicos y a dieciséis jefes del culto de los misterios, y pasó una gran parte de su tiempo libre, durante casi seis meses, en asociación íntima con estos educadores religiosos._
 > 
-> **_He aquí el método que utilizó para instruirlos: ni una sola vez atacó sus errores ni tampoco mencionó nunca los defectos de sus enseñanzas. En cada caso seleccionaba la verdad que había en lo que enseñaban, y luego procedía a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo este realzamiento de la verdad desplazaba eficazmente el error que la acompañaba._** ([LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
+> **_He aquí el método que utilizó para instruirlos: ni una sola vez atacó sus errores ni tampoco mencionó nunca los defectos de sus enseñanzas. En cada caso seleccionaba la verdad que había en lo que enseñaban, y luego procedía a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo este realzamiento de la verdad desplazaba eficazmente el error que la acompañaba._** (<a id="a72_402"></a>[LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
 
 Pero, por supuesto, nunca podría aspirar a ser tan inteligente o sagaz como Jesús, y si no hay deseo de unidad, entonces siempre será un asunto unidireccional. Así que ese era mi punto, si ambos hubiésemos acordado tener compañerismo – tener relaciones amistosas y dejar de lado cualquier opinión o pensamiento diferente y permitir que la idea común pase a primer plano – esto podría ser una base para luego construir sobre. Pero sólo funcionará en un ambiente de cooperación y con la voluntad de tener paz y armonía.
 
@@ -54,9 +78,9 @@ El documento 103 explica:
 
 > _La unidad de la experiencia religiosa de un grupo social o racial proviene de la naturaleza idéntica del fragmento de Dios que reside en el individuo._
 > 
-> _Un grupo de mortales puede experimentar la unidad espiritual, pero nunca podrá alcanzar la uniformidad filosófica._ ([LU 103:1.1](/es/The_Urantia_Book/103#p1_1))
+> _Un grupo de mortales puede experimentar la unidad espiritual, pero nunca podrá alcanzar la uniformidad filosófica._ (<a id="a80_120"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1))
 
-> _Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros._ ([LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
+> _Existe una gran esperanza para toda iglesia que adore al Dios viviente, valide la fraternidad de los hombres y se atreva a suprimir la presión de todo credo entre sus miembros._ (<a id="a82_182"></a>[LU 103:5.12](/es/The_Urantia_Book/103#p5_12))
 
 A menudo digo que hay tantas religiones como personas sobre la faz de la tierra.
 
@@ -83,11 +107,36 @@ Entonces podremos permitir que existan opiniones y creencias diferentes, dentro 
 
 El libro lo resume mejor con estos artículos finales:
 
-> _Pentecostés fue el llamamiento a la unidad espiritual entre los creyentes en el evangelio. Cuando el espíritu descendió sobre los discípulos en Jerusalén, lo mismo sucedió en Filadelfia, en Alejandría y en todos los demás lugares donde vivían los creyentes sinceros. Fue literalmente cierto que «había un solo corazón y una sola alma entre la multitud de creyentes». La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás._ ([LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
+> _Pentecostés fue el llamamiento a la unidad espiritual entre los creyentes en el evangelio. Cuando el espíritu descendió sobre los discípulos en Jerusalén, lo mismo sucedió en Filadelfia, en Alejandría y en todos los demás lugares donde vivían los creyentes sinceros. Fue literalmente cierto que «había un solo corazón y una sola alma entre la multitud de creyentes». La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás._ (<a id="a109_467"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
 
-> _El cristianismo se enfrenta seriamente con la sentencia incluida en uno de sus propios lemas: «Una casa dividida contra sí misma no puede subsistir». El mundo no cristiano difícilmente capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. ..._ ([LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
+> _El cristianismo se enfrenta seriamente con la sentencia incluida en uno de sus propios lemas: «Una casa dividida contra sí misma no puede subsistir». El mundo no cristiano difícilmente capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. ..._ (<a id="a111_327"></a>[LU 195:10.11](/es/The_Urantia_Book/195#p10_11))
 
 ## Referencias
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/06/25/unity-harmony-within-diversity-of-experience-and-belief)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/2023_Annual_Conference_in_Sydney_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actualización de la Conferencia Anual de 2023 en Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rita_Schaad/Feelings_Too_Deep_for_Words">
+          <span class="pr-2">Sentimientos demasiado profundos para expresarlos con palabras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

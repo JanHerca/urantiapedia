@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Marion Steward<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Verano de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="pr-2">Espiritualidad Post Covid 19</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Marion Steward, Nueva Zelanda
@@ -124,11 +148,11 @@ Un enfoque podría ser resaltar el marco temporal del libro y enfatizar que util
 
 En términos del uso de lenguaje insensible, el libro dice lo siguiente, del Documento 81, Desarrollo de la civilización moderna:
 
-> _La eficacia del idioma. La civilización tiene que esperar al idioma para diseminarse. Las lenguas vivas y que se enriquecen aseguran la expansión de las ideas y los proyectos civilizados. ... Hoy existe la gran necesidad de un desarrollo lingüístico adicional que facilite la expresión del pensamiento en evolución._ ([LU 81:6.16](/es/The_Urantia_Book/81#p6_16))
+> _La eficacia del idioma. La civilización tiene que esperar al idioma para diseminarse. Las lenguas vivas y que se enriquecen aseguran la expansión de las ideas y los proyectos civilizados. ... Hoy existe la gran necesidad de un desarrollo lingüístico adicional que facilite la expresión del pensamiento en evolución._ (<a id="a150_321"></a>[LU 81:6.16](/es/The_Urantia_Book/81#p6_16))
 
 Yo añadiría que el aumento del uso de un lenguaje inclusivo y no discriminatorio también está mejorando la forma en que se ve y se trata a las personas con capacidades diferentes. Jesús demostró su perspectiva sobre esto en la limpieza del Templo, como se describe a continuación:
 
-> _Cuando Jesús estaba a punto de empezar su alocución, se produjeron dos incidentes que atrajeron su atención. En el mostrador de un cambista cercano había surgido una discusión violenta y acalorada porque al parecer se le había cobrado con exceso a un judío de Alejandría, y en el mismo momento, el aire se desgarró con los mugidos de una manada de unos cien bueyes que estaban siendo conducidos de una sección de los corrales a otra. Mientras Jesús se detenía, contemplando de manera silenciosa pero meditativa esta escena de comercio y de confusión, ***observó cerca de él a un galileo sencillo, un hombre con quien había hablado una vez en Irón, que estaba siendo ridiculizado y empujado por unos judeos arrogantes que se consideraban superiores***. Todo esto se combinó para que se produjera en el alma de Jesús uno de esos extraños arrebatos periódicos de indignada emoción._ ([LU 173:1.6](/es/The_Urantia_Book/173#p1_6))
+> _Cuando Jesús estaba a punto de empezar su alocución, se produjeron dos incidentes que atrajeron su atención. En el mostrador de un cambista cercano había surgido una discusión violenta y acalorada porque al parecer se le había cobrado con exceso a un judío de Alejandría, y en el mismo momento, el aire se desgarró con los mugidos de una manada de unos cien bueyes que estaban siendo conducidos de una sección de los corrales a otra. Mientras Jesús se detenía, contemplando de manera silenciosa pero meditativa esta escena de comercio y de confusión, ***observó cerca de él a un galileo sencillo, un hombre con quien había hablado una vez en Irón, que estaba siendo ridiculizado y empujado por unos judeos arrogantes que se consideraban superiores***. Todo esto se combinó para que se produjera en el alma de Jesús uno de esos extraños arrebatos periódicos de indignada emoción._ (<a id="a154_884"></a>[LU 173:1.6](/es/The_Urantia_Book/173#p1_6))
 
 Al final, la comunicación es principalmente entre individuos, y siento que aquí simplemente debemos prestar atención a lo que Jesús sintió cuando observó cómo trataban a esta persona, y asegurarnos de tratar a cada persona, sin importar su nivel de capacidad, como hermana o hermano espiritual, y escoger nuestras palabras con cuidado para no causar ningún daño.
 
@@ -148,3 +172,28 @@ Al final, la comunicación es principalmente entre individuos, y siento que aqu�
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/02/10/language-matters)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Presidente - Verano de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="pr-2">Espiritualidad Post Covid 19</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

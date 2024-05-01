@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Nigel Nunn<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rita_Schaad/A_Bit_of_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un poco de historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Universal_Ethics_Concepts_from_UB">
+          <span class="pr-2">Ética universal: conceptos del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Nigel Nunn, ACT
@@ -26,15 +50,15 @@ _El Libro de Urantia_ presenta una cosmología que conmueve el alma: un universo
 Sin embargo, justo después de haber conmovido nuestras almas, estos autores echan un jarro de agua fría sobre nuestras expectativas. Del Documento 101, sección 4:
 <br style="clear:both;"/>
 
-> _pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ..._ ([[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+> _pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ..._ (<a id="a52_130"></a>[[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 «Necesitará una revisión». Cuando se compara con la cosmología de consenso actual, de un universo joven que comienza con un Big Bang caliente, la cosmología de _El Libro de Urantia_ es tan heterodoxa y tan aparentemente errónea, que algunos estudiosos de estos artículos ahora ven esta cosmología como poco más que una decoración para el universo. Los temas más importantes del libro: sus revelaciones _espirituales_ y _filosóficas_. Pero echemos otro vistazo a esas «Limitaciones de la Revelación» discutidas en el Documento 101. Inmediatamente después de afirmar que, con respecto a los hechos científicos, estaban limitados en lo que podían revelar, continúan enumerando una serie de cosas que se les permitió hacer. El primero de ellos es especialmente interesante. Nuevamente, del Documento 101, sección 4:
 
-> _1. La reducción de la confusión, eliminando con autoridad los errores._ ([LU 101:4.6](/es/The_Urantia_Book/101#p4_6))
+> _1. La reducción de la confusión, eliminando con autoridad los errores._ (<a id="a56_76"></a>[LU 101:4.6](/es/The_Urantia_Book/101#p4_6))
 
 «[L]a eliminación autorizada del error». Hasta donde puedo decir, sólo hay un lugar donde los autores señalan explícitamente una de nuestras suposiciones científicas y nos dicen sin rodeos que está mal. Esto se encuentra en el Documento 12, sobre el uso del corrimiento al rojo para determinar la distancia a las galaxias en el espacio exterior. Del Documento 12, sección 4,
 
-> _...Pero esta velocidad aparente de recesión no es real; ..._ [[LU 12:4.14](/es/The_Urantia_Book/12#p4_14))
+> _...Pero esta velocidad aparente de recesión no es real; ..._ <a id="a60_64"></a>[[LU 12:4.14](/es/The_Urantia_Book/12#p4_14))
 
 Recordemos que la «aparente velocidad de recesión» de las galaxias distantes forma la base de nuestra cosmología de consenso actual, de que el universo comenzó con una gran explosión caliente hace apenas 14 mil millones de años. Entonces, si esta **_«velocidad aparente de la recesión»_** es en realidad **_«no real»_**, entonces esta única suposición (sobre la «Ley de Hubble») es de hecho responsable de una enorme confusión. Por lo tanto, los autores estarían en su derecho de intentar alguna «reducción de la confusión mediante la eliminación autorizada del error».
 
@@ -54,3 +78,28 @@ Nigel Nunn
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/02/10/ancient-orvonton-young-cosmic-web)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rita_Schaad/A_Bit_of_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un poco de historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Universal_Ethics_Concepts_from_UB">
+          <span class="pr-2">Ética universal: conceptos del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

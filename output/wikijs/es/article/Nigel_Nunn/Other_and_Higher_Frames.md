@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Nigel Nunn<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resumen del taller: Espíritu en la sociedad, superación de resistencias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/Disease_and_Immunity_in_Relation_to_UB">
+          <span class="pr-2">Enfermedad e inmunidad en relación con el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Nigel Nunn, VIC
@@ -17,7 +41,7 @@ Por Nigel Nunn, VIC
 <img src="/image/article/The_Arena/Nigels-Video2-1-570x318.jpg" alt="Nigel Nunn">
 </figure>
 
-> _La fe arrastra con mucho gusto a la ***razón*** hasta donde la razón puede llegar; luego la fe continúa con la ***sabiduría*** hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad._ ([LU 103:9.7](/es/The_Urantia_Book/103#p9_7))
+> _La fe arrastra con mucho gusto a la ***razón*** hasta donde la razón puede llegar; luego la fe continúa con la ***sabiduría*** hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad._ (<a id="a43_284"></a>[LU 103:9.7](/es/The_Urantia_Book/103#p9_7))
 
 La «razón» ha ayudado a los científicos a escribir algunas historias convincentes sobre la historia del universo: Big Bangs inflacionarios, colisiones de branas, un multiverso. El problema es que cada una de estas historias implica suposiciones que están más allá de nuestra capacidad de refutarlas. Sin embargo, todas estas historias comparten una característica: un intento de reemplazar la fe con hechos en sus suposiciones.
 
@@ -28,7 +52,7 @@ La «razón» ha ayudado a los científicos a escribir algunas historias convinc
 Ahí es donde todos chocan contra una pared. Los hechos que están a nuestro alcance –como los desplazamientos al rojo y las rotaciones de las galaxias, como la interacción cuantificada de partículas– están resultando inadecuados para explicar lo que los astrónomos están empezando a observar. A medida que nuestras herramientas y técnicas mejoran, los supuestos que sustentan nuestras cosmologías actualmente en competencia se han vuelto cada vez más tensos, limitados por hechos cada vez más inconvenientes. Por tanto, la «sabiduría» (y el sentido común) requiere que revisemos esos supuestos. Pero la sabiduría también está limitada por los marcos dentro de los cuales pensamos. Aquí es donde entra en juego _El Libro de Urantia_:
 <br style="clear:both;"/>
 
-> _...El hombre está obligado a pensar dentro de un marco universal humano, pero esto no significa que no pueda imaginar otros marcos más elevados dentro de los cuales pueda tener lugar el pensamiento._ ([LU 115:1.2](/es/The_Urantia_Book/115#p1_2))
+> _...El hombre está obligado a pensar dentro de un marco universal humano, pero esto no significa que no pueda imaginar otros marcos más elevados dentro de los cuales pueda tener lugar el pensamiento._ (<a id="a54_204"></a>[LU 115:1.2](/es/The_Urantia_Book/115#p1_2))
 
 «Otros marcos más elevados...» Al mismo tiempo que Schrodinger y Dirac, Heisenberg y Pauli luchaban con la mecánica cuantificada, simultáneamente con Lemaitre y Hubble intentando mapear el movimiento en el cosmos, se presentó _El Libro de Urantia_: un vistazo de «otro marco más elevado». Este vistazo incluye ideas adaptadas para cambiar nuestros modelos estándar actuales (de física y cosmología) más allá de la confusión en la que ahora están atrapados.
 
@@ -70,3 +94,28 @@ _**El Libro de Urantia**_: ¡un regalo para aquellas almas futuras que se atreve
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/10/31/other-higher-frames)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resumen del taller: Espíritu en la sociedad, superación de resistencias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/Disease_and_Immunity_in_Relation_to_UB">
+          <span class="pr-2">Enfermedad e inmunidad en relación con el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

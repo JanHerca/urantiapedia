@@ -9,6 +9,27 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Ari Majurinen<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón de Nueva Zelanda – Otoño 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Ari Majurinen, Nueva Gales del Sur
@@ -45,7 +66,7 @@ Ahora bien, a veces todos los apóstoles salían juntos para entrenarse en la pr
 
 Aun así, su lealtad a Jesús se convirtió en amor, y así creció su fe. A sólo dos semanas de haber conocido a Jesús por primera vez, ya podía decir con verdad:
 
-> «_Cuanto más se comprende a alguna gente, menos se les admira; pero con este hombre, cuanto menos lo comprendo, más lo amo._» ([LU 138:7.6](/es/The_Urantia_Book/138#p7_6))
+> «_Cuanto más se comprende a alguna gente, menos se les admira; pero con este hombre, cuanto menos lo comprendo, más lo amo._» (<a id="a68_129"></a>[LU 138:7.6](/es/The_Urantia_Book/138#p7_6))
 
 Desde Jesús comenzó a darse cuenta de que la fe era todo lo que se necesitaba para entrar en el reino de Dios, aunque los conceptos de los otros apóstoles sobre el reino de Dios variaban mucho con lo que Jesús enseñaba. La fe llevó a Matthew y a los demás a través de muchas crisis y expectativas frustradas. Cuando vio cómo la fe ayudó a tantas personas abatidas, le dejó una impresión imborrable.
 
@@ -59,7 +80,7 @@ Por desgracia, cuando sus expectativas no se cumplieron, Matthew quedó espiritu
 
 Todo esto lo sabía Jesús muy bien, porque rogó personalmente a Mateo, hasta el final, que tuviera misericordia de todos los hijos de Dios y que fuera siempre firme y consecuente en el anuncio del evangelio.
 
-Estos defectos y el shock resultante de la crucifixión le causaron más problemas que a otros. Hasta las apariciones morontiales de Jesús, estuvo demasiado ocupado pensando en cómo conseguir fondos para los apóstoles. No sin razón Jesús, durante su aparición morontial, le preguntó a Mateo si… «¿_está en tu corazón obedecerme?»_ [[LU 192:2.12](/es/The_Urantia_Book/192#p2_12)]
+Estos defectos y el shock resultante de la crucifixión le causaron más problemas que a otros. Hasta las apariciones morontiales de Jesús, estuvo demasiado ocupado pensando en cómo conseguir fondos para los apóstoles. No sin razón Jesús, durante su aparición morontial, le preguntó a Mateo si… «¿_está en tu corazón obedecerme?»_ <a id="a82_329"></a>[[LU 192:2.12](/es/The_Urantia_Book/192#p2_12)]
 
 Finalmente, cuando el espíritu de la verdad descendió sobre él en el momento de Pentecostés, obedeció y con renovado vigor predicó y bautizó por todas las tierras gentiles.
 
@@ -74,3 +95,25 @@ A las generaciones futuras, demostrando el amor de Dios Padre y su amor por la h
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2020/05/10/apostle-matthew-mining-archives)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Hemmingsen/New_Zealand_Corner_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón de Nueva Zelanda – Otoño 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

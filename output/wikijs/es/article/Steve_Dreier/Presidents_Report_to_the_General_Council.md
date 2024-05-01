@@ -15,11 +15,11 @@ Por Steve Dreier
 
 La Fellowship es una organización social y de servicios compuesta por lectores de _El Libro de Urantia_. Es la más antigua, la más grande y la más experimentada de todas esas organizaciones. Durante sus más de 40 años de existencia, la Fellowship ha pasado por una variedad de fases, algunas placenteras y gratificantes, otras angustiosas y desalentadoras. Afortunadamente, gracias a la dedicación y el talento de sus numerosos miembros, y tal vez con alguna ayuda invisible y no reconocida, ha superado todo, madurado, crecido y ahora se encuentra preparado para un período de mayores oportunidades de servicio.
 
-Los nuevos desarrollos combinados con el aumento de las actividades tradicionales prometen algo así como un «repentino» organizativo para la Fellowship. Durante el año pasado tomamos algunas decisiones desafiantes y de gran alcance y tendremos que tomar más en el futuro cercano. Nuestro pequeño barco ha «salido de las bahías protegidas de la tradición establecida y ha comenzado su navegación en alta mar del destino evolutivo». ([LU 99:1.3](/es/The_Urantia_Book/99#p1_3)) Estos nuevos desarrollos requieren un apoyo organizacional sustancial y es esencial que nos tomemos el tiempo para comprender hacia dónde vamos y hacer los preparativos adecuados para respaldar lo que decidimos hacer. Este informe anual destacará algunas de las cuestiones que tenemos ante nosotros ahora o que tendremos en el futuro inmediato.
+Los nuevos desarrollos combinados con el aumento de las actividades tradicionales prometen algo así como un «repentino» organizativo para la Fellowship. Durante el año pasado tomamos algunas decisiones desafiantes y de gran alcance y tendremos que tomar más en el futuro cercano. Nuestro pequeño barco ha «salido de las bahías protegidas de la tradición establecida y ha comenzado su navegación en alta mar del destino evolutivo». (<a id="a17_432"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3)) Estos nuevos desarrollos requieren un apoyo organizacional sustancial y es esencial que nos tomemos el tiempo para comprender hacia dónde vamos y hacer los preparativos adecuados para respaldar lo que decidimos hacer. Este informe anual destacará algunas de las cuestiones que tenemos ante nosotros ahora o que tendremos en el futuro inmediato.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/flower.jpg">
-<figcaption><em>“La belleza siempre triunfa sobre la fealdad en el corazón de todos los que están iluminados por el amor de la verdad”. ([LU 156:5.5](/es/The_Urantia_Book/156#p5_5)) Fotografía de Carol Herron.</em></figcapton>
+<figcaption><em>“La belleza siempre triunfa sobre la fealdad en el corazón de todos los que están iluminados por el amor de la verdad”. (<a id="a21_137"></a>[LU 156:5.5](/es/The_Urantia_Book/156#p5_5)) Fotografía de Carol Herron.</em></figcapton>
 </figure>
 
 
@@ -57,7 +57,7 @@ NOTA: A continuación se presentan pasajes de la Constitución de la Fellowship 
 
 ## ... y del Libro de Urantia
 
-«Existe un propósito real en la socialización de la religión. El propósito de las actividades religiosas grupales es dramatizar las lealtades de la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar el atractivo de los valores supremos; mejorar el servicio del compañerismo desinteresado; glorificar los potenciales de la vida familiar; promover la educación religiosa; brindar sabios consejos y guía espiritual; y fomentar la adoración en grupo. Y todos los religiosos vivos fomentan la amistad humana, conservan la moral, promueven el bienestar vecinal y facilitan la difusión del evangelio esencial de sus respectivos mensajes de salvación eterna». ([LU 99:6.2](/es/The_Urantia_Book/99#p6_2))
+«Existe un propósito real en la socialización de la religión. El propósito de las actividades religiosas grupales es dramatizar las lealtades de la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar el atractivo de los valores supremos; mejorar el servicio del compañerismo desinteresado; glorificar los potenciales de la vida familiar; promover la educación religiosa; brindar sabios consejos y guía espiritual; y fomentar la adoración en grupo. Y todos los religiosos vivos fomentan la amistad humana, conservan la moral, promueven el bienestar vecinal y facilitan la difusión del evangelio esencial de sus respectivos mensajes de salvación eterna». (<a id="a59_685"></a>[LU 99:6.2](/es/The_Urantia_Book/99#p6_2))
 
 
 ## ¡Cuatro razones por las que querrás este libro de Urantia!

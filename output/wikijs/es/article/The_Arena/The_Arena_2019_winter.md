@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="pr-2">Informe del Presidente - Invierno de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -78,7 +99,7 @@ Faltan solo un par de meses para nuestra conferencia en Canberra (del 27 al 30 d
 El tema de **Mente sobre Materia ~ Espíritu sobre Mente** brinda una amplia oportunidad para reflexionar sobre el hecho de que
 
 
-> _...Las causas universales no pueden ser inferiores a los efectos universales. La fuente de las corrientes de la vida universal y de la mente cósmica tiene que estar por encima de los niveles de su manifestación. La mente humana no puede ser explicada de manera coherente en términos de los tipos inferiores de existencia. La mente del hombre sólo se puede comprender realmente cuando se reconoce la realidad de unos tipos superiores de pensamiento y de voluntad intencional._ ([LU 3:6.3](/es/The_Urantia_Book/3#p6_3))
+> _...Las causas universales no pueden ser inferiores a los efectos universales. La fuente de las corrientes de la vida universal y de la mente cósmica tiene que estar por encima de los niveles de su manifestación. La mente humana no puede ser explicada de manera coherente en términos de los tipos inferiores de existencia. La mente del hombre sólo se puede comprender realmente cuando se reconoce la realidad de unos tipos superiores de pensamiento y de voluntad intencional._ (<a id="a101_480"></a>[LU 3:6.3](/es/The_Urantia_Book/3#p6_3))
 
 Nosotros, los mortales evolutivos, tendemos a considerar la mente como una mediación cósmica entre el espíritu y la materia, porque ese es, de hecho, el principal ministerio de la mente que podemos discernir. Sin embargo, el Ajustador del Pensamiento es espíritu puro, volitivo y de mente activa. Tu Ajustador del Pensamiento siempre está esperando actuar con decisión de acuerdo con tu elección humana, y todas estas elecciones son reacciones altamente volitivas. En todas las situaciones que no tienen que ver con el dominio de la voluntad humana, este Espíritu Divino exhibe incuestionablemente una conducta que presagia el ejercicio de poderes en todos los sentidos equivalentes a la voluntad, a la decisión maximizada.
 
@@ -121,15 +142,15 @@ Además, este es un enlace a una entrevista de Radio NZ sobre por qué la gente 
 Hace algunos años, el grupo de Estudio original de Auckland aprendió las Motas Morontia de memoria y con el paso de los años vienen a mi mente cuando parecen encajar en la situación. Mientras observaba las consecuencias de este horrendo y cobarde ataque, me vinieron a la mente las siguientes Motas Morontia.
 <br style="clear:both;"/>
 
-> _5. Las dificultades pueden desafiar la mediocridad y derrotar a los temerosos, pero sólo estimulan a los verdaderos hijos de los Altísimos._ [[LU 48:7.7](/es/The_Urantia_Book/48#p7_7)]
+> _5. Las dificultades pueden desafiar la mediocridad y derrotar a los temerosos, pero sólo estimulan a los verdaderos hijos de los Altísimos._ <a id="a144_144"></a>[[LU 48:7.7](/es/The_Urantia_Book/48#p7_7)]
 > 
-> _12. La mayor aflicción del cosmos es no haber sido nunca afligido. Los mortales sólo aprenden sabiduría experimentando tribulaciones._ [[LU 48:7.14](/es/The_Urantia_Book/48#p7_14)]
+> _12. La mayor aflicción del cosmos es no haber sido nunca afligido. Los mortales sólo aprenden sabiduría experimentando tribulaciones._ <a id="a146_138"></a>[[LU 48:7.14](/es/The_Urantia_Book/48#p7_14)]
 > 
-> _13. Las estrellas se disciernen mejor desde el aislamiento solitario de las profundidades experienciales, no desde las cimas de las montañas iluminadas y extáticas._ [[LU 48:7.15](/es/The_Urantia_Book/48#p7_15)]
+> _13. Las estrellas se disciernen mejor desde el aislamiento solitario de las profundidades experienciales, no desde las cimas de las montañas iluminadas y extáticas._ <a id="a148_169"></a>[[LU 48:7.15](/es/The_Urantia_Book/48#p7_15)]
 
 y particularmente:
 
-> _16. No podéis percibir la verdad espiritual hasta que no la experimentéis con sensibilidad, y muchas verdades no se sienten realmente salvo en la adversidad._ ([LU 48:7.18](/es/The_Urantia_Book/48#p7_18))
+> _16. No podéis percibir la verdad espiritual hasta que no la experimentéis con sensibilidad, y muchas verdades no se sienten realmente salvo en la adversidad._ (<a id="a152_163"></a>[LU 48:7.18](/es/The_Urantia_Book/48#p7_18))
 
 Lamentablemente, antes del ataque, la opinión general era que todos los musulmanes eran terroristas, y esta comunidad sufrió por ser rechazada, discriminada y, en general, totalmente incomprendida, y así como hay muchos aspectos del Islam que necesitan ser actualizados, lo mismo se puede decir para el cristianismo.
 
@@ -172,7 +193,7 @@ _(Nota del editor: esto se presentó en el **Seminario sobre educación de El li
 El propósito de este ensayo es ofrecer a consideración una serie de imperativos educativos para guiarnos, como primeros receptores de las nuevas verdades reveladas en _El Libro de Urantia_, en la implementación de una estrategia educativa diseñada para fomentar la transición en la conciencia humana desde nuestra cuarta época reveladora a la quinta. Un aspecto de esta estrategia educativa aborda cómo elegimos abordar el riesgo típicamente asociado con el desafío de integrar una nueva verdad reveladora minimizando al mismo tiempo su dilución y contaminación por creencias, símbolos, prácticas e instituciones religiosas del pasado. Melquisedec observa:
 
 
-> _Vosotros que hoy disfrutáis de las ventajas del arte de la imprenta, no podéis comprender muy bien lo difícil que era perpetuar la verdad durante estos tiempos antiguos, y lo fácil que resultaba perder de vista una nueva doctrina de una generación a la siguiente. La nueva doctrina siempre tenía tendencia a ser absorbida por el conjunto más antiguo de enseñanzas religiosas y de prácticas mágicas. Una nueva revelación siempre se contamina con las creencias evolutivas más antiguas._ ([LU 93:7.4](/es/The_Urantia_Book/93#p7_4))
+> _Vosotros que hoy disfrutáis de las ventajas del arte de la imprenta, no podéis comprender muy bien lo difícil que era perpetuar la verdad durante estos tiempos antiguos, y lo fácil que resultaba perder de vista una nueva doctrina de una generación a la siguiente. La nueva doctrina siempre tenía tendencia a ser absorbida por el conjunto más antiguo de enseñanzas religiosas y de prácticas mágicas. Una nueva revelación siempre se contamina con las creencias evolutivas más antiguas._ (<a id="a195_489"></a>[LU 93:7.4](/es/The_Urantia_Book/93#p7_4))
 
 **Premisa: Una estrategia educativa para la Quinta Época**
 
@@ -389,3 +410,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-winter-2019/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="pr-2">Informe del Presidente - Invierno de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

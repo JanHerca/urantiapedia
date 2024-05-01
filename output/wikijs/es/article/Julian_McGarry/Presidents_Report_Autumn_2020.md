@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Julian McGarry<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2020_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Otoño 2020 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="pr-2">Grupos de Estudio y Conferencias Virtuales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Julian McGarry, Hobart
@@ -32,7 +56,7 @@ Otra víctima de la pandemia es la desafortunada cancelación tanto de la confer
 A medida que se acerca el invierno, quiero instarlos a todos a que se mantengan sanos y salvos. Y permítame concluir con este oportuno recordatorio:
 <br style="clear:both;"/>
 
-> _Todos los mundos de cada universo están constantemente en la conciencia de Dios. Él dice también: «He visto ciertamente la aflicción de mi pueblo, he oído su llanto y conozco sus penas». Porque «el Señor mira desde los cielos; observa a todos los hijos de los hombres; desde el lugar donde reside contempla a todos los habitantes de la Tierra». Todo hijo de criatura puede decir en verdad: «Él conoce el camino que tomo, y cuando me haya puesto a prueba, resaltaré como el oro». «Dios conoce nuestros avances y nuestros retrocesos, comprende nuestros pensamientos desde lejos y conoce todos nuestros caminos». «Todas las cosas están desnudas y abiertas a los ojos de aquel con quien tratamos». Y para todo ser humano debería ser un verdadero consuelo comprender que «él conoce vuestra estructura; se acuerda de que sois polvo». Hablando del Dios vivo, Jesús dijo: «Vuestro Padre sabe lo que necesitáis incluso antes de que se lo pidáis»._ ([LU 3:3.2](/es/The_Urantia_Book/3#p3_2))
+> _Todos los mundos de cada universo están constantemente en la conciencia de Dios. Él dice también: «He visto ciertamente la aflicción de mi pueblo, he oído su llanto y conozco sus penas». Porque «el Señor mira desde los cielos; observa a todos los hijos de los hombres; desde el lugar donde reside contempla a todos los habitantes de la Tierra». Todo hijo de criatura puede decir en verdad: «Él conoce el camino que tomo, y cuando me haya puesto a prueba, resaltaré como el oro». «Dios conoce nuestros avances y nuestros retrocesos, comprende nuestros pensamientos desde lejos y conoce todos nuestros caminos». «Todas las cosas están desnudas y abiertas a los ojos de aquel con quien tratamos». Y para todo ser humano debería ser un verdadero consuelo comprender que «él conoce vuestra estructura; se acuerda de que sois polvo». Hablando del Dios vivo, Jesús dijo: «Vuestro Padre sabe lo que necesitáis incluso antes de que se lo pidáis»._ (<a id="a58_943"></a>[LU 3:3.2](/es/The_Urantia_Book/3#p3_2))
 
 ¡Paz y amor!
 
@@ -43,3 +67,28 @@ Presidente, ANZURA
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2020/05/10/presidents-report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2020_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Otoño 2020 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="pr-2">Grupos de Estudio y Conferencias Virtuales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

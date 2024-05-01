@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="pr-2">Informe del Presidente - Verano de 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -85,12 +106,12 @@ Lo invitamos a unirse a nosotros en la Conferencia Anual ANZURA 2021 que se llev
 
 ### Sobre el tema
 
-> _La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad._ ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
+> _La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad._ (<a id="a108_273"></a>[LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
 
 Cuando nos embarcamos en la búsqueda del valor más elevado y eliminamos las cualidades egoístas del amor, tenemos el potencial de contribuir a la creación de la realidad finita a nuestra manera, increíblemente única. Cuando nos volvemos más reales, más equilibrados en nuestra personalidad, nos acercamos a comprender que la piedra angular de la realidad es el valor más elevado de todos: la bondad del amor.
 
 
-> _...el acercamiento más íntimo y más afectuoso del hombre a Dios ha de realizarlo por amor y a través del amor,..._ ([LU 3:4.7](/es/The_Urantia_Book/3#p4_7))
+> _...el acercamiento más íntimo y más afectuoso del hombre a Dios ha de realizarlo por amor y a través del amor,..._ (<a id="a113_119"></a>[LU 3:4.7](/es/The_Urantia_Book/3#p4_7))
 
 ### Evento
 
@@ -193,7 +214,7 @@ _(Presentado en la conferencia ANZURA en línea de octubre de 2020)_
 
 COVID 19 ha sometido al mundo entero a un período de grandes desafíos. Una de las razones por las que un virus como este representa un desafío tan grande es porque afecta la vida de las personas en un sentido muy mortal. La amenaza de muerte provoca repentinamente una profunda ansiedad en las personas. Piensan, ¿estoy listo? ¿Estoy preparado? ¿Qué pasa con los que dejo atrás? ¿He hecho lo suficiente para ganarme mi lugar en el esquema de ascensión? Mientras que otros están más preocupados de que su gobierno imponga sanciones limitantes a su libertad. También existe una gran preocupación por el impacto que los confinamientos prolongados han tenido en nuestra vida económica.
 
-En resumen, este episodio de COVID 19 ha amenazado a la sociedad moderna con las **incertidumbres de la vida**. _El Libro de Urantia_ nos dice que, _Toda vida creatura está acosada por ciertas inevitabilidades._ ([LU 3:5.5](/es/The_Urantia_Book/3#p5_5)) No podemos evitar las vicisitudes de la existencia, ni las incertidumbres de la vida.
+En resumen, este episodio de COVID 19 ha amenazado a la sociedad moderna con las **incertidumbres de la vida**. _El Libro de Urantia_ nos dice que, _Toda vida creatura está acosada por ciertas inevitabilidades._ (<a id="a216_213"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5)) No podemos evitar las vicisitudes de la existencia, ni las incertidumbres de la vida.
 
 Vivimos en un mundo imperfecto y a veces suceden cosas malas, pero _El Libro de Urantia_ nos dice que estas incertidumbres y vicisitudes nos brindan a los mortales la oportunidad de desarrollar cualidades como el coraje, la esperanza, la fe, el idealismo, la lealtad y el altruismo. Tiempos desafiantes como estos a menudo pueden hacer madurar en nosotros los «frutos del Espíritu». Entonces, me gustaría que consideraran que, gracias al COVID 19, tenemos la posibilidad de implementar cambios para un futuro mejor una vez que todo esto haya pasado.
 
@@ -243,7 +264,7 @@ _El Libro de Urantia_ presenta una cosmología que conmueve el alma: un universo
 Sin embargo, justo después de haber conmovido nuestras almas, estos autores echan un jarro de agua fría sobre nuestras expectativas. Del Documento 101, sección 4:
 <br style="clear:both;"/>
 
-> _...pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ...._ ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+> _...pero dentro de pocos años muchas de nuestras afirmaciones relacionadas con las ciencias físicas necesitarán una revisión ...._ (<a id="a266_134"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 «Necesitará una revisión». Cuando se compara con la cosmología de consenso actual, de un universo joven que comienza con un Big Bang caliente, la cosmología de _El Libro de Urantia_ es tan heterodoxa y tan aparentemente errónea, que algunos estudiosos de estos artículos ahora ven esta cosmología como poco más que una decoración para el universo. Los temas más importantes del libro: sus revelaciones _espirituales_ y _filosóficas_. Pero echemos otro vistazo a esas «Limitaciones de la Revelación» discutidas en el Documento 101. Inmediatamente después de afirmar que, con respecto a los hechos científicos, estaban limitados en lo que podían revelar, continúan enumerando una serie de cosas que se les permitió hacer. El primero de ellos es especialmente interesante. Nuevamente, del Documento 101, sección 4:
 
@@ -275,7 +296,7 @@ Cecilia Ann Bendall
 <img src="/image/article/The_Arena/Cecilia-Ann-Bendall-249x300.jpg" alt="Cecilia Ann Bendall">
 </figure>
 
-Uno de los pocos temas que, según nos dicen, llevó a Jesús a ser conmovido dentro de su espíritu fue la inferencia de que todos deberíamos ver de la misma manera. Cuando Santiago Zebedeo _Maestro, le preguntó ¿cómo aprenderemos a ver de igual manera y así disfrutar de más armonía entre nosotros?_ ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1)) Jesús respondió:
+Uno de los pocos temas que, según nos dicen, llevó a Jesús a ser conmovido dentro de su espíritu fue la inferencia de que todos deberíamos ver de la misma manera. Cuando Santiago Zebedeo _Maestro, le preguntó ¿cómo aprenderemos a ver de igual manera y así disfrutar de más armonía entre nosotros?_ (<a id="a298_299"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)) Jesús respondió:
 <br style=«clear:both;»/>
 
 > _«Santiago, Santiago, ¿cuándo te he enseñado que todos debéis tener el mismo punto de vista? He venido al mundo para proclamar la libertad espiritual, con el fin de que los mortales puedan tener la facultad de vivir una vida individual original y ***libre*** ante Dios. No deseo que la armonía social y la ***paz*** fraternal se adquieran a costa del sacrificio de la personalidad libre y de la originalidad espiritual. Lo que yo os pido, a mis apóstoles, es la unidad espiritual —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino.»_
@@ -298,11 +319,11 @@ Chris Moseley, Inglaterra
 El concepto de ‘Mente’ en sí mismo, en el sentido abstracto e ilimitado de la palabra, no implica libre albedrío, pero la mente individual, la mente mortal, tiene el libre albedrío como un componente inseparable y definitorio. En el pasaje de la página 1216 titulado The Mind Arena of Choice, hay una frase sorprendente que casi expresa el núcleo de toda la condición humana:
 <br style=«clear:both;»/>
 
-> _La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima._ ([LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
+> _La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima._ (<a id="a321_176"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
 Visto en estos términos, qué criatura tan perfectamente afinada parece un ser humano; qué misteriosa fragilidad tiene la existencia cotidiana; ¡Y qué graves responsabilidades implican todas las decisiones que tomamos!
 
-Ya sea indiferenciada, en el sentido de mente infinita o absoluta, o finita, actuando a través del ministerio de los espíritus auxiliares de la mente, toda Mente puede &quot;superponerse a la energía&quot;. ([LU 9:4.2](/es/The_Urantia_Book/9#p4_2)) en otras palabras, la mente puede dirigir las energías a través de sus propias elecciones. La mente añade significado a la energía.
+Ya sea indiferenciada, en el sentido de mente infinita o absoluta, o finita, actuando a través del ministerio de los espíritus auxiliares de la mente, toda Mente puede &quot;superponerse a la energía&quot;. (<a id="a325_208"></a>[LU 9:4.2](/es/The_Urantia_Book/9#p4_2)) en otras palabras, la mente puede dirigir las energías a través de sus propias elecciones. La mente añade significado a la energía.
 
 [Leer más](/es/article/Chris_Moseley/The_Mind_Arena_of_Choice)
 <br style=«clear:both;»/>
@@ -407,3 +428,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-summer-2020/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="pr-2">Informe del Presidente - Verano de 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

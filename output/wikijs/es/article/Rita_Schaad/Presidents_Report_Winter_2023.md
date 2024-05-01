@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Rita Schaad<br>© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2023_winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Invierno 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/2023_Annual_Conference_in_Sydney_Update">
+          <span class="pr-2">Actualización de la Conferencia Anual de 2023 en Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Rita Schaad, Nueva Gales del Sur
@@ -61,3 +85,28 @@ Rita
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/06/25/presidents-report-4)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2023_winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Invierno 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/2023_Annual_Conference_in_Sydney_Update">
+          <span class="pr-2">Actualización de la Conferencia Anual de 2023 en Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

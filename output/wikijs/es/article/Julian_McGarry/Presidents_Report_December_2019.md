@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Julian McGarry<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2019_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Verano 2019 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="pr-2">Conferencia Anual Auckland Nueva Zelanda 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Julian McGarry, TAS
@@ -44,9 +68,9 @@ Por supuesto, sería muy malo de mi parte no reconocer y agradecer sinceramente 
 
 Es casi imposible leer _El Libro de Urantia_ sin sentirse desafiado por sus extraordinarios mensajes. Aquí hay un par que personalmente encuentro convincente:
 
-> _No olvidéis nunca que sólo hay una aventura más satisfactoria y emocionante que la tentativa de descubrir la voluntad del Dios vivo, y es la experiencia suprema de intentar hacer honradamente esa voluntad divina. Y recordad siempre que la voluntad de Dios se puede hacer en cualquier ocupación terrestre. No hay profesiones santas y profesiones laicas. Todas las cosas son sagradas en la vida de aquellos que están dirigidos por el espíritu, es decir, subordinados a la verdad, ennoblecidos por el amor, dominados por la misericordia y refrenados por la equidad —por la justicia. El espíritu que mi Padre y yo enviaremos al mundo no es solamente el Espíritu de la Verdad, sino también el espíritu de la belleza idealista._ [[LU 155:6.11](/es/The_Urantia_Book/155#p6_11)]
+> _No olvidéis nunca que sólo hay una aventura más satisfactoria y emocionante que la tentativa de descubrir la voluntad del Dios vivo, y es la experiencia suprema de intentar hacer honradamente esa voluntad divina. Y recordad siempre que la voluntad de Dios se puede hacer en cualquier ocupación terrestre. No hay profesiones santas y profesiones laicas. Todas las cosas son sagradas en la vida de aquellos que están dirigidos por el espíritu, es decir, subordinados a la verdad, ennoblecidos por el amor, dominados por la misericordia y refrenados por la equidad —por la justicia. El espíritu que mi Padre y yo enviaremos al mundo no es solamente el Espíritu de la Verdad, sino también el espíritu de la belleza idealista._ <a id="a70_726"></a>[[LU 155:6.11](/es/The_Urantia_Book/155#p6_11)]
 > 
-> _Recordad que estáis encargados de predicar este evangelio del reino —el deseo supremo de hacer la voluntad del Padre, unido a la alegría suprema de comprender, por la fe, que sois hijos de Dios— y no debéis permitir que nada desvíe vuestra consagración a este único deber. Que toda la humanidad se beneficie del desbordamiento de vuestro afectuoso ministerio espiritual, de vuestra comunión intelectual iluminadora, y de vuestro servicio social edificante; pero no se debe permitir que ninguna de estas labores humanitarias, ni todas a la vez, reemplacen la proclamación del evangelio. Estos grandes servicios son los productos sociales secundarios de los ministerios y transformaciones aun más grandes y sublimes, forjados en el corazón del creyente en el reino por el Espíritu viviente de la Verdad y por la comprensión personal de que la fe de un hombre nacido del espíritu confiere la seguridad de una comunión viviente con el Dios eterno._ [[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]
+> _Recordad que estáis encargados de predicar este evangelio del reino —el deseo supremo de hacer la voluntad del Padre, unido a la alegría suprema de comprender, por la fe, que sois hijos de Dios— y no debéis permitir que nada desvíe vuestra consagración a este único deber. Que toda la humanidad se beneficie del desbordamiento de vuestro afectuoso ministerio espiritual, de vuestra comunión intelectual iluminadora, y de vuestro servicio social edificante; pero no se debe permitir que ninguna de estas labores humanitarias, ni todas a la vez, reemplacen la proclamación del evangelio. Estos grandes servicios son los productos sociales secundarios de los ministerios y transformaciones aun más grandes y sublimes, forjados en el corazón del creyente en el reino por el Espíritu viviente de la Verdad y por la comprensión personal de que la fe de un hombre nacido del espíritu confiere la seguridad de una comunión viviente con el Dios eterno._ <a id="a72_948"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]
 
 Finalmente, en nombre de la junta directiva de ANZURA, los animo a todos a que nos informen si hay alguna forma en la que podamos brindarles un mejor servicio. Las críticas o comentarios constructivos siempre son bienvenidos. ¡Sería maravilloso saber de usted!
 
@@ -61,3 +85,28 @@ Presidente, ANZURA
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2019/12/16/presidents-report-december-2019)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/The_Arena_2019_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Verano 2019 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="pr-2">Conferencia Anual Auckland Nueva Zelanda 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Rita Schaad<br>© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rita_Schaad/Presidents_Report_Winter_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del presidente: invierno de 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief">
+          <span class="pr-2">Unidad – Armonía dentro de la diversidad de experiencias y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por el Comité de la Conferencia
@@ -54,3 +78,28 @@ O [haga clic aquí](mailto:anzura.urantia@gmail.com) para enviarnos un correo el
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/06/25/2023-annual-conference-in-sydney-update)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rita_Schaad/Presidents_Report_Winter_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del presidente: invierno de 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief">
+          <span class="pr-2">Unidad – Armonía dentro de la diversidad de experiencias y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

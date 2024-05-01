@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Graeme C<br>© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/2019_National_Study_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día Nacional del Estudio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Living_the_Ascension_Plan_in_Terrestrial_Human_Experience">
+          <span class="pr-2">Viviendo el Plan de Ascensión en la Experiencia Humana Terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Graeme C.
@@ -90,3 +114,28 @@ Sé que estas ideas son demasiado generales para inspirarlas directamente, así 
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2018/10/30/on-cosmic-background)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Arena/2019_National_Study_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día Nacional del Estudio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Living_the_Ascension_Plan_in_Terrestrial_Human_Experience">
+          <span class="pr-2">Viviendo el Plan de Ascensión en la Experiencia Humana Terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

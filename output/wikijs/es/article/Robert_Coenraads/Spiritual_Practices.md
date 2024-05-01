@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Robert Coenraads<br>© 2023 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_and_Mahtab/Faith_Trust_in_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe-Confianza en la Bondad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Activity_Report_from_a_UB_Student">
+          <span class="pr-2">Informe de actividad de un estudiante de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Robert Coenraads, Nueva Gales del Sur
@@ -54,39 +78,39 @@ _El Libro de Urantia_ define específicamente estos términos y los coloca en un
 
 Las siguientes citas de _El Libro de Urantia_ arrojan luz sobre el significado de estos términos:
 
-> _La oración, y la adoración que la acompaña, es una técnica para apartarse de la rutina diaria de la vida, de los agobios monótonos de la existencia material._ ([LU 144:4.5](/es/The_Urantia_Book/144#p4_5))
+> _La oración, y la adoración que la acompaña, es una técnica para apartarse de la rutina diaria de la vida, de los agobios monótonos de la existencia material._ (<a id="a80_163"></a>[LU 144:4.5](/es/The_Urantia_Book/144#p4_5))
 
-> _Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia._ ([LU 91:7.1](/es/The_Urantia_Book/91#p7_1))
+> _Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia._ (<a id="a82_232"></a>[LU 91:7.1](/es/The_Urantia_Book/91#p7_1))
 
 Los párrafos 91:7:2 y 125:4.4 nos muestran que la meditación se considera distintamente de la oración:
 
-> _Jesús se llevaba con frecuencia a sus apóstoles a solas durante cortos períodos para dedicarse a meditar y a orar, pero la mayor parte del tiempo los mantenía en contacto servicial con las multitudes. El alma del hombre tiene necesidad de ejercicio espiritual así como de alimento espiritual._ ([LU 91:7.2](/es/The_Urantia_Book/91#p7_2))
+> _Jesús se llevaba con frecuencia a sus apóstoles a solas durante cortos períodos para dedicarse a meditar y a orar, pero la mayor parte del tiempo los mantenía en contacto servicial con las multitudes. El alma del hombre tiene necesidad de ejercicio espiritual así como de alimento espiritual._ (<a id="a86_298"></a>[LU 91:7.2](/es/The_Urantia_Book/91#p7_2))
 
-> _Cuando terminó esta segunda jornada en el templo, Jesús fue otra vez a Betania para pasar la noche. Y salió de nuevo al jardín para meditar y orar. Era evidente que su mente estaba ocupada en la meditación de problemas importantes._ ([LU 125:4.4](/es/The_Urantia_Book/125#p4_4))
+> _Cuando terminó esta segunda jornada en el templo, Jesús fue otra vez a Betania para pasar la noche. Y salió de nuevo al jardín para meditar y orar. Era evidente que su mente estaba ocupada en la meditación de problemas importantes._ (<a id="a88_237"></a>[LU 125:4.4](/es/The_Urantia_Book/125#p4_4))
 
 La palabra «rezar» u «oración» se utiliza con más frecuencia en _El Libro de Urantia_ y aparece 107 veces. Se usa en el sentido de pedir algo y se usa de manera distinta de la palabra «adoración».
 
-> _Cuando el hombre aprendió que la oración no podía coaccionar a los dioses, entonces ésta se convirtió más a menudo en una petición, en la búsqueda de un favor. Pero la oración más auténtica es en realidad una comunión entre el hombre y su Hacedor._ ([LU 91:2.3](/es/The_Urantia_Book/91#p2_3))
+> _Cuando el hombre aprendió que la oración no podía coaccionar a los dioses, entonces ésta se convirtió más a menudo en una petición, en la búsqueda de un favor. Pero la oración más auténtica es en realidad una comunión entre el hombre y su Hacedor._ (<a id="a92_253"></a>[LU 91:2.3](/es/The_Urantia_Book/91#p2_3))
 
-> _Cuando la oración no busca nada para el que reza ni para sus semejantes, esta actitud del alma tiende entonces hacia los niveles de la verdadera adoración._ ([LU 91:4.3](/es/The_Urantia_Book/91#p4_3))
+> _Cuando la oración no busca nada para el que reza ni para sus semejantes, esta actitud del alma tiende entonces hacia los niveles de la verdadera adoración._ (<a id="a94_161"></a>[LU 91:4.3](/es/The_Urantia_Book/91#p4_3))
 
-> _La oración está destinada a hacer que el hombre piense menos y *comprenda* más; no está destinada a incrementar el conocimiento, sino más bien a ampliar la perspicacia._ ([LU 143:7.4](/es/The_Urantia_Book/143#p7_4))
+> _La oración está destinada a hacer que el hombre piense menos y *comprenda* más; no está destinada a incrementar el conocimiento, sino más bien a ampliar la perspicacia._ (<a id="a96_174"></a>[LU 143:7.4](/es/The_Urantia_Book/143#p7_4))
 
 Por otra parte, la adoración se utiliza 419 veces en _El Libro de Urantia_. La adoración es la nota más alta en la creciente escala musical de actividades devocionales beneficiosas para todos los individuos: comenzando con el descanso y la relajación, luego a través de la reflexión y la meditación, luego la oración y finalmente la adoración, siendo la adoración el acto supremo de devoción al Padre y al Dios. «descanso ideal del alma».
 
-> _En todos los tiempos y durante todas las épocas, la adoración verdadera de cualquier ser humano —respecto al progreso espiritual individual— es reconocida por el espíritu interior como un homenaje que se rinde al Padre que está en los cielos._ ([LU 142:3.8](/es/The_Urantia_Book/142#p3_8))
+> _En todos los tiempos y durante todas las épocas, la adoración verdadera de cualquier ser humano —respecto al progreso espiritual individual— es reconocida por el espíritu interior como un homenaje que se rinde al Padre que está en los cielos._ (<a id="a100_248"></a>[LU 142:3.8](/es/The_Urantia_Book/142#p3_8))
 
 La distinción entre oración y adoración se enfatiza en numerosas ocasiones.
 
-> _…la oración sostiene espiritualmente, pero la adoración es divinamente creativa._ ([LU 143:7.5](/es/The_Urantia_Book/143#p7_5))
+> _…la oración sostiene espiritualmente, pero la adoración es divinamente creativa._ (<a id="a104_86"></a>[LU 143:7.5](/es/The_Urantia_Book/143#p7_5))
 > 
-> _La oración es un recordatorio de sí mismo: un pensamiento sublime; La adoración es olvidarse de uno mismo: un superpensamiento. La adoración es atención sin esfuerzo, verdadero e ideal descanso del alma, una forma de ejercicio espiritual reparador._ [LU 143:7.7](/es/The_Urantia_Book/143#p7_7)
+> _La oración es un recordatorio de sí mismo: un pensamiento sublime; La adoración es olvidarse de uno mismo: un superpensamiento. La adoración es atención sin esfuerzo, verdadero e ideal descanso del alma, una forma de ejercicio espiritual reparador._ <a id="a106_253"></a>[LU 143:7.7](/es/The_Urantia_Book/143#p7_7)
 > 
-> _Así como la oración puede compararse con recargar las baterías espirituales del alma, así la adoración puede compararse con el acto de sintonizar el alma para captar las transmisiones universales del espíritu infinito del Padre Universal._ ([LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
+> _Así como la oración puede compararse con recargar las baterías espirituales del alma, así la adoración puede compararse con el acto de sintonizar el alma para captar las transmisiones universales del espíritu infinito del Padre Universal._ (<a id="a108_244"></a>[LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
 
 Y considere el extraordinario alcance de la adoración sobre la simple oración en el siguiente párrafo del Documento 5: La relación de Dios con el individuo.
 
-> _Las oraciones, todas las comunicaciones formales, todo, salvo la adoración y la veneración del Padre Universal, son cuestiones que conciernen al universo local; normalmente no sobrepasan el ámbito jurisdiccional de un Hijo Creador. Pero la adoración es incluida sin duda en un circuito y enviada a la persona del Creador por medio del circuito de la personalidad del Padre._ ([LU 5:3.2](/es/The_Urantia_Book/5#p3_2))
+> _Las oraciones, todas las comunicaciones formales, todo, salvo la adoración y la veneración del Padre Universal, son cuestiones que conciernen al universo local; normalmente no sobrepasan el ámbito jurisdiccional de un Hijo Creador. Pero la adoración es incluida sin duda en un circuito y enviada a la persona del Creador por medio del circuito de la personalidad del Padre._ (<a id="a112_379"></a>[LU 5:3.2](/es/The_Urantia_Book/5#p3_2))
 
 En la Biblia, la meditación también se describe como un enfoque para mantener a uno entero estable y centrado. Se hace referencia a él unas 23 veces, por ejemplo:
 
@@ -119,3 +143,28 @@ Para más información sobre las Aplicaciones Prácticas de la meditación [haga
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/06/25/spiritual-practices-for-walking-the-rope-an-invitation-to-intimacy-with-god)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_and_Mahtab/Faith_Trust_in_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe-Confianza en la Bondad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-invierno-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Invierno 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Activity_Report_from_a_UB_Student">
+          <span class="pr-2">Informe de actividad de un estudiante de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

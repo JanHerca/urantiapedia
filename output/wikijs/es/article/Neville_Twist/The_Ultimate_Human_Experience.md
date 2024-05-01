@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Neville Twist<br>© 2022 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Daniel_Swadling/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marion_Steward/New_Zealand_Corner_2">
+          <span class="pr-2">El rincón de Nueva Zelanda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Neville Twist, Auckland, Nueva Zelanda
@@ -31,7 +55,7 @@ Al preparar esta presentación «¡La experiencia humana definitiva!», rápidam
 
 **Comenzando con PAZ** leemos en LU 100:6.6:
 
-> «Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa toda comprensión humana, esa serenidad cósmica que revela la ausencia de toda duda y de toda agitación.» ([LU 100:6.6](/es/The_Urantia_Book/100#p6_6))
+> «Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa toda comprensión humana, esa serenidad cósmica que revela la ausencia de toda duda y de toda agitación.» (<a id="a57_225"></a>[LU 100:6.6](/es/The_Urantia_Book/100#p6_6))
 
 ¿Qué tan tranquilizador es esto? Y, sin embargo, vivimos en un mundo donde la paz es un bien escaso en estos días. ¿Quién hubiera pensado que en 2022 volvería a estallar una gran guerra en Europa? Hay conflictos en todo el mundo. Durante años se ha producido un brutal genocidio en Ruanda. Eritrea y Etiopía llevan años en guerra civil. Las tensiones son altas en muchas partes del mundo y parecen estar aumentando. Y no son sólo los países donde la paz se ha visto destrozada. Incontables millones de personas no están en paz consigo mismas. No tienen fe en el Dios vivo.
 
@@ -45,15 +69,15 @@ En el guión de David Kantor para su próxima presentación cinematográfica a l
 
 La crisis del cristianismo es, por extensión, la crisis de la civilización occidental. Cada cultura, cada civilización que conocemos se ha mantenido unida por valores derivados de historias compartidas sobre los dioses y su relación con la humanidad. El Occidente posterior a la Ilustración es la primera civilización que conocemos que abandona sus historias fundacionales, abandona su dependencia de Dios e intenta actuar por su cuenta.
 
-¿Es este el fin de la civilización occidental o hay esperanzas de un renacimiento? Para ser honesto, las cosas no pintan muy bien, especialmente en el frente espiritual. Probablemente tendremos que esperar al «fin de la actual lucha ideológica» antes de que la gente esté lista para aceptar las verdades de Jesús que se encuentran en _El Libro de Urantia_. ¡Pero tenga la seguridad de que las enseñanzas de Jesús no fallarán! Quizás podría ser a través de un músico único. «Pero no os desaniméis; algún día puede aparecer en Urantia un verdadero músico, y pueblos enteros quedarán cautivados por los magníficos acordes de sus melodías. … Es literalmente cierto: «la melodía tiene el poder de transformar un mundo entero». ([LU 44:1.15](/es/The_Urantia_Book/44#p1_15))
+¿Es este el fin de la civilización occidental o hay esperanzas de un renacimiento? Para ser honesto, las cosas no pintan muy bien, especialmente en el frente espiritual. Probablemente tendremos que esperar al «fin de la actual lucha ideológica» antes de que la gente esté lista para aceptar las verdades de Jesús que se encuentran en _El Libro de Urantia_. ¡Pero tenga la seguridad de que las enseñanzas de Jesús no fallarán! Quizás podría ser a través de un músico único. «Pero no os desaniméis; algún día puede aparecer en Urantia un verdadero músico, y pueblos enteros quedarán cautivados por los magníficos acordes de sus melodías. … Es literalmente cierto: «la melodía tiene el poder de transformar un mundo entero». (<a id="a71_723"></a>[LU 44:1.15](/es/The_Urantia_Book/44#p1_15))
 
-Sin embargo, podemos experimentar esta verdad sublime aquí y ahora. Nuevamente, esa maravillosa cita de LU 100:6.6 «Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa todo entendimiento humano, ese equilibrio cósmico que presagia la ausencia de toda duda y agitación» [LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
+Sin embargo, podemos experimentar esta verdad sublime aquí y ahora. Nuevamente, esa maravillosa cita de LU 100:6.6 «Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa todo entendimiento humano, ese equilibrio cósmico que presagia la ausencia de toda duda y agitación» <a id="a73_333"></a>[LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
 
 **ALEGRÍA:**
 
 En la ayuda de estudio de Peter DeCamp «Las Entidades, Seres y Personalidades de _El Libro de Urantia_, leemos en la página 66, bajo el subtítulo «5 de Seconafines Secundarios», (descendientes de Espíritus Reflexivos), sobre la «Alegría de la Existencia» ángeles:
 
-> ... reflectantemente sintonizados con los supervisores superáficos de la armonía situados por encima, y con ciertos serafines situados por debajo, pero es difícil explicar qué hacen exactamente los miembros de este grupo interesante. Sus actividades principales están dirigidas a promover reacciones de alegría entre las diversas órdenes de las huestes angélicas y de las criaturas volitivas inferiores. Los Consejeros Divinos, a los cuales están vinculados, raras veces los utilizan para descubrir específicamente la alegría. De una manera más general, y en colaboración con los directores de la reversión, ejercen su actividad como cámaras de análisis de la alegría, tratando de aumentar las reacciones de placer de los reinos e intentando mejorar al mismo tiempo el gusto por el humor, desarrollar un superhumor entre los mortales y los ángeles. Se esfuerzan por demostrar que hay una alegría inherente en el hecho de tener una existencia con libre albedrío, independientemente de todas las influencias externas; y tienen razón, aunque encuentran grandes dificultades para inculcar esta verdad en la mente de los hombres primitivos. ([LU 28:5.16](/es/The_Urantia_Book/28#p5_16))
+> ... reflectantemente sintonizados con los supervisores superáficos de la armonía situados por encima, y con ciertos serafines situados por debajo, pero es difícil explicar qué hacen exactamente los miembros de este grupo interesante. Sus actividades principales están dirigidas a promover reacciones de alegría entre las diversas órdenes de las huestes angélicas y de las criaturas volitivas inferiores. Los Consejeros Divinos, a los cuales están vinculados, raras veces los utilizan para descubrir específicamente la alegría. De una manera más general, y en colaboración con los directores de la reversión, ejercen su actividad como cámaras de análisis de la alegría, tratando de aumentar las reacciones de placer de los reinos e intentando mejorar al mismo tiempo el gusto por el humor, desarrollar un superhumor entre los mortales y los ángeles. Se esfuerzan por demostrar que hay una alegría inherente en el hecho de tener una existencia con libre albedrío, independientemente de todas las influencias externas; y tienen razón, aunque encuentran grandes dificultades para inculcar esta verdad en la mente de los hombres primitivos. (<a id="a79_1139"></a>[LU 28:5.16](/es/The_Urantia_Book/28#p5_16))
 
 Creo que el compositor acertó cuando escribió estas hermosas letras: –
 
@@ -101,19 +125,19 @@ Si investigamos la palabra entusiasmo, veremos que se deriva del griego «enthou
 
 Una de mis citas favoritas de _El Libro de Urantia_ es:
 
-> Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal. ([LU 102:7.10](/es/The_Urantia_Book/102#p7_10))
+> Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal. (<a id="a127_286"></a>[LU 102:7.10](/es/The_Urantia_Book/102#p7_10))
 
 Esto para mí realmente lo dice todo. Me dice que si realmente creo en estas verdades y busco hacer la voluntad del Padre, ¿de qué tengo que preocuparme? Nuestro amoroso Padre celestial realmente está cuidando de mí, de todos nosotros, todo el tiempo. Él tiene el control. Tenemos a nuestro fiel compañero, nuestro fragmento divino con nosotros durante todo el camino.
 
 Pablo enseñó a los ciudadanos de Roma que nada puede separarnos del amor de Dios. «Ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, ni lo alto, ni lo profundo, ni ninguna otra criatura podrá separarnos del amor de Dios, que es en Cristo Jesús Señor nuestro». Grandes palabras de Pablo.
 
-> La conciencia de la dominación de una vida humana por el espíritu pronto es acompañada por una manifestación creciente de las características del Espíritu en las reacciones vitales de ese mortal conducido por el espíritu, «porque los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza». Aunque estos mortales guiados por el espíritu y divinamente iluminados caminan todavía por los humildes senderos del trabajo agotador y cumplen con fidelidad humana los deberes de sus tareas terrenales, ya han empezado a discernir las luces de la vida eterna que brillan en las orillas lejanas de otro mundo; ya han empezado a comprender la realidad de esta verdad inspiradora y reconfortante: «El reino de Dios no es comida ni bebida, sino rectitud, paz y alegría en el Espíritu Santo». A lo largo de cada prueba y en presencia de cada dificultad, las almas nacidas del espíritu están sostenidas por esa esperanza que trasciende todo temor, porque el amor de Dios se derrama en todos los corazones a través de la presencia del Espíritu divino. ([LU 34:6.13](/es/The_Urantia_Book/34#p6_13))
+> La conciencia de la dominación de una vida humana por el espíritu pronto es acompañada por una manifestación creciente de las características del Espíritu en las reacciones vitales de ese mortal conducido por el espíritu, «porque los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza». Aunque estos mortales guiados por el espíritu y divinamente iluminados caminan todavía por los humildes senderos del trabajo agotador y cumplen con fidelidad humana los deberes de sus tareas terrenales, ya han empezado a discernir las luces de la vida eterna que brillan en las orillas lejanas de otro mundo; ya han empezado a comprender la realidad de esta verdad inspiradora y reconfortante: «El reino de Dios no es comida ni bebida, sino rectitud, paz y alegría en el Espíritu Santo». A lo largo de cada prueba y en presencia de cada dificultad, las almas nacidas del espíritu están sostenidas por esa esperanza que trasciende todo temor, porque el amor de Dios se derrama en todos los corazones a través de la presencia del Espíritu divino. (<a id="a133_1114"></a>[LU 34:6.13](/es/The_Urantia_Book/34#p6_13))
 
-Como cita el folleto de la conferencia: «Ya es hora de que el hombre tenga una experiencia religiosa tan personal y tan sublime que pueda realizarse y expresarse sólo mediante sentimientos que son demasiado profundos para expresarlos con palabras». ([LU 99:5.9](/es/The_Urantia_Book/99#p5_9)) Lo más cerca que estoy de esto es lo que describí antes. Es sólo el comienzo y sé que apenas me estoy acercando al primer paso. Pero es un comienzo. Un comienzo para hacerme consciente de la presencia divina en mí. Un momento decisivo en el camino de la vida que claramente me indica la dirección correcta. Una señal que me dice que este es el camino a seguir. Acabamos de embarcarnos en el viaje más apasionante, alegre y apasionante.
+Como cita el folleto de la conferencia: «Ya es hora de que el hombre tenga una experiencia religiosa tan personal y tan sublime que pueda realizarse y expresarse sólo mediante sentimientos que son demasiado profundos para expresarlos con palabras». (<a id="a135_250"></a>[LU 99:5.9](/es/The_Urantia_Book/99#p5_9)) Lo más cerca que estoy de esto es lo que describí antes. Es sólo el comienzo y sé que apenas me estoy acercando al primer paso. Pero es un comienzo. Un comienzo para hacerme consciente de la presencia divina en mí. Un momento decisivo en el camino de la vida que claramente me indica la dirección correcta. Una señal que me dice que este es el camino a seguir. Acabamos de embarcarnos en el viaje más apasionante, alegre y apasionante.
 
 No olvidemos que todos somos agondonteros, lo que _El Libro de Urantia_ describe como tal en LU 50:7.2:
 
-> En Jerusem, los ascendentes de estos mundos aislados ocupan un sector residencial propio y se les conoce con el nombre de *agondontarios, lo que significa criaturas volitivas evolutivas que pueden creer sin ver, perseverar cuando están aisladas y vencer dificultades insuperables incluso estando solas. Esta agrupación funcional de los agondontarios persiste durante toda la ascensión del universo local y la travesía del superuniverso; desaparece durante la estancia en Havona, pero reaparece de inmediato cuando se alcanza el Paraíso, y subsiste definitivamente en el Cuerpo de la Finalidad de los Mortales. ([LU 50:7.2](/es/The_Urantia_Book/50#p7_2))
+> En Jerusem, los ascendentes de estos mundos aislados ocupan un sector residencial propio y se les conoce con el nombre de *agondontarios, lo que significa criaturas volitivas evolutivas que pueden creer sin ver, perseverar cuando están aisladas y vencer dificultades insuperables incluso estando solas. Esta agrupación funcional de los agondontarios persiste durante toda la ascensión del universo local y la travesía del superuniverso; desaparece durante la estancia en Havona, pero reaparece de inmediato cuando se alcanza el Paraíso, y subsiste definitivamente en el Cuerpo de la Finalidad de los Mortales. (<a id="a139_613"></a>[LU 50:7.2](/es/The_Urantia_Book/50#p7_2))
 
 Todos vamos a emprender juntos el viaje al paraíso, incluso la reina Isabel II y Billy Graham. Todos vamos a estar en el mismo grupo conocido como agondonteros, nos guste o no. Lo mejor es que aprendamos a fomentar este sentido de unión ahora. Después de todo, todos somos hijos del Padre eterno. Todos somos hermanos y hermanas y lo seguiremos siendo por la eternidad. Aprendamos todos a compartir el amor, el gozo, la paz, la paciencia, la gentileza, la bondad, la fe, la mansedumbre y la templanza aquí y ahora. Porque estos son los frutos del espíritu. Creo que esta es la esencia de «La experiencia humana definitiva» y también del tema de nuestra conferencia, ROPE – La religión de la experiencia personal. Dios los bendiga a todos. Que su amor brille sobre todos vosotros. Y no lo olvides, ¡ten buen ánimo!
 
@@ -121,3 +145,28 @@ Todos vamos a emprender juntos el viaje al paraíso, incluso la reina Isabel II 
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2023/01/06/the-ultimate-experience)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Daniel_Swadling/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marion_Steward/New_Zealand_Corner_2">
+          <span class="pr-2">El rincón de Nueva Zelanda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

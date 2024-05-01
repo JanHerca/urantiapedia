@@ -74,7 +74,7 @@ _Clyde contó por primera vez cómo llegó a participar en el Foro:_
 
 «Me conmueve una y otra vez este pasaje de LU 95:7.3:
 
-> «_Si los seguidores de Jesús se hubieran tomado más en serio su mandato de «ir por todo el mundo para predicar el evangelio», y si hubieran sido más amables en esta predicación, menos estrictos en las exigencias sociales colaterales inventadas por ellos mismos, entonces muchos países hubieran recibido con agrado el simple evangelio del hijo del carpintero, entre ellos Arabia._» ([LU 95:7.3](/es/The_Urantia_Book/95#p7_3))
+> «_Si los seguidores de Jesús se hubieran tomado más en serio su mandato de «ir por todo el mundo para predicar el evangelio», y si hubieran sido más amables en esta predicación, menos estrictos en las exigencias sociales colaterales inventadas por ellos mismos, entonces muchos países hubieran recibido con agrado el simple evangelio del hijo del carpintero, entre ellos Arabia._» (<a id="a76_384"></a>[LU 95:7.3](/es/The_Urantia_Book/95#p7_3))
 
 «El Islam resultó de este fracaso de los misioneros de Abner. Dos mil años después... muchos... están pagando la pena por los fracasos de los misioneros de Abner. Y me pregunto en cuántos años a partir de ahora la gente pagará las penas y sufrirá por los fracasos que tengamos para seguir las instrucciones de Jesús... para difundir y difundir este evangelio al mundo ahora y para siempre».
 

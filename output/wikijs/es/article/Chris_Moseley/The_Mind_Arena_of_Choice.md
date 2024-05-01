@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Chris Moseley<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensar igual: ¿necesario o innecesario?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Venosa/Amarantos">
+          <span class="pr-2">Amarantos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Chris Moseley, Inglaterra
@@ -24,11 +48,11 @@ Por Chris Moseley, Inglaterra
 
 El concepto de «Mente» en sí mismo, en el sentido abstracto e ilimitado de la palabra, no implica libre albedrío, pero la mente individual, la mente mortal, tiene el libre albedrío como un componente inseparable y definitorio. En el pasaje de la página 1216 titulado The Mind Arena of Choice, hay una frase sorprendente que casi expresa el núcleo de toda la condición humana:
 
-> _La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima._ ([LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
+> _La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima._ (<a id="a50_176"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
 Visto en estos términos, qué criatura tan perfectamente afinada parece un ser humano; qué misteriosa fragilidad tiene la existencia cotidiana; ¡Y qué graves responsabilidades implican todas las decisiones que tomamos!
 
-Ya sea indiferenciada, en el sentido de mente infinita o absoluta, o finita, actuando a través del ministerio de los espíritus auxiliares de la mente, toda Mente puede «superponerse a la energía» ([LU 9:4.2](/es/The_Urantia_Book/9#p4_2)), en otras palabras, la mente puede direccionar las energías a través de sus propias elecciones. La mente añade significado a la energía.
+Ya sea indiferenciada, en el sentido de mente infinita o absoluta, o finita, actuando a través del ministerio de los espíritus auxiliares de la mente, toda Mente puede «superponerse a la energía» (<a id="a54_197"></a>[LU 9:4.2](/es/The_Urantia_Book/9#p4_2)), en otras palabras, la mente puede direccionar las energías a través de sus propias elecciones. La mente añade significado a la energía.
 
 Otra cosa que podemos decir acerca de toda mente es que se origina en la Tercera Fuente y Centro, la Tercera Persona de la Deidad. Pero eso no significa que la mente sea inherentemente divina. Si lo fuera, presumiblemente estaría libre de errores y juicios erróneos. Tampoco se vería distorsionado por el miedo y los prejuicios.
 
@@ -38,11 +62,11 @@ Los seres materiales están más familiarizados con el funcionamiento de la grav
 
 Nuestras elecciones como mortales, entonces, no son tan libres como podríamos imaginar, debido a esta atracción gravitatoria invisible, del mismo modo que las mareas se ven afectadas por la atracción de la luna.
 
-Debemos recordar que los Ajustadores tienen mente propia ([LU 107:5.1](/es/The_Urantia_Book/107#p5_1)), pero no ejercen el libre albedrío; esta es la prerrogativa de las criaturas de voluntad en las que habitan ([LU 107:7.2](/es/The_Urantia_Book/107#p7_2)).
+Debemos recordar que los Ajustadores tienen mente propia (<a id="a64_58"></a>[LU 107:5.1](/es/The_Urantia_Book/107#p5_1)), pero no ejercen el libre albedrío; esta es la prerrogativa de las criaturas de voluntad en las que habitan (<a id="a64_212"></a>[LU 107:7.2](/es/The_Urantia_Book/107#p7_2)).
 
 Han habitado en nosotros mediante un acto de voluntad, pero su propio libre albedrío se sacrifica al nuestro. Lo prepersonal está a disposición de lo personal. Y es por eso que es tan peligroso atribuir automáticamente nuestras elecciones y decisiones morales a la guía del ajustador. La dirección del ajustador puede sentirse a largo plazo y tal vez verse en retrospectiva, pero, nos dice el libro (p.1207), es más sabio y seguro atribuir nuestros pensamientos, elecciones y decisiones a una actividad puramente mental.
 
-Llegamos así al meollo del problema. Lo que he estado diciendo es sólo un intento de prepararme para leer _The Mind Arena of Choice._ \*(Consulte el Apéndice al final de este artículo para leer la sección completa de [LU 111:1.1](/es/The_Urantia_Book/111#p1_1))
+Llegamos así al meollo del problema. Lo que he estado diciendo es sólo un intento de prepararme para leer _The Mind Arena of Choice._ \*(Consulte el Apéndice al final de este artículo para leer la sección completa de <a id="a68_217"></a>[LU 111:1.1](/es/The_Urantia_Book/111#p1_1))
 _
 
 Intentemos comentar cada párrafo.
@@ -57,7 +81,7 @@ El cuarto párrafo reintroduce y vuelve a enfatizar el concepto de que se trata 
 
 Ya he comentado el magnífico resumen de la condición humana que encontramos como núcleo del quinto párrafo. Sin embargo, mire de nuevo el mensaje de refuerzo:
 
-> _...Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender;_ ([LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
+> _...Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender;_ (<a id="a83_117"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
 El sexto párrafo nos muestra los peligros y responsabilidades de tener un vehículo mental prestado. Las decisiones de libre albedrío se toman rutinariamente teniendo en mente las ganancias a corto plazo para uno mismo. Pero la lección difícil, quizás la más difícil de aprender, es cómo entregar esa voluntad a la de Dios.
 
@@ -67,7 +91,7 @@ El octavo párrafo reafirma la relación de la mente con el Ajustador. Es por es
 
 Y el párrafo final contiene verdades magníficas que no se pueden resumir en resúmenes:
 
-> _La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán._ ([LU 111:1.9](/es/The_Urantia_Book/111#p1_9))
+> _La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán._ (<a id="a93_98"></a>[LU 111:1.9](/es/The_Urantia_Book/111#p1_9))
 
 Las imágenes de naufragios y peligros en el mar nos recuerdan nuevamente la pesada responsabilidad que recae sobre los seres mortales al tomar decisiones correctas guiadas por el Ajustador.
 
@@ -97,10 +121,35 @@ _Ver el boletín completo en:_
 > 
 > ^111:1.8^ Pero el hombre no abandona su voluntad al Ajustador de una manera pasiva y servil. Elige más bien seguir de forma activa, positiva y cooperativa la guía del Ajustador cuando, y en la medida en que, esta guía difiere conscientemente de los deseos e impulsos de la mente mortal natural. Los Ajustadores manipulan la mente del hombre, pero nunca la dominan en contra de su voluntad; para los Ajustadores, la voluntad humana es suprema. La consideran y la respetan así mientras se esfuerzan por alcanzar las metas espirituales de ajuste del pensamiento y de transformación del carácter en el campo casi ilimitado del intelecto humano en evolución.
 > 
-> ^111:1.9^ La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para que guíe su alma ascendente hacia los puertos morontiales de la supervivencia eterna. La voluntad del hombre sólo puede rechazar la guía de un piloto tan amoroso por egoísmo, pereza y maldad, y hacer naufragar finalmente su carrera como mortal en los nefastos bancos de arena del rechazo de la misericordia y en los arrecifes del abrazo del pecado. Con vuestro consentimiento, este piloto fiel os llevará de manera segura a través de las barreras del tiempo y de los obstáculos del espacio, hasta la fuente misma de la mente divina e incluso más allá, hasta el Padre Paradisiaco de los Ajustadores. ([LU 111:1.1-9](/es/The_Urantia_Book/111#p1_1))
+> ^111:1.9^ La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para que guíe su alma ascendente hacia los puertos morontiales de la supervivencia eterna. La voluntad del hombre sólo puede rechazar la guía de un piloto tan amoroso por egoísmo, pereza y maldad, y hacer naufragar finalmente su carrera como mortal en los nefastos bancos de arena del rechazo de la misericordia y en los arrecifes del abrazo del pecado. Con vuestro consentimiento, este piloto fiel os llevará de manera segura a través de las barreras del tiempo y de los obstáculos del espacio, hasta la fuente misma de la mente divina e incluso más allá, hasta el Padre Paradisiaco de los Ajustadores. (<a id="a123_794"></a>[LU 111:1.1-9](/es/The_Urantia_Book/111#p1_1))
 
 
 ## Referencias
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2021/02/10/mining-archives-mind-arena)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensar igual: ¿necesario o innecesario?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Venosa/Amarantos">
+          <span class="pr-2">Amarantos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

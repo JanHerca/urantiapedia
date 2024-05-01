@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Nigel Nunn<br>© 2021 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la conferencia virtual ANZURA 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Swadling/The_Stability_of_Goodness">
+          <span class="pr-2">La estabilidad del bien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Nigel Nunn, ACT
@@ -29,7 +53,7 @@ En otras palabras, «Somos porque YO SOY».
 
 Por supuesto, esto no es nada sencillo y requiere algo llamado «la Era del Universo Maestro». Pero para el Padre, el resultado final es una familia casi infinita de Unos como él y, por tanto, una garantía de que la Eternidad será casi infinitamente interesante. En cuanto a cómo nuestro Padre «lo hace así», los autores de _El Libro de Urantia_ revelan que este acontecimiento infinito, este embellecimiento de la eternidad, está motivado y mediado por el Amor, el primer motor, la motivación esencial y apremiante.
 
-Fíjate, todo esto es muy profundamente personal. «**YO SOY**» no es sólo nuestro «principal postulado filosófico» [[LU 105:1.3](/es/The_Urantia_Book/105#p1_3)], sino que también es la experiencia más personal posible: YO SOY. Somos. Desde esta perspectiva, el universo se convierte en un asunto de familia. Volveremos a esto. Pero por ahora, sólo quiero establecer esta idea, que el Amor es el motivador, el mediador, literalmente la Luz y la Vida de todas las interacciones que se desarrollan en el dominio personal del Padre.
+Fíjate, todo esto es muy profundamente personal. «**YO SOY**» no es sólo nuestro «principal postulado filosófico» <a id="a55_114"></a>[[LU 105:1.3](/es/The_Urantia_Book/105#p1_3)], sino que también es la experiencia más personal posible: YO SOY. Somos. Desde esta perspectiva, el universo se convierte en un asunto de familia. Volveremos a esto. Pero por ahora, sólo quiero establecer esta idea, que el Amor es el motivador, el mediador, literalmente la Luz y la Vida de todas las interacciones que se desarrollan en el dominio personal del Padre.
 
 De acuerdo. Con esta idea en marcha, volvamos a la tierra y veamos qué podemos aprender sobre el Amor. ¿Qué es y cómo funciona?
 
@@ -50,7 +74,7 @@ Y ese sentimiento permaneció conmigo, convirtiéndose en una especie de punto d
 
 Por ejemplo: tenía unos 17 años, y un día (de repente, para mi sorpresa), me di cuenta de que las satisfacciones habituales –del sexo y las drogas, del dinero, la comida o la fama– me parecían, bueno, triviales en comparación esa «satisfacción recordada» que proviene simplemente de hacer algo bueno por otra persona, de permitir que nuestro «inherente» «deseo de hacer el bien a los demás» siga su curso.
 
-Pero «el deseo de hacer el bien a los demás» es una forma en que _El Libro de Urantia_ define el Amor. Del Documento 56, sección 10, _El amor es el deseo de hacer el bien a los demás._  [[LU 56:10.21](/es/The_Urantia_Book/56#p10_21)]
+Pero «el deseo de hacer el bien a los demás» es una forma en que _El Libro de Urantia_ define el Amor. Del Documento 56, sección 10, _El amor es el deseo de hacer el bien a los demás._  <a id="a76_186"></a>[[LU 56:10.21](/es/The_Urantia_Book/56#p10_21)]
 
 Entonces, ¿qué tiene esto que ver con ese elocuente grito del joven Mick Jagger? Resulta que Miguel de Nebadon sabía que muchos de nosotros nos encontraríamos con el mismo problema, de buscar y no encontrar el tipo de satisfacción que podría saciar una sed intolerable. Así que vivió esa vida como Jesús, en la que reveló y demostró un atajo hacia las satisfacciones más profundas.
 
@@ -68,7 +92,7 @@ Por ejemplo, en el dominio material, las interacciones entre átomos se deben a 
 
 Pero espera hay mas:
 
-> _Los Ajustadores son la realidad del amor del Padre, encarnado en el alma de los hombres;_ ([LU 107:0.2](/es/The_Urantia_Book/107#p0_2))
+> _Los Ajustadores son la realidad del amor del Padre, encarnado en el alma de los hombres;_ (<a id="a94_94"></a>[LU 107:0.2](/es/The_Urantia_Book/107#p0_2))
 
 El Amor del Padre, encarnado en nuestras almas. El Amor no sólo es algo peculiar del dominio de la Personalidad, sino que, en algún sentido estimulante, los Ajustadores son ese Amor encarnado dentro de nosotros.
 
@@ -82,17 +106,17 @@ Este clip comienza: «¿Pero qué pasa si algunas de nuestras suposiciones sobre
 
 Y termina (en el momento 5:30) con el chiste:
 
-> «_...mi Padre Paradisiaco gobierna de hecho un universo de universos con el poder predominante de su amor._» ([LU 143:1.4](/es/The_Urantia_Book/143#p1_4))
+> «_...mi Padre Paradisiaco gobierna de hecho un universo de universos con el poder predominante de su amor._» (<a id="a108_112"></a>[LU 143:1.4](/es/The_Urantia_Book/143#p1_4))
 
 «Por el poder apremiante de su Amor». Cada vez que escucho a la gente hablar del Amor, no puedo evitar ver a Jesús mientras hablaba, ese día en Archelais cuando se puso tan agitado, tan alterado emocionalmente. Recuerde la escena: los apóstoles habían estado tratando de convencer a multitudes de griegos y romanos de que el amor era lo más grande desde el pan rebanado; y se rieron de ellos. Aquellos gentiles sofisticados explicaron a los apóstoles que tal evangelio de amor sólo era apto para débiles y esclavos. Cuando los apóstoles, desanimados y desanimados, regresaron a Jesús y le contaron lo que había sucedido, esto fue demasiado. Del documento 143 sección 1,
 
-> _...Éste fue uno de los discursos más apasionados que Jesús pronunció nunca ante los doce. El Maestro rara vez hablaba a sus apóstoles mostrando unos poderosos sentimientos, pero ésta fue una de las pocas ocasiones en las que se expresó con una seriedad manifiesta, acompañada de una marcada emoción._ ([LU 143:1.8](/es/The_Urantia_Book/143#p1_8))
+> _...Éste fue uno de los discursos más apasionados que Jesús pronunció nunca ante los doce. El Maestro rara vez hablaba a sus apóstoles mostrando unos poderosos sentimientos, pero ésta fue una de las pocas ocasiones en las que se expresó con una seriedad manifiesta, acompañada de una marcada emoción._ (<a id="a112_305"></a>[LU 143:1.8](/es/The_Urantia_Book/143#p1_8))
 
 ¿Qué estaba pasando aquí? ¿Por qué este arrebato, esta «emoción marcada»?
 
 Había pasado medio año desde que Jesús ordenó a este grupo de doce para ser predicadores públicos de su evangelio. Y fue de este grupo de hombres de quien Jesús dependería para llevar su Buena Nueva. Algunos de ellos habían estado con Jesús durante 18 meses y, sin embargo, todavía no tenían idea, ninguna comprensión real de la _naturaleza_, el _poder y el propósito_ del Amor. Había llegado el momento de solucionar esto. Y así lo hizo. La sección 1 del documento 143 cuenta la historia, pero basta decir:
 
-> _...a partir de aquel mismo día, su mensaje adquirió un nuevo matiz en el que predominaba la valentía. Los doce continuaron adquiriendo el espíritu positivamente dinámico del nuevo evangelio del reino._ ([LU 143:1.9](/es/The_Urantia_Book/143#p1_9))
+> _...a partir de aquel mismo día, su mensaje adquirió un nuevo matiz en el que predominaba la valentía. Los doce continuaron adquiriendo el espíritu positivamente dinámico del nuevo evangelio del reino._ (<a id="a118_206"></a>[LU 143:1.9](/es/The_Urantia_Book/143#p1_9))
 
 Este episodio de ser tomado a la ligera y luego recibir una inyección de nueva percepción sobre el poder y el propósito del Amor, inoculó efectivamente a los apóstoles contra el virus de la desesperación. Pero volviendo a esta idea del Padre Universal gobernando un universo de universos mediante el poder apremiante de su Amor, ¿debemos tomar esto literalmente? ¿Depende realmente la técnica del Padre – para gobernar un universo de universos… del _Amor_?
 
@@ -108,3 +132,28 @@ _Nigel Nunn, octubre de 2021_
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2022/01/01/we-are-because-i-am)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la conferencia virtual ANZURA 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-verano-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Verano 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Swadling/The_Stability_of_Goodness">
+          <span class="pr-2">La estabilidad del bien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

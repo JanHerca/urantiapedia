@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Susan Hemmingsen<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">No temas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ari_Majurinen/The_Apostle_Matthew">
+          <span class="pr-2">El apóstol Mateo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Susan Hemmingsen, Nueva Zelanda
@@ -28,15 +52,15 @@ Así que aquí estoy viviendo temporalmente sola, en un pequeño estudio, sin to
 Durante mucho tiempo he tenido el beneficio de saber que Dios está siempre conmigo y para mí y me ama. Hace algunos años, durante un período de varios meses, tuve ataques de pánico y en un momento en el que sentía que sólo me aferraba a un hilo y pensaba que mi cerebro iba a explotar; Escuché una voz interior que me decía que había algo dentro de mí que siempre me impediría llegar al límite. En ese momento, yo era agnóstico (días anteriores al Libro de Urantia) y no creía en un Dios personal, pero ahora sé que fue mi amoroso Ajustador del Pensamiento, quien me empujó de regreso a la cordura.
 <br style="clear:both;"/>
 
-> _Pero ningún mortal que conoce a Dios estará nunca solo en su viaje por el cosmos, porque sabe que el Padre camina a su lado en cada etapa del camino, mientras que el camino mismo que atraviesa es la presencia del Supremo._ ([LU 117:6.27](/es/The_Urantia_Book/117#p6_27))
+> _Pero ningún mortal que conoce a Dios estará nunca solo en su viaje por el cosmos, porque sabe que el Padre camina a su lado en cada etapa del camino, mientras que el camino mismo que atraviesa es la presencia del Supremo._ (<a id="a54_227"></a>[LU 117:6.27](/es/The_Urantia_Book/117#p6_27))
 
 y
 
-> _Los constructores del reino, los ciudadanos acreditados de los mundos celestiales, no deben inquietarse por los trastornos temporales o perturbarse por los cataclismos terrestres._ ([LU 176:3.2](/es/The_Urantia_Book/176#p3_2))
+> _Los constructores del reino, los ciudadanos acreditados de los mundos celestiales, no deben inquietarse por los trastornos temporales o perturbarse por los cataclismos terrestres._ (<a id="a58_185"></a>[LU 176:3.2](/es/The_Urantia_Book/176#p3_2))
 
 Desafortunadamente, por supuesto, este hecho no es universalmente conocido ya que hay muchos que no creen en Dios en absoluto. Luego, están aquellos que creen que Dios está castigando a la raza humana por indiscreciones pasadas y que no se dan cuenta de que Dios vive con ellos y es contactable personalmente, y también pueden creer que la comunicación con Dios requiere la interpretación de un tercero. Agradezco poder hablar con Dios, mi amoroso padre, cuando me siento un poco solo, y he estado haciendo bastante de esto, además de orar más de lo habitual.
 
-> _La experiencia religiosa espiritual personal resuelve eficientemente la mayoría de las dificultades de los mortales; clasifica, evalúa y ajusta eficazmente todos los problemas humanos. La religión no aleja ni destruye las dificultades humanas, pero las disuelve, las absorbe, las ilumina y las trasciende. La verdadera religión unifica la personalidad para que se ajuste eficazmente a todas las necesidades de los mortales. La fe religiosa —la guía positiva de la presencia divina interior— permite indefectiblemente al hombre que conoce a Dios salvar ese abismo que existe entre la lógica intelectual que reconoce a la Primera Causa Universal como ***Eso***, y las afirmaciones positivas del alma que afirman que esta Primera Causa es ***Él***, el Padre celestial del evangelio de Jesús, el Dios personal de la salvación humana._ ([LU 196:3.1](/es/The_Urantia_Book/196#p3_1))
+> _La experiencia religiosa espiritual personal resuelve eficientemente la mayoría de las dificultades de los mortales; clasifica, evalúa y ajusta eficazmente todos los problemas humanos. La religión no aleja ni destruye las dificultades humanas, pero las disuelve, las absorbe, las ilumina y las trasciende. La verdadera religión unifica la personalidad para que se ajuste eficazmente a todas las necesidades de los mortales. La fe religiosa —la guía positiva de la presencia divina interior— permite indefectiblemente al hombre que conoce a Dios salvar ese abismo que existe entre la lógica intelectual que reconoce a la Primera Causa Universal como ***Eso***, y las afirmaciones positivas del alma que afirman que esta Primera Causa es ***Él***, el Padre celestial del evangelio de Jesús, el Dios personal de la salvación humana._ (<a id="a62_835"></a>[LU 196:3.1](/es/The_Urantia_Book/196#p3_1))
 
 Están sucediendo tantas cosas en el mundo que mantienen mi mente completamente ocupada y una de las cosas que me interesan particularmente es el liderazgo en los diferentes países del mundo y las formas en que estos diferentes líderes están respondiendo a la pandemia.
 
@@ -58,3 +82,28 @@ Susan Hemmingsen
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/2020/05/10/new-zealand-corner)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Julian_McGarry/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">No temas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ari_Majurinen/The_Apostle_Matthew">
+          <span class="pr-2">El apóstol Mateo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

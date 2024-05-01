@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/President_Report_Autumn_2019">
+          <span class="pr-2">Informe del Presidente - Otoño de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -52,9 +73,9 @@ Los trágicos acontecimientos ocurridos recientemente en Christchurch ponen de r
 
 <br style="clear:both;"/>
 
-> _A lo largo de cada prueba y en presencia de cada dificultad, las almas nacidas del espíritu están sostenidas por esa esperanza que trasciende todo temor, porque el amor de Dios se derrama en todos los corazones a través de la presencia del Espíritu divino._ [[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
+> _A lo largo de cada prueba y en presencia de cada dificultad, las almas nacidas del espíritu están sostenidas por esa esperanza que trasciende todo temor, porque el amor de Dios se derrama en todos los corazones a través de la presencia del Espíritu divino._ <a id="a75_261"></a>[[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
 > 
-> _La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. La religión no es más que un humanismo elevado hasta que se hace divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal._ [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+> _La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. La religión no es más que un humanismo elevado hasta que se hace divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal._ <a id="a77_566"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 ¡Qué Maestro tan magnífico tenemos! ¡Sus buenas noticias, el evangelio de Jesús, son el mensaje que nuestro mundo atribulado necesita escuchar!
 
@@ -76,7 +97,7 @@ Este año la conferencia ANZURA regresa a la capital del país, esta vez en un e
 
 ### Tema: Mente sobre la materia, espíritu sobre la mente
 
-> _La energía-materia domina en los superuniversos evolutivos, salvo en la personalidad, donde el espíritu lucha, por mediación de la mente, para conseguir la superioridad. La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._ ([LU 116:6.1](/es/The_Urantia_Book/116#p6_1))
+> _La energía-materia domina en los superuniversos evolutivos, salvo en la personalidad, donde el espíritu lucha, por mediación de la mente, para conseguir la superioridad. La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._ (<a id="a99_393"></a>[LU 116:6.1](/es/The_Urantia_Book/116#p6_1))
 
 Es bastante obvio que en el siglo XXI hay una comprensión considerable de las formas en que la mente humana ha estado subyugando la materia. Los avances industriales y tecnológicos de los dos siglos anteriores han hecho que los hombres modernos se conviertan en virtuales adoradores de la ciencia, y muchos sugieren que esto conducirá eventualmente a la comprensión completa del mundo material por parte de la humanidad.
 
@@ -95,7 +116,7 @@ El Día Nacional de Estudio de este año, donde puedes participar en un grupo de
 
 <br style="clear:both;"/>
 
-> _El Espíritu Infinito, el Creador Conjunto, es un ministro universal y divino. El Espíritu administra sin cesar la misericordia del Hijo y el amor del Padre, en armonía con la justicia estable, invariable y recta de la Trinidad del Paraíso. Su influencia y sus personalidades siempre están cerca de vosotros; os conocen realmente y os comprenden verdaderamente._ ([LU 9:0.3](/es/The_Urantia_Book/9#p0_3))
+> _El Espíritu Infinito, el Creador Conjunto, es un ministro universal y divino. El Espíritu administra sin cesar la misericordia del Hijo y el amor del Padre, en armonía con la justicia estable, invariable y recta de la Trinidad del Paraíso. Su influencia y sus personalidades siempre están cerca de vosotros; os conocen realmente y os comprenden verdaderamente._ (<a id="a118_366"></a>[LU 9:0.3](/es/The_Urantia_Book/9#p0_3))
 
 Una vez más hemos invitado a los lectores internacionales a unirse a nosotros para que podamos estar unidos en Espíritu con los estudiantes de _El Libro de Urantia_ en todo el mundo.
 
@@ -134,12 +155,12 @@ Neil Francey, Queensland
 _(Presentado en la Conferencia Internacional de la Asociación Urantia en Dourdan, Francia, julio de 2002)_
 
 
-> _Con tus ojos espirituales ungidos, verías los cielos abrirse y contemplarías a los ángeles de Dios ascendiendo y descendiendo. Y muchos de nosotros, mientras funcionamos en el gobierno del Padre y los universos de los Hijos, estamos asignados al servicio de las razas humanas. Hemos ministrado en Urantia desde los primeros tiempos de la inteligencia humana. Informamos al cielo sobre esta remota parte del universo. Somos los ángeles del cielo. En palabras de Jesús, somos espíritus ministradores._ ([LU 167:7.4](/es/The_Urantia_Book/167#p7_4))
+> _Con tus ojos espirituales ungidos, verías los cielos abrirse y contemplarías a los ángeles de Dios ascendiendo y descendiendo. Y muchos de nosotros, mientras funcionamos en el gobierno del Padre y los universos de los Hijos, estamos asignados al servicio de las razas humanas. Hemos ministrado en Urantia desde los primeros tiempos de la inteligencia humana. Informamos al cielo sobre esta remota parte del universo. Somos los ángeles del cielo. En palabras de Jesús, somos espíritus ministradores._ (<a id="a157_504"></a>[LU 167:7.4](/es/The_Urantia_Book/167#p7_4))
 
 En los últimos días hemos conocido los brillantes planes del Padre y del Hijo. Ahora veremos la correlación de estos planes con el plan del Espíritu Infinito.
 
 
-> _El Ajustador es la presencia del Padre; el Espíritu de la Verdad es la presencia de los Hijos._ ([LU 113:3.3](/es/The_Urantia_Book/113#p3_3))
+> _El Ajustador es la presencia del Padre; el Espíritu de la Verdad es la presencia de los Hijos._ (<a id="a162_100"></a>[LU 113:3.3](/es/The_Urantia_Book/113#p3_3))
 
 Estas dotaciones divinas están coordinadas en los niveles de la experiencia espiritual humana por los Espíritus Ministradores, quienes combinan el amor del Padre y la misericordia del Hijo, en su ministerio hacia ti y hacia mí. Lo hacen en nombre del Espíritu Infinito. Los tres planes son, de hecho, un plan unificado.
 
@@ -274,3 +295,25 @@ Algunos grupos de estudio incluyen la participación virtual vía Zoom si no pue
 
 - [Artículo del boletín online](https://anzura.urantia-association.org/newsletter/arena-autumn-2019/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_arena#the-arena-otoño-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Otoño 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julian_McGarry/President_Report_Autumn_2019">
+          <span class="pr-2">Informe del Presidente - Otoño de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
