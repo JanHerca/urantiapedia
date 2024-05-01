@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Wayne Ferrier<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hechos de Expedientes Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="pr-2">¿Qué soy? ¿Quién soy? Una introspección de mí mismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -121,3 +145,28 @@ El anciano afirmó: «Encuentro extraordinarias muchas cosas de la creación y n
 > NOTA DEL EDITOR PARA TODOS LOS NIÑOS Estamos muy entusiasmados con HERALD. Somos del GRUPO DE ESTUDIO que puede enviar a los mejores iniciando un concurso para ver trabajos y otras cosas, cuentos para niños o niños, arte dos con la promesa de imprimir Estamos comenzando en este número y su fandor que cualquier fotografía infantil de Amandon y su fandor que obtengamos. (¡Un niño es cualquier hijo de Dios!)
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hechos de Expedientes Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="pr-2">¿Qué soy? ¿Quién soy? Una introspección de mí mismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

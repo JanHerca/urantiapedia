@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 George Zuberbuehler<br>© 1993 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Allen_Collins/The_Life_and_Times_of_Jesus">
+          <span class="pr-2">La vida y los tiempos de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Preparado por George Zuberbuehler, White Haven, Pensilvania_
@@ -586,3 +610,28 @@ Número de página| Comienza/termina con
 <a id="a585_0"></a>[LU 1:6.6](/es/The_Urantia_Book/1#p6_6) | ...Tú puedes/de los creyentes.
 <a id="a586_0"></a>[LU 101:2.16](/es/The_Urantia_Book/101#p2_16) | Religión/realmente convincente.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Allen_Collins/The_Life_and_Times_of_Jesus">
+          <span class="pr-2">La vida y los tiempos de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

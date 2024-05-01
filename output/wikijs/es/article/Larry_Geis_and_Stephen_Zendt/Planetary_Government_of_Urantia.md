@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Larry Geis y Stephen Zendt<br>© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Family_Life_Values_Survey">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuesta sobre valores de la vida familiar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="pr-2">Grupos de estudio de Arizona</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Larry Geis y Stephen Zendt, San Francisco
@@ -37,3 +61,28 @@ Título | Página
 <img src="/image/article/Study_Group_Herald/Urantia_Planetary_Government.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Family_Life_Values_Survey">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuesta sobre valores de la vida familiar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="pr-2">Grupos de estudio de Arizona</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

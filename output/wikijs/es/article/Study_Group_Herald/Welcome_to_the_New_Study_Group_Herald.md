@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Issue_Content_1996_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald - Contenido del número, invierno de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_8">
+          <span class="pr-2">Cartas a la Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Imagine una publicación que combine la belleza artística y el refinamiento intelectual de _The Journal_ con las noticias de _The Bulletin_ y las mejores características de _The Study Group Herald_. Eso es lo que tiene reservado al leer este número. Hemos fusionado nuestros tres boletines anteriores en esta, la primera revista Fellowship.
@@ -21,3 +45,28 @@ Además, verán referencia en un par de noticias que la primera impresión de _E
 
 Esta revista Fellowship debería llegar a su buzón tres veces al año: en primavera, otoño y al final del año. Si tiene algo que desee enviar para publicación, envíelo a la sede de The Fellowship (dirección a continuación). Siempre estamos buscando buena fotografía, poesía, historias y noticias. Comparte tu talento con nosotros y le daremos el mejor trato posible.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Issue_Content_1996_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald - Contenido del número, invierno de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_8">
+          <span class="pr-2">Cartas a la Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

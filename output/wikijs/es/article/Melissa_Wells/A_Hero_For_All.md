@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Melissa Wells<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús: el hombre, el héroe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Bain/Two_Prayer_Poems">
+          <span class="pr-2">Dos poemas de oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Por Melissa Wells**
@@ -78,3 +102,28 @@ Le oré: «Ya que no puedo escapar de este problema, lo afrontaré, pero quiero 
 
 > «Cuando pusieron a prueba las promesas del Maestro, comprobaron que sus palabras eran ciertas. Y desde aquel día, un número incalculable de personas también han probado y comprobado la certeza de estas mismas promesas.» (<a id="a78_223"></a>[LU 163:6.8](/es/The_Urantia_Book/163#p6_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús: el hombre, el héroe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Bain/Two_Prayer_Poems">
+          <span class="pr-2">Dos poemas de oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

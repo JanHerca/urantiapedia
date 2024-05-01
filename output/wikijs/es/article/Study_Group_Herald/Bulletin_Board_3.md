@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clasificados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar">
+          <span class="pr-2">Calendario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **ESTAMOS SOLICITANDO** envíos de los escritos de su diario a Dios, su Padre, oraciones especiales que haya escrito para usar una y otra vez; incluso las oraciones que su familia usa durante la cena o antes de acostarse. Envíelo a: Stephen Zendt, editor, Ascending Currents, artículo de The STUDY GROUP HERALD 4130 Army St. \#51, San Francisco, CA 94131.
@@ -63,3 +87,28 @@ Comuníquese con Peggy Johnson, presidenta de libros de cocina, Sociedad del Gra
 
 **¿TE GUSTARÍA COMPARTIR** tus propias ayudas de estudio originales y caseras con el resto de nosotros? Sharen Clampitt, Unidad 1, 81 Seabrook Ave., Auckland 7, Nueva Zelanda es el nuevo editor de funciones de ayuda al estudio de The STUDY GROUP HERALD. Ella está tratando de encontrarte a ti y a tus creaciones para compartir en estas páginas. Por favor escríbele y envíale tus ayudas de estudio y una foto tuya. Todos lo apreciaremos mucho.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clasificados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar">
+          <span class="pr-2">Calendario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

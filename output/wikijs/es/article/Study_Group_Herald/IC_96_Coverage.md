@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dan_Massey/The_Cosmic_Family">
+          <span class="pr-2">La familia cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Más de 1,000 personas vinieron de todos los rincones del mundo para asistir a IC 96. El campus de la Universidad del Norte de Arizona estuvo radiante durante una semana en agosto con expresión creativa, pensamiento estimulante, adoración sana y exploraciones en armonía. Y sí, hubo buena música y mucho canto. En este número del Herald publicamos tres de las cuatro presentaciones plenarias junto con una presentación de un lector de_ El Libro de Urantia _que vive en Vilnius, Lituania. A lo largo de esta revista, verá hermosos mandalas que se crearon para la serie de talleres Pattern presentados en IC 96. Tenemos un espacio muy limitado para compartir todo lo que sucedió en IC 96. Lo mejor que podemos hacer es brindar un vistazo de esta rica experiencia._
@@ -75,3 +99,28 @@ Bendice la verdad del Santo debajo de nosotros: <br>
 Bendice el amor del Santo dentro de nosotros.<br>
 </p>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dan_Massey/The_Cosmic_Family">
+          <span class="pr-2">La familia cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

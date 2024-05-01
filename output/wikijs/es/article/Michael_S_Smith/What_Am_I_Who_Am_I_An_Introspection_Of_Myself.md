@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Michael S. Smith<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_Ferrier/The_Water_of_Astonishment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El agua del asombro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="pr-2">Mensaje a mi alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Michael S. Smith, 20 años, de Coraopolis, Pensilvania, ofrece esta página para lectores jóvenes, invitando a recibir cartas, escritos, obras de arte, fotografías, etc., así como a compartir ideas, sentimientos y experiencias entre lectores en edad preuniversitaria y universitaria. ¿Escribes cuentos o poesía? ¿Lees_ El Libro de Urantia _de forma aislada? ¿Conoce a otros lectores jóvenes? ¿Ha intentado alguna vez compartir_ El Libro de Urantia _con sus compañeros? Si tiene algo que compartir en esta página, envíelo a Michael S. Smith, 1827 Hassam Road, Coraopolis, PA 15108, Tel: (412)269-6693._
@@ -162,3 +186,28 @@ Mis pensamientos sobre el poeta y el hombre de mundo,
 También me pregunto qué habrás pensado de mí,
 ¿Y te he cambiado?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_Ferrier/The_Water_of_Astonishment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El agua del asombro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="pr-2">Mensaje a mi alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="pr-2">Tablero de anuncios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Para la consideración de una donación de \$20.00 a The STUDY GROUP HERALD, hasta una pulgada de columna de esta sección clasificada estará disponible para su notificación. El tamaño máximo de los avisos es de 21 1/2 pulgadas. Envíe todos los avisos con donaciones a The STUDY GROUP HERALD, 529 Wrightwood Avenue, Chicago, IL 60614. Haga los cheques a nombre de The Fellowship._
@@ -63,3 +87,28 @@ PARA AQUELLOS QUE LIDIAN CON LA MUERTE Hermosa revista inspiradora que reseña l
 
 **AHORA UNA ÚNICA FUENTE** para la mayoría de las obras inspiradas en _El Libro de Urantia_, incluidas _THE PARAMONY_ de Duane Faw, impresiones artísticas de Byron y _CALL OF THE SPIRIT_ de Merritt Hom. Llame al 1 (800) 767LOVE.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="pr-2">Tablero de anuncios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas a la comunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="pr-2">Prepárese para IC '96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La reunión de mitad de invierno del Consejo General en San Francisco, los días 2 y 3 de febrero, ofreció la oportunidad de afinar los detalles de la nueva publicación de tapa blanda de _El Libro de Urantia_. Además, el Consejo aprobó el establecimiento de una filial de la Fellowship, Uversa Press, para supervisar los detalles del negocio editorial. También se discutió la cuestión de los descuentos continuos y se acordó que se ofrecerá a todos algún tipo de descuento por volumen, cuyos detalles se establecerán más adelante.
@@ -43,3 +67,28 @@ Avi Dogim, presidente del Comité de Estatutos, informó que se aprobó la solic
 
 Nunca es demasiado pronto para empezar a pensar dónde celebrar la próxima Conferencia Internacional. Los concejales ofrecieron una amplia gama de sugerencias, incluidas Alaska, Vancouver, Columbia Británica, el Medio Oeste, el Sureste e incluso un crucero.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas a la comunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="pr-2">Prepárese para IC '96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

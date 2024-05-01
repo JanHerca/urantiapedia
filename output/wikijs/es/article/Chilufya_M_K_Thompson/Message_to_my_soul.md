@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Chilufya M.K. Thompson<br>© 1991 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué soy? ¿Quién soy? Una introspección de mí mismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="pr-2">Publicaciones del Movimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Damos la bienvenida a la correspondencia de lectores de todo el mundo. Comparte con nosotros tus inspiraciones y tus ideas, tus estudios y tus redes sociales. Escribe: Editor internacional, Chilufja M.K. Thompson, PO. Box 22620, Kitwe, Zambia.
@@ -75,3 +99,28 @@ Que Dios, nuestro Padre, los bendiga a todos mientras responden dentro de la sem
 <figcaption><em>Reverendo Ikoro y amigos.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué soy? ¿Quién soy? Una introspección de mí mismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="pr-2">Publicaciones del Movimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

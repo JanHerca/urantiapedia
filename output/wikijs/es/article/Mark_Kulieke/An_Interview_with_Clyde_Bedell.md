@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Mark Kulieke<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Ascending_Currents">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Corrientes ascendentes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="pr-2">Hechos de Expedientes Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El siguiente artículo consiste casi en su totalidad en extractos transcritos de una entrevista grabada con Clyde Bedell realizada por Barbara Kulieke en 1983, poco más de un año antes de la muerte de Clyde._
@@ -78,3 +102,28 @@ _Clyde contó por primera vez cómo llegó a participar en el Foro:_
 
 «El Islam resultó de este fracaso de los misioneros de Abner. Dos mil años después... muchos... están pagando la pena por los fracasos de los misioneros de Abner. Y me pregunto en cuántos años a partir de ahora la gente pagará las penas y sufrirá por los fracasos que tengamos para seguir las instrucciones de Jesús... para difundir y difundir este evangelio al mundo ahora y para siempre».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Ascending_Currents">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Corrientes ascendentes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="pr-2">Hechos de Expedientes Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

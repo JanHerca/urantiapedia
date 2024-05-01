@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Bain/Two_Prayer_Poems">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dos poemas de oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/2000th_Birthday_Party">
+          <span class="pr-2">Fiesta de cumpleaños número 2000</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -140,3 +164,28 @@ Brian Smith, Leucadia, CA, 6 años
 _Proyectos especiales_
 Larry Watkins, Sacramento, CA, 6 años
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Bain/Two_Prayer_Poems">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dos poemas de oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/2000th_Birthday_Party">
+          <span class="pr-2">Fiesta de cumpleaños número 2000</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

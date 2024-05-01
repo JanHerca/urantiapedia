@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Peter Lisk<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marta_and_Dave_Elders/The_Soul_As_The_Entrance_Into_True_Community">
+          <span class="pr-2">El alma como entrada a la verdadera comunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En el medio
@@ -59,3 +83,28 @@ El amor a cada creación.
 
 _Peter Lisk, Dearborn, Michigan_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marta_and_Dave_Elders/The_Soul_As_The_Entrance_Into_True_Community">
+          <span class="pr-2">El alma como entrada a la verdadera comunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

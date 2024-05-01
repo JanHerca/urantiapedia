@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tres R: Relación, Religión y Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/News_from_Colombia">
+          <span class="pr-2">Noticias de Colombia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Se reúnen los fideicomisarios y los cinco miembros del Comité Ejecutivo
@@ -88,3 +112,28 @@ Una de esas resoluciones de la TDA se refería a reformas en la estructura del C
 
 El Consejo General eligió a las siguientes personas como miembros del comité: Judicial, Steve McIntosh, seis años; Charter, Bob Bruyn, seis años; Relaciones Fraternales, Gard Jameson, seis años y presidente; Extensión Nacional, Mo Siegel, seis años y presidente; Fellowship Internacional, Susan Ransbottom, seis años; Educación, Michelle Klimesch, seis años, y Patrick Yesh, un año; Publicaciones, Carolyn Kendall, seis años; Finanzas, Steve Wilsey, seis años; y Proyectos Especiales, Barbara Newsom, seis años.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tres R: Relación, Religión y Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/News_from_Colombia">
+          <span class="pr-2">Noticias de Colombia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

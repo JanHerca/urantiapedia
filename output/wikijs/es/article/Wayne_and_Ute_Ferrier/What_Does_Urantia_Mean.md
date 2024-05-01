@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Wayne y Ute Ferrier<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En estrecha proximidad: el mundo de los que no respiran</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Grupos de estudio de Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Por Wayne y Ute Ferrier**
@@ -76,6 +100,31 @@ Las derivaciones de la palabra Urantia aparecen en muchos pueblos, los sumerios,
 
 Lectura recomendada del Libro de Urantia: [Documentos 66](/es/The_Urantia_Book/66) a [Documentos 78](/es/The_Urantia_Book/78).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En estrecha proximidad: el mundo de los que no respiran</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Grupos de estudio de Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Mary Daly<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publicaciones del Movimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annie_Spiars/A_Life_for_All_Seasons">
+          <span class="pr-2">Una vida para todas las estaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Mary Daly, Garretson, SD_
@@ -90,3 +114,28 @@ _En tercer lugar, y más importante para comprender el culto a la Santísima Mad
 
 El gran error del pensamiento occidental sobre una Madre Divina es el esfuerzo de colapsar toda la cuestión en las categorías externas de mito, memoria y competencia de género. Estos esfuerzos nunca tienen un éxito total porque parten de un fundamento falso. El mito debe ceder sus convicciones al avance de la ciencia. La historia eventualmente se desvanece en una sombra y la competencia da paso a la cooperación en el crecimiento (espiritual) maduro. Al final, la experiencia interior de hombres y mujeres con mentalidad espiritual trasciende todo lo demás y asegura la persistencia de las doctrinas sobre nuestra Madre Celestial. Esto es tanto más cierto en la dispensación espiritual que comenzó con Pentecostés debido a la profundización de la accesibilidad personal de nuestra Madre. La conocemos y la amamos. Mucho más allá de cualquier rumor de una diosa en competencia con los dioses, ella es nuestra Madre personal, la Madre de Misericordia y la primera y mejor amiga de Jesús.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publicaciones del Movimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annie_Spiars/A_Life_for_All_Seasons">
+          <span class="pr-2">Una vida para todas las estaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

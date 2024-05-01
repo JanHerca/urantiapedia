@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Janet Farrington<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupos de estudio de Tennessee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar_3">
+          <span class="pr-2">Calendario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Janet Farrington
@@ -63,3 +87,28 @@ la naturaleza llega a lo profundo,
 dentro del alma la perfección sabe
 lLa belleza compartida permanecerá.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupos de estudio de Tennessee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar_3">
+          <span class="pr-2">Calendario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

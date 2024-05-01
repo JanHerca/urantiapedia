@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC'96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar_2">
+          <span class="pr-2">Calendario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Carolyn Kendall
@@ -47,3 +71,28 @@ Renn nació en Crystal Lake, Illinois y fue miembro de iglesias presbiterianas e
 
 Deja una hija, Betty MacDonald de Albuquerque, Nuevo México y seis nietos. Falleció antes que su esposo Leroy (m. 1950), su hijo Richard (m. 1970) y su nieta Corlin Renn Sherwood (m. 1993).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC'96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar_2">
+          <span class="pr-2">Calendario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia en el Parlamento de las Religiones del Mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/The_Grapevine">
+          <span class="pr-2">La vid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Byron Belitsos,
@@ -28,3 +52,28 @@ La Fellowship no figuraba como patrocinadora del Parlamento; tampoco se encontr�
 Tengo la esperanza de que nos involucremos más profundamente en el movimiento interreligioso, tanto por la gratificante experiencia de compartir profundamente con otros religiosos de mente abierta como para convertirnos en la sal que agrega sabor al movimiento global por el diálogo interreligioso.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia en el Parlamento de las Religiones del Mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/The_Grapevine">
+          <span class="pr-2">La vid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

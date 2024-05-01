@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Dateline_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fecha límite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steve_Dreier/Presidents_Report_to_the_General_Council">
+          <span class="pr-2">Informe del Presidente al Consejo General</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este artículo sobre_ El Libro de Urantia _se publicó recientemente en el suplemento dominical de un periódico de Colombia. Apareció en una sección similar a la revista Parade y recibió amplia atención en ese país. Incluye comentarios del veterano lector del Libro de Urantia, Carlos Zapata, en Colombia._
@@ -40,3 +64,28 @@ Antes de la explosión de esta labor existía en Colombia una cofradía de lecto
 <figcaption><em>Patrón mandala</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Dateline_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fecha límite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steve_Dreier/Presidents_Report_to_the_General_Council">
+          <span class="pr-2">Informe del Presidente al Consejo General</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

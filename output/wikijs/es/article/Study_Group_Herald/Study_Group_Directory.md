@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dan_Massey/The_Cosmic_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="pr-2">La fe hace todas las cosas posibles y el amor las hace hermosas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Querido lector del _Libro de Urantia_:
@@ -75,3 +99,28 @@ Nombre del Coordinador de Área \_\_\_\_ (Ubicación) \_\_\_\_
 
 Considere incluirlo en una ciudad grande, si corresponde. Es posible que los visitantes no reconozcan las ciudades o pueblos suburbanos, mientras que los residentes sí lo harán. Las direcciones de las casas pueden resultar en «invitados sorpresa», así que considere poner un apartado postal o comercial. Dirección de casilla en el Directorio para que la gente pueda escribirle. ¡GRACIAS POR AYUDAR!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dan_Massey/The_Cosmic_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="pr-2">La fe hace todas las cosas posibles y el amor las hace hermosas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

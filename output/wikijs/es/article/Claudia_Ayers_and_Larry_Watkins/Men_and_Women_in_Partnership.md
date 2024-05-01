@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Claudia Ayers y Larry Watkins<br>© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divorcio: ¿Divorciarse o no divorciarse?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="pr-2">El aborto y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Claudia Ayers y Larry Watkins, Sacramento, California
@@ -178,3 +202,28 @@ Página | Comienza con/Termina con
 <img src="/image/article/Study_Group_Herald/marriage.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divorcio: ¿Divorciarse o no divorciarse?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="pr-2">El aborto y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

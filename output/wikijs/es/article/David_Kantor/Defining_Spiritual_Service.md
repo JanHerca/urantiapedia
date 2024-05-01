@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 David Kantor<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/A_Place_Apart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un lugar aparte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="pr-2">Alcanzando la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Por David Kantor**
@@ -158,3 +182,28 @@ Ojalá tengamos la sabiduría de fomentar una cultura de lectores que pueda serv
 > _David Kantor, área de la Bahía de San Francisco, ha sido miembro del Consejo General durante dos años. Este documento es la base de una presentación que Kantor hizo al Consejo General en su reunión de mitad de año en enero de 1995._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/A_Place_Apart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un lugar aparte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="pr-2">Alcanzando la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Patrick Yesh<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Hyde/Urantia_Nuptials">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nupcias Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="pr-2">Estudios para tiempos convulsos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Enviado por Patrick Yesh, Kingston, Ontario_
@@ -32,3 +56,28 @@ Números de página | Comienza/termina con:
 <a id="a31_0"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4) | Luego explicó/perfecto
 <a id="a32_0"></a>[LU 170:3.6](/es/The_Urantia_Book/170#p3_6) | La justicia/compañeros
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Hyde/Urantia_Nuptials">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nupcias Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="pr-2">Estudios para tiempos convulsos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Arvydas Maciokas<br>© 1997 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Earlene_Green/Were_All_Connected">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estamos todos conectados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="pr-2">Ensayo fotográfico IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Arvydas Maciokas, Ph.D.
@@ -89,3 +113,28 @@ Una característica muy valiosa de este libro es que introduce muchas nociones n
 
 Estamos felices de que se nos haya dado un libro así debido a la revelación y de que la revelación haya ocurrido en Estados Unidos; es la única nación libre que tiene sentido razonable para aceptar esta enseñanza integral y difundirla por todo el mundo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Earlene_Green/Were_All_Connected">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estamos todos conectados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="pr-2">Ensayo fotográfico IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

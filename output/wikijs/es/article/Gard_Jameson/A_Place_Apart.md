@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Gard Jameson<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/International_Letters_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas Internacionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="pr-2">Definición del Servicio Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Por Gard Jameson**
@@ -94,3 +118,28 @@ La tierra clama por el amor divino de Dios, sin saber que ya está aquí. En nom
 > _Gard Jameson es presidente del comité de Relaciones Fraternales y ha servido en el Consejo General desde 1988. Él y su esposa, Florence, obstetra-ginecóloga, y sus dos hijos, Michael y Julia, viven en Boulder City, Nevada._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/International_Letters_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas Internacionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="pr-2">Definición del Servicio Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

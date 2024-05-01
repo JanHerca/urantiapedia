@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Claire Thurston<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atrévete a arriesgarte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC96">
+          <span class="pr-2">IC'96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Claire Thurston
@@ -112,3 +136,28 @@ Si los padres saben cómo y por qué son importantes para sus hijos, especialmen
 - Sayers, R. _Paternidad: No es lo mismo_. Larkspur, CA: Escuela Familiar Nurtury, 1983.
 - Wagner, S. et al. «Mapeo metafórico en bebés humanos». _Desarrollo Infantil_, 1981, 52, p.728-31.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atrévete a arriesgarte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC96">
+          <span class="pr-2">IC'96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

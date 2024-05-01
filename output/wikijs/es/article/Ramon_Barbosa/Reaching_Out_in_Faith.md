@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ramon Barbosa<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Definición del Servicio Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="pr-2">Fallece el último de los fideicomisarios fundadores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Por Ramón Barbosa**
@@ -50,3 +74,28 @@ El propósito de un anuncio en el periódico que plantea una pregunta que invita
 > _Ramón Barbosa es miembro de la Primera Sociedad de Los Ángeles. También forma parte del Comité de Divulgación del Sur de California, que coloca anuncios en publicaciones invitando a los interesados a responder a mensajes telefónicos pregrabados con interpretaciones personales de las enseñanzas de _El Libro de Urantia_.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Definición del Servicio Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="pr-2">Fallece el último de los fideicomisarios fundadores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

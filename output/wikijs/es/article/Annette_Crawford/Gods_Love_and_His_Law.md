@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annette Crawford<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/A_Prayer_for_Community_and_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una oración por la comunidad y el amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Notas del grupo de estudio recopiladas por Annette Crawford, Deinver, Colorado._
@@ -57,3 +78,25 @@ Números de página: | Comienza/Termina con:
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/A_Prayer_for_Community_and_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una oración por la comunidad y el amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

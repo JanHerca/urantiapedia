@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendario</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El número 3 estuvo más de dieciocho meses en producción. Algunas de las cartas que se publicaron en la sección de Lectores Internacionales eran así de antiguas. Acepte nuestras más sinceras disculpas por el retraso y tenga la seguridad de que estamos trabajando muy duro para resolver nuestros problemas de producción.
@@ -56,3 +77,25 @@ DIRECCIÓN \_\_\_\_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Calendar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendario</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

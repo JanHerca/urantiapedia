@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Jill Hull<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paternidad: Jesús como modelo paternal creativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Ascending_Currents">
+          <span class="pr-2">Corrientes ascendentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Presentado por Jill Hull, Golden, Colorado
@@ -87,3 +111,28 @@ Números de página | Comienza/termina con:
 <a id="a86_0"></a>[LU 136:9.4](/es/The_Urantia_Book/136#p9_4) | Él lo discernió/bebió.
 <a id="a87_0"></a>[LU 196:3.29](/es/The_Urantia_Book/196#p3_29) | Perspicacia religiosa/progresión espiritual.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paternidad: Jesús como modelo paternal creativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Ascending_Currents">
+          <span class="pr-2">Corrientes ascendentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

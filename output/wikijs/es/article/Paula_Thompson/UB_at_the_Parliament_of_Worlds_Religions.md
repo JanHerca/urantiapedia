@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Paula J. Thompson<br>© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupos de estudio de Arizona</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="pr-2">Disfrutando del espectáculo del Parlamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Paula J. Thompson, Boulder, Colorado
@@ -64,3 +88,28 @@ Y levantad el velo de la oscura desesperación,
 Mostradnos la maravilla de vuestra luz
 Y los muchos colores brillantes que hay allí.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupos de estudio de Arizona</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="pr-2">Disfrutando del espectáculo del Parlamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

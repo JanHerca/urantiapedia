@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annie Spiars<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la deidad y el género</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters">
+          <span class="pr-2">Cartas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Este poema es de un amigo en Florida que se encuentra en el ocaso de la vida en Urantia. Ha leído _El Libro de Urantia_ durante muchas décadas y ahora está trabajando en un proyecto sobre una persona del libro. Ella dice que el Padre la necesita. Hay mucho que hacer aquí._
@@ -52,3 +76,28 @@ Ya no deambulan nuestros pasos,
 Hacemos una pausa y descansamos de todos nuestros conflictos.
 Hasta que ÉL venga a llevarnos a casa.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la deidad y el género</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters">
+          <span class="pr-2">Cartas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

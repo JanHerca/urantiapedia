@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Art Gregory<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Annette_Crawford/Studies_In_Marriage_Home_And_Children">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudios sobre el matrimonio, el hogar y los hijos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annette_Crawford/Mother_Of_My_Soul">
+          <span class="pr-2">Madre de mi alma...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Un estudio de actualidad de Art Gregory, Great Barrington, Massachusetts_
@@ -27,3 +51,28 @@ _El Libro de Urantia_ revela que, mientras los serafines se preparan para oscila
 
 Fue en medio de tal visión que «la palabra del Señor» descendió sobre Ezequiel, proporcionándole profecías que cubrían un período de veintidós años. ¿Podría ser que esta visita profética fuera iniciada por un personaje traído a Urantia mediante transporte seráfico?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Annette_Crawford/Studies_In_Marriage_Home_And_Children">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudios sobre el matrimonio, el hogar y los hijos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annette_Crawford/Mother_Of_My_Soul">
+          <span class="pr-2">Madre de mi alma...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

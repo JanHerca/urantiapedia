@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_9">
+          <span class="pr-2">Cartas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -62,3 +83,25 @@ Gracias a Patricia Fearey, Chuck Thurston, Stephen Zendt y todos los demás invo
 
 Me gustaría compartir con ustedes una historia sobre el artículo de un periódico de Colombia que aparece en la página 22. El artículo, publicado en español, se envió dentro del plazo. En ese mismo momento estaba entablando amistad con Luis Camacho, un residente del área de Tampa Bay que nació y creció en Puerto Rico. El español es el primer idioma de Luis. Su introducción al Libro de Urantia se produjo en la traducción de este artículo al inglés. Me dictaba una frase traducida y luego se detenía, se sentaba y leía el artículo, se acariciaba la barbilla y exclamaba: «¿Esto es real? Fresco. ¿Qué es este libro?» Me encanta cómo los ángeles nos ponen a trabajar. Y gracias, Luis, por tu ayuda y el espíritu de amoroso servicio que ejemplificas en tu vida.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_9">
+          <span class="pr-2">Cartas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

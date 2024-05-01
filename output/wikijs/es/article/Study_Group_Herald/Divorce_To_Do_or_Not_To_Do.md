@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La carga de la canasta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="pr-2">Hombres y mujeres en colaboración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -52,3 +76,28 @@ El divorcio fue una situación que Jesús no experimentó. No creo que él algun
 
 Puedo oír a mi padre decir: «No te tomes tan en serio. Eres sólo un bebé a los ojos de Dios y Él te comprende».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La carga de la canasta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="pr-2">Hombres y mujeres en colaboración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

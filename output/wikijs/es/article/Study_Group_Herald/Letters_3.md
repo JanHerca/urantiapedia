@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marta_and_Dave_Elders/The_Soul_As_The_Entrance_Into_True_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El alma como entrada a la verdadera comunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds_2">
+          <span class="pr-2">Clasificados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 12 de marzo de 1992
@@ -290,3 +314,28 @@ Garretson, Dakota del Sur 57030
 > Nota del Ed.: _El SQUARE PEG JOURNAL, que apareció en las Revistas del Movimiento de nuestro último número, ha sido descontinuado. Mary Daly, la editora, todavía ofrece números anteriores a quienes estén interesados.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marta_and_Dave_Elders/The_Soul_As_The_Entrance_Into_True_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El alma como entrada a la verdadera comunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds_2">
+          <span class="pr-2">Clasificados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

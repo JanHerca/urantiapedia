@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/The_Grapevine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Ascending_Currents">
+          <span class="pr-2">Corrientes ascendentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Nota del editor: _Para considerar una donación de \$20 a The Study Group Herald, hasta una pulgada de columna de esta sección estará disponible para su notificación. El tamaño máximo de los avisos es de 2-1/2 pulgadas. Envíe todos los avisos con sus donaciones a The Study Group Herald, 529 Wrightwood Ave., Chicago, IL 60614. Haga sus cheques a nombre de Fellowship._
@@ -77,3 +101,28 @@ Grupos de Estudio de _El Libro de Urantia_:
 
 **Libro de colorear espiritual** para niños. Llame a Good Cheer Press al 1 (800) 767-5683.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/The_Grapevine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Ascending_Currents">
+          <span class="pr-2">Corrientes ascendentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El aborto y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="pr-2">Definiciones y referencias adicionales del Gobierno Planetario de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Necesitamos su ayuda para establecer servicios para los lectores de _El Libro de Urantia_ para promover experiencias familiares de calidad. Este trabajo está patrocinado por el comité ad hoc de Vida Familiar de The Fellowship en respuesta a consultas sobre recursos y programas especiales desarrollados para familias lectoras del Libro de Urantia.
@@ -135,3 +159,28 @@ EE.UU.
 <img src="/image/article/Study_Group_Herald/father2.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El aborto y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="pr-2">Definiciones y referencias adicionales del Gobierno Planetario de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

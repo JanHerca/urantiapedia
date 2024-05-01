@@ -10,6 +10,30 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Mark Kulieke<br>© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El otorgamiento de Melquisedec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="pr-2">Para los adolescentes, es un mundo diferente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Mark Kulieke, Green Bay, Wisconsin
@@ -48,3 +72,28 @@ Por ejemplo, considero la siguiente declaración de origen sobrehumano como est�
 
 Este material no pertenecía al libro. La mayor parte trataba de cómo hacer realidad el libro, cómo manejarlo, cómo publicarlo y, después de su publicación, cómo formar y tratar con grupos relacionados con el libro. La mayor parte estaba limitada por el tiempo, de ahí su destrucción en diferentes momentos durante los últimos 40 años aproximadamente. Conozco al menos tres o cuatro momentos en los que esta guía sobrehumana fue destruida; el último fue en 1982, cuando murió el último miembro de la Comisión de Contacto. Sólo han sobrevivido unos pocos fragmentos citados con frecuencia.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El otorgamiento de Melquisedec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="pr-2">Para los adolescentes, es un mundo diferente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

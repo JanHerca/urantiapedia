@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dan Massey<br>© 1997 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ensayo fotográfico IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="pr-2">Tres R: Relación, Religión y Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Dan Massey
@@ -46,3 +70,28 @@ La información de inscripción se enviará por correo a principios de la primav
 
 Para obtener más información, comuníquese con la Fellowship, 529 Wrightwood Avenue, Chicago, IL 60614, (773) 327-0424, (773) 327-6159 Fax.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ensayo fotográfico IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="pr-2">Tres R: Relación, Religión y Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

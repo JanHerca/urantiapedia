@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 John Hyde<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rituales y celebraciones familiares</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Paternidad: Jesús como modelo paternal creativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Reportado por John Hyde, Richardson, Texas_
@@ -37,3 +61,28 @@ Carol Hay de Boulder, Colorado, siempre una animadora bienvenida en las reunione
 <figcaption><em>Karen y Tom Allen</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rituales y celebraciones familiares</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Paternidad: Jesús como modelo paternal creativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

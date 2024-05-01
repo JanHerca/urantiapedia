@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Melissa_Wells/Initial_Thoughts">
+          <span class="pr-2">Pensamientos iniciales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Número 5. Para lectores de _El libro de Urantia_. Otoño de 1994
@@ -61,3 +82,25 @@ Asesor editorial | Daniel Massey
 
 La Fellowship publica The Study Group Herald dos veces al año. Las citas proceden de _El Libro de Urantia_ a menos que se indique lo contrario. Todas las opiniones expresadas aquí son las de los autores y no representan políticas de The Fellowship o del personal editorial. Envíe materiales escritos, obras de arte, anuncios clasificados, anuncios o donaciones para sufragar los costos de publicación a Study Group Herald, The Fellowship. 529 Wrightwood Avenue, Chicago, IL 60614.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Melissa_Wells/Initial_Thoughts">
+          <span class="pr-2">Pensamientos iniciales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

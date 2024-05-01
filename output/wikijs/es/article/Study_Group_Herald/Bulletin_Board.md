@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clasificados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/A_Prayer_for_Community_and_Love">
+          <span class="pr-2">Una oración por la comunidad y el amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Los avisos se publican sin costo alguno sujeto a la discreción del personal editorial. Escriba el tablón de anuncios STUDY GROUP HERALD, 529 Wrightroood Avenue, Chicago, IL 60614._
@@ -33,3 +57,28 @@ _Los avisos se publican sin costo alguno sujeto a la discreción del personal ed
 
 **BUSCAMOS UNA FAMILIA CON LOS PIES EN LA TIERRA** para compartir nuestra tierra en las montañas del norte de Nuevo México y ayudarnos a iniciar un pequeño campamento para atender a los adolescentes necesitados. Prefiera personas que comprendan _El Libro de Urantia_ y que estén orientadas al servicio y en contacto con el mundo natural. Póngase en contacto con Mary Steigerwald, P.O. Caja 16, Ojo Sarco, NM 87550.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clasificados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/A_Prayer_for_Community_and_Love">
+          <span class="pr-2">Una oración por la comunidad y el amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

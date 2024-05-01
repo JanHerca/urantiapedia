@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Lissa & Douglas Parker, Janet Amold, John Graves y Judith Mace<br>© 1994 The Fellowship para lectores de The El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hombres y mujeres en colaboración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Family_Life_Values_Survey">
+          <span class="pr-2">Encuesta sobre valores de la vida familiar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por el Grupo de Estudio de Lincoln City, Oregon:
@@ -45,3 +69,28 @@ Los siguientes extractos de _El Libro de Urantia_, designados por página y pár
 <img src="/image/article/Study_Group_Herald/consulting.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hombres y mujeres en colaboración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Family_Life_Values_Survey">
+          <span class="pr-2">Encuesta sobre valores de la vida familiar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

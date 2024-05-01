@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Definiciones y referencias adicionales del Gobierno Planetario de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">El Libro de Urantia en el Parlamento de las Religiones del Mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Saludos, compañeros lectores de la Quinta Revelación de Época. Con esta edición de The Study Group Herald, nos reuniremos con los grupos de estudio en Arizona. Este estado es el hogar de la Sociedad de la Fellowship del Gran Cañón. Y, a medida que lea acerca de cada grupo de estudio en este estado del sudoeste, verá que los grupos no sólo están bien establecidos sino que son muy activos en sus esfuerzos por promover _El Libro de Urantia_.
@@ -135,3 +159,28 @@ Hemos estado en el grupo desde septiembre de 1993. Algunas personas han leído e
 
 Hemos suministrado varios libros a las librerías, pero no realizamos ningún reclutamiento activo. No tenemos un líder formal, aunque varios de los lectores veteranos ciertamente entienden mejor los problemas que el resto de nosotros.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Definiciones y referencias adicionales del Gobierno Planetario de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">El Libro de Urantia en el Parlamento de las Religiones del Mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Michael Gillespie, Robin Robinson y Melissa Wells<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Consejo General se reúne en San Francisco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Dateline">
+          <span class="pr-2">Fecha límite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «... la fe del hombre nacido del espíritu confiere la seguridad de una comunión viva con el Dios eterno». _El Libro de Urantia_ <a id="a13_128"></a>[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)
@@ -123,3 +147,28 @@ Los planes para eventos y entretenimiento aún están tomando forma. Siegel soli
 
 Para aquellos que estén interesados en esta oportunidad de servicio, pueden comunicarse con Siegel al (303) 447-0212, preferiblemente de lunes a viernes entre las 9:30 y las 11 a. m. (hora de las Montañas Rocosas).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Consejo General se reúne en San Francisco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Dateline">
+          <span class="pr-2">Fecha límite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

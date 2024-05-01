@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Mark Kulieke<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Annette_Crawford/Mother_Of_My_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Madre de mi alma...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Lighten_Life_News_01">
+          <span class="pr-2">Noticias de Lighten Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Mark Kulieke, Greenbay, Wisconsin_
@@ -33,3 +57,28 @@ Envolver la historia de esta revelación en el misterio probablemente ya haya cr
 
 NACIMIENTO DE UNA REVELACIÓN se puede solicitar a Mark Kulieke, P.O. Caja 9343, Green Bay, WI 54308-9343. El costo es de $5.00 más $1.25 por gastos de envío y manejo. Los ingresos netos de la venta de esta edición se destinarán a futuras ediciones, a una presentación en vídeo de esta historia y al desarrollo de una biblioteca de materiales relacionados con el movimiento Urantia.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Annette_Crawford/Mother_Of_My_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Madre de mi alma...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Lighten_Life_News_01">
+          <span class="pr-2">Noticias de Lighten Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

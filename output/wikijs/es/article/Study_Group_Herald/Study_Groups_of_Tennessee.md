@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/What_Does_Urantia_Mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué significa Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Farrington/Divine_Nature">
+          <span class="pr-2">Naturaleza Divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Valle de Watauga
@@ -148,3 +172,28 @@ Cuando la Fundación Urantia y la entonces Hermandad se dividieron, la mayoría 
 <img src="/image/article/Study_Group_Herald/watercan.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/What_Does_Urantia_Mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué significa Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Farrington/Divine_Nature">
+          <span class="pr-2">Naturaleza Divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

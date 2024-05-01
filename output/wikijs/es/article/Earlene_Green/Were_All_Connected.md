@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Earlene Green<br>© 1997 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fe hace todas las cosas posibles y el amor las hace hermosas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="pr-2">El libro de Urantia en Lituania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Earlene Green
@@ -82,3 +106,28 @@ cualquiera que sean vuestras razas,
 Quien sirve a mi Padre como un hijo seguramente sea
 pariente mío.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fe hace todas las cosas posibles y el amor las hace hermosas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#invierno-1997-vol-6-no-9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Vol. 6 No. 9 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="pr-2">El libro de Urantia en Lituania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

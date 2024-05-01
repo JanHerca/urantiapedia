@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tablero de anuncios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="pr-2">El otorgamiento de Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos lectores,
@@ -133,3 +157,28 @@ Quiero finalizar esta nota compartiendo con ustedes la forma en que rezamos el P
 
 «Padre Nuestro, que estas en el cielo, santificado sea tu Nombre, venga a nos Tu reino, hagase tu voluntad así en la tierra como en el cielo. El pan nuestro de cada día, danosle hoy. Perdona nuestras duedas así como nosotros perdonamos a nuestros deudores. No nos dejes caer en tentación, mas libranos del mal, porque Tuyo es el poder, el reino y la gloria por los siglos de los siglos. Amén.»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tablero de anuncios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="pr-2">El otorgamiento de Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

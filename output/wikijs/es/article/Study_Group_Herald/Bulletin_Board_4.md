@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas al Herald</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/International_Letters">
+          <span class="pr-2">Cartas Internacionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **El Programa FLORES** de The Fellowship echará una mano a grupos de lectores de _El Libro de Urantia_ que deseen participar en programas de extensión. Si está interesado, escriba a Fellowship, 529 Wrightwood Ave., Chicago, IL 60614.
@@ -57,3 +81,28 @@ Cinta 7: _Celebración del cumpleaños número 2000 de Jesús_
 
 Cinta 8: _La vida al borde de la eternidad_ de Dan Young; _Celebración del 2.000 cumpleaños de Jesús; Clausura_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas al Herald</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/International_Letters">
+          <span class="pr-2">Cartas Internacionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annette Crawford<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visión de los ángeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/A_History_of_the_Urantia_Papers">
+          <span class="pr-2">Una historia de los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Notas del grupo de estudio recopiladas por Annette Crawford, Denver, Colorado_
@@ -63,3 +87,28 @@ Puede que nunca seamos infinitamente perfectos, pero, de hecho, podemos ser huma
 La mente mortal al servicio únicamente del mundo material se volverá cada vez más material y con el tiempo sufrirá la terminación de su personalidad. ||
 La supervivencia se logra ajustando la voluntad humana y transformando la mente mortal de modo que el intelecto consciente de Dios pueda ser enseñado y guiado por el espíritu. ||
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visión de los ángeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/A_History_of_the_Urantia_Papers">
+          <span class="pr-2">Una historia de los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

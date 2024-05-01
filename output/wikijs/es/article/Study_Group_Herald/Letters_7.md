@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Issue_Content_1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald - Contenido del número, verano de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="pr-2">El Consejo General se reúne en San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -36,3 +60,28 @@ Se podría pensar que, de todos los movimientos en Urantia, el nuestro sería el
 _Richard Warren_
 _Fort Worth, Texas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Issue_Content_1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald - Contenido del número, verano de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="pr-2">El Consejo General se reúne en San Francisco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

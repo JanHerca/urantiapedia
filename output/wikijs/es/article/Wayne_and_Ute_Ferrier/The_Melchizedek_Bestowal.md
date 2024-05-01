@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Wayne y Ute Ferrier<br>© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/International_Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas Internacionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="pr-2">Sobre Instrucciones o Mandatos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Wayne y Ute Ferrier, Wiliamsport, Pensilvania
@@ -101,3 +125,28 @@ Jesús se basó en la herencia de las enseñanzas de Melquisedec cuando instruy�
 - Vriezen, Th. C.: _The Religion of Ancient Israel_. Philadelphia: Westminster Press, 1967; pg. 24, 109, 181.
 - Bible: [Gen. 14:18-20](/en/Bible/Genesis/14#v18); [Heb. 5:5-10](/en/Bible/Hebrews/5#v5); [Heb. 6:20](/en/Bible/Hebrews/6#v20); [Heb. 7:1-3, 17, 21](/en/Bible/Hebrews/7#v1); [Psalms 110:4](/en/Bible/Psalms/110#v4); [Psalms 76:2](/en/Bible/Psalms/76#v2).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/International_Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas Internacionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="pr-2">Sobre Instrucciones o Mandatos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

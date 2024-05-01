@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Who_and_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién y cómo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="pr-2">Tablero de anuncios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Estoy interesado en establecer contactos con otros lectores y me preguntaba si hay alguna forma de obtener las direcciones de lectores de todo el mundo. Sería bueno si The Herald pudiera vincular a las personas para una interacción personal e intelectual. Esto fortalecería y catalizaría el crecimiento de esta comunidad espiritual.
@@ -90,3 +114,28 @@ _Tom Maringer_
 _2692 South Powerll Street_
 _Springdale, Alaska 72764_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Who_and_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién y cómo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="pr-2">Tablero de anuncios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

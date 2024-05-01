@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annette Crawford<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/The_Study_Groups_Around_Oklahoma_City">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los grupos de estudio en la ciudad de Oklahoma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="pr-2">Una visión de los ángeles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Un estudio temático elaborado por Annette Crawford de Denver, Colorado <br> con una introducción de Martin Greenhut, Monterey, Massachusetts_
@@ -49,3 +73,28 @@ Números de página: | Comienza/termina con:
 <a id="a48_0"></a>[LU 84:7.27-30](/es/The_Urantia_Book/84#p7_27) | Matrimonio/hijos del universo.
 <a id="a49_0"></a>[LU 84:8.2-6](/es/The_Urantia_Book/84#p8_2) | 8\. PELIGROS/de supervivencia.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/The_Study_Groups_Around_Oklahoma_City">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los grupos de estudio en la ciudad de Oklahoma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="pr-2">Una visión de los ángeles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

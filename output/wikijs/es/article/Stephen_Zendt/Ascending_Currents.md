@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Stephen Zendt<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudios para tiempos convulsos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/An_Interview_with_Clyde_Bedell">
+          <span class="pr-2">Una entrevista con Clyde Bedell. Reminiscencias de uno de los primeros miembros del foro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Stephen Zendt_
@@ -87,3 +111,28 @@ Jay Newbern, Santa Rosa, California
 (reimpreso de «The Circles» Primavera-Verano 1988)
 </p>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudios para tiempos convulsos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/An_Interview_with_Clyde_Bedell">
+          <span class="pr-2">Una entrevista con Clyde Bedell. Reminiscencias de uno de los primeros miembros del foro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

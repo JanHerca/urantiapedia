@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Dianna Padgett<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendario de eventos de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Touch_the_World">
+          <span class="pr-2">Toca el mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Dianna Padgett, Culpeper, Virginia_
@@ -33,6 +57,31 @@ El Hijo Eterno es la focalización de la Personalidad Infinada en la personalida
 En nuestra psique, según Jung, el _animus_ representa el varón interior, «... el lado positivo del animus puede personificar un espíritu emprendedor, coraje, veracidad y, en la forma más elevada, profundidad espiritual». (_El hombre y sus símbolos_, C.Jung) Toma la forma de convicciones sagradas. Es el núcleo de un individuo el que se focaliza en una «verdad» a la que aspira. Es el patrón (Segunda Fuente y Centro) del alma formadora que se aplica a la existencia física del individuo mediante el proceso determinado por el ánima (Tercera Fuente y Centro) y en el entorno de la personalidad del individuo (Primera Fuente y Centro). Cristo es un modelo a seguir para el alma equilibrada. Él es nuestra «Palabra» del «concepto» del Padre. (<a id="a32_741"></a>[LU 182:1.9](/es/The_Urantia_Book/182#p1_9)) Para seguir su ejemplo, para continuar el patrón que él estableció, debemos, por lo tanto, emular la belleza más elevada que conocemos, tomándola como nuestro patrón. Cuando Cristo habla a un individuo, no impone su patrón a esa persona ni la menosprecia por no entender. Él le da a esa persona aquello para lo que está maduro su potencial. Él regala según la necesidad del individuo. El aspecto masculino (verdad) y el aspecto femenino (aplicación) de Cristo están equilibrados. «Jesús de Nazaret logró el conocimiento y el hacer de la voluntad de Dios». (<a id="a32_1343"></a>[LU 196:1.1](/es/The_Urantia_Book/196#p1_1))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendario de eventos de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Touch_the_World">
+          <span class="pr-2">Toca el mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

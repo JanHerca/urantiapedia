@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Cece Forrester<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje a mi alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="pr-2">Sobre la deidad y el género</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cece Forrester, Chicago, Illinois_
@@ -45,3 +69,28 @@ El SQUARE PEG JOURNAL afirma que no pretende hacer prosiletismo ni a los no lect
 
 Los lectores interesados pueden escribir para obtener más información a: Square Peg Printers, Route 2, Garretson, SD 57030, EE. UU.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chilufya_M_K_Thompson/Message_to_my_soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje a mi alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="pr-2">Sobre la deidad y el género</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

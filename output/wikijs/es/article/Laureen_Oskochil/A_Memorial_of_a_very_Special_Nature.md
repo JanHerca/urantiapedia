@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Laureen Oskochil<br>© 1993 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuidando a un padre anciano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="pr-2">Una experiencia con mi padre en un asilo de ancianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Laureen Oskochil, Portland, Oregón_
@@ -43,3 +67,28 @@ Namaste - (El fragmento de Dios en mí saluda al fragmento de Dios en ti).
 <figcaption><em>‘Servicio de dispersión’ en el mar. Memorial de Joseph William Oskochil, 13 de septiembre de 1915-3 de noviembre de 1990</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuidando a un padre anciano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="pr-2">Una experiencia con mi padre en un asilo de ancianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

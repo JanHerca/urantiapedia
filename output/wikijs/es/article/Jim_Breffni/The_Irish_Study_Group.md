@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Jim Breffni<br>© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hechos de Expedientes Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_2">
+          <span class="pr-2">Cartas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Jim Breffni, Irlanda del Norte_
@@ -37,3 +61,28 @@ Los problemas particulares de Irlanda del Norte nos han llevado a examinar cuida
 <a id="a36_0"></a>[LU 99:0.2](/es/The_Urantia_Book/99#p0_2) | Pero los requisitos religiosos/culturales
 <a id="a37_0"></a>[LU 133:1.4](/es/The_Urantia_Book/133#p1_4) | Ganid, yo/al contrario.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hechos de Expedientes Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters_2">
+          <span class="pr-2">Cartas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

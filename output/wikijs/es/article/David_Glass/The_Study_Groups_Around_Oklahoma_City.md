@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 David Glass<br>© 1991 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Issue_Content_1991_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald - Contenido del número, diciembre de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annette_Crawford/Studies_In_Marriage_Home_And_Children">
+          <span class="pr-2">Estudios sobre el matrimonio, el hogar y los hijos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Informe de David Glass, Fort Worth, Texas_
@@ -86,3 +110,28 @@ Otro líder de la Sociedad de Oklahoma que realiza un trabajo tan creativo y que
 
 Además de sus muchos logros, los miembros de la Sociedad de Oklahoma irradian una actitud acogedora y acogedora hacia todos los que vienen a conocerlos y tener compañerismo con ellos, sea cual sea la ocasión. Tom Allen, actual presidente de la Primera Sociedad de Oklahoma, extiende su invitación a todos los lectores a visitar el grupo de Oklahoma siempre que sea posible. Berkeley es una anfitriona muy agradable y siempre se asegura de que los recién llegados y los invitados sean presentados al círculo de estos gregarios lectores. Tal hospitalidad y calidez dan evidencia clara de que el servicio cooperativo es transformador y que el amor genuino es contagioso duradero y también suscita afecto mutuo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Issue_Content_1991_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald - Contenido del número, diciembre de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annette_Crawford/Studies_In_Marriage_Home_And_Children">
+          <span class="pr-2">Estudios sobre el matrimonio, el hogar y los hijos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

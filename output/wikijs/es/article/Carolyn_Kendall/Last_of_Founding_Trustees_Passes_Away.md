@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alcanzando la fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="pr-2">Preparándose para IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Por Carolyn Kendall**
@@ -41,3 +65,28 @@ Hales nació en Oak Park, Illinois, hijo de G. Willard y Carrie Hales. Ambos pad
 
 La carrera empresarial de Hales transcurrió en Hales and Hunter, un fabricante de piensos para animales. La empresa fue fundada por su padre y Hales ocupó cargos como secretario, tesorero, presidente y director ejecutivo, y se jubiló en 1969. Hales fue fideicomisario vitalicio de Beloit College (desde 1939) y recibió un título honorífico de Doctor en Derecho en 1989. 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alcanzando la fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="pr-2">Preparándose para IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Joan Biek<br>© 1993 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pide y recibirás</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="pr-2">Un Memorial de carácter muy especial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Joan Biek, Middleton, Wisconsin_
@@ -49,3 +73,28 @@ El fin de semana pasado, mi madre y yo oramos juntas mientras la acostaba en la 
 
 <br style="clear:both;"/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pide y recibirás</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="pr-2">Un Memorial de carácter muy especial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

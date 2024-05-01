@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Melissa Wells<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fallece el último de los fideicomisarios fundadores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="pr-2">Jesús: el hombre, el héroe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -62,3 +86,28 @@ La conferencia concluirá con el espíritu hogareño de Occidente con una feria 
 
 Si desea recibir más información sobre IC 96, comuníquese con The Fellowship, 529 Wrightwood Ave., Chicago, IL 60614, (312) 3270424 o fax (312) 327-6159.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fallece el último de los fideicomisarios fundadores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="pr-2">Jesús: el hombre, el héroe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

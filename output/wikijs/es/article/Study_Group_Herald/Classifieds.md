@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 La Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board">
+          <span class="pr-2">Tablero de anuncios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Con la aprobación del personal editorial y para la consideración de una donación de $20.00 al STUDY GROUP HERALD, una pulgada de columna de esta sección clasificada estará disponible para sus avisos. El tamaño máximo para avisos es de 2 ½ ½; pulgadas. Envíe todos los avisos con donaciones a The Study Group Herald, 529 Wrightwood Avenue, Chicago IL 60614. Haga los cheques a nombre de The FELLOWSHIP._
@@ -49,3 +73,28 @@ La **GUÍA DE RECURSOS** para obras secundarias de _El Libro de Urantia_ ya est�
 
 **YA DISPONIBLE. EL NACIMIENTO DE UNA REVELACIÓN**, La historia de los documentos de Urantia Por Mark Kulieke. Comuníquese con Mark por teléfono (414)465-9864 o envíe \$6.25 a Mark Kulieke, P.O. Caja 9343, Green Bay, WI 54308-9343.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cartas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1991-vol-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1991 — Vol. 1 No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Bulletin_Board">
+          <span class="pr-2">Tablero de anuncios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

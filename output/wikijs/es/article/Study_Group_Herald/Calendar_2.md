@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Graduation_of_Ruth_E_Renn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduación de Ruth E. Renn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - 18 de mayo de 1996, Conferencia del Día de la Ascensión, Oklahoma City, OK. Patrocinado por la Primera Sociedad de Oklahoma. Contacto: Tom y Karen Allen (405) 722-7691.
@@ -73,3 +94,25 @@ Envíe por fax sus pedidos pagados con tarjeta de crédito hoy al (312) 327-6159
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Graduation_of_Ruth_E_Renn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduación de Ruth E. Renn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#verano-1996-vol-6-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1996 — Vol. 6 No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Deborah Foster<br>© 1996 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/2000th_Birthday_Party">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fiesta de cumpleaños número 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/What_Does_Urantia_Mean">
+          <span class="pr-2">¿Qué significa Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Por Déborah Foster**
@@ -97,6 +121,31 @@ A veces ver no es creer; muchas veces es necesario creer para ver. Si Galileo en
 Esto es perfectamente natural y sigue el curso del cambio a lo largo de la historia siempre que ese cambio requiera grandes cambios en las percepciones de la realidad. Dudo que los autores de _El Libro de Urantia_ nos hubieran dado información tan detallada sobre los que no respiran a menos que supieran que algún día nos encontraríamos. La pregunta es ¿ya nos encontraron? Pero esa es otra historia.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/2000th_Birthday_Party">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fiesta de cumpleaños número 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#winter-1996-vol-6-no-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 1996 — Vol. 6 No. 8 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wayne_and_Ute_Ferrier/What_Does_Urantia_Mean">
+          <span class="pr-2">¿Qué significa Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Bibliografía
 

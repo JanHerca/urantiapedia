@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Mark Kulieke<br>© 1993 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una carta desde el estado de Nueva York</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="pr-2">Pide y recibirás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Mark Kulieke, Green Bay, Wisconsin_
@@ -63,3 +87,28 @@ _(Partes de este artículo están modeladas a partir de una característica reci
 <figcaption><em>Dr. Sadler, Art y Sandra Burch con un pastel de cumpleaños de 81 velas.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una carta desde el estado de Nueva York</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#agosto-1993-vol-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Agosto 1993 — Vol. 3 No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="pr-2">Pide y recibirás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

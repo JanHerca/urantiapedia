@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clasificados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="pr-2">Calendario de eventos de 1992</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **LO DESTACADO DE 1993**, «Tocar el mundo», la Conferencia Internacional de La Fellowship para lectores de _El Libro de Urantia_ que se celebrará cerca de Montreal, Canadá. Los coordinadores de la conferencia buscan sus talentos y tiempo para ayudar en esta primera conferencia fuera de los EE. UU. Escriba o llame a The Fellowship 529 Wrightwood Ave. Chicago, IL 60614. (312)327-0424.
@@ -61,3 +85,28 @@ Esta Conferencia del 93 albergará dos actividades previas a la Conferencia:
 - Retiro previo a la Conferencia «Aventuras en la vida espiritual», 28 al 30 de julio de 1993, Montreal, Canadá.
 - «Interludio Espiritual», 28-30 de julio de 1993. Detalles por publicar.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Study_Group_Herald/Classifieds_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Clasificados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#diciembre-1992-vol-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre 1992 — Vol. 2 No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="pr-2">Calendario de eventos de 1992</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

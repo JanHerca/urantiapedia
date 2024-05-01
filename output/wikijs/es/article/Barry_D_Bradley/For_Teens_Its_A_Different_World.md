@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Barry D. Bradley<br>© 1994 The Fellowship para lectores de El libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre Instrucciones o Mandatos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="pr-2">¿Quién dice que la guardería no puede ser divertida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Barry D. Bradley, Largo, Florida
@@ -173,3 +197,28 @@ J.D.: Yo no me habría involucrado con una pandilla. Y no habría negado la mita
 
 BECKY: Cambiaría mi forma de hacerlo en la escuela. Sé que puedo hacerlo, pero soy demasiado vago. Este año lo voy a hacer mejor.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre Instrucciones o Mandatos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_study_group_herald#otoño-1994-vol-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1994 — Vol. 4 No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="pr-2">¿Quién dice que la guardería no puede ser divertida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
