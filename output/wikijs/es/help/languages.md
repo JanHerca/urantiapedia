@@ -89,7 +89,7 @@ https://en.wikipedia.org/wiki/Quotation_mark
 
 ## Abreviaturas bíblicas
 
-Las abreviaturas bíblicas deben registrarse en las *Urantiapedia Tools* para poder usar en los procesos de conversión. Each un vistazo aquí: [Abreviaturas](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). El código contiene un objeto JavaScript que contiene para cada idioma una lista de abreviaturas, el título de cada libro bíblico, y la ruta en la Urantiapedia para el libro.
+Las abreviaturas bíblicas deben registrarse en las *Urantiapedia Tools* para poder usar en los procesos de conversión. Echa un vistazo aquí: [Abreviaturas](https://github.com/JanHerca/urantiapedia/blob/master/app/abb.js). El código contiene un objeto JavaScript que contiene para cada idioma una lista de abreviaturas, el título de cada libro bíblico, y la ruta en la Urantiapedia para el libro.
 
 ## Traductores online
 

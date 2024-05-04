@@ -148,24 +148,24 @@ La siguiente tabla no está completa. Hay más sitios web que estamos consideran
 | ---------------------------- | ---------: | :----------------: | :----------------: | :----------------: |
 | The Urantia Foundation       |            |                    |                    |                    |
 | - News Online                | 640        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - News Flash                 |  24        | :heavy_check_mark: |                    |                    |
-| - Urantian                   |  63        | :heavy_check_mark: |                    |                    |
+| - News Flash                 |  24        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - Urantian                   |  63        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Fellowship                   |            |                    |                    |                    |
 | - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - Study Group Herald         | 129        | :heavy_check_mark: |                    |                    |
+| - Study Group Herald         | 129        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | - The Urantian               | 264        | :heavy_check_mark: |                    |                    |
 | IUA                          |            |                    |                    |                    |
 | - Journal                    |  99        | :heavy_check_mark: |                    |                    |
 | - Tidings                    | 364        | :heavy_check_mark: |                    |                    |
 | Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Spiritual Fellowship Journal | 400        | :heavy_check_mark: |                    | :heavy_check_mark: |
+| Spiritual Fellowship Journal | 400        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spain Association            |            |                    |                    |                    |
 | - Luz y Vida                 | 337        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - Website                    | 100        |                    |                    |                    |
 | ANZURA Association           |            |                    |                    |                    |
 | - 6-0-6                      | 257        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - The Arena                  | 108        | :heavy_check_mark: |                    |                    |
+| - The Arena                  | 108        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | French Association           |            |                    |                    |                    |
 | - CERDH - The Letter         | 90         |                    |                    |                    |
 | - Le Lien                    | 600        |                    |                    |                    |
