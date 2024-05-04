@@ -40,37 +40,37 @@ One of the miracles of our relationship with the heavenly Father is that in bare
 
 I want to focus on a few practical attitudes of daily living which can constantly remind us of the miracle of our existence and of the endless possibilities which are consequent upon our individual choosing to do his will. I will begin by listing a few things I have learned in the midst of my own struggles.
 
-“ C ”- Chances
+## “ C ” — Chances
 
 There is nothing that can “happen” to us during this earthly life that, of itself, can in any way impede our spiritual progress. In fact, it's the other way around. The events of life are opportunities for growth. It is our attitude toward the so-called problems of life which determine their growth potential for us. Spiritual progress is entirely in our hands. Can you imagine making any headway without challenges?
 
-## " H^{\Prime \Prime} — Habits
+## “H” — Habits
 
 Habits, even unconsciously done, can be used to assist us in the quest for personal spiritual fulfillment. I believe we can establish neural pathways of positive response to external stimuli that will promote growth. Our heavenly Father has not designed an ascension plan that has negative feedback loops built into it. The opposite is true if we choose to look for them.
 
-“A”-Alert
+## “A” — Alert
 
 We can ask our Thought Adjuster to help us to be alert to those opportunities in which growth is possible. We are taught that it is our own free will which reigns supreme in the making of spiritual choices, but I have concluded we can each make a pre-fusion choice to grant our Thought Adjusters the right to intervene in order to remind us of what is really important at that moment.
 
-“N”-Now
+## “N” — Now
 
 I cannot find God tomorrow, nor shall I find him in yesterday. I can only find him as a living reality today, at this moment.
 
-## " G^{\Prime \Prime}- God's Will
+## “G” — God's Will
 
-I am convinced that _The Urantia Book_ is right when it declares that “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God-with the very God who has made such a creature life of inner meaning-value possible.” (1221) I want to emphasize for you the words crature willingness.
+I am convinced that _The Urantia Book_ is right when it declares that “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God-with the very God who has made such a creature life of inner meaning-value possible.” ([UB 111:5.1](/en/The_Urantia_Book/111#p5_1)) I want to emphasize for you the words crature willingness.
 
 ## “E” — Ego
 
 Our egos can severely impair our ability to see the light which shines forth constantly from the First Source and Center. I liken the ego to the mindal equivalent of the material body. It does serve a purpose during this life, but its current essence is material; nonetheless it can be transmuted.
 
-## “S”-School
+## “S” — School
 
 _The Urantia Book_ teaches us that the mansion worlds are more like training schools. It occurs to me that the earthly sojourn is no less a school, too! I have found it helpful to look at life's events as assignments designed to serve a purpose in this life and the next as educational opportunities and experiences. Assignments ignored or done half-heartedly are lost opportunities which we may regret having forgone when at some future time we are part of a team of ascenders charged with fulfilling some project in Orvonton.
 
 Before continuing, I would like to summarize these C.H.A.N.G.E.S.:
 
-- Chance)-Life's events are growth opportunities.
+- C(hance)-Life's events are growth opportunities.
 - H(abits) — Growth habits can be developed.
 - A(djuster)-Thought Adjuster can help us be alert to spiritual opportunities.
 - N(ow)-You can only find God in the present.
@@ -78,8 +78,7 @@ Before continuing, I would like to summarize these C.H.A.N.G.E.S.:
 - E(go)-Ego can be transmuted.
 - S(chool)-Earth is a school for mortals.
 
-_The Urantia Book_ begins and ends with reference to the fatherhood of God. Jesus teaches us that the brotherhood of man is a consequence of this fact. Both of these realities require the existence of individual God-seeking mortals for their fulfillment as fact in time and space. There can be no father without children, there can be no brotherhood without brothers and sisters. Each of us has a responsibility to do our part as best we can as children of God. Our responsibility starts within our own minds wherein are bred the attitudes of life which will make us increasingly more conscious of our important place in the cosmic plan. After all, there is no other personality quite like any of us who can interpret God's love to
-others in exactly the same way. While God is no respecter of persons in that he puts no one of us ahead of the other in his love, there is, nonetheless, something special about each of us that no other can provide. I want to emphasize that we do have a responsibility.
+_The Urantia Book_ begins and ends with reference to the fatherhood of God. Jesus teaches us that the brotherhood of man is a consequence of this fact. Both of these realities require the existence of individual God-seeking mortals for their fulfillment as fact in time and space. There can be no father without children, there can be no brotherhood without brothers and sisters. Each of us has a responsibility to do our part as best we can as children of God. Our responsibility starts within our own minds wherein are bred the attitudes of life which will make us increasingly more conscious of our important place in the cosmic plan. After all, there is no other personality quite like any of us who can interpret God's love to others in exactly the same way. While God is no respecter of persons in that he puts no one of us ahead of the other in his love, there is, nonetheless, something special about each of us that no other can provide. I want to emphasize that we do have a responsibility.
 
 We begin our mortal careers as potentially perfect unconscious beings. As we grow into consciousness, we begin the adventure of becoming consciously perfect even as the Father is perfect. We have not been abandoned in this task. We have the tools we need to achieve this perfection, including an eternity within which to accomplish it. In keeping perfection as our goal, we need only keep the next curve in the road in our sight. We are not expected to become perfect now or even tomorrow. It is only required that we desire that perfection. It therefore makes sense to develop practical attitudes which can assist us in maintaining an orientation towards the Father.
 
@@ -124,8 +123,7 @@ The search for God now does not imply a life devoted to silent meditation; rathe
 
 I think we are often confused in our thinking about the Father's will. We wonder if we are doing his will at this time or that and worry whether we actually know what it is. I say, “Don't worry, be happy!” It is simply your desire to do his will as demonstrated in your desire to share the inner life with him. It would require infinite wisdom to consciously know the fullness of the Father's will at each moment. His will is infinite; to know it in its fullness at each moment would mean knowing the outcome of your action/spiritual response for the eternity to follow. For our heavenly Father, the I AM, who contains time and space, this is an easy matter but not one possible for us. The trick is to not try to understand the moment with the rational mind but rather to simply give the moment to him and leave comprehension to follow in the fullness of time.
 
-Our gift to the Father as ascending mortals is the first step of faith. I am not aware that we must understand his will in order to do his will. It is usually our fear of the unknown which demands to know the consequences of any given undertaking. I suggest that in matters spiritual it is sufficient to know that the outcome in eternity is to find oneself in the presence of God. In the short-term, trust the spiritual intuition which is your
-heritage.
+Our gift to the Father as ascending mortals is the first step of faith. I am not aware that we must understand his will in order to do his will. It is usually our fear of the unknown which demands to know the consequences of any given undertaking. I suggest that in matters spiritual it is sufficient to know that the outcome in eternity is to find oneself in the presence of God. In the short-term, trust the spiritual intuition which is your heritage.
 
 ## Transmuted Ego
 
