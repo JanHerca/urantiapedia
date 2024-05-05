@@ -63,7 +63,7 @@ There is more here from which we can learn. “_No cult can endure and contribut
 
 Webster tells us that a base is “the fundamental part of something, the groundwork, the point from which a start is made in an action or undertaking, the bottom of something considered as its main support.” _The URANTIA Book_ devotes so much attention to the importance of the home that it can't be emphasized enough. In the future, URANTIA Societies must maintain vigilance in their recognition of this reality. When it becomes difficult for the family to feel a part of any society then that society will stagnate. When the home becomes separated from the activities of the society then will the society fail in its ultimate task.
 
-If we are to move forward, if we are to evolve in meaningful ways, then we must heed these warnings as though they are guiding lights on a darkened shore. “_Family life,_” we're told, “_next to personal religious experience, suffers most from the decadence consequent upon the transition from old religious loyalties to the emerging new meanings and values._” (<a id="a65_361"></a>[UB 99:4.12](/en/The_Urantia_Book/99#p4_12))
+If we are to move forward, if we are to evolve in meaningful ways, then we must heed these warnings as though they are guiding lights on a darkened shore. “_Family life,_” we're told, “_next to personal religious experience, suffers most from the decadence consequent upon the transition from old religious loyalties to the emerging new meanings and values._” (<a id="a65_361"></a>[UB 99:4.2](/en/The_Urantia_Book/99#p4_2))
 
 ### Encourage Worship
 

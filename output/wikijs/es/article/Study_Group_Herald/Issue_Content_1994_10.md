@@ -71,7 +71,7 @@ Redactor | Barry Bradley
 Editor asociado | Melissa Wells
 Editor jefe | Martín Greenhut
 Editor asistente | Isaac Green Hut
-Editor de Grupos de Estudio | David Vidrio
+Editor de Grupos de Estudio | David Glass
 Editor de vida familiar | Janet Famington
 Editor de clasificados | Adrienne Jarnagin
 Editora Internacional | Chilufya Thompson

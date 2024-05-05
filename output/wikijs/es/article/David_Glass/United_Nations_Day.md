@@ -66,7 +66,7 @@ En la misma luz, continuaremos orando y sirviendo - para actuar - con la ayuda d
 
 Paz, no pasividad
 
-david vidrio
+David Glass
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/017.jpg">
