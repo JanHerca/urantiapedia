@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving">
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
           <span class="pr-2">Prayerful Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -125,7 +125,7 @@ So go forth with your circles; circles of progress, and love, and joy and as Dav
         </a>
         </td>
         <td>
-        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving">
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
           <span class="pr-2">Prayerful Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

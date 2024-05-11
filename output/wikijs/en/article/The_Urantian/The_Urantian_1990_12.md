@@ -189,7 +189,7 @@ Human beings are, by nature, problem-solving creatures. Our basic needs and urge
 
 Centuries of experience — verified by scientific discovery, rational insight, and spiritual revelation — has taught us that these triune human resources exist in a hierarchical relationship. Our material nature is directed by the meanings and quality of mind, and mind is eventually influenced and determined by the values of spiritual reality. The more immature and underdeveloped the individual is psychologically and spiritually, the greater the domination of the physical laws and conditions will be. Conversely, the more mature and developed we are mentally and spiritually, the less we are influenced and controlled by our physical condition and the material world.
 
-[Read more](/en/article/Meredith_Sprunger/Prayerful_Problem_Solving)
+[Read more](/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2)
 
 ## Worshipful Problem Solving
 

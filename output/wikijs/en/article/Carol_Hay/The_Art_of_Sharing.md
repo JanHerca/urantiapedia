@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Error So Great...</span>
         </a>
         </td>
@@ -109,7 +109,7 @@ Abundantly satisfy the question
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Error So Great...</span>
         </a>
         </td>

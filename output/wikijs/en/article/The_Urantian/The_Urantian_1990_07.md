@@ -154,7 +154,7 @@ No doubt we have all paid attention service to this provocative statement by an 
 
 Consider for a moment the nature of the following conceptual errors, presented in arbitrary order, which the revelators of truth did not hesitate to correct:
 
-[Read more](/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great)
+[Read more](/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2)
 
 ## The Art of Sharing
 

@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2">
           <span class="pr-2">In Search of the Error So Great...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -185,7 +185,7 @@ Consecrated.
         </a>
         </td>
         <td>
-        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2">
           <span class="pr-2">In Search of the Error So Great...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

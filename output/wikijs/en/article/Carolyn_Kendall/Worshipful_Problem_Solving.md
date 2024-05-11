@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving">
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayerful Problem Solving</span>
         </a>
         </td>
@@ -108,7 +108,7 @@ There are a few general things to know about prayer and worship: The urge to pra
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving">
+        <a href="/en/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayerful Problem Solving</span>
         </a>
         </td>

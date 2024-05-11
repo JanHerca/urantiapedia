@@ -1,6 +1,6 @@
 ---
-title: "«Journal de la Fifth Epochal Fellowship» — Verano de 1990 — Número II de la Conferencia Especial"
-description: "(anteriormente conocido como «The Urantian»)"
+title: "Verano de 1990 — Número II de la Conferencia Especial"
+description: "«Journal de la Fifth Epochal Fellowship» — (anteriormente conocido como «The Urantian»)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article
@@ -172,7 +172,7 @@ Los seres humanos son, por naturaleza, criaturas que resuelven problemas. Nuestr
 
 Siglos de experiencia, verificados por descubrimientos científicos, intuiciones racionales y revelaciones espirituales, nos han enseñado que estos tres recursos humanos existen en una relación jerárquica. Nuestra naturaleza material está dirigida por los significados y las cualidades de la mente, y la mente eventualmente es influenciada y determinada por los valores de la realidad espiritual. Cuanto más inmaduro y subdesarrollado sea el individuo psicológica y espiritualmente, mayor será el dominio de las leyes y condiciones físicas. Por el contrario, cuanto más maduros y desarrollados somos mental y espiritualmente, menos influenciados y controlados estamos por nuestra condición física y el mundo material.
 
-[Leer más](/es/article/Meredith_Sprunger/Prayerful_Problem_Solving)
+[Leer más](/es/article/Meredith_Sprunger/Prayerful_Problem_Solving_2)
 
 ## Resolución de problemas con adoración
 

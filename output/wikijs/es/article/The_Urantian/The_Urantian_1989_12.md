@@ -1,6 +1,6 @@
 ---
-title: "«Journal de la Fifth Epochal Fellowship» — Número doble especial de invierno de 1989 — Grupos de estudio para _El Libro de Urantia_ — Ideas y sugerencias"
-description: "(anteriormente conocido como «The Urantian»)"
+title: "Número doble especial de invierno de 1989 — Grupos de estudio para El Libro de Urantia — Ideas y sugerencias"
+description: "«Journal de la Fifth Epochal Fellowship» — (anteriormente conocido como «The Urantian»)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article

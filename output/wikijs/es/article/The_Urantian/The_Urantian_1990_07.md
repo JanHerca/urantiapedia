@@ -1,6 +1,6 @@
 ---
-title: "«Journal de la Fifth Epochal Fellowship» — Verano de 1990 — Número I de la Conferencia Especial"
-description: "(anteriormente conocido como «The Urantian»)"
+title: "Verano de 1990 — Número I de la Conferencia Especial"
+description: "«Journal de la Fifth Epochal Fellowship» — (anteriormente conocido como «The Urantian»)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article
@@ -137,7 +137,7 @@ Sin duda, todos hemos prestado atención a esta provocativa declaración de un a
 
 Consideremos por un momento la naturaleza de los siguientes errores conceptuales, presentados en orden arbitrario, que los reveladores de la verdad no dudaron en corregir:
 
-[Leer más](/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great)
+[Leer más](/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2)
 
 ## El arte de compartir
 
