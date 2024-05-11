@@ -39,7 +39,7 @@ What does it mean to be industrious in making human adjustments? If I am engaged
 
 So one essential phase of a responsible prayer process is the use of reason, which includes drawing practical deductions from facts, gaining group wisdom, and critically examining the thoughts that come from our times of prayer.
 
-[Read more]()
+[Read more](/en/article/Jeff_Wattles/The_role_of_reason_in_finding_the_Fathers_will)
 
 — _Jeffrey Wattles_
 _Concord, California_

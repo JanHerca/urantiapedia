@@ -37,7 +37,7 @@ From my first reading of _The URANTIA Book_, I was captivated with the Supreme-w
 
 Why are we so different? Page 1250 lists seven major anomalies of this dust speck, and URANTIA Book readers can easily find many more. Granted each world, system, constellation, local universe, and superuniverse is unique. But our development seems to go much farther than “normal.” Even the gift of _The URANTIA Book_ seems to portend other than the usual progression of evolution.
 
-[Read more]()
+[Read more](/en/article/Marilyn_Hauck/Urantia_Model_World_For_The_Supreme)
 
 —_Marilyn Hauck_
 _Denver, Colorado_
@@ -58,8 +58,7 @@ _Juneau, Alaska_
 
 The Supreme Being is inextricably involved with the good of the whole. As we endeavor to become a better neighbor and a better citizen of our nation it becomes obvious that we are each a citizen of our world, Urantia; and from that insight we discern the necessity of becoming a contributing member of God's cosmic family-a citizen of the universe. In other words we must get into the action through the intelligent use of mind. This constitutes our experiential relationship to the Supreme as we embark on our journey of everlasting progress. All meaningful experience at the finite level is integrated in the Supreme,
 
-The Chief of Seraphim on Urantia postulates that this synthesis of creature experience is largely manifested to the individual will creature through the ministry of the seraphim in their role as coordinators, correlators of mind and morontia, and interpreters. We can avail
-ourselves of this marvelous assistance by making our plans and then putting those plans into action. In some little understood technique this enables our guardian angels to assist in bringing those plans to fruition for the good of all those who love God. In this way, and even now on our initial sphere, we can initiate our activities as junior members of a team composed of angels and men. We can share the joy of this adventure in cooperation as we gradually wean ourselves from animal inertia and preoccupation with self.
+The Chief of Seraphim on Urantia postulates that this synthesis of creature experience is largely manifested to the individual will creature through the ministry of the seraphim in their role as coordinators, correlators of mind and morontia, and interpreters. We can avail ourselves of this marvelous assistance by making our plans and then putting those plans into action. In some little understood technique this enables our guardian angels to assist in bringing those plans to fruition for the good of all those who love God. In this way, and even now on our initial sphere, we can initiate our activities as junior members of a team composed of angels and men. We can share the joy of this adventure in cooperation as we gradually wean ourselves from animal inertia and preoccupation with self.
 
 [Read more](/en/article/Gene_Joyce/The_Necessity_Of_Action)
 

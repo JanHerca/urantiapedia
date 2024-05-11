@@ -113,7 +113,7 @@ So our most important relationship is with the divine fragment, and our ascensio
 
 As Faith Sons our faith reactions toward the Father fragment determine the content of our survivable experience and the depth of our soul translation on the intervening morontia level.
 
-Faith exists on many levels. “Few persons live up to the faith which they really have,” (556.4), and faith, being our survival connection, must function on the elemental levels of Supremacy itself.
+Faith exists on many levels. “Few persons live up to the faith which they really have,” ([UB 48:7.4](/en/The_Urantia_Book/48#p7_4)), and faith, being our survival connection, must function on the elemental levels of Supremacy itself.
 
 Faith is a human decision and a divine gift, accessible and recognizable. The influence of the Eternal Son in Actuality is a spirit gravity influence, drawing all faith and all desire for faith into the light of Actuality. Faith cannot remain in the mind; it travels directly to the heart of all reality, affecting our soul development and the sovereignty of the Supreme, It is the human fuel for God potential, simulating the presence of God on every level of our being.
 
@@ -129,7 +129,7 @@ Thoughts and experiences eventually comprise a compendium of spirit value — th
 
 They say it is through the medium of thought that we engage in our destiny making. Thoughts forge a path from matter to spirit — from potential to actual. Thoughts develop, color, and change the world and the soul. The one realm which we have clear access to in our embryonic state is mind.
 
-We may always be hounded by many useless, uninspired processes of thought. But through spiritual study especially the life and teachings of Christ Michael — and through this element of faith, we can engage the Adjuster in thought direction which will liven our instincts toward dynamic, creative, and serving patterns of behavior. God-serving becomes man-serving and man-serving is an accessible technique toward the development of a service sensitivity; a way of being. loving, and serving equipped with a gauge and a timing — an ability to sense Supremacy potentials existent in our lives.
+We may always be hounded by many useless, uninspired processes of thought. But through spiritual study especially the life and teachings of Christ Michael — and through this element of faith, we can engage the Adjuster in thought direction which will liven our instincts toward dynamic, creative, and serving patterns of behavior. God-serving becomes man-serving and man-serving is an accessible technique toward the development of a service sensitivity; a way of being, loving, and serving equipped with a gauge and a timing — an ability to sense Supremacy potentials existent in our lives.
 
 We actualize the Supreme through our experience with these potentials. And experience being a mobile, reflexive reality contact exists on a myriad of levels. But in the Supreme our spiritual experience is always resonant with value-meanings reflective of God's will, both in our environment and our minds. Let's look at these Supreme value potentials accessible to our experience, which ultimately will create a reaction and expansion of Supreme sovereignty in the wake of their realization.
 

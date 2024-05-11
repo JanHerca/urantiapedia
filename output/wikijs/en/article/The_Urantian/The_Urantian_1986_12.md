@@ -48,7 +48,7 @@ Through the ages mortal man has sensed something vital growing within him destin
 
 With a growing awareness of man's rich spiritual heritage, the concept of the soul began to take on various meanings as he reached out in his desire to know God. The Egyptians evolved the clearest picture with their belief in the _ka_ and the _ba_, the spirit and the soul respectively. Lao-tse taught the ascension of man to spiritual union with Tao, the Eternal Deity and Absolute Creator. Despite his lofty teachings, failure along the true path to God-consciousness among the Chinese precluded a clearer picture of the evolving immortal soul. Gautama Siddhartha did not perceive the _personality_ of the One Universal and thus did not believe in the existence of individual human souls.
 
-[Read more]()
+[Read more](/en/article/John_Lange/The_evolution_of_the_soul)
 
 _John Lange, M.D._
 _Fort Smith, Arkansas_

@@ -48,7 +48,7 @@ All reality has but One Centered Source, the Universal Father, the pre-reality o
 
 We may perceive our progress through such a universe toward the original realms of perfection and eternity as one which progressively transcends material levels, traverses mindal levels, and achieves spirit levels. We may alternatively see evolution as the process by which spirit gains control and ascendancy over matter through the mediation of mind.
 
-A third interpretation is one in which the manifestations of matter, mind, and spirit are being displayed equally before a witnessing consciousness which at some point discovers or realizes that it is identified with a non-evolving. perfect, divine entity which exists as a fragmentation of that Deity reality which is pre-existent and ancestral to all matter-mind-spirit differentiation and manifestation.
+A third interpretation is one in which the manifestations of matter, mind, and spirit are being displayed equally before a witnessing consciousness which at some point discovers or realizes that it is identified with a non-evolving perfect, divine entity which exists as a fragmentation of that Deity reality which is pre-existent and ancestral to all matter-mind-spirit differentiation and manifestation.
 
 [Read more](/en/article/David_Glass/Interpreting_Universe_Reality)
 

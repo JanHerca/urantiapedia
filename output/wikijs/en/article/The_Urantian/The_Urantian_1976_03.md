@@ -57,7 +57,7 @@ URANTIA Brotherhood Membership | 560
 &nbsp;&nbsp;&nbsp;Society Members |427
 &nbsp;&nbsp;&nbsp;Members-at-Large | 133
 &nbsp;&nbsp;&nbsp;International Members | 5
-Total Number of URANTIA Books 5old | 57,500
+Total Number of URANTIA Books sold | 57,500
 
 _The URANTIA Book_ is carried in 1,200 bookstores and is currently being sold at the rate of 800 to 1,000 copies a month.
 

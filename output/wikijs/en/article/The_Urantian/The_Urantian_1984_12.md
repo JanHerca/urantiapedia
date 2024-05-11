@@ -59,11 +59,11 @@ Why is this consecration the only gift of true value?
 While our intent is to stimulate the submittal of finished articles for publication, we will also welcome, edit (if necessary), and publish in summary form any responses to this question you care to send us. In fact, if this approach generates the level of interest we hope it will, we plan to use it on a regular basis to provide a way for our readers to share their thoughts, observations, and responses to questions many of us struggle with on a regular basis, alone, or in our study groups, as we seek to understand our Father better through the mechanism of _The URANTIA Book_. Thanks in advance for your willingness to participate with us in a more active way of using The URANTIAN Journal to crossfertilize our thinking.
 
 Warmly,
- —_The Editors_
+—_The Editors_
 
 ---
 
-“_A personality who knows God and desires to do his will, who has spirit insight, is divinely stable and eternally existent. Man's great universe adventure consists in the transit of his mortal mind from the stability of mechanical statics to the divinity of spiritual dynamics, and he achieves this transformation by the force and constancy of his own personality decisions, in each of life's situations declaring. ‘It is my will that your will be done.’_” (<a id="a65_459"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
+> “_A personality who knows God and desires to do his will, who has spirit insight, is divinely stable and eternally existent. Man's great universe adventure consists in the transit of his mortal mind from the stability of mechanical statics to the divinity of spiritual dynamics, and he achieves this transformation by the force and constancy of his own personality decisions, in each of life's situations declaring. ‘It is my will that your will be done.’_” (<a id="a65_459"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
 
 
 

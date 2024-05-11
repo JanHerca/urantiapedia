@@ -76,7 +76,7 @@ An ad ran in the heavenly chronicles calling for creators, messengers, surveyors
 
 There was quite a party on hand with music that hadn't been heard in eons and the Father himself addressed the gathering. “Friends, I've got an idea I'd like to share with you,” he began. “I've worked out a plan for a tremendous time-space adventure that involves a creation totally different from Paradise, an imperfect universe, worlds of time and space, an evolutionary experience where beings are to be led to _choose_ perfection.”
 
-[Read more]()
+[Read more](/en/article/Jim_McNelly/The_Greatest_Story_Of_All_Time)
 
 — _Jim McNelly_
 _Louisville, Colorado_

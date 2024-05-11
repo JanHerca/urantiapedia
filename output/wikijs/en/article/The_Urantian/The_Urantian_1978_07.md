@@ -52,7 +52,7 @@ The process of spiritualizing our personalities unfolds in our relationships amo
 
 We are further told that “_It is not so important to love all men today as it is that each day you learn to love one more human being._” (<a id="a52_138"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)) To keep up production on love implies that we must be learning to tolerate one more person each day, and this in turn implies that we are learning to understand one more person each day. The key to tolerance, love, and spiritual goodness is _understanding_ — a function of mind.
 
-[Read more]()
+[Read more](/en/article/Mark_Kulieke/Learning_Tolerance)
 
 _Mark Kulieke_
 _Evanston, Illinois_
