@@ -249,22 +249,6 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 
 ## Google Translator common fails
 
-### From English to Spanish
-
-- `receptores` instead of `síndicos` (about Melchisedeks)
-- `ya menudo` instead of `y a menudo`
-- `oa` instead of `o a`
-- `Rodan` instead of `Rodán`
-- `Nathaniel` instead of `Natanael`
-- `Ajustador de pensamiento` instead of `Ajustador del Pensamiento`
-- `Ajustador del pensamiento` instead of `Ajustador del Pensamiento`
-- `Peter` instead of `Pedro` (about the apostle)
-- `John` instead of `Juan` (about the apostle or the Baptist)
-- `Apocalipsis` instead of `la revelación` (about The Urantia Book itself)
-- `Bethpage` instead of `Betfagé` (`Bethpage` in fact should be `Bethphage`)
-- `Capernaúm` or `Capernaum` instead of `Cafarnaúm`
-- `Nazareth` instead of `Nazaret`
-
 
 ### To remove navigation headers remove this (with and without three lines `\n(.+)`)
 
@@ -272,6 +256,8 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 
 ### Replacements
 
+Wrong | Right
+--- | ---
  | 
 «  |« 
   »| »
@@ -293,11 +279,12 @@ description: « (.+) \?|description: "$1 ?"
 \{est-info\}|{.is-info}
 < /i>|</i>
 ^##(\w|\d)|## $1
-
-“|”|\{|"|'|\. [a-z]  Check manually
+“|”|\{|"|'|\. [a-z] | Check manually
 
 **FR**
 
+Wrong | Right
+--- | ---
 titre : « (.+) »|title: "$1"
 titre : « (.+) \?|title: "$1 ?"
 title: « (.+) »|title: "$1"
@@ -310,6 +297,8 @@ Communauté|Fellowship
 
 **ES**
 
+Wrong | Right
+--- | ---
 ^título:|title:
 ^Título:|title:
 ^descripción:|description:
@@ -332,7 +321,22 @@ LUIS|UBIS
 UrANTIA|URANTIA
 'El Libro de URANTIA'|‘El Libro de URANTIA’
 Cotización|Cita
+&copia;|&copy;
 <br estilo=«claro:ambos;»/>|<br style="clear:both;"/>
 estilo=«claro:ambos;»|style="clear:both;"
+receptores | síndicos (about Melchisedeks)
+ya menudo | y a menudo
+oa | o a
+Rodan | Rodán
+Nathaniel | Natanael
+Thomas | Tomás
+Ajustador de pensamiento | Ajustador del Pensamiento
+Ajustador del pensamiento | Ajustador del Pensamiento
+Peter | Pedro (about the apostle)
+John | Juan (about the apostle or the Baptist)
+Apocalipsis | la revelación (about The Urantia Book itself)
+Bethpage | Betfagé (Bethpage in fact should be Bethphage)
+Capernaúm or Capernaum | Cafarnaúm
+Nazareth | Nazaret
 
 &nbsp; 

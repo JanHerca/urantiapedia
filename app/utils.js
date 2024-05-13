@@ -647,7 +647,7 @@ exports.fixWikijsHeader = (header, prevLines, curLines) => {
 		.findIndex(line => line.startsWith('dateCreated:'));
 	const changedLines = prevLines
 		.filter((line, i) => line != curLines[i] && !line.startsWith('date'));
-	if (changedLines.length > 0) {
+	if (changedLines.length > 0 || prevLines.length != curLines.length) {
 		if (prevDate != -1 && curDate != -1) {
 			newHeader = header.replace(curLines[curDate], prevLines[prevDate]);
 		} else {
