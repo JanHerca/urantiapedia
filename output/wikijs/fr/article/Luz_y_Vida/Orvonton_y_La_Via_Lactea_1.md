@@ -75,7 +75,7 @@ Cher Carmelo. Avec toutes ces données sur la table, quel dessin feriez-vous mai
 
 ## Carmelo Martínez
 
-Antonio a fait deux remarques qui me semblent très précises concernant la signification de « noyau » et « central ». Si nous ajoutons à cela les idées de Santi, nous avons peut-être fait un pas de plus vers l'interprétation de ce que nous ont dit les développeurs (qui utilisaient la langue anglaise avec une maîtrise reconnue par beaucoup).
+Antonio a fait deux remarques qui me semblent très précises concernant la signification de « noyau » et « central ». Si nous ajoutons à cela les idées de Santi, nous avons peut-être fait un pas de plus vers l'interprétation de ce que nous ont dit les révélateurs (qui utilisaient la langue anglaise avec une maîtrise reconnue par beaucoup).
 
 J'ai consulté le _Compact Oxford Dictionary_ pour corroborer ce que dit Antonio. Voici ce qu'il dit pour le noyau (dans l'un de ses sens faisant référence à l'astronomie, l'autre sens astronomique fait référence aux comètes et est conceptuellement équivalent) : « _Un plus condensé, habituellement. partie centrale plus lumineuse d’une galaxie ou d’une nébuleuse_. À propos de central, il y a une signification au sens figuré (en plus d'autres significations au sens littéral qui se réfèrent à quelque chose qui est positionné au centre ou à égale distance des deux extrémités) qui dit : (« _Appartenant au centre en tant que chef ou point ou partie plus significatif, qui se situe au cœur ou domine le reste ; donc, chef, principal, leader, dominant._ »).
 

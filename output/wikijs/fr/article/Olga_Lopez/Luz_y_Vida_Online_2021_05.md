@@ -143,7 +143,7 @@ Dans cet ouvrage (qui constitue le texte de base d'une présentation donnée en 
 <img src="/image/article/Luz_y_Vida/LyV_2021_05/CronicasdelavidadeJesus-mayo21.jpg" alt="Crónicas de la vida de Jesús - mayo 21" width="250">
 </figure>
 
-Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les développeurs nous disent dans le document 122. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
+Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les révélateurs nous disent dans le document 122. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
 
 [Résumé du document 122](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/04/Documento-122.pdf)
 <br style="clear:both" />

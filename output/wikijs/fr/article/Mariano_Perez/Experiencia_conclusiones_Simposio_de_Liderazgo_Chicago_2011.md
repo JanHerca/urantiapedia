@@ -45,7 +45,7 @@ CONDUITE, ATTITUDE, ENGAGEMENT DES PARTICIPANTS AVANT LA 5ÈME RÉVÉLATION. PRE
 
 > « _La religion n’est pas une technique pour obtenir une paix mentale statique et sereine ; c’est une impulsion destinée à organiser l’âme pour un service dynamique. C’est l’enrôlement de la totalité de l’individualité dans une allégeance pour aimer Dieu et servir les hommes. ..._ » (<a id="a45_286"></a>[LU 100:3.1](/fr/The_Urantia_Book/100#p3_1))
 
-Pour moi, le Chicago Leadership Symposium a été la plus grande manifestation d'âmes fidèles aux objectifs et aux principes des développeurs. Ils nous ont sûrement observés avec satisfaction, convaincus que les graines qu’ils ont semées dans la ville de Chicago au cours des premières décennies du siècle dernier portaient leurs fruits. Mais il serait injuste de faire l’éloge de cette rencontre à l’échelle mondiale et de dénigrer tout autre type d’événement lié à la 5ème révélation.
+Pour moi, le Chicago Leadership Symposium a été la plus grande manifestation d'âmes fidèles aux objectifs et aux principes des révélateurs. Ils nous ont sûrement observés avec satisfaction, convaincus que les graines qu’ils ont semées dans la ville de Chicago au cours des premières décennies du siècle dernier portaient leurs fruits. Mais il serait injuste de faire l’éloge de cette rencontre à l’échelle mondiale et de dénigrer tout autre type d’événement lié à la 5ème révélation.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/12.jpg">

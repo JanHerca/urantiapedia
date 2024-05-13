@@ -124,7 +124,7 @@ En guise d'introduction à cet ouvrage intéressant et agréable, quoi de mieux 
 
 [**Le gouvernement d'une planète voisine : l'utopie possible (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/El-gobierno-de-un-planeta-vecino-La-utop%C3%ADa-posible.pdf)
 
-Le document 72 est une source de nombreuses idées utiles pour développer des sociétés saines qui permettent la croissance de leurs membres à tous les niveaux. Dans cet ouvrage, l'auteur analyse chacun des aspects tels qu'ils se sont développés sur la planète voisine dont nous parlent les développeurs, en partant du principe que beaucoup de ces améliorations pourraient être mises en pratique dès qu'il y aura la volonté de le faire. Le gouvernement d’une planète voisine ne décrit pas une société de lumière et de vie, mais plutôt une possible utopie dont nous pouvons beaucoup apprendre.
+Le document 72 est une source de nombreuses idées utiles pour développer des sociétés saines qui permettent la croissance de leurs membres à tous les niveaux. Dans cet ouvrage, l'auteur analyse chacun des aspects tels qu'ils se sont développés sur la planète voisine dont nous parlent les révélateurs, en partant du principe que beaucoup de ces améliorations pourraient être mises en pratique dès qu'il y aura la volonté de le faire. Le gouvernement d’une planète voisine ne décrit pas une société de lumière et de vie, mais plutôt une possible utopie dont nous pouvons beaucoup apprendre.
 <br style="clear:both" />
 
 ---
@@ -146,7 +146,7 @@ Dans cet ouvrage, l'auteur aborde l'exercice intéressant de localiser les lieux
 <img src="/image/article/Luz_y_Vida/LyV_2021_06/Vida-y-ensenanza-de-Jesus.jpg" alt="Crónicas de la vida de Jesús - junio 2021" width="250">
 </figure>
 
-Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les développeurs nous disent dans le document 123. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
+Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les révélateurs nous disent dans le document 123. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
 
 [Résumé du document 123](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/05/Documento-123.pdf)
 <br style="clear:both" />

@@ -60,7 +60,7 @@ Je n'avais pas de foi définie. Il n’était pas un mécréant, mais il n’ét
 
 ## 6. Y a-t-il des points (ou des points) de la révélation que vous trouvez difficiles à accepter ?
 
-Il y en a eu plusieurs, mais elles ont été diluées avec le temps, l’expérience vécue et une vision plus large des choses. Je me souviens avoir été mal à l'aise avec les épithètes parfois dures, voire très dures, que les développeurs utilisaient pour désigner notre monde. Je pensais qu'ils exagéraient, qu'ils allaient trop loin. Mais aujourd’hui, avec un peu plus de conscience et de sensibilité, je me rends compte que les révélateurs n’étaient vraiment pas à la hauteur, et étaient même doux ou inoffensifs, dans leur manière de décrire notre monde.
+Il y en a eu plusieurs, mais elles ont été diluées avec le temps, l’expérience vécue et une vision plus large des choses. Je me souviens avoir été mal à l'aise avec les épithètes parfois dures, voire très dures, que les révélateurs utilisaient pour désigner notre monde. Je pensais qu'ils exagéraient, qu'ils allaient trop loin. Mais aujourd’hui, avec un peu plus de conscience et de sensibilité, je me rends compte que les révélateurs n’étaient vraiment pas à la hauteur, et étaient même doux ou inoffensifs, dans leur manière de décrire notre monde.
 
 ## 7. Quelle est la partie qui vous a le plus impressionné ?
 

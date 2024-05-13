@@ -126,7 +126,7 @@ Cet ouvrage d'Antti Roine, lecteur finlandais, explique très clairement pourquo
 
 **RECOMPTE JOURNALISTE DE LA VIE ET DES ENSEIGNEMENTS DE JESUS SELON _LE LIVRE D'URANTIA_**
 
-Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les développeurs nous disent dans le document 129. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
+Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les révélateurs nous disent dans le document 129. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
 
 [Résumé du document 129](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/12/Documento-129.pdf)
 

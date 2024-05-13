@@ -47,7 +47,7 @@ Por último, pero no en primer lugar, Rick y Sandie Bruce y sus hijos llegaron d
 
 Más videos después del té. Luego Pete sugirió que a la mañana siguiente todos eligiéramos un artículo que nos interesara y diéramos una charla de 10 minutos.
 
-A la mañana siguiente, Pete empezó con el artículo sobre la era de los dinosaurios. Luego leí sobre la realidad de la experiencia religiosa, Sandie eligió un pasaje sobre Jesús y una discusión con los discípulos. Pam leyó sobre la importancia del papel de la mujer en los periódicos de Jesús. Will sobre la importancia de socializar la religión y Rick sobre la evolución.
+A la mañana siguiente, Pete empezó con el artículo sobre la era de los dinosaurios. Luego leí sobre la realidad de la experiencia religiosa, Sandie eligió un pasaje sobre Jesús y una discusión con los discípulos. Pam leyó sobre la importancia del papel de la mujer en los documentos de Jesús. Will sobre la importancia de socializar la religión y Rick sobre la evolución.
 
 Terminamos la mañana en la iglesia del pueblo, acompañados por tres cristianos. El servicio lo llevamos a cabo nosotros mismos y el Rev. Will comenzó con una lectura del libro de Corintios. Pete leyó el Salmo 23 y nuestros amigos cristianos contribuyeron con una historia corta. Pan, que alguna vez fue miembro del coro de una iglesia, nos dirigió en el canto y trató valientemente de mantenernos en sintonía mientras cantábamos algunos himnos. Concluimos el servicio con el Padrenuestro.
 

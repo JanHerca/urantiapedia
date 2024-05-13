@@ -99,7 +99,7 @@ Cet ouvrage est une synthèse d'un autre ouvrage plus étendu que Bill Sadler a 
 
 [**La force de gravité dans le noyau atomique prophétisée en 1934 (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/La-fuerza-de-gravedad-del-nucleo-atomico.pdf)
 
-Cet article, bien que bref, est très éclairant sur la façon dont la physique se rapproche progressivement de ce que les développeurs affirment dans _Le Livre d'Urantia_ à propos du modèle atomique et des forces qui maintiennent les atomes ensemble. Rappelons que l’ultimathon n’a pas été découvert en tant que tel par la science. Pourquoi les révélateurs nous ont-ils parlé de lui, alors qu’il semble encore très loin d’être découvert ? Eh bien, il y a peut-être déjà des scientifiques qui sont sur la bonne voie.
+Cet article, bien que bref, est très éclairant sur la façon dont la physique se rapproche progressivement de ce que les révélateurs affirment dans _Le Livre d'Urantia_ à propos du modèle atomique et des forces qui maintiennent les atomes ensemble. Rappelons que l’ultimathon n’a pas été découvert en tant que tel par la science. Pourquoi les révélateurs nous ont-ils parlé de lui, alors qu’il semble encore très loin d’être découvert ? Eh bien, il y a peut-être déjà des scientifiques qui sont sur la bonne voie.
 <br style="clear:both" />
 
 ---
@@ -132,7 +132,7 @@ Dans cet ouvrage de Troy R. Bishop, traduit par Jan Herca, une revue est faite d
 
 **RECOMPTE JOURNALISTE DE LA VIE ET DES ENSEIGNEMENTS DE JESUS SELON _LE LIVRE D'URANTIA_**
 
-Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les développeurs nous disent dans le document 130. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
+Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les révélateurs nous disent dans le document 130. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
 
 [Résumé du document 130](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/01/Documento-130.pdf)
 <br style="clear:both" />

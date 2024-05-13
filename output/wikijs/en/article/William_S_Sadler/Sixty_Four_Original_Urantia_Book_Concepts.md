@@ -154,7 +154,7 @@ In this informally published paper, Dr. William Sadler outlines 64 knowledge con
 
 59. **Jesus’ Attitude toward Art and Athletics and Women:** The Master’s attitude toward art, athletics, and women are nowhere else revealed. Art–<a id="a154_146"></a>[Paper 142:4](/en/The_Urantia_Book/142#p4), Athletics–<a id="a154_200"></a>[Paper 124:3](/en/The_Urantia_Book/124#p3), Women–<a id="a154_250"></a>[Papers 133:2](/en/The_Urantia_Book/133#p2), <a id="a154_295"></a>[UB 138:8](/en/The_Urantia_Book/138#p8), <a id="a154_336"></a>[UB 143:5](/en/The_Urantia_Book/143#p5), <a id="a154_377"></a>[149:2](/en/The_Urantia_Book/149#p2) 
 
-60. **The Sermon on the Mount:** I am, of course. not familiar with all the literature on the Sermon on the Mount. But as far as I know, the interpretation of this address in _The Urantia Book_ is new and original. [Paper 140](/en/The_Urantia_Book/140) 
+60. **The Sermon on the Mount:** I am, of course, not familiar with all the literature on the Sermon on the Mount. But as far as I know, the interpretation of this address in _The Urantia Book_ is new and original. [Paper 140](/en/The_Urantia_Book/140) 
 
 61. **The Women’s Evangelistic Corps:** This story is new, notwithstanding the brief mention of this matter in the New Testament. <a id="a158_130"></a>[Paper 150:1](/en/The_Urantia_Book/150#p1) 
 

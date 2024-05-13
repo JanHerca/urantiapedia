@@ -154,7 +154,7 @@ En este artículo publicado informalmente, el Dr. William Sadler describe 64 con
 
 59. **La actitud de Jesús hacia el arte, el atletismo y las mujeres:** La actitud del Maestro hacia el arte, el atletismo y las mujeres no se revela en ningún otro lugar. Arte–<a id="a154_176"></a>[Documento 142:4](/es/The_Urantia_Book/142#p4), Atletismo–<a id="a154_234"></a>[Documento 124:3](/es/The_Urantia_Book/124#p3), Mujeres–[Documentos 133:2](/es/ El_libro_de_Urantia/133#p2), <a id="a154_343"></a>[LU 138:8](/es/The_Urantia_Book/138#p8), <a id="a154_384"></a>[LU 143:5](/es/The_Urantia_Book/143#p5), <a id="a154_425"></a>[149:2](/es/The_Urantia_Book/149#p2)
 
-60. **El Sermón de la Montaña:** Lo soy, por supuesto. no está familiarizado con toda la literatura sobre el Sermón del Monte. Pero, que yo sepa, la interpretación de este discurso en _El Libro de Urantia_ es nueva y original. [Documento 140](/es/The_Urantia_Book/140)
+60. **El Sermón de la Montaña:** No estoy, por supuesto, familiarizado con toda la literatura sobre el Sermón del Monte. Pero, que yo sepa, la interpretación de este discurso en _El Libro de Urantia_ es nueva y original. [Documento 140](/es/The_Urantia_Book/140)
 
 61. **El Cuerpo Evangelístico de Mujeres:** Esta historia es nueva, a pesar de la breve mención de este asunto en el Nuevo Testamento. <a id="a158_135"></a>[Documento 150:1](/es/The_Urantia_Book/150#p1)
 

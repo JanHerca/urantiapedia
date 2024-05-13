@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-L'un des problèmes les plus controversés que nous ayons avec le LU est celui des dates. Les développeurs ont insisté pour nous « bombarder » avec un nombre infini de dates et la science, dans ses oscillations d'observation, nous en rapproche et nous en éloigne.
+L'un des problèmes les plus controversés que nous ayons avec le LU est celui des dates. Les révélateurs ont insisté pour nous « bombarder » avec un nombre infini de dates et la science, dans ses oscillations d'observation, nous en rapproche et nous en éloigne.
 
 Malgré les limites de la révélation, j’ai tendance à penser que les données que nous fournissent les révélateurs devraient être considérablement plus proches de la réalité. Cela n’aurait également aucun sens de nous fournir des données dont nous savons qu’elles sont totalement fausses, alors que nous ne les demandons pas non plus. Si les limites de la révélation empêchaient les révélateurs de nous donner des données, il aurait été beaucoup plus élégant de les épargner. Ma conclusion est donc que si elles sont là, elles doivent contenir quelque chose ou peut-être beaucoup de vérité.
 

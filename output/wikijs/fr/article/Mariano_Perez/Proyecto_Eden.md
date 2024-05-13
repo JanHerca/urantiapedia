@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 La vérité révélée du _Livre d'Urantia_ pénètre nos cœurs. Les enseignements du livre bleu deviennent une façon de penser, de voir la vie et de la vivre. Lorsque nous comprenons le comment et le pourquoi de notre vie, la flamme divine s'élève dans nos cœurs et nous ressentons le besoin de <ins>servir</ins> pour accomplir la grande œuvre.
 
-Dans le « Mandat de publication », texte dans lequel les développeurs ont donné une série d'instructions à la commission de contact, il est dit que, bien que _Le Livre d'Urantia_ n'apparaisse pas au moment où il sera pleinement compris et accepté, un Il a été décidé qu'une publication anticipée serait disponible pour la formation des guides et des instructeurs. En outre - disent-ils - leur présence est nécessaire pour attirer l'attention des personnes disposant de moyens permettant de financer la traduction dans d'autres langues.
+Dans le « Mandat de publication », texte dans lequel les révélateurs ont donné une série d'instructions à la commission de contact, il est dit que, bien que _Le Livre d'Urantia_ n'apparaisse pas au moment où il sera pleinement compris et accepté, un Il a été décidé qu'une publication anticipée serait disponible pour la formation des guides et des instructeurs. En outre - disent-ils - leur présence est nécessaire pour attirer l'attention des personnes disposant de moyens permettant de financer la traduction dans d'autres langues.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV9/03.jpg">

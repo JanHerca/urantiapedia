@@ -59,7 +59,7 @@ Vous êtes donc un type de lecteur très particulier. Ce dialogue silencieux ent
 
 Cette courte dissertation sur l'importance de la lecture, son caractère unique et sa valeur, cherche à réévaluer l'acte quotidien que tant de lecteurs du _Livre d'Urantia_ accomplissent chaque jour, dans différentes parties du monde et dans différentes langues. Soit seul, soit en groupe.
 
-Lorsque le livre bleu est apparu et a été diffusé le 12 octobre 1955, il y a 67 ans, soit plus d'un demi-siècle, les développeurs savaient à quel point la lecture était importante pour notre progrès. Depuis, la cinquième révélation n’a cessé d’être éditée, traduite dans des dizaines de langues, lue seule et analysée dans des groupes, des conférences et des rencontres partout sur la planète.
+Lorsque le livre bleu est apparu et a été diffusé le 12 octobre 1955, il y a 67 ans, soit plus d'un demi-siècle, les révélateurs savaient à quel point la lecture était importante pour notre progrès. Depuis, la cinquième révélation n’a cessé d’être éditée, traduite dans des dizaines de langues, lue seule et analysée dans des groupes, des conférences et des rencontres partout sur la planète.
 
 En ce moment même, en octobre, nous célébrons le 67ème anniversaire de la publication du _Le Livre d'Urantia_. Un livre qui formule au début son intention d’élargir notre vision du monde et notre développement spirituel :
 

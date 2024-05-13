@@ -38,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 **Introduction par Xavier Francisco**
 
-Le document 15 est un document très descriptif où les développeurs, plus précisément un Censeur Universel d'Uversa, montrent l'organisation physique, administrative et spirituelle des superunivers, mettant évidemment l'accent sur celle d'Orvonton.
+Le document 15 est un document très descriptif où les révélateurs, plus précisément un Censeur Universel d'Uversa, montrent l'organisation physique, administrative et spirituelle des superunivers, mettant évidemment l'accent sur celle d'Orvonton.
 
 Le document se compose de 14 points, allant d'une exposition des propriétés physiques du niveau spatial des superunivers à l'explication des différents types de personnalités dirigeantes dans les superunivers et de leurs divisions. Ainsi, cette synthèse est organisée suivant chacun des points du document.
 
@@ -193,7 +193,7 @@ Lorsque le superunivers sera achevé, sa taille augmentera, ce qui nous semble a
 
 Il existe une grande disproportion entre la gravité absolue utilisée dans les superunivers et Havona (5%), par rapport à celle qui serait destinée à l'espace extra-atmosphérique. Cela ne signifie pas nécessairement que l’espace extérieur a besoin des 95 % restants. La création n'a pas commencé son acte final. Il reste beaucoup à écrire dans l'œuvre de création.
 
-Le Livre utilise parfois le terme « galaxie », l'identifiant parfois à « superunivers » (dans ce document il parle même de la « septième galaxie »). On pense que parler de superunivers et de galaxies de manière interchangeable est intentionnel de la part des développeurs. D’un autre côté, il est très difficile d’adapter les données fournies par le Livre à la science actuelle.
+Le Livre utilise parfois le terme « galaxie », l'identifiant parfois à « superunivers » (dans ce document il parle même de la « septième galaxie »). On pense que parler de superunivers et de galaxies de manière interchangeable est intentionnel de la part des révélateurs. D’un autre côté, il est très difficile d’adapter les données fournies par le Livre à la science actuelle.
 
 Nous pourrions dire en conclusion que l'univers est immense et qu'il est distribué d'une part physiquement et d'autre part administrativement, tout comme cela se produit de manière analogue sur Terre. Pourtant, malgré son immensité, nous nous trouvons au début de la Création. Un travail nous attend tous dans l’éternité, très probablement dans la création inachevée de l’espace.
 

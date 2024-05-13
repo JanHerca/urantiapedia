@@ -76,7 +76,7 @@ Au début, j’ai commencé à le visualiser comme un cadeau plutôt que comme u
 
 ## 9. Avez-vous pris conscience de la présence de votre Ajusteur ?
 
-Même si le sujet est un peu « vitreux », comme nous préviennent les développeurs, je pense que oui. Et je ne parle pas tant de la communication elle-même que des résultats. Depuis que j'ai pris conscience de son existence à travers _Le Livre d'Urantia_ (auparavant, je n'avais qu'une intuition lointaine de l'étincelle divine en nous), et depuis que je me suis complètement abandonné à sa direction et à ses conseils, beaucoup de choses ont commencé à changer. J'essaie de faire en sorte que mes décisions soient conseillées et partagées, car, en réalité, nous sommes deux dans le but de ne faire qu'un, et honnêtement, cela ne m'a jamais fait défaut, comme prévu. Je suis très clair sur le fait que notre succès dépend de nous deux et que nous avons tous deux un engagement envers le Suprême. Je sais qu'Il m'encourage chaque jour à descendre au jardin et arroser les fruits de l'esprit, qu'Il me réveille continuellement pour rester éveillé... et bien plus encore.
+Même si le sujet est un peu « vitreux », comme nous préviennent les révélateurs, je pense que oui. Et je ne parle pas tant de la communication elle-même que des résultats. Depuis que j'ai pris conscience de son existence à travers _Le Livre d'Urantia_ (auparavant, je n'avais qu'une intuition lointaine de l'étincelle divine en nous), et depuis que je me suis complètement abandonné à sa direction et à ses conseils, beaucoup de choses ont commencé à changer. J'essaie de faire en sorte que mes décisions soient conseillées et partagées, car, en réalité, nous sommes deux dans le but de ne faire qu'un, et honnêtement, cela ne m'a jamais fait défaut, comme prévu. Je suis très clair sur le fait que notre succès dépend de nous deux et que nous avons tous deux un engagement envers le Suprême. Je sais qu'Il m'encourage chaque jour à descendre au jardin et arroser les fruits de l'esprit, qu'Il me réveille continuellement pour rester éveillé... et bien plus encore.
 
 ## 10. Avez-vous essayé de mettre en pratique les enseignements du Maître ? Quel a été le résultat ?
 
@@ -90,7 +90,7 @@ Le mystère est généralement causé par l'inconnu, soit parce qu'il n'a pas d'
 
 Je voudrais souligner que pour moi _Le Livre d'Urantia_ est comme un livre magique qui a changé ma vie, mais curieusement, la même chose est arrivée à tous les lecteurs que j'ai rencontrés au cours de ces années. J'encourage tous ceux qui doutent à faire un petit effort ouvert et à le lire.
 
-Et par-dessus tout, je voudrais exprimer ma plus profonde gratitude aux développeurs et à toute la communauté du Livre d'Urantia, car c'est le meilleur cadeau que j'ai jamais reçu. MERCI.
+Et par-dessus tout, je voudrais exprimer ma plus profonde gratitude aux révélateurs et à toute la communauté du Livre d'Urantia, car c'est le meilleur cadeau que j'ai jamais reçu. MERCI.
 
 ## Références
 

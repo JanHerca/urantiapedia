@@ -34,25 +34,11 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-## What _El Libro de Urantia_ Means to me
-
-_By Graciela Cristina Benedetti, Bahía Blanca, Argentina_
-
-From the very first moment that I found _El Libro de Urantia_, I felt a wave of love guiding my life, inundating cold corners of myself with its warm, tender touch, and illuminating every little dark place inside me with its awesome teachings. This revelation mobilized me and gave new values to every single part of me that had been still and drowsy until that time.
-
-My name is Graciela Cristina Benedetti. My husband and I have three boys and live in Bahía Blanca, a port city south of Buenos Aires, Argentina.
-
-In October 1999, I attended a conference and was amazed by what I heard from one of the speakers, whom I asked to send me his speech, which he did. He made it clear that his speech was inspired by _El Libro de Urantia_, which could be found at www.urantia.org. One day my curiosity led me to click on that link, and from that day forward, I initiated my own personal cosmic adventure by reading _El Libro de Urantia_.
-
-I have taken courses through the Urantia Book Internet School and have joined a study group.
-
-The more I read, the more I realize that this book teaches about the love of the Father, the Son, and the Spirit and about how that love, progressively and surely, embraces and carries us to Paradise.
+## Lo que El Libro de Urantia significa para mí
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_06/058.jpg">
 </figure>
-
-## The Book's Perfection
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2012_06/059.jpg">

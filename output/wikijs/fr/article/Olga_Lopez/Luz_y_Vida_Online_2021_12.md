@@ -122,7 +122,7 @@ Ce travail a été présenté lors de la dernière conférence de lecteurs en Es
 
 **RÉCIT JOURNALISTE DE LA VIE ET DES ENSEIGNEMENTS DE JÉSUS SELON _LE LIVRE D'URANTIA_**
 
-Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les développeurs nous disent dans le document 128. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
+Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les révélateurs nous disent dans le document 128. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
 
 [Résumé du document 128](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/11/Documento-128.pdf)
 <br style="clear:both" />

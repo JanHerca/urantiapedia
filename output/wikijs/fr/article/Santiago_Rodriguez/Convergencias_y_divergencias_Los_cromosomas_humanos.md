@@ -91,7 +91,7 @@ Le LU regorge de données, dont nous discuterons certaines dans cette section. A
 
 Peut-être que la manière de ne pas divulguer ou de faire progresser les connaissances est précisément de mélanger de manière non systématique des données correctes avec des données inexactes, de sorte que nous ne puissions pas déduire de ce qui a été révélé quoi que ce soit de définitif sur la réalité physique ?
 
-Dans les tranches successives de cette section, nous aurons l'occasion de commenter des situations opposées, c'est-à-dire des cas dans lesquels les développeurs proposent une théorie différente de celle établie au moment de la publication du LU (1955) et qui est aujourd'hui (2011). ).
+Dans les tranches successives de cette section, nous aurons l'occasion de commenter des situations opposées, c'est-à-dire des cas dans lesquels les révélateurs proposent une théorie différente de celle établie au moment de la publication du LU (1955) et qui est aujourd'hui (2011). ).
 
 ## Références
 

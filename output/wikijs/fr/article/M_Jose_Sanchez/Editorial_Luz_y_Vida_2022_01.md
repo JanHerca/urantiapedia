@@ -57,7 +57,7 @@ Nous pourrions être surpris de trouver dans le texte du _Livre d'Urantia_ lui-m
 
 > « Dans un univers des univers aussi vaste, il y a toujours grand danger de succomber à l’erreur d’avoir un point de vue restreint, au mal inhérent à une conception fragmentaire de la réalité et de la divinité. » (<a id="a57_215"></a>[LU 19:1.4](/fr/The_Urantia_Book/19#p1_4))
 
-Les développeurs utilisent une approche cosmique ou très élevée dans le développement des idées et des concepts qu'ils veulent nous montrer, à partir du Prologue et dans les documents ultérieurs. Ils tentent de nous transmettre des merveilles que nous ne pouvons pas entrevoir sur Terre, mais qui font partie de l'univers sur lequel nous avons ouvert les yeux.
+Les révélateurs utilisent une approche cosmique ou très élevée dans le développement des idées et des concepts qu'ils veulent nous montrer, à partir du Prologue et dans les documents ultérieurs. Ils tentent de nous transmettre des merveilles que nous ne pouvons pas entrevoir sur Terre, mais qui font partie de l'univers sur lequel nous avons ouvert les yeux.
 
 > « ...nous employons donc la technique consistant à aborder l’homme et ses problèmes planétaires, en entreprenant le voyage dans l’espace-temps à partir de l’infinie, éternelle et divine Source-Centre Paradisiaque de toute réalité de personnalité et de toute existence cosmique. » (<a id="a61_283"></a>[LU 19:1.12](/fr/The_Urantia_Book/19#p1_12))
 
@@ -71,7 +71,7 @@ _Le Livre d'Urantia_ nous met en garde contre certains problèmes qui pourraient
 
 > « 4. L’histoire seule ne réussit pas à révéler convenablement le développement futur — la destinée. Les origines finies sont utiles, mais seules les causes divines révèlent les effets finals. Les fins éternelles ne se montrent pas dans les commencements temporels. On ne peut véritablement interpréter le présent qu’à la lumière de la corrélation du passé et du futur. » (<a id="a71_374"></a>[LU 19:1.11](/fr/The_Urantia_Book/19#p1_11))
 
-Quelles conclusions peut-on tirer de cette précision importante apportée par les développeurs ?
+Quelles conclusions peut-on tirer de cette précision importante apportée par les révélateurs ?
 
 L'ordre le plus approprié pour comprendre correctement tous les concepts et enseignements du _Le Livre d'Urantia_ serait de lire ce texte en commençant par le Prologue et en lisant successivement les différents documents jusqu'à terminer par le document 196. C'est aussi simple que cela.
 
@@ -87,7 +87,7 @@ La clé est dans l’esprit et son élévation.
 
 > « ...le mental a été remis entre vos mains, il est sujet à vos propres décisions, et c’est par le mental que vous vivez ou mourez. C’est à l’intérieur de ce mental et avec ce mental que vous prenez les décisions morales qui vous permettent de devenir semblables à l’Ajusteur, c’est-à-dire semblables à Dieu. » (<a id="a87_313"></a>[LU 111:1.4](/fr/The_Urantia_Book/111#p1_4))
 
-Une autre précision apportée par les développeurs du _Le Livre d'Urantia_ nous renseigne sur la raison de l'ordre actuel des différents documents :
+Une autre précision apportée par les révélateurs du _Le Livre d'Urantia_ nous renseigne sur la raison de l'ordre actuel des différents documents :
 
 > « On ne peut saisir la vraie perspective de quelque problème de réalité — humain ou divin, terrestre ou cosmique — que par l’étude et la corrélation complètes et sans préjugés de trois phases de la réalité universelle : l’origine, l’histoire et la destinée. La bonne compréhension de ces trois réalités expérientielles fournit la base nécessaire à une sage estimation du statut présent. » (<a id="a91_392"></a>[LU 19:1.6](/fr/The_Urantia_Book/19#p1_6))
 

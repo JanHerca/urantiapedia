@@ -47,7 +47,7 @@ Pero _El Libro de Urantia_ también describe lo que puede suceder cuando las per
 
 La Revelación de Urantia necesita que nuestros grupos y nuestros líderes de grupo funcionen tan bien como puedan si queremos prosperar. Todos estamos dedicados a mejorar y hacer crecer el número de grupos de estudio de _El Libro de Urantia_. Al igual que usted, anhelo mejorar la espiritualidad de mi grupo de estudio, mantener o mejorar nuestra calidad de estudio y crear más estabilidad y comunidad. Todos siempre podemos mejorar lo que hacemos.
 
-A menudo recuerdo una imagen de una campaña política reciente, la visión de comparar el hacer cosas buenas con «_1,000 puntos de luz_». Esta es una forma de ver nuestra necesidad de mantener, mejorar y crear estudio. grupos Crear grupos reales y válidos que estudien _El Libro de Urantia_ es simplemente lógico, y es imperativo que no solo busquemos crear nuevos grupos, sino que sigamos tratando de mejorar y no renunciar a los grupos que ya existen. Una vez que encendemos una de esas luces, ¡debemos mantenerla encendida!
+A menudo recuerdo una imagen de una campaña política reciente, la visión de comparar el hacer cosas buenas con «_1.000 puntos de luz_». Esta es una forma de ver nuestra necesidad de mantener, mejorar y crear grupos de estudio. Crear grupos reales y válidos que estudien _El Libro de Urantia_ es simplemente lógico, y es imperativo que no solo busquemos crear nuevos grupos, sino que sigamos tratando de mejorar y no renunciar a los grupos que ya existen. Una vez que encendemos una de esas luces, ¡debemos mantenerla encendida!
 
 Si nuestros grupos de Urantia van a irrumpir con nuevo vigor y éxito, estos grupos deben depender mucho de su liderazgo. Ampliemos la primera cita que leemos:
 
@@ -103,7 +103,7 @@ Mejorar la espiritualidad en nuestros grupos de estudio puede ser primordial. Pe
 
 Nuestro crecimiento espiritual y nuestras relaciones son nuestros verdaderos fines; estudiar las enseñanzas de _El Libro de Urantia_ es un medio para esos fines.
 
-No necesitamos _El Libro de Urantia_, por supuesto, para encontrar a Dios, que nos ama, está dentro de nosotros y está disponible para cualquiera que lo busque y tenga fe en él; sin embargo, _El Libro de Urantia_, la Quinta Revelación de Época de la Verdad en Urantia, es un recurso magnífico que nos ayuda a obtener una percepción espiritual ya comprender mejor quiénes somos, por qué estamos aquí y hacia dónde vamos. Al menos puede ser de gran ayuda si lo estudiamos profundamente y luego tratamos sinceramente de incorporar sus enseñanzas en nuestras vidas. El hecho de que esta revelación se presente en forma de libro ciertamente nos dice que los reveladores quieren que usemos nuestra mente y la usemos bien.
+No necesitamos _El Libro de Urantia_, por supuesto, para encontrar a Dios, que nos ama, está dentro de nosotros y está disponible para cualquiera que lo busque y tenga fe en él; sin embargo, _El Libro de Urantia_, la Quinta Revelación de Época de la Verdad en Urantia, es un recurso magnífico que nos ayuda a obtener una percepción espiritual y a comprender mejor quiénes somos, por qué estamos aquí y hacia dónde vamos. Al menos puede ser de gran ayuda si lo estudiamos profundamente y luego tratamos sinceramente de incorporar sus enseñanzas en nuestras vidas. El hecho de que esta revelación se presente en forma de libro ciertamente nos dice que los reveladores quieren que usemos nuestra mente y la usemos bien.
 
 Por tanto, una de las tareas más importantes de los líderes de los grupos de estudio es ayudar a los lectores a comprender mejor _El Libro de Urantia_. Una mejor comprensión a través de un estudio más sólido debe ser una de nuestras principales prioridades.
 
@@ -123,7 +123,7 @@ Con respecto al aprendizaje permanente de Jesús, se nos dice que:
 
 > Las enseñanzas de Jesús constituyeron la primera religión urantiana que abarcó tan plenamente una coordinación armoniosa de conocimiento, sabiduría, fe, verdad y amor... <a id="a123_172"></a>[[LU 101:6.8](/es/The_Urantia_Book/101#p6_8)]
 
-Al igual que Jesús, una tarea importante de nuestras carreras en Urantia es aprender todo lo que podamos sobre los demás y sobre el mundo que nos rodea. Sugeriría que no sólo queremos estudiar _El Libro de Urantia_ lo mejor que podamos en nuestros grupos de estudio, sino que también queremos educarnos individualmente sobre otros temas. Soy profesora de inglés y música, pero creo que, después de todo lo que estudiamos por nuestra vocación y nuestros intereses, algunas actividades intelectuales primarias incluyen la historia y luego integrar todo lo que aprendemos. Se nos dice que:
+Al igual que Jesús, una tarea importante de nuestras carreras en Urantia es aprender todo lo que podamos sobre los demás y sobre el mundo que nos rodea. Sugeriría que no sólo queremos estudiar _El Libro de Urantia_ lo mejor que podamos en nuestros grupos de estudio, sino que también queremos educarnos individualmente sobre otros temas. Soy profesor de inglés y música, pero creo que, después de todo lo que estudiamos por nuestra vocación y nuestros intereses, algunas actividades intelectuales primarias incluyen la historia y luego integrar todo lo que aprendemos. Se nos dice que:
 
 > La religión revelada es el elemento unificador de la existencia humana. La revelación unifica la historia, coordina la geología, la astronomía, la física, la química, la biología, la sociología y la psicología. <a id="a127_213"></a>[[LU 102:4.6](/es/The_Urantia_Book/102#p4_6)]
 
@@ -185,7 +185,7 @@ Sea cual sea su verdad, sin embargo, la percepción de este individuo puede ser 
 
 Los líderes de los grupos de estudio deben ser asertivos, llegar a los lectores potenciales, especialmente aquellos que ya tienen el libro y se han puesto en contacto, y tratar de atraerlos a nuestras reuniones. Nuestros grupos deben ser acogedores, atractivos, seguros para alguien nuevo. Deben ser lugares que muestren las verdades y bellezas de nuestra Revelación única, que sean lugares de oración y adoración, pero también lugares de amistad y comunidad. Nuestras reuniones deben ser lugares donde podamos ir a compartir y partir el pan juntos.
 
-Los líderes deben llegar a los lectores de los que han oído hablar ya los que no han visto últimamente. Las organizaciones necesitan ayudar a las personas a encontrarse entre sí.
+Los líderes deben llegar a los lectores de los que han oído hablar y a los que no han visto últimamente. Las organizaciones necesitan ayudar a las personas a encontrarse entre sí.
 
 ## Conclusión
 

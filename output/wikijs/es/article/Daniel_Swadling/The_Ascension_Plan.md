@@ -97,7 +97,7 @@ En Havona, nuestro logro es intelectual, espiritual y experiencial; alcanzamos l
 - quinto: alcanzar el Espíritu Infinito
 - cuarto: alcanzar al Hijo Eterno
 - tercero: reconocer al Padre Universal
-- segundo: familiarizarse más con los anfitriones de Paradise
+- segundo: familiarizarse más con los anfitriones del Paraíso
 - primer circuito: mayor logro espiritual. Nuestra llegada aquí señala nuestra aceptación al servicio del Paraíso. Luego, cuando se nos considera listos, pasamos hacia adentro, a lo que ahora se convierte en nuestro hogar Paradisíaco, y somos admitidos en el Cuerpo de la Finalidad. <a id="a100_283"></a>[[LU 14:5.4](/es/The_Urantia_Book/14#p5_4)]
 
 ## Los marcadores del jubileo:

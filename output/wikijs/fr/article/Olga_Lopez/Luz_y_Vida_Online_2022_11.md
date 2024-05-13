@@ -81,7 +81,7 @@ Si nous décomposons l'épisode, nous pouvons voir comment le « kidnapping émo
 
 [**La réalité selon _Le Livre d'Urantia_ (Juan Pomares)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/RealidadLU.jpg)
 
-Avec un livre de la complexité et de l'abondance d'informations tel que _Le Livre d'Urantia_, nous avons souvent besoin d'un aperçu pour nous aider à mettre en perspective toutes les connaissances qu'offrent les développeurs. Heureusement, il existe des lecteurs qui réalisent des diagrammes très utiles car ils contribuent à satisfaire ce besoin. Dans ce cas, l'auteur se concentre sur la réalité, ses niveaux, la divinité, les divinités paradisiaques et autres êtres divins.
+Avec un livre de la complexité et de l'abondance d'informations tel que _Le Livre d'Urantia_, nous avons souvent besoin d'un aperçu pour nous aider à mettre en perspective toutes les connaissances qu'offrent les révélateurs. Heureusement, il existe des lecteurs qui réalisent des diagrammes très utiles car ils contribuent à satisfaire ce besoin. Dans ce cas, l'auteur se concentre sur la réalité, ses niveaux, la divinité, les divinités paradisiaques et autres êtres divins.
 <br style="clear:both" />
 
 ---
@@ -297,7 +297,7 @@ Dans cette troisième édition, la conférence se voulait axée sur la pratique,
 
 En plus des ateliers axés sur la maîtrise de soi, il y a eu d'autres présentations sur d'autres sujets tout aussi intéressants, tels que :
 
-- La présentation de [Urantiapedia](http://urantiapedia.org/), un projet de Jan Herca (Valladolid) qui vise à être un outil de référence mondiale pour l'étude du _Le Livre d'Urantia_, qui aspire à compiler tous les ouvrages secondaires et autres livres que les développeurs pris comme référence pour transmettre des concepts afin que nous puissions les comprendre.
+- La présentation de [Urantiapedia](http://urantiapedia.org/), un projet de Jan Herca (Valladolid) qui vise à être un outil de référence mondiale pour l'étude du _Le Livre d'Urantia_, qui aspire à compiler tous les ouvrages secondaires et autres livres que les révélateurs pris comme référence pour transmettre des concepts afin que nous puissions les comprendre.
 - La présentation du [Center for Unity](https://thecenterforunity.org/) et du [Jesus Metaverse](https://jesusmetaverse.org/), deux projets dirigés par Gabriel Rymberg (Israël) qui visent à faire connaître la vie et les enseignements de Jésus au général publique.
 - Un atelier récréatif très amusant, animé par Ina Terra (Pays-Bas), Luis García Bory (Suisse) et Pablo Andrés Segovia (Portugal) dans lequel nous avons « cuisiné » des cupcakes spirituels, avec quelques ingrédients de base auxquels on a ajouté en supplément les fruits de l'esprit.
 - Une présentation de Rogério Reis da Silva (Portugal) sur Saint Jean de la Croix et la relation de son expérience religieuse avec les enseignements du _Livre d'Urantia_.

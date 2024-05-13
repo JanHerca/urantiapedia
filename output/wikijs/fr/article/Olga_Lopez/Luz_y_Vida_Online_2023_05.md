@@ -253,7 +253,7 @@ Je considère qu'elle s'est renforcée, il y a des documents qui font comprendre
 
 6. **Y a-t-il des points (ou des points) de la révélation que vous trouvez difficiles à accepter ?**
 
-Oui, la personnalité, l'âme, où se trouvent-elles ? Apparaissent-ils avant ou après la naissance ? Ses devoirs ? Les développeurs en parlent peu. Et quelle est la fonction des anges ? On sait où ils sont, mais pour quoi faire ?
+Oui, la personnalité, l'âme, où se trouvent-elles ? Apparaissent-ils avant ou après la naissance ? Ses devoirs ? Les révélateurs en parlent peu. Et quelle est la fonction des anges ? On sait où ils sont, mais pour quoi faire ?
 
 7. **Quelle est la partie qui vous a le plus impressionné ?**
 

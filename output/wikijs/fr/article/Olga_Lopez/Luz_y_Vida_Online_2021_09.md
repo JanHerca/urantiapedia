@@ -140,7 +140,7 @@ Ce travail s'inspire d'autres travaux secondaires de l'auteur (recueillis dans l
 
 [**Gravity, Newton, Einstein et LU (auteur inconnu)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Gravedad.pdf)
 
-Dans cet ouvrage, l'auteur réfléchit sur le fait que les développeurs semblaient connaître la théorie d'Einstein mais utilisaient néanmoins des termes newtoniens pour exposer le contenu lié à la gravité, à la matière et à l'énergie. Cela pourrait-il être un indicateur que les deux approches ont leur part de vérité, ou cela fait-il partie des limites des développeurs ? Pendant ce temps, les scientifiques ont effectué des mesures et formulé des théories qui semblent correspondre aux affirmations scientifiques du livre.
+Dans cet ouvrage, l'auteur réfléchit sur le fait que les révélateurs semblaient connaître la théorie d'Einstein mais utilisaient néanmoins des termes newtoniens pour exposer le contenu lié à la gravité, à la matière et à l'énergie. Cela pourrait-il être un indicateur que les deux approches ont leur part de vérité, ou cela fait-il partie des limites des révélateurs ? Pendant ce temps, les scientifiques ont effectué des mesures et formulé des théories qui semblent correspondre aux affirmations scientifiques du livre.
 <br style="clear:both" />
 
 ---
@@ -173,7 +173,7 @@ Selon les mots de son auteur, un lecteur canadien, « Jésus n'est pas venu sur 
 
 **RÉCIT JOURNALISTE DE LA VIE ET DES ENSEIGNEMENTS DE JÉSUS SELON _LE LIVRE D'URANTIA_**
 
-Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les développeurs nous disent dans le document 125. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
+Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les révélateurs nous disent dans le document 125. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
 
 [Résumé du document 125](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/07/Documento-125.pdf)
 <br style="clear:both" />

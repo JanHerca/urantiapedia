@@ -158,7 +158,7 @@ Dans cet ouvrage, l'auteur passe en revue et répond à une série de déclarati
 
 **RECOMPTE JOURNALISTE DE LA VIE ET DES ENSEIGNEMENTS DE JESUS SELON _LE LIVRE D'URANTIA_**
 
-Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les développeurs nous disent dans le document 126. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
+Nous vous présentons le prochain volet des chroniques de la vie de Jésus, qui contient à cette occasion ce que les révélateurs nous disent dans le document 126. Dans le PDF, vous verrez un bouton à partir duquel vous pourrez accéder au texte du document depuis le Site Web de la Fondation Urantia.
 
 [Résumé du document 126](http://aue.urantia-association.org/wp-content/uploads/sites/6/2021/09/Documento-126.pdf)
 <br style="clear:both" />

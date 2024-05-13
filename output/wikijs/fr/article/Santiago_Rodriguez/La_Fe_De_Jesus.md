@@ -131,7 +131,7 @@ La situation est très simple :
 - Notre religion est très simple : Dieu est notre Père, nous sommes donc tous Frères.
 - La foi nous fera avancer et grandir, nous découvrirons la volonté du Père à travers la Prière et l'Adoration. Vivons toujours en étant conscients que nous sommes réellement en présence du Père Universel.
 
-De plus, les développeurs nous posent deux défis :
+De plus, les révélateurs nous posent deux défis :
 
 1. Découvrez ce que Jésus croyait, découvrez ses idéaux et efforcez-vous d’atteindre le noble objectif de sa vie.
 2. Obtenez une meilleure communication avec l’Ajusteur qui réside dans notre esprit, efforcez-vous d’atteindre les royaumes imprécis et flous de la conscience de l’âme embryonnaire.

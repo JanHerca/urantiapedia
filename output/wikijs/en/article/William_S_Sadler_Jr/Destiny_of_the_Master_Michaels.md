@@ -40,7 +40,7 @@ Why should the worlds of the Eternal Son be non-personal when he is a personal b
 
 That’s the limitation of the Absolute Personality. He can’t create personality. Both the Father and the Spirit can. When we get into personality we’ll observe this. But he creates, and when he creates in a solitary fashion, he produces other-than-personal beings. And these are the inhabitants of the second belt of Paradise satellites. 
 
-Let’s do a little thinking. What is the objective of SonSpirit collaboration? We are now drawing to the closing chapters of the present universe age. 
+Let’s do a little thinking. What is the objective of Son-Spirit collaboration? We are now drawing to the closing chapters of the present universe age. 
 
 What are the Creator Son and Creative Spirit attempting to do? Well, obviously, their immediate job is to attempt to duplicate on a one per cent basis what the Father and Son did in Havona. The local universe has one per cent as many inhabited worlds as there are in Havona—ten million in relation to a billion. They’re going to do this in time. They’re going to grow experientially in the process. 
 

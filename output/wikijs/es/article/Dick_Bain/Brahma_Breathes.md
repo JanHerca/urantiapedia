@@ -70,7 +70,7 @@ La curva superior de la Figura 3 muestra cómo cambia el tamaño del universo a 
 
 ## Tamaño Máximo y Mínimo del Universo Observable.
 
-He elegido limitar esta discusión al universo observable porque eso es todo lo que nuestros astrónomos pueden medir. _El Libro de Urantia_ parece indicar que este universo observable se extiende sólo hasta el borde exterior del primer nivel del espacio exterior. (<a id="a72_264"></a>[LU 12:1.14](/es/The_Urantia_Book/12#p1_14)) Si el primer nivel del espacio exterior y el nivel del superuniverso juntos tienen un grosor de unos 51 millones de años luz, ¿qué grosor o cuál es el radio desde el centro de rotación ( Paradise) hasta el borde exterior de la primera OSL?
+He elegido limitar esta discusión al universo observable porque eso es todo lo que nuestros astrónomos pueden medir. _El Libro de Urantia_ parece indicar que este universo observable se extiende sólo hasta el borde exterior del primer nivel del espacio exterior. (<a id="a72_264"></a>[LU 12:1.14](/es/The_Urantia_Book/12#p1_14)) Si el primer nivel del espacio exterior y el nivel del superuniverso juntos tienen un grosor de unos 51 millones de años luz, ¿qué grosor o cuál es el radio desde el centro de rotación (Paraíso) hasta el borde exterior de la primera OSL?
 
 En un artículo anterior, determiné que el radio del universo central era probablemente inferior a 1000 años luz [^1] Si es así, entonces su tamaño es lo suficientemente pequeño como para ignorarlo al calcular el radio y el volumen del universo visible.
 

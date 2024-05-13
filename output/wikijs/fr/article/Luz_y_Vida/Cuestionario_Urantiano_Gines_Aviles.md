@@ -122,7 +122,7 @@ Laissez chacun suivre son cœur dans ce sens, cela aide seulement d'être ouvert
 
 ## 12. Y a-t-il autre chose que vous aimeriez dire concernant « Le Livre d'Urantia » ?
 
-Soulignez que ce qui est important dans le livre, ce sont ses enseignements et non le livre lui-même, comme nous le disent les développeurs. Et nous ne doutons pas que ceux-ci transformeront la face de la Terre. Souhaitez-vous y participer ? :rougir:
+Soulignez que ce qui est important dans le livre, ce sont ses enseignements et non le livre lui-même, comme nous le disent les révélateurs. Et nous ne doutons pas que ceux-ci transformeront la face de la Terre. Souhaitez-vous y participer ? :rougir:
 
 ## Références
 

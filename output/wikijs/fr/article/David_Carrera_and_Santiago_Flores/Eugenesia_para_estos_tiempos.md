@@ -176,7 +176,7 @@ Si le problème est héréditaire, la clé est la _transmission_. Et si la clé 
 
 Vous n'avez pas d'autre solution pour la source du problème numéro 3.
 
-Les scientifiques d'aujourd'hui manipulent l'ADN mais ce dont nous héritons doit être « quelque chose de plus », les développeurs l'appellent « plasma vital » et cela doit affecter plus de niveaux de réalité que ce qui constitue l'être humain en dehors du corps physique.
+Les scientifiques d'aujourd'hui manipulent l'ADN mais ce dont nous héritons doit être « quelque chose de plus », les révélateurs l'appellent « plasma vital » et cela doit affecter plus de niveaux de réalité que ce qui constitue l'être humain en dehors du corps physique.
 
 L'esprit, bien sûr. La personnalité, discutable.
 

@@ -39,7 +39,7 @@ Lors de la préparation d'un ouvrage dans lequel j'essaie d'investiguer ce point
 
 Il y a quelque temps, un lecteur américain « senior », lors de la rencontre internationale organisée en Espagne, a suggéré que ce temps – le temps qu'il nous faudrait pour atteindre le Paradis – était d'environ 200 milliards d'années, selon ce qui ressortait clairement de la lecture du livre. Honnêtement, j'étais excité d'apprendre ce numéro et j'étais encore plus excité de comprendre qu'il était « caché » dans le texte lui-même, et pourtant il était là, à la portée des lecteurs.
 
-Pour ce faire, il n'y avait rien d'autre que relier deux informations apparemment sans lien, ce qui s'avère être une stratégie commune des développeurs lors de l'écriture des textes et nécessaire pour notre compréhension ultérieure du livre.
+Pour ce faire, il n'y avait rien d'autre que relier deux informations apparemment sans lien, ce qui s'avère être une stratégie commune des révélateurs lors de l'écriture des textes et nécessaire pour notre compréhension ultérieure du livre.
 
 L'estimation de 200 milliards d'années provient de deux citations du livre que j'inclus maintenant telles qu'elles apparaissent dans l'édition européenne :
 

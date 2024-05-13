@@ -40,13 +40,13 @@ _La siguiente es la transcripción de una visita realizada por William S. «Bill
 
 Esa es la limitación de la Personalidad Absoluta. No puede crear personalidad. Tanto el Padre como el Espíritu pueden. Cuando entremos en la personalidad observaremos esto. Pero crea, y cuando crea en solitario, produce seres distintos a los personales. Y estos son los habitantes del segundo cinturón de satélites del Paraíso.
 
-Pensemos un poco. ¿Cuál es el objetivo de la colaboración con SonSpirit? Ahora estamos llegando a los capítulos finales de la era actual del universo.
+Pensemos un poco. ¿Cuál es el objetivo de la colaboración del Hijo y el Espíritu? Ahora estamos llegando a los capítulos finales de la era actual del universo.
 
 ¿Qué intentan hacer el Hijo Creador y el Espíritu Creativo? Bueno, obviamente, su trabajo inmediato es intentar duplicar en una base del uno por ciento lo que el Padre y el Hijo hicieron en Havona. El universo local tiene el uno por ciento de los mundos habitados que hay en Havona: diez millones en relación con mil millones. Van a hacer esto a tiempo. Van a crecer experiencialmente en el proceso.
 
 Cuando un Hijo Creador ha terminado su carrera de autootorgamiento, ya no lo llaman Hijo Creador, ¿verdad? Lo llaman Hijo Maestro. En ese momento recibe el título de Soberano de su universo local. Y hace un nuevo juramento. El primer juramento que hizo fue el de no asumir la soberanía sin ganársela.
 
-Ahora que se lo ha ganado, y lo hacen Soberano, le ponen una nueva restricción. Hace otro juramento: no hacer nada radicalmente nuevo. Esto no significa que no pueda continuar usando la imaginación creativa en la elaboración posterior de los planes que se han propuesto. Tiene dos tercios del universo local por delante. Habrá más ramificaciones, pero nada radicalmente nuevo.
+Ahora que se lo ha ganado, y lo hacen Soberano, le ponen una nueva restricción. Hace otro juramento: no hacer nada radicalmente nuevo. Esto no significa que no puede continuar usando la imaginación creativa en la elaboración posterior de los planes que se ha propuesto. Tiene dos tercios del universo local por delante. Habrá más ramificaciones, pero nada radicalmente nuevo.
 
 ¿Por qué? Tengo una teoría. Creo que un Hijo Creador es más que finito. Y creo que cuando se convierte en un Hijo Maestro, tiene algunos potenciales superfinitos que podrían operar, y no quieren que operen en la era actual del universo. Eso es para la próxima era del universo. Y creo que simplemente se aseguran diciendo: «_Ahora, mira, mantén esto en reserva._».
 
@@ -66,7 +66,7 @@ Creo que en la próxima era del universo, la era del primer nivel del espacio ex
 
 Creo que van a ser dirigidos por estos tres seres: la Unión de los Días, la Estrella Brillante y Matutina y el Padre Melquisedec, aunque creo que Miguel siempre conservará el título de «_Soberano de Nebadon_», tal como el carpintero lleva el título, «_Príncipe Planetario de Urantia_». Ese no es un título para un Hijo Creador, pero es un gran honor para un ser humano llevar ese título.
 
-Y no te imaginas que de verdad engalanarán las calles de Salvington con farolillos japoneses y conejitos en aquellas ocasiones en que Miguel vuelva a visitar su capital, viniendo del espacio exterior camino del Paraíso. Esta será la ocasión para un gran jamboree en Salvington.
+Y no te imaginas que de verdad engalanarán las calles de Salvington con farolillos japoneses y conejitos en aquellas ocasiones en que Miguel vuelva a visitar su capital, viniendo del espacio exterior camino del Paraíso. Esta será la ocasión para un gran festival en Salvington.
 
 ¿Pero no ves? Los dos Creadores se han quedado sin trabajo cuando su universo local se asienta en la luz y la vida.
 
@@ -86,7 +86,7 @@ Echemos un vistazo a <a id="a78_21"></a>[LU 56:7.7](/es/The_Urantia_Book/56#p7_7
 
 Bueno, podría significar que los Espíritus Maestros van a estar más preocupados por el espacio exterior. Recuerde, estos Espíritus Rectores no son finitos. Estos Espíritus Maestros personifican todo lo Supremo, todo lo Último y todos los atributos SupremoÚltimo de la Deidad del Paraíso, pero no sus atributos absolutos.
 
-Hemos llegado al final de la era actual del universo. Los periódicos hacen algunas especulaciones interesantes. (Romper en la cinta). …encontrar al Ser Supremo. Recordarás que Dios Padre y Dios Supremo no hacen acepción de personas. Pero funcionan de manera diferente. Con Dios el Padre, tienes una relación de «_cada_». Con Dios el Supremo, tienes una relación de «_todos_». Ninguna criatura encontrará a Dios Supremo hasta que todas las criaturas puedan encontrar a Dios Supremo.
+Hemos llegado al final de la era actual del universo. Los documentos hacen algunas especulaciones interesantes. (Silencio en la cinta). …encontrar al Ser Supremo. Recordarás que Dios Padre y Dios Supremo no hacen acepción de personas. Pero funcionan de manera diferente. Con Dios el Padre, tienes una relación de «_cada_». Con Dios el Supremo, tienes una relación de «_todos_». Ninguna criatura encontrará a Dios Supremo hasta que todas las criaturas puedan encontrar a Dios Supremo.
 
 Y cuando encontremos a Dios Supremo, vamos a encontrar a Dios como comprensible para las criaturas. Podemos comprender al Ser Supremo porque somos como él. Tenía un origen en el tiempo. No tenemos que volver atrás y decir: «_Vaya, pero en realidad nunca sucedió de esta manera_».
 
@@ -110,27 +110,27 @@ Pienso en ellos como planos vivientes. Dios tiene un plan para el universo maest
 
 Son superpersonales. Son más que personales. Eso no significa que no podamos lidiar con ellos. Por ejemplo, cuando ingresamos al Cuerpo de la Finalidad, el ser que nos jura es el Arquitecto mayor.
 
-Tenemos un Arquitecto en el nivel Paradise. Tres en el nivel de Havona. Siete Arquitectos en el nivel espacial del superuniverso. Caramba, eso tiene sentido, ¿no? Hay siete superuniversos.
+Tenemos un Arquitecto en el nivel del Paraíso. Tres en el nivel de Havona. Siete Arquitectos en el nivel espacial del superuniverso. Caramba, eso tiene sentido, ¿no? Hay siete superuniversos.
 
 Hay setenta Arquitectos asignados al primer nivel del espacio exterior. Y en un lugar de los documentos, hablan de las observaciones de sus astrónomos, no de los nuestros, y dicen que en el primer nivel del espacio exterior ya han detectado setenta agregados importantes de materia, cualquiera de los cuales es mucho más grande que un superuniverso. ¡Esto es grande!
 
 ¿Recuerdas cuando calculan la salida de la gravedad del Paraíso? Verás, si puedes medir cuánta gravedad está ejerciendo el Paraíso, habrás medido la masa de la creación, ¿no es así?
 
-Dado que Paradise emite gravedad en proporción directa a la masa que tiene que controlar. Y solo el 5% de la gravedad del Paraíso está presente en el gran universo. No, 15% creo. Comprobemos eso. 5%. El noventa y cinco por ciento de la actual producción de gravedad del Paraíso se dedica a controlar las creaciones materiales fuera de los siete superuniversos y Havona.
+Dado que el Paraíso emite gravedad en proporción directa a la masa que tiene que controlar. Y solo el 5% de la gravedad del Paraíso está presente en el gran universo. No, 15% creo. Comprobemos eso. 5%. El noventa y cinco por ciento de la actual producción de gravedad del Paraíso se dedica a controlar las creaciones materiales fuera de los siete superuniversos y Havona.
 
 95%. Obtienes esto en <a id="a120_22"></a>[LU 12:3](/es/The_Urantia_Book/12#p3) El quince por ciento de la gravedad mental del Espíritu Infinito es inexplicable, a menos que esté operando en el espacio exterior. Mira, tienes inteligencia ahí fuera. Creo que los organizadores de la fuerza.
 
-Aparentemente, toda la gravedad espiritual del Hijo Eterno puede ser explicada por los siete superuniversos y Havona. Pero se cubren un poco. Dicen: «_Mira, si hubiera algunos seres espirituales por ahí, el número es tan pequeño que no creemos que podamos captarlo, ¿ves?». La inferencia es que los Mensajeros Solitarios tal vez puedan salir. Tal vez los Espíritus Trinitarios Inspirados puedan salir. Los periódicos dicen que son los únicos dos que nos han revelado que pueden colaborar con los Organizadores de la Fuerza.
+Aparentemente, toda la gravedad espiritual del Hijo Eterno puede ser explicada por los siete superuniversos y Havona. Pero se cubren un poco. Dicen: «_Mira, si hubiera algunos seres espirituales por ahí, el número es tan pequeño que no creemos que podamos captarlo, ¿ves?_». La inferencia es que los Mensajeros Solitarios tal vez puedan salir. Tal vez los Espíritus Trinitarios Inspirados puedan salir. Los documentos dicen que son los únicos dos que nos han revelado que pueden colaborar con los Organizadores de la Fuerza.
 
 Ahora, yo no creo en la numerología. Pero sí creo que hay una lógica en los números.
 
-Por ejemplo, la razón mendeliana es una ley básica del azar. Entraremos en la proporción mendeliana, porque aparece en todos estos documentos. A medida que obtienes estas llamadas criaturas de fuerza, ¿sabes? ¿Como estos Divinos Verdugos y la Comisión Conciliadora?
+Por ejemplo, la razón mendeliana es una ley básica del azar. Entraremos en la proporción mendeliana, porque aparece en todos estos documentos. A medida que obtienes estas llamadas criaturas de fuerza, ¿sabes? ¿Como estos Ejecutores Divinos y la Comisión Conciliadora?
 
 ¿Por qué había siete Espíritus Maestros, y no seis, y no ocho? Bueno, tú lo calculas. Si tomas las tres Deidades individualmente y por separado, solo hay siete expresiones posibles, ¿verdad? Es inherente a los números. DE ACUERDO.
 
-Si la esencia del crecimiento del Supremo es la colaboración entre los Creadores Supremos y las Deidades del Paraíso, y si los Siete Espíritus Maestros expresan principalmente a los Creadores Supremos y sabemos que esto es un hecho, al menos en el caso de Majeston , entonces, si hay un número que se uniría al Ser Supremo, sería diez, ¿no? Siete en relación a tres. ¿Hay alguna orden para eso? Yo digo si. Echémosle un vistazo de nuevo, esto puede estar en cualquiera de dos lugares, maldita sea.
+Si la esencia del crecimiento del Supremo es la colaboración entre los Creadores Supremos y las Deidades del Paraíso, y si los Siete Espíritus Maestros expresan principalmente a los Creadores Supremos y sabemos que esto es un hecho, al menos en el caso de Majeston , entonces, si hay un número que se uniría al Ser Supremo, sería diez, ¿no? Siete en relación a tres. ¿Hay alguna orden para eso? Yo digo si. Echémosle un vistazo de nuevo, esto puede estar en cualquiera de dos lugares, caramba.
 
-Los mundos del Padre «_abarcan los potenciales de la función del universo maestro._» <a id="a132_85"></a>[[LU 13:0.7](/es/The_Urantia_Book/13#p0_7)] Y al hablar de los gobernantes de estos mundos, están hablando de los Trinidizados Secretos de supremacía. Y hay diez Secretos Trinidizados de Supremacía en cada uno de los mundos del Padre. ¿Tu recuerdas? Divinington, Sonarington, etc.
+Los mundos del Padre «_abarcan los potenciales de la función del universo maestro._» <a id="a132_85"></a>[[LU 13:0.7](/es/The_Urantia_Book/13#p0_7)] Y al hablar de los gobernantes de estos mundos, están hablando de los Secretos Trinidizados de Supremacía. Y hay diez Secretos Trinidizados de Supremacía en cada uno de los mundos del Padre. ¿Tu recuerdas? Divinington, Sonarington, etc.
 
 «_El trabajo de cada uno de estos mundos especiales está dividido en siete departamentos principales, y uno de estos gobernantes coordinados preside cada una de estas divisiones de actividades especializadas. Los tres restantes actúan como representantes personales de la Deidad trina en relación con los otros siete, uno representando al Padre, el otro al Hijo y el tercero al Espíritu._» [[LU 18:1.2](/es/The_Urantia_Book/18#p1_2 )] Creo que donde encuentras el número diez, encuentras la función del Ser Supremo. Y veamos si esto resiste la lógica. ¿Aparece el número diez antes de la aparición del Ser Supremo? La respuesta es no, en este cálculo. Pero el número diez se repite en cada uno de los niveles del espacio exterior, desde el primero hasta el cuarto. Y creo que está ahí porque el Ser Supremo está funcionando. ¿Estás conmigo?
 
@@ -146,13 +146,13 @@ Estos son los Arquitectos.
 
 Ahora, entramos en esto porque estamos hablando de la Primera Trinidad Experiencial. Y creo que es muy significativo que la finalización del Universo Maestro presencie la aparición de una Trinidad. La finalización de Havona fue testigo de la aparición de una Trinidad.
 
-Ahora bien, ¿obtendremos un Trinity cada vez que completemos algo?
+Ahora bien, ¿obtendremos una Trinidad cada vez que completemos algo?
 
-No. Solo hay tres Trinidades proyectadas. ¿Cuándo aparecerá la Segunda Trinidad Experiencial? Cada vez que aparece Dios el Último. ¿Y cuándo aparecerá Dios Último? No hasta que todo el Universo Maestro se haya completado.
+No. Solo hay tres Trinidades proyectadas. ¿Cuándo aparecerá la Segunda Trinidad Experiencial? Cuando aparezca Dios el Último. ¿Y cuándo aparecerá Dios Último? No hasta que todo el Universo Maestro se haya completado.
 
 Creo que obtienes un universo nuclear cada vez que se forma una trinidad. Havona es obviamente el núcleo del Gran Universo, ¿no es así? Y, la Trinidad del Paraíso se formó simultáneamente con la aparición de Havona.
 
-Me gustaría presentar que el Gran Universo, los siete superuniversos que dependen de Havona, incluyo todo, ahora, es el segundo universo nuclear, porque se forma una Trinidad concurrente con la aparición completa del Gran Universo. Y por apariencia completa, me refiero al perfeccionamiento del Gran Universo.
+Me gustaría presentar que el Gran Universo, los siete superuniversos que dependen de Havona, incluye todo, ahora, es el segundo universo nuclear, porque se forma una Trinidad concurrente con la aparición completa del Gran Universo. Y por aparición completa, me refiero al perfeccionamiento del Gran Universo.
 
 Pienso que el Gran Universo es el núcleo, el verdadero núcleo, del Universo Maestro. Creo que el núcleo debe tener dentro las semillas del crecimiento para el futuro, y Havona es perfecto. Básicamente, Havona es inherentemente no experiencial. Creo que tienes que agregar un componente experiencial al Havona existencial para obtener un núcleo real para un universo experiencial. ¿Estás conmigo?
 
@@ -190,7 +190,7 @@ En otras palabras, si la Segunda Trinidad Experiencial pudiera unificarse comple
 
 Este acto de trinitización está simbolizado en mi mente por la siguiente imagen: Hay dos poderosos hermanos experienciales, uno mayor y uno menor. Llevan un estupendo ariete. Este ariete es la soberanía experiencial ganada de todo el Universo Maestro. Se acercan a un muro formidable que tiene la etiqueta «_Absoluto». Y cuando llegan ante este muro, el Último le dice al Supremo: «_Golpea fuerte, hermano, lo estamos atravesando». Saben muy bien que nunca podrán derribar este muro, pero también saben que lo van a romper. Consideren, solo consideren la masividad del ariete que están balanceando: la inmensidad total de la poderosa movilización de toda la experiencia en el Universo Maestro completo.
 
-Mirar. ¿Estaremos allí? presento que si. Y aquí está mi razón. La razón por la que les ofrezco este pensamiento especulativo es porque es una cuerda en la que he podido enhebrar tantas cuentas en estos papeles que ayudan a iluminar.
+Mirad. ¿Estaremos allí? Presiento que sí. Y aquí está mi razón. La razón por la que les ofrezco este pensamiento especulativo es porque es una cuerda en la que he podido enhebrar tantas cuentas en estos documentos que ayudan a iluminar.
 
 En <a id="a194_3"></a>[LU 112:1.9](/es/The_Urantia_Book/112#p1_9), junto al último párrafo: «_El tipo de personalidad otorgado a los mortales de Urantia posee un potencial de siete dimensiones de expresión del yo, o de realización de la persona._» Y no me pregunten por qué tiene esto, porque así lo diseñó Dios. Viene de él, con estas propiedades.
 
@@ -198,11 +198,11 @@ En <a id="a194_3"></a>[LU 112:1.9](/es/The_Urantia_Book/112#p1_9), junto al últ
 
 > Esta dimensión suprema es un absoluto asociable y, aunque no es infinita, posee un potencial dimensional que permite la penetración subinfinita de lo absoluto._” <a id="a198_164"></a>[[LU 112:1.9](/es/The_Urantia_Book/112#p1_9)]
 
-Vamos a patear eso. Tenemos el equipo necesario en este momento cuando rompan este muro; no podemos romperlo, pero podemos atravesar cualquier agujero que hagan. ¿Qué significa «_penetración subinfinita de lo absoluto_»? Bueno, uso esta ilustración más adelante: no puedo beber todo el jugo de naranja en la ciudad de Chicago, pero eso no significa que no pueda beber un poco y que no pueda seguir bebiendo jugo de naranja.
+Vamos a darle una vuelta a eso. Tenemos el equipo necesario en este momento cuando rompan este muro; no podemos romperlo, pero podemos atravesar cualquier agujero que hagan. ¿Qué significa «_penetración subinfinita de lo absoluto_»? Bueno, uso esta ilustración más adelante: no puedo beberme todo el zumo de naranja de la ciudad de Chicago, pero eso no significa que no pueda beber un poco y que no pueda seguir bebiendo jugo de naranja.
 
 Havona es una representación sub-infinita del concepto de Dios de un universo absolutamente perfecto. Sin embargo, no es infinito, ¿verdad? Tiene un borde exterior.
 
-Creo que estaremos allí cuando esto suceda. Y creo que tendrá lugar tan seguro como empezó la maldita cosa. Verás, así como Jesús retrata el camino divino hacia Dios, así el Ser Supremo es el camino desde las limitaciones finitas hasta las aventuras absonitas. Y así, el Supremo y el Último son el camino hacia la aventura final, el intento interminable de descubrir más y más acerca de Dios como Absoluto.
+Creo que estaremos allí cuando esto suceda. Y creo que tendrá lugar tan seguro como empezó la cosa esta. Verás, así como Jesús retrata el camino divino hacia Dios, así el Ser Supremo es el camino desde las limitaciones finitas hasta las aventuras absonitas. Y así, el Supremo y el Último son el camino hacia la aventura final, el intento interminable de descubrir más y más acerca de Dios como Absoluto.
 
 Este es un crecimiento que podemos comenzar. Y no es maravilloso que nunca podamos terminarlo.
 
@@ -214,7 +214,7 @@ Está en una de las zonas del paraíso inferior. Se cree que esta es la focaliza
 
 También impregna todo el espacio, pero aquí está su focalización central.
 
-Cuerpos oscuros lo mismo que cuerpos oscuros. Sí no, ¿Cuál es la diferencia?
+Cuerpos oscuros lo mismo que cuerpos oscuros. Si no, ¿Cuál es la diferencia?
 
 Hay dos tipos de cuerpos oscuros descritos en estos documentos. Y veamos su terminología técnica. Están hablando de los dos cinturones de cuerpos oscuros de gravedad que rodean a Havona. Ahora, estos cuerpos oscuros de gravedad que rodean a Havona son como ninguna otra materia en ningún otro lugar, porque exhiben gravedad tanto lineal como circular. Exhiben el tipo de gravedad que es peculiar del Paraíso, y también exhiben el tipo de gravedad que es como la gravedad que conocemos: la gravedad en línea recta. Y se encuentran solo en estos dos cinturones que rodean el Universo Central, y en ningún otro lugar. Ahora, creo que a lo que se refiere esta pregunta es de otro tipo.
 
@@ -228,7 +228,7 @@ Ahora, no tenemos datos dados en ninguna parte en cuanto a las dimensiones del s
 
 Pero dado que ni siquiera podemos estimar tal factor, he optado por especular en el lado más conservador y suponer que la tasa de aceleración es la tasa constante que hemos deducido.
 
-Entonces. Dibujamos una pulgada. Ahora hemos ido desde Paradise aproximadamente hasta el borde de Orvonton. Luego dibujamos cien pulgadas. Ahora cruzamos el primer nivel del espacio exterior. Ahora, para cruzar el segundo nivel del espacio exterior, dibujamos diez mil pulgadas.
+Entonces. Dibujamos una pulgada. Ahora hemos ido desde el Paraíso aproximadamente hasta el borde de Orvonton. Luego dibujamos cien pulgadas. Ahora cruzamos el primer nivel del espacio exterior. Ahora, para cruzar el segundo nivel del espacio exterior, dibujamos diez mil pulgadas.
 
 Recuerde, esta es solo la relación lineal. La relación cúbica es otra cosa otra vez. Y me cansé de multiplicar en este punto, así que no lo resolví.
 
@@ -240,7 +240,7 @@ Oh, voy a salir en línea recta desde el centro. Estamos tratando con el radio a
 
 Para que sea más fácil de calcular, tomemos una milla a cinco mil pies, en lugar de 5280, y podemos ver que el tercer nivel del espacio exterior tiene 16 millas de ancho.
 
-Orvonton tiene una pulgada de ancho. El tercer nivel del espacio exterior tiene dieciséis millas de ancho. Y eso no tiene en cuenta el espacio muerto entre. Solo lo estoy ignorando. Es pequeño en relación con el todo.
+Orvonton tiene una pulgada de ancho. El tercer nivel del espacio exterior tiene dieciséis millas de ancho. Y eso no tiene en cuenta el espacio muerto entre ellos. Solo lo estoy ignorando. Es pequeño en relación con el todo.
 
 Creo que las zonas tranquilas se hacen más grandes, más al otro lado.
 
@@ -248,19 +248,19 @@ Bueno, ¿qué tal el cuarto nivel del espacio exterior? Vamos a resumirlo. Si el
 
 Sabes, quiero decirte que el fin de semana que calculé estos números, casi se me caen los dientes en el escritorio.
 
-Ahora, analicemos esto y hagámoslo realmente simple. Quiero que visualices una pelota de tenis. Tiene cerca de dos pulgadas de diámetro, un poco grande. No me importa la precisión aquí, ahora todo lo que estoy hablando aquí es un sentimiento para esto. ¿Ves la pelota de tenis? Dos pulgadas de diámetro. ¿Puedes visualizar un dormitorio pequeño? Ocho pies cúbicos. Flotar la pelota de tenis en el dormitorio pequeño.
+Ahora, analicemos esto y hagámoslo realmente simple. Quiero que visualices una pelota de tenis. Tiene cerca de dos pulgadas de diámetro, un poco grande. No me importa la precisión aquí, ahora todo lo que estoy hablando aquí es un sentimiento para esto. ¿Ves la pelota de tenis? Dos pulgadas de diámetro. ¿Puedes visualizar un dormitorio pequeño? Ocho pies cúbicos. Deja flotar la pelota de tenis en el dormitorio pequeño.
 
 La pelota de tenis es el Gran Universo.
 
 Ahora estás pensando en los siete superuniversos y Havona en relación con el tamaño del primer nivel del espacio exterior.
 
-Usaremos este término pelota de tenis varias veces. Ahora, visualicemos una manzana de la ciudad con diez lotes de veinticinco metros. Estos son sitios de construcción cómodos. Es un poco menos de cien pies de metraje frontal. Es un bloque de ochocientos pies con diez casas cómodas en él. Ahora, haz un cubo de este bloque. Y hacer flotar nuestro pequeño dormitorio en el bloque cúbico. Ahora tienes el primer nivel del espacio exterior en relación con el segundo nivel del espacio exterior.
+Usaremos este término pelota de tenis varias veces. Ahora, visualicemos una manzana de la ciudad con diez parcelas de veinticinco metros. Estos son sitios de construcción holgados. Es un poco menos de cien pies de metraje frontal. Es un bloque de ochocientos pies con diez casas cómodas en él. Ahora, haz un cubo de este bloque. Y hacer flotar nuestro pequeño dormitorio en el bloque cúbico. Ahora tienes el primer nivel del espacio exterior en relación con el segundo nivel del espacio exterior.
 
 El bloque es el segundo. Una manzana de la ciudad. Tengo que conseguir cosas por las que sentimos, ¿sabes?
 
-Traté de pensar en lo que sería un cubo de dieciséis millas, y decidí que podríamos cubo la ciudad de Chicago. No puedes cubo Los Ángeles, porque es casi más grande que América del Norte...
+Traté de pensar en lo que sería un cubo de dieciséis millas, y decidí que podríamos cubicar la ciudad de Chicago. No puedes cubicar Los Ángeles, porque es casi más grande que América del Norte...
 
-Pero flota nuestra cuadra de la ciudad en el Chicago cúbico. Y ahora tienes el segundo nivel del espacio exterior en relación con el tercero.
+Pero deja flotar nuestra manzana de la ciudad en el Chicago cúbico. Y ahora tienes el segundo nivel del espacio exterior en relación con el tercero.
 
 Bueno, seguí buscando, ¿qué simbolizaría el cuarto? No hay nada que funcione exactamente. Pero el diámetro de la luna es de 2100 millas, y lo que necesitamos es algo que tenga 3200 millas, pero la luna es el objeto más cercano que puedo pensar que tiene la magnitud correcta para flotar en Chicago.
 
@@ -270,13 +270,13 @@ Piensa en estos dormitorios y esas cosas, deberíamos estar pensando en donuts c
 
 ¿Ves por qué cada compañía de finalistas tiene asociados mil Mensajeros de Gravedad?
 
-van rápido? Van al instante. Y cuando estás lidiando con distancias como esta, tienes que tener algunas técnicas de comunicación de alta velocidad. Estas distancias son tan grandes, que un Mensajero Solitario tardaría un poco en llegar, ¿sabes? Y un pobre serafín, que sólo puede ir tres veces la velocidad de la luz, bueno, un serafín tarda un tercio de quinientos mil años en ir de aquí a Uversa. Ese es un viaje largo. Le toma a la luz quinientos mil años, ya un serafín le toma un tercio de ese tiempo. Por supuesto, un Mensajero Solitario puede llegar bastante rápido.
+¿Van rápido? Van al instante. Y cuando estás lidiando con distancias como esta, tienes que tener algunas técnicas de comunicación de alta velocidad. Estas distancias son tan grandes, que un Mensajero Solitario tardaría un poco en llegar, ¿sabes? Y un pobre serafín, que sólo puede ir tres veces la velocidad de la luz, bueno, un serafín tarda un tercio de quinientos mil años en ir de aquí a Uversa. Ese es un viaje largo. Le toma a la luz quinientos mil años, y a un serafín le toma un tercio de ese tiempo. Por supuesto, un Mensajero Solitario puede llegar bastante rápido.
 
-Un Gravity Messenger usa la gravedad, y eso se mueve aún más rápido. Creo que dan el tiempo que tarda un Ajustador del Pensamiento en venir de Divinington para residir en un ser humano en Urantia, tomó alrededor de once minutos, parte de ese tiempo dedicado al registro en Uversa. Los Ajustadores del Pensamiento atraviesan el espacio independientemente del tiempo.
+Un Mensajero de Gravedad usa la gravedad, y eso se mueve aún más rápido. Creo que dan el tiempo que tarda un Ajustador del Pensamiento en venir de Divinington para residir en un ser humano en Urantia, tomó alrededor de once minutos, parte de ese tiempo dedicado al registro en Uversa. Los Ajustadores del Pensamiento atraviesan el espacio independientemente del tiempo.
 
-Son rápidos como mensajeros de gravedad. Los Mensajeros de Gravedad son muy parecidos a los Ajustadores del Pensamiento. Son fragmentos del Padre Universal.
+Son rápidos como los Mensajeros de Gravedad. Los Mensajeros de Gravedad son muy parecidos a los Ajustadores del Pensamiento. Son fragmentos del Padre Universal.
 
-Solo echemos un vistazo a ellos. Se discuten en un solo lugar en los periódicos, en relación con el Cuerpo de la Finalidad. <a id="a278_124"></a>[LU 31:2](/es/The_Urantia_Book/31#p2).
+Solo echémosles un vistazo a ellos. Se discuten en un solo lugar en los documentos, en relación con el Cuerpo de la Finalidad. <a id="a278_124"></a>[LU 31:2](/es/The_Urantia_Book/31#p2).
 
 Dice que hay mil de ellos adjuntos a cada compañía finalista de mil, y el principal Mensajero de Gravedad es miembro de la compañía finalista. Dice: «_Ningún otro grupo de criaturas inteligentes posee un cuerpo así de mensajeros personalizados capaces de trascender el tiempo y el espacio. Los tipos similares de mensajeros-registradores destinados en otros cuerpos finalitarios no están personalizados; están absonitizados._» <a id="a280_427"></a>[[LU 31:2.1](/es/The_Urantia_Book/31#p2_1)]
 
@@ -288,7 +288,7 @@ Son Ajustadores personalizados.
 
 > Dice, «_Los Mensajeros de Gravedad y los finalitarios mortales glorificados llegan a tener un afecto profundo y conmovedor los unos por los otros; tienen muchas cosas en común: unos son la personalización directa de un fragmento del Padre Universal; los otros, una personalidad de criatura que existe en el alma inmortal sobreviviente fusionada con un fragmento del mismo Padre Universal, el Ajustador del Pensamiento espiritual._» <a id="a288_434"></a>[[LU 31:2.4](/es/The_Urantia_Book/31#p2_4)]
 
-La razón por la que creo que seguimos y seguimos y seguimos no es porque seamos tanto, sino porque los Ajustadores sí lo son. No estoy tan seguro de que tengamos las piernas para llegar tan lejos, pero estamos montando un caballo que es un fragmento de infinito. Creo que vamos a continuar, siguiendo a los Miguels. Los documentos sugieren que los Miguels nunca detendrán la invasión del espacio.
+La razón por la que creo que seguimos y seguimos y seguimos no es porque seamos tanto, sino porque los Ajustadores sí lo son. No estoy tan seguro de que tengamos las piernas para llegar tan lejos, pero estamos montando un caballo que es un fragmento de infinito. Creo que vamos a continuar, siguiendo a los Migueles. Los documentos sugieren que los Migueles nunca detendrán la invasión del espacio.
 
 Hay una declaración maravillosa aquí. A ver si puedo encontrarlo. Deséame suerte. Está en su discusión de la unidad absoluta universal. Estoy empezando un poco por debajo de la mitad de la página:
 
@@ -304,7 +304,7 @@ Ese es el tercer piso. Oh, me encantan estos dos últimos párrafos:
 >
 > El avance incesante y creciente de las fuerzas creativas del Paraíso a través del espacio parece presagiar el ámbito en constante expansión de la atracción gravitatoria del Padre Universal y la multiplicación sin fin de los diversos tipos de criaturas inteligentes que son capaces de amar a Dios y de ser amadas por él, y que, al conocer así a Dios, pueden escoger parecerse a él, pueden elegir alcanzar el Paraíso y encontrar a Dios. <a id="a304_437"></a>[[LU 56:9.12-13](/es/The_Urantia_Book/56#p9_12)]
 
-Y eso es tan cierto para los habitantes del espacio exterior como para nosotros. Solo que, en el espacio exterior, seremos parte de la escalera viviente por la que subirán, así como las personalidades de Havon y Paradise se han convertido en una escalera viviente para que nosotros subamos, desde el estado de un animal, hasta los portales. de Paraiso.
+Y eso es tan cierto para los habitantes del espacio exterior como para nosotros. Solo que, en el espacio exterior, seremos parte de la escalera viviente por la que subirán, así como las personalidades de Havona y el Paraíso se han convertido en una escalera viviente para que nosotros subamos, desde el estado de un animal, hasta los portales del Paraíso.
 
 Bueno, compañeros Argonautas...
 
