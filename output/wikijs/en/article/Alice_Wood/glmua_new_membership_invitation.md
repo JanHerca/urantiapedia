@@ -57,7 +57,7 @@ Two new members may not seem like a whole lot, but for us, it is a year’s wort
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
+- [This issue](https://urantia-association.org/newsletter/tidings-special-issue-march-2022/)
 - [This article](https://urantia-association.org/glmua-new-membership-invitation)
 
 <figure class="table chapter-navigator">

@@ -68,7 +68,7 @@ _Urantia Association of Cali, Colombia_
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2018/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2018/)
 - [This article](https://urantia-association.org/cali-book-fair-2018)
 
 <figure class="table chapter-navigator">

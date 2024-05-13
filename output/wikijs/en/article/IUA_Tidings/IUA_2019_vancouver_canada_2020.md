@@ -78,7 +78,7 @@ Both Focus Groups and Vision Teams will present and share their collective insig
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2019/)
 - [This article](https://urantia-association.org/vancouver-canada-2020)
 
 <figure class="table chapter-navigator">

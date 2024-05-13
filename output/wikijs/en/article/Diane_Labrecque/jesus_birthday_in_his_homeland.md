@@ -70,7 +70,7 @@ Please note: A very _Special Thanks!_ goes to Lisa Crowe for all of her expert d
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2015/)
 - [This article](https://urantia-association.org/jesus-birthday-in-his-homeland)
 
 <figure class="table chapter-navigator">

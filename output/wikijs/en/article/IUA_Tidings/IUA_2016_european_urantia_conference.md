@@ -153,7 +153,7 @@ Link to the European Urantia Event [PDF brochure](http://urantia-association.org
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2016/)
 - [This article](https://urantia-association.org/european-urantia-conference)
 
 <figure class="table chapter-navigator">

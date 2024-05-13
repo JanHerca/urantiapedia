@@ -57,7 +57,7 @@ It currently has about 30 members, although some are no longer very active. We c
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2020/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2020/)
 - [This article](https://urantia-association.org/urantia-belgian-group)
 
 <figure class="table chapter-navigator">

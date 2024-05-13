@@ -77,8 +77,8 @@ While the human biological birth is done without our will, the Spirit’s birth 
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2023/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2023/)
 - [This article](https://urantia-association.org/birth-of-the-spirit-and-spiritual-maturity)
 
 <figure class="table chapter-navigator">

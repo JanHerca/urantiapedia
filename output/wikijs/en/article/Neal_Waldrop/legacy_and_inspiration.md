@@ -122,8 +122,8 @@ With all this in mind, I counsel patience and persistence, mainly continuing to 
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2022/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2022/)
 - [This article](https://urantia-association.org/legacy-and-inspiration)
 
 

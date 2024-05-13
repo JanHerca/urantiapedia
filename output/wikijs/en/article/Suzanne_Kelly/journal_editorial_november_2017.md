@@ -62,8 +62,8 @@ _Journal_ Editor
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2017/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2017/)
 - [This article](https://urantia-association.org/journal-editorial-november-2017)
 
 <figure class="table chapter-navigator">

@@ -70,7 +70,7 @@ I thank Line for giving her time and for giving of herself to these new and pote
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2019/)
 - [This article](https://urantia-association.org/womens-meeting-mancora-peru)
 
 <figure class="table chapter-navigator">

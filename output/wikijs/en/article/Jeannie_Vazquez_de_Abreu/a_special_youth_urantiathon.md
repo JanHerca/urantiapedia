@@ -79,7 +79,7 @@ To see the Youth Urantiathon videos, please access the Urantia Association YouTu
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2023/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2023/)
 - [This article](https://urantia-association.org/a-special-youth-urantiathon)
 
 <figure class="table chapter-navigator">

@@ -74,8 +74,8 @@ My Lord and my God!
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2023/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2023/)
 - [This article](https://urantia-association.org/my-lord-and-my-god)
 
 <figure class="table chapter-navigator">

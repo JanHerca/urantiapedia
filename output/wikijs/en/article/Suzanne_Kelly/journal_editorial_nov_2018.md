@@ -66,8 +66,8 @@ The final essay, **Family Crisis** was adapted from a deeply personal presentati
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2018/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2018/)
 - [This article](https://urantia-association.org/journal-editorial-nov-2018)
 
 <figure class="table chapter-navigator">

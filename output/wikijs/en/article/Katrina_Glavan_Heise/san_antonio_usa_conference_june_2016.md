@@ -63,7 +63,7 @@ President – Lone Star Urantia Association
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2015/)
 - [This article](https://urantia-association.org/san-antonio-usa-conference-june-2016)
 
 <figure class="table chapter-navigator">

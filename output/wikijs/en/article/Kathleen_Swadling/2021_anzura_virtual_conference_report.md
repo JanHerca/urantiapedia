@@ -67,7 +67,7 @@ Thank you to all the silent worker-bees who made this event happen. We hope we w
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2021/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2021/)
 - [This article](https://urantia-association.org/2021-anzura-virtual-conference-report)
 
 <figure class="table chapter-navigator">

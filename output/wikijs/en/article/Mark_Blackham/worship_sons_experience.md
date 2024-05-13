@@ -214,8 +214,8 @@ However, God’s ability to help us is greatly retarded by our own preconceived 
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2019/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2019/)
 - [This article](https://urantia-association.org/worship-sons-experience)
 
 <figure class="table chapter-navigator">

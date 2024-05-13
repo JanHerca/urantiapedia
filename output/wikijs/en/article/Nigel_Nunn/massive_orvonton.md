@@ -168,8 +168,8 @@ But what makes all this even _more_ interesting is the way a cluster of such sup
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2017/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2017/)
 - [This article](https://urantia-association.org/massive-orvonton)
 
 <figure class="table chapter-navigator">

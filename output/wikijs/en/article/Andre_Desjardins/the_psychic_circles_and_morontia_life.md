@@ -141,8 +141,8 @@ The human mind is in no way bound to time and space by transcendence but is enti
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2022/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2022/)
 - [This article](https://urantia-association.org/the-psychic-circles-and-morontia-life)
 
 <figure class="table chapter-navigator">

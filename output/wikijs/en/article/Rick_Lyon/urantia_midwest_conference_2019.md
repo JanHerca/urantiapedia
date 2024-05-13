@@ -69,7 +69,7 @@ Normal, Illinois, is a true midwestern town with the feel and hospitality midwes
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2019/)
 - [This article](https://urantia-association.org/urantia-midwest-conference-2019)
 
 <figure class="table chapter-navigator">

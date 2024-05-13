@@ -54,7 +54,7 @@ Wilson Leon from Colombia, who is the Latin American Continental Coordinator of 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2017/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2017/)
 - [This article](https://urantia-association.org/ecuador-conference)
 
 <figure class="table chapter-navigator">

@@ -70,8 +70,8 @@ Suzanne Kelly
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2017/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2017/)
 - [This article](https://urantia-association.org/journal-editorial-may-2017)
 
 

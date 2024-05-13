@@ -64,8 +64,8 @@ Transcendental ultimates eventuate universe functions that exceed the simple sum
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2017/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2017/)
 - [This article](https://urantia-association.org/ultimacy-master-universe)
 
 <figure class="table chapter-navigator">

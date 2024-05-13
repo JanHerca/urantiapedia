@@ -65,8 +65,8 @@ Note: All submissions must follow quotation guidelines when using quotes from _T
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-february-2016/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-february-2016/)
 - [This article](https://urantia-association.org/journal-editorial-february-2016/)
 
 <figure class="table chapter-navigator">

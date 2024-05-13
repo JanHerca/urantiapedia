@@ -100,7 +100,7 @@ Bradly submitted a resolution to establish a restricted Future Conference Fund t
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2016/)
 - [This article](https://urantia-association.org/international-service-board-at-work-4th-quarter-2015)
 
 <figure class="table chapter-navigator">

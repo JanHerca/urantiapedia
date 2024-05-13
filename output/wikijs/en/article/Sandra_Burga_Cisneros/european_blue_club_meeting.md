@@ -61,7 +61,7 @@ We carry the responsibility to know that this is possible. The next step is to p
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2017/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2017/)
 - [This article](https://urantia-association.org/european-blue-club-meeting)
 
 <figure class="table chapter-navigator">

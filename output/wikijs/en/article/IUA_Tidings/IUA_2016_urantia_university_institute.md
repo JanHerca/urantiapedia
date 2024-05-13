@@ -62,7 +62,7 @@ Learn more about UUI’s exciting new series of classes focused on _The Urantia 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2016/)
 - [This article](https://urantia-association.org/urantia-university-institute)
 
 <figure class="table chapter-navigator">

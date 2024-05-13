@@ -89,7 +89,7 @@ Therefore, if you believe you could contribute in some manner to this magnificen
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2017/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2017/)
 - [This article](https://urantia-association.org/passing-torch-future-generations)
 
 <figure class="table chapter-navigator">

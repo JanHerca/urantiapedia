@@ -60,7 +60,7 @@ Thanks to One and all!
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-august-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [This article](https://urantia-association.org/quebec-conference-reflections)
 
 <figure class="table chapter-navigator">

@@ -73,7 +73,7 @@ For more information email the Conference Chair at [conference@triniteit.org](ma
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-october-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [This article](https://urantia-association.org/urantia-young-adult-international-uyai-study-group)
 
 <figure class="table chapter-navigator">

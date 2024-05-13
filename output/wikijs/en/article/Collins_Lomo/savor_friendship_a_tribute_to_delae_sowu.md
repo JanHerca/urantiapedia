@@ -70,7 +70,7 @@ Till we meet on new shores for universe service… journey on my friend and dear
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2023/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2023/)
 - [This article](https://urantia-association.org/savor-friendship-a-tribute-to-delae-sowu)
 
 <figure class="table chapter-navigator">

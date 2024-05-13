@@ -83,7 +83,7 @@ The benefits of having a consistent presence at book fairs is enormous. However,
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2018/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2018/)
 - [This article](https://urantia-association.org/testimonials-book-fair-attendees)
 
 <figure class="table chapter-navigator">

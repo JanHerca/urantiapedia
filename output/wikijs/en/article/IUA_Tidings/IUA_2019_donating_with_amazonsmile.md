@@ -76,7 +76,7 @@ Read more about [Announcements](https://urantia-association.org/category/announc
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2019/)
 - [This article](https://urantia-association.org/donating-with-amazonsmile)
 
 <figure class="table chapter-navigator">

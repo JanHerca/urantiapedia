@@ -73,7 +73,7 @@ The following list of meditation mantras is taken from the practical suggestions
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2020/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2020/)
 - [This article](https://urantia-association.org/meditation-mantras)
 
 <figure class="table chapter-navigator">

@@ -104,7 +104,7 @@ Bradly and his committee completed the 2015 Year-End Financial Statements, worke
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2016/)
 - [This article](https://urantia-association.org/international-service-board-at-work-1st-quarter-2016)
 
 <figure class="table chapter-navigator">

@@ -43,8 +43,8 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-february-2016/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-february-2016/)
 - [This article](https://urantia-association.org/the-rehabilitation-of-urantia)
 
 <figure class="table chapter-navigator">

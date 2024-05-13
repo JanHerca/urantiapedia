@@ -180,8 +180,8 @@ Yman Juran (aka) Yourantiaman (aka) Jean Ascher
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2021/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2021/)
 - [This article](https://urantia-association.org/a-urantian-in-second-life)
 
 <figure class="table chapter-navigator">

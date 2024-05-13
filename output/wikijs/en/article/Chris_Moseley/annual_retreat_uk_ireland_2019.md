@@ -71,7 +71,7 @@ If you would like to give a presentation at the retreat (click the â€œread moreâ
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2019/)
 - [This article](https://urantia-association.org/annual-retreat-uk-ireland-2019)
 
 <figure class="table chapter-navigator">

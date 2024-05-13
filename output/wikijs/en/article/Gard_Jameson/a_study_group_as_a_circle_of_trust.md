@@ -90,7 +90,7 @@ _Let Silence take you to the Core of Life_
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2022/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2022/)
 - [This article](https://urantia-association.org/a-study-group-as-a-circle-of-trust)
 
 

@@ -77,7 +77,7 @@ A special thanks to the president of Urantia Association Brazil, Enrique Traver,
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2018/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2018/)
 - [This article](https://urantia-association.org/youth-meeting-brazil-conf)
 
 <figure class="table chapter-navigator">

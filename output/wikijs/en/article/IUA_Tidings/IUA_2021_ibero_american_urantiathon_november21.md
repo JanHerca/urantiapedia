@@ -246,7 +246,7 @@ To be religious is to walk a path of life full of meanings, courageously facing 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2021/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2021/)
 - [This article](https://urantia-association.org/ibero-american-urantiathon-november21)
 
 <figure class="table chapter-navigator">

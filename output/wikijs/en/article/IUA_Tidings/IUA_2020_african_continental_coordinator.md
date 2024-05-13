@@ -47,7 +47,7 @@ Collins has a Bachelor of Science in Information Technology and a Diploma in Man
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2020/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2020/)
 - [This article](https://urantia-association.org/african-continental-coordinator)
 
 <figure class="table chapter-navigator">

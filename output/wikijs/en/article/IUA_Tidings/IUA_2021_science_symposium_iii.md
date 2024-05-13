@@ -58,7 +58,7 @@ The symposium will be held at Urantia Foundation in Chicago, Illinois, USA, and 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2021/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2021/)
 - [This article](https://urantia-association.org/science-symposium-iii)
 
 <figure class="table chapter-navigator">

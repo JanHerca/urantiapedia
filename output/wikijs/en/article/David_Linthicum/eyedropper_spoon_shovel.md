@@ -41,7 +41,7 @@ Original article: [The Eyedropper, Spoon, and Shovel](/en/article/David_Linthicu
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-special-issue-june-2022/
+- [This issue](https://urantia-association.org/newsletter/tidings-special-issue-june-2022/)
 - [This article](https://urantia-association.org/eyedropper-spoon-shovel)
 
 <figure class="table chapter-navigator">

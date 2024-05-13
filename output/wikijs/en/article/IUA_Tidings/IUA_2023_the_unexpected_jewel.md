@@ -118,7 +118,7 @@ What more can I say? What a profound pleasure and privilege it has been to have 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2023/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2023/)
 - [This article](https://urantia-association.org/the-unexpected-jewel)
 
 <figure class="table chapter-navigator">

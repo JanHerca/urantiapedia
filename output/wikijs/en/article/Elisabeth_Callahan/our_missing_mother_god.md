@@ -250,8 +250,8 @@ Their boundless, individual and undivided, personal natures are the essence and 
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2022/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2022/)
 - [This article](https://urantia-association.org/our-missing-mother-god)
 
 <figure class="table chapter-navigator">

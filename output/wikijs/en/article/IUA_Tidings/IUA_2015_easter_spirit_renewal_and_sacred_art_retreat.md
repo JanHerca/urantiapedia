@@ -48,7 +48,7 @@ The United Urantia Family & Urantia Sacred Arts
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2014/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [This article](https://urantia-association.org/2015-easter-spirit-renewal-and-sacred-art-retreat)
 
 <figure class="table chapter-navigator">

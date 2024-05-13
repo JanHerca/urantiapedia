@@ -131,8 +131,8 @@ Now that the revelators have enormously enhanced the truth available to humanity
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2017/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2017/)
 - [This article](https://urantia-association.org/the-hallelujah-aftermath)
 
 

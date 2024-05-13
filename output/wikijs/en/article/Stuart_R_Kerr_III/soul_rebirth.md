@@ -103,8 +103,8 @@ The mortal mind, encircuited into the adjutant ministry of the local universe Mo
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2020/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2020/)
 - [This article](https://urantia-association.org/soul-rebirth)
 
 <figure class="table chapter-navigator">

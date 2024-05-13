@@ -66,7 +66,7 @@ _Note_: All your personal information will be strictly confidential, and will no
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2016/)
 - [This article](https://urantia-association.org/call-for-membership-coordinators)
 
 <figure class="table chapter-navigator">

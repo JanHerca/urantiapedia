@@ -52,7 +52,7 @@ The reciprocal exchange between a mortal person and an immortal person­—divin
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2020/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2020/)
 - [This article](https://urantia-association.org/focus-on-the-father)
 
 <figure class="table chapter-navigator">

@@ -174,8 +174,8 @@ It is indeed time!  The fields are ripe, but the workers are so few.  Who will r
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2021/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2021/)
 - [This article](https://urantia-association.org/millennials-and-the-church)
 
 <figure class="table chapter-navigator">

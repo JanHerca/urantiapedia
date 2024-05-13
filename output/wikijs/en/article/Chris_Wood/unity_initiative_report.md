@@ -59,7 +59,7 @@ President, Urantia Association International
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2017/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2017/)
 - [This article](https://urantia-association.org/unity-initiative-report)
 
 <figure class="table chapter-navigator">

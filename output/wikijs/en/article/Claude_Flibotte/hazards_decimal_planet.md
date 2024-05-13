@@ -115,8 +115,8 @@ I leave you to meditate on this question!
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2022/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2022/)
 - [This article](https://urantia-association.org/hazards-decimal-plane)
 
 <figure class="table chapter-navigator">

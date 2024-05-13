@@ -197,7 +197,7 @@ Here’s a gallery of photos of the location and its surrounding environs as wel
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2019/)
 - [This article](https://urantia-association.org/peru-2021-international-conference-update)
 
 <figure class="table chapter-navigator">

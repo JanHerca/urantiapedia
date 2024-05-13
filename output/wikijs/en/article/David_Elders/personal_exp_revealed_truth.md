@@ -141,8 +141,8 @@ In such a context, UBIS has been designed to utilize a pedagogy and methodology 
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2018/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2018/)
 - [This article](https://urantia-association.org/personal-exp-revealed-truth)
 
 <figure class="table chapter-navigator">

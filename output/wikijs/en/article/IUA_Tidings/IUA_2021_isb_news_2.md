@@ -74,7 +74,7 @@ So, from 1 April 2021 the ISB will look like this:
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2021/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2021/)
 - [This article](https://urantia-association.org/isb-news)
 
 <figure class="table chapter-navigator">

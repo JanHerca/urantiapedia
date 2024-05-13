@@ -116,8 +116,8 @@ Happy loving!
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2020/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2020/)
 - [This article](https://urantia-association.org/living-the-gospel-2)
 
 <figure class="table chapter-navigator">

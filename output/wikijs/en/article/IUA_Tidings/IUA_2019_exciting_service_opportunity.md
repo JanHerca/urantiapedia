@@ -61,7 +61,7 @@ Or email: [secretary@urantia-association.org](mailto:secretary@urantia-associati
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2019/)
 - [This article](https://urantia-association.org/exciting-service-opportunity)
 
 <figure class="table chapter-navigator">

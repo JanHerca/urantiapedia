@@ -72,7 +72,7 @@ How do we get to know God? We just need to seek for him in our hearts and then s
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2021/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2021/)
 - [This article](https://urantia-association.org/presidents-message-dec-2021)
 
 <figure class="table chapter-navigator">

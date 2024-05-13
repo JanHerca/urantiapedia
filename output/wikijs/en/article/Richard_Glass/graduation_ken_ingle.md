@@ -48,7 +48,7 @@ Best wishes, Ken, as you take on the great challenges and adventures that lie ah
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2019/)
 - [This article](https://urantia-association.org/graduation-ken-ingle)
 
 <figure class="table chapter-navigator">

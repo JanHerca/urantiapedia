@@ -65,7 +65,7 @@ Book fairs provide a unique opportunity for volunteers to promote the revelation
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2017/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2017/)
 - [This article](https://urantia-association.org/bogota-book-fair)
 
 <figure class="table chapter-navigator">

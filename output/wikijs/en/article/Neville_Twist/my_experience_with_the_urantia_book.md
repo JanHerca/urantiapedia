@@ -69,7 +69,7 @@ Vice President of ANZURA
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2016/)
 - [This article](https://urantia-association.org/my-experience-with-the-urantia-book)
 
 <figure class="table chapter-navigator">

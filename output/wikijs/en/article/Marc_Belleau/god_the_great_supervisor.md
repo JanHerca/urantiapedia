@@ -78,8 +78,8 @@ Teaching that catastrophes, sickness and any tribulation we encounter within our
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-february-2016/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-february-2016/)
 - [This article](https://urantia-association.org/god-the-great-supervisor)
 
 <figure class="table chapter-navigator">

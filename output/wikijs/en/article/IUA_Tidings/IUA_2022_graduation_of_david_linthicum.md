@@ -129,7 +129,7 @@ David passed away Wednesday June 1, 2022, in Oklahoma City. He was born June 12,
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-special-issue-june-2022/
+- [This issue](https://urantia-association.org/newsletter/tidings-special-issue-june-2022/)
 - [This article](https://urantia-association.org/graduation-of-david-linthicum)
 
 <figure class="table chapter-navigator">

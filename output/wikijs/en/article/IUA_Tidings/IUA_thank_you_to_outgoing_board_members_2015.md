@@ -46,7 +46,7 @@ We would like to acknowledge and thank our outgoing members of the International
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2014/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
 
 <figure class="table chapter-navigator">
   <table>

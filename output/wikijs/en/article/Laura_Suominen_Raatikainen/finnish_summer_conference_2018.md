@@ -70,7 +70,7 @@ Overall, the weekend was very successful. The participants went home with a feel
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2018/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2018/)
 - [This article](https://urantia-association.org/finnish-summer-conference-2018)
 
 <figure class="table chapter-navigator">

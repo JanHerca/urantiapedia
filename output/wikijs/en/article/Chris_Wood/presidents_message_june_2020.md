@@ -54,7 +54,7 @@ Thank you all for your continued service in spreading the teachings of _The Uran
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2020/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2020/)
 - [This article](https://urantia-association.org/presidents-message-june-2020)
 
 <figure class="table chapter-navigator">

@@ -121,8 +121,8 @@ The Master’s tenth appearance was at Philadelphia:
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2016/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2016/)
 - [This article](https://urantia-association.org/considerations-for-study-of-the-human-jesus)
 
 <figure class="table chapter-navigator">

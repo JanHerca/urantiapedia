@@ -56,7 +56,7 @@ Event Coordinator
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [This article](https://urantia-association.org/urantia-international-conference-quebec)
 
 <figure class="table chapter-navigator">

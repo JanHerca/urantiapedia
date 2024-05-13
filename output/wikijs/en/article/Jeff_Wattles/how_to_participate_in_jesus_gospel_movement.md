@@ -244,8 +244,8 @@ Jeff and Mahtab hug and then turn and gesture hugs to the audience.
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2016/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2016/)
 - [This article](https://urantia-association.org/how-to-participate-in-jesus-gospel-movement)
 
 <figure class="table chapter-navigator">

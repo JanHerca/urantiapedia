@@ -221,8 +221,8 @@ As we teach love, so shall we learn that we are God’s children created in the 
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2020/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2020/)
 - [This article](https://urantia-association.org/beatitudes-revisited)
 
 <figure class="table chapter-navigator">

@@ -85,7 +85,7 @@ Day 3 – Sunday AM | 8.30-9.30 | 60 mins | &nbsp; | Breakfast TBC
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2023/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2023/)
 - [This article](https://urantia-association.org/great-britain-ireland-summer-retreat)
 
 <figure class="table chapter-navigator">

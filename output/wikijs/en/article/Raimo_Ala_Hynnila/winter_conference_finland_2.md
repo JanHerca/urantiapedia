@@ -63,7 +63,7 @@ President, Finnish Urantia Association
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2016/)
 - [This article](https://urantia-association.org/winter-conference-finland-2)
 
 <figure class="table chapter-navigator">

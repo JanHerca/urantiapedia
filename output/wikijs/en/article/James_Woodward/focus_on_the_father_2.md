@@ -62,7 +62,7 @@ Let the performance begin.
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2021/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2021/)
 - [This article](https://urantia-association.org/focus-on-the-father-2)
 
 <figure class="table chapter-navigator">

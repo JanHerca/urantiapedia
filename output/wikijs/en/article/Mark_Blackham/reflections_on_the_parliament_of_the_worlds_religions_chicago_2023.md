@@ -93,7 +93,7 @@ There were many praises sung to this event. This one came from Dr. Myriam Renaud
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2023/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2023/)
 - [This article](https://urantia-association.org/reflections-on-the-parliament-of-the-worlds-religions-chicago-2023)
 
 <figure class="table chapter-navigator">

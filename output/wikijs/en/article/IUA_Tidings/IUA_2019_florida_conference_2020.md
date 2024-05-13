@@ -59,7 +59,7 @@ Registration is $50. To register and reserve weekend accommodations at DaySpring
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2019/)
 - [This article](https://urantia-association.org/florida-conference-2020)
 
 <figure class="table chapter-navigator">

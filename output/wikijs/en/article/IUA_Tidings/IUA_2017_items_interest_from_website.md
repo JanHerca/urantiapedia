@@ -67,7 +67,7 @@ History of _The Urantia Book_: [https://urantia-association.org/category/history
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2017/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2017/)
 - [This article](https://urantia-association.org/items-interest-from-website)
 
 <figure class="table chapter-navigator">

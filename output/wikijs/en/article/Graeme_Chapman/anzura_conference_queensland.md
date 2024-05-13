@@ -64,7 +64,7 @@ Perhaps our understanding will make a quantum jump to an inclusive state encompa
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2018/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2018/)
 - [This article](https://urantia-association.org/anzura-conference-queensland)
 
 <figure class="table chapter-navigator">

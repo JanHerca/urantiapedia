@@ -100,8 +100,8 @@ I would like to finish with two inspiring excerpts from _The Urantia Book_:
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2020/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2020/)
 - [This article](https://urantia-association.org/a-positive-shift)
 
 <figure class="table chapter-navigator">

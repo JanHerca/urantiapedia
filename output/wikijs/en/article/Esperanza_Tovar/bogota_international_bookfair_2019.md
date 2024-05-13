@@ -58,7 +58,7 @@ Secretary Urantia Bogotá Association
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2019/)
 - [This article](https://urantia-association.org/bogota-international-bookfair-2019)
 
 <figure class="table chapter-navigator">

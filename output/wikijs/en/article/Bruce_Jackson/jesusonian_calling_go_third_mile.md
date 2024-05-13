@@ -141,8 +141,8 @@ Most of all, we need to do the work and begin to walk the third mile. If not us,
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-may-2018/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-may-2018/)
 - [This article](https://urantia-association.org/jesusonian-calling-go-third-mile)
 
 <figure class="table chapter-navigator">

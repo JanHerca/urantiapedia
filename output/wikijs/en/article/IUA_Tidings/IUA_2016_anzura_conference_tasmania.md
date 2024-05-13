@@ -93,7 +93,7 @@ Contact [anzura@urantia-anzura.org](mailto:anzura@urantia-anzura.org)
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2016/)
 - [This article](https://urantia-association.org/anzura-conference-tasmania-2016-2)
 
 <figure class="table chapter-navigator">

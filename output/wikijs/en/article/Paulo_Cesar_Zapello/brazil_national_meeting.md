@@ -59,7 +59,7 @@ President – Urantia Association of Brazil
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-october-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [This article](https://urantia-association.org/brazil-national-meeting)
 
 <figure class="table chapter-navigator">

@@ -68,7 +68,7 @@ Urantia Association International
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2017/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2017/)
 - [This article](https://urantia-association.org/experiment-online-study-group)
 
 <figure class="table chapter-navigator">

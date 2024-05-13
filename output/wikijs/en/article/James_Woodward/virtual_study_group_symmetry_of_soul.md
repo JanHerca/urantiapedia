@@ -69,7 +69,7 @@ James Woodward
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2014/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [This article](https://urantia-association.org/virtual-study-group-symmetry-of-soul)
 
 <figure class="table chapter-navigator">

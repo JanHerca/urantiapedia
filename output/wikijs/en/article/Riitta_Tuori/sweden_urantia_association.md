@@ -77,7 +77,7 @@ Our biggest event of each year is the birthday celebration of Jesus on August 21
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
+- [This issue](https://urantia-association.org/newsletter/tidings-special-issue-march-2022/)
 - [This article](https://urantia-association.org/sweden-urantia-association)
 
 <figure class="table chapter-navigator">

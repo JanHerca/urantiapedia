@@ -52,7 +52,7 @@ For more information on the 2023 Parliament of World Religions and to book your 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2022/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2022/)
 - [This article](https://urantia-association.org/parliament-of-the-worlds-religions)
 
 <figure class="table chapter-navigator">

@@ -55,7 +55,7 @@ Chur, Switzerland
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [This article](https://urantia-association.org/blue-club-meeting-in-frankfurt)
 
 <figure class="table chapter-navigator">

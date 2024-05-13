@@ -57,7 +57,7 @@ After 26 years of devoted marriage and travel around the world attending Urantia
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2022/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2022/)
 - [This article](https://urantia-association.org/farewell-margo-sherwood)
 
 <figure class="table chapter-navigator">

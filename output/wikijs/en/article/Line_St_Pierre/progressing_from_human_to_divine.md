@@ -58,7 +58,7 @@ Plan your 2015 vacation. Information on accommodation and registration is availa
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2014/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [This article](https://urantia-association.org/progressing-from-human-to-divine)
 
 <figure class="table chapter-navigator">

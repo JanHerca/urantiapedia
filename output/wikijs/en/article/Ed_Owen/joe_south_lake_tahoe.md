@@ -67,7 +67,7 @@ So, if you ever decide to buy an alcoholic a drink, make sure friendship is part
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-december-2019/
+- [This issue](https://urantia-association.org/newsletter/tidings-december-2019/)
 - [This article](https://urantia-association.org/joe-south-lake-tahoe)
 
 <figure class="table chapter-navigator">

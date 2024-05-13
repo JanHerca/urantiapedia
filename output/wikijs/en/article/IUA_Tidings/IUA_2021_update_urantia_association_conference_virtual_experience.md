@@ -149,7 +149,7 @@ https://youtu.be/PqzKO-LorZQ
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2021/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2021/)
 - [This article](https://urantia-association.org/update-urantia-association-conference-virtual-experience)
 
 <figure class="table chapter-navigator">

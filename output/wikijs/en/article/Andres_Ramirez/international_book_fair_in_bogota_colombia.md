@@ -80,7 +80,7 @@ We strongly recommend national and local Urantia Associations to participate in 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [This article](https://urantia-association.org/international-book-fair-in-bogota-colombia)
 
 <figure class="table chapter-navigator">

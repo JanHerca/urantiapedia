@@ -83,7 +83,7 @@ Several books were sold and people were able to receive a brochure about the boo
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-october-2015/
+- [This issue](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [This article](https://urantia-association.org/three-summer-exhibitions-in-ukraine)
 
 <figure class="table chapter-navigator">

@@ -104,7 +104,7 @@ The following objectives, which were outlined in the 2022 activity report, have 
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-march-2023/
+- [This issue](https://urantia-association.org/newsletter/tidings-march-2023/)
 - [This article](https://urantia-association.org/progressive-divine-wisdom)
 
 <figure class="table chapter-navigator">

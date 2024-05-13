@@ -57,7 +57,7 @@ Everyone on the mountain that night knew that Jesus was destined to be martyred,
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-september-2023/
+- [This issue](https://urantia-association.org/newsletter/tidings-september-2023/)
 - [This article](https://urantia-association.org/focus-on-the-mother)
 
 <figure class="table chapter-navigator">

@@ -254,8 +254,8 @@ Jesus said:
 
 ## References
 
-- Journal newsletter: https://urantia-association.org/journal-online-archives/
-- This issue: https://urantia-association.org/newsletter/journal-november-2018/
+- [Journal newsletter](https://urantia-association.org/journal-online-archives/)
+- [This issue](https://urantia-association.org/newsletter/journal-november-2018/)
 - [This article](https://urantia-association.org/family-crises)
 
 <figure class="table chapter-navigator">

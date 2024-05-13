@@ -129,7 +129,7 @@ Urantia Association International
 ## References
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
-- This issue: https://urantia-association.org/newsletter/tidings-june-2016/
+- [This issue](https://urantia-association.org/newsletter/tidings-june-2016/)
 - [This article](https://urantia-association.org/rejuvenating-your-study-group)
 
 <figure class="table chapter-navigator">
