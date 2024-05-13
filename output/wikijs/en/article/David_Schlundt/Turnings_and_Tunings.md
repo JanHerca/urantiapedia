@@ -18,7 +18,7 @@ _I was Looking over there_
 _when the world ended..._
 _hardly heard the earth expire._
 _The ground had Geen shaking so long anyway,_
-_drunk with olf and oligarchiss._
+_drunk with oil and oligarchies._
 
 _Yes, I was Looking over there_
 _when it must have happened —_

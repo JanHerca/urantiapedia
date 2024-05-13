@@ -20,19 +20,19 @@ Will watch over me as I sleep.
 Thank you, Angels,
 I welcome you and will slumber
 Under Thy protecting wings.
-&nbsp; &nbsp; &nbsp; &nbsp; Amet.
+&nbsp; &nbsp; &nbsp; &nbsp; Amen.
 
 There is a special place 
 &nbsp; &nbsp; where none can go but me;
 A place no other human has been,
 &nbsp; &nbsp; or ever shall be;
-A sacred place only Good 
+A sacred place only God 
 &nbsp; &nbsp; is allowed to see.
 He reserved this place, 
 &nbsp; &nbsp; where He and I can meet
 For quiet talks about my hurts 
 &nbsp; &nbsp; and needs;
-A place wisere all I've been 
+A place where all I've been 
 &nbsp; &nbsp; is seen or heard only with 
 &nbsp; &nbsp; my permission.
 Otherwise, no mortal or celestial 

@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Byron Belitsos
 
-An It fis child,
+Am I this child,
 the child that is running to my arms, 
 weary, with longing eyes?
 Is that the child that I was?

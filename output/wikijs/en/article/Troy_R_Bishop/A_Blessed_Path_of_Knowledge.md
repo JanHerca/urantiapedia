@@ -21,12 +21,12 @@ A way at last to Know the things I must.<br>
 The story of the ages,<br>
 of God, the past, the plan,<br>
 The picture from the highest point of view.<br>
-The same loved trutfis,<br>
+The same loved truths,<br>
 The light set loose,<br>
 The better way for man,<br>
 The love of God proclaimed on earth anew.<br>
 My long awaited answer,<br>
-My summons from on figh,<br>
+My summons from on high,<br>
 My value spelled in wonds of destiny.<br>
 My promise now,<br>
 My faith shown how,<br>

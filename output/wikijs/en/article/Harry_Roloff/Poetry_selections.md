@@ -46,7 +46,7 @@ With all my heart in solemn hymn.
 A drum not to be heard
 Much less be seen
 Reverberating distinctly keen
-Transmitting a cryptic tome
+Transmitting a cryptic tone
 Concealed instructions as a poem.
 
 The vibes far out and yet so near
