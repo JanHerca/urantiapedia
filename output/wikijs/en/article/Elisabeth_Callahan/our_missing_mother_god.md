@@ -147,7 +147,7 @@ Again, _The Urantia Book_ provides us with significant detail about the all-perv
 
 There are numerous passages in _The Urantia Book_ that inform us of the ways that we are connected to God, including the Mother Spirit’s direct line to personal beings through her Holy Spirit, as in the following passage:
 
-> The presence of the universal spirit of the Eternal Son we _know —_ we can unmistakably recognize it**. The presence of the Infinite Spirit, the Third Person of Deity, even mortal man may know, for material creatures can actually experience the beneficence of this divine influence which functions as the Holy Spirit of local universe bestowal upon the races of mankind.** <a id="a149_375"></a>[[UB 9:2.5](/en/The_Urantia_Book/9#p2_5), emphasis added]
+> The presence of the universal spirit of the Eternal Son we _know —_ we can unmistakably recognize it. **The presence of the Infinite Spirit, the Third Person of Deity, even mortal man may know, for material creatures can actually experience the beneficence of this divine influence which functions as the Holy Spirit of local universe bestowal upon the races of mankind.** <a id="a149_375"></a>[[UB 9:2.5](/en/The_Urantia_Book/9#p2_5), emphasis added]
 
 ---
 

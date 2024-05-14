@@ -36,13 +36,13 @@ It seems appropriate, a second time, to bring to the attention of the Executive 
 
 ## References
 
-- From Urantia Foundation: [A History of the Urantia Movement](https://www.urantia.org/urantia-foundation/history "A History of the Urantia Movement"), by Dr. William S. Sadler
-- From IUA: https://urantia-association.org/about-uai-old/governance-policies/the-publication-mandate/
-- From IUA: [A History of the Urantia Movement](http://urantia-association.org/urantia-movement-history/ "A History of the Urantia Movement"), by Dr. William S. Sadler
+- From Urantia Foundation: [A History of the Urantia Movement](https://www.urantia.org/urantia-foundation/history), by Dr. William S. Sadler
+- From [IUA](https://urantia-association.org/about-uai-old/governance-policies/the-publication-mandate/)
+- From IUA: [A History of the Urantia Movement](http://urantia-association.org/urantia-movement-history/), by Dr. William S. Sadler
 
+\[This paper was presented by William S. Sadler, Jr. to the Forum on the above date. For public consumption, the pronouns were modified, e.g., “we” instead of “you.” For this purpose we have changed them back to the original. Copies of this paper were inserted into the secretary’s notebook.\]
 
 ## Notes
 
 [^1]: In [A History of the Urantia Movement](http://urantia-association.org/urantia-movement-history/ "A History of the Urantia Movement"), by Dr. William S. Sadler, this message is titled, _The Publication Mandate._
 
-\[This paper was presented by William S. Sadler, Jr. to the Forum on the above date. For public consumption, the pronouns were modified, e.g., “we” instead of “you.” For this purpose we have changed them back to the original. Copies of this paper were inserted into the secretary’s notebook.\]

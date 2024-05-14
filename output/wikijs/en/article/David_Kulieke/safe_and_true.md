@@ -80,10 +80,8 @@ In Shakespeare’s tragedy _Macbeth,_ King Duncan rewards Macbeth for his loyalt
 
 Another great theme of the play is the difficulty one has of changing course once he has headed down a wayward path. The human tendency to struggle to reverse a trend or separate among a set of beliefs or values is called cognitive dissonance, a theory of the psychologist, Leon Festinger.
 
-Macbeth states, “I am in blood/Stepp’d in so far that, should I wade no more,/
+Macbeth states, “I am in blood/Stepp’d in so far that, should I wade no more, Returning were as tedious as go o’er” (Act III, Scene IV).
 <br style="clear:both;"/>
-
-Returning were as tedious as go o’er” (Act III, Scene IV).
 
 _The Urantia Book_ deals with the same theme when the apostle Peter is unable to refrain from denying Jesus:
 
@@ -101,7 +99,7 @@ In contrast with the dark yet illuminating themes in _Macbeth_, the poem “Ulys
 
 Another excellent example of a piece of literature that can be viewed from a Urantia Book perspective is the film _It’s a Wonderful Life._ The film is a testimony that human life matters. There are also some wonderful Urantia themes early on when George Bailey, a young man who wants to matter, encounters a dilemma when he sees the pharmacist, Mr. Gower, for whom he is delivery boy, mix up aspirin and arsenic. Mr. Gower is clearly drunk, and he becomes abusive towards George, hitting him on his injured ear and insisting that George deliver the mistaken prescription. George runs next door to ask his father for help, but his father is busy; George thus learns he must be responsible for solving his own problem. Finally he gets through to Mr. Gower, and George is able to forgive him and retain his affection because George has learned that Mr. Gower had just received a telegram informing him that his son had died in World War I. The viewing audience can also forgive Mr. Gower, and a student understands that when,” _…favored with a widened horizon… how much better you would understand them. If you could only know your fellows, you would eventually fall in love with them_” <a id="a101_1184"></a>[[UB 100:4.5](/en/The_Urantia_Book/100#p4_5)]. Indeed, grasping this theme is a central service provided by literature.
 
-There are many Urantia Book themes that naturally emerge from literature. In many coming-of-age novels, the turning points hinge on “decisions, decisions, and more decisions” and “sincerity, sincerity, and more sincerity.” Fantasy often provides a perspective that relies more on meaning and values than it does on physical reality. Dystopian novels, a staple of young adult literature, show the truth of mota 12, that, “_The greatest affliction (in the cosmos) is never to have been afflicted. Mortals only learn wisdom by experiencing tribulation_” [48.7.14]. And many works offer a sense that, whether through love or loyalty, whether a story turns out happily or not, relationships between personalities are paramount.
+There are many Urantia Book themes that naturally emerge from literature. In many coming-of-age novels, the turning points hinge on “decisions, decisions, and more decisions” and “sincerity, sincerity, and more sincerity.” Fantasy often provides a perspective that relies more on meaning and values than it does on physical reality. Dystopian novels, a staple of young adult literature, show the truth of mota 12, that, “_The greatest affliction (in the cosmos) is never to have been afflicted. Mortals only learn wisdom by experiencing tribulation_” [UB 48:7.14](/en/The_Urantia_Book/48#p7_14). And many works offer a sense that, whether through love or loyalty, whether a story turns out happily or not, relationships between personalities are paramount.
 
 > Where words lose their meaning, people lose their lives. ― Confucius
 
@@ -169,7 +167,7 @@ The most important thing is that we all need to try. There are many ways we can 
 
 Whatever the circumstances we find ourselves, professionally or otherwise, we can find ways to positively bring the teachings of the book and the fruits of the spirit to those we encounter: life is relationships.
 
- There are three levels of education outlined here:
+There are three levels of education outlined here:
 
 1. Improving the study of _The Urantia Book_ for readers.
 2. Using formal situations, such as in classrooms, to convey its teachings without the book.
