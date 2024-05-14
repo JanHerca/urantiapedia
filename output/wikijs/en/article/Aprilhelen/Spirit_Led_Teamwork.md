@@ -147,7 +147,7 @@ Do these questions intrigue you? Do you have experiences to share and the desire
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf)
 
 <br>
 

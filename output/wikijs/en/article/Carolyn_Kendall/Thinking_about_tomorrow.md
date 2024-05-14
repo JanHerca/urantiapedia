@@ -106,7 +106,7 @@ It might be useful to think about where our true loyalties and priorities should
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

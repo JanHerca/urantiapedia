@@ -128,7 +128,7 @@ We can live with a prayerful consciousness of partnership with God throughout ou
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

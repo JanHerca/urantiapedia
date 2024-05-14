@@ -64,7 +64,7 @@ UAUS Vice President
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2019/)
 - [This article](https://urantia-association.org/comments-isb-elections)
 

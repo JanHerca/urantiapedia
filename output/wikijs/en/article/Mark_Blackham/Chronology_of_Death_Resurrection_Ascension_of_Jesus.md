@@ -85,7 +85,7 @@ May | 18 | Thursday | 1 p.m.— **Spirit of Truth** bestowed on Urantia. |
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

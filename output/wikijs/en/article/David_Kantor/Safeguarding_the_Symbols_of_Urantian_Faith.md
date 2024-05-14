@@ -101,7 +101,7 @@ Because of the religious nature of these symbols, the responsibility for their p
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

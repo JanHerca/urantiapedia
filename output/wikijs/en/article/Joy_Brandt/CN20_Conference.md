@@ -55,7 +55,7 @@ All in all, it was an exceptional experience that drew $40+$ participants togeth
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf)
 
 <br>
 

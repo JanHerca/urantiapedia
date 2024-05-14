@@ -538,7 +538,7 @@ Increasingly, in modern civilization authority on matters of Truth is assessed t
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

@@ -38,7 +38,7 @@ This article is a reedition of the same article in the [Mighty Messenger — Spr
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf)
 
 <br>
 

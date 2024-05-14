@@ -96,7 +96,7 @@ Sea como sea que lo logró, y a pesar de las apariencias, Jesús no cometió err
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

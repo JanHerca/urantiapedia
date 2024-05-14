@@ -75,7 +75,7 @@ Envíe los artículos a: Cristina Seaborn, Presidenta de Publicaciones publicaci
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf)
 
 <br>
 

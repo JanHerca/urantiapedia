@@ -60,7 +60,7 @@ May your eyes and ears be blessed by the radical amazement of creation! May your
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf)
 
 <br>
 

@@ -196,7 +196,7 @@ May our spiritual benefactors bless each of us with challenges and difficulties 
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

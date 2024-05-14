@@ -105,7 +105,7 @@ Tom Choquette at the Urantia Book Fellowship International Conference 2011
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

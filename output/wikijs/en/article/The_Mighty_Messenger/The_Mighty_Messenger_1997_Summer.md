@@ -184,7 +184,7 @@ A proposal was made to seek for a 24-hour religious cease-fire on December 31, 1
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mmsu97.htm
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mmsu97.htm)
 
 
 <figure class="table chapter-navigator">

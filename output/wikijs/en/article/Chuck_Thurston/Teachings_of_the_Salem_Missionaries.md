@@ -215,7 +215,7 @@ It's also interesting, I think, to see that many of these ideas reappear in Jesu
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf)
 
 <br>
 

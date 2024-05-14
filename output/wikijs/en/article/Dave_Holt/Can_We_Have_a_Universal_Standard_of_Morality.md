@@ -171,7 +171,7 @@ Wattles, Jeff. The Golden Rule. New York/Oxford: Oxford University Press, 1996.
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -99,7 +99,7 @@ If you are not sure if this is for you, and would simply like to talk to us to f
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2022/)
 - [This article](https://urantia-association.org/the-jesus-metaverse-calling)
 

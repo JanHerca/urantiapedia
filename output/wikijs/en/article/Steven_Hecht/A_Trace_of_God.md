@@ -150,7 +150,7 @@ There will be a new voice for God, a voice with which we all can sing.
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

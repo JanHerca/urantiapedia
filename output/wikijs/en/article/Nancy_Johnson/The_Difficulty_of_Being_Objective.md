@@ -90,7 +90,7 @@ So maybe we would be wise to content ourselves with the awareness that we're alm
 >
 > ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

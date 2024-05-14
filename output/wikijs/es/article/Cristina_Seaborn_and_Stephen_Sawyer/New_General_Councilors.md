@@ -117,7 +117,7 @@ He sido un estudiante del libro desde 1972. Fui uno de los primeros instructores
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf)
 
 <br>
 

@@ -59,7 +59,7 @@ The eleventh meeting of readers of _El Libro de Urantia_ in Venezuela also contr
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [This article](https://urantia-association.org/venezuela-conference-for-urantia-book-readers)
 

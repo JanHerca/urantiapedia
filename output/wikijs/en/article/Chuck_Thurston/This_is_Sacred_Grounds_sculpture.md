@@ -37,7 +37,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf)
 
 <br>
 

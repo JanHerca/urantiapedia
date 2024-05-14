@@ -119,7 +119,7 @@ Personality is central. I don’t think we focus on it nearly enough. We need to
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -92,7 +92,7 @@ El cristianismo en los primeros siglos de la era cristiana se caracterizó por m
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

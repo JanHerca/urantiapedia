@@ -196,7 +196,7 @@ Members: Avi Dogim, Chair Nancy Johnson, Carolyn Kendall, Linda Buselli, Geri Jo
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mm-spr98.htm
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mm-spr98.htm)
 
 <figure class="table chapter-navigator">
   <table>

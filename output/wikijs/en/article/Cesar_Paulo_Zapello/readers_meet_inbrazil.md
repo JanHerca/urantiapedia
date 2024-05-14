@@ -53,7 +53,7 @@ We hope that these examples will serve as motivation for the formation of new st
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [This article](https://urantia-association.org/readers-meet-inbrazil)
 

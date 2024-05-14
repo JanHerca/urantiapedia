@@ -202,7 +202,7 @@ Teach the way of Jesus: When you have learned and are living the way of Jesus, y
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

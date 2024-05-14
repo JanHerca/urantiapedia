@@ -160,7 +160,7 @@ So when we finally meet Christ Michael in person, will he seem like the human Je
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

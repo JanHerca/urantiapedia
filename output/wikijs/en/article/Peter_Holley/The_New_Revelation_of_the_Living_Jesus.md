@@ -238,7 +238,7 @@ I shall end this article with some quotes found scattered around _The Urantia Bo
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

@@ -40,7 +40,7 @@ Read the article here: [Two Sides of the Same Coin](/en/article/David_Linthicum/
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-special-issue-june-2022/)
 - [This article](https://urantia-association.org/two-sides-same-coin)
 

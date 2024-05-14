@@ -104,7 +104,7 @@ No descarte la importancia de responder a estas oportunidades de servicio porque
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

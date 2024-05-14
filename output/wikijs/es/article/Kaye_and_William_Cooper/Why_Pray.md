@@ -79,7 +79,7 @@ Simplemente hable con su padre espiritual de la misma manera que lo haría con u
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf)
 
 <br>
 

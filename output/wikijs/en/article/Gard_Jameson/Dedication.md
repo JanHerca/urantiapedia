@@ -63,7 +63,7 @@ I look forward to seeing you again on high, brother Steve, in the eternal advent
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf)
 
 <br>
 

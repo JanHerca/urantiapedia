@@ -90,7 +90,7 @@ Chris Moseley and his team continue to provide translation services to the ISB, 
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [This article](https://urantia-association.org/international-service-board-at-work-2nd-quarter-report-for-2015-2)
 

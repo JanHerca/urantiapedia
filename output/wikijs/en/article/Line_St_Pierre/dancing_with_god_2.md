@@ -64,7 +64,7 @@ All of us appreciated the level of trust, respect and vulnerability in our shari
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2021/)
 - [This article](https://urantia-association.org/dancing-with-god-2)
 

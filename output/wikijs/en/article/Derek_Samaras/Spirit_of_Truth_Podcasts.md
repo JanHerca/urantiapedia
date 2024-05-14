@@ -68,7 +68,7 @@ Pato is a present-day apostle who nourishes spiritual orphans with the welcoming
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf)
 
 <br>
 

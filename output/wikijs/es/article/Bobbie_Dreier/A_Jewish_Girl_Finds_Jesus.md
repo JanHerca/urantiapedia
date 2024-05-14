@@ -86,7 +86,7 @@ Mi papá no tenía que preocuparse. Soy judía. Creer en la divinidad de Jesús 
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

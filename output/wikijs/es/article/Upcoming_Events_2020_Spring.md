@@ -67,7 +67,7 @@ Debido a la pandemia global de Covid-19, comuníquese con el coordinador del eve
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf)
 
 <br>
 

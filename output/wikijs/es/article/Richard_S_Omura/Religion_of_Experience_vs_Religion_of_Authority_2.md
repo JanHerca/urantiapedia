@@ -91,7 +91,7 @@ Josué: «_Y ahora, no os equivoquéis, mi Padre responderá siempre a la más t
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

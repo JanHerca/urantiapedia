@@ -80,7 +80,7 @@ If you are interested in the full report on the survey and its discussion by the
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf)
 
 <br>
 

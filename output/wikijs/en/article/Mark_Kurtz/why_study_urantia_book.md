@@ -75,7 +75,7 @@ _Add your own reasons as you attempt to address this question._
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2018/)
 - [This article](https://urantia-association.org/why-study-urantia-book)
 

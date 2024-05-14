@@ -105,7 +105,7 @@ For Professor Jinwoog’s document, you can write him at [kimjinwoog@gmail.com
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2021/)
 - [This article](https://urantia-association.org/spiritual-value-peru-conference)
 

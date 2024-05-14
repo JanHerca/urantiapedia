@@ -50,7 +50,7 @@ I love the fact that these angels “...labor incessantly to make things what th
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf)
 
 <br>
 

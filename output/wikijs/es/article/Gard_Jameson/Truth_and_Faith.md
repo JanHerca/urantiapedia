@@ -231,7 +231,7 @@ El hecho de que tal libertad haya permitido no solo una gran bondad, sino tambi�
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf)
 
 <br>
 

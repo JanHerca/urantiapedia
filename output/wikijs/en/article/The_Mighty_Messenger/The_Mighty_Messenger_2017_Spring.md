@@ -334,7 +334,7 @@ www.urantiabook.org
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
+* [Newsletter in _The Urantia Book_ Fellowship](https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#)
 
 
 

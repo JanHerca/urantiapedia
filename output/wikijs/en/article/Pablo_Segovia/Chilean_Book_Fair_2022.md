@@ -162,7 +162,7 @@ Let us all make an intelligent effort to be present in the largest possible numb
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf)
 
 <br>
 

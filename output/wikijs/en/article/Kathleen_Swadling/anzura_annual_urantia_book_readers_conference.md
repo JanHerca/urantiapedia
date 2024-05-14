@@ -80,7 +80,7 @@ Then of course we can never hold a conference without making time for ANZURA’s
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-october-2015/)
 - [This article](https://urantia-association.org/anzura-annual-urantia-book-readers-conference)
 

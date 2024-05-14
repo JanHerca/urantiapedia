@@ -77,7 +77,7 @@ Cristina Seaborn, Directora de Publicaciones
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf)
 
 <br>
 

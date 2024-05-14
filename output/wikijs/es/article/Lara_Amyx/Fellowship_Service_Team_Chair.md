@@ -39,7 +39,7 @@ El Equipo de la Fellowship está compuesto por los Comités Judicial, de Membres
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf)
 
 <br>
 

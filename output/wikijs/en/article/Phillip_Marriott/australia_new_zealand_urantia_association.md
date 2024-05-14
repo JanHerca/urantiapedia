@@ -82,7 +82,7 @@ Phone: +61 (0)431 285 943
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-special-issue-march-2022/)
 - [This article](https://urantia-association.org/australia-new-zealand-urantia-association)
 

@@ -52,7 +52,7 @@ We invite you to join us with your ideas, experiences, or your participation.
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf)
 
 <br>
 

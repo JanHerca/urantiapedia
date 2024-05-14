@@ -51,7 +51,7 @@ Abegunde Julius Taiwo, [abejutai@yahoo.com](mailto:abejutai@yahoo.com)
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [This article](https://urantia-association.org/urantia-book-readers-in-nigeria)
 

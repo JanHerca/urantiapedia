@@ -73,7 +73,7 @@ It was only after Jesus began to “have faith in the loyalty and integrity of h
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

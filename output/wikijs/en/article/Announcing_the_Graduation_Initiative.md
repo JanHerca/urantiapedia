@@ -58,7 +58,7 @@ https://urantiabook.org/Memorial-Donations
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf)
 
 <br>
 

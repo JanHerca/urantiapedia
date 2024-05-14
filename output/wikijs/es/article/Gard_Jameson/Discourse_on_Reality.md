@@ -290,7 +290,7 @@ El gran misterio de la existencia es cómo Dios, en quien nos movemos, vivimos y
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf)
 
 <br>
 

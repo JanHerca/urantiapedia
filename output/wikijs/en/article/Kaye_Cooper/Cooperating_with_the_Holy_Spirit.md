@@ -104,7 +104,7 @@ Don’t dismiss the importance of responding to these service opportunities beca
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

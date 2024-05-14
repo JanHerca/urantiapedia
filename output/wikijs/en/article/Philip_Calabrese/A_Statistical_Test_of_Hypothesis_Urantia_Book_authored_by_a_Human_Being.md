@@ -174,7 +174,7 @@ In that regard, they should know that _The Urantia Book_ preaches the Gospel of 
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 ## Notes
 

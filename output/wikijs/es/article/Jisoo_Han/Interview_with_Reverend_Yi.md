@@ -80,7 +80,7 @@ Lo primero y más importante es influir en las personas de la comunidad para que
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf)
 
 <br>
 

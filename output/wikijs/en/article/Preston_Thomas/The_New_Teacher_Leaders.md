@@ -333,7 +333,7 @@ So let _us_ be the ones who fulfill _The Urantia Book_ ’s prophecy of the comi
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

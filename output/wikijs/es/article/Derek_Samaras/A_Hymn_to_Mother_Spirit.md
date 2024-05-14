@@ -60,7 +60,7 @@ Mi dulce río de tolerancia, Mi montaña de misericordia, Mi campo sin fin de bo
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf)
 
 <br>
 

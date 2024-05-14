@@ -91,7 +91,7 @@ As our human/divine soul identity becomes more real, and our conscious desire to
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf)
 
 <br>
 

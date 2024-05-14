@@ -62,7 +62,7 @@ Our Parliament adventure was a good prelude to this year’s first joint confere
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2015/)
 - [This article](https://urantia-association.org/parliament-of-worlds-religions-report)
 

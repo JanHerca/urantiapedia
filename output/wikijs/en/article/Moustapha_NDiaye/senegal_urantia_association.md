@@ -93,7 +93,7 @@ At the same time, the PDWG has taken initiatives to extend the method to a large
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-special-issue-march-2022/)
 - [This article](https://urantia-association.org/senegal-urantia-association)
 

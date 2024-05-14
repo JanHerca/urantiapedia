@@ -45,7 +45,7 @@ Como puede ver en la foto adjunta, muchas personas también piensan que soy un d
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf)
 
 <br>
 

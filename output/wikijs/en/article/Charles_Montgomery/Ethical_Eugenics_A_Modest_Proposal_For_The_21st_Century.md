@@ -115,7 +115,7 @@ We are told that, on worlds settled in light and life, “_reproduction is regul
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

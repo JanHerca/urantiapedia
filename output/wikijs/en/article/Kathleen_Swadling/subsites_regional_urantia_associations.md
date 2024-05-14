@@ -56,7 +56,7 @@ Already several associations have requested a subsite and we encourage all chart
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2018/)
 - [This article](https://urantia-association.org/subsites-regional-urantia-associations)
 

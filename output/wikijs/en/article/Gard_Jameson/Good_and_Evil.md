@@ -203,7 +203,7 @@ Our moral will is indissolubly linked to the idea of being *a person*; it provid
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf)
 
 <br>
 

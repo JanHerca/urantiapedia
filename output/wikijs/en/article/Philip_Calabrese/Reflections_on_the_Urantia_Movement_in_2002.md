@@ -177,7 +177,7 @@ There is science to be discovered, cosmology to be propounded, and exciting even
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 ## Notes
 

@@ -58,7 +58,7 @@ To donate online, go to the Fellowship website, http://www.urantiabook.org and c
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

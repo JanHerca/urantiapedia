@@ -167,7 +167,7 @@ I believe we can all look forward to meeting him on the Mansion worlds, and I, f
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 ## Notes 
 

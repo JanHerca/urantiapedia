@@ -160,7 +160,7 @@ and finally:
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-special-issue-june-2022/)
 - [This article](https://urantia-association.org/eulogy-for-david-linthicum)
 

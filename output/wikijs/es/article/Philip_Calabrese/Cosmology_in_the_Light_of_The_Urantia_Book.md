@@ -496,7 +496,7 @@ T = 1/H~0~ = [(3,262) \* (3,00) \* 10^11^ año / 72] = 1,36 \* 10^10^ año = 13,
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

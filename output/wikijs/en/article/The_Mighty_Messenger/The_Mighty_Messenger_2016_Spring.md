@@ -201,7 +201,7 @@ www.urantiabook.org
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMspring16.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMspring16.pdf)
 
 
 <figure class="table chapter-navigator">

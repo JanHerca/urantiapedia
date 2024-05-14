@@ -135,7 +135,7 @@ Do we have one foot in our tribal beginnings and one foot groping in the dark, r
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

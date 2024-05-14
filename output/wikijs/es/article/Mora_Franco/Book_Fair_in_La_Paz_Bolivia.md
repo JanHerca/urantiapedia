@@ -89,7 +89,7 @@ Alejandro Ampudia, en su declaración de clausura, dijo: «Experimentamos un gra
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf)
 
 <br>
 

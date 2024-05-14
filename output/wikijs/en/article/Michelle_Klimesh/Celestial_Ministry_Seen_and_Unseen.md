@@ -221,7 +221,7 @@ Author’s note: Special thanks to Jack Kane for giving me names for the numbers
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

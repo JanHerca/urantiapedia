@@ -64,7 +64,7 @@ Questions to Consider
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [This article](https://urantia-association.org/mini-study-guide)
 

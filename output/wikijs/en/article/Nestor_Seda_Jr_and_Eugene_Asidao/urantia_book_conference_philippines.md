@@ -67,7 +67,7 @@ A regular study group in Manila started in 2016 and has continued since then. So
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2020/)
 - [This article](https://urantia-association.org/urantia-book-conference-philippines)
 

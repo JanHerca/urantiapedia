@@ -84,7 +84,7 @@ The Supreme seems to grow from all possible expe riential starting points in ful
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

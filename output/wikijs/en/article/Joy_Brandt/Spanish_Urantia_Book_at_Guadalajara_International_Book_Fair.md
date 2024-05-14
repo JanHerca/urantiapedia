@@ -47,7 +47,7 @@ The “El Libro de Urantia” booth is number N25, so please stop by if you are 
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf)
 
 <br>
 

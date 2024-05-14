@@ -218,7 +218,7 @@ The Hopi and other Native American tribes have a more modern prophecy that echoe
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

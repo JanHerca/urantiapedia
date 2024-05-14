@@ -317,7 +317,7 @@ www.urantiabook.org
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMwinter07_optimized.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMwinter07_optimized.pdf)
 
 
 <figure class="table chapter-navigator">

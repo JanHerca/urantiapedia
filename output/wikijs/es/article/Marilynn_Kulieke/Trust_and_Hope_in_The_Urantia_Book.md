@@ -73,7 +73,7 @@ _El Libro de Urantia_ retrata la esperanza como un fenómeno universal. La esper
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

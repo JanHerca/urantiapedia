@@ -226,7 +226,7 @@ Handout available: “Timeline: Anti-religious Personalities, Events & Trends, 1
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

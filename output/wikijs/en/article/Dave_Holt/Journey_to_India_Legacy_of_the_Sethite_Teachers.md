@@ -189,7 +189,7 @@ Undoubtedly, you will have other ideas as to how we can eventually collaborate t
 - Wolkstein and Kramer, Inanna, _Queen of Heaven and Earth_. (Harper and Row, 1983) courtesy of Robert Sarmast’s research papers.
 - R.C. Zaehner, _Hindu Scriptures_. (J. M. Dent & Sons, Ltd. 1966) for Rig Veda X.82, and Chandogya Upanishad
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

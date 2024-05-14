@@ -282,7 +282,7 @@ En cuanto a la habilidad de Abraham para contar, si su posteridad estaba destina
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 - Este artículo fue publicado en la publicación española «Luz y Vida», en dos partes y con ilustraciones: [primera parte](/es/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_1a_parte) y [segunda parte](/es/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_2a_parte).
 
 

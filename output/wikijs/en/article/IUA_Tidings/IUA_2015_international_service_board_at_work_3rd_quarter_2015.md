@@ -91,7 +91,7 @@ Sheila attended the Parliament of World Religions and continued work on the topi
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2015/)
 - [This article](https://urantia-association.org/international-service-board-at-work-3rd-quarter-2015)
 

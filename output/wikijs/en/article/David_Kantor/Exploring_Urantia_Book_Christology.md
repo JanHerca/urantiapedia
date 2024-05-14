@@ -91,7 +91,7 @@ Christianity in the first few centuries of the Christian era was characterized b
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

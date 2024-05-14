@@ -133,7 +133,7 @@ Los Ajustadores son el «_reino de Dios dentro de ti._» <a id="a128_55"></a>[[L
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

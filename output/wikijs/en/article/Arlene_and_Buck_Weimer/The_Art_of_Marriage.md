@@ -127,7 +127,7 @@ Family Meetings and the Respect Method of discipline offer a “win-win” situa
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

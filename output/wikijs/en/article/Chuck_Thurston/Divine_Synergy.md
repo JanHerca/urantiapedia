@@ -174,7 +174,7 @@ Our creative partnership with these endowments of spirit presence, as they are u
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

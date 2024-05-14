@@ -538,7 +538,7 @@ En la civilización moderna, se estima cada vez más que la autoridad en los asu
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 - Traducción obtenida de: https://aue.urantia-association.org/2021/10/29/trabajos-nuestras-recomendaciones-del-mes-8/
 
 

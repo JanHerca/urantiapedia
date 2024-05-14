@@ -77,7 +77,7 @@ I must conclude this little note thanking all and each of the organizers (whose 
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2018/)
 - [This article](https://urantia-association.org/reflections-international-conference)
 

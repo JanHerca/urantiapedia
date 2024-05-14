@@ -59,7 +59,7 @@ from your siblings and members of Urantia Association’s Conference Committee
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2016/)
 - [This article](https://urantia-association.org/sharing-the-urantia-book-through-webinars)
 

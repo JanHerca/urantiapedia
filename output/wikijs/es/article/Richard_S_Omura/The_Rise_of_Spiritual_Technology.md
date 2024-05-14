@@ -315,7 +315,7 @@ _El Libro de Urantia_ contiene muchos más «tesoros» como los que he mencionad
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

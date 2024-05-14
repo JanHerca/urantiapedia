@@ -151,7 +151,7 @@ Concluding, I would say that the many moods, musics, and magic of _The Urantia B
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

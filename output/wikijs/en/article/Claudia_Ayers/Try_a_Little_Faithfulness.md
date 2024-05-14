@@ -127,7 +127,7 @@ In this presence let me be . . always knocking on heaven's door.
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf)
 
 <br>
 

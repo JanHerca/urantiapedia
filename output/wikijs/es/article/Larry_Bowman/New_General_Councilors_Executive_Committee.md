@@ -65,7 +65,7 @@ En el equipo de servicio de Cristina, el único comité permanente es Publicacio
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf)
 
 <br>
 

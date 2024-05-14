@@ -81,7 +81,7 @@ Olga
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2020/)
 - [This article](https://urantia-association.org/dialogues-with-sofia)
 

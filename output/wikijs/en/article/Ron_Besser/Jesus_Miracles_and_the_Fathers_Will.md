@@ -96,7 +96,7 @@ However he managed it, and in spite of appearances, Jesus committed no errors—
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

@@ -120,7 +120,7 @@ Email: [conferences@urantia-association.org](mailto:conferences@urantia-associat
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2020/)
 - [This article](https://urantia-association.org/peru-2021-international-conference-registration-now-open)
 

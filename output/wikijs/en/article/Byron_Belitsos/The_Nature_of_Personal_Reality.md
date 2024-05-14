@@ -301,7 +301,7 @@ The Divine Person encompasses and transcends evolution and all evolutionary bein
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

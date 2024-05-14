@@ -73,7 +73,7 @@ Palm Desert, CA
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2015/)
 - [This article](https://urantia-association.org/the-importance-of-study-groups)
 

@@ -75,7 +75,7 @@ Urantia Association of Spain
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2016/)
 - [This article](https://urantia-association.org/meeting-of-urantia-book-readers-in-spain)
 

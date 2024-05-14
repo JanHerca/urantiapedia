@@ -93,7 +93,7 @@ Somos bendecidos con el privilegio de ayudar a Dios a ayudar a otros, para que e
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf)
 
 <br>
 

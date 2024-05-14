@@ -76,7 +76,7 @@ Read more about [Conference Archives](https://urantia-association.org/category/r
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [This article](https://urantia-association.org/2015-international-conference-quebec-canada)
 

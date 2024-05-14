@@ -153,7 +153,7 @@ Jesús nos dio este regalo de sí mismo, el Espíritu de la Verdad, para que pod
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

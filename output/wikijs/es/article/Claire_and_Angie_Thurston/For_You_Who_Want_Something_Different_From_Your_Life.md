@@ -418,7 +418,7 @@ Somos una madre y una hija que querían algo diferente de nuestras vidas y lo en
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf)
 
 <br>
 

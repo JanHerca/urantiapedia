@@ -101,7 +101,7 @@ If you’d like to know more—if you’d like to be a part—if you’d like to
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2021/)
 - [This article](https://urantia-association.org/two-sides-same-coin)
 

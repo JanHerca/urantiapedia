@@ -496,7 +496,7 @@ T = 1/H~0~ = [(3.262) \* (3.00) \* 10^11^ yr / 72] = 1.36 \* 10^10^ yr = 13.6 bi
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

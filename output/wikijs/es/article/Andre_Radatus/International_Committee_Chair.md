@@ -63,7 +63,7 @@ Estoy agradecido de estar sirviendo con un equipo tan notable y dedicado.
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf)
 
 <br>
 

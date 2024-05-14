@@ -53,7 +53,7 @@ _El Libro de Urantia_ Fellowship, PO Box 6631, Broomfield, CO 80021
 
 ## Enlaces externos
 
-* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+* [Boletín en _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf)
 
 <br>
 

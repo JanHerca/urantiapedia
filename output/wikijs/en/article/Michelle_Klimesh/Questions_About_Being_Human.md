@@ -109,7 +109,7 @@ _This article is a written reflection of a presentation given to the Urantia Boo
 - The condensed version : https://vimeo.com/187755204 
 - Thich Nhat Hanh: “Compassionate Listening” interview: https://www.youtube.com/watch?v=lyUxYflkhzo
 - Elizabeth Lesser:“Take the Other to Lunch” initiative https://www.ted.com/talkselizabeth_lesser_take_the_other_to_lunch  
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 > Michelle Klimesh, past President of the Fellowship, author of The Story of Everything, has been reading _The Urantia Book_ since 1974. She is a member and past President of the Golden Gate Circle; attends study groups in San Ramon and Walnut Creek; and resides alternately in San Ramon, California and Spillville, Iowa.
 {.is-info}

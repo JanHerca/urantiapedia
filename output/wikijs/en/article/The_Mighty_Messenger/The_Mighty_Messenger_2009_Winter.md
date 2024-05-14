@@ -328,7 +328,7 @@ www.urantiabook.org
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mightymessenger/Mighty_Messenger_fall2009.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mightymessenger/Mighty_Messenger_fall2009.pdf)
 
 
 <figure class="table chapter-navigator">

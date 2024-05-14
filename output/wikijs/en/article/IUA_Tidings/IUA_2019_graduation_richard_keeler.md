@@ -103,7 +103,7 @@ My husband Trevor and I count Richard among our very special Urantia Book reader
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2019/)
 - [This article](https://urantia-association.org/graduation-richard-keeler)
 

@@ -83,7 +83,7 @@ The PIRT team would be glad to hear from you to answer any questions that you ma
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2023/)
 - [This article](https://urantia-association.org/urantia-book-study-group-at-oregon-state-penitentiary)
 

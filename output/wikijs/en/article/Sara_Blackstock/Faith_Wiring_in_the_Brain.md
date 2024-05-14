@@ -134,7 +134,7 @@ These realities do not need studies with string and magnets to prove them. Anne 
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 ## Bibliography
 

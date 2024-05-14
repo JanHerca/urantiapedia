@@ -63,7 +63,7 @@ The purpose of interfaith is a classic example of â€œunity, but not uniformity.â
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

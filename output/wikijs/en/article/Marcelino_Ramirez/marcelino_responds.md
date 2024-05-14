@@ -143,7 +143,7 @@ Cel.+58416-3700295
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2020/)
 - [This article](https://urantia-association.org/marcelino-responds)
 

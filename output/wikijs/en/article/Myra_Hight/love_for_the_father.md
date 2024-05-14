@@ -53,7 +53,7 @@ If you would like to use Reinaldo’s art in your Urantia works, please [Contact
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2023/)
 - [This article](https://urantia-association.org/love-for-the-father)
 

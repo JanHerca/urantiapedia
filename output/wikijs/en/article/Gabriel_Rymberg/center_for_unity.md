@@ -64,7 +64,7 @@ For more information visit our website at: [thecenterforunity.org](https://thece
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2021/)
 - [This article](https://urantia-association.org/center-for-unity)
 

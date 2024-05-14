@@ -53,7 +53,7 @@ Lena Sadler was a great Urantian. Her significance, like that of many extraordin
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

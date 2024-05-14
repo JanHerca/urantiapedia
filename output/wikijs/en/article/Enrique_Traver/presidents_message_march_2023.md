@@ -99,7 +99,7 @@ Enrique Traver
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2023/)
 - [This article](https://urantia-association.org/presidents-message-march-2023)
 

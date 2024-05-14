@@ -87,7 +87,7 @@ Not all eight-year-olds immersed in the teachings of _The Urantia Book_ become U
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

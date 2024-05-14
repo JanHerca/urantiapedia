@@ -59,7 +59,7 @@ My sweet river of tolerance, My Mountain of mercy, My endless field of kind unde
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf)
 
 <br>
 

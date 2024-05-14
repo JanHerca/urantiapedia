@@ -66,7 +66,7 @@ The Boulder Urantia community hosts a quarterly worship service at a local churc
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [This article](https://urantia-association.org/young-reader-study-group-in-boulder)
 

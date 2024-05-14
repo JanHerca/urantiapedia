@@ -80,7 +80,7 @@ What is needed is that we try, at least, to contribute to the establishment of a
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2021/)
 - [This article](https://urantia-association.org/spiritualizing-everyday-life)
 

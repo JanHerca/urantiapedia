@@ -76,7 +76,7 @@ Please **save the dates** and watch for the Registration information and Registr
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-special-issue-march-2022/)
 - [This article](https://urantia-association.org/other-news-summer-study-session-2022)
 

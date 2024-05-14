@@ -55,7 +55,7 @@ I publicly appreciate the participation in the presentation of _The Urantia Book
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2019/)
 - [This article](https://urantia-association.org/guatemala-book-fair)
 

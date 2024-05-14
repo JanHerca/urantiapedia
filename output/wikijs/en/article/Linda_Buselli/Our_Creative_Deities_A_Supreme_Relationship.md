@@ -100,7 +100,7 @@ We are experiencing a mortal version of the cosmic pattern set forth by our Crea
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

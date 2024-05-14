@@ -109,7 +109,7 @@ _Este artículo es un reflejo escrito de una presentación dada a la Sociedad de
 - La versión condensada: https://vimeo.com/187755204
 - Thich Nhat Hanh: entrevista «Escucha compasiva»: https://www.youtube.com/watch?v=lyUxYflkhzo
 - Elizabeth Lesser: iniciativa «Lleva al otro a almorzar» https://www.ted.com/talkselizabeth_lesser_take_the_other_to_lunch  
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 > Michelle Klimesh, expresidenta de la Fraternidad, autora de La historia de todo, lee _El Libro de Urantia_ desde 1974. Es miembro y expresidenta del Golden Gate Circle; asiste a grupos de estudio en San Ramon y Walnut Creek; y reside alternativamente en San Ramon, California y Spillville, Iowa.
 {.is-info}

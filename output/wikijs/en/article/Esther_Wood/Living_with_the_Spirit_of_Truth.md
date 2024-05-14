@@ -153,7 +153,7 @@ Jesus gave us this gift of himself, the Spirit of Truth, so that we might more s
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

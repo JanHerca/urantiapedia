@@ -70,7 +70,7 @@ If you would like to join this event at 533 W. Diversey Parkway in Chicago, cont
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2017/)
 - [This article](https://urantia-association.org/daughters-of-god-womens-retreat)
 

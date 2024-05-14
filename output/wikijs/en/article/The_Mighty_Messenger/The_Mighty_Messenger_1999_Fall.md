@@ -165,7 +165,7 @@ The long awaited Wrightwood Series #2, “Perspectives on Race in _The Urantia B
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mm_fall99.htm
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mm_fall99.htm)
 
 
 <figure class="table chapter-navigator">

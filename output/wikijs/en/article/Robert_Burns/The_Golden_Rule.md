@@ -74,7 +74,7 @@ The Master asks us for loyalty, not sacrifice, as he wants our wholehearted affe
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

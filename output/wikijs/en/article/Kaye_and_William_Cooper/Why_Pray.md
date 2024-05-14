@@ -78,7 +78,7 @@ Just talk to your spiritual parent the way you would to a trusted friend or a lo
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf)
 
 <br>
 

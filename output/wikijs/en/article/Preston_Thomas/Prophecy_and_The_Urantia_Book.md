@@ -237,7 +237,7 @@ _The Urantia Book_ clearly tells us to join in this great spiritual undertaking 
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

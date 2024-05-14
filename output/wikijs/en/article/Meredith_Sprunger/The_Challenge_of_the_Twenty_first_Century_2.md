@@ -70,7 +70,7 @@ The solid core of the Urantia movement has come through these tribulations with 
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 - This article was also published (in short format) here: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html (and it is also available in Urantiapedia here: [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
 

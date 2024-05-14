@@ -94,7 +94,7 @@ Russian: [https://urantia-association.org/wp-content/uploads/2015/04/What-is-UAI
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2017/)
 - [This article](https://urantia-association.org/announcements)
 

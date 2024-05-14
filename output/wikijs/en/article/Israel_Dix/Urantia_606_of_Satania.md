@@ -282,7 +282,7 @@ As for Abraham’s ability to count, if his posterity was destined to be as nume
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

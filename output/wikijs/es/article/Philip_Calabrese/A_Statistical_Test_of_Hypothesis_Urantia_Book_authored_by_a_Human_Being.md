@@ -174,7 +174,7 @@ En ese sentido, deben saber que _El Libro de Urantia_ predica el Evangelio de Je
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 ## Notas
 

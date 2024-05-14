@@ -73,7 +73,7 @@ Urantia Association International
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2018/)
 - [This article](https://urantia-association.org/online-workshop-series-report)
 

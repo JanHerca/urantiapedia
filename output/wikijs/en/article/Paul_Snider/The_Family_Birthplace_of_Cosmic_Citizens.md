@@ -227,7 +227,7 @@ What would Jesus do? God bless you my friends, my brothers and sisters of destin
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

@@ -91,7 +91,7 @@ Joshua: “_Now, mistake not, my Father will ever respond to the faintest flicke
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

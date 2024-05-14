@@ -62,7 +62,7 @@ Two thousand years ago cowards shouted "Free Barabbas" and "Crucify Jesus." Many
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

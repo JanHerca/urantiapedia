@@ -44,7 +44,7 @@ Please enjoy this selection of photos of the late David Linthicum depicting his 
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-special-issue-june-2022/)
 - [This article](https://urantia-association.org/gallery-for-david)
 

@@ -73,7 +73,7 @@ After the closing ceremony at the end of the main conference it was time to say 
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2019/)
 - [This article](https://urantia-association.org/young-adults-pre-european-conference)
 

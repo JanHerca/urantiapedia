@@ -168,7 +168,7 @@ McMullen III, Harry. _Principles of Knowing God’s Will_. From the 1981 Urantia
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

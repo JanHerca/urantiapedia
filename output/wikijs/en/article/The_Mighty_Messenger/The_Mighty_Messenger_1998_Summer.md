@@ -128,7 +128,7 @@ Members: Avi Dogirn, Chair; Nancy Johnson, Carolyn Kendall, Linda Buselli, Sage 
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mmfall97.htm
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mmfall97.htm)
 
 
 <figure class="table chapter-navigator">

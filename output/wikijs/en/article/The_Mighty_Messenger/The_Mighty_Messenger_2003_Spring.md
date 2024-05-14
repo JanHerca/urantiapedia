@@ -137,7 +137,7 @@ Let's come together for this year's summer session with renewed truth hunger and
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/MM0303.htm
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/MM0303.htm)
 
 
 <figure class="table chapter-navigator">

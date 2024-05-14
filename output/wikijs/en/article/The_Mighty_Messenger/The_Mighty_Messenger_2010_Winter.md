@@ -463,7 +463,7 @@ Please send us news of your study group and/or society activities. We also would
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMwinter11.pdf
+* [Newsletter in _The Urantia Book_ Fellowship](https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMwinter11.pdf)
 
 
 <figure class="table chapter-navigator">

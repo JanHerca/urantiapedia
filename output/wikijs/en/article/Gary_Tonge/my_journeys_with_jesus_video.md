@@ -41,7 +41,7 @@ https://youtu.be/qv4tMe39vd4
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2023/)
 - [This article](https://urantia-association.org/my-journeys-with-jesus-video)
 

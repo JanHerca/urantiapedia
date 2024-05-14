@@ -66,7 +66,7 @@ Christmas is a time to give thanks to Michael of Nebadon and to celebrate the ma
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-december-2021/)
 - [This article](https://urantia-association.org/the-meaning-of-christmas)
 

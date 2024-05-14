@@ -196,7 +196,7 @@ Un amiga mía, ex miembro del Foro, que se graduó, me escribió una carta hace 
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

@@ -163,7 +163,7 @@ __Ingredient #23: But wait, there are more lessons! Sooner or later we run out o
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -86,7 +86,7 @@ Next year _The Urantia Book_ Fellowship will host the 2008 International Confere
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

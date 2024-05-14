@@ -82,7 +82,7 @@ He calls them “gifts.” Perhaps tolerance is more than just “putting up wit
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>

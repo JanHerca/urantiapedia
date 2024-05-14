@@ -62,7 +62,7 @@ Thank you to our outgoing Board members! The works of Susan, Gaetan and David ha
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2019/)
 - [This article](https://urantia-association.org/isb-elections)
 

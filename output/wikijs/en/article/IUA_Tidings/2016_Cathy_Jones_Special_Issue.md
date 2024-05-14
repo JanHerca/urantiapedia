@@ -229,7 +229,7 @@ The best leaders always mentor those who are ready and willing to serve. Cathy w
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/farewell-to-cathy-jones/)
 
 <figure class="table chapter-navigator">

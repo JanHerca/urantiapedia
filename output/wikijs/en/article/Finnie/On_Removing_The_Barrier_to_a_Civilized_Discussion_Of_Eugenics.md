@@ -86,7 +86,7 @@ We should approach eugenics only through a mature philosophy that recognizes the
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

@@ -134,7 +134,7 @@ Estas realidades no necesitan estudios con cuerdas e imanes para probarlas. Anne
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 ## Bibliografía
 

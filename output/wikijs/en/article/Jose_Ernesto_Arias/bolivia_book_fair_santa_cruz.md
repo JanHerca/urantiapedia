@@ -71,7 +71,7 @@ Greetings, brothers and sisters of the world, from this part of the globe where 
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2017/)
 - [This article](https://urantia-association.org/bolivia-book-fair-santa-cruz)
 

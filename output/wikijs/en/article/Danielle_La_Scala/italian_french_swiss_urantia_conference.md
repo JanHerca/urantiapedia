@@ -107,7 +107,7 @@ We look forward welcoming again last year participants, as well as meeting new r
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2016/)
 - [This article](https://urantia-association.org/italian-french-swiss-urantia-conference)
 

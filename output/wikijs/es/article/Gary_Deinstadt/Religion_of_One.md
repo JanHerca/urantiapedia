@@ -168,7 +168,7 @@ Aquí sólo estoy rascando la superficie. Obviamente, hay teología pasada de mo
 
 ## Referencias
 
-- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 - Artículo reeditado en la publicación española «Luz y Vida», [número 38](/es/article/Gary_Deinstadt/Religion_of_One_Luz_y_Vida).
 
 

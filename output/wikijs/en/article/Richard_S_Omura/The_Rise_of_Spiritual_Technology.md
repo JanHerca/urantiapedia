@@ -315,7 +315,7 @@ _The Urantia Book_ contains many more such “treasures” as I have mentioned. 
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

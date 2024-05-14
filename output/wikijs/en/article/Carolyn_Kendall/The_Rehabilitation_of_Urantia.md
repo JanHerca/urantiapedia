@@ -196,7 +196,7 @@ On another occasion, the July 30, 1971 opening session of the Summer Study Sessi
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">

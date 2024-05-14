@@ -110,7 +110,7 @@ Link to venue routemap: [https://goo.gl/maps/gscqYcwWuj32](https://goo.gl/maps/g
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2016/)
 - [This article](https://urantia-association.org/meeting-for-russian-urantia-book-readers)
 

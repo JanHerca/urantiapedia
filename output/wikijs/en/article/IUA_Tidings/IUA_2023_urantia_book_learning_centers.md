@@ -94,7 +94,7 @@ Learn more about it [here](https://mailchi.mp/urantiauniversity/kids-urantia-les
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2023/)
 - [This article](https://urantia-association.org/urantia-book-learning-centers)
 

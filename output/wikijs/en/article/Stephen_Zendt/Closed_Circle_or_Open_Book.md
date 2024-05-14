@@ -159,7 +159,7 @@ Perhaps the times of the present will see a planetary upending of the ancient cl
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

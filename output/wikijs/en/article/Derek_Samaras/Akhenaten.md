@@ -166,7 +166,7 @@ I’ve selected a few of my favorite passages from the book of Proverbs and a bi
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

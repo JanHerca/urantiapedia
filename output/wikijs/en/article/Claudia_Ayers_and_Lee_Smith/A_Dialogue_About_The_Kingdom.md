@@ -91,7 +91,7 @@ Human kingdoms are passing from the planet, but we hope and pray that inter-conn
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 

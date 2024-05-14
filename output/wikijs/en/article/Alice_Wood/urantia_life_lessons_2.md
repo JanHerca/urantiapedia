@@ -85,7 +85,7 @@ https://youtu.be/HaR9xXGn360?list=PLyWjRQTGTD6K_ExQP-0B58ws0NZr8Gxwd
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-june-2019/)
 - [This article](https://urantia-association.org/urantia-life-lessons)
 

@@ -58,7 +58,7 @@ The Facebook recordings are also available on our Facebook page in the videos se
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2020/)
 - [This article](https://urantia-association.org/third-24-hour-urantiathon)
 

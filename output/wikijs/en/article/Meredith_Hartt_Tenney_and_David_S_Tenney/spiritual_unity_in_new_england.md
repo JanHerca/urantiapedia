@@ -49,7 +49,7 @@ For details of our next two upcoming events at Angel House visit [http://urantia
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-august-2015/)
 - [This article](https://urantia-association.org/spiritual-unity-in-new-england)
 

@@ -92,7 +92,7 @@ But material help is not what matters most. All around the world, not just in Fr
 
 ## References
 
-- Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
+- [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-september-2017/)
 - [This article](https://urantia-association.org/french-national-meeting-2)
 

@@ -336,7 +336,7 @@ Finally we end on those special words by the Mighty Messenger that provide us in
 
 ## References
 
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 
