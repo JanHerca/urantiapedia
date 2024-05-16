@@ -53,7 +53,7 @@ So worship is really the fountainhead, the fundamental premise from which everyt
 As with any relationship—the exchange between personalities—nurturing a friendship with the Father is similar to nurturing any other relationship. Love is the key; worship is a bit like the expression of a personal love affair with the Father. And like with any love affair, you need to keep it alive, keep the flame of love alight, you need to give of yourself to someone you love and admire. You need to show him you care, do things you know will please him, tell him you love him, thank him for his adorable nature and fabulous attributes, ponder his attributes of truth, beauty, and goodness, feel his love and the awesome power and inspiration it can bring.  Contemplate the power of his love which is the source of everything and drives everything. Listen for feedback, have faith in that he’s listening and attempting to commune back with you. Be still and listen… This is when you can start to feel and experience a spiritual presence.
 <br style="clear:both;"/>
 
-### Getting Motivated
+## Getting Motivated
 
 But how do we get motivated to make those decisions to develop good habits that are conducive to worship and prayer. It may help to remember that we’re the architects of own lives… Energy flows where the attention goes. Our personal choices are the key to our own well being.
 
@@ -78,7 +78,7 @@ Once we’re motivated and the decision has been made, it’s time to work on ou
 Being able to relax is in my view a most important aspect to all of this. Sadly, I believe that our inability to truly relax the body and mind is one of the key elements to people’s unhappiness and one of the chief inhibitors to effective prayer and worship. We can create our own misery just by allowing ourselves to be in a constant state of stress. Stress management—developing the art of relaxation—is a prelude to entering into a state of prayer and worship, and when you hit the heights of true worship you become truly refreshed and recharged in body, mind and spirit.
 <br style="clear:both;"/>
 
-### Pondering the Nature of God
+## Pondering the Nature of God
 
 Once we’re sufficiently relaxed, how can we direct our thoughts to lead them to the upstairs compartments of our minds? How about starting by pondering a few simple basic truths about the Heavenly Father. 
 
@@ -110,7 +110,7 @@ Pretty powerful stuff—“_the Father’s love can become **real** to mortal ma
 
 The impulse to serve God and man comes from an inner life experience, from the worship experience of really feeling the power of God’s love and the inevitable urge to give our love back to him through serving our fellow man. 
 
-### The Desire to Serve
+## The Desire to Serve
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Hands-reaching-out-300x204.jpg">
@@ -133,7 +133,7 @@ This quote again:
 
 > _Cosmically moral and divinely spiritual character represents the creature’s capital accumulation of personal decisions which have been illuminated by sincere worship, glorified by intelligent love, and consummated in brotherly service_.
 
-### Choices Matter
+## Choices Matter
 
 Because the choices for dynamic service are so great and because you know you want to do things God’s way, your regular prayer life becomes key to this process of decision making: talking things over with the Father.  Laying out all the facts about your personal life, being truly honest with yourself and with God, understanding your abilities, skills and limitations. Taking everything into account and asking the Father for guidance and for strength, courage, and wisdom to make sensible, practical choices about the best and most effective ways to serve. 
 

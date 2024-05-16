@@ -52,7 +52,7 @@ We’d be wise to do our best to understand their hints and comments about futur
 
 We are told in the quote above we must have ability to comprehend before we arrive at Paradise. We must be a willing believer, and accepting sonship is vital for survival. We see that Jesus is helping us achieve greater understanding of the Father, although he was keenly aware of our planetary difficulties. Even as earthly mortals of animalistic origin, we are able to understand more through revelation. 
 
-### Begin Now 
+## Begin Now 
 
 We could dismiss the big Urantia Book as too difficult to understand, at least some portions. Given the fact we are told progress is required for each mortal and that comprehension is required, we could assume it wise to begin serious attempts at comprehending the Cosmos and the Father’s purposes while we are yet Urantians and as new information is presented to this planet. The authors inform us we must comprehend what we are now doing and also where we are going. We may expect marvelous new insights and greater comprehension of the Father’s purposes and methods as we attempt to presently move inward to the center of all life! We are told to be willing to make an effort and also informed we have work to perform. The authors laid out a vision of divine expectations for ascenders. Comprehension is sufficiently vital for the book’s authors mention it in the opening lines: _In the hope of facilitating comprehension…_ <a id="a56_927"></a>[[UB 0:0.3](/en/The_Urantia_Book/0#p0_3)] and Jesus’ parables are designed to help us see the Father in Spirit and to comprehend his nature. 
 
@@ -79,7 +79,7 @@ This is hard work for all of us. Taken in tiny steps, this long journey is surmo
 
 There are easier concepts during our mortal life state; we know of heaven, angels, Jesus the Christ, and by faith we know of God. We simplify and hold these dear. The simpler details of many religions are known and we have immortalized them well, considering planetary setbacks. The angels and many other teachers will not leave us unattended or unguided. We might be tempted to say to ourselves, “This is too much” when considering the enormous amount of information given us in _The Urantia Book_. We are not alone. Consider the many honest admissions of several of the book’s authors who tell us they don’t understand everything. We are to be faithful in our works and trust the Father for everything just as they do. This article is intended as a cheering piece to urge readers to try sincere efforts to comprehend the deep _importance of understanding_ who we are and what our Divine friends expect of us now and for next life stages. Surely they would also expect us to understand why the revelation was offered. 
 
-### What Slowly Increasing Comprehension Has Done for Me 
+## What Slowly Increasing Comprehension Has Done for Me 
 
 I have increasingly felt greater conviction and confidence in _The Urantia Book_ teachings and relating to Jesus and our Paradise Father as a result of new understandings. This new and still increasing comprehension has given me greater power and determination to work for God and to team with Michael. This humble feeling and confidence is not unique, for Michael desires all his creatures to know the Father. We will experience increasing joyful confidence at each heavenly advancement stage. Learning the universe of universes is friendly has removed fear and anxiety; there is no grudging feeling of obligation. Learning a little more about the friendship of God is warming and attractive in my soul. And now, after reading almost continuously since 1968, the gifts of increasing comprehension are very much appreciated. 
 
@@ -102,7 +102,7 @@ Comprehending more of the Father’s purposes and our Master Son Michael’s lif
 Comprehension increases as we participate with others in study and this is one important reason for study groups. Thought Adjusters apparently know how to help one another as they serve in the deep mind. Therefore, as Adjusters are gathered with you in study group teaming together there is profound benefit to everyone in the group! Many times I was humbled on hearing another person’s interpretation, realizing I was too confident in an earlier understanding. I understood how important it is to listen. 
 <br style="clear:both;"/>
 
-### Not Interested?  Please Reconsider 
+## Not Interested?  Please Reconsider 
 
 At this point we could consider what are the limitations or restraints for persons who have no interest in greater learning or of progressive comprehension. We are told the advancements we receive beyond this native sphere are based on _testing_. Perhaps a crude analogy (as compared to the universe) would be school grade levels. What wise teacher would pass a failing student to the next grade knowing such an action could be harmful to a student? Lovingly, a good teacher would augment efforts to inspire and teach a student for reaching higher and achieving a better education. We may extrapolate this familiar provision to loving Divine Parents who want each person to advance, although they understand rate of movement varies widely. We are told something of vast provisions of the mortal ascension plan! We accept sonship and then get to work at progressing spiritually inward. We do not advance unless we comprehend each level and we must sincerely desire progress. Advancement means breaking down all the undesirables of human nature including prejudice, hate, anger, jealousy, laziness, and pride. The Creators require us to understand with increasing new insight we must decrease in human nature and take on divine nature like God! 
 
@@ -117,7 +117,7 @@ The message is clear: we will not be advanced without effort. Again, it seems wi
 Another reason I think comprehension is so vital is the fact the authors tell us of power mobilizations in the outer space levels beyond the grand universe and they hint we might have service opportunities in the far distant future on these space levels! Imagine how important becomes our present beginnings of comprehension efforts. We could get a head start! Why would anyone turn down these potential opportunities? 
 <br style="clear:both;"/>
 
-### Accepting Corrections 
+## Accepting Corrections 
 
 We have been wrong on some details in many of world religions. Let’s take a look at the aforementioned quote from Paper 19, Section 1 wherein a Divine Counselor kindly calls attention to errors of a strictly mortal viewpoint: “The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to spiritual wisdom. Such a procedure is the easiest path to a certain form of genetic knowledge, but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny.” 
 
@@ -135,7 +135,7 @@ We could select most any of the major topics from the book and of Jesus’ minis
 
 In essence, he said we must advance, increase desire and comprehend the Father’s way. He is clear about what the Father will do if we do not advance: we shall be “trimmed” and ministered to by the Father until we do. If we choose not, then we are dead. 
 
-### Arming in Spirit for a Possibly Difficult Ascension Career 
+## Arming in Spirit for a Possibly Difficult Ascension Career 
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Unwasted-Talents-300x225.jpg">
@@ -146,13 +146,13 @@ What shall we comprehend as vitally important from Jesus as he verified and conf
 We may understand Jesus wants us to do great things and set a path of cooperation to accomplish new levels of growth and understanding. In other words, _this is an action universe_; we are not to be static or stagnant. Recall Jesus’ parable of the talents! Comprehend our personal decisions _and actions_ are vital for relating to divinity. 
 <br style="clear:both;"/>
 
-### No Excuses 
+## No Excuses 
 
 We’ve been victimized! Caligastia and Daligastia with Lucifer and others went into insurrection and plummeted Urantia into darkness. We were further deprived of Adam and Eve’s full biologic contribution, which also would have contributed more to spiritual capacity. This failure eventually caused a Melchizedek Son to incarnate with us to teach, to fan a faint flickering remaining light. Jesus didn’t allow his believers to whine and complain because of the past; neither do the authors allow for us to make excuses. Now it’s time to “buck up,” to face reality and learn for good measure we _are not less valued_ because the errors of others, but rather highly valued just as all mortals throughout Nebadon. We are not to whimper and whine of our difficulties, but instead to pick up our load and help one another to comprehend better ways! The fifth epochal revelation is here to help us with new insights of bravery and courage. Yes, comprehend we are working in disadvantage, but reward for faith and loyalty will be profound for honest, loving Urantians on reaching the next light levels. Comprehend that Jesus saw sincerity in people and welcomed them in his fold. Comprehend his teachings are synergistic in that all of his teachings affirm all his other teachings. Comprehend there is a brilliant spiritual career waiting for all believers. 
 
 Mortal comprehension is limited, yes, but effort replaces laziness and effort is noted on high for anyone who truly desires the Father. We could simplify and say, “He who works not, eats not.” Comprehend that no effort means no or little understanding of cosmic reality. We may try to be as perfect as is possible while still human mortals even though we cannot absolutely see all perfection. We will understand more as we are in motion toward Paradise. Pick your favorite topics and compare your present understanding of life compared to when you were younger. Are you now able to better comprehend life? Or will we accept a blinded view of complaining and grumbling? 
 
-### The Original Personality 
+## The Original Personality 
 
 We can now address personality comprehension; the serious but joyful attempts at comprehending the Father’s marvelous personality! This is a highly important reason we have been gifted with the teachings. There is so much to this topic, but it is educational for us to think of a real Person who truly loves each son. With attention to this truth we can realize that we are valued beyond what we presently comprehend! We are told Jesus could love mortals so much because he values us so much! This is revealed to us in Part IV via midwayer commentary. 
 

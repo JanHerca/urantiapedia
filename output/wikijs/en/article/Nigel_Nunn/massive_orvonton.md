@@ -86,7 +86,11 @@ But here’s the surprise: they also state that the **breadth** of this distribu
 
 Here its worth “pausing to consider” these three numbers: length 500,000 light years, breadth 100,000 light years, thickness 5,000 light years. The authors appear to be describing Orvonton as a vastly elongated, extraordinarily flat, pancake. How thin is this pancake? With a length to thickness ratio of 100:1, this pancake has the same relative thickness as a DVD—10 cm wide by 1 mm thick.
 
-To help make sense of these numbers, here’s that “**200,000 light years**” in context:![](https://urantia-association.org/wp-content/uploads/2017/11/Massive-Orvonton2-706x289.jpg)
+To help make sense of these numbers, here’s that “**200,000 light years**” in context:
+
+<figure id="Figure_3a" class="image urantiapedia">
+<img src="/image/article/IUA_Journal/Massive-Orvonton2-706x289.jpg">
+</figure>
 
 If we put all this together with their statement, “Nebadon is now well out towards the edge of Orvonton” <a id="a90_105"></a>[[UB 32:2.11](/en/The_Urantia_Book/32#p2_11)], then we get something like this:
 

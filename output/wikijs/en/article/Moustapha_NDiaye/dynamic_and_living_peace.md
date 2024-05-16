@@ -73,11 +73,11 @@ Unfortunately, all too often people tend to deal with the perplexities of life w
 
 Although the peace of the Lord has not yet become the natural state of our social lives, as each planetary age unfolds under the ministry of the planetary bestowal Sons, we move step-by-step away from the primitive ages of humanity—characterized by fear and ignorance, and their consequences—towards that time when we can all enjoy spiritual peace on earth.
 
-> _Peace is not the natural state of the material realms. The world first realizes ‘peace on earth and good will among men’ through the ministry of the seraphic souls of peace._ [Paper 39:5:5, page 437.4]
+> _Peace is not the natural state of the material realms. The world first realizes ‘peace on earth and good will among men’ through the ministry of the seraphic souls of peace._ [[UB 39:5.5](/en/The_Urantia_Book/39#p5_5)]
 
 This implies that the “Souls of Peace” follow several ages of stabilization as the evolution of mankind moves into alignment with the Divine Plan.
 
-> _War is the natural state and heritage of evolving man; peace is the social yardstick measuring civilization’s advancement._ [Paper 70:1:1, page 783.4]
+> _War is the natural state and heritage of evolving man; peace is the social yardstick measuring civilization’s advancement._ [[UB 70:1.1](/en/The_Urantia_Book/70#p1_1)]
 
 Planetary ages are coordinated in space, integrated in time, and unified by the Spirit in eternity. They manifest themselves by successive individual and collective contributions to the gradual manifestation of eternity in time, to the eternal now.
 
@@ -117,9 +117,9 @@ Consider the impact of the third, fourth, and fifth epochal revelations which we
 
 > _Joshua ben Joseph, the Jewish baby, was conceived and was born into the world just as all other babies before and since, **except** that this particular baby was the incarnation of Michael of Nebadon, a divine Son of Paradise and the creator of all this local universe._ <a id="a117_274"></a>[[UB 119:7.5](/en/The_Urantia_Book/119#p7_5)]
 
-1. The Thought Adjuster who guided the mind of Machiventa also served Joshua ben Joseph and is now personalized as the Chief of Personalized Adjusters of Nebadon.
+2. The Thought Adjuster who guided the mind of Machiventa also served Joshua ben Joseph and is now personalized as the Chief of Personalized Adjusters of Nebadon.
 
-2. The title “Planetary Prince” conferred on Michael of Nebadon following his seventh bestowal was delegated to Machiventa who, together with the twenty-four councilors, now serves Michael in the council of the Planetary Princes of Satania.
+3. The title “Planetary Prince” conferred on Michael of Nebadon following his seventh bestowal was delegated to Machiventa who, together with the twenty-four councilors, now serves Michael in the council of the Planetary Princes of Satania.
 
 Moreover, we now more fully appreciate the contribution to the plan for the establishment of divine peace that resulted from the petition made by a commission of twelve planetary midwayers in the courts of the superuniverse. Their petition resulted in the fifth epochal revelation including Part IV—The Life and Teachings of Jesus.
 
