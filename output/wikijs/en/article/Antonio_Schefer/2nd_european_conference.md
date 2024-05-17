@@ -64,7 +64,9 @@ Sunday started just as the other conference days except that is was closing day.
 
 When we started preparations during the 1<sup>st</sup> European Leadership Meeting in October 2017 in the city of Sitges-Spain and selected the Urantia Association of Estonia to organize this conference, we never expected that the 2<sup>nd</sup> European Urantia Conference would be such a great success. Personally, I thought we could not do better than Budapest but Karmo Kalda and his local conference team showed that it was possible. It always amazes me how conference planning ideas develop into real conferences and how unforgettable and life-changing they become. For this reason and more, I want to thank the Estonians. I also want to thank our sponsors; Urantia Association International, Urantia Foundation, and Truthbook for their financial and other support offered. But most of all I want to thank the attendees from all around the world who made this 2<sup>nd</sup> European Urantia Conference happen. Without your trust in our events this would never have been possible.
 
-All the presentations were videoed and are now available for viewing on the Associations YouTube channel. See [this link](https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/playlists) and click on the playlist for the 2<sup>nd</sup> European Urantia Conference.
+All the presentations were videoed and are now available for viewing on the Associations YouTube channel. See this link (below) and click on the playlist for the 2<sup>nd</sup> European Urantia Conference.
+
+https://www.youtube.com/@urantiassociationinternational
 
 I’m looking forward seeing you all again at our next big event, which is the 2021 Urantia Association International Conference, to be held in Urubamba-Cusco-Peru. Thank you for giving me the opportunity to serve you all with helping to organize conferences together with my Conference Committee. It is truly a pleasure to serve you, and I can’t wait to help you with the next one.
 

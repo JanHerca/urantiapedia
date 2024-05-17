@@ -34,13 +34,15 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-### A Personal Outreach
+## A Personal Outreach
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Alice-Wood-with-book-e1558059002332-300x225.jpg">
 </figure>
 
-I’m Alice Wood and I am the creator of the YouTube channel, _[Urantia Life Lessons](https://www.youtube.com/channel/UCil35h5NBjq8xlPXzV50spA)._ This is a platform designed to walk people through the teachings of _The Urantia Book_ as they relate to our daily lives.
+I’m Alice Wood and I am the creator of the YouTube channel, _Urantia Life Lessons._ This is a platform designed to walk people through the teachings of _The Urantia Book_ as they relate to our daily lives.
+
+https://www.youtube.com/channel/UCil35h5NBjq8xlPXzV50spA
 
 Being a second-generation student of _The Urantia Book_, I became aware that children who are raised with the book are exposed first, to the values of the book, rather than the details which are so often overwhelming to people who are not familiar with it. It is those values that I bring forth in a way that I hope is appealing to both long-time and new students of _The Urantia Book_.
 

@@ -62,7 +62,9 @@ The language spoken during the conference will be Spanish, and presentations wil
 <img src="/image/article/IUA_Tidings/Captura-de-pantalla-2023-09-01-183658-video-congreso-e1694991013713-706x367.jpg">
 </figure>
 
-See the promotional [video](https://www.youtube.com/watch?v=0BGxSgd6o_s).
+See the promotional video
+
+https://www.youtube.com/watch?v=0BGxSgd6o_s.
 
 What a joy it will be to see you all in-person together, after so many years of absence during the pandemic, and to study the theme the fifth epochal revelation in the 21st Century at this amazing place in Mexico.
 
