@@ -38,7 +38,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/urantia-family.jpg">
 </figure>
 
-_Happy New Year to you!_  Here is our greeting video and special announcement for 2016 [https://youtu.be/oU-pg04pa9s](https://youtu.be/oU-pg04pa9s).
+_Happy New Year to you!_  Here is our greeting video and special announcement for 2016 
+
+https://youtu.be/oU-pg04pa9s
 
 We want to wish you a warm welcome to The United Urantia Family Festival 2016!  _Celebrating Jesus’ Birthday Together in His Homeland!_
 

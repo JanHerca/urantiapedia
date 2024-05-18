@@ -67,7 +67,7 @@ Chris Wood
 ## References
 
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
-- [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
+- [This issue](https://urantia-association.org/newsletter/tidings-april-2015/)
 - [This article](https://urantia-association.org/presidents-april-2015-message)
 
 <figure class="table chapter-navigator">

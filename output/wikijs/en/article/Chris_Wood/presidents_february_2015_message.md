@@ -67,7 +67,7 @@ President
 ## References
 
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
-- [This issue](https://urantia-association.org/newsletter/tidings-december-2014/)
+- [This issue](https://urantia-association.org/newsletter/tidings-jan-feb-2015/)
 - [This article](https://urantia-association.org/presidents-february-2015-message)
 
 <figure class="table chapter-navigator">

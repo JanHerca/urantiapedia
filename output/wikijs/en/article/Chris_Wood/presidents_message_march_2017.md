@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 
 
-### The Pay-it Forward Conference Model
+## The Pay-it Forward Conference Model
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
