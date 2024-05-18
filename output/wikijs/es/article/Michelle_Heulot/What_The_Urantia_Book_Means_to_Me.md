@@ -42,7 +42,7 @@ Todos somos peregrinos en el camino de la vida y la verdad. Mi camino se ilumin�
 
 Durante décadas, había depositado una confianza ciega en una institución religiosa, única poseedora de «la verdad», pero que en realidad la distorsionaba añadiendo reglas y dogmas interpretativos. Estos descubrimientos progresivos provocaron en mí estados de conciencia dolorosos: amargura, indignación, vergüenza, tristeza, desánimo e incluso depresión.
 
-En el punto álgido de mi confusión, cuando rezaba, las palabras de Cristo en [Juan 14:6](/en/Bible/John/14#v6), «Yo soy el camino, la verdad y la vida», volvían a tocar mi corazón y a desafiar a mi alma. Y fueron estas mismas palabras las que me llenaron de energía y me dieron el valor y la determinación para comenzar una nueva búsqueda.
+En el punto álgido de mi confusión, cuando rezaba, las palabras de Cristo en [Juan 14:6](/es/Bible/John/14#v6), «Yo soy el camino, la verdad y la vida», volvían a tocar mi corazón y a desafiar a mi alma. Y fueron estas mismas palabras las que me llenaron de energía y me dieron el valor y la determinación para comenzar una nueva búsqueda.
 
 Entre los sitios espirituales que consulté, la Escuela de _El libro de Urantia_ en Internet (UBIS por sus siglas en inglés) llamó mi atención con un curso sobre la verdadera religión. Mi primera experiencia en la UBIS, en septiembre de 2016, seguida de muchas otras, desencadenó una decidida búsqueda de investigación que poco a poco fue respondiendo a mis preguntas con coherencia y lógica.
 

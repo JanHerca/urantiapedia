@@ -65,8 +65,8 @@ To help Andrès in his new role as Study Groups Chair would be to:
 
 I leave you with two of my favorite African sayings:
 
-> _“If you want to go quickly, go alone. If you want to go far, go together.”  
-> __“Wisdom is like a baobab tree; no one individual can embrace it.”_
+> _“If you want to go quickly, go alone. If you want to go far, go together.”_
+> _“Wisdom is like a baobab tree; no one individual can embrace it.”_
 
 Gaetan G. Charland  
 Study Groups Chair  

@@ -55,7 +55,7 @@ Another thing that I am looking forward to organizing, is training sessions with
 
 There is more to come on this project, but nothing should prevent you from doing this in your own country if you are dedicated to improving the quality of your study groups and increasing its number. 
 
-> _“Thousands of study groups must be brought into existence and the book must be translated into many tongues. Thus will the book be in readiness when the battle for man’s liberty is finally won and the world is once more made safe for the religion of Jesus and the freedom of mankind.”_ (Publication Mandate) 
+> _“Thousands of study groups must be brought into existence and the book must be translated into many tongues. Thus will the book be in readiness when the battle for man’s liberty is finally won and the world is once more made safe for the religion of Jesus and the freedom of mankind.”_ [Publication Mandate](/en/article/The_Publication_Mandate)
 
 I wish you a very enlightening study group. 
 

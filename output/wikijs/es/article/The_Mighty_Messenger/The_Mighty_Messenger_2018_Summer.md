@@ -91,7 +91,7 @@ También regístrese para el Retiro espiritual (*), del 17 al 19 de julio de 201
 
 ### Culto
 
-El tema de adoración para SSS'18 es La relación de adoración y servicio. «La adoración es la técnica de buscar en el Uno la inspiración del servicio a los muchos» ([UB 143:7.6](/en/The_Urantia_Book/143#p7_6)). El Comité de Adoración ha planificado varios eventos para crear una ocasión «invadida por una atmósfera de comunión». Puede asistir a la meditación contemplativa tranquila en la Capilla de África antes del desayuno y la cena todos los días; reunirnos para contemplar juntos a nuestro Padre celestial antes de las sesiones plenarias. El domingo nos reuniremos y compartiremos una mañana especial de adoración con actividades relacionadas.
+El tema de adoración para SSS'18 es La relación de adoración y servicio. «La adoración es la técnica de buscar en el Uno la inspiración del servicio a los muchos» ([LU 143:7.6](/es/The_Urantia_Book/143#p7_6)). El Comité de Adoración ha planificado varios eventos para crear una ocasión «invadida por una atmósfera de comunión». Puede asistir a la meditación contemplativa tranquila en la Capilla de África antes del desayuno y la cena todos los días; reunirnos para contemplar juntos a nuestro Padre celestial antes de las sesiones plenarias. El domingo nos reuniremos y compartiremos una mañana especial de adoración con actividades relacionadas.
 
 ### Es una Gala Universo Amiga
 

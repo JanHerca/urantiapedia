@@ -70,7 +70,7 @@ Y lo que eres nunca puede ser destruido.
 > El poema, que según su hermana Charlotte, fueron los últimos versos que escribió Emily Bronte, no tiene título.
 {.is-info}
 
-> En la mente de Dios hay un plan que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos! (<a id="a72_327"></a>[UB 32:5.7](/es/The_Urantia_Book/32#p5_7))
+> En la mente de Dios hay un plan que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos! (<a id="a72_327"></a>[LU 32:5.7](/es/The_Urantia_Book/32#p5_7))
 
 ## Referencias
 

@@ -43,7 +43,7 @@ Además de los grupos de estudio, la UBIS es el primer medio organizado para edu
 
 Al hacer clic en el enlace siguiente, el lector se familiarizará con las metas, propósitos y pedagogías de la escuela: 
 
-[UBIS Introduction](https://www.urantia.org/education/urantia-book-internet-school-ubis-newsletter#Introduction)
+[LUIS Introduction](https://www.urantia.org/education/urantia-book-internet-school-ubis-newsletter#Introduction)
 
 La UBIS proporciona a los lectores de todo el mundo acceso a un servicio fácil de manejar y libre de cargos, que ofrece cursos y formación en cuatro idiomas.
 

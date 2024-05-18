@@ -64,7 +64,7 @@ Cuando leí en _El Libro de Urantia_ las dificultades que Jesús enfrentó mient
 
 Cuando perdí mi trabajo y enfrenté el desafío de encontrar otro puesto, sin pistas positivas reales y con dos niños absolutamente dependientes de mí para su bienestar, nuevamente me ayudó tener a mi héroe a quien acudir en busca de orientación e inspiración.
 
-> «Aparentemente todos los planes de Jesús para una carrera fueron frustrados. El futuro no parecía brillante tal como se desarrollaban las cosas. Pero él no vaciló; no se desanimó. Vivió día tras día, cumpliendo bien con su deber presente y cumpliendo fielmente con las responsabilidades inmediatas de su posición en la vida.» ([UB 126:5.4](/en/The_Urantia_Book/126#p5_4))
+> «Aparentemente todos los planes de Jesús para una carrera fueron frustrados. El futuro no parecía brillante tal como se desarrollaban las cosas. Pero él no vaciló; no se desanimó. Vivió día tras día, cumpliendo bien con su deber presente y cumpliendo fielmente con las responsabilidades inmediatas de su posición en la vida.» ([LU 126:5.4](/es/The_Urantia_Book/126#p5_4))
 
 La forma en que se desarrolló mi siguiente trabajo, el comienzo de una verdadera carrera, transmitió que mi héroe y sus ayudantes participaron en ese importante siguiente paso de mi vida.
 

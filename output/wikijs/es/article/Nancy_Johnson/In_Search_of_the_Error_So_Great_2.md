@@ -10,7 +10,7 @@ dateCreated: 2023-02-07T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Nancy Johnson<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
 
-> _...Las formas no tienen valor cuando las lecciones se han aprendido. No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. <ins>Pero a veces el error es tan grande, que rectificarlo por medio de la revelación podría ser fatal para aquellas verdades que emergen lentamente y que son esenciales para destruir el error por medio de la experiencia.</ins>..._ (<a id="a12_331"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32))
+> _...Las formas no tienen valor cuando las lecciones se han aprendido. No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. <ins>Pero a veces el error es tan grande, que rectificarlo por medio de la revelación podría ser fatal para aquellas verdades que emergen lentamente y que son esenciales para destruir el error por medio de la experiencia.</ins>..._ (<a id="a12_331"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32))
 
 Sin duda, todos hemos prestado atención a esta provocadora declaración de un arcángel de Nebadón, y seguramente este arcángel pretendía despertar nuestra curiosidad y estimularnos a examinar nuestro entorno conceptual (nuestro sistema de creencias) para reconocer un error que está tan fuera de sincronía con verdadera realidad que no pudieron decirnos cuál era. ¿Qué verdad pudo haber tenido un impacto tan traumático en nosotros en ese momento? ¿Nos dieron alguna pista?
 
@@ -62,7 +62,7 @@ De modo que la personalidad la otorga Dios Padre, y puede ser material o espirit
 
 > La capacidad para recibir la personalidad divina es inherente al Ajustador prepersonal; la capacidad para recibir la personalidad humana existe <ins>en potencia</ins> en la dotación mental cósmica del ser humano. Pero la personalidad experiencial del hombre mortal <ins>no es observable como realidad activa y funcional</ins> hasta después de que el vehículo vital material de la criatura mortal ha sido tocado por la divinidad liberadora del Padre Universal, siendo lanzada así a los mares de la experiencia como una personalidad consciente de sí misma, capaz (relativamente) de determinarse y de crearse a sí misma. 
 > 
-> El yo material posee una personalidad y una identidad, una <ins>identidad temporal</ins>; el Ajustador espiritual prepersonal posee también una identidad, una identidad eterna. Esta personalidad material y esta prepersonalidad espiritual son capaces de unir sus atributos creadores como para traer a la existencia la <ins>identidad sobreviviente del alma inmortal</ins>. <a id="a87_963"></a>[LU 5:6.6-7](/en/The_Urantia_Book/5#p6_6)
+> El yo material posee una personalidad y una identidad, una <ins>identidad temporal</ins>; el Ajustador espiritual prepersonal posee también una identidad, una identidad eterna. Esta personalidad material y esta prepersonalidad espiritual son capaces de unir sus atributos creadores como para traer a la existencia la <ins>identidad sobreviviente del alma inmortal</ins>. <a id="a87_963"></a>[LU 5:6.6-7](/es/The_Urantia_Book/5#p6_6)
 
 La imagen-sombra tiempo-espacio llamada personalidad humana es posible gracias a la disposición de patrones de nuestras formas materiales. Pero no es observable como una realidad activa y funcional hasta que el Ajustador del Pensamiento y el alma están presentes. Además, muchas veces se nos dice que el otorgamiento de la personalidad es dominio exclusivo de Dios Padre, pero ¿delega Él el otorgamiento de la personalidad «sombra» al Actor Conjunto? Considere las implicaciones de la siguiente afirmación, que aparece sin explicación aparente en el Documento 112:
 
@@ -120,7 +120,7 @@ Siguiendo citando a un Mighty Messenger, las siguientes dos referencias del art�
 
 > _...Partiendo de allí hacia los reinos del tiempo y del espacio, dondequiera que esté presente una realidad espiritual divina, cada vez que actúe una verdadera mente-espíritu, siempre tiende a producirse una contrapartida material o física de esa realidad espiritual._
 > 
-> _El espíritu es la realidad creadora; la contrapartida física es el reflejo espacio-temporal de la realidad espiritual, la repercusión física de la acción creadora de la mente-espíritu._ <a id="a137_426"></a>[LU 42:12.13-14](/en/The_Urantia_Book/42#p12_6)
+> _El espíritu es la realidad creadora; la contrapartida física es el reflejo espacio-temporal de la realidad espiritual, la repercusión física de la acción creadora de la mente-espíritu._ <a id="a137_426"></a>[LU 42:12.13-14](/es/The_Urantia_Book/42#p12_6)
 
 Al menos tenemos un poco más de información sobre el origen del mecanismo de existencia de las criaturas. Las siguientes tres referencias explican las limitaciones de este mecanismo y algo sobre el control excesivo de Supremacía:
 

@@ -56,11 +56,11 @@ As a group of people who are enthusiastic and eager to change the world through 
 
 However, _our goal is not to count new members or_ _new associates._ Instead, our goal is to enthrone God in the hearts of all people, to quench the spiritual hunger and thirst of all those who seek to know God.
 
-> He [Jesus] early taught his followers that the kingdom of heaven was a spiritual experience having to do with the enthronement of God in the hearts of men. <a id="a58_158"></a>[[UB 137:7.12](/en/The_Urantia_Book/137#p7_12) 137:7.12]
+> He [Jesus] early taught his followers that the kingdom of heaven was a spiritual experience having to do with the enthronement of God in the hearts of men. <a id="a58_158"></a>[[UB 137:7.12](/en/The_Urantia_Book/137#p7_12)]
 
 If new discoverers of the revelation are enthusiastic about the teachings and want to join our organization to help enlarge the group of dedicated volunteers serving our Father, brotherhood, and revelation, they are more than welcome. And they are really needed. But our mission is truly reached when they find God.
 
-Our work and dedication, in my view, takes on a sense of urgency in the face of the troubling changes and clashes that are taking place in the world. We cannot be sure, but perhaps these ongoing changes may be those anticipated by the [Publication Mandate](https://urantia-association.org/publication-mandate/):
+Our work and dedication, in my view, takes on a sense of urgency in the face of the troubling changes and clashes that are taking place in the world. We cannot be sure, but perhaps these ongoing changes may be those anticipated by the [Publication Mandate](/en/article/The_Publication_Mandate):
 
 > The book belongs to the era immediately to follow the conclusion of the present ideological struggle. That will be the day when men will be willing to seek truth and righteousness. When the chaos of the present confusion has passed, it will be more readily possible to formulate the cosmos of a new and improved era of human relationships. **And it is for this better order of affairs on earth that the book has been made ready \[emphasis added\]**
 
@@ -74,7 +74,7 @@ To be ready, an important thing to accomplish in these turbulent times, is to ac
 
 Unity and harmony are two things people around the world have been unable to reach throughout the current ideological battles. In this scenario, the most effective way to reach a convergence of the ideas is through God; it is love and it is a place where we all can speak the same language and feel the same comfort. A place where we can feel as being ONE.
 
-> You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny. \[Paper 141:5.1, page 1591.6\]
+> You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny. [[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/carlos7.jpg">

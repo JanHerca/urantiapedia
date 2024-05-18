@@ -136,7 +136,7 @@ Vean el artículo de Marilynn Kulieke para más detalles.
 
 La Iniciativa de Educación se reunirá por segunda vez en junio de 2009. El comité planea grabar charlas con John Causland sobre astronomía y con Sheila Keene-Lund sobre consciencia cósmica y percepción espiritual. Las cintas grabadas estarán disponibles para su distribución. Hacia finales de 2009, la Iniciativa de Educación proporcionará un plan para la formación de instructores.
 
-La Junta votó de nuevo para expresar su confianza y aprecio a Dorothy Elder y el equipo de la UBIS. Gracias a una donación generosa, podemos mejorar las funciones de la web para la escuela de Internet. Para saber más sobre la escuela visiten [UBIS newsletter](https://www.urantia.org/education/urantia-book-internet-school-ubis-newsletter). Si están interesados en dar clases o en ayudar con la UBIS, contacten por favor con Dorothy Elder en [delder03@sprynet.com](mailto:delder03@sprynet.com)
+La Junta votó de nuevo para expresar su confianza y aprecio a Dorothy Elder y el equipo de la UBIS. Gracias a una donación generosa, podemos mejorar las funciones de la web para la escuela de Internet. Para saber más sobre la escuela visiten [LUIS newsletter](https://www.urantia.org/education/urantia-book-internet-school-ubis-newsletter). Si están interesados en dar clases o en ayudar con la UBIS, contacten por favor con Dorothy Elder en [delder03@sprynet.com](mailto:delder03@sprynet.com)
 
 ## 12. Próxima reunión:
 

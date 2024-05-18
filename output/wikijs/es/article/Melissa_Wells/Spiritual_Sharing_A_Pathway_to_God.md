@@ -101,7 +101,7 @@ Finalmente, deseo hablar de una de mis personas favoritas y su enfoque hacia el 
 
 > «_Jesús nunca tuvo prisa. Tenía tiempo para consolar a sus semejantes «al pasar». Y siempre hacía que sus amigos se sintieran a gusto. Era un oyente encantador. Nunca se dedicó a sondear entrometidamente las almas de sus asociados. Mientras consolaba las mentes hambrientas y ministraba a las almas sedientas, los destinatarios de su misericordia no sentían tanto que se estaban confesando con él sino que estaban consultando con él. Tenían una confianza ilimitada en él porque vieron que él tenía mucha fe en ellos.»
 
-> «_Distribuyó salud y esparció felicidad con naturalidad y gracia a medida que avanzaba por la vida. Era literalmente cierto: «anduvo haciendo el bien». Y corresponde a los seguidores del Maestro de todas las épocas aprender a ministrar mientras «pasan», a hacer el bien desinteresado mientras cumplen con sus deberes diarios._» (<a id="a126_307"></a>[LU 171:7.1-10](/en/The_Urantia_Book/171#p7_1))
+> «_Distribuyó salud y esparció felicidad con naturalidad y gracia a medida que avanzaba por la vida. Era literalmente cierto: «anduvo haciendo el bien». Y corresponde a los seguidores del Maestro de todas las épocas aprender a ministrar mientras «pasan», a hacer el bien desinteresado mientras cumplen con sus deberes diarios._» (<a id="a126_307"></a>[LU 171:7.1-10](/es/The_Urantia_Book/171#p7_1))
 
 Cuando se trata de compartir espiritualmente, recuerde: es muy simple; simplemente déjate llevar y deja que Dios.
 

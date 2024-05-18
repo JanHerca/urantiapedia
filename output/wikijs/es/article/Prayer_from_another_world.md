@@ -51,7 +51,7 @@ dateCreated: 2023-6-21T8:13:38Z
 > Y cuando termine nuestra carrera, haz de ella un honor para tu nombre,
 > Un placer para tu buen espíritu, y una satisfacción para los que ayudan a nuestra alma.
 > Que el bien eterno de tus hijos mortales no sea el que nosotros anhelamos, afectuoso Padre nuestro, sino el que tú deseas.
-> Que así sea. [UB 144:5.55-72](/en/The_Urantia_Book/144#p5_55)
+> Que así sea. [LU 144:5.55-72](/es/The_Urantia_Book/144#p5_55)
 
 ## Referencias
 

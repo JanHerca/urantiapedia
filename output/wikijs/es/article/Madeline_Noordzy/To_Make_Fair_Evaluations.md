@@ -45,7 +45,7 @@ En LU 114:7.13 un párrafo misterioso entre paréntesis
 
 En LU 55:3.11, _El Libro de URANTIA_ nos dice:
 
-> «_Cuando un mundo establecido progresa más allá de la tercera etapa de luz y de vida, todos los ascendentes están destinados a recibir, antes de llegar al sector menor, algún tipo de misión transitoria en un planeta que está pasando por las primeras etapas de la evolución._» <a id="a47_278"></a>[UB 55:3.11](/es/The_Urantia_Book/55#p3_11)
+> «_Cuando un mundo establecido progresa más allá de la tercera etapa de luz y de vida, todos los ascendentes están destinados a recibir, antes de llegar al sector menor, algún tipo de misión transitoria en un planeta que está pasando por las primeras etapas de la evolución._» <a id="a47_278"></a>[LU 55:3.11](/es/The_Urantia_Book/55#p3_11)
 
 Ahora me pregunto si este cuerpo de reserva cósmica son ascendentes de otros mundos que están en una «asignación transitoria» aquí en Urantia porque levantaron las manos cuando se necesitaron voluntarios para ayudar a avanzar este planeta atrasado durante este renacimiento del despertar espiritual. No serían «elegidos», se ofrecieron voluntariamente. ¡Hay una diferencia!
 

@@ -113,7 +113,7 @@ Jesús se basó en la herencia de las enseñanzas de Melquisedec cuando instruy�
 > <img src="/image/article/Study_Group_Herald/priest.jpg">
 > </figure>
 > 
-> In the Bible Melchizedek is mentioned in Hebrews, Genesis and Psalms, but there are also minor references scattered throughout the text. Some of these do not refer to Melchizedek by name, but rather to the “High Priest,” which scholars believe is attributed to Melchizedek. He is also called Zadokin many Davidic passages. [I Kings 1:18](/en/Bible/1_Kings/1#v18) says Zadok belongs to David. [I Chron. 5:11](/en/Bible/1_Chronicles/5#v11) says David called for Zadok.
+> In the Bible Melchizedek is mentioned in Hebrews, Genesis and Psalms, but there are also minor references scattered throughout the text. Some of these do not refer to Melchizedek by name, but rather to the “High Priest,” which scholars believe is attributed to Melchizedek. He is also called Zadokin many Davidic passages. [I Reyes 1:18](/es/Bible/1_Kings/1#v18) says Zadok belongs to David. [I Crón. 5:11](/es/Bible/1_Chronicles/5#v11) says David called for Zadok.
 
 ## Bibliography
 
@@ -123,7 +123,7 @@ Jesús se basó en la herencia de las enseñanzas de Melquisedec cuando instruy�
 - Sandmel, Samuel: _The Enjoyment of Scripture: The Law, The Prophets_. New York: Oxford University Press, 1972; pg. 53.
 - _The Urantia Book_. Chicago: Urantia Foundation, 1955; Paper 93. (For further reading consult Papers 94-98.)
 - Vriezen, Th. C.: _The Religion of Ancient Israel_. Philadelphia: Westminster Press, 1967; pg. 24, 109, 181.
-- Bible: [Gen. 14:18-20](/en/Bible/Genesis/14#v18); [Heb. 5:5-10](/en/Bible/Hebrews/5#v5); [Heb. 6:20](/en/Bible/Hebrews/6#v20); [Heb. 7:1-3, 17, 21](/en/Bible/Hebrews/7#v1); [Psalms 110:4](/en/Bible/Psalms/110#v4); [Psalms 76:2](/en/Bible/Psalms/76#v2).
+- Bible: [Gén. 14:18-20](/es/Bible/Genesis/14#v18); [Heb. 5:5-10](/es/Bible/Hebrews/5#v5); [Heb. 6:20](/es/Bible/Hebrews/6#v20); [Heb. 7:1-3, 17, 21](/es/Bible/Hebrews/7#v1); [Salmos 110:4](/es/Bible/Psalms/110#v4); [Salmos 76:2](/es/Bible/Psalms/76#v2).
 
 
 

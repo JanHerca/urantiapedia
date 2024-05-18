@@ -45,7 +45,7 @@ _De Marilynn Kulieke, Secretaria de la Fundación Urantia, Lincolnshire (Illinoi
 ## Esfuerzos educativos
 
 - El Comité de Educación está patrocinando una serie de seminarios en el 533 W Diversey Parwkay. El primer seminario se celebró en mayo de 2012 sobre el tema de la adoración y la sabiduría.
-- La Escuela de El libro de Urantia en Internet ([UBIS](https://new.ubis.urantia.org/) en inglés) ofreció una variedad de cursos en el trimestre de primavera. Los miembros de la junta están considerando tecnologías que den apoyo a la UBIS para dar servicio a un número mayor de alumnos.
+- La Escuela de El libro de Urantia en Internet ([LUIS](https://new.ubis.urantia.org/) en inglés) ofreció una variedad de cursos en el trimestre de primavera. Los miembros de la junta están considerando tecnologías que den apoyo a la UBIS para dar servicio a un número mayor de alumnos.
 - Se está investigando una versión para estudiar _El libro de Urantia_ en formato electrónico. Esta aplicación de libro de texto podría incluir referencias cruzadas, citas bíblicas y otros materiales relacionados. El Comité de Educación y Ralph Zehr revisarán las versiones para estudio actuales y proporcionarán una recomendación acerca de cómo avanzar en este proyecto. Gracias en especial a Ralph, por su presentación informativa sobre anotaciones y notas a pie de página.
 - El proyecto de «índice histórico», que comenzó antes de la publicación de _El libro de Urantia_, ha llegado finalmente a su conclusión. El trabajo de preparar el índice para su publicación está en marcha.
 

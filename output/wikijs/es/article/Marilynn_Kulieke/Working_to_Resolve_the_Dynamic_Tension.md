@@ -132,7 +132,7 @@ Sería útil en el estudio de la individualidad recordar:
 
 - Conceptos clave
 - ¿Cuáles son los componentes del yo? [LU 112:1.11](/es/The_Urantia_Book/112#p1_11)-[LU 112:2.14](/es/The_Urantia_Book/112#p2_14)
-- ¿Qué es la elección moral? [LU 111:4.12](/es/The_Urantia_Book/111#p4_12)-[LU 111:6.2](/es/The_Urantia_Book/111#p6_2), [LU 100:5.10](/es/The_Urantia_Book/100#p5_10), [LU 111:1.6](/es/The_Urantia_Book/111#p1_6), [LU 103:2.2](/es/The_Urantia_Book/103#p2_2), [LU 16:7.2](/es/The_Urantia_Book/16#p7_2), [LU 108:2.2](/es/The_Urantia_Book/108#p2_2), [UB 39:4.8](/en/The_Urantia_Book/39#p4_8)
+- ¿Qué es la elección moral? [LU 111:4.12](/es/The_Urantia_Book/111#p4_12)-[LU 111:6.2](/es/The_Urantia_Book/111#p6_2), [LU 100:5.10](/es/The_Urantia_Book/100#p5_10), [LU 111:1.6](/es/The_Urantia_Book/111#p1_6), [LU 103:2.2](/es/The_Urantia_Book/103#p2_2), [LU 16:7.2](/es/The_Urantia_Book/16#p7_2), [LU 108:2.2](/es/The_Urantia_Book/108#p2_2), [LU 39:4.8](/es/The_Urantia_Book/39#p4_8)
 - ¿Qué es el conflicto moral? [LU 111:4.12](/es/The_Urantia_Book/111#p4_12)-[LU 111:6.2](/es/The_Urantia_Book/111#p6_2), [LU 111:1.6](/es/The_Urantia_Book/111#p1_6), [LU 103:2.2](/es/The_Urantia_Book/103#p2_2)-[LU 103:5.3](/es/The_Urantia_Book/103#p5_3)
 - ¿Qué es el egoísmo y el altruismo? [LU 54:0.1](/es/The_Urantia_Book/54#p0_1), [LU 54:1.6](/es/The_Urantia_Book/54#p1_6), [LU 103:3.1](/es/The_Urantia_Book/103#p3_1)
 - ¿Qué herramientas podemos utilizar para afrontar el conflicto o la tensión moral? [LU 103:4.1](/es/The_Urantia_Book/103#p4_1), [LU 146:2.6](/es/The_Urantia_Book/146#p2_6), [LU 160:1.9](/es/The_Urantia_Book/160#p1_9), [LU 136:6.8](/es/The_Urantia_Book/136#p6_8), [LU 100:2.4](/es/The_Urantia_Book/100#p2_4), [LU 5:4.3](/es/The_Urantia_Book/5#p4_3)

@@ -795,7 +795,7 @@ Ha sido revelado hasta el día 7. Misión de Otorgamiento, así como en otras se
 > 
 > _El reino de Dios está en el corazón de los hombres; y cuando este reino se convierte en una realidad en el corazón de cada individuo de un mundo, entonces el reinado de Dios se ha vuelto real en ese planeta; y ésta es la soberanía conseguida del Ser Supremo._
 > 
-> La providencia se discierne cada vez más a medida que los hombres se elevan de lo material a lo espiritual. Alcanzar una completa perspicacia espiritual permite a la personalidad ascendente detectar armonía donde hasta entonces sólo había caos. Incluso la mota morontial representa un progreso real en esta dirección. [UB 118:10.15-19](/en/The_Urantia_Book/118#p10_15) 
+> La providencia se discierne cada vez más a medida que los hombres se elevan de lo material a lo espiritual. Alcanzar una completa perspicacia espiritual permite a la personalidad ascendente detectar armonía donde hasta entonces sólo había caos. Incluso la mota morontial representa un progreso real en esta dirección. [LU 118:10.15-19](/es/The_Urantia_Book/118#p10_15) 
 
 <figure id="Figure_12" class="image urantiapedia" alt="A TAPESTRY OF LOVING SERVICE">
 <img src="/image/article/606/spirit_of_love.jpg">

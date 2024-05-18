@@ -45,7 +45,7 @@ Los trágicos acontecimientos ocurridos recientemente en Christchurch ponen de r
 
 <br style="clear:both;"/>
 
-> _A lo largo de cada prueba y en presencia de cada dificultad, las almas nacidas del espíritu están sostenidas por esa esperanza que trasciende todo temor, porque el amor de Dios se derrama en todos los corazones a través de la presencia del Espíritu divino._ [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
+> _A lo largo de cada prueba y en presencia de cada dificultad, las almas nacidas del espíritu están sostenidas por esa esperanza que trasciende todo temor, porque el amor de Dios se derrama en todos los corazones a través de la presencia del Espíritu divino._ [[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
 > 
 > _La cultura moderna debe bautizarse espiritualmente con una nueva revelación de la vida de Jesús, e iluminarse con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado así, atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían de ser más que conquistadores, e incluso fuentes desbordantes de inspiración y de vida realzada para todos los hombres. La religión no es más que un humanismo elevado hasta que se hace divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal._ <a id="a49_566"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 

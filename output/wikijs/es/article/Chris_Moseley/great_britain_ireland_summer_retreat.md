@@ -29,7 +29,7 @@ Teléfono 01992 463016     Correo electrónico [highleigh@cct.org.uk](mailto
 
 Vengan y exploren con nosotros las posibilidades de esta escurridiza contrapartida filosófica humana de la mota en estos tiempos de incertidumbre económica y financiera.
 
-> Pocos mortales se atreven nunca a sumar los activos de su personalidad dispensados por el ministerio combinado de la naturaleza y de la gracia. La mayoría de las almas empobrecidas son verdaderamente ricas, pero se niegan a creerlo. <a id="a56_219"></a>[[UB 48:7.6](/es/The_Urantia_Book/48#p7_6)]
+> Pocos mortales se atreven nunca a sumar los activos de su personalidad dispensados por el ministerio combinado de la naturaleza y de la gracia. La mayoría de las almas empobrecidas son verdaderamente ricas, pero se niegan a creerlo. <a id="a56_219"></a>[[LU 48:7.6](/es/The_Urantia_Book/48#p7_6)]
 
 ### Programa
 

@@ -93,7 +93,7 @@ Entonces, nuestra relación más importante es con el fragmento divino, y nuestr
 
 Como Hijos de la Fe, nuestras reacciones de fe hacia el fragmento del Padre determinan el contenido de nuestra experiencia de supervivencia y la profundidad de la traducción de nuestra alma en el nivel morontial intermedio.
 
-La fe existe en muchos niveles. «Pocas personas viven a la altura de la fe que realmente tienen» ([UB 48:7.4](/en/The_Urantia_Book/48#p7_4)), y la fe, siendo nuestra conexión de supervivencia, debe funcionar en los niveles elementales de la Supremacía misma.
+La fe existe en muchos niveles. «Pocas personas viven a la altura de la fe que realmente tienen» ([LU 48:7.4](/es/The_Urantia_Book/48#p7_4)), y la fe, siendo nuestra conexión de supervivencia, debe funcionar en los niveles elementales de la Supremacía misma.
 
 La fe es una decisión humana y un don divino, accesible y reconocible. La influencia del Hijo Eterno en la Actualidad es una influencia de gravedad espiritual, que atrae toda fe y todo deseo de fe a la luz de la Actualidad. La fe no puede permanecer en la mente; viaja directamente al corazón de toda realidad, afectando el desarrollo de nuestra alma y la soberanía del Supremo. Es el combustible humano para el potencial de Dios, simulando la presencia de Dios en cada nivel de nuestro ser.
 

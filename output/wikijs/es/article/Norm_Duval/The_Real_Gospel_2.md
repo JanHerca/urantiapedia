@@ -48,7 +48,7 @@ El Nuevo Testamento dice que Jesús y los apóstoles iban de ciudad en ciudad pr
 
 «Y Jesús recorría todas las ciudades y aldeas, enseñando en sus sinagogas, y predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia en el pueblo». [Mateo 9:35](/es/Bible/Matthew/9#v35)
 
-«Y aconteció...que Jesús recorría todas las ciudades y aldeas, predicando y anunciando las buenas nuevas del reino de Dios; y los doce estaban con él...» [Lucas 8:1](/en/Bible/Luke/8#v1) (Véase también [Mateo 4:23](/es/Bible/Matthew/4#v23), [Marcos 1:14](/es/Bible/Mark/1#v14) y [Lucas 4:43](/es/Bible/Luke/4#v43).)
+«Y aconteció...que Jesús recorría todas las ciudades y aldeas, predicando y anunciando las buenas nuevas del reino de Dios; y los doce estaban con él...» [Lucas 8:1](/es/Bible/Luke/8#v1) (Véase también [Mateo 4:23](/es/Bible/Matthew/4#v23), [Marcos 1:14](/es/Bible/Mark/1#v14) y [Lucas 4:43](/es/Bible/Luke/4#v43).)
 
 De estos versículos podemos decir que el evangelio fue algo que Jesús realmente predicó y enseñó. Así, se responde a la pregunta de dónde viene el evangelio. Viene de Jesús.
 

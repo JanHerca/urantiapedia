@@ -73,7 +73,9 @@ Sharing the hosting responsibilities with different members of your group can in
 
 Be practical in your group by making sure the topic you study has real life values supported by the participants’ experiences of life. Nothing compares to the sharing of real-life experiences to enhance what we are studying; it truly opens the mind to new meanings and values.
 
-These are a few goals study groups can achieve if we want to make them more effective. If you want to learn more at how to improve your study group, I recently presented via a webinar on the effectiveness of study groups. You can view it at Urantia Association’s YouTube channel at: [https://www.youtube.com/watch?v=xLCKFD7kluw](https://www.youtube.com/watch?v=xLCKFD7kluw)
+These are a few goals study groups can achieve if we want to make them more effective. If you want to learn more at how to improve your study group, I recently presented via a webinar on the effectiveness of study groups. You can view it at Urantia Association’s YouTube channel at: 
+
+https://www.youtube.com/watch?v=xLCKFD7kluw
 
 It is very important to have effective study groups if we want to share in the task of elevating our planet spiritually while we participate in the mission of _The Urantia Book_.
 

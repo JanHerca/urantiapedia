@@ -20,7 +20,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _El libro de Urantia_ nos dice que:
 
-> _El servicio — el servicio resuelto, no la esclavitud — produce la satisfacción más elevada y expresa la dignidad más divina. El servicio — más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto — es la meta del tiempo y el destino del espacio._ <a id="a45_174"></a>[[UB 28:6.17](/es/The_Urantia_Book/28#p6_17)] 
+> _El servicio — el servicio resuelto, no la esclavitud — produce la satisfacción más elevada y expresa la dignidad más divina. El servicio — más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto — es la meta del tiempo y el destino del espacio._ <a id="a45_174"></a>[[LU 28:6.17](/es/The_Urantia_Book/28#p6_17)] 
 
 Todo eso está muy bien y es genial, pero tengo un enjambre de avispas que se ha metido en las paredes de mi casa y están volando en masa por el despacho.  
 
