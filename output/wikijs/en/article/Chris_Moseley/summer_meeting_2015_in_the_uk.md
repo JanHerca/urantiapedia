@@ -24,8 +24,8 @@ dateCreated: 2023-9-16T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Line_St_Pierre/womens_retreat">
-          <span class="pr-2">Women’s Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/IUA_Tidings/IUA_2015_italian_urantia_meeting">
+          <span class="pr-2">Italian Urantia Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -81,8 +81,8 @@ Chris Moseley: [chrismoseley50@yahoo.com
         </a>
         </td>
         <td>
-        <a href="/en/article/Line_St_Pierre/womens_retreat">
-          <span class="pr-2">Women’s Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/IUA_Tidings/IUA_2015_italian_urantia_meeting">
+          <span class="pr-2">Italian Urantia Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

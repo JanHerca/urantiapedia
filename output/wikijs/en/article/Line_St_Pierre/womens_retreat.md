@@ -14,8 +14,8 @@ dateCreated: 2023-9-16T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Chris_Moseley/summer_meeting_2015_in_the_uk">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Meeting 2015 in the UK</span>
+        <a href="/en/article/IUA_Tidings/IUA_2015_italian_urantia_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Italian Urantia Meeting</span>
         </a>
         </td>
         <td>
@@ -66,8 +66,8 @@ If you wish to join us, please contact Line St-Pierre [line.stpierre@gmail.com](
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Chris_Moseley/summer_meeting_2015_in_the_uk">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Meeting 2015 in the UK</span>
+        <a href="/en/article/IUA_Tidings/IUA_2015_italian_urantia_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Italian Urantia Meeting</span>
         </a>
         </td>
         <td>
