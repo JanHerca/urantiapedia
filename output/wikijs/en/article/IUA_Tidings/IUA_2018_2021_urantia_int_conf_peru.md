@@ -46,7 +46,8 @@ For those interested in pre- and/or post-conference activities, the trains that 
 
 If you always wanted to go to Peru, then 2021 is the year to do it! This is a conference that should not be missed.
 
-[Click here](https://www.youtube.com/watch?v=FCs6JRW3R1g&list=PLQYC6XW8Ev1cPJ3zR3UYAdLK1xW1SNuDj) for video tour
+https://www.youtube.com/watch?v=FCs6JRW3R1g&list=PLQYC6XW8Ev1cPJ3zR3UYAdLK1xW1SNuDj
+
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

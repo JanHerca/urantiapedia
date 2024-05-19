@@ -46,7 +46,9 @@ Over the years, Carolyn served in numerous positions of the former Urantia Broth
 
 Carolyn was a valuable source of information on the history of the early days of the book and Urantia movement. Being the youngest member of the Forum, she has been able to share—right up to recent times with the current generation of readers—her firsthand knowledge of people and events of those early years.
 
-Carolyn recorded a presentation on the history of the Publication Mandate for Urantia Association’s 2014 Study Group Symposium. It can be viewed on the Association’s YouTube channel at: [https://www.youtube.com/watch?v=Z\_XJ7-0In8E](https://www.youtube.com/watch?v=Z_XJ7-0In8E)
+Carolyn recorded a presentation on the history of the Publication Mandate for Urantia Association’s 2014 Study Group Symposium. It can be viewed on the Association’s YouTube channel at: 
+
+https://www.youtube.com/watch?v=Z_XJ7-0In8E
 
 Carolyn will be greatly missed by her friends and family. We wish her God’s speed and look forward to meeting again on the mansion worlds.
 

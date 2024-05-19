@@ -60,7 +60,6 @@ UUI’s [Self-Directed Study](https://urantiauniversity.org/sys/website/?pageId=
 <img src="/image/article/IUA_Tidings/UUI-2.jpg">
 </figure>
 
-![](https://urantia-association.org/wp-content/uploads/2020/12/UUI-2.jpg)
 
 ## References
 

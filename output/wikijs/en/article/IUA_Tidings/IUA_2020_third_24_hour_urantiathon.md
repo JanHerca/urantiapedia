@@ -50,7 +50,9 @@ Urantia Association hosted the event, which was another in the series of coordin
 
 The event was interactive in Zoom and was also live streamed to Facebook. There was plenty of opportunity for questions and discussion at the end of each presentation. Each presentation was recorded and will be uploaded to the Association’s YouTube channel as separate videos once editing has been completed.  
 
-To view these videos, go our YouTube channel at: [https://www.youtube.com/c/UrantiaAssociationInternational/playlists](https://www.youtube.com/c/UrantiaAssociationInternational/playlists) and click on the Playlist with the title of this most recent event. 
+To view these videos, go our YouTube channel at and click on the Playlist with the title of this most recent event: 
+
+https://www.youtube.com/c/UrantiaAssociationInternational/playlists
 
 The Facebook recordings are also available on our Facebook page in the videos section at: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/)
 
