@@ -1,5 +1,5 @@
 ---
-title: "Video Part 4D: Ancient Orvonton, and a Young Cosmic Web"
+title: "The Jesus Museum and The Jesus Metaverse"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
@@ -56,7 +56,7 @@ Imagine how wonderful it will be for anyone and everyone around the world to exp
 
 We will initially target young Christians in the West. Many yearn for a personal relationship with God but do not find that in their institutionalized religions. In time, we will expand the reach to a wider audience.
 
-The Center for Unity is a new, non-profit organization established by Urantia Book students to develop these projects. The name is inspired by the religion _of_ Jesus, which _“is the most powerful unifying influence the world has ever known”_ (194:3.17).
+The Center for Unity is a new, non-profit organization established by Urantia Book students to develop these projects. The name is inspired by the religion _of_ Jesus, which _“is the most powerful unifying influence the world has ever known”_ ([UB 194:3.17](/en/The_Urantia_Book/194#p3_17)).
 
 For more information watch our introduction videos ([overview](https://bit.ly/CFU-Intro_Video-EN) and an [in-depth presentation of the Jesus Metaverse](https://bit.ly/CFU-Intro-to-JM)), download our [information package](https://bit.ly/CFU-deck-combined-public), or write to us at [contact@thecenterforunity.org](mailto:contact@thecenterforunity.org).
 

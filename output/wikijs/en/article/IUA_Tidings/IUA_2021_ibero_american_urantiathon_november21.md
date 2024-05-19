@@ -1,5 +1,5 @@
 ---
-title: "President’s Message – December 2021"
+title: "Reflections: Ibero-American Urantiathon – November 2021"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
@@ -178,8 +178,9 @@ Since there is nothing like an “official” interpretation of the book, it fol
 
 Very few really have a lasting commitment to spreading the book’s teachings and building a robust Urantia community. Moreover, as Jesus said, “the harvest is abundant, and the workers few.” But we must remember that “with God, all things are possible.” Let’s not forget that ultimately, it’s about making God known to all those who are confused, depressed, or scared. And who is not able to help the one who needs it?
 
-**Moses, the Leader. Teachings About Humanism and Spiritual Union.  
-**By Gerardo Leche (Guatemala)
+### Moses, the Leader. Teachings About Humanism and Spiritual Union.
+
+By Gerardo Leche (Guatemala)
 
 The geographical location is Egypt in the eleventh century BC, on an Earth and in an epoch of moral and ethical principles, but unfortunately without spiritual identity. In the past, the teachers Amenemope, Okhban, and Ikhnaton emerged, both striving to present the light of Deity and monotheism. Then came Moses, son of a royal family of Egypt and the best of the Semites, who stood out as a military leader, religious teacher, and social organizer. Moses identified himself with the principles and teachings of Machiventa Melchizedek through the education he received from his parents. This prepared him to draft a diplomatic and actionable plan.
 

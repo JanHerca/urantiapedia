@@ -48,7 +48,9 @@ Simultaneous translations for English, Spanish, and Portuguese were provided dur
 
 If you were unable to attend, missed anything, or simply wish to revisit a presentation, you can view the recordings in the video section of our Facebook page at: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/) 
 
-Also, the presentations will eventually be available on our YouTube channel. Keep checking in at: [https://www.youtube.com/c/UrantiaAssociationInternational/playlists](https://www.youtube.com/c/UrantiaAssociationInternational/playlists) and click on the relevant Playlist.
+Also, the presentations will eventually be available on our YouTube channel. Keep checking in at and click on the relevant Playlist.
+
+https://www.youtube.com/c/UrantiaAssociationInternational/playlists
 
 ## References
 

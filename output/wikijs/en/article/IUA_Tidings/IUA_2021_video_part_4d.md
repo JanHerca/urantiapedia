@@ -59,7 +59,9 @@ Recall that the “apparent speed of recession” of distant galaxies forms the 
 
 Which opens the door to an opportunity for students of _The Urantia Book_ to present a model of the cosmos that can explain all the data and anomalies that (increasingly) confuse and contradict current mainstream assumptions. One attempt at sketching such a model can be found at this link:
 
-[Playlist – Urantia Book Cosmology](https://www.youtube.com/playlist?list=PLujf81__tQbQ_tAoVrvr6xOPm4XkZUStU)
+Playlist – Urantia Book Cosmology
+
+https://www.youtube.com/playlist?list=PLujf81__tQbQ_tAoVrvr6xOPm4XkZUStU
 
 Regarding the final video in that series (Part 4D), the _James Webb Space Telescope_ is to be launched this week (Christmas 2021). Given what this infrared-optimized space telescope might reveal, video Part 4D was tuned to predict a few simple but game-changing facts about our home spiral of stars, the ancient Milky Way. Stay tuned!
 

@@ -45,7 +45,9 @@ One of the exciting additions recently added to our Zoom meetings is the ability
 
 If you were unable to attend, missed anything, or simply wish to revisit a presentation, you can view the recordings in the video section of our Facebook page at: [https://www.facebook.com/urantia.association/videos/](https://www.facebook.com/urantia.association/videos/)  
 
-Also, the presentations are gradually being uploaded to our YouTube channel. (If they are not all there yet please be patient as it takes a lot of editing work by a volunteer to break them up into the 1-hour segments.) Go to: [https://www.youtube.com/c/UrantiaAssociationInternational/playlists](https://www.youtube.com/c/UrantiaAssociationInternational/playlists) and click on the Playlist with the title “24-Hour Urantiathon—Faith, Joy, & Peace.” 
+Also, the presentations are gradually being uploaded to our YouTube channel. (If they are not all there yet please be patient as it takes a lot of editing work by a volunteer to break them up into the 1-hour segments.) Go to and click on the Playlist with the title “24-Hour Urantiathon—Faith, Joy, & Peace.” 
+
+https://www.youtube.com/c/UrantiaAssociationInternational/playlists
 
 Thank you again to all of those loyal and industrious volunteers who worked in front of, and behind, the scenes to make this event happen.
 <br style="clear:both;"/>
@@ -54,7 +56,7 @@ Thank you again to all of those loyal and industrious volunteers who worked in f
 
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2021/)
-- [This article](https://urantia-association.org/presidents-message-march-2020-2)
+- [This article](https://urantia-association.org/fourth-24-hour-urantiathon/)
 
 <figure class="table chapter-navigator">
   <table>

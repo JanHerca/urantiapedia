@@ -47,7 +47,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Oak Brook Hills Resort and Conference Center 3500 Midwest Rd, Oak Brook, Illinois (near Chicago)
 
-The Urantia Book Fellowship’s Education Committee is pleased to announce the upcoming Summer Study Session (SSS) 2022 to be held at the beautiful Oak Brook Hills Resort and Conference Center. At long last, we will be gathering with our Urantia family in-person again to learn about “one of the most unique of all characters ever to become connected with the history of Urantia.” \[Paper 93:10.11, page 1026.1\]
+The Urantia Book Fellowship’s Education Committee is pleased to announce the upcoming Summer Study Session (SSS) 2022 to be held at the beautiful Oak Brook Hills Resort and Conference Center. At long last, we will be gathering with our Urantia family in-person again to learn about “one of the most unique of all characters ever to become connected with the history of Urantia.” [[UB 93:10.11](/en/The_Urantia_Book/93#p10_11)]
 
 It was 4,000 years ago that Machiventa Melchizedek heroically “personalized” on earth; at a perilous time when revealed truth was on the brink of extinction.
 
