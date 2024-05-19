@@ -102,7 +102,9 @@ If you want to read more about this beautiful lesson, please go to: [https://sit
 
 Future Workshop sessions will be presented throughout the rest of November and December by Chris Wood, on the theme _“A Life of Service,”_ (November 25<sup>th,</sup> 2017) and Guy Perron who will continue presenting his course on _“The Inner Life”_ (December 2<sup>nd</sup> and 9<sup>th</sup> 2017.)
 
-If you would like to view the Workshop videos, please visit the Urantia Association International’s YouTube Channel: [https://www.youtube.com/channel/UC\_a2gwYGKpctnii4\_nx8\_vA](https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA)
+If you would like to view the Workshop videos, please visit the Urantia Association International’s YouTube Channel:
+
+https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA
 
 ## References
 
