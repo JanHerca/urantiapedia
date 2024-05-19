@@ -64,7 +64,9 @@ I would also like to give a special thanks to:
 
 This was a real wonderful team effort and without the involvement of all these dedicated and conscientious volunteers, we would not have been able to provide such a value-packed set of workshops. God bless you all.
 
-To view YouTube recordings go to: [https://www.youtube.com/channel/UC\_a2gwYGKpctnii4\_nx8\_vA](https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA)
+To view YouTube recordings go to: 
+
+https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA
 
 Jeannie Vasquez  
 Education Chair  

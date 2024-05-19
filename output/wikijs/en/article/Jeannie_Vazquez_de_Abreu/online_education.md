@@ -56,7 +56,13 @@ The narrator goes on to say:
 
 So, to share our views and personal experiences with divine truth is positive and instructive for others. In this way, we inspire our fellows to live the teachings, motivate them to grow in spirit, and disseminate the revelation. 
 
-To see the videos of past webinars and workshops, please visit the website at: [https://www.youtube.com/c/UrantiaAssociationInternational](https://www.youtube.com/c/UrantiaAssociationInternational) and [https://www.youtube.com/c/UrantiaAsociaciónInternacional](https://www.youtube.com/c/UrantiaAsociaci%C3%B3nInternacional)
+To see the videos of past webinars and workshops, please visit the website at: [
+
+https://www.youtube.com/c/UrantiaAssociationInternational
+
+and
+
+https://www.youtube.com/c/UrantiaAsociaci%C3%B3nInternacional
 
 Our Education Committee is always open to earnest Urantia Book students who want to share their studies and reflections about the teachings. Please don’t hesitate to contact us at: [education@urantia-association.org](mailto:education@urantia-association.org).
 

@@ -68,7 +68,9 @@ To improve effectiveness in your study group, Gaetan offered the following sugge
 - Nurture potential leaders and teachers in your groups by sharing responsibilities.
 - Make your study group more dynamic by changing the format.
 
-You can view this instructive presentation on the Association’s YouTube channel at: [https://youtu.be/xLCKFD7kluw](https://youtu.be/xLCKFD7kluw)
+You can view this instructive presentation on the Association’s YouTube channel at:
+
+https://youtu.be/xLCKFD7kluw
 
 <figure id="Figure_23" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Webinar-Announcement-Benet-Rutenberg-300x180.jpg">
@@ -84,7 +86,9 @@ Benet was inspired to make this presentation through two avenues of development 
 > 
 > _When and as we live and work in partnership with God, the will of God brings forth what is needed. As a boat moves through the water, so we will move through time and into eternity. In the wake of progress, it is the strong, powerful and persistent decisions that bring us to a place where we all are united in spirit even as we work through diverse means towards the exact same ends. In the wake of faith union with the living Jesus will be found spiritual unity and all else our united wills require._
 
-You can see the Benet’s presentation on the Association’s YouTube channel at: [https://youtu.be/zerUMpo1vTI](https://youtu.be/zerUMpo1vTI)
+You can see the Benet’s presentation on the Association’s YouTube channel at:
+
+https://youtu.be/zerUMpo1vTI
 
 In addition, our Urantia Association Education Committee organized a Spanish Online Workshop series, with 13 sessions, about “Leadership and Teaching According to _The Urantia Book_ Teachings.” This series was sponsored by the Urantia Association of Brazil. Some themes presented in this workshop series were:
 

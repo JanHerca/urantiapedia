@@ -37,7 +37,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Bolivia-Book-Fair-2017-3.jpg-640x480-300x225.jpg">
 </figure>
 
-Two students of _T__he Urantia Book_ in Santa Cruz decided to present the book at the 18th International Book Fair of Santa Cruz (FIL) that was held over 12 days from 31 May to 11 June, 2017.  
+Two students of _The Urantia Book_ in Santa Cruz decided to present the book at the 18th International Book Fair of Santa Cruz (FIL) that was held over 12 days from 31 May to 11 June, 2017.  
 
 Long before the book fair, we applied for a booth, only to discover our first obstacle: that all exhibition spaces were fully booked out. We were told we may get a booth if someone cancelled and were added on a waiting list with 15 other people. This was daunting at first, but we felt confident we would get a place—after all we were working for the Father! And so we did; after a while we received a call from the organizers telling us that there was a space. We gave confirmation even before we had the money to pay for it, which was due in 5 days. But the money also appeared! We paid and started preparing banners, flyers and spiritual vitamins.  
 

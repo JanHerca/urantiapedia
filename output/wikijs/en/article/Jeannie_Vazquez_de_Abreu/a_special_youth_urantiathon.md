@@ -74,7 +74,9 @@ If in our life there is no lasting peace – and this does not mean that nothing
 
 **The YaYAs section offered a workshop titled “Spiritual Growth Conversations”** and was facilitated by Aprilhelen (USA), Oluwatooni “Toni” Oyeyemi (Switzerland), and Juan Jaramillo (Canada). The workshop consisted of shared prayers, singing, communion, and reflections about the themes presented during the Urantiathon. The audience was divided by language in breakout rooms. In this way, the participants had more personal conversations in smaller groups and engaged in discussions about spiritual growth.
 
-To see the Youth Urantiathon videos, please access the Urantia Association YouTube Channel Playlist: [https://www.youtube.com/playlist](https://www.youtube.com/playlist?list=PLQYC6XW8Ev1eCO_uv4cNEShaXDaSyVqw8)
+To see the Youth Urantiathon videos, please access the Urantia Association YouTube Channel Playlist: 
+
+https://www.youtube.com/playlist?list=PLQYC6XW8Ev1eCO_uv4cNEShaXDaSyVqw8
 
 ## References
 

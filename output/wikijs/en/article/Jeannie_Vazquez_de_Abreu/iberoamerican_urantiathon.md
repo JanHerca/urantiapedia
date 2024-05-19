@@ -50,7 +50,10 @@ Hundreds of readers around the world enjoyed the presentations thanks to the ser
 
 The event’s closing had a jam session with the Mexican musician Ramiro Jarkyn, a long-term student of _The Urantia Book_, who played guitar and sang Latin-American songs. It was an amusing and fraternal occasion! 
 
-The event took place via Zoom and was live-streamed to Facebook. You can see the video recordings here: [https://www.youtube.com/playlist?list=PLYsuKvvHWuuYVTw5GbKvP4sS\_bbyIrCBn](https://www.youtube.com/playlist?list=PLYsuKvvHWuuYVTw5GbKvP4sS_bbyIrCBn) 
+The event took place via Zoom and was live-streamed to Facebook. You can see the video recordings here: 
+
+https://www.youtube.com/playlist?list=PLYsuKvvHWuuYVTw5GbKvP4sS_bbyIrCBn
+
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
