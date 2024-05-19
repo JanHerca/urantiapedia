@@ -258,6 +258,8 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 
 Wrong | Right
 --- | ---
+  $|
+ | 
  | 
 «  |« 
   »| »

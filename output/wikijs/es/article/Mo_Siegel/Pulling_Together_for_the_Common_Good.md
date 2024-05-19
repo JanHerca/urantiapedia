@@ -42,11 +42,11 @@ Ahí estaban, ocho mujeres remando como equipo. Qué imagen tan magnífica, pers
 
 Edwin Marham lo dijo de manera bella en su poema «Los zapatos de la felicidad»:
 
-> _Él dibujó un círculo y me dejó fuera  
-> como herético, rebelde,  
-> algo que despreciar. Pero el amor  
-> y yo nos las ingeniamos para ganar:  
-> Dibujamos un círculo  
+> _Él dibujó un círculo y me dejó fuera
+> como herético, rebelde,
+> algo que despreciar. Pero el amor
+> y yo nos las ingeniamos para ganar:
+> Dibujamos un círculo
 > que le dejó dentro._
 
 Ya sea un lector independiente o apoye a una organización Urantia, estamos juntos en este barco. Individualmente, estamos siguiendo la voz de una nueva revelación y confiando en nuestra alma para esas verdades más altas. Ahora necesitamos remar juntos como equipo y crear bondad mucho más allá del poder de los actos individuales. Es el momento de ganar la medalla de oro como equipo Urantia.

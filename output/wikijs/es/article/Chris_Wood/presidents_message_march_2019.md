@@ -27,7 +27,7 @@ A mí me funciona. La veo como una reformulación de «La paternidad de Dios y l
 
 En esencia, la paternidad de Dios y la hermandad del hombre. Pero Jesús añade una enseñanza más a esta frase. Él dice que estos dos grandes privilegios expresan un solo deber supremo. _Adoración_ y _servicio_ son dos expresiones de la misma motivación. _Adoración_ y _servicio_ son las dos formas en las que intentamos cumplir el mandato supremo: «Sed perfectos como yo soy perfecto».
 
-La asociación está en el ecuador de un estudio de tres años del tema «Vivir las enseñanzas». En Tallin (Estonia) en julio de 2019 habrá una conferencia dedicada al estudio de este deber supremo y sus dos expresiones: «crecimiento cualitativo e internacional, y crecimiento cuantitativo y externo». Espero que puedan venir conmigo a Tallin para explorar juntos estos temas.
+La asociación está en el ecuador de un estudio de tres años del tema «Vivir las enseñanzas». En Tallin (Estonia) en julio de 2019 habrá una conferencia dedicada al estudio de este deber supremo y sus dos expresiones: «crecimiento cualitativo e internacional, y crecimiento cuantitativo y externo». Espero que puedan venir conmigo a Tallin para explorar juntos estos temas.
 
 En servicio.
 Chris Wood

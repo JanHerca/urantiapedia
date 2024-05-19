@@ -49,7 +49,7 @@ El comité de recaudación de fondos describió sus planes para lanzar el «Puen
 
 ## 2. Traducciones, revisiones y los ficheros dorados
 
-A. El fideicomisario y responsable de Traducciones, Georges Michelson-Dupont, informó de los progresos de cada traducción y revisión en curso. Aunque una traducción o revisión puede necesitar una década o dos para completarse, en el futuro próximo la inmensa mayoría de la población de la Tierra tendrá la posibilidad de leer _El libro de Urantia_ en su lengua materna. ¡Tenemos la gran suerte de contar con el servicio de todos los traductores y revisores! Estamos especialmente agradecidos a Georges por dedicar voluntariamente su tiempo y sus recursos,  y por coordinar esta noble empresa. Nuestro agradecimiento especial a Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, Henk Mylanus y Tamara Strumfeld por su excelente trabajo en el comité de Traducciones.
+A. El fideicomisario y responsable de Traducciones, Georges Michelson-Dupont, informó de los progresos de cada traducción y revisión en curso. Aunque una traducción o revisión puede necesitar una década o dos para completarse, en el futuro próximo la inmensa mayoría de la población de la Tierra tendrá la posibilidad de leer _El libro de Urantia_ en su lengua materna. ¡Tenemos la gran suerte de contar con el servicio de todos los traductores y revisores! Estamos especialmente agradecidos a Georges por dedicar voluntariamente su tiempo y sus recursos,  y por coordinar esta noble empresa. Nuestro agradecimiento especial a Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, Henk Mylanus y Tamara Strumfeld por su excelente trabajo en el comité de Traducciones.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_06/009.jpg">
@@ -69,7 +69,7 @@ La mayoría de traducciones y revisiones requieren decenas de miles de horas par
 
 ## 3. Educación
 
-Georges Michelson-Dupont y Ralph Zehr informaron de que el interés y la asistencia a las clases de la Escuela de El libro de Urantia en Internet (UBIS en inglés) han subido como la espuma.  Hasta la fecha, más de 1.050 alumnos han tomado clases desde el origen de la UBIS. Los asistentes proceden de más de 176 países de cinco continentes. Las clases se ofrecen en inglés, español y francés, y pronto en portugués.
+Georges Michelson-Dupont y Ralph Zehr informaron de que el interés y la asistencia a las clases de la Escuela de El libro de Urantia en Internet (UBIS en inglés) han subido como la espuma.  Hasta la fecha, más de 1.050 alumnos han tomado clases desde el origen de la UBIS. Los asistentes proceden de más de 176 países de cinco continentes. Las clases se ofrecen en inglés, español y francés, y pronto en portugués.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_06/008.jpg">
@@ -106,11 +106,11 @@ Richard Jernigan presentó una guía de estilo que la Fundación Urantia usará 
 
 ## 7. El sello de impresión: Urantia Press
 
-La junta votó a favor de establecer el primer sello de impresión de la Fundación  Urantia. Los sellos de impresión son herramientas que usan las organizaciones para distinguir materiales publicados de manera especial de sus publicaciones habituales. En este caso, libros futuros, vídeos y audios se publicarán bajo un sello de impresión, no bajo el nombre de la Fundación Urantia.
+La junta votó a favor de establecer el primer sello de impresión de la Fundación  Urantia. Los sellos de impresión son herramientas que usan las organizaciones para distinguir materiales publicados de manera especial de sus publicaciones habituales. En este caso, libros futuros, vídeos y audios se publicarán bajo un sello de impresión, no bajo el nombre de la Fundación Urantia.
 
-La junta votó a favor de imprimir tarjetas de tamaño grande con fines de asistencia bajo el  sello de impresión Urantia Press. El primer conjunto de postales estuvo disponible en las ferias de libros a las que se asistió recientemente.
+La junta votó a favor de imprimir tarjetas de tamaño grande con fines de asistencia bajo el  sello de impresión Urantia Press. El primer conjunto de postales estuvo disponible en las ferias de libros a las que se asistió recientemente.
 
-## 8. Plan organizativo y financiero  a cinco años
+## 8. Plan organizativo y financiero  a cinco años
 
 La junta aprobó el desarrollo de un plan organizativo y financiero de la Fundación a cinco años. Con la ayuda de un recurso ejecutivo externo, estableceremos metas a cinco años y planes sobre quién hará qué, cuándo y a qué coste. Este proceso de planificación será bastante extenso y muy necesario. Cuando termine, el plan responderá también a preguntas importantes del personal.
 

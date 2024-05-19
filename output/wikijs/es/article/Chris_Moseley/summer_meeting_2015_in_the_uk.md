@@ -30,11 +30,11 @@ Vengan y únanse a nosotros en esta celebración tan especial del cumpleaños de
 
 La costa sur de Gales, con sus atractivas playas y sus pequeñas aldeas, está muy cerca y el lugar ofrece un entorno muy agradable para celebrar el otorgamiento de Jesús en nuestro planeta.
 
-No es demasiado tarde para unirse a nosotros. Para reservar alojamiento, contacten directamente con el lugar de la reunión a través de su sitio web en  [www.tyncellarfarm.co.uk](http://www.tyncellarfarm.co.uk/).
+No es demasiado tarde para unirse a nosotros. Para reservar alojamiento, contacten directamente con el lugar de la reunión a través de su sitio web en  [www.tyncellarfarm.co.uk](http://www.tyncellarfarm.co.uk/).
 
 Para obtener más información, envíen un correo a una de estas dos direcciones:
 
-Chris Moseley: [chrismoseley50@yahoo.com  
+Chris Moseley: [chrismoseley50@yahoo.com
 ](mailto:chrismoseley50@yahoo.com)Gary Rawlings: [Garyurantia@aol.com](mailto:Garyurantia@aol.com)
 
 ## Referencias

@@ -66,7 +66,7 @@ Una vez que los libros pasen por la aduana de Estados Unidos, subirán a un tren
 
 **Fondos de inversión**: La Fundación Urantia tiene actualmente cinco fondos de inversión.
 
-1. _El Fondo Hales_ se utiliza para  inversiones y gestión de la tesorería.
+1. _El Fondo Hales_ se utiliza para  inversiones y gestión de la tesorería.
 2. _El Fondo de Impresión Perpetua_ se utiliza para la impresión de libros. Cuando se vende un libro en inglés, español, portugués, polaco o ruso, el 110% del coste del libro se devuelve al fondo para asegurar que siempre haya dinero para futuras impresiones.
 3. _El Fondo Puente de la Revelación_ es un fondo de inversión para las generaciones futuras. La política es que el capital no se toque hasta 2040, y entonces solo se podrá utilizar un porcentaje de las ganancias anuales, no el capital.
 4. _El Fondo de Reserva_ es un fondo de efectivo y equivalente de efectivo para asegurar que la Fundación Urantia tenga fondos de reserva para operar en tiempos difíciles.

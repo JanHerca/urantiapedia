@@ -40,11 +40,11 @@ Son muchos los obstáculos que podemos encontrar siendo anfitriones de grupo de 
 - Cambiar la manera en que gestionan su grupo explorando nuevas técnicas, como introducir diferentes maneras de compartir las enseñanzas; hacer que el grupo se implique en los cursos de la Escuela de _El libro de Urantia_ en Internet (UBIS) y permitir a los participantes que compartan dentro del grupo sus descubrimientos y experiencias .
 - Atraer a nuevos lectores y participantes adicionales abriendo su grupo a nuevas tecnologías, como las conferencias Zoom o Skype, de modo que puedan tener un grupo de estudio virtual al mismo tiempo que la reunión presencial.
 
-Si ustedes o su grupo creen que no están progresando o que están «demasiado cómodos» y no desean salir de su zona de confort, quizá deberían plantearse algunos retos en los que necesiten esforzarse por alcanzar metas más altas. Intenten introducir diferentes maneras de estudiar y explorar nuevos métodos de aprendizaje. Muchos trabajos secundarios, ayudas al estudio y artículos del _Journal_ están llenos de material de calidad que puede usarse para introducir nuevas vías de exploración y estudio.
+Si ustedes o su grupo creen que no están progresando o que están «demasiado cómodos» y no desean salir de su zona de confort, quizá deberían plantearse algunos retos en los que necesiten esforzarse por alcanzar metas más altas. Intenten introducir diferentes maneras de estudiar y explorar nuevos métodos de aprendizaje. Muchos trabajos secundarios, ayudas al estudio y artículos del _Journal_ están llenos de material de calidad que puede usarse para introducir nuevas vías de exploración y estudio.
 
 Si no se reúnen muy a menudo, podrían intentar reunirse con más frecuencia en reuniones más cortas, por ejemplo una vez a la semana. Piensen en ello como en el ejercicio físico: si no hacemos ejercicio regularmente, cuando lo hacemos no suele ser muy efectivo. La mente y el alma obedecen a las mismas leyes del universo a las que obedece el cuerpo físico: necesitan ejercitarse regularmente para estar en forma, poder crecer y estar fuertes y sanos. Reunirse a intervalos regulares y más frecuentes repone nuestro entusiasmo y nuestra valentía de vivir y crecer.
 
-Añadan su grupo en tantos lugares de contacto como sea posible para que puedan atraer a buscadores de la verdad que buscan y quieren conocer a otros con los que debatir temas que tengan significados y valores. Usen el Directorio de Grupos de Estudio de _El libro de Urantia_  ([http://urantiastudygroup.org/find.php](http://urantiastudygroup.org/find.php)) o el sitio web de su asociación, una página de Facebook o pequeños anuncios en un diario local.
+Añadan su grupo en tantos lugares de contacto como sea posible para que puedan atraer a buscadores de la verdad que buscan y quieren conocer a otros con los que debatir temas que tengan significados y valores. Usen el Directorio de Grupos de Estudio de _El libro de Urantia_  ([http://urantiastudygroup.org/find.php](http://urantiastudygroup.org/find.php)) o el sitio web de su asociación, una página de Facebook o pequeños anuncios en un diario local.
 
 Compartir las responsabilidades de ser anfitrión con otros miembros del grupo puede aumentar la confianza en sí mismos y sus habilidades de liderazgo. Compartan la gestión del grupo y el proceso de toma de decisiones para cosas como: elegir el documento o el tema que estudiar; moderar los debates asegurándose de que todos tienen un turno justo de palabra al leer y hablar y asegurarse de que se escucha a los asistentes con respeto cuando hablan; limitar la palabra de los que dominan demasiado el debate e intentar que este sea animado.
 
@@ -58,8 +58,8 @@ Es muy importante tener grupos de estudio efectivos si queremos trabajar para el
 
 En espíritu de hermandad.
 
-Gaétan Charland  
-Presidente de Grupos de Estudio  
+Gaétan Charland
+Presidente de Grupos de Estudio
 Asociación Urantia Internacional
 
 ## Referencias

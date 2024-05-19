@@ -38,9 +38,9 @@ dateCreated: 2022-09-26T19:14:54.696Z
 
 Al intentar analizar lo que esto significa para nosotros como individuos, vale la pena señalar varias cosas. Teniendo en cuenta que el material fuente de nuestra filosofía debe ser el contenido de la verdad cósmica, la belleza del universo y la bondad divina de la revelación de Urantia, tenga en cuenta que:
 
-No se nos pide que promovamos la revelación en sí misma, lo que implica que regalar o vender un Libro de Urantia a todo el mundo no es lo que se requiere de nosotros.  
+No se nos pide que promovamos la revelación en sí misma, lo que implica que regalar o vender un Libro de Urantia a todo el mundo no es lo que se requiere de nosotros.
 
-No se nos pide que promuevan ninguna religión, ni siquiera una basada en la vida de Jesús, tal como se relata en la Revelación de Urantia.  
+No se nos pide que promuevan ninguna religión, ni siquiera una basada en la vida de Jesús, tal como se relata en la Revelación de Urantia.
 
 Y el material de origen, aunque contenido en la revelación de Urantia, no tiene por qué ser necesariamente original.
 
@@ -52,7 +52,7 @@ Debido a la forma en que surgió la revelación de Urantia y su contenido, debem
 
 ¿Es posible que un simple hombre tenga tal fe? ¿O tal conciencia de la presencia de Dios? ¿Y tal dedicación a hacer la voluntad de Dios?
 
-La respuesta se da en la revelación misma. En una discusión con Emmanuel, la tarea de Jesús se describe como «_exhibir en su vida en la carne esas posibilidades trascendentes que puede alcanzar un humano que conoce a Dios._» ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8 ))  
+La respuesta se da en la revelación misma. En una discusión con Emmanuel, la tarea de Jesús se describe como «_exhibir en su vida en la carne esas posibilidades trascendentes que puede alcanzar un humano que conoce a Dios._» ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8 ))
 
 ¿Qué se entiende por «posibilidades trascendentes»?
 

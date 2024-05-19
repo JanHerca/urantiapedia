@@ -20,7 +20,7 @@ Cuando las personas encuentran El libro de Urantia experimentan un gran entusias
 
 > _Alrededor de la una, mientras los ciento veinte creyentes estaban orando, todos se dieron cuenta de una extraña presencia en la sala. Al mismo tiempo, todos estos discípulos se volvieron conscientes de un nuevo y profundo sentimiento de alegría, de seguridad y de confianza espirituales. Esta nueva conciencia de fuerza espiritual fue seguida de inmediato por un poderoso impulso a salir y proclamar públicamente el evangelio del reino y la buena nueva de que Jesús había resucitado de entre los muertos._ <a id="a40_467"></a>[[LU 194:0.1](/es/The_Urantia_Book/194#p0_1)]
 
-Parece que este pasaje de _El libro de Urantia_ ilustra bien la condición mental típica que tenemos cuando se descubre el libro. Entonces, ¿por qué no produjo en la mayoría de nosotros el mismo efecto que en los apóstoles y los discípulos? Estos primeros creyentes convencieron a cientos y miles de semejantes para que aceptaran la buena nueva. Creo que parte o muchas de las respuestas se encuentran en la narración de la vida y las enseñanzas de Jesús. Puede que haya más respuestas en [el «Mandato de Publicación»](/es/article/The_Publication_Mandate) \*
+Parece que este pasaje de _El libro de Urantia_ ilustra bien la condición mental típica que tenemos cuando se descubre el libro. Entonces, ¿por qué no produjo en la mayoría de nosotros el mismo efecto que en los apóstoles y los discípulos? Estos primeros creyentes convencieron a cientos y miles de semejantes para que aceptaran la buena nueva. Creo que parte o muchas de las respuestas se encuentran en la narración de la vida y las enseñanzas de Jesús. Puede que haya más respuestas en [el «Mandato de Publicación»](/es/article/The_Publication_Mandate) \*
 
 Si repasamos la estrategia de Jesús podemos ver fácilmente que preparó unos cimientos sólidos mucho antes de su vida pública. Perfeccionó sus métodos y su estilo de enseñanza para compartir la verdad. Mejoró su estilo y conoció mejor a la humanidad durante toda su vida anterior al bautismo mientras viajaba por el mar Mediterráneo. Sabía como aprovechar toda oportunidad posible sembrando semillas de verdad y preparando el ministerio de sus posteriores discípulos y apóstoles una vez que partiera de este mundo.
 
@@ -32,7 +32,7 @@ Hay algo más de esta era que es interesante: como los Reveladores nos dicen, el
 <img src="/image/article/IUA_Journal/Urantia-Books-300x183.jpg">
 </figure>
 
-Hay otras consideraciones que surgen tras reflexionar y pensar en los retos para llegar a posibles soluciones. Intentemos comprender mejor el presente y lo que nos invitan a hacer. Los reveladores dicen que _El libro de Urantia_ es la última de cinco revelaciones de época. Ninguno de nosotros ha tenido ninguna experiencia previa con la diseminación de una revelación de época. Pocos de nosotros en los últimos 2.000 años hemos ganado experiencia diseminando enseñanzas espirituales o religiosas, pues esta tarea estaba reservada casi exclusivamente a  sacerdotes u otros educadores religiosos. Raros son los que adquieren experiencia como instructores profesionales, y mucho menos como instructores religiosos.
+Hay otras consideraciones que surgen tras reflexionar y pensar en los retos para llegar a posibles soluciones. Intentemos comprender mejor el presente y lo que nos invitan a hacer. Los reveladores dicen que _El libro de Urantia_ es la última de cinco revelaciones de época. Ninguno de nosotros ha tenido ninguna experiencia previa con la diseminación de una revelación de época. Pocos de nosotros en los últimos 2.000 años hemos ganado experiencia diseminando enseñanzas espirituales o religiosas, pues esta tarea estaba reservada casi exclusivamente a  sacerdotes u otros educadores religiosos. Raros son los que adquieren experiencia como instructores profesionales, y mucho menos como instructores religiosos.
 
 ¿Podemos comparar la época actual con los tiempos de Jesús? Hay varias diferencias y varios retos que nos impiden copiar directamente las técnicas del pasado. El Mandato de Publicación nos dice:
 <br style="clear:both;"/>
@@ -41,7 +41,7 @@ _El libro pertenece a la era inmediata que sigue a la conclusión de la presente
 
 ¿Qué podemos deducir de esta declaración? Es probable que la época presente de lucha ideológica esté lejos de haber terminado y la mayor parte de las personas no están aún preparadas para buscar la verdad y la rectitud. Las personas serían mucho más receptivas a las enseñanzas de _El libro de Urantia_ si no hubiéramos tenido problemas en el pasado. No es necesario tener opiniones de expertos o encuestas para ver lo lejos que está el mundo de hoy de ese tiempo futuro en el que se habrá ganado la batalla por la libertad. Podríamos mirar la situación actual del mundo para hacer nuestras propias evaluaciones de las guerras entre religiones, del terrorismo y el auge del ateísmo, de las desigualdades sociales y los regímenes dictatoriales en muchos países, del analfabetismo y de muchas otras condiciones predominantes.
 
-Entonces, ¿qué haremos si los tiempos en los que vivimos no son los correctos? Aquí está lo que nos dice el «Mandato de Publicación»:
+Entonces, ¿qué haremos si los tiempos en los que vivimos no son los correctos? Aquí está lo que nos dice el «Mandato de Publicación»:
 
 > _Pero la publicación del libro no ha sido pospuesta para dicha (posible) fecha un tanto remota. Una publicación temprana del libro ha sido proporcionada de modo que se halle disponible para la formación de líderes y profesores. Su presencia también es requerida para captar la atención de personas con recursos que puedan así ser conducidas a proveer fondos para las traducciones a otros idiomas._ [[Mandato de Publicación](/es/article/The_Publication_Mandate)]
 
@@ -95,16 +95,16 @@ He aquí algunos ejemplos:
 8. Hacerse miembros de una asociación tipo Optimists, Lions o Rotary.
 9. Leer a los enfermos o a los invidentes o simplemente visitarlos en el hospital.
 10. Ministrar a los moribundos durante sus últimos días en este mundo.
-11. Leer el documento titulado «101 maneras de introducir _El libro de Urantia»,_ de Vern Grimsley, y divulgar la verdad espiritual. Poner en práctica algunos de sus consejos.
+11. Leer el documento titulado «101 maneras de introducir _El libro de Urantia»,_ de Vern Grimsley, y divulgar la verdad espiritual. Poner en práctica algunos de sus consejos.
 12. Dar su nombre para una actividad que les atraiga en el centro de voluntarios de la ciudad donde viven.
 
 Dejen que les cuente una pequeña historia sobre un episodio que sucedió cuando era presidente de la Asociación Urantia Internacional (AUI). Durante uno de mis numerosos viajes a Colombia me invitaron a una cena organizada por un club social de renombre mundial, que yo creía que era el Rotary Club. La persona que hizo posible esta invitación, Tamila Ragimova, entonces presidenta de la Asociación Urantia de Medellín, tuvo el gran cuidado de sentarnos en la mesa de los presidentes, lo que me dio la oportunidad de sentarme cerca del presidente saliente de esta asociación. Durante la cena le pregunté sobre la importancia de clubes sociales como el Rotary de Colombia, y su respuesta realmente me sorprendió. Dijo que sin esos clubes sociales el país se encontraría en una situación económica e intelectual más pobre para enfrentarse a numerosos problemas de desigualdad social. A continuación dijo que los Estados Unidos, gracias a la presencia de muchas asociaciones de este tipo, podría disfrutar de una prosperidad cultural y económica superior a muchos países promoviendo que se compartieran recursos culturales, religiosos, artísticos y de información.
 
-En el mundo abundan muchas asociaciones que comparten un número inimaginable de intercambios de todo tipo. Compartir ayudaría a la aventura que es la evolución cultural y religiosa del mundo. Cada persona debería participar en una o más organizaciones o proyectos para sembrar semillas de verdad. Podemos «fertilizar» el terreno ayudando a preparar el mundo para nuestro tiempo.
+En el mundo abundan muchas asociaciones que comparten un número inimaginable de intercambios de todo tipo. Compartir ayudaría a la aventura que es la evolución cultural y religiosa del mundo. Cada persona debería participar en una o más organizaciones o proyectos para sembrar semillas de verdad. Podemos «fertilizar» el terreno ayudando a preparar el mundo para nuestro tiempo.
 
 > _Así el libro estará disponible para cuando la batalla por la liberación del hombre sea finalmente ganada y el mundo sea una vez más un lugar seguro para la religión de Jesús y la libertad de la humanidad._  [[Mandato de Publicación](/es/article/The_Publication_Mandate)]
 
-Lo importante para nosotros es ser sistemáticos y coherentes con nuestras acciones. No es necesario viajar por el mundo o ser expertos para aportar nuestro granito de arena, simplemente hay que reconocer las oportunidades que se nos presentan «mientras vamos de paso» por la vida. Podemos vivir una vida con sabor sembrando regularmente semillas de verdad que salgan del alma. No hay nada más poderoso y gratificante que el servicio amoroso desinteresado. Tampoco necesitamos convencer a nadie de que lea _El libro de Urantia_. Cuando estén listos lo encontrarán como ustedes lo encontraron, porque las ángeles estarán listas para cosechar las semillas que ustedes dispersaron tan amorosamente.
+Lo importante para nosotros es ser sistemáticos y coherentes con nuestras acciones. No es necesario viajar por el mundo o ser expertos para aportar nuestro granito de arena, simplemente hay que reconocer las oportunidades que se nos presentan «mientras vamos de paso» por la vida. Podemos vivir una vida con sabor sembrando regularmente semillas de verdad que salgan del alma. No hay nada más poderoso y gratificante que el servicio amoroso desinteresado. Tampoco necesitamos convencer a nadie de que lea _El libro de Urantia_. Cuando estén listos lo encontrarán como ustedes lo encontraron, porque las ángeles estarán listas para cosechar las semillas que ustedes dispersaron tan amorosamente.
 
 Pueden surgir oportunidades para influir sobre la familia, los amigos, los compañeros de trabajo e incluso sobre directores y jefes si deseamos verdaderamente servir.
 
@@ -112,7 +112,7 @@ Pueden surgir oportunidades para influir sobre la familia, los amigos, los compa
 
 Encontramos El libro de Urantia porque estábamos buscando la verdad que contiene. La responsabilidad de compartir la verdad descansa ahora en nosotros. Debemos hacer que esta verdad siga viva en nuestro corazón mientras trabajamos juntos en servicio desinteresado y ayudamos a inaugurar la próxima era de libertad.
 
-_\* [[Mandato de Publicación](/es/article/The_Publication_Mandate)] es al parecer la última comunicación oficial de los reveladores._
+_\* [[Mandato de Publicación](/es/article/The_Publication_Mandate)] es al parecer la última comunicación oficial de los reveladores._
 
 ## Referencias
 

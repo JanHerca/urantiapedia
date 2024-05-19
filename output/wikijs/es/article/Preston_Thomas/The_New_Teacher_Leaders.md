@@ -34,7 +34,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 </figure>
 
 
-Nota: Las notas del apéndice se refieren al libro de Preston Thomas _La vida y las enseñanzas de Jesús_  
+Nota: Las notas del apéndice se refieren al libro de Preston Thomas _La vida y las enseñanzas de Jesús_
 
 ## Nuestra llamada
 
@@ -54,14 +54,14 @@ Sí, enfrentamos serios problemas, pero nos esperan grandes cosas, ¡y estamos l
 
 > La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **el renacimiento espiritual de la fraternidad del reino de Jesús** debería **emocionar** a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne. <a id="a54_330"></a>[[LU 195:10.6](/es/The_Urantia_Book/195#p10_6)]; (énfasis mío)
 
-¡Ha llegado el momento de una nueva revelación de Jesús! Los líderes de esta nueva revelación traerán el renacimiento espiritual de la hermandad del reino de Jesús. Provocarán un nuevo gran renacimiento espiritual. Para aquellos que se sientan inclinados a ayudar a realizar esta nueva revelación, se establecen tres requisitos fundamentales.  
+¡Ha llegado el momento de una nueva revelación de Jesús! Los líderes de esta nueva revelación traerán el renacimiento espiritual de la hermandad del reino de Jesús. Provocarán un nuevo gran renacimiento espiritual. Para aquellos que se sientan inclinados a ayudar a realizar esta nueva revelación, se establecen tres requisitos fundamentales.
 
 ## Los tres requisitos fundamentales
 
 Los nuevos maestros-líderes deben:
 1. ser «hombres y mujeres espirituales»
 2. «dedicarse exclusivamente a la regeneración espiritual de los hombres»
-3. «atrévete a depender únicamente de Jesús y de sus incomparables enseñanzas»   
+3. «atrévete a depender únicamente de Jesús y de sus incomparables enseñanzas» 
 
 Si buscamos ser miembros de este cuerpo ahora en formación de nuevos maestros-líderes, es bueno reflexionar sobre cada uno de estos requisitos. Descubriremos que, así como la tarea es grande, también lo son los requisitos. Lo que sigue puede considerarse como una guía y un manual básico de capacitación para aquellos que aspiran a convertirse en nuevos maestros-líderes. Mientras reflexionamos sobre el papel que podríamos desempeñar en esta gran aventura, tengamos en cuenta lo que Jesús requiere de sus seguidores:
 
@@ -145,26 +145,26 @@ Para un mayor estudio y contemplación que nos guíe en la consecución de la es
 
 (Ver Apéndice 2 «Meditación en _El Libro de Urantia_» por Peter Holly)
 
-Documento 100 La religión en la experiencia humana. _El Libro de Urantia_  
+Documento 100 La religión en la experiencia humana. _El Libro de Urantia_
 
 > **Ejemplos de oraciones:**
 >
 > «Que pueda mostrar cada vez más el fruto del espíritu en mi vida diaria».
 > «Jesús, vuelve a vivir en mí».
 > «Jesús, lléname con tu espíritu».
-> «Jesús, brilla a través de mí».  
+> «Jesús, brilla a través de mí».
 
 ## El requisito de la regeneración espiritual
 
-El segundo requisito principal que consideraremos es la directiva de que nos dediquemos «exclusivamente a la regeneración espiritual de los hombres». Note que esta directriz nos da una meta clara y bien definida, la «regeneración espiritual» de otros. Este es el trabajo específico y exclusivo al que estamos llamados, y le da enfoque y poder a nuestros esfuerzos.   
+El segundo requisito principal que consideraremos es la directiva de que nos dediquemos «exclusivamente a la regeneración espiritual de los hombres». Note que esta directriz nos da una meta clara y bien definida, la «regeneración espiritual» de otros. Este es el trabajo específico y exclusivo al que estamos llamados, y le da enfoque y poder a nuestros esfuerzos. 
 
 ### Primero, regenerarnos espiritualmente nosotros mismos
 
-Si verdaderamente buscamos ser una fuerza para la regeneración espiritual en los demás, debemos reconocer que para ser más efectivos debemos regenerarnos espiritualmente nosotros mismos. Sólo después de haber nacido del espíritu y haber alcanzado una medida suficiente de avance espiritual, estamos debidamente preparados para efectuar la regeneración espiritual en los demás.   
+Si verdaderamente buscamos ser una fuerza para la regeneración espiritual en los demás, debemos reconocer que para ser más efectivos debemos regenerarnos espiritualmente nosotros mismos. Sólo después de haber nacido del espíritu y haber alcanzado una medida suficiente de avance espiritual, estamos debidamente preparados para efectuar la regeneración espiritual en los demás. 
 
 ### Regeneración espiritual de otros a través del contacto personal
 
-Debemos darnos cuenta de que nuestro mayor poder para despertar la regeneración espiritual vendrá no a través de nuestras enseñanzas, sino más bien a través del contacto de otros con nuestra presencia llena de espíritu. Es el ejemplo de nuestra vida dominada por el espíritu, especialmente en medio de nuestro mundo secular y materialista, lo que será más efectivo para inspirar la regeneración espiritual en otros.   
+Debemos darnos cuenta de que nuestro mayor poder para despertar la regeneración espiritual vendrá no a través de nuestras enseñanzas, sino más bien a través del contacto de otros con nuestra presencia llena de espíritu. Es el ejemplo de nuestra vida dominada por el espíritu, especialmente en medio de nuestro mundo secular y materialista, lo que será más efectivo para inspirar la regeneración espiritual en otros. 
 
 ### ¿Por qué dedicarse exclusivamente a la regeneración espiritual?
 
@@ -202,11 +202,11 @@ Hay tres razones especialmente importantes para esta directiva. La primera razó
 
 Además, el cristianismo comenzó desde el principio el proceso de aplicar todas las enseñanzas de Jesús con respecto a su reino espiritual a la iglesia cristiana temporal. Entrar en el reino, nacer del espíritu y dedicarse a hacer la voluntad del Padre, equivalía a ser bautizado en la iglesia. Así, una organización social exterior fue sustituida por el concepto de Jesús de un reino espiritual interior. Por estas y otras razones, las enseñanzas de Jesús deben distinguirse claramente del mensaje cristiano. Nuestro trabajo es enfocarnos y exaltar las enseñanzas de Jesús.
 
-(Ver Apéndice 1.7 El Error de Sustitución)   
+(Ver Apéndice 1.7 El Error de Sustitución) 
 
 ### Las incomparables enseñanzas de Jesús
 
-Una clave de la segunda razón para depender únicamente de Jesús y sus incomparables enseñanzas está contenida dentro de la directiva misma. Sus enseñanzas son ciertamente incomparables. Son las enseñanzas más elevadas, grandiosas y verdaderamente valiosas que jamás hayan aparecido en el planeta tierra. Son divinos y perfectos. Todas las demás enseñanzas pueden ser juzgadas por su compatibilidad con las enseñanzas de Jesús. Él es nuestra piedra de toque para la verdad.   
+Una clave de la segunda razón para depender únicamente de Jesús y sus incomparables enseñanzas está contenida dentro de la directiva misma. Sus enseñanzas son ciertamente incomparables. Son las enseñanzas más elevadas, grandiosas y verdaderamente valiosas que jamás hayan aparecido en el planeta tierra. Son divinos y perfectos. Todas las demás enseñanzas pueden ser juzgadas por su compatibilidad con las enseñanzas de Jesús. Él es nuestra piedra de toque para la verdad. 
 
 ### El valor de la vida de Jesús demostrando sus enseñanzas
 
@@ -214,7 +214,7 @@ Sus enseñanzas se entienden mejor al observar la vida perfecta que vivió en la
 
 > De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. <a id="a214_136"></a>[[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
 
-(Ver Apéndice 1.8 El Jesús Viviente)  
+(Ver Apéndice 1.8 El Jesús Viviente)
 
 ### Solo Jesús y sus enseñanzas poseen el poder para triunfar sobre las amenazas modernas a la civilización y traer el renacimiento espiritual
 
@@ -246,13 +246,13 @@ Debe quedar claro que un renacimiento de las enseñanzas reales de Jesús que de
 
 Siempre debemos recordar y ser fortalecidos por el hecho de que nuestra revelación de Jesús se logrará en sociedad con su Espíritu de Verdad obrando en ya través de nosotros. No luchamos solos, sino en asociación con el Dios del universo. El espíritu de Jesús nos ayudará y guiará. Nuestra parte es mantener nuestra conexión espiritual con él y volvernos cada vez más receptivos a su guía espiritual.
 
-(Ver Apéndice 1.11 Armas Espirituales)   
+(Ver Apéndice 1.11 Armas Espirituales) 
 
 ### Enfoque en lo mejor de la Biblia, la vida real de Jesús y sus enseñanzas
 
 Al buscar un renacimiento de las enseñanzas reales de Jesús, debemos tener en cuenta que el mundo conoce a Jesús solo a través de la Biblia y el cristianismo. Por mucho que deseemos lo contrario, el renacimiento espiritual de Jesús y sus enseñanzas reales no va a suceder a través de un reconocimiento generalizado de la verdad de _El Libro de Urantia_. La aceptación mundial de un libro de 2000 páginas que se presenta como una nueva revelación de la verdad se llevará a cabo, y realmente sucederá solo después de que la presente crisis mundial haya quedado atrás y hayamos entrado en el nuevo renacimiento espiritual. Creo que _El Libro de Urantia_ será la Biblia de esta nueva era que se avecina; será como un tercer testamento que nos guiará en la era más espiritual que ha de seguir a nuestra presente era material.
 
-Esto significa que no podemos justificar nuestra enseñanza de Jesús con referencia a _El Libro de Urantia_. Debemos utilizar los recursos que tenemos a mano, y nuestra primera y más importante  
+Esto significa que no podemos justificar nuestra enseñanza de Jesús con referencia a _El Libro de Urantia_. Debemos utilizar los recursos que tenemos a mano, y nuestra primera y más importante
 
 El recurso básico es el registro de la vida y las enseñanzas de Jesús tal como se encuentran en los evangelios del Nuevo Testamento de Mateo, Marcos, Lucas y Juan. Estos registros, por escasos que sean en comparación con los Documentos de Urantia, son nuestro recurso más básico. Además de los evangelios del Nuevo Testamento, tenemos otros dos recursos muy importantes que complementarán nuestro uso del registro bíblico. Primero, tenemos _El Libro de Urantia_ para profundizar y ampliar nuestra comprensión de las Escrituras, corregir errores y aclarar malas interpretaciones. Segundo, tenemos el espíritu de Jesús que mora en nosotros para guiarnos y ayudar en nuestro ministerio, y para trabajar en otros, para ayudarlos a comprender y aceptar nuestra enseñanza.
 
@@ -262,11 +262,11 @@ Hoy estoy feliz de anunciar que hay otro recurso significativo disponible para n
 
 La idea básica del libro era tomar todos los versículos verdaderos de la Biblia acerca de Jesús y juntarlos en la secuencia adecuada según la cronología de _El Libro de Urantia_. Los pasajes erróneos, como el nacimiento virginal o caminar sobre el agua, simplemente fueron dejados de lado. El objetivo era producir un libro de la vida y las enseñanzas de Jesús que fuera totalmente aceptable para la mayoría de los cristianos y, al mismo tiempo, estuviera totalmente en armonía con las enseñanzas de _El Libro de Urantia_. Mi primer uso del libro fue en las ceremonias de graduación de una pequeña escuela que fundé hace muchos años. En estas ceremonias entregué a cada estudiante que se marchaba una copia del libro y me complace informar que siempre fue bien recibido. Más recientemente, el libro se entregó en ceremonias de graduación en un pequeño seminario en Texas. También varios lectores han informado que han utilizado con éxito el libro para enseñar en la escuela dominical. En la India, un grupo de unos 30 pastores lo ha utilizado durante años para guiar su ministerio. Incluso se ha traducido al telegu, su idioma nativo, para una distribución más amplia. Este grupo de pastores cristianos usa tanto la Biblia como La Vida y Enseñanzas en sus servicios.
 
-Creo que este libro puede ser una herramienta valiosa en nuestros esfuerzos por expandir la revelación de Jesús. Nos proporciona una reafirmación de la vida y las enseñanzas de Jesús que está completamente construida a partir de pasajes bíblicos, mientras que al mismo tiempo está libre de malas interpretaciones, errores, y falsas doctrinas, generalmente asociadas con la Biblia y el cristianismo. Estas palabras de los evangelios son reconocidas y honradas por los cristianos de todo el mundo y también por muchos otros. De hecho, la vida pura y las enseñanzas de Jesús, libres de las enseñanzas y dogmas cristianos circundantes, también deberían resultar aceptables tanto para los no creyentes como para los de otras religiones. El libro en sí siempre es bien recibido como un regalo, proporcionando así una revelación aceptable y confiable de Jesús que podemos dejar con otros para guía, consuelo e inspiración. Es una manera fácil de transmitir las verdaderas enseñanzas de Jesús, aquí y ahora.  
+Creo que este libro puede ser una herramienta valiosa en nuestros esfuerzos por expandir la revelación de Jesús. Nos proporciona una reafirmación de la vida y las enseñanzas de Jesús que está completamente construida a partir de pasajes bíblicos, mientras que al mismo tiempo está libre de malas interpretaciones, errores, y falsas doctrinas, generalmente asociadas con la Biblia y el cristianismo. Estas palabras de los evangelios son reconocidas y honradas por los cristianos de todo el mundo y también por muchos otros. De hecho, la vida pura y las enseñanzas de Jesús, libres de las enseñanzas y dogmas cristianos circundantes, también deberían resultar aceptables tanto para los no creyentes como para los de otras religiones. El libro en sí siempre es bien recibido como un regalo, proporcionando así una revelación aceptable y confiable de Jesús que podemos dejar con otros para guía, consuelo e inspiración. Es una manera fácil de transmitir las verdaderas enseñanzas de Jesús, aquí y ahora.
 
 ## El futuro
 
-¿Qué nos depara nuestro futuro? ¿Cuáles serán los resultados de nuestros esfuerzos? A continuación se presenta un resumen de cómo creo que se desarrollará nuestra misión.   
+¿Qué nos depara nuestro futuro? ¿Cuáles serán los resultados de nuestros esfuerzos? A continuación se presenta un resumen de cómo creo que se desarrollará nuestra misión. 
 
 ### Nuestro público objetivo es el mundo cristiano
 
@@ -296,7 +296,7 @@ El mundo cristiano está actualmente dividido en muchas denominaciones, sectas y
 
 El reino que Jesús enseñó es la voluntad del Padre dominante y trascendente en el corazón del creyente. Entramos en el reino por la fe en la enseñanza de Jesús de que Dios es nuestro Padre, y luego por la elección de hacer la voluntad de nuestro Padre. Jesús nos mostró el camino a la vida en el reino con sus dos grandes oraciones, «Hágase tu voluntad» y «No se haga mi voluntad sino la tuya».
 
-En su primera aparición después de la crucifixión, Jesús dejó claro a sus seguidores reunidos que «_la filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino_». <a id="a298_194"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)] Hizo hincapié en que lo que el mundo más necesita saber es que todos somos hijos e hijas de Dios y que a través de la fe podemos realizar y experimentar diariamente este gran verdad. En nuestro trabajo siempre debemos enseñar a los demás a verse a sí mismos como hijos e hijas de Dios, nuestro amoroso Padre celestial.   
+En su primera aparición después de la crucifixión, Jesús dejó claro a sus seguidores reunidos que «_la filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino_». <a id="a298_194"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)] Hizo hincapié en que lo que el mundo más necesita saber es que todos somos hijos e hijas de Dios y que a través de la fe podemos realizar y experimentar diariamente este gran verdad. En nuestro trabajo siempre debemos enseñar a los demás a verse a sí mismos como hijos e hijas de Dios, nuestro amoroso Padre celestial. 
 
 ### El éxito de nuestra misión
 
@@ -304,13 +304,13 @@ En su primera aparición después de la crucifixión, Jesús dejó claro a sus s
 
 > Las enseñanzas de Jesús, aunque enormemente modificadas, sobrevivieron a los cultos de misterio de su época natal, a la ignorancia y la superstición de la edad de las tinieblas, e incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. <a id="a304_287"></a>[[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)] (énfasis mío)
 >
-> La iglesia [cristiana] es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. <a id="a306_300"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío)   
+> La iglesia [cristiana] es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. <a id="a306_300"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío) 
 
 Las siguientes citas son dos de mis favoritas. Predicen la victoria sobre las poderosas fuerzas del materialismo y el secularismo, y una maravillosa nueva era espiritual a seguir:
 
 > Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. <a id="a310_186"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
 >
-> Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. <a id="a312_171"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)  
+> Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. <a id="a312_171"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
 
 ## Avancemos
 
@@ -326,9 +326,9 @@ Su formación inicial se centrará en el primer gran requisito de convertirse en
 
 Recuerde, como nuevos maestros-líderes, estamos llamados tanto a enseñar como a liderar. Enseñamos reafirmando las enseñanzas reales de Jesús y lideramos viviendo esas enseñanzas. Así como «una imagen vale más que mil palabras», es nuestra presencia llena de espíritu y nuestro ejemplo de vida lo que hará que nuestro ministerio sea verdaderamente efectivo.
 
-Así que seamos nosotros quienes cumplamos la profecía de El Libro de Urantia de la llegada de nuevos maestros-líderes. Seamos nosotros quienes respondamos al llamado de traer a nuestro «mundo oscuro y confuso» una nueva revelación de Jesús y un nuevo renacimiento espiritual brillante.   
+Así que seamos nosotros quienes cumplamos la profecía de El Libro de Urantia de la llegada de nuevos maestros-líderes. Seamos nosotros quienes respondamos al llamado de traer a nuestro «mundo oscuro y confuso» una nueva revelación de Jesús y un nuevo renacimiento espiritual brillante. 
 
-> Preston Thomas tiene una licenciatura y una maestría en filosofía de la Universidad de Virginia. Como estudiante universitario, Preston jugó tenis universitario y fue becario de la NDEA en la escuela de posgrado. Después de la universidad, Preston trabajó durante diez años como tutor privado para niños con problemas de aprendizaje (dislexia). En 1981 fundó la Escuela Einstein, que brindaba instrucción personalizada a estudiantes con necesidades especiales de aprendizaje, y se desempeñó como su director durante 27 años. Ha presentado numerosos artículos relacionados con Urantia y ha publicado la tercera edición de su libro, La vida y las enseñanzas de Jesús, que armoniza el relato bíblico de Jesús con _El Libro de Urantia_.  
+> Preston Thomas tiene una licenciatura y una maestría en filosofía de la Universidad de Virginia. Como estudiante universitario, Preston jugó tenis universitario y fue becario de la NDEA en la escuela de posgrado. Después de la universidad, Preston trabajó durante diez años como tutor privado para niños con problemas de aprendizaje (dislexia). En 1981 fundó la Escuela Einstein, que brindaba instrucción personalizada a estudiantes con necesidades especiales de aprendizaje, y se desempeñó como su director durante 27 años. Ha presentado numerosos artículos relacionados con Urantia y ha publicado la tercera edición de su libro, La vida y las enseñanzas de Jesús, que armoniza el relato bíblico de Jesús con _El Libro de Urantia_.
 {.is-info}
 
 ## Referencias

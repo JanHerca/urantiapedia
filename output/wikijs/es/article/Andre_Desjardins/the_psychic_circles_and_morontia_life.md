@@ -46,9 +46,9 @@ En este séptimo círculo destacan cuatro poderes: en realidad es el primero par
 
 El séptimo círculo no está muy bien definido en relación con los demás, sino que concierne exclusivamente a la situación de la personalidad humana; forma un conjunto de cuatro elementos (o poderes), como se ha dicho antes, y se considera el primer grupo de cuatro círculos que demuestran el avance y la evolución de la personalidad dentro de los círculos psíquicos:
 
-- 7º: Elección personal  
-- 6º: Decisión individual  
-- 5º: Responsabilidad moral  
+- 7º: Elección personal
+- 6º: Decisión individual
+- 5º: Responsabilidad moral
 - 4º: Capacidad de alcanzar la individualidad espiritual
 
 Considerando que la carrera ascendente comienza con una elección personal favorable a la llegada del Ajustador que mora en el interior, sería justo decir que el séptimo círculo implica una elección personal asociada a la soberanía absoluta y al libre albedrío de la personalidad.
@@ -80,12 +80,12 @@ El logro del primer círculo _«constituye el mayor acercamiento posible entre l
 
 En resumen, propongo que los siete círculos psíquicos son los siguientes en el orden de la evolución de la personalidad humana:
 
-- 7º – Elección personal.  
-- 6º – Decisión individual.  
-- 5º – Responsabilidad moral.  
-- 4º – Capacidad de alcanzar la individualidad espiritual.  
-- 3º – Fases de realización cósmica y desarrollo espiritual.  
-- 2º – El Ajustador se esfuerza por hacer que la mente del hombre sea morontial para el resto de su vida mortal.  
+- 7º – Elección personal.
+- 6º – Decisión individual.
+- 5º – Responsabilidad moral.
+- 4º – Capacidad de alcanzar la individualidad espiritual.
+- 3º – Fases de realización cósmica y desarrollo espiritual.
+- 2º – El Ajustador se esfuerza por hacer que la mente del hombre sea morontial para el resto de su vida mortal.
 - 1º – La relación más estrecha posible entre la mente mortal y el Ajustador espiritual en la experiencia del hombre.
 
 Atravesar los círculos psíquicos forma parte de la experiencia personal de la personalidad humana en su crecimiento morontial durante la vida temporal y es el punto de apoyo que proporciona el acceso a los mundos mansión. Tal como lo presenta un Mensajero Solitario de Orvonton: _«Por lo tanto, quien se encuentra en el séptimo círculo va a los mundos mansión para seguir aumentando su realización cuantitativa de crecimiento cósmico exactamente igual que quien se encuentra en el segundo o incluso en el primer círculo…»_ <a id="a113_430"></a>[[LU 110:6.18](/es/The_Urantia_Book/110#p6_18)].
@@ -96,9 +96,9 @@ Los círculos psíquicos están relacionados con las transformaciones mentales y
 
 Aunque los círculos psíquicos se ocupan siempre de los aspectos mentales de la personalidad, se dividen en cuatro segmentos diferentes: _«Los círculos psíquicos no son exclusivamente intelectuales ni tampoco enteramente morontiales. Están relacionados con el estatus de la personalidad, los logros de la mente, el crecimiento del alma y la sintonización con el Ajustador»_ <a id="a119_325"></a>[[LU 110:6.3](/es/The_Urantia_Book/110#p6_3)].
 
-1. – Estatus de la personalidad  
-2. – Logros de la mente  
-3. – Crecimiento del alma  
+1. – Estatus de la personalidad
+2. – Logros de la mente
+3. – Crecimiento del alma
 4. – Sintonización con el Ajustador
 
 **El estatus de la personalidad** está vinculado a los primeros cuatro círculos (del 7º al 4º) y corresponde al primer segmento de los círculos.

@@ -19,15 +19,15 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Parece que fue ayer cuando, a finales de 2016, nos pidieron organizar la conferencia internacional que la Asociación Urantia Internacional organiza cada tres años. El equipo de Urantia Perú lo celebró cuando recibimos la antorcha en la conferencia de Ámsterdam para ser los organizadores en 2021 y nos pusimos rápidamente a las órdenes del Padre.
 
-Desde primeros de 2017 se convirtió en un trabajo intenso y coordinado. Teníamos en mente que lograr el desafío exigía hacerlo sobre el terreno y con los estándares que requiere una conferencia, de modo que estábamos listos, incluso con algunos servicios e instalaciones de prepago. 
+Desde primeros de 2017 se convirtió en un trabajo intenso y coordinado. Teníamos en mente que lograr el desafío exigía hacerlo sobre el terreno y con los estándares que requiere una conferencia, de modo que estábamos listos, incluso con algunos servicios e instalaciones de prepago. 
 
-Pero el _destino_ nos trajo otro desafío. La pandemia del coronavirus llegó y le pedimos a Dios: Padre, dada esta nueva situación imprevista, ¿sigues queriendo que vayamos a por ello? 
+Pero el _destino_ nos trajo otro desafío. La pandemia del coronavirus llegó y le pedimos a Dios: Padre, dada esta nueva situación imprevista, ¿sigues queriendo que vayamos a por ello? 
 
 Acabamos tomando la decisión de hacerla realidad de manera virtual y la XI Conferencia de la Asociación Urantia Internacional **Hacia la ciudadanía cósmica… ¡tu hora ha llegado!** se convirtió en «una experiencia virtual».
 
 A lo largo de los siguientes días y meses seguimos investigando y estudiando sobre nuevas tecnologías y estrategias digitales, y siempre nos preguntamos qué beneficios podría aportar a un evento virtual para poder aprovecharnos de ellas en la diseminación de la quinta revelación.
 
-Nos planteamos tres retos: 
+Nos planteamos tres retos: 
 
 En primer lugar, anhelábamos unir a todos los que están familiarizados con las enseñanzas de _El libro de Urantia_, pertenecieran o no a una asociación u organización oficial. En segundo lugar, queríamos que los asistentes se familiarizaran con las culturas ancestrales que dieron lugar al imperio incaico en Cuzco (Perú), bien conocido por su arquitectura monumental y sus estructuras sociales. En tercer lugar, deseábamos activar a los lectores pasivos, así como encontrar a nuevos buscadores de la verdad mediante el servicio voluntario y amoroso de hacerles saber más de las enseñanzas de _El libro de Urantia_.
 
@@ -50,7 +50,7 @@ Para el equipo de Urantia Perú ha sido una experiencia inolvidable. Tuvimos la 
 
 Solo me queda una cosa por decir: ¡gracias a todos lo que han trabajado juntos en este gran desafío! ¡Y gloria al Padre!
 
-Cecilia Barreto   
+Cecilia Barreto 
 Equipo organizador de la Asociación Urantia de Perú
 
 ## Referencias

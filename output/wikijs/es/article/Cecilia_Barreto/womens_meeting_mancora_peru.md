@@ -38,7 +38,7 @@ Desde entonces seguimos comunicándonos y hemos recibido mensajes como este:
 <img src="/image/article/IUA_Tidings/Womens-Peru-Conf-poster-286x400.jpg">
 </figure>
 
-Line St. Pierre les habló de su importancia como mujeres e hijas de Dios. Les habló de su taller _Bailar con Dios_, y las invitó a reproducirlo allí en Máncora. Las mujeres de la localidad no se podían creer que Line no hubiera ido a Máncora de vacaciones, como muchos de los turistas que visitan la zona, sino que había ido precisamente por ellas.
+Line St. Pierre les habló de su importancia como mujeres e hijas de Dios. Les habló de su taller _Bailar con Dios_, y las invitó a reproducirlo allí en Máncora. Las mujeres de la localidad no se podían creer que Line no hubiera ido a Máncora de vacaciones, como muchos de los turistas que visitan la zona, sino que había ido precisamente por ellas.
 
 A este respecto atestiguo el gran sacrificio, el largo viaje y el calor (40 grados) que tuvimos que soportar antes de motivarnos a servir a los demás solo para un día de charlas. La alegría interior que todas experimentamos, visitantes y residentes locales por igual, fue maravillosa.
 

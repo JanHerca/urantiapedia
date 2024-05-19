@@ -19,34 +19,34 @@ El 23 de noviembre comenzaremos una serie de sesiones gratuitas de grupo de estu
 
 - Lo que _El libro de Urantia_ enseña acerca del estudio en profundidad, en combinación con ejercicios prácticos relevantes.
 - Lecciones sobre enseñar y hablar en público, junto con oportunidades para que los participantes entreguen prácticas de discursos.
-- Crecer con Jesús: cómo realzar un crecimiento equilibrado y convertirse en líderes aprendiendo con lo que hizo Jesús en cada etapa de su desarrollo desde la niñez hasta sus últimos años como adulto.
-- Las verdades de la ciencia en una filosofía del vivir:  
-    conectar las verdades de la ciencia con la nueva filosofía del vivir inspirada en las enseñanzas de Jesús sobre coordinar la ciencia y la religión en nuestra vida.
+- Crecer con Jesús: cómo realzar un crecimiento equilibrado y convertirse en líderes aprendiendo con lo que hizo Jesús en cada etapa de su desarrollo desde la niñez hasta sus últimos años como adulto.
+- Las verdades de la ciencia en una filosofía del vivir:
+    conectar las verdades de la ciencia con la nueva filosofía del vivir inspirada en las enseñanzas de Jesús sobre coordinar la ciencia y la religión en nuestra vida.
 
 Este grupo de estudio no será meramente intelectual; ¡se trata de crecer y de ayudarnos mutuamente!
 
-Facilitador: Jeffrey Wattles  
-Patrocinador: Urantia Young Adult International (UYAI)  
-Cuándo: todos los lunes a partir del 23 de noviembre a las 19:00 (GMT+1:00), hora de Amsterdam, Berlín, Roma, Estocolmo y Viena.
+Facilitador: Jeffrey Wattles
+Patrocinador: Urantia Young Adult International (UYAI)
+Cuándo: todos los lunes a partir del 23 de noviembre a las 19:00 (GMT+1:00), hora de Amsterdam, Berlín, Roma, Estocolmo y Viena.
 
-Zonas horarias de los EEUU:  
-13:00 – este  
-12:00 – central  
-11:00 – montaña  
+Zonas horarias de los EEUU:
+13:00 – este
+12:00 – central
+11:00 – montaña
 10:00 – oeste
 
-Para quién: dirigido principalmente a jóvenes adultos lectores de _El libro de Urantia_ que tengan entre 15 y 40 años. ¡Lectores de otras edades también son bienvenidos!
+Para quién: dirigido principalmente a jóvenes adultos lectores de _El libro de Urantia_ que tengan entre 15 y 40 años. ¡Lectores de otras edades también son bienvenidos!
 
-Cómo unirse: desde PC, Mac, Linux, iOS o Android:
+Cómo unirse: desde PC, Mac, Linux, iOS o Android:
 
 [https://zoom.us/j/6174949574](https://zoom.us/j/6174949574)
 
-ID reunión: 617 494 9574  
+ID reunión: 617 494 9574
 O pueden unirse por teléfono: +1 646 568 7788 (tarifa EEUU) o +1 415 762 9988 (tarifa EEUU)
 
 [https://www.zoom.us/join](https://www.zoom.us/join)
 
-Para más información, contacten con el presidente de Conferencias en [conference@triniteit.org](mailto:conference@triniteit.org)
+Para más información, contacten con el presidente de Conferencias en [conference@triniteit.org](mailto:conference@triniteit.org)
 
 ## Referencias
 

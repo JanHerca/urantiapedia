@@ -826,7 +826,7 @@ Ante la grave situación política con Arquelao en Judea, deciden regresar a Naz
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 |    |    |    |    |    
+| 29 | 30 |    |    |    |    |  
 
 2, Nace Santiago
 
@@ -1362,7 +1362,7 @@ El chazán de la escuela, viendo los espléndidos progresos del pequeño Jesús,
 | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
-| 29 | 30 | 31 |    |    |    |    
+| 29 | 30 | 31 |    |    |    |  
 
 Su tío le lleva a pescar por primera vez
 
@@ -1374,7 +1374,7 @@ Su tío le lleva a pescar por primera vez
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 |    |    
+| 26 | 27 | 28 | 29 | 30 |    |  
 
 Jesús enseña a su hermanito Santiago los rudimentos del abecedario
 
@@ -1387,7 +1387,7 @@ Jesús enseña a su hermanito Santiago los rudimentos del abecedario
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| 31 |    |    |    |    |    |    
+| 31 |    |    |    |    |    |  
 
 Primeras amonestaciones de los ancianos y chazanes, que pierden la paciencia ante Jesús con sus interminables preguntas y su gran curiosidad, incluso sobre temas prohibidos.
 
@@ -1476,7 +1476,7 @@ Notas: Jesús se gana la simpatía de sus tíos de Migdal y durante ese año pas
 | 5  | 6  | 7  | 8  | 9  | 10 | 11 |
 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 |    |    
+| 26 | 27 | 28 | 29 | 30 | 31 |    |  
 
 Coge la varicela. Cada vez se le nota más crecido y fuerte.
 
@@ -1520,7 +1520,7 @@ Coge la varicela. Cada vez se le nota más crecido y fuerte.
 | 9  | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 |    |    |    |    |    |    
+| 30 | 31 |    |    |    |    |    |  
 
 Escala con su padre el monte Tabor en una excursión.
 
@@ -1532,7 +1532,7 @@ Escala con su padre el monte Tabor en una excursión.
 | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
-| 27 | 28 | 29 | 30 | 31 |    |    
+| 27 | 28 | 29 | 30 | 31 |    |  
 
 Sigue yendo a la granja de su tío a pescar. Empieza a ser un buen pescador, y también se dedica a la siega en la granja de su otro tío.
 
@@ -1664,7 +1664,7 @@ Sábado 5, En uno de los habituales paseos con su padre, Jesús le confiesa que 
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |    
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |  
 
 Comienza a frecuentar la compañía y conversaciones de los mayores, así como los paseos en solitario. Ingresa en la escuela superior; sigue colmando la paciencia de sus profesores. Esta vez sí fue su padre quien le reprendió y desde entonces Jesús no volvió a abrir la boca.
 
@@ -1761,7 +1761,7 @@ Notas: Continuó visitando a sus tíos, eran quienes mejor le comprendían, y me
 | 4  | 5  | 6  | 7  | 8  | 9  | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |    
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |    |  
 
 A mediados, Jesús acompaña a José en un viaje de trabajo; van a Scythópolis, en la Decápolis. Allí Jesús disfruta y se entusiasma tanto con las atracciones y los juegos paganos que su pade llega a enfadarse con él y casi a pegarle. Jesús le pide disculpas y ya nunca más se volvió a mencionar aquello.
 
@@ -1893,7 +1893,7 @@ Notas: Jesús vuelve a sus estudios cuando empieza a ponerse mejor su madre. Per
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| 31 |    |    |    |    |    |    
+| 31 |    |    |    |    |    |  
 
 A mediados, Jesús acompaña a José en un viaje de trabajo; van a Scythópolis, en la Decápolis. Allí Jesús disfruta y se entusiasma tanto con las atracciones y los juegos paganos que su pade llega a enfadarse con él y casi a pegarle. Jesús le pide disculpas y ya nunca más se volvió a mencionar aquello.
 
@@ -1983,7 +1983,7 @@ A mediados, Jesús acompaña a José en un viaje de trabajo; van a Scythópolis,
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| 31 |    |    |    |    |    |    
+| 31 |    |    |    |    |    |  
 
 9, Nace Amós
 
@@ -2199,7 +2199,7 @@ Nota: Este año el joven Juan, el hijo de Zacarías e Isabel, tomó los votos na
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-  
+
 25, día triste. Muere José en accidente laboral. Estaba trabajando en una obra en Séforis cuando cae de un andamio. Al día siguiente fue enterrado en Nazaret. Todo el pueblo se vuelca con la familia, de suerte que todo aquel invierno no habría día en que no se reuniera gente en la casa de Jesús para escuchar sus lecturas de la Escritura, charlar, o escucharle tocar el arpa.
 
 <a name="Oct_08"></a> **OCTUBRE**
@@ -4489,7 +4489,7 @@ Beerot - Lebona - Sicar - Siquem - Samaría - Geba - En-Ganim - Endor - Madón -
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
-22 Aparición de Satanás y Caligastia, la prueba cósmica; 23, Jesús regresa a Capernaum desde el Hermón       
+22 Aparición de Satanás y Caligastia, la prueba cósmica; 23, Jesús regresa a Capernaum desde el Hermón     
 
 [Juan comienza a hablar de Jesús («alguien que viene tras de mí») en Adam.]
 

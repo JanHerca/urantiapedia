@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _(Nota de la redacción: Este artículo se publicó por primera vez en el Tidings de junio de 2021. Lo volvemos a publicar aquí en memoria del difunto David Linthicum.)_
 
-En una conferencia reciente de la Asociación Urantia se planteó una pregunta a los allí reunidos: «¿Cuántos han tenido éxito dando a conocer _El libro de Urantia_ a familia o amigos?». No hubo sorpresa en las respuestas; un rápido conteo reveló que solo unas pocas personas levantaron la mano. A todos los que han intentado presentar el libro a familia y amigos: están en buena compañía.  
+En una conferencia reciente de la Asociación Urantia se planteó una pregunta a los allí reunidos: «¿Cuántos han tenido éxito dando a conocer _El libro de Urantia_ a familia o amigos?». No hubo sorpresa en las respuestas; un rápido conteo reveló que solo unas pocas personas levantaron la mano. A todos los que han intentado presentar el libro a familia y amigos: están en buena compañía.
 
 Tenemos en nuestras manos una revelación divina, la quinta revelación de época a la humanidad, el tesoro más asombroso desde que Jesús caminó por la Tierra y ni así la familia y los amigos están interesados. Estoy seguro de que esta es una realidad para muchos de nosotros, ¡y decepcionante además!
 
@@ -29,7 +29,7 @@ No será por no haberlo intentado, porque lo he probado todo. Incluso intenté h
 
 He llegado a probar la psicología inversa con un amigo que me preguntó lo que estaba leyendo. Es una de las personas más leídas que conozco y hemos sido amigos íntimos durante más de 40 años. Le conté un poco sobre lo básico del libro, pero le sugerí que no debería tomarse la molestia de leerlo. «Tiene más de 2.000 páginas», le dije, «y es un libro difícil de leer y aún más de comprender».
 
-Me pidió que le enviara un ejemplar, cosa que hice rápidamente. ¡Sí!, pensé, ¡un éxito después de tanto tiempo! Según parece, nunca lo leyó ni quiso hablar sobre él; una vez más, mis esperanzas se vieron frustradas.  
+Me pidió que le enviara un ejemplar, cosa que hice rápidamente. ¡Sí!, pensé, ¡un éxito después de tanto tiempo! Según parece, nunca lo leyó ni quiso hablar sobre él; una vez más, mis esperanzas se vieron frustradas.
 
 Sí que tuve a un completo extraño preguntándome sobre el libro hace un par de meses. Mientras estaba en la zona de espera de una tienda de neumáticos, un señor se dio cuenta de que estaba leyendo un libro y me preguntó de qué trataba; se preguntaba si era algún tipo de Biblia. Le pregunté si era un hombre religioso y le dije que el libro iba en esa línea. Él dijo que sí, dijo cuál era su Iglesia y añadió que tenía la mente abierta, así que le entregué el libro, abrí el «índice de materias», nos sentamos y hablamos mientras él echaba un vistazo a las páginas.
 

@@ -78,7 +78,7 @@ Aunque el ideal del monoteísmo experimentó un declive con el fin del reinado d
 
 Ray Johnson, del centro de investigación de la Universidad de Chicago en Luxor, comenta sobre el notable arte y la artesanía presente en los objetos encontrados en Amarna, pero también explica la destrucción intencional y la separación de todas las asociaciones con Akhenaton. Incluso por su familia.
 
-«Esto está muy bien hecho», dijo, levantando la pieza de estatua de piedra tallada, en la que solo se veía la parte inferior de las piernas del rey. «Esto no se daña accidentalmente». La arqueología de Amarna tiene una cualidad forense porque muchos artefactos fueron destruidos deliberadamente después de la repentina muerte del rey alrededor de 1336 a. título del dios que su padre había odiado: Tutankamón. Abandonó a Amarna y volvió a las viejas tradiciones”. http://www.nationalgeographic.com/magazine/2017/05/akhenaton-revolutionary-egypt-king/  
+«Esto está muy bien hecho», dijo, levantando la pieza de estatua de piedra tallada, en la que solo se veía la parte inferior de las piernas del rey. «Esto no se daña accidentalmente». La arqueología de Amarna tiene una cualidad forense porque muchos artefactos fueron destruidos deliberadamente después de la repentina muerte del rey alrededor de 1336 a. título del dios que su padre había odiado: Tutankamón. Abandonó a Amarna y volvió a las viejas tradiciones”. http://www.nationalgeographic.com/magazine/2017/05/akhenaton-revolutionary-egypt-king/
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Derek_Samaras/Akhenaten/image03.png">
@@ -162,7 +162,7 @@ He seleccionado algunos de mis pasajes favoritos del libro de Proverbios y un po
 - Amarna: https://amarnaanniversary.wordpress.com/blog/
 - Artículo de National Geographic: http://www.nationalgeographic.com/magazine/2017/05/akhenaten-revolutionary-egypt-king/
 - Amenemope: https://en.m.wikipedia.org/wiki/Amenemope_(autor)
-- Instrucción de Amenemope: https://en.m.wikipedia.org/wiki/Instruction_of_Amenemope   
+- Instrucción de Amenemope: https://en.m.wikipedia.org/wiki/Instruction_of_Amenemope 
 
 ## Referencias
 

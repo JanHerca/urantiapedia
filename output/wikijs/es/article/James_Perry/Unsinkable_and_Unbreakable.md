@@ -54,9 +54,9 @@ Tener una relación centrada en Dios no los liberará a ninguno de los dos de la
 
 Jesús dijo que él es el camino, la verdad y la vida. Reggie y Sherry, su matrimonio es un camino que pueden usar para seguir a Jesús. Al hacer esto, descubrirán para su eterna satisfacción el amor del Padre celestial a medida que brota de cada una de sus almas, de unos a otros, y luego a todos los demás a quienes aman y sirven.
 
-Reggie y Sherry, ¿quieren tener un matrimonio inquebrantable e inquebrantable? Entonces aprendan a amarse verdaderamente unos a otros, y todo lo demás se arreglará solo. Buscad lo mayor y lo menor se hallará en él; busquen conocer y hacer la voluntad del Padre en sus vidas juntos.   
+Reggie y Sherry, ¿quieren tener un matrimonio inquebrantable e inquebrantable? Entonces aprendan a amarse verdaderamente unos a otros, y todo lo demás se arreglará solo. Buscad lo mayor y lo menor se hallará en él; busquen conocer y hacer la voluntad del Padre en sus vidas juntos. 
 
-> Ahora soy un médico jubilado que practicó medicina general y familiar durante muchos años. Ahora vivo en Raleigh, N .C ., aunque la mayor parte de mi vida profesional transcurrió en Henderson, N .C. Conocí _El Libro de Urantia_ en 1977 y he estudiado desde entonces. He sido tremendamente influenciado por su enseñanza en mi vida personal y profesional.  
+> Ahora soy un médico jubilado que practicó medicina general y familiar durante muchos años. Ahora vivo en Raleigh, N .C ., aunque la mayor parte de mi vida profesional transcurrió en Henderson, N .C. Conocí _El Libro de Urantia_ en 1977 y he estudiado desde entonces. He sido tremendamente influenciado por su enseñanza en mi vida personal y profesional.
 {.is-info}
 
 ## Referencias

@@ -34,11 +34,11 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-_Presentado el domingo, 22 de julio de 2007, Sesión de estudio de verano de la beca, Universidad Dominicana, River Grove, IL_  
+_Presentado el domingo, 22 de julio de 2007, Sesión de estudio de verano de la beca, Universidad Dominicana, River Grove, IL_
 
 ## ¿Cuál es la verdadera misión y propósito de _El Libro de Urantia_?
 
-Probablemente le parezca una pregunta tonta a la mayoría de las personas que han estado leyendo _El Libro de Urantia_ durante docenas de años. Pero pregúnteles y obtendrá una variedad de respuestas, desde: «Para convertirnos en mejores personas» hasta «Expandir nuestro conocimiento del universo». Si no lo ha pensado antes, hay un punto de vista que me gustaría presentar y que creo que se describe en el libro como un subtexto de todos los otros temas principales:  
+Probablemente le parezca una pregunta tonta a la mayoría de las personas que han estado leyendo _El Libro de Urantia_ durante docenas de años. Pero pregúnteles y obtendrá una variedad de respuestas, desde: «Para convertirnos en mejores personas» hasta «Expandir nuestro conocimiento del universo». Si no lo ha pensado antes, hay un punto de vista que me gustaría presentar y que creo que se describe en el libro como un subtexto de todos los otros temas principales:
 
 **Premisa**: _El Libro de Urantia_ no es un fin en sí mismo. El propósito principal de enviar una nueva revelación en forma de libro a los pueblos del mundo es triple:
 
@@ -46,7 +46,7 @@ Probablemente le parezca una pregunta tonta a la mayoría de las personas que ha
 2. Preparar nuestro mundo para salir de la cuarentena impuesta en el momento de la Rebelión de Lucifer y la traición de Caligastia hace 200.000 años.
 3. Ayudar a la humanidad a lograr un pensamiento superior, aptitud biológica, paz social, conciencia cósmica, percepción espiritual mejorada y el desarrollo posterior del plan divino para los mundos evolutivos.
 
-Los primeros dos eventos _sucederán_. No hay duda alguna. Simplemente no sabemos _cuándo_ ocurrirán. Sospecho que los dos primeros están directamente relacionados entre sí. Nuestra pregunta debería ser: ¿Cuál es la mejor manera de dirigir nuestros esfuerzos hacia el logro de estos objetivos?  
+Los primeros dos eventos _sucederán_. No hay duda alguna. Simplemente no sabemos _cuándo_ ocurrirán. Sospecho que los dos primeros están directamente relacionados entre sí. Nuestra pregunta debería ser: ¿Cuál es la mejor manera de dirigir nuestros esfuerzos hacia el logro de estos objetivos?
 
 ## ¿Quién solicitó esta revelación?
 
@@ -58,7 +58,7 @@ Debido al caso pendiente, _Gabriel vs. Lucifer_ en la corte de Uversa, los revel
 
 A medida que se desarrollara, toda esta verdad se presentaría en un libro, un hecho muy inusual. Por lo general, en otros mundos, las revelaciones de época llegan en forma de dádivas, tanto visibles como invisibles, de seres del Paraíso o del interior del universo local. Estos pueden incluir Hijos Lanonandek, hijos e hijas materiales (Adán y Eva) y ocasionalmente, un Melquisedec. Otros hijos del universo local, como las Brillantes Estrellas Vespertinas y los arcángeles, acompañan a los Hijos del Paraíso en sus autootorgamientos y visitas temporales. En nuestra revelación inusual, los arcángeles escribieron once artículos en _El Libro de Urantia_, mientras que las Estrellas Vespertinas escribieron ocho, incluido el Jefe de las Estrellas Vespertinas, quien escribió el Documento 119, _Otorgamiento de Cristo Miguel_, por encargo de Gabriel. Muchas, muchas otras personalidades del universo participaron en la autoría de los Documentos de Urantia.
 
-Este fue un gran esfuerzo en nuestro favor, pero no se menciona ningún libro como medio de revelación en otros mundos. Que extraño.  
+Este fue un gran esfuerzo en nuestro favor, pero no se menciona ningún libro como medio de revelación en otros mundos. Que extraño.
 
 ## ¿Porqué ahora? ¿Por qué tomó tanto tiempo?
 
@@ -70,13 +70,13 @@ Las personalidades tras bambalinas, en Urantia y en los niveles del universo, ve
 
 La revelación-como-libro propuesta incluiría una historia temprana exhaustiva de la humanidad, con soluciones sugeridas para nuestros problemas actuales.
 
-Han pasado cien años desde el primer contacto de los reveladores. Se necesitaron veinte años para refinar la técnica de transmitir información sin que se contaminara con prejuicios personales. En 1924 se anunció la nueva revelación. Hubo un período de veinte años después, cuando el material fue revelado, estudiado por el Foro, se invitaron a hacer preguntas, llegaron aclaraciones, se amplió el material, se completó la corrección de pruebas y se recaudaron fondos para imprimir el libro.  
+Han pasado cien años desde el primer contacto de los reveladores. Se necesitaron veinte años para refinar la técnica de transmitir información sin que se contaminara con prejuicios personales. En 1924 se anunció la nueva revelación. Hubo un período de veinte años después, cuando el material fue revelado, estudiado por el Foro, se invitaron a hacer preguntas, llegaron aclaraciones, se amplió el material, se completó la corrección de pruebas y se recaudaron fondos para imprimir el libro.
 
 La comisión de contacto humano imaginó que la publicación se realizaría después de la Segunda Guerra Mundial, pero el comunismo complicó el momento. Fueron necesarios diez años adicionales para estar seguros de que el sistema impío no prevalecería antes de que llegara la orden de imprimir el libro en 1955.
 
 Después del comunismo, el caos y la confusión del terrorismo y la creciente ola de secularismo humanista y ateísmo constituyen una batalla interminable contra la religión de Jesús.
 
-Mientras tanto, la Rebelión de Lucifer todavía está en el expediente de la corte suprema de Uversa. La primera audiencia en el caso _Lucifer vs. Gabriel_ se llevó a cabo durante la preparación de estos documentos. <a id="a78_214"></a>[[LU 54:4.8](/es/The_Urantia_Book/54#p4_8)] ¿Por qué es importante el arreglo del caso de Lucifer para un mundo tan insignificante como el nuestro? Hasta que se resuelva el caso, permaneceremos aislados y no se restablecerán los circuitos. <a id="a78_454"></a>[[LU 53:9.6](/es/The_Urantia_Book/53#p9_6)]  
+Mientras tanto, la Rebelión de Lucifer todavía está en el expediente de la corte suprema de Uversa. La primera audiencia en el caso _Lucifer vs. Gabriel_ se llevó a cabo durante la preparación de estos documentos. <a id="a78_214"></a>[[LU 54:4.8](/es/The_Urantia_Book/54#p4_8)] ¿Por qué es importante el arreglo del caso de Lucifer para un mundo tan insignificante como el nuestro? Hasta que se resuelva el caso, permaneceremos aislados y no se restablecerán los circuitos. <a id="a78_454"></a>[[LU 53:9.6](/es/The_Urantia_Book/53#p9_6)]
 
 ## ¿Cuáles eran sus intenciones?
 
@@ -104,7 +104,7 @@ Un intermedio continúa, y nuevamente, las oraciones se reorganizan:
 
 > En una ocasión insinuó que, mientras que el ojo de la carne lo había visto cuando vivía aquí en la carne, a su regreso (al menos en una de sus posibles visitas) sería discernido sólo por el ojo de la fe espiritual. ” ... «Su segunda venida a la Tierra ¿se calculará para que ocurra en conexión con el juicio final de la era presente, con o sin la aparición concomitante de un Hijo Magistral?» «Muchos de nosotros tienden a creer que Jesús regresará muchas veces a Urantia durante las eras por venir... Pero si todos los ojos han de contemplarlo, y si sólo los ojos espirituales podrán discernir su presencia, entonces su venida deberá retrasarse durante mucho tiempo. <a id=»a104_672"></a><a id="a104_691"></a>[[LU 176:4.4-5](/es/The_Urantia_Book/176#p4_4)]
 
-Jesús aseguró a sus apóstoles que habría otra revelación de la verdad: «_Cuando el reino haya llegado a su plena madurez, estad seguros de que el Padre que está en los cielos no dejará de visitaros con una revelación ampliada de la verdad y con una demostración realzada de la rectitud, ..._» <a id="a106_293"></a>[[LU 176:2.3](/es/The_Urantia_Book/176#p2_3)] Hemos recibido la revelación escrita; ahora esperamos al demostrador de justicia.  
+Jesús aseguró a sus apóstoles que habría otra revelación de la verdad: «_Cuando el reino haya llegado a su plena madurez, estad seguros de que el Padre que está en los cielos no dejará de visitaros con una revelación ampliada de la verdad y con una demostración realzada de la rectitud, ..._» <a id="a106_293"></a>[[LU 176:2.3](/es/The_Urantia_Book/176#p2_3)] Hemos recibido la revelación escrita; ahora esperamos al demostrador de justicia.
 
 ## El Hijo Maestro toma las decisiones en su Mundo de Otorgamiento
 
@@ -116,7 +116,7 @@ Un Hijo Maestro, como Miguel de Nebadon, tiene libertad en cuanto a cómo y cuá
 
 > Después de su elevación a la soberanía estable en un universo local, un Miguel Paradisiaco tiene el pleno control sobre todos los otros Hijos de Dios que ejercen su actividad en su dominio, y puede gobernar libremente de acuerdo con el concepto que tenga sobre las necesidades de sus reinos. Un Hijo Maestro puede cambiar a voluntad el orden de los juicios espirituales y de los ajustes evolutivos de los planetas habitados. Y estos Hijos elaboran y llevan a cabo los planes elegidos por ellos mismos en todas las cuestiones relacionadas con las necesidades planetarias especiales, en particular con respecto a los mundos donde han vivido como criaturas, y mucho más en lo que concierne a la esfera de su donación final, al planeta de su encarnación en la similitud de la carne mortal. <a id="a116_788"></a>[[LU 21:5.9](/es/The_Urantia_Book/21#p5_9)]
 
-Aparentemente, Miguel podría reorganizar el orden de los eventos incluso antes de alcanzar el estatus de Hijo Maestro. Anunció planes para venir a Urantia desde la fecha predeterminada de Adán, hace treinta y siete mil años. Envió a Maquiventa Melquisedec en una misión de emergencia para reintroducir el concepto de Un Dios, para preparar a la gente para su propio autootorgamiento mil novecientos años después. De hecho, la revelación de _El Libro de Urantia_ es un excelente ejemplo de la respuesta de Miguel a las necesidades especiales de nuestro planeta al encargar un libro para el planeta semianalfabeto de su encarnación, Urantia. Los reveladores llamaron a los Documentos de Urantia «la Palabra hecha Libro».  
+Aparentemente, Miguel podría reorganizar el orden de los eventos incluso antes de alcanzar el estatus de Hijo Maestro. Anunció planes para venir a Urantia desde la fecha predeterminada de Adán, hace treinta y siete mil años. Envió a Maquiventa Melquisedec en una misión de emergencia para reintroducir el concepto de Un Dios, para preparar a la gente para su propio autootorgamiento mil novecientos años después. De hecho, la revelación de _El Libro de Urantia_ es un excelente ejemplo de la respuesta de Miguel a las necesidades especiales de nuestro planeta al encargar un libro para el planeta semianalfabeto de su encarnación, Urantia. Los reveladores llamaron a los Documentos de Urantia «la Palabra hecha Libro».
 
 ## Una vana esperanza para el futuro inmediato: Los Hijos Instructores Trinitarios
 
@@ -126,9 +126,9 @@ Cualquier expectativa de la llegada inmanente de los Hijos Instructores Trinitar
 
 Jesús ciertamente cumplirá su promesa de regresar, «_pero nadie sabe si su segunda venida precederá o seguirá a la aparición del Hijo Magistral o de los Hijos Instructores en Urantia._» [[LU 52:7.1](/es/The_Urantia_Book/52#p7_1 )] Un Melquisedec anónimo escribe, con esperanza en su corazón:
 
-> Todas estas especulaciones, unidas a la certidumbre de que tanto los Hijos Magistrales como los Hijos Instructores Trinitarios aparecerán en el futuro, conjuntamente con la promesa explícita del Hijo Creador de regresar algún día, convierten a Urantia en un planeta de incierto futuro y hacen que resulte una de las esferas más interesantes y fascinantes de todo el universo de Nebadon. Es totalmente posible que en alguna época futura, cuando Urantia se aproxime a la era de luz y de vida, después de que se hayan juzgado finalmente los asuntos de la rebelión de Lucifer y de la secesión de Caligastia, podamos contemplar la presencia simultánea en Urantia de Maquiventa, Adán, Eva y Cristo Miguel, así como de un Hijo Magistral o incluso de los Hijos Instructores Trinitarios. <a id="a128_781"></a>[[LU 93:10.8](/es/The_Urantia_Book/93#p10_8)]  
+> Todas estas especulaciones, unidas a la certidumbre de que tanto los Hijos Magistrales como los Hijos Instructores Trinitarios aparecerán en el futuro, conjuntamente con la promesa explícita del Hijo Creador de regresar algún día, convierten a Urantia en un planeta de incierto futuro y hacen que resulte una de las esferas más interesantes y fascinantes de todo el universo de Nebadon. Es totalmente posible que en alguna época futura, cuando Urantia se aproxime a la era de luz y de vida, después de que se hayan juzgado finalmente los asuntos de la rebelión de Lucifer y de la secesión de Caligastia, podamos contemplar la presencia simultánea en Urantia de Maquiventa, Adán, Eva y Cristo Miguel, así como de un Hijo Magistral o incluso de los Hijos Instructores Trinitarios. <a id="a128_781"></a>[[LU 93:10.8](/es/The_Urantia_Book/93#p10_8)]
 
-Bueno, bueno, no creo que estemos listos para ese nivel de emoción todavía.  
+Bueno, bueno, no creo que estemos listos para ese nivel de emoción todavía.
 
 ## Una predicción más realista
 
@@ -140,7 +140,7 @@ Los Hijos Avonales son creados por el Hijo Eterno y el Espíritu Infinito; y son
 
 **3. Hijos Avonales en Misiones Magisteriales; No Encarnado—Invisible.** Cuando «ocurren misiones magistrales, los Avonales no se someten siempre a la encarnación mortal»; <a id="a140_172"></a>[[LU 20:4.2](/es/The_Urantia_Book/20#p4_2)]
 
-    Un planeta puede experimentar muchas visitas magisteriales tanto antes como después de la aparición de un Hijo autootorgador. Un Hijo Avonal en una Misión Magisterial, ya sea encarnado o no encarnado, todavía actúa como adjudicador de la era planetaria e inaugura una nueva dispensación. se asocia con los seres invisibles del planeta; simplemente no es visible para los humanos. <a id="a142_384"></a>[[LU 20:2.4](/es/The_Urantia_Book/20#p2_4)] ¿Nos daríamos cuenta si un Avonal llegara en este tipo de misión? Probablemente dependería de si habíamos salido del aislamiento y la población humana había aceptado el concepto de la existencia y supervisión de seres superiores.  
+    Un planeta puede experimentar muchas visitas magisteriales tanto antes como después de la aparición de un Hijo autootorgador. Un Hijo Avonal en una Misión Magisterial, ya sea encarnado o no encarnado, todavía actúa como adjudicador de la era planetaria e inaugura una nueva dispensación. se asocia con los seres invisibles del planeta; simplemente no es visible para los humanos. <a id="a142_384"></a>[[LU 20:2.4](/es/The_Urantia_Book/20#p2_4)] ¿Nos daríamos cuenta si un Avonal llegara en este tipo de misión? Probablemente dependería de si habíamos salido del aislamiento y la población humana había aceptado el concepto de la existencia y supervisión de seres superiores.
 
 **4. Hijos Avonales en Misiones de Otorgamiento—Visible.** En la mayoría de los mundos habitados, el Hijo de Otorgamiento es del orden de los Hijos Avonales del Paraíso. Urantia era diferente; nuestro Hijo de otorgamiento fue el Hijo Creador del Paraíso de nuestro universo local de Nebadon que encarnó como un bebé, nacido de mujer. Si él no hubiera sido nuestro Hijo de otorgamiento, habríamos recibido un Hijo Avonal nacido de un niño varón, de una mujer, y crecido hasta la edad adulta. Los Hijos Avonales de Autootorgamiento trabajan en ocupaciones calificadas, tal como lo hizo Jesús de Nazaret <a id="a144_601"></a>[[LU 20:6.3](/es/The_Urantia_Book/20#p6_3)] Juzgan la dispensación anterior y abren la nueva era. Cuando un Avonal completa su otorgamiento, luego de ascender al Padre, regresa al universo local, y juntos, él y «_el Miguel Creador envían su espíritu conjunto, el Espíritu de la Verdad, al mundo de la donación._» <a id="a144_914"></a>[[LU 52:5.6](/es/The_Urantia_Book/52#p5_6)] La época siguiente se denominó la dispensación del Espíritu de la Verdad por parte de Jesús. <a id="a144_1051"></a>[[LU 179:5.1-2](/es/The_Urantia_Book/179#p5_1)] Nunca recibiremos un Avonal en una Misión de autootorgamiento ya que ya hemos tenido nuestro Hijo de autootorgamiento asignado.
 
@@ -150,7 +150,7 @@ Los Hijos Avonales son creados por el Hijo Eterno y el Espíritu Infinito; y son
 
 Mi agradecimiento a otro lector por encontrar la siguiente cita: «_Cada nuevo logro evolutivo dentro de un sector de la creación, así como cada nueva invasión del espacio por parte de las manifestaciones de la divinidad, van acompañados de ampliaciones simultáneas de la revelación funcional de la Deidad dentro de las unidades entonces existentes y previamente organizadas de toda la creación. Esta nueva invasión del trabajo administrativo de los universos y de las unidades que los componen no siempre puede parecer que se ejecuta de acuerdo exactamente con la técnica esbozada aquí, porque es costumbre enviar por adelantado unos grupos de administradores para que preparen el camino de las eras posteriores y sucesivas del nuevo supercontrol administrativo._» <a id="a150_765"></a>[[LU 56:7.5](/es/The_Urantia_Book/56#p7_5)] Además sugirió que: « _El Libro de Urantia_ es obviamente parte de una preparación planetaria para un gran número de personalidades celestiales que asistirán al Hijo Magisterial cuando comience oficialmente su autootorgamiento. Sin embargo, también creo que es muy posible que él (el Avonal) ya esté aquí y sea parte de una extensa programación de preparación».
 
-Recuerde, los Avonales siempre son asistidos por Melquisedec, pero los Melquisedec _no son_ gobernantes; _son maestros_. Pueden funcionar en cualquier capacidad de forma temporal, y los Melquisedec pueden hacerse visibles, cuando sea necesario. <a id="a152_245"></a>[[LU 50:2.7](/es/The_Urantia_Book/50#p2_7)] Con un Hijo Magisterial y Melquisedec todos visibles, ¡eso impactaría y asombraría a la población!  
+Recuerde, los Avonales siempre son asistidos por Melquisedec, pero los Melquisedec _no son_ gobernantes; _son maestros_. Pueden funcionar en cualquier capacidad de forma temporal, y los Melquisedec pueden hacerse visibles, cuando sea necesario. <a id="a152_245"></a>[[LU 50:2.7](/es/The_Urantia_Book/50#p2_7)] Con un Hijo Magisterial y Melquisedec todos visibles, ¡eso impactaría y asombraría a la población!
 
 ## El Circuito Arcángel
 
@@ -170,13 +170,13 @@ El caso de Gabriel contra Lucifer se colocó en el expediente de la Corte Suprem
 
 El «planeta vecino» descrito en el Documento 72 también está aislado, habiendo perdido tanto a su príncipe planetario como a Adán y Eva debido a la rebelión y el incumplimiento. Nunca han recibido el otorgamiento de un Hijo Magisterial. <a id="a170_237"></a>[[LU 72:0.3](/es/The_Urantia_Book/72#p0_3)] Pero una de las naciones de ese mundo ha hecho mayores progresos en religión, gobierno, vida hogareña, educación y mejora biológica que nuestro mundo. Luego, la declaración, «_Si un Hijo Magistral viniera pronto a esta nación avanzada, es indudable que se podrían producir grandes acontecimientos en este mundo._» <a id="a170_595"></a>[[LU 72:12.2](/es/The_Urantia_Book/72#p12_2)] En el mundo descrito en el Documento 72, solo una nación ha alcanzado el estado civilizado; los demás países aún residen en la penumbra,
 
-En Jerusem, la capital del sistema, hay estaciones de transmisión. Una de las estaciones recibe transmisiones de los mundos que no están en cuarentena, mientras que otra envía transmisiones. <a id="a172_191"></a>[[LU 46:3.1,4](/es/The_Urantia_Book/46#p3_1)] Nos dicen que si «_pudiéramos ser transportados_»... «_hasta un planeta normal  que se encuentre ahora en la era posterior al Hijo donador,_» veríamos que «_disfrutan de todas las ventajas de las transmisiones universales y de los servicios de la reflectividad del superuniverso._» [[LU 52:6.3]( /es/The_Urantia_Book/52#p6_3)]  
+En Jerusem, la capital del sistema, hay estaciones de transmisión. Una de las estaciones recibe transmisiones de los mundos que no están en cuarentena, mientras que otra envía transmisiones. <a id="a172_191"></a>[[LU 46:3.1,4](/es/The_Urantia_Book/46#p3_1)] Nos dicen que si «_pudiéramos ser transportados_»... «_hasta un planeta normal  que se encuentre ahora en la era posterior al Hijo donador,_» veríamos que «_disfrutan de todas las ventajas de las transmisiones universales y de los servicios de la reflectividad del superuniverso._» [[LU 52:6.3]( /es/The_Urantia_Book/52#p6_3)]
 
 Tabamantia, un finalista/agondonter que es el supervisor de Nebadon de los planetas decimales (de los cuales Urantia es uno) <a id="a174_125"></a>[[LU 49:5.5](/es/The_Urantia_Book/49#p5_5)] inspeccionó Urantia hace treinta y siete mil años, y en menos de cien años, Adán y Eva llegaron para «_desenredar los asuntos confusos de un planeta atrasado por la rebelión y que permanecía proscrito por el aislamiento espiritual._» <a id="a174_403"></a>[[LU 73:0.3](/es/The_Urantia_Book/73#p0_3)] Su inspección más reciente se describe, y se alega que ocurrió a principios del siglo XX, como «_advertencias y acusaciones pronunciadas a los diversos jefes de personalidades sobrehumanas». Elogió el trabajo de los Ajustadores del Pensamiento, "_los servidores divinos de los habitantes mortales de este mundo destrozado por los conflictos, acongojado, y afligido por las enfermedades._” <a id="a174_836"></a>[[LU 108:3.6](/es/The_Urantia_Book/108#p3_6)] Quizás su visita acelere la llegada de un Hijo Magisterial.
 
 ## Premisa No. 3: ayudar a la humanidad a alcanzar niveles más altos
 
-**¿Cómo ayudar a acelerar las cosas?**  
+**¿Cómo ayudar a acelerar las cosas?**
 
 1. Estime nuestro nivel de progreso en las dos listas a continuación.
 2. Hacer lo que han hecho todos los asociados de los reveladores anteriores: asumir la responsabilidad de prepararnos como maestros de estas nuevas verdades. Incluso si el nuevo Hijo no llega durante nuestra vida, los beneficios de nuestra preparación se extenderán hacia afuera.
@@ -209,7 +209,7 @@ Tabamantia, un finalista/agondonter que es el supervisor de Nebadon de los plane
 11. Mujeres alcanzando la igualdad de oportunidades
 12. Mejora de la calidad de los modelos a seguir.
 13. Empatía por los extraños: servicio
-14. (Continúa tu lista)  
+14. (Continúa tu lista)
 
 ## Cuando la cultura avanza demasiado rápido
 
@@ -221,7 +221,7 @@ Tabamantia, un finalista/agondonter que es el supervisor de Nebadon de los plane
 
 Folleto disponible: «Cronología: personalidades antirreligiosas, eventos y tendencias, siglos XVII-XXI».
 
-> Carolyn Kendall se ha jubilado de una variada carrera en oficinas educativas y profesionales. Todavía activa en la Primera Sociedad Urantia (Chicago), ha servido a la comunidad Urantia como miembro de cuatro comités diferentes, miembro y vicepresidenta del Consejo General y como fideicomisaria asociada de la Fundación Urantia (2002-2005). Ella y su difunto esposo, Tom Kendall, tienen cinco hijos y siete nietos.  
+> Carolyn Kendall se ha jubilado de una variada carrera en oficinas educativas y profesionales. Todavía activa en la Primera Sociedad Urantia (Chicago), ha servido a la comunidad Urantia como miembro de cuatro comités diferentes, miembro y vicepresidenta del Consejo General y como fideicomisaria asociada de la Fundación Urantia (2002-2005). Ella y su difunto esposo, Tom Kendall, tienen cinco hijos y siete nietos.
 {.is-info}
 
 ## Referencias

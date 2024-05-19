@@ -34,7 +34,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-_Lo siguiente fue presentado como un taller en la Sesión de Estudio de Verano 2007 en la Universidad Dominicana, River Forest, IL_  
+_Lo siguiente fue presentado como un taller en la Sesión de Estudio de Verano 2007 en la Universidad Dominicana, River Forest, IL_
 
 ¿Qué es la moralidad? Es el acto de elegir cómo debemos comportarnos en la sociedad, en nuestra comunidad y las influencias de nuestro propio comportamiento personal. Implica tomar decisiones que sean mejores para el individuo y para el avance del todo.
 
@@ -42,13 +42,13 @@ Según James Q. Wilson, «Determinar qué comportamiento es inaceptable es compe
 
 La moralidad cósmica determina los fines supremos de la vida y ejerce la fe en un compromiso con estos fines. Puede fusionarse con la ética y la religión para convertirse en valores altruistas. Es mi esperanza que como humanidad colectiva podamos participar responsablemente en la transformación del futuro.
 
-Mientras estudia algunos períodos de tiempo en la civilización, puede descubrir un patrón de progreso o estancamiento: dónde estamos hoy y dónde nos gustaría estar para lograr el orden moral en este mundo. Las civilizaciones no son cósmicas, van y vienen; pero la ciencia, la moralidad y la religión siempre sobreviven al choque.  
+Mientras estudia algunos períodos de tiempo en la civilización, puede descubrir un patrón de progreso o estancamiento: dónde estamos hoy y dónde nos gustaría estar para lograr el orden moral en este mundo. Las civilizaciones no son cósmicas, van y vienen; pero la ciencia, la moralidad y la religión siempre sobreviven al choque.
 
 ## En el pasado
 
 Los babilonios tenían documentos que mostraban preceptos que pueden remontarse a un período entre 1800 y 1000 a. Se llaman Consejos de Sabiduría.[^2] Los escritos eran muy similares a los de los escritores hebreos: llamados al perdón, confesiones de pecado, súplicas de la ignorancia humana universal, actos divinos retributivos y actos de purificación, así como sacrificios. ofrendas Todas las religiones tienen alguna codificación moral.
 
-Debido a que Israel fue la encrucijada del mundo antiguo, durante muchas generaciones su sabiduría se hizo internacional. Con el tiempo, sus sabios y sacerdotes tomaron prestado material de su entorno cultural, influenciados por diferentes corrientes de pensamiento, así como por observar y discernir entre las consecuencias naturales y la naturaleza humana. Esto dio como resultado una comprensión del comportamiento, estudiando la causa y el efecto, mientras buscaba siempre una comprensión del orden divino de la creación. Otro punto de vista fue descubrir la sabiduría a través del sufrimiento, la angustia y la reflexión. Este razonamiento fue heredado de los griegos, egipcios y babilonios, que somos ciudadanos del mundo y las necesidades de todos son fundamentalmente las mismas, independientemente de las culturas que se dividen y entran en conflicto. A través de años de experiencia, su amor por la sabiduría ayudó a desarrollar un código moral para una forma de vida.  
+Debido a que Israel fue la encrucijada del mundo antiguo, durante muchas generaciones su sabiduría se hizo internacional. Con el tiempo, sus sabios y sacerdotes tomaron prestado material de su entorno cultural, influenciados por diferentes corrientes de pensamiento, así como por observar y discernir entre las consecuencias naturales y la naturaleza humana. Esto dio como resultado una comprensión del comportamiento, estudiando la causa y el efecto, mientras buscaba siempre una comprensión del orden divino de la creación. Otro punto de vista fue descubrir la sabiduría a través del sufrimiento, la angustia y la reflexión. Este razonamiento fue heredado de los griegos, egipcios y babilonios, que somos ciudadanos del mundo y las necesidades de todos son fundamentalmente las mismas, independientemente de las culturas que se dividen y entran en conflicto. A través de años de experiencia, su amor por la sabiduría ayudó a desarrollar un código moral para una forma de vida.
 
 ## El antiguo Testamento
 
@@ -56,7 +56,7 @@ Al pueblo judío se le dio un conjunto de leyes de conducta correcta para gobern
 
 Hay dos tipos de leyes en el Pentatuch (los primeros cinco libros de las escrituras hebreas): condicionales y absolutas. Las leyes condicionales incluyen actos y consecuencias; las leyes incondicionales no significaban «si, y» o «pero». «Israel no podía pretender ser mejor que otras naciones, ya sea moral o religiosamente, porque el pueblo mostró la misma debilidad y fortaleza que se encuentran en la vida de cualquier pueblo. Fue con la convicción de que Yahvé, su líder, iba delante de ellos que el pueblo afrontó el futuro.»[^3]
 
-Los primeros cuatro mandamientos presentan una norma moral sobre cómo comportarse personalmente con Dios. Las otras seis son leyes morales sociales que se ocupan de la relación del hombre con otros hombres. Sin estas leyes morales para la conducta del hombre, éste estaría ética y espiritualmente perdido. Los códigos penales no enseñan el amor verdadero ni la caridad.  
+Los primeros cuatro mandamientos presentan una norma moral sobre cómo comportarse personalmente con Dios. Las otras seis son leyes morales sociales que se ocupan de la relación del hombre con otros hombres. Sin estas leyes morales para la conducta del hombre, éste estaría ética y espiritualmente perdido. Los códigos penales no enseñan el amor verdadero ni la caridad.
 
 ## Cristiandad
 
@@ -72,7 +72,7 @@ El amor cristiano, «ágape», es el fundamento ético de la moralidad. Tomás d
 
 ¿Podemos tener valores morales sin religión? ¿Podemos ser buenos sin Dios? ¿Existe la libertad sin moralidad?
 
-> La moralidad no es necesariamente espiritual; puede ser total y puramente humana, aunque la auténtica religión realza todos los valores morales, los hace más significativos. La moralidad sin religión no logra revelar la bondad última y tampoco consigue asegurar la supervivencia de ni siquiera sus propios valores morales. La religión asegura el engrandecimiento, la glorificación y la supervivencia indudable de todo lo que la moralidad reconoce y aprueba. <a id="a74_460"></a>[[LU 196:3.27](/es/The_Urantia_Book/196#p3_27)]  
+> La moralidad no es necesariamente espiritual; puede ser total y puramente humana, aunque la auténtica religión realza todos los valores morales, los hace más significativos. La moralidad sin religión no logra revelar la bondad última y tampoco consigue asegurar la supervivencia de ni siquiera sus propios valores morales. La religión asegura el engrandecimiento, la glorificación y la supervivencia indudable de todo lo que la moralidad reconoce y aprueba. <a id="a74_460"></a>[[LU 196:3.27](/es/The_Urantia_Book/196#p3_27)]
 
 ## El presente
 
@@ -88,7 +88,7 @@ El secularismo (humanismo) cuestiona la autoridad moral y la verdad absoluta de 
 
 Dostoyevsky dijo: «Si no hay Dios, entonces todo está permitido».
 
-¿Qué valores morales pueden ser aceptados por todas las religiones? ¿Podemos empezar por tratar a todos los seres humanos con dignidad y respeto y tener en cuenta los intereses de toda la comunidad? ¿No somos todos interdependientes?  
+¿Qué valores morales pueden ser aceptados por todas las religiones? ¿Podemos empezar por tratar a todos los seres humanos con dignidad y respeto y tener en cuenta los intereses de toda la comunidad? ¿No somos todos interdependientes?
 
 ## Familia
 
@@ -114,7 +114,7 @@ En la página 1255 <a id="a112_18"></a>[[LU 114:6.7](/es/The_Urantia_Book/114#p6
 
 _A través de todas las vicisitudes históricas de la religión, siempre sobrevive aquello que es indispensable para el progreso y la supervivencia humanos: la conciencia ética y el conocimiento moral. La perspicacia de la fe, o intuición espiritual, es la dotación de la mente cósmica en asociación con el Ajustador del Pensamiento... el Espíritu Santo... [y] el Espíritu de la Verdad._ <a id="a114_385"></a>[[LU 101:3.1-2](/es/The_Urantia_Book/101#p3_1)]
 
-Esta combinación constituye al hombre en una personalidad espiritual en potencia.  
+Esta combinación constituye al hombre en una personalidad espiritual en potencia.
 
 ## Ciudadanía Cósmica
 
@@ -128,7 +128,7 @@ En los documentos del Ajustador, _El Libro de Urantia_ describe cómo podemos lo
 
 Estas decisiones están en nuestras manos. Las elecciones que hacemos nos llevan a transformarnos a nosotros mismos, a nuestra sociedad, a nuestro planeta. ¿Necesitamos una nueva forma de amar, de servir, de ser amables, de tener paz? ¿No se han sentado las bases durante miles de años? La conciencia del planeta es transformada por todos y cada uno cuando nos vemos a nosotros mismos y nos tratamos como lo haría Dios. Nuestro pasado está lleno de historias morales que nos enseñan a ser más civilizados, portadores de verdades y esperanza para nuestro futuro. La conciencia espiritual del planeta renacerá a medida que renacen los individuos.
 
-¿Tenemos un pie en nuestros orígenes tribales y un pie tanteando en la oscuridad, reflejando una realidad parcial? Hay en nosotros la búsqueda interminable hacia la perfección, pero algunos en la sociedad optan por ver los pasos evolutivos imperfectos, inconclusos y dados, creyendo que la humanidad está retrocediendo. No es tan. Toda la humanidad no ha perdido su alma. Juntos avanzaremos hacia nuestro destino planetario, más temprano que tarde.  
+¿Tenemos un pie en nuestros orígenes tribales y un pie tanteando en la oscuridad, reflejando una realidad parcial? Hay en nosotros la búsqueda interminable hacia la perfección, pero algunos en la sociedad optan por ver los pasos evolutivos imperfectos, inconclusos y dados, creyendo que la humanidad está retrocediendo. No es tan. Toda la humanidad no ha perdido su alma. Juntos avanzaremos hacia nuestro destino planetario, más temprano que tarde.
 
 > Doreen Heyne se jubiló después de 33 años de servir al público con un negocio minorista. Durante parte de ese tiempo, se desempeñó como presidenta de un instituto espiritual antes de comprometerse con el servicio de la Fraternidad. Fue miembro del Comité de Divulgación antes de que se le ofreciera la oportunidad de servir a la Comunidad como Secretaria General; y después de seis años en esa capacidad, actualmente es Tesorera de la Fraternidad.
 {.is-info}
@@ -170,4 +170,4 @@ Estas decisiones están en nuestras manos. Las elecciones que hacemos nos llevan
 
 [^3]: D. Winton Thomas, Editor, _Documentos del Antiguo Testamento Times_, (Nueva York, Harper Torchbooks, 1961) 104 - 108.
 
-[^4]: John F. Wilson y Donald L. Drakeman, _Church and State in American History_, (Nueva York: MJF Books, 2003) 269,  
+[^4]: John F. Wilson y Donald L. Drakeman, _Church and State in American History_, (Nueva York: MJF Books, 2003) 269,

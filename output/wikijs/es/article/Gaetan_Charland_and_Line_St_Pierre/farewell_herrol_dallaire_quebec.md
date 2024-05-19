@@ -27,7 +27,7 @@ No sabíamos mucho de la vida privada de Herrol, solo que su esposa murió hace 
 
 Muchos de nosotros le echaremos de menos, pues era un servidor incansable en quien siempre se podía confiar en que entregaría el trabajo que se le había dado.
 
-En espíritu de hermandad.  
+En espíritu de hermandad.
 Gaétan Charland y Line St-Pierre
 <br style="clear:both;"/>
 

@@ -33,7 +33,7 @@ Nos gusta compartir con todos, sean religiosos o no (científicos, filósofos, i
 
 Debería haber más ferias ANTIFIL, donde la búsqueda de conocimiento nos permita descubrir y explorar nuestra realidad, a nuestros semejantes y al Padre Universal.
 
-Cecilia Barreto  
+Cecilia Barreto
 Vicepresidenta de Urantia Perú
 
 <br style="clear:both;"/>

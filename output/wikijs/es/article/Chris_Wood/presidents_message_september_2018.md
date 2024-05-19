@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Una de las muchas razones por las que me encanta _El libro de Urantia_ y lo releo constantemente es porque utiliza palabras que creo que entiendo, pero luego en un párrafo cualquiera de una página cualquiera define una palabra común de una manera nada común y entonces necesito volver a leerlo todo con esta nueva definición en mente.
 
-Un ejemplo reciente es «personalidad»: en un libro en el que la supervivencia de la personalidad es uno de los puntos principales de la trama, creo que debería saber qué es la personalidad. Doy vueltas tan feliz con mi vocabulario limitado y pienso que la «personalidad» se definiría como… ¿qué? ¿El carácter distintivo de una persona, quizás? Un Mensajero Solitario nos dice que:
+Un ejemplo reciente es «personalidad»: en un libro en el que la supervivencia de la personalidad es uno de los puntos principales de la trama, creo que debería saber qué es la personalidad. Doy vueltas tan feliz con mi vocabulario limitado y pienso que la «personalidad» se definiría como… ¿qué? ¿El carácter distintivo de una persona, quizás? Un Mensajero Solitario nos dice que:
 
 <br style="clear:both;"/>
 
@@ -36,11 +36,11 @@ Un Melquisedec nos dice que:
 
 La traición a la confianza y la deslealtad a los amigos destruye nuestra voluntad moral.
 
-Las redes sociales pueden ser una herramienta poderosa para compartir el estudio creciente que hacemos de estas enseñanzas. Invito a todos los que participen en esos sitios que compartan definiciones interesantes que puedan llevarnos a releer el libro dentro de un nuevo marco de referencia, así como a que se unan a mí en mis estudios de la «personalidad/voluntad moral»
+Las redes sociales pueden ser una herramienta poderosa para compartir el estudio creciente que hacemos de estas enseñanzas. Invito a todos los que participen en esos sitios que compartan definiciones interesantes que puedan llevarnos a releer el libro dentro de un nuevo marco de referencia, así como a que se unan a mí en mis estudios de la «personalidad/voluntad moral»
 
 Vuelve a ser el momento de elegir a nuevos representantes para la Junta Internacional de Servicio. La junta saliente representa a estudiantes de Urantia de ocho países de cinco continentes. Espero que ustedes y su comunidad Urantia local aporten algunos miembros voluntarios para servir en la próxima junta que se reunirá en abril de 2019. Celebraremos elecciones para los puestos de vicepresidente y secretario, así como para los presidentes de los comités de Diseminación, Grupos de Estudio y Comunicaciones. También se elegirá a un nuevo comisario judicial. ¿Se unirán a nosotros en el servicio mundial?
 
-Espero conocer a tantos estudiantes como me sea posible en noviembre en la próxima conferencia de São Paulo (Brasil). Espero que ustedes puedan venir también.
+Espero conocer a tantos estudiantes como me sea posible en noviembre en la próxima conferencia de São Paulo (Brasil). Espero que ustedes puedan venir también.
 
 ## Referencias
 

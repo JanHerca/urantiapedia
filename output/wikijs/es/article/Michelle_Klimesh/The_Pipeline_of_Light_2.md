@@ -46,7 +46,7 @@ Pipeline fue la respuesta de la Fellowship a una necesidad que personas de Eston
 
 Se llamó The Pipeline of Light (Tubería de Luz) porque una tubería puede llevar recursos esenciales a los que los necesitan. La idea era mantenerla siempre llena para que pudiera fluir continuamente y bendecir a todos los que anhelaban sinceramente lo que contenía.
 
-En el primer trimestre de 2018 los voluntarios de Pipeline of Light colocaron 456 ejemplares de _El libro de Urantia_ en siete países. Con la ayuda incondicional de la Fundación Urantia, las donaciones al Pipeline ayudaron a entregar libros a lectores de grupos de estudio de Argentina, México, Venezuela, Estados Unidos, Perú, Australia y Colombia.  
+En el primer trimestre de 2018 los voluntarios de Pipeline of Light colocaron 456 ejemplares de _El libro de Urantia_ en siete países. Con la ayuda incondicional de la Fundación Urantia, las donaciones al Pipeline ayudaron a entregar libros a lectores de grupos de estudio de Argentina, México, Venezuela, Estados Unidos, Perú, Australia y Colombia.
 
 Los libros enviados este trimestre son cuatrocientos veintiocho libros en español y veintiocho libros en inglés. En América Latina aumentó el flujo de libros debido a la reunión de lectores de Mérida, la colorida capital del estado mexicano de Yucatán.
 

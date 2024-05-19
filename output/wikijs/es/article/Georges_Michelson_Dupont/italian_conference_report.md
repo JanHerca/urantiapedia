@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 La primera reunión de lectores italianos de _El libro de Urantia_ tuvo lugar en Verona, la bella e histórica ciudad de Romeo y Julieta.
 
-Danielle La Scala, que organizó la reunión, residió anteriormente en Francia y Suiza. La reunión se celebró del viernes 28 de agosto al domingo 30 de agosto. De los ochos italianos que comunicaron que asistirían al encuentro, solo tres estuvieron presentes durante toda la reunión. Memo Z., el traductor jefe de la traducción al italiano, estuvo el sábado y el domingo, y una persona vino solo el sábado por la tarde. Además de Danielle, mi esposa Marlène y yo, asistió Antonio Schefer de los Países Bajos en representación de la Asociación Urantia Internacional. Un hombre suizo de Lausana también estuvo presente, así como tres lectores franceses, una mujer y dos hombres, de Marsella (Francia).
+Danielle La Scala, que organizó la reunión, residió anteriormente en Francia y Suiza. La reunión se celebró del viernes 28 de agosto al domingo 30 de agosto. De los ochos italianos que comunicaron que asistirían al encuentro, solo tres estuvieron presentes durante toda la reunión. Memo Z., el traductor jefe de la traducción al italiano, estuvo el sábado y el domingo, y una persona vino solo el sábado por la tarde. Además de Danielle, mi esposa Marlène y yo, asistió Antonio Schefer de los Países Bajos en representación de la Asociación Urantia Internacional. Un hombre suizo de Lausana también estuvo presente, así como tres lectores franceses, una mujer y dos hombres, de Marsella (Francia).
 
 El viernes por la noche estuvo dedicado a socializar y a disfrutar de una buena comida en el hotel.
 
@@ -36,7 +36,7 @@ El sábado por la tarde, después del almuerzo, nos reunimos de nuevo en la mism
 
 Terminamos con una oración silenciosa.
 
-Esa noche se organizó una breve visita a Verona. Tras la visita, tuvimos una cena deliciosa con mucha camaradería. Todos los italianos hablaban algo de francés, lo que facilitó la comunicación y realzó el espíritu sociable de la noche. Tratamos sobre 1) planes para encuentros futuros, 2) la formación de grupos de estudio en Italia y 3) maneras de encontrar a otros lectores italianos. Dos de los participantes italianos expresaron el deseo de participar en el seminario de seis días del próximo verano en Recloses (Francia).
+Esa noche se organizó una breve visita a Verona. Tras la visita, tuvimos una cena deliciosa con mucha camaradería. Todos los italianos hablaban algo de francés, lo que facilitó la comunicación y realzó el espíritu sociable de la noche. Tratamos sobre 1) planes para encuentros futuros, 2) la formación de grupos de estudio en Italia y 3) maneras de encontrar a otros lectores italianos. Dos de los participantes italianos expresaron el deseo de participar en el seminario de seis días del próximo verano en Recloses (Francia).
 
 Dedicamos la primera parte del domingo por la mañana a estudiar la espiritualización de la mente. Leímos y conversamos sobre el párrafo 7, sección 3 del Documento 1:
 
@@ -44,7 +44,7 @@ Dedicamos la primera parte del domingo por la mañana a estudiar la espiritualiz
 
 Hubo una conversación de dos horas sobre el significado de los «ajustes de la voluntad humana y aquellas transformaciones en la mente mortal» que se describen en este párrafo. Una vez más, se aclararon ideas y se examinaron las consecuencias en la vida humana cotidiana.
 
-Después de las once, fue el momento de hacer las maletas y de prepararnos para almorzar en un agradable y típico restaurante italiano con muchos _frutti di mare_ y mucha pasta.
+Después de las once, fue el momento de hacer las maletas y de prepararnos para almorzar en un agradable y típico restaurante italiano con muchos _frutti di mare_ y mucha pasta.
 
 Los resultados de este encuentro parecen muy positivos y prometedores. Dos de los tres italianos son lectores entregados y quieren ser más activos en la creación de grupos de estudio, de preparar otros encuentros y de fomentar el interés por _El libro de Urantia_ entre los italianos. Memo Z. quiere retirarse de su puesto como persona de contacto. Danielle se ofreció para ocupar su puesto.
 

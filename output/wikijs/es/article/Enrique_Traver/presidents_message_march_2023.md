@@ -45,9 +45,9 @@ Así que ¡el libro está ahí! ¿Y nosotros? ¿Estamos preparados? ¿Se acerca 
 
 (Vosotros) que habéis dedicado (vuestra) vida al servicio del libro y de la Hermandad poco podéis daros cuenta de la importancia de (vuestras) acciones. Sin duda viviréis y moriréis sin daros cuenta de que estáis participando en el nacimiento de una nueva era religiosa en este mundo.
 
-Tenemos que estar listos; tenemos que estar preparados.  _Debemos hacer lo que mejor sabemos hacer_: ayudar a otros a conectar con Dios compartiendo las enseñanzas de _El libro de Urantia_.
+Tenemos que estar listos; tenemos que estar preparados.  _Debemos hacer lo que mejor sabemos hacer_: ayudar a otros a conectar con Dios compartiendo las enseñanzas de _El libro de Urantia_.
 
-Estar preparados, algo importante que conseguir en estos tiempos turbulentos, es lograr la armonía y crear un lugar seguro para las almas que buscan a Dios.  **La armonía requiere UNIDAD, un punto de convergencia libre de conflictos**.
+Estar preparados, algo importante que conseguir en estos tiempos turbulentos, es lograr la armonía y crear un lugar seguro para las almas que buscan a Dios.  **La armonía requiere UNIDAD, un punto de convergencia libre de conflictos**.
 
 La unidad y la armonía son dos cosas que la gente de todo el mundo ha sido incapaz de alcanzar a lo largo de las actuales batallas ideológicas. En este escenario, la forma más eficaz de que converjan las ideas es a través de Dios; es amor y es un lugar donde todos podemos hablar el mismo idioma y sentir el mismo consuelo. Un lugar donde podemos sentirnos como UNO.
 

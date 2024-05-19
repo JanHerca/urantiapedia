@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 **Saturday 29 August, 2015**
 
-Bussolengo (Verona), Italy
+Bussolengo (Verona), Italy
 
 Theme: _Discover The Urantia Book_
 
@@ -55,11 +55,11 @@ The meeting will take place in Bussolengo, Italy, on 29 August, 2015, from 9.00a
 <img src="/image/article/IUA_Tidings/152-150x150.jpg">
 </figure>
 
-We are pleased that readers from France will be attending as well as Urantia Foundation Trustee, George Michelson-Dupont and the Chair of Urantia Association International’s Conference Committee, Antonio Schefer. This meeting welcomes anyone who wishes to discover _The Urantia Book_ and to meet representatives of the organizations who work to produce and translate the book as well as to foster the study and spreading of its teachings.
+We are pleased that readers from France will be attending as well as Urantia Foundation Trustee, George Michelson-Dupont and the Chair of Urantia Association International’s Conference Committee, Antonio Schefer. This meeting welcomes anyone who wishes to discover _The Urantia Book_ and to meet representatives of the organizations who work to produce and translate the book as well as to foster the study and spreading of its teachings.
 
 For accommodation, registration, program and pricing information [click here](http://urantia-association.org/national-events-italyinfo2015/)
 
-To get other information please contact me at [danielle.lascala@yahoo.it](mailto:danielle.lascala@yahoo.it)
+To get other information please contact me at [danielle.lascala@yahoo.it](mailto:danielle.lascala@yahoo.it)
 
 
 <br style="clear:both;"/>

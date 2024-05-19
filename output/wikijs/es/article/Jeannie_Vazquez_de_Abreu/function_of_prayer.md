@@ -83,7 +83,7 @@ La oración, entonces, es una actividad necesaria para experimentar la presencia
 
 Las características de la oración esclarecida y eficaz enseñada en _El libro de Urantia_ son:
 
-_Creyente:_ debemos reconocer la presencia de Dios, en el Paraíso y en nosotros mismos.
+_Creyente:_ debemos reconocer la presencia de Dios, en el Paraíso y en nosotros mismos.
 
 _Ética, altruista:_ no debemos buscar ventajas egoístas sobre nuestros semejantes.
 
@@ -93,7 +93,7 @@ _Sincera:_ la sinceridad de nuestra oración asegura que será escuchada; la sab
 
 _Con fe:_ al orar, busquemos fuerzas y orientación para actuar, mejorando nuestra técnica del vivir.
 
-_Inteligente:_ a la luz de los hechos científicos, la sabiduría filosófica, la sinceridad intelectual y la fe espiritual.
+_Inteligente:_ a la luz de los hechos científicos, la sabiduría filosófica, la sinceridad intelectual y la fe espiritual.
 
 _Persistente:_ Jesús dijo:
 

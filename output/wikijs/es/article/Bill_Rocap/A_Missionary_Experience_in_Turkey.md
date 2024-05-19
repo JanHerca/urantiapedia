@@ -40,7 +40,7 @@ A mediados de noviembre de 2006, pasé dos semanas viviendo con una familia en e
 
 Como tuve la suerte de conocer y hablar con más personas, comencé a descubrir un rostro público y un rostro privado para estas personas. Públicamente, tienen un profundo respeto por Alá, su religión, mezquita y comportamiento ético, pero en privado, estaban más cerca de los «católicos de cafetería». Parece que muchos de los turcos modernizados u occidentalizados muestran un profundo respeto por el Islam, pero se las arreglan para elegir en privado qué creer. ¡Y el cambio está en marcha! A partir de mis encuentros en línea, especialmente con mujeres, descubrí que están muy por delante del ámbito cultural en el que viven y presionan pacientemente las palancas del cambio. Me hice amigo de una mujer de Ankara, la capital de Turquía, que me contó esta reveladora historia:
 
-«Soy libre de conducir un automóvil ahora... Bueno, debería hacerlo ya que soy enfermera, instructora de enfermería y educadora, y he viajado durante mi carrera más extensamente que mi esposo. ¿Pero puedes creerlo? El amigo de mi esposo necesitaba un auto por un tiempo. Ahora este hombre trabaja en la universidad donde estoy. Mi marido le da mi coche. Él maneja mi auto y lo veo estacionado allí todos los días, mientras yo tomo el autobús (no sería correcto que yo maneje con otro hombre, uf). Debo esperar hasta que este amigo decida devolverlo... hombres machos en esta cultura islámica».  
+«Soy libre de conducir un automóvil ahora... Bueno, debería hacerlo ya que soy enfermera, instructora de enfermería y educadora, y he viajado durante mi carrera más extensamente que mi esposo. ¿Pero puedes creerlo? El amigo de mi esposo necesitaba un auto por un tiempo. Ahora este hombre trabaja en la universidad donde estoy. Mi marido le da mi coche. Él maneja mi auto y lo veo estacionado allí todos los días, mientras yo tomo el autobús (no sería correcto que yo maneje con otro hombre, uf). Debo esperar hasta que este amigo decida devolverlo... hombres machos en esta cultura islámica».
 
 Y es divertido caminar por las calles en el sur de Turquía y ver a siete mujeres completamente cubiertas de negro, luego doblar una esquina y ver a siete chicas adolescentes en camisetas sin mangas con el estómago descubierto, escuchando reproductores de MP3 y cargando teléfonos celulares. Las mujeres están liderando el camino de muchas maneras.
 
@@ -58,7 +58,7 @@ Aquí hay algunas ideas que he usado en mi mensaje interreligioso (aunque expres
 4. La vida es más rica si buscamos la unidad en el Espíritu y no la uniformidad en las creencias.
 5. Es mejor que celebremos lo mejor de la religión de nuestro prójimo en lugar de menospreciar lo peor (todos los grupos religiosos tienen problemas).
 6. La verdadera y esencial «buena nueva» del cristianismo y de Jesús es que somos hijos de un Dios amoroso; que somos profundamente amados por Él y eso significa que todos los que conocemos en la vida son realmente un hermano o una hermana.
-7. La mayoría de nosotros hemos experimentado el poder del AMOR, y hasta cierto punto creemos que el amor tiene una fuente divina, Dios. Creo que cuanto más conozcamos y entendamos a nuestro prójimo, percibamos sus motivaciones, más podremos amarlo: ama a Dios primero y a tu prójimo como a ti mismo.  
+7. La mayoría de nosotros hemos experimentado el poder del AMOR, y hasta cierto punto creemos que el amor tiene una fuente divina, Dios. Creo que cuanto más conozcamos y entendamos a nuestro prójimo, percibamos sus motivaciones, más podremos amarlo: ama a Dios primero y a tu prójimo como a ti mismo.
 
 Sentí por muchas conversaciones que estos musulmanes resentían levemente la obsesión cristiana con Jesús. Alinear nuestra religión con tal enfoque en Jesús, en oposición al mensaje del único y verdadero creador, Alá, no era apropiado para ellos. Esta es una de las repercusiones persistentes del cristianismo paulino, supongo. Les recordé que algunos cristianos piensan que los musulmanes están igualmente obsesionados con Mahoma, por lo que generalmente nos reímos de nuestras obsesiones.
 
@@ -80,9 +80,9 @@ Desde mi regreso, he hablado con mis amigos en Turquía todas las semanas. Bulan
 
 Bulane dijo: «Gracias por todo. Ahora entiendo por qué Allah me trajo a ti. Yo creo que no hay coincidencia. Todo tiene un mensaje o un significado. Quiero decir, nos conocimos, nos entendemos, y comencé a leer _El Libro de Urantia_ y algo está cambiando. Dije: «Sí, y las amistades son una bendición de Allah».
 
-Estoy nadando en reflexiones no expresadas de esta experiencia. Sigo profundamente agradecido a mis amigos turcos por su apertura y amor y también a mis amigos aquí en los Estados Unidos, quienes ayudaron a hacer posible la experiencia. Por supuesto, me están pidiendo que vuelva este año.  
+Estoy nadando en reflexiones no expresadas de esta experiencia. Sigo profundamente agradecido a mis amigos turcos por su apertura y amor y también a mis amigos aquí en los Estados Unidos, quienes ayudaron a hacer posible la experiencia. Por supuesto, me están pidiendo que vuelva este año.
 
-> Bill Rocap es lector desde hace mucho tiempo y miembro de la Asociación de lectores de _El Libro de Urantia_ de Connecticut. Además de servir como oficial de la sociedad, también es muy activo en su iglesia; y ha servido en el Consejo General de _The Urantia Book_ Fellowship.  
+> Bill Rocap es lector desde hace mucho tiempo y miembro de la Asociación de lectores de _El Libro de Urantia_ de Connecticut. Además de servir como oficial de la sociedad, también es muy activo en su iglesia; y ha servido en el Consejo General de _The Urantia Book_ Fellowship.
 {.is-info}
 
 ## Referencias

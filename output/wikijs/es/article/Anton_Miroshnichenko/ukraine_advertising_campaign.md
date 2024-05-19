@@ -40,8 +40,8 @@ El número total de Libros de Urantia vendidos en Ucrania desde 2014 hasta la fe
 
 En nombre de los miembros de la Asociación Urantia de Ucrania, quiero dar las gracias a todos los donantes de la Asociación Urantia que han hecho posible este proyecto. Planeamos repetir esta campaña publicitaria en el futuro.
 
-Anton Miroshnichenko  
-Presidente  
+Anton Miroshnichenko
+Presidente
 Asociación Urantia de Ucrania
 <br style="clear:both;"/>
 

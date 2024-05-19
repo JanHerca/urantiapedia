@@ -48,10 +48,10 @@ Vivir en el error significa no beneficiarse de las dádivas que el Padre otorga 
 
 Hay que considerar que cuando nos introducimos en el agua cristalina, sucios del barro de los errores, seguramente ensuciaremos las aguas limpias y nunca terminemos de limpiarnos. No es fácil limpiarse de ese lodo, cuesta limpiarse antes de bañarte limpio de fango en la piscina transparente. Salir de nuestros errores es difícil de reconocer, porque hemos vivido durante un tiempo más o menos largo en la confusión, entre conflictos y ese modo de vida que se ha acomodado a vivir con nosotros. Es así y es algo establecido en nuestra vida. Es muy importante ir cambiando poco a poco el modo de pensar, la forma de expresarnos y las acciones de nuestro diario vivir.
 
-> Cuida tus pensamientos, porque se convertirán en tus palabras.  
-> Cuida tus palabras, porque se convertirán en tus actos.  
-> Cuida tus actos, porque se convertirán en tus hábitos.  
-> Cuida tus hábitos, porque se convertirán en tu destino.  
+> Cuida tus pensamientos, porque se convertirán en tus palabras.
+> Cuida tus palabras, porque se convertirán en tus actos.
+> Cuida tus actos, porque se convertirán en tus hábitos.
+> Cuida tus hábitos, porque se convertirán en tu destino.
 > (M. Gandhi)
 
 Si a esto le sumamos nuestra fuerza de voluntad, al ego que ha nacido de todas las experiencias vividas con anterioridad le quedan los días contados. Él va a tratar de convencernos una vez más de que no es difícil salir de esos errores, va a intentar disuadirnos de que sí se puede salir por nuestros propios medios de las faltas, los traspiés, los desaciertos, etc., y lo va a intentar hacer como siempre: planteándonos salidas de fácil autoconvencimiento, pero siempre falsas.

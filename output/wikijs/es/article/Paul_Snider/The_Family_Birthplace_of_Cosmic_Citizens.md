@@ -32,7 +32,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 
 
-(Discurso plenario presentado en la Conferencia Internacional de la Fraternidad, agosto de 1999, Vancouver, Columbia Británica).  
+(Discurso plenario presentado en la Conferencia Internacional de la Fraternidad, agosto de 1999, Vancouver, Columbia Británica).
 
 Saludo al Dios dentro de ti.
 
@@ -88,7 +88,7 @@ Entonces no llamábamos a esto ciudadanía cósmica, pero en retrospectiva es de
 
 Vivimos cada vez más de nuestro ser dentro del Ser Supremo[^19]: la Madre Dios en evolución[^20], el Dios finito[^21], el Dios del tiempo y el espacio[^22], el Dios de la experiencia[ ^ 23]. Sólo podemos acercarnos al Supremo por medio de la experiencia[^24]. Tenemos que hacer algo[^25]. No podemos evolucionar sin el Supremo. El Supremo probablemente no pueda evolucionar sin nosotros[^26]. Por lo tanto, tenemos un deber con el Supremo[^27]. Nuestro deber es ayudar a construir niveles dinámicos de espiritualidad basada en la experiencia en la inmanencia del Supremo[^28]. Este es un gran trabajo. Involucra a todo el gran universo[^29]. Tenemos que trabajar juntos para hacer nuestra pequeña, pequeña, pequeña e irremplazable parte[^30].
 
-¿Donde empezamos? ¿Cómo empezamos? Voy a sugerir ocho tipos de acción, ocho modos de vivir, que repercuten en el Supremo, que no sólo nos ayudan a nosotros a evolucionar, sino que también ayudan a que el Supremo evolucione. Hay muchas, muchas más cosas que podemos hacer además de estas ocho ideas, pero estas ocho son ilustrativas de cómo podemos proceder como individuos. Ni siquiera intentaré sugerir cómo podemos proceder como grupos. Pero como individuos, este es el tipo de cosas que comienzan a construir una base duradera para la ciudadanía cósmica. En detalle más extenso, este fue el tipo de cosas que discutimos a lo largo de los años alrededor de la mesa.  
+¿Donde empezamos? ¿Cómo empezamos? Voy a sugerir ocho tipos de acción, ocho modos de vivir, que repercuten en el Supremo, que no sólo nos ayudan a nosotros a evolucionar, sino que también ayudan a que el Supremo evolucione. Hay muchas, muchas más cosas que podemos hacer además de estas ocho ideas, pero estas ocho son ilustrativas de cómo podemos proceder como individuos. Ni siquiera intentaré sugerir cómo podemos proceder como grupos. Pero como individuos, este es el tipo de cosas que comienzan a construir una base duradera para la ciudadanía cósmica. En detalle más extenso, este fue el tipo de cosas que discutimos a lo largo de los años alrededor de la mesa.
 
 ## La primera acción es mantenerse enfocado
 
@@ -120,13 +120,13 @@ Fox dijo: «Sentémonos y oremos juntos por eso».
 
 Rezaron juntos durante un buen rato. Entonces, finalmente, Fox miró hacia arriba y dijo: «Mientras puedas».
 
-Creo que esta historia revela la actitud de Dios hacia nosotros. Avanza con todo tu ser. No sigas mirando hacia atrás al equipaje que dejaste atrás. Lleva tu espada todo el tiempo que puedas. Pero cuando lo dejes, cuando ya no seas tú, déjalo para siempre.  
+Creo que esta historia revela la actitud de Dios hacia nosotros. Avanza con todo tu ser. No sigas mirando hacia atrás al equipaje que dejaste atrás. Lleva tu espada todo el tiempo que puedas. Pero cuando lo dejes, cuando ya no seas tú, déjalo para siempre.
 
 ## La tercera acción es mantener el equilibrio
 
 El hecho de que estudiemos _El Libro de Urantia_ no significa que estemos a medio camino del cielo. Todo lo que significa es que hemos ampliado el potencial. No somos personas elegidas. No somos especiales. Lo que tenemos es el sustento de una perspectiva cósmica amplia[^33]. Nuestro desafío es traducir el potencial en realidad, en vivir las enseñanzas que hemos comenzado a comprender. Pero el camino de aquí para allá es largo y difícil.
 
-Siempre, enfatizamos: Usar el sentido común. Mantenga las cosas en proporción, incluso _El Libro de Urantia_. Asimilar la totalidad de las enseñanzas. No te pierdas en una sola parte.  
+Siempre, enfatizamos: Usar el sentido común. Mantenga las cosas en proporción, incluso _El Libro de Urantia_. Asimilar la totalidad de las enseñanzas. No te pierdas en una sola parte.
 
 Año tras año, como familia, fuimos testigos de personas caminando con _Libros de Urantia_, pero que claramente habían perdido el equilibrio y se estaban volviendo extraños. Algunos de ellos parecían hacerlo todo solos. Algunos de ellos parecían ser víctimas de las distracciones que entrelazan el movimiento Urantia.
 
@@ -152,7 +152,7 @@ No solo la belleza de las cosas físicas y materiales, sino también la belleza 
 
 Lo mejor que podemos enseñar a nuestros hijos es la esperanza y la fe en la bondad, la verdad y la belleza supremas de la creación.
 
-La lealtad centrada en Dios es fundamental. La lealtad a la verdad, la belleza y la bondad es fundamental. Nuestras lealtades primarias serán probadas una y otra vez en nuestra aventura hacia Dios. Y estas pruebas suelen salir de emboscada, para atraparnos cuando no estamos mirando, para captar cuál es la verdadera reacción espontánea e instantánea del corazón.  
+La lealtad centrada en Dios es fundamental. La lealtad a la verdad, la belleza y la bondad es fundamental. Nuestras lealtades primarias serán probadas una y otra vez en nuestra aventura hacia Dios. Y estas pruebas suelen salir de emboscada, para atraparnos cuando no estamos mirando, para captar cuál es la verdadera reacción espontánea e instantánea del corazón.
 
 ## La quinta acción es permanecer determinado
 
@@ -168,7 +168,7 @@ En el camerino, algunos reporteros rodearon a Archie. Ya sabes cómo son los rep
 
 Archie pensó por unos momentos, luego dijo: «Bueno, me puse a pensar», como si tuviera toda la tarde, «si no me levanto de la lona, ​​voy a perder la pelea».
 
-Esa historia ha inspirado a toda nuestra familia durante 30 años. Cuando los tiempos son realmente difíciles, cuando ha trabajado hasta el agotamiento total y todavía hay más por hacer, cuando se enfrenta a una fecha límite imposible y toda la energía parece haberse ido, cuando las probabilidades en su contra parecen abrumadoras, simplemente diga para sí mismo: si no me levanto de la lona, ​​voy a perder la pelea. Entonces levántate de la lona y gana la pelea.  
+Esa historia ha inspirado a toda nuestra familia durante 30 años. Cuando los tiempos son realmente difíciles, cuando ha trabajado hasta el agotamiento total y todavía hay más por hacer, cuando se enfrenta a una fecha límite imposible y toda la energía parece haberse ido, cuando las probabilidades en su contra parecen abrumadoras, simplemente diga para sí mismo: si no me levanto de la lona, ​​voy a perder la pelea. Entonces levántate de la lona y gana la pelea.
 
 ## La sexta acción es permanecer sin juzgar
 
@@ -198,7 +198,7 @@ Manténgase motivado para sobresalir en todo lo que emprenda. No puedes llegar a
 
 Se nos ha enseñado que «...es repugnante a la naturaleza divina sufrir cualquier tipo de deterioro o permitir jamás la ejecución de cualquier acto puramente personal en forma inferior[^42] ». El trabajo de este mundo es de suma importancia, pero por importante que sea, el trabajo en sí mismo no es tan importante como la forma en que hacemos este trabajo[^43].
 
-Como ciudadanos cósmicos, la búsqueda de la perfección, la perfección relajada, debe convertirse en el impulso subyacente de todo lo que hacemos.  
+Como ciudadanos cósmicos, la búsqueda de la perfección, la perfección relajada, debe convertirse en el impulso subyacente de todo lo que hacemos.
 
 ## La octava acción es mantenerse cooperativo
 

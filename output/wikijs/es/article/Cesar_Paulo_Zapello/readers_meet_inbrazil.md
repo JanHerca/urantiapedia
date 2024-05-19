@@ -15,9 +15,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Brazil-Meeting-Jun-15-300x225.jpg">
 </figure>
 
-La Asociación Urantia brasileña se reunió en Canela, Rio Grande do Sul (Brasil), el 23 de mayo de 2015 en casa de nuestro anfitrión, Edison Arpino Torres, y de su esposa Susana. Siempre nos reciben calurosamente cuando nos reunirnos para buscar conocimiento y compartir la perspicacia que ganamos leyendo _El libro de Urantia_.
+La Asociación Urantia brasileña se reunió en Canela, Rio Grande do Sul (Brasil), el 23 de mayo de 2015 en casa de nuestro anfitrión, Edison Arpino Torres, y de su esposa Susana. Siempre nos reciben calurosamente cuando nos reunirnos para buscar conocimiento y compartir la perspicacia que ganamos leyendo _El libro de Urantia_.
 
-Todo el grupo espera con ilusión este valioso momento de cada mes. Estamos unidos en la búsqueda de fuerza e iluminación, y tenemos el objetivo mutuo de comprender cómo podemos hacer mejor la voluntad del Padre. Gracias a todos los que participaron activamente en compartir las enseñanzas de _El libro de Urantia_ y que experimentaron la presencia especial del Espíritu de la Verdad. Todos compartimos el deseo sincero de seguir la senda que lleva a una nueva realidad durante nuestra vida en la tierra y que nos prepara para el viaje eterno y progresivo.
+Todo el grupo espera con ilusión este valioso momento de cada mes. Estamos unidos en la búsqueda de fuerza e iluminación, y tenemos el objetivo mutuo de comprender cómo podemos hacer mejor la voluntad del Padre. Gracias a todos los que participaron activamente en compartir las enseñanzas de _El libro de Urantia_ y que experimentaron la presencia especial del Espíritu de la Verdad. Todos compartimos el deseo sincero de seguir la senda que lleva a una nueva realidad durante nuestra vida en la tierra y que nos prepara para el viaje eterno y progresivo.
 
 Esta reunión estuvo dedicada al tema desarrollado por nuestra hermana Jeannie Vázquez de Abreu: «Liderazgo sabio para promover eficazmente la Revelación Urantia».
 

@@ -44,9 +44,9 @@ Apreciemos plenamente lo que aquí se afirma. Creo que la implicación es que el
 
 Ahora, en el presente, nos encontramos recientemente (hablando cósmicamente) con una reafirmación reveladora del registro de la vida y las enseñanzas de Miguel en Urantia. Sin duda, hubo y hay una cierta «corrección oportuna» o adecuación temporal sobre el otorgamiento de esta información de gran parte de la vida y las enseñanzas de Jesús en este momento de la historia. Podemos especular cuáles pueden ser algunas de estas razones; Siento que un propósito principal para la sincronización de este regalo de otorgamiento es que pueda ayudar en la preparación de maestros y líderes para funcionar a lo largo de lo que presumo será un período de quizás un milenio de transición planetaria, una era en la que hemos entrado. ya embarcado.
 
-> Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado. <a id="a46_238"></a>[[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)]  
+> Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado. <a id="a46_238"></a>[[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)]
 
-> La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo; el alma del hombre necesita, como nunca antes en toda la historia del mundo, escudriñar cuidadosamente sus mapas de moralidad y observar esmeradamente la brújula de su orientación religiosa. <a id="a48_420"></a>[[LU 99:1.3](/es/The_Urantia_Book/99#p1_3)]  
+> La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo; el alma del hombre necesita, como nunca antes en toda la historia del mundo, escudriñar cuidadosamente sus mapas de moralidad y observar esmeradamente la brújula de su orientación religiosa. <a id="a48_420"></a>[[LU 99:1.3](/es/The_Urantia_Book/99#p1_3)]
 
 ## Niveles de Significación
 
@@ -70,12 +70,12 @@ La finalización de la carrera de otorgamiento de Miguel en Nebadon y su ascenso
 
 La revelación revela que hay potenciales absolutos envueltos en las naturalezas insondables de los Hijos de Miguel, potenciales que son inherentes a su origen en seres absolutos: el Padre Universal y el Hijo Eterno. Por lo tanto, el logro de la soberanía del universo local sirve como otro punto de referencia significativo en la actualización de esos potenciales ilimitados. En este sentido, permítanme cerrar con esta cita:
 
-> ... Cristo Miguel dijo una vez cuando estaba en Urantia: «Yo soy el camino, la verdad y la vida». Y creemos que, en la eternidad, los Migueles están destinados a ser literalmente «el camino, la verdad y la vida», señalando siempre a todas las personalidades del universo el camino que conduce desde la divinidad suprema, pasando por la absonitidad última, hasta la finalidad eterna de la deidad. <a id="a72_398"></a>[[LU 21:6.4](/es/The_Urantia_Book/21#p6_4)]  
+> ... Cristo Miguel dijo una vez cuando estaba en Urantia: «Yo soy el camino, la verdad y la vida». Y creemos que, en la eternidad, los Migueles están destinados a ser literalmente «el camino, la verdad y la vida», señalando siempre a todas las personalidades del universo el camino que conduce desde la divinidad suprema, pasando por la absonitidad última, hasta la finalidad eterna de la deidad. <a id="a72_398"></a>[[LU 21:6.4](/es/The_Urantia_Book/21#p6_4)]
 
-> David Glass ha sido estudiante de _El Libro de Urantia_ desde 1973 y ha participado activamente en muchos grupos de estudio y conferencias en varios estados, incluidos Florida, Oregón y Texas. Da lecciones privadas de piano y disfruta escribiendo poesía de inspiración espiritual. Actualmente se desempeña como vicepresidente de la Sociedad Urantia del Norte de Texas y acaba de comenzar su lectura número 16 de _El Libro de Urantia_.  
+> David Glass ha sido estudiante de _El Libro de Urantia_ desde 1973 y ha participado activamente en muchos grupos de estudio y conferencias en varios estados, incluidos Florida, Oregón y Texas. Da lecciones privadas de piano y disfruta escribiendo poesía de inspiración espiritual. Actualmente se desempeña como vicepresidente de la Sociedad Urantia del Norte de Texas y acaba de comenzar su lectura número 16 de _El Libro de Urantia_.
 {.is-info}
 
-> ... La aparición de un Hijo divino en vuestro mundo por un proceso aparentemente natural, nosotros la consideramos como un milagro —el funcionamiento de unas leyes universales que sobrepasan nuestra comprensión. Jesús de Nazaret era una persona milagrosa. <a id="a77_258"></a>[[LU 120:4.5](/es/The_Urantia_Book/120#p4_5)]  
+> ... La aparición de un Hijo divino en vuestro mundo por un proceso aparentemente natural, nosotros la consideramos como un milagro —el funcionamiento de unas leyes universales que sobrepasan nuestra comprensión. Jesús de Nazaret era una persona milagrosa. <a id="a77_258"></a>[[LU 120:4.5](/es/The_Urantia_Book/120#p4_5)]
 
 ## Referencias
 

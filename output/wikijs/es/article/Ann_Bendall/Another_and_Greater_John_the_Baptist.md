@@ -68,7 +68,7 @@ El trabajo del «niño interior» cuya recuperación debemos emprender (es decir
 
 «Nuestro legado de nuestro creador es conocer relaciones en las que se da y se recibe amor, en las que somos valorados, respetados y nutridos unos por otros. Nuestro legado es desempeñar al máximo nuestro papel en el gran plan de la creación».
 
-De hecho, es una alegría vivir en una era donde el mensaje vivo de Jesús del «Reino interior» está siendo adoptado por las perspectivas de autodesarrollo. Donde una vez Dios fue el monopolio de las iglesias, en este siglo Él está siendo liberado para convertirse en el «Padre Superior» del individuo, ¡con esta parte del mensaje de Jesús finalmente ganando la aceptación de la población general!  
+De hecho, es una alegría vivir en una era donde el mensaje vivo de Jesús del «Reino interior» está siendo adoptado por las perspectivas de autodesarrollo. Donde una vez Dios fue el monopolio de las iglesias, en este siglo Él está siendo liberado para convertirse en el «Padre Superior» del individuo, ¡con esta parte del mensaje de Jesús finalmente ganando la aceptación de la población general!
 
 > Es imposible amar a Cristo sin amar a los demás (en la medida en que estos otros se encaminan hacia Cristo). Y es imposible amar a los demás (en un espíritu de amplia comunión humana) sin acercarse a Cristo.
 >     Pierre Teühard de Chardin, El medio divino

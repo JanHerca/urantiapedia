@@ -108,7 +108,7 @@ Su éxito será una bendición para todos nosotros.
 
 ## Muchas formas de servir
 
-Por _H. Denis Neumann_  
+Por _H. Denis Neumann_
 
 Casi todos los lectores que he conocido a lo largo de los años tienen una buena educación. Una educación universitaria enseña al estudiante a analizar y cuestionar lo que lee. Esto es particularmente cierto si él está en las ciencias.
 

@@ -38,7 +38,7 @@ Ayudar a Andrés en su nuevo puesto como presidente de Grupos de Estudio sería:
 
 1. Crear un grupo de estudio o formar parte de uno.
 2. Registrar su grupo de estudio en el Directorio de Grupos de Estudio o actualizar la información de su grupo para que siga en la lista en esta dirección: [https://www.urantiastudygroup.org](https://www.urantiastudygroup.org/).
-3. Escribir una historia sobre su experiencia en un grupo de estudio y enviarla a la directora de [Tidings](mailto:communications@urantia-association.org) para que otros puedan sentirse inspirados por ella.
+3. Escribir una historia sobre su experiencia en un grupo de estudio y enviarla a la directora de [Tidings](mailto:communications@urantia-association.org) para que otros puedan sentirse inspirados por ella.
 
 Termino con dos de mis proverbios africanos favoritos:
 

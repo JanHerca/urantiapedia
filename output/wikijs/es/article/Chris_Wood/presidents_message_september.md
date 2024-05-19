@@ -22,7 +22,7 @@ _El libro de Urantia_ nos dice que:
 
 > _El servicio — el servicio resuelto, no la esclavitud — produce la satisfacción más elevada y expresa la dignidad más divina. El servicio — más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto — es la meta del tiempo y el destino del espacio._ <a id="a45_174"></a>[[LU 28:6.17](/es/The_Urantia_Book/28#p6_17)] 
 
-Todo eso está muy bien y es genial, pero tengo un enjambre de avispas que se ha metido en las paredes de mi casa y están volando en masa por el despacho.  
+Todo eso está muy bien y es genial, pero tengo un enjambre de avispas que se ha metido en las paredes de mi casa y están volando en masa por el despacho.
 
 Últimamente he dedicado una gran cantiad de tiempo a contemplar las «motivaciones». Mi esposa y yo daremos una breve charla sobre el concepto de servicio en una próxima conferencia, así que estamos leyendo sobre ello, tratándolo con otros y anotando ideas para reunirlas en una charla. Una de las definiciones que proporciona _El libro de Urantia_ es que «servicio» es «amor cariñoso», lo que generalmente reformulo como «el servicio es amor puesto en acción». Y aunque estoy seguro de que haré una metáfora de esto en algún momento, estoy distraído porque tengo literalmente docenas de avispas zumbando en la ventana que intentan averiguar cómo escapar a través del cristal.
 
@@ -34,7 +34,7 @@ Y aquí es donde entra la metáfora de la avispa. Me siento demasiado ocupado y 
 
 Así que hoy tengo que atender mis necesidades materiales. Pero puedo contribuir con los buenos trabajos continuos del mundo proporcionando un día de ayuda económica. Y así sigue siendo verdad que ¡nunca ha habido unos momentos tan ajetreados y prouctivos para dar servicio a la Revelación Urantia!
 
-En servicio.  
+En servicio.
 Chris Wood
 
 ## Referencias

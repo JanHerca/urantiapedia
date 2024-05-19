@@ -35,11 +35,11 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 > Abrí el atlas y pregunté,
-> «¿Dónde te duele?»   
-> Y respondió   
+> «¿Dónde te duele?» 
+> Y respondió 
 > En todas partes
 > En todas partes
-> En todas partes  
+> En todas partes
 
 C.S. Lewis describió la tierra como un territorio ocupado por el enemigo. No hay duda de que Urantia es un barrio difícil. La traición de Lucifer fue seguida por el incumplimiento de Adán y Eva, que fue seguido por la tortura y el asesinato de nuestro Hijo Creador... claramente, este no es un planeta normal.
 
@@ -108,7 +108,7 @@ _Este artículo es un reflejo escrito de una presentación dada a la Sociedad de
 - Vídeo completo: https://www.youtube.com/watch?v=f6DoEUq1fEc&t=1124s
 - La versión condensada: https://vimeo.com/187755204
 - Thich Nhat Hanh: entrevista «Escucha compasiva»: https://www.youtube.com/watch?v=lyUxYflkhzo
-- Elizabeth Lesser: iniciativa «Lleva al otro a almorzar» https://www.ted.com/talkselizabeth_lesser_take_the_other_to_lunch  
+- Elizabeth Lesser: iniciativa «Lleva al otro a almorzar» https://www.ted.com/talkselizabeth_lesser_take_the_other_to_lunch
 - Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 > Michelle Klimesh, expresidenta de la Fraternidad, autora de La historia de todo, lee _El Libro de Urantia_ desde 1974. Es miembro y expresidenta del Golden Gate Circle; asiste a grupos de estudio en San Ramon y Walnut Creek; y reside alternativamente en San Ramon, California y Spillville, Iowa.

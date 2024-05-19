@@ -27,8 +27,8 @@ Tuvimos la habitual colaboración entusiasta de voluntarios: 33 de Bogotá, tres
 
 En la feria del libro celebramos una charla virtual introductoria sobre _El libro de Urantia_ con los que nos proporcionaron su información de contacto.
 
-Saludos cordiales.  
-Esperaza Tovar Alvarado  
+Saludos cordiales.
+Esperaza Tovar Alvarado
 Secretaria de la Asociación Urantia de Bogotá
 <br style="clear:both;"/>
 

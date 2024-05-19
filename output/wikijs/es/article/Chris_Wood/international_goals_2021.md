@@ -11,7 +11,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Chris Wood<br>© 2017 Asociación Urantia Internacional (IUA)</p>
 
 
-La Asociación Urantia Internacional es una  organización que va de abajo a arriba. Las asociaciones locales y nacionales hacen el trabajo que da forma al futuro de la Comunidad Urantia y a la integración de las enseñanzas Urantia en las culturas del mundo.
+La Asociación Urantia Internacional es una  organización que va de abajo a arriba. Las asociaciones locales y nacionales hacen el trabajo que da forma al futuro de la Comunidad Urantia y a la integración de las enseñanzas Urantia en las culturas del mundo.
 
 El papel de la asociación internacional es el de ayudar a coordinar a personas y grupos locales para lograr metas globales. Teniendo esto en cuenta, la Junta Internacional de Servicio ha adoptado cinco metas para 2021 como guías para ayudar a mantenernos en la misma dirección.
 

@@ -23,13 +23,13 @@ Aunque el número exacto de lectores en Canadá no se conoce con exactitud, pues
 
 Entonces me hice la misma pregunta: ¿qué puedo hacer? La respuesta es simple: escribirles, darles estos números e instarles a que se pregunten lo que pueden hacer.
 
-Aunque la misión del libro es espiritual vivimos en un mundo material y el dinero es un «medio material» indispensable para llevar a cabo esta revelación en el tiempo. Jesús nunca se ocupó personalmente de las finanzas del grupo apostólico, pero él y sus apóstoles no podrían haber conseguido nada si no hubieran estado apoyados económicamente por los creyentes, ya fueran pobres o ricos.
+Aunque la misión del libro es espiritual vivimos en un mundo material y el dinero es un «medio material» indispensable para llevar a cabo esta revelación en el tiempo. Jesús nunca se ocupó personalmente de las finanzas del grupo apostólico, pero él y sus apóstoles no podrían haber conseguido nada si no hubieran estado apoyados económicamente por los creyentes, ya fueran pobres o ricos.
 
 _El libro de Urantia_ nos enseña que un grupo de personas es mucho más fuerte que la suma de individuos que lo componen. Con esta idea en mente les animo a que den lo que puedan, ya sea a la Asociación Urantia Internacional o a la Fundación Urantia. Es muy fácil, solo vayan a sus sitios web.
 
 Gracias a todos.
 
-Fraternalmente.  
+Fraternalmente.
 Eric Martel
 
 ## Referencias

@@ -55,7 +55,7 @@ Charles fue uno de esos raros y dotados instructores de los que a todos nos gust
 
 Hubo un comentario revelador de una mujer que trabajó en su escuela pero apenas lo conocía. «Jamás olvidaré a este hombre tan profundamente íntegro. Vivía bajo una luz distinta a la de todos los demás».
 
-> Conocí a Charles en 1971. Creo que es la persona más sincera que haya tenido el placer de conocer. Y su fe era tan honrada y sincera como toda su personalidad.  
+> Conocí a Charles en 1971. Creo que es la persona más sincera que haya tenido el placer de conocer. Y su fe era tan honrada y sincera como toda su personalidad.
 > ~George Park
 
 No será una sorpresa para los que tuvieron el privilegio de trabajar con Dave Elders que era el consumador del equipo. Un habitual de los «salones de la fama» que amó toda su vida los deportes, entre ellos el béisbol, el hockey, el fútbol americano, la vela, el esquí y el golf, Dave encontró una gran alegría y pasión en trabajar con los jóvenes. Ayudó a fundar una asociación de hockey para jóvenes y pasó muchos años entrenando a sus hijos y a muchos otros niños para jugar al hockey y al béisbol. Como entrenador Dave era positivo, entusiasta, comprensivo, confiable, centrado, orientado a objetivos, experto, observador, respetuoso, paciente y gran comunicador.

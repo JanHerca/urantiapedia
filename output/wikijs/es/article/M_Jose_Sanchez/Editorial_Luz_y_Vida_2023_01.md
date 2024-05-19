@@ -136,17 +136,17 @@ Hace siglos, un hombre inquieto y buscador descubrió finalmente la imagen de Di
 
 Finalmente descubrió dónde estaba la Paz, dentro de sí:
 
-> ¡Tarde te amé, hermosura tan antigua y tan nueva,  
-> tarde te amé! y tú estabas dentro de mí y yo afuera,  
-> y así por de fuera te buscaba; y, deforme como era,  
-> me lanzaba sobre estas cosas que tú creaste.  
-> Tú estabas conmigo, pero yo no estaba contigo.  
-> Reteníanme lejos de ti aquellas cosas que,  
-> si no estuviesen en ti, no existirían.  
-> Me llamaste y clamaste, y quebraste mi sordera;  
-> brillaste y resplandeciste, y curaste mi ceguera;  
-> exhalaste tu perfume, y lo aspiré, y ahora te anhelo;  
-> gusté de ti, y ahora siento hambre y sed de ti;  
+> ¡Tarde te amé, hermosura tan antigua y tan nueva,
+> tarde te amé! y tú estabas dentro de mí y yo afuera,
+> y así por de fuera te buscaba; y, deforme como era,
+> me lanzaba sobre estas cosas que tú creaste.
+> Tú estabas conmigo, pero yo no estaba contigo.
+> Reteníanme lejos de ti aquellas cosas que,
+> si no estuviesen en ti, no existirían.
+> Me llamaste y clamaste, y quebraste mi sordera;
+> brillaste y resplandeciste, y curaste mi ceguera;
+> exhalaste tu perfume, y lo aspiré, y ahora te anhelo;
+> gusté de ti, y ahora siento hambre y sed de ti;
 > me tocaste, y deseo con ansia la paz que procede de ti.
 > 
 > (Agustín de Hipona, _Las Confesiones_)

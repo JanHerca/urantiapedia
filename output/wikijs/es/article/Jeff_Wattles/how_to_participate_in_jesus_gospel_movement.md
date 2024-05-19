@@ -29,9 +29,9 @@ Es así en el trabajo en equipo del movimiento del evangelio de Jesús. Asistimo
 
 Para cuando termine esta charla, quiero que todos sepan cómo ayudar al movimiento del evangelio de Jesús. Tengo algunos principios generales que proponer, y algunos ejemplos de cómo hacer las cosas. No me imiten. Simplemente usen mis historias personales para estimularles a ser profetas vivientes a su manera.
 
-Cuando visito diferentes iglesias, mi pregunta favorita para plantearle a la gente es: «¿Qué significa para ti ser un hijo o una hija de Dios?». Y obtengo la más maravillosa variedad de respuestas. Si voy de puerta en puerta, digo simplemente: «Soy tu vecino Jeff, que te anima en la fe de que eres un hijo de Dios». Y luego me quedo en silencio con una sonrisa y dejo que la otra persona responda. La conversación avanza de manera natural a partir de ahí. A veces en un peaje de autopista, pregunto a la persona que toma mi dinero: «¿Podría por favor decirme por dónde se va al… cielo?». Normalmente obtengo una agradable sonrisa y un comentario empático. Innumerables veces le he dicho a la gente: «Eres un hijo de Dios evolutivo y con libre albedrío divinamente creado, infinitamente amado y espiritualmente habitado». Si alguien me pregunta por mí, a veces digo: «Mi lema es que Dios es nuestro Padre y que yo soy tu hermano».
+Cuando visito diferentes iglesias, mi pregunta favorita para plantearle a la gente es: «¿Qué significa para ti ser un hijo o una hija de Dios?». Y obtengo la más maravillosa variedad de respuestas. Si voy de puerta en puerta, digo simplemente: «Soy tu vecino Jeff, que te anima en la fe de que eres un hijo de Dios». Y luego me quedo en silencio con una sonrisa y dejo que la otra persona responda. La conversación avanza de manera natural a partir de ahí. A veces en un peaje de autopista, pregunto a la persona que toma mi dinero: «¿Podría por favor decirme por dónde se va al… cielo?». Normalmente obtengo una agradable sonrisa y un comentario empático. Innumerables veces le he dicho a la gente: «Eres un hijo de Dios evolutivo y con libre albedrío divinamente creado, infinitamente amado y espiritualmente habitado». Si alguien me pregunta por mí, a veces digo: «Mi lema es que Dios es nuestro Padre y que yo soy tu hermano».
 
-El evangelio de Jesús tiene muchas facetas, y cada faceta es una verdad que atiende a alguna necesidad espiritual esencial. Cuando recopilamos y estudiamos las docenas de afirmaciones del evangelio que están en _El libro de Urantia_, vemos que el evangelio es una realidad viva que no se puede sistematizar. Una vez publiqué una lista de siete verdades. Hace una semana, escribí una lista con una docena de temas principales, cada uno de los cuales rebosa de potenciales para la realización y la enseñanza espirituales: la paternidad de Dios, la hermandad del hombre, el espíritu interior, el amor, la fe, la vida eterna, la alegría y la libertad, la voluntad de Dios, la oración, la adoración y el servicio. Pero cada uno de ellos es solo una idea en la mente hasta que el espíritu los aviva.
+El evangelio de Jesús tiene muchas facetas, y cada faceta es una verdad que atiende a alguna necesidad espiritual esencial. Cuando recopilamos y estudiamos las docenas de afirmaciones del evangelio que están en _El libro de Urantia_, vemos que el evangelio es una realidad viva que no se puede sistematizar. Una vez publiqué una lista de siete verdades. Hace una semana, escribí una lista con una docena de temas principales, cada uno de los cuales rebosa de potenciales para la realización y la enseñanza espirituales: la paternidad de Dios, la hermandad del hombre, el espíritu interior, el amor, la fe, la vida eterna, la alegría y la libertad, la voluntad de Dios, la oración, la adoración y el servicio. Pero cada uno de ellos es solo una idea en la mente hasta que el espíritu los aviva.
 
 Nuestra fe empieza siendo pequeña. Empieza simplemente creyendo. ¿Cómo llegamos a creer? A menudo sucede así. Oímos a alguien expresar una verdad espiritual central; el espíritu le añade énfasis y nuestra mente la reconoce como intuitivamente cierta. La verdad es un regalo; nuestra intuición es un regalo. Y la fe es un regalo. Es viva y crece. Lo que recibimos como regalo lo ejercemos en la acción. Más adelante, encontramos nuestra propia manera de dar voz a la verdad. Con la práctica, nos sentimos cómodos y expertos.
 
@@ -57,7 +57,7 @@ Así que sabemos que, escarbando espiritualmente un poco, podemos llegar a ese p
 
 Ya no suena soso, ¿verdad?
 
-Ante todo, si queremos conocer a Dios como nuestro Padre, tenemos que relacionarnos con él como hijo o hija… Así que ahí estamos, inmersos en la contemplación, en la relación, en el asombro y la maravilla de Dios… Apenas podemos hablar o pensar porque estamos fuera de la mente y dentro del alma, que anhela e inicia la adoración. Cuando quiero refrescar mi relación con el Padre, a menudo recuerdo los primeros párrafos del documento 1. «El Padre Universal es el Dios de toda la creación, la Fuente-Centro Primera de todas las cosas y de todos los seres.»
+Ante todo, si queremos conocer a Dios como nuestro Padre, tenemos que relacionarnos con él como hijo o hija… Así que ahí estamos, inmersos en la contemplación, en la relación, en el asombro y la maravilla de Dios… Apenas podemos hablar o pensar porque estamos fuera de la mente y dentro del alma, que anhela e inicia la adoración. Cuando quiero refrescar mi relación con el Padre, a menudo recuerdo los primeros párrafos del documento 1. «El Padre Universal es el Dios de toda la creación, la Fuente-Centro Primera de todas las cosas y de todos los seres.»
 
 Luego voy a la primera lección sobre el pensamiento.
 
@@ -109,7 +109,7 @@ Es muy útil hacerlo con un grupo de estudio, como descubrí este año con el gr
 
 He seleccionado nueve principios para mencionar esta mañana.
 
-**Número uno.** En el documento que habla sobre la infancia de Jesús, lo primero acerca del desarrollo que leemos es sobre la socialización de Jesús. Necesito crecer en esa área, así que hice un proyecto sobre ello, fui a por ello totalmente, hice una serie de avances y sigo con mi crecimiento.
+**Número uno.** En el documento que habla sobre la infancia de Jesús, lo primero acerca del desarrollo que leemos es sobre la socialización de Jesús. Necesito crecer en esa área, así que hice un proyecto sobre ello, fui a por ello totalmente, hice una serie de avances y sigo con mi crecimiento.
 
 **Número dos.** Poco después, en el mismo documento, vemos una referencia a la primera decisión moral personal y de todo corazón de Jesús. Me pregunté, ¿cuántas de mis decisiones morales tienen esa cualidad personal y de todo corazón? Pensé en las funciones de la mente cósmica, en la causalidad, el deber y la adoración, y me di cuenta de que una decisión moral personal y de todo corazón está basada en un entendimiento adecuado del entorno factual, material, causal y evolutivo, y está iluminada también por el valor espiritual que la voluntad de Dios está lista para hacer realidad mediante mis decisiones. Comencé a tomar nuevas decisiones morales, personales y de todo corazón, y refresqué también viejas decisiones que necesitaban renovarse.
 
@@ -123,13 +123,13 @@ He seleccionado nueve principios para mencionar esta mañana.
 
 Tengan en cuenta la expresión «todas las edades y todas las etapas». Las etapas son los primeros años y los últimos de su infancia:
 
-Los **años intermedios, la adolescencia, los primeros años y los últimos de la vida adulta**.  Tengan en cuenta que el término «adolescencia» no se refiere a los años intermedios. Adolescencia significa literalmente convertirse en adulto. Implica asentarse para adquirir el conocimiento, las habilidades y los logros del carácter necesarios para actuar como hombres o mujeres responsables de la sociedad. Y tengan en cuenta que las edades y las etapas no se correlacionan. Las personas pueden tener cincuenta años, sesenta o setenta, y aún así no haber alcanzado la madurez de un adulto.
+Los **años intermedios, la adolescencia, los primeros años y los últimos de la vida adulta**.  Tengan en cuenta que el término «adolescencia» no se refiere a los años intermedios. Adolescencia significa literalmente convertirse en adulto. Implica asentarse para adquirir el conocimiento, las habilidades y los logros del carácter necesarios para actuar como hombres o mujeres responsables de la sociedad. Y tengan en cuenta que las edades y las etapas no se correlacionan. Las personas pueden tener cincuenta años, sesenta o setenta, y aún así no haber alcanzado la madurez de un adulto.
 
 Hablamos de diferente manera a personas de edades diferentes; y hablamos de diferente manera a personas que están en etapas diferentes; y Jesús, el maestro de maestros, pudo revelar al Padre de una manera que reaccionaba simultáneamente a las dos variables. No deberíamos sentirnos abrumados por su logro, sino simplemente comenzar a estar más atentos, quizá estudiando un poco más, y a pasar un rato pensando acerca de estos diferentes grupos. Tengan en cuenta que, en los últimos años de su vida adulta, y de nuevo durante su primer año en Cafarnaúm, Jesús pasaba una noche a la semana con los más jóvenes y una noche con los más viejos. 
 
-**Número seis.** Los principios más importantes de la enseñanza, en mi opinión, son saciar el apetito y promover el descubrimiento. Jesús lo hizo en parte dando su enseñanza en pequeñas dosis. 
+**Número seis.** Los principios más importantes de la enseñanza, en mi opinión, son saciar el apetito y promover el descubrimiento. Jesús lo hizo en parte dando su enseñanza en pequeñas dosis. 
 
-**Número siete.** Jesús creció ganando experiencia en el ministerio personal antes de comenzar su ministerio público ante un público mayor, e hizo que sus apóstoles siguieran la misma secuencia. En otras palabras: hemos de aprender el tipo de cosas que los primeros apóstoles aprendieron de una persona en una, cara a cara, persona a persona, antes de movernos a la comunicación de masas. 
+**Número siete.** Jesús creció ganando experiencia en el ministerio personal antes de comenzar su ministerio público ante un público mayor, e hizo que sus apóstoles siguieran la misma secuencia. En otras palabras: hemos de aprender el tipo de cosas que los primeros apóstoles aprendieron de una persona en una, cara a cara, persona a persona, antes de movernos a la comunicación de masas. 
 
 **Número ocho.** Jesús dijo:
 
@@ -147,7 +147,7 @@ He aquí la cita, que tiene importantes implicaciones respecto a cómo hemos de 
 
 Tengo recursos adicionales para participar en el movimiento del evangelio.
 
-**En primer lugar,** aquí está mi libro, _Living in Truth, Beauty, and Goodness_ (Vivir en Verdad, Belleza y Bondad), diseñado para ayudarles a desarrollar una vida coordinada con la verdad y la bella totalidad de la rectitud. Para agosto, podrán pedirlo en Cascade Books. Seis u ocho semanas después de su publicación, el libro estará disponible en amazon.com. 
+**En primer lugar,** aquí está mi libro, _Living in Truth, Beauty, and Goodness_ (Vivir en Verdad, Belleza y Bondad), diseñado para ayudarles a desarrollar una vida coordinada con la verdad y la bella totalidad de la rectitud. Para agosto, podrán pedirlo en Cascade Books. Seis u ocho semanas después de su publicación, el libro estará disponible en amazon.com. 
 
 **En segundo lugar**, está mi nuevo sitio web tipo blog, [http://UniversalFamily.org](http://universalfamily.org/) 
 
@@ -193,7 +193,7 @@ Un recurso más. Si están pensando en adquirir algo de educación para preparar
 
 **Jeff**: ¿Y qué hay de Jesús y la receptividad? 
 
-**_Mahtab_**: Se nos dice que, hacia el final de su adolescencia, Jesús se estaba  «volviendo experto en el arte divino de revelar su Padre Paradisiaco a las criaturas mortales de todas las edades y de todas las etapas.» Piensa en lo que implica acerca de cómo Jesús, el maestro de maestros, ajustaba su expresión a los diferentes niveles de receptividad.
+**_Mahtab_**: Se nos dice que, hacia el final de su adolescencia, Jesús se estaba  «volviendo experto en el arte divino de revelar su Padre Paradisiaco a las criaturas mortales de todas las edades y de todas las etapas.» Piensa en lo que implica acerca de cómo Jesús, el maestro de maestros, ajustaba su expresión a los diferentes niveles de receptividad.
 
 En el sermón de la ordenación, Jesús dijo a sus apóstoles que no arrojaran perlas a individuos sin receptividad, que podrían reaccionar agresivamente contra ellos.
 
@@ -211,7 +211,7 @@ En el sermón de la ordenación, Jesús dijo a sus apóstoles que no arrojaran p
 
 **Jeff**: Es un recordatorio aleccionador. No esperaba que la neurociencia me ayudara a ser mejor compartiendo verdades.
 
-**_Mahtab_**: Si te coordinas con la verdad, integrando ciencia y religión en tu vida diaria, y si aprendes a «manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así.» 
+**_Mahtab_**: Si te coordinas con la verdad, integrando ciencia y religión en tu vida diaria, y si aprendes a «manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así.» 
 
 **Jeff**: ¿Estás de broma? ¡Mi capacidad de receptividad está sobrepasada! ¿Quién escribió este texto, de todas formas? 
 

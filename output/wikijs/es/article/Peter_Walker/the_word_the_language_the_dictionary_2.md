@@ -27,7 +27,7 @@ Consciente de la importancia de un diccionario de la misma época que los docume
 
 Antes de enviar el diccionario y el soporte a Chicago, investigué de nuevo la palabra _Urantia_ para revisar su significado. Echando un vistazo a Internet, descubrí definiciones similares para _Urantia_, pero sentí que podía afinar más. La palabra _Urantia_ se divide en dos partes separadas: «Uran» y «tia». Me pareció interesante que hubiera dos palabras similares cuyas definiciones específicas ya no se utilizan en la lengua inglesa hoy en día, que incluso están eliminadas del diccionario Webster actual. Estas palabras son _Urania_ y _Uranian_, que están relacionadas con la raíz «Uran». Estas definiciones solo se encuentran en diccionarios ingleses de principios del siglo XX, y son las siguientes:
 
-**Urania** – (latín, del griego) «celestial, cielo». (griego) _Ourania_, _Ouranios_ – «celestial» Ouranos – «cielo»
+**Urania** – (latín, del griego) «celestial, cielo». (griego) _Ourania_, _Ouranios_ – «celestial» Ouranos – «cielo»
 
 **Uranian** – «De, perteneciente a, o relacionado con los cielos, o la ciencia de la astronomía; astronómico».
 
@@ -37,10 +37,10 @@ La definición de «tia», de origen latino y griego, está relacionada con el s
 
 No soy etimólogo, pero viendo el contexto de la palabra _Urantia_, tendría su origen como adjetivo formando el uso actual como nombre propio. Como tal, postulo los siguientes significados.
 
-**u·ran’tia** \\yu̇·rān’ shə\\, _adj._ 1a: \[lat., del gr.\] de o perteneciente a los Cielos;  
+**u·ran’tia** \\yu̇·rān’ shə\\, _adj._ 1a: \[lat., del gr.\] de o perteneciente a los Cielos;
 b: que tiene estatus o cualidad celestial
 
-**U·ran’tia** \\yu̇·rān’ shə\\, _n. (cosmología)._ 1a: nombre que designa al planeta Tierra;  
+**U·ran’tia** \\yu̇·rān’ shə\\, _n. (cosmología)._ 1a: nombre que designa al planeta Tierra;
 b: la Tierra en los Cielos
 
 <figure id="Figure_2" class="image urantiapedia" alt="Alex Meyers">

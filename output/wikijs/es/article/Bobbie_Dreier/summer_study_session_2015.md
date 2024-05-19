@@ -11,8 +11,8 @@ dateCreated: 2023-9-16T10:55:6Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Bobbie Drier<br>© 2015 Asociación Urantia Internacional (IUA)</p>
 
 
-Techny Towers  
-Northbrook, Illinois  
+Techny Towers
+Northbrook, Illinois
 Del 9 al 12 de julio
 
 Las Sesiones de Estudio de Verano llevan siendo una tradición de la comunidad de _El libro de Urantia_ durante muchos años. Únanse a la celebración con otros compañeros lectores de _El libro de Urantia_ mientras exploramos «Nuestra relación con Dios Padre». A partir de los documentos 1 al 5, el Comité de Educación de la Fellowship va a comenzar un viaje por algunos temas centrales de _El libro de Urantia_. El comité de conferencias está planeando una gran variedad de experiencias, que incluyen talleres para nuevos lectores, estudio en profundidad y estudios experienciales y avanzados. Además del programa de estudios, habrá oportunidad de participar en meditación adoradora y de disfrutar renovando antiguas amistades y entablando nuevas.
@@ -23,7 +23,7 @@ Si tienen ideas para un taller relacionado con el tema de este verano, soliciten
 
 ¡Reserven la fecha para celebrarla! (Habrá un retiro preconferencia del 7 al 9 de julio) La inscripción en línea está disponible en el sitio web de la Fellowship, [www.urantiabook.org](http://www.urantiabook.org/).
 
-_Bobbie Dreier  
+_Bobbie Dreier
 _[bdreier@earthlink.net](mailto:bdreier@earthlink.net)
 
 ## Referencias

@@ -69,7 +69,7 @@ Las iglesias de todo tipo son propensas a reafirmar su autoridad en asuntos de e
 
 Cualesquiera que sean las dificultades que encuentren en su vida interior, espero que se sientan cómodos y que se sientan cómodos mutuamente al confrontar tales problemas compartiéndolos unos con otros.
 
-El filósofo y autor fuente de _El Libro de Urantia_, A. Campbell Garnett, señaló: «Muchas personas alcanzan la madurez espiritual sin pasar por ningún período marcado de tormenta y estrés... Sin embargo, el pleno desarrollo religioso y moral es un premio que ya no puede ser recompensado. ganada sin esfuerzo, lucha y fracaso ocasional que la excelencia en cualquier otra forma de logro humano.»[^6]  
+El filósofo y autor fuente de _El Libro de Urantia_, A. Campbell Garnett, señaló: «Muchas personas alcanzan la madurez espiritual sin pasar por ningún período marcado de tormenta y estrés... Sin embargo, el pleno desarrollo religioso y moral es un premio que ya no puede ser recompensado. ganada sin esfuerzo, lucha y fracaso ocasional que la excelencia en cualquier otra forma de logro humano.»[^6]
 
 ## ¿Qué pasa si nuestra vida interior es turbulenta, neurótica o llena de miedo?
 
@@ -99,13 +99,13 @@ Esta es la «expansión de la voluntad» discutida en _El Libro de Urantia_, Doc
 
 > ¿Por qué no permitís que el Ajustador espiritualice vuestros pensamientos...? <a id="a99_80"></a>[LU 111:7.3](/es/The_Urantia_Book/111#p7_3)
 
-Además de la obvia actividad creativa involucrada en las artes de hacer un poema, una historia o una sinfonía, ¿qué más podría significar creatividad en este sentido «divino»? Si usted es o ha sido padre, probablemente recuerde cuánto de su energía creativa se dedicó al proyecto de sentar las bases para el buen carácter de sus hijos.  
+Además de la obvia actividad creativa involucrada en las artes de hacer un poema, una historia o una sinfonía, ¿qué más podría significar creatividad en este sentido «divino»? Si usted es o ha sido padre, probablemente recuerde cuánto de su energía creativa se dedicó al proyecto de sentar las bases para el buen carácter de sus hijos.
 
 ## ¿Podemos saber si hemos tenido un contacto real con el espíritu guía interior?
 
 _El Libro de Urantia_ dice: «_Sois totalmente incapaces de distinguir entre el producto de vuestro propio intelecto material y el de las actividades conjuntas de vuestra alma y el Ajustador_». <a id="a105_193"></a>[LU 110:4.2](/es/The_Urantia_Book/110#p4_2) A pesar de tan fuerte desánimo, todavía estamos animados a seguir haciendo el esfuerzo. _El Libro de Urantia_ sugiere que adoptemos la meta de desarrollar una comunión ininterrumpida: «_La oración... muy a menudo cava unos canales más amplios y más profundos por los cuales los dones divinos pueden fluir hasta el corazón y el alma de aquellos que se acuerdan de mantener así, mediante la oración sincera y la verdadera adoración, una comunión ininterrumpida con su Hacedor._» <a id="a105_714"></a>[LU 194:3.20](/es/The_Urantia_Book/194#p3_20)
 
-Me he decidido por esta regla general: cada vez que pongo palabras a una experiencia de vida interior, me obligo a recordar que son mis palabras. Pero he observado, generalmente en retrospectiva, momentos de mi vida en los que debo haber recibido alguna ayuda o inspiración divina. He visto los «frutos» del contacto espiritual en mi propia vida: menos energía consumida por el miedo, un mayor optimismo y la posesión de un punto de vista lleno de esperanza. Al recordar, reconozco que he crecido más allá del punto de vista más restringido y temeroso que tenía antes.  
+Me he decidido por esta regla general: cada vez que pongo palabras a una experiencia de vida interior, me obligo a recordar que son mis palabras. Pero he observado, generalmente en retrospectiva, momentos de mi vida en los que debo haber recibido alguna ayuda o inspiración divina. He visto los «frutos» del contacto espiritual en mi propia vida: menos energía consumida por el miedo, un mayor optimismo y la posesión de un punto de vista lleno de esperanza. Al recordar, reconozco que he crecido más allá del punto de vista más restringido y temeroso que tenía antes.
 
 ## ¿Es la pérdida de nuestra conexión con la vida interior una posible causa de los problemas sociales, especialmente el aumento de la violencia en nuestras diversas culturas?
 
@@ -123,7 +123,7 @@ Cuando surge el tema de las tradiciones contemplativas de Oriente, a menudo escu
 
 > ...el idealismo espiritual es la energía que eleva realmente la cultura humana y la hace progresar de un nivel de realización al siguiente. <a id="a123_142"></a>[LU 81:6.27](/es/The_Urantia_Book/81#p6_27)
 
-El desarrollo de una relación personal con Dios anticipa el próximo paso evolutivo en la conciencia humana. Al dar conscientemente este próximo paso, comenzamos a crear una verdadera hermandad en el planeta. Entonces podremos comenzar a fijar nuestra mirada en un ideal mayor y más alto: la llegada de una era de paz y buena voluntad, una era de armonía espiritual.   
+El desarrollo de una relación personal con Dios anticipa el próximo paso evolutivo en la conciencia humana. Al dar conscientemente este próximo paso, comenzamos a crear una verdadera hermandad en el planeta. Entonces podremos comenzar a fijar nuestra mirada en un ideal mayor y más alto: la llegada de una era de paz y buena voluntad, una era de armonía espiritual. 
 
 > Nacido en Toronto, Canadá, de ascendencia irlandesa, inglesa e india ojibway, Dave Holt se mudó a California en 1970, donde descubrió _El Libro de Urantia_ (en 1978) a través de su esposa, Chappell. Ha presentado talleres y programas de adoración en IC96, IC 99, IC02, IC05, IC08 y en conferencias de estudio de verano (2001, 2006) como miembro del Comité de Educación de la Fraternidad. Se desempeña como responsable de comunicaciones de la Sociedad Urantia del Círculo Golden Gate.
 {.is-info}

@@ -15,7 +15,7 @@ Dios expresa su voluntad creativa en tres niveles de realidad «experienciales»
 
 ## El nivel absoluto del Paraíso
 
-Es la realidad primordial y original y la unidad incualificada de la infinidad. El **_Padre-YO SOY_** une de manera perfecta «las divergencias de toda la realidad con una majestad existencial _absoluta_» <a id="a40_193"></a>[[LU 106:9.1](/es/The_Urantia_Book/106#p9_1)] **_La Isla del Paraíso_** y la creación circundante de **_Havona_** forman **_el universo central_** de perfección.
+Es la realidad primordial y original y la unidad incualificada de la infinidad. El **_Padre-YO SOY_** une de manera perfecta «las divergencias de toda la realidad con una majestad existencial _absoluta_» <a id="a40_193"></a>[[LU 106:9.1](/es/The_Urantia_Book/106#p9_1)] **_La Isla del Paraíso_** y la creación circundante de **_Havona_** forman **_el universo central_** de perfección.
 
 ## El nivel finito del Supremo
 
@@ -41,7 +41,7 @@ Dios Absoluto trasciende incluso los valores superpersonales y los significados 
 
 <a id="a64_0"></a>[[LU 0:2.18](/es/The_Urantia_Book/0#p2_18)]
 
-- El Dios de los valores superpersonales trascendidos y de los significados de la divinidad trascendidos, que se está volviendo experiencial (actualmente es existencial como Absoluto de  Deidad).
+- El Dios de los valores superpersonales trascendidos y de los significados de la divinidad trascendidos, que se está volviendo experiencial (actualmente es existencial como Absoluto de  Deidad).
 - El tercer nivel de expresión y de expansión de la Deidad unificadora.
 - Un nivel de valores superpersonales y significados de la divinidad trascendidos.
 - El agotamiento del potencial personalizable.

@@ -42,7 +42,7 @@ _De Gard Jameson, tesorero de la Fundación Urantia, Nevada (EE. UU.)_
 <img src="/image/article/UF_News_Online/2022_01/004.jpg">
 </figure>
 
-Solo hay una elección «superfinita» posible para nosotros en esta vida:  encontrar a Dios y parecernos a él. Les invito a sumergirse profundamente en el delicioso pozo de la presencia divina en 2022, a desarrollar una conciencia más gozosa de la presencia de Dios en su vida y a manifestar esa presencia en las vías de servicio divinamente inspiradas que seleccionen, que comienzan con una sonrisa para todas y cada una de las personas que conozcan.
+Solo hay una elección «superfinita» posible para nosotros en esta vida:  encontrar a Dios y parecernos a él. Les invito a sumergirse profundamente en el delicioso pozo de la presencia divina en 2022, a desarrollar una conciencia más gozosa de la presencia de Dios en su vida y a manifestar esa presencia en las vías de servicio divinamente inspiradas que seleccionen, que comienzan con una sonrisa para todas y cada una de las personas que conozcan.
 
 Me gustaría compartir una historia que ocurrió en el campus universitario de mi _alma mater_. Una joven aprendió sobre el poder de las neuronas espejo ([búsquenlas](https://es.wikipedia.org/wiki/Neurona_espejo)) para bendecir a otra persona. En su residencia había una joven gótica que siempre fruncía el ceño y gruñía a sus compañeros. Decidió sonreír a esa joven cada vez que la viera, y así lo hizo. Después de tres semanas, la joven gótica se acercó a su compañera y le dijo: «Gracias por verme».
 

@@ -247,7 +247,7 @@ Le preguntamos a nuestro amigo Robert Wilson de Denver por qué dona. Esto es lo
 >
 > Creo que esta es una buena manera de ayudar a crecer la revelación, a través de un compromiso económico personal. Desde el honor de compartir monetariamente en este trabajo, mi esposa y yo, al dar, sentimos una conexión más fuerte y un sentido de participación.
 
-¡Gracias Roberto!  
+¡Gracias Roberto!
 
 Después de 62 años de continuo esfuerzo, la Fellowship de _El Libro de Urantia_ sigue forjando nuevos caminos de difusión, socialización y estudio con y para La Quinta Revelación de Época.
 
@@ -275,7 +275,7 @@ También tenemos un pequeño folleto, The Universe is Friendly, que es una prese
 
 **Levon Eudaley y Charlene Morrow escriben desde Oklahoma:**
 
-El domingo 5 de marzo, se le pidió a Charlene, quien representa a nuestra sociedad en la Alianza Interreligiosa, que diera una charla en el Centro Morning Star en Norman. Se titula «¿Qué, cuándo y por qué Revelación?»  
+El domingo 5 de marzo, se le pidió a Charlene, quien representa a nuestra sociedad en la Alianza Interreligiosa, que diera una charla en el Centro Morning Star en Norman. Se titula «¿Qué, cuándo y por qué Revelación?»
 
 Todos los años tenemos un puesto en el Festival de la Paz y lo seguiremos haciendo. El último en el que estuvimos fue el 12 de noviembre de 2016.
 
@@ -291,7 +291,7 @@ Socializar alrededor de una comida siempre es una excelente manera de ponerse al
 
 **Avi Dogim informa desde el área metropolitana de Nueva York:** USGNY se reúne trimestralmente durante una comida, seguida de un programa de estudio, en los hogares de varios miembros. Después de completar el programa, generalmente se lleva a cabo una reunión de negocios de la sociedad durante la cual los funcionarios de la sociedad y los presidentes del programa presentan informes; De vez en cuando, también se discuten temas relacionados con la Fellowship (p. ej., unidad, impresión de UB, etc.). Por primera vez, este año, a fines de abril, el liderazgo de la sociedad planea experimentar con una reunión comercial anual de Zoom. Particularmente digno de mención es la reciente finalización de la traducción al turco de la UB por parte de USGNY.
 
-Los grupos de estudio en el área metropolitana de Nueva York continúan reuniéndose en la ciudad de Nueva York, el norte de Nueva Jersey, el condado de Westchester y Connecticut.  
+Los grupos de estudio en el área metropolitana de Nueva York continúan reuniéndose en la ciudad de Nueva York, el norte de Nueva Jersey, el condado de Westchester y Connecticut.
 
 ## «Compartiendo las Enseñanzas», Un Evento Educativo Conjunto
 

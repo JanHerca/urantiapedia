@@ -31,9 +31,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-Autor desconocido   
+Autor desconocido 
 
-( Atribuido a un soldado de la CSA cansado de la batalla cerca del final de la guerra.)  
+( Atribuido a un soldado de la CSA cansado de la batalla cerca del final de la guerra.)
 
 <p style="text-align:center;">
 Le pedí a Dios fuerza para poder lograr; <br>

@@ -56,11 +56,11 @@ Continúa la búsqueda de lectores y voluntarios jóvenes. Toda sugerencia es bi
 
 1. _Aumentar en un siete por ciento la venta y la distribución de libros en 2011, respecto a los 20.000 libros distribuidos en 2010. Las mejoras proyectadas en ventas y distribución incluyen e-books, libros en audio, ventas en librerías y descargas en la web._
 
-Las ventas del libro físico subieron ligeramente el primer trimestre de 2011. Las librerías de Norteamérica siguen luchando con las ventas en Internet y con la competición del libro digital. Las descargas de _El libro de Urantia_ han aumentado espectacularmente, así que el objetivo se alcanzará, pero la industria editorial sigue siendo un reto.  
+Las ventas del libro físico subieron ligeramente el primer trimestre de 2011. Las librerías de Norteamérica siguen luchando con las ventas en Internet y con la competición del libro digital. Las descargas de _El libro de Urantia_ han aumentado espectacularmente, así que el objetivo se alcanzará, pero la industria editorial sigue siendo un reto.
 
 2. _Mejorar la distribución en Norteamérica, Brasil, Holanda, Hungría, Italia y Rusia._
 
-El trabajo de Henk y Claire Mylanus con la distribución de _El libro de Urantia_ y sus traducciones en Europa continúa para consolidar la distribución en los mercados europeos. A pesar del cambiante mercado editorial, las ventas continúan.  
+El trabajo de Henk y Claire Mylanus con la distribución de _El libro de Urantia_ y sus traducciones en Europa continúa para consolidar la distribución en los mercados europeos. A pesar del cambiante mercado editorial, las ventas continúan.
 
 3. _Desarrollar e implementar un plan para extender las versiones en audio de_ El libro de Urantia_._
 

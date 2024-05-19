@@ -21,7 +21,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ¡Hola, amigos! Han pasado ya dos años y es hora de celebrar nuestra acampada bienal para amigos Urantia de la isla de Vancouver. Llevamos celebrando este evento desde 2007 y a lo largo de los años hemos tenido el placer de conocer a lectores de _El libro de Urantia_ de todo el mundo. Normalmente se trata de un grupo pequeño de entre 15 y 25 personas, pero siempre podemos alojar a más.
 
-Este año nos reuniremos en el [Miracle Beach Provincial Campground](http://www.env.gov.bc.ca/bcparks/explore/map.html) del lunes 26 al domingo 30 de agosto (cuatro noches). Este es un hermoso lugar y el océano es espectacular. El camping está a medio camino de Courtenay y Campbell River (a una hora más o menos al norte de Nanaimo) en la costa este de la isla de Vancouver (Columbia Británica).
+Este año nos reuniremos en el [Miracle Beach Provincial Campground](http://www.env.gov.bc.ca/bcparks/explore/map.html) del lunes 26 al domingo 30 de agosto (cuatro noches). Este es un hermoso lugar y el océano es espectacular. El camping está a medio camino de Courtenay y Campbell River (a una hora más o menos al norte de Nanaimo) en la costa este de la isla de Vancouver (Columbia Británica).
 
 Hemos reservado un camping situado en unos 8.000 metros cuadrados de tierra llana rodeada de espesos bosques por todas partes. Pueden traer una tienda o una caravana pequeña o mediana. Hay aseos (exteriores), agua dulce y tablas de pícnic, pero no hay electricidad, por lo que tendrá que arreglárselas sin ella. Por suerte hay duchas de agua caliente y aseos con descarga a poca distancia. Hay una larga playa de guijarros y arena, así que no olviden su traje de baño y su calzado de playa. También es un sitio popular para ir en kayak o canoa, y hay unos 2 Km. de pistas para caminar.
 
@@ -37,9 +37,9 @@ Por favor, hágannos saber si quieren un taller, un grupo de estudio o una prese
 
 **Inscripción**
 
-El precio de la inscripción es de 65 dólares canadienses, que son 50 dólares americanos. El precio incluye la tarifa del parking para esos días. Para obtener información sobre la inscripción u otros detalles contacten con Debbie en [nebadon373@hotmail.com](mailto:nebadon373@hotmail.com)
+El precio de la inscripción es de 65 dólares canadienses, que son 50 dólares americanos. El precio incluye la tarifa del parking para esos días. Para obtener información sobre la inscripción u otros detalles contacten con Debbie en [nebadon373@hotmail.com](mailto:nebadon373@hotmail.com)
 
-Con amor.  
+Con amor.
 Debbie Bartman
 
 ## Referencias

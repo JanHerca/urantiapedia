@@ -19,7 +19,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/The-Fifth-Revelation-SM-Visual-v2_02.pdfVisual-v2_02-pdf.jpg">
 </figure>
 
-**¡Vengan y únanse a nosotros en México!**  
+**¡Vengan y únanse a nosotros en México!**
 
 ¡[Inscríbanse](https://register.urantiaevents.com/1.php?event=10&lang=es) en la próxima conferencia continental Urantia latinoamericana! Esta será la 3ª conferencia latinoamericana y está siendo organizada por la Asociación Urantia de México (AUM).
 

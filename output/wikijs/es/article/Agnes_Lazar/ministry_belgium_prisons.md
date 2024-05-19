@@ -33,8 +33,8 @@ Desde entonces el director de la prisión me ha dado permiso para mantener el c�
 
 Se ha creado una fraternidad que está evolucionado. Gracias, Dios, por vivir dentro de cada uno y por hacer posible esta hermandad moroncial mediante tu divina presencia.
 
-Agnès Lazare  
-Bélgica  
+Agnès Lazare
+Bélgica
 lazaragnescarla at gmail-dot-com
 
 ## Referencias

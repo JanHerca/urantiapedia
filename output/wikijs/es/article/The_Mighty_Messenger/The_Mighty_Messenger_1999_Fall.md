@@ -96,7 +96,7 @@ _Binion:_ Emita una declaración, tome una posición. Esa postura podría ser ta
 
 ## Informe del presidente sobre la reunión del Consejo General
 
-14 de agosto de 1999, Vancouver BC  
+14 de agosto de 1999, Vancouver BC
 
 Por _Janet Farrington Graham_
 

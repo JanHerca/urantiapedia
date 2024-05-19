@@ -42,8 +42,8 @@ Del 7 al 11 de julio de 2019.
 
 ### Ubicación:
 
-Old Town Hostel Alur, Lai 20, Tallinn, Harju Maakond 10133, Estonia.  
-Vean detalles del albergue en: [http://hostel.alur.ee](http://hostel.alur.ee/)  
+Old Town Hostel Alur, Lai 20, Tallinn, Harju Maakond 10133, Estonia.
+Vean detalles del albergue en: [http://hostel.alur.ee](http://hostel.alur.ee/)
 E indicaciones en: [ruta](https://www.google.com/maps/dir/Lai+20,+10133+Tallinn,+Estland/@59.4389133,24.7405879,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x46929362529f2965:0x63f25ecb1b38cf41!2m2!1d24.7449653!2d59.4389134)
 
 ### Precio:
@@ -76,8 +76,8 @@ Alojamiento y comida (y alimento para la mente), mucha diversión y buena compa�
 
 Si les apetece estar con nosotros y rodearse de su familia Urantia, ¡[inscríbanse aquí](https://goo.gl/kzez5z) lo antes posible!
 
-En luz y vida.  
-Anna Zeven  
+En luz y vida.
+Anna Zeven
 Presidenta del UYAI
 
 ## Referencias

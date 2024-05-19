@@ -144,7 +144,7 @@ Lo más importante es que todos debemos intentarlo. Hay muchas formas en las que
 
 Sean cuales sean las circunstancias en las que nos encontremos, profesionalmente o de otro modo, podemos encontrar la manera de llevar positivamente las enseñanzas del libro y los frutos del espíritu a aquellos con los que nos encontremos: la vida son relaciones.
 
- Hay tres niveles de educación descritos aquí:
+ Hay tres niveles de educación descritos aquí:
 
 1. Mejorar el estudio de _El libro de Urantia_ entre los lectores.
 2. Utilizar situaciones formales, como en las aulas, para transmitir sus enseñanzas sin el libro.

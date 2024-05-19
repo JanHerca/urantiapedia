@@ -62,9 +62,9 @@ En conclusión, no hay que sentirse abrumado con _El libro de Urantia_. El aisla
 
 Estoy deseando asistir a más cursos. ¡Doy gracias de que _El libro de Urantia_ y la UBIS estén en mi vida!
 
-> “Dios lo es todo para mí,  
-> No conozco el miedo,  
-> Pues Dios y el Amor  
+> “Dios lo es todo para mí,
+> No conozco el miedo,
+> Pues Dios y el Amor
 > Y la Verdad están aquí.”
 
 

@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Logo-2nd-Latin-American-Urantia-Conference-small-300x319.jpg">
 </figure>
 
-Nos estamos acercando rápidamente a las fechas en las que se celebrará la II Conferencia regional Latinoamericana en São Paulo (Brasil) del 1 al 4 de noviembre de 2018. El tema de la conferencia será «_Vivir las enseñanzas_» y tendrá lugar en el hotel Monaco de la ciudad de Guarulhos (una de las ciudades del área de São Paulo) que está muy cerca del aeropuerto internacional de São Paulo (Guarulhos).
+Nos estamos acercando rápidamente a las fechas en las que se celebrará la II Conferencia regional Latinoamericana en São Paulo (Brasil) del 1 al 4 de noviembre de 2018. El tema de la conferencia será «_Vivir las enseñanzas_» y tendrá lugar en el hotel Monaco de la ciudad de Guarulhos (una de las ciudades del área de São Paulo) que está muy cerca del aeropuerto internacional de São Paulo (Guarulhos).
 
 Será una oportunidad única de compartir experiencias y conocimientos, de conocer a nuevos amigos y reforzar relaciones y de aprender otras maneras de ver las enseñanzas de _El libro de Urantia_ a partir de las distintas perspectivas de nuestras diferentes culturas.
 
@@ -31,7 +31,7 @@ El hotel Monaco ofrece habitaciones dobles con todas las comodidades. Puede opta
 
 El paquete negociado por los organizadores de la conferencia incluye todas las comidas (desayuno, almuerzo y cena) por unos 184 reales brasileños por persona y día, que basado en la equivalencia actual dólar-real (1 dólar = 3,70 reales) es de unos 50 $ al día, con un total de 150 $ para los tres días del evento. Hay una tarifa extra de inscripción de 111 reales (30 $) por persona, así que el coste de la conferencia es aproximadamente de unos 180 $.
 
-Aunque el coste es razonable, si aún así tienen dificultades económicas que les impidan asistir pueden solicitar una beca que cubra su asistencia total o parcialmente. Envíen su petición a [contato@urantia.com.br](mailto:contato@urantia.com.br).
+Aunque el coste es razonable, si aún así tienen dificultades económicas que les impidan asistir pueden solicitar una beca que cubra su asistencia total o parcialmente. Envíen su petición a [contato@urantia.com.br](mailto:contato@urantia.com.br).
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Map-Brazil-Conf-706x339.jpg">
@@ -39,11 +39,11 @@ Aunque el coste es razonable, si aún así tienen dificultades económicas que l
 
 Si desean hacer un viaje por Brasil, asegúrense de planear su viaje antes o después de la conferencia. El equipo organizador estará muy contento de aconsejarles sobre un paquete apropiado de viajes.
 
-Para obtener más información, visiten el sitio web de la conferencia: [urantiaconference.com](http://urantiaconference.com/) o envíen un correo a [contato@urantia.com.br](mailto:contato@urantia.com.br).
+Para obtener más información, visiten el sitio web de la conferencia: [urantiaconference.com](http://urantiaconference.com/) o envíen un correo a [contato@urantia.com.br](mailto:contato@urantia.com.br).
 
 ¡Vengan y únanse a nosotros! ¡Esperamos con ilusión verlos en noviembre!
 
-Enrique Traver  
+Enrique Traver
 Presidente de la UAB—Brasil
 
 ## Referencias

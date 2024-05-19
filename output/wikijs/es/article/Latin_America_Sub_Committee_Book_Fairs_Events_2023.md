@@ -44,13 +44,13 @@ FECHA | LUGAR | COORDINADOR | CONTACTO
 22 de abril-2 de mayo | Córdoba, Argentina | Mora Franco | mora.franco@urantiabook.org
 4-14 de mayo | Santo Domingo, República Dominicana | Ariel Vargas | ariel.arielv@gmail.com
 26 mayo-junio II | Madrid, España | Mariano Pérez | mariano3962@hotmail.com
-31 de mayo - II de junio | Santa Cruz, Bolivia | Fabiola Domínguez |  
+31 de mayo - II de junio | Santa Cruz, Bolivia | Fabiola Domínguez |
 21 de julio-6 de agosto | Lima, Perú | Alejandro Ampudia | alejandro.ampudia@urantiabook.org
-2-13 de agosto | La Paz, Bolivia | Fabiola Domínguez |  
+2-13 de agosto | La Paz, Bolivia | Fabiola Domínguez |
 20-24 de septiembre | Guayaquil, Ecuador | Gabriel Pino | galepino@yahoo.com
-Octubre (fechas por anunciar) | Cochabamba, Bolivia | Fabiola Domínguez |  
+Octubre (fechas por anunciar) | Cochabamba, Bolivia | Fabiola Domínguez |
 Octubre (fechas por anunciar) | Caracas, Venezuela | Indira Rodríguez | indiracarolina23@gmail.com
-Octubre (fechas por anunciar) | Tarija, Bolivia | Fabiola Domínguez |  
+Octubre (fechas por anunciar) | Tarija, Bolivia | Fabiola Domínguez |
 25 de noviembre-3 de diciembre | Guadalajara, México | Xóchitl, Quintero | xochilquintero@yahoo.com
 noviembre o diciembre | Santiago de Chile | Felipe Arrigorriaga | felipe.arrigorriaga@urantiabook.org
 Diciembre (fechas por anunciar) | Quito, Ecuador | Gabriel Pino | galepino@yahoo.com

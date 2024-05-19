@@ -54,7 +54,7 @@ Debo mencionar también que otras personas han advertido un cambio en mí para m
 
 Para los que están entre bastidores en la UBIS y que dedican su tiempo para hacer posible esta escuela sublime, ¡muchas gracias! Habéis desarrollado voluntariamente y estáis manteniendo magníficamente un lugar para aprender sobre el amor infinito de Dios y la increíble vida que Él ofrece a Sus hijos amados aquí en la tierra.
 
-Que el Padre de allá arriba nos sostenga en la palma de Su mano y nos cambie la vida según Su  voluntad.
+Que el Padre de allá arriba nos sostenga en la palma de Su mano y nos cambie la vida según Su  voluntad.
 
 
 ## Referencias

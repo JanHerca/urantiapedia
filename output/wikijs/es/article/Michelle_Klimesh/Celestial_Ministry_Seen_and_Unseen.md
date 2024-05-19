@@ -31,7 +31,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-_Este documento es un reflejo escrito de las charlas plenarias en la Sesión de estudio de verano de la beca en River Forest, Illinois, en julio de 2006._  
+_Este documento es un reflejo escrito de las charlas plenarias en la Sesión de estudio de verano de la beca en River Forest, Illinois, en julio de 2006._
 
 ## Origen
 
@@ -62,16 +62,16 @@ Conciliadores Universales | 400 millones
 Asesores Técnicos | 500 millones
 Los Registradores Celestiales | 75
 Ángeles registradores | 4.000 millones
-Compañeros morontiales | 70 mil millones  
+Compañeros morontiales | 70 mil millones
 
 Así que tenemos 76.403.800.000 ángeles trabajando en el nivel del universo local de Nebadón. ¡76.400 millones! Pero esta recopilación no está completa. Debemos agregar a este montón angelical «muy alto en millones» los Asistentes Más Altos, un número de Instructores de Mundos Mansión «más allá de la comprensión de la mente mortal», y varios otros tipos «demasiado numerosos para catalogar». Aunque estos números seguramente suman algo mucho más alto, digamos de manera conservadora que hay 80 mil millones de ángeles trabajando para nuestro universo local.
 
 80 _mil millones de ángeles del universo local_
 x 100.000 _universos locales_
 x 7 _superuniversos_
-= 56.000.000.000.000.000 _ángeles trabajando en los universos locales_  
+= 56.000.000.000.000.000 _ángeles trabajando en los universos locales_
 
-Me preocupaba que este número fuera demasiado confuso y decidí intentar otro enfoque para comprender los números que componen la familia del Espíritu Infinito.  
+Me preocupaba que este número fuera demasiado confuso y decidí intentar otro enfoque para comprender los números que componen la familia del Espíritu Infinito.
 
 Tenemos el número exacto de planetas habitados en el gran universo. Nótese que el Jefe de los Serafines en Urantia dijo que tenía 1.194.393.600 serafines asignados a su mando. Nótese también que nuestro planeta tiene un número similar de querubines, y vemos que la tierra está bendecida con los servicios de 2.388.787.200 ángeles.
 
@@ -79,7 +79,7 @@ Este es un número maravillosamente preciso (como corresponde al informe de un g
 
 2 _mil millones de ángeles por planeta_
 x 5.342 _trillones de planetas habitados_
-= 10,684,000,000,000,000,000,000 _ángeles trabajando en planetas habitados_  
+= 10,684,000,000,000,000,000,000 _ángeles trabajando en planetas habitados_
 
 ¡10,7 sextillones de ángeles! Agregue estos a los 56 cuatrillones que trabajan en los niveles del universo local, y tenga en cuenta que el Espíritu Infinito está personalmente al tanto de todos y cada uno de ellos. ¿Cómo podemos ser otra cosa que asombrados por el alcance del poder de Dios?
 
@@ -91,7 +91,7 @@ _El universo de vuestro origen se está forjando entre el yunque de la justicia 
 
 Se nos dice que solo el bien puede resultar de nuestros esfuerzos por amar y comprender a los ángeles. ¿Qué clase de personas son estas, los hijos del Espíritu Infinito, que nos tienen bajo su cuidado?
 
-Los ángeles son criaturas sociales. Pueden trabajar solos pero generalmente trabajan en parejas. No son hombres ni mujeres, sino que se emparejan como parejas positivas/negativas o agresivas/retiradas. Los ángeles nos conocen, nos ven claramente y comparten muchas de nuestras emociones. Son naturalmente comprensivos y se deleitan en el servicio.  
+Los ángeles son criaturas sociales. Pueden trabajar solos pero generalmente trabajan en parejas. No son hombres ni mujeres, sino que se emparejan como parejas positivas/negativas o agresivas/retiradas. Los ángeles nos conocen, nos ven claramente y comparten muchas de nuestras emociones. Son naturalmente comprensivos y se deleitan en el servicio.
 
 Los ángeles son excepcionalmente expertos en matemáticas. Pasan pacientemente miles de años entrenándose y participando continuamente en la superación personal. Los ángeles buscan persistentemente asignaciones en los niveles más bajos posibles de la realidad, y anhelan especialmente el trabajo como guardianes del destino mortal.
 
@@ -142,13 +142,13 @@ Steven Covey cree que el éxito y la felicidad perdurables solo son posibles med
 
 El ministerio angélico se ocupa tanto del ámbito personal como del interpersonal. En nuestro mundo natal, se preocupan por la vida familiar, las prácticas de salud y el desarrollo industrial. En los niveles del universo profundizan nuestra moralidad, expanden nuestra ética y mejoran nuestra conciencia de la hermandad cósmica. Los ángeles nos ministran perfectamente, dondequiera que estemos.
 
-La familia del Espíritu Infinito avanza cada vez más hacia abajo, acercándose lo más posible a los mortales. Los agentes de Dios están a nuestro lado durante todo nuestro viaje a través de los universos. ¿Por qué han emprendido este enorme desafío? ¿Cuál es el propósito de este asombroso sistema de ministerio celestial que impregna el universo conocido?  
+La familia del Espíritu Infinito avanza cada vez más hacia abajo, acercándose lo más posible a los mortales. Los agentes de Dios están a nuestro lado durante todo nuestro viaje a través de los universos. ¿Por qué han emprendido este enorme desafío? ¿Cuál es el propósito de este asombroso sistema de ministerio celestial que impregna el universo conocido?
 
 ## Destino
 
 Estamos rodeados de ministros celestiales que están interesados ​​en el desarrollo de nuestro carácter: emocional, intelectual, social y espiritual. Los ángeles pasan eones ayudando a crear legiones y legiones de criaturas del universo perfeccionadas, criaturas que:
 
-- Comienzan desde los puntos más bajos de los universos y avanzan hacia el Paraíso, en el abrazo de Dios Padre.  
+- Comienzan desde los puntos más bajos de los universos y avanzan hacia el Paraíso, en el abrazo de Dios Padre.
 
 - Son morales, éticos, alegres, fieles, confiados, dignos de confianza, valientes, misericordiosos y pacientes.
 
@@ -158,7 +158,7 @@ Estamos rodeados de ministros celestiales que están interesados ​​en el des
 
 - Se han alistado irrevocablemente al servicio de Dios
 
-- Son para siempre inmunes a la rebelión.  
+- Son para siempre inmunes a la rebelión.
 
 ¿Por qué? ¿Qué planea hacer Dios con esta asamblea?
 
@@ -206,7 +206,7 @@ Reconocemos este texto como el [salmo 23](/es/Bible/Psalms/23):
 > Unges mi cabeza con aceite; mi copa se desborda.
 > Ciertamente el bien y la misericordia me seguirán
 > todos los días de mi vida,
-> Y en la casa del Señor moraré para siempre.  
+> Y en la casa del Señor moraré para siempre.
 
 ¿Por qué eligió el ángel dar su mensaje a este pastor en particular? A juzgar por la recitación imperfecta de su mensaje, no podemos decir que él fuera un oyente especialmente bueno. No transmitió el mensaje a la perfección. El ángel no le habló porque tenía buenas conexiones o era rico o famoso; hoy ni siquiera sabemos su nombre. Pero de alguna manera este niño retuvo suficiente del mensaje del ángel para transmitirlo a otros, y su mensaje fue una inspiración tan poderosa para la humanidad que se ha transmitido siglo tras siglo para consolar a la gente incluso hoy.
 
@@ -214,10 +214,10 @@ Me encanta esta historia porque me asegura que aún no tenemos que ser perfectos
 
 Nota del autor: Un agradecimiento especial a Jack Kane por darme los nombres de los números superiores a billones.
 
-> Michelle ha sido estudiante de _El Libro de Urantia_ desde que tenía 19 años. Es miembro de la sociedad Golden Gate Circle en el norte de California, actual secretaria general de la Fraternidad y autora de La historia de todo, una condensación de la revelación.  
+> Michelle ha sido estudiante de _El Libro de Urantia_ desde que tenía 19 años. Es miembro de la sociedad Golden Gate Circle en el norte de California, actual secretaria general de la Fraternidad y autora de La historia de todo, una condensación de la revelación.
 {.is-info}
 
-> El trabajo [de los ángeles] en el universo no tiene trabas ni limitaciones; están estrechamente asociados con las criaturas materiales de los mundos, y siempre están al servicio de las órdenes inferiores de personalidades espirituales, poniendo en contacto a estos seres del mundo espiritual con los mortales de los reinos materiales. <a id="a219_337"></a>[[LU 38:5.4](/es/The_Urantia_Book/38#p5_4)]  
+> El trabajo [de los ángeles] en el universo no tiene trabas ni limitaciones; están estrechamente asociados con las criaturas materiales de los mundos, y siempre están al servicio de las órdenes inferiores de personalidades espirituales, poniendo en contacto a estos seres del mundo espiritual con los mortales de los reinos materiales. <a id="a219_337"></a>[[LU 38:5.4](/es/The_Urantia_Book/38#p5_4)]
 
 ## Referencias
 

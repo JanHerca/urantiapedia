@@ -46,13 +46,13 @@ Nadie puede comunicarse directamente con el Supremo ni tratar de actuar sobre é
 
 ## La Madre Divina
 
-El Supremo juega un papel tan primordial que su presencia se asemeja a la de una Madre que se sumerge, una madre que lleva dentro de sí todos los universos del tiempo y del espacio. La influencia de la Madre sumergida es tan omnipresente que incluso los Ajustadores del Pensamiento, que se asemejan al Padre en naturaleza y divinidad, se vuelven similares al Supremo cuando penetran en el cosmos. Esta transformación de los Ajustadores del Pensamiento no deja dudas de que la voluntad del Padre expresada en los universos espacio-temporales está verdaderamente unificada en el Supremo.  
+El Supremo juega un papel tan primordial que su presencia se asemeja a la de una Madre que se sumerge, una madre que lleva dentro de sí todos los universos del tiempo y del espacio. La influencia de la Madre sumergida es tan omnipresente que incluso los Ajustadores del Pensamiento, que se asemejan al Padre en naturaleza y divinidad, se vuelven similares al Supremo cuando penetran en el cosmos. Esta transformación de los Ajustadores del Pensamiento no deja dudas de que la voluntad del Padre expresada en los universos espacio-temporales está verdaderamente unificada en el Supremo.
 
 ## El Dios Evolutivo
 
 El Supremo no es una deidad perfecta sino más bien una deidad experiencial en proceso de evolución. Las personalidades a cargo del control físico del universo trabajan incesantemente para dominar la materia a fin de crear estabilidad y armonía en los dominios físicos. Otras personalidades trabajan para perfeccionar sus conocimientos en todas las áreas, para crecer en sabiduría y experiencia. Lejos de parecerse a un monolito, el Supremo aparece más bien como un mosaico cuya unidad aún no se ha logrado.
 
-Los esfuerzos incesantes del Supremo para unificar los reinos del espíritu, la mente y la materia se reflejan en el nivel microcósmico en el surgimiento de fuerzas creativas dentro de la mente misma. Estas son las fuerzas creadoras que impulsan a las personalidades volitivas del universo a dedicarse a la construcción de mundos organizados y espiritualizados. Todos los circuitos de la mente están sobrecargados de fuerzas creativas que estimulan a las personalidades —incluidos los mortales— a desarrollar los dominios material, morontial y espiritual de nuestro planeta. Gracias a esta relación de interdependencia cósmica, la Madre divina crece con las criaturas del tiempo. De la misma manera, los padres humanos crecen con sus hijos en la experiencia de ser padres.  
+Los esfuerzos incesantes del Supremo para unificar los reinos del espíritu, la mente y la materia se reflejan en el nivel microcósmico en el surgimiento de fuerzas creativas dentro de la mente misma. Estas son las fuerzas creadoras que impulsan a las personalidades volitivas del universo a dedicarse a la construcción de mundos organizados y espiritualizados. Todos los circuitos de la mente están sobrecargados de fuerzas creativas que estimulan a las personalidades —incluidos los mortales— a desarrollar los dominios material, morontial y espiritual de nuestro planeta. Gracias a esta relación de interdependencia cósmica, la Madre divina crece con las criaturas del tiempo. De la misma manera, los padres humanos crecen con sus hijos en la experiencia de ser padres.
 
 ## Personalidad del Supremo
 
@@ -72,7 +72,7 @@ El Espíritu Santo deriva del Espíritu Madre de nuestro universo local. _El Lib
 
 ## El efecto del Supremo en nosotros
 
-El funcionamiento unificado de estas influencias espirituales, a las que nos referimos como el Supremo en nosotros, genera actitudes del alma que son sublimes y bastante difíciles de definir. Por ejemplo:  
+El funcionamiento unificado de estas influencias espirituales, a las que nos referimos como el Supremo en nosotros, genera actitudes del alma que son sublimes y bastante difíciles de definir. Por ejemplo:
 - un profundo sentimiento de unidad personal
 - un estado de paz profunda y dinámica
 - un sentido de responsabilidad moral excepcional
@@ -83,17 +83,17 @@ El funcionamiento unificado de estas influencias espirituales, a las que nos ref
 - energía vital
 - y mucho más
 
-La suma total de estos estados del alma denota una intensa y dinámica sensibilidad espiritual acompañada de un deseo de superación.  
+La suma total de estos estados del alma denota una intensa y dinámica sensibilidad espiritual acompañada de un deseo de superación.
 
 ## Moralidad cósmica
 
 Nuestra relación con el Supremo es el fundamento de la moralidad cósmica, la sensibilidad universal al deber y su aceptación. La moral cósmica no es lo que uno podría pensar en un principio, es decir, una doctrina que nos enseña qué hacer y qué no hacer. La moralidad cósmica tiene como objetivo determinar los fines supremos de la vida y ejercer la fe en el compromiso con estos fines.
 
-La moralidad cósmica se expresa a través de poderosas apelaciones a la conciencia, en situaciones que apelan al deber moral y al sentido de responsabilidad. Las apelaciones a la conciencia abarcan las grandes cuestiones éticas, morales y espirituales que confrontan nuestra época. Revela también una sensibilidad universal al deber que trasciende el estricto ámbito familiar y social, una sensibilidad que cruza las barreras religiosas, culturales y lingüísticas.  
+La moralidad cósmica se expresa a través de poderosas apelaciones a la conciencia, en situaciones que apelan al deber moral y al sentido de responsabilidad. Las apelaciones a la conciencia abarcan las grandes cuestiones éticas, morales y espirituales que confrontan nuestra época. Revela también una sensibilidad universal al deber que trasciende el estricto ámbito familiar y social, una sensibilidad que cruza las barreras religiosas, culturales y lingüísticas.
 
 ## Una fuerza universal
 
-El supremo:  
+El supremo:
 - puede ser visto como Dios comprometiendo al hombre en el trabajo incansable de mejorar las condiciones materiales y espirituales de la vida en la tierra
 - puede definirse como un ideal cósmico sublime que domina el alma
 - puede parecer el Dios del amor fraterno que dinamiza todo el universo
@@ -106,7 +106,7 @@ El supremo:
 
 En el futuro, no será tanto que la humanidad cambie, sino que cambiará nuestra visión de la sociedad, nuestra visión de la humanidad, nuestra visión del planeta y nuestra visión del universo. Una forma embrionaria de conciencia planetaria ahora está creciendo y nos está conduciendo a la etapa de responsabilidad consciente y colectiva. La conciencia del Supremo no surge en nuestra mente para complicar nuestras vidas pacíficas sino para resolver problemas relacionados con nuestro crecimiento individual y colectivo.
 
-La conciencia del Supremo nos convierte en pilares espirituales al servicio del Cuerpo de Reserva del Destino, integrado por voluntarios y pensadores sinceramente entregados al servicio de la fraternidad humana a medida que nuestro planeta avanza lentamente hacia la era de la luz y la vida. Debido al crecimiento vital que jugamos en el crecimiento mismo del universo, el Supremo nos confiere a cada uno de nosotros el estatus de ciudadano potencial del universo, un ciudadano con derechos y privilegios virtualmente ilimitados, pero también con deberes y responsabilidades dignos de la más hermosa de las destinos ofrecidos en esta era.  
+La conciencia del Supremo nos convierte en pilares espirituales al servicio del Cuerpo de Reserva del Destino, integrado por voluntarios y pensadores sinceramente entregados al servicio de la fraternidad humana a medida que nuestro planeta avanza lentamente hacia la era de la luz y la vida. Debido al crecimiento vital que jugamos en el crecimiento mismo del universo, el Supremo nos confiere a cada uno de nosotros el estatus de ciudadano potencial del universo, un ciudadano con derechos y privilegios virtualmente ilimitados, pero también con deberes y responsabilidades dignos de la más hermosa de las destinos ofrecidos en esta era.
 
 ## Referencias
 

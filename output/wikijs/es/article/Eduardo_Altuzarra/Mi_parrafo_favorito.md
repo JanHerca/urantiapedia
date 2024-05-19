@@ -56,7 +56,7 @@ La ciencia difícilmente podrá demostrar que Dios existe, y sin embargo la nece
 
 Podemos hacer algo tan sencillo como un examen de conciencia. Una reflexión profunda y sincera acerca de nuestras experiencias de vida. Como somos, como pensamos, como hablamos, como hacemos y el grado de coherencia que existe entre todos esos comportamientos. Si todo ello se encuentra de un modo razonable dentro de una lógica, es que vamos por buen camino.
 
-La conciencia, esa cualidad humana que ayuda de una manera ética y moral a reconocer sinceramente lo bueno y lo malo, va a ser el factor determinante que va a hacer posible sacarnos de la duda.  
+La conciencia, esa cualidad humana que ayuda de una manera ética y moral a reconocer sinceramente lo bueno y lo malo, va a ser el factor determinante que va a hacer posible sacarnos de la duda.
 Todo comienza, a mi entender, en el mundo de las ideas. En la mayoría de las ocasiones las ideas nos dan que pensar, incluso compartimos esos pensamientos, y en ocasiones llevamos a la acción los pensamientos que promovieron aquellas ideas.
 
 Si hay que ser sincero, no tengo muy claro la procedencia de las ideas. Hay teorías que dicen que las ideas se producen de los pensamientos profundos, otras que vienen de inspiraciones reflexivas, otras que provienen de la mente. De momento, me quedo con que las ideas proceden de la mente.
@@ -73,7 +73,7 @@ A Dios se le comprende y se le conoce cuando nosotros llegamos a creer en su exi
 
 Y termino este articulo diciendo que Albert Einstein tenía un concepto muy profundo sobre lo que es Dios. Él admiraba la idea de un espíritu superior que podemos detectar en los detalles del universo y en la capacidad de nuestra mente de emocionarse ante lo infinitamente incomprensible que es Dios:
 
-> «Mi religiosidad consiste en una humilde admiración del espíritu infinitamente superior que se revela en los pequeños detalles que podemos percibir con nuestras mentes frágiles y débiles. Esa convicción profundamente emocional de la presencia de un poder de razonamiento superior, que se revela en el universo incomprensible, forma mi idea de Dios.»  
+> «Mi religiosidad consiste en una humilde admiración del espíritu infinitamente superior que se revela en los pequeños detalles que podemos percibir con nuestras mentes frágiles y débiles. Esa convicción profundamente emocional de la presencia de un poder de razonamiento superior, que se revela en el universo incomprensible, forma mi idea de Dios.»
 > Fuente: https://frases.top/frases-celebres/frases-albert-einstein/#Frases_de_Einstein_sobre_Dios
 
 > Una vez que mis hijos se hagan conscientes de la certeza de la presencia divina, esa fe abrirá su mente, ennoblecerá su alma, fortalecerá su personalidad, aumentará su felicidad, intensificará su percepción espiritual y realzará su poder para amar y ser amados. <a id="a78_264"></a>[LU 159:3.12](/es/The_Urantia_Book/159#p3_12)

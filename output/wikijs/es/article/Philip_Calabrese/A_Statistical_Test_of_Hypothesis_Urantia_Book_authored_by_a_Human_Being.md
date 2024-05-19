@@ -70,11 +70,11 @@ Otra área que requiere cierto juicio consiste en decidir si hay suficiente conv
 
 Otra área de juicio es decidir si una posición científica actual está realmente bien establecida o se basa más en el dogma científico. Por ejemplo, aunque en 2013 la mayoría de todos los científicos supuestamente opinan que la vida surgió de la materia no viva sin una participación sobrehumana, no hay pruebas científicas de eso. No está científicamente «bien establecido». Mostrar que la estimulación eléctrica de átomos y compuestos simples puede producir hidrocarburos más complejos pero no vivos que son esenciales para los seres vivos no demuestra ni prueba que la vida surgió al azar de la sopa química primordial.
 
-Debido a que CS es un cuerpo de conocimiento en constante crecimiento y reforma, la contribución de las declaraciones individuales a la conclusión estadística puede cambiar de un lado a otro a lo largo de los años. Por lo tanto, esta prueba debe repetirse periódicamente a medida que se descubre más ciencia. No obstante, la convergencia general de la informática hacia la ciencia de _El Libro de Urantia_ ya es evidente durante las décadas entre 1955 y el 24/5/2013.   
+Debido a que CS es un cuerpo de conocimiento en constante crecimiento y reforma, la contribución de las declaraciones individuales a la conclusión estadística puede cambiar de un lado a otro a lo largo de los años. Por lo tanto, esta prueba debe repetirse periódicamente a medida que se descubre más ciencia. No obstante, la convergencia general de la informática hacia la ciencia de _El Libro de Urantia_ ya es evidente durante las décadas entre 1955 y el 24/5/2013. 
 
 **Estimación de probabilidades.** En teoría, para cada declaración de reversión científica, hay un registro histórico del porcentaje de autores científicos que adoptaron (publicaron) la comprensión científica actual y contemporánea. Este porcentaje, expresado como una fracción, puede interpretarse como la probabilidad de que un autor humano en ese momento se adhiera a la versión científica actual de la información. El número 1 menos esta fracción es la probabilidad de que un autor humano en ese momento exprese dudas o algo mayormente incorrecto en comparación con la comprensión científica actual. Esta es la «probabilidad de duda o error humano» para la declaración de reversión asociada.
 
-Sin embargo, se pueden hacer ciertas simplificaciones muy útiles para la prueba que están diseñadas para aumentar solo la probabilidad de aceptar la autoría humana y que, por lo tanto, mantienen el nivel de significancia de la prueba. Es decir, la probabilidad de rechazar falsamente la autoría humana no aumenta con las siguientes simplificaciones.   
+Sin embargo, se pueden hacer ciertas simplificaciones muy útiles para la prueba que están diseñadas para aumentar solo la probabilidad de aceptar la autoría humana y que, por lo tanto, mantienen el nivel de significancia de la prueba. Es decir, la probabilidad de rechazar falsamente la autoría humana no aumenta con las siguientes simplificaciones. 
 
 **Simplificaciones de los datos de prueba.** No sesgará la muestra, pero simplificará en gran medida la recopilación de datos históricos, para _restringir la población_ a todas (y solo) aquellas «declaraciones inversas» científicas para las cuales, de acuerdo con la actualidad (CS ) conocimiento científico, 2/3 o más de las opiniones científicas en 1955 estaban equivocadas o expresaban ignorancia. (Eso elimina 50-50 preguntas).
 
@@ -90,7 +90,7 @@ Ahora hay calculadoras en línea[^0] para las distribuciones binomiales que gene
 
 **Declaraciones independientes para pruebas.** Las siguientes declaraciones de inversión se han agrupado en ejemplos independientes. Por ejemplo, calcular los tamaños de un protón y un electrón y el tamaño de la órbita del electrón se consideran preguntas relacionadas (no independientes): saber la respuesta a una afecta la probabilidad de saber la respuesta a las demás. Por lo tanto, no son independientes, por lo que se agrupan en el punto 5. Hay una nota final para cada punto que proporciona el Documento:Sección.párrafos relevantes en _El Libro de Urantia_ junto con otras referencias que establecen la declaración inversa.
 
-La letra «C» (para convergencia, éxito) o la letra «D» (para divergencia, fracaso) se ha colocado después de la mayoría de los elementos que indican una asignación tentativa. Un signo de interrogación «?» indica que la comprensión actual no está lo suficientemente bien establecida, o que hay alguna, pero no suficiente, convergencia o divergencia, o que hay alguna otra pregunta sobre la declaración de inversión. Esta categoría no se usará para la prueba, pero se usará para identificar posibles ejemplos futuros de declaraciones de inversión de CS.  
+La letra «C» (para convergencia, éxito) o la letra «D» (para divergencia, fracaso) se ha colocado después de la mayoría de los elementos que indican una asignación tentativa. Un signo de interrogación «?» indica que la comprensión actual no está lo suficientemente bien establecida, o que hay alguna, pero no suficiente, convergencia o divergencia, o que hay alguna otra pregunta sobre la declaración de inversión. Esta categoría no se usará para la prueba, pero se usará para identificar posibles ejemplos futuros de declaraciones de inversión de CS.
 
 ## Declaraciones de inversión de la ciencia física contemporánea
 
@@ -111,7 +111,7 @@ La letra «C» (para convergencia, éxito) o la letra «D» (para divergencia, f
 12. Los rayos cósmicos (muy alta energía [^vi]), desde el espacio exterior lejano, escapan de los agujeros negros, caen en cascada en la atmósfera superior. ( C )
 13. Los meteoritos más rápidos son extragalácticos y viajan a 200 mi/s en relación con la Tierra.[^vii] ( C )
 14. Los agujeros negros (cuerpos oscuros sin luz ni calor) pueden estar muy cargados. [^viii] ( C )
-15. Los telescopios verán enormes desplazamientos hacia el rojo que harán parecer que la velocidad de recesión de los universos del espacio exterior lejano es ≥ 30,000 mi/seg[^ix] ( C )  
+15. Los telescopios verán enormes desplazamientos hacia el rojo que harán parecer que la velocidad de recesión de los universos del espacio exterior lejano es ≥ 30,000 mi/seg[^ix] ( C )
 16. Existe expansión espacial y aceleración[^x] ( C )
 17. El Big Bang (comienzo del universo del espacio y la materia en el espacio) ocurrió hace unos 13.700 millones de años[^xi]. La radiación de fondo de 4 grados por encima del cero absoluto se acepta como evidencia del Big Bang. ( D )
 18. El espacio no está vacío. Su temperatura está por encima del cero absoluto.[^xii] ( C )
@@ -139,9 +139,9 @@ La letra «C» (para convergencia, éxito) o la letra «D» (para divergencia, f
 
 35. Los lémures son los antepasados ​​evolutivos humanos vivos más cercanos. [^xxix] ( C )
 36. El doble fraude fósil del «Hombre de Piltdown»[^xxx] ( C )
-37. Fecha del uso humano del pedernal para hacer fuego mucho antes de lo que se pensaba.[^xxxi] ( C )  
-38. Fecha del Hombre de Pekín en China.[^xxxii] ( C )     
-39. Fecha de la migración humana a Gran Bretaña.[^xxxiii] ( C )     
+37. Fecha del uso humano del pedernal para hacer fuego mucho antes de lo que se pensaba.[^xxxi] ( C )
+38. Fecha del Hombre de Pekín en China.[^xxxii] ( C )   
+39. Fecha de la migración humana a Gran Bretaña.[^xxxiii] ( C )   
 40. Los humanos se aparearon con los neandertales.[^xxxiv] ( C )
 41. Fecha más temprana de la migración del Hombre Rojo a América.[^xxxv] ( D )
 42. Lugar y época de la domesticación de los caballos.[^xxxvi] ( C )

@@ -234,7 +234,7 @@ Mientras que el Foro estaba íntima y vitalmente preocupado por el contenido de 
 
 ## La Revelación y Jesús
 
-La vida y las enseñanzas de Jesús parecen haber atraído poca atención durante todo el período de contacto con los reveladores hasta el momento en que se recibieron los Documentos de Jesús. Antes del establecimiento del Foro, el Dr. Sadler dice: «Escuchamos referencias ocasionales a la vida y las enseñanzas de Jesús, pero ellos (los reveladores) fueron muy cautelosos acerca de la introducción de nuevos conceptos relacionados con el otorgamiento de Urantia de Miguel. De todos los Revelación de Urantia, los Documentos de Jesús fueron la mayor sorpresa». Esta reticencia acerca de Jesús continuó durante todo el período de recepción de las Partes 1-3. De un total de 2564 menciones de la palabra «Jesús» en todos los Documentos, solo 114 aparecen en las Partes 1-3.  
+La vida y las enseñanzas de Jesús parecen haber atraído poca atención durante todo el período de contacto con los reveladores hasta el momento en que se recibieron los Documentos de Jesús. Antes del establecimiento del Foro, el Dr. Sadler dice: «Escuchamos referencias ocasionales a la vida y las enseñanzas de Jesús, pero ellos (los reveladores) fueron muy cautelosos acerca de la introducción de nuevos conceptos relacionados con el otorgamiento de Urantia de Miguel. De todos los Revelación de Urantia, los Documentos de Jesús fueron la mayor sorpresa». Esta reticencia acerca de Jesús continuó durante todo el período de recepción de las Partes 1-3. De un total de 2564 menciones de la palabra «Jesús» en todos los Documentos, solo 114 aparecen en las Partes 1-3.
 
 La pregunta es ¿por qué? En la Parte 1, Documento 2, «La naturaleza de Dios», tiene en su párrafo inicial:
 

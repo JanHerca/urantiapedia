@@ -46,7 +46,7 @@ Al considerar la posibilidad de ofrecerse como voluntario para un stand en un ev
 
 ## Protocolo del Parlamento
 
-Los organizadores del Parlamento han pedido a todos los expositores que tomen nota de su protocolo:  
+Los organizadores del Parlamento han pedido a todos los expositores que tomen nota de su protocolo:
 
 «Al interactuar con personas de comunidades étnicas y/o religiosas con las que no está familiarizado, los expositores deben observar el siguiente protocolo para evitar ofender a nadie sin darse cuenta: no extienda la mano para estrechar la mano de una persona del sexo opuesto; ofrecer o no ofrecer su mano como mejor les parezca; no toques a la gente; mantenga un espacio razonable entre usted y la persona; si desvían la mirada cuando te hablan, no lo tomes como una señal de que algo anda mal; si representa a un grupo espiritual o religioso, no haga proselitismo y, sobre todo, no denigre a otras religiones: su función es representar a su grupo de manera positiva a través de su comportamiento, presentación y los materiales que vende o distribuye, y proporciona información y responder a las preguntas de los interesados».
 

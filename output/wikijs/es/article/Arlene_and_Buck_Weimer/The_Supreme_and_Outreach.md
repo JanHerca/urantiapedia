@@ -34,7 +34,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-_Lo siguiente se presentó en la sesión de verano de becarios en julio de 2007._  
+_Lo siguiente se presentó en la sesión de verano de becarios en julio de 2007._
 
 A primera vista, puede parecer que El Supremo y su alcance pueden ser una combinación inusual de temas para una presentación. A medida que avancemos, esta integración se hará más clara.
 
@@ -68,19 +68,19 @@ El Supremo crece como resultado del «alimento» que le proporcionamos por decis
 
 Nosotros, los pueblos de Urantia, hemos sido muy afortunados de ser uno de los siete lugares entre 10.000.000 de posibilidades donde nuestro Hijo Creador Miguel encarnó. Somos doblemente bendecidos con las enseñanzas ideales, su enseñanza para el crecimiento: la paternidad de Dios y la hermandad del hombre. _Y_, además somos bendecidos con la dotación de su Espíritu de Verdad; lo que permite una reinterpretación de este Evangelio con cada generación sucesiva.
 
-La aceptación, por la fe de la filiación con el Padre, da como resultado un aumento de la conciencia espiritual en nuestra relación con el Padre, la _entrada_ en el reino. Pero es nuestra participación en la hermandad del hombre lo que efectúa el crecimiento de nuestra alma; y por lo tanto el camino está abierto para convertirse en buenos ciudadanos cósmicos. «_Con Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo._» <a id="a70_557"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)] (Otra vez hay dualidad).  
+La aceptación, por la fe de la filiación con el Padre, da como resultado un aumento de la conciencia espiritual en nuestra relación con el Padre, la _entrada_ en el reino. Pero es nuestra participación en la hermandad del hombre lo que efectúa el crecimiento de nuestra alma; y por lo tanto el camino está abierto para convertirse en buenos ciudadanos cósmicos. «_Con Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo._» <a id="a70_557"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)] (Otra vez hay dualidad).
 
 El Padre requiere _crecimiento_; un continuo _hacer_ de Su voluntad. Dijo Jesús: «_...El Padre sólo me pide que produzcáis muchos frutos._» <a id="a72_140"></a>[[LU 180:2.1](/es/The_Urantia_Book/180#p2_1)] Y: «_Los frutos del espíritu son la sustancia del Supremo tal como éste es comprensible en la experiencia humana._» <a id="a72_302"></a>[[LU 117:6.17](/es/The_Urantia_Book/117#p6_17)] Jesús llamó la atención sobre once frutos del espíritu, y los presentó en forma _dual_ como: servicio _amoroso_, devoción_desinteresada_, lealtad_valiente_, etc. Esto representa revelación pura. En comparación, la presentación bíblica de los frutos del espíritu son en forma singular: amor, alegría, paz, etc.
 
-Entonces, ¿quieres ser como Jesús? Luego: «_Cuando un hombre produce en su vida los «frutos del espíritu», muestra simplemente los rasgos que el Maestro manifestó en su propia vida terrenal._» <a id="a74_193"></a>[[LU 194:3.1](/es/The_Urantia_Book/194#p3_1)]  
+Entonces, ¿quieres ser como Jesús? Luego: «_Cuando un hombre produce en su vida los «frutos del espíritu», muestra simplemente los rasgos que el Maestro manifestó en su propia vida terrenal._» <a id="a74_193"></a>[[LU 194:3.1](/es/The_Urantia_Book/194#p3_1)]
 
 ## Alcance y Jesús
 
 Rodán de Alejandría dijo: «_Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos..._» <a id="a78_136"></a>[[LU 160:5.3](/es/The_Urantia_Book/160#p5_3)] (nuestro énfasis)
 
-¿Qué es el alcance? Para nosotros, el proceso multifacético de compartir el evangelio del reino en un ministerio vivo es el alcance; para algunos esto es un deber ministerial. Jesús, hablando a unos cincuenta de sus fieles seguidores, dijo: «Recordad que estáis encargados de predicar este evangelio del reino... y no debéis permitir que nada desvíe vuestra consagración a este único deber». <a id="a80_392"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]  
+¿Qué es el alcance? Para nosotros, el proceso multifacético de compartir el evangelio del reino en un ministerio vivo es el alcance; para algunos esto es un deber ministerial. Jesús, hablando a unos cincuenta de sus fieles seguidores, dijo: «Recordad que estáis encargados de predicar este evangelio del reino... y no debéis permitir que nada desvíe vuestra consagración a este único deber». <a id="a80_392"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]
 
-El ministerio de alcance se puede diferenciar en muchas categorías para abarcar el compromiso y la capacidad del creyente para vivir estas verdades; todo lo cual ayuda en el crecimiento del Supremo. Para ilustrar esto, puede ser útil explorar lo siguiente:  
+El ministerio de alcance se puede diferenciar en muchas categorías para abarcar el compromiso y la capacidad del creyente para vivir estas verdades; todo lo cual ayuda en el crecimiento del Supremo. Para ilustrar esto, puede ser útil explorar lo siguiente:
 
 **Ministerio personal:** Por lo general, compartir uno a uno con familiares, amigos y ejemplos de cuando pasa.
 
@@ -88,7 +88,7 @@ El ministerio de alcance se puede diferenciar en muchas categorías para abarcar
 
 **Discipulado:** Enseñar/predicar públicamente el Evangelio y servir como ejemplo social de amar a Dios y servir a la humanidad.
 
-**Un Apóstol**: Ser un embajador del reino. Renunciar a todo y salir a proclamar activamente el Evangelio por todo el mundo.  
+**Un Apóstol**: Ser un embajador del reino. Renunciar a todo y salir a proclamar activamente el Evangelio por todo el mundo.
 
 El sabor del alcance de Jesús fue primero, por la fe viva en la guía y cuidado de Dios. Era un ejemplo viviente de la divinidad de Dios, y mostró este entusiasmo divino esparciendo buen ánimo dondequiera que iba. La consagración de la voluntad y su desinteresada devoción a la humanidad fueron los sellos distintivos de sus verdades, al igual que el enfoque positivo del amor y la misericordia en lugar de la negatividad: el miedo y el sacrificio.
 
@@ -100,11 +100,11 @@ La forma del ministerio de extensión de Jesús era de naturaleza doble: persona
 
 **Personal:** Desafió la creencia de sus padres en un dios iracundo. «_El Padre celestial no puede amar a sus hijos menos de lo que tú me amas._» <a id="a100_146"></a>[[LU 125:0.6](/es/The_Urantia_Book/125#p0_6)] Por supuesto, a los catorce años se convirtió en padre de sus hermanos y en un consuelo para su madre después de la muerte de José. Usó el método del consejo familiar para dirigir a la familia y el enfoque positivo para disciplinar, especialmente con Judá, hasta que finalmente se fue de casa a la edad de veintiocho años.
 
-Durante dos años estuvo en la gira por el Mediterráneo con Ganid y Gonod, ministrando a las almas temerosas, abatidas y desanimadas. Con el joven que tenía miedo, Jesús primero preguntó cómo llegar a Phenix, luego le explicó al niño la ruta hacia la meta del destino. <a id="a102_268"></a>[[LU 130:6](/es/The_Urantia_Book/130#p6)] Y con el hombre que maltrataba a su esposa en el desembarco de Tarento, después de separarlos, llevó al hombre a un lado y le recordó lo buena y virtuosa persona que era, luego se separó, recordándole al hombre el trato igualitario de Dios el Padre para con todos Sus hijos. [[LU 132:2.par](/es/The_Urantia_Book/132#p2_par)] En su ministerio personal, hubo una producción constante de los frutos del espíritu en su ministerio de divulgación.  
+Durante dos años estuvo en la gira por el Mediterráneo con Ganid y Gonod, ministrando a las almas temerosas, abatidas y desanimadas. Con el joven que tenía miedo, Jesús primero preguntó cómo llegar a Phenix, luego le explicó al niño la ruta hacia la meta del destino. <a id="a102_268"></a>[[LU 130:6](/es/The_Urantia_Book/130#p6)] Y con el hombre que maltrataba a su esposa en el desembarco de Tarento, después de separarlos, llevó al hombre a un lado y le recordó lo buena y virtuosa persona que era, luego se separó, recordándole al hombre el trato igualitario de Dios el Padre para con todos Sus hijos. [[LU 132:2.par](/es/The_Urantia_Book/132#p2_par)] En su ministerio personal, hubo una producción constante de los frutos del espíritu en su ministerio de divulgación.
 
 **Público** : Después de la selección de los apóstoles, Jesús los preparó para el ministerio de divulgación instruyéndolos sobre las muchas facetas del reino de Dios; recordándoles siempre la interpretación personal del amor paterno y el amor fraterno. Primero los envió de dos en dos a las comunidades locales. Luego los preparó con enseñanza espiritual y entrenamiento religioso; y los acompañó en giras de enseñanza y predicación por toda Palestina y las regiones circundantes.
 
-A menudo aconsejaba a los apóstoles, pidiéndoles que se abstuvieran de interferir con otros que pudieran tergiversar el Evangelio. Prefirió enseñar en parábolas hasta el final que: «_...aquellos que desean conocer la verdad puedan encontrar lo que buscan, mientras que nuestros enemigos y aquellos que no aman la verdad puedan escuchar sin comprender._» <a id="a106_354"></a>[[LU 151:1.4](/es/The_Urantia_Book/151#p1_4)] No obstante, encargó a los apóstoles que proclamaran el Evangelio a todas las naciones; incluso a todo hombre, mujer y niño. «_Os envío para proclamar la libertad a los cautivos espirituales, la alegría a los esclavos del miedo, y para curar a los enfermos de acuerdo con la voluntad de mi Padre que está en los cielos._» <a id="a106_722"></a>[[LU 140:3.2](/es/The_Urantia_Book/140#p3_2)]   
+A menudo aconsejaba a los apóstoles, pidiéndoles que se abstuvieran de interferir con otros que pudieran tergiversar el Evangelio. Prefirió enseñar en parábolas hasta el final que: «_...aquellos que desean conocer la verdad puedan encontrar lo que buscan, mientras que nuestros enemigos y aquellos que no aman la verdad puedan escuchar sin comprender._» <a id="a106_354"></a>[[LU 151:1.4](/es/The_Urantia_Book/151#p1_4)] No obstante, encargó a los apóstoles que proclamaran el Evangelio a todas las naciones; incluso a todo hombre, mujer y niño. «_Os envío para proclamar la libertad a los cautivos espirituales, la alegría a los esclavos del miedo, y para curar a los enfermos de acuerdo con la voluntad de mi Padre que está en los cielos._» <a id="a106_722"></a>[[LU 140:3.2](/es/The_Urantia_Book/140#p3_2)] 
 
 ## Conclusión
 
@@ -114,9 +114,9 @@ La sustancia por la cual crece el Ser Supremo está en los frutos vivos del esp�
 
 El alcance es el ministerio de compartir el Evangelio, y cada individuo debe encontrar su nivel de participación. Cuando realice actividades de divulgación, comparta la fe viva de la guía de su Ajustador del Pensamiento, muestre amistad con Dios y luche por lograr un enfoque equilibrado y unificado. Debido a que somos individuos únicos y seres sociales, podemos compartir las formas de alcance personal y público del Maestro. Consciente o inconscientemente estamos, de hecho, haciendo ambas cosas.
 
-> ... Como hijos iluminados por la fe y liberados por el espíritu del reino de los cielos, os enfrentáis con la doble responsabilidad del deber hacia los hombres y del deber hacia Dios, mientras que asumís voluntariamente una tercera obligación sagrada: el servicio a la fraternidad de los creyentes que conocen a Dios. <a id="a116_320"></a>[[LU 178:1.5](/es/The_Urantia_Book/178#p1_5)]  
+> ... Como hijos iluminados por la fe y liberados por el espíritu del reino de los cielos, os enfrentáis con la doble responsabilidad del deber hacia los hombres y del deber hacia Dios, mientras que asumís voluntariamente una tercera obligación sagrada: el servicio a la fraternidad de los creyentes que conocen a Dios. <a id="a116_320"></a>[[LU 178:1.5](/es/The_Urantia_Book/178#p1_5)]
 
-> Arlene y Buck Weimer han sido estudiantes de _El Libro de Urantia_ desde 1972 y han participado en muchos y variados grupos de estudio maravillosos a lo largo de los años. Criaron a tres hijos hasta la edad adulta en Pueblo, Colorado, mientras trabajaban en sus respectivas carreras como terapeutas. Ven sus viajes juveniles como un período de entrenamiento para la dedicación que sienten por el alcance internacional de la revelación.  
+> Arlene y Buck Weimer han sido estudiantes de _El Libro de Urantia_ desde 1972 y han participado en muchos y variados grupos de estudio maravillosos a lo largo de los años. Criaron a tres hijos hasta la edad adulta en Pueblo, Colorado, mientras trabajaban en sus respectivas carreras como terapeutas. Ven sus viajes juveniles como un período de entrenamiento para la dedicación que sienten por el alcance internacional de la revelación.
 {.is-info}
 
 ## Referencias

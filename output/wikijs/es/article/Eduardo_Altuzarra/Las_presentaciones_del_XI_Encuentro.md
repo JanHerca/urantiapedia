@@ -121,7 +121,7 @@ El proceso bien se puede dividir en tres etapas:
 <img src="/image/article/Luz_y_Vida/LyV29/09.jpg">
 </figure>
 
-Educación: consiste en propiciar nuevos pensamientos. Es una etapa en la que se ponen en práctica una labor de investigación espiritual en la que, mediante cortas exposiciones, se plantean preguntas y se emiten respuestas relacionadas con las inquietudes de los asistentes. Se mantienen relaciones amistosas y se establece un clima de confianza fraterna. Esta preparación da claridad a nuevos pensamientos y a nuevas ideas. De todo el proceso, a lo largo del tiempo nacen nuevos compromisos, que llevarán a los asistentes a formar parte de los grupos de estudio.  
+Educación: consiste en propiciar nuevos pensamientos. Es una etapa en la que se ponen en práctica una labor de investigación espiritual en la que, mediante cortas exposiciones, se plantean preguntas y se emiten respuestas relacionadas con las inquietudes de los asistentes. Se mantienen relaciones amistosas y se establece un clima de confianza fraterna. Esta preparación da claridad a nuevos pensamientos y a nuevas ideas. De todo el proceso, a lo largo del tiempo nacen nuevos compromisos, que llevarán a los asistentes a formar parte de los grupos de estudio.
 
 La práctica diaria implica trabajo y esfuerzo. Querer desarrollar el plan, poder con esa responsabilidad y comprometerse en elevar la capacidad espiritual. Nada es gratuito.
 

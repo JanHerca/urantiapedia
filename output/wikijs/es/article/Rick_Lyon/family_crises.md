@@ -38,17 +38,17 @@ Los miembros de la familia tendían a sentir pena por Brad o a estar incómodos 
 
 Los médicos no querían decirnos qué le pasaba a nuestro hijo. En realidad negábamos que le pasara _algo_ y pensábamos que saldría adelante. Intentábamos actuar de la manera más normal posible esperando que la crisis desapareciera. Al principio acudíamos el uno al otro y más adelante nos dimos la espalda. Su madre decidió que aquel era su castigo en la vida. Yo acudí a _El libro de Urantia_.
 
-Leí que los padres de un hijo discapacitado tienen un 80% de probabilidades de divorciarse. Después de 22 años de matrimonio acabamos divorciándonos. Por entonces pensaba sinceramente que eso haría que mejoraran las cosas para todos, pero no fue así. Cuando Brad se volvió físicamente más grande y fuerte que su madre nos vimos obligados a hacer algo que no queríamos. Brad fue a una casa hogar de la que fue expulsado al cabo de un año, luego al hospital infantil de South Bend y después, cuando el estado cerró todas las instalaciones de salud mental infantil para reducir costes, lo trasladé a su casa con un equipo de Medicaid que lo atendía las 24 horas.
+Leí que los padres de un hijo discapacitado tienen un 80% de probabilidades de divorciarse. Después de 22 años de matrimonio acabamos divorciándonos. Por entonces pensaba sinceramente que eso haría que mejoraran las cosas para todos, pero no fue así. Cuando Brad se volvió físicamente más grande y fuerte que su madre nos vimos obligados a hacer algo que no queríamos. Brad fue a una casa hogar de la que fue expulsado al cabo de un año, luego al hospital infantil de South Bend y después, cuando el estado cerró todas las instalaciones de salud mental infantil para reducir costes, lo trasladé a su casa con un equipo de Medicaid que lo atendía las 24 horas.
 
 Esta es la versión resumida de nuestra crisis familiar.
 
-Comencé a escribir un artículo titulado «La supervivencia de la mente subnormal», que me llevó unos cuantos años escribir y que comencé un par de años antes de que mi hijo falleciera. Durante ese tiempo mi manera de pensar evolucionó y el artículo también; esa fue la razón por la que me llevó tanto tiempo escribirlo. La razón para escribir el artículo adquirió mayor relevancia con la muerte de Brad.
+Comencé a escribir un artículo titulado «La supervivencia de la mente subnormal», que me llevó unos cuantos años escribir y que comencé un par de años antes de que mi hijo falleciera. Durante ese tiempo mi manera de pensar evolucionó y el artículo también; esa fue la razón por la que me llevó tanto tiempo escribirlo. La razón para escribir el artículo adquirió mayor relevancia con la muerte de Brad.
 
 Si alguna vez necesitan averiguar algo sobre un problema difícil o responder a una pregunta difícil, intenten escribir un artículo sobre ello, aunque no pretendan publicarlo. La investigación para escribir un artículo así es una gran terapia y ayuda a encontrar una solución, además de que puede que otros puedan beneficiarse de ella.
 
-Pocos años después de que Brad naciera, un amigo mío tuvo un hijo con una discapacidad severa y estaba terriblemente trastornado. Le dije que primero nos echamos la culpa, luego echamos la culpa a nuestra esposa, luego echamos la culpa a Dios y después acabamos por comprender que no hay nadie a quien culpar pero nos queda la frustración del porqué. Cuando surge una crisis solemos sentir la necesidad de culpar a alguien porque no podemos aceptar que las cosas malas simplemente pasan. Queremos saber «por qué» ha sucedido. Leer las inevitabilidades de la página 51 de _El libro de Urantia_ nos ayuda a comprender no solo el «porqué» cuando nos enfrentamos a una crisis final, sino también su necesidad.
+Pocos años después de que Brad naciera, un amigo mío tuvo un hijo con una discapacidad severa y estaba terriblemente trastornado. Le dije que primero nos echamos la culpa, luego echamos la culpa a nuestra esposa, luego echamos la culpa a Dios y después acabamos por comprender que no hay nadie a quien culpar pero nos queda la frustración del porqué. Cuando surge una crisis solemos sentir la necesidad de culpar a alguien porque no podemos aceptar que las cosas malas simplemente pasan. Queremos saber «por qué» ha sucedido. Leer las inevitabilidades de la página 51 de _El libro de Urantia_ nos ayuda a comprender no solo el «porqué» cuando nos enfrentamos a una crisis final, sino también su necesidad.
 
-Brad nunca tuvo a un colega ni un amigo, nunca tuvo una novia ni se casó, nunca tuvo hijos, nunca tuvo un trabajo ni formó parte de un equipo. Cuando Brad falleció, recuerdo que pedí solo los derechos de la tumba en la funeraria porque las únicas personas que asistirían al funeral serían su madre, su hermano, yo y quizás algunos familiares.
+Brad nunca tuvo a un colega ni un amigo, nunca tuvo una novia ni se casó, nunca tuvo hijos, nunca tuvo un trabajo ni formó parte de un equipo. Cuando Brad falleció, recuerdo que pedí solo los derechos de la tumba en la funeraria porque las únicas personas que asistirían al funeral serían su madre, su hermano, yo y quizás algunos familiares.
 
 Sin embargo, el día del funeral había entre 50 y 60 personas. Ahí fue cuando me di cuenta de que la vida de Brad proporcionó a otros la oportunidad de experimentar y demostrar valentía, altruismo, esperanza, fe, lealtad y desinterés. Incluso con sus discapacidades Brad pudo servir a los demás.
 
@@ -62,9 +62,9 @@ Como padres de Brad nos planteamos muchas preguntas, pero las más importantes e
 
 Luché contra estas preguntas durante muchos años, y sospecho que todos los padres de hijos mentalmente discapacitados también.
 
-La primera pregunta, «¿por qué Brad es así?», es la que se plantean todos los padres de un hijo discapacitado, y la siguiente suele ser «¿por qué Dios dejó que pasara?». O algo peor: «¿por qué Dios le hizo esto a mi hijo?». La conclusión a la que llegué fue que vivimos en un mundo material con cuerpos materiales y que, como cualquier cosa material de un mundo imperfecto, a veces se rompe, sale mal o se acaba deteriorando.
+La primera pregunta, «¿por qué Brad es así?», es la que se plantean todos los padres de un hijo discapacitado, y la siguiente suele ser «¿por qué Dios dejó que pasara?». O algo peor: «¿por qué Dios le hizo esto a mi hijo?». La conclusión a la que llegué fue que vivimos en un mundo material con cuerpos materiales y que, como cualquier cosa material de un mundo imperfecto, a veces se rompe, sale mal o se acaba deteriorando.
 
-> Jesús dijo: _En las cosas de la enfermedad y de la salud, deberíais saber que esos estados físicos son el resultado de causas materiales; la salud no es la sonrisa del cielo, ni la aflicción el enojo de Dios._ <a id="a86_205"></a>[[LU 166:4.10](/es/The_Urantia_Book/166#p4_10)]
+> Jesús dijo: _En las cosas de la enfermedad y de la salud, deberíais saber que esos estados físicos son el resultado de causas materiales; la salud no es la sonrisa del cielo, ni la aflicción el enojo de Dios._ <a id="a86_205"></a>[[LU 166:4.10](/es/The_Urantia_Book/166#p4_10)]
 
 Las dificultades de la vida de Brad no eran de ningún modo una señal de la falta de favor ante Dios. Brad fue simplemente una víctima inocente de uno de los accidentes materiales del tiempo. Estas incidencias no están predispuestas o creadas por las fuerzas espirituales del reino. Nuestro Padre no nos causa ni nos envía dolor ni sufrimiento.
 
@@ -74,7 +74,7 @@ Creo que esta cita quiere decir que le pasan cosas malas a gente buena, igual qu
 
 Entonces ¿por qué nos pasan cosas malas o que percibimos como malas?
 
-En _El libro de Urantia_ nos dicen:
+En _El libro de Urantia_ nos dicen:
 
 > Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen de ninguna manera el concepto de la soberanía universal de Dios. La vida de cualquier criatura evolutiva está asaltada por ciertas inevitabilidades. Examinad las siguientes::
 > 
@@ -118,9 +118,9 @@ Como Brad no tenía una mente normal, ¿quería decir eso que era simplemente un
 
 Así que he aquí una lista de preguntas para que las consideren. Les animo también a usarlas en su grupo de estudio.
 
-¿Cuál es o fue nuestra crisis familiar?  
-¿Cuál era o será el resultado?  
-¿Cómo reaccioné a la crisis?  
+¿Cuál es o fue nuestra crisis familiar?
+¿Cuál era o será el resultado?
+¿Cómo reaccioné a la crisis?
 ¿Dije o hice algo para crear la crisis, para que empeorara o para prolongarla?
 
 ¿Qué dice _El libro de Urantia_ que pueda ayudarme a encontrar una buena solución para nuestra familia o para hacerlo mejor la próxima vez? Intenten responder a estas preguntas desapasionadamente.
@@ -160,7 +160,7 @@ El director de la funeraria me dijo que en 15 años de oficio ese había sido el
 
 Un par de semanas después, mis dos hermanas aparecieron en mi grupo de estudio. Vinieron por lo que había dicho en el funeral de Brad. La madre de Brad (Deborah) ha sentido culpa durante años debido a la situación de Brad, pero las palabras de _El libro de Urantia_ se llevaron la culpa y el miedo que yo no conseguí quitarle.
 
-Los colegas del trabajo enviaron flores para Brad. Les di las gracias por sus condolencias y envié un correo a unas 750 personas de mi empresa que decía: «Aunque estamos tristes por la pérdida de Brad y le echamos mucho de menos, estamos ilusionados por él porque sabemos que «la muerte solo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos”», y añadí la página y el párrafo de _El libro de Urantia_. Recibí una media docena de respuestas amables que hacían comentarios sobre esa afirmación.
+Los colegas del trabajo enviaron flores para Brad. Les di las gracias por sus condolencias y envié un correo a unas 750 personas de mi empresa que decía: «Aunque estamos tristes por la pérdida de Brad y le echamos mucho de menos, estamos ilusionados por él porque sabemos que «la muerte solo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos”», y añadí la página y el párrafo de _El libro de Urantia_. Recibí una media docena de respuestas amables que hacían comentarios sobre esa afirmación.
 
 Y esta es la historia de mi viaje progresivo respecto a mi hijo, a su futuro eterno y a nuestra crisis familiar. Luché durante años y pasé de creer que mi hijo no sobreviviría y esperar estar equivocado a estar convencido de que ha sobrevivido y esperar con ilusión comprobar su crecimiento y progreso futuros en servicio a nuestro Padre. Pasé de creer que Brad no tenía valor de supervivencia potencial a estar convencido de ese hecho y a esperar con ilusión el día en que lo vea de nuevo.
 
@@ -196,7 +196,7 @@ Entonces, cambiemos un poco de marcha.
 
 En _El libro de Urantia_ podemos ver que ha habido muchas separaciones y divisiones en el pasado dentro de la comunidad de creyentes en Jesús. Abner se separó de los apóstoles. Natanael se separó de los apóstoles cuando cambiaron el evangelio. Se produjo el gran cisma de 1054, que provocó la separación final entre las Iglesias cristiana oriental y la Iglesia occidental dirigida por el Papa León IX que no terminó (más o menos) hasta 1965.
 
-Cada grupo religioso importante ha sufrido una o múltiples divisiones o cismas que suelen basarse por lo general en disputas por la sucesión, el poder político o los desacuerdos doctrinales. Además, suele haber tres divisiones dentro de tales grupos que representan diferentes tipos de creencias: puntos de vista conservadores, moderados y liberales.
+Cada grupo religioso importante ha sufrido una o múltiples divisiones o cismas que suelen basarse por lo general en disputas por la sucesión, el poder político o los desacuerdos doctrinales. Además, suele haber tres divisiones dentro de tales grupos que representan diferentes tipos de creencias: puntos de vista conservadores, moderados y liberales.
 
 Aunque todos sentimos y compartimos la unidad espiritual personal como individuos dentro de nuestra comunidad Urantia, vemos estas mismas diferencias organizativas y personalidades de membresía dentro de nuestras organizaciones Urantia. ¿Nos llevará 911 años resolver nuestra crisis? Estoy convencido de que no.
 

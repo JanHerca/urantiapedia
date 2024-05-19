@@ -19,7 +19,7 @@ Ken Glasziou era un científico y estudiante de _El libro de Urantia_ que se esf
 
 La ciencia se desarrolla tan rápido que no sé realmente si sus comentarios siguen siendo relevantes, pero me llevó a pensar en la aplicación del pensamiento científico a la cosmología tal como se explica en _El libro de Urantia_.
 
-Los científicos han intentado desarrollar una teoría que dé cuenta de todo lo que hay en el cosmos, tanto a gran como a pequeña escala, desde los mayores cúmulos de galaxias hasta las partículas más pequeñas que hay dentro de los átomos. Algunos de los físicos y matemáticos más consumados se han entregado a esta tarea, hasta ahora sin éxito, ya que se limitan a considerar solo una parte del conjunto que constituye el cosmos.
+Los científicos han intentado desarrollar una teoría que dé cuenta de todo lo que hay en el cosmos, tanto a gran como a pequeña escala, desde los mayores cúmulos de galaxias hasta las partículas más pequeñas que hay dentro de los átomos. Algunos de los físicos y matemáticos más consumados se han entregado a esta tarea, hasta ahora sin éxito, ya que se limitan a considerar solo una parte del conjunto que constituye el cosmos.
 
 Aunque han desarrollado algunos de los métodos más asombrosos para medir tanto las partículas subatómicas por un lado como los enormes agregados de materia por otro, no han sido capaces de combinarlos en una teoría unificada que dé cuenta de todas las mediciones. Siempre parece haber algo que no encaja.
 
@@ -64,7 +64,7 @@ Hay aspectos de la Deidad que no son personales. Esas otras realidades son las p
 
 > _El Padre Universal, el Hijo Eterno y el Espíritu Infinito son personas únicas; ninguno de ellos es una copia; cada cual es original; todos están unidos_. <a id="a87_142"></a>[[LU 10:2.6](/es/The_Urantia_Book/10#p2_6)]
 
-Dios es la personalidad de la Deidad, pero aún queda mucho de la Deidad que no es personal. Hay cosas como los circuitos de presencia del Hijo Eterno y del Espíritu Infinito, la gravedad del espíritu y la mente, los circuitos de los Espíritus Reflectantes, la mente cósmica de los Espíritus Maestros, y sin duda mucho más. Estos fenómenos son Deidad pero no son personales, y por lo tanto no son Dios Padre.
+Dios es la personalidad de la Deidad, pero aún queda mucho de la Deidad que no es personal. Hay cosas como los circuitos de presencia del Hijo Eterno y del Espíritu Infinito, la gravedad del espíritu y la mente, los circuitos de los Espíritus Reflectantes, la mente cósmica de los Espíritus Maestros, y sin duda mucho más. Estos fenómenos son Deidad pero no son personales, y por lo tanto no son Dios Padre.
 
 El destino es permitir que el espíritu domine la materia a través de la mente, según la dirección de la personalidad, y de ello pueden derivarse algunos aspectos del propósito de Dios. Pero para la ciencia material el destino y el propósito son productos de la mente mortal. La ciencia reconoce la mente, pero la considera simplemente el resultado del cerebro mortal. Ciertamente, el cerebro mortal exhibe algunos resultados medibles, pero eso es solo una fracción de su función, que la ciencia confunde con el todo. Como consecuencia, la ciencia considera las cuestiones de destino y propósito como expresiones puramente subjetivas de las mentes mortales y las descarta como delirios teleológicos.
 

@@ -53,7 +53,7 @@ Al mismo tiempo, la asociación de Ucrania ha hecho lo mismo. Han importado libr
 
 El éxito de los canales alternativos de distribución en Colombia y Ucrania hace que nos planteemos si grupos de lectores de otros países podrían mejorar la distribución y reducir al mismo tiempo el coste de los libros para los lectores locales. Damos la bienvenida a ideas de la Asociación Urantia Internacional, de la Urantia Book Fellowship y de grupos de lectores independientes que tengan sugerencias acerca de cómo mejorar la distribución fuera de los Estados Unidos. Envíen sus ideas a Tamara Strumfeld en [tamara@urantia.org](mailto:tamara@urantia.org).
 
-c. La programación de impresión de libros para 2015 y 2016 está bajo revisión. Se imprimirán libros en alemán, inglés, español y portugués durante los próximos 18 meses. Estas ediciones costarán más de 250.000 $.  
+c. La programación de impresión de libros para 2015 y 2016 está bajo revisión. Se imprimirán libros en alemán, inglés, español y portugués durante los próximos 18 meses. Estas ediciones costarán más de 250.000 $.
 
 d. Basado en la recomendación de nuestro distribuidor brasileño, hemos bajado el precio de la traducción al portugués de _El libro de Urantia_ que se vende en América hasta 10 $ por libro. El precio de venta sugerido para la edición en tapa dura es de 34,95 $, y ahora es de 24,95 $. La edición en tapa blanda era de 29,95 $ y ahora es de 19,95 $. Partiendo de estos nuevos precios de venta reducidos, la junta espera que aumente el número de lectores en Brasil.
 

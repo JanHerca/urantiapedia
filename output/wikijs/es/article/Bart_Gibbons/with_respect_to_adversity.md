@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 > _“_Recuerda que, en los momentos más oscuros, todo fallo es solo un paso hacia el éxito, toda detección de lo falso te dirige hacia lo que es verdadero, toda prueba agota una forma tentadora de error, y toda adversidad solo esconderá por un tiempo tu camino hacia la paz y la satisfacción_.”_ Augustine Mandino II, escritor.
 
-Los lectores de _El libro de Urantia_ se emocionan al conocer que la salvación solo está basada en la fe, que el fragmento divino que está en el interior de la mente se fusionará con nosotros para toda la eternidad, y que hay un plan para alcanzar una vida eternal de servicio, adoración y descubrimientos.
+Los lectores de _El libro de Urantia_ se emocionan al conocer que la salvación solo está basada en la fe, que el fragmento divino que está en el interior de la mente se fusionará con nosotros para toda la eternidad, y que hay un plan para alcanzar una vida eternal de servicio, adoración y descubrimientos.
 
 Pero con respecto a la adversidad, ¿qué orientación ofrece _El libro de Urantia_? ¿Cómo nos ayudan las enseñanzas a responder cuando estamos destrozados por una tragedia devastadora e inesperada o nuestros propios esfuerzos descarriados causan sufrimiento y desesperación en nuestra vida diaria?
 
@@ -103,7 +103,7 @@ Está sección es destacable, en el sentido de que especifica cómo se espera qu
 
 > El alma del hombre se revela por medio de la fe religiosa, y demuestra la divinidad potencial de su naturaleza emergente por la manera característica en que induce a la personalidad mortal a reaccionar ante ciertas situaciones intelectuales y sociales duras y difíciles. La fe espiritual auténtica (la verdadera conciencia moral) se revela en que:
 > 
-> 1\. Provoca el progreso de la ética y de la moral a pesar de las tendencias animales inherentes y adversas.   
+> 1\. Provoca el progreso de la ética y de la moral a pesar de las tendencias animales inherentes y adversas. 
 > 
 > 2\. Produce una confianza sublime en la bondad de Dios, en medio incluso de amargas decepciones y de derrotas aplastantes.
 > 

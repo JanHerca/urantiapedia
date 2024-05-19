@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Mark-B-2022-1-e1674520636764-150x150.jpg">
 </figure>
 
-Bienvenidos a la edición de noviembre de 2022 del _Journal_ de la Asociación Urantia, una publicación dedicada a los pensamientos, observaciones y experiencias de los estudiantes de _El libro de Urantia_ de todo el mundo. Nuestros colaboradores exploran una amplia gama de temas, que incluyen historias personales de descubrimiento espiritual, encuentran nuevos significados y valores y mejoran la percepción espiritual. Otros escriben sobre cosmología, ciencia y formas de mejorar la civilización mundial. A lo largo de todos estos artículos, vemos una extraordinaria diversidad de pensamiento unida a una animada unidad de propósito.  
+Bienvenidos a la edición de noviembre de 2022 del _Journal_ de la Asociación Urantia, una publicación dedicada a los pensamientos, observaciones y experiencias de los estudiantes de _El libro de Urantia_ de todo el mundo. Nuestros colaboradores exploran una amplia gama de temas, que incluyen historias personales de descubrimiento espiritual, encuentran nuevos significados y valores y mejoran la percepción espiritual. Otros escriben sobre cosmología, ciencia y formas de mejorar la civilización mundial. A lo largo de todos estos artículos, vemos una extraordinaria diversidad de pensamiento unida a una animada unidad de propósito.
 
 Nuestro primer artículo, **Nuestro Dios Madre desaparecido: monoteísmo a costa del trinitarismo**, de Elisabeth Callahan, es un ensayo perspicaz y novedoso centrado en el concepto de Dios como Madre. Elisabeth ha impartido varias clases y foros en el Urantia University Institute sobre la naturaleza del Espíritu Madre del universo local, así como sobre las características maternales del Hijo Eterno y de Dios Supremo. En este ensayo, defiende que enfocarse constantemente en un monoteísmo dominado por los hombres en las religiones del mundo resta importancia a la verdad superior inherente a la naturaleza del trinitarismo y, en el proceso, ha devaluado la función creativa materna..
 
@@ -34,7 +34,7 @@ Las sinceras descripciones de Kurt sobre sus experiencias religiosas personales 
 
 Nuestro tercer artículo, **Los círculos psíquicos y la vida morontial**, de André Desjardins, es una incursión fascinante en los significados de los siete círculos psíquicos de progresión humana. André sugiere que, al alcanzar estos círculos sucesivos de logro, nos acercamos cada vez más a una verdadera existencia morontial en la vida terrenal.
 
-Un rasgo muy original del ensayo de André es que no solo desentierra las cualidades y características que definen los círculos séptimo, tercero y primero, tal como los define _El libro de Urantia_, sino que también teoriza sobre la naturaleza de los círculos restantes.    
+Un rasgo muy original del ensayo de André es que no solo desentierra las cualidades y características que definen los círculos séptimo, tercero y primero, tal como los define _El libro de Urantia_, sino que también teoriza sobre la naturaleza de los círculos restantes.  
 
 Profundizando en el tema, André también propone cuatro segmentos o agrupaciones de círculos psíquicos, cada uno definido por una etapa particular de crecimiento evolutivo y progresión en la morontia. Para todos los que se preguntan qué se necesita para avanzar en los círculos, esta es una lectura obligada.
 

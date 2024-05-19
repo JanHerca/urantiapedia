@@ -110,7 +110,7 @@ Con una «isla de luz nuclear» absolutamente fija en el cosmos, aproximadamente
 
 > La Isla del Paraíso tiene una ubicación en el universo pero no tiene una posición en el espacio. <a id="a110_99"></a>[[LU 0:4.12](/es/The_Urantia_Book/0#p4_12)]
 
-> El Paraíso existe en el centro del espacio, el Incalificado lo impregna y toda existencia relativa tiene su ser dentro de este ámbito. <a id="a112_137"></a>[[LU 105:3.4](/es/The_Urantia_Book/105#p3_4)]  
+> El Paraíso existe en el centro del espacio, el Incalificado lo impregna y toda existencia relativa tiene su ser dentro de este ámbito. <a id="a112_137"></a>[[LU 105:3.4](/es/The_Urantia_Book/105#p3_4)]
 
 > El espacio no toca el Paraíso; sólo las zonas en reposo del espacio intermedio entran en contacto con la Isla central. <a id="a114_121"></a>[[LU 11:7.1](/es/The_Urantia_Book/11#p7_1)]
 
@@ -242,7 +242,7 @@ La unidad de la Realidad Total no puede ser «comprendida» porque cualquier con
 
 Cualquiera que sea la unidad inherente de la totalidad de la realidad, los intentos humanos de representar esa unidad deben postular una división preexistente y absoluta de la misma: distinciones mentales con las que enmarcar la información. Una división completa de la Totalidad de la Realidad incluye aspectos espirituales, mentales, físicos y personales. La mente es una interfaz entre el plano más o menos puramente físico y el plano mental-espiritual.
 
-### Unidad Absoluta y la Calificación de Unidad en Niveles Absolutos— La INFINIDAD y la INFINITUD  
+### Unidad Absoluta y la Calificación de Unidad en Niveles Absolutos— La INFINIDAD y la INFINITUD
 
 La totalidad de la realidad (YO SOY) se refiere a todo lo que alguna vez existió, existe ahora o existirá en el futuro, tanto potencial como real. La unidad de esta totalidad de la realidad, este Absoluto Universal, es parcialmente reconocida por la ciencia contemporánea, que asume que partes del universo supuestamente separadas en el tiempo y el espacio están gobernadas por las mismas leyes físicas.
 
@@ -436,7 +436,7 @@ Sin embargo, esta palabra debe calificarse porque se ha revelado que hay formas 
 
 La sustancia completa, más real del cuerpo debe estar ubicada en el núcleo, en el Paraíso fijo (inferior). De esta manera _El Libro de Urantia_ evita el dualismo, ya que sólo hay una sustancia eterna del Cuerpo (Paraíso) pero muchas copias, imágenes en movimiento (cuerpos espaciales en movimiento sombríos) de él.
 
-> La mente transmuta los valores del espíritu en los significados del intelecto; la volición tiene el poder de hacer que los significados de la mente fructifiquen tanto en los dominios materiales como en los espirituales. La ascensión al Paraíso implica un crecimiento relativo y diferencial en espíritu, mente y energía. La personalidad es la unificadora de estos componentes de la individualidad experiencial. <a id="a438_412"></a>[[LU 9:4.6](/es/The_Urantia_Book/9#p4_6)]  
+> La mente transmuta los valores del espíritu en los significados del intelecto; la volición tiene el poder de hacer que los significados de la mente fructifiquen tanto en los dominios materiales como en los espirituales. La ascensión al Paraíso implica un crecimiento relativo y diferencial en espíritu, mente y energía. La personalidad es la unificadora de estos componentes de la individualidad experiencial. <a id="a438_412"></a>[[LU 9:4.6](/es/The_Urantia_Book/9#p4_6)]
 
 ### Interfaz Espíritu-Materia
 

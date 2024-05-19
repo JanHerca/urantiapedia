@@ -65,9 +65,9 @@ Aumentar las ventas de libros y la distribución en un siete por ciento, especia
 
 Comentarios:
 
-- a. Las ventas en papel están ligeramente por encima de las ventas de 2009.  
-- b. El seguimiento de las descargas digitales acaba de empezar. Las descargas de Internet probablemente han superado a las ventas en papel. Esta realidad cambiante ha causado un cambio de pensamiento y de enfoque respecto a nuestro trabajo.  
-- c. La versión en audio de _El libro de Urantia_ está actualmente disponible para su adquisición en www.audible.com, el mayor proveedor en Internet de libros en audio. Por favor, visiten esta página, descarguen el libro en audio y escriban una reseña positiva.  
+- a. Las ventas en papel están ligeramente por encima de las ventas de 2009.
+- b. El seguimiento de las descargas digitales acaba de empezar. Las descargas de Internet probablemente han superado a las ventas en papel. Esta realidad cambiante ha causado un cambio de pensamiento y de enfoque respecto a nuestro trabajo.
+- c. La versión en audio de _El libro de Urantia_ está actualmente disponible para su adquisición en www.audible.com, el mayor proveedor en Internet de libros en audio. Por favor, visiten esta página, descarguen el libro en audio y escriban una reseña positiva.
 - d. La distribución del libro en Europa está creciendo a medida que se firman contratos con distribuidores en Suecia, Hungría, Estonia y Polonia. ¡Nuestras felicitaciones para los traductores, formateadores y otras personas implicadas en hacer posible este avance tan significativo de la verdad!
 
 ## 2. Sitio web
@@ -98,7 +98,7 @@ Aumentar la buena voluntad y la comunicación con lectores de _El libro de Urant
 
 Comentarios:
 
-- a. El fomento de la buena voluntad y la cooperación con los lectores de todo el mundo sigue teniendo una alta prioridad. Los miembros de la junta y el personal asistieron a muchas conferencias regionales este año y dieron presentaciones acerca del trabajo de la Fundación Urantia. Se han publicado dos números de las _Noticias en línea de la Fundación Urantia_ este año, con cerca de unas siete mil descargas por número.  
+- a. El fomento de la buena voluntad y la cooperación con los lectores de todo el mundo sigue teniendo una alta prioridad. Los miembros de la junta y el personal asistieron a muchas conferencias regionales este año y dieron presentaciones acerca del trabajo de la Fundación Urantia. Se han publicado dos números de las _Noticias en línea de la Fundación Urantia_ este año, con cerca de unas siete mil descargas por número.
 - b. Muchos grupos celebran reuniones de varios días en la sede de la Fundación en Chicago. Este edificio maravilloso, el lugar donde nació la revelación Urantia, se está convirtiendo en un centro cada vez más importante para los diferentes grupos que trabajan en el proyecto de _El libro de Urantia_.
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -114,7 +114,7 @@ Inaugurar el nuevo sitio web de la UBIS. Avanzar en las actividades educativas p
 
 Comentarios:
 
-- a. La pasada primavera se lanzó un nuevo software para la UBIS. Se van haciendo mejoras a medida que profesores y estudiantes descubren cómo funciona el nuevo software y cómo mejorarlo.  
+- a. La pasada primavera se lanzó un nuevo software para la UBIS. Se van haciendo mejoras a medida que profesores y estudiantes descubren cómo funciona el nuevo software y cómo mejorarlo.
 - b. En junio, el Comité de Educación celebró en la Fundación una sesión de Introspección Apreciativa sobre grupos de estudio. Asistieron más de veinte líderes, personas que quieren crear grupos de estudio con éxito. La Fundación Urantia sigue comprometida con la meta de tener mil grupos de estudio para 2020, y deseamos la colaboración de las personas y organizaciones comprometidas con los grupos de estudio. La Asociación Urantia Internacional y la Fellowship tienen una serie de proyectos significativos en marcha para fomentar los grupos de estudio, esfuerzos que tienen todo el apoyo de la Fundación Urantia.
 
 ## 6. Desarrollo organizativo

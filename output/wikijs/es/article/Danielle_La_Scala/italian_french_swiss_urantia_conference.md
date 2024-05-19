@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Tenemos el placer de anunciarles la segunda conferencia en Italia para lectores de habla italiana, suiza y francesa de _El libro de Urantia_, que se celebrará del 7 al 9 de octubre de 2016 en Italia_._
 
-Será un honor y un placer dar la bienvenida también a participantes de habla española, alemana e inglesa. Pretendemos que este evento sea una reunión espiritualmente inspiradora mientras nos reunimos en un ambiente amistoso para compartir nuestros ideales comunes.
+Será un honor y un placer dar la bienvenida también a participantes de habla española, alemana e inglesa. Pretendemos que este evento sea una reunión espiritualmente inspiradora mientras nos reunimos en un ambiente amistoso para compartir nuestros ideales comunes.
 <br style="clear:both;"/>
 
 **Del 7 al 9 de octubre de 2016**
@@ -35,7 +35,7 @@ Correo: [danielle.lascala@yahoo.it](mailto:danielle.lascala@yahoo.it)
 
 El coste del paquete de la conferencia es de 30€. Les advertimos que este coste no incluye el alojamiento ni la comida.
 
-Para más detalles sobre la reserva del hotel, que incluye el alojamiento y las comidas, visiten [http://urantia-association.org/2016/08/22/italian-french-swiss-urantia-conference](http://urantia-association.org/2016/08/22/italian-french-swiss-urantia-conference)
+Para más detalles sobre la reserva del hotel, que incluye el alojamiento y las comidas, visiten [http://urantia-association.org/2016/08/22/italian-french-swiss-urantia-conference](http://urantia-association.org/2016/08/22/italian-french-swiss-urantia-conference)
 
 **Pago**
 

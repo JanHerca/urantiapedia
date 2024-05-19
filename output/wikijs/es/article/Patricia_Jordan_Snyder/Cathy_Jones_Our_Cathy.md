@@ -63,39 +63,39 @@ La vida inspiradora de servicio amoroso de «nuestra Cathy» estimula nuestra vi
 
 Este no es el final de «Nuestra Cathy», pero es... el final del principio.
 
-> **Buen viaje, «nuestra Cathy»**  
+> **Buen viaje, «nuestra Cathy»**
 > (Poema anónimo dedicado a Cathy Jones)
 > 
-> De pie en el muelle, contemplo una nave  
-> que extiende sus blancas velas en la brisa matutina  
+> De pie en el muelle, contemplo una nave
+> que extiende sus blancas velas en la brisa matutina
 > y navega por el océano azul.
 > 
-> Ella es un navío de belleza y fuerza,  
-> y me siento y la contemplo, hasta que queda suspendida  
+> Ella es un navío de belleza y fuerza,
+> y me siento y la contemplo, hasta que queda suspendida
 > como una mota en el horizonte.
 > 
 > Alguien a mi lado dice: «Allí, se ha marchado».
 > 
 > ¿Pero a dónde?
 > 
-> Ella es tan grande en su mástil, casco y palo  
+> Ella es tan grande en su mástil, casco y palo
 > como lo era cuando dejó el muelle.
 > 
-> Y es tan capaz de llevar su carga  
-> al puerto de destino, como lo era  
+> Y es tan capaz de llevar su carga
+> al puerto de destino, como lo era
 > cuando estaba anclada aquí.
 > 
 > (El poema sigue en la página siguiente).
 > 
->   
+> 
 > Su tamaño reducido está en nosotros, no en ella.
 > 
 > «Allí, se ha marchado», decimos.
 > 
-> Pero hay otros ojos  
-> que contemplan el horizonte lejano por sus velas.  
-> y hay otras voces que están listas  
-> para dar el grito alegre: “Ahí está.  
+> Pero hay otros ojos
+> que contemplan el horizonte lejano por sus velas.
+> y hay otras voces que están listas
+> para dar el grito alegre: “Ahí está.
 > aquí llega. Aquí está, nuestra Cathy”.
 
 <figure id="Figure_2" class="image urantiapedia">

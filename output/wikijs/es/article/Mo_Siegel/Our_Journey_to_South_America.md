@@ -44,7 +44,7 @@ Las librerías de Internet prácticamente no existen fuera de Brasil. La mayorí
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_03/001.jpg">
-<figcaption><em>Susana Hüttner Palaia, Mo Siegel y Ligia Zottini  
+<figcaption><em>Susana Hüttner Palaia, Mo Siegel y Ligia Zottini
 en una librería FNAC</em></figcaption>
 </figure>
 

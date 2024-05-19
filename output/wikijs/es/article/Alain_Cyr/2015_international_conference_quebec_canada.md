@@ -23,7 +23,7 @@ Las charlas plenarias estuvieron muy en línea con el tema de la conferencia, �
 <img src="/image/article/IUA_Tidings/Quebec-conf-Mo-Siegal-300x189.jpg">
 </figure>
 
-Tuvimos también el privilegio de compartir ideas con muchos de los fideicomisarios de la Fundación Urantia. El presidente, Mo Siegel, nos ofreció una imagen positiva y alentadora respecto a la diseminación de _El libro de Urantia._  Se hizo una subasta silenciosa y abierta a todos y parece que se recaudaron más de 3.000 $ para esta buena causa. Gracias, Marian Hughes, por manejar este proyecto.
+Tuvimos también el privilegio de compartir ideas con muchos de los fideicomisarios de la Fundación Urantia. El presidente, Mo Siegel, nos ofreció una imagen positiva y alentadora respecto a la diseminación de _El libro de Urantia._  Se hizo una subasta silenciosa y abierta a todos y parece que se recaudaron más de 3.000 $ para esta buena causa. Gracias, Marian Hughes, por manejar este proyecto.
 
 Pero sobre todo, y en mi opinión, el resultado valioso de esta experiencia se revela en la manera en que estábamos todos unidos, en la buena disposición a actuar y avanzar; en nadar con el río y no simplemente mirar la corriente.
 

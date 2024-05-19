@@ -30,9 +30,6 @@ dateCreated: 2023-9-16T10:55:6Z
   </table>
 </figure>
 
-
-# Donate while Shopping with Amazon
-
 From [Tidings - October 2015](https://urantia-association.org/pub/tidings-october-2015/), By Editor on November 14, 2015
 
 ## Shop with AmazonSmile and send a portion of your shopping dollars to Urantia Association International!

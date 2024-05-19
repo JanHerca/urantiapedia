@@ -47,7 +47,7 @@ Como lectores, se nos ha ofrecido la gran oportunidad de participar en uno de lo
 
 He aquí lo que dicen los reveladores:
 
-> (Ustedes) quienes han dedicado (sus) vidas al servicio del Libro y la Hermandad apenas logran darse cuenta de la importancia de (sus) acciones. Sin lugar a dudas, (ustedes) vivirán y morirán sin  tomar consciencia cabal de que están siendo partícipes del nacimiento de una nueva era de la religión en este mundo. (Mandato de Publicación)
+> (Ustedes) quienes han dedicado (sus) vidas al servicio del Libro y la Hermandad apenas logran darse cuenta de la importancia de (sus) acciones. Sin lugar a dudas, (ustedes) vivirán y morirán sin  tomar consciencia cabal de que están siendo partícipes del nacimiento de una nueva era de la religión en este mundo. (Mandato de Publicación)
 
 En la vida de Jesús, podemos ver cómo entrenaba a sus apóstoles. Si nos fijamos bien, el método utilizado para la formación de los apóstoles era muy parecido al de un grupo de estudio, donde todos, después de la enseñanza del Maestro, se reunían en grupo para tratar sobre lo que habían entendido de las lecciones recibidas. Todo esto se hacía en privado bajo la supervisión de Jesús y duraba varios años. E incluso después de todos estos años de formación y enseñanza por parte del Maestro, seguían teniendo dificultades para entender sus enseñanzas. Así que imaginemos nuestra situación: ¿creemos que estudiar solo y de forma aislada nos ayudará a tener éxito en la comprensión de lo que _El libro de Urantia_ trata de enseñarnos? Lo dudo.
 
@@ -109,7 +109,7 @@ El mensaje que constituye la esencia del Evangelio de Jesús y que tenemos que l
 
 Esto es lo que nos dice el Mandato de Publicación al respecto:
 
-> El futuro no se halla al alcance de (su) comprensión mortal. Pero (ustedes) harían bien en estudiar diligentemente el orden, el plan y los métodos de progresión así como fueran decretados por Micael,  en su vida terrenal cuando el Verbo se hiciera carne. (Ustedes) se están tornando actores de un episodio subsiguiente en el que el Verbo se hace Libro. Grande es la diferencia en esta dispensación de la religión, pero muchas son las lecciones que pueden ser  aprendidas del estudio de la era precedente.
+> El futuro no se halla al alcance de (su) comprensión mortal. Pero (ustedes) harían bien en estudiar diligentemente el orden, el plan y los métodos de progresión así como fueran decretados por Micael,  en su vida terrenal cuando el Verbo se hiciera carne. (Ustedes) se están tornando actores de un episodio subsiguiente en el que el Verbo se hace Libro. Grande es la diferencia en esta dispensación de la religión, pero muchas son las lecciones que pueden ser  aprendidas del estudio de la era precedente.
 
 > (Ustedes) deben estudiar otra vez los tiempos de Jesús en la Tierra. (Ustedes) deben tomar cuidadosa nota de cómo el reino de los cielos fue inaugurado en el mundo. ¿Evolucionó lentamente y se desenvolvió naturalmente? o, ¿sobrevino con una súbita muestra de fuerza y una espectacular exhibición de poder? ¿Se dio evolutivamente o revolucionariamente?
 

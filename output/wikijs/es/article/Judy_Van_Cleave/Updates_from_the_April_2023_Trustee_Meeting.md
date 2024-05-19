@@ -97,8 +97,8 @@ El 15 de marzo se anunciaron siete subvenciones. ¡Enhorabuena a los beneficiari
 
 _Proyecto de seis meses para desarrollar un programa de formación de profesores que prepare a estudiantes motivados para presentar eficazmente las ideas y los ideales de la revelación Urantia a personas de todas las culturas._
 
-- Elisabeth Callahan para la Universidad Urantia, Estados Unidos
-- Área de interés: Programa educativo, centros, escuelas
+- Elisabeth Callahan para la Universidad Urantia, Estados Unidos
+- Área de interés: Programa educativo, centros, escuelas
 <br style="clear:both;"/>
 
 ### 2. Escuela de Sabiduría Divina y Progresiva
@@ -109,8 +109,8 @@ _Proyecto de seis meses para desarrollar un programa de formación de profesores
 
 _Proyecto de un año para proporcionar asistencia técnica a profesores/facilitadores con el fin de seguir promoviendo un método pedagógico de enseñanza que permita comprender mejor y difundir ampliamente las verdades de_ El libro de Urantia_._
 
-- Moustapha Ndiaye, Senegal
-- Área de interés: Interreligioso/Educativo
+- Moustapha Ndiaye, Senegal
+- Área de interés: Interreligioso/Educativo
 <br style="clear:both;"/>
 
 ### 3. Conferencias Urantia en Nigeria
@@ -121,8 +121,8 @@ _Proyecto de un año para proporcionar asistencia técnica a profesores/facilita
 
 _Proyecto de seis meses para celebrar una conferencia anual en Lagos (Nigeria), con los objetivos de consolidar la base de lectores en Nigeria y fomentar el encuentro entre buscadores de la verdad y lectores de_ El libro de Urantia_._
 
-- Emeka Anazodo, Nigeria
-- Área de interés: Programas educativos, centros, escuelas
+- Emeka Anazodo, Nigeria
+- Área de interés: Programas educativos, centros, escuelas
 <br style="clear:both;"/>
 
 ### 4. Producciones Living Bridge
@@ -133,8 +133,8 @@ _Proyecto de seis meses para celebrar una conferencia anual en Lagos (Nigeria), 
 
 _Proyecto de un año para producir dos vídeos de alta calidad con el fin de difundir_ El libro de Urantia _y sus enseñanzas._
 
-- Gary Tonge, Canadá
-- Área de interés: Difusión audiovisual/digital
+- Gary Tonge, Canadá
+- Área de interés: Difusión audiovisual/digital
 <br style="clear:both;"/>
 
 ### 5. Difundir la buena nueva
@@ -145,8 +145,8 @@ _Proyecto de un año para producir dos vídeos de alta calidad con el fin de dif
 
 _Proyecto de un mes de duración para proclamar, promover y difundir la revelación mediante una gira ministerial basada en la música (11 conciertos) por California, en zonas cercanas a los grupos de estudio existentes._
 
-- Pato Banton, Estados Unidos
-- Área de interés: Música, arte y cine
+- Pato Banton, Estados Unidos
+- Área de interés: Música, arte y cine
 <br style="clear:both;"/>
 
 ### 6. Urantiapedia
@@ -157,8 +157,8 @@ _Proyecto de un mes de duración para proclamar, promover y difundir la revelaci
 
 _Proyecto de dos años para desarrollar una enciclopedia en línea de código abierto que ayude a la difusión y comprensión de la revelación. Incluirá una amplia gama de contenidos en un único sitio web, en varios idiomas, que incluye ilustraciones, audio, enlaces a la Biblia y otros recursos._
 
-- José Antonio Hernández, España
-- Área de interés: Obras secundarias
+- José Antonio Hernández, España
+- Área de interés: Obras secundarias
 <br style="clear:both;"/>
 
 ### 7. FER UB
@@ -169,8 +169,8 @@ _Proyecto de dos años para desarrollar una enciclopedia en línea de código ab
 
 _Un proyecto de un año para financiar conexiones a Internet más potentes para miembros de grupos de estudio de_ El libro de Urantia _y para hacer y publicar cuatro vídeos cortos de divulgación._
 
-- Maricor Doctor, Filipinas
-- Área de interés: Programa educativo, centros, escuelas
+- Maricor Doctor, Filipinas
+- Área de interés: Programa educativo, centros, escuelas
 <br style="clear:both;"/>
 
 ## Traducciones y revisiones

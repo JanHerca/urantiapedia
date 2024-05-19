@@ -23,7 +23,7 @@ Bueno, amigos míos, espero mostrarles hoy que esta manera es un completo fraude
 
 > Pocas personas viven a la altura de la fe que poseen realmente. El miedo irracional es un fraude intelectual magistral ejercido sobre el alma mortal en evolución. <a id="a43_149"></a>[[LU 48:7.4](/es/The_Urantia_Book/48#p7_4)] de la mota morontial número 2.
 
-El miedo es un fraude. Dice una cosa y da otra (para nuestra desventaja). Si bien el miedo puede ayudarnos a evitar una amenaza inmediata y a corto plazo, permitiéndonos sobrevivir un poco más, un miedo sostenido e irracional impide de hecho nuestro crecimieinto a largo plazo y afecta incluso al crecimiento de nuestra alma. De este modo, el miedo amenaza la supervivencia eterna que buscamos. Está retrasando el crecimiento de nuestra alma y haciendo más lento nuestro camino hacia Dios.
+El miedo es un fraude. Dice una cosa y da otra (para nuestra desventaja). Si bien el miedo puede ayudarnos a evitar una amenaza inmediata y a corto plazo, permitiéndonos sobrevivir un poco más, un miedo sostenido e irracional impide de hecho nuestro crecimieinto a largo plazo y afecta incluso al crecimiento de nuestra alma. De este modo, el miedo amenaza la supervivencia eterna que buscamos. Está retrasando el crecimiento de nuestra alma y haciendo más lento nuestro camino hacia Dios.
 
 La supervivencia es necesaria para empezar, pues tenemos que comenzar por algún sitio, pero para prosperar en esta vida y en la siguiente debe haber crecimiento continuo. Este es el patrón universal de la vida, ya sea para que una planta se convierta en árbol; un niño en adulto y en entidad espiritual; una religión del mundo primitiva a la actual y de ahí a la luz y vida planetaria, etc. Así que, al explorar el vínculo entre fe y valentía, quisiera explorar una de las cosas más obvias que nos refrenan: el miedo.
 
@@ -97,7 +97,7 @@ Hay mucha ciencia que muestra que podemos reducir nuestro miedo y manejar nuestr
 
 El objetivo del control del miedo no es intentar eliminarlo, sino más bien cambiar la manera en que lo experimentamos y reaccionamos ante él. Por ejemplo, aprender a través de la exposición; exponiéndonos de manera segura al miedo, el cerebro se adaptará a él y aprenderá a no tener miedo de eso. Esto se conoce como «habituación» o «condicionamiento». El miedo puede gestionarse de esa manera antes de que se convierta en un desorden de ansiedad. Sabemos que si podemos ralentizar y elegir nuestras reacciones ante el miedo, esto da como resultado que la amígdala sea menos reactiva y de este modo se reduce nuestro sentido del miedo. Si tenemos tiempo para tomar una decisión, nos permite tener más cosas en cuenta.
 
-Entrenar el cerebro es como entrenar los músculos, requiere «trabajarlo». Entrenar significa que la exposición, adaptación, familiaridad, experiencia, preparación y meditación son enfoques probados para ganar confianza y la seguridad de que _estaremos bien a pesar de la amenaza_: **el cerebro superará los impulsos de miedo y, a pesar de sentirnos atemorizados, tendremos la posibilidad de elegir acciones valerosas de todos modos**.
+Entrenar el cerebro es como entrenar los músculos, requiere «trabajarlo». Entrenar significa que la exposición, adaptación, familiaridad, experiencia, preparación y meditación son enfoques probados para ganar confianza y la seguridad de que _estaremos bien a pesar de la amenaza_: **el cerebro superará los impulsos de miedo y, a pesar de sentirnos atemorizados, tendremos la posibilidad de elegir acciones valerosas de todos modos**.
 
 La cuestión es que el cambio es posible. Podemos cambiar miedo por respeto.
 
@@ -107,13 +107,13 @@ Ahora bien, si podemos hacer todo esto en los niveles físicos y cognitivos, **n
 
 Recuerden el problema de los Ajustadores:
 
-> _Una gran parte de mis dificultades se debían a …_ (entre otras cosas) _la fuente de la fe contaminada por los venenos del miedo…_ <a id="a129_118"></a>[[LU 111:7.5](/es/The_Urantia_Book/111#p7_5)]
+> _Una gran parte de mis dificultades se debían a …_ (entre otras cosas) _la fuente de la fe contaminada por los venenos del miedo…_ <a id="a129_118"></a>[[LU 111:7.5](/es/The_Urantia_Book/111#p7_5)]
 
 Y (parte de) la misión de los Ajustadores:
 
 > _A los Ajustadores del Pensamiento les gustaría cambiar vuestros sentimientos de temor en convicciones de amor y confianza; pero no pueden hacer estas cosas de manera mecánica y arbitraria; esa es tarea vuestra._ ***Cuando efectuáis aquellas decisiones que os liberan de las cadenas del miedo, suministráis literalmente el punto de apoyo psíquico sobre el que el Ajustador podrá aplicar posteriormente la palanca espiritual de una iluminación elevada y progresiva***. <a id="a133_410"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)] negrita añadida
 
-Todos conocemos el miedo, nos permitimos ser víctimas del miedo y sabemos cómo funciona. Y puesto que conocemos el miedo, nos coloca en la mejor posición para descubrirlo, detenerlo y superarlo antes de que nos destruya. **Al ralentizar nuestras reacciones al miedo le damos una oportunidad a la mente superior para que lo procese adecuadamente, nos libera de su atadura servil y permite que el espíritu que mora en nuestro interior conecte con nuestra mente en ese momento y hace que nuestra alma crezca**.
+Todos conocemos el miedo, nos permitimos ser víctimas del miedo y sabemos cómo funciona. Y puesto que conocemos el miedo, nos coloca en la mejor posición para descubrirlo, detenerlo y superarlo antes de que nos destruya. **Al ralentizar nuestras reacciones al miedo le damos una oportunidad a la mente superior para que lo procese adecuadamente, nos libera de su atadura servil y permite que el espíritu que mora en nuestro interior conecte con nuestra mente en ese momento y hace que nuestra alma crezca**.
 
 Y por supuesto,el ingrediente crucial que nos ayudará a ralentizar nuestras reacciones al miedo es la fe. El valor llega con la confianza y la certeza que proporciona la fe; una certeza que cancela todas las dudas y cosas desconocidas que puedan llevar al miedo en primer lugar. La fe proporciona certeza a través de la adversidad, nos arma con valentía para conquistar al miedo.
 

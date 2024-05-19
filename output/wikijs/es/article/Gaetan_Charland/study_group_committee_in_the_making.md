@@ -25,12 +25,12 @@ El comité de Grupos de Estudio promoverá también la creación de grupos de es
 
 Otra meta que ayudará a centrar nuestro trabajo es promover la adquisición de aptitudes de enseñanza y liderazgo entre los estudiantes de los grupos de estudio. Hay mucho por hacer en esa área si hemos de seguir el consejo que nos dieron los reveladores en el Mandato de Publicación. ¿Qué mejor lugar para conseguir estas aptitudes que en el ámbito de los grupos de estudio?
 
-Si les gustaría unirse a nuestro comité, contacten conmigo en [studygroupchair.uai@gmail.com](mailto:studygroupchair.uai@gmail.com)
+Si les gustaría unirse a nuestro comité, contacten conmigo en [studygroupchair.uai@gmail.com](mailto:studygroupchair.uai@gmail.com)
 
 En espíritu de hermandad.
 
-Gaétan G. Charland  
-Presidente de Grupos de Estudio  
+Gaétan G. Charland
+Presidente de Grupos de Estudio
 Asociación Urantia Internacional
 
 ## Referencias

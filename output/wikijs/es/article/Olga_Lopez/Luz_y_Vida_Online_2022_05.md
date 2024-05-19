@@ -262,7 +262,7 @@ Lo cierto es que la primera vez que encontré buscando por internet una referenc
 
 Estoy convencida que _El Libro de Urantia_ me llegó en el momento en que más lo necesitaba.
 
-[Read more](https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa/#more-1470)
+[Leer más](https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa/#more-1470)
 <br style="clear:both" />
 
 ## Jubileo de Jubileos – 15 de mayo

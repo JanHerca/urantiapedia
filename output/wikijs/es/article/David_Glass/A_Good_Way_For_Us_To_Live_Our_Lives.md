@@ -58,7 +58,7 @@ Y la vida de abajo se parece a la vida de arriba.
 
 David E. Glass Plano, TX
 
-> «Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es.» <a id="a60_175"></a>[[LU 117:4.14](/es/The_Urantia_Book/117#p4_14)]  
+> «Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es.» <a id="a60_175"></a>[[LU 117:4.14](/es/The_Urantia_Book/117#p4_14)]
 
 
 ## Referencias

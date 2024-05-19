@@ -40,9 +40,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Comencemos contando una antigua historia:
 
-_Preguntaba el monje:_  
-_«Todas estas montañas y estos ríos y la tierra y las estrellas… ¿de dónde vienen?_  
-_Y preguntó el Maestro: «¿Y de dónde viene tu pregunta?»_  
+_Preguntaba el monje:_
+_«Todas estas montañas y estos ríos y la tierra y las estrellas… ¿de dónde vienen?_
+_Y preguntó el Maestro: «¿Y de dónde viene tu pregunta?»_
 _¡Busca en tu interior!_
 
 Este breve cuento nos muestra una gran verdad: la percepción de lo divino está al alcance de todos. Tantas personas lo han vivido en miles de siglos, sin necesidad de intermediarios, en diferentes culturas, que nos debe hacer reflexionar sobre nuestro propio acercamiento a la divinidad. La vivencia trascendente es algo que puede estar en nuestras manos, sí, pero eso no implica que el mundo nos estimule a ello.

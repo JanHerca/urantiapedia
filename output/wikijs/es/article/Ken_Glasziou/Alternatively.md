@@ -51,7 +51,7 @@ Tradicionalmente, «cosmogonía» es un relato de la creación del universo, y �
 
 El mandato nos advierte que «cualquier cosmología presentada como parte de la religión revelada está destinada a ser superada en poco tiempo» y «la cosmología de estas revelaciones no es inspirada».
 
-Si tomamos «no inspirado» en el sentido de «sin autoridad celestial dogmática» y «cosmología» en su sentido anterior, al menos un tercio de las Partes 1-3 del libro pueden estar en la categoría «no inspirado». La parte 4 puede ser completamente así.  
+Si tomamos «no inspirado» en el sentido de «sin autoridad celestial dogmática» y «cosmología» en su sentido anterior, al menos un tercio de las Partes 1-3 del libro pueden estar en la categoría «no inspirado». La parte 4 puede ser completamente así.
 
 Los autores dejan que el lector sepa qué es, para ellos, «inspirado» de la mera «cosmología» que no lo es.
 

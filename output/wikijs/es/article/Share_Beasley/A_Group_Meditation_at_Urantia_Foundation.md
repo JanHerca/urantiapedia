@@ -63,13 +63,13 @@ La sala está en completo silencio, y aún así se siente la presencia del poder
 
 Estamos vinculados en un silencio atemporal durante un rato. A medida que concluye nuestra meditación, compartimos parte de nuestra perspicacia con los que están en la sala. Me siento cómoda compartiendo la mía con ustedes:
 
-> Creemos en la bondad universal.  
-> Sabemos que no estamos solos.  
-> Sabemos que nos aman.  
-> Sabemos que tenemos la ayuda poderosa de los amigos invisibles.  
-> Sabemos que toda persona es importante.  
-> Sabemos que todo individuo tiene un propósito.  
-> Confiamos en Dios y Él confía en nosotros incluso más.  
+> Creemos en la bondad universal.
+> Sabemos que no estamos solos.
+> Sabemos que nos aman.
+> Sabemos que tenemos la ayuda poderosa de los amigos invisibles.
+> Sabemos que toda persona es importante.
+> Sabemos que todo individuo tiene un propósito.
+> Confiamos en Dios y Él confía en nosotros incluso más.
 > Comprendemos que, para liderar, debemos inspirar.
 
 Creo que todos fuimos guiados hasta _El libro de Urantia_, y ahora es nuestro turno para guiar y sembrar el libro y sus enseñanzas en nuestros propios ámbitos y por todo el mundo, a medida que se presenten dichas oportunidades.

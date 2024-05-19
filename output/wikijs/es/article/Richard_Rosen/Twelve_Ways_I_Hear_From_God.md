@@ -51,7 +51,7 @@ Dios siempre intenta elevar mis pensamientos a otros mejores. Sé que son suyos 
 
 ## Elimina los venenos emocionales
 
-Eliminar los venenos emocionales, como la ira, la envidia, la autocompasión, etc., aclara mi pensamiento. Hacer esto durante mucho tiempo lo convierte en un hábito. Entonces se vuelve bastante fácil reconocer los sentimientos dolorosos y los pensamientos infructuosos. Me niego a consentirlos.   
+Eliminar los venenos emocionales, como la ira, la envidia, la autocompasión, etc., aclara mi pensamiento. Hacer esto durante mucho tiempo lo convierte en un hábito. Entonces se vuelve bastante fácil reconocer los sentimientos dolorosos y los pensamientos infructuosos. Me niego a consentirlos. 
 
 ## Seguir orientación
 
@@ -59,7 +59,7 @@ Por fe, sigo la guía e inspiración de Dios. Él se encarga de que todo salga b
 
 Un amigo le ofreció un trabajo a Steve, que aceptó. Sin embargo, su empleador actual le ofreció un aumento en el puesto y el salario para quedarse, lo cual hizo. Su amigo se sintió mal porque no cumplió con su compromiso, especialmente después de haber ido a batear por él.
 
-Su empleador actual dirigía la empresa de una manera severa, incluso podría decirse tóxica. No pasó mucho tiempo antes de que Steve se diera cuenta del gran error que había cometido. Lo que Steve aún no había aprendido sobre la vida es que las relaciones gobiernan todas las cosas, que tener un propietario y una gerencia de la empresa que traten a sus empleados con cariño es más importante que la posición y el dinero. Necesitaba esta experiencia para aprender esta lección. Entonces, si bien la decisión fue un «error», «verlo» espiritualmente fue necesario. Es «aprender de la manera difícil», como solía decir mi madre. Pero algunas cosas son así; necesitas una lección de vida para hacer tuya una verdad particular. Steve espera no repetir este error (error de juicio).   
+Su empleador actual dirigía la empresa de una manera severa, incluso podría decirse tóxica. No pasó mucho tiempo antes de que Steve se diera cuenta del gran error que había cometido. Lo que Steve aún no había aprendido sobre la vida es que las relaciones gobiernan todas las cosas, que tener un propietario y una gerencia de la empresa que traten a sus empleados con cariño es más importante que la posición y el dinero. Necesitaba esta experiencia para aprender esta lección. Entonces, si bien la decisión fue un «error», «verlo» espiritualmente fue necesario. Es «aprender de la manera difícil», como solía decir mi madre. Pero algunas cosas son así; necesitas una lección de vida para hacer tuya una verdad particular. Steve espera no repetir este error (error de juicio). 
 
 ## Correspondencias
 
@@ -93,7 +93,7 @@ Mi esposa y yo empleamos a una secretaria en nuestro negocio de administración 
 
 Inmediatamente puso el dedo en el problema, en el meollo de la cuestión. Ella está usurpando la autoridad. Ella no es la dueña y está tomando decisiones, actuando como si lo fuera. Piensa más en sí misma de lo que debería. Debes decirle claramente los límites de su posición, ponerla en su lugar por así decirlo.
 
-Esto lo hicimos. ¡Hmm, estaba disgustada! Sin embargo, se retractó de desbordar los bancos de la autoridad y trabajó dentro del canal que definimos. Con suerte, ella lidió con la opinión inflada de sí misma. No podíamos decirlo. Pero eso es entre ella y Dios. Su Espíritu interior es muy capaz de tomar esta situación y usarla a su favor, si ella está dispuesta.   
+Esto lo hicimos. ¡Hmm, estaba disgustada! Sin embargo, se retractó de desbordar los bancos de la autoridad y trabajó dentro del canal que definimos. Con suerte, ella lidió con la opinión inflada de sí misma. No podíamos decirlo. Pero eso es entre ella y Dios. Su Espíritu interior es muy capaz de tomar esta situación y usarla a su favor, si ella está dispuesta. 
 
 ## Paciencia
 
@@ -103,7 +103,7 @@ Después de que terminó mi trabajo en la industria del software, busqué trabaj
 
 Llamé a muchas puertas, pero ninguna abrió. Así que volví a ingresar a las ventas de bienes raíces y resultó ser la decisión correcta. A menudo, solo después de que haya hecho una elección y haya pasado el tiempo, puede reconocer el valor de una decisión.
 
-Incluso con pequeñas decisiones, como comprender un concepto lo suficiente para este libro, es posible que no surja de inmediato. Se requiere tiempo para que el pensamiento evolucione y los pensamientos se fusionen, luego, de repente, aparece la comprensión. A veces se requiere una mayor capacidad —intelectual, espiritual, o ambas— que se adquiere solo con la experiencia de la vida, en cuyo caso pueden pasar meses o incluso años, o tal vez la próxima vida, antes de que puedas tratar un asunto con autoridad.   
+Incluso con pequeñas decisiones, como comprender un concepto lo suficiente para este libro, es posible que no surja de inmediato. Se requiere tiempo para que el pensamiento evolucione y los pensamientos se fusionen, luego, de repente, aparece la comprensión. A veces se requiere una mayor capacidad —intelectual, espiritual, o ambas— que se adquiere solo con la experiencia de la vida, en cuyo caso pueden pasar meses o incluso años, o tal vez la próxima vida, antes de que puedas tratar un asunto con autoridad. 
 
 ## Sueños y Visiones
 
@@ -127,13 +127,13 @@ John se me acercó, escuchándome soltar un puñado de propósito, diciendo que 
 
 ¿De dónde viene esta iluminación y confirmación de la verdad? El Espíritu de la Verdad diciendo ¡Amén! Pienso en ello como un contador Geiger de verdad. También puede emanar del alma en contraste con la mente humana; el alma en crecimiento desarrolla una mentalidad espiritual, similar a la expresión, «Piensa desde el corazón». A medida que el alma madura, llega a dominar la mente humana, que a su vez domina el entorno material.
 
-Hay gradaciones de «conocimiento» o sensibilidad a la verdad:  
+Hay gradaciones de «conocimiento» o sensibilidad a la verdad:
 - comprensión (comprensión de hecho)
 - discernimiento (conciencia humana, sus partes componentes unificadas)
 - percepción (súper conciencia, el depósito de la mente superior que contrarresta los significados cósmicos adquiridos y los valores espirituales en el tejido del alma)
 - auto-revelación (la obra del Espíritu que mora en nosotros)
 
-Estas condiciones reflejan el crecimiento de la conciencia espiritual. De estos, la revelación es la más directa y potente.   
+Estas condiciones reflejan el crecimiento de la conciencia espiritual. De estos, la revelación es la más directa y potente. 
 
 ## Iluminación espiritual
 
@@ -163,7 +163,7 @@ Harry McMullen, en una conferencia sobre _El Libro de Urantia_, presentó su pun
 
 McMullen III, Harry. _Principios para conocer la voluntad de Dios_. De la Conferencia de la Hermandad Urantia de 1981, Snowmass Colorado. (http://www.urantiabook.org/archive/readers/knowing-Gods-will.htm)
 
-> Richard Rosen ha sido un buscador de la verdad desde su adolescencia cuando no sabía si Dios existía, pero sabía que tenía que haber más en esta vida. Durante sus 25 años de intensa participación en el cristianismo fundamentalista, se encontró con _El _Libro de Urantia en 1985 (en virtud de Bill Rocap), y desde entonces su relación con Dios ha llegado a un lugar que no creía posible. Es autor de varios libros diseñados para hacer que las verdades de la revelación sean más prácticas y aplicables personalmente en la vida diaria. (http://bit.ly/AuthorCentral-Rosen). Richard vive en Sebastian, Florida, con su esposa por 44 años, Eve, una ávida amante de Dios.  
+> Richard Rosen ha sido un buscador de la verdad desde su adolescencia cuando no sabía si Dios existía, pero sabía que tenía que haber más en esta vida. Durante sus 25 años de intensa participación en el cristianismo fundamentalista, se encontró con _El _Libro de Urantia en 1985 (en virtud de Bill Rocap), y desde entonces su relación con Dios ha llegado a un lugar que no creía posible. Es autor de varios libros diseñados para hacer que las verdades de la revelación sean más prácticas y aplicables personalmente en la vida diaria. (http://bit.ly/AuthorCentral-Rosen). Richard vive en Sebastian, Florida, con su esposa por 44 años, Eve, una ávida amante de Dios.
 {.is-info}
 
 ## Referencias

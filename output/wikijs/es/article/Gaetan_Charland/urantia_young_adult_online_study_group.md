@@ -21,14 +21,14 @@ Lo más destacado y vanguardista de este grupo de estudio es su plan de estudios
 
 Es muy vigorizante y alentador ser testigo de una iniciativa como la de este grupo de estudio virtual. Responde a las peticiones que nos dieron los reveladores en el Mandato de Publicación de ayudar a capacitar a líderes e instructores y crear miles de grupos de estudio. Esos mismos reveladores nos animaron también a estudiar la vida de Jesús, para encontrar la manera de cumplir nuestra misión como instructores y líderes.
 
-Creo que, cuando más grupos de estudio adopten este plan de estudios, veremos grandes cambios que sucederán no solo en nuestra vida, sino también en nuestra familia y nuestra comunidad. Si desean unirse a este grupo de estudio o ver alguna grabación, contacten con  Antonio Schefer en [conference@triniteit.org](mailto:conference@triniteit.org).
+Creo que, cuando más grupos de estudio adopten este plan de estudios, veremos grandes cambios que sucederán no solo en nuestra vida, sino también en nuestra familia y nuestra comunidad. Si desean unirse a este grupo de estudio o ver alguna grabación, contacten con  Antonio Schefer en [conference@triniteit.org](mailto:conference@triniteit.org).
 
 Para más información sobre la programación del grupo de estudio, visiten la web [http://urantia-association.org/2016/01/24/urantia-young-adult-study-group/](http://urantia-association.org/2016/01/24/urantia-young-adult-study-group/) 
 
 En espíritu de hermandad.
 
-Gaetan G. Charland  
-Presidente de Grupos de Estudio  
+Gaetan G. Charland
+Presidente de Grupos de Estudio
 Asociación Urantia International
 <br style="clear:both;"/>
 

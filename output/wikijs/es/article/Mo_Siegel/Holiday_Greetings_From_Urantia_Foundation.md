@@ -42,7 +42,7 @@ _De Mo Siegel, presidente de la Fundación Urantia_
 
 En nombre de los miembros de la Junta Ampliada de la Fundación Urantia, les deseo unas felices fiestas y mucha salud. Cuando volvemos la vista al 2008 y tenemos en cuenta nuestras muchas bendi­ciones, sus esfuerzos voluntarios, oraciones y apoyo están en el primer puesto de nuestra lista de agradecimientos.
 
-A medida que la Fundación Urantia construye para el futuro, estamos profunda­mente en deuda con muchas personas por su excelente trabajo de cada día. Estamos especialmente agradecidos con el equipo en Chicago, los equipos de las sucursales de todo el mundo y con los traductores que trabajan altruistamente para este noble proyecto.  
+A medida que la Fundación Urantia construye para el futuro, estamos profunda­mente en deuda con muchas personas por su excelente trabajo de cada día. Estamos especialmente agradecidos con el equipo en Chicago, los equipos de las sucursales de todo el mundo y con los traductores que trabajan altruistamente para este noble proyecto.
 
 Gracias a los donantes que pagan por la impresión y la distribución de libros, las traducciones, la actualización de sitios web, las mejoras en el edificio y otras muchas actividades de la Fundación Urantia. No podríamos hacer nuestro trabajo sin su generosidad.
 

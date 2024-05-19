@@ -25,15 +25,15 @@ Pasamos un día y medio estudiando y conversando sobre los documentos 99 y 100 d
 
 El primer día, se pidió a Chris que hablara de la Asociación Urantia Internacional y que respondiera preguntas. Las noches del sábado y del domingo socializamos en el café del hotel. En general, la reunión dejó una cálida impresión. La naturaleza de la conferencia se pareció más a una reunión de trabajo, sin demasiada planificación o actividades adicionales.
 
-Es muy alentador ver la inauguración de una nueva asociación que dará servicio a esta región importante del mundo en estos tiempos difíciles. La crisis migratoria era bastante visible en esta gran ciudad europea de Frankfurt. Muchos de los participantes en la reunión sentían que la crisis es lo bastante extensa como para cambiar Alemania de manera significativa en el futuro. Se destacó la necesidad de promover activamente _El libro de Urantia_ en Alemania y se van a hacer planes para colocar el libro en bibliotecas.
+Es muy alentador ver la inauguración de una nueva asociación que dará servicio a esta región importante del mundo en estos tiempos difíciles. La crisis migratoria era bastante visible en esta gran ciudad europea de Frankfurt. Muchos de los participantes en la reunión sentían que la crisis es lo bastante extensa como para cambiar Alemania de manera significativa en el futuro. Se destacó la necesidad de promover activamente _El libro de Urantia_ en Alemania y se van a hacer planes para colocar el libro en bibliotecas.
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/DACH-nov-2016-05-300x225.jpg">
 </figure>
 
-Anton Miroshnichenko  
-Presidente de Miembros  
+Anton Miroshnichenko
+Presidente de Miembros
 Asociación Urantia Internacional
 
 ## Referencias

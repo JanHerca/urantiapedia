@@ -25,12 +25,12 @@ Entonces, ¿cuál es mi objetivo al escribir este artículo? Estoy buscando a le
 
 A menudo oímos decir «¿dónde están los lectores jóvenes?» cuando nos reunimos en las conferencias. Creo que los que pueden responder a esta pregunta son los mismos lectores jóvenes.
 
-Si son lectores jóvenes y les gustaría ayudarnos a encontrar respuestas y soluciones a lo  mencionado anteriormente, contacten conmigo en esta dirección: [studygroupchair.uai@gmail.com](mailto:studygroupchair.uai@gmail.com)
+Si son lectores jóvenes y les gustaría ayudarnos a encontrar respuestas y soluciones a lo  mencionado anteriormente, contacten conmigo en esta dirección: [studygroupchair.uai@gmail.com](mailto:studygroupchair.uai@gmail.com)
 
 En cuanto a las maneras de organizar y facilitar grupos de estudio, tengo una plétora de documentos y ayudas al estudio que abordan esta cuestión. No puedo dar aquí la dirección web de mi colección porque es demasiado larga, pero si me escriben se la enviaré con mucho gusto.
 
-Gaétan G. Charland  
-Presidente de Grupos de Estudio  
+Gaétan G. Charland
+Presidente de Grupos de Estudio
 Asociación Urantia Internacional
 
 ## Referencias

@@ -16,9 +16,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Ecuador-BF-3-300x169.jpg">
 </figure>
 
-La feria del libro de Ecuador se celebró este año en la Universidad Católica Pontificia de Ecuador (PUCE) del 3 al 7 de junio. Aunque todavía no estamos reconocidos oficialmente como Asociación Nacional de los Lectores de E_l libro de Urantia_ de Ecuador (AUEC), este año participamos en la feria como  AUEC.
+La feria del libro de Ecuador se celebró este año en la Universidad Católica Pontificia de Ecuador (PUCE) del 3 al 7 de junio. Aunque todavía no estamos reconocidos oficialmente como Asociación Nacional de los Lectores de E_l libro de Urantia_ de Ecuador (AUEC), este año participamos en la feria como  AUEC.
 
-Estuvimos ubicados en el stand número 17, en el que colocamos carteles que hacían referencia a _El libro de Urantia_ y gráficos del universo maestro. Se unieron para colaborar con nosotros estudiantes del grupo de lectores del Jardín de Edentia, del valle de los Chillos y de la ciudad de  Quito.
+Estuvimos ubicados en el stand número 17, en el que colocamos carteles que hacían referencia a _El libro de Urantia_ y gráficos del universo maestro. Se unieron para colaborar con nosotros estudiantes del grupo de lectores del Jardín de Edentia, del valle de los Chillos y de la ciudad de  Quito.
 
 Esta es una pequeña feria de seis días a la que asisten principalmente estudiantes y profesores; no hay mucho público, pero la calidad de los asistentes es de un alto nivel educativo.
 

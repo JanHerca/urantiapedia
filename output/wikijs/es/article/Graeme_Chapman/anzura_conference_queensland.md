@@ -21,7 +21,7 @@ Si no se han inscrito todavía, sigue habiendo plazas disponibles para asistir a
 
 **Sobre el tema:**
 
-El tema de esta conferencia está inspirado en la famosa pregunta que hizo Albert Einstein: «¿Juega Dios a los dados con el universo?». Esta pregunta se hizo en respuesta a los desarrollos científicos que se estaban desarrollando cuando se estaba recopilando _El libro de Urantia_. Sorprendentemente, el materialismo predominante de la ciencia contemporánea se estaba disipando justo cuando _El libro de Urantia_ decía que debería hacerlo. Lo que sigue es una vista previa de dónde nos podrían llevar estas líneas de pensamiento durante la conferencia.
+El tema de esta conferencia está inspirado en la famosa pregunta que hizo Albert Einstein: «¿Juega Dios a los dados con el universo?». Esta pregunta se hizo en respuesta a los desarrollos científicos que se estaban desarrollando cuando se estaba recopilando _El libro de Urantia_. Sorprendentemente, el materialismo predominante de la ciencia contemporánea se estaba disipando justo cuando _El libro de Urantia_ decía que debería hacerlo. Lo que sigue es una vista previa de dónde nos podrían llevar estas líneas de pensamiento durante la conferencia.
 
 Esa misma idea general de que existen procesos de fondo invisibles que operan en el universo es tan fundamental que es prácticamente un proceso de fondo para el pensamiento mismo, implícito en todas las religiones y los conceptos de Dios desde sus orígenes supersticiosos o de «miedo a los fantasmas» más primitivos. De hecho solo en los últimos siglos unas cuantas filosofías y ciencias lograron distanciarse y defender una posición materialista en la que se sostiene que la realidad no es más que lo que es visible, o al menos mensurable.
 

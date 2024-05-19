@@ -34,7 +34,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_Line St-Pierre, fideicomisario asociado, Fundación Urantia,  
+_Line St-Pierre, fideicomisario asociado, Fundación Urantia,
 Ste-Sophie, Québec, Canada._
 
 Tras ser nombrada fideicomisario asociado de la Fundación Urantia, fui invitada a formar parte del Comité de Educación, donde se me cuestionó acerca de las ideas tenía para seminarios potenciales. Compartí con Gard Jameson –presidente del comité– que había estado dirigiendo, en Quebec, a un grupo de mujeres enfocado en el valor único-singular de las mujeres. Gard, por su parte, me pidió profundizar en estas ideas con algunas mujeres de la fundación y planificar un retiro para el año 2014.

@@ -36,7 +36,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Widi Nogroho, traductor jefe de la traducción al indonesio, Yakarta (Indonesia)_
 
-Con una nueva fuente de ingresos para mi familia, espero poder renunciar a mi trabajo algún día, encontrar más tiempo para traducir, dar seminarios y predicar el evangelio de Jesús en Indonesia. La gente está tan contenta de escuchar el mensaje sencillo de Jesús: la paternidad de Dios y la hermandad de los hombres. Las enseñanzas de Jesús son tan completas, tan verdaderas en la vida, tan destacadas, tan bellas. Son las enseñanzas más grandes de todos los tiempos. Pueden cambiar y cambiarán completamente nuestra vida  – y algún día, el mundo.
+Con una nueva fuente de ingresos para mi familia, espero poder renunciar a mi trabajo algún día, encontrar más tiempo para traducir, dar seminarios y predicar el evangelio de Jesús en Indonesia. La gente está tan contenta de escuchar el mensaje sencillo de Jesús: la paternidad de Dios y la hermandad de los hombres. Las enseñanzas de Jesús son tan completas, tan verdaderas en la vida, tan destacadas, tan bellas. Son las enseñanzas más grandes de todos los tiempos. Pueden cambiar y cambiarán completamente nuestra vida  – y algún día, el mundo.
 
 Desde que traduje la cuarta parte de _El libro de Urantia_, me propuse predicar el evangelio de Jesús usando cuatro enseñanzas básicas como la clave para obtener la salvación:
 

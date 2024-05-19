@@ -11,7 +11,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 Asociación Internacional Urantia (IUA)</p>
 
 
-> **«En la casa de mi Padre hay muchas moradas:**  
+> **«En la casa de mi Padre hay muchas moradas:**
 > **si no fuera verdad, no os lo habría dicho» (Jesús)**
 
 Ahora que he alcanzado la edad de 73 años, mi interés por la otra vida y los mundos de la morontia se ha agudizado. Pero de todos los 56 mundos de la morontia que rodean Jerusem (el mundo sede del sistema de Satania) mi atención se centra más en los siete satélites que rodean al mundo de transición número uno (el mundo de los finalitarios). Son los mundos mansión, donde se reanuda nuestro viaje eterno después de dejar Urantia, nuestro planeta de «vida inicial».

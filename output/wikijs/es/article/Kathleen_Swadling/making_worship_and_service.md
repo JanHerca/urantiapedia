@@ -19,7 +19,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Dedicamos mucho tiempo a entender la definición de adoración y servicio. Y si voy a escribir sobre «convertir la adoración y el servicio en el centro de nuestra vida», será mejor que me concentre en explorar los cómos y porqués de poner en práctica e interiorizar las profundas verdades que descubrimos sobre estos temas a través de nuestro estudio del libro.
 
-La clave para servir a los demás (para ser una persona dinámicamente útil en el mundo) es nuestra relación personal con el Padre. Me pregunto cuántos de nosotros dedicamos de manera consistente un tiempo regular para ir solos a un lugar tranquilo donde no nos molesten y comunicarnos con el Padre, para orar y adorar. Me gustaría levantar la mano y decir «yo lo hago», pero si he de ser realmente sincera con ustedes debo decir que, aunque idealmente me gustaría ser más regular y consistente, a veces es un poco como tratar de establecer tiempos regulares para hacer ejercicio: a veces me emociono y adquiero una rutina regular, mientras que otras veces lo dejo pasar y pierdo el hábito. 
+La clave para servir a los demás (para ser una persona dinámicamente útil en el mundo) es nuestra relación personal con el Padre. Me pregunto cuántos de nosotros dedicamos de manera consistente un tiempo regular para ir solos a un lugar tranquilo donde no nos molesten y comunicarnos con el Padre, para orar y adorar. Me gustaría levantar la mano y decir «yo lo hago», pero si he de ser realmente sincera con ustedes debo decir que, aunque idealmente me gustaría ser más regular y consistente, a veces es un poco como tratar de establecer tiempos regulares para hacer ejercicio: a veces me emociono y adquiero una rutina regular, mientras que otras veces lo dejo pasar y pierdo el hábito. 
 
 ¿Cuántos podemos decir que la adoración y el servicio son el centro de nuestra vida? Independientemente de cuánto amemos a Dios y deseemos encontrarlo y hacer su voluntad, encontrar tiempo para adorar puede ser difícil cuando tenemos horarios muy apretados. Muchos de nosotros estamos en movimiento desde el minuto en que nos levantamos hasta el minuto en que nos vamos a dormir por la noche. Las exigencias de la vida cotidiana nos impiden sacar un tiempo precioso para ir a buscar un rato a solas en el que estar en comunión con Dios. Y a menudo, cuanto más ocupados e involucrados estamos en las luchas diarias de la vida, menos podemos frenar y tomarnos un tiempo. Podemos tener niños pequeños, podemos tener un cónyuge que nos necesita, podemos tener un horario de trabajo pesado (o todo lo anterior), o simplemente podemos estar demasiado cansados para dar un paseo a ese lugar tranquilo favorito. Lo más probable es que los momentos en los que más lo necesitamos sean los momentos en los que es menos probable que hagamos el esfuerzo.
 
@@ -112,24 +112,24 @@ Veamos de nuevo esta cita:
 
 ## Las elecciones son importantes
 
-Dado que las opciones para el servicio dinámico son tan grandes, y porque sabemos que queremos hacer las cosas a la manera de Dios, nuestra vida de oración habitual se convierte en la clave de este proceso de toma de decisiones: hablar de nuestras cosas con el Padre, exponer todos los hechos de nuestra vida personal, ser verdaderamente honestos con nosotros mismos y con Dios, comprender nuestras capacidades, habilidades y limitaciones, tener todo en cuenta y pedir al Padre que nos guíe y dé fuerza, valor y sabiduría para tomar decisiones sensatas y prácticas sobre la manera mejor y más eficaz de servir. 
+Dado que las opciones para el servicio dinámico son tan grandes, y porque sabemos que queremos hacer las cosas a la manera de Dios, nuestra vida de oración habitual se convierte en la clave de este proceso de toma de decisiones: hablar de nuestras cosas con el Padre, exponer todos los hechos de nuestra vida personal, ser verdaderamente honestos con nosotros mismos y con Dios, comprender nuestras capacidades, habilidades y limitaciones, tener todo en cuenta y pedir al Padre que nos guíe y dé fuerza, valor y sabiduría para tomar decisiones sensatas y prácticas sobre la manera mejor y más eficaz de servir. 
 
 Decidir qué hacer y cómo aplicar las cualidades espirituales a nuestra vida de servicio es algo increíblemente personal y no debemos permitir presiones externas de personas que intenten decirnos lo que debemos hacer a modo de servicio. También hay que tener cuidado con el cargo de conciencia; a veces nos sentimos culpables a través de una programación condicionada o de personas que intentan decirnos lo que debemos hacer, aunque en nuestro corazón sintamos que está mal. Tenemos que aprender a escuchar nuestro espíritu interior para discernir lo que es mejor. Tenemos que establecer un sano respeto por nosotros mismos; cada uno tiene que descubrir su propio viaje y ser el capitán de su propio barco. Con Dios (el espíritu interior) como socio principal y con intentos regulares de comunicación a través de la oración y la adoración, deberíamos ser capaces de manejar nuestra nave a través de la mayor de las tormentas, tanto en nuestra vida interior como exterior, y encontrar maneras de dirigir nuestros impulsos para servir de manera sabia y eficaz.
 
-Y para terminar, no olvidemos la prueba de fuego de los frutos del espíritu. 
+Y para terminar, no olvidemos la prueba de fuego de los frutos del espíritu. 
 
 **Frutos del espíritu:**
 
-Servicio amoroso  
-Consagración desinteresada  
-Lealtad valiente  
-Equidad sincera  
-Honradez iluminada  
-Esperanza imperecedera  
-Confianza fiel  
-Ministerio misericordioso  
-Bondad inagotable  
-Tolerancia indulgente  
+Servicio amoroso
+Consagración desinteresada
+Lealtad valiente
+Equidad sincera
+Honradez iluminada
+Esperanza imperecedera
+Confianza fiel
+Ministerio misericordioso
+Bondad inagotable
+Tolerancia indulgente
 Paz duradera
 
 ## Referencias

@@ -16,7 +16,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <figcaption><em>Anton Miroshnichenko</em></figcaption>
 </figure>
 
-Este verano, algunos lectores presentaron _El libro de Urantia_ en los tres acontecimientos siguientes celebrados en Ucrania:
+Este verano, algunos lectores presentaron _El libro de Urantia_ en los tres acontecimientos siguientes celebrados en Ucrania:
 
 El festival «Campo de sueños»
 
@@ -37,7 +37,7 @@ Este acontecimiento se celebró del 6 al 9 de agosto y la Asociación Urantia de
 <figcaption><em>Ukraine Expo</em></figcaption>
 </figure>
 
-Lectores de _El libro de Urantia_ de Odessa participaron en esta exposición por segunda vez. Preparamos carteles, folletos y tarjetas de presentación y vendimos ocho Libros de Urantia. Alexander presentó también a los visitantes «Las profecías de Cristo de los rollos del mar Muerto», del arcipreste Dimitry Yurevich, que él usó para establecer paralelismos con _El libro de Urantia_ en términos de la historia del pensamiento religioso de la era precristiana. Algunas personas se sorprendieron al conocer que todo el texto del libro está disponible gratuitamente en Internet. Tomaron de buen grado las tarjetas de presentación y los folletos que incluyen la dirección del sitio web.
+Lectores de _El libro de Urantia_ de Odessa participaron en esta exposición por segunda vez. Preparamos carteles, folletos y tarjetas de presentación y vendimos ocho Libros de Urantia. Alexander presentó también a los visitantes «Las profecías de Cristo de los rollos del mar Muerto», del arcipreste Dimitry Yurevich, que él usó para establecer paralelismos con _El libro de Urantia_ en términos de la historia del pensamiento religioso de la era precristiana. Algunas personas se sorprendieron al conocer que todo el texto del libro está disponible gratuitamente en Internet. Tomaron de buen grado las tarjetas de presentación y los folletos que incluyen la dirección del sitio web.
 
 La pregunta más habitual en la exposición fue «¿qué es _El libro de Urantia_?». En general, las personas interesadas en los libros se sorprendieron de la cantidad de temas y de contenido del libro.
 

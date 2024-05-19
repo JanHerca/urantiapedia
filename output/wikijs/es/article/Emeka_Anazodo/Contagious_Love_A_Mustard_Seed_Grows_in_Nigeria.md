@@ -55,10 +55,10 @@ Esta conferencia nos proporcionó un foro para reunirnos y estrechar lazos. Coll
 
 Otros ponentes africanos fueron Charity Charles, Shola Agagu, David Onche, Chike Martins, Daniels Hussaini, Samuel Benson y Maya Anazodo. Juntos deliberamos sobre los siguientes temas:
 
-- ¿Por qué difundimos _El libro de Urantia_ y cuáles son nuestros diferentes enfoques?
-- El valor de la experiencia personal y la música en el ministerio.
-- El Mandato de Publicación y la necesidad de que haya grupos de estudio.
-- La necesidad de una biblioteca central Urantia en Nigeria.
+- ¿Por qué difundimos _El libro de Urantia_ y cuáles son nuestros diferentes enfoques?
+- El valor de la experiencia personal y la música en el ministerio.
+- El Mandato de Publicación y la necesidad de que haya grupos de estudio.
+- La necesidad de una biblioteca central Urantia en Nigeria.
 
 La UPI agradece el apoyo financiero recibido del Programa de Subvenciones Semilla de Mostaza de la Fundación Urantia. También estamos agradecidos al Comité Internacional de la Urantia Book Fellowship por proporcionar parte de los fondos complementarios que hicieron posible este evento. Y por último, pero no por ello menos importante, la UPI desea agradecer de todo corazón a todos los participantes de este evento por hacerlo tan informativo como agradable.
 

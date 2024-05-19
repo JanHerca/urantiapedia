@@ -23,9 +23,9 @@ Un año tras otro, la FILBO es cita obligada para todos los que disfrutan de la 
 <img src="/image/article/IUA_Tidings/Bogota-BF-5-300x169.jpg">
 </figure>
 
-Nos sorprende el hecho de que cada año conozcamos a más y más personas que ya son lectores de _El libro de Urantia_, que ya lo conocen o que al menos han oído la palabra «Urantia». Nuestro trabajo durante todos estos años ha sido lento pero ciertamente ha ayudado a que la gente esté familiarizada con la palabra «Urantia» y con el libro. Creemos firmemente que esta es una gran oportunidad para que los voluntarios diseminen las enseñanzas del libro, se impliquen en los programas de la Asociación, experimenten la satisfacción de dar servicio a la revelación y formen vínculos con otros estudiantes del libro cuando dan servicio.
+Nos sorprende el hecho de que cada año conozcamos a más y más personas que ya son lectores de _El libro de Urantia_, que ya lo conocen o que al menos han oído la palabra «Urantia». Nuestro trabajo durante todos estos años ha sido lento pero ciertamente ha ayudado a que la gente esté familiarizada con la palabra «Urantia» y con el libro. Creemos firmemente que esta es una gran oportunidad para que los voluntarios diseminen las enseñanzas del libro, se impliquen en los programas de la Asociación, experimenten la satisfacción de dar servicio a la revelación y formen vínculos con otros estudiantes del libro cuando dan servicio.
 
-Estamos enormemente agradecidos a la Asociación Urantia Internacional y a la Fundación Urantia por su apoyo a este proyecto y animamos encarecidamente a otras asociaciones a que lleven a cabo proyectos similares de servicio. Las palabras clave de la Asociación Urantia son «trabajo en equipo» y «servicio», y las ferias del libro son muy buenos ejemplos de proyectos en los que pueden ponerse en práctica.
+Estamos enormemente agradecidos a la Asociación Urantia Internacional y a la Fundación Urantia por su apoyo a este proyecto y animamos encarecidamente a otras asociaciones a que lleven a cabo proyectos similares de servicio. Las palabras clave de la Asociación Urantia son «trabajo en equipo» y «servicio», y las ferias del libro son muy buenos ejemplos de proyectos en los que pueden ponerse en práctica.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Bogota-BF-Group-706x397.jpg">

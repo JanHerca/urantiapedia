@@ -50,7 +50,7 @@ Participar en un curso como estudiante de la UBIS es una gran manera de profundi
 
 Para abordar el reto, la AFLLU contactó con una compañía de mensajería que entregó más de cincuenta ejemplares de _Le Livre d’Urantia_ desde Francia a Camerún, en la costa oeste del centro de África, en el golfo de Guinea y justo al sur de Nigeria. Los libros viajaron desde París vía el puerto francés de Le Havre a Douala, que es la capital comercial y el puerto más grande de Camerún. Estos libros se entregaron a nuestro amigo y facilitador de la UBIS Guy Stéphane Nyasse y se ofrecieron bajo su liderazgo a grupos de estudio y otros lectores noveles.
 
-La entrega de estos libros es uno de los medios por los que la Revelación Urantia se está haciendo accesible a los habitantes de África.  Según las tendencias futuras de la población mundial, a finales del siglo XXI esta región de África supondrá un tercio de la población mundial. Por esa razón es tan importante comenzar ya a sembrar en esta región.
+La entrega de estos libros es uno de los medios por los que la Revelación Urantia se está haciendo accesible a los habitantes de África.  Según las tendencias futuras de la población mundial, a finales del siglo XXI esta región de África supondrá un tercio de la población mundial. Por esa razón es tan importante comenzar ya a sembrar en esta región.
 
 La Fundación Urantia pagó generosamente todos los libros y los gastos de envío, mientras que la AFLLU hizo los preparativos del envío, lo que le permitió usar plenamente su programa de donación de libros para ayudar a nuestros hermanos africanos a recibir las enseñanzas de Urantia. ¡Muchas gracias a la Fundación!
 

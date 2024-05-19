@@ -85,15 +85,15 @@ He copiado aquí este protocolo para que se beneficien de él. Por favor, tomen 
 6. No teclee cuando su micrófono no está cerrado.
 7. Apague su cámara y cierre el micrófono si tiene problemas con su conexión a Internet, para evitar pérdida de calidad de sonido o de vídeo.
 8. Una adaptación del procedimiento de resolución de reclamaciones de Jesús (159:1/1760-63), si es que surgen.
-9. La sesión se grabará para usar en estudios futuros. Solo los participantes activos, estudiantes futuros, la JIS, el CR, el Comité de Conferencias  y los miembros de la UYAI tienen acceso a los vídeos Youtube privados, y después de conseguir la invitación del anfitrión.
-10. Apaguen su cámara  si no quieren que su imagen se use en la grabación y pidan que se elimine su voz de la grabación en cualquier momento si no quieren que lo que digan sea parte de la grabación. De esta manera su parte se eliminará del vídeo durante la edición.
+9. La sesión se grabará para usar en estudios futuros. Solo los participantes activos, estudiantes futuros, la JIS, el CR, el Comité de Conferencias  y los miembros de la UYAI tienen acceso a los vídeos Youtube privados, y después de conseguir la invitación del anfitrión.
+10. Apaguen su cámara  si no quieren que su imagen se use en la grabación y pidan que se elimine su voz de la grabación en cualquier momento si no quieren que lo que digan sea parte de la grabación. De esta manera su parte se eliminará del vídeo durante la edición.
 
 Creé una ayuda de estudio para grupos de estudio hace unos años para el Simposio de Grupos de Estudio. Incluye muchos artículos útiles dirigidos a mejorar la calidad de nuestra experiencia de aprendizaje. Contacten conmigo con total libertad si les gustaría recibir una copia por correo electrónico.
 
 Disfruten de su grupo de estudio y sean parte activa de la misión espiritual del grupo para el mundo.
 
-Gaetan G. Charland  
-Presidente del Comité de Grupos de Estudio  
+Gaetan G. Charland
+Presidente del Comité de Grupos de Estudio
 Asociación Urantia Internacional
 
 ## Referencias

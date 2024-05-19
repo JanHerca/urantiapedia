@@ -35,8 +35,8 @@ Las prioridades futuras de nuestra planificación son aumentar el número y la f
 
 Apenas hemos comenzado esta aventura de fe y servicio para diseminar este regalo que es vivir y servir para las muchas generaciones que quedan por venir. Espero que nos ayuden a enfrentarnos a estos retos de servicio amoroso y rezo por ello. Únanse, háganse voluntarios y donen dinero; nos hemos embarcado en la gran y noble aventura de la Asociación Urantia Internacional mundial.
 
-Bradly Tharp  
-Tesorero  
+Bradly Tharp
+Tesorero
 Asociación Urantia Internacional
 
 ## Referencias

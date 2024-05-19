@@ -128,7 +128,7 @@ Cambiar un hábito de pensamiento requiere un esfuerzo dedicado. La repetición 
 
 ## El Supremo Actualizando
 
-> Con Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo. <a id="a130_193"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)]  
+> Con Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo. <a id="a130_193"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)]
 
 > El crecimiento experiencial implica una asociación entre la criatura y el Creador —Dios y el hombre asociados. El crecimiento es la marca distintiva de la Deidad experiencial. <a id="a132_178"></a>[[LU 116:0.3](/es/The_Urantia_Book/116#p0_3)]
 

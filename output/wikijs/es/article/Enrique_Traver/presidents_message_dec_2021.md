@@ -44,7 +44,7 @@ Jesús describió la profunda seguridad del mortal conocedor de Dios cuando dijo
 
 Parece que nuestra desorientación de criaturas crea problemas a la hora de establecer prioridades y objetivos, lo que se debe a una sola razón: nuestra relativa falta de conocimiento de Dios.
 
-¿Cómo podemos conocer a Dios? Solo tenemos que buscarlo en nuestro corazón y luego servir a nuestros hermanos y hermanas.  Solo tenemos que sentirlo actuar a través de nosotros.
+¿Cómo podemos conocer a Dios? Solo tenemos que buscarlo en nuestro corazón y luego servir a nuestros hermanos y hermanas.  Solo tenemos que sentirlo actuar a través de nosotros.
 
 ## Referencias
 

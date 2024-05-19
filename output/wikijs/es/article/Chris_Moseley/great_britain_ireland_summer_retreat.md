@@ -19,9 +19,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Del 15 al 17 de septiembre, llegada el 15 de septiembre a partir de las 16:00 horas
 
-**Lugar**: [**High Leigh Conference Centre**](https://www.cct.org.uk/high-leigh/high-leigh-conference-centre)  
-Lord Street, Hoddesdon, Hertfordshire EN11 8SG  
-Teléfono 01992 463016     Correo electrónico [highleigh@cct.org.uk](mailto:highleigh@cct.org.uk)
+**Lugar**: [**High Leigh Conference Centre**](https://www.cct.org.uk/high-leigh/high-leigh-conference-centre)
+Lord Street, Hoddesdon, Hertfordshire EN11 8SG
+Teléfono 01992 463016     Correo electrónico [highleigh@cct.org.uk](mailto:highleigh@cct.org.uk)
 
 **Cost**e: 266 £ para el fin de semana **Depósito:** 60 £ antes del 31 de marzo de 2023 a Chris Moseley
 

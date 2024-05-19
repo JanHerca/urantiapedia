@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _Usado en el Grupo de Estudio Virtual de Alabama  el 10 de enero de 2016_
 
-_El libro de Urantia_ nos informa de que el hombre es una idea con origen en el Paraíso.
+_El libro de Urantia_ nos informa de que el hombre es una idea con origen en el Paraíso.
 
 
 > _«Hagamos al hombre mortal a nuestra imagen»_ <a id="a45_43"></a>[[LU 6:5.7](/es/The_Urantia_Book/6#p5_7)]
@@ -28,7 +28,7 @@ El Padre y el Hijo Eterno crearon el primer paso descendente con el Hijo Creador
 
 El Padre paradisíaco estableció un requisito vital para que Miguel viviera como Sus hijos creados. Este requisito incluía la **experiencia de una vida humana**. Gabriel presidió la comisión de Salvington formada para encontrar **padres adecuados** que establecieran un hogar apropiado. Consideren las altas probabilidades de que el Padre y los Hijos Paradisíacos sean conscientes de toda la historia genética humana. **Gabriel seguramente había revisado todos los vínculos genéticos**. A continuación, seleccionó a José y a María para que fueran la pareja de padres. Podemos asumir que su decisión se basó en los **mejores rasgos físicos y de temperamento disponibles**.
 
-Los estudiantes de _El libro de Urantia_ son conscientes  de la historia planetaria de Urantia, que incluye muchas dificultades. Pedro puso nuevas dificultades en marcha durante su sermón de Pentecostés y otros se concentraron en una nueva doctrina que caracterizaba al Señor Resucitado. **La humanidad de Jesús se dejó prácticamente de lado**. Hasta ahora, los urantianos generalmente **no han sido conscientes de la detallada vida humana de Jesús, heroica, valiente y valerosa**. Vivió un maravilloso **modelo de hombre y para el hombre**.
+Los estudiantes de _El libro de Urantia_ son conscientes  de la historia planetaria de Urantia, que incluye muchas dificultades. Pedro puso nuevas dificultades en marcha durante su sermón de Pentecostés y otros se concentraron en una nueva doctrina que caracterizaba al Señor Resucitado. **La humanidad de Jesús se dejó prácticamente de lado**. Hasta ahora, los urantianos generalmente **no han sido conscientes de la detallada vida humana de Jesús, heroica, valiente y valerosa**. Vivió un maravilloso **modelo de hombre y para el hombre**.
 
 En el documento 196, los intermedios nos instan a **recuperar al Jesús humano tras diecinueve siglos de dogmas**. ¡Quieren que lo presentemos a todos los urantianos!
 
@@ -36,7 +36,7 @@ En el documento 196, los intermedios nos instan a **recuperar al Jesús humano t
 
 ¿Imaginan la conectividad y la profundidad del alcance entre el plan original paradisíaco para el hombre y la vida de Jesús? ¿Podríamos ver ahora más claramente la cualidad divina que esperan revelar en última instancia el Padre y el Hijo Eterno a los mortales por toda la creación?
 
-Están invitados a compartir al amigo Jesús con todos, tal como se vean impulsados a hacerlo.
+Están invitados a compartir al amigo Jesús con todos, tal como se vean impulsados a hacerlo.
 
 ## El Jesús humano; heredar y ganar las cualidades del Maestro de maestros
 
@@ -46,13 +46,13 @@ Están invitados a compartir al amigo Jesús con todos, tal como se vean impuls
 
 En mi charla con PowerPoint del mismo título, se destacan tres factores principales que contribuyeron a su preparación para enseñar:
 
-1. Dotación paradisíaca.  
-2. Base genética.  
+1. Dotación paradisíaca.
+2. Base genética.
 3. Sus esfuerzos personales para estudiar y aprender sobre la humanidad, incluyendo nuestras religiones y la historia secular.
 
 Estos tres factores podrían investigarse más exhaustivamente en el libro para confirmar personalmente nuestro entendimiento. Recomiendo un estudio de ese tipo.
 
-Es necesario centrarse en el Jesús humano por muchas razones, entre otras la orientación suprema para mejorar las relaciones humanas civiles y sociales del mundo. Hay una mejora espiritual duradera para todo el que elige tener fe en el Padre, tal como él demostró. Los detalles de su vida corroboran el hecho de que vivió con los gobiernos autoritarios de entonces y no chocó con ellos a no ser que interfirieran con la autoridad espiritual del Padre o pretendieran desplazarla. Teniendo esto en mente, he aquí algunas preguntas que considerar:
+Es necesario centrarse en el Jesús humano por muchas razones, entre otras la orientación suprema para mejorar las relaciones humanas civiles y sociales del mundo. Hay una mejora espiritual duradera para todo el que elige tener fe en el Padre, tal como él demostró. Los detalles de su vida corroboran el hecho de que vivió con los gobiernos autoritarios de entonces y no chocó con ellos a no ser que interfirieran con la autoridad espiritual del Padre o pretendieran desplazarla. Teniendo esto en mente, he aquí algunas preguntas que considerar:
 
 1. ¿Qué ventajas y beneficios personales puede haber de aprender sobre las cualidades humanas de Jesús?
 2. ¿Qué significa seguir a Jesús? Reflexionen atentamente y en oración.
@@ -63,7 +63,7 @@ Es necesario centrarse en el Jesús humano por muchas razones, entre otras la or
 
 Al abordar estas preguntas, una persona podría llamar a Jesús en oración y confiar en su Espíritu de la Verdad. Dejemos que el Padre dirija con su voluntad en nuestra vida.
 
-Únanse a otras personas que ustedes elijan para conversar sobre estas y otras preguntas mientras consideran el magnánimo modelo humano que Jesús regaló a los urantianos.
+Únanse a otras personas que ustedes elijan para conversar sobre estas y otras preguntas mientras consideran el magnánimo modelo humano que Jesús regaló a los urantianos.
 
 ## Algunos resultados de la búsqueda de la expresión «Jesús humano”:
 
@@ -79,13 +79,13 @@ Al abordar estas preguntas, una persona podría llamar a Jesús en oración y co
 
 > _Pero el error más grande se cometió cuando, aunque se reconocía que el **Jesús humano** tenía una religión, el Jesús divino (Cristo) se convirtió casi de la noche a la mañana en una religión. El cristianismo de Pablo aseguró la adoración del Cristo divino, pero casi perdió de vista por completo al **Jesús humano** de Galilea, luchador y valiente, que gracias a la intrepidez de su fe religiosa personal y al heroísmo de su Ajustador interior, ascendió desde los humildes niveles de la humanidad hasta volverse uno con la divinidad, convirtiéndose así en el nuevo camino viviente por el que todos los mortales pueden elevarse de esta manera desde la humanidad hasta la divinidad. En todos los grados de espiritualidad y en todos los mundos, los mortales pueden encontrar en la vida personal de Jesús aquello que les fortalecerá e inspirará a medida que progresan desde los niveles espirituales más bajos hasta los valores divinos más elevados, desde el principio hasta el fin de toda la experiencia religiosa personal._ [196:2.4] negrita añadida
 
-Vean que la Comisión de Intermedios, en la cuarta parte, deduce cambios en la religión personal que afectan a las enseñanzas de Jesús en nuestra vida. Es su religión personal lo que vamos a descubrir y a perpetuar personal y socialmente.
+Vean que la Comisión de Intermedios, en la cuarta parte, deduce cambios en la religión personal que afectan a las enseñanzas de Jesús en nuestra vida. Es su religión personal lo que vamos a descubrir y a perpetuar personal y socialmente.
 
 Sugiero que lean el documento 194, La donación del Espíritu de la Verdad. En particular, tomen nota de la sección 3, «Lo que sucedió en Pentecostés», párrafo 12:
 
 > _Pentecostés dotó al hombre mortal del poder de perdonar las ofensas personales, de conservar la dulzura en medio de las peores injusticias, de permanecer impasible ante unos peligros aterradores, y de desafiar los males del odio y de la ira mediante los actos intrépidos del amor y la indulgencia. A lo largo de su historia, Urantia ha sufrido las devastaciones de grandes guerras destructivas. Todos los que participaron en estas luchas terribles encontraron la derrota. Sólo hubo un vencedor; sólo hubo uno que salió de estas amargas luchas con un prestigio realzado — y éste fue Jesús de Nazaret y su evangelio de vencer el mal con el bien. **El secreto** de una civilización mejor **está encerrado en las enseñanzas del Maestro sobre la fraternidad de los hombres, la buena voluntad del amor y de la confianza mutua**._ [194:3.12] negrita añadida
 
-Esta última frase es una gran pista de por qué Jesús siguió en la tierra para enseñar y guiar, y de por qué su religión es para toda la humanidad. Sabía que había (y hay) un plan a largo plazo para elevar a los mortales hacia una conciencia espiritual y calidad de vida elevadas. Hay más que aprender.
+Esta última frase es una gran pista de por qué Jesús siguió en la tierra para enseñar y guiar, y de por qué su religión es para toda la humanidad. Sabía que había (y hay) un plan a largo plazo para elevar a los mortales hacia una conciencia espiritual y calidad de vida elevadas. Hay más que aprender.
 
 El Maestro necesita a personas para elevar la calidad civil por todo el mundo. Allá donde miramos vemos sufrimiento porque hay comportamientos humanos que no están en armonía con el ejemplo de vida de Jesús. La lista es larga: guerras, robos, engaños, avaricia de poder, maltrato a las mujeres, prostitución, abuso a menores, hambruna, pobreza, disputas territoriales, mala conducta en los campus, en el gobierno y en las carreteras. Nuestro mundo necesita que cada uno de nosotros promueva y demuestre valentía por las enseñanzas de Jesús y su modelo social ejemplar. Solo sus planes para este planeta prevalecerán, pues sabemos que él es leal a los amplios planes del Padre paradisíaco para la Creación.
 

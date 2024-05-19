@@ -54,9 +54,9 @@ La encarnación de nuestro querido Creador, Miguel de Nebadon, ya es una muestra
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-2.jpg" alt="Editorial junio 2023-2">
 </figure>
 
-> Padre nuestro que estás en los cielos,  
-> Santificado sea tu nombre.  
-> Que venga tu reino; que se haga tu voluntad  
+> Padre nuestro que estás en los cielos,
+> Santificado sea tu nombre.
+> Que venga tu reino; que se haga tu voluntad
 > En la tierra como en el cielo. <a id="a59_33"></a>[LU 144:3.3-6](/es/The_Urantia_Book/144#p3_3)
 
 Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno, con su partida física de nuestro planeta. Sus discípulos tenían la encomienda de seguir expandiendo esa elevación de la consciencia que era su mensaje, algo que «hará nuevo al viejo mundo». 

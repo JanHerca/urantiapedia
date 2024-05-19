@@ -42,7 +42,7 @@ Metas de 2011
 
 1. _Aumentar la buena voluntad y la comunicación con los lectores y los grupos de lectores de todo el mundo a través de los boletines trimestrales, encuentros locales de lectores, y el fomento de la cooperación entre organizaciones._
 
-Se envían boletines trimestralmente, y los miembros del personal y de la Junta Ampliada asisten a muchos encuentros nacionales e internacionales de lectores. Si los lectores son el cuerpo humano de la Revelación Urantia, el cuerpo necesita estar sano para que la Revelación pueda florecer.  
+Se envían boletines trimestralmente, y los miembros del personal y de la Junta Ampliada asisten a muchos encuentros nacionales e internacionales de lectores. Si los lectores son el cuerpo humano de la Revelación Urantia, el cuerpo necesita estar sano para que la Revelación pueda florecer.
 
 2. _Poner a disposición las instalaciones del 533 de W Diversey Parkway en Chicago para actividades relacionadas con el avance de la misión de la Fundación, que es la de sembrar El libro de Urantia y sus enseñanzas por todo el mundo._
 
@@ -70,7 +70,7 @@ La distribución del libro sigue creciendo, aun cuando las librerías se enfrent
 
 Después de imprimir 25.000 libros en 2010, incluyendo cuatro nuevas traducciones, las necesidades de impresión para 2011 incluyen aproximadamente 22.000 libros: 12.000 ejemplares de las traducciones española, portuguesa y polaca, que se acaban de imprimir, y 10.000 ejemplares de la edición inglesa, que se imprimirán este otoño.
 
-3. _Ampliar la versión en audio de_ El libro de Urantia _a todas las traducciones existentes._  
+3. _Ampliar la versión en audio de_ El libro de Urantia _a todas las traducciones existentes._
 
 Está en marcha un plan para tener disponibles versiones en audio para todas las traducciones.
 
@@ -128,13 +128,13 @@ La Fundación seguirá construyendo una tesorería fuerte que pueda resistir las
 
 ## Salvaguarda del texto
 
-1. _Desarrollar el mejor centro de descargas en Internet, amigable para el usuario, en_ [_www.urantia.org_](http://www.urantia.org/)  
+1. _Desarrollar el mejor centro de descargas en Internet, amigable para el usuario, en_ [_www.urantia.org_](http://www.urantia.org/)
 
 Este centro de descargas ofrecerá a los lectores el texto de referencia estándar en inglés y todas las traducciones formateadas empleando el sistema de referencia estándar.
 
 2. _Terminar una base de datos de libro electrónico que sincronice, coordine y salvaguarde sin redundancias los procesos necesarios para crear libros impresos, e-books, dispositivos portátiles, textos en línea, herramientas para el traductor y otros medios libres de errores._
 
-Durante muchos años, la Fundación Urantia se ha enfrentado al reto cada vez más desafiante de la proliferación de formatos digitales empleados en la publicación, eBooks, Internet y otros medios digitales  
+Durante muchos años, la Fundación Urantia se ha enfrentado al reto cada vez más desafiante de la proliferación de formatos digitales empleados en la publicación, eBooks, Internet y otros medios digitales
 
 En marzo, tras meses.de preparación y consultas con expertos, se reunió un grupo de especialistas informáticos en casa de Georges y Marlène Dupont para encontrar una solución. El grupo recomendó el lenguaje XML como solución. Esto quizá no suene como un gran logro, pero es uno de los pilares más importantes en la protección y diseminación de _El libro de Urantia_ en la era digital. Por primera vez los ficheros digitales del libro están totalmente salvaguardados, y aún así son ágiles y progresivos para los numerosos propósitos que son necesarios en el futuro inmediato. Nuestro agradecimiento especial para Larry Watkins por su trabajo en los ficheros HTML y a Rob Reno, Rogerio da Silva, Georges Michelson-Dupont y Jay Peregrine por su tenacidad en resolver este problema inminente.
 

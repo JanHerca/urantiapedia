@@ -21,7 +21,7 @@ En la iglesia de mi localidad hubo una presentación sobre «administración» q
 
 Me recordaron la parábola del buen samaritano. Un hombre había sido asaltado y muchas personas rechazaron la oportunidad de ayudar. El samaritano aparece y ofrece su tiempo – deja lo que está haciendo y pasa la noche cuidando del hombre hasta que se restablece; da su talento – proporciona consuelo inmediato y venda las heridas del hombre; y ofrece su tesoro – paga al posadero para que ayude al hombre y le promete que pagará cualquier factura posterior que pueda surgir.
 
-Hacia finales de año, se nos pide a todos que hagamos inventario del tiempo, el talento y el apoyo económico que tenemos para ofrecer a la Comunidad Urantia. Si pueden, les animo a visitar el sitio web de la Asociación Urantia Internacional para que descubran oportunidades de trabajo voluntario y para que hagan una donación en línea.
+Hacia finales de año, se nos pide a todos que hagamos inventario del tiempo, el talento y el apoyo económico que tenemos para ofrecer a la Comunidad Urantia. Si pueden, les animo a visitar el sitio web de la Asociación Urantia Internacional para que descubran oportunidades de trabajo voluntario y para que hagan una donación en línea.
 
 Me siento muy agradecido por todas las oportunidades de ayudar a dar forma y dirigir las aportaciones de esta comunidad. Juntos estamos difundiendo las enseñanzas de _El libro de Urantia_ y ayudando a acercar a la humanidad a Dios.
 

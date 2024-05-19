@@ -185,7 +185,7 @@ Se pueden encontrar formas de apoyar financieramente nuestros esfuerzos 2x2=MORE
 
 ## Próximos Eventos…
 
-- Conferencia de verano conjunta, Urantia Book Fellowship y UAI, San Antonio, TX, del 9 al 12 de junio de 2016  
+- Conferencia de verano conjunta, Urantia Book Fellowship y UAI, San Antonio, TX, del 9 al 12 de junio de 2016
 - Cumpleaños de Jesús en Tierra Santa, 10 de agosto de 2016 – 23 de agosto de 2016.
 
 Para un regalo especial del sábado, sintonice el webcast «Ciudadano Cósmico» con llamada a las 10:00 a. m., hora de la montaña. Número de llamada para el webcast: www.blogtalkradio.com/CosmicCitizen. Número de llamada: 646–716–8158 (Norteamérica) durante el tiempo que el programa esté en vivo. Los programas archivados están disponibles.

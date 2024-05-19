@@ -23,7 +23,7 @@ En este evento del noreste de Europa estuvieron presentes lectores de 15 países
 <img src="/image/article/IUA_Tidings/Karmelo-300x226.jpg">
 </figure>
 
-A última hora de la tarde del jueves 11 de julio y después de la bienvenida nuestro presidente, Chris Wood, y Karmo Kalda, el presidente de la conferencia, abrieron el programa oficial y  presentaron como maestros de ceremonia a Michael MacIsaac y Helen Anvelt. Después de la cena Sebastián Nozzi (coordinador europeo) dio la bienvenida a los asistentes en nombre de la comunidad europea. Helen Anvelt ofreció una actuación musical y de baile llamada «Dicha, serenidad y amor», con la que terminó el programa oficial del primer día. Para los que querían socializar más por la noche estaba el vestíbulo del hotel, en el que disfrutamos de música y bebida.
+A última hora de la tarde del jueves 11 de julio y después de la bienvenida nuestro presidente, Chris Wood, y Karmo Kalda, el presidente de la conferencia, abrieron el programa oficial y  presentaron como maestros de ceremonia a Michael MacIsaac y Helen Anvelt. Después de la cena Sebastián Nozzi (coordinador europeo) dio la bienvenida a los asistentes en nombre de la comunidad europea. Helen Anvelt ofreció una actuación musical y de baile llamada «Dicha, serenidad y amor», con la que terminó el programa oficial del primer día. Para los que querían socializar más por la noche estaba el vestíbulo del hotel, en el que disfrutamos de música y bebida.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/DSC05049-300x225.jpg">
@@ -41,14 +41,14 @@ El domingo comenzó como el resto de días de la conferencia, excepto que era el
 
 Cuando comenzamos los preparativos en la I Reunión de Líderes Europeos de octubre de 2017 en la ciudad de Sitges (España) y elegimos a la Asociación Urantia de Estonia para que organizara esta conferencia, no esperábamos que esta conferencia tuviera un éxito tan grande. Personalmente pensaba que no podríamos hacerlo mejor que en Budapest, pero Karmo Kalda y su equipo demostraron que era posible. Siempre me asombra la manera en que la planificación de la conferencia se desarrolla en conferencias reales y lo inolvidables y transformadoras que llegan a ser. Por esta y muchas más razones quiero dar las gracias a los estonios. También quiero dar las gracias a nuestros patrocinadores: la Asociación Urantia Internacional, la Fundación Urantia y Truthbook por su ayuda económica y de otros tipos. Pero sobre todo quiero dar las gracias a los asistentes de todo el mundo que han hecho posible esta II Conferencia Europea de la Asociación Urantia. Sin su confianza en nuestros eventos esto nunca habría sido posible.
 
-Todas las presentaciones se grabaron en vídeo y están disponibles en el canal Youtube de la asociación. Vean este enlace (debajo) y hagan clic en la lista de reproducción de la II Conferencia  Europea de la Asociación Urantia.
+Todas las presentaciones se grabaron en vídeo y están disponibles en el canal Youtube de la asociación. Vean este enlace (debajo) y hagan clic en la lista de reproducción de la II Conferencia  Europea de la Asociación Urantia.
 
 https://www.youtube.com/@urantiassociationinternational
 
 Espero con ilusión verles de nuevo en nuestro próximo gran evento, que es la Conferencia de la Asociación Urantia Internacional que se celebrará en Urubamba-Cuzco (Perú). Gracias por darme la oportunidad de servirles ayudando a organizar conferencias junto con mi comité de Conferencias. Es ciertamente un placer servirles y estoy deseando ayudarles en la próxima.
 
-Antonio Schefer  
-Presidente de Conferencias  
+Antonio Schefer
+Presidente de Conferencias
 Asociación Urantia Internacional
 
 P.S. Les dejo con algunas imágenes de los momentos que pasamos juntos:

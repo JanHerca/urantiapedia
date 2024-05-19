@@ -30,7 +30,7 @@ Y van más lejos en su deseo de guiarnos en la forma en que debemos continuar co
 
 ¿Qué hizo Miguel/Jesús en su día que podamos aprender y aplicar hoy? Primero creó un grupo de doce apóstoles (estudiantes) a los que capacitó como educadores. De hecho Jesús simplemente creó un grupo de estudio en el que se invitaba a cada estudiante a aprender e integrar nuevas ideas y nuevos conceptos y a convertirse en instructores a su vez. Recordemos que estos apóstoles eran en su mayor parte gente corriente y tenían un nivel educativo normal muy similar al de la mayoría de nosotros.
 
-Si estudiamos y aprendemos cómo organizó y enseñó Jesús a sus apóstoles y discípulos para que estuvieran bien preparados para llevar su mensaje al mundo y lo comparamos con lo que hacemos hoy en nuestros grupos de estudio, ¿podemos ver alguna semejanza? ¿Estamos ayudando a los estudiantes del libro a prepararse para la difusión de la quinta revelación de época? ¿Estamos dando espacio suficiente para conversar, responder preguntas y compartir experiencias diversas, o simplemente intentamos leer insistiendo en completar el documento sin permitir la flexibilidad de explorar entre nosotros los significados y valores profundos? Jesús no se limitó a dictar su mensaje y tampoco pidió a sus seguidores que memorizaran sus palabras, sino que después de una intensa sesión de enseñanza los envió para ayudar a otros a enseñar y practicar lo que él les había enseñado con el fin de que las lecciones pudieran integrarse profundamente en su corazón y su alma a través de una experiencia personal de primera mano.
+Si estudiamos y aprendemos cómo organizó y enseñó Jesús a sus apóstoles y discípulos para que estuvieran bien preparados para llevar su mensaje al mundo y lo comparamos con lo que hacemos hoy en nuestros grupos de estudio, ¿podemos ver alguna semejanza? ¿Estamos ayudando a los estudiantes del libro a prepararse para la difusión de la quinta revelación de época? ¿Estamos dando espacio suficiente para conversar, responder preguntas y compartir experiencias diversas, o simplemente intentamos leer insistiendo en completar el documento sin permitir la flexibilidad de explorar entre nosotros los significados y valores profundos? Jesús no se limitó a dictar su mensaje y tampoco pidió a sus seguidores que memorizaran sus palabras, sino que después de una intensa sesión de enseñanza los envió para ayudar a otros a enseñar y practicar lo que él les había enseñado con el fin de que las lecciones pudieran integrarse profundamente en su corazón y su alma a través de una experiencia personal de primera mano.
 
 ¿Cómo podemos hacer que los grupos de estudio sean efectivos y atractivos si nuestros grupos son solo de naturaleza intelectual, si simplemente se han convertido en un tipo de monotonía de repetición de lectura hecha sin una profunda reflexión? Me he encontrado con algunos grupos cuyo único propósito es hacer una lectura completa del libro cada año. Si ese es el objetivo principal, ¿cuánto tiempo queda para la discusión y la exploración? ¿Qué esfuerzo hacen los anfitriones del grupo para hacer que su grupo sea interactivo, dinámico y atractivo? Estas preguntas merecen un examen sincero si realmente deseamos que nuestros grupos de estudio sean un lugar acogedor que proporcione el trabajo de campo necesario que cumpla con los criterios necesarios para llevar a cabo la misión de la revelación.
 
@@ -38,8 +38,8 @@ Debemos centrar nuestros esfuerzos en capacitar a los instructores (no a cualqui
 
 Que tengan un buen grupo de estudio.
 
-Gaétan Charland  
-Presidente del comité de Grupos de Estudio  
+Gaétan Charland
+Presidente del comité de Grupos de Estudio
 Asociación Urantia Internacional
 
 

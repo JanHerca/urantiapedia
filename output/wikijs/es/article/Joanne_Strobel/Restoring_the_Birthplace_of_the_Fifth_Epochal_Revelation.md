@@ -48,14 +48,14 @@ El alivio duró poco. Mientras los inquilinos del tercer piso disfrutaban de su 
 
 Se discutió, se tomaron decisiones, se recaudaron fondos y se llevaron a cabo acciones. Nuestro rebaño de solteros de la tercera planta dejó libre a regañadientes su apartamento en julio. Y el 15 de agosto de 2013, Dalius “Dale” Budas y su intrépido equipo de contratistas lituanos comenzaron el derribo de la tercera y última planta, bajo la supervisión de la benefactora, Jennifer Siegel, y con el asentimiento de Sir Alfred Lord Tennyson.
 
-> Yeso a su derecha,  
-> Rescate a su izquierda,  
-> Marcos met álicos enfrente  
-> Martillo y azote,  
-> Tormenta de tornillos y clavos,  
-> Trabajan con decisi ón,  
-> En las mand íbulas de la Obliteración,  
-> En la boca de la Destrucci ón  
+> Yeso a su derecha,
+> Rescate a su izquierda,
+> Marcos met álicos enfrente
+> Martillo y azote,
+> Tormenta de tornillos y clavos,
+> Trabajan con decisi ón,
+> En las mand íbulas de la Obliteración,
+> En la boca de la Destrucci ón
 > Se esfuerzan los seis trabajadores.
 
 Yo misma vi la factura. Se sacaron unas inimaginables 30 toneladas de escombros. Lloramos y lamentamos la pérdida de bañeras decrépitas con patas. Escondimos pomos, bisagras y ganchos vintage, con la esperanza de restaurarlos algún día. Hicimos fotografías y posamos junto paredes desnudas y sus cables eléctricos una vez enterrados. Vendimos innumerables tesoros a Salvage One.

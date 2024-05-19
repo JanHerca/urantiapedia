@@ -53,7 +53,7 @@ _De Marilynn Kulieke, secretaria de la Fundación Urantia, Lincolnshire (Illinoi
 
 ## 1. Planificación
 
-Marta Elders dirigió una sesión de planificación, durante la cual los miembros de la junta consideraron los proyectos que la Fundación Urantia llevará a cabo y logrará en  2025. Tras pensar en el futuro, establecimos metas de uno y cinco años para ayudar a la Fundación Urantia en su misión de sembrar _El libro de Urantia_ y sus enseñanzas por todo el mundo.
+Marta Elders dirigió una sesión de planificación, durante la cual los miembros de la junta consideraron los proyectos que la Fundación Urantia llevará a cabo y logrará en  2025. Tras pensar en el futuro, establecimos metas de uno y cinco años para ayudar a la Fundación Urantia en su misión de sembrar _El libro de Urantia_ y sus enseñanzas por todo el mundo.
 
 ## Metas de 2011
 

@@ -49,11 +49,11 @@ Dos hombres, William Strauss y Neil Howe, descubrieron y desarrollaron la Teorí
 
 Uno de sus libros, The Fourth Turning, analiza y discute el período actual, la cuarta de las cuatro estaciones que Estados Unidos está experimentando ahora, y compara nuestro tiempo con todos los períodos de ochenta años que se remontan al comienzo de los EE. UU. como nación. Los patrones de eco de la historia son convincentes.
 
-Este ensayo analiza la historia del movimiento Urantia en un lapso de 85 años —desde 1939 hasta el presente— basado en el modelo de las cuatro estaciones, en los Arquetipos (Profeta, Nómada, Héroe y Artista) y los Estados de Ánimo (Alto , Despertar, Desentrañar y Crisis y Oportunidad).  
+Este ensayo analiza la historia del movimiento Urantia en un lapso de 85 años —desde 1939 hasta el presente— basado en el modelo de las cuatro estaciones, en los Arquetipos (Profeta, Nómada, Héroe y Artista) y los Estados de Ánimo (Alto , Despertar, Desentrañar y Crisis y Oportunidad).
 
 
 
-Temporada | Arquetipos | Estado de ánimo | Años | Eventos significativos  
+Temporada | Arquetipos | Estado de ánimo | Años | Eventos significativos
 --- | --- | --- | --- | ---
 1\. Primavera | Profeta (Idealista) | Cumbre | 1939-1960 | Se forman los «setenta»; fundación de la <br>Fundación y la Hermandad; primera<br>impresión del libro
 2\. Verano | Nómada (Reactivo) | Despertar | 1961-1980 | Crecimiento de grupos de estudio y sociedades;<br>restricciones en nombre, símbolo, promoción,<br>y cotización
@@ -78,7 +78,7 @@ Strauss y Howe describen esta generación como una época en la que,
 
 > «las instituciones son fuertes» y el grupo «confía en dónde quiere ir», aunque aquellos «fuera del centro mayoritario a menudo se sienten sofocados por la conformidad».
 
-Esto parece una idea apropiada, ya que la característica definitoria de este período en el movimiento Urantia fue de hecho la formación de instituciones Urantia. Si Egipto se hubiera apegado al concepto de un solo Dios, podría haber sido el lugar del séptimo otorgamiento de Miguel. Sin duda, se consideró a otras personas para su papel además de los Sadler. Es el propósito divino en los ciclos históricos lo que es esencial, no los lugares o las personas.   
+Esto parece una idea apropiada, ya que la característica definitoria de este período en el movimiento Urantia fue de hecho la formación de instituciones Urantia. Si Egipto se hubiera apegado al concepto de un solo Dios, podría haber sido el lugar del séptimo otorgamiento de Miguel. Sin duda, se consideró a otras personas para su papel además de los Sadler. Es el propósito divino en los ciclos históricos lo que es esencial, no los lugares o las personas. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004216.jpg">
@@ -182,7 +182,7 @@ Strauss y Howe observan esta cuarta temporada de esta manera:
 
 > **«Las generaciones de artistas** nacen después de un desmoronamiento y durante una crisis, un momento en que grandes peligros reducen la complejidad social y política a favor del consenso público, las instituciones agresivas y una ética de sacrificio personal».
 >
-> «Esta es una era en la que la vida institucional se destruye y reconstruye en respuesta a una amenaza percibida para la supervivencia de la nación. La autoridad cívica revive, la expresión cultural se redirige hacia el propósito de la comunidad y las personas comienzan a ubicarse como miembros de un grupo más grande».  
+> «Esta es una era en la que la vida institucional se destruye y reconstruye en respuesta a una amenaza percibida para la supervivencia de la nación. La autoridad cívica revive, la expresión cultural se redirige hacia el propósito de la comunidad y las personas comienzan a ubicarse como miembros de un grupo más grande».
 
 Los mejores esfuerzos de _The Urantia Book_ Fellowship y la organización fraternal de la Fundación, Urantia Association International, para cooperar en proyectos de construcción del reino es un ejemplo notable de carpe diem: aprovechar el día de la oportunidad en tiempos críticos. Hay una gran diferencia entre las acciones de varios grupos armonizados que trabajan juntos y el espectro de la división sectaria. El hecho de que dos grupos sean distintos no significa que estén divididos o que deban permanecer al margen. La Fraternidad y la AUI pueden multiplicar sus esfuerzos, incluso cuatro veces, a través de la cooperación, como la interacción de dos socios, dos países, un hombre y una mujer, o dos árboles frutales que se polinizan entre sí. Esta es la unidad.
 
@@ -206,7 +206,7 @@ La generación Baby Boomer ha tomado su turno, y su liderazgo ha estado dominado
 
 > La educación ha pasado recientemente del control del clero al de los juristas y los hombres de negocios. Con el tiempo deberá ser confiada a los filósofos y a los científicos. Los educadores deben ser unos seres libres, unos auténticos dirigentes, para que la filosofía, la búsqueda de la sabiduría, pueda convertirse en el objetivo principal de la educación. <a id="a206_362"></a>[[LU 71:7.4](/es/The_Urantia_Book/71#p7_4)]
 
-La calidad de nuestros esfuerzos durante los próximos diez años será decisiva en la preparación de una nueva primavera de vida y crecimiento. Habrá avivamiento, pero lo único de lo que estoy seguro es que vendrá de maneras inesperadas pero altamente efectivas. Jesús dijo: «Oyes el sonido del viento, pero no sabes de dónde viene ni adónde va».  
+La calidad de nuestros esfuerzos durante los próximos diez años será decisiva en la preparación de una nueva primavera de vida y crecimiento. Habrá avivamiento, pero lo único de lo que estoy seguro es que vendrá de maneras inesperadas pero altamente efectivas. Jesús dijo: «Oyes el sonido del viento, pero no sabes de dónde viene ni adónde va».
 
 ## Ver, observar correctamente
 
@@ -236,7 +236,7 @@ Mi predicción es que en la Primavera de creación de instituciones que comienza
 
 Debemos armarnos de valor, hermanos y hermanas. Para que lo anterior sea una realidad, será necesario reclutar filósofos, científicos, ministros, maestros de escuela, médicos, enfermeras, trabajadores de servicios sociales, horticultores, ejecutivos de medios, artistas, evangelistas, administradores escolares, trabajadores de la hospitalidad, webmasters, especialistas en información, empresarios, y filántropos. Muchos están ahí fuera en nuestra cultura. Cientos y miles de ellos deben convertirse a la causa divina. No hay otra manera. Llámalo profecía o desafío, como quieras.
 
-Podría ser un momento muy gratificante e incluso emocionante. Este, creo, es nuestro próximo movimiento.   
+Podría ser un momento muy gratificante e incluso emocionante. Este, creo, es nuestro próximo movimiento. 
 
 > Joshua J. Wilson es pianista, compositor, consejero pastoral y ensayista que escribe sobre temas históricos y científicos armonizando la ciencia, la filosofía y la espiritualidad. Tiene una licenciatura en Administración de Empresas y Sistemas de Información de Decisiones, con especialización en Comportamiento Humano en las Organizaciones, y certificados en Gestión de Organizaciones sin Fines de Lucro e Instrucción para Padres Activos. Los pasatiempos incluyen acampar y hacer caminatas.
 {.is-info}

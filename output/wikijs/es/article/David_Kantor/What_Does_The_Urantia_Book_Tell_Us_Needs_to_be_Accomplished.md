@@ -100,7 +100,7 @@ Debido a que la Comunidad se dedica principalmente a las tareas del Grupo dos, n
 
 Es instructivo revisar los comentarios hechos por Jesús en sus apariciones posteriores a la resurrección. El énfasis siempre estuvo en la proclamación del reino. Si repasamos sus apariciones posteriores a la resurrección y extraemos los verbos de acción de sus comentarios, terminamos con esta lista:
 
-|  
+|
 --- | ---
 Proclamar | Confirmar
 Ministrar | Fortalecer
@@ -112,7 +112,7 @@ Dar | Publicar las buenas nuevas
 Ir | Confiar en tus hermanos
 Avanzar valientemente | Salir con alegría
 Conocer nuevas experiencias | Revelar
-Abrir los ojos cegados por la tradición |  
+Abrir los ojos cegados por la tradición |
 Acercar | Dirigir
 Servir | Proclamar
 Amar | Ir
@@ -121,7 +121,7 @@ Servir | Perdonar
 Seguirme | Servirme
 Ir | Proclamar
 Predicar el amor de Dios y el servicio del hombre | &nbsp; 
-Llevar esta buena nueva a todo el mundo | &nbsp;  
+Llevar esta buena nueva a todo el mundo | &nbsp;
 
 _¿Podría ser más clara la principal esperanza y preocupación de los reveladores?_ Debería ser obvio por lo anterior que los autores de _El Libro de Urantia_ otorgan un valor muy alto a la difusión de la religión de Jesús en nuestro mundo lo más rápido posible. Una y otra vez se nos indica que esta es una prioridad crítica. También debe notarse que esta exhortación fue el tema principal de casi todas las apariciones posteriores a la resurrección del Maestro.
 

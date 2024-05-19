@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Chris-Wood-framed-150x150.jpg">
 </figure>
 
-El verano pasado, la Lone Star Urantia Association tuvo la tarea de organizar la primera conferencia conjunta entre la Asociación Urantia de los Estados Unidos y la Fellowship. Fue un reto de proporciones desconocidas, sencillamente porque nunca lo habíamos intentado antes. Pero estaban preparados y crearon un maravilloso acontecimiento que propulsará a nuestra comunidad durante los próximos años.
+El verano pasado, la Lone Star Urantia Association tuvo la tarea de organizar la primera conferencia conjunta entre la Asociación Urantia de los Estados Unidos y la Fellowship. Fue un reto de proporciones desconocidas, sencillamente porque nunca lo habíamos intentado antes. Pero estaban preparados y crearon un maravilloso acontecimiento que propulsará a nuestra comunidad durante los próximos años.
 
 Una de las cuestiones desafiantes era simplemente qué hacer con los fondos sobrantes de las conferencias. Tradicionalmente, dentro de la Asociación, el grupo organizador decidía cómo se distribuían estos fondos, pero debido a la naturaleza única de esta conferencia se adoptó un nuevo marco de referencia: en lugar de repartir los excedentes entre la Fellowship y la Asociación, todos los fondos sobrantes de esta conferencia de Norteamérica se enviarían a las conferencias internacionales de Europa y América Latina.
 
@@ -29,7 +29,7 @@ En octubre, Bogotá celebró la primera Conferencia Latinoamericana conjunta, qu
 
 Una conferencia en los Estados Unidos ha dado fondos para tres conferencias más en tres continentes diferentes. ¿Estamos contemplando un futuro modelo de financiar conferencias?
 
-Nada de esto habría sido posible si la LSUA, la UAUS y la Fellowship no se hubieran puesto de acuerdo y no se hubieran prestado a entregar los fondos sobrantes a conferencias internacionales. Esto dio un ejemplo de cómo podemos reunir a estudiantes de un país y mostró cómo podemos hacer que nuestro mundo esté un poco menos aislado de lo que estaba hace un año.
+Nada de esto habría sido posible si la LSUA, la UAUS y la Fellowship no se hubieran puesto de acuerdo y no se hubieran prestado a entregar los fondos sobrantes a conferencias internacionales. Esto dio un ejemplo de cómo podemos reunir a estudiantes de un país y mostró cómo podemos hacer que nuestro mundo esté un poco menos aislado de lo que estaba hace un año.
 
 En servicio.
 

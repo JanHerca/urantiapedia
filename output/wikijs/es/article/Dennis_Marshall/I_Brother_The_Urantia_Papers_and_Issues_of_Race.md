@@ -51,11 +51,11 @@ los inteligentes a los menos,
 los Atractivos a los que no.
 Hombres a Mujeres, los poderosos a los impotentes
 
-Podría seguir, pero creo que entiendes la idea, el prejuicio y su disfunción social no es difícil de encontrar.   
+Podría seguir, pero creo que entiendes la idea, el prejuicio y su disfunción social no es difícil de encontrar. 
 
 ## Puntos de vista contemporáneos no urantianos de las razas
 
-El prejuicio, por supuesto, a menudo está respaldado por ideas de que la superioridad o inferioridad racial está establecida por «hechos», pero cuando observa la investigación y la literatura, descubre que los estudios generalmente giran en torno al antiguo debate de si la crianza o la naturaleza es la base del carácter individual y/o racial/cultural. Sorprendentemente, ambas partes creen que el argumento se ha decidido a su favor. Debido a que los avances en genómica no han logrado proporcionar pruebas definitivas, todavía hay pocos datos científicos sobre las diferencias en las razas, por lo que las personas con demasiada frecuencia deciden de antemano qué verdad prefieren y seleccionan estudios o apócrifos que respaldan esa opinión.   
+El prejuicio, por supuesto, a menudo está respaldado por ideas de que la superioridad o inferioridad racial está establecida por «hechos», pero cuando observa la investigación y la literatura, descubre que los estudios generalmente giran en torno al antiguo debate de si la crianza o la naturaleza es la base del carácter individual y/o racial/cultural. Sorprendentemente, ambas partes creen que el argumento se ha decidido a su favor. Debido a que los avances en genómica no han logrado proporcionar pruebas definitivas, todavía hay pocos datos científicos sobre las diferencias en las razas, por lo que las personas con demasiada frecuencia deciden de antemano qué verdad prefieren y seleccionan estudios o apócrifos que respaldan esa opinión. 
 
 ## Visión urantiana de la raza
 
@@ -77,7 +77,7 @@ Para ilustrar un punto, asumí seis razas hipotéticas, relativamente homogénea
 <img src="/image/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race/image01.png">
 </figure>
 
-He colocado una línea de trazos cortos en el medio de cada raza para indicar su promedio (media) y usé esta medida para estipular que la RAZA 2 era la raza musicalmente superior porque tenía el promedio musical más alto. Además, se ha colocado una línea de trazos largos para indicar mi habilidad en relación con todas las razas. Se puede ver que, sin importar a qué raza pertenezco personalmente, el gráfico muestra que habrá personas con talento musical tanto mayor como menor que el mío. Otras observaciones incluyen:  
+He colocado una línea de trazos cortos en el medio de cada raza para indicar su promedio (media) y usé esta medida para estipular que la RAZA 2 era la raza musicalmente superior porque tenía el promedio musical más alto. Además, se ha colocado una línea de trazos largos para indicar mi habilidad en relación con todas las razas. Se puede ver que, sin importar a qué raza pertenezco personalmente, el gráfico muestra que habrá personas con talento musical tanto mayor como menor que el mío. Otras observaciones incluyen:
 - La RAZA 3 y RAZA 5 tienen personas superiores a cualquiera en la RAZA 2 superior.
 - La RAZA 5 tiene los individuos más superiores y más inferiores de todas las razas.
 - La más inferior de la RAZA 2 es casi la media de la RAZA 1.
@@ -90,7 +90,7 @@ Para repetir, cualquier intento de trazar paralelos a partir de dicho gráfico d
 
 A la luz de lo anterior, invocar a su raza para establecer su superioridad individual, o la inferioridad de otro, parece esencialmente poco informativo. Por lo tanto, se podría enunciar un principio rector para los individuos respecto a la relación entre razas superiores e inferiores:
 
-NINGUN INDIVIDUO puede ser considerado SUPERIOR o INFERIOR basado únicamente en Raza  
+NINGUN INDIVIDUO puede ser considerado SUPERIOR o INFERIOR basado únicamente en Raza
 
 ## ¿Es racista El Libro de Urantia?
 
@@ -127,7 +127,7 @@ Entonces, ¿qué pasa con la aparente injusticia de nacer en una raza secundaria
 
 > En todo esto se muestra la sabiduría de los Creadores. Igual de fácil sería para el Padre Universal hacer de todos los mortales seres perfectos, impartir perfección por su divina palabra. Pero eso los privaría de la maravillosa experiencia de la aventura y el entrenamiento asociado con el largo y gradual ascenso hacia adentro, una experiencia que solo pueden tener aquellos que son tan afortunados de comenzar en el fondo mismo de la existencia viviente. <a id="a127_459"></a>[[LU 32:3.11](/es/The_Urantia_Book/32#p3_11)]
 
-> Dennis Marshall descubrió _El Libro de Urantia_ en Nueva Orleans en 1971. Ahora está jubilado después de treinta años enseñando Tecnología de Ingeniería Arquitectónica en la Universidad de Indiana/Universidad de Purdue en Fort Wayne, Indiana. Actualmente se desempeña como presidente del grupo de estudio iniciado por Meredith Sprunger.  
+> Dennis Marshall descubrió _El Libro de Urantia_ en Nueva Orleans en 1971. Ahora está jubilado después de treinta años enseñando Tecnología de Ingeniería Arquitectónica en la Universidad de Indiana/Universidad de Purdue en Fort Wayne, Indiana. Actualmente se desempeña como presidente del grupo de estudio iniciado por Meredith Sprunger.
 {.is-info}
 
 ## Referencias

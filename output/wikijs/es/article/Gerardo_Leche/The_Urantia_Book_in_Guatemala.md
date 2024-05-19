@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Gerardo Leche (Guatemala)_
 
-El libro de Urantia llegó a Guatemala a principios de la década de los 90.  Luis Martínez y Gonzalo Caceros iniciaron las primeras presentaciones individuales. También comenzaron un grupo de estudio.
+El libro de Urantia llegó a Guatemala a principios de la década de los 90.  Luis Martínez y Gonzalo Caceros iniciaron las primeras presentaciones individuales. También comenzaron un grupo de estudio.
 
 Mark Bloomfield, de Gran Bretaña, vino a Guatemala y viajó por todo el país colocando el libro en bibliotecas.
 
@@ -48,7 +48,7 @@ Recientemente se han desarrollado dos ferias internacionales de libros, con el a
 
 Hoy, muchos guatemaltecos están interesados en _El libro de Urantia_. Poco a poco, el libro habla por sí mismo y observamos que algunos sectores sociales están maduros para la recepción de los grandes contenidos de la Revelación Urantia.
 
-En el futuro, es probable que el libro sea mejor conocido y se acepte más ampliamente, pero debe transcurrir el tiempo.  Mientras tanto, «poseeremos nuestra alma con paciencia», sabiendo que el «el crecimiento excesivamente rápido es suicida», y que «se ha dado el libro a los que están preparados para él, mucho antes del día de su misión mundial».
+En el futuro, es probable que el libro sea mejor conocido y se acepte más ampliamente, pero debe transcurrir el tiempo.  Mientras tanto, «poseeremos nuestra alma con paciencia», sabiendo que el «el crecimiento excesivamente rápido es suicida», y que «se ha dado el libro a los que están preparados para él, mucho antes del día de su misión mundial».
 
 Paz dentro de ti.
 <br style="clear:both;"/>

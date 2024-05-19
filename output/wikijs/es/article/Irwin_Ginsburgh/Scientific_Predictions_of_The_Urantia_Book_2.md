@@ -131,7 +131,7 @@ Número que están Habitados | Nombre en _El Libro de Urantia_ | Nombre científ
 un mundo, el nuestro | Urantia | Tierra
 1.000 o menos | sistema | constelación visible
 100,000 | constelación | barrio local
-10 millones | universo local |  
+10 millones | universo local |
 1 mil millones | sector menor | Via Láctea
 100 mil millones | sector importante | cúmulo de galaxias
 1 billón | superuniverso | supercúmulo

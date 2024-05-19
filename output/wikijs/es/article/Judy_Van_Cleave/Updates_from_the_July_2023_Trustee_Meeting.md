@@ -66,9 +66,9 @@ En el segundo trimestre se imprimieron 3 000 libros ingleses de tapa dura y 2 00
 <img src="/image/article/UF_News_Online/2023_10/026.jpg">
 </figure>
 
-- El trimestre de abril de la Escuela Internacional de _El libro de Urantia_ (UBIS) terminó el 2 de julio. Se ofrecieron un total de 17 clases virtuales a 215 estudiantes matriculados. Los cursos en siete idiomas fueron impartidos por 20 profesores-facilitadores voluntarios. Además de los cursos virtuales regulares, la UBIS continuó con la nueva serie Spotlight (En el foco). Las ramas inglesa, francesa y española han ofrecido un total de 18 sesiones (6 cada una) y se reanudarán en octubre.
-- El Comité de Educación anunció planes para un Simposio de Matrimonio y Familia el viernes 14 y el sábado 15 de junio de 2024. El evento se celebrará en directo a través de Zoom Events, y las presentaciones correrán a cargo de un equipo de planificación. Bill y Share Beasley serán los presentadores. Para más información, póngase en contacto con [joanne@urantia.org](mailto:joanne@urantia.org).
-- Los miembros del comité del Directorio del Grupo de Estudio de Urantia han entrado con entusiasmo en una nueva etapa de limpieza de la base de datos. El proceso se ha automatizado y ha liberado al equipo del laborioso trabajo manual. Como siempre, el equipo expresó su agradecimiento a las tres organizaciones patrocinadoras: La Urantia Book Fellowship, representada por Jackie Koury; la Asociación Urantia Internacional, representada por Rick Lyon; y la Fundación Urantia, representada por Tamara Strumfeld. Bill Beasley preside el comité y Scott Brooks gestiona la página web.
+- El trimestre de abril de la Escuela Internacional de _El libro de Urantia_ (UBIS) terminó el 2 de julio. Se ofrecieron un total de 17 clases virtuales a 215 estudiantes matriculados. Los cursos en siete idiomas fueron impartidos por 20 profesores-facilitadores voluntarios. Además de los cursos virtuales regulares, la UBIS continuó con la nueva serie Spotlight (En el foco). Las ramas inglesa, francesa y española han ofrecido un total de 18 sesiones (6 cada una) y se reanudarán en octubre.
+- El Comité de Educación anunció planes para un Simposio de Matrimonio y Familia el viernes 14 y el sábado 15 de junio de 2024. El evento se celebrará en directo a través de Zoom Events, y las presentaciones correrán a cargo de un equipo de planificación. Bill y Share Beasley serán los presentadores. Para más información, póngase en contacto con [joanne@urantia.org](mailto:joanne@urantia.org).
+- Los miembros del comité del Directorio del Grupo de Estudio de Urantia han entrado con entusiasmo en una nueva etapa de limpieza de la base de datos. El proceso se ha automatizado y ha liberado al equipo del laborioso trabajo manual. Como siempre, el equipo expresó su agradecimiento a las tres organizaciones patrocinadoras: La Urantia Book Fellowship, representada por Jackie Koury; la Asociación Urantia Internacional, representada por Rick Lyon; y la Fundación Urantia, representada por Tamara Strumfeld. Bill Beasley preside el comité y Scott Brooks gestiona la página web.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_10/014.jpg">
@@ -76,12 +76,12 @@ En el segundo trimestre se imprimieron 3 000 libros ingleses de tapa dura y 2 00
 
 ## Recaudación de fondos y finanzas
 
-- Las donaciones no restringidas del segundo trimestre fueron un 47% inferiores a las del segundo trimestre de 2022 y un 48% inferiores a las presupuestadas.
-- Las donaciones restringidas se situaron un 55% por debajo del segundo trimestre de 2022, pero muy por encima del presupuesto.
-- Donaciones patrimoniales: las donaciones patrimoniales del segundo trimestre ascendieron a 176 000 $.
-- Los ingresos totales disminuyeron un 50% en comparación con el segundo trimestre de 2022, pero se situaron un 9% por encima del presupuesto previsto.
-- Los gastos administrativos disminuyeron un 3% en comparación con el segundo trimestre del año pasado y se situaron un 2% por debajo del presupuesto.
-- Los gastos totales disminuyeron un 2% respecto al segundo trimestre del año pasado y se situaron un 8% por debajo de lo presupuestado.
+- Las donaciones no restringidas del segundo trimestre fueron un 47% inferiores a las del segundo trimestre de 2022 y un 48% inferiores a las presupuestadas.
+- Las donaciones restringidas se situaron un 55% por debajo del segundo trimestre de 2022, pero muy por encima del presupuesto.
+- Donaciones patrimoniales: las donaciones patrimoniales del segundo trimestre ascendieron a 176 000 $.
+- Los ingresos totales disminuyeron un 50% en comparación con el segundo trimestre de 2022, pero se situaron un 9% por encima del presupuesto previsto.
+- Los gastos administrativos disminuyeron un 3% en comparación con el segundo trimestre del año pasado y se situaron un 2% por debajo del presupuesto.
+- Los gastos totales disminuyeron un 2% respecto al segundo trimestre del año pasado y se situaron un 8% por debajo de lo presupuestado.
 
 ## Programa de Subvenciones Semilla de Mostaza (MSGP)
 
@@ -93,11 +93,11 @@ La segunda y última ronda del Programa de Subvenciones Semilla de Mostaza (MSGP
 
 La Junta expresa su más sincero agradecimiento:
 
-- A la Jameson Foundation por su generosa financiación del MSGP.
-- A Sherry Cathcart Chavis por su destacado liderazgo.
-- A Geri Johnson, Share Beasley y Minoo Claire por su apoyo administrativo durante las reuniones mensuales. Un guiño especial a Minoo por el diseño del logotipo.
-- A Marie White y Tamara Strumfeld por supervisar los procesos en línea y los aspectos financieros de la segunda ronda.
-- Y a nuestros responsables de proyectos, que prestan un apoyo inquebrantable a los galardonados a medida que sus proyectos van tomando forma.
+- A la Jameson Foundation por su generosa financiación del MSGP.
+- A Sherry Cathcart Chavis por su destacado liderazgo.
+- A Geri Johnson, Share Beasley y Minoo Claire por su apoyo administrativo durante las reuniones mensuales. Un guiño especial a Minoo por el diseño del logotipo.
+- A Marie White y Tamara Strumfeld por supervisar los procesos en línea y los aspectos financieros de la segunda ronda.
+- Y a nuestros responsables de proyectos, que prestan un apoyo inquebrantable a los galardonados a medida que sus proyectos van tomando forma.
 
 ## Traducciones
 

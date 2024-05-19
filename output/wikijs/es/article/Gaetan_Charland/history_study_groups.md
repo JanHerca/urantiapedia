@@ -27,7 +27,7 @@ Los grupos de estudio no han ido creciendo muy bien. Creo que esto se debe en pa
 
 Lo siguiente es un extracto de un artículo publicado por la Fundación Urantia titulado «Los grupos de estudio en todo el mundo» en los años 70, cuando Thomas A. Kendall era el presidente.
 
-> _“Vean que nos dijeron que **«deben traerse a la existencia miles de grupos de estudio»**. ¿Cuántos tenemos ahora? Después de comprobarlo cuidadosamente, solo podemos considerar aproximadamente **250-300 grupos de estudio** en todo el mundo. Así que este es nuestro gran reto: construir pequeños grupos de estudio allí donde podamos y como podamos. «Donde tres o cuatro estén reunidos, allí estaré», dijo el Maestro. No podemos obligar nunca a los grupos de estudio, pero podemos fomentarlos y ayudar cuando exista el deseo de crear uno. Hay diez estados sin grupos de estudio. ¡Ahí está nuestro reto!”_
+> _“Vean que nos dijeron que **«deben traerse a la existencia miles de grupos de estudio»**. ¿Cuántos tenemos ahora? Después de comprobarlo cuidadosamente, solo podemos considerar aproximadamente **250-300 grupos de estudio** en todo el mundo. Así que este es nuestro gran reto: construir pequeños grupos de estudio allí donde podamos y como podamos. «Donde tres o cuatro estén reunidos, allí estaré», dijo el Maestro. No podemos obligar nunca a los grupos de estudio, pero podemos fomentarlos y ayudar cuando exista el deseo de crear uno. Hay diez estados sin grupos de estudio. ¡Ahí está nuestro reto!”_
 
 Hoy, muchas décadas después, según el último censo de grupos de estudio de todo el mundo, no hay más de 500 grupos y no todos se reúnen regularmente o están creciendo mucho.
 
@@ -40,7 +40,7 @@ _De Julia Fenderson_
 
 Hagamos una pausa por un momento e intentemos ponernos en el lugar de un «visitante invisible» a nuestro pequeño grupo de estudio para considerar de manera objetiva algunas de las importantes razones por las que nos reunimos para estudiar juntos. Nuestro «amigo invisible» conocería algunos de los problemas y algunos de los valores que nos llegan porque trabajamos y estudiamos juntos en grupo.
 
-Nos damos cuenta de que más de un «amigo invisible» **podría** estar aquí con nosotros. Los visitantes estudiantes podrían estar aquí, o es muy posible que un intermedio o un miembro del numeroso grupo de serafines, querubines y sanobines residentes en nuestro planeta se dejara caer por aquí. Por ejemplo, un arquitecto social trabaja para realzar todos los contactos sociales sinceros. ¿No es bueno saber que todos estamos en un universo amistoso en el que los ángeles del cielo trabajan para ayudarnos? Si por casualidad alguno de ellos estuviera aquí, ¿qué verían? Ref. Páginas <a id="a65_507"></a>[LU 113:0.1](/es/The_Urantia_Book/113#p0_1), <a id="a65_552"></a>[LU 114:6.2](/es/The_Urantia_Book/114#p6_2), <a id="a65_597"></a>[LU 39:2.5](/es/The_Urantia_Book/39#p2_5), <a id="a65_640"></a>[LU 39:2.18](/es/The_Urantia_Book/39#p2_18), <a id="a65_685"></a>[LU 39:5.8](/es/The_Urantia_Book/39#p5_8)
+Nos damos cuenta de que más de un «amigo invisible» **podría** estar aquí con nosotros. Los visitantes estudiantes podrían estar aquí, o es muy posible que un intermedio o un miembro del numeroso grupo de serafines, querubines y sanobines residentes en nuestro planeta se dejara caer por aquí. Por ejemplo, un arquitecto social trabaja para realzar todos los contactos sociales sinceros. ¿No es bueno saber que todos estamos en un universo amistoso en el que los ángeles del cielo trabajan para ayudarnos? Si por casualidad alguno de ellos estuviera aquí, ¿qué verían? Ref. Páginas <a id="a65_507"></a>[LU 113:0.1](/es/The_Urantia_Book/113#p0_1), <a id="a65_552"></a>[LU 114:6.2](/es/The_Urantia_Book/114#p6_2), <a id="a65_597"></a>[LU 39:2.5](/es/The_Urantia_Book/39#p2_5), <a id="a65_640"></a>[LU 39:2.18](/es/The_Urantia_Book/39#p2_18), <a id="a65_685"></a>[LU 39:5.8](/es/The_Urantia_Book/39#p5_8)
 
 Verían un grupo extremadamente variado y heterogéneo de mortales sinceros, mortales situados muy abajo, en el último peldaño de la larga escalera que deben escalar los seres de origen animal, evolutivo y terrenal, paso a paso, hasta llegar al comienzo del camino hacia dentro, hacia Havona. Seguro que ninguno de nosotros tiene el mismo entorno u ocupación. Nuestros intereses y aficiones varían tanto que es dudoso que hubiéramos llegado a conocernos de no ser por el libro azul. Pero tenemos el más fuerte de los vínculos que nos unen: somos compañeros en la búsqueda de la VERDAD. Nuestro común y profundo interés en el libro azul así lo atestigua.
 
@@ -68,12 +68,12 @@ Vemos que no podemos buscar a Dios y vivir y trabajar **solos**. Jesús nos amon
 
 No es mi intención reproducir este artículo en su totalidad, sino cosechar la sabiduría expresada por lectores que estuvieron más cerca que nosotros de los comienzos del movimiento. En nuestra búsqueda de significados y valores acerca del propósito de nuestra misión, la historia de nuestro pasado nos puede dar a veces una visión aumentada e iluminadora del foco que deberíamos colocar en los grupos de estudio.
 
-Estos artículos históricos están almacenados en nuestro sitio web, en el material de grupos de estudio que se encuentra en  [https://urantia-association.org/hosting-study-groups/historical-study-group-material](https://urantia-association.org/hosting-study-groups/historical-study-group-material)
+Estos artículos históricos están almacenados en nuestro sitio web, en el material de grupos de estudio que se encuentra en  [https://urantia-association.org/hosting-study-groups/historical-study-group-material](https://urantia-association.org/hosting-study-groups/historical-study-group-material)
 
 Ojalá comiencen un grupo de estudio o formen parte de alguno, de modo que nuestra misión pueda progresar bien en el futuro, un futuro que no podemos ver pero que todos esperamos.
 
-Gaétan G. Charland  
-Presidente del Comité de Grupos de Estudio  
+Gaétan G. Charland
+Presidente del Comité de Grupos de Estudio
 Asociación Urantia Internacional
 
 ## Referencias

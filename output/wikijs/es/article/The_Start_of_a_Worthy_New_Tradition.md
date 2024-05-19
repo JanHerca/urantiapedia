@@ -34,11 +34,11 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-_La Sociedad Urantia del norte de Texas informa sobre la celebración de las primeras donaciones_  
+_La Sociedad Urantia del norte de Texas informa sobre la celebración de las primeras donaciones_
 
 Aproximadamente en el momento de la celebración de la Navidad en 2006, los crecientes arrepentimientos sobre la forma en que celebramos la Navidad surgieron nuevamente. Cada año, parece haber más quejas sobre lo comercial que se ha vuelto. Después de la Navidad de 2006, hubo un impulso decidido para buscar una manera de elevarlo a algo conscientemente más significativo. El nacimiento del niño Jesús marca el comienzo del séptimo y último otorgamiento de Miguel. Tuvo lugar en nuestro mundo, y ahora entendemos qué privilegio fue. Llegamos al reconocimiento solemne de que le debemos al universo diseñar una celebración adecuada que puedan disfrutar con nosotros.
 
-Primero, se discutió la idea, luego vino el reconocimiento de que estábamos de acuerdo sobre el deseo de esta celebración y, finalmente, las muchas reuniones donde la idea floreció en una planificación dedicada. No podíamos disuadir a la gente de nuestra tradición navideña, porque tiene muchos beneficios espirituales. ¿Y qué podría el mundo entero, personas de todas las religiones, encontrar algún día en sus corazones para celebrar juntos?  
+Primero, se discutió la idea, luego vino el reconocimiento de que estábamos de acuerdo sobre el deseo de esta celebración y, finalmente, las muchas reuniones donde la idea floreció en una planificación dedicada. No podíamos disuadir a la gente de nuestra tradición navideña, porque tiene muchos beneficios espirituales. ¿Y qué podría el mundo entero, personas de todas las religiones, encontrar algún día en sus corazones para celebrar juntos?
 
 Decidimos celebrar los siete otorgamientos de Miguel y alentamos a todos a analizar seriamente cada otorgamiento para obtener una comprensión más profunda de lo que significó para el universo. Pensamos que un simbolismo significativo sería importante y beneficioso. El arcoíris sería un buen símbolo, una maravilla natural, ya incorporada a la creencia espiritual. Se extiende por el cielo y tiene siete colores. Desde el principio, nos apegamos a la idea del arcoíris y pronto reconocimos la asociación beneficiosa de cada color con cada uno de los dones. Y mantuvimos los ojos abiertos para otros «sietes» entretejidos en nuestra cultura y los discutimos a medida que surgían.
 
@@ -75,14 +75,14 @@ Con esta significativa experiencia de celebración de las dádivas ahora registr
 
 Otorgamiento | Cualidades retratadas | Ser
 --- | --- | ---
-1 | Sabiduría incomparable <br>Amor supremo <br>Excelente devoción al deber | amoroso y sabio  
+1 | Sabiduría incomparable <br>Amor supremo <br>Excelente devoción al deber | amoroso y sabio
 2 | Administrador justo y misericordioso | justo y misericordioso
-3 | Paciencia, fortaleza y habilidad en situaciones difíciles | Paciente y valiente  
+3 | Paciencia, fortaleza y habilidad en situaciones difíciles | Paciente y valiente
 4 | Humildad y servicio | humilde y ayudando
-5 | Digno de la confianza de los superiores y del respeto de los compañeros | Confiable y confiable  
+5 | Digno de la confianza de los superiores y del respeto de los compañeros | Confiable y confiable
 6 | Un ayudante amable y comprensivo | Amable y comprensivo
 7 | Arriesgando todo lo que es y tiene | Dar y de todo corazón
-Todos | Nuestra relación con el Supremo | Como Dios  
+Todos | Nuestra relación con el Supremo | Como Dios
 
 ## Referencias
 

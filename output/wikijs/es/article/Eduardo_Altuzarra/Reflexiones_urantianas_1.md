@@ -46,7 +46,7 @@ Esa señal puede aparecer en cualquier momento, en el devenir de cualquier suces
 
 Cuando esto sucede, más allá del cerebro, en la mente del ser humano, en el corazón de dicho ser (a donde llegan los «mensajes» del más allá) llegan las ideas en busca de pensamientos conscientes y coherentes que apuntan hacia direcciones de búsqueda de la verdad en los niveles superconscientes. Una verdad acompañada de belleza y de bondad que impulsa al ser humano a encontrar los hechos, los significados y los valores de la vida real.
 
-> La mente que se abre ante una nueva idea jamás volverá a su tamaño original.  
+> La mente que se abre ante una nueva idea jamás volverá a su tamaño original.
 > Albert Einstein
 
 Después de una profunda reflexión, en el ejercicio de nuestra voluntad, podemos iniciar la búsqueda del «tesoro» en algo que posiblemente lleve guardado en el inconsciente desde nuestra niñez. Debemos hacerlo sobre el plano cósmico o croquis universal, teniendo muy en cuenta que los pasos que guían el camino son lentos y en ocasiones irresolutos. Nada ni nadie debe intimidar nuestros deseos de búsqueda. La total confianza y seguridad en esa **señal** que ha sido escuchada y afianzada en nuestra alma debe guiarnos con total seguridad para el desarrollo de esa aventura eterna. La **señal** no confunde, guía nuestra voluntad.
@@ -61,7 +61,7 @@ Encontrar el momento es cosa que cada uno de nosotros debe realizar con la total
 
 Una decisión firme, una voluntad expresa, establece en nosotros el momento idóneo, el inicio de algo en lo que no se contempla una marcha atrás.
 
-> Tu empuja, que YO moveré la piedra.  
+> Tu empuja, que YO moveré la piedra.
 > Anónimo
 
 Tenemos que ser muy sinceros con nosotros mismos a sabiendas de que nos iniciamos desde la pancarta de salida para tomar impulso en una trayectoria de nuevos acontecimientos. No debemos correr mucho, debemos dosificarnos, como en una carrera de fondo. El tiempo es importante pero no determinante, sabemos que el trayecto es largo, pero debemos tener en cuenta que nuestra voluntad es pétrea y no nos va a permitir desfallecer. Hay que habituarse a las nuevas experiencias, ellas nos harán crecer. ¡Empapémonos de ellas! Vamos a percibir que, en la medida que vamos avanzando, todo resulta más comprensible, más sencillo de entender.
@@ -76,7 +76,7 @@ De continuar recorriendo ese trayecto en busca de lo más preciado, debemos esta
 
 Se puede decir que atreverse a iniciarse en esta aventura interminable es para reconocer con anterioridad que la mayoría de nosotros vivimos sumidos en el error.
 
-> Nadie puede despertar jamás, si antes no reconoce que está dormido.  
+> Nadie puede despertar jamás, si antes no reconoce que está dormido.
 > F. Gracia
 
 ## Referencias

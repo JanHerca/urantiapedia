@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Mark-B-2022-1-e1674520636764-150x150.jpg">
 </figure>
 
-Bienvenidos a la edición de mayo de 2023 del _Journal_ de la Asociación Urantia, una publicación dedicada a los pensamientos, observaciones y experiencias de estudiantes de _El libro de Urantia_ de todo el mundo. Nuestros colaboradores exploran una amplia gama de temas relacionados con la quinta revelación de época, y demuestran tanto una extraordinaria diversidad de pensamiento como una enérgica unidad de propósito. 
+Bienvenidos a la edición de mayo de 2023 del _Journal_ de la Asociación Urantia, una publicación dedicada a los pensamientos, observaciones y experiencias de estudiantes de _El libro de Urantia_ de todo el mundo. Nuestros colaboradores exploran una amplia gama de temas relacionados con la quinta revelación de época, y demuestran tanto una extraordinaria diversidad de pensamiento como una enérgica unidad de propósito. 
 
 Nuestro primer artículo tiene que ver con la fascinante interfaz entre ciencia y religión. «**Llegar a conocernos mejor: las bases neurofisiológicas del autocontrol**», de Helena Bañas, doctora en medicina, explora la naturaleza del cerebro y la consciencia en relación con las fuerzas espirituales que operan dentro de la mente. En particular, subraya cómo el poder de la personalidad, en conjunción con el espíritu interior, puede realmente cambiar la estructura física del cerebro, un proceso conocido como neuroplasticidad.
 

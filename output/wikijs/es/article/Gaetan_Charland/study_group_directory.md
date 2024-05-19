@@ -27,7 +27,7 @@ Como lectores dedicados a la misión que nos dieron los reveladores, les pido qu
 
 El Directorio de Grupos de Estudio es un trabajo en curso y se añadirán más características útiles a medida que avanzamos en nuestro trabajo organizativo en equipo. Es un gran comienzo para conectar nuestra aldea global de estudiantes activos de _El libro de Urantia_ y su participación asegura su éxito continuado.
 
-En espíritu de hermandad.  
+En espíritu de hermandad.
 Gaétan Charland
 <br style="clear:both;"/>
 

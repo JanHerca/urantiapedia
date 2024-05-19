@@ -35,7 +35,7 @@ Espero poder compartir con ustedes cosas preciosas para mí, pues, como se nos d
 
 > _El hombre que conoce a Dios describe sus experiencias espirituales… para la edificación y la satisfacción mutua de los creyentes.”_ <a id="a58_119"></a>[[LU 1:6.6](/es/The_Urantia_Book/1#p6_6)]
 
-En 1986 tuve un sueño. Estaba en la playa. El tiempo era muy bueno, no hacía viento, el sol brillaba suavemente. De repente, una ola gigante rompió en la orilla y me llevó con ella.  Me sentí desvalido, daba manotazos e intenté instintivamente agarrarme a algo. Era extraño, pero no tenía miedo.
+En 1986 tuve un sueño. Estaba en la playa. El tiempo era muy bueno, no hacía viento, el sol brillaba suavemente. De repente, una ola gigante rompió en la orilla y me llevó con ella.  Me sentí desvalido, daba manotazos e intenté instintivamente agarrarme a algo. Era extraño, pero no tenía miedo.
 
 Y entonces noté algo en la mano. Al momento siguiente estaba en la orilla y allí, en la mano, tenía un libro.
 
@@ -45,17 +45,17 @@ Volviendo la vista atrás, veo este sueño como un mensaje claro, una promesa. Y
 
 Entonces, ¿tenía en mi mente que debería estar eternamente agradecido? No exactamente. Por aquel entonces, y muy a menudo en los años siguientes, mi mente hizo poco por detenerme para dejar de buscar la causa correcta. Ofrecía explicaciones lógicas sin fisuras de la magia divina presentada en _El libro de Urantia_; explicaba la temeridad de alejarme de mi rutina diaria de ganarme la vida; abrazaba toda posibilidad de adherirme a teorías y nociones respetables, bien demostradas y ampliamente aceptadas. Hizo todo lo posible para asegurarme que ella, mi mente, era mi verdadera amiga, preparada y dispuesta a servirme con esas indispensables herramientas de lógica, escepticismo, hechos de la vida y los cinco sentidos, cuyos datos ella comunicaría e interpretaría para mí de manera fiel e inmediata.
 
-Aún así, algo—o _alguien_ —no fallaba nunca y me ofrecía diferentes explicaciones, diferentes contraargumentaciones a esos argumentos que me presentaba la mente.  Y lo que siempre me chocaba era el tono de ese alguien: era tan amable, la música de los mensajes era tan maravillosa, que toda la lógica, todos los hechos del contrario perdían su importancia.
+Aún así, algo—o _alguien_ —no fallaba nunca y me ofrecía diferentes explicaciones, diferentes contraargumentaciones a esos argumentos que me presentaba la mente.  Y lo que siempre me chocaba era el tono de ese alguien: era tan amable, la música de los mensajes era tan maravillosa, que toda la lógica, todos los hechos del contrario perdían su importancia.
 
 Así que seguí leyendo y seguí escuchando a ese alguien. Y empecé a aprender a _elegir_.
 
 Mi primera _elección_ fue darle una oportunidad. Leer _El libro de Urantia_, dejar que diera frutos en mi vida. Jamás lamenté esa elección.
 
-Desde entonces, algo nuevo apareció en mi mente. Ese algo era esperanza.  Antes había anhelado esperanza, pero nunca hubo esperanza real. Al contrario: mi comprensión del mundo solo podía llevar a abandonar toda esperanza, no a fomentarla.
+Desde entonces, algo nuevo apareció en mi mente. Ese algo era esperanza.  Antes había anhelado esperanza, pero nunca hubo esperanza real. Al contrario: mi comprensión del mundo solo podía llevar a abandonar toda esperanza, no a fomentarla.
 
 Esa nueva sensación era inspiradora y maravillosa. Cuanto más fuerte era mi esperanza, más débil era el miedo.
 
-Al llegar a cierto punto me detuve, tomé aire e intenté reflexionar sobre todo esto.  ¿Por qué estaba perdiendo fuerza el miedo siempre presente? ¿Por qué estaba preparado para intercambiar toda la lógica del mundo por el maravilloso sentimiento de esperanza? ¿Por qué era ya tan poderosa esa fe mía en aumento?
+Al llegar a cierto punto me detuve, tomé aire e intenté reflexionar sobre todo esto.  ¿Por qué estaba perdiendo fuerza el miedo siempre presente? ¿Por qué estaba preparado para intercambiar toda la lógica del mundo por el maravilloso sentimiento de esperanza? ¿Por qué era ya tan poderosa esa fe mía en aumento?
 
 Seguí leyendo, y seguí encontrando las respuestas.
 
@@ -85,7 +85,7 @@ Escriba no es un insulto. Si no fuera por los escribas, no habría proliferado e
 
 Ahora bien, lleguemos a los que usan estas escrituras, el producto final de los esfuerzos creativos de un escriba. Una vez más, con el fin de simplificar, asumimos que el siguiente tipo de mente no hace más que usar lo que otros han creado. En este caso, tratamos con un tipo que podría llamarse superficial.
 
-**Superficiales** son los que toman ideas y definiciones sin ofrecer nada a cambio. Todo lo que hacen es adquirir conocimiento. Tienen las herramientas y conocen los medios para adquirir datos. Difieren de los científicos de la misma manera que una flor viva difiere de una artificial: la imagen es parecida, pero la sustancia es completamente diferente.
+**Superficiales** son los que toman ideas y definiciones sin ofrecer nada a cambio. Todo lo que hacen es adquirir conocimiento. Tienen las herramientas y conocen los medios para adquirir datos. Difieren de los científicos de la misma manera que una flor viva difiere de una artificial: la imagen es parecida, pero la sustancia es completamente diferente.
 
 Es un tipo de mente muy extendido. Pero en el mundo de hoy, está superado en número por otro tipo, que yo llamaría el corta-pega.
 
@@ -105,7 +105,7 @@ Desde esta perspectiva lo que hacemos aquí, en la conferencia, es intentar mant
 
 Seguiré con mi historia personal sobre la fe y la mente.
 
-Al comienzo fue como una carrera de autos de choque. Supongo que se trataba de la distancia. Cuando dos personas intentan decirse algo se acercan, de modo que puedan oír mejor y no tener que gritar.  Así que pasó lo siguiente: mi fe recién nacida, mi precioso bebé, era alegre y feliz; tan alegre y tan feliz que durante un tiempo no la notó mi mente, que se quedó en la oscuridad, sola. La mente podía sentir la presencia de la luz, en alguna parte al final del túnel, pero la descripción de esa luz era demasiado vaga para dar una impresión. Y se trataba también del lenguaje: mi fe todavía no había dominado el lenguaje de comunicación con la mente. No había encontrado todavía las palabras adecuadas. Su pincel mágico no estaba allí todavía para pintar y retratar las maravillas de la gloria espiritual a todo color. Mi yo interrogante y ansioso estaba justo en medio, asaltado por súbitos relámpagos de fe por un lado y por otro de razonamiento de la mente con los pies en el suelo.
+Al comienzo fue como una carrera de autos de choque. Supongo que se trataba de la distancia. Cuando dos personas intentan decirse algo se acercan, de modo que puedan oír mejor y no tener que gritar.  Así que pasó lo siguiente: mi fe recién nacida, mi precioso bebé, era alegre y feliz; tan alegre y tan feliz que durante un tiempo no la notó mi mente, que se quedó en la oscuridad, sola. La mente podía sentir la presencia de la luz, en alguna parte al final del túnel, pero la descripción de esa luz era demasiado vaga para dar una impresión. Y se trataba también del lenguaje: mi fe todavía no había dominado el lenguaje de comunicación con la mente. No había encontrado todavía las palabras adecuadas. Su pincel mágico no estaba allí todavía para pintar y retratar las maravillas de la gloria espiritual a todo color. Mi yo interrogante y ansioso estaba justo en medio, asaltado por súbitos relámpagos de fe por un lado y por otro de razonamiento de la mente con los pies en el suelo.
 
 Aún así, había decidido que convertiría a la fe en la herramienta, de modo que mi mente comenzó a buscar instrucciones. Y llegaron. Un conjunto de instrucciones que estuvieron precedidas por este título:
 
@@ -113,8 +113,8 @@ Aún así, había decidido que convertiría a la fe en la herramienta, de modo q
 
 Aviso: antes de continuar, lea atentamente las instrucciones.
 
-1. Propósito de la herramienta: fomentar el vivir religioso.  
-2. Entorno operativo: la vida diaria.  
+1. Propósito de la herramienta: fomentar el vivir religioso.
+2. Entorno operativo: la vida diaria.
 3. Medidas de seguridad:
 
 - Manejar con cuidado: la fe es tanto poderosa como delicada. Cuando se abusa de ella, puede llevar a **_«convulsiones de fanatismo»_** <a id="a142_119"></a>[[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)]
@@ -135,7 +135,7 @@ Si tuviera que señalar solo una cualidad negativa que afectara a mi vida entera
 
 Qué hace exactamente el miedo con nuestra mente y nuestra personalidad? Un Consejero Divino nos avisa de que **desvirtuamos** nuestra mente con **_«… ansiedades inútiles.»_** <a id="a158_144"></a>[[LU 9:5.7](/es/The_Urantia_Book/9#p5_7)] Y la ansiedad es un subproducto del miedo. Un Mensajero Solitario afirma que el miedo **contamina** la fuente de la fe,**_«… la fuente de la fe contaminada por los venenos del miedo.»_** <a id="a158_361"></a>[[LU 111:7.5](/es/The_Urantia_Book/111#p7_5)] Los intermedios señalan sobre el miedo que **_«… impide eficazmente que las almas honradas… acepten la nueva luz del evangelio…»_** <a id="a158_516"></a>[[LU 159:4.9](/es/The_Urantia_Book/159#p4_9)] negrita añadida
 
-Entonces, ¿qué es el miedo? El miedo es lo opuesto al amor.  Amor y miedo se excluyen mutuamente. Estas dos sustancias no se mezclan. Donde hay miedo, no hay amor. Donde hay amor, no hay miedo. Es eternamente cierto que **«****_… el amor de Dios… expulsa todo temor.”_** <a id="a160_264"></a>[[LU 48:6.8](/es/The_Urantia_Book/48#p6_8)] Por eso a los Ajustadores **«****_… les gustaría cambiar…_** \[nuestros\]**_… sentimientos de temor en convicciones de amor…”_** <a id="a160_418"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
+Entonces, ¿qué es el miedo? El miedo es lo opuesto al amor.  Amor y miedo se excluyen mutuamente. Estas dos sustancias no se mezclan. Donde hay miedo, no hay amor. Donde hay amor, no hay miedo. Es eternamente cierto que **«****_… el amor de Dios… expulsa todo temor.”_** <a id="a160_264"></a>[[LU 48:6.8](/es/The_Urantia_Book/48#p6_8)] Por eso a los Ajustadores **«****_… les gustaría cambiar…_** \[nuestros\]**_… sentimientos de temor en convicciones de amor…”_** <a id="a160_418"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
 
 ¿Pero puede ser útil el miedo? Claro que sí. Para el cuerpo. Avisa, previene, nos hace pedir ayuda. Pero cuanto más comprendemos las palabras del Maestro de que **«no solo de pan vive el hombre****_.”_** <a id="a162_199"></a>[[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)] menos necesitamos el miedo. Y más necesitamos amor. Y más se convierte la fe en el puente sobre aguas turbulentas de nuestra mente.
 
@@ -147,7 +147,7 @@ Como con muchas otras cosas, hubo un punto de inflexión. Un punto de inflexión
 
 Ocurrió durante uno de esos debates rutinarios. «¿Qué vas a comer?»—gritaba mi mente, activada por el miedo. «¡No estás siendo responsable! ¡Tienes una familia! Deberías de dejar de escribir música, que casi no te da nada, y comenzar a hacer lo que hace todo el mundo: ganarse la vida.» Intentaba responder, pero mis respuestas eran débiles.
 
-De repente, mi hija entró en la habitación.  “Papá, ¿tocarás conmigo esta canción?»
+De repente, mi hija entró en la habitación.  “Papá, ¿tocarás conmigo esta canción?»
 
 «¿Cuál?», le pregunté.
 
@@ -175,7 +175,7 @@ El miedo es otro nombre para la cortedad de miras. Es una cautela que se sobrepa
 
 > _«Oh Señor, ¡líbrame de las cadenas del miedo! ¡No permitas que este veneno deforme mi mente! ¡Sustitúyelo por la paz de mente, la calma duradera del alma y el amor que todo lo abarca.»_
 
-Dios es amor. La ausencia de amor es miedo. Así que el miedo es ausencia de Dios. Y es irreal, porque no hay ningún lugar donde Dios no pueda estar. POR ESO SE LE LLAMA _FRAUDE_ INTELECTUAL.  El miedo es lo que es irreal, pero que tiende a negar y sustituir todo lo que es verdaderamente real.
+Dios es amor. La ausencia de amor es miedo. Así que el miedo es ausencia de Dios. Y es irreal, porque no hay ningún lugar donde Dios no pueda estar. POR ESO SE LE LLAMA _FRAUDE_ INTELECTUAL.  El miedo es lo que es irreal, pero que tiende a negar y sustituir todo lo que es verdaderamente real.
 
 No podemos matar el amor. Pero podemos impedirle que entre en nuestra mente.
 

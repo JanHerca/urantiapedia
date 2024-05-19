@@ -55,7 +55,7 @@ Estoy seguro de que podemos y debemos utilizar todos los medios a nuestro alcanc
 
 Creo que debemos utilizar todas las herramientas apropiadas, proporcionadas y razonables para llegar a los posibles lectores de _El libro de Urantia_ .
 
-Anton Miroshnichenko  
+Anton Miroshnichenko
 [anton.mnko@urantia.org.ua](mailto:anton.mnko@urantia.org.ua)
 
 ## Referencias

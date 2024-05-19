@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Line St-Pierre, fideicomisaria asociada (Quebec, Canadá) y Katharina Becker (Nuevo México, EEUU)_ 
 
-> _La unión de las almas — la movilización de la sabiduría._ Todo ser humano adquiere, tarde o temprano, cierto concepto de este mundo y cierta visión del siguiente. Ahora bien, es posible, mediante la asociación de las personalidades, unificar estos puntos de vista sobre la existencia temporal y las perspectivas eternas. Así, la mente de uno acrecienta sus valores espirituales adquiriendo una gran parte de la perspicacia del otro.  _~_ _Rodán de Alejandría_ <a id="a42_463"></a>[LU 160:2.7](/es/The_Urantia_Book/160#p2_7)
+> _La unión de las almas — la movilización de la sabiduría._ Todo ser humano adquiere, tarde o temprano, cierto concepto de este mundo y cierta visión del siguiente. Ahora bien, es posible, mediante la asociación de las personalidades, unificar estos puntos de vista sobre la existencia temporal y las perspectivas eternas. Así, la mente de uno acrecienta sus valores espirituales adquiriendo una gran parte de la perspicacia del otro.  _~_ _Rodán de Alejandría_ <a id="a42_463"></a>[LU 160:2.7](/es/The_Urantia_Book/160#p2_7)
 
 Asistir al Parlamento de las Religiones del Mundo el pasado mes de octubre en Salt Lake City (Utah, EEUU) fue un sueño hecho realidad, especialmente porque el primer día estuvo dedicado a las mujeres y a su importancia y participación en la época actual. Las componentes de una mesa redonda de quince mujeres eran presentadoras de muchas religiones además de madres, abuelas, hijas y hermanas, que compartían sus experiencias, su conocimiento, su pasión y su visión sobre cómo hacer de este mundo un lugar mejor.
 

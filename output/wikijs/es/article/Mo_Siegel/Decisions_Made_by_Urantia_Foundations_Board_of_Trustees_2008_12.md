@@ -58,13 +58,13 @@ La Junta modificó y ratificó el presupuesto de 2009, in­cluyendo la aprobaci�
 
 ## La Escuela en Internet de _El libro de Urantia_ (UBIS)
 
-La Junta revisó las necesi­dades de la UBIS expresadas por Dorothy Elder y Jay Pere­grine. La Junta manifestó su compromiso con el trabajo de la UBIS.  
-  
+La Junta revisó las necesi­dades de la UBIS expresadas por Dorothy Elder y Jay Pere­grine. La Junta manifestó su compromiso con el trabajo de la UBIS.
+
 A Marilynn Kulieke, directora de las Noticias en Línea de la Fun­dación Urantia, se le pidió que buscara maneras de dar a conocer las necesidades y las actividades de la UBIS. La Junta hizo sugerencias para las revistas, como reportajes sobre historias de la UBIS, anuncios de clases y maestros, y recau­dación de fondos que in­cluyeran un método PayPal para hacer contribuciones. Jay expresó su compromiso actual de mantener la estructura más asequible posible para la web de la UBIS.
 
 ## Informe sobre el Comité de Referencia Estándar
 
-Seppo Kanerva, presidente del Comité de Texto de Referencia Estándar, distribuyó el borrador del informe del comité.   aprobar una resolución en la reunión de enero de 2009 de la Junta. El comité dedicó el in­forme a Seppo, en recono­cimiento a su contribución ina­gotable, su liderazgo, su dominio erudito de la lengua inglesa y su conocimiento de _El libro de Urantia_, que ayudó a obtener los hallazgos del in­forme.  
+Seppo Kanerva, presidente del Comité de Texto de Referencia Estándar, distribuyó el borrador del informe del comité.   aprobar una resolución en la reunión de enero de 2009 de la Junta. El comité dedicó el in­forme a Seppo, en recono­cimiento a su contribución ina­gotable, su liderazgo, su dominio erudito de la lengua inglesa y su conocimiento de _El libro de Urantia_, que ayudó a obtener los hallazgos del in­forme.
 
 El propósito de este comité era el de revisar los cambios que se habían hecho al texto de _El libro de Urantia_ desde que fue publicado por primera vez en 1955, y recomendar una ver­sión inglesa «definitiva». Desde 1955 se han corregido errores de ortografía y puntuación, y se han hecho otros cambios al texto publicado por la Fun­dación. Ahora que la edición inglesa de _El libro de Urantia_ no está protegida por el copyright y hay más de un editor, la Junta citó a este comité para crear un Texto de Referencia Estándar, que fuera utilizado para impre­siones futuras. Los miembros del comité son: Merritt Horn, Marvin Gawryn, Nancy Jonson, Seppo Kanerva, Marilynn Ku­lieke y Jay Peregrine.
 

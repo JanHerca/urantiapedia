@@ -81,7 +81,7 @@ He aquí una mirada de alto nivel a los objetivos prioritarios a cinco años:
 
 - **Libros**: aumentar las ventas y la distribución del libro en todo el mundo un 7% cada año.
 - **Recaudación de fondos**: aumentar los fondos del Puente de la Revelación, el fondo Hales y el de Impresión Perpetua hasta 12.000.000 de dólares.
-- **Iniciativa mundial**: fomentar una Fundación Urantia más diversa y sensible culturalmente que impactará en la forma en que diseminemos el libro y sus enseñanzas a nivel mundial. 
+- **Iniciativa mundial**: fomentar una Fundación Urantia más diversa y sensible culturalmente que impactará en la forma en que diseminemos el libro y sus enseñanzas a nivel mundial. 
 - **Traducciones**: comenzar y completar nuevas traducciones y revisiones de calidad. Usar y afinar nuestro proceso de traducción.
 - **Educación**: enfoque en la educación interna: oración, adoración y trabajo del alma. Centrarse en la educación externa: crear oportunidades para fomentar el conocimiento, mejorar la apreciación y promover la comprensión de _El libro de Urantia_ en todo el mundo.
 - **Sucesión**: aplicar un plan de sucesión de cinco años para la Junta de Fideicomisarios. Aumentar el número de fideicomisarios para 2025 y hacer la transición a una organización más global.

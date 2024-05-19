@@ -120,9 +120,9 @@ Finalmente, lo siguiente fue escrito por el hermano Laurence poco antes de morir
 
 > «Dentro de poco tiempo iré a Dios. Lo que me consuela en esta vida es que ahora veo a mi Señor por la fe. Al verlo por fe, en realidad veo tan bien que a veces digo: ‘¡Ya no creo más! ¡Veo!’»
 
-Puedo sentir lo que enseña la fe; Puedo sentir lo que ve la fe. Esto por supuesto, funciona de gran seguridad en mí. En esa seguridad y en esa práctica de fe, viviré y moriré con Él.   
+Puedo sentir lo que enseña la fe; Puedo sentir lo que ve la fe. Esto por supuesto, funciona de gran seguridad en mí. En esa seguridad y en esa práctica de fe, viviré y moriré con Él. 
 
-> **Linda Buselli** descubrió _El Libro de Urantia_ en 1971 y, desde entonces, ella y su esposo Bob han estado desarrollando grupos de estudio dondequiera que hayan vivido. También ha estado activa sirviendo a la revelación como Presidenta del Comité de Publicaciones y miembro del Consejo General de la Fraternidad y del Comité Ejecutivo durante los últimos 18 años.  
+> **Linda Buselli** descubrió _El Libro de Urantia_ en 1971 y, desde entonces, ella y su esposo Bob han estado desarrollando grupos de estudio dondequiera que hayan vivido. También ha estado activa sirviendo a la revelación como Presidenta del Comité de Publicaciones y miembro del Consejo General de la Fraternidad y del Comité Ejecutivo durante los últimos 18 años.
 {.is-info}
 
 ## Referencias

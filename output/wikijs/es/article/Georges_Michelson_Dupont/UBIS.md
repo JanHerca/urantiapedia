@@ -63,7 +63,7 @@ Por tanto, en 1998 la Fundación Urantia lanzó la idea de la UBIS. Desde entonc
 <img src="/image/article/UF_News_Online/2008_09/032.jpg">
 </figure>
 
-Animamos al lector a que visite el enlace [http://www.urantia.org/ubis/](https://www.urantia.org/education/urantia-book-internet-school-ubis-newsletter) y que vea el programa de la UBIS para el próximo semestre.
+Animamos al lector a que visite el enlace [http://www.urantia.org/ubis/](https://www.urantia.org/education/urantia-book-internet-school-ubis-newsletter) y que vea el programa de la UBIS para el próximo semestre.
 
 Si tienen alguna pregunta o interés, contacten por favor a Dorothy Elder en [delder03@sprynet.com](mailto:delder03@sprynet.com)
 

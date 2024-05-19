@@ -48,7 +48,7 @@ Mi respuesta es que se nos ha enseñado a pensar que nuestro intelecto es la for
 
 Los científicos quieren hacernos creer que solo se puede creer en el conocimiento empírico, el conocimiento descubierto a través de nuestros cinco sentidos. Los filósofos sugerirían que la razón, la herramienta principal del intelecto, es la única forma de saber. Los religiosos nos dirían que aceptemos lo que enseñan porque proviene de una autoridad divina que no debe ser cuestionada. A su favor, la religión ha sido la guardiana de otra forma de saber. Sin embargo, las religiones muchas veces lo han perdido de vista como un tesoro que entierran y han olvidado dónde lo enterraron. Pero a lo largo de la historia, Jesús y maestros religiosos como Buda, Teresa de Ávila, Thomas Merton y Jorge Fox, por nombrar algunos, han sido llamados a renovar la búsqueda de este tesoro enterrado.
 
-¿Qué es este tesoro enterrado? Es la «llave del reino» que abre la puerta a un camino que nos lleva a la cima de la montaña para experimentar a Dios de una manera que trascenderá simplemente pensar o creer que Dios existe con un verdadero «saber» que Dios existe. Esta otra forma de conocer es un conocer interior. Es el reconocimiento interno de la verdad por parte de nuestra alma en oposición a la comprensión intelectual de nuestra mente. Es nuestro espíritu interior de Dios brillando como un faro de luz interior sobre la verdad cada vez que la descubrimos.  
+¿Qué es este tesoro enterrado? Es la «llave del reino» que abre la puerta a un camino que nos lleva a la cima de la montaña para experimentar a Dios de una manera que trascenderá simplemente pensar o creer que Dios existe con un verdadero «saber» que Dios existe. Esta otra forma de conocer es un conocer interior. Es el reconocimiento interno de la verdad por parte de nuestra alma en oposición a la comprensión intelectual de nuestra mente. Es nuestro espíritu interior de Dios brillando como un faro de luz interior sobre la verdad cada vez que la descubrimos.
 
 Imagínese si estuviera tan oscuro que no pudiera ver nada, y algo se iluminó brillantemente. ¿No lo verías excepcionalmente claro, ya que se destaca contra el telón de fondo de la oscuridad total? ¿Alguien podría convencerte de que no lo viste después de una experiencia tan poderosa? Este es el tipo de conocimiento que difiere de la comprensión intelectual. Este es el tipo de conocimiento que nos trae «la paz que sobrepasa todo entendimiento». Dice que hay una diferencia entre el conocimiento y la verdad.
 
@@ -88,7 +88,7 @@ En mis sesenta y dos años en este mundo, he acumulado algunos conocimientos, pe
 
 Como dijo tan bellamente Albert Einstein: «Quiero conocer los pensamientos de Dios; todo lo demás son detalles.» La pregunta es si está satisfecho con aprender acerca de los pensamientos de Dios de los libros y de otras personas, o si quiere ir directamente a la fuente.
 
-Gracias por permitirme compartir mi mensaje con ustedes. Me inclino ante el espíritu dentro de ti.  
+Gracias por permitirme compartir mi mensaje con ustedes. Me inclino ante el espíritu dentro de ti.
 
 > Michael Painter actualmente enseña filosofía en un colegio comunitario y se desempeña como presidente de la Sociedad de Orvonton de _The Urantia Book_ Fellowship. Es lector desde hace 36 años y practicante de la comunión diaria con Dios desde hace 16 años.
 {.is-info}

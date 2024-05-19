@@ -114,7 +114,7 @@ Parece haber tantas maneras de servir como personalidades que ofrezcan ese servi
 
 ### A veces nos equivocamos
 
-Por supuesto, incluso cuando el motivo es servir hay veces en que nos equivocamos y lo que hacemos puede causar más mal que bien. Intentamos ayudar donde podemos y fallamos cuando debemos. La experiencia es la maestra en este caso, y todo lo que podemos hacer es aprender, sacudirnos el polvo e intentarlo de nuevo. Este podría ser un aspecto de «enriquecerse con las decepciones» que los reveladores nos cuentan que es una gran parte de nuestra carrera futura. Como se suele decir, ¡así se forja el carácter! Y quizá deberíamos recordarnos a nosotros mismos que el servicio sabio en ocasiones puede requerir que nos resistamos a  rendirnos a las exigencias tontas de ayuda. A veces esto precisa de más determinación que ceder.
+Por supuesto, incluso cuando el motivo es servir hay veces en que nos equivocamos y lo que hacemos puede causar más mal que bien. Intentamos ayudar donde podemos y fallamos cuando debemos. La experiencia es la maestra en este caso, y todo lo que podemos hacer es aprender, sacudirnos el polvo e intentarlo de nuevo. Este podría ser un aspecto de «enriquecerse con las decepciones» que los reveladores nos cuentan que es una gran parte de nuestra carrera futura. Como se suele decir, ¡así se forja el carácter! Y quizá deberíamos recordarnos a nosotros mismos que el servicio sabio en ocasiones puede requerir que nos resistamos a  rendirnos a las exigencias tontas de ayuda. A veces esto precisa de más determinación que ceder.
 
 ### Jesús y la dueña de la posada
 

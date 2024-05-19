@@ -20,7 +20,7 @@ _(Nota de la redacción: Este artículo se publicó por primera vez en el Journa
 
 El tema de la X Conferencia de la Asociación Urantia Internacional, en los Países Bajos, era «Jesús como instructor». Cuando me pidieron que fuera uno de los presentadores pensé que sería una gran oportunidad, aunque nunca había dado una charla plenaria.
 
-En la conferencia 2016 de San Antonio (Texas) presenté mi primer taller, así que decidí ampliar el tema de ese taller para mi charla plenaria de Holanda. El taller se titulaba «El cuentagotas, la cuchara y la pala».
+En la conferencia 2016 de San Antonio (Texas) presenté mi primer taller, así que decidí ampliar el tema de ese taller para mi charla plenaria de Holanda. El taller se titulaba «El cuentagotas, la cuchara y la pala».
 
 Se me ocurrió la idea basándome principalmente en mi experiencia intentando conseguir que mi familia y mis amigos leyeran _El libro de Urantia_.
 
@@ -28,11 +28,11 @@ Encontré _El libro de Urantia_ y terminé de leerlo de principio a fin en 1996.
 
 Un día le compré un libro a mi amigo y se lo entregué diciendo: «Tío, ¡TIENES que leer esto!». ¡Estaba enardecido! Esperaba que mi mejor amigo estuviera tan emocionado como yo. Quería que lo leyera y así podríamos compartir nuestros pensamientos, como cuando leíamos a Carlos Castaneda y los libros de J.R.R. Tolkien en años pasados.
 
-Digamos que las cosas no fueron como había esperado. Mi amigo nunca leyó el libro. Mi esfuerzo fue un fracaso total. Más tarde supe que se lo enseñó a su esposa, que lo hojeó y declaró que era obra del diablo. Me sentí desconsolado y decepcionado.
+Digamos que las cosas no fueron como había esperado. Mi amigo nunca leyó el libro. Mi esfuerzo fue un fracaso total. Más tarde supe que se lo enseñó a su esposa, que lo hojeó y declaró que era obra del diablo. Me sentí desconsolado y decepcionado.
 
 En mi defensa, debo decir que por entonces no sabía nada de la Fundación Urantia, de la historia del libro o de los grupos de estudio, y que no conocía a nadie más que hubiera leído el libro.
 
-A lo largo de los años intenté varios enfoques y traté de convencer a la gente para que leyera el libro, y ninguno tuvo éxito. Un sabio dijo una vez que hacer lo mismo una y otra vez y esperar un resultado diferente es la definición de la locura. Era hora de replantear mi enfoque.
+A lo largo de los años intenté varios enfoques y traté de convencer a la gente para que leyera el libro, y ninguno tuvo éxito. Un sabio dijo una vez que hacer lo mismo una y otra vez y esperar un resultado diferente es la definición de la locura. Era hora de replantear mi enfoque.
 
 El momento que me abrió los ojos llegó cuando estaba de voluntario de un stand en el Parlamento de las Religiones del Mundo 2015 de Salt Lake City (Utah). No estaba seguro de cuál sería la mejor manera de hablar con la gente sobre el libro, así que me senté detrás y observé a otros que tenían más práctica, muchos con más de 40 años de experiencia.
 
@@ -110,7 +110,7 @@ Pero ¿y los tiempos en los que vivimos hoy? ¿Qué podemos aprender de las ense
 
 Cuando examinamos las enseñanzas de Jesús surge esta pregunta: ¿cómo incorporamos todo lo que hemos aprendido leyendo o estudiando esta maravillosa revelación a nuestros esfuerzos por compartir estas cosas con los que amamos, nuestra familia y nuestros amigos?
 
-Cuando salgan de viaje recuerden llevar el cuentagotas y la cuchara, y dejen la pala en casa. Si encuentran a alguien que quiere un libro pueden dárselo, pero permitan que consiga su propia pala y escarbe en las verdades que el libro contiene.
+Cuando salgan de viaje recuerden llevar el cuentagotas y la cuchara, y dejen la pala en casa. Si encuentran a alguien que quiere un libro pueden dárselo, pero permitan que consiga su propia pala y escarbe en las verdades que el libro contiene.
 
 Y de ese amigo que mencioné anteriormente, lo que no conseguí entender entonces es que él ya estaba seguro en el reino de Dios. Es un miembro activo de su iglesia y tiene una fe sólida en la gracia salvadora de Dios y en la salvación eterna.
 

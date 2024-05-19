@@ -40,7 +40,7 @@ La Fundación Urantia y los traductores de _El libro de Urantia_ al hebreo neces
 
 Si el hebreo es su lengua materna, y si les gustaría leer el borrador de la traducción al hebreo, participar en un grupo de estudio o ambas cosas, contacten con Tamara en [tamara@urantia.org](mailto:tamara@urantia.org) o con Georges Michelson-Dupont, responsable de traducciones de la Fundación Urantia, en [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr).
 
-אם עברית היא שפת אימכם ואם תרצו לעיין בטיוטת התרגום, להשתתף בקבוצת לימוד או שניהם, נא צרו קשר עם תמרה ב [tamara@urantia.org](mailto:tamara@urantia.org) או עם ג׳ורג׳ מיכלסון-דופונט, מנהל פרוייקטי התרגום של נאמנות אורנטיה ב  [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr).
+אם עברית היא שפת אימכם ואם תרצו לעיין בטיוטת התרגום, להשתתף בקבוצת לימוד או שניהם, נא צרו קשר עם תמרה ב [tamara@urantia.org](mailto:tamara@urantia.org) או עם ג׳ורג׳ מיכלסון-דופונט, מנהל פרוייקטי התרגום של נאמנות אורנטיה ב  [georges.michelson-dupont@wanadoo.fr](mailto:georges.michelson-dupont@wanadoo.fr).
 
 ## Chino
 

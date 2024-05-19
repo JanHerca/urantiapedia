@@ -60,7 +60,7 @@ Se enviará por correo un anuncio detallado con enlaces y la programación de te
 
 en el
 
-Oak Brook Hills Resort and Conference Center  
+Oak Brook Hills Resort and Conference Center
 3500 Midwest Rd, Oak Brook, Illinois
 
 Vengan con nosotros a aprender sobre «uno de los personajes más extraordinarios jamás relacionados con la historia de Urantia». <a id="a65_128"></a>[LU 93:10.11](/es/The_Urantia_Book/93#p10_11)

@@ -23,7 +23,7 @@ Sin comprender prácticamente nada de muchos de los verdaderos significados de l
 
 Desafortunadamente, a menudo llenamos estos huecos con nuestras conjeturas, que sabemos que siempre falsean su objeto.
 
-Así, nuestros esfuerzos sinceros por captar las enseñanzas de _El libro de Urantia_ se contaminan con nuestras conjeturas como resultado de la propensión inherente de la mente a conectar todos los puntos, a “dar sentido” a todo. Por otro lado, ¿cuántas veces han subrayado, como he hecho yo, una frase o párrafo incomprensible con “tengo que volver aquí”, eligiendo simplemente dejar el hueco como está? Cuando no captamos claramente los términos clave, ¿cómo vamos a seguir el verdadero significado de  párrafos enteros donde aparecen estos términos?
+Así, nuestros esfuerzos sinceros por captar las enseñanzas de _El libro de Urantia_ se contaminan con nuestras conjeturas como resultado de la propensión inherente de la mente a conectar todos los puntos, a “dar sentido” a todo. Por otro lado, ¿cuántas veces han subrayado, como he hecho yo, una frase o párrafo incomprensible con “tengo que volver aquí”, eligiendo simplemente dejar el hueco como está? Cuando no captamos claramente los términos clave, ¿cómo vamos a seguir el verdadero significado de  párrafos enteros donde aparecen estos términos?
 
 ## Lo primero es lo primero
 

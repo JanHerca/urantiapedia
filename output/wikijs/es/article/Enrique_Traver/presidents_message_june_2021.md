@@ -57,7 +57,7 @@ _Es cuestión de mirar, de percepción, de fe._
 
 ¿No es mágico, bello, verdadero y bueno?
 
-Enrique Traver  
+Enrique Traver
 Presidente de la Asociación Urantia Internacional
 
 <br style="clear:both;"/>

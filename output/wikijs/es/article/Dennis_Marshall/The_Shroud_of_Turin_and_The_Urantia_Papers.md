@@ -47,7 +47,7 @@ A pesar del ritmo glacial de la burocracia vaticana, en 1988 tres instituciones 
 
 Yo mismo estaba en un dilema. La datación por radiocarbono, aunque convincente, no explica la incapacidad del estudio igualmente científico de National Geographic para llegar a una conclusión sobre cómo se creó la Sábana Santa. Entonces, decidí dejar descansar la cuestión de la autenticidad de la Sábana Santa mientras me ocupaba de otros intereses.
 
-Debido a que permanecí dividido entre dos posiciones científicas aparentemente irreconciliables, traté de mantenerme al tanto de cualquier nueva investigación de la Sábana Santa que pudiera ayudar a aclarar la situación, pero ninguna de las explicaciones alteró mi incertidumbre con respecto a los dos estudios científicos aparentemente contradictorios.   
+Debido a que permanecí dividido entre dos posiciones científicas aparentemente irreconciliables, traté de mantenerme al tanto de cualquier nueva investigación de la Sábana Santa que pudiera ayudar a aclarar la situación, pero ninguna de las explicaciones alteró mi incertidumbre con respecto a los dos estudios científicos aparentemente contradictorios. 
 
 ## Otra mirada a la Sábana Santa
 
@@ -81,7 +81,7 @@ Consejo de Emmanuel a Miguel (Jesús)
 
 Estos pasajes dejan en claro que si la Sábana Santa es genuina, entonces es un error genuino. Dado que los espíritus ministradores tuvieron que buscar permiso para retirar el cuerpo de Jesús, creo que es seguro decir que no tenían carta blanca para interponerse como quisieran y no pudieron quitar los lienzos del entierro. Hay muchos casos en _El Libro de Urantia_ en los que a los espíritus ministradores no se les permitió remediar problemas en el reino de los mortales (la historia de la rana), especialmente cuando estaba involucrado el libre albedrío de los humanos.
 
-También está claro que la preocupación de Emmanuel estaba bien fundada en la medida en que incluso la Sábana Santa no certificada (por la iglesia católica) todavía ha resultado en catedrales, adoración y mucha adoración de reliquias que enfoca la atención y la energía no en el mensaje de Jesús sino hacia lo que es esencialmente un trozo de tela.  
+También está claro que la preocupación de Emmanuel estaba bien fundada en la medida en que incluso la Sábana Santa no certificada (por la iglesia católica) todavía ha resultado en catedrales, adoración y mucha adoración de reliquias que enfoca la atención y la energía no en el mensaje de Jesús sino hacia lo que es esencialmente un trozo de tela.
 
 ## _El Libro de Urantia_ Referencias al paño funerario
 
@@ -119,9 +119,9 @@ Los lectores de _El Libro de Urantia_ encontrarán en el libro doce menciones de
 
 ## ¿Qué pasa si la Sábana Santa es auténtica?
 
-Si resulta que la Sábana Santa es auténtica, ¿qué significará para los lectores de los Documentos de Urantia? En realidad muy poco. Incluso en este mismo documento, ya se nos ha advertido que evitemos la adoración y el culto a los artefactos materiales, ya sean Biblias, Coranes, _Libros de Urantia_, reliquias o lo que sea, y que nos concentremos en la verdad del mensaje que dichos objetos contienen.   
+Si resulta que la Sábana Santa es auténtica, ¿qué significará para los lectores de los Documentos de Urantia? En realidad muy poco. Incluso en este mismo documento, ya se nos ha advertido que evitemos la adoración y el culto a los artefactos materiales, ya sean Biblias, Coranes, _Libros de Urantia_, reliquias o lo que sea, y que nos concentremos en la verdad del mensaje que dichos objetos contienen. 
 
-> Dennis Marshall descubrió _El Libro de Urantia_ en Nueva Orleans en 1971. Ahora está jubilado después de treinta años enseñando tecnología de ingeniería arquitectónica en la Universidad de Indiana/Purdue en Fort Wayne, Indiana. Actualmente se desempeña como presidente del grupo de estudio iniciado por Meredith Sprunger.  
+> Dennis Marshall descubrió _El Libro de Urantia_ en Nueva Orleans en 1971. Ahora está jubilado después de treinta años enseñando tecnología de ingeniería arquitectónica en la Universidad de Indiana/Purdue en Fort Wayne, Indiana. Actualmente se desempeña como presidente del grupo de estudio iniciado por Meredith Sprunger.
 {.is-info}
 
 ## Referencias

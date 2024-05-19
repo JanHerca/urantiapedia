@@ -162,7 +162,7 @@ Los resultados de la investigación de la microcefalina indican lo siguiente:
 > 
 > [Los] cromosomas D se unen a su antepasado común más reciente (MRCA) hace 37.000 años antes del presente, mientras que los cromosomas no-D se unen en una edad mucho más antigua de 990.000 años antes del presente. [^28]
 
-El estudio de Stanford establece: «La edad de la mutación 2, hace unos 40.000 años atrás, representa una estimación del momento de inicio de la expansión global». [^23] Del mismo modo, el estudio de 2008 sobre el Y haplogrupo F pone la fecha de formalización en 48.000 (38.700-55.700) años atrás.  
+El estudio de Stanford establece: «La edad de la mutación 2, hace unos 40.000 años atrás, representa una estimación del momento de inicio de la expansión global». [^23] Del mismo modo, el estudio de 2008 sobre el Y haplogrupo F pone la fecha de formalización en 48.000 (38.700-55.700) años atrás.
 
 *El Libro de Urantia* dice: «Adán y Eva llegaron a Urantia 37.848 años antes del año 1934 de la era cristiana» [^29]. En cuanto a los primeros seres humanos, dice: «El nacimiento de los dos primeros seres humanos se produjo exactamente 993.419 años antes del año 1934 de la era cristiana» [^30]. Y también señala: «Estos dos seres maravillosos, los verdaderos padres de toda la humanidad, fueron superiores en todos los sentidos a muchos de sus descendientes inmediatos, y radicalmente diferentes a todos sus antepasados tanto cercanos como lejanos» [^31].
 

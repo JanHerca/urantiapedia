@@ -125,33 +125,33 @@ _El Libro de Urantia_ nos inspira a crear lazos de familia, cierto, pero sabiend
 
 En consecuencia, los que somos padres/madres de familia, sabemos las duras y apasionantes tareas y responsabilidades que debemos ejercer con nuestros hijos/as, pero sin olvidar que estos son compañeros/as de viaje que crecerán para tener su propio papel en la gran familia celestial, pero no son nuestras pertenencias. Como diría el poeta: son tus hijos, pero no son tuyos.
 
-> Tus hijos no son tus hijos,  
-> son hijos e hijas de la vida  
-> deseosa de sí misma.  
-> No vienen de ti, sino a través de ti,  
-> y aunque estén contigo,  
-> no te pertenecen.  
-> Puedes abrigar sus cuerpos,  
-> pero no sus almas,  
-> porque ellos  
-> viven en la casa del mañana,  
-> que no puedes visitar,  
-> ni siquiera en sueños.  
-> Puedes esforzarte en ser como ellos,  
-> pero no procures hacerles semejantes a ti,  
-> porque la vida no retrocede ni se detiene en el ayer.  
-> Tú eres el arco del cual tus hijos,  
-> como flechas vivas,  
-> son lanzados.  
-> Deja que la inclinación,  
-> en tu mano de arquero,  
+> Tus hijos no son tus hijos,
+> son hijos e hijas de la vida
+> deseosa de sí misma.
+> No vienen de ti, sino a través de ti,
+> y aunque estén contigo,
+> no te pertenecen.
+> Puedes abrigar sus cuerpos,
+> pero no sus almas,
+> porque ellos
+> viven en la casa del mañana,
+> que no puedes visitar,
+> ni siquiera en sueños.
+> Puedes esforzarte en ser como ellos,
+> pero no procures hacerles semejantes a ti,
+> porque la vida no retrocede ni se detiene en el ayer.
+> Tú eres el arco del cual tus hijos,
+> como flechas vivas,
+> son lanzados.
+> Deja que la inclinación,
+> en tu mano de arquero,
 > sea para la felicidad.
 
 Amemos pues a nuestra familia en la Tierra, asumamos sus logros y sus problemas, defendamos su gran valor en la escala cósmica…pero sin olvidar la perspectiva cósmica que le da su mayor sentido.
 
 El mundo necesita estos ejemplos de familias que hemos resaltado más arriba. Ahora es el momento.
 
-> «Recuerda que el momento más adecuado es solo uno: ahora, y es el más importante porque solo en él somos dueños de nosotros mismos.»  
+> «Recuerda que el momento más adecuado es solo uno: ahora, y es el más importante porque solo en él somos dueños de nosotros mismos.»
 > León Tolstói
 
 ## Referencias

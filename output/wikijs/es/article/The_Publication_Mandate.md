@@ -26,9 +26,9 @@ Por segunda vez, parecería apropiado llamar la atención del Comité Ejecutivo 
 
 Pero la publicación del libro no ha sido pospuesta para dicha (posible) fecha un tanto remota. Una publicación temprana del libro ha sido proporcionada de modo que se halle disponible para la formación de líderes y profesores. Su presencia también es requerida para captar la atención de personas con recursos que puedan así ser conducidas a proveer fondos para las traducciones a otros idiomas.
 
-(Ustedes) quienes han dedicado (sus) vidas al servicio del Libro y la Hermandad apenas logran darse cuenta de la importancia de (sus) acciones. Sin lugar a dudas, (ustedes) vivirán y morirán sin  tomar consciencia cabal de que están siendo partícipes del nacimiento de una nueva era de la religión en este mundo.
+(Ustedes) quienes han dedicado (sus) vidas al servicio del Libro y la Hermandad apenas logran darse cuenta de la importancia de (sus) acciones. Sin lugar a dudas, (ustedes) vivirán y morirán sin  tomar consciencia cabal de que están siendo partícipes del nacimiento de una nueva era de la religión en este mundo.
 
-«El futuro no se halla al alcance de (su) comprensión mortal. Pero (ustedes) harían bien en estudiar diligentemente el orden, el plan y los métodos de progresión así como fueran decretados por Micael,  en su vida terrenal cuando el Verbo se hiciera carne. (Ustedes) se están tornando actores de un episodio subsiguiente en el que el Verbo se hace Libro. Grande es la diferencia en esta dispensación de la religión, pero muchas son las lecciones que pueden ser  aprendidas del estudio de la era precedente.
+«El futuro no se halla al alcance de (su) comprensión mortal. Pero (ustedes) harían bien en estudiar diligentemente el orden, el plan y los métodos de progresión así como fueran decretados por Micael,  en su vida terrenal cuando el Verbo se hiciera carne. (Ustedes) se están tornando actores de un episodio subsiguiente en el que el Verbo se hace Libro. Grande es la diferencia en esta dispensación de la religión, pero muchas son las lecciones que pueden ser  aprendidas del estudio de la era precedente.
 
 (Ustedes) deben estudiar otra vez los tiempos de Jesús en la Tierra. (Ustedes) deben tomar cuidadosa nota de cómo el reino de los cielos fue inaugurado en el mundo. ¿Evolucionó lentamente y se desenvolvió naturalmente? o, ¿sobrevino con una súbita muestra de fuerza y una espectacular exhibición de poder? ¿Se dio evolutivamente o revolucionariamente?
 
@@ -40,9 +40,9 @@ Pero la publicación del libro no ha sido pospuesta para dicha (posible) fecha u
 - De la [IUA](https://urantia-association.org/quienes-somos/gobernanza-y-politicas/el-mandato-de-publicacion/?lang=es)
 - De la IUA: [A History of the Urantia Movement](https://urantia-association.org/historia-del-movimiento-urantia/?lang=es), del Dr. William S. Sadler
 
-\[Este documento fue presentado por William S. Sadler, Jr. en el Foro con la fecha  mencionada precedentemente. Para su utilización pública, los pronombres fueron modificados, de modo que el «nosotros» sustituyó el «ustedes». Para el presente propósito hemos colocado de vuelta los pronombres originales. Copias de este documento han sido insertadas en el registro de Secretaria.\]
+\[Este documento fue presentado por William S. Sadler, Jr. en el Foro con la fecha  mencionada precedentemente. Para su utilización pública, los pronombres fueron modificados, de modo que el «nosotros» sustituyó el «ustedes». Para el presente propósito hemos colocado de vuelta los pronombres originales. Copias de este documento han sido insertadas en el registro de Secretaria.\]
 
 ## Notas
 
-[^1]: En [Una historia del Movimiento Urantia](http://urantia-association.org/urantia-movement-history/), por el Dr. William S. Sadler, este mensaje se titula El Mandato de Publicación.
+[^1]: En [Una historia del Movimiento Urantia](http://urantia-association.org/urantia-movement-history/), por el Dr. William S. Sadler, este mensaje se titula El Mandato de Publicación.
 

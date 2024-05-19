@@ -129,5 +129,5 @@ Neal Waldrop
 [^2]: Para su comodidad, he reproducido el texto completo de la nota proporcionada al final de mi artículo «Epochal Pathways», incluido el enlace en el sitio web de la beca desde el que los lectores pueden consultar y/o descargar mi extenso documento de debate. _Revelación Revelada_:
 
     NOTA: Para una exploración más extensa de estos y otros temas similares, no dude en descargar el documento de discusión detallado de Neal Revelation Revealed _desde el sitio web del Comité para el Global Endeavor (www.globalendeavor.net) o desde la siguiente ubicación en el sitio web de la Fraternidad: [http://www.urantiabook.org/study/Revelation](http://www.urantiabook.org/study/Revelation-Revealed.pdf)
-    
+  
     Saludos cordiales, Neal.

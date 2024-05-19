@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 En la Conferencia Latinoamericana que se celebró recientemente en Guarulhos (Brasil), hubo una reunión de jóvenes lectores de toda América Latina para intercambiar experiencias, implicarse, divertirse y tomar decisiones para el futuro. Vimos mucho potencial en estos jóvenes que expresaron buenos ideales, experiencias genuinas, gran talento y una gran fe en el Padre celestial. Todo el evento superó nuestras expectativas.
 
-El coordinador para la juventud, Fernando Maldonado, comenzó un debate en la cima del monte Pico Olho D’água, en la localidad vecina de Mairiporã. El paisaje espectacular y la sensación de una presencia espiritual trajeron momentos inspiradores. Aquí comenzamos a contar algo de nosotros y de nuestras experiencias. Este encuentro resultó ser emocionante y conmovedor.
+El coordinador para la juventud, Fernando Maldonado, comenzó un debate en la cima del monte Pico Olho D’água, en la localidad vecina de Mairiporã. El paisaje espectacular y la sensación de una presencia espiritual trajeron momentos inspiradores. Aquí comenzamos a contar algo de nosotros y de nuestras experiencias. Este encuentro resultó ser emocionante y conmovedor.
 
 Creemos que ser lectores de _El libro de Urantia_ nos hace diferentes y a veces nos sentimos desplazados como hijos de Dios por la fe que no encajan en ninguna institución religiosa. Algunos de nosotros hemos dejado nuestra iglesia y a menudo soportamos una enorme carga emocional por ello. Tuvimos la posibilidad de compartir nuestras penas y experiencias, pero no fue un proceso doloroso sino un alivio. Hubo algunos que se sintieron guiados por el Espíritu de Dios para llegar a ese momento en aquella cima. Escuchamos muchas historias parecidas de lucha en la arena de la mente, decisiones difíciles a través de la fe, el paso por diferentes religiones y varias búsquedas intelectuales y espirituales, todas las cuales nos han llevado al regalo que tenemos en común: _El libro de Urantia_.
 
@@ -27,7 +27,7 @@ Creemos que ser lectores de _El libro de Urantia_ nos hace diferentes y a veces 
 
 Algunos llevaban poco tiempo leyendo el libro, otros llevaban décadas, pero el contenido intelectual parecía ser secundario ante el sentimiento de gratitud y hermandad que todos compartían. «A todos nos mueve una pasión sincera», dijo Anna Zeven, una joven líder internacional.
 
-El viernes por la noche nos divertimos con  hermosos ritmos de samba, salsa y otras músicas latinas dirigidas por el joven Mateo Monroy.
+El viernes por la noche nos divertimos con  hermosos ritmos de samba, salsa y otras músicas latinas dirigidas por el joven Mateo Monroy.
 
 Al día siguiente los jóvenes dedicaron tiempo a trabajar juntos sirviendo a la revelación. Los líderes de la Asociación Urantia Internacional celebraron una reunión en la que nos animaron a tomar nuestras propias decisiones sobre el futuro. Comenzaron a gestarse nuestras metas para la próxima conferencia internacional de la asociación en Cuzco (Perú) en 2021 y recibimos sugerencias de Wilson León, el coordinador continental para América Latina de la Asociación Urantia. Después de muchas conversaciones y animados debates conseguimos organizarnos y formular nuestras ideas y metas.
 

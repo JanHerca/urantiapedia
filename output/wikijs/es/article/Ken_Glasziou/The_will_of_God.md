@@ -35,7 +35,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
 
 > Este Dios-Espíritu-Interior sí triunfó realmente en la mente humana de Jesús —en aquella mente que, en cada una de las situaciones recurrentes de la vida, mantuvo una dedicación consagrada a la voluntad del Padre, diciendo: «Que no se haga mi voluntad, sino la tuya». Esta consagración decisiva constituye el verdadero pasaporte que conduce desde las limitaciones de la naturaleza humana hasta la finalidad donde se alcanza la divinidad. (<a id="a35_441"></a>[LU 109:6.5](/es/The_Urantia_Book/109#p6_5))
 
-> La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero. (<a id="a37_307"></a>[LU 130:2.7](/es/The_Urantia_Book/130#p2_7))  
+> La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero. (<a id="a37_307"></a>[LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
 
 > El Maestro eligió así un programa de vida que equivalía a la decisión de estar en contra de los milagros y de los prodigios. Una vez más se pronunció a favor de «la voluntad del Padre»; una vez más puso todas las cosas entre las manos de su Padre Paradisiaco. (<a id="a39_263"></a>[LU 136:6.2](/es/The_Urantia_Book/136#p6_2))
 

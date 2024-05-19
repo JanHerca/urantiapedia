@@ -15,9 +15,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/IMG-20170501-WA0060_1495260741707-300x181.jpg">
 </figure>
 
-La Feria Internacional del Libro de Bogotá (Colombia) se celebró del 25 de abril al 8 de mayo de 2017, en la que hubo un stand de la Asociación Urantia de Bogotá con el apoyo económico de la Asociación Urantia Internacional. Más de 40 voluntarios participaron en el stand. Se invitó a voluntarios de algunos países latinoamericanos para que vinieran y aprendieran de un grupo sumamente experto a cómo organizar con éxito un stand en una feria del libro. Respondieron a la invitación voluntarios de Costa Rica, Ecuador y Colombia, y ganaron una experiencia práctica valiosa.
+La Feria Internacional del Libro de Bogotá (Colombia) se celebró del 25 de abril al 8 de mayo de 2017, en la que hubo un stand de la Asociación Urantia de Bogotá con el apoyo económico de la Asociación Urantia Internacional. Más de 40 voluntarios participaron en el stand. Se invitó a voluntarios de algunos países latinoamericanos para que vinieran y aprendieran de un grupo sumamente experto a cómo organizar con éxito un stand en una feria del libro. Respondieron a la invitación voluntarios de Costa Rica, Ecuador y Colombia, y ganaron una experiencia práctica valiosa.
 
-Más de 500.000 visitantes asistieron a la feria del libro, se entregaron 23.000 folletos de presentación de _El libro de Urantia_ a visitantes que pasaban por el stand, se obtuvieron 85 direcciones de correo electrónico y se vendieron 60 libros en tapa blanda, proporcionados por la Fundación Urantia. El equipo de Bogotá también contactó con 33 escuelas, donde donarán libros a sus bibliotecas y celebrarán conferencias para estudiantes y profesores.
+Más de 500.000 visitantes asistieron a la feria del libro, se entregaron 23.000 folletos de presentación de _El libro de Urantia_ a visitantes que pasaban por el stand, se obtuvieron 85 direcciones de correo electrónico y se vendieron 60 libros en tapa blanda, proporcionados por la Fundación Urantia. El equipo de Bogotá también contactó con 33 escuelas, donde donarán libros a sus bibliotecas y celebrarán conferencias para estudiantes y profesores.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/IMG-20170504-WA0020_1495260741044-300x168.jpg">

@@ -15,7 +15,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Screen-Shot-2016-02-22-at-11.14.39-AM.jpg">
 </figure>
 
-Tal es la generosidad abarcante del Padre; extiende su bienvenida a cada uno de nosotros para aceptar el regalo de la vida eternal y la capacidad cada vez mayor de alegrarnos por la existencia … ¡la verdadera aventura!
+Tal es la generosidad abarcante del Padre; extiende su bienvenida a cada uno de nosotros para aceptar el regalo de la vida eternal y la capacidad cada vez mayor de alegrarnos por la existencia … ¡la verdadera aventura!
 
 Muchos lectores han saboreado también las palabras «el que quiera», cuya búsqueda da siete citas como las siguientes.
 

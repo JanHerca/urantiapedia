@@ -35,9 +35,9 @@ Tuve mucha suerte por tener la oportunidad de quedarme unos días más en Texas 
 
 Mi agradecimiento especial para la Lone Star Urantia Association de San Antonio, la Northern Lights Society de Alaska y la Asociación Urantia por sus esfuerzos, que hicieron posible que asistiera. Sin su ayuda no podría haber ido allí. Espero con ilusión la próxima oportunidad de reunirme con todos ustedes de nuevo.
 
-¡Amor para todos!  
-Alexander H, Colonia (Alemania)  
-Miembro de la junta directiva y embajador de Urantia-DACH  
+¡Amor para todos!
+Alexander H, Colonia (Alemania)
+Miembro de la junta directiva y embajador de Urantia-DACH
 Miembro del comité Urantia Young Adult International
 <br style="clear:both;"/>
 

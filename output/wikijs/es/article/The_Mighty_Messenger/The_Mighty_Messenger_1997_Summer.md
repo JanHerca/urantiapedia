@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## La First Society hospeda a ángeles  
+## La First Society hospeda a ángeles
 
 El apóstol Pablo instruyó a los hebreos: «No os olvidéis de mostrar hospitalidad a los extraños, porque por ella algunos sin saberlo, hospedaron a ángeles» ([Hebreos 13:2](/es/Bible/Hebrews/13#v2)).
 

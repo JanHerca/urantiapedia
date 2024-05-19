@@ -23,7 +23,7 @@ Dedicó una gran parte de sus últimos años a promover la unidad en el movimien
 
 Sue adquirió muchas habilidades durante su vida que le permitieron ser de verdadera ayuda a sus semejantes. Era cariñosa y estaba inspirada en todo lo que lograba. Estuvo felizmente casada durante casi 50 años y también era alpinista, ministra interreligiosa, filántropa, entusiasta de la gastronomía y la enología y madre entregada.
 
-El legado de Sue de servicio amoroso vive en su trabajo fundamental como fundadora de FreeSchools World Literacy, donde miles de niñas de Bihar (India) han aprendido a leer por tan solo 15 $ al año. FreeSchools se convirtió también en una entidad oficial sin ánimo de lucro en Canadá, EEUU y Australia.
+El legado de Sue de servicio amoroso vive en su trabajo fundamental como fundadora de FreeSchools World Literacy, donde miles de niñas de Bihar (India) han aprendido a leer por tan solo 15 $ al año. FreeSchools se convirtió también en una entidad oficial sin ánimo de lucro en Canadá, EEUU y Australia.
 
 Sue era una verdadera expresión de amor y fe a través del servicio a los demás, la echaremos mucho de menos. Adiós a nuestra querida amiga Sue, hasta que volvamos a vernos…
 
