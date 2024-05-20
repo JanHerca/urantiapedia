@@ -56,7 +56,9 @@ These are the presentations that we enjoyed in this meeting:
 
 An open and lively discussion would start right after each presentation. The workshop was about Paper 112 (Personality Survival), and it was facilitated by Eduardo Altuzarra.
 
-The roundtable was moderated by Mariano Pérez. The main theme was “The Meaning of the Ascension Plan,” and the participants were Miguel Bustos, Ismael Gracia, Paula Requejo, and Ana María García. This activity was recorded and you can watch [it here](https://www.youtube.com/watch?v=9-_ibVHcwRs) in case you are interested.
+The roundtable was moderated by Mariano Pérez. The main theme was “The Meaning of the Ascension Plan,” and the participants were Miguel Bustos, Ismael Gracia, Paula Requejo, and Ana María García. This activity was recorded and you can watch it here below in case you are interested.
+
+https://www.youtube.com/watch?v=9-_ibVHcwRs
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/15th-Spanish-Meeting-Pintxos-300x225.jpg">

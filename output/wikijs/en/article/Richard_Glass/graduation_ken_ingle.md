@@ -33,7 +33,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _(Editor’s note: Ken Ingle of the Lone Star Urantia Association (LSUA) in Texas passed away on Saturday, 2<sup>nd</sup> February at the age of 85. Following is an account of his life by his good friend, Richard Glass)_
 
-![](https://urantia-association.org/wp-content/uploads/2019/02/Ken-Ingle-1-150x150.jpg)
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/IUA_Tidings/Ken-Ingle-1-150x150.jpg">
+</figure>
 
 As real lover of life, Ken’s example of defining his own life was a good goal for any personality. He became a self-created, award-winning, science-fiction novelist heralded and acclaimed by sci-fi loving groups at UTA and other locations in the state and nation. Ken hosted a study group for many years. He had a wide variety of world interests which included his family, maintaining his health and vitality, sports, science, and his passion for science-fiction writing.
 
@@ -44,6 +46,8 @@ I also want to record my appreciation and gratitude to Ken for virtually single-
 Overall, I will continue to admire and revere Ken’s initiative, spunk, and self-determination to create a new career for himself as a successful author, his success in finding a surgeon he could trust to perform the cranial surgery he needed a few years ago, his ongoing interest in leading-edge science, and his loyalty in keeping a study group going in his apartment for many years. I think his long-term contribution to the Urantia community will prove to have been his reforms in the Lone Star Urantia Association, which eventually led to very significant progress in the leadership of the entire readership.
 
 Best wishes, Ken, as you take on the great challenges and adventures that lie ahead!
+
+<br style="clear:both;"/>
 
 ## References
 

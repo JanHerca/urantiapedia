@@ -49,7 +49,7 @@ In the afternoon we continued to the mansion worlds and listened to how the evol
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Finland-conference-study-aid-300x164.jpg">
 </figure>
-<
+
 Here is a picture of where Jerusem, the capital of our local system of Satania, is located in the centre and the seven transition worlds and the 49 satellites that encircle it. Seven mansion worlds are encircling transition world number one.
 
 In the evening many of us went and had a sauna situated by the lake which was unfortunately frozen so swimming was not possible. During the evening Antonio had a study group meeting through the internet with Urantia Book readers all over the world. It was very exciting to be able to hear and see our friends located so far away from us.

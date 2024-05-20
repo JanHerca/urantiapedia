@@ -67,7 +67,7 @@ We are here today to celebrate the lives of our beloved David. We celebrate the 
 
 One of my favorite quotes says something like this: “A great king has many servants but a great man serves many people.” That is David.
 
-“Some men’s lives are too great and noble to descend to the low level of being merely successful.” (196:3.2, 2096.8) The religious person transcends their environment and overcomes the limitations of the material world through a recognition of divine love, the awareness of God, which creates a desire to find truth, beauty, and goodness and in that way strives to become perfect even as God is perfect which is the meaning of the phrase “to do the will of God.” 
+“Some men’s lives are too great and noble to descend to the low level of being merely successful.” ([UB 196:3.2](/en/The_Urantia_Book/196#p3_2)) The religious person transcends their environment and overcomes the limitations of the material world through a recognition of divine love, the awareness of God, which creates a desire to find truth, beauty, and goodness and in that way strives to become perfect even as God is perfect which is the meaning of the phrase “to do the will of God.” 
 
 David was a much loved and highly respected spiritual leader, teacher, and mentor. David knows the truth and lived the truth—loyally and steadfastly. He talked the talk and walked the walk as we say but he also helped others to know the path wherein to walk.  
 
