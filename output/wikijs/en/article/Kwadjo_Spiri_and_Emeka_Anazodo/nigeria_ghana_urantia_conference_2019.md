@@ -105,7 +105,7 @@ Please enjoy a few photos of our time together:
 
 - [Tidings newsletter](https://urantia-association.org/about-tidings-newsletter/)
 - [This issue](https://urantia-association.org/newsletter/tidings-march-2020/)
-- [This article](https://urantia-association.org/presidents-message-march-2020)
+- [This article](https://urantia-association.org/nigeria-ghana-urantia-conference-2019/)
 
 <figure class="table chapter-navigator">
   <table>

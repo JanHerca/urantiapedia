@@ -52,9 +52,9 @@ Various volunteers around the world took shifts in hosting different segments of
 
 Those who were able to check in during their “awake” hours would have seen how they operate; 24 hourly presentations were scheduled where the presenters would share their material just as they would in a face-to-face meeting. They were able to present graphics, videos, and Power Point presentations just as they would in a physical meeting, as well as conducting interactive discussions. For those who chose to keep their videos turned on meant that people could see and talk to each other. So many marveled at being able to see and catch up with old friends they hadn’t seen in years. 
 
-The presentations were recorded and most have been uploaded (or are in the process of being uploaded) to: 
+The presentations were recorded and most have been uploaded (or are in the process of being uploaded) to Urantia Association’s YouTube channel: 
 
-[Urantia Association’s YouTube channel](https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/)
+https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/
 
 Check them out in the Play Lists titled:  
 <br style="clear:both;"/>
