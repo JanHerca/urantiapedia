@@ -45,8 +45,8 @@ La ubicación del stand fue excelente, tal como lo reflejaba la gran cantidad de
 
 Obtuvimos una gran satisfacción personal por nuestros esfuerzos de varias maneras: al conocer a nuevos lectores, al contactar con lectores veteranos – especialmente con lectores independientes de _El libro de Urantia_ – y por encima de todo, al ayudar a muchas personas a descubrir la Revelación Urantia. También nos sentimos gratificados de que este proyecto trace la senda y establezca un ejemplo para lectores de otros lugares del mundo que puedan sentirse animados a llevar a cabo proyectos similares de servicio.
 
-Saludos cordiales.  
-Andrés Ramírez, Marlene Tovar Alvarado y Wilson León,  
+Saludos cordiales.
+Andrés Ramírez, Marlene Tovar Alvarado y Wilson León,
 Miembros de la Asociación Urantia de Bogotá
 <br style="clear:both;"/>
 

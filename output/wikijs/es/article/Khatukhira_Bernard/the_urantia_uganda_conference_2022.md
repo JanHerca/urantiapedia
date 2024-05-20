@@ -73,7 +73,7 @@ Durante la reunión con los organizadores de la conferencia y los líderes de lo
 
 En verdad hay sed y hambre de verdad y de Dios entre los ugandeses. Este es un terreno fértil para nutrir y hacer crecer las semillas de la verdad, el crecimiento espiritual, la consciencia de Dios, y para promover el concepto de la paternidad de Dios y la hermandad del hombre. Con esto, esperamos y estamos seguros de que los hermanos y hermanas ugandeses podrán compartir el amor de Dios y servir con amor a sus semejantes.
 
-Khatukhira Bernard  
+Khatukhira Bernard
 Ciudadanos cósmicos de Uganda
 
 ## Referencias

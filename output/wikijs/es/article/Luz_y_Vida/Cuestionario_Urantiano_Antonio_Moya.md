@@ -63,7 +63,7 @@ Ha habido más de uno, pero se han diluido con el tiempo, la experiencia vivida 
 
 ## 7. ¿Cuál es la parte que más profundamente te ha impresionado?
 
-Hay más de una cosa que me ha impresionado, pero por mencionar alguna, la manera en que los reveladores explican el comienzo y el desarrollo de la Realidad, partiendo del absoluto e infinito Yo Soy. Para nosotros la Realidad procede del infinito, pasa por delante de nosotros (es ahí donde nos subimos al carro) y se dirige hacia el infinito. Hay muchas cosas que me asombran del Padre Universal: Dios como ingeniero y Dios como artista (palabras de Bill Sadler), además de Dios como padre. Los dos discursos de Jesús sobre la religión son clarificadores e impresionantes. Sus conferencias en Urmia, inigualables. Y así sucesivamente…  
+Hay más de una cosa que me ha impresionado, pero por mencionar alguna, la manera en que los reveladores explican el comienzo y el desarrollo de la Realidad, partiendo del absoluto e infinito Yo Soy. Para nosotros la Realidad procede del infinito, pasa por delante de nosotros (es ahí donde nos subimos al carro) y se dirige hacia el infinito. Hay muchas cosas que me asombran del Padre Universal: Dios como ingeniero y Dios como artista (palabras de Bill Sadler), además de Dios como padre. Los dos discursos de Jesús sobre la religión son clarificadores e impresionantes. Sus conferencias en Urmia, inigualables. Y así sucesivamente…
 
 ## 8. ¿Cómo entiendes tú eso de «hacer la voluntad del Padre»?
 

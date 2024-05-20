@@ -33,7 +33,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 El relato legendario de Platón sobre una civilización en una isla hundida que llamó Atlantis, o lo que algunos llaman Edén, ha fascinado a los aventureros durante siglos. Pero la búsqueda arqueológica sofisticada de esta cultura perdida tuvo que esperar a nuestro tiempo, con su tecnología digital y capacidades avanzadas de investigación submarina.
 
-Los esfuerzos recientes para encontrar la isla desaparecida, creo, culminaron en dos emocionantes estudios submarinos en el Mediterráneo oriental que se llevaron a cabo en 2004 y 2006. Cada una de estas expediciones descubrió pruebas tentadoras, y ambas fueron iniciadas por estudiantes de _El Libro de Urantia_ que buscaban lo que buscaban. Creo que son los restos del Primer Jardín.   
+Los esfuerzos recientes para encontrar la isla desaparecida, creo, culminaron en dos emocionantes estudios submarinos en el Mediterráneo oriental que se llevaron a cabo en 2004 y 2006. Cada una de estas expediciones descubrió pruebas tentadoras, y ambas fueron iniciadas por estudiantes de _El Libro de Urantia_ que buscaban lo que buscaban. Creo que son los restos del Primer Jardín. 
 
 En este ensayo, argumento que nuestra búsqueda de esta civilización prehistórica ahora puede reducirse a la tierra hundida adyacente a la isla de Chipre, un continente submarino virtual que los geólogos ubicaron hace décadas. En reconocimiento de la probable confluencia de las dos grandes leyendas de la Atlántida y el Edén, llamo a la investigación arqueológica en curso en este continente hundido el Proyecto Edén-Atlántida.
 

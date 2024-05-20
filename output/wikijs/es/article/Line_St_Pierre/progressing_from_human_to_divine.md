@@ -17,8 +17,8 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Line-St-Pierre-Photo.jpg">
 </figure>
 
-30 de julio a 2 de agosto de 2015  
-Bishop University, Lennoxville,  
+30 de julio a 2 de agosto de 2015
+Bishop University, Lennoxville,
 Quebec, Canadá
 
 La Asociación Urantia de Quebec, bajo el paraguas de la Asociación Urantia de Canadá, organizará este evento en nombre de la Asociación Urantia Internacional. Se llevará a cabo en el hermoso sitio de la Universidad Bishop en Lennoxville, provincia de Quebec, Canadá, del 30 de julio al 2 de agosto.

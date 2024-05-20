@@ -48,10 +48,10 @@ Para poder llegar a lectores de _El libro de Urantia_ de todo el mundo les pedim
 
 En nombre de la Asociación Urantia de Estonia (EUA) y del equipo organizador de esta conferencia espero con ilusión verlos y ofrecerles una cálida bienvenida.
 
-Saludos cordiales.  
-Karmo Kalda  
-Vicepresidente de la Asociación Urantia de Estonia (EUA)  
-Correo electrónico: [urantia@urantia.ee](mailto:urantia@urantia.ee)  
+Saludos cordiales.
+Karmo Kalda
+Vicepresidente de la Asociación Urantia de Estonia (EUA)
+Correo electrónico: [urantia@urantia.ee](mailto:urantia@urantia.ee)
 Teléfono: +372 5 200 300
 
 ## Referencias

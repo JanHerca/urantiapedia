@@ -34,7 +34,7 @@ Las sinceras descripciones de Kurt sobre sus experiencias religiosas personales 
 
 Nuestro tercer artículo, **Los círculos psíquicos y la vida morontial**, de André Desjardins, es una incursión fascinante en los significados de los siete círculos psíquicos de progresión humana. André sugiere que, al alcanzar estos círculos sucesivos de logro, nos acercamos cada vez más a una verdadera existencia morontial en la vida terrenal.
 
-Un rasgo muy original del ensayo de André es que no solo desentierra las cualidades y características que definen los círculos séptimo, tercero y primero, tal como los define _El libro de Urantia_, sino que también teoriza sobre la naturaleza de los círculos restantes.  
+Un rasgo muy original del ensayo de André es que no solo desentierra las cualidades y características que definen los círculos séptimo, tercero y primero, tal como los define _El libro de Urantia_, sino que también teoriza sobre la naturaleza de los círculos restantes.
 
 Profundizando en el tema, André también propone cuatro segmentos o agrupaciones de círculos psíquicos, cada uno definido por una etapa particular de crecimiento evolutivo y progresión en la morontia. Para todos los que se preguntan qué se necesita para avanzar en los círculos, esta es una lectura obligada.
 

@@ -48,7 +48,7 @@ En nombre de la Asociación Urantia de los Países Bajos (UAISUN) y del equipo o
 
 Saludos cordiales.
 
-Jaap Terra  
+Jaap Terra
 Presidente de la Asociación Urantia de los Países Bajos (UAISUN)
 
 ## Referencias

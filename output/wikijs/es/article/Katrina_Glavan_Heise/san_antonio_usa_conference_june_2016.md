@@ -31,10 +31,10 @@ Más abajo está nuestra información de contacto, si tienen alguna pregunta sob
 
 Por último, gracias por su atención y sus respuestas. Esperamos con ilusión verles en esta conferencia.
 
-Cordialmente.  
-Katrina Glavan-Heise  
-Presidenta de la Lone Star Urantia Association  
-[urantia.katrina@yahoo.com](mailto:urantia.katrina@yahoo.com)  
+Cordialmente.
+Katrina Glavan-Heise
+Presidenta de la Lone Star Urantia Association
+[urantia.katrina@yahoo.com](mailto:urantia.katrina@yahoo.com)
 [210-679-8933](tel:210-679-8933)
 
 ## Referencias

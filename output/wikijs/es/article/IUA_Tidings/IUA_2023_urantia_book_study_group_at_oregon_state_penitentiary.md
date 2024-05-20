@@ -37,8 +37,8 @@ La monotonía de la vida en prisión es real. Enfrentados a largas condenas, alg
 
 **Miembros pasados y presentes del grupo de estudio**
 
-Además de fundar nuestro grupo de estudio, Konrad G. hizo otra importante contribución durante su estancia en el OSP. Como talentoso artista y trabajador del metal en el taller de metal de la prisión, colaboró con un compañero recluso para diseñar y construir el emblema del Departamento Penitenciario de Oregón (mostrado arriba) que se exhibe al subir por la entrada de la penitenciaría, y esta imagen es un crédito de su trabajo. Konrad participó en nuestro grupo de estudio durante muchos años antes de ser trasladado a otro centro. Ahora está en libertad y vive cerca de Portland (Oregón).  
-  
+Además de fundar nuestro grupo de estudio, Konrad G. hizo otra importante contribución durante su estancia en el OSP. Como talentoso artista y trabajador del metal en el taller de metal de la prisión, colaboró con un compañero recluso para diseñar y construir el emblema del Departamento Penitenciario de Oregón (mostrado arriba) que se exhibe al subir por la entrada de la penitenciaría, y esta imagen es un crédito de su trabajo. Konrad participó en nuestro grupo de estudio durante muchos años antes de ser trasladado a otro centro. Ahora está en libertad y vive cerca de Portland (Oregón).
+
 Siempre guardaré como un tesoro estas palabras de Konrad: «¿Os dais cuenta de que lo que el grupo de estudio nos aporta e imparte no lo conseguimos en ninguna otra parte? Con el alimento adecuado, los lirios pueden crecer en un lodazal».
 
 Brian H. lleva más de 50 años leyendo el libro, que descubrió antes de su encarcelamiento.  Brian espera ser liberado en un futuro próximo tras cumplir 34 años de condena. Estudioso devoto de la revelación, Brian ha traído muchas almas al grupo de estudio y ha ofrecido generosamente su tiempo y sus recursos económicos para ocuparse de los asuntos del Padre. Brian considera que el grupo de estudio tiene un valor incalculable y está eternamente agradecido a los voluntarios por llevar el amor de Dios al lugar donde más se necesita.

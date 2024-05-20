@@ -78,7 +78,7 @@ Animamos a todos los anfitriones de grupos de estudio a que inscriban a su grupo
 
 Solo los anfitriones de grupos de estudio pueden incluir o actualizar la información en todo momento. El equipo del directorio no añade grupos, aunque estamos siempre listos para ayudar o mantener la información actualizada. ¡Únanse a la cada vez más larga lista de instructores y líderes que son anfitriones de grupos de estudio en servicio a esta revelación! Exploren la web del directorio para descubrir sus numerosas y sencillas funcionalidades, su información valiosa y sus recursos. Cada organización ha incluido una guía de grupos de estudio para ayudarles a crear uno o para mejorar el que ya tienen. Para más información, pueden contactar con el equipo del directorio en :  [team@urantiastudygroup.org](mailto:Team@urantiastudygroup.org?subject=Feedback%2520/%2520Comments%2520from%2520Website)
 
-En servicio gozoso.  
+En servicio gozoso.
 Equipo administrador del UBSGD
 <br style="clear:both;"/>
 

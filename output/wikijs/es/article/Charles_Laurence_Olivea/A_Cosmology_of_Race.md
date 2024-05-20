@@ -193,7 +193,7 @@ Con respecto a la naturaleza sensible de las razas secundarias, hay otra conside
 Me gustaría sugerir que uno de los enriquecimientos que la progenie secundaria mixta puede contribuir al acervo genético más grande es una mayor sensibilidad a la «experiencia de sentimiento» de la verdad divina. Dado el carácter físico-emocional de nuestra existencia mortal, ¿es de extrañar que se necesite una especie sensible más sensible para mejorar la capacidad de respuesta/expresividad de la mente en:
 1. El reino de la emoción entre la mente y el cuerpo;
 2. Mayor diversidad de atributos físicos;
-3. El reino de la emoción entre la mente y el alma.   
+3. El reino de la emoción entre la mente y el alma. 
 
 El efecto neto debe ser ayudar a actualizar más de los potenciales en la naturaleza humana.
 

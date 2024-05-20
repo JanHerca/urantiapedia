@@ -87,8 +87,8 @@ Les invitamos también a participar en los debates en curso de grupos de estudio
 
 En servicio fraternal.
 
-Jeannie Vázquez  
-Presidenta del comité de Educación  
+Jeannie Vázquez
+Presidenta del comité de Educación
 Asociación Urantia Internacional
 
 ## Referencias

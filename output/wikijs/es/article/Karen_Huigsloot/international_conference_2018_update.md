@@ -66,8 +66,8 @@ Toda la información de la conferencia puede encontrarse en nuestro sitio web: [
 
 Esperamos verles el año que viene en Ámsterdam.
 
-Jaap Terra, presidente de la Asociación Urantia de los Países Bajos (UAISUN)  
-Karen Huigsloot, Comité de Programa de la conferencia  
+Jaap Terra, presidente de la Asociación Urantia de los Países Bajos (UAISUN)
+Karen Huigsloot, Comité de Programa de la conferencia
 E-mail: [info@urantia.nl](mailto:info@urantia.nl)
 
 ## Referencias

@@ -23,14 +23,14 @@ Merindi Belarski fue la maestra de ceremonias, y el equipo de presentadores tuvo
 
 Tuvimos un par de intermedios musicales gracias a una actuación en directo de Jim Neal y un videoclip pregrabado de una canción de Trevor Swadling. Cerramos con un videoclip de lo que se está convirtiendo en un favorito de la conferencia: _Pray Tell Me How_ (escrito por Rebecca Oswald y Michael Hanian). Aquí está la lista de los temas de las presentaciones:
 
-**La vida en la carne** – Julian Martin  
-**Nosotros somos porque YO SOY** – Nigel Nunn  
-**Lealtad valiente** – Phillip Marriott  
-**¿Cómo es coherente la verdad?** – Daniel Swadling  
-**¿Cómo es atractiva la belleza?** – Merindi Belarski  
-**¿Cómo es estabilizadora la bondad?** – Andrew Swadling  
-**Los beneficios de la meditación factual** – Robert Coenraads  
-**La fuente del pensamiento creativo** – Vern Verass  
+**La vida en la carne** – Julian Martin
+**Nosotros somos porque YO SOY** – Nigel Nunn
+**Lealtad valiente** – Phillip Marriott
+**¿Cómo es coherente la verdad?** – Daniel Swadling
+**¿Cómo es atractiva la belleza?** – Merindi Belarski
+**¿Cómo es estabilizadora la bondad?** – Andrew Swadling
+**Los beneficios de la meditación factual** – Robert Coenraads
+**La fuente del pensamiento creativo** – Vern Verass
 **Adoración de cierre** – Rita Schaad
 
 La conferencia se grabó y las presentaciones se subirán a YouTube (tengan paciencia, avisaremos cuando estén disponibles). También encontrarán un par de presentaciones como artículos en este número de _[Arena](https://anzura.urantia-association.org/newsletter/arena-winter-2021/)_.

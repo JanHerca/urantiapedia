@@ -53,9 +53,9 @@ Esta será una oportunidad perfecta de reunirnos en hermandad y filiación. Espe
 
 Esperando con ilusión la oportunidad de verles a todos de nuevo.
 
-Samantha Nior,  
-Vicepresidenta de la Asociación Urantia de los Países Bajos (SUN)  
-Presidenta de la Urantia Young Adults International (UYAI)  
+Samantha Nior,
+Vicepresidenta de la Asociación Urantia de los Países Bajos (SUN)
+Presidenta de la Urantia Young Adults International (UYAI)
 Miembre del equipo ejecutivo del Comité de Miembros de la Asociación Urantia Internacional
 
 De Alex H. (Alemania):

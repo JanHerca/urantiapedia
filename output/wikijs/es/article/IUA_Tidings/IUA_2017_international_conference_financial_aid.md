@@ -59,7 +59,7 @@ Si no cumplen las condiciones de la ayuda económica, recibirán una carta de no
 
 Para cualquier aclaración, contacten con Hanno van der Plas o Antonio Schefer.
 
-Cordialmente.  
+Cordialmente.
 Subcomité de Ayuda Económica para la Conferencia de la Asociación Urantia Internacional 2018
 
 <figure id="Figure_1" class="image urantiapedia">

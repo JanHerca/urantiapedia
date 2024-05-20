@@ -41,7 +41,7 @@ Estas obras de arte y las enseñanzas divinas compartidas son un bálsamo para n
 
 Gracias a todos los artistas que nos animaron e inspiraron con sus obras. Que nuestro Padre Celestial les bendiga abundantemente por su amor y generosidad.
 
-Su hermana,  
+Su hermana,
 Jeannie Vázquez
 
 ## Referencias

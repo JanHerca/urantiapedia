@@ -30,7 +30,7 @@ Uniendo continentes, tendremos conferenciantes y facilitadores de talleres de di
 
 ### Día 1: Filiación con Dios, ciudadanía cósmica y evolución planetaria
 
-**Apertura del Congreso**  
+**Apertura del Congreso**
 Palabras del presidente de la Asociación Urantia Internacional – Enrique Traver (Brasil)
 
 **Bienvenida a Perú e introducción**
@@ -61,7 +61,7 @@ Vean al final del Programa cómo ver las descripciones de los talleres y el proc
 
 ### Día 2: Ciudadanía cósmica, crecimiento personal holístico y nuestras contribuciones planetarias
 
-**La revisión de alta calidad del nuevo _El libro de Urantia_ en español** – Unidad, trabajo en equipo y procesos metodológicos avanzados en la creación de un sistema referencial para un trabajo de calidad.  
+**La revisión de alta calidad del nuevo _El libro de Urantia_ en español** – Unidad, trabajo en equipo y procesos metodológicos avanzados en la creación de un sistema referencial para un trabajo de calidad.
 Por los panelistas_: Aníbal Pacheco (Chile), Olga López (España), Raúl Pujol (Cuba) y Víctor García-Bory (México)_.
 
 Un panel interactivo discutirá la larga travesía de diez años de desafíos, servicio, trabajo en equipo y amistad, además de los logros obtenidos.   
@@ -81,7 +81,7 @@ Por _Emeka Anazodo (Lagos, Nigeria)_
 
 El poder o energía que fluye de las Deidades hacia todos los universos, creando y sosteniendo todas las cosas y seres, es la fuente máxima del poder espiritual. Todo poder espiritual emana de Dios, el Padre Universal, ya que él es la Primera Fuente y el Centro de todas las cosas y seres. El poder espiritual es el efecto vivificador de todas las influencias espirituales que residen en nosotros, nos rodean e inciden sobre nosotros y lo necesitamos para romper nuestra propia resistencia material y todo obstáculo terrenal y vivir valores espirituales (166:3.8)
 
-**Cierre del Congreso**  
+**Cierre del Congreso**
 Pase de la antorcha a la Presidenta de la Asociación Urantia de Estados Unidos (Katrina Glavan-Heise) – sede del siguiente congreso internacional, en 2024.
 
 ## Talleres

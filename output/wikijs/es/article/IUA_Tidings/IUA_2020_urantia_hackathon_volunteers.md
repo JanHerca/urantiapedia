@@ -72,8 +72,8 @@ Además, ofreceremos sesiones de preguntas y respuestas por Zoom en las próxima
 
 ¡Esperamos tener noticias suyas! 
 
-En servicio por amor.   
-El equipo de ideación de Urantia Hackatón 2020:   
+En servicio por amor. 
+El equipo de ideación de Urantia Hackatón 2020: 
 Sandra y Gabriel Rymberg, Samantha Nior, Lourdes Burga-Cisneros y Luis García Bory
 
 ## Referencias

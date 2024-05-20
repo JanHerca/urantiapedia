@@ -47,9 +47,9 @@ El precio actual de la conferencia es de 330 $ (si reservan antes del 31 de marz
 
 ## Precios futuros
 
-- 31/03/2020 360 $ (la reserva anticipada supone un ahorro de 90 $)  
-- 22/06/2020 390 $ (la reserva normal supone un ahorro de 60 $)  
-- 22/10/2020 420 $ (la reserva de última hora supone un ahorro de 30 $)  
+- 31/03/2020 360 $ (la reserva anticipada supone un ahorro de 90 $)
+- 22/06/2020 390 $ (la reserva normal supone un ahorro de 60 $)
+- 22/10/2020 420 $ (la reserva de última hora supone un ahorro de 30 $)
 - 22/02/2021 450 $
 
 ## Alojamiento
@@ -87,12 +87,12 @@ Para ayudar a que el mayor número de personas posible participen en este evento
 
 ¡Esperamos con ilusión darles la bienvenida al Valle Sagrado de los Incas en Cuzco (Peru)!
 
-_Lourdes Burga-Cisneros_  
-_Presidenta de la Asociación Nacional Urantia de Perú_  
+_Lourdes Burga-Cisneros_
+_Presidenta de la Asociación Nacional Urantia de Perú_
 Email: [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.com)
 
-_Antonio Schefer_  
-_Presidente de Conferencias de la Asociación Urantia Internacional_  
+_Antonio Schefer_
+_Presidente de Conferencias de la Asociación Urantia Internacional_
 Email: [conferences@urantia-association.org](mailto:conferences@urantia-association.org)
 
 ## Referencias

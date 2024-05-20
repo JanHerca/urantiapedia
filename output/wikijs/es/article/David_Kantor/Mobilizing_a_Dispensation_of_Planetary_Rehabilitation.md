@@ -43,7 +43,7 @@ Ha habido cuatro dispensaciones en nuestro planeta:
 
 - La Era de los Portadores de Vida
 - La Dispensación del Príncipe Planetario
-- La Dispensación Adámica   
+- La Dispensación Adámica 
 - La Dispensación del Espíritu de la Verdad—la dispensación actual.
 
 Entre otros propósitos, se puede considerar que una dispensa proporciona:

@@ -13,11 +13,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 El Consejo de Representantes de la Asociación celebró elecciones en enero de este año para votar 7 cargos de la Junta Internacional de Servicio (JIS). He aquí los resultados de las elecciones:
 
-- _Presidente:_ Chris Wood (reelegido)  
-- _Tesorero__:_ Bradly Tharp (reelegido)  
-- _Presidente de Miembros:_  Luis García- Bory (sustituye a Anton Miroshnichenko)  
-- _Presidente de Conferencias:_ Antonio Schefer (reelegido)  
-- _Presidenta de Educación:_ Jeannie Vázquez (sustituye a Sheila Keene-Lund)  
+- _Presidente:_ Chris Wood (reelegido)
+- _Tesorero__:_ Bradly Tharp (reelegido)
+- _Presidente de Miembros:_  Luis García- Bory (sustituye a Anton Miroshnichenko)
+- _Presidente de Conferencias:_ Antonio Schefer (reelegido)
+- _Presidenta de Educación:_ Jeannie Vázquez (sustituye a Sheila Keene-Lund)
 - _Translation Chair:_  Gabriel Rymberg (sustituye a Chris Moseley)
 
 Los miembros de la JIS recién elegidos asumirán sus cargos a partir del 1 de abril de 2017.

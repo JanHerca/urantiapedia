@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Daughters-of-God-June-150x150.jpg">
 </figure>
 
-Del 21 al 24 de septiembre de 2017  
+Del 21 al 24 de septiembre de 2017
 Fundación Urantia (Chicago)
 
 Mientras nuestra serie de retiros de mujeres sigue en la Fundación Urantia, el equipo facilitador de las «Hijas de Dios» las invita a un fin de semana íntimo, experiencial y divertido.
@@ -30,10 +30,10 @@ En su próximo retiro, «Bailar con Dios, emerger en lo sagrado», cuatro Hijas 
 
 **Acerca de las Hijas de Dios**
 
-**Misión:**  
+**Misión:**
 _Ensalzar el estatus de ser una mujer dedicada al crecimiento espiritual, al avance intelectual y al progreso moral.
 
-**Visión:**  
+**Visión:**
 _Tocar el corazón de las mujeres explorando la dignidad de ser Hijas de Dios, honrando su valor e importancia y cooperando con el espíritu divino para recolectar la bella cosecha de los frutos del espíritu.
 
 Si quieren unirse a este evento del 533 W. Diversey Parkway en Chicago, contacten con Joanne Strobel.

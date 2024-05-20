@@ -113,28 +113,28 @@ El precio del ticket turístico oscila entre unos 10 USD$ y 40 USD$. El ticket p
 
 Las instalaciones previstas para el alojamiento van de haciendas-hoteles de cinco estrellas a hoteles más pequeños (pero no menos acogedores y hermosos), para adaptarse a distintos presupuestos. Todas las instalaciones hoteleras están cerca las unas de las otras. Los precios del alojamiento incluyen el desayuno y dependerán del hotel en el que cada uno se quiera alojar. A continuación hay una lista de los diferentes hoteles con sus diferentes precios y enlaces, en el caso de que deseen reservar para las fechas mencionadas (llegada: 22 de abril / salida: 25 de abril de 2021)
 
-[**Hotel Tambo del Inca**](https://www.marriott.com/hotels/event-planning/business-meeting/cuztl-tambo-)  
-148,50 USD$ por persona en habitación doble (oferta promocional hasta el 31 de enero de 2020)  
+[**Hotel Tambo del Inca**](https://www.marriott.com/hotels/event-planning/business-meeting/cuztl-tambo-)
+148,50 USD$ por persona en habitación doble (oferta promocional hasta el 31 de enero de 2020)
 RESERVAS: [corporativo@libertador,com.pe](mailto:corporativo@libertador,com.pe) (código de reserva: CONGRESO URANTIA)
 
-[**Hotel Sonesta Yucay**](https://www.sonestapiyucay.com/?partner=4153&amp;utm_source=google&amp;utm_medium=)  
-70,00 USD$ por persona en habitación doble (oferta promocional hasta el 31 de enero de 2020)  
+[**Hotel Sonesta Yucay**](https://www.sonestapiyucay.com/?partner=4153&amp;utm_source=google&amp;utm_medium=)
+70,00 USD$ por persona en habitación doble (oferta promocional hasta el 31 de enero de 2020)
 RESERVAS:  [sonestayucay@ghlhoteles.com](mailto:sonestayucay@ghlhoteles.com) (código de reserva: CONGRESO URANTIA CODE 088628)
 
-[**Hotel Casona Yucay**](http://www.hotelcasonayucay.com/)  
-42.50 USD$ por persona en habitación doble  
+[**Hotel Casona Yucay**](http://www.hotelcasonayucay.com/)
+42.50 USD$ por persona en habitación doble
 RESERVAS: [reservas@hotelcasonayucay.com](mailto:reservas@hotelcasonayucay.com)  (código de reserva: CONGRESO URANTIA)
 
-[**Hostal Yucay Plaza Inn**](https://www.facebook.com/pg/yucayplaza/photos/?ref=page_internal)  
-17,50 USD$ por persona en habitación doble  
+[**Hostal Yucay Plaza Inn**](https://www.facebook.com/pg/yucayplaza/photos/?ref=page_internal)
+17,50 USD$ por persona en habitación doble
 RESERVAS:  [reservas@yucayplazainn.com](mailto:reservas@yucayplazainn.com)
 
-[**Hostal Ttito**](https://www.facebook.com/pages/category/Hostel/TTITO-319178695329013/)  
-12,00 USD$ por persona en habitación doble  
+[**Hostal Ttito**](https://www.facebook.com/pages/category/Hostel/TTITO-319178695329013/)
+12,00 USD$ por persona en habitación doble
 RESERVAS:  [tuliattito@gmail.com](mailto:tuliattito@gmail.com)
 
-[**Hostal Yucay Lodge I**](https://www.yucaylodge.com/)  
-7,00 USD$ por persona en habitación triple  
+[**Hostal Yucay Lodge I**](https://www.yucaylodge.com/)
+7,00 USD$ por persona en habitación triple
 RESERVAS:  [yucaylodge@gmail.com](mailto:yucaylodge@gmail.com)
 
 Si planea asistir a la Conferencia Internacional de la Asociación Urantia en Urubamba-Perú, le recomendamos que se registre y reserve su alojamiento en el hotel AHORA, utilizando nuestro [enlace] de registro (https://cvent.me/kMVko7)
@@ -154,12 +154,12 @@ Para que participe el mayor número de personas, les invitamos a que echen un vi
 
 **¡Esperamos con ilusión darles la bienvenida al Valle Sagrado de los Incas en Cuzco (Perú)!**
 
-Lourdes Burga-Cisneros  
-Presidenta de la Asociación Nacional Urantia de Perú  
+Lourdes Burga-Cisneros
+Presidenta de la Asociación Nacional Urantia de Perú
 Email: [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.com)
 
-Antonio Schefer  
-Presidente de Conferencias de la Asociación Urantia Internacional  
+Antonio Schefer
+Presidente de Conferencias de la Asociación Urantia Internacional
 Email: [conferences@urantia-association.org](mailto:conferences@urantia-association.org)
 
 ## Más información

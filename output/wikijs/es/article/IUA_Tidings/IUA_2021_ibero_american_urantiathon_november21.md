@@ -54,14 +54,14 @@ Esta presentación ofreció los siguientes conceptos principales:
 2. Servicio
 3. Fidelidad a Dios
 
-La vida de los apóstoles que se hicieron amigos de Jesús nos muestra puntos esenciales para nuestro desarrollo espiritual.  
-  
-El primer punto se refiere al cambio de hábitos cuando descubrimos a Jesús y sus enseñanzas, lo que demuestra la voluntad sincera de los que creen sin hipocresía.  
-  
-El segundo punto se refiere al servicio amoroso y desinteresado de proclamar y enseñar la verdad a nuestros hermanos que aún no la conocen o no entienden su camino, pues la ingenuidad ante el error y el pecado puede ser un camino que conduce a una actitud impía y a la muerte espiritual.  
-  
-El tercer punto es la fidelidad irrestricta al plan de Dios, al gobierno de nuestro Padre y Maestro Miguel, y al proyecto de desarrollo humano.  
-  
+La vida de los apóstoles que se hicieron amigos de Jesús nos muestra puntos esenciales para nuestro desarrollo espiritual.
+
+El primer punto se refiere al cambio de hábitos cuando descubrimos a Jesús y sus enseñanzas, lo que demuestra la voluntad sincera de los que creen sin hipocresía.
+
+El segundo punto se refiere al servicio amoroso y desinteresado de proclamar y enseñar la verdad a nuestros hermanos que aún no la conocen o no entienden su camino, pues la ingenuidad ante el error y el pecado puede ser un camino que conduce a una actitud impía y a la muerte espiritual.
+
+El tercer punto es la fidelidad irrestricta al plan de Dios, al gobierno de nuestro Padre y Maestro Miguel, y al proyecto de desarrollo humano.
+
 Solo así las buenas noticias pueden cobrar vida y ganar fuerza para promover la salvación anunciada por los reveladores.
 
 ### Las realidades del liderazgo y la espiritualidad
@@ -171,7 +171,7 @@ Finalmente, analizamos las características y los escenarios de acción de nuest
 
 De Irene Islas (México)
 
-Conocí la quinta revelación de _El libro de Urantia_ hace tres años, cuando estaba en la universidad. Me llamó la atención cuando lo leí por primera vez. Después participé en un grupo de estudio y me animé a seguir con la lectura. Más tarde me uní a la Asociación Urantia y al grupo de jóvenes de la Asociación de México.  
+Conocí la quinta revelación de _El libro de Urantia_ hace tres años, cuando estaba en la universidad. Me llamó la atención cuando lo leí por primera vez. Después participé en un grupo de estudio y me animé a seguir con la lectura. Más tarde me uní a la Asociación Urantia y al grupo de jóvenes de la Asociación de México.
 
 En mi opinión, el documento 195 es uno de los más fáciles de entender y más actuales del libro. En el grupo de estudio de jóvenes lectores de los sábados y los lunes, he conocido que el secularismo ha traído muchas guerras y mucho sufrimiento. Sin embargo, gracias a la rebelión secular, también tenemos cosas buenas. Podemos conectarnos entre nosotros a través de dispositivos maravillosos, el ordenador y el teléfono móvil, que nos ayudan a reunirnos desde todos los rincones del mundo. Estos aspectos materiales nos han ayudado mucho, pero si no ponemos a Dios en el lugar que le corresponde, estos objetos no nos llevarán a una evolución más significativa. Tenemos que incluir a Dios en nuestras actividades diarias.
 
@@ -199,8 +199,8 @@ Después de Pentecostés, podemos decir: «No solo en palabras, sino también en
 
 Cuando damos así la verdad del Padre, su creciente luz de gracia salvadora se multiplica a medida que la entregamos.
 
-Para contribuir a la expansión de la revelación de la manera más efectiva, la verdad divina y viva debe ser compartida como lo hizo Jesús: con amor, sabiduría, poder espiritual, en abundancia y con generosidad.  
-  
+Para contribuir a la expansión de la revelación de la manera más efectiva, la verdad divina y viva debe ser compartida como lo hizo Jesús: con amor, sabiduría, poder espiritual, en abundancia y con generosidad.
+
 ### El liderazgo espiritual en la vida diaria
 
 De Alejandro Aran Sánchez (México)

@@ -31,8 +31,8 @@ Carolyn será extrañada por sus amigos y familiares. Le deseamos buen viaje y e
 
 Para los que quieran enviar sus condolencias a la familia, envíen su mensaje a esta dirección postal:
 
-Carolyn Kendall (in memoriam)  
-1400 Salvington Place  
+Carolyn Kendall (in memoriam)
+1400 Salvington Place
 Wheeling, IL. USA, 60090
 
 ## Referencias

@@ -19,11 +19,11 @@ En diciembre, los miembros del Consejo Internacional de Representantes (CIR) se 
 
 Los puestos de presidente y tesorero, ocupados por Chris Wood y Bradley Tharpe respectivamente, necesitaban nuevos miembros, pues Chris y Brad habían servido durante dos mandatos y necesitaban retirarse. El resto de puestos los ostentan personas que habían agotado el primer mandato: todos estuvieron de acuerdo en seguir un segundo mandato. Tenemos el placer de anunciar los resultados de las elecciones: 
 
-- Presidente: Enrique Traver (Brasil)   
-- Director financiero: Jay Peregrine (EE.UU.)   
-- Presidente de Conferencias: Antonio Schefer (Países Bajos)   
-- Presidente de Membresía: Fernando Maldonado (México)   
-- Presidenta de Educación: Jeannie Vázquez (Uruguay)   
+- Presidente: Enrique Traver (Brasil) 
+- Director financiero: Jay Peregrine (EE.UU.) 
+- Presidente de Conferencias: Antonio Schefer (Países Bajos) 
+- Presidente de Membresía: Fernando Maldonado (México) 
+- Presidenta de Educación: Jeannie Vázquez (Uruguay) 
 - Presidente de Traducciones: Gabriel Rymberg (Israel) 
 
 Damos la bienvenida a Enrique como presidente electo de la Asociación y a Jay como nuestro director financiero electo. Enrique sirvió anteriormente en dos mandatos como presidente de la Asociación Urantia de Brasil y fue el presidente de la Conferencia Continental Latinoamericana de Sao Paulo en 2018. Además, ayudó a fundar la Escuela Urantia en Brasil. También es multilingüe y habla con fluidez portugués, español e inglés, y entiende bastante bien el francés. Jay es bien conocido en toda la comunidad de lectores y sirvió como informático de la Fundación Urantia durante varios años antes de servir muchos más años como director ejecutivo. Aporta décadas de liderazgo y sabiduría a nuestra Junta Internacional de Servicio.
@@ -34,21 +34,21 @@ Otro acontecimiento reciente es que nuestro secretario John Nugent ha tenido que
 
 De modo que, a partir del 1 de abril de 2021, esta será la composición de la JIS:  
 
-- Presidente: Enrique Traver (Brasil)   
-- Vicepresidente: Andrés Rodríguez (Colombia)   
-- Secretaria: Joanne Strobel (EE.UU.)   
-- Director financiero: Jay Peregrine (EE.UU.)   
-- Presidente de Conferencias: Antonio Schefer (Países Bajos)   
-- Presidente de Membresía: Fernando Maldonado (México)   
-- Presidenta de Educación: Jeannie Vázquez (Uruguay)   
-- Presidenta de Traducciones: Gabriel Rymberg (Israel)   
-- Presidenta de Comunicaciones: Kathleen Swadling (Australia)   
-- Presidente de Diseminación Chair: Willem Jeths (Brasil)   
-- Presidente de Grupos de Estudio: Andres Ramírez (Colombia)   
-- Coordinador continental de América Latina: Wilson León (Colombia)    
-- Coordinador continental de Europa: Sebastián Nozzi (Alemania)    
-- Coordinador continental de África: Collins Lomo (Ghana)   
-- Urantia Young Adults International: Samantha Nior  (Francia)  
+- Presidente: Enrique Traver (Brasil) 
+- Vicepresidente: Andrés Rodríguez (Colombia) 
+- Secretaria: Joanne Strobel (EE.UU.) 
+- Director financiero: Jay Peregrine (EE.UU.) 
+- Presidente de Conferencias: Antonio Schefer (Países Bajos) 
+- Presidente de Membresía: Fernando Maldonado (México) 
+- Presidenta de Educación: Jeannie Vázquez (Uruguay) 
+- Presidenta de Traducciones: Gabriel Rymberg (Israel) 
+- Presidenta de Comunicaciones: Kathleen Swadling (Australia) 
+- Presidente de Diseminación Chair: Willem Jeths (Brasil) 
+- Presidente de Grupos de Estudio: Andres Ramírez (Colombia) 
+- Coordinador continental de América Latina: Wilson León (Colombia)  
+- Coordinador continental de Europa: Sebastián Nozzi (Alemania)  
+- Coordinador continental de África: Collins Lomo (Ghana) 
+- Urantia Young Adults International: Samantha Nior  (Francia)
 - Administradora ejecutiva: Margaret Slater-Thompson (EE.UU.)
 
 ## Referencias

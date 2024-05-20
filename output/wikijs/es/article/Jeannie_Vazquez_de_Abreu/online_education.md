@@ -31,8 +31,8 @@ El narrador prosigue, diciendo:
 
 > _Cada uno de los maestros apostólicos enseñaba su propio punto de vista sobre el evangelio del reino. No hacían ningún esfuerzo por igualar sus enseñanzas; no había una formulación uniformizada o dogmática de las doctrinas teológicas. Aunque todos enseñaban la misma verdad, cada apóstol presentaba su propia interpretación personal de las enseñanzas del Maestro. Jesús respaldaba esta representación de la diversidad de experiencias personales en las cosas del reino, y en las sesiones semanales de preguntas armonizaba y coordinaba siempre las múltiples visiones divergentes del evangelio._ <a id="a54_542"></a>[[LU 148:1.2](/es/The_Urantia_Book/148#p1_2)]
 
-Por este motivo, compartir nuestros puntos de vista y experiencias personales con la verdad divina es positivo e instructivo para los demás. De este modo, inspiramos a nuestros semejantes a vivir las enseñanzas, les motivamos a crecer en espíritu y difundimos la revelación.  
-  
+Por este motivo, compartir nuestros puntos de vista y experiencias personales con la verdad divina es positivo e instructivo para los demás. De este modo, inspiramos a nuestros semejantes a vivir las enseñanzas, les motivamos a crecer en espíritu y difundimos la revelación.
+
 Para ver los vídeos de los seminarios y talleres anteriores, visiten el sitio web en 
 
 https://www.youtube.com/c/UrantiaAssociationInternational

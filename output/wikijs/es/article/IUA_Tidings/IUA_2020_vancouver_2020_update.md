@@ -17,7 +17,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 ## Elevarnos juntos unidos en propósito sirviendo a Dios Supremo
 
-Universidad de Fraser Valley, Columbia Británica (Canadá)  
+Universidad de Fraser Valley, Columbia Británica (Canadá)
 **Del 28 de julio al 1 de agosto de 2020**
 
 [Inscripción abierta para la Urantia Global Experience](https://urantiaglobalexperience.com/)

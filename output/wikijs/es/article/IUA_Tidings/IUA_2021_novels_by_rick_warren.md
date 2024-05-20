@@ -66,10 +66,10 @@ Las historias de los humanos originales son universales. Se cree que los mitos a
 <img src="/image/article/IUA_Tidings/First-Humans-Cover-266x400.jpg">
 </figure>
 
-¿Y si pudieras saber quiénes fueron los dos primeros humanos? ¿Te interesaría? Imagina que hace aproximadamente un millón de años nacieron unos adorables gemelos, crecieron, huyeron de sus antepasados animales y luego fueron los padres de la familia humana. Imagina cómo eran, dónde y cómo vivían. ¿Cuántos fueron sus hijos? ¿Cuántas palabras había en su vocabulario? ¿A quién o qué adoraban?   
-   
-Se sabe muy poco sobre Andón y Fonta, pero podrían haber sido personas reales que aparecieron en la Tierra y fundaron la raza humana. Alguien lo hizo, ¿por qué no ellos?   
-   
+¿Y si pudieras saber quiénes fueron los dos primeros humanos? ¿Te interesaría? Imagina que hace aproximadamente un millón de años nacieron unos adorables gemelos, crecieron, huyeron de sus antepasados animales y luego fueron los padres de la familia humana. Imagina cómo eran, dónde y cómo vivían. ¿Cuántos fueron sus hijos? ¿Cuántas palabras había en su vocabulario? ¿A quién o qué adoraban? 
+ 
+Se sabe muy poco sobre Andón y Fonta, pero podrían haber sido personas reales que aparecieron en la Tierra y fundaron la raza humana. Alguien lo hizo, ¿por qué no ellos? 
+ 
 Los detalles presentados en esta breve historia son plausibles y fascinantes y tienen visos de verdad. Si es cierta, habrá que escribir una nueva versión de la historia. Haz un viaje muy atrás en el tiempo y hazte una idea de quiénes podrían ser nuestros padres primordiales. Descubre cómo su familia creció hasta llegar a los 500 millones, quiénes son y dónde están sus descendientes modernos. Es una historia extraordinaria que te hará preguntarte de dónde salió un relato semejante.
 <br style="clear:both;"/>
 

@@ -32,11 +32,11 @@ a **_Donna Mejia_**_,_ que nos dio una lección instructiva y emotiva y nos hiz
 
 También me gustaría dar las gracias en especial a:
 
-_Samantha Nior ,_ por su maravilloso trabajo de facilitar esta serie de talleres.  
-_Susan Owen,_ por su asistencia cariñosa y constante.  
-_Flor Robles,_ por su servicio y amor constantes.  
-_Susan Lyon,_ por su servicio amoroso y por compartir con nosotros su alegría de vivir.  
-_Pato Banton,_ por compartir su experiencia hermosa e iluminadora de servicio y de comprender las enseñanzas.  
+_Samantha Nior ,_ por su maravilloso trabajo de facilitar esta serie de talleres.
+_Susan Owen,_ por su asistencia cariñosa y constante.
+_Flor Robles,_ por su servicio y amor constantes.
+_Susan Lyon,_ por su servicio amoroso y por compartir con nosotros su alegría de vivir.
+_Pato Banton,_ por compartir su experiencia hermosa e iluminadora de servicio y de comprender las enseñanzas.
 _Antoinette Rootsdawtah,_ por su servicio amoroso a nuestro Padre y a la hermandad espiritual.
 
 Este ha sido un auténtico y maravilloso trabajo en equipo y sin la implicación de estos entregados y meticulosos voluntarios no habríamos sido capaces de proporcionar este valioso paquete de talleres. Que Dios les bendiga a todos.
@@ -45,8 +45,8 @@ Para ver las grabaciones en YouTube, vayan a:
 
 https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA
 
-Jeannie Vázquez  
-Presidenta de Educación  
+Jeannie Vázquez
+Presidenta de Educación
 Asociación Urantia Internacional
 
 

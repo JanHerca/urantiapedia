@@ -38,11 +38,11 @@ Asimismo, hacemos un llamamiento a voluntarios de todas las edades de cualquier 
 
 Este evento será realmente una oportunidad única para reunirnos y unirnos, y qué mejor manera de hacer que suceda cuando ha llegado el momento de dirigirnos «hacia la ciudadanía cósmica»**.**
 
-Lourdes Burga-Cisneros  
+Lourdes Burga-Cisneros
 Presidenta de Urantia Perú
 
-Antonio Scheffer  
-Presidente del comité de Conferencias  
+Antonio Scheffer
+Presidente del comité de Conferencias
 Asociación Urantia Internacional
 
 ## Referencias

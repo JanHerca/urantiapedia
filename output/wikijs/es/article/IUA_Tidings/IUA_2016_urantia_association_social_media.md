@@ -33,8 +33,8 @@ _Nota de precaución:_ las redes sociales no están perfeccionadas todavía. Se
 
 Las redes sociales de la Asociación Urantia Internacional:
 
-Facebook: [https://www.facebook.com/urantia.association/](https://www.facebook.com/urantia.association/?hc_location=ufi)  
-Twitter: [https://twitter.com/UrantiaAssoc](https://twitter.com/UrantiaAssoc)  
+Facebook: [https://www.facebook.com/urantia.association/](https://www.facebook.com/urantia.association/?hc_location=ufi)
+Twitter: [https://twitter.com/UrantiaAssoc](https://twitter.com/UrantiaAssoc)
 Foro: [http://urantia-association.org/forums](http://urantia-association.org/forums)
 
 <br style="clear:both;"/>

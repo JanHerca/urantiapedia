@@ -33,7 +33,7 @@ También me animaron a publicar un documento en el _Journal_, que pueden leer en
 
 Es difícil para los reclusos adquirir ejemplares de _El libro de Urantia_ inmediatamente. Para mostrar nuestro aprecio, mi grupo de estudio reúne cupones cuando puede para enviar una donación al PIRT o cuando necesitamos adquirir un nuevo libro. Sus donaciones y atenciones hacen un largo recorrido para ayudar a reclusos como yo. Estamos profundamente agradecidos por la generosidad que han mostrado y que nos inspira a ser generosos con el conocimiento de _El libro de Urantia_ hacia los demás.
 
-Cordialmente.  
+Cordialmente.
 John Zavala, Jr.
 
 #### Nota anexa del PIRT:
