@@ -56,6 +56,24 @@
 * Roman numerals as heading 3: `^((?=[XVI])(X{0,3})(I[XV]|V?I{0,3}))\.` => `### $1.`
 * Latin letters as heading 4: `^([A-Z])\.` => `#### $1.`
 * Old UB references: `\(\d+[.\d]*\)`
+* Steps for Spanish:
+  - * `^> \*\*COMENTARIOS\*\*` => `**COMENTARIOS**`
+  - * `^> \n` => `-nothing-`
+  - * `^> (\d+)\\. ` => `$1. `
+  - * `^> > \n` => `-nothing-`
+  - * `^> > > \n` => `-nothing-`
+  - * `^> > > > \n` => `-nothing-`
+  - * `^> > > > > \n` => `-nothing-`
+  - * `^> > > > > (.)` => `\t\t\t\t$1`
+  - * `^> > > > (.)` => `\t\t\t$1`
+  - * `^> > > (.)` => `\t\t$1`
+  - * `^> > (.)` => `\t$1`
+  - * `^(\d+)\\. ` => `$1. `
+  - * `\*\*COMENTARIOS\*\*\n` => `**COMENTARIOS**\n\n`
+  - * `^([^\.]+)\. \*\*REFERENCIA\*\*: \[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\) - “([^”]+)”` => `### $1. LU $4:$5.$6 — «$8»\n\n**REFERENCIA**: [LU $4:$5.$6](/es/The_Urantia_Book/$4#p$5_$6) — «$8»`
+  - * `^\t(\d+)\\\. ` => `\t$1. `
+  - * `^\t([A-Z])\. ` => `\t- $1. `
+  - * `\[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\)` => `[LU $3:$4.$5](/es/The_Urantia_Book/$3#p$4_$5)`
 
 ### Other replacements
 
