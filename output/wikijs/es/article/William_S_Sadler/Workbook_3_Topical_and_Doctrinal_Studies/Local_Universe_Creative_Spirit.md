@@ -42,11 +42,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. Al ser independiente del espacio, el Espíritu Creativo está igualmente presente de manera difusa en todo el universo local. [LU 34:3.3](/es/The_Urantia_Book/34#p3_3)
 2. El Espíritu Creativo actúa con el Hijo Creador para crear un amplio rango de personalidades. [LU 34:2.4](/es/The_Urantia_Book/34#p2_4)
-3. En la evolución de las criaturas mortales, los Portadores de Vida proporcionan el cuerpo físico, mientras que el Espíritu Creativo aporta el "soplo de vida". [LU 34:2.5](/es/The_Urantia_Book/34#p2_5)
-4. El propósito del ministerio del Espíritu es proporcionar fuerza para el "hombre interior". [LU 34:6.10](/es/The_Urantia_Book/34#p6_10)
-5. La presencia del Espíritu divino es el "agua de vida". [LU 34:6.8](/es/The_Urantia_Book/34#p6_8)
+3. En la evolución de las criaturas mortales, los Portadores de Vida proporcionan el cuerpo físico, mientras que el Espíritu Creativo aporta el «soplo de vida». [LU 34:2.5](/es/The_Urantia_Book/34#p2_5)
+4. El propósito del ministerio del Espíritu es proporcionar fuerza para el «hombre interior». [LU 34:6.10](/es/The_Urantia_Book/34#p6_10)
+5. La presencia del Espíritu divino es el «agua de vida». [LU 34:6.8](/es/The_Urantia_Book/34#p6_8)
 6. El Espíritu nunca fuerza, solo guía. [LU 34:6.11](/es/The_Urantia_Book/34#p6_11)
-7. La dominación del espíritu produce los "frutos del espíritu". [LU 34:6.13](/es/The_Urantia_Book/34#p6_13)
+7. La dominación del espíritu produce los «frutos del espíritu». [LU 34:6.13](/es/The_Urantia_Book/34#p6_13)
 8. El amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza son los frutos del espíritu. [LU 34:6.13](/es/The_Urantia_Book/34#p6_13)
 9. El espíritu de la Ministra Divina y el Espíritu de la Verdad trabajan con el hombre como uno solo. [LU 34:5.4](/es/The_Urantia_Book/34#p5_4)
 

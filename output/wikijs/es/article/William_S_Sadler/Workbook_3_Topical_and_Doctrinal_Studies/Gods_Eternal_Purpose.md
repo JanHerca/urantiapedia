@@ -33,7 +33,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. Lo finito existe debido al propósito eterno
 	> «Los reinos de lo finito existen por virtud del propósito eterno de Dios. Las criaturas finitas, altas y bajas, pueden proponer teorías, y lo han hecho, en cuanto a la necesidad de lo finito en la economía cósmica, pero en último análisis, existe porque Dios lo quiso. No se puede explicar el universo, tampoco puede una criatura finita ofrecer una razón racional de su propia exitencia individual sin apelar a los actos previos y a la volición preexistente de los seres ancestrales: Creadores y procreadores.» [LU 115:1.4](/es/The_Urantia_Book/115#p1_4)
 3. El propósito eterno es alcanzable por todos
-	> “Hay en la mente de Dios un plan que involucra a cada criatura de todos sus vastos dominios, y este plan consiste en un propósito eterno de oportunidades ilimitadas, progreso sin límites, y una vida sin fin. ¡Y los tesoros infinitos de esa carrera tan inigualable son vuestros con solo luchar!
+	> «Hay en la mente de Dios un plan que involucra a cada criatura de todos sus vastos dominios, y este plan consiste en un propósito eterno de oportunidades ilimitadas, progreso sin límites, y una vida sin fin. ¡Y los tesoros infinitos de esa carrera tan inigualable son vuestros con solo luchar!
 	> 
 	>  «¡El objetivo de la eternidad os aguarda! ¡La aventura del logro de la divinidad se encuentra frente a vosotros! ¡La carrera por la perfección está en marcha! Quienquiera lo desee puede correr, y la victoria certera coronará los esfuerzos de cada ser humano que participe en la carrera de la fe y la esperanza, dependiendo a cada paso de la dirección del Ajustador residente y de la guía de ese buen espíritu del Hijo del Universo, que generosamente ha sido derramado sobre toda la carne.» [LU 32:5.7](/es/The_Urantia_Book/32#p5_7)
 
@@ -53,7 +53,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Todas las cosas se desarrollan según el propósito eterno
 	> «Dentro de los límites de lo que es consecuente con la naturaleza divina, es literalmente cierto que «con Dios todas las cosas son posibles». El lento y prolongado proceso de pueblos, planetas y universos está bajo el perfecto control de los creadores y administradores universales y se desarrolla de acuerdo con el eterno propósito del Padre Universal, procediendo en armonía y orden y en conformidad con el omnisapiente plan de Dios. Sólo existe un único legislador. Él sostiene los mundos en el espacio y hace girar los universos en torno al infinito círculo del circuito eterno.» [LU 3:2.2](/es/The_Urantia_Book/3#p2_2) [Mt 19:26](/es/Bible/Matthew/19#v26).
 2. La ejecución diferencial del propósito eterno
-	> “Tal vez parezca que las reacciones de un Dios inmutable, en la ejecución de su eterno designio, varían de acuerdo con la actitud cambiante y las mentes volubles de sus inteligencias creadas; es decir, que pueden variar aparente y superficialmente; pero debajo de la superficie y más allá de todas las manifestaciones externas, se mantiene presente el propósito inmutable, el plan sempiterno, del Dios eterno.
+	> «Tal vez parezca que las reacciones de un Dios inmutable, en la ejecución de su eterno designio, varían de acuerdo con la actitud cambiante y las mentes volubles de sus inteligencias creadas; es decir, que pueden variar aparente y superficialmente; pero debajo de la superficie y más allá de todas las manifestaciones externas, se mantiene presente el propósito inmutable, el plan sempiterno, del Dios eterno.
 	> 
 	> «Allá en los universos, la perfección ha de ser necesariamente un término relativo, pero en el universo central y especialmente en el Paraíso, la perfección no está diluida; en ciertas fases llega a ser absoluta. Las manifestaciones de la Trinidad varían la exposición de la perfección divina, pero no la atenuan.» [LU 2:2.3](/es/The_Urantia_Book/2#p2_3)
 3. ¿Quién conoce realmente el propósito eterno?
@@ -88,7 +88,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > «Según el previo designio del que realiza todo conforme a la decisión de su voluntad.» [Ef 1:11](/es/Bible/Ephesians/1#v11).
 > 
-> «Lo decidí y no me retractaré.» [Jer 4:28](/es/Bible/Jeremiah/4#v28). Cristo Jesús, Señor nuestro.” [Ef 3:11](/es/Bible/Ephesians/3#v11).
+> «Lo decidí y no me retractaré.» [Jer 4:28](/es/Bible/Jeremiah/4#v28). Cristo Jesús, Señor nuestro.» [Ef 3:11](/es/Bible/Ephesians/3#v11).
 > 
 > «Dándonos a conocer el Misterio de su voluntad según el benévolo designio que en él se propuso de antemano.» [Ef 1:9](/es/Bible/Ephesians/1#v9).
 > 
@@ -116,7 +116,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > «Para realizar lo que en tu poder y en tu sabiduría habías predeterminado que sucediera.» [Hch 4:28](/es/Bible/Acts_of_the_Apostles/4#v28). [Ef 3:11](/es/Bible/Ephesians/3#v11).
 > 
-> “Pero vosotros sois una raza elegida, un clero real, una nación sagrada, de Dios.
+> «Pero vosotros sois una raza elegida, un clero real, una nación sagrada, de Dios.
 
 ### III. LA ELECCIÓN
 
@@ -136,7 +136,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 A pesar de todas estas enseñanzas sobre la predestinación y la elección, Jesús proclamó sin cesar: "Todo el que quiera puede venir".
 
-**Nota respecto al Plan de Perfección:** El mandato de Jesús —”Por lo tanto, sean perfectos como es perfecto el Padre que está en el cielo.” ([Mt 5:48](/es/Bible/Matthew/5#v48))—fue presagiado por el mandamiento del Viejo Testamento—”Porque yo soy el Señor, su Dios, y ustedes tienen que santificarse y ser santos, porque yo soy santo.” ([Lv 11:44](/es/Bible/Leviticus/11#v44)).
+**Nota respecto al Plan de Perfección:** El mandato de Jesús —«Por lo tanto, sean perfectos como es perfecto el Padre que está en el cielo.» ([Mt 5:48](/es/Bible/Matthew/5#v48))—fue presagiado por el mandamiento del Viejo Testamento—«Porque yo soy el Señor, su Dios, y ustedes tienen que santificarse y ser santos, porque yo soy santo.» ([Lv 11:44](/es/Bible/Leviticus/11#v44)).
 
 
 <br>

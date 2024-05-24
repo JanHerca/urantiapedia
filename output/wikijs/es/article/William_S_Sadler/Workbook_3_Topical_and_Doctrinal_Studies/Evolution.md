@@ -70,7 +70,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	2. La aparición simultánea de las seis razas de color. [LU 65:4.7](/es/The_Urantia_Book/65#p4_7)
 9. El fallo en obtener más del plasma vital adámico predispuso a la raza humana a muchas enfermedades. [LU 65:5.2](/es/The_Urantia_Book/65#p5_2)
 10. Desde 1934 d. de J.C., el nacimiento de los primeros seres humanos ocurrió hace 993.419 años. [LU 62:5.1](/es/The_Urantia_Book/62#p5_1)
-11. El color de la raza humana amalgamada es de una tonalidad aceitunada del color violeta, el "blanco" racial. [LU 52:3.7](/es/The_Urantia_Book/52#p3_7)
+11. El color de la raza humana amalgamada es de una tonalidad aceitunada del color violeta, el «blanco» racial. [LU 52:3.7](/es/The_Urantia_Book/52#p3_7)
 12. El ascenso del hombre a partir de las algas marinas hasta el señorío terrenal es un romance de la supervivencia biológica. [LU 65:2.1](/es/The_Urantia_Book/65#p2_1)
 13. La vida de la criatura evolutiva está acechada por ciertas inevitabilidades:
 	1. Valor.

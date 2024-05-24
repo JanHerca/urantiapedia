@@ -28,17 +28,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ### I. EL DISCURSO DE JESÚS SOBRE LA MENTE
 
-> “Hijo mío, ya te he hablado mucho de la mente del hombre y del espíritu divino que vive dentro de la mente, pero ahora permíteme acentuar el que la autoconciencia es una realidad. Cuando un animal desarrolla una conciencia de sí mismo, se convierte en un hombre primitivo. Esta evolución deriva de una coordinación de funciones entre la energía impersonal y la mente capaz de concebir el espíritu, y es este fenómeno el que justifica el otorgamiento de un punto focal absoluto para la personalidad humana: el espíritu del Padre celestial.
+> «Hijo mío, ya te he hablado mucho de la mente del hombre y del espíritu divino que vive dentro de la mente, pero ahora permíteme acentuar el que la autoconciencia es una realidad. Cuando un animal desarrolla una conciencia de sí mismo, se convierte en un hombre primitivo. Esta evolución deriva de una coordinación de funciones entre la energía impersonal y la mente capaz de concebir el espíritu, y es este fenómeno el que justifica el otorgamiento de un punto focal absoluto para la personalidad humana: el espíritu del Padre celestial.
 > 
-> “Las ideas no son tan sólo un registro de las sensaciones. Las ideas son sensaciones más las interpretaciones reflexivas del yo personal; y el yo es más que la suma de las sensaciones. Comienza a haber un acercamiento a la unidad en un yo evolutivo, y esa unidad se deriva de la presencia residente de una parte de la unidad absoluta que activa espiritualmente a esa mente autoconsciente de origen animal.
+> «Las ideas no son tan sólo un registro de las sensaciones. Las ideas son sensaciones más las interpretaciones reflexivas del yo personal; y el yo es más que la suma de las sensaciones. Comienza a haber un acercamiento a la unidad en un yo evolutivo, y esa unidad se deriva de la presencia residente de una parte de la unidad absoluta que activa espiritualmente a esa mente autoconsciente de origen animal.
 > 
-> “Los animales no podrían poseer una autoconciencia temporal. Los animales poseen una coordinación fisiológica de la asociación del reconocimiento de los sensaciones y la memoria de éstas, pero ningún animal experimenta aquel reconocimiento de las sensaciones que discierne su significado ni muestra aquella asociación de estas experiencias físicas combinadas que ve su propósito, tal como se manifiesta en las conclusiones de las interpretaciones humanas inteligentes y reflexivas. Y este hecho de una existencia autoconsciente, asociado con la realidad de su subsecuente experiencia espiritual, constituye al hombre como un hijo potencial del universo y prefigura su alcance final de la Suprema Unidad del universo.
+> «Los animales no podrían poseer una autoconciencia temporal. Los animales poseen una coordinación fisiológica de la asociación del reconocimiento de los sensaciones y la memoria de éstas, pero ningún animal experimenta aquel reconocimiento de las sensaciones que discierne su significado ni muestra aquella asociación de estas experiencias físicas combinadas que ve su propósito, tal como se manifiesta en las conclusiones de las interpretaciones humanas inteligentes y reflexivas. Y este hecho de una existencia autoconsciente, asociado con la realidad de su subsecuente experiencia espiritual, constituye al hombre como un hijo potencial del universo y prefigura su alcance final de la Suprema Unidad del universo.
 > 
-> “Pero el yo humano no es meramente la suma de estados de conciencia sucesivos. No habría, sin el funcionamiento eficaz de un clasificador y asociador de la conciencia, unidad suficiente para justificar la designación de un yo. Tal mente no unificada difícilmente podría alcanzar los niveles de conciencia que pertenecen al estado humano. Si las asociaciones mentales en la conciencia fueran simplemente un accidente, exhibiría la mente de todos los mortales las asociaciones incontroladas y al azar de ciertas fases de locura mental.
+> «Pero el yo humano no es meramente la suma de estados de conciencia sucesivos. No habría, sin el funcionamiento eficaz de un clasificador y asociador de la conciencia, unidad suficiente para justificar la designación de un yo. Tal mente no unificada difícilmente podría alcanzar los niveles de conciencia que pertenecen al estado humano. Si las asociaciones mentales en la conciencia fueran simplemente un accidente, exhibiría la mente de todos los mortales las asociaciones incontroladas y al azar de ciertas fases de locura mental.
 > 
-> “Una mente humana construida tan sólo sobre la base de la conciencia de las sensaciones físicas, no podría alcanzar nunca los niveles espirituales; este tipo de mente material carecería totalmente de valores morales y del sentido de orientación dominado por el espíritu que es tan esencial para lograr una unidad armoniosa de la personalidad en el tiempo, y que es inseparable de la supervivencia de la personalidad en la eternidad.
+> «Una mente humana construida tan sólo sobre la base de la conciencia de las sensaciones físicas, no podría alcanzar nunca los niveles espirituales; este tipo de mente material carecería totalmente de valores morales y del sentido de orientación dominado por el espíritu que es tan esencial para lograr una unidad armoniosa de la personalidad en el tiempo, y que es inseparable de la supervivencia de la personalidad en la eternidad.
 > 
-> “La mente humana comienza desde muy temprano a manifestar cualidades que son supermateriales; el intelecto humano verdaderamente reflexivo no está completamente sujeto a las limitaciones del tiempo. Que los individuos difieran tanto en su actuación en la vida, indica, no sólo las variables dotes hereditarias y las diferentes influencias del medio ambiente, sino también el grado de unificación que el yo ha logrado con el espíritu residente del Padre, la medida de la identificación del uno con el otro.
+> «La mente humana comienza desde muy temprano a manifestar cualidades que son supermateriales; el intelecto humano verdaderamente reflexivo no está completamente sujeto a las limitaciones del tiempo. Que los individuos difieran tanto en su actuación en la vida, indica, no sólo las variables dotes hereditarias y las diferentes influencias del medio ambiente, sino también el grado de unificación que el yo ha logrado con el espíritu residente del Padre, la medida de la identificación del uno con el otro.
 > 
 > «La mente humana no soporta bien el conflicto de una doble lealtad. Es un peso muy grande para el alma sufrir la experiencia de esforzarse por servir al bien y al mal a la vez. La mente supremamente feliz y eficazmente unificada es aquella dedicada por entero a hacer la voluntad del Padre celestial. Los conflictos no resueltos destruyen la unidad y pueden dar lugar a la dislocación de la mente. Pero el carácter de supervivencia del alma no se alimenta intentando asegurar la paz mental a cualquier precio, abandonando nobles aspiraciones o comprometiendo ideales espirituales; más bien tal paz se alcanza por la afirmación decidida del triunfo de lo que es verdadero, y esta victoria se logra venciendo el mal con la poderosa fuerza del bien.» [LU 133:7.6](/es/The_Urantia_Book/133#p7_6)
 
@@ -47,17 +47,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. La naturaleza de la mente
 	> «_La mente_ es un fenómeno que connota la actividad presencia del _ministerio viviente,_ además de variados sistemas de energía; y esto es así en todos los niveles de la inteligencia. En la personalidad, la mente interviene constantemente entre el espíritu y la materia; por lo tanto tres tipos de luz iluminan el universo: la luz material, el discernimiento intelectual y la luminosidad del espíritu.» [LU 0:6.8](/es/The_Urantia_Book/0#p6_8)
 2. La mente mortal, un telar cósmico
-	> “La mente material del hombre mortal es el telar cósmico que lleva el tejido morontial sobre el cual el Ajustador del Pensamiento residente teje los diseños espirituales de un carácter universal de valores duraderos y significados divinos —un alma sobreviviente de destino último y carrera sin fin, un finalista potencial.
+	> «La mente material del hombre mortal es el telar cósmico que lleva el tejido morontial sobre el cual el Ajustador del Pensamiento residente teje los diseños espirituales de un carácter universal de valores duraderos y significados divinos —un alma sobreviviente de destino último y carrera sin fin, un finalista potencial.
 	> 
 	> «La personalidad humana se identifica con la mente y el espíritu, vinculados en enlace funcional por la vida en un cuerpo material. Este enlace funcional de mente y espíritu no da como resultado una combinación de las cualidades o atributos de la mente y del espíritu, sino más bien da un valor universal enteramente nuevo, original y único de perduración potencialmente eterna: el _alma._» [LU 111:2.2](/es/The_Urantia_Book/111#p2_2)
 3. Los siete espíritus ayudantes de la mente
-	> “Los siete espíritus ayudantes de la mente son los versátiles ministros de la mente que sirven a los entes inteligentes inferiores del universo local. Se atiende a este orden de mente desde la sede central del universo local o desde algún mundo comunicado con ella, pero desde las capitales de los sistemas proviene orientación que influye en la función de la mente inferior.
+	> «Los siete espíritus ayudantes de la mente son los versátiles ministros de la mente que sirven a los entes inteligentes inferiores del universo local. Se atiende a este orden de mente desde la sede central del universo local o desde algún mundo comunicado con ella, pero desde las capitales de los sistemas proviene orientación que influye en la función de la mente inferior.
 	> 
 	> «En un mundo evolucionario muchísimo depende de la labor de estos siete ayudantes. Pero son ministros de la mente; no se ocupan de la evolución física, siendo ésta el dominio de los Portadores de Vida. No obstante, la integración perfecta de estas dotaciones del espíritu con el procedimiento natural y ordenado del régimen inherente en desarrollo de los Portadores de Vida es la causa de la incapacidad del mortal para discernir en el fenómeno de la mente nada más que las obras de la naturaleza y el funcionamiento de los procesos naturales; si bien, ocasionalmente, os quedáis un tanto perplejos al explicaros todo cuanto está relacionado con las reacciones naturales de la mente respecto a su asociación con la materia. Y si Urantia operara más de acuerdo con los planes originales, observaríais aún menos cosas que os llamaran la atención en el fenómeno de la mente.» [LU 65:7.1](/es/The_Urantia_Book/65#p7_1) [Is 11:2-3](/es/Bible/Isaiah/11#v2).
 4. La mente superconsciente
 	> «Sólo en los niveles más elevados de la mente superconsciente a medida que se inmiscuye en el mundo espiritual de la experiencia humana, podéis encontrar esos conceptos más elevados en asociación con los modelos originales eficaces que contribuirán a la construcción de una civilización mejor y más duradera. La personalidad es inherentemente creadora, pero funciona así tan sólo en la vida interior del individuo.» [LU 111:4.5](/es/The_Urantia_Book/111#p4_5)
 5. La mente mortal mancillada
-	> “La mente, en Urantia, es un avenimiento entre la esencia de perfección del pensamiento y la mentalidad evolutiva de vuestra naturaleza inmadura humana. El plan para vuestra evolución intelectual es, ciertamente, de perfección sublime, pero vosotros mucho distáis de esa meta divina mientras funcionáis en el tabernáculo de la carne. La mente es verdaderamente de origen divino, y tiene un destino divino, pero vuestras mentes mortales no han alcanzado aún la dignidad divina.
+	> «La mente, en Urantia, es un avenimiento entre la esencia de perfección del pensamiento y la mentalidad evolutiva de vuestra naturaleza inmadura humana. El plan para vuestra evolución intelectual es, ciertamente, de perfección sublime, pero vosotros mucho distáis de esa meta divina mientras funcionáis en el tabernáculo de la carne. La mente es verdaderamente de origen divino, y tiene un destino divino, pero vuestras mentes mortales no han alcanzado aún la dignidad divina.
 	> 
 	> «Muy frecuentemente, demasiado frequentemente desfiguráis vuestras mentes con la insinceridad y las marchitáis con la maldad; las sometéis a los temores animales y las distorsionáis con ansiedades inútiles. Por lo tanto, aunque la fuente de la mente sea divina, la mente tal como la conocéis en vuestro mundo de ascensión, difícilmente puede llegar a ser objeto de gran admiración, y mucho menos de adoración o culto. La contemplación del inmaduro e inactivo intelecto humano debería llevar tan sólo a reacciones de humildad.» [LU 9:5.6](/es/The_Urantia_Book/9#p5_6)
 6. Evaluación comparativa de la mente humana
@@ -68,7 +68,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. La capacidad de aprender
 	> «La adquisición del potencial de la capacidad de _aprender_ de la experiencia señala el comienzo del funcionamiento de los espíritus ayudantes, y estos funcionan desde las mentes inferiores de los entes primitivos e invisibles hasta los tipos superiores en la escala evolucionaria de los seres humanos. Los ayudantes son la fuente y el modelo original para la conducta de la mente, que viene a ser algo misteriosa en las rápidas reacciones al medio ambiente material, las cuales no se alcanzan a comprender del todo. Han de pasar mucho tiempo estas influencias fieles y siempre seguras, llevando adelante su servicio preliminar antes de que la mente animal alcance los niveles humanos de la receptividad en cuanto al espíritu.» [LU 65:7.6](/es/The_Urantia_Book/65#p7_6)
 2. Las funciones de la mente humana
-	> “La evolución de los mecanismos implica e indica la presencia y dominación ocultas de la mente creadora. La habilidad del intelecto mortal para concebir, diseñar y crear mecanismos automáticos demuestra las cualidades superiores, creadoras y concertadas de la mente del hombre como influencia dominante en el planeta. La mente siempre anhela:
+	> «La evolución de los mecanismos implica e indica la presencia y dominación ocultas de la mente creadora. La habilidad del intelecto mortal para concebir, diseñar y crear mecanismos automáticos demuestra las cualidades superiores, creadoras y concertadas de la mente del hombre como influencia dominante en el planeta. La mente siempre anhela:
 	> 
 	> 1. La creación de mecanismos materiales.
 	> 
@@ -82,7 +82,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	> 
 	> 6. El logro de niveles espirituales.
 	> 
-	> 7. El cumplimiento de los destinos divinos: supremo, último y absoluto.” [LU 42:12.1](/es/The_Urantia_Book/42#p12_1)
+	> 7. El cumplimiento de los destinos divinos: supremo, último y absoluto.» [LU 42:12.1](/es/The_Urantia_Book/42#p12_1)
 3. La mente como coordinadora de las realidades
 	> «La mente es la técnica por medio de la cual las realidades espirituales se hacen experienciales para las criaturas con personalidad. Y en último análisis, las posibilidades unificadoras incluso de la mente humana, la capacidad de coordinar cosas, ideas y valores, es supermaterial.» [LU 12:8.8](/es/The_Urantia_Book/12#p8_8)
 4. Las extensas relaciones de la mente
@@ -102,13 +102,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ### V. LA MENTE CÓSMICA
 
 1. La mente cósmica
-	> “_La mente cósmica._ Esta es la mente séptuple diversificada del espacio y el tiempo, cada fase de la cual es ministrada por cada uno de los Siete Espíritus Rectores de uno de los siete superuniversos. La mente cósmica comprende todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolucionaria de la Mente Suprema y trascendentalmente con los niveles existenciales de la mente absoluta —los circuitos directos del Actor Conjunto." [LU 42:10.6](/es/The_Urantia_Book/42#p10_6)
+	> «_La mente cósmica._ Esta es la mente séptuple diversificada del espacio y el tiempo, cada fase de la cual es ministrada por cada uno de los Siete Espíritus Rectores de uno de los siete superuniversos. La mente cósmica comprende todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolucionaria de la Mente Suprema y trascendentalmente con los niveles existenciales de la mente absoluta —los circuitos directos del Actor Conjunto." [LU 42:10.6](/es/The_Urantia_Book/42#p10_6)
 2. La mente evolutiva y la mente cósmica
 	> «Cuando una mente en evolución se sincroniza con los circuitos de la mente cósmica, cuando un universo en evolución se vuelve estabilizado según el modelo original del universo central, cuando un espíritu en avance se pone en contacto con el ministerio unido de los Espíritus Rectores, cuando una personalidad mortal ascendente finalmente se sincroniza con la guía divina del Ajustador residente, entonces la actualidad del Supremo se torna un grado más real en los universos; entonces la divinidad de la Supremacía ha avanzado un paso más hacia la realización cósmica.» [LU 117:0.3](/es/The_Urantia_Book/117#p0_3)
-3. Los "espíritus afines" explicados mediante la mente cósmica
+3. Los «espíritus afines» explicados mediante la mente cósmica
 	> «El hecho de la mente cósmica explica la similitud de varios tipos de mentes humanas y superhumanas. No sólo hay atracción entre los espíritus semejantes, sino que las mentes semejantes también son muy fraternales y se inclinan a la cooperación las unas con las otras. Se han observado algunas mentes humanas que funcionan en canales de sorprendente similitud y en un acuerdo inexplicable.» [LU 16:6.3](/es/The_Urantia_Book/16#p6_3)
 4. La mente anticipa la causa y el efecto
-	> “La respuesta selectiva de un animal se limita al nivel motor de conducta. El supuesto discernimiento de los animales más elevados está en un nivel motor y generalmente aparece tan sólo después de la experiencia motora de prueba y error. El hombre es capaz de ejercer discernimiento científico, moral y espiritual antes de toda exploración o experimentación.
+	> «La respuesta selectiva de un animal se limita al nivel motor de conducta. El supuesto discernimiento de los animales más elevados está en un nivel motor y generalmente aparece tan sólo después de la experiencia motora de prueba y error. El hombre es capaz de ejercer discernimiento científico, moral y espiritual antes de toda exploración o experimentación.
 	> 
 	> «Tan sólo una personalidad puede reconocer lo que hace antes de hacerlo; tan sólo personalidades poseen el discernimiento antes de la experiencia. Una personalidad puede observar antes de saltar y por lo tanto puede aprender de la observación así como de la acción de saltar. Un animal sin personalidad generalmente aprende sólo saltando.» [LU 16:7.2](/es/The_Urantia_Book/16#p7_2)
 
@@ -175,7 +175,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	> 
 	> «Yo mismo con la mente sirvo a la ley de Dios.» [Ro 7:25](/es/Bible/Romans/7#v25).
 3. Motivación
-	> “Porque si primero está la voluntad dispuesta, será aceptado según lo que uno tiene, no según lo que no tiene. [2 Cor 8:12](/es/Bible/2_Corinthians/8#v12)
+	> «Porque si primero está la voluntad dispuesta, será aceptado según lo que uno tiene, no según lo que no tiene. [2 Cor 8:12](/es/Bible/2_Corinthians/8#v12)
 4. Autocontrol
 	> «Por tanto, ceñid los lomos de vuestro entendimiento, sed sobrios.» [1 P 1:13](/es/Bible/1_Peter/1#v13).
 	> 
@@ -210,7 +210,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ### II. CORAZÓN
 
-Corazón, alma y espíritu se usan a menudo en la Biblia como sinónimos. La palabra "corazón" comprende las emociones y sentimientos humanos.
+Corazón, alma y espíritu se usan a menudo en la Biblia como sinónimos. La palabra «corazón» comprende las emociones y sentimientos humanos.
 
 1. Servir a Dios con todo el corazón
 	> «Ahora... ¿qué pide de ti Jehová, tu Dios, sino que temas a Jehová, tu Dios, que andes en todos sus caminos, que ames y sirvas a Jehová, tu Dios, con todo tu corazón y con toda tu alma?» [Dt 10:12](/es/Bible/Deuteronomy/10#v12).
@@ -322,7 +322,7 @@ Conciencia se usa 30 veces en el Nuevo Testamento, y parece significar «conocim
 8. El nacimiento espiritual
 	> «Lo que nace del Espíritu, espíritu es.» [Jn 3:6](/es/Bible/John/3#v6).
 	> 
-	> «Respondió Jesús: 'De cierto, de cierto te digo que el que no nace de agua y del Espíritu no puede entrar en el reino de Dios.'» [Jn 3:5](/es/Bible/John/3#v5).
+	> «Respondió Jesús: ‘De cierto, de cierto te digo que el que no nace de agua y del Espíritu no puede entrar en el reino de Dios.’» [Jn 3:5](/es/Bible/John/3#v5).
 9. El Espíritu de la verdad
 	> «Cuando venga el Espíritu de verdad, él os guiará a toda la verdad.» [Jn 3:5](/es/Bible/John/3#v5).
 10. El espíritu del hombre—el temperamento

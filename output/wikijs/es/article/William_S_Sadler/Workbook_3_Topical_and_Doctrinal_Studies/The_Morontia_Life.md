@@ -176,7 +176,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. La morontia y la experiencia de la supervivencia
 	> «La fase morontial de la religión revelada tiene que ver con la _experiencia de supervivencia,_ y su gran impulso consiste en el logro de la perfección del espíritu. También existe un ímpetu más elevado a la adoración asociado con un llamado poderoso a un mayor servicio ético. El discernimiento morontial facilita una conciencia, cada vez más amplia, del Séptuple, el Supremo y aun el Último.» [LU 101:6.1](/es/The_Urantia_Book/101#p6_1)
 2. En la morontia, la seguridad de la verdad reemplaza la seguridad de la fe
-	> "Cada vez más a lo largo de la progresión morontial la seguridad de la verdad va reemplazando la seguridad de la fe. Cuando finalmente seas llamado a las filas del verdadero mundo espiritual, las seguridades del discernimiento espiritual puro operarán en lugar de la fe y de la verdad o, más bien, juntamente con estas técnicas previas de seguridad de la personalidad, y superpuestas a ellas.” [LU 101:5.14](/es/The_Urantia_Book/101#p5_14)
+	> "Cada vez más a lo largo de la progresión morontial la seguridad de la verdad va reemplazando la seguridad de la fe. Cuando finalmente seas llamado a las filas del verdadero mundo espiritual, las seguridades del discernimiento espiritual puro operarán en lugar de la fe y de la verdad o, más bien, juntamente con estas técnicas previas de seguridad de la personalidad, y superpuestas a ellas.» [LU 101:5.14](/es/The_Urantia_Book/101#p5_14)
 3. Los Ajustadores y la vida morontial
 	> «Los Ajustadores del Pensamiento son los hijos de la carrera universal, y en efecto los Ajustadores vírgenes deben ganar experiencia mientras que las criaturas mortales crecen y se desarrollan. Así como la personalidad del niño humano se expande para prepararse para las luchas de la existencia evolucionaria, del mismo modo el Ajustador se hace grande en los ensayos para la próxima etapa de la vida ascendente. Así como el niño adquiere versatilidad de adaptación para sus actividades adultas mediante la vida social y de juego de la primera infancia, del mismo modo el Ajustador residente logra pericia para la próxima etapa de vida cósmica por virtud del planeamiento y ensayo mortal preliminar de estas actividades que tienen que ver con la carrera morontial. La existencia humana constituye un período de práctica que el Ajustador utiliza efectivamente en la preparación para las responsabilidades aumentadas y las mayores oportunidades de una vida futura. Pero los esfuerzos del Ajustador, mientras vive dentro de ti, no se ocupan tanto de los asuntos de la vida temporal y de la existencia planetaria. Hoy día los Ajustadores del Pensamiento están ensayando, por decirlo así, las realidades de la carrera universal en la mente evolutiva de los seres humanos.» [LU 109:0.1](/es/The_Urantia_Book/109#p0_1)
 4. La revelación tiende un puente sobre el abismo morontial
@@ -198,17 +198,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	> - a. Los ojos humanos tenían que ser abiertos.
 	> 	«Entonces les fueron abiertos los ojos y lo reconocieron; pero él desapareció de su vista.» [Lc 24:31](/es/Bible/Luke/24#v31).
 	> - b. La forma morontial se aparece de repente.
-	> 	Jesús se puso en medio de ellos y les dijo: ¡Paz a vosotros! Entonces, espantados y atemorizados, pensaban que veían un espíritu. ” [Lc 24:36-37](/es/Bible/Luke/24#v36).
+	> 	Jesús se puso en medio de ellos y les dijo: ¡Paz a vosotros! Entonces, espantados y atemorizados, pensaban que veían un espíritu. » [Lc 24:36-37](/es/Bible/Luke/24#v36).
 	> - c. Desaparece instantáneamente.
 	> 	«Mientras los bendecía, se separó de ellos.» [Lc 24:51](/es/Bible/Luke/24#v51).
 	> - d. El Jesús morontial come pescado.
 	> 	«Les dijo: ‘¿Tenéis aquí algo de comer?’ Entonces le dieron un trozo de pescado asado, y él lo tomó y comió delante de ellos..» [Lc 24:41-43](/es/Bible/Luke/24#v41).
 	> - e. Jesús dijo a María que no le tocara.
-	> 	Jesús le dijo: ‘¡Suéltame!, porque aún no he subido a mi Padre.’” [Jn 20:17](/es/Bible/John/20#v17).
+	> 	Jesús le dijo: ‘¡Suéltame!, porque aún no he subido a mi Padre.’» [Jn 20:17](/es/Bible/John/20#v17).
 	> - f. Llega y se va sin obstáculos.
 	> 	«Estando las puertas cerradas en el lugar donde los discípulos estaban reunidos por miedo de los judíos, llegó Jesús y, puesto en medio, les dijo: ‘¡Paz a vosotros!’» [Jn 20:19](/es/Bible/John/20#v19).
 	> **Nota**: Ocho días después, hizo lo mismo. Vea Juan 20:26.
-3. La morontia puede ser nuestro "tesoro en el cielo"
+3. La morontia puede ser nuestro «tesoro en el cielo»
 	> «Sino haceos tesoros en el cielo, donde ni la polilla ni el moho destruyen, y donde ladrones no entran ni hurtan.» [Mt 6:20](/es/Bible/Matthew/6#v20).
 4. Incluso los seres espirituales pueden ser reales para la visión humana
 	> «No os olvidéis de la hospitalidad, porque por ella algunos, sin saberlo, hospedaron ángeles.» [Heb 13:2](/es/Bible/Hebrews/13#v2).
@@ -332,7 +332,7 @@ Este es un intento de localizar al mortal superviviente a lo largo de la vida mo
 	> - a. Herencias desafortunadas.
 	> - b. Un medio ambiente insalubre.
 	> - c. Tendencias no espirituales.
-5. Se erradica la "marca de la bestia".
+5. Se erradica la «marca de la bestia».
 6. Visita el mundo del Padre y alcanza nuevos niveles de adoración.
 7. Se forman las clases que se gradúan para Jerusem.
 8. Los graduados parten desde el mar de cristal con estatus de residentes. [LU 47:9.1](/es/The_Urantia_Book/47#p9_1)
@@ -340,7 +340,7 @@ Este es un intento de localizar al mortal superviviente a lo largo de la vida mo
 ### IX. LA ESTANCIA EN JERUSEM
 
 1. En todo Jerusem dan la bienvenida a estos graduados, a medida que llegan al mar de cristal con las arpas de Dios.
-2. No hay más "resurrecciones"—ese cuerpo morontial servirá hasta el final de la carrera morontial. [LU 47:10.2](/es/The_Urantia_Book/47#p10_2)
+2. No hay más «resurrecciones»—ese cuerpo morontial servirá hasta el final de la carrera morontial. [LU 47:10.2](/es/The_Urantia_Book/47#p10_2)
 3. Esta forma morontial sufre 570 cambios antes de alcanzar el estado de espíritu de primera etapa. [LU 48:1.5](/es/The_Urantia_Book/48#p1_5)
 4. Hay tiempo para el juego morontial y la comprensión de las ambiciones frustradas.
 5. Las deficiencias (si es que hay) en instrucción paternal se compensan mediante el servicio en los hogares de los Hijos e Hijas Materiales de Jerusem.
@@ -423,7 +423,7 @@ Salvington tiene 490 satélites—10 grupos de 77 mundos primarios, con 6 subsat
 
 1. Los morontiales están dotados con la modificación del universo local de la mente cósmica. Ciertas fases de la mente mortal perduran en el alma superviviente. [LU 112:6.4](/es/The_Urantia_Book/112#p6_4)
 2. Pablo habló de la morontia como la "sustancia mejor y más duradera". [LU 48:1.7](/es/The_Urantia_Book/48#p1_7)
-3. Tras la fusión con el Ajustador se confiere un "nuevo nombre". [LU 47:8.5](/es/The_Urantia_Book/47#p8_5)
+3. Tras la fusión con el Ajustador se confiere un «nuevo nombre». [LU 47:8.5](/es/The_Urantia_Book/47#p8_5)
 
 ### V. LA GUARDERÍA DEL PERIODO DE PRUEBA
 

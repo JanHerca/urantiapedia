@@ -51,7 +51,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. El Hijo Eterno es misericordia—amor aplicado
 	> «Dios es amor, el Hijo es misericordia. La misericordia es amor aplicado, es el amor del Padre en acción en la persona de su Hijo Eterno. El amor de este Hijo Universal es asímismo universal. Si pensamos en el concepto de amor como se lo entiende en un planeta con sexos, podemos decir que el amor de Dios es más comparable al amor de un padre, mientras que el amor del Hijo Eterno se asemeja más al afecto de una madre. Ciertamente crudas son estas simples ilustraciones, pero las empleo con la esperanza de transmitir a la mente humana la idea de que existe una diferencia, no en contenido divino sino en calidad y técnicas de expresión, entre el amor del Padre y el amor del Hijo.» [LU 6:3.5](/es/The_Urantia_Book/6#p3_5)
 2. El Hijo Eterno es el gran ministro de la misericordia
-	> “El Hijo participa de la justicia y la rectitud de la Trinidad, pero estas características de divinidad están veladas por la personalización infinita del amor y la misericordia del Padre; el Hijo es la revelación del amor divino a los universos. Tal como Dios es amor, así el Hijo es misericordia. El Hijo no puede amar más que el Padre, pero puede mostrar misericordia a las criaturas de otra manera más, porque no sólo es un creador primordial como el Padre, sino que es también el Hijo Eterno del mismo Padre, participando así de la experiencia de filiación de todos los otros hijos del Padre Universal.
+	> «El Hijo participa de la justicia y la rectitud de la Trinidad, pero estas características de divinidad están veladas por la personalización infinita del amor y la misericordia del Padre; el Hijo es la revelación del amor divino a los universos. Tal como Dios es amor, así el Hijo es misericordia. El Hijo no puede amar más que el Padre, pero puede mostrar misericordia a las criaturas de otra manera más, porque no sólo es un creador primordial como el Padre, sino que es también el Hijo Eterno del mismo Padre, participando así de la experiencia de filiación de todos los otros hijos del Padre Universal.
 	> 
 	> «El Hijo Eterno es el gran ministro de la misericordia a toda la creación. La misericordia es la esencia del carácter espiritual del Hijo. Los mandatos del Hijo Eterno, tal como salen de los circuitos espirituales de la Segunda Fuente y Centro, son afinados en las notas de la misericordia.» [LU 6:3.1](/es/The_Urantia_Book/6#p3_1)
 3. El Espíritu Infinito también es un ministro de la misericordia
@@ -80,9 +80,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 7. La bondad y la misericordia nos acompañan
 	> «Tu bondad y tu gracia me acompañan a lo largo de mi vida» [Sal 23:6](/es/Bible/Psalms/23#v6).
 8. El Salmo de la Misericordia
-	> Cada uno de los veinticinco versos del Salmo 136 acaban con: "Porque es eterno su amor".
+	> Cada uno de los veinticinco versos del Salmo 136 acaban con: «Porque es eterno su amor».
 	> 
-	> Otros pasajes en los que "misericordia" se ha traducido por "amor" son: [Sal 25:10](/es/Bible/Psalms/25#v10); [57:10](/es/Bible/Psalms/57#v10); [85:10](/es/Bible/Psalms/85#v10); [130:7](/es/Bible/Psalms/130#v7). [Os 6:6](/es/Bible/Hosea/6#v6); [10:12](/es/Bible/Hosea/10#v12).
+	> Otros pasajes en los que «misericordia» se ha traducido por «amor» son: [Sal 25:10](/es/Bible/Psalms/25#v10); [57:10](/es/Bible/Psalms/57#v10); [85:10](/es/Bible/Psalms/85#v10); [130:7](/es/Bible/Psalms/130#v7). [Os 6:6](/es/Bible/Hosea/6#v6); [10:12](/es/Bible/Hosea/10#v12).
 9. El misericordioso recibirá misericordia
 	> «Felices los misericordiosos, porque obtendrán misericordia.» [Mt 5:7](/es/Bible/Matthew/5#v7).
 10. Deberíamos mostrar misericordia con alegría

@@ -53,27 +53,27 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. La providencia actúa respecto al todo
 	> «Dios ama a cada criatura como a un hijo, y ese amor acompaña a cada criatura a lo largo de todo el tiempo y de la eternidad. La providencia funciona respecto al total y trata de la función de cualquier criatura en cuanto tal función esté relacionada con el total. La intervención providencial respecto de un ser específico es indicativa de la importancia de la _función_ de ese ser en cuanto al crecimiento evolucionario de algún total; dicho total puede ser la raza total, la nación total, el planeta total o aun un total más elevado. Es la importancia de la función de la criatura la que ocasiona la intervención providencial, no la importancia de la criatura como persona.» [LU 118:10.5](/es/The_Urantia_Book/118#p10_5)
 4. Nuestras ideas erróneas acerca de la providencia
-	> “Sin embargo, el Padre como persona puede en cualquier momento interponer una mano paterna en la corriente de los acontecimientos cósmicos, todo de acuerdo con la voluntad de Dios y en consonancia con la sabiduría de Dios y motivado por el amor de Dios.
+	> «Sin embargo, el Padre como persona puede en cualquier momento interponer una mano paterna en la corriente de los acontecimientos cósmicos, todo de acuerdo con la voluntad de Dios y en consonancia con la sabiduría de Dios y motivado por el amor de Dios.
 	> 
 	> «Lo que el hombre llama providencia es demasiado frecuentemente el producto de su propia imaginación, la yuxtaposición fortuita de las circunstancias del azar. Existe sin embargo una providencia real y emergente en el reino finito de la existencia universal, una correlación verdadera y actualizante de las energías del espacio, los movimientos del tiempo, los pensamientos del intelecto, los ideales del carácter, los deseos de las naturalezas espirituales y las acciones volitivas determinadas de las personalidades en evolución. Las circunstancias de los mundos materiales encuentran integración finita final en las presencias entrelazadas del Supremo y del Último.» [LU 118:10.6](/es/The_Urantia_Book/118#p10_6)
 5. Lo fácil que es malinterpretar la providencia
 	> «Algunas de las condiciones sorprendentemente fortuitas que ocasionalmente prevalecen en los mundos evolucionarios pueden ser debidas a la presencia en gradual emergencia del Supremo, la anticipación de sus actividades universales futuras. La mayor parte de lo que un mortal llamaría providencial no lo es; su juicio en estos asuntos está muy dificultado por la falta de visión perspicaz en los verdaderos significados de las circunstancias de la vida. Mucho de lo que un mortal llamaría buena suerte puede ser en realidad mala suerte; la sonrisa de la fortuna, que dona tiempo libre no ganado y riqueza no merecida puede ser la mayor de las aflicciones humanas; la crueldad aparente del hado perverso que acumula tribulaciones sobre un mortal sufriente puede ser en realidad un fuego templador que está transmutando el hierro blando de la personalidad inmadura en el acero duro del verdadero carácter.» [LU 118:10.9](/es/The_Urantia_Book/118#p10_9)
 6. La providencia es el supercontrol de la Supremacía
-	> “Existe una providencia en los universos en evolución, y las criaturas pueden descubrirla hasta el punto en que ellas hayan alcanzado la capacidad de percibir el propósito de los universos en evolución. La capacidad completa de discernir los propósitos universales equivale a haber completado la evolución de la criatura y se puede expresar de otra manera como el logro del Supremo dentro de los límites del estado presente de los universos incompletos.
+	> «Existe una providencia en los universos en evolución, y las criaturas pueden descubrirla hasta el punto en que ellas hayan alcanzado la capacidad de percibir el propósito de los universos en evolución. La capacidad completa de discernir los propósitos universales equivale a haber completado la evolución de la criatura y se puede expresar de otra manera como el logro del Supremo dentro de los límites del estado presente de los universos incompletos.
 	> 
 	> «El amor del Padre actúa directamente en el corazón del individuo, independientemente de las acciones o reacciones de todos los demás individuos; la relación es personal —hombre y Dios. La presencia impersonal de la Deidad (el Supremo Todopoderoso y la Trinidad del Paraíso) manifiesta respeto por el todo y no por la parte. La providencia del supercontrol de la Supremacía se vuelve cada vez más aparente a medida que las sucesivas partes del universo progresan en el logro de los destinos finitos. A medida que los sistemas, constelaciones, universos y superuniversos se establecen en luz y vida, el Supremo emerge cada vez más como correlativo significativo de todo lo que ocurre, mientras que el Último emerge gradualmente como unificador trascendental de todas las cosas.» [LU 118:10.10](/es/The_Urantia_Book/118#p10_10)
 7. En la era de luz y vida, la providencia se hace real
 	> «En un planeta de este orden avanzado, la providencia se ha vuelto una actualidad, las circunstancias de la vida están correlacionadas, pero esto no se debe solamente a que el hombre ha llegado a dominar los problemas materiales de su mundo; es también porque ha comenzado a vivir de acuerdo con la tendencia de los universos; está siguiendo el camino de la Supremacía para el logro del Padre Universal.» [LU 118:10.16](/es/The_Urantia_Book/118#p10_16)
 8. De momento, la providencia solo puede ser parcial
-	> “El reino de Dios está en el corazón de los hombres; y cuando este reino se vuelve actual en el corazón de cada individuo de un mundo, la regla de Dios se ha vuelto actual en el planeta; ésta es la soberanía lograda del Ser Supremo.
+	> «El reino de Dios está en el corazón de los hombres; y cuando este reino se vuelve actual en el corazón de cada individuo de un mundo, la regla de Dios se ha vuelto actual en el planeta; ésta es la soberanía lograda del Ser Supremo.
 	> 
 	> «Para realizar la providencia en el tiempo el hombre debe cumplir la tarea de alcanzar la perfección. Pero el hombre aun ahora puede saborear por adelantado esta providencia en sus significados eternos cuando discurre en el hecho universal de que todas las cosas, ya sean buenas o malas, cooperan para el avance de los mortales que conocen a Dios en su búsqueda del Padre de todo.» [LU 118:10.17](/es/The_Urantia_Book/118#p10_17)
 9. El discernimiento espiritual detecta la providencia
 	> «La providencia se vuelve cada vez más discernible a medida que los hombres se dirigen hacia arriba desde lo material a lo espiritual. El logro del discernimiento espiritual completado permite que la personalidad ascendente detecte armonía en lo que hasta ese momento era caos. Aun la mota morontial representa un avance real en esta dirección.» [LU 118:10.19](/es/The_Urantia_Book/118#p10_19)
 10. La providencia y el Supremo incompleto
-	> “La providencia es en parte el supercontrol del Supremo incompleto manifestada en los universos incompletos, y por lo tanto por siempre debe ser:
+	> «La providencia es en parte el supercontrol del Supremo incompleto manifestada en los universos incompletos, y por lo tanto por siempre debe ser:
 	> 
-	> “1. _Parcial —_ debido a la condición incompleta de la actualización del Ser Supremo;
+	> «1. _Parcial —_ debido a la condición incompleta de la actualización del Ser Supremo;
 	> 
 	> «2. _Imprevisible —_ debido a las fluctuaciones de la actitud de la criatura, que por siempre varía de un nivel a otro, causando así aparentemente una respuesta variable recíproca en el Supremo.» [LU 118:10.20](/es/The_Urantia_Book/118#p10_20)
 11. Lo que la providencia significa realmente
@@ -89,7 +89,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ### I. LA PROVIDENCIA EN EL VIEJO TESTAMENTO
 
-Aunque la palabra "providencia" no aparece en el Viejo Testamento, a lo largo de estos escritos la idea predomina como el concepto del "pueblo elegido".
+Aunque la palabra «providencia» no aparece en el Viejo Testamento, a lo largo de estos escritos la idea predomina como el concepto del «pueblo elegido».
 
 > «Vosotros pensasteis hacerme mal, pero Dios lo encaminó a bien.» [Gn 50:20](/es/Bible/Genesis/50#v20).
 > 
@@ -105,7 +105,7 @@ Aunque la palabra "providencia" no aparece en el Viejo Testamento, a lo largo de
 
 ### II. LA PROVIDENCIA EN EL NUEVO TESTAMENTO
 
-En el Nuevo Testamento la palabra "providencia" aparece una vez—en la versión King James—[Hch 24:2](/es/Bible/Acts_of_the_Apostles/24#v2). «Viendo que por ti disfrutamos de gran paz, y muchas buenas obras se han hecho a esta nación por tu providencia.» (en la versión revisada, "providencia" se sustituye por "provisión")
+En el Nuevo Testamento la palabra «providencia» aparece una vez—en la versión King James—[Hch 24:2](/es/Bible/Acts_of_the_Apostles/24#v2). «Viendo que por ti disfrutamos de gran paz, y muchas buenas obras se han hecho a esta nación por tu providencia.» (en la versión revisada, «providencia» se sustituye por «provisión»)
 
 > «Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y, sin embargo, vuestro Padre celestial las alimenta.» [Mt 6:26](/es/Bible/Matthew/6#v26).
 > 

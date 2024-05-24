@@ -83,7 +83,7 @@ Los otorgamientos de encarnación de los Hijos Paradisiacos para las razas morta
 
 ## VIII. LA RELIGIÓN DE LA SUPERVIVENCIA
 
-1. Al embarcarse en el camino de la vida duradera, no teman las limitaciones de la naturaleza humana. En cada encrucijada, el Espíritu de la Verdad dirá—”Este es el camino.” [LU 34:7.8](/es/The_Urantia_Book/34#p7_8)
+1. Al embarcarse en el camino de la vida duradera, no teman las limitaciones de la naturaleza humana. En cada encrucijada, el Espíritu de la Verdad dirá—«Este es el camino.» [LU 34:7.8](/es/The_Urantia_Book/34#p7_8)
 2. Hemos comenzado una progresión sin fin de panorama casi infinito de oportunidad que nunca acaba para una aventura sin par y un logro ilimitado. [LU 108:6.8](/es/The_Urantia_Book/108#p6_8)
 3. Cuando se acumulan las nubles allá arriba, mediante la fe deberíamos mirar más allá de las nieblas de la incertidumbre mortal el brillo claro del sol de la rectitud eterna en las alturas acogedoras de los mundos de estancia de Satania. [LU 108:6.8](/es/The_Urantia_Book/108#p6_8)
 4. El destino presente de los mortales sobrevivientes es el Cuerpo de los Finalistas del Paraíso. [LU 112:7.15](/es/The_Urantia_Book/112#p7_15)

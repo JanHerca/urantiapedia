@@ -61,7 +61,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. Adán y mil doscientos seguidores se dirigieron hacia el segundo jardín. [LU 75:6.2](/es/The_Urantia_Book/75#p6_2)
 2. La pareja supo que habían sido declarados en falta y se habían convertido en seres humanos. [LU 75:7.3](/es/The_Urantia_Book/75#p7_3)
-3. La falta de Adán no fue la "caída del hombre" [LU 75:8.1](/es/The_Urantia_Book/75#p8_1)
+3. La falta de Adán no fue la «caída del hombre» [LU 75:8.1](/es/The_Urantia_Book/75#p8_1)
 4. Adán, cuando llegó al territorio del segundo jardín entre los ríos, lo encontró desocupado. [LU 76:1.2](/es/The_Urantia_Book/76#p1_2)
 
 ## V. CAÍN Y ABEL

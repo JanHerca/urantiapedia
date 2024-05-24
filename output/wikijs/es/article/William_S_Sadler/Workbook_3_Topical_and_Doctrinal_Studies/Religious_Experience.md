@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. La experiencia religiosa no puede nunca ser plenamente comprendida por la mente material [LU 5:5.6](/es/The_Urantia_Book/5#p5_6)
 2. La experiencia religiosa abarca desde lo primitivo hasta la conciencia magnífica de la filiación con Dios. [LU 101:0.1](/es/The_Urantia_Book/101#p0_1)
 3. Evite que su experiencia religiosa se torne egocéntrica. [LU 103:1.3](/es/The_Urantia_Book/103#p1_3)
-4. El nacimiento espiritual puede ser complaciente o "tormentoso". [LU 103:2.1](/es/The_Urantia_Book/103#p2_1)
+4. El nacimiento espiritual puede ser complaciente o «tormentoso». [LU 103:2.1](/es/The_Urantia_Book/103#p2_1)
 5. La experiencia de Dios puede ser válida, aun cuando su teología sea falaz. [LU 103:8.2](/es/The_Urantia_Book/103#p8_2)
 6. La realidad de la experiencia religiosa trasciende la razón, la ciencia, la filosofía y la sabiduría. [LU 103:9.12](/es/The_Urantia_Book/103#p9_12)
 7. La experiencia religiosa personal resuelve eficazmente la mayoria de las dificultades mortales. [LU 196:3.1](/es/The_Urantia_Book/196#p3_1)

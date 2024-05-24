@@ -28,7 +28,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ### INTRODUCCIÓN
 
-La Biblia emplea el término "fe" con cinco significados diferentes.
+La Biblia emplea el término «fe» con cinco significados diferentes.
 
 1. _Fe como una especie de creencia glorificada_—como uno diría, de manera nominal, «soy protestante» o «soy católico».
 2. _Fe sanadora_. La fe asociada con la cura de enfermedades u otros fenómenos naturales.
@@ -39,9 +39,9 @@ La Biblia emplea el término "fe" con cinco significados diferentes.
 ### I. LA FE COMO CREENCIA GLORIFICADA
 
 1. La fe como creencia general en un modo de vida
-	> “Ahora bien, sin fe es imposible agradarle, pues el que se acerca a Dios ha de creer que existe y que recompensa a los que le buscan.
+	> «Ahora bien, sin fe es imposible agradarle, pues el que se acerca a Dios ha de creer que existe y que recompensa a los que le buscan.
 	> 
-	> “Por la fe, Noé, advertido por Dios de lo que aún no se veía, con religioso temor construyó un arca...
+	> «Por la fe, Noé, advertido por Dios de lo que aún no se veía, con religioso temor construyó un arca...
 	> 
 	> «Por la fe, Abraham, al ser llamado por Dios, obedeció y salió para el lugar que había de recibir en herencia.»
 	> 
@@ -49,9 +49,9 @@ La Biblia emplea el término "fe" con cinco significados diferentes.
 2. La fe como perteneciente a la sabiduría y a la vida intelectual
 	> «Si alguno de vosotros está a falta de sabiduría, que la pida a Dios, que da a todos...Pero que la pida con fe, sin vacilar.» [Stg 1:5,6](/es/Bible/James/1#v5).
 3. La fe como dinámica de trabajo
-	> «¿De qué sirve, hermanos míos, que alguien diga: "Tengo fe", si no tiene obras? ¿Acaso podrá salvarle la fe? » [Stg 2:14](/es/Bible/James/2#v14).
+	> «¿De qué sirve, hermanos míos, que alguien diga: «Tengo fe», si no tiene obras? ¿Acaso podrá salvarle la fe? » [Stg 2:14](/es/Bible/James/2#v14).
 4. Una actitud omniabarcante de creencia
-	> «Inmediatamente el padre del niño exclamó: "Creo, ayúdame porque tengo poca fe".» [Mc 9:24](/es/Bible/Mark/9#v24).
+	> «Inmediatamente el padre del niño exclamó: «Creo, ayúdame porque tengo poca fe».» [Mc 9:24](/es/Bible/Mark/9#v24).
 5. Referente a la creencia de grandes grupos de personas
 	> «Los creyentes cada vez en mayor número se adherían al Señor, una multitud de hombres y mujeres.» [Hch 5:14](/es/Bible/Acts_of_the_Apostles/5#v14).
 
@@ -60,7 +60,7 @@ La Biblia emplea el término "fe" con cinco significados diferentes.
 1. La mentalidad milagrosa de los primeros cristianos, que creían en la oración para los enfermos
 	> «Y la oración de la fe salvará al enfermo, y el Señor hará que se levante.» [Stg 5:15](/es/Bible/James/5#v15).
 2. Incluso Jesús relacionó la fe con sus episodios curativos
-	> «Jesús les tocó los ojos, diciendo: "Que suceda como ustedes han creído".» [Mt 9:29](/es/Bible/Matthew/9#v29).
+	> «Jesús les tocó los ojos, diciendo: «Que suceda como ustedes han creído».» [Mt 9:29](/es/Bible/Matthew/9#v29).
 3. La fe se relacionó simbólicamente incluso con el mundo material
 	> «El Señor dijo: «Si tuvierais fe como un grano de mostaza, habríais dicho a este sicómoro: ‘Arráncate y plántate en el mar’, y os habría obedecido.»» [Lc 17:6](/es/Bible/Luke/17#v6).
 
@@ -69,7 +69,7 @@ La Biblia emplea el término "fe" con cinco significados diferentes.
 _El evangelio, su credo, las doctrinas de la Iglesia._
 
 1. La fe como las enseñanzas de la iglesia
-	> «Confortando los ánimos de los discípulos, exhortándoles a perseverar en la fe y diciéndoles: "Es necesario que pasemos por muchas tribulaciones para entrar en el Reino de Dios."» [Hch 14:22](/es/Bible/Acts_of_the_Apostles/14#v22).
+	> «Confortando los ánimos de los discípulos, exhortándoles a perseverar en la fe y diciéndoles: «Es necesario que pasemos por muchas tribulaciones para entrar en el Reino de Dios.»» [Hch 14:22](/es/Bible/Acts_of_the_Apostles/14#v22).
 2. La iglesia —la casa de la fe
 	> «Hagamos el bien a todos, pero especialmente a nuestros hermanos en la fe.» [Gl 6:10](/es/Bible/Galatians/6#v10).
 3. La suma total de la creencia religiosa
@@ -100,7 +100,7 @@ La fe como se emplea en _El libro de Urantia_
 1. La fe definida
 	> «La fe es garantía de lo que se espera; la prueba de las realidades que no se ven.» Heb. 11:1.
 	> 
-	> (La versión más familiar de King James dice: "La fe es la sustancia de lo que se espera, la evidencia de lo que no se ve.”)
+	> (La versión más familiar de King James dice: "La fe es la sustancia de lo que se espera, la evidencia de lo que no se ve.»)
 	> 
 	> «Fijos los ojos en Jesús, el que inicia y consuma la fe.» [Heb 12:2](/es/Bible/Hebrews/12#v2).
 	> 
@@ -123,7 +123,7 @@ _La fe cristiana._ Hay un tipo especial de fe, relacionada con la creencia crist
 3. «Todo proviene de Dios, que nos reconcilió consigo por Cristo.» [2 Cor 5:18](/es/Bible/2_Corinthians/5#v18).
 4. «También Cristo, para llevarnos a Dios, murió una sola vez por los pecados.» [1 P 3:18](/es/Bible/1_Peter/3#v18).
 5. «Creéis en Dios: creed también en mí.» [Jn 14:1](/es/Bible/John/14#v1).
-6. «Simón Pedro respondió: "Tú eres el Mesías, el Hijo de Dios vivo".» [Mt 16:16](/es/Bible/Matthew/16#v16).
+6. «Simón Pedro respondió: «Tú eres el Mesías, el Hijo de Dios vivo».» [Mt 16:16](/es/Bible/Matthew/16#v16).
 
 ## B. _EL LIBRO DE URANTIA_
 
@@ -147,9 +147,9 @@ _La fe cristiana._ Hay un tipo especial de fe, relacionada con la creencia crist
 4. La fe percibe el amor personal de Dios
 	> «Aunque los mortales materiales no puedan ver la persona de Dios, deben regocijarse en la seguridad de que es una persona; por la fe aceptar la verdad que describe que el Padre Universal tanto amó al mundo que proporcionó a sus humildes habitantes la posibilidad de la eterna progresión espiritual; que él «se agrada de sus hijos». Dios no carece de ninguno de aquellos atributos sobrehumanos y divinos que constituyen la personalidad perfecta, eterna, amorosa e infinita del Creador.»[LU 1:5.4](/es/The_Urantia_Book/1#p5_4) Prov. 8:31.
 5. La fe sabe y nunca duda realmente
-	> “Si la ciencia, la filosofía o la sociología atreven a volverse dogmáticas en sus discusiones con los profetas de la verdadera religión, los hombres conocedores de Dios deben contestar a tal dogmatismo no justificado con ese dogmatismo sagaz de la certeza de la experiencia espiritual personal: «Sé lo que he experimentado porque yo soy hijo del YO SOY». Si la experiencia personal de una persona de fe ha de ser desafiada por el dogma, entonces este hijo nacido en la fe del Padre experiencible puede responder con ese dogma imposible de desafiar, la declaración de su verdadera filiación con el Padre Universal.
+	> «Si la ciencia, la filosofía o la sociología atreven a volverse dogmáticas en sus discusiones con los profetas de la verdadera religión, los hombres conocedores de Dios deben contestar a tal dogmatismo no justificado con ese dogmatismo sagaz de la certeza de la experiencia espiritual personal: «Sé lo que he experimentado porque yo soy hijo del YO SOY». Si la experiencia personal de una persona de fe ha de ser desafiada por el dogma, entonces este hijo nacido en la fe del Padre experiencible puede responder con ese dogma imposible de desafiar, la declaración de su verdadera filiación con el Padre Universal.
 	> 
-	> “Sólo una realidad incualificada, un absoluto, puede atreverse a ser dogmática consecuentemente. Aquellos que se atreven a ser dogmáticos deben, si son consistentes, tarde o temprano ser manejados hacia los brazos del Absoluto de la energía, el Universal de la verdad, y el Infinito del amor.
+	> «Sólo una realidad incualificada, un absoluto, puede atreverse a ser dogmática consecuentemente. Aquellos que se atreven a ser dogmáticos deben, si son consistentes, tarde o temprano ser manejados hacia los brazos del Absoluto de la energía, el Universal de la verdad, y el Infinito del amor.
 	> 
 	> «Si los enfoques no religiosos de la realidad cósmica se atreven a desafiar la certidumbre de la fe sobre la base de su estado no comprobado, entonces el que experimenta la verdad espiritual de la misma manera puede recurrir al desafío dogmático de los hechos de la ciencia y de las creencias de la filosofía sobre la base de que éstos, de igual manera, no han sido comprobados; son del mismo modo experiencias de la conciencia del científico o del filósofo.» [LU 102:7.7](/es/The_Urantia_Book/102#p7_7)
 
@@ -175,7 +175,7 @@ _La fe cristiana._ Hay un tipo especial de fe, relacionada con la creencia crist
 2. La fe es viva y personal—conocedora de Dios y servidora del hombre
 	> «La creencia es siempre limitadora y astringente; la fe es expansiva y liberadora. La creencia fija, la fe libera. Pero la fe religiosa viva es más que la asociación de creencias nobles; es más que un sistema exaltado de filosofía; es una experiencia viva que comprende los significados espirituales, los ideales divinos y los valores supremos; es conocedora de Dios y servidora del hombre. Las creencias pueden volverse posesiones del grupo, pero la fe ha de ser personal. Se pueden sugerir las creencias teológicas a un grupo, pero la fe puede únicamente surgir en el corazón del religionista individual.» [LU 101:8.2](/es/The_Urantia_Book/101#p8_2)
 3. Lo que la fe no hace
-	> “La fe traiciona su confianza cuando presume negar realidades y conferir sobre sus devotos un conocimiento asumido. La fe traiciona cuando fomenta la traición de la integridad intelectual y menosprecia la lealtad a los valores supremos y a los ideales divinos. La fe nunca escapa del deber de solucionar los problemas del vivir mortal. La fe viva no fomenta el fanatismo, la persecución ni la intolerancia.
+	> «La fe traiciona su confianza cuando presume negar realidades y conferir sobre sus devotos un conocimiento asumido. La fe traiciona cuando fomenta la traición de la integridad intelectual y menosprecia la lealtad a los valores supremos y a los ideales divinos. La fe nunca escapa del deber de solucionar los problemas del vivir mortal. La fe viva no fomenta el fanatismo, la persecución ni la intolerancia.
 	> 
 	> «La fe no encadena la imaginación creadora, tampoco mantiene un prejuicio irrazonable hacia los descubrimientos de la investigación científica. La fe vitaliza la religión y obliga al religionista a vivir heroicamente de acuerdo con la regla de oro. El fervor de la fe está de acuerdo con el conocimiento, y sus impulsos son el preludio a la paz sublime.» [LU 101:8.3](/es/The_Urantia_Book/101#p8_3)
 4. La fe transforma la creencia en experiencia salvadora
@@ -244,11 +244,11 @@ _La fe cristiana._ Hay un tipo especial de fe, relacionada con la creencia crist
 2. La fe salvadora es el regalo de Dios
 	> ««Vuestra filiación está fundada en la fe, y debéis permanecer impasibles ante el temor. Vuestro regocijo nace de la confianza en el verbo divino, por consiguiente no dudaréis de la realidad del amor y de la misericordia del Padre. Es la bondad misma de Dios la que conduce a los hombres a un arrepentimiento verdadero y genuino. El secreto de vuestro autodominio está ligado con vuestra fe en el espíritu residente, que siempre labora por amor. La fe salvadora misma no proviene de vosotros; sino que es otro don de Dios. Al ser hijos de esta fe viviente, ya no seréis los esclavos de vuestro yo, sino más bien los dueños triunfantes de vuestro yo, los hijos liberados de Dios.» [LU 143:2.7](/es/The_Urantia_Book/143#p2_7) [Ef 2:8](/es/Bible/Ephesians/2#v8).
 3. La salvación por la fe
-	> “Cierta tarde en Sunem, después del regreso a Hebrón de los apóstoles de Juan, y después de que los apóstoles de Jesús habían sido enviados en grupos de dos en dos, cuando el Maestro estaba ocupado en enseñar a un grupo de doce de los evangelistas más jóvenes que laboraban bajo la dirección de Jacob, juntamente con las doce mujeres, Raquel hizo a Jesús esta pregunta: «Maestro, qué debemos responder cuando las mujeres nos preguntan ¿qué debo hacer para ser salvada?» Cuando Jesús escuchó esta pregunta, respondió:...
+	> «Cierta tarde en Sunem, después del regreso a Hebrón de los apóstoles de Juan, y después de que los apóstoles de Jesús habían sido enviados en grupos de dos en dos, cuando el Maestro estaba ocupado en enseñar a un grupo de doce de los evangelistas más jóvenes que laboraban bajo la dirección de Jacob, juntamente con las doce mujeres, Raquel hizo a Jesús esta pregunta: «Maestro, qué debemos responder cuando las mujeres nos preguntan ¿qué debo hacer para ser salvada?» Cuando Jesús escuchó esta pregunta, respondió:...
 	> 
 	> ««La salvación es el don del Padre, y es revelada por sus Hijos. Vuestra aceptación mediante la fe os permite compartir de la naturaleza divina, ser hijo o hija de Dios. Por la fe estáis justificados; por la fe sois salvados; y por la misma fe avanzaréis eternamente en el camino de la perfección progresiva y divina. Por la fe Abraham fue justificado y tomó conciencia de la salvación por las enseñanzas de Melquisedek. A través de todas las edades esta misma fe ha salvado a los hijos del hombre, pero ahora ha venido un Hijo de donde el Padre para hacer que esa salvación sea más real y aceptable».» [LU 150:5.3](/es/The_Urantia_Book/150#p5_3) 
 1. La desesperación desaparece con una valiente pincelada de fe
-	> “Para el materialista no creyente, el hombre es tan sólo un accidente evolucionario. Sus esperanzas de supervivencia están engarzadas en la ficción de la imaginación mortal; sus temores, amores, deseos y creencias no son sino la reacción de la yuxtaposición incidental de ciertos átomos de materia sin vida. No hay exhibición de energía ni expresión de confianza que puedan llevarle más allá de la tumba. Las labores devotas y el genio inspirador de los mejores entre los hombres están destinados a extinguirse en la muerte, esa larga y solitaria noche de olvido eterno y extinción del alma. La desesperación sin nombre es la única recompensa del hombre por vivir y luchar bajo el sol temporal de la existencia mortal. Cada día de vida lenta y seguramente aprieta el nudo de un destino despiadado decretado por un universo material hostil e implacable que será el último insulto para todo lo que en el deseo humano es hermoso, noble, elevado y bueno.
+	> «Para el materialista no creyente, el hombre es tan sólo un accidente evolucionario. Sus esperanzas de supervivencia están engarzadas en la ficción de la imaginación mortal; sus temores, amores, deseos y creencias no son sino la reacción de la yuxtaposición incidental de ciertos átomos de materia sin vida. No hay exhibición de energía ni expresión de confianza que puedan llevarle más allá de la tumba. Las labores devotas y el genio inspirador de los mejores entre los hombres están destinados a extinguirse en la muerte, esa larga y solitaria noche de olvido eterno y extinción del alma. La desesperación sin nombre es la única recompensa del hombre por vivir y luchar bajo el sol temporal de la existencia mortal. Cada día de vida lenta y seguramente aprieta el nudo de un destino despiadado decretado por un universo material hostil e implacable que será el último insulto para todo lo que en el deseo humano es hermoso, noble, elevado y bueno.
 	> «Pero éste no es el fin ni el eterno destino del hombre; esta visión no es más que el grito de desesperación pronunciado por un alma vagabunda que se ha perdido en la oscuridad espiritual, y que lucha valientemente frente a los sofismas mecanicistas de una filosofía material, enceguecido por la confusión y la distorsión de una erudición compleja. Y toda esta condena de oscuridad y todo este destino desesperado se disuelven para siempre con una valiente pincelada de fe pintada por el más humilde e ignorante de los hijos de Dios en la tierra.» [LU 102:0.1](/es/The_Urantia_Book/102#p0_1)
 1. El nacimiento de la fe salvadora
 	> «Esta fe salvadora nace en el corazón humano cuando la conciencia moral del hombre comprende que los valores humanos pueden ser transformados en experiencia mortal de lo material a lo espiritual, de lo humano a lo divino, del tiempo a la eternidad.» [LU 102:0.3](/es/The_Urantia_Book/102#p0_3)
@@ -269,26 +269,26 @@ _La fe cristiana._ Hay un tipo especial de fe, relacionada con la creencia crist
 	> «El religionista que alcanza logro filosófico tiene fe en un Dios personal de salvación personal, algo más que una realidad, un valor, un nivel de alcance, un proceso exaltado, una trasmutación, lo último del tiempo-espacio, una idealización, la personalización de la energía, la entidad de la gravedad, una proyección humana, la idealización del yo, el solevantamiento de la naturaleza, la tendencia a la bondad, el impulso hacia adelante de la evolución o una hipótesis sublime. El religionista tiene fe en un Dios de amor. El amor es la esencia de la religión y la fuente de una civilización superior.» [LU 102:6.3](/es/The_Urantia_Book/102#p6_3)
 4. La fe crea un Dios de salvación
 	> «La fe transforma al Dios filosófico de probabilidad en el Dios salvador de certeza en la experiencia personal religiosa. El escepticismo podrá desafiar las teorías de la teología, pero la confianza en la confiabilidad de la experiencia personal afirma la verdad de esa creencia que se ha transformado en fe.» [LU 102:6.4](/es/The_Urantia_Book/102#p6_4)
-5. La fe se atreve a decir "yo sé"
+5. La fe se atreve a decir «yo sé»
 	> «Las convicciones sobre Dios pueden ser alcanzadas por sabio razonamiento, pero el individuo se torna consciente de Dios solamente por la fe, a través de la experiencia personal. En mucho de lo que pertenece a la vida, ha de contarse con la probabilidad, pero al ponerse en contacto con la realidad cósmica, la certeza puede ser experimentada cuando estos significados y valores son visualizados por la fe viva. El alma que conoce a Dios se atreve a decir «yo sé», aunque este conocimiento de Dios sea puesto en duda por el no creyente, que niega dicha certeza porque no está totalmente respaldada por la lógica intelectual. A todo ser que dude, el creyente tan sólo contesta: «¿Cómo sabes que yo no sé?».» [LU 102:6.5](/es/The_Urantia_Book/102#p6_5)
 6. La fe descubre la certeza de Dios
 	> «Para la ciencia Dios es una posibilidad, para la psicología, una cosa deseable, para la filosofía, una probabilidad, para la religión una certeza, una realidad de la experiencia religiosa. La razón exige que una filosofía que no puede encontrar al Dios de la probabilidad, respete esa fe religiosa que sí puede y que sí encuentra al Dios de la certeza. Tampoco debe la ciencia descartar la experiencia religiosa sobre la base de la credulidad, mientras persista en la suposición de que las dotes intelectuales y filosóficas del hombre surgieron de inteligencias cada vez menores a medida que se va hacia atrás en el tiempo, originándose finalmente en la vida primitiva que estaba totalmente vacía de pensamiento y sentimiento.» [LU 102:6.8](/es/The_Urantia_Book/102#p6_8)
 7. La fe religiosa identifica al hombre con el Infinito
 	> «La religión eficazmente cura el sentido del hombre de aislamiento idealístico o de soledad espiritual; otorga al creyente la posición de hijo de Dios, ciudadano de un universo nuevo y significativo. La religión asegura al hombre que, al seguir el destello de la rectitud que discierne en su alma, se identifica de esa manera con el plan del Infinito y el propósito del Eterno. Tal alma liberada inmediatamente comienza a sentirse cómoda en este nuevo universo, su universo.» [LU 101:10.18](/es/The_Urantia_Book/101#p10_18)
 8. La fe triunfa sobre todo
-	> “Cuando experimentes tal transformación de la fe, ya no serás una parte esclavizada del cosmos matemático, sino más bien un hijo liberado volitivo del Padre Universal. Tal hijo liberado ya no luchará solo contra el destino inexorable de la terminación de la existencia temporal; ya no luchará contra toda la naturaleza, con las posibilidades irremediablemente en contra suya; ya no le azotará el temor paralizante de que, tal vez, haya puesto su confianza en un fantasma sin esperanzas o colocado su fe en un error de la fantasía.
+	> «Cuando experimentes tal transformación de la fe, ya no serás una parte esclavizada del cosmos matemático, sino más bien un hijo liberado volitivo del Padre Universal. Tal hijo liberado ya no luchará solo contra el destino inexorable de la terminación de la existencia temporal; ya no luchará contra toda la naturaleza, con las posibilidades irremediablemente en contra suya; ya no le azotará el temor paralizante de que, tal vez, haya puesto su confianza en un fantasma sin esperanzas o colocado su fe en un error de la fantasía.
 	> «En cambio, ahora los hijos de Dios se unen en el fervor de la batalla para el triunfo de la realidad sobre las sombras parciales de la existencia. Finalmente, todas las criaturas se vuelven conscientes del hecho de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha excelsa por obtener la eternidad de la vida y la divinidad de estado. Estos hijos liberados por la fe participan en forma certera en las luchas temporales del lado de las fuerzas supremas y de las personalidades divinas de la eternidad; aun las estrellas en su curso están ahora luchando por ellos; finalmente, contemplan el universo desde adentro, desde el punto de vista de Dios y todo se transforma de las inseguridades del aislamiento material a la certeza de la progresión espiritual eterna. Aun el tiempo mismo se torna una mera sombra de la eternidad, arrojada por las realidades del Paraíso sobre la panoplia móvil del espacio.» [LU 101:10.19](/es/The_Urantia_Book/101#p10_19)
 9. El potencial creativo de la fe
 	> «Cuando mis hijos tengan autoconciencia de la seguridad de la presencia divina, esa fe les expandirá la mente, les ennoblecerá el alma, les reforzará la personalidad, les aumentará la felicidad, les profundizará la percepción espiritual, y aumentará su capacidad para amar y ser amados.» [LU 159:3.12](/es/The_Urantia_Book/159#p3_12)
-10. La fe libera los potenciales de la "chispa divina"
+10. La fe libera los potenciales de la «chispa divina»
 	> «La fe actúa para descargar las actividades sobrehumanas de la chispa divina, el germen inmortal, que vive dentro de la mente del hombre, y que es el potencial de la supervivencia eterna. Las plantas y los animales sobreviven en el tiempo mediante la técnica de pasar partículas idénticas de sí mismos de una generación a otra. El alma humana (la personalidad) sobrevive a la muerte por asociación de identidad con esta chispa de divinidad residente, que es inmortal, y que funciona para perpetuar la personalidad humana en un nivel continuo y más elevado de existencia progresiva en el universo. La simiente oculta del alma humana es un espíritu inmortal. La segunda generación del alma es la primera de una sucesión de manifestaciones de la personalidad de existencias espirituales y cada vez más avanzadas que terminan tan sólo cuando esta entidad divina alcanza la fuente de su existencia, el origen personal de toda existencia, Dios, el Padre Universal.» [LU 132:3.6](/es/The_Urantia_Book/132#p3_6)
 
 ### XI. FE SANADORA
 
 1. Fe salvadora y sanadora
-	> “Vino luego Simón el Zelote para argüir con Norana. Dijo Simón: «Mujer, eres una gentil que habla griego. No es justo que esperes que el Maestro tome el pan reservado a los hijos de la casa favorita y se lo eche a los perros». Pero Norana no se ofendió por las palabras de Simón. Tan sólo replicó: «Sí, maestro, comprendo tus palabras. Yo no soy sino un perro a los ojos de los judíos, pero en cuanto a vuestro Maestro, soy un perro creyente. Estoy decidida a que él vea a mi hija porque estoy persuadida de que, si tan sólo la mira, la curará. Y aun tú, buen hombre, no te atreverías a quitarle a los perros el privilegio de comer las migajas de pan que suelen caer de la mesa de los niños».
+	> «Vino luego Simón el Zelote para argüir con Norana. Dijo Simón: «Mujer, eres una gentil que habla griego. No es justo que esperes que el Maestro tome el pan reservado a los hijos de la casa favorita y se lo eche a los perros». Pero Norana no se ofendió por las palabras de Simón. Tan sólo replicó: «Sí, maestro, comprendo tus palabras. Yo no soy sino un perro a los ojos de los judíos, pero en cuanto a vuestro Maestro, soy un perro creyente. Estoy decidida a que él vea a mi hija porque estoy persuadida de que, si tan sólo la mira, la curará. Y aun tú, buen hombre, no te atreverías a quitarle a los perros el privilegio de comer las migajas de pan que suelen caer de la mesa de los niños».
 	> 
-	> “Precisamente en ese momento, la niñita sufrió una violenta convulsión delante de todos ellos, y la madre gritó: «He aquí, bien podéis ver que mi niña está poseída por un mal espíritu. Si nuestra necesidad no os conmueve, sí conmoverá a vuestro Maestro, quien según me han dicho, ama a todos los hombres y aun se atreve a curar a los gentiles cuando estos creen. Vosotros no sois dignos de ser sus discípulos. No me iré hasta que mi hija no esté curada».
+	> «Precisamente en ese momento, la niñita sufrió una violenta convulsión delante de todos ellos, y la madre gritó: «He aquí, bien podéis ver que mi niña está poseída por un mal espíritu. Si nuestra necesidad no os conmueve, sí conmoverá a vuestro Maestro, quien según me han dicho, ama a todos los hombres y aun se atreve a curar a los gentiles cuando estos creen. Vosotros no sois dignos de ser sus discípulos. No me iré hasta que mi hija no esté curada».
 	> 
 	> «Jesús, que había escuchado toda esta conversación por una ventana abierta, salió pues con gran sorpresa de ellos y dijo: «Oh mujer, grande es tu fe, tan grande que no puedo negarte lo que tú deseas; vete en paz. Tu hija ya ha sido curada». Y la niñita estuvo bien desde ese momento. Cuando Norana y la niña se despidieron, Jesús les advirtió que a nadie relataran este suceso; y aunque sus asociados sí cumplieron con esta solicitud, la madre y la niña no cesaron de proclamar el hecho de la curación de la pequeña a lo largo y a lo ancho de la región y aun en Sidón, tanto que Jesús halló conveniente mudarse de residencia pocos días más tarde.» [LU 156:1.5](/es/The_Urantia_Book/156#p1_5) [Mc 7:24-30](/es/Bible/Mark/7#v24).
 2. La fe cura al espíritu de la enfermedad
@@ -303,29 +303,29 @@ _La fe cristiana._ Hay un tipo especial de fe, relacionada con la creencia crist
 3. Los frutos sociales del espíritu por la fe
 	> «La creencia tal vez no pueda resistir a la duda y hacer frente al temor, pero la fe siempre triunfa sobre la duda, porque la fe es tanto positiva como viva. Lo positivo siempre está en ventaja respecto de lo negativo, la verdad sobre el error, la experiencia sobre la teoría, las realidades espirituales sobre los hechos aislados del tiempo y del espacio. La prueba convincente de esta certeza espiritual consiste en los frutos sociales del espíritu que tales creyentes, fehacientes, producen como resultado de esta genuina experiencia espiritual. Dijo Jesús: «Si amáis a vuestros semejantes como yo os he amado, todos los hombres sabrán que vosotros sois mis discípulos».» [LU 102:6.7](/es/The_Urantia_Book/102#p6_7) [Jn 13:35](/es/Bible/John/13#v35).
 4. El rendimiento asombroso de la fe
-	> “A través de la fe religiosa, el alma del hombre se revela a sí misma y demuestra la divinidad potencial de su naturaleza emergente por la forma característica en que induce a la personalidad mortal a reaccionar ante ciertas situaciones intelectuales y sociales difíciles y de prueba. La genuina fe espiritual (conciencia moral auténtica) se revela en que:
+	> «A través de la fe religiosa, el alma del hombre se revela a sí misma y demuestra la divinidad potencial de su naturaleza emergente por la forma característica en que induce a la personalidad mortal a reaccionar ante ciertas situaciones intelectuales y sociales difíciles y de prueba. La genuina fe espiritual (conciencia moral auténtica) se revela en que:
 	> 
-	> “1. Ocasiona el progreso de la ética y de la moral a pesar de las tendencias animalísticas inherentes y adversas.
+	> «1. Ocasiona el progreso de la ética y de la moral a pesar de las tendencias animalísticas inherentes y adversas.
 	> 
-	> “2. Produce una confianza sublime en la bondad de Dios aun frente a un amargo desencanto y una derrota total.
+	> «2. Produce una confianza sublime en la bondad de Dios aun frente a un amargo desencanto y una derrota total.
 	> 
-	> “3. Genera profundo valor y confianza a pesar de la adversidad natural y la calamidad física.
+	> «3. Genera profundo valor y confianza a pesar de la adversidad natural y la calamidad física.
 	> 
-	> “4. Exhibe un aplomo inexplicable y una tranquilidad constante a pesar de la presencia de enfermedades desconcertantes y aun de sufrimiento físico agudo.
+	> «4. Exhibe un aplomo inexplicable y una tranquilidad constante a pesar de la presencia de enfermedades desconcertantes y aun de sufrimiento físico agudo.
 	> 
-	> “5. Mantiene un aplomo misterioso y un equilibrio de la personalidad frente al maltrato y las injusticias más flagrantes.
+	> «5. Mantiene un aplomo misterioso y un equilibrio de la personalidad frente al maltrato y las injusticias más flagrantes.
 	> 
-	> “6. Mantiene una confianza divina en la victoria final a pesar de las crueldades de un hado aparentemente ciego y de la aparente indiferencia total al bienestar humano de las fuerzas naturales.
+	> «6. Mantiene una confianza divina en la victoria final a pesar de las crueldades de un hado aparentemente ciego y de la aparente indiferencia total al bienestar humano de las fuerzas naturales.
 	> 
-	> “7. Persiste en la creencia indestructible en Dios a pesar de todas las demostraciones contrarias de la lógica y resiste con éxito todos los demás sofismas intelectuales.
+	> «7. Persiste en la creencia indestructible en Dios a pesar de todas las demostraciones contrarias de la lógica y resiste con éxito todos los demás sofismas intelectuales.
 	> 
-	> “8. Continúa exhibiendo una fe infalible en la supervivencia del alma a pesar de las enseñanzas engañosas de la ciencia falsa y de los delirios persuasivos de una filosofía defectuosa.
+	> «8. Continúa exhibiendo una fe infalible en la supervivencia del alma a pesar de las enseñanzas engañosas de la ciencia falsa y de los delirios persuasivos de una filosofía defectuosa.
 	> 
-	> “9. Vive y triunfa a pesar del peso demoledor de las civilizaciones complejas y parciales de los tiempos modernos.
+	> «9. Vive y triunfa a pesar del peso demoledor de las civilizaciones complejas y parciales de los tiempos modernos.
 	> 
-	> “10. Contribuye a la supervivencia continuada del altruismo a pesar del egoísmo humano, de los antagonismos sociales, las avideces industriales y los desajustes políticos.
+	> «10. Contribuye a la supervivencia continuada del altruismo a pesar del egoísmo humano, de los antagonismos sociales, las avideces industriales y los desajustes políticos.
 	> 
-	> “11. Se adhiere en forma inquebrantable a la creencia sublime en la unidad universal y en la guía divina a pesar de la presencia desconcertante del mal y del pecado.
+	> «11. Se adhiere en forma inquebrantable a la creencia sublime en la unidad universal y en la guía divina a pesar de la presencia desconcertante del mal y del pecado.
 	> 
 	> «12. Continúa adorando a Dios a pesar de todo y de cada cosa. Se atreve a declarar «aunque me matare, seguiré sirviéndole».» [LU 101:3.4](/es/The_Urantia_Book/101#p3_4) [Job 13:15](/es/Bible/Job/13#v15).
 

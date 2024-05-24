@@ -86,11 +86,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Jesús dio un nuevo mandamiento
 	> «Después de unos pocos minutos de conversación casual, Jesús se puso de pie y dijo: «Cuando os presenté una parábola indicando de qué manera debéis estar dispuestos a serviros los unos a los otros, dije que deseaba daros un nuevo mandamiento; así lo haré ahora que estoy a punto de dejaros. Vosotros bien conocéis el mandamiento que manda que os améis los unos a los otros; que ames a tu prójimo como te amas a ti mismo. Pero no estoy plenamente satisfecho aun con esa devoción sincera por parte de mis hijos. Quiero que hagáis actos de amor aún más grandes en el reino de la hermandad creyente. Así pues os doy este nuevo mandamiento: Que os améis los unos a los otros así como yo os he amado. Así todos los hombres sabrán que sois mis discípulos, si os amáis de esa manera.» [LU 180:1.1](/es/The_Urantia_Book/180#p1_1) [Jn 13:34-35](/es/Bible/John/13#v34).
 4. La medida suprema de afecto
-	> “«Al daros este nuevo mandamiento, no aflijo vuestra alma con una nueva carga; más bien os traigo nuevo gozo y hago posible para vosotros la experiencia de un nuevo goce al conocer las delicias de donar el afecto de vuestro corazón a vuestros semejantes. Estoy a punto de experimentar la felicidad suprema, aun soportando exteriormente gran congoja, en el acto de donar mi afecto a vosotros y vuestros semejantes.
+	> ««Al daros este nuevo mandamiento, no aflijo vuestra alma con una nueva carga; más bien os traigo nuevo gozo y hago posible para vosotros la experiencia de un nuevo goce al conocer las delicias de donar el afecto de vuestro corazón a vuestros semejantes. Estoy a punto de experimentar la felicidad suprema, aun soportando exteriormente gran congoja, en el acto de donar mi afecto a vosotros y vuestros semejantes.
 	> 
 	> ««Cuando os invito a amaros unos a los otros, así como yo os he amado, os presento la medida suprema del verdadero afecto, porque el hombre no puede tener mayor amor que éste: el dar la vida por sus amigos. Y vosotros sois mis amigos; seguiréis siendo mis amigos si tan sólo estáis dispuestos a hacer lo que yo os he enseñado. Me habéis llamado Maestro, pero yo no os llamo siervos. Si tan sólo amáis unos a los otros tal como yo os amo, seréis mis amigos, y yo os hablaré por siempre de lo que el Padre me revela.» [LU 180:1.2](/es/The_Urantia_Book/180#p1_2)
 5. Compartir el servicio del maestro
-	> “«No es sólo que vosotros me habéis elegido, sino que yo también os he elegido a vosotros, y os he ordenado para que salgáis al mundo para rendir el fruto del servicio amante a vuestros semejantes así como yo he vivido entre vosotros y os he revelado al Padre. El Padre y yo trabajaremos con vosotros, y vosotros experimentaréis la divina plenitud de felicidad si obedecéis mi mandamiento de amaros unos a los otros, aun como yo os he amado a vosotros».
+	> ««No es sólo que vosotros me habéis elegido, sino que yo también os he elegido a vosotros, y os he ordenado para que salgáis al mundo para rendir el fruto del servicio amante a vuestros semejantes así como yo he vivido entre vosotros y os he revelado al Padre. El Padre y yo trabajaremos con vosotros, y vosotros experimentaréis la divina plenitud de felicidad si obedecéis mi mandamiento de amaros unos a los otros, aun como yo os he amado a vosotros».
 	> 
 	> «Si quieres compartir la felicidad del Maestro, debes compartir su amor. Y compartir su amor significa que has compartido su servicio. Esa experiencia de amor no te libera de las dificultades de este mundo; no crea un mundo nuevo, pero con toda seguridad hace que el viejo mundo resulte nuevo.» [LU 180:1.4](/es/The_Urantia_Book/180#p1_4)
 
@@ -117,7 +117,7 @@ En el Nuevo Testamento, todos los creyentes son reconocidos como sacerdotes
 El Nuevo Testamento reconoce muchos grupos de ministros.
 
 1. _APÓSTOLES_	
-	> «Él mismo "dio" a unos el ser apóstoles; a otros, profetas; a otros, evangelizadores; a otros, pastores y maestros....para las funciones del ministerio.» [Ef 4:11-12](/es/Bible/Ephesians/4#v11).
+	> «Él mismo «dio» a unos el ser apóstoles; a otros, profetas; a otros, evangelizadores; a otros, pastores y maestros....para las funciones del ministerio.» [Ef 4:11-12](/es/Bible/Ephesians/4#v11).
 	> 
 	> «Pablo...apóstol por vocación.» [Ro 1:1](/es/Bible/Romans/1#v1).
 	> 
@@ -149,7 +149,7 @@ El Nuevo Testamento reconoce muchos grupos de ministros.
 	> 	> 
 	> 	> «Es, pues, necesario que el epíscopo sea irreprensible, casado una sola vez, sobrio, sensato, educado, hospitalario, apto para enseñar, ni bebedor ni violento, sino moderado, enemigo de pendencias, desprendido del dinero, que gobierne bien su propia casa y mantenga sumisos a sus hijos con toda dignidad.» [1 Ti 3:2,4](/es/Bible/1_Timothy/3#v2).
 	> 	> 
-	> 	> Al ordenar a Tito como obispo: “Porque el epíscopo, como administrador de Dios, debe ser irreprochable; no arrogante, no colérico, no bebedor, no violento, no dado a negocios sucios; sino hospitalario, amigo del bien, sensato, justo, piadoso, dueño de sí. ” [Tit 1:7,8](/es/Bible/Titus/1#v7).
+	> 	> Al ordenar a Tito como obispo: «Porque el epíscopo, como administrador de Dios, debe ser irreprochable; no arrogante, no colérico, no bebedor, no violento, no dado a negocios sucios; sino hospitalario, amigo del bien, sensato, justo, piadoso, dueño de sí. » [Tit 1:7,8](/es/Bible/Titus/1#v7).
 	> - b. _Miembros del consejo_
 	> 	> «Para que....establecieras presbíteros en cada ciudad, como yo te ordené. El candidato debe ser irreprochable, casado una sola vez, cuyos hijos sean creyentes, no tachados de libertinaje ni de rebeldía. » [Tit 1:5.6](/es/Bible/Titus/1#v5).
 	> 	> 
@@ -167,7 +167,7 @@ El Nuevo Testamento reconoce muchos grupos de ministros.
 	> 	> 
 	> 	> (**Nota**: los guardianes se convierten en capataces en la versión King James)
 6. _DIÁCONOS Y DIACONISAS_. Supervisores de las finanzas y de todos los tipos de servicio social
-	> “También los diáconos deben ser dignos, sin doblez, no dados a beber mucho vino ni a negocios sucios; que guarden el Misterio de la fe con una conciencia pura.” [1 Tim 3:8](/es/Bible/1_Timothy/3#v8).
+	> «También los diáconos deben ser dignos, sin doblez, no dados a beber mucho vino ni a negocios sucios; que guarden el Misterio de la fe con una conciencia pura.» [1 Tim 3:8](/es/Bible/1_Timothy/3#v8).
 	> 
 	> «Porque los que ejercen bien el diaconado alcanzan un puesto honroso y grande entereza en la fe.» [1 Tim 3:13](/es/Bible/1_Timothy/3#v13).
 	> 
@@ -180,7 +180,7 @@ El Nuevo Testamento reconoce muchos grupos de ministros.
 1. Predicar el evangelio—establecer una manera nueva y viva—proclamar el reino de los cielos, la paternidad de Dios y la hermandad de los hombres—curar mentes y cuerpos enfermos
 	> «Jesús recorría toda la Galilea, enseñando en sus sinagogas, proclamando la Buena Noticia del Reino y curando todas las enfermedades y dolencias de la gente.» [Mt 4:23](/es/Bible/Matthew/4#v23).
 	> 
-	> «A partir de ese momento, Jesús comenzó a proclamar: "Conviértanse, porque el Reino de los Cielos está cerca".» [Mt 4:17](/es/Bible/Matthew/4#v17).
+	> «A partir de ese momento, Jesús comenzó a proclamar: «Conviértanse, porque el Reino de los Cielos está cerca».» [Mt 4:17](/es/Bible/Matthew/4#v17).
 	> 
 	> (**Nota**: llamado reino de Dios en otros evangelios)
 	> 
@@ -192,7 +192,7 @@ El Nuevo Testamento reconoce muchos grupos de ministros.
 	> 
 	> «Pero a todos los que la recibieron les dio poder de hacerse hijos de Dios.» [Jn 1:12](/es/Bible/John/1#v12).
 3. Salvar a los pecadores
-	> «Jesús les dijo: "No son los sanos los que tienen necesidad del médico, sino los enfermos. Yo no he venido a llamar a los justos, sino a los pecadores".» [Mc 2:17](/es/Bible/Mark/2#v17).
+	> «Jesús les dijo: «No son los sanos los que tienen necesidad del médico, sino los enfermos. Yo no he venido a llamar a los justos, sino a los pecadores».» [Mc 2:17](/es/Bible/Mark/2#v17).
 4. Él vino a servir a la humanidad. Iba haciendo el bien
 	> «Yo estoy en medio de vosotros como el que sirve.» [Lc 22:27](/es/Bible/Luke/22#v27).
 	> 
