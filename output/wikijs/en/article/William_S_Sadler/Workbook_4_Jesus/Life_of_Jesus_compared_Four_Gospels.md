@@ -1357,15 +1357,15 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 #### B. **OLD TESTAMENT APOCRYPHA** (Hidden or spurious)
 
-1. I ESDRAS
+1. [I ESDRAS](/en/Bible/1_Esdras)
 	- Decline and fall of Judah from the time of Josiah. Overthrow of Jerusalem and the Babylonian exile. The return under Ezra—reorganization of the Jewish state. Persian kings rebuild the temple. Ezra’s war on mixed marriages.
-2. II ESDRAS
+2. [II ESDRAS](/en/Bible/2_Esdras)
 	- The Lord’s anger against Israel—the end of the age. Ezra’s seven visions of judgment and retribution, including the vision of women. Prophecies of war and calamity. Rule of the Messiah for 400 years.
 3. [TOBIT](/en/Bible/Tobit)
 	- The blind Tobit, a captive in Nineveh, sends his son Tobias to collect a debt in Media. Tobias marries the seven times widowed virgin, and by fish gall dispatches the demon who had killed her husbands. Collects the debt, returns, and the father’s sight is restored. Tobias left Nineveh before it was destroyed.
 4. [JUDITH](/en/Bible/Judith)
 	- Holophernes, an Assyrian general, acting for Nebuchadnezzar, besieged Bethulia. Judith, a pious Jewish widow, enters his camp, and while he is in a drunken stupor, beheads him, taking his head back to the Jewish camp. The Assyrian army is dispersed.
-5. ADDITIONS TO ESTHER
+5. [ADDITIONS TO ESTHER](/en/Bible/Additions_to_Esther)
 	- Has to do with Esther at the court of Artaxerxes and Mardocheus’ dream. Discussion of Mordecai’s dream. The king’s edict in favor of the Jews.
 6. [THE WISDOM OF SOLOMON](/en/Bible/Wisdom_of_Solomon)
 	- Contrasts the righteous and the ungodly. The rewards of pleasure and salvation. The attainments of wisdom—the gift of God. Heroes of wisdom from Adam to Moses—contrasted with the wicked. Israelites contrasted with Egyptians.
@@ -1374,12 +1374,12 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- One of the best of the Old Testament Apocrypha—compares with Proverbs and Ecclesiastes. Resignation and humility. How to get wisdom. Kindness and self-control. The wise and the foolish. Sins of the rich. Training children. Dreams and travel. Higher education. Despite misery, poverty is best. Fathers worry about daughters. Olden fathers from Adam to Nehemiah. Denunciation of the gentiles. Giving thanks to the Lord. Good and bad wives. Table manners. Mourning. Doxology.
 8. [BARUCH](/en/Bible/Baruch)—secretary to Jeremiah
 	- Repentance of Jews after destruction of Jerusalem. Praise of wisdom. Promise of return from Babylonian exile.
-9. THE EPISTLE OF JEREMY
+9. [THE EPISTLE OF JEREMY](/en/Bible/Letter_of_Jeremiah)
 	- A sarcastic denunciation of the folly of idolatry.
-10. SONG OF THE THREE HOLY CHILDREN
+10. [SONG OF THE THREE HOLY CHILDREN](/en/Bible/Prayer_of_Azariah)
 	- (The Prayer of Azariah)
 	- Inserted in the Third Chapter of Daniel. The song of the three youths in the fiery furnace.
-11. SUSANNA
+11. [SUSANNA](/en/Bible/Susanna)
 	- Susanna, wife of wealthy Jewish exile, repulses advances of two Jewish elders. They accuse her of adultery and she is condemned to death. Daniel convicted the elders of false testimony—she was vindicated and they were executed.
 12. [BEL AND THE DRAGON](/en/Bible/Bel_and_the_Dragon)
 	- Daniel traps the priests of Bel by ashes on temple floor—showing they ate the food, not Bel. Daniel poisons the Dragon and is cast into the lion’s den. Habakkuk was flown from Judea by angels to bring him his dinner. Eventually Daniel was delivered.
@@ -1411,27 +1411,27 @@ While the apocalypse books might be found in the scripture chests of the synagog
 
 These books were:
 
-1. The Sibylline Oracles
-2. The Assumption of Moses
-3. Fourth Ezra
+1. [The Sibylline Oracles](/en/Bible/Sibylline_Oracles)
+2. [The Assumption of Moses](/en/Bible/Assumption_of_Moses)
+3. [Fourth Ezra](/en/Bible/2_Esdras)
 4. The Syriac Baruch
 5. The Greek Baruch
-6. Psalter of Solomon
-7. Testaments of the Twelve Patriarchs
-8. Book of Jubilees
+6. [Psalter of Solomon](/en/Bible/Psalms_of_Solomon)
+7. [Testaments of the Twelve Patriarchs](/en/Bible/Testament_of_Reuben)
+8. [Book of Jubilees](/en/Bible/Book_of_Jubilees)
 9. Ascension of Isaiah
-10. Histories of Adam and Eve
-11. Apocalypse of Abraham
-12. Apocalypse of Elias
-13. Apocalypse of Zephaniah
-14. The Prayer of Joseph
-15. The Enoch books
-16. Lives of the Prophets
-17. Testament of Job
-18. Martyrdom of Isaiah
-19. 3rd and 4th Maccabees
-20. 3rd and 4th Esdras
-21. Story of the Three Youths
+10. [Histories of Adam and Eve](/en/Bible/Life_of_Adam_and_Eve)
+11. [Apocalypse of Abraham](/en/Bible/Apocalypse_of_Abraham)
+12. [Apocalypse of Elias](/en/Bible/Apocalypse_of_Elijah)
+13. [Apocalypse of Zephaniah](/en/Bible/Apocalypse_of_Zephaniah)
+14. [The Prayer of Joseph](/en/Bible/Prayer_of_Jacob)
+15. [The Enoch books](/en/Bible/Book_of_Enoch)
+16. [Lives of the Prophets](/en/Bible/The_Lives_of_the_Prophets)
+17. [Testament of Job](/en/Bible/Testament_of_Job)
+18. [Martyrdom of Isaiah](/en/Bible/Martyrdom_of_Isaiah)
+19. [3rd](/en/Bible/3_Maccabees) and [4th](/en/Bible/4_Maccabees) Maccabees
+20. [3rd](/en/Bible/3_Esdras) and [4th](/en/Bible/4_Esdras) Esdras
+21. [Story of the Three Youths](/en/Bible/Prayer_of_Azariah)
 
 ### II. NEW TESTAMENT APOCRYPHA
 
@@ -1530,7 +1530,7 @@ Special features: Roman standards bowed before Jesus as he passed. Did the same 
 
 Jews charged that Jesus was illegitimate. Many testified for Jesus-man suffering for 38 years and was healed. A blind man cured.
 
-They locked up Joseph of Arimathea. Jesus let him out. Priest of Galilee saw Jesus’ ascension. Another heard him tell about drinking poison and handling snakes. (Mark 16)
+They locked up Joseph of Arimathea. Jesus let him out. Priest of Galilee saw Jesus’ ascension. Another heard him tell about drinking poison and handling snakes. ([Mark 16](/en/Bible/Mark/16))
 
 Nicodemus and Joseph convert Annas and Caiaphas.
 

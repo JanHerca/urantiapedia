@@ -1357,15 +1357,15 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 #### B. **APOCRYPHES DE L'ANCIEN TESTAMENT** (Caché ou faux)
 
-1. J'ESDRAS
+1. [I ESDRAS](/fr/Bible/1_Esdras)
 	- Déclin et chute de Juda depuis l'époque de Josias. Renversement de Jérusalem et exil babylonien. Le retour sous Ezra - d.rganisation de l'État juif. Les rois perses reconstruisent le temple. La guerre d'Ezra contre les mariages mixtes.
-2. II ESDRAS
+2. [II ESDRAS](/fr/Bible/2_Esdras)
 	- La colère du Seigneur contre Israël—la fin des temps. Les sept visions d'Ezra sur le jugement et la rétribution, y compris la vision des femmes. Prophéties de guerre et de calamité. Règne du Messie pendant 400 ans.
 3. [TOBIT](/fr/Bible/Tobit)
 	- L'aveugle Tobie, captif à Ninive, envoie son fils Tobie recouvrer une dette à Médie. Tobias épouse la vierge sept fois veuve, et par fiel de poisson expédie le démon qui avait tué ses maris. Recouvre la dette, revient et la vue du père est restaurée. Tobias a quitté Ninive avant qu'elle ne soit détruite.
 4. [JUDITH](/fr/Bible/Judith)
 	- Holopherne, un général assyrien, agissant pour Nabuchodonosor, assiégea Béthulie. Judith, une pieuse veuve juive, entre dans son camp et, alors qu'il est dans une stupeur ivre, le décapite, ramenant sa tête au camp juif. L'armée assyrienne est dispersée.
-5. AJOUTS À ESTHER
+5. [AJOUTS À ESTHER](/fr/Bible/Additions_to_Esther)
 	- A à voir avec Esther à la cour d'Artaxerxès et le rêve de Mardocheus. Discussion sur le rêve de Mardochée. L'édit du roi en faveur des Juifs.
 6. [LA SAGESSE DE SALOMON](/fr/Bible/Wisdom_of_Solomon)
 	- Met en contraste les justes et les impies. Les récompenses du plaisir et du salut. Les acquis de la sagesse—le don de Dieu. Héros de la sagesse d'Adam à Moïse - en contraste avec les méchants. Les Israélites contrastaient avec les Égyptiens.
@@ -1374,12 +1374,12 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- L'un des meilleurs apocryphes de l'Ancien Testament, à comparer avec les Proverbes et l'Ecclésiaste. Résignation et humilité. Comment obtenir la sagesse. Bienveillance et maîtrise de soi. Les sages et les fous. Les péchés des riches. Formation des enfants. Rêves et voyages. L'enseignement supérieur. Malgré la misère, la pauvreté est ce qu'il y a de mieux. Les pères s'inquiètent pour les filles. Les anciens pères d'Adam à Néhémie. Dénonciation des gentils. Rendre grâce au Seigneur. Bonnes et mauvaises épouses. Manières de table. Deuil. Doxologie.
 8. [BARUCH](/fr/Bible/Baruch)—secrétaire de Jérémie
 	- Repentir des Juifs après la destruction de Jérusalem. Éloge de la sagesse. Promesse de retour de l'exil babylonien.
-9. L'ÉPÎTRE DE JÉRÉMÉE
+9. [L'ÉPÎTRE DE JÉRÉMÉE](/fr/Bible/Letter_of_Jeremiah)
 	- Une dénonciation sarcastique de la folie de l'idolâtrie.
-10. CANTIQUE DES TROIS ENFANTS SAINTS
+10. [CANTIQUE DES TROIS ENFANTS SAINTS](/fr/Bible/Prayer_of_Azariah)
 	- (La Prière d'Azariah)
 	- Inséré dans le troisième chapitre de Daniel. Le chant des trois jeunes dans la fournaise ardente.
-11. SUZANNE
+11. [SUZANNE](/fr/Bible/Susanna)
 	- Susanna, épouse d'un riche exilé juif, repousse les avances de deux anciens juifs. Ils l'accusent d'adultère et elle est condamnée à mort. Daniel a condamné les anciens pour faux témoignage - elle a été justifiée et ils ont été exécutés.
 12. [BEL ET LE DRAGON](/fr/Bible/Bel_and_the_Dragon)
 	- Daniel piège les prêtres de Bel par des cendres sur le sol du temple, montrant qu'ils ont mangé la nourriture, pas Bel. Daniel empoisonne le Dragon et est jeté dans la fosse aux lions. Habacuc a été transporté de Judée par des anges pour lui apporter son dîner. Finalement, Daniel a été délivré.
@@ -1411,27 +1411,27 @@ Alors que les livres d'apocalypse pouvaient être trouvés dans les coffres d'é
 
 Ces livres étaient :
 
-1. Les oracles sibyllins
-2. L'Assomption de Moïse
-3. Quatrième Esdras
+1. [Les oracles sibyllins](/fr/Bible/Sibylline_Oracles)
+2. [L'Assomption de Moïse](/fr/Bible/Assumption_of_Moses)
+3. [Quatrième Esdras](/fr/Bible/2_Esdras)
 4. Le syriaque Baruch
 5. Le Baruch grec
-6. Psautier de Salomon
-7. Testaments des douze patriarches
-8. Livre des Jubilés
+6. [Psautier de Salomon](/fr/Bible/Psalms_of_Solomon)
+7. [Testaments des douze patriarches](/fr/Bible/Testament_of_Reuben)
+8. [Livre des Jubilés](/fr/Bible/Book_of_Jubilees)
 9. Ascension d'Isaïe
-10. Histoires d'Adam et Eve
-11. L'apocalypse d'Abraham
-12. Apocalypse d'Elias
-13. Apocalypse de Sophonie
-14. La prière de Joseph
-15. Les livres d'Enoch
-16. La vie des prophètes
-17. Testament de Job
-18. Martyre d'Isaïe
-19. 3e et 4e Maccabées
-20. 3ème et 4ème Esdras
-21. Histoire des trois jeunes
+10. [Histoires d'Adam et Eve](/fr/Bible/Life_of_Adam_and_Eve)
+11. [L'apocalypse d'Abraham](/fr/Bible/Apocalypse_of_Abraham)
+12. [Apocalypse d'Elias](/fr/Bible/Apocalypse_of_Elijah)
+13. [Apocalypse de Sophonie](/fr/Bible/Apocalypse_of_Zephaniah)
+14. [La prière de Joseph](/fr/Bible/Prayer_of_Jacob)
+15. [Les livres d'Enoch](/fr/Bible/Book_of_Enoch)
+16. [La vie des prophètes](/fr/Bible/The_Lives_of_the_Prophets)
+17. [Testament de Job](/fr/Bible/Testament_of_Job)
+18. [Martyre d'Isaïe](/fr/Bible/Martyrdom_of_Isaiah)
+19. [3e](/fr/Bible/3_Maccabees) et [4e](/fr/Bible/4_Maccabees) Maccabées
+20. [3ème](/fr/Bible/3_Esdras) et [4ème](/fr/Bible/4_Esdras) Esdras
+21. [Histoire des trois jeunes](/fr/Bible/Prayer_of_Azariah)
 
 ### II. Apocryphes du Nouveau Testament
 
@@ -1530,7 +1530,7 @@ Particularités : les étendards romains s'inclinaient devant Jésus au passage.
 
 Les Juifs ont accusé Jésus d'être illégitime. Beaucoup ont témoigné que Jésus-homme a souffert pendant 38 ans et a été guéri. Un aveugle guéri.
 
-Ils enfermèrent Joseph d'Arimathie. Jésus le laissa sortir. Prêtre de Galilée a vu l'ascension de Jésus. Un autre l'a entendu parler de boire du poison et de manipuler des serpents. (Marc 16)
+Ils enfermèrent Joseph d'Arimathie. Jésus le laissa sortir. Prêtre de Galilée a vu l'ascension de Jésus. Un autre l'a entendu parler de boire du poison et de manipuler des serpents. ([Marc 16](/fr/Bible/Mark/16))
 
 Nicodème et Joseph convertissent Anne et Caïphe.
 
