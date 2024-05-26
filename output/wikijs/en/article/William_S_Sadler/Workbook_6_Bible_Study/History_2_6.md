@@ -34,9 +34,8 @@ From the Death of Solomon to Mid-eighth Century
 3. Israel and Judah have become second-rate states.
 4. The schism was followed by two generations of sporadic warfare, and all this to no conclusion.
 5. The first generation:
-
-a. Rehoboam of Judah, 922-915.
-b. Jeroboam of Israel, 922-901.
+	- a. Rehoboam of Judah, 922-915.
+	- b. Jeroboam of Israel, 922-901.
 6. The Egyptian Shishak invaded Judah—struck with enormous force. Rehoboam paid large tribute.
 7. Trouble in Egypt caused Shishak to withdraw.
 8. The rival states had internal troubles and kept up their petty warfare.

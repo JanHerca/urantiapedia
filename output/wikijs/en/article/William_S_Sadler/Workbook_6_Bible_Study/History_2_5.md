@@ -119,7 +119,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		4. Syrians. [II Sam 8:5-12](/en/Bible/2_Samuel/8#v5). [I Chron 18:5-8](/en/Bible/1_Chronicles/18#v5).
 		5. Edomites. [II Sam 8:13,14](/en/Bible/2_Samuel/8#v13). [I Chron 18:11-13](/en/Bible/1_Chronicles/18#v11).
 		6. Ammonites. [II Sam 10:6-11:1](/en/Bible/2_Samuel/10#v6); [12:26-31](/en/Bible/2_Samuel/12#v26). [I Chron 19-20:3](/en/Bible/1_Chronicles/19).
-		- f. **REBELLIONS**
+	- f. **REBELLIONS**
 		1. Absalom. [II Sam 13-19](/en/Bible/2_Samuel/13).
 		2. Sheba. [II Sam 20:1-22](/en/Bible/2_Samuel/20#v1).
 		3. Adonijah. [I Kings 1](/en/Bible/1_Kings/1).

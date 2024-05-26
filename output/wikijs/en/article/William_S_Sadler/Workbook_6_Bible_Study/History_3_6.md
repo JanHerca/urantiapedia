@@ -62,7 +62,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ## III. The Law and its interpretation
 
 1. The Jews took their religion very seriously. Through Moses, God—Yahweh— had given them his law.
-2. This law—the Torah—was a revelation of God’s will. Their whole religious duty was—”Cease to do evil; learn to do good.” Isa. 1:16,17.
+2. This law—the Torah—was a revelation of God’s will. Their whole religious duty was—”Cease to do evil; learn to do good.” [Isa. 1:16,17](/en/Bible/Isaiah/1#v16).
 3. The temple (synagogue) was a symbol of the LAW.
 4. The Jews had priests at Jerusalem, but no fixed ministers at the synagogues.
 5. The oral law soon became as binding as the written law:

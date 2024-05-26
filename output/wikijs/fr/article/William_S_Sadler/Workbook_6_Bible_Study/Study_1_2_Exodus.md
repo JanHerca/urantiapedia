@@ -29,11 +29,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Bondage. [1](/fr/Bible/Exodus/1).
 2. Naissance de Moïse. [2](/fr/Bible/Exodus/2).
 3. Appel de Moïse. [3.4](/fr/Bible/Exodus/3).
-4. Fléaux. [5-11](http://kingjbible.com/exodus/8).
-5. Pâque. [12](http://kingjbible.com/exodus/12).
+4. Fléaux. [5-11](/fr/Bible/Exodus/8).
+5. Pâque. [12](/fr/Bible/Exodus/12).
 6. Mer Rouge. [13-15](/fr/Bible/Exodus/13).
 7. Désert. [16-18](/fr/Bible/Exodus/16).
-8. Sinaï. [19-40](http://kingjbible.com/exodus/19).
+8. Sinaï. [19-40](/fr/Bible/Exodus/19).
 
 ## II. Aperçu complet
 

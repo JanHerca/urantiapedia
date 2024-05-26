@@ -28,12 +28,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. In the times of Christ, three languages were spoken in Palestine—Aramaic, Greek, and Latin. The official language was Latin.
 2. General interests were:
-
-a. Hebrew—The right. Prophets and psalmists.
-
-b. Greek—Ideal. Artists and philosophers.
-
-c. Roman—Practical. Statesmen, legislators.
+	- a. Hebrew—The right. Prophets and psalmists.
+	- b. Greek—Ideal. Artists and philosophers.
+	- c. Roman—Practical. Statesmen, legislators.
 3. In early times, there were many dialects of classic Greek.
 4. [KOINE Greek](https://en.wikipedia.org/wiki/Koine_Greek) was the common language developed by Alexander’s army. By the first century of our era it had become the language of the Roman Empire.
 5. Paul’s letter to the Romans was written in Koine Greek. Koine was a simplification of classic Greek.

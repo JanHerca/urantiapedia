@@ -29,11 +29,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Bondage. [1](/en/Bible/Exodus/1).
 2. Birth of Moses. [2](/en/Bible/Exodus/2).
 3. Call of Moses. [3.4](/en/Bible/Exodus/3).
-4. Plagues. [5-11](http://kingjbible.com/exodus/8).
-5. Passover. [12](http://kingjbible.com/exodus/12).
+4. Plagues. [5-11](/en/Bible/Exodus/8).
+5. Passover. [12](/en/Bible/Exodus/12).
 6. Red Sea. [13-15](/en/Bible/Exodus/13).
 7. Wilderness. [16-18](/en/Bible/Exodus/16).
-8. Sinai. [19-40](http://kingjbible.com/exodus/19).
+8. Sinai. [19-40](/en/Bible/Exodus/19).
 
 ## II. Outline-Complete
 

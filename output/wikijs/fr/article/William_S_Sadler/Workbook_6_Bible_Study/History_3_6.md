@@ -62,7 +62,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ## III. La loi et son interprétation
 
 1. Les Juifs prenaient leur religion très au sérieux. Par Moïse, Dieu — Yahweh — leur avait donné sa loi.
-2. Cette loi, la Torah, était une révélation de la volonté de Dieu. Tout leur devoir religieux était : « Cessez de faire le mal ; apprenez à faire le bien. Est un. 1:16,17.
+2. Cette loi, la Torah, était une révélation de la volonté de Dieu. Tout leur devoir religieux était : « Cessez de faire le mal ; apprenez à faire le bien. Est [Is. 1:16,17](/fr/Bible/Isaiah/1#v16).
 3. Le temple (synagogue) était un symbole de la LOI.
 4. Les Juifs avaient des prêtres à Jérusalem, mais pas de ministres fixes dans les synagogues.
 5. Le droit oral devint bientôt aussi contraignant que le droit écrit :

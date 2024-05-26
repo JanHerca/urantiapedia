@@ -34,9 +34,8 @@ De la mort de Salomon au milieu du VIIIe siècle
 3. Israël et Juda sont devenus des États de second ordre.
 4. Le schisme a été suivi de deux générations de guerres sporadiques, et tout cela sans conclusion.
 5. La première génération :
-
-a. Roboam de Juda, 922-915.
-b. Jéroboam d'Israël, 922-901.
+	- a. Roboam de Juda, 922-915.
+	- b. Jéroboam d'Israël, 922-901.
 6. Le Shishak égyptien a envahi Juda—frappé avec une force énorme. Roboam a payé un grand tribut.
 7. Les troubles en Égypte ont poussé Shishak à se retirer.
 8. Les États rivaux ont eu des troubles internes et ont maintenu leur petite guerre.
