@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/M"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">M</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/O"><span class="pr-2">O</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 ## Nacimiento, Nuevo
 
 > Jesús explicó claramente a sus apóstoles la diferencia entre el arrepentimiento mediante las supuestas buenas obras, como enseñaban los judíos, y el cambio mental por la fe —el nuevo nacimiento— que él exigía como precio de admisión en el reino. [LU 138:8.8](/es/The_Urantia_Book/138#p8_8)
@@ -56,3 +68,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/M"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">M</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/O"><span class="pr-2">O</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/E"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">E</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/G"><span class="pr-2">G</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 ## Falsedad
 
 > La falsedad no es una cuestión de técnica narrativa, sino algo premeditado para desnaturalizar la verdad. ... La sombra del desvío de un cabello, premeditado con una finalidad desleal, la más mínima deformación o perversión de aquello que es un principio —estas cosas constituyen la falsedad. [LU 48:6.33](/es/The_Urantia_Book/48#p6_33)
@@ -115,3 +127,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/E"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">E</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/G"><span class="pr-2">G</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

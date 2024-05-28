@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/V"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">V</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 
 ## Yahvé (dios)
 
@@ -24,3 +36,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/V"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">V</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

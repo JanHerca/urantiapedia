@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/R"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">R</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/T"><span class="pr-2">T</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 ## Sabiduría
 
 > El origen de la sabiduría es doble, pues procede de la perfección de la perspicacia divina inherente a los seres perfectos y de la experiencia personal adquirida por las criaturas evolutivas. [LU 19:2.4](/es/The_Urantia_Book/19#p2_4)
@@ -132,3 +144,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/R"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">R</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/T"><span class="pr-2">T</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

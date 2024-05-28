@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/J"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">J</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/M"><span class="pr-2">M</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 ## Lealtad
 
 > *La lealtad* —la devoción al deber más elevado— ¿es deseable? Entonces el hombre debe caminar entre las posibilidades de traición y de deserción. El valor de la devoción al deber consiste en el peligro implícito de incumplirlo. [LU 3:5.12](/es/The_Urantia_Book/3#p5_12)
@@ -71,3 +83,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/J"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">J</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/M"><span class="pr-2">M</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

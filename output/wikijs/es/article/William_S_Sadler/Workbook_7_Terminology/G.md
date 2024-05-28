@@ -12,7 +12,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
-
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/F"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">F</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/H"><span class="pr-2">H</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
 
 
 ## Gradant
@@ -57,3 +67,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/F"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">F</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/H"><span class="pr-2">H</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

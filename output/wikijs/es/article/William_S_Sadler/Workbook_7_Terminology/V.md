@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/U"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">U</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/Y"><span class="pr-2">Y</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 ## Valentía
 
 > La valentía de la carne es la forma más baja de bravura. La bravura mental es un tipo más elevado de valentía humana, pero la bravura superior y suprema consiste en la fidelidad inflexible a las convicciones iluminadas de las realidades espirituales profundas. Una valentía así constituye el heroísmo del hombre que conoce a Dios. Y todos vosotros sois hombres que conocéis a Dios; sois, en verdad, los asociados personales del Hijo del Hombre». [LU 143:1.7](/es/The_Urantia_Book/143#p1_7)
@@ -96,3 +108,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/U"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">U</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/Y"><span class="pr-2">Y</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

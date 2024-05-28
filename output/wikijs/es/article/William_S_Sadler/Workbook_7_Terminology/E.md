@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/D"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">D</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/F"><span class="pr-2">F</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 ## Egoísmo
 
 > La voluntad personal sin frenos y la expresión desordenada del yo equivalen a un egoísmo total, al súmmum de la impiedad. [LU 54:1.5](/es/The_Urantia_Book/54#p1_5)
@@ -251,6 +263,18 @@ Esta palabra [^1] designa seres y cosas que tienen orígenes. También designa a
 > Todo este concepto de la expiación y de la salvación a través del sacrificio está arraigado y apoyado en el egoísmo. <a id="s102_132"></a>[LU 188:4.8](/es/The_Urantia_Book/188#p4_8)
 
 <br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/D"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">D</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/F"><span class="pr-2">F</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
 
 
 ## Notas

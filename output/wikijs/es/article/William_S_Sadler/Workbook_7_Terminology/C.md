@@ -12,6 +12,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/B"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">B</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/D"><span class="pr-2">D</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
 ## Capacidad
 
 > La capacidad se hereda, mientras que la habilidad se adquiere. La vida es irreal para aquel que no sabe hacer alguna cosa bien, expertamente. La habilidad es una de las verdaderas fuentes de satisfacción en la vida. La capacidad implica el don de la previsión, de la visión de futuro. <a id="s28_260"></a>[LU 160:4.11](/es/The_Urantia_Book/160#p4_11)
@@ -150,10 +162,20 @@ Limitado o modificado de alguna manera. [^1]
 
 > El hambre de armonía y la sed de belleza. Los intentos persistentes por descubrir nuevos niveles de relaciones cósmicas armoniosas. [LU 56:10.6](/es/The_Urantia_Book/56#p10_6)
 
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/B"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">B</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology#índice"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span></a></td>
+			<td><a href="/es/article/William_S_Sadler/Workbook_7_Terminology/D"><span class="pr-2">D</span><span class="mdi mdi-arrow-right-drop-circle"></span></a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
 
 ## Notas
 
 [^1]: de [Un estudio del Universo Maestro](/es/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)
-
-<br>
-
