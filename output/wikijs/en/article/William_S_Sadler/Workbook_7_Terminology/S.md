@@ -36,8 +36,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Scriptures
 
-> These writings are the work of men, some of them holy men, others not so holy. The teachings of these books represent the views and extent of enlightenment of the times in which they had their origin. As a revelation of truth, the last are more dependable than the first.The Scriptures are faulty and altogether human in origin, but mistake not, they do constitute the best collection of religious wisdom and spiritual truth to be found in all the world at this time.[](/en/The_Urantia_Book/159#p4_3)
-
+> These writings are the work of men, some of them holy men, others not so holy. The teachings of these books represent the views and extent of enlightenment of the times in which they had their origin. As a revelation of truth, the last are more dependable than the first.The Scriptures are faulty and altogether human in origin, but mistake not, they do constitute the best collection of religious wisdom and spiritual truth to be found in all the world at this time.
+> 
 > Many of these books were not written by the persons whose names they bear, but that in no way detracts from the value of the truths which they contain. <a id="s40_154"></a>[UB 159:4.3](/en/The_Urantia_Book/159#p4_3)
 
 > The Scriptures are sacred because they present the thoughts and acts of men who were searching for God, and who in these writings left of record their highest concepts of righteousness, truth, and holiness. The Scriptures contain much that is true, very much, but in the light of your present teaching, you know that these writings also contain much that is misrepresentative of the Father in heaven, the loving God I have come to reveal to all the worlds. <a id="s42_459"></a>[UB 159:4.4](/en/The_Urantia_Book/159#p4_4)
@@ -92,7 +92,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Segregata
 
-_Pregravity Stages ( Force)_ . This is the first step in the individuation of space potency into the pre-energy forms of cosmic force. This state is analogous to the concept of the primordial force-charge of space, sometimes called _pure energy_, or _segregata_. <a id="s94_263"></a>[UB 11:8.5](/en/The_Urantia_Book/11#p8_5)
+> _Pregravity Stages (Force)_ . This is the first step in the individuation of space potency into the pre-energy forms of cosmic force. This state is analogous to the concept of the primordial force-charge of space, sometimes called _pure energy_, or _segregata_. <a id="s94_263"></a>[UB 11:8.5](/en/The_Urantia_Book/11#p8_5)
 
 > Primordial force is sometimes spoken of as _pure energy_; on Uversa we refer to it as SEGREGATA. <a id="s96_99"></a>[UB 42:2.9](/en/The_Urantia_Book/42#p2_9)
 
@@ -130,9 +130,9 @@ _Pregravity Stages ( Force)_ . This is the first step in the individuation of sp
 
 > No person is ever made to suffer vital spiritual deprivation because of the sin of another. Sin is wholly personal as to moral guilt or spiritual consequences, notwithstanding its far-flung repercussions in administrative, intellectual, and social domains. <a id="s130_259"></a>[UB 67:7.7](/en/The_Urantia_Book/67#p7_7)
 
-_Sin must be redefined as deliberate disloyalty to Deity._ There are degrees of disloyalty: the partial loyalty of indecisions the divided loyalty of confliction; the dying loyalty of indifference: and the death of loyalty exhibited in devotion to godless ideals.[](/en/The_Urantia_Book/89#p10_2)
-
-> The sense or feeling of guilt is the consciousness of the violation of the mores; it is not necessarily sin. There is no real sin in the absence of conscious disloyalty to Deity. <a id="s134_181"></a>[UB 89:10.2](/en/The_Urantia_Book/89#p10_2)
+> _Sin must be redefined as deliberate disloyalty to Deity._ There are degrees of disloyalty: the partial loyalty of indecisions the divided loyalty of confliction; the dying loyalty of indifference: and the death of loyalty exhibited in devotion to godless ideals.[](/en/The_Urantia_Book/89#p10_2)
+> 
+> The sense or feeling of guilt is the consciousness of the violation of the mores; it is not necessarily sin. There is no real sin in the absence of conscious disloyalty to Deity. <a id="s134_181"></a>[UB 89:10.2-3](/en/The_Urantia_Book/89#p10_2)
 
 > Sin is the conscious, knowing, and deliberate transgression of the divine law, the Father’s will; Sin is the measure of unwillingness to be divinely led and spiritually directed. <a id="s136_181"></a>[UB 148:4.4](/en/The_Urantia_Book/148#p4_4)
 
@@ -182,7 +182,7 @@ _Sin must be redefined as deliberate disloyalty to Deity._ There are degrees of 
 
 > Spirit is ever conscious, minded, and possessed of varied phases of identity. Without mind in some phase there would be no spiritual consciousness in the fraternity of spirit beings. <a id="s182_185"></a>[UB 6:6.2](/en/The_Urantia_Book/6#p6_2)
 
-_Spirit._ The divine spirit that indwells the mind of man—the Thought Adjuster. This immortal spirit is prepersonal—not a personality, though destined to become a part of the personality of the surviving mortal creature. <a id="s184_221"></a>[UB 0:5.9](/en/The_Urantia_Book/0#p5_9)
+> _Spirit._ The divine spirit that indwells the mind of man—the Thought Adjuster. This immortal spirit is prepersonal—not a personality, though destined to become a part of the personality of the surviving mortal creature. <a id="s184_221"></a>[UB 0:5.9](/en/The_Urantia_Book/0#p5_9)
 
 > Cosmic force responds to mind even as cosmic mind responds to spirit. Spirit is divine purpose, and spirit mind is divine purpose in action. Energy is thing, mind .is meaning, spirit is value. Even in time and space, mind establishes those relative relationships between energy and spirit which are suggestive of mutual kinship in eternity. <a id="s186_343"></a>[UB 9:4.5](/en/The_Urantia_Book/9#p4_5)
 
@@ -208,8 +208,10 @@ _Spirit._ The divine spirit that indwells the mind of man—the Thought Adjuster
 
 > The architectural headquarters worlds of the local universe are real worlds—physical creations. There is much work connected with their physical upkeep, and herein we have the assistance of a group of physical creatures called spornagia. They are devoted to the care and culture of the material phases of these headquarters worlds, from Jerusem to Salvington. Spornagia are neither spirits not persons; they are an animal order of existence, but if you could see them, you would agree that they seem to be perfect animals. <a id="s208_525"></a>[UB 37:10.3](/en/The_Urantia_Book/37#p10_3)
 
-> Spornagia are not Adjuster indwelt. They do not possess survival souls, but they do enjoy long lives, sometimes to the extent of forty to fifty thousand standard years. Their number is legion, and they afford physical ministry to all orders of universe personalities requiring material service. Although spornagia neither possess nor evolve survival souls, though they do not have personality, nevertheless, they do evolve an individuality which can experience reincarnation. When, with the passing of time, the physical bodies of these unique creatures deteriorate from usage and age, their creators in collaboration with the Life Carters, fabricate new bodies in which the old spornagia re-establish their residences.[](/en/The_Urantia_Book/46#p7_3)
-
+> Spornagia are not Adjuster indwelt. They do not possess survival souls, but they do enjoy long lives, sometimes to the extent of forty to fifty thousand standard years. Their number is legion, and they afford physical ministry to all orders of universe personalities requiring material service. 
+> 
+> Although spornagia neither possess nor evolve survival souls, though they do not have personality, nevertheless, they do evolve an individuality which can experience reincarnation. When, with the passing of time, the physical bodies of these unique creatures deteriorate from usage and age, their creators in collaboration with the Life Carters, fabricate new bodies in which the old spornagia re-establish their residences.
+> 
 > Spornagia are the only creatures in all the universe of Nebadon who experience this or any other sort of reincarnation. <a id="s212_122"></a>[UB 46:7.3](/en/The_Urantia_Book/46#p7_3)
 
 > Perhaps I can best suggest to Urantia minds something of the nature of these beautiful and serviceable creatures by saying that they embrace the combined traits of a faithful horse and an affectionate dog and manifest an intelligence exceeding that of the highest type of chimpanzee. <a id="s214_286"></a>[UB 46:7.7](/en/The_Urantia_Book/46#p7_7)

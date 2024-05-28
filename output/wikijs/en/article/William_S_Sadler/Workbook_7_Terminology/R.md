@@ -35,7 +35,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > Reality differentially actualizes on diverse universe levels; reality originates in and by the infinite volition of the Universal Father and is realizable in three primal phases on many different levels of universe actualization:
 > 1. Undeified reality
 > 2. Deified reality
-> 3. Interassociated reality <a id="s37_29"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1) <a id="s37_69"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1)
+> 3. Interassociated reality <a id="s37_29"></a>[UB 0:4.1-4](/en/The_Urantia_Book/0#p4_1)
 
 ## Reason
 
@@ -82,8 +82,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > True religion has nothing to do with alleged miracles, and never does revealed religion point to miracles as proof of authority. Religion is ever and always rooted and grounded in personal experience. <a id="s81_203"></a>[UB 102:8.7](/en/The_Urantia_Book/102#p8_7)
 
 > Religion is designed to change man’s environment, but much of the religion found among mortals today has become helpless to do this. Environment has all too often mastered religion.
-
-> Remember that in the religion of all ages the experience which is paramount is the feeling regarding moral values and social meanings, not the thinking regarding theologic dogmas or philosophic theories.Religion evolves favorably as the element of magic is replaced by the concept of morals. <a id="s85_294"></a>[UB 103:3.3](/en/The_Urantia_Book/103#p3_3)
+> 
+> Remember that in the religion of all ages the experience which is paramount is the feeling regarding moral values and social meanings, not the thinking regarding theologic dogmas or philosophic theories.Religion evolves favorably as the element of magic is replaced by the concept of morals. <a id="s85_294"></a>[UB 103:3.3-4](/en/The_Urantia_Book/103#p3_3)
 
 > The relation between the creature and the Creator is a living experience, a dynamic religious faith, which is not subject to precise definition. To isolate part of life and call it religion is to disintegrate life and to distort religion. And this is just why the God of worship claims all allegiance or none. <a id="s87_312"></a>[UB 102:6.1](/en/The_Urantia_Book/102#p6_1)
 
@@ -95,7 +95,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Religion,as a human experience, ranges from the primitive fear slavery of the evolving savage up to the sublime and magnificent faith liberty of those civilized mortals who are superbly conscious of sonship with the eternal God. <a id="s95_231"></a>[UB 101:0.1](/en/The_Urantia_Book/101#p0_1)
 
-> Religion, the conviction-faith of the personality, can always triumph over the superficially contradictory logic of despair born in the unbelieving material mind. There really is a true and genuine inner voice, that “true light which lights every man who comes into the world.” Religion is faith, trust, and assurance. <a id="s97_321"></a>[UB 101:0.3](/en/The_Urantia_Book/101#p0_3)
+> Religion, the conviction-faith of the personality, can always triumph over the superficially contradictory logic of despair born in the unbelieving material mind. There really is a true and genuine inner voice, that “true light which lights every man who comes into the world.” . . . Religion is faith, trust, and assurance. <a id="s97_321"></a>[UB 101:0.3](/en/The_Urantia_Book/101#p0_3)
 
 > Religion is the mighty lever that lifts civilization from chaos, but it is powerless apart from the fulcrum of sound and normal mind resting securely on sound and normal heredity. <a id="s99_182"></a>[UB 70:8.18](/en/The_Urantia_Book/70#p8_18)
 
@@ -158,14 +158,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > Revelation is a technique whereby ages upon ages of time are saved in the necessary work of sorting and sifting the errors of evolution from the truths of spirit acquirement. <a id="s157_177"></a>[UB 101:5.1](/en/The_Urantia_Book/101#p5_1)
 
 > Revelation liberates men and starts them out on the eternal adventure.
-
+> 
 > Science sorts men; religion loves men, even as yourself; wisdom does justice to differing men; but revelation glorifies man and discloses his capacity for partnership with God.
-
+> 
 > Science vainly strives to create the brotherhood of culture; religion brings into being the brotherhood of the spirit. Philosophy strives for the brotherhood of wisdom; revelation portrays the eternal brotherhood, the Paradise Corps of the Finality.
-
+> 
 > Knowledge yields pride in the fact of personality; widsom is the consciousness of the meaning of personality; religion is the experience of cognizance of the value of personality; revelation is the assurance of personality survival. <a id="s165_235"></a>[UB 102:3.6](/en/The_Urantia_Book/102#p3_6)
-
-> Revealed religion is the unifying element of human existence. Revelation unifies history, co-ordinates geology astronomy, physics, chemistry, biology, sociology, and psychology. Spiritual experience is the real soul of man’s cosmos. <a id="s167_235"></a>[UB 102:4.6](/en/The_Urantia_Book/102#p4_6)
+> 
+> Revealed religion is the unifying element of human existence. Revelation unifies history, co-ordinates geology astronomy, physics, chemistry, biology, sociology, and psychology. Spiritual experience is the real soul of man’s cosmos. <a id="s167_235"></a>[UB 102:4.6-9](/en/The_Urantia_Book/102#p4_6)
 
 ## Revenge
 
@@ -178,16 +178,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ## Rights
 
 > When rights are old beyond knowledge of origin, they are often called _natural rights_. But human rights are not really naturals they are entirely social. They are relative and ever changing, being no more than the rules of the game—recognized adjustments of relations governing the ever-changing phenomena of human competition.
-
+> 
 > What may be regarded as right in one age may not be so regarded in another.
-
-> The weak and inferior have always contended for equal rights; they have always insisted that the state compel the strong and superior to supply their wants and otherwise make good those deficiencies which all too often are the natural result of their own indifference and indolence.Society cannot offer equal rights to all, but it can promise to administer the varying rights of each with fairness and equity. <a id="s183_412"></a>[UB 70:9.13](/en/The_Urantia_Book/70#p9_13)
+>
+> . . .
+> 
+> The weak and inferior have always contended for equal rights; they have always insisted that the state compel the strong and superior to supply their wants and otherwise make good those deficiencies which all too often are the natural result of their own indifference and indolence.Society cannot offer equal rights to all, but it can promise to administer the varying rights of each with fairness and equity. <a id="s183_412"></a>[UB 70:9.13-16](/en/The_Urantia_Book/70#p9_13)
 
 ## Ritual
 
 > The essence of the ritual is the perfection of its performance; among savages it must be practiced with exact precision.
 
-> Ritual is the technique of sanctifying custom; ritual creates and perpetuates myths as well as contributing to the preservation of social and religious customs. Again, ritual itself has been fathered by myths. Rituals are often at first social, later becoming economic and finally acquiring the sanctity and dignity of religious ceremonial. Ritual may be personal or group in practice—or both—as illustrated by prayer, dancing, and drama. <a id="s189_441"></a>[UB 90:5.1](/en/The_Urantia_Book/90#p5_1)
+> Ritual is the technique of sanctifying custom; ritual creates and perpetuates myths as well as contributing to the preservation of social and religious customs. Again, ritual itself has been fathered by myths. Rituals are often at first social, later becoming economic and finally acquiring the sanctity and dignity of religious ceremonial. Ritual may be personal or group in practice—or both—as illustrated by prayer, dancing, and drama. <a id="s189_441"></a>[UB 90:5.1-2](/en/The_Urantia_Book/90#p5_1)
 
 
 <br>

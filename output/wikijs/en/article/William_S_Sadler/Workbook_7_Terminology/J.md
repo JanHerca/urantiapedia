@@ -44,7 +44,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Natural justice is a man-made theory; it is not a reality, In nature, justice is purely theoretic, wholly a fiction. Nature provides but one kind of justice—inevitable conformity to causes.
 > 
-> Justice, as conceived by man, means getting one’s rights and has, therefore, been a matter of progressive evolution. The concept of justice may well be constitutive in a spirit-endowed mind, but it does not spring full-fledgedly into existence on the worlds of space. <a id="s46_270"></a>[UB 70:10.1](/en/The_Urantia_Book/70#p10_1)
+> Justice, as conceived by man, means getting one’s rights and has, therefore, been a matter of progressive evolution. The concept of justice may well be constitutive in a spirit-endowed mind, but it does not spring full-fledgedly into existence on the worlds of space. <a id="s46_270"></a>[UB 70:10.1-2](/en/The_Urantia_Book/70#p10_1)
 
 
 <br>

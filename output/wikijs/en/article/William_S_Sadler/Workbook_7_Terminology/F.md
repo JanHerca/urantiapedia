@@ -48,11 +48,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Faith—insight, or spiritual intuition, is the endowment of the cosmic mind in association with the Thought Adjuster, which is the Father’s gift to man. <a id="s48_154"></a>[UB 101:3.2](/en/The_Urantia_Book/101#p3_2)
 
-> Belief has attained the level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty not conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience. One believes truth, admires beauty, and reverences goodness, but does not worship them; such an attitude of saving faith is centered on God alone, who is all of these personified and infinitely more. Belief is always limiting and binding; faith is expanding and releasing. Belief fixates, faith liberates. But living religious faith is more than the association of noble beliefs; it is more than an exalted system of philosophy; it is a living experience concerned with spiritual meanings, divine ideals, and supreme values; it is God—knowing and man-serving. Beliefs may become group possessions, but faith must be personal. Theologic beliefs can be suggested, to a group, but faith can rise up only in the heart of the individual religionist.
+> Belief has attained the level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty not conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience. One believes truth, admires beauty, and reverences goodness, but does not worship them; such an attitude of saving faith is centered on God alone, who is all of these personified and infinitely more. 
+> 
+> Belief is always limiting and binding; faith is expanding and releasing. Belief fixates, faith liberates. But living religious faith is more than the association of noble beliefs; it is more than an exalted system of philosophy; it is a living experience concerned with spiritual meanings, divine ideals, and supreme values; it is God—knowing and man-serving. Beliefs may become group possessions, but faith must be personal. Theologic beliefs can be suggested, to a group, but faith can rise up only in the heart of the individual religionist.
 > 
 > Faith has falsified its trust when it presumes to deny realities and to confer upon its devotees assumed knowledge.. Faith is a traitor when it fosters betrayal of intellectual integrity and belittles loyalty to supreme values and divine ideals. Faith never shuns the problem—solving duty of mortal living. Living faith does not foster bigotry, persecution, or intolerance.
 > 
-> Faith does not shackle the creative imagination, neither does it maintain an unreasoning prejudice toward the discoveries of scientific investigation. Faith vitalizes religion and constrains the religionist heroically to live the golden rule. The zeal of faith is according to knowledge, and its strivings are the preludes to sublime peace. <a id="s54_343"></a>[UB 101:8.1](/en/The_Urantia_Book/101#p8_1)
+> Faith does not shackle the creative imagination, neither does it maintain an unreasoning prejudice toward the discoveries of scientific investigation. Faith vitalizes religion and constrains the religionist heroically to live the golden rule. The zeal of faith is according to knowledge, and its strivings are the preludes to sublime peace. <a id="s54_343"></a>[UB 101:8.1-4](/en/The_Urantia_Book/101#p8_1)
 
 > Faith becomes the connection between moral consciousness and the spiritual concept of enduring reality. <a id="s56_106"></a>[UB 101:9.9](/en/The_Urantia_Book/101#p9_9)
 
@@ -66,7 +68,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > But truth can never become man’s possession without the exercise of faith. This is true because man’s thoughts, wisdom, ethics, and ideals will never rise higher than his faith, his sublime hope. And all such true faith is predicated on profound reflection, sincere self-criticism, and uncompromising moral consciousness. Faith is the inspiration of the spiritized creative imagination.
 > 
-> Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival. <a id="s68_173"></a>[UB 132:3.5](/en/The_Urantia_Book/132#p3_5)
+> Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival. <a id="s68_173"></a>[UB 132:3.5-6](/en/The_Urantia_Book/132#p3_5)
 
 > “Peace be upon you. You rejoice to know that I am the resurrection and the life, but this will avail you nothing unless you are first born of the eternal spirit, thereby coming to possess, by faith, the gift of eternal life. If you are the faith sons of my Father, you shall never die; you shall not perish.” <a id="s70_311"></a>[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)
 
@@ -96,7 +98,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Finite level
 
-_The finite level_ of reality is characterized by creature life and time-space limitations. Finite realities may not have endings, but they always have beginnings—they are created. The deity level of Supremacy may be may be conceived as a function in relation to finite existences. <a id="s98_282"></a>[UB 0:1.11](/en/The_Urantia_Book/0#p1_11)
+> _The finite level_ of reality is characterized by creature life and time-space limitations. Finite realities may not have endings, but they always have beginnings—they are created. The deity level of Supremacy may be may be conceived as a function in relation to finite existences. <a id="s98_282"></a>[UB 0:1.11](/en/The_Urantia_Book/0#p1_11)
 
 ## First Source and Center
 

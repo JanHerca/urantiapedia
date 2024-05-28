@@ -97,8 +97,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > Mercy is simply justice tempered by that wisdom which grows out of perfection of knowledge and the full recognition of the natural weaknesses and environmental handicaps of finite creatures. <a id="s96_193"></a>[UB 2:4.1](/en/The_Urantia_Book/2#p4_1)
 
 > Mercy is the natural and inevitable offspring of goodness and love. The good nature of a loving Father could not possibly withhold the wise ministry of mercy to each member of every group of his universe children. Eternal justice and divine mercy together constitute what is human experience would be called fairness.
-
-> Divine mercy represents a, fairness technique, of adjustment between the universe levels of perfection and imperfection. Mercy is not a contravention of justice but rather an understanding interpretation of the demands of supreme justice as it is fairly applied to the subordinate spiritual beings and to the material creatures of the evolving universes. <a id="s100_357"></a>[UB 2:4.4](/en/The_Urantia_Book/2#p4_4)
+> 
+> Divine mercy represents a, fairness technique, of adjustment between the universe levels of perfection and imperfection. . . . Mercy is not a contravention of justice but rather an understanding interpretation of the demands of supreme justice as it is fairly applied to the subordinate spiritual beings and to the material creatures of the evolving universes. <a id="s100_357"></a>[UB 2:4.4-5](/en/The_Urantia_Book/2#p4_4)
 
 > Justice is the collective thought of righteousness; mercy is its personal expression. Mercy is the attitude of love. <a id="s102_119"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18)
 
@@ -126,7 +126,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Militarism is autocratic and cruel—savage. It promotes social organization among the conquerors but disintegrates the vanquished.
 
-> Do not make the mistake of glorifying war; rather discern what it has done for society so that you may the more accurately visualize what its substitutes must provide in order to continue the advancement of civilization. And if such adequate substitutes are not provided, then you may be sure that war will long continue. <a id="s128_324"></a>[UB 70:2.18](/en/The_Urantia_Book/70#p2_18)
+> Do not make the mistake of glorifying war; rather discern what it has done for society so that you may the more accurately visualize what its substitutes must provide in order to continue the advancement of civilization. And if such adequate substitutes are not provided, then you may be sure that war will long continue. <a id="s128_324"></a>[UB 70:2.18-19](/en/The_Urantia_Book/70#p2_18)
 
 ## Mile
 
@@ -146,15 +146,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Mind transmutes the values of spirit into the meanings of intellect; volition has power to bring the meanings of mind to fruit in both the material and spiritual domains. The Paradise ascent involves a relative and differential growth in spirit, mind, and energy. The personality is the unifier of these components of experiential individuality. <a id="s146_348"></a>[UB 9:4.6](/en/The_Urantia_Book/9#p4_6)
 
-> Mind, on Urantia, is a compromise between the essence of thought -perfection and the evolving mentality of your immature human nature. Mind is truly of divine origin, and it does have a divine destiny, but your mortal minds are not yet of divine dignity. <a id="s148_257"></a>[UB 9:5.6](/en/The_Urantia_Book/9#p5_6)
+> Mind, on Urantia, is a compromise between the essence of thought -perfection and the evolving mentality of your immature human nature. . . . Mind is truly of divine origin, and it does have a divine destiny, but your mortal minds are not yet of divine dignity. <a id="s148_257"></a>[UB 9:5.6](/en/The_Urantia_Book/9#p5_6)
 
 > Mind is the technique whereby spirit realities become experiential to creature personalities. And in the last analysis the unifying possibilities of even human mind, the ability to co-ordinate things, ideas, and values, is supermaterial. <a id="s150_240"></a>[UB 12:8.8](/en/The_Urantia_Book/12#p8_8)
 
 > Mind is a divinity bestowal, but it is not immortal when it functions without spirit insight, and when it is devoid of the ability to worship and crave survival. <a id="s152_164"></a>[UB 36:5.17](/en/The_Urantia_Book/36#p5_17)
 
-> Material mind is the arena in which human personalities live, are self conscious, make decisions, choose God or forsake him, eternalize or destroy themselves. Material evolution has provided you a life machine, your body; the Father himself has endowed you with the purest spirit reality known in the universe, your Thought Adjuster. But into your hands, subject to your own decisions, has been given mind, and it is by mind that you live or die. It is within this mind and with this mind that you make those moral decisions which enable you to achieve Adjusterlikeness, and that is Godlikeness.
-
-> Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accenting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul—the morontia self—will faithfully portray the harvest of the temporal decisions which the mortal self is making. <a id="s156_410"></a>[UB 111:1.3](/en/The_Urantia_Book/111#p1_3)
+> Material mind is the arena in which human personalities live, are self conscious, make decisions, choose God or forsake him, eternalize or destroy themselves. 
+> 
+> Material evolution has provided you a life machine, your body; the Father himself has endowed you with the purest spirit reality known in the universe, your Thought Adjuster. But into your hands, subject to your own decisions, has been given mind, and it is by mind that you live or die. It is within this mind and with this mind that you make those moral decisions which enable you to achieve Adjusterlikeness, and that is Godlikeness.
+> 
+> Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accenting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul—the morontia self—will faithfully portray the harvest of the temporal decisions which the mortal self is making. <a id="s156_410"></a>[UB 111:1.3-5](/en/The_Urantia_Book/111#p1_3)
 
 > Mind is the cosmic instrument on which the human will can play the discords of destruction, or upon which this same human will can bring forth the exquisite melodies of God identification and consequent eternal survival. <a id="s158_223"></a>[UB 111:1.6](/en/The_Urantia_Book/111#p1_6)
 
@@ -183,24 +185,24 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ## Morality
 
 > Morality can never be advanced by law or by force. It is a personal and freewill matter and must be disseminated by the contagion of the contact of morally fragrant persons with those who are less morally responsive, but who are also desirous of doing the Father’s will.
-
-> Moral acts are those human performances which are characterized by the highest intelligence, directed by selective discrimination in the choice of superior ends as well as in the selection of moral means to attain these ends. Such conduct is virtuous. Supreme virtue, then, is wholeheartedly to choose to do the will of the Father in heaven. <a id="s186_344"></a>[UB 16:7.9](/en/The_Urantia_Book/16#p7_9)
+> 
+> Moral acts are those human performances which are characterized by the highest intelligence, directed by selective discrimination in the choice of superior ends as well as in the selection of moral means to attain these ends. Such conduct is virtuous. Supreme virtue, then, is wholeheartedly to choose to do the will of the Father in heaven. <a id="s186_344"></a>[UB 16:7.9-10](/en/The_Urantia_Book/16#p7_9)
 
 > Morality is the essential pre-existent soil of personal God-consciousness, the personal realization of the Adjuster’s inner presence, but such morality is not the source of religious experience and the resultant spiritual insight. The moral nature is superanimal but subspiritual. Morality is equivalent to the recognition of duty, the realization of the existence of right and wrong. The moral zone intervenes between the animal and the human types of mind as morontia functions between the material and the spiritual spheres of personality attainment.
-
+> 
 > The evolutionary mind is able to discover law, morals, and ethics; but -the bestowed spirit, the indwelling Adjuster, reveals to the evolving human mind the lawgiver, the Fathersource of all that is true, beautiful, and good; and such an illuminated man has a religion and is spiritually equipped to begin the long and adventurous search for God.
-
-> Morality is not necessarily spiritual; it may be wholly and purely human, albeit real religion enhances all moral values, makes them more meaningful. Morality without religion fails to reveal ultimate goodness, and it also fails to provide for the survival of even its own moral values. Religion provides for the enhancement, glorification, and assured survival of every thing morality recognizes and approves. <a id="s192_413"></a>[UB 196:3.25](/en/The_Urantia_Book/196#p3_25)
+> 
+> Morality is not necessarily spiritual; it may be wholly and purely human, albeit real religion enhances all moral values, makes them more meaningful. Morality without religion fails to reveal ultimate goodness, and it also fails to provide for the survival of even its own moral values. Religion provides for the enhancement, glorification, and assured survival of every thing morality recognizes and approves. <a id="s192_413"></a>[UB 196:3.25-27](/en/The_Urantia_Book/196#p3_25)
 
 ## Morontia
 
- > _Morontia_ is a term designating a vast level intervening between the material and the spiritual. It may designate personal or Impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical. <a id="s196_239"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
+> _Morontia_ is a term designating a vast level intervening between the material and the spiritual. It may designate personal or Impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical. <a id="s196_239"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
 
-**Mortal, God-conscious**
+## Mortal, God-conscious
 
-> The God-conscious mortal is certain of salvation; he is unafraid of life; he is honest and consistent. He knows how bravely to endure unavoidable suffering; he is uncomplaining when faced by inescapable hardship. <a id="s200_215"></a>[UB 156:5.20](/en/The_Urantia_Book/156#p5_20)
-
-> The true believer does not grow weary in well-doing just because he is thwarted. Difficulty whets the ardor of the truth lover, while obstacles only challenge the exertions of the undaunted kingdom builder.
+> The God-conscious mortal is certain of salvation; he is unafraid of life; he is honest and consistent. He knows how bravely to endure unavoidable suffering; he is uncomplaining when faced by inescapable hardship.
+> 
+> The true believer does not grow weary in well-doing just because he is thwarted. Difficulty whets the ardor of the truth lover, while obstacles only challenge the exertions of the undaunted kingdom builder. <a id="s200_215"></a>[UB 156:5.20-21](/en/The_Urantia_Book/156#p5_20)
 
 ## Mota
 

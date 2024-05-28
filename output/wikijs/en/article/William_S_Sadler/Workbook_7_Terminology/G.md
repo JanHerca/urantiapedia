@@ -45,7 +45,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 4. _God the Supreme_
 > 5. _God the Sevenfold_
 > 6. _God the Ultimate_
-> 7. _God the Absolute_ <a id="s47_24"></a>[UB 0:2.6](/en/The_Urantia_Book/0#p2_6)
+> 7. _God the Absolute_ <a id="s47_24"></a>[UB 0:2.6-18](/en/The_Urantia_Book/0#p2_6)
 
 > God-the Universal Father—is the personality of the First Source and Center. <a id="s49_78"></a>[UB 0:3.10](/en/The_Urantia_Book/0#p3_10)
 
@@ -78,8 +78,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > God repents of nothing he has ever done, now does, or ever will do. He is all-wise as well as all-powerful. <a id="s77_110"></a>[UB 4:3.4](/en/The_Urantia_Book/4#p3_4)
 
 > God is the only stationary, self-contained, and changeless being in the whole universe of universes, having no outside, no beyond, no past, and no future. God is purposive energy (creative spirit) and absolute will, and these are self-existent and universal.
-
-> Since God is self-existent, he is absolutely independent. The very identity of God is inimical to change. <a id="s81_108"></a>[UB 4:4.1](/en/The_Urantia_Book/4#p4_1)
+>
+> Since God is self-existent, he is absolutely independent. The very identity of God is inimical to change. <a id="s81_108"></a>[UB 4:4.1-2](/en/The_Urantia_Book/4#p4_1)
 
 > In science, God is the First Causes; in religion, the universal and loving Father; in philosophy, the one being who exists by himself, not dependent on any other being for existence but beneficently conferring reality of existence on all things and upon all other beings. <a id="s83_274"></a>[UB 4:4.7](/en/The_Urantia_Book/4#p4_7)
 
@@ -157,7 +157,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > The inescapable pull of gravity effectively grips all the worlds of all the universes of all space. Gravity is the all-powerful grasp of the physical presence of Paradise. Gravity is the omnipotent strand on which are strung the gleaming stars, blazing suns, and whirling spheres which constitute the universal physical adornment of the eternal God, who is all things, fills all things, and in whom all things consist. <a id="s157_421"></a>[UB 11:8.1](/en/The_Urantia_Book/11#p8_1)
 
-> The center and focal point of absolute material gravity is the Isle of Paradise, complemented by the dark gravity bodies encircling Havona and equilibrated by the upper and nether space reservoirs. All known emanations of nether Paradise invariable and unerringly respond to the central gravity pull operating upon the endless circuits of the elliptical space levels of the master universe. Every known form of cosmic reality has the bend of the ages, the trend of the circle, the swing of the great ellipse. Space is nonresponsive to gravity, but it acts as a equilibrant on gravity. Without the space cushion, explosive action would jerk surrounding space bodies. Pervaded space also exerts an antigravity influence upon physical or linear gravity; space can actually neutralize such gravity action even though it cannot delay it. Absolute gravity is paradise gravity. Local or linear gravity pertains to the electrical stage of energy or matter; it operates within the central, super-, and outer universes, wherever suitable materialization has taken place. <a id="s159_1063"></a>[UB 11:8.1](/en/The_Urantia_Book/11#p8_1)
+> The center and focal point of absolute material gravity is the Isle of Paradise, complemented by the dark gravity bodies encircling Havona and equilibrated by the upper and nether space reservoirs. All known emanations of nether Paradise invariable and unerringly respond to the central gravity pull operating upon the endless circuits of the elliptical space levels of the master universe. Every known form of cosmic reality has the bend of the ages, the trend of the circle, the swing of the great ellipse. 
+> 
+> Space is nonresponsive to gravity, but it acts as a equilibrant on gravity. Without the space cushion, explosive action would jerk surrounding space bodies. Pervaded space also exerts an antigravity influence upon physical or linear gravity; space can actually neutralize such gravity action even though it cannot delay it. Absolute gravity is paradise gravity. Local or linear gravity pertains to the electrical stage of energy or matter; it operates within the central, super-, and outer universes, wherever suitable materialization has taken place. <a id="s159_1063"></a>[UB 11:8.2-3](/en/The_Urantia_Book/11#p8_1)
 
 ## Growth, creative
 

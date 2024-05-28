@@ -42,7 +42,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Human will—the ability to know God and the power of choosing to worship him. <a id="s42_79"></a>[UB 65:0.6](/en/The_Urantia_Book/65#p0_6)
 
-> The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection. <a id="s44_339"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7)
+> The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. . . . Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection. <a id="s44_339"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7)
 
 > Will is that manifestation of the human mind which enables the subjective consciousness to express itself objectively. and to experience the phenomenon of aspiring to be Godlike. <a id="s46_181"></a>[UB 130:2.10](/en/The_Urantia_Book/130#p2_10)
 
@@ -82,13 +82,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Worship—contemplation of the spiritual—must alternate with service, contact with material reality. <a id="s82_101"></a>[UB 143:7.3](/en/The_Urantia_Book/143#p7_3)
 
-> Worship is intended to anticipate the better life ahead and, then to reflect these new spiritual significances back onto the life which now is. Prayer is spiritually sustaining, but worship is divinely creative.[](/en/The_Urantia_Book/143#p7_5)
-
+> Worship is intended to anticipate the better life ahead and, then to reflect these new spiritual significances back onto the life which now is. Prayer is spiritually sustaining, but worship is divinely creative.
+> 
 > Worship is the technique of looking to the One for the inspiration of service to the many. Worship is the yardstick which measures the extent of the soul’s detachment from the material universe and its simultaneous and secure attachment to the spiritual realities of all creation.
-
+> 
 > Prayer is self-reminding—sublime thinking; worship is self-forgetting—superthinking. Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion.
-
-> Worship is the act of a part identifying itself with the whole; the finite with the infinite; the son with the Father; time in the act of striking step with eternity. Worship is the act of the son’s personal communion with the divine Father, the assumption of refreshing, creative, fraternal, and romantic attitudes by the human soul-spirit. <a id="s90_344"></a>[UB 143:7.5](/en/The_Urantia_Book/143#p7_5)
+> 
+> Worship is the act of a part identifying itself with the whole; the finite with the infinite; the son with the Father; time in the act of striking step with eternity. Worship is the act of the son’s personal communion with the divine Father, the assumption of refreshing, creative, fraternal, and romantic attitudes by the human soul-spirit. <a id="s90_344"></a>[UB 143:7.5-8](/en/The_Urantia_Book/143#p7_5)
 
 > True religious worship is not a futile monologue of self-deception. Worship is a personal communion with that which is divinely real, with that which is the very source of reality. Man aspires by worship to be better and thereby eventually attains the _best._ <a id="s92_262"></a>[UB 196:3.22](/en/The_Urantia_Book/196#p3_22)
 

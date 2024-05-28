@@ -38,7 +38,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## El Shaddai
 
-> This idea of God was a composite derived from the teachings of Amenamope’s Book of Wisdom modified by Ikhnaton’s doctrine of Aton and further influenced by Melchizedek’s teachings embodied in the concept of El Elyon. But as the concept of El Shaddai permeated the Hebrew mind, it became thoroughly colored with the Yahweh beliefs of the desert. One of the dominant ideas of the religion of this era was the Egyptian concept of divine Providence, the teaching that material prosperity was a reward for serving El Shaddai. <a id="s40_523"></a>[UB 96:1.5](/en/The_Urantia_Book/96#p1_5)
+> This idea of God was a composite derived from the teachings of Amenamope’s Book of Wisdom modified by Ikhnaton’s doctrine of Aton and further influenced by Melchizedek’s teachings embodied in the concept of El Elyon. But as the concept of El Shaddai permeated the Hebrew mind, it became thoroughly colored with the Yahweh beliefs of the desert. One of the dominant ideas of the religion of this era was the Egyptian concept of divine Providence, the teaching that material prosperity was a reward for serving El Shaddai. <a id="s40_523"></a>[UB 96:1.5-6](/en/The_Urantia_Book/96#p1_5)
 
 ## Elohim
 
@@ -76,7 +76,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Energy, Havona
 
-> A pre-existent phase of energy which is characteristic of the central universe. Here the evolutionary cycle seems to turn back upon itself; energy—power now seems to begin to swing back towards force, but force of a nature very unlike that of space potency and primordial force. Havona energy systems are not dual: they are triune. On Uversa these energies of Havona are known as TRIATA. <a id="s78_390"></a>[UB 42:2.16](/en/The_Urantia_Book/42#p2_16)
+> A pre-existent phase of energy which is characteristic of the central universe. Here the evolutionary cycle seems to turn back upon itself; energy—power now seems to begin to swing back towards force, but force of a nature very unlike that of space potency and primordial force. Havona energy systems are not dual: they are triune. On Uversa these energies of Havona are known as TRIATA. <a id="s78_390"></a>[UB 42:2.16-17](/en/The_Urantia_Book/42#p2_16)
 
 ## Energy, Physical
 
