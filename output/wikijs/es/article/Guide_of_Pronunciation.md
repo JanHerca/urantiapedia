@@ -1,5 +1,5 @@
 ---
-title: Guide to Pronunciation of Names and Words in The Urantia Book
+title: "Guía para la pronunciación de nombres y palabras en El Libro de Urantia"
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
@@ -8,27 +8,26 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
-
-<p style="text-align:center">Published by:<br />
-Urantia Foundation<br />
+<p style="text-align:center">Publicado por:<br />
+Fundación Urantia<br />
 533 W Diversey Parkway<br />
-Chicago, Illinois 60614 U.S.A.</p>
-<p style="text-align:center">&copy;1996 Urantia Foundation</p>
+Chicago, Illinois 60614 EE. UU.</p>
+<p style="text-align:center">&copy;1996 Fundación Urantia</p>
 
-## A Brief Introduction
+## Una breve introduccion
 
-This _Guide to Pronunciation of Names and Words_ contains words from _The Urantia Book_, many of which cannot be found in dictionaries or other sources. It describes the pronunciation of the listed words the way they should be pronounced in accordance with the American variant of the English language.
+Esta _Guía para la pronunciación de nombres y palabras_ contiene palabras de _El Libro de Urantia_, muchas de las cuales no se pueden encontrar en diccionarios u otras fuentes. Describe la pronunciación de las palabras enumeradas de la forma en que deben pronunciarse de acuerdo con la variante americana del idioma inglés.
 
-There are two columns of symbols after the listed words:
-- The first column provides the **American Standard** symbols. These are taken from the pronunciation key in _Webster's Third International Dictionary_, and can also be found in other English language dictionaries.
-- The second column provides the **International Phonetic Alphabet** symbols which are used for the description and transcription of sounds in all languages, and are recommended by the _International Phonetic Association_.
+Hay dos columnas de símbolos después de las palabras enumeradas:
+- La primera columna proporciona los símbolos **Estándar americano**. Estos se han tomado de la clave de pronunciación del _Webster's Third International Dictionary_ y también se pueden encontrar en otros diccionarios del idioma inglés.
+- La segunda columna proporciona los símbolos del **Alfabeto Fonético Internacional** que se utilizan para la descripción y transcripción de sonidos en todos los idiomas y son recomendados por la _Asociación Fonética Internacional_.
 
-We have utilized these two sets of symbols and, for the convenience of readers who are not familiar with either set of symbols, we have provided a "Pronunciation Key" that will give you examples of the sound for each symbol used in this guide. With these options, this guide will be useful for peoples of all languages and regions.
+Hemos utilizado estos dos conjuntos de símbolos y, para comodidad de los lectores que no están familiarizados con ninguno de los conjuntos de símbolos, hemos proporcionado una «Clave de pronunciación» que le brindará ejemplos del sonido de cada símbolo utilizado en esta guía. Con estas opciones, esta guía será útil para personas de todos los idiomas y regiones.
 
-## Pronunciation Key
+## Clave de pronunciación
 
 
-| American<br>Standard | International<br>Phonetic | **Example** |
+| Americano<br>estándar | Fonética<br>Internacional | **Ejemplo** |
 | --- | --- | --- |
 | a | &aelig; | c**a**t |
 | &#257; | e | c**a**ke; d**a**y |
@@ -72,10 +71,9 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 | z | z | her**s**; Je**s**us |
 | zh | &#658; | mea**s**ure |
 
-
 ## A
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Abaddon | &lsquo;ab&#601;d&auml;n | &lsquo;&aelig;b&#601;d&#593;n |
 | abandonters | ab&#601;n&rsquo;d&auml;nt&#601;(r)z | &aelig;b&#601;n&rsquo;d&#593;nt&#602;z |
@@ -134,7 +132,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## B
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Baal | &lsquo;b&#257;&#601;l | &lsquo;be&#601;l |
 | Bablod | &lsquo;babl&auml;d | &lsquo;b&aelig;bl&#593;d |
@@ -166,7 +164,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## C
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Caesarea | ses&#601;&rsquo;r&#275;&#601; | s&#603;s&#601;&rsquo;ri&#601; |
 | Caiaphas | &lsquo;k&#299;&#601;f&#601;s | &lsquo;kai&#601;f&#601;s |
@@ -197,7 +195,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## D
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Dabaritta | dab&#601;&rsquo;rit&#601; | d&aelig;b&#601;&rsquo;r&#618;t&#601; |
 | Dalamatia | dal&#601;&rsquo;m&#257;sh&#601; | d&aelig;l&#601;&rsquo;me&#643;&#601; |
@@ -215,7 +213,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## E
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Eber | &lsquo;&#275;b&#601;(r) | &lsquo;ib&#602; |
 | Edentia | &#275;&rsquo;densh&#601; | I&rsquo;d&#603;n&#643;&#601; |
@@ -240,7 +238,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## F
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Fad | fad | f&aelig;d |
 | Fanoving | &lsquo;fan&#333;&#333;vi&#331; | &lsquo;f&aelig;nov&#618;&#331; |
@@ -253,7 +251,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## G
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Gadara | &lsquo;&#609;ad&#601;r&#601; | &lsquo;&#609;&aelig;d&#601;r&#601; |
 | Gadda | &lsquo;&#609;ad&#601; | &lsquo;&#609;&aelig;d&#601; |
@@ -285,7 +283,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## H
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Hallel | h&auml;&rsquo;l&#257;l | h&#593;&rsquo;lel |
 | Hamathites | &lsquo;h&#257;math&#299;ts | &lsquo;hem&aelig;&theta;aits |
@@ -309,7 +307,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## I
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Idumean | idy&uuml;&rsquo;m&#275;&#601;n | &#618;dju&rsquo;mi&#601;n |
 | Ikhnaton | ik&rsquo;n&auml;t&#601;n | &#618;k&rsquo;n&#593;t&#601;n |
@@ -318,7 +316,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## J
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Jabbok | &lsquo;jab&#601;k | &lsquo;d&#658;&aelig;b&#601;k |
 | Jainism | &lsquo;j&#299;nizm | &lsquo;d&#658;ain&#618;zm |
@@ -343,7 +341,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## K
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Kanata | k&#601;&rsquo;n&auml;t&#601; | k&#601;&rsquo;n&#593;t&#601; |
 | Karahta | k&auml;&rsquo;r&auml;t&auml; | k&#593;&rsquo;r&#593;t&#593; |
@@ -359,7 +357,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## L
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Lamech | &lsquo;l&#257;mek | &lsquo;lem&#603;k |
 | Lanaforge | &lsquo;lan&#601;f&#559;rj | &lsquo;l&aelig;n&#601;f&#596;rd&#658; |
@@ -385,7 +383,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## M
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Macad | m&#601;&rsquo;k&auml;d | m&#601;&rsquo;k&#593;d |
 | Maccabean | mak&#601;&rsquo;b&#275;&#601;n | m&aelig;k&#601;&rsquo;bi&#601;n |
@@ -431,7 +429,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## N
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Nabodad | &lsquo;nab&#333;dad | &lsquo;n&aelig;bod&aelig;d |
 | Nabon | &lsquo;n&#257;b&auml;n | &lsquo;neb&#593;n |
@@ -451,7 +449,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## O
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Olivet | &lsquo;&auml;livet | &lsquo;&#593;l&#618;v&#603;t |
 | omniaphim | &lsquo;&auml;mn&#275;&#601;fim | &lsquo;&#593;mni&#601;f&#618;m |
@@ -464,7 +462,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## P
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Palonia | pal&rsquo;&#333;n(&#275;)&#601; | p&aelig;l&rsquo;oni&#601; |
 | Panoptia | pan&rsquo;&auml;psh&#601; | p&aelig;n&rsquo;&#593;p&#643;&#601; |
@@ -493,7 +491,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## R
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Ragaba | &lsquo;ra&#609;&#601;b&#601; | &lsquo;r&aelig;&#609;&#601;b&#601; |
 | Ramah | &lsquo;r&auml;m&#601; | &lsquo;r&#593;m&#601; |
@@ -507,7 +505,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## S
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Sadduccee(s) | &lsquo;saj&#601;s&#275;(z) | &lsquo;s&aelig;d&#658;&#601;si(z) |
 | Sadib | &lsquo;s&#257;dib | &lsquo;sed&#618;b |
@@ -579,7 +577,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## T
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Tabamantia | tab&#601;&rsquo;mansh&#601; | t&aelig;b&#601;&rsquo;m&aelig;n&#643;&#601; |
 | Tabor | &lsquo;t&#257;b&#601;(r) | &lsquo;teb&#602; |
@@ -606,7 +604,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## U
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | ultimata | &#601;lti&rsquo;m&#257;t&#601; | alt&#618;&rsquo;met&#601; |
 | ultimaton | &lsquo;&#601;ltim&#601;t&auml;n | &lsquo;&#652;lt&#618;m&#601;t&#593;n |
@@ -621,7 +619,7 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## V
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Van | van | v&aelig;n |
 | Vanites | &lsquo;van&#299;ts | &lsquo;v&aelig;naits |
@@ -633,19 +631,19 @@ We have utilized these two sets of symbols and, for the convenience of readers w
 
 ## W
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Wolvering | &lsquo;w&#250;lv&#601;(r)i&#331; | &lsquo;w&#650;lv&#602;&#618;&#331; |
 
 ## Y
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Yahweh | &lsquo;y&auml;we | &lsquo;y&#593;w&#603; |
 
 ## Z
 
-| Name | American<br />Standard | International<br />Phonetic |
+| Nombre | Americano<br>estándar | Fonética<br>Internacional |
 | --- | --- | --- |
 | Zaccheus | z&#601;&rsquo;k&#275;&#601;s | z&#601;&rsquo;ki&#601;s |
 | Zaphon | &lsquo;z&#257;f&auml;n | &lsquo;z&#603;f&#593;n |
