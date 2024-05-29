@@ -67,4 +67,4 @@ URANTIA and the Concentric-Circles Symbol are the registered trademarks, service
 
 Study obtained from:
 
-- https://anzura.urantia-association.org/wp-content/uploads/sites/3/2020/06/BUSINESS-ON-URANTIA-compressed.pdf
+- [Original PDF](https://anzura.urantia-association.org/wp-content/uploads/sites/3/2020/06/BUSINESS-ON-URANTIA-compressed.pdf)

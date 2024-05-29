@@ -119,7 +119,7 @@ In addition to these ten divisions, this further personal advice was given. Obvi
 > 
 > _“7. Except for the just and legitimate fees earned in administration, no man should lay personal claim to that wealth which time and chance may cause to fall into his hands. Accidental riches should be regarded somewhat in the light of a trust to be expended for the benefit of one's social or economic group. The possessors of such wealth should be accorded the major voice in the determination of the wise and effective distribution of such unearned resources. Civilized man will not always look upon all that he controls as his personal and private possession.”_
 > 
-> _“8. If any portion of your fortune has been knowingly derived from fraud; if aught of your wealth has been accumulated by dishonest practices or unfair methods; if your riches are the product of unjust dealings with your fellows, make haste to restore all these ill-gotten gains to the rightful owners. Make full amends and thus cleanse your fortune of all dishonest riches.”_ <a id="s121_380"></a>[UB 132:5.22](/en/The_Urantia_Book/132#p5_22) 
+> _“8. If any portion of your fortune has been knowingly derived from fraud; if aught of your wealth has been accumulated by dishonest practices or unfair methods; if your riches are the product of unjust dealings with your fellows, make haste to restore all these ill-gotten gains to the rightful owners. Make full amends and thus cleanse your fortune of all dishonest riches.”_
 > 
 > _“9. The trusteeship of the wealth of one person for the benefit of others is a solemn and sacred responsibility. Do not hazard or jeopardize such a trust. Take for yourself of any trust only that which all honest men would allow.”_
 > 
@@ -401,7 +401,7 @@ In the midst of this philosophical arena, we are also presented with the basics 
 > 3. Clear and clean thinking.
 > 4. Ability to withstand defeat.
 > 5. Ability and skill.
-> 6. Culture — education and wisdom. <a id="s403_37"></a>[UB 160:4.2](/en/The_Urantia_Book/160#p4_2) 
+> 6. Culture — education and wisdom. <a id="s403_37"></a>[UB 160:4.2-8](/en/The_Urantia_Book/160#p4_2) 
 
 Hard work in itself will not always generate wealth, but it may produce great benefits to others. Additionally, wealth and hard work may not always produce benefits for others. Both sides of this coin need to be considered carefully.
 
@@ -607,12 +607,12 @@ Whose side are you on?
 
 Just to be clear, the individual and personal spiritual experience of true religion is different to other elevated, though limited, forms of behavior that might be deemed most honorable in an individual and corporate sense.
 
-> Religion is the revelation to man of his divine and eternal destiny. Religion is a purely personal and spiritual experience and must forever be distinguished from man's other high forms of thought, such as: <a id="s609_209"></a>[UB 195:5.3](/en/The_Urantia_Book/195#p5_3) 
+> Religion is the revelation to man of his divine and eternal destiny. Religion is a purely personal and spiritual experience and must forever be distinguished from man's other high forms of thought, such as: 
 > 
 > 1. Man's logical attitude toward the things of material reality.
 > 2. Man's aesthetic appreciation of beauty contrasted with ugliness.
 > 3. Man's ethical recognition of social obligations and political duty.
-> 4. Even man's sense of human morality is not, in and of itself, religious.
+> 4. Even man's sense of human morality is not, in and of itself, religious.<a id="s609_209"></a>[UB 195:5.3-7](/en/The_Urantia_Book/195#p5_3)
 
 Just as we can become financially bankrupt, we can become morally bankrupt. Materialism provides us with things, not always essential, and we always seem to be running out of them. By meditating on the various sources of supply, we find the romantic and spontaneous option.
 

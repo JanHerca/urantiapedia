@@ -223,7 +223,7 @@ Here are some comments about industrial relations on an advanced planet. It all 
 > 
 > 1. Legal rates of interest on invested capital.
 > 2. Reasonable salary for skill employed in industrial operations.
-> 3. Fair and equitable wages for labor. <a id="s225_41"></a>[UB 72:5.4](/en/The_Urantia_Book/72#p5_4) 
+> 3. Fair and equitable wages for labor. <a id="s225_41"></a>[UB 72:5.4-7](/en/The_Urantia_Book/72#p5_4) 
 
 > These shall first be met in accordance with contract, or in the face of decreased earnings they shall share proportionally in transient reduction. And thereafter all earnings in excess of these fixed charges shall be regarded as dividends and shall be prorated to all three divisions: capital, skill, and labor. <a id="s227_314"></a>[UB 72:5.8](/en/The_Urantia_Book/72#p5_8) 
 

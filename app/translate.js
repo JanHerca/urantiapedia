@@ -285,7 +285,7 @@ class GoogleTranslate {
 		let insideNavigator = false;
 		let insideImage = false;
 		let insideMath = false;
-		const reAnchor = new RegExp('<a id="a\\d+_\\d+"><\\/a>', 'g');
+		const reAnchor = new RegExp('<a id="[a|s]\\d+_\\d+"><\\/a>', 'g');
 		const reUBLink = new RegExp(`\\[[^\\]]+\\]\\(\/${sourceLan}\/` +
 			'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
 		const reUBMulti = new RegExp('(\\d+):(\\d+).(\\d+)-(\\d+)', 'g');

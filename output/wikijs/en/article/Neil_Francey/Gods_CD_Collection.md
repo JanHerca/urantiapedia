@@ -228,4 +228,4 @@ Or will God add another CD to his collection?
 
 ## References
 
-- Original PDF: http://anzura.urantia-association.org/wp-content/uploads/sites/3/2022/12/2022-GODS-CD-COLLECTION.pdf
+- [Original PDF](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2022/12/2022-GODS-CD-COLLECTION.pdf)
