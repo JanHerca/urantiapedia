@@ -25,7 +25,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </td>
         <td>
         <a href="/en/article/Neil_Francey/On_the_Revelatory_Status/Could_The_Fifth_Revelation_Default">
-          <span class="pr-2">Business Concepts need to be revised</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Could The Fifth Revelation Default?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -136,7 +136,7 @@ But there can be no such rewriting or interpreting with a revelation.
         </td>
         <td>
         <a href="/en/article/Neil_Francey/On_the_Revelatory_Status/Could_The_Fifth_Revelation_Default">
-          <span class="pr-2">Business Concepts need to be revised</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Could The Fifth Revelation Default?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

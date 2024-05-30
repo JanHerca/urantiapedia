@@ -123,7 +123,7 @@ This information can be found at urantiabook.org
 
 ---
 
-[How The Urantia Book Came into Existence](/en/article/William_S_Sadler_Jr/How_The_Urantia_Book_Came_into_Existence)
+[How The Urantia Book Came into Existence](/en/article/William_S_Sadler_Jr/How_The_Urantia_Book_Came_Into_Existence)
 
 William S. Sadler, Jr. February 18, 1962.
 

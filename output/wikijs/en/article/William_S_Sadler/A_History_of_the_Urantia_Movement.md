@@ -336,10 +336,10 @@ The vast majority of the Brotherhood have concurred in this sort of quiet and gr
 
 One thing should be made clear: Nothing is done to interfere with the energetic and enthusiastic efforts of any individuals to introduce _The Urantia Book_ to his varied contacts and human associations.
 
+## External links
+
+* [Article in Urantia Foundation](https://www.urantia.org/urantia-foundation/history)
+
 ## Notes
 
 [^1]: Note from Editor: Some references has been updated from original text to reflect current _Urantia Book_ edition.
-
-## External links
-
-* Article in Urantia Foundation: https://www.urantia.org/urantia-foundation/history

@@ -336,10 +336,10 @@ La grande majorité de la Brotherhood a concouru à ce genre de présentation tr
 
 Une chose doit être claire: rien n'est fait pour entraver les efforts énergétiques et enthousiastes de toute personne qui introduit le Livre d'Urantia par les contacts variés et les associations humaines.
 
+## Liens externes
+
+* [Article dans la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/lhistoire-du-mouvement-urantia)
+
 ## Remarques
 
 [^1]: Note de l'éditeur: Certaines références ont été mises à jour à partir du texte original pour refléter l'édition actuelle du _Livre d'Urantia_.
-
-## Liens externes
-
-* Article dans la Fondation Urantia : https://www.urantia.org/fr/la-fondation-urantia/lhistoire-du-mouvement-urantia

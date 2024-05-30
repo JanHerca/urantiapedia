@@ -336,6 +336,12 @@ La gran mayoría de la Hermandad ha estado de acuerdo con esta forma silenciosa 
 
 Una cosa debe quedar clara: No se hace nada por interferir con los energéticos y entusiastas esfuerzos de cualesquiera individuos por introducir _El Libro de Urantia_ a sus variados contactos y asociaciones humanas. 
 
+## External links
+
+* [Artículo en la Fundación Urantia](https://www.urantia.org/urantia-foundation/history)
+
+* [Traducción en Agrupación Autónoma Urantia Chile](http://www.urantiachile.org/?modulo=articulos)
+
 ## Notas
 
 [^1]: Nota del Traductor: Esto no se aplica a todas las ediciones.
@@ -343,9 +349,3 @@ Una cosa debe quedar clara: No se hace nada por interferir con los energéticos 
 [^2]: Nota del Editor: Algunas referencias se han actualizado respecto al texto original para reflejar la edición actual de _El Libro de Urantia_.
 
 [^3]: Nota del Traductor: En los años 80’s algunos individuos miembros de la Hermandad de Urantia dejaron de apoyar a la Fundación Urantia, principalmente por causas de tipo secular relacionadas con la distribución de _El Libro de Urantia_. Al poco tiempo se organizó una nueva organización para reemplazar a la Hermandad Urantia: la Asociación Internacional Urantia (AIU), la cual, desde entonces, se encarga de dar servicio a los lectores e individuos interesados en la quinta revelación de época, así como de realizar actividades educativas y otras encaminadas a la difusión del libro.
-
-## External links
-
-* Artículo en la Fundación Urantia: https://www.urantia.org/urantia-foundation/history
-
-* Traducción en Agrupación Autónoma Urantia Chile: http://www.urantiachile.org/?modulo=articulos
