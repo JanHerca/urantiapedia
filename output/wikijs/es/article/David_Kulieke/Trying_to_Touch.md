@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 David Kulieke</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 David Kulieke</p>
 
 El todo en el cielo
 Girando como escarcha entre los árboles

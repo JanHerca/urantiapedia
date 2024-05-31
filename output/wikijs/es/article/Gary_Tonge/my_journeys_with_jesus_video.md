@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Gary Tonge<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gary Tonge<br>© 2023 Asociación Urantia Internacional (IUA)</p>
 
 
 _My Journeys with Jesus—The Urantia Book_ es un vídeo de cinco minutos ingeniosamente arreglado por Gary Tonge y un equipo de escritores, artistas y productores. Así es como se describe el vídeo en YouTube:

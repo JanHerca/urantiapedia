@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 Asociación Internacional Urantia (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 Asociación Internacional Urantia (IUA)</p>
 
 
 ## Primera parte | Tomar partido

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Agnès Lazare<br>© 2018 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Agnès Lazare<br>© 2018 Asociación Urantia Internacional (IUA)</p>
 
 
 Todo comenzó hace justo un año. Una prisión de la región contactó con la escuela en la que enseño inglés y gestión del estrés para que extendiera su oferta de formación a reclusos que desearan expandir su conocimiento y prácticas en campos diversificados y aumentar así sus oportunidades de reinserción social y profesional para cuando salieran.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 > Este documento no está finalizado y se encuentra en progreso. Cuando esté concluido mostrará todo el calendario propuesto para la creación de la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), desde el año 8 a.C. hasta el 30 d.C. Esta novela es una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.
 

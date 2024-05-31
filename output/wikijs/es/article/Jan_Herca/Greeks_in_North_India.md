@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 Conocemos que Alejandro Magno llegó a las puertas de la India, y que estaba resuelto a conquistarla, si no fuera porque el cansancio de sus hombres y los muchos meses de expedición habían mermado sensiblemente a su ejército. Estableció nuevas ciudades en el recorrido que hizo a su paso, con lo que un atisbo de influencia helénica recorrió toda la región. Pero, varios siglos después, en la época de Jesús, ¿continuó esa influencia en el norte de la India?
 

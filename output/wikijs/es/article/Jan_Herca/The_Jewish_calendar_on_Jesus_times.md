@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 En la época actual la mayoría de los países se rigen por el calendario denominado «gregoriano». Fue establecido por el papa Gregorio basándose, tras realizar ciertas correcciones, en el calendario juliano, que estuvo en vigor desde el año 46 a.C., fue instaurado por Julio César, y fue el calendario del imperio romano en la época de Jesús.
 

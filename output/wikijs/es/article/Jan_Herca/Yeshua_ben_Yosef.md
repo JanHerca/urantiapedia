@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 
 Estamos tan acostumbrados a llamar al Maestro «Jesús» que se nos olvida, que en la lengua que él utilizó en su tiempo, su verdadero nombre, vocalizado correctamente, sonaría tal y como se pronuncia este otro: «_Yeshua ben Yosef_».

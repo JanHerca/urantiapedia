@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 John Zavala, Jr.<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 John Zavala, Jr.<br>© 2015 Asociación Urantia Internacional (IUA)</p>
 
 
 Nota de la redacción: esta es una carta que nos envió un recluso que recibió un Libro de Urantia como parte del programa del Equipo de Respuesta a Peticiones de Prisioneros (PIRT en inglés).

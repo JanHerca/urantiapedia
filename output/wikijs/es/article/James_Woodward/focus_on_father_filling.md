@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 James Woodward<br>© 2021 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 James Woodward<br>© 2021 Asociación Urantia Internacional (IUA)</p>
 
 
 > _La felicidad y la alegría tienen su origen en la vida interior. No podéis experimentar una verdadera alegría completamente solos._ <a id="a33_101"></a>[[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)]

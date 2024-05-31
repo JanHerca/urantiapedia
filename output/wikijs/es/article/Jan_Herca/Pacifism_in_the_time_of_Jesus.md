@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 En muchos libros que versan sobre la «época de Jesús» se suele estudiar únicamente el período comprendido entre las revueltas macabeas y la sublevación judía del 66 d.C. Pero está claro que este período es más extenso que el que vivió Jesús. Por eso me ha resultado especialmente satisfactorio leer el libro de H. Guevara titulado _Ambiente político del pueblo judío en tiempos de Jesús_. El autor se ciñe verdaderamente al período comprendido entre el final del reinado de Herodes (4 a.C.) y el final de la prefectura de Pilato (36 d.C.) para realizar una minuciosa investigación que más correctamente habría que titular «El nacionalismo violento y el pacífico en tiempos de Jesús». Las conclusiones de su trabajo han resultado tan interesantes y de tanta repercusión para relatar _Jesús de Nazaret_,[^1] que he decidido elaborar aquí un breve resumen.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Grevet Moyo<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Grevet Moyo<br>© 2015 Asociación Urantia Internacional (IUA)</p>
 
 
 El 12 de febrero de 2015, recibí 120 ejemplares de _El libro de Urantia_ de la Fundación Urantia a través del presidente de la Asociación Urantia Internacional, Chris Wood. Era el envío más grande que había recibido aquí en Malawi.

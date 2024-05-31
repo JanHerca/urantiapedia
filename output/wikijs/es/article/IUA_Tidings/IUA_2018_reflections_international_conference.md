@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Asociación Urantia Internacional (IUA)</p>
 
 
 A continuación está el testimonio de dos asistentes a la conferencia, Jorge Buckingham y Mairam Durand, de Perú, que compartieron con nosotros sus experiencias en la Conferencia Internacional de los Países Bajos.

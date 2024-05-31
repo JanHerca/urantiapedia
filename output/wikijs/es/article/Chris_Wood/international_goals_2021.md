@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Chris Wood<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Chris Wood<br>© 2017 Asociación Urantia Internacional (IUA)</p>
 
 
 La Asociación Urantia Internacional es una  organización que va de abajo a arriba. Las asociaciones locales y nacionales hacen el trabajo que da forma al futuro de la Comunidad Urantia y a la integración de las enseñanzas Urantia en las culturas del mundo.

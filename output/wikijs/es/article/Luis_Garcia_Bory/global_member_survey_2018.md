@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Luis Garcia-Bory<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Luis Garcia-Bory<br>© 2017 Asociación Urantia Internacional (IUA)</p>
 
 
 El Comité de Miembros de la Asociación Urantia Internacional les invita cordialmente a participar en nuestra «Encuesta global de miembros», que se lanzará durante el primer trimestre de 2018.

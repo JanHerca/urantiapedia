@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Rick Lyon<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Rick Lyon<br>© 2019 Asociación Urantia Internacional (IUA)</p>
 
 
 _Nota de la redacción: Rick Lyon, vicepresidente de la Asociación Urantia de los Estados Unidos (UAUS), escribió este mensaje al Consejo de Representantes (CR) después de celebrarse las últimas elecciones para miembros de la Junta Internacional de Servicio (JIS)_

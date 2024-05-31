@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Rick Lyon<br>© 2022 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Rick Lyon<br>© 2022 Asociación Urantia Internacional (IUA)</p>
 
 
 _(Nota de la redacción: David pidió a Rick que su panegírico fuera un testamento de las enseñanzas de El libro de Urantia. Quería que los reunidos escucharan lo que era su vida religiosa.)_

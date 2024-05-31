@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Moustapha N’diaye<br>© 2019 Asociación Internacional Urantia (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Moustapha N’diaye<br>© 2019 Asociación Internacional Urantia (IUA)</p>
 
 
 > _Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús._ [[Filipenses 4:7](/es/Bible/Philippians/4#v7)]

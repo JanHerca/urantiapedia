@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 Con tantos detalles como ofrece _El Libro de Urantia_ sobre el lugar donde permaneció Jesús retirado seis semanas, no podía resultar muy difícil ubicar el lugar y hacerse un poco a la idea de cómo es y sobre todo, como fue.
 

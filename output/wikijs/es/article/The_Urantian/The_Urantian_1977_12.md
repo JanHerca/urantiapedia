@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Buck y Arlene Weimer, Carolyn Kendall, Richard Keeler, Helena Sprague, Ron Schweitzer<br>© 1977 Fellowship de _El Libro de Urantia_ (anteriormente Hermandad Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Buck y Arlene Weimer, Carolyn Kendall, Richard Keeler, Helena Sprague, Ron Schweitzer<br>© 1977 Fellowship de _El Libro de Urantia_ (anteriormente Hermandad Urantia)</p>
 
 
 ## Navidad y el Supremo

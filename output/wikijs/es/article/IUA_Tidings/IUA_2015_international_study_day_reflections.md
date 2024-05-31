@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Asociación Urantia Internacional (IUA)</p>
 
 
 El 16 de mayo, algunos grupos de estudio se reunieron para el Día Internacional del Estudio anual. Este año, leímos los Documentos 160 y 161 – _Rodán de Alejandría_ y _Otras discusiones con Rodán._ A continuación hay algunas reflexiones de varios de los grupos que se reunieron.

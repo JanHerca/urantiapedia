@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Guy Perron<br>© 2015 Asociación Internacional Urantia (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Guy Perron<br>© 2015 Asociación Internacional Urantia (IUA)</p>
 
 
 ## Sexto Parlamento de las Religiones del Mundo – Apelar al corazón de nuestra humanidad … a través de la bondad amorosa

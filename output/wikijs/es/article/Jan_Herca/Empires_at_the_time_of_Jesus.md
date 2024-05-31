@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 En la mayor parte de los libros que describen la época de Jesús se suele hablar del imperio romano, y quizá un poco del imperio parto. Se da por supuesto que el hecho de la dominación de Judea por los romanos supuso tan sólo una influencia directa de tendencias occidentales. Pero se olvida que el mundo conocido, aunque sólo fuera por leyendas o historias mitológicas, era mucho más grande y variado que el restringido al imperio romano, y que las influencias culturales y las comunicaciones entre los diferentes imperios en existencia fueron mucho más ricos y complejos.
 

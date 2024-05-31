@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 Betsaida es una de las poblaciones más mencionadas en los evangelios. Sin embargo, todavía hoy los expertos discuten sobre su correcto emplazamiento. Se barajan hipótesis sorprendentes, como que en realidad no hubo una única población llamada Betsaida, sino dos. En este artículo voy a resumir todas las evidencias y argumentos que se han encontrado en torno a las posibles localizaciones, las compararé con las menciones a Betsaida en _El Libro de Urantia_, y extraeré una conclusión que utilizaré para la redacción de _Jesús de Nazaret_[^1]. El resultado final, como podrá ver el lector, ha sido inesperado e interesante.
 

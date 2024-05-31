@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 En un artículo anterior ya hemos indagado sobre cómo pudo ser la Cafarnaúm de la época de Jesús, y uno de los restos más significativos de las ruinas de Cafarnaúm es una construcción que se ha venido en denominar la «casa del apóstol Pedro». Los autores de _Jesús desenterrado_, Crossan y Reed, resumen así la importancia de este hallazgo:
 

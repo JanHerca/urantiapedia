@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Antonio Schefer<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Antonio Schefer<br>© 2019 Asociación Urantia Internacional (IUA)</p>
 
 
 Presented by Antonio Schefer, The Netherlands on February 26, 2019-May 29, 2019

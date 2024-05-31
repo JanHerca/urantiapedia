@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jay Bird, Samantha Noir, Alex H<br>© 2016 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jay Bird, Samantha Noir, Alex H<br>© 2016 Asociación Urantia Internacional (IUA)</p>
 
 
 He aquí unas reflexiones e impresiones de tres asistentes a la conferencia: Jay Bird (EEUU), Samantha Nior (Francia) y Alex H (Alemania). Asistieron recientemente a la conferencia conjunta de la Asociación Urantia de los Estados Unidos y de la Urantia Book Fellowship que se celebró del 9 al 12 de junio de 2016 en San Antonio (Texas).

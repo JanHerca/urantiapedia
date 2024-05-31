@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Asociación Urantia Internacional (IUA)</p>
 
 
 ¿Estás buscando maneras de profundizar la experiencia de tu relación con Dios y el espíritu? ¿Anhelas disfrutar de una mayor armonía en tu vida y en tus relaciones con los demás? ¿Estás interesado en nutrir tu alma desarrollando tus habilidades artísticas innatas?

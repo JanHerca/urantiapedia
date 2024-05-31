@@ -7,7 +7,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 José Ernesto Árias<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 José Ernesto Árias<br>© 2017 Asociación Urantia Internacional (IUA)</p>
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">

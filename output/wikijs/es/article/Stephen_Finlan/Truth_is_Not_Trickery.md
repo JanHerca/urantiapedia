@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Stephen Finlan</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Stephen Finlan</p>
 
 [Esta es una respuesta a «¿Pero quién decís que soy yo?» por Dan Massey en el diario verano/otoño de 1992. Las referencias al artículo se darán por número de página y columna.]
 

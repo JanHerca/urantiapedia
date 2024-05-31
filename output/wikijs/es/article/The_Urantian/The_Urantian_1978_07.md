@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1978 David Glass, Mark Kulieke, Irene Sprunger, Virginia Varnum, Frances Huttington, Thomas Wicks<br>© 1978 The Urantia Book Fellowship (antes Hermandad Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 David Glass, Mark Kulieke, Irene Sprunger, Virginia Varnum, Frances Huttington, Thomas Wicks<br>© 1978 The Urantia Book Fellowship (antes Hermandad Urantia)</p>
 
 
 ## Contactando con el Reino Interior

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Asociación Urantia Internacional (IUA)</p>
 
 
 El Consejo de Representantes de la Asociación celebró elecciones en enero de este año para votar 7 cargos de la Junta Internacional de Servicio (JIS). He aquí los resultados de las elecciones:

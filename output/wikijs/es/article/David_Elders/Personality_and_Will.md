@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 David Elders</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 David Elders</p>
 
 Charla impartida por David Elders en el II Simposio Científico
 Ciudad de Oklahoma, Oklahoma, 19 de mayo de 1991

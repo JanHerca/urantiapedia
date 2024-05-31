@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Asociación Urantia Internacional (IUA)</p>
 
 
 El Consejo Representativo de la Asociación Urantia Internacional acaba de completar un ciclo de elección de miembros de la Junta de Servicio Internacional (JIS). A continuación se detallan los puestos que debían ser elegidos junto con los candidatos seleccionados:

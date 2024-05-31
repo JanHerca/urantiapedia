@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Stuart Kerr<br>© 2017 Asociación Internacional Urantia (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Stuart Kerr<br>© 2017 Asociación Internacional Urantia (IUA)</p>
 
 
 Los cuatro niveles del espacio exterior que completan las fronteras del universo maestro que gira alrededor del núcleo central del gran universo están destinados a eventuar-evolucionar el nivel de Ultimidad de la Deidad. Este nivel absonito de la Ultimidad de la Deidad trasciende las restricciones del espacio-tiempo que caracterizan al gran universo finito. Es decir, lo absonito trasciende las restricciones del espacio-tiempo de lo finito. Este nivel superfinito es tanto el antecedente como el consecuente de las progresiones finitas del nivel de Deidad de espacio-tiempo de la Supremacía. Precede e influye en la edad universal actual de Supremacía finita, y da una respuesta pos-Supremo a aquellos acontecimientos significativos que ocurren dentro de los siete superuniversos del gran universo.

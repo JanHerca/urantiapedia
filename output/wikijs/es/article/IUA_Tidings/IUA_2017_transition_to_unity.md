@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Asociación Urantia Internacional (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Asociación Urantia Internacional (IUA)</p>
 
 
 _Lo que sigue es una crónica de la reunión de transición a la unidad, celebrada el pasado octubre y a la que asistió un comité conjunto de representantes de la Asociación Urantia Internacional y la Urantia Book Fellowship. Se incluye un informe inicial escrito por uno de los participantes, seguido por la propuesta que acordaron ambas partes y que presentaron a sus organizaciones respectivas. A continuación hay un anuncio escrito por Chris Wood en el que nos informa de la decisión tomada por el Consejo General de la Fellowship después de que sus miembros presentaran la propuesta. Los sellos de tiempo indican el orden cronológico de los diferentes anuncios._

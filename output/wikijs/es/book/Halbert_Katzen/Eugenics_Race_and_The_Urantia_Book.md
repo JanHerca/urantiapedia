@@ -9,7 +9,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <div>
-	<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 2011 Halbert Katzen J.D.</p>
+	<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 2011 Halbert Katzen J.D.</p>
 </div>
 <br>
 <div class="urantiapedia-book-front urantiapedia-book-readers">
