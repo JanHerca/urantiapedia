@@ -279,6 +279,7 @@ El único caso en <a id="a271_17"></a>[LU 159:3](/es/The_Urantia_Book/159#p3) de
 ## Referencias
 
 - Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+- También puede obtenerse de los [archivos de la Fellowship](https://archive.urantiabook.org/sources/weatherhead_block_commentary.htm)
 
 
 <figure class="table chapter-navigator">

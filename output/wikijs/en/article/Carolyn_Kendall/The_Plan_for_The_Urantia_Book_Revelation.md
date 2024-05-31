@@ -181,7 +181,7 @@ Again, on May 2, 1955, William Sadler, Jr., prepared a memorandum for the Execut
 
 ## “The Extraordinary Trust...”
 
- Throughout the early period, emphasis was placed upon serious study of the Papers. “In 1939, some of us thought the time had come when we should form a class to engage in the more serious and systematic study of the Urantia Papers. This project was presented to the Forum and when those who wished to join such a group were counted, it was found that just 70 persons desired to enter upon this study. So for several years this class was referred to as “The Seventy.” Two or three years preceding the formation of The Seventy an informal group had been meeting on Wednesday evenings.”
+Throughout the early period, emphasis was placed upon serious study of the Papers. “In 1939, some of us thought the time had come when we should form a class to engage in the more serious and systematic study of the Urantia Papers. This project was presented to the Forum and when those who wished to join such a group were counted, it was found that just 70 persons desired to enter upon this study. So for several years this class was referred to as “The Seventy.” Two or three years preceding the formation of The Seventy an informal group had been meeting on Wednesday evenings.”
 
 “The Seventy carried on systematic study of the Urantia Papers from April 5, 1939 until 1956. It was the forerunner of the later ‘School of the Urantia Brotherhood.’
 

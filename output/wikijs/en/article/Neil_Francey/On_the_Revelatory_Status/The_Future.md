@@ -68,8 +68,7 @@ In the future, the focus will be on personally imitating God — on pursing the 
 
 The religion of the future will exalt marriage, the family, the home and true ethics and morals. It will foster initiative, freedom of thought, and individuality, in religious experience. It will inspire the individual to work to establish the government of all mankind — peace on earth.
 
-It will be a religion of actual experience, transforming faith, joy, deep thinking, self-criticism, courage, learning, ongoing relatively true revelation, new
-meanings, new values, challenges and dynamic service — a rugged, never ending, daring faith adventure of step by step spiritual attainment.
+It will be a religion of actual experience, transforming faith, joy, deep thinking, self-criticism, courage, learning, ongoing relatively true revelation, new meanings, new values, challenges and dynamic service — a rugged, never ending, daring faith adventure of step by step spiritual attainment.
 
 The brotherhood of mankind, a high spiritual civilization striving to know and do the Father's will, eventually will be established on earth through intelligent love and service.
 

@@ -38,15 +38,19 @@ In its first twenty-four years, the organization functioned under the leadership
 
 William S. Sadler, Jr., was elected the first President of Urantia Brotherhood on January 2nd, 1955, and served one term. Warren R. Kulieke was next elected and served until his death in 1962. James C. Mills served a short term as Acting President. Emma L. Christensen served a full term from 1963 to 1967, and again for a few months as Acting President in 1973. Alvin L. Kulieke came to office in 1967, and served until his death in 1973. Paul Snider served one term from 1973 to 1976, and Dr. Meredith J. Sprunger served one term from 1976 to 1979. John Hales was elected in 1979.
 
+
+**https://archive.urantiabook.org/archive/history/h_timlin_index.htm**
+
+
 There is an index to historic documents according to date. It is on the [urantiabook.org](https://archive.urantiabook.org/archive/history/h_timlin_1.htm) site and provides demarcations by the following stages:
 
-- [1875-1900](/en/article/The_Urantia_Book_Fellowship/Historic_Timeline_in_Revelation_1875_1900)
-- [1901-1925](/en/article/The_Urantia_Book_Fellowship/Historic_Timeline_in_Revelation_1901_1925)
-- [1926-1950](/en/article/The_Urantia_Book_Fellowship/Historic_Timeline_in_Revelation_1926_1950)
-- [1951-1965](/en/article/The_Urantia_Book_Fellowship/Historic_Timeline_in_Revelation_1951_1965)
-- [1966-1980](/en/article/The_Urantia_Book_Fellowship/Historic_Timeline_in_Revelation_1966_1980)
-- [1981-1995](/en/article/The_Urantia_Book_Fellowship/Historic_Timeline_in_Revelation_1981_1995)
-- [1996-2003](/en/article/The_Urantia_Book_Fellowship/Historic_Timeline_in_Revelation_1996_2003)
+- [1875-1900](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1875_1900)
+- [1901-1925](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1901_1925)
+- [1926-1950](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1926_1950)
+- [1951-1965](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1951_1965)
+- [1966-1980](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1966_1980)
+- [1981-1995](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1981_1995)
+- [1996-2003](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1996_2003)
 
 A search on Urantia Foundation Trustees provided the following two sets of personnel on page 1 of the search.
 

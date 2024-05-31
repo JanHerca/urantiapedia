@@ -322,7 +322,7 @@ Wrong | Right
 ^título:|title:
 ^Título:|title:
 ^descripción:|description:
-v-card tema v-sheet--gris claro aclarar-3 px-2|v-card v-sheet theme--light gray lighten-3 px-2
+v-card tema v-sheet--gris claro aclarar-3 px-2|v-card v-sheet theme--light grey lighten-3 px-2
 Compañerismo|Fellowship
 Becas|Fellowship
 Comunidad|Fellowship

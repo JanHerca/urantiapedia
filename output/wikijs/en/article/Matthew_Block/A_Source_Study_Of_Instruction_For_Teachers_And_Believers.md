@@ -279,6 +279,7 @@ The only case in <a id="a271_17"></a>[UB 159:3](/en/The_Urantia_Book/159#p3) of 
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+- Also can be obtained from [The Fellowship archives](https://archive.urantiabook.org/sources/weatherhead_block_commentary.htm)
 
 
 <figure class="table chapter-navigator">

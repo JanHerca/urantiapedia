@@ -84,7 +84,7 @@ This project is the work of Matthew Block who writes:
 > 
 > At the time of this writing, I have identified about 125 books, which were used in the writing of some 150 Urantia papers. The source texts were all published in English and the source authors were, with few exceptions, Americans or Britons born in the 19^th^ or 20^th^ centuries.
 
-An article on this topic is available at: [Selections from Writings thought to be Urantia Book ‘Sources’](https://archive.urantiabook.org/sources/). It also shows ways in which human resources have been used in the construction of the text.
+An article on this topic is available at: [Selections from Writings thought to be Urantia Book ‘Sources’](/en/article/Selections_from_Writings_Thought_to_be_UB_Sources). It also shows ways in which human resources have been used in the construction of the text.
 
 These sources, instead of distracting from the authenticity of the Book, confirm that they were compiled in accordance with the revelators' stated mandate and limitations.
 

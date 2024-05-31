@@ -1328,7 +1328,7 @@ class Articles {
 					const day = date.getDate();
 					const datestr = `${year}-${month}-${day}` +
 						`T${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}Z`;
-					const cls = 'v-card v-sheet theme--light gray lighten-3 px-2';
+					const cls = 'v-card v-sheet theme--light grey lighten-3 px-2';
 					const author = (d.author != '' ? 
 						`© ${d.year} ${d.author}<br>` : '');
 					
