@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Neil Francey</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Neil Francey</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -58,17 +58,18 @@ The following account was written by Carolyn Kendall.
 > Finally, the great day arrived on Wednesday, October 12, 1955. Attendees at the Wednesday evening study group, the ‘Seventy’,
 > received their books that evening. Also, they engaged in a Remembrance Supper led by Edmond Kulieke, who gave a brief talk.
 > 
-> He was assisted by Lee Miller Jones, Lulu Steinbeck, and Clarence Bowman. Everyone present was given their previously ordered copies of The Urantia Book. The members of the Forum received their books the following Sunday afternoon, also at 533 W. Diversey Parkway, in Chicago.
+> He was assisted by Lee Miller Jones, Lulu Steinbeck, and Clarence Bowman. Everyone present was given their previously ordered copies of _The Urantia Book_. The members of the Forum received their books the following Sunday afternoon, also at 533 W. Diversey Parkway, in Chicago.
 > 
 > Publication happened to fall on the anniversary of the discovery of America by Christopher Columbus in 1492. That year in the fifteenth century also marked the traditional end of the Middle Ages.
 > 
 > It was at that time, according to the contact commissioners, that the Midwayers of Urantia sent a formal request to the rulers of the superuniverse, the Ancients of Days, requesting permission to impart a new revelation to our world, Urantia.
 > 
 > They wished to include more about Jesus than was contained in the four Gospels of the New Testament. It was not until the time of the fifth epochal revelation, in the twentieth century, that the midwayers received the answer to their earlier request: permission to include Part IV of The Urantia Book - The Life and Teachings of Jesus.
+> &nbsp; &nbsp; [October 12, 1955](/en/article/Carolyn_Kendall/October_12_1955)
 
 ## Safeguarding The Revelation
 
-On October 1, 1956, Urantia Brotherhood Corporation was brought into existence as the fiscal agent of the brotherhood and to act as the distributor of The Urantia Book for Urantia Foundation, and to engage in other outreach activities. The Foundation continued with the separate responsibility of publishing, translating, and protecting the text.
+On October 1, 1956, Urantia Brotherhood Corporation was brought into existence as the fiscal agent of the brotherhood and to act as the distributor of _The Urantia Book_ for Urantia Foundation, and to engage in other outreach activities. The Foundation continued with the separate responsibility of publishing, translating, and protecting the text.
 
 After publication the Book found only a small audience, as it had no popular appeal. In the twenty-first century, it continues to be subject to very slow growth. This may be intentional by higher authorities, a material restriction, or a natural revelatory progression on a mortal realm.
 

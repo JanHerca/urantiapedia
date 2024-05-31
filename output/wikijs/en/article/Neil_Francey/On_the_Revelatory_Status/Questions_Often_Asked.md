@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Neil Francey</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Neil Francey</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -43,7 +43,7 @@ A search on ‘who wrote _The Urantia Book_’ shows good results. There are the
 
 There are sites offering firsthand accounts by those who were present when the writings were making their first appearance. They all basically relate the same details. Collusion perhaps, but a through reading indicates independence of thought and style.
 
-In the publication _From Science, Anthropology and Archaeology in The Urantia Book_, Ken Glasziou did an analysis of the writing styles of various Papers under these headings:
+In the publication [From Science, Anthropology and Archaeology in The Urantia Book](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book), Ken Glasziou did an analysis of the writing styles of various Papers under these headings:
 - Methodology for Determining Authorship
 - Was Dr. Sadler an author?
 - Could a single human mind be the source of the Papers?

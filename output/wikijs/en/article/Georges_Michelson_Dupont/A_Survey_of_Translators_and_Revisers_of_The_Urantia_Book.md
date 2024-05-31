@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Georges Michelson-Dupont<br>© 2014 Urantia Foundation</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Georges Michelson-Dupont<br>© 2014 Urantia Foundation</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Horacio Gamboa<br>© 2008 Urantia Association of Spain</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Horacio Gamboa<br>© 2008 Urantia Association of Spain</p>
 
 Presenting a work on the mind is something I do with the greatest humility. The mind is something unresolved by human beings, but it is presented to us in this revelation as something so magnificent that everything is mental. Everything is contained in the First mind, in the OMNI-KNOWING mind OF OUR UNIVERSAL AND DIVINE FATHER. Everything is in God the Father, the Primordial Mind. All first thought, all the first of the first, the previous, is our Universal Father, and from Him comes the mind, from his first thought, from his Trinity Sons or first Trinity of Paradise, and thus through the Conjoint Actor to the Master Spirits, and from there to the Divine Ministers of the Local Universes, who donate it to each and every one of the inhabitants of the evolving worlds.
 

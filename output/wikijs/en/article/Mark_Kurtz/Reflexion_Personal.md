@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Mark Kurtz<br>© 2010 Urantia Association of Spain</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Mark Kurtz<br>© 2010 Urantia Association of Spain</p>
 <br>
 <figure class="table chapter-navigator">
   <table>

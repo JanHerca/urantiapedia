@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Urantia Association of Spain</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Urantia Association of Spain</p>
 
 The Urantia Association of Spain has the pleasure of inviting you to the VI National Meeting of Readers of the _Urantia Book_, which will be held **from April 28 to May 1, 2006** at:
 

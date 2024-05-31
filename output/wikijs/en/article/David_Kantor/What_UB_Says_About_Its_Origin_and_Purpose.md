@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 David Kantor<br>© 2000 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 David Kantor<br>© 2000 The Urantia Book Fellowship</p>
 
 ## Origin
 

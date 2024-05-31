@@ -9,7 +9,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Bill Granstaff<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Bill Granstaff<br>© 1992 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

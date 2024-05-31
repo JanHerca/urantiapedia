@@ -9,7 +9,7 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Annette Crawford<br>© 1991 The Fellowship for readers of The Urantia Book</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annette Crawford<br>© 1991 The Fellowship for readers of The Urantia Book</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

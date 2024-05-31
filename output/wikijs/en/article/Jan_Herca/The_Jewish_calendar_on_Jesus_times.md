@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (license <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (license <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 At the present time, most countries are governed by the so-called “Gregorian” calendar, which was established by Pope Gregory based, after making certain corrections, on the Julian calendar, in use since the year 46 BC, established by Julius Caesar, and that was the calendar of the Roman Empire at the time of Jesus.
 

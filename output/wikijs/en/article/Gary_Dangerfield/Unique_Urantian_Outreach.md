@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -97,7 +97,7 @@ As you, by faith, come to know more of Jesus Christ, I believe you will find tha
 
 ## The Eternal Adventure of Trust!
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 The Christian Fellowship of Students of <i>The Urantia Book</i></p>
 
 ### You may not need this ... now
 

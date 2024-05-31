@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 Meredith J. Sprunger<br>© 1979 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Meredith J. Sprunger<br>© 1979 The Urantia Book Fellowship</p>
 
 4/79 Revised 12/97
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Neil Francey</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Neil Francey</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -123,7 +123,7 @@ Once again default occurred because people listened to insidious propaganda of p
 
 ### Impact Of Previous Defaults
 
-> _The supermaterial government of Urantia, under the direction of the <ins>Melchizedeks</ins>, continued, but direct physical contact with the evolutionary races had been severed. From the distant days of the arrival of the corporeal staff of the Planetary Prince, down through the times of Van and Amadon to the arrival of Adam and Eve, physical representatives of the universe government had been stationed on the planet. But with the Adamic default this regime, extending over a period of more than four hundred and fifty thousand years, came to an end. In the spiritual spheres, angelic helpers continued to struggle in conjunction with the Thought Adjusters, both working heroically for the salvage of the individual; but no comprehensive plan for farreaching world welfare was promulgated to the mortals of earth until the arrival of Machiventa Melchizedek ..._ (<a id="s125_870"></a>[UB 70:5.6](/en/The_Urantia_Book/70#p5_6); 852.5)
+> _The supermaterial government of Urantia, under the direction of the <ins>Melchizedeks</ins>, continued, but direct physical contact with the evolutionary races had been severed. From the distant days of the arrival of the corporeal staff of the Planetary Prince, down through the times of Van and Amadon to the arrival of Adam and Eve, physical representatives of the universe government had been stationed on the planet. But with the Adamic default this regime, extending over a period of more than four hundred and fifty thousand years, came to an end. In the spiritual spheres, angelic helpers continued to struggle in conjunction with the Thought Adjusters, both working heroically for the salvage of the individual; but no comprehensive plan for farreaching world welfare was promulgated to the mortals of earth until the arrival of Machiventa Melchizedek ..._ ([UB 76:5.6](/en/The_Urantia_Book/76#p5_6))
 
 ### Reasons For The Default By Man
 
