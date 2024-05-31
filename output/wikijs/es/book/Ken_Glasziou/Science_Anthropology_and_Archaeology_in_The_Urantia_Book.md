@@ -8,9 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<div>
-	<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1996 Dr. Ken Glasziou<br>© 1996 The BrotherHood of Man Library</p>
-</div>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1996 Dr. Ken Glasziou<br>© 1996 The BrotherHood of Man Library</p>
 
 <br>
 
