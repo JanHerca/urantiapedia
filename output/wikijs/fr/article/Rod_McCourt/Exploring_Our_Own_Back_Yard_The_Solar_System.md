@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Rod McCourt<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Rod McCourt<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Parfois, comme une forme de réversion par rapport aux aspects spirituels plus profonds du _Livre d'URANTIA_, ce n'est peut-être pas une mauvaise idée de réfléchir à certains des aspects scientifiques ou cosmiques que nous appellerions astronomie.

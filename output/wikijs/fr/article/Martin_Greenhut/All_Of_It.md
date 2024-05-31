@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 J'apprécie Six-O-Six depuis plusieurs années. Les articles sont si brillants, intelligents et stimulants que j'ai souvent pensé à écrire pour féliciter les Australiens pour avoir publié l'une des revues les plus intéressantes et les plus valables de notre mouvement. J'ai été ravi de lire la création de l'AASLU et de prier pour que votre Association australienne des lecteurs et la communauté d'étudiants associée grandisse «... dans la joie de la réalisation de la filiation».

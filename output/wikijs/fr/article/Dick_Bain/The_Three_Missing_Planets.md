@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Dick Bain<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Dick Bain<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Dans <a id="a14_5"></a>[LU 57:5.9](/fr/The_Urantia_Book/57#p5_9) du _Le Livre d'URANTIA_, nous sommes informés que cinq planètes intérieures, Jupiter, Saturne, et cinq planètes extérieures ont formé la matière extraite de notre soleil par le passage du système Angona. Cela fait 12 planètes, mais on ne nous en apprend que neuf à l'école. Où sont les trois autres ?

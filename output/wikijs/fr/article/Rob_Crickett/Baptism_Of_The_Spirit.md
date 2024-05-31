@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Nous sommes en mai 2019 et le téléphone sonne. L'appelant plaide pour une consultation immédiate. Actuellement, j'ai devant moi une jeune femme imprégnée des croyances magiques et occultes. Elle souffre d’un serrement de gorge et de fortes douleurs à la poitrine. Ses commentaires d'ouverture parlent de sa peur chronique d'être à nouveau projetée sur son nouvel amant, une peur qu'il la quitte... la même peur qui l'a amenée à se comporter de manière à provoquer son départ rapide. dernier amant.

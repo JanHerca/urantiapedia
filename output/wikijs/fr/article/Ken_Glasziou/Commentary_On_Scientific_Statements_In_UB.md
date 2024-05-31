@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Un de nos lecteurs à Clifton, Queensland, collectionne depuis de nombreuses années des bricoles concernant le contenu scientifique du Livre d'Urantia. Ken Glasziou l'a fait plus ou moins isolément, sans accès aux bibliothèques, aux revues scientifiques et sans le bénéfice de la discussion.

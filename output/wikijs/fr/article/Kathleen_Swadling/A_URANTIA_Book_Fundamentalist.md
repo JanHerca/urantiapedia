@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Kathleen Swadling<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Kathleen Swadling<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Je voudrais faire quelques commentaires sur l'article écrit dans le numéro de juillet/août du 6-0-6 par Madeline Noordzy à propos d'Elie III. Tout d'abord, j'aimerais dire que je n'ai pas entendu les cassettes, mais le contenu contenu dans 6-0-6 était suffisant pour que je n'aie pas l'intention de les écouter. Cela me place alors immédiatement dans la catégorie de ces personnes mentionnées par Madeline dans son article lorsqu'elle dit : « Il a été intéressant de constater que d'autres lecteurs en Australie avaient des idées préconçues sur les cassettes dès qu'ils savaient quel en était le sujet et a choisi de les condamner comme de « pures conneries » avant même de les écouter. Et puis : « J'ai si souvent été témoin dans le passé de la frustration des lecteurs du Livre d'URANTIA face à l'attitude des fondamentalistes de certaines confessions chrétiennes qui, parce que la Bible dit que rien ne doit être ajouté, ferment leur esprit à la lumière de nouvelles vérités. . Je ne veux certainement pas devenir un fondamentaliste du Livre d’URANTIA.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Emmanuel Lou<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Emmanuel Lou<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 > « Et la tradition chinoise conserve vaguement l’histoire du passé évolutionnaire ;... » (<a id="a14_91"></a>[LU 79:8.15](/fr/The_Urantia_Book/79#p8_15))

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Edward Kendrex<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Edward Kendrex<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 J'ai découvert _Le Livre d'URANTIA_ en 1977 alors que je rendais visite à un ami à Phoenix, en Arizona. Le livre a changé ma vie. Jusque-là, Dieu ne pouvait me contacter par aucun canal que je connaissais. _Le Livre d'URANTIA_ est devenu le canal qui me permet de comprendre ma relation (filiation) avec Lui.

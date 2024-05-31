@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Bessie essayait de trouver une solution. Elle faisait partie des touristes américains qui effectuaient une visite guidée des Fidji, de l'Australie et de la Nouvelle-Zélande.

@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <!-- Le diagramme à la fin doit ajouter de nouvelles fonctionnalités dans le script général pour ajouter de l'interactivité et de l'évolutivité. Voir /fr/tests/JanTest -->
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez<br>© 2009 Association Urantia d'Espagne</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez<br>© 2009 Association Urantia d'Espagne</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

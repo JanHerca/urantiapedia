@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 William Wentworth<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 William Wentworth<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Il n’y a pas si longtemps, j’ai eu une conversation avec un fervent catholique romain qui partageait une maison avec un chrétien radical « né de nouveau ». Il était déconcerté par l'habitude du radical de faire toutes sortes de choses bizarres « parce que Dieu me l'a dit ». Il est finalement arrivé à la conclusion que le radical utilisait la conviction de la direction divine pour justifier ses propres préjugés et idées préconçues et pour éviter de faire le travail intellectuel consistant à ajuster ses idées à la réalité de son expérience. Chaque fois qu’un problème surgissait, il était résolu par un appel direct et immédiat à Dieu. La « solution » impulsive qui est alors venue à l’esprit a été investie d’une autorité absolue (« Dieu me l’a dit ») et la poursuite de la discussion sur la question est devenue inutile.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Depuis que j'ai participé à la publication et à l'envoi du 6-0-6, je suis devenu très conscient du grand isolement de nombreux lecteurs en Australie. Ils doivent faire face à ce que Steve Shanahan a si bien nommé : « La tyrannie de la distance ».

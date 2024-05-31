@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Chris Moseley<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Chris Moseley<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Je ne suis pas qualifié pour porter un jugement sur les perspectives de développement d’une religion évolutionniste dans chaque pays, et j’hésite à généraliser sur le sujet. Je préférerais tirer mes conclusions du livre lui-même. Mais il suffit de regarder autour de nous pour constater qu’une religion mondiale est encore loin. En fait, _Le Livre URANIIA_ dit <a id="a14_361"></a>[LU 71:8](/fr/The_Urantia_Book/71#p8) dans « Le caractère de l'État » dans le document sur « Le développement de l'État » que l'évolution d'une religion mondiale est la 12ème et dernière étape dans l'évolution d'un État :

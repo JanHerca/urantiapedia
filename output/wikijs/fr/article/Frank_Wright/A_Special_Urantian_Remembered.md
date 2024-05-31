@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Frank Wright<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Frank Wright<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 « Après leur mort, les humains les plus évolués spirituellement et cosmiquement se rendent immédiatement sur les mondes des maisons. En général, ce dispositif opère pour ceux qui ont un gardien séraphique affecté à leur personne. » (<a id="a14_233"></a>[LU 112:5.10](/fr/The_Urantia_Book/112#p5_10))

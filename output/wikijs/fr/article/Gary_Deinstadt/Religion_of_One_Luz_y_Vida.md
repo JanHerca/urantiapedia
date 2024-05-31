@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Révérend Gary Deinstadt<br>© 2014 Olga López, pour la traduction<br>© 2013 La Communauté du Livre d'Urantia </p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Révérend Gary Deinstadt<br>© 2014 Olga López, pour la traduction<br>© 2013 La Communauté du Livre d'Urantia </p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

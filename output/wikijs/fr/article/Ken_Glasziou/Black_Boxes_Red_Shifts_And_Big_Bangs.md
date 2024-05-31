@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 La plupart d’entre nous ont été confrontés à des documentaires télévisés, à des articles de vulgarisation scientifique et même à des articles sérieux rédigés par des scientifiques professionnels qui nous disent, sans réserve, que notre univers a commencé avec le Big Bang il y a environ 15 à 20 milliards d’années. Cette information est généralement présentée comme s’il s’agissait d’un fait prouvé.

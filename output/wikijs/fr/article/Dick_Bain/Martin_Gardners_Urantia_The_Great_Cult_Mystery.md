@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-09-07T12:41:28.028Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Dick Bain<br>© 1996 Bibliothèque de la Confrérie des Hommes</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Dick Bain<br>© 1996 Bibliothèque de la Confrérie des Hommes</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

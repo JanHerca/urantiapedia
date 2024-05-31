@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Henry Begemann<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Henry Begemann<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 L’AMITIÉ est une relation existant à plusieurs niveaux. S’il s’agit d’un grade élevé, c’est une grande valeur humaine. Cela peut même être entrecoupé de sentiments fraternels.

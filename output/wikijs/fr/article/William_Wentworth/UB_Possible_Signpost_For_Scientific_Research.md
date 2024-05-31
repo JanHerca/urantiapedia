@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 William Wentworth<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 William Wentworth<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Dans le document qu'il a présenté à la réunion du Pacifique Sud en octobre, Ken Glasziou a soutenu que la théorie scientifique converge progressivement vers les informations révélées dans _Le Livre d'URANTIA_. Au cours des 50 dernières années environ, l'opinion dans de nombreux domaines scientifiques s'est beaucoup rapprochée de la position du _Livre d'URANTIA_. L'argument de Ken est très convaincant.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Henry Begemann<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Henry Begemann<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 « Personnalisation » signifie à mon avis : rendre ou être rendu personnel ou une personne. Cela se produit pour la première fois lorsque le Père confère une personnalité à un organisme vivant doté de l'esprit. La personnalité est l'un des mystères fondamentaux de l'univers, mais ayant son origine dans la Source et Centre Premier, et étant capable de fonctionner au niveau absolu tout en restant toujours inchangé, nous pouvons en déduire que cette personnalité majestueuse ne se connaît pas, du moins. pas complètement. Sa carrière universelle sert à se réaliser.

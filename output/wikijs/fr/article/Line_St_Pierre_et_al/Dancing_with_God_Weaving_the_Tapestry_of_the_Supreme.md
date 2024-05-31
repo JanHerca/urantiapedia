@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Line St-Pierre et al.<br>© 2015 Fondation Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Line St-Pierre et al.<br>© 2015 Fondation Urantia</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -49,7 +49,7 @@ Ce qui suit sont des extraits et des sentiments exprimés par les participantes 
 - Nous dansons, sommes embrassées et enhardies par nos croyances spirituelles.
   - Nous nous mouvons au rythme d’une nouvelle danse, en apprenant à être conscientes de notre cadre, avec juste assez de tension au lieu de résistance, du cocon de la douleur, des pleurs, des abus et de la confusion.
   - Un fil lumineux est filé et nous survivons pour nous développer,
-  - Embrassant l’audace et l’authenticité,v-card v-sheet theme--light gray lighten-3 px-2 py-1
+  - Embrassant l’audace et l’authenticité,v-card v-sheet theme--light grey lighten-3 px-2 py-1
   - Choisissant l’accordance au lieu de l’expiation,
   - Divine Mère-Fils,
   - Sainte Esprit Mère,

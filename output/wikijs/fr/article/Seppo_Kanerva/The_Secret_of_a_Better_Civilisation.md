@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Seppo Kanerva<br>© 2008 Fondation Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Seppo Kanerva<br>© 2008 Fondation Urantia</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

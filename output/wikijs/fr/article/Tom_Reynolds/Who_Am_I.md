@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Tom Reynolds<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Tom Reynolds<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 À un pôle de mon être, je ne fais qu'un avec le monde physique de la réalité. L'autre pôle de mon être est séparé de tout. Je suis seul. Je suis « je » ! Je suis incomparable – unique !

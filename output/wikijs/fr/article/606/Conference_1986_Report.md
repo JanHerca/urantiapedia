@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
 
 
 S’il y avait peu de soleil à l’extérieur, il y en avait certainement beaucoup à l’intérieur. Bien que la conférence ait eu lieu samedi et dimanche, pour de nombreuses personnes venues de l'étranger et de l'étranger, « faire connaissance » avait déjà commencé le jeudi et le vendredi précédent. Nos visiteurs américains avaient toujours l'air brillants et joyeux lorsque nous les avons récupérés à l'aéroport après leur vol de onze heures depuis Tahiti, où ils avaient rendu visite à notre bon ami Emanuel Iou et sa charmante épouse Jeannette.

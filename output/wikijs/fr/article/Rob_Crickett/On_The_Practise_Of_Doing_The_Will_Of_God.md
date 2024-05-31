@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Chacun d'entre nous qui a, dans une certaine mesure, digéré et assimilé les enseignements du _Livre d'URANTIA_, parvient à atteindre une clairière au-delà de sa hauteur et de sa masse et de la grandeur de sa lucidité et de sa beauté ; une génialité qui écrase facilement notre refus de l'humilité.

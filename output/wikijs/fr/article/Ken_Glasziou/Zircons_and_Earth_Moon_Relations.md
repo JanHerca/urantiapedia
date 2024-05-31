@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-22T21:33:20.280Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Ken Glasziou<br>© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Ken Glasziou<br>© 2005 La Bibliothèque de la Confrérie des Hommes</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Quand j'avais cinq ans, mon frère de six ans et moi avons été emmenés par nos parents dans l'une des églises de notre petite ville de campagne. Son père, conseiller professionnel en matière de carrière, avait dit à maman que je devais devenir ministre en grandissant : « Alors expose-le à l'église, n'est-ce pas ! » ... et c'est exactement ce qu'elle a fait, avec un peu de zèle.

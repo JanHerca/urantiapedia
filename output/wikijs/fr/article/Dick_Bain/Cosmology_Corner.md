@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Richard Bain<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Richard Bain<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Lorsque j’ai commencé à écrire la section « Cosmology Corner » il y a environ un an et demi, il semblait que la théorie du Big Bang était si fermement ancrée qu’elle durerait des décennies. Il est fascinant de voir à quel point une structure peut paraître si solide juste avant de s'effondrer à cause des dégâts causés par les termites. Il semble maintenant que quelques cosmologistes termites grignotent la structure de la théorie.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Matt Neibaur<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Matt Neibaur<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 En 1572, un ancien professeur de droit de Bologne nommé Ugo Buoncompagni devint pape Grégoire XIII ; dix ans plus tard, le calendrier grégorien fut introduit. Le calendrier julien, fondé seize siècles plus tôt par Jules César, était inexact et la nécessité d’une réforme était largement reconnue. Son principal échec était l'écart entre la durée moyenne de son année, 365,25 jours, et l'année tropicale, qui était alors en moyenne de 365,24232 jours. C'est près de onze minutes et quatre secondes de moins que l'année julienne. Ce petit écart avait continué à s’accumuler jusqu’à ce qu’il ne s’agisse plus de quelques minutes mais de quelques jours. Au moment de la réforme grégorienne, cette erreur était passée à onze jours. Naturellement, cela préoccupait le Pape ; si le calendrier était resté inchangé, Pâques aurait finalement été célébrée en été.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 William Wentworth<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 William Wentworth<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Trois Australiens ont assisté à la conférence qui s'est tenue à Brunswick, dans le Maine, début août. Ces notes proviennent de ma propre expérience. Neil Francey et Hannah De Vries devront parler pour eux-mêmes.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Meredith Sprunger<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Meredith Sprunger<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Vous vous souvenez de la parabole de Jésus sur les deux fils. Le premier fils, lorsqu'on lui a demandé de travailler dans la vigne, a refusé, mais a ensuite réfléchi et s'est mis au travail. Lorsqu'on lui a demandé de travailler, le fils aîné a répondu : « Oui, père, j'y vais », mais après le départ de son père, il n'a pas tenu sa promesse. (<a id="a14_344"></a>[LU 173:3.1](/fr/The_Urantia_Book/173#p3_1)) À une autre occasion, Jésus a dit : « Tous ceux qui me disent : « Seigneur, Seigneur ! » n’entreront pas dans le royaume des cieux, sauf celui qui fait la volonté de mon Père qui est aux cieux. ([Matt 7:21](/fr/Bible/Matthew/7#v21)) L'épreuve décisive de la vie est dans nos actions. La vraie nature de notre foi se voit dans notre comportement. « La vraie religion doit agir... La religion fait toujours et toujours quelque chose ; c’est dynamique. (<a id="a14_840"></a>[LU 102:2.8](/fr/The_Urantia_Book/102#p2_8)) « Il n’y a pas de véritable religion en dehors d’une personnalité très active. » (<a id="a14_967"></a>[LU 102:2.7](/fr/The_Urantia_Book/102#p2_7)) « Les faibles prennent des résolutions, mais les forts agissent. » (<a id="a14_1080"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))

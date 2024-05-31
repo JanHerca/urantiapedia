@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
 
 
 _Le Livre d'URANTIA_ nous a instruit sur l'importance des ouvrages secondaires pour faire circuler ses enseignements de base dans une circulation générale (<a id="a14_156"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)). Même dans les pays occidentaux où le taux d’alphabétisation dépasse largement 90 % de la population, des enquêtes ont indiqué que moins d’un adulte sur dix lisait un livre sérieux. Ce qui signifie sûrement qu'il est peu probable que _Le Livre d'URANTIA_ soit largement lu dans un avenir prévisible.

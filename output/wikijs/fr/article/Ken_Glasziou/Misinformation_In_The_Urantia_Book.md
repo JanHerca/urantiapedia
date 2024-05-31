@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 La possibilité que le _Livre d'URANTIA_ puisse contenir de sérieuses informations erronées m'est venue alors que je réfléchissais à certaines de ses déclarations sur les aspects matériels de la matière et sur les événements historiques qui pourraient s'avérer faux. Permettez-moi d'abord d'affirmer que j'ai une foi totale que le _Livre d'URANTIA_ est ce qu'il prétend être, une révélation provenant de sources divinement autorisées.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Au moment où vous aurez fini de lire cette phrase, la population d'Urantia augmentera de 7 personnes ! Lorsque vous aurez fini de lire cet article, la population mondiale aura augmenté de plus de 2 500 personnes. Demain, à cette heure, il y en aura plus de 190 000... soit 1 300 000 par semaine... 6 000 000 de plus dans un mois : 72 000 000 par an !

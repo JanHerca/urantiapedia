@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 > « Le mental connait la quantité, la réalité, les significations. Mais la qualité — les valeurs — est *ressentie.* Ce qui ressent est la création conjointe du mental qui connait et de l’esprit associé qui confère la réalité. » (<a id="a14_229"></a>[LU 111:3.6](/fr/The_Urantia_Book/111#p3_6))

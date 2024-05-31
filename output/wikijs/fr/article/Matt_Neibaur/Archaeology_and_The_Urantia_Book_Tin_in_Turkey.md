@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-9-9T8:12:17Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

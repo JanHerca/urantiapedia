@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 > « La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » (<a id="a14_207"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
 
 
 Est-ce que nous nous arrêtons parfois pour réfléchir à la position exacte du _Livre d'URANTIA_ dans un avenir relativement pas trop lointain ? Y aura-t-il toujours une Fraternité URANTIA et y aura-t-il encore des groupes d'étude ? Peut-être que le _Livre d'URANTIA_ occupera une place d'honneur dans les foyers moyens de notre société ou peut-être sera-t-il utilisé comme manuel dans les écoles publiques et publiques. Deviendra-t-il une partie intégrante de la société ou sera-t-il confiné à une secte religieuse ou à une organisation de type sectaire ? Je vois qu’il pourrait y avoir deux chemins alternatifs que cette révélation peut emprunter et nos actions aujourd’hui pourraient jouer un rôle majeur dans la détermination du chemin à suivre.

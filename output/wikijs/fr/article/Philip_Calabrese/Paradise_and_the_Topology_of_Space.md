@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Philip G. Calabrese, Ph.D.<br>© 2010 Carmelo Martínez, pour la traduction<br>© 2010 Association Urantia d'Espagne</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Philip G. Calabrese, Ph.D.<br>© 2010 Carmelo Martínez, pour la traduction<br>© 2010 Association Urantia d'Espagne</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

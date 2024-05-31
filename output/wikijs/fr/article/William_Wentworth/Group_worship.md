@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Willian Wentworth<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Willian Wentworth<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Il y a quelque temps, alors que j'expérimentais le culte de groupe avec quelques autres lecteurs, j'ai été frappé par une apparente incongruité dans ce que nous essayions. Nous parlions à Dieu à tour de rôle au nom du groupe, et il était clair que nous demandions tous à Dieu de faire quelque chose, dans l'espoir qu'il serait ainsi influencé à faire quelque chose qu'il n'aurait pas fait autrement. Par exemple, nous demandions à Dieu de nous donner la sagesse nécessaire pour comprendre une certaine situation, en espérant que cette prière l’amènerait d’une manière ou d’une autre à nous « donner » la sagesse recherchée – quelque chose qu’Il n’aurait pas fait sans notre prière. En d’autres termes, nous nous attendions à ce que Dieu soit influencé par notre prière pour s’écarter de son habitude normale et faire quelque chose qu’Il n’aurait pas fait autrement.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 William Wentworth<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 William Wentworth<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 La Conférence internationale de la Cinquième Fraternité d'Époque (anciennement Fraternité URANTIA) s'est tenue à Snowmass, Colorado, États-Unis, du 30 juin au 5 juillet. Cinq Australiens et un Néo-Zélandais faisaient partie des plus de 1 000 participants à cinq jours bien organisés et stimulants de présentations, d'ateliers, de divertissements et de socialisation. C'était la deuxième conférence à Snowmass, la première ayant eu lieu en 1981, et les installations étaient superbes.

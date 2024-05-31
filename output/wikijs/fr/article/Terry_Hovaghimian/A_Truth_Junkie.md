@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Terry Hovaghimian<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Terry Hovaghimian<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Comme d'habitude, depuis que j'ai commencé à élargir ma quête de vérité à l'aide du _Livre d'URANTIA_ et que je viens d'assister à ma deuxième conférence, le temps passé ensemble s'est écoulé si rapidement, avec un tel plaisir pour les événements et les personnes partageant une expérience de base similaire de la vérité, que nous embrassons sous tous les angles de notre présence spirituelle intuitive et des États d'Amérique et d'Australie, que je ne suis plus surpris par la rapidité des réponses à mes questions, en particulier aux questions que j'ai oublié de poser lors de la conférence.

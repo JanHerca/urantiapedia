@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -98,7 +98,7 @@ Personnellement, je vous recommanderais de mener une étude sérieuse de la vie 
 
 ## L'aventure éternelle de la confiance !
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
 
 ### Vous n'en aurez peut-être pas besoin... maintenant
 

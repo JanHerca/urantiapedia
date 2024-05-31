@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Henry Begemann<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Henry Begemann<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Maintenant que des « prophéties » apparaissent parmi les croyants dans _Le Livre d’URANTIA_, il peut être opportun et utile d’étudier plus en profondeur ce que dit notre livre à propos d’un avenir relativement proche.

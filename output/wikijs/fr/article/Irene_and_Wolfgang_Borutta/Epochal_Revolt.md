@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Irene et Wolfgang Borutta<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Irene et Wolfgang Borutta<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Dès le début, nous avons apprécié Six-OSix et, au fil du temps, nous l'avons vu se développer, devenir plus intéressant, varié et professionnel. Dernièrement, des articles contenant des informations supplémentaires ont été publiés dans Six-O-Six, des articles qui ne dérivent pas « strictement » du _Livre d'URANTIA_. Cela a provoqué un tollé chez certaines personnes.

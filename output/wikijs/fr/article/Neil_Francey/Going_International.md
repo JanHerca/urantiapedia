@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Neil Francey<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Neil Francey<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Compte tenu du taux de croissance actuel des ventes de livres en Australie, il est raisonnable de s’attendre à cette augmentation à l’échelle mondiale dans les pays anglophones et francophones. Il est difficile de prévoir une alternative probable. Les nombres exigeront des mesures significatives pour maintenir la nature personnelle du travail du Livre d'URANTIA.

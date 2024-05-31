@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 David Glass<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 David Glass<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Pourquoi E.T. être le seul à téléphoner à la maison à travers des années-lumière de l'univers ? Nous serions probablement sidérés par le montant de sa facture de téléphone. Les connaissances techniques avancées d'E.T. lui ont permis de construire un téléphone cosmique à partir de bric-à-brac trouvé autour de la maison de son hôte. Cela demande pas mal d’ingéniosité, mais heureusement, nous n’avons pas besoin de capacités avancées pour construire un tel système de communication interplanétaire. Si jamais nous essayons de communiquer cosmiquement, nous découvrons pour notre plus grand plaisir que pour appeler le Concepteur de l'appareil conversationnel de l'univers entier, le téléphone dont nous avons besoin est déjà installé et prêt à l'emploi. Il n'y a aucun frais d'installation, aucune réparation nécessaire en cas d'utilisation normale et aucun frais d'activation. Même les frais du destinataire et de l'expéditeur sont supprimés par la préparation préalable du Master Communications Executive. Tout comme nous avons découvert que nous disposions de l’appareil vocal avec lequel converser lorsque nous étions enfants, il nous est révélé qu’un système téléphonique cosmique bien plus complexe et conçu de manière critique est déjà à notre disposition.

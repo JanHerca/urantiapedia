@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Martin Mc Burney<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Martin Mc Burney<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Une réunion australienne des lecteurs du Livre d'URANTIA a eu lieu le week-end de la Melbourne Cup, du samedi 3 au mardi 6 novembre. Nous nous sommes rendus à Warburton East, à environ 80 km à l'est de Melbourne, au pied de la Great Dividing Range.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 DÉRIVE CONTINENTALE : _Le Livre d'URANTIA_ le déclare de manière assez catégorique. que toutes les terres émergées de la Terre étaient à l'origine un seul continent qui s'est ensuite fragmenté il y a 750 millions d'années (<a id="a14_223"></a>[LU 57:8.23](/fr/The_Urantia_Book/57#p8_23)), suivi d'une longue période de dérive des continents au cours de laquelle des ponts terrestres ont été créés à plusieurs reprises. formé et brisé.

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Trevor Swadling<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Trevor Swadling<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Le sujet que je m'apprête à présenter, je l'ai intitulé « Combien de mortels survivent ». Avant de passer à ma présentation, j'aimerais dire que je ne suis parvenu à aucune conclusion définitive sur ce sujet, même si je dois admettre qu'après des recherches Je lis maintenant certaines sections du _Livre d'URANTIA_ sous un jour différent. J'aimerais également souligner que tout au long de ce sujet, nous devrions garder à l'esprit que :

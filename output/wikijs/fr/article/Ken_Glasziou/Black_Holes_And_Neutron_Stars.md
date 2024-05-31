@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Ken Glasziou<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ken Glasziou<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Un dé à coudre de matière provenant d’une étoile à neutrons pèserait environ 100 millions de tonnes. Pour un trou noir, le poids serait infiniment plus grand. Il n’est pas surprenant que, jusqu’à récemment, les astronomes considéraient ces objets fantaisistes comme les jouets des physiciens théoriciens. Puis, au milieu des années 1960, la découverte d’objets stellaires mystérieux, les pulsars et les quasars, a complètement changé la donne.

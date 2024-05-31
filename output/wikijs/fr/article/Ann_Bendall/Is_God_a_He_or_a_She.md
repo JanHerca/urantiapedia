@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Je n'avais pas réalisé qu'il y avait des discussions sur le sexe de Dieu jusqu'à il y a quelques mois, lorsque je suis tombé sur une situation que j'essaie très fort d'éviter : me lancer dans des discussions théologiques sur Notre Père. D'après mon expérience passée, j'ai découvert que la majorité des gens qui veulent « déterminer qui est Dieu » ont leurs opinions à la fois fermes, aveugles, irrationnelles et déterminées, alors je change de sujet pour un sujet plus sûr comme la météo.

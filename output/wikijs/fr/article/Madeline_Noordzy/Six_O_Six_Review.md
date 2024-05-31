@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Madeline Noordzy<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Madeline Noordzy<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 _Comme les lecteurs de Six-O-Six l'ont peut-être remarqué, au cours des derniers numéros, la gamme d'articles a couvert un champ plus large qu'auparavant. Certains sont d’accord avec cela, d’autres non. Mon co-éditeur, Neil Francey, n'est pas d'accord et a écrit ses réflexions comme suit :_

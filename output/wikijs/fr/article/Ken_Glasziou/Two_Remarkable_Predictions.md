@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Les Cahiers URANTIA contiennent des récits sur la structure physique de l'Univers, la formation et l'évolution du système solaire, l'évolution de la vie, ainsi que l'évolution et l'histoire ultérieures de l'homme, dont certains ne concordent pas avec les opinions actuelles des scientifiques. En revanche, il y a beaucoup de choses dans le Livre qui étaient hautement spéculatives au moment de la réception des Cahiers URANTIA (1934) et qui se sont révélées exactes depuis.

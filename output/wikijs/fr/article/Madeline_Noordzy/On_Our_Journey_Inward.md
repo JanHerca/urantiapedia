@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 _Le Livre d'URANTIA_ des dix parle de notre carrière universelle comme d'une ascension ou d'une ascension ascendante, mais ajoute comme précision qu'en réalité il s'agit d'un voyage vers l'intérieur. (<a id="a14_201"></a>[LU 32:3.11](/fr/The_Urantia_Book/32#p3_11))

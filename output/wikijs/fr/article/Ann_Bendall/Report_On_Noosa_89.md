@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Le moment, du point de vue météorologique, était parfait – même si la communauté locale espérait de la pluie attendue depuis longtemps – mais pour nous, participants à la conférence, la Sunshine Coast s’est retournée contre son homonyme.

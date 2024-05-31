@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-09-26T04:57:00.996Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

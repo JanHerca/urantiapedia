@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Les Sheridan<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Les Sheridan<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 _Discours donné par Les Sheridan lors de la Conférence annuelle australienne de 1990 pour les lecteurs du Livre d'URANTIA_.

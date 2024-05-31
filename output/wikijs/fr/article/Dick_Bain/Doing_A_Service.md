@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Dick Bain<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Dick Bain<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Eh bien, qui aurait cru que mon article dans _Cosmic Reflections_ aurait déclenché un tel chahut ? Le fait est que je pense que vous rendez service aux gens du mouvement URANTIA en diffusant les idées de gens comme Joe Pope, Sananda, etc., afin que les gens soient conscients de ces personnes inhabituelles et de leurs enseignements. Ensuite, chacun peut décider de la manière dont il souhaite réagir.

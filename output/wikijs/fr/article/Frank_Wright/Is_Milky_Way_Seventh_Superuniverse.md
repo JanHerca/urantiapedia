@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 C’est une question que j’essaie de résoudre depuis longtemps. J'ai entendu de nombreuses personnes interpréter les informations diverses et complexes données sur ce sujet dans _Le Livre d'URANTIA_ en déclarant simplement que la Voie Lactée est Orvonton ! Après plusieurs mois d’études, je n’en suis toujours pas convaincu. Laissez-moi vous expliquer pourquoi.

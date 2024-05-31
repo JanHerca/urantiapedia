@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Dr. P. Jensen<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p >
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Dr. P. Jensen<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p >
 
 
 Pouvez-vous qualifier l’Australie de pays païen et vous en sortir sans problème ? Apparemment non, comme je l’ai découvert récemment lorsque j’ai tenté cet exercice à travers les médias. Les gens étaient à la fois perplexes et offensés.

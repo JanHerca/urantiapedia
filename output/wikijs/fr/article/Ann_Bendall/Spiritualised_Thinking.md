@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Ann Bendall<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Ann Bendall<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Comme un enfant, j'ai lu _Le Livre d'URANTIA_ la première fois et j'ai pris plaisir à noter toutes ces belles paroles comme : « votre propre mental ne vous sert pas bien, vous pouvez l’échanger contre le mental de Jésus de Nazareth, lequel vous sert toujours bien. » (<a id="a14_268"></a>[LU 48:6.26](/fr/The_Urantia_Book/48#p6_26))

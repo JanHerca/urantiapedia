@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
 
 
 J'aimerais partager avec vous quelques réflexions suscitées par l'excellent et sincère article d'Ann Bendall dans le numéro de mai/juin 89 de Six-0-Six intitulé « Pourquoi ne frappent-ils pas à ma porte ? »

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Six-O-Six est un journal de qualité ! (J'aime l'idée des parties I et II afin que la partie II puisse être ignorée par ceux qui sont sensibles à l'information.)

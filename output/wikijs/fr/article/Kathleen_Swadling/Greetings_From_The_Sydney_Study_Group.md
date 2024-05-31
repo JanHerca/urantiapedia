@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
 
 
 J'aimerais simplement envoyer mes salutations aux lecteurs de toute l'Australie et au-delà au nom des membres du groupe d'étude de Sydney. Plus nous traversons la vie et nous impliquons dans les nombreuses tâches qu'elle nous impose, plus il est facile de perdre contact avec les relations de nos semblables qui ne sont pas à nos côtés quotidiens. Pour ceux d'entre nous dont les vies ont été changées et transformées par _Le Livre d'URANTIA_, je crois qu'il existe un lien fort qui nous unit dans la fraternité et la camaraderie spirituelles. Cette fraternité invisible est en effet une chose très puissante car elle a le potentiel de transformer la vie des âmes avec lesquelles elle entre en contact, lui conférant une capacité géométrique de croissance. À mesure qu’il grandit, il prend de l’ampleur. Cette fraternité invisible n’est vivante et active que dans la mesure où ses « membres » sont vivants et actifs. À quoi sert de connaître une vérité si elle n’est pas vécue ? Vivre la vérité peut se faire en socialisant votre SOI - c'est-à-dire en étant réel, véridique et sincère à l'intérieur de votre SOI, puis en socialisant votre SOI - c'est la manière naturelle, inconsciente et non égoïste de contribuer au déploiement de la Fraternité des Hommes - qui a pris aux niveaux cosmiques contribue à l'émergence de l'Être Suprême — c'est la voie de l'évolution assistée par la révélation.

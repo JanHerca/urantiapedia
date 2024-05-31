@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Je pense que cela ne sera pas nécessaire si nous choisissons de voler par oiseau, mais les dispositifs mécaniques auront besoin d'instructions opérationnelles. En fait, en lisant _Le Livre d'URANTIA_, j'ai l'impression que ce sont de petits hélicoptères morontiels, et je soupçonne que le nombre de sièges à bord est limité. Mon Dieu, j'espère qu'ils auront au moins de la place pour un navigateur, car j'ai une image mentale de moi essayant de diriger l'engin à travers l'espace avec une carte à l'envers sur mes genoux (peut-être que je ne serai pas gaucher sur le mondes de maisons) essayant de comprendre où je vais.

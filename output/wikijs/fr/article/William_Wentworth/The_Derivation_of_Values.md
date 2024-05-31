@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 William Wentworth<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 William Wentworth<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Lors d'un récent séminaire politique à Sydney, il a été clairement compris que la qualité de notre vie politique découle des valeurs que nous défendons. Les valeurs selon lesquelles nous vivons déterminent l’essence et la qualité de toute notre civilisation ; et notre système de coopération et de contrôle sociaux – notre vie politique en général – ne fait pas exception. Comprendre ce fait – que les valeurs sont à la base de tous nos processus sociaux – est l’une des clés pour améliorer le niveau de notre vie politique en Australie, mais c’est un élément qui semble souvent négligé à la fois par les élus et par la population. grand.

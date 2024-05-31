@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Pourquoi avons-nous donné ce nom au thème de la conférence ? Dans une tapisserie, il existe de nombreuses couleurs différentes ; Il existe des couleurs claires et foncées, des couleurs chaudes et froides, des couleurs pour ombrer et des couleurs pour mettre en valeur. Tout cela est nécessaire si nous voulons parvenir à un ensemble harmonieux. Car sans l’ombre de l’arrière-plan, comment le point culminant pourrait-il se démarquer du reste ?

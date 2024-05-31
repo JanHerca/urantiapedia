@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Israel Dix<br>© 2013 Olga López, pour la traduction et la réédition<br>© 2012 La Bourse du Livre d'Urantia </p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Israel Dix<br>© 2013 Olga López, pour la traduction et la réédition<br>© 2012 La Bourse du Livre d'Urantia </p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

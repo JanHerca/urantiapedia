@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Trevor Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Trevor Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Bien que parmi nos semblables, il y ait beaucoup de confusion sur ce qui est spirituel, le chemin vers la conscience de Dieu, l'illumination, le chemin ou la technique, il me semble que Dieu en tant que personnalité est connaissable et donc les gens qui cherchent Dieu. devraient avoir quelque chose en commun avec leurs expériences. Au fil des années, mes contacts avec mes semblables ont personnellement confirmé que cela était vrai ; après tout, si nous avions un ami cher que nous connaissions tous les deux, selon le degré et la durée de notre relation avec lui, il y aurait sûrement des aspects de sa nature et de son caractère que nous en aurions tous deux reconnus et admirés.

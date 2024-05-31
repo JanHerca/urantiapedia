@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
 
 
 Cet atelier a eu lieu en conjonction avec une réunion à travers toute l'Australie des lecteurs du Livre d'URANTIA à Noosa, Queensland en octobre 1989, à laquelle ont participé 31 dévots venant de Victoria, de Nouvelle-Galles du Sud et du Queensland, et dont un visiteur des États-Unis. Le sujet de l'atelier était une citation de LU 155 : 1.4 du _Le Livre d'URANTIA_, faite par Jésus comme suit :

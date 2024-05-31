@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Kathleen Blue Corn<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Blue Corn<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 J'ai récemment été exposé à Six-O-Six par l'intermédiaire de mes amis Sananda et White Cloud. Je tiens à exprimer mon appréciation pour vos efforts pour promouvoir la bonne volonté internationale et la compréhension entre les lecteurs du _Livre d'URANTIA_.

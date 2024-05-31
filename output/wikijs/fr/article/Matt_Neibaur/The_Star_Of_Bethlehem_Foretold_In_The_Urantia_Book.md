@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Matt Neibaur<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Matt Neibaur<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 La religion et la science réfléchissent depuis longtemps aux questions posées par l’étoile de Bethléem. Les théories abondent. Les comètes supernovas, les conjonctions planétaires et les miracles ont été invoqués. Certains se demandent même si l’événement s’est jamais produit, sans parler du nombre de sages.

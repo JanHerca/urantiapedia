@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Helen Hutchinson<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Helen Hutchinson<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Je préparais notre café du matin. Il y avait un petit gravier dans ma chaussure qui m'a irrité. Je l'ai retiré, puis j'ai dit : « Cela me rappelle le conte de fées sur la princesse au petit pois. Elle pouvait sentir le pois à travers 20 matelas. C’est ainsi qu’ils pourraient la distinguer d’un roturier.

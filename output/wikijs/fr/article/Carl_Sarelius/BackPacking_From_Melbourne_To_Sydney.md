@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Carl Sarelius<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Carl Sarelius<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 _Supplément à Six-0-Six, VBH 3740, vol 11 No 6, novembre/décembre 1990_

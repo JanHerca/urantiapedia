@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Janet Weeks<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Janet Weeks<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Quelle chance nous avons d’avoir des problèmes dans nos vies. Des bouleversements à gérer, des maladies à supporter, des pressions et des disputes familiales, des avis divergents qui nous sont lancés de toutes parts. Chômage.

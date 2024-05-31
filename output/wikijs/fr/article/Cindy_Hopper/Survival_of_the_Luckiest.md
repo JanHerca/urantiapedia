@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Cindy Hopper<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Cindy Hopper<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 **Réimprimé avec la permission de PRINTS OF PEACE, Vol IV, No 3, février 1990.**

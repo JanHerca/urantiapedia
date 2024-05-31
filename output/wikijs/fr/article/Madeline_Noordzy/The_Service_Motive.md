@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Il a été suggéré que l’Australie est la nation la plus laïque du monde occidental. Je vous laisse décider si cela est vrai ou faux. Mais une autre enquête réalisée il y a quelques années a abouti à la conclusion que les Australiens sont le peuple le plus heureux au monde. Encore une fois, est-ce vrai ou faux ? Nous pourrions commencer à tirer toutes sortes de conclusions de ces déclarations, si nous les prenions au sérieux.

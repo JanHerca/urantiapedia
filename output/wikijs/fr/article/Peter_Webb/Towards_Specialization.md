@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Peter Webb<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Peter Webb<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Il semble y avoir, dans la seconde moitié du XXe siècle, une propension à la spécialisation – à voir la réalité dans notre propre sphère d’activité. Chaque décennie a son slogan. Les années 80 semblent être une période de considérations économiques et matérielles, en général bien sûr.

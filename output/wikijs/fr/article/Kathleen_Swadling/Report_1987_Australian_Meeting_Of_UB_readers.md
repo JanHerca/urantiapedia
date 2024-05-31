@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Kathleen Swadling<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Kathleen Swadling<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
 
 
 Je suis heureux d'annoncer qu'une fois de plus, nous avons eu une réunion des lecteurs du Livre d'URANTIA des plus réussies. Je suis sûr de parler au nom de tous les participants lorsque je dis que les bénéfices tirés de cette expérience ont été de nature positive et de grande qualité. La réunion de cette année était unique par rapport à toute autre réunion annuelle de lecteurs en raison de la situation de « résidence », qui a permis une atmosphère plus détendue et intime où de nouvelles amitiés ont pu se nouer et se développer.

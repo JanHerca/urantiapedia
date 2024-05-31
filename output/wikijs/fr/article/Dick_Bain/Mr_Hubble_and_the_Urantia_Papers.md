@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Dick Bain<br>© 2001 The Brotherhood of Man Library<br>© 2020 Jan Herca, ajout de notes et citations</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Dick Bain<br>© 2001 The Brotherhood of Man Library<br>© 2020 Jan Herca, ajout de notes et citations</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

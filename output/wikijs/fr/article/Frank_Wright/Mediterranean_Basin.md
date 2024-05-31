@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 En 1970, le Glomar Challenger s'embarque pour la mer Méditerranée. Deux scientifiques, Bill Ryan et Ken Shoo, cherchaient des preuves des débuts de l'histoire de la Méditerranée. Sur un site situé à 100 milles à l’est du détroit de Gibraltar, ils ont foré une carotte.

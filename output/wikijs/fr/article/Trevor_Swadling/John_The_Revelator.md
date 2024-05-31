@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Trevor Swadling<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Trevor Swadling<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 Le <a id="a14_3"></a>[LU 47:10.2](/fr/The_Urantia_Book/47#p10_2) _Le Livre d'URANTIA_ fait référence à Jean comme « Jean le Révélateur ». Lorsque nous lisons l'étude sur les douze apôtres, le <a id="a14_174"></a>[LU 139:4.14](/fr/The_Urantia_Book/139#p4_14), les Médians nous parlent de Jean : « Lorsqu'il était en exil temporaire à Patmos, Jean écrivit le Livre de l'Apocalypse, que vous avez maintenant sous une forme considérablement abrégée et déformée. Ce livre de l'Apocalypse contient les fragments survivants d'une grande révélation, dont de grandes parties ont été perdues, tandis que d'autres parties ont été supprimées à la suite des écrits de Jean. Il n’est conservé que sous une forme fragmentaire et frelatée.

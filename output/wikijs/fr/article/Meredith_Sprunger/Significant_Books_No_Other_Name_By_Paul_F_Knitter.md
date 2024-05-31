@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,7 +9,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Chris Moseley<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Chris Moseley<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
 _Le Livre d'URANTIA_ nous donne un aperçu privilégié de la vie entière de Jésus, de sa naissance à sa mort, et lorsque nous lisons la jeunesse et l'éducation de Jésus, nous voyons que l'enfance de Jésus n'était pas essentiellement différente de celle de millions d'autres enfants. Mais l'effusion terrestre de Jésus s'est produite dans un environnement linguistiquement et culturellement très diversifié, qui exigeait de lui l'apprentissage d'au moins deux langues. Même à l'âge de cinq ans, nous lisons sur <a id="a14_508"></a>[LU 123:2.14](/fr/The_Urantia_Book/123#p2_14) que Jésus... « s’exerça de bonne heure à écrire en araméen, en grec et plus tard en hébreu, car il apprit en son temps à lire, à écrire et à parler couramment les trois langues. »
