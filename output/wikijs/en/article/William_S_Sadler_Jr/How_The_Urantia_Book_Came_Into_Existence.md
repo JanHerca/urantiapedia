@@ -47,3 +47,4 @@ The following is transcribed from a tape recording made in the home of Berkeley 
 ## References
 
 * [This article in the Fellowship archives](https://urantiabook.org/How-the-Urantia-Book-Came-into-Existence)
+* [Another link in the same site](https://archive.urantiabook.org/archive/history/wssjr1.htm)

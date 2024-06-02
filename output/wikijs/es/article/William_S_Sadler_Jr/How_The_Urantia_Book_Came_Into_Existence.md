@@ -47,3 +47,4 @@ Lo siguiente está transcrito de una grabación realizada en la casa de Berkeley
 ## Referencias 
 
 * [Este artículo en los archivos de la Comunidad](https://urantiabook.org/How-the-Urantia-Book-Came-into-Existence)
+* [Otro enlace en el mismo sitio web](https://archive.urantiabook.org/archive/history/wssjr1.htm)

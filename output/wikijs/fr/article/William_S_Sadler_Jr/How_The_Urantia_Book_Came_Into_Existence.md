@@ -44,6 +44,7 @@ Ce qui suit est transcrit d'un enregistrement sur bande réalisé dans la maison
 
 «J'étais là la plupart du temps. Je suis un gestionnaire, pas un éditeur. 
 
-## Références 
+## Références
 
 * [Cet article dans les archives de la Fellowship](https://urantiabook.org/How-the-Urantia-Book-Came-into-Existence)
+* [Un autre lien sur le même site](https://archive.urantiabook.org/archive/history/wssjr1.htm)
