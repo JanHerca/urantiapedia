@@ -58,7 +58,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > Copyright &copy; 1990 by Fifth Epochal Fellowship Corporation. All rights reserved. Printed in U.S.A.
 {.is-info}
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/The_Urantian/Snowmass_1990_logo.jpg">
 </figure>
 
@@ -232,7 +232,7 @@ Like most of us here in this room, I lead a varied and busy professional life. I
 
 by Patrick Yesh
 
-## Introduction
+**Introduction**
 
 As an educator, the main focus behind anything I teach be it art, school curriculum, or Urantia teachings must reflect the supreme purpose of education as stated in _The Urantia Book_:
 
@@ -278,7 +278,7 @@ One of the miracles of our relationship with the heavenly Father is that in bare
 
 I want to focus on a few practical attitudes of daily living which can constantly remind us of the miracle of our existence and of the endless possibilities which are consequent upon our individual choosing to do his will. I will begin by listing a few things I have learned in the midst of my own struggles.
 
-[Read more](/en/article/Brent_St_Dents/CHANGES_Practice_Makes_Perfect)
+[Read more](/en/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect)
 
 ## Living as in the Presence of God: Making the Effort
 

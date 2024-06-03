@@ -66,7 +66,7 @@ Deberíamos tener un sano respeto por la ciencia, pero tampoco tener miedo de ex
 
 Ahora bien, si la gente insiste en que la opinión científica actual es correcta y que _El Libro de Urantia_ es un error, entonces deben justificar mentalmente por qué es así. Aquí es donde empieza el problema. Comienzan a buscar una explicación en el propio libro. Buscan en un libro supuestamente inexacto una declaración que demuestre sus propias inexactitudes. Una vez que encuentran una explicación, pueden relajarse, habiendo encontrado un vacío mental por el que escaparse cuando se enfrentan a información controvertida.
 
-> En todos mis años de estudio, nunca me he encontrado con nadie que tenga un fetiche por el Libro de Urantia.
+> En todos mis años de estudio, nunca me he encontrado con nadie que tenga el Libro de Urantia por un fetiche.
 
 Una y otra vez se afirma que los reveladores recibieron el mandato de utilizar la ciencia de la época, para dar preferencia a los más elevados conceptos humanos existentes. Y ahora que se han hecho nuevos descubrimientos, la revelación parece ser errónea. El reconocimiento al comienzo del libro parece ser una de las fuentes de esta idea. Dice que en la coordinación de conocimientos esenciales los autores deben dar preferencia a los conceptos más elevados propios de los temas a presentar ([LU 0:12.11](/es/The_Urantia_Book/0#p12_11)).
 

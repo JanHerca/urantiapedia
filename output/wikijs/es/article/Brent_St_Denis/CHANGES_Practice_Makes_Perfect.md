@@ -134,7 +134,7 @@ Creo que cometemos un error al intentar enterrar nuestro ego. Existe como un hec
 
 Cuando observamos que uno de nuestros compañeros parece vivir «con su ego en el bolsillo trasero», por así decirlo, parece que no tiene ego. Sugiero que su ego ha sido encargado de un servicio superior.
 
-## Tierra como escuela
+## La Tierra como escuela
 
 Parecería seguirse naturalmente que nuestro tiempo en este planeta Urantia es realmente tiempo en la escuela. Para mí tiene sentido que si las próximas etapas de nuestra carrera universal implican la participación en las escuelas de los mundos de estancia, ¿por qué nuestras vidas aquí serían menos una experiencia escolar? Esta idea se ve respaldada aún más por el hecho de que la partida que la mayoría de los mortales de Urantia harán en tránsito hacia los mundos de estancia será en compañía de miles de compañeros terrestres con los que avanzaremos a través de los mundos morontiales. Incluso es de conocimiento común que «aprendemos de nuestras experiencias». ¿Recuerdas la Escuela de los Golpes Duros?
 

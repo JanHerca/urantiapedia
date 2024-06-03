@@ -185,7 +185,7 @@ Self-will
 
 TO ONESELF
 
-Family \cdot Neighbors
+Family - Neighbors
 
 Clan — Tribe — Nation
 

@@ -54,7 +54,7 @@ Hay una luz esperanzadora. Emergiendo de las brumas de nuestra confusión parece
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Photo_by_Mary_Rector.jpg">
-<figcaption>Foto de María Rectora</figcaption>
+<figcaption>Foto de Mary Rector</figcaption>
 </figure>
 
 

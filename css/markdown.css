@@ -24,9 +24,6 @@ figure.image-style-align-right {
 figure.image-style-align-left {
   float: left;
 }
-figure.image-style-align-center {
-  margin: 0 auto;
-}
 img.is-imagemap {
   max-width: none;
 }
@@ -38,6 +35,9 @@ figure.urantiapedia.image-style-align-right {
 }
 figure.urantiapedia.image-style-align-left {
   margin: 10px 10px 10px 0;
+}
+figure.urantiapedia.image-style-align-center {
+  margin: 0 auto;
 }
 figure.urantiapedia figcaption {
   font-size: 14px;

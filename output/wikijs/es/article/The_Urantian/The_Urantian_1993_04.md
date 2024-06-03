@@ -173,27 +173,27 @@ La obra de arte de las páginas 8 y 9 (a continuación) concluye una serie de Ju
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/The_Urantian/Story_Time.jpg">
+<img src="/image/article/The_Urantian/Dancing_Eden.jpg">
 <figcaption><em>Edén bailando</em></figcaption>
 </figure>
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Urantian/Story_Time.jpg">
+<img src="/image/article/The_Urantian/Eve_and_Cano.jpg">
 <figcaption><em>Eva y Cano</em></figcaption>
 </figure>
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/The_Urantian/Story_Time.jpg">
+<img src="/image/article/The_Urantian/Oh_Eve.jpg">
 <figcaption><em>“¡Oh, Eva!”</em></figcaption>
 </figure>
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/The_Urantian/Story_Time.jpg">
+<img src="/image/article/The_Urantian/And_then_Adam.jpg">
 <figcaption><em>“Y luego, Adán...”</em></figcaption>
 </figure>
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/The_Urantian/Story_Time.jpg">
+<img src="/image/article/The_Urantian/Its_Over_Now.jpg">
 <figcaption><em>Ya se acabó</em></figcaption>
 </figure>
 

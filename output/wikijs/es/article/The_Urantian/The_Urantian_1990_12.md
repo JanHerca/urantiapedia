@@ -62,7 +62,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > Derechos de autor &copy; 1990 por Fifth Epochal Fellowship Corporation. Reservados todos los derechos. Impreso en EE.UU.
 {.is-info}
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/The_Urantian/Snowmass_1990_logo.jpg">
 </figure>
 
@@ -236,7 +236,7 @@ Como la mayoría de nosotros aquí en esta sala, llevo una vida profesional vari
 
 por Patrick Yesh
 
-## Introducción
+**Introducción**
 
 Como educador, el enfoque principal detrás de todo lo que enseño, ya sea arte, currículo escolar o enseñanzas de Urantia, debe reflejar el propósito supremo de la educación como se afirma en _El Libro de Urantia_:
 
@@ -282,7 +282,7 @@ Uno de los milagros de nuestra relación con el Padre celestial es que en apenas
 
 Quiero centrarme en algunas actitudes prácticas de la vida diaria que pueden recordarnos constantemente el milagro de nuestra existencia y las infinitas posibilidades que resultan de nuestra elección individual de hacer su voluntad. Comenzaré enumerando algunas cosas que he aprendido en medio de mis propias luchas.
 
-[Leer más](/es/article/Brent_St_Dents/CHANGES_Practice_Makes_Perfect)
+[Leer más](/es/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect)
 
 ## Vivir como en la Presencia de Dios: Haciendo el Esfuerzo
 

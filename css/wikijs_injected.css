@@ -27,6 +27,9 @@ CSS will automatically be minified. */
 .v-main .contents figure.urantiapedia.image-style-align-left {
     margin: 10px 10px 10px 0;
 }
+.v-main .contents figure.urantiapedia.image-style-align-center {
+    margin: 0 auto;
+}
 .v-main .contents figure.urantiapedia figcaption {
     font-size: 14px;
     display: table-caption;

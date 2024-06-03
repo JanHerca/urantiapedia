@@ -46,7 +46,7 @@ Try to experience, not just understand, the meaning and value behind the words. 
 
 What is the meaning of “reflective” thinking or meditation? Is it that it is “reflective” of higher truth, rather than just expressing the time spent thinking? If we looked at words in a different way, would we allow their reflective power to be released? Example: “Why does it matter? Because God cares!” If, in responding to the question, we only understood “matter” to signify material reality, we might have responded with intellectual reasons for the existence of matter. But, in looking at the word in a slightly different light, our answer is “reflective” of new meaning and value.
 
-### REFLECTIVE MEDITATION:
+## REFLECTIVE MEDITATION
 
 Let's together meditate on a single phrase. Remember the instructions given at the beginning...let the words reflect truth to you, rather than using your mind to attach your opinion of their meaning to each word.
 
@@ -58,7 +58,7 @@ Now let's consider the reflective meaning of some other words given us in _The U
 
 On <a id="a58_3"></a>[UB 1:5.7](/en/The_Urantia_Book/1#p5_7) it is stated: “_God is personality._” Could we understand that to mean that God IS each personalityeven though each personality is not God? For example, could our “own” self-conscious existence be expressive of God's declaring: I AM David, I AM John, I AM Marta, I AM Barbara, I AM Judy, etc? Might we conclude that our self-conscious experience of the relationship between unique personality and the Indwelling Adjuster IS the living mechanism by virtue of which we participate in God's self-experience? Could each of us declare that “I am the only begotten Son of God,” phraseology reflective of personality uniqueness? If the “word” of God suggests personality, is each of us a “word” of God?
 
-### REFLECTIVE MEDITATIONS:
+## REFLECTIVE MEDITATIONS
 
 <p style="text-align:center;">
 I AM THE SON OF THE LIVING GOD.
@@ -67,7 +67,7 @@ I AM THE ONLY BEGOTTEN SON OF THE LIVING GOD.
 
 On <a id="a67_3"></a>[UB 112:5.2](/en/The_Urantia_Book/112#p5_2) of _The Urantia Book_ a Solitary Messenger tells us that “_Man's personality is eternal but with regard to identity a conditioned eternal reality. Having appeared in response to the Father's will, personality will attain Deity destiny, but man must choose whether or not he will be present at the attainment of such destiny._” Steve Dreier mentioned in his talk that both personality and the Thought Adjuster are bestowed by God. Who, then, are we? If personality and the Adjuster come from God and will return to him, and if “we” must choose whether or not to be there when such returning takes place, who are we? Do we exist somehow in the living relationship between God as a perSON-ality (bestowed and qualified as unique) and God as a preperSON-ality (bestowed and not qualified)? Are we conscious participants in the relationship between God qualified as personal and God not qualified at all? Do we exist at the focal point (in time/space) of God as unity and God as diversity? Is our job somehow to unify this relationship through experience, our experience? Do we in this way become a part, literally, of God's eternal self-exploration? Are we an expression of unity in diversity and the diversity of unity?
 
-### REFLECTIVE MEDITATIONS:
+## REFLECTIVE MEDITATIONS
 
 <p style="text-align:center;">
 I AM THE SON OF THE LIVING GOD.
@@ -76,14 +76,14 @@ I WILL TRY TO UNIFY MY EXPERIENCE OF THE LIVING GOD.
 
 Now this experience is not just a singular or solitary one because, while it may be true for each of us individually, it is just as true for all of us together, simultaneously, In addition, this experience provides for another level of unity which we may experience- the unity of relationships...the Supreme. On <a id="a76_312"></a>[UB 112:2.8](/en/The_Urantia_Book/112#p2_8) we are told: “_Every true relationship of mortal man with other persons-human or divine-is an end in itself. And such fellowship with the personality of Deity is the eternal goal of universe ascension._” In another way, Jesus taught us the same truth: “_I am the vine and you are the branches. And the Father requires of me only that you shall bear much fruit...You must abide in me and I in you; the branch will die if it is separated from the vine. I am the real vine and you are the living branches. He who lives in me, and I in him, will bear much fruit of the spirit and experience the supreme joy of yielding this spiritual harvest._” (<a id="a76_998"></a>[UB 180:2.1](/en/The_Urantia_Book/180#p2_1))
 
-### REFLECTIVE MEDITATIONS:
+## REFLECTIVE MEDITATIONS
 
 <p style="text-align:center;">
 I AM THE SON OF THE LIVING GOD.
 YOU ARE THE SON OF THE LIVING GOD. WE ARE SONS OF THE LIVING GOD.
 </p>
 
-### SUMMARY
+## SUMMARY
 
 The simple acts of seeing, knowing, and loving another perSON is the act of experiencing God, as revealed in his sons, perSONally. As we engage in this process, we are creating a living being which has as much or more life and vitality as each of us does. This being is God, expressed in time and space and called by the word symbol SUPREME.
 

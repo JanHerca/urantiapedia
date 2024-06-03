@@ -178,7 +178,7 @@ MENTE EVOLUTIVA: Sistema físico
 - Obligación social
 - Obligación moral
 
-Deseo del ego
+Deseo del egop
 
 Voluntad propia
 
@@ -186,7 +186,7 @@ Voluntad propia
 
 A UNO MISMO
 
-Familia \cdot Vecinos
+Familia - Vecinos
 
 Clan – Tribu – Nación
 
