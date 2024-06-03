@@ -24,6 +24,9 @@ figure.image-style-align-right {
 figure.image-style-align-left {
   float: left;
 }
+figure.image-style-align-center {
+  margin: 0 auto;
+}
 img.is-imagemap {
   max-width: none;
 }

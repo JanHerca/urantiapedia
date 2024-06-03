@@ -29,7 +29,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 <p style="text-align:center;">
-<b>FIFTH EPOCHAL FELLOWSHIP for readers of _The Urantia Book_</b><br>
+<b>FIFTH EPOCHAL FELLOWSHIP for readers of <i>The Urantia Book</i>></b><br>
 <br>
 <b>SPECIAL CONFERENCE ISSUE I</b><br>
 <br>
@@ -59,7 +59,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 {.is-info}
 
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/The_Urantian/Snowmass_1990_logo.jpg">
 </figure>
 

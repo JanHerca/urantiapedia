@@ -3,7 +3,7 @@ title: "“The Journal of Fifth Epochal Fellowship” — Winter 1989 Special Do
 description: "(formerly known as “The Urantian”)"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Fellowship, The Urantian, article
+tags: Study Groups, Fellowship, The Urantian, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
