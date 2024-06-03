@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/virtual_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupos de estudio y conferencias virtuales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2020_urantia_hackathon_volunteers">
+          <span class="pr-2">Urantia Hackatón 2020 — Llamada para voluntarios de equipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -53,3 +77,28 @@ La siguiente lista de mantras de meditación está tomada de las sugerencias pr�
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/mantras-de-meditacion-para-sintonizar-con-el-ajustador/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/virtual_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupos de estudio y conferencias virtuales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2020_urantia_hackathon_volunteers">
+          <span class="pr-2">Urantia Hackatón 2020 — Llamada para voluntarios de equipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

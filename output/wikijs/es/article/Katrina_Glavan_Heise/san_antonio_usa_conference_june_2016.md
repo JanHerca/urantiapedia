@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Katrina Glavan-Heise<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/urantia_young_adult_online_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio virtual Urantia Young Adult</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="pr-2">Cumpleaños de Jesús en su tierra natal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -43,3 +67,28 @@ Presidenta de la Lone Star Urantia Association
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-en-san-antonio-eeuu-junio-de-2016/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/urantia_young_adult_online_study_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio virtual Urantia Young Adult</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="pr-2">Cumpleaños de Jesús en su tierra natal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

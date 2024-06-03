@@ -9,6 +9,24 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-número-especial-sobre-cathy-jones">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Número Especial sobre Cathy Jones — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -215,3 +233,22 @@ Los mejores líderes siempre asesoran a aquellos que están listos y dispuestos 
 - [Boletín Tidings](https://urantia-association.org/acerca-del-boletin-tidings/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/farewell-to-cathy-jones/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-número-especial-sobre-cathy-jones">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — Número Especial sobre Cathy Jones — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

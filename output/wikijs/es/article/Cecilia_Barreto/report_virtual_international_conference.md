@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Cecilia Barreto<br>© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de la Asociación Urantia Internacional 2024 en los EE.UU.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="pr-2">Valor espiritual de la Conferencia de Perú</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Celebrada los días 24 y 25 de abril de 2021, organizada por la Asociación Urantia de Perú
@@ -59,3 +83,28 @@ Equipo organizador de la Asociación Urantia de Perú
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/informe-sobre-la-conferencia-internacional-virtual/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2021_2024_uai_conference_in_usa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de la Asociación Urantia Internacional 2024 en los EE.UU.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="pr-2">Valor espiritual de la Conferencia de Perú</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

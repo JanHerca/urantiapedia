@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gaétan Charland<br>© 2022 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los peligros de un planeta decimal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -137,3 +158,25 @@ Rezo por que este artículo les ayude a comprender mejor la importancia de la mi
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/por-que-participar-en-un-grupo-de-estudio/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los peligros de un planeta decimal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

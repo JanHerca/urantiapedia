@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Rick Lyon<br>© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/ode_to_a_friend">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Líder intrépido del PIRT — Oda a un amigo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Linthicum/eyedropper_spoon_shovel">
+          <span class="pr-2">El cuentagotas, la cuchara y la pala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Nota de la redacción: David pidió a Rick que su panegírico fuera un testamento de las enseñanzas de El libro de Urantia. Quería que los reunidos escucharan lo que era su vida religiosa.)_
@@ -141,3 +165,28 @@ y por último:
 - [Este número](https://urantia-association.org/newsletter/tidings-special-issue-june-2022/)
 - [Este artículo](https://urantia-association.org/elogio-de-david-linthicum/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/ode_to_a_friend">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Líder intrépido del PIRT — Oda a un amigo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Linthicum/eyedropper_spoon_shovel">
+          <span class="pr-2">El cuentagotas, la cuchara y la pala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Alice Wood<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nathen_Jansen/urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiencia Global Urantia – Vancouver 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/18th_national_spain">
+          <span class="pr-2">XVIII Encuentro de lectores del libro en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Un servicio personal
@@ -68,3 +92,28 @@ https://youtu.be/HaR9xXGn360?list=PLyWjRQTGTD6K_ExQP-0B58ws0NZr8Gxwd
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/lecciones-de-vida-de-urantia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nathen_Jansen/urantia_global_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiencia Global Urantia – Vancouver 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/18th_national_spain">
+          <span class="pr-2">XVIII Encuentro de lectores del libro en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

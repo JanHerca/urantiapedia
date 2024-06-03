@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Steve Sycamore and David Fabe<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Talleres virtuales «Enseñanza y liderazgo según El libro de Urantia»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="pr-2">Bailar con Dios: Emerger en lo sagrado. Un retiro de mujeres en la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -36,3 +60,28 @@ Un buen porcentaje de los que mostraron más interés o curiosidad por el libro 
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/feria-del-libro-de-gotemburgo-suecia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2017_online_workshops_leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Talleres virtuales «Enseñanza y liderazgo según El libro de Urantia»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god_retreat_women">
+          <span class="pr-2">Bailar con Dios: Emerger en lo sagrado. Un retiro de mujeres en la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

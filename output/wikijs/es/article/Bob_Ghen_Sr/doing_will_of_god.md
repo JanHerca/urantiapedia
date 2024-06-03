@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Bob Ghen Sr.<br>© 2018 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Llamada jesusiana para recorrer la tercera legua</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiración y cura que proporciona El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -147,3 +171,28 @@ O dicho de otra manera: la verdadera religión _es_ «hacer la voluntad de Dios�
 - [Este número](https://urantia-association.org/newsletter/journal-may-2018/)
 - [Este artículo](https://urantia-association.org/hacer-la-voluntad-de-dios/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/jesusonian_calling_go_third_mile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Llamada jesusiana para recorrer la tercera legua</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Susan_Lyon/inspiration_healing_urantia_book">
+          <span class="pr-2">Inspiración y cura que proporciona El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

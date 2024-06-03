@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Nathen Jansen<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/annual_retreat_uk_ireland_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retiro anual de Reino Unido e Irlanda 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="pr-2">Lecciones de vida de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Vancouver (Canadá), del 15 al 19 de julio de 2020
@@ -43,3 +67,28 @@ El sitio de la UGE se publicará y anunciará el 1 de julio (Día de Canadá) de
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/experiencia-global-urantia-vancouver-2020/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/annual_retreat_uk_ireland_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retiro anual de Reino Unido e Irlanda 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/urantia_life_lessons_2">
+          <span class="pr-2">Lecciones de vida de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

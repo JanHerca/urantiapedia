@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Christian Ruch<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carmelo_Martinez/urantia_association_of_spain_meets">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Asociación Urantia de España celebra su XIV Encuentro de lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cesar_Paulo_Zapello/readers_meet_inbrazil">
+          <span class="pr-2">Encuentro de lectores en Brasil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -35,3 +59,28 @@ Chur (Suiza)
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/reunion-del-blue-club-en-frankfurt/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carmelo_Martinez/urantia_association_of_spain_meets">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Asociación Urantia de España celebra su XIV Encuentro de lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cesar_Paulo_Zapello/readers_meet_inbrazil">
+          <span class="pr-2">Encuentro de lectores en Brasil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

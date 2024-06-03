@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Ed Owen<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Wood/presidents_message_december_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2019_exciting_service_opportunity">
+          <span class="pr-2">Una emocionante oportunidad de servir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
@@ -47,3 +71,28 @@ Así que, si alguna vez se deciden a comprarle bebida a un alcohólico, entra de
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/joe-en-south-lake-tahoe/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Wood/presidents_message_december_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2019_exciting_service_opportunity">
+          <span class="pr-2">Una emocionante oportunidad de servir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

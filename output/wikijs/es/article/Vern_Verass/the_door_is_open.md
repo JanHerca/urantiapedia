@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Verner Verass<br>© 2015 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bart_Gibbons/with_respect_to_adversity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Respecto a la adversidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="Screen Shot 2016-02-22 at 11.14.39 AM">
@@ -59,3 +80,25 @@ Una promesa de vida en abundancia para «todo el que quiera».
 - [Este número](https://urantia-association.org/newsletter/journal-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/la-puerta-esta-abierta-todo-el-que-quiera-puede-entrar/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bart_Gibbons/with_respect_to_adversity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Respecto a la adversidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

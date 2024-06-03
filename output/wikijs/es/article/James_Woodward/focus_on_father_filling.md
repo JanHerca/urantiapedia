@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 James Woodward<br>© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/anxious_evolution_of_urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evolución inquieta de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _La felicidad y la alegría tienen su origen en la vida interior. No podéis experimentar una verdadera alegría completamente solos._ <a id="a33_101"></a>[[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)]
@@ -32,3 +53,25 @@ La verdadera felicidad y alegría que experimentamos es siempre una experiencia 
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/centrarse-en-el-padre-llenar-y-derramar/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/anxious_evolution_of_urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evolución inquieta de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Line St Pierre<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cumpleaños de Jesús en su tierra natal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="pr-2">Crónica del Parlamento de las Religiones del Mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Tejer el tapiz del Supremo
@@ -81,3 +105,28 @@ Al grupo de las Hijas de Dios les encantaría compartir este modelo de retiro�
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/bailar-con-dios/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Diane_Labrecque/jesus_birthday_in_his_homeland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cumpleaños de Jesús en su tierra natal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/parliament_of_worlds_religions_report">
+          <span class="pr-2">Crónica del Parlamento de las Religiones del Mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

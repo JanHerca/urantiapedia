@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Alice Wood<br>© 2018 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2018_reflections_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la Conferencia Internacional 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Antonio_Schefer/urantia_young_adults_post_conference">
+          <span class="pr-2">Posconferencia de la Urantia Young Adults</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -45,3 +69,28 @@ Hacia el final del día, se trajo a debate una cita de _El libro de Urantia_ <a 
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/informe-de-la-conferencia-2018-de-ghana/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2018_reflections_international_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la Conferencia Internacional 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Antonio_Schefer/urantia_young_adults_post_conference">
+          <span class="pr-2">Posconferencia de la Urantia Young Adults</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

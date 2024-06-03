@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Suzanne Kelly<br>© 2019 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2019_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Mayo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/function_of_prayer">
+          <span class="pr-2">La función de la oración para fortalecer nuestra fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Saludos, amigos lectores de _El libro de Urantia_:
@@ -52,3 +76,28 @@ Feliz e iluminadora lectura.
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/editorial-del-journal-mayo-2019/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2019_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Mayo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/function_of_prayer">
+          <span class="pr-2">La función de la oración para fortalecer nuestra fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

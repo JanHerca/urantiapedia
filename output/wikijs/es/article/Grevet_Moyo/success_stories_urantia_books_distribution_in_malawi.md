@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Grevet Moyo<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la conferencia de Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-agosto-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — agosto 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cyril/french_national_meeting">
+          <span class="pr-2">Encuentro nacional francés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El 12 de febrero de 2015, recibí 120 ejemplares de _El libro de Urantia_ de la Fundación Urantia a través del presidente de la Asociación Urantia Internacional, Chris Wood. Era el envío más grande que había recibido aquí en Malawi.
@@ -75,3 +99,28 @@ Presidente de la Asociación Urantia de Malawi
 - [Este número](https://urantia-association.org/newsletter/tidings-agosto-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/historias-de-exito-distribucion-de-el-libro-de-urantia-en-malawi/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/quebec_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la conferencia de Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-agosto-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — agosto 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cyril/french_national_meeting">
+          <span class="pr-2">Encuentro nacional francés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

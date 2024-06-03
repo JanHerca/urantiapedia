@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Claude Flibotte<br>© 2020 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kurtz/comprehension">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprensión: avanzar en la brillantez desde la visión interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -109,3 +130,25 @@ Aunque no podemos definir la vida, sabemos lo que representa y permite ya que so
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/implantacion-de-la-vida-en-un-planeta/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kurtz/comprehension">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprensión: avanzar en la brillantez desde la visión interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

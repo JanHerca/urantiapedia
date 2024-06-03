@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Nigel Nunn<br>© 2017 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_november_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal, noviembre de 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/supremacy_grand_universe">
+          <span class="pr-2">La Supremacía del gran universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -153,3 +177,28 @@ Pero lo que hace todo esto aun _más_ interesante es la manera en que un agrupam
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/el-gigante-orvonton/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_november_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal, noviembre de 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/supremacy_grand_universe">
+          <span class="pr-2">La Supremacía del gran universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Kathleen Swadling<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paulo_Cesar_Zapello/brazil_national_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión nacional de Brasil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-octubre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — octubre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/uaiuk_summer_meeting_2015">
+          <span class="pr-2">Reunión de Verano 2015 de la UAIUK</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Faith and Courage – the Pathway to Paradise and Beyond
@@ -61,3 +85,28 @@ Por supuesto, no podemos celebrar una conferencia sin tener un momento para la r
 - [Este número](https://urantia-association.org/newsletter/tidings-octubre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-anual-de-anzura-de-lectores-de-el-libro-de-urantia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paulo_Cesar_Zapello/brazil_national_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión nacional de Brasil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-octubre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — octubre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/uaiuk_summer_meeting_2015">
+          <span class="pr-2">Reunión de Verano 2015 de la UAIUK</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

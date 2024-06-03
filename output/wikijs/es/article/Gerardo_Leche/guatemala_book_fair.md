@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Gerardo Leche<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Efrain_Vivanco/ecuador_book_fair_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria del Libro de Ecuador 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cecilia_Barreto/antfil_an_alternative_fair_in_peru">
+          <span class="pr-2">ANTIFIL – una feria alternativa en Perú</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -36,3 +60,28 @@ Agradezco públicamente la participación en la presentación de _El libro de Ur
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/feria-del-libro-de-guatemala/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Efrain_Vivanco/ecuador_book_fair_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria del Libro de Ecuador 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cecilia_Barreto/antfil_an_alternative_fair_in_peru">
+          <span class="pr-2">ANTIFIL – una feria alternativa en Perú</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

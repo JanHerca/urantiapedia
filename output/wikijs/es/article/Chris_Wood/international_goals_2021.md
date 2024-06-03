@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Chris Wood<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Wood/presidents_message_dec_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karen_Huigsloot/international_conference_2018_update">
+          <span class="pr-2">International Conference 2018 Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Asociación Urantia Internacional es una  organización que va de abajo a arriba. Las asociaciones locales y nacionales hacen el trabajo que da forma al futuro de la Comunidad Urantia y a la integración de las enseñanzas Urantia en las culturas del mundo.
@@ -47,3 +71,28 @@ Estas son nuestras metas para los próximos tres años. ¿Se unirán ustedes y s
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/metas-internacionales-para-2021/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Wood/presidents_message_dec_2017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karen_Huigsloot/international_conference_2018_update">
+          <span class="pr-2">International Conference 2018 Update</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

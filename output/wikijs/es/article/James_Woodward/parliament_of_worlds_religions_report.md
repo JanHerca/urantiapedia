@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 James Woodward<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bailar con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="pr-2">El Directorio de Grupos de Estudio de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -43,3 +67,28 @@ Nuestra aventura en el Parlamento fue un buen preludio de la conferencia conjunt
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/cronica-del-parlamento-de-las-religiones-del-mundo/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bailar con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="pr-2">El Directorio de Grupos de Estudio de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

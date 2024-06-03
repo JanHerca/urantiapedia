@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Número especial de Tidings — Noticias y actualizaciones de la IUA — junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/ode_to_a_friend">
+          <span class="pr-2">Líder intrépido del PIRT — Oda a un amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -112,3 +136,28 @@ David falleció el miércoles 1 de junio de 2022 en Oklahoma City. Nació el 12 
 - [Este número](https://urantia-association.org/newsletter/tidings-special-issue-june-2022/)
 - [Este artículo](https://urantia-association.org/graduacion-de-david-linthicum/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Número especial de Tidings — Noticias y actualizaciones de la IUA — junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/ode_to_a_friend">
+          <span class="pr-2">Líder intrépido del PIRT — Oda a un amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

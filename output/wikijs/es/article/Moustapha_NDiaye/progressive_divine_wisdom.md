@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Moustapha K. Ndiaye<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en el Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="pr-2">Centros de aprendizaje de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -84,3 +108,28 @@ Se han logrado los siguientes objetivos establecidos en el informe de actividade
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/sabiduria-divina-progresiva/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en el Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2023_urantia_book_learning_centers">
+          <span class="pr-2">Centros de aprendizaje de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

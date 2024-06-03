@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Suzanne Kelly<br>© 2020 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2020_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Mayo 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Garcia_Bory/a_positive_shift">
+          <span class="pr-2">Un cambio positivo en la consciencia planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -35,3 +59,28 @@ Muchos otros sabios han dicho que esto también pasará, y nos haremos más fuer
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/editorial-del-journal-mayo-2020/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/2020_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Mayo 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Garcia_Bory/a_positive_shift">
+          <span class="pr-2">Un cambio positivo en la consciencia planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

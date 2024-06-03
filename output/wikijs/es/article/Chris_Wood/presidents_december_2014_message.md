@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Chris Wood<br>© 2014 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2014_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — noviembre-diciembre de 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/virginia_carolina_readers_12th_annual_conference">
+          <span class="pr-2">12.ª Conferencia Anual de Lectores de Virginia Carolina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -39,3 +63,28 @@ Chris Wood
 - [Este número](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Este artículo](https://urantia-association.org/presidents-december-2014-message)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2014_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — noviembre-diciembre de 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2014 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/virginia_carolina_readers_12th_annual_conference">
+          <span class="pr-2">12.ª Conferencia Anual de Lectores de Virginia Carolina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Antonio Schefer<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/more_on_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2019_vancouver_canada_2020">
+          <span class="pr-2">Vancouver Canadá 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Presented by Antonio Schefer, The Netherlands on February 26, 2019-May 29, 2019
@@ -83,3 +107,28 @@ Antonio Schefer
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/novedades-de-la-ii-conferencia-urantia-europea/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/more_on_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2019_vancouver_canada_2020">
+          <span class="pr-2">Vancouver Canadá 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

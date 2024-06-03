@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 André Desjardins<br>© 2022 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kurt_Cira/my_relationship_to_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi relación con Dios: mi madre y mi padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Walker/the_word_the_language_the_dictionary_2">
+          <span class="pr-2">La palabra, la lengua, el diccionario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -122,3 +146,28 @@ La mente humana no está ligada en modo alguno al tiempo y al espacio por la tra
 - [Este número](https://urantia-association.org/newsletter/journal-november-2022/)
 - [Este artículo](https://urantia-association.org/los-circulos-psiquicos-y-la-vida-morontial/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kurt_Cira/my_relationship_to_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi relación con Dios: mi madre y mi padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Walker/the_word_the_language_the_dictionary_2">
+          <span class="pr-2">La palabra, la lengua, el diccionario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

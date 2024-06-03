@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 James Woodward<br>© 2020 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marian_Hughes/stranded_in_patagonia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Varados en la Patagonia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -35,3 +56,25 @@ El intercambio recíproco entre una persona mortal y una persona inmortal, el am
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/centrarse-en-el-padre/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marian_Hughes/stranded_in_patagonia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Varados en la Patagonia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

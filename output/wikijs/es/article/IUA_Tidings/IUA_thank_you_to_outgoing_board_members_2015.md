@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Bobbie Drier<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/summer_study_session_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesión de Estudio de Verano 2015 de la Urantia Book Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-abril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — abril 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Junta de Servicio Internacional_
@@ -28,3 +49,25 @@ Nos gustaría reconocer y agradecer a nuestros miembros salientes de la Junta de
 - [Boletín Tidings](https://urantia-association.org/acerca-del-boletin-tidings/?lang=es)
 - [Este número](https://urantia-association.org/newsletter/tidings-december-2014/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bobbie_Dreier/summer_study_session_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesión de Estudio de Verano 2015 de la Urantia Book Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-abril-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — abril 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

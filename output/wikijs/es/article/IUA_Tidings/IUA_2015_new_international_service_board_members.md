@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difundiendo El Libro de Urantia en Ucrania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-febrero-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — febrero 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/virtual_study_group_symmetry_of_soul">
+          <span class="pr-2">Grupo de Estudio Virtual – Simetría del Alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Consejo Representativo de la Asociación Urantia Internacional acaba de completar un ciclo de elección de miembros de la Junta de Servicio Internacional (JIS). A continuación se detallan los puestos que debían ser elegidos junto con los candidatos seleccionados:
@@ -120,3 +144,28 @@ Para quienes están familiarizados con la Asociación Urantia, no se necesita pr
 - [Este número](https://urantia-association.org/newsletter/tidings-december-2014/)
 - [Este artículo](https://urantia-association.org/new-international-service-board-members)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/spreading_the_urantia_book_in_ukraine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difundiendo El Libro de Urantia en Ucrania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-febrero-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — febrero 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/virtual_study_group_symmetry_of_soul">
+          <span class="pr-2">Grupo de Estudio Virtual – Simetría del Alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

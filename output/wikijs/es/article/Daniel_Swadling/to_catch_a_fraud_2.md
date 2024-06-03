@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Daniel Swadling<br>© 2016 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/follow_the_yellow_brick_road_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sigue el camino de baldosas amarillas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -130,3 +151,25 @@ Dijo Jesús:
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/descubrir-un-fraude/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/follow_the_yellow_brick_road_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sigue el camino de baldosas amarillas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

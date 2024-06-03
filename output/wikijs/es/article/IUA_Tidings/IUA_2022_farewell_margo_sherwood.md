@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/3rd_european_conference_of_urantia_book_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">III Conferencia Europea de Lectores de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
@@ -40,3 +61,25 @@ Tras 26 años de entregado matrimonio y de viajes por todo el mundo asistiendo a
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/despedida-a-margo-sherwood/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/3rd_european_conference_of_urantia_book_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">III Conferencia Europea de Lectores de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Chris Moseley<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rick_Lyon/urantia_midwest_conference_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Urantia del Medio Oeste 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nathen_Jansen/urantia_global_experience">
+          <span class="pr-2">Experiencia Global Urantia – Vancouver 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Dedicarse a los asuntos del Padre
@@ -49,3 +73,28 @@ Si desean dar una presentación en el retiro (hagan clic en el botón «Leer má
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/retiro-anual-de-reino-unido-e-irlanda-2019/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rick_Lyon/urantia_midwest_conference_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Urantia del Medio Oeste 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nathen_Jansen/urantia_global_experience">
+          <span class="pr-2">Experiencia Global Urantia – Vancouver 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

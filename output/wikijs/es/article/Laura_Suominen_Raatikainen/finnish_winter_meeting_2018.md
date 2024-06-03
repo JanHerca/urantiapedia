@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Laura Suominen-Raatikainen<br>© 2018 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar/ministry_belgium_prisons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio en las prisiones belgas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ramon_Franco/miami_book_fair">
+          <span class="pr-2">Feria del Libro de Miami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -35,3 +59,28 @@ Todos se marcharon muy satisfechos y de buen humor. No solo tuvimos la oportunid
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/reunion-finlandesa-de-invierno-2018/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar/ministry_belgium_prisons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio en las prisiones belgas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ramon_Franco/miami_book_fair">
+          <span class="pr-2">Feria del Libro de Miami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

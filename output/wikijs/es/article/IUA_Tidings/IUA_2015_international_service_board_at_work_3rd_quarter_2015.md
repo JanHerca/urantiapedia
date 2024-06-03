@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Directorio de Grupos de Estudio de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Presidente
@@ -75,3 +96,25 @@ Sheila asistió al Parlamento de las Religiones del Mundo y continuó trabajando
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/trabajo-de-la-junta-internacional-de-servicio-3er-trimestre-2015/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Scott_Brooks/the_urantia_book_study_group_directory_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Directorio de Grupos de Estudio de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

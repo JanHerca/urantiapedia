@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Annet/urantia_belgian_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El grupo Urantia belga celebra el cumpleaños de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father2">
+          <span class="pr-2">Centrarnos en el Padre, ir a casa de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -43,3 +67,28 @@ El [estudio autodirigido](https://urantiauniversity.org/sys/website/?pageId=1804
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/noticias-del-urantia-university-institute/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Annet/urantia_belgian_group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El grupo Urantia belga celebra el cumpleaños de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father2">
+          <span class="pr-2">Centrarnos en el Padre, ir a casa de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Cecilia Barreto<br>© 2019 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gerardo_Leche/guatemala_book_fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria del Libro de Guatemala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/farewell_mark_bloomfield">
+          <span class="pr-2">Despedida a Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -44,3 +68,28 @@ Vicepresidenta de Urantia Perú
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/antifil-una-feria-alternativa-en-peru/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gerardo_Leche/guatemala_book_fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria del Libro de Guatemala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/farewell_mark_bloomfield">
+          <span class="pr-2">Despedida a Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

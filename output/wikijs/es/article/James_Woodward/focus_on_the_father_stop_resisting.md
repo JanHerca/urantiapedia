@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 James Woodward<br>© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bailar con Dios – Retiro virtual «Vivir en amor en tiempos difíciles»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2021_novels_by_rick_warren">
+          <span class="pr-2">Obras derivadas – Novelas de Rick Warren</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## The Teaching
@@ -39,3 +63,28 @@ De nuevo, nuestro amistoso espíritu residente (nuestro copiloto moral) nos ayud
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/centrate-en-el-padre-y-no-te-resistas/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bailar con Dios – Retiro virtual «Vivir en amor en tiempos difíciles»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2021_novels_by_rick_warren">
+          <span class="pr-2">Obras derivadas – Novelas de Rick Warren</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

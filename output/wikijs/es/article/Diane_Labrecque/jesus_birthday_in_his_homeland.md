@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Diane Labrecque<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia en San Antonio (EEUU), junio de 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god">
+          <span class="pr-2">Bailar con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -52,3 +76,28 @@ Nota: nuestro especial agradecimiento a Lisa Crowe por todo el experto trabajo d
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/cumpleanos-de-jesus-en-su-tierra-natal/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Katrina_Glavan_Heise/san_antonio_usa_conference_june_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia en San Antonio (EEUU), junio de 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god">
+          <span class="pr-2">Bailar con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

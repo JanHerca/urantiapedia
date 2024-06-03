@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Owen/the_importance_of_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de los grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andres_Ramirez/international_book_fair_in_bogota_colombia">
+          <span class="pr-2">Feria Internacional del Libro de Bogotá (Colombia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El 16 de mayo, algunos grupos de estudio se reunieron para el Día Internacional del Estudio anual. Este año, leímos los Documentos 160 y 161 – _Rodán de Alejandría_ y _Otras discusiones con Rodán._ A continuación hay algunas reflexiones de varios de los grupos que se reunieron.
@@ -92,3 +116,28 @@ Julian McGarry
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/reflexiones-sobre-el-dia-internacional-del-estudio/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Susan_Owen/the_importance_of_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de los grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andres_Ramirez/international_book_fair_in_bogota_colombia">
+          <span class="pr-2">Feria Internacional del Libro de Bogotá (Colombia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

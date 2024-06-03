@@ -8,6 +8,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ivan Stol<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sandra_Burga_Cisneros/european_blue_club_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión del Blue Club europeo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lourdes_Burga_Cisneros/passing_torch_future_generations">
+          <span class="pr-2">Pasando la antorcha de luz a las generaciones futuras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -73,3 +97,28 @@ Pero la ayuda material no es lo que más importa. En todo el mundo, no solo en F
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/encuentro-nacional-frances-2/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sandra_Burga_Cisneros/european_blue_club_meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión del Blue Club europeo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lourdes_Burga_Cisneros/passing_torch_future_generations">
+          <span class="pr-2">Pasando la antorcha de luz a las generaciones futuras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

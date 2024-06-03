@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patty McGrath<br>© 2020 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rick_Lyon/benign_virus_of_love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El virus benigno del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="pr-2">El renacimiento del alma y la mente moroncial (del alma)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Transcripción y adaptación de una presentación virtual dada en el 24-hour Online Urantia Event el 21 de marzo de 2020)_
@@ -202,3 +226,28 @@ Así como enseñamos el amor, también aprenderemos que somos hijos de Dios crea
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/repaso-de-las-bienaventuranzas-una-filosofia-del-vivir/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rick_Lyon/benign_virus_of_love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El virus benigno del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/soul_rebirth">
+          <span class="pr-2">El renacimiento del alma y la mente moroncial (del alma)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_nov_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/personal_exp_revealed_truth">
+          <span class="pr-2">La experiencia personal de la verdad revelada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ¿Es el reclutamiento de auténticos apóstoles?
@@ -73,3 +97,28 @@ Así como [el documento 99](/es/The_Urantia_Book/99) abordó los problemas actua
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/el-proposito-de-la-quinta-revelacion-de-epoca/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_nov_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/personal_exp_revealed_truth">
+          <span class="pr-2">La experiencia personal de la verdad revelada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

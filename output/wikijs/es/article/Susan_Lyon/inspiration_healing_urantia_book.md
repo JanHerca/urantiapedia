@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Susan Lyon<br>© 2016 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacer la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/urantia_book_and_us">
+          <span class="pr-2">El libro de Urantia y nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -58,3 +82,28 @@ Por supuesto, estoy predicando a los convencidos, pero igual que ustedes esperar
 - [Este número](https://urantia-association.org/newsletter/tidings-noviembre-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/inspiracion-y-cura-que-proporciona-el-libro-de-urantia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Ghen_Sr/doing_will_of_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacer la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/urantia_book_and_us">
+          <span class="pr-2">El libro de Urantia y nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

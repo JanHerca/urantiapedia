@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Mark Blackham<br>© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gabriel_Rymberg/center_for_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centro para la Unidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_father_filling">
+          <span class="pr-2">Centrarse en el Padre — Llenar y derramar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -60,3 +84,28 @@ Cualquier representación de miedo o ansiedad por nuestra parte no es más que u
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/la-evolucion-inquieta-de-urantia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gabriel_Rymberg/center_for_unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centro para la Unidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_father_filling">
+          <span class="pr-2">Centrarse en el Padre — Llenar y derramar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

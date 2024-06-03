@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Graeme Chapman<br>© 2018 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">II Conferencia Latinoamericana — São Paulo (Brasil)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2018_testimonials_book_fair_attendees">
+          <span class="pr-2">Testimonios de asistentes a ferias de libros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## En el trasfondo cósmico: «Dios no juega a los dados»
@@ -44,3 +68,28 @@ Quizá nuestra comprensión dé un salto cuántico a un estado inclusivo que aba
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-2018-de-anzura-en-queensland/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">II Conferencia Latinoamericana — São Paulo (Brasil)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2018_testimonials_book_fair_attendees">
+          <span class="pr-2">Testimonios de asistentes a ferias de libros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

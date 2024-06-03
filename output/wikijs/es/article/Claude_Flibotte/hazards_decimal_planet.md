@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christopher_Ross/the_what_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El libro de qué?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/why_participate_in_study_group">
+          <span class="pr-2">¿Por qué participar en un grupo de estudio?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sabemos por los reveladores que nuestro querido planeta azul es un planeta decimal <a id="a36_77"></a>[[LU 58:0.1](/es/The_Urantia_Book/58#p0_1)]. Esto significa que en uno de cada diez planetas en los que los Portadores de Vida implantan la vida, esta experimenta nuevos patrones de movilización mecánica, química y eléctrica <a id="a36_274"></a>[[LU 57:8.8](/es/The_Urantia_Book/57#p8_8)], es decir, nuevas formas de vida para desarrollar posibles mejoras.
@@ -96,3 +120,28 @@ Les dejo que mediten sobre esta cuestión.
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/los-peligros-de-un-planeta-decimal/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christopher_Ross/the_what_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El libro de qué?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/why_participate_in_study_group">
+          <span class="pr-2">¿Por qué participar en un grupo de estudio?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

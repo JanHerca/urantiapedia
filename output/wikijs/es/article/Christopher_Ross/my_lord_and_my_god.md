@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Christopher Ross<br>© 2023 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nacer del espíritu y la madurez espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Blackham/the_next_life">
+          <span class="pr-2">La otra vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -55,3 +79,28 @@ Aún más asombroso, por si eso no fuera poco, Jesús dijo en más de una ocasi�
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/senor-mio-y-dios-mio/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mamadou_Doudou_Diagne/birth_of_the_spirit_and_spiritual_maturity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nacer del espíritu y la madurez espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Blackham/the_next_life">
+          <span class="pr-2">La otra vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

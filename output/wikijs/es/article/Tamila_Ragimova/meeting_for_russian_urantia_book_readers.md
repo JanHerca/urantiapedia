@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Tamila Ragimova<br>© 2016 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_latin_american_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Urantia Latinoamericana (Bogotá)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_sharing_the_urantia_book_through_webinars">
+          <span class="pr-2">Compartir El libro de Urantia mediante seminarios web</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -91,3 +115,28 @@ Enlace al mapa de ruta del lugar: [https://goo.gl/maps/gscqYcwWuj32](https://goo
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/reunion-de-lectores-de-el-libro-de-urantia-en-rusia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_latin_american_urantia_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Urantia Latinoamericana (Bogotá)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_sharing_the_urantia_book_through_webinars">
+          <span class="pr-2">Compartir El libro de Urantia mediante seminarios web</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

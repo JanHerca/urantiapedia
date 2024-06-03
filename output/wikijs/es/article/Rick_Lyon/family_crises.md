@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Rick Lyon<br>© 2018 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cuentagotas, la cuchara y la pala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Adaptación de una presentación dada en la Midwest Conference 2018)_
@@ -239,3 +260,25 @@ Jesús dijo:
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/crisis-familiares/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cuentagotas, la cuchara y la pala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

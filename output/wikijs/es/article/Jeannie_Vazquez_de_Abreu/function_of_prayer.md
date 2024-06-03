@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Jeannie Vazquez<br>© 2019 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/editorial_may_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – mayo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Blackham/worship_sons_experience">
+          <span class="pr-2">Adoración, la experiencia de un hijo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Adaptación de una presentación dada en la II Conferencia Latinoamericana, São Paulo, Brasil, noviembre 2018)_
@@ -202,3 +226,28 @@ _El libro de Urantia_ contiene verdad divina, pero esta debe volverse poderosame
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/la-funcion-de-la-oracion-para-fortalecer-nuestra-fe/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/editorial_may_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – mayo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Blackham/worship_sons_experience">
+          <span class="pr-2">Adoración, la experiencia de un hijo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

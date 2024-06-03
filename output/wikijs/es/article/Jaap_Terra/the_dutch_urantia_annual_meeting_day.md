@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Jaap Terra<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de verano en Finlandia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-agosto-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — agosto 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="pr-2">El cumpleaños de Jesús en Nueva York y Pensilvania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -47,3 +71,28 @@ Presidente de la Asociación Urantia de Holanda
 - [Este número](https://urantia-association.org/newsletter/tidings-agosto-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/el-dia-de-reunion-anual-en-holanda/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Raimo_Ala_Hynnila/summer_conference_in_finland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de verano en Finlandia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-agosto-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — agosto 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joyce_Anderson/jesus_birthday_in_ny_pennsylvania">
+          <span class="pr-2">El cumpleaños de Jesús en Nueva York y Pensilvania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

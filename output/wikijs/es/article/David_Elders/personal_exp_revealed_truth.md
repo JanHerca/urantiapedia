@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 David Elders<br>© 2018 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El propósito de la quinta revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="pr-2">El cuentagotas, la cuchara y la pala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La pedagogía de la Escuela de El libro de Urantia en Internet 
@@ -122,3 +146,28 @@ En un contexto así, la UBIS se ha diseñado para utilizar una pedagogía y meto
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/la-experiencia-personal-de-la-verdad-revelada/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/purpose_5th_epochal_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El propósito de la quinta revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Linthicum/eyedropper_spoon_shovel_2">
+          <span class="pr-2">El cuentagotas, la cuchara y la pala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gines Aviles<br>© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_september_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myra_Hight/pirt_2022">
+          <span class="pr-2">Declaración de misión del Equipo de Respuesta a Peticiones de Reclusos (PIRT)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Del 20 al 23 de octubre de 2022 
@@ -55,3 +79,28 @@ Presidente de la Asociación Urantia de España
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/iii-conferencia-urantia-europea-2022/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_september_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myra_Hight/pirt_2022">
+          <span class="pr-2">Declaración de misión del Equipo de Respuesta a Peticiones de Reclusos (PIRT)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

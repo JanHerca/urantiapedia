@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gerardo Leche<br>© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/australia_new_zealand_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asociación Urantia de Australia y Nueva Zelanda</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/glmua_new_membership_invitation">
+          <span class="pr-2">GLMUA – Nueva invitación a ser miembro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -31,3 +55,28 @@ También en 2020 y 2021, participamos en Urantiatones y en las actividades del C
 - [Este número](https://urantia-association.org/newsletter/numero-especial-de-tidings-marzo-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/asociacion-urantia-de-guatemala/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/australia_new_zealand_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asociación Urantia de Australia y Nueva Zelanda</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/glmua_new_membership_invitation">
+          <span class="pr-2">GLMUA – Nueva invitación a ser miembro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

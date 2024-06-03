@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Bart Gibbons<br>© 2015 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Hanian/cultivating_mind_choosing_the_right_tool">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultivar la mente: elegir la herramienta adecuada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Vern_Verass/the_door_is_open">
+          <span class="pr-2">La puerta está abierta, todo el que quiera puede entrar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -187,3 +211,28 @@ Escrito por un agondontero americano para beneficio de todos los compañeros ura
 - [Este número](https://urantia-association.org/newsletter/journal-december-2015/)
 - [Este artículo](https://urantia-association.org/respecto-a-la-adversidad/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Hanian/cultivating_mind_choosing_the_right_tool">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultivar la mente: elegir la herramienta adecuada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Vern_Verass/the_door_is_open">
+          <span class="pr-2">La puerta está abierta, todo el que quiera puede entrar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

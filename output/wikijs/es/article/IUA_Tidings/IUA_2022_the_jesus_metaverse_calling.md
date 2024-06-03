@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myra_Hight/pirt_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Declaración de misión del Equipo de Respuesta a Peticiones de Reclusos (PIRT)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/i_found_the_key">
+          <span class="pr-2">Encontré la clave</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Calling for Presentation Curators
@@ -80,3 +104,28 @@ Si no están seguros de que esto sea para ustedes y les gustaría hablar con nos
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/el-metaverso-de-jesus/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myra_Hight/pirt_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Declaración de misión del Equipo de Respuesta a Peticiones de Reclusos (PIRT)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/i_found_the_key">
+          <span class="pr-2">Encontré la clave</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

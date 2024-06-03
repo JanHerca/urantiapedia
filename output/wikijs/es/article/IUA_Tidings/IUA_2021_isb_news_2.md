@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2021_novels_by_rick_warren">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obras derivadas – Novelas de Rick Warren</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -57,3 +78,25 @@ De modo que, a partir del 1 de abril de 2021, esta será la composición de la J
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/noticias-de-la-junta-internacional-de-servicio/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2021_novels_by_rick_warren">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obras derivadas – Novelas de Rick Warren</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

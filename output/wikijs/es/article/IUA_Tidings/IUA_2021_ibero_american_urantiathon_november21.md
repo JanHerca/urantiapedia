@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_dec_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/2021_anzura_virtual_conference_report">
+          <span class="pr-2">Informe de la Conferencia Virtual 2021 de ANZURA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -227,3 +251,28 @@ Ser religioso es recorrer un camino de vida lleno de significados y afrontar con
 - [Este número](https://urantia-association.org/newsletter/tidings-december-2021/)
 - [Este artículo](https://urantia-association.org/reflexiones-sobre-la-urantiaton-iberoamericana-noviembre-2021/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_dec_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – diciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/2021_anzura_virtual_conference_report">
+          <span class="pr-2">Informe de la Conferencia Virtual 2021 de ANZURA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

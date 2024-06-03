@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland_and_Line_St_Pierre/farewell_herrol_dallaire_quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hasta siempre, Herrol Dallaire (Quebec)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_international_service_board_at_work_4th_quarter_2015">
+          <span class="pr-2">Trabajo de la Junta Internacional de Servicio – 4º trimestre de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -42,3 +66,28 @@ Para conocer más sobre las nuevas y apasionantes series de clases del UUI centr
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/el-urantia-university-institute/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland_and_Line_St_Pierre/farewell_herrol_dallaire_quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hasta siempre, Herrol Dallaire (Quebec)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_international_service_board_at_work_4th_quarter_2015">
+          <span class="pr-2">Trabajo de la Junta Internacional de Servicio – 4º trimestre de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

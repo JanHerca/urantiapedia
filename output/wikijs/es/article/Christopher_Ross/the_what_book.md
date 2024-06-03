@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Christopher Ross<br>© 2022 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legado e inspiración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="pr-2">Los peligros de un planeta decimal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Parte I
@@ -89,3 +113,28 @@ Por último, en contra de mi impresión inicial de que este tomo no es precisame
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/el-libro-de-que/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/legacy_and_inspiration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legado e inspiración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/hazards_decimal_planet">
+          <span class="pr-2">Los peligros de un planeta decimal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

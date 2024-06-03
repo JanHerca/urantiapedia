@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en la Madre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -77,3 +98,25 @@ Se expresaron muchos elogios a este acontecimiento. Este vino de la Dra. Myriam 
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/reflexiones-sobre-el-parlamento-de-las-religiones-del-mundo-chicago-2023/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en la Madre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

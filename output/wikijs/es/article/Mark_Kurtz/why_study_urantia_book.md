@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Mark Kurtz<br>© 2018 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2018_donating_via_amazonsmile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Donar vía AmazonSmile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="pr-2">II Conferencia Latinoamericana — São Paulo (Brasil)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ¿Por qué estudiamos El libro de Urantia?
@@ -56,3 +80,28 @@ _Añadan sus propias razones cuando intenten abordar esta pregunta._
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/por-que-estudiamos-el-libro-de-urantia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2018_donating_via_amazonsmile">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Donar vía AmazonSmile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Enrique_Traver/latin_american_conference_brazil">
+          <span class="pr-2">II Conferencia Latinoamericana — São Paulo (Brasil)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

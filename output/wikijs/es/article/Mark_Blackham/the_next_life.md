@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark Blackham<br>© 2023 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christopher_Ross/my_lord_and_my_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Señor mío y Dios mío!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > **«En la casa de mi Padre hay muchas moradas:**
@@ -80,3 +101,25 @@ En general, espero con ilusión tener una vida vibrante y progresiva en la moron
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/la-otra-vida/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christopher_Ross/my_lord_and_my_god">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Señor mío y Dios mío!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

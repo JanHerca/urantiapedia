@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_june_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="pr-2">Informe sobre la Conferencia Internacional Virtual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -45,3 +69,28 @@ Después de una aprobación ganadora, formamos un formidable equipo de la UAUS p
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-de-la-asociacion-urantia-internacional-2024-en-los-ee-uu/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_june_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cecilia_Barreto/report_virtual_international_conference">
+          <span class="pr-2">Informe sobre la Conferencia Internacional Virtual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

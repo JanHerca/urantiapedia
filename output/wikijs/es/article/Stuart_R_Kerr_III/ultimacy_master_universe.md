@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Stuart Kerr<br>© 2017 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/supremacy_grand_universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Supremacía del gran universo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/absoluteness_cosmos_infinite">
+          <span class="pr-2">La absolutidad del cosmos infinito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los cuatro niveles del espacio exterior que completan las fronteras del universo maestro que gira alrededor del núcleo central del gran universo están destinados a eventuar-evolucionar el nivel de Ultimidad de la Deidad. Este nivel absonito de la Ultimidad de la Deidad trasciende las restricciones del espacio-tiempo que caracterizan al gran universo finito. Es decir, lo absonito trasciende las restricciones del espacio-tiempo de lo finito. Este nivel superfinito es tanto el antecedente como el consecuente de las progresiones finitas del nivel de Deidad de espacio-tiempo de la Supremacía. Precede e influye en la edad universal actual de Supremacía finita, y da una respuesta pos-Supremo a aquellos acontecimientos significativos que ocurren dentro de los siete superuniversos del gran universo.
@@ -45,3 +69,28 @@ Los últimos trascendentales eventúan funciones del universo que exceden la sim
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/la-ultimidad-del-universo-maestro/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/supremacy_grand_universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Supremacía del gran universo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/absoluteness_cosmos_infinite">
+          <span class="pr-2">La absolutidad del cosmos infinito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

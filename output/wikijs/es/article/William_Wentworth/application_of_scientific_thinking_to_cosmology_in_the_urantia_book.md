@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 William Wentworth<br>© 2021 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Ascher/a_urantian_in_second_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un urantiano en Second Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/a_cosmic_vision">
+          <span class="pr-2">Una visión cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -83,3 +107,28 @@ Tuvieron que pasar muchos siglos para que ocurriera lo contrario, es decir, para
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/aplicacion-del-pensamiento-cientifico-a-la-cosmologia-de-el-libro-de-urantia/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Ascher/a_urantian_in_second_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un urantiano en Second Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/a_cosmic_vision">
+          <span class="pr-2">Una visión cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

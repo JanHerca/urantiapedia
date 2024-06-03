@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Antonio Schefer<br>© 2023 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_march_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/a_special_youth_urantiathon">
+          <span class="pr-2">Un Urantiatón Juvenil especial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La quinta revelación en el siglo XXI
@@ -53,3 +77,28 @@ Qué alegría será verles a todos juntos en persona, después de tantos años d
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2023/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-continental-latinoamericana-mexico/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Enrique_Traver/presidents_message_march_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/a_special_youth_urantiathon">
+          <span class="pr-2">Un Urantiatón Juvenil especial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

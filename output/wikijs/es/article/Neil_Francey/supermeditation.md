@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Neil Francey<br>© 2019 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/meaning_of_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El significado de la adoración y el servicio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## … Meditación en el superconsciente con el Espíritu de lo Infinito, Eterno y Universal
@@ -47,3 +68,25 @@ El deseo supremo de verdad, junto con los valores más elevados, asegura que est
 - [Este número](https://urantia-association.org/newsletter/journal-mayo-2019/?lang=es)
 - [Este artículo](https://urantia-association.org/supermeditation/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/meaning_of_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El significado de la adoración y el servicio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2019 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

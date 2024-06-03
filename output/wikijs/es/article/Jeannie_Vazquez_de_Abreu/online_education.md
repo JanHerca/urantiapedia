@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Jeannie Vasquez<br>© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Riitta_Tuori/sweden_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asociación Urantia de Suecia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2022_other_news_summer_study_session_2022">
+          <span class="pr-2">Otras noticias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -49,3 +73,28 @@ El comité de Educación está siempre abierto a estudiantes serios de _El libro
 - [Este número](https://urantia-association.org/newsletter/numero-especial-de-tidings-marzo-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/educacion-en-linea/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Riitta_Tuori/sweden_urantia_association">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asociación Urantia de Suecia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2022_other_news_summer_study_session_2022">
+          <span class="pr-2">Otras noticias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

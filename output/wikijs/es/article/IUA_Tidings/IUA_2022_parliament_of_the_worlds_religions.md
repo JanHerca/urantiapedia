@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conferencia Urantia de Uganda 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -35,3 +56,25 @@ Para obtener más información sobre el Parlamento de las Religiones del Mundo 2
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/parlamento-de-las-religiones-del-mundo/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Khatukhira_Bernard/the_urantia_uganda_conference_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conferencia Urantia de Uganda 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Sergey Litvinov and Anton Miroshnichenko<br>© 2016 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/tasmanian_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones de la Conferencia de Tasmania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-noviembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — noviembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_italian_conference_report_2">
+          <span class="pr-2">Informe de la Conferencia Italiana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Hacerse amigos y amarse los unos a los otros
@@ -104,3 +128,28 @@ _Este informe fue preparado por Sergey Litvinov y Anton Miroshnichenko. Usamos f
 - [Este número](https://urantia-association.org/newsletter/tidings-noviembre-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/informe-de-la-conferencia-rusa/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/tasmanian_conference_reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones de la Conferencia de Tasmania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-noviembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — noviembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2016_italian_conference_report_2">
+          <span class="pr-2">Informe de la Conferencia Italiana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

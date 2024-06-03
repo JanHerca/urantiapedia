@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Chris Moseley<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/urantia_dach_meeting_frankfurt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual de Urantia DACH en Frankfurt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/study_groups_key_tool">
+          <span class="pr-2">Los grupos de estudio, una herramienta clave</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -42,3 +66,28 @@ Chris Moseley
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/reunion-de-lectores-de-el-libro-de-urantia-en-el-reino-unido-con-pato-banton/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/urantia_dach_meeting_frankfurt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual de Urantia DACH en Frankfurt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/study_groups_key_tool">
+          <span class="pr-2">Los grupos de estudio, una herramienta clave</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

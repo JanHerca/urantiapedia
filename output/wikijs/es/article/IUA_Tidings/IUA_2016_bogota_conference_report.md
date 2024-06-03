@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/budapest_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Conferencia de Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-noviembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — noviembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/tasmanian_conference_reflections">
+          <span class="pr-2">Reflexiones de la Conferencia de Tasmania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## El Maestro y el discípulo
@@ -66,3 +90,28 @@ Leer más sobre [Archivos de la conferencia](https://urantia-association.org/cat
 - [Este número](https://urantia-association.org/newsletter/tidings-noviembre-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/informe-de-la-conferencia-de-bogota/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/budapest_conference_report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Conferencia de Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-noviembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — noviembre 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/tasmanian_conference_reflections">
+          <span class="pr-2">Reflexiones de la Conferencia de Tasmania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

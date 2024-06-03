@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/fantastic_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una experiencia fantástica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gabriel_Rymberg/center_for_unity">
+          <span class="pr-2">Centro para la Unidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## El comité de Educación de la Fundación Urantia busca ponencias
@@ -38,3 +62,28 @@ El simposio se celebrará en la sede de la Fundación Urantia en Chicago (Illino
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/iii-simposio-cientifico/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/fantastic_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una experiencia fantástica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gabriel_Rymberg/center_for_unity">
+          <span class="pr-2">Centro para la Unidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

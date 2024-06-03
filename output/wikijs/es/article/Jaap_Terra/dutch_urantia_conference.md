@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Jaap Terra<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cheryl_Glicker/young_readers_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lectores jóvenes y grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/daughters_of_god_womens_retreat">
+          <span class="pr-2">Retiro de mujeres de las Hijas de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -38,3 +62,28 @@ Presidente de la Asociación Urantia de los Países Bajos (UAISUN)
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-urantia-de-habla-holandesa-21-de-agosto/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cheryl_Glicker/young_readers_study_groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lectores jóvenes y grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/daughters_of_god_womens_retreat">
+          <span class="pr-2">Retiro de mujeres de las Hijas de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

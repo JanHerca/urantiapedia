@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Chris Wood<br>© 2021 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convertir la adoración y el servicio en el centro de nuestra vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/millennials_and_the_church">
+          <span class="pr-2">Los mileniales y la Iglesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## El trabajo necesario para no parecer loco
@@ -173,3 +197,28 @@ Podría cortar y pegar citas de _El libro de Urantia_ para argumentar que Jesús
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/prepararse-para-la-espontaneidad/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/making_worship_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convertir la adoración y el servicio en el centro de nuestra vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/millennials_and_the_church">
+          <span class="pr-2">Los mileniales y la Iglesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

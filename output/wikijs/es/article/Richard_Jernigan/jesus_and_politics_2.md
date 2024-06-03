@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Richard Jernigan<br>© 2020 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_november_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – noviembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/living_the_gospel_2">
+          <span class="pr-2">Vivir el evangelio y proclamarlo con poder en el siglo XXI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## How Do We Reconcile Living in the Kingdom and Living in the World?
@@ -74,3 +98,28 @@ Junto con muchos millones de personas más, representamos a Jesús en el mundo.
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/jesus-y-la-politica/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_november_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – noviembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/living_the_gospel_2">
+          <span class="pr-2">Vivir el evangelio y proclamarlo con poder en el siglo XXI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

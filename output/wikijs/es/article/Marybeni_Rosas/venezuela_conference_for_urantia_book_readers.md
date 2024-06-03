@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Marybeni Rosas<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/uaiuk_summer_meeting_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de Verano 2015 de la UAIUK</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-octubre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — octubre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/study_group_directory">
+          <span class="pr-2">Directorio de Grupos de Estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -40,3 +64,28 @@ La undécima reunión de lectores de _El libro de Urantia_ contribuye también a
 - [Este número](https://urantia-association.org/newsletter/tidings-octubre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-de-lectores-de-el-libro-de-urantia-de-venezuela/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/uaiuk_summer_meeting_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de Verano 2015 de la UAIUK</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-octubre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — octubre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/study_group_directory">
+          <span class="pr-2">Directorio de Grupos de Estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

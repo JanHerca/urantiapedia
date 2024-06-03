@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 David Linthicum<br>© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valor espiritual de la Conferencia de Perú</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_2">
+          <span class="pr-2">Centrarse en el Padre – pensamientos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -82,3 +106,28 @@ Si les gustaría saber más, si les gustaría participar, si les gustaría donar
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/dos-caras-de-la-misma-moneda/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/spiritual_value_peru_conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valor espiritual de la Conferencia de Perú</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Woodward/focus_on_the_father_2">
+          <span class="pr-2">Centrarse en el Padre – pensamientos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

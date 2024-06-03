@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Gaetan G. Charland<br>© 2015 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Wood/message_from_the_president_june_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – junio 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/summer_meeting_2015_in_the_uk">
+          <span class="pr-2">Reunión de verano 2015 en el Reino Unido</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -36,3 +60,28 @@ Coordinador de la conferencia
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-de-la-asociacion-urantia-internacional-quebec/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Wood/message_from_the_president_june_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del presidente – junio 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/summer_meeting_2015_in_the_uk">
+          <span class="pr-2">Reunión de verano 2015 en el Reino Unido</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

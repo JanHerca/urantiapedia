@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Gaetan Charland<br>© 2017 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pato_Banton_and_Antoinette_Hall/pato_banton_london_birmingham_ghana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra misión triple en Londres, Birmingham y Ghana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/youth_study_groups">
+          <span class="pr-2">Los jóvenes y los grupos de estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -105,3 +129,28 @@ Asociación Urantia Internacional
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/los-grupos-de-estudio-y-nosotros-resultados-de-la-encuesta/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pato_Banton_and_Antoinette_Hall/pato_banton_london_birmingham_ghana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra misión triple en Londres, Birmingham y Ghana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alice_Wood/youth_study_groups">
+          <span class="pr-2">Los jóvenes y los grupos de estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

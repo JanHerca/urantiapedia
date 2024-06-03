@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2017_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Wood/presidents_message_march_2017">
+          <span class="pr-2">Mensaje del presidente – marzo 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Lo que sigue es una crónica de la reunión de transición a la unidad, celebrada el pasado octubre y a la que asistió un comité conjunto de representantes de la Asociación Urantia Internacional y la Urantia Book Fellowship. Se incluye un informe inicial escrito por uno de los participantes, seguido por la propuesta que acordaron ambas partes y que presentaron a sus organizaciones respectivas. A continuación hay un anuncio escrito por Chris Wood en el que nos informa de la decisión tomada por el Consejo General de la Fellowship después de que sus miembros presentaran la propuesta. Los sellos de tiempo indican el orden cronológico de los diferentes anuncios._
@@ -102,3 +126,28 @@ Presidente de la Asociación Urantia Internacional
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/la-transicion-a-la-unidad/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2017_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Wood/presidents_message_march_2017">
+          <span class="pr-2">Mensaje del presidente – marzo 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Neal Waldrop<br>© 2022 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/editors_note_may_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial – mayo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christopher_Ross/the_what_book">
+          <span class="pr-2">¿El libro de qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -106,6 +130,31 @@ Teniendo en cuenta todo esto, aconsejo paciencia y persistencia, sobre todo segu
 - [Este artículo](https://urantia-association.org/legado-e-inspiracion/?lang=es)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/editors_note_may_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial – mayo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-mayo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Mayo 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christopher_Ross/the_what_book">
+          <span class="pr-2">¿El libro de qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Elisabeth Callahan<br>© 2022 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/editors_note_november_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial – noviembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kurt_Cira/my_relationship_to_god">
+          <span class="pr-2">Mi relación con Dios: mi madre y mi padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="mother god gaia">
@@ -231,3 +255,28 @@ Sus naturalezas personales ilimitadas, individuales e indivisas son la esencia y
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2022/?lang=es)
 - [Este artículo](https://urantia-association.org/nuestro-dios-madre-desaparecido-monoteismo-a-costa-del-trinitarismo/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/editors_note_november_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial – noviembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2022 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kurt_Cira/my_relationship_to_god">
+          <span class="pr-2">Mi relación con Dios: mi madre y mi padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

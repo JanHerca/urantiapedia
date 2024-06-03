@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se busca coordinadores de miembros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="pr-2">Primera campaña publicitaria de El libro de Urantia en Ucrania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Del 14 al 17 de octubre de 2016
@@ -51,3 +75,28 @@ Si hubiera líderes latinoamericanos suficientes que asistieran a esta conferenc
 - [Este número](https://urantia-association.org/newsletter/tidings-junio-2016/?lang=es)
 - [Este artículo](https://urantia-association.org/conferencia-urantia-latinoamericana-bogota/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/call_for_membership_coordinators">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se busca coordinadores de miembros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — junio 2016 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anton_Miroshnichenko/ukraine_advertising_campaign">
+          <span class="pr-2">Primera campaña publicitaria de El libro de Urantia en Ucrania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

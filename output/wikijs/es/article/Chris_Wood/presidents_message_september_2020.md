@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Chris Wood<br>© 2020 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2020_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2020_third_24_hour_urantiathon">
+          <span class="pr-2">Tercer Urantiatón de 24 horas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -34,3 +58,28 @@ En estos tiempos de COVID-19 puede que sea difícil tener debates y sesiones de 
 - [Este número](https://urantia-association.org/newsletter/tidings-septiembre-2020/?lang=es)
 - [Este artículo](https://urantia-association.org/mensaje-del-presidente-septiembre-2020/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Tidings/2020_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tidings — Noticias y actualizaciones de la IUA — septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — septiembre 2020 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/IUA_Tidings/IUA_2020_third_24_hour_urantiathon">
+          <span class="pr-2">Tercer Urantiatón de 24 horas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

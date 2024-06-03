@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Wilson Leon<br>© 2021 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantiatón Iberoamericano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="pr-2">Bailar con Dios – Retiro virtual «Vivir en amor en tiempos difíciles»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Entrevista con Isabel Reinoso Manrique, presidenta de la Asociación Urantia de Colombia 
@@ -61,3 +85,28 @@ Lo que hace falta es que intentemos al menos contribuir a la instauración de un
 - [Este número](https://urantia-association.org/newsletter/tidings-marzo-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/espiritualizar-la-vida-cotidiana/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeannie_Vazquez_de_Abreu/iberoamerican_urantiathon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantiatón Iberoamericano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — marzo 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Line_St_Pierre/dancing_with_god_2">
+          <span class="pr-2">Bailar con Dios – Retiro virtual «Vivir en amor en tiempos difíciles»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

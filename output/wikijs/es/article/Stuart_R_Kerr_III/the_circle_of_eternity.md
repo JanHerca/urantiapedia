@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Stuart Kerr<br>© 2017 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/absoluteness_cosmos_infinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La absolutidad del cosmos infinito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -57,3 +78,25 @@ Cuando los mortales ascendentes logran la perfección espiritual y pueden reclam
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2017/?lang=es)
 - [Este artículo](https://urantia-association.org/el-circulo-de-la-eternidad/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stuart_R_Kerr_III/absoluteness_cosmos_infinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La absolutidad del cosmos infinito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2017 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

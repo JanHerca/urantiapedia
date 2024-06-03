@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Claude Flibotte<br>© 2021 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/application_of_scientific_thinking_to_cosmology_in_the_urantia_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aplicación del pensamiento científico a la cosmología de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -96,3 +117,25 @@ Si buscan en _El libro de Urantia_ la expresión «controladores físicos», se 
 - [Este número](https://urantia-association.org/newsletter/journal-noviembre-2021/?lang=es)
 - [Este artículo](https://urantia-association.org/una-vision-cosmica/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/application_of_scientific_thinking_to_cosmology_in_the_urantia_book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aplicación del pensamiento científico a la cosmología de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-noviembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Noviembre 2021 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

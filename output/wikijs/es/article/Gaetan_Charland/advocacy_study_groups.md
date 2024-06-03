@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Gaétan Charland<br>© 2018 Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sandra_Naranjo_Cabezas/conference_chartering_ecuador">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia y acreditación – Ecuador 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -49,3 +70,25 @@ Asociación Urantia Internacional
 - [Este número](https://urantia-association.org/newsletter/tidings-diciembre-2018/?lang=es)
 - [Este artículo](https://urantia-association.org/defensa-de-los-grupos-de-estudio/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sandra_Naranjo_Cabezas/conference_chartering_ecuador">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia y acreditación – Ecuador 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_tidings#tidings-diciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Tidings — diciembre 2018 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
