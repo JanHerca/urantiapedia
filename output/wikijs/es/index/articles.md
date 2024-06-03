@@ -21,7 +21,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">Noticias en línea de la Fundación Urantia</div>
 			<div class="urantiapedia-card-text">
 				<div>Una publicación trimestral de la Fundación Urantia desde 2007.</div>
-				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation news online</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html">UBHS archive</a></small></div>
+				<div><small>Originales: <a href="https://www.urantia.org/news">Online news de la Fundación Urantia</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Archivo de noticias de la Fundación Urantia</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html">Archivo de UBHS </a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/index/articles_uf_news_online" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -42,7 +42,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">NewsFlash!</div>
 			<div class="urantiapedia-card-text">
 				<div>Una publicación trimestral de la Fundación Urantia con noticias internas de la organización.</div>
-				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation news online</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html">UBHS archive</a></small></div>
+				<div><small>Originales: <a href="https://www.urantia.org/news">Online news de la Fundación Urantia</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Archivo de noticias de la Fundación Urantia</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html">Archivo de UBHS</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/index/articles_uf_newsflash" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -63,7 +63,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">Urantian News</div>
 			<div class="urantiapedia-card-text">
 				<div>Una antigua publicación trimestral de la Fundación Urantia desde 1973 a 1998, cuando fue reemplazada por la versión en línea.</div>
-				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation online news</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html">UBHS archive</a></small></div>
+				<div><small>Originales: <a href="https://www.urantia.org/news">Online news de la Fundación Urantia</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Archivo de noticias de la Fundación Urantia</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html">Archivo de UBHS</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/index/articles_uf_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -90,7 +90,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">Fellowship Herald</div>
 			<div class="urantiapedia-card-text">
 				<div>El Fellowship Herald es una publicación anual o semestral editada por la Fellowship de <em>El Libro de Urantia</em> en inglés.</div>
-				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/herald/">Fellowship Herald archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a></small></div>
+				<div><small>Fuentes: <a href="https://urantia-book.org/archive/newsletters/herald/">Archivo de Fellowship Herald</a>, <a href="https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#">Archivo de UBHS</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/index/articles_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -111,7 +111,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">Mighty Messenger</div>
 			<div class="urantiapedia-card-text">
 				<div>Mighty Messenger es una publicación anual o semestral editada por la Fellowship de <em>El Libro de Urantia</em> con noticias y opiniones para los lectores de <em>El Libro de Urantia</em>.</div>
-				<div><small>Sources: <a href="https://archive.urantiabook.org/archive/newsletters">Fellowship archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html">UBHS archive</a></small></div>
+				<div><small>Fuentes: <a href="https://archive.urantiabook.org/archive/newsletters">Archivo de la Fellowship</a>, <a href="https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html">Archivo de UBHS</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/index/articles_mighty_messenger" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -132,7 +132,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">The Study Group Herald</div>
 			<div class="urantiapedia-card-text">
 				<div><em>The Study Group Herald</em> es una vieja publicación de la <em>Fellowship</em>, actualmente llamada la Fellowship de <em>El Libro de Urantia</em>, publicada durante los años 90.</div>
-				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">UBHS archive</a></small></div>
+				<div><small>Fuentes: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">Archivo de UBHS</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/index/articles_study_group_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -153,11 +153,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">Urantian — Journal de la Urantia Brotherhood</div>
 			<div class="urantiapedia-card-text">
 				<div><em>The Urantian</em> fue un boletín trimestral de la Urantia Brotherhood, antiguo nombre de la Fellowship de <em>El Libro de Urantia</em>, desde 1976 a 1994.</div>
-				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/urantian_journal/">Fellowship archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html">UBHS archive</a></small></div>
+				<div><small>Fuentes: <a href="https://urantia-book.org/archive/newsletters/urantian_journal/">Archivo de la Fellowship</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html">Archivo de UBHS</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_the_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/the%20urantian" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -178,11 +181,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">International Association Journal</div>
 			<div class="urantiapedia-card-text">
 				<div>Revista cuatrimestral de artículos y ayudas de estudio creados por los lectores y para los lectores de <em>El libro de Urantia</em>. </div>
-				<div><small>Sources: <a href="https://urantia-association.org/journal-online/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
+				<div><small>Fuentes: <a href="https://urantia-association.org/journal-online/">Archivo de la UAI</a>, <a href="https://urantia-association.org/topical-index-of-articles/">Índice temático de la UAI</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_iua_journal" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/journal" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -196,11 +202,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="urantiapedia-card-title pt-4">Tidings</div>
 			<div class="urantiapedia-card-text">
 				<div>La revista <em>Tidings</em> es un publicación en línea trimestral the sirve de vehículo primario de comunicación de la Asociación Internacional.</div>
-				<div><small>Sources: <a href="https://urantia-association.org/about-tidings-newsletter/">UAI info</a>, <a href="https://urantia-association.org/tidings-online-archives/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
+				<div><small>Fuentes: <a href="https://urantia-association.org/about-tidings-newsletter/">Archivo de la UAI</a>, <a href="https://urantia-association.org/tidings-online-archives/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">Índice temático de la UAI</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_iua_tidings" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/tidings" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>
