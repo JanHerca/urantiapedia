@@ -51,7 +51,7 @@ _Chicago, Illinois_
 
 ## Romanticismo y realidad
 
-_La siguiente charla fue dada en el cumpleaños de Jesús. 21 de agosto de 1979, en una reunión de estudiantes de _El Libro de URANTIA_ en la casa del autor en los Países Bajos. Su tema es apropiado para nuestra celebración histórica de este evento trascendental en esta época del año.
+_La siguiente charla fue dada en el cumpleaños de Jesús. 21 de agosto de 1979, en una reunión de estudiantes de El Libro de URANTIA en la casa del autor en los Países Bajos. Su tema es apropiado para nuestra celebración histórica de este evento trascendental en esta época del año._
 
 La Navidad nos es querida a todos porque no somos insensibles a su atmósfera romántica. Pero el romanticismo a menudo está en desacuerdo con la realidad, aunque la realidad ya es bastante maravillosa. Mucha gente ni siquiera puede aceptar la realidad de la Navidad debido a sus aspectos milagrosos, el nacimiento de un Dios-hombre en nuestro planeta. Pero incluso si se acepta este hecho, el romanticismo puede cubrirlo con un velo tejido por los poderes imaginativos de las emociones humanas. El romanticismo puede conducir fácilmente a un escape de la realidad.
 

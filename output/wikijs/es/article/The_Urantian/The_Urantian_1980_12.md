@@ -57,7 +57,7 @@ Como existencia de personalidad absolutamente única, cada mortal es una expresi
 
 [Leer más](/es/article/The_Urantian/UNITY_One_view)
 
--_Anónimo_
+—_Anónimo_
 
 ## El concepto de raza en el libro de Urantia
 

@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-All of finite reality is vibratory; even our personal interactions with our environment are cyclic, in the sense of there being an ebb and flow in our relationships over time. In any duality or dimension that we can imagine, there is movement along that line-even to the changing of direction-although some of the periods may be so long as for us not to have experienced the fullness of their complete cycle. Everything changes; and everyone interacts with his environment or he ceases to exist. Taken together, all these interactions are finite reality, and their cumulative and super-additive effect is the Supreme Being.
+All of finite reality is vibratory; even our personal interactions with our environment are cyclic, in the sense of there being an ebb and flow in our relationships over time. In any duality or dimension that we can imagine, there is movement along that line—even to the changing of direction—although some of the periods may be so long as for us not to have experienced the fullness of their complete cycle. Everything changes; and everyone interacts with his environment or he ceases to exist. Taken together, all these interactions are finite reality, and their cumulative and super-additive effect is the Supreme Being.
 
 We become conscious of the Supreme as we become aware of the fact, meaning, and value of all the finite interactions that we experience. Our environment acts on us through the vibrations that impinge upon us, and we perceive this flow tide through the various levels of our consciousnes5. Likewise, in all our willful reactions to our environment, we put out an ebb tide of vibrations that contributes back to this sea of finite reality.
 

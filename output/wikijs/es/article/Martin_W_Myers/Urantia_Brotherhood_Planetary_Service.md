@@ -87,7 +87,7 @@ Podemos ayudar a permanecer como algo único, algo diferente de una nueva iglesi
 
 La Hermandad URANTIA es única, pero esto no quiere decir que no habrá otras organizaciones cuyos objetivos y propósitos sean consistentes con los de la Hermandad URANTIA. A ellos debemos tenderles la mano de la amistad en la medida en que quieran trabajar en la viña del Padre. De esta manera la Hermandad URANTIA cumplirá su función de coordinadora planetaria y evitará convertirse en una religión separada.
 
-La Hermandad URANTIA no debe dominar; es coordinar.
+La Hermandad URANTIA no está para dominar; está para coordinar.
 
 Ahora que hemos considerado el pasado inmediato y esos acontecimientos y la filosofía que sugirieron y guiaron la formación de la Hermandad Urantia, miremos hacia el pasado más profundo mientras preparamos nuestra «sabiduría previsión» en cuanto al futuro de la Hermandad Urantia.
 

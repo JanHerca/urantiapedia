@@ -68,7 +68,7 @@ Si los comparamos con los miembros del personal corpóreo del príncipe y sus ci
 
 — _Anónimo_
 
-## norana
+## Norana
 
 El episodio de Norana es una joya de historia y podría compararse con una obra dramática de un acto. Norana y Jesús son las estrellas y los demás son jugadores secundarios.
 
@@ -89,7 +89,7 @@ Quizás porque los entendía tan bien, Andrew era un experto juez de hombres. En
 
 [Leer más](/es/article/Linda_Buselli/The_Apostle_Andrew)
 
-- _Linda Buselli_
+— _Linda Buselli_
 _Pittsburgh. Pensilvania_
 
 ## En el futuro

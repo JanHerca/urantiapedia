@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-El Hijo Eterno es la personalidad modelo, pero sólo el Padre Universal -el ancestro y fuente de este modelo absoluto- puede otorgar personalidad. «Patrón» indica un original (un modelo, guía o arquetipo), y dado que el Hijo Eterno es la personalidad modelo, qué excelente modelo para todas las personalidades en el universo de Dios.
+El Hijo Eterno es la personalidad modelo, pero sólo el Padre Universal —el ancestro y fuente de este modelo absoluto— puede otorgar personalidad. «Patrón» indica un original (un modelo, guía o arquetipo), y dado que el Hijo Eterno es la personalidad modelo, qué excelente modelo para todas las personalidades en el universo de Dios.
 
 Las personalidades patrón parecen ser las primeras de su orden, como el ángel patrón original (supernafines) del Paraíso y el ángel patrón original (primogénito) (serafines) del universo local. En Havona hay muchas clases de seres patrón; siendo un patrón para todas las personalidades en todos los universos. Los circuitos exteriores contienen patrones para el logro de objetivos de los mortales en el tiempo y el espacio.
 

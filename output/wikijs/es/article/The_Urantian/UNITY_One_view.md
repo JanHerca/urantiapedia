@@ -43,7 +43,7 @@ La experiencia de la filiación hace que nuestra participación en este proceso 
 
 La búsqueda de Dios es la experiencia infinita de su infinitud. Lo que Dios es existencialmente, nos ha dado la conciencia de apreciarlo experiencialmente. Al otorgarnos una personalidad única y creatural, Dios voluntariamente ha pedido a cada criatura que experimente su existencia incomparable desde un punto de vista absolutamente único, un punto de vista que sólo podemos describir unos a otros, pero que sólo podemos compartir íntimamente con Dios. Y esto es compartir el hijo con el Padre, mientras el Padre suavemente insta al hijo a perfeccionar la capacidad de unificar la esfera mortal del infinito con el pegamento divino del amor universal.
 
--_Anónimo_
+—_Anónimo_
 
 
 

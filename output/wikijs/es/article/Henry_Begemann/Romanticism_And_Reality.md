@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-_La siguiente charla fue dada en el cumpleaños de Jesús. 21 de agosto de 1979, en una reunión de estudiantes de _El Libro de URANTIA_ en la casa del autor en los Países Bajos. Su tema es apropiado para nuestra celebración histórica de este evento trascendental en esta época del año.
+_La siguiente charla fue dada en el cumpleaños de Jesús. 21 de agosto de 1979, en una reunión de estudiantes de_ El Libro de URANTIA _en la casa del autor en los Países Bajos. Su tema es apropiado para nuestra celebración histórica de este evento trascendental en esta época del año._
 
 La Navidad nos es querida a todos porque no somos insensibles a su atmósfera romántica. Pero el romanticismo a menudo está en desacuerdo con la realidad, aunque la realidad ya es bastante maravillosa. Mucha gente ni siquiera puede aceptar la realidad de la Navidad debido a sus aspectos milagrosos, el nacimiento de un Dios-hombre en nuestro planeta. Pero incluso si se acepta este hecho, el romanticismo puede cubrirlo con un velo tejido por los poderes imaginativos de las emociones humanas. El romanticismo puede conducir fácilmente a un escape de la realidad.
 
@@ -60,7 +60,7 @@ El Padre Infinito no lo podemos comprender, pero se hace conocible a su criatura
 
 Jesús enseñó esta paternidad para conducirnos a esa filiación que él mismo había descubierto como Hijo del Hombre. Y cuando sus discípulos persistieron en preferir su romanticismo a esta realidad de filiación, él comenzó como maestro-sanador a demostrar su significado, su valor práctico y su realidad.
 
-### Divinidad Revelada
+## Divinidad Revelada
 
 Pero ni siquiera así se pudo lograr que el romanticismo despejara el camino a la realidad. Los apóstoles persistieron en desear otro tipo de realidad y verdad fuera de ellos mismos. El reino, la comunión con el espíritu que mora en ellos, como la tierra prometida dentro de ellos, todavía estaba demasiado envuelto (Ver [Documento 157](/es/The_Urantia_Book/157), secciones 3-7). Por lo tanto, Jesús los encontró a medio camino y les reveló su divinidad, pero sólo después de que el espíritu en ellos se lo había revelado. Esto no fue una mera concesión a los deseos de los apóstoles de una verdad fuera de ellos y un libertador fuera de ellos. Este reconocimiento de su divinidad no cambió nada de lo que había enseñado antes como Hijo del Hombre. Porque esta filiación divina es también la perspectiva del proceso de transformación que se está produciendo en nosotros. Cuando este proceso encuentra su consumación preliminar en la fusión entre el Ajustador del Pensamiento y el hombre, entonces nosotros también nos habremos convertido en hijos divinos, hombres-dioses. El Maestro se revela para que el discípulo se conozca a sí mismo.
 

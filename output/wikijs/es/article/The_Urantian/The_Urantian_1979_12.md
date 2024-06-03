@@ -83,7 +83,7 @@ Gloriosa y siempre presente es la luz de mi Padre celestial, Dios. La luz está 
 —_Ethel Zanoni_
 _Palo Alto, California_
 
-## Culto
+## Adoración
 
 > «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» ([LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
 

@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-The Eternal Son is the pattern personality, but only the Universal Father-the ancestor and source of this absolute pattern-can bestow personality. “Pattern” indicates an original (a model, guide, or archetype), and since the Eternal Son is the pattern personality, what an excellent model for all personalities in God's universe.
+The Eternal Son is the pattern personality, but only the Universal Father—the ancestor and source of this absolute pattern—can bestow personality. “Pattern” indicates an original (a model, guide, or archetype), and since the Eternal Son is the pattern personality, what an excellent model for all personalities in God's universe.
 
 Pattern personalities seem to be the first of their order-like the original pattern angel (supernaphim) of Paradise and the original (first-born) pattern angel (seraphim) of the local universe, In Havona there are many classes of pattern beings-actually a pattern being for all personalities in all universes. The outer circuits contain patterns for time and space mortals' goal attainment.
 

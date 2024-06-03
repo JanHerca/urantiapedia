@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marilyn Hauck, John M. Andrews, Gene Joyce, Emmanuel Desurvire, Jay Newbern<br>© 1978 Fellowship de _El Libro de Urantia_ (anteriormente Hermandad Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marilyn Hauck, John M. Andrews, Gene Joyce, Emmanuel Desurvire, Jay Newbern<br>© 1978 Fellowship de El Libro de Urantia (anteriormente Hermandad Urantia)</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

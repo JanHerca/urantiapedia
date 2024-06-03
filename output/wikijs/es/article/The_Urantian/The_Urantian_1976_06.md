@@ -86,7 +86,7 @@ El hombre no vive sólo de pan sino de semillas de valores plantadas en la mente
 
 ## Nacimiento
 
-_Cuando el espíritu guía, las palabras a veces pueden acercarse a la comunicación de los valores eternos. Las palabras que aquí anuncian el nacimiento de un nuevo peregrino traen tal cosecha de amor.
+_Cuando el espíritu guía, las palabras a veces pueden acercarse a la comunicación de los valores eternos. Las palabras que aquí anuncian el nacimiento de un nuevo peregrino traen tal cosecha de amor._
 
 En el camino hacia la eternidad... David y Sue Kantor anuncian la asociación de un nuevo compañero de viaje; Heather Christine comenzó la gran aventura el 12 de mayo de 1976 a las 4:40 a.m. como una niña saludable de 7 libras, 4 onzas y 19 pulgadas...
 
