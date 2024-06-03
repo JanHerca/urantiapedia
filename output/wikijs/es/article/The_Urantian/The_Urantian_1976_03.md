@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1976 William S. Sadler, Jr., Steve Dreier, Christy, David Schlundt, V.B.G.2, Julia Fenderson<br> © 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 William S. Sadler, Jr., Steve Dreier, Christy, David Schlundt, V.B.G.2, Julia Fenderson<br> © 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-marzo-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de marzo de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">Una hermandad, no una iglesia ni una secta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Una hermandad, no una iglesia ni una secta
@@ -41,7 +62,7 @@ Número total de libros de URANTIA vendidos | 57.500
 
 _El Libro de URANTIA_ se vende en 1.200 librerías y actualmente se vende a un ritmo de 800 a 1.000 ejemplares al mes.
 
-## El Urantiano
+## The Urantian
 
 Publicado trimestralmente por
 
@@ -122,3 +143,25 @@ Amar...
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-marzo-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de marzo de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">Una hermandad, no una iglesia ni una secta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

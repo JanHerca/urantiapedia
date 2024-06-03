@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Neal Waldrop<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Ser Supremo: una definición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El artículo impreso aquí es parte de una ponencia presentada en la Segunda Conferencia del Atlántico Central de Lectores del Libro de URANTIA, Rockville, Maryland, el 28 de octubre de 1978._
@@ -44,3 +65,25 @@ Para concluir nuestra discusión sobre la naturaleza de los siete círculos, es 
 — _Neal A. Waldrop III_
 _Washington DC._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Ser Supremo: una definición</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

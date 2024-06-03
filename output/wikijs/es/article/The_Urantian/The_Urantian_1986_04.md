@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Marvin Gawryn, Gayle y Jim Moravec<br>© 1986 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/The_inner_conversation_unbroken_communion_with_God">
+          <span class="pr-2">La conversación interior: comunión inquebrantable con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La conversación interior: comunión ininterrumpida con Dios
@@ -40,3 +61,25 @@ _Río Eagle, Wisconsin_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/The_inner_conversation_unbroken_communion_with_God">
+          <span class="pr-2">La conversación interior: comunión inquebrantable con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

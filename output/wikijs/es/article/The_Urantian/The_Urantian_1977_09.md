@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 David Gray, Nicholas W. Scalzo, David Kulieke, Ed Harrigan, Sue Via Brazell<br>© 1977 The Urantia Book Fellowship (antes Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Gray/In_Cosmic_Harmony">
+          <span class="pr-2">En armonía cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_Al igual que la oración se puede asemejar a la recarga de las baterías espirituales del alma, la adoración se puede comparar al acto de sintonizar el alma para captar las emisiones universales del espíritu infinito del Padre Universal._» ([LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
@@ -81,3 +102,25 @@ Los editores
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Gray/In_Cosmic_Harmony">
+          <span class="pr-2">En armonía cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

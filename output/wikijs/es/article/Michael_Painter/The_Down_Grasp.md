@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Michael Painter<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Troy_R_Bishop/The_Ministry_Of_The_Thought_Adjusters">
+          <span class="pr-2">El Ministerio de los Ajustadores del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mientras buscamos construir una base sobre la cual puedan sustentarse todas las religiones del mundo, quizás ningún otro concepto ofrezca una piedra angular tan sólida como la de la comunicación con el Ajustador del Pensamiento. Independientemente de las disparidades en sus cosmologías, teologías, liturgias, etc., la mayoría de las religiones reconocerían que la relación entre Dios y el hombre es una de las cuestiones más importantes. Como resultado, tenemos un puente inmediato que nos ayuda a cruzar hacia varias tradiciones religiosas. Y, quizás lo más importante, se encuentra una reserva de tradición religiosa a la que no sólo podemos dar sino también tomar. Hago hincapié en tomar de otras tradiciones religiosas porque muchas personas parecen esforzadas por encontrar algo de valor en las diversas tradiciones religiosas.
@@ -34,3 +58,28 @@ Para cerrar mi círculo de pensamiento, concluyo con mi comienzo que mientras bu
 — _Michael A. Pintor_
 _Indianápolis, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Troy_R_Bishop/The_Ministry_Of_The_Thought_Adjusters">
+          <span class="pr-2">El Ministerio de los Ajustadores del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

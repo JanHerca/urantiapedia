@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John M. Andrews<br>© 1986 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1986_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Why">
+          <span class="pr-2">¿Por qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me parece que todos construimos una filosofía de vida de un tipo u otro. Es parte de la función mental natural de integrar nuestra conciencia en expansión. El gran _reto_ es construir uno con ciertas características y basado en ciertos conceptos. Y la gran promesa es que tal filosofía de vida ayudará poderosamente a promover la evolución religiosa de toda la humanidad, y de una manera que el libro no puede hacer por sí solo y que no podemos hacer sin el libro.
@@ -40,3 +64,28 @@ Así que amemos para aprender de Dios y aprendamos a amarnos unos a otros. Y de 
 — _John Andrews_
 _Juneau, Alaska_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1986_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Why">
+          <span class="pr-2">¿Por qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

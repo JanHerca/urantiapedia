@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Emmanuel Desurvire<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La necesidad de actuar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jay_Newbern/Supreme_Service">
+          <span class="pr-2">Servicio Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_Pero ningún mortal que conoce a Dios estará nunca solo en su viaje por el cosmos, porque sabe que el Padre camina a su lado en cada etapa del camino, mientras que el camino mismo que atraviesa es la presencia del Supremo._» ([LU 117:6.27](/es/The_Urantia_Book/117#p6_27))
@@ -39,3 +63,28 @@ Es un gran privilegio ser llamado a participar del crecimiento del Supremo en la
 _Yves Chauvin_
 _Bulogne, Francia_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La necesidad de actuar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jay_Newbern/Supreme_Service">
+          <span class="pr-2">Servicio Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

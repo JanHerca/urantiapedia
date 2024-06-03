@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Richard Preiss</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Preiss/Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ven. Un R Toon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#julio-de-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Julio de 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kulieke/Trying_to_Touch">
+          <span class="pr-2">Intentando tocar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 por Mark Kulieke
 
@@ -109,3 +133,27 @@ Hemos tenido muchos problemas a lo largo de los siglos al ocuparnos de nuestros 
 De [LU 99:5.7](/es/The_Urantia_Book/99#p5_7): «Puesto que la verdadera religión es un asunto de experiencia espiritual personal, es inevitable que cada persona religiosa individual posea su propia interpretación personal sobre la manera de efectuar esta experiencia espiritual. La palabra «fe» debería representar la relación del individuo con Dios, en lugar de ser la expresión de un credo sobre el que un grupo de mortales ha conseguido ponerse de acuerdo como actitud religiosa común. «¿Tenéis fe? Entonces tenedla por vosotros mismos»».
 
 La naturaleza íntima y personal de la religión es un hecho y una verdad importante que debe difundirse por todo el mundo. Esta, más allá de todo lo demás, es la buena noticia que llevamos: la relación personal de la criatura volitiva individual con su Padre espiritual y las relaciones consiguientes con todos los demás seres creados en el universo. Éste es el mensaje que debe llegar a los confines del mundo. En los últimos veinte años, he hablado con cientos y cientos de personas sobre su viaje religioso y cómo llegaron a _El Libro de Urantia_. El factor más invariable que les impresionó fue cómo el libro parecía hablarles de forma tan directa, tan personal y única. Éste es el atractivo de esta revelación de época. La gente quiere la libertad de construir su propia religión personal. En lugar de vivir con miedo de la extraña recepción que a veces pueda tener el libro, deberíamos celebrar la diversidad de respuestas. Esta diversidad reafirma que el hombre es un «hijo volitivo liberado del Padre Universal». Él no es un autómata en un «cosmos matemático», sino un Hijo de Dios y para siempre una parte única de una vasta configuración, un organismo universal que se extiende hasta el infinito y crece hacia el futuro eterno. No debemos temer porque Dios ama a cada uno de nosotros personalmente. Su espíritu nos habla diciendo: «Estoy aquí ahora. Siempre estoy contigo. Nunca te abandonaré ni te desampararé. Eres amado ahora y para siempre. Sana tu alma en este conocimiento y esta verdad. Ayuda a otros a conocer esta verdad y a ser libres».
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Preiss/Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ven. Un R Toon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#julio-de-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Julio de 1994 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kulieke/Trying_to_Touch">
+          <span class="pr-2">Intentando tocar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

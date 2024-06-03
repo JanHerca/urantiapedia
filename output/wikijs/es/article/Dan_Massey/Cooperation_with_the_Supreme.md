@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Dan Massey<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caminando con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Reconciliación y Crecimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Dan Massey
@@ -97,3 +121,28 @@ Y es en la era posfinita de las absonidades que desembocan en la perfección cua
 
 Así que aquí hay un análisis completo, extenso y algo detallado de mi experiencia personal de los eventos ordinarios de ser y hacer la voluntad del Padre. Es inusual sólo en un aspecto: que admite la elección consciente de eventos de una manera cooperativa pero no pasiva. La misma experiencia también admite una participación inconsciente, y es aquí donde la idea de «amar en la presencia de Dios» parece más descriptiva. Al alcanzar y reconocer la co-Supremacía en todo Nebadón con el Espíritu Materno del Universo, Miguel de Nebadón se volvió volitivamente ubicuo a lo largo del tiempo y espacio finitos. Como el Jesús humano de Nazaret, había anticipado esta ocasión y había comprometido esta ubicuidad, en parte, al servicio de sus asociados mortales. Al establecer la Cena del Recuerdo como el único sacramento verdadero, Miguel determinó que usaría este nuevo poder para brindar adoración verdadera en su presencia divina a todas y cada una de las personas conscientes de la fe en todo el tiempo y el espacio de Nebadón. Quien así lo desee estará en la presencia del Hijo Creador. Quien así lo elija vivirá en la luz del Maestro. Quien así lo desee, servirá a sus semejantes con amor. Quien así lo desee caminará con Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caminando con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Reconciliación y Crecimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

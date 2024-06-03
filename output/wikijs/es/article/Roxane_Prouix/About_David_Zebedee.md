@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Roxane Prouix<br>© 1983 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La compleja personalidad del hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando leemos _El Libro de URANTIA_, no podemos evitar enamorarnos de algunos de los seres humanos que se nos describen. Por supuesto, hay muchos que apreciar, pero el que amo es David Zebedeo, hermano de Santiago y Juan. Salomé, su madre, estaba relacionada con Anás, el que alguna vez fue sumo sacerdote; y amaba a Jesús como a uno de sus propios hijos. Jesús solía ir a pescar con Santiago, Juan y David. El padre de los niños había sido un amigo cercano de José, el padre humano de Jesús. Zebedeo era constructor de barcos y Jesús trabajó para él poco más de un año. De hecho, Jesús se convirtió en un experto tanto en el diseño como en la construcción de barcos, y creó un nuevo estilo de barco que era más seguro que los modelos más antiguos. Las cuatro hijas de Zebedeo casi adoraban a Jesús. De los hijos de Zebedeo, Santiago estaba interesado en Jesús como maestro y filósofo, Juan se preocupaba más por sus enseñanzas religiosas y David lo respetaba como mecánico, pero en ese momento no daba mucha importancia a sus puntos de vista religiosos.
@@ -24,3 +45,25 @@ David y Rut, la hermana de Jesús que nunca había dudado de su misión, se casa
 — _Roxane Proulx_
 _Montreal Canadá_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La compleja personalidad del hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

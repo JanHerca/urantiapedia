@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Helena Sprague<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Keeler/Love_Human_And_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor: humano y divino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Schweitzer/The_Unquestioned_Answer">
+          <span class="pr-2">La respuesta incuestionable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un componente importante del desarrollo humano es el miedo, tanto las respuestas instintivas que surgen de las oscuras edades de la lucha por la supervivencia física como las reacciones aprendidas de nuestra dotación cultural, particularmente psicosocial, intelectual y, a veces, espiritual. Las enseñanzas del Libro de URANTIA sobre el miedo y el crecimiento son profundas y prácticas. Se pueden considerar desde cuatro puntos de vista.
@@ -33,3 +57,28 @@ Nuestro Padre Universal nos da todo lo que tenemos, todo lo que somos y todo lo 
 
 — _Helena Sprague_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Keeler/Love_Human_And_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor: humano y divino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Schweitzer/The_Unquestioned_Answer">
+          <span class="pr-2">La respuesta incuestionable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

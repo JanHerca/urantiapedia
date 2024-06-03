@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 David Glass, Mark Kulieke, Irene Sprunger, Virginia Varnum, Frances Huttington, Thomas Wicks<br>© 1978 The Urantia Book Fellowship (antes Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="pr-2">Contactar con el Reino Interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Contactando con el Reino Interior
@@ -91,3 +112,25 @@ _Florencia, Arizona_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="pr-2">Contactar con el Reino Interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

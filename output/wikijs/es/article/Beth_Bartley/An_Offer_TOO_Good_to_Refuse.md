@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Beth Bartley<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Descubriendo significados cósmicos a través de historias y canciones personales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="pr-2">Resolución de problemas con oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Beth Bartley
@@ -87,3 +111,28 @@ Hay una última palabra que quiero mencionar: _alegría_. Nuestras vidas deben s
 
 Así que sigue adelante con tus círculos; círculos de progreso, amor, alegría y, como dijo David Elders, de unidad. Estos círculos te ayudarán a medida que te desarrolles y crezcas en tu Caminar con Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Descubriendo significados cósmicos a través de historias y canciones personales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="pr-2">Resolución de problemas con oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

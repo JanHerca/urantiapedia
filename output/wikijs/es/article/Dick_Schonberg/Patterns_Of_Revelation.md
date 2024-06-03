@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Dick Schonberg<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patrones familiares</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="pr-2">El nuevo culto: patrón y símbolo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A diferencia de las muchas almas valientes que han promovido la verdad espiritual en épocas pasadas, nosotros, los diseminadores mortales de la revelación URANTIA, tenemos muchas ventajas, algunas otorgadas, como el Espíritu de la Verdad, y otras adquiridas, como las comunicaciones masivas, y el poder para ver la historia en retrospectiva. Debido a nuestras ventajas, nuestras responsabilidades son, en cierto sentido, mayores, y es por esta razón que el escritor siente que la comisión reveladora nos ha brindado deliberadamente muchos antecedentes históricos sobre los cuales basar nuestras decisiones futuras.
@@ -27,3 +51,28 @@ Hoy, como mortales evolutivos, somos herederos de todos estos maestros, así com
 
 —_Dick Schönberg_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patrones familiares</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="pr-2">El nuevo culto: patrón y símbolo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

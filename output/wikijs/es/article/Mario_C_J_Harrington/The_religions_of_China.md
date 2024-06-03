@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Mario C. J. Harrington<br>© 1984 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1984_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1984 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Occidente ha tenido la suerte de que muchos pueblos europeos pudieron convertirse en naciones bajo la égida de una o más de las muchas sectas del cristianismo, que a su vez habían evolucionado a partir de los principios rectores de Jesús. Los movimientos ecuménicos en marcha están intentando reconciliar las teologías separadas de la Iglesia Católica Romana, la Iglesia de Inglaterra, el luteranismo y la Iglesia Ortodoxa Griega, así como otros ritos orientales divergentes. Sin embargo, si la influencia de _El Libro de URANTIA_ va a tocar a otros pueblos que no han sido directamente afectados por las enseñanzas jesusonianas, entonces nos corresponde comprender sus tradiciones religiosas y, en particular, sus ascendencias culturales vinculadas, en la medida de lo posible, con las corrientes anteriores engendradas hace mucho tiempo por el sacerdocio setita. El «URANTIAN Journal» ofrecerá a sus lectores en los próximos números artículos sobre las religiones importantes de Asia, que señalarán los sentimientos intuitivos de los diferentes caminos tomados hacia el desarrollo espiritual en la parte más poblada de nuestro globo. Para lograr la hermandad del hombre debemos esforzarnos por comprender la forma de pensar de otros grupos importantes de hombres, incluidas sus idiosincrasias.
@@ -55,3 +76,25 @@ Hemos visto cómo la influencia setita afectó incluso el desarrollo religioso d
 — _Mario Harrington_
 _Oakland Park, Florida_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1984_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1984 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

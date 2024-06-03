@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Sally Schlundt<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la difusión de las enseñanzas del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Al presentar _El Libro de URANTIA_ a otras personas, otras culturas y otras religiones, la calidad de nuestra interfaz estará determinada en gran medida por cómo nos vemos a nosotros mismos y eso, a su vez, determinará cómo apareceremos ante los demás y, por lo tanto, cómo responderán a nosotros mismos. Todo lo demás: nuestros motivos, nuestras técnicas y nuestras metas quedan secundarios a este factor, porque la forma en que nos vemos a nosotros mismos en asociación con esta nueva revelación determina esos motivos, técnicas y metas.
@@ -52,3 +73,25 @@ Reitero lo que dije al principio. Es necesario que existan límites, pero no bar
 _Sally Schlundt_
 _Fuerte Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la difusión de las enseñanzas del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

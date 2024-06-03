@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Rosey Lieske<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Supremo se describe de muchas maneras. Pero en mi mente sigo viéndolo como el feto misterioso que todo lo ve, vivo y formándose en el espacio a finales de 2001. Un Dios esforzado y activo y, sin embargo, inquietantemente incompleto. Él es literalmente 'nuestro Dios', nuestro Creador/criatura que evoluciona simultáneamente. En él tenemos nuestros orígenes y significado real, y en nosotros él encuentra acceso a otra faceta de la experiencia realizable, otra vía hacia la fuente de su ser: el Padre Paradisíaco.
@@ -180,3 +201,25 @@ Cerraba los dedos ante un destello de espacio y decía: «Ahí es donde vive, Ro
 —_Rose Lieske_
 _Phoenix, Arizona_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

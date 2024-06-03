@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Stephen Finlan</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1993_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Número de abril de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="pr-2">La integridad científica del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [Esta es una respuesta a «¿Pero quién decís que soy yo?» por Dan Massey en el diario verano/otoño de 1992. Las referencias al artículo se darán por número de página y columna.]
 
@@ -105,3 +129,27 @@ De lo contrario, tenemos especulación religiosa, y «la especulación desvirtú
 - Vermaseren, _Mitra_
 - D. Winston, _«El componente iraní en la Biblia..._»
 - _Historia de las Religiones 5_, \#2, invierno de 1966
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1993_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Número de abril de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="pr-2">La integridad científica del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

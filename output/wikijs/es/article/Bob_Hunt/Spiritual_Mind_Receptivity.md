@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Bob Hunt<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La relación del individuo con el Ajustador del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Laurence/The_Human_Response">
+          <span class="pr-2">La respuesta humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quiero compartir con ustedes algunas observaciones sobre los aspectos espirituales de la mente y los estados mentales que son más propicios para la recepción del espíritu. Al embarcarme en este tema y este esfuerzo, invito a cada uno de ustedes a unirse a un experimento diseñado para usar su mente, y nuestra mente colectiva, como un laboratorio en el que se probarán algunas de las ideas que se presentarán. En esta reunión de mentes activas y versátiles, debería ser posible explorar múltiples niveles de este tema al mismo tiempo; es decir, en algún sentido manifestar y experimentar lo que se dice con palabras. Una forma de lograrlo es modificar el patrón habitual de hablante activo y oyente pasivo. Ahora bien, no tengo intención de pedirle que hable; más bien, quiero hacer algunas sugerencias sobre cómo escuchar.
@@ -96,3 +120,28 @@ Y, finalmente, de un Poderoso Mensajero que reside temporalmente en Urantia, «L
 — _Bob Hunt_
 _Arcata. California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La relación del individuo con el Ajustador del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Laurence/The_Human_Response">
+          <span class="pr-2">La respuesta humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

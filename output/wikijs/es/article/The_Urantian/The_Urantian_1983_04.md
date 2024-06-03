@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 James Johnston<br>© 1983 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Johnston/How_do_science_and_technology_contribute_to_spiritual_growth">
+          <span class="pr-2">¿Cómo contribuyen la ciencia y la tecnología al crecimiento espiritual?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ¿Cómo contribuyen la ciencia y la tecnología al crecimiento espiritual?
@@ -28,3 +49,25 @@ _Toledo, Ohio_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Johnston/How_do_science_and_technology_contribute_to_spiritual_growth">
+          <span class="pr-2">¿Cómo contribuyen la ciencia y la tecnología al crecimiento espiritual?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

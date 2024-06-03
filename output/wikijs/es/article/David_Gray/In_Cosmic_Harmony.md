@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 David Gray<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicholas_W_Scalzo/Children_Prayer_And_Worship">
+          <span class="pr-2">Niños: oración y adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La oración es un recordatorio de sí mismo. Es como poner una carta en un clip en el interior de la puerta de entrada para recordar enviarla por correo cuando salga. Orar es poner una nota en un lugar donde tu mente la note, para mantenerte en el camino del progreso.
@@ -31,3 +55,28 @@ Cierto director de una sala de recitales tenía muchas ganas de romper con la fo
 
 —_David Gray_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicholas_W_Scalzo/Children_Prayer_And_Worship">
+          <span class="pr-2">Niños: oración y adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Marjorie Reed<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mary_Snider/One_To_One">
+          <span class="pr-2">Uno a uno</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Érase una vez, según un antiguo mito, algunos dioses decidieron visitar la tierra, de incógnito, para participar en un gran festival. Disfrazados de humanos, se mezclaban sin llamar la atención hasta sentarse a la mesa. Allí, en el banquete, los dioses «revelaron su tapadera». Mientras los hombres se atiborraban con glotonería, se observaba que los dioses se metían unos a otros los bocados más deliciosos, acción nada habitual entre los mortales.
@@ -27,3 +51,28 @@ El tiempo y lugar para el servicio es siempre el momento presente, dondequiera q
 
 —_Marjorie Reed_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mary_Snider/One_To_One">
+          <span class="pr-2">Uno a uno</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

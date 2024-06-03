@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Martin W. Myers<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Romanticism_And_Reality">
+          <span class="pr-2">Romanticismo y realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La siguiente charla se pronunció en agosto de 1979. En opinión de los editores, es una expresión clara y reflexiva de algunos de los desafíos, oportunidades y responsabilidades que acompañan al Libro de URANTIA y su misión a nuestro planeta.
@@ -134,3 +158,28 @@ La paz sea con vosotros y que el progreso sea nuestra meta eterna.
 _Martin W. Myers_
 _Chicago, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Romanticism_And_Reality">
+          <span class="pr-2">Romanticismo y realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

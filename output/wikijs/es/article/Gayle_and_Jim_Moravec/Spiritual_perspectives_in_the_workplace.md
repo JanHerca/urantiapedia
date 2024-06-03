@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Gayle y Jim Moravec<br>© 1986 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/The_inner_conversation_unbroken_communion_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La conversación interior: comunión inquebrantable con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando me pidieron que hiciera una presentación en la Conferencia del Medio Oeste de este año, casi de inmediato me vino a la mente la idea de hablar sobre el lugar de trabajo junto con las perspectivas espirituales. Considere la persona que trabaja una semana laboral de 40 horas. Agregue a esas 40 horas el tiempo dedicado a prepararse para el trabajo, apostar hacia y desde el trabajo y cualquier reunión y conferencia adicional. En una semana típica, ha dedicado al menos el 45% de sus horas de vigilia a asuntos relacionados con el trabajo. Si trabaja por cuenta propia, trabaja horas extras o se lleva el trabajo a casa, es fácil acercarse al 60% o más. El lugar de trabajo ocupa una parte tan importante de nuestras vidas que creo que es bastante digno de discusión.
@@ -79,3 +100,25 @@ En _El Libro de URANTIA_ se nos enseña que la propia vocación puede utilizarse
 — _Gayle y Jim Moravec_
 _Río Eagle, Wisconsin_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/The_inner_conversation_unbroken_communion_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La conversación interior: comunión inquebrantable con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

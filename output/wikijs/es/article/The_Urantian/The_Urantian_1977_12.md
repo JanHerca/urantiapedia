@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Buck y Arlene Weimer, Carolyn Kendall, Richard Keeler, Helena Sprague, Ron Schweitzer<br>© 1977 Fellowship de _El Libro de Urantia_ (anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/Christmas_And_The_Supreme">
+          <span class="pr-2">La Navidad y el Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Navidad y el Supremo
@@ -71,3 +92,25 @@ Consideré la pregunta durante varios días; después, antes de que comenzara a 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/Christmas_And_The_Supreme">
+          <span class="pr-2">La Navidad y el Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

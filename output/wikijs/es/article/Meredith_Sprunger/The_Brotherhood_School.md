@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Meredith Sprunger<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir en la realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El propósito y la función de la Escuela de la Hermandad están determinados por la naturaleza y los objetivos de la Hermandad Urantia. La Hermandad URANTIA se organizó para promover el estudio y la difusión de las enseñanzas del _El Libro de URANTIA_ entre los pueblos del mundo. Este propósito se está actualizando principalmente a través de los instrumentos de individuos, grupos de estudio y sociedades.
@@ -23,3 +44,25 @@ Nos esforzaremos por servir a individuos y grupos poniendo a disposición materi
 
 —_Meredith Sprunger_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir en la realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Kaye y William Cooper<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de la relajación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Duane_L_Faw/The_Art_Of_Living">
+          <span class="pr-2">El arte de vivir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El objetivo difícil de alcanzar del hombre a lo largo de su historia ha sido aprender el arte de vivir. A lo largo de los siglos, los hombres han sentido que debía existir alguna técnica secreta para controlar las circunstancias a fin de poder vivir una vida ideal. Sólo relativamente raramente se ha descubierto que el arte de vivir no reside en el control de factores externos sino en la orientación personal básica hacia las prioridades espirituales y una perspectiva universal.
@@ -21,3 +45,28 @@ En nuestra búsqueda del arte de vivir, podemos descubrir, para nuestra sorpresa
 
 — _Kaye y Bill Cooper_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de la relajación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Duane_L_Faw/The_Art_Of_Living">
+          <span class="pr-2">El arte de vivir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

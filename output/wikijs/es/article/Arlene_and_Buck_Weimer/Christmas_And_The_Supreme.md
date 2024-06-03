@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Buck y Arlene Weimer<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Revelation_Divine_Plan">
+          <span class="pr-2">Revelación: Plan Divino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una vez más ha llegado el momento en que la mayoría de los cristianos del mundo celebran el tradicional nacimiento de Jesucristo. Sólo pensarlo es suficiente para generar un espectro de emociones encontradas. Muchos de nosotros tal vez consideremos necesario prepararnos contra el burdo comercialismo estimulado por la infiltración del afán de lucro. Siempre está el ajetreo de esos últimos días y al menos una semana de recuperación. Y otros más pueden esperar reunirse con sus seres queridos, tener la oportunidad de ver y tocar a viejos amigos, mientras intercambian regalos. Pero, ¿tiene significado la Navidad en el orden universal de las cosas? ¿Y qué tan importante es? ¿Cómo informaría un Mensajero Poderoso el espectáculo de la Navidad en relación con el Supremo?
@@ -25,3 +49,28 @@ Pero volviendo a nuestra idea original; ¿Cómo se relaciona esto con la Navidad
 
 — _Buck y Arlene Weimer_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Revelation_Divine_Plan">
+          <span class="pr-2">Revelación: Plan Divino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

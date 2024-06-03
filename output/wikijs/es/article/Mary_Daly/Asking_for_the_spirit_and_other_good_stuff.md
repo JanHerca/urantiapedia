@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Mary Daly<br>© 1988 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Satu_Sihvo/Everyday_proof_communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión “a prueba de cada día”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Esta es una combinación de un ciclo de oración de once días y un intercambio de mis ideas sobre la relación entre las enseñanzas de la Iglesia Católica con respecto a los siete dones del Espíritu Santo (enumerados en [Isaías, capítulo 11](/es/Bible/Isaiah/11)) , la enseñanza del _Libro de URANTIA_ sobre los siete espíritus ayudantes de la mente ([LU 36:5.1-17](/es/The_Urantia_Book/36#p5_1)), y la enseñanza pentecostal sobre los dones carismáticos del Espíritu ([I Corintios 12:8-12](/es/Bible/1_Corinthians/12#v8)). Por supuesto, me viene a la mente la posible relación entre los siete dones y los siete ayudantes, ya que los nombres son muy cercanos. Agregar los regalos carismáticos fue una ventaja de último momento. No lo creía posible, aunque quería que lo fuera. De repente, se categorizaron, por así decirlo, y se deslizaron hacia lugares inesperados. ¡Me tomaron por sorpresa!
@@ -158,3 +179,25 @@ Y así sed alegres. Jesús dice: «En el mundo tendréis aflicciones, pero confi
 _Mary Daly_
 _Garretson, Dakota del Sur_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Satu_Sihvo/Everyday_proof_communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión “a prueba de cada día”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

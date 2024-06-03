@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Ronald D. Louie<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sally_Schlundt/The_quality_of_our_interface">
+          <span class="pr-2">La calidad de nuestra interfaz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual._» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
@@ -76,3 +100,28 @@ Las siguientes son palabras de amonestación que Christy tuvo ocasión de compar
 — _Ronald D. Louie_
 _Vancouver occidental, Canadá_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sally_Schlundt/The_quality_of_our_interface">
+          <span class="pr-2">La calidad de nuestra interfaz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

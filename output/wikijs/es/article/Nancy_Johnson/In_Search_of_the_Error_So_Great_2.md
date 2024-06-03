@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Nancy Johnson<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reconciliación y Crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="pr-2">El arte de compartir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _...Las formas no tienen valor cuando las lecciones se han aprendido. No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. <ins>Pero a veces el error es tan grande, que rectificarlo por medio de la revelación podría ser fatal para aquellas verdades que emergen lentamente y que son esenciales para destruir el error por medio de la experiencia.</ins>..._ (<a id="a12_331"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32))
 
@@ -194,3 +218,28 @@ _Un Curso de Milagros_ nos dice que primero podemos dejar que el Espíritu Santo
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reconciliación y Crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="pr-2">El arte de compartir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

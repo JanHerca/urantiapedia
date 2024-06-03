@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Francyl Streano Gawryn<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación reflexiva sobre significados cósmicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="pr-2">Una oferta demasiado buena para rechazarla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Francyl Streano Gawryn
@@ -129,3 +153,28 @@ Para obtener más información sobre este tema, consulte los siguientes libros:
 5. _Los usos del encantamiento_, de Bruno Bettelheim, Vintage Press
 6. _Trabajo de ensueño_, de Jeremy Taylor
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación reflexiva sobre significados cósmicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="pr-2">Una oferta demasiado buena para rechazarla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

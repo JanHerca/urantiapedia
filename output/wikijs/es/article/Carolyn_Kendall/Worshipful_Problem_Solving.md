@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Carolyn Kendall<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resolución de problemas con oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="pr-2">Resolución de problemas con adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Carolyn Kendall
@@ -80,3 +104,28 @@ Hay algunas cosas generales que debes saber acerca de la oración y la adoració
 6. _Efecto de la oración en el individuo_. La oración no puede curar enfermedades orgánicas, pero contribuye a la curación de dolencias mentales o nerviosas. ([LU 91:6.2](/es/The_Urantia_Book/91#p6_2)). La oración cambia tu actitud, no la de Dios. (1638) La oración te hace pensar menos, pero darte más cuenta. Amplía la percepción, no el conocimiento. La oración sostiene, la adoración es creativa. ([LU 143:7.5](/es/The_Urantia_Book/143#p7_5)) Incluso las oraciones imprudentes o imposibles de quien es sincero expanden la capacidad del alma. La oración promueve el desapego de la rutina diaria, la monotonía, la rutina diaria. La oración es un antídoto contra la introspección dañina. Recarga las baterías espirituales del alma. Es la mirada anhelante del niño al Padre. El proceso psicológico de cambiar la voluntad humana por la voluntad divina. ([LU 144:4.9](/es/The_Urantia_Book/144#p4_9)) Jesús oró para reunir fuerzas para los conflictos ordinarios, energía para la solución de problemas superiores de naturaleza moral y espiritual. ([LU 160:1.10](/es/The_Urantia_Book/160#p1_10)) La oración excava canales más profundos para que los otorgamientos divinos puedan fluir al corazón y al alma. ([LU 194:4.3](/es/The_Urantia_Book/194#p4_3)) La oración enriquece la vida. ([LU 102:4.5](/es/The_Urantia_Book/102#p4_5))
 7. _Efecto del culto sobre el individuo_. La adoración ilumina el destino. ([LU 102:4.5](/es/The_Urantia_Book/102#p4_5)) Trae salvación a los mortales que buscan placer. ([LU 144:4.7](/es/The_Urantia_Book/144#p4_7)) La adoración trae relajación que renueva, iluminación que inspira el alma, da coraje para enfrentar los problemas, autocomprensión que borra el miedo debilitante, unión consciente con la divinidad: seguridad de volverse semejante a Dios. La comunión alivia tensiones, elimina conflictos. ([LU 160:1.12](/es/The_Urantia_Book/160#p1_12)) Efecto interno de la adoración: uno se ilumina; el efecto exterior: uno se dedica a más servicio. ([LU 106:9.12](/es/The_Urantia_Book/106#p9_12)) La adoración ayuda a identificarse con el todo; el hijo con el Padre; el tiempo da un paso sorprendente con la eternidad. ([LU 143:7.8](/es/The_Urantia_Book/143#p7_8)) Sintonizando el alma para captar las transmisiones universales del Padre Universal. ([LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resolución de problemas con oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="pr-2">Resolución de problemas con adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Matthew Rapaport<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wesley_James/Come_With_Me_And_See">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ven conmigo y verás</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Brotherhood_School">
+          <span class="pr-2">La Escuela de la Hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Cuántos hombres y mujeres conocemos que creen en Dios, pero se comportan como si su existencia no tuviera consecuencias para sus vidas y en ellas? Viven completamente ajenos a su presencia.
@@ -25,3 +49,28 @@ El amor es la técnica que tenemos para hacer avanzar la conciencia de Dios y su
 
 —_Matthew Rapaport_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wesley_James/Come_With_Me_And_See">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ven conmigo y verás</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Brotherhood_School">
+          <span class="pr-2">La Escuela de la Hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

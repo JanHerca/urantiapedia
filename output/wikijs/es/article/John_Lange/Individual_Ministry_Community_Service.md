@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Lange<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de compartir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Caminando con los niños Caminando con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por John Lange
@@ -129,3 +153,28 @@ Estas cuatro comunidades fueron elegidas debido a su formación única en circun
 
 ¿Qué podemos aprender de este estudio mientras luchamos por lograr una comunidad espiritual en el Movimiento Urantia? ¿Estamos listos para hacer el sacrificio necesario y rendirnos al patrón espiritual más amplio? Es interesante que los acontecimientos en el escenario mundial coincidan con la metamorfosis del Movimiento Urantia. En un artículo publicado recientemente titulado «¿El fin de la historia?» El autor afirmó que la historia ha llegado a un punto final con el éxito de la sociedad democrática. Los objetivos del pasado aventurerismo humano ahora son cubiertos por la economía global. La sociedad pronto quedará reducida al papel de cuidadora perpetua. Un crítico ardiente observó que se había prestado poca atención a las necesidades superiores de la sociedad que ahora pedían expresión, es decir, el anhelo de espiritualidad y comunidad. Parece que un despertar espiritual ha llamado a las naciones a descartar los grilletes de la represión y a desarrollar un sentido más amplio de comunidad espiritual. A través de la lucha y el conflicto estamos siendo preparados para estar a la vanguardia y ofrecer esta revelación de la verdad a un mundo preparado para su recepción.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de compartir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Caminando con los niños Caminando con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

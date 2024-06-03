@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Ethel Zanoni<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Walker/An_Infinite_Universe_With_Limits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un universo infinito con límites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/C_L_Van_Sant/Worship">
+          <span class="pr-2">Adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Gloriosa y siempre presente es la luz de mi Padre celestial, Dios. La luz está a mi alrededor y a través de mí. En él existe aquello de lo que todas las cosas han venido o pueden venir alguna vez. La calidez de su resplandor difunde el consuelo y la protección del amor, constituyendo la inteligencia, la comprensión y la percepción infinita de la sabiduría, me guía y dirige, cuando elijo percibir su emanación. La justicia irradia seguramente del brillo de su principio puro. La abundancia que todo lo abarca me proporciona provisión; la vitalidad vivificante me fortalece y su energía me vivifica.
@@ -18,3 +42,28 @@ Dentro de mí reside su resplandor cuya presencia ocupa al mismo tiempo el centr
 —_Ethel Zanoni_
 _Palo Alto, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Walker/An_Infinite_Universe_With_Limits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un universo infinito con límites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/C_L_Van_Sant/Worship">
+          <span class="pr-2">Adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

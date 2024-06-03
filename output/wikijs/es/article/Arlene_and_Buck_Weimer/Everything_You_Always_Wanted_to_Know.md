@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Arlene y Buck Weimer<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Living_as_in_the_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir como en la presencia de Dios: haciendo el esfuerzo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Walking_with_Humankind">
+          <span class="pr-2">Caminando con la humanidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Arlene \& Buck Weimer
@@ -70,3 +94,28 @@ Me intriga la relación dual que Jesús tenía con sus hermanos y hermanas natur
 
 La paz familiar es un asunto divertido, por supuesto, porque es algo que sucede entre períodos de conflicto. Los padres contribuirán mejor a esta paz siendo un ejemplo de amor paternal al negociar las diferencias.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Living_as_in_the_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir como en la presencia de Dios: haciendo el esfuerzo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/Walking_with_Humankind">
+          <span class="pr-2">Caminando con la humanidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

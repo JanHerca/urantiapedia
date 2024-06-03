@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Eileen Laurence<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La imaginación creativa en la oración y la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de URANTIA_ dice que, «_La armonía es la tónica del universo central, y en el Paraíso prevalece un orden perceptible._» ([LU 27:4.2](/es/The_Urantia_Book/27#p4_2)) La palabra armonía se toma de la palabra griega «harmos», que significa ajuste, unión. Curiosamente, un sinónimo de armonía es «unísono». Como músico, a menudo he reflexionado sobre esta asociación entre armonía y unidad y he pasado mucho tiempo lidiando con la experiencia creativa que conduce hacia estos ideales.
@@ -40,3 +61,25 @@ Hemos analizado brevemente la relación entre armonía y unidad y la experiencia
 — _Eileen Laurence_
 _Armonk, Nueva York_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La imaginación creativa en la oración y la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

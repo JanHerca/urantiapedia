@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Irene Sprunger<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Learning_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprendiendo la tolerancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Virginia_Varnum/Quest_For_Goodness">
+          <span class="pr-2">La búsqueda del bien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La verdad tiene su origen en las relaciones de realidad. La verdad es un intento de comprender la relación más grande del universo: el amor divino. La revelación más significativa de amor y verdad al hombre en nuestro mundo es Jesús de Nazaret. Su Espíritu de Verdad nos guía infaliblemente a toda verdad.
@@ -24,3 +48,28 @@ Percepciones y revelaciones de la verdad más amplias conducen a nuevas visiones
 _Irene Sprunger_
 _Fuerte Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Learning_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprendiendo la tolerancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Virginia_Varnum/Quest_For_Goodness">
+          <span class="pr-2">La búsqueda del bien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

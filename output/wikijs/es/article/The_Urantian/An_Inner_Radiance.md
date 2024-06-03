@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wesley_James/Come_With_Me_And_See">
+          <span class="pr-2">Ven conmigo y verás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «_Que vuestra luz brille ante los hombres de tal manera que puedan ver vuestras buenas obras y sean inducidos a glorificar a vuestro Padre que está en los cielos._» ([LU 140:3.13](/es/The_Urantia_Book/140#p3_13)) Así habló Jesús a los apóstoles en el sermón de ordenación; y desde entonces, durante más de 1900 años, los hombres han llevado a cabo este mandato de acuerdo con su propia iluminación y capacidad conceptual.
@@ -43,3 +67,28 @@ Acepta las incertidumbres y vicisitudes de la existencia como parte de un mundo 
 
 —_Un urantiano divagante e itinerante_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wesley_James/Come_With_Me_And_See">
+          <span class="pr-2">Ven conmigo y verás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

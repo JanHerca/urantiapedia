@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Troy R. Bishop</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1992_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Número de diciembre de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Stanley_Bates/Ship_du_Jour">
+          <span class="pr-2">El barco de la Jornada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <p style="text-align:center;">
 Un camino bendito de conocimiento <br>
@@ -35,3 +59,27 @@ Mi invitación a la eternidad.<br>
 </p>
 
 —de _La canción de El Libro de Urantia_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1992_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Número de diciembre de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Stanley_Bates/Ship_du_Jour">
+          <span class="pr-2">El barco de la Jornada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Steve Dreier<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1981_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1981</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="pr-2">Principios para conocer la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Se nos enseña que «_Uno es libre de elegir y actuar sólo dentro del ámbito de su conciencia._» ([LU 34:3.8](/es/The_Urantia_Book/34#p3_8)) El estudio sincero de _El Libro de URANTIA_ ha producido, para muchos de nosotros, una genuina expansión de conciencia, introduciendo nuevas posibilidades de elección y acción, particularmente con respecto a Dios. Los conceptos que tenemos sobre el Padre Universal deben necesariamente condicionar nuestra experiencia de relación con él. Cuando Dios es pequeño y está lejos, es difícil confiar en él en gran medida. Pero se descubre que el Padre Universal del Libro de URANTIA es infinitamente amoroso, infinitamente poderoso y el amigo más cercano y querido que cualquiera de nosotros pueda conocer. Se nos da una base filosófica sobre la cual podemos ejercer un nivel de confianza infantil en Dios que excede con creces lo que antes era posible para nosotros, pero la filosofía no es fe. Esta vida expandida con el Padre no es automática; cada uno de nosotros debe elegir tenerlo. Cada uno de nosotros es un ser de libre albedrío, al menos con respecto a lo espiritual. No estamos obligados a buscar ni a hacer la voluntad del Padre; debe ser una cuestión de elección personal voluntaria, genuina y sincera. Estamos obligados a afrontar y responder a la pregunta: ¿realmente queremos hacer la voluntad del Padre?
@@ -32,3 +56,28 @@ Hacer la voluntad del Padre, entonces, es primero una cuestión de deseo incondi
 — _Steve Dreier_
 _Teaneck, Nueva Jersey_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1981_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1981</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="pr-2">Principios para conocer la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Mark Kulieke<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contactar con el Reino Interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="pr-2">¿Qué es la verdad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El proceso de espiritualización de nuestras personalidades se desarrolla en nuestras relaciones entre los hombres. «_En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor._» ([LU 100:4.4](/es/The_Urantia_Book/100#p4_4)) Y, dijo Jesús: «_El amor es el padre de toda bondad espiritual, la esencia de lo verdadero y de lo bello._» ([LU 192:2.1](/es/The_Urantia_Book/192#p2_1))
@@ -24,3 +48,28 @@ En el nivel más fundamental, aprendemos de Jesús que el amor y la tolerancia s
 _Mark Kulieke_
 _Evanston, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contactar con el Reino Interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="pr-2">¿Qué es la verdad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

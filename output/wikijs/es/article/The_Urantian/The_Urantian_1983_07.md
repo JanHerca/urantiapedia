@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Henry Begemann, Roxane Prouix<br>© 1983 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="pr-2">La compleja personalidad del hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La compleja personalidad del hombre
@@ -37,3 +58,25 @@ _Montreal Canadá_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="pr-2">La compleja personalidad del hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

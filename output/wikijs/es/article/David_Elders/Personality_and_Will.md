@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 David Elders</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Watkins/A_Time_of_Making_a_Most_Difficult_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un momento en el que tomar una decisión muy difícil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="pr-2">Giros y Afinaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Charla impartida por David Elders en el II Simposio Científico
 Ciudad de Oklahoma, Oklahoma, 19 de mayo de 1991
@@ -42,4 +66,28 @@ Y la diversidad existencial unificada de la eterna autoexistencia de Dios es, co
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Turnings_and_Tunings.jpg">
 <figcaption><em>Artista: Carolyn Kendall</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Watkins/A_Time_of_Making_a_Most_Difficult_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un momento en el que tomar una decisión muy difícil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="pr-2">Giros y Afinaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

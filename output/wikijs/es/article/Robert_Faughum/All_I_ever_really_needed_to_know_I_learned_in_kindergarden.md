@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Robert Faughum<br>© 1987 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jim_Johnson/Be_you_perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sé tú perfecto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="pr-2">La raíz cuadrada de la nada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por _Robert Faughum_
@@ -30,3 +54,28 @@ Todo lo que necesitas saber está ahí en alguna parte. La Regla de Oro y el amo
 
 Piense en el mundo mejor que sería si todos en el mundo tuviéramos galletas y leche alrededor de las 3 de la tarde y luego nos acostáramos con nuestras mantas para tomar una siesta. O si tuviéramos una política básica en nuestra nación y en otras naciones para siempre devolver las cosas a donde las encontramos y limpiar nuestros propios desastres. Y sigue siendo cierto, no importa la edad que tengas, cuando sales al mundo lo mejor es tomarte de la mano y estar juntos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jim_Johnson/Be_you_perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sé tú perfecto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="pr-2">La raíz cuadrada de la nada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

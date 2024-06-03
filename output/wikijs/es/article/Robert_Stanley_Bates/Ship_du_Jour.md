@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Robert Stanley Bates</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Troy_R_Bishop/A_Blessed_Path_of_Knowledge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un camino bendito del conocimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Harry_Roloff/Poetry_selections">
+          <span class="pr-2">Selecciones de poesía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por el Capitán Robert S. Bates, Gales Ferry, Connecticut
 
@@ -41,3 +65,28 @@ Uno de los peligros de la exposición al Libro de Urantia es el de intelectualiz
 <figcaption>Artista: Carol Herren</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Troy_R_Bishop/A_Blessed_Path_of_Knowledge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un camino bendito del conocimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Harry_Roloff/Poetry_selections">
+          <span class="pr-2">Selecciones de poesía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

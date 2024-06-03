@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Larry Watkins<br>© 1992 Judy Mace</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Harry_Roloff/Poetry_selections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Selecciones de poesía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Personality_and_Will">
+          <span class="pr-2">Personalidad y voluntad: dominio creciente de los mundos interior y exterior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 por Larry Watkins
 
@@ -66,3 +90,28 @@ _En el momento de la falta, hace 38.000 años, Adán y Eva tenían sesenta y tre
 </figure>
 
 Las seis obras de arte de esta página son parte de una serie de Judy Mace sobre Adán y Eva. Son 18 en total y se publicarán en tres números de The Journal.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Harry_Roloff/Poetry_selections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Selecciones de poesía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Personality_and_Will">
+          <span class="pr-2">Personalidad y voluntad: dominio creciente de los mundos interior y exterior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

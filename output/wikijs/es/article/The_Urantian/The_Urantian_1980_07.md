@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Wesley James, Gene Joyce, Annis M. Warsh, Victoria Urban<br>© 1980 The Urantia Book Fellowship (anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wesley_James/The_seraphic_connection">
+          <span class="pr-2">La Conexión Seráfica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La Conexión Seráfica
@@ -84,3 +105,25 @@ _Santa Rosa, California_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Wesley_James/The_seraphic_connection">
+          <span class="pr-2">La Conexión Seráfica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

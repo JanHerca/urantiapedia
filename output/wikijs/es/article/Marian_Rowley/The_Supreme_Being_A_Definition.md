@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marian Rowley<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Círculos de supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
+          <span class="pr-2">The Urantian - Número de invierno de 1978</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Según _El Libro de URANTIA_, el Ser Supremo es una Deidad evolutiva. Tendrá un futuro eterno pero, a diferencia del Padre, el Hijo y el Espíritu, sí tuvo un principio. En la actualidad no está completo. Él está evolucionando junto con todos nosotros y lo que hacemos influye en su evolución.
@@ -26,3 +50,28 @@ Cuando todos los superuniversos estén asentados en luz y vida, el Todopoderoso 
 — _Marian Rowley_
 _Chicago, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Círculos de supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
+          <span class="pr-2">The Urantian - Número de invierno de 1978</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

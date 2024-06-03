@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-doble-especial-de-invierno-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número doble especial de invierno de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Prefacio
@@ -248,3 +266,22 @@ Por encima de todo, aspiramos a vivir vidas de fe y servicio dedicado en el esp�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-doble-especial-de-invierno-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número doble especial de invierno de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

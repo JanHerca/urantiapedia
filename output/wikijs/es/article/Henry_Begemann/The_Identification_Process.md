@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Interpreting_Universe_Reality">
+          <span class="pr-2">Interpretación de la realidad del universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de URANTIA_ revela que nuestra personalidad es de una grandeza tan majestuosa que, sin cambios, ¡puede funcionar incluso en los límites de lo absoluto! ([LU 112:0.15](/es/The_Urantia_Book/112#p0_15)) Esa misma personalidad que tenemos ahora no evoluciona a ese nivel inimaginable, ni crece hasta él. La personalidad permanece sin cambios.
@@ -48,3 +72,28 @@ Y entonces comienza la larga preparación para adquirir un vehículo espiritual.
 _Henry Begemann_
 _Wassenar, Países Bajos_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Interpreting_Universe_Reality">
+          <span class="pr-2">Interpretación de la realidad del universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

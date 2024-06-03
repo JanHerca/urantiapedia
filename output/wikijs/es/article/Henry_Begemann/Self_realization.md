@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1981_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1981</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Renn/The_future_of_Urantia_societies">
+          <span class="pr-2">El futuro de las sociedades Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La personalidad tiene su origen en la Primera Fuente y Centro, y es el don directo, no evolutivo, del Padre Universal. Este origen majestuoso le permite funcionar, sin cambios, incluso en el nivel absoluto. Este hecho difícilmente puede ser conocido por la religión natural; es característicamente una verdad revelada. Sólo la última revelación de época declara clara y explícitamente esta verdad.
@@ -40,3 +64,28 @@ La autorrealización es más que el autoconocimiento. El verdadero autoconocimie
 — _Henry Begemann_
 _Wassenaar. Países Bajos_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1981_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1981</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Renn/The_future_of_Urantia_societies">
+          <span class="pr-2">El futuro de las sociedades Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

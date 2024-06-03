@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Maureen Cragg, Debra York, David Glass, James Johnson<br>© 1985 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">Una carta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Si bien no es práctica de The JOURNAL imprimir cartas, el artículo que sigue está escrito en esa forma para transmitir su significado de una manera personalmente poderosa. Gracias de parte de todos nosotros por un recordatorio muy importante. Los Editores._
@@ -80,3 +101,25 @@ Sus respuestas a las preguntas planteadas en números anteriores han sido maravi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">Una carta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

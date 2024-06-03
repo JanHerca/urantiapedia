@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Lynne Kulieke</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y alma. Una teoría de la individualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ir a la caza
 las campanas suenan con fuerza,
@@ -48,3 +69,24 @@ sin salir a cazar.
 
 
 Nota: En el cambio de campana de la iglesia, el propósito es tocar diferentes combinaciones y permutaciones de un conjunto de campanas, no tocar una melodía. «Salir a cazar» significa el movimiento de una campana individual en la secuencia.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y alma. Una teoría de la individualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

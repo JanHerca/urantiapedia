@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Probal Dasgupta<br>© 1989 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-otoño-de-1989-el-urantian-journal-pasa-a-llamarse-«journal-de-la-fifth-epochal-fellowship»">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 1989 (El Urantian Journal pasa a llamarse «Journal de la Fifth Epochal Fellowship») — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Probal_Dasgupta/Beyond_Nondispute">
+          <span class="pr-2">Más allá de la no disputa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _De los editores:_ Debido a la rescisión por parte de la Fundación URANTIA de nuestra licencia para usar las palabras «URANTIA» y «URANTIAN» y el símbolo de los Círculos Concéntricos en nuestras actividades organizativas y literatura, estamos publicando _La REVISTA_ con este diseño modificado. Dado que se trata únicamente de un cambio de nombre y nuestras actividades de publicación continúan, continuaremos con las designaciones de Volumen, Número y Temporada como antes para asegurar que su suscripción no se interrumpa. Nos disculpamos por cualquier inconveniente que esto pueda causarle. Gracias.
@@ -29,3 +50,25 @@ _Hyderabad, India_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-otoño-de-1989-el-urantian-journal-pasa-a-llamarse-«journal-de-la-fifth-epochal-fellowship»">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 1989 (El Urantian Journal pasa a llamarse «Journal de la Fifth Epochal Fellowship») — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Probal_Dasgupta/Beyond_Nondispute">
+          <span class="pr-2">Más allá de la no disputa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 India Margaret Sperry<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/Quiet_Human_Heroes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Héroes humanos silenciosos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Apostle_Andrew">
+          <span class="pr-2">El apóstol Andrés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El episodio de Norana es una joya de historia y podría compararse con una obra dramática de un acto. Norana y Jesús son las estrellas y los demás son jugadores secundarios.
@@ -34,3 +58,28 @@ Esto nos recuerda los planes de vida que nuestros Ajustadores del Pensamiento ha
 — _India Margaret Sperry_
 _Honaunau, Hawái_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/Quiet_Human_Heroes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Héroes humanos silenciosos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Apostle_Andrew">
+          <span class="pr-2">El apóstol Andrés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

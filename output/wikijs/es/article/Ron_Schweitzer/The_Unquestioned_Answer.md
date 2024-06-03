@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ron Schweitzer<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Helena_E_Sprague/Fear_And_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Miedo y crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recientemente, un estudiante de _El Libro de Urantia_ captó mi atención cuando preguntó: «¿Cómo vivo una revelación?» La investigación inmovilizó al grupo; se podía percibir todo tipo de faltas de respuesta reunidas para atacar la pregunta que nadie escuchó. Se pidió al investigador que repitiera su pregunta, posiblemente con alguna elaboración. Llegó con un fuerte énfasis vocal y un fraseo activo: «¿Cómo vivo una revelación? Tengo en mis manos una revelación de época de 2097 páginas. Quiero hacer algo más que _leerlo_, siento la responsabilidad de _vivirlo_». ¡Qué maravillosa declaración! Afortunadamente, nadie ofreció una respuesta de «así es como es, esto es lo que haces», ni ninguno de esos dichos claros y ordenados que cierran de golpe la puerta de la discusión.
@@ -25,3 +46,25 @@ He comenzado el viaje de encontrar mi propia respuesta a cómo se vive una revel
 
 — _Ron Schweitzer_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Helena_E_Sprague/Fear_And_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Miedo y crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

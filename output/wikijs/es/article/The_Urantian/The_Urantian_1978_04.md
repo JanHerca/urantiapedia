@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1978 Marilyn Hauck, John M. Andrews, Gene Joyce, Emmanuel Desurvire, Jay Newbern<br>© 1978 Fellowship de _El Libro de Urantia_ (anteriormente Hermandad Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marilyn Hauck, John M. Andrews, Gene Joyce, Emmanuel Desurvire, Jay Newbern<br>© 1978 Fellowship de _El Libro de Urantia_ (anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilyn_Hauck/Urantia_Model_World_For_The_Supreme">
+          <span class="pr-2">Urantia: ¿mundo modelo para el Supremo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Urantia: ¿Mundo modelo para el Supremo?
@@ -78,3 +99,25 @@ _Los editores_
 
 > «_CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo._» ([LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilyn_Hauck/Urantia_Model_World_For_The_Supreme">
+          <span class="pr-2">Urantia: ¿mundo modelo para el Supremo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

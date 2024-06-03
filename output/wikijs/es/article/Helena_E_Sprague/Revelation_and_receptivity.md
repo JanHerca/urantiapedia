@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Helena E. Sprague<br>© 1985 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Probal_Dasgupta/Review_I_am_thou_meditations_on_the_truth_of_India">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reseña: “Yo soy tú: meditaciones sobre la verdad de la India”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Evolution_of_the_gospel">
+          <span class="pr-2">Evolución del Evangelio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La revelación es tan antigua como el hombre. De hecho, lo define. Cuando los ayudantes de la adoración y la sabiduría se volvieron completamente activos en las mentes de Andon y Fonta, el Portador de Vida nos dice que la «_mente de voluntad digna_» ([LU 62:7.4](/es/The_Urantia_Book/62#p7_4)) había llegado a Urantia. Los aborígenes se habían convertido en hombres. Y aquí tenemos el mensaje claro de que la revelación no es necesariamente una experiencia de la mente consciente.
@@ -65,3 +89,28 @@ Para mejorar la receptividad de la revelación, los lectores de _El Libro de URA
 — _Helena Sprague_
 _Farmington, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Probal_Dasgupta/Review_I_am_thou_meditations_on_the_truth_of_India">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reseña: “Yo soy tú: meditaciones sobre la verdad de la India”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Evolution_of_the_gospel">
+          <span class="pr-2">Evolución del Evangelio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

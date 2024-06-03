@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Jay Newbern<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emmanuel_Desurvire/The_Power_Of_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El poder del Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sin perjuicio de que «_la capacidad de comprensión intelectual del hombre queda agotada ante el concepto máximo del Ser Supremo_» ([LU 115:3.4](/es/The_Urantia_Book/115#p3_4)), sé simplemente que estamos relacionados porque ambos tenemos la misma última designación: SER. Aunque yo como ser humano no soy más que una mota de arena y él como Ser Supremo es el Sahara de arena, somos de la misma familia.
@@ -24,3 +45,25 @@ Cada uno de nosotros somos átomos irremplazables del Supremo. Además del privi
 —_Jay Newbern_
 _Petaluma, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emmanuel_Desurvire/The_Power_Of_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El poder del Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

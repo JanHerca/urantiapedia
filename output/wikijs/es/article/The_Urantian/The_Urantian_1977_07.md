@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1977 Stephen Zendt, Kaye y William Cooper, Duane L. Faw, Alice Clark, Ann Cole<br>© 1977 The Beca del Libro de Urantia (anteriormente Hermandad Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Stephen Zendt, Kaye y William Cooper, Duane L. Faw, Alice Clark, Ann Cole<br>© 1977 The Beca del Libro de Urantia (anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="pr-2">El arte de la relajación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## El arte de la relajación
@@ -76,3 +97,25 @@ Este aprendizaje no es una respuesta intelectual o emocional a la información l
 > «_En último lugar alcanzamos el nivel de la perspicacia del espíritu y de la interpretación espiritual, el nivel más elevado de todos, que nos impulsa a reconocer en esta regla de vida el mandamiento divino de tratar a todos los hombres como concebimos que Dios los trataría. Éste es el ideal universal de las relaciones humanas._» ([LU 147:4.9](/es/The_Urantia_Book/147#p4_9))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="pr-2">El arte de la relajación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

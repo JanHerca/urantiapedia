@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Bernard Burton<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Painter/Service_A_Personal_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio: una visión personal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="pr-2">Grupos de estudio: una muestra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Para crecer y desarrollarse, las personalidades necesitan contacto con otras personalidades, de forma muy parecida a los fragmentos de roca con bordes afilados que se alisan frotándose unos contra otros. Tal paralelo sugiere la intención divina de que nuestro progreso hacia niveles espirituales esté estrechamente relacionado con la sociabilidad y el esfuerzo cooperativo. Nuestra mayor conciencia de la dependencia mutua, el valor personal y los objetivos de servicio altruistas necesita un vehículo de comportamiento para expresarnos con otros inspirados de manera similar... de ahí la motivación lógica para la formación de grupos de estudio. Esta reunión de creyentes bien podría denominarse la «eventualidad inevitable» de una amplia difusión del _El Libro de URANTIA_.
@@ -23,3 +47,28 @@ Como guijarros en la playa, arrastrados de un lado a otro por las olas rompiente
 
 —_Bernard Burton_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Painter/Service_A_Personal_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio: una visión personal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="pr-2">Grupos de estudio: una muestra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

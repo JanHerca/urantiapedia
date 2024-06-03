@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Wesley James<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh - La influencia angelical</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una función de la revelación es ordenar, aclarar y enfatizar las verdades que han evolucionado a lo largo de los años a medida que los hombres buscan armonizar lo que saben y lo que pueden creer. Los ángeles han sido parte de la revelación, la evolución, la tradición, los mitos y las leyendas religiosas durante miles de años. Algunas de las narrativas más interesantes de _El Libro de URANTIA_ tratan de la relación o conexión entre los mortales y los ángeles.
@@ -34,3 +58,28 @@ En los primeros días de la difusión del Libro de URANTIA y sus enseñanzas, su
 — _Wesley R. James_
 _Forest Park, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh - La influencia angelical</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

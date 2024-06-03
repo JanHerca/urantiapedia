@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Matchless_Moses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Moisés incomparable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/India_Margaret_Sperry/Norana">
+          <span class="pr-2">Norana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los lectores del _Libro de URANTIA_ son conscientes de la destacada actuación de Van y Amadon durante los siete años cruciales que siguieron inmediatamente a la traición de Caligastia a Urantia. Uno queda profundamente impresionado con Amadon debido a su sincero retrato de total lealtad hacia sus asociados inmediatos y superiores, quienes a su vez permanecieron leales a Miguel y a nuestro Padre Universal. La salida. El liderazgo permanente de Van y Amadon queda atestiguado por su permanencia en Urantia para trabajar después del traslado de los treinta y nueve miembros fieles restantes del personal corpóreo y cincuenta y cinco de sus asociados modificados al final de los siete años de incertidumbre coincidentes con la llegada de los receptores de Melquisedec.
@@ -29,3 +53,28 @@ El propósito de este escrito, sin embargo, es dar un reconocimiento muy honorab
 
 — _Anónimo_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Matchless_Moses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Moisés incomparable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/India_Margaret_Sperry/Norana">
+          <span class="pr-2">Norana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

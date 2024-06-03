@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Peter y Eileen Laurence<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Edición de primavera de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Berkeley_Elliott/Pattern_Personalities">
+          <span class="pr-2">Personalidades patrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando aparece por primera vez una nueva idea, puede parecer simple y sin forma, principalmente porque aún no hemos empezado a darnos cuenta de sus múltiples facetas. Una mayor exposición a veces revela una profusión compleja y aparentemente no relacionada de elementos inherentes a este concepto originalmente simple. Lo que al principio era una totalidad vaga y amorfa adquiere la apariencia de caos y confusión. Finalmente, la observación de ciertos patrones y el aumento de la comprensión ponen de relieve los factores unificadores que entretejen estos diversos elementos en un solo tejido.
@@ -21,3 +45,28 @@ La Deidad es unidad, y cuanto más se acercan nuestras concepciones y comprensio
 
 — _Peter y Eileen Laurence_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Edición de primavera de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Berkeley_Elliott/Pattern_Personalities">
+          <span class="pr-2">Personalidades patrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

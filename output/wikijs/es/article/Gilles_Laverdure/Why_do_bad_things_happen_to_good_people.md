@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Gilles Laverdure<br>© 1986 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Por qué Dios permite que tanta gente sufra y por qué permite que ocurra el pecado?
@@ -26,3 +47,25 @@ En conclusión, me gustaría sugerir que podemos sacar provecho ahora mismo, dur
 — _Gilles Laverdure_
 _Parque Greenfield. Quebec_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

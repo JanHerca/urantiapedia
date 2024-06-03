@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Stan y Ruth Hartman<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="pr-2">Algunos principios del crecimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Para muchos de nosotros es evidente que el viento del espíritu está elevando las mentes de los demás, así como las de los estudiantes del Libro de URANTIA. Está evolucionando una nueva filosofía, la del «Amo, luego existo»; y aunque la comprensión intelectual de la exactitud cósmica de esta premisa no es universal entre aquellos que aman, el significado espiritual personal experiencial de esa verdad es reconocido por todos los que viven conscientemente en Dios, y lo sienten muchos que aún no se dan cuenta de que Él es, y es consciente de ellos, y es su mismo amor:
@@ -29,3 +53,28 @@ Cuando todos realmente caminemos de la mano de nuestro Padre, no habrá desunió
 
 — _Stan y Ruth Hartman_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="pr-2">Algunos principios del crecimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

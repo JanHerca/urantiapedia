@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 James Johnston<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Evitar el egoísmo: vivir como en presencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="pr-2">Trabajando para resolver la tensión dinámica entre el egoísmo y el altruismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por James G. Johnston
@@ -81,3 +105,28 @@ El autodominio es cuestión de dominar una adicción beligerante al egoísmo. Un
 
 «Quiero estar completamente agotado cuando muera, porque cuanto más trabajo, más vivo. Me regocijo en la vida por sí misma. La vida no es una pequeña vela para mí. Es una especie de antorcha espléndida que tengo en mis manos por el momento y quiero hacerla arder lo más brillantemente posible antes de transmitirla a las generaciones futuras». — George Bernard Shaw
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Evitar el egoísmo: vivir como en presencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="pr-2">Trabajando para resolver la tensión dinámica entre el egoísmo y el altruismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

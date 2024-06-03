@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1976 Stan y Ruth Hartman, Charles Laurence Olivea, Richard F. Prince, Mario C.J. Harrington, Ruth E. Renn, David y Sue Kantor y Heather Christine<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Stan y Ruth Hartman, Charles Laurence Olivea, Richard F. Prince, Mario C.J. Harrington, Ruth E. Renn, David y Sue Kantor y Heather Christine<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="pr-2">Una filosofía de la hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Una filosofía de hermandad
@@ -90,3 +111,25 @@ Ahora nos dirigimos a nosotros mismos como familia.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="pr-2">Una filosofía de la hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

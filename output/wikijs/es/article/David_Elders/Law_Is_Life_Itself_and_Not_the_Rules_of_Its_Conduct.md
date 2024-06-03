@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 David Elders</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1992. ¿Qué hará por mí y por ti?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/E_Ann_Star/Poems_By_E_Ann_Star">
+          <span class="pr-2">Poemas de E. Ann Star</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 un ensayo de David Elders
 
@@ -33,3 +57,28 @@ Hay una luz esperanzadora. Emergiendo de las brumas de nuestra confusión parece
 <figcaption>Foto de María Rectora</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1992. ¿Qué hará por mí y por ti?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/E_Ann_Star/Poems_By_E_Ann_Star">
+          <span class="pr-2">Poemas de E. Ann Star</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

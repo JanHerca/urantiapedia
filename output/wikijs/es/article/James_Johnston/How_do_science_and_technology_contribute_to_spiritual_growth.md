@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 James Johnston<br>© 1983 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El título de esta charla me pareció un tema muy breve cuando me pidieron que hablara sobre ello por primera vez. No vi ninguna contribución que la ciencia y la tecnología hubieran hecho al crecimiento espiritual. No parecía haber ni la más mínima conexión.
@@ -169,3 +190,25 @@ La ciencia y la tecnología han proporcionado el estímulo y la oportunidad para
 — _James Johnston_
 _Toledo, Ohio_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

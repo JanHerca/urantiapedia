@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Harry McMullan III<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunas reflexiones sobre la voluntad del padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="pr-2">La relación del individuo con el Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los barcos y aviones que se mueven a través de continentes y océanos cuentan con sistemas de guía altamente sofisticados para ayudarlos a llegar a sus destinos. Estos sistemas permiten al piloto realizar correcciones de rumbo totalmente sin referencia a los objetos terrestres. La mayoría de ellos funcionan con giroscopios; existen sistemas de guía inercial, sistemas de guía Doppler y sistemas de guía estelar. Cualquiera que sea su diseño, el propósito de estos sistemas es mantener el rumbo del barco.
@@ -90,3 +114,28 @@ Finalmente, debemos recordar que la guía y la capacidad de seguirla es un don d
 — _Harry McMullan III_
 _Ciudad de Oklahoma. Oklahoma_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunas reflexiones sobre la voluntad del padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="pr-2">La relación del individuo con el Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

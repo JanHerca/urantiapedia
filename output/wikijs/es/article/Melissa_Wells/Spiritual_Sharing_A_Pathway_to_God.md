@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Melissa Wells<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La adoración verdadera: un comentario sobre el documento 5, sección 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="pr-2">Comunión con Dios, ahora y siempre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Melissa Wells
@@ -105,3 +129,28 @@ Finalmente, deseo hablar de una de mis personas favoritas y su enfoque hacia el 
 
 Cuando se trata de compartir espiritualmente, recuerde: es muy simple; simplemente déjate llevar y deja que Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La adoración verdadera: un comentario sobre el documento 5, sección 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="pr-2">Comunión con Dios, ahora y siempre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

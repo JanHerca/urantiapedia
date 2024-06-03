@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Jim Johnston<br>© 1987 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1987_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="pr-2">Todo lo que realmente necesitaba saber lo aprendí en el jardín de infantes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El secreto de la transformación del individuo y del mundo es la visión que tienes de quién y qué deseas llegar a ser, y luego actuar como si esa visión ya se hubiera convertido en realidad. Eso es todo. Eso es todo de lo que hablaré esta mañana.
@@ -110,3 +134,28 @@ Que las bendiciones del Padre celestial estén siempre con ustedes. Que tengan u
 _Jim Johnston_
 _Temple Terrace, Florida_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1987_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="pr-2">Todo lo que realmente necesitaba saber lo aprendí en el jardín de infantes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

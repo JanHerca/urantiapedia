@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Lynne Kulieke<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resolución de problemas con adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="pr-2">Evitar el egoísmo: vivir como en presencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Como la mayoría de nosotros aquí en esta sala, llevo una vida profesional variada y ocupada. Interactúo con mucha gente, la mayoría de las cuales no son lectores del Libro de Urantia, pero muchos de los cuales participan activamente en una vida religiosa tanto a nivel profesional como privado. Mientras realizo mis tareas diarias tratando de vivir los conceptos del libro, comencé a hacerme algunas preguntas básicas:
@@ -82,3 +106,27 @@ En la primavera de 1988, la división de Iowa de la Asociación pro Naciones Uni
 Así como nos reunimos aquí para discutir ideas religiosas y pensar en nuestra propia salud y hábitos morales, se nos aconseja aplicar la información reveladora de El Libro de Urantia a las religiones actuales. Yo sugiero que
 
 [FALTA UNA PÁGINA EN EL PDF ORIGINAL]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resolución de problemas con adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="pr-2">Evitar el egoísmo: vivir como en presencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

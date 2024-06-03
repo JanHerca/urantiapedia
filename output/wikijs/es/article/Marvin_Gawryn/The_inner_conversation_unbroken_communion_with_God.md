@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Marvin Gawryn<br>© 1986 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1986_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gayle_and_Jim_Moravec/Spiritual_perspectives_in_the_workplace">
+          <span class="pr-2">Perspectivas espirituales en el lugar de trabajo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de URANTIA_ afirma que el corazón de la religión es una relación viva con Dios. Dicha comunión no debe limitarse a servicios religiosos o experiencias cumbre. Debería ser un proceso habitual, continuo, de momento a momento, de compartir interiormente. Una de las declaraciones más sorprendentes de la revelación es que esa comunión entre padre e hijo puede ser constante. La comunión continua es posible. De hecho, es una clave metodológica sin igual, un «secreto» de gran influencia espiritual.
@@ -42,3 +66,28 @@ El hermano Lorenzo, a su manera humilde y humana, hace el mismo llamado. «Orém
 —_Marvin Gawryn_
 _Boulder, Colorado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1986_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gayle_and_Jim_Moravec/Spiritual_perspectives_in_the_workplace">
+          <span class="pr-2">Perspectivas espirituales en el lugar de trabajo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

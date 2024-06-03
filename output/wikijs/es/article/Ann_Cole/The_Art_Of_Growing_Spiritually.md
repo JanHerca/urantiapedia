@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ann Cole<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alice_Clark/Living_Within_The_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir dentro de la Iglesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En la medida en que nuestra voluntad sea que la voluntad de Dios se haga en nuestra vida, que seamos enseñados, guiados y llenos de su espíritu, en esa medida seremos receptivos a la obra que él haría en nosotros. Cualquier pequeño impulso que uno pueda tener para aprender acerca de Dios y de Dios será nuestro comienzo. Preguntamos, aprendemos y, sobre la base de nuestro nuevo conocimiento, preguntamos desde una posición más informada y aprendemos más. A medida que avanzamos, nos volvemos más hábiles para preguntar y aprender, más fuertes en nuestra capacidad para vivir lo que estamos aprendiendo y nuestra curiosidad y ¡El sentido de la aventura se despierta cada vez más! Mientras así lo elijamos, el proceso se perpetúa a sí mismo.
@@ -21,3 +42,25 @@ La voluntad de buscar y hacer continuamente la voluntad de Dios en niveles cada 
 
 — _Ann Cole_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alice_Clark/Living_Within_The_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir dentro de la Iglesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 David Glass<br>© 1985 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Debra_York/A_blunder_to_humanize_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un error garrafal al humanizar a Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Johnston/Meet_religious_challenge">
+          <span class="pr-2">Afrontar el desafío religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Debo admitir que esta dicción habitual me ha detenido antes. El uso del término «estúpido» me pareció un poco fuera de lugar para nuestros amigos invisibles que, normalmente, son tan discretos y amorosos cuando se refieren a nuestro estado de existencia humilde, dotes intelectuales limitadas y comprensión espiritual finita. Parte de lo que es «estúpido» acerca de mecanizar el concepto de Primera Fuente y Centro debe ser, creo, en referencia a lo que nuestros amigos han escrito en otras partes de _El Libro de URANTIA_. Por ejemplo, nos dicen que la capacidad misma de un ser humano para sugerir o construir una filosofía mecanicista universal de la realidad ya es, de manera evidente y demostrable, realizar un ejercicio intelectual que en sí mismo trasciende las habilidades, si las hay, de la naturaleza inanimada de la visión mecanizada del mundo. Todos hemos notado cómo esta afirmación obvia se les ha escapado a muchos de los estudiantes y teóricos de la naturaleza física del siglo XIX y principios del XX.
@@ -22,3 +46,28 @@ Quizás la filosofía positivista que se originó en Locke y progresó a través
 — _David Glass_
 _Fort Worth. Texas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Debra_York/A_blunder_to_humanize_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un error garrafal al humanizar a Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Johnston/Meet_religious_challenge">
+          <span class="pr-2">Afrontar el desafío religioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

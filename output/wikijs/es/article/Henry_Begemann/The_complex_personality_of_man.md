@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Henry Begemann<br>© 1983 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Roxane_Prouix/About_David_Zebedee">
+          <span class="pr-2">Acerca de David Zebedeo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En _El Libro de URANTIA_ el término «personalidad» se utiliza en un doble sentido. En primer lugar, es la personalidad tal como el Padre Universal la otorga a un organismo vivo con mente. A este aspecto lo podríamos llamar «la personalidad pura», o como dirían los alemanes, la personalidad _an sich_. Pero la combinación de la personalidad pura con el organismo a menudo también se llama personalidad. A veces a esto último se le llama identidad. Esta identidad es lo que la personalidad cree ser, con lo que la personalidad se identifica. Este artículo trata principalmente de la identidad.
@@ -52,3 +76,28 @@ De todos modos, la supervivencia requiere un esfuerzo incondicional; un esfuerzo
 — _Henry Begemann_
 _Wassenaar, Países Bajos_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Roxane_Prouix/About_David_Zebedee">
+          <span class="pr-2">Acerca de David Zebedeo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

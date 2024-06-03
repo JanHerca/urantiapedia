@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Dick Bain<br>© 1986 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío religioso de esta época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gilles_Laverdure/Why_do_bad_things_happen_to_good_people">
+          <span class="pr-2">¿Por qué le suceden cosas malas a la gente buena?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A veces nos enfrentamos a la paradoja definitiva. Justo cuando le estamos explicando la naturaleza amorosa de Dios a un agnóstico, él nos arruina el día preguntando: «¿Cómo puede este Dios amoroso permanecer impasible mientras niños inocentes sufren?» La humanidad ha luchado con esta cuestión desde el comienzo de la historia. Los primeros judíos creían que sufrimos porque hemos pecado; Dios nos castiga por nuestras transgresiones. En el Antiguo Testamento leemos sobre la lucha de Job con esta pregunta. Para el hindú, la respuesta a la pregunta es Karma; Cosechamos la recompensa del sufrimiento en esta vida en un grado determinado por nuestra vida anterior aquí. Si estamos sufriendo, debemos tener mal karma. Todas las religiones parecen haber ideado alguna respuesta a la pregunta, pero no todas ven el sufrimiento como una especie de castigo. Se dice que San Francisco de Asís dijo que los verdaderamente afligidos son aquellos que nunca han sido afligidos. ¿Cómo ve _El Libro de URANTIA_ este problema?
@@ -40,3 +64,28 @@ Finalmente, nos beneficiaría mirar más allá de la situación inmediata e incl
 —_Dick Bain_
 _Calle. San Petersburgo, Florida_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío religioso de esta época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gilles_Laverdure/Why_do_bad_things_happen_to_good_people">
+          <span class="pr-2">¿Por qué le suceden cosas malas a la gente buena?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Lynne Kulieke<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resolución de problemas con adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="pr-2">Ética cotidiana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Lynne Kulieke
@@ -121,3 +145,28 @@ Inevitablemente, había algunas perplejidades para un niño pequeño.
 
 Mi padre solía citar a Cullen Bryant, diciendo: «Las arboledas fueron el primer templo de Dios», y me llevaba a caminar entre los árboles, pero mis abuelos eran bastante inflexibles acerca de una iglesia con cuatro paredes y un campanario, a la que se podía entrar preferiblemente por la calle un domingo por la mañana. Sin embargo, se me dio a entender que siempre era correcto buscar al Todopoderoso. En nuestras vidas, Dios fue el primero y Dios fue el último, sin mencionar todo lo que hubo en el medio. Dios incluso comenzó cada día y terminó cada día. Todas las mañanas y tardes en Sión, a las nueve de la mañana, sonaba el carillón del antiguo edificio de la universidad, a sólo dos cuadras de distancia, y todo y todos se detenían. Era el momento de Dios. No creo haber comprendido todo el significado, pero también me detuve, porque claramente era lo que debía hacer. Mi recuerdo más duradero es el de los cálidos crepúsculos de verano, cuando jugaba con mis amigos. Al primer sonido de las campanadas, correría hacia la casa con sus luces, a través de los árboles, sólo puntitos como las primeras estrellas en el cielo violeta, y sabría que podía entrar por la puerta principal o por la puerta trasera o por cualquier otra de las muchas puertas laterales de mi casa para ser envuelta en brazos amorosos. Todos estarían seguros y encantadores mientras escuchábamos el carillón «Dulce hora de oración».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resolución de problemas con adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="pr-2">Ética cotidiana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

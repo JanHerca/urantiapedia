@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renovación y revitalización de la sociedad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Victoria_Urban/The_seraphim">
+          <span class="pr-2">Los Serafines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un cristiano, no importa cuán moderno sea su punto de vista, debe estar abierto al hecho de que la creación de Dios se extiende más allá de su comprensión o experiencia. Debido a esto, y porque los ángeles han sido parte de las Escrituras y la enseñanza a lo largo de los años, un cristiano está abierto a la posibilidad de que los ángeles existan y que cumplan una función especial en la creación.
@@ -23,3 +47,28 @@ La meta de un cristiano en la vida es llegar a ser lo que Dios quiere que sea. C
 
 — _Anónimo_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renovación y revitalización de la sociedad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Victoria_Urban/The_seraphim">
+          <span class="pr-2">Los Serafines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

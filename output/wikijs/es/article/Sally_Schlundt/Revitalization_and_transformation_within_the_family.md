@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Sally Schlundt<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir la vida interior: la psicología de la comunión del Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="pr-2">Revolución espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Prefiero que el título de esta charla sea revitalización y transformación dentro de la familia en lugar de revitalización y transformación de la familia porque pone el énfasis y la responsabilidad de la mejora en la familia misma, creo que para que se dé cualquier transformación la iniciativa tiene que ser venir desde dentro, no como resultado de fuerzas externas.
@@ -104,3 +128,28 @@ Y, finalmente, la familia no es un fin en sí misma sino un patrón, un patrón 
 - _Sally Schlundt_
 _F. Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir la vida interior: la psicología de la comunión del Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="pr-2">Revolución espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

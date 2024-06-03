@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1977 Peter y Eileen Laurence, Berkeley Elliott, Patsy y Tucky Hayes, Dick Schonberg, Margaret Graves Gilbert, Henry Begemann, Marilyn Hauck<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Peter y Eileen Laurence, Berkeley Elliott, Patsy y Tucky Hayes, Dick Schonberg, Margaret Graves Gilbert, Henry Begemann, Marilyn Hauck<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_and_Eileen_Laurence/Patterns_Of_Predictability">
+          <span class="pr-2">Patrones de previsibilidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Patrones de previsibilidad
@@ -94,3 +115,25 @@ Quizás era inevitable que al leer de nuevo sobre la vida de nuestro Padre Unive
 
 > «_Dios es la primera verdad y el último hecho; por eso toda verdad tiene su origen en él, mientras que todos los hechos existen en relación con él. Dios es la verdad absoluta. Uno puede conocer a Dios bajo la forma de verdad, pero para comprender a Dios —para explicarlo— hay que explorar el hecho del universo de universos._» ([LU 102:6.6](/es/The_Urantia_Book/102#p6_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_and_Eileen_Laurence/Patterns_Of_Predictability">
+          <span class="pr-2">Patrones de previsibilidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

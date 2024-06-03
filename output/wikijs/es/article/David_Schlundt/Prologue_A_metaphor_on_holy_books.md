@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1980_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="pr-2">La imaginación creativa en la oración y la adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El siguiente discurso fue pronunciado por David Schlundt en los Talleres de la Hermandad URANTIA en Lake Forest, Illinois, el 4 de agosto de 1980._
@@ -112,3 +136,28 @@ Hay un cuento sufí sobre un maestro sabio y venerado que siempre guardaba un li
 — _K. David Schlundt_
 _Urbana, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1980_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="pr-2">La imaginación creativa en la oración y la adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

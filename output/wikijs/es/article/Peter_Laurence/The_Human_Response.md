@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Peter Laurence<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Receptividad de la mente espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="pr-2">Compartir la vida interior: la psicología de la comunión del Ajustador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## El amor del padre: la relación patrón
@@ -98,3 +122,28 @@ Para mí, esto es una invitación, un llamamiento a ofrecer a nuestro Creador al
 — _Peter Laurence_
 _Armonk, Nueva York_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Receptividad de la mente espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="pr-2">Compartir la vida interior: la psicología de la comunión del Ajustador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

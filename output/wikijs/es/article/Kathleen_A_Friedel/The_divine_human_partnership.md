@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Kathleen A. Friedel<br>© 1985 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuál es el proyecto de nueva filosofía de vida?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me gustaría llamar su atención sobre una palabra. La palabra es «colaboración», asociación como se encuentra en varios lugares del _El Libro de URANTIA_:
@@ -51,3 +72,25 @@ A la luz de las declaraciones anteriores, siento que es precisamente la necesida
 _Toledo, Ohio_
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuál es el proyecto de nueva filosofía de vida?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

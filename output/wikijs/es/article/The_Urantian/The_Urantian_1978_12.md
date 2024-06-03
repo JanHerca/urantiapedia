@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Robert F. Buselli, Marian Rowley, Neal A. Waldrop III<br>© 1978 The Urantia Book Fellowship (anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="pr-2">Círculos de supremacía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Círculos de supremacía
@@ -58,3 +79,25 @@ _Los editores_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="pr-2">Círculos de supremacía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

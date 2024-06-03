@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1974 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje a la Asamblea Trienal de Delegados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/Message_to_the_general_conference_of_Urantia_Brotherhood">
+          <span class="pr-2">Mensaje a la Conferencia General de la Hermandad Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nosotros, los urantianos, a medida que atravesamos la vida día a día, es posible que a menudo nos hayamos preocupado por nuestro progreso en llevar el Reino de Dios a nuestros corazones y a los corazones de nuestros semejantes. Es posible que nos haya preocupado si estamos promoviendo sabiamente y bien el evangelio vivo de la paternidad de Dios y la hermandad del hombre. Pero si cuestionamos nuestro servicio, entonces debemos, de hecho, cuestionar las raíces de ese servicio, que son la lealtad y el amor. Debemos aprender a hacer los ajustes diarios necesarios entre nuestras convicciones personales y nuestro deber hacia la familia y los asociados. Debemos lograr la satisfacción de lograr una combinación cada vez más armoniosa de convicciones personales y obligaciones familiares en un concepto magistral de solidaridad grupal basada en la lealtad, la justicia, la tolerancia y el amor, como lo hizo Jesús tan magníficamente.
@@ -35,3 +59,28 @@ Y ahora, los que estamos aquí hoy hagamos la pregunta de Jesús sobre nosotros 
 
 26 de julio de 1974
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje a la Asamblea Trienal de Delegados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/Message_to_the_general_conference_of_Urantia_Brotherhood">
+          <span class="pr-2">Mensaje a la Conferencia General de la Hermandad Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

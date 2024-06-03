@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Carolyn Kendall<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/Christmas_And_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Navidad y el Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Keeler/Love_Human_And_Divine">
+          <span class="pr-2">Amor: humano y divino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay un plan divino para cada revelación. Los reveladores vienen a la Tierra en misiones y con propósitos, pero hay un plan primordial, una manera ordenada, de llevar a cabo estas misiones de nueva verdad. ¿Cuál es el plan divino para «nuestra» revelación?
@@ -31,3 +55,28 @@ El proceso de relacionarnos con el plan divino consiste en tratar sinceramente d
 
 —_Carolyn Kendall_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/Christmas_And_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Navidad y el Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Keeler/Love_Human_And_Divine">
+          <span class="pr-2">Amor: humano y divino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

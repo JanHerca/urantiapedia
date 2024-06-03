@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Stephen Zendt</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Giros y Afinaciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="pr-2">Personalidad y alma. Una teoría de la individualidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Qué es esta alma
 &nbsp; &nbsp; &nbsp; que surgirá
@@ -53,3 +77,27 @@ Padre mío, amigo, tu presencia constante
 —Stephen Zendt
 San Francisco
 1976 (revisado en 1991)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Giros y Afinaciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="pr-2">Personalidad y alma. Una teoría de la individualidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

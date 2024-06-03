@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Carol Hay<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del error tan grande...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="pr-2">Ministerio Individual: Servicio Comunitario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Carol Hay
@@ -81,3 +105,28 @@ Esa caída diaria en nuestras manos
 Satisfacer abundantemente la pregunta.
 «Señor, ¿qué quieres que haga?»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del error tan grande...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="pr-2">Ministerio Individual: Servicio Comunitario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

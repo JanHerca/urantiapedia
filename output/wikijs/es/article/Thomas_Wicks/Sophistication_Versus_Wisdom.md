@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Thomas Wicks<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Y qué hay de la belleza?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La sofisticación no es sólo un eco del pasado, un lugar en la historia reservado para Sócrates y los sofistas. Está viva y coleando y continúa impregnando nuestra vida diaria. La sofisticación se puede encontrar en la economía, la política, la filosofía, la música y cualquier otro subproducto de la mente con libre albedrío. Se disfraza de verdad, sabiduría y amor cuando, en realidad, es autoengaño y falacia. El manifiesto de Lucifer era pura sofisticación. La mayoría de las veces, surge del egoísmo, el ego, el orgullo y la gran ignorancia. Por lo tanto, «la Coca-Cola añade vida».
@@ -24,3 +45,25 @@ Los sofistas y los profetas de la palabra de los últimos días rechazan la simp
 _Thomas Wicks_
 _Florence, Arizona_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Y qué hay de la belleza?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

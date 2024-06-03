@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 William Wentworth<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CAMBIOS: la práctica hace la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="pr-2">¡Todo lo que siempre quisiste saber sobre la paz familiar! (Ja, ja)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por William Wentworth
@@ -63,3 +87,28 @@ Pensé en terminar con esta historia. En una conferencia celebrada en Noosa, Que
 
 Y supongo que eso dice en pocas palabras cómo es «vivir como en la presencia de Dios». Es simplemente vivir como estamos destinados a vivir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CAMBIOS: la práctica hace la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="pr-2">¡Todo lo que siempre quisiste saber sobre la paz familiar! (Ja, ja)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

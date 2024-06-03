@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Henry Begemann<br>© 1988 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
+          <span class="pr-2">Primavera: un estudio del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Nota del editor: este artículo ha aparecido en otras publicaciones escritas por lectores de _El Libro de URANTIA_. Se reimprime aquí con autorización del autor._
@@ -39,3 +60,25 @@ _Bartlesville, Oklahoma_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
+          <span class="pr-2">Primavera: un estudio del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

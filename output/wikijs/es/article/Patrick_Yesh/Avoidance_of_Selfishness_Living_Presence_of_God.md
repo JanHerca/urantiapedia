@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Patrick Yesh<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ética cotidiana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="pr-2">Evitar el egoísmo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introducción
@@ -204,3 +228,28 @@ Finalmente, al considerar la dificultad del cambio personal de un comportamiento
 5. Establezca rápidamente una relación íntima con alguien, consiga una pareja, cásese, tenga muchos niños, únase a un club de servicio, conviértase en un hacedor de amor. No estés solo en tu pensamiento o en tu vivir. La asociación íntima con tus semejantes, tu familia y la comunidad te ayuda a evitar actividades egoístas. La vida solitaria es fatal para la felicidad; incluso las familias y las naciones disfrutarán más de la vida si la comparten con otros. ([LU 160:2.8](/es/The_Urantia_Book/160#p2_8))
 6. Y Jesús dijo: «Vuestro secreto del dominio de vosotros mismos está ligado a vuestra fe en el espíritu que mora en vosotros y que siempre obra por amor. Ni siquiera esta fe salvadora la tenéis por vosotros mismos; también es don de Dios. Y si sois hijos de esta fe viva, ya no sois esclavos del yo, sino más bien los amos triunfantes de vosotros mismos, los hijos [e hijas] liberados de Dios». ([LU 143:2.7](/es/The_Urantia_Book/143#p2_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ética cotidiana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="pr-2">Evitar el egoísmo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

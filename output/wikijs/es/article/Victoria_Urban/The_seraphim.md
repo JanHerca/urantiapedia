@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Victoria Urban<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ángeles: una visión teológica moderna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me he elegido y me han dado una parte de participación en nuestro Plan Universal; espiritualmente sé que mi ángel de la guarda me llama de una manera que es así encantadora, pero persuasiva.
@@ -26,3 +47,25 @@ En épocas avanzadas de evolución planetaria estos serafines suplantan «_...la
 — _Victoria Urban_
 _Santa Rosa, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ángeles: una visión teológica moderna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

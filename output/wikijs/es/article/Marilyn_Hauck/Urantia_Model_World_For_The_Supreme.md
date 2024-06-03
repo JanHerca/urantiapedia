@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marilyn Hauck<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_M_Andrews/Vibrations_And_Interactions">
+          <span class="pr-2">Vibraciones e interacciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde mi primera lectura de _El Libro de URANTIA_, quedé cautivado por el Supremo, con la idea del Todopoderoso Supremo actualizándose en los reinos del tiempo y el espacio mientras el ideal del carácter y espíritu de la deidad ya se había personalizado en Havona. El misterio me llamó y seguí los pasos de la supremacía a lo largo del libro, papel por papel. A veces el rastro era esquivo y otras evidente, pero siempre era un deleite: ¡ajá! El segundo enigma persistente (entre muchos otros menores) es el funcionamiento exterior de este confuso planeta. Toda la estructura del superuniverso puede llamarse el funcionamiento externo e interno del Supremo en el tiempo y el espacio. ¿Pero está nuestra esfera nativa tan particularmente destinada?
@@ -34,3 +58,28 @@ Tenemos aquí un elenco espléndido y especial. Nuestro mundo tiene un destino e
 —_Marilyn Hauck_
 _Denver, Colorado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_M_Andrews/Vibrations_And_Interactions">
+          <span class="pr-2">Vibraciones e interacciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Alice Clark<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hábitos religiosos: ¿lujo o necesidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Cole/The_Art_Of_Growing_Spiritually">
+          <span class="pr-2">El arte de crecer espiritualmente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Al comienzo de nuestro grupo de estudio, los miembros más evangelistas pronto descubrieron los peligros de hablar demasiado con personas que no estaban interesadas en que cambiaran sus puntos de vista religiosos. Algunas experiencias infelices nos hicieron buscar mejores maneras de acercarnos a nuestros amigos. Para ello comenzamos a estudiar la vida de Jesús para descubrir cómo lo hizo.
@@ -25,3 +49,28 @@ Aun así hay esperanza. Con unos pocos miembros laicos progresistas, un clero co
 
 —_Alice Clark_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hábitos religiosos: ¿lujo o necesidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Cole/The_Art_Of_Growing_Spiritually">
+          <span class="pr-2">El arte de crecer espiritualmente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

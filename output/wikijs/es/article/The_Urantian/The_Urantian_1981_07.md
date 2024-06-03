@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="pr-2">Algunas reflexiones sobre la voluntad del padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este número especial de la Conferencia de la Revista URANTIAN de la Hermandad URANTIA es posible gracias a los esfuerzos sinceros, honestos y reflexivos de muchos de los participantes en la Conferencia General del verano pasado en Colorado. Lamentablemente, las limitaciones de tiempo y presupuesto impidieron la inclusión de todas las valiosas charlas y presentaciones realizadas en Snowmass. Sin embargo, esperamos que los artículos que siguen representen plenamente el espíritu del tema de la conferencia «La relación del individuo con el Padre Universal»._
@@ -168,3 +189,25 @@ _Denver, Colorado_
 > Sermón de Jesús sobre «El Reino» — Cafarnaúm
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="pr-2">Algunas reflexiones sobre la voluntad del padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

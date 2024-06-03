@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1990_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano de 1990 — Número II de la Conferencia Especial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="pr-2">Experimentar a Dios en nosotros mismos y en los demás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por John Hay
@@ -49,3 +73,28 @@ Cuando nosotros, como pueblo, uno por uno, nos revestimos de Cristo, vivimos y n
 
 ¿No es hora de que todas las palabras y promesas de todas las instituciones y estructuras tengan un objetivo común: el objetivo de crear un mundo más humano y más divino? O, una vez más, sonarán verdaderas las palabras del profeta Isaías, cuando dice: «Oiréis y oiréis otra vez, pero no entenderéis; veréis y veréis otra vez, pero no percibiréis».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1990_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano de 1990 — Número II de la Conferencia Especial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="pr-2">Experimentar a Dios en nosotros mismos y en los demás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

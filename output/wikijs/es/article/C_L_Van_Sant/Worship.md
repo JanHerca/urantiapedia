@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 C. L. Van Sant<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ethel_Zanoni/Meditations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditaciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» ([LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
@@ -34,3 +55,25 @@ Y no es de extrañar, pues la adoración «_...hace que uno se parezca cada vez 
 — _C. L. Van Sant_
 _Bartlesville, Oklahoma_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ethel_Zanoni/Meditations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditaciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

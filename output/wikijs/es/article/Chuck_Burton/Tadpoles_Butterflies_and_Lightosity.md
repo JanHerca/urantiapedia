@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Chuck Burton<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regreso a las prácticas de los consejos de familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Chuck Burton
@@ -123,3 +144,25 @@ La respuesta de Jesús a los apóstoles después de este episodio de enseñanza 
 
 Me gustaría cerrar con un último relato tomado de C.S. Lewis, autor y teólogo. Y probablemente lo hayas adivinado... se trata de máscaras y de volverse espiritual. Había una vez un hombre con pocos amigos que, en cierta etapa de su vida, se miró detenidamente en el espejo y se dio cuenta de que era bastante feo. Tomó la decisión consciente de usar una máscara que lo hacía lucir mucho mejor de lo que realmente era. Tuvo que usar esta máscara durante años y cuando finalmente se la quitó, su rostro se había transformado casi mágicamente para ajustarse a la máscara a la perfección. Se había vuelto verdaderamente hermoso. Lo que había comenzado como un disfraz se había convertido en una realidad. C.S. Lewis utiliza esta historia para embellecer un concepto que él denomina «disfrazarse de Cristo» para unirse a él como hijo de Dios. Para mí, esta historia trata simplemente de lograr la luminosidad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regreso a las prácticas de los consejos de familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

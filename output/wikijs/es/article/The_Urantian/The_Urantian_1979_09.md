@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Martin W. Myers, Henry Begemann<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">La Hermandad Urantia: las posibilidades de un servicio planetario significativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Hermandad Urantia: las posibilidades de un servicio planetario significativo
@@ -65,6 +86,28 @@ Gracias.
 > «_La prueba decisiva para cualquier filosofía religiosa consiste en saber si distingue o no entre las realidades del mundo material y las del mundo espiritual, reconociendo al mismo tiempo su unificación en el esfuerzo intelectual y el servicio social._» ([LU 101:7.5](/es/The_Urantia_Book/101#p7_5))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">La Hermandad Urantia: las posibilidades de un servicio planetario significativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Jeff Wattles<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un marco y una filosofía para la educación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El renacimiento espiritual en nuestro planeta es como una serie de cuatro olas en un lago, que emanan de un centro común y se expanden para realizar la hermandad del hombre. Una búsqueda renovada de la verdad, la belleza y la bondad recorre la experiencia de muchos humanistas. Fuertes corrientes de devoción monoteísta agitan las almas de innumerables descendientes espirituales del evangelio de Melquisedec. Muchos cristianos buscan y encuentran el agua de la vida, el verdadero espíritu del regalo que el Maestro nos hizo. Y el movimiento de estudiantes de _El Libro de URANTIA_ conlleva el potencial de integrar estos círculos concéntricos de realización. El propósito de este ensayo es mejorar nuestra comprensión y nuestra hermandad con los musulmanes.
@@ -60,3 +81,25 @@ Finalmente, refresquemos nuestro sentido de hermandad con los musulmanes sincero
 — _Jeffrey Wattles_
 _Berkeley, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un marco y una filosofía para la educación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

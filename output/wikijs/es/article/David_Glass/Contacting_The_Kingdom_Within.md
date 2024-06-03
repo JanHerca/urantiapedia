@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 David Glass<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Learning_Tolerance">
+          <span class="pr-2">Aprendiendo la tolerancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_«El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso._» ([LU 195:10.4](/es/The_Urantia_Book/195#p10_4))
@@ -34,3 +58,28 @@ _Bradenton, Florida_
 
 _El material anterior es un extracto de un discurso preparado para la Tercera Conferencia Estatal de Florida. Los editores agradecen el permiso para utilizarlos y desearían que hubiera espacio disponible para reimprimir el texto en su totalidad._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mark_Kulieke/Learning_Tolerance">
+          <span class="pr-2">Aprendiendo la tolerancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

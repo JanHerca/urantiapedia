@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Gene Joyce<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wesley_James/The_seraphic_connection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conexión Seráfica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="pr-2">Renovación y revitalización de la sociedad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Guiados, custodiados, inspirados y asistidos como lo estamos todos por los serafines asignados a nuestra guardia, ciertos mortales altamente dotados y motivados también pueden participar en los planes y proyectos de los maestros serafines cuyas actividades están dirigidas por el gobernador general residente en Urantia. El alcance de esta participación probablemente dependa principalmente de sus orígenes y elecciones. Aunque el método de selección puede ser algo oscuro, las vidas de ciertos individuos se destacan como faros que proyectan rayos de influencia y poder por todo el planeta. Una de esas personas fue Charles Lindbergh.
@@ -32,3 +56,28 @@ Conservó su entusiasmo y dedicación para hacer de este mundo un lugar mejor pa
 — _Gene Joyce_
 _Richardson. Texas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Wesley_James/The_seraphic_connection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conexión Seráfica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="pr-2">Renovación y revitalización de la sociedad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

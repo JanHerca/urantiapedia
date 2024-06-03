@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Robert Buselli<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="pr-2">El Ser Supremo: una definición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando me acerqué a los tres artículos de _El Libro de URANTIA_ sobre el Supremo, me confundieron las numerosas formas en que los autores se referían al Supremo. Estaba el Ser Supremo, Dios el Supremo y el Todopoderoso Supremo. También hubo una referencia a la Mente Suprema. Era consciente de que el Supremo era Dios operando en el tiempo y el espacio: una deidad finita; pero antes de estos tres artículos creía que el Ser Supremo, Dios Supremo y el Todopoderoso Supremo eran términos intercambiables usados de la misma manera. _El Libro de URANTIA_ se refiere a los Ajustadores del Pensamiento como Monitores Misteriosos, fragmentos del Padre, espíritus residentes, etc. ¿Por qué entonces? ¿Había tres documentos separados? De repente me di cuenta de que cada término utilizado en referencia al Supremo significa algo definido y ligeramente diferente de cada uno de los demás términos.
@@ -42,3 +66,28 @@ El Ser Supremo es finito y es una Deidad experiencial de la misma manera que el 
 —_Robert F. Buselli_
 _Pittsburgh, Pennsylvania_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1978_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="pr-2">El Ser Supremo: una definición</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

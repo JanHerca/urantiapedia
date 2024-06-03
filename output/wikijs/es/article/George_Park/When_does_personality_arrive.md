@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 George Park<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1980_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Edición de primavera de 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Connie_Rubino/A_matter_of_size">
+          <span class="pr-2">Una cuestión de tamaño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El concepto de personalidad es uno de los más intrigantes que nos presentan nuestros maestros espirituales en las páginas de _El Libro de URANTIA_. La fascinación que despierta este concepto se debe a algo más que a la fuerte tendencia del hombre hacia el narcisismo. «_Cuanto mejor se comprende el hombre a sí mismo y más aprecia los valores de la personalidad de sus semejantes, más anhelará conocer a la Personalidad Original, y con más ardor luchará ese ser humano que conoce a Dios por parecerse a la Personalidad Original._» ([LU 1:6.6](/es/The_Urantia_Book/1#p6_6)) «_Cuando todo ha sido dicho y hecho, la idea de Padre continúa siendo el concepto humano más elevado de Dios._» ([LU 196:3.35](/es/The_Urantia_Book/196#p3_35))
@@ -78,3 +102,28 @@ Y a lo largo de todas estas transformaciones en el punto focal de la experiencia
 — _George Park_
 _Hampton, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1980_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Edición de primavera de 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Connie_Rubino/A_matter_of_size">
+          <span class="pr-2">Una cuestión de tamaño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

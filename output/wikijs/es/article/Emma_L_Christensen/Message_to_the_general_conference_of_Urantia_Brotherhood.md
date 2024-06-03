@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1975 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje para la sesión de estudio de verano sobre lealtad y servicio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Saludos a los Soldados de los Círculos! Esta designación se nos ha aplicado porque somos los hombres y mujeres que han sido llamados a dar los primeros pasos para ofrecer una nueva luz a una iglesia frustrada y a un mundo distraído. Somos la primera luz en casi 2.000 años que ilumina el camino de la liberación del caos, la confusión y la oscuridad del actual dilema planetario.
@@ -84,3 +105,25 @@ En palabras de Jesús: «_Podéis ver por vosotros mismos que la cosecha es abun
 
 1 de agosto de 1975
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje para la sesión de estudio de verano sobre lealtad y servicio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

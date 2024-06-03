@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Rosey Lieske<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rosey_Lieske/Actualizing_The_Supreme_in_your_life">
+          <span class="pr-2">Actualizando lo Supremo en tu vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Actualizando lo Supremo en tu vida
@@ -32,3 +53,25 @@ _Phoenix, Arizona_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rosey_Lieske/Actualizing_The_Supreme_in_your_life">
+          <span class="pr-2">Actualizando lo Supremo en tu vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

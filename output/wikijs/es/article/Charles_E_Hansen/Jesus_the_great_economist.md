@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1987_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Edición de primavera de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La economía es básicamente el estudio de nuestras acciones individuales y nuestras interacciones entre nosotros que son necesarias para extraer y dar forma a los recursos de la naturaleza; para velar por su distribución entre nosotros; y emplearlos para algún propósito que, de una forma u otra, nos satisfaga o aumente nuestra felicidad. Estas actividades se llevaron a cabo mucho tiempo antes de que existiera una «ciencia» de la economía; y, como la intención de cualquier ciencia es ayudarnos a mejorar, la ciencia de la economía en realidad se dedica a la búsqueda de conocimientos y principios que puedan ayudarnos a realizar estas actividades de manera más eficiente.
@@ -100,3 +121,25 @@ Y el verdadero problema que tenemos hoy en economía es que muy pocos se toman e
 _Charles E. Hansen_
 _Silver Spring, Maryland_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1987_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Edición de primavera de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

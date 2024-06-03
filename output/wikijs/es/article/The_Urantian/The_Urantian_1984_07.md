@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Neal Waldrop<br>© 1984 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1984 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Disowning_the_past">
+          <span class="pr-2">The Urantian - Número de verano de 1984</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Lo siguiente fue adaptado de un discurso pronunciado en la Conferencia Allenberry de lectores del Libro de URANTIA, Boiling Springs, Pensilvania, en mayo de 1984._
@@ -30,3 +51,25 @@ _Silver Spring, Maryland_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1984 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Disowning_the_past">
+          <span class="pr-2">The Urantian - Número de verano de 1984</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Jim Johnston, Robert Faughum, Curt Cloninger, Stephen Zendt, Eileen Laurence<br>© 1987 The Urantia Book Fellowship ( anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Sé tú perfecto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Edición doble de la conferencia especial**
@@ -104,3 +125,25 @@ Así como parecemos perder la fe en el asombroso poder de la transformación per
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Sé tú perfecto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

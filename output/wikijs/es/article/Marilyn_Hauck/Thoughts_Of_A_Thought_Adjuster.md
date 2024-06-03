@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marilyn Hauck<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jim_McNelly/The_Greatest_Story_Of_All_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La historia más grande de todos los tiempos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_Creemos que, con estos hechos ante ellos, los Monitores se ofrecen libremente como voluntarios para la misión. Existe probablemente más de un Ajustador que ofrece sus servicios; quizás las órdenes personalizadas supervisoras escogen, en este grupo de Ajustadores voluntarios, al más indicado para la tarea de espiritualizar y eternizar la personalidad del candidato mortal._» ([LU 108:1.7](/es/The_Urantia_Book/108#p1_7))
@@ -38,3 +59,25 @@ Parte de mi búsqueda ha terminado. Comienza otra parte. He habitado y amado a m
 —_Marilyn Hauck_
 Aurora, Colorado
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jim_McNelly/The_Greatest_Story_Of_All_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La historia más grande de todos los tiempos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

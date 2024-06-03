@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 David Schlundt<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en el individuo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-marzo-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de marzo de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julia_Fenderson/FUSLA_Study_Group_Guidelines">
+          <span class="pr-2">Directrices del Grupo de Estudio FUSLA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La singularidad central de la orientación del Libro de URANTIA radica, en último análisis, en su enfoque en la guía individual singular por medio del Ajustador del Pensamiento interno. Las consecuencias conductuales cotidianas de este «gran salto para la humanidad» son inmediatas y profundas, y se extienden desde aquí hasta la eternidad, y para cada individuo con capacidad de voluntad, independientemente de cualquier otra calificación. Es una transformación revolucionaria en el significado de la auténtica personalidad, y de ella se desprende la promesa de una nueva comunidad.
@@ -23,3 +47,28 @@ Por fin cobra sentido la suprema y amorosa paciencia de Jesús con sus hijos des
 
 —_David Schlundt_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrarse en el individuo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-marzo-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de marzo de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Julia_Fenderson/FUSLA_Study_Group_Guidelines">
+          <span class="pr-2">Directrices del Grupo de Estudio FUSLA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

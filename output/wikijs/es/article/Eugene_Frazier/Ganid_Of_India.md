@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Eugene Frazier<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Matchless_Moses">
+          <span class="pr-2">El Moisés incomparable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los estudiantes de _El Libro de URANTIA_ conocen bien las muchas y variadas formas de energía espiritual que el Padre ha proporcionado para que algún día lleguemos a conocerlo y a ser como él. Uno de los puntos más inspiradores para este lector ha sido la descripción de aquellos heroicos mortales de Urantia que se han atrevido a vivir como hijos e hijas del Padre en la fe.
@@ -34,3 +58,28 @@ Se le permitirá al ajustador fomentar el crecimiento. Mientras Jesús dirigía 
 — _Eugene Frazier_
 _Sacramento, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Matchless_Moses">
+          <span class="pr-2">El Moisés incomparable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

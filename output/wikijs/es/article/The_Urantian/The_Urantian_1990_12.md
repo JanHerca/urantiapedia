@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene & Buck Weimer, Larry Mullins<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene & Buck Weimer, Larry Mullins<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Hay/Opening_Address">
+          <span class="pr-2">Discurso de apertura</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -301,3 +322,25 @@ Los niños también están adoptando esta actitud. Una niña estaba dibujando en
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Hay/Opening_Address">
+          <span class="pr-2">Discurso de apertura</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

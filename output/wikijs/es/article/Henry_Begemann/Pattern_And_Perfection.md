@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Henry Begemann<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nuevo culto: patrón y símbolo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilyn_Hauck/Patterns_Great_And_Small">
+          <span class="pr-2">Patrones grandes y pequeños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Como sería imposible tratar adecuadamente un tema tan complejo y difícil como el patrón en un artículo breve, me pregunté cuál es el significado principal y el valor práctico del patrón para mí. En primer lugar, está vinculado con la perfección. La presencia del patrón es la validación y justificación del mandato divino: «Sed perfectos, como yo soy perfecto». ¿Cómo podría nuestro amoroso Padre exigir que sus hijos fueran perfectos si esa perfección no estuviera ya presente como potencial?
@@ -27,3 +51,28 @@ Idealmente, encontrar el contacto con el Padre debería ser más importante para
 
 —_Henry Begemann_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nuevo culto: patrón y símbolo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilyn_Hauck/Patterns_Great_And_Small">
+          <span class="pr-2">Patrones grandes y pequeños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

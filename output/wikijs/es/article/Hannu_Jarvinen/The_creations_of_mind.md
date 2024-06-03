@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Hannu Jarvinen<br>© 1989 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1989_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mario_C_J_Harrington/The_worship_experience">
+          <span class="pr-2">La experiencia de adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La idea para esta charla la saqué de un libro de Voitto Viro. Me ha afectado profundamente el libro en el que afirma que es una gran desgracia que cosas que no son evidentes se consideren como tales. El hecho de que estemos aquí no es evidente. El hecho de que existamos, de que exista el hombre, es un gran milagro. Sé que no soy lo suficientemente consciente como para comprender profundamente el significado de eso.
@@ -50,3 +74,28 @@ Realmente es hora de cambios y nosotros, los que leemos _El Libro de URANTIA_, d
 _Hannu Jarvinen_
 _Sasi, Finlandia_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1989_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mario_C_J_Harrington/The_worship_experience">
+          <span class="pr-2">La experiencia de adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

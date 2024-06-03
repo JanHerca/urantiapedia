@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Stephen Zendt<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kaye_and_William_Cooper/Priorities_And_Perspectives">
+          <span class="pr-2">Prioridades y perspectivas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «_¿Cómo induciremos a los hombres a que dejen paso a Dios y Éste pueda brotar para refrescar nuestras propias almas mientras transita hacia el exterior, y luego sirva al propósito de iluminar, elevar y bendecir a otras innumerables almas? ... Observad a vuestro Maestro. En este mismo momento se encuentra allá en las colinas, llenándose de fuerza, mientras nosotros estamos aquí gastando energía. El secreto de todo este problema está envuelto en la comunión espiritual, en la adoración. Desde el punto de vista humano, se trata de combinar la meditación y la relajación. La meditación pone en contacto a la mente con el espíritu; la relajación determina la capacidad para la receptividad espiritual._» ([LU 160:3.1](/es/The_Urantia_Book/160#p3_1)) Rodán de Alejandría.
@@ -23,3 +47,28 @@ Todos nosotros hemos experimentado en un momento u otro el terrible encuentro co
 
 — _Stephen Zendt_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1977_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kaye_and_William_Cooper/Priorities_And_Perspectives">
+          <span class="pr-2">Prioridades y perspectivas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

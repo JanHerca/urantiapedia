@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 George Park</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Surgiendo de mi carne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynne_Kulieke/Change_Ringing">
+          <span class="pr-2">Cambiar timbre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 por George L. Park
 
@@ -87,3 +111,27 @@ Sabiduría | sabiduría | juzgando | evaluación moral <br>y elección |
 Adoración<br> Consejo | corazón | sentimiento | deseos, emociones, <br>y imaginación |
 Conocimiento<br> Coraje | intelecto | pensando | ideas y decisiones |
 Comprensión<br> Intuición | cuerpo | haciendo | percepciones, impulsos, <br>y sensaciones |
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Surgiendo de mi carne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lynne_Kulieke/Change_Ringing">
+          <span class="pr-2">Cambiar timbre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Carolyn Kendall<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sally_Schlundt/Revitalization_and_transformation_within_the_family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revitalización y transformación dentro de la familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="pr-2">La Comisión al Ministro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En un siglo excepcionalmente lleno de acontecimientos, la aparición del Libro de URANTIA será reconocida dentro de mil años como el acontecimiento más maravilloso de todos. Pero aquí estamos, veintiséis años después del mayor acontecimiento del siglo XX y muchos de nosotros todavía no estamos seguros de lo que se supone que es el movimiento URANTIA y, además, de lo que a nosotros, como creyentes en esta nueva revelación de época, se nos ha encomendado hacer. Ya sea por hábito cultural o por falta de coraje espiritual, creo que a veces confundimos nuestras prioridades secundarias con aquellas que deberían estar en primer lugar.
@@ -102,3 +126,28 @@ El mundo estará preparado para todos estos hechos a su debido tiempo, pero mien
 — _Carolyn Kendall_
 _Rueda, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sally_Schlundt/Revitalization_and_transformation_within_the_family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revitalización y transformación dentro de la familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="pr-2">La Comisión al Ministro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

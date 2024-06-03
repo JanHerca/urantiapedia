@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Robert Walker<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Belleza y Hermandad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ethel_Zanoni/Meditations">
+          <span class="pr-2">Meditaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mientras leo _El Libro de URANTIA_, hay grandes indicios de que el Padre disfruta y desea individuos únicos que piensen por sí mismos. La diversidad de opiniones y el pensamiento creativo son a menudo los que conducen a verdades más elevadas. Por lo tanto, la conformidad a la voluntad del Padre y la conformidad al pensamiento ciego se reconocen como claramente diferentes.
@@ -20,3 +44,28 @@ Dado que hay infinito dentro de cada uno de nosotros en el don de la naturaleza 
 — _Robert Walker_
 _Río del Mar, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Belleza y Hermandad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ethel_Zanoni/Meditations">
+          <span class="pr-2">Meditaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

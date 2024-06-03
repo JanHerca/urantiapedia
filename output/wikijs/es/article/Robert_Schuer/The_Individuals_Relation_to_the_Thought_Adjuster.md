@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Robert Schuer<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios para conocer la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="pr-2">Receptividad de la mente espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tengo hoy ante mí un grupo bastante representativo de los descendientes de Andón y Fonta. Habéis venido de prácticamente todos los estados de estos Estados Unidos y de varios países extranjeros. Cada uno de ustedes está habitado por un Ajustador del Pensamiento y cada uno de ustedes tiene el don del Espíritu de la Verdad de Jesús. Cada uno de ustedes está comprometido en la tremenda aventura de conocer y hacer la voluntad del Padre. Cada uno de ustedes ha recorrido parte del curso o plan de vida preparado para ustedes por su Ajustador y continuamente iluminado por él para ustedes. Con vuestro consentimiento y con vuestras decisiones él la va desenmarañando poco a poco ante vuestros ojos de fe. Ya, mediante el servicio amoroso, estáis ajustando las tendencias ancestrales de vida a las demandas de los impulsos espirituales iniciados por la presencia divina del Monitor Misterioso.
@@ -39,3 +63,28 @@ Finalmente, antes de partir. Tengo que decirte en las palabras del Libro de URAN
 — _Robert Schuer_
 _Nueva Lexington, Ohio_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios para conocer la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="pr-2">Receptividad de la mente espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

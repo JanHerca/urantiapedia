@@ -24,7 +24,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+        <a href="/es/article/Jim_McNelly/Are_You_Ready_For_The_Urantia_Book">
           <span class="pr-2">¿Estás preparado para El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -74,7 +74,7 @@ Seguramente esta versión del siglo XX de las «buenas nuevas» debería impacta
         </a>
         </td>
         <td>
-        <a href="/es/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+        <a href="/es/article/Jim_McNelly/Are_You_Ready_For_The_Urantia_Book">
           <span class="pr-2">¿Estás preparado para El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

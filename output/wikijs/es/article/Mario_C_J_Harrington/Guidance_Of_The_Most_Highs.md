@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Mario C. J. Harrington<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_F_Prince/Education_And_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Educación y amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ruth_E_Renn/Man_Does_Not_Live_By_Bread_Alone">
+          <span class="pr-2">No sólo de pan vive el hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Han transcurrido cuarenta años desde que la Quinta Revelación de Época fue dada a nuestro mundo. Paso a paso, una nueva generación está asumiendo el mando de nuestras naciones. Consideremos que durante ese período hemos visto otra guerra mundial y varios otros enfrentamientos militares importantes. Esto debería impulsarnos a recordar que «_Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual._» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)).
@@ -21,3 +45,28 @@ Porque, de hecho, en la próxima etapa de nuestra evolución, la autodeterminaci
 
 —_Mario C.J. Harrington_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_F_Prince/Education_And_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Educación y amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ruth_E_Renn/Man_Does_Not_Live_By_Bread_Alone">
+          <span class="pr-2">No sólo de pan vive el hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

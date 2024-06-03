@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 E. Ann Star</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ley es la vida misma y no las reglas de su conducta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ángeles en esta temprana hora
@@ -87,3 +108,25 @@ Pacífico es el corazón
 Cuando rebosa de Amor;
 Todos responden con cariño
 A un corazón que irradia Amor.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ley es la vida misma y no las reglas de su conducta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

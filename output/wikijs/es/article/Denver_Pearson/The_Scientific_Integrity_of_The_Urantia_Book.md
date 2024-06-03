@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Denver Pearson</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Truth_is_Not_Trickery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La verdad no es engaño</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="pr-2">1992. ¿Qué hará por mí y por ti?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 por Denver Pearson
 
@@ -73,3 +97,27 @@ Si se pueden encontrar fallas verificables en la revelación, entonces, en mi op
 Pero, ¿cómo determinamos realmente qué es un error, en todo caso? ¿De quién gobernante usamos? Esta es mi gran preocupación. Sólo confío en que aquí no nos están engañando, mimando o bombardeando con tiempo, porque lo único que podemos saber con certeza es que la verdad prevalecerá. Actualmente estamos sentando las bases para los futuros estudiantes de la quinta revelación de época. Pero si nuestros cimientos se apegan a la autoridad de una ciencia moderna falible, entonces este movimiento quedará tan paralizado como lo está el cristianismo hoy, que arrastra a la civilización occidental como una bola y una cadena.
 
 Para avanzar con seguridad hacia la verdad de esta revelación y de la ciencia actual, ahora necesitamos la ayuda de investigadores guiados por el Espíritu sin otro motivo que simplemente descubrir la verdad, la belleza y la bondad de nuestro fascinante hogar cósmico, un hogar lleno de con tantas maravillas aún por descubrir.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Truth_is_Not_Trickery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La verdad no es engaño</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="pr-2">1992. ¿Qué hará por mí y por ti?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

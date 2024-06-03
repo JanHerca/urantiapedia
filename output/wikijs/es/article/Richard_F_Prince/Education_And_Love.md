@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Richard F. Prince<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunos principios del crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mario_C_J_Harrington/Guidance_Of_The_Most_Highs">
+          <span class="pr-2">Orientación de los más altos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 No me queda claro que todo el concepto de escuela de la Hermandad Urantia tenga como génesis una necesidad expresada externamente a la que nosotros, la Hermandad, estamos respondiendo. Más bien, me parece que estamos empezando con la proposición de que, dado que hay tanto que aprender en _El Libro de URANTIA_, debemos necesitar una escuela. El objetivo del taller sobre educación (que confieso que sólo he recibido de segunda mano) fue descubrir qué necesidades, si es que había alguna, que pudieran ser definidas por los presentes, y luego responder a ellas. Es posible que ese enfoque no sea el más fructífero a largo plazo, por varias razones.
@@ -25,3 +49,28 @@ Los acontecimientos avanzan rápidamente en nuestro mundo y ninguno de nosotros 
 
 —_Richard F. Príncipe_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunos principios del crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mario_C_J_Harrington/Guidance_Of_The_Most_Highs">
+          <span class="pr-2">Orientación de los más altos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

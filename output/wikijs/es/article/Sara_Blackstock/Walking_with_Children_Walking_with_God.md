@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Sara Blackstock<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio Individual: Servicio Comunitario</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="pr-2">La adoración verdadera: un comentario sobre el documento 5, sección 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Sara L. Blackstock
@@ -185,3 +209,28 @@ Me imagino que la esperanza de todos nosotros es que nuestros hijos conozcan a D
 
 Y como todos sabemos, la reorganización social, moral, económica y política del mundo comienza en casa.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio Individual: Servicio Comunitario</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="pr-2">La adoración verdadera: un comentario sobre el documento 5, sección 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1964 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">Un mensaje a la Asamblea Trienal de Delegados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 SALUDOS A USTEDES, los delegados, suplentes, consejeros y todos los urantianos, que tienen el privilegio de asistir a esta primera reunión de la Asamblea Trienal de Delegados. Esta es una ocasión histórica. Lo que hagamos y digamos aquí quedará registrado durante mucho tiempo en los archivos de la Hermandad Urantia, y no dudo que las generaciones futuras recordarán con añoranza este año 1964 y desearían haber estado con nosotros, tal como a veces miramos. Nos remontamos a los tiempos de Jesús en la tierra y deseamos haber podido caminar con él por Galilea, habernos sentado bajo los árboles con él, escuchando de primera mano sus enseñanzas supremas. Nuestra reunión de hoy aquí será una experiencia que apreciaremos durante mucho tiempo y espero que enfrentemos los desafíos que presenta con valentía, devoción y, sobre todo, con unidad de propósito.
@@ -68,3 +92,28 @@ Seamos, pues, felices y valientes soldados de los círculos.
 
 20 de agosto de 1964
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de primavera de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">Un mensaje a la Asamblea Trienal de Delegados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

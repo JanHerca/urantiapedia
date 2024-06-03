@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Paul Knott<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Revelación del Hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="pr-2">Belleza y Hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de URANTIA_ analiza a menudo la importancia de la familia en la sociedad humana. Por ejemplo, encontramos declaraciones como: «_La familia es la realización puramente humana más importante del hombre..._» y «_Según sean las familias de una raza o nación, así será su sociedad. Si las familias son buenas, la sociedad será igualmente buena._» ([LU 84:6.8](/es/The_Urantia_Book/84#p6_8); [LU 84:7.1](/es/The_Urantia_Book/84#p7_1))
@@ -22,3 +46,28 @@ A pesar de este panorama sombrío, se observa un profundo anhelo entre jóvenes 
 — _Paul Knott, PhD_
 _Arvada, Colorado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Revelación del Hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="pr-2">Belleza y Hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

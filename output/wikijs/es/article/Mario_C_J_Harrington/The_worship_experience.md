@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Mario C.J. Harrington<br>© 1989 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las creaciones de la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A medida que más personas siguen sus impulsos religiosos conscientes, buscan orientación sobre los caminos de la oración y la adoración, o sobre cómo practicar la presencia de Dios. El camino hacia el Padre Universal es ante todo un viaje interior. En la oración hay un elemento de interés propio involucrado. Muchos de nosotros hemos experimentado que las oraciones no necesariamente son respondidas al nivel formulado. El control excesivo de las fuerzas espirituales del universo tiende a responder a nuestras peticiones en su nivel más elevado y puro. De vez en cuando nuestras peticiones son realmente atendidas y posteriormente nos sorprendemos al experimentar la realidad de nuestro deseo. La oración enriquece la vida, pero la adoración ilumina el destino.
@@ -38,3 +59,25 @@ Porque deberíamos saber que
 _Mario C.J. Harrington_
 _Pompano Beach, Florida_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las creaciones de la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

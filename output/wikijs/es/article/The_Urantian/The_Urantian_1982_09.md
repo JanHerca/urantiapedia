@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 David Glass, Daniel Love Glazer<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="pr-2">Segunda adivinanza del renacimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Segunda adivinanza del renacimiento espiritual
@@ -43,3 +64,25 @@ _Filadelfia, Pensilvania_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="pr-2">Segunda adivinanza del renacimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

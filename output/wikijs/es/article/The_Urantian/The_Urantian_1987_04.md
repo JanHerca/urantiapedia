@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jesús, el gran economista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Jesús, el gran economista
@@ -28,3 +49,25 @@ _Silver Spring, Maryland_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jesús, el gran economista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Patsy y Tucky Hayes<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Berkeley_Elliott/Pattern_Personalities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidades patrón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Schonberg/Patterns_Of_Revelation">
+          <span class="pr-2">Patrones de revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las familias genéticas y las familias de grupos de estudio son talleres de Nuestro Padre. Proporcionan ajuste del yo a otros yo. Permiten cultivar el amor de nuestro Padre a través del cual los Ajustadores del Pensamiento, el Espíritu de la Verdad y nuestros otros benefactores espirituales pueden ayudarnos a lograr la elevación de la humanidad.
@@ -27,3 +51,28 @@ Jesús espera que los mortales nacidos del espíritu sean uno. Así como su Esp�
 
 —_Patsy y Tucky Hayes_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Berkeley_Elliott/Pattern_Personalities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidades patrón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Schonberg/Patterns_Of_Revelation">
+          <span class="pr-2">Patrones de revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

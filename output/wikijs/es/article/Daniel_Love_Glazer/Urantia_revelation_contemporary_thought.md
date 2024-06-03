@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Daniel Love Glazer<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda adivinanza del renacimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Revelación. El Libro nos dice, está diseñado para cerrar la brecha en la experiencia humana entre lo material y lo espiritual. A través de nuestra razón determinamos los hechos, el conocimiento de la ciencia. A través de nuestra fe comprendemos valores, realidades espirituales presentadas a nuestra mente superconsciente por el divino Ajustador del Pensamiento interno. Y a través de la lógica de la filosofía intentamos coordinar e integrar el conocimiento material de la ciencia y las verdades espirituales de la experiencia religiosa. Pero este esfuerzo filosófico de integración está condenado a fracasar. Entre lo espiritual y lo material hay un nivel de realidad que no conocemos, un nivel de realidad que _El Libro de URANTIA_ llama «morontial». Durante su vida en la carne el hombre carece del mola de morontial con el que más tarde podrá aprehender las realidades morontiales. _El Libro de URANTIA_ dice: «_La revelación clarifica con autoridad la confusión de la metafísica desarrollada por la razón en una esfera evolutiva._» ([LU 103:6.8](/es/The_Urantia_Book/103#p6_8)) Además, «_La Revelación es la única esperanza del hombre evolutivo para salvar el abismo morontial._» ([LU 103:6.13](/es/The_Urantia_Book/103#p6_13)) Y «_La revelación viene a compensar la fragilidad de la filosofía en evolución._» ([LU 103:8.6](/es/The_Urantia_Book/103#p8_6))
@@ -126,3 +147,25 @@ La siguiente palabra en el diálogo depende de nosotros. Y las letras de esa pal
 _Filadelfia, Pensilvania_
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda adivinanza del renacimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

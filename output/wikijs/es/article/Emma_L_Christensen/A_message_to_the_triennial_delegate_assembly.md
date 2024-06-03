@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1967 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje a la primera asamblea trienal de delegados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="pr-2">Un mensaje para la sesión de estudio de verano sobre lealtad y servicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Es un placer para mí saludar a los delegados, suplentes, consejeros y a todos los buenos amigos de Urantia que tienen el privilegio de asistir a la segunda Asamblea Trienal de Delegados. Hace tres años, el 20 de agosto de 1964, celebramos la primera reunión de la Asamblea. Esa fue una ocasión histórica. Esto no es menos auspicioso y espero que hayamos crecido en gracia y sabiduría estos últimos tres años.
@@ -57,3 +81,28 @@ Oremos para que todos podamos convertirnos en valientes soldados de los círculo
 
 4 de agosto de 1967
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje a la primera asamblea trienal de delegados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="pr-2">Un mensaje para la sesión de estudio de verano sobre lealtad y servicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

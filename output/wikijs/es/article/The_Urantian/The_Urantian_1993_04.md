@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Truth_is_Not_Trickery">
+          <span class="pr-2">La verdad no es engaño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Primavera de 1993
 
@@ -181,3 +202,25 @@ La obra de arte de las páginas 8 y 9 (a continuación) concluye una serie de Ju
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Truth_is_Not_Trickery">
+          <span class="pr-2">La verdad no es engaño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

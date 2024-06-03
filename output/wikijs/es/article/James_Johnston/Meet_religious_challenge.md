@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 James Johnson<br>© 1985 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Stupid_to_mechanize">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estúpido mecanizar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Para afrontar el desafío religioso de esta época, en primer lugar parecería apropiado distinguir entre una filosofía de vida religiosa y no religiosa; la diferencia está en la naturaleza del nivel de los valores reconocidos y en el objeto de las lealtades, como señaló Melquisedec. : «_La evolución de la filosofía religiosa comporta cuatro fases: Una experiencia así puede volverse simplemente conformista, resignada a someterse a la tradición y a la autoridad. O puede satisfacerse con pequeños logros, los suficientes como para estabilizar la vida diaria, por lo que pronto se queda detenida en este nivel atrasado. Estos mortales creen que es mejor dejar las cosas como están. Un tercer grupo progresa hasta el nivel de la intelectualidad lógica, pero se estancan allí a consecuencia de la esclavitud cultural. Es verdaderamente lamentable contemplar a unos intelectos gigantes totalmente sometidos al dominio cruel de la servidumbre cultural. Es igualmente patético observar a aquellos que cambian su esclavitud cultural por las cadenas materialistas de una ciencia calificada erróneamente de esta manera. El cuarto nivel de la filosofía consigue liberarse de todos los obstáculos convencionales y tradicionales, y se atreve a pensar, actuar y vivir de manera honrada, leal, intrépida y veraz._» ([LU 101:7.4](/es/The_Urantia_Book/101#p7_4)) La última frase de esta cita se relaciona directamente con el Pregunta original respecto a la construcción de una «_...nueva y atractiva filosofía de vida..._» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10)). Ambas citas utilizan el verbo atreverse, lo que implica que los maestros religiosos de esta época deben tener suficiente coraje para implementar este cuarto nivel de filosofía.
@@ -28,3 +49,25 @@ En conclusión, los verdaderos hijos del discernimiento espiritual seguirán uni
 — _James (JJ) Johnson_
 _Arabia Saudita_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Stupid_to_mechanize">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estúpido mecanizar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

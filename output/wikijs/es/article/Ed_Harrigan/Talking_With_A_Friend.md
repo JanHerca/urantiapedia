@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ed Harrigan<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kulieke/A_Spiritual_Tonic">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un tónico espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Via_Brazell/A_Keg_Of_Nails">
+          <span class="pr-2">Un barril de clavos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una mirada por la ventana de mi sala de estar ofrece una vista de varias laderas escarpadas de montañas suavizadas con una capa blanca de nieve en polvo. La belleza nos rodea en el campo y la bondad abunda en los amigos sinceros que pasan por nuestra puerta. Pero el verdadero regalo es el potencial de crecimiento: realizar y descubrir una nueva conciencia de mayor intimidad con nuestra amistad más esclarecedora, la de nuestro Hijo Creador, Miguel de Nebadon,
@@ -33,3 +57,28 @@ La oración es tan creativa como personal. La oración es tan eficaz como sincer
 
 —_Ed Harrigan_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kulieke/A_Spiritual_Tonic">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un tónico espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Via_Brazell/A_Keg_Of_Nails">
+          <span class="pr-2">Un barril de clavos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

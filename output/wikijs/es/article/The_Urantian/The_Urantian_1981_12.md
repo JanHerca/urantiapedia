@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Peter Laurence, Sara Blackstock, Jeff Wattles<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Laurence/Towards_human_understanding">
+          <span class="pr-2">Hacia la comprensión humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Hacia la comprensión humana
@@ -57,3 +78,25 @@ _Berkeley, California_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Laurence/Towards_human_understanding">
+          <span class="pr-2">Hacia la comprensión humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

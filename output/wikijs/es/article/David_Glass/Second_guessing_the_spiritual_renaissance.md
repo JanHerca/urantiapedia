@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 David Glass<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Love_Glazer/Urantia_revelation_contemporary_thought">
+          <span class="pr-2">La revelación de Urantia, el pensamiento contemporáneo y la transformación espiritual de la humanidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «_La continua predicación de este evangelio del reino traerá algún día, a todas las naciones, una liberación nueva e increíble, la independencia intelectual y la libertad religiosa._» ([LU 178:1.9](/es/The_Urantia_Book/178#p1_9)) Estas palabras del Maestro predicen la venida de algún día de un gran renacimiento espiritual, y nos invitan y exhortan a ayudar a lograr esta iluminación proclamando el evangelio del Maestro sobre la filiación espiritual del hombre con Dios. Podríamos preguntarnos si no estamos invitados también a especular sobre la secuencia de acontecimientos mediante los cuales puede producirse este renacimiento espiritual, revisando la información que se nos ha dado recientemente en _El Libro de URANTIA_.
@@ -80,3 +104,28 @@ Por lo tanto, si bien debemos evaluar la información reveladora que se nos ha d
 —_David Glass_
 _Bradenton, Florida_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1982_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Daniel_Love_Glazer/Urantia_revelation_contemporary_thought">
+          <span class="pr-2">La revelación de Urantia, el pensamiento contemporáneo y la transformación espiritual de la humanidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

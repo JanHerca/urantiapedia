@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Stephen Zendt<br>© 1987 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La raíz cuadrada de la nada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Our_relationship_with_God">
+          <span class="pr-2">Nuestra relación con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quiero comenzar contándoles una anécdota sobre el reconocido evangelista estadounidense Billy Graham. Parece que estaba en una pequeña comunidad donde tenía previsto hablar esa noche. Durante el día, estaba ansioso por enviar algunas cartas al correo y salió a caminar. Detuvo a un joven en la calle para preguntarle cómo llegar a la oficina de correos local. Después de que el joven le dio la información, Graham lo invitó a su predicación vespertina, diciendo que hablaría sobre el tema «El camino al cielo», pero el joven respondió que probablemente no estaría allí. «Dios», dijo, «ni siquiera sabes cómo llegar a la oficina de correos».
@@ -58,3 +82,28 @@ Que Dios lo bendiga con renovación espiritual diaria y transformación personal
 _Stephen Zendt_
 _San Francisco, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La raíz cuadrada de la nada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Our_relationship_with_God">
+          <span class="pr-2">Nuestra relación con Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

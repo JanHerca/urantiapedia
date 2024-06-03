@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 William S. Sadler, Jr.<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número inaugural - Número de marzo de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-marzo-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de marzo de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="pr-2">Centrarse en el individuo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «¿Qué es la Hermandad URANTIA? ¿Otra secta? Esta pregunta se la han formulado más de una vez al redactor de este informe. A esta pregunta siempre se ha dado una respuesta negativa: «No, la Hermandad Urantia no es ni una iglesia ni una secta. Es simplemente un grupo social que tiene un objetivo religioso».
@@ -33,3 +57,28 @@ Si podemos separar claramente los medios y los fines, si siempre podemos subordi
 
 _(Nota: William S. Sadler, Jr., fue Presidente de la Hermandad URANTIA durante los primeros tres años de su existencia, 1955-1957. Este es un extracto de su primer informe a la Asamblea Trienal de Delegados.)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1976_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número inaugural - Número de marzo de 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-marzo-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de marzo de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="pr-2">Centrarse en el individuo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

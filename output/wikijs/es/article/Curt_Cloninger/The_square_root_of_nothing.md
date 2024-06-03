@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Curt Cloninger<br>© 1987 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todo lo que realmente necesitaba saber lo aprendí en el jardín de infantes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="pr-2">Transformación: Y aquí está el misterio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Curt Cloninger, 17 de abril de 1986_
@@ -55,3 +79,28 @@ y lo que sé y puedo decir de él sigue siendo sólo la raíz cuadrada de la nad
 Jesucristo ha resucitado,
 Que el cielo se mueva por siempre.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todo lo que realmente necesitaba saber lo aprendí en el jardín de infantes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-diciembre-de-1987-edición-doble-de-la-conferencia-especial">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de diciembre de 1987. Edición doble de la conferencia especial — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="pr-2">Transformación: Y aquí está el misterio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Jeff Wattles<br>© 1985 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1985_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1985</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_A_Friedel/The_divine_human_partnership">
+          <span class="pr-2">La asociación Divino-Humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina._» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10)) ¿Qué implicaciones tiene este pasaje? ¿Qué preguntas plantea?
@@ -90,3 +114,28 @@ Encuentro que la verdad cósmica se resume mejor en el concepto de la paternidad
 —_Jeffrey Wattles_
 _Concordia, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1985_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1985</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_A_Friedel/The_divine_human_partnership">
+          <span class="pr-2">La asociación Divino-Humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

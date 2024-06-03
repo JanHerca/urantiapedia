@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Jeff Wattles, Kathleen A. Friedel<br>© 1985 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="pr-2">¿Cuál es el proyecto de nueva filosofía de vida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ¿Cuál es el proyecto Nueva Filosofía de Vivir?
@@ -57,3 +78,25 @@ La naturaleza del mal y la preocupación por su realidad es hoy una cuestión te
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1985 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="pr-2">¿Cuál es el proyecto de nueva filosofía de vida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

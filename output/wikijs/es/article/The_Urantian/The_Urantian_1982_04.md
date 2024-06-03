@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="pr-2">Un mensaje a la primera asamblea trienal de delegados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este número de The URANTIAN Journal of URANTIA Brotherhood está dedicado a la memoria de Emma L. Christensen. Como nuestra forma de recordar a Christy, hemos incluido muchos de los discursos y charlas que ella pronunció durante sus muchos años de servicio desinteresado y devoción a la obra de esta quinta revelación trascendental de nuestro Padre a este planeta. Sus palabras hablan con claridad y resonancia de su esperanza de que cada estudiante de _El Libro de URANTIA_ alcance la plenitud del compromiso con Dios y la experiencia de la filiación, sea un «Soldado de los Círculos». Christy se graduó en los mundos mansión el 2 de mayo de 1982._
@@ -54,3 +75,25 @@ Pero no somos soldados armados. Llevamos las buenas nuevas de la filiación del 
 > Jesús a los apóstoles en el Discurso de despedida
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="pr-2">Un mensaje a la primera asamblea trienal de delegados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

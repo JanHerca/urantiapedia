@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Hermandad Urantia: las posibilidades de un servicio planetario significativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _La siguiente charla fue dada en el cumpleaños de Jesús. 21 de agosto de 1979, en una reunión de estudiantes de _El Libro de URANTIA_ en la casa del autor en los Países Bajos. Su tema es apropiado para nuestra celebración histórica de este evento trascendental en esta época del año.
@@ -54,3 +75,25 @@ Y probablemente _El Libro de URANTIA_ será el precursor de otro acontecimiento 
 _Henry Begemann_
 _Wassenaar, Países Bajos_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Hermandad Urantia: las posibilidades de un servicio planetario significativo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

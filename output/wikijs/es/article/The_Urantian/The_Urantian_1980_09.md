@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt, George Park, Eileen Laurence<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="pr-2">Prólogo: una metáfora de los libros sagrados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El siguiente discurso fue pronunciado por David Schlundt en los Talleres de la Hermandad URANTIA en Lake Forest, Illinois, el 4 de agosto de 1980._
@@ -65,3 +86,25 @@ _Armonk, Nueva York_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="pr-2">Prólogo: una metáfora de los libros sagrados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

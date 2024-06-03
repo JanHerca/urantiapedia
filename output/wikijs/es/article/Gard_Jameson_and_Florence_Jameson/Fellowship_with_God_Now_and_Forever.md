@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Gard Jameson y Florence Jameson<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir espiritual: un camino hacia Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="pr-2">Compartir la vida espiritual con los demás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Gard Jameson y Florence Jameson, M.D.
@@ -64,3 +88,28 @@ Si no dedicamos tiempo a la adoración, ¿no somos como Marta en la cocina «abr
 
 «He aquí, yo estoy a la puerta y llamo».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir espiritual: un camino hacia Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="pr-2">Compartir la vida espiritual con los demás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

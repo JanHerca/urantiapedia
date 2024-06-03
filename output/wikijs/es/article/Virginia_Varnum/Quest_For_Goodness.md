@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Virginia Varnum<br>© 1978 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué es la verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="pr-2">¿Y qué hay de la belleza?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La protección de Dios es una especie de bondad: «la búsqueda del ideal». Utiliza diferentes músculos, se alimenta del amor. «_Hasta que no alcancéis los niveles del Paraíso, la bondad siempre será más una búsqueda que una posesión..._» ([LU 132:2.8](/es/The_Urantia_Book/132#p2_8)) La protección de Dios es una «_sed de perfección divina_» ([LU 150:5.5](/es/The_Urantia_Book/150#p5_5)) lograda con La propia ayuda de Dios junto con toda la jerarquía de seres espirituales y la expresión divina desde dentro de ti.
@@ -28,3 +52,28 @@ La acción para Dios, una vez emprendida, se convierte en una nueva fuente de al
 _Virginia Varnum_
 _Staten Island, Nueva York_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué es la verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1978 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="pr-2">¿Y qué hay de la belleza?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

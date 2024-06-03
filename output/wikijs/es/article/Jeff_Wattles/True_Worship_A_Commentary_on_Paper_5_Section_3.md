@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Jeffrey Wattles<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caminando con los niños Caminando con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="pr-2">Compartir espiritual: un camino hacia Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Jeffrey Wattles
@@ -97,3 +121,28 @@ Tengo dos notas a pie de página para terminar. Una de las «presuposiciones» (
 
 Y, por último, una mirada hacia el futuro. «_La adoración tiene el propósito de anticiparse a la vida mejor del futuro, y luego reflejar estas nuevas significaciones espirituales sobre la vida presente._» ([LU 143:7.5](/es/The_Urantia_Book/143#p7_5)) La adoración es un anticipo de la eternidad, en la que nosotros, como hermandad perfeccionada, viaje en el descubrimiento interminable de la infinidad del Padre Universal. ([LU 106:9.11](/es/The_Urantia_Book/106#p9_11))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caminando con los niños Caminando con Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="pr-2">Compartir espiritual: un camino hacia Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John Lange<br>© 1986 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nivel espiritual de la realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A lo largo de los siglos, el hombre mortal ha sentido que algo vital crece dentro de él y está destinado a perdurar más allá del breve lapso de su vida terrenal. Así, el concepto de alma ha encontrado su camino en muchos de los sistemas planetarios del pensamiento religioso. El hombre primitivo asociaba el alma con la sangre, el aliento, las sombras y los reflejos en el agua; y más tarde se pensó que habitaba en varios órganos físicos: el ojo, el riñón, el hígado, el corazón y, finalmente, el cerebro.
@@ -56,3 +77,25 @@ No busco hacer al hombre más de lo que es, sino poner de relieve la naturaleza 
 _John Lange, M.D._
 _Fuerte Smith, Arkansas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nivel espiritual de la realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 George Park<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prólogo: una metáfora de los libros sagrados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Unity_and_harmony">
+          <span class="pr-2">Unidad y Armonía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «_La manera en que el Padre Universal reside en las criaturas del tiempo es el más profundo de todos los misterios del universo; la presencia divina en la mente del hombre es el misterio de los misterios._» ([LU 1:4.1](/es/The_Urantia_Book/1#p4_1)) La técnica mediante la cual el Ajustador del Pensamiento puede hacer conocer su presencia eterna a la mente material es un misterio. El método mediante el cual el espíritu registra la realidad de la eternidad en la mente material como una experiencia del «ahora eterno» es un milagro filosófico que escapa a nuestra comprensión. ([LU 118:1.1](/es/The_Urantia_Book/118#p1_1)) Sin embargo, la técnica utilizada por la mente material en su búsqueda hacia arriba y hacia adentro para experimentar la presencia de Dios, el comportamiento psicológico de la mente humana para fomentar su propia espiritualización, no está completamente fuera de nuestro alcance. 
@@ -64,3 +88,28 @@ Conocer la idea de Dios es una cosa. Adorar el ideal de Dios es otra. Y comparti
 — _George L. Park_
 _Hampton, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prólogo: una metáfora de los libros sagrados</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Laurence/Unity_and_harmony">
+          <span class="pr-2">Unidad y Armonía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Probal Dasgupta<br>© 1989 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1989_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-otoño-de-1989-el-urantian-journal-pasa-a-llamarse-«journal-de-la-fifth-epochal-fellowship»">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 1989 (El Urantian Journal pasa a llamarse «Journal de la Fifth Epochal Fellowship») — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En el siglo XVIII, el filósofo británico Hume consideró que los diálogos entre personas razonables serían más fructíferos si se pudieran superar los obstáculos de los diferentes sistemas terminológicos. «Siempre que estemos de acuerdo sobre el tema», dijo, «es innecesario discutir sobre los términos». Esa ausencia de disputas ya no es una base suficiente, si es que alguna vez lo fue, para un diálogo positivo capaz de eliminar los malentendidos profundamente arraigados que arrastran a muchos de nosotros a las disputas y la violencia. Especialmente en el caso del discurso interreligioso, que está resultando ser un tema crucial en la agenda del mundo moderno, debemos hacer esfuerzos serios para identificar «la cosa», de modo que no sólo dejemos de «discutir sobre los términos» sino que incluso comenzar a desarrollar un modo generalmente aceptado de hablar y pensar sobre aquello en lo que «estamos de acuerdo».
@@ -72,3 +93,25 @@ Me atrevo a sugerir que este es un tema apropiado para la meditación en el cont
 —_Dr. Probal Dasgupta_,
 _Hyderabad, India_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1989_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-otoño-de-1989-el-urantian-journal-pasa-a-llamarse-«journal-de-la-fifth-epochal-fellowship»">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 1989 (El Urantian Journal pasa a llamarse «Journal de la Fifth Epochal Fellowship») — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

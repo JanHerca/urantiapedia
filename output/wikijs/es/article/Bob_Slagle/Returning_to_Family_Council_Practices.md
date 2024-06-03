@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Bob Slagle<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir la vida espiritual con los demás</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chuck_Burton/Tadpoles_Butterflies_and_Lightosity">
+          <span class="pr-2">Renacuajos, mariposas y luminosidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Bob Slagle, Ph.D.
@@ -45,3 +69,28 @@ Otro paralelo intrigante con el proceso de reunión familiar consensual lo manif
 
 Así pues, parece que desde lo más bajo hasta lo más alto, desde Urantia hasta Salvington y pasando por Uversa, la idea de la reunión familiar es el tejido de la justicia y el gobierno universal. No es de extrañar que seamos alentados a regresar a las prácticas de consejo familiar de los anditas. En mi libro, Un manual para reuniones familiares: _Achieving Family Harmony Happily_, intento integrar los conceptos más elevados de _El Libro de Urantia_, tal como se encuentran en muchas fuentes seculares actuales, con experiencias prácticas en la vida familiar. Ruego a los padres que se liberen del peso de la autoridad personal y se liberen al gozo y la luz de las reuniones familiares consensuadas, la soberanía familiar, el enfoque jesusoniano de la armonía familiar.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir la vida espiritual con los demás</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-veranootoño-de-1990-número-i-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición verano-otoño de 1990. Número I de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chuck_Burton/Tadpoles_Butterflies_and_Lightosity">
+          <span class="pr-2">Renacuajos, mariposas y luminosidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

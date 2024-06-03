@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Harry Roloff</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La integridad científica del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="pr-2">La ley es la vida misma y no las reglas de su conducta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al comienzo de cada año próximo
 Lanzamos nuevas esperanzas contra viejos miedos
@@ -113,3 +137,27 @@ A menos que esta verdad la confesemos.
 ¡Y para ello debemos seguir orando!
 
 —Harry Roloff, 1-4-92
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La integridad científica del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#abril-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Abril de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="pr-2">La ley es la vida misma y no las reglas de su conducta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

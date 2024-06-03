@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_McNelly/Evolving_a_personal_religious_experience">
+          <span class="pr-2">Evolución de una experiencia religiosa personal: de la creencia a la fe a la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Puede haber una gran diferencia entre actuar por buenos motivos humanos y hacer la voluntad del Padre. La moralidad, y su motivación correlacionada, es, en primer lugar, un fenómeno evolutivo. Entonces es «superanimal, pero subespiritual». La moralidad derivada de este nivel no es una actividad espiritual, sino una actividad derivada del sentido del deber. La moralidad como enseñó Jesús es más que evolutiva, es reveladora, porque su origen está en la relación Padre-hijo. Esta relación vivida tiene como consecuencia una moralidad mejorada que trasciende el deber. «_La característica principal de la enseñanza de Jesús consistía en que la moralidad de su filosofía se originaba en la relación personal del individuo con Dios —la misma relación que entre el niño y su padre._» ([LU 140:10.5](/es/The_Urantia_Book/140#p10_5))
@@ -36,3 +60,28 @@ Hay una gran tentación en los buenos motivos. Pueden parecer muy agradables y b
 — _Henry Begemann_
 _Wassenaar, Países Bajos_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Comisión al Ministro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_McNelly/Evolving_a_personal_religious_experience">
+          <span class="pr-2">Evolución de una experiencia religiosa personal: de la creencia a la fe a la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 The Christian Fellowship of Students of <i>El libro de Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una oferta demasiado buena para rechazarla</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="pr-2">Resolución de problemas con adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los seres humanos son por naturaleza criaturas que resuelven problemas. Nuestras necesidades e impulsos básicos interactúan con los estímulos ambientales en busca de satisfacción y plenitud del organismo. Toda resolución de problemas desde el nacimiento hasta la muerte se sitúa en el contexto de nuestra naturaleza, experiencia y aprendizaje. La forma en que resolvemos nuestros problemas está determinada fundamentalmente por nuestra naturaleza y recursos. Somos seres materiales integrados y controlados por un sistema neuronal dirigido por la mente y habitado por el espíritu. Por lo tanto, los seres humanos tienen recursos físicos, mentales y espirituales para ayudar en la resolución de problemas. Todas estas capacidades y capacidades interactúan y funcionan de manera integral.
@@ -70,3 +94,28 @@ La mejor imagen del uso eficaz de la oración es observar la vida de oración de
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una oferta demasiado buena para rechazarla</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="pr-2">Resolución de problemas con adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

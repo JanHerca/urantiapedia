@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Ronald D. Louie, Sally Schlundt<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="pr-2">Reflexiones sobre la difusión de las enseñanzas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Reflexiones sobre la difusión de las enseñanzas del _Libro de Urantia_
@@ -40,3 +61,25 @@ _Fuerte Wayne, Indiana_
 > Jesús a Simón, Pedro, Santiago y Juan en casa de Simón
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="pr-2">Reflexiones sobre la difusión de las enseñanzas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

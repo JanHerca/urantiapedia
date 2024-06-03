@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Margaret Graves Gilbert<br>© 1977 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Schonberg/Patterns_Of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patrones de revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Pattern_And_Perfection">
+          <span class="pr-2">Patrón y perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_... un culto —un simbolismo de ritos, lemas u objetivos— ..._» ([LU 87:7.10](/es/The_Urantia_Book/87#p7_10))
@@ -27,3 +51,28 @@ En lugar de hacer de la religión una parte sagrada de la vida, volvamos la marc
 
 —_Margaret Graves Gilbert_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Schonberg/Patterns_Of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patrones de revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1977 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Pattern_And_Perfection">
+          <span class="pr-2">Patrón y perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

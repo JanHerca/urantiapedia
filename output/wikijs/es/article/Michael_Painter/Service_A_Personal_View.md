@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Michael Painter<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Snider/One_To_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Uno a uno</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="pr-2">Los guijarros que frotan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Servicio? Aparentemente una palabra común; Sin embargo, ¿qué significa realmente? Haga una pausa y reflexione un momento sobre lo que significa el servicio para usted y luego siga leyendo mientras intento compartir algunas ideas con usted.
@@ -33,3 +57,28 @@ Si a Jesús le encantaba hacer pequeñas cosas por la gente, entonces segurament
 
 > «_...la fraternidad y el servicio son las piedras angulares del evangelio del reino...._» ([LU 178:1.4](/es/The_Urantia_Book/178#p1_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mary_Snider/One_To_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Uno a uno</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="pr-2">Los guijarros que frotan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

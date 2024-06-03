@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Helena Sprague<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los guijarros que frotan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Hill/The_Atlanta_Approach">
+          <span class="pr-2">El enfoque de Atlanta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay tantas maneras diferentes para que los grupos de estudio lleven a cabo sus reuniones como grupos. Una encuesta en algunas secciones del Este dio como resultado estos breves perfiles:
@@ -33,3 +57,28 @@ Hay tantas maneras diferentes para que los grupos de estudio lleven a cabo sus r
 
 —_Helena Sprague_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los guijarros que frotan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Hill/The_Atlanta_Approach">
+          <span class="pr-2">El enfoque de Atlanta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

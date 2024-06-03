@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 David Elders<br>© 1990 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Hay/Opening_Address">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discurso de apertura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="pr-2">Un ojo al ojo de la cerradura de la eternidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por David Elders
@@ -66,3 +90,28 @@ Los simples actos de ver, conocer y amar a otra persona son el acto de experimen
 
 Y, a través de nuestra conciencia de la relación interna entre nuestra personalidad y el Ajustador del Pensamiento (ambos otorgados por Dios... ambos de Dios) podemos participar en la experiencia eterna que Dios tiene de sí mismo. Al mismo tiempo, en virtud de nuestra coexistencia con otros yoes personales, podemos experimentar a Dios como Supremo, a través y en nuestras relaciones con otras personalidades amadas. _Dios es personalidad._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Hay/Opening_Address">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discurso de apertura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-inviernoprimavera-de-1991-número-ii-de-la-conferencia-especial-conferencia-general-de-1990-caminando-con-dios-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición invierno-primavera de 1991. Número II de la Conferencia Especial (Conferencia General de 1990. Caminando con Dios. Snowmass, Aspen, Colorado) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="pr-2">Un ojo al ojo de la cerradura de la eternidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

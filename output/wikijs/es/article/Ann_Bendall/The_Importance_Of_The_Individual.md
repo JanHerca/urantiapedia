@@ -14,7 +14,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+        <a href="/es/article/Jim_McNelly/Are_You_Ready_For_The_Urantia_Book">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estás preparado para El libro de Urantia?</span>
         </a>
         </td>
@@ -61,7 +61,7 @@ Si creemos lo suficiente en nuestros hermanos y hermanas, si aprendemos a amarlo
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+        <a href="/es/article/Jim_McNelly/Are_You_Ready_For_The_Urantia_Book">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estás preparado para El libro de Urantia?</span>
         </a>
         </td>

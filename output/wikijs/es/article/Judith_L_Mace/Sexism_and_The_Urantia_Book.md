@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Judith L. Mace<br>© 1987 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1987_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Miller/Isolation">
+          <span class="pr-2">Aislamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este artículo describe nuestras situaciones mundiales, no sólo las de las sociedades occidentales._
@@ -62,3 +86,28 @@ La función más importante del _El Libro de URANTIA_ es mejorar la espiritualid
 _Judith L. Mace_
 _Ciudad de Lincoln, Oregón_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1987_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de verano de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Miller/Isolation">
+          <span class="pr-2">Aislamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

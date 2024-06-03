@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Wesley James, Matthew Rapaport, Meredith Sprunger<br>© 1976 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Urantian/An_Inner_Radiance">
+          <span class="pr-2">Un resplandor interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «_Vuestra revelación de la verdad debe ser tan realzada al pasar por vuestra experiencia personal, que ha de descubrir una nueva belleza y unos beneficios espirituales reales a todos aquellos que contemplan vuestros frutos espirituales, viéndose inducidos en consecuencia a glorificar al Padre que está en los cielos._» ( [LU 176:3.7](/es/The_Urantia_Book/176#p3_7))
@@ -75,3 +96,25 @@ La Hermandad URANTIA durante los primeros veinte años de su existencia se ha de
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1976 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Urantian/An_Inner_Radiance">
+          <span class="pr-2">Un resplandor interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

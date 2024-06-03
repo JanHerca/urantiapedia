@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Jeff Wattles<br>© 1983 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Ninteman/Persons_are_gifts">
+          <span class="pr-2">Las personas son regalos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La oración es la forma más importante de descubrir la voluntad de Dios; pero encontrar la voluntad del Padre no es sólo cuestión de escucha, de apertura interior. ¿Qué más está involucrado? buscar la voluntad de Dios cae bajo las «leyes de las peticiones prevalecientes» establecidas en _El Libro de URANTIA_. La segunda de estas condiciones afirma: «_Tenéis que haber agotado honradamente todas las capacidades humanas de adaptación. Tenéis que haber sido laboriosos._» ([LU 91:9.3](/es/The_Urantia_Book/91#p9_3))
@@ -59,3 +83,28 @@ Disfrutemos todos del ejercicio pleno y armonioso de nuestras facultades mientra
 — _Jeffrey Wattles_
 _Concordia, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Ninteman/Persons_are_gifts">
+          <span class="pr-2">Las personas son regalos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

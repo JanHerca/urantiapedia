@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 George Park, Connie Rubino<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Park/When_does_personality_arrive">
+          <span class="pr-2">¿Cuándo llega la personalidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ¿Cuándo llega la personalidad?
@@ -39,3 +60,25 @@ _W. Paterson, Nueva Jersey_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Park/When_does_personality_arrive">
+          <span class="pr-2">¿Cuándo llega la personalidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

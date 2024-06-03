@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Connie Rubino<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/When_does_personality_arrive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo llega la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un niño posee una cualidad muy parecida a la de una hoja de papel en blanco en la que cada transeúnte escribe algo. A veces, como adultos, es posible que no nos demos cuenta de la gran influencia que podemos ser y hemos sido.
@@ -30,3 +51,25 @@ Cuando estemos con todos nuestros hermanos y hermanas a lo largo de la «aventur
 — _Connie Rubino_
 _W. Paterson, Nueva Jersey_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/When_does_personality_arrive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo llega la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#edición-de-primavera-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

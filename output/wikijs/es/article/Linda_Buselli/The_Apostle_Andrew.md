@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Linda Buselli<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/India_Margaret_Sperry/Norana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Norana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Leemos sobre muchos seres humanos admirables en _El Libro de URANTIA_, pero mi favorito siempre ha sido el apóstol Andrés. Si bien puedo respetar su inteligencia innata y su capacidad administrativa, lo que más me atrae es esa cualidad de comprensión humana que poseía; y estoy convencido de que este fue el logro más destacado de su personaje.
@@ -22,3 +43,25 @@ Y debe haber sido fácil hablar con él. Los apóstoles buscaron con frecuencia 
 — _Linda Buselli_
 _Pittsburgh. Pensilvania_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/India_Margaret_Sperry/Norana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Norana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 David Schlundt</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Personality_and_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y voluntad: dominio creciente de los mundos interior y exterior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="pr-2">Surgiendo de mi carne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por K.D. Schlund
 
@@ -49,3 +73,27 @@ _y sintonizarnos_
 _a Nuevos giros._
 
 David Schlundt murió en septiembre de 1991.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Personality_and_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y voluntad: dominio creciente de los mundos interior y exterior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#diciembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Diciembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="pr-2">Surgiendo de mi carne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

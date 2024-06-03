@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Charles Laurence Olivea<br>© 1980 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/UNITY_One_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UNIDAD - Una Vista</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -92,3 +113,25 @@ Estas calificaciones son muy importantes porque cualquier ingeniería sociobiol�
 — _Charles Laurence Olivea_
 _Watertown, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/UNITY_One_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UNIDAD - Una Vista</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1980 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
