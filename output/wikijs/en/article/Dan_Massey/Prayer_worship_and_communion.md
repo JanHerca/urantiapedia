@@ -83,9 +83,7 @@ The greatest fruit that we may derive from that experience is surely to be able 
 
 The practice of group worship is an effective way by which a group of Son-believing and God-knowing mortals eventually will grow to exhibit the fullness of love, harmony, and unity of true friendship with Michael.
 
-Such experience is appropriate to all groups of believers. If we provide a broader exposure to and discussion of these ideas among readers of The URANTIA
-
-Book, we may help our fellows become more confident in the worship experience and provide an avenue for their development toward expression of the ideals of human brotherhood, both inside the “movement,” and, particularly, outside the “movement.”
+Such experience is appropriate to all groups of believers. If we provide a broader exposure to and discussion of these ideas among readers of _The URANTIA Book_, we may help our fellows become more confident in the worship experience and provide an avenue for their development toward expression of the ideals of human brotherhood, both inside the “movement,” and, particularly, outside the “movement.”
 
 Let us begin to take a spiritual initiative in our work together in two ways. The first is very challenging and has even greater benefits than the second.
 

@@ -72,7 +72,7 @@ ChicagoIllinois 60614
 
 Precio de suscripción: $3.00 al año
 
--Todas las citas contenidas en esta Revista, a menos que se indique lo contrario, provienen de _El Libro de URANTIA_ y se utilizan con el permiso de la Fundación URANTIA, propietaria de los derechos de autor.
+—Todas las citas contenidas en esta Revista, a menos que se indique lo contrario, provienen de _El Libro de URANTIA_ y se utilizan con el permiso de la Fundación URANTIA, propietaria de los derechos de autor.
 
 La Revista en sí no tiene derechos de autor y, salvo las restricciones señaladas, se fomenta la difusión y el uso de sus contenidos.
 
@@ -114,7 +114,7 @@ Sólo los individuos transformados pueden crear un mundo transformado. Sólo hom
 
 De los antiguos asirios, la humanidad aprendió la construcción de bibliotecas y sistemas postales; de los babilonios, el conocimiento de la astronomía y el moldeado de ladrillos de arcilla. De los egipcios aprendimos la topografía, de los persas la acuñación internacional y de los fenicios el alfabeto escrito. De los antiguos griegos, la humanidad aprendió la música, el teatro, la arquitectura y la filosofía, y de los romanos, la construcción de puentes, caminos y leyes. Pero de Jesús de Nazaret la humanidad aún no ha aprendido los caminos de la justicia y la paz, el valor infinito del individuo y la hermandad del hombre bajo la Paternidad de Dios. Y hasta que lo hagamos, el resto de lo que hayamos aprendido importará muy poco.
 
-- _V.B.G._
+— _V.B.G._
 
 
 ## Directrices del Grupo de Estudio FUSLA

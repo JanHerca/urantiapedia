@@ -53,7 +53,7 @@ Anticipo que muchos de los diversos problemas que encontraremos cuando nos acerq
 
 [Leer más](/es/article/Sally_Schlundt/The_quality_of_our_interface)
 
-_Sally Schlundt_
+— _Sally Schlundt_
 _Fuerte Wayne, Indiana_
 
 > «_Os declaro a todos que el Padre ha abierto las puertas del reino celestial a todos los que tienen la fe necesaria para entrar, y ningún hombre o asociación de hombres podrán cerrar esas puertas ni siquiera al alma más humilde o al pecador supuestamente más flagrante de la Tierra, si sinceramente aspiran a entrar._» ([LU 147:5.6](/es/The_Urantia_Book/147#p5_6))

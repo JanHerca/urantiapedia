@@ -43,7 +43,7 @@ La mayoría de nuestros trabajos religiosos individuales y grupales están dirig
 
 Hay una gran preocupación sobre lo que las organizaciones URANTIA podrían estar haciendo para difundir _El Libro de URANTIA_, y no se hace suficiente énfasis en lo que usted y yo podemos hacer para difundir las enseñanzas de la revelación. Creo que ha habido demasiada tensión en las actividades de la Hermandad y no suficiente acción espiritual real. En lugar de recrear una estructura religiosa monolítica, deberíamos fomentar un crecimiento espiritual monumental.
 
-## Relacionarse personalmente con otros religiosos
+## Relacionarse personalmente con otras personas religiosas
 
 Es una suposición segura que casi cualquier persona con la que te encuentres haya tenido una asociación con la religión organizada. Si bien puede que ya no sea un compromiso fuerte, se considerará cristiano, judío o partidario de alguna otra religión, secta o culto. Y al igual que Nalda en el pozo, la mayoría de la gente evita una discusión espiritual personal y penetrante. Es vergonzoso y revelador. Es más fácil ser institucionalista. Es necesario salvar esta barrera como hizo Jesús con Nalda, porque ninguna institución ha salvado jamás a una sola alma.
 

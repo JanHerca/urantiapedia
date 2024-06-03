@@ -67,7 +67,7 @@ _Farmington, Connecticut_
 
 La religión ayuda a las personas a afrontar las dificultades espirituales de su época. Los pueblos primitivos necesitaban ser liberados de la esclavitud de la tradición, reconocer a un Dios supremo de la naturaleza y el mundo espiritual, ser liberados del miedo y obtener la seguridad de que sólo se requiere fe para recibir el don de la vida eterna. Ese evangelio original de fe y confianza en el único Dios siempre es relevante, y Jesús vino expandiendo la verdad. La gente de su época necesitaba especialmente experimentar el carácter personal de la relación de Dios con el individuo. Jesús reveló la personalidad del Padre y enseñó que somos hijos e hijas de Dios por fe. Demostró el gozo y la libertad de la filiación con Dios y los frutos espontáneos de vivir la verdad en la adoración incondicional de Dios y el servicio amoroso a la humanidad. Hoy necesitamos urgentemente darnos cuenta de que la relación de Dios con el individuo conlleva una profunda consecuencia espiritual; la hermandad de toda la humanidad.
 
-[Leer más](en/article/Jeff_Wattles/Evolución_del_evangelio)
+[Leer más](/en/article/Jeff_Wattles/Evolution_of_the_gospel)
 
 — _Jeffrey Wattles_
 _Concordia, California_

@@ -44,7 +44,7 @@ La experiencia del culto es una parte muy básica de la vida religiosa humana. L
 
 Es posible que no hayamos aplicado adecuada o plenamente las enseñanzas de _El Libro de URANTIA_ para comprender e interpretar el significado de estas experiencias. Un programa educativo podría ser útil en esta área. No es simplemente un programa formal dirigido a aquellos de nosotros que asistimos a un taller de verano; sino un hilo general de pensamiento y discusión que podría surgir de esto para penetrar en nuestros grupos de estudio y en «el movimiento» en su conjunto. La adoración debe ser el ámbito en el que adquirimos y compartimos el conocimiento y la experiencia de la hermandad humana al máximo, donde no estemos limitados, atados o influenciados de ninguna manera por diferencias de raza, credo o filosofía.
 
-### Crecimiento en tres áreas
+## Crecimiento en tres áreas
 
 La evolución de la práctica religiosa y el crecimiento concomitante de la conciencia espiritual en Urantia se ha caracterizado por el crecimiento en tres áreas relacionadas: el conocimiento teológico, el desarrollo de la personalidad y la receptividad espiritual. En las tradiciones de nuestro planeta, en las religiones de la evolución, incluso aquellas religiones que han sido informadas por una revelación de época, como Maquiventa Melquisedec o Miguel, han requerido que el prosélito sea instruido formalmente en la teología que subyace a las enseñanzas del religión antes de admitirlo en la plena comunión social y espiritual de la comunidad de creyentes.
 
@@ -78,15 +78,13 @@ Se nos dice que la adoración culmina con el surgimiento de la hermandad del hom
 
 Cuando verdaderamente adoramos no buscamos nada para nosotros mismos. Adoramos al Padre porque lo adoramos, y nuestra adoración nos hace más parecidos al Padre. Este proceso de evolución del yo es muy beneficioso para el individuo. También es muy beneficioso para el grupo. La práctica de la adoración dentro de cualquier grupo, como la Hermandad Urantia o cualquier porción del «movimiento Urantia», seguramente dará como resultado que ese grupo aprenda cada vez más a mostrar los frutos de la semejanza con Dios: fe, confianza, amor, servicio, armonía y , sobre todo, unidad, unidad espiritual, en todo lo que se emprende. Siempre adoraremos a Dios porque él es Dios, pero podemos saber que, cuando adoramos a Dios, los frutos de esa experiencia serán buenos.
 
-### Amaos unos a otros
+## Amaos unos a otros
 
 El mayor fruto que podemos obtener de esa experiencia es seguramente poder cumplir el mandamiento de Jesús a sus discípulos de que se amaran unos a otros como él los amó. Y prometió que este amor, esta armonía en el grupo, se relacionaría con su ministerio, que por esto «_...todos sabrán que sois mis discípulos._» ([LU 180:1.1](/es/The_Urantia_Book/180#p1_1)) Y luego Jesús dijo , «_Si tan sólo os amáis los unos a los otros como yo os amo, seréis mis amigos y siempre os hablaré de lo que el Padre me revela._» ([LU 180:1.3](/es/The_Urantia_Book/180#p1_3))
 
 La práctica de la adoración en grupo es una forma eficaz mediante la cual un grupo de mortales que creen en el Hijo y conocen a Dios eventualmente crecerán para exhibir la plenitud del amor, la armonía y la unidad de la verdadera amistad con Miguel.
 
-Tal experiencia es apropiada para todos los grupos de creyentes. Si proporcionamos una exposición más amplia y un debate sobre estas ideas entre los lectores de La Urantia
-
-Libro, podemos ayudar a nuestros compañeros a tener más confianza en la experiencia de adoración y brindarles una vía para su desarrollo hacia la expresión de los ideales de la hermandad humana, tanto dentro del «movimiento» como, particularmente, fuera del «movimiento».
+Tal experiencia es apropiada para todos los grupos de creyentes. Si proporcionamos una exposición más amplia y un debate sobre estas ideas entre los lectores de _El Libro de Urantia_, podemos ayudar a nuestros compañeros a tener más confianza en la experiencia de adoración y brindarles una vía para su desarrollo hacia la expresión de los ideales de la hermandad humana, tanto dentro del «movimiento» como, particularmente, fuera del «movimiento».
 
 Comencemos a tomar una iniciativa espiritual en nuestro trabajo juntos de dos maneras. El primero es muy desafiante y tiene beneficios aún mayores que el segundo.
 

@@ -66,7 +66,7 @@ _Farmington, Connecticut_
 
 Religion helps people deal with the spiritual difficulties of their times. Primitive people needed to be liberated from bondage to tradition, to recognize one supreme God of nature and the spiritual world, to be delivered from fear and to gain the assurance that faith alone is required in order to receive the gift of eternal life. That original gospel of faith and trust in the one God is always relevant, and Jesus came expanding the truth. The people of his day needed especially to experience the personal character of God's relationship with the individual. Jesus revealed the personality of the Father, and taught that we are the faith sons and daughters of God. He demonstrated the joy and liberty of sonship with God and the spontaneous fruits of living truth in wholehearted worship of God and loving service of humankind. Today we urgently need to realize that God's relation with the individual entails a profound spiritual consequence; the brotherhood of all humankind.
 
-[Read more](en/article/Jeff_Wattles/Evolution_of_the_gospel)
+[Read more](/en/article/Jeff_Wattles/Evolution_of_the_gospel)
 
 — _Jeffrey Wattles_
 _Concord, California_
