@@ -102,7 +102,7 @@ Y con el quinto, no sabemos qué investigaciones y técnicas se utilizaron para 
 
 ### Desarrollo temprano de los documentos de Urantia
 
-A principios del siglo XX, el Dr. William S. Sadler, un destacado médico y psiquiatra que ejercía en Chicago, se convirtió en el jefe reconocido del grupo conocido como la Comisión de Contacto, que recibió los mensajes e instrucciones de los reveladores que dieron como resultado El Libro de Urantia. _ La Comisión Reveladora funcionó a través de una personalidad de contacto humano cuya identidad permanecerá para siempre en la oscuridad. _«El hombre mortal es muy propenso a venerar, e incluso a deificar, a sus compatriotas extraordinarios y a sus superiores superhumanos.»_ <a id="a104_578"></a>[LU 114:3.1](/es/The_Urantia_Book/114#p3_1)
+A principios del siglo XX, el Dr. William S. Sadler, un destacado médico y psiquiatra que ejercía en Chicago, se convirtió en el jefe reconocido del grupo conocido como la Comisión de Contacto, que recibió los mensajes e instrucciones de los reveladores que dieron como resultado _El Libro de Urantia_. La Comisión Reveladora funcionó a través de una personalidad de contacto humano cuya identidad permanecerá para siempre en la oscuridad. _«El hombre mortal es muy propenso a venerar, e incluso a deificar, a sus compatriotas extraordinarios y a sus superiores superhumanos.»_ <a id="a104_578"></a>[LU 114:3.1](/es/The_Urantia_Book/114#p3_1)
 
 La Comisión de Contacto fueron los únicos seres humanos al tanto de los métodos utilizados para producir los documentos en inglés. Juraron no revelar detalles sobre las transacciones. _El Libro de Urantia_; por su carácter revelador, debía sostenerse por su propio mérito, naturaleza y contenido.
 

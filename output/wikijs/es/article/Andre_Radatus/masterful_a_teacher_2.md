@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _(Nota de la redacción: Este artículo se basa en una presentación dada en la Conferencia de la Asociación Urantia Internacional 2018 en los Países Bajos)_
 
-> _Todo el mundo conoce la futilidad de predicar sobre lo que es deseable, pero la impotencia general en esta situación es tan grande y la necesidad tan grave que preferimos repetir el viejo error en lugar de devanarnos los sesos con un problema subjetivo. Además, siempre se trata de tratar a un solo individuo y no a diez mil, en el que el problema tendría ostensiblemente resultados más impresionantes, aunque sabemos bastante bien que nada ha ocurrido a menos que el individuo cambie. _ 
+> _Todo el mundo conoce la futilidad de predicar sobre lo que es deseable, pero la impotencia general en esta situación es tan grande y la necesidad tan grave que preferimos repetir el viejo error en lugar de devanarnos los sesos con un problema subjetivo. Además, siempre se trata de tratar a un solo individuo y no a diez mil, en el que el problema tendría ostensiblemente resultados más impresionantes, aunque sabemos bastante bien que nada ha ocurrido a menos que el individuo cambie._ 
 
 > _El efecto sobre todos los individuos que nos gustaría ver materializado puede no establecerse en cientos de años, ya que la transformación espiritual de la humanidad sigue la lenta trayectoria de los siglos y no puede ser apresurada ni impuesta por ningún proceso racional de reflexión, por no hablar de llevarla a buen término en una generación._  -Carl Gustav Jung, _The Undiscovered Self_, 1958
 

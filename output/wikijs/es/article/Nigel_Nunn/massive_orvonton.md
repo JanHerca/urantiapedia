@@ -133,9 +133,17 @@ Lo que me gustaría proponer es que este emparejamiento de (**giro mínimo**) + 
 
 Para ayudar a romper el hielo con esta «**nueva teoría cosmológica**«, he aquí un punto simple que cambia los esquemas: como estudiantes de estos documentos, lo que estamos considerando **no** es la manera en que la gravedad (lineal) puede haber impulsado a que las galaxias giren durante unos simples 13.000 millones de años. Lo que estamos explorando es la historia que cuenta _El libro de Urantia_ sobre la manera en que 70 sectores mayores fueron «organizados según la fuerza» (puestos en su lugar) dentro de un manto de segregata centrado en el Paraíso inferior. Y que esto ha sucedido cientos de miles de millones antes de que empezara a formarse alguna espiral en los niveles del espacio exterior. Y que ese «gran universo» antiguo, central y relativamente pequeño necesita distinguirse de los sistemas mucho más jóvenes que podemos ver evolucionar en los niveles del espacio exterior de un «universo maestro» muchísimo más grande.
 
-Este es el tipo de cosas que exploro (de manera amistosa para un lector de _El libro de Urantia_) en ese vídeo, que se va a grabar en cuatro partes (1. Base, 2. Masa y materia, 3. Islas oscuras, 4. Vía Láctea). [Hagan clic aquí](https://youtu.be/ZerrvI4dLTQ) para ver la parte 1 (Base).
+Este es el tipo de cosas que exploro (de manera amistosa para un lector de _El libro de Urantia_) en ese vídeo, que se va a grabar en cuatro partes (1. Base, 2. Masa y materia, 3. Islas oscuras, 4. Vía Láctea). Hagan clic abajo para ver la parte 1 (Base).
 
-Las partes 4A y 4B están disponibles y pueden encontrarse aquí: [Clic aquí](https://youtu.be/ZerrvI4dLTQ)
+https://youtu.be/ZerrvI4dLTQ
+
+Las partes 4A y 4B están disponibles y pueden encontrarse aquí:
+
+https://www.youtube.com/watch?v=-ZurF1V81W8
+
+https://www.youtube.com/watch?v=AE0uUliBfis
+
+https://www.youtube.com/watch?v=q8nAUKE0-OM
 
 Si a alguien le gustaría ayudar a ajustar el contenido y la presentación de estos vídeos, ¡háganmelo saber!
 

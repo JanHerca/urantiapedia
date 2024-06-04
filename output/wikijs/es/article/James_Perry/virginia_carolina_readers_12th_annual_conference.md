@@ -47,7 +47,7 @@ Somos el comienzo de una larga lista de aprendices/líderes que están preparand
 
 Considera esto:
 
-> _ En algunos de los universos más antiguos encontramos mundos asentados en las etapas quinta y sexta de luz y vida (incluso muy extendidos hasta la séptima época) cuyos sistemas locales aún no están asentados en la luz. Los planetas más jóvenes pueden retrasar la unificación del sistema, pero esto no obstaculiza en lo más mínimo el progreso de un mundo más viejo y avanzado. Las limitaciones ambientales tampoco pueden, incluso en un mundo aislado, frustrar el logro personal del individuo mortal; Jesús de Nazaret, como hombre entre los hombres, alcanzó personalmente el estatus de luz y vida hace más de mil novecientos años en Urantia._ <a id="a49_644"></a>[[LU 55:11.7](/es/The_Urantia_Book/55#p11_7)]
+> _En algunos de los universos más antiguos encontramos mundos asentados en las etapas quinta y sexta de luz y vida (incluso muy extendidos hasta la séptima época) cuyos sistemas locales aún no están asentados en la luz. Los planetas más jóvenes pueden retrasar la unificación del sistema, pero esto no obstaculiza en lo más mínimo el progreso de un mundo más viejo y avanzado. Las limitaciones ambientales tampoco pueden, incluso en un mundo aislado, frustrar el logro personal del individuo mortal; Jesús de Nazaret, como hombre entre los hombres, alcanzó personalmente el estatus de luz y vida hace más de mil novecientos años en Urantia._ <a id="a49_644"></a>[[LU 55:11.7](/es/The_Urantia_Book/55#p11_7)]
 
 Mi opinión sobre esto es que aunque nuestro mundo en su conjunto pueda estar retrasado, nosotros, como individuos que elegimos hacer la voluntad del Padre, no somos penalizados por la masa de la humanidad que elige no hacer la voluntad del Padre.
 

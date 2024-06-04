@@ -236,7 +236,7 @@ El humilde acto de estudiar _El libro de Urantia_ es una empresa noble. Es noble
 
 Aludo a la reciprocidad amorosa de la Supremacía, tal como la explica un Mensajero Poderoso:
 
-> En la era actual del universo, este doble movimiento se revela en las personalidades descendentes y ascendentes del gran universo. Las Personalidades Creadoras Supremas y todos sus asociados divinos reflejan el movimiento hacia el exterior y divergente del Supremo, mientras que los peregrinos ascendentes de los siete superuniversos indican la tendencia hacia el interior y convergente de la Supremacía. <a id="a238_407"></a>[[LU [LU 115:6.5](/es/The_Urantia_Book/115#p6_5)](/es/The_Urantia_Book/115#p6_5)]
+> En la era actual del universo, este doble movimiento se revela en las personalidades descendentes y ascendentes del gran universo. Las Personalidades Creadoras Supremas y todos sus asociados divinos reflejan el movimiento hacia el exterior y divergente del Supremo, mientras que los peregrinos ascendentes de los siete superuniversos indican la tendencia hacia el interior y convergente de la Supremacía. <a id="a238_407"></a>[[LU 115:6.5](/es/The_Urantia_Book/115#p6_5)]
 
 Además de todo esto, nos beneficiamos ahora mismo como hijos del Padre Universal (verdaderos hermanos y hermanas) que saborean en el tiempo la verdad, belleza y bondad de los significados eternos.
 

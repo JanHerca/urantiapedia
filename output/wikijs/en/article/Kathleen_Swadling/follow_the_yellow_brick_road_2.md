@@ -64,7 +64,7 @@ This decision marks your entry into the Kingdom of Heaven – you’ve stepped o
 
 > **_Believing the gospel will not prevent getting into trouble_**_, but it will insure that you shall be unafraid when trouble does overtake you. If you dare to believe in me and wholeheartedly proceed to follow after me, you shall most certainly by so doing enter upon the sure pathway to trouble. I do not promise to deliver you from the waters of adversity, but I do promise to go with you through all of them._ <a id="a64_416"></a>[[UB 159:3.13](/en/The_Urantia_Book/159#p3_13)] emphasis added
 
-So if ever you feel you are being taunted by someone who likes to argue about religionists having “blind faith,” read this passage again. We need to embark on this journey with our eyes wide open and with very much courage in our hearts. These enlightened spiritual teachings are not for the faint hearted. (I recommend you all read this paper again and again. It’s loaded with Jesus’ teachings—[Paper 159](/en/article/The_Urantia_Book/159))
+So if ever you feel you are being taunted by someone who likes to argue about religionists having “blind faith,” read this passage again. We need to embark on this journey with our eyes wide open and with very much courage in our hearts. These enlightened spiritual teachings are not for the faint hearted. (I recommend you all read this paper again and again. It’s loaded with Jesus’ teachings—[Paper 159](/en/The_Urantia_Book/159))
 
 Once you’re certain about your faith you inevitably allow your indwelling adjuster more scope in your heart and mind to lead you along the way. You learn to trust in those inner leadings and you become daring enough to make any adjustments necessary to stay the course.
 

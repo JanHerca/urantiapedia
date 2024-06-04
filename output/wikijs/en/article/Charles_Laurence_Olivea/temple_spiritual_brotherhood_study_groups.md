@@ -235,7 +235,7 @@ The humble act of studying _The Urantia Book_ is a noble endeavor. It is noble w
 
 I allude to the loving reciprocity of Supremacy as explained by a Mighty Messenger:
 
-> _In the present universe age this dual motion is revealed in the descending and ascending personalities of the grand universe. The Supreme Creator Personalities and all their divine associates are reflective of the outward, diverging motion of the Supreme, while the ascending pilgrims from the seven superuniverses are indicative of the inward, converging trend of Supremacy._ <a id="a240_381"></a>[[UB [UB 115:6.5](/en/The_Urantia_Book/115#p6_5)](/en/The_Urantia_Book/115#p6_5)]
+> _In the present universe age this dual motion is revealed in the descending and ascending personalities of the grand universe. The Supreme Creator Personalities and all their divine associates are reflective of the outward, diverging motion of the Supreme, while the ascending pilgrims from the seven superuniverses are indicative of the inward, converging trend of Supremacy._ <a id="a240_381"></a>[[UB 115:6.5](/en/The_Urantia_Book/115#p6_5)]
 
 In addition to all of this, we benefit right now as children of the Universal Father—true brothers and sisters—foretasting in time the truth, beauty, and goodness of eternal meanings.
 

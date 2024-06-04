@@ -153,10 +153,6 @@ Now that the revelators have enormously enhanced the truth available to humanity
   </table>
 </figure>
 
-## Notes
-
-[^1]: Composed in 1741, but first performed in 1742.
-
 > **Note:** This article, “The Hallelujah Aftermath,” is excerpted from “Comparing and contrasting the true teach­ings of Jesus with the traditional tenets and practices of organized, institutional Chris­tianity,” topic 8 of a book-length document by Neal Waldrop called _Revelation Revealed: Twelve Topics to Analyze and Appraise_. This innovative text is intended to stimulate and foster active and interactive discussion among readers of _The Urantia Book_. You can download it in full from [www.globalendeavor.net](http://www.globalendeavor.net/), the modest website of the Committee for the Global Endeavor.
 {.is-info}
 
@@ -168,3 +164,8 @@ Neal Waldrop
 
 _\[**Editor’s Note**: This is an abridged and edited version of Neal Waldrop’s article: “The Hallelujah Aftermath.” The full original and unedited version can also be viewed in PDF format at: [Hallelujah Aftermath,Neal Waldrop, complete pdf](https://urantia-association.org/wp-content/uploads/2017/06/Hallelujah-Aftermath-Neal-Waldrop-complete.pdf)\]_
 
+<br style="clear:both;"/>
+
+## Notes
+
+[^1]: Composed in 1741, but first performed in 1742.

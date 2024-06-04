@@ -134,7 +134,15 @@ To help break the ice with this “**new cosmological theory,**” here’s a si
 
 These are the sort of things I explore (in a Urantia Book-reader-friendly way!) in that video, being recorded in four parts (4A: Foundations, 4B: Mass & Matter, 4C: Dark Islands, 4D: Milky Way).
 
-Parts 4A and 4B are ready, and can be found here: [Click here](https://youtu.be/ZerrvI4dLTQ)
+https://youtu.be/ZerrvI4dLTQ
+
+Parts 4A and 4B are ready, and can be found here:
+
+https://www.youtube.com/watch?v=-ZurF1V81W8
+
+https://www.youtube.com/watch?v=AE0uUliBfis
+
+https://www.youtube.com/watch?v=q8nAUKE0-OM
 
 If anyone would like to help adjust the content and presentation in these videos, please let me know!
 

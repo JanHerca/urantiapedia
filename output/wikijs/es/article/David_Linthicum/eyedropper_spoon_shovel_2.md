@@ -140,7 +140,9 @@ Y de ese amigo que mencioné anteriormente, lo que no conseguí entender entonce
 
 El que tenga oídos para oír, que oiga…
 
-_(Ver este [vídeo de YouTube](https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQYC6XW8Ev1cve2ziCGl7HVidW_cqs_gu&index=3) para la presentación en vivo de David de este artículo realizada en la conferencia internacional de 2018 en los Países Bajos.)_
+_(Ver este vídeo de YouTube para la presentación en vivo de David de este artículo realizada en la conferencia internacional de 2018 en los Países Bajos.)_
+
+https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQYC6XW8Ev1cve2ziCGl7HVidW_cqs_gu&index=3
 
 ## Referencias
 

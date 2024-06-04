@@ -54,7 +54,7 @@ Charles aborda la naturaleza y la importancia morontial de los grupos de estudio
 
 El segundo artículo es _Las repercusiones del Aleluya,_ de Neal Waldrup.  Es una melodiosa interpretación de _El Mesías_ de George Frideric Handel  [^1] y su lírica comparación de textos con _El libro de Urantia_:
 
-> _«¡Aleluya! Dios era omnipotente y ya reina, Y el mundo en gloria viene a hacer el reino del Señor, ya reina aqui Cristo el Señor; Y reinara por siempre y siempre, Eterno rey; y al Señor, eterno rey.» _ 
+> _«¡Aleluya! Dios era omnipotente y ya reina, Y el mundo en gloria viene a hacer el reino del Señor, ya reina aqui Cristo el Señor; Y reinara por siempre y siempre, Eterno rey; y al Señor, eterno rey.»_ 
 
 En el documento titulado _Los Hijos Creadores Paradisíacos_ (documento 21), un Perfeccionador de la Sabiduría duplica la expresión «Rey de Reyes y Señor de Señores».
 

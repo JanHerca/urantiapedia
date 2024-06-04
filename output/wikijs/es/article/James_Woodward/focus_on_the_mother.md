@@ -47,7 +47,7 @@ El aspecto más singular de la reunión, que no puede repetirse, fue la particip
 
 > _Lo que vieron Pedro, Santiago y Juan en el monte de la transfiguración fue un momento fugaz del espectáculo celestial que tuvo lugar aquel memorable día en el monte Hermón. La transfiguración puso de manifiesto lo siguiente:_
 > 
-> _ 1. La aprobación por parte del Hijo-Madre Eterno del Paraíso de la plenitud del otorgamiento de la vida encarnada de Miguel en Urantia. Jesús recibió entonces la garantía de haber cumplido los requisitos del Hijo Eterno, y Gabriel trajo a Jesús esa garantía._
+> _1. La aprobación por parte del Hijo-Madre Eterno del Paraíso de la plenitud del otorgamiento de la vida encarnada de Miguel en Urantia. Jesús recibió entonces la garantía de haber cumplido los requisitos del Hijo Eterno, y Gabriel trajo a Jesús esa garantía._
 > 
 > _2. El testimonio de la satisfacción del Espíritu Infinito en cuanto a la plenitud del otorgamiento en Urantia a semejanza de carne mortal. La representante del Espíritu Infinito en el universo, compañera directa y colaboradora permanente de Miguel en Salvington, habló en esta ocasión a través del Padre Melquisedec._ <a id="a51_321"></a>[LU 158:3.1-3](/es/The_Urantia_Book/158#p3_1)
 

@@ -48,7 +48,7 @@ Cependant à l’intérieur, à la foire du livre, tout, y compris notre stand, 
 
 Le dimanche soir avant la foire, qui commençait le lundi, tout était prêt.
 
-Ce que j’ai aimé le plus, c’était notre équipe. Une fois de plus j’ai vu et vécu ce à quoi les fruits, de l’exposition à long terme avec la guidance spirituelle, ressemblent. C’était un plaisir de sentir l’amour de tous les membres de l’équipe. C’était comme si nous faisions l’expérience d’un aperçu de l’âge de lumière et de vie. J’ai senti la présence du Maître et me rappelais que « à où deux ou trois croyants sont réunis, je suis là au milieu d’eux. » (1762.5) 159:1.3
+Ce que j’ai aimé le plus, c’était notre équipe. Une fois de plus j’ai vu et vécu ce à quoi les fruits, de l’exposition à long terme avec la guidance spirituelle, ressemblent. C’était un plaisir de sentir l’amour de tous les membres de l’équipe. C’était comme si nous faisions l’expérience d’un aperçu de l’âge de lumière et de vie. J’ai senti la présence du Maître et me rappelais que « à où deux ou trois croyants sont réunis, je suis là au milieu d’eux. » [LU 159:1.3](/fr/The_Urantia_Book/159#p1_3)
 
 Nos interactions avec les visiteurs à notre stand furent très intéressantes. Nous avions un grand bol de vitamines spirituelles, qui s’est avéré être un grand brise-glace. Un vieux monsieur en a même pris une poignée et s’apprêtait à les mettre dans sa bouche, quand nous l’avons arrêté. Combien il avait faim de la parole divine !
 

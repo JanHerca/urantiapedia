@@ -44,7 +44,7 @@ Aunque las encuestas de opinión raramente consideran estos asuntos, es muy posi
 <img src="/image/article/IUA_Journal/Choir2-300x275.jpg">
 </figure>
 
-> _¡Aleluya!
+> _¡Aleluya!_
 > _Dios era omnipotente y ya reina,_
 > _Y el mundo en gloria_
 > _viene a hacer_
@@ -158,10 +158,6 @@ Ahora que los reveladores han realzado enormemente la verdad disponible para la 
   </table>
 </figure>
 
-## Notes
-
-[^1]: Compuesto en 1741 pero interpretado por primera vez en 1742.
-
 > **Nota:** Este artículo, «Las consecuencias del Aleluya», está extraído de «Comparación y contraste de las verdaderas enseñanzas de Jesús con los principios y prácticas tradicionales del cristianismo institucional organizado», tema 8 de un documento de tamaño libro escrito por Neal. Waldrop llamó _Revelación revelada: doce temas para analizar y valorar_. Este texto innovador pretende estimular y fomentar el debate activo e interactivo entre los lectores de _El libro de Urantia_. Puede descargarlo completo desde [www.globalendeavor.net](http://www.globalendeavor.net/), el modesto sitio web del Comité para el Esfuerzo Global.
 {.is-info}
 
@@ -173,3 +169,8 @@ Neal Waldrop
 
 _\[**Nota del editor**: Esta es una versión abreviada y editada del artículo de Neal Waldrop: «The Hallelujah Aftermath». La versión completa original y sin editar también se puede ver en formato PDF en: [Hallelujah Aftermath,Neal Waldrop, complete pdf](https://urantia-association.org/wp-content/uploads/2017/06/Hallelujah-Aftermath-Neal-Waldrop-complete.pdf)\]_
 
+<br style="clear:both;"/>
+
+## Notes
+
+[^1]: Compuesto en 1741 pero interpretado por primera vez en 1742.

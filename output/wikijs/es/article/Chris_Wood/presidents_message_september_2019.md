@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Chris-Wood-mic2-280x400.jpg">
 </figure>
 
-_Las personas religiosas, como grupo, nunca deben ocuparse de otra cosa que no sea de religión, aunque cada una de estas personas, como ciudadano individual, puede convertirse en el dirigente destacado de algún movimiento de reconstrucción social, económica o política. _ <a id="a41_272"></a>[[LU 99:3.15](/es/The_Urantia_Book/99#p3_15)]
+_Las personas religiosas, como grupo, nunca deben ocuparse de otra cosa que no sea de religión, aunque cada una de estas personas, como ciudadano individual, puede convertirse en el dirigente destacado de algún movimiento de reconstrucción social, económica o política._ <a id="a41_272"></a>[[LU 99:3.15](/es/The_Urantia_Book/99#p3_15)]
 
 _La civilización cultural está influida indirectamente por la actitud de estas personas religiosas individuales a medida que se convierten en miembros activos e influyentes de los diversos grupos sociales, morales, económicos y políticos._ <a id="a43_240"></a>[[LU 99:3.3](/es/The_Urantia_Book/99#p3_3)]
 

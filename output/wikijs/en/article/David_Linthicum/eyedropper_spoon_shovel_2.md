@@ -137,7 +137,9 @@ And that friend I mentioned earlier, what I failed to realize was that he was al
 
 For those with an ear, let him hear….
 
-_(See this [YouTube video](https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQYC6XW8Ev1cve2ziCGl7HVidW_cqs_gu&index=3) for David’s live presentation of this article given at the 2018 International conference in the Netherlands.)_
+_(See this YouTube video for David’s live presentation of this article given at the 2018 International conference in the Netherlands.)_
+
+https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQYC6XW8Ev1cve2ziCGl7HVidW_cqs_gu&index=3
 
 ## References
 
