@@ -253,6 +253,34 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 </figure>
 ```
 
+## Emojis
+
+- The Urantia Book :blue_book:
+- The Bible :closed_book:
+- The Biblical Apocrypha :green_book:
+- Sacred books of other religions :orange_book:
+- Scientific and philosophical books :books:
+- Articles :page_with_curl:
+- Study Aids :notebook:
+- Books from readers :notebook_with_decorative_cover:
+- Schemas :memo:
+- Indexes :capital_abcd:
+- Paramony :ledger:
+- Topical Encyclopedia :card_index:
+- Audio :sound:
+- Images :sunrise_over_mountains:
+- Maps (static) :globe_with_meridians:
+- Maps (dynamic) :earth_americas:
+- Presentations :bar_chart:
+- 3D models :milky_way:
+- Video :movie_camera:
+- Help :grey_question:
+- Authors :woman_technologist:
+- News :newspaper:
+- Legal info :copyright:
+- Colaboration :blue_heart:
+- Statistics :chart_with_upwards_trend:
+
 ## LaTeX to Markdown
 
 \\par |\n

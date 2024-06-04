@@ -60,7 +60,7 @@ La tabla siguiente resume el progreso actual:
 
 <div class="urantiapedia-table-wrapper">
 
-| Idioma     | :ledger:           | :card_index:        | :closed_book:        | :blue_book:        | :sound:            | :sunrise_over_mountains: |sp; |
+| Idioma     | :ledger:           | :card_index:        | :closed_book:        | :blue_book:        | :sound:            | :sunrise_over_mountains: |
 | ---------- | :----------------: | :-----------------: | :------------------: | :----------------: | :----------------: | :----------------------: |
 | Búlgaro    | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
 | Checo      | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
@@ -154,10 +154,10 @@ La siguiente tabla no está completa. Hay más sitios web que estamos consideran
 | - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | - Study Group Herald         | 129        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - The Urantian               | 264        | :heavy_check_mark: |                    |                    |
+| - The Urantian               | 264        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | IUA                          |            |                    |                    |                    |
-| - Journal                    |  99        | :heavy_check_mark: |                    |                    |
-| - Tidings                    | 364        | :heavy_check_mark: |                    |                    |
+| - Journal                    |  99        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Tidings                    | 364        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spiritual Fellowship Journal | 400        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spain Association            |            |                    |                    |                    |

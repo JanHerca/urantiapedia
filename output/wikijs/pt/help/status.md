@@ -154,10 +154,10 @@ A tabela abaixo não está completa. Existem mais sites que estamos considerando
 | - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | - Study Group Herald         | 129        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - The Urantian               | 264        | :heavy_check_mark: |                    |                    |
+| - The Urantian               | 264        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | IUA                          |            |                    |                    |                    |
-| - Journal                    |  99        | :heavy_check_mark: |                    |                    |
-| - Tidings                    | 364        | :heavy_check_mark: |                    |                    |
+| - Journal                    |  99        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Tidings                    | 364        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spiritual Fellowship Journal | 400        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spain Association            |            |                    |                    |                    |
