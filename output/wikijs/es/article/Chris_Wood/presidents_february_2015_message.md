@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Compañeros estudiantes de _El libro de Urantia_, quiero darles novedades ilusionantes sobre cuatro de los numerosos proyectos que la Asociación Urantia Internacional tiene en marcha.
 
-En diciembre, hicimos un llamamiento para recibir donaciones que ayudaran a enviar libros a Zambia y Malawi, dos países del sur de África con comunidades crecientes de lectores. Gracias a muchos donantes generosos y a nuestro fondo de “siembra” dedicado a tal fin, 200 ejemplares de _El libro de Urantia_ van a cruzar el Atlántico y probablemente llegarán antes de primavera.
+En diciembre, hicimos un llamamiento para recibir donaciones que ayudaran a enviar libros a Zambia y Malawi, dos países del sur de África con comunidades crecientes de lectores. Gracias a muchos donantes generosos y a nuestro fondo de «siembra» dedicado a tal fin, 200 ejemplares de _El libro de Urantia_ van a cruzar el Atlántico y probablemente llegarán antes de primavera.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Photo0855-150x150.jpg">

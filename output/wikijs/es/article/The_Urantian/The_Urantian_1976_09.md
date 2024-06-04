@@ -32,15 +32,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> «_...La actitud de servir desinteresadamente a los hombres y de adorar a Dios de manera inteligente debería hacer que todos los creyentes en el reino sean mejores ciudadanos del mundo, mientras que la actitud de ser un ciudadano honrado y de consagrarse sinceramente a sus deberes temporales debería ayudar a ese ciudadano a ser más receptivo a la llamada espiritual de la filiación en el reino celestial._» ([LU 178:1.8](/es/The_Urantia_Book/178#p1_8))
+> «_...La actitud de servir desinteresadamente a los hombres y de adorar a Dios de manera inteligente debería hacer que todos los creyentes en el reino sean mejores ciudadanos del mundo, mientras que la actitud de ser un ciudadano honrado y de consagrarse sinceramente a sus deberes temporales debería ayudar a ese ciudadano a ser más receptivo a la llamada espiritual de la filiación en el reino celestial._» (<a id="a34_411"></a>[LU 178:1.8](/es/The_Urantia_Book/178#p1_8))
 
 ## Algunas reflexiones sobre el servicio
 
 Érase una vez, según un antiguo mito, algunos dioses decidieron visitar la tierra, de incógnito, para participar en un gran festival. Disfrazados de humanos, se mezclaban sin llamar la atención hasta sentarse a la mesa. Allí, en el banquete, los dioses «revelaron su tapadera». Mientras los hombres se atiborraban con glotonería, se observaba que los dioses se metían unos a otros los bocados más deliciosos, acción nada habitual entre los mortales.
 
-Compartir es divino. Compartir es uno de los patrones eternos de Dios. Además, _El Libro de URANTIA_ nos dice: «_Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios..._» ([LU 111:5.1](/es/The_Urantia_Book/111#p5_1)), para invitar al Creador para participar en nuestra vida creativa.
+Compartir es divino. Compartir es uno de los patrones eternos de Dios. Además, _El Libro de URANTIA_ nos dice: «_Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios..._» (<a id="a40_262"></a>[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)), para invitar al Creador para participar en nuestra vida creativa.
 
-¿Cuál es la vida ideal? Uno de amoroso servicio-servicio a Dios y servicio al hombre, el uno inseparable del otro. Dios comparte de sí mismo conmigo, y puedo elegir responder a este regalo de amor viviendo de la manera sugerida en [LU 110:3.6](/es/The_Urantia_Book/110#p3_6) de _El Libro de URANTIA_, y tan bellamente demostrada por el Maestro.
+¿Cuál es la vida ideal? Uno de amoroso servicio-servicio a Dios y servicio al hombre, el uno inseparable del otro. Dios comparte de sí mismo conmigo, y puedo elegir responder a este regalo de amor viviendo de la manera sugerida en <a id="a42_231"></a>[LU 110:3.6](/es/The_Urantia_Book/110#p3_6) de _El Libro de URANTIA_, y tan bellamente demostrada por el Maestro.
 
 [Leer más](/es/article/Marjorie_Reed/Some_Thoughts_On_Service)
 
@@ -68,9 +68,9 @@ Ahora, después de un tiempo y de algunos ajustes de pensamiento, creo que la pr
 
 —_Michael Pintor_
 
-> «_...El amor es la manifestación exterior del impulso de vida interior y divino. Está basado en la comprensión, alimentado por el servicio desinteresado y perfeccionado con la sabiduría._» ([LU 174:1.5](/es/The_Urantia_Book/174#p1_5))
+> «_...El amor es la manifestación exterior del impulso de vida interior y divino. Está basado en la comprensión, alimentado por el servicio desinteresado y perfeccionado con la sabiduría._» (<a id="a70_192"></a>[LU 174:1.5](/es/The_Urantia_Book/174#p1_5))
 
-> «_...la fraternidad y el servicio son las piedras angulares del evangelio del reino._» ([LU 178:1.4](/es/The_Urantia_Book/178#p1_4))
+> «_...la fraternidad y el servicio son las piedras angulares del evangelio del reino._» (<a id="a72_90"></a>[LU 178:1.4](/es/The_Urantia_Book/178#p1_4))
 
 ## Los guijarros que se frotan
 
@@ -108,7 +108,7 @@ Nuestro grupo introductorio está abierto a cualquiera que desee discutir _El Li
 
 > «_... El privilegio del servicio sigue inmediatamente al descubrimiento de la confiabilidad. »_
 > 
-> «_El servicio —más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto— es la meta del tiempo y el destino del espacio._» ([LU 28:6.17-18](/es/The_Urantia_Book/28#p6_17)).
+> «_El servicio —más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto— es la meta del tiempo y el destino del espacio._» (<a id="a110_183"></a>[LU 28:6.17-18](/es/The_Urantia_Book/28#p6_17)).
 
 
 

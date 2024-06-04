@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Larry_Mullins/Invisible_Loving_Human_Forces">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Fuerzas humanas invisibles y amorosas”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Fuerzas humanas invisibles y amorosas»</span>
         </a>
         </td>
         <td>
@@ -45,7 +45,7 @@ Cuando un poeta y un científico combinan fuerzas de una manera perspicaz e ilus
       <tr>
         <td>
         <a href="/es/article/Larry_Mullins/Invisible_Loving_Human_Forces">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Fuerzas humanas invisibles y amorosas”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Fuerzas humanas invisibles y amorosas»</span>
         </a>
         </td>
         <td>

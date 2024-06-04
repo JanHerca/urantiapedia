@@ -182,7 +182,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- b. Rut nace el 17 de abril.
 		- c. Formula la primera oración familiar.
 		- d. Pensamientos muy confusos.
-		- e. Encuentra “Hijo del Hombre” en el Libro de Enoc.
+		- e. Encuentra «Hijo del Hombre» en el Libro de Enoc.
 		- f. Reflexiona sobre cómo será su misión.
 		- g. Su madre está cada vez más alarmada.
 	- Sec. 4. El primer sermón en la sinagoga. No está en el Nuevo Testamento.
@@ -213,7 +213,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- b. Lleva a Santiago a la Pascua.
 		- c. La celebran en Betania. Simón de Betania muere.
 		- d. Santiago es recibido en la comunidad.
-		- e. “Mi hora aún no ha llegado.”
+		- e. «Mi hora aún no ha llegado.»
 		- f. Vuelve a la vieja tienda de reparaciones de la familia.
 		- g. Lee en la sinagoga.
 		- h. Elizabeth y Juan visitan Nazaret.
@@ -290,7 +290,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- e. Vive y trabaja en Betsaida.
 		- f. Toda la familia admira a Jesús.
 		- g. Envía dinero a casa.
-		- h. Inscrito como “artesano especializado.”
+		- h. Inscrito como «artesano especializado.»
 		- i. Disfruta de la biblioteca de la sinagoga.
 		- j. Dirige reuniones en casa y en la tienda.
 	- Sec. 2. El vigesimoctavo año (22 d.C.). No está en el Nuevo Testamento.
@@ -365,7 +365,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Sec. 7. Sintoísmo.
 	- Sec. 8. Taoísmo.
 	- Sec. 9. Confucianismo.
-	- Sec.10. “Nuestra religión.”
+	- Sec.10. «Nuestra religión.»
 - **DOCUMENTO 132**. **La estadía en Roma**.
 	- Intro. No está en el Nuevo Testamento.
 		- a. Se reúne con líderes de los estoicos, los cínicos y los mitraístas.
@@ -493,7 +493,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Sec. 8. Encuentro de Jesús y Juan. [Mt 3:13-17](/es/Bible/Matthew/3#v13). [Mc 1:9-11](/es/Bible/Mark/1#v9). [Lc 3:21-22](/es/Bible/Luke/3#v21).
 		- a. Juan llega a Pella en diciembre del 25 d.C.
 		- b. Santiago, Juan y Judá planean ver a Juan.
-		- c. Justo antes del mediodía del domingo 13 de enero del 26 d.C., Jesús deja sus herramientas y dice: “Ha llegado mi hora.”
+		- c. Justo antes del mediodía del domingo 13 de enero del 26 d.C., Jesús deja sus herramientas y dice: «Ha llegado mi hora.»
 		- d. Al día siguiente se presenta para bautizarse al mediodía del 14 de enero del 26 d.C.
 		- e. Juan le cuenta la visita de Gabriel a su madre.
 	- Sec. 9. Los cuarenta días de predicación.
@@ -644,7 +644,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- El mensaje del reino.
 	- Sec. 2. La ordenación. No está en el Nuevo Testamento.
 	- Sec. 3. El sermón de la ordenación. (Sermón de la montaña) Mat. Capítulos 5-7.
-		- [Lc 6:20-49](/es/Bible/Luke/6#v20). El llamado “Sermón de la montaña” no es el evangelio de Jesús.
+		- [Lc 6:20-49](/es/Bible/Luke/6#v20). El llamado «Sermón de la montaña» no es el evangelio de Jesús.
 	- Sec. 4. Vosotros sois la sal de la tierra.
 		- a. Vosotros sois la luz del mundo.
 		- b. Por sus frutos los conoceréis.
@@ -659,7 +659,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- a. Tomás pide una prórroga.
 		- b. Empiezan a reunirse multitudes.
 		- c. El evangelio.
-		- d. Pedro y Santiago: “Estamos listos.”
+		- d. Pedro y Santiago: «Estamos listos.»
 	- Sec. 8. El jueves por la tarde en el lago. No está en el Nuevo Testamento.
 		- Lo que cada apóstol ganó de las siguientes conversaciones:
 		- a. Hacer la voluntad del Padre.
@@ -879,7 +879,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- Las conversiones alarman a los líderes.
 	- Sec. 4. El progreso de la gira de predicación. No está en el Nuevo Testamento.
 	- Sec. 5. La lección sobre el contentamiento. No está en el Nuevo Testamento.
-	- Sec. 6. El “temor al Señor”. No está en el Nuevo Testamento.
+	- Sec. 6. El «temor al Señor». No está en el Nuevo Testamento.
 	- Sec. 7. El retorno a Betsaida. No está en el Nuevo Testamento.
 - **DOCUMENTO 150**. **La tercera gira de predicación**.
 	- Intro. [Mt 9:35](/es/Bible/Matthew/9#v35). [Mc 6:6](/es/Bible/Mark/6#v6).
@@ -1119,7 +1119,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ### XI. LA ÚLTIMA VISITA A JERUSALÉN
 
 - **DOCUMENTO 171**. **Camino a Jerusalén**.
-	- Intro. Comentarios sobre "el reino del cielo”.
+	- Intro. Comentarios sobre «el reino del cielo».
 		- La ambición de Santiago y Juan. [Mt 20:20-28](/es/Bible/Matthew/20#v20). [Mc 10:35-45](/es/Bible/Mark/10#v35).
 	- Sec. 1. La partida de Pella. No está en el Nuevo Testamento.
 	- Sec. 2. Sobre cómo calcular el gasto. [Lc 14:25-35](/es/Bible/Luke/14#v25).
@@ -1129,7 +1129,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- b. Aviso contra Herodes. [Lc 13:31-35](/es/Bible/Luke/13#v31).
 	- Sec. 5. El ciego en Jericó. [Mt 20:29-34](/es/Bible/Matthew/20#v29). [Mc 10:46-52](/es/Bible/Mark/10#v46). [Lc 18:35-43](/es/Bible/Luke/18#v35).
 	- Sec. 6. La visita a Zaqueo. [Lc 19:1-10](/es/Bible/Luke/19#v1).
-	- Sec. 7. “Al pasar Jesús”. No está en el Nuevo Testamento.
+	- Sec. 7. «Al pasar Jesús». No está en el Nuevo Testamento.
 	- Sec. 8. La parábola de las minas. [Lc 19:11-28](/es/Bible/Luke/19#v11).
 - **DOCUMENTO 172**. **La entrada a Jerusalén**.
 	- Intro. No está en el Nuevo Testamento.
@@ -1144,7 +1144,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Sec. 2. El desafío a la autoridad del Maestro. [Mt 21:23-27](/es/Bible/Matthew/21#v23). [Mc 11:27-33](/es/Bible/Mark/11#v27). [Lc 20:1-8](/es/Bible/Luke/20#v1). El bautismo de Juan.
 	- Sec. 3. La parábola de los dos hijos. [Mt 21:28-32](/es/Bible/Matthew/21#v28).
 	- Sec. 4. La parábola del amo ausente. [Mt 21:33-46](/es/Bible/Matthew/21#v33). [Mc 12:1-12](/es/Bible/Mark/12#v1). [Lc 20:9-19](/es/Bible/Luke/20#v9).
-	- Sec. 5. La parábola del festín de boda. [Mt 22:1-14](/es/Bible/Matthew/22#v1). “Destruid este templo” (su cuerpo). [Jn 2:18-22](/es/Bible/John/2#v18).
+	- Sec. 5. La parábola del festín de boda. [Mt 22:1-14](/es/Bible/Matthew/22#v1). «Destruid este templo» (su cuerpo). [Jn 2:18-22](/es/Bible/John/2#v18).
 - **DOCUMENTO 174**. **Martes por la mañana en el templo**.
 	- Intro. Saludos individuales. No está en el Nuevo Testamento.
 	- Sec. 1. El perdón divino. No está en el Nuevo Testamento.
@@ -1476,7 +1476,7 @@ A los cinco años, Jesús limpia estanques de agua. En sábado, hace 12 gorrione
 
 Jesús da unas palmadas y los gorriones se alejan volando. El hijo de Anás agita el estanque y Jesús hace que se marchite. Un niño choca con Jesús —lo enoja—y cae muerto. Los padres se quejan y se quedan ciegos.
 
-El primer día de escuela, Jesús conoce sus letras de alfa a omega. El maestro le pide a José que se lleve a Jesús—diciendo: “busqué a un discípulo y encontré a un maestro.”
+El primer día de escuela, Jesús conoce sus letras de alfa a omega. El maestro le pide a José que se lleve a Jesús—diciendo: «busqué a un discípulo y encontré a un maestro.»
 
 Jesús maldice a sus compañeros y luego los cura. Al jugar con niños en el tejado, uno cae y muere. Jesús lo revive. Un hombre joven pierde el pie con un hacha—Jesús le devuelve el pie. Siembra grano y cosecha cien medidas de una sola vez.
 
@@ -1542,7 +1542,7 @@ Jesús desciende al infierno. Planta su cruz. Libera a Adán y Eva y a todos los
 
 Pilato va ante Anás y confiesa que crucificó al Hijo de Dios. Pilato escribe una confesión al emperador Claudio.
 
-**Appendice**. Unos hombres sabios vieron una cruz y dijeron: “Este es el Hijo de Dios.” Jesús revive un gallo muerto para que siguiera a Judas y lo avisara. El gallo avisó, y Jesús lo envió a volar durante mil años.
+**Appendice**. Unos hombres sabios vieron una cruz y dijeron: «Este es el Hijo de Dios.» Jesús revive un gallo muerto para que siguiera a Judas y lo avisara. El gallo avisó, y Jesús lo envió a volar durante mil años.
 
 El césar, al oír sobre la crucifixión de Jesús, ordena que Pilato sea llevado ante él como prisionero. Ordena que le corten la cabeza. Un ángel muestra la cabeza a su esposa, Procla. Ella cae muerta. El emperador cayó enfermo y mandó a por Jesús—al conocer que Pilato lo había crucificado, ordena la muerte de Pilato. Tiberio tenía fiebre, úlceras y nueve tipos de lepra. Supo de Jesús por Verónica.
 
@@ -1644,11 +1644,11 @@ Agripa ordena que Pedro sea crucificado. Pedro pidió ser crucificado boca abajo
 5. 
 Andrés cura a un ciego. Resucita a un muchacho egipcio de entre los muertos. Una madre buscaba tener relaciones sexuales con su hijo. El joven buscó la ayuda de Andrés. La madre acusó falsamente a su hijo. El muchacho es encarcelando junto con Andrés. Un terremoto los libera y hiere a muchos—Andrés los cura a todos. Muchos son bautizados. Expulsa a un demonio. Resucita a un hombre al que mataron siete perros. Calma una tormenta rugiente.
 
-Hace la “señal de la cruz” y derrota a una tropa de hombres armados. Apaga un incendio con agua bendita. Ciega a sus enemigos y les devuelve la vista. Un muchacho "poseído" se ahorca y Andrés lo rescata. Un hombre afligido durante 22 años con "llagas" se cura. Resucita a un soldado muerto.
+Hace la «señal de la cruz» y derrota a una tropa de hombres armados. Apaga un incendio con agua bendita. Ciega a sus enemigos y les devuelve la vista. Un muchacho "poseído" se ahorca y Andrés lo rescata. Un hombre afligido durante 22 años con "llagas" se cura. Resucita a un soldado muerto.
 
 Andrés es arrojado a las bestias, que rechazan tocarlo—se volvieron y devoraron a sus guardianes. Una serpiente mata a un muchacho—Andrés lo rescata y la serpiente muere.
 
-Un procónsul es curado y bautizado. Resucita a 38 marineros muertos en un naufragio. Hace que un hijo ilegítimo nazca muerto. Cura a todos los enfermos de varias ciudades. Curó a un enfermo que tenía "úlceras y gusanos”. Curó a un epiléptico—que “echaba espuma por la boca”.
+Un procónsul es curado y bautizado. Resucita a 38 marineros muertos en un naufragio. Hace que un hijo ilegítimo nazca muerto. Cura a todos los enfermos de varias ciudades. Curó a un enfermo que tenía «úlceras y gusanos». Curó a un epiléptico—que «echaba espuma por la boca».
 
 Fue crucificado, pero predicó durante tres días mientras estaba en la cruz.
 
@@ -1670,7 +1670,7 @@ Cura y embellece a una hija patito feo.
 
 Un rebaño de burros salvajes predica el evangelio, y uno de ellos expulsa demonios.
 
-Tomás finalmente es encarcelado porque la mujer de un gobernante había evitado tener relaciones sexuales con él. El gobernante culpaba a las enseñanzas de Tomás. Relacionado con esto, y mientras estaba en prisión, Tomás pronuncia el famoso “Salmo del alma”—uno de los más valiosos de todo el documento desde un punto de vista literario. Después, Tomás es liberado y se marcha. Después de mucha predicación y muchos conversos, es encarcelado de nuevo y ejecutado.
+Tomás finalmente es encarcelado porque la mujer de un gobernante había evitado tener relaciones sexuales con él. El gobernante culpaba a las enseñanzas de Tomás. Relacionado con esto, y mientras estaba en prisión, Tomás pronuncia el famoso «Salmo del alma»—uno de los más valiosos de todo el documento desde un punto de vista literario. Después, Tomás es liberado y se marcha. Después de mucha predicación y muchos conversos, es encarcelado de nuevo y ejecutado.
 
 Más tarde, cuando un hijo del rey está afligido, envía a por uno de los huesos de Tomás. No consiguen encontrar el cuerpo, pero traen algo de polvo de la tumba, y su hijo es curado.
 
@@ -1710,7 +1710,7 @@ Es la obra principal de las Epístolas. Es una revisión extensa pero común y c
 
 1. **APOCALIPSIS DE PEDRO**
 
-Comienza con una discusión sobre hijos ilegítimos—cómo se ponen en manos de "ángeles cuidadores”.
+Comienza con una discusión sobre hijos ilegítimos—cómo se ponen en manos de «ángeles cuidadores».
 
 Pedro pide a Jesús que le muestre a alguien que ha partido de este mundo. Se le mostró un hombre cuyo rostro brillaba como el sol. Su cuerpo era más blanco que la nieve y parecía un arco iris.
 
@@ -1748,29 +1748,29 @@ La historia de Saulo que ve como apedrean a Esteban hasta la muerte. Gamaliel re
 
 1. **EL CREDO DE LOS APÓSTOLES**
 
-“Pedro—1. Creo en Dios Padre Todopoderoso;
+«Pedro—1. Creo en Dios Padre Todopoderoso;
 
-“Juan—2. Creador del cielo y de la tierra;
+«Juan—2. Creador del cielo y de la tierra;
 
-“Santiago—3. Y en Jesucristo su único Hijo, nuestro Señor;
+«Santiago—3. Y en Jesucristo su único Hijo, nuestro Señor;
 
-“Andrés—4. Que fue concebido por el Espíritu Santo, nacido de la Virgen María;
+«Andrés—4. Que fue concebido por el Espíritu Santo, nacido de la Virgen María;
 
-“Felipe—5. Que sufrió por obra de Poncio Pilato, fue crucificado, muerto y enterrado;
+«Felipe—5. Que sufrió por obra de Poncio Pilato, fue crucificado, muerto y enterrado;
 
-“Tomás—6. Descendió a los infiernos y al tercer día resucitó de entre los muertos;
+«Tomás—6. Descendió a los infiernos y al tercer día resucitó de entre los muertos;
 
-“Bartolomé—7. Y subió hasta el cielo, se sentó a la derecha de Dios Padre Todopoderoso;
+«Bartolomé—7. Y subió hasta el cielo, se sentó a la derecha de Dios Padre Todopoderoso;
 
-“Mateo—8. Desde donde vendrá a juzgar a los vivos y a los muertos;
+«Mateo—8. Desde donde vendrá a juzgar a los vivos y a los muertos;
 
-“Santiago, el hijo de Alfeo—9. Creo en el Espíritu Santo, en la santa Iglesia Católica;
+«Santiago, el hijo de Alfeo—9. Creo en el Espíritu Santo, en la santa Iglesia Católica;
 
-“Simón Zelotes—10. En la comunión de los santos y el perdón de los pecados;
+«Simón Zelotes—10. En la comunión de los santos y el perdón de los pecados;
 
-“Judá, el hermano de Santiago—11. La resurrección del cuerpo;
+«Judá, el hermano de Santiago—11. La resurrección del cuerpo;
 
-“Matías—12. La vida eterna. Amén.”
+«Matías—12. La vida eterna. Amén.»
 
 2. **EPÍSTOLA DE BERNABÉ**
 

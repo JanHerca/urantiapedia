@@ -96,7 +96,7 @@ Globalmente, tenemos un retraso muy grande (3ª edad) a pesar de nuestro gran av
 
 Leer este documento hasta la 5ª edad nos ha permitido también conocer la futura evolución de Urantia; por ejemplo, la unificación de los gobiernos, la presencia de una sola raza, la paz en Urantia, trabajar solo unas horas al día y el buen uso del ocio, la práctica de la música y las artes.
 
-Finalmente, hemos comprendido la «buena suerte» o «mala suerte» de haber nacido en Urantia y no en un planeta normal al leer la [sección 7 del Documento 50](/es/The_Urantia_Book/50#p7_1), «Las recompensas del aislamiento», que define a los agondonteros como “criaturas volitivas evolutivas que pueden creer sin ver, perseverar cuando están aisladas y vencer dificultades insuperables incluso estando solas.”
+Finalmente, hemos comprendido la «buena suerte» o «mala suerte» de haber nacido en Urantia y no en un planeta normal al leer la <a id="a98_128"></a>[sección 7 del Documento 50](/es/The_Urantia_Book/50#p7_1), «Las recompensas del aislamiento», que define a los agondonteros como «criaturas volitivas evolutivas que pueden creer sin ver, perseverar cuando están aisladas y vencer dificultades insuperables incluso estando solas.»
 
 Para acabar con este informe, tenemos que dar las gracias a las ayudas espirituales presentes durante este fin de semana, a todos los lectores ausentes que estuvieron presentes en nuestro pensamiento, a todos los lectores presentes que hicieron un estudio interesante del libro, a la comunidad fraternal que hubo durante los descansos, las comidas y las noches, una buena comunidad de espíritu y el tono constructivo de la reunión general de la asociación.
 

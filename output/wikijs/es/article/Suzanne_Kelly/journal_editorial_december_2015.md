@@ -51,7 +51,7 @@ Nuestro tercer colaborador, Michael Hanian (Rusia), comparte con nosotros la pre
 
 Bart Gibbons (EEUU) es el siguiente, y en «**Con respecto a la adversidad**» plantea la pregunta que todos en un momento u otro hemos querido responder: _¿Cómo nos ayudan las enseñanzas a responder cuando estamos destrozados por una tragedia devastadora e inesperada o nuestros propios esfuerzos descarriados causan sufrimiento y desesperación en nuestra vida diaria?_ Bart nos da ejemplos sobre cómo tratar con todo lo que nos arroja este mundo; una de mis frases favoritas—y con la que me he llegado a familiarizar es _El buen juicio procede de la experiencia, y gran parte de ella procede del mal juicio_. Will Rogers.  Ok, esa era de Will Rogers, pero la segunda y la que me alegró el día es…
 
-> _La carrera de un hombre que busca a Dios puede resultar ser un gran éxito a la luz de la eternidad, aunque toda la empresa de su vida temporal pueda parecer un fracaso abrumador, con tal que cada fracaso de su vida haya producido el cultivo de la sabiduría y el logro espiritual._ <a id="a52_261"></a>[[LU 160:4.16](/es/The_Urantia_Book/160#p4_16)]
+> _La carrera de un hombre que busca a Dios puede resultar ser un gran éxito a la luz de la eternidad, aunque toda la empresa de su vida temporal pueda parecer un fracaso abrumador, con tal que cada fracaso de su vida haya producido el cultivo de la sabiduría y el logro espiritual._ <a id="a53_284"></a>[[LU 160:4.16](/es/The_Urantia_Book/160#p4_16)]
 
 ¡Gracias, Bart!
 

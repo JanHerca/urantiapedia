@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> «_Creemos que, con estos hechos ante ellos, los Monitores se ofrecen libremente como voluntarios para la misión. Existe probablemente más de un Ajustador que ofrece sus servicios; quizás las órdenes personalizadas supervisoras escogen, en este grupo de Ajustadores voluntarios, al más indicado para la tarea de espiritualizar y eternizar la personalidad del candidato mortal._» ([LU 108:1.7](/es/The_Urantia_Book/108#p1_7))
+> «_Creemos que, con estos hechos ante ellos, los Monitores se ofrecen libremente como voluntarios para la misión. Existe probablemente más de un Ajustador que ofrece sus servicios; quizás las órdenes personalizadas supervisoras escogen, en este grupo de Ajustadores voluntarios, al más indicado para la tarea de espiritualizar y eternizar la personalidad del candidato mortal._» (<a id="a34_381"></a>[LU 108:1.7](/es/The_Urantia_Book/108#p1_7))
 
 Primero, me presentaré. Provengo de Divinington y soy un Ajustador del Pensamiento, un Monitor Misterioso, un Regalo Divino o cualquier denominación que me puedan aplicar los hijos del Padre Universal. La experiencia es mía, he mirado a través de los ojos de criaturas evolutivas antes y he visto paisajes muy diferentes a los de Urantia. Soles gemelos han marchado sobre nuestras cabezas, y los cielos en otras partes de los superuniversos están modelados con otras constelaciones, otros sistemas, pero el amor y el propósito del Padre pulsaron, siempre, a través de todo.
 
@@ -54,7 +54,7 @@ El día llegará. Incluso ahora he sido reconocido formalmente como Controlador 
 
 Parte de mi búsqueda ha terminado. Comienza otra parte. He habitado y amado a muchos seres evolutivos hasta la plena capacidad de su reconocimiento de ese amor. Siempre he tocado los bordes de sus receptividades y he elevado aún más las clavijas de sus percepciones. Nunca he fracasado, pero este «no fracasar» es lo mejor y lo más feliz. ¡Con qué gran potencial de poder ha dotado el Padre a sus hijos mortales! ¡No dejes de utilizar tu herencia divina! ¡Utilízalo, te lo ruego, al máximo!
 
-> «_En la medida en que estoy familiarizado con los asuntos de un universo, el amor y la devoción de un Ajustador del Pensamiento los considero como el afecto más verdaderamente divino de toda la creación. El amor que manifiestan los Hijos en su ministerio hacia las razas es magnífico, pero la devoción de un Ajustador hacia el individuo es conmovedoramente sublime, divinamente semejante a la del Padre. El Padre Paradisiaco se ha reservado aparentemente esta forma de contacto personal con sus criaturas individuales como una prerrogativa exclusiva de Creador._» ([LU 110:0.2](/es/The_Urantia_Book/110#p0_2))
+> «_En la medida en que estoy familiarizado con los asuntos de un universo, el amor y la devoción de un Ajustador del Pensamiento los considero como el afecto más verdaderamente divino de toda la creación. El amor que manifiestan los Hijos en su ministerio hacia las razas es magnífico, pero la devoción de un Ajustador hacia el individuo es conmovedoramente sublime, divinamente semejante a la del Padre. El Padre Paradisiaco se ha reservado aparentemente esta forma de contacto personal con sus criaturas individuales como una prerrogativa exclusiva de Creador._» (<a id="a56_567"></a>[LU 110:0.2](/es/The_Urantia_Book/110#p0_2))
 
 —_Marilyn Hauck_
 Aurora, Colorado

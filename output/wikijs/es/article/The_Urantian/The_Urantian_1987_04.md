@@ -45,7 +45,7 @@ _Silver Spring, Maryland_
 
 ---
 
-> «_La ciencia política debe llevar a cabo la reconstrucción de la economía y de la industria mediante las técnicas que aprende de las ciencias sociales, y mediante la perspicacia y los móviles suministrados por la vida religiosa. En toda reconstrucción social, la religión proporciona una lealtad estabilizadora hacia un objeto trascendente, hacia una meta estable situada más allá y por encima del objetivo inmediato y temporal. En medio de la confusión de un entorno que cambia rápidamente, el hombre mortal necesita el apoyo de una amplia perspectiva cósmica._» ([LU 99:7.2](/es/The_Urantia_Book/99#p7_2))
+> «_La ciencia política debe llevar a cabo la reconstrucción de la economía y de la industria mediante las técnicas que aprende de las ciencias sociales, y mediante la perspicacia y los móviles suministrados por la vida religiosa. En toda reconstrucción social, la religión proporciona una lealtad estabilizadora hacia un objeto trascendente, hacia una meta estable situada más allá y por encima del objetivo inmediato y temporal. En medio de la confusión de un entorno que cambia rápidamente, el hombre mortal necesita el apoyo de una amplia perspectiva cósmica._» (<a id="a47_567"></a>[LU 99:7.2](/es/The_Urantia_Book/99#p7_2))
 
 
 

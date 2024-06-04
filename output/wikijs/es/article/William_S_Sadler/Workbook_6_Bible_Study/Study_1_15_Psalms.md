@@ -89,10 +89,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		«Escuchen, habitantes todos del mundo». [49:1](/es/Bible/Psalms/49#v1).
 	- B. **Antitético**. Segunda línea antitética a la primera.
 		"Porque el Señor conoce el camino de los justos,
-		«pero el camino de los impíos perecerá». [1:6](/es/Bible/Psalms/1#v6). colina.” [3:4](/es/Bible/Psalms/3#v4).
+		«pero el camino de los impíos perecerá». [1:6](/es/Bible/Psalms/1#v6).  [3:4](/es/Bible/Psalms/3#v4).
 	- C. **Sintético**. La segunda línea completa la primera.
-		"Clamo en voz alta al Señor,
-		«Y él me responde desde su santo monte». [3:4](/es/Bible/Psalms/3#v4).
+		«Clamo en voz alta al Señor, Y él me responde desde su santo monte»». [3:4](/es/Bible/Psalms/3#v4).
 7. Algunos salmos están en estrofas, otros en estructura acróstica.
 
 ## VI. Religión de los salmistas

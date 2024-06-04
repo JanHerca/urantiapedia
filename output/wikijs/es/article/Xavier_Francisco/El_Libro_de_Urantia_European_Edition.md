@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Xavier Francisco, Barcelona (España)_
 
-Llevo nueve años leyendo _El libro de Urantia_. Todavía puedo recordar los primeros pensamientos que me vinieron a la mente tras leer el Prólogo y los primeros dos o tres documentos. “Vaya, ¡esto es grande!” ¡Me encantó la manera en que estaba escrito el Prólogo! Tras leer los primeros 10 ó 15 documentos, me pareció que el lenguaje de _El libro de Urantia_ era menos natural para mí. Como advertí en la portada, la traducción se estaba revisando y corrigiendo, así que decidí leer la edición inglesa.
+Llevo nueve años leyendo _El libro de Urantia_. Todavía puedo recordar los primeros pensamientos que me vinieron a la mente tras leer el Prólogo y los primeros dos o tres documentos. «Vaya, ¡esto es grande!» ¡Me encantó la manera en que estaba escrito el Prólogo! Tras leer los primeros 10 ó 15 documentos, me pareció que el lenguaje de _El libro de Urantia_ era menos natural para mí. Como advertí en la portada, la traducción se estaba revisando y corrigiendo, así que decidí leer la edición inglesa.
 
 Comencé a leerlo desde el principio. Una vez más, leí el Prólogo. A medida que iba leyendo, sentí que el lenguaje era natural – como si alguien quisiera hacerme las cosas fáciles. Debo decir que el inglés no es mi primera lengua, así que leer un libro de esa magnitud en un idioma extranjero era una tarea difícil para mí, pero me di cuenta de que era fácil. Así que seguí leyendo el libro en inglés – hasta ahora.
 

@@ -33,21 +33,21 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. El Cuerpo de los Finalistas Trinidizados Conjuntos.
 	5. El Cuerpo de los Finalistas de Havona.
 	6. El Cuerpo de los Finalistas Trascendentales.
-	7. El Cuerpo de los Hijos de Destino No Revelado. [LU 31:10.1](/es/The_Urantia_Book/31#p10_1)
-2. Los finalistas están destinados a servir en los universos del espacio exterior. [LU 12:2.6](/es/The_Urantia_Book/12#p2_6)
+	7. El Cuerpo de los Hijos de Destino No Revelado. <a id="s35_51"></a>[LU 31:10.1](/es/The_Urantia_Book/31#p10_1)
+2. Los finalistas están destinados a servir en los universos del espacio exterior. <a id="s36_83"></a>[LU 12:2.6](/es/The_Urantia_Book/12#p2_6)
 
 ## II. CUERPOS DE FINALISTAS MORTALES
 
-1. Nativos de Havona. [LU 31:1.1](/es/The_Urantia_Book/31#p1_1)
-2. Mensajeros de Gravedad. [LU 31:2.1](/es/The_Urantia_Book/31#p2_1)
-3. Mortales Glorificados. [LU 31:3.3](/es/The_Urantia_Book/31#p3_3)
-4. Serafines Adoptados. [LU 31:4.1](/es/The_Urantia_Book/31#p4_1)
-5. Hijos Materiales Glorificados. [LU 31:5.1](/es/The_Urantia_Book/31#p5_1)
-6. Criaturas Intermedias Glorificadas. [LU 31:6.2](/es/The_Urantia_Book/31#p6_2)
+1. Nativos de Havona. <a id="s40_22"></a>[LU 31:1.1](/es/The_Urantia_Book/31#p1_1)
+2. Mensajeros de Gravedad. <a id="s41_27"></a>[LU 31:2.1](/es/The_Urantia_Book/31#p2_1)
+3. Mortales Glorificados. <a id="s42_26"></a>[LU 31:3.3](/es/The_Urantia_Book/31#p3_3)
+4. Serafines Adoptados. <a id="s43_24"></a>[LU 31:4.1](/es/The_Urantia_Book/31#p4_1)
+5. Hijos Materiales Glorificados. <a id="s44_34"></a>[LU 31:5.1](/es/The_Urantia_Book/31#p5_1)
+6. Criaturas Intermedias Glorificadas. <a id="s45_39"></a>[LU 31:6.2](/es/The_Urantia_Book/31#p6_2)
 
 ## III. EVÁNGELES DE LA LUZ
 
-Los Evángeles de la Luz son los séptimos miembros transitorios del Cuerpo de los Finalistas Mortales. [LU 31:7.2](/es/The_Urantia_Book/31#p7_2)
+Los Evángeles de la Luz son los séptimos miembros transitorios del Cuerpo de los Finalistas Mortales. <a id="s49_102"></a>[LU 31:7.2](/es/The_Urantia_Book/31#p7_2)
 
 
 <br>

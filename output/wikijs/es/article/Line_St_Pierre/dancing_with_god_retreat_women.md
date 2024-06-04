@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Del 21 al 25 de septiembre de 2017
 
-¿Qué se puede esperar cuando se reúnen trece mujeres en un retiro llamado “Bailar con Dios: emerger en lo sagrado”? Desde el mismo momento de la llegada a la Fundación Urantia, era palpable el ambiente de bienvenida, aprecio y expectación alegre. Joanne, Jen, Tamara, ¡gracias por los toques femeninos del 533!
+¿Qué se puede esperar cuando se reúnen trece mujeres en un retiro llamado «Bailar con Dios: emerger en lo sagrado»? Desde el mismo momento de la llegada a la Fundación Urantia, era palpable el ambiente de bienvenida, aprecio y expectación alegre. Joanne, Jen, Tamara, ¡gracias por los toques femeninos del 533!
 
 Fue un entorno de confianza creado en la segunda planta de la Fundación en el que trece mujeres, todas estudiantes de _El libro de Urantia_, se reunieron en este retiro especial. Las facilitadoras del retiro usaron el método Fishbowl de conversación, en el que las líderes se sientan en el centro del círculo y comienzan una conversación a la que el círculo exterior se une más adelante. Contemplamos y profundizamos en dos preguntas: ¿cómo me vuelvo consciente de lo sagrado en la monotonía de la vida cotidiana? ¿Y cómo emergemos en lo sagrado como mujeres?
 
@@ -54,7 +54,7 @@ Después de tres días inspiradores de compartir, meditar, rezar y reír, llegam
 A continuación hay algunos comentarios de las asistentes al retiro cuando bailaron con Dios:
 <br style="clear:both;"/>
 
-- _Haber tenido el privilegio de participar en este emerger en lo sagrado ha sido una bendición que está más allá de lo que pudiera haber imaginado. Las amistades creadas, el conocimiento ganado a partir de las experiencias que las demás compartieron, darme cuenta de que, como mujeres, compartimos un objetivo común profundamente espiritual para nosotras, nuestros hijos y toda la humanidad de este planeta, servirá para inspirarme y motivarme en el futuro para “ocupar mi lugar” como hija de Dios que emerge en lo sagrado._
+- _Haber tenido el privilegio de participar en este emerger en lo sagrado ha sido una bendición que está más allá de lo que pudiera haber imaginado. Las amistades creadas, el conocimiento ganado a partir de las experiencias que las demás compartieron, darme cuenta de que, como mujeres, compartimos un objetivo común profundamente espiritual para nosotras, nuestros hijos y toda la humanidad de este planeta, servirá para inspirarme y motivarme en el futuro para «ocupar mi lugar» como hija de Dios que emerge en lo sagrado._
 
 - _Nunca experimenté nada igual, profundizar tanto donde mi corazón y mi espíritu liberaron tantas emociones de risa y llanto._
 
@@ -68,7 +68,7 @@ A continuación hay algunos comentarios de las asistentes al retiro cuando baila
 
 - _Estoy muy agradecida por el apoyo de todas mis hermanas. En este retiro no hubo presión, y fue fácil intimar y compartir cosas importantes._
 
-- _Aunque éramos un grupo dispar y de diferentes partes del país, comenzamos a usar el método Fishbowl de afrontar preguntas y casi inmediatamente sentimos el amor de Dios entre nosotras. Raramente se desarrolla un ambiente de confianza y espiritual entre personas en tan poco tiempo. Hice doce nuevas “amigas para siempre”. También jugamos y fuimos a un piano bar de Chicago para oír al polifacético Bob Solone, que cantó “Georgia on My Mind” y muchos otros clásicos._
+- _Aunque éramos un grupo dispar y de diferentes partes del país, comenzamos a usar el método Fishbowl de afrontar preguntas y casi inmediatamente sentimos el amor de Dios entre nosotras. Raramente se desarrolla un ambiente de confianza y espiritual entre personas en tan poco tiempo. Hice doce nuevas «amigas para siempre». También jugamos y fuimos a un piano bar de Chicago para oír al polifacético Bob Solone, que cantó «Georgia on My Mind» y muchos otros clásicos._
 
 - _Venir del grupo y entrar al mundo me hizo ver de manera diferente a las personas, y que dar tiempo y atención hace del mundo un lugar mejor para mí y para aquellos con los que contacto. Comprendo mejor ahora cómo producir y mostrar los frutos de mi fe._
 

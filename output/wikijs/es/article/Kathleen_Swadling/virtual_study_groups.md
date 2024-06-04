@@ -70,9 +70,9 @@ https://www.youtube.com/watch?v=0kXtq8PYxy0&list=PLQYC6XW8Ev1d502uaOa3gq-sY_Us_5
 
 __Descripción_:_ Otro evento virtual Urantia de 24 horas: _¡Estamos juntos en esto!_ Mientras el mundo sigue practicando el aislamiento social para ayudar a frenar los efectos de la COVID-19, la comunidad Urantia ofreció otro extraordinario evento virtual para ayudar a unir a la gente. Para este evento virtual de 24 horas la Asociación Urantia se unió a los comités de educación de la Fundación Urantia, la Fellowship de _El libro de Urantia_ y el Instituto Universitario Urantia para traer 24 presentaciones únicas de todo el mundo.
 
-> _La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia. Es literalmente cierto que «ningún hombre vive para sí mismo»_ <a id="a73_190"></a>[[LU 112:1.16](/es/The_Urantia_Book/112#p1_16)] 
+> _La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia. Es literalmente cierto que «ningún hombre vive para sí mismo»_ <a id="a72_238"></a>[[LU 112:1.16](/es/The_Urantia_Book/112#p1_16)] 
 
-> _Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable._ <a id="a75_150"></a>[[LU 100:5.8](/es/The_Urantia_Book/100#p5_8)]
+> _Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable._ <a id="a74_178"></a>[[LU 100:5.8](/es/The_Urantia_Book/100#p5_8)]
 
 ## Referencias
 

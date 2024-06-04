@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: «Reclamando la Iglesia» por John B. Cobb, Jr</span>
         </a>
         </td>
         <td>
@@ -265,7 +265,7 @@ Hay mucho más que decir sobre los desafíos y oportunidades de la religión org
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: «Reclamando la Iglesia» por John B. Cobb, Jr</span>
         </a>
         </td>
         <td>

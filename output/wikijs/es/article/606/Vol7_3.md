@@ -42,7 +42,7 @@ P.0.Box 606, Brighton, Victoria, AUSTRALIA, 3186.
 
 Leí con interés el artículo de Kathleen, Trevor y William en el boletín 6-0-6 anterior. En general, puedo identificarme con sus pensamientos sobre la dirección y formación de un grupo Urantia en Australia.
 
-Su último párrafo resume la situación. “Algunos de los beneficios de formar una asociación, en estas primeras etapas, es tener un organismo centralizado que podría mantenernos en contacto con los resultados y el progreso del movimiento Urantia, lo cual sería beneficioso para los lectores, un organismo que puede implementar nuestra objetivos comunes."
+Su último párrafo resume la situación. «Algunos de los beneficios de formar una asociación, en estas primeras etapas, es tener un organismo centralizado que podría mantenernos en contacto con los resultados y el progreso del movimiento Urantia, lo cual sería beneficioso para los lectores, un organismo que puede implementar nuestra objetivos comunes.»
 
 En la conferencia de 1984 se decidió investigar un medio y vehículo para expresar y llevar a cabo funciones que son de interés para los lectores del Libro de Urantia.
 

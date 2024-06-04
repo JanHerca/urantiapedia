@@ -97,7 +97,7 @@ Han colocado _El libro de Urantia_ en la sección de religión y espiritualidad.
 
 Encontramos allí una pila de libros en tapa blanda, uno en tapa dura y otro en tapa dura en inglés.
 
-Han colocado los libros en la sección “Christianismo”, junto al último libro del Papa.
+Han colocado los libros en la sección «Cristianismo», junto al último libro del Papa.
 
 Venden la edición en tapa blanda por 73 reales (41$ EEUU), y la edición en tapa dura por 93 reales (52$ EEUU).
 

@@ -76,7 +76,7 @@ Los judíos bajo los seléucidas
 25. Juan Hircano fue realmente el último de los grandes asmoneos. De los cinco hijos de Juan, Aristóbulo encarceló a tres hermanos y asesinó al cuarto. Pero duró sólo un año.
 26. La confusión general y creciente en Palestina llevó a Roma a tomar el poder.
 
-**NOTA**: Para una revisión de la historia hebrea tal como se presenta en el Libro de Urantia, consulte <a id="s78_79"></a>[LU 97:9.1](/es/The_Urantia_Book/97#p9_1)
+**NOTA**: Para una revisión de la historia hebrea tal como se presenta en el Libro de Urantia, consulte <a id="s78_104"></a>[LU 97:9.1](/es/The_Urantia_Book/97#p9_1)
 
 
 <br>

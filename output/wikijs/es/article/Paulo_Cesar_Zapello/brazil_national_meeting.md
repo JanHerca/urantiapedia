@@ -47,7 +47,7 @@ Este año celebramos la décima reunión brasileña con tres días mágicos en l
 <img src="/image/article/IUA_Tidings/Brazil-Conf-2-300x225.jpg">
 </figure>
 
-El tema conductor fue «De Urantia al Paraíso», al que siguió una «Introducción a _El libro de Urantia_” con una visión de la cosmología y la asistencia divina de los Ajustadores del Pensamiento.
+El tema conductor fue «De Urantia al Paraíso», al que siguió una «Introducción a _El libro de Urantia_» con una visión de la cosmología y la asistencia divina de los Ajustadores del Pensamiento.
 
 Los tres días fueron inolvidables y todos esperamos con ilusión la próxima reunión, en 2016.
 

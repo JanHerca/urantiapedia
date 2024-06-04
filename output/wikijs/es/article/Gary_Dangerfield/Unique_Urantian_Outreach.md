@@ -62,7 +62,7 @@ Mi creencia personal es que tenemos la gozosa anticipación de pasar toda la ete
 
 ### Susurros y truenos
 
-El libro de [Job, capítulo 26](/es/Bible/Job/26), nos proporciona una analogía útil. Después de catalogar una larga lista de cosas que los humanos creen saber acerca de Dios, Job concluye con esta penetrante declaración: “Estos en verdad no son más que los límites de sus caminos; ¡Y qué pequeño susurro escuchamos de él! Pero ¿quién podrá entender el trueno de su poder?
+El libro de [Job, capítulo 26](/es/Bible/Job/26), nos proporciona una analogía útil. Después de catalogar una larga lista de cosas que los humanos creen saber acerca de Dios, Job concluye con esta penetrante declaración: «Estos en verdad no son más que los límites de sus caminos; ¡Y qué pequeño susurro escuchamos de él! Pero ¿quién podrá entender el trueno de su poder?
 
 ¡Nuevamente tropezamos precipitadamente con esta gran extensión entre la pequeñez de lo que creemos saber del Dios infinito y la inconcebible inmensidad de todo lo que Él realmente es!
 
@@ -81,7 +81,7 @@ La fe debe venir nuevamente a rescatarnos aquí para asegurarnos que nuestros co
 1. Aunque Dios es más real para mí que la cosa más real que pueda imaginar, debo reconocer que todos seguimos hablando de un Dios que ninguno de nosotros ha visto jamás. ¡Estamos tratando aquí con asuntos de fe, no de vista! Los que dudan sinceramente son bienvenidos en esta búsqueda.
 2. Hay cientos de religiones en todo el mundo......la mayoría de ellas con muchos seguidores que están absolutamente devotos de sus creencias y dispuestos a morir por ellas.
 3. Sólo dentro de la fe cristiana hay decenas de denominaciones, y también muchas variaciones de casi todas las denominaciones, cada una de las cuales cree sinceramente que está más cerca de la verdad acerca de Dios. Entre los estudiantes serios dentro de la misma fe y denominación existen puntos de vista muy diferentes sobre cuál es la interpretación adecuada de un sinfín de pasajes y doctrinas de las Escrituras.
-4. A la luz de este tipo de realidades –con toda la amplia variedad de creencias profundamente arraigadas sólo entre los discípulos sinceros de la fe cristiana– tal vez deberíamos escuchar con un nuevo sentido de humildad la confesión de Job: “qué pequeño susurro ¿Oímos hablar de él? Pero ¿quién podrá entender el trueno de su poder?
+4. A la luz de este tipo de realidades –con toda la amplia variedad de creencias profundamente arraigadas sólo entre los discípulos sinceros de la fe cristiana– tal vez deberíamos escuchar con un nuevo sentido de humildad la confesión de Job: «qué pequeño susurro ¿Oímos hablar de él? Pero ¿quién podrá entender el trueno de su poder?
 
 Por supuesto, a todos nos gustaría pensar que nuestras propias creencias representan una guía personal de Dios hacia una conclusión determinada y, con suerte, eso es cierto en relación con la mayoría de nuestras creencias fundamentales. Pero ¿qué pasa con _todas_ nuestras creencias? ¿Es realmente probable que sólo unos pocos que ven un tema determinado de la misma manera que nosotros tengan razón, dejando así a miles de millones de personas equivocadas? ¿No debería preocuparnos un poco la audacia de tal presunción? ¿No debería la finitud de nuestra humanidad permitir algunas «sorpresas» del Creador Infinito?
 

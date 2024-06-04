@@ -40,7 +40,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 ## II. Cronología
 
 1. Los detalles de la cronología se considerarán en el estudio de la historia del Antiguo y Nuevo Testamento.
-2. La explicación de las vidas extralargas de las personalidades antiguas se encuentra en el Libro de Urantia <a id="s42_98"></a>[LU 77:2.10](/es/The_Urantia_Book/77#p2_10) El mes lunar de 28 días se llamaba año. Así, un hombre que vivía 900 años en realidad vivía sólo unos 70 años -«tres sesenta años y diez»-, una edad avanzada para aquellos días.
+2. La explicación de las vidas extralargas de las personalidades antiguas se encuentra en el Libro de Urantia <a id="s42_110"></a>[LU 77:2.10](/es/The_Urantia_Book/77#p2_10) El mes lunar de 28 días se llamaba año. Así, un hombre que vivía 900 años en realidad vivía sólo unos 70 años -«tres sesenta años y diez»-, una edad avanzada para aquellos días.
 3. Cronología de los libros del Antiguo Testamento.
 	- Génesis, 1200-450 a.C.
 	- Éxodo, 1200-450 a.C.

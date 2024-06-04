@@ -25,19 +25,19 @@ dateCreated: 2023-11-05T01:11:28.972Z
 </svg>
 </div>
 
-> ... Estaba consagrado sin reservas a «los asuntos del Padre». ([LU 100:7.12](/es/The_Urantia_Book/100#p7_12))
+> ... Estaba consagrado sin reservas a «los asuntos del Padre». (<a id="s27_65"></a>[LU 100:7.12](/es/The_Urantia_Book/100#p7_12))
 
-> _Si conocemos a Dios, nuestra verdadera tarea en la Tierra consiste en vivir de tal manera que permitamos al Padre revelarse en nuestra vida, ..._ ([LU 132:7.2](/es/The_Urantia_Book/132#p7_2))
+> _Si conocemos a Dios, nuestra verdadera tarea en la Tierra consiste en vivir de tal manera que permitamos al Padre revelarse en nuestra vida, ..._ (<a id="s29_150"></a>[LU 132:7.2](/es/The_Urantia_Book/132#p7_2))
 
 > _... a través de los oscuros e inciertos laberintos de tu corta carrera terrenal...
 > 
-> _...da el fruto del servicio amoroso a tus semejantes..._ [LU 110:1.2](/es/The_Urantia_Book/110#p1_2); [LU 180:1.4](/es/The_Urantia_Book/180#p1_4)
+> _...da el fruto del servicio amoroso a tus semejantes..._ <a id="s33_60"></a>[LU 110:1.2](/es/The_Urantia_Book/110#p1_2); <a id="s33_105"></a>[LU 180:1.4](/es/The_Urantia_Book/180#p1_4)
 
 > _Sabéis muy bien que debo ocuparme de los asuntos de mi Padre..._
 > 
-> _... logro cósmico esencial para la economía espiritual del planeta._ [LU 158:1.6](/es/The_Urantia_Book/158#p1_6); [LU 109:2.7](/es/The_Urantia_Book/109#p2_7)
+> _... logro cósmico esencial para la economía espiritual del planeta._ <a id="s37_72"></a>[LU 158:1.6](/es/The_Urantia_Book/158#p1_6); <a id="s37_117"></a>[LU 109:2.7](/es/The_Urantia_Book/109#p2_7)
 
-> _... en el viaje de la vida de la carrera mortal del tiempo ten buen ánimo..._ [LU 40:5.2](/es/The_Urantia_Book/40#p5_2); [LU 181:1.6](/es/The_Urantia_Book/181#p1_6)
+> _... en el viaje de la vida de la carrera mortal del tiempo ten buen ánimo..._ <a id="s39_81"></a>[LU 40:5.2](/es/The_Urantia_Book/40#p5_2); <a id="s39_124"></a>[LU 181:1.6](/es/The_Urantia_Book/181#p1_6)
 
 Victorioso bajo el estandarte de Michael
 

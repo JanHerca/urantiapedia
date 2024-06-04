@@ -66,7 +66,7 @@ Por ejemplo, _El Libro de Urantia_ dice: «_La característica principal de la e
 
 Y:
 
-> «Luego explicó que la «idea del reino» no era la mejor manera de ilustrar la relación del hombre con Dios; que empleaba esta metáfora porque el pueblo judío estaba esperando el reino, y porque Juan había predicado refiriéndose al reino por venir. Jesús dijo: «La gente de otra época comprenderá mejor el evangelio del reino cuando éste sea presentado en unos términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y la fraternidad de los hombres, la filiación con Dios».” (<a id="a68_546"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)) 
+> «Luego explicó que la «idea del reino» no era la mejor manera de ilustrar la relación del hombre con Dios; que empleaba esta metáfora porque el pueblo judío estaba esperando el reino, y porque Juan había predicado refiriéndose al reino por venir. Jesús dijo: «La gente de otra época comprenderá mejor el evangelio del reino cuando éste sea presentado en unos términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y la fraternidad de los hombres, la filiación con Dios».» (<a id="a68_546"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)) 
 
 Y:
 

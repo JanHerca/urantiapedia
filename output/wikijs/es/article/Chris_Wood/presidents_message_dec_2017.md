@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Chris-Wood-headshot-2017-resized-150x150.jpg">
 </figure>
 
-_Cuando sentimos la tentación de exagerar nuestra propia importancia, si nos detenemos a contemplar la infinidad de la grandeza y de la nobleza de nuestros Hacedores, nuestra propia glorificación se vuelve supremamente ridícula, rayando incluso en lo humorístico. Una de las funciones del humor es la de ayudarnos a todos a tomarnos menos en serio._ **El humor es el antídoto divino contra la exaltación del ego**. <a id="a40_363"></a>[[LU 48:4.15](/es/The_Urantia_Book/48#p4_15)]
+_Cuando sentimos la tentación de exagerar nuestra propia importancia, si nos detenemos a contemplar la infinidad de la grandeza y de la nobleza de nuestros Hacedores, nuestra propia glorificación se vuelve supremamente ridícula, rayando incluso en lo humorístico. Una de las funciones del humor es la de ayudarnos a todos a tomarnos menos en serio._ **El humor es el antídoto divino contra la exaltación del ego**. <a id="a41_415"></a>[[LU 48:4.15](/es/The_Urantia_Book/48#p4_15)]
 
 En los Estados Unidos, el final del año es tiempo de donaciones. La temporada de vacaciones se combina con la temporada de impuestos que conduce a una gran convocatoria de apoyo de aquellos dedicados a «buenas obras». Exaltamos el excelente trabajo del pasado mientras prometemos más trabajo bueno en el futuro. Hacemos que parezca que este es el trabajo más importante en todo el planeta.
 
@@ -49,7 +49,7 @@ Pero como _El libro de Urantia_ señala en el párrafo mencionado, no debemos to
 
 Vivimos en una era de servicio y tenemos oportunidades con las que nuestros antepasados ni siquiera soñaban. Si nos tomamos demasiado en serio nos abrumamos, pero _El libro de Urantia_ nos proporciona una perspectiva y una visión del universo y de nuestra carrera de ascensión en él. La mota moroncial número 24 nos dice:
 
-> _El destino de la eternidad se determina de momento en momento mediante los logros de la vida diaria._ <a id="a50_105"></a>[[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)]
+> _El destino de la eternidad se determina de momento en momento mediante los logros de la vida diaria._ <a id="a51_105"></a>[[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)]
 
 He aquí la realidad honrada de nuestro impulso donador de fin de año: la parte justa de todos es de 100 $. Si todos los que leen esto donaran 100 $, la Asociación tendría los fondos necesarios para el próximo año de servicio. Esto implica celebrar conferencias en Europa (Ámsterdam), África (Acra) y Latinoamérica (Sao Paulo). Significa tener 1.000 ejemplares de _El libro de Urantia_ colocados en lugares como bibliotecas, universidades y hospitales. Significa formar semanalmente a líderes en varios idiomas. Significa crear 200 nuevos grupos de estudio virtuales. Significa dar servicio a los lectores en 22 idiomas. ¡Espero que [visiten nuestra web y hagan una aportación](https://urantia-association.org/get-involved/donate/) hoy a nuestro trabajo mundial!
 

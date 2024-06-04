@@ -79,7 +79,7 @@ Rezamos para que el grupo de estudio de _El libro de Urantia_ siga fomentando el
 
 El equipo del PIRT estará encantado de recibir noticias suyas para responder a cualquier pregunta que puedan tener, ya sea sobre asesoramiento general en su país, la realización de un estudio en persona u otras ideas que podamos ofrecer para este meritorio servicio. Pueden ponerse en contacto con el PIRT enviando un correo electrónico a Myra Hight a prt@urantia-association.org.
 
-> Y recordad que en la medida en que sirváis al más humilde de mis hermanos me habréis servido a mí. (<a id="a80_117"></a>[LU 176:3.5](/es/The_Urantia_Book/176#p3_5))
+> Y recordad que en la medida en que sirváis al más humilde de mis hermanos me habréis servido a mí. (<a id="a81_102"></a>[LU 176:3.5](/es/The_Urantia_Book/176#p3_5))
 
 
 ## Referencias

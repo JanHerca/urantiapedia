@@ -50,7 +50,7 @@ La importancia otorgada a este grupo queda demostrada por las repetidas referenc
 
 > Jesús procuró dejar muy claro que deseaba que sus discípulos, una vez que hubieran probado las buenas realidades espirituales del reino, **vivieran de tal manera en el mundo que cuando los hombres vieran sus vidas** se volvieran conscientes del reino, y se sintieran así inducidos a preguntar a los creyentes sobre los caminos del reino. (<a id="a50_341"></a>[LU 141:7.3](/es/The_Urantia_Book/141#p7_3))
 
-> Jesús había venido a esta misión donadora, no para dar un ejemplo a algunas criaturas de la Tierra, sino para **establecer y demostrar un modelo de vida humana para todos los pueblos** de todos los mundos en todo su universo. Este modelo de vida se acercaba a la perfección más alta, incluso a la bondad final del Padre Universal” (<a id="a52_334"></a>[LU 141:7.9](/es/The_Urantia_Book/141#p7_9))
+> Jesús había venido a esta misión donadora, no para dar un ejemplo a algunas criaturas de la Tierra, sino para **establecer y demostrar un modelo de vida humana para todos los pueblos** de todos los mundos en todo su universo. Este modelo de vida se acercaba a la perfección más alta, incluso a la bondad final del Padre Universal. (<a id="a52_334"></a>[LU 141:7.9](/es/The_Urantia_Book/141#p7_9))
 
 > «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión **consistirá en la vida que viviréis entre los hombres** —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». (<a id="a54_374"></a>[LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
@@ -58,7 +58,7 @@ La importancia otorgada a este grupo queda demostrada por las repetidas referenc
 
 La declaración culminante de los Documentos de Urantia se encuentra en <a id="a58_71"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3):
 
-> «Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. **De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.**.” (<a id="a60_491"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> «Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. **De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió.**.» (<a id="a60_491"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 Ciertamente, si hacemos de nuestra misión en la vida la emulación de la revelación del Padre de Jesús en nuestras propias vidas, y el servicio desinteresado del hombre, entonces un conocimiento completo de la vida de Jesús y cómo la vivió es de importancia crítica.
 

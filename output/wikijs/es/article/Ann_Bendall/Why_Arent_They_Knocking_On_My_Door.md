@@ -42,9 +42,9 @@ Me gustaría sugerir que, a través del 6-0-6, comencemos a acumular ideas e hip
 
 <a id="a42_0"></a>[LU 102:3.4](/es/The_Urantia_Book/102#p3_4) en _El Libro de URANTIA_ dice: «La experiencia religiosa es tener conciencia de haber encontrado a Dios. Y cuando un ser humano encuentra a Dios, el alma de ese ser experimenta tal agitación indescriptible por el triunfo de su descubrimiento, que se ve impulsado a buscar un contacto de servicio afectuoso con sus semejantes menos iluminados, no para revelar que ha encontrado a Dios, sino más bien para permitir que el desbordamiento de bondad eterna que brota de su propia alma refresque y ennoblezca a sus semejantes. La auténtica religión conduce a un servicio social cada vez mayor».
 
-Me encanta hablar de nuestro Padre y tengo algunos amigos (que no son lectores del_ Libro de URANTIA_) que son dedicadamente religiosos. Uno de ellos, profundamente disgustado, anunció un día: “Sí, todas las iglesias realmente van a tener que mejorar. ¡Se atreven a hacer de Dios un Dios humano!
+Me encanta hablar de nuestro Padre y tengo algunos amigos (que no son lectores del_ Libro de URANTIA_) que son dedicadamente religiosos. Uno de ellos, profundamente disgustado, anunció un día: «Sí, todas las iglesias realmente van a tener que mejorar. ¡Se atreven a hacer de Dios un Dios humano!»
 
-Apenas tuve tiempo de añadir un “¡escuchen! ¡escuchar!" cuando ella, con verdadero celo entusiasta, prosiguió: “Se atreven a decir que Dios no se enoja. ¡Pintan a un Dios idiota que es todo amor!
+Apenas tuve tiempo de añadir un «¡escuchen! ¡escuchar!» cuando ella, con verdadero celo entusiasta, prosiguió: «Se atreven a decir que Dios no se enoja. ¡Pintan a un Dios idiota que es todo amor!»
 
 Sonreí para mis adentros, si tan solo la emoción principal fuera el amor.
 

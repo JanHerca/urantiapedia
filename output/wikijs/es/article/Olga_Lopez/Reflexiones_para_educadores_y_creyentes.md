@@ -154,7 +154,7 @@ Rodán de Alejandría dijo del Maestro: «_ama ardientemente la bondad y detesta
 
 En este párrafo, Jesús habla de evitar tanto la falsa compasión como la compasión hacia uno mismo. Creo que merece la pena extenderse un poco en lo que me sugiere este párrafo.
 
-¿Qué significa «compasión”? Según el DRAE (Diccionario de la Real Academia Española), se define como »sentimiento de conmiseración y lástima que se tiene hacia quienes sufren penalidades o desgracias". En el caso de la falsa compasión, podríamos decir que esa conmiseración y lástima son fingidas, se exhiben simplemente de cara a la galería sin sentirlas verdaderamente. Pero este párrafo alude también a la compasión mal entendida, cuando sentimos lástima hacia quien no es digno de ella.
+¿Qué significa «compasión»? Según el DRAE (Diccionario de la Real Academia Española), se define como »sentimiento de conmiseración y lástima que se tiene hacia quienes sufren penalidades o desgracias". En el caso de la falsa compasión, podríamos decir que esa conmiseración y lástima son fingidas, se exhiben simplemente de cara a la galería sin sentirlas verdaderamente. Pero este párrafo alude también a la compasión mal entendida, cuando sentimos lástima hacia quien no es digno de ella.
 
 Pero, ¿quién es digno de compasión? Podríamos decir que son aquellas personas que pasan por situaciones difíciles y hacen algo por remediarlas. Las personas que esperan que los demás resuelvan sus problemas, que no hacen más que quejarse de lo que les pasa y que le echan la culpa a todo y a todos de sus desdichas, no son precisamente dignas de compasión.
 

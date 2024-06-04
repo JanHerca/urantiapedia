@@ -54,7 +54,7 @@ Como prometí en mi último artículo, me gustaría compartir algunos de los gra
 
 «Aquellos tres preciosos sábados fueron como un festín espiritual de temas inspiradores. Los oradores eligieron centrarse en temas que fueran atractivos para los que todavía no habíamos leído _El libro de Urantia_ completo pero que conocíamos a través de las citas semanales que nos enviaba Vicki.»
 
-«La charla de Richard Zhu sobre el viaje ascendente al Paraíso nos dio una nueva imagen clara del plan del Padre Universal y de la enorme y detallada organización existente. Como estudiantes del ACIL, nos han enseñado que “todo está en perfecto orden divino”. Lo que antes aceptábamos por la fe, _El libro de Urantia_ nos lo da ahora en revelaciones detalladas y concretas.»
+«La charla de Richard Zhu sobre el viaje ascendente al Paraíso nos dio una nueva imagen clara del plan del Padre Universal y de la enorme y detallada organización existente. Como estudiantes del ACIL, nos han enseñado que «todo está en perfecto orden divino». Lo que antes aceptábamos por la fe, _El libro de Urantia_ nos lo da ahora en revelaciones detalladas y concretas.»
 
 «Tanto Mei Fong como Richard dieron charlas ricas en contenido y sabiduría y usaron ejemplos, como sinónimos o analogías, para comparar los conceptos clave de _El libro de Urantia_ con dichos chinos familiares de libros antiguos y escrituras clásicas. Aprecié la manera en que usaron la sabiduría repetida y probada para ayudarnos comprender mejor y construir una fe sincera. La verdad universal suena verdadera sin importar el momento ni la cultura.»
 
@@ -62,9 +62,9 @@ Como prometí en mi último artículo, me gustaría compartir algunos de los gra
 <img src="/image/article/UF_News_Online/2020_12/033.jpg">
 </figure>
 
-«Mientras escuchaba las charlas, sentí la inspiración de pintar un mandala “Flor de la Vida”, cuyo tema era “Todos venimos de las estrellas”. En él intenté expresar mi amor y sentido de pertenencia al universo. Desde los universos, las estrellas, los planetas, los mundos del tiempo y el espacio, los humanos, hasta las plantas de la naturaleza, todos somos creaciones del Creador. ¡Somos una familia!» ~ Tina
+«Mientras escuchaba las charlas, sentí la inspiración de pintar un mandala «Flor de la Vida», cuyo tema era «Todos venimos de las estrellas». En él intenté expresar mi amor y sentido de pertenencia al universo. Desde los universos, las estrellas, los planetas, los mundos del tiempo y el espacio, los humanos, hasta las plantas de la naturaleza, todos somos creaciones del Creador. ¡Somos una familia!» ~ Tina
 
-“Por último, pero no menos importante, me gustaría mostrar mi aprecio por Vicki, que nos ha estado enviando extractos de El libro de Urantia todos los domingos durante los últimos dos años. Aunque al principio eran difíciles de seguir, me ayudaron a expandir y elevar mi consciencia. Cuanto más me involucro, más me gusta leer el libro. Y cuanto más leo, mejor lo entiendo.” Tina
+«Por último, pero no menos importante, me gustaría mostrar mi aprecio por Vicki, que nos ha estado enviando extractos de El libro de Urantia todos los domingos durante los últimos dos años. Aunque al principio eran difíciles de seguir, me ayudaron a expandir y elevar mi consciencia. Cuanto más me involucro, más me gusta leer el libro. Y cuanto más leo, mejor lo entiendo.» Tina
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_12/028.jpg">

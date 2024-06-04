@@ -47,7 +47,7 @@ Se nos dijo, y yo creo que sabiamente, que formáramos pequeños grupos de estud
 
 Como firme creyente en el hincapié del libro en la vida equilibrada, creo que es una buena idea mezclar estudio individual con estudio en grupo, y mezclar grupo de estudio físico-verbal con grupo de estudio a distancia, ya sea basado en Internet o por correo.
 
-La UBIS es una buena forma de “conocer” a gente de todo el mundo. Actualmente estoy participando en una clase con estudiantes de Inglaterra, Zambia, Brasil y España, junto con una colección aleatoria de estados de los EEUU, incluyendo Alaska. Es una manera estupenda de experimentar una rica variedad de perspectivas que ayudan a ampliar nuestra comprensión, no solo de la materia de estudio, sino de nuestros hermanos.
+La UBIS es una buena forma de «conocer» a gente de todo el mundo. Actualmente estoy participando en una clase con estudiantes de Inglaterra, Zambia, Brasil y España, junto con una colección aleatoria de estados de los EEUU, incluyendo Alaska. Es una manera estupenda de experimentar una rica variedad de perspectivas que ayudan a ampliar nuestra comprensión, no solo de la materia de estudio, sino de nuestros hermanos.
 
 Con este formato no hay prejuicios basados en la apariencia física, no hay interferencias del lenguaje corporal ni del tono de voz. A medida que la clase progresa, las personalidades se revelan mediante sus pensamientos y percepciones. En cierto modo, es una reunión de mentes más espiritual que física.
 <br style="clear:both;"/>
@@ -58,11 +58,11 @@ Con este formato no hay prejuicios basados en la apariencia física, no hay inte
 <img src="/image/article/UF_News_Online/2009_03/039.jpg">
 </figure>
 
-Los instructores-facilitadores (TF) participan primero como estudiantes en varios cursos, y luego asisten a la clase astutamente diseñada de Formación de Instructores. Todo esto sirve como preparación para diseñar y participar en sus cursos de nueve semanas. Los TF son “uno de nosotros” a lo largo del curso, compartiendo nuestro amor común por las enseñanzas de _El libro de Urantia_.
+Los instructores-facilitadores (TF) participan primero como estudiantes en varios cursos, y luego asisten a la clase astutamente diseñada de Formación de Instructores. Todo esto sirve como preparación para diseñar y participar en sus cursos de nueve semanas. Los TF son «uno de nosotros» a lo largo del curso, compartiendo nuestro amor común por las enseñanzas de _El libro de Urantia_.
 
 Hay una cantidad suficiente de tiempo para responder a las preguntas sobre las lecturas asignadas, y el formato ofrece la conveniencia de poder enviar mensajes tan a menudo como se tenga acceso a Internet.
 
-Con unos dieciocho estudiantes en una clase, es deseable destilar nuestros pensamientos en núcleos de verdad precisos y breves, para no aburrir ni abrumar a los demás estudiantes. Ese mismo proceso ayuda a definir y afilar nuestra comprensión de la materia. La UBIS está presente como una experiencia de compartir única y gratificante. ¡Es la “felicidad en Internet”!
+Con unos dieciocho estudiantes en una clase, es deseable destilar nuestros pensamientos en núcleos de verdad precisos y breves, para no aburrir ni abrumar a los demás estudiantes. Ese mismo proceso ayuda a definir y afilar nuestra comprensión de la materia. La UBIS está presente como una experiencia de compartir única y gratificante. ¡Es la «felicidad en Internet»!
 
 Espero que este texto sobre la UBIS les parezca iluminador. Ojalá todos encontremos la sabiduría para apreciar completamente las bendiciones eternas de Dios.
 <br style="clear:both;"/>

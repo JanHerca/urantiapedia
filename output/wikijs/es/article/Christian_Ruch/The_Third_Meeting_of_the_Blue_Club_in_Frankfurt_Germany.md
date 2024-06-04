@@ -42,7 +42,7 @@ _De Christian Ruch, Chur (Suiza)_
 
 Fue un grupo amigable el que se reunió en Frankfurt (Alemania) durante el último fin de semana de abril para la tercera reunión del Blue Club. ¿Alguna vez han oído hablar del Blue Club? Es un grupo privado y no institucional de lectores europeos de _El libro de Urantia_, que proceden desde el sur en España hasta el norte en Finlandia. Hace tres años, algunas personas tuvieron la idea de hablar, de intercambiar experiencias y de pasar buenos momentos juntos en una atmósfera relajada e informal. La idea se hizo realidad, y tuvimos nuestra primera reunión en 2011 (también en Frankfurt). Alguien tuvo la idea de que nos llamáramos el Blue Club (el color de los tres círculos concéntricos azules).
 
-El año pasado nos reunimos en la encantadora Ciudad de la Luz, París, y este año nos reunimos de nuevo en Frankfurt. En el hotel conocen muy bien a la gente de “Urantia”, porque allí también se reúnen todos los años los lectores alemanes.
+El año pasado nos reunimos en la encantadora Ciudad de la Luz, París, y este año nos reunimos de nuevo en Frankfurt. En el hotel conocen muy bien a la gente de «Urantia», porque allí también se reúnen todos los años los lectores alemanes.
 
 Fue, desde luego, un placer dar la bienvenida a este encuentro del Blue Club a lectores de Austria, Estonia, Finlandia, Alemania, Gran Bretaña, Hungría, Holanda, Noruega, España, Suecia, Suiza y Estados Unidos. Algunos de los lectores de Austria, Alemania y Noruega llevaban mucho tiempo queriendo conocer a otros lectores. Para ellos fue como llegar a casa, y fue una ocasión emotiva.
 
@@ -54,7 +54,7 @@ Erwin DeCraecker está teniendo mucho éxito en la creación de grupos de estudi
 
 Michael MacIsaac nos ayudó a recargar nuestras baterías espirituales al hacernos conversar en grupos pequeños sobre cómo ha influido _El libro de Urantia_ en nuestra vida diaria.
 
-El punto final de nuestra agenda fue el de considerar un plan para una “gran” conferencia europea, que tendrá lugar en Berlín del 21 al 24 de agosto de 2014. ¡Esperamos que se unan a nosotros y conozcan a los lectores europeos de _El libro de Urantia_!
+El punto final de nuestra agenda fue el de considerar un plan para una «gran» conferencia europea, que tendrá lugar en Berlín del 21 al 24 de agosto de 2014. ¡Esperamos que se unan a nosotros y conozcan a los lectores europeos de _El libro de Urantia_!
 
 > ... una gran conferencia europea, que tendrá lugar en Berlín del 21 al 24 de agosto de 2014.
 {.is-info}

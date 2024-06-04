@@ -45,7 +45,7 @@ Es posible que no hayamos aplicado adecuada o plenamente las enseñanzas de _El 
 — _Dan Massey_
 _Sherborn, Massachusetts_
 
-> «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» ([LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
+> «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» (<a id="a47_199"></a>[LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
 
 
 

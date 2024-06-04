@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 La juventud busca reconocimiento. La madurez tiende a cambiar la perspectiva del individuo potenciando la importancia de uno mismo.
 
-_El Libro de URANTIA_ honra a quienes sirven silenciosamente detrás de escena. Se nos dice que se elige a un reservista por su «_... voluntad de servir sin reconocimiento ni recompensas humanas._» ([LU 114:7.5](/es/The_Urantia_Book/114#p7_5))
+_El Libro de URANTIA_ honra a quienes sirven silenciosamente detrás de escena. Se nos dice que se elige a un reservista por su «_... voluntad de servir sin reconocimiento ni recompensas humanas._» (<a id="a39_198"></a>[LU 114:7.5](/es/The_Urantia_Book/114#p7_5))
 
 La Hermandad URANTIA parece estar entrando en un período de transición en el que lo viejo está dando paso a lo nuevo. Permítanme advertir a aquellos a quienes confiamos la salvaguardia de nuestra revelación para que no rechacen el liderazgo histórico de los muchos hombres y mujeres dedicados del pasado que han hecho tanto para contribuir a la organización de la Hermandad y han dado sus vidas a la difusión de estas enseñanzas.
 

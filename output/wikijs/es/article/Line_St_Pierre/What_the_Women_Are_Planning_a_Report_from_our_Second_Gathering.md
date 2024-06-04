@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _De Line St-Pierre, fideicomisaria asociada de la Fundación Urantia, Ste-Sophie (Quebec, Canadá)_
 <br style="clear:both;"/>
 
-> “La mayor fuerza de las mujeres reside en su maternidad innata, en su poder creativo y dador de vida. Y este poder puede ayudar a las mujeres a producir un cambio más significativo en la sociedad de lo que los hombres puedan jamás conseguir.” (Mata Amritanandamayi, también conocida como Amma).
+> «La mayor fuerza de las mujeres reside en su maternidad innata, en su poder creativo y dador de vida. Y este poder puede ayudar a las mujeres a producir un cambio más significativo en la sociedad de lo que los hombres puedan jamás conseguir.» (Mata Amritanandamayi, también conocida como Amma).
 
 Nuestro Padre celestial envió a los Portadores de Vida para implantar la vida en Urantia. Después de que nacieran los primeros humanos, Andon y Fonta, ésta, por supuesto, dio a luz a los niños – como han hecho todas las mujeres desde Fonta. Criar a los hijos es uno de los muchos regalos que los Portadores de Vida han confiado a las mujeres. Estos regalos han inspirado una reflexión profunda sobre lo que significa ser una mujer, una hija de Dios. Para profundizar en esta reflexión y ver cómo podemos ayudarnos a crecer, hemos planeado un retiro en octubre que se celebrará en la Fundación Urantia de Chicago.
 

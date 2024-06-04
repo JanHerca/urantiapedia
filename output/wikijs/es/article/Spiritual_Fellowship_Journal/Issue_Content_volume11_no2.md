@@ -22,7 +22,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Larry_Mullins/Invisible_Loving_Human_Forces">
-          <span class="pr-2">“Fuerzas humanas invisibles y amorosas”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«Fuerzas humanas invisibles y amorosas»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -201,7 +201,7 @@ Donación anual sugerida: $\$ 10$. Por favor haga los cheques a nombre de Penumb
         </td>
         <td>
         <a href="/es/article/Larry_Mullins/Invisible_Loving_Human_Forces">
-          <span class="pr-2">“Fuerzas humanas invisibles y amorosas”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«Fuerzas humanas invisibles y amorosas»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

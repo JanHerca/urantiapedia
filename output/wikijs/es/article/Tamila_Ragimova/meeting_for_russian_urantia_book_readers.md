@@ -52,9 +52,9 @@ Bienvenidos a la primera reunión de lectores de habla rusa de _El libro de Uran
 
 ## Tema: Ser amigos y amarse los unos a los otros
 
-> _Aunque no podéis observar al espíritu divino trabajando en vuestra mente, existe un método práctico para descubrir hasta qué punto habéis cedido el control de los poderes de vuestra alma a la enseñanza y a la dirección de este espíritu interior del Padre celestial: es el grado de vuestro amor por vuestros semejantes humanos. Este espíritu del Padre participa del amor del Padre, y a medida que domina al hombre, lo conduce infaliblemente en la dirección de la adoración divina y de la consideración afectuosa por los semejantes._ <a id="a53_501"></a>[[LU 146:3.6](/es/The_Urantia_Book/146#p3_6)]
+> _Aunque no podéis observar al espíritu divino trabajando en vuestra mente, existe un método práctico para descubrir hasta qué punto habéis cedido el control de los poderes de vuestra alma a la enseñanza y a la dirección de este espíritu interior del Padre celestial: es el grado de vuestro amor por vuestros semejantes humanos. Este espíritu del Padre participa del amor del Padre, y a medida que domina al hombre, lo conduce infaliblemente en la dirección de la adoración divina y de la consideración afectuosa por los semejantes._ <a id="a54_535"></a>[[LU 146:3.6](/es/The_Urantia_Book/146#p3_6)]
 
-> _Amar hoy a todos los hombres no es tan importante como aprender cada día a amar a un ser humano más._  <a id="a55_113"></a>[[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)]
+> _Amar hoy a todos los hombres no es tan importante como aprender cada día a amar a un ser humano más._  <a id="a56_106"></a>[[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)]
 
 Se ruega a aquellos interesados en realizar una presentación que nos envíen el título de su presentación y un breve resumen de media página de su contenido antes del 1 de agosto de 2016. Correo electrónico: [urantia.tamila@gmail.com](mailto:urantia .tamila@gmail.com)
 
@@ -99,7 +99,7 @@ Hotel Novahoff
 
 **Taxi de aeropuerto**: Puede solicitar un taxi desde el aeropuerto internacional de Sheremetyevo hasta el Hotel Novahoff a través de [www.transparking.ru](http://www.transparking.ru/) o por teléfono +7 964 588-88-80 .
 
-**Transporte público**: Autobús o taxi № 541 desde la estación de metro “Tushinskaya” hasta la última parada “Nicholas Uryupino” (40-60 min).
+**Transporte público**: Autobús o taxi № 541 desde la estación de metro «Tushinskaya» hasta la última parada «Nicholas Uryupino» (40-60 min).
 
 Enlace al mapa de ruta del lugar: [https://goo.gl/maps/gscqYcwWuj32](https://goo.gl/maps/gscqYcwWuj32)
 

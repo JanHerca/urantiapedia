@@ -62,7 +62,7 @@ Tabla 1. Las probabilidades de que pares de autores de Artículos del Libro de U
 
 <figure id="Figure_4" class="image urantiapedia" alt="graph">
 <img src="/image/article/606/graph.jpg">
-<figcaption>Fig. 1. La frecuencia por cada 1000 palabras de oraciones que comienzan con «El» o «Y» en múltiples artículos de un solo autor en El Libro de URANTIA. Para oraciones que comienzan con «El», la probabilidad de que los artículos sean escritos por tres o más autores es $P=0001$. Para “Y”, P=.0003 para cuatro o más autores.</figcaption>
+<figcaption>Fig. 1. La frecuencia por cada 1000 palabras de oraciones que comienzan con «El» o «Y» en múltiples artículos de un solo autor en El Libro de URANTIA. Para oraciones que comienzan con «El», la probabilidad de que los artículos sean escritos por tres o más autores es $P=0001$. Para «Y», P=.0003 para cuatro o más autores.</figcaption>
 </figure>
 
 En conjunto, estos resultados indican que cada uno de los cinco conjuntos de artículos de _El Libro de URANTIA_ fue escrito por cinco personas diferentes nominadas en el libro mismo.

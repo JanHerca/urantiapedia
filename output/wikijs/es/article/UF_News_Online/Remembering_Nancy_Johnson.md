@@ -51,7 +51,7 @@ Jesús dijo a un ciego que encontró en su camino a Jerusalén: «Recibirás la 
 
 Jay Peregrine, antiguo director ejecutivo de la Fundación Urantia, recordaba su trabajo con Nancy en el proyecto del SRT: «Siempre estuvo a la altura de mentes como la de Merritt Horn y era muy meticulosa con los detalles, incluso cuando luchaba con sus problemas de visión».
 
-Prosiguió: «En su momento, el SRT representó un proceso de sanación entre la Urantia Book Fellowship y la Fundación Urantia. En lugar de pelearnos por la versión “correcta” del libro, decidimos trabajar juntos para crear el mejor texto estándar que pudiéramos. Nancy se unió de todo corazón al esfuerzo de colaboración y fue un placer trabajar con ella. Siempre recordaré su estimulante presencia de ánimo y su cariñosa personalidad».
+Prosiguió: «En su momento, el SRT representó un proceso de sanación entre la Urantia Book Fellowship y la Fundación Urantia. En lugar de pelearnos por la versión «correcta» del libro, decidimos trabajar juntos para crear el mejor texto estándar que pudiéramos. Nancy se unió de todo corazón al esfuerzo de colaboración y fue un placer trabajar con ella. Siempre recordaré su estimulante presencia de ánimo y su cariñosa personalidad».
 
 Cece Forrester, miembro del personal de la Fundación, recuerda haber trabajado con Nancy en el Comité de Publicaciones de la Fellowship cuando Linda Buselli era su presidenta. Guarda un grato recuerdo de los extensos debates que mantenían en los almuerzos en Techny Towers, en los que las observaciones de Nancy eran un punto culminante.
 

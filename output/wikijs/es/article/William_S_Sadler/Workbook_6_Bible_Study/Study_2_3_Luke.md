@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- El buen samaritano.
 	- Primeros auxilios.
 	- Milagros de oración.
-7. Lucas tenía a Mateo (Isador), Marcos y Q (notas de Andrés). Aproximadamente un tercio proviene de Mark. Junto con Mateo deriva mucho de Q (252 versículos), pero casi la mitad de Lucas es original. También tenía la historia de Pablo y un breve registro hecho en el año 78 d.C. en Antioquía por un tal Cedes. Véase El Libro de Urantia, <a id="s103_289"></a>[LU 121:8.8](/es/The_Urantia_Book/121#p8_8).
+7. Lucas tenía a Mateo (Isador), Marcos y Q (notas de Andrés). Aproximadamente un tercio proviene de Mark. Junto con Mateo deriva mucho de Q (252 versículos), pero casi la mitad de Lucas es original. También tenía la historia de Pablo y un breve registro hecho en el año 78 d.C. en Antioquía por un tal Cedes. Véase El Libro de Urantia, <a id="s103_337"></a>[LU 121:8.8](/es/The_Urantia_Book/121#p8_8).
 8. Al parecer Lucas obtuvo muchos versículos del manuscrito de Cedes; Este documento prestó especial atención a las mujeres.
 9. El libro de Cedes era rico en parábolas: en particular, el buen samaritano, el rico insensato, el rico y Lázaro, y el fariseo y el recaudador de impuestos.
 10. Algunas cosas en Marcos que Lucas ignora:
@@ -132,7 +132,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- **Mark**: «Y al anochecer, cuando el sol se puso.» [Mc 1:32](/es/Bible/Mark/1#v32). (Versión King James)
 	- **Luke**: «Ahora cuando el sol se ponía.» [Lc 4:40](/es/Bible/Luke/4#v40). (Versión King James)
 15. Nunca se tuvo la intención de separar el libro de los Hechos de Lucas.
-16. Lucas escribió en el año 82 d.C. en Acaya. Planeaba escribir tres libros sobre el cristianismo, pero murió en el año 90 d.C., justo antes de terminar Hechos. El Libro de Urantia, <a id="s134_151"></a>[LU 121:8.8](/es/The_Urantia_Book/121#p8_8).
+16. Lucas escribió en el año 82 d.C. en Acaya. Planeaba escribir tres libros sobre el cristianismo, pero murió en el año 90 d.C., justo antes de terminar Hechos. El Libro de Urantia, <a id="s134_183"></a>[LU 121:8.8](/es/The_Urantia_Book/121#p8_8).
 17. De manera general, se puede decir que Lucas es el evangelio según Pablo.
 
 ## IV. Historia y tradición en Lucas

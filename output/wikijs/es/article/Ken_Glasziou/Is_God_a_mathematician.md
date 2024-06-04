@@ -35,7 +35,7 @@ dateCreated: 2022-09-26T08:17:51.384Z
 >
 > Albert Einstein
 
-El término relatividad se usa en 13 ocasiones en _El Libro de Urantia_. Sólo dos de ellos posiblemente se refieran a una teoría física, las teorías de la relatividad especial y general de Einstein. Ambos tienen la forma de advertencias, uno que dice: "No permitas que el concepto de relatividad te engañe de tal manera que no reconozcas la coordinación del universo bajo la guía de la mente cósmica, y su control estabilizado por la energía y espíritu del Supremo”, y «No dejen que sus incursiones con los hallazgos apenas vislumbrados de la relatividad perturben sus conceptos de la eternidad y la infinidad de Dios».
+El término relatividad se usa en 13 ocasiones en _El Libro de Urantia_. Sólo dos de ellos posiblemente se refieran a una teoría física, las teorías de la relatividad especial y general de Einstein. Ambos tienen la forma de advertencias, uno que dice: «No permitas que el concepto de relatividad te engañe de tal manera que no reconozcas la coordinación del universo bajo la guía de la mente cósmica, y su control estabilizado por la energía y espíritu del Supremo», y «No dejen que sus incursiones con los hallazgos apenas vislumbrados de la relatividad perturben sus conceptos de la eternidad y la infinidad de Dios».
 
 Estos comentarios han hecho que algunos lectores desestimen las maravillosas teorías de Einstein por carecer de importancia. Pero una lectura cuidadosa del texto en el que aparece la palabra relatividad en el libro no respalda ese punto de vista. Y recientemente, la Teoría General de la Relatividad ha demostrado ser la más precisa conocida por el hombre.
 

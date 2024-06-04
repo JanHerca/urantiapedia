@@ -124,7 +124,7 @@ Tengamos en cuenta el método que Jesús utilizaba cuando compartía una nueva r
 
 La vida de Jesús cambió el mundo. Sus enseñanzas llevaron finalmente a la creación de la Iglesia cristiana, que siguió divulgando sus enseñanzas por todo el mundo. Fue capaz de cambiar la percepción del Dios de Moisés, que describía a un Dios iracundo y vengativo, a un Dios de amor, un Padre amoroso que adora a sus hijos terrenales. Jesús nos enseñó sobre el reino de los cielos y la hermandad de los hombres, nos enseñó que hombres y mujeres están «salvados» solo por su fe.
 
-> _Cuando todo ha sido dicho y hecho, la idea de Padre continúa siendo el concepto humano más elevado de Dios._ <a id="a123_84"></a>[[LU 196:3.35](/es/The_Urantia_Book/196#p3_35)]
+> _Cuando todo ha sido dicho y hecho, la idea de Padre continúa siendo el concepto humano más elevado de Dios._ <a id="a126_112"></a>[[LU 196:3.35](/es/The_Urantia_Book/196#p3_35)]
 
 Estos sencillos mensajes de amor, fe y familia sirvieron para cambiar la percepción de la gente sobre Dios y su relación con él. Dios se volvió más personalizable, más comprensivo y compasivo con nuestras luchas terrenales.
 

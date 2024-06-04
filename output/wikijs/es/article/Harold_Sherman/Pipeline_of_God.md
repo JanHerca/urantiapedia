@@ -207,7 +207,7 @@ Los Egbert sufrieron remordimientos de conciencia mezclados con miedo al contemp
 
 El médico escuchó el relato de los Egbert y les dijo que «las inteligencias superiores los habían impulsado a proteger el nuevo proyecto de revelación», que serían recompensados ​​por sus acciones y que «ahora estaba recibiendo instrucciones» sobre cómo hacerlo. para manejar este «levantamiento».
 
-Cuando el comité de tres llegó ese mismo día, el médico los sorprendió al afirmar que sabía por qué venían a verlo, que lo habían «sacado de su cuerpo físico la noche anterior y transportado a la casa de Deane». en su forma espiritual”, donde «vio y escuchó todo lo que se decía en lo invisible».
+Cuando el comité de tres llegó ese mismo día, el médico los sorprendió al afirmar que sabía por qué venían a verlo, que lo habían «sacado de su cuerpo físico la noche anterior y transportado a la casa de Deane» en su forma espiritual, donde «vio y escuchó todo lo que se decía en lo invisible».
 
 Le dijo al asombrado comité que le habían revelado que Harold Sherman estaba «bajo la influencia de Lucifer con el propósito de destruir esta Nueva Revelación plantando las semillas de la desconfianza y la rebelión en las mentes del Foro». El médico continuó diciendo que Martha Sherman era «una víctima inocente de esta influencia maligna que se manifestaba a través de su marido», pero que Sherman sería tratado; y que cada miembro del Foro que_ _había firmado esta petición debía venir, pedir perdón_ _y tachar personalmente su firma. De lo contrario, correrían el riesgo de excomunión, incluso_ _pérdida de la vida eterna_.
 
@@ -383,7 +383,7 @@ Mientras tanto, tres miembros del Foro, probablemente más, ya han probado la ir
 
 A lo largo de los años, muchos de los seguidores de la Nueva Revelación se han mantenido firmemente fieles, unidos más por el miedo que por el amor: el temor de que la separación de la Sociedad de la Nueva Revelación pueda significar la pérdida de identidad o existencia en el Más Allá.
 
-Floyd Winters, que en un momento tomó la iniciativa de protestar contra las cosas que consideraba incorrectas y que capituló en el momento de la llamada «rebelión de Lucifer», se ha dedicado desde entonces a la creación de un «Concordex» brillantemente concebido. de _El Libro de la Nueva Revelación.”_ Es un logro colosal, cuyo desarrollo tuvo que haber requerido algunos años. Examinar su sorprendente resumen de los temas tratados en _El Libro de la Nueva Revelación_ haría sentir que esta autorizada lista de contenidos debe referirse a una Segunda Biblia verdaderamente reveladora.
+Floyd Winters, que en un momento tomó la iniciativa de protestar contra las cosas que consideraba incorrectas y que capituló en el momento de la llamada «rebelión de Lucifer», se ha dedicado desde entonces a la creación de un «Concordex» brillantemente concebido de «_El Libro de la Nueva Revelación.»_ Es un logro colosal, cuyo desarrollo tuvo que haber requerido algunos años. Examinar su sorprendente resumen de los temas tratados en _El Libro de la Nueva Revelación_ haría sentir que esta autorizada lista de contenidos debe referirse a una Segunda Biblia verdaderamente reveladora.
 
 Siento la más profunda admiración por Floyd, a quien no he visto ni oído hablar desde que salimos de Chicago, por el ejemplo de lealtad que ha dado y la enorme energía que ha gastado en nombre del proyecto Nueva Revelación. Sólo lamento por él y por todos nosotros que esta empresa no haya resultado como idealmente esperábamos.
 

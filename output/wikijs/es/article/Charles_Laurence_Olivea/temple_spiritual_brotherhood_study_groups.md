@@ -46,11 +46,11 @@ Del mismo modo, los grupos de estudio son raíces que sustentan un gran movimien
 La socialización o divulgación de la quinta revelación de época a través de una red creciente de grupos de estudio dependerá de lo que los participantes aporten a esas reuniones y lo que obtengan de ellas. Las interacciones entre personas, cuando se hacen en una búsqueda reveladora de Dios, pueden tocar el espíritu de su gracia y, de este modo, elevar la conciencia humana. Recuerden que la búsqueda de Dios es nada menos que la búsqueda de la fuente y centro de todas las cosas y todos los seres. Es más, un arcángel de Nebadon nos asegura que
 <br style="clear:both;"/>
 
-> … El conocimiento sólo se posee compartiéndolo; es salvaguardado por la sabiduría y se socializa por medio del amor. <a id="a47_97"></a>[[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
+> … El conocimiento sólo se posee compartiéndolo; es salvaguardado por la sabiduría y se socializa por medio del amor. <a id="a48_119"></a>[[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
 
 Un Mensajero Solitario refuerza este punto con esta generalización:
 
-> _La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia._ <a id="a51_139"></a>[[LU 112:1.6](/es/The_Urantia_Book/112#p1_6)]
+> _La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia._ <a id="a52_176"></a>[[LU 112:1.6](/es/The_Urantia_Book/112#p1_6)]
 
 Conocer a otros que tienen mente y espíritu afines _**es**_ el gran beneficio directo de los grupos de estudio. La tesis ofrecida en este ensayo se ocupa de las razones vivas para que las personas se reúnan regularmente con el fin de buscar a Dios intelectual y espiritualmente.
 
@@ -67,13 +67,13 @@ Vamos más allá del papel de ser meros lectores del libro; estamos más en el p
 Un nuevo punto de vista de hechos antiguos o de una perspectiva convencional puede constituir un «odre nuevo». Es lo que proponemos aquí. La utilidad de un punto de vista diferente fue explicada por un arcángel, mientras hacía referencia a afirmaciones de filosofía humana con fines instructivos en el primer mundo mansión:
 <br style="clear:both;"/>
 
-> Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria. <a id="a68_83"></a>[[LU 48:7.22](/es/The_Urantia_Book/48#p7_22)]
+> Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria. <a id="a69_92"></a>[[LU 48:7.22](/es/The_Urantia_Book/48#p7_22)]
 
 La designación de los grupos de estudio como «escuelas», con todas las implicaciones educativas que conlleva, abre el acto de estudiar a un concepto más elevado , dignificado y noble, dado su carácter revelador e importancia planetaria (potencial). Profundiza y amplía la perspectiva del **universo** en ellos, de ahí lo de «odres nuevos».
 
 Además, la composición de persona a persona de los grupos de estudio puede servir como medio para maximizar la dinámica del grupo de estudio. Creo que las relaciones entre compañeros dedicados al estudio de la revelación se extienden al Padre Universal, Miguel de Nebadon, el Supremo y los ángeles. Vale la pena reflexionar sobre lo que nos dice un Mensajero Solitario respecto a la vitalidad de las relaciones entre personas:
 
-> Todo lo que no es espiritual en la experiencia humana, salvo la personalidad, es un medio para conseguir un fin. Toda verdadera relación del hombre mortal con otras personas — humanas o divinas — es un fin en sí misma.  <a id="a74_189"></a>[[LU 112:2.8](/es/The_Urantia_Book/112#p2_8)]
+> Todo lo que no es espiritual en la experiencia humana, salvo la personalidad, es un medio para conseguir un fin. Toda verdadera relación del hombre mortal con otras personas — humanas o divinas — es un fin en sí misma.  <a id="a75_222"></a>[[LU 112:2.8](/es/The_Urantia_Book/112#p2_8)]
 
 Con esta observación en mente, las escuelas (los grupos de estudio) pueden entenderse en términos de las facetas más importantes de las interacciones entre personas: de corazón a corazón, de mente a mente, de alma a alma.
 
@@ -81,13 +81,13 @@ Con esta observación en mente, las escuelas (los grupos de estudio) pueden ente
 
 El término «estudio» parece originarse en inglés durante el siglo XIV, y podría definirse como
 
-> _«…estado de contemplación… aplicación de las facultades mentales a la adquisición de conocimiento… en un campo particular… o para un objeto específico… **consideración ampliada** y cuidadosa… o análisis de un fenómeno … o cuestión.”_ El término modificado en profundidad fue acuñado en 1965 y podría definirse como  _“examen en profundidad, exhaustivo y… detallado”._ (Webster’s Ninth New Collegiate Dictionary)  (negrita añadida)
+> _«…estado de contemplación… aplicación de las facultades mentales a la adquisición de conocimiento… en un campo particular… o para un objeto específico… **consideración ampliada** y cuidadosa… o análisis de un fenómeno … o cuestión.»_ El término modificado en profundidad fue acuñado en 1965 y podría definirse como  _«examen en profundidad, exhaustivo y… detallado»._ (Webster’s Ninth New Collegiate Dictionary)  (negrita añadida)
 
 En mi opinión, _El libro de Urantia_ está concebido para ser estudiado. Es evidente en la manera en que se presentan los hechos, significados y valores. A lo largo de los años, he oído a muchas personas comentar que, cuando surgen preguntas en un párrafo, a menudo se responden en los párrafos siguientes. Hay una progresión lógica de lo general a lo particular. Es la naturaleza de la revelación _**fomentar**_ cierto nivel de indagación: ¿De dónde vengo? ¿Quién soy? ¿Por qué estoy aquí? ¿A dónde voy?
 
 Un Consejero Divino ha señalado que:
 
-> El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.” <a id="a88_304"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]   (negrita añadida)
+> El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. <a id="a89_346"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]   (negrita añadida)
 
 El estudio (complementado con el servicio) es una característica profundamente importante del desafío. Todos los que están comprometidos realmente con la quinta revelación de época se tomarán el estudio en serio.
 
@@ -112,12 +112,12 @@ Se pueden extraer ciertas inferencias de estos términos respecto a la naturalez
 
 Pensar en grupos de estudio como en escuelas de la revelación puede realzar su dignidad espiritual y cósmica, pues se invierte en ellas con capital del universo. Profundiza y amplía el contexto de estas reuniones. No son quedadas sociales, aunque siempre se debe fomentar que haya vínculos sociales amistosos. Esta revelación implica algo de elevación bastante pesada. La visión a largo plazo indica que el destino de la civilización de Urantia y el futuro de la religión de Jesús pende de un hilo entre la imperfección humana y las perspectivas de una edad final de luz y vida.
 
-Con nuestro reconocimiento al Consejero Divino, tenemos que estudiar de la manera en que _El libro de Urantia_ está construido y dispuesto, es decir, tenemos que usar los mismos principios pedagógicos: ir de lo complejo a lo simple, esto es, desde la visión extensa al presente en movimiento, mediante la perspectiva del origen, la historia y el destino aplicada a los asuntos contemporáneos (<a id="a116_354"></a>[LU 19:1.5-6](/es/The_Urantia_Book/19#p1_5)) Con esta idea en mente, sería provechoso determinar cómo la cultura morontial prioriza la práctica del estudio. ¿Qué «valor universal» se asigna al estudio?
+Con nuestro reconocimiento al Consejero Divino, tenemos que estudiar de la manera en que _El libro de Urantia_ está construido y dispuesto, es decir, tenemos que usar los mismos principios pedagógicos: ir de lo complejo a lo simple, esto es, desde la visión extensa al presente en movimiento, mediante la perspectiva del origen, la historia y el destino aplicada a los asuntos contemporáneos (<a id="a114_393"></a>[LU 19:1.5-6](/es/The_Urantia_Book/19#p1_5)) Con esta idea en mente, sería provechoso determinar cómo la cultura morontial prioriza la práctica del estudio. ¿Qué «valor universal» se asigna al estudio?
 
 Ante todo, sabemos que, cuando la mayoría de los peregrinos del tiempo alcanzan el quinto mundo mansión:
 <br style="clear:both;"/>
 
-> El estudio se vuelve voluntario, el servicio desinteresado, natural, y la adoración, espontánea. <a id="a121_85"></a>[[LU 47:7.5](/es/The_Urantia_Book/47#p7_5)]
+> El estudio se vuelve voluntario, el servicio desinteresado, natural, y la adoración, espontánea. <a id="a119_99"></a>[[LU 47:7.5](/es/The_Urantia_Book/47#p7_5)]
 
 ¿No es interesante? De todas las diferentes conductas o normas en las que la Brillante Estrella Vespertina podría haberse centrado, se hace hincapié en el estudio, el servicio y la adoración. El primero desarrolla la mente (mota); el segundo ejercita el alma (por pedir prestada una expresión); y la tercera entra en comunión con Dios (la alegría suprema de la existencia de la personalidad). ¡Qué grandes prioridades! Pero hay más.
 
@@ -125,15 +125,15 @@ Sigo pensando que caracterizar los grupos de estudio humanos como «escuelas» e
 
 Un arcángel nos ha dado una vívida descripción de las prioridades de la cultura morontial de Jerusem, la capital de nuestro sistema de planetas.
 
-> _Las actividades… son de tres tipos distintos: trabajo, progreso y entretenimiento. Dicho de otra manera: **servicio, estudio** y distracción._ <a id="a129_140"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)] (negrita añadida)
+> _Las actividades… son de tres tipos distintos: trabajo, progreso y entretenimiento. Dicho de otra manera: **servicio, estudio** y distracción._ <a id="a127_146"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)] (negrita añadida)
 
 Qué interesante; el estudio se iguala al progreso y el servicio se iguala al trabajo. Estas normas morontiales, esbozadas por el arcángel, deben reflejar los objetivos centrales de las escuelas de pensamiento, sentimiento y acción. Este arcángel continúa señalando que:
 
-> Aquellas cosas que podríais haber aprendido en la Tierra, pero que no lograsteis aprender, deben ser adquiridas bajo la tutela de estos fieles y pacientes educadores. <a id="a133_156"></a>[[LU 48:5.7](/es/The_Urantia_Book/48#p5_7)]
+> Aquellas cosas que podríais haber aprendido en la Tierra, pero que no lograsteis aprender, deben ser adquiridas bajo la tutela de estos fieles y pacientes educadores. <a id="a131_169"></a>[[LU 48:5.7](/es/The_Urantia_Book/48#p5_7)]
 
-Efectivamente, ir a la escuela es un concepto y una práctica universales. Sabemos por la Brillante Estrella Vespertina que «todo el universo es una inmensa escuela” (<a id="a135_144"></a>[LU 37:6.2](/es/The_Urantia_Book/37#p6_2)) El arcángel discurre sobre este punto:
+Efectivamente, ir a la escuela es un concepto y una práctica universales. Sabemos por la Brillante Estrella Vespertina que «todo el universo es una inmensa escuela» (<a id="a133_166"></a>[LU 37:6.2](/es/The_Urantia_Book/37#p6_2)) El arcángel discurre sobre este punto:
 
-> _Si los Dioses simplemente hubieran planeado llevaros a una larga excursión de alegría eterna, ciertamente no habrían transformado en tan gran medida todo el universo en una inmensa y compleja escuela de educación práctica, no habrían requisado una parte considerable de la creación celestial como maestros e instructores, y luego pasar eras y eras guiándoos, uno a uno, a través de esta gigantesca escuela universal de educación experiencial._ <a id="a137_404"></a>[[LU 48:8.3](/es/The_Urantia_Book/48#p8_3)]
+> _Si los Dioses simplemente hubieran planeado llevaros a una larga excursión de alegría eterna, ciertamente no habrían transformado en tan gran medida todo el universo en una inmensa y compleja escuela de educación práctica, no habrían requisado una parte considerable de la creación celestial como maestros e instructores, y luego pasar eras y eras guiándoos, uno a uno, a través de esta gigantesca escuela universal de educación experiencial._ <a id="a135_447"></a>[[LU 48:8.3](/es/The_Urantia_Book/48#p8_3)]
 
 El estudio, el servicio y la adoración son un diamante de muchas caras. De nuevo, podemos observar que es más digno caracterizar los grupos de estudio como «escuelas». Los grupos de estudio deben reconocerse por su valor universal: la contribución que pueden hacer para implementar el mandato de Dios a los mortales ascendentes de ser finalmente perfectos como él es perfecto.
 
@@ -162,11 +162,11 @@ Por último, se debería considerar de manera provechosa la oración y adoració
 Podemos aspirar a ser _**instrumentos**_ efectivos en la búsqueda de la verdad, pero el Padre y el Hijo Creador son siempre la _**inspiración**_. Me gusta lo que dice el Mensajero Poderoso acerca del Espíritu de la Verdad, el regalo más grande que Miguel dio a Urantia, aparte de su otorgamiento propiamente dicho:
 <br style="clear:both;"/>
 
-> _Después de emprender el camino de la vida eterna, después de **aceptar vuestra tarea** y de recibir vuestras órdenes para progresar, no temáis los peligros de la falta de memoria de los hombres ni la inconstancia de los mortales, no os inquietéis por el miedo al fracaso o por las confusiones que causan perplejidad, no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino»._  <a id="a166_455"></a>[[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)] (negrita añadida)
+> _Después de emprender el camino de la vida eterna, después de **aceptar vuestra tarea** y de recibir vuestras órdenes para progresar, no temáis los peligros de la falta de memoria de los hombres ni la inconstancia de los mortales, no os inquietéis por el miedo al fracaso o por las confusiones que causan perplejidad, no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino»._  <a id="a164_553"></a>[[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)] (negrita añadida)
 
 Me parece que el Espíritu aclara y consuela. El Espíritu es muy útil para estudiar y servir. Intentar comenzar un grupo de estudio puede ser abrumador; servir como líder puede ser problemático. ¿Por qué no crear el hábito de acceder a algunos de los recursos espirituales dados a nuestro mundo? El jefe de los intermedios de Urantia tiene algo que decir al respecto:
 
-> _Cuando un grupo se dedica a orar en común por el acrecentamiento moral y la elevación espiritual, estas devociones producen efecto en los individuos que componen el grupo; **todos se vuelven mejores gracias a esta participación**…_ <a id="a170_320"></a>[[LU 91:5.2](/es/The_Urantia_Book/91#p5_2)] (negrita añadida)
+> _Cuando un grupo se dedica a orar en común por el acrecentamiento moral y la elevación espiritual, estas devociones producen efecto en los individuos que componen el grupo; **todos se vuelven mejores gracias a esta participación**…_ <a id="a168_235"></a>[[LU 91:5.2](/es/The_Urantia_Book/91#p5_2)] (negrita añadida)
 
 Todo estudio necesita una medida de valor para enfrentarse a problemas o preguntas que intimidan a muchos otros. Se necesita incluso más valor para debatir sobre ellos con un grupo de personas cuyas percepciones difieren considerablemente. El corazón se puede aquietar y el intelecto aclarar si los participantes están dispuestos a lanzar juntos una petición común, o estar juntos en comunión mediante adoración, junto con un poder más alto. Es importante recordar que debería hacerse sin presión ni coerción. Aún así, la cohesión espiritual de un grupo puede comprender visiones más amplias y profundas. En todos esos esfuerzos, _**confíen**_ en Dios.
 
@@ -174,7 +174,7 @@ Todo estudio necesita una medida de valor para enfrentarse a problemas o pregunt
 
 Mientras vivimos en Urantia como criaturas del tiempo y el espacio, somos también ciudadanos cósmicos. El Mensajero Poderoso señala que:
 
-> _Con Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la **realización** es el requisito previo para conseguir una posición — uno tiene que hacer algo, así como ser algo.”_ <a id="a178_178"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)] (negrita añadida)
+> _Con Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la **realización** es el requisito previo para conseguir una posición — uno tiene que hacer algo, así como ser algo._ <a id="a176_200"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)] (negrita añadida)
 
 Hemos visto cómo la cultura morontial prioriza el estudio y el servicio. Parece que estudiar funciona como norma a lo largo de los universos del tiempo y el espacio. Creo que el proceso de comenzar y mantener un grupo de estudio contribuye directamente al Supremo. El valor universal del estudio está vinculado de manera natural con el Supremo. Es algo de lo que ser conscientes. El Supremo está actualizando nuestro potencial del plan de ascensión del logro universal incluso mientras residimos en la tierra. Aquí abajo, como criaturas evolutivas, podemos aportar al desarrollo gradual y en despliegue de Orvonton, nuestro universo, en reciprocidad con el Dios finito, el Dios de la evolución. Esta reciprocidad es inherente por diseño a las relaciones de la Supremacía. Es una tarea elevada y noble (de hecho un deber cósmico, moral) contribuir a la construcción del universo. El Padre Universal nos ha delegado algo importante que hacer.
 
@@ -189,7 +189,7 @@ Pero para llevar esta línea de razonamiento directamente a nuestro planeta nata
 Nos vienen a la mente los ángeles de la iluminación. Según el jefe de los serafines, nuestro mundo
 <br style="clear:both;"/>
 
-> _… recibe actualmente la ayuda del tercer cuerpo de serafines dedicados a fomentar la educación planetaria. Estos ángeles se ocupan de la formación mental y moral relacionada con los individuos, las familias, **los grupos, las escuelas**, las comunidades, las naciones y las razas enteras._ <a id="a193_272"></a>[[LU 114:6.11](/es/The_Urantia_Book/114#p6_11)] (negrita añadida)
+> _… recibe actualmente la ayuda del tercer cuerpo de serafines dedicados a fomentar la educación planetaria. Estos ángeles se ocupan de la formación mental y moral relacionada con los individuos, las familias, **los grupos, las escuelas**, las comunidades, las naciones y las razas enteras._ <a id="a191_293"></a>[[LU 114:6.11](/es/The_Urantia_Book/114#p6_11)] (negrita añadida)
 
 ¿Es disparatado sugerir que nuestro grupo de estudio encaja limpiamente con su esfera de interés? Los Documentos Urantia, como tema principal del grupo de estudio, parecen estar directamente relacionados con el ámbito de responsabilidad de estos ángeles.
 
@@ -225,7 +225,7 @@ Nuestras enseñanzas pueden servir como faro cuyo foco brillará con fuerza en u
 
 ¿No podemos _**unirnos**_ alrededor de este resultado esperado como objetivo común de nuestro movimiento?
 
-¿No sería lógico que los medios para lograr tal fin sean la evolución de «miles de grupos de estudio”, «escuelas» que se reúnen en salas de estar de personas? El efecto faro de estas escuelas podría pensarse de dos maneras: cada grupo de estudio podría convertirse en un faro por sí solo o como luz de la coalición benigna de miles de grupos de estudio en un agregado a escala planetaria. ¡O quizá ambas maneras en dos niveles diferentes al mismo tiempo!
+¿No sería lógico que los medios para lograr tal fin sean la evolución de «miles de grupos de estudio», «escuelas» que se reúnen en salas de estar de personas? El efecto faro de estas escuelas podría pensarse de dos maneras: cada grupo de estudio podría convertirse en un faro por sí solo o como luz de la coalición benigna de miles de grupos de estudio en un agregado a escala planetaria. ¡O quizá ambas maneras en dos niveles diferentes al mismo tiempo!
 
 Lograr todo esto depende de la calidad y alcance de combinar mente y espíritu en un esfuerzo evolutivo. Un gran instructor al principio de la historia de _El libro de Urantia_ señaló que esta revelación habla profundamente _**tanto a**_ la mente como al espíritu, a diferencia de tantas filosofías y religiones. Nuestro movimiento de diseminación de sus enseñanzas debe estar centrado en Dios. Necesitamos ser humildes. No lo escribimos; fue escrito para nosotros. La quinta revelación de época está bajo la autoridad de Miguel de Nebadon. Por tanto, nuestra lealtad, amistad y respeto debe dirigirse primero hacia él y después de unos a otros.
 <br style="clear:both;"/>
@@ -236,7 +236,7 @@ El humilde acto de estudiar _El libro de Urantia_ es una empresa noble. Es noble
 
 Aludo a la reciprocidad amorosa de la Supremacía, tal como la explica un Mensajero Poderoso:
 
-> En la era actual del universo, este doble movimiento se revela en las personalidades descendentes y ascendentes del gran universo. Las Personalidades Creadoras Supremas y todos sus asociados divinos reflejan el movimiento hacia el exterior y divergente del Supremo, mientras que los peregrinos ascendentes de los siete superuniversos indican la tendencia hacia el interior y convergente de la Supremacía. <a id="a240_381"></a>[[LU [LU 115:6.5](/es/The_Urantia_Book/115#p6_5)](/es/The_Urantia_Book/115#p6_5)]
+> En la era actual del universo, este doble movimiento se revela en las personalidades descendentes y ascendentes del gran universo. Las Personalidades Creadoras Supremas y todos sus asociados divinos reflejan el movimiento hacia el exterior y divergente del Supremo, mientras que los peregrinos ascendentes de los siete superuniversos indican la tendencia hacia el interior y convergente de la Supremacía. <a id="a238_407"></a>[[LU [LU 115:6.5](/es/The_Urantia_Book/115#p6_5)](/es/The_Urantia_Book/115#p6_5)]
 
 Además de todo esto, nos beneficiamos ahora mismo como hijos del Padre Universal (verdaderos hermanos y hermanas) que saborean en el tiempo la verdad, belleza y bondad de los significados eternos.
 

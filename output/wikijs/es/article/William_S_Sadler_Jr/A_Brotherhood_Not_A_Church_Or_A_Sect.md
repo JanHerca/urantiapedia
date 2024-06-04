@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 «¿Qué es la Hermandad URANTIA? ¿Otra secta? Esta pregunta se la han formulado más de una vez al redactor de este informe. A esta pregunta siempre se ha dado una respuesta negativa: «No, la Hermandad Urantia no es ni una iglesia ni una secta. Es simplemente un grupo social que tiene un objetivo religioso».
 
-Hay un lugar real en la civilización moderna para un grupo de personas religiosas que están «_...dispuestas a despojarse por completo de toda autoridad eclesiástica, y a abandonar plenamente todo concepto de soberanía espiritual. Sólo Dios es el soberano espiritual._» ([LU 134:4.4](/es/The_Urantia_Book/134#p4_4)). El mundo moderno apenas necesita otra iglesia, otra secta. En la actualidad, sufrimos una plétora de iglesias y una multiplicación de sectas.
+Hay un lugar real en la civilización moderna para un grupo de personas religiosas que están «_...dispuestas a despojarse por completo de toda autoridad eclesiástica, y a abandonar plenamente todo concepto de soberanía espiritual. Sólo Dios es el soberano espiritual._» (<a id="a39_270"></a>[LU 134:4.4](/es/The_Urantia_Book/134#p4_4)). El mundo moderno apenas necesita otra iglesia, otra secta. En la actualidad, sufrimos una plétora de iglesias y una multiplicación de sectas.
 
 Pero, si no somos una iglesia, ¿en qué nos diferenciamos de una iglesia? Si podemos ver claramente en qué nos diferenciamos, entonces tal vez podamos mantener dichas diferencias. Y, si podemos mantener estas diferencias, entonces podremos preservar nuestra organización como una Hermandad distintiva; tal vez podamos evitar una posible evolución en dirección a una iglesia.
 

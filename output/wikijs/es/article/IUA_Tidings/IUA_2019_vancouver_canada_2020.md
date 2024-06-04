@@ -48,7 +48,7 @@ En concreto aspiramos a la unidad espiritual con la finalidad de realizar cambio
 Mientras compartimos una idea común de destino y esperanza reconocemos también que nuestra unidad espiritual se basa en la personalidad libre y en la originalidad de espíritu. Como dijo Jesús:
 <br style="clear:both;"/>
 
-> «No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente.» <a id="a49_105"></a>[[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
+> «No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente.» <a id="a50_150"></a>[[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
 
 La revelación Urantia, la oración y la adoración nos proporcionan inspiración y guía cuando trabajamos en plena cooperación con los ángeles del progreso para proporcionar un entorno positivo que conduzca tanto a la participación individual como en grupo.
 
@@ -58,11 +58,11 @@ Deseamos que la Experiencia Global Urantia reúna a pensadores libres y original
 
 ### Grupos de enfoque—Pensar dentro de los círculos
 
-Los participantes de los grupos de enfoque comenzarán sus debates concentrándose en doce puntos esbozados en El libro de Urantia bajo la sección «La civilización progresiva» [[LU 71:4](/es/The_Urantia_Book/71#p4)]. La meta de las sesiones de los grupos de enfoque es estar unidos en propósito para lograr, a través del trabajo en equipo, una mayor comprensión y actualización de Dios Supremo. Los grupos de enfoque buscan establecer unos cimientos de valores más elevados sobre los que construir visiones de un entorno social progresivo.
+Los participantes de los grupos de enfoque comenzarán sus debates concentrándose en doce puntos esbozados en El libro de Urantia bajo la sección «La civilización progresiva» <a id="a60_174"></a>[[LU 71:4](/es/The_Urantia_Book/71#p4)]. La meta de las sesiones de los grupos de enfoque es estar unidos en propósito para lograr, a través del trabajo en equipo, una mayor comprensión y actualización de Dios Supremo. Los grupos de enfoque buscan establecer unos cimientos de valores más elevados sobre los que construir visiones de un entorno social progresivo.
 
 ### Equipos de visión—Construir fuera de los círculos
 
-> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina._ <a id="a63_303"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]
+> _El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina._ <a id="a64_348"></a>[[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)]
 
 Los equipos de visión estarán formados por presentadores, panelistas, líderes de proyectos, autores, artistas y conferenciantes inspiradores que se implicarán en crear metas de proyectos de servicio colaborativo para la revelación, así como en aprender y contribuir a proyectos existentes o emergentes en el servicio futuro a la civilización.
 
@@ -70,7 +70,7 @@ El objetivo es implicarse en las ideas obtenidas en los debates matutinos y esbo
 
 Tanto los grupos de enfoque como los equipos de visión presentarán y compartirán sus ideas y conclusiones colectivas al final de la experiencia. Estas ideas darán forma a la base de centros actuales de diálogo en los que todos los participantes pueden involucrarse. Esperamos inspirar a todos a que continúen haciendo evolucionar estas ideas con la intención de hacerlas realidad en el escenario mundial.
 
-> _«Después, cuando tengas la bendición de la visión espiritual, sal a hacer tu trabajo dedicando tu vida a la causa de guiar a la humanidad en la búsqueda de Dios, y a perseguir las realidades eternas con el ojo de la fe espiritual y no con los ojos de la mente material.»_ <a id="a71_260"></a>[[LU 181:2.20](/es/The_Urantia_Book/181#p2_20)]
+> _«Después, cuando tengas la bendición de la visión espiritual, sal a hacer tu trabajo dedicando tu vida a la causa de guiar a la humanidad en la búsqueda de Dios, y a perseguir las realidades eternas con el ojo de la fe espiritual y no con los ojos de la mente material.»_ <a id="a72_275"></a>[[LU 181:2.20](/es/The_Urantia_Book/181#p2_20)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Sponsors-sign-off-article-706x209.jpg">

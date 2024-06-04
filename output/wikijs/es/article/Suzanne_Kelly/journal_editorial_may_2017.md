@@ -50,7 +50,7 @@ En este número de mayo, tenemos dos artículos motivadores para nuestro disfrut
 
 Charles aborda la naturaleza y la importancia morontial de los grupos de estudio, su estructura y liderazgo, las repercusiones de sus logros y
 
-> _«Con Dios Supremo, la **realización** es el requisito previo para conseguir una posición — uno tiene que hacer algo, así como ser algo.»_ <a id="a51_121"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)] (negrita añadida)
+> _«Con Dios Supremo, la **realización** es el requisito previo para conseguir una posición — uno tiene que hacer algo, así como ser algo.»_ <a id="a52_141"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)] (negrita añadida)
 
 El segundo artículo es _Las repercusiones del Aleluya,_ de Neal Waldrup.  Es una melodiosa interpretación de _El Mesías_ de George Frideric Handel  [^1] y su lírica comparación de textos con _El libro de Urantia_:
 

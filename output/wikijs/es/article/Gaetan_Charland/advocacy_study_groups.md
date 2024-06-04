@@ -43,7 +43,7 @@ Creo que hay varias causas para este lento crecimiento, algunas necesarias y otr
 Debido quizá a que los grupos de estudio han sido parte integrante del paisaje desde los días del Foro en los inicios del movimiento Urantia, es fácil volverse complaciente en cuanto a crear, mantener, mejorar y participar en grupos de estudio. Pero en verdad esta no es la única causa de cansancio que muchos han desarrollado en relación con los grupos de estudio. Los reveladores nos advirtieron de alguna manera sobre nuestra capacidad o incapacidad de lidiar con una revelación asociada a la evolución humana cuando dijeron:
 <br style="clear:both;"/>
 
-> «(Ustedes) que han dedicado (sus) vidas al servicio del libro y la hermandad apenas logran darse cuenta de la importancia de (sus) acciones. Sin lugar a dudas, (ustedes) vivirán y morirán sin  tomar consciencia cabal de que están siendo partícipes del nacimiento de una nueva era de la religión en este mundo.” [El Mandato de Publicación](/es/article/The_Publication_Mandate)
+> «(Ustedes) que han dedicado (sus) vidas al servicio del libro y la hermandad apenas logran darse cuenta de la importancia de (sus) acciones. Sin lugar a dudas, (ustedes) vivirán y morirán sin  tomar consciencia cabal de que están siendo partícipes del nacimiento de una nueva era de la religión en este mundo.» [El Mandato de Publicación](/es/article/The_Publication_Mandate)
 
 Y van más lejos en su deseo de guiarnos en la forma en que debemos continuar con la misión de divulgar la buena nueva cuando nos dicen:
 

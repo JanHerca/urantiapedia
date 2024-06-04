@@ -83,7 +83,7 @@ Cada espectáculo está escrito con un texto diseñado y formulado para ese even
 
 «El espectáculo es un intento de fusionar la verdadera realidad cósmica con la virtualidad definitiva, una fusión de la experiencia espiritual con la conciencia cósmica existencial.»
 
-> La elevada misión de cualquier arte es anunciar, mediante sus ilusiones, una realidad universal superior, cristalizar las emociones del tiempo en el pensamiento de la eternidad. <a id="a84_159"></a>[[LU 48:7.23](/es/The_Urantia_Book/48#p7_23)]
+> La elevada misión de cualquier arte es anunciar, mediante sus ilusiones, una realidad universal superior, cristalizar las emociones del tiempo en el pensamiento de la eternidad. <a id="a85_180"></a>[[LU 48:7.23](/es/The_Urantia_Book/48#p7_23)]
 
 «Con lo dicho en mente, ilumínense en un universo de Luz, Vida y Amor, y compartamos nuestra alegría en una conquista siempre inmortal de la verdad, la bondad y la belleza.»
 

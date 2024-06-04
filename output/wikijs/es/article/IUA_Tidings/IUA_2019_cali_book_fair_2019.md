@@ -44,13 +44,13 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Ganid le preguntó a Jesús:
 
-> _«¿Por qué te ocupas continuamente en hablar con extraños?» Y Jesús respondió: «Ganid, ningún hombre es un extraño para el que conoce a Dios. En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto?. Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida.»_ <a id="a45_494"></a>[[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
+> _«¿Por qué te ocupas continuamente en hablar con extraños?» Y Jesús respondió: «Ganid, ningún hombre es un extraño para el que conoce a Dios. En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto?. Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida.»_ <a id="a46_475"></a>[[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
 
 Este año decidimos añadir un código QR a los folletos para que los visitantes pudieran descargar directamente el libro en PDF desde Internet. Esto animó y cautivó a muchos jóvenes. Era un regalo escuchar sus preguntas y compartir la revelación con ellos.
 
 Descubrimos a nuevos lectores, algunos de los cuales prometieron unirse a nuestros grupos, mientras que otros estaban dispuestos a darnos apoyo de diferentes maneras. También hicimos una presentación de _El libro de Urantia_ a 30 personas en el recinto ferial.
 
-Las ferias de libros son un lugar magnífico de servicio amoroso, y también sirven para aprender a templar el carácter y significados exaltados. Veinte voluntarios tuvieron la bendición de sentir «Las satisfacciones supremas de servir con amor a los hombres» <a id="a51_226"></a>[[LU 170:4.12](/es/The_Urantia_Book/170#p4_12)].
+Las ferias de libros son un lugar magnífico de servicio amoroso, y también sirven para aprender a templar el carácter y significados exaltados. Veinte voluntarios tuvieron la bendición de sentir «Las satisfacciones supremas de servir con amor a los hombres» <a id="a52_258"></a>[[LU 170:4.12](/es/The_Urantia_Book/170#p4_12)].
 
 Sentimos la experiencia del amor y la entrega cuando comunicábamos la revelación, y también nos sentimos apoyados y ayudados por todas las instancias humanas y divinas. Nuestro agradecimiento especial para la Asociación Urantia Internacional y sus colaboradores, que contribuyeron a este gran éxito.
 

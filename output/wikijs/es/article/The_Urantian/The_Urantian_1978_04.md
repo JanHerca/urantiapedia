@@ -68,7 +68,7 @@ _Richardson, Texas_
 
 ## El poder del Supremo
 
-> «_Pero ningún mortal que conoce a Dios estará nunca solo en su viaje por el cosmos, porque sabe que el Padre camina a su lado en cada etapa del camino, mientras que el camino mismo que atraviesa es la presencia del Supremo._» ([LU 117:6.27](/es/The_Urantia_Book/117#p6_27))
+> «_Pero ningún mortal que conoce a Dios estará nunca solo en su viaje por el cosmos, porque sabe que el Padre camina a su lado en cada etapa del camino, mientras que el camino mismo que atraviesa es la presencia del Supremo._» (<a id="a70_229"></a>[LU 117:6.27](/es/The_Urantia_Book/117#p6_27))
 
 Así como el agua busca un punto situado más abajo que su fuente, así el Infinito puede extenderse hacia lo finito, fluyendo hacia abajo en el espacio-tiempo. El Supremo debe ser entonces el movimiento centrífugo del Infinito hacia lo Finito, y la Supremacía la reacción centrípeta de la creación finita al llamado del Infinito.
 
@@ -82,7 +82,7 @@ _Bulogne, Francia_
 
 ## Servicio Supremo
 
-Sin perjuicio de que «_la capacidad de comprensión intelectual del hombre queda agotada ante el concepto máximo del Ser Supremo_» ([LU 115:3.4](/es/The_Urantia_Book/115#p3_4)), sé simplemente que estamos relacionados porque ambos tenemos la misma última designación: SER. Aunque yo como ser humano no soy más que una mota de arena y él como Ser Supremo es el Sahara de arena, somos de la misma familia.
+Sin perjuicio de que «_la capacidad de comprensión intelectual del hombre queda agotada ante el concepto máximo del Ser Supremo_» (<a id="a84_131"></a>[LU 115:3.4](/es/The_Urantia_Book/115#p3_4)), sé simplemente que estamos relacionados porque ambos tenemos la misma última designación: SER. Aunque yo como ser humano no soy más que una mota de arena y él como Ser Supremo es el Sahara de arena, somos de la misma familia.
 
 Al intentar visualizar al Dios finito e invisible que todavía tengo que discernir, me imagino la pintura vaticana de Miguel Ángel de un Dios humano, parecido a un padre, extendiéndose para tocar la mano del hombre, su hijo terrenal. Es como si fuéramos las yemas de los dedos del Supremo mientras él se extiende hacia la lejana Urantia de la distante Nebadon en los límites extremos del superuniverso de Orvonton y actualizamos cada vez más nuestros potenciales dados por Dios. Nuestras conciencias materiales pasan a formar parte del sistema nervioso del Ser Supremo.
 
@@ -97,7 +97,7 @@ El valor universal de cada ciudadano mortal está subrayado por un solo acto del
 
 _Los editores_
 
-> «_CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo._» ([LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
+> «_CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo._» (<a id="a99_198"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
 
 
 

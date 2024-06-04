@@ -138,7 +138,7 @@ He conocido a lectores del_Libro de Urantia_ que quieren pasar por alto esta fas
 > «Solo un paseo más cercano contigo;
 > Concédeme, Señor, esta oración;
 > Caminando diariamente cerca de Ti,
-> Que así sea, querido Señor, que así sea.»”
+> Que así sea, querido Señor, que así sea.»
 
 ¿Y qué mayor regalo podemos ofrecer al Dios de Nebadon que nosotros mismos? Feliz cumpleaños, Señor Jesús.
 

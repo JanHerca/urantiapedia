@@ -70,7 +70,7 @@ Sólo quien arriesga es libre.
 
 Autor desconocido
 
-> «No lo olvidéis —vuestra fe personal en las promesas extremadamente grandes y preciosas de Dios es la que os garantiza que os convertiréis en partícipes de la naturaleza divina.». (<a id="a48_183"></a>[LU 143:2.4](/es/The_Urantia_Book/143#p2_4))
+> «No lo olvidéis —vuestra fe personal en las promesas extremadamente grandes y preciosas de Dios es la que os garantiza que os convertiréis en partícipes de la naturaleza divina.». (<a id="a72_183"></a>[LU 143:2.4](/es/The_Urantia_Book/143#p2_4))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/book.jpg">

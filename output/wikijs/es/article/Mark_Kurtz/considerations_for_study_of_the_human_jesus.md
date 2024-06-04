@@ -44,7 +44,7 @@ _Usado en el Grupo de Estudio Virtual de Alabama  el 10 de enero de 2016_
 _El libro de Urantia_ nos informa de que el hombre es una idea con origen en el Paraíso.
 
 
-> _«Hagamos al hombre mortal a nuestra imagen»_ <a id="a45_43"></a>[[LU 6:5.7](/es/The_Urantia_Book/6#p5_7)]
+> _«Hagamos al hombre mortal a nuestra imagen»_ <a id="a46_48"></a>[[LU 6:5.7](/es/The_Urantia_Book/6#p5_7)]
 
 es una frase atribuida a la Primera y a la Segunda Fuente. Se formularon los detalles de condescendencia para el hombre.
 
@@ -89,7 +89,7 @@ Al abordar estas preguntas, una persona podría llamar a Jesús en oración y co
 
 Únanse a otras personas que ustedes elijan para conversar sobre estas y otras preguntas mientras consideran el magnánimo modelo humano que Jesús regaló a los urantianos.
 
-## Algunos resultados de la búsqueda de la expresión «Jesús humano”:
+## Algunos resultados de la búsqueda de la expresión «Jesús humano»:
 
 > _Juan percibió más claramente que, a pesar de todos sus atributos divinos, después de todo Jesús era **humano. Jesús** vivía como un hombre entre los hombres, y los comprendía, los amaba y sabía cómo dirigirlos. En su vida personal era tan humano, y sin embargo tan irreprochable. Y siempre era desinteresado._ [141:7.14] negrita añadida
 

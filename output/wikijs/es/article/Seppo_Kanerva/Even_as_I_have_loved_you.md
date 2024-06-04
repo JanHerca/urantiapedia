@@ -43,7 +43,7 @@ Dios es amor.
 
 El amor es el deseo de hacer el bien a los demás.
 
-Dijo Jesús: «Si amáis a vuestros prójimos como yo os he amado, entonces todos sabrán que sois mis discípulos». “Por eso os doy este mandamiento nuevo: Que os améis unos a otros como yo os he amado. Y en esto conocerán todos que sois mis discípulos, si así os amáis unos a otros.
+Dijo Jesús: «Si amáis a vuestros prójimos como yo os he amado, entonces todos sabrán que sois mis discípulos». «Por eso os doy este mandamiento nuevo: Que os améis unos a otros como yo os he amado. Y en esto conocerán todos que sois mis discípulos, si así os amáis unos a otros.
 
 ... durante años su única expresión [la del anciano apóstol Juan] fue: «Hijitos míos, amaos unos a otros».
 

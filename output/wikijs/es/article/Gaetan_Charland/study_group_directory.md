@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Gaetan-Charland-150x150.jpg">
 </figure>
 
-Como muchos de ustedes sabrán, la misión de la Asociación Urantia Internacional es «fomentar el estudio de _El libro de Urantia_ y diseminar sus enseñanzas” y, según el Mandato de Publicación, «se deben traer a la existencia miles de grupos de estudio”.
+Como muchos de ustedes sabrán, la misión de la Asociación Urantia Internacional es «fomentar el estudio de _El libro de Urantia_ y diseminar sus enseñanzas» y, según el Mandato de Publicación, «se deben traer a la existencia miles de grupos de estudio».
 
 Hace unos años se inició un proyecto conjunto de servicio: voluntarios de la Fundación Urantia, de la Asociación Urantia Internacional y de la Urantia Book Fellowship crearon un Directorio de Grupos de Estudio en línea. Este recurso de Internet ha sido bien recibido y cientos de grupos de estudio de todo el mundo figuran actualmente en la lista, lo que hace fácil que estudiantes nuevos o experimentados localicen y asistan a un grupo de estudio. Hasta hoy, el directorio se ha traducido al francés, español, ruso y portugués.
 

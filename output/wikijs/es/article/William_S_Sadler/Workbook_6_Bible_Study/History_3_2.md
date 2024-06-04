@@ -42,7 +42,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. Nuevo Testamento y apócrifos
 
-1. Los estudiantes del Nuevo Testamento piensan que los escritores de los evangelios tenían una fuente común, llamada Q. Estas fueron las notas del apóstol Andrés. Ver <a id="s44_133"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1)
+1. Los estudiantes del Nuevo Testamento piensan que los escritores de los evangelios tenían una fuente común, llamada Q. Estas fueron las notas del apóstol Andrés. Ver <a id="s44_168"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1)
 2. Mucho después de que Lucas escribiera los «Hechos de los Apóstoles», otros escritores escribieron los Hechos de Pedro, Pablo, Juan y otros.
 3. Las epístolas de Pablo son los escritos más antiguos del Nuevo Testamento; Tesalonicenses es el más antiguo.
 4. El Libro de Urantia sugiere que Pablo fue «uno de los autores de Hebreos».

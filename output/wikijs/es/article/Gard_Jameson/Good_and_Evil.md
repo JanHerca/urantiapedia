@@ -45,7 +45,7 @@ por _Gard Jameson_
 
 > **(HS)** «El concepto de la **relatividad** del bien ha sido una fuente fértil de escepticismo ético desde el principio. Por supuesto, hay claras ventajas en que nuestro «bien» sea distinguido para nosotros. Si aceptamos el bien tal como lo establece el **entorno** social** nos salvamos del malestar que surge del conflicto social. 'Todo el mundo lo está haciendo' es la contraseña fácil de la **pereza ética**.
 
-> Si aceptamos las normas de bondad establecidas por una **institución religiosa**, tenemos la salvaguarda de la historia más larga y de objetivos generales probados, y estamos a salvo de la incomodidad de aplicar cuestiones éticas a los actos de la vida.” [[*Personalidad creativa*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X)(CP) 231]
+> Si aceptamos las normas de bondad establecidas por una **institución religiosa**, tenemos la salvaguarda de la historia más larga y de objetivos generales probados, y estamos a salvo de la incomodidad de aplicar cuestiones éticas a los actos de la vida. [[*Personalidad creativa*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X)(CP) 231]
 
 \*\*\*
 
@@ -161,7 +161,7 @@ Nuestra voluntad moral está indisolublemente ligada a la idea de ser *persona*;
 
 \*\*\*\*\*\*\*
 
-> **(TUB)** «En la época en que un mortal ascendente alcanza el Paraíso, su capacidad para identificar su yo con los verdaderos valores espirituales se ha ampliado tanto, que ha conseguido la posesión perfecta de la **luz de la vida**. Una personalidad espiritual así perfeccionada se unifica tan completa, divina y espiritualmente con las cualidades supremas y positivas de la bondad, de la belleza y de la verdad, que no queda ninguna posibilidad de que un espíritu así de recto pueda arrojar alguna sombra negativa de mal potencial cuando es expuesto a la luminosidad penetrante de la luz divina de los Soberanos infinitos del Paraíso. En todas estas personalidades espirituales, la bondad ha dejado de ser parcial, contrastante y comparativa; se ha vuelto divinamente completa y espiritualmente plena; se acerca a la pureza y a la perfección del Supremo.» [[LU 132:2.9](/es/The_Urantia_Book/132#p2_9) ] 
+> **(TUB)** «En la época en que un mortal ascendente alcanza el Paraíso, su capacidad para identificar su yo con los verdaderos valores espirituales se ha ampliado tanto, que ha conseguido la posesión perfecta de la **luz de la vida**. Una personalidad espiritual así perfeccionada se unifica tan completa, divina y espiritualmente con las cualidades supremas y positivas de la bondad, de la belleza y de la verdad, que no queda ninguna posibilidad de que un espíritu así de recto pueda arrojar alguna sombra negativa de mal potencial cuando es expuesto a la luminosidad penetrante de la luz divina de los Soberanos infinitos del Paraíso. En todas estas personalidades espirituales, la bondad ha dejado de ser parcial, contrastante y comparativa; se ha vuelto divinamente completa y espiritualmente plena; se acerca a la pureza y a la perfección del Supremo.» <a id="a163_860"></a>[[LU 132:2.9](/es/The_Urantia_Book/132#p2_9) ] 
 
 \*\*\*
 

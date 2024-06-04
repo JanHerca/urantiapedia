@@ -67,7 +67,7 @@ Jesús necesitaba una forma de involucrar a Fortune en una conversación para po
 
 Y este enfoque funcionó. Fortune empezó a hablar activamente ya dibujar en la tierra. Jesús escuchó atentamente e hizo preguntas respetuosas con el conocimiento y la voluntad de ayudar de Fortune. Jesús escuchó las instrucciones de la Fortuna sin proclamar el evangelio. Estaba haciendo una conexión con Fortune para tener la oportunidad de ayudarlo.
 
-Después de lo cual, Jesús se despidió y se preparó para partir. Luego, se volvió hacia Fortune y reconoció lo que Fortune estaba sintiendo. Esencialmente dijo: "Sé que quieres que te dejen en paz, pero no sería amable ni justo de mi parte aceptar tu generosa ayuda para encontrar la mejor manera de llegar a Phenix y luego irme sin pensar sin hacer un esfuerzo por responder a tu atractiva solicitud de ayuda y guía sobre el mejor camino hacia la meta que buscas en tu corazón”.
+Después de lo cual, Jesús se despidió y se preparó para partir. Luego, se volvió hacia Fortune y reconoció lo que Fortune estaba sintiendo. Esencialmente dijo: «Sé que quieres que te dejen en paz, pero no sería amable ni justo de mi parte aceptar tu generosa ayuda para encontrar la mejor manera de llegar a Phenix y luego irme sin pensar sin hacer un esfuerzo por responder a tu atractiva solicitud de ayuda y guía sobre el mejor camino hacia la meta que buscas en tu corazón».
 
 Mira el encanto de esta oferta. Habla de justicia, generosidad y peticiones atractivas. ¿Cómo podría decir Fortune, «No»? Luego, Jesús le dijo a Fortune que conocía el camino hacia la meta de Fortune, así como Fortune conocía el camino hacia Phenix. Jesús ofreció su ayuda a la Fortuna. Esta vez la Fortuna respondió con entusiasmo al ofrecimiento de Jesús.
 

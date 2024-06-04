@@ -1,5 +1,5 @@
 ---
-title: "Libros importantes: “Dios y la religión en el mundo posmoderno” por David Ray Gritlin"
+title: "Libros importantes: «Dios y la religión en el mundo posmoderno» por David Ray Gritlin"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “La verdad en la religión” de Mortimer Adler</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: «La verdad en la religión» de Mortimer Adler</span>
         </a>
         </td>
         <td>
@@ -61,7 +61,7 @@ El teísmo sobrenaturalista tiende a ver a Dios actuando unilateralmente, aparte
       <tr>
         <td>
         <a href="/es/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “La verdad en la religión” de Mortimer Adler</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: «La verdad en la religión» de Mortimer Adler</span>
         </a>
         </td>
         <td>

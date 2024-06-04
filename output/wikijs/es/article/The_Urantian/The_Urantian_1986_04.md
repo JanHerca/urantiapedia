@@ -47,7 +47,7 @@ _La siguiente charla fue presentada en la Conferencia Regional del Medio Oeste, 
 
 Cuando me pidieron que hiciera una presentación en la Conferencia del Medio Oeste de este año, casi de inmediato me vino a la mente la idea de hablar sobre el lugar de trabajo junto con las perspectivas espirituales. Considere la persona que trabaja una semana laboral de 40 horas. Agregue a esas 40 horas el tiempo dedicado a prepararse para el trabajo, apostar hacia y desde el trabajo y cualquier reunión y conferencia adicional. En una semana típica, ha dedicado al menos el 45% de sus horas de vigilia a asuntos relacionados con el trabajo. Si trabaja por cuenta propia, trabaja horas extras o se lleva el trabajo a casa, es fácil acercarse al 60% o más. El lugar de trabajo ocupa una parte tan importante de nuestras vidas que creo que es bastante digno de discusión.
 
-Lo que fue para Rodán de Alejandría, así sigue siendo para nosotros hoy. Rodan dijo: «_Los dos problemas principales de la vida son: ganarse la vida temporal y conseguir la supervivencia eterna. Incluso el problema de ganarse la vida necesita a la religión para solucionarse de manera ideal._» ([LU 160:4.1](/es/The_Urantia_Book/160#p4_1)) Los problemas diarios que encontramos en el lugar de trabajo se resolverán más fácilmente si podemos mantener una perspectiva espiritual o, como define Webster, la perspectiva. , «una visión de las cosas en su verdadera relación o importancia relativa».
+Lo que fue para Rodán de Alejandría, así sigue siendo para nosotros hoy. Rodan dijo: «_Los dos problemas principales de la vida son: ganarse la vida temporal y conseguir la supervivencia eterna. Incluso el problema de ganarse la vida necesita a la religión para solucionarse de manera ideal._» (<a id="a49_295"></a>[LU 160:4.1](/es/The_Urantia_Book/160#p4_1)) Los problemas diarios que encontramos en el lugar de trabajo se resolverán más fácilmente si podemos mantener una perspectiva espiritual o, como define Webster, la perspectiva. , «una visión de las cosas en su verdadera relación o importancia relativa».
 
 [Leer más](/es/article/Gayle_and_Jim_Moravec/Spiritual_perspectives_in_the_workplace)
 
@@ -57,7 +57,7 @@ _Río Eagle, Wisconsin_
 
 ---
 
-> «_El servicio —más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto— es la meta del tiempo y el destino del espacio._» ([LU 28:6.17](/es/The_Urantia_Book/28#p6_17))
+> «_El servicio —más servicio, servicio creciente, servicio difícil, servicio aventurero, y al final el servicio divino y perfecto— es la meta del tiempo y el destino del espacio._» (<a id="a59_183"></a>[LU 28:6.17](/es/The_Urantia_Book/28#p6_17))
 
 
 

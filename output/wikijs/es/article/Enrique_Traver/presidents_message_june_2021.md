@@ -75,7 +75,7 @@ __Es cuestión de mirar, de percepción, de fe_._
 
 Jesús nos dijo:
 
-> «Lo que yo os pido, a mis apóstoles, es la _unidad espiritual —_ y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para _ser iguales_ espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino.» <a id="a76_560"></a>[[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
+> «Lo que yo os pido, a mis apóstoles, es la _unidad espiritual —_ y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para _ser iguales_ espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino.» <a id="a77_675"></a>[[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
 
 _Es cuestión de mirar, de percepción, de fe._
 

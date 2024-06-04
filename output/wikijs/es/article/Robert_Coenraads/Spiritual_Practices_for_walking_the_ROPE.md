@@ -47,39 +47,39 @@ Aunque todos estos términos caen dentro de la esfera actual de la meditación y
 
 Las siguientes citas de El Libro de Urantia arrojan luz sobre el significado de estos términos:
 
-> _La oración, y la adoración que la acompaña, es una técnica para apartarse de la rutina diaria de la vida, de los agobios monótonos de la existencia material._ ([LU 144:4.5](/es/The_Urantia_Book/144#p4_5))
+> _La oración, y la adoración que la acompaña, es una técnica para apartarse de la rutina diaria de la vida, de los agobios monótonos de la existencia material._ (<a id="s49_163"></a>[LU 144:4.5](/es/The_Urantia_Book/144#p4_5))
 
-> _Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia._ ([LU 91:7.1](/es/The_Urantia_Book/91#p7_1))
+> _Aunque una meditación ferviente favorece a menudo el contacto de la mente mortal con su Ajustador interior, el servicio sincero y amoroso de un ministerio desinteresado hacia vuestros semejantes lo facilita con más frecuencia._ (<a id="s51_232"></a>[LU 91:7.1](/es/The_Urantia_Book/91#p7_1))
 
 Los párrafos 91:7:2 y 125:4.4 nos muestran que la meditación se considera distintamente de la oración:
 
-> _Jesús se llevaba con frecuencia a sus apóstoles a solas durante cortos períodos para dedicarse a meditar y a orar, pero la mayor parte del tiempo los mantenía en contacto servicial con las multitudes. El alma del hombre tiene necesidad de ejercicio espiritual así como de alimento espiritual._ ([LU 91:7.2](/es/The_Urantia_Book/91#p7_2))
+> _Jesús se llevaba con frecuencia a sus apóstoles a solas durante cortos períodos para dedicarse a meditar y a orar, pero la mayor parte del tiempo los mantenía en contacto servicial con las multitudes. El alma del hombre tiene necesidad de ejercicio espiritual así como de alimento espiritual._ (<a id="s55_298"></a>[LU 91:7.2](/es/The_Urantia_Book/91#p7_2))
 
-> _Cuando terminó esta segunda jornada en el templo, Jesús fue otra vez a Betania para pasar la noche. Y salió de nuevo al jardín para meditar y orar. Era evidente que su mente estaba ocupada en la meditación de problemas importantes._ ([LU 125:4.4](/es/The_Urantia_Book/125#p4_4))
+> _Cuando terminó esta segunda jornada en el templo, Jesús fue otra vez a Betania para pasar la noche. Y salió de nuevo al jardín para meditar y orar. Era evidente que su mente estaba ocupada en la meditación de problemas importantes._ (<a id="s57_237"></a>[LU 125:4.4](/es/The_Urantia_Book/125#p4_4))
 
 La palabra «orar» u «oración» se utiliza con más frecuencia en _El libro de Urantia_ y aparece 107 veces. Se usa en el sentido de pedir algo y se usa de manera distinta de la palabra «adoración».
 
-> _Cuando el hombre aprendió que la oración no podía coaccionar a los dioses, entonces ésta se convirtió más a menudo en una petición, en la búsqueda de un favor. Pero la oración más auténtica es en realidad una comunión entre el hombre y su Hacedor._ ([LU 91:2.3](/es/The_Urantia_Book/91#p2_3))
+> _Cuando el hombre aprendió que la oración no podía coaccionar a los dioses, entonces ésta se convirtió más a menudo en una petición, en la búsqueda de un favor. Pero la oración más auténtica es en realidad una comunión entre el hombre y su Hacedor._ (<a id="s61_253"></a>[LU 91:2.3](/es/The_Urantia_Book/91#p2_3))
 
-> _Cuando la oración no busca nada para el que reza ni para sus semejantes, esta actitud del alma tiende entonces hacia los niveles de la verdadera adoración._ ([LU 91:4.3](/es/The_Urantia_Book/91#p4_3))
+> _Cuando la oración no busca nada para el que reza ni para sus semejantes, esta actitud del alma tiende entonces hacia los niveles de la verdadera adoración._ (<a id="s63_161"></a>[LU 91:4.3](/es/The_Urantia_Book/91#p4_3))
 
-> _La oración está destinada a hacer que el hombre piense menos y *comprenda* más; no está destinada a incrementar el conocimiento, sino más bien a ampliar la perspicacia._ ([LU 143:7.4](/es/The_Urantia_Book/143#p7_4))
+> _La oración está destinada a hacer que el hombre piense menos y *comprenda* más; no está destinada a incrementar el conocimiento, sino más bien a ampliar la perspicacia._ (<a id="s65_174"></a>[LU 143:7.4](/es/The_Urantia_Book/143#p7_4))
 
 Por otra parte, la adoración se utiliza 419 veces en El Libro de Urantia. La adoración es la nota más alta en la creciente escala musical de actividades devocionales beneficiosas para todos los individuos: comenzando con el descanso y la relajación, luego a través de la reflexión y la meditación, luego la oración y finalmente la adoración, siendo la adoración el acto supremo de devoción al Padre y al Dios. «descanso ideal del alma».
 
-> _En todos los tiempos y durante todas las épocas, la adoración verdadera de cualquier ser humano —respecto al progreso espiritual individual— es reconocida por el espíritu interior como un homenaje que se rinde al Padre que está en los cielos._ ([LU 142:3.8](/es/The_Urantia_Book/142#p3_8))
+> _En todos los tiempos y durante todas las épocas, la adoración verdadera de cualquier ser humano —respecto al progreso espiritual individual— es reconocida por el espíritu interior como un homenaje que se rinde al Padre que está en los cielos._ (<a id="s69_248"></a>[LU 142:3.8](/es/The_Urantia_Book/142#p3_8))
 
 La distinción entre oración y adoración se enfatiza en numerosas ocasiones.
 
-> _La oración es un sostén espiritual, pero la adoración es divinamente creativa._ ([LU 143:7.5](/es/The_Urantia_Book/143#p7_5))
+> _La oración es un sostén espiritual, pero la adoración es divinamente creativa._ (<a id="s73_84"></a>[LU 143:7.5](/es/The_Urantia_Book/143#p7_5))
 
-> _La oración es recordarse a sí mismo —un pensamiento sublime; la adoración es olvidarse de sí mismo— un superpensamiento. La adoración es una atención sin esfuerzo, el verdadero descanso ideal del alma, una forma de ejercicio espiritual sosegado._ ([LU 143:7.7](/es/The_Urantia_Book/143#p7_7))
+> _La oración es recordarse a sí mismo —un pensamiento sublime; la adoración es olvidarse de sí mismo— un superpensamiento. La adoración es una atención sin esfuerzo, el verdadero descanso ideal del alma, una forma de ejercicio espiritual sosegado._ (<a id="s75_251"></a>[LU 143:7.7](/es/The_Urantia_Book/143#p7_7))
 
-> _Al igual que la oración se puede asemejar a la recarga de las baterías espirituales del alma, la adoración se puede comparar al acto de sintonizar el alma para captar las emisiones universales del espíritu infinito del Padre Universal._ ([LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
+> _Al igual que la oración se puede asemejar a la recarga de las baterías espirituales del alma, la adoración se puede comparar al acto de sintonizar el alma para captar las emisiones universales del espíritu infinito del Padre Universal._ (<a id="s77_241"></a>[LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
 
 Y considere el extraordinario alcance de la adoración sobre la simple oración en el siguiente párrafo del Documento 5: La relación de Dios con el individuo.
 
-> _Las oraciones, todas las comunicaciones formales, todo, salvo la adoración y la veneración del Padre Universal, son cuestiones que conciernen al universo local; normalmente no sobrepasan el ámbito jurisdiccional de un Hijo Creador. Pero la adoración es incluida sin duda en un circuito y enviada a la persona del Creador por medio del circuito de la personalidad del Padre._ ([LU 5:3.2](/es/The_Urantia_Book/5#p3_2))
+> _Las oraciones, todas las comunicaciones formales, todo, salvo la adoración y la veneración del Padre Universal, son cuestiones que conciernen al universo local; normalmente no sobrepasan el ámbito jurisdiccional de un Hijo Creador. Pero la adoración es incluida sin duda en un circuito y enviada a la persona del Creador por medio del circuito de la personalidad del Padre._ (<a id="s81_379"></a>[LU 5:3.2](/es/The_Urantia_Book/5#p3_2))
 
 En la Biblia [^2] la meditación también se describe como un enfoque para mantener a uno entero estable y centrado. Se hace referencia a él unas 23 veces, por ejemplo:
 
@@ -151,24 +151,24 @@ Ahora, con la mente aún clara, ofrecemos nuestra desinteresada, sincera y confi
 
 Concéntrate en el significado y la intención de la oración y sigue las palabras en tu mente...
 
-- [LU 144:5.12](/es/The_Urantia_Book/144#p5_12) Nuestro Padre creativo, que está en el centro del universo... [^3]
-- [LU 144:5.13](/es/The_Urantia_Book/144#p5_13) Concédenos tu naturaleza y danos tu carácter...
-- [LU 144:5.14](/es/The_Urantia_Book/144#p5_14) Haznos hijos e hijas tuyos por gracia...
-- [LU 144:5.15](/es/The_Urantia_Book/144#p5_15) Y glorificar tu nombre a través de nuestra realización eterna...
-- [LU 144:5.16](/es/The_Urantia_Book/144#p5_16) Tu espíritu ajustador y controlador da para vivir y habitar dentro de nosotros...
-- [LU 144:5.17](/es/The_Urantia_Book/144#p5_17) Que podamos hacer tu voluntad en esta esfera como los ángeles hacen tus órdenes en la luz...
-- [LU 144:5.18](/es/The_Urantia_Book/144#p5_18) Susténtanos este día en nuestro progreso por el camino de la verdad...
-- [LU 144:5.19](/es/The_Urantia_Book/144#p5_19) Líbranos de la inercia, del mal y de toda transgresión pecaminosa...
-- [LU 144:5.20](/es/The_Urantia_Book/144#p5_20) Ten paciencia con nosotros mientras mostramos bondad amorosa hacia nuestros semejantes...
-- [LU 144:5.21](/es/The_Urantia_Book/144#p5_21) Derrama el espíritu de tu misericordia en nuestros corazones de criaturas...
-- [LU 144:5.22](/es/The_Urantia_Book/144#p5_22) Guíanos de tu propia mano, paso a paso, a través del incierto laberinto de la vida...
-- [LU 144:5.23](/es/The_Urantia_Book/144#p5_23) Y cuando llegue nuestro fin, recibe en tu seno nuestros espíritus fieles...
-- [LU 144:5.29](/es/The_Urantia_Book/144#p5_29) Guíanos siempre por los caminos del progreso eterno...
-- [LU 144:5.30](/es/The_Urantia_Book/144#p5_30) Llénanos de sabiduría hasta la plenitud del poder.
-- [LU 144:5.31](/es/The_Urantia_Book/144#p5_31) Y vitalízanos con tu energía infinita...
-- [LU 144:5.34](/es/The_Urantia_Book/144#p5_34) Guíanos siempre hacia arriba en el camino de la luz...
-- [LU 144:5.36](/es/The_Urantia_Book/144#p5_36) Haznos como tú en la gloria eterna...
-- [LU 144:5.37](/es/The_Urantia_Book/144#p5_37) Y recíbenos en tu interminable servicio en lo alto...
+- <a id="s153_2"></a>[LU 144:5.12](/es/The_Urantia_Book/144#p5_12) Nuestro Padre creativo, que está en el centro del universo... [^3]
+- <a id="s154_2"></a>[LU 144:5.13](/es/The_Urantia_Book/144#p5_13) Concédenos tu naturaleza y danos tu carácter...
+- <a id="s155_2"></a>[LU 144:5.14](/es/The_Urantia_Book/144#p5_14) Haznos hijos e hijas tuyos por gracia...
+- <a id="s156_2"></a>[LU 144:5.15](/es/The_Urantia_Book/144#p5_15) Y glorificar tu nombre a través de nuestra realización eterna...
+- <a id="s157_2"></a>[LU 144:5.16](/es/The_Urantia_Book/144#p5_16) Tu espíritu ajustador y controlador da para vivir y habitar dentro de nosotros...
+- <a id="s158_2"></a>[LU 144:5.17](/es/The_Urantia_Book/144#p5_17) Que podamos hacer tu voluntad en esta esfera como los ángeles hacen tus órdenes en la luz...
+- <a id="s159_2"></a>[LU 144:5.18](/es/The_Urantia_Book/144#p5_18) Susténtanos este día en nuestro progreso por el camino de la verdad...
+- <a id="s160_2"></a>[LU 144:5.19](/es/The_Urantia_Book/144#p5_19) Líbranos de la inercia, del mal y de toda transgresión pecaminosa...
+- <a id="s161_2"></a>[LU 144:5.20](/es/The_Urantia_Book/144#p5_20) Ten paciencia con nosotros mientras mostramos bondad amorosa hacia nuestros semejantes...
+- <a id="s162_2"></a>[LU 144:5.21](/es/The_Urantia_Book/144#p5_21) Derrama el espíritu de tu misericordia en nuestros corazones de criaturas...
+- <a id="s163_2"></a>[LU 144:5.22](/es/The_Urantia_Book/144#p5_22) Guíanos de tu propia mano, paso a paso, a través del incierto laberinto de la vida...
+- <a id="s164_2"></a>[LU 144:5.23](/es/The_Urantia_Book/144#p5_23) Y cuando llegue nuestro fin, recibe en tu seno nuestros espíritus fieles...
+- <a id="s165_2"></a>[LU 144:5.29](/es/The_Urantia_Book/144#p5_29) Guíanos siempre por los caminos del progreso eterno...
+- <a id="s166_2"></a>[LU 144:5.30](/es/The_Urantia_Book/144#p5_30) Llénanos de sabiduría hasta la plenitud del poder.
+- <a id="s167_2"></a>[LU 144:5.31](/es/The_Urantia_Book/144#p5_31) Y vitalízanos con tu energía infinita...
+- <a id="s168_2"></a>[LU 144:5.34](/es/The_Urantia_Book/144#p5_34) Guíanos siempre hacia arriba en el camino de la luz...
+- <a id="s169_2"></a>[LU 144:5.36](/es/The_Urantia_Book/144#p5_36) Haznos como tú en la gloria eterna...
+- <a id="s170_2"></a>[LU 144:5.37](/es/The_Urantia_Book/144#p5_37) Y recíbenos en tu interminable servicio en lo alto...
 
 
 ### Meditación/visualización enfocada
@@ -269,7 +269,7 @@ La meditación espiritual es una base común para las muchas religiones aparente
 
 La técnica de adoración reflexiva te invita a hacerte una pregunta: tal vez algo como: «¿Por qué estoy más agradecido?» Toma conciencia de los sentimientos, no de los pensamientos, que surgen cuando te concentras en la pregunta.
 
-> _Jesús enseñó a los doce a orar siempre en secreto; a salir a solas en medio de los tranquilos contornos de la naturaleza, o a entrar en sus habitaciones y cerrar las puertas cuando se pusieran a orar._ ([LU 144:3.14](/es/The_Urantia_Book/144#p3_14))
+> _Jesús enseñó a los doce a orar siempre en secreto; a salir a solas en medio de los tranquilos contornos de la naturaleza, o a entrar en sus habitaciones y cerrar las puertas cuando se pusieran a orar._ (<a id="s271_206"></a>[LU 144:3.14](/es/The_Urantia_Book/144#p3_14))
 
 > _Jesús enseñó que la oración eficaz debe ser:_
 > 
@@ -277,11 +277,11 @@ La técnica de adoración reflexiva te invita a hacerte una pregunta: tal vez al
 > _2. Creyente —conforme a la fe._
 > _3. Sincera —honrada de corazón._
 > _4. Inteligente —conforme a la luz._
-> _5. Confiada —sometida a la voluntad infinitamente sabia del Padre._ ([LU 144:3.17-22](/es/The_Urantia_Book/144#p3_17))
+> _5. Confiada —sometida a la voluntad infinitamente sabia del Padre._ (<a id="s279_72"></a>[LU 144:3.17-22](/es/The_Urantia_Book/144#p3_17))
 
-> _La actitud más sana de meditación espiritual se halla en la adoración reflexiva y en la oración de acción de gracias._ ([LU 100:5.10](/es/The_Urantia_Book/100#p5_10))
+> _La actitud más sana de meditación espiritual se halla en la adoración reflexiva y en la oración de acción de gracias._ (<a id="s281_123"></a>[LU 100:5.10](/es/The_Urantia_Book/100#p5_10))
 
-> _Pero la eficacia de la oración en la experiencia espiritual personal de aquel que ora no depende de ninguna manera de la comprensión intelectual de dicho fiel, de su perspicacia filosófica, su nivel social, su situación cultural o de sus otros conocimientos humanos. Los efectos psicológicos y espirituales que acompañan a la oración de la fe son inmediatos, personales y experienciales. No existe ninguna otra técnica que permita a cualquier hombre, sin tener en cuenta todos sus demás logros mortales, acercarse de manera tan inmediata y eficaz al umbral de ese reino donde puede comunicarse con su Hacedor, donde la criatura se pone en contacto con la realidad del Creador, con el Ajustador del Pensamiento interior._ ([LU 91:6.7](/es/The_Urantia_Book/91#p6_7))
+> _Pero la eficacia de la oración en la experiencia espiritual personal de aquel que ora no depende de ninguna manera de la comprensión intelectual de dicho fiel, de su perspicacia filosófica, su nivel social, su situación cultural o de sus otros conocimientos humanos. Los efectos psicológicos y espirituales que acompañan a la oración de la fe son inmediatos, personales y experienciales. No existe ninguna otra técnica que permita a cualquier hombre, sin tener en cuenta todos sus demás logros mortales, acercarse de manera tan inmediata y eficaz al umbral de ese reino donde puede comunicarse con su Hacedor, donde la criatura se pone en contacto con la realidad del Creador, con el Ajustador del Pensamiento interior._ (<a id="s283_725"></a>[LU 91:6.7](/es/The_Urantia_Book/91#p6_7))
 
 ### 6. Meditación del amor y la bondad
 
@@ -325,7 +325,7 @@ Si mantienes tu enfoque en ese pensamiento entonces, en ese momento, estarás ab
 
 ¿Sufres de estrés, ataques de pánico o ansiedad? Si una bestia salvaje surge del arbusto, naturalmente deberías alegrarte de que tu amígdala te llene de hormonas del estrés para prepararte para esa huida urgente del peligro, de la lucha o de tu vida. Pero en nuestra vida diaria moderna, no existen tales peligros físicos, nuestros factores estresantes son sólo el jefe agresivo, los compañeros de trabajo ruidosos en la oficina abierta, las preocupaciones financieras, etc. A menudo puedes sentirlos irrumpir en tu sistema para prepararlo cuando exclamas. o darse cuenta: «Oh, creo que me olvidé de hacer eso...» o «¿Completé la tarea que se suponía que debía hacer?» o, «Oh, me perdí esa reunión importante.» La reacción puede comenzar en la boca del estómago, inundando todo el cuerpo desde allí, causando una sensación de hundimiento, un hormigueo en la piel de la frente, enrojecimiento de la cara, incluso sudor punzante y una opresión en el pecho, con el constante vaivén de la mente hacia ese pensamiento: ¿Lo escribió? ¿Dónde estaba? ¿Por qué no hice eso?
 
-Ahora se necesitan medidas de emergencia, ya que no queremos reaccionar por instinto, sino mantener el control total y resolver nuestros problemas con calma sin inundar nuestro sistema con hormonas que amenazan la salud cada vez. Quizás una o dos respiraciones profundas: inhale para llenar completamente los pulmones y luego exhale lentamente. Tómate tu tiempo, disfruta de la sensación calmante que aporta la acción. Repítelo varias veces. Estire los brazos, las piernas, el cuello y la espalda para permitir que las hormonas salgan de su sistema (ya se han liberado y no hay nada que pueda hacer al respecto), no hay nada de qué preocuparse; La respuesta de «huir o luchar» es una reacción perfectamente natural, pero es una reacción que no querrás que vuelva a ocurrir varias veces al día. Deja que las hormonas se disipen y desaparezcan de tu sistema. Tal vez dé un paseo rápido o haga algo más físico para ayudarlos a dispersarse. Llamo a centrar las palabras: “Lo hecho, hecho está. No vale la pena preocuparse por eso ahora. ¡Esta vez me tomaron por sorpresa, pero la próxima no!
+Ahora se necesitan medidas de emergencia, ya que no queremos reaccionar por instinto, sino mantener el control total y resolver nuestros problemas con calma sin inundar nuestro sistema con hormonas que amenazan la salud cada vez. Quizás una o dos respiraciones profundas: inhale para llenar completamente los pulmones y luego exhale lentamente. Tómate tu tiempo, disfruta de la sensación calmante que aporta la acción. Repítelo varias veces. Estire los brazos, las piernas, el cuello y la espalda para permitir que las hormonas salgan de su sistema (ya se han liberado y no hay nada que pueda hacer al respecto), no hay nada de qué preocuparse; La respuesta de «huir o luchar» es una reacción perfectamente natural, pero es una reacción que no querrás que vuelva a ocurrir varias veces al día. Deja que las hormonas se disipen y desaparezcan de tu sistema. Tal vez dé un paseo rápido o haga algo más físico para ayudarlos a dispersarse. Llamo a centrar las palabras: «Lo hecho, hecho está. No vale la pena preocuparse por eso ahora. ¡Esta vez me tomaron por sorpresa, pero la próxima no!
 
 En un nivel, no es más que el dominio de su sistema fisicoquímico: su cuerpo, su cerebro y sus circuitos, que pueden reducirse al viejo adagio de la mente sobre la materia, en lugar de al revés, donde nos enfermamos en nuestra mente. sociedad moderna de alto ritmo donde nuestros sistemas, funciones y reacciones corporales dominan nuestras mentes [^1]. Recuerda siempre que tú eres el maestro. Eres la personalidad infinita e inmutable, YO SOY, yo, mente, espíritu, quienquiera que quieras llamarte. Sin embargo, el cuerpo que habitan en la actualidad y los circuitos cerebrales que utilizan están cambiando y envejeciendo constantemente, pero son sólo un hogar temporal durante su breve estancia en este planeta. Debe funcionar para usted de manera eficiente en su servicio a los demás y a su planeta y, en última instancia, a usted mismo. Con nuestro yo divino debemos ser sinceros. Debemos adorar nuestra fuente y centro divino, aquel que nos creó: el Yo Supremo, o Ser, o Cuerpo de Conocimiento, al que contribuimos y al que nos convertimos. Aquí podemos utilizar una terminología religiosa ampliamente espiritual, pero no sectaria, en la que todos pueden estar de acuerdo, excepto la personalidad más atea y puramente materialista.
 
@@ -392,7 +392,7 @@ Apartad al ser humano del abrazo de la Madre Tierra y no queda mucho. La persona
 
 Funcionamos como los extremos, la extensión viviente, del inmenso poder creativo de nuestro planeta Gaia. Estamos en la vanguardia de los poderes de crecimiento evolutivo de la Tierra, de hecho del Sol y de todo el universo. Básicamente, esto significa que, dados los elementos de nuestro planeta (el fuego del Sol, el oxígeno de la atmósfera y el agua vivificante de los ríos, lagos y océanos), la vida surge espontáneamente de la Tierra, floreciendo durante incontables milenios desde las primeras células primitivas. a la abundancia de vida que vemos a nuestro alrededor. Lo importante es darse cuenta de que el poder creativo de la Tierra es suyo, de todos, para descubrirlo, aprovecharlo y ejercerlo. Tu corazón, mente, alma y cuerpo son la extensión viva de los poderes que los llamaron a existir. Tus experiencias individuales se combinan con las de todos los demás en este planeta, porque todos, la Tierra entera, fue creada para vivir y experimentar juntos y todas esas vidas y experiencias se suman para hacer cada experiencia de vida imaginable, con la emoción más poderosa y positiva. del amor dominando y abrumando al resto, y con toda la humanidad (pasada, presente y futura) desarrollando la conciencia para aceptar ese hecho.
 
-> _La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad._ ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12)) [^3]
+> _La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad._ (<a id="s394_273"></a>[LU 2:7.12](/es/The_Urantia_Book/2#p7_12)) [^3]
 
 Bueno, ese mensaje puede sonar muy familiar si se expresa en otros términos. Pero si todos se preocuparan por dejar de lado sus creencias religiosas culturales o tradicionales, sus dogmas, terminología, rituales, ayunos, tradiciones y prejuicios, templos, estilos arquitectónicos, uniformes y símbolos, y centrarse en el objetivo fundamental clave enterrado bajo las túnicas exteriores superfluas , se llega a este inquilino central clave; que el amor y la unidad de la humanidad es el único y más importante hecho coherente: todos somos uno y todos tenemos la misma importancia, nadie tiene menos valor ni nadie tiene más, todos somos parte y abrazados por este núcleo central. amar. Como extensiones más lejanas de esta fuerza creativa, debemos abrazar, ejercer o aplicar este amor a todos nuestros semejantes. Y este mensaje central está en el corazón de todas las demás religiones importantes que se me ocurren. Siguiendo el mismo argumento, la fuerza creativa detrás de todo esto, nuestro planeta y nosotros, no puede ser alguna fuerza científica impersonal y aleatoria que surgió por casualidad para crearnos accidentalmente; porque entonces, ¿de dónde surgiría el amor, central para el ser mismo? La fuerza creativa en sí, como quieras imaginarla o como se te haya presentado a través de tus tradiciones culturales, debe ser el amor mismo. Obviamente funcionaremos mejor cuando aprovechemos y apliquemos esta fuerza en cada momento de nuestras vidas. A pesar de esto, también somos seres individuales personales. Somos individuos y tenemos una personalidad, por lo tanto, la fuerza creativa del amor no puede ser una fuerza no personal. Esta fuerza también debe manifestarse, o ser el origen de, la personalidad; debe ser una personalidad individual en los orígenes de la personalidad, o la fuente o combinación de todas las personalidades en sus extremos; o tal vez podría ser el Ser Supremo [^4] compuesto por todos nuestros seres individuales únicos.
 

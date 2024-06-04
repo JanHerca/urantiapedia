@@ -82,9 +82,9 @@ Clasifique los recursos para la vida familiar que son más importantes para uste
 - Ritos de iniciación para adolescentes
 - Divorcio
 
-> «La familia es la unidad fundamental de fraternidad donde los padres y los hijos aprenden las lecciones de paciencia, altruismo, tolerancia e indulgencia que son tan esenciales para realizar la fraternidad entre todos los hombres.» (<a id="a60_235"></a>[LU 84:7.28](/es/The_Urantia_Book/84#p7_28))
+> «La familia es la unidad fundamental de fraternidad donde los padres y los hijos aprenden las lecciones de paciencia, altruismo, tolerancia e indulgencia que son tan esenciales para realizar la fraternidad entre todos los hombres.» (<a id="a84_235"></a>[LU 84:7.28](/es/The_Urantia_Book/84#p7_28))
 
-> «El niño debe obtener, de los cuidados de su madre, sus primeras impresiones sobre el universo; depende totalmente de su padre terrenal para sus primeras ideas sobre el Padre celestial.» (<a id="a62_190"></a>[LU 177:2.5](/es/The_Urantia_Book/177#p2_5))
+> «El niño debe obtener, de los cuidados de su madre, sus primeras impresiones sobre el universo; depende totalmente de su padre terrenal para sus primeras ideas sobre el Padre celestial.» (<a id="a86_190"></a>[LU 177:2.5](/es/The_Urantia_Book/177#p2_5))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/mother.jpg">
@@ -94,7 +94,7 @@ Clasifique los recursos para la vida familiar que son más importantes para uste
 <img src="/image/article/Study_Group_Herald/father.jpg">
 </figure>
 
-> «Los padres auténticos están dedicados a un continuo ministerio de servicio que el hijo juicioso termina por reconocer y apreciar.» (<a id="a72_135"></a>[LU 84:7.26](/es/The_Urantia_Book/84#p7_26))
+> «Los padres auténticos están dedicados a un continuo ministerio de servicio que el hijo juicioso termina por reconocer y apreciar.» (<a id="a96_135"></a>[LU 84:7.26](/es/The_Urantia_Book/84#p7_26))
 
 Clasifique las actividades que el comité de Vida Familiar debería patrocinar, utilizando una escala del 1 al 5, siendo 1 la máxima prioridad.
 
@@ -132,9 +132,9 @@ Enumere las mayores alegrías y logros de la crianza de los hijos: \_\_\_\_
 
 Comentarios adicionales: \_\_\_\_
 
-> «El amor paternal tiene una única finalidad, y siempre busca lo mejor que hay en el hombre; ésta es la actitud de un verdadero padre.» (<a id="a110_138"></a>[LU 140:5.12](/es/The_Urantia_Book/140#p5_12))
+> «El amor paternal tiene una única finalidad, y siempre busca lo mejor que hay en el hombre; ésta es la actitud de un verdadero padre.» (<a id="a134_138"></a>[LU 140:5.12](/es/The_Urantia_Book/140#p5_12))
 
-> «...es voluntad divina que los hombres y las mujeres encuentren su servicio más elevado, y la alegría consiguiente, estableciendo un hogar para recibir y criar a los hijos, en cuya creación estos padres se convierten en asociados de los Hacedores del cielo y de la Tierra.» (<a id="a112_277"></a>[LU 167:5.7](/es/The_Urantia_Book/167#p5_7))
+> «...es voluntad divina que los hombres y las mujeres encuentren su servicio más elevado, y la alegría consiguiente, estableciendo un hogar para recibir y criar a los hijos, en cuya creación estos padres se convierten en asociados de los Hacedores del cielo y de la Tierra.» (<a id="a136_277"></a>[LU 167:5.7](/es/The_Urantia_Book/167#p5_7))
 
 Gracias por tu valiosa información. Si desea que esta encuesta incluya su nombre y dirección, complete esa información a continuación:
 

@@ -82,7 +82,7 @@ Todas las relaciones mutuamente satisfactorias requieren varias cosas; una es la
 
 La libertad de hacer lo que nos plazca parece deseable, pero la persona madura entiende que los placeres de una buena relación superan con creces la ilusoria libertad de la vida sin compromisos.
 
-De la misma manera, las recompensas espirituales de una relación con Miguel/Jesús superan con creces la libertad de hacer nuestras propias cosas. Y no sería reconfortante tener allí a nuestro hermano espiritual mayor para tomarnos de la mano cuando tengamos que caminar por «el valle de sombra de muerte»... ?”
+De la misma manera, las recompensas espirituales de una relación con Miguel/Jesús superan con creces la libertad de hacer nuestras propias cosas. Y no sería reconfortante tener allí a nuestro hermano espiritual mayor para tomarnos de la mano cuando tengamos que caminar por «el valle de sombra de muerte»... ?»
 
 > «Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios.» (<a id="a86_149"></a>[LU 111:5.1](/es/The_Urantia_Book/111#p5_1))
 

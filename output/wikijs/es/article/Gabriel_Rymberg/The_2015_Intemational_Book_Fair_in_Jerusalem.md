@@ -48,13 +48,13 @@ Sin embargo, dentro de la feria del libro, todo, incluyendo nuestro stand, estab
 
 Antes de la noche del domingo, antes de que comenzara la feria el lunes, todo estaba listo.
 
-Lo que más me gustó fue nuestro equipo. Una vez más presencié y experimenté cómo son los frutos de una larga exposición a la guía espiritual. Fue un placer sentir el amor de todos los miembros del equipo. Fue como si experimentara un adelanto de la edad de luz y vida. Sentí la presencia del Maestro y recordé que “allí donde dos o tres creyentes están reunidos, allí estoy yo en medio de ellos.” (1762.6) 159:1.3
+Lo que más me gustó fue nuestro equipo. Una vez más presencié y experimenté cómo son los frutos de una larga exposición a la guía espiritual. Fue un placer sentir el amor de todos los miembros del equipo. Fue como si experimentara un adelanto de la edad de luz y vida. Sentí la presencia del Maestro y recordé que «allí donde dos o tres creyentes están reunidos, allí estoy yo en medio de ellos.» <a id="a50_397"></a>[LU 159:1.3](/es/The_Urantia_Book/159#p1_3)
 
-Nuestras interacciones con los visitantes en el stand fueron muy interesantes. Teníamos una gran fuente de “vitaminas espirituales”, que resultaron ser muy útiles para romper el hielo. Un anciano caballero incluso se llevó un puñado y se las iba a meter en la boca cuando le detuvimos. ¡Qué hambre tenía de palabra divina!
+Nuestras interacciones con los visitantes en el stand fueron muy interesantes. Teníamos una gran fuente de «vitaminas espirituales», que resultaron ser muy útiles para romper el hielo. Un anciano caballero incluso se llevó un puñado y se las iba a meter en la boca cuando le detuvimos. ¡Qué hambre tenía de palabra divina!
 
-Cuando la gente se paraba en nuestro stand, a menudo su primera pregunta era “¿qué es esto?” o “¿qué es Urantia?”. Después nos incumbía a nosotros responder con algo que atrapara lo suficiente como para provocar más preguntas del visitante.
+Cuando la gente se paraba en nuestro stand, a menudo su primera pregunta era «¿qué es esto?» o «¿qué es Urantia?». Después nos incumbía a nosotros responder con algo que atrapara lo suficiente como para provocar más preguntas del visitante.
 
-Debido a que la traducción al hebreo está todavía por terminar, preparamos un folleto en inglés y hebreo titulado “Introducción a _El libro de Urantia_”. Este folleto demostró ser un impreso popular. En él, teníamos una breve introducción y unas cien citas del libro. A todos los que visitaban el stand se les dio uno de estos folletos que, tras su lectura, inducían frecuentemente a los visitantes a comenzar una conversación respecto a algo que les intrigaba. No muchos visitantes abrieron el libro.
+Debido a que la traducción al hebreo está todavía por terminar, preparamos un folleto en inglés y hebreo titulado «Introducción a _El libro de Urantia_». Este folleto demostró ser un impreso popular. En él, teníamos una breve introducción y unas cien citas del libro. A todos los que visitaban el stand se les dio uno de estos folletos que, tras su lectura, inducían frecuentemente a los visitantes a comenzar una conversación respecto a algo que les intrigaba. No muchos visitantes abrieron el libro.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_03/022.jpg">

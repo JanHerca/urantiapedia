@@ -26,18 +26,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## I. LA TRINIDAD, UNIÓN DE LA DEIDAD
 
-1. Dios funciona como Deidad absoluta solo en la Trinidad del Paraíso y en relación con la totalidad del universo. [LU 10:4.1](/es/The_Urantia_Book/10#p4_1)
-2. La Trinidad es existencial y era inevitable. [LU 0:12.1](/es/The_Urantia_Book/0#p12_1)
-3. La Trinidad constituye la única realidad de Deidad que abarca la infinidad. [LU 0:12.2](/es/The_Urantia_Book/0#p12_2)
-4. La Trinidad permite que el Padre pueda escapar del absolutismo de la personalidad. [LU 10:0.1](/es/The_Urantia_Book/10#p0_1)
-5. La Trinidad es una asociación de personas infinitas que funcionan como una entidad corporativa. [LU 10:4.3](/es/The_Urantia_Book/10#p4_3)
+1. Dios funciona como Deidad absoluta solo en la Trinidad del Paraíso y en relación con la totalidad del universo. <a id="s28_115"></a>[LU 10:4.1](/es/The_Urantia_Book/10#p4_1)
+2. La Trinidad es existencial y era inevitable. <a id="s29_48"></a>[LU 0:12.1](/es/The_Urantia_Book/0#p12_1)
+3. La Trinidad constituye la única realidad de Deidad que abarca la infinidad. <a id="s30_79"></a>[LU 0:12.2](/es/The_Urantia_Book/0#p12_2)
+4. La Trinidad permite que el Padre pueda escapar del absolutismo de la personalidad. <a id="s31_86"></a>[LU 10:0.1](/es/The_Urantia_Book/10#p0_1)
+5. La Trinidad es una asociación de personas infinitas que funcionan como una entidad corporativa. <a id="s32_99"></a>[LU 10:4.3](/es/The_Urantia_Book/10#p4_3)
 
 ## II. FUNCIONES DE LA TRINIDAD
 
-1. La Trinidad no tiene atributos—tiene funciones, tales como la administración de la justicia, las actitudes de totalidad, la acción coordinada, y el sobrecontrol cósmico. [LU 10:5.1](/es/The_Urantia_Book/10#p5_1)
-2. La justicia es una de las funciones de la Trinidad. [LU 10:6.2](/es/The_Urantia_Book/10#p6_2)
-3. La Trinidad del Paraíso se ocupa del total. La Trinidad es el total de la Deidad. [LU 10:7.2](/es/The_Urantia_Book/10#p7_2)
-4. Aunque el Ser Supremo no es una personalización de la Trinidad, es la aproximación más cercana comprensible por criaturas finitas. [LU 10:5.4](/es/The_Urantia_Book/10#p5_4)
+1. La Trinidad no tiene atributos—tiene funciones, tales como la administración de la justicia, las actitudes de totalidad, la acción coordinada, y el sobrecontrol cósmico. <a id="s36_173"></a>[LU 10:5.1](/es/The_Urantia_Book/10#p5_1)
+2. La justicia es una de las funciones de la Trinidad. <a id="s37_55"></a>[LU 10:6.2](/es/The_Urantia_Book/10#p6_2)
+3. La Trinidad del Paraíso se ocupa del total. La Trinidad es el total de la Deidad. <a id="s38_85"></a>[LU 10:7.2](/es/The_Urantia_Book/10#p7_2)
+4. Aunque el Ser Supremo no es una personalización de la Trinidad, es la aproximación más cercana comprensible por criaturas finitas. <a id="s39_134"></a>[LU 10:5.4](/es/The_Urantia_Book/10#p5_4)
 
 ## III. HIJOS DE LA TRINIDAD
 
@@ -48,7 +48,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. Perfecciones de los Días.
 	5. Recientes de los Días.
 	6. Uniones de los Días.
-	7. Fieles de los Días. [LU 18:0.1](/es/The_Urantia_Book/18#p0_1)
+	7. Fieles de los Días. <a id="s50_24"></a>[LU 18:0.1](/es/The_Urantia_Book/18#p0_1)
 2. Hay siete órdenes de Seres Coordinados de Origen Trinitario:
 	1. Hijos Instructores Trinitarios.
 	2. Perfeccionadores de la Sabiduría.
@@ -56,15 +56,15 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. Censores Universales.
 	5. Espíritus Trinitarios Inspirados.
 	6. Nativos de Havona.
-	7. Ciudadanos del Paraíso. [LU 19:0.1](/es/The_Urantia_Book/19#p0_1)
+	7. Ciudadanos del Paraíso. <a id="s58_28"></a>[LU 19:0.1](/es/The_Urantia_Book/19#p0_1)
 
 ## IV. CONCEPTOS TRINITARIOS
 
-1. La Trinidad es una entidad absoluta—una Deidad supersumativa. [LU 104:2.4](/es/The_Urantia_Book/104#p2_4)
-2. La actitud absoluta de la Trinidad del Paraíso está en relación con las existencias absolutas y la acción de la Deidad total. [LU 10:5.6](/es/The_Urantia_Book/10#p5_6)
-3. Una triunidad no es una entidad orgánica—es funcional. [LU 104:3.14](/es/The_Urantia_Book/104#p3_14)
-4. La Trinidad Última, presentemente en evolución, finalmente consistirá en el Ser Supremo, las Personalidades Supremas Creadoras y los Arquitectos del Universo Maestro. [LU 0:12.6](/es/The_Urantia_Book/0#p12_6)
-5. La Trinidad Absoluta consistirá en Dios el Supremo, Dios el Último y el no revelado Consumador del Destino-Universo. [LU 0:12.7](/es/The_Urantia_Book/0#p12_7)
+1. La Trinidad es una entidad absoluta—una Deidad supersumativa. <a id="s62_65"></a>[LU 104:2.4](/es/The_Urantia_Book/104#p2_4)
+2. La actitud absoluta de la Trinidad del Paraíso está en relación con las existencias absolutas y la acción de la Deidad total. <a id="s63_129"></a>[LU 10:5.6](/es/The_Urantia_Book/10#p5_6)
+3. Una triunidad no es una entidad orgánica—es funcional. <a id="s64_58"></a>[LU 104:3.14](/es/The_Urantia_Book/104#p3_14)
+4. La Trinidad Última, presentemente en evolución, finalmente consistirá en el Ser Supremo, las Personalidades Supremas Creadoras y los Arquitectos del Universo Maestro. <a id="s65_170"></a>[LU 0:12.6](/es/The_Urantia_Book/0#p12_6)
+5. La Trinidad Absoluta consistirá en Dios el Supremo, Dios el Último y el no revelado Consumador del Destino-Universo. <a id="s66_120"></a>[LU 0:12.7](/es/The_Urantia_Book/0#p12_7)
 
 
 <br>

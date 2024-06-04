@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/IMG_0063-150x150.jpg">
 </figure>
 
-Tuve el placer de asistir al Simposio de Grupos de Estudio que se celebró en junio del año pasado en Madison (Wisconsin). Me fui de allí con algunas grandes ideas, pero lo mejor con lo que acabé fue con una cantidad de grandes preguntas que surgieron de las afirmaciones del Mandato de Publicación: “se ha proporcionado una publicación temprana del libro para que pueda estar disponible para capacitar a líderes e instructores.” “Se deben traer a la existencia miles de grupos de estudio…”
+Tuve el placer de asistir al Simposio de Grupos de Estudio que se celebró en junio del año pasado en Madison (Wisconsin). Me fui de allí con algunas grandes ideas, pero lo mejor con lo que acabé fue con una cantidad de grandes preguntas que surgieron de las afirmaciones del Mandato de Publicación: «se ha proporcionado una publicación temprana del libro para que pueda estar disponible para capacitar a líderes e instructores.» «Se deben traer a la existencia miles de grupos de estudio…»
 
 Buenos consejos, pero me pregunto: ¿podrían los grupos de estudio ser el vehículo por el que tenga lugar la capacitación de líderes e instructores? ¿Cómo encontramos e identificamos a esos instructores y líderes? No veo a ninguno en mi grupo de estudio. Bien, quizá algunos candidatos, pero… ¿de verdad necesitamos capacitarnos? ¿Y para qué nos capacitaríamos? Llevamos más de 35 años leyendo juntos y nos va bien.
 

@@ -85,9 +85,9 @@ Whole Life Expos se llevará a cabo esta primavera en Boston, Atlanta, Austin, W
 <img src="/image/article/Study_Group_Herald/candle.jpg">
 </figure>
 
-> «Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal.» (<a id="a66_288"></a>[LU 102:7.10](/es/The_Urantia_Book/102#p7_10))
+> «Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal.» (<a id="a87_288"></a>[LU 102:7.10](/es/The_Urantia_Book/102#p7_10))
 
-> «Si deseáis de verdad encontrar a Dios, no podréis evitar que nazca en vuestra mente la conciencia del Supremo. Al igual que Dios es vuestro Padre divino, el Supremo es vuestra Madre divina, de quien os alimentáis durante toda vuestra vida como criaturas del universo. «¡Cuán universal es el Supremo —está en todas partes! Las criaturas ilimitadas de la creación dependen de su presencia para vivir, y a ninguna se les rehúsa».» (<a id="a68_432"></a>[LU 117:6.2](/es/The_Urantia_Book/117#p6_2))
+> «Si deseáis de verdad encontrar a Dios, no podréis evitar que nazca en vuestra mente la conciencia del Supremo. Al igual que Dios es vuestro Padre divino, el Supremo es vuestra Madre divina, de quien os alimentáis durante toda vuestra vida como criaturas del universo. «¡Cuán universal es el Supremo —está en todas partes! Las criaturas ilimitadas de la creación dependen de su presencia para vivir, y a ninguna se les rehúsa».» (<a id="a89_432"></a>[LU 117:6.2](/es/The_Urantia_Book/117#p6_2))
 
 
 

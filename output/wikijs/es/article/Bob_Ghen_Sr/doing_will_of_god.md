@@ -42,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 _El libro de Urantia_ declara inequívocamente que:
 
 
-> Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios . . . <a id="a43_139"></a>[[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)]
+> Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios . . . <a id="a44_151"></a>[[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)]
 
 **¿Qué? ¿En serio? ¿Ya está?**
 
@@ -58,7 +58,7 @@ Para dejar las cosas claras, nada de esto debe tomarse como una representación 
 
 ## Miremos más de cerca
 
-> _Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios . . ._ <a id="a59_139"></a>[[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)]
+> _Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios . . ._ <a id="a60_153"></a>[[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)]
 
 ¿Qué _significa_ esto en realidad? Vamos a diseccionarlo un poco:
 
@@ -117,7 +117,7 @@ Si las comparamos rápidamente, tanto la oración inteligente como la adoración
 
 La oración inteligente se distingue de las demás en que es una oración coherente con los principios divinos que gobiernan dichas comunicaciones espirituales. La oración incoherente con estos principios será infructuosa, no se elevará con las corrientes espirituales y simplemente caerá. La oración egoísta y materialista no es ni inteligente ni espiritual. Los reveladores de El libro de Urantia ofrecen expresiones bastante duras al respecto:
 
-> _Una oración que es incompatible con las leyes de Dios conocidas y establecidas, es una abominación para las Deidades del Paraíso. . ._ <a id="a118_128"></a>[[LU 146:2.3](/es/The_Urantia_Book/146#p2_3)]
+> _Una oración que es incompatible con las leyes de Dios conocidas y establecidas, es una abominación para las Deidades del Paraíso. . ._ <a id="a119_138"></a>[[LU 146:2.3](/es/The_Urantia_Book/146#p2_3)]
 
 La oración inteligente es una _comunicación_ tan intelectual como espiritual y religiosa. Busca comunicar de manera inteligente nuestro ego finito con la deidad infinita, con Dios. Es la expresión sincera de todo lo que le diríamos si estuviera sentado justo enfrente, en la mesa de la cocina por decir algo. No hay fórmula para una conversación privada como esa. La oración inteligente es el esfuerzo espontáneo y sincero para llegar al Padre Universal, pues él reside espiritualmente en la región superconsciente (en la consciencia de la consciencia) de nuestra propia mente. Aquí, en respeto mutuo, ofrecemos expresiones sinceras de gratitud y todas las súplicas espirituales para nosotros y para otros con confianza y fe. A medida que nuestra alma madura cada vez más, una experiencia intelectualmente inexplicable de seguridad espiritual comienza a impregnar esos esfuerzos sinceros y sentidos.
 
@@ -135,7 +135,7 @@ _El libro de Urantia_ enseña que la adoración sincera es completamente diferen
 
 Cuando reconocemos este anhelo del alma y nos entregamos a él, cuando _elegimos_ mentalmente permitirlo, solo entonces el alma inicia la experiencia de adoración. Y ahora, con el Ajustador divino interior implicado de esa forma, es él quien en realidad conduce la adoración en nuestro nombre y transmite directamente nuestra devoción personal al Padre Universal que está en el centro de todas las cosas. _El libro de Urantia_ enseña que esta es la secuencia natural, subjetiva y experiencial que eleva a la mente que ora personalmente a través de la oración inteligente hasta la experiencia sincera de la adoración .
 
-> _Esta elección de la criatura no supone un abandono de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad; una elección así eleva la voluntad de la criatura desde el nivel de los significados temporales hasta ese estado superior en el que la personalidad del hijo creado comulga con la personalidad del Padre espíritu._ <a id="a136_355"></a>[[LU 111:5.5](/es/The_Urantia_Book/111#p5_5)]
+> _Esta elección de la criatura no supone un abandono de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad; una elección así eleva la voluntad de la criatura desde el nivel de los significados temporales hasta ese estado superior en el que la personalidad del hijo creado comulga con la personalidad del Padre espíritu._ <a id="a137_420"></a>[[LU 111:5.5](/es/The_Urantia_Book/111#p5_5)]
 
 ## Así es como lo experimento
 
@@ -149,7 +149,7 @@ Hacer la voluntad de Dios produce cambios profundos y creativos en la perspectiv
 
 Vean esto:
 
-> _Vuestras ansiedades y tristezas, vuestras dificultades y decepciones forman **tanta parte del plan divino** en vuestra esfera como lo forman la perfección exquisita y la adaptación infinita de todas las cosas al propósito supremo de los Dioses en los mundos del universo central y perfecto._ <a id="a150_273"></a>[[LU 23:2.12](/es/The_Urantia_Book/23#p2_12), negrita añadida]
+> _Vuestras ansiedades y tristezas, vuestras dificultades y decepciones forman **tanta parte del plan divino** en vuestra esfera como lo forman la perfección exquisita y la adaptación infinita de todas las cosas al propósito supremo de los Dioses en los mundos del universo central y perfecto._ <a id="a151_295"></a>[[LU 23:2.12](/es/The_Urantia_Book/23#p2_12), negrita añadida]
 
 Toda nuestra vida y todo lo que hay en ella se convierte en testimonio de nuestra experiencia religiosa genuina, de nuestro sincero esfuerzo por conocer a Dios y vivir de acuerdo con su voluntad. Incluso cuando nuestro mundo personal se derrumba a nuestro alrededor, en nuestras horas más oscuras, podemos estar seguros de que hay días mejores por delante. Si no es posible en el tiempo que queda en este mundo, lo más seguro es que sea así en el próximo.
 

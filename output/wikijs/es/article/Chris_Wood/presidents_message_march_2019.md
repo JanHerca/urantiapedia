@@ -47,7 +47,7 @@ dateCreated: 2023-9-16T10:55:6Z
 A mí me funciona. La veo como una reformulación de «La paternidad de Dios y la hermandad del hombre». En el documento 142, La Pascua en Jerusalén, Jesús visita a un judío griego y le dice entre otras cosas que debería implicarse en
 
 
-> _… dos grandes privilegios: la adoración sincera del Creador infinito, el Padre Paradisiaco, y el servicio amoroso otorgado a nuestros semejantes._ <a id="a48_140"></a>[[LU 142:4.2](/es/The_Urantia_Book/142#p4_2)]
+> _… dos grandes privilegios: la adoración sincera del Creador infinito, el Padre Paradisiaco, y el servicio amoroso otorgado a nuestros semejantes._ <a id="a49_150"></a>[[LU 142:4.2](/es/The_Urantia_Book/142#p4_2)]
 
 En esencia, la paternidad de Dios y la hermandad del hombre. Pero Jesús añade una enseñanza más a esta frase. Él dice que estos dos grandes privilegios expresan un solo deber supremo. _Adoración_ y _servicio_ son dos expresiones de la misma motivación. _Adoración_ y _servicio_ son las dos formas en las que intentamos cumplir el mandato supremo: «Sed perfectos como yo soy perfecto».
 

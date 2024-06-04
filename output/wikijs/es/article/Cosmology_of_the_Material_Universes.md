@@ -61,7 +61,7 @@ Es realmente lamentable que, en el mundo moderno, tantos hayan confundido tener 
 
 No se requiere un pensamiento muy extenuante para darse cuenta de que no hay ningún conflicto en creer en un Dios personal y, al mismo tiempo, ser un científico de banco que investiga fenómenos naturales usando la ley natural que asume que Dios no está interfiriendo pero que no niega que Dios existe
 
-Al pensar en la visión de cosmología de un científico, una de las reglas a tener en cuenta es la ley de conservación de la energía (la masa ahora se incluye como una forma de energía) que solía enseñarse en ciencias en la escuela secundaria como: "La energía puede nunca ser creado o destruido.” El respaldo empírico de esta ley, probado minuciosamente durante más de un siglo, es abrumador.
+Al pensar en la visión de cosmología de un científico, una de las reglas a tener en cuenta es la ley de conservación de la energía (la masa ahora se incluye como una forma de energía) que solía enseñarse en ciencias en la escuela secundaria como: «La energía puede nunca ser creado o destruido.» El respaldo empírico de esta ley, probado minuciosamente durante más de un siglo, es abrumador.
 
 Una consecuencia de la ley de la conservación de la energía es que, dado que no se produce (o no se puede producir) más energía-materia, el inevitable aumento de la entropía garantizará en última instancia que un universo en expansión deba agotarse (la entropía es una medida del desorden).
 

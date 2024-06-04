@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
-          <span class="pr-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros significativos: «Responsabilidad global: en busca de una nueva ética»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -63,7 +63,7 @@ La descripción que hace _El Libro de Urantia_ de la esencia de la religión com
         </td>
         <td>
         <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
-          <span class="pr-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros significativos: «Responsabilidad global: en busca de una nueva ética»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

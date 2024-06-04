@@ -49,7 +49,7 @@ Es imperativo que continuemos teniendo un flujo estable de personas dedicadas a 
 
 Un segundo tema destacado de la reunión es la necesidad actual de asegurar que _El libro de Urantia_ y sus enseñanzas estén bien representadas por méritos propios y no mezcladas con influencias externas políticas, sociales o intelectuales. Nuestra comunidad necesita «mantener el centro» y no dejar que las enseñanzas Urantia se vean demasiado influidas por cualquier otra influencia cultural. _El libro de Urantia_ nos dice que la religión cristiana…
 
-> _… se ha occidentalizado tanto que muchos pueblos no europeos consideran naturalmente al cristianismo como la extraña revelación de un Dios extraño, destinada a los extraños._ <a id="a50_174"></a>[[LU 92:6.18](/es/The_Urantia_Book/92#p6_18)]
+> _… se ha occidentalizado tanto que muchos pueblos no europeos consideran naturalmente al cristianismo como la extraña revelación de un Dios extraño, destinada a los extraños._ <a id="a51_178"></a>[[LU 92:6.18](/es/The_Urantia_Book/92#p6_18)]
 
 Debemos asegurar que las enseñanzas Urantia no corren la misma suerte.
 

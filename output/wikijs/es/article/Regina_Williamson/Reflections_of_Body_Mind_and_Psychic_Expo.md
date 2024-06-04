@@ -1,5 +1,5 @@
 ---
-title: “Expo de las Reflexiones de Cuerpo, Mente y Psíquico”
+title: "Expo de las Reflexiones de Cuerpo, Mente y Psíquico"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z

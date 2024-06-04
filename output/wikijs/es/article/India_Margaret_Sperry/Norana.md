@@ -47,7 +47,7 @@ Debe haber algo que podamos aprender de esto, ya sea que nos encontremos en la p
 
 El sentido del humor de Norana atrajo a Jesús porque él también tenía sentido del humor y lamentaba que sus apóstoles tuvieran tan poco de él, aunque podían estar de buen humor cuando las cosas iban bien.
 
-Cuando un apóstol se refirió a ella como un «_perro_» gentil, Norana respondió que ella era al menos «_un perro creyente_» ([LU 156:1.5](/es/The_Urantia_Book/156#p1_5))
+Cuando un apóstol se refirió a ella como un «_perro_» gentil, Norana respondió que ella era al menos «_un perro creyente_» (<a id="a49_124"></a>[LU 156:1.5](/es/The_Urantia_Book/156#p1_5))
 
 Jesús estaba escuchando, sin ser visto, todo este intercambio. Seguramente nosotros también tenemos oyentes invisibles mientras desempeñamos nuestro papel en la obra que ha estado en marcha desde que apareció el libre albedrío en nuestra tierra.
 

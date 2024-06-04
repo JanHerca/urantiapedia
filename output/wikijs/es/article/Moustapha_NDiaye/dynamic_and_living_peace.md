@@ -34,7 +34,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 > _Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús._ [[Filipenses 4:7](/es/Bible/Philippians/4#v7)]
 
-> _Oh, concede a tu pueblo Israel una gran paz perpetua, pues tú eres el Rey y el Señor de toda paz… Bendito seas, Yahvé, que bendices con la paz a tu pueblo Israel._ <a id="a35_169"></a>[[LU 150:8.7](/es/The_Urantia_Book/150#p8_7)]
+> _Oh, concede a tu pueblo Israel una gran paz perpetua, pues tú eres el Rey y el Señor de toda paz… Bendito seas, Yahvé, que bendices con la paz a tu pueblo Israel._ <a id="a36_167"></a>[[LU 150:8.7](/es/The_Urantia_Book/150#p8_7)]
 
 > _La paz sea contigo. Y con tu espíritu._
 
@@ -74,11 +74,11 @@ Por desgracia, las personas tienden con demasiada frecuencia a lidiar con las pe
 
 Aunque la paz del Señor no se ha convertido todavía en el estado natural de nuestra vida social, a medida que cada era planetaria se desarrolla bajo el ministerio de los Hijos del otorgamiento planetario nos alejamos paso a paso de las edades primitivas de la humanidad (caracterizadas por el miedo y la ignorancia, y sus consecuencias) hacia ese momento en el que todos podamos disfrutar de la paz espiritual en la tierra.
 
-> _La paz no es el estado natural de los reinos materiales. Los mundos llevan a cabo por primera vez «la paz en la Tierra y la buena voluntad entre los hombres» gracias al ministerio de las almas seráficas de la paz._ [[LU 39:5.5](/es/The_Urantia_Book/39#p5_5)]
+> _La paz no es el estado natural de los reinos materiales. Los mundos llevan a cabo por primera vez «la paz en la Tierra y la buena voluntad entre los hombres» gracias al ministerio de las almas seráficas de la paz._ <a id="a76_218"></a>[[LU 39:5.5](/es/The_Urantia_Book/39#p5_5)]
 
 Esto implica que las «Almas de la Paz» siguen durante varias eras de estabilización a medida que la evolución de la humanidad se alinea con el plan divino.
 
-> _La guerra es el estado y la herencia naturales del hombre en evolución; la paz es la vara social que mide el progreso de la civilización._ [[LU 70:1.1](/es/The_Urantia_Book/70#p1_1)]
+> _La guerra es el estado y la herencia naturales del hombre en evolución; la paz es la vara social que mide el progreso de la civilización._ <a id="a80_142"></a>[[LU 70:1.1](/es/The_Urantia_Book/70#p1_1)]
 
 Las eras planetarias están coordinadas en el espacio, integradas en el tiempo y unificadas por el Espíritu en la eternidad. Se manifiestan en aportaciones sucesivas individuales y colectivas hasta la manifestación gradual de la eternidad en el tiempo, hasta el eterno ahora.
 
@@ -92,7 +92,7 @@ Es imposible sondear el estado actual del mundo y considerar soluciones duradera
 
 Es típico que cada otorgamiento planetario de un Hijo divino traiga consigo los componentes básicos que contribuyen al establecimiento individual y colectivo de esta paz. Entre otras cosas, la era del Príncipe Planetario debería permitir a la humanidad dominar las fuerzas de la naturaleza, sentar las bases del conocimiento científico y establecer una paz que brinde la seguridad material a todas las personas sin distinción de lugar. ¿Pero recibió nuestro planeta, que es excepcional, el beneficio de este otorgamiento?
 
-Los reveladores nos informan de que, a principios del siglo XX, esos beneficios, que no se habían establecido en la mente del hombre primitivo, se están redescubriendo unos 300.000 años después <a id="a93_202"></a>[[LU 66:5.18](/es/The_Urantia_Book/66#p5_18)]. El hombre primitivo simplemente no poseía el conocimiento requerido para establecer la seguridad material necesaria para que nuestro planeta se beneficiara de la paz que la era del Príncipe Planetario suele otorgar a los mundos evolutivos. Este retraso prolongó el reinado del miedo y la ignorancia al que el ministerio del Príncipe Planetario suele poner fin. Las desastrosas consecuencias de la rebelión de Lucifer y el trabajo experimental de los Portadores de Vida agravaron las complicaciones y los obstáculos que contribuyeron a este fracaso.
+Los reveladores nos informan de que, a principios del siglo XX, esos beneficios, que no se habían establecido en la mente del hombre primitivo, se están redescubriendo unos 300.000 años después <a id="a94_194"></a>[[LU 66:5.18](/es/The_Urantia_Book/66#p5_18)]. El hombre primitivo simplemente no poseía el conocimiento requerido para establecer la seguridad material necesaria para que nuestro planeta se beneficiara de la paz que la era del Príncipe Planetario suele otorgar a los mundos evolutivos. Este retraso prolongó el reinado del miedo y la ignorancia al que el ministerio del Príncipe Planetario suele poner fin. Las desastrosas consecuencias de la rebelión de Lucifer y el trabajo experimental de los Portadores de Vida agravaron las complicaciones y los obstáculos que contribuyeron a este fracaso.
 
 ### La era del otorgamiento adánico (Adán y Eva)
 
@@ -104,7 +104,7 @@ Debido a la falta, el otorgamiento adánico fracasó en su misión y dio como re
 
 Los problemas filosóficos y los errores espirituales que surgieron de la rebelión de Lucifer agravaron los problemas sociales relacionados con los fracasos del Príncipe Planetario y del otorgamiento adánico.
 
-La declaración de Lucifer de que la personalidad del Padre Universal no existe y es un mito inventado por los Hijos paradisíacos <a id="a105_131"></a>[[LU 53:3](/es/The_Urantia_Book/53#p3)], ha dejado huellas muy profundas y sigue siendo tangible incluso ahora en el siglo XXI. Entre otras cosas esta proclamación dio como resultado que disminuyera la fe viva (especialmente la adoración y la oración) y que se perpetuaran los miedos ancestrales que niegan eficientemente la meta final del destino. ¿Cómo podemos adorar a un Padre que no existe? ¿Cómo podemos orar al hijo de un Padre ficticio? Todo lo que queda es una ciencia y una religión desconectadas en gran parte de sus raíces vivificantes.
+La declaración de Lucifer de que la personalidad del Padre Universal no existe y es un mito inventado por los Hijos paradisíacos <a id="a106_129"></a>[[LU 53:3](/es/The_Urantia_Book/53#p3)], ha dejado huellas muy profundas y sigue siendo tangible incluso ahora en el siglo XXI. Entre otras cosas esta proclamación dio como resultado que disminuyera la fe viva (especialmente la adoración y la oración) y que se perpetuaran los miedos ancestrales que niegan eficientemente la meta final del destino. ¿Cómo podemos adorar a un Padre que no existe? ¿Cómo podemos orar al hijo de un Padre ficticio? Todo lo que queda es una ciencia y una religión desconectadas en gran parte de sus raíces vivificantes.
 
 La proclamación de la «igualdad de la mente» y la «hermandad de la inteligencia», por no mencionar la contradicción de la designación de Caligastia a Lucifer como «Dios de la Libertad», se sumó a la disminución del espíritu y trabajó para separar a la humanidad de cualquier otra cosa que no fuera una dimensión meramente intelectual desprovista de cualquier perspectiva de logro espiritual. Las influencias de Lucifer nos han atrapado en tautologías infructuosas que, a pesar de los notables esfuerzos de los profetas y otros educadores espirituales, llevaron a la ausencia de conciencia espiritual y dieron un gran golpe a nuestra cosmovisión. Sin embargo, como veremos con más detalle, estos problemas filosóficos y errores espirituales no borraron el concepto de la paternidad de Dios o la hermandad del hombre de la consciencia humana.
 
@@ -116,7 +116,7 @@ Consideremos el impacto de la tercera, cuarta y quinta revelación de época, qu
 
 1. Maquiventa (tercera revelación de época), guiado por uno de los Ajustadores más experimentados de Nebadón, llevó a cabo una misión de emergencia con el fin de prepararnos para el séptimo otorgamiento de Miguel de Nebadón, que se encarnó como Josué ben José (cuarta revelación de época).
 
-> _Josué ben José, el bebé judío, fue concebido y nació en el mundo exactamente igual que todos los demás bebés antes y después que él, **salvo** que este bebé en particular era la encarnación de Miguel de Nebadon, un Hijo divino Paradisiaco y el creador de todo este universo local__._ <a id="a117_274"></a>[[LU 119:7.5](/es/The_Urantia_Book/119#p7_5)]
+> _Josué ben José, el bebé judío, fue concebido y nació en el mundo exactamente igual que todos los demás bebés antes y después que él, **salvo** que este bebé en particular era la encarnación de Miguel de Nebadon, un Hijo divino Paradisiaco y el creador de todo este universo local__._ <a id="a118_287"></a>[[LU 119:7.5](/es/The_Urantia_Book/119#p7_5)]
 
 2. El Ajustador del Pensamiento que guió la mente de Maquiventa sirvió también a Josué ben José y ahora está personalizado como Jefe de los Ajustadores personalizados de Nebadón.
 
@@ -155,7 +155,7 @@ La expresión «_**Estad quietos y conoced que yo soy Dios**_» está resaltada 
 
 Podríamos trazar un paralelismo entre este salmo y el siguiente extracto de _El libro de Urantia_:
 
-> _Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa toda comprensión humana, esa serenidad cósmica que revela la ausencia de toda duda y de toda agitación. Esos niveles de estabilidad espiritual son inmunes a la decepción. Tales personas religiosas se parecen al apóstol Pablo, que decía: «Estoy convencido de que ni la muerte, ni la vida, ni los ángeles, ni los principados, ni los poderes, ni las cosas presentes, ni las cosas por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa podrá separarnos del amor de Dios.»_ <a id="a156_555"></a>[[LU 100:6.6](/es/The_Urantia_Book/100#p6_6)]
+> _Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa toda comprensión humana, esa serenidad cósmica que revela la ausencia de toda duda y de toda agitación. Esos niveles de estabilidad espiritual son inmunes a la decepción. Tales personas religiosas se parecen al apóstol Pablo, que decía: «Estoy convencido de que ni la muerte, ni la vida, ni los ángeles, ni los principados, ni los poderes, ni las cosas presentes, ni las cosas por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa podrá separarnos del amor de Dios.»_ <a id="a157_593"></a>[[LU 100:6.6](/es/The_Urantia_Book/100#p6_6)]
 
 Podemos medir el carácter poderoso de esta paz incluso frente a las mayores decepciones imaginables. Nuestra búsqueda de esta paz solo es posible si reconocemos a Dios en nosotros mismos.
 
@@ -183,11 +183,11 @@ Podríamos decir que la mentalidad asiática se basa en la noción de sincronía
 
 Por lo general, las tradiciones religiosas del Lejano Oriente abordan un requisito profundo para (re) conectarse con el sentido más profundo de nuestro ser interior, de modo que nuestra búsqueda de la paz pueda ayudarnos a encontrar el «nirvana». Los grandes maestros que han dominado esta tradición exhortan a sus seguidores a meditar y actualizar así las potencialidades que se hallan en lo más profundo de su ser. Pero este enfoque interno los hace huérfanos si partimos de la comprensión completa de un Padre personalizado que está en lo profundo de nuestro ser y en toda la creación al mismo tiempo. Es la percepción de esta presencia divina la que nos impulsa en nuestra búsqueda sublime.
 
-La principal razón para centrarse en el interior y omitir todo lo demás proviene de la filosofía hindú y de que los brahmanes rechazaron el evangelio de Salem que Maquiventa Melquisedec intentó introducir <a id="a184_192"></a>[[LU 94:1.5](/es/The_Urantia_Book/94#p1_5)]. _El libro de Urantia_ nos dice que este rechazo estuvo motivado por la obsesión indoaria de preservar los privilegios de la casta de los brahmanes y su sentido de identidad racial <a id="a184_407"></a>[[LU 94:2.1](/es/The_Urantia_Book/94#p2_1)].
+La principal razón para centrarse en el interior y omitir todo lo demás proviene de la filosofía hindú y de que los brahmanes rechazaron el evangelio de Salem que Maquiventa Melquisedec intentó introducir <a id="a185_205"></a>[[LU 94:1.5](/es/The_Urantia_Book/94#p1_5)]. _El libro de Urantia_ nos dice que este rechazo estuvo motivado por la obsesión indoaria de preservar los privilegios de la casta de los brahmanes y su sentido de identidad racial <a id="a185_430"></a>[[LU 94:2.1](/es/The_Urantia_Book/94#p2_1)].
 
 Este «omitir todo lo demás» les privó de comprender la idea de una deidad personalizada. La poderosa filosofía que produjo tuvo un efecto similar en las filosofías orientales posteriores. En consecuencia, tanto el hinduismo como el budismo carecen de una comprensión simple y clara de la personalidad del Padre Universal que presentaron los misioneros de Salem y confirmó Miguel de Nebadón en su séptimo ministerio de otorgamiento.
 
-> _… El concepto del Buda Absoluto es a veces casi personal, a veces totalmente impersonal — e incluso una fuerza creadora infinita. Aunque estos conceptos son útiles para la filosofía, no son vitales para el desarrollo religioso. **Incluso un Yahvé antropomórfico tiene un valor religioso mucho mayor que el Absoluto infinitamente lejano del budismo o del brahmanismo**_. <a id="a188_342"></a>[[LU 94:11.12](/es/The_Urantia_Book/94#p11_12), Emphasis added.]
+> _… El concepto del Buda Absoluto es a veces casi personal, a veces totalmente impersonal — e incluso una fuerza creadora infinita. Aunque estos conceptos son útiles para la filosofía, no son vitales para el desarrollo religioso. **Incluso un Yahvé antropomórfico tiene un valor religioso mucho mayor que el Absoluto infinitamente lejano del budismo o del brahmanismo**_. <a id="a189_373"></a>[[LU 94:11.12](/es/The_Urantia_Book/94#p11_12), Emphasis added.]
 
 ### El nirvana y la paz espiritual
 
@@ -197,7 +197,7 @@ Si bien su comprensión incompleta resalta conceptos y nociones muy importantes 
 
 El problema surge de la lógica estricta de estas filosofías, una lógica que omite cualquier consideración de un Padre personalizado. Huérfanas de esta manera, estas filosofías no pueden profundizar en la naturaleza completa del ser, y aunque pueden conducir a un estado de paz comparable tienden a empujar al individuo a un aislamiento prolongado.
 
-> _Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable._ <a id="a198_150"></a>[[LU 100:5.8](/es/The_Urantia_Book/100#p5_8)]
+> _Los cortos períodos de retiro del escenario activo de la vida pueden no ser gravemente peligrosos, pero el aislamiento prolongado de la personalidad es sumamente indeseable._ <a id="a199_178"></a>[[LU 100:5.8](/es/The_Urantia_Book/100#p5_8)]
 
 Este aislamiento, que se considera necesario para dominar al yo compulsivo, puede terminar disociando al discípulo, lo que hace difícil conciliar el estado confuso actual de la sociedad con la paz sublime que el seguidor puede lograr a través del aislamiento personal. Simplemente no hay un puente que conecte la brecha cada vez mayor entre los dos. Los seguidores de estas filosofías suelen elegir pasar sus vidas como ermitaños, quizás venerados por la sociedad en general, pero no necesariamente al servicio de la humanidad. Podrían correr el riesgo de responder involuntariamente al grito de autoafirmación con su llamada a una precedencia de la mente que los separe del reconocimiento y la participación compartida y consciente con el espíritu del Padre.
 
@@ -217,10 +217,10 @@ Las siguientes iniciativas que Jesús llevó a cabo habrían ayudado sin duda a 
 
 - El periodo de formación de dos años al joven de la India, Ganid, que probablemente proporcionó una bienvenida saludable al evangelio del Padre por parte de las filosofías del Lejano Oriente que se habían quedado huérfanas del concepto de Padre.
 - Las enseñanzas de Urmia, que expandieron la comprensión religiosa que podría haber ayudado a divulgar las tradiciones de la versión oriental del cristianismo, que era menos belicosa que la versión occidental.
-- La influencia del grupo de Abner de Filadelfia, que dio como resultado «La versión oriental del mensaje de Jesús» <a id="a218_112"></a>[[LU 195:1.11](/es/The_Urantia_Book/195#p1_11)].
+- La influencia del grupo de Abner de Filadelfia, que dio como resultado «La versión oriental del mensaje de Jesús» <a id="a219_116"></a>[[LU 195:1.11](/es/The_Urantia_Book/195#p1_11)].
 - La quinta revelación de época y el ministerio actual.
 
-Después de los ministerios respectivos de Maquiventa y Miguel de Nebadón y de sus aportaciones a la filosofía de los pueblos de Tierra Santa, Dios Supremo toma estos esfuerzos y llama a todos los Hijos de Dios a que continúen este ministerio, pues _En todo el extenso universo, nunca se pierde nada que tenga un valor de supervivencia_ <a id="a221_322"></a>[[LU 109:3.2](/es/The_Urantia_Book/109#p3_2)].
+Después de los ministerios respectivos de Maquiventa y Miguel de Nebadón y de sus aportaciones a la filosofía de los pueblos de Tierra Santa, Dios Supremo toma estos esfuerzos y llama a todos los Hijos de Dios a que continúen este ministerio, pues _En todo el extenso universo, nunca se pierde nada que tenga un valor de supervivencia_ <a id="a222_336"></a>[[LU 109:3.2](/es/The_Urantia_Book/109#p3_2)].
 
 Es interesante que los reveladores nos digan que lamentan enormemente que las enseñanzas de Abner, que eran en muchos aspectos más fieles al mensaje de Jesús, no prosperaran en las tradiciones posteriores del cristianismo occidental.
 
@@ -245,7 +245,7 @@ _En el estudio de la individualidad, sería útil recordar:_
 1. _Que los sistema físicos están subordinados__._
 2. _Que los sistemas intelectuales están coordinados__._
 3. _Que la personalidad está superordenada._
-4. _Que la fuerza espiritual interior es potencialmente directiva__._ <a id="a246_67"></a>[[LU 112:2.1](/es/The_Urantia_Book/112#p2_1)]
+4. _Que la fuerza espiritual interior es potencialmente directiva__._ <a id="a247_70"></a>[[LU 112:2.1](/es/The_Urantia_Book/112#p2_1)]
 
 Recordemos también que estamos bendecidos con algo más que una simple consciencia animal, estamos dotados con una consciencia atenta de lo divino: la consciencia de Dios en el primer nivel, la búsqueda de Dios en el segundo, y en el tercer nivel, la voluntad de parecernos a Dios.
 

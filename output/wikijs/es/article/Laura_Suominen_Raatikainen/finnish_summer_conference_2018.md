@@ -62,7 +62,7 @@ En general el fin de semana fue muy satisfactorio. Los participantes se fueron a
 
 > _El mortal consciente de Dios está seguro de salvarse; no le teme a la vida; es honrado y consecuente. Sabe cómo soportar valientemente los sufrimientos inevitables; no se queja cuando se enfrenta con las penalidades ineludibles._
 > 
-> _El verdadero creyente no se cansa de hacer el bien simplemente porque se sienta frustrado. Las dificultades estimulan el ardor de los amantes de la verdad, mientras que los obstáculos sólo sirven para desafiar los esfuerzos de los intrépidos constructores del reino._ <a id="a63_211"></a>[[LU 156:5.20-21](/es/The_Urantia_Book/156#p5_20)]
+> _El verdadero creyente no se cansa de hacer el bien simplemente porque se sienta frustrado. Las dificultades estimulan el ardor de los amantes de la verdad, mientras que los obstáculos sólo sirven para desafiar los esfuerzos de los intrépidos constructores del reino._ <a id="a64_271"></a>[[LU 156:5.20-21](/es/The_Urantia_Book/156#p5_20)]
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Summer-Meeting-in-Finland-by-Matti-T-2-706x471.jpg">

@@ -143,7 +143,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 7. Con excepción de unos pocos fragmentos de prosa histórica, todo Isaías está en verso, y así está dispuesto en la Versión Estándar Revisada.
 8. Hay 17 fragmentos de prosa esparcidos aquí y allá a lo largo del libro.
 9. No existe una persona llamada el Tercer Isaías. Este grupo de escritos recopilados (capítulos 56-66) contiene pasajes tanto del Primero como del Segundo Isaías.
-10. Hay indicios en el Libro de Urantia de que los sacerdotes exiliados no eran del todo amigables con el Segundo Isaías. Conservaron sus escritos por su absoluta grandeza y belleza. (Libro de Urantia <a id="s145_204"></a>[LU 97:7.1](/es/The_Urantia_Book/97#p7_1))
+10. Hay indicios en el Libro de Urantia de que los sacerdotes exiliados no eran del todo amigables con el Segundo Isaías. Conservaron sus escritos por su absoluta grandeza y belleza. (Libro de Urantia <a id="s145_201"></a>[LU 97:7.1](/es/The_Urantia_Book/97#p7_1))
 
 ## V. Componentes y Composición
 
@@ -181,14 +181,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 19. La historia de cómo se hizo un profeta: el carbón encendido tocando su boca.
 20. En [7:14](/es/Bible/Isaiah/7#v14) está el pasaje: «la virgen dará a luz un hijo». En la versión revisada: «mujer joven».
 21. En [8:16](/es/Bible/Isaiah/8#v16) dice: «Atar… sellar»-el tiempo de su retirada.
-22. En [14:13,14](/es/Bible/Isaiah/14#v13) se menciona la Asamblea del Monte, (Ver Libro de Urantia <a id="s183_90"></a>[LU 43:4.1](/es/The_Urantia_Book/43#p4_1). También [Eze. 28:14](/es/Bible/Ezekiel/28#v14).) El Monte Asamblea es la residencia de los Fieles de los Días en la sede de la constelación.
+22. En [14:13,14](/es/Bible/Isaiah/14#v13) se menciona la Asamblea del Monte, (Ver Libro de Urantia <a id="s183_100"></a>[LU 43:4.1](/es/The_Urantia_Book/43#p4_1). También [Eze. 28:14](/es/Bible/Ezekiel/28#v14).) El Monte Asamblea es la residencia de los Fieles de los Días en la sede de la constelación.
 
 ## VII. Pensamientos concluyentes
 
 1. El libro ha sido editado y reorganizado muchas veces.
 2. Cuatro pasajes del Tercer Isaías se asignan al **Primer** Isaías del Libro de Urantia, a saber, [Is 60:1](/es/Bible/Isaiah/60#v1). [61:1](/es/Bible/Isaiah/61#v1). [61:10](/es/Bible/Isaiah/61#v10). [63:9](/es/Bible/Isaiah/63#v9). (Libro de Urantia <a id="s188_250"></a>[LU 97:5.3)](/es/The_Urantia_Book/97#p5_3))
 3. Destinación del editor: [Is 7:20](/es/Bible/Isaiah/7#v20). La nota a pie de página «Navaja» explica que la navaja se refiere al rey de Asiria.
-4. Algunas citas de Isaías Primero en el Libro de Urantia: [28:17](/es/Bible/Isaiah/28#v17). [14:3](/es/Bible/Isaiah/14#v3). [30:21](/es/Bible/Isaiah/30#v21). [12:2](/es/Bible/Isaiah/12#v2). [1:18](/es/Bible/Isaiah/1#v18). (Libro de Urantia <a id="s190_240"></a>[LU 97:5.2)](/es/The_Urantia_Book/97#p5_2))
+4. Algunas citas de Isaías Primero en el Libro de Urantia: [28:17](/es/Bible/Isaiah/28#v17). [14:3](/es/Bible/Isaiah/14#v3). [30:21](/es/Bible/Isaiah/30#v21). [12:2](/es/Bible/Isaiah/12#v2). [1:18](/es/Bible/Isaiah/1#v18). (Libro de Urantia <a id="s190_241"></a>[LU 97:5.2)](/es/The_Urantia_Book/97#p5_2))
 5. Hay mucha historia en Isaías que trata de Egipto, Asiria y Babilonia.
 6. Isaías abogó por una política de paz con Asiria; se opuso a la alianza de Ezequías con Egipto.
 7. Jerusalén se salvó del ejército de Senaquerib gracias a un brote de peste bubónica en el año 701 a.C. Pero en 2 Reyes dice que Ezequías pagó un gran tributo.

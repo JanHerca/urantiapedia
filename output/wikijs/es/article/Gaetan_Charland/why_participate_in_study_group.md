@@ -50,7 +50,7 @@ La vinculación con otros lectores en el contexto de un grupo de estudio nos pro
 
 En la introducción de _El libro de Urantia_, los reveladores nos informan sobre el estado de nuestras mentes, y esto es lo que nos dice un Consejero Divino:
 
-> EN LA MENTE de los mortales de Urantia —pues ese es el nombre de vuestro mundo— existe una gran confusión respecto al significado de términos como Dios, divinidad y deidad. Para los seres humanos son aún más inciertas y confusas las relaciones entre las personalidades divinas designadas con esas numerosas denominaciones. <a id="a51_320"></a>[Foreword [LU 0:0.1](/es/The_Urantia_Book/0#p0_1)]
+> EN LA MENTE de los mortales de Urantia —pues ese es el nombre de vuestro mundo— existe una gran confusión respecto al significado de términos como Dios, divinidad y deidad. Para los seres humanos son aún más inciertas y confusas las relaciones entre las personalidades divinas designadas con esas numerosas denominaciones. <a id="a52_325"></a>[Foreword [LU 0:0.1](/es/The_Urantia_Book/0#p0_1)]
 
 ¿A quién de nosotros no le ha costado entender lo que este Consejero Divino nos dice en el Prólogo del libro? ¿Quién de nosotros, después de varias lecturas, no tiene todavía alguna dificultad para entender ciertos conceptos, por no hablar de apropiarse de las verdades espirituales?
 
@@ -110,17 +110,17 @@ En un grupo de estudio en el que el anfitrión conoce la misión y el propósito
 
 La misión de un grupo de estudio en armonía con _El libro de Urantia_ es expandir la consciencia cósmica y elevar la percepción espiritual mientras se da vida al evangelio de Jesús basado en la Paternidad de Dios y la hermandad del hombre.
 
-Filosófica y espiritualmente, los grupos de estudio podrían definirse como una reunión de hijos de Dios en asociación con el Espíritu de la Verdad que se unen en un deseo sincero de estudiar y dar vida a las enseñanzas de _El libro de Urantia_. Este trabajo en equipo es fomentado por la Unión de Almas <a id="a111_275"></a>[[LU 160:2.7](/es/The_Urantia_Book/160#p2_7)]. Mediante este trabajo en equipo, las enseñanzas de _El libro de Urantia_, y específicamente el evangelio de Jesús, se difundirán eficazmente y transformarán el mundo.
+Filosófica y espiritualmente, los grupos de estudio podrían definirse como una reunión de hijos de Dios en asociación con el Espíritu de la Verdad que se unen en un deseo sincero de estudiar y dar vida a las enseñanzas de _El libro de Urantia_. Este trabajo en equipo es fomentado por la Unión de Almas <a id="a112_303"></a>[[LU 160:2.7](/es/The_Urantia_Book/160#p2_7)]. Mediante este trabajo en equipo, las enseñanzas de _El libro de Urantia_, y específicamente el evangelio de Jesús, se difundirán eficazmente y transformarán el mundo.
 
 Debemos recordar que estamos relacionados con una revelación que está bajo la supervisión de Miguel. Cuando contribuimos a esta revelación a través de los grupos de estudio, y cuando nos reunimos en un contexto de estudio y de intercambio, Miguel está presente entre nosotros. Podríamos decir que estamos en un espacio sagrado donde el Espíritu de la Verdad no solo nos acompaña sino que colabora eficazmente con nuestro Monitor divino para espiritualizarnos. También es probable que observadores celestiales nos vigilen mientras nuestras ángeles guardianas se alegran de nuestra asociación como potenciales hijos de Dios.
 
 Un grupo de estudio es mucho más que una simple reunión social de lectores que desean confraternizar y estudiar con personas que tienen intereses comunes. No solo tiene una naturaleza intelectual, sino también una dimensión espiritual que va mucho más allá de nuestro entendimiento de mortales. Los grupos de estudio tienen una inmensa repercusión e influencia no solo en los miembros de nuestra familia, sino también en el entorno social y cultural. Son la luz en la oscuridad de un mundo materialista y secularista. Son el soporte y el aliado de la revelación a nuestro planeta a la vez que dan esperanza a las futuras generaciones de personas religiosas. Son el crisol donde se forman los embajadores de la hermandad espiritual.
 
-Es muy probable que los anfitriones de los grupos de estudio estén bajo la supervisión de las guardianas religiosas seráficas <a id="a117_98"></a>[[LU 114:6.7](/es/The_Urantia_Book/114#p6_7)]. Su contribución a la misión de la revelación está seguramente imbuida de una naturaleza sagrada que es bendecida por nuestros supervisores planetarios. Los anfitriones de los grupos de estudio y sus miembros están asociados a una revelación de la verdad que forma parte de la evolución natural de la religión en este mundo. Son los líderes silenciosos y pacientes y los partidarios de la revelación que hacen avanzar la verdad en todos los ámbitos de la sociedad.
+Es muy probable que los anfitriones de los grupos de estudio estén bajo la supervisión de las guardianas religiosas seráficas <a id="a118_126"></a>[[LU 114:6.7](/es/The_Urantia_Book/114#p6_7)]. Su contribución a la misión de la revelación está seguramente imbuida de una naturaleza sagrada que es bendecida por nuestros supervisores planetarios. Los anfitriones de los grupos de estudio y sus miembros están asociados a una revelación de la verdad que forma parte de la evolución natural de la religión en este mundo. Son los líderes silenciosos y pacientes y los partidarios de la revelación que hacen avanzar la verdad en todos los ámbitos de la sociedad.
 
 En el documento 195 nos dicen:
 
-> El mundo necesita ver a Jesús viviendo de nuevo en la tierra en la experiencia de los mortales nacidos del espíritu que revelan efectivamente al Maestro a todos los hombres. <a id="a121_137"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+> El mundo necesita ver a Jesús viviendo de nuevo en la tierra en la experiencia de los mortales nacidos del espíritu que revelan efectivamente al Maestro a todos los hombres. <a id="a122_176"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 ## Metas de los grupos de estudio
 
@@ -146,9 +146,9 @@ Debemos recordar que un grupo de estudio no es solo una reunión social en la qu
 
 Concluyo invitando a meditar sobre estas dos citas.
 
-> La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la hermandad del reino de Jesús debería electrizar a todos los que creen en él como nada ha conmovido a los hombres desde los días en que caminaron por la tierra como compañeros suyos en la carne. <a id="a147_294"></a>[[LU 195:10.6](/es/The_Urantia_Book/195#p10_6)]
+> La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la hermandad del reino de Jesús debería electrizar a todos los que creen en él como nada ha conmovido a los hombres desde los días en que caminaron por la tierra como compañeros suyos en la carne. <a id="a148_317"></a>[[LU 195:10.6](/es/The_Urantia_Book/195#p10_6)]
 
-> La religión necesita nuevos líderes, hombres y mujeres espirituales que se atrevan a confiar solamente en Jesús y en sus enseñanzas incomparables. <a id="a149_131"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> La religión necesita nuevos líderes, hombres y mujeres espirituales que se atrevan a confiar solamente en Jesús y en sus enseñanzas incomparables. <a id="a150_149"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
 Rezo por que este artículo les ayude a comprender mejor la importancia de la misión espiritual y el propósito de los grupos de estudio. Su contribución continua a la revelación, ya sea como anfitrión o como participante, es de inmenso valor para que la revelación tenga éxito. No espere al momento perfecto para crear uno o para convertirse en miembro de un grupo existente, ¡ahora es el momento!
 

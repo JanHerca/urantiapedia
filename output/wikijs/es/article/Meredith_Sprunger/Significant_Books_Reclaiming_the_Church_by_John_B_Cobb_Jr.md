@@ -1,5 +1,5 @@
 ---
-title: "Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr"
+title: "Libros importantes: «Reclamando la Iglesia» por John B. Cobb, Jr"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “El buen libro” de Peter J. Gomes</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: «El buen libro» de Peter J. Gomes</span>
         </a>
         </td>
         <td>
@@ -63,7 +63,7 @@ El mayor problema del profesor Cobb es tratar de explicar cómo se reconoce a «
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “El buen libro” de Peter J. Gomes</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: «El buen libro» de Peter J. Gomes</span>
         </a>
         </td>
         <td>

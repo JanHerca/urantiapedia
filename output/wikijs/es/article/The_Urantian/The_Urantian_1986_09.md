@@ -72,7 +72,7 @@ _Parque Greenfield. Quebec_
 
 ---
 
-> «_El estado físico puede obstaculizar a la mente, y la perversidad mental puede retrasar la consecución espiritual, pero ninguno de estos obstáculos puede vencer la elección que la voluntad ha hecho con toda su alma._» ([LU 65:8.5](/es/The_Urantia_Book/65#p8_5))
+> «_El estado físico puede obstaculizar a la mente, y la perversidad mental puede retrasar la consecución espiritual, pero ninguno de estos obstáculos puede vencer la elección que la voluntad ha hecho con toda su alma._» (<a id="a74_222"></a>[LU 65:8.5](/es/The_Urantia_Book/65#p8_5))
 
 
 

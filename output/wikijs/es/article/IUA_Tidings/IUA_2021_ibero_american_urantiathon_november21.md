@@ -66,7 +66,7 @@ Asistir al grupo de estudio recarga nuestra batería espiritual, eleva nuestro i
 
 Recen siempre en busca de orientación y estén abiertos a la ayuda espiritual. Les recomendamos que lo primero que hagan después de decidirse a acoger un grupo sea entregar su decisión en oración a las influencias espirituales que hay en ustedes y a su alrededor. Recuerden que estamos rodeados y habitados por ayudantes espirituales que les ayudarán si están abiertos a su guía.
 
-> Cuando el hombre se asocia con Dios pueden suceder y suceden grandes cosas. <a id="a67_75"></a>[[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
+> Cuando el hombre se asocia con Dios pueden suceder y suceden grandes cosas. <a id="a68_78"></a>[[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
 
 ### El liderazgo y servicio de los amigos de Jesús
 
@@ -119,9 +119,9 @@ El liderazgo desempeña un papel crucial en la promoción del bienestar y la sal
 
 Veamos lo que _El libro de Urantia_ nos enseña al respecto:
 
-> La mayoría de las grandes épocas religiosas han sido inauguradas por la vida y enseñanzas de alguna personalidad sobresaliente. La mayoría de los movimientos morales dignos de consideración de la historia han sido fruto de un liderazgo. <a id="a120_195"></a>[[LU 92:5.5](/es/The_Urantia_Book/92#p5_5)\]
+> La mayoría de las grandes épocas religiosas han sido inauguradas por la vida y enseñanzas de alguna personalidad sobresaliente. La mayoría de los movimientos morales dignos de consideración de la historia han sido fruto de un liderazgo. <a id="a121_239"></a>[[LU 92:5.5](/es/The_Urantia_Book/92#p5_5)\]
 
-> La mujer ha sido siempre la abanderada moral y líder espiritual de la humanidad. La mano que mece la cuna sigue fraternizando con el destino. <a id="a122_160"></a>[[LU 84:6.4](/es/The_Urantia_Book/84#p6_4)]
+> La mujer ha sido siempre la abanderada moral y líder espiritual de la humanidad. La mano que mece la cuna sigue fraternizando con el destino. <a id="a123_144"></a>[[LU 84:6.4](/es/The_Urantia_Book/84#p6_4)]
 
 Para dejar la mayor y mejor herencia en valores espirituales a las nuevas generaciones, debemos fomentar un verdadero despertar espiritual y el desarrollo de una religión personal dentro del templo de nuestra mente. Que el Espíritu de Dios que habita en nosotros nos guíe y la esencia divina de nuestro Padre Eterno se actualice personalizándose con nuestra alma para que este núcleo espiritual nos espiritualice para toda la eternidad.
 
@@ -215,11 +215,11 @@ El orden, el plan y los métodos de progreso recomendados en el Mandato de Publi
 
 1\. La preparación personal de todo el que quiera servir a la revelación siguiendo las huellas de Jesús en su desarrollo, crecimiento y progreso espiritual, el estudio de la verdad, la comunión con Dios por la adoración, la adquisición de una fe viva a través de la experiencia con el Ajustador interior y su crecimiento humano. La vida de Jesús es el maravilloso ejemplo que los creyentes sinceros deben seguir en su vida.
 
-2\. Dedicarnos a servir, individualmente y en grupo, con verdadero altruismo y creciente sabiduría, utilizando los métodos y procedimientos organizativos de Jesús, financiando las actividades a través de donaciones de personas afines al movimiento, dando libre acceso a los lugares donde se comparten las enseñanzas, enseñando la verdad con poder espiritual y sabiduría como declaró nuestro maestro de antaño_: «no solo en palabras, sino también en poder y en el Espíritu Santo»_ <a id="a215_452"></a>[[LU 34:6.6](/es/The_Urantia_Book/34#p6_6)].
+2\. Dedicarnos a servir, individualmente y en grupo, con verdadero altruismo y creciente sabiduría, utilizando los métodos y procedimientos organizativos de Jesús, financiando las actividades a través de donaciones de personas afines al movimiento, dando libre acceso a los lugares donde se comparten las enseñanzas, enseñando la verdad con poder espiritual y sabiduría como declaró nuestro maestro de antaño_: «no solo en palabras, sino también en poder y en el Espíritu Santo»_ <a id="a217_480"></a>[[LU 34:6.6](/es/The_Urantia_Book/34#p6_6)].
 
-Después de Pentecostés, podemos decir: «No solo en palabras, sino también en poder y en el Espíritu de la Verdad», porque Jesús dijo: _«… este Espíritu de la Verdad se convertirá en el fulcro que multiplicará vuestro poder_» <a id="a217_184"></a>[[LU 178:1.6](/es/The_Urantia_Book/178#p1_6)]. Este es el poder espiritual para hacer el trabajo espiritual, hacer el bien, servir con amor, vivir haciendo la voluntad del Padre, honrarlo y glorificarlo, y amar a nuestros hermanos. También debemos prestar atención a los métodos didácticos de Jesús y a su conocimiento vivo de la verdad divina.
+Después de Pentecostés, podemos decir: «No solo en palabras, sino también en poder y en el Espíritu de la Verdad», porque Jesús dijo: _«… este Espíritu de la Verdad se convertirá en el fulcro que multiplicará vuestro poder_» <a id="a219_225"></a>[[LU 178:1.6](/es/The_Urantia_Book/178#p1_6)]. Este es el poder espiritual para hacer el trabajo espiritual, hacer el bien, servir con amor, vivir haciendo la voluntad del Padre, honrarlo y glorificarlo, y amar a nuestros hermanos. También debemos prestar atención a los métodos didácticos de Jesús y a su conocimiento vivo de la verdad divina.
 
-> Al retirarse a descansar aquella noche Jesús les dijo: «Habéis recibido en abundancia, por eso debéis dar en abundancia la verdad del cielo, y al darla, esta verdad se multiplicará y mostrará la luz creciente de la gracia salvadora en la misma medida en que la dispenséis». <a id="a219_257"></a>[[LU 176:3.10](/es/The_Urantia_Book/176#p3_10)]
+> Al retirarse a descansar aquella noche Jesús les dijo: «Habéis recibido en abundancia, por eso debéis dar en abundancia la verdad del cielo, y al darla, esta verdad se multiplicará y mostrará la luz creciente de la gracia salvadora en la misma medida en que la dispenséis». <a id="a221_276"></a>[[LU 176:3.10](/es/The_Urantia_Book/176#p3_10)]
 
 Cuando damos así la verdad del Padre, su creciente luz de gracia salvadora se multiplica a medida que la entregamos.
 

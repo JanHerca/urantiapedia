@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De John Strobel (Illinois, Estados Unidos)_
 
-¿Han donado alguna vez a una organización benéfica solo para descubrir más tarde que el presidente está ganando millones o que están gastando una cantidad enorme en “marketing”? Quizá han sentido que su dinero se estaba malgastando o que se estaba gastando en algo diferente a la misión de la organización. Bien, pueden estar seguros de que el dinero que dan a la Fundación Urantia se gasta con sabiduría para difundir _El libro de Urantia_ y sus enseñanzas por todo el mundo.
+¿Han donado alguna vez a una organización benéfica solo para descubrir más tarde que el presidente está ganando millones o que están gastando una cantidad enorme en «marketing»? Quizá han sentido que su dinero se estaba malgastando o que se estaba gastando en algo diferente a la misión de la organización. Bien, pueden estar seguros de que el dinero que dan a la Fundación Urantia se gasta con sabiduría para difundir _El libro de Urantia_ y sus enseñanzas por todo el mundo.
 
 Hola, soy John Strobel y estoy seguro de que conocen a mi esposa Joanne, que lleva seis años sirviendo a la Revelación Urantia aquí en Chicago. Aunque solo echo una mano en el 533 cuando es necesario, he pasado aquí el tiempo suficiente para saber que cada dólar donado se agradece enormemente, se incluye en el presupuesto juiciosamente y se gestiona frugalmente. Al tratar sobre los gastos (ya sea para comprar un nuevo equipo o simplemente para reponer el suministro de café), a menudo oigo al personal decir que hay que recordar que es dinero de los donantes. Como donante mensual que soy, siempre me ha hecho sentir bien que mi tiempo y mis aportaciones económicas se respetan de verdad.
 <br style="clear:both;"/>

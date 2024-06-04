@@ -151,7 +151,7 @@ A menudo oímos críticas que describen nuestra sociedad global moderna como tec
 
 Tal como está ahora, desde que Lucifer infectó nuestra sociedad con estas ideas, hemos estado aislados y hemos tenido que arreglárnoslas lo mejor que hemos podido. El mundo está inundado por un océano de «ismos» y «logías» No fue hasta que vino Melquisedec y más adelante Miguel mismo que se nos dio una orientación seria. Desde el otorgamiento de Miguel, nos hemos beneficiado de la llegada mundial y del otorgamiento de los Ajustadores del Pensamiento y del Espíritu de la Verdad para guiarnos hacia una comprensión personal del Padre y una relación con él. Desafortunadamente, nuestro escape completo de Matrix tendrá que esperar hasta que lleguemos a los mundos mansión para que se corrija de manera individual.
 
-Al haber esquilado al Padre de la personalidad, a Lucifer no le importó a quién "adorábamos”, siempre que él tuviera la lealtad y la fidelidad de todo el mundo.
+Al haber esquilado al Padre de la personalidad, a Lucifer no le importó a quién «adorábamos», siempre que él tuviera la lealtad y la fidelidad de todo el mundo.
 
 ## ¿Dónde debería asentarse nuestra fidelidad, si no es en el Estado?
 

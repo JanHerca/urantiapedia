@@ -42,7 +42,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _«Sed perfectos como yo soy perfecto.»_
 
-> _Las criaturas conocedoras de Dios tienen una única aspiración suprema, un solo deseo incontenible, que es llegar a ser mientras están en sus esferas como es él en su perfección paradisiaca de la personalidad y en su esfera universal de recta supremacía. Del Padre Universal que habita en la eternidad procede el mandato supremo: «Sed perfectos como yo soy perfecto». Con amor y misericordia los mensajeros del Paraíso han llevado esta exhortación divina a través de las edades y de los universos, incluso hasta las humildes criaturas de origen animal como las razas humanas de Urantia._ <a id="a43_589"></a>[[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)]
+> _Las criaturas conocedoras de Dios tienen una única aspiración suprema, un solo deseo incontenible, que es llegar a ser mientras están en sus esferas como es él en su perfección paradisiaca de la personalidad y en su esfera universal de recta supremacía. Del Padre Universal que habita en la eternidad procede el mandato supremo: «Sed perfectos como yo soy perfecto». Con amor y misericordia los mensajeros del Paraíso han llevado esta exhortación divina a través de las edades y de los universos, incluso hasta las humildes criaturas de origen animal como las razas humanas de Urantia._ <a id="a44_590"></a>[[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)]
 
 Cuando leí este párrafo por primera vez, muchas emociones y dudas llenaron mi mente. Hay tantas verdades en este texto que es difícil elegir en cuál centrarse.
 
@@ -58,13 +58,13 @@ Las enseñanzas afirman que la perfección se logra cuando alcanzamos el equilib
 
 Esta tarea es sin duda un gran reto, que requiere esfuerzo, dedicación, persistencia y fe. Lo que nos lleva a otro aspecto mencionado en este párrafo:
 
-> «_Las criaturas conocedoras de Dios **tienen una única aspiración suprema, un solo deseo incontenible, que es llegar a ser mientras están en sus esferas como es él** en su perfección paradisiaca de la personalidad y en su esfera universal de recta supremacía_.» [negrita añadida] <a id="a59_273"></a>[[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)]
+> «_Las criaturas conocedoras de Dios **tienen una única aspiración suprema, un solo deseo incontenible, que es llegar a ser mientras están en sus esferas como es él** en su perfección paradisiaca de la personalidad y en su esfera universal de recta supremacía_.» [negrita añadida] <a id="a60_282"></a>[[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)]
 
 ¿Cuánta ambición y deseo son necesarios para alcanzar el propósito de llegar a Dios y ser perfecto como él?
 
 Solemos establecer tantas prioridades para nosotros mismos y para nuestros propios hijos que a menudo perdemos de vista la prioridad más importante de nuestra vida. En relación con este tema, es oportuno recordar otro párrafo de las enseñanzas que nos trajo nuestro Maestro Jesús, la personalidad más perfecta, equilibrada y unificada que hemos tenido en Urantia:
 
-Jesús describió la profunda seguridad del mortal conocedor de Dios cuando dijo: «Para aquel que cree en el reino y conoce a Dios, ¿qué importa si todas las cosas terrenales se derrumban?» <a id="a65_162"></a>[[LU 100:2.7](/es/The_Urantia_Book/100#p2_7)]
+Jesús describió la profunda seguridad del mortal conocedor de Dios cuando dijo: «Para aquel que cree en el reino y conoce a Dios, ¿qué importa si todas las cosas terrenales se derrumban?» <a id="a66_188"></a>[[LU 100:2.7](/es/The_Urantia_Book/100#p2_7)]
 
 Parece que nuestra desorientación de criaturas crea problemas a la hora de establecer prioridades y objetivos, lo que se debe a una sola razón: nuestra relativa falta de conocimiento de Dios.
 

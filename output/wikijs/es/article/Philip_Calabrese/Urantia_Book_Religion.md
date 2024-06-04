@@ -163,7 +163,7 @@ A pesar de todos estos requisitos, el ritual debe ser sencillo:
 
 > Pero un culto —un simbolismo de ritos, lemas u objetivos— no funcionará si es demasiado complejo. Y debe estar presente la exigencia de la devoción, la respuesta de la lealtad. Toda religión eficaz desarrolla infaliblemente un simbolismo valioso, y sus partidarios harían bien en impedir que ese ritual se cristalice en ceremoniales estereotipados obstaculizadores, deformantes y sofocantes, que lo único que pueden hacer es perjudicar y retrasar todo progreso social, moral y espiritual. No existe un culto que pueda sobrevivir si retrasa el crecimiento moral y no logra fomentar el progreso espiritual. El culto es la estructura esquelética alrededor de la cual crece el cuerpo vivo y dinámico de la experiencia espiritual personal —la verdadera religión. <a id="a163_760"></a>[[LU 87:7.10](/es/The_Urantia_Book/87#p7_10)]
 
-Un simbolismo de rituales, lemas o metas”
+Un simbolismo de rituales, lemas o metas
 - s) no funcionará si es demasiado complejo y
 - t) debe incluir la demanda de devoción, la respuesta de lealtad
 
@@ -191,7 +191,7 @@ Entre las aparentes dificultades de este programa se encuentran:
 - D) Falta de suficiente densidad de lectores de _Urantia Book_ en la mayoría de los lugares geográficos para poblar una iglesia local
 - E) Muy pocos líderes muy efectivos
 - F) Resistencia a un nuevo ritual del Recuerdo
-- G) División de los lectores de _Urantia Book_ en _Urantia Book_ Fellowship y la subsiguientemente organizada Urantia Association International. (La Fundación Urantia de 5 miembros, titular original de los derechos de autor del Libro y actual titular de la marca registrada del nombre «Urantia» y el símbolo triconcéntrico, autoriza el uso de estas marcas registradas por parte de la UAI pero no de la Fraternidad, que publica sus propias versión en inglés esencialmente idéntica.”
+- G) División de los lectores de _Urantia Book_ en _Urantia Book_ Fellowship y la subsiguientemente organizada Urantia Association International. (La Fundación Urantia de 5 miembros, titular original de los derechos de autor del Libro y actual titular de la marca registrada del nombre «Urantia» y el símbolo triconcéntrico, autoriza el uso de estas marcas registradas por parte de la UAI pero no de la Fraternidad, que publica sus propias versión en inglés esencialmente idéntica.
 - H) La tendencia a sobreorganizar (institucionalizar) la religión en grupos que compiten por el territorio
 
 ## 12) Una oración por la unidad

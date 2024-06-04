@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Por Martin Greenhut, Monterey, Massachusetts_
 
-«...UN DÍA MÁS PARA HACER LA VOLUNTAD DEL PADRE Y EXPERIMENTAR EL GOZO DE SABER QUE SOMOS SUS HIJOS» (<a id="a15_102"></a>[LU 177:5.6](/es/The_Urantia_Book/177#p5_6) — Jesús hablando de su último día libre en la tierra).
+«...UN DÍA MÁS PARA HACER LA VOLUNTAD DEL PADRE Y EXPERIMENTAR EL GOZO DE SABER QUE SOMOS SUS HIJOS» (<a id="a39_102"></a>[LU 177:5.6](/es/The_Urantia_Book/177#p5_6) — Jesús hablando de su último día libre en la tierra).
 
 Cuando tenemos que afrontar algunas de las circunstancias paralizantes de los cuerpos humanos enfermos y envejecidos, la verdadera naturaleza del estado mortal nos confronta en su plenitud. Nuestros cuerpos, como animales de trabajo que se han agotado durante toda una vida de laborioso estrés y abuso físico, se convierten en organismos débiles y engorrosos que requieren atención y cuidados excesivos. Nuestro espíritu debe recurrir a cualquier fuerza que haya logrado para hacer frente al fulminante recipiente físico.
 

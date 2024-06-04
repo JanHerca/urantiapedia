@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## ¿Cuál es el proyecto Nueva Filosofía de Vivir?
 
-«_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina._» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10)) ¿Qué implicaciones tiene este pasaje? ¿Qué preguntas plantea?
+«_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina._» (<a id="a36_349"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)) ¿Qué implicaciones tiene este pasaje? ¿Qué preguntas plantea?
 
 El desafío religioso. ¡Qué sorpresa proponer éste como primario! ¿Qué hubieras dicho si te hubieran preguntado cuál es el principal desafío religioso de esta época? La mayoría de los religiosos darían respuestas muy diferentes. No afirmemos apresuradamente nuestro acuerdo con el texto y pasemos rápidamente a la siguiente línea edificante. Para descubrir si estamos de acuerdo con el autor, debemos investigar.
 
@@ -66,7 +66,7 @@ Muchas gracias a todos los que escribieron en respuesta a las preguntas que plan
 
 Esto de ninguna manera concluye nuestra intención de publicar un trabajo que se centre en las preguntas que hemos planteado. Si se ha tomado su tiempo para considerar detenidamente su respuesta, continúe, escríbala y envíela a _The Journal_. Sólo para darle algo más en qué pensar, aquí hay una pregunta más, esta vez de la siguiente cita del Documento 4.
 
-> «_La bondad infinita del Padre se encuentra más allá de la comprensión de la mente finita del tiempo; de ahí que deba proporcionarse siempre un contraste con el mal relativo (no con el pecado) para mostrar efectivamente todas las fases de la bondad relativa. La perspicacia imperfecta de los mortales sólo puede discernir la perfección de la bondad divina porque ésta se halla en una asociación de contraste con la imperfección relativa en las relaciones del tiempo y la materia en los movimientos del espacio._» ([LU 4:3.6](/es/The_Urantia_Book/4#p3_6))
+> «_La bondad infinita del Padre se encuentra más allá de la comprensión de la mente finita del tiempo; de ahí que deba proporcionarse siempre un contraste con el mal relativo (no con el pecado) para mostrar efectivamente todas las fases de la bondad relativa. La perspicacia imperfecta de los mortales sólo puede discernir la perfección de la bondad divina porque ésta se halla en una asociación de contraste con la imperfección relativa en las relaciones del tiempo y la materia en los movimientos del espacio._» (<a id="a68_516"></a>[LU 4:3.6](/es/The_Urantia_Book/4#p3_6))
 
 _Pregunta_
 
@@ -74,7 +74,7 @@ La naturaleza del mal y la preocupación por su realidad es hoy una cuestión te
 
 ---
 
-> «_La diferencia característica entre la religión evolutiva y la religión revelada consiste en una nueva calidad de sabiduría divina que se añade a la sabiduría humana puramente experiencial._» ([LU 100:6.9](/es/The_Urantia_Book/100#p6_9))
+> «_La diferencia característica entre la religión evolutiva y la religión revelada consiste en una nueva calidad de sabiduría divina que se añade a la sabiduría humana puramente experiencial._» (<a id="a76_196"></a>[LU 100:6.9](/es/The_Urantia_Book/100#p6_9))
 
 
 

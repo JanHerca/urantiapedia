@@ -207,11 +207,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 40. **El tonto y su locura**. «No respondas al tonto según su necedad, para que no seas tú mismo como él». [26:4](/es/Bible/Proverbs/26#v4).
 41. **El mañana**. «No os jactéis del mañana, porque no sabéis lo que deparará el día». [27:1](/es/Bible/Proverbs/27#v1).
 42. **Los malvados huyen**. «Los malvados huyen cuando nadie los persigue, pero los justos son valientes como un león». [28:1](/es/Bible/Proverbs/28#v1).
-43. **Cuatro misterios**. "Cuatro (cosas) que no entiendo:
+43. **Cuatro misterios**. «Cuatro (cosas) que no entiendo:
 	- el camino del águila en el cielo,
 	- el camino de una serpiente sobre una roca,
 	- el camino de un barco en alta mar,
-	- y el camino del hombre con la doncella.” [30:18,19](/es/Bible/Proverbs/30#v18).
+	- y el camino del hombre con la doncella.» [30:18,19](/es/Bible/Proverbs/30#v18).
 44. **Bebida fuerte**. «Dad bebida fuerte al que perece, y vino a los que están en amarga angustia». [31:6](/es/Bible/Proverbs/31#v6).
 
 

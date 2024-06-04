@@ -36,9 +36,9 @@ Y, si nos atrevemos, podemos.
 
 <p style="text-align: center;">* * *</p>
 
-Hemos recorrido muchos kilómetros conceptuales en este estudio. Hemos sido audaces especulando y valientes en pensamientos aventureros. Hay un pasaje en los Documentos que debería consolarnos al respecto. Los Documentos nos enseñan <a id="a38_232"></a>[LU 30:0.2](/es/The_Urantia_Book/30#p0_2) que es mejor que no nos cuenten demasiado, que demasiada información «privaría a los mortales pensantes de los próximos mil años de ese estímulo a la especulación creativa que proporcionan estos conceptos parcialmente revelados».
+Hemos recorrido muchos kilómetros conceptuales en este estudio. Hemos sido audaces especulando y valientes en pensamientos aventureros. Hay un pasaje en los Documentos que debería consolarnos al respecto. Los Documentos nos enseñan <a id="s38_232"></a>[LU 30:0.2](/es/The_Urantia_Book/30#p0_2) que es mejor que no nos cuenten demasiado, que demasiada información «privaría a los mortales pensantes de los próximos mil años de ese estímulo a la especulación creativa que proporcionan estos conceptos parcialmente revelados».
 
-El autor es dolorosamente consciente de las limitaciones de la mente humana. Percibimos tan débilmente, comprendemos tan lentamente, parecemos tan insensibles a la luz de la verdad. Las especulaciones de este estudio sin duda son muy propensas al error. Es muy poco probable que razonemos mediante hechos válidos. Pero, incluso aquí, al final, otro pasaje de los Documentos <a id="a40_374"></a>[LU 196:3.31](/es/The_Urantia_Book/196#p3_31) ofrece mucho a modo de consuelo:
+El autor es dolorosamente consciente de las limitaciones de la mente humana. Percibimos tan débilmente, comprendemos tan lentamente, parecemos tan insensibles a la luz de la verdad. Las especulaciones de este estudio sin duda son muy propensas al error. Es muy poco probable que razonemos mediante hechos válidos. Pero, incluso aquí, al final, otro pasaje de los Documentos <a id="s40_374"></a>[LU 196:3.31](/es/The_Urantia_Book/196#p3_31) ofrece mucho a modo de consuelo:
 
 > «Toda la fantasía del hombre sobre el universo puede no ser un hecho, pero una parte, una gran parte es verdad».
 

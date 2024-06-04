@@ -52,7 +52,7 @@ El libro me llevó a conocer mejor a Jesús, me mostró verdades nuevas y maravi
 <img src="/image/article/UF_News_Online/2021_07/030.jpg">
 </figure>
 
-“. . . este poderoso manantial de aguas vivas de la sabiduría”.
+«. . . este poderoso manantial de aguas vivas de la sabiduría».
 
 
 ## Referencias

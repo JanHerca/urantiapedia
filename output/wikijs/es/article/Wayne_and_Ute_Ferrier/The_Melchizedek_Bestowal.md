@@ -57,7 +57,7 @@ Los eruditos bíblicos han estado intrigados por el hecho de que Melquisedec era
 
 Génesis describe un encuentro entre Abraham y el rey-sacerdote Melquisedec. Abraham acababa de regresar de una batalla victoriosa y atribuyó su éxito a Melquisedec, a quien le dio el 10 por ciento de su botín. Melquisedec a su vez le dio a Abraham pan y vino. Si bien la historia bíblica hace que parezca que Melquisedec bendijo la batalla de Abraham, los Documentos de Urantia afirman que Melquisedec intentó persuadir a Abraham para que abandonara su cruzada de conquista.
 
-> «Melquisedek explicó a Abraham la inutilidad de luchar contra la confederación amorita, pero también le indicó con claridad que estos clanes atrasados estaban suicidándose indudablemente a causa de sus prácticas insensatas, de manera que en pocas generaciones estarían tan debilitados que los descendientes de Abraham, que habrían aumentado considerablemente mientras tanto, podrían vencerlos fácilmente.» (<a id="a35_409"></a>[LU 93:6.2](/es/The_Urantia_Book/93#p6_2))
+> «Melquisedek explicó a Abraham la inutilidad de luchar contra la confederación amorita, pero también le indicó con claridad que estos clanes atrasados estaban suicidándose indudablemente a causa de sus prácticas insensatas, de manera que en pocas generaciones estarían tan debilitados que los descendientes de Abraham, que habrían aumentado considerablemente mientras tanto, podrían vencerlos fácilmente.» (<a id="a59_409"></a>[LU 93:6.2](/es/The_Urantia_Book/93#p6_2))
 
 Melquisedec no temía a los enemigos de Abraham y no se defendía contra ellos, pero permitió que Abraham lo hiciera, al mismo tiempo que lo animaba a abandonar la guerra por completo. Melquisedec toleró cambios lentos mientras aconsejaba constantemente mejores alternativas. Más adelante en su vida, Abraham cedió a la sabiduría de Melquisedec y abandonó la guerra.
 
@@ -101,11 +101,11 @@ Los éxitos más significativos del autootorgamiento de Melquisedec son que revi
 
 El pacto de Abraham con Yahvé es la pieza central del mensaje del Génesis. Yahvé aparece como socio del patriarca. Dios es accesible, según Melquisedec, pero más grande que eso, Dios sólo requiere fe para que su relación funcione. Dios promete sostenerlo todo. El hombre sólo necesita fe y deseo para hacer la voluntad del Padre.
 
-«Esta alianza de Melquisedek con Abraham representa el gran acuerdo urantiano entre la divinidad y la humanidad, según el cual Dios acepta hacerlo *todo*, y el hombre sólo acepta *creer* en las promesas de Dios y seguir sus instrucciones». (Libro de Urantia, <a id="a79_259"></a>[LU 93:6.4](/es/The_Urantia_Book/93#p6_4))
+«Esta alianza de Melquisedek con Abraham representa el gran acuerdo urantiano entre la divinidad y la humanidad, según el cual Dios acepta hacerlo *todo*, y el hombre sólo acepta *creer* en las promesas de Dios y seguir sus instrucciones». (Libro de Urantia, <a id="a103_259"></a>[LU 93:6.4](/es/The_Urantia_Book/93#p6_4))
 
-Abraham tomó el pacto aún más en serio después del nacimiento de su hijo Isaac y fue a Salem para ponerlo por escrito. Fue en esta aceptación formal y pública que cambió su nombre de Abram a Abraham. (Libro de Urantia, <a id="a81_219"></a>[LU 93:6.5](/es/The_Urantia_Book/93#p6_5) y [Génesis 17](/es/Bible/Genesis/17))
+Abraham tomó el pacto aún más en serio después del nacimiento de su hijo Isaac y fue a Salem para ponerlo por escrito. Fue en esta aceptación formal y pública que cambió su nombre de Abram a Abraham. (Libro de Urantia, <a id="a105_219"></a>[LU 93:6.5](/es/The_Urantia_Book/93#p6_5) y [Génesis 17](/es/Bible/Genesis/17))
 
-Jesús se basó en la herencia de las enseñanzas de Melquisedec cuando instruyó a sus apóstoles en el tercer viaje de predicación: «La salvación es el don del Padre y es revelada por sus Hijos. Su aceptación, por la fe, os convierte en partícipes de la naturaleza divina, en hijos o hijas de Dios. Por la fe, estáis justificadas; por la fe, sois salvadas; y por esta misma fe, avanzaréis eternamente en el camino de la perfección progresiva y divina. Abraham fue justificado por la fe y tomó conciencia de la salvación gracias a las enseñanzas de Melquisedek. A lo largo de todos los tiempos, esta misma fe ha salvado a los hijos de los hombres, pero ahora un Hijo ha venido del Padre para hacer más real y aceptable la salvación». (El Libro de Urantia, <a id="a83_752"></a>[LU 150:5.3](/es/The_Urantia_Book/150#p5_3))
+Jesús se basó en la herencia de las enseñanzas de Melquisedec cuando instruyó a sus apóstoles en el tercer viaje de predicación: «La salvación es el don del Padre y es revelada por sus Hijos. Su aceptación, por la fe, os convierte en partícipes de la naturaleza divina, en hijos o hijas de Dios. Por la fe, estáis justificadas; por la fe, sois salvadas; y por esta misma fe, avanzaréis eternamente en el camino de la perfección progresiva y divina. Abraham fue justificado por la fe y tomó conciencia de la salvación gracias a las enseñanzas de Melquisedek. A lo largo de todos los tiempos, esta misma fe ha salvado a los hijos de los hombres, pero ahora un Hijo ha venido del Padre para hacer más real y aceptable la salvación». (El Libro de Urantia, <a id="a107_752"></a>[LU 150:5.3](/es/The_Urantia_Book/150#p5_3))
 
 > **Referencias Bíblicas a Melquisedec**
 >
@@ -113,7 +113,7 @@ Jesús se basó en la herencia de las enseñanzas de Melquisedec cuando instruy�
 > <img src="/image/article/Study_Group_Herald/priest.jpg">
 > </figure>
 > 
-> In the Bible Melchizedek is mentioned in Hebrews, Genesis and Psalms, but there are also minor references scattered throughout the text. Some of these do not refer to Melchizedek by name, but rather to the “High Priest,” which scholars believe is attributed to Melchizedek. He is also called Zadokin many Davidic passages. [I Reyes 1:18](/es/Bible/1_Kings/1#v18) says Zadok belongs to David. [I Crón. 5:11](/es/Bible/1_Chronicles/5#v11) says David called for Zadok.
+> In the Bible Melchizedek is mentioned in Hebrews, Genesis and Psalms, but there are also minor references scattered throughout the text. Some of these do not refer to Melchizedek by name, but rather to the «High Priest,» which scholars believe is attributed to Melchizedek. He is also called Zadokin many Davidic passages. [I Reyes 1:18](/es/Bible/1_Kings/1#v18) says Zadok belongs to David. [I Crón. 5:11](/es/Bible/1_Chronicles/5#v11) says David called for Zadok.
 
 ## Bibliography
 

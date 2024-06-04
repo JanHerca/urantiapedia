@@ -42,7 +42,7 @@ El significado de cosmología era ampliamente conocido a principios de este sigl
 
 La verdad del «argumento cosmológico» fue adoptada por muchos filósofos y teólogos conocidos, incluido incluso Bertrand Russel en los inicios de su carrera. Es el tema de un libro reciente, «El argumento cosmológico» de William Rowe[^2]. «Cosmología» se deriva de la palabra griega kosmos, a la que los Vocabularios de Hartrampf de 1929 dieron el significado de «armonía», mientras que el Diccionario Conciso de Oxford (edición revisada de 1929) lo dio como la «suma total de la experiencia».
 
-Cuando se recibieron los Documentos de Urantia en 1934/5, el uso general de «cosmología» en el mundo de habla inglesa parece haberse descrito razonablemente con la frase «la suma total de la experiencia, incluida la experiencia del universo como un todo». ” Los reveladores usan el término «marco universal» en este mismo sentido.
+Cuando se recibieron los Documentos de Urantia en 1934/5, el uso general de «cosmología» en el mundo de habla inglesa parece haberse descrito razonablemente con la frase «la suma total de la experiencia, incluida la experiencia del universo como un todo». Los reveladores usan el término «marco universal» en este mismo sentido.
 
 ## «Marco del universo» es igual a «cosmología»
 

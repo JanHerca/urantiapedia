@@ -96,7 +96,7 @@ Ben Bowler, quien se hizo cargo del trabajo de Marks en FreeSchools en Tailandia
 
 > _Estoy consternado y entristecido al enterarme del fallecimiento de Mark Bloomfield. Fue el apasionado discurso de Mark en Sydney en la conferencia de la Asociación Urantia de 2006 lo que nos envió a Jildou y a mí a Tailandia para trabajar en FreeSchools, lo que cambió para siempre nuestra trayectoria en la vida. El mes que tuve «entrenamiento» en Fang, Tailandia con Mark, fue uno de los días más increíbles que he tenido en este planeta. Fue un amigo y un guía y también fue profundamente inspirador y ha cambiado mi vida como él ha cambiado a tantas personas a través de sus diversas iniciativas de servicio en todo el mundo._
 > 
-> _Nuestros pensamientos están con su familia. Fíjate, viejo «fulano de tal». Te veré en los Mundos Mansión donde sin duda hay mucha chusma que despertar. Eres única y te amo y te extraño. Gracias por todo lo que has hecho por nuestro planeta y haremos todo lo posible para continuar tu legado de cumplir la voluntad del Padre._ _Una de las grandes líneas de sabiduría de Mark:_ “Muéstrame lo que valoras y te diré lo que tú lo vales." _Viajes tranquilos Mark mi hermano._ 🙏
+> _Nuestros pensamientos están con su familia. Fíjate, viejo «fulano de tal». Te veré en los Mundos Mansión donde sin duda hay mucha chusma que despertar. Eres única y te amo y te extraño. Gracias por todo lo que has hecho por nuestro planeta y haremos todo lo posible para continuar tu legado de cumplir la voluntad del Padre._ _Una de las grandes líneas de sabiduría de Mark:_ «Muéstrame lo que valoras y te diré lo que tú lo vales." _Viajes tranquilos Mark mi hermano._ 🙏
 
 ## 2006 en Australia
 

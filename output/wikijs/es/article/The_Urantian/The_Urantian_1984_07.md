@@ -47,7 +47,7 @@ _Silver Spring, Maryland_
 
 ---
 
-> «_Las enseñanzas de Jesús, aunque enormemente modificadas, sobrevivieron a los cultos de misterio de su época natal, a la ignorancia y la superstición de la edad de las tinieblas, e incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. Estas épocas de grandes pruebas y de derrotas amenazantes siempre son períodos de gran revelación._» ([LU 195:9.3](/es/The_Urantia_Book/195#p9_3))
+> «_Las enseñanzas de Jesús, aunque enormemente modificadas, sobrevivieron a los cultos de misterio de su época natal, a la ignorancia y la superstición de la edad de las tinieblas, e incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. Estas épocas de grandes pruebas y de derrotas amenazantes siempre son períodos de gran revelación._» (<a id="a49_391"></a>[LU 195:9.3](/es/The_Urantia_Book/195#p9_3))
 
 
 

@@ -117,7 +117,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Caín –un fugitivo– se convirtió en un vagabundo –comienzo del nomadismo. (Hay dos registros de Caín, sin mencionar su esposa).
 4. En [9:20](/es/Bible/Genesis/9#v20) dice que Noé fue el primer labrador de la tierra. (También hay dos relatos de Noé).
 5. Los documentos J son las tradiciones de los israelitas del sur, con sede en Hebrón. Son las tribus Kadesh o del monte Horeb que penetraron en Canaán desde el sur. (Hebrón era una de las ciudades de Caleb y también se la conocía como Quiriat-arba.)
-6. Habla de los «poderosos» y los «Nefilim». Para obtener más información sobre los Nefilim, consulte El Libro de Urantia <a id="s119_90"></a>[LU 77:2.3](/es/The_Urantia_Book/77#p2_3)
+6. Habla de los «poderosos» y los «Nefilim». Para obtener más información sobre los Nefilim, consulte El Libro de Urantia <a id="s119_122"></a>[LU 77:2.3](/es/The_Urantia_Book/77#p2_3)
 7. En J1 se asocia a Abraham con Hebrón.
 8. El cántico de Débora, el documento más antiguo del Antiguo Testamento, es una contribución de J1.
 9. Este autor trata de Sodoma y Lot, y de las hijas de Lot que se portaron mal (origen de los moabitas y los amonitas).
@@ -242,14 +242,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. **Creación**. «En el principio creó Dios los cielos y la tierra». [1:1](/es/Bible/Genesis/1#v1).
 2. **Imagen de Dios**. «Entonces dijo Dios: ‘Hagamos al hombre a nuestra imagen’.» [1:26](/es/Bible/Genesis/1#v26).
-3. **Voz en el Jardín**. «Y llamó Jehová Dios al hombre, y le dijo: ‘¿Dónde estás?’» [3:9](/es/Bible/Genesis/3#v9). (Ver Libro de Urantia <a id=»s244_145"></a>[LU 75:4.8](/es/The_Urantia_Book/75#p4_8).)
+3. **Voz en el Jardín**. «Y llamó Jehová Dios al hombre, y le dijo: ‘¿Dónde estás?’» [3:9](/es/Bible/Genesis/3#v9). (Ver Libro de Urantia <a id=»s244_145"></a><a id="s244_159"></a>[LU 75:4.8](/es/The_Urantia_Book/75#p4_8).)
 4. **La maldición**. «Con el sudor de tu frente comerás el pan». [3:19](/es/Bible/Genesis/3#v19).
 5. **Guardián del hermano**. «Entonces el Señor dijo a Caín: ‘¿Dónde está Abel tu hermano?’ Él dijo: ‘No sé; ¿soy yo guardián de mi hermano?’» [4:9](/es/Bible/Genesis/4#v9).
 6. **Traducción de Enoc**. «Enoc caminó con Dios, y desapareció, porque Dios se lo llevó». [5:24](/es/Bible/Genesis/5#v24).
 7. **Los Nefilim**. «Los Nefilim estaban en la tierra en aquellos días...cuando los hijos de Dios se unían a las hijas de los hombres». [6:4](/es/Bible/Genesis/6#v4).
 8. **El arcoiris**. «Puse mi arco en la nube, y será una señal... nunca más... un diluvio para destruir toda carne». [9:13,15](/es/Bible/Genesis/9#v13).
 9. **Confusión de lenguaje**. «Bajemos y confundamos allí su lengua, para que no entiendan el habla de los demás». [11:7](/es/Bible/Genesis/11#v7).
-10. **Melquisedec y Abraham**. «Después de su regreso de la derrota de Ched-o-laomer...Melquisedec rey de Salem sacó pan y vino...y Abram le dio el diezmo de todo.» [14:17-20](/es/Bible/Genesis/14#v17). (Ver Libro de Urantia <a id="s251_241"></a>[LU 93:5.13](/es/The_Urantia_Book/93#p5_13).)
+10. **Melquisedec y Abraham**. «Después de su regreso de la derrota de Ched-o-laomer...Melquisedec rey de Salem sacó pan y vino...y Abram le dio el diezmo de todo.» [14:17-20](/es/Bible/Genesis/14#v17). (Ver Libro de Urantia <a id="s251_225"></a>[LU 93:5.13](/es/The_Urantia_Book/93#p5_13).)
 11. **La fe de Abraham**. «Y creyó al Señor, y le fue contado por justicia». [15:6](/es/Bible/Genesis/15#v6).
 12. **Circuncisión**. «Seréis circuncidados en la carne de vuestro prepucio, y será una señal del pacto». [17:11](/es/Bible/Genesis/17#v11).
 13. **La columna de sal**. «Pero la mujer de Lot... miró hacia atrás y se convirtió en estatua de sal». [19:26](/es/Bible/Genesis/19#v26).

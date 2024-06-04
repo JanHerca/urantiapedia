@@ -53,7 +53,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. Paternidad literaria
 
-1. El Libro de Urantia <a id="s55_20"></a>[LU 121:8.10)](/es/The_Urantia_Book/121#p8_10) dice que 1 Juan fue una carta de presentación para el Evangelio de Juan, escrita por Natán .
+1. El Libro de Urantia <a id="s55_23"></a>[LU 121:8.10)](/es/The_Urantia_Book/121#p8_10) dice que 1 Juan fue una carta de presentación para el Evangelio de Juan, escrita por Natán .
 2. La mayoría de los críticos coinciden en que las tres epístolas tienen el mismo autor.
 3. No hay duda de que las tres cartas fueron escritas por el apóstol Juan a principios del primer siglo, desde una provincia de Asia.
 4. El estilo, en general, es el del cuarto Evangelio.

@@ -33,7 +33,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 Hay una interpretación alternativa y bastante diferente de la polémica de los 48 cromosomas. En este caso, simplemente aceptamos que los autores cumplieron su mandato al pie de la letra. Por lo tanto, aunque sabían que dos de nuestros cromosomas se habían fusionado para llevar el número a 46, se ajustaron a la regla de que no se les permitía darnos conocimiento no ganado (excepto en circunstancias especiales), y así permanecieron con el entonces cuenta actual de 48.
 
-En su artículo titulado «Intolerancia» en el número anterior de Innerface, Ann Bendall comentó: «Cuando se trata de la intolerancia hacia las creencias religiosas de otro grupo, es interesante que _El Libro de Urantia_ afirme: »_Solo con la religión revelada el egoísmo teológico autocrático e intolerante aparecer._” (<a id="a35_319"></a>[LU 92:7.2](/es/The_Urantia_Book/92#p7_2))
+En su artículo titulado «Intolerancia» en el número anterior de Innerface, Ann Bendall comentó: «Cuando se trata de la intolerancia hacia las creencias religiosas de otro grupo, es interesante que _El Libro de Urantia_ afirme: «_Solo con la religión revelada el egoísmo teológico autocrático e intolerante aparecer._» (<a id="a35_319"></a>[LU 92:7.2](/es/The_Urantia_Book/92#p7_2))
 
 Seguramente los reveladores estaban infiriendo que el egoísmo teológico autocrático e intolerante inevitablemente haría su aparición entre los lectores de _El Libro de Urantia_.
 

@@ -54,7 +54,7 @@ Haz clic para ver el video
 
 http://www.youtube.com/watch?v=LVbSwACdgxE
 
-No se contaron historias durante los tiempos “intermedios”.
+No se contaron historias durante los tiempos «intermedios».
 
 El Retiro de Servicio Amoroso seguía siendo un debate estructurado (todos hemos aprendido que un grupo grande en Zoom necesita una estructura), pero se acercaba a satisfacer la sensación de «tomar un café con los amigos». Al pedir a los ponentes que compartieran sus ideas contando historias, los organizadores del retiro reconocieron el papel que desempeñan las historias en nuestra vida, lo que es en sí mismo un servicio de amor. Me sentí muy feliz de formar parte de un público cautivado.
 
@@ -66,7 +66,7 @@ Por otro lado, saqué a relucir una historia sobre Chris, que una vez chocó con
 
 Todos nos enriquecimos escuchando las historias de los demás y aportando las nuestras; el retiro fue una liberación de un año de historias no contadas. Este evento fue un hermoso regalo para todos los que asistieron.
 
-> “Las historias se centraron en el servicio, y cada presentador manejaba un ámbito de servicio diferente”.
+> «Las historias se centraron en el servicio, y cada presentador manejaba un ámbito de servicio diferente».
 {.is-info}
 
 

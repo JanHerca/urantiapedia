@@ -42,9 +42,9 @@ Olga es lectora del libro desde 1996. Casada y con dos hijas, es ingeniera infor
 
 ## 1. ¿Cómo llegaste hasta «El Libro de Urantia» y por qué crees que lo encontraste?
 
-Desde pequeña, siempre he sentido el impulso irrefrenable de conocer la verdad de todo lo que me rodea. Para mí, una de las frases más poderosas que pronunció Jesús de Nazaret es: «Conoceréis la verdad, y la verdad os hará libres”. Así que siempre he sido una lectora ávida y he sentido curiosidad por todo lo que me rodea. He sido y soy una esponja obsesionada con el porqué de las cosas. En mi caso fue a través de la lectura de ciertos libros de Benítez; fue en «Sueños» donde leí por primera vez parte de las enseñanzas de Urantia, pero las novelas que me llevaron de manera decidida al libro fueron los »Caballos de Troya”. Ahí fue donde sentí que tenía que ir a la fuente de todo aquello.
+Desde pequeña, siempre he sentido el impulso irrefrenable de conocer la verdad de todo lo que me rodea. Para mí, una de las frases más poderosas que pronunció Jesús de Nazaret es: «Conoceréis la verdad, y la verdad os hará libres». Así que siempre he sido una lectora ávida y he sentido curiosidad por todo lo que me rodea. He sido y soy una esponja obsesionada con el porqué de las cosas. En mi caso fue a través de la lectura de ciertos libros de Benítez; fue en «Sueños» donde leí por primera vez parte de las enseñanzas de Urantia, pero las novelas que me llevaron de manera decidida al libro fueron los «Caballos de Troya». Ahí fue donde sentí que tenía que ir a la fuente de todo aquello.
 
-En cuanto al por qué creo que lo encontré... supongo que fue debido a esa necesidad de saber la verdad. Como también dijo el Maestro, "buscad y encontraréis”. Y yo busqué y encontré en el momento justo de mi vida, en el que estaba preparada para llegar hasta el libro.
+En cuanto al por qué creo que lo encontré... supongo que fue debido a esa necesidad de saber la verdad. Como también dijo el Maestro, «buscad y encontraréis». Y yo busqué y encontré en el momento justo de mi vida, en el que estaba preparada para llegar hasta el libro.
 
 ## 2. ¿Cuál fue tu primera impresión al leerlo?
 
@@ -70,7 +70,7 @@ Al principio, hubo algunos puntos de la revelación que me costó aceptar. El pr
 
 Es difícil decir qué es lo que me ha impresionado más profundamente del libro... Si tuviera que decir lo que más, sería el increíble plan de ascensión que nos espera. La verdad es que no me entusiasmaba mucho la perspectiva de ir al cielo y no hacer nada más. Cuando leí en el libro que nos esperaba un larguísimo viaje lleno de experiencias y descubrimientos, sentí una ilusión tremenda y pensé que valía todas las penas y sinsabores que pudiera tener en este mundo. También me impresionó leer la vida de Jesús, y reforzó lo importante que es Jesús en mi vida como mi «Dios-hermano mayor-amigo».
 
-## 8. ¿Cómo entiendes tú eso de hacer "la voluntad del Padre”?
+## 8. ¿Cómo entiendes tú eso de hacer «la voluntad del Padre»?
 
 Para mí, hacer la voluntad del Padre es seguir el dictado de mi interior, donde mi chispa divina me muestra el camino. Es dejar que los acontecimientos fluyan sin forzarlos. Es aceptar las cosas tal como vienen y reaccionar en consecuencia, sin pre-ocuparme por lo que pueda pasar o lo que pueda sufrir. Siempre, en todo dilema que se nos presenta en la vida, hay un camino que intuimos que es el correcto. Seguirlo es hacer la voluntad del Padre.
 
@@ -82,7 +82,7 @@ En ocasiones he sentido una alegría en mi interior o un desasosiego que no pare
 
 Intentarlo lo intento, aunque muchas veces me sorprendo en actitudes que no sé si el Maestro habría aprobado. Ahora intento escuchar más a las personas, no juzgarlas, no perder el control, ver a los demás como mis hermanos... Y, cuando me doy cuenta de que no lo he conseguido, la sensación de derrota es terrible. Pero siempre me recupero. ¡Es parte de la naturaleza humana!
 
-## 11. ¿Crees que «El Libro de Urantia» tiene algo "misterioso” que hace que no todo el mundo se decida a leerlo?
+## 11. ¿Crees que «El Libro de Urantia» tiene algo «misterioso» que hace que no todo el mundo se decida a leerlo?
 
 Creo que el libro tiene mucho de desafiante. Obliga a la gente a replantearse sus creencias y convicciones más profundas, y eso puede dar mucho miedo. Hay que ser muy abierto de mente y tener la valentía de plantearse las propias creencias. Lo cómodo para muchos es apartarlo y decir que es un fraude. Lo valiente es leerlo y preguntarse si no será verdad lo que dice. Y si es verdad, plantearse qué hacer en consecuencia.
 

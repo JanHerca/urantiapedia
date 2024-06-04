@@ -44,9 +44,9 @@ _(Transcripción y adaptación de una presentación virtual dada en el 24-hour O
 Era la tarde de mediados de enero del año 27 d.C. cuando Jesús llamó a los apóstoles desde sus redes de pesca cerca de las costas de Galilea y los llevó a las tierras altas al norte de Cafarnaúm. Los doce elegidos estaban a punto de ser ordenados como predicadores públicos del evangelio del reino. Mientras Andrés, Simón Pedro, Santiago y Juan Zebedeo, Felipe, Natanael, Mateo, Tomás, Santiago y Judas Alfeo, Simón el Zelote y Judas Iscariote estaban sentados alrededor de Jesús, les dijo:
 <br style="clear:both;"/>
 
-> _Y no será tanto por las palabras que diréis, sino más bien por la vida que viviréis, como los hombres sabrán que habéis estado conmigo y que habéis aprendido las realidades del reino._ <a id="a45_169"></a>[[LU 140:1.7](/es/The_Urantia_Book/140#p1_7)]
+> _Y no será tanto por las palabras que diréis, sino más bien por la vida que viviréis, como los hombres sabrán que habéis estado conmigo y que habéis aprendido las realidades del reino._ <a id="a46_188"></a>[[LU 140:1.7](/es/The_Urantia_Book/140#p1_7)]
 
-Entonces los doce se arrodillaron en círculo a su alrededor y Jesús los ordenó a cada uno en una ceremonia solemne y sagrada _poniendo los asuntos de la fraternidad divina de los hombres bajo la dirección de unas mentes humanas_ <a id="a47_191"></a>[[LU 140:2.3](/es/The_Urantia_Book/140#p2_3)].
+Entonces los doce se arrodillaron en círculo a su alrededor y Jesús los ordenó a cada uno en una ceremonia solemne y sagrada _poniendo los asuntos de la fraternidad divina de los hombres bajo la dirección de unas mentes humanas_ <a id="a48_229"></a>[[LU 140:2.3](/es/The_Urantia_Book/140#p2_3)].
 
 A continuación Jesús les dijo:
 
@@ -66,7 +66,7 @@ A continuación Jesús les dijo:
 > 
 > _Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios._
 > 
-> _Consideraos bienaventurados cuando los hombres os injurien y os persigan, y digan falsamente toda clase de mal contra vosotros. Regocijaos y alegraos en extremo, porque vuestra recompensa será grande en los cielos._ <a id="a67_185"></a>[[LU 140:3.3-11](/es/The_Urantia_Book/140#p3_3)]
+> _Consideraos bienaventurados cuando los hombres os injurien y os persigan, y digan falsamente toda clase de mal contra vosotros. Regocijaos y alegraos en extremo, porque vuestra recompensa será grande en los cielos._ <a id="a68_219"></a>[[LU 140:3.3-11](/es/The_Urantia_Book/140#p3_3)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/Israel-Highlands-man-and-sun-screen-300x173.jpg">
@@ -97,7 +97,7 @@ Las bienaventuranzas son una actitud que cultivar —una filosofía del vivir di
 
 Esto puede ser mejor expresado como: Bienaventurados los de mente abierta, los enseñables y los que buscan la verdad.
 
-Hay una razón por la que Jesús comenzó así las bienaventuranzas. Debemos estar dispuestos a abrir nuestras mentes al crecimiento espiritual y al cambio. Cuando Jesús estuvo en Roma, él y Ganid se encontraron con un hombre que no estaba hambriento de verdad y Jesús no entabló conversación con él. Dijo a Ganid: _No se puede revelar a Dios a los que no lo buscan; no se puede conducir a las alegrías de la salvación a un alma que no lo desea_. <a id="a98_409"></a>[[LU 132:7.2](/es/The_Urantia_Book/132#p7_2)] Hemos de QUERER aprender para crecer en espíritu. Nuestras vidas serán más felices si aceptamos que somos «pobres de espíritu», que necesitamos buscar verdades intelectuales y espirituales.
+Hay una razón por la que Jesús comenzó así las bienaventuranzas. Debemos estar dispuestos a abrir nuestras mentes al crecimiento espiritual y al cambio. Cuando Jesús estuvo en Roma, él y Ganid se encontraron con un hombre que no estaba hambriento de verdad y Jesús no entabló conversación con él. Dijo a Ganid: _No se puede revelar a Dios a los que no lo buscan; no se puede conducir a las alegrías de la salvación a un alma que no lo desea_. <a id="a99_443"></a>[[LU 132:7.2](/es/The_Urantia_Book/132#p7_2)] Hemos de QUERER aprender para crecer en espíritu. Nuestras vidas serán más felices si aceptamos que somos «pobres de espíritu», que necesitamos buscar verdades intelectuales y espirituales.
 
 No se puede enseñar a los que creen que tienen todas las respuestas, por eso Jesús dijo que deberíamos «ser como niños». Los niños reconocen que no entienden lo que perciben, así que preguntan qué significa. Las mentes de los niños son maleables, enseñables: quieren aprender. Saben que no tienen todas las respuestas. Los niños quieren encontrar la forma correcta de hacer las cosas. Tener una mente abierta es también estar dispuesto a admitir que hemos cometido un error y volver a intentarlo con alegría. Debemos querer aprender y crecer espiritualmente.
 
@@ -131,7 +131,7 @@ Es importante desarrollar una actitud de confianza mutua para hacer lo correcto,
 
 No hay un solo instante en el que no seamos hijos de Dios, ni un instante en el que nuestro hermano no lo sea. Para darnos cuenta de que somos hijos de Dios debemos extender esa creencia a otros, para ver a Dios dentro de ellos a pesar de su comportamiento y en cualquier momento. No importa lo que creamos, no podemos cambiar la realidad. Somos hijos de Dios y también lo son nuestros hermanos, incluso cuando percibimos que se están portando mal. Cuando buscamos lo mejor en nuestros semejantes lo encontraremos en ellos y en nosotros mismos. Podemos inspirar a los demás por nuestra confianza en ellos para que vivan a la altura de su máximo potencial. La verdad siempre es más fuerte que el error. Hay que esperar a ver lo bueno en los demás.
 
-No hacemos mejores a los demás diciéndoles lo malos que son, y eso es especialmente cierto para nuestros hijos. Cuando adquirimos visión espiritual amamos a los demás con un amor paternal, como Dios los ama. El mandamiento final que Jesús dio la noche antes de morir fue «Amaos los unos a los otros **como yo os he amado**» <a id="a132_303"></a>[[LU 180:6.1](/es/The_Urantia_Book/180#p6_1), negrita añadida]. Decidámonos a entender y experimentar a nuestros hermanos como hijos amados de Dios, sin tener en cuenta su comportamiento.
+No hacemos mejores a los demás diciéndoles lo malos que son, y eso es especialmente cierto para nuestros hijos. Cuando adquirimos visión espiritual amamos a los demás con un amor paternal, como Dios los ama. El mandamiento final que Jesús dio la noche antes de morir fue «Amaos los unos a los otros **como yo os he amado**» <a id="a133_324"></a>[[LU 180:6.1](/es/The_Urantia_Book/180#p6_1), negrita añadida]. Decidámonos a entender y experimentar a nuestros hermanos como hijos amados de Dios, sin tener en cuenta su comportamiento.
 
 Las cuatro siguientes bienaventuranzas señalan las reacciones de un amor paternal, un amor como el de Jesús, hacia los demás.
 
@@ -179,7 +179,7 @@ Podría expresarse como: Bienaventurados los leales a la verdad, la belleza y la
 
 El evangelio de Jesús no es para cobardes. Él nos dice:
 
-> _Amad a vuestros enemigos, haced el bien a los que os odian, bendecid a los que os maldicen, y orad por los que os utilizan con malicia. Haced por los hombres todo lo que creéis que yo haría por ellos_ <a id="a180_197"></a>[[LU 140:3.15](/es/The_Urantia_Book/140#p3_15)].
+> _Amad a vuestros enemigos, haced el bien a los que os odian, bendecid a los que os maldicen, y orad por los que os utilizan con malicia. Haced por los hombres todo lo que creéis que yo haría por ellos_ <a id="a181_204"></a>[[LU 140:3.15](/es/The_Urantia_Book/140#p3_15)].
 
 Cuando alguien nos insulta o cuenta chismes a nuestra espalda y nos causa un grave daño profesional o en nuestras relaciones, se supone que debemos responder con amor y perdón. Ese tipo de respuesta al abuso verbal o físico de los demás es difícil de practicar, ya sea individualmente o en un grupo social. Se necesita valor espiritual y conciencia mental para elegir una respuesta inteligente con amor frente al abuso verbal, y práctica diaria. Cuando alguien nos grita blasfemias mientras conduce, nuestra pareja nos grita en casa, o el jefe nos denigra en el trabajo, es muy difícil incluso recordar que somos hijos de Dios, y mucho menos que el Padre ama también a la persona que nos grita.
 
@@ -210,7 +210,7 @@ Decidamos practicar estas actitudes y preparar nuestra mente mediante la oració
 
 Nuestro Padre nos pide que vayamos por la vida «haciendo el bien». A medida que las pequeñas expresiones de su amor fluyen a través de nosotros hacia los demás, somos más conscientes del amor que existe dentro de nosotros. A diferencia de las cosas físicas, los intangibles del amor, la comprensión, la bondad, el coraje, la lealtad y la confianza solo aumentan si se regalan. Para saber que tenemos amor hemos de regalarlo.
 
-> _«… por la vida que viviréis… los hombres sabrán que habéis estado conmigo y que habéis aprendido las realidades del reino»._” <a id="a211_117"></a>[[LU 140:1.7](/es/The_Urantia_Book/140#p1_7)]
+> _«… por la vida que viviréis… los hombres sabrán que habéis estado conmigo y que habéis aprendido las realidades del reino»._ <a id="a212_128"></a>[[LU 140:1.7](/es/The_Urantia_Book/140#p1_7)]
 
 Con los desafíos que trae el siglo XXI estas pautas para la vida están aquí para que las recordemos mientras nos dedicamos a nuestra vida diaria.
 

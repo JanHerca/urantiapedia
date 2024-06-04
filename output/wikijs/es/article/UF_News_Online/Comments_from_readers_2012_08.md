@@ -49,7 +49,7 @@ Más adelante, me interesé en leer acerca de otras religiones y libros new-age.
 
 Unos meses después, le dije a un amigo que quería conocer verdaderamente a Dios. Abandoné los miedos relacionados con mis experiencias religiosas anteriores, me abrí y dejé que Dios entrara en mí. Entonces, mi amigo me presentó _El libro de Urantia_. Lo leí por mi cuenta y acerca de los grupos de estudio. Quería conocer a otros lectores y compartir con ellos lo que estaba experimentando. Le pregunté a mi amigo si sabía de algún grupo en nuestra zona, y él sugirió que creáramos uno.
 
-Recuerdo leer el Documento 1, “El Padre Universal”, y me resonaron muy claramente las palabras que describen el propósito de Dios, su bondad y su plan para que cada persona logre la perfección.
+Recuerdo leer el Documento 1, «El Padre Universal», y me resonaron muy claramente las palabras que describen el propósito de Dios, su bondad y su plan para que cada persona logre la perfección.
 
 El siguiente párrafo del Documento 1 alberga un profundo significado para mí:
 

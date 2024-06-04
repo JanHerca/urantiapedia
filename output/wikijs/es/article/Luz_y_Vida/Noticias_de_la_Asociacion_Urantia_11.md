@@ -65,7 +65,7 @@ Para más información sobre el hotel, podéis visitar la página http://www.int
 
 La recepción de asistentes se efectuará el viernes 11 de mayo a partir de las 4:30 de la tarde, y nos despediremos el domingo 13 de mayo después del desayuno.
 
-En esta ocasión, realizaremos un seminario de título "Todos somos líderes - el liderazgo en acción”. El primer día se darán tres charlas sobre el tema, y el segundo día se dedicará a realizar un taller en grupo.
+En esta ocasión, realizaremos un seminario de título «Todos somos líderes - el liderazgo en acción». El primer día se darán tres charlas sobre el tema, y el segundo día se dedicará a realizar un taller en grupo.
 
 **El precio total por persona es de 100€** en alojamiento compartido. Hay habitaciones para dos, tres y cuatro personas. Este precio incluye dos noches de alojamiento (la del viernes 11 y la del sábado 12), y las comidas desde la cena del viernes hasta el desayuno del domingo.
 

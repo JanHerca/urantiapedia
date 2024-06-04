@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Jesus-Metaverse-Image-e1662960911349.jpg">
 </figure>
 
-> _¡Qué servicio tan trascendente prestaría esta revelación si a través de ella el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional y presentado como el Jesús vivo a la Iglesia que lleva su nombre y a todas las demás religiones!!_ <a id="a42_234"></a>[[LU 196:1.2](/es/The_Urantia_Book/196#p1_2)]
+> _¡Qué servicio tan trascendente prestaría esta revelación si a través de ella el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional y presentado como el Jesús vivo a la Iglesia que lleva su nombre y a todas las demás religiones!!_ <a id="a43_253"></a>[[LU 196:1.2](/es/The_Urantia_Book/196#p1_2)]
 
 ## Sobre el Metaverso de Jesús y el Centro para la Unidad
 
@@ -96,7 +96,7 @@ Si se sienten llamados a servir con nosotros, completen esta [encuesta](https://
 
 Si no están seguros de que esto sea para ustedes y les gustaría hablar con nosotros para descubrirlo, contacten con Gabriel en [gabriel.rymberg@thecenterforunity.org](mailto:gabriel.rymberg@thecenterforunity.org) y hágannos saber lo que sienten.
 
-> _Bastaría con que la Iglesia cristiana se atreviera a adherirse al programa del Maestro para que miles de jóvenes aparentemente indiferentes corrieran a alistarse en esa empresa espiritual y no dudaran en recorrer esa gran aventura hasta el final._ <a id="a97_263"></a>[[LU 195:10.10](/es/The_Urantia_Book/195#p10_10)]
+> _Bastaría con que la Iglesia cristiana se atreviera a adherirse al programa del Maestro para que miles de jóvenes aparentemente indiferentes corrieran a alistarse en esa empresa espiritual y no dudaran en recorrer esa gran aventura hasta el final._ <a id="a98_251"></a>[[LU 195:10.10](/es/The_Urantia_Book/195#p10_10)]
 
 ## Referencias
 

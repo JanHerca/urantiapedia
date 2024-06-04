@@ -46,7 +46,7 @@ Hay muchas cosas que me gustaría escribir y compartir con ustedes que son impor
 Durante muchos años, décadas, siglos y milenios han florecido en todo el mundo grupos de estudio de todo tipo, y seguirán floreciendo aún más a medida que nuestra libertad y nuestra búsqueda de la verdad se vean desafiadas por la política, por la represión y el fanatismo religiosos o por el auge de una sociedad materialista. Mora en el interior de nuestra mente una presencia divina de espíritu que siempre mostrará el camino a los que lo buscan.
 <br style="clear:both;"/>
 
-> _… en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino»_ <a id="a47_139"></a>[[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)]
+> _… en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino»_ <a id="a48_162"></a>[[LU 34:7.8](/es/The_Urantia_Book/34#p7_8)]
 
 Nunca dejará de asombrarme cuánto ha mejorado la experiencia de estar en un grupo de estudio mi percepción de los valores divinos en los demás, cuánto ha marcado la diferencia en mi vida diaria y cuánto ha influido en mi manera de vivir y de reaccionar a las situaciones a veces desconcertantes y preocupantes de la vida en nuestro mundo. Esta experiencia ha apoyado y mantenido mis esfuerzos en ocasiones vacilantes por vivir a la altura de mi fe en momentos de crisis y adversidad.
 

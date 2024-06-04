@@ -56,7 +56,7 @@ Supongo que todos los estudiantes de _El Libro de Urantia_ hacen interpretacione
 
 Fue escrito para apelar a la humanidad, las civilizaciones y las culturas, en otras palabras, todos los urantianos. Yo diría que esto no es un punto discutible. Hay quienes se refieren únicamente a los lectores del libro como «_urantianos_». Yo creo que esto es un error. El término, «_Urantiano,_» ciertamente se aplica a todos los mortales nacidos en este mundo. Este es el significado que le doy a «_Urantiano». Creo que este error refleja una tendencia desafortunada a aproximarse al «síndrome del pueblo elegido». Tal mentalidad asigna un valor y una importancia especiales a un grupo. Este tipo de pensamiento puede tener una atracción más amplia que la designación anterior. Abordaré ese problema más adelante en este ensayo.
 
-La idea del «_Regalo de la Revelación_» como de naturaleza planetaria se apoya en otros lugares del libro. Uno de ellos es la lista de religiones compuestas. «_En Urantia, la religión evolutiva y la religión revelada progresan una al lado de la otra, mezclándose y fundiéndose en los diversos sistemas teológicos que se encontraban en el mundo en la época de la redacción de estos documentos. Estas religiones, las del siglo veinte de Urantia, se pueden enumerar como sigue:_»
+La idea del «_Regalo de la Revelación_» como de naturaleza planetaria se apoya en otros lugares del libro. Uno de ellos es la lista de religiones compuestas. «_En Urantia, la religión evolutiva y la religión revelada progresan una al lado de la otra, mezclándose y fundiéndose en los diversos sistemas teológicos que se encontraban en el mundo en la época de la redacción de estos documentos. Estas religiones, las del siglo veinte de Urantia, se pueden enumerar como sigue:_
 
 > 1. Hinduismo—la más antiguo.
 >
@@ -78,7 +78,7 @@ La idea del «_Regalo de la Revelación_» como de naturaleza planetaria se apoy
 >
 > 10. El islam.
 >
-> 11. El sijismo—la más reciente._” <a id="a80_36"></a>[LU 92:6.2-13](/es/The_Urantia_Book/92#p6_2)
+> 11. El sijismo—la más reciente._» <a id="a80_36"></a>[LU 92:6.2-13](/es/The_Urantia_Book/92#p6_2)
 
 Me parece que Melquisedec, autor de este artículo, está expresando la relevancia espiritual de todas las religiones en la civilización evolutiva progresiva de Urantia. Creo que el gobierno celestial de Urantia quiere que todas las creencias religiosas sinceras se eleven a través de presentaciones reveladoras dirigidas por los espíritus divinos. Esta lista de religiones compuestas me recuerda las religiones compiladas por Ganid y Jesús. <a id="a82_440"></a>[LU 131:0.1](/es/The_Urantia_Book/131#p0_1) Lo que me impresionó de su trabajo fue el valor espiritual supremo que otorgaron a las diversas religiones, incluida «_Nuestra religión_», postuló Ganid a partir de la tutoría de Jesús. La religión comparada refuerza la visión a largo plazo, que a su vez nos permite mantener la vista en la pelota, para emplear una metáfora del béisbol. El mensaje revelador muestra respeto por las tradiciones espirituales de sabiduría en todo el mundo, mientras apunta a iluminar la composición de la religión evolutiva, ayudando a hacer crecer la conciencia mortal de la verdad.
 

@@ -53,7 +53,7 @@ Carolyn dedicó su vida a la Revelación Urantia. Sirvió en el Consejo General 
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_12/047.jpg">
-<figcaption><em>1968: Jacques Dupont, Martin Myers, Carolyn Kendall, Tom Kendall, Alain Le Corvec Emma “Christy” Christensen</em></figcaption>
+<figcaption><em>1968: Jacques Dupont, Martin Myers, Carolyn Kendall, Tom Kendall, Alain Le Corvec Emma «Christy» Christensen</em></figcaption>
 </figure>
 
 A medida que se expandieron las actividades internacionales y las responsabilidades que rodean a la revelación, los fideicomisarios de la Fundación Urantia tomaron la decisión histórica de ampliar su fondo de sabiduría invitando a varias personas a servir como fideicomisarios asociados. Carolyn fue una de las tres primeras asociadas que se unió a la junta en 2003, junto con Nancy Shaffer y Kathleen Swadling. Su perspectiva histórica, sus sabios consejos y sus años de experiencia contribuyeron de manera significativa a las reuniones de la junta y ayudaron a promover la difusión de la revelación en el mundo.

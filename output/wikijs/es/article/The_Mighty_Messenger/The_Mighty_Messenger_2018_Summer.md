@@ -91,7 +91,7 @@ También regístrese para el Retiro espiritual (*), del 17 al 19 de julio de 201
 
 ### Culto
 
-El tema de adoración para SSS'18 es La relación de adoración y servicio. «La adoración es la técnica de buscar en el Uno la inspiración del servicio a los muchos» ([LU 143:7.6](/es/The_Urantia_Book/143#p7_6)). El Comité de Adoración ha planificado varios eventos para crear una ocasión «invadida por una atmósfera de comunión». Puede asistir a la meditación contemplativa tranquila en la Capilla de África antes del desayuno y la cena todos los días; reunirnos para contemplar juntos a nuestro Padre celestial antes de las sesiones plenarias. El domingo nos reuniremos y compartiremos una mañana especial de adoración con actividades relacionadas.
+El tema de adoración para SSS'18 es La relación de adoración y servicio. «La adoración es la técnica de buscar en el Uno la inspiración del servicio a los muchos» (<a id="a93_164"></a>[LU 143:7.6](/es/The_Urantia_Book/143#p7_6)). El Comité de Adoración ha planificado varios eventos para crear una ocasión «invadida por una atmósfera de comunión». Puede asistir a la meditación contemplativa tranquila en la Capilla de África antes del desayuno y la cena todos los días; reunirnos para contemplar juntos a nuestro Padre celestial antes de las sesiones plenarias. El domingo nos reuniremos y compartiremos una mañana especial de adoración con actividades relacionadas.
 
 ### Es una Gala Universo Amiga
 
@@ -110,7 +110,7 @@ Una vez más se presentará una «Introducción a _El Libro de Urantia_». Está
 
 ### Panel informativo
 
-El comité de planificación está organizando un panel de taller diseñado para ponernos al día con algunos de los muchos proyectos en los que están involucrados nuestros compañeros lectores. Esto incluye una introducción a nuestro nuevo y pronto lanzamiento «Directorio de grupos de estudio de El Libro de Urantia». ” Este nuevo sitio web ha sido un proyecto compartido de la Fundación, Fellowship y UAI. Los asistentes también tendrán la oportunidad de conocer el trabajo que se está realizando en relación con el «Centro Internacional de Estudios Urantia». Si desea agregar a este panel con respecto a un proyecto que es valioso para nuestra comunidad, comuníquese con David Kulieke.
+El comité de planificación está organizando un panel de taller diseñado para ponernos al día con algunos de los muchos proyectos en los que están involucrados nuestros compañeros lectores. Esto incluye una introducción a nuestro nuevo y pronto lanzamiento «Directorio de grupos de estudio de «El Libro de Urantia». Este nuevo sitio web ha sido un proyecto compartido de la Fundación, Fellowship y UAI. Los asistentes también tendrán la oportunidad de conocer el trabajo que se está realizando en relación con el «Centro Internacional de Estudios Urantia». Si desea agregar a este panel con respecto a un proyecto que es valioso para nuestra comunidad, comuníquese con David Kulieke.
 
 ### Cónclave del Grupo de Estudio
 

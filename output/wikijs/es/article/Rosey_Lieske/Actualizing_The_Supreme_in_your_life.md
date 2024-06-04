@@ -60,7 +60,7 @@ Pasadas las hipótesis y la razón, uno simplemente se topa con la naturaleza de
 
 Encontramos esta afirmación en el Documento 115.
 
-> «_Los reinos de lo finito existen en virtud del propósito eterno de Dios. Las criaturas finitas, superiores e inferiores, pueden proponer teorías, y así lo han hecho, sobre la necesidad de lo finito en la economía cósmica, pero a fin de cuentas lo finito existe porque Dios lo ha querido así._» ([LU 115:1.4](/es/The_Urantia_Book/115#p1_4))
+> «_Los reinos de lo finito existen en virtud del propósito eterno de Dios. Las criaturas finitas, superiores e inferiores, pueden proponer teorías, y así lo han hecho, sobre la necesidad de lo finito en la economía cósmica, pero a fin de cuentas lo finito existe porque Dios lo ha querido así._» (<a id="a62_298"></a>[LU 115:1.4](/es/The_Urantia_Book/115#p1_4))
 
 Por supuesto, cuando Dios quiere y actúa, ocurren reacciones tremendas y plenas en la formación y cambio de la realidad. En el curso del estudio nos damos cuenta de las relaciones espíritu/no espíritu – como ocurre con el Padre Espíritu «Yo soy» y el Paraíso «el punto de apoyo material del infinito» – relaciones eternidad/no eternidad, que se convierten en realidad existencial/experiencial; y leemos sobre realidades personales/no personales. Dentro de Dios, y como resultado de su voluntad, ocurren estas separaciones funcionales y plenas; separaciones que al principio parecen tan simples y, al pensarlas, revelan una belleza infinita de propósito que refleja la naturaleza de Dios.
 
@@ -86,7 +86,7 @@ Esta realidad de la experiencia, organizada, sintetizada y unificada en el Supre
 
 Estas relaciones se resumen bellamente:
 
-> «_El Supremo es simétricamente inclusivo. La Fuente-Centro Primera es potencial en los tres grandes Absolutos, y está manifestada en el Paraíso, en el Hijo y en el Espíritu; pero el Supremo es a la vez manifestado y potencial, es un ser con una supremacía personal y un poder todopoderoso, sensible por igual al esfuerzo de la criatura y al propósito del Creador; actúa por sí mismo sobre el universo y reacciona en sí mismo a la suma total del universo; es al mismo tiempo el creador supremo y la criatura suprema. La Deidad de Supremacía expresa así la suma total de todo lo finito._» ([LU 117:1.9](/es/The_Urantia_Book/117#p1_9))
+> «_El Supremo es simétricamente inclusivo. La Fuente-Centro Primera es potencial en los tres grandes Absolutos, y está manifestada en el Paraíso, en el Hijo y en el Espíritu; pero el Supremo es a la vez manifestado y potencial, es un ser con una supremacía personal y un poder todopoderoso, sensible por igual al esfuerzo de la criatura y al propósito del Creador; actúa por sí mismo sobre el universo y reacciona en sí mismo a la suma total del universo; es al mismo tiempo el creador supremo y la criatura suprema. La Deidad de Supremacía expresa así la suma total de todo lo finito._» (<a id="a88_590"></a>[LU 117:1.9](/es/The_Urantia_Book/117#p1_9))
 
 El Supremo está en la tarea de sintetizar y movilizar todo este esfuerzo y propósito, esforzándose por su propia realización y ganando soberanía paso a paso. Él actúa inmediatamente en nuestras vidas como el unificador de nuestra experiencia en Dios Séptuplo. Él es la profundidad misma de la deidad que jamás entenderemos. Podemos alcanzar al Padre, pero comprenderemos al Supremo. Y él es, en última instancia, nuestro único acercamiento a aquellos procesos y mentalidades que trascienden el tiempo y el espacio y a aquellos que son perfectos y/o eternos por naturaleza. Cuando damos un paso atrás y somos testigos de nuestros procesos innatos de pensamiento (correlacionando, clasificando y unificando constantemente nuestra experiencia) es fácil ver que las funciones de la Supremacía en nuestras vidas son tan elementales que casi pasan desapercibidas. Como el agua para los peces: una reacción confiable que es tan cósmicamente solidaria y abarcadora como la luz del sol y el aire.
 
@@ -98,7 +98,7 @@ Pero, ¿cómo estimulamos las mayores capacidades en nosotros mismos para el rec
 
 Teniendo en cuenta la singularidad de la capacidad individual y las construcciones de las circunstancias que nos dicen a cada uno: «Éste es el camino», las variables de tal punto de vista funcional son ideas que conducen a acciones basadas en la fe, el amor y el servicio, valores espirituales supremos que reflejan de la voluntad de Dios.
 
-> «_Las llaves del reino de los cielos son la sinceridad, más sinceridad y aún más sinceridad. Todos los hombres poseen estas llaves. Los hombres las utilizan —elevan su estado espiritual— mediante sus decisiones, más decisiones y aún más decisiones. La elección moral más elevada consiste en elegir el valor más elevado posible, y ésta siempre consiste —en cualquier esfera, y en todas ellas— en elegir hacer la voluntad de Dios._» ([LU 39:4.14](/es/The_Urantia_Book/39#p4_14))
+> «_Las llaves del reino de los cielos son la sinceridad, más sinceridad y aún más sinceridad. Todos los hombres poseen estas llaves. Los hombres las utilizan —elevan su estado espiritual— mediante sus decisiones, más decisiones y aún más decisiones. La elección moral más elevada consiste en elegir el valor más elevado posible, y ésta siempre consiste —en cualquier esfera, y en todas ellas— en elegir hacer la voluntad de Dios._» (<a id="a100_434"></a>[LU 39:4.14](/es/The_Urantia_Book/39#p4_14))
 
 Nuestra tarea es perfeccionar nuestra intención dentro del movimiento del Supremo. Crear un alineamiento de la voluntad mediante decisiones basadas en el deseo de alineamiento. La realización experiencial de la voluntad de Dios en nuestras vidas se basa en la toma de decisiones y todo esto tiene mayor significado cuando consideramos nuestro lugar en el Supremo.
 
@@ -114,7 +114,7 @@ Entonces, nuestra relación más importante es con el fragmento divino, y nuestr
 
 Como Hijos de la Fe, nuestras reacciones de fe hacia el fragmento del Padre determinan el contenido de nuestra experiencia de supervivencia y la profundidad de la traducción de nuestra alma en el nivel morontial intermedio.
 
-La fe existe en muchos niveles. «Pocas personas viven a la altura de la fe que realmente tienen» ([LU 48:7.4](/es/The_Urantia_Book/48#p7_4)), y la fe, siendo nuestra conexión de supervivencia, debe funcionar en los niveles elementales de la Supremacía misma.
+La fe existe en muchos niveles. «Pocas personas viven a la altura de la fe que realmente tienen» (<a id="a116_98"></a>[LU 48:7.4](/es/The_Urantia_Book/48#p7_4)), y la fe, siendo nuestra conexión de supervivencia, debe funcionar en los niveles elementales de la Supremacía misma.
 
 La fe es una decisión humana y un don divino, accesible y reconocible. La influencia del Hijo Eterno en la Actualidad es una influencia de gravedad espiritual, que atrae toda fe y todo deseo de fe a la luz de la Actualidad. La fe no puede permanecer en la mente; viaja directamente al corazón de toda realidad, afectando el desarrollo de nuestra alma y la soberanía del Supremo. Es el combustible humano para el potencial de Dios, simulando la presencia de Dios en cada nivel de nuestro ser.
 
@@ -126,7 +126,7 @@ Como embriones espirituales simplemente no podemos esperar ser inmediatamente co
 
 Los pensamientos y las experiencias eventualmente constituyen un compendio de valor espiritual: la sustancia con la cual el Ajustador teje los hilos vivos de nuestras almas presentes y futuras.
 
-> «_El espíritu divino no se pone en contacto con el hombre mortal por medio de los sentimientos o las emociones, sino en el ámbito de los pensamientos más elevados y más espiritualizados. Son vuestros *pensamientos*, y no vuestros sentimientos, los que os conducen hacia Dios._» ([LU 101:1.3](/es/The_Urantia_Book/101#p1_3))
+> «_El espíritu divino no se pone en contacto con el hombre mortal por medio de los sentimientos o las emociones, sino en el ámbito de los pensamientos más elevados y más espiritualizados. Son vuestros *pensamientos*, y no vuestros sentimientos, los que os conducen hacia Dios._» (<a id="a128_281"></a>[LU 101:1.3](/es/The_Urantia_Book/101#p1_3))
 
 Dicen que es a través del pensamiento que nos involucramos en la creación de nuestro destino. Los pensamientos forjan un camino desde la materia al espíritu, desde lo potencial a lo real. Los pensamientos se desarrollan, colorean y cambian el mundo y el alma. El único reino al que tenemos acceso claro en nuestro estado embrionario es la mente.
 
@@ -150,7 +150,7 @@ La fe se convierte en la técnica de comprometer lo infinito en las luchas de lo
 
 Ahora veamos su relación con el Supremo en la Triodidad de la Actualidad. Encontramos eso:
 
-> «_La belleza universal es el reconocimiento del reflejo de la Isla del Paraíso en la creación material, mientras que la verdad eterna es el ministerio especial de los Hijos Paradisíacos que no sólo se donan a las razas mortales, sino que incluso derraman su Espíritu de la Verdad sobre todos los pueblos. La bondad divina se manifiesta más plenamente en el ministerio amoroso de las múltiples personalidades del Espíritu Infinito. Pero el amor, la suma total de estas tres cualidades, es la percepción que el hombre tiene de Dios como su Padre espiritual._» ([LU 56:10.17](/es/The_Urantia_Book/56#p10_17))
+> «_La belleza universal es el reconocimiento del reflejo de la Isla del Paraíso en la creación material, mientras que la verdad eterna es el ministerio especial de los Hijos Paradisíacos que no sólo se donan a las razas mortales, sino que incluso derraman su Espíritu de la Verdad sobre todos los pueblos. La bondad divina se manifiesta más plenamente en el ministerio amoroso de las múltiples personalidades del Espíritu Infinito. Pero el amor, la suma total de estas tres cualidades, es la percepción que el hombre tiene de Dios como su Padre espiritual._» (<a id="a152_561"></a>[LU 56:10.17](/es/The_Urantia_Book/56#p10_17))
 
 Luego volvemos al hombre: reconocer a Dios como amor, movilizar el potencial de Dios a través de la fe y manifestarlo a través del servicio.
 

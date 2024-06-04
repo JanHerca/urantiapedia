@@ -52,7 +52,7 @@ Mi madre murió cuando yo tenía siete años, lo que creo que desencadenó mi b�
 
 > «Soy de los que creen que este es un proyecto de largo plazo y que estamos en la etapa preparatoria».
 
-> “Es una obra maestra literaria tan grande que cuando comencé a leerla descubrí que no me importaba quién la escribiera ni de dónde venía. ¡Fue simplemente emocionante leerlo!
+> «Es una obra maestra literaria tan grande que cuando comencé a leerla descubrí que no me importaba quién la escribiera ni de dónde venía. ¡Fue simplemente emocionante leerlo!
 
 ## ¿Cuándo y cómo encontraste _El Libro de Urantia_?
 

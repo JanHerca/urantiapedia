@@ -221,7 +221,7 @@ Gracias al Urantia Sharing Project ya la valiosa colaboración de la Fellowship 
 
 Cada vez que tenemos más y más gente interesada en participar con nosotros, encontramos gente que había estado buscando _El Libro de Urantia_ y que no había podido adquirirlo, y que ahora puede acceder a él de forma gratuita.
 
-Pedimos al Padre que nos siga guiando en esta hermosa obra de ser sus instrumentos para que la revelación llegue a todos los que buscan a Dios”. Para hacer una donación, haga clic aquí: http://www.urantiabook.org/urantia-book-store/contributions/pipeline-oflight-one-time-contribution
+Pedimos al Padre que nos siga guiando en esta hermosa obra de ser sus instrumentos para que la revelación llegue a todos los que buscan a Dios. Para hacer una donación, haga clic aquí: http://www.urantiabook.org/urantia-book-store/contributions/pipeline-oflight-one-time-contribution
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005919.jpg">

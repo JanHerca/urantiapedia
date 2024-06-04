@@ -61,7 +61,7 @@ _Estoy enormemente agradecido de poder disfrutar de la quinta revelación de ép
 
 _En Su amor, James H._»
 
-> El conocimiento solo se posee si se comparte; la sabiduría lo salvaguarda y el amor lo socializa. (<a id="a64_95"></a>[LU 48:7.28](/es/The_Urantia_Book/48#p7_28))
+> El conocimiento solo se posee si se comparte; la sabiduría lo salvaguarda y el amor lo socializa. (<a id="a63_101"></a>[LU 48:7.28](/es/The_Urantia_Book/48#p7_28))
 
 Le envié el curso de George Michelson-Dupont de la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés), y en la siguiente carta dirigida a mí, Jim escribió:
 
@@ -92,7 +92,7 @@ Jim mencionó haber estudiado muchas escrituras, incluyendo la Biblia como punto
 
 Las reglas del PIRT requieren el uso de un alias. Por supuesto, nunca soñé cuando elegí mi alias que alguno de los reclusos estudiaría el libro tan a fondo o que alguna vez me escribiría lo suficiente como para captar el significado del alias que elegí para mi nombre después de Eventod, pero esto solo explica aún más lo especial y entregado a la revelación que es Jim; en una posdata escribió:
 
-«_Cuando vi su nombre por primera vez, me sonó familiar. Hace poco descubrí por qué. Ya lo había leído varias veces. ¿Es usted tocayo del quinto otorgamiento de nuestro ahora Soberano Miguel?_» <a id="a95_191"></a>[LU 119:5.2](/es/The_Urantia_Book/119#p5_2)
+«_Cuando vi su nombre por primera vez, me sonó familiar. Hace poco descubrí por qué. Ya lo había leído varias veces. ¿Es usted tocayo del quinto otorgamiento de nuestro ahora Soberano Miguel?_» <a id="a94_194"></a>[LU 119:5.2](/es/The_Urantia_Book/119#p5_2)
 
 Las normas del PIRT me obligaron a bromear sobre el nombre en mi siguiente carta y le expliqué que era la primera persona que había descubierto la conexión del nombre, lo que le valió un premio. Le envié un ejemplar de _Estudio del universo maestro_ de Bill Sadler Jr. y otro curso de la UBIS que yo había impartido, «Los elementos esenciales de una religión personal poderosa».
 

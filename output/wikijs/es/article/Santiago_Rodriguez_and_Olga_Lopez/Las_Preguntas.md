@@ -156,7 +156,7 @@ En este documento se considera primero el crecimiento religioso y espiritual, lo
 
 3. En la sección cuarta, «Las limitaciones de la revelación», los reveladores distinguen el conocimiento incluido en la revelación del que no pertenece a ella. ¿Cómo interpretas estas afirmaciones?
 
-4. A tenor de lo que se dice en la sección quinta, "La religión ampliada por la revelación”, ¿cuáles son las diferencias más destacables entre religión evolutiva y religión revelada?
+4. A tenor de lo que se dice en la sección quinta, «La religión ampliada por la revelación», ¿cuáles son las diferencias más destacables entre religión evolutiva y religión revelada?
 
 5. En la sección séptima, «Una filosofía personal de la religión», se consideran todos los factores que contribuyen a formar nuestra propia filosofía de la religión. ¿Cómo definirías tu filosofía personal de la religión?
 

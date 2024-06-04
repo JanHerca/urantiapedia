@@ -53,7 +53,7 @@ Ni qué decir tiene lo que han significado para el grupo estos dos hermanos y am
 
 Espero que pronto vuelvan a España, aunque sea de visita, y si es a quedarse de nuevo mucho mejor. En cualquier caso, les deseamos una vida llena de Amor y una experiencia enriquecedora. ¡Que Dios les bendiga!
 
-## Celebración de "Fin de Libro” del Grupo de Estudio de Barcelona
+## Celebración de «Fin de Libro» del Grupo de Estudio de Barcelona
 
 De Olga López
 

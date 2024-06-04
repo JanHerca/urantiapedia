@@ -47,7 +47,7 @@ El nivel de Deidad de la Ultimidad proporciona un modelo orientador así como un
 
 ## Dios Último
 
-<a id="a48_0"></a>[[LU 0:2.17](/es/The_Urantia_Book/0#p2_17)]
+<a id="a49_0"></a>[[LU 0:2.17](/es/The_Urantia_Book/0#p2_17)]
 
 - El Dios del supertiempo y del espacio trascendido, que se está existenciando.
 - El segundo nivel experiencial donde se manifiesta la Deidad unificadora.

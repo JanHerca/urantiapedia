@@ -50,11 +50,11 @@ Australia
 
 Urantia está preparada para experimentar una revolución espiritual como no se ha visto nunca antes en este planeta:
 
-> _Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual_. <a id="a50_168"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)]
+> _Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual_. <a id="a52_173"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)]
 
 ¡Hace ahora más de setenta años que una comisión de intermedios declaró ese mensaje a nuestro atribulado mundo! ¿Dónde y cómo encajamos, como lectores y estudiantes de _El libro de Urantia_, en este escenario planetario de reforma social, moral y espiritual? Consideren lo siguiente:
 
-> _La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás._ <a id="a54_92"></a>[[LU 194:3.17](/es/The_Urantia_Book/194#p3_17)]
+> _La religión de Jesús es la influencia unificadora más poderosa que el mundo ha conocido jamás._ <a id="a56_99"></a>[[LU 194:3.17](/es/The_Urantia_Book/194#p3_17)]
 
 ¿Podría ser que esta _religión de Jesús_ sea el detonador que encienda la fuerza impulsora que hay detrás de este renacimiento global? Y si es así, ¿cómo tiene lugar? ¿Quiénes son los jugadores clave? ¿Y cuál es el plan divino para esta renovación espiritual sin precedentes?
 
@@ -62,11 +62,11 @@ Estas preguntas fascinantes y muchas más se van a considerar y a responder en l
 
 #### Nuestro tema
 
-> _Tarde o temprano deberá surgir otro Juan el Bautista más grande, que proclamará que «el reino de Dios está cerca» — que propondrá un retorno al elevado concepto espiritual de Jesús…. Es preciso que se produzca un renacimiento de las verdaderas enseñanzas de Jesús…_<a id="a62_233"></a>[[LU 170:5.19](/es/The_Urantia_Book/170#p5_19)]
+> _Tarde o temprano deberá surgir otro Juan el Bautista más grande, que proclamará que «el reino de Dios está cerca» — que propondrá un retorno al elevado concepto espiritual de Jesús…. Es preciso que se produzca un renacimiento de las verdaderas enseñanzas de Jesús…_<a id="a64_268"></a>[[LU 170:5.19](/es/The_Urantia_Book/170#p5_19)]
 
-> _….los instructores de esta nueva religión ahora están provistos de armas espirituales…_<a id="a64_80"></a>[[LU 194:3.11](/es/The_Urantia_Book/194#p3_11)]
+> _….los instructores de esta nueva religión ahora están provistos de armas espirituales…_<a id="a66_90"></a>[[LU 194:3.11](/es/The_Urantia_Book/194#p3_11)]
 
-> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres._ <a id="a66_421"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> _La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo insiste en olvidar su misión espiritual mientras continúa ocupándose de los problemas sociales y materiales, el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres._ <a id="a68_472"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
 ¿Quiénes son esos «nuevos instructores de la religión de Jesús», que proclamen valientemente al mundo su mensaje dador de vida al mundo? ¿Qué les cualifica para serlo? ¿Cuáles son estas «armas espirituales» con las que están equipados? ¿Cómo desempeñan este papel crítico en nombre de sus semejantes mortales? Estas son preguntas pertinentes que considerar mientras respondemos a la llamada de ser instructores de la religión de Jesús. ¿Estamos dispuestos a dar un paso adelante para realizar la tarea? Si no somos nosotros… ¿entonces quién?
 

@@ -120,7 +120,7 @@ Aunque se aprobó el presupuesto, se han desarrollado cinco importantes proyecto
 
 2. _Aumentar las donaciones y el número de donantes en un 10%._
 
-Las numerosas actividades de recaudación de fondos en 2011 incluyen la recaudación de fondos de primavera/verano, la igualación de fondos de invierno y una nueva campaña de renovación del edificio. Puesto que la Fundación Urantia no gana dinero con la venta de libros, depende de la generosidad de los donantes. Como dijo un lector, “Es toda una bendición apoyar el proyecto espiritual más importante del planeta. Cuando lleguemos a los mundos de las mansiones, miraremos hacia atrás y agradeceremos la asombrosa oportunidad que tuvimos de apoyar la quinta revelación de época”. Muchas gracias por sus aportaciones.
+Las numerosas actividades de recaudación de fondos en 2011 incluyen la recaudación de fondos de primavera/verano, la igualación de fondos de invierno y una nueva campaña de renovación del edificio. Puesto que la Fundación Urantia no gana dinero con la venta de libros, depende de la generosidad de los donantes. Como dijo un lector, «Es toda una bendición apoyar el proyecto espiritual más importante del planeta. Cuando lleguemos a los mundos de las mansiones, miraremos hacia atrás y agradeceremos la asombrosa oportunidad que tuvimos de apoyar la quinta revelación de época». Muchas gracias por sus aportaciones.
 
 3. _Encontrar a personas con recursos que sufraguen la siembra de_ El libro de Urantia _y sus enseñanzas por todo el mundo._
 

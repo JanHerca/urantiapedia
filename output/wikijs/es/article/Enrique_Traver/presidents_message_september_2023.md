@@ -40,7 +40,7 @@ dateCreated: 2023-9-16T10:55:6Z
 </figure>
 <br style="clear:both;"/>
 
-> _La Primera Fuente y Centro. Primera Persona de la Deidad y patrón primario de la no deidad, Dios, el Padre Universal, creador, controlador y sostenedor; amor universal, espíritu eterno y energía infinita; potencial de todos los potenciales y fuente de todos los actuales; estabilidad de todo lo estático y dinamismo de todo cambio; fuente del patrón y Padre de las personas._ <a id="a41_348"></a>[LU 105:3.2](/es/The_Urantia_Book/105#p3_2)
+> _La Primera Fuente y Centro. Primera Persona de la Deidad y patrón primario de la no deidad, Dios, el Padre Universal, creador, controlador y sostenedor; amor universal, espíritu eterno y energía infinita; potencial de todos los potenciales y fuente de todos los actuales; estabilidad de todo lo estático y dinamismo de todo cambio; fuente del patrón y Padre de las personas._ <a id="a42_379"></a>[LU 105:3.2](/es/The_Urantia_Book/105#p3_2)
 
 Cuando nos adentramos en _El libro de Urantia_, no es difícil percibir la colosal y magnífica creación de nuestro Padre celestial. Las cifras son impresionantes, desde la incontable cantidad de planetas, galaxias y mundos habitados hasta la inmensidad de hijos descendentes creados. El aspecto más impactante es darse cuenta de que todo esto fue creado para nosotros con el fin de elevar nuestra conciencia cósmica y nuestra progresión espiritual, una carrera evolutiva de la imperfección a la perfección. Todo y todos están a nuestro servicio, incluido nuestro Padre celestial, el creador, controlador y sustentador de todas las cosas y seres. Nos sirve de innumerables maneras; en algunas comparte todas nuestras experiencias, como con los _Ajustadores del Pensamiento_, buscando siempre guiarnos hacia la perfección. Otras veces, por ejemplo, simplemente proporciona todas las formas de energía que sostienen el universo de universos, sin fin y sin agotarse. A veces no nos damos cuenta de cosas tan simples como ver y tener el sol, la lluvia, el aire y todos los recursos naturales que nos sirven. Todo proviene de la misma fuente..
 
@@ -50,7 +50,7 @@ Nos apoyan, nos iluminan, nos proveen y sirven grandiosamente con amor, pacienci
 
 Incluso nosotros, los mortales, después de alcanzar nuestro destino y propósito, servimos incansablemente:
 
-> _Durante la presente edad del universo los finalitarios vuelven a los universos del tiempo para servir en ellos. Son destinados a trabajar sucesivamente en los diferentes superuniversos, pero nunca en su superuniverso nativo hasta después de haber servido en las otras seis supercreaciones._ <a id="a51_272"></a>[LU 31:0.10](/es/The_Urantia_Book/31#p0_10)
+> _Durante la presente edad del universo los finalitarios vuelven a los universos del tiempo para servir en ellos. Son destinados a trabajar sucesivamente en los diferentes superuniversos, pero nunca en su superuniverso nativo hasta después de haber servido en las otras seis supercreaciones._ <a id="a52_294"></a>[LU 31:0.10](/es/The_Urantia_Book/31#p0_10)
 
 El servicio amoroso y desinteresado al Padre y al reino es el camino para elevar a todos los seres vivos de cualquier orden. No podría ser diferente para nosotros, los mortales. Quienes han encontrado a Dios y anhelan la instauración del reino de Dios entre los hombres desempeñan un papel fundamental en la construcción de este reino, que es precisamente el de servir de enlace, de complemento, y ayudar a sus semejantes a conectar, a encontrar a Dios.
 
@@ -62,7 +62,7 @@ El error es precisamente llevar este desafío a la mente, ahí está el error. D
 
 Nuestra tarea es llevar a todos estos afligidos la fe, la esperanza y el consuelo de un Padre fuerte, amoroso y consolador. Los desafíos materiales, nuestras desgracias, no desaparecerán. Seguirán existiendo. Lo que cambiará es la forma en que los afrontamos, sin perder la esperanza de un futuro eterno mejor, con la comprensión de que las aflicciones son experiencias temporales.
 
-> _«Os exhorto a que recordéis siempre que vuestra misión entre los hombres es proclamar el evangelio del reino: la realidad de la paternidad de Dios y la verdad de la filiación de los hombres. Proclamad toda la verdad de la buena nueva, no solo una parte del evangelio salvador.»_ <a id="a63_261"></a>[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)
+> _«Os exhorto a que recordéis siempre que vuestra misión entre los hombres es proclamar el evangelio del reino: la realidad de la paternidad de Dios y la verdad de la filiación de los hombres. Proclamad toda la verdad de la buena nueva, no solo una parte del evangelio salvador.»_ <a id="a64_282"></a>[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)
 
 No debemos culparnos por todos los problemas que no podemos resolver, pero es una pena cuando nos omitimos a nosotros mismos en aquellos retos que están dentro de nuestra jurisdicción, entre nuestra familia, amigos, en nuestro trabajo, en todas las oportunidades de nuestra vida diaria.
 

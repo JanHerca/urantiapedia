@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Sin perjuicio de que «_la capacidad de comprensión intelectual del hombre queda agotada ante el concepto máximo del Ser Supremo_» ([LU 115:3.4](/es/The_Urantia_Book/115#p3_4)), sé simplemente que estamos relacionados porque ambos tenemos la misma última designación: SER. Aunque yo como ser humano no soy más que una mota de arena y él como Ser Supremo es el Sahara de arena, somos de la misma familia.
+Sin perjuicio de que «_la capacidad de comprensión intelectual del hombre queda agotada ante el concepto máximo del Ser Supremo_» (<a id="a34_131"></a>[LU 115:3.4](/es/The_Urantia_Book/115#p3_4)), sé simplemente que estamos relacionados porque ambos tenemos la misma última designación: SER. Aunque yo como ser humano no soy más que una mota de arena y él como Ser Supremo es el Sahara de arena, somos de la misma familia.
 
 Al intentar visualizar al Dios finito e invisible que todavía tengo que discernir, me imagino la pintura vaticana de Miguel Ángel de un Dios humano, parecido a un padre, extendiéndose para tocar la mano del hombre, su hijo terrenal. Es como si fuéramos las yemas de los dedos del Supremo mientras él se extiende hacia la lejana Urantia de la distante Nebadon en los límites extremos del superuniverso de Orvonton y actualizamos cada vez más nuestros potenciales dados por Dios. Nuestras conciencias materiales pasan a formar parte del sistema nervioso del Ser Supremo.
 

@@ -70,11 +70,11 @@ En su vida exterior, Jesús prestó gran atención al mundo en que vivía y a su
 La revelación de que la _comunión ininterrumpida de_ Jesús le llevó a progresar sin cesar en hacer la voluntad del Padre del cielo es una _llave de oro_ para vivir la vida. Cultivamos nuestras almas compartiendo nuestra vida interior con Dios como hizo Jesús. El Maestro sabía que vivir en presencia de Dios con fe es vivir _presente_ en _la realidad_. Solo nos damos cuenta de que estamos viviendo en la presencia de nuestro Padre si _actuamos como si_ estuviéramos en presencia de Dios.
 <br style="clear:both;"/>
 
-> _Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios…_ <a id="a71_135"></a>[[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)] … e _imitar a Dios es la clave de la perfección …_ <a id="a71_237"></a>[[LU 111:5.2](/es/The_Urantia_Book/111#p5_2)] 
+> _Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios…_ <a id="a72_148"></a>[[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)] … e _imitar a Dios es la clave de la perfección …_ <a id="a72_245"></a>[[LU 111:5.2](/es/The_Urantia_Book/111#p5_2)] 
 
 A diferencia del Maestro, debido a las _relaciones_ con nuestro Padre Divino, _rotas_ muchas veces de manera involuntaria y a veces deliberada, nos deben mostrar lo que nos estamos _perdiendo_ si vivimos temporalmente en el aislamiento espiritual que sigue.
 
-> _… a veces vuestros desengaños más decepcionantes se han convertido en vuestras mayores bendiciones. Cuando se planta una semilla, a veces se necesita que muera, que mueran vuestras esperanzas más apreciadas, antes de que pueda renacer para producir los frutos de una vida nueva y de nuevas oportunidades._ <a id="a75_259"></a>[[LU 48:6.36](/es/The_Urantia_Book/48#p6_36)] 
+> _… a veces vuestros desengaños más decepcionantes se han convertido en vuestras mayores bendiciones. Cuando se planta una semilla, a veces se necesita que muera, que mueran vuestras esperanzas más apreciadas, antes de que pueda renacer para producir los frutos de una vida nueva y de nuevas oportunidades._ <a id="a76_309"></a>[[LU 48:6.36](/es/The_Urantia_Book/48#p6_36)] 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Journal/Happiness-300x200.jpg">
@@ -89,15 +89,15 @@ Josué ben José pasó por sus numerosas pruebas en presencia de Dios. Su _moral
 ¿Podemos tomar el enfoque de Jesús en la enseñanza y la predicación y aplicarlo a nuestras circunstancias actuales? Nos dicen que:
 <br style="clear:both;"/>
 
-> _… en el momento de su nacimiento, Urantia estaba pasando por una reactivación del pensamiento espiritual y de la vida religiosa como no se había conocido en toda su historia anterior desde Adán, ni se ha repetido en ninguna época posterior._ <a id="a90_212"></a>[[LU 121:1.1](/es/The_Urantia_Book/121#p1_1)] 
+> _… en el momento de su nacimiento, Urantia estaba pasando por una reactivación del pensamiento espiritual y de la vida religiosa como no se había conocido en toda su historia anterior desde Adán, ni se ha repetido en ninguna época posterior._ <a id="a91_245"></a>[[LU 121:1.1](/es/The_Urantia_Book/121#p1_1)] 
 
 En nuestro mundo, pocos recibirán el mensaje del evangelio de Jesús de cualquier manera directa. Cómo _atraer a_ la gente a la verdad viva es _el_ problema que cada cultura debe resolver, pues es diferente en cada sociedad. Lo que funciona en una no tiene por qué funcionar en otra. Si nuestro mundo va a…
 
-> _…ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres._ <a id="a94_124"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+> _…ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres._ <a id="a95_159"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 entonces mujeres y hombres deben estar decididos a experimentar la condición humana como él lo hizo.
 
-> _Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad._ <a id="a98_541"></a>[[LU 155:1.5](/es/The_Urantia_Book/155#p1_5)]
+> _Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad._ <a id="a99_594"></a>[[LU 155:1.5](/es/The_Urantia_Book/155#p1_5)]
 
 Sean cuales sean los pasos que des para alcanzar todo su potencial de servicio humano, el siguiente paso está delante de ti. ¿No nos los están mostrando continuamente, si tuviéramos ojos para ver? ¿No podríamos ser los únicos que marquen la diferencia necesaria en nuestra pequeña parte de este desordenado mundo? Si no eres tú, ¿_quién_?
 
@@ -118,7 +118,7 @@ Los que nos guiarían de manera paciente y personal son escasos en comparación 
 
 Yuxtapuesto a nuestra revelación: 
 
-> _La dulzura es el aroma de la amistad que emana de un alma saturada de amor._ <a id="a119_91"></a>[[LU 171:7.1](/es/The_Urantia_Book/171#p7_1)]
+> _La dulzura es el aroma de la amistad que emana de un alma saturada de amor._ <a id="a120_80"></a>[[LU 171:7.1](/es/The_Urantia_Book/171#p7_1)]
 
 Nuestro amor por Dios y el deseo compasivo de servir y enseñar a nuestros hermanos y hermanas se sumergirán en las profundidades de nuestra creatividad única, dada por Dios. El estimulante desafío de tratar de entender y amar a nuestros compañeros es un impulso al servicio magistral de la humanidad. Empieza agarrando la mano fuerte y cariñosa de nuestro Padre y dando un paso más hacia lo siguiente que hay que hacer. ¿Quién sabe a dónde llevará? 
 

@@ -57,7 +57,7 @@ Nunca desde ese breve tiempo ha habido otra intervención de esta naturaleza, ni
 
 Así que ten la seguridad de que no necesitas luchar contra el «mal» para siempre, ya que no existe más que en la mente del hombre.
 
-Cuando cese su nebulosa lucha contra una fuerza fantasma, ya no verá el mal establecido a su alrededor en sus semejantes y por fin podrá relajar la guardia y abrazar abiertamente a sus hermanos y hermanas de todas las razas, de todas las edades, como si fueran " UNO” contigo mismo.
+Cuando cese su nebulosa lucha contra una fuerza fantasma, ya no verá el mal establecido a su alrededor en sus semejantes y por fin podrá relajar la guardia y abrazar abiertamente a sus hermanos y hermanas de todas las razas, de todas las edades, como si fueran «UNO» contigo mismo.
 
 Esta nueva Unidad conducirá rápidamente a la Paz eterna proclamada tan a menudo de labios para afuera hasta ahora (sin duda), pero ahora puede adquirir un nuevo significado.
 

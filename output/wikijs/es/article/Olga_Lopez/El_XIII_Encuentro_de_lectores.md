@@ -82,7 +82,7 @@ El domingo 25 por la mañana, como en el Encuentro del año pasado, se hizo una 
 - Si algunos hemos tenido ciertas experiencias digamos paranormales, si de veras las hemos experimentado, sentido y vivido completamente y estamos seguros de ellas, ¿cómo interpretarlas a tenor de las enseñanzas de _El Libro de Urantia_, puesto que prácticamente descarta la mayoría de ellas?
 - ¿Creéis que el hecho de que se nos haya donado la quinta revelación en forma de libro (en vez de en la figura de una personalidad) responde a una manera de estirar lo máximo posible esa cualidad urantiana llamada «fe agondontera»?
 - ¿Hay en algún lugar del libro alguna autocrítica sobre la rebelión de Lucifer? ¿Nadie se hace responsable de haber colocado a este ser donde se colocó?
-- ¿Cómo ser un buen ejemplo de vida para los demás? ¿Cómo crecer lo suficiente espiritualmente para ser un polo de atracción para nuestros semejantes? ¿Cómo "derramar nuestra luz”?
+- ¿Cómo ser un buen ejemplo de vida para los demás? ¿Cómo crecer lo suficiente espiritualmente para ser un polo de atracción para nuestros semejantes? ¿Cómo «derramar nuestra luz»?
 - ¿Cómo superar las diferencias científicas que mantienen _El Libro de Urantia_ y la ciencia? ¿Es un punto en contra?
 - ¿Cómo se deberían enfocar, visto desde la perspectiva de Jesús, problemas tales como el aborto, el suicidio, la homosexualidad, el racismo, la reencarnación, las posesiones, las curaciones milagrosas, las civilizaciones antiguas (como, por ejemplo, la Atlántida), la explotación, la destrucción del medio ambiente, la relación personal con Dios, etc.?
 

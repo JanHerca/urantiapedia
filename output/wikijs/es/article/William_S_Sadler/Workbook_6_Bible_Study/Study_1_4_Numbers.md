@@ -120,7 +120,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 10. **Penalidad de rebelión**. «Y el Señor dijo...‘Aléjate de la morada de Coré, Datán y Abiram’...Y cuando terminó de hablar...la tierra abrió su boca y se los tragó.» [16:23,24,31](/es/Bible/Numbers/16#v23).
 11. **Vara de Aarón**. «La vara de Aarón... había brotado y echado flores, y producido flores, y dio almendras maduras». [17:8](/es/Bible/Numbers/17#v8).
 12. **Diezmos**. «‘A los levitas he dado en herencia todos los diezmos que hay en Israel.’» [18:21](/es/Bible/Numbers/18#v21).
-13. **El asno de Balaam habla**. «Entonces el Señor abrió la boca del asna, y ella dijo a Balaam: ‘¿Qué te he hecho, para que me hayas golpeado estas tres veces?’...Entonces el Señor abrió los ojos de Balaam, y vio el ángel del Señor que estaba en el camino, con su espada desenvainada en su mano.” [22:28,31](/es/Bible/Numbers/22#v28).
+13. **El asno de Balaam habla**. «Entonces el Señor abrió la boca del asna, y ella dijo a Balaam: ‘¿Qué te he hecho, para que me hayas golpeado estas tres veces?’...Entonces el Señor abrió los ojos de Balaam, y vio el ángel del Señor que estaba en el camino, con su espada desenvainada en su mano.» [22:28,31](/es/Bible/Numbers/22#v28).
 14. **Matanza brutal**. «‘Maten a todo varón entre los pequeños, y maten a toda mujer que haya conocido a un hombre acostándose con él. Pero a todas las jóvenes que no hayan conocido a un hombre acostándose con él, manténganlas vivas para ustedes.’» [31:17, 18](/es/Bible/Numbers/31#v17).
 
 

@@ -47,7 +47,7 @@ _Nota de la redacción: este retiro fue dirigido por Gard Jameson, Bobbie Dreier
 
 <br style="clear:both;"/>
 
-> “La felicidad y la alegría tienen su origen en la vida interior” <a id="a49_67"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)
+> «La felicidad y la alegría tienen su origen en la vida interior» <a id="a49_67"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)
 
 El retiro preconferencia de la Conferencia Internacional Urantia 2017 de la Urantia Book Fellowship proporcionará un espacio donde el alma tímida se sienta segura, una experiencia que favorece el crecimiento religioso al «compartir vuestra vida espiritual con vuestros semejantes». <a id="a51_282"></a>[LU 100:1.8](/es/The_Urantia_Book/100#p1_8) Al escuchar historias y poemas espiritualmente evocadores, y a través de una escucha profundamente respetuosa, nos daremos apoyo mutuo en nuestro viaje espiritual personal. Los participantes disfrutarán de extensos periodos de comunión y de momentos de adoración que llevan al servicio amoroso. 
 

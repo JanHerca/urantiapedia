@@ -52,7 +52,7 @@ Durante los siguientes tres días, Xanand cuestionó a Jesús sin cesar sobre Di
 
 «Xanand, tengo absoluta confianza en el cuidado de mi Padre celestial; Estoy consagrado a hacer su voluntad. Por lo tanto, no creo que pueda ocurrirme un daño real. Aunque mi cuerpo podría ser destruido, mi alma siempre estaría a salvo, y eso es lo que realmente importa. Estoy absolutamente seguro de que el universo real es amigable conmigo, y insisto en creer esta verdad todopoderosa con total confianza en Dios a pesar de cualquier apariencia en contrario».
 
-“En este momento, este capataz al que llamas malvado es tu amo porque permites que sus malas costumbres te molesten. ¿Por qué no afirmar tu dominio sobre el mal en virtud del poder del bien?
+«En este momento, este capataz al que llamas malvado es tu amo porque permites que sus malas costumbres te molesten. ¿Por qué no afirmar tu dominio sobre el mal en virtud del poder del bien?
 
 De esta manera te conviertes en el dueño de todas las relaciones entre ustedes dos. Inténtalo de manera justa y sé que el bien que hay en ti puede vencer el mal en él (tal vez no hoy o incluso mientras todavía estén juntos), pero eventualmente el bien triunfará. Dado que usted está más bendecido con la luz de la verdad que su capataz, su gran necesidad debería desafiarlo. Seguramente usted no es el cobarde que podría quedarse quieto y ver cómo se ahoga un prójimo que no sabe nadar. ¿Cuánto más vale el alma de este hombre, ahogada en la oscuridad y el mal, en comparación con su cuerpo terrenal ahogado en el agua?
 

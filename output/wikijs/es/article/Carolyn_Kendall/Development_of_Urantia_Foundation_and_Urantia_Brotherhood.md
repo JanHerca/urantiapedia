@@ -27,10 +27,10 @@ Los Comisionados de Contacto habían sido los custodios del manuscrito de Uranti
 
 Hay otra selección del Dr. Sadler sobre la difusión de _El Libro de Urantia_ que me gustaría compartir:
 
-> “En el momento de la publicación de _El Libro de Urantia_, recibimos muchas sugerencias sobre los métodos que deberíamos emplear en el trabajo de su distribución. Estas instrucciones se pueden resumir de la siguiente manera:
+> «En el momento de la publicación de _El Libro de Urantia_, recibimos muchas sugerencias sobre los métodos que deberíamos emplear en el trabajo de su distribución. Estas instrucciones se pueden resumir de la siguiente manera:
 >
 > 1. Estudiar los métodos empleados por Jesús al introducir su obra en la tierra. Observe lo silenciosamente que trabajó al principio.
-> 2. Se nos recomendó evitar todos los esfuerzos para lograr un reconocimiento temprano y espectacular. Sin embargo, una cosa debe quedar clara: no se debe hacer nada que interfiera con los esfuerzos enérgicos y entusiastas de cualquier individuo para presentar _El Libro de Urantia_ a sus variados contactos y asociaciones humanas”.
+> 2. Se nos recomendó evitar todos los esfuerzos para lograr un reconocimiento temprano y espectacular. Sin embargo, una cosa debe quedar clara: no se debe hacer nada que interfiera con los esfuerzos enérgicos y entusiastas de cualquier individuo para presentar _El Libro de Urantia_ a sus variados contactos y asociaciones humanas».
 
 ## Referencias
 

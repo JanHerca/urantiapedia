@@ -35,15 +35,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> «_...una verdadera familia —una buena familia— revela a los padres procreadores la actitud del Creador hacia sus hijos, mientras que al mismo tiempo estos auténticos padres representan para sus hijos la primera de una larga serie de revelaciones progresivas acerca del amor del Padre Paradisiaco de todos los hijos del universo._» ([LU 84:7.30](/es/The_Urantia_Book/84#p7_30))
+> «_...una verdadera familia —una buena familia— revela a los padres procreadores la actitud del Creador hacia sus hijos, mientras que al mismo tiempo estos auténticos padres representan para sus hijos la primera de una larga serie de revelaciones progresivas acerca del amor del Padre Paradisiaco de todos los hijos del universo._» (<a id="a37_334"></a>[LU 84:7.30](/es/The_Urantia_Book/84#p7_30))
 
 A menudo nos hemos sentido perplejos ante el problema de presentarles a nuestros hijos la relación de amor que tenemos con nuestro Padre Universal, nuestro Creador Miguel y las muchas personalidades dentro de su familia universal. Descubrimos que antes de poder enseñar a nuestros hijos cómo orar y adorar, teníamos que entender estas cosas por nosotros mismos.
 
 ¿Qué es la oración? ¿Qué es la adoración? Estas palabras se refieren a la expresión personal y espontánea de nuestra actitud hacia nuestros padres universales. La oración es una charla espiritual con nuestro Padre Universal y sus hijos e hijas.
 
-> «_«La oración es el aliento del alma y debería induciros a perseverar en vuestro intento por descubrir la voluntad del Padre._» ([LU 144:2.3](/es/The_Urantia_Book/144#p2_3))
+> «_«La oración es el aliento del alma y debería induciros a perseverar en vuestro intento por descubrir la voluntad del Padre._» (<a id="a43_131"></a>[LU 144:2.3](/es/The_Urantia_Book/144#p2_3))
 
-La adoración es «_...una reacción natural y espontánea ante el reconocimiento de la inigualable personalidad del Padre y por su naturaleza amable y atributos adorables._» ([LU 5:3.3](/es/The_Urantia_Book/5#p3_3))
+La adoración es «_...una reacción natural y espontánea ante el reconocimiento de la inigualable personalidad del Padre y por su naturaleza amable y atributos adorables._» (<a id="a45_172"></a>[LU 5:3.3](/es/The_Urantia_Book/5#p3_3))
 
 La razón por la que nos resulta tan difícil enseñar a nuestros hijos a orar es simplemente porque no existe tal técnica. Lo que sí existe es la relación personal entre cada niño y su familia universal. Una vez que esta relación se establezca en la mente de nuestros hijos, automáticamente comenzará la comunicación entre ellos y nuestro creador. La clave para enseñar a nuestros hijos a orar es establecer que están relacionados con nuestro Padre Universal y su familia.
 

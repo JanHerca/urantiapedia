@@ -67,7 +67,7 @@ _El Libro de URANTIA_ tiene mucho que decir sobre la necesidad de entrar al rein
 
 > «_La salvación es por la regeneración del espíritu y no por obras de justicia propia de la carne. Sois justificados por la fe y hermanos por la gracia._» (<a id="a67_157"></a>[LU 143:2.6](/es/The_Urantia_Book/143#p2_6))
 
-> «_La salvación es el don del Padre y es revelada por sus Hijos. Su aceptación, por la fe, os convierte en partícipes de la naturaleza divina, en hijos o hijas de Dios. Por la fe, estáis justificadas; por la fe, sois salvadas; y por esta misma fe, avanzaréis eternamente en el camino de la perfección progresiva y divina. Abraham fue justificado por la fe y tomó conciencia de la salvación gracias a las enseñanzas de Melquisedek. A lo largo de todos los tiempos, esta misma fe ha salvado a los hijos de los hombres, pero ahora un Hijo ha venido del Padre para hacer más real y aceptable la salvación._» ([LU 150:5.3](/es/The_Urantia_Book/150#p5_3))
+> «_La salvación es el don del Padre y es revelada por sus Hijos. Su aceptación, por la fe, os convierte en partícipes de la naturaleza divina, en hijos o hijas de Dios. Por la fe, estáis justificadas; por la fe, sois salvadas; y por esta misma fe, avanzaréis eternamente en el camino de la perfección progresiva y divina. Abraham fue justificado por la fe y tomó conciencia de la salvación gracias a las enseñanzas de Melquisedek. A lo largo de todos los tiempos, esta misma fe ha salvado a los hijos de los hombres, pero ahora un Hijo ha venido del Padre para hacer más real y aceptable la salvación._» (<a id="a69_606"></a>[LU 150:5.3](/es/The_Urantia_Book/150#p5_3))
 
 Hay muchísimo más sobre la fe en el libro, pero me gusta este:
 

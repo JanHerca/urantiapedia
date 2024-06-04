@@ -46,7 +46,7 @@ Esta ayuda al estudio es un resumen de muchos conceptos del libro relacionados c
 Entre otros contenidos, están el plan divino de Dios, la personalidad, la mente, fe y creencia, las decisiones de búsqueda de Dios, el libre albedrío, la moralidad, la armonía con el Ajustador y mucho más. Está disponible en Amazon y todos los beneficios se destinan a organizaciones Urantia sin ánimo de lucro.
 <br style="clear:both;"/>
 
-> Pocos mortales se atreven nunca a sumar los activos de su personalidad dispensados por el ministerio combinado de la naturaleza y de la gracia. La mayoría de las almas empobrecidas son verdaderamente ricas, pero se niegan a creerlo. <a id="a47_219"></a>[[LU 48:7.6](/es/The_Urantia_Book/48#p7_6)] 
+> Pocos mortales se atreven nunca a sumar los activos de su personalidad dispensados por el ministerio combinado de la naturaleza y de la gracia. La mayoría de las almas empobrecidas son verdaderamente ricas, pero se niegan a creerlo. <a id="a48_235"></a>[[LU 48:7.6](/es/The_Urantia_Book/48#p7_6)] 
 
 ¡Disfrútenla! Hara Davis
 

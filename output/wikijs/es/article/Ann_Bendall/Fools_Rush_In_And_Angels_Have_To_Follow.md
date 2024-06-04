@@ -41,7 +41,7 @@ Al ver mi día en retrospectiva, sospecho que ser mis serafines debe ser una ver
 
 ¿Cuánta risa comparten conmigo, mientras yo, con una postura shakesperiana, veo dramáticamente los pequeños obstáculos de la vida diaria? ¿Cuántas canciones de alegría compongo para que me canten? ¿Me apresuro yo, el tonto, mientras los serafines se sientan en la banca sacudiendo la cabeza y arremangándose las mangas celestiales para recoger los pedazos al final de mi riesgo?
 
-Sin duda, los guardianes tienen que cuadrarse y, con oraciones pidiendo fuerza, resistirse a golpearme en la cabeza, tienen que correr detrás de mí gritándome al oído: “¿Cuándo empezarás a asumir un mínimo de responsabilidad? ¿Por qué siempre depende de nosotros?
+Sin duda, los guardianes tienen que cuadrarse y, con oraciones pidiendo fuerza, resistirse a golpearme en la cabeza, tienen que correr detrás de mí gritándome al oído: «¿Cuándo empezarás a asumir un mínimo de responsabilidad? ¿Por qué siempre depende de nosotros?»
 
 Aún más inquietante para mi creciente conciencia es que si de alguna manera aparezco en los mundos mansión antes de la hora deseada, mis pobres serafines tendrán que dar un «¡por favor, explícame!»
 

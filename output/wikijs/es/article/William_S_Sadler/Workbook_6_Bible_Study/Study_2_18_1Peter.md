@@ -79,7 +79,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- D. Anduvo haciendo el bien.
 	- E. Fue crucificado.
 	- F. Resucitó de entre los muertos.
-	- G. Él” fue elevado a la diestra de Dios.
+	- G. Él fue elevado a la diestra de Dios.
 	- H. Él vendrá otra vez en juicio.
 3. El libro enseña la expiación de Pablo.
 4. Estas enseñanzas son paralelas a los Evangelios:

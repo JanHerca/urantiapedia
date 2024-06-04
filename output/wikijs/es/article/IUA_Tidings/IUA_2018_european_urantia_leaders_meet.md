@@ -70,7 +70,7 @@ Anna Zeven, de los Países Bajos, miembro de la Urantia Young Adults Association
 
 - Confeccionar nuestras reuniones y nuestros eventos para atraer a los jóvenes; ellos deben implicarse y animarse.
 - Desarrollar calurosas «rutas de bienvenida» para gente joven y para los que acaban de descubrir el libro.
-- Caminar la charla; «allí donde Jesús iba, el mundo cambiaba”.
+- Caminar la charla; «allí donde Jesús iba, el mundo cambiaba».
 - Evitar a toda costa los dogmatismos.
 - Presentar un punto de vista cósmico.
 - Sugerencias de asistencia, entre las que estaban crear películas, podcast y videoclips, usar la Urantia Book Network (Red de _El libro de Urantia_, UBN en inglés) y usar mejor las redes sociales.

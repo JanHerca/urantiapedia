@@ -180,7 +180,7 @@ Además, el organismo social se encontraba en su etapa de preparación y se form
 
 El Dr. Sadler dijo:
 
-> _“Por fin, se concedió permiso para publicar los Documentos de Urantia. La introducción a este mandato dice_ \[y aceptamos que las siguientes son palabras directas de los reveladores\]:
+> _«Por fin, se concedió permiso para publicar los Documentos de Urantia. La introducción a este mandato dice_ \[y aceptamos que las siguientes son palabras directas de los reveladores\]:
 >
 > > _‘Consideramos_ El Libro de Urantia _como una característica de la evolución progresiva de la sociedad humana. No guarda relación con el espectacular episodio de la revelación de época, aunque aparentemente pueda haber llegado en el momento oportuno para aparecer tras una de esas revoluciones en la sociedad humana. El libro pertenece a la época que siguió inmediatamente a la conclusión de la actual lucha ideológica. Ese será el día en que los hombres estarán dispuestos a buscar la verdad y la justicia. Cuando haya pasado el caos de la confusión actual, será más fácil formular el cosmos de una nueva y mejorada era de relaciones humanas. Y es para este mejor orden de cosas en la tierra que el libro ha sido preparado.
 > >
@@ -244,7 +244,7 @@ Leemos:
 
 PREÁMBULO: Considerando que los Colaboradores, deseando que su identidad permanezca desconocida a fin de que la creación de dicha fundación no tenga limitaciones por razón de su asociación con sus nombres, coincidiendo con la suscripción de esta Declaración de Fideicomiso y con pleno conocimiento y consideración del mismo, han hecho que sus nominados entreguen y entreguen al abajo firmante dichas planchas para la impresión y reproducción de _El Libro de Urantia_, que se mantendrán en fideicomiso para hacer posible la realización y el cumplimiento de dichos deseos y para llevar a cabo y perpetuar los objetivos. aquí expresado; y
 
-> «1.1. CREACIÓN: Nosotros, los abajo firmantes, por y en nombre de los Colaboradores y aquellos cuyas inspiraciones han concebido esto, mediante esta Declaración de Fideicomiso, por la presente creamos, fundamos y establecemos esta Fundación que se conocerá como “FUNDACIÓN URANTIA»
+> «1.1. CREACIÓN: Nosotros, los abajo firmantes, por y en nombre de los Colaboradores y aquellos cuyas inspiraciones han concebido esto, mediante esta Declaración de Fideicomiso, por la presente creamos, fundamos y establecemos esta Fundación que se conocerá como «FUNDACIÓN URANTIA»
 >
 > «1.2. ACEPTACIÓN Y DECLARACIÓN: Nosotros, los abajo firmantes, para nosotros y nuestros sucesores en fideicomiso como se definen a continuación, reconocemos que se nos han transferido y entregado aproximadamente dos mil doscientas (2,200) placas estereotipadas niqueladas con un espesor de base patentado preparadas del manuscrito de _El Libro de Urantia_ para la impresión y reproducción del mismo...»
 

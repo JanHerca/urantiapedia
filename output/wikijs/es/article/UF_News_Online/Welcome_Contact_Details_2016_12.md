@@ -44,7 +44,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - La Conferencia Urantia Europea de Budapest - ¿Quién es Jesús?
 - La Conferencia Latinoamericana – El Maestro y el Discípulo
 - Bailar con Dios: personificar el Amor de Dios
-- Cathy Jones – “Nuestra Cathy”
+- Cathy Jones – «Nuestra Cathy»
 - Círculos de Confianza: una experiencia de compartir entre almas
 - Las mejores historias del mundo
 

@@ -44,7 +44,7 @@ Eugene Asidao y Nestor Nano han estado en Filipinas durante más de un mes distr
 
 La Fundación Urantia ha recibido numerosos correos de bibliotecas y universidades de la Gran Manila agradeciendo a la Fundación la donación de _El libro de Urantia_. Hasta ahora, la lista está compuesta por seis bibliotecas universitarias con catorce sucursales, que incluyen la Loyola School of Theology, el National College of Business and Arts y dos redes de bibliotecas públicas con un total de veinticinco sucursales.
 
-A su regreso, estaba deseando escuchar el relato de Eugene y Nestor sobre su aventura de siembra de _El libro de Urantia_ en Filipinas. Aunque quizá no sepamos nunca el impacto total de su trabajo, me recordó la “parábola del sembrador”.
+A su regreso, estaba deseando escuchar el relato de Eugene y Nestor sobre su aventura de siembra de _El libro de Urantia_ en Filipinas. Aunque quizá no sepamos nunca el impacto total de su trabajo, me recordó la «parábola del sembrador».
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

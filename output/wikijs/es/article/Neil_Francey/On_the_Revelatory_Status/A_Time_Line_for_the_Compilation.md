@@ -38,11 +38,11 @@ La publicación de la revelación de Urantia se produjo en 1955. Pero, ¿qué oc
 
 - De un contacto documentado hace más de 100 años en Chicago.
 - A una supuesta referencia a la Edad Media por parte de uno de los reveladores.
-- A una posible indicación hace 2.000 años por parte de Jesús. ([LU 132:6.3](/es/The_Urantia_Book/132#p6_3))
-- Sobre el incumplimiento de Adán y Eva y las referencias en los Documentos a un comentario hecho a Adán hace unos 40.000 años. ([LU 119:7.2](/es/The_Urantia_Book/119#p7_2)) También hay una referencia en [LU 43:1.6](/es/The_Urantia_Book/43#p1_6).
+- A una posible indicación hace 2.000 años por parte de Jesús. (<a id="s40_64"></a>[LU 132:6.3](/es/The_Urantia_Book/132#p6_3))
+- Sobre el incumplimiento de Adán y Eva y las referencias en los Documentos a un comentario hecho a Adán hace unos 40.000 años. (<a id="s41_129"></a>[LU 119:7.2](/es/The_Urantia_Book/119#p7_2)) También hay una referencia en <a id="s41_204"></a>[LU 43:1.6](/es/The_Urantia_Book/43#p1_6).
 - Cuando el planeta fue puesto en cuarentena espiritual en el momento de la rebelión de Lucifer hace unos 200.000 años.
 - Una referencia a nuestra historia que comenzó hace mil millones de años cuando Miguel asumió la soberanía de su universo local.
-- Hace cuatrocientos mil millones de años, cuando Miguel empezó a organizar este universo local. ([LU 57:3.7](/es/The_Urantia_Book/57#p3_7))
+- Hace cuatrocientos mil millones de años, cuando Miguel empezó a organizar este universo local. (<a id="s44_98"></a>[LU 57:3.7](/es/The_Urantia_Book/57#p3_7))
 - Y a Dios Padre que probablemente conoció detalles eones antes de eso, quizás en el momento de la creación de los siete superuniversos.
 
 

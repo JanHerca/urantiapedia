@@ -33,8 +33,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- a. Alejandrino. Filón. El método alegórico. El helenístico. Más tarde, el estoico.
 	- b. El método judío tradicional o literal. El «pueblo elegido».
 4. Aunque Jesús aceptaba en general el Antiguo Testamento, se atrevió a criticarlo. Dijo que vino para cumplir, no para destruir las Escrituras.
-5. En el Libro de Urantia, véase la charla de Jesús con Natanael, <a id="s35_56"></a>[LU 159:4.1](/es/The_Urantia_Book/159#p4_1)
-6. Jesús hace nuevas interpretaciones de las Escrituras en su llamado «Sermón de la Montaña». <a id="s36_88"></a>[LU 140:4.1](/es/The_Urantia_Book/140#p4_1)
+5. En el Libro de Urantia, véase la charla de Jesús con Natanael, <a id="s35_66"></a>[LU 159:4.1](/es/The_Urantia_Book/159#p4_1)
+6. Jesús hace nuevas interpretaciones de las Escrituras en su llamado «Sermón de la Montaña». <a id="s36_94"></a>[LU 140:4.1](/es/The_Urantia_Book/140#p4_1)
 7. El libro de Hebreos es una nueva interpretación de muchas de las enseñanzas del Antiguo Testamento.
 8. Primeras doctrinas de la LEY y la GRACIA.
 

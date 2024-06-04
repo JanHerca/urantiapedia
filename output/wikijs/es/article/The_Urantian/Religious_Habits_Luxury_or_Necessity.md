@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Jesús tenía la costumbre de ir solo a comunicarse con su Padre en el cielo. Al hablar de esta comunión espiritual, o adoración, en la que Jesús participó con tanta frecuencia, Rodan dijo: «_Cuanto más compleja se vuelva la sociedad, cuanto más se multipliquen los atractivos de la civilización, más urgente será la necesidad, para los individuos que conocen a Dios, de adquirir estas prácticas habituales protectoras destinadas a conservar y aumentar sus energías espirituales._» ([LU 160:3.2](/es/The_Urantia_Book/160#p3_2))
+Jesús tenía la costumbre de ir solo a comunicarse con su Padre en el cielo. Al hablar de esta comunión espiritual, o adoración, en la que Jesús participó con tanta frecuencia, Rodan dijo: «_Cuanto más compleja se vuelva la sociedad, cuanto más se multipliquen los atractivos de la civilización, más urgente será la necesidad, para los individuos que conocen a Dios, de adquirir estas prácticas habituales protectoras destinadas a conservar y aumentar sus energías espirituales._» (<a id="a37_481"></a>[LU 160:3.2](/es/The_Urantia_Book/160#p3_2))
 
 Nunca antes el hombre se había enfrentado a la posibilidad de hacer tantas cosas en tan poco tiempo. Se requiere que la persona promedio responda a innumerables situaciones y personalidades que comienzan temprano en el día y terminan tarde. Desde el «Today Show» hasta el «Tonite Show» avanzamos en nuestro día a un ritmo que a nuestros ancestros no muy lejanos les parecería un ritmo frenético. Nuestro desafío no es cuál es la mejor manera de escapar de este monstruo sociológico que avanza rápidamente, la era tecnológica, sino cómo domesticarlo y hacer que sirva al propósito de la humanidad: encontrar a Dios y llegar a ser como él.
 

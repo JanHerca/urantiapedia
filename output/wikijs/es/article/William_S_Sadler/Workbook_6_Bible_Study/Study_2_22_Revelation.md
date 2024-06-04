@@ -42,7 +42,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. Paternidad literaria
 
-1. El Libro de Urantia dice que el apóstol Juan escribió el Apocalipsis, pero que ha sufrido muchas revisiones y reescrituras. <a id="s44_116"></a>[LU 139:4.14](/es/The_Urantia_Book/139#p4_14).
+1. El Libro de Urantia dice que el apóstol Juan escribió el Apocalipsis, pero que ha sufrido muchas revisiones y reescrituras. <a id="s44_127"></a>[LU 139:4.14](/es/The_Urantia_Book/139#p4_14).
 2. El Libro de Urantia asigna a Juan las siguientes referencias del Apocalipsis. <a id="s45_81"></a>[LU 53:7.7](/es/The_Urantia_Book/53#p7_7) ([Ap 15:2](/es/Bible/Revelation/15#v2)).
 3. La Revelación original tenía mucho de Juan, incluso más que el Evangelio de Juan escrito por Natán.
 4. La astrología del Apocalipsis no fue obra de Juan, sino la adición del tercer revisor del Apocalipsis.
@@ -86,18 +86,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. **El nuevo nombre**. «‘Le daré una piedra blanca, con un nombre nuevo.’» [2:17](/es/Bible/Revelation/2#v17).
 4. **Conquistadores**. «‘Al que venciere, le haré columna en el templo de mi Dios.’" 3.12.
 5. **Los tibios**. «‘Así que, por cuanto eres tibio, y no frío ni caliente, te vomitaré de mi boca.’" [3:16](/es/Bible/Revelation/3#v16).
-6. **Parado en la puerta**. «‘He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él y comeré con él, y él conmigo.’» [3:20](/es/Bible/Revelation/3#v20). (Libro de Urantia, <a id="s88_227"></a>[LU 159:3.2](/es/The_Urantia_Book/159#p3_7))
-7. **Transmisiones del paraíso**. «Del trono salen relámpagos, voces y truenos, y delante del trono arden siete antorchas de fuego, que son los siete espíritus de Dios». [4:5](/es/Bible/Revelation/4#v5). (Libro de Urantia, <a id="s89_242"></a>[LU 34:4.11](/es/The_Urantia_Book/34#p4_11))
+6. **Parado en la puerta**. «‘He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él y comeré con él, y él conmigo.’» [3:20](/es/Bible/Revelation/3#v20). (Libro de Urantia, <a id="s88_209"></a>[LU 159:3.2](/es/The_Urantia_Book/159#p3_7))
+7. **Transmisiones del paraíso**. «Del trono salen relámpagos, voces y truenos, y delante del trono arden siete antorchas de fuego, que son los siete espíritus de Dios». [4:5](/es/Bible/Revelation/4#v5). (Libro de Urantia, <a id="s89_223"></a>[LU 34:4.11](/es/The_Urantia_Book/34#p4_11))
 8. **Veinticuatro ancianos**. «Los veinticuatro ancianos se postran ante el que está sentado en el trono y adoran al que vive por los siglos de los siglos». [4:10](/es/Bible/Revelation/4#v10).
 9. **Las arpas**. «Los veinticuatro ancianos se postraron delante del Cordero, cada uno con un arpa en la mano». [5:8](/es/Bible/Revelation/5#v8).
 10. **Las siete trompetas**. «Y los siete ángeles que tenían las siete trompetas se prepararon para tocarlas». [8:6](/es/Bible/Revelation/8#v6).
 11. **La séptima trompeta**. «Entonces el séptimo ángel tocó la trompeta, y hubo grandes voces en el cielo, que decían: ‘El reino del mundo ha pasado a ser reino de nuestro Señor y de su Cristo, y él reinará por los siglos de los siglos.’» [11 :15](/es/Bible/Revelation/11#v15).
-12. **Guerra en el cielo**. «Entonces hubo guerra en el cielo, Miguel y sus ángeles peleaban contra el dragón; y el dragón y sus ángeles peleaban, pero fueron derrotados y ya no había lugar para ellos en el cielo». [12:7](/es/Bible/Revelation/12#v7),8 (Libro de Urantia, <a id="s94_269"></a>[LU 53:5.6](/es/The_Urantia_Book/53#p5_6 ))
+12. **Guerra en el cielo**. «Entonces hubo guerra en el cielo, Miguel y sus ángeles peleaban contra el dragón; y el dragón y sus ángeles peleaban, pero fueron derrotados y ya no había lugar para ellos en el cielo». [12:7](/es/Bible/Revelation/12#v7),8 (Libro de Urantia, [LU 53:5.6](/es/The_Urantia_Book/53#p5_6 ))
 13. **Los benditos muertos**. «‘Bienaventurados los muertos que de ahora en adelante mueren en el Señor.’ ...‘para que descansen de sus trabajos.’» [14:13](/es/Bible/Revelation/14#v13).
-14. **Las arpas de Dios**. «Y los que habían vencido a la bestia y su imagen y el número de su nombre, de pie junto al mar de vidrio con arpas de Dios en sus manos». [15:2](/es/Bible/Revelation/15#v2). (Libro de Urantia, <a id="s96_226"></a>[LU 47:10.2](/es/The_Urantia_Book/47#p10_2))
+14. **Las arpas de Dios**. «Y los que habían vencido a la bestia y su imagen y el número de su nombre, de pie junto al mar de vidrio con arpas de Dios en sus manos». [15:2](/es/Bible/Revelation/15#v2). (Libro de Urantia, <a id="s96_221"></a>[LU 47:10.2](/es/The_Urantia_Book/47#p10_2))
 15. **Atando a Satanás**. "Entonces vi un ángel que descendía del cielo, teniendo en su mano la llave del abismo y una gran cadena. Y prendió al dragón, la serpiente antigua, que es el diablo y Satanás, y lo ató por mil años. , y lo arrojó en el hoyo, y lo cerró y selló sobre él, para que no engañara más a las naciones, hasta que se cumplieran los mil años. [20:1-3](/es/Bible/Revelation/20#v1).
 16. **El fin de Satanás**. «Y cuando se cumplan los mil años, Satanás será soltado de su prisión y saldrá para engañar a las naciones que están en los cuatro confines de la tierra, es decir, a Gog y Magog, para reunirlos para la batalla... pero descendió fuego del cielo y los consumió.» [20:7-9](/es/Bible/Revelation/20#v7).
-17. **Los nuevos cielos**. «Entonces vi un cielo nuevo y una tierra nueva; porque el primer cielo y la primera tierra habían pasado, y el mar ya no existía. Y vi la ciudad santa, la nueva Jerusalén, descender del cielo, de Dios.» [21:1,2](/es/Bible/Revelation/21#v1). (Libro de Urantia, <a id="s99_280"></a>[LU 52:7.11](/es/The_Urantia_Book/52#p7_11))
+17. **Los nuevos cielos**. «Entonces vi un cielo nuevo y una tierra nueva; porque el primer cielo y la primera tierra habían pasado, y el mar ya no existía. Y vi la ciudad santa, la nueva Jerusalén, descender del cielo, de Dios.» [21:1,2](/es/Bible/Revelation/21#v1). (Libro de Urantia, <a id="s99_287"></a>[LU 52:7.11](/es/The_Urantia_Book/52#p7_11))
 18. **Luz del paraíso**. «Y la ciudad no tiene necesidad de sol ni de luna que la ilumine, porque la gloria de Dios es su luz». [21:23](/es/Bible/Revelation/21#v23).
 19. **El árbol de la vida**. «A cada lado del río, el árbol de la vida con sus doce clases de frutos...y las hojas del árbol eran para la sanidad de las naciones.» [22:2](/es/Bible/Revelation/22#v2).
 20. **El agua de la vida**. «Y el que tenga sed, venga; el que desee, tome gratuitamente del agua de la vida». [22:17](/es/Bible/Revelation/22#v17).

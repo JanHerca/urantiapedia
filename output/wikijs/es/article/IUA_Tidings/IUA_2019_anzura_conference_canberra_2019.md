@@ -41,11 +41,11 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Greenhills-Conference-Centre-570x144.jpg">
 </figure>
 
-Este año la conferencia ANZURA regresa a la capital del país, esta vez en un entorno boscoso en la orilla norte del río Murrumbidgee. La conferencia será organizada por el muy capaz “Canberra Crew” y nuestro orador principal será el astrofísico y lector veterano Nigel Nunn.
+Este año la conferencia ANZURA regresa a la capital del país, esta vez en un entorno boscoso en la orilla norte del río Murrumbidgee. La conferencia será organizada por el muy capaz «Canberra Crew» y nuestro orador principal será el astrofísico y lector veterano Nigel Nunn.
 
 ## Tema: La mente vence a la materia, el espíritu vence a la mente
 
-> _La energía-materia domina en los superuniversos evolutivos, salvo en la personalidad, donde el espíritu lucha, por mediación de la mente, para conseguir la superioridad. La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._ <a id="a46_365"></a>[[LU 116:6.1](/es/The_Urantia_Book/116#p6_1)]
+> _La energía-materia domina en los superuniversos evolutivos, salvo en la personalidad, donde el espíritu lucha, por mediación de la mente, para conseguir la superioridad. La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad._ <a id="a47_392"></a>[[LU 116:6.1](/es/The_Urantia_Book/116#p6_1)]
 
 Es bastante obvio que en el siglo XXI se comprende muy bien la manera en que la mente humana ha estado sojuzgando a la materia. Los avances industriales y tecnológicos de los dos siglos anteriores han dado como resultado que el hombre moderno se convierta en adorador virtual de la ciencia, y muchos sugieren que esto acabará llevando a la comprensión completa del mundo material por parte de la humanidad.
 

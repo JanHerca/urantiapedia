@@ -36,7 +36,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Marilynn Kulieke, Fideicomisaria de la Fundación Urantia, Illinois (EEUU)_
 
-_Nota de la directora: El texto íntegro ha sido un tema que ha preocupado a muchos lectores de_ El libro de Urantia. _Esto llevó a la creación de un comité para evaluar los cambios y recomendar un “Texto de Referencia Estándar” y un sistema de referencia._
+_Nota de la directora: El texto íntegro ha sido un tema que ha preocupado a muchos lectores de_ El libro de Urantia. _Esto llevó a la creación de un comité para evaluar los cambios y recomendar un «Texto de Referencia Estándar» y un sistema de referencia._
 
 La valoración del comité se completará hacia el 1 de julio de 2009.
 

@@ -225,7 +225,7 @@ por Eileen Laurence
 
 Como la mayoría de nosotros aquí en esta sala, llevo una vida profesional variada y ocupada. Interactúo con mucha gente, la mayoría de las cuales no son lectores del Libro de Urantia, pero muchos de los cuales participan activamente en una vida religiosa tanto a nivel profesional como privado. Mientras realizo mis tareas diarias tratando de vivir los conceptos del libro, comencé a hacerme algunas preguntas básicas:
 
-1. ¿Existe alguna diferencia entre moralidad y ética? A menudo se usan en la misma oración como «_Las costumbres (religiosas, morales y éticas), así como la propiedad, el orgullo y la caballerosidad, estabilizan las instituciones del matrimonio y la familia._» ([LU 84:7.3](/es/The_Urantia_Book/84#p7_3))
+1. ¿Existe alguna diferencia entre moralidad y ética? A menudo se usan en la misma oración como «_Las costumbres (religiosas, morales y éticas), así como la propiedad, el orgullo y la caballerosidad, estabilizan las instituciones del matrimonio y la familia._» (<a id="a227_262"></a>[LU 84:7.3](/es/The_Urantia_Book/84#p7_3))
 2. Si hay una diferencia entre moral y ética, ¿cuál es?
 3. ¿Cómo ha cambiado nuestra concepción de la moralidad y la ética desde la aparición de esta quinta revelación de época, _El Libro de Urantia_?
 4. ¿Qué se está haciendo en nuestra sociedad estadounidense actual para abordar cuestiones morales y éticas sobre la evolución de nuestras organizaciones empresariales, la conexión entre el gobierno y los medios de comunicación, la ética y las enfermedades crónicas, la ética y la atención neonatal? ¿Alguien se está tomando el tiempo para compartir ideas sobre la ética en la comunidad global?
@@ -240,7 +240,7 @@ por Patrick Yesh
 
 Como educador, el enfoque principal detrás de todo lo que enseño, ya sea arte, currículo escolar o enseñanzas de Urantia, debe reflejar el propósito supremo de la educación como se afirma en _El Libro de Urantia_:
 
-> «....fomentar y promover el objetivo supremo de la vida, el desarrollo de una personalidad majestuosa y bien equilibrada». ([LU 195:10.17](/es/The_Urantia_Book/195#p10_17))
+> «....fomentar y promover el objetivo supremo de la vida, el desarrollo de una personalidad majestuosa y bien equilibrada». (<a id="a242_126"></a>[LU 195:10.17](/es/The_Urantia_Book/195#p10_17))
 
 Una palabra clave es «majestuoso». Normalmente uno no se considera majestuoso, pero puede hacerlo si se visualiza como un hijo de Dios, un ser morontial importante y en evolución, una parte única de un organismo vivo orgánico, la hermandad del hombre. Este concepto de uno mismo, como majestuoso, es central en mi charla sobre evitar el egoísmo y caminar con Dios. No podemos evitar ser egoístas en esta vida a menos que tengamos una imagen positiva y segura de nosotros mismos, realizada en la convicción de que tenemos todo lo que necesitamos en la vida, rodeados del amor de Dios y en paz interior. Sabemos por fe viva que somos verdaderamente hijos de Dios que viajamos en nuestro camino de regreso al Paraíso.
 

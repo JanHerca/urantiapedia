@@ -56,7 +56,7 @@ Richard Keeler sirvió como fideicomisario de la Fundación Urantia durante 30
 Todos le echamos de menos y le deseamos buen viaje mientras su ángel guardián lo lleva a los mundos mansión. Richard, saludamos al fragmento de infinidad, la chispa de divinidad y la brasa de eternidad que te habita. Les dejamos con la cita favorita de Richard de _El libro de Urantia__:_
 <br style="clear:both;"/>
 
-> _Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal._ <a id="a57_247"></a>[[LU 102:7.10](/es/The_Urantia_Book/102#p7_10)]
+> _Dios es la más ineludible de todas las presencias, el más real de todos los hechos, la más viva de todas las verdades, el más afectuoso de todos los amigos y el más divino de todos los valores; de Dios tenemos derecho a estar más seguros que de cualquier otra experiencia universal._ <a id="a58_287"></a>[[LU 102:7.10](/es/The_Urantia_Book/102#p7_10)]
 
 **Hoite Caston**
 

@@ -43,7 +43,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _El libro de Urantia_ nos informa de que nos guía el Espíritu de Dios, somos Hijas (Hijos) de Dios.
 
-¿Alguna vez han actuado bajo la inspiración de un valor que les ha traído gran alegría (espiritual)? En su próximo retiro, “Bailar con Dios,” cuatro Hijas de Dios han reunido un programa en el cual los participantes explorarán cuestiones tales como:
+¿Alguna vez han actuado bajo la inspiración de un valor que les ha traído gran alegría (espiritual)? En su próximo retiro, «Bailar con Dios,» cuatro Hijas de Dios han reunido un programa en el cual los participantes explorarán cuestiones tales como:
 <br style="clear:both;"/>
 
 - ¿Cómo comprendemos y experimentamos el hecho de que las mujeres son las portadoras de valores morales y espirituales?

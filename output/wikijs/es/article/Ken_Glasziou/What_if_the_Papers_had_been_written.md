@@ -57,7 +57,7 @@ La explosión de una supernova en 1572 fue un espectáculo brillante visible a p
 
 El Sol fue el primer objeto celeste determinado en emitir Rayos X; Los contadores de radiación transportados por cohetes midieron las emisiones de rayos X de su corona en 1949. En el «Frente de física y astronomía» de Hoyle y Narliker encontramos: "Uno de los autores recuerda cómo, a mediados de la década de 1940, la cuestión de si el sol podría emitir rayos X fue considerado por los astrónomos como altamente especulativo.
 
-**La nebulosa del Cangrejo.** "... la nebulosa del Cangrejo, que tuvo su origen hace unos novecientos años, y que todavía exhibe la esfera madre como una estrella solitaria cerca del centro de esta masa nebulosa irregular”. (<a id="a59_225"></a>[LU 41:8.4](/es/The_Urantia_Book/41#p8_4))
+**La nebulosa del Cangrejo.** «... la nebulosa del Cangrejo, que tuvo su origen hace unos novecientos años, y que todavía exhibe la esfera madre como una estrella solitaria cerca del centro de esta masa nebulosa irregular». (<a id="a59_225"></a>[LU 41:8.4](/es/The_Urantia_Book/41#p8_4))
 
 El Documento de Urantia afirma que la nebulosa del Cangrejo tuvo su origen en una explosión de nova que ocurrió hace 900 años. La existencia de una estrella de neutrones en su centro se demostró en 1967 con la detección de un púlsar que pulsaba a una velocidad de 30 por segundo. Esto era demasiado alto para que se originara en una enana blanca que se desintegraría si girara a esa velocidad. Sólo podría ser de una estrella de neutrones.
 

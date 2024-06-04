@@ -66,7 +66,7 @@ A continuación he aquí algunos comentarios de las participantes del retiro de 
 <img src="/image/article/IUA_Tidings/Womens-retreat-2-300x225.jpg">
 </figure>
 
-> _Si deseáis de verdad encontrar a Dios, no podréis evitar que nazca en vuestra mente la conciencia del Supremo. Al igual que Dios es vuestro Padre divino, el Supremo es vuestra Madre divina, de quien os alimentáis durante toda vuestra vida como criaturas del universo. «¡Cuán universal es el Supremo — está en todas partes! Las criaturas ilimitadas de la creación dependen de su presencia para vivir, y a ninguna se les rehúsa»._ <a id="a67_392"></a>[_The Urantia Book_, [LU 117:6.2](/es/The_Urantia_Book/117#p6_2)]
+> _Si deseáis de verdad encontrar a Dios, no podréis evitar que nazca en vuestra mente la conciencia del Supremo. Al igual que Dios es vuestro Padre divino, el Supremo es vuestra Madre divina, de quien os alimentáis durante toda vuestra vida como criaturas del universo. «¡Cuán universal es el Supremo — está en todas partes! Las criaturas ilimitadas de la creación dependen de su presencia para vivir, y a ninguna se les rehúsa»._ <a id="a68_432"></a>[_The Urantia Book_, [LU 117:6.2](/es/The_Urantia_Book/117#p6_2)]
 
 > «Gracias por estar conmigo de manera tan íntima, y por permitirme estar de manera tan íntima con ustedes. No olvidaré nunca esta experiencia.»
 > 

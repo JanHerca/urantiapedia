@@ -89,7 +89,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Paternidad literaria
 
-1. Juan fue escrito en el año 101 d.C. por Natán, un judío griego de Cesarea, bajo la dirección de Juan. El libro de 1 Juan fue escrito por el mismo Juan como carta de presentación. El Libro de Urantia, <a id="s91_182"></a>[LU 121:8.10](/es/The_Urantia_Book/121#p8_10).
+1. Juan fue escrito en el año 101 d.C. por Natán, un judío griego de Cesarea, bajo la dirección de Juan. El libro de 1 Juan fue escrito por el mismo Juan como carta de presentación. El Libro de Urantia, <a id="s91_203"></a>[LU 121:8.10](/es/The_Urantia_Book/121#p8_10).
 2. El hecho de que Natán escribiera el Evangelio permitió a Juan referirse con más gracia a sí mismo como «el discípulo a quien Jesús amaba».
 3. Natán era probablemente un hombre apacible, lo que explicaría cómo el joven y ambicioso «hijo del trueno» pudo haberse convertido en el «apóstol del amor» incluso en su vejez.
 4. Es difícil considerar que el Evangelio de Juan y el Apocalipsis fueron escritos por la misma persona.
@@ -158,7 +158,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 4. **Convertirnos en hijos de Dios**. «Pero a todos... los que creyeron en su nombre, les dio poder para llegar a ser hijos de Dios.» [1:12](/es/Bible/John/1#v12).
 5. **La palabra se hace carne**. «Y el Verbo se hizo carne y habitó entre nosotros». [1:14](/es/Bible/John/1#v14).
 6. **Juan y Jesús**. «Vio a Jesús que venía hacia él, y dijo: ‘He aquí el Cordero de Dios, que quita el pecado del mundo’» [1:29](/es/Bible/John/1#v29).
-7. **Natanael y Nazaret**. “Natanael le dijo: ‘¿De Nazaret puede salir algo bueno?.’» [1:46](/es/Bible/John/1#v46).
+7. **Natanael y Nazaret**. «Natanael le dijo: ‘¿De Nazaret puede salir algo bueno?.’» [1:46](/es/Bible/John/1#v46).
 8. **Limpieza del templo**. «Y haciendo un látigo de cuerdas, los echó a todos fuera del templo, con las ovejas y los bueyes». [2:15](/es/Bible/John/2#v15).
 9. **El templo de su cuerpo**. "Jesús les respondió: ‘Destruid este templo, y en tres días lo levantaré’. [2:19](/es/Bible/John/2#v19).
 10. **El nuevo nacimiento**. «Os digo que el que no nace de nuevo no puede ver el reino de Dios.» [3:3](/es/Bible/John/3#v3).
@@ -177,7 +177,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 23. **Nunca veas la muerte**. «‘El que guarda mi palabra, no verá muerte jamás.’» [8:51](/es/Bible/John/8#v51).
 24. **El ciego**. «‘Una cosa sé, que aunque era ciego, ahora veo.’» [9:25](/es/Bible/John/9#v25).
 25. **Vida abundante**. «‘Yo he venido para que tengáis vida, y la tengáis en abundancia.’» [10:10](/es/Bible/John/10#v10).
-26. **Seguridad eterna**. “‘Yo les doy vida eterna, y no perecerán jamás, ni nadie los arrebatará de mi mano.’» [10:28](/es/Bible/John/10#v28).
+26. **Seguridad eterna**. «‘Yo les doy vida eterna, y no perecerán jamás, ni nadie los arrebatará de mi mano.’» [10:28](/es/Bible/John/10#v28).
 27. **El coraje de Tomás**. «Tomás…dijo a sus condiscípulos: ‘Vayamos también nosotros, para morir con él’.» [11:16](/es/Bible/John/11#v16).
 28. **Yo soy la resurrección**. «Jesús le dijo: Yo soy la resurrección y la vida.» [11:25](/es/Bible/John/11#v25).
 29. **Jesús lloró**. «Jesús lloró.» [11:35](/es/Bible/John/11#v35).

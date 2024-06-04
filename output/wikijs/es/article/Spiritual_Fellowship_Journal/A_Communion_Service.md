@@ -115,7 +115,7 @@ Cuando Jesús terminó su vida terrenal, el nombre del Padre había sido tan rev
 >
 > Yo soy la puerta abierta a la salvación eterna.
 >
-> Yo soy el vínculo vivo entre el tiempo y la eternidad. ([LU 182:1.10-25](/es/The_Urantia_Book/182#p1_10), adapted)
+> Yo soy el vínculo vivo entre el tiempo y la eternidad. (<a id="a117_58"></a>[LU 182:1.10-25](/es/The_Urantia_Book/182#p1_10), adapted)
 
 _Cuando los ujieres hayan regresado, el ministro alzando el pan, podrá decir:_
 

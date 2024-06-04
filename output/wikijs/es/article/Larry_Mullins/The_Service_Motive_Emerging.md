@@ -75,7 +75,7 @@ Hay mucho más en la historia de lo que puedo relatar aquí. Sin embargo, brevem
 
 El éxito de Nash continuó a pesar de la crisis empresarial de la posguerra. En 1920, las empresas y fábricas de ropa estaban cerrando en todo Estados Unidos; $\$ 100.000.000$ en pedidos textiles fueron cancelados ese año. Sin embargo, Nash triplicó sus ventas brutas respecto al año anterior. En 1922, su empresa volvió a duplicar su volumen.
 
-En su libro, Nash instó a que todas las empresas adoptaran sus métodos, declarando que la humanidad debe recurrir a Jesús para sobrevivir. Resumió el éxito de sus técnicas jesusonianas con la afirmación: “...en la filosofía de Jesús, y sólo en esa filosofía, se centra la esperanza del mundo. Recuerde, no estoy hablando de las cincuenta y siete variedades de filosofía sobre él, estoy hablando de su filosofía, y ahí radica toda la diferencia.
+En su libro, Nash instó a que todas las empresas adoptaran sus métodos, declarando que la humanidad debe recurrir a Jesús para sobrevivir. Resumió el éxito de sus técnicas jesusonianas con la afirmación: «...en la filosofía de Jesús, y sólo en esa filosofía, se centra la esperanza del mundo. Recuerde, no estoy hablando de las cincuenta y siete variedades de filosofía sobre él, estoy hablando de su filosofía, y ahí radica toda la diferencia.
 
 _El Libro de Urantia_ amplía un concepto similar en 195:10.1:
 

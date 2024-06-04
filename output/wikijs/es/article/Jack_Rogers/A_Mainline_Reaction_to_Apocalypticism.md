@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Dios y la religión en el mundo posmoderno” por David Ray Gritlin</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: «Dios y la religión en el mundo posmoderno» por David Ray Gritlin</span>
         </a>
         </td>
         <td>
@@ -95,7 +95,7 @@ Finalmente, estoy convencido de que el regreso de Cristo a nuestro planeta super
       <tr>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: “Dios y la religión en el mundo posmoderno” por David Ray Gritlin</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros importantes: «Dios y la religión en el mundo posmoderno» por David Ray Gritlin</span>
         </a>
         </td>
         <td>

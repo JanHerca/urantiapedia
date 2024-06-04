@@ -78,11 +78,11 @@ En la desafiante era en la que vivimos, a menudo nuestra búsqueda de «señales
 
 Este sencillo mensaje de confirmación a Juan auguró una narración mucho más grande que Jesús iba a compartir después de resurrección. En el transcurso de su séptima aparición morontial, de charla por el camino a Emaús durante «El paseo con los dos hermanos», Jesús citó una serie de pasajes de los Salmos, de Isaías y de otros profetas del Antiguo Testamento.
 
-> “¿Y no habéis leído nunca en las Escrituras acerca de este día de salvación para los judíos y los gentiles, donde dice que en él todas las familias de la Tierra serán benditas; que él escuchará el lamento de los necesitados y salvará el alma de los pobres que lo buscan; que todas las naciones lo llamarán bendito?
+> «¿Y no habéis leído nunca en las Escrituras acerca de este día de salvación para los judíos y los gentiles, donde dice que en él todas las familias de la Tierra serán benditas; que él escuchará el lamento de los necesitados y salvará el alma de los pobres que lo buscan; que todas las naciones lo llamarán bendito?
 > 
-> “Que alimentará al rebaño como un verdadero pastor, reuniendo a las ovejas en sus brazos y llevándolas tiernamente en su seno. Que abrirá los ojos de los ciegos espirituales y sacará a los presos de la desesperación a la plena luz y libertad.
+> «Que alimentará al rebaño como un verdadero pastor, reuniendo a las ovejas en sus brazos y llevándolas tiernamente en su seno. Que abrirá los ojos de los ciegos espirituales y sacará a los presos de la desesperación a la plena luz y libertad.
 > 
-> “Que curará a los que tienen el corazón destrozado, proclamará la libertad a los cautivos del pecado y abrirá la prisión a los que están esclavizados por el miedo y encadenados por el mal. Que consolará a los afligidos y les otorgará la alegría de la salvación en lugar de la pena y la tristeza.
+> «Que curará a los que tienen el corazón destrozado, proclamará la libertad a los cautivos del pecado y abrirá la prisión a los que están esclavizados por el miedo y encadenados por el mal. Que consolará a los afligidos y les otorgará la alegría de la salvación en lugar de la pena y la tristeza.
 > 
 > «Que no destruirá a los débiles, sino que aportará la salvación a todos los que tienen hambre y sed de rectitud. Que los que creen en él tendrán la vida eterna». <a id="a86_164"></a>[LU 190:5.4](/es/The_Urantia_Book/190#p5_4)
 

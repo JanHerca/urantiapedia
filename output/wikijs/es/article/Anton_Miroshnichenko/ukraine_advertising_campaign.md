@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Ukraine-Promotion-1-300x225.jpg">
 </figure>
 
-En marzo de 2016, con la ayuda económica de donantes de la Asociación Urantia Internacional, y después de investigar un poco el mercado, la Asociación Urantia de Ucrania pudo comenzar la primera campaña publicitaria de El libro de Urantia en Ucrania. Como resultado, hemos colocado libros en la red de librerías llamada “BUKVA”. Hasta ahora, hemos:
+En marzo de 2016, con la ayuda económica de donantes de la Asociación Urantia Internacional, y después de investigar un poco el mercado, la Asociación Urantia de Ucrania pudo comenzar la primera campaña publicitaria de El libro de Urantia en Ucrania. Como resultado, hemos colocado libros en la red de librerías llamada «BUKVA». Hasta ahora, hemos:
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Ukraine-Promotion-4-300x400.jpg">

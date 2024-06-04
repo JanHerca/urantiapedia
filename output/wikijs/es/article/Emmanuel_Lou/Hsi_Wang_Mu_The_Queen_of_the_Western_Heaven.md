@@ -63,17 +63,17 @@ En las pinturas chinas, Hsi Wang suele representarse como una hermosa mujer vest
 
 (1) «Esta península mediterránea tenía un clima saludable y una temperatura uniforme; este clima estabilizado se debió a las montañas circundantes...» (<a id="a63_152"></a>[LU 73:3.3](/es/The_Urantia_Book/73#p3_3))
 
-> «La línea costera de esta masa de tierra estaba considerablemente elevada...» (<a id="a65_80"></a>[LU 73:3.4](/es/The_Urantia_Book/73#p3_4))
+> «La línea costera de esta masa de tierra estaba considerablemente elevada...» (<a id="a65_81"></a>[LU 73:3.4](/es/The_Urantia_Book/73#p3_4))
 
 (2) «Las montañas que rodeaban el Jardín abundaban en piedras y metales preciosos, aunque recibieron muy poca atención». (<a id="a67_122"></a>[LU 73:3.5](/es/The_Urantia_Book/73#p3_5))
 
 (3) «En ningún otro lugar había un lugar que pudiera haberse prestado tan perfectamente para convertirse en un paraíso de expresión botánica». (<a id="a69_144"></a>[LU 73:3.6](/es/The_Urantia_Book/73#p3_6))
 
-> «Aunque el trabajo de embellecimiento no estaba terminado del todo en el momento de la llegada de Adán, el lugar ya era una joya de belleza botánica; y durante los primeros días de su estancia en el Edén, todo el Jardín tomó una nueva forma y asumió nuevas proporciones de belleza y de esplendor». (<a id="a71_300"></a>[LU 73:5.8](/es/The_Urantia_Book/73#p5_8))
+> «Aunque el trabajo de embellecimiento no estaba terminado del todo en el momento de la llegada de Adán, el lugar ya era una joya de belleza botánica; y durante los primeros días de su estancia en el Edén, todo el Jardín tomó una nueva forma y asumió nuevas proporciones de belleza y de esplendor». (<a id="a71_301"></a>[LU 73:5.8](/es/The_Urantia_Book/73#p5_8))
 
 (4) «Sus sentidos especiales eran mucho más agudos, y podían ver a los intermedios y a las huestes angelicales, los Melquisedec...» (<a id="a73_133"></a>[LU 76:4.5](/es/The_Urantia_Book/76#p4_5))
 
-> «... los intermedios, pudiendo hacer tales cosas, transportaron a Adán y a Eva al templo del Padre». (<a id="a75_103"></a>[LU 74:4.4](/es/The_Urantia_Book/74#p4_4))
+> «... los intermedios, pudiendo hacer tales cosas, transportaron a Adán y a Eva al templo del Padre». (<a id="a75_104"></a>[LU 74:4.4](/es/The_Urantia_Book/74#p4_4))
 
 (5) «Año tras año, cientos de colonias de creyentes habían mantenido fielmente la cantidad necesaria de palomas criadas en sus hogares precísamente para esta ocasión». (<a id="a77_169"></a>[LU 74:2.3](/es/The_Urantia_Book/74#p2_3))
 
@@ -85,7 +85,7 @@ En las pinturas chinas, Hsi Wang suele representarse como una hermosa mujer vest
 
 (9) «En este encuentro (en el Jardín del Edén) se estaban reuniendo los creadores de la civilización de Urantia». (<a id="a85_115"></a>[LU 73:3.6](/es/The_Urantia_Book/73#p3_6)) ¿Esto recuerda a las seis razas de color Sangik más la raza violeta? (Ver página <a id="a85_239"></a>[LU 64:5.2](/es/The_Urantia_Book/64#p5_2))
 
-> «Amadón era el presidente de este comité, que estaba compuesto por los doce miembros siguientes: un representante de cada una de las seis razas sangiks; ...» (<a id="a87_160"></a>[LU 74:2.5](/es/The_Urantia_Book/74#p2_5))
+> «Amadón era el presidente de este comité, que estaba compuesto por los doce miembros siguientes: un representante de cada una de las seis razas sangiks; ...» (<a id="a87_161"></a>[LU 74:2.5](/es/The_Urantia_Book/74#p2_5))
 
 Los diez habitantes de los barcos de Hong Kong atesoran entre sus dioses domésticos un pergamino de la Reina del Cielo Occidental, y es en su grúa donde se montan en efigie a las hijas, que han muerto antes de alcanzar la madurez.
 
@@ -95,7 +95,7 @@ Las montañas K'un Lung no sólo se identifican con el Hindu Kush en Asia Centra
 
 Los primeros misioneros jesuitas identificaron a Hsi Wang Mu con la reina de Saba. Otro escritor occidental también la ha relacionado con la diosa romana Juno (Hera) y las manzanas doradas.
 
-Sabemos, gracias a _El Libro de URANTIA_, que la leyenda de la Reina del Cielo Occidental (Hsi Wang Mu) está cercana a la historia de Eva en el Edén. Hay demasiadas coincidencias. En <a id="a97_183"></a>[LU 79:7.1](/es/The_Urantia_Book/79#p7_1) leemos que los anditas entraron en cantidades considerables en China hace unos quince mil años. Además: “Pero las tradiciones anditas sobre la belleza del Edén y Dalamatia sí influyeron en las tradiciones chinas; Las primeras leyendas chinas sitúan «la tierra de los dioses» en el oeste. (<a id="a97_514"></a>[LU 79:7.4](/es/The_Urantia_Book/79#p7_4))
+Sabemos, gracias a _El Libro de URANTIA_, que la leyenda de la Reina del Cielo Occidental (Hsi Wang Mu) está cercana a la historia de Eva en el Edén. Hay demasiadas coincidencias. En <a id="a97_183"></a>[LU 79:7.1](/es/The_Urantia_Book/79#p7_1) leemos que los anditas entraron en cantidades considerables en China hace unos quince mil años. Además: «Pero las tradiciones anditas sobre la belleza del Edén y Dalamatia sí influyeron en las tradiciones chinas; Las primeras leyendas chinas sitúan «la tierra de los dioses» en el oeste. (<a id="a97_514"></a>[LU 79:7.4](/es/The_Urantia_Book/79#p7_4))
 
 Los primeros taoístas habían investigado mucho para identificar a Hsi Wang Mu. Lie Tseu, uno de los fundadores del taoísmo, situó la tierra de los inmortales en una isla en algún lugar de un país occidental... hay una pregunta que he tratado de resolver: ¿por qué la leyenda china ha enfatizado la historia de Eva y ha permanecido en silencio? Adán.
 

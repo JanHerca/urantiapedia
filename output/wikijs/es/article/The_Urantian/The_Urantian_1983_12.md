@@ -34,9 +34,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## El papel de la razón en la búsqueda de la voluntad del padre
 
-La oración es la forma más importante de descubrir la voluntad de Dios; pero encontrar la voluntad del Padre no es sólo cuestión de escucha, de apertura interior. ¿Qué más está involucrado? buscar la voluntad de Dios cae bajo las «leyes de las peticiones prevalecientes» establecidas en _El Libro de URANTIA_. La segunda de estas condiciones afirma: «_Tenéis que haber agotado honradamente todas las capacidades humanas de adaptación. Tenéis que haber sido laboriosos._» ([LU 91:9.3](/es/The_Urantia_Book/91#p9_3))
+La oración es la forma más importante de descubrir la voluntad de Dios; pero encontrar la voluntad del Padre no es sólo cuestión de escucha, de apertura interior. ¿Qué más está involucrado? buscar la voluntad de Dios cae bajo las «leyes de las peticiones prevalecientes» establecidas en _El Libro de URANTIA_. La segunda de estas condiciones afirma: «_Tenéis que haber agotado honradamente todas las capacidades humanas de adaptación. Tenéis que haber sido laboriosos._» (<a id="a36_472"></a>[LU 91:9.3](/es/The_Urantia_Book/91#p9_3))
 
-¿Qué significa ser laborioso al hacer ajustes humanos? Si estoy comprometido en buscar la voluntad del Padre, debo hacer lo mejor que pueda con todos los canales humanos relevantes de iluminación antes de poder esperar una revelación interior que aumente mis esfuerzos. La razón nos ayuda a discernir lo que debemos hacer; una de las tres realidades a las que nuestra mente responde intrínsecamente es: «_El deber —el ámbito de la realidad relacionado con la moral en el terreno filosófico, el campo de la razón, el reconocimiento del bien y del mal relativos. Es la forma juiciosa del discernimiento cósmico._» ([LU 16:6.7](/es/The_Urantia_Book/16#p6_7))
+¿Qué significa ser laborioso al hacer ajustes humanos? Si estoy comprometido en buscar la voluntad del Padre, debo hacer lo mejor que pueda con todos los canales humanos relevantes de iluminación antes de poder esperar una revelación interior que aumente mis esfuerzos. La razón nos ayuda a discernir lo que debemos hacer; una de las tres realidades a las que nuestra mente responde intrínsecamente es: «_El deber —el ámbito de la realidad relacionado con la moral en el terreno filosófico, el campo de la razón, el reconocimiento del bien y del mal relativos. Es la forma juiciosa del discernimiento cósmico._» (<a id="a38_613"></a>[LU 16:6.7](/es/The_Urantia_Book/16#p6_7))
 
 Entonces, una fase esencial de un proceso de oración responsable es el uso de la razón, que incluye sacar deducciones prácticas de los hechos, adquirir sabiduría grupal y examinar críticamente los pensamientos que surgen de nuestros momentos de oración.
 
@@ -58,7 +58,7 @@ _(Reimpreso de «Familia», Ascension Parish, Chicago, family mensual.)_
 
 > «_La razón, la sabiduría y la fe son los logros humanos más elevados del hombre. La razón introduce al hombre en el mundo de los hechos, en las cosas; la sabiduría le introduce en un mundo de verdad, en las relaciones; la fe lo inicia en un mundo de divinidad, de experiencia espiritual.»
 > 
-> «_La fe lleva de buena gana la razón hasta donde ésta puede llegar y luego continúa con la sabiduría hasta el límite filosófico total; y luego se atreve a emprender el viaje ilimitado e interminable del universo en única compañía de la VERDAD._» ([LU 103:9.6-7](/es/The_Urantia_Book/103#p9_6))
+> «_La fe lleva de buena gana la razón hasta donde ésta puede llegar y luego continúa con la sabiduría hasta el límite filosófico total; y luego se atreve a emprender el viaje ilimitado e interminable del universo en única compañía de la VERDAD._» (<a id="a60_249"></a>[LU 103:9.6-7](/es/The_Urantia_Book/103#p9_6))
 
 
 

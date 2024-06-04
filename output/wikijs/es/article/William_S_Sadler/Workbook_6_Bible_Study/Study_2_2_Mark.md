@@ -111,7 +111,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. Es realmente el Evangelio según las enseñanzas de Pedro y las tradiciones orales de la iglesia en Roma.
 3. Se completó poco después de la muerte de Pedro, cerca del final del año 68 d.C.
 4. El registro ha cambiado considerablemente. La última quinta parte del Evangelio original se perdió antes de que se copiara el primer manuscrito.
-	(Los hechos anteriores provienen del Libro de Urantia, <a id="s113_46"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1).)
+	(Los hechos anteriores provienen del Libro de Urantia, <a id="s113_56"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1).)
 5. Los eruditos creen que el libro fue escrito por Marcos en algún momento entre el 64 y el 85 d.C., tal vez alrededor del 75 d.C.
 
 **PREGUNTA**: ¿Cómo es que tan pocas experiencias personales de Mark llegaron a este disco?
@@ -124,17 +124,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## IV. Juan Marcos en El libro de Urantia
 
-1. Apareció por primera vez como el «muchacho de todas las tareas» asignado a los doce apóstoles. El Libro de Urantia, <a id="s126_95"></a>[LU 152:2.5](/es/The_Urantia_Book/152#p2_5).
-2. Marcos estaba sólo parcialmente convencido de la historia de Pedro acerca de caminar sobre el agua, por lo que omitió parte de su registro. <a id="s127_126"></a>[LU 152:4.4](/es/The_Urantia_Book/152#p4_4).
-3. Juan Marcos pasó un día entero a solas con Jesús en las colinas. <a id="s128_62"></a>[LU 177:1.1](/es/The_Urantia_Book/177#p1_1).
-4. Juan vigilaba atentamente a Jesús y a los doce. <a id="s129_53"></a>[LU 182:0.1](/es/The_Urantia_Book/182#p0_1).
-5. Juan cuidó a Jesús en la prensa de aceitunas, justo antes de su arresto. <a id="s130_71"></a>[LU 183:0.5](/es/The_Urantia_Book/183#p0_5).
-6. Juan perdió su abrigo a manos del soldado cuando escapó. <a id="s131_54"></a>[LU 183:3.9](/es/The_Urantia_Book/183#p3_9).
-7. Juan siguió a los apóstoles a Galilea después de la resurrección. <a id="s132_67"></a>[LU 192:0.4](/es/The_Urantia_Book/192#p0_4).
-8. Juan reconoció a Jesús a orillas del lago Galilea. <a id="s133_56"></a>[LU 192:1.4](/es/The_Urantia_Book/192#p1_4).
-9. Juan sirvió el desayuno a los apóstoles. <a id="s134_42"></a>[LU 192:1.8](/es/The_Urantia_Book/192#p1_8).
-10. Juan regresó a casa tras la repentina muerte de su padre, Elías Marcos. <a id="s135_73"></a>[LU 192:4.5](/es/The_Urantia_Book/192#p4_5).
-11. Juan salió a llamar a los apóstoles y a los principales discípulos para que se reunieran en la casa de su madre para la reunión de Pentecostés. <a id="s136_124"></a>[LU 193:6.1](/es/The_Urantia_Book/193#p6_1).
+1. Apareció por primera vez como el «muchacho de todas las tareas» asignado a los doce apóstoles. El Libro de Urantia, <a id="s126_119"></a>[LU 152:2.5](/es/The_Urantia_Book/152#p2_5).
+2. Marcos estaba sólo parcialmente convencido de la historia de Pedro acerca de caminar sobre el agua, por lo que omitió parte de su registro. <a id="s127_143"></a>[LU 152:4.4](/es/The_Urantia_Book/152#p4_4).
+3. Juan Marcos pasó un día entero a solas con Jesús en las colinas. <a id="s128_68"></a>[LU 177:1.1](/es/The_Urantia_Book/177#p1_1).
+4. Juan vigilaba atentamente a Jesús y a los doce. <a id="s129_51"></a>[LU 182:0.1](/es/The_Urantia_Book/182#p0_1).
+5. Juan cuidó a Jesús en la prensa de aceitunas, justo antes de su arresto. <a id="s130_76"></a>[LU 183:0.5](/es/The_Urantia_Book/183#p0_5).
+6. Juan perdió su abrigo a manos del soldado cuando escapó. <a id="s131_60"></a>[LU 183:3.9](/es/The_Urantia_Book/183#p3_9).
+7. Juan siguió a los apóstoles a Galilea después de la resurrección. <a id="s132_69"></a>[LU 192:0.4](/es/The_Urantia_Book/192#p0_4).
+8. Juan reconoció a Jesús a orillas del lago Galilea. <a id="s133_54"></a>[LU 192:1.4](/es/The_Urantia_Book/192#p1_4).
+9. Juan sirvió el desayuno a los apóstoles. <a id="s134_44"></a>[LU 192:1.8](/es/The_Urantia_Book/192#p1_8).
+10. Juan regresó a casa tras la repentina muerte de su padre, Elías Marcos. <a id="s135_76"></a>[LU 192:4.5](/es/The_Urantia_Book/192#p4_5).
+11. Juan salió a llamar a los apóstoles y a los principales discípulos para que se reunieran en la casa de su madre para la reunión de Pentecostés. <a id="s136_148"></a>[LU 193:6.1](/es/The_Urantia_Book/193#p6_1).
 
 ## V. La biografía de Marcos en el Nuevo Testamento
 

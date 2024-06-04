@@ -35,7 +35,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 
-«... la fe del hombre nacido del espíritu confiere la seguridad de una comunión viva con el Dios eterno». _El Libro de Urantia_ <a id="a13_128"></a>[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)
+«... la fe del hombre nacido del espíritu confiere la seguridad de una comunión viva con el Dios eterno». _El Libro de Urantia_ <a id="a37_128"></a>[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)
 
 **Por Michael Gillespie, Robin Robinson y Melissa Wells**
 
@@ -81,7 +81,7 @@ La lista continua. Estas conferencias, grupos de discusión y paneles son la cul
 
 El objetivo de la tarde es presentar un conjunto equilibrado de oportunidades. Habrá más grupos de discusión, enfatizando el tema del programa de conferencias de la mañana, así como una variedad de actividades familiares en el interior o al aire libre.
 
-«Hasta ahora hay más de 30 presentadores comprometidos para charlas y grupos de discusión», dice Lee Smith, coordinador de discusión. Los temas incluyen «Experimentar la filiación con Dios», «Estad quietos y sabed que yo soy Dios»: técnicas unificadoras de meditación”, «La enseñanza de Jesús sobre el Reino», «Los derechos del niño y la Convención de las Naciones Unidas», «Viaje al Plenitud: comprensión de las relaciones», «Fe: nuestra receptividad espiritual», «La psicología de la fe viva» y «21 pasos hacia un despertar espiritual».
+«Hasta ahora hay más de 30 presentadores comprometidos para charlas y grupos de discusión», dice Lee Smith, coordinador de discusión. Los temas incluyen «Experimentar la filiación con Dios», «Estad quietos y sabed que yo soy Dios»: técnicas unificadoras de meditación», «La enseñanza de Jesús sobre el Reino», «Los derechos del niño y la Convención de las Naciones Unidas», «Viaje al Plenitud: comprensión de las relaciones», «Fe: nuestra receptividad espiritual», «La psicología de la fe viva» y «21 pasos hacia un despertar espiritual».
 
 «Entonces, »quienquiera que quiera puede venir«, dice Smith. »Animamos su asistencia, su participación y el intercambio de su Fe Viva".
 

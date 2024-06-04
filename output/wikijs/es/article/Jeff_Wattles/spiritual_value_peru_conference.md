@@ -89,7 +89,7 @@ Los principios cósmicos están incluidos en la siguiente cita. A medida que lee
 > 
 > 3\. Amando a los hombres y deseando sinceramente servirles — el reconocimiento sincero de la fraternidad de los hombres, unido a un afecto inteligente y sabio por cada uno de vuestros semejantes mortales.
 > 
-> 4\. Aceptando alegremente la ciudadanía cósmica — el reconocimiento honrado de vuestras obligaciones progresivas hacia el Ser Supremo, la conciencia de la interdependencia del hombre evolutivo y de la Deidad en evolución. Es el nacimiento de la moralidad cósmica y la comprensión naciente del deber universal. <a id="a90_276"></a>[[LU 110:3.6-10](/es/The_Urantia_Book/110#p3_6)].
+> 4\. Aceptando alegremente la ciudadanía cósmica — el reconocimiento honrado de vuestras obligaciones progresivas hacia el Ser Supremo, la conciencia de la interdependencia del hombre evolutivo y de la Deidad en evolución. Es el nacimiento de la moralidad cósmica y la comprensión naciente del deber universal. <a id="a91_312"></a>[[LU 110:3.6-10](/es/The_Urantia_Book/110#p3_6)].
 
 ¿Qué significa _la interdependencia del hombre y del Ser Supremo_? _A medida que evolucionamos, estamos en el dominio del Ser Supremo, que está evolucionando con nosotros_. El Supremo es como el chef que hace una estupenda ensalada y que depende de que agricultores como nosotros proporcionen las verduras. El chef está incompleto sin los agricultores.
 

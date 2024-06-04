@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 «¿Qué es la Hermandad URANTIA? ¿Otra secta? Esta pregunta se la han formulado más de una vez al redactor de este informe. A esta pregunta siempre se ha dado una respuesta negativa: «No, la Hermandad Urantia no es ni una iglesia ni una secta. Es simplemente un grupo social que tiene un objetivo religioso».
 
-Hay un lugar real en la civilización moderna para un grupo de personas religiosas que están «_...dispuestas a despojarse por completo de toda autoridad eclesiástica, y a abandonar plenamente todo concepto de soberanía espiritual. Sólo Dios es el soberano espiritual._» ([LU 134:4.4](/es/The_Urantia_Book/134#p4_4)). El mundo moderno apenas necesita otra iglesia, otra secta. En la actualidad, sufrimos una plétora de iglesias y una multiplicación de sectas.
+Hay un lugar real en la civilización moderna para un grupo de personas religiosas que están «_...dispuestas a despojarse por completo de toda autoridad eclesiástica, y a abandonar plenamente todo concepto de soberanía espiritual. Sólo Dios es el soberano espiritual._» (<a id="a38_270"></a>[LU 134:4.4](/es/The_Urantia_Book/134#p4_4)). El mundo moderno apenas necesita otra iglesia, otra secta. En la actualidad, sufrimos una plétora de iglesias y una multiplicación de sectas.
 
 Pero, si no somos una iglesia, ¿en qué nos diferenciamos de una iglesia? Si podemos ver claramente en qué nos diferenciamos, entonces tal vez podamos mantener dichas diferencias. Y, si podemos mantener estas diferencias, entonces podremos preservar nuestra organización como una Hermandad distintiva; tal vez podamos evitar una posible evolución en dirección a una iglesia.
 
@@ -93,7 +93,7 @@ No conozco ninguna organización humana que, en realidad, haya puesto al individ
 
 Es una experiencia gozosa aprender de las declaraciones del Libro de URANTIA que Dios está interesado en cada uno de nosotros de manera personal e individual. Su antena llega a todos y cada uno de nosotros. Debemos ser conscientes de este hecho en nuestra existencia diaria, viviendo cada momento como si estuvieramos en Su presencia. Qué emocionante saber que nuestra relación mutua tiene valor de supervivencia. Una de mis citas favoritas de _El Libro de URANTIA_ es sobre LU 112:5.22.
 
-«...Pero la personalidad y las relaciones entre personalidades nunca son andamiajes; la memoria mortal de las relaciones entre personalidades tiene un valor cósmico y sobrevivirá. En los mundos de las mansiones conoceréis y seréis conocidos, y aún más, recordaréis a, y seréis recordados por, vuestros antiguos asociados en la corta pero misteriosa vida en Urantia». [LU 112:5.22](/es/The_Urantia_Book/112#p5_22)
+«...Pero la personalidad y las relaciones entre personalidades nunca son andamiajes; la memoria mortal de las relaciones entre personalidades tiene un valor cósmico y sobrevivirá. En los mundos de las mansiones conoceréis y seréis conocidos, y aún más, recordaréis a, y seréis recordados por, vuestros antiguos asociados en la corta pero misteriosa vida en Urantia». <a id="a95_367"></a>[LU 112:5.22](/es/The_Urantia_Book/112#p5_22)
 
 —_Christy_
 
@@ -139,7 +139,7 @@ Gracias por todo el amor que nos has brindado y la fuerza que recorre nuestra fa
 
 Amar...
 
-> «_Todos los hombres son mis hermanos. Mi Padre celestial no desprecia a ninguna de las criaturas que hemos hecho. El reino de los cielos está abierto a todos los hombres y a todas las mujeres. Nadie puede cerrar la puerta de la misericordia en la cara de un alma hambrienta que está intentando entrar. Nos sentaremos a comer con todos los que deseen oír hablar del reino. ... La puerta del reino está abierta de par en par para todos los que deseen conocer la verdad y encontrar a Dios»._» ([LU 138:4.2](/es/The_Urantia_Book/138#p4_2))
+> «_Todos los hombres son mis hermanos. Mi Padre celestial no desprecia a ninguna de las criaturas que hemos hecho. El reino de los cielos está abierto a todos los hombres y a todas las mujeres. Nadie puede cerrar la puerta de la misericordia en la cara de un alma hambrienta que está intentando entrar. Nos sentaremos a comer con todos los que deseen oír hablar del reino. ... La puerta del reino está abierta de par en par para todos los que deseen conocer la verdad y encontrar a Dios»._» (<a id="a141_493"></a>[LU 138:4.2](/es/The_Urantia_Book/138#p4_2))
 
 
 

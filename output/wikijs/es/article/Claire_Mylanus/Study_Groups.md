@@ -38,19 +38,19 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_03/036.jpg">
 </figure>
 
-“En cada ocasión es una bendición y un privilegio estar juntos”
+«En cada ocasión es una bendición y un privilegio estar juntos»
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_03/031.jpg">
 </figure>
 
-“Un grupo de estudio trata sobre intercambios entre personalidades"
+«Un grupo de estudio trata sobre intercambios entre personalidades»
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_03/030.jpg">
 </figure>
 
-“Debido a que cada persona es única y diferente, cada grupo de estudio es diferente”
+«Debido a que cada persona es única y diferente, cada grupo de estudio es diferente»
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2008_03/029.jpg">

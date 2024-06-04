@@ -83,7 +83,7 @@ La siguiente es una modificación de las pautas del Center for Attitudinal Heali
 9. Toda la información compartida en grupo es confidencial.
 10. Estamos de acuerdo en tener presente que siempre tenemos la posibilidad de aspirar a la paz en lugar del conflicto, apoyar el amor en lugar del miedo.
 
-> «_La idealización de la verdad, la belleza y la bondad, y el intento de servirlas, no son un sustituto de la experiencia religiosa auténtica —la realidad espiritual._» ([LU 196:3.23](/es/The_Urantia_Book/196#p3_23))
+> «_La idealización de la verdad, la belleza y la bondad, y el intento de servirlas, no son un sustituto de la experiencia religiosa auténtica —la realidad espiritual._» (<a id="a85_171"></a>[LU 196:3.23](/es/The_Urantia_Book/196#p3_23))
 
 
 

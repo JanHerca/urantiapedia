@@ -46,13 +46,13 @@ Hay muchos años escolares en esta definición. En estos años de crecimiento, h
 
 Hay años de matrimonio y paternidad en esta definición. La belleza ahora ha experimentado el contraste y está creciendo cada vez más hacia adentro y ¡a veces duele! Y hay un acudir a Dios en busca de ayuda.
 
-Cuando _El Libro de URANTIA_ llegó a mi vida, empezaron a suceder cosas extrañas y abrumadoras. Hubo momentos en los que podía definir cualquier cosa con claridad y precisión, particularmente la belleza acompañada de verdad y bondad. Fueron ocho de estos años y ahora los llamo mis años de turbulencia. «_Muchos nacimientos espirituales van acompañados de una gran angustia espiritual y de perturbaciones psicológicas acentuadas..._» ([LU 103:2.1](/es/The_Urantia_Book/103#p2_1))
+Cuando _El Libro de URANTIA_ llegó a mi vida, empezaron a suceder cosas extrañas y abrumadoras. Hubo momentos en los que podía definir cualquier cosa con claridad y precisión, particularmente la belleza acompañada de verdad y bondad. Fueron ocho de estos años y ahora los llamo mis años de turbulencia. «_Muchos nacimientos espirituales van acompañados de una gran angustia espiritual y de perturbaciones psicológicas acentuadas..._» (<a id="a48_435"></a>[LU 103:2.1](/es/The_Urantia_Book/103#p2_1))
 
-Después de estos años intensos miré la cualidad de la sencillez con sincero anhelo. Con Jesús, la belleza era un complemento para enseñar a los niños a adorar. Él había dicho: «_La belleza es más religiosa cuando es más simple y natural._» ([LU 167:6.6](/es/The_Urantia_Book/167#p6_6))
+Después de estos años intensos miré la cualidad de la sencillez con sincero anhelo. Con Jesús, la belleza era un complemento para enseñar a los niños a adorar. Él había dicho: «_La belleza es más religiosa cuando es más simple y natural._» (<a id="a50_241"></a>[LU 167:6.6](/es/The_Urantia_Book/167#p6_6))
 
 Ahora la belleza ha incorporado el hambre de Dios, el deseo de ser como él.
 
-> «_Por mucho que pueda crecer vuestra comprensión del Padre, vuestra mente se tambaleará siempre ante la infinidad no revelada del Padre-YO SOY, una infinidad cuya inmensidad sin explorar permanecerá siempre insondable e incomprensible durante todos los ciclos de la eternidad. Por mucha parte de Dios que podáis alcanzar, siempre habrá una parte mucho más grande de él que ni siquiera sospecharéis que existía. Y creemos que esto es tan cierto en los niveles trascendentales como en el ámbito de la existencia finita. ¡La búsqueda de Dios no tiene fin!_» ([LU 106:7.5](/es/The_Urantia_Book/106#p7_5))
+> «_Por mucho que pueda crecer vuestra comprensión del Padre, vuestra mente se tambaleará siempre ante la infinidad no revelada del Padre-YO SOY, una infinidad cuya inmensidad sin explorar permanecerá siempre insondable e incomprensible durante todos los ciclos de la eternidad. Por mucha parte de Dios que podáis alcanzar, siempre habrá una parte mucho más grande de él que ni siquiera sospecharéis que existía. Y creemos que esto es tan cierto en los niveles trascendentales como en el ámbito de la existencia finita. ¡La búsqueda de Dios no tiene fin!_» (<a id="a54_558"></a>[LU 106:7.5](/es/The_Urantia_Book/106#p7_5))
 
 Esto es belleza.
 

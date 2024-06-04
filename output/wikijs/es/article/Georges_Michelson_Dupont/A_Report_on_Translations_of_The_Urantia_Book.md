@@ -92,7 +92,7 @@ El primer paso con Déjà Vu fue crear unas listas exhaustivas de términos ingl
 
   Además, se incluye el significado (si es posible), el nombre griego (si es necesario), referencias de la Biblia y de _El libro de Urantia_ y referencias a otras fuentes: [https://en.wikipedia.org/wiki/Agni](https://en.wikipedia.org/wiki/Agni).
 
-Estas listas de términos son necesarias para los traductores y excelentes herramientas de estudio para los expertos y estudiantes de _El libro de Urantia_. Estas listas hacen un total de 1.351 términos. Cuando la traducción de estas listas esté completa y cargada en Déjà Vu, los traductores y revisores ya no tendrán que preocuparse por estos términos porque “aparecerán” automáticamente cuando el traductor esté trabajando en el sistema informático. Esto asegura un uso coherente de los términos a lo largo de todo el texto.
+Estas listas de términos son necesarias para los traductores y excelentes herramientas de estudio para los expertos y estudiantes de _El libro de Urantia_. Estas listas hacen un total de 1.351 términos. Cuando la traducción de estas listas esté completa y cargada en Déjà Vu, los traductores y revisores ya no tendrán que preocuparse por estos términos porque «aparecerán» automáticamente cuando el traductor esté trabajando en el sistema informático. Esto asegura un uso coherente de los términos a lo largo de todo el texto.
 
 Hasta la fecha, las listas de términos se han completado y cargado en Déjà Vu para la traducción al francés y para la traducción en formato simplificado al chino.
 
@@ -119,7 +119,7 @@ Hasta la fecha, las listas de términos se han completado y cargado en Déjà Vu
 
 - **Traducción al danés**
 
-  El traductor es Jean Ascher, también conocido como “Yourantiaman”. Jean está trabajando en el primer borrador de la traducción al danés y está casi terminado. Solo le quedan siete documentos y tres documentos más que necesitan revisión. Trabaja solo y le gustaría mucho que algún lector de lengua danesa del libro le enviara algún comentario. Si usted es esa persona (o si conoce a alguien), contacte con Tamara Strumfeld en [tamara@urantia.org](mailto:tamara@urantia.org).
+  El traductor es Jean Ascher, también conocido como «Yourantiaman». Jean está trabajando en el primer borrador de la traducción al danés y está casi terminado. Solo le quedan siete documentos y tres documentos más que necesitan revisión. Trabaja solo y le gustaría mucho que algún lector de lengua danesa del libro le enviara algún comentario. Si usted es esa persona (o si conoce a alguien), contacte con Tamara Strumfeld en [tamara@urantia.org](mailto:tamara@urantia.org).
 
   Jean ha hecho mucho para preparar el camino a su traducción. Coloca libros del texto en inglés en las bibliotecas más importantes de Dinamarca. Da libros a personas de diferentes oficios y profesiones, y a veces escribe artículos para medios de comunicación.
 
@@ -132,9 +132,9 @@ Hasta la fecha, las listas de términos se han completado y cargado en Déjà Vu
 
 - **Traducción al parsi**
 
-  El traductor ha escrito lo siguiente: “Mi nombre es Hamid Mazdeh. Nací en Irán y procedo de un entorno musulmán. A primeros de los 90, una doctora iraní me presentó _El libro de Urantia_. Me habló sobre el libro con tal amor, respeto y entusiasmo que sentí fascinación por él. Pronto el libro se convirtió en una parte central de mi vida, y como resultado mis puntos de vista filosóficos se vieron influidos y transformados enormemente por sus enseñanzas. Algún tiempo después, supe que solo un puñado de iraníes conocía este asombroso libro y que ninguno había tomado la iniciativa de traducirlo al parsi. Así que decidí convertirme en esa persona especial que llevaría este libro que transforma nuestra vida a los hablantes de parsi de todo el mundo.
+  El traductor ha escrito lo siguiente: «Mi nombre es Hamid Mazdeh. Nací en Irán y procedo de un entorno musulmán. A primeros de los 90, una doctora iraní me presentó _El libro de Urantia_. Me habló sobre el libro con tal amor, respeto y entusiasmo que sentí fascinación por él. Pronto el libro se convirtió en una parte central de mi vida, y como resultado mis puntos de vista filosóficos se vieron influidos y transformados enormemente por sus enseñanzas. Algún tiempo después, supe que solo un puñado de iraníes conocía este asombroso libro y que ninguno había tomado la iniciativa de traducirlo al parsi. Así que decidí convertirme en esa persona especial que llevaría este libro que transforma nuestra vida a los hablantes de parsi de todo el mundo.
 
-  “Hasta ahora he traducido un 63% del libro. Puesto que no podía esperar a que el libro se publicara oficialmente, comencé a enviar mi traducción provisional en Internet y a citarla en Facebook. Como resultado, de solo un puñado de iraníes que sabían de E_l libro de Urantia_ se pasó a tener decenas de miles de iraníes que han leído mi traducción y que se han inspirado enormemente por ella. He recibido mensajes de correo de cientos de personas que aprecian mi trabajo.”
+  «Hasta ahora he traducido un 63% del libro. Puesto que no podía esperar a que el libro se publicara oficialmente, comencé a enviar mi traducción provisional en Internet y a citarla en Facebook. Como resultado, de solo un puñado de iraníes que sabían de E_l libro de Urantia_ se pasó a tener decenas de miles de iraníes que han leído mi traducción y que se han inspirado enormemente por ella. He recibido mensajes de correo de cientos de personas que aprecian mi trabajo.»
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_09/012.jpg">
@@ -147,11 +147,11 @@ Hasta la fecha, las listas de términos se han completado y cargado en Déjà Vu
 
 - **Traducción al hebreo**
 
-  El traductor, Gabriel Rymberg, ha escrito lo siguiente: “La traducción al hebreo ha entrado en su quinto año. Actualmente estoy trabajando en el primer borrador del Documento 147, y mi corrector está revisando el Documento 90. Se está avanzando de acuerdo a lo planeado.
+  El traductor, Gabriel Rymberg, ha escrito lo siguiente: «La traducción al hebreo ha entrado en su quinto año. Actualmente estoy trabajando en el primer borrador del Documento 147, y mi corrector está revisando el Documento 90. Se está avanzando de acuerdo a lo planeado.
 
-  “¡Esperamos con ilusión cargar la traducción a Déjà Vu! Hará más fácil nuestra vida como traductores.”
+  «¡Esperamos con ilusión cargar la traducción a Déjà Vu! Hará más fácil nuestra vida como traductores.»
 
-  “¡Por favor, téngannos presentes en sus oraciones!”
+  «¡Por favor, téngannos presentes en sus oraciones!»
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_09/013.jpg">

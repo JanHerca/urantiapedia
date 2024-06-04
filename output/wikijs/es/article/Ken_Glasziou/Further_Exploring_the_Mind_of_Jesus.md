@@ -53,7 +53,7 @@ Nuestra cita de <a id="a49_16"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1) i
 
 Ha habido muchas vidas maravillosas vividas en los últimos 2000 años por hombres y mujeres que realmente descubrieron el significado de «vivir como vivió Jesús». Entonces, ¿qué fue lo que descubrieron en los Evangelios que actuó tan singularmente como su luz guía?
 
-Junto con los primeros cristianos, probablemente todos estaban conscientes de que el Espíritu del Padre moraba en nosotros, a lo que Pablo y Juan se refieren con mayor frecuencia en versículos como «No sabéis que sois el templo de Dios, que el Espíritu de Dios habita en vosotros» ([1 Cor. 3:16](/es/Bible/1_Corinthians/3#v16”)) y «si nos amamos unos a otros, Dios habita en nosotros, y su amor se perfecciona en nosotros.» ([1 Juan 4:12](/es/Bible/1_John/4#v12))
+Junto con los primeros cristianos, probablemente todos estaban conscientes de que el Espíritu del Padre moraba en nosotros, a lo que Pablo y Juan se refieren con mayor frecuencia en versículos como «No sabéis que sois el templo de Dios, que el Espíritu de Dios habita en vosotros» ([1 Cor. 3:16](/es/Bible/1_Corinthians/3#v16)) y «si nos amamos unos a otros, Dios habita en nosotros, y su amor se perfecciona en nosotros.» ([1 Juan 4:12](/es/Bible/1_John/4#v12))
 
 Pero su principal fuente de comprensión de la mente de Jesús casi con seguridad tenía su base en el «Sermón de la Montaña», tal como se presenta en el Evangelio de Mateo, además de algunas parábolas sencillas que Jesús usó con tanta pericia.
 

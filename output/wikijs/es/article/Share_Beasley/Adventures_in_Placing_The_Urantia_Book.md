@@ -64,7 +64,7 @@ En mi segunda visita, aprendí a llamar primero a la librería para asegurarme d
 
 La librería perfecta, pensé, especializada en libros de geología, bioquímica, astronomía, antropología, física, historia y religión. Pensé que estarían encantados de añadir _El libro de Urantia_ a sus ofertas. ¡El encaje perfecto!
 
-A primera vista, estaba en lo cierto. La propietaria tomó el libro, lo miró con aparente interés y después recorrió el índice de materias. Cuando llegó a la parte IV, ¡pam!, me lo lanzó de vuelta y de entregó a una palabrota de dos palabras en la que “Jesús” era la segunda palabra. Esta mujer todavía no conocía al Maestro, y con evidente orgullo anunció: “soy budista”. Entonces procedió a darme un sermón de “mal cristiano” y repitió de manera odiosa: “VÁYASE”. Mmmm, ella decía ser budista. ¡Vaya un recordatorio de que representamos nuestra religión personal en todo lo que hacemos!
+A primera vista, estaba en lo cierto. La propietaria tomó el libro, lo miró con aparente interés y después recorrió el índice de materias. Cuando llegó a la parte IV, ¡pam!, me lo lanzó de vuelta y de entregó a una palabrota de dos palabras en la que «Jesús» era la segunda palabra. Esta mujer todavía no conocía al Maestro, y con evidente orgullo anunció: «soy budista». Entonces procedió a darme un sermón de «mal cristiano» y repitió de manera odiosa: «VÁYASE». Mmmm, ella decía ser budista. ¡Vaya un recordatorio de que representamos nuestra religión personal en todo lo que hacemos!
 
 Lo siguiente fue un paraíso del lector amistoso y profesional: una enorme tienda con un café, coleccionables, arte y libros nuevos y usados. Organizaban presentaciones de autores, grabadas para ver en línea en el sitio web de la librería. Me rondaba por la cabeza la idea de que profesionales de nuestra comunidad dieran aquí una visión general de _El libro de Urantia_.
 
@@ -96,7 +96,7 @@ La última librería que visité fue una tienda en un centro comercial donde ven
 
 - Tres bibliotecas lo rechazaron debido a limitaciones de espacio.
 - Dos lo rechazaron debido al recelo de bibliotecarios cristianos.
-- ¡Tres lo aceptaron! “El acto es nuestro; las consecuencias, de Dios”.
+- ¡Tres lo aceptaron! «El acto es nuestro; las consecuencias, de Dios».
 
 Reflexiono sobre los efectos exponenciales que _El libro de Urantia_ ha tenido en mi vida y tengo una idea de cómo habría sido mi vida sin él. Siempre llevo conmigo un Libro de Urantia extra, pues nunca sé cuándo puede surgir la oportunidad de causar impacto en una vida… y surge.
 

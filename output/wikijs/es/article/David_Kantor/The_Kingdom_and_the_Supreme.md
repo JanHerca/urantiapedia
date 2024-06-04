@@ -214,9 +214,9 @@ La quinta revelación de época ilumina las implicaciones de la ciudadanía cós
 
 Considere las siguientes citas juntas: El reino de los cielos «... _es una relación espiritual entre Dios y el hombre._» <a id="a214_121"></a>[[LU 134:4.2](/es/The_Urantia_Book/134#p4_2)];
 
-El supremo "... _es la personificación de la experiencia del Creador y la criatura._” <a id="a216_86"></a>[[LU 117:1.1](/es/The_Urantia_Book/117#p1_1)]
+El supremo «... _es la personificación de la experiencia del Creador y la criatura._» <a id="a216_86"></a>[[LU 117:1.1](/es/The_Urantia_Book/117#p1_1)]
 
-Y estos: "... _donde el espíritu de Dios enseña y dirige el alma del hombre, allí está en realidad el reino de los cielos._” <a id="a218_125"></a>[[LU 137:8.9](/es/The_Urantia_Book/137#p8_9)] El Supremo «... _es la gran avenida por la que las criaturas finitas pasan hacia el interior en busca del Padre, que es amor._» <a id="a218_299"></a>[[LU 117:6.3](/es/The_Urantia_Book/117#p6_3)]
+Y estos: «... _donde el espíritu de Dios enseña y dirige el alma del hombre, allí está en realidad el reino de los cielos._» <a id="a218_125"></a>[[LU 137:8.9](/es/The_Urantia_Book/137#p8_9)] El Supremo «... _es la gran avenida por la que las criaturas finitas pasan hacia el interior en busca del Padre, que es amor._» <a id="a218_299"></a>[[LU 117:6.3](/es/The_Urantia_Book/117#p6_3)]
 
 Así como estos:
 

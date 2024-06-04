@@ -70,7 +70,7 @@ Jesús había venido «**para establecer y demostrar un estándar de vida humana
 
 \[**Nota**: Vivir como vivió Jesús debe comenzar **en el hogar o, al menos, entre quienes nos conocen mejor**. Intentar vivir como vivió Jesús solo cuando nos mudamos fuera del hogar anuncia que en realidad estamos **actuando**. Y otros pronto reconocerán que nuestro acto es una farsa, una mentira. Jesús no estaba enamorado de la hipocresía.\]
 
-> Y le dije a un hombre que estaba en la puerta del año: 'Dame una luz para que pueda caminar con seguridad hacia lo desconocido.' Y él respondió: 'Sal a la oscuridad y pon tu mano en la mano de Dios. Eso debería ser, para ti, mejor que una luz y más seguro que un camino conocido”.
+> Y le dije a un hombre que estaba en la puerta del año: «Dame una luz para que pueda caminar con seguridad hacia lo desconocido.» Y él respondió: «Sal a la oscuridad y pon tu mano en la mano de Dios. Eso debería ser, para ti, mejor que una luz y más seguro que un camino conocido».
 > _Minnie Louise Haskins, «El desierto»_
 
 > Me paré sobre esa colina silenciosa

@@ -35,7 +35,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 6. En otro lugar ( [Ro 6:19](/es/Bible/Romans/6#v19)) Pablo recuerda a sus lectores que: «Hablo en términos humanos, a causa de vuestras limitaciones naturales.»
 7. Las contradicciones textuales y otras diferencias nos hacen imposible creer en la inspiración **verbal**.
 8. Jesús citó con frecuencia las Escrituras, pero nunca aludió a que fueran inspiradas. Nunca llamó a las Escrituras la **palabra de Dios**.
-9. La visión de Jesús sobre las Escrituras se expresa en su memorable conversación con Natanael. Véase El Libro de Urantia, <a id="s36_102"></a>[LU 159:4.1](/es/The_Urantia_Book/159#p4_1)
+9. La visión de Jesús sobre las Escrituras se expresa en su memorable conversación con Natanael. Véase El Libro de Urantia, <a id="s37_124"></a>[LU 159:4.1](/es/The_Urantia_Book/159#p4_1)
 10. La interpretación de las Escrituras:
 	- a. **Visión católica**: La iglesia, y sólo la iglesia, puede verdaderamente interpretar la Biblia. Y cuando la iglesia funciona así, la interpretación es **infalible**.
 	- b. **Punto de vista protestante**: Los protestantes afirman que cualquier individuo, con la ayuda del Espíritu Santo, puede interpretar la Biblia.
@@ -46,7 +46,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. **La Encarnación** es el corazón teológico del cristianismo, y la Biblia sostiene esta doctrina.
 2. «Y el Verbo se hizo carne y habitó entre nosotros». [Jn 1:14](/es/Bible/John/1#v14). Este es el tema principal de toda la enseñanza del Nuevo Testamento.
 3. Naturalmente, el siguiente paso es la proclamación: «No hay otro nombre bajo el cielo, dado a los hombres, en el que podamos ser salvos». [Hch 4:12](/es/Bible/Acts_of_the_Apostles/4#v12).
-4. Si bien el Libro de Urantia valida la encarnación, declara que el evangelio del reino es «la paternidad de Dios y la hermandad del hombre». <a id="s47_149"></a>[LU 194:4.4](/es/El_Libro_de_Urantia/194#p4_4)
+4. Si bien el Libro de Urantia valida la encarnación, declara que el evangelio del reino es «la paternidad de Dios y la hermandad del hombre». [LU 194:4.4](/es/El_Libro_de_Urantia/194#p4_4)
 5. En Antioquía enfatizaron la humanidad de Jesús; en Alejandría, la divinidad del Maestro.
 6. [El docetismo](https://en.wikipedia.org/wiki/Docetism) enseñó que la humanidad de Jesús no era más que «aparente», una especie de fantasma.
 7. La Biblia podría considerarse como una encarnación: una unión de lo humano y lo divino.
@@ -84,11 +84,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 17. El reconocimiento de la falibilidad de las Escrituras en el siglo XX los está uniendo.
 18. Pero esto no significa que cada individuo deba erigirse en el único intérprete de las Escrituras.
 19. Debemos mirar críticamente la Biblia cuando contradice los hechos de la naturaleza, como la enseñanza de que la Tierra es plana. (Esto no tiene nada que ver con milagros genuinos).
-20. También se debe cuestionar el simbolismo, como la historia de <a id="s85_58"></a>[Jonás y la ballena](/es/The_Urantia_Book/130#p1_2).
+20. También se debe cuestionar el simbolismo, como la historia de <a id="s86_66"></a>[Jonás y la ballena](/es/The_Urantia_Book/130#p1_2).
 21. Nunca olvides el hecho de la «evolución de la revelación». Recuerde también que ha habido retrocesos.
 22. No se dejen engañar por las ambigüedades de la Biblia o por sus alegorías, tales como interpretar el voluptuoso Cantar de los Cantares como representación del amor de Cristo por su iglesia.
 23. Y no aceptes todas las enseñanzas apostólicas como enseñanza de Cristo.
-24. La información errónea sobre las enseñanzas de Jesús se muestra en el registro que se encuentra en [Mt 24](/es/Bible/Matthew/24). Véase El Libro de Urantia, <a id="s89_129"></a>[LU 176:0.1](/es/The_Urantia_Book/176#p0_1).
+24. La información errónea sobre las enseñanzas de Jesús se muestra en el registro que se encuentra en [Mt 24](/es/Bible/Matthew/24). Véase El Libro de Urantia, <a id="s90_161"></a>[LU 176:0.1](/es/The_Urantia_Book/176#p0_1).
 25. Ciertas porciones de la Biblia han tenido un origen no judío. Tenga en cuenta lo siguiente:
 	- [Is 16, 17](/es/Bible/Isaiah/16). De una elegía moabita.
 	- [Sal 104](/es/Bible/Psalms/104). Himno solar de Ikhnaton.
@@ -102,7 +102,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. En [Flp. 2:16](/es/Bible/Philippians/2#v16), llamada «la palabra de vida». En [Col 1:5](/es/Bible/Colossians/1#v5), llamada «la palabra de la verdad».
 4. El evangelio de Juan se refiere a Cristo como «la palabra». Ver [Jn 1:1](/es/Bible/John/1#v1). «En el principio era el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios.»
 5. Y hablando de la encarnación, Juan dice: «Y el Verbo se hizo carne y habitó entre nosotros». [Jn 1:14](/es/Bible/John/1#v14).
-6. El Libro de Urantia habla del Hijo Eterno como «la palabra viva y divina». <a id="s103_79"></a>[LU 6:0.1](/es/The_Urantia_Book/6#p0_1)
+6. El Libro de Urantia habla del Hijo Eterno como «la palabra viva y divina». <a id="s104_78"></a>[LU 6:0.1](/es/The_Urantia_Book/6#p0_1)
 7. Estrictamente hablando, la Biblia no debería llamarse la palabra de Dios. En la medida en que Dios pueda estar hablando en la Biblia y a través de ella, sería calificadamente la palabra divina.
 8. Fue en este sentido que se habló de la Revelación Urantia como del «Palabra hecha Libro».
 

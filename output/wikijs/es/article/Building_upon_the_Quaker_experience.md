@@ -50,7 +50,7 @@ Estos versículos conducen fácilmente a una mentalidad de exclusividad: «Yo te
 > Y la eternidad en una hora.
 > &nbsp; &nbsp; &nbsp; _Blake_
 
-Los Documentos de Urantia reiteran que el evangelio de Jesús era para todos los hombres, que él quería «hacer a todos los hombres semejantes a Dios» (<a id="a52_150"></a>[LU 140:8.18](/es/The_Urantia_Book/140#p8_18)); que quería que sus hijos en la Tierra vivieran como si ya fueran ciudadanos del reino celestial completo" (<a id="a52_305"></a>[LU 140:8.25](/es/The_Urantia_Book/140#p8_25)); y que "él estaba preocupado únicamente por los principios de la vida espiritual interna y personal del hombre” (<a id="a52_465"></a>[LU 140:8.31](/es/The_Urantia_Book/140#p8_31))
+Los Documentos de Urantia reiteran que «el evangelio de Jesús era para todos los hombres, que él quería «hacer a todos los hombres semejantes a Dios» (<a id="a52_151"></a>[LU 140:8.18](/es/The_Urantia_Book/140#p8_18)); «que quería que sus hijos en la Tierra vivieran como si ya fueran ciudadanos del reino celestial completo» (<a id="a52_307"></a>[LU 140:8.25](/es/The_Urantia_Book/140#p8_25)); y que «él estaba preocupado únicamente por los principios de la vida espiritual interna y personal del hombre» (<a id="a52_467"></a>[LU 140:8.31](/es/The_Urantia_Book/140#p8_31))
 
 Los Documentos también enfatizan que nuestra espiritualidad fue la preocupación dominante en la vida de Jesús.
 

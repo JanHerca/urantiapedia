@@ -40,7 +40,7 @@ _De Dorothy Elder, presidenta de la Junta de Directores de la UBIS, California (
 
 **REUNIÓN DE LA JUNTA DE LA UBIS DEL 14 AL 15 DE MARZO DE 2009**
 
-Tras dos meses de planificación y preparación en profundidad, siete de los nueve miembros de la Junta de Directores de la UBIS se reunió en marzo en Chicago en la sede de la Fundación Urantia para nuestra reunión “presencial” anual. Esta fue una reunión importante, en la que establecimos las bases y los objetivos de los próximos diez años. Cubrimos muchos temas básicos durante los dos días de la reunión, pero centramos la atención en estas tres áreas:
+Tras dos meses de planificación y preparación en profundidad, siete de los nueve miembros de la Junta de Directores de la UBIS se reunió en marzo en Chicago en la sede de la Fundación Urantia para nuestra reunión «presencial» anual. Esta fue una reunión importante, en la que establecimos las bases y los objetivos de los próximos diez años. Cubrimos muchos temas básicos durante los dos días de la reunión, pero centramos la atención en estas tres áreas:
 
 1. Currículum. Polly Friedman presentó un plan excelente y detallado para un programa de Currículum Central Básico en cuatro partes iniciado por la UBIS. Tras mucha discusión entusiasta, el plan fue adoptado con ilusión; la implementación del plan se ha establecido para el semestre de septiembre de 2010.
 2. Sitio web. A primeros de 2009, la UBIS recibió una donación generosa para ampliar su sitio web. Tras un examen detallado de las opciones en preparación para la reunión, y tras la consiguiente discusión en la reunión, se decidieron cuatro actualizaciones prioritarias. La propuesta de actualización se está terminando actualmente con aportaciones adicionales del diseñador, y la fecha de finalización del trabajo se ha establecido para el semestre de septiembre de 2009.
@@ -48,7 +48,7 @@ Tras dos meses de planificación y preparación en profundidad, siete de los nue
 
 **OTRAS NOTICIAS DIGNAS DE MENCIÓN**
 
-El semestre de abril de 2009 está actualmente en marcha, y por primera vez la UBIS presenta un curso diseñado como un curso introductorio para nuevos lectores. Polly Friedman es la profesora-facilitadora de este curso, titulado “Una introducción a _El libro de Urantia_”. Esto culmina un año de consideración y discusión del equipo de la UBIS respecto a este tema, y estamos entusiasmados con su potencial y como experiencia de aprendizaje. A este curso se apuntaron 18 estudiantes, que incluyen tanto lectores nuevos como experimentados de Rusia, Brasil, Sudáfrica y España, así como lectores de los EEUU.
+El semestre de abril de 2009 está actualmente en marcha, y por primera vez la UBIS presenta un curso diseñado como un curso introductorio para nuevos lectores. Polly Friedman es la profesora-facilitadora de este curso, titulado «Una introducción a _El libro de Urantia_». Esto culmina un año de consideración y discusión del equipo de la UBIS respecto a este tema, y estamos entusiasmados con su potencial y como experiencia de aprendizaje. A este curso se apuntaron 18 estudiantes, que incluyen tanto lectores nuevos como experimentados de Rusia, Brasil, Sudáfrica y España, así como lectores de los EEUU.
 
 **¡GRACIAS AL EQUIPO!**
 
@@ -57,7 +57,7 @@ El semestre de abril de 2009 está actualmente en marcha, y por primera vez la U
 <figcaption>Top left to right: Susan Flacks, Pauline Friedman<br>Bottom left to right: Pam Maunakea, Dorothy Elder, Jane Ploetz</figcaption>
 </figure>
 
-Para acabar, quiero que sepan que sin la dedicación de estos miembros dedicados de la junta, la Escuela en Internet de _El libro de Urantia_ no existiría. Cada uno realiza un trabajo vital que mantiene la UBIS en funcionamiento año tras año. Gracias, Pam Maunakea, Susan Flacks, Georges Michelson-Dupont, Polly Friedman, Jay Peregrine, Jane Ploetz, Betty Zehr y Ralph Zehr por todo lo que hacen y especialmente por el maravilloso “espíritu de equipo” que traéis a la UBIS.
+Para acabar, quiero que sepan que sin la dedicación de estos miembros dedicados de la junta, la Escuela en Internet de _El libro de Urantia_ no existiría. Cada uno realiza un trabajo vital que mantiene la UBIS en funcionamiento año tras año. Gracias, Pam Maunakea, Susan Flacks, Georges Michelson-Dupont, Polly Friedman, Jay Peregrine, Jane Ploetz, Betty Zehr y Ralph Zehr por todo lo que hacen y especialmente por el maravilloso «espíritu de equipo» que traéis a la UBIS.
 
 
 ## Referencias

@@ -116,7 +116,7 @@ Tuvimos la suerte de que Marian Hugues, una lectora veterana de Hawaii y con pro
 
 ## Renaca
 
-Jon DeToy nos recogió en Valparaíso y nos llevó a la comunidad de artistas “Blowing in the Wind” de Renaca. Esta comunidad tiene un gran número de lectores de _El libro de Urantia_, a los que pronto se unirán más. Jon, ciudadano americano, se trasladó recientemente a Chile y llevó 120 Libros de Urantia en español con él. Hicimos una visita a un grupo encantador de lectores, después de la cual Jon y su familia nos llevaron a un encuentro más numeroso de lectores en Santiago.
+Jon DeToy nos recogió en Valparaíso y nos llevó a la comunidad de artistas «Blowing in the Wind» de Renaca. Esta comunidad tiene un gran número de lectores de _El libro de Urantia_, a los que pronto se unirán más. Jon, ciudadano americano, se trasladó recientemente a Chile y llevó 120 Libros de Urantia en español con él. Hicimos una visita a un grupo encantador de lectores, después de la cual Jon y su familia nos llevaron a un encuentro más numeroso de lectores en Santiago.
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_03/018.jpg">
@@ -144,13 +144,13 @@ Supimos algunas cosas durante la reunión. Hay unos trescientos lectores activos
 <figcaption><em>Flor Robles, con sus ayudas al estudio</em></figcaption>
 </figure>
 
-El lunes, visitamos librerías y encontramos un ejemplar de tapa blanda – envuelto en celofán y en la sección “en reserva”, que no se podía hojear – cuyo precio era 70 $ EEUU. Los lectores expresaron su agradecimiento por la ayuda que habían recibido al obtener libros, gracias a los generosos esfuerzos de Marion Hugues, el Canal de Luz y otros donantes.
+El lunes, visitamos librerías y encontramos un ejemplar de tapa blanda – envuelto en celofán y en la sección «en reserva», que no se podía hojear – cuyo precio era 70 $ EEUU. Los lectores expresaron su agradecimiento por la ayuda que habían recibido al obtener libros, gracias a los generosos esfuerzos de Marion Hugues, el Canal de Luz y otros donantes.
 
 Conocimos a lectores entusiastas y devotos. Por ejemplo, Yolanda Silva Solano, una lectora de Santiago, tiene un blog en el que divulga las enseñanzas del libro a 5000 personas. Flor ha creado muchas ayudas al estudio que pueden verse en [http://www.scribd.com/diagramas606](http://www.scribd.com/diagramas606). Nuestro viaje a Santiago mereció mucho la pena. Damos gracias por los nuevos amigos que hicimos en Chile.
 
 <figure id="Figure_14" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_03/024.jpg">
-<figcaption><em>“Sorely Tried”, HMS Beagle off Cape Horn, 12 January 1833, by John Chancellor</em></figcaption>
+<figcaption><em>«Sorely Tried», HMS Beagle off Cape Horn, 12 January 1833, by John Chancellor</em></figcaption>
 </figure>
 
 ## Conclusiones

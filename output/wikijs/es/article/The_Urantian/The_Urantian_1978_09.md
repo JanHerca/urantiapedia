@@ -60,7 +60,7 @@ _Este documento, impreso aquí en su totalidad, fue presentado en la Segunda Con
 
 En nuestro mundo y en nuestros días, en la vida de cada persona de mente normal, sucede algo extraño y maravilloso, generalmente justo antes de su sexto cumpleaños. Cuando una mente humana toma su primera decisión moral, a esta mente se le concede una identidad espiritual. Un fragmento de Dios llega del Paraíso para residir en esta mente humana ahora preparada. Este espíritu es conocido por muchos nombres: el Ajustador del Pensamiento, el Monitor Misterioso, el fragmento del Padre, el Don Divino. Una entidad prepersonal, este espíritu interior es de la esencia de la Deidad. La naturaleza del Padre es también la naturaleza de este espíritu; la misma energía que constituye la presencia real del Ajustador del Pensamiento responde directamente al Padre Paradisiaco. El Ajustador del Pensamiento es la presencia de Dios dentro de ti. Y es más: es también vuestro espíritu.
 
-> «_Vuestro Ajustador es el potencial de vuestra nueva y próxima orden de existencia, el don por adelantado de vuestra filiación eterna con Dios. Por medio del consentimiento de vuestra voluntad, y con él, el Ajustador tiene el poder de someter las tendencias de la mente material de la criatura a las acciones transformadoras de las motivaciones y los objetivos del alma morontial emergente._» ([LU 108:5.4](/es/The_Urantia_Book/108#p5_4))
+> «_Vuestro Ajustador es el potencial de vuestra nueva y próxima orden de existencia, el don por adelantado de vuestra filiación eterna con Dios. Por medio del consentimiento de vuestra voluntad, y con él, el Ajustador tiene el poder de someter las tendencias de la mente material de la criatura a las acciones transformadoras de las motivaciones y los objetivos del alma morontial emergente._» (<a id="a62_396"></a>[LU 108:5.4](/es/The_Urantia_Book/108#p5_4))
 
 La llegada del Ajustador del Pensamiento es la ocasión del nacimiento de vuestra alma. Este espíritu es el padre de tu alma y tu mente material es la madre de tu alma. Durante el resto de tu vida en Urantia, tu Ajustador se dedicará a intentar guiar tu libre albedrío mortal hacia aquellas decisiones espirituales que promoverán el crecimiento de tu alma, con el fin de que tu alma pueda sobrevivir a tu muerte en el mundo de la carne. Su Ajustador del Pensamiento llega con una carrera modelo ya formulada para su vida en Urantia, elaborada a partir del conocimiento de sus factores mentales y ancestrales. Usted siempre tiene la libertad de aceptar o rechazar todo o parte de este plan. Dios nunca abroga ese precioso libre albedrío que él mismo ha otorgado a sus hijos.
 
@@ -84,7 +84,7 @@ _Louisville, Colorado_
 
 ## Pensamientos de un Ajustador del Pensamiento
 
-> «_Creemos que, con estos hechos ante ellos, los Monitores se ofrecen libremente como voluntarios para la misión. Existe probablemente más de un Ajustador que ofrece sus servicios; quizás las órdenes personalizadas supervisoras escogen, en este grupo de Ajustadores voluntarios, al más indicado para la tarea de espiritualizar y eternizar la personalidad del candidato mortal. (Para la asignación y el servicio de los Ajustadores, el sexo de la criatura no se tiene en cuenta.)_» ([LU 108:1.7](/es/The_Urantia_Book/108#p1_7))
+> «_Creemos que, con estos hechos ante ellos, los Monitores se ofrecen libremente como voluntarios para la misión. Existe probablemente más de un Ajustador que ofrece sus servicios; quizás las órdenes personalizadas supervisoras escogen, en este grupo de Ajustadores voluntarios, al más indicado para la tarea de espiritualizar y eternizar la personalidad del candidato mortal. (Para la asignación y el servicio de los Ajustadores, el sexo de la criatura no se tiene en cuenta.)_» (<a id="a86_482"></a>[LU 108:1.7](/es/The_Urantia_Book/108#p1_7))
 
 Primero, me presentaré. Provengo de Divinington y soy un Ajustador del Pensamiento, un Monitor Misterioso, un Regalo Divino o cualquier denominación que me puedan aplicar los hijos del Padre Universal. La experiencia es mía, he mirado a través de los ojos de criaturas evolutivas antes y he visto paisajes muy diferentes a los de Urantia. Soles gemelos han marchado sobre nuestras cabezas, y los cielos en otras partes de los superuniversos están modelados con otras constelaciones, otros sistemas, pero el amor y el propósito del Padre pulsaron, siempre, a través de todo.
 
@@ -95,7 +95,7 @@ Tengo un número completo, tan completo que resulta inútil para un uso mundano.
 —_Marilyn Hauck_
 aurora, colorado
 
-> «_Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios —con el mismo Dios que ha hecho posible la vida de esa criatura con sus valores y significados interiores._» ([LU 111:5.1](/es/The_Urantia_Book/111#p5_1))
+> «_Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios —con el mismo Dios que ha hecho posible la vida de esa criatura con sus valores y significados interiores._» (<a id="a97_257"></a>[LU 111:5.1](/es/The_Urantia_Book/111#p5_1))
 
 
 

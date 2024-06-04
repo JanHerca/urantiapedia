@@ -47,7 +47,7 @@ La junta votó a favor de poner precio al libro para su colocación en bibliotec
 
 ## Enlaces patrocinados de Google
 
-La junta votó a favor de probar los enlaces patrocinados (Ad Words) de Google como un medio de atraer a la gente joven hacia _El libro de Urantia_ y hacia la web de la Fundación. Los enlaces patrocinados de Google son esos pequeños enlaces que aparecen a la derecha de su pantalla cuando busca algo en Google. Por ejemplo, busque en Google la palabra “God” (Dios) y aparecerá nuestro enlace patrocinado. Si hace clic en él, le llevará al Documento 1. Se hará una pequeña prueba en 2010 y, si esta es satisfactoria, la prueba y el presupuesto aumentarían en 2011.
+La junta votó a favor de probar los enlaces patrocinados (Ad Words) de Google como un medio de atraer a la gente joven hacia _El libro de Urantia_ y hacia la web de la Fundación. Los enlaces patrocinados de Google son esos pequeños enlaces que aparecen a la derecha de su pantalla cuando busca algo en Google. Por ejemplo, busque en Google la palabra «God» (Dios) y aparecerá nuestro enlace patrocinado. Si hace clic en él, le llevará al Documento 1. Se hará una pequeña prueba en 2010 y, si esta es satisfactoria, la prueba y el presupuesto aumentarían en 2011.
 
 ## Revisiones de las traducciones
 

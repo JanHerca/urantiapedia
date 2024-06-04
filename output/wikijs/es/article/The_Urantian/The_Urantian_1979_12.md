@@ -45,7 +45,7 @@ _Denver, Colorado_
 
 ## El mayor logro humano
 
-_El Libro de URANTIA_ analiza a menudo la importancia de la familia en la sociedad humana. Por ejemplo, encontramos declaraciones como: «_La familia es el mayor logro puramente humano del hombre..._» y «_Como son las familias de la raza o nación, también lo es su sociedad. Si las familias son buenas, la sociedad también es buena._» ([LU 84:6.8](/es/The_Urantia_Book/84#p6_8); [LU 84:7.1](/es/The_Urantia_Book/84#p7_1))
+_El Libro de URANTIA_ analiza a menudo la importancia de la familia en la sociedad humana. Por ejemplo, encontramos declaraciones como: «_La familia es el mayor logro puramente humano del hombre..._» y «_Como son las familias de la raza o nación, también lo es su sociedad. Si las familias son buenas, la sociedad también es buena._» (<a id="a47_335"></a>[LU 84:6.8](/es/The_Urantia_Book/84#p6_8); <a id="a47_378"></a>[LU 84:7.1](/es/The_Urantia_Book/84#p7_1))
 
 Está claro, sin embargo, que en la mayoría de las sociedades Urantia modernas, la familia como institución está atravesando tiempos difíciles. En Estados Unidos, por ejemplo, la tasa de divorcios continúa aumentando, lo que genera estadísticas como la reciente proyección de la Oficina del Censo de que la mitad de todos los niños nacidos este año en Estados Unidos pasarán una parte sustancial de su infancia en un hogar con un solo padre. Cuanto más se profundiza en los datos actuales sobre la situación de la familia, más negativo se vuelve el panorama general.
 
@@ -85,7 +85,7 @@ _Palo Alto, California_
 
 ## Adoración
 
-> «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» ([LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
+> «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» (<a id="a87_199"></a>[LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
 
 No hay amor humano tan satisfactorio como el del niño hacia el padre humano, particularmente el del hijo que conoce a Dios hacia el padre que conoce a Dios. Hay algo en los modales, algo en los ojos, en el rostro, en la voz.
 
@@ -96,7 +96,7 @@ Si nos volvemos como un niño pequeño y somos capaces de ese tipo de amor incon
 — _C. L. Van Sant_
 _Bartlesville, Oklahoma_
 
-> «_Durante toda esta época gloriosa, la ocupación principal de los mortales que progresan es la búsqueda de una mejor comprensión y de una apreciación más completa de los elementos comprensibles de la Deidad —la verdad, la belleza y la bondad. Esto representa el esfuerzo del hombre por discernir a Dios en la mente, la materia y el espíritu._» ([LU 56:10.2](/es/The_Urantia_Book/56#p10_2))
+> «_Durante toda esta época gloriosa, la ocupación principal de los mortales que progresan es la búsqueda de una mejor comprensión y de una apreciación más completa de los elementos comprensibles de la Deidad —la verdad, la belleza y la bondad. Esto representa el esfuerzo del hombre por discernir a Dios en la mente, la materia y el espíritu._» (<a id="a98_347"></a>[LU 56:10.2](/es/The_Urantia_Book/56#p10_2))
 
 
 

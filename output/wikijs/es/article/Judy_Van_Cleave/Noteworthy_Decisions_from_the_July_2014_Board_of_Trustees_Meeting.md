@@ -94,7 +94,7 @@ El sitio web de la Fundación Urantia, [www.urantia.org](http://www.urantia.org/
 
 ## Donaciones planeadas
 
-La junta trató sobre la necesidad y la oportunidad de que la generación del “baby-boom” establezca en sus últimas voluntades beneficiar a la quinta revelación de época. Desde la perspectiva del donante, ¿cuál podría ser un legado más importante que el de dar parte de sus activos a la Revelación Urantia, que transformó su vida? La Fundación Urantia les ayudará a cumplir esa digna meta. Para más información, visiten [http://urantia.plannedgiving.org](http://urantia.plannedgiving.org/).
+La junta trató sobre la necesidad y la oportunidad de que la generación del «baby-boom» establezca en sus últimas voluntades beneficiar a la quinta revelación de época. Desde la perspectiva del donante, ¿cuál podría ser un legado más importante que el de dar parte de sus activos a la Revelación Urantia, que transformó su vida? La Fundación Urantia les ayudará a cumplir esa digna meta. Para más información, visiten [http://urantia.plannedgiving.org](http://urantia.plannedgiving.org/).
 
 
 ## Referencias

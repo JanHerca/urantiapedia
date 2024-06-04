@@ -26,27 +26,27 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## I. GEOGRAFÍA
 
-1. Havona consiste en mil millones de mundos perfectos que giran alrededor del Paraíso en siete circuitos concéntricos. [LU 14:0.1](/es/The_Urantia_Book/14#p0_1)
-2. Entre Havona y el Paraíso están los circuitos de siete mundos del Padre, el Hijo y el Espíritu. [LU 13:0.1](/es/The_Urantia_Book/13#p0_1)
-3. Las islas oscuras del espacio están situadas entre Havona y los siete superuniversos. [LU 14:1.12](/es/The_Urantia_Book/14#p1_12)
-4. El sistema del Paraíso-Havona es una unidad de perfección creativa. [LU 14:2.6](/es/The_Urantia_Book/14#p2_6)
+1. Havona consiste en mil millones de mundos perfectos que giran alrededor del Paraíso en siete circuitos concéntricos. <a id="s28_120"></a>[LU 14:0.1](/es/The_Urantia_Book/14#p0_1)
+2. Entre Havona y el Paraíso están los circuitos de siete mundos del Padre, el Hijo y el Espíritu. <a id="s29_99"></a>[LU 13:0.1](/es/The_Urantia_Book/13#p0_1)
+3. Las islas oscuras del espacio están situadas entre Havona y los siete superuniversos. <a id="s30_89"></a>[LU 14:1.12](/es/The_Urantia_Book/14#p1_12)
+4. El sistema del Paraíso-Havona es una unidad de perfección creativa. <a id="s31_71"></a>[LU 14:2.6](/es/The_Urantia_Book/14#p2_6)
 
 ## II. LOS MUNDOS DE HAVONA
 
-1. Los mundos de Havona contienen mil elementos y siete formas de energía. [LU 14:2.3](/es/The_Urantia_Book/14#p2_3) Cada mundo es único. [LU 14:5.6](/es/The_Urantia_Book/14#p5_6)
-2. Los nativos de Havona son los hijos de la Trinidad. [LU 14:4.10](/es/The_Urantia_Book/14#p4_10)
-3. No hay gobierno en los mundos de Havona. [LU 14:3.2](/es/The_Urantia_Book/14#p3_2)
-4. El tiempo estándar del gran universo es el día del Paraíso-Havona - cerca de siete minutos menos que mil años de Urantia. [LU 14:1.12](/es/The_Urantia_Book/14#p1_12)
+1. Los mundos de Havona contienen mil elementos y siete formas de energía. <a id="s35_75"></a>[LU 14:2.3](/es/The_Urantia_Book/14#p2_3) Cada mundo es único. <a id="s35_138"></a>[LU 14:5.6](/es/The_Urantia_Book/14#p5_6)
+2. Los nativos de Havona son los hijos de la Trinidad. <a id="s36_55"></a>[LU 14:4.10](/es/The_Urantia_Book/14#p4_10)
+3. No hay gobierno en los mundos de Havona. <a id="s37_44"></a>[LU 14:3.2](/es/The_Urantia_Book/14#p3_2)
+4. El tiempo estándar del gran universo es el día del Paraíso-Havona - cerca de siete minutos menos que mil años de Urantia. <a id="s38_125"></a>[LU 14:1.12](/es/The_Urantia_Book/14#p1_12)
 
 ## III. LA VIDA EN HAVONA
 
-1. Hay siete formas de vida en Havona. [LU 14:4.1](/es/The_Urantia_Book/14#p4_1)
-2. El pecado no ha aparecido jamás en Havona. [LU 14:2.9](/es/The_Urantia_Book/14#p2_9)
-3. Las Deidades derivan gran satisfacción del universo perfecto de Havona. [LU 14:6.36](/es/The_Urantia_Book/14#p6_36)
+1. Hay siete formas de vida en Havona. <a id="s42_39"></a>[LU 14:4.1](/es/The_Urantia_Book/14#p4_1)
+2. El pecado no ha aparecido jamás en Havona. <a id="s43_46"></a>[LU 14:2.9](/es/The_Urantia_Book/14#p2_9)
+3. Las Deidades derivan gran satisfacción del universo perfecto de Havona. <a id="s44_75"></a>[LU 14:6.36](/es/The_Urantia_Book/14#p6_36)
 
 ## IV. LAS ESFERAS SAGRADAS DEL PARAÍSO
 
-1. Cada uno de los veintiún mundos de las Deidades está altamente especializado. [LU 13:0.7](/es/The_Urantia_Book/13#p0_7)
+1. Cada uno de los veintiún mundos de las Deidades está altamente especializado. <a id="s48_81"></a>[LU 13:0.7](/es/The_Urantia_Book/13#p0_7)
 2. Los mundos del Padre están dirigidos por los Secretos Trinidizados de Supremacía. (144.3) 13:1.
 3. Los mundos del Padre son:
 	1. Divinington.
@@ -55,9 +55,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. Vicegerington.
 	5. Solitarington.
 	6. Serafington.
-	7. Ascendington. [LU 13:1.4](/es/The_Urantia_Book/13#p1_4)
-4. Los siete mundos del Hijo son los mundos de las siete fases de la existencia del espíritu puro. [LU 13:3.1](/es/The_Urantia_Book/13#p3_1)
-5. Los siete mundos del Espíritu son las sedes centrales de los Siete Espíritus Rectores. Desde esos mundos se equilibran y estabilizan los circuitos de la mente cósmica del gran universo. [LU 13:4.6](/es/The_Urantia_Book/13#p4_6)
+	7. Ascendington. <a id="s57_18"></a>[LU 13:1.4](/es/The_Urantia_Book/13#p1_4)
+4. Los siete mundos del Hijo son los mundos de las siete fases de la existencia del espíritu puro. <a id="s58_99"></a>[LU 13:3.1](/es/The_Urantia_Book/13#p3_1)
+5. Los siete mundos del Espíritu son las sedes centrales de los Siete Espíritus Rectores. Desde esos mundos se equilibran y estabilizan los circuitos de la mente cósmica del gran universo. <a id="s59_189"></a>[LU 13:4.6](/es/The_Urantia_Book/13#p4_6)
 
 
 <br>

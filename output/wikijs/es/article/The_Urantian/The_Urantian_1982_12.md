@@ -49,7 +49,7 @@ _Phoenix, Arizona_
 
 ---
 
-> «_El alma hambrienta del hombre se niega a satisfacerse con cualquier otra cosa que sea inferior a la comprensión personal del Dios viviente. Aunque Dios pueda ser mucho más que una personalidad moral elevada y perfecta, en nuestro concepto hambriento y finito no puede ser nada menos._» ([LU 102:1.6](/es/The_Urantia_Book/102#p1_6))
+> «_El alma hambrienta del hombre se niega a satisfacerse con cualquier otra cosa que sea inferior a la comprensión personal del Dios viviente. Aunque Dios pueda ser mucho más que una personalidad moral elevada y perfecta, en nuestro concepto hambriento y finito no puede ser nada menos._» (<a id="a51_291"></a>[LU 102:1.6](/es/The_Urantia_Book/102#p1_6))
 
 
 

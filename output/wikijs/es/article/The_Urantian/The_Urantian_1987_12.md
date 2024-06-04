@@ -43,7 +43,7 @@ El secreto de la transformación del individuo y del mundo es la visión que tie
 
 El tema de esta conferencia es «La Transformación Personal y su Poder para Transformar el Mundo». El tema no se planteó como una pregunta, sino más bien como una declaración. ¿Puede la transformación personal, incluso la transformación espiritual de un individuo, transformar realmente el mundo? Creo que se puede.
 
-Basta mirar la vida de Jesús, tanto en su ministerio personal como público, para ver la influencia de un individuo espiritualmente transformado en el mundo. Sus apóstoles y seguidores, en virtud de su vida transformadora en este mundo, prácticamente «_...pusieron boca abajo todo el imperio romano._» ([LU 195:6.9](/es/The_Urantia_Book/195#p6_9)) Durante su única visita a Roma, Jesús tuvo influencia en el despertar espiritual de más personas de las que la mayoría de nosotros influiremos en toda nuestra vida. El poder de su mera presencia era tan profundo que simplemente tenía que sonreír a las personas para que experimentaran una fe y un aliento renovados.
+Basta mirar la vida de Jesús, tanto en su ministerio personal como público, para ver la influencia de un individuo espiritualmente transformado en el mundo. Sus apóstoles y seguidores, en virtud de su vida transformadora en este mundo, prácticamente «_...pusieron boca abajo todo el imperio romano._» (<a id="a45_302"></a>[LU 195:6.9](/es/The_Urantia_Book/195#p6_9)) Durante su única visita a Roma, Jesús tuvo influencia en el despertar espiritual de más personas de las que la mayoría de nosotros influiremos en toda nuestra vida. El poder de su mera presencia era tan profundo que simplemente tenía que sonreír a las personas para que experimentaran una fe y un aliento renovados.
 
 [Leer más](/es/article/Jim_Johnson/Be_you_perfect)
 
@@ -121,7 +121,7 @@ Así como parecemos perder la fe en el asombroso poder de la transformación per
 
 ---
 
-> «_La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la fraternidad del reino de Jesús debería emocionar a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne._» ([LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
+> «_La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la fraternidad del reino de Jesús debería emocionar a todos los que creen en él como los hombres no se han conmovido desde la época en que caminaban por la Tierra como compañeros suyos en la carne._» (<a id="a123_323"></a>[LU 195:10.6](/es/The_Urantia_Book/195#p10_6))
 
 
 

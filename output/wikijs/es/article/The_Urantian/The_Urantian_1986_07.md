@@ -45,7 +45,7 @@ _Kansas City. Misuri_
 
 ---
 
-> «_Todas las religiones enseñan la adoración de la Deidad y alguna doctrina de salvación humana. ... La religión de Jesús salva del yo, libera de los males del aislamiento de la criatura en el tiempo y en la eternidad._» ([LU 5:4.5](/es/The_Urantia_Book/5#p4_5))
+> «_Todas las religiones enseñan la adoración de la Deidad y alguna doctrina de salvación humana. ... La religión de Jesús salva del yo, libera de los males del aislamiento de la criatura en el tiempo y en la eternidad._» (<a id="a47_223"></a>[LU 5:4.5](/es/The_Urantia_Book/5#p4_5))
 
 
 

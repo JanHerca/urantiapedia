@@ -49,7 +49,7 @@ Planteó la pregunta: ¿por qué tenemos grupos de estudio? Leyó la instrucció
 
 También leyó los siguientes extractos de una carta que escribió en 1981 Emma Christensen, más conocida como Christy:
 
-> “Una de nuestras tareas principales es comenzar muchos grupos de estudio. Se deben formar miles para que podamos tener instructores y líderes preparados para el día en el que _El libro de Urantia_ y sus enseñanzas necesiten que haya muchos amigos dispersos por todo el mundo.
+> «Una de nuestras tareas principales es comenzar muchos grupos de estudio. Se deben formar miles para que podamos tener instructores y líderes preparados para el día en el que _El libro de Urantia_ y sus enseñanzas necesiten que haya muchos amigos dispersos por todo el mundo.
 > 
 > «Se instruyó a Adán y Eva para que abrieran lo que llamo ‘faros de luz’ por todo el mundo a través de su descendencia, pero su falta puso fin a esta tarea. Creo que deberíamos ayudarles un poco animando que haya grupos de estudio, tal como se nos dijo, y fomentándolos hasta que puedan seguir por su cuenta».
 

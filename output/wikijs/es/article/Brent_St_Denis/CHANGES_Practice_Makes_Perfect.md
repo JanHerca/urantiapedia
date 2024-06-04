@@ -59,7 +59,7 @@ No puedo encontrar a Dios mañana, ni lo encontraré ayer. Sólo puedo encontrar
 
 ## «G» — La voluntad de Dios (God's Will)
 
-Estoy convencido de que _El Libro de Urantia_ tiene razón cuando declara que «Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios —con el mismo Dios que ha hecho posible la vida de esa criatura con sus valores y significados interiores». ([LU 111:5.1](/es/The_Urantia_Book/111#p5_1)) Quiero enfatizar para ustedes las palabras buena voluntad.
+Estoy convencido de que _El Libro de Urantia_ tiene razón cuando declara que «Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios —con el mismo Dios que ha hecho posible la vida de esa criatura con sus valores y significados interiores». (<a id="a61_330"></a>[LU 111:5.1](/es/The_Urantia_Book/111#p5_1)) Quiero enfatizar para ustedes las palabras buena voluntad.
 
 ## «E» – Ego
 

@@ -41,7 +41,7 @@ Después de pensar un minuto, dije: «Por eso es tan importante recibir educaci�
 
 «Cuando enseñaba, agregué los clásicos infantiles y la Biblia a mi plan de estudios. Les dije a mis alumnos que no estaba enseñando la Biblia para hacerles creer en una religión determinada (aunque lo hice), sino simplemente para que supieran de qué hablaba la gente».
 
-«Sí». Jon Lewis respondió: “Escucho a personas referirse al esvengali y no sé qué quieren decir. ¿Quien era él?"
+«Sí». Jon Lewis respondió: «Escucho a personas referirse al esvengali y no sé qué quieren decir. ¿Quien era él?"
 
 «No lo sé», respondí, «pero lo descubriremos».
 

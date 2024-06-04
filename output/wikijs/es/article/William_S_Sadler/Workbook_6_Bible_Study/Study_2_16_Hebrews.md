@@ -60,7 +60,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 12. Hebreos es uno de los libros más eruditos de la Biblia.
 13. Nos vemos obligados a concluir que Hebreos fue reescrito una o más veces. Es posible que se haya originado como una carta paulina a una de las iglesias y luego, como Efesios, fue objeto de muchas reescrituras editoriales.
 14. El Concilio de Trento (1546) incluyó a Hebreos entre las cartas de Pablo.
-15. El Libro de Urantia habla de Pablo como autor- <a id="s62_47"></a>[LU 47:10.3](/es/The_Urantia_Book/47#p10_3). En P. 1024 A Pablo se le llama «uno de los autores». Se atribuyen citas de Hebreos a Pablo en <a id="s62_196"></a>[LU 47:10.3](/es/The_Urantia_Book/47#p10_3) y <a id="s62_244"></a>[ LU 48:1.7](/es/The_Urantia_Book/48#p1_7) en el Libro de Urantia.
+15. El Libro de Urantia habla de Pablo como autor- <a id="s62_51"></a>[LU 47:10.3](/es/The_Urantia_Book/47#p10_3). En P. 1024 A Pablo se le llama «uno de los autores». Se atribuyen citas de Hebreos a Pablo en <a id="s62_190"></a>[LU 47:10.3](/es/The_Urantia_Book/47#p10_3) y <a id="s62_236"></a>[ LU 48:1.7](/es/The_Urantia_Book/48#p1_7) en el Libro de Urantia.
 
 ## III. Consideraciones Generales
 

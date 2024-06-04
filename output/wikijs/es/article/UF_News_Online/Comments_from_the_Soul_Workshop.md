@@ -45,7 +45,7 @@ _Nota de la dirección: a finales de octubre de 2014, Marta Elders facilitó un 
 <img src="/image/article/UF_News_Online/2014_12/034.jpg" class="align-center">
 </figure>
 
-Un Consejero Divino hizo unos comentarios sobre los desafíos a los que se enfrentaron  los reveladores del cuerpo de la verdad de Orvonton  en su “esfuerzo por aumentar la conciencia cósmica y elevar la percepción espiritual” <a id="a47_226"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2) Es un paso natural concluir que este propósito de aumentar la conciencia cósmica y también elevar la percepción espiritual es una meta que merece la pena para cualquier seminario dedicado a profundizar en abrazar el material revelativo de _El libro de Urantia_.
+Un Consejero Divino hizo unos comentarios sobre los desafíos a los que se enfrentaron  los reveladores del cuerpo de la verdad de Orvonton  en su «esfuerzo por aumentar la conciencia cósmica y elevar la percepción espiritual» <a id="a47_226"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2) Es un paso natural concluir que este propósito de aumentar la conciencia cósmica y también elevar la percepción espiritual es una meta que merece la pena para cualquier seminario dedicado a profundizar en abrazar el material revelativo de _El libro de Urantia_.
 
 El fin de semana del 31 de octubre, doce personas se reunieron para compartir su perspicacia y su entendimiento en un seminario sobre el alma tal como se revela en _El libro de Urantia_. El estudio se celebró en el 533 W Diversey Parkway de Chicago, y fue patrocinado por el Comité de Educación de la Fundación Urantia. Consideramos el origen, la naturaleza y el destino del alma, y cada participante preparó un breve documento (de 3 a 5 páginas) y dirigió una práctica experiencial (meditación, taller, poesía, inspiraciones de la web, imágenes ilustrativas, etc.) Fue destacable experimentar la magia y el misterio que evolucionaron y se desvelaron cuando, juntos y por separado, llegamos más alto y más hondo de todo corazón.
 
@@ -77,9 +77,9 @@ _~ David Neufer, Pennsylvania (Estados Unidos)_
 <img src="/image/article/UF_News_Online/2014_12/036.jpg" class="align-center">
 </figure>
 
-Antes de mi llegada al taller sobre el alma, Joanne dijo que los asistentes eran estudiantes de _El libro de Urantia_ de muchos años, y después de oír eso, mi esposa y mi hijo pensaron que su experiencia y conocimiento me dejarían “fuera de combate”. El grupo me consideraría como un nuevo recluta.
+Antes de mi llegada al taller sobre el alma, Joanne dijo que los asistentes eran estudiantes de _El libro de Urantia_ de muchos años, y después de oír eso, mi esposa y mi hijo pensaron que su experiencia y conocimiento me dejarían «fuera de combate». El grupo me consideraría como un nuevo recluta.
 
-Me sorprendió que todos tuviéramos un origen similar en nuestra búsqueda de la verdad y respecto al libro. Como me dijo mi nuevo amigo Jan, de Polonia: “sin _El libro de Urantia_, es como si un ciego guiara a otro ciego.”
+Me sorprendió que todos tuviéramos un origen similar en nuestra búsqueda de la verdad y respecto al libro. Como me dijo mi nuevo amigo Jan, de Polonia: «sin _El libro de Urantia_, es como si un ciego guiara a otro ciego.»
 
 Nos quedamos todos en la segunda planta, con un compañero de habitación, y nos trataron como a reyes. ¡La comida de Mike es irresistible!
 

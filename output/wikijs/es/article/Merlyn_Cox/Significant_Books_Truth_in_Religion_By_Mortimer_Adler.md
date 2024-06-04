@@ -1,5 +1,5 @@
 ---
-title: "Libros importantes: “La verdad en la religión” de Mortimer Adler"
+title: "Libros importantes: «La verdad en la religión» de Mortimer Adler"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
-          <span class="pr-2">Libros importantes: “Dios y la religión en el mundo posmoderno” por David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros importantes: «Dios y la religión en el mundo posmoderno» por David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -90,7 +90,7 @@ Espero con interés su próximo trabajo en el que compartirá sus convicciones p
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
-          <span class="pr-2">Libros importantes: “Dios y la religión en el mundo posmoderno” por David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros importantes: «Dios y la religión en el mundo posmoderno» por David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

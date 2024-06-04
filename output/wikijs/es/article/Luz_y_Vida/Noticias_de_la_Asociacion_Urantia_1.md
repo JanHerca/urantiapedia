@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Seguimos recaudando dinero para la impresión de la edición europea del _Libro de Urantia_, cuya traducción fue revisada por un equipo de lectores españoles, y que se comercializará única y exclusivamente en nuestro país.
 
-Si desea colaborar con este proyecto, haga por favor un ingreso en la cuenta de «La Caixa» número **2100-2348-67-0100530840**, indicando como referencia "LU-EDICION EUROPEA.”. ¡Cualquier aportación, por pequeña que sea, será bien recibida!
+Si desea colaborar con este proyecto, haga por favor un ingreso en la cuenta de «La Caixa» número **2100-2348-67-0100530840**, indicando como referencia «LU-EDICION EUROPEA.». ¡Cualquier aportación, por pequeña que sea, será bien recibida!
 
 ## Conferencia Internacionad AUI - Abril 2009 - España
 

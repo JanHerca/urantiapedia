@@ -173,7 +173,7 @@ _El costo y el tiempo nos impidieron responder a la solicitud de un boletín men
 
 _La existencia de la Biblioteca de la Hermandad del Hombre fue reportada en el número ***marzo/abril de 1989***:_
 
-“Una sucursal de la Biblioteca de la Hermandad del Hombre ya está operativa en Australia. El propósito de la biblioteca es actuar como un archivo de material relevante para _El Libro de URANTIA_ y poner ese material a disposición de los lectores. Gran parte del material se almacena en un disco de computadora que está disponible directamente por teléfono y módem para quienes tienen una computadora personal. La impresión del material está disponible a pedido. Se espera tener sucursales en cada ciudad capital para mejorar la accesibilidad. ¡Bienvenidos los piratas informáticos voluntarios!
+«Una sucursal de la Biblioteca de la Hermandad del Hombre ya está operativa en Australia. El propósito de la biblioteca es actuar como un archivo de material relevante para _El Libro de URANTIA_ y poner ese material a disposición de los lectores. Gran parte del material se almacena en un disco de computadora que está disponible directamente por teléfono y módem para quienes tienen una computadora personal. La impresión del material está disponible a pedido. Se espera tener sucursales en cada ciudad capital para mejorar la accesibilidad. ¡Bienvenidos los piratas informáticos voluntarios!
 
 «La búsqueda por computadora del _El Libro de URANTIA_ también está disponible previa solicitud. Una biblioteca de préstamo maneja libros, cintas y vídeos. Actualmente Ken Glasziou, Joe Hausler y Ann Bendall son bibliotecarios voluntarios».
 
@@ -795,7 +795,7 @@ Ha sido revelado hasta el día 7. Misión de Otorgamiento, así como en otras se
 > 
 > _El reino de Dios está en el corazón de los hombres; y cuando este reino se convierte en una realidad en el corazón de cada individuo de un mundo, entonces el reinado de Dios se ha vuelto real en ese planeta; y ésta es la soberanía conseguida del Ser Supremo._
 > 
-> La providencia se discierne cada vez más a medida que los hombres se elevan de lo material a lo espiritual. Alcanzar una completa perspicacia espiritual permite a la personalidad ascendente detectar armonía donde hasta entonces sólo había caos. Incluso la mota morontial representa un progreso real en esta dirección. [LU 118:10.15-19](/es/The_Urantia_Book/118#p10_15) 
+> La providencia se discierne cada vez más a medida que los hombres se elevan de lo material a lo espiritual. Alcanzar una completa perspicacia espiritual permite a la personalidad ascendente detectar armonía donde hasta entonces sólo había caos. Incluso la mota morontial representa un progreso real en esta dirección. <a id="a797_320"></a>[LU 118:10.15-19](/es/The_Urantia_Book/118#p10_15) 
 
 <figure id="Figure_12" class="image urantiapedia" alt="A TAPESTRY OF LOVING SERVICE">
 <img src="/image/article/606/spirit_of_love.jpg">
@@ -826,7 +826,7 @@ _En ***junio de 1986*** apareció una caricatura con algunos extraterrestres de 
 
 «Esta impresión llegó a Six-O-Six a través de los circuitos mentales de un joven artista de Melbourne, Fil Barlow».
 
-«Desde los 14 años, Fil ha estado creando su propio universo con criaturas inteligentes diferentes a nosotros. A esto lo llamó su “Zooniverso».
+«Desde los 14 años, Fil ha estado creando su propio universo con criaturas inteligentes diferentes a nosotros. A esto lo llamó su «Zooniverso».
 
 «Fil pensó que su imaginación había creado un cosmos bastante vasto, hasta que se topó con _El Libro de URANTIA_. Después de que un amigo compró uno por $\$ 5$ en una librería de segunda mano y Fil comenzó a leerlo, se sintió completamente superado. La realidad fue incluso mayor de lo que sus sueños más locos podrían haber imaginado. Fil ahora se ha unido a las filas de entusiastas lectores de libros en Melbourne y se pregunta si alguien quisiera venir y ayudarlo con su estudio del libro...»
 
@@ -1007,7 +1007,7 @@ Maleny Qld. 4552
 
 _Además de Ken, otros lectores también están interesados en este tema y en el número de julio de 1983 publicamos un artículo de Stefan Zallquist, un investigador en el laboratorio de radio del Technical College de Helsinki, Finlandia. Chris Moseley tradujo el artículo publicado originalmente en «Helsingin Sanomat». El artículo de Stefan decía que_ El Libro de URANTIA _proporcionaba una gran cantidad de información sobre la investigación espacial, la física nuclear y la física que nadie podría haber conocido en aquellos tiempos (1934). Como ejemplo, mencionó la afirmación del libro de que la temperatura en el espacio profundo está ligeramente por encima del cero absoluto, un hecho que sólo se demostró mediante mediciones en los años 1960. El libro parte de la existencia de neutrinos (pequeñas partículas neutras) que se encontraron por primera vez en 1956. El libro contiene una magnífica descripción de los «cuerpos gravitatorios oscuros» sobre los cuales la ciencia sólo se ha aclarado en los últimos diez años._
 
-_La fecha de la crucifixión de Michael fue objeto de escrutinio en un artículo publicado en la edición de marzo/abril de 1987. A su vez informó sobre un artículo escrito por Humphreys y Waddington de la Universidad de Oxford. Se seleccionaron dos fechas posibles como las más probables, el 7 de abril del 30 d.C. y el 3 de abril del 33 d.C. Los catedráticos de Oxford optaron por la fecha posterior, basándose en una referencia bíblica en Hechos 2:20 «el sol se convertirá en oscuridad», y la luna en sangre”, una referencia a un eclipse que calcularon que ocurrió el 3 de abril del año 33 d.C. Los Intermedios nos dicen que la fecha fue la primera. ¿Se equivocaron? La evidencia más reciente apoya a los intermedios. Utilizando mediciones más precisas, se sugiere que este eclipse no podría haber sido visto desde Jerusalén, y ciertamente no en ninguna fase en la que pudiera enrojecer la luna._
+_La fecha de la crucifixión de Michael fue objeto de escrutinio en un artículo publicado en la edición de marzo/abril de 1987. A su vez informó sobre un artículo escrito por Humphreys y Waddington de la Universidad de Oxford. Se seleccionaron dos fechas posibles como las más probables, el 7 de abril del 30 d.C. y el 3 de abril del 33 d.C. Los catedráticos de Oxford optaron por la fecha posterior, basándose en una referencia bíblica en Hechos 2:20 «el sol se convertirá en oscuridad, y la luna en sangre», una referencia a un eclipse que calcularon que ocurrió el 3 de abril del año 33 d.C. Los Intermedios nos dicen que la fecha fue la primera. ¿Se equivocaron? La evidencia más reciente apoya a los intermedios. Utilizando mediciones más precisas, se sugiere que este eclipse no podría haber sido visto desde Jerusalén, y ciertamente no en ninguna fase en la que pudiera enrojecer la luna._
 
 
 
@@ -1061,7 +1061,7 @@ Lea más en [Boletín Six-0-Six septiembre/octubre de 1988](/es/article/Rod_McCo
 
 <figure id="Figure_20" class="image urantiapedia" alt="Anton and Fanta">
 <img src="/image/article/606/anton_and_fanta.jpg">
-<figcaption>Antón y Fanta. “Y Dios hizo muchísimas estrellas titilantes. Luego puso sobre algunos de ellos personas y animales. Y Él observa y se asegura de que todo estará bien. ¿Por qué no pensé en eso? <em>Reproducido del boletín Six-O-Six de marzo de 1982, escrito y dibujado por Neil Francey</em></figcaption>
+<figcaption>Antón y Fanta. «Y Dios hizo muchísimas estrellas titilantes. Luego puso sobre algunos de ellos personas y animales. Y Él observa y se asegura de que todo estará bien.» ¿Por qué no pensé en eso? <em>Reproducido del boletín Six-O-Six de marzo de 1982, escrito y dibujado por Neil Francey</em></figcaption>
 </figure>
 
 ## El programa de colocación en la biblioteca
@@ -1127,7 +1127,7 @@ Pasando a LU 100:7.1 del libro, leemos:
 
 > «_La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, ..._» (<a id="a1127_118"></a>[LU 100:7.1](/es/The_Urantia_Book/100#p7_1))
 
-Otras comparaciones se encuentran en el trabajo de Emerson. Escribe: “¿Cuáles son los mejores días que recuerdo? Aquellos en los que conocimos a un compañero que realmente lo era. ¡Qué dulces aquellas horas en las que el día no era lo suficientemente largo... cómo el rostro de nuestro amigo aún dejaba algo de luz después de su partida!
+Otras comparaciones se encuentran en el trabajo de Emerson. Escribe: «¿Cuáles son los mejores días que recuerdo? Aquellos en los que conocimos a un compañero que realmente lo era. ¡Qué dulces aquellas horas en las que el día no era lo suficientemente largo... cómo el rostro de nuestro amigo aún dejaba algo de luz después de su partida!»
 
 Una frase paralela en _El Libro de URANTIA_ dice:
 

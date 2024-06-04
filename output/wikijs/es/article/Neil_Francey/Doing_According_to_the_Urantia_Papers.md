@@ -15,7 +15,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Regina_Williamson/Reflections_of_Body_Mind_and_Psychic_Expo">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Expo de las Reflexiones de Cuerpo, Mente y Psíquico”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Expo de las Reflexiones de Cuerpo, Mente y Psíquico»</span>
         </a>
         </td>
         <td>
@@ -162,7 +162,7 @@ SOLO INTÉNTALO. La gente puede pensar que estás loco, pero de todos modos te a
       <tr>
         <td>
         <a href="/es/article/Regina_Williamson/Reflections_of_Body_Mind_and_Psychic_Expo">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Expo de las Reflexiones de Cuerpo, Mente y Psíquico”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Expo de las Reflexiones de Cuerpo, Mente y Psíquico»</span>
         </a>
         </td>
         <td>

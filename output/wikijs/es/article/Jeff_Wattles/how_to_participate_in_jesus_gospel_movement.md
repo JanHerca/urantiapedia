@@ -69,15 +69,15 @@ He aquí un método experiencial para encontrar al Espíritu de la Verdad. Selec
 
 Tomemos la verdad de la paternidad de Dios. Quizá cuando leamos esto o lo escuchemos parezca un poco soso. Lo hemos oído un millón de veces y nos hemos vacunado contra ella. Pero sabemos que hay algo más ahí. Jesús dijo:
 
-> _«El poderoso Espíritu de la Verdad reside en el evangelio del reino… »_ <a id="a70_78"></a>[[LU 178:1.6](/es/The_Urantia_Book/178#p1_6)];
+> _«El poderoso Espíritu de la Verdad reside en el evangelio del reino… »_ <a id="a71_75"></a>[[LU 178:1.6](/es/The_Urantia_Book/178#p1_6)];
 
 y dijo que el Espíritu de la Verdad es
 
-> _«…como yo, a excepción de este cuerpo material.»_ <a id="a74_51"></a>[[LU 180:4.5](/es/The_Urantia_Book/180#p4_5)]
+> _«…como yo, a excepción de este cuerpo material.»_ <a id="a75_53"></a>[[LU 180:4.5](/es/The_Urantia_Book/180#p4_5)]
 
 Así que sabemos que, escarbando espiritualmente un poco, podemos llegar a ese poder y convicción. Comencemos nuestro estudio experiencial. He aquí una cita que podemos usar. Jesús dice:
 
-> _«Salid simplemente a proclamar: He aquí el reino de los cielos — Dios es vuestro Padre y vosotros sois sus hijos, y si creéis de todo corazón, esta buena nueva es vuestra salvación eterna.»_ <a id="a78_187"></a>[[LU 141:6.4](/es/The_Urantia_Book/141#p6_4)]
+> _«Salid simplemente a proclamar: He aquí el reino de los cielos — Dios es vuestro Padre y vosotros sois sus hijos, y si creéis de todo corazón, esta buena nueva es vuestra salvación eterna.»_ <a id="a79_194"></a>[[LU 141:6.4](/es/The_Urantia_Book/141#p6_4)]
 
 Ya no suena soso, ¿verdad?
 
@@ -85,11 +85,11 @@ Ante todo, si queremos conocer a Dios como nuestro Padre, tenemos que relacionar
 
 Luego voy a la primera lección sobre el pensamiento.
 
-> _«Pensad primero en Dios como en un creador, luego como en un controlador y finalmente como en un sostén infinito.»_ <a id="a86_97"></a>[[LU 1:0.1](/es/The_Urantia_Book/1#p0_1)]
+> _«Pensad primero en Dios como en un creador, luego como en un controlador y finalmente como en un sostén infinito.»_ <a id="a87_119"></a>[[LU 1:0.1](/es/The_Urantia_Book/1#p0_1)]
 
 El Creador controla su creación ordenándola de acuerdo a leyes inherentes de la materia, la mente y el espíritu; pero estas no son simplemente leyes con las que podamos chocar como ante un muro físico de ladrillos; hay leyes del deber; y el Padre gobierna
 
-> _«…con el poder predominante de su amor.»_ <a id="a90_68"></a>[[LU 143:1.4](/es/The_Urantia_Book/143#p1_4)]
+> _«…con el poder predominante de su amor.»_ <a id="a91_45"></a>[[LU 143:1.4](/es/The_Urantia_Book/143#p1_4)]
 
 Que no logremos vivir de acuerdo a estas leyes podría ser nuestro fin, pero el amor y la misericordia del sostenedor infinito guían y rehabilitan a las criaturas imperfectas de cara a la aventura eterna.
 
@@ -97,7 +97,7 @@ Como seres humanos, podemos conocer a Dios, recibir el afecto divino y amarlo a 
 
 A continuación, estamos listos para nuestra primera lección sobre los sentimientos.
 
-> _«Las criaturas que conocen a Dios sólo tienen una ambición suprema, un solo deseo ardiente, y es volverse, tal como ellas son en sus esferas, semejantes a como él es en su perfección paradisiaca de personalidad y en su esfera universal de justa supremacía.»_ <a id="a98_252"></a>[[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)]
+> _«Las criaturas que conocen a Dios sólo tienen una ambición suprema, un solo deseo ardiente, y es volverse, tal como ellas son en sus esferas, semejantes a como él es en su perfección paradisiaca de personalidad y en su esfera universal de justa supremacía.»_ <a id="a99_262"></a>[[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)]
 
 Dios nos ama a todos. Si vamos a ser como él, nos dejamos llenar con una actitud dominante de amor, y luego emprendemos la aventura evolutiva de llegar a conocer a las personas y de aprender a amarlas.
 
@@ -105,13 +105,13 @@ Dios nos ama a todos. Si vamos a ser como él, nos dejamos llenar con una actitu
 
 Llegar a conocer a las personas que nos rodean, descubrir sus dificultades espirituales y aprender a amarlas. Este es uno de los privilegios de la hermandad de los hombres. Como maestro de maestros, Jesús hizo un trabajo asombroso de llegar a conocer a las personas. Y él señala el camino para todos nosotros. Si enseñamos en respuesta a una pregunta que nuestros oyentes no han hecho, estamos malgastando aliento. Tenemos que llegar a conocer qué preguntas están haciendo, cuáles son sus preocupaciones, a qué dificultades se están enfrentando. Cito:
 
-> _Y ahora que el Maestro se ha ido personalmente de este mundo, envía en su lugar a su Espíritu de la Verdad, que está destinado a vivir en el hombre y a exponer de nuevo el mensaje de Jesús para cada nueva generación. Así, cada nuevo grupo de mortales que aparezca sobre la faz de la Tierra tendrá una versión nueva y actualizada del evangelio, precisamente esa iluminación personal y esa guía colectiva que resultará ser una solución eficaz para las dificultades espirituales, siempre nuevas y variadas, del hombre._ <a id="a106_459"></a>[[LU 194:2.1](/es/The_Urantia_Book/194#p2_1)]
+> _Y ahora que el Maestro se ha ido personalmente de este mundo, envía en su lugar a su Espíritu de la Verdad, que está destinado a vivir en el hombre y a exponer de nuevo el mensaje de Jesús para cada nueva generación. Así, cada nuevo grupo de mortales que aparezca sobre la faz de la Tierra tendrá una versión nueva y actualizada del evangelio, precisamente esa iluminación personal y esa guía colectiva que resultará ser una solución eficaz para las dificultades espirituales, siempre nuevas y variadas, del hombre._ <a id="a107_520"></a>[[LU 194:2.1](/es/The_Urantia_Book/194#p2_1)]
 
 Cuanto más llena esté nuestra mente y nuestra alma de las verdades del evangelio polifacético, y cuanto más conozcamos a las personas y grupos con los que hablemos, más fácil será para el Espíritu de la Verdad presentar verdades particulares del evangelio para bendecirlos.
 
 El tercer elemento esencial de este método es establecer una conexión efectiva entre las verdades apropiadas del evangelio y otras dificultades espirituales, de acuerdo con la capacidad de recibirlas. He aquí la cita de Jesús:
 
-> _«Sed siempre sabios en la elección de vuestros métodos para presentar la buena nueva a las diferentes razas y tribus de la humanidad.» _ <a id="a112_115"></a>[[LU 191:4.4](/es/The_Urantia_Book/191#p4_4)]
+> _«Sed siempre sabios en la elección de vuestros métodos para presentar la buena nueva a las diferentes razas y tribus de la humanidad.» _ <a id="a113_140"></a>[[LU 191:4.4](/es/The_Urantia_Book/191#p4_4)]
 
 Todos los apóstoles enseñaron la misma verdad, pero cada uno de ellos lo hizo a su manera. Encuentren su manera, su lenguaje. Jesús les dijo que no citaran a los profetas de antaño ni enseñaran acerca de él o de sus enseñanzas, sino que fueran profetas vivos.
 
@@ -121,11 +121,11 @@ Jesús, el maestro de maestros, era la verdad que él enseñaba, y la manera en 
 
 Todo el mundo puede hacerlo. Cito:
 
-> _«Aunque el mortal medio de Urantia no puede esperar alcanzar la elevada perfección de carácter que adquirió Jesús de Nazaret mientras permaneció en la carne, a todo creyente mortal le es totalmente posible desarrollar una personalidad fuerte y unificada según el modelo perfeccionado de la personalidad de Jesús. La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, su exquisita unificación equilibrada.»_ <a id="a122_447"></a>[[LU 100:7.1](/es/The_Urantia_Book/100#p7_1)]
+> _«Aunque el mortal medio de Urantia no puede esperar alcanzar la elevada perfección de carácter que adquirió Jesús de Nazaret mientras permaneció en la carne, a todo creyente mortal le es totalmente posible desarrollar una personalidad fuerte y unificada según el modelo perfeccionado de la personalidad de Jesús. La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, su exquisita unificación equilibrada.»_ <a id="a123_463"></a>[[LU 100:7.1](/es/The_Urantia_Book/100#p7_1)]
 
 y 
 
-> _«Unifica la vida, ennoblece el carácter y simplifica la experiencia. Entra en la mente humana para elevarla, transformarla y transfigurarla. Es literalmente cierto que: «Si un hombre tiene a Cristo Jesús dentro de él, es una criatura nueva; las cosas viejas van desapareciendo; y mirad, todas las cosas se vuelven nuevas.»_ <a id="a126_292"></a>[[LU 100:7.18](/es/The_Urantia_Book/100#p7_18)]
+> _«Unifica la vida, ennoblece el carácter y simplifica la experiencia. Entra en la mente humana para elevarla, transformarla y transfigurarla. Es literalmente cierto que: «Si un hombre tiene a Cristo Jesús dentro de él, es una criatura nueva; las cosas viejas van desapareciendo; y mirad, todas las cosas se vuelven nuevas.»_ <a id="a127_327"></a>[[LU 100:7.18](/es/The_Urantia_Book/100#p7_18)]
 
 He aquí cómo crecemos con Jesús. Cuando leemos uno de estos documentos clave, observamos el desarrollo de Jesús. Advertimos aspectos de su carácter que nos gustaría reforzar en nosotros. Así que diseñamos un proyecto experiencial para hacerlo, y descubrimos actividades que nos permiten que ese crecimiento tenga lugar en nosotros.
 
@@ -143,7 +143,7 @@ He seleccionado nueve principios para mencionar esta mañana.
 
 **Número 5.** Jesús llegó muy lejos en conocer bien a la gente. Era un maestro de maestros hacia el final de sus años de adolescencia. Presten especial atención a esta cita.
 
-> _Nacido en el mundo como un niño del planeta, ha vivido su vida infantil y ha pasado por las etapas sucesivas de la adolescencia y de la juventud. Ahora se encuentra en el umbral de la plena edad adulta, con la rica experiencia de la vida humana, con la comprensión completa de la naturaleza humana y lleno de compasión por las flaquezas de la naturaleza humana. Se está volviendo experto en el arte divino de revelar su Padre Paradisiaco a las criaturas mortales de todas las edades y de todas las etapas._ <a id="a144_453"></a>[[LU 127:6.15](/es/The_Urantia_Book/127#p6_15)]
+> _Nacido en el mundo como un niño del planeta, ha vivido su vida infantil y ha pasado por las etapas sucesivas de la adolescencia y de la juventud. Ahora se encuentra en el umbral de la plena edad adulta, con la rica experiencia de la vida humana, con la comprensión completa de la naturaleza humana y lleno de compasión por las flaquezas de la naturaleza humana. Se está volviendo experto en el arte divino de revelar su Padre Paradisiaco a las criaturas mortales de todas las edades y de todas las etapas._ <a id="a145_510"></a>[[LU 127:6.15](/es/The_Urantia_Book/127#p6_15)]
 
 Tengan en cuenta la expresión «todas las edades y todas las etapas». Las etapas son los primeros años y los últimos de su infancia:
 
@@ -157,15 +157,15 @@ Hablamos de diferente manera a personas de edades diferentes; y hablamos de dife
 
 **Número ocho.** Jesús dijo:
 
-> _«Todos los que creen en este evangelio deberían orar sinceramente por la expansión del reino de los cielos.»_ <a id="a158_101"></a>[[LU 146:2.13](/es/The_Urantia_Book/146#p2_13)]
+> _«Todos los que creen en este evangelio deberían orar sinceramente por la expansión del reino de los cielos.»_ <a id="a159_113"></a>[[LU 146:2.13](/es/The_Urantia_Book/146#p2_13)]
 
 **Número nueve.** Jesús también abría el apetito, de manera que las personas venían a él con sus preguntas por su vida coordinada con la verdad, por su vivir científico integrados y su vivir espiritual en su bella totalidad de rectitud.
 
 He aquí la cita, que tiene importantes implicaciones respecto a cómo hemos de atraer a nuevos lectores.
 
-> _“En todo lo que hagáis, no os volváis parciales y no os especialicéis con exceso. Los fariseos que buscan nuestra destrucción creen de verdad que están sirviendo a Dios. La tradición los ha limitado tanto, que están cegados por los prejuicios y endurecidos por el miedo. Contemplad a los griegos, que tienen una ciencia sin religión, mientras que los judíos tienen una religión desprovista de ciencia. Cuando los hombres se extravían de esta manera, aceptando una desintegración estrecha y confusa de la verdad, su única esperanza de salvación consiste en coordinarse con la verdad — en convertirse._
+> _«En todo lo que hagáis, no os volváis parciales y no os especialicéis con exceso. Los fariseos que buscan nuestra destrucción creen de verdad que están sirviendo a Dios. La tradición los ha limitado tanto, que están cegados por los prejuicios y endurecidos por el miedo. Contemplad a los griegos, que tienen una ciencia sin religión, mientras que los judíos tienen una religión desprovista de ciencia. Cuando los hombres se extravían de esta manera, aceptando una desintegración estrecha y confusa de la verdad, su única esperanza de salvación consiste en coordinarse con la verdad — en convertirse._
 > 
-> _«Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad.»_ <a id="a166_543"></a>[[LU 155:1.4-5](/es/The_Urantia_Book/155#p1_4)]
+> _«Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad.»_ <a id="a167_596"></a>[[LU 155:1.4-5](/es/The_Urantia_Book/155#p1_4)]
 
 ## Recursos adicionales
 

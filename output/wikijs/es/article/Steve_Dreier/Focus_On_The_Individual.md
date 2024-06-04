@@ -41,7 +41,7 @@ No conozco ninguna organización humana que, en realidad, haya puesto al individ
 
 ### La prueba de Jesús
 
-Creo que una de las grandes tareas que enfrentamos es la construcción de una organización cuyo único propósito sea el fomento del crecimiento individual. Según tengo entendido, esta es la verdadera intención detrás de las declaraciones que componen el Artículo 2 de la Constitución de la Hermandad URANTIA. Al intentar determinar las actividades específicas que se llevarán a cabo, debemos aplicar la misma prueba que usó Jesús: «_¿Qué hace por el alma humana? ¿Trae a Dios más cerca del hombre? ¿Lleva al hombre hacia Dios?_» ([LU 126:2.5](/es/The_Urantia_Book/126#p2_5)) El verdadero valor de cualquier institución está en el grado en que se dedica a estos objetivos.
+Creo que una de las grandes tareas que enfrentamos es la construcción de una organización cuyo único propósito sea el fomento del crecimiento individual. Según tengo entendido, esta es la verdadera intención detrás de las declaraciones que componen el Artículo 2 de la Constitución de la Hermandad URANTIA. Al intentar determinar las actividades específicas que se llevarán a cabo, debemos aplicar la misma prueba que usó Jesús: «_¿Qué hace por el alma humana? ¿Trae a Dios más cerca del hombre? ¿Lleva al hombre hacia Dios?_» (<a id="a43_528"></a>[LU 126:2.5](/es/The_Urantia_Book/126#p2_5)) El verdadero valor de cualquier institución está en el grado en que se dedica a estos objetivos.
 
 Al fomentar el crecimiento de cada uno, fomentamos el crecimiento de todos: la Hermandad. El progreso de la Hermandad está ligado al progreso de cada uno de sus miembros individuales, así como el Supremo depende del individuo para Su desarrollo.
 

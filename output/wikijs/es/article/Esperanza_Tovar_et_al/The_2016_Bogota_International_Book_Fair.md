@@ -56,7 +56,7 @@ Los voluntarios hablaron directamente con más de dos mil personas acerca de _El
 
 Se recopilaron nombres, números de teléfono y direcciones de correo electrónico de 305 personas interesadas en adquirir un libro, recibir el boletín de noticias de la asociación o en participar en eventos, presentaciones o futuras conferencias.
 
-Durante el transcurso de la feria hubo tres presentaciones introductorias acerca de _El libro de Urantia_ y un taller titulado “Epigenética de Urantia”, al que asistieron más de treinta personas.
+Durante el transcurso de la feria hubo tres presentaciones introductorias acerca de _El libro de Urantia_ y un taller titulado «Epigenética de Urantia», al que asistieron más de treinta personas.
 
 La ubicación del stand fue excelente, teniendo en cuenta el gran flujo de personas que nos visitó, especialmente gente joven. El stand era atractivo e incluía un mostrador, un expositor de libros, dos mesas con sillas para los visitantes, una computadora para obtener información y un datafono para pagos por tarjeta de crédito. Las paredes estaban decoradas con grandes carteles del libro, de Jesús y del universo maestro.
 

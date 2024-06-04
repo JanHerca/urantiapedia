@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## El proceso de identificación
 
-_El Libro de URANTIA_ revela que nuestra personalidad es de una grandeza tan majestuosa que, sin cambios, ¡puede funcionar incluso en los límites de lo absoluto! ([LU 112:0.15](/es/The_Urantia_Book/112#p0_15)) Esa misma personalidad que tenemos ahora no evoluciona a ese nivel inimaginable, ni crece hasta él. La personalidad permanece sin cambios.
+_El Libro de URANTIA_ revela que nuestra personalidad es de una grandeza tan majestuosa que, sin cambios, ¡puede funcionar incluso en los límites de lo absoluto! (<a id="a36_163"></a>[LU 112:0.15](/es/The_Urantia_Book/112#p0_15)) Esa misma personalidad que tenemos ahora no evoluciona a ese nivel inimaginable, ni crece hasta él. La personalidad permanece sin cambios.
 
 Para reconciliar esta verdad suprema con la realidad tal como la conocemos, parece inevitable concluir que la personalidad no se conoce a sí misma o, al menos, sólo de manera muy incompleta. Y se necesita mucho, mucho tiempo, e incluso más que tiempo, para que la personalidad obtenga ese verdadero autoconocimiento y alcance ese nivel de autorrealización en el que pueda decirse verdaderamente: soy el que soy. (Las mayúsculas serían presuntuosas aquí.) Incluso los autores de _El Libro de URANTIA_ no están seguros de si existe tal finalidad para un hijo de un Padre Infinito.
 
@@ -56,7 +56,7 @@ Una tercera interpretación es aquella en la que las manifestaciones de la mater
 — _David Glass_
 _Bradenton, Florida_
 
-> «_Tarde o temprano todas las personalidades del universo empiezan a darse cuenta de que la búsqueda final de la eternidad es la exploración sin fin de la infinidad, el viaje interminable de descubrimiento dentro de la absolutidad de la Fuente-Centro Primera. Tarde o temprano todos nos volvemos conscientes de que todo crecimiento de las criaturas es proporcional a su identificación con el Padre._» ([LU 106:9.11](/es/The_Urantia_Book/106#p9_11))
+> «_Tarde o temprano todas las personalidades del universo empiezan a darse cuenta de que la búsqueda final de la eternidad es la exploración sin fin de la infinidad, el viaje interminable de descubrimiento dentro de la absolutidad de la Fuente-Centro Primera. Tarde o temprano todos nos volvemos conscientes de que todo crecimiento de las criaturas es proporcional a su identificación con el Padre._» (<a id="a58_403"></a>[LU 106:9.11](/es/The_Urantia_Book/106#p9_11))
 
 
 

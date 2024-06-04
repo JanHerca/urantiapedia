@@ -49,7 +49,7 @@ El tercer artículo, «Los peligros de un planeta decimal», de Claude Flibotte,
 
 El último artículo, «¿Por qué participar en un grupo de estudio?», de Gaétan Charland, es una visión reflexiva y profunda del valor espiritual de los grupos de estudio. Gaétan pasó varios años dirigiendo el comité de Grupos de Estudio de la Asociación y tiene mucha experiencia en la organización y los métodos de los grupos de estudio, así como una amplia comprensión de los beneficios y puntos fuertes de los grupos activos y comprometidos. Describe algunos de los peligros de leer el libro de forma aislada, como las ideas erróneas debidas a lecturas incompletas del libro. Un grupo de estudio no solo contrarresta este aislamiento mediante el beneficioso contacto social sino que, al escuchar los diversos puntos de vista e interpretaciones de los demás, «nos protege de la cristalización de conceptos y percepciones, nos ayuda a aclarar, ampliar y profundizar la comprensión de los conceptos y verdades revelados en _El libro de Urantia_». Gaétan nos recuerda la misión, la filosofía y el propósito de los grupos de estudio, una comprensión que vigoriza el crecimiento al fomentar el sentido de hermandad y la consciencia cósmica.
 
-> Las generaciones futuras deben conocer también el resplandor de nuestro gozo, el optimismo de nuestra buena voluntad y la inspiración de nuestro buen humor. – Jesús <a id="a50_140"></a>[[LU 159:3.10](/es/The_Urantia_Book/159#p3_10)]
+> Las generaciones futuras deben conocer también el resplandor de nuestro gozo, el optimismo de nuestra buena voluntad y la inspiración de nuestro buen humor. – Jesús <a id="a51_167"></a>[[LU 159:3.10](/es/The_Urantia_Book/159#p3_10)]
 
 
 ## Referencias

@@ -39,9 +39,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/Chris-Wood-mic2-280x400.jpg">
 </figure>
 
-_Las personas religiosas, como grupo, nunca deben ocuparse de otra cosa que no sea de religión, aunque cada una de estas personas, como ciudadano individual, puede convertirse en el dirigente destacado de algún movimiento de reconstrucción social, económica o política. _ <a id="a40_243"></a>[[LU 99:3.15](/es/The_Urantia_Book/99#p3_15)]
+_Las personas religiosas, como grupo, nunca deben ocuparse de otra cosa que no sea de religión, aunque cada una de estas personas, como ciudadano individual, puede convertirse en el dirigente destacado de algún movimiento de reconstrucción social, económica o política. _ <a id="a41_272"></a>[[LU 99:3.15](/es/The_Urantia_Book/99#p3_15)]
 
-_La civilización cultural está influida indirectamente por la actitud de estas personas religiosas individuales a medida que se convierten en miembros activos e influyentes de los diversos grupos sociales, morales, económicos y políticos._ <a id="a42_203"></a>[[LU 99:3.3](/es/The_Urantia_Book/99#p3_3)]
+_La civilización cultural está influida indirectamente por la actitud de estas personas religiosas individuales a medida que se convierten en miembros activos e influyentes de los diversos grupos sociales, morales, económicos y políticos._ <a id="a43_240"></a>[[LU 99:3.3](/es/The_Urantia_Book/99#p3_3)]
 
 Siempre que nos reunimos en una conferencia suele surgir esta pregunta: «¿Qué tipo de grupo somos exactamente?» y «¿es Urantia una religión?». En muchos aspectos parecemos una religión. Somos un grupo de personas religiosas. Como grupo y como organizaciones oficiales no nos ocupamos de temas sociales, económicos o políticos; nos animamos mutuamente a llegar a conocer a Dios y ser cada vez más como él.
 

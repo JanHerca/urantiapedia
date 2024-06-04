@@ -70,7 +70,7 @@ El radio del protónes de 0,85 x 10^-15^ metros y, de nuevo, se desvía consider
 
 Sin embargo, ahora se sabe que el protón consta de tres quarks más partículas virtuales que aparecen y desaparecen. Entonces, ¿cuál es realmente el radio de la partedel protón, el sistema de tres quarks? Las medidas modernas lo sitúan en **7,7 x 10^-18^ metros**.
 
-¿Tales medidas «prueban» que los Documentos de Urantia son todo lo que dicen ser? En algún momento probablemente habría respondido que sí, pero después de haber estudiado los Documentos durante tantos años y de haber considerado afirmaciones de sus autores como «La existencia de Dios nunca puede probarse mediante experimentos científicos» y «la revelación solo es validada por humanos». experiencia”, mi conclusión ahora sería más conservadora.
+¿Tales medidas «prueban» que los Documentos de Urantia son todo lo que dicen ser? En algún momento probablemente habría respondido que sí, pero después de haber estudiado los Documentos durante tantos años y de haber considerado afirmaciones de sus autores como «La existencia de Dios nunca puede probarse mediante experimentos científicos» y «la revelación solo es validada por la experiencia humana», mi conclusión ahora sería más conservadora.
 
 Soy consciente de que quiero que estos Documentos sean veraces. También creo que si no son la verdad, entonces deberían serlo. Con eso quiero decir que el Dios a quien llegué a conocer por primera vez a través de la revelación de su naturaleza como se describe en las historias de los Evangelios, está mejor representado en los Documentos de Urantia que en cualquier otro lugar que yo conozca.
 

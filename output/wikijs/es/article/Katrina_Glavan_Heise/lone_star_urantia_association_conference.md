@@ -51,7 +51,7 @@ Una presentación sobre arquitectura social de Kaye Cooper.
 <img src="/image/article/IUA_Tidings/2015-Lone-Star-Conf-150x150.jpg">
 </figure>
 
-_¿Enviarles qué?_ Una pequeña comedia escrita por Suzanne Kelly acerca de un grupo de serafines que conversan sobre la posibilidad de enviar “un libro” a los mortales de Urantia. Estos ángeles y “los 24” estaban ilusionados con las posibilidades y las numerosas personas que querían implicarse, incluyendo a Andon y Fonta.
+_¿Enviarles qué?_ Una pequeña comedia escrita por Suzanne Kelly acerca de un grupo de serafines que conversan sobre la posibilidad de enviar «un libro» a los mortales de Urantia. Estos ángeles y «los 24» estaban ilusionados con las posibilidades y las numerosas personas que querían implicarse, incluyendo a Andon y Fonta.
 
 David Glass presentó un video poderoso y emotivo que él ayudó a crear, que mostraba una bella vista general del universo local.
 
@@ -63,7 +63,7 @@ Rick Guevara habló sobre los Hijos e Hijas Materiales, y entró en los detalles
 
 Jean-Pierre Heudier estimuló una discusión animada con su presentación, _Autoestop en nuestro camino de las escuelas de la Tierra a las escuelas de Salvington_, que guió a los asistentes a través de las varias escuelas de capacitación presentadas en _El libro de Urantia_.
 
-Chris Wood, presidente de la Asociación Urantia Internacional, habló sobre _Una mirada desastrosa a los mundos mansión_, ¡una treta elaborada para hablar sobre sus hijos y enseñarnos fotos de ellos! Chris compartió historias deliciosas que demostraron lo “desastroso” que es nuestro planeta (se refería, por supuesto, a nuestro atípico desarrollo).
+Chris Wood, presidente de la Asociación Urantia Internacional, habló sobre _Una mirada desastrosa a los mundos mansión_, ¡una treta elaborada para hablar sobre sus hijos y enseñarnos fotos de ellos! Chris compartió historias deliciosas que demostraron lo «desastroso» que es nuestro planeta (se refería, por supuesto, a nuestro atípico desarrollo).
 
 Richard Jernigan mostró su vídeo sobre Urantia, _Nebadon y el universo maestro_. Es un recorrido por la relación numérica de Urantia respecto a su universo local de Nebadon y al universo maestro, basado en la cosmología de _El libro de Urantia_. Hagan [clic aquí](https://www.youtube.com/watch?v=loEnwEdRT_g&utm_source=Emailbrain&utm_medium=email&utm_term=NewsletterLink&utm_campaign=UrantiaFilm+10_2014&utm_content=) para ver este asombroso vídeo de 5 minutos.
 

@@ -38,7 +38,7 @@ Después de leer y pensar un poco desde entonces, poco a poco me he dado cuenta 
 
 Parece haber dos formas principales en que la ciencia y la tecnología hacen sus contribuciones: primero, en forma de desafíos que plantean a la vida religiosa, y segundo, en las oportunidades que crean.
 
-_El Libro de URANTIA_ dice que «_Los nuevos significados sólo emergen en medio de los conflictos..._» ([LU 100:4.1](/es/The_Urantia_Book/100#p4_1)) y que «_...no puede existir ningún crecimiento sin conflicto psíquico y sin agitación espiritual._» ([LU 100:4.2](/es/The_Urantia_Book/100#p4_2)). Bueno, ciertamente se han creado tremendos conflictos y desafíos para el alma del hombre en nuestra era científica.
+_El Libro de URANTIA_ dice que «_Los nuevos significados sólo emergen en medio de los conflictos..._» (<a id="a40_103"></a>[LU 100:4.1](/es/The_Urantia_Book/100#p4_1)) y que «_...no puede existir ningún crecimiento sin conflicto psíquico y sin agitación espiritual._» (<a id="a40_249"></a>[LU 100:4.2](/es/The_Urantia_Book/100#p4_2)). Bueno, ciertamente se han creado tremendos conflictos y desafíos para el alma del hombre en nuestra era científica.
 
 Pero también la ciencia y la tecnología han creado oportunidades claras, abundantes y accesibles para potenciar la vida espiritual, oportunidades que nunca antes habían existido en nuestro mundo.
 
@@ -66,11 +66,11 @@ Pero este es mi favorito, de Science Digest, de todos los lugares, de 1948.
 
 Predecir es difícil, si no imposible, pero ¿cuándo parece que la vida volverá a ralentizarse? Si eres como yo, normalmente piensas: «Si puedo aguantar un par de semanas más, sé que todo esto pasará y las cosas volverán a la normalidad». Probablemente Dorothy fue un poco más precisa cuando dijo: «¡Toto, tengo la sensación de que ya no estamos en Kansas!» Un Melquisedec de Nebadón es característicamente igual de contundente:
 
-> «_Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado._» ([LU 99:1.1](/es/The_Urantia_Book/99#p1_1))
+> «_Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio. La raza humana debe aceptar una serie de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado._» (<a id="a68_243"></a>[LU 99:1.1](/es/The_Urantia_Book/99#p1_1))
 
-«_La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas._» ([LU 99:1.3](/es/The_Urantia_Book/99#p1_3)) «_El paso violento de una era de milagros a una era de máquinas_», dice _El Libro de URANTIA_, «_ha resultado ser enteramente perturbador para el hombre._» ([LU 195:6.6](/es/The_Urantia_Book/195#p6_6)) Podemos esperar que nos desalojen de nuestro entorno de familiaridad con mucha regularidad. El cambio rápido será mucho más constante que la constancia. En medio de esta agitación de cambio, progenie del progreso tecnológico, se encuentra un enorme desafío espiritual para encontrar constancia real y estabilidad real en la experiencia de conocer a Dios.
+«_La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas._» (<a id="a70_90"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3)) «_El paso violento de una era de milagros a una era de máquinas_», dice _El Libro de URANTIA_, «_ha resultado ser enteramente perturbador para el hombre._» (<a id="a70_290"></a>[LU 195:6.6](/es/The_Urantia_Book/195#p6_6)) Podemos esperar que nos desalojen de nuestro entorno de familiaridad con mucha regularidad. El cambio rápido será mucho más constante que la constancia. En medio de esta agitación de cambio, progenie del progreso tecnológico, se encuentra un enorme desafío espiritual para encontrar constancia real y estabilidad real en la experiencia de conocer a Dios.
 
-> «_Durante los tiempos psicológicamente agitados del siglo veinte, en medio de los trastornos económicos, las contracorrientes morales y las mareas sociológicas desgarradoras de las transiciones ciclónicas de una era científica, miles y miles de hombres y de mujeres se han dislocado humanamente; están ansiosos, inquietos, temerosos, inseguros e inestables; necesitan, más que nunca en la historia del mundo, el consuelo y la estabilidad de una religión sana. Existe un estancamiento espiritual y un caos filosófico en presencia de unos logros científicos y de unos desarrollos mecánicos sin precedentes._» ([LU 99:4.6](/es/The_Urantia_Book/99#p4_6))
+> «_Durante los tiempos psicológicamente agitados del siglo veinte, en medio de los trastornos económicos, las contracorrientes morales y las mareas sociológicas desgarradoras de las transiciones ciclónicas de una era científica, miles y miles de hombres y de mujeres se han dislocado humanamente; están ansiosos, inquietos, temerosos, inseguros e inestables; necesitan, más que nunca en la historia del mundo, el consuelo y la estabilidad de una religión sana. Existe un estancamiento espiritual y un caos filosófico en presencia de unos logros científicos y de unos desarrollos mecánicos sin precedentes._» (<a id="a72_610"></a>[LU 99:4.6](/es/The_Urantia_Book/99#p4_6))
 
 El desafío del cambio ha proporcionado un tremendo estímulo para el crecimiento espiritual: un estímulo para encontrar a Dios y la estabilidad de conocer a Dios en un entorno que cambia constantemente.
 
@@ -96,17 +96,17 @@ Los cambios en las técnicas de viaje y comunicación han amplificado, en un gra
 
 Una de las consecuencias de la investigación científica ha sido el secularismo, la idea de que cuanto más aprendemos sobre el universo, menos Dios se vuelve y menos necesitamos de la religión. Según _El Libro de URANTIA_, el secularismo plantea un peligroso desafío a la civilización. Algunas de las advertencias más duras que he leído en _El Libro de URANTIA_ se refieren directamente a las estructuras de poder secularistas prevalecientes y a lo que se llama la principal barrera para la paz mundial: el nacionalismo. Para empeorar las cosas, la ciencia ha entregado al mundo la capacidad de aniquilación total del mundo. _El Libro de URANTIA_ tiene lo que parecen ser pronósticos mixtos con respecto al desafío del secularismo. Leemos por ejemplo:
 
-> «_La secularización completa de la ciencia, la educación, la industria y la sociedad sólo pueden conducir al desastre. Durante el primer tercio del siglo veinte, los urantianos han matado a más seres humanos que durante toda la dispensación cristiana hasta ese momento. Y éste sólo es el principio de la espantosa cosecha del materialismo y del laicismo; una destrucción aún más terrible está todavía por venir._» ([LU 195:8.13](/es/The_Urantia_Book/195#p8_13))
+> «_La secularización completa de la ciencia, la educación, la industria y la sociedad sólo pueden conducir al desastre. Durante el primer tercio del siglo veinte, los urantianos han matado a más seres humanos que durante toda la dispensación cristiana hasta ese momento. Y éste sólo es el principio de la espantosa cosecha del materialismo y del laicismo; una destrucción aún más terrible está todavía por venir._» (<a id="a98_417"></a>[LU 195:8.13](/es/The_Urantia_Book/195#p8_13))
 
-> «_El materialismo niega a Dios, el laicismo se limita a ignorarlo; al menos ésta fue su actitud primitiva. Más recientemente, el laicismo ha tomado una actitud más militante, pretendiendo ocupar el lugar de la religión, cuya esclavitud totalitaria rechazó anteriormente. El laicismo del siglo veinte tiende a afirmar que el hombre no necesita a Dios. ¡Pero cuidado! Esta filosofía atea de la sociedad humana sólo conducirá a la inquietud, a la animosidad, a la infelicidad, a la guerra y a un desastre mundial._» ([LU 195:8.5](/es/The_Urantia_Book/195#p8_5))
+> «_El materialismo niega a Dios, el laicismo se limita a ignorarlo; al menos ésta fue su actitud primitiva. Más recientemente, el laicismo ha tomado una actitud más militante, pretendiendo ocupar el lugar de la religión, cuya esclavitud totalitaria rechazó anteriormente. El laicismo del siglo veinte tiende a afirmar que el hombre no necesita a Dios. ¡Pero cuidado! Esta filosofía atea de la sociedad humana sólo conducirá a la inquietud, a la animosidad, a la infelicidad, a la guerra y a un desastre mundial._» (<a id="a100_516"></a>[LU 195:8.5](/es/The_Urantia_Book/195#p8_5))
 
 El resumen de las conferencias de Urmia que hicieron los intermedios incluye estas declaraciones;
 
-> «_Con el progreso científico, las guerras se van a volver cada vez más devastadoras, hasta que se conviertan prácticamente en un suicidio racial._» ([LU 134:5.17](/es/The_Urantia_Book/134#p5_17))
+> «_Con el progreso científico, las guerras se van a volver cada vez más devastadoras, hasta que se conviertan prácticamente en un suicidio racial._» (<a id="a104_151"></a>[LU 134:5.17](/es/The_Urantia_Book/134#p5_17))
 
-> «_Habrá guerras y rumores de guerras —una nación se levantará contra otra— mientras que la soberanía política del mundo esté dividida e injustamente mantenida por un grupo de Estados nacionales._» ([LU 134:6.3](/es/The_Urantia_Book/134#p6_3))
+> «_Habrá guerras y rumores de guerras —una nación se levantará contra otra— mientras que la soberanía política del mundo esté dividida e injustamente mantenida por un grupo de Estados nacionales._» (<a id="a106_200"></a>[LU 134:6.3](/es/The_Urantia_Book/134#p6_3))
 
-> «_...Pero las guerras globales continuarán hasta que se cree el gobierno de la humanidad. La soberanía global impedirá las guerras globales —ninguna otra cosa puede hacerlo._» ([LU 134:6.4](/es/The_Urantia_Book/134#p6_4))
+> «_...Pero las guerras globales continuarán hasta que se cree el gobierno de la humanidad. La soberanía global impedirá las guerras globales —ninguna otra cosa puede hacerlo._» (<a id="a108_179"></a>[LU 134:6.4](/es/The_Urantia_Book/134#p6_4))
 
 ¿Podemos esperar que los gobiernos de naciones soberanas desarrollen un gobierno mundial creador de paz? No sé. Alguien dijo una vez que es tan improbable encontrar un departamento de paz en una nación soberana como lo sería encontrar un departamento de vida en una funeraria.
 
@@ -116,7 +116,7 @@ Y _El Libro de URANTIA_ no es enteramente pesimista sobre los resultados del sec
 
 > «_El cristianismo ... está ahora presente en el mundo civilizado de los pueblos occidentales, haciendo frente a una lucha por la existencia que es aún más inquietante que aquellas crisis memorables que caracterizaron sus pasadas batallas por conseguir el dominio._»
 > 
-> «_La religión se enfrenta ahora con el desafío de una nueva era de mentalidad científica y de tendencias materialistas. En este conflicto gigantesco entre lo secular y lo espiritual, la religión de Jesús acabará por triunfar._» ([LU 195:4.4](/es/The_Urantia_Book/195#p4_4))
+> «_La religión se enfrenta ahora con el desafío de una nueva era de mentalidad científica y de tendencias materialistas. En este conflicto gigantesco entre lo secular y lo espiritual, la religión de Jesús acabará por triunfar._» (<a id="a118_231"></a>[LU 195:4.4](/es/The_Urantia_Book/195#p4_4))
 
 También debemos reconocer el hecho de que el secularismo ha brindado muchos beneficios a la civilización: creatividad industrial, gobierno democrático y libertades civiles, por nombrar algunos.
 
@@ -128,9 +128,9 @@ El físico Gary Zukav, en su libro The Dancing Wu Li Masters, dijo: «No hay dud
 
 La ciencia no ha estado exenta de dogmatismo. Por ejemplo, la Academia francesa anunció en un momento dado que no aceptaría más informes sobre meteoritos, ya que era ridículo pensar que pudieran caer rocas del cielo. Poco después una lluvia de meteoritos estuvo a punto de romper los cristales de la Academia. Pero la ciencia ahora parece más generosamente receptiva a ideas inusuales. Nihls Bohr, el eminente físico, comentó una vez sobre una idea expuesta por un colega: «No es lo suficientemente loco como para ser verdad». La ciencia genera continuamente nuevos paradigmas para comprender el universo. Uno de ellos es ofrecido por un científico de el nombre de Pribram be, sino que es en realidad una proyección holográfica, una imagen tridimensional proyectada. Qué similar suena esto a la descripción de los intermedios:
 
-> «_La humanidad es lenta en percibir que, en todo lo que es personal, la materia es el esqueleto de la morontia, y que ambos son la sombra reflejada de la realidad espiritual duradera. ¿Cuánto tiempo necesitaréis para considerar que el tiempo es la imagen móvil de la eternidad, y el espacio la sombra fugaz de las realidades del Paraíso?_» ([LU 189:1.3](/es/The_Urantia_Book/189#p1_3))
+> «_La humanidad es lenta en percibir que, en todo lo que es personal, la materia es el esqueleto de la morontia, y que ambos son la sombra reflejada de la realidad espiritual duradera. ¿Cuánto tiempo necesitaréis para considerar que el tiempo es la imagen móvil de la eternidad, y el espacio la sombra fugaz de las realidades del Paraíso?_» (<a id="a130_343"></a>[LU 189:1.3](/es/The_Urantia_Book/189#p1_3))
 
-Cada vez más, la investigación científica parece estar descubriendo la realidad de que «_el universo no se parece a las leyes, los mecanismos y las constantes que descubre el científico, y que llega a considerar como ciencia, sino que se parece más bien al *científico* curioso que piensa, escoge, crea, combina y discrimina_». ([LU 195:7.22](/es/The_Urantia_Book/195#p7_22))
+Cada vez más, la investigación científica parece estar descubriendo la realidad de que «_el universo no se parece a las leyes, los mecanismos y las constantes que descubre el científico, y que llega a considerar como ciencia, sino que se parece más bien al *científico* curioso que piensa, escoge, crea, combina y discrimina_». (<a id="a132_329"></a>[LU 195:7.22](/es/The_Urantia_Book/195#p7_22))
 
 No existe ningún conflicto real entre ciencia y religión y la ciencia ahora parece estar construyendo una infraestructura sólida para sustentar la realidad de la experiencia religiosa.
 
@@ -154,7 +154,7 @@ La declaración más conmovedora y profética que he leído sobre el desafío de
 
 > «No lo sé. Nuestros caminos son diferentes a los vuestros. La vista de tus ciudades duele los ojos del hombre rojo. No hay ningún lugar tranquilo en las ciudades del hombre blanco. Ningún lugar para escuchar el despliegue de las hojas en primavera o el susurro de las alas de los insectos. El estrépito sólo parece insultar los oídos. ¿Y qué hay de vida si un hombre no puede oír el grito solitario del látigo o las discusiones de las ranas alrededor del estanque por la noche?…»
 > 
-> “El aire es precioso para el hombre rojo porque todas las cosas comparten el mismo aliento, la bestia, el árbol, el hombre, todos comparten el mismo aliento. El hombre blanco no parece notar el aire que respira. Como un hombre que muere durante muchos días, está insensible al hedor. Pero si os vendemos nuestra tierra, debéis recordar que el aire es precioso para nosotros, que el aire comparte su espíritu con toda la vida que sustenta...
+> «El aire es precioso para el hombre rojo porque todas las cosas comparten el mismo aliento, la bestia, el árbol, el hombre, todos comparten el mismo aliento. El hombre blanco no parece notar el aire que respira. Como un hombre que muere durante muchos días, está insensible al hedor. Pero si os vendemos nuestra tierra, debéis recordar que el aire es precioso para nosotros, que el aire comparte su espíritu con toda la vida que sustenta...
 > 
 > «Debéis enseñar a vuestros hijos que el suelo bajo sus pies son las cenizas de nuestros abuelos. Todo lo que sucede a la tierra, sucede a los hijos de la tierra. Si los hombres escupen al suelo, se escupen a sí mismos».
 > 
@@ -183,7 +183,7 @@ De diversas fuentes obtenemos destellos de la transformación que está en march
 Lewis Murnford habla de la era de «La Nueva Persona», la edad que, según él, hará que el renacimiento parezca un nacimiento muerto.
 _El Libro de URANTIA_ nos dice que estamos temblando al borde del mayor renacimiento espiritual que el mundo haya conocido jamás. Nuestro barco social acaba de abandonar las bahías protegidas de la tradición establecida y ha comenzado su viaje hacia una nueva era en alta mar del destino planetario, y dice _El Libro de URANTIA_:
 
-> «_...el alma del hombre necesita, como nunca antes en toda la historia del mundo, escudriñar cuidadosamente sus mapas de moralidad y observar esmeradamente la brújula de su orientación religiosa._» ([LU 99:1.3](/es/The_Urantia_Book/99#p1_3))
+> «_...el alma del hombre necesita, como nunca antes en toda la historia del mundo, escudriñar cuidadosamente sus mapas de moralidad y observar esmeradamente la brújula de su orientación religiosa._» (<a id="a185_201"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3))
 
 La ciencia y la tecnología han proporcionado el estímulo y la oportunidad para una nueva era espiritual, y el mundo, más que nunca antes, necesita la respuesta y la guía de personas guiadas por el espíritu durante este difícil y peligroso tiempo de transición.
 

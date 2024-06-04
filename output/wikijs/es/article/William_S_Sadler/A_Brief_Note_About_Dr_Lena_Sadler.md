@@ -14,7 +14,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 La Dra. Lena (como se la conoce generalmente) es médica en ejercicio y colaboradora profesional del Dr. William S. Sadler. Ella también es egresada de la escuela regular de medicina.
 
-Es profesora asociada de Terapéutica Fisiológica en “The Post Graduate Medical School of Chicago”; director asociado del “Instituto de Terapéutica Fisiológica de Chicago”; y especialista en enfermedades de la mujer y del niño.
+Es profesora asociada de Terapéutica Fisiológica en «The Post Graduate Medical School of Chicago»; director asociado del «Instituto de Terapéutica Fisiológica de Chicago»; y especialista en enfermedades de la mujer y del niño.
 
 La Dra. Lena es miembro del Club de Mujeres de Chicago, la Sociedad Médica del Estado de Illinois y también es miembro de la Asociación Médica Estadounidense.
 

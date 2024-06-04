@@ -69,7 +69,7 @@ El verdadero problema, creo, la verdad más amplia, era que me sentía abrumado 
 
 Otro lector me sugirió que empezara por el final, como hace mucha gente, con la _Parte IV: La vida y las enseñanzas de Jesús_. Ciertamente, no menos importante que cualquier otra parte. Sin embargo, estos documentos son como si se tratara de una novela en comparación con la densa, difícil e intrincada escritura técnica de las secciones anteriores.
 
-Pero había una parte de mí que no quería violar la integridad del texto de esta manera, o más bien _la integridad del proceso de revelación_. Y así, fiel a mi naturaleza de Virgo (a pesar del estatus de la astrología como «creencia supersticiosa» (<a id="a70_231"></a>[LU 121:5.5](/es/The_Urantia_Book/121#p5_5)) volví al Prólogo, decidido a leer _El libro de Urantia_ de corrido.
+Pero había una parte de mí que no quería violar la integridad del texto de esta manera, o más bien _la integridad del proceso de revelación_. Y así, fiel a mi naturaleza de Virgo (a pesar del estatus de la astrología como «creencia supersticiosa» (<a id="a71_248"></a>[LU 121:5.5](/es/The_Urantia_Book/121#p5_5)) volví al Prólogo, decidido a leer _El libro de Urantia_ de corrido.
 
 Aporté a esta tarea una preparación considerable, pensé: una búsqueda de Dios que comenzó en serio en 1979 cuando aprendí a meditar y que me llevó primero del judaísmo nominal en el que nací al budismo, luego a _Un curso de milagros_, y finalmente al cristianismo, inicialmente a los cuáqueros, luego a la Iglesia Episcopal en la que fui bautizado y confirmado, y a la ordenación como sacerdote católico (no romano) dentro del ISM, o Movimiento Sacramental Independiente.
 

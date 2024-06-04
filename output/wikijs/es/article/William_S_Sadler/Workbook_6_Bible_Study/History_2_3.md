@@ -39,7 +39,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 9. Entre los primeros inventos de Palestina se encontraba el alfabeto de los fenicios, que pasó a los griegos y luego a Europa.
 10. Después, de algún lugar vinieron los edomitas y los moabitas.
 11. La fecha del Éxodo es dudosa. Probablemente en el siglo XIII. 1 Reyes 6:1 sitúa el Éxodo 480 años antes del cuarto año del reinado de Salomón. Esto sería en el siglo XV.
-12. Para la historia de Moisés, ver <a id="s41_29"></a>[LU 96:3.1](/es/The_Urantia_Book/95#p3_1)
+12. Para la historia de Moisés, ver <a id="s41_36"></a>[LU 96:3.1](/es/The_Urantia_Book/95#p3_1)
 13. Recuerde que Moisés había pasado años con los ceneos antes de regresar para sacar a los hebreos de Egipto.
 14. Hay casi dos historias sobre los vagabundeos por el desierto:
 	- a. En uno, se quedan mucho tiempo en el Sinaí.

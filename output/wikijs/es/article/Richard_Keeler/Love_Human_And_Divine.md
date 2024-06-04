@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-¿Que es el amor? «_El amor es el deseo de hacer el bien a los demás._» ([LU 56:10.21](/es/The_Urantia_Book/56#p10_21)) Es el «_...secreto de la asociación beneficiosa entre personalidades,_» ([LU 12:9.2](/es/The_Urantia_Book/12#p9_2)) y «_... connota el concepto más elevado del hombre sobre las relaciones mortales de respeto y devoción..._» Este «_... afecto incomparable del Dios viviente por sus criaturas universales_» es la «_... realidad suprema del universo... _ » ([LU 2:5.11](/es/The_Urantia_Book/2#p5_11), [LU 177:2.3](/es/The_Urantia_Book/177#p2_3)) «_... el amor es lo más grande del universo..._» ([LU 56:10.20](/es/The_Urantia_Book/56#p10_20))
+¿Que es el amor? «_El amor es el deseo de hacer el bien a los demás._» (<a id="a37_72"></a>[LU 56:10.21](/es/The_Urantia_Book/56#p10_21)) Es el «_...secreto de la asociación beneficiosa entre personalidades,_» (<a id="a37_192"></a>[LU 12:9.2](/es/The_Urantia_Book/12#p9_2)) y «_... connota el concepto más elevado del hombre sobre las relaciones mortales de respeto y devoción..._» Este «_... afecto incomparable del Dios viviente por sus criaturas universales_» es la «_... realidad suprema del universo... _ » (<a id="a37_474"></a>[LU 2:5.11](/es/The_Urantia_Book/2#p5_11), <a id="a37_517"></a>[LU 177:2.3](/es/The_Urantia_Book/177#p2_3)) «_... el amor es lo más grande del universo..._» (<a id="a37_612"></a>[LU 56:10.20](/es/The_Urantia_Book/56#p10_20))
 
 El amor es humano o divino. El amor humano puede ser sexual o no sexual. Si no es sexual, es paternal o fraternal. Todo amor genuino proviene de Dios.
 

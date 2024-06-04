@@ -49,7 +49,7 @@ Cuatro benefactores anónimos han desafiado a la Fundación Urantia a recaudar 3
 
 Las ventas de libros durante los primeros nueve meses de 2013 fueron bajas en comparación con las ventas del mismo periodo de 2012. Después de investigar en la industria editorial, vimos que las ventas en general de libros como _El libro de Urantia_ bajaron un diez por ciento durante el año. Además, las ventas de libros digitales en la industria editorial se han ralentizado por primera vez desde que están disponibles. La buena noticia es que las ventas de _El libro de Urantia_ se aceleraron en octubre. Aún así, puede que este año sea difícil alcanzar nuestro objetivo anual de ventas de un aumento del siete por ciento.
 
-La Fundación Urantia ha lanzado su venta anual navideña con ediciones en tapa dura a 17,95 $, con gastos de envío gratuitos en los EEUU, comparado con el precio de venta sugerido de 24,95$. Las cajas de diez libros valen 139 $, envío gratis en los EEUU, comparado con el precio normal de venta de 250 $. Pueden elegir los nuevos diseños: o bien “el árbol de la vida” o bien “el mundo”.
+La Fundación Urantia ha lanzado su venta anual navideña con ediciones en tapa dura a 17,95 $, con gastos de envío gratuitos en los EEUU, comparado con el precio de venta sugerido de 24,95$. Las cajas de diez libros valen 139 $, envío gratis en los EEUU, comparado con el precio normal de venta de 250 $. Pueden elegir los nuevos diseños: o bien «el árbol de la vida» o bien «el mundo».
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_12/010.jpg">

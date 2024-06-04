@@ -43,11 +43,11 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Muchos grupos de estudio han ido y venido desde que se publicó _El libro de Urantia_, y probablemente vendrán muchos otros por varias razones. Una de ellas podría ser que no han logrado sus objetivos de aumentar la conciencia cósmica y elevar la percepción espiritual. No solo algunos grupos de estudio no logran estos dos objetivos, sino que también muchos no logran tampoco enseñar a otros cómo convertirse en mejores sembradores de verdades, cómo implicarse más en nuestra emancipación espiritual a través del servicio a los demás, y cómo integrar mejor las enseñanzas de _El libro de Urantia_ en nuestra vida.
 
-> _El mundo necesita ver a Jesús viviendo de nuevo en la Tierra, en la expoeriencia de los mortales nacidos del espíritu que revelan al Maestro eficazmente a todos los hombres._ <a id="a44_142"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+> _El mundo necesita ver a Jesús viviendo de nuevo en la Tierra, en la expoeriencia de los mortales nacidos del espíritu que revelan al Maestro eficazmente a todos los hombres._ <a id="a45_178"></a>[[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 Uso esta cita para destacar la importancia de vivir de acuerdo con las enseñanzas de Jesús, no de predicar sobre él, como muchos creyentes tienden a hacer; vivir la verdad que Jesús predicó de manera tan elocuente lo mejor que podamos, no solo en palabras sino como ejemplos vivos de la Paternidad de Dios y la hermandad de los hombres.
 
-> _«Declaro que el reino de los cielos es la comprensión y el reconocimiento del gobierno de Dios en el corazón de los hombres.»_ <a id="a48_121"></a>[[LU 141:2.1](/es/The_Urantia_Book/141#p2_1)]
+> _«Declaro que el reino de los cielos es la comprensión y el reconocimiento del gobierno de Dios en el corazón de los hombres.»_ <a id="a49_130"></a>[[LU 141:2.1](/es/The_Urantia_Book/141#p2_1)]
 
 > _«El libro se está dando a los que están preparados para él, mucho antes del día de su misión mundial. Se deben traer a la existencia miles de grupos de estudio y el libro debe traducirse a muchos idiomas. De este modo, el libro estará listo para cuando la batalla por las libertades del hombre se haya ganado finalmente y el mundo esté una vez más a salvo para la religión de Jesús y la libertad de la humanidad.»_ [del Mandato de Publicación](/es/article/The_Publication_Mandate)
 

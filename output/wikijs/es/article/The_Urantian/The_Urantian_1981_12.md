@@ -74,7 +74,7 @@ Las primeras asociaciones que vienen a la mente incluyen las guerras santas, la 
 — _Jeffrey Wattles_
 _Berkeley, California_
 
-> «_La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres._» ([LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
+> «_La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres._» (<a id="a76_713"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
 
 
 

@@ -45,18 +45,18 @@ Un ejemplo reciente es «personalidad»: en un libro en el que la supervivencia 
 
 <br style="clear:both;"/>
 
-> _… sería presuntuoso intentar definir la personalidad…_ <a id="a46_72"></a>[[LU 112:0.2](/es/The_Urantia_Book/112#p0_2)]
+> _… sería presuntuoso intentar definir la personalidad…_ <a id="a47_58"></a>[[LU 112:0.2](/es/The_Urantia_Book/112#p0_2)]
 
 Pero luego, como por casualidad, en la estancia en Roma, un intermedio decide que al parecer no es presuntuoso sino solo… ¿suntuoso? Y nos dicen que:
 
 
-> _La presencia del bien y del mal en el mundo es, en sí misma, una prueba positiva de la existencia y de la realidad de la voluntad moral del hombre, de la personalidad…_ <a id="a51_146"></a>[[LU 132:2.8](/es/The_Urantia_Book/132#p2_8)]
+> _La presencia del bien y del mal en el mundo es, en sí misma, una prueba positiva de la existencia y de la realidad de la voluntad moral del hombre, de la personalidad…_ <a id="a52_172"></a>[[LU 132:2.8](/es/The_Urantia_Book/132#p2_8)]
 
 Y allá vamos. Ahora puedo regresar y releer todo _El libro de Urantia_ desde el principio con una nueva definición en mente. La personalidad es la voluntad moral de una persona, no su carácter distintivo. Así que cuando leo el documento 1 sé cómo los humanos pueden obtener «la perfección de la motivación de la personalidad»: puedo explorarla como «la perfección de nuestras motivaciones de voluntad moral».
 
 Un Melquisedec nos dice que:
 
-> _De todas las formas del mal, ninguna tiene un efecto más destructivo sobre la condición de la personalidad que la traición al deber y la deslealtad hacia unos amigos confiados._ <a id="a57_144"></a>[[LU 67:1.3](/es/The_Urantia_Book/67#p1_3)]
+> _De todas las formas del mal, ninguna tiene un efecto más destructivo sobre la condición de la personalidad que la traición al deber y la deslealtad hacia unos amigos confiados._ <a id="a58_181"></a>[[LU 67:1.3](/es/The_Urantia_Book/67#p1_3)]
 
 La traición a la confianza y la deslealtad a los amigos destruye nuestra voluntad moral.
 

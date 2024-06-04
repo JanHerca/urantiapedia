@@ -60,7 +60,7 @@ _El siguiente artículo fue presentado en la Conferencia Regional del Medio Oest
 
 En LU 195:9.2 de _El Libro de URANTIA_ dice:
 
-> «_Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual._» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
+> «_Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual._» (<a id="a62_176"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2))
 
 Yo lo creo. Y esto es todo un desafío, que te pidan hablar sobre renovar y revitalizar la sociedad, incluso con _El Libro de URANTIA_ como punto de referencia.
 
@@ -92,16 +92,16 @@ Muchas personas que creen en el mundo del espiritismo y la parapsicología creen
 
 Me he elegido y me han dado una parte de participación en nuestro Plan Universal; espiritualmente sé que mi ángel de la guarda me llama de una manera que es así encantador, pero persuasivo.
 
-Un cuerpo de 144 serafines sirve en una esfera evolutiva de habitación de criaturas: «_Estos ángeles presiden todas las asambleas seráficas relacionadas con el cumplimiento del deber o el llamado a la adoración._» ([LU 39:1.16](/es/The_Urantia_Book/39#p1_16))
+Un cuerpo de 144 serafines sirve en una esfera evolutiva de habitación de criaturas: «_Estos ángeles presiden todas las asambleas seráficas relacionadas con el cumplimiento del deber o el llamado a la adoración._» (<a id="a94_215"></a>[LU 39:1.16](/es/The_Urantia_Book/39#p1_16))
 
-El espíritu de hermandad sobrevive en Urantia gracias al trabajo de los serafines para lograr la armonía racial y la cooperación social entre nuestras diversas razas. «_Sin el trabajo de estos serafines, los esfuerzos de los Hijos Materiales por armonizar y hacer avanzar a las razas de un mundo evolutivo se retrasarían enormemente. Y si vuestro Adán se hubiera adherido al plan original para el avance de Urantia, estos espíritus de la fraternidad ya habrían realizado a estas alturas unas transformaciones increíbles en la raza humana. En vista de la falta adámica, es realmente admirable que estas órdenes seráficas hayan sido capaces de fomentar y de llevar a cabo el grado de fraternidad que disfrutáis actualmente en Urantia._» ([LU 39:5.4](/es/The_Urantia_Book/39#p5_4))
+El espíritu de hermandad sobrevive en Urantia gracias al trabajo de los serafines para lograr la armonía racial y la cooperación social entre nuestras diversas razas. «_Sin el trabajo de estos serafines, los esfuerzos de los Hijos Materiales por armonizar y hacer avanzar a las razas de un mundo evolutivo se retrasarían enormemente. Y si vuestro Adán se hubiera adherido al plan original para el avance de Urantia, estos espíritus de la fraternidad ya habrían realizado a estas alturas unas transformaciones increíbles en la raza humana. En vista de la falta adámica, es realmente admirable que estas órdenes seráficas hayan sido capaces de fomentar y de llevar a cabo el grado de fraternidad que disfrutáis actualmente en Urantia._» (<a id="a96_736"></a>[LU 39:5.4](/es/The_Urantia_Book/39#p5_4))
 
 [Leer más](/es/article/Victoria_Urban/The_seraphim)
 
 — _Victoria Urbana_
 _Santa Rosa, California_
 
-> «_Los serafines actúan como educadores de los hombres, guiando los pasos de la personalidad humana por los caminos de las experiencias nuevas y progresivas. Aceptar la guía de un serafín raras veces significa disfrutar de una vida cómoda. Si seguís esta guía, encontraréis con toda seguridad las escarpadas colinas de la elección moral y del progreso espiritual, y si tenéis valentía, las atravesaréis._» ([LU 113:4.3](/es/The_Urantia_Book/113#p4_3))
+> «_Los serafines actúan como educadores de los hombres, guiando los pasos de la personalidad humana por los caminos de las experiencias nuevas y progresivas. Aceptar la guía de un serafín raras veces significa disfrutar de una vida cómoda. Si seguís esta guía, encontraréis con toda seguridad las escarpadas colinas de la elección moral y del progreso espiritual, y si tenéis valentía, las atravesaréis._» (<a id="a103_408"></a>[LU 113:4.3](/es/The_Urantia_Book/113#p4_3))
 
 
 

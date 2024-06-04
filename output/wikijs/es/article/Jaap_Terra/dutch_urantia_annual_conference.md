@@ -47,7 +47,7 @@ Este año la conferencia se centrará en _La fe de Jesús_.
 El documento 196 de _El libro de Urantia_ será la inspiración principal de las presentaciones para una serie de conferenciantes, y esta cita en particular:
 <br style="clear:both;"/>
 
-> _Este mundo y todos los demás mundos de la creación local descubren, en la vida del Maestro en Urantia, un tipo de religión nuevo y superior, una religión basada en las relaciones espirituales personales con el Padre Universal, y totalmente validada por la autoridad suprema de una experiencia personal auténtica. Esta fe viviente de Jesús era más que una reflexión intelectual, y no era una meditación mística._ <a id="a48_385"></a>[[LU 196:0.4](/es/The_Urantia_Book/196#p0_4)]
+> _Este mundo y todos los demás mundos de la creación local descubren, en la vida del Maestro en Urantia, un tipo de religión nuevo y superior, una religión basada en las relaciones espirituales personales con el Padre Universal, y totalmente validada por la autoridad suprema de una experiencia personal auténtica. Esta fe viviente de Jesús era más que una reflexión intelectual, y no era una meditación mística._ <a id="a49_415"></a>[[LU 196:0.4](/es/The_Urantia_Book/196#p0_4)]
 
 La conferencia se celebrará de nuevo en el recinto del Groot Kievitsdal, hermosamente situado entre los bosques de Pijnenburg en la carretera entre Hilversum y Baarn, bien conocido como uno de los lugares más hermosos de la región ([www.grootkievitsdal.nl](http://www.grootkievitsdal.nl/)). Este bonito centro de reuniones está perfectamente equipado para realizar conferencias y reuniones sociales.
 

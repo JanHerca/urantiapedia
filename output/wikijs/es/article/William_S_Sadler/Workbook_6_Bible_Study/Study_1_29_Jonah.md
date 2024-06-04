@@ -76,7 +76,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 5. **Dios le habla al pez**. «Y habló Jehová al pez, y éste vomitó a Jonás en tierra seca». [2:10](/es/Bible/Jonah/2#v10).
 6. **La decepción de Jonás**. «Pero esto disgustó mucho a Jonás, y se enojó...Y...dijo...‘Es mejor para mí morir.’» [4:1-3](/es/Bible/Jonah/4 #v1).
 7. **Y Dios crea una planta**. «Dios designó una planta... para que fuera sombra sobre su cabeza... Entonces Jonás se alegró mucho por la planta. Pero... Dios designó un gusano que atacó la planta... y el sol golpeó la cabeza de Jonás hasta tal punto que se desmayó.» [4:6-8](/es/Bible/Jonah/4#v6).
-8. **Misericordia para la humanidad**. “‘Tú te compadeces de la planta... ¿no debería yo compadecerme de Nínive, esa gran ciudad?’» [4:10,11](/es/Bible/Jonah/4#v10).
+8. **Misericordia para la humanidad**. «‘Tú te compadeces de la planta... ¿no debería yo compadecerme de Nínive, esa gran ciudad?’» [4:10,11](/es/Bible/Jonah/4#v10).
 
 
 <br>

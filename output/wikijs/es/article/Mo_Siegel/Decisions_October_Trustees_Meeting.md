@@ -97,7 +97,7 @@ Kenwood, California
 Debralee Williams
 Black Mountain, Carolina del Norte, EE.UU.
 
-> «Después de recibir siete disparos durante el robo en una tienda de conveniencia, ser asaltado y abandonado moribundo, pensé en las enseñanzas de _El Libro de Urantia_. En ese momento sentí dentro de mí una completa “tranquilidad» y «certeza de destino». Y, aunque no morí, esos mismos sentimientos continúan hasta el día de hoy, lo que me convierte en el hombre más feliz del mundo”.
+> «Después de recibir siete disparos durante el robo en una tienda de conveniencia, ser asaltado y abandonado moribundo, pensé en las enseñanzas de _El Libro de Urantia_. En ese momento sentí dentro de mí una completa «tranquilidad» y «certeza de destino». Y, aunque no morí, esos mismos sentimientos continúan hasta el día de hoy, lo que me convierte en el hombre más feliz del mundo».
 
 mitch austin
 Taos, Nuevo México

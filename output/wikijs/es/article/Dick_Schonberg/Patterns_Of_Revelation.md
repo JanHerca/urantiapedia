@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 A diferencia de las muchas almas valientes que han promovido la verdad espiritual en épocas pasadas, nosotros, los diseminadores mortales de la revelación URANTIA, tenemos muchas ventajas, algunas otorgadas, como el Espíritu de la Verdad, y otras adquiridas, como las comunicaciones masivas, y el poder para ver la historia en retrospectiva. Debido a nuestras ventajas, nuestras responsabilidades son, en cierto sentido, mayores, y es por esta razón que el escritor siente que la comisión reveladora nos ha brindado deliberadamente muchos antecedentes históricos sobre los cuales basar nuestras decisiones futuras.
 
-Una de las declaraciones más importantes para evaluar lo que se ha hecho y lo que se debe y no se debe hacer para promover la verdad espiritual es: «_La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla_» ([LU 92:4.1](/es/The_Urantia_Book/92#p4_1) )
+Una de las declaraciones más importantes para evaluar lo que se ha hecho y lo que se debe y no se debe hacer para promover la verdad espiritual es: «_La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla_» (<a id="a39_246"></a>[LU 92:4.1](/es/The_Urantia_Book/92#p4_1) )
 
 Varios pensamientos pueden pasar por nuestra mente. ¿Debemos dar sólo lo que el tráfico puede soportar? ¿Compromiso? ¿Vendido? Esto está lejos de la intención del autor de Melquisedec. Más bien nos está dando una lección derivada de la larga lucha evolutiva por elevar la vida espiritual de la civilización urantiana. Para ilustrarlo, veamos la experiencia de aquellos que iniciaron o fueron maestros de una revelación de época anterior.
 

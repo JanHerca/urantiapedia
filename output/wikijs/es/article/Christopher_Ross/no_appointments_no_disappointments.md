@@ -44,7 +44,7 @@ dateCreated: 2023-9-16T10:55:6Z
 (Texto adaptado y actualizado a partir de una presentación dada en la miniconferencia de la Asociación de Virginia-Carolina de 2018, de tema «La misión de la adversidad y el valor espiritual de las decepciones»)
 <br style="clear:both;"/>
 
-> «Este sábado por la noche, el Maestro habló durante más de una hora a los grupos reunidos sobre «**la misión de la adversidad y el valor espiritual de las decepciones**«. Fue un acontecimiento memorable y sus oyentes no olvidaron nunca la lección que les impartió.» <a id="a45_249"></a>[[LU 51:0.1](/es/The_Urantia_Book/51#p0_1), negrita añadida]
+> «Este sábado por la noche, el Maestro habló durante más de una hora a los grupos reunidos sobre «**la misión de la adversidad y el valor espiritual de las decepciones**«. Fue un acontecimiento memorable y sus oyentes no olvidaron nunca la lección que les impartió.» <a id="a46_268"></a>[[LU 51:0.1](/es/The_Urantia_Book/51#p0_1), negrita añadida]
 
 En 1985, cuando me mudé con mi primera pareja masculina, solo nos conocíamos desde hacía dos semanas. Y en esas dos semanas probablemente no habíamos estado juntos más de dos o tres veces. Pero Owen me dio la llave de su apartamento casi de inmediato; así que, cuando mi matrimonio se desmoronó de forma bastante abrupta y mi ahora exmujer me pidió que me fuera, sabía exactamente a dónde iría..
 
@@ -64,13 +64,13 @@ Pero ¿cómo se hace eso exactamente? Descubriendo tu auténtico yo y haciéndot
 
 El papel que desempeña el Ajustador del Pensamiento en nuestra vida es un escollo para mí cada vez que lo leo. En el documento 108 nos dicen:
 
-> Los Monitores de Misterio no son ayudantes del pensamiento; son ajustadores del pensamiento. Trabajan con la mente material a fin de construir … una nueva mente para vuestra carrera futura en los nuevos mundos. Su misión está relacionada principalmente con la vida futura, no con esta vida. Se les llama ayudantes celestiales, no ayudantes terrenales. <a id="a65_317"></a>[[LU 108:5.5](/es/The_Urantia_Book/108#p5_5)]
+> Los Monitores de Misterio no son ayudantes del pensamiento; son ajustadores del pensamiento. Trabajan con la mente material a fin de construir … una nueva mente para vuestra carrera futura en los nuevos mundos. Su misión está relacionada principalmente con la vida futura, no con esta vida. Se les llama ayudantes celestiales, no ayudantes terrenales. <a id="a66_354"></a>[[LU 108:5.5](/es/The_Urantia_Book/108#p5_5)]
 
 He aquí la sorpresa.
 
-> No están interesados en hacer fácil la carrera mortal; se ocupan más bien de hacer vuestra vida razonablemente difícil y dura a fin de estimular y multiplicar vuestras decisiones. La presencia de un gran Ajustador del Pensamiento no proporciona una vida fácil ni os libera de tener que pensar intensamente, pero este don divino os conferirá una sublime paz mental y una magnífica tranquilidad de espíritu. <a id="a69_399"></a>[[LU 108:5.5](/es/The_Urantia_Book/108#p5_5)]
+> No están interesados en hacer fácil la carrera mortal; se ocupan más bien de hacer vuestra vida razonablemente difícil y dura a fin de estimular y multiplicar vuestras decisiones. La presencia de un gran Ajustador del Pensamiento no proporciona una vida fácil ni os libera de tener que pensar intensamente, pero este don divino os conferirá una sublime paz mental y una magnífica tranquilidad de espíritu. <a id="a70_408"></a>[[LU 108:5.5](/es/The_Urantia_Book/108#p5_5)]
 > 
-> La tarea del Ajustador consiste en prepararos para la aventura eterna, asegurar vuestra supervivencia. El Monitor de Misterio no tiene la misión de suavizar vuestros sentimientos agitados o de socorrer vuestro orgullo herido; la preparación de vuestra alma para la larga carrera ascendente es lo que retiene la atención y ocupa el tiempo del Ajustador. (<a id="a71_351"></a>[LU 108:5.6](/es/The_Urantia_Book/108#p5_6))
+> La tarea del Ajustador consiste en prepararos para la aventura eterna, asegurar vuestra supervivencia. El Monitor de Misterio no tiene la misión de suavizar vuestros sentimientos agitados o de socorrer vuestro orgullo herido; la preparación de vuestra alma para la larga carrera ascendente es lo que retiene la atención y ocupa el tiempo del Ajustador. (<a id="a72_356"></a>[LU 108:5.6](/es/The_Urantia_Book/108#p5_6))
 
 Por lo tanto, al mirar hacia atrás en mis setenta años, no puedo evitar preguntarme: ¿Qué situaciones de mi vida han sido obra del Ajustador? ¿Qué circunstancias se pusieron en mi camino que crearon una existencia «razonablemente difícil y dura» para mí?
 

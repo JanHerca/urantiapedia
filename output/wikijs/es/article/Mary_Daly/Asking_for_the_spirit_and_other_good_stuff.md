@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Satu_Sihvo/Everyday_proof_communion">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión “a prueba de cada día”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión «a prueba de cada día»</span>
         </a>
         </td>
         <td>
@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Esta es una combinación de un ciclo de oración de once días y un intercambio de mis ideas sobre la relación entre las enseñanzas de la Iglesia Católica con respecto a los siete dones del Espíritu Santo (enumerados en [Isaías, capítulo 11](/es/Bible/Isaiah/11)) , la enseñanza del _Libro de URANTIA_ sobre los siete espíritus ayudantes de la mente ([LU 36:5.1-17](/es/The_Urantia_Book/36#p5_1)), y la enseñanza pentecostal sobre los dones carismáticos del Espíritu ([I Corintios 12:8-12](/es/Bible/1_Corinthians/12#v8)). Por supuesto, me viene a la mente la posible relación entre los siete dones y los siete ayudantes, ya que los nombres son muy cercanos. Agregar los regalos carismáticos fue una ventaja de último momento. No lo creía posible, aunque quería que lo fuera. De repente, se categorizaron, por así decirlo, y se deslizaron hacia lugares inesperados. ¡Me tomaron por sorpresa!
+Esta es una combinación de un ciclo de oración de once días y un intercambio de mis ideas sobre la relación entre las enseñanzas de la Iglesia Católica con respecto a los siete dones del Espíritu Santo (enumerados en [Isaías, capítulo 11](/es/Bible/Isaiah/11)) , la enseñanza del _Libro de URANTIA_ sobre los siete espíritus ayudantes de la mente (<a id="a34_348"></a>[LU 36:5.1-17](/es/The_Urantia_Book/36#p5_1)), y la enseñanza pentecostal sobre los dones carismáticos del Espíritu ([I Corintios 12:8-12](/es/Bible/1_Corinthians/12#v8)). Por supuesto, me viene a la mente la posible relación entre los siete dones y los siete ayudantes, ya que los nombres son muy cercanos. Agregar los regalos carismáticos fue una ventaja de último momento. No lo creía posible, aunque quería que lo fuera. De repente, se categorizaron, por así decirlo, y se deslizaron hacia lugares inesperados. ¡Me tomaron por sorpresa!
 
 El ciclo de oración comienza el jueves de la Ascensión y termina con Pentecostés. Los nueve días intermedios son la «novena», nueve días pidiendo la liberación del Espíritu. En la novena tradicional, siete de los nueve días se dedican a pedir una medida mayor de cada uno de los siete dones. Aquí he explicado cada don, cada ministerio y un poco de cada carisma con la esperanza de que encuentres formas de actuar para abrirte más plenamente al Espíritu Santo. Siempre debemos actuar. ¡La fe como una semilla de mostaza puede hacer grandes cosas sólo si es plantada!
 
@@ -187,7 +187,7 @@ _Garretson, Dakota del Sur_
       <tr>
         <td>
         <a href="/es/article/Satu_Sihvo/Everyday_proof_communion">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión “a prueba de cada día”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión «a prueba de cada día»</span>
         </a>
         </td>
         <td>

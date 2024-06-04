@@ -103,7 +103,7 @@ Realmente no hubo una prueba de fe asociada con Adán y Eva. De hecho, su desaf�
 
 A Melquisedec también se le dio un cuerpo humano para hacer contacto con seres humanos. Él, como Jesús y Adán, incorporó el uso de emisarios y misioneros humanos. Estos seres humanos difundieron sus enseñanzas por todo el mundo.
 
-La prueba de fe para los humanos que experimentaron esta revelación fue creer o no en este ser que fue proclamado «sacerdote del Altísimo»... rey de la paz; sin padre, sin madre, sin linaje, sin principio de días ni fin de vida, sino hecho semejante a Hijo de Dios.” [Heb. 7:1-3](/es/Bible/Hebrews/7#v1) Seamos realistas, tal afirmación no es algo fácil de aceptar sin una gran dosis de fe.
+La prueba de fe para los humanos que experimentaron esta revelación fue creer o no en este ser que fue proclamado «sacerdote del Altísimo»... rey de la paz; sin padre, sin madre, sin linaje, sin principio de días ni fin de vida, sino hecho semejante a Hijo de Dios. [Heb. 7:1-3](/es/Bible/Hebrews/7#v1) Seamos realistas, tal afirmación no es algo fácil de aceptar sin una gran dosis de fe.
 
 ## La Cuarta Revelación de Época: Jesús de Nazaret
 

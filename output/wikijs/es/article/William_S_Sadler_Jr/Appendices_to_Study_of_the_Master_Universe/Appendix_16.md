@@ -27,31 +27,31 @@ Los Documentos nos dan la suficiente información sobre el tamaño físico de la
 
 _Información relativa a las distancias: magnitudes espaciales_
 
-> <a id="a29_2"></a>[LU 32:2.11](/es/The_Urantia_Book/32#p2_11) El radio del superuniverso de Orvonton es algo menor que 250.000 años-luz.
+> <a id="s29_2"></a>[LU 32:2.11](/es/The_Urantia_Book/32#p2_11) El radio del superuniverso de Orvonton es algo menor que 250.000 años-luz.
 
 Así pues, el diámetro transversal de Orvonton (la distancia horizontal desde el límite exterior al límite interior) es dos veces el radio, o 500.000 años-luz.
 
-> <a id="a33_2"></a>[LU 12:1.14](/es/The_Urantia_Book/12#p1_14) Entre los superuniversos y el Primer Nivel de Espacio, hay una zona tranquila que tiene unos 400.000 años-luz de anchura promedio.
+> <a id="s33_2"></a>[LU 12:1.14](/es/The_Urantia_Book/12#p1_14) Entre los superuniversos y el Primer Nivel de Espacio, hay una zona tranquila que tiene unos 400.000 años-luz de anchura promedio.
 > 
 > (Ibíd.) Cerca de medio millón de años-luz más allá de la periferia de los superuniversos, existe una zona de actividades energéticas cuya intensidad aumenta «…durante más de 25 millones de años-luz». Todo esto está en el primer nivel del espacio exterior.
 
 Si esta zona _aumenta_ en intensidad durante unos 25 millones de años-luz, entonces es lógico deducir que decrece en intensidad durante otros 25 millones de años-luz. Esto significa que el diámetro transversal del primer nivel del espacio exterior es del orden de 50 millones de años-luz.
 
-> <a id="a39_2"></a>[LU 12:1.15](/es/The_Urantia_Book/12#p1_15) A más de 50 millones de años-luz de las actividades del Primer Nivel de Espacio, los físicos de Uversa han observado unas actividades energéticas aún más grandes, que presagian el desarrollo físico del segundo nivel del espacio exterior.
+> <a id="s39_2"></a>[LU 12:1.15](/es/The_Urantia_Book/12#p1_15) A más de 50 millones de años-luz de las actividades del Primer Nivel de Espacio, los físicos de Uversa han observado unas actividades energéticas aún más grandes, que presagian el desarrollo físico del segundo nivel del espacio exterior.
 
 _Información relativa a las creaciones físicas: magnitudes de masa_
 
-> <a id="a43_2"></a>[LU 12:1.10](/es/The_Urantia_Book/12#p1_10) Havona, junto con sus cuerpos gravitatorios oscuros, contiene más masa que los siete superuniversos. Esto es debido a las masas enormes de los cuerpos gravitatorios oscuros en órbita.
+> <a id="s43_2"></a>[LU 12:1.10](/es/The_Urantia_Book/12#p1_10) Havona, junto con sus cuerpos gravitatorios oscuros, contiene más masa que los siete superuniversos. Esto es debido a las masas enormes de los cuerpos gravitatorios oscuros en órbita.
 > 
-> <a id="a45_2"></a>[LU 12:3.8](/es/The_Urantia_Book/12#p3_8) Cerca de un 95% del funcionamiento activo de la acción gravitatoria de la Isla del Paraíso se ocupa del control de los sistemas físicos situados más allá del gran universo.
+> <a id="s45_2"></a>[LU 12:3.8](/es/The_Urantia_Book/12#p3_8) Cerca de un 95% del funcionamiento activo de la acción gravitatoria de la Isla del Paraíso se ocupa del control de los sistemas físicos situados más allá del gran universo.
 
 La cifra del 95 por ciento no es totalmente fiable, al comparar el tamaño físico de los niveles del espacio exterior con el tamaño físico del gran universo. Esto es debido a la alta concentración de masa en los cuerpos gravitatorios oscuros que rodean al universo central. Si estos cuerpos gravitatorios oscuros se dejaran fuera del cálculo, entonces la cifra del 95 por ciento sería aún mayor.
 
 Además, la masa del gran universo es mucho más una creación física finalizada de lo que son los nuevos universos en organización del espacio exterior. El paso del tiempo aumentará aún más la cifra del 95 por ciento.
 
-> <a id="a51_2"></a>[LU 31:10.19](/es/The_Urantia_Book/31#p10_19) Hay al menos 70.000 agregados físicos en el espacio exterior, y cada uno de ellos es mayor que un superuniverso.
+> <a id="s51_2"></a>[LU 31:10.19](/es/The_Urantia_Book/31#p10_19) Hay al menos 70.000 agregados físicos en el espacio exterior, y cada uno de ellos es mayor que un superuniverso.
 > 
-> <a id="a53_2"></a>[LU 12:2.3](/es/The_Urantia_Book/12#p2_3) Algún día, nuestros astrónomos verán «…no menos de 375 millones de nuevas galaxias en las lejanas extensiones del espacio exterior».
+> <a id="s53_2"></a>[LU 12:2.3](/es/The_Urantia_Book/12#p2_3) Algún día, nuestros astrónomos verán «…no menos de 375 millones de nuevas galaxias en las lejanas extensiones del espacio exterior».
 
 Hay una cuestión, respecto a si estas dos afirmaciones se refieren a la misma masa o a diferentes creaciones físicas. En este estudio, supondremos que los 70.000 agregados están todos en el Primer Nivel de Espacio y que esas son las agrupaciones principales que comprenden los 375 millones de galaxias. Una consideración superficial de estos datos podría sugerir que los 375 millones de galaxias podrían estar en el Segundo Nivel de Espacio; pero, si lo estuvieran, entonces nunca podríamos verlas. Nuestros telescopios no pueden ver a través de Orvonton debido al polvo estelar, y esto es solo medio millón de años luz. ¿Cómo podríamos siquiera esperar ver a través del Primer Nivel de Espacio, si son 50 millones de años-luz de diámetro?
 

@@ -184,12 +184,12 @@ La obra de arte de las páginas 8 y 9 (a continuación) concluye una serie de Ju
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Oh_Eve.jpg">
-<figcaption><em>“¡Oh, Eva!”</em></figcaption>
+<figcaption><em>«¡Oh, Eva!»</em></figcaption>
 </figure>
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Urantian/And_then_Adam.jpg">
-<figcaption><em>“Y luego, Adán...”</em></figcaption>
+<figcaption><em>«Y luego, Adán...»</em></figcaption>
 </figure>
 
 <figure id="Figure_7" class="image urantiapedia">

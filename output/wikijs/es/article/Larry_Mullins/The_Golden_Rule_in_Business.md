@@ -61,7 +61,7 @@ Finalmente, Tony, uno de los periodistas italianos, dijo: «¡Que me jodan!».
 
 La capataz le dijo a Nash que eso era todo. Ella dijo: «Nuestra gente captó la idea de Tony y siguió adelante con el espíritu de la misma. Por eso triplicamos nuestra producción. Si hablara durante una semana, no podría contarte más».
 
-Nash dijo que nunca hubiera continuado en el mundo de los negocios si no fuera por este incidente. Escribió: "... los destellos de un día venidero se habían mostrado sobre mí y decidí utilizar todos los medios compatibles con una adaptación y operación de la Regla de Oro para demostrar el hecho de que en el siglo XX, los principios ilustrados y solidarios podrían ser puestos a funcionar, funcionar con éxito y no simplemente como un ideal de sacrificio, por el bienestar mutuo de la humanidad”.
+Nash dijo que nunca hubiera continuado en el mundo de los negocios si no fuera por este incidente. Escribió: «... los destellos de un día venidero se habían mostrado sobre mí y decidí utilizar todos los medios compatibles con una adaptación y operación de la Regla de Oro para demostrar el hecho de que en el siglo XX, los principios ilustrados y solidarios podrían ser puestos a funcionar, funcionar con éxito y no simplemente como un ideal de sacrificio, por el bienestar mutuo de la humanidad».
 
 > Larry Mullins vive en Boulder, Colorado con su esposa Joan y su hija Michelle. Joan y Larry son lectores desde hace mucho tiempo, y Michelle casi ha terminado la Parte III en su primera lectura.
 {.is-info}

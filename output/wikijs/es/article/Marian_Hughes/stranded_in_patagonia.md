@@ -54,7 +54,7 @@ Por _casualidad_ conocí muy pronto a un buen grupo de jóvenes que estaban bast
 
 Entonces ¿cómo es que un par de viejos gringos de Hawai terminaron «varados» en Puerto Varas (Chile)? Admito que esta no es la típica historia de varados a más de 9.000 Km. de casa, pero es mi historia, y este periodo de viaje y aislamiento dio lugar a muchas y buenas experiencias.
 
-Habíamos estado observando de cerca el progreso de la COVID-19 desde Hawai a partir de finales de diciembre. Habíamos decidido con anterioridad viajar de vuelta a Chile vía Rapa Nui (Isla de Pascua) en marzo. Planeamos reunirnos con el alcalde de la isla, ya que era lector de _El libro de Urantia_. Lo conocimos y tuvimos un interesante desayuno. _El libro de Urantia_ menciona la Isla de Pascua con una historia interesante. ([LU 78:5.7](/es/The_Urantia_Book/78#p5_7)) También queríamos donar un libro a la biblioteca local de allí…
+Habíamos estado observando de cerca el progreso de la COVID-19 desde Hawai a partir de finales de diciembre. Habíamos decidido con anterioridad viajar de vuelta a Chile vía Rapa Nui (Isla de Pascua) en marzo. Planeamos reunirnos con el alcalde de la isla, ya que era lector de _El libro de Urantia_. Lo conocimos y tuvimos un interesante desayuno. _El libro de Urantia_ menciona la Isla de Pascua con una historia interesante. (<a id="a56_428"></a>[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)) También queríamos donar un libro a la biblioteca local de allí…
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Easter-Island.jpg">

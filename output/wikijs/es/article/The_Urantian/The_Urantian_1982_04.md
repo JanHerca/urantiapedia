@@ -56,7 +56,7 @@ Sabemos que somos aficionados y todos nos sentimos muy inadecuados para la tarea
 
 Nosotros, los urantianos, a medida que atravesamos la vida día a día, es posible que a menudo nos hayamos preocupado por nuestro progreso en llevar el Reino de Dios a nuestros corazones y a los corazones de nuestros semejantes. Es posible que nos haya preocupado si estamos promoviendo sabiamente y bien el evangelio vivo de la paternidad de Dios y la hermandad del hombre. Pero si cuestionamos nuestro servicio, entonces debemos, de hecho, cuestionar las raíces de ese servicio, que son la lealtad y el amor. Debemos aprender a hacer los ajustes diarios necesarios entre nuestras convicciones personales y nuestro deber hacia la familia y los asociados. Debemos lograr la satisfacción de lograr una combinación cada vez más armoniosa de convicciones personales y obligaciones familiares en un concepto magistral de solidaridad grupal basada en la lealtad, la justicia, la tolerancia y el amor, como lo hizo Jesús tan magníficamente.
 
-«_¿Qué es la lealtad? Es el fruto de una apreciación inteligente de la fraternidad universal; uno no puede recibir mucho sin dar nada. A medida que ascendéis la escala de la personalidad, primero aprendéis a ser leales, luego a amar, después a ser filiales, y entonces podréis ser libres; pero hasta que no seáis finalitarios, hasta que no hayáis alcanzado la perfección de la lealtad, no podréis daros cuenta por vosotros mismos de la finalidad de la libertad._» ([LU 39:4.11](/es/The_Urantia_Book/39#p4_11)) Y esta perfección de la lealtad es la primera manera en que alcanzamos la perfección, de hecho, la única manera en que hemos alcanzado la perfección es en el momento en que somos incorporados al Cuerpo de la Finalidad.
+«_¿Qué es la lealtad? Es el fruto de una apreciación inteligente de la fraternidad universal; uno no puede recibir mucho sin dar nada. A medida que ascendéis la escala de la personalidad, primero aprendéis a ser leales, luego a amar, después a ser filiales, y entonces podréis ser libres; pero hasta que no seáis finalitarios, hasta que no hayáis alcanzado la perfección de la lealtad, no podréis daros cuenta por vosotros mismos de la finalidad de la libertad._» (<a id="a58_465"></a>[LU 39:4.11](/es/The_Urantia_Book/39#p4_11)) Y esta perfección de la lealtad es la primera manera en que alcanzamos la perfección, de hecho, la única manera en que hemos alcanzado la perfección es en el momento en que somos incorporados al Cuerpo de la Finalidad.
 
 [Leer más](/es/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service)
 
@@ -70,7 +70,7 @@ Pero no somos soldados armados. Llevamos las buenas nuevas de la filiación del 
 
 ---
 
-> «_Si tan sólo os amáis los unos a los otros como yo os amo, seréis mis amigos y siempre os hablaré de lo que el Padre me revela._» ([LU 180:1.3](/es/The_Urantia_Book/180#p1_3))
+> «_Si tan sólo os amáis los unos a los otros como yo os amo, seréis mis amigos y siempre os hablaré de lo que el Padre me revela._» (<a id="a72_134"></a>[LU 180:1.3](/es/The_Urantia_Book/180#p1_3))
 > 
 > Jesús a los apóstoles en el Discurso de despedida
 

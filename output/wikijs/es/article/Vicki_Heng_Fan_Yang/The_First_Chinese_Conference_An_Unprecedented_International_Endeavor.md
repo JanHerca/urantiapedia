@@ -136,9 +136,9 @@ Me dispuse a recopilar opiniones de estudiantes de todo el mundo sobre por qué 
 <figcaption><em>Languages spoken in China</em></figcaption>
 </figure>
 
-“It simplifies so much that would otherwise be mystifying. And it enlarges and clearly presents the Gospel message that Jesus died sharing ... verifying there is a God; moreover, that this Deity is actually YOUR, and my, Parent.”
+«It simplifies so much that would otherwise be mystifying. And it enlarges and clearly presents the Gospel message that Jesus died sharing ... verifying there is a God; moreover, that this Deity is actually YOUR, and my, Parent.»
 
-“If you are looking at the why and wherefore, the higher purpose and destiny of life, then read _El Libro de Urantia_. Understand the purpose, origin, history, and destiny of all human or mortal existence. If you want to know your spiritual destiny, read it.”
+«If you are looking at the why and wherefore, the higher purpose and destiny of life, then read _El Libro de Urantia_. Understand the purpose, origin, history, and destiny of all human or mortal existence. If you want to know your spiritual destiny, read it.»
 
 «Simplifica mucho lo que de otra manera sería desconcertante, y amplía y presenta claramente el mensaje del evangelio de que Jesús murió compartiendo... verificando que hay un Dios y que además esa Deidad es realmente TU y mi Padre.»
 

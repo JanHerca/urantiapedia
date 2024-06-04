@@ -55,7 +55,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 6. Debemos recordar que los acontecimientos reales registrados sobre los Patriarcas fueron mucho más complejos que los relatos bíblicos.
 7. Los Patriarcas no eran del todo pacíficos. Nota: el asalto de Simeón y Leví a Siquem. General Cap. 34. Jacob se apodera de tierras cerca de Siquem. Las batallas de Abraham con Quedorlaomer.
 8. La religión de los Patriarcas no está bien definida. Moisés es probablemente el padre de la religión hebrea.
-9. Véase el Libro de Urantia para el relato de Abraham y Melquisedec. <a id="s57_64"></a>[LU 93:0.1](/es/The_Urantia_Book/93#p0_1)
+9. Véase el Libro de Urantia para el relato de Abraham y Melquisedec. <a id="s57_70"></a>[LU 93:0.1](/es/The_Urantia_Book/93#p0_1)
 10. No se menciona a Yahweh hasta que llegamos a los tiempos de Moisés.
 11. El Dios de los Patriarcas era Elohim, el Altísimo.
 

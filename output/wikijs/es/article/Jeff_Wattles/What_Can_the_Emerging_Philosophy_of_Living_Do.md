@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Por Jeff Wattles, Ohio, Estados Unidos_
 
-_Nota del editor: Jeff Wattles será coanfitrión de “Capacitación de docentes para la educación experiencial en la verdad, la belleza y la bondad” con Gard Jameson, presidente del Comité de Educación de la Fundación Urantia. Este seminario se llevará a cabo en Chicago desde el jueves 9 de noviembre por la tarde hasta el domingo 12 de noviembre de 2017 por la tarde. Jeff y Gard buscan participantes que estén interesados ​​en la filosofía, el crecimiento personal, la educación o la sabiduría al trabajar con _El Libro de Urantia_. Si está interesado en asistir, comuníquese directamente con Jeff en jwattles@kent.edu._
+_Nota del editor: Jeff Wattles será coanfitrión de «Capacitación de docentes para la educación experiencial en la verdad, la belleza y la bondad» con Gard Jameson, presidente del Comité de Educación de la Fundación Urantia. Este seminario se llevará a cabo en Chicago desde el jueves 9 de noviembre por la tarde hasta el domingo 12 de noviembre de 2017 por la tarde. Jeff y Gard buscan participantes que estén interesados ​​en la filosofía, el crecimiento personal, la educación o la sabiduría al trabajar con _El Libro de Urantia_. Si está interesado en asistir, comuníquese directamente con Jeff en jwattles@kent.edu._
 
 ¿Qué objetivos sublimes se pueden alcanzar promoviendo una religión, una filosofía y una cosmología acordes con el desarrollo intelectual y cultural del hombre? Para una respuesta sorprendente, véase la Declaración de Confianza de la Fundación Urantia, Artículo II.
 

@@ -34,13 +34,13 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_De Line St-Pierre y el resto de asistentes al retiro “Hijas de Dios”, celebrado del 10 al 13 de septiembre._
+_De Line St-Pierre y el resto de asistentes al retiro «Hijas de Dios», celebrado del 10 al 13 de septiembre._
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2015_12/026.jpg">
 </figure>
 
-“El retiro de las Hijas de Dios” se celebró en el 533 W Diversey Parkway, donde diez mujeres se reunieron para compartir su viaje espiritual. Las facilitadoras del retiro, dirigido por Line St-Pierre, desarrollaron y probaron un nuevo modelo de compartir en grupo que funcionó muy bien.
+«El retiro de las Hijas de Dios» se celebró en el 533 W Diversey Parkway, donde diez mujeres se reunieron para compartir su viaje espiritual. Las facilitadoras del retiro, dirigido por Line St-Pierre, desarrollaron y probaron un nuevo modelo de compartir en grupo que funcionó muy bien.
 
 Estas mujeres hablaron de su vida interior y del significado y la llamada de la Revelación Urantia a las mujeres. Exploraron cómo ayudar a otras mujeres a valorarse como hijas de Dios – amadas y dotadas por igual de mente y espíritu como los hombres – hijas que desean bailar con Dios a través del servicio.
 

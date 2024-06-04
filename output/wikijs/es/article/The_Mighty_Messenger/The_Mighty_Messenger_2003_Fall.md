@@ -62,7 +62,7 @@ El Parlamento nos ofrece una tarifa de grupo especial para el registro del progr
 
 **Los próximos 50 años**
 
-La próxima Conferencia Internacional de la Fellowship _El Libro de Urantia_ está programada para celebrarse en la Universidad de Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005. El año 2005 marca el 50.º aniversario de la publicación de _El Libro de Urantia_, y como título "HACER MATER DEL ESPÍRITU: Los Próximos 50 Años”, indica, la conferencia está destinada a celebrar este importante aniversario mientras esperamos los próximos cincuenta años de crecimiento.
+La próxima Conferencia Internacional de la Fellowship _El Libro de Urantia_ está programada para celebrarse en la Universidad de Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005. El año 2005 marca el 50.º aniversario de la publicación de _El Libro de Urantia_, y como título «HACER MATER DEL ESPÍRITU: Los Próximos 50 Años», indica, la conferencia está destinada a celebrar este importante aniversario mientras esperamos los próximos cincuenta años de crecimiento.
 
 Los coordinadores de la conferencia están emocionados de probar algunas ideas de programación nuevas esta vez. Se están haciendo planes para ofrecer tres pistas: en ciencia, filosofía y teología, y espiritualidad experiencial, a fin de brindar a los asistentes una amplia, pero coherente, opción de oportunidades para estudiar las enseñanzas.
 

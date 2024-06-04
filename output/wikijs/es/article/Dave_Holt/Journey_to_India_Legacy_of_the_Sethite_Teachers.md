@@ -85,7 +85,7 @@ Hay dos pájaros, dos dulces amigos que moran en el mismo árbol. El uno come su
 
 El primero es el alma humana que, descansando en ese árbol, aunque activa, se siente triste en su insensatez. Pero al contemplar el poder y la gloria del Espíritu superior, se libera del dolor. (Parte 3, Capítulo 1)
 
-Eva persistió en la memoria de los anditas como Diosa de la Tierra y como Madre de las razas. En las primeras migraciones, los anditas todavía eran principalmente agricultores, no pastores. Llevaban el arado y el yugo que les legaron los adamitas. Entre sus dioses domésticos había figurillas esculpidas con la imagen de la Diosa Madre, conocida por un grupo andita, los sumerios «amantes de la paz» <a id="a87_400"></a>[[LU 78:8.6](/es/The_Urantia_Book/78#p8_6)], como " Reina del Cielo”, Inanna de Sumer.
+Eva persistió en la memoria de los anditas como Diosa de la Tierra y como Madre de las razas. En las primeras migraciones, los anditas todavía eran principalmente agricultores, no pastores. Llevaban el arado y el yugo que les legaron los adamitas. Entre sus dioses domésticos había figurillas esculpidas con la imagen de la Diosa Madre, conocida por un grupo andita, los sumerios «amantes de la paz» <a id="a87_400"></a>[[LU 78:8.6](/es/The_Urantia_Book/78#p8_6)], como «Reina del Cielo», Inanna de Sumer.
 
 > El pueblo de Sumer desfila ante la Santa Inanna,
 > Inanna, la Dama de la Mañana, está radiante.

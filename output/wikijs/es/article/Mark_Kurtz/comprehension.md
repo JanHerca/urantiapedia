@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Mark-Kurtz-2009-150x150-1.jpg">
 </figure>
 
-_La capacidad de comprender es el pasaporte de los mortales para el Paraíso. La buena voluntad para creer es la clave para Havona. La aceptación de la filiación, la cooperación con el Ajustador interior, es el precio de la supervivencia evolutiva_ <a id="a40_213"></a>[[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)]. 
+_La capacidad de comprender es el pasaporte de los mortales para el Paraíso. La buena voluntad para creer es la clave para Havona. La aceptación de la filiación, la cooperación con el Ajustador interior, es el precio de la supervivencia evolutiva_ <a id="a41_248"></a>[[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)]. 
 
 ¿Comprender a Dios para entrar en el Paraíso? Poco sabemos sobre el Paraíso y lo que podemos esperar ¡y ahora nos informan de que debemos comprender para entrar! Los autores de _El libro de Urantia_ nos están avisando con anticipación de que hay trabajo por hacer. El Paraíso no es automático, debemos convertirnos en candidatos a llegar allí. La comprensión nos hace ser más brillantes y podemos suponer que también da energía a la curiosidad y el deseo de conocer al Padre. Ganar brillantez es un proceso de crecimiento a lo largo de una «eternidad de tiempo». Empezamos simplemente en nuestra esfera de natividad. 
 
@@ -55,9 +55,9 @@ En la cita anterior nos dicen que debemos tener la capacidad de comprender antes
 
 ## Comenzar ahora 
 
-Podríamos desestimar el gran Libro de Urantia por ser demasiado difícil de entender, al menos algunas partes. Dado el hecho de que nos dicen que es necesario que cada mortal progrese y que se requiere comprensión, podríamos asumir que es sensato intentar comprender seriamente los propósitos del Cosmos y del Padre mientras seamos urantianos y a medida que se presente nueva información a este planeta. Los autores nos informan de que debemos comprender lo que estamos haciendo ahora y también hacia dónde vamos. Podemos esperar nuevas ideas maravillosas y una mayor comprensión de los propósitos y métodos del Padre en nuestro intento de avanzar hacia el centro de toda la vida. Nos dicen que estemos dispuestos a hacer un esfuerzo y también que tenemos trabajo que realizar. Los autores expusieron una visión de expectativas divinas para los ascendentes. La comprensión es lo suficientemente vital para que los autores del libro la mencionen en _las primeras líneas: Con la esperanza de facilitar la comprensión…_ <a id="a56_927"></a>[[LU 0:0.3](/es/The_Urantia_Book/0#p0_3)] and Jesus’ parables are designed to help us see the Father in Spirit and to comprehend his nature. 
+Podríamos desestimar el gran Libro de Urantia por ser demasiado difícil de entender, al menos algunas partes. Dado el hecho de que nos dicen que es necesario que cada mortal progrese y que se requiere comprensión, podríamos asumir que es sensato intentar comprender seriamente los propósitos del Cosmos y del Padre mientras seamos urantianos y a medida que se presente nueva información a este planeta. Los autores nos informan de que debemos comprender lo que estamos haciendo ahora y también hacia dónde vamos. Podemos esperar nuevas ideas maravillosas y una mayor comprensión de los propósitos y métodos del Padre en nuestro intento de avanzar hacia el centro de toda la vida. Nos dicen que estemos dispuestos a hacer un esfuerzo y también que tenemos trabajo que realizar. Los autores expusieron una visión de expectativas divinas para los ascendentes. La comprensión es lo suficientemente vital para que los autores del libro la mencionen en _las primeras líneas: Con la esperanza de facilitar la comprensión…_ <a id="a57_1016"></a>[[LU 0:0.3](/es/The_Urantia_Book/0#p0_3)] and Jesus’ parables are designed to help us see the Father in Spirit and to comprehend his nature. 
 
-> _Os enseñamos el mejor método de ejecutar vuestro trabajo_. <a id="a58_70"></a>[[LU 37:6.4](/es/The_Urantia_Book/37#p6_4)] 
+> _Os enseñamos el mejor método de ejecutar vuestro trabajo_. <a id="a59_62"></a>[[LU 37:6.4](/es/The_Urantia_Book/37#p6_4)] 
 
 ¡Ganamos brillantez con la ayuda de maestros brillantes! 
 
@@ -71,10 +71,10 @@ Darnos cuenta de que tenemos ayuda amorosa disponible debería eliminar gran par
 Todas las razones para entender las enseñanzas de la revelación Urantia son importantes. Permítanme destacar algunas: 
 
 - _… aumentar la conciencia cósmica…_ [0.2, 1.2]
-- _… la revelación de Dios al hombre… que quizás pueda contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y el carácter de la personalidad del Padre Universal _ <a id="a72_199"></a>[[LU 2:0.2](/es/The_Urantia_Book/2#p0_2)].
-- _… comprensión de la personalidad del Hijo Eterno…_ <a id="a73_58"></a>[[LU 6:8.6](/es/The_Urantia_Book/6#p8_6)]
-- _… comprensión espiritual de la asociación Padre-Hijo…_  <a id="a74_62"></a>[[LU 26:5.2](/es/The_Urantia_Book/26#p5_2)]
-- _… comprensión del Ser Supremo…_  <a id="a75_42"></a>[[LU 26:6.4](/es/The_Urantia_Book/26#p6_4)] 
+- _… la revelación de Dios al hombre… que quizás pueda contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y el carácter de la personalidad del Padre Universal _ <a id="a73_187"></a>[[LU 2:0.2](/es/The_Urantia_Book/2#p0_2)].
+- _… comprensión de la personalidad del Hijo Eterno…_ <a id="a74_54"></a>[[LU 6:8.6](/es/The_Urantia_Book/6#p8_6)]
+- _… comprensión espiritual de la asociación Padre-Hijo…_  <a id="a75_59"></a>[[LU 26:5.2](/es/The_Urantia_Book/26#p5_2)]
+- _… comprensión del Ser Supremo…_  <a id="a76_36"></a>[[LU 26:6.4](/es/The_Urantia_Book/26#p6_4)] 
 
 Este es un trabajo duro para todos nosotros. Este enorme viaje, en pequeños pasos, es superable con profesores amables y amistosos y con guías que nos acompañen. 
 
@@ -86,7 +86,7 @@ He sentido cada vez más una mayor convicción y confianza en las enseñanzas de
 
 Hay demasiadas citas que podría poner aquí para dar ejemplos de una nueva confianza a partir de la claridad de propósitos y métodos. Esta «me dio en los ojos» un día que tuve un repentino momento de visión interior:
 
-> _La verdadera perspectiva de cualquier problema sobre la realidad — humano o divino, terrestre o cósmico — sólo se puede obtener mediante el estudio y la correlación completos e imparciales de tres fases de la realidad universal: el origen, la historia y el destino. La comprensión adecuada de estas tres realidades experienciales proporciona la base para apreciar sabiamente el estado actual._ <a id="a87_345"></a>[[LU 19:1.6](/es/The_Urantia_Book/19#p1_6)]
+> _La verdadera perspectiva de cualquier problema sobre la realidad — humano o divino, terrestre o cósmico — sólo se puede obtener mediante el estudio y la correlación completos e imparciales de tres fases de la realidad universal: el origen, la historia y el destino. La comprensión adecuada de estas tres realidades experienciales proporciona la base para apreciar sabiamente el estado actual._ <a id="a88_397"></a>[[LU 19:1.6](/es/The_Urantia_Book/19#p1_6)]
 
 Ahora vemos que no podemos obtener una verdadera perspectiva de la vida, del cosmos o de cualquier otro problema sin entender más el destino. ¡Tengan piedad de mí, nunca había pensado en ello antes! Esta percepción elimina muchas conjeturas y «corrige nuestra brújula» de vida. 
 
@@ -122,7 +122,7 @@ Otra razón por la que creo que la comprensión es tan vital es el hecho de que 
 
 Hemos estado equivocados en algunos detalles de muchas de las religiones del mundo. Echemos un vistazo a la cita mencionada del documento 19, sección 1, donde un Consejero Divino nos llama la atención amablemente sobre algunos errores desde un punto de vista estrictamente mortal: «Por ejemplo: la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la sabiduría espiritual. Este procedimiento es el camino más fácil para llegar a cierta forma de conocimiento genético, que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino».
 
-> _Incluso en el estudio de la evolución biológica del hombre en Urantia, el enfoque exclusivamente histórico de su situación actual y de sus problemas corrientes presenta graves objeciones. **La verdadera perspectiva de cualquier problema sobre la realidad — humano o divino, terrestre o cósmico — sólo se puede obtener mediante el estudio y la correlación completos e imparciales de tres fases de la realidad universal: el origen, la historia y el destino**. La comprensión adecuada de estas tres realidades experienciales proporciona la base para apreciar sabiamente el estado actual._ <a id="a123_525"></a>[[LU 19:1.6](/es/The_Urantia_Book/19#p1_6), negrita añadida]
+> _Incluso en el estudio de la evolución biológica del hombre en Urantia, el enfoque exclusivamente histórico de su situación actual y de sus problemas corrientes presenta graves objeciones. **La verdadera perspectiva de cualquier problema sobre la realidad — humano o divino, terrestre o cósmico — sólo se puede obtener mediante el estudio y la correlación completos e imparciales de tres fases de la realidad universal: el origen, la historia y el destino**. La comprensión adecuada de estas tres realidades experienciales proporciona la base para apreciar sabiamente el estado actual._ <a id="a124_589"></a>[[LU 19:1.6](/es/The_Urantia_Book/19#p1_6), negrita añadida]
 
 De este consejo podemos entender que no podemos comprender bien lo que no observamos adecuadamente. En la nueva revelación estamos invitados a tener una nueva visión profunda de la realidad y por lo tanto los autores están participando con Miguel y el Padre paradisíaco para mejorar nuestro potencial de comprensión. ¿No entendemos estas acciones divinas como grandes regalos de amor? ¿No nos sentimos realmente bien ser valorados en lo alto? ¿Comprendemos que la corrección es vital para comprender mejor? 
 
@@ -132,7 +132,7 @@ Es razonable suponer que Miguel vino a Urantia para dar a los urantianos y a tod
 
 Podríamos seleccionar la mayoría de los temas principales del libro y del ministerio de Jesús con el fin de enfatizar las razones para entender la relación con Dios y sus muchos hijos diversos. Veamos solo uno. Del Jesús de moroncia:
 
-> _Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera. Si unos creyentes declarados no producen estos frutos del espíritu divino en sus vidas, están muertos; el Espíritu de la Verdad no está en ellos; son unas ramas inútiles de la vid viviente, y pronto serán cortadas._ <a id="a133_534"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)] 
+> _Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera. Si unos creyentes declarados no producen estos frutos del espíritu divino en sus vidas, están muertos; el Espíritu de la Verdad no está en ellos; son unas ramas inútiles de la vid viviente, y pronto serán cortadas._ <a id="a134_564"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)] 
 
 En esencia, dijo que debemos avanzar y aumentar el deseo de comprender el camino del Padre. Él es claro acerca de lo que el Padre hará si no avanzamos: seremos «cortados» y administrados por el Padre hasta que lo hagamos. Si decidimos que no, entonces estamos muertos. 
 
@@ -163,7 +163,7 @@ Terminamos con las cuatro C: Comunicación, convicción, cooperación y comprens
 
 Puede surgir un nuevo propósito: ¡_Vamos a ayudarnos para llegar todos al_ Paraíso! ¡Loen sus alabanzas!
 
-> _La capacidad de comprender es el pasaporte de los mortales para el Paraíso._ <a id="a164_62"></a>[[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)]
+> _La capacidad de comprender es el pasaporte de los mortales para el Paraíso._ <a id="a165_80"></a>[[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)]
 
 
 ## Referencias

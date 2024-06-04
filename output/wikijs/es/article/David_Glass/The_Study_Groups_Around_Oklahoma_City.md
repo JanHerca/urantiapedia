@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Informe de David Glass, Fort Worth, Texas_
 
-> «_Jesús tomó entonces la palabra y dijo: «Ahora que sois embajadores del reino de mi Padre, os habéis convertido así en una clase de hombres separada y distinta de todos los demás hombres de la Tierra. Ahora ya no sois como unos hombres entre los hombres, sino como unos ciudadanos iluminados de otro país celestial entre las criaturas ignorantes de este mundo tenebroso. Ya no es suficiente con que viváis como habéis hecho hasta ahora, sino que de aquí en adelante deberéis de vivir como aquellos que han saboreado las glorias de una vida mejor, y han sido enviados de vuelta a la Tierra como embajadores del Soberano de ese mundo nuevo y mejor»._» (<a id="a15_654"></a>[LU 140:3.1](/es/The_Urantia_Book/140#p3_1))
+> «_Jesús tomó entonces la palabra y dijo: «Ahora que sois embajadores del reino de mi Padre, os habéis convertido así en una clase de hombres separada y distinta de todos los demás hombres de la Tierra. Ahora ya no sois como unos hombres entre los hombres, sino como unos ciudadanos iluminados de otro país celestial entre las criaturas ignorantes de este mundo tenebroso. Ya no es suficiente con que viváis como habéis hecho hasta ahora, sino que de aquí en adelante deberéis de vivir como aquellos que han saboreado las glorias de una vida mejor, y han sido enviados de vuelta a la Tierra como embajadores del Soberano de ese mundo nuevo y mejor»._» (<a id="a39_654"></a>[LU 140:3.1](/es/The_Urantia_Book/140#p3_1))
 
 ## La Primera Sociedad de Oklahoma
 

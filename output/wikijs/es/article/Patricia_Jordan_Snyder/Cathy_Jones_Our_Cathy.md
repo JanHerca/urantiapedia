@@ -95,8 +95,8 @@ Este no es el final de «Nuestra Cathy», pero es... el final del principio.
 > Pero hay otros ojos
 > que contemplan el horizonte lejano por sus velas.
 > y hay otras voces que están listas
-> para dar el grito alegre: “Ahí está.
-> aquí llega. Aquí está, nuestra Cathy”.
+> para dar el grito alegre: «Ahí está.
+> aquí llega. Aquí está, nuestra Cathy».
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_12/034.jpg">

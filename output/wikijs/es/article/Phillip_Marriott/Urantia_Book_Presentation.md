@@ -25,7 +25,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Regina_Williamson/Reflections_of_Body_Mind_and_Psychic_Expo">
-          <span class="pr-2">“Expo de las Reflexiones de Cuerpo, Mente y Psíquico”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«Expo de las Reflexiones de Cuerpo, Mente y Psíquico»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -122,7 +122,7 @@ _El Libro de Urantia_ – Fundación Urantia
         </td>
         <td>
         <a href="/es/article/Regina_Williamson/Reflections_of_Body_Mind_and_Psychic_Expo">
-          <span class="pr-2">“Expo de las Reflexiones de Cuerpo, Mente y Psíquico”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«Expo de las Reflexiones de Cuerpo, Mente y Psíquico»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

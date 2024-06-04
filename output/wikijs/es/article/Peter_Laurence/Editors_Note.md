@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Probal_Dasgupta/Review_I_am_thou_meditations_on_the_truth_of_India">
-          <span class="pr-2">Reseña: “Yo soy tú: meditaciones sobre la verdad de la India”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Reseña: «Yo soy tú: meditaciones sobre la verdad de la India»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -58,7 +58,7 @@ _Armonk, Nueva York_
         </td>
         <td>
         <a href="/es/article/Probal_Dasgupta/Review_I_am_thou_meditations_on_the_truth_of_India">
-          <span class="pr-2">Reseña: “Yo soy tú: meditaciones sobre la verdad de la India”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Reseña: «Yo soy tú: meditaciones sobre la verdad de la India»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

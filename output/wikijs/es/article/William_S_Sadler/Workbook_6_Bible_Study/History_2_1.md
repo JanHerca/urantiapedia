@@ -33,14 +33,14 @@ ANTES DEL 2000 A.C.
 3. Mil años después, en el siguiente nivel, aparece la cerámica. Se descubre la especialización agrícola y artesanal.
 4. Hacia el 4000 a.C. Aparece cerámica decorativa coloreada, con figuras humanas y geométricas. Esta cerámica se encuentra desde el lago de Van-South hasta Kirkuk.
 5. Aparecen las primeras ciudades-estado. No sabemos qué idioma hablaban; no había escritura.
-6. A los excavadores, por supuesto, les molesta el misterio de los sumerios. Véase El Libro de Urantia, <a id="s35_91"></a>[LU 78:8.1](/es/The_Urantia_Book/78#p8_1)
+6. A los excavadores, por supuesto, les molesta el misterio de los sumerios. Véase El Libro de Urantia, <a id="s35_104"></a>[LU 78:8.1](/es/The_Urantia_Book/78#p8_1)
 7. Encuentran los tornos de alfarería y los hornos para cocer la alfarería.
 8. Alrededor del 3300 a.C. Se descubre la primera escritura. Hasta el momento no hemos podido leer estos escritos (probablemente sumerios).
 9. Aparte del Libro de Urantia, los [sumerios](https://en.wikipedia.org/wiki/Sumer) siguen siendo el gran misterio de toda la historia.
 10. Durante aquellos tiempos Egipto también disfrutaba de una cultura avanzada.
 11. Durante aquellos tiempos sucesivas oleadas de «semitas» surgieron desde Mesopotamia hacia el norte y el oeste.
 
-**NOTA**: La historia de la expansión andita que se encuentra en el Libro de Urantia, <a id="s42_71"></a>[LU 80:0.1](/es/The_Urantia_Book/80#p0_1)
+**NOTA**: La historia de la expansión andita que se encuentra en el Libro de Urantia, <a id="s42_86"></a>[LU 80:0.1](/es/The_Urantia_Book/80#p0_1)
 
 ## II. Oriente durante el tercer milenio
 

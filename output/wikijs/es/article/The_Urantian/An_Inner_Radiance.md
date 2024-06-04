@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-«_Que vuestra luz brille ante los hombres de tal manera que puedan ver vuestras buenas obras y sean inducidos a glorificar a vuestro Padre que está en los cielos._» ([LU 140:3.13](/es/The_Urantia_Book/140#p3_13)) Así habló Jesús a los apóstoles en el sermón de ordenación; y desde entonces, durante más de 1900 años, los hombres han llevado a cabo este mandato de acuerdo con su propia iluminación y capacidad conceptual.
+«_Que vuestra luz brille ante los hombres de tal manera que puedan ver vuestras buenas obras y sean inducidos a glorificar a vuestro Padre que está en los cielos._» (<a id="a37_166"></a>[LU 140:3.13](/es/The_Urantia_Book/140#p3_13)) Así habló Jesús a los apóstoles en el sermón de ordenación; y desde entonces, durante más de 1900 años, los hombres han llevado a cabo este mandato de acuerdo con su propia iluminación y capacidad conceptual.
 
 Nosotros, como urantianos, nos enfrentamos individualmente al desafío de cómo dejar que nuestra «luz brille tanto» que otros, al verla, puedan verse tentados a seguir su ejemplo, cada uno según su propio entendimiento.
 

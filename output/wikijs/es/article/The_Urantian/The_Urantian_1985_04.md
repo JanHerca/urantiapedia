@@ -54,9 +54,9 @@ _Pune, India_
 
 ## Revelación y receptividad
 
-La revelación es tan antigua como el hombre. De hecho, lo define. Cuando los ayudantes de la adoración y la sabiduría se volvieron completamente activos en las mentes de Andon y Fonta, el Portador de Vida nos dice que la «_mente de voluntad digna_» ([LU 62:7.4](/es/The_Urantia_Book/62#p7_4)) había llegado a Urantia. Los aborígenes se habían convertido en hombres. Y aquí tenemos el mensaje claro de que la revelación no es necesariamente una experiencia de la mente consciente.
+La revelación es tan antigua como el hombre. De hecho, lo define. Cuando los ayudantes de la adoración y la sabiduría se volvieron completamente activos en las mentes de Andon y Fonta, el Portador de Vida nos dice que la «_mente de voluntad digna_» (<a id="a56_250"></a>[LU 62:7.4](/es/The_Urantia_Book/62#p7_4)) había llegado a Urantia. Los aborígenes se habían convertido en hombres. Y aquí tenemos el mensaje claro de que la revelación no es necesariamente una experiencia de la mente consciente.
 
-En _El Libro de URANTIA_ se nos dice mucho sobre la revelación, su naturaleza y función. Hay dos formas, de época y automática. ([LU 101:4.4](/es/The_Urantia_Book/101#p4_4)) Hasta ahora en Urantia, ha habido cinco revelaciones de época: el Príncipe Planetario, Caligastia; el Hijo y la Hija Materiales, Adán y Eva; el Hijo de la Emergencia, Maquiventa Melquisedec; el Hijo Creador, Jesús de Nazaret; y los Documentos de URANTIA, la revelación de época es la función de una agencia, personalidad o grupo celestial. La segunda forma es la auto revelación; esta es la comunicación consciente e inconsciente entre lo supermortal y lo mortal. La auto revelación proviene del Ajustador del Pensamiento y otros seres espirituales o circuitos de la mente mortal individual.
+En _El Libro de URANTIA_ se nos dice mucho sobre la revelación, su naturaleza y función. Hay dos formas, de época y automática. (<a id="a58_129"></a>[LU 101:4.4](/es/The_Urantia_Book/101#p4_4)) Hasta ahora en Urantia, ha habido cinco revelaciones de época: el Príncipe Planetario, Caligastia; el Hijo y la Hija Materiales, Adán y Eva; el Hijo de la Emergencia, Maquiventa Melquisedec; el Hijo Creador, Jesús de Nazaret; y los Documentos de URANTIA, la revelación de época es la función de una agencia, personalidad o grupo celestial. La segunda forma es la auto revelación; esta es la comunicación consciente e inconsciente entre lo supermortal y lo mortal. La auto revelación proviene del Ajustador del Pensamiento y otros seres espirituales o circuitos de la mente mortal individual.
 
 [Leer más](/es/article/Helena_E_Sprague/Revelation_and_receptivity)
 
@@ -76,7 +76,7 @@ _Concordia, California_
 
 Nuestro calendario editorial es tal que este número de _The Journal_ se ha estado preparando demasiado pronto para incluir respuestas a la primera pregunta que enviamos a nuestros lectores. Esperemos que esa pregunta haya inspirado algunas ideas que podamos compartir con ustedes en próximos números. Mientras tanto, intentaremos ayudar a mantener fluyendo los jugos mentales con otra pregunta, basada en la siguiente cita del Documento 2 de _El Libro de URANTIA_:
 
-> «_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina._» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina._» (<a id="a78_351"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 **Pregunta**
 
@@ -88,7 +88,7 @@ Como indicamos en nuestro último número, si bien nuestra intención es estimul
 
 ---
 
-> «_Una filosofía de la religión se desarrolla a partir de un crecimiento básico de las ideas, más la vida experimental, siendo ambos modificados por la tendencia a imitar a los semejantes. La validez de las conclusiones filosóficas depende de una manera de pensar aguda, honrada y juiciosa, en unión con la sensibilidad a los significados y la exactitud en la evaluación. Las personas moralmente cobardes nunca consiguen unos niveles elevados de pensamiento filosófico; hace falta valor para meterse en nuevos niveles de experiencia e intentar explorar los terrenos desconocidos de la vida intelectual._» ([LU 101:7.2](/es/The_Urantia_Book/101#p7_2))
+> «_Una filosofía de la religión se desarrolla a partir de un crecimiento básico de las ideas, más la vida experimental, siendo ambos modificados por la tendencia a imitar a los semejantes. La validez de las conclusiones filosóficas depende de una manera de pensar aguda, honrada y juiciosa, en unión con la sensibilidad a los significados y la exactitud en la evaluación. Las personas moralmente cobardes nunca consiguen unos niveles elevados de pensamiento filosófico; hace falta valor para meterse en nuevos niveles de experiencia e intentar explorar los terrenos desconocidos de la vida intelectual._» (<a id="a90_607"></a>[LU 101:7.2](/es/The_Urantia_Book/101#p7_2))
 
 
 

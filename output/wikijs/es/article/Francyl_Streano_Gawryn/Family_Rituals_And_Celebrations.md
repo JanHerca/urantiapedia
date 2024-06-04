@@ -36,7 +36,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 > Nota del Editor: _Esta columna está dedicada a informar sobre los rituales y celebraciones utilizados por los lectores del Libro de Urantia y sus familias. Es un placer compartir unos con otros las muchas alegrías de la vida. Considere escribir sobre sus celebraciones y rituales familiares especiales para esta columna y envíelos (¡junto con fotografías!) al Editor de vida familiar._
-> «En esta tarea de pasar la antorcha cultural a la generación siguiente, el hogar será siempre la institución fundamental.» (<a id="a14_126"></a>[LU 81:6.23](/es/The_Urantia_Book/81#p6_23))
+> «En esta tarea de pasar la antorcha cultural a la generación siguiente, el hogar será siempre la institución fundamental.» (<a id="a38_126"></a>[LU 81:6.23](/es/The_Urantia_Book/81#p6_23))
 {.is-info}
 
 <figure id="Figure_1" class="image urantiapedia">

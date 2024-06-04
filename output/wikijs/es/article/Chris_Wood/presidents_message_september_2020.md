@@ -47,7 +47,7 @@ Hacemos un flaco favor cuando intentamos convertir a otros a nuestra religión. 
 
 Los estudiantes de _El libro de Urantia_ podemos convertirnos en líderes religiosos cuando escuchamos más de lo que hablamos, compartimos más de lo que enseñamos y adoramos más de lo que predicamos. En el documento 92, «La evolución posterior de la religión», un Melquisedec dice:
 
-> _Pero es de esperar que los esfuerzos ardientes y sinceros de esos futuros profetas estén menos dirigidos hacia el reforzamiento de las barreras entre las religiones, y más encaminados hacia el acrecentamiento de una fraternidad religiosa de adoración espiritual entre los numerosos seguidores de las diferentes teologías intelectuales que tanto caracterizan al planeta Urantia de Satania._ <a id="a48_352"></a>[[LU 92:5.16](/es/The_Urantia_Book/92#p5_16)]
+> _Pero es de esperar que los esfuerzos ardientes y sinceros de esos futuros profetas estén menos dirigidos hacia el reforzamiento de las barreras entre las religiones, y más encaminados hacia el acrecentamiento de una fraternidad religiosa de adoración espiritual entre los numerosos seguidores de las diferentes teologías intelectuales que tanto caracterizan al planeta Urantia de Satania._ <a id="a49_393"></a>[[LU 92:5.16](/es/The_Urantia_Book/92#p5_16)]
 
 En estos tiempos de COVID-19 puede que sea difícil tener debates y sesiones de adoración «mientras vamos de paso», pero es más fácil que nunca unirse a los debates virtuales organizados por casas de adoración y paneles interreligiosos de todo el mundo, entre ellos un número cada vez mayor de presentaciones de seminarios web ofrecidos por la Asociación Urantia Internacional. Espero que nos encontremos en estos debates en un futuro próximo. 
 <br style="clear:both;"/>

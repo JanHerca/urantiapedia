@@ -71,7 +71,7 @@ Las charlas plenarias del segundo día examinaron otras facetas de la pregunta �
 
 Y hablando de Richard, durante la conferencia hubo dos proyecciones de su película de 2011 «Festín de incertidumbre», basada en sus visitas a lugares de Israel y de los territorios palestinos tras las huellas de Jesús. No había visto antes esta película, y me pareció realmente maravillosa.
 
-Los talleres del segundo día fueron también un lote variado. Un cuarteto de mujeres, Carrie Prentice, Line St.Pierre, Doreen Heyne y Katharina Becker, nos dieron una sesión sobre la perspectiva femenina de las enseñanzas de Jesús, «Mientras ella iba de paso». Sandra Burga-Cisneros, de Suiza, habló sobre «Comunicación compasiva». El taller de Risto Mäntynen’s (Finlandia) se llamaba «No debéis apartar al Jesús humano de los hombres.”
+Los talleres del segundo día fueron también un lote variado. Un cuarteto de mujeres, Carrie Prentice, Line St.Pierre, Doreen Heyne y Katharina Becker, nos dieron una sesión sobre la perspectiva femenina de las enseñanzas de Jesús, «Mientras ella iba de paso». Sandra Burga-Cisneros, de Suiza, habló sobre «Comunicación compasiva». El taller de Risto Mäntynen’s (Finlandia) se llamaba «No debéis apartar al Jesús humano de los hombres.»
 
 El último medio día, la conferencia concluyó con dos excelentes charlas plenarias: Peep Sõber (Estonia) habló sobre «El futuro probable de la religión de Jesús» y Georges Michelson-DuPont (Francia) explicó el trabajo de la Escuela de _El libro de Urantia_ en Internet, que se ha convertido en una valiosa institución educativa.
 

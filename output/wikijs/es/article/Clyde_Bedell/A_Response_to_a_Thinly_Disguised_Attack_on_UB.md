@@ -90,7 +90,7 @@ El secreto era necesario para evitar que los «enemigos de la religión», o los
 
 Todo el esfuerzo del Autor es tanto más despreciable, en mi opinión, porque sabe que su lector típico nunca tendrá forma de oír o ver lo que estoy escribiendo ahora: la VERDAD.
 
-(2) El autor afirma en mayúsculas que «durante CINCO AÑOS CONTINUOS» (después del tenso domingo en el que fue rechazado públicamente en la reunión del Foro de la que oirá hablar), “asistimos a todas las reuniones dominicales del Foro sin excepción.
+(2) El autor afirma en mayúsculas que «durante CINCO AÑOS CONTINUOS» (después del tenso domingo en el que fue rechazado públicamente en la reunión del Foro de la que oirá hablar), «asistimos a todas las reuniones dominicales del Foro sin excepción.»
 
 Los cinco veteranos con los que he hablado no recuerdan que el Autor hubiera asistido al Foro después de ese domingo, aunque es posible que haya venido por un corto tiempo. Pero todos quedaron asombrados por su afirmación de CINCO AÑOS DE ASISTENCIA a partir de entonces. Si había asistido a las reuniones del Foro después del «enfrentamiento», fue de tan poca importancia que nadie lo notó ni lo recuerda. Esto está muy lejos de la tensión que describe en su libro.
 
@@ -138,7 +138,7 @@ Si los lectores del Autor no pueden confiar en sus declaraciones de hecho, que u
 
 (9) El autor dice que el Dr. Sadler afirmó haber sido «sacado de su cuerpo físico... y transportado a la casa de Deane en su forma espiritual». Éste es precisamente el tipo de cosas en las que el Dr. Sadler no creía. Ni yo ni nadie que conozca al Doctor íntimamente (lo conocí desde 1924 hasta su muerte hace unos años) estaremos de acuerdo en que el Doctor fue capaz de hacer un comentario tan serio. ¿Es probable que este enemigo acérrimo del Doctor y del movimiento Urantia tenga razón, y esos quienes han vivido con el Doctor y se han asociado con él como amigos durante décadas, ¿están equivocados? Creo que esto debe ser una invención deliberada. ¿O es posible que el Doctor, burlándose de las creencias astrales del psíquico, dijera en tono de burla que él, en «forma astral», escuchó al Autor conspirar? ¿Y el Autor te lo repite a ti, su lector, como una observación seria?
 
-(10) El autor dice que «Floyd Winters» (así me llama, el que escribe este artículo) “enfrentó al Doctor con citas extensas, casi palabra por palabra, de ‘Un Manifiesto Demócrata’. No es cierto. Le mostré, como cuestión de interés, un párrafo (según lo recuerdo) al Doctor. La palabra «confrontar» es un insulto para mí y para mi amigo el Doctor. Discutimos la posibilidad de encontrar otros conceptos humanos bien expresados ​​que los Reveladores podrían haber utilizado.
+(10) El autor dice que «Floyd Winters» (así me llama, el que escribe este artículo) enfrentó al Doctor con citas extensas, casi palabra por palabra, de ‘Un Manifiesto Demócrata’. No es cierto. Le mostré, como cuestión de interés, un párrafo (según lo recuerdo) al Doctor. La palabra «confrontar» es un insulto para mí y para mi amigo el Doctor. Discutimos la posibilidad de encontrar otros conceptos humanos bien expresados ​​que los Reveladores podrían haber utilizado.
 
 _El Libro de Urantia_ nos dice muy pronto que el mandato de los Relevadores es dar preferencia siempre que sea posible a «los conceptos humanos más elevados existentes» relacionados con los temas presentados. El Libro nos lo dice utilizar más de mil conceptos de este tipo que representan el «conocimiento planetario más avanzado de los valores espirituales y los significados del universo».
 
@@ -172,7 +172,7 @@ El Dr. Sadler fue un gran hombre, un gigante, al que se le concedió quizás la 
 
 Si se suicidó, cosa que el autor no sabe, optó por no esperar. Aquí nuevamente el mal gusto del autor y su dependencia de rumores o chismes mezquinos se combinan para desacreditarlo.
 
-(18) El Autor dice: “Muchos de los seguidores de la Nueva Revelación han permanecido firmemente fieles, unidos más por el miedo que por el amor; miedo a que la separación de la Sociedad de la Nueva Revelación (Urantia) pueda significar la pérdida de identidad o de existencia en el más allá. "
+(18) El Autor dice: «Muchos de los seguidores de la Nueva Revelación han permanecido firmemente fieles, unidos más por el miedo que por el amor; miedo a que la separación de la Sociedad de la Nueva Revelación (Urantia) pueda significar la pérdida de identidad o de existencia en el más allá.»
 
 El Autor demuestra que no conoce ni _El Libro de Urantia_ ni a sus creyentes. Los urantianos son personas menos temerosas que casi cualquier grupo que se pueda nombrar y que se mantienen unidos por una creencia común. «¿Miedo? Muchos»? Lo reto a que nombre a algunos urantianos, 11 «firmemente fieles» a nuestra gran y maravillosa Revelación, que estén aferrados a ella, o juntos, por el miedo.
 

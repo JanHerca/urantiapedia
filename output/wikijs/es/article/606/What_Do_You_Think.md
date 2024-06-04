@@ -41,7 +41,7 @@ El artículo sobre la comunicación con el mundo espiritual que aparece en este 
 
 Mark también describe un método, similar a la canalización, mediante el cual un miembro del grupo de contacto escribía impulsos internos que aparentemente fueron aceptados por la Comisión como instrucciones genuinas. Mark sugiere que quizás todos los miembros de la Comisión tenían esta capacidad. Quien afirmó haber tenido tal «don» debió ser Emma Christensen. Una carta de Thomas y Carolyn Kendall del 21 de junio de 1990, en respuesta a un informe especial de la Fundación Urantia, afirma que en noviembre de 1980: «Christy hizo que Martin me leyera un mensaje que supuestamente le había llegado a principios de semana. Decía: «No te involucres en largas negociaciones con el Sr. Weiss». Lee la página 840.’». Parece que la Fundación actuó de acuerdo con esto como si fuera una instrucción genuina de nuestros supervisores celestiales.
 
-Otra persona que aparentemente afirma comunicarse con nuestros amigos invisibles es Martin Myers. En una carta del 21 de junio de 1990, la ex fideicomisaria, Helena E. Sprague, afirma: “Martin aparentemente cree que está designado por «mandatos» para gobernar los asuntos de _El Libro de URANTIA_. Se ha escuchado a Martin, con varios presentes, otorgar la aprobación de los intermedios a un individuo y decirle a otro: «los intermedios no están contentos contigo».
+Otra persona que aparentemente afirma comunicarse con nuestros amigos invisibles es Martin Myers. En una carta del 21 de junio de 1990, la ex fideicomisaria, Helena E. Sprague, afirma: «Martin aparentemente cree que está designado por «mandatos» para gobernar los asuntos de _El Libro de URANTIA_. Se ha escuchado a Martin, con varios presentes, otorgar la aprobación de los intermedios a un individuo y decirle a otro: «los intermedios no están contentos contigo».
 
 Al considerar la validez de tales mensajes se presentan al menos dos dificultades. Varias fuentes han afirmado que no se recibieron más mensajes de los seres celestiales posteriores al que dieron permiso para publicar _El Libro de URANTIA_. Una segunda dificultad es cómo conciliar tales afirmaciones con el contenido del libro. En LU 93:2.8 se afirma:
 
@@ -69,7 +69,7 @@ Viendo que Jesús nos instruye a no promover ni siquiera una causa justa por la 
 
 <figure id="Figure_3" class="image urantiapedia" alt="cartoon">
 <img src="/image/article/606/cartoon6.jpg">
-<figcaption>“Probablemente ya hayamos llegado a la era Cenozoica.”</figcaption>
+<figcaption>«Probablemente ya hayamos llegado a la era Cenozoica.»</figcaption>
 </figure>
 
 

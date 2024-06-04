@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Isador escribió Mateo en el año 71 d.C. en Pella. Tenía las notas de Mateo que habían sido revisadas en el año 40 d.C.
 4. Isador también tenía cuatro quintas partes del récord de Mark.
 5. La última copia de las notas de Mateo fue destruida en el incendio de un monasterio sirio en el año 416 d.C.
-	(Los datos anteriores sobre la autoría de Mateo son del Libro de Urantia, <a id="s103_77"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1).)
+	(Los datos anteriores sobre la autoría de Mateo son del Libro de Urantia, <a id="s103_75"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1).)
 6. Los eruditos han dudado de que Mateo escribiera este Evangelio porque no parece que el autor fuera un testigo ocular. Creen que fue escrito entre el 75 y el 80 d.C.
 7. Es el punto de vista judío de la vida y obra de Cristo.
 

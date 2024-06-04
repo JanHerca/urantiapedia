@@ -84,7 +84,7 @@ Presidente de la Asociación Urantia Internacional
 Cathy Jones te puso a trabajar. En la Ordenación de los Doce se nos dice
 
 
-> El hijo del carpintero nunca enseñó _a formar el carácter;_ enseñó _el crecimiento del carácter…_ <a id="a85_88"></a>[[LU 140:8.27](/es/The_Urantia_Book/140#p8_27)]
+> El hijo del carpintero nunca enseñó _a formar el carácter;_ enseñó _el crecimiento del carácter…_ <a id="a86_100"></a>[[LU 140:8.27](/es/The_Urantia_Book/140#p8_27)]
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Cathy-Jones-Xmas-e1476417580707-300x400.jpg">
@@ -155,7 +155,7 @@ Me gustaría rendir mis respetos y homenajes a Catherine Jones, quien ahora part
 Con Catherine en mente, intentemos todos recordar que:
 
 
-> _Los débiles se entregan a las resoluciones, pero los fuertes actúan. La vida no es más que un día de trabajo: hazlo bien. El acto es nuestro; las consecuencias son de Dios._ <a id="a156_138"></a>[Paper, [LU 48:7.13](/es/The_Urantia_Book/48#p7_13)]
+> _Los débiles se entregan a las resoluciones, pero los fuertes actúan. La vida no es más que un día de trabajo: hazlo bien. El acto es nuestro; las consecuencias son de Dios._ <a id="a157_177"></a>[Paper, [LU 48:7.13](/es/The_Urantia_Book/48#p7_13)]
 
 
 ### Carl Ramm

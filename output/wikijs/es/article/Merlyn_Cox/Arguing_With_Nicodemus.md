@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
-          <span class="pr-2">Libros significativos: “El buen libro” de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros significativos: «El buen libro» de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -65,7 +65,7 @@ Hasta entonces, a menudo nos encontraremos discutiendo con Nicodemo, alguien que
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
-          <span class="pr-2">Libros significativos: “El buen libro” de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros significativos: «El buen libro» de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

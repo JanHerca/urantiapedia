@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
-          <span class="pr-2">Libros importantes: “La verdad en la religión” de Mortimer Adler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros importantes: «La verdad en la religión» de Mortimer Adler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -63,7 +63,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Merlyn_Cox/Significant_Books_Truth_in_Religion_By_Mortimer_Adler">
-          <span class="pr-2">Libros importantes: “La verdad en la religión” de Mortimer Adler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros importantes: «La verdad en la religión» de Mortimer Adler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -73,7 +73,7 @@ Email: urantia@urantia.org
 
 Directores: Cece Forrester, Marilynn Kulieke, Joanne Strobel, Tamara Strumfeld
 
-Colaboradores: Belen Asidao, Judy Van Cleave, Emeka Anazodo, Carolyn “Carrie” Prentice, Doug McKeever
+Colaboradores: Belen Asidao, Judy Van Cleave, Emeka Anazodo, Carolyn «Carrie» Prentice, Doug McKeever
 
 Producción: Fundación Urantia
 

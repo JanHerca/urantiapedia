@@ -124,7 +124,7 @@ Jesús rara vez fue severo o condenatorio cuando hablaba con sus seguidores. Per
 >
 > Mi Padre pide a los hijos de la fe que produzcan muchos frutos del espíritu. Por consiguiente, si no sois fecundos, él cavará alrededor de vuestras raíces y cortará vuestras ramas estériles. A medida que progreséis hacia el cielo en el reino de Dios, deberéis producir cada vez más los frutos del espíritu.
 >
-> Podéis entrar en el reino como un niño, pero el Padre exige que crezcáis, por la gracia, hasta la plena estatura de un adulto espiritual. Cuando salgáis por ahí a contarle a todas las naciones la buena nueva de este evangelio, iré delante de vosotros, y mi Espíritu de la Verdad residirá en vuestro corazón. Mi paz os dejo.” (<a id="a126_328"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
+> Podéis entrar en el reino como un niño, pero el Padre exige que crezcáis, por la gracia, hasta la plena estatura de un adulto espiritual. Cuando salgáis por ahí a contarle a todas las naciones la buena nueva de este evangelio, iré delante de vosotros, y mi Espíritu de la Verdad residirá en vuestro corazón. Mi paz os dejo.» (<a id="a126_328"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 
 Para los lectores sinceros y dedicados de los Documentos de Urantia, el futuro seguramente será emocionante y fructífero. Pero debemos mantener nuestros pies en la tierra y hacer como Jesús hizo: con paciencia y tolerancia, servir mientras pasamos, caminando momento a momento en la presencia de Dios, y tomando un día a la vez, en total fe y confianza. de la sobreatención amorosa del Padre.
 

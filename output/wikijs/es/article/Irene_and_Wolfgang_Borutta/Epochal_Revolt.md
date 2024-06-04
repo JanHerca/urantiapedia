@@ -1,5 +1,5 @@
 ---
-title: "“Revuelta de época”"
+title: "«Revuelta de época»"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -36,7 +36,7 @@ Desde el principio hemos disfrutado de Six-OSix, y con el tiempo lo hemos visto 
 
 Como afirma Neil Francey (coeditor de Six-O-Six):
 
-“Parece que Six-O-Six en números recientes ha centrado sus artículos y comentarios editoriales en un grupo de interés particular y lejos de una estricta disciplina del Libro de Urantia. Los lectores ahora tienen que abordar una nueva dirección. ¿Esta publicación continúa ayudando a los lectores a evaluar nuevas ideas proporcionando mayores conocimientos y comprensión? ¿Está cubriendo necesidades cambiantes? Como resultado, ¿Six-O-Six está disfrutando y aumentando su aprecio por parte de los lectores o se está volviendo demasiado generalizado?
+«Parece que Six-O-Six en números recientes ha centrado sus artículos y comentarios editoriales en un grupo de interés particular y lejos de una estricta disciplina del Libro de Urantia. Los lectores ahora tienen que abordar una nueva dirección. ¿Esta publicación continúa ayudando a los lectores a evaluar nuevas ideas proporcionando mayores conocimientos y comprensión? ¿Está cubriendo necesidades cambiantes? Como resultado, ¿Six-O-Six está disfrutando y aumentando su aprecio por parte de los lectores o se está volviendo demasiado generalizado?
 
 El malestar inicial sobre el contenido del Six-O-Six comenzó con el anuncio de las cintas del E-3. El mensaje trataba principalmente de las vidas que viviremos cuando hayamos pasado los últimos días de este milenio y pasemos al siguiente con una conciencia expandida, en cooperación más estrecha con nuestros amigos celestiales. Esto está en consonancia con _El Libro de URANTIA_.
 

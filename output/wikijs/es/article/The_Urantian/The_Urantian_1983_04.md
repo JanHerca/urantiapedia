@@ -45,7 +45,7 @@ Parece haber dos formas principales en que la ciencia y la tecnología hacen sus
 — _James Johnston_
 _Toledo, Ohio_
 
-> «_Cualquiera que sea el conflicto aparente entre el materialismo y las enseñanzas de Jesús, podéis estar seguros de que las enseñanzas del Maestro triunfarán plenamente en las eras por venir._» ([LU 195:6.2](/es/The_Urantia_Book/195#p6_2))
+> «_Cualquiera que sea el conflicto aparente entre el materialismo y las enseñanzas de Jesús, podéis estar seguros de que las enseñanzas del Maestro triunfarán plenamente en las eras por venir._» (<a id="a47_197"></a>[LU 195:6.2](/es/The_Urantia_Book/195#p6_2))
 
 
 

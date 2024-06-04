@@ -70,7 +70,7 @@ Creo que es importante recordar que en el libro se nos dice una y otra vez que l
 
 ## Orientación de los máximos
 
-Han transcurrido cuarenta años desde que la Quinta Revelación de Época fue dada a nuestro mundo. Paso a paso, una nueva generación está asumiendo el mando de nuestras naciones. Consideremos que durante ese período hemos visto otra guerra mundial y varios otros enfrentamientos militares importantes. Esto debería llevarnos a recordar que «_Urantia está ahora temblando al borde mismo de una de sus épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual._» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)).
+Han transcurrido cuarenta años desde que la Quinta Revelación de Época fue dada a nuestro mundo. Paso a paso, una nueva generación está asumiendo el mando de nuestras naciones. Consideremos que durante ese período hemos visto otra guerra mundial y varios otros enfrentamientos militares importantes. Esto debería llevarnos a recordar que «_Urantia está ahora temblando al borde mismo de una de sus épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual._» (<a id="a72_504"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)).
 
 Por lo tanto, debemos reflexionar sobre el papel especial que el Altísimo Asistente está desempeñando en nuestro planeta al liderar los doce cuerpos de maestros serafines de supervisión planetaria. La tarea de coordinar los múltiples talentos de los diferentes grupos en tiempos como estos merece nuestra mayor admiración y aprecio, ya que casi todas las instituciones que hemos llegado a aceptar están experimentando profundas transformaciones que nos llevarán a su debido tiempo a un mundo asentado en luz y vida.
 
@@ -107,7 +107,7 @@ Ahora nos dirigimos a nosotros mismos como familia.
 
 > «Cuando los hombres buscan a Dios, lo buscan todo. Cuando encuentran a Dios, lo han encontrado todo. La búsqueda de Dios es el otorgamiento ilimitado de amor acompañado de descubrimientos asombrosos de un amor nuevo y mayor que ser otorgado...
 > 
-> Todo amor verdadero proviene de Dios, y el hombre recibe el afecto divino mientras él mismo otorga este amor a sus semejantes». ([LU 117:6.9-10](/es/The_Urantia_Book/117#p6_9)).
+> Todo amor verdadero proviene de Dios, y el hombre recibe el afecto divino mientras él mismo otorga este amor a sus semejantes». (<a id="a109_131"></a>[LU 117:6.9-10](/es/The_Urantia_Book/117#p6_9)).
 
 
 

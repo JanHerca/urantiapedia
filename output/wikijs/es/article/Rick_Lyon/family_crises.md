@@ -85,11 +85,11 @@ Luché contra estas preguntas durante muchos años, y sospecho que todos los pad
 
 La primera pregunta, «¿por qué Brad es así?», es la que se plantean todos los padres de un hijo discapacitado, y la siguiente suele ser «¿por qué Dios dejó que pasara?». O algo peor: «¿por qué Dios le hizo esto a mi hijo?». La conclusión a la que llegué fue que vivimos en un mundo material con cuerpos materiales y que, como cualquier cosa material de un mundo imperfecto, a veces se rompe, sale mal o se acaba deteriorando.
 
-> Jesús dijo: _En las cosas de la enfermedad y de la salud, deberíais saber que esos estados físicos son el resultado de causas materiales; la salud no es la sonrisa del cielo, ni la aflicción el enojo de Dios._ <a id="a86_205"></a>[[LU 166:4.10](/es/The_Urantia_Book/166#p4_10)]
+> Jesús dijo: _En las cosas de la enfermedad y de la salud, deberíais saber que esos estados físicos son el resultado de causas materiales; la salud no es la sonrisa del cielo, ni la aflicción el enojo de Dios._ <a id="a87_212"></a>[[LU 166:4.10](/es/The_Urantia_Book/166#p4_10)]
 
 Las dificultades de la vida de Brad no eran de ningún modo una señal de la falta de favor ante Dios. Brad fue simplemente una víctima inocente de uno de los accidentes materiales del tiempo. Estas incidencias no están predispuestas o creadas por las fuerzas espirituales del reino. Nuestro Padre no nos causa ni nos envía dolor ni sufrimiento.
 
-> _El Padre hace caer su lluvia sobre los justos y los injustos; el Sol brilla de igual manera sobre los virtuosos y los perversos…_ <a id="a90_129"></a>[[LU 166:4.4](/es/The_Urantia_Book/166#p4_4)]
+> _El Padre hace caer su lluvia sobre los justos y los injustos; el Sol brilla de igual manera sobre los virtuosos y los perversos…_ <a id="a91_133"></a>[[LU 166:4.4](/es/The_Urantia_Book/166#p4_4)]
 
 Creo que esta cita quiere decir que le pasan cosas malas a gente buena, igual que le pasan cosas buenas a gente mala. Las situaciones de la vida son diferentes para cada persona, pero nuestra vida está hecha de buenos y malos acontecimientos, sin importar quiénes somos o qué tipo de persona somos. Si he aprendido algo en mis 65 años de vida en este planeta es que las cosas buenas suelen proceden de malas experiencias. Suele haber un beneficio en el sufrimiento o en las dificultades y decepciones de la vida.
 
@@ -99,15 +99,15 @@ En _El libro de Urantia_ nos dicen:
 
 > Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen de ninguna manera el concepto de la soberanía universal de Dios. La vida de cualquier criatura evolutiva está asaltada por ciertas inevitabilidades. Examinad las siguientes::
 > 
-> _La valentía — la fuerza de carácter — ¿es deseable? Entonces el hombre debe educarse en un entorno donde sea necesario luchar contra las dificultades y reaccionar ante las decepciones._ <a id="a100_167"></a>[[LU 3:5.6](/es/The_Urantia_Book/3#p5_6)]
+> _La valentía — la fuerza de carácter — ¿es deseable? Entonces el hombre debe educarse en un entorno donde sea necesario luchar contra las dificultades y reaccionar ante las decepciones._ <a id="a101_189"></a>[[LU 3:5.6](/es/The_Urantia_Book/3#p5_6)]
 > 
-> _El altruismo — el servicio a los semejantes — ¿es deseable? Entonces la experiencia de la vida debe proporcionar situaciones donde se encuentren desigualdades sociales._ <a id="a102_136"></a>[[LU 3:5.7](/es/The_Urantia_Book/3#p5_7)]
+> _El altruismo — el servicio a los semejantes — ¿es deseable? Entonces la experiencia de la vida debe proporcionar situaciones donde se encuentren desigualdades sociales._ <a id="a103_173"></a>[[LU 3:5.7](/es/The_Urantia_Book/3#p5_7)]
 > 
-> _La esperanza — la grandeza de la confianza — ¿es deseable? Entonces la existencia humana debe enfrentarse continuamente con inseguridades e incertidumbres recurrentes._ <a id="a104_143"></a>[[LU 3:5.8](/es/The_Urantia_Book/3#p5_8)]
+> _La esperanza — la grandeza de la confianza — ¿es deseable? Entonces la existencia humana debe enfrentarse continuamente con inseguridades e incertidumbres recurrentes._ <a id="a105_172"></a>[[LU 3:5.8](/es/The_Urantia_Book/3#p5_8)]
 > 
-> _La fe — la afirmación suprema del pensamiento humano — ¿es deseable? Entonces la mente del hombre ha de encontrarse en esa situación incómoda en la que siempre sabe menos de lo que puede creer._ <a id="a106_179"></a>[[LU 3:5.9](/es/The_Urantia_Book/3#p5_9)]
+> _La fe — la afirmación suprema del pensamiento humano — ¿es deseable? Entonces la mente del hombre ha de encontrarse en esa situación incómoda en la que siempre sabe menos de lo que puede creer._ <a id="a107_198"></a>[[LU 3:5.9](/es/The_Urantia_Book/3#p5_9)]
 > 
-> _El placer — la satisfacción de la felicidad — ¿es deseable? Entonces el hombre debe vivir en un mundo donde la alternativa del dolor y la probabilidad del sufrimiento son posibilidades experienciales siempre presentes._ <a id="a108_194"></a>[[LU 3:5.14](/es/The_Urantia_Book/3#p5_14)]
+> _El placer — la satisfacción de la felicidad — ¿es deseable? Entonces el hombre debe vivir en un mundo donde la alternativa del dolor y la probabilidad del sufrimiento son posibilidades experienciales siempre presentes._ <a id="a109_223"></a>[[LU 3:5.14](/es/The_Urantia_Book/3#p5_14)]
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/Stars-and-cave-300x201.jpg">
@@ -123,9 +123,9 @@ Algo salió mal durante el desarrollo material del cuerpo de Brad. Sus dificulta
 
 La segunda pregunta, «¿Qué pasará con Brad cuando muramos?», estaba relacionada con el cuidado de Brad mientras estuviera en Urantia. Puesto que Brad se fue antes que nosotros ya no nos preocupa. Sin embargo, déjenme compartir esta cita, que creo está relacionada con la vida de Brad como mortal.
 
-> _La enseñanza sobre los ángeles guardianes no es un mito; algunos grupos de seres humanos tienen realmente ángeles personales. En reconocimiento de este hecho, Jesús, cuando habló de los niños del reino celestial, dijo: «Tened cuidado de no menospreciar a ninguno de estos pequeños, pues os digo que sus ángeles perciben continuamente la presencia del espíritu de mi Padre.»_ <a id="a124_368"></a>[[LU 113:1.1](/es/The_Urantia_Book/113#p1_1)]
+> _La enseñanza sobre los ángeles guardianes no es un mito; algunos grupos de seres humanos tienen realmente ángeles personales. En reconocimiento de este hecho, Jesús, cuando habló de los niños del reino celestial, dijo: «Tened cuidado de no menospreciar a ninguno de estos pequeños, pues os digo que sus ángeles perciben continuamente la presencia del espíritu de mi Padre.»_ <a id="a125_378"></a>[[LU 113:1.1](/es/The_Urantia_Book/113#p1_1)]
 > 
-> _En un principio, los serafines fueron asignados claramente a las distintas razas de Urantia. Pero desde la donación de Miguel son asignados con arreglo a la inteligencia, la espiritualidad y el destino humanos. Intelectualmente, la humanidad está dividida en tres clases:_ <a id="a126_259"></a>[[LU 113:1.2](/es/The_Urantia_Book/113#p1_2)]
+> _En un principio, los serafines fueron asignados claramente a las distintas razas de Urantia. Pero desde la donación de Miguel son asignados con arreglo a la inteligencia, la espiritualidad y el destino humanos. Intelectualmente, la humanidad está dividida en tres clases:_ <a id="a127_276"></a>[[LU 113:1.2](/es/The_Urantia_Book/113#p1_2)]
 
 La primera clase es:
 
@@ -159,7 +159,7 @@ He aquí como utilicé _El libro de Urantia_ para abordar mis crisis familiares.
 
 Los finalitarios, los Melquisedec, los serafines, los querubines y los padres supervivientes están todos implicados en la vida mortal y posmortal de estas almas sin desarrollar. Se proporciona educación y formación en las escuelas receptoras de los pequeños con el fin de preparar a estos hijos del tiempo para la aventura definitiva. Un cuerpo de serafines y un batallón de querubines vigilan la vida mortal de los que tienen una mente subnormal. Parece que se dedican muchos esfuerzos a cuidar de los hijos imperfectos de este imperfecto mundo material, por lo que deben tener un valor potencial de supervivencia. Hay en _El libro de Urantia_ una frase que está toda en cursiva:
 
-> _En todo el extenso universo, nunca se pierde nada que tenga un valor de supervivencia._ <a id="a160_69"></a>[[LU 109:3.2](/es/The_Urantia_Book/109#p3_2)]
+> _En todo el extenso universo, nunca se pierde nada que tenga un valor de supervivencia._ <a id="a161_91"></a>[[LU 109:3.2](/es/The_Urantia_Book/109#p3_2)]
 
 Vemos en _El libro de Urantia_ que el potencial es muy importante, pues lo importante no es lo que somos sino lo que llegamos a ser. En este universo espiritual sospecho que solo el valor espiritual real o potencial merece el esfuerzo de los ángeles y los seres espirituales. Ahora creo que nos aseguran que las dificultades materiales y las imperfecciones físicas de la vida mortal de Brad no lo siguen ni obstaculizan su potencial de tener una vida espiritual eterna, y de ningún modo impiden su supervivencia y la consecución de la presencia de Dios.
 
@@ -181,7 +181,7 @@ El director de la funeraria me dijo que en 15 años de oficio ese había sido el
 
 Un par de semanas después, mis dos hermanas aparecieron en mi grupo de estudio. Vinieron por lo que había dicho en el funeral de Brad. La madre de Brad (Deborah) ha sentido culpa durante años debido a la situación de Brad, pero las palabras de _El libro de Urantia_ se llevaron la culpa y el miedo que yo no conseguí quitarle.
 
-Los colegas del trabajo enviaron flores para Brad. Les di las gracias por sus condolencias y envié un correo a unas 750 personas de mi empresa que decía: «Aunque estamos tristes por la pérdida de Brad y le echamos mucho de menos, estamos ilusionados por él porque sabemos que «la muerte solo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos”», y añadí la página y el párrafo de _El libro de Urantia_. Recibí una media docena de respuestas amables que hacían comentarios sobre esa afirmación.
+Los colegas del trabajo enviaron flores para Brad. Les di las gracias por sus condolencias y envié un correo a unas 750 personas de mi empresa que decía: «Aunque estamos tristes por la pérdida de Brad y le echamos mucho de menos, estamos ilusionados por él porque sabemos que «la muerte solo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos», y añadí la página y el párrafo de _El libro de Urantia_. Recibí una media docena de respuestas amables que hacían comentarios sobre esa afirmación.
 
 Y esta es la historia de mi viaje progresivo respecto a mi hijo, a su futuro eterno y a nuestra crisis familiar. Luché durante años y pasé de creer que mi hijo no sobreviviría y esperar estar equivocado a estar convencido de que ha sobrevivido y esperar con ilusión comprobar su crecimiento y progreso futuros en servicio a nuestro Padre. Pasé de creer que Brad no tenía valor de supervivencia potencial a estar convencido de ese hecho y a esperar con ilusión el día en que lo vea de nuevo.
 
@@ -191,13 +191,13 @@ Pasé de sentirme responsable de sus desventajas y de la decepción de que él s
 
 He aquí un par de citas definitivas sobre las crisis:
 
-> Rodán dijo: _Pero el mejor de todos los métodos para solucionar los problemas lo he aprendido de Jesús, vuestro Maestro. Me refiero a lo que él practica con tanta perseverancia, y que tan fielmente os ha enseñado: la meditación adoradora en solitario. En esta costumbre que tiene Jesús de apartarse con tanta frecuencia para comulgar con el Padre que está en los cielos, se encuentra la técnica, no sólo para acumular las fuerzas y la sabiduría necesarias para los conflictos ordinarios de la vida, sino también para apropiarse de la energía necesaria para resolver los problemas más elevados de naturaleza moral y espiritual._ <a id="a191_558"></a>[[LU 160:1.10](/es/The_Urantia_Book/160#p1_10)]
+> Rodán dijo: _Pero el mejor de todos los métodos para solucionar los problemas lo he aprendido de Jesús, vuestro Maestro. Me refiero a lo que él practica con tanta perseverancia, y que tan fielmente os ha enseñado: la meditación adoradora en solitario. En esta costumbre que tiene Jesús de apartarse con tanta frecuencia para comulgar con el Padre que está en los cielos, se encuentra la técnica, no sólo para acumular las fuerzas y la sabiduría necesarias para los conflictos ordinarios de la vida, sino también para apropiarse de la energía necesaria para resolver los problemas más elevados de naturaleza moral y espiritual._ <a id="a193_630"></a>[[LU 160:1.10](/es/The_Urantia_Book/160#p1_10)]
 > 
-> _El Maestro sabía muy bien que muchos de sus seguidores estaban preparándose mentalmente, de manera lenta pero segura, para rechazarlo definitivamente. También sabía que muchos de sus discípulos estaban pasando, de manera lenta pero segura, por esa preparación de la mente y esa disciplina del alma que les permitiría triunfar sobre las dudas y afirmar valientemente su fe completa en el evangelio del reino. Jesús comprendía plenamente cómo se preparan los hombres para las decisiones de una crisis y para llevar a cabo acciones repentinas basadas en elecciones valientes, mediante el lento proceso de elegir reiteradamente entre el bien y el mal en las situaciones recurrentes. A sus mensajeros elegidos los sometió a repetidas desilusiones y les proporcionó frecuentes oportunidades de pruebas para que escogieran entre la buena y la mala manera de enfrentarse a las dificultades espirituales. Sabía que podía confiar en sus seguidores, que cuando se enfrentaran con la prueba final, tomarían sus decisiones esenciales de acuerdo con las actitudes mentales y las reacciones espirituales habituales adquiridas anteriormente._ <a id="a193_1014"></a>[[LU 153:1.3](/es/The_Urantia_Book/153#p1_3)]
+> _El Maestro sabía muy bien que muchos de sus seguidores estaban preparándose mentalmente, de manera lenta pero segura, para rechazarlo definitivamente. También sabía que muchos de sus discípulos estaban pasando, de manera lenta pero segura, por esa preparación de la mente y esa disciplina del alma que les permitiría triunfar sobre las dudas y afirmar valientemente su fe completa en el evangelio del reino. Jesús comprendía plenamente cómo se preparan los hombres para las decisiones de una crisis y para llevar a cabo acciones repentinas basadas en elecciones valientes, mediante el lento proceso de elegir reiteradamente entre el bien y el mal en las situaciones recurrentes. A sus mensajeros elegidos los sometió a repetidas desilusiones y les proporcionó frecuentes oportunidades de pruebas para que escogieran entre la buena y la mala manera de enfrentarse a las dificultades espirituales. Sabía que podía confiar en sus seguidores, que cuando se enfrentaran con la prueba final, tomarían sus decisiones esenciales de acuerdo con las actitudes mentales y las reacciones espirituales habituales adquiridas anteriormente._ <a id="a195_1130"></a>[[LU 153:1.3](/es/The_Urantia_Book/153#p1_3)]
 
 Quizás las repetidas crisis de nuestra vida son este mismo tipo de entrenamiento para nosotros. En las crisis nos exponemos a los altibajos de la vida, la alegría de la victoria y la agonía de la derrota hasta que desarrollamos buenos hábitos de resolución de problemas sin desmoronarnos durante una crisis ni enorgullecernos demasiado por nuestros éxitos.
 
-> _Antes de que Jesús fuera colocado en su cruz, los dos bandidos ya habían sido situados en las suyas, maldiciendo y escupiendo continuamente a sus verdugos. Las únicas palabras de Jesús mientras lo clavaban en el travesaño fueron: «Padre, perdónalos porque no saben lo que hacen.» No podría haber intercedido con tanto amor y misericordia a favor de sus verdugos, si estos pensamientos de devoción afectuosa no hubieran sido el móvil principal de toda su vida de servicio desinteresado. Las ideas, los móviles y los anhelos de toda una vida se revelan abiertamente en una crisis._ <a id="a197_545"></a>[[LU 187:2.4](/es/The_Urantia_Book/187#p2_4)]
+> _Antes de que Jesús fuera colocado en su cruz, los dos bandidos ya habían sido situados en las suyas, maldiciendo y escupiendo continuamente a sus verdugos. Las únicas palabras de Jesús mientras lo clavaban en el travesaño fueron: «Padre, perdónalos porque no saben lo que hacen.» No podría haber intercedido con tanto amor y misericordia a favor de sus verdugos, si estos pensamientos de devoción afectuosa no hubieran sido el móvil principal de toda su vida de servicio desinteresado. Las ideas, los móviles y los anhelos de toda una vida se revelan abiertamente en una crisis._ <a id="a199_583"></a>[[LU 187:2.4](/es/The_Urantia_Book/187#p2_4)]
 
 ¿Qué nos dicen sobre nosotros mismos nuestras palabras, acciones y sentimientos, nuestros correos electrónicos, tuiteos y publicaciones de Facebook durante crisis anteriores? ¿Qué nos dice esto sobre lo que debemos hacer para gestionar mejor las crisis en nuestra familia? Cuando termina una crisis todos tenemos cosas que desearíamos haber dicho, cosas que desearíamos no haber dicho, cosas que desearíamos haber hecho y cosas que desearíamos no haber hecho.
 
@@ -213,7 +213,7 @@ Entonces, cambiemos un poco de marcha.
 
 > _El cristianismo se enfrenta seriamente con la sentencia incluida en uno de sus propios lemas::_
 > 
-> _«Una casa dividida contra sí misma no puede subsistir». El mundo no cristiano difícilmente capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia — la fraternidad de Jesús — es invisible, espiritual y está caracterizada por la unidad._ <a id="a213_299"></a>[[LU 195:10.12](/es/The_Urantia_Book/195#p10_12)]
+> _«Una casa dividida contra sí misma no puede subsistir». El mundo no cristiano difícilmente capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia — la fraternidad de Jesús — es invisible, espiritual y está caracterizada por la unidad._ <a id="a215_338"></a>[[LU 195:10.12](/es/The_Urantia_Book/195#p10_12)]
 
 En _El libro de Urantia_ podemos ver que ha habido muchas separaciones y divisiones en el pasado dentro de la comunidad de creyentes en Jesús. Abner se separó de los apóstoles. Natanael se separó de los apóstoles cuando cambiaron el evangelio. Se produjo el gran cisma de 1054, que provocó la separación final entre las Iglesias cristiana oriental y la Iglesia occidental dirigida por el Papa León IX que no terminó (más o menos) hasta 1965.
 
@@ -251,7 +251,7 @@ Si estamos ennoblecidos por la gracia de la fe para amar a los incrédulos, ¿no
 
 Jesús dijo:
 
-> _«Id pues a proclamar por todo el mundo, a todas las naciones y razas, este evangelio de la paternidad de Dios y de la fraternidad de los hombres, y sed siempre sabios en la elección de vuestros métodos para presentar la buena nueva a las diferentes razas y tribus de la humanidad. Habéis recibido gratuitamente este evangelio del reino, y aportaréis gratuitamente la buena nueva a todas las naciones. No temáis la resistencia del mal porque siempre estoy con vosotros, incluso hasta el fin de los tiempos. Mi paz os dejo.»_ <a id="a251_480"></a>[[LU 191:4.4](/es/The_Urantia_Book/191#p4_4)]
+> _«Id pues a proclamar por todo el mundo, a todas las naciones y razas, este evangelio de la paternidad de Dios y de la fraternidad de los hombres, y sed siempre sabios en la elección de vuestros métodos para presentar la buena nueva a las diferentes razas y tribus de la humanidad. Habéis recibido gratuitamente este evangelio del reino, y aportaréis gratuitamente la buena nueva a todas las naciones. No temáis la resistencia del mal porque siempre estoy con vosotros, incluso hasta el fin de los tiempos. Mi paz os dejo.»_ <a id="a253_527"></a>[[LU 191:4.4](/es/The_Urantia_Book/191#p4_4)]
 
 
 ## Referencias

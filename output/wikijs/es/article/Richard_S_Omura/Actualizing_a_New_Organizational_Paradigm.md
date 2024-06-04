@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
-He expresado mi opinión de que es necesaria una organización espiritual basada en las enseñanzas de _El Libro de Urantia_ para promover las verdades del libro en las vidas de los hombres y mujeres del planeta, como se detalla en mi tesis, «Difundir las enseñanzas en El Libro de Urantia»..” Los puntos en disputa de tal organización son los peligros de la religión institucionalizada de la que habla El Libro de Urantia:
+He expresado mi opinión de que es necesaria una organización espiritual basada en las enseñanzas de _El Libro de Urantia_ para promover las verdades del libro en las vidas de los hombres y mujeres del planeta, como se detalla en mi tesis, «Difundir las enseñanzas en El Libro de Urantia»... Los puntos en disputa de tal organización son los peligros de la religión institucionalizada de la que habla El Libro de Urantia:
 
 (Lo siguiente se reformatea en orden numérico para este propósito).
 

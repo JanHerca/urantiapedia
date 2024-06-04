@@ -180,7 +180,7 @@ Y tienen la luna movilizada. Son capaces de movilizar la totalidad de la magnitu
 
 ¿Y qué van a trinidizar? Creo que van a intentar trinidizar a Dios Absoluto. Y eso arroja algo de luz sobre una declaración muy críptica en el Prólogo. El punto al que me gustaría llamar su atención está en <a id="a180_207"></a>[[LU 0:12.8](/es/The_Urantia_Book/0#p12_8)]
 
-La Última Trinidad_” esa es la Primera Trinidad Experiencial_” está unificando experiencialmente al completarse… Acabamos de hablar de eso. Y cuando finalmente se unifica, el Universo Maestro está completo y tenemos a Dios el Último.
+La Trinidad Última _esa es la Primera Trinidad Experiencial_ está unificando experiencialmente al completarse… Acabamos de hablar de eso. Y cuando finalmente se unifica, el Universo Maestro está completo y tenemos a Dios el Último.
 
 Esa es la Segunda Trinidad Experiencial.
 
@@ -196,7 +196,7 @@ En <a id="a194_3"></a>[LU 112:1.9](/es/The_Urantia_Book/112#p1_9), junto al últ
 
 «_Estos fenómenos dimensionales son realizables como tres en el nivel finito,_» (primer piso), «_tres en el nivel absonito,_» (segundo piso), «_y uno en el nivel absoluto_». (tercer piso)
 
-> Esta dimensión suprema es un absoluto asociable y, aunque no es infinita, posee un potencial dimensional que permite la penetración subinfinita de lo absoluto._” <a id="a198_164"></a>[[LU 112:1.9](/es/The_Urantia_Book/112#p1_9)]
+> Esta dimensión suprema es un absoluto asociable y, aunque no es infinita, posee un potencial dimensional que permite la penetración subinfinita de lo absoluto._ <a id="a198_163"></a>[[LU 112:1.9](/es/The_Urantia_Book/112#p1_9)]
 
 Vamos a darle una vuelta a eso. Tenemos el equipo necesario en este momento cuando rompan este muro; no podemos romperlo, pero podemos atravesar cualquier agujero que hagan. ¿Qué significa «_penetración subinfinita de lo absoluto_»? Bueno, uso esta ilustración más adelante: no puedo beberme todo el zumo de naranja de la ciudad de Chicago, pero eso no significa que no pueda beber un poco y que no pueda seguir bebiendo jugo de naranja.
 
@@ -276,7 +276,7 @@ Un Mensajero de Gravedad usa la gravedad, y eso se mueve aún más rápido. Creo
 
 Son rápidos como los Mensajeros de Gravedad. Los Mensajeros de Gravedad son muy parecidos a los Ajustadores del Pensamiento. Son fragmentos del Padre Universal.
 
-Solo echémosles un vistazo a ellos. Se discuten en un solo lugar en los documentos, en relación con el Cuerpo de la Finalidad. <a id="a278_124"></a>[LU 31:2](/es/The_Urantia_Book/31#p2).
+Solo echémosles un vistazo a ellos. Se discuten en un solo lugar en los documentos, en relación con el Cuerpo de la Finalidad. <a id="a278_127"></a>[LU 31:2](/es/The_Urantia_Book/31#p2).
 
 Dice que hay mil de ellos adjuntos a cada compañía finalista de mil, y el principal Mensajero de Gravedad es miembro de la compañía finalista. Dice: «_Ningún otro grupo de criaturas inteligentes posee un cuerpo así de mensajeros personalizados capaces de trascender el tiempo y el espacio. Los tipos similares de mensajeros-registradores destinados en otros cuerpos finalitarios no están personalizados; están absonitizados._» <a id="a280_427"></a>[[LU 31:2.1](/es/The_Urantia_Book/31#p2_1)]
 

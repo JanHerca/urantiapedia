@@ -103,8 +103,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. Eran un clan religioso perteneciente a los madianitas. Jetro era su sumo sacerdote.
 2. Tenían una alta civilización: vocaciones variadas: trabajadores del metal, etc. También tenían una religión bien desarrollada.
-3. Para conocer la historia completa de los kenitas, véase El Libro de Urantia <a id="s105_55"></a>[96:0.2](/es/The_Urantia_Book/96#p0_2).
-4. Moisés recibió una buena educación egipcia antes de unirse a los ceneos. Véase El Libro de Urantia, <a id="s106_95"></a>[LU 96:4.2](/es/The_Urantia_Book/96#p4_2). Conocía la «sabiduría de los egipcios». [Hch 7:22](/es/Bible/Acts_of_the_Apostles/7#v22).
+3. Para conocer la historia completa de los kenitas, véase El Libro de Urantia <a id="s105_79"></a>[96:0.2](/es/The_Urantia_Book/96#p0_2).
+4. Moisés recibió una buena educación egipcia antes de unirse a los ceneos. Véase El Libro de Urantia, <a id="s106_103"></a>[LU 96:4.2](/es/The_Urantia_Book/96#p4_2). Conocía la «sabiduría de los egipcios». [Hch 7:22](/es/Bible/Acts_of_the_Apostles/7#v22).
 5. El sacerdote Jetro también era conocido como Reuel. [2:18](/es/Bible/Exodus/2#v18).
 6. Moisés se casó con Séfora, la hija de Jetro, y tuvo dos hijos. [18:3](/es/Bible/Exodus/18#v3).
 7. Fue mientras cuidaba los rebaños de Jetro que Moisés tuvo su experiencia de la «zarza ardiente» y recibió la comisión de Yahweh de sacar a Israel de la esclavitud.

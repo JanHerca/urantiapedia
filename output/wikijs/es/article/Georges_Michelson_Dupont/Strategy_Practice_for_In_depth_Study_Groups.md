@@ -27,27 +27,27 @@ Los reveladores han demostrado un gran conocimiento del funcionamiento de nuestr
 
 Cuando abres _El Libro de Urantia_ para estudiar, tienes un «encuentro» con Dios y las fuerzas espirituales que conspiran para ayudarte a «captar la realidad de los valores espirituales y comprender la filosofía de los significados del universo». Esto no es retórica florida, es una realidad experiencial: ¿Te das cuenta de su importancia?
 
-> _5. *Los documentos de Urantia*. Los documentos, de los cuales éste mismo forma parte, constituyen la presentación más reciente de la verdad a los mortales de Urantia._ ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
+> _5. *Los documentos de Urantia*. Los documentos, de los cuales éste mismo forma parte, constituyen la presentación más reciente de la verdad a los mortales de Urantia._ (<a id="s29_172"></a>[LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
 Un Melquisedec de Nebadon nos exhorta a dedicarnos al estudio de _El Libro de Urantia_:
 
-> «No es suficiente con que los mortales ascendentes conozcan algo sobre las relaciones de la Deidad con la génesis y las manifestaciones de la realidad cósmica; también deberían comprender algo acerca de las relaciones que existen entre ellos mismos y los numerosos niveles de realidades existenciales y experienciales, de realidades potenciales y actuales. La orientación del hombre en la Tierra, su perspicacia cósmica y la dirección de su conducta espiritual se vuelven más elevadas gracias a una mejor comprensión de las realidades del universo y de sus técnicas de interasociación, integración y unificación.» ([LU 106:0.1](/es/The_Urantia_Book/106#p0_1))
+> «No es suficiente con que los mortales ascendentes conozcan algo sobre las relaciones de la Deidad con la génesis y las manifestaciones de la realidad cósmica; también deberían comprender algo acerca de las relaciones que existen entre ellos mismos y los numerosos niveles de realidades existenciales y experienciales, de realidades potenciales y actuales. La orientación del hombre en la Tierra, su perspicacia cósmica y la dirección de su conducta espiritual se vuelven más elevadas gracias a una mejor comprensión de las realidades del universo y de sus técnicas de interasociación, integración y unificación.» (<a id="s33_617"></a>[LU 106:0.1](/es/The_Urantia_Book/106#p0_1))
 
 ### El mandato de revelar
 
 Está claramente identificado y expresado en el segundo párrafo de la introducción del Divino Consejero en estos términos:
 
-> «...aumentar la conciencia cósmica y elevar la percepción espiritual, ...» ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
+> «...aumentar la conciencia cósmica y elevar la percepción espiritual, ...» (<a id="s39_78"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
 Esta frase introduce dos conceptos: «aumentar la conciencia cósmica» y «elevar la percepción espiritual». Descifraremos el significado de cada uno un poco más adelante, pero ya un Melquisedec de Nebadón describe este proceso como una técnica:
 
-> Así pues, parece ser que todo progreso humano se efectúa mediante una técnica de *evolución revelatoria* conjunta. ([LU 196:3.15](/es/The_Urantia_Book/196#p3_15))
+> Así pues, parece ser que todo progreso humano se efectúa mediante una técnica de *evolución revelatoria* conjunta. (<a id="s43_118"></a>[LU 196:3.15](/es/The_Urantia_Book/196#p3_15))
 
 Detrás de este concepto hay una realidad de experiencia: cooperación con el Ajustador del Pensamiento; la mente que de todo corazón busca hacer la voluntad de Dios y el Ajustador del Pensamiento que revela la voluntad de Dios y así produce una dinámica de continua expansión mental y elevación espiritual.
 
 Este mismo Melquisedec afirma que:
 
-> «La revelación enseña al hombre mortal que para emprender esta aventura tan magnífica y fascinante a través del espacio y por medio de la progresión del tiempo, debe empezar por organizar sus conocimientos en ideas-decisiones; luego debe ordenarle a la sabiduría que trabaje sin cesar en su noble tarea de transformar las ideas que posee en ideales cada vez más prácticos, pero no obstante celestiales, e incluso en aquellos conceptos que son tan razonables como ideas, y tan lógicos como ideales, que el Ajustador se atreva a combinarlos y espiritualizarlos de tal manera que se encuentren disponibles para esa asociación, en la mente finita, que los convertirá en el verdadero complemento humano ya preparado para la actividad del Espíritu de la Verdad de los Hijos, las manifestaciones espacio-temporales de la verdad del Paraíso —de la verdad universal.» ([LU 101:6.7](/es/The_Urantia_Book/101#p6_7))
+> «La revelación enseña al hombre mortal que para emprender esta aventura tan magnífica y fascinante a través del espacio y por medio de la progresión del tiempo, debe empezar por organizar sus conocimientos en ideas-decisiones; luego debe ordenarle a la sabiduría que trabaje sin cesar en su noble tarea de transformar las ideas que posee en ideales cada vez más prácticos, pero no obstante celestiales, e incluso en aquellos conceptos que son tan razonables como ideas, y tan lógicos como ideales, que el Ajustador se atreva a combinarlos y espiritualizarlos de tal manera que se encuentren disponibles para esa asociación, en la mente finita, que los convertirá en el verdadero complemento humano ya preparado para la actividad del Espíritu de la Verdad de los Hijos, las manifestaciones espacio-temporales de la verdad del Paraíso —de la verdad universal.» (<a id="s49_862"></a>[LU 101:6.7](/es/The_Urantia_Book/101#p6_7))
 
 «Aumentar la conciencia cósmica» es un proceso intelectual que se encuentra en el reino de la mente, mientras que «aumentar la conciencia espiritual» es personal, experiencial y sujeto al libre albedrío de la personalidad.
 
@@ -57,7 +57,7 @@ Este mismo Melquisedec afirma que:
 
 Empecemos por intentar definir qué es la conciencia o la autoconciencia. El Censor Universal lo describe de la siguiente manera:
 
-> «La conciencia de sí mismo consiste en darse cuenta intelectualmente de la realidad de la personalidad; incluye la aptitud para reconocer la realidad de otras personalidades. Indica la capacidad para llevar a cabo experiencias individualizadas en y con las realidades cósmicas, lo que equivale a alcanzar el estado de identidad en las relaciones entre personalidades en el universo. La conciencia de sí mismo conlleva el reconocimiento de la realidad del ministerio mental y el darse cuenta de la independencia relativa del libre albedrío creativo y determinante.» ([LU 16:8.6](/es/The_Urantia_Book/16#p8_6))
+> «La conciencia de sí mismo consiste en darse cuenta intelectualmente de la realidad de la personalidad; incluye la aptitud para reconocer la realidad de otras personalidades. Indica la capacidad para llevar a cabo experiencias individualizadas en y con las realidades cósmicas, lo que equivale a alcanzar el estado de identidad en las relaciones entre personalidades en el universo. La conciencia de sí mismo conlleva el reconocimiento de la realidad del ministerio mental y el darse cuenta de la independencia relativa del libre albedrío creativo y determinante.» (<a id="s59_568"></a>[LU 16:8.6](/es/The_Urantia_Book/16#p8_6))
 
 La autoconciencia es, por tanto, un fenómeno intelectual que permite experimentar realidades cósmicas que se proyectan como una imagen en el marco mental. También es capaz de establecer relaciones individualizadas con otras personalidades. Cuanto más iluminado por la verdad el marco mental, el ámbito de la elección, más significativas se vuelven las elecciones entre niveles de valores.
 
@@ -65,7 +65,7 @@ La autoconciencia es, por tanto, un fenómeno intelectual que permite experiment
 
 De nuevo una brillante estrella vespertina nos ofrece una explicación:
 
-> «En la mansonia número cinco se produce un verdadero nacimiento de la conciencia cósmica. Estáis llegando a tener una mentalidad universal. Éste es en verdad un período de expansión de los horizontes. La mente en expansión de los mortales ascendentes empieza a darse cuenta de que un destino prodigioso y magnífico, un destino celestial y divino, espera a todos aquellos que terminan la ascensión progresiva al Paraíso, la cual ha empezado tan laboriosamente pero de una manera tan alegre y favorable. Aproximadamente en este punto, el ascendente mortal de tipo medio empieza a manifestar un auténtico entusiasmo experiencial por la ascensión a Havona. El estudio se vuelve voluntario, el servicio desinteresado, natural, y la adoración, espontánea. Está brotando un verdadero carácter morontial; se está desarrollando una verdadera criatura morontial.» ([LU 47:7.5](/es/The_Urantia_Book/47#p7_5))
+> «En la mansonia número cinco se produce un verdadero nacimiento de la conciencia cósmica. Estáis llegando a tener una mentalidad universal. Éste es en verdad un período de expansión de los horizontes. La mente en expansión de los mortales ascendentes empieza a darse cuenta de que un destino prodigioso y magnífico, un destino celestial y divino, espera a todos aquellos que terminan la ascensión progresiva al Paraíso, la cual ha empezado tan laboriosamente pero de una manera tan alegre y favorable. Aproximadamente en este punto, el ascendente mortal de tipo medio empieza a manifestar un auténtico entusiasmo experiencial por la ascensión a Havona. El estudio se vuelve voluntario, el servicio desinteresado, natural, y la adoración, espontánea. Está brotando un verdadero carácter morontial; se está desarrollando una verdadera criatura morontial.» (<a id="s67_857"></a>[LU 47:7.5](/es/The_Urantia_Book/47#p7_5))
 
 En espíritu, la educación que los mortales ascendentes comienzan a recibir en mansonia 5 se parece a la que los reveladores brindan a los estudiantes de El libro de Urantia. Amplían nuestros horizontes ofreciéndonos una descripción de un destino estupendo y magnífico en el Paraíso. Nos entusiasma la perspectiva de progresar hacia Havona, realmente deseamos estudiar voluntariamente y servir a nuestros hermanos y hermanas desinteresadamente.
 
@@ -77,15 +77,15 @@ Qué aventura !
 
 Esta es la segunda etapa del proceso; un poco más misterioso que el primero porque exige una alquimia cooperativa con las fuerzas espirituales que nos habitan o rodean. Hemos leído anteriormente que
 
-> «...e incluso en aquellos conceptos que son tan razonables como ideas, y tan lógicos como ideales, que el Ajustador se atreva a combinarlos y espiritualizarlos de tal manera que se encuentren disponibles para esa asociación, en la mente finita, que los convertirá en el verdadero complemento humano ya preparado para la actividad del Espíritu de la Verdad de los Hijos, las manifestaciones espacio-temporales de la verdad del Paraíso —de la verdad universal.» ([LU 101:6.7](/es/The_Urantia_Book/101#p6_7))
+> «...e incluso en aquellos conceptos que son tan razonables como ideas, y tan lógicos como ideales, que el Ajustador se atreva a combinarlos y espiritualizarlos de tal manera que se encuentren disponibles para esa asociación, en la mente finita, que los convertirá en el verdadero complemento humano ya preparado para la actividad del Espíritu de la Verdad de los Hijos, las manifestaciones espacio-temporales de la verdad del Paraíso —de la verdad universal.» (<a id="s79_463"></a>[LU 101:6.7](/es/The_Urantia_Book/101#p6_7))
 
 Leemos :
 
-> «Jesús enseñó el recurso a las emociones como técnica para detener y concentrar la atención intelectual. A esa mente así despierta y avivada la calificó de puerta de entrada al alma, donde reside esa naturaleza espiritual del hombre que debe reconocer la verdad y responder al llamamiento espiritual del evangelio, a fin de producir los resultados permanentes de las verdaderas transformaciones del carácter.» ([LU 152:6.4](/es/The_Urantia_Book/152#p6_4))
+> «Jesús enseñó el recurso a las emociones como técnica para detener y concentrar la atención intelectual. A esa mente así despierta y avivada la calificó de puerta de entrada al alma, donde reside esa naturaleza espiritual del hombre que debe reconocer la verdad y responder al llamamiento espiritual del evangelio, a fin de producir los resultados permanentes de las verdaderas transformaciones del carácter.» (<a id="s83_413"></a>[LU 152:6.4](/es/The_Urantia_Book/152#p6_4))
 
 Y el Divino Consejero termina su introducción con
 
-> «...Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios.» ([LU 0:12.13](/es/The_Urantia_Book/0#p12_13))
+> «...Pero sabemos que un fragmento de Dios vive en la mente humana y que el Espíritu de la Verdad reside con el alma humana; y sabemos también que estas fuerzas espirituales conspiran para permitir que el hombre material capte la realidad de los valores espirituales y comprenda la filosofía de los significados universales. Pero sabemos incluso con mayor seguridad que estos espíritus de la Presencia Divina son capaces de ayudar al hombre para que se apropie espiritualmente de toda verdad que contribuya a realzar la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios.» (<a id="s87_613"></a>[LU 0:12.13](/es/The_Urantia_Book/0#p12_13))
 
 ## Un plan de estudio sugerido
 
@@ -97,7 +97,7 @@ Personalmente encuentro conmovedor y destacable la forma respetuosa con la que m
 
 En la Introducción nuestro Divino Consejero trae la siguiente reflexión:
 
-> «... existe una gran confusión en cuanto al significado de palabras tales como Dios, divinidad y deidad. Los seres humanos se sienten aún más confundidos e inseguros con respecto a las relaciones entre las personalidades divinas designadas con estos numerosos apelativos.» ([LU 0:0.1](/es/The_Urantia_Book/0#p0_1))
+> «... existe una gran confusión en cuanto al significado de palabras tales como Dios, divinidad y deidad. Los seres humanos se sienten aún más confundidos e inseguros con respecto a las relaciones entre las personalidades divinas designadas con estos numerosos apelativos.» (<a id="s99_276"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1))
 
 De hecho, la observación demuestra que el aparente hermetismo del lenguaje de El libro de Urantia y la confusión de ideas resultante repelen a muchos lectores y se convierten en la causa más frecuente de abandono.
 
@@ -105,7 +105,7 @@ _Por lo tanto, es necesario comenzar con un estudio en profundidad de la introdu
 
 Consciente de ello, el Divino Consejero nos advierte que
 
-> «Debido a esta pobreza conceptual acompañada de tanta confusión de ideas, se me ha encargado formular esta exposición preliminar para explicar los significados que deberán atribuirse a ciertos símbolos verbales que se van a utilizar más adelante en estos documentos, que el cuerpo de reveladores de la verdad, de Orvonton, ha sido autorizado a traducir al idioma inglés de Urantia.» ([LU 0:0.1](/es/The_Urantia_Book/0#p0_1))
+> «Debido a esta pobreza conceptual acompañada de tanta confusión de ideas, se me ha encargado formular esta exposición preliminar para explicar los significados que deberán atribuirse a ciertos símbolos verbales que se van a utilizar más adelante en estos documentos, que el cuerpo de reveladores de la verdad, de Orvonton, ha sido autorizado a traducir al idioma inglés de Urantia.» (<a id="s107_386"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1))
 
 En la Introducción, el Divino Consejero se compromete a:
 
@@ -119,9 +119,9 @@ En la Introducción, el Divino Consejero se compromete a:
 
 No se nos ocurriría escuchar una sinfonía empezando por algo que no sea el principio. _El Libro de Urantia_ es una sinfonía y debe disfrutarse desde el principio. Queremos como prueba de ello la siguiente aclaración proporcionada por el Divino Consejero.
 
-> Por ejemplo: la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la *sabiduría espiritual.* Este procedimiento es el camino más fácil para llegar a cierta forma de *conocimiento genético,* que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino. ([LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
+> Por ejemplo: la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la *sabiduría espiritual.* Este procedimiento es el camino más fácil para llegar a cierta forma de *conocimiento genético,* que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino. (<a id="s121_514"></a>[LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
 
-> «Por eso, a causa de éstas y de otras razones, la técnica que empleamos para acercarnos al hombre y a sus problemas planetarios es la de embarcarnos en el viaje por el tiempo y el espacio partiendo desde la infinita, eterna y divina Fuente y Centro Paradisiaca de toda realidad con personalidad y de toda existencia cósmica.» ([LU 19:1.12](/es/The_Urantia_Book/19#p1_12))
+> «Por eso, a causa de éstas y de otras razones, la técnica que empleamos para acercarnos al hombre y a sus problemas planetarios es la de embarcarnos en el viaje por el tiempo y el espacio partiendo desde la infinita, eterna y divina Fuente y Centro Paradisiaca de toda realidad con personalidad y de toda existencia cósmica.» (<a id="s123_329"></a>[LU 19:1.12](/es/The_Urantia_Book/19#p1_12))
 
 Así es, pues, como los Reveladores presentan los Documentos, comenzando por Dios, el universo central y los superuniversos (Documentos 1 a 31), luego continuando al nivel del universo local (32 a 56), luego al nivel de nuestro planeta y sus historia (del 57 al 114) y finalmente introduciendo nuestro destino (del 115 al 118).
 
@@ -164,11 +164,11 @@ Los grupos de estudio del _Libro de Urantia_ son esenciales al menos por las sig
 
 Los maestros y líderes son personas con larga experiencia en las enseñanzas y doctrinas de _El Libro de Urantia_, personas sabias que desean servir a los lectores sin imponer su punto de vista. De ninguna manera estos individuos son «gurús» o «maestros» con autoridad autoproclamada que buscan engrandecimiento personal o un puesto remunerado. Su motivación es un resultado natural de haber encontrado a Dios y haber adquirido el deseo de servirle.
 
-> «El deseo religioso es la búsqueda ávida de la realidad divina. La experiencia religiosa es tener conciencia de haber encontrado a Dios. Y cuando un ser humano encuentra a Dios, el alma de ese ser experimenta tal agitación indescriptible por el triunfo de su descubrimiento, que se ve impulsado a buscar un contacto de servicio afectuoso con sus semejantes menos iluminados, no para revelar que ha encontrado a Dios, sino más bien para permitir que el desbordamiento de bondad eterna que brota de su propia alma refresque y ennoblezca a sus semejantes. La auténtica religión conduce a un servicio social cada vez mayor.» ([LU 102:3.4](/es/The_Urantia_Book/102#p3_4))
+> «El deseo religioso es la búsqueda ávida de la realidad divina. La experiencia religiosa es tener conciencia de haber encontrado a Dios. Y cuando un ser humano encuentra a Dios, el alma de ese ser experimenta tal agitación indescriptible por el triunfo de su descubrimiento, que se ve impulsado a buscar un contacto de servicio afectuoso con sus semejantes menos iluminados, no para revelar que ha encontrado a Dios, sino más bien para permitir que el desbordamiento de bondad eterna que brota de su propia alma refresque y ennoblezca a sus semejantes. La auténtica religión conduce a un servicio social cada vez mayor.» (<a id="s166_624"></a>[LU 102:3.4](/es/The_Urantia_Book/102#p3_4))
 
 Durante el estudio, es bastante natural que el maestro dé su interpretación de acuerdo con su comprensión de tal o cual pasaje del _Libro de Urantia_. Pero éste no es el método correcto porque, al hacerlo, el profesor interpreta el pensamiento del autor a riesgo de imponer un punto de vista parcial, subjetivo, inexacto o incluso erróneo. En verdad, todas las aclaraciones, ampliaciones de conceptos y respuestas a las preguntas legítimas de los participantes están en el libro mismo, y el método correcto es que el profesor las busque y las utilice como «referencias cruzadas», es decir, párrafos o pasajes que aclaran la terminología, presentan un punto de vista adicional, realzan un ideal o profundizan tal o cual concepto. Esta es precisamente la técnica notablemente utilizada por los reveladores para expandir nuestra conciencia cósmica y expandir nuestro marco mental.
 
-Una referencia cruzada bien elegida en el contexto de un intercambio determinado puede realmente aclarar e incluso mejorar profundamente la percepción espiritual de los participantes. Por ejemplo, en la frase: «Este magnífico mandato universal de esforzarse por alcanzar la perfección de la divinidad es el primer deber, y debería ser la más alta ambición, de todas las criaturas que luchan en la creación del Dios de perfección...» [LU 1:0.4](/es/The_Urantia_Book/1#p0_4) el término «deber» ofendió a algunos participantes y sabía de antemano que sería motivo de discusión. El Divino Consejero utiliza aquí el término deber para hacernos reflexionar sobre nuestra responsabilidad de obedecer este mandato. Al optar por referirnos al Documento 117, Sección 4, verdaderamente hemos recibido del Poderoso Mensajero una respuesta magistral, clara y significativa de nuestra responsabilidad no sólo como hijos del Padre Universal sino también hacia los miembros de Dios Séptuple. Algunos participantes experimentaron una emoción espiritual muy fuerte y este «deber» que había permanecido en el nivel del intelecto realmente ascendió al nivel espiritual del deseo sincero y el reconocimiento de la responsabilidad personal.
+Una referencia cruzada bien elegida en el contexto de un intercambio determinado puede realmente aclarar e incluso mejorar profundamente la percepción espiritual de los participantes. Por ejemplo, en la frase: «Este magnífico mandato universal de esforzarse por alcanzar la perfección de la divinidad es el primer deber, y debería ser la más alta ambición, de todas las criaturas que luchan en la creación del Dios de perfección...» <a id="s170_433"></a>[LU 1:0.4](/es/The_Urantia_Book/1#p0_4) el término «deber» ofendió a algunos participantes y sabía de antemano que sería motivo de discusión. El Divino Consejero utiliza aquí el término deber para hacernos reflexionar sobre nuestra responsabilidad de obedecer este mandato. Al optar por referirnos al Documento 117, Sección 4, verdaderamente hemos recibido del Poderoso Mensajero una respuesta magistral, clara y significativa de nuestra responsabilidad no sólo como hijos del Padre Universal sino también hacia los miembros de Dios Séptuple. Algunos participantes experimentaron una emoción espiritual muy fuerte y este «deber» que había permanecido en el nivel del intelecto realmente ascendió al nivel espiritual del deseo sincero y el reconocimiento de la responsabilidad personal.
 
 Este es el trabajo preparatorio que debe realizar un docente antes de la reunión. Recuerde siempre que son los autores de _El Libro de Urantia_ quienes «revelan» las verdades superiores al traer su punto de vista sobrehumano y por lo tanto son sus escritos a los que debemos estar expuestos y no escuchar la interpretación de un maestro por muy bueno que sea. y relevante.
 
@@ -215,15 +215,15 @@ Después de la lectura de los párrafos, el líder-facilitador podría hacer pre
 
 Un Melquisedec de Nebadón declaró lo siguiente:
 
-> «Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología». [LU 101:4.1](/es/The_Urantia_Book/101#p4_1)
+> «Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología». <a id="s217_182"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1)
 > 
-> “Las afirmaciones referentes a la cosmología nunca son inspiradas, pero estas revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos mediante:
+> «Las afirmaciones referentes a la cosmología nunca son inspiradas, pero estas revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos mediante:
 > 
 > 1. La reducción de la confusión, eliminando con autoridad los errores.
 > 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos.
 > 3. El restablecimiento de importantes fragmentos de conocimientos perdidos relacionados con acontecimientos históricos del pasado lejano.
 > 4. El suministro de una información que colma las lagunas vitales existentes en los conocimientos adquiridos de otras maneras.
-> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. [LU 101:4.5-10](/es/The_Urantia_Book/101#p4_10)
+> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. <a id="s225_143"></a>[LU 101:4.5-10](/es/The_Urantia_Book/101#p4_10)
 
 Así que aquí está la estrategia que han implementado para la expansión de nuestra conciencia cósmica. Estos 5 puntos constituyen una taxonomía de la enseñanza que constituirá una cuadrícula sobre la que se basará nuestro cuestionamiento.
 
@@ -231,7 +231,7 @@ Al prepararse para la reunión, el profesor estará interesado en investigar las
 
 ### Intercambio
 
-«La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso». [LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
+«La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso». <a id="s233_161"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
 
 1. El intercambio de respuestas y de ideas 1) brinda oportunidades para escuchar otros puntos de vista y 2) promueve la buena voluntad.
 2. El _compartir_ de asuntos y experiencias espirituales con otros, combinado con el apoyo del Ajustador del Pensamiento y el Espíritu de la Verdad, fomenta el crecimiento del alma.
@@ -254,15 +254,15 @@ Para ilustrar un concepto o iluminar de otro modo un concepto particular, a vece
 
 Por ejemplo, el siguiente párrafo explica la técnica de supervivencia, pero la complejidad de la terminología hace que el párrafo sea algo difícil de entender.
 
-> En la experiencia interior del hombre, la mente está unida a la materia. Estas mentes vinculadas a la materia no pueden sobrevivir a la muerte física. La técnica de la supervivencia está incluida en aquellos ajustes de la voluntad humana y en aquellas transformaciones en la mente mortal mediante los cuales ese intelecto consciente de Dios se deja enseñar gradualmente por el espíritu y se deja conducir finalmente por él. Esta evolución de la mente humana desde la asociación con la materia hasta la unión con el espíritu tiene como resultado la transmutación de las fases potencialmente espirituales de la mente mortal en las realidades morontiales del alma inmortal. La mente mortal subordinada a la materia está destinada a volverse cada vez más material y, en consecuencia, a sufrir la extinción final de la personalidad; la mente sometida al espíritu está destinada a volverse cada vez más espiritual y a alcanzar finalmente la unidad con el espíritu divino que sobrevive y la guía, consiguiendo de esta manera la supervivencia y la existencia eterna de la personalidad. ([LU 1:3.7](/es/The_Urantia_Book/1#p3_7))
+> En la experiencia interior del hombre, la mente está unida a la materia. Estas mentes vinculadas a la materia no pueden sobrevivir a la muerte física. La técnica de la supervivencia está incluida en aquellos ajustes de la voluntad humana y en aquellas transformaciones en la mente mortal mediante los cuales ese intelecto consciente de Dios se deja enseñar gradualmente por el espíritu y se deja conducir finalmente por él. Esta evolución de la mente humana desde la asociación con la materia hasta la unión con el espíritu tiene como resultado la transmutación de las fases potencialmente espirituales de la mente mortal en las realidades morontiales del alma inmortal. La mente mortal subordinada a la materia está destinada a volverse cada vez más material y, en consecuencia, a sufrir la extinción final de la personalidad; la mente sometida al espíritu está destinada a volverse cada vez más espiritual y a alcanzar finalmente la unidad con el espíritu divino que sobrevive y la guía, consiguiendo de esta manera la supervivencia y la existencia eterna de la personalidad. (<a id="s256_1081"></a>[LU 1:3.7](/es/The_Urantia_Book/1#p3_7))
 
 Después de leer el párrafo anterior, el líder-facilitador podría facilitar la comprensión del párrafo haciendo referencias cruzadas de la siguiente manera:
 
-«Esos ajustes de la voluntad humana» se refiere a la capacidad innata de elección del libre albedrío de la personalidad entre el bien y el mal relativos. Al leer [LU 16:6.4](/es/The_Urantia_Book/16#p6_4), uno encuentra una explicación adicional del mecanismo de la Mente Cósmica en la personalidad. Además, leyendo [LU 16:8.7](/es/The_Urantia_Book/16#p8_7), se encuentran las diferentes situaciones en las que se ve involucrado el libre albedrío de la personalidad:
+«Esos ajustes de la voluntad humana» se refiere a la capacidad innata de elección del libre albedrío de la personalidad entre el bien y el mal relativos. Al leer <a id="s260_162"></a>[LU 16:6.4](/es/The_Urantia_Book/16#p6_4), uno encuentra una explicación adicional del mecanismo de la Mente Cósmica en la personalidad. Además, leyendo <a id="s260_315"></a>[LU 16:8.7](/es/The_Urantia_Book/16#p8_7), se encuentran las diferentes situaciones en las que se ve involucrado el libre albedrío de la personalidad:
 
-«Esas transformaciones en la mente mortal» se refiere a la aceptación de la mente mortal de cooperar con el Ajustador del Pensamiento a través de la elección repetitiva del bien versus el mal, el impulso altruista versus la inclinación egoísta. En el Documento 110, sección 3 [LU 110:3](/es/The_Urantia_Book/110#p3), un Mensajero Solitario explica cómo mejorar la cooperación con el Ajustador del Pensamiento y en [LU 111:1](/es/The_Urantia_Book/111#p1). Analiza minuciosamente el marco mental en el que se toman las decisiones de personalidad.
+«Esas transformaciones en la mente mortal» se refiere a la aceptación de la mente mortal de cooperar con el Ajustador del Pensamiento a través de la elección repetitiva del bien versus el mal, el impulso altruista versus la inclinación egoísta. En el Documento 110, sección 3 <a id="s262_276"></a>[LU 110:3](/es/The_Urantia_Book/110#p3), un Mensajero Solitario explica cómo mejorar la cooperación con el Ajustador del Pensamiento y en <a id="s262_414"></a>[LU 111:1](/es/The_Urantia_Book/111#p1). Analiza minuciosamente el marco mental en el que se toman las decisiones de personalidad.
 
-«La transmutación de las fases potencialmente espirituales de la mente mortal en las realidades morontiales del alma inmortal» se refiere al mecanismo utilizado por el Ajustador del Pensamiento para transferir el contenido espiritual de los pensamientos humanos al alma morontial. [LU 1:3.7](/es/The_Urantia_Book/1#p3_7) [LU 108:6.5](/es/The_Urantia_Book/108#p6_5)
+«La transmutación de las fases potencialmente espirituales de la mente mortal en las realidades morontiales del alma inmortal» se refiere al mecanismo utilizado por el Ajustador del Pensamiento para transferir el contenido espiritual de los pensamientos humanos al alma morontial. <a id="s264_281"></a>[LU 1:3.7](/es/The_Urantia_Book/1#p3_7) <a id="s264_321"></a>[LU 108:6.5](/es/The_Urantia_Book/108#p6_5)
 
 ## Preparándose para un grupo de estudio
 
@@ -315,21 +315,21 @@ Tener un receso de 15 minutos en las sesiones de mañana y tarde.
 
 Recordemos que los desarrolladores utilizan más de 1.000 conceptos humanos.
 
-> _1. La reducción de la confusión, eliminando con autoridad los errores._ ([LU 101:4.6](/es/The_Urantia_Book/101#p4_6))
+> _1. La reducción de la confusión, eliminando con autoridad los errores._ (<a id="s317_76"></a>[LU 101:4.6](/es/The_Urantia_Book/101#p4_6))
 
-La siguiente cita de la Biblia contiene un error. _“Es_ por _el Hijo_ que _Dios_ creó el _universo_, y _es_ a él a quien le asignó la propiedad de todas las cosas. »
+La siguiente cita de la Biblia contiene un error. _«Es_ por _el Hijo_ que _Dios_ creó el _universo_, y _es_ a él a quien le asignó la propiedad de todas las cosas. »
 
-Se corrige autorizadamente con la siguiente frase: “. . . Es por los Hijos de Dios que fueron hechos los universos. . . «. [LU 1:0.1](/es/The_Urantia_Book/1#p0_1)
+Se corrige autorizadamente con la siguiente frase: «. . . Es por los Hijos de Dios que fueron hechos los universos. . . «. <a id="s321_123"></a>[LU 1:0.1](/es/The_Urantia_Book/1#p0_1)
 
 > «La idea bárbara de apaciguar a un Dios enojado, de propiciar a un Señor ofendido, de ganarse el favor de la Deidad mediante sacrificios y penitencias e incluso mediante el derramamiento de sangre, representa una religión totalmente pueril y primitiva, una filosofía indigna de una época ilustrada. de la ciencia y la verdad». [LU 4:5.4](/es/El_Libro_de_Urantia/4#p5_4)
 
 El Divino Consejero denuncia aquí el dogma cristiano de la muerte de Cristo en la cruz para la remisión de los pecados de los hombres.
 
-> _5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña._ ([LU 101:4.10](/es/The_Urantia_Book/101#p4_10))
+> _5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña._ (<a id="s327_146"></a>[LU 101:4.10](/es/The_Urantia_Book/101#p4_10))
 
 ¿Cómo arroja luz la siguiente cita sobre las enseñanzas espirituales?
 
-> «Todas las miríadas de sistemas planetarios fueron hechos para ser finalmente habitados por numerosos tipos diferentes de criaturas inteligentes, de seres que pudieran conocer a Dios, recibir el afecto divino y amarle a cambio.» ([LU 1:0.2](/es/The_Urantia_Book/1#p0_2))
+> «Todas las miríadas de sistemas planetarios fueron hechos para ser finalmente habitados por numerosos tipos diferentes de criaturas inteligentes, de seres que pudieran conocer a Dios, recibir el afecto divino y amarle a cambio.» (<a id="s331_232"></a>[LU 1:0.2](/es/The_Urantia_Book/1#p0_2))
 
 El Divino Consejero devela el propósito trascendente del universo que la ciencia no puede formular para colocar al hombre en un contexto de hermandad cósmica que ilumina su relación personal y espiritual con Dios, su Padre y su amoroso creador.
 
@@ -339,7 +339,7 @@ Mi propósito al escribir este artículo fue ofrecerle algunas ideas y técnicas
 
 Quería darles algunas ideas sobre cómo hacer que un grupo de estudio sea exitoso y atractivo: un lugar donde los asistentes al grupo de estudio disfruten compartiendo, discutiendo, encontrando inspiración mutua y construyendo hermandad humana.
 
-En la página 17, un Consejero Divino afirma lo siguiente: «En consecuencia, para poder presentar a Dios y a sus asociados del universo, hemos seleccionado como base de estos documentos más de mil conceptos humanos que representan el conocimiento planetario más elevado y avanzado sobre los valores espirituales y los significados universales». [LU 0:12.12](/es/The_Urantia_Book/0#p12_12)
+En la página 17, un Consejero Divino afirma lo siguiente: «En consecuencia, para poder presentar a Dios y a sus asociados del universo, hemos seleccionado como base de estos documentos más de mil conceptos humanos que representan el conocimiento planetario más elevado y avanzado sobre los valores espirituales y los significados universales». <a id="s341_344"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12)
 
 La comisión reveladora entregó la mejor revelación posible, mucho antes del día de su misión mundial, con la esperanza de que las personas se sintieran atraídas y transformadas y se convirtieran en diseminadores vivientes de las enseñanzas en todo el mundo. ¿Somos apóstoles, discípulos, actores o simplemente espectadores de la quinta revelación de época? Nos corresponde a cada uno de nosotros encontrar una respuesta a esta pregunta de acuerdo con nuestra motivación personal y nuestro deseo de participar en esta extraordinaria aventura.
 

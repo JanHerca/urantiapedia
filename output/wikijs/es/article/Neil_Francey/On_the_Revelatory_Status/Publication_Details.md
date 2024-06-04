@@ -41,7 +41,7 @@ Después de la transmisión del contenido durante la década de 1930, y antes de
 
 Matthew Block encontró esta admisión del Dr. Sadler, porque escribe:
 
-> Además, he descubierto varios textos fuente (diecisiete, según el último recuento) que se publicaron por primera vez después de 1935, a pesar de las declaraciones en _El Libro de Urantia_ de que las Partes I, II y III fueron escritas en 1934 o 1935 ([LU 31:10.22](/es/The_Urantia_Book/31#p10_22), [LU 56:10.23](/es/The_Urantia_Book/56#p10_23), [LU 119:8.9](/es/The_Urantia_Book/119#p8_9)). Esta incongruencia me quedó resuelta después de leer el ensayo publicado de forma privada por William S. Sadler, «Historia del Movimiento Urantia» (1960), en el que reconocía que se añadió nuevo material al manuscrito de Urantia entre 1935 y 1942.
+> Además, he descubierto varios textos fuente (diecisiete, según el último recuento) que se publicaron por primera vez después de 1935, a pesar de las declaraciones en _El Libro de Urantia_ de que las Partes I, II y III fueron escritas en 1934 o 1935 (<a id="s43_252"></a>[LU 31:10.22](/es/The_Urantia_Book/31#p10_22), <a id="s43_299"></a>[LU 56:10.23](/es/The_Urantia_Book/56#p10_23), <a id="s43_346"></a>[LU 119:8.9](/es/The_Urantia_Book/119#p8_9)). Esta incongruencia me quedó resuelta después de leer el ensayo publicado de forma privada por William S. Sadler, «Historia del Movimiento Urantia» (1960), en el que reconocía que se añadió nuevo material al manuscrito de Urantia entre 1935 y 1942.
 
 El problema aquí es que, si bien conocemos tales inclusiones a partir de documentos fuente, no sabemos qué inclusiones también podrían provenir de fuentes no publicadas.
 

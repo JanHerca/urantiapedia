@@ -53,7 +53,7 @@ Si están interesados en preparar y presentar una ponencia, contacten con [joann
 
 El simposio se celebrará en la sede de la Fundación Urantia en Chicago (Illinois, EE. UU.) y será transmitido en directo. Donde no sea posible viajar, los presentadores pueden elegir asistir a través de Zoom.
 
-> _Todo progreso humano se efectúa mediante una técnica de evolución revelatoria conjunta._ <a id="a54_86"></a>[[LU 196:3.15](/es/The_Urantia_Book/196#p3_15)]
+> _Todo progreso humano se efectúa mediante una técnica de evolución revelatoria conjunta._ <a id="a55_92"></a>[[LU 196:3.15](/es/The_Urantia_Book/196#p3_15)]
 
 
 ## Referencias

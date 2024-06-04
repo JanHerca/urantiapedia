@@ -46,7 +46,7 @@ _Hyderabad, India_
 
 ---
 
-> «_La verdadera religión es hacerse una idea de la realidad, el producto por la fe de la conciencia moral, y no un simple asentimiento intelectual a un conjunto cualquiera de doctrinas dogmáticas. La verdadera religión consiste en la experiencia de que «el Espíritu mismo da testimonio con nuestro espíritu de que somos hijos de Dios»._» ([LU 101:2.13](/es/The_Urantia_Book/101#p2_13))
+> «_La verdadera religión es hacerse una idea de la realidad, el producto por la fe de la conciencia moral, y no un simple asentimiento intelectual a un conjunto cualquiera de doctrinas dogmáticas. La verdadera religión consiste en la experiencia de que «el Espíritu mismo da testimonio con nuestro espíritu de que somos hijos de Dios»._» (<a id="a48_340"></a>[LU 101:2.13](/es/The_Urantia_Book/101#p2_13))
 
 
 

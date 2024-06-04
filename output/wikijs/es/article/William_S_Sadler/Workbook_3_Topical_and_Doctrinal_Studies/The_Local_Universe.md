@@ -24,12 +24,12 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-1. Urantia pertenece a un sistema que está bien afuera hacia los límites de vuestro universo local. [LU 15:1.6](/es/The_Urantia_Book/15#p1_6)
-2. Los universos locales evolutivos son la obra individual de los Hijos Creadores Paradisiacos. [LU 32:0.1](/es/The_Urantia_Book/32#p0_1)
-3. El Espíritu Materno del Universo es cocreador del universo local. [LU 14:6.30](/es/The_Urantia_Book/14#p6_30)
-4. La identificación de Urantia dentro del gran universo se da en [LU 15:14.5](/es/The_Urantia_Book/15#p14_5)
-5. La densidad de nuestro sol es alrededor de una vez y media la densidad del agua. [LU 41:4.1](/es/The_Urantia_Book/41#p4_1)
-6. Los mundos arquitectónicos disfrutan de diez formas de vida de la orden material—tres vegetales y tres animales—con cuatro grupos de difícil comprensión. [LU 43:6.4](/es/The_Urantia_Book/43#p6_4)
+1. Urantia pertenece a un sistema que está bien afuera hacia los límites de vuestro universo local. <a id="s26_100"></a>[LU 15:1.6](/es/The_Urantia_Book/15#p1_6)
+2. Los universos locales evolutivos son la obra individual de los Hijos Creadores Paradisiacos. <a id="s27_96"></a>[LU 32:0.1](/es/The_Urantia_Book/32#p0_1)
+3. El Espíritu Materno del Universo es cocreador del universo local. <a id="s28_69"></a>[LU 14:6.30](/es/The_Urantia_Book/14#p6_30)
+4. La identificación de Urantia dentro del gran universo se da en <a id="s29_66"></a>[LU 15:14.5](/es/The_Urantia_Book/15#p14_5)
+5. La densidad de nuestro sol es alrededor de una vez y media la densidad del agua. <a id="s30_84"></a>[LU 41:4.1](/es/The_Urantia_Book/41#p4_1)
+6. Los mundos arquitectónicos disfrutan de diez formas de vida de la orden material—tres vegetales y tres animales—con cuatro grupos de difícil comprensión. <a id="s31_157"></a>[LU 43:6.4](/es/The_Urantia_Book/43#p6_4)
 
 
 <br>

@@ -40,7 +40,7 @@ _El Libro de URANTIA_ nos dice:
 
 > «_Los inventos mecánicos y la difusión del conocimiento están modificando la civilización; ciertos ajustes económicos y cambios sociales son imperativos si se quiere evitar el desastre cultural. Este nuevo orden social que se avecina no se estabilizará con complacencia durante un milenio. La raza humana debe reconciliarse con una procesión de cambios, ajustes y reajustes. La humanidad está en marcha hacia un nuevo destino planetario no revelado._»
 > 
-> «_La religión debe convertirse en una influencia poderosa para la estabilidad moral y el progreso espiritual que funcione dinámicamente en medio de estas condiciones siempre cambiantes y ajustes económicos interminables._» ([LU 99:1.1](/es/The_Urantia_Book/99#p1_1))
+> «_La religión debe convertirse en una influencia poderosa para la estabilidad moral y el progreso espiritual que funcione dinámicamente en medio de estas condiciones siempre cambiantes y ajustes económicos interminables._» (<a id="a42_226"></a>[LU 99:1.1](/es/The_Urantia_Book/99#p1_1))
 
 [Leer más](/es/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service)
 
@@ -83,7 +83,7 @@ Gracias.
 ---
 
 
-> «_La prueba decisiva para cualquier filosofía religiosa consiste en saber si distingue o no entre las realidades del mundo material y las del mundo espiritual, reconociendo al mismo tiempo su unificación en el esfuerzo intelectual y el servicio social._» ([LU 101:7.5](/es/The_Urantia_Book/101#p7_5))
+> «_La prueba decisiva para cualquier filosofía religiosa consiste en saber si distingue o no entre las realidades del mundo material y las del mundo espiritual, reconociendo al mismo tiempo su unificación en el esfuerzo intelectual y el servicio social._» (<a id="a85_258"></a>[LU 101:7.5](/es/The_Urantia_Book/101#p7_5))
 
 
 

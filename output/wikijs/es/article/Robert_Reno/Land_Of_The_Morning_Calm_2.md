@@ -46,7 +46,7 @@ No creo que necesite citar _El Libro de URANTIA_ sobre lo que enseña como el de
 
 «Nuestras deliberaciones se centran en eso. el tema vital de la paz real y duradera y todo lo que ello significa. Estoy seguro de que la rica experiencia de las personas religiosas reunidas aquí conduciría a decisiones de gran alcance. Serían importantes no sólo para Asia sino para el mundo entero».
 
-«Nosotros, sin duda, pertenecemos a religiones diferentes. Al mismo tiempo, todos somos miembros de la gran familia de la humanidad. El tema de esta conferencia es “La religión en acción por la paz». Esto significa la traducción a la práctica de todos nuestros preceptos acordados. Semejante acción es más pertinente en esta era nuclear para salvar a la familia humana del desastre total. Todos estamos de acuerdo en este objetivo. Por lo tanto, debería ser fácil para nosotros unirnos en un esfuerzo común por la paz... Tengo grandes esperanzas de que llevemos a la humanidad un paso adelante en el camino hacia una vida pacífica y fructífera y una hermandad armoniosa”.
+«Nosotros, sin duda, pertenecemos a religiones diferentes. Al mismo tiempo, todos somos miembros de la gran familia de la humanidad. El tema de esta conferencia es «La religión en acción por la paz». Esto significa la traducción a la práctica de todos nuestros preceptos acordados. Semejante acción es más pertinente en esta era nuclear para salvar a la familia humana del desastre total. Todos estamos de acuerdo en este objetivo. Por lo tanto, debería ser fácil para nosotros unirnos en un esfuerzo común por la paz... Tengo grandes esperanzas de que llevemos a la humanidad un paso adelante en el camino hacia una vida pacífica y fructífera y una hermandad armoniosa».
 
 «Hoy el mundo se encuentra en un tipo de crisis que no había conocido antes. ¿No parece una extraña ironía del destino que nuestros mayores avances científicos hayan llevado a la humanidad hacia la destrucción total de todos sus valores; ¿moral, ético y espiritual?»
 
@@ -102,7 +102,7 @@ No puedo decirlo en términos más claros que decir que tenemos la responsabilid
 
 «...Os envío el Espíritu de la Verdad, que pronto será derramado sobre toda carne, y que os dotará de poder desde lo alto.»
 
-“... Ahora que él personalmente ha dejado el mundo, envía en su lugar su Espíritu de Verdad, que está diseñado para vivir en el hombre y, para cada nueva generación, reafirmar el mensaje de Jesús para que cada nuevo grupo de mortales «Aparezca sobre la faz de la tierra tendrá una versión nueva y actualizada del evangelio, tal iluminación personal y guía grupal que demostrará ser un solvente eficaz para las siempre actuales y variadas dificultades espirituales del hombre».
+«... Ahora que él personalmente ha dejado el mundo, envía en su lugar su Espíritu de Verdad, que está diseñado para vivir en el hombre y, para cada nueva generación, reafirmar el mensaje de Jesús para que cada nuevo grupo de mortales «Aparezca sobre la faz de la tierra tendrá una versión nueva y actualizada del evangelio, tal iluminación personal y guía grupal que demostrará ser un solvente eficaz para las siempre actuales y variadas dificultades espirituales del hombre».
 
 «... su espíritu, derramado sobre toda carne, es una poderosa influencia mundial que lleva al hombre hacia arriba y lo impulsa hacia adelante. El impulso espiritual hacia adelante es la fuerza impulsora más poderosa presente en este mundo; el creyente que aprende la verdad es la única alma progresista y agresiva en la tierra».
 

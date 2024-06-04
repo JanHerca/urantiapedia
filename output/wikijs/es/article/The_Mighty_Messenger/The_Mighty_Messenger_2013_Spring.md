@@ -217,7 +217,7 @@ Cuando llame, escuchará a Paula Thompson hablar, lo cual es muy agradable de es
 
 Por favor considere hacer esto en su área.
 
-Simplemente: vaya a www.craigslist.org, luego 'Fellowship” => «General» y luego en la esquina superior derecha verá «Publicar». Simplemente haga clic en eso y luego complete la línea de asunto (como sugerí aquí o cree su propia línea), luego complete el cuerpo de la cosa como un correo electrónico usando el número 800 y el texto anteriores. Puede iniciar una cuenta y no hay cargo ni grandes formularios para completar. Mantenga su anuncio actualizado mensualmente.
+Simplemente: vaya a www.craigslist.org, luego «Fellowship» => «General» y luego en la esquina superior derecha verá «Publicar». Simplemente haga clic en eso y luego complete la línea de asunto (como sugerí aquí o cree su propia línea), luego complete el cuerpo de la cosa como un correo electrónico usando el número 800 y el texto anteriores. Puede iniciar una cuenta y no hay cargo ni grandes formularios para completar. Mantenga su anuncio actualizado mensualmente.
 
 Aquí hay algunas otras ideas para poner frases ingeniosas en la 'línea de asunto' de Craigslist.org.
 - _El Libro de Urantia_: ¡Simplemente el libro más importante sobre nuestro mundo!

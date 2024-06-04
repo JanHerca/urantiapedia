@@ -130,7 +130,7 @@ Northern Light Society of Alaska celebra el cumpleaños de Jesús en la cabaña 
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005690.jpg">
 </figure>
 
-Heart of America Society of Kansas City patrocinó una cena de suerte y recuerdo el sábado 23/08/08. Para casi un tercio de los 27 que asistieron, fue la primera celebración del cumpleaños de Jesús a la que asistieron”.
+Heart of America Society of Kansas City patrocinó una cena de suerte y recuerdo el sábado 23/08/08. Para casi un tercio de los 27 que asistieron, fue la primera celebración del cumpleaños de Jesús a la que asistieron.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005691.jpg">

@@ -38,7 +38,7 @@ dateCreated: 2023-10-23T10:55:6Z
 _Stephen Zendt_
 _San Francisco, CA, editor_
 
-> «_Pero la verdadera oración alcanza de hecho la realidad. Incluso cuando las corrientes de aire son ascendentes, ningún pájaro puede elevarse a menos que extienda sus alas. La oración eleva al hombre porque es una técnica para progresar mediante la utilización de las corrientes espirituales ascendentes del universo._» (<a id="a16_323"></a>[LU 91:8.9](/es/The_Urantia_Book/91#p8_9))
+> «_Pero la verdadera oración alcanza de hecho la realidad. Incluso cuando las corrientes de aire son ascendentes, ningún pájaro puede elevarse a menos que extienda sus alas. La oración eleva al hombre porque es una técnica para progresar mediante la utilización de las corrientes espirituales ascendentes del universo._» (<a id="a40_323"></a>[LU 91:8.9](/es/The_Urantia_Book/91#p8_9))
 
 **Mis compañeros criaturas**
 
@@ -74,7 +74,7 @@ Ayúdanos a crear Hermandad.
 Esther Hoover Zendt y Stephen Zendt
 </p>
 
-> «_Jesús deploraba que se encontrara tan poco espíritu de acción de gracias en las oraciones y el culto de sus seguidores._» (<a id="a52_127"></a>[LU 146:2.15](/es/The_Urantia_Book/146#p2_15))
+> «_Jesús deploraba que se encontrara tan poco espíritu de acción de gracias en las oraciones y el culto de sus seguidores._» (<a id="a76_127"></a>[LU 146:2.15](/es/The_Urantia_Book/146#p2_15))
 
 ## Una oración de acción de gracias del grupo urantiano, anuncio de 1987
 

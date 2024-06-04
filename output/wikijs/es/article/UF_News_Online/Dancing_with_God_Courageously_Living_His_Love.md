@@ -39,7 +39,7 @@ Hagan las maletas. «¡Qué aventura! ¡Qué gesta!» <a id="a37_48"></a>[LU 112
 
 Con el anuncio del próximo de la serie de retiros de mujeres en la Fundación Urantia, el equipo de facilitadoras de las Hijas de Dios (Katharina Becker, Doreen Heyne, Carolyn Prentice y Line St-Pierre) las invita a pasar un fin de semana íntimo, vivencial y divertido.
 
-Durante nuestro próximo retiro, “Bailar con Dios: vivir su amor con valentía”, cocrearemos un entorno de confianza dentro de un círculo espiritual. Exploraremos y compartiremos juntas nuestros descubrimientos y nuestras experiencias de vivir con valentía el amor de Dios.
+Durante nuestro próximo retiro, «Bailar con Dios: vivir su amor con valentía», cocrearemos un entorno de confianza dentro de un círculo espiritual. Exploraremos y compartiremos juntas nuestros descubrimientos y nuestras experiencias de vivir con valentía el amor de Dios.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2018_03/052.jpg">

@@ -53,9 +53,9 @@ Si a Jesús le encantaba hacer pequeñas cosas por la gente, entonces segurament
 
 —_Michael Pintor_
 
-> «_El amor es la manifestación exterior del impulso de vida interior y divino. Está basado en la comprensión, alimentado por el servicio desinteresado y perfeccionado con la sabiduría._» ([LU 174:1.5](/es/The_Urantia_Book/174#p1_5))
+> «_El amor es la manifestación exterior del impulso de vida interior y divino. Está basado en la comprensión, alimentado por el servicio desinteresado y perfeccionado con la sabiduría._» (<a id="a55_189"></a>[LU 174:1.5](/es/The_Urantia_Book/174#p1_5))
 
-> «_...la fraternidad y el servicio son las piedras angulares del evangelio del reino...._» ([LU 178:1.4](/es/The_Urantia_Book/178#p1_4))
+> «_...la fraternidad y el servicio son las piedras angulares del evangelio del reino...._» (<a id="a57_93"></a>[LU 178:1.4](/es/The_Urantia_Book/178#p1_4))
 
 
 

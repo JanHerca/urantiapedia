@@ -26,33 +26,33 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Ultimata
 
-> *Las Etapas de la Gravedad (Energía).* La actividad de los organizadores de fuerza del Paraíso produce esta modificación en la carga de fuerza del espacio. Señala la aparición de los sistemas de energía que reaccionan a la atracción de la gravedad del Paraíso. Esta energía emergente es originalmente neutra, pero a consecuencia de metamorfosis ulteriores, manifestará las cualidades llamadas positivas y negativas. A estas etapas las denominamos *ultimata*. [LU 11:8.6](/es/The_Urantia_Book/11#p8_6)
+> *Las Etapas de la Gravedad (Energía).* La actividad de los organizadores de fuerza del Paraíso produce esta modificación en la carga de fuerza del espacio. Señala la aparición de los sistemas de energía que reaccionan a la atracción de la gravedad del Paraíso. Esta energía emergente es originalmente neutra, pero a consecuencia de metamorfosis ulteriores, manifestará las cualidades llamadas positivas y negativas. A estas etapas las denominamos *ultimata*. <a id="s28_461"></a>[LU 11:8.6](/es/The_Urantia_Book/11#p8_6)
 
-> Cuando la energía potente y la energía gravitatoria son consideradas colectivamente, en Uversa las llamamos ultimata. [LU 42:2.13](/es/The_Urantia_Book/42#p2_13)
+> Cuando la energía potente y la energía gravitatoria son consideradas colectivamente, en Uversa las llamamos ultimata. <a id="s30_120"></a>[LU 42:2.13](/es/The_Urantia_Book/42#p2_13)
 
 ## Uniones de los Días
 
-> Los Uniones de los Días —los asesores paradisiacos de los gobernantes de los universos locales. [LU 15:10.16](/es/The_Urantia_Book/15#p10_16)
+> Los Uniones de los Días —los asesores paradisiacos de los gobernantes de los universos locales. <a id="s34_98"></a>[LU 15:10.16](/es/The_Urantia_Book/15#p10_16)
 
 ## Universo local
 
-> *El universo local.* Cien constelaciones (unos 10.000.000 de planetas habitables) constituyen un universo local. Cada universo local tiene un magnífico mundo sede arquitectónico y está gobernado por uno de los Hijos de Dios Creadores coordinados de la orden de los Migueles. Cada universo está bendecido por la presencia de un Unión de los Días, el representante de la Trinidad del Paraíso. [LU 15:2.5](/es/The_Urantia_Book/15#p2_5)
+> *El universo local.* Cien constelaciones (unos 10.000.000 de planetas habitables) constituyen un universo local. Cada universo local tiene un magnífico mundo sede arquitectónico y está gobernado por uno de los Hijos de Dios Creadores coordinados de la orden de los Migueles. Cada universo está bendecido por la presencia de un Unión de los Días, el representante de la Trinidad del Paraíso. <a id="s38_393"></a>[LU 15:2.5](/es/The_Urantia_Book/15#p2_5)
 
 ## Universo de Universos
 
-> El universo de universos es un inmenso mecanismo integrado que está absolutamente controlado por una sola mente infinita. [LU 56:0.1](/es/The_Urantia_Book/56#p0_1)
+> El universo de universos es un inmenso mecanismo integrado que está absolutamente controlado por una sola mente infinita. <a id="s42_124"></a>[LU 56:0.1](/es/The_Urantia_Book/56#p0_1)
 
 ## Univitatia
 
-> Los univitatias son los ciudadanos permanentes de Edentia y de sus mundos asociados, y los setecientos setenta mundos que rodean la sede de la constelación se encuentran bajo su supervisión. Estos hijos del Hijo Creador y del Espíritu Creativo son proyectados en un plano de existencia intermedio entre lo material y lo espiritual, pero no son criaturas morontiales. [LU 43:7.1](/es/The_Urantia_Book/43#p7_1)
+> Los univitatias son los ciudadanos permanentes de Edentia y de sus mundos asociados, y los setecientos setenta mundos que rodean la sede de la constelación se encuentran bajo su supervisión. Estos hijos del Hijo Creador y del Espíritu Creativo son proyectados en un plano de existencia intermedio entre lo material y lo espiritual, pero no son criaturas morontiales. <a id="s46_369"></a>[LU 43:7.1](/es/The_Urantia_Book/43#p7_1)
 
 ## Urantia
 
-> Urantia —éste es el nombre de vuestro mundo— [LU 0:0.1](/es/The_Urantia_Book/0#p0_1)
+> Urantia —éste es el nombre de vuestro mundo— <a id="s50_47"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1)
 
 ## Utopía, evolutiva
 
-> Esta época de los Hijos Instructores es el vestíbulo de la era planetaria final —de la utopía evolutiva— la era de luz y de vida. [LU 49:5.27](/es/The_Urantia_Book/49#p5_27)
+> Esta época de los Hijos Instructores es el vestíbulo de la era planetaria final —de la utopía evolutiva— la era de luz y de vida. <a id="s54_132"></a>[LU 49:5.27](/es/The_Urantia_Book/49#p5_27)
 
 
 <br>

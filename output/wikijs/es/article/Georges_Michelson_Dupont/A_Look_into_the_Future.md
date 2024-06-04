@@ -53,7 +53,7 @@ Necesitamos combinar las probabilidades estadísticas respecto a la posible evol
 
 Retendremos para nuestro estudio la hipótesis media empleada por los analistas de las Naciones Unidas.
 
-Con el desarrollo del comercio, los viajes, la ciencia y los intercambios de estudiantes, el inglés se está convirtiendo en el “idioma común” en las relaciones internacionales, y muchos países han adoptado el inglés como segundo idioma oficial o administrativo.
+Con el desarrollo del comercio, los viajes, la ciencia y los intercambios de estudiantes, el inglés se está convirtiendo en el «idioma común» en las relaciones internacionales, y muchos países han adoptado el inglés como segundo idioma oficial o administrativo.
 
 Sin embargo, no debemos suponer que alguien que ha aprendido el inglés como segundo idioma lo habla con la fluidez suficiente como para comprender las ideas o los matices que se encuentran en _El libro de Urantia_.
 
@@ -66,9 +66,9 @@ En esta presentación supondremos que las personas seguirán hablando su lengua 
 <figcaption><em>Número de países en los que se habla esta lengua<br>Fuentes: Ethnologue: Languages of the World, decimoctava edición THE WASHINGTON POST</em></figcaption>
 </figure>
 
-En lo que respecta a la situación actual, el diagrama de título “De los 7.200 millones de habitantes de la Tierra…” (en la página anterior) muestra que el chino es el idioma más hablado.
+En lo que respecta a la situación actual, el diagrama de título «De los 7.200 millones de habitantes de la Tierra…» (en la página anterior) muestra que el chino es el idioma más hablado.
 
-El diagrama titulado “Número de países en los que se habla este idioma” muestra que el inglés se habla en la mayoría de países. Este hecho, combinado con las proyecciones de crecimiento de la población y el hecho de que el inglés se está convirtiendo en el idioma adoptado mundialmente como idioma común para hablantes nativos de otro idioma, tiene un profundo efecto en las proyecciones de los idiomas en 2100.
+El diagrama titulado «Número de países en los que se habla este idioma» muestra que el inglés se habla en la mayoría de países. Este hecho, combinado con las proyecciones de crecimiento de la población y el hecho de que el inglés se está convirtiendo en el idioma adoptado mundialmente como idioma común para hablantes nativos de otro idioma, tiene un profundo efecto en las proyecciones de los idiomas en 2100.
 
 ## ¿Cuál es la situación de los idiomas en el futuro?
 

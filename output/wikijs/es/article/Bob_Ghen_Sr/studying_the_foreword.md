@@ -44,13 +44,13 @@ Sin comprender prácticamente nada de muchos de los verdaderos significados de l
 
 Desafortunadamente, a menudo llenamos estos huecos con nuestras conjeturas, que sabemos que siempre falsean su objeto.
 
-Así, nuestros esfuerzos sinceros por captar las enseñanzas de _El libro de Urantia_ se contaminan con nuestras conjeturas como resultado de la propensión inherente de la mente a conectar todos los puntos, a “dar sentido” a todo. Por otro lado, ¿cuántas veces han subrayado, como he hecho yo, una frase o párrafo incomprensible con “tengo que volver aquí”, eligiendo simplemente dejar el hueco como está? Cuando no captamos claramente los términos clave, ¿cómo vamos a seguir el verdadero significado de  párrafos enteros donde aparecen estos términos?
+Así, nuestros esfuerzos sinceros por captar las enseñanzas de _El libro de Urantia_ se contaminan con nuestras conjeturas como resultado de la propensión inherente de la mente a conectar todos los puntos, a «dar sentido» a todo. Por otro lado, ¿cuántas veces han subrayado, como he hecho yo, una frase o párrafo incomprensible con «tengo que volver aquí», eligiendo simplemente dejar el hueco como está? Cuando no captamos claramente los términos clave, ¿cómo vamos a seguir el verdadero significado de  párrafos enteros donde aparecen estos términos?
 
 ## Lo primero es lo primero
 
 El jefe de los Consejeros Divinos (una personalidad con origen en el Paraíso) compuso el Prólogo. La sabiduría divina dictó que se colocara antes del primer documento de _El libro de Urantia_. Parece que haríamos bien en seguir las intenciones obvias de los reveladores.
 
-Al proporcionarnos esto, al “explicar los significados que deberán atribuirse a ciertos símbolos verbales que se van a utilizar más adelante en estos documentos, que el cuerpo de reveladores de la verdad, de Orvonton, ha sido autorizado a traducir al idioma inglés de Urantia”, los reveladores son muy claros. Vamos a usar los significados proporcionados en el Prólogo para aclarar el estudio de los verdaderos significados de los documentos que hay a continuación. De esta manera, la comprensión mayor e integrada de los documentos fluirá en los canales intelectuales previstos por los reveladores de la verdad. Aumenta la comprensión de significados nuevos y verdaderos, pero hay que empezar por algún sitio. Debemos obtener una ventaja válida sobre estos conceptos densos para iniciar y facilitar una comprensión personal coherente con las intenciones de los reveladores.
+Al proporcionarnos esto, al «explicar los significados que deberán atribuirse a ciertos símbolos verbales que se van a utilizar más adelante en estos documentos, que el cuerpo de reveladores de la verdad, de Orvonton, ha sido autorizado a traducir al idioma inglés de Urantia», los reveladores son muy claros. Vamos a usar los significados proporcionados en el Prólogo para aclarar el estudio de los verdaderos significados de los documentos que hay a continuación. De esta manera, la comprensión mayor e integrada de los documentos fluirá en los canales intelectuales previstos por los reveladores de la verdad. Aumenta la comprensión de significados nuevos y verdaderos, pero hay que empezar por algún sitio. Debemos obtener una ventaja válida sobre estos conceptos densos para iniciar y facilitar una comprensión personal coherente con las intenciones de los reveladores.
 
 ## Descubrimiento
 
@@ -58,9 +58,9 @@ Mi ventaja personal se presentó cuando me encontré una serie de cintas viejas 
 
 Finalmente, había alguien que al parecer sí comprendía el Prólogo y era capaz de hablar con él en términos que podía manejar, un punto de partida válido e intelectual. Finalmente, pude embarcarme en la búsqueda progresiva de captar algunos de los conceptos más difíciles y complejos (humanamente hablando) que se han revelado jamás al hombre mortal. No olviden que nuestra búsqueda sincera de la verdad, de significados más altos, siempre queda aumentada divinamente por nuestro compañero interior. Cuando abordamos por primera vez significados ilustrados en los rincones más altos del pensamiento, podemos depender de los que fomentan nuestro crecimiento para ampliar nuestros esfuerzos por comprender.
 
-## Aclarar lo que significa “comprensión”
+## Aclarar lo que significa «comprensión»
 
-En este contexto, y para nuestra discusión, destacaremos una distinción importante entre “entendimiento” y “comprensión”.
+En este contexto, y para nuestra discusión, destacaremos una distinción importante entre «entendimiento» y «comprensión».
 
 ### _Definiciones del diccionario:_
 
@@ -74,17 +74,17 @@ Para nuestros fines, esta palabra representa un aumento del alma, el sistema de 
 
 De hecho, los reveladores nos animan a hacer todos los esfuerzos posibles por comprender. Ofrezco aquí algunas citas relevantes:
 
-> _La **comprensión** progresiva de la realidad equivale a acercarse a Dios_. <a id="a75_91"></a>[[LU 196:3.3](/es/The_Urantia_Book/196#p3_3)] (negrita añadida)
+> _La **comprensión** progresiva de la realidad equivale a acercarse a Dios_. <a id="a76_78"></a>[[LU 196:3.3](/es/The_Urantia_Book/196#p3_3)] (negrita añadida)
 > 
-> _El espíritu divino no se pone en contacto con el hombre mortal por medio de los sentimientos o las emociones, sino **en el ámbito de los pensamientos más elevados y más espiritualizados**. Son vuestros pensamientos, y no vuestros sentimientos, los que os conducen hacia Dios_. <a id="a77_218"></a>[[LU 101:1.3](/es/The_Urantia_Book/101#p1_3)] (negrita añadida)
+> _El espíritu divino no se pone en contacto con el hombre mortal por medio de los sentimientos o las emociones, sino **en el ámbito de los pensamientos más elevados y más espiritualizados**. Son vuestros pensamientos, y no vuestros sentimientos, los que os conducen hacia Dios_. <a id="a78_280"></a>[[LU 101:1.3](/es/The_Urantia_Book/101#p1_3)] (negrita añadida)
 > 
-> _Estos círculos psíquicos de progresión mortal quizás deberían denominarse mejor niveles cósmicos — unos niveles donde **se captan realmente los significados** y se comprenden los valores_… <a id="a79_156"></a>[[LU 110:6.16](/es/The_Urantia_Book/110#p6_16)] (negrita añadida)
+> _Estos círculos psíquicos de progresión mortal quizás deberían denominarse mejor niveles cósmicos — unos niveles donde **se captan realmente los significados** y se comprenden los valores_… <a id="a80_192"></a>[[LU 110:6.16](/es/The_Urantia_Book/110#p6_16)] (negrita añadida)
 > 
-> _Al hombre le es útil conseguir, para su orientación cósmica, la máxima **comprensión** posible de la relación de la Deidad con el cosmos_. <a id="a81_126"></a>[[LU 118:1.1](/es/The_Urantia_Book/118#p1_1)] (negrita añadida)
+> _Al hombre le es útil conseguir, para su orientación cósmica, la máxima **comprensión** posible de la relación de la Deidad con el cosmos_. <a id="a82_142"></a>[[LU 118:1.1](/es/The_Urantia_Book/118#p1_1)] (negrita añadida)
 > 
-> _No es suficiente con que los mortales ascendentes conozcan algo sobre las relaciones de la Deidad con la génesis y las manifestaciones de la realidad cósmica; también deberían **comprender** algo acerca de las relaciones que existen entre ellos mismos y los numerosos niveles de realidades existenciales y experienciales, de realidades potenciales y actuales. La orientación del hombre en la Tierra, su perspicacia cósmica y la dirección de su conducta espiritual se vuelven más elevadas gracias a una mejor **comprensión** de las realidades del universo y de sus técnicas de interasociación, integración y unificación_. <a id="a83_570"></a>[[LU 106:0.1](/es/The_Urantia_Book/106#p0_1)] (negrita añadida)
+> _No es suficiente con que los mortales ascendentes conozcan algo sobre las relaciones de la Deidad con la génesis y las manifestaciones de la realidad cósmica; también deberían **comprender** algo acerca de las relaciones que existen entre ellos mismos y los numerosos niveles de realidades existenciales y experienciales, de realidades potenciales y actuales. La orientación del hombre en la Tierra, su perspicacia cósmica y la dirección de su conducta espiritual se vuelven más elevadas gracias a una mejor **comprensión** de las realidades del universo y de sus técnicas de interasociación, integración y unificación_. <a id="a84_624"></a>[[LU 106:0.1](/es/The_Urantia_Book/106#p0_1)] (negrita añadida)
 > 
-> _La capacidad de **comprender** es el pasaporte de los mortales para el Paraíso_. <a id="a85_70"></a>[[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)] (negrita añadida)
+> _La capacidad de **comprender** es el pasaporte de los mortales para el Paraíso_. <a id="a86_84"></a>[[LU 26:4.15](/es/The_Urantia_Book/26#p4_15)] (negrita añadida)
 
 ## Nuevos e inspiradores horizontes revelados
 

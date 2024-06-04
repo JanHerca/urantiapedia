@@ -18,9 +18,9 @@ Ocurrió que cuando Juan estuvo encarcelado envió mensajeros a Jesús para preg
 >
 > «Vuelve y dile a Juan que no está olvidado. Cuéntale lo que has visto y oído, que a los pobres se les predica la buena nueva».
 
-Y el Nuevo Testamento da testimonio de que «la gente común lo escuchó con alegría». [Mc 12:37](/es/Bible/Marcos/12#v37)
+Y el Nuevo Testamento da testimonio de que «la gente común lo escuchó con alegría». [Mc 12:37](/es/Bible/Mark/12#v37)
 
-Es cierto que cerca del final de la obra de su vida, mientras los teólogos continuaban rechazando sus enseñanzas, muchos líderes entre los judíos aceptaron el mensaje del evangelio, al ver que muchos miembros del Sanedrín se unieron al Reino. (Ver Documentos <a id="s22_235"></a>[175:4.3](/es/The_Urantia_Book/175#p4_3), <a id="s22_277"></a>[156:6.7](/es/The_Urantia_Book/156#p6_7), <a id="s22_319"></a>[164:2.1](/es/The_Urantia_Book/164#p2_1), <a id="s22_361"></a>[ 162:1.5](/es/The_Urantia_Book/162#p1_5), <a id="s22_403"></a>[188:1.2](/es/The_Urantia_Book/188#p1_2).)
+Es cierto que cerca del final de la obra de su vida, mientras los teólogos continuaban rechazando sus enseñanzas, muchos líderes entre los judíos aceptaron el mensaje del evangelio, al ver que muchos miembros del Sanedrín se unieron al Reino. (Ver Documentos <a id="s22_259"></a>[175:4.3](/es/The_Urantia_Book/175#p4_3), <a id="s22_301"></a>[156:6.7](/es/The_Urantia_Book/156#p6_7), <a id="s22_343"></a>[164:2.1](/es/The_Urantia_Book/164#p2_1), <a id="s22_385"></a>[ 162:1.5](/es/The_Urantia_Book/162#p1_5), <a id="s22_428"></a>[188:1.2](/es/The_Urantia_Book/188#p1_2).)
 
 El orgullo espiritual y la lealtad eclesiástica siempre han dificultado que los principales sacerdotes y los teólogos de primer nivel acepten nuevas verdades y reconozcan los nuevos movimientos religiosos.
 
@@ -62,39 +62,39 @@ El libro no enseña ascetismo. No respalda las ideas de Pablo sobre el sexo y el
 
 El libro no reconoce ninguna de las salvajes y confusas supersticiones orientales abrazadas en las especulaciones gnósticas.
 
-No hay nada sombrío ni fantástico en el Jesús de los Documentos de Urantia. Su pasado, presente y futuro, su naturaleza y su estatus en el universo, se describen en líneas generales claras y sus enseñanzas se presentan con certeza de autenticidad. En _El Libro de Urantia_, la salvación no se logra mediante el conocimiento sino mediante la fe. Deja que el libro hable por sí mismo, <a id="s64_333"></a>[Documento 26:4.14](/es/The_Urantia_Book/26#p4_14):
+No hay nada sombrío ni fantástico en el Jesús de los Documentos de Urantia. Su pasado, presente y futuro, su naturaleza y su estatus en el universo, se describen en líneas generales claras y sus enseñanzas se presentan con certeza de autenticidad. En _El Libro de Urantia_, la salvación no se logra mediante el conocimiento sino mediante la fe. Deja que el libro hable por sí mismo, <a id="s64_383"></a>[Documento 26:4.14](/es/The_Urantia_Book/26#p4_14):
 
 > «La fe ha conquistado para el peregrino ascendente una perfección de propósito que deja entrar a los hijos del tiempo por las puertas de la eternidad».
 
-_El Libro de Urantia_, <a id="s68_20"></a>[170:5.13](/es/The_Urantia_Book/170#p5_13):
+_El Libro de Urantia_, <a id="s68_23"></a>[170:5.13](/es/The_Urantia_Book/170#p5_13):
 
 > Jesús «enseñó que el alma que ama la verdad, el alma que tiene hambre y sed de rectitud, de Dios, es admitida por la fe en el reino espiritual».
 
-_El Libro de Urantia_, <a id="s72_20"></a>[4:4.9](/es/The_Urantia_Book/4#p4_9):
+_El Libro de Urantia_, <a id="s72_23"></a>[4:4.9](/es/The_Urantia_Book/4#p4_9):
 
 > «La conciencia de llevar una vida humana victoriosa en la Tierra nace de esa fe de la criatura que, cuando se enfrenta con el terrible espectáculo de las limitaciones humanas, se atreve a desafiar cada episodio recurrente de la existencia, declarando infaliblemente: Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará, una parte del Absoluto-Padre del universo de universos. Ésta es «la victoria que triunfa sobre el mundo, vuestra fe misma».».
 
-_El Libro de Urantia_, <a id="s76_20"></a>[140:8.28](/es/The_Urantia_Book/140#p8_28):
+_El Libro de Urantia_, <a id="s76_23"></a>[140:8.28](/es/The_Urantia_Book/140#p8_28):
 
 > «El derecho a entrar en el reino está condicionado por la fe, por la creencia personal».
 
-_El Libro de Urantia_, <a id="s80_20"></a>[139:12.7](/es/The_Urantia_Book/139#p12_7):
+_El Libro de Urantia_, <a id="s80_23"></a>[139:12.7](/es/The_Urantia_Book/139#p12_7):
 
 > «La puerta de la vida eterna está abierta de par en par para todos; «todo el que quiera puede venir»; no hay restricciones ni limitaciones, salvo la fe del que viene.»
 
-_El Libro de Urantia_, <a id="s84_20"></a>[155:6.17](/es/The_Urantia_Book/155#p6_17):
+_El Libro de Urantia_, <a id="s84_23"></a>[155:6.17](/es/The_Urantia_Book/155#p6_17):
 
 > «Y ahora, no os equivoquéis, mi Padre responderá siempre a la más tenue llama vacilante de fe... Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu.»
 
-_El Libro de Urantia_, <a id="s88_20"></a>[144:2.6](/es/The_Urantia_Book/144#p2_6):
+_El Libro de Urantia_, <a id="s88_23"></a>[144:2.6](/es/The_Urantia_Book/144#p2_6):
 
 > «Pero cuando oráis, empleáis tan poca fe. Una fe auténtica desplazará las montañas de dificultades materiales que puedan encontrarse en el sendero de la expansión del alma y del progreso espiritual»..
 
-_El Libro de Urantia_, <a id="s92_20"></a>[150:5.3](/es/The_Urantia_Book/150#p5_3):
+_El Libro de Urantia_, <a id="s92_23"></a>[150:5.3](/es/The_Urantia_Book/150#p5_3):
 
 > «Su aceptación, por la fe, os convierte en partícipes de la naturaleza divina, en hijos o hijas de Dios. Por la fe, estáis justificadas; por la fe, sois salvadas; y por esta misma fe, avanzaréis eternamente en el camino de la perfección progresiva y divina.»
 
-_El Libro de Urantia_, <a id="s96_20"></a>[102:0.2-3](/es/The_Urantia_Book/102#p0_2):
+_El Libro de Urantia_, <a id="s96_23"></a>[102:0.2-3](/es/The_Urantia_Book/102#p0_2):
 
 > «Toda esta condena a las tinieblas y todo este destino de desesperación se disipan para siempre mediante un valiente despliegue de fe por parte del hijo de Dios más humilde e inculto que viva en la Tierra».
 >
@@ -108,13 +108,13 @@ La cosmología de _El Libro de Urantia_ no sólo es única y original, sino que 
 
 Y ahora sobre la afirmación de que la cosmología de Urantia es mecánica. Deja que el libro hable por sí solo.
 
-Sí, tenemos mecanismos energéticos maravillosos en el universo, pero son mecanismos vivos. Ver los documentos <a id="s110_100"></a>[29:3.12](/es/The_Urantia_Book/29#p3_12), <a id="s110_142"></a>[29:4.38](/es /The_Urantia_Book/29#p4_38), <a id="s110_184"></a>[29:5.5](/es/The_Urantia_Book/29#p5_5). <a id="s110_224"></a>[42:11.1-2](/es/El_Libro_Urantia/42#p11_1):
+Sí, tenemos mecanismos energéticos maravillosos en el universo, pero son mecanismos vivos. Ver los documentos <a id="s110_110"></a>[29:3.12](/es/The_Urantia_Book/29#p3_12), [29:4.38](/es /The_Urantia_Book/29#p4_38), <a id="s110_195"></a>[29:5.5](/es/The_Urantia_Book/29#p5_5). [42:11.1-2](/es/El_Libro_Urantia/42#p11_1):
 
 > «En la valoración y el reconocimiento de la mente, se debe recordar que el universo no es ni mecánico ni mágico; es una creación de la mente y un mecanismo con leyes. En la práctica, las leyes de la naturaleza funcionan en los reinos aparentemente dobles de lo físico y de lo espiritual, pero en realidad estos reinos son uno solo. La Fuente-Centro Primera es la causa original de todas las materializaciones, y es al mismo tiempo el Padre primero y final de todos los espíritus. En los universos exteriores a Havona, el Padre Paradisiaco sólo aparece personalmente como energía pura y como puro espíritu —bajo la forma de los Ajustadores del Pensamiento y otras fragmentaciones similares».
 >
 > «Los mecanismos no dominan de manera absoluta toda la creación; el universo de universos *en su totalidad* está planeado por la mente, construido por la mente y administrado por la mente. Pero el mecanismo divino del universo de universos es demasiado perfecto como para que los métodos científicos de la mente finita del hombre puedan discernir siquiera una huella de la dominación de la mente infinita. Pues esta mente creadora, controladora y sostenedora no es ni una mente material ni la mente de una criatura; es una mente espiritual que ejerce su actividad en, y desde, los niveles creadores de la realidad divina.»
 
-_El Libro de Urantia_, <a id="s116_20"></a>[42:11.3,7-8](/es/The_Urantia_Book/42#p11_3):
+_El Libro de Urantia_, <a id="s116_23"></a>[42:11.3,7-8](/es/The_Urantia_Book/42#p11_3):
 
 > «La capacidad para discernir y descubrir la mente en los mecanismos del universo depende enteramente de la aptitud, el alcance y la capacidad de la mente investigadora dedicada a esa tarea de observación. Las mentes espacio-temporales, organizadas con las energías del tiempo y del espacio, están sometidas a los mecanismos del tiempo y del espacio.»
 >
@@ -122,13 +122,13 @@ _El Libro de Urantia_, <a id="s116_20"></a>[42:11.3,7-8](/es/The_Urantia_Book/42
 >
 > «Cuanto más elevada sea la mente universal asociada a cualquier fenómeno del universo, a los tipos inferiores de mente más difícil les resultará descubrirla. Puesto que la mente del mecanismo del universo es una mente-espíritu creativa (la mente misma del Infinito), nunca puede ser descubierta ni discernida por las mentes de los niveles inferiores del universo, y mucho menos por la mente *más humilde* de todas, la mente humana. Aunque la mente animal evolutiva busca a Dios de manera natural, a solas y por sí misma no conoce inherentemente a Dios».
 
-_El Libro de Urantia_, <a id="s124_20"></a>[42:12.14](/es/The_Urantia_Book/42#p12_14):
+_El Libro de Urantia_, <a id="s124_23"></a>[42:12.14](/es/The_Urantia_Book/42#p12_14):
 
 > «El espíritu es la realidad creadora; la contrapartida física es el reflejo espacio-temporal de la realidad espiritual, la repercusión física de la acción creadora de la mente-espíritu.»
 >
 > «La mente domina universalmente a la materia, al igual que es sensible a su vez al supercontrol último del espíritu. Y en el hombre mortal, sólo la mente que se somete libremente a la dirección del espíritu puede esperar sobrevivir a la existencia mortal espacio-temporal como un hijo inmortal del mundo espiritual eterno del Supremo, del Último y del Absoluto: del Infinito.»
 
-_El Libro de Urantia_, <a id="s130_20"></a>[118:9.4-7](/es/The_Urantia_Book/118#p9_4):
+_El Libro de Urantia_, <a id="s130_23"></a>[118:9.4-7](/es/The_Urantia_Book/118#p9_4):
 
 > «El gran universo es un mecanismo así como un organismo, mecánico y viviente —un mecanismo viviente activado por una Mente Suprema, que se coordina con un Espíritu Supremo, y que encuentra su expresión en los máximos niveles de unificación del poder con la personalidad bajo la forma de Ser Supremo».
 >
@@ -138,23 +138,23 @@ _El Libro de Urantia_, <a id="s130_20"></a>[118:9.4-7](/es/The_Urantia_Book/118#
 >
 > «Comprendemos un poco la manera en que el mecanismo del Paraíso está correlacionado con la personalidad del Hijo Eterno; ésta es la función del Actor Conjunto. ... Pero observamos que, en las Deidades evolutivas del Supremo y del Último, ciertas fases impersonales se están uniendo realmente con sus contrapartidas volitivas, y se está desarrollando así una nueva relación entre el arquetipo y la persona».
 
-_El Libro de Urantia_, <a id="s140_20"></a>[118:10.6](/es/The_Urantia_Book/118#p10_6):
+_El Libro de Urantia_, <a id="s140_23"></a>[118:10.6](/es/The_Urantia_Book/118#p10_6):
 
 > «Sin embargo el Padre, como persona, puede interponer en cualquier momento una mano paternal en la corriente de los acontecimientos cósmicos de acuerdo totalmente con la voluntad de Dios, en consonancia con la sabiduría de Dios, y motivada por el amor de Dios.»
 
-_El Libro de Urantia_, <a id="s144_20"></a>[195:6.13-14](/es/The_Urantia_Book/195#p6_13):
+_El Libro de Urantia_, <a id="s144_23"></a>[195:6.13-14](/es/The_Urantia_Book/195#p6_13):
 
 > «Si los hombres sólo fueran unas máquinas, reaccionarían de manera más o menos uniforme a un universo material. No existiría la individualidad, y mucho menos la personalidad.»
 >
 > «El hecho del mecanismo absoluto del Paraíso en el centro del universo de universos, en presencia de la volición incondicionada de la Fuente-Centro Segunda, asegura para siempre que los determinantes no son la ley exclusiva del cosmos. El materialismo está ahí, pero no es exclusivo; el mecanismo está ahí, pero no es incondicionado; el determinismo está ahí, pero no está solo.»
 
-_El Libro de Urantia_, <a id="s150_20"></a>[195:6.15](/es/The_Urantia_Book/195#p6_15):
+_El Libro de Urantia_, <a id="s150_23"></a>[195:6.15](/es/The_Urantia_Book/195#p6_15):
 
 > «La influencia de la mente cósmica inyecta constantemente espontaneidad incluso en los mundos materiales».
 >
 > «La contradicción del mecanicista moderno es la siguiente: Si este universo fuera simplemente material y el hombre sólo fuera una máquina, ese hombre sería enteramente incapaz de reconocerse como tal máquina; además, un hombre-máquina así sería totalmente inconsciente del hecho de que existe dicho universo material. El desaliento y la desesperación materialista de una ciencia mecanicista no han logrado reconocer el hecho de que la mente del científico está habitada por el espíritu, aunque la perspicacia supermaterial del científico es precisamente la que formula estos *conceptos* erróneos y contradictorios en sí mismos de un universo materialista.»
 
-_El Libro de Urantia_, <a id="s156_20"></a>[195:7.6,11-13](/es/The_Urantia_Book/195#p7_6):
+_El Libro de Urantia_, <a id="s156_23"></a>[195:7.6,11-13](/es/The_Urantia_Book/195#p7_6):
 
 > «Si este universo sólo fuera material, el hombre material nunca sería capaz de llegar al concepto del carácter mecanicista de una existencia tan exclusivamente material. Este mismo *concepto mecanicista* del universo es, en sí mismo, un fenómeno no material de la mente, y toda mente es de origen no material, por mucho que pueda dar la impresión de estar condicionada materialmente y controlada mecánicamente».
 >
@@ -164,11 +164,11 @@ _El Libro de Urantia_, <a id="s156_20"></a>[195:7.6,11-13](/es/The_Urantia_Book/
 >
 > «Si el hombre sólo es una máquina, ¿qué técnica utiliza para llegar a *creer* o a pretender *saber* que sólo es una máquina? La experiencia de evaluarse conscientemente a sí mismo nunca es atributo de una simple máquina. Un mecanicista declarado y consciente de sí mismo es la mejor respuesta posible al mecanismo. Si el materialismo fuera un hecho, no podría existir ningún mecanicista consciente de sí mismo. También es cierto que primero hay que ser una persona moral antes de poder realizar actos inmorales.»
 
-_El Libro de Urantia_, <a id="s166_20"></a>[195:7.17](/es/The_Urantia_Book/195#p7_17):
+_El Libro de Urantia_, <a id="s166_23"></a>[195:7.17](/es/The_Urantia_Book/195#p7_17):
 
 > «¡Cuán insensato es suponer que un autómata pueda concebir una filosofía del automatismo, y cuán ridículo es creer que podría formarse un concepto así de otros compañeros autómatas!»
 
-> «El universo no se parece a las leyes, los mecanismos y las constantes que descubre el científico, y que llega a considerar como ciencia, sino que se parece más bien al *científico* curioso que piensa, escoge, crea, combina y discrimina, que observa así los fenómenos del universo y clasifica los hechos matemáticos inherentes a las fases mecanicistas del aspecto material de la creación. El universo tampoco se parece al arte del artista, sino más bien al *artista* que se esfuerza, sueña, aspira, progresa e intenta trascender el mundo de las cosas materiales, en un esfuerzo por alcanzar una meta espiritual.» [LU 195:7.22](/es/The_Urantia_Book/195#p7_22)
+> «El universo no se parece a las leyes, los mecanismos y las constantes que descubre el científico, y que llega a considerar como ciencia, sino que se parece más bien al *científico* curioso que piensa, escoge, crea, combina y discrimina, que observa así los fenómenos del universo y clasifica los hechos matemáticos inherentes a las fases mecanicistas del aspecto material de la creación. El universo tampoco se parece al arte del artista, sino más bien al *artista* que se esfuerza, sueña, aspira, progresa e intenta trascender el mundo de las cosas materiales, en un esfuerzo por alcanzar una meta espiritual.» <a id="s170_615"></a>[LU 195:7.22](/es/The_Urantia_Book/195#p7_22)
 
 Y así nuestro crítico clerical no sólo no pudo imaginar el magnífico cosmos de _El Libro de Urantia_, sino que leyó el texto tan superficialmente que pensó que presentaba un cosmos mecánico. ¡Cuán equivocado puede estar incluso un teólogo erudito cuando su mente no está abierta a la recepción de la nueva verdad!
 
@@ -194,7 +194,7 @@ Un ministro, con título de doctor, me dijo recientemente:
 
 Los autores de los libros de la Biblia son conocidos. El libro en sí cuenta cómo surgieron los _Documentos de Urantia_. La razón que se nos dio para no revelar la identidad del sujeto empleado en esta transacción fue: No queremos que las generaciones futuras se preocupen por la adoración de San Pedro o San Pablo, Lutero, Calvino o Wesley. No queremos que ningún individuo sea exaltado por los _Documentos de Urantia_. El libro debe basarse en su propia naturaleza y obra.
 
-Todos tendemos a reverenciar a nuestros líderes religiosos. Recuerde cómo los edenitas querían postrarse y adorar a Adán y Eva. Hablando del gobernador general residente, en <a id="s194_163"></a>[114:3.1](/es/The_Urantia_Book/114#p3_1) de _El Libro de Urantia_, dice:
+Todos tendemos a reverenciar a nuestros líderes religiosos. Recuerde cómo los edenitas querían postrarse y adorar a Adán y Eva. Hablando del gobernador general residente, en <a id="s196_174"></a>[114:3.1](/es/The_Urantia_Book/114#p3_1) de _El Libro de Urantia_, dice:
 
 > «No os indicamos el nombre del supervisor planetario actual porque el hombre mortal es muy propenso a venerar, e incluso a deificar, a sus compatriotas extraordinarios y a sus superiores superhumanos.»
 
@@ -224,31 +224,31 @@ En primer lugar, está el trasfondo y el contexto cósmico de todo pecado, tal c
 
 Ahora en cuanto al pecado como experiencia personal:
 
-_El Libro de Urantia_, <a id="s224_20"></a>[3:5.15](/es/The_Urantia_Book/3#p5_15):
+_El Libro de Urantia_, <a id="s226_23"></a>[3:5.15](/es/The_Urantia_Book/3#p5_15):
 
 > « La posibilidad de un juicio erróneo (el mal) sólo se vuelve pecado cuando la voluntad humana acepta conscientemente y abraza deliberadamente un juicio inmoral premeditado.»
 
-_El Libro de Urantia_, <a id="s228_20"></a>[54:0.2](/es/The_Urantia_Book/54#p0_2):
+_El Libro de Urantia_, <a id="s230_23"></a>[54:0.2](/es/The_Urantia_Book/54#p0_2):
 
 > «El pecado es potencial en todos los reinos donde los seres imperfectos están dotados de la capacidad de elegir entre el bien y el mal.» Es cierto que el Libro de Urantia rechaza todo el concepto del pecado original.
 
 Jesús reconoció que el «pecado» era según el propio entendimiento de cada uno. Dijó el:
 
-> “Antes de que yo viniera no tenías pecado, pero ahora no tenéis excusa”. [Jn 15:22](/es/Bible/John/15#v22).
+> «Antes de que yo viniera no tenías pecado, pero ahora no tenéis excusa». [Jn 15:22](/es/Bible/John/15#v22).
 
-Lee nuevamente un documento <a id="s236_20"></a>[67:1.4](/es/The_Urantia_Book/67#p1_4):
+Lee nuevamente un documento <a id="s238_28"></a>[67:1.4](/es/The_Urantia_Book/67#p1_4):
 
 > «Pero el pecado es una resistencia intencional a la realidad divina —una elección consciente de oponerse al progreso espiritual— mientras que la iniquidad consiste en desafiar de manera abierta y persistente la realidad reconocida, y representa tal grado de desintegración de la personalidad que raya en la locura cósmica».
 
-_El Libro de Urantia_, <a id="s240_20"></a>[2:6.8](/es/The_Urantia_Book/2#p6_8):
+_El Libro de Urantia_, <a id="s242_23"></a>[2:6.8](/es/The_Urantia_Book/2#p6_8):
 
 > «El amor de Dios salva al pecador; la ley de Dios destruye el pecado».
 
-_El Libro de Urantia_, <a id="s244_20"></a>[89:10.3](/es/The_Urantia_Book/89#p10_3):
+_El Libro de Urantia_, <a id="s246_23"></a>[89:10.3](/es/The_Urantia_Book/89#p10_3):
 
 > «El sentido o sentimiento de culpa es la conciencia de haber violado las costumbres; no es necesariamente un pecado. No existe pecado real en ausencia de una deslealtad consciente hacia la Deidad.».
 
-_El Libro de Urantia_, <a id="s248_20"></a>[188:4.5](/es/The_Urantia_Book/188#p4_5):
+_El Libro de Urantia_, <a id="s250_23"></a>[188:4.5](/es/The_Urantia_Book/188#p4_5):
 
 > «El pecado es un acto de rebelión consciente y deliberada contra la voluntad del Padre y las leyes de los Hijos, cometido por una criatura volitiva individual.»
 
@@ -256,22 +256,22 @@ En cuanto al plan de salvación, las enseñanzas de El Libro de Urantia son clar
 
 > «En verdad veo que Dios no hace parcialidades, sino que en cada nación todo el que le teme y hace lo correcto es aceptable para él.» [Hch 10:34,35](/es/Bible/Hechos_de_los_Apostles/10#v34).
 
-El plan de salvar a los mortales es parte del propósito eterno de Dios. (<a id="s256_69"></a>[32:5.8](/es/El_Libro_Urantia/32#p5_8)):
+El plan de salvar a los mortales es parte del propósito eterno de Dios. ([32:5.8](/es/El_Libro_Urantia/32#p5_8)):
 
 > «¡La meta de la eternidad está hacia adelante! ¡La aventura para alcanzar la divinidad se extiende delante de vosotros! ¡La carrera hacia la perfección está en marcha! Quienquiera que lo desee puede participar, y una victoria segura coronará los esfuerzos de todo ser humano que corra la carrera de la fe y de la confianza, dependiendo a cada paso del camino de las directrices del Ajustador interior y de la guía de ese buen espíritu del Hijo del Universo que ha sido derramado tan generosamente sobre toda carne».
 
 El plan de salvación se presenta en _El Libro de Urantia_ como:
 
-- El Plan de Logro de la Perfección. Páginas <a id="s262_43"></a>[4:0.3](/es/The_Urantia_Book/4#p0_3), <a id="s262_81"></a>[7:4.1](/es/The_Urantia_Book/7#p4_1), <a id="s262_119"></a>[56:9.10](/es/The_Urantia_Book/56#p9_10).
-- El Plan de Otorgamiento. Páginas <a id="s263_27"></a>[7:4.5](/es/The_Urantia_Book/7#p4_5), <a id="s263_65"></a>[40:10.14](/es/The_Urantia_Book/40#p10_14).
-- El Plan de Ministerio de la Misericordia. Páginas <a id="s264_36"></a>[7:4.6](/es/The_Urantia_Book/7#p4_6), <a id="s264_74"></a>[8:4.7](/es/The_Urantia_Book/8#p4_7).
-- El Plan de Salvamento. Páginas <a id="s265_26"></a>[2:5.2](/es/The_Urantia_Book/2#p5_2), <a id="s265_64"></a>[7:4.7](/es/The_Urantia_Book/7#p4_7).
+- El Plan de Logro de la Perfección. Páginas <a id="s264_45"></a>[4:0.3](/es/The_Urantia_Book/4#p0_3), <a id="s264_83"></a>[7:4.1](/es/The_Urantia_Book/7#p4_1), <a id="s264_121"></a>[56:9.10](/es/The_Urantia_Book/56#p9_10).
+- El Plan de Otorgamiento. Páginas <a id="s265_35"></a>[7:4.5](/es/The_Urantia_Book/7#p4_5), <a id="s265_73"></a>[40:10.14](/es/The_Urantia_Book/40#p10_14).
+- El Plan de Ministerio de la Misericordia. Páginas <a id="s266_52"></a>[7:4.6](/es/The_Urantia_Book/7#p4_6), <a id="s266_90"></a>[8:4.7](/es/The_Urantia_Book/8#p4_7).
+- El Plan de Salvamento. Páginas <a id="s267_33"></a>[2:5.2](/es/The_Urantia_Book/2#p5_2), <a id="s267_71"></a>[7:4.7](/es/The_Urantia_Book/7#p4_7).
 
-Respecto a la ascensión al paraíso, lea en <a id="s267_43"></a>[34:7.8](/es/The_Urantia_Book/34#p7_8):
+Respecto a la ascensión al paraíso, lea en <a id="s269_43"></a>[34:7.8](/es/The_Urantia_Book/34#p7_8):
 
 > «Después de emprender el camino de la vida eterna, después de aceptar vuestra tarea y de recibir vuestras órdenes para progresar, no temáis los peligros de la falta de memoria de los hombres ni la inconstancia de los mortales, no os inquietéis por el miedo al fracaso o por las confusiones que causan perplejidad, no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino».
 
-Lee en el documento <a id="s271_14"></a>[108:6.8](/es/The_Urantia_Book/108#p6_8):
+Lee en el documento <a id="s273_20"></a>[108:6.8](/es/The_Urantia_Book/108#p6_8):
 
 > Vosotros, los humanos, habéis empezado el despliegue interminable de un panorama casi infinito, una expansión ilimitada en unas esferas de oportunidades sin fin en constante aumento, donde llevar a cabo un servicio estimulante, aventuras incomparables, incertidumbres sublimes y logros sin límites. Cuando las nubes se acumulan sobre vuestras cabezas, vuestra fe debería aceptar el hecho de la presencia del Ajustador interior, y así deberíais ser capaces de mirar más allá de las brumas de las incertidumbres mortales, hacia el claro resplandor del sol de la rectitud eterna que ilumina las alturas atrayentes de los mundos de las mansiones de Satania.
 
@@ -365,7 +365,7 @@ NOTA: La técnica de recepción de _El Libro de Urantia_ en inglés de ninguna m
 
 ### 11. Crítica: La expiación ha desaparecido en _El Libro de Urantia_. También lo ha hecho el Dios majestuoso y celoso que castiga a su pueblo cuando se prostituye tras otros dioses.
 
-Ésta es una crítica válida. En _El Libro de Urantia_ la expiación ha desaparecido. Lee en <a id="s365_85"></a>[2:6.5](/es/The_Urantia_Book/2#p6_5):
+Ésta es una crítica válida. En _El Libro de Urantia_ la expiación ha desaparecido. Lee en <a id="s367_90"></a>[2:6.5](/es/The_Urantia_Book/2#p6_5):
 
 > «La rectitud implica que Dios es la fuente de la ley moral del universo. La verdad muestra a Dios como revelador, como instructor. Pero el amor da afecto y lo desea ardientemente, busca una comunión comprensiva tal como la que existe entre padres e hijos. La rectitud puede ser el pensamiento divino, pero el amor es la actitud de un padre. La suposición errónea de que la rectitud de Dios era incompatible con el amor desinteresado del Padre celestial presuponía una falta de unidad en la naturaleza de la Deidad, y condujo directamente a la elaboración de la doctrina de la expiación, que es un ataque filosófico tanto a la unidad como al libre albedrío de Dios».
 
@@ -383,7 +383,7 @@ _El Libro de Urantia_, aunque presenta muchos conceptos nuevos, dedicó mucha at
 
 Recuerde, el propósito de _El Libro de Urantia_ no es iniciar una nueva iglesia. El libro condena las religiones sectarias. El libro es un regalo para todas las religiones, incluido el cristianismo.
 
-La misión del libro está bien contada en <a id="s383_40"></a>[196:1.2](/es/The_Urantia_Book/196#p1_2):
+La misión del libro está bien contada en <a id="s385_41"></a>[196:1.2](/es/The_Urantia_Book/196#p1_2):
 
 > «Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. ¿Temen los cristianos declarados que se ponga al descubierto a una hermandad autosuficiente y no consagrada, que tiene respetabilidad social y una inadaptación económica egoísta? ¿Teme el cristianismo institucional que la autoridad eclesiástica tradicional esté posiblemente en peligro, o incluso sea derrocada, si el Jesús de Galilea es reinstalado en la mente y el alma de los hombres mortales como el ideal de la vida religiosa personal? En verdad, los reajustes sociales, las transformaciones económicas, los rejuvenecimientos morales y las revisiones religiosas de la civilización cristiana serían drásticas y revolucionarias si la religión viviente de Jesús sustituyera repentinamente a la religión teológica acerca de Jesús.»
 
@@ -393,7 +393,7 @@ La enseñanza de Urantia amplía enormemente la misión de Jesús en este mundo.
 
 En la religión de Jesús, el Hijo otorgante de Dios se convierte en el verdadero centro del evangelio del reino. La religión acerca de Jesús puede dar un lugar importante a Pedro en Pentecostés, a Pablo y sus epístolas y a los primeros padres de la iglesia. Pero en la versión Urantia del evangelio del reino, Jesús de Nazaret —el Hijo de Dios y el Hijo del Hombre— está siempre en el centro de las buenas nuevas sobre la paternidad de Dios y la hermandad del hombre.
 
-_El Libro de Urantia_ reconoce la supremacía de Cristo en todo lo religioso, cuando valida sus numerosos títulos en <a id="s393_116"></a>[182:1.9](/es/The_Urantia_Book/182#p1_9):
+_El Libro de Urantia_ reconoce la supremacía de Cristo en todo lo religioso, cuando valida sus numerosos títulos en <a id="s395_116"></a>[182:1.9](/es/The_Urantia_Book/182#p1_9):
 - Yo soy el pan de la vida.
 - Yo soy el agua viva.
 - Yo soy la luz del mundo.
@@ -413,7 +413,7 @@ _El Libro de Urantia_ reconoce la supremacía de Cristo en todo lo religioso, cu
 
 ### 14. Crítica: En lo que respecta a la ciencia, este libro está anticuado. Presenta una muy buena imagen de la forma en que veíamos el cosmos hace muchos años.
 
-En general, creo que ésta es una crítica válida al _Libro de Urantia_. Permítanme leer _El Libro de Urantia_, <a id="s413_108"></a>[101:4.1-2](/es/The_Urantia_Book/101#p4_1).
+En general, creo que ésta es una crítica válida al _Libro de Urantia_. Permítanme leer _El Libro de Urantia_, <a id="s415_110"></a>[101:4.1-2](/es/The_Urantia_Book/101#p4_1).
 
 > «Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología. Esto siempre ha causado problemas para el futuro. Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo. Por consiguiente, los estudiosos futuros de esa revelación se sienten tentados a desechar cualquier elemento de verdad religiosa auténtica que pueda contener, porque descubren errores a primera vista en las cosmologías asociadas que se presentan en ella».
 >
@@ -502,11 +502,11 @@ En respuesta a esta crítica, presento 74 conceptos y doctrinas que son nuevos y
 1. **[El Hijo Eterno del Paraíso](/es/The_Urantia_Book/6):** Por primera vez en los registros humanos claramente designado e identificado personalmente.
 2. **[El Actor Conjunto único](/es/The_Urantia_Book/8):** El concepto de la Tercera Persona de la Deidad es único y original en los Documentos de Urantia.
 3. **[La Trinidad del Paraíso](/es/The_Urantia_Book/10):** En _El Libro de Urantia_ la Trinidad del Paraíso encuentra su única identificación y reconocimiento actual.
-4. **<a id="s502_5"></a>[La Residencia Geográfica Central de la Deidad](/es/The_Urantia_Book/0#p0_5):** Por primera vez el mundo sabe exactamente dónde vive Dios.
+4. **<a id="s504_5"></a>[La Residencia Geográfica Central de la Deidad](/es/The_Urantia_Book/0#p0_5):** Por primera vez el mundo sabe exactamente dónde vive Dios.
 5. **[La Isla del Paraíso absoluta](/es/The_Urantia_Book/11):** El concepto original del Paraíso como lo absoluto de la realidad no deitaria.
 6. **[Múltiples Hijos Creadores](/es/The_Urantia_Book/21):** Reconocimiento de más de 700.000 Hijos Creadores Paradisíacos.
 7. **Concepto de los Absolutos:** El concepto de los Absolutos Incalificados, Universales y de la Deidad es original del Libro de Urantia.
-8. **Doctrina de la Deidad Evolutiva:** Si bien vi un indicio de la Deidad finita en uno de los libros de Pratt sobre el momento de la aparición de los Documentos de Urantia, estoy seguro de que los conceptos de la <a id="s506_192" ></a>[Ser Supremo](/es/The_Urantia_Book/0#p2_15) y <a id="s506_242"></a>[Dios Supremo](/es/The_Urantia_Book/0#p2_17) son originales.
+8. **Doctrina de la Deidad Evolutiva:** Si bien vi un indicio de la Deidad finita en uno de los libros de Pratt sobre el momento de la aparición de los Documentos de Urantia, estoy seguro de que los conceptos de la <a id="s506_192" ></a><a id="s508_237"></a>[Ser Supremo](/es/The_Urantia_Book/0#p2_15) y <a id="s508_283"></a>[Dios Supremo](/es/The_Urantia_Book/0#p2_17) son originales.
 9. **[Concepto de las Triunidades](/es/The_Urantia_Book/104):** Las Triunidades son un concepto original de Urantia.
 10. **[Universo de Havona y sus nativos](/es/The_Urantia_Book/14):** La imagen de los mil millones de mundos de Havona y sus habitantes es un concepto totalmente nuevo y original.
 11. **El Concepto de Espacio:** A pesar de la teoría de un «cosmos en explosión», el concepto de espacio de _El Libro de Urantia_ es nuevo y original.
@@ -517,25 +517,25 @@ En respuesta a esta crítica, presento 74 conceptos y doctrinas que son nuevos y
 16. **[Los Siete Espíritus Rectores](/es/The_Urantia_Book/16):** Si bien la Biblia hace mención de siete Espíritus de Dios, es sólo en _El Libro de Urantia_ donde se identifican estos Espíritus y se describe plenamente su trabajo.
 17. **La vasta familia del Actor Conjunto:** La vasta y extendida familia del Espíritu Infinito: los supernafines, seconafines y Mensajeros Solitarios son apenas presagiados brevemente por la narración bíblica de los serafines y querubines.
 18. **Los Circuitos Universales:** Los circuitos de gravedad, personalidad, espíritu y mente son enseñanzas originales de _El Libro de Urantia_.
-19. **<a id="s517_6"></a>[Reflectividad Universal - Majeston](/es/The_Urantia_Book/17#p2_1):** La sorprendente historia de la reflectividad universal es una presentación totalmente nueva y original de la Revelación Urantia.
-20. **<a id="s518_6"></a>[Directores de Poder](/es/The_Urantia_Book/29#p5_1):** Todo el concepto de control inteligente y intencionado de la energía cósmica es original de _El Libro de Urantia_ .
+19. **<a id="s519_6"></a>[Reflectividad Universal - Majeston](/es/The_Urantia_Book/17#p2_1):** La sorprendente historia de la reflectividad universal es una presentación totalmente nueva y original de la Revelación Urantia.
+20. **<a id="s520_6"></a>[Directores de Poder](/es/The_Urantia_Book/29#p5_1):** Todo el concepto de control inteligente y intencionado de la energía cósmica es original de _El Libro de Urantia_ .
 21. **Evolución de la energía - Materia:** Si bien algunas fases de la historia de Urantia sobre la evolución de la energía pueden haber sido presagiadas por descubrimientos científicos, el concepto en su conjunto es nuevo tal como se presenta en los _Documentos de Urantia_.
-22. **<a id="s520_6"></a>[El Ultimatón](/es/The_Urantia_Book/42#p6_1):** En el momento de la sugerencia del Ultimatón en los _Documentos de Urantia_, nunca había He oído hablar de tal concepto en la literatura científica. Durante los últimos cinco o seis años, he notado varios indicios diferentes de la posible existencia de algún factor físico análogo al concepto de ultimáton.
-23. **<a id="s521_6"></a>[Origen del Sistema Solar](/es/The_Urantia_Book/57#p5_1):** Si bien la narrativa de Urantia sobre el origen del sistema solar incluye algunas características De la teoría de Moulton-Chamberlain, toda la historia es tan completa y única que la convierte prácticamente en una presentación original.
-24. **<a id="s522_6"></a>[Los Mundos Arquitectónicos](/es/The_Urantia_Book/15#p5_13):** Mundos hechos bajo pedido de especificaciones es original de _El Libro de Urantia_.
+22. **<a id="s522_6"></a>[El Ultimatón](/es/The_Urantia_Book/42#p6_1):** En el momento de la sugerencia del Ultimatón en los _Documentos de Urantia_, nunca había He oído hablar de tal concepto en la literatura científica. Durante los últimos cinco o seis años, he notado varios indicios diferentes de la posible existencia de algún factor físico análogo al concepto de ultimáton.
+23. **<a id="s523_6"></a>[Origen del Sistema Solar](/es/The_Urantia_Book/57#p5_1):** Si bien la narrativa de Urantia sobre el origen del sistema solar incluye algunas características De la teoría de Moulton-Chamberlain, toda la historia es tan completa y única que la convierte prácticamente en una presentación original.
+24. **<a id="s524_6"></a>[Los Mundos Arquitectónicos](/es/The_Urantia_Book/15#p5_13):** Mundos hechos bajo pedido de especificaciones es original de _El Libro de Urantia_.
 25. **Administración del Universo:** Desde el mundo habitado hasta la gestión del gran universo, el esquema administrativo de _El Libro de Urantia_ es completamente nuevo.
 26. **[Los Portadores de Vida](/es/The_Urantia_Book/36):** Nunca se ha sugerido a la humanidad nada parecido al concepto de Portadores de Vida en toda la historia pasada.
 27. **[Origen de la raza humana](/es/The_Urantia_Book/63):** Si bien la historia de Urantia sobre el origen de la raza humana valida la doctrina de la evolución, sin embargo, presenta una narrativa tan detallada y única como para constituyen una presentación casi original de los orígenes humanos.
 28. **[Origen de las razas de color](/es/The_Urantia_Book/64):** La historia de Urantia sobre el origen de las razas Sangik es la única narrativa de este tipo que existe.
 29. **[Fuente y naturaleza de la personalidad](/es/The_Urantia_Book/112):** Si bien _El Libro de Urantia_, como la ciencia, no logra definir la personalidad, sí designa su origen y retrata gratificantemente su magnífico destino.
 30. **[El Concepto de los Ajustadores del Pensamiento](/es/The_Urantia_Book/107):** Si bien la Biblia habla de la «luz verdadera que ilumina a todo hombre que viene a este mundo», la historia de los Ajustadores del Pensamiento tal como se revela en los _Documentos de Urantia_ son tan completos y únicos que constituyen una historia nueva y original.
-31. **<a id="s529_6"></a>[Evolución del Alma](/es/The_Urantia_Book/0#p5_10):** El concepto del origen, naturaleza y evolución del alma es original con _El Libro de Urantia_.
-32. **<a id="s530_6"></a>[Identificación del Espíritu Santo](/es/The_Urantia_Book/8#p5_3):** Señalando al Espíritu Santo como la presencia del Espíritu Madre del Universo Local es totalmente nuevo y original en los Documentos de Urantia.
-33. **<a id="s531_6"></a>[Los Siete Espíritus Ayudantes](/es/The_Urantia_Book/36#p5_1):** Si bien la Biblia hace mención de siete espíritus y en Isaías los identifica parcialmente, La narrativa de Urantia es tan completa y única que la convierte en una presentación original.
+31. **<a id="s531_6"></a>[Evolución del Alma](/es/The_Urantia_Book/0#p5_10):** El concepto del origen, naturaleza y evolución del alma es original con _El Libro de Urantia_.
+32. **<a id="s532_6"></a>[Identificación del Espíritu Santo](/es/The_Urantia_Book/8#p5_3):** Señalando al Espíritu Santo como la presencia del Espíritu Madre del Universo Local es totalmente nuevo y original en los Documentos de Urantia.
+33. **<a id="s533_6"></a>[Los Siete Espíritus Ayudantes](/es/The_Urantia_Book/36#p5_1):** Si bien la Biblia hace mención de siete espíritus y en Isaías los identifica parcialmente, La narrativa de Urantia es tan completa y única que la convierte en una presentación original.
 34. **[Hijos del Universo Local de Dios](/es/The_Urantia_Book/35):** Toda la historia de los Hijos del Universo Local es nueva y original.
-35. **<a id="s533_6"></a>[El Plan de Ascensión—Sé perfecto](/es/The_Urantia_Book/30#p4_9):** Mientras Jesús proponía el mandato «Sé perfecto», etc. ., el desarrollo del plan de ascensión al Paraíso en El Libro de Urantia es un concepto casi nuevo y original.
+35. **<a id="s535_6"></a>[El Plan de Ascensión—Sé perfecto](/es/The_Urantia_Book/30#p4_9):** Mientras Jesús proponía el mandato «Sé perfecto», etc. ., el desarrollo del plan de ascensión al Paraíso en El Libro de Urantia es un concepto casi nuevo y original.
 36. **[Los Siete Mundos Mansión](/es/The_Urantia_Book/47):** Si bien el Maestro aludió a los «mundos mansión», la historia repleta de su naturaleza y provincia es nueva y original.
-37. **<a id="s535_6"></a>[El Concepto Morontial](/es/The_Urantia_Book/0#p5_12):** Todo el concepto morontial—la etapa entre lo material y lo espiritual es nuevo y original.
+37. **<a id="s537_6"></a>[El Concepto Morontial](/es/The_Urantia_Book/0#p5_12):** Todo el concepto morontial—la etapa entre lo material y lo espiritual es nuevo y original.
 38. **[Artesanos Celestiales y Directores de Reversión](/es/The_Urantia_Book/44):** Ambos conceptos son nuevos en _El Libro de Urantia_. El concepto de juego celestial y humor espiritual es casi nuevo.
 39. **Concepto de ciudadanía permanente:** Esto es totalmente original de _El Libro de Urantia_.
 40. **[Los Intermedios de Urantia](/es/The_Urantia_Book/77):** Si bien el Antiguo Testamento sí se refiere a los «Nefilim», la cita es tan indefinida como para constituir la historia de Urantia de los intermedios como una historia nueva y original.
@@ -548,27 +548,27 @@ En respuesta a esta crítica, presento 74 conceptos y doctrinas que son nuevos y
 47. **Una historia unificada de Urantia:** En ningún otro lugar del mundo se puede encontrar una historia coherente y unificada de nuestro mundo. Por primera vez tenemos una cronología de los asuntos humanos.
 48. **Enfermedades:** El Libro presenta una explicación nueva y original de las enfermedades microbianas.
 49. **Antigravedad:** Todo el concepto de antigravedad es único y original en los _Documentos de Urantia_. Sólo durante el último año algún científico ha promulgado una teoría de la antigravedad.
-50. **<a id="s548_6"></a>[Cumpleaños de Jesús](/es/The_Urantia_Book/122#p8_1):** Por primera vez durante la era cristiana, conocemos el verdadero cumpleaños de Jesús —21 de agosto del año 7 a.C.
+50. **<a id="s550_6"></a>[Cumpleaños de Jesús](/es/The_Urantia_Book/122#p8_1):** Por primera vez durante la era cristiana, conocemos el verdadero cumpleaños de Jesús —21 de agosto del año 7 a.C.
 51. **Planeta experimental:** El hecho de que Urantia fuera un planeta decimal: que los Portadores de Vida tenían permiso para intentar nuevas características de la evolución biológica. Esta es una información no conocida hasta ahora en el planeta.
 52. **[La evolución de la religión](/es/The_Urantia_Book/99):** Si bien se puede leer mucho sobre la evolución de la religión en Urantia, la sencilla historia que se cuenta en los Documentos de Urantia es única y original.
 53. **[La razón única para el otorgamiento de Jesús](/es/The_Urantia_Book/119):** _El Libro de Urantia_ presenta una razón nueva, única y original para la vida y muerte de Jesús en nuestro mundo.
 54. **[Una historia cronológica de la vida de Jesús](https://www.urantia.org/urantia-book-standardized/part-iv-life-and-teachings-jesus):** El Libro presenta la única Historia completa de la vida de Jesús en este mundo.
 55. **[Identificación de los Doce Apóstoles](/es/The_Urantia_Book/139):** La historia de Urantia es la primera vez que se aclara la confusión de los 12 Apóstoles.
-56. **<a id="s554_6"></a>[La Historia Única de María](/es/The_Urantia_Book/122#p1_1):** La historia de María, la madre de Jesús, es única y original .
-57. **<a id="s555_6"></a>[El Agua y el Vino](/es/The_Urantia_Book/137#p4_1):** Hasta donde yo sé, _El Libro de Urantia_ presenta una explicación original de este supuesto milagro.
+56. **<a id="s556_6"></a>[La Historia Única de María](/es/The_Urantia_Book/122#p1_1):** La historia de María, la madre de Jesús, es única y original .
+57. **<a id="s557_6"></a>[El Agua y el Vino](/es/The_Urantia_Book/137#p4_1):** Hasta donde yo sé, _El Libro de Urantia_ presenta una explicación original de este supuesto milagro.
 58. **Explicación de milagros no deseados:** El Libro presenta una posible explicación de numerosos milagros no deseados.
 59. **La actitud de Jesús hacia el arte y el atletismo:** La actitud del Maestro hacia el arte y el atletismo no se revela en ningún otro lugar.
-60. **<a id="s558_6"></a>[El Sermón del Monte](/es/The_Urantia_Book/140#p3_1):** Por supuesto, no estoy familiarizado con toda la literatura sobre el Sermón de la Montaña. Pero hasta donde yo sé, la interpretación de este discurso en El Libro de Urantia es nueva y original.
-61. **<a id="s559_6"></a>[El cuerpo de Mujeres Evangelistas](/es/The_Urantia_Book/150#p1_1):** Esta historia es nueva, a pesar de la breve mención de este asunto en el nuevo Testamento.
+60. **<a id="s560_6"></a>[El Sermón del Monte](/es/The_Urantia_Book/140#p3_1):** Por supuesto, no estoy familiarizado con toda la literatura sobre el Sermón de la Montaña. Pero hasta donde yo sé, la interpretación de este discurso en El Libro de Urantia es nueva y original.
+61. **<a id="s561_6"></a>[El cuerpo de Mujeres Evangelistas](/es/The_Urantia_Book/150#p1_1):** Esta historia es nueva, a pesar de la breve mención de este asunto en el nuevo Testamento.
 62. **[Rodán de Alejandría](/es/The_Urantia_Book/160):** Toda esta historia es original de _El Libro de Urantia_.
 63. **La historia de Abner:** La historia única de la cabeza de los apóstoles de Juan el Bautista es original de los Documentos de Urantia.
-64. **<a id="s562_6"></a>[Cuerpo de Mensajeros de David Zebedeo](/es/The_Urantia_Book/149#p0_4):** Esta historia completa se encuentra exclusivamente en _El Libro de Urantia_
-65. **<a id="s563_6"></a>[Las «Llaves del Reino.»](/es/The_Urantia_Book/39#p4_14)** La explicación del significado de las «llaves del reino» » es nuevo y original tal como se encuentra en _El Libro de Urantia_.
+64. **<a id="s564_6"></a>[Cuerpo de Mensajeros de David Zebedeo](/es/The_Urantia_Book/149#p0_4):** Esta historia completa se encuentra exclusivamente en _El Libro de Urantia_
+65. **<a id="s565_6"></a>[Las «Llaves del Reino.»](/es/The_Urantia_Book/39#p4_14)** La explicación del significado de las «llaves del reino» » es nuevo y original tal como se encuentra en _El Libro de Urantia_.
 66. **[Aclaración del Concepto del Reino.](/es/The_Urantia_Book/170)** Se aclara el concepto del Reino. La religión de Jesús y la religión sobre Jesús están completamente diferenciadas.
-67. **<a id="s565_6"></a>[Aclaración de la Segunda Venida.](/es/The_Urantia_Book/176#p2_1)** La aclaración de [Mt 24](/es/Bible/Matthew /24) y la segunda venida de Cristo es completa y original.
+67. **<a id="s567_6"></a>[Aclaración de la Segunda Venida.](/es/The_Urantia_Book/176#p2_1)** La aclaración de [Mt 24](/es/Bible/Matthew /24) y la segunda venida de Cristo es completa y original.
 68. **[Nuevo Concepto de la Cena del Señor.](/es/The_Urantia_Book/179)** El significado de la Cena del Señor es nuevo y original.
 69. **[Aclaración de la Crucifixión.](/es/The_Urantia_Book/187)** Si bien hay mucho en el Nuevo Testamento sobre la crucifixión, la historia de Urantia es completa y en muchas fases totalmente original.
-70. **<a id="s568_6"></a>[Naturaleza de la Resurrección.](/es/The_Urantia_Book/189#p2_6)**
+70. **<a id="s570_6"></a>[Naturaleza de la Resurrección.](/es/The_Urantia_Book/189#p2_6)**
 71. **[La Experiencia Morontial de Jesús](/es/The_Urantia_Book/190)**. La historia completa y completa de la experiencia morontial entre la resurrección y la ascensión se encuentra únicamente en Los Documentos de Urantia.
 72. **[El Nuevo Cuadro de Pentecostés.](/es/The_Urantia_Book/194)** El cuadro Urantia de Pentecostés está tan ampliado que constituye un nuevo retrato de la venida del Espíritu de la Verdad.
 73. **[La fe de Jesús.](/es/The_Urantia_Book/196)** El capítulo final de El libro de Urantia presenta un nuevo concepto de creer _con_ Jesús en lugar de creer _en_ ​​él.

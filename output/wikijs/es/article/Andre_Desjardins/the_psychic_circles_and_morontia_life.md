@@ -41,15 +41,15 @@ dateCreated: 2023-9-16T10:55:6Z
 
 Un arcángel de Nebadon menciona:
 
-> Debéis comprender que la vida en la morontia de un mortal ascendente empieza realmente en los mundos habitados con la concepción del alma, en el momento en que la mente de criatura con estatus moral es habitada por el Ajustador de espíritu. <a id="a42_234"></a>[[LU 48:6.2](/es/The_Urantia_Book/48#p6_2)]
+> Debéis comprender que la vida en la morontia de un mortal ascendente empieza realmente en los mundos habitados con la concepción del alma, en el momento en que la mente de criatura con estatus moral es habitada por el Ajustador de espíritu. <a id="a43_243"></a>[[LU 48:6.2](/es/The_Urantia_Book/48#p6_2)]
 
 Esta cita indica que la vida morontial comienza en nuestro planeta con la formación del alma a través de una elección moral sincera, lo que anuncia la llegada del Ajustador del Pensamiento que mora en el interior. La formación conjunta del alma de morontia con el Ajustador proporciona acceso a las realidades de morontia, y es posible que una personalidad humana conozca y experimente el sabor de la vida en la morontia durante su vida terrenal con la absoluta convicción de formar parte de esta gran familia morontial.
 
-_El libro de Urantia_ nos da alguna información sobre las actividades de las escuelas de educación y formación en los mundos de la morontia en los documentos 47 y 48. Estos documentos nos dan la oportunidad de estudiar y unirnos a estas escuelas de la morontia durante la vida terrenal. El hombre tiene el poder de trascender el tiempo y el espacio y vivir como si estuviera en contacto directo con el Padre celestial a través de su vasto circuito de personalidad y de la presencia del Ajustador del Pensamiento que mora en el interior. _«La capacidad del hombre de trascenderse a sí mismo es la única cosa que lo distingue del reino animal»_ <a id="a46_559"></a>[[LU 111:6.9](/es/The_Urantia_Book/111#p6_9)].
+_El libro de Urantia_ nos da alguna información sobre las actividades de las escuelas de educación y formación en los mundos de la morontia en los documentos 47 y 48. Estos documentos nos dan la oportunidad de estudiar y unirnos a estas escuelas de la morontia durante la vida terrenal. El hombre tiene el poder de trascender el tiempo y el espacio y vivir como si estuviera en contacto directo con el Padre celestial a través de su vasto circuito de personalidad y de la presencia del Ajustador del Pensamiento que mora en el interior. _«La capacidad del hombre de trascenderse a sí mismo es la única cosa que lo distingue del reino animal»_ <a id="a47_643"></a>[[LU 111:6.9](/es/The_Urantia_Book/111#p6_9)].
 
 La naturaleza de morontia del alma implica necesariamente los primeros pasos en la vida en la morontia, y su evolución permite a las personalidades humanas acceder a las realidades de la morontia guiadas por el Ajustador que mora en el interior y asistidas por otras influencias mentales y espirituales. Todas estas influencias son esenciales para guiar a las personalidades en la evolución de su alma de morontia a través de los círculos psíquicos. El séptimo círculo psíquico anuncia el comienzo de la evolución morontial para las personalidades y:
 
-> Esto supone la función unida de los siete espíritus-mente adjutores bajo la dirección del espíritu de sabiduría, el encircuitamiento de la criatura mortal en la influencia del Espíritu Santo y, en Urantia, la primera actuación del Espíritu de la Verdad unida a la recepción de un Ajustador del Pensamiento por parte de la mente del mortal. La entrada en el séptimo círculo convierte a la criatura mortal en un verdadero ciudadano potencial del universo local. <a id="a50_440"></a>[[LU 110:6.13](/es/The_Urantia_Book/110#p6_13)]
+> Esto supone la función unida de los siete espíritus-mente adjutores bajo la dirección del espíritu de sabiduría, el encircuitamiento de la criatura mortal en la influencia del Espíritu Santo y, en Urantia, la primera actuación del Espíritu de la Verdad unida a la recepción de un Ajustador del Pensamiento por parte de la mente del mortal. La entrada en el séptimo círculo convierte a la criatura mortal en un verdadero ciudadano potencial del universo local. <a id="a51_462"></a>[[LU 110:6.13](/es/The_Urantia_Book/110#p6_13)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/psychic_circles-1-706x530.jpg">
@@ -60,13 +60,13 @@ El séptimo círculo es el punto de partida de la evolución del alma de moronti
 Los círculos psíquicos representan niveles de logro mental personal, la comprensión concreta de los siete espíritus-mente adjutores y la recepción de un Ajustador del Pensamiento. El logro del séptimo círculo transforma al individuo en un verdadero «ciudadano potencial del universo local». Al igual que los espíritus ayudantes, los círculos psíquicos incluyen siete etapas de crecimiento individual y progresivo.
 <br style="clear:both;"/>
 
-> Es difícil definir con precisión los siete niveles de la progresión humana porque estos niveles son personales, varían de un individuo a otro y parecen estar determinados por la capacidad de crecimiento de cada ser humano. <a id="a61_236"></a>[[LU 110:6.7](/es/The_Urantia_Book/110#p6_7)]
+> Es difícil definir con precisión los siete niveles de la progresión humana porque estos niveles son personales, varían de un individuo a otro y parecen estar determinados por la capacidad de crecimiento de cada ser humano. <a id="a62_225"></a>[[LU 110:6.7](/es/The_Urantia_Book/110#p6_7)]
 
 Esta cita revela la dificultad de precisar los niveles progresivos en la penetración de los siete círculos; se refiere exclusivamente a los atributos volitivos y al estatuto soberano de la personalidad. El Mensajero Solitario también menciona:
 
-> El séptimo círculo. Los seres humanos entran en este nivel cuando desarrollan sus poderes de elección personal, decisión individual, responsabilidad moral y su capacidad de alcanzar la individualidad espiritual. <a id="a65_208"></a>[[LU 110:6.13](/es/The_Urantia_Book/110#p6_13)]
+> El séptimo círculo. Los seres humanos entran en este nivel cuando desarrollan sus poderes de elección personal, decisión individual, responsabilidad moral y su capacidad de alcanzar la individualidad espiritual. <a id="a66_214"></a>[[LU 110:6.13](/es/The_Urantia_Book/110#p6_13)]
 
-En este séptimo círculo destacan cuatro poderes: en realidad es el primero para la personalidad y el comienzo de la progresión personal a través de los círculos superiores; inicia el fenómeno de la evolución personal dentro de los círculos psíquicos acompañado de un Ajustador del Pensamiento.. _«La entrada en el séptimo círculo marca el comienzo de la verdadera función de la personalidad humana_» <a id="a67_369"></a>[[LU 110:6.1](/es/The_Urantia_Book/110#p6_1)].
+En este séptimo círculo destacan cuatro poderes: en realidad es el primero para la personalidad y el comienzo de la progresión personal a través de los círculos superiores; inicia el fenómeno de la evolución personal dentro de los círculos psíquicos acompañado de un Ajustador del Pensamiento.. _«La entrada en el séptimo círculo marca el comienzo de la verdadera función de la personalidad humana_» <a id="a68_400"></a>[[LU 110:6.1](/es/The_Urantia_Book/110#p6_1)].
 
 El séptimo círculo no está muy bien definido en relación con los demás, sino que concierne exclusivamente a la situación de la personalidad humana; forma un conjunto de cuatro elementos (o poderes), como se ha dicho antes, y se considera el primer grupo de cuatro círculos que demuestran el avance y la evolución de la personalidad dentro de los círculos psíquicos:
 
@@ -83,15 +83,15 @@ El séptimo círculo (el primero que se alcanza) se compone de cuatro elementos 
 
 Tras alcanzar el estatus de individualidad espiritual a través de los cuatro primeros círculos (del 7º a 4º), la personalidad emerge en el tercer círculo de evolución morontial y se le asigna entonces una guardiana seráfica personal:
 
-> El trabajo del Ajustador se vuelve mucho más eficaz una vez que el ascendente humano ha alcanzado el tercer círculo y se le ha adjudicado una guardiana seráfica del destino a título personal. Aunque no hay concierto aparente entre los esfuerzos del Ajustador y de la guardiana seráfica, se observa una mejora indudable en todos los aspectos del logro cósmico y el desarrollo espiritual tras la asignación de la acompañante seráfica personal. Cuando se alcanza el tercer círculo, el Ajustador se esfuerza por morontializar la mente del hombre durante el resto de su vida mortal, por conquistar los círculos que faltan y alcanzar la etapa final de la asociación humano-divina antes de que la muerte natural disuelva esta relación única. <a id="a84_714"></a>[[LU 110:6.14](/es/The_Urantia_Book/110#p6_14)]
+> El trabajo del Ajustador se vuelve mucho más eficaz una vez que el ascendente humano ha alcanzado el tercer círculo y se le ha adjudicado una guardiana seráfica del destino a título personal. Aunque no hay concierto aparente entre los esfuerzos del Ajustador y de la guardiana seráfica, se observa una mejora indudable en todos los aspectos del logro cósmico y el desarrollo espiritual tras la asignación de la acompañante seráfica personal. Cuando se alcanza el tercer círculo, el Ajustador se esfuerza por morontializar la mente del hombre durante el resto de su vida mortal, por conquistar los círculos que faltan y alcanzar la etapa final de la asociación humano-divina antes de que la muerte natural disuelva esta relación única. <a id="a85_737"></a>[[LU 110:6.14](/es/The_Urantia_Book/110#p6_14)]
 
 El tercer círculo psíquico representa una culminación en el desarrollo personal tras el logro de la individualidad espiritual por la asociación de los cuatro elementos o poderes del séptimo círculo. El movimiento hacia el tercer círculo denota una mejora en los logros cósmicos y en el desarrollo espiritual.
 
-> Desde el séptimo hasta el tercer círculo, los siete espíritus-mente adjutores ejercen una acción creciente y unificada para liberar a la mente mortal de su dependencia de las realidades de los mecanismos de la vida material con vistas a introducirla cada vez más en los niveles de experiencia de la morontia. A partir del tercer círculo la influencia adjutora va disminuyendo progresivamente. <a id="a88_374"></a>[[LU 110:6.20](/es/The_Urantia_Book/110#p6_20)]
+> Desde el séptimo hasta el tercer círculo, los siete espíritus-mente adjutores ejercen una acción creciente y unificada para liberar a la mente mortal de su dependencia de las realidades de los mecanismos de la vida material con vistas a introducirla cada vez más en los niveles de experiencia de la morontia. A partir del tercer círculo la influencia adjutora va disminuyendo progresivamente. <a id="a89_395"></a>[[LU 110:6.20](/es/The_Urantia_Book/110#p6_20)]
 
 En cuanto la personalidad ha llegado al tercer círculo acompañada de su guardiana seráfica se acerca al segundo círculo, el círculo donde:
 
-> … el Ajustador se esfuerza por morontializar la mente del hombre durante el resto de su vida mortal, por conquistar los círculos que faltan y alcanzar la etapa final de la asociación humano-divina antes de que la muerte natural disuelva esta relación única. <a id="a92_249"></a>[[LU 110:6.14](/es/The_Urantia_Book/110#p6_14)]
+> … el Ajustador se esfuerza por morontializar la mente del hombre durante el resto de su vida mortal, por conquistar los círculos que faltan y alcanzar la etapa final de la asociación humano-divina antes de que la muerte natural disuelva esta relación única. <a id="a93_260"></a>[[LU 110:6.14](/es/The_Urantia_Book/110#p6_14)]
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/circle-up-2-706x530.jpg">
@@ -99,7 +99,7 @@ En cuanto la personalidad ha llegado al tercer círculo acompañada de su guardi
 
 La vida en la morontia de una personalidad moral comienza en su planeta natal en la concepción del alma en asociación con el Ajustador del Pensamiento; a través del segundo círculo es como el Ajustador se esfuerza por hacer que la mente de la personalidad sea morontial durante la vida mortal por medio de transformaciones mentales, por una manera de ser, de actuar o de reaccionar según los acontecimientos de la vida diaria que promueven la progresión del alma.
 
-El logro del primer círculo _«constituye el mayor acercamiento posible entre la mente material y el Ajustador espíritu en la experiencia humana»_ <a id="a100_131"></a>[[LU 110:6.15](/es/The_Urantia_Book/110#p6_15)]. Este primer círculo es el último círculo de realización progresiva de un mortal humano antes de la fusión. La fusión eterna depende siempre de la voluntad absoluta, del libre albedrío de la personalidad y de su dedicación a hacer la voluntad del Padre del Paraíso.
+El logro del primer círculo _«constituye el mayor acercamiento posible entre la mente material y el Ajustador espíritu en la experiencia humana»_ <a id="a101_146"></a>[[LU 110:6.15](/es/The_Urantia_Book/110#p6_15)]. Este primer círculo es el último círculo de realización progresiva de un mortal humano antes de la fusión. La fusión eterna depende siempre de la voluntad absoluta, del libre albedrío de la personalidad y de su dedicación a hacer la voluntad del Padre del Paraíso.
 <br style="clear:both;"/>
 
 En resumen, propongo que los siete círculos psíquicos son los siguientes en el orden de la evolución de la personalidad humana:
@@ -112,13 +112,13 @@ En resumen, propongo que los siete círculos psíquicos son los siguientes en el
 - 2º – El Ajustador se esfuerza por hacer que la mente del hombre sea morontial para el resto de su vida mortal.
 - 1º – La relación más estrecha posible entre la mente mortal y el Ajustador espiritual en la experiencia del hombre.
 
-Atravesar los círculos psíquicos forma parte de la experiencia personal de la personalidad humana en su crecimiento morontial durante la vida temporal y es el punto de apoyo que proporciona el acceso a los mundos mansión. Tal como lo presenta un Mensajero Solitario de Orvonton: _«Por lo tanto, quien se encuentra en el séptimo círculo va a los mundos mansión para seguir aumentando su realización cuantitativa de crecimiento cósmico exactamente igual que quien se encuentra en el segundo o incluso en el primer círculo…»_ <a id="a113_430"></a>[[LU 110:6.18](/es/The_Urantia_Book/110#p6_18)].
+Atravesar los círculos psíquicos forma parte de la experiencia personal de la personalidad humana en su crecimiento morontial durante la vida temporal y es el punto de apoyo que proporciona el acceso a los mundos mansión. Tal como lo presenta un Mensajero Solitario de Orvonton: _«Por lo tanto, quien se encuentra en el séptimo círculo va a los mundos mansión para seguir aumentando su realización cuantitativa de crecimiento cósmico exactamente igual que quien se encuentra en el segundo o incluso en el primer círculo…»_ <a id="a114_523"></a>[[LU 110:6.18](/es/The_Urantia_Book/110#p6_18)].
 
 Los círculos psíquicos están relacionados con las transformaciones mentales y la progresión individual de las personalidades en los aspectos de la conciencia; estos entran en acción en cuanto la personalidad utiliza sus capacidades mentales en la búsqueda de vivir divinamente según la voluntad del Padre Celestial. La vida en la morontia comienza con la formación del alma en nuestro planeta; su crecimiento y evolución dependen siempre de las decisiones, el libre albedrío y la voluntad absoluta de la personalidad.
 
 ### Segmentos propuestos de los círculos psíquicos
 
-Aunque los círculos psíquicos se ocupan siempre de los aspectos mentales de la personalidad, se dividen en cuatro segmentos diferentes: _«Los círculos psíquicos no son exclusivamente intelectuales ni tampoco enteramente morontiales. Están relacionados con el estatus de la personalidad, los logros de la mente, el crecimiento del alma y la sintonización con el Ajustador»_ <a id="a119_325"></a>[[LU 110:6.3](/es/The_Urantia_Book/110#p6_3)].
+Aunque los círculos psíquicos se ocupan siempre de los aspectos mentales de la personalidad, se dividen en cuatro segmentos diferentes: _«Los círculos psíquicos no son exclusivamente intelectuales ni tampoco enteramente morontiales. Están relacionados con el estatus de la personalidad, los logros de la mente, el crecimiento del alma y la sintonización con el Ajustador»_ <a id="a120_373"></a>[[LU 110:6.3](/es/The_Urantia_Book/110#p6_3)].
 
 1. – Estatus de la personalidad
 2. – Logros de la mente
@@ -137,7 +137,7 @@ Estos cuatro segmentos de los círculos psíquicos se refieren siempre a la prog
 
 La mente humana no está ligada en modo alguno al tiempo y al espacio por la trascendencia, sino que está totalmente ligada a las prerrogativas y al libre albedrío de la personalidad. Los círculos psíquicos son por lo tanto las siete etapas personales de la progresión en la morontia durante la vida terrenal.
 
-> El progreso individual de los seres humanos se mide por el logro sucesivo de los siete círculos cósmicos y su atravesamiento (dominio)… <a id="a138_138"></a>[[LU 49:6.8](/es/The_Urantia_Book/49#p6_8)]
+> El progreso individual de los seres humanos se mide por el logro sucesivo de los siete círculos cósmicos y su atravesamiento (dominio)… <a id="a139_138"></a>[[LU 49:6.8](/es/The_Urantia_Book/49#p6_8)]
 
 
 ## Referencias

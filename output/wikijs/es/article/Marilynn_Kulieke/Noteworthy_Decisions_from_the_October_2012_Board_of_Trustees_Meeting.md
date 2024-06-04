@@ -66,7 +66,7 @@ Nuestro agradecimiento especial al Comité de Traducciones, a los equipos de rev
 
 ## Novedades del Comité de Educación
 
-Gracias al liderazgo de Gard Jameson y del Comité de Educación, la Fundación Urantia ha desarrollado un plan de estudios en el que los dos últimos seminarios se centraron en la adoración y la sabiduría y en las razas. En junio de 2013, el Dr. Jeffrey Wattles presentará un seminario sobre percepción espiritual. En agosto de 2013, Ralph Zehr, fideicomisario asociado, impartirá un seminario sobre conciencia cósmica. “Perdón y entendimiento” podría ser otro seminario en un futuro cercano.
+Gracias al liderazgo de Gard Jameson y del Comité de Educación, la Fundación Urantia ha desarrollado un plan de estudios en el que los dos últimos seminarios se centraron en la adoración y la sabiduría y en las razas. En junio de 2013, el Dr. Jeffrey Wattles presentará un seminario sobre percepción espiritual. En agosto de 2013, Ralph Zehr, fideicomisario asociado, impartirá un seminario sobre conciencia cósmica. «Perdón y entendimiento» podría ser otro seminario en un futuro cercano.
 
 Ralph Zehr es también un profesor/facilitador activo de la Escuela de El libro de Urantia en Internet (UBIS en inglés) y ha estado investigando un nuevo sistema informático educativo que trabaja con muchos idiomas, ofrece capacidades más allá de las necesidades actuales, cuesta menos que lo que se ha gastado hasta ahora y se emplea ampliamente, lo cual hace que el software esté actualizado. Ralph prevé dar un informe sobre este software en la reunión de enero de la junta.
 

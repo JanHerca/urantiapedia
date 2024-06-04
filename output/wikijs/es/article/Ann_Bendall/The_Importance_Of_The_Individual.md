@@ -52,7 +52,7 @@ En nuestro celo entusiasta, ¿hemos ofrecido el libro a una persona que se ha ac
 
 Lo único que se nos pide es valorar, amar, comprender y escuchar a esa persona. La confianza que podemos engendrar, siempre que los tengamos en la misma consideración que Jesús, podría eliminar de su mente y corazón los bloqueos del miedo, la ansiedad y la desconfianza, proporcionando así un canal despejado a través del cual su Ajustador del Pensamiento pueda contactar con su mente.
 
-Si creemos lo suficiente en nuestros hermanos y hermanas, si aprendemos a amarlos con sabiduría y comprensión, entonces tal vez se atrevan a creer lo suficiente en sí mismos para escuchar y saber cuán amados son por la «pequeña y apacible voz». ”de nuestro Padre.
+Si creemos lo suficiente en nuestros hermanos y hermanas, si aprendemos a amarlos con sabiduría y comprensión, entonces tal vez se atrevan a creer lo suficiente en sí mismos para escuchar y saber cuán amados son por la «pequeña y apacible voz» de nuestro Padre.
 
 
 

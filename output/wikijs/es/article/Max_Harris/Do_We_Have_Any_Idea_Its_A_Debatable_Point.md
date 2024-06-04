@@ -59,7 +59,7 @@ No es que nuestros tan difamados medios de comunicación no estén registrando, 
 
 Lo mejor corre peligro de ser degradado, por el dominio de la mentalidad pública, por lo peor.
 
-Pero la naturaleza de los medios auditivos y visuales es subsumir que sus patrocinadores poseen una capacidad de atención corta. Los cambios convulsivos en las configuraciones de poder y políticas del gran mundo exterior distante deben transmitirse en lo que entiendo se llama "60 - segundos agarres”. La masa de gente se alimenta de un impresionismo interminable que absorben con una mínima comprensión.
+Pero la naturaleza de los medios auditivos y visuales es subsumir que sus patrocinadores poseen una capacidad de atención corta. Los cambios convulsivos en las configuraciones de poder y políticas del gran mundo exterior distante deben transmitirse en lo que entiendo se llama «60 - segundos agarres». La masa de gente se alimenta de un impresionismo interminable que absorben con una mínima comprensión.
 
 Y es por eso que la mayoría de nosotros estamos reaccionando ante un vasto cambio global histórico con un aislamiento mental catatónico.
 

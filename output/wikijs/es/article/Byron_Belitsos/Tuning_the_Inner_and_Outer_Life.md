@@ -15,7 +15,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: «Responsabilidad global: en busca de una nueva ética»</span>
         </a>
         </td>
         <td>
@@ -116,7 +116,7 @@ Lo más alentador es el hecho de que estos programas educativos, informativos y 
       <tr>
         <td>
         <a href="/es/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: “Responsabilidad global: en busca de una nueva ética”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libros significativos: «Responsabilidad global: en busca de una nueva ética»</span>
         </a>
         </td>
         <td>

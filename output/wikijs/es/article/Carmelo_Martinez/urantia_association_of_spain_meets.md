@@ -53,7 +53,7 @@ El jueves 30 de abril por la tarde, di la bienvenida como presidente a todos los
 
 La mañana del viernes 1 de mayo se ocupó con dos interesantes presentaciones. La primera, titulada _Aparición en el escenario cósmico de la materia y la energía_ de Santiago Rodríguez, y la segunda, _El escriba de Damasco_ de Demetrio Gómez. En la mañana del sábado 2 de mayo, Francisco Fuentes trató sobre _El espacio y el tiempo. Nuestro universo y el universo de El libro de Urantia_ y Ginés Avilés nos habló sobre la técnica de resolución de problemas que propone Rodán de Alejandría.
 
-La tarde del viernes se dedicó a un taller sobre el polémico documento 72 _El gobierno de un planeta vecin_o, que suscitó un acalorado debate, y en la tarde del sábado David Carrera nos hizo una impactante y brillante presentación sobre la dicotomía Realidad-Irrealidad y trazo un gráfico de lo que él llama el «primer mapa práctico del gran y único tesoro que nos llevamos de esta vida: el alma.”
+La tarde del viernes se dedicó a un taller sobre el polémico documento 72 _El gobierno de un planeta vecin_o, que suscitó un acalorado debate, y en la tarde del sábado David Carrera nos hizo una impactante y brillante presentación sobre la dicotomía Realidad-Irrealidad y trazo un gráfico de lo que él llama el «primer mapa práctico del gran y único tesoro que nos llevamos de esta vida: el alma.»
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Spanish-Meeting-Workshop-300x225.jpg">

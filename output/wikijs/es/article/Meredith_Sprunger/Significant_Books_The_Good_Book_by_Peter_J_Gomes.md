@@ -1,5 +1,5 @@
 ---
-title: "Libros significativos: “El buen libro” de Peter J. Gomes"
+title: "Libros significativos: «El buen libro» de Peter J. Gomes"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
-          <span class="pr-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros importantes: «Reclamando la Iglesia» por John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -68,7 +68,7 @@ Nuestra sociedad tiene una necesidad crítica del poder reorientador y rejuvenec
         </td>
         <td>
         <a href="/es/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
-          <span class="pr-2">Libros importantes: “Reclamando la Iglesia” por John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Libros importantes: «Reclamando la Iglesia» por John B. Cobb, Jr</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

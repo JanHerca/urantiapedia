@@ -60,7 +60,7 @@ Para más información, visiten [Libros a mitad de precio](https://www.urantia.o
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/043.jpg">
-<figcaption><em>La asociación finlandesa de la Asociación Urantia Internacional presenta un stand en la feria del libro “Espíritu y Conocimiento” de Tampere (Finlandia).</em></figcaption>
+<figcaption><em>La asociación finlandesa de la Asociación Urantia Internacional presenta un stand en la feria del libro «Espíritu y Conocimiento» de Tampere (Finlandia).</em></figcaption>
 </figure>
 
 <figure id="Figure_7" class="image urantiapedia">
@@ -70,7 +70,7 @@ Para más información, visiten [Libros a mitad de precio](https://www.urantia.o
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/051.jpg">
-<figcaption><em>Lectores de El libro de Urantia en Finlandia reunidos para su reunión anual de verano, en honor al cumpleaños de Jesús, el tema de la reunión fue “Los años de juventud de Jesús”.</em></figcaption>
+<figcaption><em>Lectores de El libro de Urantia en Finlandia reunidos para su reunión anual de verano, en honor al cumpleaños de Jesús, el tema de la reunión fue «Los años de juventud de Jesús».</em></figcaption>
 </figure>
 
 

@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Un programa facilitado por Jeff Wattles, Stow (Ohio, EEUU)
 
-Se celebrará un programa titulado “Verdades espirituales de poder cósmico: buscar, estudiar, crecer, compartir” en la Fundación Urantia, desde la tarde del jueves 30 de mayo al mediodía del domingo 2 de junio de 2013. Estudiaremos, conviviremos, escucharemos las presentaciones de los participantes, abordaremos las dificultades y nos apoyaremos mutualmente. Está diseñado para personas jóvenes, mayores y de mediana edad. Hay un proyecto opcional que usa métodos revelados y probados de educación experiencial. Si está interesado, contacte con el organizador, Jeff Wattles: [jwattles@kent.edu](mailto:jwattles@kent.edu), y elija el nivel de participación que encaja en su espíritu de aventura.
+Se celebrará un programa titulado «Verdades espirituales de poder cósmico: buscar, estudiar, crecer, compartir» en la Fundación Urantia, desde la tarde del jueves 30 de mayo al mediodía del domingo 2 de junio de 2013. Estudiaremos, conviviremos, escucharemos las presentaciones de los participantes, abordaremos las dificultades y nos apoyaremos mutualmente. Está diseñado para personas jóvenes, mayores y de mediana edad. Hay un proyecto opcional que usa métodos revelados y probados de educación experiencial. Si está interesado, contacte con el organizador, Jeff Wattles: [jwattles@kent.edu](mailto:jwattles@kent.edu), y elija el nivel de participación que encaja en su espíritu de aventura.
 
 ## Mantengan Libres Sus Agendas En Julio: Es El Mes De Conferencias De Los Lectores De El Libro De Urantia
 

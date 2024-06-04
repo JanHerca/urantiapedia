@@ -49,10 +49,10 @@ _El libro de Urantia_ comparte con la mayoría de confesiones cristianas los sig
 
 - Dios es el creador de toda la realidad
 - Dios es omnisciente, omnipresente, omnipotente, infinito y eterno
-- Dios está descrito como una personalidad amorosa – “Dios es amor”
+- Dios está descrito como una personalidad amorosa – «Dios es amor»
 - Dios es una deidad simple que existe en una Trinidad de tres personas
-- Dios tiene una “sede celestial” inmensa
-- Los creyentes que tienen una relación personal con Dios han “nacido del espíritu”
+- Dios tiene una «sede celestial» inmensa
+- Los creyentes que tienen una relación personal con Dios han «nacido del espíritu»
 - Aquellos que tienen fe en Dios sobreviven a la muerte
 - Los ángeles y las personalidades divinas existen, y son enviados para proteger y ministrar a las personas a lo largo de sus vidas.
 
@@ -60,11 +60,11 @@ Las diferencias con el cristianismo incluyen:
 
 - La crucifixión de Jesús no se considera una expiación por los pecados de la humanidad. La crucifixión se enseña como el resultado del miedo de los líderes religiosos de la época, que consideraban sus enseñanzas como una amenaza a sus puestos de autoridad.
 - Dios no siente ira ni enfado. Es una personalidad completamente motivada por el amor paternal.
-- Jesús es la encarnación humana de “Miguel de Nebadon”, uno de los más de 700.000 “Hijos Paradisíacos” de Dios, o “Hijos Creadores”. Jesús no es considerado como la segunda persona de la Trinidad, como en el cristianismo. El libro se refiere al Hijo Eterno como la segunda persona de la Trinidad.
+- Jesús es la encarnación humana de «Miguel de Nebadon», uno de los más de 700.000 «Hijos Paradisíacos» de Dios, o «Hijos Creadores». Jesús no es considerado como la segunda persona de la Trinidad, como en el cristianismo. El libro se refiere al Hijo Eterno como la segunda persona de la Trinidad.
 - Jesús nació en la tierra mediante métodos naturales de concepción, en lugar de la inmaculada concepción.
 - Jesús no caminó sobre las aguas ni realizó algunos de los milagros que se le atribuyen en la Biblia.
 - Jesús nombró a doce mujeres (que más adelante fueron más) como instructoras religiosas, a las que se les permitió viajar con Jesús y sus apóstoles en sus misiones de predicación.
-- Jesús se levantó de entre los muertos en una “forma más glorificada”, que reflejaba un estado de transición entre la existencia material y espiritual, conocida como “morontia”. Como todos los mortales, su cuerpo físico estaba sujeto a la descomposición, pero los seres celestiales eliminaron su cuerpo de la tumba por la disolución de sus restos conocido como un proceso de “tiempo acelerado”.
+- Jesús se levantó de entre los muertos en una «forma más glorificada», que reflejaba un estado de transición entre la existencia material y espiritual, conocida como «morontia». Como todos los mortales, su cuerpo físico estaba sujeto a la descomposición, pero los seres celestiales eliminaron su cuerpo de la tumba por la disolución de sus restos conocido como un proceso de «tiempo acelerado».
 - El libro afirma que Jesús podría regresar varias veces a este mundo. Esto contrasta con la escatología cristiana tradicional, en la que Jesús regresa solo una vez.
 
 **RESPUESTA EN WIKIPEDIA de Kristina Stoianova desde Londres (Reino Unido)**

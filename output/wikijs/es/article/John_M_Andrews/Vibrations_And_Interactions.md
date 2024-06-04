@@ -43,7 +43,7 @@ La claridad y el alcance de nuestras percepciones individuales y la fuerza y cal
 
 E incluso en este ciclo maestro, cuya fase actual vemos como la evolución del Supremo, esta marea también cambiará. En la plenitud de los tiempos, cuando todo el universo de universos esté asentado en luz y vida, entonces comenzará una nueva y vasta fase, una fase, sin duda, de ministración a la imperfección de la próxima era universal, en algún lugar de los niveles exteriores del espacio. Y a medida que pasen estas edades, disfrutaremos de una eternidad de servicio perfeccionado.
 
-> «_Y aquello que un hijo desea y el Padre quiere, sucederá con toda seguridad._» ([LU 118:6.5](/es/The_Urantia_Book/118#p6_5))
+> «_Y aquello que un hijo desea y el Padre quiere, sucederá con toda seguridad._» (<a id="a45_83"></a>[LU 118:6.5](/es/The_Urantia_Book/118#p6_5))
 
 
 — _John M. Andrews_

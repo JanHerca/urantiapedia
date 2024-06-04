@@ -56,7 +56,7 @@ _Fort Smith, Arkansas_
 
 ---
 
-> «_La inteligencia nace de una existencia material que está iluminada por la presencia de la mente cósmica. La sabiduría consta de la conciencia del conocimiento, elevada a nuevos niveles de significados, y activada por la presencia de la dotación universal del espíritu ayudante de la sabiduría. La verdad es un valor de la realidad espiritual que sólo lo experimentan los seres dotados de espíritu que ejercen su actividad en los niveles supermateriales de conciencia del universo, y que después de reconocer la verdad, permiten que su espíritu activador viva y reine en sus almas._» ([LU 180:5.3](/es/The_Urantia_Book/180#p5_3))
+> «_La inteligencia nace de una existencia material que está iluminada por la presencia de la mente cósmica. La sabiduría consta de la conciencia del conocimiento, elevada a nuevos niveles de significados, y activada por la presencia de la dotación universal del espíritu ayudante de la sabiduría. La verdad es un valor de la realidad espiritual que sólo lo experimentan los seres dotados de espíritu que ejercen su actividad en los niveles supermateriales de conciencia del universo, y que después de reconocer la verdad, permiten que su espíritu activador viva y reine en sus almas._» (<a id="a58_588"></a>[LU 180:5.3](/es/The_Urantia_Book/180#p5_3))
 
 
 

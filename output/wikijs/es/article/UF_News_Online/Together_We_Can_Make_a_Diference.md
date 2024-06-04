@@ -53,7 +53,7 @@ Por favor, necesitamos sus donaciones ahora. Esta oferta generosa expira el 31 d
 Que la paz y la alegría les bendigan a ustedes y a sus seres queridos durante estas fiestas.
 <br style="clear:both;"/>
 
-> Dijo Jesús: “Lo que habéis recibido gratuitamente, dadlo gratuitamente”.
+> Dijo Jesús: «Lo que habéis recibido gratuitamente, dadlo gratuitamente».
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_12/003.jpg">

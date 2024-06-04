@@ -40,13 +40,13 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Joanne Strobel, Fundación Urantia, Chicago (Illinois, Estados Unidos)_
 
-Las palabras “turbulencia”, “agitación” y “extinción” aparecen en _El libro de Urantia_. Aunque estas palabras quizá no tengan mucha relevancia personal para la mayoría de nosotros, tomaron un significado nuevo para el equipo de la Fundación Urantia durante los dos últimos años.
+Las palabras «turbulencia», «agitación» y «extinción» aparecen en _El libro de Urantia_. Aunque estas palabras quizá no tengan mucha relevancia personal para la mayoría de nosotros, tomaron un significado nuevo para el equipo de la Fundación Urantia durante los dos últimos años.
 
 En un esfuerzo por restaurar la sede de la Fundación en el 533 W. Diversey Parkway de Chicago hasta su integridad y dignidad original, la Junta de Fideicomisarios aprobó en 2011 un importante proyecto de renovación. Cuando llegué aquí, en enero de 2012, había destrucción, construcción y plástico colgando por todo el primer piso. Tamara y Connie, ambas a punto de ser madres, se habían retirado desde hacía tiempo a las oficinas del frío y húmedo sótano en un esfuerzo por evitar inhalar polvo y gases tóxicos. Mike, Jay y yo afrontamos la situación escaleras arriba, retirándonos hacia la ya terminada segunda planta para tener un poco de paz y tranquilidad, una cocina funcional y un baño que funcionara. En mayo se terminó, llegó la primavera y los bebés, las mamás se refrescaron y regresaron al trabajo, y las oficinas se reunieron. Todos disfrutamos de nuestro bello, nuevo y modernizado ambiente.
 
 El alivio duró poco. Mientras los inquilinos del tercer piso disfrutaban de su suite vintage y de la magnanimidad de un casero benevolente, el miedo comenzó a deslizarse en la mente del equipo directivo. ¡Después de todo, si una vieja tubería se rompiera o si el viejo cableado eléctrico desencadenara un incendio, las bellas segunda y tercera plantas se quedarían arruinadas, si es que sobrevivían!
 
-Se discutió, se tomaron decisiones, se recaudaron fondos y se llevaron a cabo acciones. Nuestro rebaño de solteros de la tercera planta dejó libre a regañadientes su apartamento en julio. Y el 15 de agosto de 2013, Dalius “Dale” Budas y su intrépido equipo de contratistas lituanos comenzaron el derribo de la tercera y última planta, bajo la supervisión de la benefactora, Jennifer Siegel, y con el asentimiento de Sir Alfred Lord Tennyson.
+Se discutió, se tomaron decisiones, se recaudaron fondos y se llevaron a cabo acciones. Nuestro rebaño de solteros de la tercera planta dejó libre a regañadientes su apartamento en julio. Y el 15 de agosto de 2013, Dalius «Dale» Budas y su intrépido equipo de contratistas lituanos comenzaron el derribo de la tercera y última planta, bajo la supervisión de la benefactora, Jennifer Siegel, y con el asentimiento de Sir Alfred Lord Tennyson.
 
 > Yeso a su derecha,
 > Rescate a su izquierda,

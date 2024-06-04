@@ -58,7 +58,7 @@ El Dr. Sadler dirigió una discusión sobre este tema. En ese momento, tal vez f
 > 
 > Debe quedar claro que los antecedentes de los Documentos de Urantia no estaban asociados de ninguna manera con el llamado espiritismo, con sus sesiones de espiritismo y su supuesta comunicación con los espíritus de seres humanos fallecidos.
 
-> _Pero debemos indicar claramente que las criaturas intermedias no están implicadas en los sórdidos espectáculos que tienen lugar bajo la denominación general de «espiritismo». Todos los intermedios que residen actualmente en Urantia tienen una reputación honorable, y no están relacionados con los fenómenos de la llamada «mediumnidad»; ..._ ([LU 77:8.13](/es/The_Urantia_Book/77#p8_13))
+> _Pero debemos indicar claramente que las criaturas intermedias no están implicadas en los sórdidos espectáculos que tienen lugar bajo la denominación general de «espiritismo». Todos los intermedios que residen actualmente en Urantia tienen una reputación honorable, y no están relacionados con los fenómenos de la llamada «mediumnidad»; ..._ (<a id="s60_345"></a>[LU 77:8.13](/es/The_Urantia_Book/77#p8_13))
 
 ## ¿Es una recopilación del trabajo de otras personas?
 
@@ -80,7 +80,7 @@ Este proyecto es obra de Matthew Block, quien escribe:
 
 > Este sitio web ha sido creado para compartir mis gráficos paralelos, que identifican las fuentes de artículos (o secciones) particulares de Urantia y rastrean cómo se utilizaron. Estos gráficos, y otros por venir, se utilizarán en una serie de trabajos que analizan cómo se escribió _El Libro de Urantia_.
 > 
-> Habiendo leído los dos nebulosos reconocimientos de _El Libro de Urantia_, que se refieren al uso de 'más de mil conceptos humanos... reunidos a partir de los mortales conocedores de Dios del pasado y del presente' en la escritura de la Parte I ([LU 0:12.12](/es/The_Urantia_Book/0#p12_12)), y el uso de los pensamientos y expresiones de 'más de dos mil seres humanos que han vivido en la tierra desde los días de Jesús hasta el tiempo de la proclamación de «Estas revelaciones» en la redacción de la Parte IV ([LU 121:8.13](/es/The_Urantia_Book/121#p8_13)), estaba preparado para encontrar fuentes.
+> Habiendo leído los dos nebulosos reconocimientos de _El Libro de Urantia_, que se refieren al uso de 'más de mil conceptos humanos... reunidos a partir de los mortales conocedores de Dios del pasado y del presente' en la escritura de la Parte I (<a id="s82_248"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12)), y el uso de los pensamientos y expresiones de 'más de dos mil seres humanos que han vivido en la tierra desde los días de Jesús hasta el tiempo de la proclamación de «Estas revelaciones» en la redacción de la Parte IV (<a id="s82_513"></a>[LU 121:8.13](/es/The_Urantia_Book/121#p8_13)), estaba preparado para encontrar fuentes.
 > 
 > En el momento de escribir este artículo, he identificado unos 125 libros, que se utilizaron para escribir unos 150 documentos de Urantia. Todos los textos originales se publicaron en inglés y los autores originales fueron, con pocas excepciones, estadounidenses o británicos nacidos en los siglos XIX o XX.
 

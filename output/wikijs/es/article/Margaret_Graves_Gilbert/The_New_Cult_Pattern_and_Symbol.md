@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> «_... un culto —un simbolismo de ritos, lemas u objetivos— ..._» ([LU 87:7.10](/es/The_Urantia_Book/87#p7_10))
+> «_... un culto —un simbolismo de ritos, lemas u objetivos— ..._» (<a id="a37_68"></a>[LU 87:7.10](/es/The_Urantia_Book/87#p7_10))
 
 ¿Qué es un patrón? En el nivel más bajo de nuestra percepción, lo vemos como un fenómeno espacio-temporal, el entrelazamiento de relaciones en un significado. Estéticamente, esta es la relación de colores, de texturas, de sonidos. Psicológicamente es la relación de motivos, de deseos, de acciones. Espiritualmente, es «indescriptible» excepto a través de símbolos.
 

@@ -59,7 +59,7 @@ Y por supuesto, tenemos el relato del poderoso Van y su asociado mortal Amadon, 
 
 Parece que hay algo que podemos hacer. Como Gabriel, podemos adoptar una postura para contrarrestar los sofismas rebeldes. El método de Gabriel se expone en el documento 53. Dice:
 
-> En los primeros días de la lucha Lucifer arengaba continuamente en el anfiteatro planetario. Gabriel denunciaba incesantemente las sofisterías rebeldes desde su sede establecida en las cercanías. Las diversas personalidades presentes en la esfera que no tenían clara su postura iban y venían de un discurso a otro hasta que llegaban a una decisión final. (<a id="a60_392"></a>[LU 53:5.6](/es/The_Urantia_Book/53#p5_6))
+> En los primeros días de la lucha Lucifer arengaba continuamente en el anfiteatro planetario. Gabriel denunciaba incesantemente las sofisterías rebeldes desde su sede establecida en las cercanías. Las diversas personalidades presentes en la esfera que no tenían clara su postura iban y venían de un discurso a otro hasta que llegaban a una decisión final. (<a id="a61_358"></a>[LU 53:5.6](/es/The_Urantia_Book/53#p5_6))
 
 El método de Gabriel era la educación. Proporcionó un espacio y lugar para la conversación. Muchos seres fueron engañados porque no podían comprender que era posible que una personalidad tan deslumbrante como Lucifer se descarriara. Fueron engañados porque eran personalidades adoradoras. La solución, tal como la presentó Gabriel, era examinar las ideas, no las personalidades. Al igual que Gabriel, podemos ofrecer un lugar donde la gente pueda escuchar el punto de vista de Miguel. TheChristExperiment.org es un lugar donde se puede escuchar el lado de Miguel de la lucha ideológica.
 
@@ -71,11 +71,11 @@ Luego está la cuestión de la justicia. Cuando pensamos en el enorme daño que 
 
 Esta cuestión surge debido a lo que se indica en el documento 54:
 
-> . . . los Ancianos de los Días se oponen a aniquilar a ningún ser hasta que todos los valores morales y todas las realidades espirituales se hayan extinguido, tanto en el malhechor **como en todos sus partidarios y posibles simpatizantes**. (<a id="a72_210"></a>[LU 54:3.3](/es/The_Urantia_Book/54#p3_3), negrita añadida)
+> . . . los Ancianos de los Días se oponen a aniquilar a ningún ser hasta que todos los valores morales y todas las realidades espirituales se hayan extinguido, tanto en el malhechor **como en todos sus partidarios y posibles simpatizantes**. (<a id="a73_244"></a>[LU 54:3.3](/es/The_Urantia_Book/54#p3_3), negrita añadida)
 
 Consideremos también lo que se indica sobre Satanás en el documento 43:
 
-> Desde el triunfo de Cristo todo Norlatiadek se está limpiando de pecado y de rebeldes. Poco antes de la muerte de Miguel en la carne, Satanás, el adjunto del caído Lucifer, intentó asistir a uno de estos cónclaves de Edentia, pero la opinión de los asistentes se había solidificado hasta tal punto contra los archirrebeldes que los sublevados de Satania encontraron prácticamente cerradas todas las puertas de la comprensión y no hubo lugar para ellos. **Cuando no hay puerta abierta para recibir el mal no hay oportunidad para albergar el pecado**. Las puertas de los corazones de todo Edentia se cerraron ante Satanás. Fue rechazado unánimemente por los Soberanos de los Sistemas allí reunidos, y fue en ese momento cuando el Hijo del Hombre «vio a Satanás caer del cielo como un rayo». (<a id="a76_768"></a>[LU 43:4.9](/es/The_Urantia_Book/43#p4_9), negrita añadida)
+> Desde el triunfo de Cristo todo Norlatiadek se está limpiando de pecado y de rebeldes. Poco antes de la muerte de Miguel en la carne, Satanás, el adjunto del caído Lucifer, intentó asistir a uno de estos cónclaves de Edentia, pero la opinión de los asistentes se había solidificado hasta tal punto contra los archirrebeldes que los sublevados de Satania encontraron prácticamente cerradas todas las puertas de la comprensión y no hubo lugar para ellos. **Cuando no hay puerta abierta para recibir el mal no hay oportunidad para albergar el pecado**. Las puertas de los corazones de todo Edentia se cerraron ante Satanás. Fue rechazado unánimemente por los Soberanos de los Sistemas allí reunidos, y fue en ese momento cuando el Hijo del Hombre «vio a Satanás caer del cielo como un rayo». (<a id="a77_792"></a>[LU 43:4.9](/es/The_Urantia_Book/43#p4_9), negrita añadida)
 
 De esto podemos deducir que hasta que los conceptos luciferinos sean totalmente rechazados en nuestro mundo, los Ancianos de los Días pueden abstenerse de aniquilar a los rebeldes. Así, la demora en exponer las proclamaciones venenosas de Lucifer puede prolongar nuestra agonía planetaria.
 
@@ -121,7 +121,7 @@ Hay una divinidad en la filiación con Dios, hay un poder de unidad con el unive
 
 El documento 111 se refiere al peligro de ceder a la tentación de endiosarse, que es lo que les ocurre a quienes se adscriben a esta verdad a medias del endiosamiento. He aquí el extracto:
 
-> El valor necesario para llevar a cabo la conquista de la naturaleza y trascenderse a uno mismo es un valor que puede sucumbir a las tentaciones del orgullo. El mortal capaz de trascender el yo podría ceder a la tentación de deificar su propia autoconsciencia. El dilema del mortal consiste en el doble hecho de que el hombre es esclavo de la naturaleza y posee al mismo tiempo una libertad única, la libertad de elección y acción espiritual. En los niveles materiales el hombre se encuentra supeditado a la naturaleza mientras que en los niveles espirituales triunfa sobre la naturaleza y sobre todas las cosas temporales y finitas. Esta paradoja está inseparablemente unida a la tentación, al mal potencial, a los errores de decisión. Y cuando el yo se vuelve orgulloso y arrogante puede aparecer el pecado. (<a id="a122_721"></a>[LU 111:6.2](/es/The_Urantia_Book/111#p6_2))
+> El valor necesario para llevar a cabo la conquista de la naturaleza y trascenderse a uno mismo es un valor que puede sucumbir a las tentaciones del orgullo. El mortal capaz de trascender el yo podría ceder a la tentación de deificar su propia autoconsciencia. El dilema del mortal consiste en el doble hecho de que el hombre es esclavo de la naturaleza y posee al mismo tiempo una libertad única, la libertad de elección y acción espiritual. En los niveles materiales el hombre se encuentra supeditado a la naturaleza mientras que en los niveles espirituales triunfa sobre la naturaleza y sobre todas las cosas temporales y finitas. Esta paradoja está inseparablemente unida a la tentación, al mal potencial, a los errores de decisión. Y cuando el yo se vuelve orgulloso y arrogante puede aparecer el pecado. (<a id="a123_812"></a>[LU 111:6.2](/es/The_Urantia_Book/111#p6_2))
 
 Esta cita nos dice que trascender las fragilidades mortales y los retos temporales requiere verdadero valor, pero quienes son capaces de trascenderlos se enfrentan a un nuevo problema: la tentación de volverse orgullosos y arrogantes, lo que puede conducir al pecado. No dice que esa persona SE HARÁ orgullosa y arrogante: dice que a esa persona se le presentará inevitablemente la oportunidad de demostrar quién es en realidad. ¿Es un valiente hijo espiritual de Dios, o se ha engañado a sí mismo creyendo que ES Dios? Ese es el peligro de las verdades a medias.
 
@@ -135,7 +135,7 @@ Hay otra razón por la que esta verdad a medias es tan peligrosa: nos quita nues
 
 > En resumen, lo que Dios había dado a hombres y ángeles, Lucifer se lo hubiera quitado: **el privilegio divino de participar en la creación de sus propios destinos** y del destino de este sistema local de mundos habitados.
 > 
-> Ningún ser en todo el universo tiene la libertad legítima de privar a otro ser de la verdadera libertad, del derecho a amar y ser amado, del privilegio de adorar a Dios y de servir a sus semejantes. (<a id="a138_193"></a>[LU 54:2.3-5](/es/The_Urantia_Book/54#p2_3) emphases added)
+> Ningún ser en todo el universo tiene la libertad legítima de privar a otro ser de la verdadera libertad, del derecho a amar y ser amado, del privilegio de adorar a Dios y de servir a sus semejantes. (<a id="a137_202"></a>[LU 54:2.3-5](/es/The_Urantia_Book/54#p2_3) emphases added)
 
 Estos pasajes revelan el peligro de las filosofías que excluyen a Dios de la ecuación. De modo que no es solo una cuestión de si Dios existe o no existe: es una cuestión de si NOSOTROS existimos como criaturas con libre albedrío y si permitiremos que otra criatura cierre la puerta a oportunidades y posibilidades. Esas medias verdades no solo son ateas: son luciferinas.
 
@@ -147,7 +147,7 @@ Pero, ¿cómo sabrán que deben progresar más allá de las medias verdades y co
 
 El documento 54 dice esto sobre la libertad y el libertinaje:
 
-> De todos los problemas desconcertantes surgidos de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros de distinguir entre la verdadera y la falsa libertad. (<a id="a150_205"></a>[LU 54:1.1](/es/The_Urantia_Book/54#p1_1))
+> De todos los problemas desconcertantes surgidos de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros de distinguir entre la verdadera y la falsa libertad. (<a id="a149_227"></a>[LU 54:1.1](/es/The_Urantia_Book/54#p1_1))
 
 Está claro que, si vamos a encontrarnos en el lado correcto de la lucha ideológica, debemos ser capaces de distinguir la diferencia nosotros mismos. Recordemos que muchas personalidades celestiales de larga fidelidad no supieron distinguir la diferencia y fueron arrastradas por la rebelión de Lucifer, así que puede que no sea tan fácil como se podría pensar.
 
@@ -161,7 +161,7 @@ El Mensajero Poderoso autor del documento 54 enumeró las diferencias yuxtaponie
 > 
 > La falsa libertad es el sutil engaño **del error del tiempo y del mal del espacio**.
 > 
-> La libertad duradera se basa en la realidad de la justicia: en la inteligencia, la madurez, la fraternidad y la equidad. (<a id="a164_108"></a>[LU 54:1.2](/es/The_Urantia_Book/54#p1_2), negrita añadida)
+> La libertad duradera se basa en la realidad de la justicia: en la inteligencia, la madurez, la fraternidad y la equidad. (<a id="a163_124"></a>[LU 54:1.2](/es/The_Urantia_Book/54#p1_2), negrita añadida)
 
 En este documento, el Mensajero Poderoso compara el tiempo y el espacio. El tiempo, tal como se utiliza aquí, es el flujo natural de los acontecimientos, el proceso evolutivo natural. El espacio se refiere a nuestro lugar o nuestro estatus, o dónde estamos en el universo.
 
@@ -186,7 +186,7 @@ La libertad es una técnica autodestructiva de la existencia cósmica cuando su 
 
 La verdadera libertad se relaciona progresivamente con la realidad y es siempre respetuosa con la equidad social, la imparcialidad cósmica, la fraternidad del universo y las obligaciones divinas.
 
-> La libertad es suicida cuando está divorciada de la justicia material, de la imparcialidad intelectual, de la paciencia social, del deber moral y de los valores espirituales. (<a id="a189_137"></a>[LU 54:1.3-4](/es/The_Urantia_Book/54#p1_3))
+> La libertad es suicida cuando está divorciada de la justicia material, de la imparcialidad intelectual, de la paciencia social, del deber moral y de los valores espirituales. (<a id="a188_178"></a>[LU 54:1.3-4](/es/The_Urantia_Book/54#p1_3))
 
 Estas distinciones nos dicen que las libertades que se ejercen sin reflexión inteligente sobre las consecuencias que impondrían a los demás, o que se ejercen sin restricciones, son falsas libertades. Mientras que las libertades que tienen en cuenta los efectos que nuestras acciones tendrán en los demás y están atemperadas por la equidad son libertades verdaderas.
 
@@ -202,7 +202,7 @@ Estos son otros ejemplos de falsa libertad o libertinaje; probablemente ustedes 
 
 El Mensajero Poderoso nos dice a continuación que:
 
-> La obstinación sin freno y la expresión desordenada del yo equivalen al egoísmo absoluto, a la suma impiedad. La libertad no acompañada de una victoria creciente sobre el propio yo es una fantasía de la imaginación egoísta del mortal. (<a id="a205_224"></a>[LU 54:1.5](/es/The_Urantia_Book/54#p1_5))
+> La obstinación sin freno y la expresión desordenada del yo equivalen al egoísmo absoluto, a la suma impiedad. La libertad no acompañada de una victoria creciente sobre el propio yo es una fantasía de la imaginación egoísta del mortal. (<a id="a204_238"></a>[LU 54:1.5](/es/The_Urantia_Book/54#p1_5))
 
 Aquí nos está diciendo que las ideas que promueven la expresión personal sin tener en cuenta los sentimientos o las consecuencias para los demás son ejemplos de egoísmo impío y autoengañoso. Un ejemplo de tal ideología es la expresión luciferina:
 
@@ -225,7 +225,7 @@ A veces es difícil ver el contraste en la sociedad moderna, así que podría se
 
 > Al poco tiempo de la rebelión, todo el equipo de la sedición se encontró defendiendo esforzadamente la ciudad contra las hordas de semisalvajes que sitiaron sus murallas como consecuencia de las doctrinas de libertad que se les había enseñado prematuramente. Y años antes de que la hermosa sede fuera sumergida por las olas del mar del sur, las tribus engañadas y mal instruidas de las tierras interiores de Dalamatia ya habían consumado su asalto semisalvaje de la espléndida ciudad y empujado hacia el norte al equipo secesionista y sus asociados.
 > 
-> El plan de Caligastia de reconstruir inmediatamente la sociedad humana según sus ideas de libertad individual y libertades colectivas desembocó en un rápido fracaso más o menos total. La sociedad retrocedió rápidamente a su antiguo nivel biológico y la lucha hacia adelante volvió a empezar en un punto no mucho más avanzado de donde estaba al principio del régimen de Caligastia, pues el levantamiento había sumido al mundo en la peor de las confusiones. (<a id="a228_450"></a>[LU 67:5.2-3](/es/The_Urantia_Book/67#p5_2))
+> El plan de Caligastia de reconstruir inmediatamente la sociedad humana según sus ideas de libertad individual y libertades colectivas desembocó en un rápido fracaso más o menos total. La sociedad retrocedió rápidamente a su antiguo nivel biológico y la lucha hacia adelante volvió a empezar en un punto no mucho más avanzado de donde estaba al principio del régimen de Caligastia, pues el levantamiento había sumido al mundo en la peor de las confusiones. (<a id="a227_459"></a>[LU 67:5.2-3](/es/The_Urantia_Book/67#p5_2))
 
 Jugar con la falsa libertad ha tenido, y seguirá teniendo, un efecto devastador en nuestro mundo. Así que hay razones para estar alerta y discernir con agudeza, no sea que nos encontremos en el lado equivocado de la lucha.
 

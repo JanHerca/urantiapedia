@@ -42,11 +42,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1350 a 1250 a.C.
 1. Fuentes: Registro yahvista en el siglo X, elohista en el VIII. Después vienen los registros sacerdotales.
-2. Hay pocas dudas de que Moisés fue una personalidad histórica. La narración de Moisés en el Libro de Urantia se encuentra en <a id="s44_116"></a>[LU 96:3.1](/es/The_Urantia_Book/96#p3_1)
+2. Hay pocas dudas de que Moisés fue una personalidad histórica. La narración de Moisés en el Libro de Urantia se encuentra en <a id="s44_127"></a>[LU 96:3.1](/es/The_Urantia_Book/96#p3_1)
 3. Los inicios de la religión de Moisés son oscuros. Pero creó un ceremonial religioso para Israel que culminó en el templo de Salomón.
 4. En todo Israel, no hubo ningún líder destacado entre Moisés y David.
 5. Los hebreos probablemente entraron en Egipto bajo el mando de los hicsos—1750-1560 a.C.
-6. Moisés pudo haber sido influenciado por el monoteísmo solar de <a id="s48_61"></a>[Amenhotep (Ikhnaton)](/es/The_Urantia_Book/95#p5_1). Esta filosofía se presenta en el Sal. 104.
+6. Moisés pudo haber sido influenciado por el monoteísmo solar de <a id="s48_66"></a>[Amenhotep (Ikhnaton)](/es/The_Urantia_Book/95#p5_1). Esta filosofía se presenta en el Sal. 104.
 7. Moisés mató a un egipcio que había golpeado a un trabajador hebreo y luego huyó hacia el Este, donde vivió con los ceneos.
 8. Moisés se casó con Séfora, la hija de Jetro. Ella le dio dos hijos.
 9. Mientras cuida las ovejas, Yahvé le habla desde la «zarza ardiente».
@@ -55,7 +55,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 12. La religión de los israelitas comienza en circunstancias milagrosas: el maná y las codornices.
 13. La religión hebrea comienza en el monte Horeb. Yahvé habla, pero no como un dios de la naturaleza. Aparece una nueva Deidad.
 14. Pero cuando Moisés se demoró demasiado en la montaña, volvieron a adorar al «becerro de oro».
-15. El suegro de Moisés le ayudó a organizar las «multitudes». Este clan ceneo, con un remanente de la religión de Salem, aceptó fácilmente la revelación de Yahvé. Ver <a id="s57_163"></a>[LU 96:5.3](/es/The_Urantia_Book/96#p5_3)
+15. El suegro de Moisés le ayudó a organizar las «multitudes». Este clan ceneo, con un remanente de la religión de Salem, aceptó fácilmente la revelación de Yahvé. Ver <a id="s57_168"></a>[LU 96:5.3](/es/The_Urantia_Book/96#p5_3)
 16. Yahvé se convierte en un «Dios de la historia», el Dios «que os sacó de la tierra de Egipto».
 17. El nuevo pacto de Yahweh se basó en su juramento a Abraham. De principio a fin, la naturaleza de Yahweh fue **santidad**.
 18. Miriam se mete en problemas por criticar a Moisés cuando se casa con una mujer etíope (cusita).

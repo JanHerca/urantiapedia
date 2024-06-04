@@ -58,7 +58,7 @@ La creación del gran universo, de los siete superuniversos, se convertirá en u
 
 ### Dios Supremo
 
-- _El Dios del tiempo y del espacio en proceso de actualización o evolución_. <a id="a59_54"></a>[[LU 0:2.16](/es/The_Urantia_Book/0#p2_16)]
+- _El Dios del tiempo y del espacio en proceso de actualización o evolución_. <a id="a60_78"></a>[[LU 0:2.16](/es/The_Urantia_Book/0#p2_16)]
 - El primer nivel donde se manifiesta la Deidad unificadora.
 - La Deidad personal que hace realidad de manera asociativa el logro experiencial en el espacio-tiempo de la identidad Creador-criatura.
 - El logro de la unidad de la Deidad como Dios en evolución y experiencial de las criaturas evolutivas del tiempo y el espacio.

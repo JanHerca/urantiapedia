@@ -25,7 +25,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
-          <span class="pr-2">“Actitud espiritual” sincera [LU 155:6.12] = “Acción positiva” [LU 159:5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«Actitud espiritual» sincera [LU 155:6.12] = «Acción positiva» [LU 159:5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -120,7 +120,7 @@ De hecho, esta es una tarea difícil. ¿Estamos preparados para hacer el esfuerz
         </td>
         <td>
         <a href="/es/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
-          <span class="pr-2">“Actitud espiritual” sincera [LU 155:6.12] = “Acción positiva” [LU 159:5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«Actitud espiritual» sincera [LU 155:6.12] = «Acción positiva» [LU 159:5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

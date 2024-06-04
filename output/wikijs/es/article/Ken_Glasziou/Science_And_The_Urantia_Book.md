@@ -80,7 +80,7 @@ ibíd., (1987), 256(4), 84.
 
 _El Libro de URANTIA_ asocia la formación de montañas en la costa occidental de América del Norte y del Sur con la deriva continental. Hoy en día, nadie duda de que la formación de montañas se produce en los bordes de los continentes a la deriva, al mismo tiempo que la subducción de la corteza oceánica. Sin embargo, prácticamente nadie creía en la deriva continental en el momento de escribir (o publicar) _El Libro de URANTIA_.
 
-Referencia: _El Libro de URANTIA_, [LU 60:3.2](/es/The_Urantia_Book/60#p3_2).
+Referencia: _El Libro de URANTIA_, <a id="a82_35"></a>[LU 60:3.2](/es/The_Urantia_Book/60#p3_2).
 
 ## Elementos estables
 

@@ -57,7 +57,7 @@ Imaginen lo maravilloso que será para todos y cada uno de los habitantes del mu
 
 Inicialmente nos dirigiremos a los jóvenes cristianos de Occidente. Muchos anhelan una relación personal con Dios, pero no la encuentran en sus religiones institucionalizadas. Con el tiempo, ampliaremos el alcance a un público más amplio.
 
-El Centro para la Unidad es una nueva organización sin ánimo de lucro creada por estudiantes de _El libro de Urantia_ para desarrollar estos proyectos. El nombre está inspirado en la religión _de_ Jesús, que «_es la influencia unificadora más poderosa que el mundo haya conocido jamás_» ([LU 194:3.17](/es/The_Urantia_Book/194#p3_17)).
+El Centro para la Unidad es una nueva organización sin ánimo de lucro creada por estudiantes de _El libro de Urantia_ para desarrollar estos proyectos. El nombre está inspirado en la religión _de_ Jesús, que «_es la influencia unificadora más poderosa que el mundo haya conocido jamás_» (<a id="a59_288"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17)).
 
 Para obtener más información, vean nuestros vídeos introductorios ([vista general](https://bit.ly/CFU-Intro_Video-EN) y [presentación en profundidad del Metaverso de Jesús](https://bit.ly/CFU-Intro-to-JM)), descarguen nuestro [paquete de información](https://bit.ly/CFU-deck-combined-public), o escríbannos a [contact@thecenterforunity.org](mailto:contact@thecenterforunity.org).
 

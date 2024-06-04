@@ -75,7 +75,7 @@ Una vez finalizada la campaña publicitaria, tendremos una opción: dejar el lib
 
 Estoy seguro de que podemos y debemos utilizar todos los medios a nuestro alcance en cuanto a herramientas modernas de marketing para distribuir _El libro de Urantia_ . Como se afirma en la parábola del mayordomo astuto,
 
-> _Si fuisteis tan diligentes en obtener ganancias para vosotros mismos cuando estabais en el servicio de vosotros mismos, ¿por qué deberíais mostrar menos diligencia en ganar almas para el reino si ahora sois servidores de la hermandad de los hombres y mayordomos de Dios?_ (<a id="a76_231"></a>[LU 169:2.2](/es/The_Urantia_Book/169#p2_2))
+> _Si fuisteis tan diligentes en obtener ganancias para vosotros mismos cuando estabais en el servicio de vosotros mismos, ¿por qué deberíais mostrar menos diligencia en ganar almas para el reino si ahora sois servidores de la hermandad de los hombres y mayordomos de Dios?_ (<a id="a77_276"></a>[LU 169:2.2](/es/The_Urantia_Book/169#p2_2))
 
 Creo que debemos utilizar todas las herramientas apropiadas, proporcionadas y razonables para llegar a los posibles lectores de _El libro de Urantia_ .
 

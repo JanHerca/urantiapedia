@@ -49,7 +49,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - El Consejo Asesor Cultural da la bienvenida a Colombia
 - Hacer crecer una escuela por amor a la revelación
 - Compartir El libro de Urantia - Sherry Cathcart Chavis
-- Lo que El libro de Urantia significa para mí - Constance “Konni” Wallach
+- Lo que El libro de Urantia significa para mí - Constance «Konni» Wallach
 - El Parlamento de las Religiones del Mundo
 - Un legado que perdura para las generaciones futuras
 
@@ -70,7 +70,7 @@ Email: urantia@urantia.org
 **Créditos de Noticias en Línea**
 
 Editores: Cece Forrester, Marilynn Kulieke, Joanne Strobel, Tamara Strumfeld
-Colaboradores: Judy Van Cleave, Marilynn Kulieke, Jaime Rey Albornoz, Joanne Strobel, Sherry Cathcart Chavis, Constance “Konni” Wallach
+Colaboradores: Judy Van Cleave, Marilynn Kulieke, Jaime Rey Albornoz, Joanne Strobel, Sherry Cathcart Chavis, Constance «Konni» Wallach
 Producción: Urantia Foundation
 
 **Fideicomisarios de la Fundación Urantia**

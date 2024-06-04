@@ -51,7 +51,7 @@ _Chicago, Illinois_
 
 Durante los últimos ocho años de publicación de La Revista URANTIANA de la Hermandad URANTIA, de vez en cuando hemos sugerido temas para números futuros para estimular a los escritores de nuestra comunidad a ofrecer su trabajo para publicación. Una vez más nos gustaría hacer cosquillas a su imaginación y a sus procesadores de texto solicitándoles su participación activa en The Journal en los próximos meses. Aquí está nuestra pregunta, basada en la siguiente cita del Documento I de _El Libro de URANTIA_:
 
-> «_La dedicación afectuosa de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacerle a Dios; de hecho, una consagración así de la voluntad de la criatura constituye el único obsequio posible de verdadero valor que el hombre puede hacerle al Padre Paradisiaco._» ([LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
+> «_La dedicación afectuosa de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacerle a Dios; de hecho, una consagración así de la voluntad de la criatura constituye el único obsequio posible de verdadero valor que el hombre puede hacerle al Padre Paradisiaco._» (<a id="a53_311"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
 
 **Pregunta**
 
@@ -64,7 +64,7 @@ Calurosamente,
 
 ---
 
-> «_Una personalidad que conoce a Dios y desea hacer su voluntad, que tiene percepción espiritual, es divinamente estable y existe eternamente. La gran aventura universal del hombre consiste en el tránsito de su mente mortal desde la estabilidad de la estática mecánica a la divinidad de la dinámica espiritual, y logra esta transformación por la fuerza y constancia de las decisiones de su propia personalidad, en cada una de las situaciones de la vida que declara. ‘Es mi voluntad que se haga tu voluntad’_» ([LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
+> «_Una personalidad que conoce a Dios y desea hacer su voluntad, que tiene percepción espiritual, es divinamente estable y existe eternamente. La gran aventura universal del hombre consiste en el tránsito de su mente mortal desde la estabilidad de la estática mecánica a la divinidad de la dinámica espiritual, y logra esta transformación por la fuerza y constancia de las decisiones de su propia personalidad, en cada una de las situaciones de la vida que declara. ‘Es mi voluntad que se haga tu voluntad’_» (<a id="a66_511"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
 
 
 

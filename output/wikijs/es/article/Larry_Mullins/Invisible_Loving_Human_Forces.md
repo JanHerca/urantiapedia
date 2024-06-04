@@ -1,5 +1,5 @@
 ---
-title: "“Fuerzas humanas invisibles y amorosas”"
+title: "«Fuerzas humanas invisibles y amorosas»"
 description: "Editorial"
 published: true
 date: 2023-09-29T14:02:03.086Z

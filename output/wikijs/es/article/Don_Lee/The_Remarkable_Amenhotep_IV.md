@@ -34,7 +34,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 Tuve la suerte de estar en El Cairo, Egipto, hace dos años. Mi primer día allí tuve que pasar la mañana en el Museo de El Cairo cuando lo único que realmente quería hacer era ver las Grandes Pirámides de Giza y la Esfinge que las custodiaba. Pero estuve atrapado durante lo que iban a ser cinco horas en un almacén desordenado y apenas organizado que contenía el orgullo de 3000 años del Antiguo Egipto. «Esto es desagradable», pensé. ¿Realmente quiero pasar mi precioso tiempo en esta lúgubre sala?" Y, sin embargo, si uno quiere aprender algo sobre ese fascinante período histórico, simplemente debe ir allí. ¡Qué ventana tan extraordinaria al pasado lejano! Vaya en el sentido de las agujas del reloj y Uno comienza a tener una idea de la cronología; tal vez alguien no simplemente arrojó todas estas cosas aquí. Allí hay una exhibición notable de artefactos y estatuas de la época de aquellos constructores de pirámides Zoser, Kefrén y Mykerinos. Ellos fueron los grandes. muchachos hace mucho tiempo, cuando el Bajo Egipto gobernaba el Nilo. Continúe y detectará que la base de poder de Egipto se desplaza hacia el sur (o hacia el Alto Egipto, como se calcula el flujo del Nilo). Fue en este período medio que Egipto alcanzó quizás la mayor de sus varias edades de oro, cuando los templos de Luxor y Karnak crecieron en tamaño e importancia y los faraones fueron enterrados en el Valle de los Reyes.
 
-Aquí en esta sala, los restos de la era de Tutmosis, quien presidió una era de vasta expansión territorial. Este rincón está dedicado a la reina Hathepsut. ¿Cómo fue tan inteligente para alcanzar el salón del poder? Me estaba emocionando ahora. Pensé: “Vaya, no puedo esperar a pasar por los faraones Amenhotep 1 al 4 porque luego está Ramsés, el gran constructor de monumentos. Después de eso, subirás para ver a Tutankamón completo. ¡Apuesto a que hay más oro allí que en todo Fort Knox!
+Aquí en esta sala, los restos de la era de Tutmosis, quien presidió una era de vasta expansión territorial. Este rincón está dedicado a la reina Hathepsut. ¿Cómo fue tan inteligente para alcanzar el salón del poder? Me estaba emocionando ahora. Pensé: «Vaya, no puedo esperar a pasar por los faraones Amenhotep 1 al 4 porque luego está Ramsés, el gran constructor de monumentos. Después de eso, subirás para ver a Tutankamón completo. ¡Apuesto a que hay más oro allí que en todo Fort Knox!
 
 Gracias a Dios por Mohammed, mi guía, que con mucho tacto me hizo pasar a una habitación relativamente pequeña y comenzó a explicarme lo que estaba mirando: «Esta habitación está dedicada a Amenhotep IV», explicó, «quien cambió temporalmente la faz de Egipto. Trasladó la ciudad capital de Karnak a Tel El Amarna y procedió a proclamar a Atón, el dios del sol, como creador y sustentador de todo. Observe los estilos artísticos muy liberalizados y cómo cada vez que se representa a Amenhotep, es en adoración y alabanza hacia Atón. Todos los demás faraones fueron bendecidos o sancionados de alguna manera por la deidad».
 
@@ -66,12 +66,12 @@ En cuanto a la historia de Adán y Eva, de hace 40.000 años, tenemos mucho meno
 
 En el Antiguo Egipto, mucho antes de Ikhenaton, hubo otro gran maestro llamado Amenope. Fue el autor real del Primer Salmo de la Biblia que adoptó Ikhnaton. Se lee en parte:
 
-“Bienaventurado el hombre...
+«Bienaventurado el hombre...
 cuyo deleite está en la ley del
 Señor.
 Él es como un arbol
 plantado por corrientes de agua
-que da su fruto en su tiempo...”
+que da su fruto en su tiempo...»
 
 Bienaventurado el notable Amenhotep IV, desaparecido ya treinta siglos, quien, como un árbol plantado junto a corrientes de agua, todavía produce su fruto espiritual en todas las estaciones.
 

@@ -46,7 +46,7 @@ El propósito de la encuesta era ayudar a que la Fundación Urantia comprendiera
 
 Se envió la encuesta a treinta personas que han participado o están participando en las siguientes traducciones o revisiones: árabe, búlgaro, chino, checo, estonio, parsi, francés, finés, alemán, hebreo, húngaro, japonés, indonesio, italiano, coreano, lituano, polaco, portugués, ruso y español – un total de veinte idiomas. Veintiocho (el 93%) completaron la encuesta.
 
-De las veintiocho personas que respondieron la encuesta, veinte eran los traductores “originales”. Esto es, primero descubrieron el texto en inglés, en lugar de descubrir y leer una traducción. Nueve eran traductores originales que participaron o están participando en la revisión de su trabajo. Ocho eran solamente revisores.
+De las veintiocho personas que respondieron la encuesta, veinte eran los traductores «originales». Esto es, primero descubrieron el texto en inglés, en lugar de descubrir y leer una traducción. Nueve eran traductores originales que participaron o están participando en la revisión de su trabajo. Ocho eran solamente revisores.
 
 Este es un resumen de las preguntas respondidas por los 28 T/R.
 <br style="clear:both;"/>

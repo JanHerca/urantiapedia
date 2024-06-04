@@ -125,20 +125,20 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		-h. Elogio de una buena esposa. [31:10-31](/es/Bible/Proverbs/31#v10).
 	6. Era costumbre hebrea asignar proverbios a Salomón y salmos a David.
 	7. Proverbios exalta al individuo más que a la nación.
-	8. [Pr 22:17](/es/Bible/Proverbs/22#v17) - [24:22](/es/Bible/Proverbs/24#v22) suena a sabiduría de [Amenemope](/es/The_Urantia_Book/95#p4_1). 1000-600 a.C. [Sal 1](/es/Bible/Psalms/1) y [Jer 17:5-8](/es/Bible/Jeremiah/17#v5) provienen de la misma fuente.
+	8. [Pr 22:17](/es/Bible/Proverbs/22#v17) - [24:22](/es/Bible/Proverbs/24#v22) suena a sabiduría de <a id="s127_100"></a>[Amenemope](/es/The_Urantia_Book/95#p4_1). 1000-600 a.C. [Sal 1](/es/Bible/Psalms/1) y [Jer 17:5-8](/es/Bible/Jeremiah/17#v5) provienen de la misma fuente.
 	9. Proverbios defiende que el hombre tiene derecho a disfrutar de los placeres materiales: el perfume, el vino, la amistad y la vida matrimonial.
 	10. El sabio evita el adulterio, la usura, el fraude, el robo y las ganancias mal habidas.
 	11. El interés propio, más que la ley moral, dicta la buena conducta.
 	12. Interésate por la viuda y el huérfano, incluso por tus enemigos.
 - B. **[Job](/es/Bible/Job)**
 	1. Job es la mayor literatura sapiencial de Israel. La pregunta de Job: «¿Por qué sufren los justos?»
-	2. La discusión de Jesús sobre Job. El Libro de Urantia, <a id="s134_48"></a>[LU 148:6.1](/es/The_Urantia_Book/148#p6_1)
+	2. La discusión de Jesús sobre Job. El Libro de Urantia, <a id="s134_58"></a>[LU 148:6.1](/es/The_Urantia_Book/148#p6_1)
 	3. Job es un desafío a la doctrina egipcio-hebraica de que los justos y los malvados reciben su merecido aquí en la tierra.
 	4. Job es un poema inmortal sobre un alma justa que sufrió, se desesperó y luchó hasta encontrar la paz y la salvación.
 	5. El libro es un gran debate filosófico sobre el problema siempre presente pero sin respuesta del MAL.
 	6. Los miserables consoladores de Job y su engreída ortodoxia no tenían la respuesta.
 	7. Job está construido en cierto modo según el orden del drama griego.
-	8. Autoría múltiple en Mesopotamia. Representante de la escuela de Salem en Kish. Véase El Libro de Urantia, <a id="s140_102"></a>[LU 95:1.6](/es/The_Urantia_Book/95#p1_6)
+	8. Autoría múltiple en Mesopotamia. Representante de la escuela de Salem en Kish. Véase El Libro de Urantia, <a id="s140_110"></a>[LU 95:1.6](/es/The_Urantia_Book/95#p1_6)
 	9. Jesús llamó al libro de Job una parábola. Dijo que era «esa obra maestra de la literatura semítica».
 	10. Después del fracaso de la teología y el colapso de la filosofía, Job obtuvo su victoria por **experiencia personal**.
 	11. Job finalmente, por fe, sale de sus problemas. Declara: «Sé el camino que tomo; cuando él me haya probado, saldré como el oro.»

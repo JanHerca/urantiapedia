@@ -60,7 +60,7 @@ Preguntas a considerar
 > 
 > Este joven, llamado Fortunato, se convirtió más tarde en el jefe de los cristianos de Creta y en el íntimo asociado de Tito en sus esfuerzos por elevar a los creyentes cretenses.
 > 
-> Los viajeros estaban realmente descansados y dispuestos cuando un buen día, a mediodía, se prepararon para zarpar hacia Cartago, en el norte de África, deteniéndose dos días en Cirene. Es aquí donde Jesús y Ganid prestaron sus primeros auxilios a un muchacho llamado Rufo, que había resultado herido al desplomarse una carreta de bueyes cargada. Lo llevaron a la casa de su madre, y en cuanto a su padre, Simón, jamás podía imaginar que el hombre cuya cruz llevaría más tarde, por orden de un soldado romano, era el mismo extranjero que en otro tiempo había socorrido a su hijo. <a id="a61_486"></a>[[LU 130:6.1-6](/es/The_Urantia_Book/130#p6_1)]
+> Los viajeros estaban realmente descansados y dispuestos cuando un buen día, a mediodía, se prepararon para zarpar hacia Cartago, en el norte de África, deteniéndose dos días en Cirene. Es aquí donde Jesús y Ganid prestaron sus primeros auxilios a un muchacho llamado Rufo, que había resultado herido al desplomarse una carreta de bueyes cargada. Lo llevaron a la casa de su madre, y en cuanto a su padre, Simón, jamás podía imaginar que el hombre cuya cruz llevaría más tarde, por orden de un soldado romano, era el mismo extranjero que en otro tiempo había socorrido a su hijo. <a id="a62_581"></a>[[LU 130:6.1-6](/es/The_Urantia_Book/130#p6_1)]
 
 
 ## Referencias

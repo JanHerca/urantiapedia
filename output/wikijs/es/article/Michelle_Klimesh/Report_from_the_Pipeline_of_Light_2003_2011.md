@@ -38,7 +38,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2011_09/023.jpg">
 </figure>
 
-_De Michelle Klimesh, coordinadora del “Canal de Luz”, Danville (California, EEUU)_
+_De Michelle Klimesh, coordinadora del «Canal de Luz», Danville (California, EEUU)_
 
 Este verano el Canal de Luz alcanzó un hito. En los ocho años transcurridos desde su origen, se han colocado un total de tres mil ejemplares de _El libro de Urantia_ en todo el mundo. El Canal de Luz es un servicio de la Fellowship. Sin embargo, nuestros esfuerzos son verdaderamente cooperativos con el volumen de libros que enviamos cada año, y que son traducciones publicadas por la Fundación Urantia. La traducción española de _El libro de Urantia_ es nuestro libro más solicitado.
 

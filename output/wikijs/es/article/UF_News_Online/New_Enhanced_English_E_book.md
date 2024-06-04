@@ -50,7 +50,7 @@ Si respondió afirmativamente a alguna de estas preguntas, ¡le encantará nuest
 
 La Fundación Urantia se complace en llevar **_La edición mejorada del Libro de Urantia_** al dispositivo electrónico de su elección: teléfono inteligente, tableta o lector electrónico como [Kindle](https://www.amazon.com/Urantia-Book-Enhanced-Foundation-ebook/dp/B08SHWBX6N/ref=sr_1_1_sspa?crid=2KI6O3TS0N508&dchild=1&keywords=the+urantia+book+enhanced+edition&qid=1618859055&sprefix=the+urantia+book+enhanced%2Caps%2C168&sr=8-1-spons&psc=1&spLa=ZW5jcnlw) o [Kobo](https://www.kobo.com/us/en/ebook/the-urantia-book-enhanced-edition) .
 
-Ahora más que nunca, a la gente le encanta la idea de hacer **todo** desde prácticamente **cualquier lugar** y con **cualquier** dispositivo. Los “libros electrónicos” han revolucionado la forma en que leemos y estudiamos.
+Ahora más que nunca, a la gente le encanta la idea de hacer **todo** desde prácticamente **cualquier lugar** y con **cualquier** dispositivo. Los «libros electrónicos» han revolucionado la forma en que leemos y estudiamos.
 
 Leer y estudiar _El Libro de Urantia_ nunca ha sido tan cómodo ni tan portátil. Por primera vez puedes disfrutar de una biblioteca de ayudas para el estudio al alcance de tu mano por el bajo precio de **$5,99.**
 

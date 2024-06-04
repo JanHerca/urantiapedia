@@ -78,20 +78,20 @@ Carlos Rubinsky
 <img src="/image/article/IUA_Tidings/Tassie-Study-Group-300x225.jpg">
 </figure>
 
-Saludos cordiales a todos mis compañeros estudiantes de _El libro de Urantia_ que están repartidos por Australia y, por supuesto, por este asombroso planeta llamado Urantia. A lo largo de los últimos meses, nuestro pequeño grupo de estudio aquí en Tasmania ha más que duplicado su tamaño… ahora tenemos seis asistentes habituales en nuestras reuniones quincenales y otros que vienen de manera intermitente. Fue una gran alegría reunirnos el fin de semana del Día del Estudio y saber que formábamos parte de un movimiento mundial de buscadores de la verdad deseosos de aprender más sobre este destacado filósofo griego llamado Rodán, «uno de los más grandes de su raza.”
+Saludos cordiales a todos mis compañeros estudiantes de _El libro de Urantia_ que están repartidos por Australia y, por supuesto, por este asombroso planeta llamado Urantia. A lo largo de los últimos meses, nuestro pequeño grupo de estudio aquí en Tasmania ha más que duplicado su tamaño… ahora tenemos seis asistentes habituales en nuestras reuniones quincenales y otros que vienen de manera intermitente. Fue una gran alegría reunirnos el fin de semana del Día del Estudio y saber que formábamos parte de un movimiento mundial de buscadores de la verdad deseosos de aprender más sobre este destacado filósofo griego llamado Rodán, «uno de los más grandes de su raza.»
 
 Los Reveladores se sintieron claramente impresionados con la comprensión que este hombre tenía de la verdad, la belleza y la bondad; ¡dedicaron un documento entero a su filosofía de vida! Hubo mucho de lo que hablar, pero he aquí algunas de las «joyas» que descubrimos:
 <br style="clear:both;"/>
 
-> _Los animales no conocen el significado de la vida; el hombre no sólo posee la capacidad de reconocer los valores y de comprender los significados, sino que también tiene conciencia del significado de los significados — es consciente de su propia perspicacia._ <a id="a84_224"></a>[[LU 160:1.5](/es/The_Urantia_Book/160#p1_5)]
+> _Los animales no conocen el significado de la vida; el hombre no sólo posee la capacidad de reconocer los valores y de comprender los significados, sino que también tiene conciencia del significado de los significados — es consciente de su propia perspicacia._ <a id="a85_263"></a>[[LU 160:1.5](/es/The_Urantia_Book/160#p1_5)]
 
-> _Sólo una persona valiente está dispuesta a admitir honradamente aquello que descubre una mente sincera y lógica, y a enfrentarse a ello sin temor._ <a id="a86_121"></a>[[LU 160:1.7](/es/The_Urantia_Book/160#p1_7)]
+> _Sólo una persona valiente está dispuesta a admitir honradamente aquello que descubre una mente sincera y lógica, y a enfrentarse a ello sin temor._ <a id="a87_151"></a>[[LU 160:1.7](/es/The_Urantia_Book/160#p1_7)]
 
-> _Simplemente debéis tener tacto y tolerancia._ <a id="a88_45"></a>[[LU 160:1.9](/es/The_Urantia_Book/160#p1_9)]
+> _Simplemente debéis tener tacto y tolerancia._ <a id="a89_49"></a>[[LU 160:1.9](/es/The_Urantia_Book/160#p1_9)]
 
-> _Me impresiona profundamente la costumbre de Jesús de retirarse a solas para emprender esos períodos de examen solitario de los problemas de la vida._ <a id="a90_150"></a>[[LU 160:1.11](/es/The_Urantia_Book/160#p1_11)]
+> _Me impresiona profundamente la costumbre de Jesús de retirarse a solas para emprender esos períodos de examen solitario de los problemas de la vida._ <a id="a91_153"></a>[[LU 160:1.11](/es/The_Urantia_Book/160#p1_11)]
 
-> _Esta práctica de adoración de vuestro Maestro aporta ese descanso que renueva la mente, esa iluminación que inspira el alma, ese valor que permite enfrentarse valientemente con los problemas de uno mismo, esa comprensión de sí mismo que elimina el temor debilitante, y esa conciencia de la unión con la divinidad que equipa al hombre con la seguridad que le permite atreverse a ser como Dios. El descanso de la adoración, o comunión espiritual, tal como la practica el Maestro, alivia la tensión, elimina los conflictos y aumenta poderosamente los recursos totales de la personalidad._ <a id="a92_556"></a>[[LU 160:1.12](/es/The_Urantia_Book/160#p1_12)]
+> _Esta práctica de adoración de vuestro Maestro aporta ese descanso que renueva la mente, esa iluminación que inspira el alma, ese valor que permite enfrentarse valientemente con los problemas de uno mismo, esa comprensión de sí mismo que elimina el temor debilitante, y esa conciencia de la unión con la divinidad que equipa al hombre con la seguridad que le permite atreverse a ser como Dios. El descanso de la adoración, o comunión espiritual, tal como la practica el Maestro, alivia la tensión, elimina los conflictos y aumenta poderosamente los recursos totales de la personalidad._ <a id="a93_589"></a>[[LU 160:1.12](/es/The_Urantia_Book/160#p1_12)]
 
 Y mucho más…
 

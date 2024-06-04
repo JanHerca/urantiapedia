@@ -44,9 +44,9 @@ Bert Cobb, de Jerome (Idaho), lector veterano de _El libro de Urantia_, buen ami
 <img src="/image/article/UF_News_Online/2009_09/046.jpg">
 </figure>
 
-Bert buscó vivir con la profunda sabiduría y la perspectiva cósmica recogida de las enseñanzas de _El libro de Urantia_. Era maestro electricista y prestó su servicio como voluntario en la sede de la Fundación Urantia. Su pasatiempo favorito era cargar sus mulas y caballos y dirigirse hacia los bellos espacios naturales del Parque Nacional Sawtooth, y hace dos años tuve el privilegio de acompañarle en uno de esos viajes. Bert era ministro ordenado, cazador de ciervos y alces (que comía todo lo que cazaba) y poeta cowboy. A su poema “Jesus was a working man” (Jesús era un trabajador) se le puso música y fue grabado como una canción country.
+Bert buscó vivir con la profunda sabiduría y la perspectiva cósmica recogida de las enseñanzas de _El libro de Urantia_. Era maestro electricista y prestó su servicio como voluntario en la sede de la Fundación Urantia. Su pasatiempo favorito era cargar sus mulas y caballos y dirigirse hacia los bellos espacios naturales del Parque Nacional Sawtooth, y hace dos años tuve el privilegio de acompañarle en uno de esos viajes. Bert era ministro ordenado, cazador de ciervos y alces (que comía todo lo que cazaba) y poeta cowboy. A su poema «Jesus was a working man» (Jesús era un trabajador) se le puso música y fue grabado como una canción country.
 
-Hace unas semanas, un grupo de lectores de _El libro de Urantia_ celebró el cumpleaños de Jesús en la hacienda de Bert, que él llamó “Un lugar en el espacio y el tiempo”. En este encuentro, durante la interpretación musical de Bob Solone, recité un poema que había compuesto para esta ocasión. Varios de los asistentes me animaron a compartirlo con todos ustedes en esta revista, así que se reproduce a continuación.
+Hace unas semanas, un grupo de lectores de _El libro de Urantia_ celebró el cumpleaños de Jesús en la hacienda de Bert, que él llamó «Un lugar en el espacio y el tiempo». En este encuentro, durante la interpretación musical de Bob Solone, recité un poema que había compuesto para esta ocasión. Varios de los asistentes me animaron a compartirlo con todos ustedes en esta revista, así que se reproduce a continuación.
 
 **BERTITO BERT BERTIE**
 

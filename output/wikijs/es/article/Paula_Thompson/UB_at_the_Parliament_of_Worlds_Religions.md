@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 Por Paula J. Thompson, Boulder, Colorado
 
-«El reino de los cielos no es un orden social ni económico; es una hermandad exclusivamente espiritual de individuos que conocen a Dios.», (El Libro de Urantia, <a id="a15_161"></a>[LU 99:3.2](/es/The_Urantia_Book/99#p3_2))
+«El reino de los cielos no es un orden social ni económico; es una hermandad exclusivamente espiritual de individuos que conocen a Dios.», (El Libro de Urantia, <a id="a39_161"></a>[LU 99:3.2](/es/The_Urantia_Book/99#p3_2))
 
 El primer Parlamento de las Religiones del Mundo tuvo lugar en 1893 en el Hotel Palmer House de Chicago. La lista de religiones representadas en ese evento histórico parece un quién es quién de las religiones del siglo XX.
 

@@ -139,7 +139,7 @@ El grupo estaba estudiando el Documento 14, El Universo Central y Divino, cuando
 
 
 
-Tanto en los negocios como en la espiritualidad, he aprendido a no prejuzgar ni subestimar la curiosidad o la tenacidad de las personas, el perfecto funcionamiento de sus Ajustadores y los poderes de tres grandes espíritus discernidores de la revelación: el Espíritu de la Verdad de Miguel; las sensibilidades autootorgantes y ayudantes del Espíritu Materno y la «respuesta a la realidad» mentalmente inherente. (<a id="a117_413"></a>[LU 16:6.4](/es/The_Urantia_Book/16#p6_4))
+Tanto en los negocios como en la espiritualidad, he aprendido a no prejuzgar ni subestimar la curiosidad o la tenacidad de las personas, el perfecto funcionamiento de sus Ajustadores y los poderes de tres grandes espíritus discernidores de la revelación: el Espíritu de la Verdad de Miguel; las sensibilidades autootorgantes y ayudantes del Espíritu Materno y la «respuesta a la realidad» mentalmente inherente. (<a id="a141_413"></a>[LU 16:6.4](/es/The_Urantia_Book/16#p6_4))
 
 Entre otros que asisten regularmente al grupo se encuentran Dick y Peggy Johnson y Eva McMahon. Aunque Larry es el anfitrión, no es necesariamente el líder. El grupo tiende a liderarse a sí mismo y depende de la sabiduría colectiva de sus miembros, quienes en conjunto tienen alrededor de 100 años de lectores. La mayoría de los miembros de este grupo asisten a otros grupos de estudio en el área de Phoenix.
 

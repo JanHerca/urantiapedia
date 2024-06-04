@@ -56,7 +56,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Por muchas razones es difícil aceptar a Santiago, el hermano del Señor, como autor de esta epístola.
 2. Los hermanos de Jesús tardaron en aceptar su misión divina; en la crucifixión entregó a su madre al cuidado del apóstol Juan.
 3. Nada en esta epístola siquiera insinúa una asociación íntima del autor con Jesús.
-	**Nota**: Si Santiago lo escribió, puede ser que dudara en referirse a la relación familiar con Jesús debido a las circunstancias peculiares del encuentro abortado de la familia con Jesús en Capernaum, cuando Jesús pronunció esas palabras que sorprendió tanto a su familia: «No tengo madre ni hermanos». (El Libro de Urantia, <a id="s58_325"></a>[LU 154:6.5)](/es/The_Urantia_Book/154#p6_5))
+	**Nota**: Si Santiago lo escribió, puede ser que dudara en referirse a la relación familiar con Jesús debido a las circunstancias peculiares del encuentro abortado de la familia con Jesús en Capernaum, cuando Jesús pronunció esas palabras que sorprendió tanto a su familia: «No tengo madre ni hermanos». (El Libro de Urantia, <a id="s58_327"></a>[LU 154:6.5)](/es/The_Urantia_Book/154#p6_5))
 4. Este libro de Santiago fue escrito por un escritor erudito; es literatura helenística de clase alta.
 5. Esta epístola fue escrita en griego. Probablemente Santiago sólo dominaba el arameo.
 6. Hay un elemento de prueba que exige atención. Muchas de las 230 palabras utilizadas por Santiago en [Hch 15:13-30](/es/Bible/Acts_of_the_Apostles/15#v13) sí aparecen en la epístola de Santiago.

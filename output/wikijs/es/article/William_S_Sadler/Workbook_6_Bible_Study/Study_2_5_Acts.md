@@ -52,7 +52,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Paternidad literaria
 
-1. Lucas escribió el libro de Hechos, probablemente en Roma, alrededor del año 90 d.C. Murió poco antes de terminar Hechos. (Ver Libro de Urantia <a id="s54_119"></a>[LU 121:8.8](/es/The_Urantia_Book/121#p8_8)).
+1. Lucas escribió el libro de Hechos, probablemente en Roma, alrededor del año 90 d.C. Murió poco antes de terminar Hechos. (Ver Libro de Urantia <a id="s54_146"></a>[LU 121:8.8](/es/The_Urantia_Book/121#p8_8)).
 2. Lucas era de Antioquía de Pisidia.
 3. Fue compañero de Pablo durante varios años: su médico privado.
 4. Pablo se refiere a Lucas como uno de sus compañeros de trabajo. Filemón v.24.

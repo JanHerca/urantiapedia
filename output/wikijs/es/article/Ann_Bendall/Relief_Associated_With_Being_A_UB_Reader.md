@@ -41,7 +41,7 @@ Qué maravilloso alivio saber que vivimos en un universo amoroso y de orden. Y d
 
 Para nombrar sólo unos pocos:
 
-1. Un maestro: no necesito buscar un maestro. Para la eternidad tengo un Maestro, alguien que me guía y ese alguien es Miguel el camino, la verdad y la luz. En Miguel tenemos un hermoso y amoroso Hijo Creador que conoce exactamente el planeta en el que vivimos y lo que se siente al vivir como un mortal y mientras tropezamos en nuestro camino hacia el Paraíso, sabemos que él nos está «arrastrando» o «empujando». “Nosotros a veces, para siempre nuestro amo y líder.
+1. Un maestro: no necesito buscar un maestro. Para la eternidad tengo un Maestro, alguien que me guía y ese alguien es Miguel el camino, la verdad y la luz. En Miguel tenemos un hermoso y amoroso Hijo Creador que conoce exactamente el planeta en el que vivimos y lo que se siente al vivir como un mortal y mientras tropezamos en nuestro camino hacia el Paraíso, sabemos que él nos está «arrastrando» o «empujando». Nosotros a veces, para siempre nuestro amo y líder.
 2. Un gurú: todo lo que necesito saber es que mi gurú es mi Ajustador del Pensamiento quien, con suerte, algún día será mi Controlador del Pensamiento. No necesito hurgar en libros ni perseguir seres humanos. Todo lo que necesito es preguntar en oración y, suponiendo que sea el momento adecuado y que mi capacidad de comprensión esté libre de falsas ilusiones sobre mí mismo, el mundo y otras personas, se me dará la respuesta. Y escucharé la respuesta tal como se dice.
 3. Relación con otras personas. Ya no necesito intentar averiguar quién eres y por qué nos conocimos. ¿Por qué no deberíamos encontrarnos? Todos somos hermanos y hermanas. ¿Con qué propósito los hermanos y hermanas deben tener contacto unos con otros?
 4. Lo que tengo que hacer en la vida. Es realmente muy simple, todo lo que tengo que hacer es la voluntad de Dios y eso significa que H$ es W$ i 11 en H$ es T$ i yo.
@@ -62,7 +62,7 @@ Ann Bendall, Nambour, QLD
 
 <figure id="Figure_3" class="image urantiapedia" alt="coin">
 <img src="/image/article/606/coin7.jpg">
-<figcaption>Esta moneda forma parte de una serie de 50 acuñadas entre 1879 y 1915 por E.W. Cole. Fueron diseñados como tokens publicitarios, para ser utilizados en 3D. descuento en cualquier compra en “Coles Book Arcade” en Bourke Street, Melbourne.</figcaption>
+<figcaption>Esta moneda forma parte de una serie de 50 acuñadas entre 1879 y 1915 por E.W. Cole. Fueron diseñados como tokens publicitarios, para ser utilizados en 3D. descuento en cualquier compra en «Coles Book Arcade» en Bourke Street, Melbourne.</figcaption>
 </figure>
 
 

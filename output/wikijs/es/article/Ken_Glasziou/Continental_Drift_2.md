@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T04:49:50.339Z
 </figure>
 
 
-La naturaleza profética del relato de _El Libro de Urantia_ sobre la deriva continental y algunas de sus consecuencias ahora han recibido aprobación en un libro del profesor de geología, M.A.S. McMenamin, titulado «El jardín de Ediacara», informado por Larry Mullins en el reciente "Spiritual Fellowship Journal .” Las siguientes citas del libro de McMenamin siguieron a la atención del autor por el contenido de _El Libro de Urantia_:
+La naturaleza profética del relato de _El Libro de Urantia_ sobre la deriva continental y algunas de sus consecuencias ahora han recibido aprobación en un libro del profesor de geología, M.A.S. McMenamin, titulado «El jardín de Ediacara», informado por Larry Mullins en el reciente «Spiritual Fellowship Journal.» Las siguientes citas del libro de McMenamin siguieron a la atención del autor por el contenido de _El Libro de Urantia_:
 
 > «Los miembros anónimos del Cuerpo de Urantia dieron con algunas revelaciones científicas notables a mediados de la década de 1930. Adoptaron la deriva continental en un momento en que estaba decididamente fuera de moda en la comunidad científica. Reconocieron la presencia de un supercontinente global (Rodinia) y superocéano (Mirovia), que existían en la Tierra antes de Pangea... El concepto de un supercontinente de mil millones de años (la edad aceptada actualmente para la formación de Rodinia) que posteriormente se dividió, formando cuencas oceánicas que se ensanchan gradualmente en las que la vida floreció, está indiscutiblemente presente en el libro.»
 > 

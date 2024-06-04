@@ -47,7 +47,7 @@ Desde el 16 de septiembre de 2017, el Comité de Educación de la Asociación Ur
 y que …
 
 
-> _… esos nuevos instructores de la religión de Jesús … se consagrarán exclusivamente a la regeneración espiritual de los hombres_. <a id="a48_111"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> _… esos nuevos instructores de la religión de Jesús … se consagrarán exclusivamente a la regeneración espiritual de los hombres_. <a id="a49_132"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
 Las sesiones han sido instructivas y han dado que pensar, y han participado en ellas estudiantes de _El libro de Urantia_ de distintos países como Canadá, EEUU, Francia, Suiza, Israel, México, Guatemala, Alemania, Perú y Bélgica.
 
@@ -57,7 +57,7 @@ Compartimos a continuación con ustedes algunos de los temas y enseñanzas prese
 
 Gaétan es el presidente de Grupos de Estudio de la Asociación Urantia, y presentó tres sesiones sobre el tema «_Enseñamos lo que somos_«. En su primera sesión, Gaétan enseñó:
 
-“Para ser instructores efectivos de la verdad espiritual, debemos primero personificar las enseñanzas que pretendemos enseñar. Con nuestra lealtad a esas enseñanzas nos volveremos verdaderamente mejores instructores y líderes y día tras día nos volveremos ejemplos vivientes de las enseñanzas de Jesús».
+«Para ser instructores efectivos de la verdad espiritual, debemos primero personificar las enseñanzas que pretendemos enseñar. Con nuestra lealtad a esas enseñanzas nos volveremos verdaderamente mejores instructores y líderes y día tras día nos volveremos ejemplos vivientes de las enseñanzas de Jesús».
 
 En su segunda sesión, habló sobre:
 
@@ -71,7 +71,7 @@ Nos pidió que enumeráramos diferentes tipos de servicio en los que podríamos 
 
 ## Guy Perron, Montreal (Canadá)
 
-Guy es profesor-facilitador y miembro de la junta directiva de la Escuela de _El libro de Urantia_ en Internet (UBIS). Guy presentó una sesión sobre el tema _“La vida interior: ir hacia dentro, hacia arriba, hacia fuera, sin cesar”._ Nos dijo:
+Guy es profesor-facilitador y miembro de la junta directiva de la Escuela de _El libro de Urantia_ en Internet (UBIS). Guy presentó una sesión sobre el tema _«La vida interior: ir hacia dentro, hacia arriba, hacia fuera, sin cesar»._ Nos dijo:
 
 «Sería un gran desafío para nosotros, seres humanos, humildes mortales ascendentes, captar y comprender verdaderamente cuál es el propósito de la vida interior. Gran parte de nuestra vida tiene que ver con lo que pasa en el exterior».
 
@@ -99,7 +99,7 @@ Jeff presentó dos sesiones de talleres. El 11 de noviembre dirigió una sesión
 
 «Ya sean nuestros talentos para el liderazgo pequeños o grandes, son parte del proceso de hacernos como Dios. Las criaturas que conocen a Dios solo tienen una ambición suprema, un deseo ardiente, y es volverse, tal como ellas son en sus esferas, semejantes a como él es en su perfección paradisíaca de personalidad _y en su esfera universal de justa supremacía_. \[Documento 1:0.3, página 21:3\]. Volverse como Dios _en nuestra esfera_ significa (además de adquirir autodominio y la hermosa totalidad de la rectitud) convertirse en un buen líder, incluso en una actividad temporal y mundana como mostrarle a otra persona cómo hacer algo sencillo u organizar a unas pocas personas para preparar una comida. Todos tenemos oportunidad de ser líderes, ya lo veamos de una manera o de otra. Y hacemos bien en estudiar los caminos del liderazgo divino y sus profundas conexiones con el servicio y el trabajo en equipo». Si quieren leer más sobre esta hermosa lección, vayan a: [https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork](https://sites.google.com/site/ubquestionsandstudies/training-leaders/principles-of-leadership-and-teamwork)
 
-Se presentarán talleres durante el resto de noviembre y diciembre a cargo de Chris Wood, sobre el tema _«Una vida de servicio”_ (25 de noviembre de 2017), y de Guy Perron, que continuará presentando su curso sobre _“La vida interior”_ (2 y 9 de diciembre de 2017). Si quieren ver los vídeos de los talleres, visiten el canal de Youtube de la Asociación Urantia Internacional: 
+Se presentarán talleres durante el resto de noviembre y diciembre a cargo de Chris Wood, sobre el tema _«Una vida de servicio»_ (25 de noviembre de 2017), y de Guy Perron, que continuará presentando su curso sobre _«La vida interior»_ (2 y 9 de diciembre de 2017). Si quieren ver los vídeos de los talleres, visiten el canal de Youtube de la Asociación Urantia Internacional: 
 
 https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA
 

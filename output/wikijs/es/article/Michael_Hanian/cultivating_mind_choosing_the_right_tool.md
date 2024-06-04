@@ -57,7 +57,7 @@ Espero ser sincero.
 
 Espero poder compartir con ustedes cosas preciosas para mí, pues, como se nos dice:
 
-> _El hombre que conoce a Dios describe sus experiencias espirituales… para la edificación y la satisfacción mutua de los creyentes.”_ <a id="a58_119"></a>[[LU 1:6.6](/es/The_Urantia_Book/1#p6_6)]
+> _El hombre que conoce a Dios describe sus experiencias espirituales… para la edificación y la satisfacción mutua de los creyentes._ <a id="a59_134"></a>[[LU 1:6.6](/es/The_Urantia_Book/1#p6_6)]
 
 En 1986 tuve un sueño. Estaba en la playa. El tiempo era muy bueno, no hacía viento, el sol brillaba suavemente. De repente, una ola gigante rompió en la orilla y me llevó con ella.  Me sentí desvalido, daba manotazos e intenté instintivamente agarrarme a algo. Era extraño, pero no tenía miedo.
 
@@ -95,7 +95,7 @@ Y justo después de esta idea, llegó otra: puedo aprender a usar mi fe como una
 
 Finalmente tuve esa seguridad después de leer estas maravillosas palabras:
 
-> _La fe es la inspiración de la imaginación creativa impregnada de espíritu._ <a id="a96_69"></a>[[LU 132:3.5](/es/The_Urantia_Book/132#p3_5)]
+> _La fe es la inspiración de la imaginación creativa impregnada de espíritu._ <a id="a97_79"></a>[[LU 132:3.5](/es/The_Urantia_Book/132#p3_5)]
 
 ## Creatividad
 
@@ -141,8 +141,8 @@ Aviso: antes de continuar, lea atentamente las instrucciones.
 2. Entorno operativo: la vida diaria.
 3. Medidas de seguridad:
 
-- Manejar con cuidado: la fe es tanto poderosa como delicada. Cuando se abusa de ella, puede llevar a **_«convulsiones de fanatismo»_** <a id="a142_119"></a>[[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)]
-- No exponer la herramienta en un entorno hostil: no **_«arrojéis vuestras perlas delante de los cerdos”_** <a id="a143_90"></a>[[LU 140:3.18](/es/The_Urantia_Book/140#p3_18)]
+- Manejar con cuidado: la fe es tanto poderosa como delicada. Cuando se abusa de ella, puede llevar a **_«convulsiones de fanatismo»_** <a id="a143_136"></a>[[LU 110:4.5](/es/The_Urantia_Book/110#p4_5)]
+- No exponer la herramienta en un entorno hostil: no **_«arrojéis vuestras perlas delante de los cerdos»_** <a id="a144_108"></a>[[LU 140:3.18](/es/The_Urantia_Book/140#p3_18)]
 - Preservar bien: aunque no hay fecha de caducidad en el paquete, la inactividad prolongada puede dar como resultado que la herramienta se oxide. Eso significa que usen su fe.
 
 ¡Pero no hay ninguna palabra sobre cómo usarla!
@@ -155,13 +155,13 @@ Lo que era aún más importante, no sabía exactamente por qué aplicaría mi fe
 
 Se convirtió en mi segunda elección racional e intelectual en el camino para tener una mente mejor cultivada. Pero, ¿por qué elegí el miedo como el objetivo clave?
 
-Si tuviera que señalar solo una cualidad negativa que afectara a mi vida entera, sería el miedo. En _El libro de Urantia_ se dice muy certeramente: **_«El miedo es el principal tirano del hombre.»_** <a id="a156_177"></a>[[LU 142:0.2](/es/The_Urantia_Book/142#p0_2)] Se nos dice que hemos heredado el miedo del reino animal. Un Portador de Vida admira al caballo, pero lamenta el hecho de que se asuste tan fácilmente. Bien, he aquí un mensaje para nosotros los humanos: en tanto que un caballo asustado huye, el hombre mata por miedo. O le matan. Se nos dice que **_«el miedo puede matar.»_** <a id="a156_536"></a>[[LU 88:4.8](/es/The_Urantia_Book/88#p4_8)] Se nos dice también que **_«… el miedo es un fraude intelectual magistral ejercido sobre el alma mortal en evolución.»_** <a id="a156_687"></a>[[LU 48:7.4](/es/The_Urantia_Book/48#p7_4)] Y es bastante obvio que este fraude se practica mediante la intervención de la mente.
+Si tuviera que señalar solo una cualidad negativa que afectara a mi vida entera, sería el miedo. En _El libro de Urantia_ se dice muy certeramente: **_«El miedo es el principal tirano del hombre.»_** <a id="a157_200"></a>[[LU 142:0.2](/es/The_Urantia_Book/142#p0_2)] Se nos dice que hemos heredado el miedo del reino animal. Un Portador de Vida admira al caballo, pero lamenta el hecho de que se asuste tan fácilmente. Bien, he aquí un mensaje para nosotros los humanos: en tanto que un caballo asustado huye, el hombre mata por miedo. O le matan. Se nos dice que **_«el miedo puede matar.»_** <a id="a157_573"></a>[[LU 88:4.8](/es/The_Urantia_Book/88#p4_8)] Se nos dice también que **_«… el miedo es un fraude intelectual magistral ejercido sobre el alma mortal en evolución.»_** <a id="a157_739"></a>[[LU 48:7.4](/es/The_Urantia_Book/48#p7_4)] Y es bastante obvio que este fraude se practica mediante la intervención de la mente.
 
-Qué hace exactamente el miedo con nuestra mente y nuestra personalidad? Un Consejero Divino nos avisa de que **desvirtuamos** nuestra mente con **_«… ansiedades inútiles.»_** <a id="a158_144"></a>[[LU 9:5.7](/es/The_Urantia_Book/9#p5_7)] Y la ansiedad es un subproducto del miedo. Un Mensajero Solitario afirma que el miedo **contamina** la fuente de la fe,**_«… la fuente de la fe contaminada por los venenos del miedo.»_** <a id="a158_361"></a>[[LU 111:7.5](/es/The_Urantia_Book/111#p7_5)] Los intermedios señalan sobre el miedo que **_«… impide eficazmente que las almas honradas… acepten la nueva luz del evangelio…»_** <a id="a158_516"></a>[[LU 159:4.9](/es/The_Urantia_Book/159#p4_9)] negrita añadida
+Qué hace exactamente el miedo con nuestra mente y nuestra personalidad? Un Consejero Divino nos avisa de que **desvirtuamos** nuestra mente con **_«… ansiedades inútiles.»_** <a id="a159_175"></a>[[LU 9:5.7](/es/The_Urantia_Book/9#p5_7)] Y la ansiedad es un subproducto del miedo. Un Mensajero Solitario afirma que el miedo **contamina** la fuente de la fe,**_«… la fuente de la fe contaminada por los venenos del miedo.»_** <a id="a159_404"></a>[[LU 111:7.5](/es/The_Urantia_Book/111#p7_5)] Los intermedios señalan sobre el miedo que **_«… impide eficazmente que las almas honradas… acepten la nueva luz del evangelio…»_** <a id="a159_582"></a>[[LU 159:4.9](/es/The_Urantia_Book/159#p4_9)] negrita añadida
 
-Entonces, ¿qué es el miedo? El miedo es lo opuesto al amor.  Amor y miedo se excluyen mutuamente. Estas dos sustancias no se mezclan. Donde hay miedo, no hay amor. Donde hay amor, no hay miedo. Es eternamente cierto que **«****_… el amor de Dios… expulsa todo temor.”_** <a id="a160_264"></a>[[LU 48:6.8](/es/The_Urantia_Book/48#p6_8)] Por eso a los Ajustadores **«****_… les gustaría cambiar…_** \[nuestros\]**_… sentimientos de temor en convicciones de amor…”_** <a id="a160_418"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
+Entonces, ¿qué es el miedo? El miedo es lo opuesto al amor.  Amor y miedo se excluyen mutuamente. Estas dos sustancias no se mezclan. Donde hay miedo, no hay amor. Donde hay amor, no hay miedo. Es eternamente cierto que **«_… el amor de Dios… expulsa todo temor.»_** <a id="a161_267"></a>[[LU 48:6.8](/es/The_Urantia_Book/48#p6_8)] Por eso a los Ajustadores **«_… les gustaría cambiar…_** \[nuestros\]**_… sentimientos de temor en convicciones de amor…»_** <a id="a161_436"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
 
-¿Pero puede ser útil el miedo? Claro que sí. Para el cuerpo. Avisa, previene, nos hace pedir ayuda. Pero cuanto más comprendemos las palabras del Maestro de que **«no solo de pan vive el hombre****_.”_** <a id="a162_199"></a>[[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)] menos necesitamos el miedo. Y más necesitamos amor. Y más se convierte la fe en el puente sobre aguas turbulentas de nuestra mente.
+¿Pero puede ser útil el miedo? Claro que sí. Para el cuerpo. Avisa, previene, nos hace pedir ayuda. Pero cuanto más comprendemos las palabras del Maestro de que **«no solo de pan vive el hombre_.»_** <a id="a163_200"></a>[[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)] menos necesitamos el miedo. Y más necesitamos amor. Y más se convierte la fe en el puente sobre aguas turbulentas de nuestra mente.
 
 Una vez comencé a usar la nueva herramienta, mostró algunas cualidades bastante inesperadas—y maravillosas—.
 
@@ -171,11 +171,11 @@ Como con muchas otras cosas, hubo un punto de inflexión. Un punto de inflexión
 
 Ocurrió durante uno de esos debates rutinarios. «¿Qué vas a comer?»—gritaba mi mente, activada por el miedo. «¡No estás siendo responsable! ¡Tienes una familia! Deberías de dejar de escribir música, que casi no te da nada, y comenzar a hacer lo que hace todo el mundo: ganarse la vida.» Intentaba responder, pero mis respuestas eran débiles.
 
-De repente, mi hija entró en la habitación.  “Papá, ¿tocarás conmigo esta canción?»
+De repente, mi hija entró en la habitación.  «Papá, ¿tocarás conmigo esta canción?»
 
 «¿Cuál?», le pregunté.
 
-«La que escribiste ayer para mí.”
+«La que escribiste ayer para mí.»
 
 Y eso hice. Y vi lo feliz que ella estaba. Y me di cuenta de que todo lo que era realmente importante en mi vida ya estaba allí. Y comprendí que podía hacerlo sin miedo.
 
@@ -185,7 +185,7 @@ He aquí de nuevo el problema de elegir. Elegir entre ahora y después. Elegir e
 
 Al final del día, se trata de elegir entre creer y no creer. Porque, si creemos verdaderamente en Dios, no puede haber miedo. Solo tenemos miedo en la misma proporción en que no tenemos fe. Así que el miedo no se convierte en otra manera de decir: **ten fe**. El problema de combatir el miedo es el problema fundamental de permitir que la fe tome la delantera en los asuntos humanos.
 
-**_«No temáis»_** <a id="a186_17"></a>[[LU 100:7.15](/es/The_Urantia_Book/100#p7_15)] era el lema del Maestro porque, cuando tenemos miedo, no podemos amar verdaderamente. Fue el miedo que actuó a través de sus diferentes materializaciones—celos, desconfianza, sospecha, envida y vengatividad—lo que arruinó a Judas. El miedo por su vida llevó a Pedro al estado muy peligroso de negar a su Maestro— ¿no estuvo cerca de seguir los pasos de Judas? El miedo a la pérdida material llevó a Matadormo a rechazar la oferta del Maestro. ¿Tenía fundamento su miedo? No. Los intermedios nos revelan que Matadormo habría recuperado todos sus tesoros si hubiera aceptado su nuevo papel. El miedo a tener problemas con los judíos llevó a Pilatos a rendirse a sus exigencias abusivas.
+**_«No temáis»_** <a id="a187_18"></a>[[LU 100:7.15](/es/The_Urantia_Book/100#p7_15)] era el lema del Maestro porque, cuando tenemos miedo, no podemos amar verdaderamente. Fue el miedo que actuó a través de sus diferentes materializaciones—celos, desconfianza, sospecha, envida y vengatividad—lo que arruinó a Judas. El miedo por su vida llevó a Pedro al estado muy peligroso de negar a su Maestro— ¿no estuvo cerca de seguir los pasos de Judas? El miedo a la pérdida material llevó a Matadormo a rechazar la oferta del Maestro. ¿Tenía fundamento su miedo? No. Los intermedios nos revelan que Matadormo habría recuperado todos sus tesoros si hubiera aceptado su nuevo papel. El miedo a tener problemas con los judíos llevó a Pilatos a rendirse a sus exigencias abusivas.
 
 El miedo ciega. El miedo desconecta. El miedo traiciona. El miedo mata.
 
@@ -207,7 +207,7 @@ No podemos parar a Dios. Pero podemos impedirle que cultive nuestra mente.
 
 La fe es mi machete y mi espada. Es la única herramienta y la única arma que necesitaré jamás para ayudar a mi mente a ganar la batalla presente contra el miedo, que es incredulidad.
 
-Con el paso del tiempo, veo que la distancia entre la fe recién nacida y la mente, esa distancia que solía ser un problema, se está acortando, pues las dos se están acercando y están dominando un lenguaje común. Estoy empezando a ver que **_«la fe_** \[es\] **_la afirmación suprema del pensamiento humano»_** <a id="a208_314"></a>[[LU 3:5.9](/es/The_Urantia_Book/3#p5_9)] que la **_«fe… es razonable,»_** <a id="a208_391"></a>[[LU 103:7.1](/es/The_Urantia_Book/103#p7_1)] que la **_«fe es la visión de la mente espiritualizada.»_** <a id="a208_495"></a>[[LU 1:3.3](/es/The_Urantia_Book/1#p3_3)]
+Con el paso del tiempo, veo que la distancia entre la fe recién nacida y la mente, esa distancia que solía ser un problema, se está acortando, pues las dos se están acercando y están dominando un lenguaje común. Estoy empezando a ver que **_«la fe_** \[es\] **_la afirmación suprema del pensamiento humano»_** <a id="a209_310"></a>[[LU 3:5.9](/es/The_Urantia_Book/3#p5_9)] que la **_«fe… es razonable,»_** <a id="a209_385"></a>[[LU 103:7.1](/es/The_Urantia_Book/103#p7_1)] que la **_«fe es la visión de la mente espiritualizada.»_** <a id="a209_491"></a>[[LU 1:3.3](/es/The_Urantia_Book/1#p3_3)]
 
 Puedo tener la confianza de que he elegido la herramienta adecuada. A diferencia de otras herramientas, su uso intenso solo la hace más afilada. Todo lo que tengo que hacer es tenerla a mano.
 

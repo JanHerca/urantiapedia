@@ -69,7 +69,7 @@ Los Documentos de Urantia exponen la religión del espíritu, pero denuncian tod
 
 Uno de los criterios de la religión autoritaria es el fundamentalismo que otorga infalibilidad, sacralidad y/o poder derivados de Dios a sus credos, literatura sagrada, objetos de culto, rituales, reglas, leyes y tradiciones.
 
-Aparentemente, la religión autoritaria beneficia a dos amplias clases de adeptos, una de las cuales son aquellos que ejercen el poder y la autoridad, y la otra son aquellos individuos para quienes proporciona un refugio listo al que «el alma distraída y perturbada del hombre puede huir cuando es acosada por el miedo y atormentada». por la incertidumbre.”
+Aparentemente, la religión autoritaria beneficia a dos amplias clases de adeptos, una de las cuales son aquellos que ejercen el poder y la autoridad, y la otra son aquellos individuos para quienes proporciona un refugio listo al que «el alma distraída y perturbada del hombre puede huir cuando es acosada por el miedo y atormentada». por la incertidumbre.»
 
 > «Como precio a pagar por las satisfacciones y las seguridades que proporciona, una religión así sólo exige a sus devotos un asentimiento pasivo y puramente intelectual». (<a id="a73_173"></a>[LU 155:5.9](/es/The_Urantia_Book/155#p5_9))
 

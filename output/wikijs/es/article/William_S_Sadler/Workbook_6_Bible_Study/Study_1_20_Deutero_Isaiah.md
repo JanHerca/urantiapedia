@@ -162,12 +162,12 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- B. Dramático -más que expositivo-.
 	- C. Lírico, más que prosaico.
 16. Un verso típico:
-	> “Cantad, cielos, porque el Señor lo ha hecho;
+	> «Cantad, cielos, porque el Señor lo ha hecho;
 	> gritad, oh profundidades de la tierra;
 	> prorrumpan en cantos, oh montañas,
 	> ¡Oh bosque y cada árbol que hay en él!
 	> Porque el Señor ha redimido a Jacob,
-	> y será glorificado en Israel.” [44:23](/es/Bible/Isaiah/44#v23).
+	> y será glorificado en Israel.» [44:23](/es/Bible/Isaiah/44#v23).
 17. Le gustaba retratar la redención espiritual en imágenes de la victoria militar.
 18. Reitera: Recordad la historia y esperad la nueva era.
 19. Su grito de batalla: «No temas».
@@ -192,8 +192,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## VII. Deutero-Isaías en El libro de Urantia
 
-1. Los siguientes pasajes aparecen en el Tercer Isaías, pero según el Libro de Urantia <a id="s194_84"></a>[LU 97:7.11](/es/The_Urantia_Book/97#p7_11) fueron escritos por el Segundo Isaías : [57:15](/es/Bible/Isaiah/57#v15). [66:1](/es/Bible/Isaiah/66#v1). [58:11](/es/Bible/Isaiah/58#v11).
-2. Citas en el Libro de Urantia, p. <a id="s195_38"></a>[LU 97:7.5](/es/The_Urantia_Book/97#p7_5): [40:15](/es/Bible/Isaiah/40#v15). [55:9](/es/Bible/Isaiah/55#v9). [45:18](/es/Bible/Isaiah/45#v18). [44:6](/es/Bible/Isaiah/44#v6). [51:6](/es/Bible/Isaiah/51#v6). [41:10](/es/Bible/Isaiah/41#v10). [45:21](/es/Bible/Isaiah/45#v21). [43:1](/es/Bible/Isaiah/43#v1). [43:2](/es/Bible/Isaiah/43#v2). [49:15,16](/es/Bible/Isaiah/49#v15). [55:7](/es/Bible/Isaiah/55#v7). [40:11](/es/Bible/Isaiah/40#v11). [40:29-31](/es/Bible/Isaiah/40#v29). [57:15](/es/Bible/Isaiah/57#v15). [44:6](/es/Bible/Isaiah/44#v6). [50:2](/es/Bible/Isaiah/50#v2). [42:16](/es/Bible/Isaiah/42#v16). [43:7](/es/Bible/Isaiah/43#v7). [43:25](/es/Bible/Isaiah/43#v25). [66:1](/es/Bible/Isaiah/66#v1). [57:15](/es/Bible/Isaiah/57#v15). [58:11](/es/Bible/Isaiah/58#v11). [59:19](/es/Bible/Isaiah/59#v19).
+1. Los siguientes pasajes aparecen en el Tercer Isaías, pero según el Libro de Urantia <a id="s194_87"></a>[LU 97:7.11](/es/The_Urantia_Book/97#p7_11) fueron escritos por el Segundo Isaías : [57:15](/es/Bible/Isaiah/57#v15). [66:1](/es/Bible/Isaiah/66#v1). [58:11](/es/Bible/Isaiah/58#v11).
+2. Citas en el Libro de Urantia, p. <a id="s195_36"></a>[LU 97:7.5](/es/The_Urantia_Book/97#p7_5): [40:15](/es/Bible/Isaiah/40#v15). [55:9](/es/Bible/Isaiah/55#v9). [45:18](/es/Bible/Isaiah/45#v18). [44:6](/es/Bible/Isaiah/44#v6). [51:6](/es/Bible/Isaiah/51#v6). [41:10](/es/Bible/Isaiah/41#v10). [45:21](/es/Bible/Isaiah/45#v21). [43:1](/es/Bible/Isaiah/43#v1). [43:2](/es/Bible/Isaiah/43#v2). [49:15,16](/es/Bible/Isaiah/49#v15). [55:7](/es/Bible/Isaiah/55#v7). [40:11](/es/Bible/Isaiah/40#v11). [40:29-31](/es/Bible/Isaiah/40#v29). [57:15](/es/Bible/Isaiah/57#v15). [44:6](/es/Bible/Isaiah/44#v6). [50:2](/es/Bible/Isaiah/50#v2). [42:16](/es/Bible/Isaiah/42#v16). [43:7](/es/Bible/Isaiah/43#v7). [43:25](/es/Bible/Isaiah/43#v25). [66:1](/es/Bible/Isaiah/66#v1). [57:15](/es/Bible/Isaiah/57#v15). [58:11](/es/Bible/Isaiah/58#v11). [59:19](/es/Bible/Isaiah/59#v19).
 
 ## VIII. El tercer Isaías
 
@@ -201,7 +201,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. Los capítulos 56-66 se produjeron después del exilio.
 3. Este tercer grupo de escritos fue agregado a Isaías por sus seguidores, y también porque fueron escritos en verso-poético.
 4. Jesús usa pasajes del Tercer Isaías sobre su mensaje evangélico. [Lc 4:18-21](/es/Bible/Luke/4#v18). ([Is 61:1,2](/es/Bible/Isaiah/61#v1))
-5. Muchos dichos del primer Isaías se encuentran en el Tercer Isaías. (Algunos ejemplos se encuentran en <a id="s203_91"></a>[LU 97:5.2](/es/The_Urantia_Book/97#p5_2) del Libro de Urantia.)
+5. Muchos dichos del primer Isaías se encuentran en el Tercer Isaías. (Algunos ejemplos se encuentran en <a id="s203_105"></a>[LU 97:5.2](/es/The_Urantia_Book/97#p5_2) del Libro de Urantia.)
 6. Hubo varios autores del Tercer Isaías, como lo demuestran las inconsistencias y contradicciones.
 7. El tercer Isaías habla de la «nueva era»: nuevos cielos y nueva tierra.
 8. El Tercer Isaías se parece mucho a los escritos de Hageo y Zacarías.

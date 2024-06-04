@@ -52,7 +52,7 @@ En este escenario el tiempo fluye, de manera que hay una secuencia de acontecimi
 
 La teoría más aceptada a principios de 2015 es que el universo está formado por unidades energético-materiales, que no deja de ser la evolución del panorama más simple que fue postulado hacia la primera mitad del siglo XX en el que se conocían sólo unas pocas de las partículas materiales: electrón, protón, neutrón, neutrino... Así hemos llegado a nuestros días, en los que los físicos teóricos pueden recomponer el universo observable con solo unas pocas partículas elementales (es decir, de las que no se tiene evidencia de que estén formadas por otras) con sus correspondientes antipartículas.
 
-Esta es la situación que describe el "Modelo Estándar”. Es el modelo más aceptado, aunque no es el único, y la realidad que conocemos este modelo la reconstruye con 4 partículas elementales y 4 fuerzas fundamentales. Aunque la propia teoría predice alguna partícula más que se han encontrado experimentalmente. Lo vemos en el siguiente cuadro: 
+Esta es la situación que describe el «Modelo Estándar». Es el modelo más aceptado, aunque no es el único, y la realidad que conocemos este modelo la reconstruye con 4 partículas elementales y 4 fuerzas fundamentales. Aunque la propia teoría predice alguna partícula más que se han encontrado experimentalmente. Lo vemos en el siguiente cuadro: 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV40/15.jpg">

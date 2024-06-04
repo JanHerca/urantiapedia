@@ -211,7 +211,7 @@ Este último párrafo es definitivo: la continuidad no es un don, es un logro co
 
 En <a id="a211_3"></a>[LU 47:2.2](/es/The_Urantia_Book/47#p2_2) (La Guardería del período de Prueba):
 
-> "_.... En el caso de la supervivencia de uno o los dos progenitores del niño,..._”
+> «_.... En el caso de la supervivencia de uno o los dos progenitores del niño,..._»
 
 Y además esta elección de continuidad más allá de la muerte física, parece que deba ocurrir durante la edad adulta del mortal en el planeta de nacimiento, como se desprende de la explicación de las siguientes situaciones. Más adelante, en <a id="a215_239"></a>[LU 47:2.4](/es/The_Urantia_Book/47#p2_4), encontramos un apunte más. Por lo que se ve, se espera que la decisión se tome en la juventud/infancia en la vida en la carne, pues está hablando de niños (hasta 16 años) a los que les alcanza la muerte antes de decidirse:
 

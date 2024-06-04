@@ -56,7 +56,7 @@ Sobre el Paraíso:
 
 - Es un elipsoide plano que tiene una región alta, otra baja y otra periférica.
 - Es la estructura organizada más gigantesca de todo el cosmos.
-- Es la morada de la Trinidad existencial de las tres personas divinas y (probablemente) el centro focal de los tres Absolutos no personales ([LU 0:11.15](/es/The_Urantia_Book/0#p11_15)).
+- Es la morada de la Trinidad existencial de las tres personas divinas y (probablemente) el centro focal de los tres Absolutos no personales (<a id="a58_142"></a>[LU 0:11.15](/es/The_Urantia_Book/0#p11_15)).
 - Es el centro geográfico de la infinidad (<a id="a59_43"></a>[LU 11:9.2](/es/The_Urantia_Book/11#p9_2)).
 - No tiene tiempo ni espacio (excepto volitivamente), pero tiene superficies y áreas absolutas, y distancias y direcciones —norte, sur, este, oeste, arriba, abajo- con significación absoluta.
 - Se presenta universalmente en forma de una sujeción física, de una atracción instantánea, la gravedad paradisíaca (<a id="a61_117"></a>[LU 11:8.9](/es/The_Urantia_Book/11#p8_9), <a id="a61_160"></a>[LU 10:3.11](/es/The_Urantia_Book/10#p3_11)).

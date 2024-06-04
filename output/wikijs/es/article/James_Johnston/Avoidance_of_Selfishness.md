@@ -87,7 +87,7 @@ El egoísmo también destruirá a las familias. La vida familiar exige un servic
 
 Si se le permite proliferar, el egoísmo destruirá la civilización. La sociedad moderna depende completamente de quienes sirven desinteresadamente.
 
-La iluminación espiritual de Dios es eclipsada por el egoísmo. Una persona completamente egoísta simplemente no puede conocer a Dios. Uno excluye al otro. Al eclipsar la luz de Dios, el alma queda oscura y muerta, insensible a los constantes impulsos de la Primera Fuente del universo, la presencia de Dios. “La lámpara del cuerpo es el ojo; Por tanto, si tu ojo es generoso, todo tu cuerpo estará lleno de luz. Pero si tu ojo es egoísta, todo el cuerpo se llenará de oscuridad. Si la misma luz que hay en ti se convierte en tinieblas, ¡cuán grandes serán esas tinieblas!
+La iluminación espiritual de Dios es eclipsada por el egoísmo. Una persona completamente egoísta simplemente no puede conocer a Dios. Uno excluye al otro. Al eclipsar la luz de Dios, el alma queda oscura y muerta, insensible a los constantes impulsos de la Primera Fuente del universo, la presencia de Dios. «La lámpara del cuerpo es el ojo; Por tanto, si tu ojo es generoso, todo tu cuerpo estará lleno de luz. Pero si tu ojo es egoísta, todo el cuerpo se llenará de oscuridad. Si la misma luz que hay en ti se convierte en tinieblas, ¡cuán grandes serán esas tinieblas!
 
 La amistad con Dios no está disponible para quien ha elegido ponerse a sí mismo en primer lugar. En la entrada de un campamento de Boy Scouts en el sur de Michigan, hay un cartel que dice «Yo tercero». Está ahí para recordar a todos los que entran que su compromiso ideal es con Dios primero, con los demás en segundo lugar y con ellos mismos en tercer lugar. El ego tendría ese orden invertido.
 

@@ -52,7 +52,7 @@ _El área más interior, designada como «P», es la Isla del Paraíso. El área
 
 ## § 2. Los niveles espaciales del Universo
 
-La mejor descripción general del universo maestro aparece en los Documentos en <a id="a54_79"></a>[LU 12:1.1](/es/The_Urantia_Book/12#p1_1), Los niveles espaciales del universo maestro. La historia que se da aquí presenta una imagen de la creación maestra que consiste en seis niveles espaciales concéntricos y elípticos. Cada uno de estos niveles espaciales tiene dos nombres que se usan indistintamente, como en la tabla presentada a continuación:
+La mejor descripción general del universo maestro aparece en los Documentos en <a id="s54_79"></a>[LU 12:1.1](/es/The_Urantia_Book/12#p1_1), Los niveles espaciales del universo maestro. La historia que se da aquí presenta una imagen de la creación maestra que consiste en seis niveles espaciales concéntricos y elípticos. Cada uno de estos niveles espaciales tiene dos nombres que se usan indistintamente, como en la tabla presentada a continuación:
 
 Nivel | Espacio
 --- | ---

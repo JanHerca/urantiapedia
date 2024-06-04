@@ -45,7 +45,7 @@ Si nos fijamos bien, podemos observar algunas de las características de la pers
 
 No solemos pasar mucho tiempo contemplando nuestro estatus como personalidades únicas. La gente no suele investigar el origen de sus personalidades únicas. ¡Pero un poco de reflexión sugiere que es algo genético! Es genética espiritual.
 
-Aquí está el razonamiento. Sabemos que el Padre Universal es una persona única. "Yo soy Dios. No hay nadie a mi lado. Yo soy solo Dios.” Él es la Primera Persona, y también el creador de todas las demás personas. Somos creados «a imagen de Dios». Él nos crea a cada uno de nosotros otorgándonos personalidad, y en esta transacción heredamos de él algunos aspectos de su propia naturaleza. Uno de ellos es la singularidad.
+Aquí está el razonamiento. Sabemos que el Padre Universal es una persona única. «Yo soy Dios. No hay nadie a mi lado. Yo soy solo Dios.» Él es la Primera Persona, y también el creador de todas las demás personas. Somos creados «a imagen de Dios». Él nos crea a cada uno de nosotros otorgándonos personalidad, y en esta transacción heredamos de él algunos aspectos de su propia naturaleza. Uno de ellos es la singularidad.
 
 Otra característica de la personalidad es la «inmutabilidad». La personalidad nunca cambia. Ahora bien, las personalidades pueden causar y causan el cambio, y las personalidades pueden observar el cambio, pero la personalidad en sí misma nunca cambia. Una personalidad es el sujeto inmutable de todo cambio, el cambiador inmutable. Es otro factor de herencia genética espiritual. El Padre Universal es una persona inmutable y cuando nos crea como personas heredamos de él la cualidad de la personalidad inmutable. Esta cualidad de inmutabilidad es algo que heredamos del Padre Universal porque somos sus hijos personales.
 
@@ -91,7 +91,7 @@ Todo lo que tenemos que más importa viene de Dios, todo. Y cuando te sientas en
 
 ## Respeto a ti mismo
 
-No me di cuenta de esto durante mucho tiempo. No me di cuenta que el Padre Universal me dio todo lo que más valoro. Y ahora que entiendo esto quiero hacer algo por el Padre Universal. Es una cuestión de respeto por uno mismo. Pienso: «No puedo permanecer indiferente ante esta situación; he recibido tanto. Solo quiero retribuir». "Quiero seguirte. Quiero usar estos poderes que me has dado, que provienen directamente de ti, en la forma en que crees que deberían usarse. Muéstrame cómo usarlos, cómo maximizar el residente potencial en estas habilidades”.
+No me di cuenta de esto durante mucho tiempo. No me di cuenta que el Padre Universal me dio todo lo que más valoro. Y ahora que entiendo esto quiero hacer algo por el Padre Universal. Es una cuestión de respeto por uno mismo. Pienso: «No puedo permanecer indiferente ante esta situación; he recibido tanto. Solo quiero retribuir». «Quiero seguirte. Quiero usar estos poderes que me has dado, que provienen directamente de ti, en la forma en que crees que deberían usarse. Muéstrame cómo usarlos, cómo maximizar el residente potencial en estas habilidades».
 
 Una de las grandes verdades de _El Libro de Urantia_ es sobre la bondad de Dios, es la bondad de Dios la que nos lleva a la luz, eso y solo eso. No hay rastro de compulsión, ni rastro. El Padre Universal apuesta todo por el poder atractivo de la bondad y el amor, todo. Él sabe que no hay mayor poder en el universo, y sabe que cuando nos despertemos y comencemos a darnos cuenta más profundamente de los tesoros que nos ha otorgado, el deseo de vivir con Él y de acuerdo a su manera se llevará a cabo bastante. naturalmente.
 

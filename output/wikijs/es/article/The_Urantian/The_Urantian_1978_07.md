@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Contactando con el Reino Interior
 
-> «_«El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso._» ([LU 195:10.4](/es/The_Urantia_Book/195#p10_4))
+> «_«El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso._» (<a id="a36_193"></a>[LU 195:10.4](/es/The_Urantia_Book/195#p10_4))
 
 En las enseñanzas de Jesús sobre el «reino de Dios interior», impartió mucha verdad y sabiduría con respecto a este reino interno de la realidad espiritual, accesible a nuestra mente, que el Padre ha otorgado a cada uno de nosotros. Y nuestro conocimiento acerca de la presencia espiritual interna del Padre ha sido enormemente aumentado por nuestra quinta revelación de época. En el centro del reino interior habita un fragmento espiritual real y perfecto del Dios viviente. El reino espiritual interior es la fuente de la inspiración y los ideales mediante los cuales avanzan nuestras civilizaciones planetarias, y los fragmentos espirituales de Dios dentro de nosotros son las fuentes indispensables a las que recurrimos para la evolución de nuestra sabiduría humana.
 
@@ -49,9 +49,9 @@ _El material anterior es un extracto de un discurso preparado para la Tercera Co
 
 ## Tolerancia al aprendizaje
 
-El proceso de espiritualización de nuestras personalidades se desarrolla en nuestras relaciones entre los hombres. «_En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor._» ([LU 100:4.4](/es/The_Urantia_Book/100#p4_4)) Y, dijo Jesús: «_El amor es el padre de toda bondad espiritual, la esencia de lo verdadero y de lo bello._» ([LU 192:2.1](/es/The_Urantia_Book/192#p2_1))
+El proceso de espiritualización de nuestras personalidades se desarrolla en nuestras relaciones entre los hombres. «_En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor._» (<a id="a51_244"></a>[LU 100:4.4](/es/The_Urantia_Book/100#p4_4)) Y, dijo Jesús: «_El amor es el padre de toda bondad espiritual, la esencia de lo verdadero y de lo bello._» (<a id="a51_398"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1))
 
-Se nos dice además que «_Hoy no es tan importante amar a todos los hombres sino que cada día se aprende a amar a un ser humano más._» ([LU 100:4.6](/es/The_Urantia_Book/100#p4_6)) Mantener la producción de amor implica que debemos Estaremos aprendiendo a tolerar a una persona más cada día, y esto a su vez implica que estamos aprendiendo a comprender a una persona más cada día. La clave para la tolerancia, el amor y la bondad espiritual es la comprensión, una función de la mente.
+Se nos dice además que «_Hoy no es tan importante amar a todos los hombres sino que cada día se aprende a amar a un ser humano más._» (<a id="a53_135"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)) Mantener la producción de amor implica que debemos Estaremos aprendiendo a tolerar a una persona más cada día, y esto a su vez implica que estamos aprendiendo a comprender a una persona más cada día. La clave para la tolerancia, el amor y la bondad espiritual es la comprensión, una función de la mente.
 
 [Leer más](/es/article/Mark_Kulieke/Learning_Tolerance)
 
@@ -62,7 +62,7 @@ _Evanston, Illinois_
 
 La verdad tiene su origen en las relaciones de realidad. La verdad es un intento de comprender la relación más grande del universo: el amor divino. La revelación más significativa de amor y verdad al hombre en nuestro mundo es Jesús de Nazaret. Su Espíritu de Verdad nos guía infaliblemente a toda verdad.
 
-Desde un punto de vista experiencial, a menudo empatizamos con la observación de Pilot, «_La verdad, ¿cuál es la verdad —quién la conoce?_» ([LU 185:3.5](/es/The_Urantia_Book/185#p3_5)) En nuestra experiencia procedemos de los hechos (conocimiento) a la verdad, a la sabiduría en el realización progresiva de la realidad: Dios. La verdad es un valor universal percibido por la mente estimulada por el espíritu y es una experiencia del alma. El descubrimiento de la verdad es un deleite supremo del hombre en evolución. La experiencia lleva al hombre al hambre de verdad.
+Desde un punto de vista experiencial, a menudo empatizamos con la observación de Pilot, «_La verdad, ¿cuál es la verdad —quién la conoce?_» (<a id="a64_141"></a>[LU 185:3.5](/es/The_Urantia_Book/185#p3_5)) En nuestra experiencia procedemos de los hechos (conocimiento) a la verdad, a la sabiduría en el realización progresiva de la realidad: Dios. La verdad es un valor universal percibido por la mente estimulada por el espíritu y es una experiencia del alma. El descubrimiento de la verdad es un deleite supremo del hombre en evolución. La experiencia lleva al hombre al hambre de verdad.
 
 La verdad es básica tanto para la ciencia como para la filosofía, el fundamento intelectual de la religión. La verdad es coherente y consistente y, por tanto, un criterio fiable para la acción. Se vive con resultados altamente beneficiosos. Cuando la verdad, la belleza y la bondad se integran en la experiencia humana, tienden a producir salud y felicidad. La verdad alcanza su máxima expresión en la vida. La verdad es una realidad universal viviente que no puede ser aprisionada en dogmas, credos o expresiones filosóficas.
 
@@ -73,7 +73,7 @@ _Fuerte Wayne, Indiana_
 
 ## Búsqueda de la bondad
 
-La protección de Dios es una especie de bondad: «la búsqueda del ideal». Utiliza diferentes músculos, se alimenta del amor. «_Hasta que no alcancéis los niveles del Paraíso, la bondad siempre será más una búsqueda que una posesión..._» ([LU 132:2.8](/es/The_Urantia_Book/132#p2_8)) La protección de Dios es una «_sed de perfección divina_» ([LU 150:5.5](/es/The_Urantia_Book/150#p5_5)) lograda con La propia ayuda de Dios junto con toda la jerarquía de seres espirituales y la expresión divina desde dentro de ti.
+La protección de Dios es una especie de bondad: «la búsqueda del ideal». Utiliza diferentes músculos, se alimenta del amor. «_Hasta que no alcancéis los niveles del Paraíso, la bondad siempre será más una búsqueda que una posesión..._» (<a id="a75_237"></a>[LU 132:2.8](/es/The_Urantia_Book/132#p2_8)) La protección de Dios es una «_sed de perfección divina_» (<a id="a75_341"></a>[LU 150:5.5](/es/The_Urantia_Book/150#p5_5)) lograda con La propia ayuda de Dios junto con toda la jerarquía de seres espirituales y la expresión divina desde dentro de ti.
 
 La protección de Dios es el crecimiento total, para siempre, hacia adelante, con espacio para ti y para mí. Un crecimiento conjunto encontrando los propósitos de Dios, pequeños y grandes, actuando en ellos con confianza y sedientos de Dios. A veces puede parecer que mis propósitos entran en conflicto con los de otros, pero llegamos con certeza, claridad de propósito, amor a Dios como superación y gracia como resultado.
 
@@ -108,7 +108,7 @@ En este mundo ebrio de sofismas, todos vemos la necesidad de una Fundación para
 _Thomas Wicks_
 _Florencia, Arizona_
 
-> «_Dios es la primera verdad y el último hecho; por eso toda verdad tiene su origen en él, mientras que todos los hechos existen en relación con él. Dios es la verdad absoluta_» ([LU 102:6.6](/es/The_Urantia_Book/102#p6_6))
+> «_Dios es la primera verdad y el último hecho; por eso toda verdad tiene su origen en él, mientras que todos los hechos existen en relación con él. Dios es la verdad absoluta_» (<a id="a110_180"></a>[LU 102:6.6](/es/The_Urantia_Book/102#p6_6))
 
 
 

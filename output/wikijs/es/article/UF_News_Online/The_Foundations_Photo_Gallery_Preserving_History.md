@@ -55,7 +55,7 @@ He aquí cómo pueden ayudarnos:
 
 Pueden escanear fotos en su propio escáner o llevarlas a un servicio profesional como FedEx (antes Kinko) o UPS.
 
-Las imágenes deberían escanearse a un mínimo de 300 ppi. No ajusten, equilibren el color ni “arreglen” estos ficheros de ninguna forma. Tenemos nuestros propios recursos para hacer que tengan mejor aspecto. Todo lo que necesitamos es un escaneo de alta resolución del original.
+Las imágenes deberían escanearse a un mínimo de 300 ppi. No ajusten, equilibren el color ni «arreglen» estos ficheros de ninguna forma. Tenemos nuestros propios recursos para hacer que tengan mejor aspecto. Todo lo que necesitamos es un escaneo de alta resolución del original.
 
 Las imágenes deberían estar claramente etiquetadas con la información que tengan. Esto puede hacerse renombrando el fichero digital (ejemplo: Joe\_Blogs\_1957.jpg) o aportando un archivo de texto adjunto que haga referencia a la imagen numerada (MG11529.jpg = Joe Blogs, 1957). Si no tienen una fecha exacta, sería útil dar una fecha aproximada (Joe Blogs, hacia 1957 o Joe Blogs, finales de los 50). Si no están seguros o no pueden etiquetar las fotos, envíenlas con la información que tengan.
 

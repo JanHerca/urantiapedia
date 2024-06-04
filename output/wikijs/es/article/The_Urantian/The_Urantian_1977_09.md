@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> «_Al igual que la oración se puede asemejar a la recarga de las baterías espirituales del alma, la adoración se puede comparar al acto de sintonizar el alma para captar las emisiones universales del espíritu infinito del Padre Universal._» ([LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
+> «_Al igual que la oración se puede asemejar a la recarga de las baterías espirituales del alma, la adoración se puede comparar al acto de sintonizar el alma para captar las emisiones universales del espíritu infinito del Padre Universal._» (<a id="a34_243"></a>[LU 144:4.8](/es/The_Urantia_Book/144#p4_8))
 
 ## En armonía cósmica
 
@@ -46,7 +46,7 @@ Y la oración es ponerse en contacto con la sabiduría del universo, haciéndola
 
 ## Niños — Oración y Adoración
 
-> «_...una verdadera familia —una buena familia— revela a los padres procreadores la actitud del Creador hacia sus hijos, mientras que al mismo tiempo estos auténticos padres representan para sus hijos la primera de una larga serie de revelaciones progresivas acerca del amor del Padre Paradisiaco de todos los hijos del universo._» ([LU 84:7.30](/es/The_Urantia_Book/84#p7_30))
+> «_...una verdadera familia —una buena familia— revela a los padres procreadores la actitud del Creador hacia sus hijos, mientras que al mismo tiempo estos auténticos padres representan para sus hijos la primera de una larga serie de revelaciones progresivas acerca del amor del Padre Paradisiaco de todos los hijos del universo._» (<a id="a48_334"></a>[LU 84:7.30](/es/The_Urantia_Book/84#p7_30))
 
 A menudo nos hemos sentido perplejos ante el problema de presentarles a nuestros hijos la relación de amor que tenemos con nuestro Padre Universal, nuestro Creador Miguel y las muchas personalidades dentro de su familia universal. Descubrimos que antes de poder enseñar a nuestros hijos cómo orar y adorar, teníamos que entender estas cosas por nosotros mismos.
 
@@ -56,13 +56,13 @@ A menudo nos hemos sentido perplejos ante el problema de presentarles a nuestros
 
 —_Nicholas W. Scalzo_
 
-> «_Cuando un grupo se dedica a orar en común por el acrecentamiento moral y la elevación espiritual, estas devociones producen efecto en los individuos que componen el grupo; todos se vuelven mejores gracias a esta participación._» ([LU 91:5.2](/es/The_Urantia_Book/91#p5_2))
+> «_Cuando un grupo se dedica a orar en común por el acrecentamiento moral y la elevación espiritual, estas devociones producen efecto en los individuos que componen el grupo; todos se vuelven mejores gracias a esta participación._» (<a id="a58_234"></a>[LU 91:5.2](/es/The_Urantia_Book/91#p5_2))
 
 ## Un tónico espiritual
 
-La verdadera adoración va directamente a Dios Padre, y él es la fuente de todas las cosas, incluida la energía. «_... la energía... como fenómeno universal es inherente al Padre Universal._» ([LU 42:1.2](/es/The_Urantia_Book/42#p1_2)) La adoración es un método para aprovechar esa energía. La técnica requiere un total olvido de uno mismo; no implica ninguna automotivación. «_No hay absolutamente ninguna petición propia ni ningún otro elemento de interés personal en la adoración verdadera..._» ([LU 5:3.3](/es/The_Urantia_Book/5#p3_3))
+La verdadera adoración va directamente a Dios Padre, y él es la fuente de todas las cosas, incluida la energía. «_... la energía... como fenómeno universal es inherente al Padre Universal._» (<a id="a62_192"></a>[LU 42:1.2](/es/The_Urantia_Book/42#p1_2)) La adoración es un método para aprovechar esa energía. La técnica requiere un total olvido de uno mismo; no implica ninguna automotivación. «_No hay absolutamente ninguna petición propia ni ningún otro elemento de interés personal en la adoración verdadera..._» (<a id="a62_498"></a>[LU 5:3.3](/es/The_Urantia_Book/5#p3_3))
 
-Se asfixia una persona que voluntariamente ahoga el impulso de adorar y excluye esta energía, esta vida dada gratuitamente por Dios. Esto es como la limitación de la libertad que sufre aquel que no está dispuesto a someter su voluntad a la de Dios. Esta persona mantiene el control total de sus decisiones y de su destino en la medida muy limitada que sus propias habilidades y sabiduría se lo permitan; mientras que, si se entrega a la voluntad del Padre, pierde esta falsa libertad pero gana una prisión con muros de infinito y de eternidad. Quizás la medida más eficaz para adquirir esta verdadera libertad, y el poder y la energía resultantes de estar en consonancia con Dios, sea establecer una relación consciente y amorosa con Él: adorarle. «_Y este intercambio de fuerza por debilidad, coraje por miedo, la voluntad de Dios por la mente de uno mismo, constituye adoración._» ([LU 160:3.1](/es/The_Urantia_Book/160#p3_1))
+Se asfixia una persona que voluntariamente ahoga el impulso de adorar y excluye esta energía, esta vida dada gratuitamente por Dios. Esto es como la limitación de la libertad que sufre aquel que no está dispuesto a someter su voluntad a la de Dios. Esta persona mantiene el control total de sus decisiones y de su destino en la medida muy limitada que sus propias habilidades y sabiduría se lo permitan; mientras que, si se entrega a la voluntad del Padre, pierde esta falsa libertad pero gana una prisión con muros de infinito y de eternidad. Quizás la medida más eficaz para adquirir esta verdadera libertad, y el poder y la energía resultantes de estar en consonancia con Dios, sea establecer una relación consciente y amorosa con Él: adorarle. «_Y este intercambio de fuerza por debilidad, coraje por miedo, la voluntad de Dios por la mente de uno mismo, constituye adoración._» (<a id="a64_884"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1))
 
 [Leer más](/es/article/David_Kulieke/A_Spiritual_Tonic)
 
@@ -80,7 +80,7 @@ Si tu hijo necesita un pez y tontamente pide un sustituto dañino porque tal vez
 
 —_Ed Harrigan_
 
-> «_Orad como Jesús lo enseñaba a sus discípulos —con sinceridad, desinterés, equidad, y sin dudar._» ([LU 91:6.6](/es/The_Urantia_Book/91#p6_6))
+> «_Orad como Jesús lo enseñaba a sus discípulos —con sinceridad, desinterés, equidad, y sin dudar._» (<a id="a82_103"></a>[LU 91:6.6](/es/The_Urantia_Book/91#p6_6))
 
 ## Un barril de clavos
 
@@ -90,7 +90,7 @@ Un clavo bastará para mantener juntas dos tablas, pero un barril de clavos serv
 
 —_Sue Vía Brazell_
 
-> «_¿De dónde viene el poder para realizar todo esto?... Observad a vuestro Maestro. En este mismo momento se encuentra allá en las colinas, llenándose de fuerza, mientras nosotros estamos aquí gastando energía. El secreto de todo este problema está envuelto en la comunión espiritual, en la adoración._» ([LU 160:3.1](/es/The_Urantia_Book/160#p3_1))
+> «_¿De dónde viene el poder para realizar todo esto?... Observad a vuestro Maestro. En este mismo momento se encuentra allá en las colinas, llenándose de fuerza, mientras nosotros estamos aquí gastando energía. El secreto de todo este problema está envuelto en la comunión espiritual, en la adoración._» (<a id="a92_306"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1))
 
 ## Próximo...
 
@@ -98,7 +98,7 @@ Un clavo bastará para mantener juntas dos tablas, pero un barril de clavos serv
 
 Los editores
 
-> «_Los efectos psicológicos y espirituales que acompañan a la oración de la fe son inmediatos, personales y experienciales. No existe ninguna otra técnica que permita a cualquier hombre, sin tener en cuenta todos sus demás logros mortales, acercarse de manera tan inmediata y eficaz al umbral de ese reino donde puede comunicarse con su Hacedor, donde la criatura se pone en contacto con la realidad del Creador, con el Ajustador del Pensamiento interior._» ([LU 91:6.7](/es/The_Urantia_Book/91#p6_7))
+> «_Los efectos psicológicos y espirituales que acompañan a la oración de la fe son inmediatos, personales y experienciales. No existe ninguna otra técnica que permita a cualquier hombre, sin tener en cuenta todos sus demás logros mortales, acercarse de manera tan inmediata y eficaz al umbral de ese reino donde puede comunicarse con su Hacedor, donde la criatura se pone en contacto con la realidad del Creador, con el Ajustador del Pensamiento interior._» (<a id="a100_460"></a>[LU 91:6.7](/es/The_Urantia_Book/91#p6_7))
 
 
 

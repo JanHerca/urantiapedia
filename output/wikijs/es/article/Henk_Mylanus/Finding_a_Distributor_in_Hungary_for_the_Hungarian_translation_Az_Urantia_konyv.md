@@ -42,7 +42,7 @@ _De Henk Mylanus, fideicomisario, gerente de ventas en Europa, Bretaña (Francia
 
 Encontrar un buen distribuidor para las traducciones europeas de _El libro de Urantia_ siempre es un trabajo difícil, pero encontrar uno en Hungría demostró ser lo más difícil. Dejen que les explique.
 
-Cuando volábamos a Chicago en abril de 2010, escuchamos a un pasajero de la fila de atrás decir a su compañero: “¡Mira esa explosión tan enorme!”.
+Cuando volábamos a Chicago en abril de 2010, escuchamos a un pasajero de la fila de atrás decir a su compañero: «¡Mira esa explosión tan enorme!».
 
 En ese momento volábamos sobre Islandia, y fuimos testigos de la erupción del volcán islandés Eyjafjallajökull, que trastornó los vuelos en el espacio aéreo europeo durante seis días, y tuvimos que permanecer en Chicago durante diez días antes de poder volar de vuelta a Europa.
 

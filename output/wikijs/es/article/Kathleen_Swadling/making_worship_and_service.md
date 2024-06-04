@@ -58,15 +58,15 @@ Como en cualquier relación (intercambio entre personalidades), cultivar una ami
 
 Pero ¿cómo nos motivamos para tomar esas decisiones y desarrollar buenos hábitos que favorezcan la adoración y la oración? Puede ser útil recordar que somos los arquitectos de nuestra propia vida. La energía fluye hacia donde va la atención. Nuestras decisiones personales son la clave de nuestro bienestar.
 
-> _Las llaves del reino de los cielos son la sinceridad, más sinceridad y aún más sinceridad. Todos los hombres poseen estas llaves. Los hombres las utilizan — elevan su estado espiritual — mediante sus decisiones, más decisiones y aún más decisiones. La elección moral más elevada consiste en elegir el valor más elevado posible, y ésta siempre consiste — en cualquier esfera, y en todas ellas — en elegir hacer la voluntad de Dios._ <a id="a59_369"></a>[[LU 39:4.14](/es/The_Urantia_Book/39#p4_14)]
+> _Las llaves del reino de los cielos son la sinceridad, más sinceridad y aún más sinceridad. Todos los hombres poseen estas llaves. Los hombres las utilizan — elevan su estado espiritual — mediante sus decisiones, más decisiones y aún más decisiones. La elección moral más elevada consiste en elegir el valor más elevado posible, y ésta siempre consiste — en cualquier esfera, y en todas ellas — en elegir hacer la voluntad de Dios._ <a id="a60_435"></a>[[LU 39:4.14](/es/The_Urantia_Book/39#p4_14)]
 
-> _Un carácter cósmicamente moral y divinamente espiritual representa la acumulación capital de las decisiones personales de la criatura, unas decisiones que han sido iluminadas por la adoración sincera, glorificadas por el amor inteligente, y consumadas en el servicio fraternal._ <a id="a61_240"></a>[[LU 117:5.13](/es/The_Urantia_Book/117#p5_13)]
+> _Un carácter cósmicamente moral y divinamente espiritual representa la acumulación capital de las decisiones personales de la criatura, unas decisiones que han sido iluminadas por la adoración sincera, glorificadas por el amor inteligente, y consumadas en el servicio fraternal._ <a id="a62_282"></a>[[LU 117:5.13](/es/The_Urantia_Book/117#p5_13)]
 
-> _La dedicación afectuosa de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacerle a Dios; de hecho, una consagración así de la voluntad de la criatura constituye el único obsequio posible de verdadero valor que el hombre puede hacerle al Padre Paradisiaco. … no hay nada que el hombre pueda darle a Dios, salvo esta elección de someterse a la voluntad del Padre …._ <a id="a63_335"></a>[[LU 1:1.2](/es/The_Urantia_Book/1#p1_2)]
+> _La dedicación afectuosa de la voluntad humana a hacer la voluntad del Padre es el regalo más selecto que el hombre puede hacerle a Dios; de hecho, una consagración así de la voluntad de la criatura constituye el único obsequio posible de verdadero valor que el hombre puede hacerle al Padre Paradisiaco. … no hay nada que el hombre pueda darle a Dios, salvo esta elección de someterse a la voluntad del Padre …._ <a id="a64_416"></a>[[LU 1:1.2](/es/The_Urantia_Book/1#p1_2)]
 
 Y para todos los que estén dándole vueltas a lo que significa realmente «hacer la voluntad del Padre»:
 
-> _Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios…_ <a id="a67_134"></a>[[LU 115:5.1](/es/The_Urantia_Book/115#p5_1)]
+> _Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios…_ <a id="a68_148"></a>[[LU 115:5.1](/es/The_Urantia_Book/115#p5_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Journal/carlos9.jpg">
@@ -83,29 +83,29 @@ Ser capaz de relajarse es, en mi opinión, un aspecto muy importante de todo est
 
 Una vez que estamos lo bastante relajados, ¿cómo podemos dirigir nuestros pensamientos para llevarlos a los compartimentos superiores de la mente? ¿Qué tal si empezamos por reflexionar sobre unas sencillas verdades básicas acerca del Padre Celestial?
 
-> _Dios es amor_. <a id="a84_17"></a>[[LU 2:5.1](/es/The_Urantia_Book/2#p5_1)]
+> _Dios es amor_. <a id="a85_18"></a>[[LU 2:5.1](/es/The_Urantia_Book/2#p5_1)]
 
-> … _love is the dominant characteristic of all God’s personal dealings with his creatures._ <a id="a86_93"></a>[[LU 2:5.12](/es/The_Urantia_Book/2#p5_12)]
+> … _love is the dominant characteristic of all God’s personal dealings with his creatures._ <a id="a87_93"></a>[[LU 2:5.12](/es/The_Urantia_Book/2#p5_12)]
 
-> _El amor es el deseo de hacer el bien a los demás_. <a id="a88_45"></a>[[LU 56:10.21](/es/The_Urantia_Book/56#p10_21)]
+> _El amor es el deseo de hacer el bien a los demás_. <a id="a89_54"></a>[[LU 56:10.21](/es/The_Urantia_Book/56#p10_21)]
 
 Podemos encontrar algunas pistas para hacer que la adoración funcione en declaraciones como esta:
 
-> _…adoramos simplemente a Dios por lo que comprendemos que él es. … le rendimos esa devoción y nos dedicamos a esa adoración como reacción espontánea y natural al reconocimiento de la personalidad incomparable del Padre y a causa de su naturaleza encantadora y de sus atributos adorables._ <a id="a92_268"></a>[[LU 5:3.3](/es/The_Urantia_Book/5#p3_3)]
+> _…adoramos simplemente a Dios por lo que comprendemos que él es. … le rendimos esa devoción y nos dedicamos a esa adoración como reacción espontánea y natural al reconocimiento de la personalidad incomparable del Padre y a causa de su naturaleza encantadora y de sus atributos adorables._ <a id="a93_291"></a>[[LU 5:3.3](/es/The_Urantia_Book/5#p3_3)]
 
 Entonces ¿qué marco debemos utilizar durante nuestras meditaciones o sesiones de adoración para reflexionar sobre la «naturaleza encantadora» y los «atributos adorables» del Padre? He aquí algunas pistas más:
 
-> _… de todas las revelaciones de la naturaleza divina, la más instructiva y la más espiritualmente edificante ha de buscarse en la comprensión de la vida religiosa de Jesús de Nazaret…. Si la vida encarnada de Miguel la tomamos como trasfondo de la revelación de Dios al hombre, podemos intentar poner en símbolos verbales humanos ciertas ideas e ideales sobre la naturaleza divina que quizás puedan contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y del carácter de la personalidad del Padre Universal_. <a id="a96_535"></a>[[LU 2:0.2](/es/The_Urantia_Book/2#p0_2) ]
+> _… de todas las revelaciones de la naturaleza divina, la más instructiva y la más espiritualmente edificante ha de buscarse en la comprensión de la vida religiosa de Jesús de Nazaret…. Si la vida encarnada de Miguel la tomamos como trasfondo de la revelación de Dios al hombre, podemos intentar poner en símbolos verbales humanos ciertas ideas e ideales sobre la naturaleza divina que quizás puedan contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y del carácter de la personalidad del Padre Universal_. <a id="a97_534"></a>[[LU 2:0.2](/es/The_Urantia_Book/2#p0_2) ]
 
-> _… vuestra mayor revelación del amor del Padre se puede contemplar en la vida de donación de su Hijo Miguel cuando vivió en la Tierra la vida espiritual ideal._ <a id="a98_147"></a>[[LU 2:5.10](/es/The_Urantia_Book/2#p5_10)]
+> _… vuestra mayor revelación del amor del Padre se puede contemplar en la vida de donación de su Hijo Miguel cuando vivió en la Tierra la vida espiritual ideal._ <a id="a99_163"></a>[[LU 2:5.10](/es/The_Urantia_Book/2#p5_10)]
 
-> _Cuando meditéis sobre la naturaleza amorosa de Dios, sólo hay una reacción razonable y natural de la personalidad: amaréis a vuestro Hacedor cada vez más; tendréis por Dios un afecto análogo al que un niño siente por su padre terrestre; porque al igual que un padre, un padre real, un verdadero padre, ama a sus hijos, el Padre Universal ama a sus hijos e hijas creados y busca constantemente su bienestar._ <a id="a100_409"></a>[[LU 2:5.9](/es/The_Urantia_Book/2#p5_9)]
+> _Cuando meditéis sobre la naturaleza amorosa de Dios, sólo hay una reacción razonable y natural de la personalidad: amaréis a vuestro Hacedor cada vez más; tendréis por Dios un afecto análogo al que un niño siente por su padre terrestre; porque al igual que un padre, un padre real, un verdadero padre, ama a sus hijos, el Padre Universal ama a sus hijos e hijas creados y busca constantemente su bienestar._ <a id="a101_411"></a>[[LU 2:5.9](/es/The_Urantia_Book/2#p5_9)]
 
-> _La experiencia de amar es en gran medida una respuesta directa a la experiencia de ser amado._ <a id="a102_94"></a>[[LU 2:5.8](/es/The_Urantia_Book/2#p5_8)]
+> _La experiencia de amar es en gran medida una respuesta directa a la experiencia de ser amado._ <a id="a103_98"></a>[[LU 2:5.8](/es/The_Urantia_Book/2#p5_8)]
 
 ¿Y qué hay del servicio? Esta cita lo dice todo:
 
-> _Todo amor verdadero procede de Dios, y el hombre recibe el afecto divino a medida que ofrece este amor a sus semejantes. El amor es dinámico. Nunca puede ser apresado; es vivo, libre, emocionante y está siempre en movimiento. El hombre nunca puede coger el amor del Padre y encarcelarlo dentro de su corazón. El amor del Padre sólo puede volverse real para el hombre mortal cuando pasa a través de la personalidad de ese hombre a medida que otorga a su vez este amor a sus semejantes._ <a id="a106_432"></a>[[LU 117:6.10](/es/The_Urantia_Book/117#p6_10)]
+> _Todo amor verdadero procede de Dios, y el hombre recibe el afecto divino a medida que ofrece este amor a sus semejantes. El amor es dinámico. Nunca puede ser apresado; es vivo, libre, emocionante y está siempre en movimiento. El hombre nunca puede coger el amor del Padre y encarcelarlo dentro de su corazón. El amor del Padre sólo puede volverse real para el hombre mortal cuando pasa a través de la personalidad de ese hombre a medida que otorga a su vez este amor a sus semejantes._ <a id="a107_489"></a>[[LU 117:6.10](/es/The_Urantia_Book/117#p6_10)]
 
 Algo bastante potente: «_El amor del Padre **solo** puede volverse **real** para el nombre mortal cuando pasa a través de la personalidad de ese hombre a medida que otorga a su vez este amor a sus semejantes…»_ (negrita añadida)
 
@@ -122,7 +122,7 @@ La motivación para servir se manifiesta de diferentes maneras. Está el aspecto
 Entonces, si estamos tan motivados para derramar este amor a nuestro prójimo (para dar algo a cambio en el servicio amoroso desinteresado), ¿cómo nos organizamos para reunirnos y ser eficaces en esta sección de hacer del servicio el centro de nuestra vida?
 <br style="clear:both;"/>
 
-> _La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres. _ <a id="a123_246"></a>[[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
+> _La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres. _ <a id="a124_258"></a>[[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
 
 Considero que esta idea de «organizar el alma para un servicio dinámico» tiene dos vertientes:
 

@@ -269,8 +269,9 @@ Obviamente todo estaba arreglado de antemano. Cuando un auto entró en nuestra c
 
 Le entregué algo de dinero. «Aquí tienes, creo que lo encontrarás bien».
 
-Una mano salió y tomó el dinero. "No puedo verlo,
-Sólo tengo que confiar en ti”, respondió una voz. «Los paquetes están en el asiento trasero».
+Una mano salió y tomó el dinero. «No puedo verlo,»
+
+«Sólo tengo que confiar en ti», respondió una voz. «Los paquetes están en el asiento trasero».
 
 Abrí rápidamente una de las puertas traseras y vi dos cajas y una bolsa de plástico. Tomé las dos cajas y volví a cerrar la puerta del auto.
 

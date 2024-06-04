@@ -42,18 +42,18 @@ dateCreated: 2023-9-16T10:55:6Z
 Últimamente he estado pensando en los noditas y los amadonitas. Los noditas descendían del grupo rebelde de dalamatianos, mientras que los amadonitas descendían de los dalamatianos leales. En realidad, eran primos. Pero la animosidad entre los dos grupos fue pasando de generación en generación mucho después de la ruptura original. Se nos dice que:
 <br style="clear:both;"/>
 
-> _Existía una enemistad tradicional entre los noditas y los amadonitas. Este odio hereditario afloraba constantemente cada vez que los descendientes de estos dos grupos intentaban participar en alguna empresa común. Incluso más tarde, les resultó extremadamente difícil trabajar juntos en paz en los asuntos del Edén._ <a id="a43_317"></a>[[LU 73:1.4](/es/The_Urantia_Book/73#p1_4)]
+> _Existía una enemistad tradicional entre los noditas y los amadonitas. Este odio hereditario afloraba constantemente cada vez que los descendientes de estos dos grupos intentaban participar en alguna empresa común. Incluso más tarde, les resultó extremadamente difícil trabajar juntos en paz en los asuntos del Edén._ <a id="a44_320"></a>[[LU 73:1.4](/es/The_Urantia_Book/73#p1_4)]
 
 ¡Eso es más de 160.000 años de conflicto! ¿Se lo pueden imaginar? A ver, tengo cinco hermanos, así que puedo imaginarme 60 ó 70 años de animosidad, ¿pero 160.000 años?
 
 
 Esta capacidad de guardar rencor y pasarlo a la generación siguiente está dentro de todos nosotros. Es parte de nuestra herencia como seres humanos. A propósito de los primeros clanes andonitas, se nos dice que:
 
-> _Sólo había dos cosas que llegaron a ocupar la mente de estos pueblos: cazar para obtener comida y combatir para vengarse de alguna injusticia o de algún insulto, real o supuesto, cometido por las tribus vecinas._ <a id="a49_210"></a>[[LU 63:4.7](/es/The_Urantia_Book/63#p4_7)]
+> _Sólo había dos cosas que llegaron a ocupar la mente de estos pueblos: cazar para obtener comida y combatir para vengarse de alguna injusticia o de algún insulto, real o supuesto, cometido por las tribus vecinas._ <a id="a51_216"></a>[[LU 63:4.7](/es/The_Urantia_Book/63#p4_7)]
 
 Mi esposa y yo dimos una presentación una vez sobre nuestros pensamientos acerca de ser padres en la comunidad Urantia y dijimos que una de nuestras metas como padres es criar a nuestros hijos con menos lastre cultural del que heredamos. Es más fácil adoptarlo como teoría que ponerlo en práctica.
 
-> _A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos; los preceptos, e incluso el ejemplo, no les influye de manera duradera._ <a id="a53_142"></a>[[LU 100:1.4](/es/The_Urantia_Book/100#p1_4)]
+> _A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos; los preceptos, e incluso el ejemplo, no les influye de manera duradera._ <a id="a55_167"></a>[[LU 100:1.4](/es/The_Urantia_Book/100#p1_4)]
 
 ¿Cuántas de mis lealtades están dedicadas a guardar desprecios y rencores personales?
 

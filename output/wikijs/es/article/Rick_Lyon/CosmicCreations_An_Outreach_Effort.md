@@ -38,7 +38,7 @@ _De Rick Lyon, Indiana (Estados Unidos)_
 
 La primavera de 2015, lancé un nuevo negocio/iniciativa de asistencia para dar servicio a la comunidad de lectores de _El libro de Urantia_. CosmicCreations es una tienda en línea especializada en artículos relacionados con Urantia que muestra, con permiso, el símbolo de los círculos concéntricos. CosmicCreations no está afiliada a ninguna organización de lectores, pero está comprometida a servir y dar apoyo a todos los lectores de la quinta revelación de época en todo el mundo.
 
-El propósito de esta tienda en línea es triple. Primero, al mostrar el símbolo de los círculos concéntricos, pueden invitar a que personas curiosas pregunten: “¿qué es Urantia?” o “¿qué representan los círculos?”. Quizá esto les abra puertas para compartir las enseñanzas de _El libro de Urantia_ con alguien nuevo.
+El propósito de esta tienda en línea es triple. Primero, al mostrar el símbolo de los círculos concéntricos, pueden invitar a que personas curiosas pregunten: «¿qué es Urantia?» o «¿qué representan los círculos?». Quizá esto les abra puertas para compartir las enseñanzas de _El libro de Urantia_ con alguien nuevo.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/047.jpg">
@@ -51,9 +51,9 @@ Segundo, pueden encontrar individuos afines que estén cerca y a los que no cono
 <figcaption><em>Rick Lyon and Susan Grzeskowiak</em></figcaption>
 </figure>
 
-Cuando vean su camiseta, polo, sombrero o colgante, les reconocerán inmediatamente como “lectores”. Quizá esto lleve a crear amistades y finalmente a formar un grupo de estudio en su zona.
+Cuando vean su camiseta, polo, sombrero o colgante, les reconocerán inmediatamente como «lectores». Quizá esto lleve a crear amistades y finalmente a formar un grupo de estudio en su zona.
 
-Y tercero, cada vez que usan su taza de café de Urantia, su etiqueta de equipaje en el aeropuerto o su llavero cuando se dirigen al trabajo, recordarán que son parte del proyecto más importante que hay hoy día en el planeta. Recordarán diariamente que (en palabras del Mandato de Publicación) “están participando en el nacimiento de una nueva era de religión en este mundo”.
+Y tercero, cada vez que usan su taza de café de Urantia, su etiqueta de equipaje en el aeropuerto o su llavero cuando se dirigen al trabajo, recordarán que son parte del proyecto más importante que hay hoy día en el planeta. Recordarán diariamente que (en palabras del Mandato de Publicación) «están participando en el nacimiento de una nueva era de religión en este mundo».
 
 CosmicCreations ha sido muy bien recibida, y se han enviado muchos comentarios positivos en el sitio web, eBay y Facebook. Susan Grzeskowiak, la artista y diseñadora de los productos, y yo tenemos el placer de informar de que estamos contactando con muchos lectores que hasta ahora no conocíamos; algunos de ellos nunca han contactado con otros lectores o han asistido a un evento.
 

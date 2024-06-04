@@ -41,9 +41,9 @@ dateCreated: 2023-9-16T10:55:6Z
 
 _A continuación se ofrecen dos respuestas a los artículos publicados por Gaétan Charland, presidente de Grupos de Estudio de la asociación en el Tidings de noviembre de 2016 en relación con el tema de los lectores jóvenes en los grupos de estudio._ Gaétan escribió:
 
-> “Tras regresar de la conferencia de Budapest, uno de nuestros miembros contactó conmigo para preguntarme por los diferentes modelos de grupo de estudio que conozco, porque lo que esta lectora decía en su mensaje es que las nuevas generaciones están menos inclinadas a unirse a grupos de estudio de la manera en que están estructurados en su mayoría….
+> «Tras regresar de la conferencia de Budapest, uno de nuestros miembros contactó conmigo para preguntarme por los diferentes modelos de grupo de estudio que conozco, porque lo que esta lectora decía en su mensaje es que las nuevas generaciones están menos inclinadas a unirse a grupos de estudio de la manera en que están estructurados en su mayoría….»
 > 
-> “Si eres un lector joven y te gustaría ayudarnos a encontrar respuestas y soluciones a lo que he mencionado aquí, contacta conmigo en esta dirección: [studygroupchair.uai@gmail.com](mailto:studygroupchair.uai@gmail.com)”
+> «Si eres un lector joven y te gustaría ayudarnos a encontrar respuestas y soluciones a lo que he mencionado aquí, contacta conmigo en esta dirección: [studygroupchair.uai@gmail.com](mailto:studygroupchair.uai@gmail.com)»
 
 ([Hagan clic aquí para leer el artículo completo](http://urantia-association.org/2016/11/06/study-groups-and-young-people/))
 

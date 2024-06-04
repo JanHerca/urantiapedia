@@ -54,7 +54,7 @@ Luz y Vida núm. 43 — Marzo 2016
 
 ## Editorial
 
-Queridos amigos: una vez hemos entrado de pleno en el nuevo año, tenemos algunos buenos trabajos que ofreceros. En primer lugar, recuperamos una conversación que se produjo en la lista de la Asociación,"El rincón de Urantia”, acerca del reciente descubrimiento de un nuevo planeta del sistema solar, situado más allá de la órbita de Plutón. Recordemos que en el libro se menciona que el sistema solar tiene doce planetas (contando el cinturón de asteroides), así que será muy interesante ver cómo se concilian las observaciones de la ciencia con lo que se dice en el libro al respecto.
+Queridos amigos: una vez hemos entrado de pleno en el nuevo año, tenemos algunos buenos trabajos que ofreceros. En primer lugar, recuperamos una conversación que se produjo en la lista de la Asociación, «El rincón de Urantia», acerca del reciente descubrimiento de un nuevo planeta del sistema solar, situado más allá de la órbita de Plutón. Recordemos que en el libro se menciona que el sistema solar tiene doce planetas (contando el cinturón de asteroides), así que será muy interesante ver cómo se concilian las observaciones de la ciencia con lo que se dice en el libro al respecto.
 
 A continuación, tenemos un artículo que recoge dos intervenciones de David Carrera y Santiago Flores sobre uno de los temas «espinosos» del libro: la eugenesia. Agradecemos estos puntos de vista tan desprejuiciados y valientes acerca de un tema que lleva tantas décadas mal comprendido.
 

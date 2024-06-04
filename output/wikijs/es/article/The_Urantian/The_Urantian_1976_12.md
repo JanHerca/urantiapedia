@@ -32,11 +32,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-«_Vuestra revelación de la verdad debe ser tan realzada al pasar por vuestra experiencia personal, que ha de descubrir una nueva belleza y unos beneficios espirituales reales a todos aquellos que contemplan vuestros frutos espirituales, viéndose inducidos en consecuencia a glorificar al Padre que está en los cielos._» ( [LU 176:3.7](/es/The_Urantia_Book/176#p3_7))
+«_Vuestra revelación de la verdad debe ser tan realzada al pasar por vuestra experiencia personal, que ha de descubrir una nueva belleza y unos beneficios espirituales reales a todos aquellos que contemplan vuestros frutos espirituales, viéndose inducidos en consecuencia a glorificar al Padre que está en los cielos._» ( <a id="a34_322"></a>[LU 176:3.7](/es/The_Urantia_Book/176#p3_7))
 
 ## Un resplandor interior
 
-«_Que vuestra luz brille ante los hombres de tal manera que puedan ver vuestras buenas obras y sean inducidos a glorificar a vuestro Padre que está en los cielos._» ([LU 140:3.13](/es/The_Urantia_Book/140#p3_13)) Así habló Jesús a los apóstoles en el sermón de ordenación; y desde entonces, durante más de 1900 años, los hombres han llevado a cabo este mandato de acuerdo con su propia iluminación y capacidad conceptual.
+«_Que vuestra luz brille ante los hombres de tal manera que puedan ver vuestras buenas obras y sean inducidos a glorificar a vuestro Padre que está en los cielos._» (<a id="a38_166"></a>[LU 140:3.13](/es/The_Urantia_Book/140#p3_13)) Así habló Jesús a los apóstoles en el sermón de ordenación; y desde entonces, durante más de 1900 años, los hombres han llevado a cabo este mandato de acuerdo con su propia iluminación y capacidad conceptual.
 
 Nosotros, como urantianos, nos enfrentamos individualmente al desafío de cómo dejar que nuestra «luz brille tanto» que otros, al verla, puedan verse tentados a seguir su ejemplo, cada uno según su propio entendimiento.
 
@@ -56,7 +56,7 @@ Por supuesto, todos tenemos nuestros propios «demonios» a quienes culpar de nu
 
 —_Wesley James_
 
-> «_...mientras que las revelaciones de Dios brillan sobre la Tierra en la vida de los hombres que revelan a Dios a sus semejantes._» ([LU 132:7.6](/es/The_Urantia_Book/132#p7_6))
+> «_...mientras que las revelaciones de Dios brillan sobre la Tierra en la vida de los hombres que revelan a Dios a sus semejantes._» (<a id="a58_135"></a>[LU 132:7.6](/es/The_Urantia_Book/132#p7_6))
 
 ## Viviendo en la realidad
 
@@ -70,13 +70,13 @@ Dios tiene un plan para el Universo de Universos. «Él conoce el final desde el
 
 —_Matthew Rapaport_
 
-> «_Continuad hasta que yo regrese. ..._» ([LU 176:3.6](/es/The_Urantia_Book/176#p3_6))
+> «_Continuad hasta que yo regrese. ..._» (<a id="a72_43"></a>[LU 176:3.6](/es/The_Urantia_Book/176#p3_6))
 
 ## Sembrando Semillas
 
-En los 21 años transcurridos desde su publicación, _El Libro de URANTIA_ ha llegado a manos de más de 60.000 personas que buscan a Dios. El crecimiento de las ventas del libro se puede comparar con la parábola del sembrador, que “_... echó buena semilla en la tierra;... y aunque no sabía cómo era, la planta dio fruto._ ([LU 151:3.15](/es/The_Urantia_Book/151#p3_15)) Desde unos comienzos muy humildes, las ventas han aumentado hasta alcanzar un promedio de casi 10.000 libros al año. Si continuamos haciendo que _El Libro de URANTIA_ esté tan ampliamente disponible como sea posible, a través de bibliotecas, librerías minoristas y regalándolo, podemos ayudar a fomentar una cosecha abundante.
+En los 21 años transcurridos desde su publicación, _El Libro de URANTIA_ ha llegado a manos de más de 60.000 personas que buscan a Dios. El crecimiento de las ventas del libro se puede comparar con la parábola del sembrador, que «_... echó buena semilla en la tierra;... y aunque no sabía cómo era, la planta dio fruto._ (<a id="a76_322"></a>[LU 151:3.15](/es/The_Urantia_Book/151#p3_15)) Desde unos comienzos muy humildes, las ventas han aumentado hasta alcanzar un promedio de casi 10.000 libros al año. Si continuamos haciendo que _El Libro de URANTIA_ esté tan ampliamente disponible como sea posible, a través de bibliotecas, librerías minoristas y regalándolo, podemos ayudar a fomentar una cosecha abundante.
 
-> «_No olvidéis que sólo estáis encargados de salir a predicar la buena nueva. No debéis atacar las viejas costumbres; debéis introducir hábilmente la levadura de la nueva verdad en medio de las antiguas creencias._» ([LU 178:1.16](/es/The_Urantia_Book/178#p1_16))
+> «_No olvidéis que sólo estáis encargados de salir a predicar la buena nueva. No debéis atacar las viejas costumbres; debéis introducir hábilmente la levadura de la nueva verdad en medio de las antiguas creencias._» (<a id="a78_218"></a>[LU 178:1.16](/es/The_Urantia_Book/178#p1_16))
 
 ## La Escuela de la Hermandad
 
@@ -92,7 +92,7 @@ La Hermandad URANTIA durante los primeros veinte años de su existencia se ha de
 
 ¿El Libro de URANTIA ha cambiado su concepto de oración? ¿Cuál es el valor de la oración para usted? ¿Es una parte habitual de tu vida? Si es así, ¿por qué? Si no, ¿cuáles son tus razones? Envíenos sus pensamientos y sentimientos sobre este tema, ya que se está considerando la «Oración» como un posible tema futuro de The URANTIAN Journal.
 
-> «_Habéis recibido gratuitamente; por eso deberíais dar gratuitamente la verdad del cielo, y al darla, esta verdad se multiplicará y mostrará la luz creciente de la gracia salvadora a medida que la prodiguéis._» ([LU 176:3.10](/es/The_Urantia_Book/176#p3_10))
+> «_Habéis recibido gratuitamente; por eso deberíais dar gratuitamente la verdad del cielo, y al darla, esta verdad se multiplicará y mostrará la luz creciente de la gracia salvadora a medida que la prodiguéis._» (<a id="a94_214"></a>[LU 176:3.10](/es/The_Urantia_Book/176#p3_10))
 
 
 

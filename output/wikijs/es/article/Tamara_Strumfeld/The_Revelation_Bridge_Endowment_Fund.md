@@ -52,7 +52,7 @@ La Universidad de Harvard tiene un fondo de dotación de 36,4 mil millones de d�
 
 La intención del Puente de la Revelación es asegurar que _El libro de Urantia_ y sus enseñanzas se sigan distribuyendo y diseminando a todos los pueblos del mundo. Este es el compromiso que hizo la Fundación Urantia al mantener su fideicomiso. Es también un trabajo en equipo en el que toda persona que se haya beneficiado de estas enseñanzas puede participar.
 
-> “La seguridad de la civilización misma depende todavía de la buena voluntad creciente de cada generación en invertir en el bienestar de la próxima generación y de las siguientes.” <a id="a54_182"></a>[LU 84:7.27](/es/The_Urantia_Book/84#p7_27)
+> «La seguridad de la civilización misma depende todavía de la buena voluntad creciente de cada generación en invertir en el bienestar de la próxima generación y de las siguientes.» <a id="a54_182"></a>[LU 84:7.27](/es/The_Urantia_Book/84#p7_27)
 
 Únanse a nosotros y consideren dejar una donación planeada para el Fondo de Dotación del Puente de la Revelación. Para obtener más información, visiten [urantia.plannedgiving.org](https://urantia.plannedgiving.org/) o contacten con la Fundación Urantia en [tamara@urantia.org](mailto:tamara@urantia.org) o llamen al 773-525-3319. Estaremos muy contentos de hablar con ustedes sobre los próximos pasos a seguir que ayuden a asegurar el futuro de la quinta revelación de época.
 

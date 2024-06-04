@@ -38,7 +38,7 @@ _Nota del editor: este artículo ha aparecido en otras publicaciones escritas po
 
 Dado que los lectores de _El Libro de URANTIA_ seguramente están interesados en el tema de la profecía, puede ser oportuno y útil estudiar más profundamente lo que nuestro libro dice sobre el futuro relativamente cercano.
 
-Las cosas más significativas que Jesús dijo al respecto se encuentran en la sección 2 del Documento 176, donde dijo: «_Las cosas que ahora contempláis a vuestros pies están llegando a su fin, pero éste será un nuevo comienzo, a partir del cual el evangelio del reino se extenderá por todo el mundo, y esta salvación se difundirá a todos los pueblos. Cuando el reino haya llegado a su plena madurez, estad seguros de que el Padre que está en los cielos no dejará de visitaros con una revelación ampliada de la verdad..._» ([LU 176:2.3](/es/The_Urantia_Book/176#p2_3))
+Las cosas más significativas que Jesús dijo al respecto se encuentran en la sección 2 del Documento 176, donde dijo: «_Las cosas que ahora contempláis a vuestros pies están llegando a su fin, pero éste será un nuevo comienzo, a partir del cual el evangelio del reino se extenderá por todo el mundo, y esta salvación se difundirá a todos los pueblos. Cuando el reino haya llegado a su plena madurez, estad seguros de que el Padre que está en los cielos no dejará de visitaros con una revelación ampliada de la verdad..._» (<a id="a40_522"></a>[LU 176:2.3](/es/The_Urantia_Book/176#p2_3))
 
 [Leer más](/es/article/Henry_Begemann/Springtime_A_study_of_the_future_3)
 
@@ -56,7 +56,7 @@ _Bartlesville, Oklahoma_
 
 ---
 
-> «_El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva._» ([LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
+> «_El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva._» (<a id="a58_247"></a>[LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
 
 
 

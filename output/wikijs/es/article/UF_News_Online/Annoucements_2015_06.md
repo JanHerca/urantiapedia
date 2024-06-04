@@ -39,9 +39,9 @@ _El libro de Urantia_ nos dice que, cuando nos guía el Espíritu de Dios, somos
 
 ¿Se han sentido alguna vez inspirados por algún valor, han actuado según él y eso les ha traído alegría espiritual?
 
-En nuestro próximo retiro, “Bailar con Dios”, cuatro hijas de Dios han reunido un programa en el que los participantes explorarán cuestiones tales como:
+En nuestro próximo retiro, «Bailar con Dios», cuatro hijas de Dios han reunido un programa en el que los participantes explorarán cuestiones tales como:
 
-¿Cómo comprendemos y experimentamos el hecho de que “la mujer ha sido siempre la abanderada moral y la dirigente espiritual de la humanidad”? ¿Cuál es el siguiente paso evolutivo de la mujer para mantener y expandir esta responsabilidad?
+¿Cómo comprendemos y experimentamos el hecho de que «la mujer ha sido siempre la abanderada moral y la dirigente espiritual de la humanidad»? ¿Cuál es el siguiente paso evolutivo de la mujer para mantener y expandir esta responsabilidad?
 
 A partir de los muchos dones que se nos han dado – mente, cuerpo, espíritu, conciencia y personalidad, por ejemplo - ¿cómo nos volvemos conscientes de lo sagrado de estos dones?
 
@@ -53,9 +53,9 @@ _De Bobbie Dreier, Nueva Jersey (Estados Unidos)_
 
 Lugar: Techny Towers, Northook (Illinoois), del 9 al 12 de julio
 
-Únanse a compañeros lectores de _El libro de Urantia_ este verano para explorar “Nuestra relación con Dios Padre”. Basándose en los documentos 1 al 5, el Comité de Educación va a iniciar un viaje por los temas principales de _El libro de Urantia_. El comité de conferencias está planeando una gran variedad de experiencias, que incluyen talleres para nuevos lectores, estudio en profundidad, talleres experienciales y estudios avanzados. Además del programa de estudio, habrá oportunidades de participar en meditación adoradora, de disfrutar de los viejos amigos y de hacer nuevos.
+Únanse a compañeros lectores de _El libro de Urantia_ este verano para explorar «Nuestra relación con Dios Padre». Basándose en los documentos 1 al 5, el Comité de Educación va a iniciar un viaje por los temas principales de _El libro de Urantia_. El comité de conferencias está planeando una gran variedad de experiencias, que incluyen talleres para nuevos lectores, estudio en profundidad, talleres experienciales y estudios avanzados. Además del programa de estudio, habrá oportunidades de participar en meditación adoradora, de disfrutar de los viejos amigos y de hacer nuevos.
 
-Se celebrará un retiro preconferencia del 7 al 9 de julio, “Crear círculos de confianza”.
+Se celebrará un retiro preconferencia del 7 al 9 de julio, «Crear círculos de confianza».
 
 Inscripción en línea en [http://www.urantiabook.org/](http://www.urantiabook.org/)
 

@@ -64,7 +64,7 @@ Dado el éxito que tuvo en el Encuentro pasado, el último día habrá una sesi�
 
 - 16:00-18:00 h...............Recepción.
 - 18:00-18:30 h..............Bienvenida y explicación de las actividades.
-- 18:30-20:00 h.............."El otorgamiento de Miguel” (presentación y debate).
+- 18:30-20:00 h..............«El otorgamiento de Miguel» (presentación y debate).
 - 20:00-21:00 h.............. Tiempo libre.
 - 21:00-22:00 h............. Cena.
 - 22:00 h............. Tertulia abierta sobre Jesús (opcional).

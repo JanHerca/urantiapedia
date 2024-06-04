@@ -54,7 +54,7 @@ _Montreal Canadá_
 
 ---
 
-> «_Sin Dios, y exceptuando su persona magnífica y central, no habría ninguna personalidad en todo el inmenso universo de universos. *Dios es personalidad.*_» ([LU 1:5.7](/es/The_Urantia_Book/1#p5_7))
+> «_Sin Dios, y exceptuando su persona magnífica y central, no habría ninguna personalidad en todo el inmenso universo de universos. *Dios es personalidad.*_» (<a id="a56_160"></a>[LU 1:5.7](/es/The_Urantia_Book/1#p5_7))
 
 
 

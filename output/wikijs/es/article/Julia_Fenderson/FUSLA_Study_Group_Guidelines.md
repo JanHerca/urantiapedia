@@ -44,7 +44,7 @@ Recuerden que _El Libro de URANTIA_ es el motivo de la reunión, así que manté
 
 Se ha descubierto que es útil, aunque no esencial, tener una pizarra donde se puedan anotar ciertas notas o información especial, como la tarea y el líder del día y de la próxima vez. O bien, se pueden anotar investigaciones adicionales o referencias cruzadas sobre el artículo que se está leyendo...
 
-Uno de los propósitos de nuestros grupos de estudio, además de aprender _El Libro de URANTIA_, se expresa en [LU 103:1.3](/es/The_Urantia_Book/103#p1_3): «_Aunque vuestra religión es un asunto de experiencia personal, es sumamente importante que lleguéis a conocer una gran cantidad de otras experiencias religiosas (las diversas interpretaciones de otros mortales diferentes) a fin de que podáis impedir que vuestra vida religiosa se vuelva egocéntrica — circunscrita, egoísta e insociable._»
+Uno de los propósitos de nuestros grupos de estudio, además de aprender _El Libro de URANTIA_, se expresa en <a id="a46_109"></a>[LU 103:1.3](/es/The_Urantia_Book/103#p1_3): «_Aunque vuestra religión es un asunto de experiencia personal, es sumamente importante que lleguéis a conocer una gran cantidad de otras experiencias religiosas (las diversas interpretaciones de otros mortales diferentes) a fin de que podáis impedir que vuestra vida religiosa se vuelva egocéntrica — circunscrita, egoísta e insociable._»
 
 —_Julia Fenderson_
 

@@ -237,13 +237,13 @@ Finalmente, deseo ofrecer este tributo, una _muestra angelical_, presentado como
 > Los ángeles de la guarda aman las costumbres caseras de los hombres, desean compartir las horas de trabajo y de ocio; el amor de los niños y sus juegos, y todo el ambiente alegre del hogar. Protegerían los hogares de los hombres, manteniendo alejadas todas las influencias del peligro y la lucha, de la oscuridad y la enfermedad. —Geoffrey Hodson [^31]
 
 > ¡Qué hermoso, qué encantador el espectáculo, cuando los niños obedecen a su maestro!
-> Los ángeles miran hacia abajo con deleite, esta hermosa escena para contemplar.”—Recompensa del Mérito del Siglo XIX [^32]
+> Los ángeles miran hacia abajo con deleite, esta hermosa escena para contemplar.—Recompensa del Mérito del Siglo XIX [^32]
 
 > Señor, protégenos esta noche, a salvo de todo temor,
-> Que los ángeles nos cuiden mientras dormimos, hasta que aparezca la luz de la mañana.” —Mensaje de tarjeta postal [^33]
+> Que los ángeles nos cuiden mientras dormimos, hasta que aparezca la luz de la mañana. —Mensaje de tarjeta postal [^33]
 
 > Un ángel de la guarda debe estar siempre a su lado desde el principio hasta el final de la vida... para incitar al bien. En el dolor es consolador, en la debilidad, fortaleza; aun en la muerte es fiel...
-> y después de la muerte lleva el espíritu a San Miguel, el Señor de las Almas.”—Clara Erskine Clement [^34]
+> y después de la muerte lleva el espíritu a San Miguel, el Señor de las Almas.—Clara Erskine Clement [^34]
 
 > Pero sobre todo, mirad que no despreciéis a ninguno de estos pequeños, porque sus ángeles siempre contemplan los rostros de las huestes celestiales. —Jesús (Énfasis mío) <a id="a247_172"></a>[[LU 158:8.1](/es/The_Urantia_Book/158#p8_1)]
 

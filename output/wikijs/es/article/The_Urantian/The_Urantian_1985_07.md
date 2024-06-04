@@ -53,7 +53,7 @@ _Wilmette, Illinois_
 
 A medida que este número completa su proceso de producción final, comenzamos a recibir las primeras respuestas a las preguntas que planteamos en los dos últimos números. Comenzaremos a incluir algunas respuestas en nuestro próximo número, pero sólo para que sigan pensando, aquí hay otra pregunta basada en esta cita del Documento 3 de _El Libro de URANTIA_:
 
-> «_Es un gran disparate humanizar a Dios, salvo en el concepto del Ajustador del Pensamiento interior, pero incluso esto no es tan insensato como *mecanizar* por completo la idea de la Gran Fuente-Centro Primera._» ([LU 3:6.5](/es/The_Urantia_Book/3#p6_5))
+> «_Es un gran disparate humanizar a Dios, salvo en el concepto del Ajustador del Pensamiento interior, pero incluso esto no es tan insensato como *mecanizar* por completo la idea de la Gran Fuente-Centro Primera._» (<a id="a55_217"></a>[LU 3:6.5](/es/The_Urantia_Book/3#p6_5))
 
 ¿Qué crees que significa esta frase?
 
@@ -63,7 +63,7 @@ Calurosamente.
 
 —_Los editores_
 
-> «_«No os dejéis engañar por aquellos que vienen diciendo: el reino está aquí o el reino está allá, porque el reino de mi Padre no tiene nada que ver con las cosas visibles y materiales. Este reino ya se encuentra ahora entre vosotros, porque allí donde el espíritu de Dios enseña y dirige el alma del hombre, allí está en realidad el reino de los cielos. Y este reino de Dios es rectitud, paz y alegría en el Espíritu Santo»._» ([LU 137:8.9](/es/The_Urantia_Book/137#p8_9)) Jesús en la sinagoga de Cafarnaúm.
+> «_«No os dejéis engañar por aquellos que vienen diciendo: el reino está aquí o el reino está allá, porque el reino de mi Padre no tiene nada que ver con las cosas visibles y materiales. Este reino ya se encuentra ahora entre vosotros, porque allí donde el espíritu de Dios enseña y dirige el alma del hombre, allí está en realidad el reino de los cielos. Y este reino de Dios es rectitud, paz y alegría en el Espíritu Santo»._» (<a id="a65_431"></a>[LU 137:8.9](/es/The_Urantia_Book/137#p8_9)) Jesús en la sinagoga de Cafarnaúm.
 
 
 

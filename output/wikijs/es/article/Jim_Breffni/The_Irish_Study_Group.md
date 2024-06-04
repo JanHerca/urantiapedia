@@ -57,9 +57,9 @@ Los problemas particulares de Irlanda del Norte nos han llevado a examinar cuida
 
 &nbsp; | &nbsp;
 --- | ---
-<a id="a35_0"></a>[LU 70:1.2](/es/The_Urantia_Book/70#p1_2) | La guerra es/interasociaciones humanas
-<a id="a36_0"></a>[LU 99:0.2](/es/The_Urantia_Book/99#p0_2) | Pero los requisitos religiosos/culturales
-<a id="a37_0"></a>[LU 133:1.4](/es/The_Urantia_Book/133#p1_4) | Ganid, yo/al contrario.
+<a id="a59_0"></a>[LU 70:1.2](/es/The_Urantia_Book/70#p1_2) | La guerra es/interasociaciones humanas
+<a id="a60_0"></a>[LU 99:0.2](/es/The_Urantia_Book/99#p0_2) | Pero los requisitos religiosos/culturales
+<a id="a61_0"></a>[LU 133:1.4](/es/The_Urantia_Book/133#p1_4) | Ganid, yo/al contrario.
 
 
 

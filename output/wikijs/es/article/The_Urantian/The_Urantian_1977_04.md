@@ -57,7 +57,7 @@ Las personalidades patrón parecen ser las primeras de su orden, como el ángel 
 
 Las familias genéticas y las familias de grupos de estudio son talleres de Nuestro Padre. Proporcionan ajuste del yo a otros yo. Permiten cultivar el amor de nuestro Padre a través del cual los Ajustadores del Pensamiento, el Espíritu de la Verdad y nuestros otros benefactores espirituales pueden ayudarnos a lograr la elevación de la humanidad.
 
-El hogar brinda la primera oportunidad para fomentar la devoción fraterna entre los miembros. El grupo de estudio 5, cuyos miembros buscan lealmente vivir un servicio amoroso, también se encuentran experimentando relaciones amorosas similares. Al hablar con sus apóstoles acerca del amor y la familia, Jesús dijo: «_La gente de otra época comprenderá mejor el evangelio del reino cuando éste sea presentado en unos términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y la fraternidad de los hombres, la filiación con Dios._» ([LU 142:7.4](/es/The_Urantia_Book/142#p7_4)) Somos el pueblo de otra época.
+El hogar brinda la primera oportunidad para fomentar la devoción fraterna entre los miembros. El grupo de estudio 5, cuyos miembros buscan lealmente vivir un servicio amoroso, también se encuentran experimentando relaciones amorosas similares. Al hablar con sus apóstoles acerca del amor y la familia, Jesús dijo: «_La gente de otra época comprenderá mejor el evangelio del reino cuando éste sea presentado en unos términos que expresen la relación familiar —cuando el hombre comprenda la religión como la enseñanza de la paternidad de Dios y la fraternidad de los hombres, la filiación con Dios._» (<a id="a59_600"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)) Somos el pueblo de otra época.
 
 Los grupos de estudio maduros, como familias «verdaderas», promueven el amor fraternal y el cumplimiento de la «regla de oro» fomentando activamente la revelación de la hermandad del hombre en la tierra. Este es un logro valioso. Pero Jesús advierte a sus seguidores que amen a los hombres como él nos ama a nosotros: que los amen con un afecto paternal y fraternal. Si vamos a representar a Jesús ante nuestra familia de hombres, él espera que mostremos las reacciones supremas de afecto paternal, fe asegurada y amor perfecto.
 
@@ -69,7 +69,7 @@ Los grupos de estudio maduros, como familias «verdaderas», promueven el amor f
 
 A diferencia de las muchas almas valientes que han promovido la verdad espiritual en épocas pasadas, nosotros, los diseminadores mortales de la revelación URANTIA, tenemos muchas ventajas, algunas otorgadas, como el Espíritu de la Verdad, y otras adquiridas, como las comunicaciones masivas, y el poder para ver la historia en retrospectiva. Debido a nuestras ventajas, nuestras responsabilidades son, en cierto sentido, mayores, y es por esta razón que el escritor siente que la comisión reveladora nos ha brindado deliberadamente muchos antecedentes históricos sobre los cuales basar nuestras decisiones futuras.
 
-Una de las declaraciones más importantes para evaluar lo que se ha hecho y lo que se debe y no se debe hacer para promover la verdad espiritual es: «_La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla_» ([LU 92:4.1](/es/The_Urantia_Book/92#p4_1) )
+Una de las declaraciones más importantes para evaluar lo que se ha hecho y lo que se debe y no se debe hacer para promover la verdad espiritual es: «_La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla_» (<a id="a71_246"></a>[LU 92:4.1](/es/The_Urantia_Book/92#p4_1) )
 
 Varios pensamientos pueden pasar por nuestra mente. ¿Debemos dar sólo lo que el tráfico puede soportar? ¿Compromiso? ¿Vendido? Esto está lejos de la intención del autor de Melquisedec. Más bien nos está dando una lección derivada de la larga lucha evolutiva por elevar la vida espiritual de la civilización urantiana. Para ilustrarlo, veamos la experiencia de aquellos que iniciaron o fueron maestros de una revelación de época anterior.
 
@@ -79,7 +79,7 @@ Varios pensamientos pueden pasar por nuestra mente. ¿Debemos dar sólo lo que e
 
 ## El nuevo culto: patrón y símbolo
 
-> «_Pero un culto —un simbolismo de ritos, lemas u objetivos—_» ([LU 87:7.10](/es/The_Urantia_Book/87#p7_10))
+> «_Pero un culto —un simbolismo de ritos, lemas u objetivos—_» (<a id="a81_65"></a>[LU 87:7.10](/es/The_Urantia_Book/87#p7_10))
 
 ¿Qué es un patrón? En el nivel más bajo de nuestra percepción, lo vemos como un fenómeno espacio-temporal, el entrelazamiento de relaciones en un significado. Estéticamente, esta es la relación de colores, de texturas, de sonidos. Psicológicamente es la relación de motivos, de deseos, de acciones. Espiritualmente, es «indescriptible» excepto a través de símbolos.
 
@@ -95,7 +95,7 @@ Tomando un objeto arbitrariamente de nuestra experiencia sensorial, una piedra, 
 
 Como sería imposible tratar adecuadamente un tema tan complejo y difícil como el patrón en un artículo breve, me pregunté cuál es el significado principal y el valor práctico del patrón para mí. En primer lugar, está vinculado con la perfección. La presencia del patrón es la validación y justificación del mandato divino: «Sed perfectos, como yo soy perfecto». ¿Cómo podría nuestro amoroso Padre exigir que sus hijos fueran perfectos si esa perfección no estuviera ya presente como potencial?
 
-La perfección que se nos exige aquí y ahora no es la perfección absoluta. Existe variedad en la perfección (ver _El Libro de URANTIA_, [LU 0:1.19](/es/The_Urantia_Book/0#p1_19)). El patrón también tiene su variedad en fases. El Paraíso es el absoluto del patrón, Havona la perfección del patrón. El supremo
+La perfección que se nos exige aquí y ahora no es la perfección absoluta. Existe variedad en la perfección (ver _El Libro de URANTIA_, <a id="a97_135"></a>[LU 0:1.19](/es/The_Urantia_Book/0#p1_19)). El patrón también tiene su variedad en fases. El Paraíso es el absoluto del patrón, Havona la perfección del patrón. El supremo
 
 Los creadores proyectan patrones en el tiempo y el espacio en niveles siempre descendentes, pero, sin embargo, los patrones siguen siendo patrones; siempre es relativamente perfecto. La misericordia de nuestro Padre Universal garantiza que siempre haya un equilibrio perfecto entre lo que se demanda de nosotros y lo que es potencial para nosotros, patrón. Y al mismo tiempo está la perspectiva infinita: « ...como yo soy perfecto». Un mandato del Dios del amor debe caracterizarse por ese amor. Lo que exige de sus hijos ya se lo ha dado en potencia. Le dijo el padre al hermano mayor del hijo pródigo: «..... todo lo que tengo es tuyo». Su mandato es realmente nuestro mayor privilegio.
 
@@ -113,7 +113,7 @@ Quizás era inevitable que al leer de nuevo sobre la vida de nuestro Padre Unive
 
 - _Marilyn Hauck_
 
-> «_Dios es la primera verdad y el último hecho; por eso toda verdad tiene su origen en él, mientras que todos los hechos existen en relación con él. Dios es la verdad absoluta. Uno puede conocer a Dios bajo la forma de verdad, pero para comprender a Dios —para explicarlo— hay que explorar el hecho del universo de universos._» ([LU 102:6.6](/es/The_Urantia_Book/102#p6_6))
+> «_Dios es la primera verdad y el último hecho; por eso toda verdad tiene su origen en él, mientras que todos los hechos existen en relación con él. Dios es la verdad absoluta. Uno puede conocer a Dios bajo la forma de verdad, pero para comprender a Dios —para explicarlo— hay que explorar el hecho del universo de universos._» (<a id="a115_330"></a>[LU 102:6.6](/es/The_Urantia_Book/102#p6_6))
 
 
 

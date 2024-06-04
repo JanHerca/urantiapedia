@@ -46,7 +46,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 3 al 8 de agosto, Conferencia Internacional 1996, Flagstaff, AZ. Tema: «Fe viva». Contacto: La Fellowship (312) 327-0424.
 
-«... Escoger hacer la voluntad de Dios une la fe espiritual con las decisiones materiales en los actos de la personalidad, proporcionando así un punto de apoyo divino y espiritual para que la palanca humana y material del hambre de Dios funcione con más eficacia». (<a id="a27_266"></a>[LU 110:6.17](/es/The_Urantia_Book/110#p6_17))
+«... Escoger hacer la voluntad de Dios une la fe espiritual con las decisiones materiales en los actos de la personalidad, proporcionando así un punto de apoyo divino y espiritual para que la palanca humana y material del hambre de Dios funcione con más eficacia». (<a id="a48_266"></a>[LU 110:6.17](/es/The_Urantia_Book/110#p6_17))
 
 ## La decisión
 

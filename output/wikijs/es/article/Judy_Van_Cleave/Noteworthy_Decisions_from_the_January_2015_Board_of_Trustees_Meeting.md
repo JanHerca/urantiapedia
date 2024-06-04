@@ -45,7 +45,7 @@ _De Judy Van Cleave, secretaria de la Fundación Urantia, Idaho (Estados Unidos)
 
 ## 1. Mejoras en el sitio web de la Fundación Urantia
 
-La junta aprobó actualizar el “aspecto” del sitio web de la Fundación Urantia. El nuevo aspecto hace más fácil que los visitantes internacionales naveguen por la web. La junta aprobó también el nombramiento de un equipo de gestión de contenidos en la red para hacer que [urantia.org](https://www.urantia.org/) y las redes sociales estén al día y sean interesantes.
+La junta aprobó actualizar el «aspecto» del sitio web de la Fundación Urantia. El nuevo aspecto hace más fácil que los visitantes internacionales naveguen por la web. La junta aprobó también el nombramiento de un equipo de gestión de contenidos en la red para hacer que [urantia.org](https://www.urantia.org/) y las redes sociales estén al día y sean interesantes.
 
 ## 2. Patrocinio de la Conferencia Internacional 2015 de la AUI en Quebec (Canadá)
 

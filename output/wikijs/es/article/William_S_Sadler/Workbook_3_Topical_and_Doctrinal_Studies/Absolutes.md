@@ -31,13 +31,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. La Isla del Paraíso.
 	5. El Absoluto de la Deidad.
 	6. El Absoluto Universal.
-	7. El Absoluto Incalificado. [LU 104:3.5](/es/The_Urantia_Book/104#p3_5)
-2. _El Absoluto de la Deidad_ es el activador omnipotente. [LU 0:11.4](/es/The_Urantia_Book/0#p11_4)
-3. _El Absoluto Incalificado_ es no personal, extradivino y no deificado. [LU 0:11.7](/es/The_Urantia_Book/0#p11_7) Domina el Paraíso inferior y sostiene el universo físico. [LU 11:2.8](/es/The_Urantia_Book/11#p2_8) [LU 56:1.2](/es/The_Urantia_Book/56#p1_2)
-4. _El Absoluto Universal_ iguala las tensiones entre finitud e infinidad, potenciales y actuales, Paraíso y espacio, tiempo y eternidad, hombre y Dios. [LU 0:11.13](/es/The_Urantia_Book/0#p11_13)
-5. La Primera Fuente y Centro es el Absoluto Volitivo; la Segunda Fuente y Centro, el Absoluto de la Personalidad. [LU 6:1.2](/es/The_Urantia_Book/6#p1_2)
-6. La Primera Fuente y Centro es la realidad absoluta que comprendía todos los potenciales y dio origen a todos los actuales. [LU 115:3.6](/es/The_Urantia_Book/115#p3_6)
-7. Los Absolutos de potencialidad actúan en el nivel eterno del cosmos. En los niveles subabsolutos actúan el Supremo y el Último. [LU 115:3.13](/es/The_Urantia_Book/115#p3_13)
+	7. El Absoluto Incalificado. <a id="s33_30"></a>[LU 104:3.5](/es/The_Urantia_Book/104#p3_5)
+2. _El Absoluto de la Deidad_ es el activador omnipotente. <a id="s34_59"></a>[LU 0:11.4](/es/The_Urantia_Book/0#p11_4)
+3. _El Absoluto Incalificado_ es no personal, extradivino y no deificado. <a id="s35_74"></a>[LU 0:11.7](/es/The_Urantia_Book/0#p11_7) Domina el Paraíso inferior y sostiene el universo físico. <a id="s35_174"></a>[LU 11:2.8](/es/The_Urantia_Book/11#p2_8) <a id="s35_216"></a>[LU 56:1.2](/es/The_Urantia_Book/56#p1_2)
+4. _El Absoluto Universal_ iguala las tensiones entre finitud e infinidad, potenciales y actuales, Paraíso y espacio, tiempo y eternidad, hombre y Dios. <a id="s36_153"></a>[LU 0:11.13](/es/The_Urantia_Book/0#p11_13)
+5. La Primera Fuente y Centro es el Absoluto Volitivo; la Segunda Fuente y Centro, el Absoluto de la Personalidad. <a id="s37_115"></a>[LU 6:1.2](/es/The_Urantia_Book/6#p1_2)
+6. La Primera Fuente y Centro es la realidad absoluta que comprendía todos los potenciales y dio origen a todos los actuales. <a id="s38_126"></a>[LU 115:3.6](/es/The_Urantia_Book/115#p3_6)
+7. Los Absolutos de potencialidad actúan en el nivel eterno del cosmos. En los niveles subabsolutos actúan el Supremo y el Último. <a id="s39_131"></a>[LU 115:3.13](/es/The_Urantia_Book/115#p3_13)
 
 
 <br>

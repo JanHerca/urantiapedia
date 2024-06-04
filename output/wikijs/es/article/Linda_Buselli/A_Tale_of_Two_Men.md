@@ -90,7 +90,7 @@ Ahora, ¿cómo podemos seguir los ejemplos de estos dos hombres? En sus libros, 
 
 Cuando estés paseando solo al aire libre, puedes recordar al Señor al menos una vez cada minuto sin ningún esfuerzo. Si va a un lugar donde puede hablar en voz alta sin que lo escuchen, puede hablar con el Compañero invisible dentro de usted.
 
-He descubierto que podemos establecernos en un sentido de la presencia de Dios al hablar continuamente con Él”.
+He descubierto que podemos establecernos en un sentido de la presencia de Dios al hablar continuamente con Él.
 
 En un momento se había desanimado con sus esfuerzos:
 

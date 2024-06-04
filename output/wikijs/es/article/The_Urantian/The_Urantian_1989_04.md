@@ -60,7 +60,7 @@ Muchos de los que se habían sentido consolados por las religiones extrínsecas 
 _Mario C.J. Harrington_
 _Pompano Beach, Florida_
 
-> «_Asumir que el universo puede ser conocido, que es inteligible, es asumir que el universo está hecho por la mente y dirigido por la personalidad. La mente del hombre sólo puede percibir los fenómenos mentales de otras mentes, ya sean humanas o superhumanas. Si la personalidad del hombre puede experimentar el universo, hay una mente divina y una personalidad real ocultas en alguna parte de ese universo._» ([LU 1:6.7](/es/The_Urantia_Book/1#p6_7))
+> «_Asumir que el universo puede ser conocido, que es inteligible, es asumir que el universo está hecho por la mente y dirigido por la personalidad. La mente del hombre sólo puede percibir los fenómenos mentales de otras mentes, ya sean humanas o superhumanas. Si la personalidad del hombre puede experimentar el universo, hay una mente divina y una personalidad real ocultas en alguna parte de ese universo._» (<a id="a62_412"></a>[LU 1:6.7](/es/The_Urantia_Book/1#p6_7))
 
 
 

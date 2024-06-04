@@ -57,7 +57,7 @@ Como grupo de personas entusiastas y deseosas de cambiar el mundo a través de e
 
 No obstante, _nuestro objetivo no es contar con nuevos miembros o nuevos asociados._ En cambio, nuestro objetivo es entronizar a Dios en el corazón de todas las personas, saciar el hambre y la sed espirituales de todos los que buscan conocer a Dios.
 
-> [Jesús] enseñó desde el principio a sus seguidores que el reino de los cielos era una experiencia espiritual consistente en entronizar a Dios en el corazón de los hombres. <a id="a58_158"></a>[[LU 137:7.12](/es/The_Urantia_Book/137#p7_12)]
+> [Jesús] enseñó desde el principio a sus seguidores que el reino de los cielos era una experiencia espiritual consistente en entronizar a Dios en el corazón de los hombres. <a id="a59_174"></a>[[LU 137:7.12](/es/The_Urantia_Book/137#p7_12)]
 
 Si los nuevos descubridores de la revelación están entusiasmados con las enseñanzas y quieren unirse a nuestra organización para ayudar a ampliar el grupo de voluntarios dedicados al servicio de nuestro Padre, la hermandad y la revelación, son más que bienvenidos. Y son realmente necesarios. Pero nuestra misión se alcanzará verdaderamente cuando encuentren a Dios.
 
@@ -75,7 +75,7 @@ Estar preparados, algo importante que conseguir en estos tiempos turbulentos, es
 
 La unidad y la armonía son dos cosas que la gente de todo el mundo ha sido incapaz de alcanzar a lo largo de las actuales batallas ideológicas. En este escenario, la forma más eficaz de que converjan las ideas es a través de Dios; es amor y es un lugar donde todos podemos hablar el mismo idioma y sentir el mismo consuelo. Un lugar donde podemos sentirnos como UNO.
 
-> No tenéis que ver las cosas de la misma manera ni sentir de la misma manera, ni siquiera pensar de la misma manera, para ser espiritualmente de la misma manera. La unidad espiritual proviene de la consciencia de que cada uno de vosotros está habitado en su interior y dominado cada vez más por el don de espíritu del Padre celestial. Vuestra armonía apostólica debe surgir del hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en origen, naturaleza y destino. [[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
+> No tenéis que ver las cosas de la misma manera ni sentir de la misma manera, ni siquiera pensar de la misma manera, para ser espiritualmente de la misma manera. La unidad espiritual proviene de la consciencia de que cada uno de vosotros está habitado en su interior y dominado cada vez más por el don de espíritu del Padre celestial. Vuestra armonía apostólica debe surgir del hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en origen, naturaleza y destino. <a id="a77_485"></a>[[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/carlos7.jpg">

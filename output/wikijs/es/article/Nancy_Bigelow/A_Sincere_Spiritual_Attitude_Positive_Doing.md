@@ -1,5 +1,5 @@
 ---
-title: "“Actitud espiritual” sincera [LU 155:6.12] = “Acción positiva” [LU 159:5.1]"
+title: "«Actitud espiritual» sincera [LU 155:6.12] = «Acción positiva» [LU 159:5.1]"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

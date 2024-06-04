@@ -130,7 +130,7 @@ Las plenarias y talleres de la conferencia también ofrecerán ideas sobre cómo
 <img src="/image/article/IUA_Tidings/Bishops-University-Astronomy-Ad-2014.jpg">
 </figure>
 
-La Universidad Bishop tiene un nuevo observatorio con los últimos telescopios. El viernes 31 de julio por la noche, habrá una presentación especial de 45 minutos de “Un breve recorrido por el universo” seguida de una observación con telescopio en la plataforma del Observatorio ASH. Luego, el grupo entrará a la cúpula para ver los cielos a través del nuevo telescopio de diseño óptico corregido PlaneWave 17″ (f/6.8) de Dall-Kirkham. Los boletos se pueden comprar con su registro.
+La Universidad Bishop tiene un nuevo observatorio con los últimos telescopios. El viernes 31 de julio por la noche, habrá una presentación especial de 45 minutos de «Un breve recorrido por el universo» seguida de una observación con telescopio en la plataforma del Observatorio ASH. Luego, el grupo entrará a la cúpula para ver los cielos a través del nuevo telescopio de diseño óptico corregido PlaneWave 17″ (f/6.8) de Dall-Kirkham. Los boletos se pueden comprar con su registro.
 
 para obtener más información, visite: [http://physics.ubishops.ca/observatory/](http://physics.ubishops.ca/observatory/)
 

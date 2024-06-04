@@ -49,9 +49,9 @@ Ignor afirmó triunfalmente: «¡Creo que he descubierto el infinito!»
 
 Brilly no estuvo de acuerdo
 
-“Creo que terminarías exactamente donde empezaste. Y para realmente lanzarte una «bola curva», también predigo que siempre pasarás exactamente por el mismo lugar en la mitad del camino de cualquier viaje de regreso al punto de partida.
+«Creo que terminarías exactamente donde empezaste. Y para realmente lanzarte una «bola curva», también predigo que siempre pasarás exactamente por el mismo lugar en la mitad del camino de cualquier viaje de regreso al punto de partida.
 
-«Piffle», replicó Ignor, “todavía creo que llegaría al infinito. Te lo dije, siempre iría hacia adelante, entonces, ¿cómo podría terminar donde comencé?
+«Piffle», replicó Ignor, «todavía creo que llegaría al infinito. Te lo dije, siempre iría hacia adelante, entonces, ¿cómo podría terminar donde comencé?
 
 Brilly explicó: «Bueno, es así. Ambos estamos sobre una cosa llamada pelota, y es esférica, lo que significa que está discretamente ubicada en el tiempo y el espacio. Tiene límites claramente definidos y, por lo tanto, no importa qué tan lejos camines, no estás más cerca del infinito después de haber caminado hasta el agotamiento, como lo estabas cuando empezaste. Comprender las esferas como lo hago me da la confianza para predecir exactamente dónde terminarás».
 

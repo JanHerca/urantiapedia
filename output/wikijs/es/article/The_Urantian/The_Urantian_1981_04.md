@@ -67,7 +67,7 @@ En números futuros nos gustaría examinar dos temas de interés y nos gustaría
 - ¿El nivel actual de expresión cultural (desde el arte y la música hasta la vida familiar) en el planeta sugiere que estamos avanzando hacia el eventual logro de la luz y la vida?
 - Dado el nivel de logros evolutivos (políticos, económicos, sociales, etc.) en el que nos encontramos, ¿cómo podemos intercalar mejor las enseñanzas relevantes de _El Libro de URANTIA_ en cada área o disciplina?
 
-> «_Cuando el hombre pierde de vista el amor de un Dios personal, el reino de Dios se vuelve simplemente el reino del bien. A pesar de la unidad infinita de la naturaleza divina, el amor es la característica dominante de todas las relaciones personales de Dios con sus criaturas._» ([LU 2:5.12](/es/The_Urantia_Book/2#p5_12))
+> «_Cuando el hombre pierde de vista el amor de un Dios personal, el reino de Dios se vuelve simplemente el reino del bien. A pesar de la unidad infinita de la naturaleza divina, el amor es la característica dominante de todas las relaciones personales de Dios con sus criaturas._» (<a id="a69_283"></a>[LU 2:5.12](/es/The_Urantia_Book/2#p5_12))
 
 
 

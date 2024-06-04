@@ -41,7 +41,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Tidings/image-10-150x150.jpeg">
 </figure>
 
-> _El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera — una comunión ininterrumpida con Dios — y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias._ <a id="a42_252"></a>[[LU 196:0.10](/es/The_Urantia_Book/196#p0_10)] 
+> _El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera — una comunión ininterrumpida con Dios — y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias._ <a id="a43_306"></a>[[LU 196:0.10](/es/The_Urantia_Book/196#p0_10)] 
 
 ## La moraleja 
 
@@ -53,7 +53,7 @@ Piensa en Dios _todo el tiempo_, tan a menudo como puedas recordar. No te preocu
 
 Nuestras técnicas de práctica son _las oraciones inteligentes y la adoración sincera._ No hay ningún misterio en esas instrucciones, aunque demasiado a menudo racionalizamos nuestra resistencia al plan de perfección. Se nos da muy bien encontrar formas de evitar a Dios, por eso tenemos un Ajustador del Pensamiento que nos ayuda a «dejar de resistirnos».
 
-> _Todos estos movimientos del crecimiento de la personalidad se convierten en unas poderosas influencias que contribuyen a vuestro progreso porque os ayudan a cooperar con el Ajustador; os ayudan a dejar de oponerle resistencia._  <a id="a54_194"></a>[[LU 110:3.2](/es/The_Urantia_Book/110#p3_2)] 
+> _Todos estos movimientos del crecimiento de la personalidad se convierten en unas poderosas influencias que contribuyen a vuestro progreso porque os ayudan a cooperar con el Ajustador; os ayudan a dejar de oponerle resistencia._  <a id="a55_232"></a>[[LU 110:3.2](/es/The_Urantia_Book/110#p3_2)] 
 
 De nuevo, nuestro amistoso espíritu residente (nuestro copiloto moral) nos ayudará a dejar de resistirnos y a tomar decisiones sabias para que podamos avanzar. Debemos aprender a confiar todos los asuntos espirituales a nuestro entrenador espiritual prepersonal. Una de las formas de vencer nuestra resistencia es hacer concesiones misericordiosas por nuestra comunión rota, amabilidad amorosa por nuestra inconstancia humana. Sin embargo, no se trata de evitar el perfeccionamiento reivindicando con pereza nuestra imperfección. Entra en comunión, ya sea un poco, algo o mucho.
 

@@ -43,7 +43,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 La siguiente lista de mantras de meditación está tomada de las sugerencias prácticas y actitudes espirituales que se necesitan para contactar con el Ajustador tal como las presentó un Mensajero Solitario en _El libro de Urantia_, Documentos 107-111. Me he tomado la libertad de parafrasear estas directrices con una voz positiva y activa, y por lo tanto todas las interpretaciones y posibles errores son míos. Animo a todos los lectores a que verifiquen el contenido por sí mismos. Esta no es en absoluto una lista exhaustiva de las muchas sugerencias espirituales y técnicas para estar en comunión con el Ajustador que se nos han dado a lo largo del libro.
 
-**Los Ajustadores son la voluntad de Dios…** <a id="a44_41"></a>[[LU 108:4.2](/es/The_Urantia_Book/108#p4_2)] 
+**Los Ajustadores son la voluntad de Dios…** <a id="a45_45"></a>[[LU 108:4.2](/es/The_Urantia_Book/108#p4_2)] 
 
 ## Mantras 
 

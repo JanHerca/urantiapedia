@@ -73,9 +73,9 @@ Pueden hacerse una idea de que los apuros de mi padre fueron incluso peores que 
 
 El reconocimiento consciente de mis problemas no resueltos, la vida de mi padre y el nacimiento del perdón trajeron cambios significativos en mi punto de vista, y las experiencias siguientes de curación fueron profundas. No solo me sentía mucho mejor sobre mí, sino que descubrí un nuevo interés en todo lo espiritual que me llevó a echar otro vistazo a la vida y las enseñanzas de Jesús. Mientras estudiaba y volvía a empaparme de estos documentos, sentí el comienzo de una transformación espiritual. Y cuando llegué a los siguientes pasajes, fue como leerlos por primera vez.
 
-> _A medida que pase el tiempo, los padres y sus hijos se amarán más los unos a los otros, y esto producirá una mayor comprensión del amor del Padre que está en los cielos por sus hijos de la Tierra._ <a id="a74_191"></a>[[LU 142:2.2](/es/The_Urantia_Book/142#p2_2)]
+> _A medida que pase el tiempo, los padres y sus hijos se amarán más los unos a los otros, y esto producirá una mayor comprensión del amor del Padre que está en los cielos por sus hijos de la Tierra._ <a id="a75_201"></a>[[LU 142:2.2](/es/The_Urantia_Book/142#p2_2)]
 > 
-> _Mientras enseñemos al niño a rezar «Padre nuestro que estás en los cielos», todos los padres terrenales tendrán la inmensa responsabilidad de vivir y ordenar sus hogares de tal manera que la palabra padre quede guardada dignamente en la mente y en el corazón de todos los niños que crecen._ <a id="a76_263"></a>[[LU 177:2.7](/es/The_Urantia_Book/177#p2_7)]
+> _Mientras enseñemos al niño a rezar «Padre nuestro que estás en los cielos», todos los padres terrenales tendrán la inmensa responsabilidad de vivir y ordenar sus hogares de tal manera que la palabra padre quede guardada dignamente en la mente y en el corazón de todos los niños que crecen._ <a id="a77_294"></a>[[LU 177:2.7](/es/The_Urantia_Book/177#p2_7)]
 
 Solo a través del estudio de la vida de Jesús fui capaz de hacer desaparecer mis nociones arraigadas y contaminadas sobre la paternidad y sustituirlas por mejores conceptos sobre cómo debe ser un padre ideal. Cuanto más llegaba a conocer a Jesús más lo amaba, y este amor me acabó llevando a separar de manera consciente y final la naturaleza de mi padre terrenal de la de mi Padre celestial. Llegué a sustituir una identidad de miedo por otra de amor, de ridículo por respeto, de crueldad por compasión, de intimidación por consuelo. Finalmente comencé a comprender y aceptar en mi corazón la verdadera naturaleza de mi Padre divino, y con algo de ilusión llegué a comprender que él _realmente me ama_.
 
@@ -97,7 +97,7 @@ La mayoría de nosotros entiende la adoración como un acto de veneración, devo
 
 Esdras, el tabernero de Siracusa, le dijo a Jesús que no podía encontrar a Dios, pero Jesús le dijo:
 
-> _«Tu problema no es que no puedas encontrar a Dios, porque el Padre ya te ha encontrado; tu problema es simplemente que no conoces a Dios.»_ <a id="a98_139"></a>[[LU 130:8.2](/es/The_Urantia_Book/130#p8_2)]
+> _«Tu problema no es que no puedas encontrar a Dios, porque el Padre ya te ha encontrado; tu problema es simplemente que no conoces a Dios.»_ <a id="a99_143"></a>[[LU 130:8.2](/es/The_Urantia_Book/130#p8_2)]
 
 Conocer a Dios es amarlo, y amar a Dios es conocerlo. Cuanto más llegamos a conocerlo, más deseamos verdaderamente adorarlo; se convierte en una reacción natural y espontánea. Adoramos a Dios por lo que comprendemos que es, que es nuestro concepto más elevado de la personalidad y divinidad de la Deidad. Y esta es una razón por la que _El libro de Urantia_ dedica el Prólogo y los primeros cinco documentos a comprender la naturaleza, atributos y relaciones de Dios. Pero en ninguna otra parte del libro el conocimiento de nuestro Creador lleva a un nivel humano de comprensión como el que está en la vida y enseñanzas de Jesús, nuestro Padre encarnado.
 
@@ -122,7 +122,7 @@ La adoración es una elección, una elección poderosa. El único poder que tene
 Ascendemos a la verdadera adoración estando sinceramente agradecidos. Y una forma de lograr que nuestra mente entre en este estado de adoración es expresar oraciones de gratitud. Si no están seguros sobre lo que estar agradecidos, les animo a reflexionar sobre la presencia aparentemente mágica del Espíritu del Padre dentro de nosotros, el Espíritu de la Verdad junto a nosotros y el Espíritu Santo a nuestro alrededor. Todas estas atrayentes fuerzas espirituales trabajan día y noche en un intento de recrearnos como seres eternos de espíritu, así como para revelarnos las asombrosas maravillas de un universo casi infinito.
 <br style="clear:both;"/>
 
-> _Es bueno dar gracias al Señor y cantar alabanzas al nombre del Altísimo, reconocer su misericordia cada mañana y su fidelidad cada noche, porque Dios me ha hecho feliz con su obra. Daré gracias por todas las cosas en conformidad con la voluntad de Dios._ <a id="a123_289"></a>[[LU 146:2.15](/es/The_Urantia_Book/146#p2_15)]
+> _Es bueno dar gracias al Señor y cantar alabanzas al nombre del Altísimo, reconocer su misericordia cada mañana y su fidelidad cada noche, porque Dios me ha hecho feliz con su obra. Daré gracias por todas las cosas en conformidad con la voluntad de Dios._ <a id="a124_258"></a>[[LU 146:2.15](/es/The_Urantia_Book/146#p2_15)]
 
 ### Olvídense de ustedes mismos
 
@@ -138,11 +138,11 @@ Jesús pasó días y semanas en comunión con su Padre, y entonces siempre busca
 
 No ganaremos nada si no arriesgamos. Se nos recuerda continuamente que al menos _intentemos_ estar en comunión con Dios. Cuando adoren, no esperen que las ángeles del cielo lo visiten. Solo tengan en cuenta que Dios sabe todo lo que ustedes hacen y tengan fe en que con el tiempo todo intento de comunión acabará teniendo como resultado la experiencia muy real de _sentir_ la presencia divina del Espíritu interior.
 
-> _El hombre no tiene necesidad de ir más allá de su propia experiencia interior, donde el alma contempla la presencia de esta realidad espiritual, para encontrar a Dios y tratar de comulgar con él._ <a id="a139_173"></a>[[LU 5:0.1](/es/The_Urantia_Book/5#p0_1)]
+> _El hombre no tiene necesidad de ir más allá de su propia experiencia interior, donde el alma contempla la presencia de esta realidad espiritual, para encontrar a Dios y tratar de comulgar con él._ <a id="a140_200"></a>[[LU 5:0.1](/es/The_Urantia_Book/5#p0_1)]
 
 ### Dénle tiempo
 
-Vivimos en un universo del espacio y el tiempo en el que todos los acontecimientos están limitados por el tiempo. Por lo tanto la paciencia es una virtud crítica en todo lo que emprendamos. Cuando Simón Celotes fue aceptado como apóstol su gran debilidad era su mentalidad material, y nos dicen que incluso cuatro años en compañía de Jesús no fue tiempo suficiente para que él hiciera la transformación intelectual y emocional que le llevara a tener mentalidad espiritual <a id="a143_407"></a>[[LU 139:11.4](/es/The_Urantia_Book/139#p11_4)]. No obstante, con fe y perseverancia acabó consiguiéndolo.
+Vivimos en un universo del espacio y el tiempo en el que todos los acontecimientos están limitados por el tiempo. Por lo tanto la paciencia es una virtud crítica en todo lo que emprendamos. Cuando Simón Celotes fue aceptado como apóstol su gran debilidad era su mentalidad material, y nos dicen que incluso cuatro años en compañía de Jesús no fue tiempo suficiente para que él hiciera la transformación intelectual y emocional que le llevara a tener mentalidad espiritual <a id="a144_472"></a>[[LU 139:11.4](/es/The_Urantia_Book/139#p11_4)]. No obstante, con fe y perseverancia acabó consiguiéndolo.
 
 ### Los beneficios de la adoración
 
@@ -150,15 +150,15 @@ En una situación ideal la adoración es un estado de olvido de sí mismo en el 
 
 La adoración nos relaja, nos ayuda a superar la ansiedad o el estrés y ayuda a eliminar conflictos mentales que puedan dar lugar a depresión o confusión.
 
-> _El descanso de la adoración, o comunión espiritual, tal como la practica el Maestro, alivia la tensión, elimina los conflictos y aumenta poderosamente los recursos totales de la personalidad._ <a id="a151_181"></a>[[LU 160:1.12](/es/The_Urantia_Book/160#p1_12)]
+> _El descanso de la adoración, o comunión espiritual, tal como la practica el Maestro, alivia la tensión, elimina los conflictos y aumenta poderosamente los recursos totales de la personalidad._ <a id="a152_196"></a>[[LU 160:1.12](/es/The_Urantia_Book/160#p1_12)]
 
 La adoración agudiza el poder de la mente y revela los destinos. Como tal, podemos evaluar mejor nuestros pensamientos y comportamientos desde un punto de vista espiritual progresivo, así como concebir una vida futura en el espíritu.
 
-> _La adoración intensifica y amplía los poderes reflexivos de la mente. La oración puede enriquecer la vida, pero la adoración ilumina el destino._ <a id="a155_138"></a>[[LU 102:4.5](/es/The_Urantia_Book/102#p4_5)]
+> _La adoración intensifica y amplía los poderes reflexivos de la mente. La oración puede enriquecer la vida, pero la adoración ilumina el destino._ <a id="a156_149"></a>[[LU 102:4.5](/es/The_Urantia_Book/102#p4_5)]
 
 La adoración es creativa, nos recreará, nos transformará, como Jesús prometió. El escrutinio incesante o la autoevaluación no es la respuesta. En lugar de eso, intenten adorar a un Ser Divino amoroso, bello y bueno como una manera poderosa de superar las deficiencias personales.
 
-> _Jesús enseñó que la adoración hace al adorador cada vez más semejante al ser que adora. La adoración es una experiencia transformadora …_ <a id="a159_121"></a>[[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)]
+> _Jesús enseñó que la adoración hace al adorador cada vez más semejante al ser que adora. La adoración es una experiencia transformadora …_ <a id="a160_141"></a>[[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)]
 
 ## Superar los límites para adorar
 
@@ -166,9 +166,9 @@ La adoración y el progreso espiritual están limitados solo por nuestra capacid
 
 ### Limpien su tempo
 
-> _Todos los venenos físicos retrasan considerablemente los esfuerzos del Ajustador por elevar la mente material, mientras que los venenos mentales del miedo, la cólera, la envidia, los celos, la desconfianza y la intolerancia obstaculizan también enormemente el progreso espiritual del alma evolutiva._ <a id="a167_262"></a>[[LU 110:1.5](/es/The_Urantia_Book/110#p1_5)]
+> _Todos los venenos físicos retrasan considerablemente los esfuerzos del Ajustador por elevar la mente material, mientras que los venenos mentales del miedo, la cólera, la envidia, los celos, la desconfianza y la intolerancia obstaculizan también enormemente el progreso espiritual del alma evolutiva._ <a id="a168_304"></a>[[LU 110:1.5](/es/The_Urantia_Book/110#p1_5)]
 
-Desháganse de los venenos físicos. Por mi experiencia personal, me di cuenta de que era casi imposible estar en comunión con Dios estando intoxicado de cualquier manera. Uno de los conceptos más insidiosos que se mantienen vivos en la edad moderna es que el alcohol o las drogas pueden inducir un estado mental espiritual. La verdad es que estas sustancias bloquean nuestros canales espirituales y cierran nuestro camino a Dios. Debemos elegir seguir la voluntad de Dios y recordar que Jesús nos avisó de que no supongamos el amor de nuestro Padre. Dios no es un padre irreflexivamente indulgente que esté siempre listo a condonar los pecados y perdonar las imprudencias. <a id="a169_574"></a>[[LU 147:5.9](/es/The_Urantia_Book/147#p5_9)].
+Desháganse de los venenos físicos. Por mi experiencia personal, me di cuenta de que era casi imposible estar en comunión con Dios estando intoxicado de cualquier manera. Uno de los conceptos más insidiosos que se mantienen vivos en la edad moderna es que el alcohol o las drogas pueden inducir un estado mental espiritual. La verdad es que estas sustancias bloquean nuestros canales espirituales y cierran nuestro camino a Dios. Debemos elegir seguir la voluntad de Dios y recordar que Jesús nos avisó de que no supongamos el amor de nuestro Padre. Dios no es un padre irreflexivamente indulgente que esté siempre listo a condonar los pecados y perdonar las imprudencias. <a id="a170_672"></a>[[LU 147:5.9](/es/The_Urantia_Book/147#p5_9)].
 
 Y evitemos los venenos mentales. En el mundo de hoy de las redes sociales descontroladas, es fácil ser sumamente crítico, guardar rencor, envidiar a los amigos que tienen casas más grandes o coches lujosos o temer el futuro. Pero nada de eso es la voluntad de nuestro Padre. Eviten esos estados mentales inhibidores, especialmente cuando intenten adorar. Disuélvanlos en amor, misericordia, verdad, belleza y bondad y limpien su mente.
 
@@ -176,7 +176,7 @@ Y evitemos los venenos mentales. En el mundo de hoy de las redes sociales descon
 
 Jesús dijo que el mandamiento más grande de todos es
 
-> _«… amarás al Señor tu Dios con todo tu corazón y con toda tu alma, con toda tu mente y con todas tus fuerzas.»_ <a id="a177_121"></a>[[LU 174:4.2](/es/The_Urantia_Book/174#p4_2)]
+> _«… amarás al Señor tu Dios con todo tu corazón y con toda tu alma, con toda tu mente y con todas tus fuerzas.»_ <a id="a178_115"></a>[[LU 174:4.2](/es/The_Urantia_Book/174#p4_2)]
 
 El amor de Dios lleva a la adoración inteligente y sincera. El amor de Dios hacia nosotros nunca disminuye, es un amor infinito mucho más grande de lo que podamos imaginar. Estamos limitados en nuestra capacidad de adorar solo por nuestra capacidad de amar a Dios a cambio. Una vez más, podemos mejorar la capacidad de amar a nuestro Hacedor simplemente aprendiendo más sobre su naturaleza divina.
 
@@ -194,7 +194,7 @@ La voluntad de nuestro Padre no es del todo un misterio. A veces la elección mo
 
 Una manera muy efectiva de superar nuestras limitaciones para adorar y realizar progresos espirituales es tener una fe inquebrantable y una confianza absoluta en el trabajo del Espíritu del Padre. Siempre que nuestras limitaciones nos desafíen, declaremos siempre:
 
-> _Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará…_ <a id="a195_76"></a>[[LU 4:4.9](/es/The_Urantia_Book/4#p4_9)]
+> _Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará…_ <a id="a196_83"></a>[[LU 4:4.9](/es/The_Urantia_Book/4#p4_9)]
 
 Esta es una declaración convincente que recuerda a la filosofía de Alcohólicos Anónimos, donde el concepto inicial es admitir abiertamente que _no puedes hacerlo por ti mismo_; primero debes entregarte a ti mismo y tus problemas a un poder superior. Confiar en el poder y el amor de Dios para transformarnos es una experiencia rejuvenecedora que alivia muchas de las cargas de la vida.
 
@@ -210,7 +210,7 @@ Todo el plan de progreso espiritual está interrelacionado. Nuestras elecciones 
 
 Sin embargo, la habilidad de Dios para ayudarnos se retrasa en gran medida por nuestras opiniones preconcebidas y nuestros prejuicios arraigados. Esto fue especialmente cierto para mí al tratar de entrar en adoración, pero fui capaz de superar mis inhibiciones, en primer lugar siendo consciente de mis prejuicios más arraigados hacia mi padre terrenal, y después pidiendo a mi Padre celestial que me ayudara a ver la verdad. A todos los que tropiezan: tengan fe, él también les ayudará.
 
-> _Si os sometéis a las directrices de las fuerzas espirituales que están en vosotros y alrededor de vosotros, no podréis dejar de alcanzar el alto destino que un Dios amoroso ha establecido…_ <a id="a211_97"></a>[[LU 5:1.12](/es/The_Urantia_Book/5#p1_12)]
+> _Si os sometéis a las directrices de las fuerzas espirituales que están en vosotros y alrededor de vosotros, no podréis dejar de alcanzar el alto destino que un Dios amoroso ha establecido…_ <a id="a212_193"></a>[[LU 5:1.12](/es/The_Urantia_Book/5#p1_12)]
 
 
 ## Referencias

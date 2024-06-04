@@ -45,7 +45,7 @@ _Oakland Park, Florida_
 
 ---
 
-> «_No podemos juzgar a una religión por el estado de la civilización que la acompaña; es mejor que apreciemos la verdadera naturaleza de una civilización por la pureza y la nobleza de su religión. Muchos de los educadores religiosos más notables del mundo fueron prácticamente incultos. La sabiduría del mundo no es necesaria para ejercer una fe salvadora en las realidades eternas._» ([LU 102:8.2](/es/The_Urantia_Book/102#p8_2))
+> «_No podemos juzgar a una religión por el estado de la civilización que la acompaña; es mejor que apreciemos la verdadera naturaleza de una civilización por la pureza y la nobleza de su religión. Muchos de los educadores religiosos más notables del mundo fueron prácticamente incultos. La sabiduría del mundo no es necesaria para ejercer una fe salvadora en las realidades eternas._» (<a id="a47_387"></a>[LU 102:8.2](/es/The_Urantia_Book/102#p8_2))
 
 
 

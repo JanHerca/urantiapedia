@@ -59,9 +59,9 @@ Las razones para el otorgamiento de Miguel son muchas, y se resumen mejor en el 
 9. Hacer una nueva revelación del hombre a Dios. Revelar a Dios en la carne y especialmente a las criaturas de la carne.
 10. Mostrar como nunca antes se había visto en Nebadon las posibilidades trascendentes que puede alcanzar un humano conocedor de Dios durante la corta carrera de la existencia mortal.
 
-Y después de todo esto, nos recuerdan que «No perdáis nunca de vista el hecho de que el **propósito espiritual supremo** del otorgamiento de Miguel fue realzar la _revelación de Dios_» <a id="a60_173"></a>[[LU 120:4.4](/es/The_Urantia_Book/120#p4_4) negrita añadida].
+Y después de todo esto, nos recuerdan que «No perdáis nunca de vista el hecho de que el **propósito espiritual supremo** del otorgamiento de Miguel fue realzar la _revelación de Dios_» <a id="a61_185"></a>[[LU 120:4.4](/es/The_Urantia_Book/120#p4_4) negrita añadida].
 
-Estas son las numerosas razones maravillosas y extraordinarias para celebrar el otorgamiento de Miguel en Urantia, no solo en Navidad, sino todos los días de nuestra vida. De hecho, tenemos mucha suerte de haber nacido en este «planeta oscuro y confuso». Para toda la eternidad, «Urantia es el santuario sentimental de todo Nebadon, el principal entre diez millones de mundos habitados. Es la morada humana de Cristo Miguel» <a id="a62_395"></a>[[LU 119:8.8](/es/The_Urantia_Book/119#p8_8)].
+Estas son las numerosas razones maravillosas y extraordinarias para celebrar el otorgamiento de Miguel en Urantia, no solo en Navidad, sino todos los días de nuestra vida. De hecho, tenemos mucha suerte de haber nacido en este «planeta oscuro y confuso». Para toda la eternidad, «Urantia es el santuario sentimental de todo Nebadon, el principal entre diez millones de mundos habitados. Es la morada humana de Cristo Miguel» <a id="a63_425"></a>[[LU 119:8.8](/es/The_Urantia_Book/119#p8_8)].
 
 La Navidad es un momento para dar gracias a Miguel de Nebadon y para celebrar la maravilla de un Hijo Creador nacido en Urantia a fin de entregar a toda la humanidad, incluso a todo un universo, una representación iluminada de la verdadera naturaleza de un Dios de amor.
 

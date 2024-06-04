@@ -45,7 +45,7 @@ Debido a la pandemia global de Covid-19, comuníquese con el coordinador del eve
 
 - **2020-05-17 Toledo España Conferencia de lectores del libro de Urantia** https://urantiaassociation.org/event/conference-for-spanishurantia-book-readers-in-spain/
 
-- **2020-05-29 \& 30 Urantia Unity Gathering en Overland Park**, KS Hyatt Place Hotel, 5001 W 110th St., Overland Park, KS Los lectores del área de Kansas City están organizando una reunión con el tema "Unificación de la personalidad .” Habrá un evento social el viernes por la noche y el programa del sábado tendrá lugar de 9:30 a 5:00. El costo es mínimo. Envíe un correo electrónico a Barb Newsom para obtener más detalles. barbaranewsom@aol.com
+- **2020-05-29 \& 30 Urantia Unity Gathering en Overland Park**, KS Hyatt Place Hotel, 5001 W 110th St., Overland Park, KS Los lectores del área de Kansas City están organizando una reunión con el tema «Unificación de la personalidad.» Habrá un evento social el viernes por la noche y el programa del sábado tendrá lugar de 9:30 a 5:00. El costo es mínimo. Envíe un correo electrónico a Barb Newsom para obtener más detalles. barbaranewsom@aol.com
 
 - **2020-07-25 al 28** https://www.facebook.com/events/923751921309974/ Jóvenes y Adultos Jóvenes \& Urantia Jóvenes y Adultos Internacionales van a Vancouver
 

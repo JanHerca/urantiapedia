@@ -56,7 +56,7 @@ Pero esta aventura no es fácil, porque nuestra naturaleza es tan inmensamente d
 
 Con este propósito también vino el Maestro, quien en su propia experiencia como Hijo del Hombre pasó por este mismo proceso de reconocimiento de la filiación en asociación con esta entidad divina interior. Al mismo tiempo volvió a tomar conciencia de su conocimiento del Padre, de su relación de Hijo-Creador con el Padre Universal, tal como ésta había existido desde el principio. Él proclamó y reveló a este Padre y la naturaleza de su espíritu en nosotros, pues este espíritu es un fragmento del Padre Infinito.
 
-El Padre Infinito no lo podemos comprender, pero se hace conocible a su criatura finita en la relación de Paternidad y filiación. «_Al fin y al cabo, la idea del Padre sigue siendo el concepto humano más elevado de Dios._» ([LU 196:3.35](/es/The_Urantia_Book/196#p3_35))
+El Padre Infinito no lo podemos comprender, pero se hace conocible a su criatura finita en la relación de Paternidad y filiación. «_Al fin y al cabo, la idea del Padre sigue siendo el concepto humano más elevado de Dios._» (<a id="a58_224"></a>[LU 196:3.35](/es/The_Urantia_Book/196#p3_35))
 
 Jesús enseñó esta paternidad para conducirnos a esa filiación que él mismo había descubierto como Hijo del Hombre. Y cuando sus discípulos persistieron en preferir su romanticismo a esta realidad de filiación, él comenzó como maestro-sanador a demostrar su significado, su valor práctico y su realidad.
 
@@ -70,7 +70,7 @@ El hombre tiene una tendencia casi indestructible a escapar de la realidad, a pe
 
 Y probablemente _El Libro de URANTIA_ será el precursor de otro acontecimiento al que los autores aluden varias veces, la venida de otro Hijo divino. Vivimos en una época de adviento. Pero tengamos cuidado con el romanticismo. Otro Hijo sólo puede intentar, quizás con la ayuda de las circunstancias, hacernos más clara nuestra propia filiación. Él no puede efectuar la salvación fuera de nosotros mismos,
 
-> «_Los mortales representan el último eslabón de la cadena de seres llamados hijos de Dios. El sello personal del Hijo Original y Eterno se transmite a través de una serie de personalizaciones cada vez menos divinas y cada vez más humanas, hasta llegar a un ser que se parece mucho a vosotros, un ser que podéis ver, oír y tocar. Entonces os volvéis espiritualmente conscientes de la gran verdad que vuestra fe puede captar —¡vuestra filiación con el Dios eterno!_» ([LU 40:5.1](/es/The_Urantia_Book/40#p5_1))
+> «_Los mortales representan el último eslabón de la cadena de seres llamados hijos de Dios. El sello personal del Hijo Original y Eterno se transmite a través de una serie de personalizaciones cada vez menos divinas y cada vez más humanas, hasta llegar a un ser que se parece mucho a vosotros, un ser que podéis ver, oír y tocar. Entonces os volvéis espiritualmente conscientes de la gran verdad que vuestra fe puede captar —¡vuestra filiación con el Dios eterno!_» (<a id="a72_468"></a>[LU 40:5.1](/es/The_Urantia_Book/40#p5_1))
 
 _Henry Begemann_
 _Wassenaar, Países Bajos_

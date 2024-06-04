@@ -39,7 +39,7 @@ _Como habrán notado los lectores de Six-O-Six, en los últimos números la vari
 
 «A una publicación que representa a los lectores de _El Libro de URANTIA_ se le ofrece una enorme variedad de contenidos. Sin embargo, la naturaleza explícita de los pronunciamientos de ese libro implica además que también se pueden imponer restricciones. Los lectores de esta revista se han convertido en una expectativa de una combinación bien equilibrada de puntos de vista opuestos sobre una amplia variedad de temas con un enfoque editorial imparcial».
 
-“Parece que Six-0-Six en números recientes ha centrado sus artículos y comentarios editoriales en un grupo de interés particular y lejos de una estricta disciplina del Libro de Urantia. Los lectores ahora tienen que abordar una nueva dirección. ¿Esta publicación continúa ayudando a los lectores a evaluar nuevas ideas proporcionando mayores conocimientos y comprensión? ¿Está cubriendo necesidades cambiantes? Como resultado, ¿Six-0-Six está disfrutando y aumentando su aprecio por parte de los lectores o se está volviendo demasiado generalizado?
+«Parece que Six-0-Six en números recientes ha centrado sus artículos y comentarios editoriales en un grupo de interés particular y lejos de una estricta disciplina del Libro de Urantia. Los lectores ahora tienen que abordar una nueva dirección. ¿Esta publicación continúa ayudando a los lectores a evaluar nuevas ideas proporcionando mayores conocimientos y comprensión? ¿Está cubriendo necesidades cambiantes? Como resultado, ¿Six-0-Six está disfrutando y aumentando su aprecio por parte de los lectores o se está volviendo demasiado generalizado?
 
 «Madeline y yo hemos discutido estos asuntos en detalle. Creemos que es importante hacerlo de vez en cuando. Actualmente discrepamos».
 

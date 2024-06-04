@@ -91,7 +91,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 10. La teología de Pablo se resume en: «Justificación por la fe».
 11. Actitud de Pablo: «No me avergüenzo del evangelio: es poder de Dios para salvación». [1:16](/es/Bible/Romans/1#v16).
 12. Romanos muestra que Pablo es el proponente de la doctrina de la expiación.
-	**Nota**: En lo que respecta al gran conflicto entre la carne y el Espíritu-ver El Libro de Urantia, <a id="s93_93"></a>[LU 34:7.1](/es/The_Urantia_Book/34#p7_1) .
+	**Nota**: En lo que respecta al gran conflicto entre la carne y el Espíritu-ver El Libro de Urantia, <a id="s93_102"></a>[LU 34:7.1](/es/The_Urantia_Book/34#p7_1) .
 
 ## V. Textos Seleccionados
 

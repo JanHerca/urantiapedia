@@ -32,7 +32,7 @@ dateCreated: 2023-9-16T10:55:6Z
 
 
 
-> _La felicidad y la alegría tienen su origen en la vida interior. No podéis experimentar una verdadera alegría completamente solos._ <a id="a33_101"></a>[[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)]
+> _La felicidad y la alegría tienen su origen en la vida interior. No podéis experimentar una verdadera alegría completamente solos._ <a id="a34_134"></a>[[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)]
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/IUA_Tidings/James-Woodward-2021-150x150.jpg">

@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» ([LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
+> «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» (<a id="a34_199"></a>[LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
 
 No hay amor humano tan satisfactorio como el del niño hacia el padre humano, particularmente el del hijo que conoce a Dios hacia el padre que conoce a Dios. Hay algo en los modales, algo en los ojos, en el rostro, en la voz.
 
@@ -44,13 +44,13 @@ No se puede culpar a nadie por esto. Sabemos muy poco de Dios. Apenas podemos am
 
 Para algunos de nosotros es difícil definir qué es la adoración. Pero definir la adoración ayuda enormemente a liberarnos para realizarla. Está claro que es diferente de la oración en el énfasis. En oración pedimos al Padre, y aunque él es el dador de todos los buenos dones, el énfasis está en nosotros y nuestras necesidades, no en él. En la adoración damos.
 
-> «_La adoración tiene su razón de ser en sí misma; ... le rendimos esa devoción y nos dedicamos a esa adoración como reacción espontánea y natural al reconocimiento de la personalidad incomparable del Padre y a causa de su naturaleza encantadora y de sus atributos adorables._» ([LU 5:3.3](/es/The_Urantia_Book/5#p3_3))
+> «_La adoración tiene su razón de ser en sí misma; ... le rendimos esa devoción y nos dedicamos a esa adoración como reacción espontánea y natural al reconocimiento de la personalidad incomparable del Padre y a causa de su naturaleza encantadora y de sus atributos adorables._» (<a id="a46_280"></a>[LU 5:3.3](/es/The_Urantia_Book/5#p3_3))
 
 La oración misma siempre es valiosa. El niño siempre puede solicitarlo a los padres. Pero aunque el adorador no pida nada para sí mismo, es la adoración, más que la oración, lo que realmente beneficia al adorador. La adoración es tan refrescante... descanso del alma.
 
-La adoración es una oportunidad para pasar unos momentos en íntima comunión con la fuente de todo poder, vida y amor. Aunque no pedimos nada para nosotros mismos, después de la adoración descubrimos que volvemos a nuestros problemas con «_...una cabeza más clara y una mano más firme..._» ([LU 143:3.3](/es/The_Urantia_Book/143#p3_3))
+La adoración es una oportunidad para pasar unos momentos en íntima comunión con la fuente de todo poder, vida y amor. Aunque no pedimos nada para nosotros mismos, después de la adoración descubrimos que volvemos a nuestros problemas con «_...una cabeza más clara y una mano más firme..._» (<a id="a50_290"></a>[LU 143:3.3](/es/The_Urantia_Book/143#p3_3))
 
-Y no es de extrañar, pues la adoración «_...hace que uno se parezca cada vez más al ser que es adorado._» ([LU 146:2.17](/es/The_Urantia_Book/146#p2_17)) ¿Qué mayor regalo podemos recibir del Padre de las luces que ese?
+Y no es de extrañar, pues la adoración «_...hace que uno se parezca cada vez más al ser que es adorado._» (<a id="a52_107"></a>[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)) ¿Qué mayor regalo podemos recibir del Padre de las luces que ese?
 
 — _C. L. Van Sant_
 _Bartlesville, Oklahoma_

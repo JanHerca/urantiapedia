@@ -48,7 +48,7 @@ El tema de nuestra conferencia es «**Jesús como instructor**», a la que invit
 
 ### La conferencia
 
-En el bonito entorno de los campos de flores que hay cerca de Ámsterdam, el ‘Conference Centre Leeuwenhorst” de Noordwijkerhout será el lugar donde se celebrará el encuentro. Este centro de conferencias ofrece todo lo necesario para organizar con éxito este evento. La conferencia hará hincapié en estudiar juntos, en compartir entre nosotros y, sobre todo, en experimentar la hermandad espiritual.
+En el bonito entorno de los campos de flores que hay cerca de Ámsterdam, el «Conference Centre Leeuwenhorst» de Noordwijkerhout será el lugar donde se celebrará el encuentro. Este centro de conferencias ofrece todo lo necesario para organizar con éxito este evento. La conferencia hará hincapié en estudiar juntos, en compartir entre nosotros y, sobre todo, en experimentar la hermandad espiritual.
 
 ### Sitio web
 

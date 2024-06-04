@@ -40,7 +40,7 @@ El valor de esta Revista o de cualquier otro medio de expresión es su capacidad
 
 Los sofistas y los profetas de la palabra de los últimos días rechazan la simplicidad, pero considere esto: la Filarmónica de Nueva York una vez grabó ocho minutos bajo el título «480 segundos de silencio». El canto de viento natural que bailaba sobre los instrumentos en el escenario al aire libre, de hecho, se vendió por millones. Si los sonidos del silencio pueden literalmente penetrar el mundo de la música, pensemos en el concierto que unas simples palabras pueden realizar en las cuerdas vocales. Podemos compartir lo máximo con tantas personas si no permitimos que nuestras palabras interfieran con nuestro ministerio y servicio.
 
-> «_El conocimiento sólo se posee compartiéndolo; es salvaguardado por la sabiduría y se socializa por medio del amor._» ([LU 48:7.28](/es/The_Urantia_Book/48#p7_28))
+> «_El conocimiento sólo se posee compartiéndolo; es salvaguardado por la sabiduría y se socializa por medio del amor._» (<a id="a42_122"></a>[LU 48:7.28](/es/The_Urantia_Book/48#p7_28))
 
 _Thomas Wicks_
 _Florence, Arizona_

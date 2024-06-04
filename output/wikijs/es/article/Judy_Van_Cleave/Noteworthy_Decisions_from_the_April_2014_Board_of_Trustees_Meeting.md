@@ -81,7 +81,7 @@ El Comité de Traducciones informó de los progresos en todos los frentes. La re
 
 ## 4. Formato estandarizado y sistema de numeración en todos los libros
 
-A lo largo de los muchos años de publicación de _El libro de Urantia_ en múltiples idiomas y formatos, la Fundación Urantia ha usado numerosos sistemas dentro del libro para designar la parte del libro, título de la parte, número de documento, nombre del documento, número de página y la notación “documento:sección.párrafo”. En la reunión de abril adoptamos un sistema universal que se usará de manera coherente en todos los idiomas. Este sistema amigable para el usuario hace que sea sencillo hacer referencia a y encontrar partes del libro, ya sea en un grupo de estudio o leyendo en solitario. Está de acuerdo con el Sistema de Referencia Estándar y tiene una apariencia elegante en la página.
+A lo largo de los muchos años de publicación de _El libro de Urantia_ en múltiples idiomas y formatos, la Fundación Urantia ha usado numerosos sistemas dentro del libro para designar la parte del libro, título de la parte, número de documento, nombre del documento, número de página y la notación «documento:sección.párrafo». En la reunión de abril adoptamos un sistema universal que se usará de manera coherente en todos los idiomas. Este sistema amigable para el usuario hace que sea sencillo hacer referencia a y encontrar partes del libro, ya sea en un grupo de estudio o leyendo en solitario. Está de acuerdo con el Sistema de Referencia Estándar y tiene una apariencia elegante en la página.
 
 ## 5. Terminada la renovación de la tercera planta y de la casa del garaje
 

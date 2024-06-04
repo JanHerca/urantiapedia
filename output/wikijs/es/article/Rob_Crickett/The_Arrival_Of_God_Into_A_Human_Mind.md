@@ -53,7 +53,7 @@ Después del servicio religioso, la congregación se dividió en grupos de discu
 
 Necesitaba una respuesta que viniera de su actual Mente Divina, de la misma manera que uno espera que el vendedor de un producto dé fe de ello basándose en su propia experiencia de haberlo usado... avalándolo porque tiene un conocimiento íntimo y interno. de ello desde la experiencia. Pero mi pregunta fue respondida de manera muy diferente. Ella me miró como un salmonete aturdido y dijo, de una manera obviamente sincera: «No lo sé...».
 
-Mi respuesta fue inmediata y definitiva. Aquí delante de mí había un hipócrita, una mentira viviente. Ella nos estaba diciendo a todos lo maravillosa que era esta cosa de Dios y cómo realmente deberíamos incorporarla a nuestras vidas “porque arreglará todo y es la mejor cosa imaginable y serías un verdadero tonto si no la consiguieras y Si aguantas con nosotros, estarás en lo cierto, ¡estás bien! ¡Y ella no tenía ni idea de ello! Y eso me hirió en lo más profundo. Rechacé rotundamente el cristianismo y a los cristianos.
+Mi respuesta fue inmediata y definitiva. Aquí delante de mí había un hipócrita, una mentira viviente. Ella nos estaba diciendo a todos lo maravillosa que era esta cosa de Dios y cómo realmente deberíamos incorporarla a nuestras vidas «porque arreglará todo y es la mejor cosa imaginable y serías un verdadero tonto si no la consiguieras y Si aguantas con nosotros, estarás en lo cierto, ¡estás bien! ¡Y ella no tenía ni idea de ello! Y eso me hirió en lo más profundo. Rechacé rotundamente el cristianismo y a los cristianos.
 
 ## El deseo continúa
 

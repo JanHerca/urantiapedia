@@ -39,7 +39,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Tesalónica.
 5. Pablo escribió diez cartas a estas siete iglesias. Se distribuyeron en un solo libro—[Efesios](/es/Bible/Ephesians/1#v1) como introducción.
 6. En el año 95 d.C. Clemente, de Roma, escribió una carta a la iglesia de Corinto.
-7. Los tres evangelios, luego cuatro, estaban en un libro aparte. Fechas de escritura, según el Libro de Urantia: Marcos 68 d.C., Mateo 71 d.C., Lucas 82 d.C. y Juan 101 d.C. [LU 121:8.2](/es/The_Urantia_Book/121#p8_2)
+7. Los tres evangelios, luego cuatro, estaban en un libro aparte. Fechas de escritura, según el Libro de Urantia: Marcos 68 d.C., Mateo 71 d.C., Lucas 82 d.C. y Juan 101 d.C. <a id="s41_175"></a>[LU 121:8.2](/es/The_Urantia_Book/121#p8_2)
 8. Alrededor del año 125 d.C. [Marción](https://en.wikipedia.org/wiki/Marcion_of_Sinope), un laico del Ponto, utilizó el evangelio de Lucas y las cartas de Pablo como una nueva Biblia.
 9. [Atenágoras, de Atenas](https://en.wikipedia.org/wiki/Athenagoras_of_Athens), usó los cuatro evangelios y las diez cartas de Pablo como «todo menos Escritura».
 10. [Teófilo, de Antioquía](https://en.wikipedia.org/wiki/Theophilus_of_Antioch), (180 d.C.) usó los evangelios y las cartas de Pablo como «escrituras cristianas».
@@ -105,7 +105,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 8. Ilustración de armonización.
 	[Mt 12:13](/es/Bible/Matthew/12#v13). El hombre de la mano seca. Matt, lee: «Entonces dijo al hombre: ‘Extiende tu mano. Y el hombre la extendió, y quedó restablecida, entera como la otra.»
 	Las primeras copias de Marcos y Lucas no contienen «un todo como el otro». Pero cada vez más copias posteriores contienen esta adición.
-	**NOTA**: El Libro de Urantia <a id="s107_28"></a>[LU 148:7.2](/es/The_Urantia_Book/148#p7_2) sigue a los primeros Marcos y Lucas; no contiene la adición posterior .
+	**NOTA**: El Libro de Urantia <a id="s107_31"></a>[LU 148:7.2](/es/The_Urantia_Book/148#p7_2) sigue a los primeros Marcos y Lucas; no contiene la adición posterior .
 9. Ilustración sobre cómo eliminar la herejía.
 	[Mt 24:36](/es/Bible/Matthew/24#v36). «Pero del día y la hora nadie sabe, ni siquiera los ángeles del cielo, ni el Hijo, sino sólo el Padre.»
 	Un escriba, creyendo que Jesús era omnisciente, estaba seguro de que alguien había cometido un error, por lo que cambió el texto, omitiendo las palabras: «ni el Hijo».
@@ -116,7 +116,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	**NOTA**: Este pasaje no aparece en el Libro de Urantia.
 11. Ambigüedad.
 	En cuanto a la Cena del Señor en [Mt 26:27](/es/Bible/Matthew/26#v27), originalmente decía: «Bebed todos de él». El escriba lo cambió por «Bebed de él todos», como ahora en la versión revisada.
-	El Libro de Urantia <a id="s118_18"></a>[LU 179:5.1](/es/The_Urantia_Book/179#p5_1) dice: «Tomen todos esta copa y beban de ella.»
+	El Libro de Urantia <a id="s118_21"></a>[LU 179:5.1](/es/The_Urantia_Book/179#p5_1) dice: «Tomen todos esta copa y beban de ella.»
 12. Prejuicio contra las versiones revisadas.
 	Un obispo quemó más de 200 copias de una nueva versión de la Biblia.
 13. Recuerde: En el [Concilio de Trento](https://en.wikipedia.org/wiki/Council_of_Trent), la Biblia fue estandarizada por voto **mayoritario**.

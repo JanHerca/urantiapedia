@@ -152,7 +152,7 @@ No debemos imitar a Jesús, debemos inspirarnos en él. Cuando a veces debemos t
 
 **8\. MEDIANTE TU VIDA TOTALMENTE DEDICADA A HACER LA VOLUNTAD DEL PADRE, LO REVELARÁS ASÍ EN LA CARNE A TUS HERMANOS PARA TODOS LOS TIPOS DE MENTE HUMANA**
 
-Su mensaje era transversal y dirigido a TODOS, no había ni hay "elegidos”. Sus enseñanzas son comprensibles en mayor o menor medida por todo tipo de mente dependiendo de su capacidad, claro está. Miguel demostró que es posible encontrar a Dios en una breve vida humana... nuestra es la elección sobre si también queremos al menos intentarlo.
+Su mensaje era transversal y dirigido a TODOS, no había ni hay «elegidos». Sus enseñanzas son comprensibles en mayor o menor medida por todo tipo de mente dependiendo de su capacidad, claro está. Miguel demostró que es posible encontrar a Dios en una breve vida humana... nuestra es la elección sobre si también queremos al menos intentarlo.
 
 **9\. RECUERDA QUE TODO TU PODER ES INHERENTE A TU PERSONALIDAD. CUANDO SEAS CONSCIENTE DE TU NATURALEZA DIVINA SERÁS TOTALMENTE RESPONSABLE DE ÉL, ASÍ QUE «SUJETALO» PUES HAS DECIDIDO VIVIR COMO UN SIMPLE HOMBRE SUJETO A LA VOLUNTAD DEL PADRE**
 

@@ -73,7 +73,7 @@ El filósofo y autor fuente de _El Libro de Urantia_, A. Campbell Garnett, seña
 
 ## ¿Qué pasa si nuestra vida interior es turbulenta, neurótica o llena de miedo?
 
-¿Por qué te abates, oh alma mía? ¿Y por qué te turbas, te inquietas dentro de mí?”[^7]
+¿Por qué te abates, oh alma mía? ¿Y por qué te turbas, te inquietas dentro de mí?[^7]
 
 Nuestros primeros pasos para progresar espiritualmente pueden implicar sanar el dolor adquirido de experiencias previas, ya sea como resultado de nuestros propios errores o si otros nos lo infligieron injustamente. Si se le pregunta, el guía espiritual, Jesús (a través del ministerio del Espíritu de la Verdad), o el Ajustador del Pensamiento, participará en nuestra terapia.
 
