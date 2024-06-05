@@ -48,7 +48,7 @@ If you have an idea for a workshop on this summer’s theme, please request a Wo
 
 Save the date and plan to celebrate! (A preconference retreat will be held from July 7-9.) Online registration available on the Fellowship’s website [www.urantiabook.org](http://www.urantiabook.org/CampaignProcess.aspx?A=Link&VID=23730096&KID=246666&LID=672272).
 
-_Bobbie Drier_  
+_Bobbie Drier_
 [bdreier@earthlink.net](mailto:bdreier@earthlink.net)
 
 ## References

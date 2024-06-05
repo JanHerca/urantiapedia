@@ -57,8 +57,8 @@ We ask if you would please help us work together to raise the skill levels of ou
 
 Regards,
 
-_Anton_ _Miroshnichenko  
-_Membership Committee Chair  
+_Anton_ _Miroshnichenko_
+Membership Committee Chair
 Urantia Association International
 
 _Note_: All your personal information will be strictly confidential, and will not be disclosed to any third party.

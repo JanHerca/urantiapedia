@@ -98,16 +98,18 @@ Si un lector de _El libro de Urantia_ ha avanzado mucho en su estudio de las ens
 <img src="/image/article/IUA_Tidings/UBIS-Sun-300x262.jpg">
 </figure>
 
-Les invito cordialmente a todos ustedes a confirmar la veracidad de lo que les he dicho hoy inscribiéndose en uno o más cursos de la Escuela de _El libro de Urantia_ en Internet. Nuestra web [ http://ubis.urantia.org/moodle](http://ubis.urantia.org/moodle), explica el plan de estudio y proporciona toda la información que necesitan.
+Les invito cordialmente a todos ustedes a confirmar la veracidad de lo que les he dicho hoy inscribiéndose en uno o más cursos de la Escuela de _El libro de Urantia_ en Internet. Nuestra web [http://ubis.urantia.org/moodle](http://ubis.urantia.org/moodle), explica el plan de estudio y proporciona toda la información que necesitan.
 
 Me gustaría terminar con unos pensamientos profundamente inspiradores que nuestro Hijo Creador Soberano, Miguel de Nebadon, expresó a un joven compañero suyo mientras estaba encarnado en Urantia bajo la forma humana de Jesús de Nazaret:
+
+<br style="clear:both;"/>
 
 > «En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto? Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida.» <a id="a104_332"></a>[[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
 
 Muchas gracias por su atención.
 Georges Michelson-DuPont
 
-<br style="clear:both;"/>
+
 
 ## Referencias
 

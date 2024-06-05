@@ -47,8 +47,8 @@ Si tienen ideas para un taller relacionado con el tema de este verano, soliciten
 
 ¡Reserven la fecha para celebrarla! (Habrá un retiro preconferencia del 7 al 9 de julio) La inscripción en línea está disponible en el sitio web de la Fellowship, [www.urantiabook.org](http://www.urantiabook.org/).
 
-_Bobbie Dreier
-_[bdreier@earthlink.net](mailto:bdreier@earthlink.net)
+_Bobbie Dreier_
+[bdreier@earthlink.net](mailto:bdreier@earthlink.net)
 
 ## Referencias
 

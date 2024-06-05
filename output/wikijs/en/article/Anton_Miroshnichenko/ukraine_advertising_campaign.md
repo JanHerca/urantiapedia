@@ -44,14 +44,15 @@ In March of 2016, with the financial help of donors to Urantia Association Inter
 <img src="/image/article/IUA_Tidings/Ukraine-Promotion-4-300x400.jpg">
 </figure>
 
-- Placed an advertisement in the form of small banners in a total of 510 train carriages in the busy Kyiv subway system. These ran for 2 months starting 15th of February. The dimensions of these banners were 142 х 70
+\- Placed an advertisement in the form of small banners in a total of 510 train carriages in the busy Kyiv subway system. These ran for 2 months starting 15th of February. The dimensions of these banners were 142 х 70
 
-- Placed advertisements in the BUKVA bookstores network. Posters with the main information about _The Urantia Book_ have been printed and placed on the showcases of the network’s seven shops in five Ukrainian cities. Six posters were A2 size and one was A3. We also had one book compilation at the showcase of the main store in Kyiv. The posters were showcased all through March. Personnel from some of the stores liked our posters so much that they left them on display in a less prominent place after the end of the placement period.
+\- Placed advertisements in the BUKVA bookstores network. Posters with the main information about _The Urantia Book_ have been printed and placed on the showcases of the network’s seven shops in five Ukrainian cities. Six posters were A2 size and one was A3. We also had one book compilation at the showcase of the main store in Kyiv. The posters were showcased all through March. Personnel from some of the stores liked our posters so much that they left them on display in a less prominent place after the end of the placement period.
 
 Our total expense, including the delivery of books to the shops, was approximately USD$800.
 
 You can view photos of our campaign at this link: [http://bit.ly/tub-adv-ukr](http://bit.ly/tub-adv-ukr)
 
+<br style="clear:both;"/>
 
 Number of Urantia Books sold through the BUKVA stores network for the last six months:
 

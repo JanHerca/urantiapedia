@@ -97,8 +97,8 @@ La primera vez que conocí a Cathy, ella me puso a trabajar identificando líder
 Estudien _El Libro de Urantia_ , ámense unos a otros, póngase a trabajar. Soy una de las muchas personas en todo el mundo a quienes Cathy guió hacia el liderazgo. Ella cambió mi vida. Fue un honor trabajar con Cathy Jones.
 <br style="clear:both;"/>
 
-### Rick LyonIndiana
-Estados Unidos
+### Rick Lyon
+Indiana, Estados Unidos
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/Cathy-and-Rick-300x331.jpg">
@@ -204,8 +204,8 @@ Brasil
 Nunca conocí a Cathy Jones, pero por todo lo que he oído sobre ella estoy convencido de que marcó una gran diferencia al ayudar a nuestros hermanos y hermanas a establecer las Asociaciones Urantia en todo el mundo. Según Rogeriro Silva, el segundo presidente de la Asociación Urantia en Brasil, ella estuvo allí con Gaetan y otros para iniciar nuestra Asociación en Brasil en 2004. Rogério nos dijo que la recuerda muy bien. Su simpatía y dedicación hacia los lectores del Libro de Urantia fueron contagiosas y desempeñó un papel importante a la hora de ayudarnos a superar lo desconocido. Rogério dijo que su presencia en esa ocasión marcó toda la diferencia en su desempeño como Director y luego como Presidente de la Asociación en Brasil, mucho más marcado ese día por su presencia que todos los demás. La extrañaremos, pero sin duda es una amiga más que reencontraremos en nuestro próximo viaje.
 
 
-### James WoodwardCalifornia
-, Estados Unidos
+### James Woodward
+California, Estados Unidos
 
 Conocí a Cathy Jones por primera vez a principios de los años noventa, cuando visitaba la casa de Ploetz, un centro de actividades del Libro de Urantia en el sur de California. Esos recuerdos son vívidos: conocer nuevos amigos que estaban activos en el servicio de Urantia. Se destacó Cathy, una persona dinámica y muy decidida a ampliar el grupo fraternal que había ayudado a crear.
 

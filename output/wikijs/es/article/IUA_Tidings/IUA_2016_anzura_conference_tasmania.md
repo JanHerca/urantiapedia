@@ -85,7 +85,7 @@ El centro proporciona desayuno, almuerzo y cena tipo buffet. Además, habrá té
 
 ## Coste
 
-Conferencia completa (baño compartido): 390$, (ermita): 420$. El precio incluye 3 noches de alojamiento más todas las comidas desde la cena del viernes hasta el almuerzo del lunes. Hay disponibles bebidas alcohólicas pagando un coste extra.
+Conferencia completa (baño compartido): 390 \$, (ermita): 420 \$. El precio incluye 3 noches de alojamiento más todas las comidas desde la cena del viernes hasta el almuerzo del lunes. Hay disponibles bebidas alcohólicas pagando un coste extra.
 
 _Tarifa diaria:_ 80$ – incluye almuerzo y desayuno, más te y café durante todo el día.
 _Tarifa diaria:_ 40$ – incluye solo almuerzo, más té y café durante todo el día.

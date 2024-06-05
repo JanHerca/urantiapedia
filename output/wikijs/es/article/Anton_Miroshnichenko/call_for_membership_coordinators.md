@@ -58,8 +58,8 @@ Les pedimos que nos ayuden a trabajar juntos para elevar los niveles de habilida
 
 Saludos.
 
-_Anton_ _Miroshnichenko
-_Presidente del Comité de Miembros
+_Anton_ _Miroshnichenko_
+Presidente del Comité de Miembros
 Asociación Urantia Internacional
 
 _Nota_: toda la información personal será estrictamente confidencial y no se revelará a terceros.

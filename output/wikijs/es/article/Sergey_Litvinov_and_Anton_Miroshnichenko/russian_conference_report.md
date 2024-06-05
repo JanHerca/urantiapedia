@@ -57,7 +57,7 @@ Para darles una idea de los temas tratados, a continuación hay una lista de los
 <img src="/image/article/IUA_Tidings/Moscow12-300x400.jpg">
 </figure>
 
-**_Presentaciones _**
+**_Presentaciones_**
 
 - _Espiritualidad de lo humano y hermandad espiritual de los hombres,_ de Yury Koposov.
 - _Doy la bienvenida a mis hermanos y hermanas_, de Oleg Andreev.

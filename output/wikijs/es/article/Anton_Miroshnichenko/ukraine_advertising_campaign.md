@@ -45,14 +45,15 @@ En marzo de 2016, con la ayuda económica de donantes de la Asociación Urantia 
 <img src="/image/article/IUA_Tidings/Ukraine-Promotion-4-300x400.jpg">
 </figure>
 
-- Colocado un anuncio en forma de pequeñas pancartas en un total de 510 vagones de tren en la abarrotada red de metro de Kiev. Estará puesto durante 2 meses a partir del 15 de febrero. Las dimensiones de estas pancartas son de 142 x 70 mm.
+\- Colocado un anuncio en forma de pequeñas pancartas en un total de 510 vagones de tren en la abarrotada red de metro de Kiev. Estará puesto durante 2 meses a partir del 15 de febrero. Las dimensiones de estas pancartas son de 142 x 70 mm.
 
-- Colocado anuncios en la red de librerías BUKVA. Se han imprimido pósters con la información principal sobre El libro de Urantia y se han colocado en los escaparates de siete ciudades de cinco ciudades ucranianas. Seis pósters eran de tamaño A2 y uno A3. También tuvimos una montaña de libros en el escaparate de la librería principal de Kiev. Los pósters se expusieron durante todo el mes de marzo. Al personal de algunas de las tiendas les gustaron tanto los pósters que los dejaron a la vista en un lugar menos destacado cuando acabó el plazo de exposición.
+\- Colocado anuncios en la red de librerías BUKVA. Se han imprimido pósters con la información principal sobre El libro de Urantia y se han colocado en los escaparates de siete ciudades de cinco ciudades ucranianas. Seis pósters eran de tamaño A2 y uno A3. También tuvimos una montaña de libros en el escaparate de la librería principal de Kiev. Los pósters se expusieron durante todo el mes de marzo. Al personal de algunas de las tiendas les gustaron tanto los pósters que los dejaron a la vista en un lugar menos destacado cuando acabó el plazo de exposición.
 
 Los gastos totales, incluyendo la entrega de libros a las tiendas, fueron aproximadamente de 800$ USA.
 
 Pueden ver fotos de nuestra campaña en este enlace: [http://bit.ly/tub-adv-ukr](http://bit.ly/tub-adv-ukr)
 
+<br style="clear:both;"/>
 
 Cifras de venta de Libros de Urantia vendidos en la red de librerías BUKVA en los últimos seis meses:
 

@@ -64,7 +64,9 @@ Jean-Pierre Heudier stimulated a lively discussion with his presentation, _Hitch
 
 Chris Wood, President of Urantia Association International talked on _A Messed Up Look at the Mansion Worlds,_ an elaborate ruse to talk about and show pictures of his children! Chris shared delightful stories which demonstrated how our planet is “messed up.” (He was referring, of course, to our non-standard development.)
 
-Richard Jernigan showed his video on Urantia_, Nebadon and the Master Universe_. It is an exploration of Urantia’s numerical relation to its local universe of Nebadon and the Master Universe based on the cosmology in _The Urantia Book_. [Click here](https://www.youtube.com/watch?v=loEnwEdRT_g&utm_source=Emailbrain&utm_medium=email&utm_term=NewsletterLink&utm_campaign=UrantiaFilm+10_2014&utm_content=) to view this amazing 5-minute video.
+Richard Jernigan showed his video on Urantia_, Nebadon and the Master Universe_. It is an exploration of Urantia’s numerical relation to its local universe of Nebadon and the Master Universe based on the cosmology in _The Urantia Book_. Click here below to view this amazing 5-minute video.
+
+https://www.youtube.com/watch?v=loEnwEdRT_g&utm_source=Emailbrain&utm_medium=email&utm_term=NewsletterLink&utm_campaign=UrantiaFilm+10_2014&utm_content=
 
 _Exploring the Astronomy of Nebadon_. John Causland shared his ideas about some of the confusing language in _The Urantia Book_ relating to the cosmos. He pointed out that in the early 1900s and 1920’s old language was still in use. He suggested that the revelators waited until Hubble published his work that set the direction for the astronomy of the future.
 

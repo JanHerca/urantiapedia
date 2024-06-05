@@ -83,7 +83,7 @@ The Centre provides a self-serve breakfast as well as lunch and dinner every day
 
 ## Cost
 
-Full conference (Shared bathroom): $390, (Hermitage): $420. These costs cover 3 night’s accommodation plus all meals from Friday dinner to Monday lunch. Alcoholic beverages will be available for an extra cost.
+Full conference (Shared bathroom): \$390, (Hermitage): \$420. These costs cover 3 night’s accommodation plus all meals from Friday dinner to Monday lunch. Alcoholic beverages will be available for an extra cost.
 
 _Daily Rate:_ $80 – includes both lunch and dinner plus tea and coffee throughout the day  
 _Daily Rate:_ $40 – includes only lunch plus tea and coffee throughout the day

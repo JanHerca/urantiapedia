@@ -65,7 +65,9 @@ Jean-Pierre Heudier estimuló una discusión animada con su presentación, _Auto
 
 Chris Wood, presidente de la Asociación Urantia Internacional, habló sobre _Una mirada desastrosa a los mundos mansión_, ¡una treta elaborada para hablar sobre sus hijos y enseñarnos fotos de ellos! Chris compartió historias deliciosas que demostraron lo «desastroso» que es nuestro planeta (se refería, por supuesto, a nuestro atípico desarrollo).
 
-Richard Jernigan mostró su vídeo sobre Urantia, _Nebadon y el universo maestro_. Es un recorrido por la relación numérica de Urantia respecto a su universo local de Nebadon y al universo maestro, basado en la cosmología de _El libro de Urantia_. Hagan [clic aquí](https://www.youtube.com/watch?v=loEnwEdRT_g&utm_source=Emailbrain&utm_medium=email&utm_term=NewsletterLink&utm_campaign=UrantiaFilm+10_2014&utm_content=) para ver este asombroso vídeo de 5 minutos.
+Richard Jernigan mostró su vídeo sobre Urantia, _Nebadon y el universo maestro_. Es un recorrido por la relación numérica de Urantia respecto a su universo local de Nebadon y al universo maestro, basado en la cosmología de _El libro de Urantia_. Hagan clic aquí abajo para ver este asombroso vídeo de 5 minutos.
+
+https://www.youtube.com/watch?v=loEnwEdRT_g&utm_source=Emailbrain&utm_medium=email&utm_term=NewsletterLink&utm_campaign=UrantiaFilm+10_2014&utm_content=
 
 _Exploración de la astronomía de Nebadon_. John Causland compartió sus ideas acerca de parte del confuso lenguaje de _El libro de Urantia_ respecto al cosmos. Señaló que el lenguaje antiguo todavía se usaba a principios del siglo XX. Sugirió que los reveladores esperaron hasta que Hubble publicó su trabajo, que estableció la dirección de la astronomía en el futuro.
 
