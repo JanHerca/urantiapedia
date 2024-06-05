@@ -48,9 +48,9 @@ When we act enthusiastically to attract more souls to the kingdom of God, there 
 
 However, I have observed that some of us are convinced that “converting_”_ our fellows  in favor of this revelation is a great grace and a precious service to others and to the Father. We often deliver impassioned speeches or go out of our way to build up arguments to demonstrate why others must change and how, upon discovering _The Urantia Book,_ each of us must behave in the future. At times, some of us are astonished when faced with confronting situations caused by students o_f The Urantia Book_ that, according to our understanding, should not have occurred or are not acceptable. In some situations, our over-zealousness towards non-students of the teachings may cause the encounter to become argumentative when trying to convince that person to change.
 
-> My messengers must not strive with men, but be gentle toward all. [[UB 140:6.9](/en/The_Urantia_Book/140#p6_9)]
+> My messengers must not strive with men, but be gentle toward all. <a id="a50_68"></a>[[UB 140:6.9](/en/The_Urantia_Book/140#p6_9)]
 
-> Always respect the personality of man. Never should a righteous cause be promoted by force; spiritual victories can be won only by spiritual power. … Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. [[UB 159:3.2](/en/The_Urantia_Book/159#p3_2)]
+> Always respect the personality of man. Never should a righteous cause be promoted by force; spiritual victories can be won only by spiritual power. … Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. <a id="a52_263"></a>[[UB 159:3.2](/en/The_Urantia_Book/159#p3_2)]
 
 Of course, in this approach, we always have the best of intentions. In fact, we dedicate great effort and have an unprecedented enthusiasm and desire for the grace of revelation to transform everyone around us. We hope that those who seek God, especially those who know the revelation, will wholeheartedly dedicate their lives to our Father. Of course, such a transformation would be very good if it didn’t imply abandoning our experiences of growth and improvement.
 
@@ -58,7 +58,7 @@ When our approach is over-demanding, self-righteous, or judgmental, we interrupt
 
 We can always serve God and our fellows with enthusiasm and dedication. But our chances of success are greatly improved whenever our approach is one of love, friendship, and tolerance. As Jesus said:
 
-> _In my Father’s kingdom there shall be neither Jew nor gentile, only those who seek perfection through service, for I declare that he who would be great in my Father’s kingdom must first become server of all. If you are willing to serve your fellows, you shall sit down with me in my kingdom, even as, by serving in the similitude of the creature, I shall presently sit down with my Father in his kingdom._ [[UB 137:8.11](/en/The_Urantia_Book/137#p8_11)]
+> _In my Father’s kingdom there shall be neither Jew nor gentile, only those who seek perfection through service, for I declare that he who would be great in my Father’s kingdom must first become server of all. If you are willing to serve your fellows, you shall sit down with me in my kingdom, even as, by serving in the similitude of the creature, I shall presently sit down with my Father in his kingdom._ <a id="a60_409"></a>[[UB 137:8.11](/en/The_Urantia_Book/137#p8_11)]
 
 Let’s keep working with devotion and enthusiasm. Let’s be patient, tolerant and affectionate.
 

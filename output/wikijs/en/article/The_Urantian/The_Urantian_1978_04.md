@@ -67,7 +67,7 @@ _Richardson, Texas_
 
 ## The Power Of The Supreme
 
-> “_But no God-knowing mortal can ever be lonely in his journey through the cosmos, for he knows that the Father walks beside him each step of the way, while the very way that he is traversing is the presence of the Supreme._” (<a id="a70_228"></a>[UB 117:6.27](/en/The_Urantia_Book/117#p6_27))
+> “_But no God-knowing mortal can ever be lonely in his journey through the cosmos, for he knows that the Father walks beside him each step of the way, while the very way that he is traversing is the presence of the Supreme._” (<a id="a69_228"></a>[UB 117:6.27](/en/The_Urantia_Book/117#p6_27))
 
 Like water seeks a point located lower than its source, thus the Infinite can spread toward the finite, flowing downwards in space-time. The Supreme should be then the centrifugal movement of Infinity toward the Finite, and the Supremacy the centripetal reaction of the finite creation to the call of the Infinite.
 
@@ -81,7 +81,7 @@ _Boulogne, France_
 
 ## Supreme Service
 
-Notwithstanding that “_man's intellectual comprehension capacity is exhausted by the maximum conception of the Supreme Being_” (<a id="a84_128"></a>[UB 115:3.4](/en/The_Urantia_Book/115#p3_4)), I know quite simply that we are related because we both have the same last designation —BEING. Even though I as a human being am but a speck of sand and he as the Supreme Being is the Sahara of sand, yet are we of the same family.
+Notwithstanding that “_man's intellectual comprehension capacity is exhausted by the maximum conception of the Supreme Being_” (<a id="a83_128"></a>[UB 115:3.4](/en/The_Urantia_Book/115#p3_4)), I know quite simply that we are related because we both have the same last designation —BEING. Even though I as a human being am but a speck of sand and he as the Supreme Being is the Sahara of sand, yet are we of the same family.
 
 In attempting to visualize the unseen finite God I have yet to discern, I picture in my mind's eye Michelangelo's Vatican painting of a human, fatherlike God reaching out to touch the hand of man, his earthly son. It is as if we are the fingertips of the Supreme as he stretches himself way out to farflung Urantia of distant Nebadon on the extreme superuniverse border limits of Orvonton and we increasingly actualize our God-given potentials. Our material consciousnesses become part of the nervous system of the Supreme Being.
 
@@ -96,7 +96,7 @@ The universe value of each mortal citizen is underscored by a single act of the 
 
 _The Editors_
 
-> “_With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status-one must do something as well as be something._” (<a id="a99_174"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+> “_With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status-one must do something as well as be something._” (<a id="a98_174"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
 <figure class="table chapter-navigator">
   <table>

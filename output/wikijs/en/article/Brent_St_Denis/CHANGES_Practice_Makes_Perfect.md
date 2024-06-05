@@ -58,7 +58,7 @@ I cannot find God tomorrow, nor shall I find him in yesterday. I can only find h
 
 ## “G” — God's Will
 
-I am convinced that _The Urantia Book_ is right when it declares that “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God-with the very God who has made such a creature life of inner meaning-value possible.” ([UB 111:5.1](/en/The_Urantia_Book/111#p5_1)) I want to emphasize for you the words crature willingness.
+I am convinced that _The Urantia Book_ is right when it declares that “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God-with the very God who has made such a creature life of inner meaning-value possible.” (<a id="a60_287"></a>[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)) I want to emphasize for you the words crature willingness.
 
 ## “E” — Ego
 

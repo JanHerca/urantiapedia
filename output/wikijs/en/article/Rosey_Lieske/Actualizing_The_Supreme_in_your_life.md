@@ -113,7 +113,7 @@ So our most important relationship is with the divine fragment, and our ascensio
 
 As Faith Sons our faith reactions toward the Father fragment determine the content of our survivable experience and the depth of our soul translation on the intervening morontia level.
 
-Faith exists on many levels. “Few persons live up to the faith which they really have,” ([UB 48:7.4](/en/The_Urantia_Book/48#p7_4)), and faith, being our survival connection, must function on the elemental levels of Supremacy itself.
+Faith exists on many levels. “Few persons live up to the faith which they really have,” (<a id="a115_89"></a>[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)), and faith, being our survival connection, must function on the elemental levels of Supremacy itself.
 
 Faith is a human decision and a divine gift, accessible and recognizable. The influence of the Eternal Son in Actuality is a spirit gravity influence, drawing all faith and all desire for faith into the light of Actuality. Faith cannot remain in the mind; it travels directly to the heart of all reality, affecting our soul development and the sovereignty of the Supreme, It is the human fuel for God potential, simulating the presence of God on every level of our being.
 

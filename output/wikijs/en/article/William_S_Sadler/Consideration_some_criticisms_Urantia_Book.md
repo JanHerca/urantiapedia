@@ -168,7 +168,7 @@ _The Urantia Book_, <a id="s166_20"></a>[195:7.17](/en/The_Urantia_Book/195#p7_1
 
 > "How foolish to presume that an automaton could conceive a philosophy of automatism, and how ridiculous that it should presume to form such a concept of other and fellow automatons."
 
-> “The universe is not like the laws, mechanisms, and the uniformities which the scientist discovers and which he comes to regard as science, but rather like the curious, thinking, choosing, creative, combining, and discriminating scientist who thus observes universe phenomena and classifies the mathematical facts inherent in the mechanistic phases of the material side of creation Neither is the universe like the art of the artist, but rather like the striving, dreaming, aspiring and advancing artist who seeks to transcend the world of material things in the effort to achieve a spiritual goal.” [UB 195:7.22](/en/The_Urantia_Book/195#p7_22)
+> “The universe is not like the laws, mechanisms, and the uniformities which the scientist discovers and which he comes to regard as science, but rather like the curious, thinking, choosing, creative, combining, and discriminating scientist who thus observes universe phenomena and classifies the mathematical facts inherent in the mechanistic phases of the material side of creation Neither is the universe like the art of the artist, but rather like the striving, dreaming, aspiring and advancing artist who seeks to transcend the world of material things in the effort to achieve a spiritual goal.” <a id="s170_602"></a>[UB 195:7.22](/en/The_Urantia_Book/195#p7_22)
 
 And so our clerical critic not only failed to envision the magnificent cosmos of _The Urantia Book_, but he so superficially read the text that he thought it presented a mechanical cosmos. How mistaken even a learned theologian can be when his mind is not open to the reception of new truth! 
 
@@ -194,7 +194,7 @@ A minister, with a doctor's degree, recently said to me:
 
 The authors of the Books of the Bible are known.The book itself tells about how the Urantia Papers came to be. The reason given us for not disclosing the identity of the subject employed in this transaction was: We do not want future generations to be concerned with the adoration of a Saint Peter or Saint Paul, a Luther, Calvin, or Wesley. We want no individual to be exalted by the Urantia Papers. The book should stand on its own nature and work.
 
-We all tend to revere our religious leaders. Remember how the Edenites wanted to fall down and worship Adam and Eve. Speaking of the resident governor general, at <a id="s194_163"></a>[114:3.1](/en/The_Urantia_Book/114#p3_1) of _The Urantia Book_, it says:
+We all tend to revere our religious leaders. Remember how the Edenites wanted to fall down and worship Adam and Eve. Speaking of the resident governor general, at <a id="s196_163"></a>[114:3.1](/en/The_Urantia_Book/114#p3_1) of _The Urantia Book_, it says:
 
 > "The name of the current planetary supervisor is withheld from you only because mortal man is so prone to worship, even to deify, his extraordinary compatriots and superhuman superiors."
 
@@ -224,11 +224,11 @@ First, there is the background and cosmic setting of all sin as portrayed in the
 
 Now as to sin as a personal experience:
 
-_The Urantia Book_, <a id="s224_20"></a>[3:5.15](/en/The_Urantia_Book/3#p5_15):
+_The Urantia Book_, <a id="s226_20"></a>[3:5.15](/en/The_Urantia_Book/3#p5_15):
 
 > "The possibility of mistaken judgment (evil) becomes sin only when the human will consciously endorses and knowingly embraces a deliberate immoral judgment."
 
-_The Urantia Book_, <a id="s228_20"></a>[54:0.2](/en/The_Urantia_Book/54#p0_2):
+_The Urantia Book_, <a id="s230_20"></a>[54:0.2](/en/The_Urantia_Book/54#p0_2):
 
 > "Sin is potential in all realms where imperfect beings are endowed with the ability to choose between good and evil." It is true, _The Urantia Book_ does reject the whole concept of original sin.
 
@@ -236,19 +236,19 @@ Jesus recognized that "sin" was according to one's light. Said he:
 
 > "Before I came you had no sin, but now you have no excuse." [John 15:22](/en/Bible/John/15#v22).
 
-Read again an Paper <a id="s236_20"></a>[67:1.4](/en/The_Urantia_Book/67#p1_4):
+Read again an Paper <a id="s238_20"></a>[67:1.4](/en/The_Urantia_Book/67#p1_4):
 
 > "Sin is a purposeful resistance to divine reality—a conscious choosing to oppose spiritual progress—while iniquity consists in an open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity."
 
-_The Urantia Book_, <a id="s240_20"></a>[2:6.8](/en/The_Urantia_Book/2#p6_8):
+_The Urantia Book_, <a id="s242_20"></a>[2:6.8](/en/The_Urantia_Book/2#p6_8):
 
 > "The love of God saves the sinner, the law of God destroys the sin."
 
-_The Urantia Book_, <a id="s244_20"></a>[89:10.3](/en/The_Urantia_Book/89#p10_3):
+_The Urantia Book_, <a id="s246_20"></a>[89:10.3](/en/The_Urantia_Book/89#p10_3):
 
 > "The sense or feeling of guilt is the consciousness of the violation of the mores; it is not necessarily sin. There is no real sin in the absence of conscious disloyalty to Deity."
 
-_The Urantia Book_, <a id="s248_20"></a>[188:4.5](/en/The_Urantia_Book/188#p4_5):
+_The Urantia Book_, <a id="s250_20"></a>[188:4.5](/en/The_Urantia_Book/188#p4_5):
 
 > "Sin is the act of conscious and deliberate rebellion against the Father's will and the Son's laws by an individual will creature."
 
@@ -256,22 +256,22 @@ As regards the plan of salvation, the teachings of _The Urantia Book_ are clear 
 
 > "Truly I perceive that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him." [Acts 10:34,35](/en/Bible/Acts_of_the_Apostles/10#v34).
 
-The plan of saving mortals is a part of the eternal purpose of God. (<a id="s256_69"></a>[32:5.8](/en/The_Urantia_Book/32#p5_8)):
+The plan of saving mortals is a part of the eternal purpose of God. (<a id="s258_69"></a>[32:5.8](/en/The_Urantia_Book/32#p5_8)):
 
 > "The goal of eternity is ahead! The adventure of divinity attainment lies before you! The race for perfection is on! Whosoever will may enter, and certain victory will crown the efforts of every human being who will run the race of faith and trust, depending every step of the way on the leading of the indwelling Adjuster and on the guidance of that good spirit of the Universe Son, which so freely has been poured out upon all flesh."
 
 The plan of salvation is presented in _The Urantia Book_ as: 
 
-- The Plan of Perfection Attainment. Pages <a id="s262_43"></a>[4:0.3](/en/The_Urantia_Book/4#p0_3), <a id="s262_81"></a>[7:4.1](/en/The_Urantia_Book/7#p4_1), <a id="s262_119"></a>[56:9.10](/en/The_Urantia_Book/56#p9_10).
-- The Bestowal Plan. Pages <a id="s263_27"></a>[7:4.5](/en/The_Urantia_Book/7#p4_5), <a id="s263_65"></a>[40:10.14](/en/The_Urantia_Book/40#p10_14).
-- The Plan of Mercy Ministry. Pages <a id="s264_36"></a>[7:4.6](/en/The_Urantia_Book/7#p4_6), <a id="s264_74"></a>[8:4.7](/en/The_Urantia_Book/8#p4_7).
-- The Salvage Plan. Pages <a id="s265_26"></a>[2:5.2](/en/The_Urantia_Book/2#p5_2), <a id="s265_64"></a>[7:4.7](/en/The_Urantia_Book/7#p4_7).
+- The Plan of Perfection Attainment. Pages <a id="s264_43"></a>[4:0.3](/en/The_Urantia_Book/4#p0_3), <a id="s264_81"></a>[7:4.1](/en/The_Urantia_Book/7#p4_1), <a id="s264_119"></a>[56:9.10](/en/The_Urantia_Book/56#p9_10).
+- The Bestowal Plan. Pages <a id="s265_27"></a>[7:4.5](/en/The_Urantia_Book/7#p4_5), <a id="s265_65"></a>[40:10.14](/en/The_Urantia_Book/40#p10_14).
+- The Plan of Mercy Ministry. Pages <a id="s266_36"></a>[7:4.6](/en/The_Urantia_Book/7#p4_6), <a id="s266_74"></a>[8:4.7](/en/The_Urantia_Book/8#p4_7).
+- The Salvage Plan. Pages <a id="s267_26"></a>[2:5.2](/en/The_Urantia_Book/2#p5_2), <a id="s267_64"></a>[7:4.7](/en/The_Urantia_Book/7#p4_7).
 
-Concerning the paradise ascension, read on <a id="s267_43"></a>[34:7.8](/en/The_Urantia_Book/34#p7_8):
+Concerning the paradise ascension, read on <a id="s269_43"></a>[34:7.8](/en/The_Urantia_Book/34#p7_8):
 
 > "Having started out on the way of life ever-lasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconsistency, do not be troubled with doubts or failures or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying "This is the way."
 
-Read at Paper <a id="s271_14"></a>[108:6.8](/en/The_Urantia_Book/108#p6_8):
+Read at Paper <a id="s273_14"></a>[108:6.8](/en/The_Urantia_Book/108#p6_8):
 
 > "You humans have begun an endless unfolding of an almost infinite panorama, a limitless expanding of never-ending, ever-widening spheres of opportunity for exhilarating service, matchless adventure, sublime uncertainty, and boundless attainment. When the clouds gather overhead, your faith should accept the fact of the presence of the indwelling Adjuster, and thus you should be able to look beyond the mists of mortal uncertainty into the clear shining of the sun of eternal righteousness on the beckoning heights of the mansion worlds of Satania."
 
@@ -365,7 +365,7 @@ NOTE: The technique of the reception of _The Urantia Book_ in English in no way 
 
 ### 11. Criticism: The atonement has vanished in _The Urantia Book_. So has the majestic and jealous God who punishes his people when they go whoring after other gods.
 
-This is a valid criticism. In _The Urantia Book_ the atonement has vanished. Read an <a id="s365_85"></a>[2:6.5](/en/The_Urantia_Book/2#p6_5):
+This is a valid criticism. In _The Urantia Book_ the atonement has vanished. Read an <a id="s367_85"></a>[2:6.5](/en/The_Urantia_Book/2#p6_5):
 
 > "Righteousness may be the divine thought, but love is the Father' s attitude. The erroneous supposition that the righteousness of God was irreconcilable with the selfless love of the heavenly Father, presupposed absence of unity in the nature of Deity and led directly to the elaboration of the atonement doctrine, which is a philosophical assault upon both the unity and the free-willness of God." 
 
@@ -383,7 +383,7 @@ _The Urantia Book_, while presenting many new concepts, devoted much attention t
 
 Remember, it is not the purpose of _The Urantia Book_ to start a new church. The book condemns sectarian religions. The book is a gift to all religions, including Christianity.
 
-The mission of the book is well told on <a id="s383_40"></a>[196:1.2](/en/The_Urantia_Book/196#p1_2):
+The mission of the book is well told on <a id="s385_40"></a>[196:1.2](/en/The_Urantia_Book/196#p1_2):
 
 > "The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith—and of practices of living as will enable it to ' follow after' the Master in the demonstration of his real life of religious devotion to the doing of his father's will and of consecration to the unselfish service of man. Do professed Christians fear the exposure of a self-sufficient and un-consecrated fellowship of social respectability and selfish economic maladjustment? Does institutional Christianity fear the possible jeopardy or even the overthrow, of ecclesiastical authority if the Jesus of Galilee is reinstated in the minds and souls of mortal men as the ideal of personal religious living? Indeed, the social readjustments, the economic transformations, the moral rejuvenation's, and the religious revisions of Christian civilization would be drastic and revolutionary if the living religion of Jesus should suddenly supplant the theologic religion about Jesus."
 
@@ -393,7 +393,7 @@ The Urantia teaching greatly enlarges the mission of Jesus on this world. In add
 
 In the religion of Jesus, the bestowal Son of God becomes the real center of the gospel of the kingdom. The religion about Jesus may give a large place to Peter at Pentecost, to Paul and his epistles, and to the early church fathers. But in the Urantia version of the gospel of the kingdom, Jesus of Nazareth—the Son of God and the Son of Man—is forever at the center of the good news about the fatherhood of God and the brotherhood of man.
 
-_The Urantia Book_ recognizes the supremacy of Christ in all things religious, when it validates his many titles at <a id="s393_116"></a>[182:1.9](/en/The_Urantia_Book/182#p1_9):
+_The Urantia Book_ recognizes the supremacy of Christ in all things religious, when it validates his many titles at <a id="s395_116"></a>[182:1.9](/en/The_Urantia_Book/182#p1_9):
 - I am the bread of life.
 - I am the living water.
 - I am the light of the world
@@ -413,7 +413,7 @@ _The Urantia Book_ recognizes the supremacy of Christ in all things religious, w
 
 ### 14. Criticism: As regards science, this book is dated. It presents a very good picture of the way we looked at the cosmos many years ago.
 
-On the whole, I think this is a valid criticism of _The Urantia Book_. Let me read from _The Urantia Book_, <a id="s413_108"></a>[101:4.1-2](/en/The_Urantia_Book/101#p4_1). 
+On the whole, I think this is a valid criticism of _The Urantia Book_. Let me read from _The Urantia Book_, <a id="s415_108"></a>[101:4.1-2](/en/The_Urantia_Book/101#p4_1). 
 
 > "Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented."
 > 
@@ -502,11 +502,11 @@ In reply to this criticism, I submit 74 concepts and doctrines which are new and
 1. **[The Eternal Son of Paradise](/en/The_Urantia_Book/6):** For the first time in human records clearly designated and personally identified.
 2. **[The unique Conjoint Actor](/en/The_Urantia_Book/8):** The concept of the Third Person of Deity is both unique and original in the Urantia Papers.
 3. **[The Paradise Trinity](/en/The_Urantia_Book/10):** In _The Urantia Book_ the Paradise Trinity finds its only present-day identification and recognition.
-4. **<a id="s502_5"></a>[The Central Geographic Residence of Deity](/en/The_Urantia_Book/0#p0_5):** For the first time the world knows exactly where God lives.
+4. **<a id="s504_5"></a>[The Central Geographic Residence of Deity](/en/The_Urantia_Book/0#p0_5):** For the first time the world knows exactly where God lives.
 5. **[The absolute Isle of Paradise](/en/The_Urantia_Book/11):** The original concept of Paradise as the absolute of non-deity reality.
 6. **[Multiple Creator Sons](/en/The_Urantia_Book/21):** Recognition of more than 700,000 Creator Paradise Sons.
 7. **Concept of the Absolutes:** The concept of the Unqualified, Universal, and Deity Absolutes is original with the Urantia Book.
-8. **Doctrine of Evolutionary Deity:** While I saw an intimation of finite Deity in one of Pratt's books about the time of the coming of the Urantia Papers, I am sure that the concepts of the <a id="s506_192"></a>[Supreme Being](/en/The_Urantia_Book/0#p2_15) and <a id="s506_242"></a>[God the Ultimate](/en/The_Urantia_Book/0#p2_17) are original.
+8. **Doctrine of Evolutionary Deity:** While I saw an intimation of finite Deity in one of Pratt's books about the time of the coming of the Urantia Papers, I am sure that the concepts of the <a id="s508_192"></a>[Supreme Being](/en/The_Urantia_Book/0#p2_15) and <a id="s508_242"></a>[God the Ultimate](/en/The_Urantia_Book/0#p2_17) are original.
 9. **[Concept of the Triunities](/en/The_Urantia_Book/104):** The Triunities are an original Urantia concept.
 10. **[Havona Universe and Natives](/en/The_Urantia_Book/14):** The billion world picture of Havona and its inhabitants is a wholly new and original concept.
 11. **The Concept of Space:** Notwithstanding the theory of an "exploding cosmos," the space concept of _The Urantia Book_ is new and original.
@@ -517,25 +517,25 @@ In reply to this criticism, I submit 74 concepts and doctrines which are new and
 16. **[The Seven Master Spirits](/en/The_Urantia_Book/16):** While the Bible makes mention of seven Spirits of God, it is only in _The Urantia Book_ that these Spirits are identified and their work fully described.
 17. **The Vast Family of the Conjoint Actor:** The vast and far- flung family of the Infinite Spirit —supernaphim, seconaphim, Solitary Messengers are but briefly foreshadowed by the Biblical narrative of seraphim and cherubim.
 18. **The Universal Circuits:** The gravity, personality, spirit, and mind circuits are original teaching of _The Urantia Book_.
-19. **<a id="s517_6"></a>[Universal Reflectivity - Majeston](/en/The_Urantia_Book/17#p2_1):** The amazing story of universal reflectivity is a wholly new an original presentation of the Urantia Revelation.
-20. **<a id="s518_6"></a>[Power Directors](/en/The_Urantia_Book/29#p5_1):** The whole concept of intelligent and purposive control of cosmic energy is original with _The Urantia Book_.
+19. **<a id="s519_6"></a>[Universal Reflectivity - Majeston](/en/The_Urantia_Book/17#p2_1):** The amazing story of universal reflectivity is a wholly new an original presentation of the Urantia Revelation.
+20. **<a id="s520_6"></a>[Power Directors](/en/The_Urantia_Book/29#p5_1):** The whole concept of intelligent and purposive control of cosmic energy is original with _The Urantia Book_.
 21. **Evolution of Energy - Matter:** While some phases of the Urantia story of the evolution of energy may have been foreshadowed by scientific discovery, nevertheless, the concept as a whole is new as presented in the Urantia Papers.
-22. **<a id="s520_6"></a>[The Ultimaton](/en/The_Urantia_Book/42#p6_1):** At the time of the suggestion of the Ultimaton in the Urantia Papers, I had never heard of such a concept in scientific literature. During the past five or six years, I have noted several different intimations of the possible existence of some physical factor analogous to the ultimaton concept .
-23. **<a id="s521_6"></a>[Origin of the Solar System](/en/The_Urantia_Book/57#p5_1):** While the Urantia narrative of the origin of the solar system includes some features of the Moulton-Chamberlain theory, the whole story is so complete and unique as to make it practically an original presentation.
-24. **<a id="s522_6"></a>[The Architectural Worlds](/en/The_Urantia_Book/15#p5_13):** Worlds made to order of specifications is original with _The Urantia Book_.
+22. **<a id="s522_6"></a>[The Ultimaton](/en/The_Urantia_Book/42#p6_1):** At the time of the suggestion of the Ultimaton in the Urantia Papers, I had never heard of such a concept in scientific literature. During the past five or six years, I have noted several different intimations of the possible existence of some physical factor analogous to the ultimaton concept .
+23. **<a id="s523_6"></a>[Origin of the Solar System](/en/The_Urantia_Book/57#p5_1):** While the Urantia narrative of the origin of the solar system includes some features of the Moulton-Chamberlain theory, the whole story is so complete and unique as to make it practically an original presentation.
+24. **<a id="s524_6"></a>[The Architectural Worlds](/en/The_Urantia_Book/15#p5_13):** Worlds made to order of specifications is original with _The Urantia Book_.
 25. **Universe Administration:** From the inhabited world to the management of the grand universe the administrative scheme of _The Urantia Book_ is entirely new.
 26. **[The Life Carriers](/en/The_Urantia_Book/36):** Nothing like the concept of the Life Carriers has ever been suggested to humankind in all past history.
 27. **[Origin of the Human Race](/en/The_Urantia_Book/63):** While the Urantia story of the origin of the human race validates doctrine of evolution, nevertheless, it presents such a detailed and unique narrative as to constitute an all but original presentation of human origins.
 28. **[Origin of the Colored Races](/en/The_Urantia_Book/64):** The Urantia story of the origin of the Sangik races is the only such narrative in existence.
 29. **[Source and Nature of Personality](/en/The_Urantia_Book/112):** While _The Urantia Book_, like science, fails to define personality, it does designate its origin and gratifyingly portrays its magnificent destiny.
 30. **[The Concept of Thought Adjusters](/en/The_Urantia_Book/107):** While the Bible talks about the "true light which lighteth every man coming into the world," the story of Thought Adjusters as revealed in the Urantia Papers is so replete and unique as to constitute a new and original story.
-31. **<a id="s529_6"></a>[Evolution of the Soul](/en/The_Urantia_Book/0#p5_10):** The concept of the origin, nature, and evolution of the soul is original with _The Urantia Book_.
-32. **<a id="s530_6"></a>[Identification of the Holy Spirit](/en/The_Urantia_Book/8#p5_3):** Pointing out the Holy Spirit as the presence of the Local Universe Mother Spirit is altogether new and original in the Urantia Papers.
-33. **<a id="s531_6"></a>[The Seven Adjutant Spirits](/en/The_Urantia_Book/36#p5_1):** While the Bible makes mention of seven spirits and in Isaiah partially identifies them, the Urantia narrative is so full and unique as to make it an original presentation.
+31. **<a id="s531_6"></a>[Evolution of the Soul](/en/The_Urantia_Book/0#p5_10):** The concept of the origin, nature, and evolution of the soul is original with _The Urantia Book_.
+32. **<a id="s532_6"></a>[Identification of the Holy Spirit](/en/The_Urantia_Book/8#p5_3):** Pointing out the Holy Spirit as the presence of the Local Universe Mother Spirit is altogether new and original in the Urantia Papers.
+33. **<a id="s533_6"></a>[The Seven Adjutant Spirits](/en/The_Urantia_Book/36#p5_1):** While the Bible makes mention of seven spirits and in Isaiah partially identifies them, the Urantia narrative is so full and unique as to make it an original presentation.
 34. **[Local Universe Sons of God](/en/The_Urantia_Book/35):** The whole story of Local Universe Sons is new and original.
-35. **<a id="s533_6"></a>[The Ascension Plan—Be You Perfect](/en/The_Urantia_Book/30#p4_9):** While Jesus propounded the mandate "Be you perfect," etc., the unfoldment of the Paradise ascension plan in _The Urantia Book_ is an all but new and original concept.
+35. **<a id="s535_6"></a>[The Ascension Plan—Be You Perfect](/en/The_Urantia_Book/30#p4_9):** While Jesus propounded the mandate "Be you perfect," etc., the unfoldment of the Paradise ascension plan in _The Urantia Book_ is an all but new and original concept.
 36. **[The Seven Mansion Worlds](/en/The_Urantia_Book/47):** While the Master alluded to the "mansion worlds," the replete story of their nature and province is both new and original.
-37. **<a id="s535_6"></a>[The Morontia Concept](/en/The_Urantia_Book/0#p5_12):** The whole morontia concept—the stage between the material and the spiritual is new and original.
+37. **<a id="s537_6"></a>[The Morontia Concept](/en/The_Urantia_Book/0#p5_12):** The whole morontia concept—the stage between the material and the spiritual is new and original.
 38. **[Celestial Artisans and Reversion Directors](/en/The_Urantia_Book/44):** Both of these concepts are new in _The Urantia Book_. The concept of celestial play and spiritual humor is all but new.
 39. **Concept of Permanent Citizenship:** This is wholly original with _The Urantia Book_.
 40. **[The Urantia Midwayers](/en/The_Urantia_Book/77):** While the Old Testament does refer to the "Nephilim" the citation is so indefinite as to constitute the Urantia story of the midwayers as a new and original narrative.
@@ -548,27 +548,27 @@ In reply to this criticism, I submit 74 concepts and doctrines which are new and
 47. **A Unified History of Urantia:** Nowhere else in all the world can you find a consistent and unified history of our world. For the first time we have a chronology of human affairs.
 48. **Diseases:** The Book presents a new and original explanation of microbic diseases.
 49. **Antigravity:** The whole concept of antigravity-is unique and original with the Urantia Papers. Only during the last year has any scientist promulgated a theory of antigravity.
-50. **<a id="s548_6"></a>[Jesus' Birthday](/en/The_Urantia_Book/122#p8_1):** For the first time during the Christian era, we know the real birthday of Jesus—August 21, 7BC.
+50. **<a id="s550_6"></a>[Jesus' Birthday](/en/The_Urantia_Book/122#p8_1):** For the first time during the Christian era, we know the real birthday of Jesus—August 21, 7BC.
 51. **Experimental Planet:** The fact that Urantia was a decimal planet—that the Life Carriers had permission to attempt new features of biologic evolution. This is information not heretofore known on the planet.
 52. **[The Evolution of Religion](/en/The_Urantia_Book/99):** While you can read much about the evolution of religion on Urantia, nevertheless, the straightforward story told in the Urantia Papers is unique and original.
 53. **[The Unique Reason for Jesus' Bestowal](/en/The_Urantia_Book/119):** _The Urantia Book_ presents a new, unique, and original reason for Jesus' life and death on our world.
 54. **[A Chronological Story of Jesus' Life](https://www.urantia.org/urantia-book-standardized/part-iv-life-and-teachings-jesus):** The Book presents the only complete story of Jesus' life on this world.
 55. **[Identification of the Twelve Apostles](/en/The_Urantia_Book/139):** The Urantia story is the first time the confusion of the 12 Apostles has been straightened out.
-56. **<a id="s554_6"></a>[The Unique Story of Mary](/en/The_Urantia_Book/122#p1_1):** The story of Mary, the mother of Jesus, is unique and original.
-57. **<a id="s555_6"></a>[The Water and the Wine](/en/The_Urantia_Book/137#p4_1):** As far as I know, _The Urantia Book_ presents an original explanation of this supposed miracle.
+56. **<a id="s556_6"></a>[The Unique Story of Mary](/en/The_Urantia_Book/122#p1_1):** The story of Mary, the mother of Jesus, is unique and original.
+57. **<a id="s557_6"></a>[The Water and the Wine](/en/The_Urantia_Book/137#p4_1):** As far as I know, _The Urantia Book_ presents an original explanation of this supposed miracle.
 58. **Explanation of Unintended Miracles:** The Book presents a possible explanation of numerous unintended miracles.
 59. **Jesus' Attitude toward Art and Athletics:** The Master's attitude toward art and athletics is nowhere else revealed.
-60. **<a id="s558_6"></a>[The Sermon on the Mount](/en/The_Urantia_Book/140#p3_1):** I am, of course, not familiar with all the literature on the Sermon on the Mount. But as far as I know, the interpretation of this address in _The Urantia Book_ is new and original.
-61. **<a id="s559_6"></a>[The Women' s Evangelistic Corps](/en/The_Urantia_Book/150#p1_1):** This story is new, notwithstanding the brief mention of this matter in the New Testament.
+60. **<a id="s560_6"></a>[The Sermon on the Mount](/en/The_Urantia_Book/140#p3_1):** I am, of course, not familiar with all the literature on the Sermon on the Mount. But as far as I know, the interpretation of this address in _The Urantia Book_ is new and original.
+61. **<a id="s561_6"></a>[The Women' s Evangelistic Corps](/en/The_Urantia_Book/150#p1_1):** This story is new, notwithstanding the brief mention of this matter in the New Testament.
 62. **[Rodan of Alexandria](/en/The_Urantia_Book/160):** This whole story is original with _The Urantia Book_.
 63. **The Story of Abner:** The unique story of the head of John the Baptist's apostles is original with the Urantia Papers.
-64. **<a id="s562_6"></a>[David Zebedee' s Intelligence Corps](/en/The_Urantia_Book/149#p0_4):** This entire story is exclusively Found in _The Urantia Book_
-65. **<a id="s563_6"></a>[The “Keys of the Kingdom.”](/en/The_Urantia_Book/39#p4_14)** The explanation of the meaning of the “keys of the kingdom” is new and original as found in _The Urantia Book._
+64. **<a id="s564_6"></a>[David Zebedee' s Intelligence Corps](/en/The_Urantia_Book/149#p0_4):** This entire story is exclusively Found in _The Urantia Book_
+65. **<a id="s565_6"></a>[The “Keys of the Kingdom.”](/en/The_Urantia_Book/39#p4_14)** The explanation of the meaning of the “keys of the kingdom” is new and original as found in _The Urantia Book._
 66. **[Clarification of the Kingdom Concept.](/en/The_Urantia_Book/170)** The kingdom concept is clarified. The religion of Jesus and the religion about Jesus are fully differentiated.
-67. **<a id="s565_6"></a>[Clarification of the Second Advent.](/en/The_Urantia_Book/176#p2_1)** The clarification of [Matt 24](/en/Bible/Matthew/24) and the second coming of Christ is complete and original.
+67. **<a id="s567_6"></a>[Clarification of the Second Advent.](/en/The_Urantia_Book/176#p2_1)** The clarification of [Matt 24](/en/Bible/Matthew/24) and the second coming of Christ is complete and original.
 68. **[New Concept of the Lord’s Supper.](/en/The_Urantia_Book/179)** The significance of the Lord’s Supper is new and original.
 69. **[Clarification of the Crucifixion.](/en/The_Urantia_Book/187)** While there is much in the New Testament regarding the crucifixion, the Urantia story is complete and in many phases wholly original.
-70. **<a id="s568_6"></a>[Nature of the Resurrection.](/en/The_Urantia_Book/189#p2_6)**
+70. **<a id="s570_6"></a>[Nature of the Resurrection.](/en/The_Urantia_Book/189#p2_6)**
 71. **[The Morontia Experience of Jesus](/en/The_Urantia_Book/190)**. The full and complete story of the morontia experience between the resurrection and the ascension is found only in The Urantia Papers.
 72. **[The New Picture of Pentecost.](/en/The_Urantia_Book/194)** The Urantia picture of Pentecost is so enlarged as to constitute a new portrayal of the coming of the Spirit of Truth.
 73. **[The Faith of Jesus.](/en/The_Urantia_Book/196)** The final chapter of The Urantia Book presents a new concept of believing _with_ Jesus rather than believing _on_ him.

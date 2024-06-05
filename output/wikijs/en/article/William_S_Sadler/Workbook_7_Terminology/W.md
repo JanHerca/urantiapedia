@@ -42,7 +42,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Human will—the ability to know God and the power of choosing to worship him. <a id="s42_79"></a>[UB 65:0.6](/en/The_Urantia_Book/65#p0_6)
 
-> The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. . . . Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection. <a id="s44_339"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7)
+> The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. . . . Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection. <a id="s44_345"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7)
 
 > Will is that manifestation of the human mind which enables the subjective consciousness to express itself objectively. and to experience the phenomenon of aspiring to be Godlike. <a id="s46_181"></a>[UB 130:2.10](/en/The_Urantia_Book/130#p2_10)
 

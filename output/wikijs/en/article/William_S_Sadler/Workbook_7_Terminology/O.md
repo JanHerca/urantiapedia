@@ -28,7 +28,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > _The Original._ The unqualified concept of the First Source and Center, that source manifestation of the I AM from which all reality takes origin. <a id="s28_149"></a>[UB 115:3.6](/en/The_Urantia_Book/115#p3_6)
 
-> The Original is that which is. <a id="s30_31"></a>[UB 115:3.11](/en/The_Urantia_Book/115#p3_11)
+> The Original is that which is. <a id="s30_33"></a>[UB 115:3.11](/en/The_Urantia_Book/115#p3_11)
 
 
 <br>

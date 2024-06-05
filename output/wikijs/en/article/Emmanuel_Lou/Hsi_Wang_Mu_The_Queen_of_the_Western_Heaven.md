@@ -62,17 +62,17 @@ In Chinese paintings Hsi Wang is usually depicted as a beautiful female in the a
 
 (1) “This Mediterranean peninsula had a salubrious climate and an equable temperature; this stabilized weather was due to the encircling mountains ...” (<a id="a62_153"></a>[UB 73:3.3](/en/The_Urantia_Book/73#p3_3))
 
-> “The coast line of this land mass was considerably elevated...” (<a id="a64_66"></a>[UB 73:3.4](/en/The_Urantia_Book/73#p3_4))
+> “The coast line of this land mass was considerably elevated...” (<a id="a64_67"></a>[UB 73:3.4](/en/The_Urantia_Book/73#p3_4))
 
 (2) “The mountains surrounding the Garden abounded in precious stones and metals, though these received very little attention.” (<a id="a66_129"></a>[UB 73:3.5](/en/The_Urantia_Book/73#p3_5))
 
 (3) “Nowhere else was there a location which could have lent itself so perfectly to becoming such a paradise of botanic expression.” (<a id="a68_134"></a>[UB 73:3.6](/en/The_Urantia_Book/73#p3_6))
 
-> “Although the work of embellishment was hardly finished at the time of Adam's arrival, the place was already a gem of botanic beauty; and during the early days of his sojourn in Eden the whole Garden took on new form and assumed new proportions of beauty and grandeur.” (<a id="a70_272"></a>[UB 73:5.8](/en/The_Urantia_Book/73#p5_8))
+> “Although the work of embellishment was hardly finished at the time of Adam's arrival, the place was already a gem of botanic beauty; and during the early days of his sojourn in Eden the whole Garden took on new form and assumed new proportions of beauty and grandeur.” (<a id="a70_273"></a>[UB 73:5.8](/en/The_Urantia_Book/73#p5_8))
 
 (4) “Their special senses were much more acute, and they were able to see the midwayers and the angelic hosts, the Melchizedeks ...” (<a id="a72_134"></a>[UB 76:4.5](/en/The_Urantia_Book/76#p4_5))
 
-> “ ... the midwayers, being able to do such things, transported Adan and Eve to the Father's temple.” (<a id="a74_103"></a>[UB 74:4.4](/en/The_Urantia_Book/74#p4_4))
+> “ ... the midwayers, being able to do such things, transported Adan and Eve to the Father's temple.” (<a id="a74_104"></a>[UB 74:4.4](/en/The_Urantia_Book/74#p4_4))
 
 (5) “Hundreds of believer settlements had faithfully, year after year, kept up the supply of these home-reared pigeons for just such an occasion.” (<a id="a76_148"></a>[UB 74:2.3](/en/The_Urantia_Book/74#p2_3))
 
@@ -84,7 +84,7 @@ In Chinese paintings Hsi Wang is usually depicted as a beautiful female in the a
 
 (9) “In this rendez-vous (in the Garden of Eden) the crean of the civilization of Urantia was forgathering.” (<a id="a84_110"></a>[UB 73:3.6](/en/The_Urantia_Book/73#p3_6)) Is this reminiscent of the six Sangik races of color plus the violet race? (See page <a id="a84_238"></a>[UB 64:5.2](/en/The_Urantia_Book/64#p5_2))
 
-> “Amadon was chairman of this committee, which consisted of twelve members embracing a representative of each of the six Sangik races; ...” (<a id="a86_141"></a>[UB 74:2.5](/en/The_Urantia_Book/74#p2_5))
+> “Amadon was chairman of this committee, which consisted of twelve members embracing a representative of each of the six Sangik races; ...” (<a id="a86_142"></a>[UB 74:2.5](/en/The_Urantia_Book/74#p2_5))
 
 The Boat people in Hong Kong of ten treasure among their household gods a scroll of the Queen of the Western Heaven, and it is on her crane that daughters, who have died before reaching maturity, are mounted in effigy.
 

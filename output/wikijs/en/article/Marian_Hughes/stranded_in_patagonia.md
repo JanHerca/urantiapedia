@@ -55,7 +55,7 @@ As “chance” would have it, I quickly met a nice group of young people who we
 
 So how did a couple of old gringos from Hawaii end up “stranded” in Puerto Varas, Chile? Granted this is not your typical stranded 6,000 miles from home story but it is my story, and many good experiences resulted from this period of travel and isolation.
 
-We had been closely watching the progress of Covid-19 from Hawaii since late December. We had previously decided to journey back to Chile via Rapa Nui, (Easter Island) in March. We planned to meet the Mayor of the island, since he was a reader of _The Urantia Book_. We did get to meet him and had an interesting breakfast. _The Urantia Book_ mentions Easter Island with an interesting story. ([UB 78:5.7](/en/The_Urantia_Book/78#p5_7)) Also, we wanted to donate a book to the local library there.
+We had been closely watching the progress of Covid-19 from Hawaii since late December. We had previously decided to journey back to Chile via Rapa Nui, (Easter Island) in March. We planned to meet the Mayor of the island, since he was a reader of _The Urantia Book_. We did get to meet him and had an interesting breakfast. _The Urantia Book_ mentions Easter Island with an interesting story. (<a id="a57_394"></a>[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)) Also, we wanted to donate a book to the local library there.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Tidings/Easter-Island.jpg">

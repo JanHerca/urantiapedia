@@ -92,7 +92,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Segregata
 
-> _Pregravity Stages (Force)_ . This is the first step in the individuation of space potency into the pre-energy forms of cosmic force. This state is analogous to the concept of the primordial force-charge of space, sometimes called _pure energy_, or _segregata_. <a id="s94_263"></a>[UB 11:8.5](/en/The_Urantia_Book/11#p8_5)
+> _Pregravity Stages (Force)_ . This is the first step in the individuation of space potency into the pre-energy forms of cosmic force. This state is analogous to the concept of the primordial force-charge of space, sometimes called _pure energy_, or _segregata_. <a id="s94_264"></a>[UB 11:8.5](/en/The_Urantia_Book/11#p8_5)
 
 > Primordial force is sometimes spoken of as _pure energy_; on Uversa we refer to it as SEGREGATA. <a id="s96_99"></a>[UB 42:2.9](/en/The_Urantia_Book/42#p2_9)
 
@@ -182,7 +182,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Spirit is ever conscious, minded, and possessed of varied phases of identity. Without mind in some phase there would be no spiritual consciousness in the fraternity of spirit beings. <a id="s182_185"></a>[UB 6:6.2](/en/The_Urantia_Book/6#p6_2)
 
-> _Spirit._ The divine spirit that indwells the mind of man—the Thought Adjuster. This immortal spirit is prepersonal—not a personality, though destined to become a part of the personality of the surviving mortal creature. <a id="s184_221"></a>[UB 0:5.9](/en/The_Urantia_Book/0#p5_9)
+> _Spirit._ The divine spirit that indwells the mind of man—the Thought Adjuster. This immortal spirit is prepersonal—not a personality, though destined to become a part of the personality of the surviving mortal creature. <a id="s184_223"></a>[UB 0:5.9](/en/The_Urantia_Book/0#p5_9)
 
 > Cosmic force responds to mind even as cosmic mind responds to spirit. Spirit is divine purpose, and spirit mind is divine purpose in action. Energy is thing, mind .is meaning, spirit is value. Even in time and space, mind establishes those relative relationships between energy and spirit which are suggestive of mutual kinship in eternity. <a id="s186_343"></a>[UB 9:4.5](/en/The_Urantia_Book/9#p4_5)
 
@@ -212,41 +212,41 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > Although spornagia neither possess nor evolve survival souls, though they do not have personality, nevertheless, they do evolve an individuality which can experience reincarnation. When, with the passing of time, the physical bodies of these unique creatures deteriorate from usage and age, their creators in collaboration with the Life Carters, fabricate new bodies in which the old spornagia re-establish their residences.
 > 
-> Spornagia are the only creatures in all the universe of Nebadon who experience this or any other sort of reincarnation. <a id="s212_122"></a>[UB 46:7.3](/en/The_Urantia_Book/46#p7_3)
+> Spornagia are the only creatures in all the universe of Nebadon who experience this or any other sort of reincarnation. <a id="s214_122"></a>[UB 46:7.3](/en/The_Urantia_Book/46#p7_3)
 
-> Perhaps I can best suggest to Urantia minds something of the nature of these beautiful and serviceable creatures by saying that they embrace the combined traits of a faithful horse and an affectionate dog and manifest an intelligence exceeding that of the highest type of chimpanzee. <a id="s214_286"></a>[UB 46:7.7](/en/The_Urantia_Book/46#p7_7)
+> Perhaps I can best suggest to Urantia minds something of the nature of these beautiful and serviceable creatures by saying that they embrace the combined traits of a faithful horse and an affectionate dog and manifest an intelligence exceeding that of the highest type of chimpanzee. <a id="s216_286"></a>[UB 46:7.7](/en/The_Urantia_Book/46#p7_7)
 
 ## Subabsolute Inevitability
 
-> We have come to speak of the threefold personalization of Deity as the _absolute inevitability_, while we have come to look upon the appearance of the Seven Master Spirits as the _subabsolute inevitability_. <a id="s218_210"></a>[UB 16:1.1](/en/The_Urantia_Book/16#p1_1)
+> We have come to speak of the threefold personalization of Deity as the _absolute inevitability_, while we have come to look upon the appearance of the Seven Master Spirits as the _subabsolute inevitability_. <a id="s220_210"></a>[UB 16:1.1](/en/The_Urantia_Book/16#p1_1)
 
 ## Subpersonal
 
-> Man also observes mind phenomena in living organisms functioning on the subpersonal (animal) level. <a id="s222_102"></a>[UB 6:6.1](/en/The_Urantia_Book/6#p6_1)
+> Man also observes mind phenomena in living organisms functioning on the subpersonal (animal) level. <a id="s224_102"></a>[UB 6:6.1](/en/The_Urantia_Book/6#p6_1)
 
 ## Superuniverse
 
-> Ten major sectors (about 1,000,000,000 inhabited worlds) make one major sector. Each major sector is provided with an enormous and glorious headquarters world and is ruled by three Ancients of Days. <a id="s226_201"></a>[UB 15:2.8](/en/The_Urantia_Book/15#p2_8)
+> Ten major sectors (about 1,000,000,000 inhabited worlds) make one major sector. Each major sector is provided with an enormous and glorious headquarters world and is ruled by three Ancients of Days. <a id="s228_201"></a>[UB 15:2.8](/en/The_Urantia_Book/15#p2_8)
 
 ## Supreme Being
 
-_The Supreme Being_ is not a direct creator, except that he is the father of Majeston, but he is a synthetic co-ordinator of all creature-Creator universe activities. The Supreme Being, now actualizing in the evolutionary universes, is the Deity correlator and synthesizer of time-space divinity, of triune Paradise Deity in experiential association with the Supreme Creators of time and space. <a id="s230_395"></a>[UB 0:7.9](/en/The_Urantia_Book/0#p7_9)
+_The Supreme Being_ is not a direct creator, except that he is the father of Majeston, but he is a synthetic co-ordinator of all creature-Creator universe activities. The Supreme Being, now actualizing in the evolutionary universes, is the Deity correlator and synthesizer of time-space divinity, of triune Paradise Deity in experiential association with the Supreme Creators of time and space. <a id="s232_395"></a>[UB 0:7.9](/en/The_Urantia_Book/0#p7_9)
 
 ## Survival
 
-> The survival of mortal creatures is wholly predicated on the evolvement of an immortal soul within the mortal mind <a id="s234_117"></a>[UB 36:6.5](/en/The_Urantia_Book/36#p6_5)
+> The survival of mortal creatures is wholly predicated on the evolvement of an immortal soul within the mortal mind <a id="s236_117"></a>[UB 36:6.5](/en/The_Urantia_Book/36#p6_5)
 
-> Eternal survival can be jeopardized only by the decisions of the mind and the choice of the soul of the individual himself. <a id="s236_126"></a>[UB 67:7.5](/en/The_Urantia_Book/67#p7_5)
+> Eternal survival can be jeopardized only by the decisions of the mind and the choice of the soul of the individual himself. <a id="s238_126"></a>[UB 67:7.5](/en/The_Urantia_Book/67#p7_5)
 
-> Human survival is in great measure dependent on consecrating the human will to the choosing of those values selected by this spirit-value sorter—the indwelling interpreter and unifier. <a id="s238_187"></a>[UB 196:3.17](/en/The_Urantia_Book/196#p3_17)
+> Human survival is in great measure dependent on consecrating the human will to the choosing of those values selected by this spirit-value sorter—the indwelling interpreter and unifier. <a id="s240_187"></a>[UB 196:3.17](/en/The_Urantia_Book/196#p3_17)
 
 ## Suspicion
 
-> Suspicion is the inherent reaction of primitive men; the survival struggles of the early ages do not naturally breed trust. <a id="s242_126"></a>[UB 39:5.7](/en/The_Urantia_Book/39#p5_7)
+> Suspicion is the inherent reaction of primitive men; the survival struggles of the early ages do not naturally breed trust. <a id="s244_126"></a>[UB 39:5.7](/en/The_Urantia_Book/39#p5_7)
 
 ## System
 
-> The basic unit of the supergovernment consists of about one thousand inhabited or inhabitable worlds. Blazing suns, cold worlds, planets too near the hot suns, and other spheres not suitable for creature habitation are not included in this group. These one thousand worlds adapted to support life are called a system, but in the younger systems only a comparatively small number of these worlds may be inhabited. Each inhabited planet is presided over by a Planetary Prince, and each local system has an architectural sphere as its headquarters and is ruled by a System Sovereign. <a id="s246_583"></a>[UB 15:2.3](/en/The_Urantia_Book/15#p2_3)
+> The basic unit of the supergovernment consists of about one thousand inhabited or inhabitable worlds. Blazing suns, cold worlds, planets too near the hot suns, and other spheres not suitable for creature habitation are not included in this group. These one thousand worlds adapted to support life are called a system, but in the younger systems only a comparatively small number of these worlds may be inhabited. Each inhabited planet is presided over by a Planetary Prince, and each local system has an architectural sphere as its headquarters and is ruled by a System Sovereign. <a id="s248_583"></a>[UB 15:2.3](/en/The_Urantia_Book/15#p2_3)
 
 
 <br>

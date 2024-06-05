@@ -612,7 +612,7 @@ Just to be clear, the individual and personal spiritual experience of true relig
 > 1. Man's logical attitude toward the things of material reality.
 > 2. Man's aesthetic appreciation of beauty contrasted with ugliness.
 > 3. Man's ethical recognition of social obligations and political duty.
-> 4. Even man's sense of human morality is not, in and of itself, religious.<a id="s609_209"></a>[UB 195:5.3-7](/en/The_Urantia_Book/195#p5_3)
+> 4. Even man's sense of human morality is not, in and of itself, religious.<a id="s614_76"></a>[UB 195:5.3-7](/en/The_Urantia_Book/195#p5_3)
 
 Just as we can become financially bankrupt, we can become morally bankrupt. Materialism provides us with things, not always essential, and we always seem to be running out of them. By meditating on the various sources of supply, we find the romantic and spontaneous option.
 

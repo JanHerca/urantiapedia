@@ -98,7 +98,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Mercy is the natural and inevitable offspring of goodness and love. The good nature of a loving Father could not possibly withhold the wise ministry of mercy to each member of every group of his universe children. Eternal justice and divine mercy together constitute what is human experience would be called fairness.
 > 
-> Divine mercy represents a, fairness technique, of adjustment between the universe levels of perfection and imperfection. . . . Mercy is not a contravention of justice but rather an understanding interpretation of the demands of supreme justice as it is fairly applied to the subordinate spiritual beings and to the material creatures of the evolving universes. <a id="s100_357"></a>[UB 2:4.4-5](/en/The_Urantia_Book/2#p4_4)
+> Divine mercy represents a, fairness technique, of adjustment between the universe levels of perfection and imperfection. . . . Mercy is not a contravention of justice but rather an understanding interpretation of the demands of supreme justice as it is fairly applied to the subordinate spiritual beings and to the material creatures of the evolving universes. <a id="s100_363"></a>[UB 2:4.4-5](/en/The_Urantia_Book/2#p4_4)
 
 > Justice is the collective thought of righteousness; mercy is its personal expression. Mercy is the attitude of love. <a id="s102_119"></a>[UB 10:6.18](/en/The_Urantia_Book/10#p6_18)
 
@@ -146,7 +146,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Mind transmutes the values of spirit into the meanings of intellect; volition has power to bring the meanings of mind to fruit in both the material and spiritual domains. The Paradise ascent involves a relative and differential growth in spirit, mind, and energy. The personality is the unifier of these components of experiential individuality. <a id="s146_348"></a>[UB 9:4.6](/en/The_Urantia_Book/9#p4_6)
 
-> Mind, on Urantia, is a compromise between the essence of thought -perfection and the evolving mentality of your immature human nature. . . . Mind is truly of divine origin, and it does have a divine destiny, but your mortal minds are not yet of divine dignity. <a id="s148_257"></a>[UB 9:5.6](/en/The_Urantia_Book/9#p5_6)
+> Mind, on Urantia, is a compromise between the essence of thought -perfection and the evolving mentality of your immature human nature. . . . Mind is truly of divine origin, and it does have a divine destiny, but your mortal minds are not yet of divine dignity. <a id="s148_263"></a>[UB 9:5.6](/en/The_Urantia_Book/9#p5_6)
 
 > Mind is the technique whereby spirit realities become experiential to creature personalities. And in the last analysis the unifying possibilities of even human mind, the ability to co-ordinate things, ideas, and values, is supermaterial. <a id="s150_240"></a>[UB 12:8.8](/en/The_Urantia_Book/12#p8_8)
 
@@ -156,67 +156,67 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > Material evolution has provided you a life machine, your body; the Father himself has endowed you with the purest spirit reality known in the universe, your Thought Adjuster. But into your hands, subject to your own decisions, has been given mind, and it is by mind that you live or die. It is within this mind and with this mind that you make those moral decisions which enable you to achieve Adjusterlikeness, and that is Godlikeness.
 > 
-> Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accenting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul—the morontia self—will faithfully portray the harvest of the temporal decisions which the mortal self is making. <a id="s156_410"></a>[UB 111:1.3-5](/en/The_Urantia_Book/111#p1_3)
+> Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accenting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul—the morontia self—will faithfully portray the harvest of the temporal decisions which the mortal self is making. <a id="s158_410"></a>[UB 111:1.3-5](/en/The_Urantia_Book/111#p1_3)
 
-> Mind is the cosmic instrument on which the human will can play the discords of destruction, or upon which this same human will can bring forth the exquisite melodies of God identification and consequent eternal survival. <a id="s158_223"></a>[UB 111:1.6](/en/The_Urantia_Book/111#p1_6)
+> Mind is the cosmic instrument on which the human will can play the discords of destruction, or upon which this same human will can bring forth the exquisite melodies of God identification and consequent eternal survival. <a id="s160_223"></a>[UB 111:1.6](/en/The_Urantia_Book/111#p1_6)
 
-> The material mind of mortal man is the cosmic loom that carries the morontia fabrics on which the indwelling Thought Adjuster threads the spirit patterns of a universe character of enduring values and divine meanings—a surviving soul of ultimate destiny and unending career, a potential finaliter. <a id="s160_300"></a>[UB 111:2.2](/en/The_Urantia_Book/111#p2_2)
+> The material mind of mortal man is the cosmic loom that carries the morontia fabrics on which the indwelling Thought Adjuster threads the spirit patterns of a universe character of enduring values and divine meanings—a surviving soul of ultimate destiny and unending career, a potential finaliter. <a id="s162_300"></a>[UB 111:2.2](/en/The_Urantia_Book/111#p2_2)
 
-> While the mind is not the seat of the spiritual nature, it is indeed the gateway thereto. <a id="s162_92"></a>[UB 155:6.13](/en/The_Urantia_Book/155#p6_13)
+> While the mind is not the seat of the spiritual nature, it is indeed the gateway thereto. <a id="s164_92"></a>[UB 155:6.13](/en/The_Urantia_Book/155#p6_13)
 
 **Mind. Cosmic**
 
-> _The cosmic mind._ This is the sevenfold diversified mind of time and space, one phase of which is ministered by each of the Seven Master Spirits to one of the seven superuniverses. The cosmic mind encompasses all finite-mind levels and co-ordinates experientially with the evolutionary-deity levels of the Supreme Mind and Transcendentally with the existential levels of absolute mind—the direct circuits of the Conjoint Actor. <a id="s166_431"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6)
+> _The cosmic mind._ This is the sevenfold diversified mind of time and space, one phase of which is ministered by each of the Seven Master Spirits to one of the seven superuniverses. The cosmic mind encompasses all finite-mind levels and co-ordinates experientially with the evolutionary-deity levels of the Supreme Mind and Transcendentally with the existential levels of absolute mind—the direct circuits of the Conjoint Actor. <a id="s168_431"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6)
 
 ## Minor Sector
 
-> _The Minor Sector._ One hundred local universes (about 1,000,000,000 inhabitable planets) constitute a minor sector of the super universe government; it has a wonderful headquarters world, wherefrom its rulers, the Recents of Days, administer the affairs of the minor sector. There are three Recents of Days, Supreme Trinity Personalities, on each minor sector headquarters. <a id="s170_377"></a>[UB 15:2.6](/en/The_Urantia_Book/15#p2_6)
+> _The Minor Sector._ One hundred local universes (about 1,000,000,000 inhabitable planets) constitute a minor sector of the super universe government; it has a wonderful headquarters world, wherefrom its rulers, the Recents of Days, administer the affairs of the minor sector. There are three Recents of Days, Supreme Trinity Personalities, on each minor sector headquarters. <a id="s172_377"></a>[UB 15:2.6](/en/The_Urantia_Book/15#p2_6)
 
 ## Monogamy
 
-> Polygamy is the survival of the female-slavery element in marriage. Monogamy is the slave-free ideal of the matchless association of one man and one woman in the exquisite enterprise of home building, offspring rearing, mutual culture, and self improvement. <a id="s174_260"></a>[UB 69:9.7](/en/The_Urantia_Book/69#p9_7)
+> Polygamy is the survival of the female-slavery element in marriage. Monogamy is the slave-free ideal of the matchless association of one man and one woman in the exquisite enterprise of home building, offspring rearing, mutual culture, and self improvement. <a id="s176_260"></a>[UB 69:9.7](/en/The_Urantia_Book/69#p9_7)
 
-> Monogamy always has been, now is, and forever will be the idealistic goal of human sex evolution. This ideal of true pair marriage entails self-denial, and therefore does it so often fail just because one or both of the contracting parties are deficient in that acme of all human virtues, rugged self-control. <a id="s176_312"></a>[UB 83:6.6](/en/The_Urantia_Book/83#p6_6)
+> Monogamy always has been, now is, and forever will be the idealistic goal of human sex evolution. This ideal of true pair marriage entails self-denial, and therefore does it so often fail just because one or both of the contracting parties are deficient in that acme of all human virtues, rugged self-control. <a id="s178_312"></a>[UB 83:6.6](/en/The_Urantia_Book/83#p6_6)
 
 ## Monota
 
-> Monota. Energy is close of kin to divinity when it is Paradise energy. We incline to the belief that monota is the living, nonspirit energy of Paradise—an eternity counterpart of the living, spirit energy of the Original Son—hence the nonspiritual energy system of the Universal Father. <a id="s180_289"></a>[UB 42:2.19](/en/The_Urantia_Book/42#p2_19)
+> Monota. Energy is close of kin to divinity when it is Paradise energy. We incline to the belief that monota is the living, nonspirit energy of Paradise—an eternity counterpart of the living, spirit energy of the Original Son—hence the nonspiritual energy system of the Universal Father. <a id="s182_289"></a>[UB 42:2.19](/en/The_Urantia_Book/42#p2_19)
 
 ## Morality
 
 > Morality can never be advanced by law or by force. It is a personal and freewill matter and must be disseminated by the contagion of the contact of morally fragrant persons with those who are less morally responsive, but who are also desirous of doing the Father’s will.
 > 
-> Moral acts are those human performances which are characterized by the highest intelligence, directed by selective discrimination in the choice of superior ends as well as in the selection of moral means to attain these ends. Such conduct is virtuous. Supreme virtue, then, is wholeheartedly to choose to do the will of the Father in heaven. <a id="s186_344"></a>[UB 16:7.9-10](/en/The_Urantia_Book/16#p7_9)
+> Moral acts are those human performances which are characterized by the highest intelligence, directed by selective discrimination in the choice of superior ends as well as in the selection of moral means to attain these ends. Such conduct is virtuous. Supreme virtue, then, is wholeheartedly to choose to do the will of the Father in heaven. <a id="s188_344"></a>[UB 16:7.9-10](/en/The_Urantia_Book/16#p7_9)
 
 > Morality is the essential pre-existent soil of personal God-consciousness, the personal realization of the Adjuster’s inner presence, but such morality is not the source of religious experience and the resultant spiritual insight. The moral nature is superanimal but subspiritual. Morality is equivalent to the recognition of duty, the realization of the existence of right and wrong. The moral zone intervenes between the animal and the human types of mind as morontia functions between the material and the spiritual spheres of personality attainment.
 > 
 > The evolutionary mind is able to discover law, morals, and ethics; but -the bestowed spirit, the indwelling Adjuster, reveals to the evolving human mind the lawgiver, the Fathersource of all that is true, beautiful, and good; and such an illuminated man has a religion and is spiritually equipped to begin the long and adventurous search for God.
 > 
-> Morality is not necessarily spiritual; it may be wholly and purely human, albeit real religion enhances all moral values, makes them more meaningful. Morality without religion fails to reveal ultimate goodness, and it also fails to provide for the survival of even its own moral values. Religion provides for the enhancement, glorification, and assured survival of every thing morality recognizes and approves. <a id="s192_413"></a>[UB 196:3.25-27](/en/The_Urantia_Book/196#p3_25)
+> Morality is not necessarily spiritual; it may be wholly and purely human, albeit real religion enhances all moral values, makes them more meaningful. Morality without religion fails to reveal ultimate goodness, and it also fails to provide for the survival of even its own moral values. Religion provides for the enhancement, glorification, and assured survival of every thing morality recognizes and approves. <a id="s194_413"></a>[UB 196:3.25-27](/en/The_Urantia_Book/196#p3_25)
 
 ## Morontia
 
-> _Morontia_ is a term designating a vast level intervening between the material and the spiritual. It may designate personal or Impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical. <a id="s196_239"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
+> _Morontia_ is a term designating a vast level intervening between the material and the spiritual. It may designate personal or Impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical. <a id="s198_238"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
 
 ## Mortal, God-conscious
 
 > The God-conscious mortal is certain of salvation; he is unafraid of life; he is honest and consistent. He knows how bravely to endure unavoidable suffering; he is uncomplaining when faced by inescapable hardship.
 > 
-> The true believer does not grow weary in well-doing just because he is thwarted. Difficulty whets the ardor of the truth lover, while obstacles only challenge the exertions of the undaunted kingdom builder. <a id="s200_215"></a>[UB 156:5.20-21](/en/The_Urantia_Book/156#p5_20)
+> The true believer does not grow weary in well-doing just because he is thwarted. Difficulty whets the ardor of the truth lover, while obstacles only challenge the exertions of the undaunted kingdom builder. <a id="s204_209"></a>[UB 156:5.20-21](/en/The_Urantia_Book/156#p5_20)
 
 ## Mota
 
-> Mota - morontia wisdom. <a id="s206_26"></a>[UB 45:7.6](/en/The_Urantia_Book/45#p7_6)
+> Mota - morontia wisdom. <a id="s208_26"></a>[UB 45:7.6](/en/The_Urantia_Book/45#p7_6)
 
-> Mota is more than a superior philosophy; it is to philosophy as two eyes are to one; it has a stereoscopic effect on meanings and values. Material man sees the universe, as it were, with but one eye—flat. Mansion world students achieve cosmic perspective—depth—by superimposing the perceptions of the morontia life upon the perceptions of the physical life,. <a id="s208_361"></a>[UB 48:6.28](/en/The_Urantia_Book/48#p6_28)
+> Mota is more than a superior philosophy; it is to philosophy as two eyes are to one; it has a stereoscopic effect on meanings and values. Material man sees the universe, as it were, with but one eye—flat. Mansion world students achieve cosmic perspective—depth—by superimposing the perceptions of the morontia life upon the perceptions of the physical life,. <a id="s210_361"></a>[UB 48:6.28](/en/The_Urantia_Book/48#p6_28)
 
-> Reason is the understanding technique of the sciences; faith is the insight technique of religion; mota is the technique of the morontia level. Mota is a supermaterial reality sensitivity which is beginning to compensate incomplete growth, having for its substance knowledge-reason and for its essence faith-insight. Mota is a super-philosophical reconciliation of divergent reality perception which is nonattainable by material personalities; it is predicated, in part, on the experience of having survived the material life of the flesh. But many mortals have recognized the desirability of having some method of reconciling the interplay between the widely separated domains of science and religion; and metaphysics is the result of man’s unavailing attempt to span this well-recognized chasm. But human metaphysics has proved more confusing than illuminating. Metaphysics stands for man’s well-meant but futile effort to compensate for the absence of the mota of morontia. <a id="s210_979"></a>[UB 103:6.7](/en/The_Urantia_Book/103#p6_7)
+> Reason is the understanding technique of the sciences; faith is the insight technique of religion; mota is the technique of the morontia level. Mota is a supermaterial reality sensitivity which is beginning to compensate incomplete growth, having for its substance knowledge-reason and for its essence faith-insight. Mota is a super-philosophical reconciliation of divergent reality perception which is nonattainable by material personalities; it is predicated, in part, on the experience of having survived the material life of the flesh. But many mortals have recognized the desirability of having some method of reconciling the interplay between the widely separated domains of science and religion; and metaphysics is the result of man’s unavailing attempt to span this well-recognized chasm. But human metaphysics has proved more confusing than illuminating. Metaphysics stands for man’s well-meant but futile effort to compensate for the absence of the mota of morontia. <a id="s212_979"></a>[UB 103:6.7](/en/The_Urantia_Book/103#p6_7)
 
-> Revelation is evolutionary man’s only hope of bridging the morontia gulf. Faith and reason, unaided by mota, cannot conceive and construct a logical universe. Without the insight of mota, mortal man cannot discern goodness, love, and truth in the phenomena of the material world. <a id="s212_282"></a>[UB 103:6.13](/en/The_Urantia_Book/103#p6_13)
+> Revelation is evolutionary man’s only hope of bridging the morontia gulf. Faith and reason, unaided by mota, cannot conceive and construct a logical universe. Without the insight of mota, mortal man cannot discern goodness, love, and truth in the phenomena of the material world. <a id="s214_282"></a>[UB 103:6.13](/en/The_Urantia_Book/103#p6_13)
 
 ## Mysticism
 
-> Religion is evolutionary man’s supreme endowment, the one thing which enables him to carry on and “endure as seeing Him who is invisible.” Mysticism, however, is often something of a retreat from life which is embraced by those humans who do not relish the more robust activities of living a religious life in the open arenas of human society and commerce. True religion must act. <a id="s216_383"></a>[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)
+> Religion is evolutionary man’s supreme endowment, the one thing which enables him to carry on and “endure as seeing Him who is invisible.” Mysticism, however, is often something of a retreat from life which is embraced by those humans who do not relish the more robust activities of living a religious life in the open arenas of human society and commerce. True religion must act. <a id="s218_383"></a>[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)
 
 
 <br>

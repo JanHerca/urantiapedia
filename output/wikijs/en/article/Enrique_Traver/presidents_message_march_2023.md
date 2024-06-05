@@ -74,7 +74,7 @@ To be ready, an important thing to accomplish in these turbulent times, is to ac
 
 Unity and harmony are two things people around the world have been unable to reach throughout the current ideological battles. In this scenario, the most effective way to reach a convergence of the ideas is through God; it is love and it is a place where we all can speak the same language and feel the same comfort. A place where we can feel as being ONE.
 
-> You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny. [[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)]
+> You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny. <a id="a76_379"></a>[[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/IUA_Tidings/carlos7.jpg">

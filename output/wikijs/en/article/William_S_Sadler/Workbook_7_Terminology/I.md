@@ -54,27 +54,27 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Error suggests lack of intellectual keenness; evil, deficiency of wisdom; sin, abject spiritual poverty; but iniquity is indicative of vanishing personality control.
 > 
-> And when sin has so many times been chosen and so often been repeated, it may become habitual. Habitual sinners can easily become iniquitous, become wholehearted rebels against the universe and all of its divine realities. While all manner of sins may be forgiven, we doubt whether the established iniquiter would ever sincerely experience sorrow for his misdeeds or accept forgiveness for his sins. <a id="s54_569"></a>[UB 67:1.5-6](/en/The_Urantia_Book/67#p1_5)
+> And when sin has so many times been chosen and so often been repeated, it may become habitual. Habitual sinners can easily become iniquitous, become wholehearted rebels against the universe and all of its divine realities. While all manner of sins may be forgiven, we doubt whether the established iniquiter would ever sincerely experience sorrow for his misdeeds or accept forgiveness for his sins. <a id="s56_402"></a>[UB 67:1.5-6](/en/The_Urantia_Book/67#p1_5)
 
-> Iniquity is the willful, determined, and , the Father’s will. Iniquity is the measure of the continued rejection of the Father’s loving plan of personality survival and the Sons’ merciful ministry of salvation. <a id="s56_213"></a>[UB 148:4.5](/en/The_Urantia_Book/148#p4_5)
+> Iniquity is the willful, determined, and , the Father’s will. Iniquity is the measure of the continued rejection of the Father’s loving plan of personality survival and the Sons’ merciful ministry of salvation. <a id="s58_213"></a>[UB 148:4.5](/en/The_Urantia_Book/148#p4_5)
 
 ## Insight,cosmic
 
-> The grasp of universe meanings. <a id="s60_34"></a>[UB 16:8.12](/en/The_Urantia_Book/16#p8_12)
+> The grasp of universe meanings. <a id="s62_34"></a>[UB 16:8.12](/en/The_Urantia_Book/16#p8_12)
 
 ## Insight, spiritual
 
-> All such inner and spiritual communion is termed spiritual insight. Such religious experiences result from the impress made upon the mind of man by the combined operations of the Adjuster and the Spirit of Truth as they function amid and upon the ideas, ideals, insights, and spirit strivings of the evolving sons of God. <a id="s64_324"></a>[UB 101:1.3](/en/The_Urantia_Book/101#p1_3)
+> All such inner and spiritual communion is termed spiritual insight. Such religious experiences result from the impress made upon the mind of man by the combined operations of the Adjuster and the Spirit of Truth as they function amid and upon the ideas, ideals, insights, and spirit strivings of the evolving sons of God. <a id="s66_324"></a>[UB 101:1.3](/en/The_Urantia_Book/101#p1_3)
 
-> The mind of evolutionary man is ever confronted with the intricate problem of refereeing the contest between the natural expansion of emotional impulses and the moral growth of unselfish urges predicated on spiritual insight—genuine religious reflection. <a id="s66_257"></a>[UB 103:5.5](/en/The_Urantia_Book/103#p5_5)
+> The mind of evolutionary man is ever confronted with the intricate problem of refereeing the contest between the natural expansion of emotional impulses and the moral growth of unselfish urges predicated on spiritual insight—genuine religious reflection. <a id="s68_257"></a>[UB 103:5.5](/en/The_Urantia_Book/103#p5_5)
 
 ## Intolerance
 
-> You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one’s belief. No man is at any time disturbed by his neighbor’s attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Sincere men are unafraid of the critical examination of their true convictions and noble ideals. <a id="s70_380"></a>[UB 146:3.2](/en/The_Urantia_Book/146#p3_2)
+> You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one’s belief. No man is at any time disturbed by his neighbor’s attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Sincere men are unafraid of the critical examination of their true convictions and noble ideals. <a id="s72_380"></a>[UB 146:3.2](/en/The_Urantia_Book/146#p3_2)
 
 ## Intuition, moral
 
-> The realization of duty. <a id="s74_27"></a>[UB 16:7.1](/en/The_Urantia_Book/16#p7_1)
+> The realization of duty. <a id="s76_27"></a>[UB 16:7.1](/en/The_Urantia_Book/16#p7_1)
 
 
 <br>

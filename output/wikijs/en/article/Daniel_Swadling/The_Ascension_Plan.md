@@ -87,7 +87,7 @@ And so we have the Ascension Plan; the spiritual transformation required to get 
 ## The Main Steps:
 
 > _On Urantia you pass through a short and intense test during your initial life of_ **material** _existence._ _On the mansion worlds and up through your system, constellation, and local universe, you traverse the **morontia** phases of ascension._
-> _On the training worlds of the superuniverse you pass through the_ **true spirit** _stages of progression and are prepared for eventual transit to Havona._ <a id="a89_159"></a>[[UB 14:5.1](/en/The_Urantia_Book/14#p5_1), emphasis added]
+> _On the training worlds of the superuniverse you pass through the_ **true spirit** _stages of progression and are prepared for eventual transit to Havona._ <a id="a89_158"></a>[[UB 14:5.1](/en/The_Urantia_Book/14#p5_1), emphasis added]
 
 In Havona, our attainment is intellectual, spiritual and experiential, we attain full comprehension of God on many levels through traversing its seven circuits:
 

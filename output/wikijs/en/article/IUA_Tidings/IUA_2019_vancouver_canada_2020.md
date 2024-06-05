@@ -57,7 +57,7 @@ It is our desire that the Urantia Global Experience will bring together free and
 
 ### Focus Groups—Thinking Inside the Circles
 
-Focus Group participants will start their discussions by concentrating on the twelve points outlined in _The Urantia Book_ under “Progressive Civilization” [[UB 71:4](/en/The_Urantia_Book/71#p4)]. It is the goal of Focus Group sessions to be united in purpose and to achieve, through teamwork, greater comprehension and actualization of God the Supreme. Focus groups seek to establish a foundation of higher values on which to build visions for a progressive social environment.
+Focus Group participants will start their discussions by concentrating on the twelve points outlined in _The Urantia Book_ under “Progressive Civilization” <a id="a59_156"></a>[[UB 71:4](/en/The_Urantia_Book/71#p4)]. It is the goal of Focus Group sessions to be united in purpose and to achieve, through teamwork, greater comprehension and actualization of God the Supreme. Focus groups seek to establish a foundation of higher values on which to build visions for a progressive social environment.
 
 ### Vision Teams—Building Outside the Circles
 

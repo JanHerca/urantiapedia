@@ -95,7 +95,7 @@ Globally we have a very great retardation (3<sup>rd</sup> age) despite our great
 
 Reading this paper up to the 5<sup>th</sup> age has also allowed us to know the coming future evolution on Urantia, for example the unification of governments, the presence of a single race, peace on Urantia, only a few working hours per day and a good use of leisure, practising music and the arts.
 
-Finally, we have realised the “good luck” or the “bad luck” of being born on Urantia rather than on a normal planet by reading [Paper 50 section 7](/en/The_Urantia_Book/50#p7_1), ‘The Rewards of Isolation, which defines the Agondonters: “evolutionary will creatures who can believe without seeing, persevere when isolated, and triumph over insuperable difficulties even when alone.”
+Finally, we have realised the “good luck” or the “bad luck” of being born on Urantia rather than on a normal planet by reading <a id="a97_127"></a>[Paper 50 section 7](/en/The_Urantia_Book/50#p7_1), ‘The Rewards of Isolation, which defines the Agondonters: “evolutionary will creatures who can believe without seeing, persevere when isolated, and triumph over insuperable difficulties even when alone.”
 
 To end this report, we have to thank all the spiritual aids present during this weekend, all the absent readers who were present in thought with us, all the present readers who made for an interesting study of the book, fraternal fellowship during the breaks, meals and evenings, a good community of spirit and the constructive mood of our association’s general meeting.
 

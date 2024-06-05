@@ -51,7 +51,7 @@ The concept of ‘Mind’ in itself, in the abstract, unlimited sense of the wor
 
 Viewed in these terms, what a finely-tuned creature a human being seems; what a mysterious fragility everyday existence has; and what grave responsibilities are implied for all the choices we make!
 
-Whether undifferentiated, in the sense of infinite or absolute mind, or finite, acting through the ministry of the adjutant mind spirits, all Mind can be _‘superimposed upon energy.’_ ([UB 9:4.2](/en/The_Urantia_Book/9#p4_2)) in other words, mind can directionize energies through its own choices. Mind adds meaning to energy.
+Whether undifferentiated, in the sense of infinite or absolute mind, or finite, acting through the ministry of the adjutant mind spirits, all Mind can be _‘superimposed upon energy.’_ (<a id="a53_185"></a>[UB 9:4.2](/en/The_Urantia_Book/9#p4_2)) in other words, mind can directionize energies through its own choices. Mind adds meaning to energy.
 
 Another thing we can say about all mind is that it originates from the Third Source and Centre, the Third Person of Deity. But that does not mean that mind is inherently divine. If it were, it would presumably be free of error and misjudgement. Nor would it be distorted by fear and prejudice.
 
@@ -65,7 +65,7 @@ We must remember that Adjusters have minds of their own (<a id="a63_57"></a>[UB 
 
 They have indwelt us through an act of volition, but their own free will is sacrificed to ours. The prepersonal is at the disposal of the personal. And this is why it is so dangerous to automatically attribute our moral choices and decisions to adjuster guidance. The adjuster’s leading may be felt in the long term, and maybe seen with hindsight, but, the book tells us (p.1207), it is wiser and safer to attribute our thoughts, choices and decisions to purely mental activity.
 
-So we come to the crux of the problem. What I’ve been saying is just an attempt to prepare for reading _The Mind Arena of Choice_. \*(See Appendix at the end of this article to read the entire section of <a id="a67_203"></a>[UB 111:1.1](/en/The_Urantia_Book/111#p1_1))  
+So we come to the crux of the problem. What I’ve been saying is just an attempt to prepare for reading _The Mind Arena of Choice_. \*(See Appendix at the end of this article to read the entire section of <a id="a67_204"></a>[UB 111:1.1](/en/The_Urantia_Book/111#p1_1))  
 _
 
 Let’s try to comment on each paragraph.

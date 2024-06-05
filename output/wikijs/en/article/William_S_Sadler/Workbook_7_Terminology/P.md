@@ -86,7 +86,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Personality is never spontaneous; it is the gift of the Paradise Father. Personality is superimposed upon energy, and it is associated only with living energy system identity can be associated with nonliving energy patterns. <a id="s86_227"></a>[UB 0:5.4](/en/The_Urantia_Book/0#p5_4)
 
-> The Universal Father is the secret of the reality of personality the bestowal of personality, and the destiny of personality. The Eternal Son is the absolute personality, the secret of spiritual energy morontia spirits, and perfected spirits. The Conjoint Actor is the spirit-mind personality, the source of intelligence, reason, and the universal mind. [UB 0:5.5](/en/The_Urantia_Book/0#p5_5)
+> The Universal Father is the secret of the reality of personality the bestowal of personality, and the destiny of personality. The Eternal Son is the absolute personality, the secret of spiritual energy morontia spirits, and perfected spirits. The Conjoint Actor is the spirit-mind personality, the source of intelligence, reason, and the universal mind. <a id="s88_356"></a>[UB 0:5.5](/en/The_Urantia_Book/0#p5_5)
 
 > The personality of mortal man is neither body, mind, nor spirit; neither is it the soul. Personality is the one changeless reality in an otherwise ever-changing creature experiences and it unifies all other associated factors of individuality. The personality is the unique bestowal which the Universal Father makes upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontial soul. <a id="s90_447"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11)
 
@@ -106,7 +106,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Human personality is the time-space image-shadow cast by the divine Creator personality. And no actuality can ever be adequately comprehended by an examination of its shadow. Shadows should be interpreted in terms of the true substance. <a id="s106_239"></a>[UB 1:6.1](/en/The_Urantia_Book/1#p6_1)
 
-> _Personality_ is designed and bestowed by the Universal Father. <a id="s108_64"></a>[UB 21:2.6](/en/The_Urantia_Book/21#p2_6)
+> _Personality_ is designed and bestowed by the Universal Father. <a id="s108_66"></a>[UB 21:2.6](/en/The_Urantia_Book/21#p2_6)
 
 > Personality is that cosmic endowment, that chase of universal reality, which can coexist with unlimited change and at the same time retain its identity in the very presence of all such changes, and forever afterward. <a id="s110_219"></a>[UB 130:4.6](/en/The_Urantia_Book/130#p4_6)
 
@@ -162,7 +162,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Do not be so slothful as to ask God to solve your difficulties, but never hesitate to ask him for wisdom and spiritual strength to guide and sustain you while you yourself resolutely and courageously attack the problems at hand. <a id="s162_231"></a>[UB 91:6.5](/en/The_Urantia_Book/91#p6_5)
 
-> Prayer is not an evolution of magic; they each arose independently. . . . True prayer is both moral and religious; magic is neither. <a id="s164_129"></a>[UB 91:8.2](/en/The_Urantia_Book/91#p8_2)
+> Prayer is not an evolution of magic; they each arose independently. . . . True prayer is both moral and religious; magic is neither. <a id="s164_135"></a>[UB 91:8.2](/en/The_Urantia_Book/91#p8_2)
 
 > Genuine prayer adds to spiritual growth, modifies attitudes, and yields that satisfaction which comes from communion with divinity. It is a spontaneous outburst of God-consciousness.
 > 
@@ -186,7 +186,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father.
 > 
-> Prayer is the sincere and longing look of the child to its spirit Father; it is a psychologic process of exchanging the human will for the divine will. Prayer is a part of the divine plan for making over that which is into that which ought to be. <a id="s184_642"></a>[UB 144:4.7-9](/en/The_Urantia_Book/144#p4_7)
+> Prayer is the sincere and longing look of the child to its spirit Father; it is a psychologic process of exchanging the human will for the divine will. Prayer is a part of the divine plan for making over that which is into that which ought to be. <a id="s188_249"></a>[UB 144:4.7-9](/en/The_Urantia_Book/144#p4_7)
 
 ## Prayer, Answer to
 
@@ -199,17 +199,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 7. No prayer can hope for an answer unless it is born of the spirit and nurtured by faith. Your sincere faith implies that you have in advance virtually granted your prayer hearers the full right to answer your petitions in accordance with that supreme wisdom and that divine love which your faith depicts as always actuating those beings to whom you pray.
 > 8. The child is always within his rights when he presumes to petition the parent; and the parent is always within his parental obligations to the immature child when his superior wisdom dictates that the answer to the child’s prayer be delayed, modified, segregated, transcended, or postponed to another stage of spiritual ascension.
 > 9. Do not hesitate to pray the prayers of spirit longing; doubt not that you shall receive the answer to your petitions. These answers will be on deposit, awaiting your achievement of those future spiritual levels of actual cosmic attainment, on this world or on others, whereon it will become possible, for you to recognize and appropriate the long-waiting answers to your earlier but illtimed petitions.
-> 10. All genuine spirit-born petitions are certain of an answer. Ask and you shall receive. But you should remember that you are progressive creatures of time and space; therefore must you constantly reckon with the time-space factor in the experience of your personal reception of the full answers to your manifold prayers and petitions. <a id="s197_340"></a>[UB 168:4.4-13](/en/The_Urantia_Book/168#p4_4)
+> 10. All genuine spirit-born petitions are certain of an answer. Ask and you shall receive. But you should remember that you are progressive creatures of time and space; therefore must you constantly reckon with the time-space factor in the experience of your personal reception of the full answers to your manifold prayers and petitions. <a id="s201_340"></a>[UB 168:4.4-13](/en/The_Urantia_Book/168#p4_4)
 
 ## Prejudice
 
-> Prejudice blinds the soul to the recognition of truth and prejudice can be removed only by the sincere devotion of the soul to the adoration of a cause that is all-embracing and all-inclusive of one’s fellow men. Prejudice is inseparably linked to selfishness. Prejudice can be eliminated only by the abandonment of self-seeking and by substituting therefor the quest of the satisfaction of the service of a cause that is not only greater than self, but one that is even greater than all humanity—the search for God, the attainment of divinity. The evidence of maturity of personality consists in the Transformation of human desire so that it constantly seeks for the realization of those values which are highest and most divinely real. <a id="s201_740"></a>[UB 160:1.13](/en/The_Urantia_Book/160#p1_13)
+> Prejudice blinds the soul to the recognition of truth and prejudice can be removed only by the sincere devotion of the soul to the adoration of a cause that is all-embracing and all-inclusive of one’s fellow men. Prejudice is inseparably linked to selfishness. Prejudice can be eliminated only by the abandonment of self-seeking and by substituting therefor the quest of the satisfaction of the service of a cause that is not only greater than self, but one that is even greater than all humanity—the search for God, the attainment of divinity. The evidence of maturity of personality consists in the Transformation of human desire so that it constantly seeks for the realization of those values which are highest and most divinely real. <a id="s205_740"></a>[UB 160:1.13](/en/The_Urantia_Book/160#p1_13)
 
 ## Pride
 
-> Of all the dangers which beset man’s mortal nature and Jeopardize his spiritual integrity, pride. is the greatest. <a id="s205_117"></a>[UB 111:6.9](/en/The_Urantia_Book/111#p6_9)
+> Of all the dangers which beset man’s mortal nature and Jeopardize his spiritual integrity, pride. is the greatest. <a id="s209_117"></a>[UB 111:6.9](/en/The_Urantia_Book/111#p6_9)
 
-> Pride is deceitful, intoxicating, and sin-breeding whether found in an individual, a group, a race, or a nation. It is literally true, “Pride goes before a fall.” <a id="s207_165"></a>[UB 111:6.10](/en/The_Urantia_Book/111#p6_10)
+> Pride is deceitful, intoxicating, and sin-breeding whether found in an individual, a group, a race, or a nation. It is literally true, “Pride goes before a fall.” <a id="s211_165"></a>[UB 111:6.10](/en/The_Urantia_Book/111#p6_10)
 
 
 <br>

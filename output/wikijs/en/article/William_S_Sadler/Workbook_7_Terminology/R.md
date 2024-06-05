@@ -95,7 +95,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > Religion,as a human experience, ranges from the primitive fear slavery of the evolving savage up to the sublime and magnificent faith liberty of those civilized mortals who are superbly conscious of sonship with the eternal God. <a id="s95_231"></a>[UB 101:0.1](/en/The_Urantia_Book/101#p0_1)
 
-> Religion, the conviction-faith of the personality, can always triumph over the superficially contradictory logic of despair born in the unbelieving material mind. There really is a true and genuine inner voice, that “true light which lights every man who comes into the world.” . . . Religion is faith, trust, and assurance. <a id="s97_321"></a>[UB 101:0.3](/en/The_Urantia_Book/101#p0_3)
+> Religion, the conviction-faith of the personality, can always triumph over the superficially contradictory logic of despair born in the unbelieving material mind. There really is a true and genuine inner voice, that “true light which lights every man who comes into the world.” . . . Religion is faith, trust, and assurance. <a id="s97_327"></a>[UB 101:0.3](/en/The_Urantia_Book/101#p0_3)
 
 > Religion is the mighty lever that lifts civilization from chaos, but it is powerless apart from the fulcrum of sound and normal mind resting securely on sound and normal heredity. <a id="s99_182"></a>[UB 70:8.18](/en/The_Urantia_Book/70#p8_18)
 
@@ -183,13 +183,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
 >
 > . . .
 > 
-> The weak and inferior have always contended for equal rights; they have always insisted that the state compel the strong and superior to supply their wants and otherwise make good those deficiencies which all too often are the natural result of their own indifference and indolence.Society cannot offer equal rights to all, but it can promise to administer the varying rights of each with fairness and equity. <a id="s183_412"></a>[UB 70:9.13-16](/en/The_Urantia_Book/70#p9_13)
+> The weak and inferior have always contended for equal rights; they have always insisted that the state compel the strong and superior to supply their wants and otherwise make good those deficiencies which all too often are the natural result of their own indifference and indolence.Society cannot offer equal rights to all, but it can promise to administer the varying rights of each with fairness and equity. <a id="s185_412"></a>[UB 70:9.13-16](/en/The_Urantia_Book/70#p9_13)
 
 ## Ritual
 
 > The essence of the ritual is the perfection of its performance; among savages it must be practiced with exact precision.
 
-> Ritual is the technique of sanctifying custom; ritual creates and perpetuates myths as well as contributing to the preservation of social and religious customs. Again, ritual itself has been fathered by myths. Rituals are often at first social, later becoming economic and finally acquiring the sanctity and dignity of religious ceremonial. Ritual may be personal or group in practice—or both—as illustrated by prayer, dancing, and drama. <a id="s189_441"></a>[UB 90:5.1-2](/en/The_Urantia_Book/90#p5_1)
+> Ritual is the technique of sanctifying custom; ritual creates and perpetuates myths as well as contributing to the preservation of social and religious customs. Again, ritual itself has been fathered by myths. Rituals are often at first social, later becoming economic and finally acquiring the sanctity and dignity of religious ceremonial. Ritual may be personal or group in practice—or both—as illustrated by prayer, dancing, and drama. <a id="s191_441"></a>[UB 90:5.1-2](/en/The_Urantia_Book/90#p5_1)
 
 
 <br>

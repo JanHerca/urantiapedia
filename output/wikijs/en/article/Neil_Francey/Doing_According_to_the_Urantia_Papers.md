@@ -103,7 +103,7 @@ We need to proceed on all fronts to encounter/create situations that will provid
 
 > _…the teachers of this new religion are now equipped with spiritual weapons. They are **to go out to conquer the****world with unfailing forgiveness, matchless good will,****and abounding love.**._ <a id="a103_200"></a>[[UB 194:3.11](/en/The_Urantia_Book/194#p3_11) emphasis mine]
 
-> _The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and_ **loving** **service in unselfish ministry to one’s fellow creatures**. <a id="a105_233"></a>[[UB 91:7.1](/en/The_Urantia_Book/91#p7_1) emphasis mine]
+> _The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and_ **loving** **service in unselfish ministry to one’s fellow creatures**. <a id="a105_231"></a>[[UB 91:7.1](/en/The_Urantia_Book/91#p7_1) emphasis mine]
 
 > _The motivation of faith makes experiential the full realization of man’s sonship with God, **but action**, **completion of decisions**, is essential to the evolutionary attainment of consciousness of progressive kinship with the cosmic actuality of the Supreme Being._ <a id="a107_272"></a>[[UB 110:6.17](/en/The_Urantia_Book/110#p6_17) emphasis mine]
 

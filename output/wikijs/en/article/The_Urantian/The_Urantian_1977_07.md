@@ -93,7 +93,7 @@ This learning is not intellectual or emotional response to information read or h
 
 — _Ann Cole_
 
-> “_And Then Last, But Greatest Of All, We Attain The Level Of Spirit Insight and spiritual interpretation which impels us to recognize in this rule of life the divine command to treat all men as we conceive God would treat them. That is the universe ideal of human relationships.” Jesus to the Apostles._” ([UB 147:4.9](/en/The_Urantia_Book/147#p4_9))
+> “_And Then Last, But Greatest Of All, We Attain The Level Of Spirit Insight and spiritual interpretation which impels us to recognize in this rule of life the divine command to treat all men as we conceive God would treat them. That is the universe ideal of human relationships.” Jesus to the Apostles._” (<a id="a95_308"></a>[UB 147:4.9](/en/The_Urantia_Book/147#p4_9))
 
 
 <figure class="table chapter-navigator">

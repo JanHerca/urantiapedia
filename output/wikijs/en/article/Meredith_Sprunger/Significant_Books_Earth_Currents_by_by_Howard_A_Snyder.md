@@ -51,7 +51,7 @@ The center and meaning of this story is Jesus Christ. Christian theologies have 
 
 
 
-> But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. (<a id="a55_523"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+> But paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master's life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. (<a id="a53_523"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
 <figure class="table chapter-navigator">
   <table>

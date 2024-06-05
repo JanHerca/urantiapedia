@@ -92,7 +92,7 @@ To help make sense of these numbers, here’s that “**200,000 light years**”
 <img src="/image/article/IUA_Journal/Massive-Orvonton2-706x289.jpg">
 </figure>
 
-If we put all this together with their statement, “Nebadon is now well out towards the edge of Orvonton” <a id="a90_105"></a>[[UB 32:2.11](/en/The_Urantia_Book/32#p2_11)], then we get something like this:
+If we put all this together with their statement, “Nebadon is now well out towards the edge of Orvonton” <a id="a94_105"></a>[[UB 32:2.11](/en/The_Urantia_Book/32#p2_11)], then we get something like this:
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/Massive-Orvonton3-706x291.jpg">
@@ -100,7 +100,7 @@ If we put all this together with their statement, “Nebadon is now well out tow
 
 But in Paper 15, section 3, they also explain that the local universes of Orvonton are clustered (packed together more closely) on the far side of Orvonton:
 
-> _The local universes are in closer proximity as they approach Havona; the circuits are greater in number, and there is increased superimposition, layer upon layer. But farther out from the eternal center there are fewer and fewer systems, layers, circuits, and universes._ <a id="a98_275"></a>[[UB 15:3.16](/en/The_Urantia_Book/15#p3_16)]
+> _The local universes are in closer proximity as they approach Havona; the circuits are greater in number, and there is increased superimposition, layer upon layer. But farther out from the eternal center there are fewer and fewer systems, layers, circuits, and universes._ <a id="a102_275"></a>[[UB 15:3.16](/en/The_Urantia_Book/15#p3_16)]
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/Massive-Orvonton4-706x291.jpg">
@@ -116,17 +116,17 @@ Nevertheless, as a student of astronomy, I almost feel like apologizing for prop
 
 In _The Urantia Book_ story, before you can have hydrogen, and thus suns, you need a reservoir of ultimatons. It’s these ultimatons that “power directors” can arrange into the type of matter that interacts with light. So before we can have this “type of matter that interacts with light,” we need those ultimatons. For students of _The Urantia Book_, this seems like a reasonable starting point.
 
-In the four parts of the upcoming video (1. Foundations, 2. Mass & Matter, 3. Dark Islands, 4. Milky Way) I try to map out what _The Urantia Book_ reveals about the ancestry and interactions of **ultimata** or “emergent energies” <a id="a114_230"></a>[[UB 42:2.10](/en/The_Urantia_Book/42#p2_10)], and how these ultimatonic underpinnings might determine the gravitational dynamics acting within and upon Orvonton, and what our astronomers might expect to measure. The crucial bits being (1) ultimatons have **mass**; (2) being pre-electronic, ultimatons do **not** interact with electromagnetic light; and (3) being intimately connected with the cause of weak hypercharge (“zilch”), clusters of ultimatons **interact** aggressively with this now famous Higgs-type field (“primordial force-charge”). Anyone keeping up with either particle physics or astronomy will be struck by how neatly **ultimata** solves the two outstanding issues of our standard models:  (1) invisible mass, and (2) the energy of quantized fields.
+In the four parts of the upcoming video (1. Foundations, 2. Mass & Matter, 3. Dark Islands, 4. Milky Way) I try to map out what _The Urantia Book_ reveals about the ancestry and interactions of **ultimata** or “emergent energies” <a id="a118_230"></a>[[UB 42:2.10](/en/The_Urantia_Book/42#p2_10)], and how these ultimatonic underpinnings might determine the gravitational dynamics acting within and upon Orvonton, and what our astronomers might expect to measure. The crucial bits being (1) ultimatons have **mass**; (2) being pre-electronic, ultimatons do **not** interact with electromagnetic light; and (3) being intimately connected with the cause of weak hypercharge (“zilch”), clusters of ultimatons **interact** aggressively with this now famous Higgs-type field (“primordial force-charge”). Anyone keeping up with either particle physics or astronomy will be struck by how neatly **ultimata** solves the two outstanding issues of our standard models:  (1) invisible mass, and (2) the energy of quantized fields.
 
-With regard to the origin of ultimatons, “pause to consider” the way an **Associate** Master Force Organizer injects angular momentum into the foundations of finite physics: in some region of space potency, the (eventuated) presence of a **Primary** (Paradise) Force Organizer segregates an island of “pure energy” (see segregata, <a id="a116_331"></a>[UB 42:2.9](/en/The_Urantia_Book/42#p2_9).) When an associate force organizer shows up, his transcendental presence imposes some kind of chiral torque on this island, which starts to rotate.
+With regard to the origin of ultimatons, “pause to consider” the way an **Associate** Master Force Organizer injects angular momentum into the foundations of finite physics: in some region of space potency, the (eventuated) presence of a **Primary** (Paradise) Force Organizer segregates an island of “pure energy” (see segregata, <a id="a120_331"></a>[UB 42:2.9](/en/The_Urantia_Book/42#p2_9).) When an associate force organizer shows up, his transcendental presence imposes some kind of chiral torque on this island, which starts to rotate.
 
-Picture the situation: we have an island of segregata within which a halo of “emergent energies” (see ultimata, <a id="a118_112"></a>[UB 42:2.13](/en/The_Urantia_Book/42#p2_13)) condenses. This massive halo of ultimata is locked onto, and rotating about, an irresistible center of rotation. In this picture, there’s not yet any source of friction, so we have an increasing quantity of angular momentum being generated within a superfluid medium. As our own physics has discovered, angular momentum in a superfluid naturally disperses, but it cannot disappear. So the angular momentum injected by that associate force organizer into his halo of ultimata dissipates into smaller and smaller vortices, until some minimum “quantum of vorticity” (spin), is achieved.
+Picture the situation: we have an island of segregata within which a halo of “emergent energies” (see ultimata, <a id="a122_112"></a>[UB 42:2.13](/en/The_Urantia_Book/42#p2_13)) condenses. This massive halo of ultimata is locked onto, and rotating about, an irresistible center of rotation. In this picture, there’s not yet any source of friction, so we have an increasing quantity of angular momentum being generated within a superfluid medium. As our own physics has discovered, angular momentum in a superfluid naturally disperses, but it cannot disappear. So the angular momentum injected by that associate force organizer into his halo of ultimata dissipates into smaller and smaller vortices, until some minimum “quantum of vorticity” (spin), is achieved.
 
 As a thought experiment, let’s use that minimal vortex to help define an ultimaton. Recall that a “mature ultimaton”  has a well-defined response to absolute (Paradise) gravity. However,
 
-> _Ultimatons are capable of accelerating revolutionary velocity to the point of partial antigravity behavior_ <a id="a122_111"></a>[[UB 42:6.3](/en/The_Urantia_Book/42#p6_3)]
+> _Ultimatons are capable of accelerating revolutionary velocity to the point of partial antigravity behavior_ <a id="a126_111"></a>[[UB 42:6.3](/en/The_Urantia_Book/42#p6_3)]
 
-If we define the “**mass**” of an ultimaton as its response to Paradise gravity, then paper <a id="a124_92"></a>[UB 42:6.3](/en/The_Urantia_Book/42#p6_3) implies that ultimatons achieve a maximum of such “mass” when they have that minimum quantum of spin. As an ultimaton’s “velocity of axial revolution” <a id="a124_285"></a>[[UB 42:6.6](/en/The_Urantia_Book/42#p6_6)] _increases_, its response to Paradise _decreases_.
+If we define the “**mass**” of an ultimaton as its response to Paradise gravity, then paper <a id="a128_92"></a>[UB 42:6.3](/en/The_Urantia_Book/42#p6_3) implies that ultimatons achieve a maximum of such “mass” when they have that minimum quantum of spin. As an ultimaton’s “velocity of axial revolution” <a id="a128_285"></a>[[UB 42:6.6](/en/The_Urantia_Book/42#p6_6)] _increases_, its response to Paradise _decreases_.
 
 What I’d like to propose is that this coupling of (**minimum spin**) + (**maximum mass**) defines what we might call “the ground state of the mature ultimaton.” And that each galactic collection of superuniverse major sectors floats in a rotating pool of such ground state ultimatons.
 
@@ -158,7 +158,7 @@ When considering the use of these terms in _The Urantia Book_, another thing to 
 
 Non-astronomers may not realize that almost all the stars visible to optical telescopes along the dense diameter of this milky splash (“via lactea”) are “far, far” less than 20,000 light years away. So if we are to take seriously their revelation that Uversa lies **200,000** light years away in the direction of the center of this dense diameter, then Uversa lies “far, far” beyond this foreground wall of gas, dust clouds and stars.
 
-Even with “improved telescopic technique” <a id="a148_42"></a>[[UB 41:3.10](/en/The_Urantia_Book/41#p3_10)], below is what the Spitzer Space Telescope revealed, using light in the near infrared (1-5 microns):
+Even with “improved telescopic technique” <a id="a160_42"></a>[[UB 41:3.10](/en/The_Urantia_Book/41#p3_10)], below is what the Spitzer Space Telescope revealed, using light in the near infrared (1-5 microns):
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/Massive-Orvonton6-706x152.jpg">
@@ -172,7 +172,7 @@ As we can see, there really **is** a wall blocking our view towards Uversa!
 
 Of course this does not change the hard fact that:
 
-> _… when the angle of observation is propitious, gazing through the main body of this realm of maximum density, you are looking toward the residential universe and the center of all things._ <a id="a162_192"></a>[[UB 15:3.3](/en/The_Urantia_Book/15#p3_3)]
+> _… when the angle of observation is propitious, gazing through the main body of this realm of maximum density, you are looking toward the residential universe and the center of all things._ <a id="a174_192"></a>[[UB 15:3.3](/en/The_Urantia_Book/15#p3_3)]
 
 Given all the above, while it is quite correct for the revelators to say that Uversa is located “far, far away in the dense diameter of the Milky Way”, it may be even more correct to say that “when the angle of observation is propitious”, Uversa lies **174,000** light years directly behind Umajor the Fifth, the center of rotation we call Sagittarius A\* (**SgrA\***), the physical center of our major sector, Splandon.
 

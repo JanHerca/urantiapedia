@@ -44,7 +44,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Havona
 
-> _Havona,_ the central universe, is not a time creation; it is an eternal existence. This never-beginning, never-ending universe consists of one billion spheres of sublime perfection and is surrounded by the enormous dark gravity bodies. At the center of Havona is the stationary and absolutely stabilized Isle of Paradise, surrounded by its twenty-one satellites. Owing to the enormous encircling masses of the dark, gravity bodies about the fringe of the central universe, the mass content of this central creation is far in excess of the total known mass of all seven sectors of the grand universe. <a id="s46_601"></a>[UB 12:1.10](/en/The_Urantia_Book/12#p1_10)
+> _Havona,_ the central universe, is not a time creation; it is an eternal existence. This never-beginning, never-ending universe consists of one billion spheres of sublime perfection and is surrounded by the enormous dark gravity bodies. At the center of Havona is the stationary and absolutely stabilized Isle of Paradise, surrounded by its twenty-one satellites. Owing to the enormous encircling masses of the dark, gravity bodies about the fringe of the central universe, the mass content of this central creation is far in excess of the total known mass of all seven sectors of the grand universe. <a id="s46_603"></a>[UB 12:1.10](/en/The_Urantia_Book/12#p1_10)
 
 ## Heaven
 

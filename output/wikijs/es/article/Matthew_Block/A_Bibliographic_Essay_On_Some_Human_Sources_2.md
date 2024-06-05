@@ -34,7 +34,7 @@ _Nota del editor: Puede comunicarse con Matthew en:_ [mblock@flash.net](mailto:m
 
 - Aston, WG, «Sintoísmo; El camino de los dioses» (_«Shinto; The Way of the Gods»_) (Nueva York: Longmans, Green and Co., 1905).
 
-    - <a id="a36_6"></a>[Documento 131, «Las religiones del mundo», sección 7](/es/The_Urantia_Book/161#p7_1). Las frases de la traducción de Aston de la colección «Wa Rongo» de Oráculos sintoístas, ligeramente reescritas o parafraseadas, constituyen la selección completa del resumen del sintoísmo de Ganid.
+    - <a id="a36_6"></a>[Documento 131, «Las religiones del mundo», sección 7](/es/The_Urantia_Book/131#p7_1). Las frases de la traducción de Aston de la colección «Wa Rongo» de Oráculos sintoístas, ligeramente reescritas o parafraseadas, constituyen la selección completa del resumen del sintoísmo de Ganid.
 
 - Obispo, William Samuel, «La teología de la personalidad» (_«The Theology of Personality»_) (Nueva York: Longmans, Green and Co., 1926).
 

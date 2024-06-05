@@ -61,7 +61,7 @@ Jesus once defined the soul as the part of us which is “_self-reflective, trut
 
 To love God with all our mind, we sharpen our powers of intuition into material, intellectual, and spiritual reality. The more we know the Creator and the creation, the more we mobilize the mind in our supreme desire to do the Father’s will.  
 
-To love God with all our strength involves will power and determination, so that our good decisions have the “_force and constancy_” [[UB 118:8.11](/en/The_Urantia_Book/118#p8_11)] that they need to shape our character. And there is moral strength, the power of righteousness, the gift of God. And we also mobilize physical strength for “_the task immediately in hand_.”
+To love God with all our strength involves will power and determination, so that our good decisions have the “_force and constancy_” <a id="a63_133"></a>[[UB 118:8.11](/en/The_Urantia_Book/118#p8_11)] that they need to shape our character. And there is moral strength, the power of righteousness, the gift of God. And we also mobilize physical strength for “_the task immediately in hand_.”
 
 In the first circuit of love, another realization grows on us: our Father loves everyone. And the love that we receive from him is what we are to give to others. This realization leads us into the second circuit of love, “_the great circuit of love … from the Father, through sons to brothers, and hence to the Supreme_” <a id="a65_321"></a>[[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]. 
 

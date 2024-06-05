@@ -73,11 +73,11 @@ Unfortunately, all too often people tend to deal with the perplexities of life w
 
 Although the peace of the Lord has not yet become the natural state of our social lives, as each planetary age unfolds under the ministry of the planetary bestowal Sons, we move step-by-step away from the primitive ages of humanity—characterized by fear and ignorance, and their consequences—towards that time when we can all enjoy spiritual peace on earth.
 
-> _Peace is not the natural state of the material realms. The world first realizes ‘peace on earth and good will among men’ through the ministry of the seraphic souls of peace._ [[UB 39:5.5](/en/The_Urantia_Book/39#p5_5)]
+> _Peace is not the natural state of the material realms. The world first realizes ‘peace on earth and good will among men’ through the ministry of the seraphic souls of peace._ <a id="a75_178"></a>[[UB 39:5.5](/en/The_Urantia_Book/39#p5_5)]
 
 This implies that the “Souls of Peace” follow several ages of stabilization as the evolution of mankind moves into alignment with the Divine Plan.
 
-> _War is the natural state and heritage of evolving man; peace is the social yardstick measuring civilization’s advancement._ [[UB 70:1.1](/en/The_Urantia_Book/70#p1_1)]
+> _War is the natural state and heritage of evolving man; peace is the social yardstick measuring civilization’s advancement._ <a id="a79_127"></a>[[UB 70:1.1](/en/The_Urantia_Book/70#p1_1)]
 
 Planetary ages are coordinated in space, integrated in time, and unified by the Spirit in eternity. They manifest themselves by successive individual and collective contributions to the gradual manifestation of eternity in time, to the eternal now.
 

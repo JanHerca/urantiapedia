@@ -159,15 +159,15 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > The center and focal point of absolute material gravity is the Isle of Paradise, complemented by the dark gravity bodies encircling Havona and equilibrated by the upper and nether space reservoirs. All known emanations of nether Paradise invariable and unerringly respond to the central gravity pull operating upon the endless circuits of the elliptical space levels of the master universe. Every known form of cosmic reality has the bend of the ages, the trend of the circle, the swing of the great ellipse. 
 > 
-> Space is nonresponsive to gravity, but it acts as a equilibrant on gravity. Without the space cushion, explosive action would jerk surrounding space bodies. Pervaded space also exerts an antigravity influence upon physical or linear gravity; space can actually neutralize such gravity action even though it cannot delay it. Absolute gravity is paradise gravity. Local or linear gravity pertains to the electrical stage of energy or matter; it operates within the central, super-, and outer universes, wherever suitable materialization has taken place. <a id="s159_1063"></a>[UB 11:8.2-3](/en/The_Urantia_Book/11#p8_1)
+> Space is nonresponsive to gravity, but it acts as a equilibrant on gravity. Without the space cushion, explosive action would jerk surrounding space bodies. Pervaded space also exerts an antigravity influence upon physical or linear gravity; space can actually neutralize such gravity action even though it cannot delay it. Absolute gravity is paradise gravity. Local or linear gravity pertains to the electrical stage of energy or matter; it operates within the central, super-, and outer universes, wherever suitable materialization has taken place. <a id="s161_554"></a>[UB 11:8.2-3](/en/The_Urantia_Book/11#p8_1)
 
 ## Growth, creative
 
-> Creative growth is unending but ever satisfying, endless in extent but always punctuated by those personality-satisfying moments of transient goal attainment which serve so effectively as the mobilization preludes to new adventures in cosmic growth, universe exploration, and Deity attainment. <a id="s163_296"></a>[UB 118:0.10](/en/The_Urantia_Book/118#p0_10)
+> Creative growth is unending but ever satisfying, endless in extent but always punctuated by those personality-satisfying moments of transient goal attainment which serve so effectively as the mobilization preludes to new adventures in cosmic growth, universe exploration, and Deity attainment. <a id="s165_296"></a>[UB 118:0.10](/en/The_Urantia_Book/118#p0_10)
 
 ## Guilt
 
-> The sense of guilt (not the consciousness of sin) comes either from interrupted spiritual communion or from the lowering of one’s moral ideals. Deliverance from such a predicament can only come through the realization that one’s highest moral ideals are not necessarily synonymous with the will of God. Man cannot hope to live up to his highest ideals, but he can be true to his purpose of finding God and becoming more and more like him. <a id="s167_441"></a>[UB 103:4.3](/en/The_Urantia_Book/103#p4_3)
+> The sense of guilt (not the consciousness of sin) comes either from interrupted spiritual communion or from the lowering of one’s moral ideals. Deliverance from such a predicament can only come through the realization that one’s highest moral ideals are not necessarily synonymous with the will of God. Man cannot hope to live up to his highest ideals, but he can be true to his purpose of finding God and becoming more and more like him. <a id="s169_441"></a>[UB 103:4.3](/en/The_Urantia_Book/103#p4_3)
 
 
 <br>
