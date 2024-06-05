@@ -159,7 +159,7 @@ A la hora de considerar el uso de estos términos en _El libro de Urantia_, otra
 
 Los que no son astrónomos quizá no se den cuenta de que casi todas las estrellas visibles por los telescopios ópticos que están a lo largo del diámetro denso de esta mancha lechosa («vía láctea») están «a mucho menos» de 20.000 años-luz de distancia. De modo que, si vamos a tomar en serio la revelación de que Uversa está a **200.000** años-luz en la dirección del centro de este diámetro denso, entonces Uversa está «muchísimo» más allá de este muro en primer plano de gas, nubes de polvo y estrellas.
 
-Incluso con la «técnica telescópica más perfeccionada» <a id="a153_55"></a>[[LU 41:3.10](/es/The_Urantia_Book/41#p3_10)], he aquí lo que reveló el telescopio espacial Spitzer, usando luz cercana al infrarrojo (1-5 micras):
+Incluso con la «técnica telescópica más perfeccionada» <a id="a161_55"></a>[[LU 41:3.10](/es/The_Urantia_Book/41#p3_10)], he aquí lo que reveló el telescopio espacial Spitzer, usando luz cercana al infrarrojo (1-5 micras):
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/Massive-Orvonton6-706x152.jpg">
@@ -173,7 +173,7 @@ Como podemos ver, ¡**hay** realmente un muro que bloquea nuestra vista en direc
 
 Por supuesto, esto no cambia la realidad del hecho de que…
 
-> _… Cuando el ángulo de observación es propicio y se mira a través del cuerpo principal de esta región que posee la máxima densidad, estáis mirando hacia el universo residencial y el centro de todas las cosas._ <a id="a167_212"></a>[[LU 15:3.3](/es/The_Urantia_Book/15#p3_3)]
+> _… Cuando el ángulo de observación es propicio y se mira a través del cuerpo principal de esta región que posee la máxima densidad, estáis mirando hacia el universo residencial y el centro de todas las cosas._ <a id="a175_212"></a>[[LU 15:3.3](/es/The_Urantia_Book/15#p3_3)]
 
 Dado todo lo visto anteriormente, si bien es bastante correcto que los reveladores digan que Uversa está ubicada «lejos, muy lejos en el denso diámetro de la Vía Láctea», podría ser aun más correcto decir que «cuando el ángulo de observación es propicio», Uversa está a **174.000** años-luz directamente detrás de Umayor la quinta, el centro de rotación que llamamos Sagitario A\* (**SgrA\***), el centro físico de nuestro sector mayor, Splandon.
 

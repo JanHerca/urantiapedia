@@ -121,7 +121,7 @@ _Inteligente:_ a la luz de los hechos científicos, la sabiduría filosófica, l
 
 _Persistente:_ Jesús dijo:
 
-> _La oración es el aliento del alma y debería induciros a perseverar en vuestro intento por descubrir la voluntad del Padre._ <a id="a123_128"></a>[[LU 144:2.3](/es/The_Urantia_Book/144#p2_3)]
+> _La oración es el aliento del alma y debería induciros a perseverar en vuestro intento por descubrir la voluntad del Padre._ <a id="a123_127"></a>[[LU 144:2.3](/es/The_Urantia_Book/144#p2_3)]
 
 _Oremos cuando estemos afligidos_, pero también hablemos con nuestro Padre cuando nuestra alma está serena.
 
@@ -188,7 +188,7 @@ Usamos eficazmente los procesos del pensamiento al buscar la verdad, estudiarla,
 
 _Apartarse del bullicio de la vida_—escapar de los agobios de la existencia material— mientras \[los creyentes\] refrescan su alma, inspiran la mente, y renuevan el espíritu mediante la comunión de adoración. Todo esto es realizado por Dios en nosotros, para ello es la receptividad espiritual silenciosa.
 
-> _Reposo, relajación (quietud física y mental) – El esfuerzo por vivir — la tensión de la personalidad en el tiempo — debería ser mitigado con el reposo de la adoración._ <a id="a190_173"></a>[[LU 143:7.3](/es/The_Urantia_Book/143#p7_3)]
+> _Reposo, relajación (quietud física y mental) – El esfuerzo por vivir — la tensión de la personalidad en el tiempo — debería ser mitigado con el reposo de la adoración._ <a id="a190_172"></a>[[LU 143:7.3](/es/The_Urantia_Book/143#p7_3)]
 > 
 > _… La relajación determina la capacidad para la receptividad espiritual._ <a id="a192_76"></a>[[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)]
 

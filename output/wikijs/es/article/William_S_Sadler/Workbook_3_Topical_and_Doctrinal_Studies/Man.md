@@ -128,7 +128,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. La era de luz y vida es inaugurada por los Hijos Instructores Trinitarios. <a id="s127_78"></a>[LU 55:0.1](/es/The_Urantia_Book/55#p0_1)
 2. El Príncipe Planetario se convierte en el Soberano Planetario. <a id="s128_66"></a>[LU 55:1.1](/es/The_Urantia_Book/55#p1_1)
 3. En la edad de luz y vida, el anhelo principal de los mortales es la verdad, la belleza y la bondad - la filosofía, la cosmología y la divinidad. <a id="s129_148"></a>[LU 56:10.2](/es/The_Urantia_Book/56#p10_2)
-4. Los mortales tienen una filosofía, un idioma y una religión. <a id="s130_64"></a>[LU 55:3.23](/es/The_Urantia_Book/55#p3_23)
+4. Los mortales tienen una filosofía, un idioma y una religión. <a id="s130_64"></a>[LU 55:3.22](/es/The_Urantia_Book/55#p3_22)
 5. Durante esos tiempos ocurren muchos traslados. <a id="s131_50"></a>[LU 55:1.5](/es/The_Urantia_Book/55#p1_5)
 6. Los traslados inminentes a menudo se conocen de antemano. <a id="s132_61"></a>[LU 55:2.3](/es/The_Urantia_Book/55#p2_3)
 

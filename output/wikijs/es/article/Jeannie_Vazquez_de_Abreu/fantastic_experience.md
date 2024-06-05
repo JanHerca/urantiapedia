@@ -51,7 +51,7 @@ Vivir nuestra vida de forma elevada, inspirada y espiritualizada es también un 
 
 Dijo Rodan de Alejandría:
 
-> _Jesús nos ha enseñado que Dios vive en el hombre; entonces, ¿cómo podemos inducir al hombre a que libere estos poderes de la divinidad y de la infinidad que están ligados en su alma? ¿Cómo induciremos a los hombres a que dejen paso a Dios y Éste pueda brotar para refrescar nuestras propias almas mientras transita hacia el exterior, y luego sirva al propósito de iluminar, elevar y bendecir a otras innumerables almas? ¿De qué manera puedo despertar mejor estos poderes latentes para el bien que yace dormido en vuestra alma?_ <a id="a53_532"></a>[[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)]
+> _Jesús nos ha enseñado que Dios vive en el hombre; entonces, ¿cómo podemos inducir al hombre a que libere estos poderes de la divinidad y de la infinidad que están ligados en su alma? ¿Cómo induciremos a los hombres a que dejen paso a Dios y Éste pueda brotar para refrescar nuestras propias almas mientras transita hacia el exterior, y luego sirva al propósito de iluminar, elevar y bendecir a otras innumerables almas? ¿De qué manera puedo despertar mejor estos poderes latentes para el bien que yace dormido en vuestra alma?_ <a id="a53_531"></a>[[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)]
 
 Jesús enseñó a sus seguidores:
 

@@ -122,7 +122,7 @@ La motivación para servir se manifiesta de diferentes maneras. Está el aspecto
 Entonces, si estamos tan motivados para derramar este amor a nuestro prójimo (para dar algo a cambio en el servicio amoroso desinteresado), ¿cómo nos organizamos para reunirnos y ser eficaces en esta sección de hacer del servicio el centro de nuestra vida?
 <br style="clear:both;"/>
 
-> _La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres._ <a id="a124_258"></a>[[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
+> _La religión no es una técnica para conseguir una paz mental estática y feliz; es un impulso destinado a organizar el alma para un servicio dinámico. Es el reclutamiento de la totalidad del yo para el servicio leal de amar a Dios y servir a los hombres._ <a id="a124_257"></a>[[LU 100:3.1](/es/The_Urantia_Book/100#p3_1)]
 
 Considero que esta idea de «organizar el alma para un servicio dinámico» tiene dos vertientes:
 

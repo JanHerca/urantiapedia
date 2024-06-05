@@ -111,7 +111,7 @@ Cuanto más llena esté nuestra mente y nuestra alma de las verdades del evangel
 
 El tercer elemento esencial de este método es establecer una conexión efectiva entre las verdades apropiadas del evangelio y otras dificultades espirituales, de acuerdo con la capacidad de recibirlas. He aquí la cita de Jesús:
 
-> _«Sed siempre sabios en la elección de vuestros métodos para presentar la buena nueva a las diferentes razas y tribus de la humanidad.»_ <a id="a113_140"></a>[[LU 191:4.4](/es/The_Urantia_Book/191#p4_4)]
+> _«Sed siempre sabios en la elección de vuestros métodos para presentar la buena nueva a las diferentes razas y tribus de la humanidad.»_ <a id="a113_139"></a>[[LU 191:4.4](/es/The_Urantia_Book/191#p4_4)]
 
 Todos los apóstoles enseñaron la misma verdad, pero cada uno de ellos lo hizo a su manera. Encuentren su manera, su lenguaje. Jesús les dijo que no citaran a los profetas de antaño ni enseñaran acerca de él o de sus enseñanzas, sino que fueran profetas vivos.
 

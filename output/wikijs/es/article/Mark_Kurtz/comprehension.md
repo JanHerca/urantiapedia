@@ -71,7 +71,7 @@ Darnos cuenta de que tenemos ayuda amorosa disponible debería eliminar gran par
 Todas las razones para entender las enseñanzas de la revelación Urantia son importantes. Permítanme destacar algunas: 
 
 - _… aumentar la conciencia cósmica…_ [0.2, 1.2]
-- _… la revelación de Dios al hombre… que quizás pueda contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y el carácter de la personalidad del Padre Universal_ <a id="a73_187"></a>[[LU 2:0.2](/es/The_Urantia_Book/2#p0_2)].
+- _… la revelación de Dios al hombre… que quizás pueda contribuir a iluminar y a unificar mejor el concepto humano de la naturaleza y el carácter de la personalidad del Padre Universal_ <a id="a73_186"></a>[[LU 2:0.2](/es/The_Urantia_Book/2#p0_2)].
 - _… comprensión de la personalidad del Hijo Eterno…_ <a id="a74_54"></a>[[LU 6:8.6](/es/The_Urantia_Book/6#p8_6)]
 - _… comprensión espiritual de la asociación Padre-Hijo…_  <a id="a75_59"></a>[[LU 26:5.2](/es/The_Urantia_Book/26#p5_2)]
 - _… comprensión del Ser Supremo…_  <a id="a76_36"></a>[[LU 26:6.4](/es/The_Urantia_Book/26#p6_4)] 
