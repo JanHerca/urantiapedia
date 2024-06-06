@@ -347,7 +347,7 @@ class GoogleTranslate {
 			const isTitle = line.startsWith('title:');
 			const isDesc = line.startsWith('description:');
 			const hasDesc = (isDesc && 
-				line.replace('description:', '').trim() != '');
+				line.replace('description:', '').replace(/"/g,'').trim() != '');
 			const isCopy = line.startsWith('<p class="v-card');
 			const isNavStart = line.startsWith('<figure class=' +
 				'"table chapter-navigator">');
@@ -388,7 +388,8 @@ class GoogleTranslate {
 				ignore = true;
 			}
 			if (insideHeader) {
-				line_type = 'header';
+				line_type = isTitle ? 'title' : hasDesc ? 
+					'description' : 'header';
 			}
 			//Check if line is copyright
 			if (isCopy) {
@@ -430,6 +431,16 @@ class GoogleTranslate {
 			}
 			//Check Urantiapedia links and external links
 			if (!ignore) {
+				//Title
+				if (isTitle) {
+					text = line.replace('title:', '')
+						.replace(/"/g, '').trim();
+				}
+				//Description
+				if (hasDesc) {
+					text = line.replace('description:', '')
+						.replace(/"/g, '').trim();
+				}
 				//Check Urantia Book quotes
 				if (quoteGroup) {
 					ignore = true;
@@ -481,14 +492,14 @@ class GoogleTranslate {
 			//Return
 			return {
 				index: i,
-				line: line,
-				line_type: line_type,
-				text: text,
+				line,
+				line_type,
+				text,
 				translation: null,
-				ignore: ignore,
-				remove: remove,
-				extracts: extracts,
-				quoteGroup: quoteGroup
+				ignore,
+				remove,
+				extracts,
+				quoteGroup
 			};
 		});
 	};
@@ -534,6 +545,14 @@ class GoogleTranslate {
 				let italic = false;
 				if (obj.ignore && obj.line_type != 'quote') {
 					return obj.line;
+				}
+				//Replace title
+				if (obj.line_type === 'title') {
+					tr = `title: "${tr}"`;
+				}
+				//Replace description
+				if (obj.line_type === 'description') {
+					tr = `description: "${tr}"`;
 				}
 				//Replace quotes
 				if (obj.line_type === 'quote' && q) {

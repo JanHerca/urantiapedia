@@ -216,7 +216,7 @@ And lastly, it will be through a progressive intellectual, morontial, and spirit
 
 [^8]: D. Elders et al. Discerning_Michael’s_Plan. (Accessed 3/7/14), [https://uai.org/documents/mplan/L2/Discerning_Michael’s_Plan.pdf](https://urantia-association.org/documents/mplan/L2/Discerning_Michael's_Plan.pdf)
 
-[^9]: D. Kantor, Exactly How Do Seraphim Work?, http://urantiabook.org/archive/readers/seraphim_work.htm (Accessed 3/7/14) 
+[^9]: D. Kantor, [Exactly How Do Seraphim Work?](/en/article/David_Kantor/Exactly_How_do_Seraphim_Work.), (Accessed 3/7/14) 
 
-[^10]: N. Waldrop, The Unceasing Campaign of the Master Seraphim, http://www.globalendeavor.net/Documents/20113-22MasterSeraphim.pdf (Accessed 3/7/14) 
+[^10]: N. Waldrop, [The Unceasing Campaign of the Master Seraphim](/en/article/Neal_Waldrop/Unceasing_campaign_of_master_seraphim), (Accessed 3/7/14) 
 

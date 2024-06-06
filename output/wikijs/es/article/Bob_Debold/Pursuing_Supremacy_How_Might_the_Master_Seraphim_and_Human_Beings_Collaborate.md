@@ -216,6 +216,6 @@ Y, por último, será a través de una comprensión intelectual, moroncial y esp
 
 [^8]: D. Elders et al. Discerniendo_el_Plan_de_Miguel. (Consultado el 7/3/14), [https://uai.org/documents/mplan/L2/Discerning_Michael’s_Plan.pdf](https://uai.org/documents/mplan/L2/Discerning_Michael’s_Plan.pdf)
 
-[^9]: D. Kantor, ¿Cómo funcionan exactamente los serafines?, http://urantiabook.org/archive/readers/seraphim_work.htm (consultado el 7/3/14)
+[^9]: D. Kantor, [¿Cómo funcionan exactamente los serafines?](/es/article/David_Kantor/Exactly_How_do_Seraphim_Work), (consultado el 7/3/14)
 
-[^10]: N. Waldrop, La campaña incesante de los serafines maestros, http://www.globalendeavor.net/Documents/20113-22MasterSeraphim.pdf (consultado el 7/3/14)
+[^10]: N. Waldrop, [La campaña incesante de los serafines maestros](/es/article/Neal_Waldrop/Unceasing_campaign_of_master_seraphim), (consultado el 7/3/14)

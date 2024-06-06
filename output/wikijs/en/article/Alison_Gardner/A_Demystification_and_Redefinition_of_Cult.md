@@ -127,7 +127,7 @@ No personal suffering or cataclysmic life event is required to come to fully emb
 
 After eons of spiritual growth within a grand universe of progressive attainment in time and space, evolutionary mortals arrive at the center of the Grand Universe having achieved their first endowment of God's perfection...the “_perfection of purpose._”
 
-> ‘Be you perfect, even as I am perfect.’ That is the astounding invitation-command broadcast to the finite children of the worlds of space. The promulgation of that injunction has set all creation astir in the co-operative effort of the celestial beings to assist in bringing about the fulfillment and realization of that tremendous command of the First Great Source and Center. <a id="a129_380"></a>[[UB 26:4.5](/en/The_Urantia_Book/26#p4_5)]
+> ‘Be you perfect, even as I am perfect.’ That is the astounding invitation-command broadcast to the finite children of the worlds of space. The promulgation of that injunction has set all creation astir in the co-operative effort of the celestial beings to assist in bringing about the fulfillment and realization of that tremendous command of the First Great Source and Center. <a id="a129_380"></a>[[UB 26:4.12](/en/The_Urantia_Book/26#p4_12)]
 
 This first goal of mortal attainment—the personal perfection of one's spiritual purpose—begins the day it is recognized consciously, the dawn of one's “superpersonality.” While this is wholly a matter of free will, the God-conscious man enters into a true partnership with God the Father and His manifold eternal-infinite spiritual reality—by far the greatest adventure to be had. This deity adventure comprises the totality of man's evolutionary quest for self-understanding, as expressed in culture and in religion.
 
