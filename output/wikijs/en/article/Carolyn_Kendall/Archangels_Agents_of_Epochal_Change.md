@@ -136,7 +136,7 @@ There are about one billion magisterial sons in the grand universe. <a id="a132_
 
 A Master Son, such as Michael of Nebadon has complete latitude as to how and when he and other Sons may adjust their visitations to the worlds. 
 
-> After his elevation to settled sovereignty in a local universe a Paradise Michael is in full control of all other Sons of God functioning in his domain, and he may freely rule in accordance with his concept of the needs of his realms. _A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inhabited planets. And such Sons do make and carry out the plans of their own choosing in all matters of special planetary needs, in particular regarding the worlds of their creature sojourn and still more concerning the realm of terminal bestowal, the planet of incarnation in the likeness of mortal flesh._ <a id="a138_652"></a>[[UB 21:5.6](/en/The_Urantia_Book/21#p5_6)] (P 241) (Emphasis added.)
+> After his elevation to settled sovereignty in a local universe a Paradise Michael is in full control of all other Sons of God functioning in his domain, and he may freely rule in accordance with his concept of the needs of his realms. _A Master Son may at will vary the order of the spiritual adjudication and evolutionary adjustment of the inhabited planets. And such Sons do make and carry out the plans of their own choosing in all matters of special planetary needs, in particular regarding the worlds of their creature sojourn and still more concerning the realm of terminal bestowal, the planet of incarnation in the likeness of mortal flesh._ <a id="a138_652"></a>[[UB 21:5.9](/en/The_Urantia_Book/21#p5_9)] (Emphasis added.)
 
 ## The World isn’t Coming to an End
 

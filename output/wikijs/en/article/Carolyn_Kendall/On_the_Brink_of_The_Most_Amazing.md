@@ -230,8 +230,7 @@ One long time reader has sent a gift book and letter to every President of The U
 
 > **Mission to the Christian Clergy**
 > _“The hour is striking for, Presenting to Buddhism, to Christianityj Hinduism, even to the Peoples Of faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus.”_ (<a id="a231_201"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
-> 
-> 
+
 > The most systematic and audacious approach to religious leaders has been the 19 year program of Meredith J. Sprunger. Dr. Sprunger, an ordained minister of the United Church of Christ, clinical psychologist, retired university president and professor, and President of Urantia Brotherhood from 1976 to 1979, set out to personally introduce The Urantia *Book* to his Christian fellows. This was a singularly courageous project, risking personal and professional reputation among his peers.
 > 
 > The not-for-profit corporation, Christian Fellowship of Students of *The Urantia Book,* was organized in 1979 in Fort Wayne, IN. Dr. Sprunger's premise was that “critical research is the key to respectability in the academic and professional communities. Scholarly evaluation is the neces­sary procedure for acceptance in ecclesiastical and educational circles.”
@@ -287,8 +286,7 @@ TV and movie celebrities have called or visited over the years, beginning with L
 
 > **Proclaiming the Coming Spiritual Renaissance on Radio**
 > _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ (<a id="a288_261"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
-> 
-> 
+
 > Prior to his generating controversy among the reader community in 1983 with his predictions of the outbreak of World War III, Vern Grimsley had established himself as the foremost radio broadcaster of the teachings of Jesus according to *The Urantia Book.* As he had agreed with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.
 > 
 > Vern Bennom Grimsley established the Family of God Foundation in 1967 and that year began his broadcasts from San Francisco. Early broadcasts con­sisted of 15 minute street debates and discussions with college students, pro­jecting their issues and concerns during the turbulent years of campus protest onto a spiritual overview.

@@ -101,7 +101,7 @@ Realmente todo se reduce al individuo hambriento de la verdad que se encuentra d
 > Byron Belitsos ha sido estudiante de _El Libro de Urantia_ desde 1974. Trabaja como escritor, editor y editor de libros y vive en San Rafael, CA.
 {.is-info}
 
-> La diferencia característica entre una reunión social y una asamblea religiosa consiste en que, en contraste con la mundana, la religiosa está impregnada de una atmósfera de comunión. <a id="a103_186"></a>[[LU 103:4.1](/es/The_Urantia_Book/104#p4_1)]
+> La diferencia característica entre una reunión social y una asamblea religiosa consiste en que, en contraste con la mundana, la religiosa está impregnada de una atmósfera de comunión. <a id="a103_186"></a>[[LU 103:4.1](/es/The_Urantia_Book/103#p4_1)]
 
 ## Referencias
 

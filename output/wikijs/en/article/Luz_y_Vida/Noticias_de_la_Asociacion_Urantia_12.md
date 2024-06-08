@@ -39,16 +39,16 @@ By Mariano Perez
 
 On March 10, in La Casa Grande de Torrejón de Ardoz, a historic and very beautiful place from the 16th century, the oldest readers of the Madrid group met to say goodbye to our dear brothers and friends Rafa and Nana, who are leaving to continue the adventure of living in Colombia, Nana's country of origin. This evening took place in an atmosphere of harmony and friendship, with which we gave our friends gifts and Demetrio also gave them, commissioned by the group, a beautiful painting of his total creativity in which the Puerta de Alcalá in Madrid appears (looking towards Alcalá de Henares, where Rafa and Nana have lived), and with the concentric circles of Urantia in their garden. A memory full of symbolism that we want to accompany you in your new home. After I said a few words extolling friendship, we lived moments full of emotion due to Rafa's farewell words.
 
-<figure id=“Figure_1” class=“image”>
-<img src=“/image/article/Luz_y_Vida/LyV29/17.jpg”>
+<figure id="Figure_1" class="image">
+<img src="/image/article/Luz_y_Vida/LyV29/17.jpg">
 </figure>
 
-<figure id=“Figure_2” class=“image”>
-<img src=“/image/article/Luz_y_Vida/LyV29/18.jpg”>
+<figure id="Figure_2" class="image">
+<img src="/image/article/Luz_y_Vida/LyV29/18.jpg">
 </figure>
 
-<figure id=“Figure_3” class=“image”>
-<img src=“/image/article/Luz_y_Vida/LyV29/16.jpg”>
+<figure id="Figure_3" class="image">
+<img src="/image/article/Luz_y_Vida/LyV29/16.jpg">
 </figure>
 
 It goes without saying what these two brothers and friends have meant to the group; We have learned a lot from them over the years. Each one in their own way, they have known how to enrich the afternoons of study of _The Urantia Book_. Rafa and Nana, who have been with us since the beginning of the group, in 2004, leave us an imprint that is impossible to erase and that will undoubtedly accompany us in all our meetings. I am personally very grateful to them for their sincere friendship.
@@ -59,8 +59,8 @@ I hope they return to Spain soon, even if it's a visit, and if it's to stay agai
 
 Olga Lopóz
 
-<figure id=“Figure_4” class=“image”>
-<img src=“/image/article/Luz_y_Vida/LyV29/20.jpg”>
+<figure id="Figure_4" class="image">
+<img src="/image/article/Luz_y_Vida/LyV29/20.jpg">
 </figure>
 
 After eight years of uninterrupted monthly meetings (since January 2004, to be exact), the Barcelona study group finished the sequential reading of the book. To celebrate, we went to eat together at La Casona, a restaurant in Clariana (Barcelona), near Vilanova i la Geltrú, the town where the group meets.
@@ -69,8 +69,8 @@ Later, in the afternoon, we held a group meeting, where we discussed the second 
 
 Now we all have to decide what type of study we are going to carry out from now on. What we do know is that we will continue to hold meetings. Not only because of its great value when it comes to increasing the understanding of the book, but also because of the excellent atmosphere of brotherhood that is breathed in them.
 
-<figure id=“Figure_5” class=“image”>
-<img src=“/image/article/Luz_y_Vida/LyV29/19.jpg”>
+<figure id="Figure_5" class="image">
+<img src="/image/article/Luz_y_Vida/LyV29/19.jpg">
 </figure>
 
 ## President's statement
@@ -97,8 +97,8 @@ Naturally, we intend to continue the steps of the previous meeting. In addition,
 
 We would like to at least match the achievements of the outgoing board, and we are counting on your help to do so.
 
-<figure id=“Figure_6” class=“image”>
-<img src=“/image/article/Luz_y_Vida/LyV29/21.jpg”>
+<figure id="Figure_6" class="image">
+<img src="/image/article/Luz_y_Vida/LyV29/21.jpg">
 </figure>
 
 A warm hug.

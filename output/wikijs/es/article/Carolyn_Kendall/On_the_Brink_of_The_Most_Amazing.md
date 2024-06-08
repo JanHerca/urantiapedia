@@ -230,8 +230,7 @@ Un lector de mucho tiempo ha enviado un libro de regalo y una carta a todos los 
 
 > **Misión al Clero Cristiano**
 > _«Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús.»_ (<a id="a231_227"></a>[LU 94:12.7 ](/es/The_Urantia_Book/94#p12_7))
-> 
-> 
+
 > El acercamiento más sistemático y audaz a los líderes religiosos ha sido el programa de 19 años de Meredith J. Sprunger. El Dr. Sprunger, ministro ordenado de la Iglesia Unida de Cristo, psicólogo clínico, rector y profesor universitario jubilado y presidente de la Hermandad Urantia de 1976 a 1979, se dispuso a presentar personalmente El *Libro* de Urantia a sus compañeros cristianos. Este fue un proyecto singularmente valiente, arriesgando la reputación personal y profesional entre sus compañeros.
 > 
 > La corporación sin fines de lucro, Christian Fellowship of Students of *The Urantia Book,* se organizó en 1979 en Fort Wayne, IN. La premisa del Dr. Sprunger fue que «la investigación crítica es la clave para la respetabilidad en las comunidades académica y profesional. La evaluación académica es el procedimiento necesario para la aceptación en los círculos eclesiásticos y educativos».
@@ -287,8 +286,7 @@ Celebridades de la televisión y el cine han llamado o visitado a lo largo de lo
 
 > **Proclamando el Renacimiento Espiritual Venidero en la Radio**
 > _«La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba;»_ (<a id="a288_289"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
-> 
-> 
+
 > Antes de la generación de polémica entre la comunidad de lectores en 1983 con sus predicciones del estallido de la Tercera Guerra Mundial, Vern Grimsley se había establecido como el principal locutor de radio del enseñanzas de Jesús según *El Libro de Urantia*. Como había acordado con el Dr. William Sadler y Christy, Vern no mencionó *El Libro de Urantia* en sus transmisiones y simplemente proclamó la Paternidad de Dios y la Hermandad del Hombre, así como el renacimiento espiritual venidero en este planeta.
 > 
 > Vern Bennom Grimsley estableció la Fundación Familia de Dios en 1967 y ese año comenzó sus transmisiones desde San Francisco. Las primeras transmisiones consistieron en debates callejeros de 15 minutos y discusiones con estudiantes universitarios, proyectando sus problemas y preocupaciones durante los turbulentos años de protesta en el campus en una visión general espiritual.

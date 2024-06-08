@@ -111,20 +111,20 @@ Correo electrónico: [anzura.urantia@gmail.com](correo a:anzura.urantia@gmail.co
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Cabin5-570x394.jpg" alt="Anzura Annual Conference">
 </figure>
-<figure id=«Figura_4» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Cabin4-395x570.jpg» alt=«Conferencia Anual de Anzura»>
+<figure id="Figura_4" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Cabin4-395x570.jpg" alt="Conferencia Anual de Anzura">
 </figura>
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Dining-room-570x570.jpg" alt="Anzura Annual Conference">
 </figure>
-<figure id=«Figura_6» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Surrounds-570x570.jpg» alt=«Conferencia Anual de Anzura»>
+<figure id="Figura_6" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Surrounds-570x570.jpg" alt="Conferencia Anual de Anzura">
 </figura>
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Surrounds2.jpg" alt="Anzura Annual Conference">
 </figure>
-<figure id=«Figura_8» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Cabin1.jpg» alt=«Conferencia Anual de Anzura»>
+<figure id="Figura_8" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Cabin1.jpg" alt="Conferencia Anual de Anzura">
 </figura>
 <br style="clear:both;"/>
 

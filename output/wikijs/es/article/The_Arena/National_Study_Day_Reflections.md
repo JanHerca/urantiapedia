@@ -151,14 +151,14 @@ Disfruta de estas fotos de nuestro día…
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/20220618_114445-scaled.jpg">
 </figure>
-<figure id=«Figura_8» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/20220618_114428-scaled-e1658988054143-570x264.jpg»>
+<figure id="Figura_8" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/20220618_114428-scaled-e1658988054143-570x264.jpg">
 </figura>
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Study-Day-in-MV-11.jpg">
 </figure>
-<figure id=«Figura_10» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Study-Day-in-MV-10.jpg»>
+<figure id="Figura_10" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Study-Day-in-MV-10.jpg">
 </figura>
 
 <br style="clear:both;"/>

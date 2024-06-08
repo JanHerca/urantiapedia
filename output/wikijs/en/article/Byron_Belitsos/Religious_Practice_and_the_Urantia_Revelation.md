@@ -101,7 +101,7 @@ It all really does come down to the truth-hungry individual standing nakedly bef
 > Byron Belitsos has been a student of _The Urantia Book_ since 1974. He works as a writer, editor, and book publisher and lives in San Rafael, CA.
 {.is-info}
 
-> The characteristic difference between a social occasion and a religious gathering is that in contrast with the secular the religious is pervaded by the atmosphere of communion. <a id="a103_179"></a>[[UB 103:4.1](/en/The_Urantia_Book/104#p4_1)]
+> The characteristic difference between a social occasion and a religious gathering is that in contrast with the secular the religious is pervaded by the atmosphere of communion. <a id="a103_179"></a>[[UB 103:4.1](/en/The_Urantia_Book/103#p4_1)]
 
 ## References
 

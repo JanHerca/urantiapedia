@@ -54,8 +54,8 @@ Llegamos a la conclusión de que exposiciones como ésta son una gran idea y que
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/IMG-20220707-WA0002-e1658988936482.jpg">
 </figure>
-<figure id=«Figura_3» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/IMG-20220707-WA0000-e1658988650485.jpg»>
+<figure id="Figura_3" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/IMG-20220707-WA0000-e1658988650485.jpg">
 </figura>
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/IMG-20220707-WA0001-e1658988981341.jpg">

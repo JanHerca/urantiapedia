@@ -158,26 +158,26 @@ Correo electrónico: [anzura.urantia](mailto:anzura.urantia@gmail.com)@kathleen
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Cabin6.jpg">
 </figure>
-<figure id=«Figura_4» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Cabin2-300x300.jpg»>
+<figure id="Figura_4" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Cabin2-300x300.jpg">
 </figura>
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Surrounds2.jpg">
 </figure>
-<figure id=«Figura_6» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Food2.jpg»>
+<figure id="Figura_6" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Food2.jpg">
 </figura>
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Cabin4-395x570.jpg">
 </figure>
-<figure id=«Figura_8» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Cabin7.jpg»>
+<figure id="Figura_8" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Cabin7.jpg">
 </figura>
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Dining-room-inside-e1649050116313.jpg">
 </figure>
-<figure id=«Figura_9» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/Surrounds-570x570.jpg»>
+<figure id="Figura_9" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/Surrounds-570x570.jpg">
 </figura>
 <br style="clear:both;"/>
 

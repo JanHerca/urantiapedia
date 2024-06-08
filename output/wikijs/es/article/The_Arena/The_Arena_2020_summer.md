@@ -297,12 +297,12 @@ Cecilia Ann Bendall
 </figure>
 
 Uno de los pocos temas que, según nos dicen, llevó a Jesús a ser conmovido dentro de su espíritu fue la inferencia de que todos deberíamos ver de la misma manera. Cuando Santiago Zebedeo _Maestro, le preguntó ¿cómo aprenderemos a ver de igual manera y así disfrutar de más armonía entre nosotros?_ (<a id="a298_299"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)) Jesús respondió:
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 > _«Santiago, Santiago, ¿cuándo te he enseñado que todos debéis tener el mismo punto de vista? He venido al mundo para proclamar la libertad espiritual, con el fin de que los mortales puedan tener la facultad de vivir una vida individual original y ***libre*** ante Dios. No deseo que la armonía social y la ***paz*** fraternal se adquieran a costa del sacrificio de la personalidad libre y de la originalidad espiritual. Lo que yo os pido, a mis apóstoles, es la unidad espiritual —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino.»_
 
 [Leer más](/es/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary)
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 ## El ámbito mental preferido
 
@@ -317,7 +317,7 @@ Chris Moseley, Inglaterra
 (_Nota del editor: **Explorar los archivos** es una colección de artículos que se han publicado en varios boletines a lo largo de los años y han permanecido enterrados en los archivos. Un equipo de voluntarios ha estado «extrayendo los archivos» en busca de gemas, así que ahora podemos sacarlos a la luz para compartirlos utilizando la tecnología moderna._ **_Este es del Arena Newsletter,_** **Otoño de 1999**)
 
 El concepto de ‘Mente’ en sí mismo, en el sentido abstracto e ilimitado de la palabra, no implica libre albedrío, pero la mente individual, la mente mortal, tiene el libre albedrío como un componente inseparable y definitorio. En el pasaje de la página 1216 titulado The Mind Arena of Choice, hay una frase sorprendente que casi expresa el núcleo de toda la condición humana:
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 > _La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima._ (<a id="a321_176"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
@@ -326,7 +326,7 @@ Visto en estos términos, qué criatura tan perfectamente afinada parece un ser 
 Ya sea indiferenciada, en el sentido de mente infinita o absoluta, o finita, actuando a través del ministerio de los espíritus auxiliares de la mente, toda Mente puede &quot;superponerse a la energía&quot;. (<a id="a325_208"></a>[LU 9:4.2](/es/The_Urantia_Book/9#p4_2)) en otras palabras, la mente puede dirigir las energías a través de sus propias elecciones. La mente añade significado a la energía.
 
 [Leer más](/es/article/Chris_Moseley/The_Mind_Arena_of_Choice)
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 ## Amarantos
 
@@ -348,7 +348,7 @@ La chispa busca la reflexión para decidirse por un rostro
 Al expandirse se hace añicos
 Y nace un espejo para el inicio de la dualidad.
 
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 [Leer más](/es/article/Robert_Venosa/Amarantos)
 
@@ -365,7 +365,7 @@ La Asociación Urantia de Australia y Nueva Zelanda (ANZURA) está formada por p
 Nuestra intención es no obstaculizar nuestro trabajo de difusión del Libro de Urantia y sus enseñanzas con la iglesia, el templo u otras instituciones espirituales. Nuestros miembros han llegado a reconocer la importancia del libro y la belleza integrada de sus enseñanzas supremas que nos animan a desarrollar nuestra propia filosofía a través del estudio, la experiencia, las decisiones y las acciones. Sin embargo, mantenemos la opinión y reconocemos que colectivamente hay muchos proyectos y programas valiosos que podemos emprender juntos para lograr nuestros objetivos.
 
 [Leer más](https://anzura.urantia-association.org/2022/01/01/about-anzura/#more-1383)
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 ## Acerca del boletín de la Arena
 
@@ -384,7 +384,7 @@ Si desea recibir la _Arena_ o enviar un artículo, envíenos un correo electrón
 Para ver números actuales y pasados de _Arena_ [haga clic aquí](https://anzura.urantia-association.org/online-arenas/).
 
 [Leer más](https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/#more-645)
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 ## El esfuerzo de la UB
 
@@ -405,7 +405,7 @@ Estos son algunos de nuestros programas diseñados para lograr estos objetivos:
 Mantenemos un pequeño inventario de los Libros de Urantia y otro material asociado, como ayudas de estudio y obras secundarias, que están disponibles para los lectores para proyectos de difusión. Patrocinamos un programa de libros de regalo en el que se donan libros a bibliotecas y centros de aprendizaje relevantes, así como a grupos de estudio e individuos que deseen ayudar en el programa de siembra de libros.
 
 [Leer más](https://anzura.urantia-association.org/2022/01/01/ub-endeavour/#more-654)
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 ## Contactos del grupo de estudio
 
@@ -422,7 +422,7 @@ No todos estos anfitriones dirigen un grupo de estudio regular, pero todos está
 Algunos grupos de estudio incluyen la participación virtual vía Zoom si no puedes reunirte presencialmente.
 
 [Haga clic aquí](https://anzura.urantia-association.org/find-study-groups) para ver la lista de contactos en el sitio web.
-<br style=«clear:both;»/>
+<br style="clear:both;"/>
 
 ## Referencias
 

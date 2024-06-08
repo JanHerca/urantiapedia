@@ -104,20 +104,20 @@ Dirección postal: PO Box 1581, Warriewood NSW 2102
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/PCH-17-e1618205289479.jpg" alt="Peter Canisius House">
 </figure>
-<figure id=«Figura_4» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/PCH-20-e1618205303836.jpg» alt=«Casa de Pedro Canisio»>
+<figure id="Figura_4" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/PCH-20-e1618205303836.jpg" alt="Casa de Pedro Canisio">
 </figura>
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/PCH-15-e1618205259908.jpg" alt="Peter Canisius House">
 </figure>
-<figure id=«Figura_6» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/PCH-12-300x200.jpg» alt=«Casa de Pedro Canisio»>
+<figure id="Figura_6" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/PCH-12-300x200.jpg" alt="Casa de Pedro Canisio">
 </figura>
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/PCH-11-e1618205331752.jpg" alt="Peter Canisius House">
 </figure>
-<figure id=«Figura_8» class=«imagen urantiapedia imagen-estilo-align-left»>
-<img src=«/image/article/The_Arena/PCH-14-e1618205243472.jpg» alt=«Casa de Pedro Canisio»>
+<figure id="Figura_8" class="imagen urantiapedia imagen-estilo-align-left">
+<img src="/image/article/The_Arena/PCH-14-e1618205243472.jpg" alt="Casa de Pedro Canisio">
 </figura>
 
 <br style="clear:both;"/>
