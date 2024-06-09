@@ -135,7 +135,7 @@ While these purposes of Michael’s bestowal seem very straightforward, the pict
 
 > The faith of Jesus [provided for]. . .  deliverance from the limitations of self-consciousness through the attainment of the cosmic levels of the Supreme mind and by co-ordination with the attainments of all other self-conscious beings. . .  the perfected oneness with Deity in and through the Supreme. . .  <a id="a135_310"></a>[[UB 101:6.13,15](/en/The_Urantia_Book/101#p6_13)]
 
-> By this process [fostering a seeking of the Father’s will] of gradually changing man’s will and thus affecting human decisions, Michael and his associates are likewise gradually but certainly changing the entire course of human evolution, social and otherwise. <a id="a137_263"></a>[[UB 170:2.6](/en/The_Urantia_Book/170#p2_6)]
+> By this process [fostering a seeking of the Father’s will] of gradually changing man’s will and thus affecting human decisions, Michael and his associates are likewise gradually but certainly changing the entire course of human evolution, social and otherwise. <a id="a137_263"></a>[UB 170:4.7](/en/The_Urantia_Book/170#p4_7)
 
 Now let’s look at some very clear parallels between teachings about the kingdom of heaven and the nature of Supremacy.
 

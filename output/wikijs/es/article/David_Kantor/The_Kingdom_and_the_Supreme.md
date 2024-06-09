@@ -135,7 +135,7 @@ Si bien estos propósitos del otorgamiento de Miguel parecen muy sencillos, el p
 
 > La fe de Jesús [proveyó]... de la liberación del yo, escapando a las limitaciones de la conciencia de sí mismo mediante el hecho de alcanzar los niveles cósmicos de la mente Suprema y gracias a la coordinación con los logros de todos los demás seres conscientes de sí mismos... la unión perfeccionada con la Deidad en el Supremo y a través de él... <a id="a135_351"></a>[[LU 101:6.13,15](/es/The_Urantia_Book/101#p6_13)]
 
-> Mediante este proceso [fomentando una búsqueda de la voluntad del Padre] de cambiar gradualmente la voluntad del hombre, influyendo así en las decisiones humanas, Miguel y sus asociados están cambiando también, de manera gradual pero segura, todo el curso de la evolución humana, tanto social como en otros aspectos. <a id="a137_319"></a>[[LU 170:2.6](/es/The_Urantia_Book/170#p2_6)]
+> Mediante este proceso [fomentando una búsqueda de la voluntad del Padre] de cambiar gradualmente la voluntad del hombre, influyendo así en las decisiones humanas, Miguel y sus asociados están cambiando también, de manera gradual pero segura, todo el curso de la evolución humana, tanto social como en otros aspectos. <a id="a137_319"></a>[LU 170:4.7](/es/The_Urantia_Book/170#p4_7)
 
 Ahora veamos algunos paralelos muy claros entre las enseñanzas sobre el reino de los cielos y la naturaleza de la Supremacía.
 
