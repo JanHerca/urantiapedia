@@ -27,7 +27,7 @@ La página web contiene mapas escaneados a escala 1:50.000, los mejores que he e
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/The_cave_of_the_forty_days/jordan_map.jpg">
-<figcaption>En rojo, las ruinas de la antigua Pella. En amarillo, el cposible camino que siguió Jesús. En azul, Beit Adis y en el rectángulo la posible ubicación de la cueva. En violeta, el posible precipio donde Jesús reflexionó. (Abra la imagen o descárguela para poder hacer zoom y tener más detalle).</figcapton>
+<figcaption>En rojo, las ruinas de la antigua Pella. En amarillo, el posible camino que siguió Jesús. En azul, Beit Adis y en el rectángulo la posible ubicación de la cueva. En violeta, el posible precipicio donde Jesús reflexionó. (Abra la imagen o descárguela para poder hacer zoom y tener más detalle).</figcapton>
 </figure>
 
 Se pueden apreciar, en la proximidad, que vienen anotadas en el mapa dos posiciones con ruinas (Ruins). Son los restos de la antigua Pella.
