@@ -93,7 +93,7 @@ The faculty structure is straightforward. Two Teachers (Level 1) will qualify an
 Teachers at all three levels will be rotated to other papers/ groups of papers (based on their predilection) on an agreedupon schedule in order to keep the teaching fresh and dynamic. Teachers at the Master and Elder levels will also be required to teach a single paper as well as to provide support for Teachers and students and to offer a broader context to facilitate a deeper comprehension of the material in each paper. 
 
 > David Nash has been a _Urantia Book_ reader since 1974. He is a professional master scheduler specialist/consultant who has personally worked with hundreds of major corporations, and is the founder of the National Association for Shiftwork Health being further supported by the United States government. David also holds the rights to PRISM, a module program that captures persons at risk and prevents accidents. 
-{is-info}
+{.is-info}
 
 > Correction: 
 > 

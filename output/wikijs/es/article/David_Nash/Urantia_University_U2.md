@@ -93,7 +93,7 @@ La estructura de la facultad es sencilla. Dos maestros (Nivel 1) calificarán y 
 Los maestros de los tres niveles rotarán a otros documentos/grupos de documentos (según su preferencia) en un horario acordado para mantener la enseñanza fresca y dinámica. También se requerirá que los maestros en los niveles Master y Elder enseñen un solo trabajo, así como que brinden apoyo a los maestros y estudiantes y ofrezcan un contexto más amplio para facilitar una comprensión más profunda del material en cada trabajo.
 
 > David Nash ha sido lector del _El Libro de Urantia_ desde 1974. Es un especialista/consultor maestro en programación profesional que ha trabajado personalmente con cientos de grandes corporaciones y es el fundador de la Asociación Nacional para la Salud del Trabajo por Turnos, que cuenta con el apoyo adicional del gobierno de los Estados Unidos. David también posee los derechos de PRISM, un programa modular que captura personas en riesgo y previene accidentes.
-{is-info}
+{.is-info}
 
 > Corrección:
 >
