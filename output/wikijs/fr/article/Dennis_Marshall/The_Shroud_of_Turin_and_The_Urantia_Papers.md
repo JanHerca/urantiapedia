@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dennis Marshall<br>© 2017 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dennis Marshall<br>© 2017 La Fellowship du «Livre d'Urantia»</p>
 
 
 

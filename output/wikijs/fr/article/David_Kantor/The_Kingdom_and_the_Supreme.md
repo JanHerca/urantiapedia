@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 David Kantor<br>© 2007 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 David Kantor<br>© 2007 La Fellowship du «Livre d'Urantia»</p>
 
 
 > Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême. ([LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))

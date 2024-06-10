@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Doreen Heyne<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Doreen Heyne<br>© 2008 La Fellowship du «Livre d'Urantia»</p>
 
 
 _Ce qui suit a été présenté sous forme d'atelier lors de la session d'études d'été 2007 à l'Université dominicaine, River Forest, Illinois_  

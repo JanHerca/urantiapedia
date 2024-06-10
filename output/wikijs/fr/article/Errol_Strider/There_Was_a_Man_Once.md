@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-6-21T8:13:38Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Errol Strider<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Errol Strider<br>© 2019 La Fellowship du «Livre d'Urantia»</p>
 
 
 Il était une fois un homme, vraiment ça 

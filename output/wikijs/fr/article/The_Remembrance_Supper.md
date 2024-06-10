@@ -33,8 +33,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-
-
 _Le groupe d'étude de la Sunshine Coast_
 
 Les articles écrits par nos membres pour des bulletins d'information ou des revues associés au _Le Livre d'Urantia_ sont généralement lus et commentés par d'autres lecteurs du Livre d'Urantia avant leur publication. Les articles parus dans ce numéro qui abordent la symbolique de la croix et du Souper du Souvenir ont ouvert une boîte de Pandore en exposant les problèmes psychologiques liés à l'utilisation possible de ces symboles lors de réunions de lecteurs.
@@ -76,7 +74,7 @@ Interrogés, même les membres des églises protestantes fondamentales ont décl
 
 ## Liens externes
 
-* Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html
+- Article dans Innerface International : https://urantia-book.org/archive/newsletters/innerface/vol1_2/page12.html
 
 
 

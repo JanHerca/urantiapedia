@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 David Kantor<br>© 2013 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 David Kantor<br>© 2013 La Fellowship du «Livre d'Urantia»</p>
 
 
 > Note de l'auteur : Cet essai tente d'explorer_ _Le Livre d'Urantia_ _un aperçu de l'aventure de la foi dans le contexte de certaines des observations de Paul Tillich sur la foi dans son ouvrage classique_ « La dynamique de la foi » _—en particulier les vues de Tillich sur le doute et l'incertitude. comme éléments inévitables de la quête de foi.

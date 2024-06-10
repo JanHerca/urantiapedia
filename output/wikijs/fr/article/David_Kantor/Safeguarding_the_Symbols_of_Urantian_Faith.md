@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 David Kantor<br>© 2003 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 David Kantor<br>© 2003 La Fellowship du «Livre d'Urantia»</p>
 
 
 Cet essai est basé presque entièrement sur les idées trouvées dans le livre du théologien Paul Tillich, _Dynamics of Faith._

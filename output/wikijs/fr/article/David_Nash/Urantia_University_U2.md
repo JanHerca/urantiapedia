@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Nash (voir note en bas de page)<br>© 2009 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Nash (voir note en bas de page)<br>© 2009 La Fellowship du «Livre d'Urantia»</p>
 
 
 Si c’est votre première prise de conscience de l’Université Urantia, nous vous souhaitons la bienvenue et vous encourageons à visiter www.urantiauniversity.org. Ou lisez le manuel de l'Université Urantia trouvé sur le site Web pour mieux comprendre les objectifs, les directives et la vision en fournissant une base pour créer des érudits et des émissaires des enseignements révélateurs du _Livre d'Urantia_. 

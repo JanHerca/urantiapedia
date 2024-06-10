@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Earlene Green<br>© 2012 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Earlene Green<br>© 2012 La Fellowship du «Livre d'Urantia»</p>
 
 
 _Note de l'éditeur : ce qui suit a été mis à jour à partir d'un essai précédent de l'auteur._

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 David Kantor<br>© 2017 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 David Kantor<br>© 2017 La Fellowship du «Livre d'Urantia»</p>
 
 
 Il est très instructif de mettre de côté tout ce que nous avons appris sur l’origine de la révélation et les intentions supposées de ses auteurs et d’examiner ce que le livre lui-même a à dire sur les tâches les plus importantes à accomplir. Si nous parcourons le livre et notons chaque point où les auteurs nous suggèrent de faire telle ou telle chose particulière, nous nous retrouvons avec une liste de tâches qui peuvent être divisées en trois grandes catégories : 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-6-21T8:13:38Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Duane Johnson<br>© 2020 La Bourse du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Duane Johnson<br>© 2020 La Bourse du «Livre d'Urantia»</p>
 
 
 Je ne risque pas d’oublier une rencontre aussi unique : 
