@@ -75,12 +75,28 @@
   - * `^\t([A-Z])\. ` => `\t- $1. `
   - * `\[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\)` => `[LU $3:$4.$5](/es/The_Urantia_Book/$3#p$4_$5)`
 
+### LaTeX
+
+LaTeX | Markdown
+--- | ---
+`\\par ` | `\n`
+`\\textit\{([^\}]+)\}` | `_$1_`
+`\\bigbreak` | ``
+`\\section\*\{([^\}]+)\}` | `## $1`
+`\\noindent \\textsc\{([^\}]+)\}` | `<span style="font-variant:small-caps;">$1</span>`
+`\\begin\{itemize\}` | ``
+`\\end\{itemize\}` | ``
+`\\item ` | `- `
+`\\begin\{displayquote\}\[\]\n` | `\n> `
+`\\begin\{displayquote\}` | `> `
+`\n\\end\{displayquote\}` | ``
+`\{\\footnotesize (\d+)\}` | `<sup><small>$1</small></sup>`
+
 ### Other replacements
 
 * Replace english plain quotes with curly ones: `"([^"]*)"` => `“$1”` or `'([^']*)'` => `‘$1’`
 * Replace english curly quotes with spanish angular ones: `“([^”]*)”` => `«$1»`
 * Replace spanish plain quotes with angular ones: `"([^"]*)"` => `«$1»`
-* Replace LaTeX italics with Markdown: `\\textit\{([^\}]*)\}` => `_$1_`
 * HTML links to Markdown links: `<a href="(.+)">(.+)</a>` => `[$2]($1)`
 * Urantia references to links
     - `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or 
@@ -107,7 +123,6 @@
 * Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
 * Search existing old UB refs: `\(\d{1,4}(\.\d{1,2})?\)`
 * Search existing new UB refs: `(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?`
-
 
 ## VS Code tricks
 
@@ -280,18 +295,6 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 - Legal info :copyright:
 - Colaboration :blue_heart:
 - Statistics :chart_with_upwards_trend:
-
-## LaTeX to Markdown
-
-\\par |\n
-\\textit\{([^\}]+)\}|_$1_
-\\bigbreak|<br>
-\\section\*\{([^\}]+)\}|## $1
-\\noindent \\textsc\{([^\}]+)\}|<span style="font-variant:small-caps;">$1</span>
-\\begin\{displayquote\}\[\]|>
-\\begin\{displayquote\}|> 
-\n\\end\{displayquote\}|
-\{\\footnotesize (\d+)\}|<sup><small>$1</small></sup>
 
 ## Google Translator common fails
 
