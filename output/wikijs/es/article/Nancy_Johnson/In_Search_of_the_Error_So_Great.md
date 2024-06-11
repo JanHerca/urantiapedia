@@ -38,7 +38,7 @@ dateCreated: 2023-02-07T14:02:03.086Z
 
 Nota del editor: Las secciones subrayadas de citas de _El Libro de Urantia_ indican el énfasis del autor del artículo en esas declaraciones.
 
-> Las formas no tienen valor cuando las lecciones se han aprendido. No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. <ins>Pero a veces el error es tan grande, que rectificarlo por medio de la revelación podría ser fatal para aquellas verdades que emergen lentamente y que son esenciales para destruir el error por medio de la experiencia...</ins> <a id="a40_413"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_21)
+> Las formas no tienen valor cuando las lecciones se han aprendido. No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. <ins>Pero a veces el error es tan grande, que rectificarlo por medio de la revelación podría ser fatal para aquellas verdades que emergen lentamente y que son esenciales para destruir el error por medio de la experiencia...</ins> <a id="a40_413"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32)
 
 Sin duda, todos hemos prestado atención a esta declaración provocativa de un arcángel de Nebadon, y seguramente este arcángel pretendía despertar nuestra curiosidad y estimularnos a examinar nuestro entorno conceptual, nuestro sistema de creencias, para reconocer un error que está tan fuera de sintonía con verdadera realidad que no pudieron decirnos lo que era. ¿Qué verdad pudo haber tenido un impacto tan traumático en nosotros en ese momento? ¿Nos dieron alguna pista?
 
@@ -97,13 +97,13 @@ Ordinariamente consideramos al Actor Conjunto como el dador de la mente. ¿Cómo
 
 Él describe «el error», pero ¿es la raíz del error? La materia no es la realidad básica, y la mente y el espíritu no están enraizados en la materia. Quizá haríamos mejor en pensar en ellos como temporalmente _alojados_ o _en circuitos_ en la materia, una especie de «sombra» complementaria compuesta por el Actor Conjunto en su papel de Organizador Universal. Como Coordinador de la Personalidad, el Actor Conjunto espera la preparación anticipada del Hijo Creador y el Espíritu Creativo quienes duplican ciertos _patrones_ de personalidad y mente de Havona en su creación material. Es algo importante para toda la discusión que tenga en cuenta que en el Prólogo se nos dice: «..._un arquetipo es un arquetipo y permanece siendo un arquetipo; sólo las copias se multiplican._» <a id="a97_777"></a>[LU 0:6.10](/es/The_Urantia_Book/0#p6_10) En los Documentos 14 y 3 se nos brinda información interesante sobre la preparación previa del Hijo Creador y el Espíritu Creativo.
 
-> Un Hijo Creador utiliza a las criaturas de Havona como <ins>posibles modelos de personalidad</ins> para sus propios hijos mortales y seres espirituales. <a id="a99_155"></a>[LU 14:6.28](/es/The_Urantia_Book/14#p6_25)
+> Un Hijo Creador utiliza a las criaturas de Havona como <ins>posibles modelos de personalidad</ins> para sus propios hijos mortales y seres espirituales. <a id="a99_155"></a>[LU 14:6.28](/es/The_Urantia_Book/14#p6_28)
 
-> En los mundos de Havona, el Espíritu y las Hijas del Espíritu encuentran los <ins>modelos mentales</ins> para todos sus grupos de inteligencias espirituales y materiales... " <a id="a101_177"></a>[LU 14:6.33](/es/The_Urantia_Book/14#p6_30)
+> En los mundos de Havona, el Espíritu y las Hijas del Espíritu encuentran los <ins>modelos mentales</ins> para todos sus grupos de inteligencias espirituales y materiales... " <a id="a101_177"></a>[LU 14:6.33](/es/The_Urantia_Book/14#p6_33)
 
 > ...la mente de tipo humano es un don de las Hijas del Actor Conjunto, las Ministras Divinas de los universos en evolución. <a id="a103_125"></a>[LU 3:1.8](/es/The_Urantia_Book/3#p1_8)
 
-> Havona es el hogar de <ins>la personalidad modelo para todos los tipos de mortales</ins>, y el hogar de todas las personalidades superhumanas asociadas a los mortales y que no son nativas de las creaciones del tiempo. <a id="a105_220"></a>[LU 14:6.37](/es/The_Urantia_Book/14#p6_34)
+> Havona es el hogar de <ins>la personalidad modelo para todos los tipos de mortales</ins>, y el hogar de todas las personalidades superhumanas asociadas a los mortales y que no son nativas de las creaciones del tiempo. <a id="a105_220"></a>[LU 14:6.37](/es/The_Urantia_Book/14#p6_37)
 
 Ahora podemos echar un nuevo vistazo a dos afirmaciones del Documento 112 que completan la imagen del escenario material para la representación de la parte humana del drama que se desarrolla en los siete superuniversos:
 
@@ -113,7 +113,7 @@ Ahora podemos echar un nuevo vistazo a dos afirmaciones del Documento 112 que co
 
 El cuerpo, entonces, es simplemente un vehículo funcional temporal con un patrón neural único. Una vez activado con la chispa de la vida, se convierte en un mecanismo para el funcionamiento de los circuitos de la mente y la personalidad. El sistema morontial-alma es también un vehículo para la manifestación de la personalidad, y se supone que debemos transferir nuestro asiento de identidad a esta alma. El alma es lo que es observable para los seres espirituales como una realidad activa y funcional. Un Mensajero Poderoso, uno que fue mortal anteriormente como nosotros, lo dejó muy claro cuando dijo:
 
-> En un mundo material pensáis que un cuerpo tiene un espíritu, pero <ins>nosotros consideramos que el espíritu tiene un cuerpo</ins>. Los ojos materiales son en verdad las ventanas del alma nacida del espíritu. El espíritu es el arquitecto, la mente es el constructor, el cuerpo es el edificio material. <a id="a115_305"></a>[LU 42:12.12](/es/The_Urantia_Book/42#p12_5)
+> En un mundo material pensáis que un cuerpo tiene un espíritu, pero <ins>nosotros consideramos que el espíritu tiene un cuerpo</ins>. Los ojos materiales son en verdad las ventanas del alma nacida del espíritu. El espíritu es el arquitecto, la mente es el constructor, el cuerpo es el edificio material. <a id="a115_305"></a>[LU 42:12.12](/es/The_Urantia_Book/42#p12_12)
 
 Pero ¿qué es el alma? ¿Sabemos realmente? Desde el punto de vista material, es «algo» que creamos en colaboración con el Ajustador del Pensamiento. El libro nos dice esto repetidamente. Solo teníamos unos cinco años en ese momento y probablemente no recordemos mucho al respecto. Sin embargo, desde el punto de vista del Paraíso debe haber algo adicional involucrado en el «nacimiento» del alma. Primero un Mensajero Poderoso nos dice,
 

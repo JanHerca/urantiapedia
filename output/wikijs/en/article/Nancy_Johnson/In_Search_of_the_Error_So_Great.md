@@ -38,7 +38,7 @@ dateCreated: 2023-02-07T14:02:03.086Z
 
 Editor's note: Underlined sections of quotes from _The Urantia Book_ indicate the author of the article's emphasis on those statements.
 
-> Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. <ins>But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow...</ins> <a id="a40_324"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_21)
+> Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. <ins>But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow...</ins> <a id="a40_324"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)
 
 No doubt we have all paid attention service to this provocative statement by an archangel from Nebadon, and surely this archangel intended to pique our curiosity and stimulate us to examine our conceptual environment—our belief system—to recognize an error that's so out of sync with true reality that they couldn't tell us what it was. What truth could have had such a traumatic impact on us at that time? Did they give us any clues?
 
@@ -97,13 +97,13 @@ Ordinarily we regard the Conjoint Actor as the bestower of mind. How does the Co
 
 He describes “the error,” but is it the root of the error? Matter is not basic reality, and mind and spirit are not rooted in matter. Perhaps we would do better to think of them as temporarily _housed_ or _encircuited_ in matter—a sort of complementary “shadow” composed by the Conjoint Actor in his role as Universal Organizer. As Personality Co-ordinator, the Conjoint Actor awaits the advance preparation of the Creator Son and Creative Spirit who _duplicate_ certain Havona _patterns_ of personality and mind in their material creation. It's somewhat important to the entire discussion for you to be aware that in the Foreword we are told: “..._pattern is pattern and remains pattern; only copies are multiplied._” <a id="a97_719"></a>[UB 0:6.10](/en/The_Urantia_Book/0#p6_10) We are given some interesting information about the advance preparation of the Creator Son and Creative Spirit in Papers 14 and 3.
 
-> A Creator Son uses the creatures of Havona as <ins>personality-pattern possibilities</ins> for his own mortal children and spirit beings. <a id="a99_140"></a>[UB 14:6.28](/en/The_Urantia_Book/14#p6_25)
+> A Creator Son uses the creatures of Havona as <ins>personality-pattern possibilities</ins> for his own mortal children and spirit beings. <a id="a99_140"></a>[UB 14:6.28](/en/The_Urantia_Book/14#p6_28)
 
-> On the worlds of Havona the Spirit and the Daughters of the Spirit find the <ins>mind patterns</ins> for all their groups of spiritual and material intelligences... " <a id="a101_169"></a>[UB 14:6.33](/en/The_Urantia_Book/14#p6_30)
+> On the worlds of Havona the Spirit and the Daughters of the Spirit find the <ins>mind patterns</ins> for all their groups of spiritual and material intelligences... " <a id="a101_169"></a>[UB 14:6.33](/en/The_Urantia_Book/14#p6_33)
 
 > ...mind of the human order is a bestowal of the Daughters of the Conjoint Actor, the Divine Ministers of the evolving universes. <a id="a103_131"></a>[UB 3:1.8](/en/The_Urantia_Book/3#p1_8)
 
-> Havona is the home of the <ins>pattern personality of every mortal type</ins> and the home of all superhuman personalities of mortal association who are not native to the creations of time. <a id="a105_192"></a>[UB 14:6.37](/en/The_Urantia_Book/14#p6_34)
+> Havona is the home of the <ins>pattern personality of every mortal type</ins> and the home of all superhuman personalities of mortal association who are not native to the creations of time. <a id="a105_192"></a>[UB 14:6.37](/en/The_Urantia_Book/14#p6_37)
 
 Now we can take a fresh look at two statements in Paper 112 which round out the picture of the material stage for the enactment of the human part of the drama unfolding in the seven superuniverses: 
 
@@ -113,7 +113,7 @@ Now we can take a fresh look at two statements in Paper 112 which round out the 
 
 The body, then, is merely a temporary functional vehicle with a unique neural pattern. Once activated with the spark of life, it becomes a mechanism for the functioning of the mind and personality circuits. The morontia-soul system is also a vehicle for personality manifestation, and we are supposed to transfer our seat of identity to this soul. The soul is what is observable to spirit beings as an active and functional reality. A Mighty Messenger, a one-time mortal like ourselves, made this so clear when he said: 
 
-> On a material world you think of a body as having a spirit, but <ins>we regard the spirit as having a body</ins>. The material eyes are truly the windows of the spirit-born soul. The spirit is the architect, the mind is the builder, the body is the material building. <a id="a115_270"></a>[UB 42:12.12](/en/The_Urantia_Book/42#p12_5)
+> On a material world you think of a body as having a spirit, but <ins>we regard the spirit as having a body</ins>. The material eyes are truly the windows of the spirit-born soul. The spirit is the architect, the mind is the builder, the body is the material building. <a id="a115_270"></a>[UB 42:12.12](/en/The_Urantia_Book/42#p12_12)
 
 But what is the soul? Do we really know? From the material viewpoint, it's “something” we created in partnership with the Thought Adjuster. The book tells us this repeatedly. We were only about five years old at the time and probably don't remember too much about it. Nevertheless, from the Paradise viewpoint there must be something additional involved in the “birth” of the soul. First a Mighty Messenger tells us, 
 

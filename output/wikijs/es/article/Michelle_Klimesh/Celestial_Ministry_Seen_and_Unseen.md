@@ -39,7 +39,7 @@ La fuente del ministerio celestial en el gran universo es la persona del Espíri
 
 El Espíritu Infinito es: La fuente de toda mente; personalmente consciente de cada persona mental en toda la creación; el Dios de la Acción; el creador de una vasta familia de ministros espirituales.
 
-_Las personalidades espirituales de la inmensa familia del Espíritu Divino e Infinito están dedicadas para siempre al servicio del ministerio del amor de Dios y de la misericordia del Hijo hacia todas las criaturas inteligentes de los mundos evolutivos del tiempo y del espacio. Estos seres espirituales constituyen la escala viviente por la que el hombre mortal se eleva desde el caos hasta la gloria._ <a id="a41_404"></a>[[LU 9:8.17](/es/The_Urantia_Book/9#p8_17)]
+> _Las personalidades espirituales de la inmensa familia del Espíritu Divino e Infinito están dedicadas para siempre al servicio del ministerio del amor de Dios y de la misericordia del Hijo hacia todas las criaturas inteligentes de los mundos evolutivos del tiempo y del espacio. Estos seres espirituales constituyen la escala viviente por la que el hombre mortal se eleva desde el caos hasta la gloria._ <a id="a41_404"></a>[[LU 9:8.25](/es/The_Urantia_Book/9#p8_25)]
 
 Durante algunos años durante la niñez, caí en el hábito de cuestionar a Dios. Por ejemplo, me preguntaba por qué mi madre pasó tres días en el hospital para dar a luz a mi hermano, pero la gata dio a luz fácilmente sola en el garaje. Si Dios realmente sabía todo, ¿por qué no sabía que la mandíbula que hizo para mí era demasiado pequeña para la cantidad de dientes que crecían allí? Sospechaba que Dios no era tan inteligente como la gente creía que era, y esta sospecha me abrió a años de especulación mental acerca de cómo manejaría el universo si fuera Dios.
 
@@ -87,7 +87,7 @@ Antes de dejar el tema del origen, revise la cita en <a id="a85_53"></a>[LU 9:8.
 
 ## Naturaleza
 
-_El universo de vuestro origen se está forjando entre el yunque de la justicia y el martillo del sufrimiento; pero aquellos que manejan el martillo son los hijos de la misericordia, la progenitura espiritual del Espíritu Infinito._ <a id="a89_232"></a>[[LU 9:1.8](/es/The_Urantia_Book/9#p1_8)]
+> _El universo de vuestro origen se está forjando entre el yunque de la justicia y el martillo del sufrimiento; pero aquellos que manejan el martillo son los hijos de la misericordia, la progenitura espiritual del Espíritu Infinito._ <a id="a89_232"></a>[[LU 9:1.8](/es/The_Urantia_Book/9#p1_8)]
 
 Se nos dice que solo el bien puede resultar de nuestros esfuerzos por amar y comprender a los ángeles. ¿Qué clase de personas son estas, los hijos del Espíritu Infinito, que nos tienen bajo su cuidado?
 

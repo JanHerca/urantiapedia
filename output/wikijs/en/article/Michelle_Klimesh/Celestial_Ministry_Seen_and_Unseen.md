@@ -39,7 +39,7 @@ The source of celestial ministry in the grand universe is the person of the Infi
 
 The Infinite Spirit is: The source of all mind; Personally conscious of every minded person in all of creation; The God of Action; The creator of a vast family of spiritual ministers 
 
-_The spirit personalities of the vast family of the Divine and Infinite Spirit are forever dedicated to the service of the ministry of the love of God and the mercy of the Son to all the intelligent creatures of the evolutionary worlds of time and space. These spirit beings constitute the living ladder whereby mortal man climbs from chaos to glory._ <a id="a41_352"></a>[[UB 9:8.17](/en/The_Urantia_Book/9#p8_17)] 
+> _The spirit personalities of the vast family of the Divine and Infinite Spirit are forever dedicated to the service of the ministry of the love of God and the mercy of the Son to all the intelligent creatures of the evolutionary worlds of time and space. These spirit beings constitute the living ladder whereby mortal man climbs from chaos to glory._ <a id="a41_352"></a>[[UB 9:8.25](/en/The_Urantia_Book/9#p8_25)] 
 
 For a few years during childhood, I fell into the habit of second-guessing God. For example, I wondered why my mother spent three days in the hospital to give birth to my brother, but the cat gave birth easily by herself out in the garage. If God really knew everything, why didn’t he know the jaw he made for me was too small for the number of teeth growing there? I suspected God wasn’t as smart as people made him out to be, and this suspicion laid me open to years of mental speculation about how I would run the universe if I were God. 
 
@@ -87,7 +87,7 @@ Before leaving the subject of origin, revisit the quote on <a id="a85_59"></a>[U
 
 ## Nature 
 
-_The universe of your origin is being forged out between the anvil of justice and the hammer of suffering; but those who wield the hammer are the children of mercy, the spirit offspring of the Infinite Spirit._ <a id="a89_211"></a>[[UB 9:1.8](/en/The_Urantia_Book/9#p1_8)] 
+> _The universe of your origin is being forged out between the anvil of justice and the hammer of suffering; but those who wield the hammer are the children of mercy, the spirit offspring of the Infinite Spirit._ <a id="a89_211"></a>[[UB 9:1.8](/en/The_Urantia_Book/9#p1_8)] 
 
 We are told that only good can come of our efforts to love and understand the angels. What kind of persons are these, the children of the Infinite Spirit, who have us in their watch care? 
 
