@@ -121,7 +121,7 @@ Para terminar, tengo que preguntarme qué dirán las futuras revelaciones de la 
 
 > Paula Thompson ha leído _El Libro de Urantia_ desde 1976 y ha participado regularmente en grupos de estudio desde 1977. Se desempeñó durante dieciséis años como directora de la Fundación Jesusonian y trabajó con Mo Siegel para crear www.Truthbook.com. Durante el último año, ha trabajado como directora de la beca desde una oficina en su casa cerca de Boulder, Colorado. Felizmente casada desde hace 24 años, tiene tres hijos y dos nietos.
 
-> La mente material del hombre mortal es el telar cósmico que contiene los tejidos morontiales sobre los cuales el Ajustador del Pensamiento interior entreteje las formas espirituales de un carácter universal compuesto de valores duraderos y de significados divinos —un alma sobreviviente con un destino último y una carrera sin fin, un finalitario potencial. <a id="a123_360"></a>[[LU 111:2.3](/es/The_Urantia_Book/111#p2_3)]
+> La mente material del hombre mortal es el telar cósmico que contiene los tejidos morontiales sobre los cuales el Ajustador del Pensamiento interior entreteje las formas espirituales de un carácter universal compuesto de valores duraderos y de significados divinos —un alma sobreviviente con un destino último y una carrera sin fin, un finalitario potencial. <a id="a123_360"></a>[[LU 111:2.2](/es/The_Urantia_Book/111#p2_2)]
 
 ## Referencias
 

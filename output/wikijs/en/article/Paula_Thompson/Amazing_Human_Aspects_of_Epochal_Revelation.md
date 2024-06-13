@@ -121,7 +121,7 @@ In closing, I have to wonder what future revelations of truth will say about the
 
 > Paula Thompson has read _The Urantia Book_ since 1976 and has participated regularly in study groups since 1977. She served for sixteen years as the Director of Jesusonian Foundation and worked with Mo Siegel to create www.Truthbook.com. For the last year she has worked as the Fellowship’s Director from an in-home office near Boulder, Colorado. Happily married for 24 years, she has three children and two grandchildren.
 
-> The material mind of mortal man is the cosmic loom that carries the Morontia fabrics on which the indwelling Thought Adjuster threads the spirit patterns of a universe character of enduring values and divine meanings—a surviving soul of ultimate destiny and unending career, a potential finaliter. <a id="a123_300"></a>[[UB 111:2.3](/en/The_Urantia_Book/111#p2_3)]
+> The material mind of mortal man is the cosmic loom that carries the Morontia fabrics on which the indwelling Thought Adjuster threads the spirit patterns of a universe character of enduring values and divine meanings—a surviving soul of ultimate destiny and unending career, a potential finaliter. <a id="a123_300"></a>[[UB 111:2.2](/en/The_Urantia_Book/111#p2_2)]
 
 ## References
 
