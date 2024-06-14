@@ -179,10 +179,6 @@ There is science to be discovered, cosmology to be propounded, and exciting even
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
-## Notes
-
-[^1] J S Bell 1964 _On the Einstein-Podolsky-Rosen paradox_. Physics 1 195-200; Andrew Steane 1997 Quantum Computing, Univerxity of Oxford Clarendon Laboratory, 1-65; R Y Chiao, P G Kwiat. and A M Steinberg 1995 Quantum NonLocality in Two-Photon Experiments at Berkeley, 1-16; A. Zeilinger, Apr 2000 Quantum Teleportation, Scientific American, 50-59.
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -203,3 +199,8 @@ There is science to be discovered, cosmology to be propounded, and exciting even
     </tbody>
   </table>
 </figure>
+
+
+## Notes
+
+[^1]: J S Bell 1964 _On the Einstein-Podolsky-Rosen paradox_. Physics 1 195-200; Andrew Steane 1997 Quantum Computing, Univerxity of Oxford Clarendon Laboratory, 1-65; R Y Chiao, P G Kwiat. and A M Steinberg 1995 Quantum NonLocality in Two-Photon Experiments at Berkeley, 1-16; A. Zeilinger, Apr 2000 Quantum Teleportation, Scientific American, 50-59.

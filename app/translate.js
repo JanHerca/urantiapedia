@@ -360,6 +360,7 @@ class GoogleTranslate {
 				line.startsWith('</p>') || line.trim() == '<br>' ||
 				line.trim() == '<br/>';
 			const isMathSep = line.startsWith('$$');
+			const isMathLine = line.startsWith('$$') && line.endsWith('$$');
 			const isQuote = line.startsWith('>');
 			const isBlock = line.startsWith('{.is-');
 			const isQuoteBlank = isQuote && line.length < 7;
@@ -419,9 +420,19 @@ class GoogleTranslate {
 				line_type = 'image';
 			}
 			//Check Math LaTeX block
-			insideMath = (!insideMath && isMathSep ? true :
-				(insideMath && isMathSep ? false : insideMath));
-			if (insideMath || isMathSep) {
+			insideMath = (
+				!insideMath && isMathSep && !isMathLine 
+					? true :
+					(insideMath && isMathSep && !isMathLine
+						? false 
+						: insideMath
+					)
+			);
+			if (insideMath || (isMathSep && !isMathLine)) {
+				ignore = true;
+				line_type = 'math';
+			}
+			if (isMathLine) {
 				ignore = true;
 				line_type = 'math';
 			}

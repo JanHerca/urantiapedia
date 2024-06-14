@@ -288,7 +288,7 @@ This prophecy points to a special focus for our efforts. This slumbering brother
 
 The Christian world is presently divided into many denominations, sects, and cults. The only hope of a unification of Christianity lies in a return to Jesus’ original gospel of the Fatherhood of God and the Brotherhood of man. This is also part of our work. By our exclusive focus on Jesus’ actual teachings we will supply the foundation for the unification of the various Christian churches. And as this revival of Jesus and his original gospel comes to Christianity, many believers will then join our efforts to bring this gospel to the world at large. According to _The Urantia Book_ this is the great hope of our world: 
 
-> **_The great hope of Urantia_** lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. <a id="a290_256"></a>[[UB 195:10.15](/en/The_Urantia_Book/195#p10_15)] (my bold) 
+> **_The great hope of Urantia_** lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. <a id="a290_256"></a>[[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)] (my bold) 
 
 ### The Gospel Of The Kingdom
 

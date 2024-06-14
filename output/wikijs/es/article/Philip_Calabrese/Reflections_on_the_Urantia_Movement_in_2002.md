@@ -179,10 +179,6 @@ Hay ciencia por descubrir, cosmología por proponer y emocionantes eventos por e
 
 - Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
-## Notas
-
-[^1] JS Bell 1964 _Sobre la paradoja de Einstein-Podolsky-Rosen_. Física 1 195-200; Andrew Steane 1997 Quantum Computing, Universidad de Oxford Clarendon Laboratory, 1-65; RY Chiao, PG Kwiat. y AM Steinberg 1995 Quantum NonLocality in Two-Photon Experiments at Berkeley, 1-16; A. Zeilinger, abril de 2000 Quantum Teleportation, Scientific American, 50-59.
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -203,3 +199,7 @@ Hay ciencia por descubrir, cosmología por proponer y emocionantes eventos por e
     </tbody>
   </table>
 </figure>
+
+## Notas
+
+[^1]: JS Bell 1964 _Sobre la paradoja de Einstein-Podolsky-Rosen_. Física 1 195-200; Andrew Steane 1997 Quantum Computing, Universidad de Oxford Clarendon Laboratory, 1-65; RY Chiao, PG Kwiat. y AM Steinberg 1995 Quantum NonLocality in Two-Photon Experiments at Berkeley, 1-16; A. Zeilinger, abril de 2000 Quantum Teleportation, Scientific American, 50-59.

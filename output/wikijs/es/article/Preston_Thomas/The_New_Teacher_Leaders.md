@@ -288,7 +288,7 @@ Esta profecía apunta a un enfoque especial para nuestros esfuerzos. Esta herman
 
 El mundo cristiano está actualmente dividido en muchas denominaciones, sectas y cultos. La única esperanza de una unificación del cristianismo radica en un retorno al evangelio original de Jesús de la Paternidad de Dios y la Hermandad del hombre. Esto también es parte de nuestro trabajo. Por nuestro enfoque exclusivo en las enseñanzas reales de Jesús, proporcionaremos la base para la unificación de las diversas iglesias cristianas. Y a medida que este renacimiento de Jesús y su evangelio original llegue al cristianismo, muchos creyentes se unirán a nuestros esfuerzos para llevar este evangelio al mundo en general. Según _El Libro de Urantia_ esta es la gran esperanza de nuestro mundo:
 
-> **_La gran esperanza de Urantia_** reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. <a id="a290_277"></a>[[LU 195:10.15](/es/The_Urantia_Book/195#p10_15)] (énfasis mío)
+> **_La gran esperanza de Urantia_** reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. <a id="a290_277"></a>[[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)] (énfasis mío)
 
 ### El Evangelio del Reino
 
