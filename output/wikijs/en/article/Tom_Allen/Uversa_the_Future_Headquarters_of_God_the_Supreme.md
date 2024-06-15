@@ -119,8 +119,10 @@ In the meantime, let us enjoy all the love and mercy lavishly bestowed upon us a
 
 When the grand universe is in light and life, the maximum finite completion of our divine Mother — the Supreme Being — will likely reign in loving power-personality synthesis from Uversa. NGC 2419 could very well eventually be Her finite home. 
 
-> Tom has been a believer in the teachings of the Urantia papers since 1973. He lives in Oklahoma City and is an adjunct professor of nursing at Oklahoma City University. As a philosopher, cosmology is a passion. He has published a book entitled <ins>The Great Debate on the Location of Orvonton</ins> available on Amazon.com, and has a Vimeo on this great debate at: https://vimeo.com/343356366. Tom gave a talk on this topic at the Scientific Symposium II sponsored in the fall of 2019 by Urantia Foundation. This is available in English at https://www.youtube.com/watch?v=Pv42QFIAxaI A French translation is available upon request. tommykaren1@gmail.com 
+> Tom has been a believer in the teachings of the Urantia papers since 1973. He lives in Oklahoma City and is an adjunct professor of nursing at Oklahoma City University. As a philosopher, cosmology is a passion. He has published a book entitled <ins>The Great Debate on the Location of Orvonton</ins> available on Amazon.com, and has a Vimeo on this great debate at: https://vimeo.com/343356366. Tom gave a talk on this topic at the Scientific Symposium II sponsored in the fall of 2019 by Urantia Foundation. This is available in English at the video below. A French translation is available upon request. tommykaren1@gmail.com 
 {.is-info}
+
+https://www.youtube.com/watch?v=Pv42QFIAxaI
 
 ## References
 

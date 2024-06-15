@@ -1,79 +1,89 @@
-# Tricks to fix converted texts
+# Tricks to fix converted texts to Markdown
 
 ## Replacements in VS Code
 
-### Steps in order for certain PDF conversions to text
+### After some PDF conversions to Markdown
 
-1. Replace hyphenation: `-\n` => `(blank)`
-2. Replace paragraph separators: `^\n` => `%%\n\n`
-3. Replace end lines not preceded by %: `(?<!%)\n` => `(one space)`
-4. Replace %%: `%%` => `\n`
-5. Replace spaces at beginning: `^[ ]+` => `(blank)`
+Description | Origin | Fix
+--- | --- | ---
+Replace hyphenation | `-\n` | `(blank)` | 
+Replace paragraph separators | `^\n` | `%%\n\n` | 
+Replace end lines not preceded by % | `(?<!%)\n` | `(one space)` | 
+Replace %% | `%%` | `\n` | 
+Replace spaces at beginning | `^[ ]+` | `(blank)` | 
 
-### Translation (with Google Translator) of Markdown articles to Spanish 
+### After translation with Google Translator of Markdown articles to Spanish 
 
-* Info blockquotes: 
-    * `{es-info}` => `{.is-info}`
-    * `{.es-info}` => `{.is-info}`
-* UB links:
-    * `[UB` => `[LU`
-    * `/en/` => `/es/`
-    * `/El_Libro_de_Urantia/ ` => `/The_Urantia_Book/`
-    * `/El_Libro_de_Urantia/` => `/The_Urantia_Book/`
-    * `/El Libro de Urantia/` => `/The_Urantia_Book/`
-    * `(\d)–(\d)` => `$1-$2` (do not apply this outside links)
-* `_El libro de Urantia_` => `_El Libro de Urantia_`
-* `. . .` => `...`
-* `Artículo obtenido de:` => `Artículo traducido. El original fue obtenido de:`
-* Images:
-    * `<figura` => `<figure`
-    * `="Figura` => `="Figure`
-    * `clase="` => `class="`
-    * `="imagen` => `="image`
-    * `</figura>` => `</figure>`
-* Quotes (see below in other replacements)
+Origin | Fix
+--- | ---
+Info blockquotes ||
+`{es-info}` | `{.is-info}`
+`{.es-info}` | `{.is-info}`
+UB links ||
+`[UB` | `[LU`
+`/en/` | `/es/`
+`/El_Libro_de_Urantia/ ` | `/The_Urantia_Book/`
+`/El_Libro_de_Urantia/` | `/The_Urantia_Book/`
+`/El Libro de Urantia/` | `/The_Urantia_Book/`
+`(\d)–(\d)` | `$1-$2` (do not apply this outside links)
+`_El libro de Urantia_` | `_El Libro de Urantia_`
+`. . .` | `...`
+`Artículo obtenido de:` | `Artículo traducido. El original fue obtenido de:`
+Images ||
+`<figura` | `<figure`
+`="Figura` | `="Figure`
+`clase="` | `class="`
+`="imagen` | `="image`
+`</figura>` | `</figure>`
 
-### Conversion of study aids
+Quotes (see below in other replacements)
 
-* Steps to convert Urantia Book links:
-    * `\[\(\d+.\d+\)` => `[UB`
-    * `https://www.urantia.org/urantia-book-standardized/paper-(\d+).+#U\d+_(\d+)_(\d+)` => `/en/The_Urantia_Book/$1#p$2_$3`
-    * `\[\([\d|:|\.|-]+\)*[ |\d|:|\.|-]+\]\(https://www.urantia.org/fr/le-livre-d-urantia/[\w|\d|-]+#U(\d+)_(\d+)_(\d+)\)` => `[LU $1:$2.$3](/fr/The_Urantia_Book/$1#p$2_$3)`
-* Steps to convert Bible links:
-    * `https://biblehub.com/niv` => `/en/Bible`
-    * `https://biblehub.com` => `/en/Bible`
-    * `/en/Bible/(\d)_(.)` => `/en/Bible/$1_\U$2`
-    * `/en/Bible/(.)` => `/en/Bible/\U$1`
-    * `(\d+)-(\d+).htm\)` => `$1#v$2)`
-* Other conversions:
-    * `> \*` => `*`
-    * `> \n` => `(empty)`
-    * `> (\d+)\\.` => `$1.`
-    * `> > ([a-zA-Z]).` => `\t- $1.`
-    * `\*\*REFERENCE\*\*:\[` => `**REFERENCE**: [`
-    * `^(.+) \*\*REFERENCE\*\*: \[(.+)\]\((.+)\) — (.+)` => `### $1 $2 — $4\n\n**REFERENCE**: [$2]($3) — $4`
-    * `\*\*(.+) (\d+):(\d+)\*\*.` => `**[$1 $2:$3](/en/Bible/$1/$2#v$3)**.`
-* Roman numerals as heading 3: `^((?=[XVI])(X{0,3})(I[XV]|V?I{0,3}))\.` => `### $1.`
-* Latin letters as heading 4: `^([A-Z])\.` => `#### $1.`
-* Old UB references: `\(\d+[.\d]*\)`
-* Steps for Spanish:
-  - * `^> \*\*COMENTARIOS\*\*` => `**COMENTARIOS**`
-  - * `^> \n` => `-nothing-`
-  - * `^> (\d+)\\. ` => `$1. `
-  - * `^> > \n` => `-nothing-`
-  - * `^> > > \n` => `-nothing-`
-  - * `^> > > > \n` => `-nothing-`
-  - * `^> > > > > \n` => `-nothing-`
-  - * `^> > > > > (.)` => `\t\t\t\t$1`
-  - * `^> > > > (.)` => `\t\t\t$1`
-  - * `^> > > (.)` => `\t\t$1`
-  - * `^> > (.)` => `\t$1`
-  - * `^(\d+)\\. ` => `$1. `
-  - * `\*\*COMENTARIOS\*\*\n` => `**COMENTARIOS**\n\n`
-  - * `^([^\.]+)\. \*\*REFERENCIA\*\*: \[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\) - “([^”]+)”` => `### $1. LU $4:$5.$6 — «$8»\n\n**REFERENCIA**: [LU $4:$5.$6](/es/The_Urantia_Book/$4#p$5_$6) — «$8»`
-  - * `^\t(\d+)\\\. ` => `\t$1. `
-  - * `^\t([A-Z])\. ` => `\t- $1. `
-  - * `\[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\)` => `[LU $3:$4.$5](/es/The_Urantia_Book/$3#p$4_$5)`
+### Conversion of Study Aids (from Urantia Foundation website)
+
+Origin | Fix
+--- | ---
+Steps to convert Urantia Book links ||
+`\[\(\d+.\d+\)` | `[UB`
+`https://www.urantia.org/urantia-book-standardized/paper-(\d+).+#U\d+_(\d+)_(\d+)` | `/en/The_Urantia_Book/$1#p$2_$3`
+`\[\([\d|:|\.|-]+\)*[ |\d|:|\.|-]+\]\(https://www.urantia.org/fr/le-livre-d-urantia/[\w|\d|-]+#U(\d+)_(\d+)_(\d+)\)` | `[LU $1:$2.$3](/fr/The_Urantia_Book/$1#p$2_$3)`
+Steps to convert Bible links ||
+`https://biblehub.com/niv` | `/en/Bible`
+`https://biblehub.com` | `/en/Bible`
+`/en/Bible/(\d)_(.)` | `/en/Bible/$1_\U$2`
+`/en/Bible/(.)` | `/en/Bible/\U$1`
+`(\d+)-(\d+).htm\)` | `$1#v$2)`
+Other conversions ||
+`> \*` | `*`
+`> \n` | `(empty)`
+`> (\d+)\\.` | `$1.`
+`> > ([a-zA-Z]).` | `\t- $1.`
+`\*\*REFERENCE\*\*:\[` | `**REFERENCE**: [`
+`^(.+) \*\*REFERENCE\*\*: \[(.+)\]\((.+)\) — (.+)` | `### $1 $2 — $4\n\n**REFERENCE**: [$2]($3) — $4`
+`\*\*(.+) (\d+):(\d+)\*\*.` | `**[$1 $2:$3](/en/Bible/$1/$2#v$3)**.`
+Roman numerals as heading 3 ||
+`^((?=[XVI])(X{0,3})(I[XV]|V?I{0,3}))\.` | `### $1.`
+Latin letters as heading 4 ||
+`^([A-Z])\.` | `#### $1.`
+Old UB references ||
+`\(\d+[.\d]*\)`
+Steps for Spanish ||
+`^> \*\*COMENTARIOS\*\*` | `**COMENTARIOS**`
+`^> \n` | `-nothing-`
+`^> (\d+)\\. ` | `$1. `
+`^> > \n` | `-nothing-`
+`^> > > \n` | `-nothing-`
+`^> > > > \n` | `-nothing-`
+`^> > > > > \n` | `-nothing-`
+`^> > > > > (.)` | `\t\t\t\t$1`
+`^> > > > (.)` | `\t\t\t$1`
+`^> > > (.)` | `\t\t$1`
+`^> > (.)` | `\t$1`
+`^(\d+)\\. ` | `$1. `
+`\*\*COMENTARIOS\*\*\n` | `**COMENTARIOS**\n\n`
+`^([^\.]+)\. \*\*REFERENCIA\*\*: \[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\) - “([^”]+)”` | `### $1. LU $4:$5.$6 — «$8»\n\n**REFERENCIA**: [LU $4:$5.$6](/es/The_Urantia_Book/$4#p$5_$6) — «$8»`
+`^\t(\d+)\\\. ` | `\t$1. `
+`^\t([A-Z])\. ` | `\t- $1. `
+`\[\((\d+).(\d+)\) (\d+):(\d+)\.(\d+)\]\(https://www\.urantia\.org([^\)]+)\)` | `[LU $3:$4.$5](/es/The_Urantia_Book/$3#p$4_$5)`
 
 ### LaTeX
 
@@ -94,35 +104,43 @@ LaTeX | Markdown
 
 ### Other replacements
 
-* Replace english plain quotes with curly ones: `"([^"]*)"` => `“$1”` or `'([^']*)'` => `‘$1’`
-* Replace english curly quotes with spanish angular ones: `“([^”]*)”` => `«$1»`
-* Replace spanish plain quotes with angular ones: `"([^"]*)"` => `«$1»`
-* HTML links to Markdown links: `<a href="(.+)">(.+)</a>` => `[$2]($1)`
-* Urantia references to links
-    - `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or 
-    - `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]` or 
-    - `(\d{1,3}):(\d{1,2})\.(\d{1,3}), \d{1,4}\.\d{1,2}` or
-    - `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})` => 
-    - `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)` or 
-    - `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
-    - `\\\[Paper (\d+):(\d+)\.(\d+)(.+)\\\]`
-    - `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
-* Bible references to links: `Gn (\d{1,2}):(\d{1,2})` => `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
-* Bible references that are not already converted to links (better option)
-    - `(?<!\[)I Cor. (\d{1,2}):(\d{1,2})` => `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
-    - `(?<!\[)(\d+):(\d+)([-|,])?(\d+)?` => `[$1:$2$3$4](/en/Bible/Hebrews/$1#v$2)`
-* Bible references to links: `Luke (\d+):(\d+)-(\d+:?\d+)` => `[Luke $1:$2-$3](/en/Bible/Luke/$1#v$2)`
-* Change quotes inside other quotes: `("[^"]*)(")([^"]*)(")([^"]*")` => `$1“$3”$5`
-* Remove duplicate lines (requires a previous sorting, see below): `^(.*)(\n\1)+$` => `$1`
-* `í` => `’`
-* `ñ` => `C`
-* `ì` => `“`
-* `î` => `”`
-* `„  ”`
-* Search end of sentences: [\.”\?!] 
-* Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
-* Search existing old UB refs: `\(\d{1,4}(\.\d{1,2})?\)`
-* Search existing new UB refs: `(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?`
+Origin | Fix
+--- | --- 
+Replace english plain quotes with curly ones ||
+`"([^"]*)"` | `“$1”`
+`'([^']*)'` | `‘$1’`
+Replace english curly quotes with spanish angular ones ||
+`“([^”]*)”` | `«$1»`
+Replace spanish plain quotes with angular ones ||
+`"([^"]*)"` | `«$1»`
+HTML links to Markdown links ||
+`<a href="(.+)">(.+)</a>` | `[$2]($1)`
+Urantia references to links ||
+`\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or<br> `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]` or<br> `(\d{1,3}):(\d{1,2})\.(\d{1,3}), \d{1,4}\.\d{1,2}` or<br> `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)` or<br> `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
+`\\\[Paper (\d+):(\d+)\.(\d+)(.+)\\\]` | `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
+Bible references to links ||
+`Gn (\d{1,2}):(\d{1,2})` | `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+Bible references that are not already converted to links (better option) ||
+`(?<!\[)I Cor. (\d{1,2}):(\d{1,2})` | `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+`(?<!\[)(\d+):(\d+)([-|,])?(\d+)?` | `[$1:$2$3$4](/en/Bible/Hebrews/$1#v$2)`
+Bible references to links ||
+`Luke (\d+):(\d+)-(\d+:?\d+)` | `[Luke $1:$2-$3](/en/Bible/Luke/$1#v$2)`
+Change quotes inside other quotes ||
+`("[^"]*)(")([^"]*)(")([^"]*")` | `$1“$3”$5`
+Remove duplicate lines (requires a previous sorting, see below) ||
+`^(.*)(\n\1)+$` | `$1`
+`í` | `’`
+`ñ` | `C`
+`ì` | `“`
+`î` | `”` or `„  ”`
+Search end of sentences ||
+`[\.”\?!]` | &nbsp;
+Search by page ref ||
+`"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes` | &nbsp;
+Search existing old UB refs ||
+`\(\d{1,4}(\.\d{1,2})?\)` | &nbsp;
+Search existing new UB refs ||
+`(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?` | &nbsp;
 
 ## VS Code tricks
 
@@ -207,7 +225,9 @@ Unfortunately Pandoc cannot convert from pdf, only uses pdf as output.
 * Split pdf in several files by size: https://deftpdf.com/split-pdf-by-size
 * Scan books: see HOWTO_scan_books
 
-## Sample of Markdown article header
+## Snippets
+
+### Sample of Markdown article header
 
 ```
 ---
@@ -226,24 +246,38 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
-## Sample of Markdown image
+### Sample of Markdown image
 
+```html
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton/image02.png">
 <figcaption><em> Mt Shasta, Mt Shasta, California.</em></figcaption>
 </figure>
+```
 
 image-style-align-right
 
 How to preview images in a Markdown: replace `src="/image` with `src="../../../output/wikijs/image` using as many `../` as needed. Do not forget to remove later.
 
+### Sample to clear floating
+
+```html
 <br style="clear:both;"/>
+```
 
+### Sample to center text (for example, a poem)
+
+```html
 <p style="text-align:center;">
+```
 
-### Markdown images to HTML
+### Convert Markdown images to HTML
 
-`!\[(.+)\]\((.+) "(.+)"\)` =>
+Replace this:
+
+`!\[(.+)\]\((.+) "(.+)"\)`
+
+with this:
 
 ```html
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="$1">
@@ -252,7 +286,11 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 </figure>
 ```
 
-`!\[(.+)\]\((.+)\)` => 
+Replace this:
+
+`!\[(.+)\]\((.+)\)`
+
+with this:
 
 ```html
 <figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="$1">
@@ -260,7 +298,11 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 </figure>
 ```
 
-`!\[\]\((.+)\)` =>
+Replace this:
+
+`!\[\]\((.+)\)`
+
+with this:
 
 ```html
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -270,31 +312,33 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 
 ## Emojis
 
-- The Urantia Book :blue_book:
-- The Bible :closed_book:
-- The Biblical Apocrypha :green_book:
-- Sacred books of other religions :orange_book:
-- Scientific and philosophical books :books:
-- Articles :page_with_curl:
-- Study Aids :notebook:
-- Books from readers :notebook_with_decorative_cover:
-- Schemas :memo:
-- Indexes :capital_abcd:
-- Paramony :ledger:
-- Topical Encyclopedia :card_index:
-- Audio :sound:
-- Images :sunrise_over_mountains:
-- Maps (static) :globe_with_meridians:
-- Maps (dynamic) :earth_americas:
-- Presentations :bar_chart:
-- 3D models :milky_way:
-- Video :movie_camera:
-- Help :grey_question:
-- Authors :woman_technologist:
-- News :newspaper:
-- Legal info :copyright:
-- Colaboration :blue_heart:
-- Statistics :chart_with_upwards_trend:
+- The Urantia Book :blue_book: (`:blue_book:`)
+- The Bible :closed_book: (`:closed_book:`)
+- The Biblical Apocrypha :green_book: (`:green_book:`)
+- Sacred books of other religions :orange_book: (`:orange_book:`)
+- Scientific and philosophical books :books: (`:books:`)
+- Articles :page_with_curl: (`:page_with_curl:`)
+- Study Aids :notebook: (`:notebook:`)
+- Books from readers :notebook_with_decorative_cover: (`:notebook_with_decorative_cover:`)
+- Schemas :memo: (`:memo:`)
+- Indexes :capital_abcd: (`:capital_abcd:`)
+- Paramony :ledger: (`:ledger:`)
+- Topical Encyclopedia :card_index: (`:card_index:`)
+- Audio :sound: (`:sound:`)
+- Images :sunrise_over_mountains: (`:sunrise_over_mountains:`)
+- Maps (static) :globe_with_meridians: (`:globe_with_meridians:`)
+- Maps (dynamic) :earth_americas: (`:earth_americas:`)
+- Presentations :bar_chart: (`:bar_chart:`)
+- 3D models :milky_way: (`:milky_way:`)
+- Video :movie_camera: (`:movie_camera:`)
+- Help :grey_question: (`:grey_question:`)
+- Authors :woman_technologist: (`:woman_technologist:`)
+- News :newspaper: (`:newspaper:`)
+- Legal info :copyright: (`:copyright:`)
+- Colaboration :blue_heart: (`:blue_heart:`)
+- Statistics :chart_with_upwards_trend: (`:chart_with_upwards_trend:`)
+
+Full list of supported emojis in Markdown: https://gist.github.com/rxaviers/7360908
 
 ## Google Translator common fails
 

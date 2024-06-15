@@ -119,8 +119,10 @@ Mientras tanto, disfrutemos de todo el amor y la misericordia generosamente otor
 
 Cuando el gran universo esté en luz y vida, la máxima realización finita de nuestra Madre divina, el Ser Supremo, probablemente reinará en la síntesis amorosa de poder y personalidad de Uversa. NGC 2419 podría muy bien ser eventualmente Su hogar finito.
 
-> Tom cree en las enseñanzas de los documentos de Urantia desde 1973. Vive en la ciudad de Oklahoma y es profesor adjunto de enfermería en la Universidad de la ciudad de Oklahoma. Como filósofo, la cosmología es una pasión. Ha publicado un libro titulado <ins>El gran debate sobre la ubicación de Orvonton</ins> disponible en Amazon.com, y tiene un Vimeo sobre este gran debate en: https://vimeo.com/343356366. Tom dio una charla sobre este tema en el Simposio Científico II patrocinado en el otoño de 2019 por la Fundación Urantia. Esto está disponible en inglés en https://www.youtube.com/watch?v=Pv42QFIAxaI Una traducción al francés está disponible a pedido. tommykaren1@gmail.com
+> Tom cree en las enseñanzas de los documentos de Urantia desde 1973. Vive en la ciudad de Oklahoma y es profesor adjunto de enfermería en la Universidad de la ciudad de Oklahoma. Como filósofo, la cosmología es una pasión. Ha publicado un libro titulado <ins>El gran debate sobre la ubicación de Orvonton</ins> disponible en Amazon.com, y tiene un Vimeo sobre este gran debate en: https://vimeo.com/343356366. Tom dio una charla sobre este tema en el Simposio Científico II patrocinado en el otoño de 2019 por la Fundación Urantia. Esto está disponible en inglés en el vídeo de abajo. Una traducción al francés está disponible a pedido. tommykaren1@gmail.com
 {.is-info}
+
+https://www.youtube.com/watch?v=Pv42QFIAxaI
 
 ## Referencias
 

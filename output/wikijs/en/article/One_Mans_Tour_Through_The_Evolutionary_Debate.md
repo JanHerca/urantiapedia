@@ -635,4 +635,4 @@ Increasingly, in modern civilization authority on matters of Truth is assessed t
 
 Note: Further quotes of Richard Dawkins can be found at: http://www.positiveatheism.org/hist/quotes/dawkins.htm and on Wikipedia page: http://en.wikipedia.org/wiki/Richard_Dawson 
 
-> “Self-importance, not word-importance, exhausts immature creatures; it is the self element that exhausts, not the effort to achieve. You can do important work if you do not become self-important; you can do several things as easily as one if you leave yourself out. ” <a id="a637_270"></a>[[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)] 
+> “Self-importance, not word-importance, exhausts immature creatures; it is the self element that exhausts, not the effort to achieve. You can do important work if you do not become self-important; you can do several things as easily as one if you leave yourself out. ” <a id="a637_270"></a>[[UB 48:6.37](/en/The_Urantia_Book/48#p6_37)] 

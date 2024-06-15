@@ -337,31 +337,12 @@ Mientras estaban frente a la cámara durante la expedición en 2006, Sarmast y L
 
 Los planes para la tercera expedición incluyen muchos estudios adicionales de barrido lateral y PAS. También debería implicar sondear el área con un dispositivo de extracción de muestras para recuperar muestras debajo del sedimento y tal vez una visita con un submarino especializado. La búsqueda de posibles ruinas en el montículo tabular también debería estar bajo consideración para una expedición a este lugar. Los planes para una nueva expedición también podrían incluir un vehículo sumergible de operación remota (ROV) para examinar otros sitios en el Continente Hundido de Malovitskiy con equipos aún más sofisticados. Hasta ahora, esta ubicación parece ser la mejor apuesta para los mitos edénico-atlantes de antaño. Solo a través de futuras expediciones se validará de una vez por todas esta hipótesis sobre un tesoro arqueológico no descubierto de esta tierra mítica.
 
-## Referencias
-
-- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
-
-## Notas
-
-[^1] Sutcliffe, Theodora, «Cuando los neandertales nos reemplazaron», _Discover_ (junio de 2016), 64-66.
-
-[^2]: Salón, John K.; Kraseninnikov, Valerij A.; Hirsch, Francis; Benjamini, Chaim; Flexer, Akiva: _Introducción a la Parte III: Marco geológico del Levante_ (Servicio Geológico de Israel, 2005).
-
-[^3]: Ya'akov Petrovich Malovitskiy (1932-2002) es elogiado en _Ya'akov Malovitskiy, Scientist and Man_ (por GS Struzhnok) como un destacado geólogo de Rusia y la Unión Soviética que enriqueció nuestro conocimiento de la estructura interna de el planeta con experiencia en geofísica, oceanografía, mineralogía y otras disciplinas científicas. (Sociedad Geológica Rusa: _Geólogos en Rusia_, 25ª Edición, Moscú 2012, pp 340-351)
-
-[^4]: Sarmast, Robert, _El descubrimiento de la Atlántida: El sorprendente caso de la isla de Chipre_ (Origin Press 2003 y First Source Publications, 2006).
-
-[^5]: Cabe señalar que la solicitud de Sarmast utilizó coordenadas centradas en 34° 51' N, 35° 01' E para el área que quería estudiar.
-
-[^6]: El equipo científico en el R/V _Argonaut_ era el siguiente: La instrumentación consistía en la sonda Edgetech Full Spectrum combinada de barrido lateral/perfilador de fondo (profundidad nominal de 3000 metros) con un procesador chirp de espectro completo submarino, banda ancha barrido lateral de doble frecuencia (120/410 KHz), perfilador de subsuelo de banda ancha (2-16 KHz), con un respondedor de línea de base ultracorta (USBL) para localizar la posición del remolque. El procesamiento estaba inicialmente disponible con un sistema de adquisición de sonda Coda DA200 combinado con la interfaz Edgetech, pero se cambió al sistema «Discover» poco antes de zarpar. También estaba disponible un sistema de cámara de caída de aguas profundas DTS6000 que se utilizó en las últimas horas de la expedición.
-
-[^7]: La declaración se hace en el programa _Atlantis–New Revelations_, el documental de _The History Channel_ en la serie de Josh Bernstein: _Digging for the Truth_ (JWM Productions, 2006).
-
-[^8]: Donnelly Ignatius, Atlantis: The Antediluvian World (Nueva York, Harper & Brothers, 1882) p 330. Consulte http://www.sacred-texts.com/atl/ataw/index.htm para obtener una copia de dominio público .
-
 > **_Comodoro Robert Stanley Bates_** , (USMM), BS, MS El comodoro Bates se graduó en 1960 de la Academia de la Guardia Costera de los Estados Unidos y sirvió los siguientes 22 años como oficial de carrera que incluyó una gira en Vietnam. En 1969, obtuvo una maestría en matemáticas en la Universidad de Rhode Island. Al retirarse de la Guardia Costera en 1982, obtuvo su licencia de maestría ilimitada y comenzó una segunda carrera en la Marina Mercante de EE. UU. Participó en la Guerra Fría como capitán de buques de vigilancia oceánica y capitán de un barco de inspección durante la Operación Tormenta del Desierto en el Golfo Pérsico. Durante los siguientes nueve años, se desempeñó como capitán a bordo del R/V ENDEAVOR de la Universidad de Rhode Island y del Instituto Oceanográfico Woods Hole R/V OCEANUS para numerosos proyectos submarinos. Entre giras en el mar, sirvió en la facultad adjunta en la Universidad de Connecticut, Campus Avery Point, la Academia de la Guardia Costera de los Estados Unidos y el Centro STAR en Florida. En 2004, fue el líder de la expedición al presunto sitio de la Atlántida en la costa de Chipre. En 2006 fue consultor de _The History Channel_ para la segunda expedición. Desde 1988 es autor de numerosos artículos en diversas publicaciones periódicas. En 1995, fundó Batek Marine, una firma de consultoría marítima. En 2011, publicó el libro: _The Authority to Sail: The History of US Maritime Licenses and Documents_. Para obtener más información sobre su trabajo en el Proyecto Eden-Atlantis, visite: http://edenatlantisproject.org/.
 {.is-info}
 
+## Referencias
+
+- Artículo traducido. El original fue obtenido del [sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 <figure class="table chapter-navigator">
   <table>
@@ -383,3 +364,23 @@ Los planes para la tercera expedición incluyen muchos estudios adicionales de b
     </tbody>
   </table>
 </figure>
+
+## Notas
+
+[^1]: Sutcliffe, Theodora, «Cuando los neandertales nos reemplazaron», _Discover_ (junio de 2016), 64-66.
+
+[^2]: Salón, John K.; Kraseninnikov, Valerij A.; Hirsch, Francis; Benjamini, Chaim; Flexer, Akiva: _Introducción a la Parte III: Marco geológico del Levante_ (Servicio Geológico de Israel, 2005).
+
+[^3]: Ya'akov Petrovich Malovitskiy (1932-2002) es elogiado en _Ya'akov Malovitskiy, Scientist and Man_ (por GS Struzhnok) como un destacado geólogo de Rusia y la Unión Soviética que enriqueció nuestro conocimiento de la estructura interna de el planeta con experiencia en geofísica, oceanografía, mineralogía y otras disciplinas científicas. (Sociedad Geológica Rusa: _Geólogos en Rusia_, 25ª Edición, Moscú 2012, pp 340-351)
+
+[^4]: Sarmast, Robert, _El descubrimiento de la Atlántida: El sorprendente caso de la isla de Chipre_ (Origin Press 2003 y First Source Publications, 2006).
+
+[^5]: Cabe señalar que la solicitud de Sarmast utilizó coordenadas centradas en 34° 51' N, 35° 01' E para el área que quería estudiar.
+
+[^6]: El equipo científico en el R/V _Argonaut_ era el siguiente: La instrumentación consistía en la sonda Edgetech Full Spectrum combinada de barrido lateral/perfilador de fondo (profundidad nominal de 3000 metros) con un procesador chirp de espectro completo submarino, banda ancha barrido lateral de doble frecuencia (120/410 KHz), perfilador de subsuelo de banda ancha (2-16 KHz), con un respondedor de línea de base ultracorta (USBL) para localizar la posición del remolque. El procesamiento estaba inicialmente disponible con un sistema de adquisición de sonda Coda DA200 combinado con la interfaz Edgetech, pero se cambió al sistema «Discover» poco antes de zarpar. También estaba disponible un sistema de cámara de caída de aguas profundas DTS6000 que se utilizó en las últimas horas de la expedición.
+
+[^7]: La declaración se hace en el programa _Atlantis–New Revelations_, el documental de _The History Channel_ en la serie de Josh Bernstein: _Digging for the Truth_ (JWM Productions, 2006).
+
+[^8]: Donnelly Ignatius, Atlantis: The Antediluvian World (Nueva York, Harper & Brothers, 1882) p 330. Consulte http://www.sacred-texts.com/atl/ataw/index.htm para obtener una copia de dominio público .
+
+

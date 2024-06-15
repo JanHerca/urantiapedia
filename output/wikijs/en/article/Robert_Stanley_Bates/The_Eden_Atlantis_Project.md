@@ -335,33 +335,14 @@ Much to his credit, Robert Sarmast did initiate two elaborate expeditions and di
 
 While on camera during the expedition in 2006, Sarmast and Lowry, unfortunately, were unable to make the case for the man-made remains of an extraordinary civilization. The analysis in this essay, taken together with the literary work of Sarmast and others, is intended to close that gap by giving a revised and more accurate geophysical study of Malovitskiy’s Sunken Continent. It is amazing that humankind’s picture of this civilization shows up in stories that are thousands of years apart and in civilizations that span the globe: _Enki and the World Order_ (over 5,000 years ago), _Vishnu Purana_, a Sanskrit text (over 4,000 years ago), Moses’ story in the Bible (over 3,400 years ago), Plato’s story of Atlantis as received from Solon (over 2,400 years ago), Manetho of Sebennytos translated Egyptian king’s list (2,250 years ago), Ignatius Donnelly’s _Atlantis: The Antediluvian World_ (120 years ago), and _The Urantia Book_ (63 years ago). Yet, this essay only scratches the surface of the evidence we now have of relatively advanced prehistoric cultures. 
 
-Plans for the third expedition include many additional side-scan and SBP surveys. It should also involve probing the area with a coring device to retrieve samples below the silt, and maybe a visit with a specialized submarine. The search for possible ruins on the tabular mound should also be under consideration for an expedition to this place. The plans for a new expedition also could include a submersible remote operating vehicle (ROV) to examine other sites on Malovitskiy’s Sunken Continent with even more sophisticated equipment. So far, this location seems to be the best bet for the Edenic-Atlantean myths of old. Only through future expeditions will this hypothesis about an undiscovered archaeological treasure trove of this mythical land be validated, once and for all.  
-
-## References
-
-- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
-
-## Notes
-
-[^1] Sutcliffe, Theodora, “When Neanderthals Replaced Us,” _Discover_ (June 2016), 64-66. 
-
-[^2]: Hall, John K.; Krašeninnikov, Valerij A.; Hirsch, Francis; Benjamini, Chaim; Flexer, Akiva: _Introduction to Part III–Geological Framework of the Levant_ (Geological Survey Of Israel, 2005). 
-
-[^3]: Ya’akov Petrovitch Malovitskiy (1932–2002) is eulogized in _Ya’akov Malovitskiy, Scientist and Man_ (by G. S. Struzhnok) as a remarkable geologist of Russia and the Soviet Union who enriched our knowledge of the inner structure of the planet with expertise in geophysics, oceanography, mineralogy and other scientific disciplines. (Russian Geological Society: _Geologists in Russia_, 25th Edition, Moscow 2012, pp 340-351) 
-
-[^4]: Sarmast, Robert, _The Discovery of Atlantis: The Startling Case for the Island of Cyprus_ (Origin Press 2003, and First Source Publications, 2006). 
-
-[^5]: It should be note that Sarmast’s request used coordinates centered at 34° 51’ N, 35° 01’ E for the area he wanted to study. 
-
-[^6]: The scientific equipment on R/V _Argonaut_ was as follows: The instrumentation consisted of the Edgetech Full Spectrum combined side-scan sonar/sub-bottom profiler (3,000 meter depth rated) with underwater full spectrum chirp processor, wide band dual frequency side-scan (120/410 KHz), wideband sub-bottom profiler (2-16KHz), with an Ultra Short Base Line (USBL) responder to locate the position of the towfish. Processing was initially available with a Coda DA200 Sonar Acquisition System combined with the Edgetech Interface, but was changed to the “Discover” system shortly before sailing. Also available was a DTS6000 deep-water drop camera system which was used in the last hours of the expedition. 
-
-[^7]: The statement is made in the program _Atlantis–New Revelations_, _The History Channel_ documentary in Josh Bernstein’s series: _Digging for the Truth_ (JWM Productions, 2006). 
-
-[^8]: Donnelly Ignatius, Atlantis: The Antediluvian World (New York, Harper & Brothers, 1882) p 330. See http://www.sacred-texts.com/atl/ataw/index.htm for Public Domain copy. 
+Plans for the third expedition include many additional side-scan and SBP surveys. It should also involve probing the area with a coring device to retrieve samples below the silt, and maybe a visit with a specialized submarine. The search for possible ruins on the tabular mound should also be under consideration for an expedition to this place. The plans for a new expedition also could include a submersible remote operating vehicle (ROV) to examine other sites on Malovitskiy’s Sunken Continent with even more sophisticated equipment. So far, this location seems to be the best bet for the Edenic-Atlantean myths of old. Only through future expeditions will this hypothesis about an undiscovered archaeological treasure trove of this mythical land be validated, once and for all.
 
 > **_Commodore Robert Stanley Bates_** , (USMM), BS, MS Commodore Bates is a 1960 graduate from the United States Coast Guard Academy and served the next 22 years as a career officer which included a tour in Vietnam. In 1969, he earned a masters degree in mathematics at the University of Rhode Island. Upon retirement from the Coast Guard in 1982, he sat for his unlimited master’s license and commenced a second career in the U .S. Merchant Marine. He participated in the Cold War as captain on Ocean Surveillance Vessels and captain on a survey ship during Operation Desert Storm in the Persian Gulf. During the following nine years, he served as captain on board the University of Rhode Island R/V ENDEAVOR and the Woods Hole Oceanographic Institute R/V OCEANUS for numerous sub-sea projects. Between tours at sea, he served on the adjunct faculty at the University of Connecticut, Avery Point Campus, the United States Coast Guard Academy and the STAR Center in Florida. In 2004, he was the expedition leader to the suspected site of Atlantis off the coast of Cyprus. In 2006 he was the consultant to _The History Channel_ for the second expedition. Since 1988 he has authored numerous articles in a variety of periodicals. In 1995, he founded Batek Marine, a maritime consulting firm. In 2011, he published the book: _The Authority to Sail: The History of US Maritime Licenses and Documents_. For more about his work on the Eden-Atlantis Project, go to: http://edenatlantisproject.org/.
 {.is-info}
 
+## References
+
+- Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
 
 
 <figure class="table chapter-navigator">
@@ -384,3 +365,22 @@ Plans for the third expedition include many additional side-scan and SBP surveys
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: Sutcliffe, Theodora, “When Neanderthals Replaced Us,” _Discover_ (June 2016), 64-66. 
+
+[^2]: Hall, John K.; Krašeninnikov, Valerij A.; Hirsch, Francis; Benjamini, Chaim; Flexer, Akiva: _Introduction to Part III–Geological Framework of the Levant_ (Geological Survey Of Israel, 2005). 
+
+[^3]: Ya’akov Petrovitch Malovitskiy (1932–2002) is eulogized in _Ya’akov Malovitskiy, Scientist and Man_ (by G. S. Struzhnok) as a remarkable geologist of Russia and the Soviet Union who enriched our knowledge of the inner structure of the planet with expertise in geophysics, oceanography, mineralogy and other scientific disciplines. (Russian Geological Society: _Geologists in Russia_, 25th Edition, Moscow 2012, pp 340-351) 
+
+[^4]: Sarmast, Robert, _The Discovery of Atlantis: The Startling Case for the Island of Cyprus_ (Origin Press 2003, and First Source Publications, 2006). 
+
+[^5]: It should be note that Sarmast’s request used coordinates centered at 34° 51’ N, 35° 01’ E for the area he wanted to study. 
+
+[^6]: The scientific equipment on R/V _Argonaut_ was as follows: The instrumentation consisted of the Edgetech Full Spectrum combined side-scan sonar/sub-bottom profiler (3,000 meter depth rated) with underwater full spectrum chirp processor, wide band dual frequency side-scan (120/410 KHz), wideband sub-bottom profiler (2-16KHz), with an Ultra Short Base Line (USBL) responder to locate the position of the towfish. Processing was initially available with a Coda DA200 Sonar Acquisition System combined with the Edgetech Interface, but was changed to the “Discover” system shortly before sailing. Also available was a DTS6000 deep-water drop camera system which was used in the last hours of the expedition. 
+
+[^7]: The statement is made in the program _Atlantis–New Revelations_, _The History Channel_ documentary in Josh Bernstein’s series: _Digging for the Truth_ (JWM Productions, 2006). 
+
+[^8]: Donnelly Ignatius, Atlantis: The Antediluvian World (New York, Harper & Brothers, 1882) p 330. See http://www.sacred-texts.com/atl/ataw/index.htm for Public Domain copy. 
+

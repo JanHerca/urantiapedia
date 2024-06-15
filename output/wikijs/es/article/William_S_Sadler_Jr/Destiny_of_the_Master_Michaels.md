@@ -98,7 +98,7 @@ Los documentos especulan que se convertirá en residente personal en Uversa de O
 
 Hay un principio interesante que siguen. Es como las siete razas de colores en la tierra: quieren que se separen y desarrollen sus propias culturas. Y luego, cuando han sido mejorados con la sangre de Adán, los unen. Están haciendo lo mismo con los superuniversos, ¿no es así?
 
-Hay muy pocos seres que pueden ir directamente de un superuniverso a otro. Muy pocos. El gran universo perfeccionado de esos días futuros será muy diferente de lo que es en la actualidad.<a id="a100_187"></a>[[LU 117:7.17](/es/The_Urantia_Book/117#p7_17)]
+Hay muy pocos seres que pueden ir directamente de un superuniverso a otro. Muy pocos. El gran universo perfeccionado de esos días futuros será muy diferente de lo que es en la actualidad.
 
 > ¡Los universos del tiempo habrán logrado realizar su destino finito! Y quizás habrá descanso durante un espacio de tiempo, una disminución de la lucha secular por conseguir la perfección evolutiva. ¡Pero no será por mucho tiempo! El enigma de la Deidad emergente de Dios Último desafiará de manera cierta, segura e inexorable a estos ciudadanos perfeccionados de los universos estabilizados, al igual que la búsqueda de Dios Supremo desafió en otro tiempo a sus antepasados luchadores y evolutivos. La cortina del destino cósmico se descorrerá para revelar la grandeza trascendente de la atractiva búsqueda absonita para alcanzar al Padre Universal en los niveles nuevos y superiores donde se revela el aspecto último de la experiencia de las criaturas._ <a id="a102_757"></a>[[LU 117:7.17](/es/The_Urantia_Book/117#p7_17)]
 

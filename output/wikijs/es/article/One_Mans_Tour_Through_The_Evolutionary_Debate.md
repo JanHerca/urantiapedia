@@ -637,7 +637,7 @@ En la civilización moderna, se estima cada vez más que la autoridad en los asu
 Nota: Se pueden encontrar más citas de Richard Dawkins en : http://www.positiveatheism.org/hist/quotes/dawkins.htm y en la Wikipedia en http://en.wikipedia.org/wiki/Richard_Dawson.
 
 
-> La auto-importancia, no la trabajo-importancia, agota a las criaturas inmaduras; es el elemento yo lo que agota, no el esfuerzo por conseguir. Podéis hacer un trabajo importante si no os convertís en autoimportantes; podéis hacer varias cosas tan fácilmente como una sola si dejáis vuestro yo fuera. <a id="a639_302"></a>[[LU 48:6.26](/es/The_Urantia_Book/48#p6_26)] 
+> La auto-importancia, no la trabajo-importancia, agota a las criaturas inmaduras; es el elemento yo lo que agota, no el esfuerzo por conseguir. Podéis hacer un trabajo importante si no os convertís en autoimportantes; podéis hacer varias cosas tan fácilmente como una sola si dejáis vuestro yo fuera. <a id="a639_302"></a>[[LU 48:6.37](/es/The_Urantia_Book/48#p6_37)] 
 
 
 
