@@ -16,8 +16,6 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 _by Neal Waldrop_
 
-Almost everyonewho encounters the fifth epochal revelation (_The Urantia Book_) and who finds the teachings moving and inspiring desires to share them with other human beings and help them experience the
-
 Almost everyone who encounters the fifth epochal revelation (_The Urantia Book_) and who finds the teachings moving and inspiring desires to share them with other human beings and help them experience the same spiritual benefits. This is entirely natural, and I reacted that way myself. On the other hand, immediate personal efforts along such lines almost invariably prove disappointing, and that was certainly what happened to me.
 
 Over the next ten years or so, I eventually came to believe that the key criterion to someone being open to the ideas in the revelation is whether or not the other person is relatively dissatisfied with his or her existing approaches to spirituality and his or her philosophic side of life—the question of whether or not he or she is really searching for more advanced levels of understanding and belief, even if the person concerned is not fully aware of this search and is not pursuing it consciously and deliberately.
