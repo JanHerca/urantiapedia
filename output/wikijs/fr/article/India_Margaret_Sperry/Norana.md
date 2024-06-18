@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 India Margaret Sperry<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 India Margaret Sperry<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 L’épisode Norana est un joyau d’histoire et pourrait être comparé à une pièce dramatique en un acte. Norana et Jesus sont les stars avec les autres comme joueurs de soutien.

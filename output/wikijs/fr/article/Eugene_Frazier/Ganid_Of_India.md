@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 Eugene Frazier<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Eugene Frazier<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Les étudiants du _Livre d'URANTIA_ connaissent bien les formes nombreuses et variées d'énergie spirituelle que le Père a fournies pour qu'un jour nous puissions le connaître et lui ressembler. L'un des points les plus inspirants pour ce lecteur a été la description de ces mortels héroïques d'Urantia qui ont osé vivre dans la foi comme des fils et des filles du Père.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 C. L. Van Sant<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 C. L. Van Sant<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 > « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, créée conjointement par le mental humain ..._ » ([LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))

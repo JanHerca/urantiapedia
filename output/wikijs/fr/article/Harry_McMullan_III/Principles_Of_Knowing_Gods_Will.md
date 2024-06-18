@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1981 Harry McMullan III<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Harry McMullan III<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Les navires et les avions qui traversent les continents et les océans disposent de systèmes de guidage très sophistiqués pour les aider à arriver à destination. Ces systèmes permettent au pilote d'effectuer des corrections de cap totalement sans référence aux objets terrestres. La plupart d’entre eux fonctionnent avec des gyroscopes ; il existe des systèmes de guidage inertiel, des systèmes de guidage Doppler et des systèmes de guidage stellaire. Quelle que soit leur conception, le but de ces systèmes est de maintenir le cap du navire.

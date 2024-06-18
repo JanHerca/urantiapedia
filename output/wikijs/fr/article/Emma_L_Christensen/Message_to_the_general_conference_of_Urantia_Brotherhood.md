@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1975 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1975 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Salutations aux Soldats des Cercles ! Cette désignation nous a été appliquée parce que nous sommes les hommes et les femmes qui ont été appelés à faire les premiers pas pour offrir une nouvelle lumière à une Église frustrée et à un monde distrait. Nous sommes la première lumière depuis près de 2 000 ans à éclairer le chemin de la délivrance du chaos, de la confusion et des ténèbres du dilemme planétaire actuel.

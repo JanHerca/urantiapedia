@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1989 Hannu Jarvinen<br>© 1989 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Hannu Jarvinen<br>© 1989 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
 
 
 J'ai eu l'idée de cette conférence dans un livre de Voitto Viro. J'ai été profondément touché par le livre dans lequel il affirme que c'est un grand malheur que des choses qui ne vont pas de soi soient considérées comme telles. Le fait que nous soyons ici ne va pas de soi. Le fait que nous existons, que l’homme existe, est un grand miracle. Je sais que je ne suis pas assez conscient pour en saisir profondément la signification.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Alice Clark<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Alice Clark<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Au début de notre groupe d'étude, les membres les plus évangéliques ont vite découvert les dangers de trop parler à des gens qui ne souhaitaient pas changer leurs points de vue religieux. Quelques expériences malheureuses nous ont amenés à chercher de meilleures façons d’approcher nos amis. À cette fin, nous avons commencé à étudier la vie de Jésus pour découvrir comment il l’a fait.

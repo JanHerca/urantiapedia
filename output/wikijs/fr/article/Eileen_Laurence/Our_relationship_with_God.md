@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1987 Eileen Laurence<br>© 1987 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Eileen Laurence<br>© 1987 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Grâce à mon expérience du dialogue interreligieux, j'ai appris à partager des définitions de termes avant de discuter d'idées et je le ferai ce matin. Cependant, je vais adopter la voie « juive » et prendre mon titre « Notre relation avec Dieu » dès la fin et travailler vers le début.

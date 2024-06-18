@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1981 Carolyn Kendall<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Carolyn Kendall<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Dans un siècle inhabituellement mouvementé, l'avènement du _Livre d'URANTIA_ sera reconnu dans mille ans d'aujourd'hui comme l'événement le plus merveilleux de tous. Mais nous voici, vingt-six ans après le début du plus grand événement du vingtième siècle et beaucoup d'entre nous sont encore incertains sur ce que le mouvement URANTIA est censé être, et plus encore, sur ce que nous, en tant que croyants en cette nouvelle révélation d'époque, sommes chargés de faire. faire. Que ce soit à cause d’habitudes culturelles ou d’un manque de courage spirituel, je pense que nous confondons parfois nos priorités secondaires avec celles qui devraient figurer en première place.

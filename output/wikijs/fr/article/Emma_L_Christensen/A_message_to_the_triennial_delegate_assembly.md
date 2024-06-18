@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1967 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1967 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 J'ai le plaisir de saluer les délégués, les suppléants, les conseillers et tous les bons amis d'Urantia qui ont le privilège d'assister à la deuxième Assemblée triennale des délégués. Il y a trois ans, le 20 août 1964, nous avons tenu la première réunion de l'Assemblée. C'était un événement historique. Cela n’en est pas moins de bon augure et j’espère que nous avons grandi en grâce et en sagesse ces trois dernières années.

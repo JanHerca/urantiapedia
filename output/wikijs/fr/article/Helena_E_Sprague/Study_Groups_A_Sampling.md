@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1976 Helena Sprague<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Helena Sprague<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Il existe autant de manières différentes pour les groupes d’étude de conduire leurs réunions qu’il y a de groupes. Une enquête dans certaines régions de l’Est a abouti à ces brefs profils :

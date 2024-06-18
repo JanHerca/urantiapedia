@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1986 Gayle et Jim Moravec<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Gayle et Jim Moravec<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Lorsqu'on m'a demandé de faire une présentation à la Conférence du Midwest de cette année, l'idée de parler du lieu de travail en conjonction avec des perspectives spirituelles m'est presque immédiatement venue à l'esprit. Prenons l’exemple d’une personne qui travaille 40 heures par semaine. Ajoutez à cela 40 heures le temps consacré à la préparation du travail, aux paris aller-retour au travail, ainsi qu'aux réunions et conférences supplémentaires. Au cours d'une semaine typique, vous avez consacré au moins 45 % de vos heures d'éveil à des questions liées au travail. Si vous êtes travailleur indépendant, faites des heures supplémentaires ou rapportez votre travail à la maison, il est facile d’approcher les 60 % ou plus. Le lieu de travail occupe une part si importante de notre vie que je pense qu’il mérite d’en discuter.

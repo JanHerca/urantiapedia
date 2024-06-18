@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Dick Schonberg<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Dick Schonberg<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Contrairement aux nombreuses âmes vaillantes qui ont promu la vérité spirituelle au cours des époques passées, nous, les diffuseurs mortels de la révélation URANTIA, avons de nombreux avantages, certains accordés, comme l'Esprit de Vérité, et d'autres acquis, comme les communications de masse, et le pouvoir. pour voir l'histoire avec le recul. En raison de nos avantages, nos responsabilités sont, dans un sens, plus grandes, et c'est pour cette raison que l'auteur estime que la commission révélatrice nous a délibérément fourni un contexte historique sur lequel fonder nos décisions futures.

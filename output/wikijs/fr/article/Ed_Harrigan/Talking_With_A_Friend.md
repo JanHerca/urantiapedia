@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Ed Harrigan<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ed Harrigan<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Un coup d'œil par la fenêtre de mon salon offre une vue sur plusieurs flancs de montagnes accidentés adoucis par une couche blanche de neige poudreuse. La beauté nous entoure dans la campagne et la bonté abonde des amis sincères qui franchissent notre porte. Mais le vrai don est le potentiel de croissance : réaliser et découvrir une nouvelle conscience d'une plus grande intimité avec notre amitié la plus éclairante, celle avec notre Fils Créateur, Michel de Nébadon,

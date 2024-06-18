@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1982 David Glass<br>© 1982 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 David Glass<br>© 1982 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 « ‘_La prédication persévérante de cet évangile du royaume apportera, un jour, à toutes les nations, une libération nouvelle et incroyable, la liberté intellectuelle et religieuse._’ » ([LU 178:1.9](/fr/The_Urantia_Book/178#p1_9)) Ces paroles du Maître prédisent l'arrivée d'un jour. d'une grande renaissance spirituelle, et ils nous invitent et nous enjoignent à contribuer à réaliser cette illumination en proclamant l'évangile du Maître sur la filiation spirituelle de l'homme avec Dieu. Nous pourrions nous demander si nous ne sommes pas également invités à spéculer sur la séquence d'événements par lesquels cette renaissance spirituelle pourrait se produire en examinant les informations qui nous ont été récemment données dans _Le Livre d'URANTIA_.

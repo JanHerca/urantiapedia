@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 George Park<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 George Park<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Le concept de personnalité est l'un des plus intrigants qui nous sont présentés par nos enseignants spirituels dans les pages du _Livre d'URANTIA_. La fascination suscitée par ce concept ne tient pas seulement à la tendance assez forte de l'homme au narcissisme. « _Mieux un homme se comprend complètement lui-même, et apprécie les valeurs de personnalité de ses compagnons, plus il aura soif de connaitre la Personnalité Originelle, et plus ardemment cet homme connaissant Dieu s’efforcera de devenir semblable à la Personnalité Originelle._ » ([LU 1:6.6](/fr/The_Urantia_Book/1#p6_6)) « _En fin de compte, l'idée du Père est toujours le concept humain le plus élevé de Dieu._ » ([LU 196:3.35](/fr/The_Urantia_Book/196#p3_35))

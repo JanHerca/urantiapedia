@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1981 Bob Hunt<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Bob Hunt<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Je souhaite partager avec vous quelques observations concernant les aspects spirituels de l’esprit et les états d’esprit les plus propices à la réception spirituelle. Alors que j'aborde ce sujet et cette entreprise, j'invite chacun d'entre vous à participer à une expérience conçue pour utiliser votre esprit, et notre esprit collectif, comme un laboratoire dans lequel doivent être testées certaines des idées qui seront présentées. Dans ce rassemblement d’esprits actifs et polyvalents, il devrait être possible d’explorer simultanément plusieurs niveaux de ce sujet ; c'est-à-dire, dans un certain sens, manifester et expérimenter ce qui est dit avec des mots. Une façon d’y parvenir consiste à modifier le modèle habituel de locuteurs actifs et d’auditeurs passifs. Maintenant, je n'ai pas l'intention de vous demander de parler ; je veux plutôt faire quelques suggestions sur la façon dont vous écoutez.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Buck et Arlene Weimer<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Buck et Arlene Weimer<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Le temps est à nouveau venu où la plupart des chrétiens du monde célèbrent la naissance traditionnelle de Jésus-Christ. Le simple fait d’y penser suffit à générer un spectre d’émotions mitigées. Beaucoup d’entre nous pourraient juger nécessaire de se préparer au commercialisme grossier stimulé par la recherche infiltrante du profit. Il y a toujours le stress et l’écrasement de ces derniers jours, et au moins une semaine de récupération. Et d'autres encore peuvent espérer retrouver leurs proches - pour avoir l'occasion de voir et de toucher de vieux amis - tout en échangeant des cadeaux. Mais Noël a-t-il un sens dans l’ordre universel des choses ? Et quelle est son importance ? Comment un Puissant Messager rapporterait-il le spectacle de Noël en relation avec le Suprême ?

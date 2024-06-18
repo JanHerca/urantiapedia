@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Ann Cole<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ann Cole<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Dans la mesure où notre volonté est que la volonté de Dieu soit faite dans notre vie, d'être enseigné, dirigé, rempli par son esprit, dans cette mesure nous sommes réceptifs à l'œuvre qu'il ferait en nous. Quelle que soit la petite impulsion que l’on puisse avoir à apprendre de Dieu et de Dieu, ce sera notre début. Nous demandons, nous apprenons et sur la base de nos nouvelles connaissances, nous demandons à partir d'une position plus informée et apprenons davantage. Au fur et à mesure que nous progressons, nous devenons plus aptes à demander et à apprendre, plus forts en capacité à vivre ce que nous apprenons, et notre curiosité et le sens de l'aventure est de plus en plus piqué ! Tant que nous le choisissons, le processus se perpétue.

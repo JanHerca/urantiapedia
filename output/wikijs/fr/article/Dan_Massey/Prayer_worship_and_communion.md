@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1983 Dan Massey<br>© 1983 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Dan Massey<br>© 1983 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 > « _Jésus ne demandait pas à ses disciples de se réunir périodiquement pour réciter des assemblages de mots indiquant leurs croyances communes. Il ordonna seulement qu’ils se réunissent pour effectivement *faire quelque chose —* prendre part au souper commun en souvenance de sa vie d’effusion sur Urantia._ » ([LU 99:5.10](/fr/The_Urantia_Book/99#p5_10))

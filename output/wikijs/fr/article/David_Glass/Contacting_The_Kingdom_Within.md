@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1978 David Glass<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 David Glass<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 > « _« Le royaume de Dieu est en vous. » C’est probablement la plus grande proclamation que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant._ » ([LU 195:10.4](/fr/The_Urantia_Book/195#p10_4))

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 Gene Joyce<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Gene Joyce<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Guidés, gardés, inspirés et assistés comme nous le sommes tous par les séraphins assignés à notre surveillance, certains mortels hautement dotés et motivés peuvent également être impliqués dans les plans et projets des maîtres séraphins dont les activités sont dirigées par le gouverneur général résident. sur Urantia. L’ampleur de cette implication dépend probablement avant tout de leurs origines et de leurs choix. Bien que la méthode de sélection puisse paraître quelque peu obscure, la vie de certains individus se détache comme des phares projetant des faisceaux d’influence et de pouvoir à travers la planète. Une telle personne était Charles Lindbergh.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 David Kulieke<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 David Kulieke<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 La véritable adoration va directement à Dieu le Père, et il est la source de toutes choses, y compris l’énergie. « _... l'énergie... en tant que phénomène universel est inhérente au Père Universel._ » ([LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)) L'adoration est une méthode pour puiser dans cette énergie. La technique nécessite un oubli total de soi ; cela n’implique aucune motivation personnelle. « _Il n'y a absolument aucune demande personnelle ou autre élément d'intérêt personnel dans le vrai culte..._ » ([LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))

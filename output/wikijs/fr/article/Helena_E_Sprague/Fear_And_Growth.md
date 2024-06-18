@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Helena Sprague<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Helena Sprague<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Une composante majeure du développement humain est la peur, à la fois les réponses instinctives nées des âges sombres de la lutte pour la survie physique et les réactions apprises de notre patrimoine culturel, particulièrement psychosocial, intellectuel et parfois spirituel. Les enseignements du Livre d'URANTIA sur la peur et la croissance sont à la fois profonds et pratiques. Ils peuvent être considérés sous quatre angles.

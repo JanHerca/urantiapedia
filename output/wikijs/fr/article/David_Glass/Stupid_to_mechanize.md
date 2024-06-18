@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1985 David Glass<br>© 1985 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 David Glass<br>© 1985 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Je dois admettre que j'ai déjà été arrêté par cette diction habituelle. L’utilisation du terme « stupide » m’a semblé un peu hors de propos pour nos amis invisibles qui, d’ordinaire, font preuve de tant de tact et d’amour lorsqu’ils font référence à notre état d’existence humble, à nos dotations intellectuelles limitées et à notre compréhension spirituelle limitée. Une partie de ce qui est « stupide » dans la mécanisation du concept de Source et Centre Premier doit être, je pense, en référence à ce que nos amis ont écrit dans d'autres parties du _Livre d'URANTIA_. Par exemple, ils nous disent que la capacité même d’un humain à suggérer ou à construire une philosophie mécaniste universelle de la réalité est déjà, de toute évidence et de manière démontrable, l’accomplissement d’un exercice intellectuel qui lui-même transcende les capacités, le cas échéant, de nature inanimée de totalement vision mécanisée du monde. Nous avons tous remarqué à quel point cette affirmation évidente a échappé à de nombreux étudiants et théoriciens de la nature physique du XIXe et du début du XXe siècle.

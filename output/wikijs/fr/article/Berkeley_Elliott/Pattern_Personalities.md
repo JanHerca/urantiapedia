@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Berkeley Elliott<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Berkeley Elliott<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Le Fils Éternel est le modèle de personnalité, mais seul le Père Universel – l'ancêtre et la source de ce modèle absolu – peut conférer la personnalité. « Modèle » indique un original (un modèle, un guide ou un archétype), et puisque le Fils Éternel est la personnalité modèle, quel excellent modèle pour toutes les personnalités de l'univers de Dieu.

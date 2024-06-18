@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 David Schlundt<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 _Le discours suivant a été prononcé par David Schlundt lors des ateliers de la Fraternité URANTIA à Lake Forest, Illinois, le 4 août 1980._

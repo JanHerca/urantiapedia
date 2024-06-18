@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1985 Helena E. Sprague<br>© 1985 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Helena E. Sprague<br>© 1985 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 La révélation est aussi vieille que l’homme. En fait, cela le définit. Lorsque les adjudants de l'adoration et de la sagesse sont devenus pleinement actifs dans l'esprit d'Andon et de Fonta, le Porteur de Vie nous dit que « _l'esprit de la dignité de la volonté_ » ([LU 62:7.4](/fr/The_Urantia_Book/62#p7_4)) était arrivé sur Urantia. Les aborigènes étaient devenus des hommes. Et ici nous avons le message clair que la révélation n’est pas nécessairement une expérience de l’esprit conscient.

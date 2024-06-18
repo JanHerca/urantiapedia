@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1986 Charles Laurence Olivea<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Charles Laurence Olivea<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Ce petit essai est écrit dans l'espoir de pouvoir profiter de la notion exprimée dans le Livre d'URANTIA qui suggère avec douceur que la romance universelle dans la recherche de la vérité est souvent caractérisée davantage par la perspicacité que par les faits.

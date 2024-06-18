@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1976 Bernard Burton<br>© 1976 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Bernard Burton<br>© 1976 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Pour grandir et se développer, les personnalités ont besoin de contact avec d’autres personnalités, un peu comme des fragments de roche aux arêtes vives broyés en se frottant les uns contre les autres. Un tel parallèle suggère l’intention divine selon laquelle notre progression vers les niveaux spirituels est étroitement liée à la sociabilité et à l’effort coopératif. Notre conscience accrue de la dépendance mutuelle, de la valeur personnelle et des objectifs de service altruistes a besoin d'un véhicule de comportement pour s'exprimer avec d'autres personnes inspirées de la même manière... d'où la motivation logique pour la formation de groupes d'étude. Ce rassemblement de croyants pourrait bien être appelé « l’éventualité inévitable » d’une large diffusion du _Livre d’URANTIA_.

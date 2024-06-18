@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 Annis M. Warsh<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Annis M. Warsh<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Sur LU 195 :9.2 du _Le Livre d'URANTIA_, il est dit :

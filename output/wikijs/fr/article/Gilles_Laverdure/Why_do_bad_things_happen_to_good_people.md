@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1986 Gilles Laverdure<br>© 1986 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Gilles Laverdure<br>© 1986 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Pourquoi Dieu laisse-t-il tant de gens souffrir et pourquoi permet-il que le péché se produise ?

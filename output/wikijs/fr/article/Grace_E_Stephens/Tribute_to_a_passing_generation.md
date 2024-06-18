@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 Grace E. Stephens<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Grace E. Stephens<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 La jeunesse cherche à être reconnue. La maturité tend à changer la perspective de l'individu en lui faisant prendre conscience de l'importance de soi.

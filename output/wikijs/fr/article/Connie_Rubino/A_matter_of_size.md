@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 Connie Rubino<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Connie Rubino<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Un enfant possède une qualité semblable à celle d’une feuille de papier vierge sur laquelle chaque passant écrit quelque chose. Parfois, en tant qu’adultes, nous ne réalisons pas à quel point nous pouvons avoir et avons eu une grande influence.

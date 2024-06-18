@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 David Glass<br>© 1979 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 David Glass<br>© 1979 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Toute réalité n'a qu'une seule source centrée, le Père Universel, la pré-réalité du JE SUIS. Les réalités spatio-temporelles manifestées de la matière, de l’esprit et de l’esprit affichent un spectre de niveaux de réalité variés et interpénétrés. Mais chaque niveau de réalité, chaque forme de manifestation, est centré et fondé sur une réalité paradisiaque parfaite et correspondante qui contrôle et soutient la créativité soutenue de Dieu.

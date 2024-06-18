@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1986 Dick Bain<br>© 1986 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Dick Bain<br>© 1986 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 Nous sommes parfois confrontés au paradoxe ultime. Juste au moment où nous expliquons la nature aimante de Dieu à un agnostique, il gâche notre journée en demandant : « Comment ce Dieu aimant peut-il rester les bras croisés pendant que des enfants innocents souffrent ? L’humanité est aux prises avec cette question depuis le début de l’histoire. Les premiers Juifs croyaient que nous souffrions parce que nous avions péché ; Dieu nous punit pour nos transgressions. Dans l'Ancien Testament, nous lisons la lutte de Job face à cette question. Pour les hindous, la réponse à la question est le Karma ; nous récoltons la récompense de la souffrance dans cette vie dans une mesure déterminée par notre vie antérieure ici. Si nous souffrons, nous devons avoir un mauvais karma. Chaque religion semble avoir trouvé une réponse à cette question, mais tout le monde ne considère pas la souffrance comme une sorte de punition. Saint François d'Assise aurait dit que les véritables affligés sont ceux qui n'ont jamais été affligés. Comment le _Livre d'URANTIA_ voit-il ce problème ?

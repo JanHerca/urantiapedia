@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">>© 2023 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 2023 La Fellowship du Livre d'Urantia</p>
 
 Unissons-nous tous et montrons au monde un front uni travaillant pour amener ce monde dans l'ère d'une véritable fraternité spirituelle sous la direction de Dieu notre Père et de Michel (de Nébadon). — G C
 

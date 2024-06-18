@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 David Gray<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 David Gray<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 La prière est un rappel automatique. C'est comme mettre une lettre sur un clip à l'intérieur de votre porte d'entrée pour vous rappeler de l'envoyer par la poste lorsque vous sortez. La prière consiste à mettre une note à un endroit où votre esprit la remarquera, pour vous maintenir sur le chemin du progrès.

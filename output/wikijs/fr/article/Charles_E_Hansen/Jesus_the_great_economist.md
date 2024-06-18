@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 L’économie est essentiellement l’étude de nos actions individuelles et de nos interactions les unes avec les autres qui sont nécessaires pour extraire et façonner les ressources de la nature ; pourvoir à leur répartition parmi nous ; et de les employer à un but qui, d'une manière ou d'une autre, nous satisfait ou augmente notre bonheur. Ces activités existaient bien avant l’existence d’une « science » économique ; et, comme le but de toute science est de nous aider à nous améliorer, la science économique se consacre en réalité à la recherche de compréhensions et de principes qui peuvent nous aider à accomplir ces activités plus efficacement.

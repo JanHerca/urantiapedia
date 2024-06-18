@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 David Elders</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 David Elders</p>
 
 Conférence donnée par David Elders au Scientific Symposium II
 Oklahoma City, Oklahoma, 19 mai 1991

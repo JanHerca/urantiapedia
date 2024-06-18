@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Henry Begemann<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Henry Begemann<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Parce qu'il serait impossible de traiter de manière adéquate un sujet aussi complexe et difficile que le modèle dans un court article, je me suis demandé quelle était pour moi la signification principale et la valeur pratique du modèle. En premier lieu, elle est liée à la perfection. La présence du modèle est la validation et la justification du mandat divin : « Soyez parfait, comme je suis parfait ». Comment notre Père aimant pourrait-il exiger que ses enfants soient parfaits si cette perfection n’était pas déjà présente comme potentiel ?

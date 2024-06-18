@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1964 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1964 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 SALUT À VOUS — les délégués, suppléants, conseillers et tous les Urantiens — qui avez le privilège d'assister à cette première réunion de l'Assemblée triennale des délégués. C'est un événement historique. Ce que nous faisons et disons ici restera longtemps inscrit dans les archives de la Fraternité URANTIA, et je ne doute pas que les générations futures regarderont avec nostalgie cette année 1964 et souhaiteraient pouvoir être avec nous, tout comme nous le regardons parfois. nous revenons à l'époque de Jésus sur terre et nous aurions aimé pouvoir marcher avec lui à travers la Galilée, nous asseoir sous les arbres avec lui, écoutant directement ses enseignements divins. Notre réunion ici aujourd’hui sera une expérience que nous chérirons longtemps et j’espère que nous relèverons les défis qu’elle présente avec courage, dévouement et, surtout, avec une unité d’objectif.

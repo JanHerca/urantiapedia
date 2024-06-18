@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1981 Henry Begemann<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Il peut y avoir une grande différence entre agir selon de bonnes motivations humaines et faire la volonté du Père. La moralité, et ses motivations corrélées, est avant tout un phénomène évolutif. Il s’agit alors d’un « super-animal, mais sous-spirituel ». La moralité dérivée de ce niveau n’est pas une activité spirituelle, mais une activité dérivée du sens du devoir. La moralité telle que Jésus l'a enseignée est plus qu'évolutive, elle est révélatrice, car son origine se trouve dans la relation père-enfant. Cette relation vécue a pour conséquence une moralité renforcée qui transcende le devoir. « _La caractéristique majeure de l’enseignement de Jésus était que la moralité de sa philosophie dérivait des relations personnelles entre l’individu et Dieu — précisément cette relation d’enfant à père._ » ([LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))

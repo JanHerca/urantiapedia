@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 Ethel Zanoni<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Ethel Zanoni<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Glorieuse et toujours présente est la lumière de mon Père céleste, Dieu. La lumière est autour de moi et à travers moi. En lui existe ce dont toutes choses sont issues ou pourront jamais provenir. La chaleur de sa lueur répand le réconfort et la protection de l'amour, Constituant l'intelligence, la compréhension et la perception infinie de la sagesse, elle me guide et me dirige, alors que je choisis de percevoir son émanation. La justice rayonne sûrement par l'éclat de son principe pur. Son abondance qui l'entoure m'offre des provisions ; la vitalité vivifiante me renforce et son énergie me vivifie.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 Eileen Laurence<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Eileen Laurence<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 _Le Livre d'URANTIA_ dit que « _L'harmonie est la note clé de l'univers central, et un ordre détectable prévaut au Paradis._ » ([LU 27:4.2](/fr/The_Urantia_Book/27#p4_2)) Le mot harmonie est tiré du mot grec « harmos », signifiant un ajustement, un joindre. Il est intéressant de noter qu'un synonyme d'harmonie est « unisson ». En tant que musicien, j'ai souvent réfléchi à cette association entre l'harmonie et l'unité et j'ai passé beaucoup de temps à traiter de l'expérience créative qui mène à ces idéaux.

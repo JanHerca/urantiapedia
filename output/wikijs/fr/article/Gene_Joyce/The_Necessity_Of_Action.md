@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1978 Gene Joyce<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Gene Joyce<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 L’Être Suprême est inextricablement impliqué dans le bien de l’ensemble. Alors que nous nous efforçons de devenir un meilleur voisin et un meilleur citoyen de notre nation, il devient évident que nous sommes chacun un citoyen de notre monde, Urantia ; et à partir de cette vision, nous discernons la nécessité de devenir un membre actif de la famille cosmique de Dieu, un citoyen de l'univers. En d’autres termes, nous devons entrer dans l’action grâce à une utilisation intelligente de notre esprit. Cela constitue notre relation expérientielle avec le Suprême alors que nous nous embarquons dans notre voyage de progrès éternel. Toute expérience significative au niveau fini est intégrée dans le Suprême,

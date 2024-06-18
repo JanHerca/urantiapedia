@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1981 David Renn<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 David Renn<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 En essayant d'avoir un aperçu de l'avenir des Sociétés URANTIA, je pense que c'est une bonne idée de revenir aux origines des groupes religieux et d'examiner certaines de leurs premières fonctions.

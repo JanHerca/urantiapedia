@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1978 Emmanuel Desurvire<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Emmanuel Desurvire<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
 
 
 > « _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ » ([LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))

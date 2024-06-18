@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1980 George Park<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 George Park<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
 
 
 « _La manière dont le Père Universel séjourne chez les créatures du temps est le plus profond de tous les mystères de l’univers. La présence divine dans le mental de l’homme est le mystère des mystères._ » ([LU 1:4.1](/fr/The_Urantia_Book/1#p4_1)) La technique par laquelle l'Ajusteur de Pensée est capable de faire connaître sa présence éternelle à l'esprit matériel est un mystère. La méthode par laquelle l’esprit enregistre la réalité de l’éternité dans l’esprit matériel comme une expérience du « maintenant éternel » est un miracle philosophique au-delà de notre compréhension. ([LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)) Cependant, la technique utilisée par l'esprit matériel dans sa démarche ascendante et intérieure pour l'expérience de la présence de Dieu, le comportement psychologique de l'esprit humain pour favoriser sa propre spiritualisation, n'est pas complètement hors de notre portée. .

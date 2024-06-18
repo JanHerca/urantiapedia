@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1981 Henry Begemann<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 La personnalité a son origine dans la Source et Centre Premier et est le don direct, et non évolutif, du Père Universel. Cette origine majestueuse lui permet de fonctionner, sans changement, même au niveau absolu. Ce fait peut difficilement être connu par la religion naturelle ; il s’agit typiquement d’une vérité révélée. Seule la dernière révélation d’époque énonce cette vérité clairement et explicitement.

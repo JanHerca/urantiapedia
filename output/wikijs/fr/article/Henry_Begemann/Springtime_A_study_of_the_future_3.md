@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1988 Henry Begemann<br>© 1988 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Henry Begemann<br>© 1988 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 > _Note de l'éditeur : Cet article est apparu dans d'autres publications écrites par des lecteurs du Livre d'URANTIA. Il est reproduit ici avec la permission de l'auteur._ 

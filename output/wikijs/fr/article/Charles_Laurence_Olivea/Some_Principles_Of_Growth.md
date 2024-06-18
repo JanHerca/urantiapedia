@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1976 Charles Laurence Olivea<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Charles Laurence Olivea<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Chers amis, je voudrais partager avec vous mes réflexions sur la croissance future de la Fraternité URANTIA. Ces idées reflètent mon interprétation de certaines idées expérientielles et révélatrices, je les appelle « principes de croissance » pour les organisations spirituelles :

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1977 Duane L. Faw<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Duane L. Faw<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 _Le Livre d'URANTIA_ enseigne que les univers sont créés dans un « _objectif éternel et divin_ » ([LU 42:0.2](/fr/The_Urantia_Book/42#p0_2)) et que le but des « _créatures mortelles d'origine animale._ », y compris toute l'humanité, est de devenir des fils ascendants de Dieu. ([LU 40:6.3](/fr/The_Urantia_Book/40#p6_3)) Rodan, le philosophe grec d'Alexandrie, considérait l'homme mortel comme accomplissant son objectif fondamental dans le plan divin en maîtrisant « l'art de vivre ». ([Papier 160](/fr/The_Urantia_Book/160))

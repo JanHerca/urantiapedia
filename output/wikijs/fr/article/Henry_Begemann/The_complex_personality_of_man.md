@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1983 Henry Begemann<br>© 1983 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Henry Begemann<br>© 1983 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Dans _Le Livre d'URANTIA_, le terme « personnalité » est utilisé dans un double sens. Il s'agit en premier lieu de la personnalité telle que le Père Universel la confère à un organisme vivant doté de l'esprit. Cet aspect, nous pourrions l’appeler « la personnalité pure », ou comme diraient les Allemands, la personnalité _an sich_. Mais la combinaison de la personnalité pure avec l’organisme est souvent aussi appelée personnalité. Parfois, cette dernière est appelée identité. Cette identité est ce que la personnalité croit être, avec laquelle la personnalité s'identifie. Cet article traite principalement de l'identité.

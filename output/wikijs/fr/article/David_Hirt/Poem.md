@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 David Hirt<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 David Hirt<br>© 2022 La Fellowship du Livre d'Urantia</p>
 
 Et tout est à l'envers, 
 comme des visages reflétés dans un bol : 

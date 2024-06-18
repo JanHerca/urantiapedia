@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 _Le Livre d'URANTIA_ révèle que notre personnalité est d'une grandeur si majestueuse que, inchangée, elle peut fonctionner même aux frontières de l'absolu ! ([LU 112:0.15](/fr/The_Urantia_Book/112#p0_15)) Cette même personnalité que nous avons maintenant n'évolue pas jusqu'à ce niveau inimaginable, ni n'y grandit. La personnalité reste inchangée.

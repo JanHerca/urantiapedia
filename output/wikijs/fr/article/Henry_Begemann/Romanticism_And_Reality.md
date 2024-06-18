@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 _Le discours suivant a été donné le jour de l'anniversaire de Jésus. 21 août 1979, lors d'une réunion d'étudiants du LIVRE D'URANTIA au domicile de l'auteur aux Pays-Bas. Son thème est approprié à notre célébration historique de cet événement capital à cette période de l'année._

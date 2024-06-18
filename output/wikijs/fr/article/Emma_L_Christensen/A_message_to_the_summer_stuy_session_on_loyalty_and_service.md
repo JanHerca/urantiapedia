@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1974 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1974 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
 
 
 Nous, les Urantiens, alors que nous traversons la vie jour après jour, avons peut-être souvent été préoccupés par nos progrès dans l'introduction du Royaume de Dieu dans nos cœurs et dans ceux de nos semblables. Nous nous demandons peut-être si nous promouvons l’Évangile vivant de la paternité de Dieu et de la fraternité des hommes avec sagesse et bien. Mais si nous remettons en question notre service, alors nous devons en fait remettre en question les racines de ce service qui sont la loyauté et l’amour. Nous devons apprendre à faire les ajustements quotidiens nécessaires entre nos convictions personnelles et notre devoir envers la famille et les associés. Nous devons obtenir la satisfaction de parvenir à un mélange de plus en plus harmonieux de convictions personnelles et d’obligations familiales dans un concept magistral de solidarité de groupe basé sur la loyauté, l’équité, la tolérance et l’amour, comme Jésus l’a fait magnifiquement.
