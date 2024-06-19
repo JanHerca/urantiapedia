@@ -63,7 +63,7 @@ Warmly,
 
 ---
 
-> “_A personality who knows God and desires to do his will, who has spirit insight, is divinely stable and eternally existent. Man's great universe adventure consists in the transit of his mortal mind from the stability of mechanical statics to the divinity of spiritual dynamics, and he achieves this transformation by the force and constancy of his own personality decisions, in each of life's situations declaring. ‘It is my will that your will be done.’_” (<a id="a65_461"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
+> “_A personality who knows God and desires to do his will, who has spirit insight, is divinely stable and eternally existent. Man's great universe adventure consists in the transit of his mortal mind from the stability of mechanical statics to the divinity of spiritual dynamics, and he achieves this transformation by the force and constancy of his own personality decisions, in each of life's situations declaring. ‘It is my will that your will be done.’_” (<a id="a65_461"></a>[UB 118:8.11](/en/The_Urantia_Book/118#p8_11))
 
 
 

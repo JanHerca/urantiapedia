@@ -64,7 +64,7 @@ Calurosamente,
 
 ---
 
-> «_Una personalidad que conoce a Dios y desea hacer su voluntad, que tiene percepción espiritual, es divinamente estable y existe eternamente. La gran aventura universal del hombre consiste en el tránsito de su mente mortal desde la estabilidad de la estática mecánica a la divinidad de la dinámica espiritual, y logra esta transformación por la fuerza y constancia de las decisiones de su propia personalidad, en cada una de las situaciones de la vida que declara. ‘Es mi voluntad que se haga tu voluntad’_» (<a id="a66_511"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
+> «_Una personalidad que conoce a Dios y desea hacer su voluntad, que tiene percepción espiritual, es divinamente estable y existe eternamente. La gran aventura universal del hombre consiste en el tránsito de su mente mortal desde la estabilidad de la estática mecánica a la divinidad de la dinámica espiritual, y logra esta transformación por la fuerza y constancia de las decisiones de su propia personalidad, en cada una de las situaciones de la vida que declara. ‘Es mi voluntad que se haga tu voluntad’_» (<a id="a66_511"></a>[LU 118:8.11](/es/The_Urantia_Book/118#p8_11))
 
 
 
