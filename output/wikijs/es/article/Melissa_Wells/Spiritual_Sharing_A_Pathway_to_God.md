@@ -121,10 +121,10 @@ Y a medida que aprendemos a orar y meditar, a medida que entregamos nuestra conc
 
 Finalmente, deseo hablar de una de mis personas favoritas y su enfoque hacia el intercambio espiritual que descubrí en mi estudio de El Libro Linantia.
 
-> «_Jesús esparció buen ánimo dondequiera que iba. Estaba lleno de gracia y de verdad... Jesús podía ayudar tanto a los hombres porque los amaba tan sinceramente. Amaba verdaderamente a cada hombre, a cada mujer y a cada niño. Podía ser un amigo tan verdadero debido a su notable perspicacia: sabía perfectamente lo que había en el corazón y en la mente del hombre. Era un observador interesado y entusiasta. Era un experto en la comprensión de las necesidades humanas, inteligente en detectar los anhelos humanos.»
-
-> «_Jesús nunca tuvo prisa. Tenía tiempo para consolar a sus semejantes «al pasar». Y siempre hacía que sus amigos se sintieran a gusto. Era un oyente encantador. Nunca se dedicó a sondear entrometidamente las almas de sus asociados. Mientras consolaba las mentes hambrientas y ministraba a las almas sedientas, los destinatarios de su misericordia no sentían tanto que se estaban confesando con él sino que estaban consultando con él. Tenían una confianza ilimitada en él porque vieron que él tenía mucha fe en ellos.»
-
+> «_Jesús esparció buen ánimo dondequiera que iba. Estaba lleno de gracia y de verdad... Jesús podía ayudar tanto a los hombres porque los amaba tan sinceramente. Amaba verdaderamente a cada hombre, a cada mujer y a cada niño. Podía ser un amigo tan verdadero debido a su notable perspicacia: sabía perfectamente lo que había en el corazón y en la mente del hombre. Era un observador interesado y entusiasta. Era un experto en la comprensión de las necesidades humanas, inteligente en detectar los anhelos humanos._»
+> 
+> «_Jesús nunca tuvo prisa. Tenía tiempo para consolar a sus semejantes «al pasar». Y siempre hacía que sus amigos se sintieran a gusto. Era un oyente encantador. Nunca se dedicó a sondear entrometidamente las almas de sus asociados. Mientras consolaba las mentes hambrientas y ministraba a las almas sedientas, los destinatarios de su misericordia no sentían tanto que se estaban confesando con él sino que estaban consultando con él. Tenían una confianza ilimitada en él porque vieron que él tenía mucha fe en ellos._»
+> 
 > «_Distribuyó salud y esparció felicidad con naturalidad y gracia a medida que avanzaba por la vida. Era literalmente cierto: «anduvo haciendo el bien». Y corresponde a los seguidores del Maestro de todas las épocas aprender a ministrar mientras «pasan», a hacer el bien desinteresado mientras cumplen con sus deberes diarios._» (<a id="a127_331"></a>[LU 171:7.1-10](/es/The_Urantia_Book/171#p7_1))
 
 Cuando se trata de compartir espiritualmente, recuerde: es muy simple; simplemente déjate llevar y deja que Dios.

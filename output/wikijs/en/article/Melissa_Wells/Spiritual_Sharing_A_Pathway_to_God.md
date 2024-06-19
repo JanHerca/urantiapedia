@@ -121,9 +121,9 @@ And as we learn how to pray and meditate, as we give our human consciousness to 
 Finally, I wish to speak of one of my very favorite persons and his approach to spiritual sharing that I've discovered in my study of The Linantia Book.
 
 > “_Jesus spread good cheer everywhere he went. He was full of grace and truth...Jesus could help men so much because he loved them so sincerely. He truly loved each man, each woman, and each child. He could be such a true friend because of his remarkable insight — he knew so fully what was in the heart and in the mind of man. He was an interested and keen observer. He was an expert in the comprehension of human need, clever in detecting human longings._”
-
+> 
 > “_Jesus was never in a hurry. He had time to comfort his fellow men ‘as he passed by.’ And he always made his friends feel at ease. He was a charming listener. He never engaged in the meddlesome probing of the souls of his associates. As he comforted hungry minds and ministered to thirsty souls, the recipients of his mercy did not so much feel that they were confessing to him as that they were conferring with him. They had unbounded confidence in him because they saw he had so much faith in them._”
-
+> 
 > “_He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘he went about doing good.’ And it behooves the Master's followers in all ages to learn to minister as ‘they pass by’ — to do unselfish good as they go about their daily duties._” (<a id="a126_307"></a>[UB 171:7.1-10](/en/The_Urantia_Book/171#p7_1))
 
 When it comes to spiritual sharing, remember: It's so simple; just let go and let God.
