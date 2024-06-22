@@ -178,7 +178,7 @@ To The STUDY GROUP HERALD:
 
 We wanted to thank all of the folks involved in putting together The STUDY GROUP HERALD and are looking forward to the next issue. THANX!!!
 
-Enclosed please find a copy of a letter we received from $\mathrm{Ni}$ geria. We were thrilled to be able to fill the request for some used UBs and are planning to send more as they become available. I would like to invite anyone or any study group or society to likewise consider sending this group some books. Is it possible to share this information with the readership? We would be most grateful.
+Enclosed please find a copy of a letter we received from Nigeria. We were thrilled to be able to fill the request for some used UBs and are planning to send more as they become available. I would like to invite anyone or any study group or society to likewise consider sending this group some books. Is it possible to share this information with the readership? We would be most grateful.
 
 We were also wondering if you plan on having a regular feature in the SGH that focuses on family issues. We really appreciate the stories for children and my daughter enjoyed the Andon and Fonta piece. More of that, for sure!
 

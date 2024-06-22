@@ -179,7 +179,7 @@ Al _The STUDY GROUP HERALD_:
 
 Queríamos agradecer a todas las personas involucradas en la elaboración de The STUDY GROUP HERALD y esperamos con ansias el próximo número. GRACIAS!!!
 
-Adjunto encontrará una copia de una carta que recibimos de $\mathrm{Ni}$ geria. Estamos encantados de poder atender la solicitud de algunos LU usados y planeamos enviar más a medida que estén disponibles. Me gustaría invitar a cualquier persona o grupo de estudio o sociedad a que también considere enviar algunos libros a este grupo. ¿Es posible compartir esta información con los lectores? Estaríamos muy agradecidos.
+Adjunto encontrará una copia de una carta que recibimos de Nigeria. Estamos encantados de poder atender la solicitud de algunos LU usados y planeamos enviar más a medida que estén disponibles. Me gustaría invitar a cualquier persona o grupo de estudio o sociedad a que también considere enviar algunos libros a este grupo. ¿Es posible compartir esta información con los lectores? Estaríamos muy agradecidos.
 
 También nos preguntamos si planea tener una sección regular en el SGH que se centre en cuestiones familiares. Realmente apreciamos los cuentos para niños y mi hija disfrutó la pieza de Andon y Fonta. ¡Más de eso, seguro!
 

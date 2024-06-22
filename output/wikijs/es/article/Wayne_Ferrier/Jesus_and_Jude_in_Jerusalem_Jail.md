@@ -3,7 +3,7 @@ title: "Jesús y Judas en la cárcel de Jerusalén"
 description: 
 published: true
 date: 2023-10-29T10:55:6Z
-tags: Study Group Herald, article
+tags: Jesus, Jesus life, Study Group Herald, article
 editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
@@ -93,7 +93,8 @@ Jesús nunca le contó a la familia lo que le sucedió a Judas durante su visita
 <img src="/image/article/Study_Group_Herald/Jesus_Judas2.jpg">
 </figure>
 
-
+> Nota del Editor: Esta historia es de El Libro de Urantia: [LU 128:6.5-8](/es/The_Urantia_Book/128#p6_5)
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>
@@ -118,3 +119,5 @@ Jesús nunca le contó a la familia lo que le sucedió a Judas durante su visita
     </tbody>
   </table>
 </figure>
+
+

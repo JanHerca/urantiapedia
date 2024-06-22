@@ -3,7 +3,7 @@ title: "Jesus and Jude in Jerusalem Jail"
 description: 
 published: true
 date: 2023-10-29T10:55:6Z
-tags: Study Group Herald, article
+tags: Jesus, Jesus life, Study Group Herald, article
 editor: markdown
 dateCreated: 2023-10-23T10:55:6Z
 ---
@@ -91,6 +91,9 @@ Jesus never did tell the family about what happened to Jude during their visit t
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Jesus_Judas2.jpg">
 </figure>
+
+> Ed. Note: This story is from The Urantia Book: [UB 128:6.5-8](/en/The_Urantia_Book/128#p6_5)
+{.is-info}
 
 <figure class="table chapter-navigator">
   <table>
