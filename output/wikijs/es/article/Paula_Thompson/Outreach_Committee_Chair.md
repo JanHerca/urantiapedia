@@ -49,7 +49,11 @@ El Equipo del Parlamento ideó un diseño de stand _asombroso_, con los diseños
 
 Tamara Strumfeld y Joanne Strobel, miembros del equipo parlamentario, rediseñaron la introducción a todo color de _El Libro de Urantia_. El Comité de divulgación proporcionó [el folleto de introducción original de Jesusonian] (https://www.urantia.org/sites/default/files/docs/An-Introduction-to-The-Urantia-Book.pdf) y el texto para que trabajaran. Una vez más, muchos de los increíbles gráficos de Gary se utilizaron en la nueva introducción. El resultado final es un hermoso folleto que brinda a todas las organizaciones de Urantia una nueva herramienta eficaz para los esfuerzos de extensión en el futuro. El Equipo también lanzó una página web sencilla: [www.UrantiaUnited.org](http://www.urantiaunited.org/). Este sitio permite que nuestros materiales de divulgación conjunta tengan solo una URL que lleva a las cuatro organizaciones principales de Urantia.
 
-Los miembros de divulgación Gary Tonge y Paula Thompson trabajaron juntos en un guión para el video [Grandes preguntas](https://www.youtube.com/watch?v=axCFcdAVWN4&t=77s). Gary hizo los gráficos y la animación. Como todo el trabajo de Gary, los resultados son fascinantes. Estos videos hermosos y efectivos están destinados a ayudar a todos a compartir el don de la revelación, así que por favor, compártalos generosamente. Gary y Paula también trabajaron juntos en otro excelente video, [Encouragement](https://www.youtube.com/watch?v=A9IeeX6k_8U). Puede encontrar todos los fantásticos videos de Gary juntos en su canal de YouTube o en su sitio web, [www.visionafar.com](https://visionafar.com/projects).
+Los miembros de divulgación Gary Tonge y Paula Thompson trabajaron juntos en un guión para el video «Grandes preguntas» (ver abajo). Gary hizo los gráficos y la animación. Como todo el trabajo de Gary, los resultados son fascinantes. Estos videos hermosos y efectivos están destinados a ayudar a todos a compartir el don de la revelación, así que por favor, compártalos generosamente. Gary y Paula también trabajaron juntos en otro excelente video, «Encouragement» (ver abajo). Puede encontrar todos los fantásticos videos de Gary juntos en su canal de YouTube o en su sitio web, [www.visionafar.com](https://visionafar.com/projects).
+
+https://www.youtube.com/watch?v=axCFcdAVWN4&t=77s
+
+https://www.youtube.com/watch?v=A9IeeX6k_8U
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/025.jpg">

@@ -80,7 +80,9 @@ The human body is also built of switches. DNA uses four switches instead of two 
 
 We are marvelous creatures. When you see the fruits of AI, which will free the world of toil, remember that there is more to life than the physical.
 
-For a description of what AI will do for the world and how AI is **already** bringing abundance the world, watch “SU Global Summit 2019 | Keynote | Peter Diamandis” on YouTube https://youtu.be/ZeHoFuOtUp8
+For a description of what AI will do for the world and how AI is **already** bringing abundance the world, watch “SU Global Summit 2019 | Keynote | Peter Diamandis” on YouTube 
+
+https://youtu.be/ZeHoFuOtUp8
 
 ## External Links
 

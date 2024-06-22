@@ -48,7 +48,11 @@ The Parliament Team came up with an _amazing_ booth design, with the expert crea
 
 Parliament Team members Tamara Strumfeld and Joanne Strobel redesigned the full-color introduction to _The Urantia Book_. Outreach Committee provided [Jesusonian's original Intro Brochure](https://www.urantia.org/sites/default/files/docs/An-Introduction-to-The-Urantia-Book.pdf) and text for them to work from. Again, many of Gary's amazing graphics were utilized in the new intro. The end result is a beautiful brochure that provides all Urantia organizations with an effective new tool for outreach efforts going forward. The Team also launched a simple webpage: [www.UrantiaUnited.org](http://www.urantiaunited.org/). This site allows our joint outreach materials to have just one URL that leads to the four primary Urantia organizations. Outreach Committee has produced hundreds of these great brochures to hand out at our recent and upcoming outreach events.
 
-Outreach Members Gary Tonge and Paula Thompson worked together on a script for the video [Big Questions](https://www.youtube.com/watch?v=axCFcdAVWN4&t=77s). Gary did the graphics and animation. Like all of Gary's work, the results are enthralling. These beautiful and effective videos are intended to help anyone and everyone share the gift of revelation, so please, share them liberally. Gary and Paula also worked together on another great video, [Encouragement](https://www.youtube.com/watch?v=A9IeeX6k_8U). You can find all of Gary's fantastic videos together on his YouTube channel or at his website, [www.visionafar.com](https://visionafar.com/projects). 
+Outreach Members Gary Tonge and Paula Thompson worked together on a script for the video “Big Questions” (ver abajo). Gary did the graphics and animation. Like all of Gary's work, the results are enthralling. These beautiful and effective videos are intended to help anyone and everyone share the gift of revelation, so please, share them liberally. Gary and Paula also worked together on another great video, “Encouragement” (ver abajo). You can find all of Gary's fantastic videos together on his YouTube channel or at his website, [www.visionafar.com](https://visionafar.com/projects). 
+
+https://www.youtube.com/watch?v=axCFcdAVWN4&t=77s
+
+https://www.youtube.com/watch?v=A9IeeX6k_8U
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/025.jpg">

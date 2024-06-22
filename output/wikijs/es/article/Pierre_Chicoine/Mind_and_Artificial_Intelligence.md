@@ -81,7 +81,9 @@ El cuerpo humano también está hecho de interruptores. El ADN usa cuatro interr
 
 Somos criaturas maravillosas. Cuando vea los frutos de la IA, que liberarán al mundo del trabajo, recuerde que hay más en la vida que lo físico.
 
-Para obtener una descripción de lo que la IA hará por el mundo y cómo la IA **ya** trae abundancia al mundo, vea «SU Global Summit 2019 | Discurso principal | Peter Diamandis» en YouTube https://youtu.be/ZeHoFuOtUp8
+Para obtener una descripción de lo que la IA hará por el mundo y cómo la IA **ya** trae abundancia al mundo, vea «SU Global Summit 2019 | Discurso principal | Peter Diamandis» en YouTube 
+
+https://youtu.be/ZeHoFuOtUp8
 
 ## Enlaces externos
 

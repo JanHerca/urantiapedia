@@ -40,9 +40,13 @@ dateCreated: 2023-6-21T8:13:38Z
 
 By [Pato Banton](https://www.facebook.com/MinisterPatoBanton) & [Antoinette Rootsdawtah](https://www.facebook.com/rootsdawtah)
 
-Our first experience at the POWR was at their 2015 Salt Lake City event titled Reclaiming the Heart of Our Humanity. We were invited by Ben Bowler to help with hosting the [1God.com](https://1God.com) Booth and it was an especially great experience because our main goal was to find the common ground that all religions share. The feedback was so amazing that we created a video with the responses of religionists from all over the world, including many Urantians! https://www.youtube.com/watch?v=CR4Cbh6zb-w
+Our first experience at the POWR was at their 2015 Salt Lake City event titled Reclaiming the Heart of Our Humanity. We were invited by Ben Bowler to help with hosting the [1God.com](https://1God.com) Booth and it was an especially great experience because our main goal was to find the common ground that all religions share. The feedback was so amazing that we created a video with the responses of religionists from all over the world, including many Urantians! 
 
-We were super excited when we got the news that our application to perform at the 2018 POWR was accepted. The title of the Parliament's event objectives was The Promise of Inclusion & The Power of Love and because we had just released our new (Urantia Book inspired) CD entitled “Love Is the Greatest” this seemed like perfect timing! https://www.youtube.com/watch?v=NurBEzUap5o
+https://www.youtube.com/watch?v=CR4Cbh6zb-w
+
+We were super excited when we got the news that our application to perform at the 2018 POWR was accepted. The title of the Parliament's event objectives was The Promise of Inclusion & The Power of Love and because we had just released our new (Urantia Book inspired) CD entitled “Love Is the Greatest” this seemed like perfect timing! 
+
+https://www.youtube.com/watch?v=NurBEzUap5o
 
 Our joy was even more enhanced when we realized that other members of our Urantia Family would be offering presentations at the Parliament and that the Urantia Booth (which was beautiful and all embracing) would be representative of the unified efforts of all leading organizations. We were also excited to meet our family from Unity Earth, The United Religions Initiative and The Golden Rule Day, face to face, some for the first time.
 
