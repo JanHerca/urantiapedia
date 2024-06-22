@@ -59,7 +59,9 @@ Sus proyectos más recientes incluyen la organización y celebración de Urantia
 
 La presencia pública de cuatro décadas de Pato Banton ha trascendido cada vez más la música para transmitir un mensaje positivo, a menudo espiritual. Ahora con sede en el sur de California, continúa recorriendo el mundo extensamente mientras se desempeña simultáneamente como maestro, consejero, ministro mentor de su familia espiritual de fanáticos en todo el mundo.
 
-Asegúrese de ver su hermosa actuación en el Parlamento de las Religiones del Mundo 2018 mientras presentan las Buenas Nuevas de la Libertad Espiritual y la música inspiradora de su CD recién lanzado titulado «¡El amor es el más grande!» https://www.youtube.com/watch?v=NurBEzUap5o
+Asegúrese de ver su hermosa actuación en el Parlamento de las Religiones del Mundo 2018 mientras presentan las Buenas Nuevas de la Libertad Espiritual y la música inspiradora de su CD recién lanzado titulado «¡El amor es el más grande!» 
+
+https://www.youtube.com/watch?v=NurBEzUap5o
 
 > «Dedica tu vida a demostrar que el amor es la cosa más grande del mundo». <a id="a63_76"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
 

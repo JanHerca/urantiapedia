@@ -121,7 +121,9 @@ The planning was the charge of the UAUS with Katrina Glavan-Heise, of San Antoni
 
 The Fellowship Education Committee was given responsibility for the program, and the Program Committee consisted both of members of Education and others. It was ably chaired by Sherry Layton, an adjunct member of the Education Committee. Sherry said, “We were blessed to have the time and talents of our workshop presenters, plenary speakers, and conference organizers, and youth volunteers. Those talents were put to good use for the greatest good.”
 
-There were four main plenary speakers: Mo Siegel, Carolyn Prentice, Jeffrey Wattles, and David Kulieke. Their presentations can be seen at: https://www.youtube.com/playlist?list=PLQYC6XW8Ev1dVcV1kTXosnJ4CpMU0dbWI.
+There were four main plenary speakers: Mo Siegel, Carolyn Prentice, Jeffrey Wattles, and David Kulieke. Their presentations can be seen at: 
+
+https://www.youtube.com/playlist?list=PLQYC6XW8Ev1dVcV1kTXosnJ4CpMU0dbWI.
 
 As to be expected in a first-time, joint event such as the San Antonio conference, there was plenty to be learned. David Kulieke stated, “In the end it was extremely valuable to have had this joint event. While it became clear to many of us that such combined efforts in the future will work better if both groups are involved at the beginning, it was also clear that many individuals made new friends with other readers of _The Urantia Book_ and that we liked being with each other. The Fellowship Education Committee was pleased that the conference met expectations for a worthwhile educational experience.”
 

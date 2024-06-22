@@ -57,7 +57,9 @@ We are invited to contribute, she tells us, and it's fun to put Jesus' teachings
 
 See Spirit of Truth interviews and the
 
-Urantia Book Network videos at: https://www.youtube.com/c/URANTIABOOKNETWORK/videos 
+Urantia Book Network videos at: 
+
+https://www.youtube.com/c/URANTIABOOKNETWORK/videos 
 
 ## External Links
 

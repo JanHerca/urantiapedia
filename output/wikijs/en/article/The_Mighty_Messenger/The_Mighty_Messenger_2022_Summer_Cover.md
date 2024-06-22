@@ -53,7 +53,7 @@ These citations show the source of the quotation as coming from _The Urantia Boo
 
 > **NOTE FROM URANTIAPEDIA EDITORS**
 > 
-> Although this publication uses the reference system indicated above in its original version available on the Fellowship's website, by converting this content and any other content to Urantiapedia, we are proceeding with a conversion of the references to a [single global system of references](/en/help/links#global-unique-reference-system-for-the-urantia-book) that avoid confusion and follow the fundamental principles of our website.
+> Although this publication uses the reference system indicated above in its original version available on the Fellowship's website, by converting this content and any other content to Urantiapedia, we are proceeding with a conversion of the references to a [single global system of references](/en/help/links#unique-global-reference-system-for-the-urantia-book) that avoid confusion and follow the fundamental principles of our website.
 {.is-warning}
 
 ## DISCLAIMER STATEMENT

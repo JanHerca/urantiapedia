@@ -122,7 +122,9 @@ La planificación estuvo a cargo de la UAUS con Katrina Glavan-Heise, de San Ant
 
 Al Comité de Educación de la Fellowship se le asignó la responsabilidad del programa, y ​​el Comité del Programa estaba formado por miembros de Educación y otros. Fue hábilmente presidido por Sherry Layton, miembro adjunto del Comité de Educación. Sherry dijo: «Tuvimos la suerte de contar con el tiempo y el talento de nuestros presentadores de talleres, oradores plenarios, organizadores de conferencias y jóvenes voluntarios. Esos talentos se usaron bien para el mayor bien».
 
-Hubo cuatro oradores plenarios principales: Mo Siegel, Carolyn Prentice, Jeffrey Wattles y David Kulieke. Sus presentaciones se pueden ver en: https://www.youtube.com/playlist?list=PLQYC6XW8Ev1dVcV1kTXosnJ4CpMU0dbWI.
+Hubo cuatro oradores plenarios principales: Mo Siegel, Carolyn Prentice, Jeffrey Wattles y David Kulieke. Sus presentaciones se pueden ver en: 
+
+https://www.youtube.com/playlist?list=PLQYC6XW8Ev1dVcV1kTXosnJ4CpMU0dbWI.
 
 Como era de esperar en un evento conjunto por primera vez como la conferencia de San Antonio, había mucho que aprender. David Kulieke declaró: «Al final, fue extremadamente valioso haber tenido este evento conjunto. Si bien para muchos de nosotros quedó claro que tales esfuerzos combinados en el futuro funcionarán mejor si ambos grupos están involucrados desde el principio, también quedó claro que muchas personas hicieron nuevos amigos con otros lectores de _El Libro de Urantia_ y que nos gustaba estar con ellos. entre sí. El Comité de Educación de la Fellowship se mostró complacido de que la conferencia cumpliera con las expectativas de una experiencia educativa que valiera la pena».
 
