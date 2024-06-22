@@ -169,7 +169,9 @@ The 2004 Parliament had over 50 _Urantia Book_ readers in attendance, including 
 
 It's hard to describe how powerful and positive the Parliament experience is. Some experiences are like words with meanings but for one who believes in the Fatherhood of God and the Brotherhood of Man, The Parliament of The World's Religions is truly a meaning without a word. Namaste!
 
-images---
+<figure id="Figure_8" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005979.jpg">
+</figure>
 
 Members and guests of The First Society (Chicago) and the Greater Lake Michigan Urantia Associatíon (GLMUA) gather for a group picture at their Jesus birthday celebration at the Indiana Dunes National Lakeshore on Lake Michigan. The jointly sponsored event has become an annual tradicion for readers in the area.
 
@@ -177,7 +179,17 @@ Attendees at the eighth annual Lone Star Roundup Conference at the Briarwood Ret
 
 A time for quiet conversacion following a service in the rose garden at Unity Village, MO, was enjoyed by participants at the Heart of America Society's conference in September. Conference presenters explored the nature of the Creative Mother Spirit, and the weekend also included a meeting of the Fellowship's General Council,
 
-images---
+<figure id="Figure_9" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005981.jpg">
+</figure>
+
+<figure id="Figure_10" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005982.jpg">
+</figure>
+
+<figure id="Figure_11" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005983.jpg">
+</figure>
 
 ## Happy 50th Video
 

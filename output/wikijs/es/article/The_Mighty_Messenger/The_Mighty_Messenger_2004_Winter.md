@@ -170,7 +170,9 @@ El Parlamento de 2004 contó con la asistencia de más de 50 lectores de _El Lib
 
 Es difícil describir cuán poderosa y positiva es la experiencia del Parlamento. Algunas experiencias son como palabras con significados pero para alguien que cree en la Paternidad de Dios y la Hermandad del Hombre, El Parlamento de las Religiones del Mundo es verdaderamente un significado sin una palabra. ¡Namasté!
 
-imágenes---
+<figure id="Figure_8" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005979.jpg">
+</figure>
 
 Los miembros e invitados de The First Society (Chicago) y Greater Lake Michigan Urantia Association (GLMUA) se reúnen para una foto de grupo en la celebración del cumpleaños de Jesús en Indiana Dunes National Lakeshore en el lago Michigan. El evento patrocinado conjuntamente se ha convertido en una tradición anual para los lectores de la zona.
 
@@ -178,7 +180,17 @@ Los asistentes a la octava conferencia anual Lone Star Roundup en el Centro de R
 
 Los participantes en la conferencia de Heart of America Society en septiembre disfrutaron de un tiempo para una conversación tranquila después de un servicio en el jardín de rosas en Unity Village, MO. Los presentadores de la conferencia exploraron la naturaleza del Espíritu de la Madre Creativa, y el fin de semana también incluyó una reunión del Consejo General de la Fellowship,
 
-imágenes---
+<figure id="Figure_9" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005981.jpg">
+</figure>
+
+<figure id="Figure_10" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005982.jpg">
+</figure>
+
+<figure id="Figure_11" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2004_Winter/005983.jpg">
+</figure>
 
 ## Felices 50 Vídeo
 
