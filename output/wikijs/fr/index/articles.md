@@ -66,8 +66,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Originaux : <a href="https://www.urantia.org/news">Urantia Foundation online news</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_uf_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/urantian%20news" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -90,8 +93,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/herald/">Fellowship Herald archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/fellowship%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -108,8 +114,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://archive.urantiabook.org/archive/newsletters">Fellowship archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_mighty_messenger" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/mighty%20messenger" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -126,8 +135,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_study_group_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/study%20group%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -144,8 +156,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/urantian_journal/">Fellowship archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_the_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+				</a>
+				<a href="/t/the%20urantian" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
 				</a>
 			</div>
 		</div>
