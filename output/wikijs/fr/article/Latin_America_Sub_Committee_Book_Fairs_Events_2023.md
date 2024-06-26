@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Memories_of_International_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souvenirs de conférences internationales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Urantia_Book_Fellowship_International_Conference_2023">
+          <span class="pr-2">Conférence internationale de la Fellowship du Livre d'Urantia 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Le Comité international des bourses de la Fellowship du Livre d'Urantia** [^1]
@@ -41,3 +65,27 @@ Décembre (dates à venir) | Quito, Équateur | Gabriel Pino | galepino@yahoo.co
 ## Remarques
 
 [^1] : Le Comité International de la Fraternité relève de (et fait donc partie de) la Fraternité _Le Livre d'Urantia_.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Memories_of_International_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souvenirs de conférences internationales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Urantia_Book_Fellowship_International_Conference_2023">
+          <span class="pr-2">Conférence internationale de la Fellowship du Livre d'Urantia 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

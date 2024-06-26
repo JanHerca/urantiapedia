@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Geoff Taylor<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Président de l’équipe de service mondiale — Rapport du 30 août 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Biggs/Wild_Goose">
+          <span class="pr-2">Réflexion sur L'Oie Sauvage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -33,3 +57,28 @@ Aucune religion n’a toutes les bonnes réponses, mais nous devrions nous deman
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Président de l’équipe de service mondiale — Rapport du 30 août 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Biggs/Wild_Goose">
+          <span class="pr-2">Réflexion sur L'Oie Sauvage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

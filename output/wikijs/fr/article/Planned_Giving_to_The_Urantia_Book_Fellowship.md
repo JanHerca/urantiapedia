@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 La Fellowship du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spirit_of_Truth_Angie_Thurston_Interview">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit de vérité - Entretien avec Angie Thurston</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Fall_Endpage">
+          <span class="pr-2">Fin de la page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Beaucoup d’entre nous atteignent un point dans notre vie où nous réalisons qu’il ne nous reste peut-être plus beaucoup d’années sur ce monde, que nous connaissons affectueusement sous le nom d’Urantia. Selon la manière dont nous envisageons la situation, cela peut être à la fois une bonne et une mauvaise nouvelle.
@@ -46,3 +70,28 @@ Merci pour votre soutien et vos contributions !
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spirit_of_Truth_Angie_Thurston_Interview">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit de vérité - Entretien avec Angie Thurston</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Fall_Endpage">
+          <span class="pr-2">Fin de la page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

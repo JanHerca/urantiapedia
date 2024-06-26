@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dancing_with_God_Retreat_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu : retraites spirituelles pour femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lifting_Together">
+          <span class="pr-2">Soulever ensemble</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **« RACINES DE L'ESPRIT » est le thème de cette année !**
@@ -48,3 +72,28 @@ Coopération sincère, endurance joyeuse, suivi fidèle, persévérance patiente
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dancing_with_God_Retreat_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Danser avec Dieu : retraites spirituelles pour femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lifting_Together">
+          <span class="pr-2">Soulever ensemble</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

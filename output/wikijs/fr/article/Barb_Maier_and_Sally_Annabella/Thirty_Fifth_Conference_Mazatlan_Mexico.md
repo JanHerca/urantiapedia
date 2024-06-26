@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Barb Maier et Sally Annabella<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pablo_Segovia/Chilean_Book_Fair_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre chilien 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/Spirit_Led_Teamwork">
+          <span class="pr-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -69,3 +93,28 @@ Vaya con Dios (Aller avec Dieu).
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pablo_Segovia/Chilean_Book_Fair_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre chilien 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/Spirit_Led_Teamwork">
+          <span class="pr-2">Travail d'équipe dirigé par l’Esprit : la perle des univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

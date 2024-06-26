@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Stuart R. Kerr III<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia n'est pas une secte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kulieke/Virtual_Summer_Study_Session">
+          <span class="pr-2">21-07-22 au 25 Session d'étude virtuelle d'été</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
@@ -103,3 +127,28 @@ Aujourd'hui, nous attendons une éventuelle arrivée formelle de Machiventa Melc
 
 > De Palestine, quelques missionnaires de Melchizédek se rendirent sur le grand plateau iranien en passant par la Mésopotamie. Pendant plus de cinq-cents ans, les éducateurs de Salem progressèrent en Iran. Toute la nation s’orientait vers la religion de Melchizédek lorsqu’un changement de dirigeants précipita une implacable persécution qui mit pratiquement fin aux enseignements monothéistes du culte de Salem. La doctrine de l’alliance avec Abraham avait pratiquement disparu en Perse lorsqu’au sixième siècle avant le Christ, ce grand siècle de renaissance morale, Zoroastre apparut pour ranimer la flamme presque éteinte de l’évangile de Salem. ([LU 95:6.1](/fr/The_Urantia_Book/95#p6_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia n'est pas une secte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kulieke/Virtual_Summer_Study_Session">
+          <span class="pr-2">21-07-22 au 25 Session d'étude virtuelle d'été</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

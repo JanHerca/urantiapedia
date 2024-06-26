@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mora Franco<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grande célébration mondiale de l’anniversaire de la naissance de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="pr-2">Pasko (Noël)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -69,3 +93,28 @@ Alejandro Ampudia, dans sa déclaration finale, a déclaré : « Nous avons conn
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grande célébration mondiale de l’anniversaire de la naissance de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="pr-2">Pasko (Noël)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

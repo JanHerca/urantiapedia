@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mora Franco<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La présence internationale de la Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
+          <span class="pr-2">Foire du livre à La Paz, Bolivie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -43,3 +67,28 @@ Pour ceux qui souhaitent voir l’enregistrement de trois heures de cette célé
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La présence internationale de la Fellowship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
+          <span class="pr-2">Foire du livre à La Paz, Bolivie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

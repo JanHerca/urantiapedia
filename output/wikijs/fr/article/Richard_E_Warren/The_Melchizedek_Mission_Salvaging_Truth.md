@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Richard E. Warren<br>© 2021 La Fellowship du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Printemps 2021 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peri_Best/Planetary_Government">
+          <span class="pr-2">Gouvernement planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
@@ -43,3 +67,28 @@ Un échantillon du livre Kindle « Regardez à l’intérieur » de La mission
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Printemps 2021 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peri_Best/Planetary_Government">
+          <span class="pr-2">Gouvernement planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

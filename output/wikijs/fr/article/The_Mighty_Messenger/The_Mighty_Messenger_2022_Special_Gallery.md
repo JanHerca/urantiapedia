@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Auto_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation automatique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Summary_Data_for_18_Selected_Human_Sources">
+          <span class="pr-2">Données récapitulatives pour 18 sources humaines sélectionnées</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -103,3 +127,28 @@ dateCreated: 2023-6-21T8:13:38Z
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Auto_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation automatique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Summary_Data_for_18_Selected_Human_Sources">
+          <span class="pr-2">Données récapitulatives pour 18 sources humaines sélectionnées</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

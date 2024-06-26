@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Geoff Theiss<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Automne 2019 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
+          <span class="pr-2">Vice-président par intérim — Bobbie Dreier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
@@ -36,3 +60,28 @@ Veuillez profiter d'une mise à jour de certains membres de notre équipe !
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Automne 2019 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
+          <span class="pr-2">Vice-président par intérim — Bobbie Dreier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

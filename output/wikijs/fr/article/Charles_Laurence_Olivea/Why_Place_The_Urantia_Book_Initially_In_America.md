@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Yman Juran (alias Jean Ascher)<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Upcoming_Publication_Deadlines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dates limites de publication à venir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Upcoming_Events_2020_Spring">
+          <span class="pr-2">Évènements à venir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Avant que Charles Olivea soit diplômé des mondes des maisons, il a posté ceci sur Socadmin. Lorsque je lui ai demandé s'il souhaitait que ce soit publié, il l’a réécrit comme vous le voyez ici. Cristina Seaborn, présidente des publications_
@@ -99,3 +123,28 @@ Santa Fe, Nouveau Mexique
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Upcoming_Publication_Deadlines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dates limites de publication à venir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Upcoming_Events_2020_Spring">
+          <span class="pr-2">Évènements à venir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

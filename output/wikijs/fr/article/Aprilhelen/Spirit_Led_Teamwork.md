@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Aprilhelen<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trente-cinquième Conférence à Mazatlán, Mexique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="pr-2">Des vacances d'été spirituellement enrichissantes pour toute la famille (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -128,3 +152,28 @@ Ces questions vous intriguent ? Vous avez des expériences à partager et l’en
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trente-cinquième Conférence à Mazatlán, Mexique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="pr-2">Des vacances d'été spirituellement enrichissantes pour toute la famille (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

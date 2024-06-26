@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Larry Bowman<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pierre_Chicoine/Mind_and_Artificial_Intelligence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit et intelligence artificielle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Urantia_Book_Study_Group_Directory">
+          <span class="pr-2">Annuaire du Groupe d’étude du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -69,3 +93,28 @@ Ces compétences seront utiles au Conseil général.
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pierre_Chicoine/Mind_and_Artificial_Intelligence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit et intelligence artificielle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Urantia_Book_Study_Group_Directory">
+          <span class="pr-2">Annuaire du Groupe d’étude du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

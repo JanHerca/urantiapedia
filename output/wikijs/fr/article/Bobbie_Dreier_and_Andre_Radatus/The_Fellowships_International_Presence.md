@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Bobbie Dreier et André Radatus<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Terres autrefois lointaines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="pr-2">Grande célébration mondiale de l’anniversaire de la naissance de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -56,3 +80,28 @@ Si tel est le cas, et si vous avez le désir de servir la mondialisation croissa
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Terres autrefois lointaines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="pr-2">Grande célébration mondiale de l’anniversaire de la naissance de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

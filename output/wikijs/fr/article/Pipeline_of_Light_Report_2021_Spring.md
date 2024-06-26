@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Choquette/The_Will_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Volonté de Dieu, Partie 1 « Amour »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hill/Inmate_Correspondence_Program_2021_Spring">
+          <span class="pr-2">Programme de correspondance des détenus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours des six derniers mois, nos volontaires du Pipeline de Lumière ont placé treize cent quarante-huit exemplaires du _Le Livre d'Urantia_ dans dix-sept pays. Vos dons au Pipeline nous ont aidés à livrer des livres à des lecteurs et à des groupes d'étude au Mexique, au Zimbabwe, au Canada, aux États-Unis, en Ukraine, au Chili, en Allemagne, au Cameroun, en Argentine, aux Philippines, aux Bermudes, en Nouvelle-Zélande, au Ghana, au Brésil, au Nigeria et au Venezuela. , l’Ouganda et Porto Rico.
@@ -33,3 +57,28 @@ Bourse _Le Livre d'Urantia_, PO Box 6631, Broomfield, CO 80021
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Choquette/The_Will_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Volonté de Dieu, Partie 1 « Amour »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hill/Inmate_Correspondence_Program_2021_Spring">
+          <span class="pr-2">Programme de correspondance des détenus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

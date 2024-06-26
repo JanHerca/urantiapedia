@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Bobbie Dreier<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence NAIN du Réseau interconfessionnel nord-américain d'Interfaith Aventures, été 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
+          <span class="pr-2">L’amour divin inspire la foi appliquée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par _Bobbie Dreier_
 
@@ -38,3 +62,28 @@ Les Krupas ont récemment déménagé dans une maison plus petite, donc la retra
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence NAIN du Réseau interconfessionnel nord-américain d'Interfaith Aventures, été 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
+          <span class="pr-2">L’amour divin inspire la foi appliquée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

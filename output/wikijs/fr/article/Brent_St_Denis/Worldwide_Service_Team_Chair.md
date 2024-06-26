@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Brent St. Denis<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pipeline_of_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline de Lumière - 30 septembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Geoff_Taylor/Interfaith_Committee_Chair">
+          <span class="pr-2">Président du comité interreligieux – Geoff Taylor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
@@ -46,3 +70,28 @@ Nous commençons tous à préparer le budget de la bourse 2020, qui devrait êtr
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pipeline_of_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline de Lumière - 30 septembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Geoff_Taylor/Interfaith_Committee_Chair">
+          <span class="pr-2">Président du comité interreligieux – Geoff Taylor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

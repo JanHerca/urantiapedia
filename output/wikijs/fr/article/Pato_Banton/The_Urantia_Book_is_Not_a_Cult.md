@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Pato Banton<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_Johnson/Abrahams_Salute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le salut d'Abraham</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/Machiventa_Melchizedek">
+          <span class="pr-2">Machiventa Melchizédek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
@@ -53,3 +77,28 @@ Les Urantiens croient que Jésus est le chemin, la vérité et la vie, mais nous
 
 Le Mouvement Urantia n’est pas une secte au sens négatif du terme. Mais si nous sommes une nouvelle secte avec un million de personnes qui étudient tranquillement dans le confort de leur propre foyer, beaucoup d'entre nous ne seront pas activés jusqu’à ce que Jésus-Christ, notre chef de secte, revienne personnellement dans ce monde ou envoie l’un de ses représentants (comme révélé dans _Le Livre d'Urantia_) pour unir tous les hommes et rendre ce monde plus semblable au Ciel. Plus près de la Lumière et de la Vie !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_Johnson/Abrahams_Salute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le salut d'Abraham</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/Machiventa_Melchizedek">
+          <span class="pr-2">Machiventa Melchizédek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

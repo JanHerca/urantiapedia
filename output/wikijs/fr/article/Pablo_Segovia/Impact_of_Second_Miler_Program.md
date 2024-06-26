@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Pablo Segovia<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le deuxième programme Miler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="pr-2">Thèmes et dates limites des publications à venir 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
@@ -105,3 +129,28 @@ Nous sommes très enthousiasmés par la croissance de nos groupes de lecteurs d'
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le deuxième programme Miler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="pr-2">Thèmes et dates limites des publications à venir 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

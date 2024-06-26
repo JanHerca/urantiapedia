@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Yman Juran (alias Jean Ascher)<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Why_Place_The_Urantia_Book_Initially_In_America">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi placer initialement le Livre d’Urantia en Amérique ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cristina_Seaborn/Family_Chapel">
+          <span class="pr-2">Chapelle familiale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En raison de la pandémie mondiale de Covid-19, veuillez contacter le coordinateur de l’événement pour connaître l’état actuel de l’événement.
@@ -47,3 +71,28 @@ En raison de la pandémie mondiale de Covid-19, veuillez contacter le coordinate
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Why_Place_The_Urantia_Book_Initially_In_America">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi placer initialement le Livre d’Urantia en Amérique ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cristina_Seaborn/Family_Chapel">
+          <span class="pr-2">Chapelle familiale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

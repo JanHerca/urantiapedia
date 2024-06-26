@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Pato Banton et Antoinette Hall<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Machiventa_Melchizedek">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizédek</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+          <span class="pr-2">Les journaux d'Urantia d'Harold et Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -71,3 +95,28 @@ https://www.youtube.com/watch?v=NBny4fEfXg
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Machiventa_Melchizedek">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizédek</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+          <span class="pr-2">Les journaux d'Urantia d'Harold et Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

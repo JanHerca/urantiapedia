@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Jisoo Han<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Wood/Urantia_Life_Lessons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leçons de vie sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Biggs_and_Peter_Laurence/Definition_of_Prayer">
+          <span class="pr-2">Définition de la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -60,3 +84,28 @@ Il s’agit avant tout d’influencer les gens de la communauté afin qu’ils p
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Wood/Urantia_Life_Lessons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leçons de vie sur Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Biggs_and_Peter_Laurence/Definition_of_Prayer">
+          <span class="pr-2">Définition de la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

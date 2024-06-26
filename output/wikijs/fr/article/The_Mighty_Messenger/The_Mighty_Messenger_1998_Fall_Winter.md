@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Janet Farrington-Graham, Jerry Pando, Carolyn Kendall, Gary Deinstadt, Tom French, Avi Dogim<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-automne/hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro automne/hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Comment se déroule l’initiative Unity ?
 
@@ -120,3 +138,22 @@ Membres : Avi Dogim, présidente Nancy Johnson, Carolyn Kendall, Linda Buselli,
 * Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-automne/hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro automne/hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

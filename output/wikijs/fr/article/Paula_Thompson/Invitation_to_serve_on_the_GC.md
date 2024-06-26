@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Paula Thompson<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Geoff_Taylor/What_is_Interfaith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que l’interconfessionnel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
+          <span class="pr-2">Invitation à siéger au GC</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Par _Paula Thompson_ Directrice de la bourse
 
@@ -46,3 +70,28 @@ Merci d'avance pour votre considération et votre volonté de servir !
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Geoff_Taylor/What_is_Interfaith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que l’interconfessionnel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
+          <span class="pr-2">Invitation à siéger au GC</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

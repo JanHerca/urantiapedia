@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Schlundt<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Graduation_Memorial_Page">
+          <span class="pr-2">Page commémorative de remise des diplômes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par _David G. Schlundt_, vice-président de la Urantia Book Fellowship
@@ -61,3 +85,28 @@ Si vous êtes intéressé par le rapport complet de l’enquête et sa discussio
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Graduation_Memorial_Page">
+          <span class="pr-2">Page commémorative de remise des diplômes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

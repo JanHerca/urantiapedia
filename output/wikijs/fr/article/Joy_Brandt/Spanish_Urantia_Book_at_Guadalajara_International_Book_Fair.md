@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Joy Brandt<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire internationale du livre de Guadalajara 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_F_Bruyn/A_Glimpse_of_The_Universe">
+          <span class="pr-2">Un aperçu de l’univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par Joy Brandt, membre du Comité international
 
@@ -28,3 +52,28 @@ Le stand « El Libro de Urantia » porte le numéro N25, alors s'il vous plaît,
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire internationale du livre de Guadalajara 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_F_Bruyn/A_Glimpse_of_The_Universe">
+          <span class="pr-2">Un aperçu de l’univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

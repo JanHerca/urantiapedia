@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Glass<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les journaux d'Urantia d'Harold et Martha Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
+          <span class="pr-2">Notre pèlerinage en Terre Sainte de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -54,3 +78,28 @@ David Verre
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Saskia_Praamsma_Raevouri/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les journaux d'Urantia d'Harold et Martha Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
+          <span class="pr-2">Notre pèlerinage en Terre Sainte de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2023_Summer_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Été 2023 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="pr-2">Terres autrefois lointaines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -57,3 +81,27 @@ En 2004, j'ai participé à plusieurs reprises à un groupe d'étude du Livre d'
 ## Remarques
 
 [^1] : Un coordinateur de zone travaille à introduire _Le Livre d'Urantia_ ou ses concepts dans la société et à favoriser les rassemblements et les activités de tous les lecteurs du Livre d'Urantia dans une zone de leur définition. Ils interagissent également avec d'autres coordinateurs de zone pour créer un réseau. et partager de nouveaux apprentissages et techniques.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2023_Summer_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Été 2023 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="pr-2">Terres autrefois lointaines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

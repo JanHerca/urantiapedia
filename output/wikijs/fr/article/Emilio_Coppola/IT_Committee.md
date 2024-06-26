@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Emilio Coppola<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jena_Lassiter/Web_Content_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Comité du contenu Web</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+          <span class="pr-2">Rapport de bureau 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le comité informatique « ad hoc » (*) est composé de divers membres (voir la liste des membres ci-dessous) pour aider à guider et conseiller le CE sur les besoins informatiques globaux de l’organisation. Le but de ce Comité est de guider et de mettre en œuvre des solutions « technologiques » pour la Communauté du Livre d'Urantia. Il y a eu un deuxième comité « ad hoc » (présidé par Dana Bredemeyer) pour traiter du « contenu » ainsi que de l’apparence générale – fonctionnalité – du ou des sites Web. 
@@ -37,3 +61,28 @@ Je souhaite qu’en tant qu’agent de liaison EC, je continue à diriger la nou
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jena_Lassiter/Web_Content_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport du Comité du contenu Web</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+          <span class="pr-2">Rapport de bureau 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

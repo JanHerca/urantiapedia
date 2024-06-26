@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Jena Lassiter<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Summer_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Été 2022 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
+          <span class="pr-2">Entrer dans un nouveau sens de la réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -37,3 +61,28 @@ Les buts de la _Fambourg du Livre d'Urantia_ sont de favoriser et de soutenir un
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Summer_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mighty Messenger Été 2022 — Couverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
+          <span class="pr-2">Entrer dans un nouveau sens de la réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

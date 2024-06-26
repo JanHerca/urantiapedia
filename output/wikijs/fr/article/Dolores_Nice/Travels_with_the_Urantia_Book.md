@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Dolores Nice<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agustin_Arellano/Report_on_CN20_Conference_and_Urantia_TV">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur la Conférence CN20 et Urantia TV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+          <span class="pr-2">Rapport du Comité d'orientation organisationnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -46,3 +70,28 @@ Ces voyages m'ont donné l’opportunité de rencontrer de nombreux lecteurs et 
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agustin_Arellano/Report_on_CN20_Conference_and_Urantia_TV">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur la Conférence CN20 et Urantia TV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+          <span class="pr-2">Rapport du Comité d'orientation organisationnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

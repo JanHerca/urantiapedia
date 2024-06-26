@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Urantia_Global_Experience_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">MISE À JOUR de l’Expérience Globale Urantia 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Announcing_the_Graduation_Initiative">
+          <span class="pr-2">Annonce de l’initiative de remise des diplômes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ceci est une expérience. Plutôt que de vous présenter, nous voulons que vous fassiez partie de l’expérience. Plutôt que d'être un participant passif, nous souhaitons que vous soyez activement engagés dans des discussions ciblées visant directement à travailler avec Dieu le Suprême pour améliorer la civilisation.
@@ -37,3 +61,28 @@ https://urantiaglobalexperience.com/
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Urantia_Global_Experience_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">MISE À JOUR de l’Expérience Globale Urantia 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Announcing_the_Graduation_Initiative">
+          <span class="pr-2">Annonce de l’initiative de remise des diplômes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

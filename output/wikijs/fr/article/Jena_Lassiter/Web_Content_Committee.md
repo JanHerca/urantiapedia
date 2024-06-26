@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Jena Lassiter<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pablo_Segovia/Spanish_Website_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coprésident du comité espagnol du site Web – Pablo Segovia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emilio_Coppola/IT_Committee">
+          <span class="pr-2">Rapport du comité par Emilio Coppola — Liaison EC — De janvier 2019 à juin 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -62,3 +86,28 @@ Après la version initiale :
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pablo_Segovia/Spanish_Website_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coprésident du comité espagnol du site Web – Pablo Segovia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emilio_Coppola/IT_Committee">
+          <span class="pr-2">Rapport du comité par Emilio Coppola — Liaison EC — De janvier 2019 à juin 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

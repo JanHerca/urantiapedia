@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Joshua J. Wilson<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Publications_Survey">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enquête sur les publications</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Notre expérience au Parlement des religions du monde 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Travaillant sur Terre depuis 200 000 avant JC en tant qu’un des douze récepteurs planétaires, Sage de Salem (1980-1886 avant JC), collaborateur des prophètes et des voyants (vers 1866 avant JC-30 après JC), gouverneur général résident (vers 950-1050 après JC), vice-gérant Prince Planétaire (actuel)
@@ -131,3 +155,28 @@ Il est titulaire d'un baccalauréat en administration des affaires et en systèm
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Publications_Survey">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enquête sur les publications</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Notre expérience au Parlement des religions du monde 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

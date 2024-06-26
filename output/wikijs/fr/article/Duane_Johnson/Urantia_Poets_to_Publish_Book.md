@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Duane Johnson<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport annuel 2022 sur le pipeline de lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
+          <span class="pr-2">L’avenir du Mouvement Urantia : les jeunes en vue !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -51,3 +75,28 @@ Si vous souhaitez précommander un exemplaire de _Sailing to Salvington_, envoye
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport annuel 2022 sur le pipeline de lumière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
+          <span class="pr-2">L’avenir du Mouvement Urantia : les jeunes en vue !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

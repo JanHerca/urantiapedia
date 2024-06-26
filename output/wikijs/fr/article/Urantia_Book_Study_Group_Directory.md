@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Bowman/New_GC_and_EC_Members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveaux membres du CA et du CE</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="pr-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Répertoire des groupes d'étude du Livre d'Urantia_ a récemment dépassé le plus grand nombre d'inscriptions ajoutées au cours d'une seule année depuis 2011. Un total de 68 nouveaux groupes ont été ajoutés en 2019. Cela représente plus du double du nombre de nouveaux groupes ajoutés en 2018. L'annuaire des groupes d'étude continue de croître alors que des lecteurs de plus de 55 pays ont trouvé l’annuaire et ajouté des informations sur leurs groupes d'étude. Fin 2019, l’Annuaire comptait au total 463 groupes d'études.
@@ -61,3 +85,28 @@ Dans un service joyeux,
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Bowman/New_GC_and_EC_Members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveaux membres du CA et du CE</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="pr-2">Projet « Commonalité entre les confessions » du Comité interconfessionnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Larry Bowman<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Invitation_to_serve_on_the_GC">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invitation à siéger au GC</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
+          <span class="pr-2">Foire internationale du livre de Guadalajara 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par _Larry Bowman_
@@ -45,3 +69,28 @@ Dans l’équipe de service de Cristina, le seul comité permanent est celui des
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Invitation_to_serve_on_the_GC">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invitation à siéger au GC</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
+          <span class="pr-2">Foire internationale du livre de Guadalajara 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

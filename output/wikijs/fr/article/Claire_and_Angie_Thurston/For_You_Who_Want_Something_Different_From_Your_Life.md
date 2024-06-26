@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claire et Angie Thurston<br>© 2022 La Fellowship du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rebecca - Une histoire d'amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
+          <span class="pr-2">Comment Jésus a enseigné à chaque personne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -398,3 +422,28 @@ Nous sommes une mère et une fille qui voulaient toutes les deux quelque chose d
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rebecca - Une histoire d'amour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
+          <span class="pr-2">Comment Jésus a enseigné à chaque personne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

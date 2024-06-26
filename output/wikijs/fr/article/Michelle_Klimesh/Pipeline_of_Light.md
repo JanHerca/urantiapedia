@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Michelle Klimesh<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yman_Juran/A_Urantia_in_Second_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Urantia dans Second Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ted_Blaney/Fellowship_Field_Worker_Program">
+          <span class="pr-2">Programme de bourses d'agents de terrain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 31 décembre 2019
@@ -49,3 +73,28 @@ Placement du pipeline = plantation de graines. Merci pour votre aide.
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yman_Juran/A_Urantia_in_Second_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Urantia dans Second Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ted_Blaney/Fellowship_Field_Worker_Program">
+          <span class="pr-2">Programme de bourses d'agents de terrain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

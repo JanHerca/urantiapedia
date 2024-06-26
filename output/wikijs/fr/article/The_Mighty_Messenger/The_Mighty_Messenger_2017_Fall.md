@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Paula Thompson, Michael Painter, Tom Allen, Mark Erickson, Christopher Selmek<br>© 2017 La Fellowship du Livre d'Urantia< /p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Un été passionnant s’annonce !
@@ -274,3 +292,22 @@ www.urantiabook.org
 
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

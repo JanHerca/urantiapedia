@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Peri Best<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mission Melchisédek : sauver la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
+          <span class="pr-2">Enseignements des missionnaires de Salem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
@@ -73,3 +97,28 @@ Ces personnalités sélectionnées sont pour l’instant exemptées du régime d
 </figure>
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mission Melchisédek : sauver la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
+          <span class="pr-2">Enseignements des missionnaires de Salem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claudia Ayers<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ma mère athée ressuscitera-t-elle d'entre les morts ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hagan_and_Monica_Kemp/Beware_I_am_Contagious">
+          <span class="pr-2">Méfiez-vous! Je suis contagieuse !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -108,3 +132,28 @@ Dans cette présence, laisse-moi être. . je frappe toujours à la porte du para
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ma mère athée ressuscitera-t-elle d'entre les morts ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hagan_and_Monica_Kemp/Beware_I_am_Contagious">
+          <span class="pr-2">Méfiez-vous! Je suis contagieuse !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

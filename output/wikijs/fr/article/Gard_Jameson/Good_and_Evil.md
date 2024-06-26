@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/True_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vraies valeurs — Sources d'insights révélateurs, — Une méditation sur l’humain Auteur Ralph Tyler Flewelling — Deuxième partie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Truth_and_Faith">
+          <span class="pr-2">Vérité et foi — Sources de perspicacité révélatrice, — Une méditation sur l’humain Auteur Ralph Tyler Flewelling — Quatrième partie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par _Gard Jameson_ 
@@ -184,3 +208,28 @@ Notre volonté morale est indissolublement liée à l’idée d'être *une perso
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/True_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vraies valeurs — Sources d'insights révélateurs, — Une méditation sur l’humain Auteur Ralph Tyler Flewelling — Deuxième partie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Truth_and_Faith">
+          <span class="pr-2">Vérité et foi — Sources de perspicacité révélatrice, — Une méditation sur l’humain Auteur Ralph Tyler Flewelling — Quatrième partie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

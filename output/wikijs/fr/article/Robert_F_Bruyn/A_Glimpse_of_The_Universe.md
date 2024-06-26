@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Robert F. Bruyn, Ph.D.<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia en espagnol à la Foire internationale du livre de Gudalajara</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+          <span class="pr-2">Conférence NAIN du Réseau interconfessionnel nord-américain d'Interfaith Aventures, été 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par _Robert F. Bruyn, Ph.D._
 
@@ -49,3 +73,27 @@ Ces idées correspondent à mon expérience. Bien que le coup porté à ma tête
 
 [^1] : Pearce, Joseph Chilton. L'enfant magique mûrit. Duton, 1985
 [^2] : Le Livre d'URANTIA. Fondation URANTIA 1955 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia en espagnol à la Foire internationale du livre de Gudalajara</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+          <span class="pr-2">Conférence NAIN du Réseau interconfessionnel nord-américain d'Interfaith Aventures, été 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

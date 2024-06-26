@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Cristina Seaborn et Stephen Sawyer<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thèmes et dates limites des publications à venir 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="pr-2">A survécu à l’épreuve enflammée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par _Cristina Seaborn et Stephen Sawyer_
@@ -97,3 +121,28 @@ J'étudie le livre depuis 1972. J'ai été l’un des premiers instructeurs de c
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thèmes et dates limites des publications à venir 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="pr-2">A survécu à l’épreuve enflammée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

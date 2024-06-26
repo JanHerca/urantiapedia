@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Summer_Study_Session_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Session d'études d'été 2019 — du jeudi 27 juin au dimanche 30 juin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Youth_and_Young_Adults_in_Boulder">
+          <span class="pr-2">Rassemblement de jeunes et de jeunes adultes à Poulder, Colorado 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nouveau-Mexique, Synergia Ranch du 4 au 7 avril
@@ -37,3 +61,28 @@ Pour plus d'informations et pour réserver une place, veuillez contacter line.st
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Summer_Study_Session_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Session d'études d'été 2019 — du jeudi 27 juin au dimanche 30 juin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Youth_and_Young_Adults_in_Boulder">
+          <span class="pr-2">Rassemblement de jeunes et de jeunes adultes à Poulder, Colorado 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

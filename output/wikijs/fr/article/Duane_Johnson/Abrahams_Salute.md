@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Duane Johnson<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enseignements des missionnaires de Salem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
+          <span class="pr-2">Le Livre d'Urantia n'est pas une secte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -46,3 +70,28 @@ Duane Johnson, Topeka, Kansas
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/022.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enseignements des missionnaires de Salem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
+          <span class="pr-2">Le Livre d'Urantia n'est pas une secte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

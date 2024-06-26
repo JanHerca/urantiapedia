@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Bobbie Dreier<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des vacances d'été spirituellement enrichissantes pour toute la famille (IC23)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Latin_America_Sub_Committee_Book_Fairs_Events_2023">
+          <span class="pr-2">Foires et événements du livre du Sous-comité d'Amérique latine 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -44,3 +68,28 @@ Je vous invite à jeter un œil aux informations sur la conférence sur le site 
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des vacances d'été spirituellement enrichissantes pour toute la famille (IC23)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Latin_America_Sub_Committee_Book_Fairs_Events_2023">
+          <span class="pr-2">Foires et événements du livre du Sous-comité d'Amérique latine 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

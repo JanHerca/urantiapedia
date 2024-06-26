@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 La Fellowship du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/An_Invitation_from_TheChristExperiment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une invitation de TheChristExperiment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Planned_Giving_to_The_Urantia_Book_Fellowship">
+          <span class="pr-2">Don prévu à la Fellowship du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un jour, les vocations qui soutiennent notre vie honoreront aussi nos âmes. Angie construit aujourd’hui des ponts vers cette éventualité.
@@ -44,3 +68,28 @@ https://www.youtube.com/c/URANTIABOOKNETWORK/videos
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Zshonette_Reed/An_Invitation_from_TheChristExperiment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une invitation de TheChristExperiment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Planned_Giving_to_The_Urantia_Book_Fellowship">
+          <span class="pr-2">Don prévu à la Fellowship du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

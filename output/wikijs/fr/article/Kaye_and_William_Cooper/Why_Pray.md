@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Kaye et William Cooper<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entrer dans un nouveau sens de la réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="pr-2">Rebecca - Une histoire d'amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -59,3 +83,28 @@ Parlez simplement à votre parent spirituel comme vous le feriez avec un ami de 
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entrer dans un nouveau sens de la réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="pr-2">Rebecca - Une histoire d'amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

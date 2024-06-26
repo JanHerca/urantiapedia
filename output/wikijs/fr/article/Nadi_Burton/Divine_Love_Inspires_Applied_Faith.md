@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Nadi Burton<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/The_Angel_House_Retreat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La retraite de la maison des anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
+          <span class="pr-2">Un hymne à l’Esprit Mère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par _Nadi Burton_
 
@@ -40,3 +64,28 @@ Vous avez peut-être rencontré Nadi Burton à Denver lors de la Conférence int
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/The_Angel_House_Retreat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La retraite de la maison des anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
+          <span class="pr-2">Un hymne à l’Esprit Mère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

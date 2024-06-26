@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Tom Allen<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présidente de l’équipe du service de bourse – Lara Amyx</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Amyx/Membership_Committee_Chair">
+          <span class="pr-2">Président du comité des adhésions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En tant que président du comité judiciaire, j'ai eu le privilège de nommer David Schlundt, Beth Wenger, Geri Johnson, Merritt Horn et Elizabeth Callahan comme membres du comité, et Albert Lassiter comme adjoint. Entre autres responsabilités, nous sommes actifs dans l’éducation et l’interprétation de la Constitution de LA COMMUNAUTÉ DU LIVRE D’URANTIA. Nous emploierons toujours la Miséricorde et la Tolérance comme première réponse à toute controverse exigeant la Justice qui pourrait survenir parmi les comités ou les membres de la Fellowship. Je suis fier de dire que ces types d'interventions sont rares. Nous cherchons à connaître les règles de procédure de Robert pour faciliter nos réunions. Nous serons prêts à l’avenir à faciliter et à évaluer des changements bénéfiques dans notre structure constitutionnelle si le desideratum de la Fraternité dicte de telles révisions. Nous sommes toujours à votre disposition pour obtenir des conseils et des conseils à tout moment. 
@@ -33,3 +57,28 @@ Notre objectif
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présidente de l’équipe du service de bourse – Lara Amyx</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Amyx/Membership_Committee_Chair">
+          <span class="pr-2">Président du comité des adhésions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
