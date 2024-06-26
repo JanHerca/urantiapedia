@@ -62,7 +62,7 @@ Be sure to catch their beautiful performance at The Parliament Of Worlds Religio
 
 https://www.youtube.com/watch?v=NurBEzUap5o
 
-> “Devote your life to proving that love is the greatest thing in the world.” <a id="a62_78"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1)
+> “Devote your life to proving that love is the greatest thing in the world.” <a id="a64_78"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1)
 
 To learn more, go to: www.patobanton.com & www.facebook.com/groups/patobantonsspiritualfamily
 

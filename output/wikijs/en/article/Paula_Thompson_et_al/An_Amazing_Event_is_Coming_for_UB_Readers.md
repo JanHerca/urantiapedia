@@ -20,11 +20,11 @@ On August 21, 2017, the United States experienced a very rare solar eclipse, in 
 
 Do these dates sound familiar to Urantia Book readers?
 
-According to The Urantia Book, August 21, 7 BCE, was the date of Jesus' birth ([UB 122:8.1](/en/The_Urantia_Book/122#p8_1)) and April 8, 30 BCE, is the only entire day Jesus' mortal body lay in the tomb after his death on the cross ([UB 188:0.1](/en/The_Urantia_Book/188#p0_1)). _The Urantia Book_ community commonly knows this date as the only full day of the “time of the tomb” ([UB 188:0.1](/en/The_Urantia_Book/188#p0_1)).
+According to The Urantia Book, August 21, 7 BCE, was the date of Jesus' birth (<a id="a22_79"></a>[UB 122:8.1](/en/The_Urantia_Book/122#p8_1)) and April 8, 30 BCE, is the only entire day Jesus' mortal body lay in the tomb after his death on the cross (<a id="a22_233"></a>[UB 188:0.1](/en/The_Urantia_Book/188#p0_1)). _The Urantia Book_ community commonly knows this date as the only full day of the “time of the tomb” (<a id="a22_381"></a>[UB 188:0.1](/en/The_Urantia_Book/188#p0_1)).
 
 To have a total solar eclipse occur anywhere on the planet on either of these two important dates would be most interesting. However, to have these _two_ eclipses occur over the United States happening on _significant dates_ and _times_ near a _significant place_ is way beyond interesting. Some would say this is just a coincidence, and perhaps that is true, but could it be more? Could it not also serve as a wake-up call for followers of _The Urantia Book_?
 
-To say that something is “co-incident” could also indicate that it is deliberate or purposeful. Perhaps we are too quick to dismiss occurrences like this. This is not to suggest that anyone should subscribe to “signs and wonders” ([UB 145:5.6](/en/The_Urantia_Book/145#p5_6)) but perhaps we can acknowledge that these unusual eclipse events have received the attention of _millions_ of people around the world. When something gets the attention of millions, and just so happens to coincide with significant dates in Jesus' time here, as revealed in _The Urantia Book_, isn't that worthy of our attention? At the very least, it represents an outreach opportunity to let the public know about the significance of these dates as an introduction to _The Urantia Book_.
+To say that something is “co-incident” could also indicate that it is deliberate or purposeful. Perhaps we are too quick to dismiss occurrences like this. This is not to suggest that anyone should subscribe to “signs and wonders” (<a id="a26_231"></a>[UB 145:5.6](/en/The_Urantia_Book/145#p5_6)) but perhaps we can acknowledge that these unusual eclipse events have received the attention of _millions_ of people around the world. When something gets the attention of millions, and just so happens to coincide with significant dates in Jesus' time here, as revealed in _The Urantia Book_, isn't that worthy of our attention? At the very least, it represents an outreach opportunity to let the public know about the significance of these dates as an introduction to _The Urantia Book_.
 
 Here are some other important facts about these two eclipses:
 
@@ -73,7 +73,7 @@ The 2017 eclipse came on the _date of Jesus' birth_, August 21.
 
 The partial eclipse at the point of crossing in 2017 started at _11:52 a.m._ (which is about noon).
 
-...and at noon, August 21, 7 B.C. . . . Mary was delivered of a male child ([UB 122:8.1](/en/The_Urantia_Book/122#p8_1)).
+...and at noon, August 21, 7 B.C. . . . Mary was delivered of a male child (<a id="a75_76"></a>[UB 122:8.1](/en/The_Urantia_Book/122#p8_1)).
 
 The 2024 eclipse comes on the date of Jesus' body's only full _day in the tomb_, April 8.
 
@@ -81,13 +81,13 @@ The partial eclipse at the point of crossing in 2024 ends at 3:18 p.m. (which is
 
 In _The Urantia Book_, three o'clock is a significant time.
 
-> It was just before **three o'clock** [emphasis added] when Jesus, with a loud voice, cried out, “It is finished! Father, into your hands I commend my spirit.” And when he had thus spoken, he bowed his head and gave up the life struggle. ([UB 187:5.5](/en/The_Urantia_Book/187#p5_5))
+> It was just before **three o'clock** [emphasis added] when Jesus, with a loud voice, cried out, “It is finished! Father, into your hands I commend my spirit.” And when he had thus spoken, he bowed his head and gave up the life struggle. (<a id="a83_240"></a>[UB 187:5.5](/en/The_Urantia_Book/187#p5_5))
 
->The day and a half that Jesus' mortal body lay in the tomb of Joseph, the period between his death on the cross and his resurrection, is a chapter in the earth career of Michael which is little known to us. We can narrate the burial of the Son of Man and put in this record the events associated with his resurrection, but we cannot supply much information of an authentic nature about what really transpired during this epoch of about thirty-six hours, **from three o'clock Friday afternoon to three o'clock Sunday morning** [emphasis added]. This period in the Master's career began shortly before he was taken down from the cross by the Roman soldiers. ([UB 188:0.1](/en/The_Urantia_Book/188#p0_1))
+>The day and a half that Jesus' mortal body lay in the tomb of Joseph, the period between his death on the cross and his resurrection, is a chapter in the earth career of Michael which is little known to us. We can narrate the burial of the Son of Man and put in this record the events associated with his resurrection, but we cannot supply much information of an authentic nature about what really transpired during this epoch of about thirty-six hours, **from three o'clock Friday afternoon to three o'clock Sunday morning** [emphasis added]. This period in the Master's career began shortly before he was taken down from the cross by the Roman soldiers. (<a id="a85_658"></a>[UB 188:0.1](/en/The_Urantia_Book/188#p0_1))
 
 ## Why Now?
 
-The crossing of the two eclipses can be seen as truly symbolic of where the world stands now, “quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) and at the _crossroads_ of advancement or regression.
+The crossing of the two eclipses can be seen as truly symbolic of where the world stands now, “quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment” (<a id="a89_245"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) and at the _crossroads_ of advancement or regression.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Paula_Thompson_et_al/23.jpg">

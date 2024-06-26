@@ -281,11 +281,11 @@ The *Urantia Book* has had a sizeable readership among country-western stars, in
 
 TV and movie celebrities have called or visited over the years, beginning with Lew “Dr. Kildare” Ayers in 1956, which thrilled then Secretary-General, Marian Rowley to pieces. They kept up a correspondence for several years. A few entertainers have mentioned in interviews that they read the book, but most seem to prefer that their names not be used as an inducement to others to read the book.
 
-> *“Throughout the journey to Paradise there will always be time for rest and spirit play; and in the career of light and life there is always time for worship and new achievement.”* (<a id="a284_184"></a>[UB 25:7.2](/en/The_Urantia_Book/25#p7_2))
+> *“Throughout the journey to Paradise there will always be time for rest and spirit play; and in the career of light and life there is always time for worship and new achievement.”* (<a id="a283_184"></a>[UB 25:7.2](/en/The_Urantia_Book/25#p7_2))
 
 
 > **Proclaiming the Coming Spiritual Renaissance on Radio**
-> _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ (<a id="a288_261"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
+> _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ (<a id="a287_261"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 
 > Prior to his generating controversy among the reader community in 1983 with his predictions of the outbreak of World War III, Vern Grimsley had established himself as the foremost radio broadcaster of the teachings of Jesus according to *The Urantia Book.* As he had agreed with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.
 > 

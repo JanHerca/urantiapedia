@@ -28,7 +28,7 @@ _(Reprinted with permission from the author.)_
 
 It's very easy to have diversity, difference of opinion, and divergent viewpoints because we are human; our personalities are unique, and our experiences are personal. I may go through a shared event or tribulation, but my experience is mine and mine alone. Jesus discussed this in “Paper 141. Beginning the Public Work,” in section “ 5 . Spiritual Unity.”
 
-> One of the most eventful of all the evening conferences at Amathus was the session having to do with the discussion of spiritual unity. James Zebedee asked, “Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?” [Jesus replied: . . . ] “What I require of you, my apostles, is—spirit _unity_—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike.” ([UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
+> One of the most eventful of all the evening conferences at Amathus was the session having to do with the discussion of spiritual unity. James Zebedee asked, “Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?” [Jesus replied: . . . ] “What I require of you, my apostles, is—spirit _unity_—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike.” (<a id="a30_554"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
 
 Spirit unity is something which must be strived for and worked at; it will not come automatically. It must be consciously thought out and sorted.
 
@@ -40,7 +40,7 @@ I tried to point out that, unless we could come to some agreement, then we could
 
 So, this got me thinking on my way home after the book fair-how to have spirit unity. I needed to seek out what is common between us. Jesus did this very well, particularly during his journeys through the Mediterranean.
 
-> He selected five of the leading Stoics, eleven of the Cynics, and sixteen of the mystery-cult leaders and spent much of his spare time for almost six months in intimate association with these religious teachers. And this was his method of instruction: Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error. ([UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
+> He selected five of the leading Stoics, eleven of the Cynics, and sixteen of the mystery-cult leaders and spent much of his spare time for almost six months in intimate association with these religious teachers. And this was his method of instruction: Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error. (<a id="a42_574"></a>[UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Phillip_Marriott/47.jpg">
@@ -50,9 +50,9 @@ But of course, I could never hope to be as clever or sagacious as Jesus, and if 
 
 “Paper 103. The Reality of Religious Experience” explains:
 
-> The unity of religious experience among a social or racial group derives from the identical nature of the God fragment indwelling the individual. . . . A group of mortals can experience spiritual unity, but they can never attain philosophic uniformity. ([UB 103:1.1](/en/The_Urantia_Book/103#p1_1))
+> The unity of religious experience among a social or racial group derives from the identical nature of the God fragment indwelling the individual. . . . A group of mortals can experience spiritual unity, but they can never attain philosophic uniformity. (<a id="a52_256"></a>[UB 103:1.1](/en/The_Urantia_Book/103#p1_1))
 
-> There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members. ([UB 103:5.12](/en/The_Urantia_Book/103#p5_12))
+> There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members. (<a id="a54_161"></a>[UB 103:5.12](/en/The_Urantia_Book/103#p5_12))
 
 I often say that there are as many religions as there are people on the face of the earth.
 
@@ -79,9 +79,9 @@ Then we can allow the differing opinions and beliefs to exist together, within a
 
 The book best sums it up with these final papers:
 
-> Pentecost was the call to spiritual unity among gospel believers. When the spirit descended on the disciples at Jerusalem, the same thing happened in Philadelphia, Alexandria, and at all other places where true believers dwelt. It was literally true that “there was but one heart and soul among the multitude of the believers.” The religion of Jesus is the most powerful unifying influence the world has ever known. ([UB 194:3.17](/en/The_Urantia_Book/194#p3_17))
+> Pentecost was the call to spiritual unity among gospel believers. When the spirit descended on the disciples at Jerusalem, the same thing happened in Philadelphia, Alexandria, and at all other places where true believers dwelt. It was literally true that “there was but one heart and soul among the multitude of the believers.” The religion of Jesus is the most powerful unifying influence the world has ever known. (<a id="a81_419"></a>[UB 194:3.17](/en/The_Urantia_Book/194#p3_17))
 
-> Christianity is seriously confronted with the doom embodied in one of its own slogans: “A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sectdivided Christendom. The living Jesus is the only hope of a possible unification of Christianity. ([UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
+> Christianity is seriously confronted with the doom embodied in one of its own slogans: “A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sectdivided Christendom. The living Jesus is the only hope of a possible unification of Christianity. (<a id="a83_291"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
 
 > Phillip Marriott has been a member since 2012 of ANZURA—Australia and New Zealand Urantia Association.
 {.is-info}

@@ -103,7 +103,7 @@ I would like to finish with this profoundly inspiring thought that our Sovereign
 
 <br style="clear:both;"/>
 
-> “In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.” <a id="a103_343"></a>[[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)]
+> “In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.” <a id="a105_343"></a>[[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)]
 
 Thank you for your attention.  
 Georges Michelson-DuPont

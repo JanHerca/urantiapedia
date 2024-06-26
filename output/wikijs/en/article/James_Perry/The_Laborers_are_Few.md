@@ -32,7 +32,7 @@ It is imperative for us all to reflect on our reasons for engaging with and stud
 
 <br style="clear:both;"/>
 
-> You can do important work if you do not become self-important; you can do several things as easily as one if you leave yourself out. ([UB 48:6.37](/en/The_Urantia_Book/48#p6_37))
+> You can do important work if you do not become self-important; you can do several things as easily as one if you leave yourself out. (<a id="a34_136"></a>[UB 48:6.37](/en/The_Urantia_Book/48#p6_37))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/James_Perry/37.jpg">

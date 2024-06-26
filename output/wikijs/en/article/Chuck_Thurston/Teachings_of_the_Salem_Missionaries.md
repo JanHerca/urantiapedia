@@ -192,7 +192,7 @@ It's also interesting, I think, to see that many of these ideas reappear in Jesu
 
 > “.... And it is a mystery how the Supreme fosters, protects, and perfects the creature without compelling him. He guides and directs, but without self-assertion. He ministers progression, but without domination. <a id="a192_214"></a>[[UB 131:8.3](/en/The_Urantia_Book/131#p8_3)]
 
-> “... He is a wise man who regards all parts from the point of view of the whole....” [[UB 131:8.4](/en/The_Urantia_Book/131#p8_4)]
+> “... He is a wise man who regards all parts from the point of view of the whole....” <a id="a194_87"></a>[[UB 131:8.4](/en/The_Urantia_Book/131#p8_4)]
 
 > “... You cannot find the Supreme, neither can you go to a place where he is not...'" <a id="a196_87"></a>[[UB 131:8.5](/en/The_Urantia_Book/131#p8_5)]
 

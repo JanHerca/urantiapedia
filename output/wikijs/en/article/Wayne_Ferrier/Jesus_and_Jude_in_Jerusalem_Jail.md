@@ -92,7 +92,7 @@ Jesus never did tell the family about what happened to Jude during their visit t
 <img src="/image/article/Study_Group_Herald/Jesus_Judas2.jpg">
 </figure>
 
-> Ed. Note: This story is from The Urantia Book: [UB 128:6.5-8](/en/The_Urantia_Book/128#p6_5)
+> Ed. Note: This story is from The Urantia Book: <a id="a94_49"></a>[UB 128:6.5-8](/en/The_Urantia_Book/128#p6_5)
 {.is-info}
 
 <figure class="table chapter-navigator">
