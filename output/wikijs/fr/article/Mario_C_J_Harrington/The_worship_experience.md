@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Mario C.J. Harrington<br>© 1989 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les créations de l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À mesure que de plus en plus d’individus suivent leurs incitations religieuses conscientes, ils recherchent des conseils sur les voies de la prière et de l’adoration, ou sur la manière de pratiquer la présence de Dieu. Le chemin vers le Père Universel est avant tout un voyage intérieur. Dans la prière, un élément d’intérêt personnel est impliqué. Beaucoup d’entre nous ont fait l’expérience que les prières ne sont pas nécessairement exaucées au niveau formulé. Le contrôle excessif des forces spirituelles de l’univers tend à répondre à nos demandes à leur niveau le plus élevé et le plus pur. De temps en temps, nos requêtes sont effectivement satisfaites et nous sommes ensuite surpris de constater la réalité de notre désir. La prière enrichit la vie, mais l'adoration illumine le destin.
@@ -38,3 +59,25 @@ Car nous devrions savoir que
 _Mario C.J. Harrington_
 _Pompano Beach, Floride_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les créations de l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

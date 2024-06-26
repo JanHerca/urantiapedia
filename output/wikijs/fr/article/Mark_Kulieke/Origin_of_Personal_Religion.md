@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1994 Richard Preiss</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Preiss/Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viens. Un R Toon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kulieke/Trying_to_Touch">
+          <span class="pr-2">Essayer de toucher</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par Mark Kulieke
 
@@ -109,3 +133,27 @@ Nous avons eu beaucoup de mal à travers les âges à nous occuper de nos propre
 Extrait de [LU 99:5.7](/fr/The_Urantia_Book/99#p5_7) : « Puisque la vraie religion est une affaire d’expérience spirituelle personnelle, il est inévitable qu’individuellement, chaque religioniste ait sa propre interprétation personnelle de la manière de réaliser cette expérience spirituelle. Le mot « foi » devrait représenter la relation de l’individu avec Dieu, plutôt qu’une formule de crédo sur laquelle un groupe de mortels est parvenu à s’accorder en tant qu’attitude religieuse commune. « Avez-vous la foi ? Alors, ayez-la pour vous-même. »
 
 La nature intime et personnelle de la religion est un fait et une vérité importante qui doit être diffusée dans le monde entier. C'est là, par-dessus tout, la bonne nouvelle que nous apportons : la relation personnelle de la créature individuelle avec son Père spirituel et les relations qui en résultent avec tous les autres êtres créés dans l'univers. C’est le message qui doit parvenir aux régions les plus reculées du monde. Au cours des vingt dernières années, j'ai parlé avec des centaines et des centaines de personnes concernant leur voyage religieux et comment elles sont arrivées au _Livre d'Urantia_. Le facteur le plus constant qui les a impressionnés était la façon dont le livre semblait leur parler si directement, de manière si personnelle et unique. C’est l’attrait de cette révélation historique. Les gens veulent la liberté de construire leur propre religion personnelle. Plutôt que de vivre dans la peur de l’accueil étrange que le livre peut parfois recevoir, nous devrions célébrer la diversité des réponses. Cette diversité réaffirme que l’homme est un « fils volontaire et libéré du Père Universel ». Il n’est pas un automate dans un « cosmos mathématique », mais un Fils de Dieu et pour toujours une partie unique d’une vaste configuration, un organisme universel qui s’étend à l’infini et grandit dans l’avenir éternel. Nous n’avons pas à craindre car Dieu aime chacun de nous personnellement. Son esprit nous parle en disant : « Je suis ici maintenant. Je suis toujours avec vous. Je ne t’abandonnerai jamais ni ne t’abandonnerai. Vous êtes aimé maintenant et pour toujours. Guérissez votre âme dans cette connaissance et cette vérité. Aidez les autres à connaître cette vérité et à être libres.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Preiss/Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viens. Un R Toon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kulieke/Trying_to_Touch">
+          <span class="pr-2">Essayer de toucher</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

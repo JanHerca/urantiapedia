@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1993 Harry Roloff</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'intégrité scientifique du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="pr-2">La loi est la vie elle-même et non les règles de sa conduite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Au début de chaque année à venir
 Nous opposons un nouvel espoir à une vieille peur
@@ -113,3 +137,27 @@ Ne connaissez-vous pas le dicton révélateur :
 Et pour cela, nous devons continuer à prier !
 
 —Harry Roloff, 4-1-92
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'intégrité scientifique du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="pr-2">La loi est la vie elle-même et non les règles de sa conduite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1981"
+title: "« The Urantian » — Numéro du printemps 1981"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann, David Renn<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Self_realization">
+          <span class="pr-2">Réalisation de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Réalisation de soi
@@ -50,3 +71,25 @@ Dans les prochains numéros, nous aimerions examiner deux sujets d’intérêt e
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Self_realization">
+          <span class="pr-2">Réalisation de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1985"
+title: "« The Urantian » — Numéro d'hiver 1985"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Maureen Cragg, Debra York, David Glass, James Johnson<br>© 1985 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood )</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">Une lettre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Bien que le JOURNAL n'ait pas pour habitude d'imprimer des lettres, l'article qui suit est rédigé sous cette forme pour transmettre sa signification d'une manière personnelle et puissante. Merci de notre part à tous pour ce rappel très important. Les rédacteurs._
@@ -80,3 +101,25 @@ Comment ces attributs créatifs sont-ils réellement unis ?
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">Une lettre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

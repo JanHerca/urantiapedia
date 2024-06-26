@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1987"
+title: "« The Urantian » — Numéro du printemps 1987"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jésus, le grand économiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Jésus, le grand économiste
@@ -28,3 +49,25 @@ _Silver Spring, Maryland_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jésus, le grand économiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

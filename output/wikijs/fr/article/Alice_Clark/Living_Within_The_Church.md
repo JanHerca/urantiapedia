@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Alice Clark<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Habitudes religieuses : luxe ou nécessité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Cole/The_Art_Of_Growing_Spiritually">
+          <span class="pr-2">L'art de grandir spirituellement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au début de notre groupe d'étude, les membres les plus évangéliques ont vite découvert les dangers de trop parler à des gens qui ne souhaitaient pas changer leurs points de vue religieux. Quelques expériences malheureuses nous ont amenés à chercher de meilleures façons d’approcher nos amis. À cette fin, nous avons commencé à étudier la vie de Jésus pour découvrir comment il l’a fait.
@@ -25,3 +49,28 @@ Il y a quand même de l'espoir. Avec quelques membres laïcs progressistes, un c
 
 —_Alice Clark_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Habitudes religieuses : luxe ou nécessité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Cole/The_Art_Of_Growing_Spiritually">
+          <span class="pr-2">L'art de grandir spirituellement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

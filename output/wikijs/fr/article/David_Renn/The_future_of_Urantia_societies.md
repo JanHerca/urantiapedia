@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 David Renn<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Self_realization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réalisation de soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En essayant d'avoir un aperçu de l'avenir des Sociétés URANTIA, je pense que c'est une bonne idée de revenir aux origines des groupes religieux et d'examiner certaines de leurs premières fonctions.
@@ -62,3 +83,25 @@ Nous pouvons nous contenter du statu quo ou agir avec les outils dont nous dispo
 _David Renn_
 _Evanston, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Self_realization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réalisation de soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

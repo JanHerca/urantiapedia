@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 David Glass<br>© 1979 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_Identification_Process">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le processus d'identification</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Toute réalité n'a qu'une seule source centrée, le Père Universel, la pré-réalité du JE SUIS. Les réalités spatio-temporelles manifestées de la matière, de l’esprit et de l’esprit affichent un spectre de niveaux de réalité variés et interpénétrés. Mais chaque niveau de réalité, chaque forme de manifestation, est centré et fondé sur une réalité paradisiaque parfaite et correspondante qui contrôle et soutient la créativité soutenue de Dieu.
@@ -38,3 +59,25 @@ Le JE SUIS se fragmente d'abord en entités distinctes et inphasables, procède 
 — _David Verre_
 _Bradenton, Floride_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_Identification_Process">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le processus d'identification</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

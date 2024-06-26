@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Brent St. Denis<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travailler pour résoudre la tension dynamique entre l’égoïsme et l’altruisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Living_as_in_the_Presence_of_God">
+          <span class="pr-2">Vivre comme en présence de Dieu : faire l’effort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Brent St.Denis
@@ -130,3 +154,28 @@ Dans mon partage avec vous aujourd’hui, je voulais mettre l’accent sur quelq
 
 Alors nous n’aurons probablement pas trop de regrets lorsque nous nous réveillerons sur les mondes des maisons.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travailler pour résoudre la tension dynamique entre l’égoïsme et l’altruisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Living_as_in_the_Presence_of_God">
+          <span class="pr-2">Vivre comme en présence de Dieu : faire l’effort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

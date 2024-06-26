@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 John M. Andrews<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Urantia_Model_World_For_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia — Un monde modèle pour le Suprême ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="pr-2">La nécessité d'agir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Toute la réalité finie est vibratoire ; même nos interactions personnelles avec notre environnement sont cycliques, dans le sens où il y a un flux et un reflux dans nos relations au fil du temps. Dans toute dualité ou dimension que nous pouvons imaginer, il y a un mouvement le long de cette ligne – allant même jusqu’au changement de direction – même si certaines périodes peuvent être si longues que nous n’avons pas expérimenté la plénitude de leur cycle complet. Tout change; et chacun interagit avec son environnement ou il cesse d'exister. Prises ensemble, toutes ces interactions constituent une réalité finie, et leur effet cumulatif et super-additif est l’Être Suprême.
@@ -25,3 +49,28 @@ Et même ce cycle maître, dont nous considérons la phase actuelle comme l’é
 -_John M. Andrews_
 _Juneau, Alaska_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Urantia_Model_World_For_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia — Un monde modèle pour le Suprême ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="pr-2">La nécessité d'agir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

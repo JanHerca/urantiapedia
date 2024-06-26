@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Buck et Arlene Weimer<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1977_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Revelation_Divine_Plan">
+          <span class="pr-2">Révélation : Plan Divin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le temps est à nouveau venu où la plupart des chrétiens du monde célèbrent la naissance traditionnelle de Jésus-Christ. Le simple fait d’y penser suffit à générer un spectre d’émotions mitigées. Beaucoup d’entre nous pourraient juger nécessaire de se préparer au commercialisme grossier stimulé par la recherche infiltrante du profit. Il y a toujours le stress et l’écrasement de ces derniers jours, et au moins une semaine de récupération. Et d'autres encore peuvent espérer retrouver leurs proches - pour avoir l'occasion de voir et de toucher de vieux amis - tout en échangeant des cadeaux. Mais Noël a-t-il un sens dans l’ordre universel des choses ? Et quelle est son importance ? Comment un Puissant Messager rapporterait-il le spectacle de Noël en relation avec le Suprême ?
@@ -25,3 +49,28 @@ Mais revenons à notre idée originale ; Quel rapport avec Noël ? Ce jour-là,
 
 — _Buck et Arlene Weimer_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1977_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Revelation_Divine_Plan">
+          <span class="pr-2">Révélation : Plan Divin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

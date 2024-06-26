@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Emmanuel Desurvire<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nécessité d'agir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Supreme_Service">
+          <span class="pr-2">Service suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ » ([LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))
@@ -39,3 +63,28 @@ C'est un grand privilège d'être appelé à participer à la croissance du Supr
 _Yves Chauvin_
 _Boulogne, France_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nécessité d'agir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Supreme_Service">
+          <span class="pr-2">Service suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

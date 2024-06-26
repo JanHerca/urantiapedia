@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Marilyn Hauck<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Pattern_And_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèle et perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À plusieurs reprises, lors de conversations avec des amis ces derniers temps, le rôle des modèles est apparu. Par « modèles », j’entends les situations similaires qui se présentent constamment pour analyse et décision dans la vie. Depuis ma connaissance du _Livre d'URANTIA_, j'ai crédité les séraphins attachés à mon cas comme ayant joué un rôle dans le modèle récurrent des situations de la vie. Les schémas se répètent-ils parce que je n’ai pas appris une leçon présentée auparavant ? L'opportunité de choisir est-elle répétée parce que j'ai appris quelque chose et que je dois maintenant démontrer et approfondir le sens de cette expérience ? Y a-t-il une chance d’aider les autres à apprendre dans ce défi persistant ? Peut-être que toutes ces possibilités traversent les valeurs de signification des modèles, mais la beauté de l'ensemble n'était pas apparente jusqu'à ce que je me tourne à nouveau vers le Livre d'URANTIA pour une certaine inspiration sur le sujet. Étrangement, l'article que j'ai lu était celui sur les effusions de Christ Michel (\# 119).
@@ -19,3 +40,25 @@ Quand on se tient près d'une grande tapisserie, on ne voit qu'une petite partie
 
 — _Marian Hauck_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Pattern_And_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèle et perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 George Park<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prologue - Une métaphore sur les livres saints</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Unity_and_harmony">
+          <span class="pr-2">Unité et harmonie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « _La manière dont le Père Universel séjourne chez les créatures du temps est le plus profond de tous les mystères de l’univers. La présence divine dans le mental de l’homme est le mystère des mystères._ » ([LU 1:4.1](/fr/The_Urantia_Book/1#p4_1)) La technique par laquelle l'Ajusteur de Pensée est capable de faire connaître sa présence éternelle à l'esprit matériel est un mystère. La méthode par laquelle l’esprit enregistre la réalité de l’éternité dans l’esprit matériel comme une expérience du « maintenant éternel » est un miracle philosophique au-delà de notre compréhension. ([LU 118:1.1](/fr/The_Urantia_Book/118#p1_1)) Cependant, la technique utilisée par l'esprit matériel dans sa démarche ascendante et intérieure pour l'expérience de la présence de Dieu, le comportement psychologique de l'esprit humain pour favoriser sa propre spiritualisation, n'est pas complètement hors de notre portée. .
@@ -64,3 +88,28 @@ Connaître l'idée de Dieu est une chose. Adorer l’idéal de Dieu en est une a
 — _George L. Park_
 _Hampton, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prologue - Une métaphore sur les livres saints</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Unity_and_harmony">
+          <span class="pr-2">Unité et harmonie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

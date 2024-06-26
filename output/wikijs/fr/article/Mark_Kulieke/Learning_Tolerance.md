@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Mark Kulieke<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contacter le Royaume intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="pr-2">Qu’est-ce que la vérité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le processus de spiritualisation de nos personnalités se déroule dans nos relations entre les hommes. « _Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour._ » ([LU 100:4.4](/fr/The_Urantia_Book/100#p4_4)) Et, dit Jésus : « _C’est l’amour de Dieu qui pousse les hommes à chercher le salut. L’amour est l’ancêtre de toute bonté spirituelle, il est l’essence du vrai et du beau._” ([LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
@@ -24,3 +48,28 @@ Au niveau le plus fondamental, nous apprenons de Jésus que l'amour et la tolér
 _Mark Kulieke_
 _Evanston, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contacter le Royaume intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="pr-2">Qu’est-ce que la vérité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

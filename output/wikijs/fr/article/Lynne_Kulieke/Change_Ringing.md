@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1992 Lynne Kulieke</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et âme. Une théorie de l'individualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Partir à la chasse
 les cloches tintent durement,
@@ -48,3 +69,24 @@ sans aller à la chasse.
 
 
 Remarque : Dans la sonnerie de changement de cloche d'église, le but est de jouer différentes combinaisons et permutations d'un ensemble de cloches, et non de jouer une mélodie. « Partir à la chasse » signifie le mouvement d'une cloche individuelle dans la séquence.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et âme. Une théorie de l'individualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

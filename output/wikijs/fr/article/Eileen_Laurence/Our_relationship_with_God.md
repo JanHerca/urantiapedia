@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Eileen Laurence<br>© 1987 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transformation : et voici le mystère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Grâce à mon expérience du dialogue interreligieux, j'ai appris à partager des définitions de termes avant de discuter d'idées et je le ferai ce matin. Cependant, je vais adopter la voie « juive » et prendre mon titre « Notre relation avec Dieu » dès la fin et travailler vers le début.
@@ -34,3 +55,25 @@ Comme l’a dit Rabbi ‘Haïm : « Lorsque nous nous séparons, nous pouvons no
 _Eileen Laurence_
 _Armonk, New York_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transformation : et voici le mystère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Richard Keeler<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Revelation_Divine_Plan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation : Plan Divin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Fear_And_Growth">
+          <span class="pr-2">Peur et croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qu'est-ce que l'amour? « _L'amour est le désir de faire du bien aux autres._ » ([LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)) C'est le « _...secret d'association bénéfique entre les personnalités,_ » ([LU 12:9.2](/fr/The_Urantia_Book/12#p9_2)) et « _... implique sans doute le concept le plus élevé des hommes pour les relations humaines de respect et de dévotion..._»  Cette  «_... affection incomparable du Dieu vivant pour ses créatures de l'univers_«  est la  »_... réalité suprême de l'univers... _ » ([LU 2:5.11](/fr/The_Urantia_Book/2#p5_11), [LU 177:2.3](/fr/The_Urantia_Book/177#p2_3)) « _... l'amour est la plus grande chose de l'univers..._ » ([LU 56:10.20](/fr/The_Urantia_Book/56#p10_20))
@@ -29,3 +53,28 @@ Jean Zébédée a demandé un jour à Jésus comment il pourrait apprendre à ê
 
 — _Richard Keeler_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Revelation_Divine_Plan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation : Plan Divin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Fear_And_Growth">
+          <span class="pr-2">Peur et croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

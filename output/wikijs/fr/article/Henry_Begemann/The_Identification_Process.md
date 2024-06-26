@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1979_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Interpreting_Universe_Reality">
+          <span class="pr-2">Interpréter la réalité de l'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ révèle que notre personnalité est d'une grandeur si majestueuse que, inchangée, elle peut fonctionner même aux frontières de l'absolu ! ([LU 112:0.15](/fr/The_Urantia_Book/112#p0_15)) Cette même personnalité que nous avons maintenant n'évolue pas jusqu'à ce niveau inimaginable, ni n'y grandit. La personnalité reste inchangée.
@@ -48,3 +72,28 @@ Quand ce processus d’identification prendra-t-il fin ? Cela continuera-t-il lo
 _Henry Begemann_
 _Wassenar, Pays-Bas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1979_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Interpreting_Universe_Reality">
+          <span class="pr-2">Interpréter la réalité de l'univers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

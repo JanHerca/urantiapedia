@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Gard Jameson et Florence Jameson<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partage spirituel – Un chemin vers Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="pr-2">Partager sa vie spirituelle avec ses camarades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Gard Jameson et Florence Jameson, MD
@@ -64,3 +88,28 @@ Si nous ne prenons pas le temps d’adorer, ne sommes-nous pas comme Marthe dans
 
 « Voici, je me tiens à la porte et je frappe. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partage spirituel – Un chemin vers Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="pr-2">Partager sa vie spirituelle avec ses camarades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

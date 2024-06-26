@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 William Wentworth<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">C.H.A.N.G.E.S. – La pratique rend parfait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="pr-2">Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par William Wentworth
@@ -63,3 +87,28 @@ Je pensais en finir avec cette histoire. Lors d'une conférence à Noosa, Queens
 
 Et je suppose que cela dit en un mot ce que signifie « vivre comme en présence de Dieu ». Il s’agit simplement de vivre comme nous sommes censés vivre.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">C.H.A.N.G.E.S. – La pratique rend parfait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="pr-2">Tout ce que vous avez toujours voulu savoir sur la paix familiale ! (Ha, Ha)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1982"
+title: "« The Urantian » — Numéro du printemps 1982"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="pr-2">Un message à la première assemblée triennale des délégués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce numéro du Journal URANTIEN de la Fraternité URANTIA est dédié à la mémoire d'Emma L. Christensen. Comme notre façon de nous souvenir de Christy, nous avons inclus de nombreux discours et conférences qu'elle a prononcés au cours de ses nombreuses années de service désintéressé et de dévouement à l'œuvre de cette cinquième révélation d'époque de notre Père sur cette planète. Ses paroles parlent avec clarté et résonance de son espoir que chaque étudiant du Livre d'URANTIA s'élèvera jusqu'à la plénitude de son engagement envers Dieu et que l'expérience de la filiation deviendra un « Soldat des Cercles ». Christy est diplômée des mondes des maisons le 2 mai 1982._
@@ -54,3 +75,25 @@ Mais nous ne sommes pas des soldats armés. Nous apportons la bonne nouvelle de 
 > Jésus aux apôtres dans le discours d'adieu
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="pr-2">Un message à la première assemblée triennale des délégués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

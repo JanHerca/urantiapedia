@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Stephen Zendt<br>© 1987 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La racine carrée de rien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Our_relationship_with_God">
+          <span class="pr-2">Notre relation avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je veux commencer par vous raconter une anecdote sur le célèbre évangéliste américain Billy Graham. Il semble qu'il se trouvait dans une petite communauté où il devait prendre la parole ce soir-là. Pendant la journée, il avait hâte de mettre quelques lettres au courrier et sortait se promener. Il a arrêté un jeune homme dans la rue pour lui demander son chemin vers le bureau de poste local. Après que le jeune lui eut donné l'information, Graham l'invita à sa prédication du soir, lui disant qu'il parlerait sur le thème « Le chemin du ciel ». Mais le jeune homme répondit qu'il ne serait probablement pas là. « Mon Dieu, » dit-il, « tu ne sais même pas comment aller à la poste. »
@@ -58,3 +82,28 @@ Que Dieu vous bénisse avec un renouveau spirituel quotidien et une transformati
 _Stephen Zendt_
 _San Francisco, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La racine carrée de rien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Our_relationship_with_God">
+          <span class="pr-2">Notre relation avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1987"
+title: "« The Urantian » — Numéro d'hiver 1987"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Jim Johnston, Robert Faughum, Curt Cloninger, Stephen Zendt, Eileen Laurence<br>© 1987 La Bourse du Livre d'Urantia ( anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Soyez-vous parfait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Numéro double de la conférence spéciale**
@@ -104,3 +125,25 @@ Tout comme nous semblons perdre confiance dans le pouvoir impressionnant de la t
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Soyez-vous parfait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

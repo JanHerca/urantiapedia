@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Harry McMullan III<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques réflexions sur la volonté du père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="pr-2">La relation de l'individu avec l'ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les navires et les avions qui traversent les continents et les océans disposent de systèmes de guidage très sophistiqués pour les aider à arriver à destination. Ces systèmes permettent au pilote d'effectuer des corrections de cap totalement sans référence aux objets terrestres. La plupart d’entre eux fonctionnent avec des gyroscopes ; il existe des systèmes de guidage inertiel, des systèmes de guidage Doppler et des systèmes de guidage stellaire. Quelle que soit leur conception, le but de ces systèmes est de maintenir le cap du navire.
@@ -90,3 +114,28 @@ Enfin, nous devons nous rappeler que l’orientation, et la capacité de la suiv
 — _Harry McMullan III_ 
 _La Ville d'Oklahoma. Oklahoma_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques réflexions sur la volonté du père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="pr-2">La relation de l'individu avec l'ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

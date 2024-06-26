@@ -1,6 +1,6 @@
 ---
 title: "« The Journal of Fifth Epochal Fellowship » — Numéro spécial double de l'hiver 1989 — Groupes d'étude pour le Livre d'Urantia — Idées et suggestions"
-description: "(anciennement connu sous le nom de « L'Urantien »)"
+description: "(anciennement connu sous le nom de « The Urantian »)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Study Groups, Fellowship, The Urantian, article
@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-l'hiver-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de l'hiver 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Préface
@@ -248,3 +266,22 @@ Par-dessus tout, nous aspirons à vivre une vie de foi et de service dévoué da
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-l'hiver-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de l'hiver 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

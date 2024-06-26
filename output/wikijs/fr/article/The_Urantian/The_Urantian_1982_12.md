@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1982"
+title: "« The Urantian » — Numéro d'hiver 1982"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Rosey Lieske<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosey_Lieske/Actualizing_The_Supreme_in_your_life">
+          <span class="pr-2">Actualiser le Suprême dans votre vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Actualiser le Suprême dans votre vie
@@ -32,3 +53,25 @@ _Phoenix, Arizona_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosey_Lieske/Actualizing_The_Supreme_in_your_life">
+          <span class="pr-2">Actualiser le Suprême dans votre vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

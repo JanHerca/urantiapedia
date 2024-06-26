@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1983"
+title: "« The Urantian » — Numéro d'hiver 1983"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Jeff Wattles, George Ninteman<br>© 1983 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/The_role_of_reason_in_finding_the_Fathers_will">
+          <span class="pr-2">Le rôle de la raison dans la recherche de la volonté du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le rôle de la raison dans la recherche de la volonté du père
@@ -41,3 +62,25 @@ _(Réimprimé de « Familia », paroisse de l'Ascension, Chicago, mensuel fami
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/The_role_of_reason_in_finding_the_Fathers_will">
+          <span class="pr-2">Le rôle de la raison dans la recherche de la volonté du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

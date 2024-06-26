@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Margaret Graves Gilbert<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Schonberg/Patterns_Of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles de révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Pattern_And_Perfection">
+          <span class="pr-2">Modèle et perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Toutefois un culte — un symbolisme de rites, de slogans ou de buts — ..._ » ([LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
@@ -27,3 +51,28 @@ Au lieu de faire de la religion une partie sacrée de la vie, retournons nous-m�
 
 —_Margaret Graves Gilbert_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Schonberg/Patterns_Of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles de révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Pattern_And_Perfection">
+          <span class="pr-2">Modèle et perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

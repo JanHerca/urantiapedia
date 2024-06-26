@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ed Harrigan<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/A_Spiritual_Tonic">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un tonique spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Via_Brazell/A_Keg_Of_Nails">
+          <span class="pr-2">Un tonneau de clous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un coup d'œil par la fenêtre de mon salon offre une vue sur plusieurs flancs de montagnes accidentés adoucis par une couche blanche de neige poudreuse. La beauté nous entoure dans la campagne et la bonté abonde des amis sincères qui franchissent notre porte. Mais le vrai don est le potentiel de croissance : réaliser et découvrir une nouvelle conscience d'une plus grande intimité avec notre amitié la plus éclairante, celle avec notre Fils Créateur, Michel de Nébadon,
@@ -33,3 +57,28 @@ La prière est aussi créative que personnelle. La prière est aussi efficace qu
 
 —_Ed Harrigan_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/A_Spiritual_Tonic">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un tonique spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Via_Brazell/A_Keg_Of_Nails">
+          <span class="pr-2">Un tonneau de clous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

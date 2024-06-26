@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Stan et Ruth Hartman<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="pr-2">Quelques principes de croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il est évident pour beaucoup d'entre nous que le vent de l'esprit élève l'esprit des autres ainsi que celui des étudiants du Livre d'URANTIA. Une nouvelle philosophie se développe, celle du « J'aime, donc je suis » ; et bien qu'une compréhension intellectuelle de l'exactitude cosmique de cette prémisse ne soit pas universelle parmi ceux qui aiment, la signification spirituelle personnelle et expérientielle de cette vérité est reconnue par tous ceux qui vivent sciemment en Dieu, et est ressentie par beaucoup de ceux qui ne réalisent pas encore qu'Il est, et en est conscient, et est leur amour même :
@@ -29,3 +53,28 @@ Lorsque nous marcherons tous véritablement main dans la main avec notre Père, 
 
 — _Stan et Ruth Hartman_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="pr-2">Quelques principes de croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

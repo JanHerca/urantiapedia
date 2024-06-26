@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Marvin Gawryn<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/The_Human_Response">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réponse humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sally_Schlundt/Revitalization_and_transformation_within_the_family">
+          <span class="pr-2">Revitalisation et transformation au sein de la famille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bonjour. Commençons par un moment de calme pour remercier le Père pour tout ce qu'il nous a donné et prendre contact avec sa présence en nous.
@@ -114,3 +138,28 @@ J'aimerais terminer avec ces paragraphes :
 — _Marvin Gawry_ 
 _Berkeley, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/The_Human_Response">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réponse humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sally_Schlundt/Revitalization_and_transformation_within_the_family">
+          <span class="pr-2">Revitalisation et transformation au sein de la famille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

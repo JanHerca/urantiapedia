@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Francyl Streano Gawryn<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méditation réflexive sur les significations cosmiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="pr-2">Une offre trop belle pour être refusée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Francyl Streano Gawryn
@@ -129,3 +153,28 @@ Pour plus d’informations sur ce sujet, veuillez vous référer aux livres suiv
 5. _Les usages de l'enchantement_, par Bruno Bettelheim, Vintage Press
 6. _Dreamwork_, par Jeremy Taylor
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méditation réflexive sur les significations cosmiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="pr-2">Une offre trop belle pour être refusée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

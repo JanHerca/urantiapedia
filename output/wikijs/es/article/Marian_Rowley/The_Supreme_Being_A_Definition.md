@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
-          <span class="pr-2">The Urantian - Número de invierno de 1978</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Crecimiento personal: los siete círculos psíquicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -68,7 +68,7 @@ _Chicago, Illinois_
         </td>
         <td>
         <a href="/es/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
-          <span class="pr-2">The Urantian - Número de invierno de 1978</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Crecimiento personal: los siete círculos psíquicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

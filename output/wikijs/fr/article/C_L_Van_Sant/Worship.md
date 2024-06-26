@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 C. L. Van Sant<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ethel_Zanoni/Meditations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méditations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, créée conjointement par le mental humain ..._ » ([LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))
@@ -34,3 +55,25 @@ Et ce n'est pas étonnant, car l'adoration « _... nous rend de plus en plus sem
 —_C. L. Van Sant_
 _Bartlesville, Oklahoma_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ethel_Zanoni/Meditations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méditations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1979"
+title: "« The Urantian » — Numéro d'hiver 1979"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Jim McNelly, Paul Knott, Bob Bruyn, Robert Walker, Ethel Zanoni, C. L. Van Sant<br>© 1979 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="pr-2">La révélation de l'homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La révélation de l'homme
@@ -79,3 +100,25 @@ _Bartlesville, Oklahoma_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="pr-2">La révélation de l'homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

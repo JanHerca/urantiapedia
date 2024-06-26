@@ -48,7 +48,7 @@ Ce précieux index du Crochet Urantia est en cours de révision par son auteur C
 
 Les publications trimestrielles suivantes sont disponibles aux États-Unis.
 
-1. L'Urantien - Journal de la Fraternité Urantia.
+1. « The Urantian » - Journal de la Fraternité Urantia.
 2. Bulletin de la Fraternité Urantia.
 3. Agondonter - Bulletin de la Première Société Urantia de L.A.
 4. Le héraut de la Renaissance spirituelle :

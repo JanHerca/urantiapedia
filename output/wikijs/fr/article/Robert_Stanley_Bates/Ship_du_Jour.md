@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1992 Robert Stanley Bates</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/A_Blessed_Path_of_Knowledge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un chemin béni de la connaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Harry_Roloff/Poetry_selections">
+          <span class="pr-2">Sélections de poésie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Par le capitaine Robert S. Bates, Gales Ferry, Connecticut
 
@@ -41,3 +65,28 @@ Comme il est absolument excitant d’être au seuil de la Cinquième Révélatio
 <figcaption>Artiste : Carol Herren</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/A_Blessed_Path_of_Knowledge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un chemin béni de la connaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Harry_Roloff/Poetry_selections">
+          <span class="pr-2">Sélections de poésie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1977"
+title: "« The Urantian » — Numéro d'été 1977"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Stephen Zendt, Kaye et William Cooper, Duane L. Faw, Alice Clark, Ann Cole<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="pr-2">L'art de la détente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## L'art de la détente
@@ -76,3 +97,25 @@ Cet apprentissage n'est pas une réponse intellectuelle ou émotionnelle à une 
 > « _En dernier lieu, nous atteignons le niveau de clairvoyance d’esprit et d’interprétation spirituelle, le plus élevé de tous. Il nous pousse à reconnaitre, dans cette règle de vie, le divin commandement de traiter tous les hommes comme nous concevrions que Dieu les traiterait. Tel est l’idéal universel des relations humaines,_ » ([LU 147:4.9](/fr/The_Urantia_Book/147#p4_9))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="pr-2">L'art de la détente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Victoria Urban<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Anges – une vision théologique moderne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je me suis élu et j'ai reçu une part de participation à notre Plan Universel ; spirituellement, je sais que mon ange gardien me fait signe d'une manière qui l'est. délicieux, mais convaincant.
@@ -26,3 +47,25 @@ Dans les époques avancées de l'évolution planétaire, ces séraphins supplant
 — _Victoria Urban_
 _Santa Rosa, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Anges – une vision théologique moderne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1978"
+title: "« The Urantian » — Numéro d'hiver 1978"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Robert F. Buselli, Marian Rowley, Neal A. Waldrop III<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="pr-2">Cercles de suprématie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Cercles de suprématie
@@ -58,3 +79,25 @@ _Les éditeurs_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="pr-2">Cercles de suprématie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

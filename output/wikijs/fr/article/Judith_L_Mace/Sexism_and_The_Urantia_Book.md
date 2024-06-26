@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Judith L. Mace<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1987_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Miller/Isolation">
+          <span class="pr-2">Isolement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cet article décrit nos situations mondiales, pas seulement celles des sociétés occidentales._
@@ -62,3 +86,28 @@ La fonction la plus importante du _Livre d'URANTIA_ est d'améliorer la spiritua
 _Judith L. Macé_
 _Lincoln City, Oregon_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1987_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Miller/Isolation">
+          <span class="pr-2">Isolement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

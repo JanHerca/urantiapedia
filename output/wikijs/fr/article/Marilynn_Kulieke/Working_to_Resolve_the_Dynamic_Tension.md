@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Marilynn Kulieke<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect">
+          <span class="pr-2">C.H.A.N.G.E.S. – La pratique rend parfait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Marilynn Kulieke
@@ -176,3 +200,28 @@ FAIRE LE BIEN AUX AUTRES
 
 Faire du bien à Dieu chez les autres
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Brent_St_Denis/CHANGES_Practice_Makes_Perfect">
+          <span class="pr-2">C.H.A.N.G.E.S. – La pratique rend parfait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

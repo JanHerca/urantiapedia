@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Thomas Wicks<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Et qu'en est-il de la beauté ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La sophistication n’est pas seulement un écho du passé, un repère historique réservé à Socrate et aux sophistes. Elle est bien vivante et continue d’imprégner notre quotidien. La sophistication peut être trouvée dans l’économie, la politique, la philosophie, la musique et tout autre sous-produit du libre arbitre. Cela se fait passer pour la vérité, la sagesse et l’amour alors qu’en réalité, il s’agit d’une auto-illusion et d’une erreur. Le manifeste de Lucifer était une pure sophistication. Le plus souvent, cela découle de l’égoïsme, de l’ego, de l’orgueil et d’une ignorance grossière. Par conséquent, « le Coca ajoute de la vie ».
@@ -24,3 +45,25 @@ La simplicité est boudée par les sophistes et les prophètes des mots des dern
 _Thomas Mèches_
 _Florence, Arizona_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Et qu'en est-il de la beauté ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

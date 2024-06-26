@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1977"
+title: "« The Urantian » — Numéro d'hiver 1977"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Buck et Arlene Weimer, Carolyn Kendall, Richard Keeler, Helena Sprague, Ron Schweitzer<br>© 1977 Le Livre d'Urantia Communauté (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/Christmas_And_The_Supreme">
+          <span class="pr-2">Noël et le suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Noël et le suprême
@@ -71,3 +92,25 @@ J'ai réfléchi à l'énoncé de la question pendant plusieurs jours ; ensuite,
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/Christmas_And_The_Supreme">
+          <span class="pr-2">Noël et le suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

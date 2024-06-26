@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1988"
+title: "« The Urantian » — Numéro d'été 1988"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Henry Begemann<br>© 1988 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1988 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
+          <span class="pr-2">Printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Note de l'éditeur : Cet article est apparu dans d'autres publications écrites par des lecteurs du Livre d'URANTIA. Il est reproduit ici avec la permission de l'auteur._
@@ -39,3 +60,25 @@ _Bartlesville, Oklahoma_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1988 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
+          <span class="pr-2">Printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Marvin Gawryn<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gayle_and_Jim_Moravec/Spiritual_perspectives_in_the_workplace">
+          <span class="pr-2">Perspectives spirituelles sur le lieu de travail</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ affirme que le cœur de la religion est une relation vivante avec Dieu. Une telle communion ne doit pas se limiter aux services religieux ou aux expériences de pointe. Cela devrait être habituel, un processus continu de partage intérieur, d’instant en instant. L’une des déclarations les plus surprenantes de la révélation est qu’une telle communion père-enfant peut être constante. Une communion continue est possible. Il s’agit en effet d’une clé méthodologique sans égal, d’un « secret » d’un grand levier spirituel.
@@ -42,3 +66,28 @@ Frère Lawrence, à sa manière humble et humaine, lance le même appel. « Souv
 —_Marvin Gawry_
 _Boulder, Colorado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gayle_and_Jim_Moravec/Spiritual_perspectives_in_the_workplace">
+          <span class="pr-2">Perspectives spirituelles sur le lieu de travail</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

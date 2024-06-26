@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Troy Bishop<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michael_Painter/The_Down_Grasp">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prise vers le bas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Greatest_Story_Of_All_Time">
+          <span class="pr-2">La plus grande histoire de tous les temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -101,3 +125,28 @@ Nous devons chacun traverser ces phases, une à une, dans notre propre expérien
 — _Troy Bishop_
 _Silver Springs, Maryland_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michael_Painter/The_Down_Grasp">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prise vers le bas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Greatest_Story_Of_All_Time">
+          <span class="pr-2">La plus grande histoire de tous les temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

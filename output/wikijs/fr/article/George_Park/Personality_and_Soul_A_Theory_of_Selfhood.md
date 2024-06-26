@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1992 George Park</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S'élevant de ma chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Change_Ringing">
+          <span class="pr-2">Changer la sonnerie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par George L. Park
 
@@ -87,3 +111,27 @@ Sagesse | sagesse | juger | évaluation morale <br>\& choix |
 Culte<br> Conseil | coeur | sentiment | désirs, émotions, <br>\& imagination |
 Connaissance<br> Courage | intelligence | penser | idées \& décisions |
 Comprendre<br> Intuition | corps | faire | perceptions, pulsions, <br>\& sensations |
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S'élevant de ma chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Change_Ringing">
+          <span class="pr-2">Changer la sonnerie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

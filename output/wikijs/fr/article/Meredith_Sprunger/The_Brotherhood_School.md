@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Meredith Sprunger<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre dans la réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le but et la fonction de l’École de la Fraternité sont déterminés par la nature et les objectifs de la Fraternité URANTIA. La Fraternité URANTIA a été organisée pour promouvoir l'étude et la diffusion des enseignements du _Livre d'URANTIA_ parmi les peuples du monde. Cet objectif se réalise principalement grâce aux instruments des individus, des groupes d’étude et des sociétés.
@@ -23,3 +44,25 @@ Nous nous efforcerons de servir les individus et les groupes en mettant à dispo
 
 —_Meredith Sprunger_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre dans la réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

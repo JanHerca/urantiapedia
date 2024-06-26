@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_L_Faw/The_Art_Of_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art de vivre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alice_Clark/Living_Within_The_Church">
+          <span class="pr-2">Vivre au sein de l'Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jésus avait l'habitude de partir seul communier avec son Père céleste. En parlant de cette communion spirituelle, ou culte, dans laquelle Jésus s'est si souvent engagé, Rodan a dit : « _Plus la société deviendra complexe et plus les attraits de la civilisation se multiplieront, plus la nécessité deviendra urgente pour les personnes connaissant Dieu de contracter ces habitudes protectrices destinées à conserver et à accroitre leurs énergies spirituelles._ » ([LU 160:3.2](/fr/The_Urantia_Book/160#p3_2))
@@ -29,3 +53,28 @@ Rodan a reconnu qu'à mesure que la civilisation progresse, l'homme a de plus en
 
 —_Un ami urantien_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_L_Faw/The_Art_Of_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art de vivre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alice_Clark/Living_Within_The_Church">
+          <span class="pr-2">Vivre au sein de l'Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

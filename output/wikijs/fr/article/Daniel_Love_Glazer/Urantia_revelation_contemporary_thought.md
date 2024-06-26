@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Daniel Love Glazer<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seconde réflexion sur la renaissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Révélation. Le Livre nous dit qu'il est conçu pour combler le fossé dans l'expérience humaine entre le matériel et le spirituel. Grâce à notre raison, nous constatons les faits, la connaissance de la science. Grâce à notre foi, nous appréhendons les valeurs, les réalités spirituelles présentées à notre esprit supraconscient par l’Ajusteur de Pensée divin intérieur. Et à travers la logique de la philosophie, nous essayons de coordonner et d’intégrer la connaissance matérielle de la science et les vérités spirituelles de l’expérience religieuse. Mais cet effort philosophique d’intégration est voué à l’échec. Entre le spirituel et le matériel se trouve un niveau de réalité qui ne connaît pas, un niveau de réalité que le Livre d'URANTIA appelle « morontia ». Au cours de sa vie dans la chair, l'homme n'a pas la mola morontielle avec laquelle il pourra plus tard appréhender les réalités morontielles. Le Livre d'URANTIA dit : « _La révélation clarifie avec autorité le fatras de la métaphysique développée par le raisonnement sur une planète évolutionnaire._ » ([LU 103:6.8](/fr/The_Urantia_Book/103#p6_8)) De plus, « _La révélation est le seul espoir de l’homme évolutionnaire pour combler le gouffre morontiel._ » ([LU 103:6.13](/fr/The_Urantia_Book/103#p6_13)) Et « _La Révélation est une compensation pour les fragilités de la philosophie en évolution._ » ([LU 103:8.6](/fr/The_Urantia_Book/103#p8_6))
@@ -126,3 +147,25 @@ Le prochain mot du dialogue dépend de nous. Et les lettres de ce mot représent
 _Philadelphie, Pennsylvanie_
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seconde réflexion sur la renaissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

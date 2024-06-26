@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1977"
+title: "« The Urantian » — Numéro du printemps 1977"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Peter et Eileen Laurence, Berkeley Elliott, Patsy et Tucky Hayes, Dick Schonberg, Margaret Graves Gilbert, Henry Begemann, Marilyn Hauck<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_and_Eileen_Laurence/Patterns_Of_Predictability">
+          <span class="pr-2">Modèles de prévisibilité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Modèles de prévisibilité
@@ -94,3 +115,25 @@ Il était peut-être inévitable qu'en relisant la vie de notre Père de l'Unive
 
 > « _Dieu est la première vérité et le dernier fait, et c’est pourquoi toute vérité prend origine en lui, tandis que tous les faits existent relativement à lui. Dieu est la vérité absolue. On peut connaitre Dieu en tant que vérité, mais pour comprendre Dieu — pour l’expliquer — il faut explorer le fait de l’univers des univers._ » ([LU 102:6.6](/fr/The_Urantia_Book/102#p6_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_and_Eileen_Laurence/Patterns_Of_Predictability">
+          <span class="pr-2">Modèles de prévisibilité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

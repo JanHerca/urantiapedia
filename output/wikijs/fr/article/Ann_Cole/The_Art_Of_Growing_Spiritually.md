@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ann Cole<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Clark/Living_Within_The_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre au sein de l'Église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans la mesure où notre volonté est que la volonté de Dieu soit faite dans notre vie, d'être enseigné, dirigé, rempli par son esprit, dans cette mesure nous sommes réceptifs à l'œuvre qu'il ferait en nous. Quelle que soit la petite impulsion que l’on puisse avoir à apprendre de Dieu et de Dieu, ce sera notre début. Nous demandons, nous apprenons et sur la base de nos nouvelles connaissances, nous demandons à partir d'une position plus informée et apprenons davantage. Au fur et à mesure que nous progressons, nous devenons plus aptes à demander et à apprendre, plus forts en capacité à vivre ce que nous apprenons, et notre curiosité et le sens de l'aventure est de plus en plus piqué ! Tant que nous le choisissons, le processus se perpétue.
@@ -21,3 +42,25 @@ La volonté de rechercher et de faire continuellement la volonté de Dieu à des
 
 — _Ann Cole_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alice_Clark/Living_Within_The_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre au sein de l'Église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

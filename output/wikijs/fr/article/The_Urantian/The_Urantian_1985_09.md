@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'automne 1985"
+title: "« The Urantian » — Numéro d'automne 1985"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Jeff Wattles, Kathleen A. Friedel<br>© 1985 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="pr-2">Quel est le nouveau projet de philosophie de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Quel est le nouveau projet de philosophie de vie ?
@@ -57,3 +78,25 @@ La nature du mal et la préoccupation quant à sa réalité constituent aujourd�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="pr-2">Quel est le nouveau projet de philosophie de vie ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

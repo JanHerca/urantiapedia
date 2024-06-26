@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Probal Dasgupta<br>© 1989 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1989_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«The Journal of Fifth Epochal Fellowship» - Numéro d'automne 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1989-le-journal-urantien-est-renommé-ici-«-le-journal-de-la-fifth-epochal-fellowship-»">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1989 (Le Journal Urantien est renommé ici « Le Journal de la Fifth Epochal Fellowship ».) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au XVIIIe siècle, le philosophe britannique Hume estimait que les dialogues entre personnes raisonnables deviendraient plus fructueux si l’on parvenait à surmonter les obstacles posés par les différents systèmes terminologiques. « Pourvu que nous soyons d’accord sur la chose, dit-il, il est inutile de discuter des termes. » Ce non-dispute n’est plus une base suffisante, si tant est qu’il l’ait jamais été, pour un dialogue positif capable d’éliminer les malentendus profondément enracinés qui entraînent beaucoup d’entre nous dans les conflits et la violence. En particulier dans le cas du discours interreligieux, qui s'avère être un point crucial à l'ordre du jour du monde moderne, nous devons faire de sérieux efforts pour identifier « la chose », afin que non seulement nous cessions de « contester les termes », mais que nous commencer à développer une manière généralement acceptée de parler et de penser sur ce sur quoi « nous sommes d’accord ».
@@ -72,3 +93,25 @@ J’ose suggérer qu’il s’agit d’un thème propice à la méditation dans 
 —_Dr. Probal Dasgupta_, 
 _Hyderabad, Inde_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1989_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«The Journal of Fifth Epochal Fellowship» - Numéro d'automne 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1989-le-journal-urantien-est-renommé-ici-«-le-journal-de-la-fifth-epochal-fellowship-»">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1989 (Le Journal Urantien est renommé ici « Le Journal de la Fifth Epochal Fellowship ».) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

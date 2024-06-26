@@ -1,5 +1,5 @@
 ---
-title: "The Urantian - Número de invierno de 1978"
+title: "Crecimiento personal: los siete círculos psíquicos"
 description: "Diario de la Hermandad Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z

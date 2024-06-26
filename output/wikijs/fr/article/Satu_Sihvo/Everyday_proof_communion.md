@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Satu Sihvo<br>© 1988 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1988_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1988 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Daly/Asking_for_the_spirit_and_other_good_stuff">
+          <span class="pr-2">Demander l'Esprit et d'autres bonnes choses !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bonjour, frères et sœurs :
@@ -26,3 +50,28 @@ Les plantes puisent leur eau par leurs racines. La prière et la méditation d�
 _Satu Sihvo_
 _Espoo, Finlande_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1988_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1988 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Daly/Asking_for_the_spirit_and_other_good_stuff">
+          <span class="pr-2">Demander l'Esprit et d'autres bonnes choses !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

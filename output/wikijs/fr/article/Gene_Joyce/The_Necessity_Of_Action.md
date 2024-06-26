@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Gene Joyce<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_M_Andrews/Vibrations_And_Interactions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vibrations et interactions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emmanuel_Desurvire/The_Power_Of_The_Supreme">
+          <span class="pr-2">Le pouvoir du Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’Être Suprême est inextricablement impliqué dans le bien de l’ensemble. Alors que nous nous efforçons de devenir un meilleur voisin et un meilleur citoyen de notre nation, il devient évident que nous sommes chacun un citoyen de notre monde, Urantia ; et à partir de cette vision, nous discernons la nécessité de devenir un membre actif de la famille cosmique de Dieu, un citoyen de l'univers. En d’autres termes, nous devons entrer dans l’action grâce à une utilisation intelligente de notre esprit. Cela constitue notre relation expérientielle avec le Suprême alors que nous nous embarquons dans notre voyage de progrès éternel. Toute expérience significative au niveau fini est intégrée dans le Suprême,
@@ -20,3 +44,28 @@ Non seulement la parfaite direction de l’esprit intérieur, la douce direction
 -_Gene Joyce_
 _Richardson, Texas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_M_Andrews/Vibrations_And_Interactions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vibrations et interactions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emmanuel_Desurvire/The_Power_Of_The_Supreme">
+          <span class="pr-2">Le pouvoir du Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

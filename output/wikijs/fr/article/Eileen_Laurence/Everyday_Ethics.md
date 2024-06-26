@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Eileen Laurence<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes vénérable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="pr-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comme la plupart d’entre nous ici présents, je mène une vie professionnelle variée et bien remplie. J'interagis avec beaucoup de gens, dont la plupart ne sont pas des lecteurs du Livre d'Urantia, mais dont beaucoup participent activement à la vie religieuse, tant professionnellement que privéement. Alors que je m'acquitte de mes tâches quotidiennes en essayant de vivre les concepts du livre, j'ai commencé à me poser quelques questions fondamentales : 
@@ -84,3 +108,28 @@ Tout comme nous nous réunissons ici pour discuter d'idées religieuses et réfl
 [UNE PAGE MANQUE DANS LE PDF ORIGINAL]
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes vénérable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="pr-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

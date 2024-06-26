@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1978"
+title: "Croissance personnelle : les sept cercles psychiques"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Neal Waldrop<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Être Suprême - Une Définition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _L'article imprimé ici fait partie d'un article présenté à la Deuxième Conférence de l'Atlantique Central des lecteurs du Livre d'URANTIA, Rockville, Maryland, le 28 octobre 1978._
@@ -44,3 +65,25 @@ Pour conclure notre discussion sur la nature des sept cercles, il est important 
 — _Neal A. Waldrop III_
 _Washington DC._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Être Suprême - Une Définition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

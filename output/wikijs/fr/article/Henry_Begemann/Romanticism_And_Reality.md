@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le discours suivant a été donné le jour de l'anniversaire de Jésus. 21 août 1979, lors d'une réunion d'étudiants du LIVRE D'URANTIA au domicile de l'auteur aux Pays-Bas. Son thème est approprié à notre célébration historique de cet événement capital à cette période de l'année._
@@ -54,3 +75,25 @@ Et probablement _Le Livre d'URANTIA_ sera le précurseur d'un autre événement 
 _Henry Begemann_
 _Wassenaar, Pays-Bas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

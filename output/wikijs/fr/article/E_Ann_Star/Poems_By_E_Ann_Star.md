@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 E. Ann Star</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La loi est la vie elle-même et non les règles de sa conduite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les anges sont à cette heure matinale
@@ -87,3 +108,25 @@ Le cœur est paisible
 Lorsqu'il déborde d'Amour ;
 Tout le monde répond avec amour
 À un cœur rayonnant d’Amour.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Law_Is_Life_Itself_and_Not_the_Rules_of_Its_Conduct">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La loi est la vie elle-même et non les règles de sa conduite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1984"
+title: "« The Urantian » — Numéro du printemps 1984"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Mario C. J. Harrington<br>© 1984 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_C_J_Harrington/The_religions_of_China">
+          <span class="pr-2">Les religions de Chine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Les religions de Chine
@@ -28,3 +49,25 @@ _Oakland Park, Floride_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_C_J_Harrington/The_religions_of_China">
+          <span class="pr-2">Les religions de Chine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

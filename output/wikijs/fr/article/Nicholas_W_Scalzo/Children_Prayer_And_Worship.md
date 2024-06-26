@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Nicholas W. Scalzo<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Gray/In_Cosmic_Harmony">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En harmonie cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kulieke/A_Spiritual_Tonic">
+          <span class="pr-2">Un tonique spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _... une véritable famille — une bonne famille — révèle aux parents procréateurs l’attitude du Créateur envers ses enfants, tandis qu’en même temps, ces véritables parents dépeignent à leurs enfants la première d’une longue série ascendante de divulgations concernant l’amour parental paradisiaque de tous les enfants de l’univers._ » ([LU 84:7.30](/fr/The_Urantia_Book/84#p7_30))
@@ -45,3 +69,28 @@ Nous pouvons également présenter notre Père céleste à nos enfants en leur m
 
 —_Nicholas W. Scalzo_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Gray/In_Cosmic_Harmony">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En harmonie cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kulieke/A_Spiritual_Tonic">
+          <span class="pr-2">Un tonique spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

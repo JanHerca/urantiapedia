@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Sara Blackstock<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministère individuel : Service communautaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="pr-2">Le vrai culte : commentaire sur la fascicule 5, section 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Sara L. Blackstock
@@ -186,3 +210,28 @@ J'imagine que l'espoir de nous tous est que nos enfants connaissent Dieu comme l
 
 Et comme nous le savons tous, la réorganisation sociale, morale, économique et politique du monde commence chez soi.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministère individuel : Service communautaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="pr-2">Le vrai culte : commentaire sur la fascicule 5, section 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

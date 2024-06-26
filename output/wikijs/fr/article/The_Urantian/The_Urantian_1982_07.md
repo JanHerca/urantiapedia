@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1982"
+title: "« The Urantian » — Numéro d'été 1982"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Ronald D. Louie, Sally Schlundt<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="pr-2">Réflexions sur la diffusion des enseignements du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Réflexions sur la diffusion des enseignements du _Livre d'Urantia_
@@ -40,3 +61,25 @@ _Fort Wayne, Indiana_
 > Jésus à Simon, Pierre, Jacques et Jean à la Maison de Simon
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="pr-2">Réflexions sur la diffusion des enseignements du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

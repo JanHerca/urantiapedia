@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Jim McNelly<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/The_Ministry_Of_The_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le ministère des Ajusteurs de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Thoughts_Of_A_Thought_Adjuster">
+          <span class="pr-2">Pensées d'un ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Des éternités infinies s'étaient écoulées sur le Paradis avant que le Père Universel décide qu'il avait attendu assez longtemps. C’était une sorte d’agitation divine, ce que l’on pourrait appeler une démangeaison de sept mille milliards d’années, qui a poussé le Père à reprendre ses outils et à agir à nouveau en tant que Créateur. Il savait qu’il devait résoudre une fois pour toutes cette lancinante question de souveraineté.
@@ -36,3 +60,28 @@ Le Père pouvait enfin voir en une seule génération quels seraient les fruits 
 — _Jim McNelly_
 _Louisville, Colorado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/The_Ministry_Of_The_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le ministère des Ajusteurs de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Thoughts_Of_A_Thought_Adjuster">
+          <span class="pr-2">Pensées d'un ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

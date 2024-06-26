@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Jeff Wattles<br>© 1983 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Ninteman/Persons_are_gifts">
+          <span class="pr-2">Les personnes sont des cadeaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La prière est le moyen le plus important de découvrir la volonté de Dieu ; mais trouver la volonté du Père n'est pas seulement une question d'écoute, d'ouverture intérieure. Qu’est-ce qui est impliqué d’autre ? La recherche de la volonté de Dieu relève des « lois des requêtes dominantes » énoncées dans _Le Livre d'URANTIA_. La deuxième de ces conditions affirme : « _Il faut avoir honnêtement épuisé toutes les possibilités humaines d’ajustement. Il faut avoir été industrieux._» ([LU 91:9.3](/fr/The_Urantia_Book/91#p9_3))
@@ -59,3 +83,28 @@ Profitons tous de l'exercice complet et harmonieux de nos facultés alors que no
 — _Jeffrey Wattles_
 _Concord, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Ninteman/Persons_are_gifts">
+          <span class="pr-2">Les personnes sont des cadeaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

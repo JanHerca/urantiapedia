@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Kathleen A. Friedel<br>© 1985 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quel est le nouveau projet de philosophie de vie ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je voudrais attirer votre attention sur un mot. Le mot est « partenariat » - partenariat que l'on trouve à plusieurs endroits dans _Le Livre d'URANTIA_ :
@@ -51,3 +72,25 @@ Et plus loin, la mission de Jésus est caractérisée comme la « _... proclamat
 _Tolède, Ohio_
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quel est le nouveau projet de philosophie de vie ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

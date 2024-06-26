@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 James Johnston<br>© 1983 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1983_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le titre de cette conférence m’a semblé un sujet très court lorsqu’on m’a demandé pour la première fois d’en parler. Je ne voyais aucune contribution de la science et de la technologie à la croissance spirituelle. Il ne semblait pas y avoir la moindre connexion.
@@ -169,3 +190,25 @@ La science et la technologie ont fourni le stimulus et l’opportunité d’une 
 — _James Johnston_ 
 _Tolède, Ohio_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1983_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

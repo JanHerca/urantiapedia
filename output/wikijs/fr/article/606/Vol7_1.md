@@ -28,7 +28,7 @@ Le thème sera : « La tapisserie du service aimant ».
 
 Cette année, nous avons également l'intention de rendre _le Livre d'Urantia_ plus facilement disponible dans toute l'Australie, avec des livres disponibles par l'intermédiaire de groupes d'étude locaux à un prix raisonnable. Plus de détails plus tard. N'oubliez pas non plus que nous aimerions avoir de vos nouvelles. Alors écrivez-nous.
 
-## 30e anniversaire — Un extrait de L'Urantien, décembre 1985
+## 30e anniversaire — Un extrait de « The Urantian », décembre 1985
 
 Le 12 octobre dernier a été marqué par la réalisation d'une étape importante : le 30ème anniversaire de la première publication en 1955 du _Livre d'URANTIA_. D'ici la fin de cette année de 30 ème anniversaire (c'est-à-dire 1985), plus de 143 000 exemplaires de la version originale anglaise du _Le Livre d'URANTIA_ auront été vendus et distribués depuis sa publication initiale. Les chiffres de vente et de distribution de la traduction française du _Le Livre d'URANTIA_ (intitulé _Le Livre d'URANTIA_), depuis sa première publication en 1961, atteindront un total de près de 17 000 exemplaires à la fin de cette année. Ainsi, d'ici la fin de l'année, le total combiné de tous les exemplaires du _Livre d'URANTIA_ vendus et distribués depuis 1955 sera d'environ 160 000 livres.
 

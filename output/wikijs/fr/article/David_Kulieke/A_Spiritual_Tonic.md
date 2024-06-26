@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 David Kulieke<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nicholas_W_Scalzo/Children_Prayer_And_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enfants – Prière et culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ed_Harrigan/Talking_With_A_Friend">
+          <span class="pr-2">Parler avec un ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La véritable adoration va directement à Dieu le Père, et il est la source de toutes choses, y compris l’énergie. « _... l'énergie... en tant que phénomène universel est inhérente au Père Universel._ » ([LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)) L'adoration est une méthode pour puiser dans cette énergie. La technique nécessite un oubli total de soi ; cela n’implique aucune motivation personnelle. « _Il n'y a absolument aucune demande personnelle ou autre élément d'intérêt personnel dans le vrai culte..._ » ([LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))
@@ -19,3 +43,28 @@ Ainsi, ce qui commence par l’oubli de soi finit par récompenser celui qui ado
 
 —_David Kulieke_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nicholas_W_Scalzo/Children_Prayer_And_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enfants – Prière et culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ed_Harrigan/Talking_With_A_Friend">
+          <span class="pr-2">Parler avec un ami</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

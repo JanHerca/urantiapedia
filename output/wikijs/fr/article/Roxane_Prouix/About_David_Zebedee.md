@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Roxane Prouix<br>© 1983 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La personnalité complexe de l'homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque nous lisons _Le Livre d'URANTIA_, nous ne pouvons nous empêcher de tomber amoureux de certains des êtres humains qui nous sont décrits. Bien sûr, il y en a beaucoup à apprécier, mais celui que j'aime est David Zebedee, frère de James et John. Salomé, sa mère, était apparentée à Anne, l'ancien grand prêtre ; et elle aimait Jésus comme l’un de ses propres fils. Jésus allait souvent à la pêche avec Jacques, Jean et David. Le père des garçons était un ami proche de Joseph, le père humain de Jésus. Zébédée était constructeur de bateaux et Jésus travailla pour lui un peu plus d'un an. En fait, Jésus est devenu un expert dans la conception et la construction de bateaux, et il a créé un nouveau style de bateau plus sûr que les modèles plus anciens. Les quatre filles de Zébédée adoraient presque Jésus. Parmi les fils de Zébédée, Jacques s'intéressait à Jésus en tant qu'enseignant et philosophe, Jean se souciait le plus de ses enseignements religieux et David le respectait en tant que mécanicien, mais ne faisait pas grand cas à l'époque de ses enseignements religieux. vues.
@@ -24,3 +45,25 @@ David et Ruth, la sœur de Jésus qui n'avait jamais douté de sa mission, se ma
 — _Roxane Proulx_ 
 _Montréal Canada_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La personnalité complexe de l'homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

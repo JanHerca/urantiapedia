@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Carolyn Kendall<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes par la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="pr-2">Résolution de problèmes vénérable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Carolyn Kendall
@@ -80,3 +104,28 @@ Il y a quelques choses générales à savoir sur la prière et l'adoration : L'e
 6. _Effet de la prière sur l'individu_. La prière ne peut pas guérir les maladies organiques, mais elle contribue à la guérison des maladies mentales ou nerveuses. ([LU 91:6.2](/fr/The_Urantia_Book/91#p6_2)). La prière change votre attitude, pas celle de Dieu. (1638) La prière vous fait moins réfléchir, mais vous rend plus conscient. Cela élargit la vision, pas la connaissance. La prière soutient, l'adoration est créatrice. ([LU 143:7.5](/fr/The_Urantia_Book/143#p7_5)) Même les prières peu judicieuses ou impossibles de quelqu'un qui est sincère élargissent la capacité de l'âme. La prière favorise le détachement de la routine quotidienne, de la monotonie, du train-train quotidien. La prière est un antidote à l’introspection néfaste. Il recharge les batteries spirituelles de l'âme. C'est le regard nostalgique de l'enfant vers le Père. Le processus psychologique d’échange de la volonté humaine contre la volonté divine. ([LU 144:4.9](/fr/The_Urantia_Book/144#p4_9)) Jésus a prié pour rassembler des forces pour les conflits ordinaires, de l'énergie pour résoudre des problèmes plus élevés de nature morale et spirituelle. ([LU 160:1.10](/fr/The_Urantia_Book/160#p1_10)) La prière creuse des canaux plus profonds afin que les dons divins puissent affluer vers le cœur et l'âme. ([LU 194:4.3](/fr/The_Urantia_Book/194#p4_3)) La prière enrichit la vie. ([LU 102:4.5](/fr/The_Urantia_Book/102#p4_5))
 7. _Effet du culte sur l'individu_. Le culte illumine le destin. ([LU 102:4.5](/fr/The_Urantia_Book/102#p4_5)) Il apporte le salut aux mortels en quête de plaisir. ([LU 144:4.7](/fr/The_Urantia_Book/144#p4_7)) L'adoration apporte une relaxation qui renouvelle, une illumination qui inspire l'âme, donne le courage d'affronter les problèmes, une compréhension de soi qui efface la peur débilitante, une union consciente avec la divinité — l'assurance de devenir semblable à Dieu. La communion soulage les tensions, supprime les conflits. ([LU 160:1.12](/fr/The_Urantia_Book/160#p1_12)) Effet intérieur de l'adoration — on devient illuminé ; l’effet extérieur : on s’engage dans plus de service. ([LU 106:9.12](/fr/The_Urantia_Book/106#p9_12)) L'adoration aide à s'identifier au tout ; le fils avec le Père ; le temps frappe le pas avec l'éternité. ([LU 143:7.8](/fr/The_Urantia_Book/143#p7_8)) Syntonisation de l'âme pour capter les émissions universelles du Père Universel. ([LU 144:4.8](/fr/The_Urantia_Book/144#p4_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes par la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Worshipful_Problem_Solving">
+          <span class="pr-2">Résolution de problèmes vénérable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Patrick Yesh<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'éthique au quotidien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="pr-2">Éviter l’égoïsme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introduction
@@ -204,3 +228,28 @@ Quelle est cette partie de l’image de soi que nous devons prendre au sérieux 
 5. Entrez rapidement dans une relation intime avec quelqu'un, trouvez un partenaire, mariez-vous, côtoyez beaucoup d'enfants, rejoignez un club de service, devenez un faiseur d'amour. Ne soyez pas seul dans votre réflexion ou votre vie. Une association intime avec vos semblables, votre famille et votre communauté vous aide à éviter les poursuites égoïstes. La vie solitaire est fatale au bonheur ; même les familles et les nations profiteront davantage de la vie si elles la partagent avec d’autres. ([LU 160:2.8](/fr/The_Urantia_Book/160#p2_8))
 6. Et Jésus dit : « Pour vous, le secret de la maitrise de soi est lié à votre foi en l’esprit qui vous habite et qui opère toujours par amour. Et même cette foi qui sauve, vous ne l’avez pas par vous-mêmes ; elle aussi est un don de Dieu. Si vous êtes les enfants de cette foi vivante, vous n’êtes plus les esclaves du moi, mais plutôt les maitres triomphants de vous-mêmes, les fils [et filles] de Dieu affranchis. ([LU 143:2.7](/fr/The_Urantia_Book/143#p2_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'éthique au quotidien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="pr-2">Éviter l’égoïsme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

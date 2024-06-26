@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Rosey Lieske<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1982_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Suprême est décrit de plusieurs manières. Mais dans mon esprit, je continue de le voir comme le fœtus mystérieux, qui voit tout, vivant et en formation dans l'espace à la fin de 2001. Un Dieu qui s'efforce et est actif et, pourtant, constamment incomplet. Il est littéralement « notre Dieu » – notre Créateur/créature en évolution simultanée. En lui, nous avons nos origines et notre signification réelle, et en nous, il trouve accès à une autre facette de l'expérience réalisable – une autre voie vers la source de son être – le Père du Paradis.
@@ -180,3 +201,25 @@ Il fermait ses doigts sur un reflet de l'espace et disait : « C'est là qu'il h
 —_Rose Lieske_
 _Phoenix, Arizona_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1982_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 James Johnson<br>© 1985 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Stupid_to_mechanize">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stupide à mécaniser</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour relever le défi religieux de notre époque, il semblerait tout d’abord approprié de faire une distinction entre une philosophie de vie religieuse et non religieuse – la différence étant dans la nature du niveau de valeurs reconnues et dans l’objet des loyautés, comme le souligne un Melchisédek. : « _L’évolution de la philosophie religieuse comporte quatre phases. Cette expérience peut devenir simplement conformiste, résignée à la soumission, à la tradition et à l’autorité. Ou bien, elle peut se satisfaire d’accomplissements mineurs, juste assez pour stabiliser sa vie quotidienne et se trouver alors arrêtée de bonne heure sur ce niveau occasionnel. Les mortels de ce genre croient que le mieux est l’ennemi du bien. Un troisième groupe progresse jusqu’au niveau de l’intellectualité logique, mais y stagne par suite d’esclavage culturel. Il est vraiment lamentable de voir des intelligences géantes maintenues si solidement sous l’emprise cruelle de la servitude culturelle. Il est tout aussi pathétique d’observer ceux qui troquent leur servitude culturelle contre les chaines matérialistes d’une discipline faussement qualifiée de science. Le quatrième niveau de philosophie parvient à s’affranchir de tous les handicaps classiques et traditionnels ; sur ce niveau, on ose penser, agir et vivre honnêtement, loyalement, sans peur et sincèrement._ » ([LU 101:7.4](/fr/The_Urantia_Book/101#p7_4)) La dernière phrase de cette citation se rapporte directement au question originale concernant la construction d'une « _...une philosophie de vie nouvelle et attrayante..._ » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)). Les deux citations utilisent le verbe oser qui implique que les enseignants religieux de cet âge doivent en avoir suffisamment. courage pour mettre en œuvre ce quatrième niveau de philosophie.
@@ -28,3 +49,25 @@ En conclusion, les vrais enfants du discernement spirituel continueront à unifi
 — _James (JJ) Johnson_
 _Arabie Saoudite_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Stupid_to_mechanize">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stupide à mécaniser</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

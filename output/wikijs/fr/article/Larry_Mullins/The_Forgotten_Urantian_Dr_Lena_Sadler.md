@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien oublié : Dr Lena Celestia (Kellogg) Sadler"
+title: "« The Urantian » oublié : Dr Lena Celestia (Kellogg) Sadler"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z

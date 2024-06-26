@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Dan Massey<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marcher avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Réconciliation et croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Dan Massey
@@ -97,3 +121,28 @@ Et c’est dans l’ère post-finie des absonités aboutissant à la perfection 
 
 Voici donc une analyse complète, longue et quelque peu détaillée de mon expérience personnelle des événements ordinaires consistant à être et à faire la volonté du Père. Il est inhabituel à un seul égard : il admet un choix conscient des événements d'une manière coopérative mais non passive. La même expérience admet également une participation inconsciente, et c’est ici que l’idée « d’aimer en présence de Dieu » semble la plus descriptive. Après avoir atteint et reconnu la co-suprématie dans tout Nébadon avec l'Esprit-Mère de l'Univers, Michel de Nébadon est devenu volontairement omniprésent dans un temps et un espace finis. En tant que Jésus humain de Nazareth, il avait anticipé cette occasion et avait mis cette ubiquité, en partie, au service de ses associés mortels. En établissant le Souper du Souvenir comme le seul véritable sacrement, Michael a déterminé qu'il utiliserait ce nouveau pouvoir pour fournir une véritable adoration dans sa présence divine à toutes les personnes conscientes de leur foi, à travers le temps et l'espace de Nébadon. Celui qui le veut sera en présence du Fils Créateur. Celui qui le choisit vivra dans la lumière du Maître. Celui qui le souhaite servira ses semblables avec amour. Celui qui le désire marchera avec Dieu.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marcher avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Réconciliation et croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

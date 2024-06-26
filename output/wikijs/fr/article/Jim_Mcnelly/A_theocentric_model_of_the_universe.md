@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Jim McNelly<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout esprit rationnel porte en lui un sens de la réalité et de la cosmologie, une image intérieure de l'univers et de la place de l'individu en son sein. Pour beaucoup de gens, leur « vision du monde » est une masse désorganisée de faits, de croyances, de traditions et de superstitions avec l’ego au centre de leur univers intériorisé vague et amorphe. Le modèle égocentrique de l’univers s’étend au-delà du concept de soi de l’individu ; il peut se développer pour façonner les institutions qu’il a créées au service du soi, déformant. L’égocentrisme est des plus tragiques dans la formulation des institutions religieuses puisque ces organisations opèrent sous prétexte de prôner la spiritualité et l’altruisme.
@@ -78,3 +99,25 @@ En tant qu'individus, il nous est enjoint de rechercher le salut par nous-mêmes
 _Jim McNelly_
 _Kansas-City. Missouri_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1986"
+title: "« The Urantian » — Numéro d'hiver 1986"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Charles Laurence Olivea, John Lange<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="pr-2">Le niveau à bulle de la réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le niveau à bulle de la réalité
@@ -39,3 +60,25 @@ _Fort Smith, Arkansas_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="pr-2">Le niveau à bulle de la réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

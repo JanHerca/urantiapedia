@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Robert F. Bruyn<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Knott/The_Greatest_Human_Achievement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La plus grande réussite humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Walker/An_Infinite_Universe_With_Limits">
+          <span class="pr-2">Un univers infini avec des limites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qu’a vécu l’astronaute américain Edgar Mitchell lors de son voyage sur Apollo 14 et de sa marche sur la lune qui l’a incité à une croisade personnelle pour un « esprit communautaire » mondial ? Mitchell a déclaré à un auditoire en 1971, peu après son retour : « Je veux convaincre les gens de la nécessité de considérer notre monde comme une petite communauté, un peu comme vous l'avez ici dans l'État du Kansas, et de travailler à résoudre les problèmes dans le même esprit. esprit d’unité, à l’échelle mondiale, par opposition à l’ensemble de la communauté. Des photographies et des affiches de la petite planète bleue, la Terre, suspendue dans l'espace par des fils invisibles de gravité, ont fourni aux Américains et aux gens du monde entier l'occasion de partager la nouvelle perspective de Mitchell : voir la Terre depuis sa lune. Dans cette perspective, les contrastes des diverses races et des frontières nationales ont été unifiés dans l'esprit de nombreux mortels sensibles dans une conscience de l'interdépendance de tous les habitants de cette planète – la fraternité des hommes. Il est certain qu'un pas de géant pour l'humanité a été franchi dans notre conscience en évolution.
@@ -20,3 +44,28 @@ Ce Puissant Messager rapporte également que la beauté est l'un des trois élé
 — _Bob Bruyn_
 _Kansas City, Missouri_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Knott/The_Greatest_Human_Achievement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La plus grande réussite humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Walker/An_Infinite_Universe_With_Limits">
+          <span class="pr-2">Un univers infini avec des limites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

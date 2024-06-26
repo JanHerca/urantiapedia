@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1990_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Journal of Fifth Epochal Fellowship » — Été 1990 — Numéro II de la conférence spéciale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="pr-2">Expérimenter Dieu en nous-mêmes et chez les autres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par John Hay
@@ -49,3 +73,28 @@ Lorsque nous, en tant que peuple, un par un, revêtons Christ, vivons et aimons 
 
 N'est-il pas temps que toutes les paroles et tous les engagements de toutes les institutions et structures aient un objectif commun : un objectif de créer un monde plus humain et plus divin ? Ou encore, les paroles du prophète Isaïe sonneront-elles justes, comme il le dit : « Vous entendrez et entendrez encore, mais vous ne comprendrez pas, vous verrez et verrez encore, mais vous ne percevrez pas. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1990_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Journal of Fifth Epochal Fellowship » — Été 1990 — Numéro II de la conférence spéciale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="pr-2">Expérimenter Dieu en nous-mêmes et chez les autres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

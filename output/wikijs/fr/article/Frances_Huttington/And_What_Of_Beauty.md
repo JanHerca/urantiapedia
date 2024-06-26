@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Frances Huttington<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Virginia_Varnum/Quest_For_Goodness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quête du bien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Thomas_Wicks/Sophistication_Versus_Wisdom">
+          <span class="pr-2">Sophistication contre sagesse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -35,3 +59,28 @@ C'est la beauté.
 _Frances Hutington_
 Portland, Oregon
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Virginia_Varnum/Quest_For_Goodness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quête du bien</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Thomas_Wicks/Sophistication_Versus_Wisdom">
+          <span class="pr-2">Sophistication contre sagesse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

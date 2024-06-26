@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1985"
+title: "« The Urantian » — Numéro du printemps 1985"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Peter Laurence, Probal Dasgupta, Helena E. Sprague, Jeff Wattles<br>© 1985 La Bourse du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Editors_Note">
+          <span class="pr-2">Note de l'éditeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Note de l'éditeur
@@ -71,3 +92,25 @@ Comme nous l'avons indiqué dans notre dernier numéro, même si notre intention
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Editors_Note">
+          <span class="pr-2">Note de l'éditeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

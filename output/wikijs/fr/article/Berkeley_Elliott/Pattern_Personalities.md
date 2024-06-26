@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Berkeley Elliott<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_and_Eileen_Laurence/Patterns_Of_Predictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles de prévisibilité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="pr-2">Modèles familiaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Fils Éternel est le modèle de personnalité, mais seul le Père Universel – l'ancêtre et la source de ce modèle absolu – peut conférer la personnalité. « Modèle » indique un original (un modèle, un guide ou un archétype), et puisque le Fils Éternel est la personnalité modèle, quel excellent modèle pour toutes les personnalités de l'univers de Dieu.
@@ -23,3 +47,28 @@ Chaque personnalité a une ligne directe avec le Père Universel à travers le c
 
 — _Berkeley Elliott_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_and_Eileen_Laurence/Patterns_Of_Predictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles de prévisibilité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="pr-2">Modèles familiaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

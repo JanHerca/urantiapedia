@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Annis M. Warsh<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lindbergh — L'influence angélique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="pr-2">Anges – une vision théologique moderne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sur LU 195 :9.2 du _Le Livre d'URANTIA_, il est dit :
@@ -74,3 +98,28 @@ Je dois arrêter. Je pense qu'après tout ce temps, je n'ai dit que deux choses 
 —_Annis M. Warsh_
 _Western Springs, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lindbergh — L'influence angélique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="pr-2">Anges – une vision théologique moderne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

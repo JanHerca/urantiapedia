@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1992 Stephen Zendt</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tournages et réglages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="pr-2">Personnalité et âme. Une théorie de l'individualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Quelle est cette âme
 &nbsp; &nbsp; &nbsp; qui surgira
@@ -53,3 +77,27 @@ Mon Père, ami, ta présence constante
 —Stephen Zendt
 San Francisco
 1976 (révisé en 1991)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tournages et réglages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Soul_A_Theory_of_Selfhood">
+          <span class="pr-2">Personnalité et âme. Une théorie de l'individualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

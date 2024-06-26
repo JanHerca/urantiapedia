@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Meredith Sprunger</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Poem_for_Two_Friends">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poème pour deux amis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Preiss/Come">
+          <span class="pr-2">Viens. Un R Toon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Meredith J. Sprunger
 
@@ -72,4 +96,28 @@ Les conflits de la religion évolutionniste sont transcendés le plus efficaceme
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Turnings_and_Tunings.jpg">
 <figcaption>Photo de Mary Rector</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Poem_for_Two_Friends">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poème pour deux amis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Preiss/Come">
+          <span class="pr-2">Viens. Un R Toon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Sally Schlundt<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager la vie intérieure — la psychologie de la communion des ajusteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="pr-2">Révolution spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je préfère que le titre de cet exposé soit la revitalisation et la transformation au sein de la famille plutôt que la revitalisation et la transformation de la famille car il met l'accent et la responsabilité de l'amélioration sur la famille elle-même. Je crois que pour que toute transformation ait lieu, l'initiative doit venir de l’intérieur – et non comme le résultat de forces extérieures.
@@ -104,3 +128,28 @@ Et enfin, la famille n’est pas une fin en soi mais un modèle, un modèle fond
 — _Sally Schlundt_
 _F. Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager la vie intérieure — la psychologie de la communion des ajusteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="pr-2">Révolution spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

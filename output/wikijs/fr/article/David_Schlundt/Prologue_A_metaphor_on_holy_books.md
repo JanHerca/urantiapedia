@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="pr-2">L'imagination créatrice dans la prière et l'adoration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le discours suivant a été prononcé par David Schlundt lors des ateliers de la Fraternité URANTIA à Lake Forest, Illinois, le 4 août 1980._
@@ -112,3 +136,28 @@ Il existe un conte soufi sur un professeur sage et vénéré qui gardait toujour
 —_K. David Schlundt_
 _Urbana, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="pr-2">L'imagination créatrice dans la prière et l'adoration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Peter et Eileen Laurence<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1977_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/Pattern_Personalities">
+          <span class="pr-2">Personnalités modèles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsqu’une nouvelle idée apparaît pour la première fois, elle peut paraître simple et informe, principalement parce que nous n’avons pas encore commencé à comprendre ses nombreuses facettes. Une plus grande exposition révèle parfois une profusion complexe et apparemment sans rapport d’éléments inhérents à ce concept initialement simple. Ce qui était au départ une totalité brumeuse et amorphe prend des allures de chaos et de confusion. Enfin, l’observation de certains modèles et l’amélioration de la compréhension mettent en lumière les facteurs unificateurs qui unissent ces divers éléments en un seul tissu.
@@ -21,3 +45,28 @@ La Divinité est unité, et plus nos conceptions et compréhensions se rapproche
 
 — _Peter et Eileen Laurence_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1977_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/Pattern_Personalities">
+          <span class="pr-2">Personnalités modèles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

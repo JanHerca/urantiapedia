@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Robert Buselli<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1978_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="pr-2">L'Être Suprême - Une Définition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque j'ai abordé les trois articles du _Livre d'URANTIA_ sur le Suprême, j'ai été confus par les nombreuses façons dont les auteurs faisaient référence au Suprême. Il y avait l’Être Suprême, Dieu le Suprême et le Tout-Puissant Suprême. Il y avait aussi une référence à l’Esprit Suprême. J'étais conscient que le Suprême était Dieu agissant dans le temps et l'espace – une divinité finie ; mais avant ces trois articles, je croyais que l'Être Suprême, Dieu le Suprême et le Tout-Puissant Suprême étaient des termes interchangeables utilisés de la même manière que le _Livre d'URANTIA_ fait référence aux Ajusteurs de Pensée comme des Moniteurs de Mystère, des fragments de Père, des esprits intérieurs, etc. Pourquoi alors y avait-il trois articles distincts ? Soudain, j'ai réalisé que chaque terme utilisé en référence au Suprême signifiait quelque chose de défini et légèrement différent de chacun des autres termes.
@@ -42,3 +66,28 @@ L'Être Suprême est fini et est une Divinité expérientielle de la même mani�
 —_Robert F. Buselli_
 _Pittsburgh, Pennsylvanie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1978_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marian_Rowley/The_Supreme_Being_A_Definition">
+          <span class="pr-2">L'Être Suprême - Une Définition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

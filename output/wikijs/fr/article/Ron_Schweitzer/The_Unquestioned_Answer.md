@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Ron Schweitzer<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Fear_And_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Peur et croissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Récemment, un étudiant du Livre d'Urantia a attiré mon attention lorsqu'il a demandé : « Comment puis-je vivre une révélation ? L'enquête a immobilisé le groupe ; on pouvait percevoir toutes sortes de non-réponses se rassembler pour attaquer la question que personne n'avait entendue. Il a été demandé au demandeur de répéter sa question, éventuellement avec quelques précisions. Il était accompagné d’une forte emphase vocale et d’un phrasé actif : « Comment _viver_ une révélation ? Je tiens entre mes mains une révélation d’époque de 2097 pages. Je veux faire quelque chose de plus que le _lire_, je ressens la responsabilité de le _vivre_. Quelle merveilleuse déclaration ! Heureusement, personne n'a proposé de réponse « voilà comme ça, c'est ce que vous faites », ni aucune de ces phrases claires et nettes qui claquent la porte de la discussion.
@@ -25,3 +46,25 @@ J'ai commencé le voyage pour trouver ma propre réponse à la façon dont une r
 
 — _Ron Schweitzer_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Fear_And_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Peur et croissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

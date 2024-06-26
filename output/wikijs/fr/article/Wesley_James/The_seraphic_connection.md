@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Wesley James<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh — L'influence angélique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’une des fonctions de la révélation est de trier, clarifier et souligner les vérités qui ont évolué au fil des années alors que les hommes cherchent à harmoniser ce qu’ils savent et ce qu’ils peuvent croire. Les anges font partie de la révélation religieuse, de l’évolution, de la tradition, des mythes et des légendes depuis des milliers d’années. Certains des récits les plus intéressants du _Livre d'URANTIA_ traitent de la relation ou de la connexion entre les mortels et les anges.
@@ -34,3 +58,28 @@ Dans les premiers jours de la diffusion du Livre d'URANTIA et de ses enseignemen
 — _Wesley R. James_
 _Forest Park, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh — L'influence angélique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

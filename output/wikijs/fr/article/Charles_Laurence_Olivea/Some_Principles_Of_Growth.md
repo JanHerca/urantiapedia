@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Charles Laurence Olivea<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une philosophie de fraternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_F_Prince/Education_And_Love">
+          <span class="pr-2">Éducation et amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Chers amis, je voudrais partager avec vous mes réflexions sur la croissance future de la Fraternité URANTIA. Ces idées reflètent mon interprétation de certaines idées expérientielles et révélatrices, je les appelle « principes de croissance » pour les organisations spirituelles :
@@ -22,3 +46,28 @@ Chers amis, je voudrais partager avec vous mes réflexions sur la croissance fut
 
 — _Charles Laurence Olivea_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une philosophie de fraternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_F_Prince/Education_And_Love">
+          <span class="pr-2">Éducation et amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

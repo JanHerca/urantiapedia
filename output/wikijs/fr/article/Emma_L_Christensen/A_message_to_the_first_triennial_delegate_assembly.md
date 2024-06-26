@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1964 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">Un message à l'Assemblée triennale des délégués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 SALUT À VOUS — les délégués, suppléants, conseillers et tous les Urantiens — qui avez le privilège d'assister à cette première réunion de l'Assemblée triennale des délégués. C'est un événement historique. Ce que nous faisons et disons ici restera longtemps inscrit dans les archives de la Fraternité URANTIA, et je ne doute pas que les générations futures regarderont avec nostalgie cette année 1964 et souhaiteraient pouvoir être avec nous, tout comme nous le regardons parfois. nous revenons à l'époque de Jésus sur terre et nous aurions aimé pouvoir marcher avec lui à travers la Galilée, nous asseoir sous les arbres avec lui, écoutant directement ses enseignements divins. Notre réunion ici aujourd’hui sera une expérience que nous chérirons longtemps et j’espère que nous relèverons les défis qu’elle présente avec courage, dévouement et, surtout, avec une unité d’objectif.
@@ -68,3 +92,28 @@ Soyons donc des soldats heureux et vaillants des cercles.
 
 20 août 1964
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">Un message à l'Assemblée triennale des délégués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

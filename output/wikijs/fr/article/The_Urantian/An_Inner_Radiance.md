@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wesley_James/Come_With_Me_And_See">
+          <span class="pr-2">Viens avec moi et vois</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «_Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux._» ([LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)) Ainsi parla Jésus aux apôtres dans le sermon d'ordination ; et depuis plus de 1900 ans, les hommes ont exécuté cette injonction selon leur propre illumination et capacité conceptuelle.
@@ -43,3 +67,28 @@ Il accepte les incertitudes et les vicissitudes de l’existence comme faisant p
 
 —_Un Urantien décousu et itinérant_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wesley_James/Come_With_Me_And_See">
+          <span class="pr-2">Viens avec moi et vois</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

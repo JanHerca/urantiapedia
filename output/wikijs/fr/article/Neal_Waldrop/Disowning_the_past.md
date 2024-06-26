@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1984"
+title: "« The Urantian » — Numéro d'été 1984"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Neal Waldrop<br>© 1984 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1984_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été adapté d'un discours prononcé à la Conférence Allenberry des lecteurs du Livre d'URANTIA, à Boiling Springs, Pennsylvanie, en mai 1984._
@@ -206,3 +227,25 @@ Et quelle meilleure inspiration pouvons-nous rechercher que Jésus, le Fils Cré
 _Silver Spring, Maryland_
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1984_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

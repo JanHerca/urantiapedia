@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John M. Andrews<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Why">
+          <span class="pr-2">Pourquoi?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il me semble que nous construisons tous une philosophie de vie d’une sorte ou d’une autre. Cela fait partie de la fonction mentale naturelle d’intégration de notre conscience en expansion. Le grand _défi_ est d'en construire un avec certaines caractéristiques et basé sur certains concepts. Et la grande promesse est qu’une telle philosophie de la vie contribuera grandement à faire progresser l’évolution religieuse de toute l’humanité, et d’une manière que le livre ne peut pas faire seul et que nous ne pouvons pas faire sans le livre.
@@ -40,3 +64,28 @@ Alors aimons apprendre à connaître Dieu et apprenons à nous aimer les uns les
 — _John Andrews_
 _Juneau, Alaska_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Why">
+          <span class="pr-2">Pourquoi?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Gilles Laverdure<br>© 1986 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pourquoi Dieu laisse-t-il tant de gens souffrir et pourquoi permet-il que le péché se produise ?
@@ -26,3 +47,25 @@ En conclusion, je voudrais suggérer que nous pouvons profiter dès maintenant, 
 — _Gilles Laverdure_ 
 _Greenfield Park. Québec_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

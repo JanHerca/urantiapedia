@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Eugene Frazier<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1979_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Matchless_Moses">
+          <span class="pr-2">L'incomparable Moïse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les étudiants du _Livre d'URANTIA_ connaissent bien les formes nombreuses et variées d'énergie spirituelle que le Père a fournies pour qu'un jour nous puissions le connaître et lui ressembler. L'un des points les plus inspirants pour ce lecteur a été la description de ces mortels héroïques d'Urantia qui ont osé vivre dans la foi comme des fils et des filles du Père.
@@ -34,3 +58,28 @@ L’Ajusteur soit autorisé à favoriser la croissance. Alors que Jésus orienta
 — _Eugène Frazier_
 _Sacramento, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1979_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Matchless_Moses">
+          <span class="pr-2">L'incomparable Moïse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

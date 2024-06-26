@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Bernard Burton<br>© 1976 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michael_Painter/Service_A_Personal_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Service — Une vision personnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="pr-2">Groupes d'étude - Un échantillonnage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour grandir et se développer, les personnalités ont besoin de contact avec d’autres personnalités, un peu comme des fragments de roche aux arêtes vives broyés en se frottant les uns contre les autres. Un tel parallèle suggère l’intention divine selon laquelle notre progression vers les niveaux spirituels est étroitement liée à la sociabilité et à l’effort coopératif. Notre conscience accrue de la dépendance mutuelle, de la valeur personnelle et des objectifs de service altruistes a besoin d'un véhicule de comportement pour s'exprimer avec d'autres personnes inspirées de la même manière... d'où la motivation logique pour la formation de groupes d'étude. Ce rassemblement de croyants pourrait bien être appelé « l’éventualité inévitable » d’une large diffusion du _Livre d’URANTIA_.
@@ -23,3 +47,28 @@ Comme des galets sur la plage, lavés d'avant en arrière par les vagues déferl
 
 —_Bernard Burton_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michael_Painter/Service_A_Personal_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Service — Une vision personnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="pr-2">Groupes d'étude - Un échantillonnage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

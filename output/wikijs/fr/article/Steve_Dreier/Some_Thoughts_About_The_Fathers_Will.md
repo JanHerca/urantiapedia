@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Steve Dreier<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1981_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1981</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="pr-2">Principes pour connaître la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On nous enseigne que « _On est libre de choisir et d'agir uniquement dans le domaine de sa conscience._ » ([LU 34:3.8](/fr/The_Urantia_Book/34#p3_8)) L'étude sincère du _Le Livre d'URANTIA_ a produit, pour beaucoup d'entre nous, une véritable expansion de conscience, introduire de nouvelles possibilités de choix et d'action, notamment par rapport à Dieu. Les conceptions que nous avons du Père Universel doivent nécessairement conditionner notre expérience de relation avec lui. Quand Dieu est petit et éloigné, il est difficile de compter sur lui dans une grande mesure. Mais le Père Universel du _Livre d'URANTIA_ se révèle infiniment aimant, infiniment puissant, et l'ami le plus proche et le plus cher que chacun d'entre nous connaisse jamais. Nous recevons un fondement philosophique sur lequel nous pouvons exercer un niveau de confiance enfantine en Dieu qui dépasse de loin ce qui nous était auparavant possible. Mais la philosophie n'est pas la foi. Cette vie élargie avec le Père n’est pas automatique ; nous devons chacun choisir de l'avoir. Chacun de nous est un être de libre arbitre, du moins en ce qui concerne ce qui est spirituel. Nous ne sommes pas obligés de rechercher ou de faire la volonté du Père ; cela doit être une question de choix personnel volontaire, authentique et sincère. Nous sommes obligés de nous confronter et de répondre à la question : Voulons-nous vraiment faire la volonté du Père ?
@@ -32,3 +56,28 @@ Faire la volonté du Père est donc d'abord une question de désir sincère, ens
 — _Steve Dreier_
 _Teaneck, New Jersey_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1981_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1981</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="pr-2">Principes pour connaître la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

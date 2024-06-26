@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1975 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un message à la session d'étude d'été sur la loyauté et le service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Salutations aux Soldats des Cercles ! Cette désignation nous a été appliquée parce que nous sommes les hommes et les femmes qui ont été appelés à faire les premiers pas pour offrir une nouvelle lumière à une Église frustrée et à un monde distrait. Nous sommes la première lumière depuis près de 2 000 ans à éclairer le chemin de la délivrance du chaos, de la confusion et des ténèbres du dilemme planétaire actuel.
@@ -84,3 +105,25 @@ Selon les paroles de Jésus : « _Vous voyez par vous-mêmes que la moisson est 
 
 1er août 1975
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un message à la session d'étude d'été sur la loyauté et le service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

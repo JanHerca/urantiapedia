@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Jay Newbern<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emmanuel_Desurvire/The_Power_Of_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le pouvoir du Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nonobstant que « _la capacité de compréhension intellectuelle de l'homme est épuisée par la conception maximale de l'Être Suprême_ » ([LU 115:3.4](/fr/The_Urantia_Book/115#p3_4)), je sais tout simplement que nous sommes liés parce que nous avons tous deux la même dernière désignation – ÊTRE. Même si, en tant qu'être humain, je ne suis qu'un grain de sable et que lui, en tant qu'Être suprême, est le Sahara de sable, nous sommes pourtant de la même famille.
@@ -24,3 +45,25 @@ Nous sommes chacun des atomes irremplaçables du Suprême. En plus du privilège
 —_Jay Newbern_
 _Petaluma, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emmanuel_Desurvire/The_Power_Of_The_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le pouvoir du Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

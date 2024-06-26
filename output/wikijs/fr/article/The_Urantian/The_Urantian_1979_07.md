@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1979"
+title: "« The Urantian » — Numéro d'été 1979"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Eugene Frazier, Charles Laurence Olivea, Inde Margaret Sperry, Linda Buselli<br>© 1979 La Bourse du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eugene_Frazier/Ganid_Of_India">
+          <span class="pr-2">Ganid de l'Inde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Ganid de l'Inde
@@ -81,3 +102,25 @@ Comment pensez-vous que votre tuteur séraphique fonctionne dans votre vie ? Po
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eugene_Frazier/Ganid_Of_India">
+          <span class="pr-2">Ganid de l'Inde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

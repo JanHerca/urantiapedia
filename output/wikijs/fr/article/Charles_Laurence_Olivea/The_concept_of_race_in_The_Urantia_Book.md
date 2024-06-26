@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Charles Laurence Olivea<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/UNITY_One_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UNITÉ — Une vue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -92,3 +113,25 @@ Ces qualifications sont très importantes car toute ingénierie socio-biologique
 — _Charles Laurence Olivea_ 
 _Watertown, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/UNITY_One_view">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UNITÉ — Une vue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

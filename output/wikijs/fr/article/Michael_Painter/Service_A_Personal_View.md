@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Michael Painter<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Snider/One_To_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un par un</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="pr-2">Les cailloux frottants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Service? Apparemment un mot courant ; mais qu'est-ce que cela signifie réellement ? Faites une pause et réfléchissez un instant à ce que le service signifie pour vous, puis poursuivez votre lecture pendant que j'essaie de partager quelques réflexions avec vous.
@@ -33,3 +57,28 @@ Si Jésus aimait faire de petites choses pour les gens, alors cela vaut sûremen
 
 > « _...la fraternité et le service sont les pierres angulaires de l’évangile du royaume._ » ([LU 178:1.4](/fr/The_Urantia_Book/178#p1_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Snider/One_To_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un par un</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="pr-2">Les cailloux frottants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

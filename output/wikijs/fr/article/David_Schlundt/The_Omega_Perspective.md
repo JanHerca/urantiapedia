@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 David Schlundt<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concentrez-vous sur l'individu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julia_Fenderson/FUSLA_Study_Group_Guidelines">
+          <span class="pr-2">Lignes directrices du groupe d'étude FUSLA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le caractère unique de l'orientation du Livre d'URANTIA réside, en dernière analyse, dans sa focalisation sur une guidance individuelle singulière au moyen de l'Ajusteur de Pensée intérieur. Les conséquences comportementales quotidiennes de ce « pas de géant pour l’humanité » sont immédiates et profondes, s’étendant d’ici à l’éternité, et pour tout individu doté de volonté, indépendamment de toute autre qualification. Il s’agit d’une transformation révolutionnaire dans le sens de la personnalité authentique, d’où découle la promesse d’une nouvelle communauté.
@@ -23,3 +47,28 @@ Enfin, la patience suprême et aimante de Jésus envers ses enfants rebelles à 
 
 —_David Schlundt_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concentrez-vous sur l'individu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Julia_Fenderson/FUSLA_Study_Group_Guidelines">
+          <span class="pr-2">Lignes directrices du groupe d'étude FUSLA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

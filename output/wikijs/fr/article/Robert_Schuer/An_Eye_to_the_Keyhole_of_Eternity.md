@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Robert Schuer<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Expérimenter Dieu en nous-mêmes et chez les autres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="pr-2">Méditation réflexive sur les significations cosmiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Robert J. Schuer
@@ -49,3 +73,28 @@ Enfin, pouvez-vous imaginer le Christ Michel venant de son Père au Paradis, pas
 - La planète sur laquelle a été envoyée une incroyable cinquième révélation d'époque ?
 - Et la planète depuis laquelle vous regardez maintenant à travers la serrure de l'éternité à cause de cette révélation ?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Expérimenter Dieu en nous-mêmes et chez les autres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="pr-2">Méditation réflexive sur les significations cosmiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

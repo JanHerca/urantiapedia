@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Virginia Varnum<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que la vérité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="pr-2">Et qu'en est-il de la beauté ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La protection envers Dieu est une sorte de bonté : « la poursuite de l’idéal ». Il utilise différents muscles, il se nourrit d’amour. « _Jusqu’à ce que vous atteigniez les niveaux du Paradis, la bonté sera toujours davantage une recherche qu’une possession,..._ » ([LU 132:2.8](/fr/The_Urantia_Book/132#p2_8)) La protection envers Dieu est une « _soif de perfection divine_ » ([LU 150:5.5](/fr/The_Urantia_Book/150#p5_5)) accomplie avec L'aide de Dieu avec toute la hiérarchie des êtres spirituels et l'expression de Dieu à l'intérieur de vous.
@@ -28,3 +52,28 @@ L’action pour Dieu, une fois entreprise, devient une nouvelle source de joie5,
 _Virginie Varnum_
 _Staten Island, New York_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/What_Is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que la vérité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="pr-2">Et qu'en est-il de la beauté ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Richard Hill<br>© 1976 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d'étude - Un échantillonnage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Groupe d'étude introductif
@@ -25,3 +46,25 @@ Le groupe de travail est composé de personnes qui effectuent un service social 
 
 —_Richard Hill_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d'étude - Un échantillonnage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

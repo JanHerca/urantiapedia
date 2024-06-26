@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Robert Walker<br>© 1979 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beauté et fraternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ethel_Zanoni/Meditations">
+          <span class="pr-2">Méditations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En lisant _Le Livre d'URANTIA_, il y a une grande indication que le Père apprécie et désire les individus uniques qui pensent par eux-mêmes. La diversité des opinions et la pensée créative conduisent souvent à des vérités supérieures. Par conséquent, la conformité à la volonté du Père et la conformité à la pensée aveugle sont reconnues comme étant distinctement différentes.
@@ -20,3 +44,28 @@ Puisqu’il y a une infinité en chacun de nous dans le don de la nature du Pèr
 — _Robert Walker_
 _Rio del Mar, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beauté et fraternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ethel_Zanoni/Meditations">
+          <span class="pr-2">Méditations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

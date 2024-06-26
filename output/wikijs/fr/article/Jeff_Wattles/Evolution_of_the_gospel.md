@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Jeff Wattles<br>© 1985 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Revelation_and_receptivity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation et réceptivité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La religion aide les gens à faire face aux difficultés spirituelles de leur époque. Les peuples primitifs avaient besoin d'être libérés de l'esclavage de la tradition, de reconnaître un Dieu suprême de la nature et du monde spirituel, d'être délivrés de la peur et d'acquérir l'assurance que seule la foi est requise pour recevoir le don de la vie éternelle. Cet évangile original de foi et de confiance en un Dieu unique est toujours pertinent, et Jésus est venu répandre la vérité. Les gens de son époque avaient particulièrement besoin de faire l'expérience du caractère personnel de la relation de Dieu avec l'individu. Jésus a révélé la personnalité du Père et a enseigné que nous sommes les fils et les filles de Dieu dans la foi. Il a démontré la joie et la liberté de la filiation avec Dieu et les fruits spontanés de la vérité vivante dans l’adoration sincère de Dieu et le service aimant de l’humanité. Aujourd'hui, nous devons réaliser de toute urgence que la relation de Dieu avec l'individu entraîne une profonde conséquence spirituelle ; la fraternité de toute l'humanité.
@@ -18,3 +39,25 @@ Par les décisions suprêmes d’une foi vivante, nous pouvons contribuer à l�
 — _Jeffrey Wattles_
 _Concord, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Revelation_and_receptivity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation et réceptivité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Henry Begemann<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le nouveau culte – modèle et symbole</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Patterns_Great_And_Small">
+          <span class="pr-2">Modèles grands et petits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Parce qu'il serait impossible de traiter de manière adéquate un sujet aussi complexe et difficile que le modèle dans un court article, je me suis demandé quelle était pour moi la signification principale et la valeur pratique du modèle. En premier lieu, elle est liée à la perfection. La présence du modèle est la validation et la justification du mandat divin : « Soyez parfait, comme je suis parfait ». Comment notre Père aimant pourrait-il exiger que ses enfants soient parfaits si cette perfection n’était pas déjà présente comme potentiel ?
@@ -27,3 +51,28 @@ Idéalement, trouver le contact avec le Père devrait être plus important pour 
 
 —_Henry Begemann_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le nouveau culte – modèle et symbole</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Patterns_Great_And_Small">
+          <span class="pr-2">Modèles grands et petits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

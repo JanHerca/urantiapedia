@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Maureen Cragg<br>© 1985 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1985_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1985</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Debra_York/A_blunder_to_humanize_God">
+          <span class="pr-2">Une erreur pour humaniser Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Bien que le JOURNAL n'ait pas pour habitude d'imprimer des lettres, l'article qui suit est rédigé sous cette forme pour transmettre sa signification d'une manière personnelle et puissante. Merci de notre part à tous pour ce rappel très important. Les rédacteurs._
@@ -38,3 +62,28 @@ Eh bien, je dois me consacrer à d'autres tâches. S'il vous plaît, écrivez-no
 — _Maureen Cragg_
 _Arlington, Virginie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1985_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1985</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Debra_York/A_blunder_to_humanize_God">
+          <span class="pr-2">Une erreur pour humaniser Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

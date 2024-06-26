@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John Lange<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le niveau à bulle de la réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À travers les âges, l’homme mortel a senti grandir en lui quelque chose de vital, destiné à perdurer au-delà de la courte durée de sa vie terrestre. Ainsi, le concept de l’âme a trouvé sa place dans de nombreux systèmes planétaires de pensée religieuse. Les premiers hommes associaient l'âme au sang, au souffle, aux ombres et aux reflets dans l'eau ; et plus tard, on a pensé qu'il habitait divers organes physiques : les yeux, les reins, le foie, le cœur et enfin le cerveau.
@@ -56,3 +77,25 @@ Je ne cherche pas à rendre l’homme plus qu’il n’est, mais à mettre en lu
 _John Lange, MD_
 _Fort Smith, Arkansas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le niveau à bulle de la réalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

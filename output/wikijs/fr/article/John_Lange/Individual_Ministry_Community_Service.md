@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Lange<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art du partage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Marcher avec les enfants Marcher avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par John Lange
@@ -129,3 +153,28 @@ Ces quatre communautés ont été choisies en raison de leur formation unique da
 
 Que pouvons-nous apprendre de cette étude alors que nous luttons vers une communauté spirituelle dans le Mouvement Urantia ? Sommes-nous prêts à faire le sacrifice nécessaire et à nous abandonner au modèle spirituel plus large ? Il est intéressant que les événements sur la scène mondiale coïncident avec la métamorphose du Mouvement Urantia. Dans un article récemment publié intitulé « La fin de l’histoire ? l'auteur affirme que l'histoire a atteint son point final avec le succès de la société démocratique. Les objectifs de l’aventurisme humain passé sont désormais assurés par l’économie mondiale. La société sera bientôt réduite à un rôle de gardienne perpétuelle. Un ardent critique a observé que peu d'attention avait été accordée aux besoins supérieurs de la société qui réclament désormais de s'exprimer, à savoir le désir de spiritualité et de communauté. Il semble qu’un réveil spirituel ait appelé les nations à se débarrasser des chaînes de la répression et à développer un sens plus large de communauté spirituelle. Par la lutte et le conflit, nous sommes prêts à nous tenir à l’avant-garde et à offrir cette révélation de la vérité à un monde prêt à la recevoir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art du partage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Marcher avec les enfants Marcher avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

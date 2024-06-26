@@ -1,5 +1,5 @@
 ---
-title: "The Urantian — Winter 1978 Issue"
+title: "Personal Growth: The Seven Psychic Circles"
 description: "Journal of Urantia Brotherhood"
 published: true
 date: 2021-11-28T14:02:03.086Z

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 David Gray<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1977_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicholas_W_Scalzo/Children_Prayer_And_Worship">
+          <span class="pr-2">Enfants – Prière et culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La prière est un rappel automatique. C'est comme mettre une lettre sur un clip à l'intérieur de votre porte d'entrée pour vous rappeler de l'envoyer par la poste lorsque vous sortez. La prière consiste à mettre une note à un endroit où votre esprit la remarquera, pour vous maintenir sur le chemin du progrès.
@@ -31,3 +55,28 @@ Un certain directeur de salle de récital souhaitait ardemment rompre avec la fo
 
 —_David Gray_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1977_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1977</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nicholas_W_Scalzo/Children_Prayer_And_Worship">
+          <span class="pr-2">Enfants – Prière et culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

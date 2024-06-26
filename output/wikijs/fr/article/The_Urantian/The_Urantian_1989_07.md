@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1989"
+title: "« The Urantian » — Numéro d'été 1989"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Suggestions pour partager le Livre d'Urantia
@@ -215,3 +233,22 @@ Si vous avez lu _Le Livre d'URANTIA_ et avez reconnu sa vérité, vous avez cert
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

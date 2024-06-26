@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Gene Joyce<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wesley_James/The_seraphic_connection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La connexion séraphique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="pr-2">Renouveler et revitaliser la société</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Guidés, gardés, inspirés et assistés comme nous le sommes tous par les séraphins assignés à notre surveillance, certains mortels hautement dotés et motivés peuvent également être impliqués dans les plans et projets des maîtres séraphins dont les activités sont dirigées par le gouverneur général résident. sur Urantia. L’ampleur de cette implication dépend probablement avant tout de leurs origines et de leurs choix. Bien que la méthode de sélection puisse paraître quelque peu obscure, la vie de certains individus se détache comme des phares projetant des faisceaux d’influence et de pouvoir à travers la planète. Une telle personne était Charles Lindbergh.
@@ -32,3 +56,28 @@ Il a conservé son enthousiasme et son dévouement à faire de ce monde un endro
 — _Gene Joyce_
 _Richardson. Texas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wesley_James/The_seraphic_connection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La connexion séraphique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="pr-2">Renouveler et revitaliser la société</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Jim McNelly<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté du père et la motivation humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Merci à tous d'être ici. J'ai intitulé cette conférence : « Faire évoluer une expérience religieuse personnelle ; de la croyance à la foi à la vérité. J'ai choisi ce thème parce que je pense que le message le plus important du _Livre d'URANTIA_, notre cinquième révélation d'époque, est « comment connaître Dieu », par opposition à « comment connaître le _Livre d'URANTIA_ ».
@@ -114,3 +135,25 @@ En conclusion, je souhaite partager une prière sur le repos final dont nous jou
 — _Jim McNelly_
 _Denver, Colorado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté du père et la motivation humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

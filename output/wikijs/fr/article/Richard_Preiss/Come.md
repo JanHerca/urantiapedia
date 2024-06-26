@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1994 Richard Preiss</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Insights_Related_to_Historic_Religious_Conflict">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aperçus liés aux conflits religieux historiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Origin_of_Personal_Religion">
+          <span class="pr-2">Viens. Un R Toon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Come_1.jpg">
@@ -45,3 +69,27 @@ Prendre du temps
 et encore et encore
 traiter
 ton cœur émerveillé.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Insights_Related_to_Historic_Religious_Conflict">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aperçus liés aux conflits religieux historiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Origin_of_Personal_Religion">
+          <span class="pr-2">Viens. Un R Toon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

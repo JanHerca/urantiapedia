@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Irene Sprunger<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Learning_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tolérance d’apprentissage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Virginia_Varnum/Quest_For_Goodness">
+          <span class="pr-2">Quête du bien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La vérité trouve son origine dans les relations avec la réalité. La vérité est une tentative de comprendre la plus grande relation qui existe dans l’univers : l’amour divin. La révélation la plus significative de l’amour et de la vérité à l’homme de notre monde est Jésus de Nazareth. Son Esprit de Vérité nous guide infailliblement vers toute vérité.
@@ -24,3 +48,28 @@ Des idées plus larges et des révélations de vérité conduisent à de nouvell
 _Irène Sprunger_
 _Fort Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Learning_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tolérance d’apprentissage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Virginia_Varnum/Quest_For_Goodness">
+          <span class="pr-2">Quête du bien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

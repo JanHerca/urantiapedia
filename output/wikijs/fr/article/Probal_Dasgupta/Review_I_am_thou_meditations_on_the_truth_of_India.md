@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Probal Dasgupta<br>© 1985 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Editors_Note">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Note de l'éditeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Revelation_and_receptivity">
+          <span class="pr-2">Révélation et réceptivité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Je suis toi : méditations sur la vérité de l'Inde._ Par Ramchandra Gandhi. Pune : Publications trimestrielles philosophiques indiennes (Département de philosophie, Université de Poona). 1984. XII, 311 pages. 15 $.
@@ -32,3 +56,28 @@ Un tel lecteur sera également familier avec le point (123) selon lequel le « c
 —_Probal Dasgupta_ 
 _Pune, Inde_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Editors_Note">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Note de l'éditeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/Revelation_and_receptivity">
+          <span class="pr-2">Révélation et réceptivité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

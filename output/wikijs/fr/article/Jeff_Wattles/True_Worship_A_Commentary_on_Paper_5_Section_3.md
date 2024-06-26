@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Jeffrey Wattles<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marcher avec les enfants Marcher avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="pr-2">Partage spirituel – Un chemin vers Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Jeffrey Wattles
@@ -97,3 +121,28 @@ J'ai deux notes de bas de page en conclusion. L’un des « présupposés » –
 
 Et enfin, un regard vers l’avenir. « _L’adoration a pour but d’anticiper sur la vie meilleure qui nous attend, et d’en refléter ensuite les nouvelles significations spirituelles sur la vie actuelle._ » ([LU 143:7.5](/fr/The_Urantia_Book/143#p7_5)) L'adoration est un avant-goût de l'éternité, dans laquelle nous, en tant que fraternité parfaite, allons voyage dans la découverte sans fin de l'infinité du Père Universel. ([LU 106:9.11](/fr/The_Urantia_Book/106#p9_11))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marcher avec les enfants Marcher avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Melissa_Wells/Spiritual_Sharing_A_Pathway_to_God">
+          <span class="pr-2">Partage spirituel – Un chemin vers Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

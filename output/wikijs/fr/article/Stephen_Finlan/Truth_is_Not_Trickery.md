@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1993 Stephen Finlan</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1993_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="pr-2">L'intégrité scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [Il s’agit d’une réponse à « Mais qui dites-vous que je le suis ? » par Dan Massey dans le Journal été/automne 1992. Les références à l'article seront indiquées par numéro de page et de colonne.]
 
@@ -105,3 +129,27 @@ Sinon, nous avons la spéculation religieuse, et « la spéculation falsifie inv
 - Vermaseren, _Mithras_
 - D. Winston, _« La composante iranienne dans la Bible..._ »
 - _Histoire des Religions 5_, \#2, Hiver 1966
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1993_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_The_Urantia_Book">
+          <span class="pr-2">L'intégrité scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

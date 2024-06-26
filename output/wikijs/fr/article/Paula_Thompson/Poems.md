@@ -8,6 +8,27 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1994 Paula Garrett Thompson</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/Trying_to_Touch">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essayer de toucher</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Porteur de vie
 
@@ -102,3 +123,25 @@ Je ferai tout ce que je peux.
 Je serai là, prêt à donner un coup de main.
 Et tant que je peux servir un objectif qui est vrai
 Je vous dirai ceci ma prière, mon Seigneur.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/Trying_to_Touch">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essayer de toucher</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

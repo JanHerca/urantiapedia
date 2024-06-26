@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1985"
+title: "« The Urantian » — Numéro d'été 1985"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Paul Snider<br>© 1985 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Urantian_religionist">
+          <span class="pr-2">Le religieux urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté lors d'une conférence à Atlanta au printemps 1983. Les éditeurs._
@@ -46,3 +67,25 @@ Chaleureusement.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Urantian_religionist">
+          <span class="pr-2">Le religieux urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

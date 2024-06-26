@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Bob Slagle<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager sa vie spirituelle avec ses camarades</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Burton/Tadpoles_Butterflies_and_Lightosity">
+          <span class="pr-2">Têtards, papillons et luminosité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Bob Slagle, Ph.D.
@@ -45,3 +69,28 @@ Un autre parallèle intrigant avec le processus de réunion de famille consensue
 
 Il apparaît donc que du plus bas au plus haut, d'Urantia à Salvington et jusqu'à Uversa, l'idée des réunions de famille est le tissu de la gouvernance et de la justice de l'univers. Il n’est pas étonnant que nous soyons encouragés à revenir aux pratiques de conseil de famille des Andites. Dans mon livre, Un manuel de réunion de famille : _Achieving Family Harmony Happily_, j'essaie d'intégrer les concepts les plus élevés du _Le Livre d'Urantia_, tels qu'ils se trouvent dans de nombreuses sources laïques actuelles, avec des expériences pratiques de vie familiale. J’exhorte les parents à se décharger du poids de l’autorité personnelle et à se laisser aller à la joie et à la lumière des réunions familiales consensuelles – la souveraineté familiale – l’approche jésusonienne de l’harmonie familiale.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Satu_Sihvo/Sharing_Ones_Spiritual_Life_with_Ones_Fellows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager sa vie spirituelle avec ses camarades</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Burton/Tadpoles_Butterflies_and_Lightosity">
+          <span class="pr-2">Têtards, papillons et luminosité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Satu Sihvo<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La communion avec Dieu, maintenant et pour toujours</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="pr-2">Retour aux pratiques du conseil de famille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le résumé
@@ -61,3 +85,28 @@ Ce qui suit est une modification des lignes directrices du Center for Attitudina
 
 > « _L’idéalisation de la vérité, de la beauté et de la bonté, et la tentative de les servir ne sont pas un substitut à l’expérience religieuse authentique — la réalité spirituelle._ » ([LU 196:3.23](/fr/The_Urantia_Book/196#p3_23))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La communion avec Dieu, maintenant et pour toujours</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="pr-2">Retour aux pratiques du conseil de famille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

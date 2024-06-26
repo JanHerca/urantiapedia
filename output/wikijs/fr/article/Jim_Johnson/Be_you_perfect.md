@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Jim Johnston<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1987_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="pr-2">Tout ce que j'avais vraiment besoin de savoir, j'ai appris à la maternelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le secret de la transformation de l’individu ainsi que du monde réside dans la vision que vous avez de qui et de ce que vous désirez devenir, puis en agissant comme si cette vision était déjà devenue une réalité. C'est ça. C'est à peu près tout ce dont je parlerai ce matin.
@@ -110,3 +134,28 @@ Que les bénédictions du Père céleste demeurent toujours avec vous. Passez un
 _Jim Johnston_
 _Temple Terrace, Floride_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1987_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="pr-2">Tout ce que j'avais vraiment besoin de savoir, j'ai appris à la maternelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

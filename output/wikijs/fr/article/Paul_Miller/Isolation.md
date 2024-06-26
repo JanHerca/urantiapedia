@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Paul Miller<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Judith_L_Mace/Sexism_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le sexisme et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En ces premiers jours de la révélation, de nombreux lecteurs du _Livre d'URANTIA_ se retrouvent isolés des autres lecteurs par de grandes distances. Cela suscite de la perplexité et la question de savoir comment gérer ce type d’isolement.
@@ -24,3 +45,25 @@ Le monde est plein de gens merveilleux ! Nos convictions ne sont pas toujours le
 _Paul Miller_
 _Pine Bluff, Arkansas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Judith_L_Mace/Sexism_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le sexisme et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

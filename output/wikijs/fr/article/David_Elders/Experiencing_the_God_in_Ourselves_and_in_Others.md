@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 David Elders<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Hay/Opening_Address">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discours d'ouverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="pr-2">Un oeil sur le trou de la serrure de l'éternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par David Elders
@@ -66,3 +90,28 @@ Les simples actes de voir, connaître et aimer une autre personne sont l’acte 
 
 Et, grâce à notre conscience de la relation intérieure entre notre personnalité et l'Ajusteur de Pensée - tous deux accordés par Dieu... tous deux de Dieu - nous sommes capables de participer à l'expérience éternelle que Dieu a de lui-même. En même temps, en vertu de notre coexistence avec d’autres personnes personnelles, nous sommes capables de faire l’expérience de Dieu comme Suprême, à travers et dans nos relations avec d’autres personnalités bien-aimées. _Dieu est personnalité._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Hay/Opening_Address">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discours d'ouverture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="pr-2">Un oeil sur le trou de la serrure de l'éternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

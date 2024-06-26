@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Grace_E_Stephens/Tribute_to_a_passing_generation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hommage à une génération qui passe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_concept_of_race_in_The_Urantia_Book">
+          <span class="pr-2">Le concept de race dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À un niveau inimaginable de totalité de réalité, Dieu existe seul – indifférencié et au-delà de la nécessité de concevoir l’unité. C’est le niveau statique dans lequel Dieu est totalement autonome et existe par lui-même. Cependant, au sein de cette totalité statique, il doit également y avoir une diversité absolue et infinie et une unité absolue et éternelle, identiques en fait et en vérité. Toujours, à ce niveau de l'existence insondable de Dieu, la diversité infinie doit toujours être unifiée pour l'éternité. Et pourtant, d'une manière ou d'une autre, des créatures aussi humbles que les mortels urantiens sont devenues une partie consciente de l'exploration majestueuse de son infinité par Dieu.
@@ -21,3 +45,28 @@ La quête de Dieu est l'expérience sans fin de son infinité. Ce que Dieu est e
 
 -_Anonyme_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Grace_E_Stephens/Tribute_to_a_passing_generation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hommage à une génération qui passe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_concept_of_race_in_The_Urantia_Book">
+          <span class="pr-2">Le concept de race dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

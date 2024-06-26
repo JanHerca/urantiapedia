@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Robert Schuer<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principes pour connaître la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="pr-2">Réceptivité de l'esprit spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je vois aujourd'hui devant moi un groupe assez représentatif des descendants d'Andon et Fonta. Vous venez de pratiquement tous les États des États-Unis et de plusieurs pays étrangers. Chacun de vous est habité par un Ajusteur de Pensée et chacun de vous a le don de l'Esprit de Vérité de Jésus. Chacun de vous est engagé dans la formidable aventure de connaître et de faire la volonté du Père. Chacun de vous a parcouru une partie du parcours ou du plan de vie préparé pour vous par votre Ajusteur et continuellement éclairé par lui pour vous. Avec votre consentement et par vos décisions, il le dévoile progressivement sous vos yeux de foi. Déjà, par un service aimant, vous ajustez les tendances ancestrales de la vie aux exigences des pulsions spirituelles initiées par la présence divine du Moniteur Mystère.
@@ -39,3 +63,28 @@ Enfin, avant de partir. Je dois vous dire dans les mots du _Livre d'URANTIA_ qu'
 — _Robert Schuer_
 _Nouveau Lexington, Ohio_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principes pour connaître la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="pr-2">Réceptivité de l'esprit spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

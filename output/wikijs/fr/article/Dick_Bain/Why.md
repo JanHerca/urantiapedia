@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Dick Bain<br>© 1986 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi religieux de cette époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gilles_Laverdure/Why_do_bad_things_happen_to_good_people">
+          <span class="pr-2">Pourquoi de mauvaises choses arrivent-elles aux bonnes personnes ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous sommes parfois confrontés au paradoxe ultime. Juste au moment où nous expliquons la nature aimante de Dieu à un agnostique, il gâche notre journée en demandant : « Comment ce Dieu aimant peut-il rester les bras croisés pendant que des enfants innocents souffrent ? L’humanité est aux prises avec cette question depuis le début de l’histoire. Les premiers Juifs croyaient que nous souffrions parce que nous avions péché ; Dieu nous punit pour nos transgressions. Dans l'Ancien Testament, nous lisons la lutte de Job face à cette question. Pour les hindous, la réponse à la question est le Karma ; nous récoltons la récompense de la souffrance dans cette vie dans une mesure déterminée par notre vie antérieure ici. Si nous souffrons, nous devons avoir un mauvais karma. Chaque religion semble avoir trouvé une réponse à cette question, mais tout le monde ne considère pas la souffrance comme une sorte de punition. Saint François d'Assise aurait dit que les véritables affligés sont ceux qui n'ont jamais été affligés. Comment le _Livre d'URANTIA_ voit-il ce problème ?
@@ -40,3 +64,28 @@ Enfin, nous gagnerions à regarder au-delà de la situation immédiate et même 
 —_Dick Bain_
 _St. Petersburg, Floride_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi religieux de cette époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gilles_Laverdure/Why_do_bad_things_happen_to_good_people">
+          <span class="pr-2">Pourquoi de mauvaises choses arrivent-elles aux bonnes personnes ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

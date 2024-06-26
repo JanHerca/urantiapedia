@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Meredith Sprunger<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une offre trop belle pour être refusée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="pr-2">Résolution de problèmes vénérable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par Meredith J. Sprunger
 
@@ -47,3 +71,27 @@ L’une des questions les plus difficiles associées à la résolution de probl�
 Quel que soit son effet, nous prions spontanément pour ceux que nous aimons. Les ramifications psychologiques et sociales de la prière d’intercession sont d’une grande valeur. Il existe cependant certaines preuves selon lesquelles la prière d'intercession a plus qu'une validité autosuggestive ou sociosuggestive. Si tel est le cas, comment comprenons-nous cette forme de ministère ? Une explication est que nos capacités extrasensorielles ont la capacité de pénétrer dans d’autres esprits et d’apporter réconfort, force et amour. Une autre possibilité est que Dieu non seulement nous donne l'opportunité d'être ses partenaires pour façonner nos propres vies, mais qu'il ait également créé des canaux spirituels par lesquels nous avons le privilège d'être co-ministres avec lui en aidant les autres dans les limites de leurs capacités. autonomie spirituelle. Sinon, pourquoi avons-nous ce besoin spirituel de prier pour les autres ?
 
 En concluant notre réflexion sur la résolution de problèmes par la prière, nous devons nous rappeler que la stimulation des problèmes est fondamentale pour la croissance personnelle et spirituelle. Les problèmes sont en réalité des opportunités de développement et de service. Il existe des limites inhérentes à la résolution de problèmes dans l’univers évolutionnaire. Ces limitations sont liées à notre glorieuse destinée et à la qualité de perfection spirituelle que nous forgeons entre les marteaux de l’angoisse et les enclumes de la nécessité ici sur la planète Terre.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une offre trop belle pour être refusée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="pr-2">Résolution de problèmes vénérable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

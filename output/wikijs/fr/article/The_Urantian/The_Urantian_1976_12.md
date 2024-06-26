@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1976"
+title: "« The Urantian » — Numéro d'hiver 1976"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Wesley James, Matthew Rapaport, Meredith Sprunger<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/An_Inner_Radiance">
+          <span class="pr-2">Un rayonnement intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « _Elle se révèle à vous en passant par votre expérience personnelle. Il faut que ce passage la rehausse de manière à dévoiler une nouvelle beauté et de réels gains spirituels à tous ceux qui observent vos fruits spirituels, et que ces spectateurs soient ainsi amenés à glorifier le Père qui est aux cieux._ » ( [LU 176:3.7](/fr/The_Urantia_Book/176#p3_7))
@@ -75,3 +96,25 @@ Le _Livre d'URANTIA_ a-t-il changé votre conception de la prière ? Quelle est 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/An_Inner_Radiance">
+          <span class="pr-2">Un rayonnement intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

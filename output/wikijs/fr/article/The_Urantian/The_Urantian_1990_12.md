@@ -1,6 +1,6 @@
 ---
 title: "« The Journal of Fifth Epochal Fellowship » — Été 1990 — Numéro II de la conférence spéciale"
-description: "(anciennement connu sous le nom de « L'Urantien »)"
+description: "(anciennement connu sous le nom de « The Urantian »)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene et Buck Weimer, Larry Mullins<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)<br> /p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Hay/Opening_Address">
+          <span class="pr-2">Discours d'ouverture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -301,3 +322,25 @@ Les enfants adoptent également cette attitude. Une petite fille dessinait dans 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Hay/Opening_Address">
+          <span class="pr-2">Discours d'ouverture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

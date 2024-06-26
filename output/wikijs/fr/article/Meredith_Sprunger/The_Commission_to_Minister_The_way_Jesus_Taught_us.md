@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Meredith J. Sprunger<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révolution spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="pr-2">Faire la volonté du père et la motivation humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je ne vois pas de meilleure façon d’apprendre à établir des relations avec le Père qu’à travers les directives que nous a données Jésus et notre propre expérience personnelle. Jésus nous montre et nous enseigne à rechercher une relation personnelle de première main avec notre Père céleste.
@@ -102,3 +126,28 @@ Je voudrais terminer avec trois vers d' un hymne de prière écrit par Washingto
 — _Meredith J. Sprunger_
 _Ft. Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révolution spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="pr-2">Faire la volonté du père et la motivation humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

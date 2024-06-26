@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1983"
+title: "« The Urantian » — Numéro d'été 1983"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Henry Begemann, Roxane Prouix<br>© 1983 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="pr-2">La personnalité complexe de l'homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La personnalité complexe de l'homme
@@ -37,3 +58,25 @@ _Montréal Canada_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="pr-2">La personnalité complexe de l'homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

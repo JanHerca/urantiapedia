@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Mario C. J. Harrington<br>© 1984 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1984_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’Occident a eu la chance que de nombreux peuples européens aient pu se développer en tant que nation sous l’égide d’une ou plusieurs des nombreuses sectes du christianisme, qui à leur tour avaient évolué à partir des principes directeurs de Jésus. Les mouvements œcuméniques en cours tentent de réconcilier les théologies distinctes de l’Église catholique romaine, de l’Église d’Angleterre, du luthéranisme et de l’Église orthodoxe grecque, ainsi que d’autres rites orientaux divergents. Cependant, si l'influence du _Livre d'URANTIA_ doit toucher d'autres peuples qui n'ont pas été directement touchés par les enseignements de Jésusonien, il nous appartient alors de comprendre leurs traditions religieuses, et, en particulier, leurs ascendants culturels liés autant que possible aux courants précédents. engendré il y a longtemps par le sacerdoce séthite. Le « Journal URANTIAN » proposera à ses lecteurs, dans les prochains articles, des articles sur les religions importantes d'Asie, qui souligneront les sentiments intuitifs des différents chemins empruntés vers le développement spirituel dans cette partie la plus peuplée de notre globe. Pour parvenir à la fraternité humaine, nous devons faire l’effort de comprendre la façon de penser d’autres groupes importants d’hommes, y compris leurs particularités.
@@ -55,3 +76,25 @@ Nous avons vu comment l'influence séthite a même affecté le développement re
 — _Mario Harrington_ 
 _Oakland Park, Floride_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1984_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

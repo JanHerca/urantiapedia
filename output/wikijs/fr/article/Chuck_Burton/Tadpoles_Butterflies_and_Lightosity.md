@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Chuck Burton<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retour aux pratiques du conseil de famille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Chuck Burton
@@ -123,3 +144,25 @@ La réponse de Jésus aux apôtres après cet épisode d'enseignement fut :
 
 Je voudrais terminer par un dernier conte emprunté à C.S. Lewis, auteur et théologien. Et vous l'avez probablement deviné... il s'agit de masques et de devenir spirituel. Il était une fois un homme avec peu d’amis qui, à un certain moment de sa vie, s’est longuement regardé dans le miroir et s’est rendu compte qu’il était plutôt laid. Il a pris la décision consciente de porter un masque qui le rendait beaucoup plus joli qu'il ne l'était réellement. Il a dû porter ce masque pendant des années et lorsqu'il l'a finalement enlevé, son visage s'était transformé presque comme par magie pour adapter le masque à un t-shirt. Il était devenu vraiment beau. Ce qui avait commencé comme un déguisement était devenu une réalité. C.S. Lewis utilise cette histoire pour embellir un concept qu'il appelle « se déguiser en Christ » afin de le rejoindre en tant que fils de Dieu. Pour moi, cette histoire consiste simplement à atteindre la légèreté.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retour aux pratiques du conseil de famille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

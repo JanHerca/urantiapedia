@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Dick Schonberg<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles familiaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="pr-2">Le nouveau culte – modèle et symbole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Contrairement aux nombreuses âmes vaillantes qui ont promu la vérité spirituelle au cours des époques passées, nous, les diffuseurs mortels de la révélation URANTIA, avons de nombreux avantages, certains accordés, comme l'Esprit de Vérité, et d'autres acquis, comme les communications de masse, et le pouvoir. pour voir l'histoire avec le recul. En raison de nos avantages, nos responsabilités sont, dans un sens, plus grandes, et c'est pour cette raison que l'auteur estime que la commission révélatrice nous a délibérément fourni un contexte historique sur lequel fonder nos décisions futures.
@@ -27,3 +51,28 @@ Aujourd’hui, en tant que mortels évolutionnaires, nous sommes les héritiers 
 
 —_Dick Schönberg_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles familiaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="pr-2">Le nouveau culte – modèle et symbole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

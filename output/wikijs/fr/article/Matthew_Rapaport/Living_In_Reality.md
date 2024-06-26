@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Matthew Rapaport<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wesley_James/Come_With_Me_And_See">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viens avec moi et vois</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Brotherhood_School">
+          <span class="pr-2">L'école de la Fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Combien d’hommes et de femmes rencontrons-nous qui croient en Dieu et pourtant se comportent comme si son existence n’avait aucune conséquence pour et dans leur vie ? Ils vivent complètement inconscients de sa présence.
@@ -25,3 +49,28 @@ L’amour est la technique dont nous disposons pour faire progresser la conscien
 
 —_Matthieu Rapaport_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wesley_James/Come_With_Me_And_See">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viens avec moi et vois</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Brotherhood_School">
+          <span class="pr-2">L'école de la Fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

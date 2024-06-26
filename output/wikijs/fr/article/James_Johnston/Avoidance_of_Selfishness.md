@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 James Johnston<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="pr-2">Travailler pour résoudre la tension dynamique entre l’égoïsme et l’altruisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par James G. Johnston
@@ -81,3 +105,28 @@ La maîtrise de soi est une question de maîtrise d’une dépendance belliqueus
 
 «Je veux être complètement épuisé quand je mourrai, car plus je travaille dur, plus je vis. Je me réjouis de la vie pour elle-même. La vie n'est pas une bougie courte pour moi. C’est une sorte de flambeau magnifique que je tiens pour le moment et je souhaite le faire briller le plus fort possible avant de le transmettre aux générations futures. - George Bernard Shaw
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Avoidance_of_Selfishness_Living_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éviter l’égoïsme : vivre comme en présence de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="pr-2">Travailler pour résoudre la tension dynamique entre l’égoïsme et l’altruisme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

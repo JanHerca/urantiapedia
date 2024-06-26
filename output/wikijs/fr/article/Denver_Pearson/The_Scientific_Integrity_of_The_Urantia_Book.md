@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1993 Denver Pearson</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Finlan/Truth_is_Not_Trickery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vérité n'est pas une supercherie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="pr-2">1992. Qu'est-ce que cela va faire pour moi et pour vous ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par Denver Pearson
 
@@ -73,3 +97,27 @@ S’il y a des défauts vérifiables dans la révélation, alors, à mon avis, i
 Mais comment pouvons-nous vraiment déterminer ce qui est erroné, le cas échéant ? Quelle règle utilisons-nous ? C'est ma grande préoccupation. Je suis seulement convaincu que nous ne sommes pas trompés, choyés ou « bombardés à retardement », car la seule chose dont nous pouvons être sûrs, c'est que la vérité prévaudra. Nous posons actuellement les bases pour les futurs étudiants de la cinquième révélation d'époque. Mais si notre fondation s’attache à l’autorité d’une science moderne faillible, alors ce mouvement sera aussi paralysé que l’est aujourd’hui le christianisme, qui traîne la civilisation occidentale comme un boulet.
 
 Afin d'avancer en toute sécurité vers la vérité de cette révélation et de la science d'aujourd'hui, nous avons maintenant besoin de l'aide d'investigateurs dirigés par l'Esprit, sans autre motif que de simplement découvrir la vérité, la beauté et la bonté de notre fascinante maison cosmique, une maison remplie de avec tant de merveilles encore à découvrir.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Finlan/Truth_is_Not_Trickery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vérité n'est pas une supercherie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="pr-2">1992. Qu'est-ce que cela va faire pour moi et pour vous ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

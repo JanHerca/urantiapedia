@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1988"
+title: "« The Urantian » — Numéro du printemps 1988"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Satu Sihvo, Mary Daly<br>© 1988 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1988 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Satu_Sihvo/Everyday_proof_communion">
+          <span class="pr-2">Une communion « à l’épreuve du quotidien »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le discours suivant a été présenté à la Conférence générale du Maine, en août 1987._
@@ -45,3 +66,25 @@ _Garretson, Dakota du Sud_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1988 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Satu_Sihvo/Everyday_proof_communion">
+          <span class="pr-2">Une communion « à l’épreuve du quotidien »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

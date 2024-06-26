@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Helena Sprague<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les cailloux frottants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Hill/The_Atlanta_Approach">
+          <span class="pr-2">L'approche d'Atlanta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il existe autant de manières différentes pour les groupes d’étude de conduire leurs réunions qu’il y a de groupes. Une enquête dans certaines régions de l’Est a abouti à ces brefs profils :
@@ -33,3 +57,28 @@ Le **Groupe 8** fonctionne sans chef désigné et se réunit une fois par mois l
 
 —_Helena Sprague_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les cailloux frottants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Hill/The_Atlanta_Approach">
+          <span class="pr-2">L'approche d'Atlanta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

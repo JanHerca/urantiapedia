@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Paul Knott<br>© 1979 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La révélation de l'homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="pr-2">Beauté et fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ discute souvent de l'importance de la famille dans la société humaine. Par exemple, nous trouvons des déclarations telles que : « _La famille est la plus grande réalisation purement humaine de l'homme..._ » et « _Telles les familles d’une race ou d’une nation, telle sa société. Si les familles sont bonnes, la société est également bonne._ » ([LU 84:6.8](/fr/The_Urantia_Book/84#p6_8); [LU 84:7.1](/fr/The_Urantia_Book/84#p7_1))
@@ -22,3 +46,28 @@ Malgré ce sombre tableau, on constate chez les jeunes et les adultes un profond
 — _Paul Knott, PhD_
 _Arvada, Colorado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La révélation de l'homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="pr-2">Beauté et fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

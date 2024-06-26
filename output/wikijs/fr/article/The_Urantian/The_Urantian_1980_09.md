@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'automne 1980"
+title: "« The Urantian » — Numéro d'automne 1980"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt, George Park, Eileen Laurence<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="pr-2">Prologue - Une métaphore sur les livres saints</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le discours suivant a été prononcé par David Schlundt lors des ateliers de la Fraternité URANTIA à Lake Forest, Illinois, le 4 août 1980._
@@ -65,3 +86,25 @@ _Armonk, New York_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Schlundt/Prologue_A_metaphor_on_holy_books">
+          <span class="pr-2">Prologue - Une métaphore sur les livres saints</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Curt Cloninger<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout ce que j'avais vraiment besoin de savoir, j'ai appris à la maternelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="pr-2">Transformation : et voici le mystère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Curt Cloninger, 17 avril 1986_
@@ -55,3 +79,28 @@ et ce que je sais et ce que je peux dire de lui n'est encore que la racine carr�
 Jésus-Christ est ressuscité,
 Que le ciel bouge à jamais.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout ce que j'avais vraiment besoin de savoir, j'ai appris à la maternelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="pr-2">Transformation : et voici le mystère</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

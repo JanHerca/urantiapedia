@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Sara Blackstock<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Towards_human_understanding">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vers la compréhension humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Understading_Islam_today">
+          <span class="pr-2">Comprendre l’Islam aujourd’hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'une de nos missions en tant qu'étudiants du _Livre d'URANTIA_ est d'intégrer ses vérités spirituelles aux réalités séculaires que nous rencontrons constamment, élevant ainsi les idéologies et les aspects pratiques sur lesquels sont basées nos vies quotidiennes.
@@ -36,3 +60,28 @@ Le dernier élément du métier à tisser sur lequel tisser une philosophie et u
 — _Sara L. Blackstock_ 
 _Albany, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Towards_human_understanding">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vers la compréhension humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeff_Wattles/Understading_Islam_today">
+          <span class="pr-2">Comprendre l’Islam aujourd’hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

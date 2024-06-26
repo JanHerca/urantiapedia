@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Nancy Johnson<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réconciliation et croissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="pr-2">L'art du partage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _...Les formes ne servent plus à rien quand les leçons sont apprises. On ne peut obtenir un poussin sans coquille d’œuf, et nulle coquille n’a de valeur après l’éclosion du poussin. <ins>Mais l’erreur est parfois si grande qu’en la rectifiant par révélation, on porterait un coup fatal aux vérités qui émergent lentement et qui sont essentielles pour venir à bout de l’erreur grâce à l’expérience.</ins>_ ([LU 48:6.32](/fr/The_Urantia_Book/48#p6_32))
 
@@ -191,3 +215,27 @@ _Un cours en miracles_ nous dit que nous pouvons d'abord laisser le Saint-Esprit
 > _Maintenant, les fils de Dieu sont plutôt enrôlés ensemble pour mener le combat où la réalité triomphe des ombres partielles de l’existence. Enfin, toutes les créatures deviennent conscientes du fait que Dieu et toutes les armées divines d’un univers à peu près infini sont à leur côté dans la lutte céleste pour atteindre l’éternité de vie et la divinité de statut. Ces fils affranchis par la foi se sont certainement engagés dans les luttes du temps du côté des forces suprêmes et des personnalités divines de l’éternité ; même les étoiles dans leur course combattent maintenant pour eux. Enfin, ils contemplent l’univers depuis l’intérieur, du point de vue de Dieu, et toutes les incertitudes de l’isolement matériel sont transformées en sécurités de la progression spirituelle éternelle. Le temps lui-même ne devient plus que l’ombre de l’éternité projetée par les réalités du Paradis sur la panoplie mouvante de l’espace._ ([LU 101:10.9](/fr/The_Urantia_Book/101#p10_9))
 
 <small>Les idées et conclusions présentées dans cet ouvrage sont celles de l'auteur et pas nécessairement celles de la Fondation URANTIA, propriétaire des droits d'auteur du <em>Le Livre d'Urantia</em>, tous droits réservés, ou de la Fondation pour la Paix Inmer, propriétaire des droits d'auteur. de <em>Un cours à Mirades</em>, tous droits réservés.</small>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réconciliation et croissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="pr-2">L'art du partage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

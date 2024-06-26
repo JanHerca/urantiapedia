@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Lynne Kulieke<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes vénérable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="pr-2">L'éthique au quotidien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Lynne Kulieke
@@ -121,3 +145,28 @@ Il y avait forcément quelques perplexités pour un jeune enfant.
 
 Mon père avait l'habitude de citer Cullen Bryant, disant : « Les bosquets étaient le premier temple de Dieu » et de m'emmener faire des promenades parmi les arbres, mais mes grands-parents étaient plutôt catégoriques en faveur d'une église à quatre murs et d'un clocher, où l'on pouvait entrer de préférence le matin. un dimanche matin. Néanmoins, on m’a fait comprendre qu’il était toujours bon de rechercher le Tout-Puissant. Dans nos vies, Dieu était le premier et Dieu le dernier, sans parler de tout ce qui se passait entre les deux. Dieu commençait même chaque jour et le terminait. À 9 heures, chaque matin et chaque soir à Sion, le carillon de l'ancien bâtiment du collège, à seulement deux pâtés de maisons, retentissait, et tout le monde et tout s'arrêtait. C'était le moment de Dieu. Je ne crois pas en avoir compris toute la signification, mais j'ai arrêté aussi, parce que c'était clairement la chose à faire. Mon souvenir le plus marquant est celui des crépuscules chauds d’été, lorsque je jouais avec mes amis. Au premier son du carillon, je courrais vers la maison avec ses lumières, à travers les arbres, juste des points précis comme les premières étoiles dans le ciel violet, et je saurais que je pourrais entrer par la porte d'entrée ou par la porte arrière ou n'importe quelle autre. une des nombreuses portes latérales de ma maison à envelopper dans des bras aimants. Tout le monde serait en sécurité et charmant pendant que nous écoutions le carillon jouer « Sweet Hour of Prayer ».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résolution de problèmes vénérable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="pr-2">L'éthique au quotidien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

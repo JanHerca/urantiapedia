@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Larry Watkins<br>© 1992 Judy Mace</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Harry_Roloff/Poetry_selections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sélections de poésie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Personality_and_Will">
+          <span class="pr-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par Larry Watkins
 
@@ -66,3 +90,28 @@ _Au moment du défaut, il y a 38 000 ans, Adam et Ève avaient soixante-trois en
 </figure>
 
 Les six œuvres d'art de cette planche font toutes partie d'une série de Judy Mace sur Adam et Eve. Il y en a 18 au total et ils seront publiés dans trois numéros du Journal.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Harry_Roloff/Poetry_selections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sélections de poésie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Personality_and_Will">
+          <span class="pr-2">Personnalité et volonté : accroître la maîtrise des mondes intérieur et extérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

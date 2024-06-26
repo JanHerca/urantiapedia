@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Helena Sprague<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Keeler/Love_Human_And_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour – humain et divin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Schweitzer/The_Unquestioned_Answer">
+          <span class="pr-2">La réponse incontestée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Une composante majeure du développement humain est la peur, à la fois les réponses instinctives nées des âges sombres de la lutte pour la survie physique et les réactions apprises de notre patrimoine culturel, particulièrement psychosocial, intellectuel et parfois spirituel. Les enseignements du Livre d'URANTIA sur la peur et la croissance sont à la fois profonds et pratiques. Ils peuvent être considérés sous quatre angles.
@@ -33,3 +57,28 @@ Notre Père Universel nous donne tout ce que nous avons, tout ce que nous sommes
 
 — _Hélène Sprague_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Keeler/Love_Human_And_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amour – humain et divin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Schweitzer/The_Unquestioned_Answer">
+          <span class="pr-2">La réponse incontestée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

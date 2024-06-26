@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Charles Laurence Olivea<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Lange/The_evolution_of_the_soul">
+          <span class="pr-2">L'évolution de l'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce petit essai est écrit dans l'espoir de pouvoir profiter de la notion exprimée dans le Livre d'URANTIA qui suggère avec douceur que la romance universelle dans la recherche de la vérité est souvent caractérisée davantage par la perspicacité que par les faits.
@@ -36,3 +60,28 @@ Chers amis, aimons-nous les uns les autres, car l'amour vient de Dieu. Celui qui
 _Charles Laurence Olivea_
 _Watertown, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1986_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Lange/The_evolution_of_the_soul">
+          <span class="pr-2">L'évolution de l'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

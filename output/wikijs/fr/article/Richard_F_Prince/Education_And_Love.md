@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Richard F. Prince<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques principes de croissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_C_J_Harrington/Guidance_Of_The_Most_Highs">
+          <span class="pr-2">La guidance des Très-Hauts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il n’est pas clair pour moi que le concept tout entier de l’école de la Fraternité URANTIA ait pour origine un besoin exprimé de l’extérieur auquel nous, la Fraternité, répondons. Il me semble plutôt que nous partons de la proposition selon laquelle, puisqu'il y a tant de choses à apprendre dans _Le Livre d'URANTIA_, nous devons donc avoir besoin d'une école. L'objectif principal de l'atelier sur l'éducation (que j'avoue n'avoir reçu que de seconde main) était de découvrir quels étaient, le cas échéant, les besoins qui pouvaient être définis par les personnes présentes, puis d'y répondre. Cette approche n’est peut-être pas la plus fructueuse à long terme, pour plusieurs raisons.
@@ -25,3 +49,28 @@ Les événements évoluent rapidement dans notre monde et aucun d’entre nous n
 
 —_Richard F. Prince_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques principes de croissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_C_J_Harrington/Guidance_Of_The_Most_Highs">
+          <span class="pr-2">La guidance des Très-Hauts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

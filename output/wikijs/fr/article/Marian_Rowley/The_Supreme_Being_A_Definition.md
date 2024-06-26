@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marian Rowley<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
+          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Selon _Le Livre d'URANTIA_, l'Être Suprême est une Déité évolutionnaire. Il aura un avenir éternel mais, contrairement au Père, au Fils et à l’Esprit, il a eu un commencement. À l’heure actuelle, il n’est pas complet. Il évolue avec nous tous et ce que nous faisons a une influence sur son évolution.
@@ -26,3 +50,28 @@ Lorsque tous les superunivers seront installés dans la lumière et la vie, le T
 — _Marian Rowley_
 _Chicago, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
+          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

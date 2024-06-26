@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'automne 1986"
+title: "« The Urantian » — Numéro d'automne 1986"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John M. Andrews, Dick Bain, Gilles Laverdure<br>© 1986 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia) </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="pr-2">Le défi religieux de cette époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le défi religieux de cette époque
@@ -55,3 +76,25 @@ _Greenfield Park. Québec_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1986 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="pr-2">Le défi religieux de cette époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

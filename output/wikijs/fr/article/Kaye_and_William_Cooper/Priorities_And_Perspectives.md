@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Kaye et William Cooper<br>© 1977 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art de la détente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Duane_L_Faw/The_Art_Of_Living">
+          <span class="pr-2">L'art de vivre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout au long de son histoire, l'homme a eu pour objectif insaisissable d'apprendre l'art de vivre. À travers les âges, les hommes ont pensé qu’il devait exister une technique secrète pour contrôler les circonstances afin de pouvoir vivre une vie idéale. On a découvert relativement rarement que l'art de vivre ne réside pas dans le contrôle de facteurs externes mais dans l'orientation personnelle de base vers des priorités spirituelles et une perspective universelle.
@@ -21,3 +45,28 @@ Dans notre recherche de l’art de vivre, nous découvrirons peut-être avec sur
 
 — _Kaye et Bill Cooper_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/The_Art_Of_Relaxation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art de la détente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Duane_L_Faw/The_Art_Of_Living">
+          <span class="pr-2">L'art de vivre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

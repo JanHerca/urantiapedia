@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Beth Bartley<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Découvrir les significations cosmiques à travers une histoire personnelle et une chanson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="pr-2">Résolution de problèmes par la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Beth Bartley
@@ -87,3 +111,28 @@ Il y a un dernier mot que je veux mentionner : _joie_. Nos vies doivent être jo
 
 Alors continuez avec vos cercles ; des cercles de progrès, d’amour, de joie et, comme l’a dit David Elders, d’unité. Ces cercles vous aideront à mesure que vous vous développez et grandissez dans votre marche avec Dieu.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Découvrir les significations cosmiques à travers une histoire personnelle et une chanson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving_2">
+          <span class="pr-2">Résolution de problèmes par la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

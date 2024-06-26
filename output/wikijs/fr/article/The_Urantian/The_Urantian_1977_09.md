@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'automne 1977"
+title: "« The Urantian » — Numéro d'automne 1977"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 David Gray, Nicholas W. Scalzo, David Kulieke, Ed Harrigan, Sue Via Brazell<br>© 1977 L'Urantia Bourse du Livre (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Gray/In_Cosmic_Harmony">
+          <span class="pr-2">En harmonie cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _De même que l’on peut assimiler la prière à la recharge des batteries spirituelles de l’âme, de même on peut comparer l’adoration au fait d’accorder l’écoute de l’âme sur la fréquence des communications universelles de l’esprit infini du Père Universel._ » ([LU 144:4.8](/fr/The_Urantia_Book/144#p4_8))
@@ -81,3 +102,25 @@ Les rédacteurs
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Gray/In_Cosmic_Harmony">
+          <span class="pr-2">En harmonie cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

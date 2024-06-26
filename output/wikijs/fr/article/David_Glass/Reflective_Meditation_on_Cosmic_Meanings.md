@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 David Glass<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un oeil sur le trou de la serrure de l'éternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="pr-2">Découvrir les significations cosmiques à travers une histoire personnelle et une chanson</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par David Glass
@@ -93,3 +117,28 @@ L'isolement personnel cède la place à la fraternité universelle à mesure que
 
 L'une des significations de la création universelle est qu'elle peut conduire à un aperçu des desseins éternels du Père, dont l'un est, à mon avis, la maximisation de l'expérientialisation de l'amour, car Dieu _est_ AMOUR.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un oeil sur le trou de la serrure de l'éternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="pr-2">Découvrir les significations cosmiques à travers une histoire personnelle et une chanson</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Wesley James<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/An_Inner_Radiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un rayonnement intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="pr-2">Vivre dans la réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque les routines de Flip Wilson qui utilisaient l'expression « le diable m'a obligé à le faire » étaient si populaires, l'expression semblait résumer la volonté d'un si grand nombre d'entre nous de blâmer les influences extérieures pour les problèmes et les troubles de nos vies, les problèmes que nous créons pour eux. nous-mêmes. Depuis lors, la réaction de beaucoup de mes amis et collègues au livre et au film L'Exorciste m'a rappelé combien de personnes croient réellement qu'il existe une force maléfique dans l'univers qui peut faire réagir les gens contre leur volonté. Sans entrer dans des explications théologiques approfondies, j'ai essayé d'expliquer que nous vivons dans un univers bien ordonné où l'amour et la présence spirituelle de notre Père Universel rendent impossible que de telles choses se produisent.
@@ -21,3 +45,28 @@ Au fil des années où j'ai été connecté au _Livre URANTIA_ et à la Fraterni
 
 —_Wesley James_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/An_Inner_Radiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un rayonnement intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="pr-2">Vivre dans la réalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

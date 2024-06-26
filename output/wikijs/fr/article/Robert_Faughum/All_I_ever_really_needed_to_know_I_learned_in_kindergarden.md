@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Robert Faughum<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jim_Johnson/Be_you_perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soyez-vous parfait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="pr-2">La racine carrée de rien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par _Robert Faughum_ 
@@ -30,3 +54,28 @@ Tout ce que vous devez savoir se trouve quelque part. La règle d'or, l'amour et
 
 Pensez à quel monde ce serait meilleur si nous, tous les habitants du monde entier, mangions des biscuits et du lait vers 15 heures chaque après-midi, puis nous allongeions avec nos couvertures pour faire une sieste. Ou si nous avions une politique de base dans notre pays et dans d’autres pays pour toujours remettre les choses là où nous les avons trouvées et nettoyer nos propres dégâts. Et c’est toujours vrai, quel que soit votre âge, lorsque vous partez à la découverte du monde, il est préférable de se tenir la main et de se serrer les coudes.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jim_Johnson/Be_you_perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soyez-vous parfait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Curt_Cloninger/The_square_root_of_nothing">
+          <span class="pr-2">La racine carrée de rien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

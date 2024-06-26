@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1976"
+title: "« The Urantian » — Numéro d'été 1976"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Stan et Ruth Hartman, Charles Laurence Olivea, Richard F. Prince, Mario C.J. Harrington, Ruth E. Renn, David et Sue Kantor et Heather Christine<br>© 1976 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="pr-2">Une philosophie de fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Une philosophie de fraternité
@@ -90,3 +111,25 @@ A présent, parlons-en en famille.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="pr-2">Une philosophie de fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

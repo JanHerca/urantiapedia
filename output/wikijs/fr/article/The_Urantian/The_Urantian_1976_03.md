@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro inaugural — Numéro de mars 1976"
+title: "« The Urantian » — Numéro inaugural — Numéro de mars 1976"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 William S. Sadler, Jr., Steve Dreier, Christy, David Schlundt, V.B.G.2, Julia Fenderson<br> © 1976 La Fraternité du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">Une confrérie – pas une église ni une secte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Une confrérie – pas une église ni une secte
@@ -41,7 +62,7 @@ Nombre total de livres d'URANTIA vendus | 57 500
 
 _Le Livre URANTIA_ est distribué dans 1 200 librairies et est actuellement vendu au rythme de 800 à 1 000 exemplaires par mois.
 
-## L'Urantien
+## « The Urantian »
 
 Publié trimestriellement par 
 
@@ -122,3 +143,25 @@ Amour...
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">Une confrérie – pas une église ni une secte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

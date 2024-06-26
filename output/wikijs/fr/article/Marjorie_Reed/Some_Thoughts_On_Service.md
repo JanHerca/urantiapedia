@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Marjorie Reed<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Snider/One_To_One">
+          <span class="pr-2">Un par un</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il était une fois, selon un mythe ancien, certains dieux décidèrent de visiter la terre, incognito, afin de participer à une grande fête. Déguisés en humains, ils se mêlèrent sans attirer l'attention jusqu'à ce qu'ils s'asseyent pour le festin. Là, lors du banquet, les dieux « ont fait sauter leur couverture ». Tandis que les hommes s'empiffraient avec gourmandise, on observait que les dieux se mettaient les morceaux les plus délicieux dans la bouche, une action qui n'était pas du tout habituelle chez les mortels.
@@ -27,3 +51,28 @@ Le moment et le lieu du service sont toujours le moment présent, où qu'il me t
 
 —_Marjorie Reed_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Snider/One_To_One">
+          <span class="pr-2">Un par un</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

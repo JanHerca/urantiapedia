@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Michael Painter<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1978_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/The_Ministry_Of_The_Thought_Adjusters">
+          <span class="pr-2">Le ministère des Ajusteurs de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que nous cherchons à construire une fondation sur laquelle toutes les religions du monde peuvent s’appuyer, aucun autre concept n’offre peut-être une pierre angulaire aussi solide que celle de la communication avec l’Ajusteur de Pensée. Quelles que soient les disparités dans leurs cosmologies, théologies, liturgies, etc., la plupart des religions reconnaissent que la relation entre Dieu et l’homme est l’une des questions les plus importantes. En conséquence, nous disposons d’un pont immédiat pour nous aider à passer à diverses traditions religieuses. Et, peut-être plus important encore, nous avons découvert un réservoir de traditions religieuses auquel nous pouvons non seulement donner, mais dans lequel nous pouvons aussi puiser. J'insiste sur le fait de s'inspirer d'autres traditions religieuses, car de nombreuses personnes semblent avoir du mal à trouver quelque chose de valeur dans les diverses traditions religieuses.
@@ -34,3 +58,28 @@ Pour clôturer mon cercle de réflexion, je conclus par mon début que, alors qu
 — _Michael A. Peintre_
 _Indianapolis, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1978_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1978</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/The_Ministry_Of_The_Thought_Adjusters">
+          <span class="pr-2">Le ministère des Ajusteurs de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

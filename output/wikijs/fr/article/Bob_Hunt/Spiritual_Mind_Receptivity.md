@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Bob Hunt<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La relation de l'individu avec l'ajusteur de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Laurence/The_Human_Response">
+          <span class="pr-2">La réponse humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je souhaite partager avec vous quelques observations concernant les aspects spirituels de l’esprit et les états d’esprit les plus propices à la réception spirituelle. Alors que j'aborde ce sujet et cette entreprise, j'invite chacun d'entre vous à participer à une expérience conçue pour utiliser votre esprit, et notre esprit collectif, comme un laboratoire dans lequel doivent être testées certaines des idées qui seront présentées. Dans ce rassemblement d’esprits actifs et polyvalents, il devrait être possible d’explorer simultanément plusieurs niveaux de ce sujet ; c'est-à-dire, dans un certain sens, manifester et expérimenter ce qui est dit avec des mots. Une façon d’y parvenir consiste à modifier le modèle habituel de locuteurs actifs et d’auditeurs passifs. Maintenant, je n'ai pas l'intention de vous demander de parler ; je veux plutôt faire quelques suggestions sur la façon dont vous écoutez.
@@ -96,3 +120,28 @@ Et, enfin, d'un Puissant Messager séjournant temporairement sur Urantia, « _La
 — _Bob Hunt_
 _Arcata. Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La relation de l'individu avec l'ajusteur de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Laurence/The_Human_Response">
+          <span class="pr-2">La réponse humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

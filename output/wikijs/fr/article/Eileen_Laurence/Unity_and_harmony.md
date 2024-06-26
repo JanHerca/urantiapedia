@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Eileen Laurence<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'imagination créatrice dans la prière et l'adoration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ dit que « _L'harmonie est la note clé de l'univers central, et un ordre détectable prévaut au Paradis._ » ([LU 27:4.2](/fr/The_Urantia_Book/27#p4_2)) Le mot harmonie est tiré du mot grec « harmos », signifiant un ajustement, un joindre. Il est intéressant de noter qu'un synonyme d'harmonie est « unisson ». En tant que musicien, j'ai souvent réfléchi à cette association entre l'harmonie et l'unité et j'ai passé beaucoup de temps à traiter de l'expérience créative qui mène à ces idéaux.
@@ -40,3 +61,25 @@ Nous avons examiné brièvement la relation entre l'harmonie et l'unité et l'ex
 — _Eileen Laurence_
 _Armonk, New York_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'imagination créatrice dans la prière et l'adoration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

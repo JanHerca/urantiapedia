@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1994"
+title: "« The Urantian » — Numéro d'été 1994"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Poem_for_Two_Friends">
+          <span class="pr-2">Poème pour deux amis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/The_Master_Universe.jpg">
@@ -58,3 +79,25 @@ Cette œuvre unique a été créée par les Silent Artists. À travers l'art, ce
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#«-the-urantian-»-numéro-d'été-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">« The Urantian » — Numéro d'été 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Poem_for_Two_Friends">
+          <span class="pr-2">Poème pour deux amis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

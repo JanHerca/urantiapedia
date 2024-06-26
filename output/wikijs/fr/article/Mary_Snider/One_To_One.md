@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Mary Snider<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marjorie_Reed/Some_Thoughts_On_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques réflexions sur le service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Painter/Service_A_Personal_View">
+          <span class="pr-2">Service — Une vision personnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il fut un temps où un homme atteignit la perfection simplement en aimant Dieu et en servant les hommes. Il n’a pas entrepris de faire de grandes choses aux yeux de l’homme, seulement de bonnes choses aux yeux de Dieu.
@@ -21,3 +45,28 @@ Une petite bougie solitaire peut trembler d’incertitude au milieu des vents me
 
 —_Mary Snider_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marjorie_Reed/Some_Thoughts_On_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques réflexions sur le service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Painter/Service_A_Personal_View">
+          <span class="pr-2">Service — Une vision personnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

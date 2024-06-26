@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Duane L. Faw<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kaye_and_William_Cooper/Priorities_And_Perspectives">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Priorités et perspectives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="pr-2">Habitudes religieuses : luxe ou nécessité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ enseigne que les univers sont créés dans un « _objectif éternel et divin_ » ([LU 42:0.2](/fr/The_Urantia_Book/42#p0_2)) et que le but des « _créatures mortelles d'origine animale._ », y compris toute l'humanité, est de devenir des fils ascendants de Dieu. ([LU 40:6.3](/fr/The_Urantia_Book/40#p6_3)) Rodan, le philosophe grec d'Alexandrie, considérait l'homme mortel comme accomplissant son objectif fondamental dans le plan divin en maîtrisant « l'art de vivre ». ([Papier 160](/fr/The_Urantia_Book/160))
@@ -21,3 +45,28 @@ L'« art de vivre » est le _processus_ par lequel l'homme développe son caract
 
 — _Duane Faw_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kaye_and_William_Cooper/Priorities_And_Perspectives">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Priorités et perspectives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="pr-2">Habitudes religieuses : luxe ou nécessité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

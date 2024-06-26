@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Sally Schlundt<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la diffusion des enseignements du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En présentant le Livre d'URANTIA à d'autres personnes, d'autres cultures et d'autres croyances, la qualité de notre interface sera largement déterminée par la façon dont nous nous percevons, et cela à son tour déterminera comment nous apparaîtrons aux autres et donc comment ils réagiront aux autres. nous. Tout le reste – nos motivations, nos techniques et nos objectifs sont secondaires par rapport à ce seul facteur, car la façon dont nous nous percevons en association avec cette nouvelle révélation détermine ces motivations, techniques et objectifs.
@@ -52,3 +73,25 @@ Je réitère ce que j'avais à dire au début. Des frontières doivent exister, 
 _Sally Schlundt_ 
 _Fort Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la diffusion des enseignements du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

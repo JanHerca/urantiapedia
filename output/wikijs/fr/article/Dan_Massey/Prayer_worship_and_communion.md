@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Dan Massey<br>© 1983 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1983_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _Jésus ne demandait pas à ses disciples de se réunir périodiquement pour réciter des assemblages de mots indiquant leurs croyances communes. Il ordonna seulement qu’ils se réunissent pour effectivement *faire quelque chose —* prendre part au souper commun en souvenance de sa vie d’effusion sur Urantia._ » ([LU 99:5.10](/fr/The_Urantia_Book/99#p5_10))
@@ -76,3 +97,25 @@ Pour cette deuxième initiative, commençons par partager notre expérience de c
 — _Dan Massey_
 _Sherborn, Massachusetts_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1983_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'automne 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1983 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1992"
+title: "« The Urantian » — Numéro d'hiver 1992"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/A_Blessed_Path_of_Knowledge">
+          <span class="pr-2">Un chemin béni de la connaissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Le nouveau journal
 
@@ -66,3 +87,25 @@ Droit d'auteur et copie ; 1992 par La Bourse. Tous droits réservés. Imprimé 
 
 Le personnel du Journal souhaite remercier tous les artistes et auteurs qui ont contribué à leurs œuvres, qu'elles apparaissent ou non, dans ce nouveau numéro au nouveau format.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/A_Blessed_Path_of_Knowledge">
+          <span class="pr-2">Un chemin béni de la connaissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

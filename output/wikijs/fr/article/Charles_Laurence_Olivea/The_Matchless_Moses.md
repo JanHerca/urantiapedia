@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Charles Laurence Olivea<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Frazier/Ganid_Of_India">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid de l'Inde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/Quiet_Human_Heroes">
+          <span class="pr-2">Héros humains silencieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Même si Ikhenaton était remarquable, Moïse était sans égal. «_Malgré les séductions de la culture du royaume du Nil, Moïse résolut de partager le sort du peuple de son père... Aucun dirigeant n'a jamais entrepris de réformer et d'élever un groupe d'êtres humains plus désespérés, abattus et ignorants, _” ([LU 96:3.2-3](/fr/The_Urantia_Book/96#p3_2)) Ce magnifique professeur du monde a rêvé et réalisé un rêve impossible. Moïse a choisi la voie basse de quarante années d'attente vigilante qui ont abouti au sauvetage glorieux et dramatique d'un peuple apparemment désespéré et aux économies de son héritage spirituel inestimable. Sa vie servira à jamais de démonstration de la façon dont le premier sera le dernier et le plus précieux. les derniers seront les premiers.
@@ -22,3 +46,28 @@ L’essentiel pour Moïse était la foi salvatrice qui peut trouver un chemin l�
 — _Charles Laurence Olivea_
 _Watertown, Connecticut_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Frazier/Ganid_Of_India">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid de l'Inde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/Quiet_Human_Heroes">
+          <span class="pr-2">Héros humains silencieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

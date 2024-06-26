@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renouveler et revitaliser la société</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Victoria_Urban/The_seraphim">
+          <span class="pr-2">Les Séraphins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un chrétien, aussi moderne soit-il, doit être ouvert au fait que la création de Dieu s'étend au-delà de sa compréhension ou de son expérience. Pour cette raison, et parce que les anges ont fait partie des Écritures et de l'enseignement au fil des années, un chrétien est ouvert au possibilité que les anges existent et qu'ils remplissent une fonction particulière dans la création.
@@ -23,3 +47,28 @@ Le but d’un chrétien dans la vie est de devenir ce que Dieu veut qu’il soit
 
 — _Anonyme_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renouveler et revitaliser la société</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Victoria_Urban/The_seraphim">
+          <span class="pr-2">Les Séraphins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Julia Fenderson<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/The_Omega_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La perspective Oméga</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(La Première Société URANTIA de Los Angeles (FUSLA) est la plus ancienne Société URANTIA non-Chicago. Depuis plus de 20 ans, elle encourage les activités de groupes d'étude sur la côte ouest. L'article suivant est basé sur l'expérience FLISLA.)_
@@ -27,3 +48,25 @@ L'un des objectifs de nos groupes d'étude, outre l'apprentissage réel du _Livr
 
 —_Julia Fenderson_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/The_Omega_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La perspective Oméga</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

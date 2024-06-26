@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'automne 1979"
+title: "« The Urantian » — Numéro d'automne 1979"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Martin W. Myers, Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Fraternité Urantia — Les possibilités d'un service planétaire important
@@ -69,3 +90,24 @@ Merci.
 ## Remarques
 
 [^1] : Citations et paraphrases de Unity, et non d'Uniformity, copyright & copy ; 1973, Fondation URANTIA — utilisé avec autorisation.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

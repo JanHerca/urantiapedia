@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Jeff Wattles<br>© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cadre et une philosophie pour l'éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La renaissance spirituelle sur notre planète est comme une série de quatre vagues sur un lac, émanant d’un centre commun, s’étendant pour réaliser la fraternité des hommes. Une quête renouvelée de vérité, de beauté et de bonté se répercute sur l’expérience de nombreux humanistes. De forts courants de dévotion monothéiste agitent les âmes d'innombrables descendants spirituels de l'Évangile de Melchisédek. De nombreux chrétiens cherchent et trouvent l'eau de la vie, le véritable esprit du don que le Maître nous a fait. Et le mouvement des étudiants du _Livre d'URANTIA_ porte le potentiel d'intégrer ces cercles concentriques de réalisation. Le but de cet essai est d'améliorer notre compréhension et notre fraternité avec les musulmans.
@@ -60,3 +81,25 @@ Enfin, rafraîchissons notre sentiment de fraternité avec les musulmans sincèr
 — _Jeffrey Wattles_
 _Berkeley, Californie_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cadre et une philosophie pour l'éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

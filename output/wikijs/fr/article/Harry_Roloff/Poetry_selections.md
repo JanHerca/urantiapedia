@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1992 Harry Roloff</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Stanley_Bates/Ship_du_Jour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Navire du Jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Watkins/A_Time_of_Making_a_Most_Difficult_Choice">
+          <span class="pr-2">Une période où il faut faire un choix des plus difficiles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Scénario Verseau
@@ -120,3 +144,27 @@ Ils se sont embarqués avec détermination
 Pour attraper cette Lumière fantôme.
 
 &nbsp; &nbsp; &nbsp; RH — À un frère
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Stanley_Bates/Ship_du_Jour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Navire du Jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Watkins/A_Time_of_Making_a_Most_Difficult_Choice">
+          <span class="pr-2">Une période où il faut faire un choix des plus difficiles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

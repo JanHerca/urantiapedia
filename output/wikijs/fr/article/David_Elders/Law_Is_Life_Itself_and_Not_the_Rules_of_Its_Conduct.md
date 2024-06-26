@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 David Elders</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1992. Qu'est-ce que cela va faire pour moi et pour vous ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/E_Ann_Star/Poems_By_E_Ann_Star">
+          <span class="pr-2">Poèmes de E. Ann Star</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 un essai de David Elders
 
@@ -33,3 +57,28 @@ Il y a une lumière pleine d’espoir. Émergeant des brumes de notre confusion,
 <figcaption>Photo de Mary Rector</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Harry_Roloff/What_Will_It_Do_For_Me_And_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">1992. Qu'est-ce que cela va faire pour moi et pour vous ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/E_Ann_Star/Poems_By_E_Ann_Star">
+          <span class="pr-2">Poèmes de E. Ann Star</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

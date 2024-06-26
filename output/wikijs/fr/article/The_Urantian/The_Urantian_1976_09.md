@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'automne 1976"
+title: "« The Urantian » — Numéro d'automne 1976"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Marjorie Reed, Mary Snider, Michael Painter, Bernard Burton, Helena Sprague, Richard Hill<br>© 1976 L'Urantia Bourse du Livre (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marjorie_Reed/Some_Thoughts_On_Service">
+          <span class="pr-2">Quelques réflexions sur le service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _...L’attitude consistant à servir l’homme avec désintéressement et à adorer Dieu intelligemment devrait faire de tous les croyants au royaume de meilleurs citoyens du monde, tandis que l’attitude consistant à être un citoyen honnête et à se dévouer sincèrement à son devoir terrestre devrait aider à rendre de tels citoyens d’autant plus accessibles à l’appel de l’esprit à la filiation dans le royaume céleste._ » ([LU 178:1.8](/fr/The_Urantia_Book/178#p1_8))
@@ -91,3 +112,25 @@ Notre groupe d'introduction est ouvert à toute personne souhaitant discuter du 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marjorie_Reed/Some_Thoughts_On_Service">
+          <span class="pr-2">Quelques réflexions sur le service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

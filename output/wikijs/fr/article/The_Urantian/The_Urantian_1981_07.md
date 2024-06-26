@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1981"
+title: "« The Urantian » — Numéro d'été 1981"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="pr-2">Quelques réflexions sur la volonté du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce numéro spécial de conférence du Journal URANTIEN de la Fraternité URANTIA est rendu possible grâce aux efforts sincères, honnêtes et réfléchis de nombreux participants à la Conférence Générale de l'été dernier au Colorado. Malheureusement, des contraintes de temps et de budget ont empêché l'inclusion de toutes les conférences et présentations très intéressantes données à Snowmass. Cependant, nous espérons que les articles qui suivront représenteront pleinement l'esprit du thème de la conférence « La relation de l'individu avec le Père universel »._
@@ -168,3 +189,25 @@ _Denver, Colorado_
 > Sermon de Jésus sur « Le Royaume » — Capharnaüm
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="pr-2">Quelques réflexions sur la volonté du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

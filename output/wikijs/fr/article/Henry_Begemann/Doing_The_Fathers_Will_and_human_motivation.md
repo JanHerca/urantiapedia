@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Commission au ministre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_McNelly/Evolving_a_personal_religious_experience">
+          <span class="pr-2">Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il peut y avoir une grande différence entre agir selon de bonnes motivations humaines et faire la volonté du Père. La moralité, et ses motivations corrélées, est avant tout un phénomène évolutif. Il s’agit alors d’un « super-animal, mais sous-spirituel ». La moralité dérivée de ce niveau n’est pas une activité spirituelle, mais une activité dérivée du sens du devoir. La moralité telle que Jésus l'a enseignée est plus qu'évolutive, elle est révélatrice, car son origine se trouve dans la relation père-enfant. Cette relation vécue a pour conséquence une moralité renforcée qui transcende le devoir. « _La caractéristique majeure de l’enseignement de Jésus était que la moralité de sa philosophie dérivait des relations personnelles entre l’individu et Dieu — précisément cette relation d’enfant à père._ » ([LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
@@ -36,3 +60,28 @@ Les bonnes motivations sont une grande tentation. Ils peuvent sembler si gentils
 — _Henry Begemann_
 _Wassenaar, Pays-Bas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Commission au ministre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1981-numéro-spécial-de-la-conférence">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1981 - Numéro spécial de la conférence — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_McNelly/Evolving_a_personal_religious_experience">
+          <span class="pr-2">Faire évoluer une expérience religieuse personnelle : de la croyance à la foi en vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 David Elders</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Watkins/A_Time_of_Making_a_Most_Difficult_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une période où il faut faire un choix des plus difficiles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="pr-2">Tournages et réglages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Conférence donnée par David Elders au Scientific Symposium II
 Oklahoma City, Oklahoma, 19 mai 1991
@@ -42,4 +66,28 @@ Et la diversité existentielle unifiée de l’existence éternelle de Dieu est,
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Urantian/Turnings_and_Tunings.jpg">
 <figcaption><em>Artiste : Carolyn Kendall</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Watkins/A_Time_of_Making_a_Most_Difficult_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une période où il faut faire un choix des plus difficiles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Schlundt/Turnings_and_Tunings">
+          <span class="pr-2">Tournages et réglages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

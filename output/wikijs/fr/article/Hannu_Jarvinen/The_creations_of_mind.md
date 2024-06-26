@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Hannu Jarvinen<br>© 1989 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1989_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_C_J_Harrington/The_worship_experience">
+          <span class="pr-2">L'expérience du culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai eu l'idée de cette conférence dans un livre de Voitto Viro. J'ai été profondément touché par le livre dans lequel il affirme que c'est un grand malheur que des choses qui ne vont pas de soi soient considérées comme telles. Le fait que nous soyons ici ne va pas de soi. Le fait que nous existons, que l’homme existe, est un grand miracle. Je sais que je ne suis pas assez conscient pour en saisir profondément la signification.
@@ -50,3 +74,28 @@ Il est vraiment temps de changer et nous qui lisons _Le Livre d'URANTIA_ devrion
 _Hannu Jarvinen_
 _Sasi, Finlande_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1989_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_C_J_Harrington/The_worship_experience">
+          <span class="pr-2">L'expérience du culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
