@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Gard Jameson<br>© 1998 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence de l'UIA à Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-2-septembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 2, septembre 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _L'administrateur, Gard Jameson, prend la parole à la conférence de l'IUA à Helsinki_
@@ -79,3 +100,25 @@ Pouvons-nous tous reconnaître ce processus dont nous faisons partie et respirer
 
 - [Nouvelles Urantiennes de la Fondation Urantia](https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence de l'UIA à Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-2-septembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 2, septembre 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

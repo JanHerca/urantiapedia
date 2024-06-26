@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/UF_Urantian/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — Nouvelles de la Fondation Urantia — mars 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-1-mars-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 1, mars 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -166,3 +187,25 @@ Maaherra affirme que la demande de la Fondation est néanmoins rejetée, même d
 
 la fin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/UF_Urantian/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — Nouvelles de la Fondation Urantia — mars 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-1-mars-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 1, mars 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

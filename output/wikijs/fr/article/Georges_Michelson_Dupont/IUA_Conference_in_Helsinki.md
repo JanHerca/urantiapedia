@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Georges Michelson-Dupont<br>© 1998 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/UF_Urantian/1998_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — Nouvelles de la Fondation Urantia — septembre 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-2-septembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 2, septembre 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Our_Responsibility_To_The_Revelatory_Commission">
+          <span class="pr-2">Notre responsabilité envers la Commission Révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Georges Michelson-Dupont_
@@ -420,3 +444,28 @@ Merci pour votre attention.
 
 - [Nouvelles Urantiennes de la Fondation Urantia](https://www.urantia.org/news/1998-08/trustee-georges-michelson-dupont-speaks-iua-conference-in-helsinki)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/UF_Urantian/1998_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian — Nouvelles de la Fondation Urantia — septembre 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-2-septembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 2, septembre 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Our_Responsibility_To_The_Revelatory_Commission">
+          <span class="pr-2">Notre responsabilité envers la Commission Révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
