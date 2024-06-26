@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Francyl Streano Gawryn<br>© 1992 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gwen_Wenzel/20_20_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">20 20 20</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Hyde/Urantia_Nuptials">
+          <span class="pr-2">Noces Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Éd. Remarque : _Cette chronique est dédiée au rapport sur les rituels et les célébrations utilisés par les lecteurs du Livre d'Urantia et leurs familles. C'est agréable de partager les nombreuses joies de la vie. Pensez à écrire sur vos rituels et célébrations familiales spéciales pour cette chronique et envoyez-les (avec des photos !) à l'éditeur de la vie familiale._
@@ -36,3 +60,28 @@ En tant qu'enseignants, maman et papa ne proposent pas toujours le plan de cours
 
 J'aimerais pouvoir dire que je pense que mes enfants sont plus spirituels grâce à cette expérience, mais je ne pense pas qu'ils le soient. Ce sont des enfants assez typiques (merveilleux !). Mais je pense que notre vie de famille en a été spirituellement enrichie et grâce à cela, nous partageons un espace et du temps confortables ensemble en tant que famille, reconnaissant notre lien spirituel commun les uns avec les autres et avec tous les enfants de Dieu. Et je pense que c'est assez spécial !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gwen_Wenzel/20_20_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">20 20 20</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Hyde/Urantia_Nuptials">
+          <span class="pr-2">Noces Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

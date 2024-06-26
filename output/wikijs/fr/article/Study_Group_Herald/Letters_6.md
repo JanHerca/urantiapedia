@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Who_and_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui et comment ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je souhaite établir des contacts avec d’autres lecteurs et je me demandais s'il existe un moyen d’obtenir les adresses de lecteurs du monde entier. Ce serait bien si le Herald pouvait relier les gens pour une interaction personnelle et intellectuelle. Cela renforcerait et catalyserait la croissance de cette communion spirituelle.
@@ -90,3 +114,28 @@ _Tom Maringer_
 _2692, rue South Powerll_
 _Springdale, AK 72764_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Who_and_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui et comment ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

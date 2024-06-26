@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Michael Gillespie, Robin Robinson & Melissa Wells<br>© 1996 La Fellowship des lecteurs du Livre d’Urantia</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Conseil général se réunit à San Francisco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dateline">
+          <span class="pr-2">Ligne de données</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « ... la foi de l’homme né de l’esprit confère l’assurance d’une communion vivante avec le Dieu éternel. » _Le Livre d’Urantia_ [LU 178:1.11](/fr/The_Urantia_Book/178#p1_11)
@@ -123,3 +147,28 @@ Les projets d’événements et de divertissements sont encore en cours d’éla
 
 Pour ceux qui sont intéressés par cette opportunité de service, Siegel peut être contacté au (303) 447-0212, de préférence du lundi au vendredi entre 9h30 et 11h00 (heure des Rocheuses).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/General_Council_Meets_in_San_Francisco">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Conseil général se réunit à San Francisco</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dateline">
+          <span class="pr-2">Ligne de données</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

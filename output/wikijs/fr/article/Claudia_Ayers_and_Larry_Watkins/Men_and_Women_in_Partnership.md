@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Claudia Ayers et Larry Watkins<br>© 1994 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divorce : à faire ou à ne pas faire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="pr-2">L’avortement et le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Claudia Ayers et Larry Watkins, Sacramento, Californie
@@ -178,3 +202,28 @@ Pages | Commence par/Se termine par
 <img src="/image/article/Study_Group_Herald/marriage.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divorce : à faire ou à ne pas faire ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="pr-2">L’avortement et le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

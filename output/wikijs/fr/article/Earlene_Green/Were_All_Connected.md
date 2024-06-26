@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Earlene Green<br>© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La foi rend toutes choses possibles et l’amour les rend belles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="pr-2">Le Livre d’Urantia en Lituanie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Earlene Green
@@ -82,3 +106,28 @@ quelle que soit votre race,
 Celui qui sert mon Père comme un fils est sûrement 
 parent de moi.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La foi rend toutes choses possibles et l’amour les rend belles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="pr-2">Le Livre d’Urantia en Lituanie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

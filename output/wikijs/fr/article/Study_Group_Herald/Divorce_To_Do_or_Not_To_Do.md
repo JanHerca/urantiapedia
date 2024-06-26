@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le fardeau du panier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="pr-2">Hommes et femmes en partenariat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -52,3 +76,28 @@ Le divorce était une situation que Jésus n’a pas vécue. Je ne pense pas qu'
 
 J'entends mon père dire : « Ne te prends pas si au sérieux. Vous n’êtes qu'un bébé aux yeux de Dieu et Il vous comprend.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le fardeau du panier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Larry_Watkins/Men_and_Women_in_Partnership">
+          <span class="pr-2">Hommes et femmes en partenariat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Profiter du spectacle du Parlement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_4">
+          <span class="pr-2">Petites annonces</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Événements familiaux
@@ -55,3 +79,28 @@ Le **Comité d’éducation** a préparé un ordre du jour pour le programme int
 
 Quant à la raison pour laquelle le programme ne se réunit pas à Lake Forest, dans l’Illinois, « nous avons l’intention de le déplacer dans des endroits où il peut y avoir une participation de la société locale », explique Massey. 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Profiter du spectacle du Parlement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_4">
+          <span class="pr-2">Petites annonces</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

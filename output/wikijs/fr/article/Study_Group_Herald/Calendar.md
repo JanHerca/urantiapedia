@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/From_The_Editor_2">
+          <span class="pr-2">De l’éditeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - 11-12 juin : Conférence annuelle des « Journées d’été » de la Société Urantia finlandaise près d’Helsinki. Contactez Joel Rehnstrom, 10160 Degerby, Finlande.
@@ -61,3 +85,28 @@ Fort Wayne Society (Indiana), du 1er dimanche d’octobre au dernier dimanche de
 > Je pouvais entendre chacun de vous !<br></p>
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/From_The_Editor_2">
+          <span class="pr-2">De l’éditeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

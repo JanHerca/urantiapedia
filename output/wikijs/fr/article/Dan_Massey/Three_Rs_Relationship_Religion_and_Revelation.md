@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dan Massey<br>© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le séminaire d’été 1997 aura lieu à Vancouver du 10 au 13 juillet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dateline_3">
+          <span class="pr-2">Ligne de données</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un peu plus de 40 ans se sont écoulés depuis que le _Livre d’Urantia_ est devenu accessible au public pour la première fois. Il existe aujourd’hui plus d’un quart de million de livres imprimés, provenant de trois éditeurs, avec des ouvrages interprétatifs et critiques provenant de bien d’autres. L’année dernière, les ventes de livres ont connu une explosion sans précédent depuis le début des années 1970. À mesure que le lectorat et la communauté des croyants engagés augmentent, nous sommes de plus en plus amenés à réfléchir à l’avenir de la révélation, car elle empiète plus fréquemment sur notre monde d’expérience quotidienne.
@@ -47,3 +71,28 @@ La raison est la preuve de la science, la foi la preuve de la religion, la logiq
 
 L’été prochain, à Vancouver, les lecteurs du Livre d’Urantia considéreront ces questions à travers l’étude du livre, l’exploration pratique d’alternatives créatives, la prière et l’adoration sincères et la bonne communion fraternelle universelle. Rejoignez-nous dans cette célébration et cette exploration de notre rôle dans la nouvelle ère qui se lève sur notre planète.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le séminaire d’été 1997 aura lieu à Vancouver du 10 au 13 juillet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dateline_3">
+          <span class="pr-2">Ligne de données</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

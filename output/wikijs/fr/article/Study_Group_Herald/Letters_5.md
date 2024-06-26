@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Florida_Students_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étudiants de Floride du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_3">
+          <span class="pr-2">Petites annonces</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 29 mars 1993
@@ -89,3 +113,28 @@ Ce matin [29 mai 1993] à 9h25, Patricia Ann Amyx a pris congé pour commencer s
 
 Des dons au lieu de fleurs peuvent être envoyés au PATRICIA AMYX FAMILY BENEFIT TRUST, c\% Unity Church, Kevin Goodman et Susan W. Fox Co-Trustees, 332 Horatio Ave., Tampa, Floride 33609.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Florida_Students_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Étudiants de Floride du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_3">
+          <span class="pr-2">Petites annonces</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

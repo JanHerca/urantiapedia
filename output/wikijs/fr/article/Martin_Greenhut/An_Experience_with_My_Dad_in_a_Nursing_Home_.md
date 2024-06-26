@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Martin Greenhut<br>© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mémorial d’une nature très particulière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_4">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Martin Greenhut, Monterey, Massachusetts_
@@ -55,3 +79,28 @@ Ne me permettez pas de remettre en question la sagesse de la manière dont Dieu 
 
 <br style="clear:both;"/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mémorial d’une nature très particulière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_4">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

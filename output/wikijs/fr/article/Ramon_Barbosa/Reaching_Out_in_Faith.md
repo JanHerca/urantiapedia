@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ramon Barbosa<br>© 1996 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Définir le service spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="pr-2">Décès du dernier des administrateurs fondateurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Par Ramón Barbosa**
@@ -50,3 +74,28 @@ Le but d’une annonce dans le journal posant une question suscitant la réflexi
 > _Ramon Barbosa est membre de la First Society de Los Angeles. Il siège également au Southern California Outreach Committee, qui place des annonces dans des publications invitant les demandeurs à répondre à des messages téléphoniques préenregistrés avec des interprétations personnelles des enseignements du Livre d’Urantia.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Définir le service spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="pr-2">Décès du dernier des administrateurs fondateurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

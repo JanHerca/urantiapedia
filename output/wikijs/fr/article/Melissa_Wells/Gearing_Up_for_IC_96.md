@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Melissa Wells<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décès du dernier des administrateurs fondateurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="pr-2">Jésus - L’homme, le héros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -62,3 +86,28 @@ La conférence se terminera dans l’esprit occidental de l’Ouest avec une foi
 
 Si vous souhaitez recevoir plus d’informations sur IC 96, veuillez contacter The Fellowship, 529 Wrightwood Ave., Chicago, IL 60614, (312) 3270424 ou par fax (312) 327-6159.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Last_of_Founding_Trustees_Passes_Away">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décès du dernier des administrateurs fondateurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="pr-2">Jésus - L’homme, le héros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

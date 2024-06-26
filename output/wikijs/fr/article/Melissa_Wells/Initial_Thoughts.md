@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Melissa Wells<br>© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1994_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, automne 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/In_Memoriam">
+          <span class="pr-2">En mémoire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Melissa Wells, rédactrice adjointe_
@@ -31,3 +55,28 @@ Notre présentation des groupes d’étude en Arizona arrive à point nommé pui
 
 Faites-nous savoir ce que vous pensez du Study Group Herald. Envoyez-nous vos likes, vos dégoûts, vos histoires heureuses ou tristes. Et s'il vous plaît envoyez des photos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1994_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, automne 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/In_Memoriam">
+          <span class="pr-2">En mémoire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

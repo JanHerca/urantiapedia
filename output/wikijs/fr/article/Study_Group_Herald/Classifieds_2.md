@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Pour la contrepartie d’un don de 20,00 $ au STUDY GROUP HERALD, jusqu'à un pouce de colonne de cette section classifiée sera mis à votre disposition pour votre avis. La taille maximale des avis est de 2 &frac12; pouces. Soumettez tous les avis de dons à The STUDY GROUP HERALD 529 Wrightwood Avenue, Chicago, IL 60614. Établissez les chèques à l’ordre de The Felloroship._
@@ -96,3 +120,28 @@ dateCreated: 2023-10-23T10:55:6Z
 
 **MAINTENANT UNE SOURCE UNIQUE** pour la plupart des œuvres inspirées du Livre d’Urantio, notamment THE PARAMONY de Duane Faw, les estampes d’art de Byron et CALL OF THE SPIRIT de Merritt Horn. Appelez $1(800)$ 767-LOVE. Aide! Aide! Nos ordinateurs ont été volés ainsi que nos enregistrements de sauvegarde pour notre liste de diffusion Good Cheer Press.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

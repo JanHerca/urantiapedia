@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Wayne Ferrier<br>© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faits tirés des Fichiers Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="pr-2">Que suis je? Qui suis je? Une introspection de moi-même</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -121,3 +145,28 @@ Le vieil homme a déclaré : « Je trouve beaucoup de choses extraordinaires sur
 > NOTE DE LA RÉDACTION À TOUS LES ENFANTS Nous sommes très enthousiasmés par HERALD. Nous faisons partie du GROUPE D’ÉTUDE qui peut envoyer les meilleurs pour lancer un concours pour voir des putains et d’autres trucs. histoires pour enfants ou pour enfants, artwo avec promesse d’impression Nous commençons dans ce numéro et son fandor que toutes les photos d’enfants d’Amandon et de son fandor que nous recevons. (Un enfant est n’importe quel fils de Dieu !)
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Allen_Collins/Facts_from_Urantia_Files">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faits tirés des Fichiers Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_S_Smith/What_Am_I_Who_Am_I_An_Introspection_Of_Myself">
+          <span class="pr-2">Que suis je? Qui suis je? Une introspection de moi-même</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

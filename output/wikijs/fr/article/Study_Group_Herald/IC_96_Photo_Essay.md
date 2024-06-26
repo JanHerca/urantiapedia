@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d’Urantia en Lituanie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="pr-2">Le séminaire d’été 1997 aura lieu à Vancouver du 10 au 13 juillet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -53,3 +77,28 @@ dateCreated: 2023-10-23T10:55:6Z
 <figcaption><em>Will et Susan Wentworth de Towamba, en Australie, profitent des festivités à la Country Fair.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arvydas_Maciokas/The_Urantia_Book_in_Lithuania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d’Urantia en Lituanie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Massey/1997_Summer_Seminar_To_Meet_in_Vancouver">
+          <span class="pr-2">Le séminaire d’été 1997 aura lieu à Vancouver du 10 au 13 juillet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Gard Jameson<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/International_Letters_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres internationales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="pr-2">Définir le service spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Par Gard Jameson**
@@ -94,3 +118,28 @@ La terre réclame l’amour divin de Dieu, sans savoir qu'elle est déjà là. A
 > _Gard Jameson est président du comité des relations fraternelles et siège au Conseil général depuis 1988. Lui et son épouse, Florence, obstétricienne-gynécologue, et leurs deux enfants, Michael et Julia, vivent à Boulder City, Nevada._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/International_Letters_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres internationales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Defining_Spiritual_Service">
+          <span class="pr-2">Définir le service spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Stephen Zendt<br>© 1991 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annette_Crawford/Gods_Love_and_His_Law">
+          <span class="pr-2">L’amour de Dieu et sa loi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Très cher Père-Mère, Dieu,
@@ -45,3 +69,28 @@ Stephen Zendt, San Francisco, Californie
 
 Soumis par Inez Finstad
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annette_Crawford/Gods_Love_and_His_Law">
+          <span class="pr-2">L’amour de Dieu et sa loi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

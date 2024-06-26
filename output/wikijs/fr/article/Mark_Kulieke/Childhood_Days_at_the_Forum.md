@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Mark Kulieke<br>© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une lettre de l’État de New York</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="pr-2">Demandez et vous recevrez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Mark Kulieke, Green Bay, Wisconsin_
@@ -63,3 +87,28 @@ _(Des parties de cet article sont calquées sur une fonctionnalité récente de_
 <figcaption><em>Dr. Sadler, Art et Sandra Burch avec un gâteau d’anniversaire à 81 bougies.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une lettre de l’État de New York</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="pr-2">Demandez et vous recevrez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

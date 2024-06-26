@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Préparez-vous pour IC '96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Gillespie/Little_UrantiaL">
+          <span class="pr-2">Petite UrantiaL</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Premières commandes reçues pour le Livre d’Urantia de la Fraternité
@@ -73,3 +97,28 @@ Green Bay, WI 54308
 
 **Bientôt disponible !** Zones litigieuses dans _Le Livre d’Urantia_. Comment gérer les nouveaux lecteurs en réconciliant les croyances en la réincarnation et l’astrologie avec les enseignements du _Livre d’Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Préparez-vous pour IC '96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Gillespie/Little_UrantiaL">
+          <span class="pr-2">Petite UrantiaL</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

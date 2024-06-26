@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_9">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -62,3 +83,25 @@ Merci à Patricia Fearey, Chuck Thurston, Stephen Zendt et à tous ceux qui ont 
 
 J'aimerais partager avec vous une histoire concernant l’article d’un journal colombien qui paraît à la page 22. L’article, publié en espagnol, a été soumis dans les délais. Au même moment, j'entrais en amitié avec Luis Camacho, un résident de la région de Tampa Bay, né et élevé à Porto Rico. L’espagnol est la langue maternelle de Luis. Son introduction au _Le Livre d’Urantia_ est venue dans la traduction de cet article en anglais. Il me dictait une phrase traduite, puis s'arrêtait, s'asseyait et lisait l’article, se caressait le menton et s'exclamait : « Est-ce vrai ? Cool. Quel est ce livre ? J'aime la façon dont les anges nous mettent au travail. Et merci, Luis, pour votre aide et l’esprit de service aimant que vous incarnez dans votre vie.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_9">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Graduation_of_Ruth_E_Renn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Remise des diplômes de Ruth E. Renn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - 18 mai 1996, Conférence de l’Ascension, Oklahoma City, OK. Parrainé par la Première Société de l’Oklahoma. Personne-ressource : Tom et Karen Allen (405) 722-7691.
@@ -73,3 +94,25 @@ Faxez dès aujourd’hui vos commandes payées par carte de crédit au (312) 327
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Graduation_of_Ruth_E_Renn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Remise des diplômes de Ruth E. Renn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

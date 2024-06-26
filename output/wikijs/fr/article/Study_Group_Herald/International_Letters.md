@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="pr-2">L’effusion de Melchisédek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Chers lecteurs,
@@ -133,3 +157,28 @@ Je veux terminer cette note en partageant avec vous la façon dont nous prions l
 
 « Père Nuestro, qui est dans le ciel, santificado mer tu Nombre, venga a nos Tu reino, hagase tu volontad asi en la terre comme dans le ciel. El pan nuestro de cada dia, Danosle hoy. Perdona nuestras duedas asi como nosotros perdonamos a nuestros deudores. Ne nous dejes caer en tentación, mas libranos del mal, porque Tuyo es el poder, el reino y la gloria por los siglos de los siglos. Amen."
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="pr-2">L’effusion de Melchisédek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

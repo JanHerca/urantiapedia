@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Wayne Ferrier<br>© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui a dit que la garderie ne pouvait pas être amusante ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="pr-2">Divorce : à faire ou à ne pas faire ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -67,3 +91,28 @@ Ce serait le dernier jour de repos de Jésus avant d’être crucifié. Jean-Mar
 
 Jean-Marc n’était pas non plus conscient des anges qui surveillaient chaque mouvement de Jésus. Dans les mondes d’en haut, ce jour était connu comme le jour qu’un jeune homme passait avec Dieu dans les collines.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qui a dit que la garderie ne pouvait pas être amusante ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Divorce_To_Do_or_Not_To_Do">
+          <span class="pr-2">Divorce : à faire ou à ne pas faire ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

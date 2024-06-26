@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Barry D. Bradley<br>© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concernant les instructions ou les mandats</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="pr-2">Qui a dit que la garderie ne pouvait pas être amusante ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Barry D. Bradley, Largo, Floride
@@ -173,3 +197,28 @@ J.D. : Je n’aurais pas intégré un gang. Et je n’aurais pas renoncé à la 
 
 BECKY : Je changerais ma façon de faire à l’école. Je sais que je peux le faire, mais je suis tout simplement trop paresseux. Cette année, je vais faire mieux.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concernant les instructions ou les mandats</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Crystal_Harris/Who_Says_Day_Care_Cant_Be_Fun">
+          <span class="pr-2">Qui a dit que la garderie ne pouvait pas être amusante ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

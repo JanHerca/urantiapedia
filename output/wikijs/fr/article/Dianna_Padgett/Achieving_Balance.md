@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Dianna Padgett<br>© 1992 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendrier des événements 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Touch_the_World">
+          <span class="pr-2">Touchez le monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Dianna Padgett, Culpeper, Virginie_
@@ -33,6 +57,31 @@ Le Fils Éternel est la focalisation de la Personnalité Infinie en personnalit�
 Dans notre psyché, selon Jung, l’_animus_ représente le mâle intérieur, « ... le côté positif de l’animus peut personnifier un esprit d’entreprise, du courage, de la véracité et, dans sa forme la plus élevée, une profondeur spirituelle. » (_L’Homme et ses Symboles_, C.Jung) Elle prend la forme de convictions sacrées. C’est le noyau d’un individu qui se concentre sur une « vérité » à laquelle l’individu aspire. C'est le modèle (Deuxième Source et Centre) de l’âme formatrice qui est appliqué à l’existence physique de l’individu par le processus déterminé par l’anima (Troisième Source et Centre) et dans l’environnement de la personnalité de l’individu (Première Source et Centre). Le Christ est un modèle pour l’âme équilibrée. Il est notre « Parole » du « concept » du Père. ([LU 182:1.9](/fr/The_Urantia_Book/182#p1_9)) Pour suivre son exemple, pour continuer le modèle qu'il a défini, nous devons donc imiter la plus haute beauté que nous connaissons, en la prenant comme modèle. Lorsque le Christ parle à un individu, il ne lui impose pas son modèle ni ne le rabaisse parce qu'il ne comprend pas. Il donne à cette personne ce pour quoi son potentiel est mûr. Il donne en fonction des besoins de chacun. L’aspect masculin (vérité) et l’aspect féminin (application) du Christ sont équilibrés. « Jésus de Nazareth a atteint la connaissance et l’accomplissement de la volonté de Dieu. » ([LU 196:1.1](/fr/The_Urantia_Book/196#p1_1))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Calendrier des événements 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Touch_the_World">
+          <span class="pr-2">Touchez le monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

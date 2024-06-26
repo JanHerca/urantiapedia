@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Joan Biek<br>© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Demandez et vous recevrez</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="pr-2">Un mémorial d’une nature très particulière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Joan Biek, Middleton, Wisconsin_
@@ -49,3 +73,28 @@ Le week-end dernier, ma mère et moi avons prié ensemble pendant que je la bord
 
 <br style="clear:both;"/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/Ask_and_You_Shal_Receive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Demandez et vous recevrez</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Laureen_Oskochil/A_Memorial_of_a_very_Special_Nature">
+          <span class="pr-2">Un mémorial d’une nature très particulière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

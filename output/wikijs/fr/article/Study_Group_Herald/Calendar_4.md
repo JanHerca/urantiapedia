@@ -10,6 +10,27 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Fellowship est maintenant sur le WWW</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Annonces
@@ -70,3 +91,25 @@ Les Whole Life Expos auront lieu ce printemps à Boston, Atlanta, Austin, West P
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Fellowship est maintenant sur le WWW</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

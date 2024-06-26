@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Wayne et Ute Ferrier<br>© 1996 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À proximité – Le monde des non-respirants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Groupes d’étude du Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Par Wayne et Ute Ferrier**
@@ -76,6 +100,31 @@ Des dérivés du mot Urantia apparaissent chez de nombreux peuples, les Sumérie
 
 Lectures recommandées du Livre d’Urantia : [Fascicule 66](/fr/The_Urantia_Book/66) à [Fascicule 78](/fr/The_Urantia_Book/78).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À proximité – Le monde des non-respirants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Groupes d’étude du Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

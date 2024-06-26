@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 George Zuberbuehler<br>© 1993 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Allen_Collins/The_Life_and_Times_of_Jesus">
+          <span class="pr-2">La vie et l’époque de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Préparé par George Zuberbuehler, White Haven, Pennsylvanie_
@@ -585,3 +609,28 @@ Numéro de page| Commence/se termine par
 [LU 1:6.6](/fr/The_Urantia_Book/1#p6_6) | ...Vous pouvez/des croyants.
 [LU 101:2.16](/fr/The_Urantia_Book/101#p2_16) | Religion/vraiment convaincant.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Allen_Collins/The_Life_and_Times_of_Jesus">
+          <span class="pr-2">La vie et l’époque de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

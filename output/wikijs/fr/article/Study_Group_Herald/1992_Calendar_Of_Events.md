@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dianna_Padgett/Achieving_Balance">
+          <span class="pr-2">Atteindre l’équilibre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > ÉD. REMARQUE : _Ce calendrier des événements 1992 est publié rétrospectivement en prévision de la répétition de plusieurs de ces fonctions en 1993. À mesure que nous développons le réseau de communication requis, nous publierons le calendrier avant les événements de l’année. Les événements de l’été 1993 seront sujets à des changements en raison du calendrier de la Conférence internationale '93 prévue du 31 juillet au 5 août, à Saint-Hyacinthe, Québec._
@@ -39,3 +63,28 @@ dateCreated: 2023-10-23T10:55:6Z
 24 OCTOBRE | Événement de récolte d’automne à Austin, Texas, sponsorisé par le Groupe d’étude du Livre d’Urantia d’Austin. Contact : Tim/Kitty Traylor, 100 W Odell, Austin, TX 78752 (512) 451-9479.
 7-8 NOVEMBRE | Premier forum d’automne de la Société de l’Oklahoma. Personne-ressource : Warren Litchfield (405) 794-2978
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tableau d’affichage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dianna_Padgett/Achieving_Balance">
+          <span class="pr-2">Atteindre l’équilibre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

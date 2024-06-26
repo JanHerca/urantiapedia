@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres au héraut</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/International_Letters">
+          <span class="pr-2">Lettres internationales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Le Programme FLEURS** de The Fellowship donnera un coup de main aux groupes de lecteurs du _Le Livre d’Urantia_ qui souhaiteraient s'engager dans des programmes de sensibilisation. Si vous êtes intéressé, écrivez à la Fellowship, 529 Wrightwood Ave., Chicago, IL 60614.
@@ -57,3 +81,28 @@ Bande 7 : _Célébration du 2 000e anniversaire de Jésus_
 
 Bande 8 : _La vie au bord de l’éternité_ par Dan Young ; _Célébration du 2 000ème anniversaire de Jésus ; Fermeture_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres au héraut</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/International_Letters">
+          <span class="pr-2">Lettres internationales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

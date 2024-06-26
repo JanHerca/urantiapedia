@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Mark Kulieke<br>© 1992 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Ascending_Currents">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Courants ascendants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="pr-2">Faits tirés des Fichiers Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _L’article suivant est presque entièrement constitué d’extraits transcrits d’un entretien enregistré avec Clyde Bedell réalisé par Barbara Kulieke en 1983, un peu plus d’un an avant la mort de Clyde._
@@ -78,3 +102,28 @@ _Clyde a d’abord raconté comment il en est venu à s'impliquer dans le Forum 
 
 « L’Islam est le résultat de cet échec des missionnaires d’Abner. Deux mille ans plus tard. . . beaucoup... paient le prix des échecs des missionnaires d’Abner. Et je me demande dans combien d’années les gens paieront les pénalités et souffriront pour les échecs que nous avons à suivre les instructions de Jésus. . . pour répandre et diffuser cet évangile dans le monde maintenant et pour toujours. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Ascending_Currents">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Courants ascendants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Allen_Collins/Facts_from_Urantia_Files_2">
+          <span class="pr-2">Faits tirés des Fichiers Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Massey/The_Cosmic_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="pr-2">La foi rend toutes choses possibles et l’amour les rend belles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cher lecteur du Livre d’Urantia,
@@ -75,3 +99,28 @@ Nom du coordinateur de zone \_\_\_\_ (Emplacement) \_\_\_\_
 
 Envisagez de vous inscrire sous une grande ville, le cas échéant. Les visiteurs peuvent ne pas reconnaître les villes de banlieue, contrairement aux résidents. Les adresses personnelles peuvent entraîner des « invités surprises », alors pensez à inscrire une entreprise ou un bon de commande. Encadrez votre adresse dans l’Annuaire pour que l’on puisse vous écrire. MERCI POUR L’AIDE!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Massey/The_Cosmic_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Geri_Johnson/Faith_Makes_All_Things_Possible">
+          <span class="pr-2">La foi rend toutes choses possibles et l’amour les rend belles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

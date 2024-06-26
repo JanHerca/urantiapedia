@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Révérend Canon James F. Kelly<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se préparer pour l’IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Melissa_Wells/A_Hero_For_All">
+          <span class="pr-2">Un héros pour tous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Par le révérend chanoine James F. Kelly**
@@ -67,3 +91,28 @@ Maintenant, Jésus nous appelle à être des héros les uns pour les autres. Et 
 > _Le révérend chanoine James F. Kelly est chanoine éducateur de l’église cathédrale Saint-Pierre, la cathédrale épiscopale du diocèse du sud-ouest de la Floride à Saint-Pétersbourg. Né à Brooklyn, le père Kelly a été ordonné prêtre en 1969. Il est actif dans de nombreuses organisations ecclésiastiques et communautaires. Le père Kelly vit à Clearwater, avec sa femme, Kathleen, et Simon, le chat._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Melissa_Wells/Gearing_Up_for_IC_96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Se préparer pour l’IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Melissa_Wells/A_Hero_For_All">
+          <span class="pr-2">Un héros pour tous</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

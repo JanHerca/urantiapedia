@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Michael Gillespie<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dateline">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ligne de données</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="pr-2">Osez prendre des risques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Michael Gillespie
@@ -57,3 +81,28 @@ Pour plus d’informations sur la façon de vous abonner à Little UrantiaL, con
 <img src="/image/article/Study_Group_Herald/keys.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dateline">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ligne de données</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="pr-2">Osez prendre des risques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

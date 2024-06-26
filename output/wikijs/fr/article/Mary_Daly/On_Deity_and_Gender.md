@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Mary Daly<br>© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Périodiques du Mouvement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annie_Spiars/A_Life_for_All_Seasons">
+          <span class="pr-2">Une vie pour toutes les saisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Mary Daly, Garretson, SD_
@@ -90,3 +114,28 @@ _Troisièmement, et le plus important pour comprendre le culte de la Sainte Mèr
 
 La grande erreur de la pensée occidentale à propos d’une Mère divine est de tenter de réduire l’ensemble du problème aux catégories extérieures du mythe, de la mémoire et de la compétition entre les sexes. Ces efforts ne sont jamais entièrement couronnés de succès car ils reposent sur de faux fondements. Le mythe doit céder ses convictions à la marche de la science. L’histoire finit par disparaître dans l’ombre et la compétition cède la place à la coopération dans une croissance (spirituelle) mature. En fin de compte, l’expérience intérieure des hommes et des femmes à l’esprit spirituel transcende tout le reste et assure la persistance des doctrines sur notre Mère Céleste. Cela est d’autant plus vrai dans la dispensation spirituelle qui a commencé avec la Pentecôte, en raison de l’approfondissement de l’accessibilité personnelle de notre Mère. Nous la connaissons et l’aimons. Bien au-delà de toute rumeur d’une déesse en compétition avec les dieux, elle est notre Mère personnelle, la Mère de Miséricorde, et la première et meilleure amie de Jésus.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Périodiques du Mouvement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annie_Spiars/A_Life_for_All_Seasons">
+          <span class="pr-2">Une vie pour toutes les saisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

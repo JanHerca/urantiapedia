@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annette Crawford<br>© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/The_Study_Groups_Around_Oklahoma_City">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les groupes d’étude autour d’Oklahoma City</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="pr-2">Une vision des anges</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Une étude thématique réalisée par Annette Crawford de Denver, Colorado <br> avec une introduction par Martin Greenhut, Monterey, Massachusetts_
@@ -49,3 +73,28 @@ Numéros de pages : | Commence/finit par :
 [LU 84:7.27-30](/fr/The_Urantia_Book/84#p7_27) | Mariage,/enfants de l’univers.
 [LU 84:8.2-6](/fr/The_Urantia_Book/84#p8_2) | 8\. DANGERS/de survie.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/The_Study_Groups_Around_Oklahoma_City">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les groupes d’étude autour d’Oklahoma City</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="pr-2">Une vision des anges</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

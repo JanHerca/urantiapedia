@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Bobbie Dreier<br>© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Childhood_Days_at_the_Forum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journées de l’enfance au Forum</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="pr-2">Prendre soin d’un parent vieillissant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -48,3 +72,28 @@ Février 1993.
 
 _Post Script_ : Jack Goldman est mort paisiblement dans son sommeil dans un hospice en Floride le 11 mai 1993.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Childhood_Days_at_the_Forum">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journées de l’enfance au Forum</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joan_Biek/Caring_for_an_Aging_Parent">
+          <span class="pr-2">Prendre soin d’un parent vieillissant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

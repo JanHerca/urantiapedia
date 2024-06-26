@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites annonces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Calendar">
+          <span class="pr-2">Calendrier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **NOUS DEMANDONS** de soumettre les écrits de votre journal à Dieu, votre Père, des prières spéciales que vous avez écrites pour les utiliser encore et encore ; même les prières que votre famille utilise à table ou à l’heure du coucher. Envoyer à : Stephen Zendt, rédacteur en chef, Ascending Currents, article de The STUDY GROUP HERALD 4130 Army St. \#51, San Francisco, CA 94131.
@@ -63,3 +87,28 @@ Contactez Peggy Johnson, présidente du livre de recettes, Société du Grand Ca
 
 **VOULEZ-VOUS PARTAGER** vos propres supports d’étude originaux et faits maison avec le reste d’entre nous ? Sharen Clampitt, Unit 1, 81 Seabrook Ave., Auckland 7, Nouvelle-Zélande est le nouvel éditeur de fonctionnalités du STUDY GROUP HERALD pour les aides à l’étude. Elle essaie de vous trouver, vous et vos créations, à partager dans ces pages. Veuillez lui écrire et lui envoyer vos supports d’étude et une photo de vous. Nous l’apprécierons tous beaucoup.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites annonces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Calendar">
+          <span class="pr-2">Calendrier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

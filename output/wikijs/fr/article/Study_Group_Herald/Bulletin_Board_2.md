@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites annonces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="pr-2">Calendrier des événements 1992</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **LE POINT SAILLANT DE 1993**, « Touchez le monde », la conférence internationale de la Fraternité pour les lecteurs du _Livre d’Urantia_ qui se tiendra près de Montréal, Canada. Vos talents et votre temps pour aider à cette première conférence en dehors des États-Unis sont recherchés par les coordinateurs de la conférence. Écrivez ou appelez The Fellowship 529 Wrightwood Ave. Chicago, IL 60614. (312) 327-0424.
@@ -61,3 +85,28 @@ Cette conférence de 1993 accueillera deux activités pré-conférence :
 - Retraite pré-conférence « Aventures dans la vie spirituelle », 28-30 juillet 1993, Montréal, Canada. 
 - « Intermède spirituel », 28-30 juillet 1993. Détails à paraître.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites annonces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/1992_Calendar_Of_Events">
+          <span class="pr-2">Calendrier des événements 1992</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

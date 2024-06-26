@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 David Kantor<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/A_Place_Apart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un endroit à part</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="pr-2">Tendre la main avec foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Par David Kantor**
@@ -158,3 +182,28 @@ Puissions-nous avoir la sagesse de favoriser une culture de lectorat qui puisse 
 > _David Kantor, région de la Baie de San Francisco, est membre du Conseil Général depuis deux ans. Ce document constitue la base d’une présentation que Kantor a faite au Conseil général lors de sa réunion de mi-année en janvier 1995._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/A_Place_Apart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un endroit à part</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ramon_Barbosa/Reaching_Out_in_Faith">
+          <span class="pr-2">Tendre la main avec foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

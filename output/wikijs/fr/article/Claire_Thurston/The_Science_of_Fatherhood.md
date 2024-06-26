@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Claire Thurston<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Osez prendre des risques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC96">
+          <span class="pr-2">IC'96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Claire Thurston
@@ -112,3 +136,28 @@ Si les pères savent comment et pourquoi ils comptent pour leurs enfants, en par
 - Sayers, R. _Père : ce n’est pas la même chose_. Larkspur, Californie : Nurtury Family School, 1983.
 - Wagner, S. et coll. « Cartographie métaphorique chez les nourrissons humains. » _Développement de l’enfant_, 1981, 52, p.728-31.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Dare_to_Risk">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Osez prendre des risques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC96">
+          <span class="pr-2">IC'96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

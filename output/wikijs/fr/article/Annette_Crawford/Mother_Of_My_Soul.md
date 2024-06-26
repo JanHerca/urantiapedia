@@ -10,6 +10,30 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annette Crawford<br>© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une vision des anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/A_History_of_the_Urantia_Papers">
+          <span class="pr-2">Une histoire des Cahiers d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Notes du groupe d’étude rassemblées par Annette Crawford, Denver, Colorado_
@@ -63,3 +87,28 @@ Nous ne serons peut-être jamais infiniment parfaits, mais nous pouvons, en fait
 L’esprit mortel au service uniquement du monde matériel deviendra de plus en plus matériel et finira par subir la fin de sa personnalité. ||
 La survie s'obtient en ajustant ainsi la volonté humaine et en transformant l’esprit mortel afin que l’intellect conscient de Dieu puisse être instruit et dirigé par l’esprit. ||
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Art_Gregory/A_Vision_of_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une vision des anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/A_History_of_the_Urantia_Papers">
+          <span class="pr-2">Une histoire des Cahiers d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

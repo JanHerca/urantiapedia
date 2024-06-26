@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Chilufya M.K.Tompson<br>© 1993 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une expérience avec mon père dans une maison de retraite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Zuberbuehler/Motaquest">
+          <span class="pr-2">Motaquest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Chilufya M.K.Tompson, Kitwe Zambie, rédacteur_
@@ -183,3 +207,28 @@ _Victoria, Colombie-Britannique, Canada_
 <figcaption><em>Photo du groupe d’étude. Rangée arrière (de gauche à droite) Norma Ezri, Orville Burgess, Eric Rancourt, Byron Poley, Olu Oljede (lecteur invité du Nigeria), Wendy Gold et Babbie Jahsmin, Murray Langs. Première rangée (de gauche à droite) Gerry Charette, Julie Dubuc, Brent St. Denis, Claude Lafleche, Joseph Saliba. Autres lecteurs réguliers absents de la photo, Michael Ezri, Roland Ezri, Blaise Marchildon.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/An_Experience_with_My_Dad_in_a_Nursing_Home_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une expérience avec mon père dans une maison de retraite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Zuberbuehler/Motaquest">
+          <span class="pr-2">Motaquest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

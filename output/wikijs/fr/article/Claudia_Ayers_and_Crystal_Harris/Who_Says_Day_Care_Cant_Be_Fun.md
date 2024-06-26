@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Claudia Ayers et Crystal Harris<br>© 1994 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour les adolescents, c'est un monde différent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="pr-2">Le fardeau du panier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Claudia Ayers et Crystal Harris
@@ -54,3 +78,28 @@ Voici quelques ressources que nous avons trouvées utiles :
 <img src="/image/article/Study_Group_Herald/playing2.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pour les adolescents, c'est un monde différent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Wayne_Ferrier/The_Burden_of_the_Basket">
+          <span class="pr-2">Le fardeau du panier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres à la Fraternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="pr-2">Préparez-vous pour IC '96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La réunion de mi-hiver du Conseil Général à San Francisco, les 2 et 3 février, a offert l’occasion de peaufiner les détails de la nouvelle publication à couverture souple du _Le Livre d’Urantia_. En outre, le Conseil a approuvé la création d’une filiale de la Fellowship, Uversa Press, pour superviser les détails des activités d’édition. La question des remises permanentes a également été discutée et il a été convenu qu'une certaine forme de remises sur volume serait offerte à tout le monde, dont les détails seront définis ultérieurement.
@@ -43,3 +67,28 @@ Avi Dogim, président du Comité de la Charte, a rapporté que la demande a ét�
 
 Il n’est jamais trop tôt pour commencer à réfléchir au lieu où se tiendra la prochaine Conférence internationale. Les conseillers ont proposé un large éventail de suggestions, notamment l’Alaska, Vancouver, la Colombie-Britannique, le Midwest, le Sud-Est et même un bateau de croisière.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres à la Fraternité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Get_Ready_for_IC_96">
+          <span class="pr-2">Préparez-vous pour IC '96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

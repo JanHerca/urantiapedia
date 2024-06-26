@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Geri Johnson<br>© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Group_Directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Répertoire des groupes d’étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Earlene_Green/Were_All_Connected">
+          <span class="pr-2">Nous sommes tous connectés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Geri Johnson
@@ -73,3 +97,28 @@ Mettez-en un au point. Pensez à cette personne. Voyez leurs yeux. Pensez à l�
 
 Apportez cet amour à ceux qui vous sont les plus précieux. Comme le disait l’apôtre Jean vieillissant : « Mes petits enfants, aimez-vous les uns les autres. » ([LU 139:4.6](/fr/The_Urantia_Book/139#p4_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Group_Directory">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Répertoire des groupes d’étude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Earlene_Green/Were_All_Connected">
+          <span class="pr-2">Nous sommes tous connectés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

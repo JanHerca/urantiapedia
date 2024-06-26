@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Annie Spiars<br>© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la divinité et le genre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Ce poème vient d’un ami de Flarida qui se trouve au coucher du soleil de sa vie sur Urantia. Elle a lu _Le Livre d’Urantia_ pendant de nombreuses décennies et travaille maintenant sur un projet concernant une personne dans le livre. Elle dit que le Père a besoin d’elle. Il y a rien à faire ici._
@@ -52,3 +76,28 @@ Nos pas ne errent plus,
 Nous faisons une pause et nous reposons de tous nos conflits
 Jusqu'à ce qu'IL vienne nous ramener à la maison.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Daly/On_Deity_and_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la divinité et le genre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

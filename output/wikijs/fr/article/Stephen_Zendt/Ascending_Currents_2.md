@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Stephen Zendt<br>© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wayne_Ferrier/Jesus_and_Jude_in_Jerusalem_Jail">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et Jude dans la prison de Jérusalem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Florida_Students_of_The_Urantia_Book">
+          <span class="pr-2">Étudiants de Floride du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Editeur : Stephen Zendt, San Francisco, Californie
@@ -101,3 +125,28 @@ MON PETIT MONDE.
 
 — Matthieu Klein
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wayne_Ferrier/Jesus_and_Jude_in_Jerusalem_Jail">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et Jude dans la prison de Jérusalem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Florida_Students_of_The_Urantia_Book">
+          <span class="pr-2">Étudiants de Floride du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

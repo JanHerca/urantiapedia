@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Pour la contrepartie d’un don de 20,00 $ au STUDY GROUP HERALD, jusqu'à un pouce de colonne de cette section classifiée sera mis à votre disposition pour votre avis. La taille maximale des avis est de 21 1/2 pouces. Envoyez tous les avis de dons à The STUDY GROUP HERALD, 529 Wrightwood Avenue, Chicago, IL 60614. Faites les chèques à l’ordre de The Fellowship._
@@ -63,3 +87,28 @@ POUR CEUX QUI ONT FACE À LA MORT, un magnifique magazine inspirant qui passe en
 
 **MAINTENANT UNE SOURCE UNIQUE** pour la plupart des œuvres inspirées du Livre d’Urantia, y compris _THE PARAMONY_ de Duane Faw, des estampes d’art de Byron et _CALL OF THE SPIRIT_ de Merritt Hom. Appelez le 1 (800) 767LOVE.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board_3">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

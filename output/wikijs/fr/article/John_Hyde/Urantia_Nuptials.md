@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 John Hyde<br>© 1992 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rituels et célébrations familiales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Paternité : Jésus comme modèle parental créatif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Rapporté par John Hyde, Richardson, Texas_
@@ -37,3 +61,28 @@ Carol Hay de Boulder, Colorado, toujours une animatrice bienvenue lors des rasse
 <figcaption><em>Karen et Tom Allen</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rituels et célébrations familiales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Paternité : Jésus comme modèle parental créatif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

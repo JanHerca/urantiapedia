@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 Jean Ramsay<br>© 1993 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1993_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, août 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="pr-2">Une lettre de l’État de New York</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Jean Ramsay_
@@ -45,3 +69,28 @@ Jean Ramsay
 
 <br style="clear:both;"/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1993_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, août 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ruth_L_Czankus/A_Letter_from_New_York_State">
+          <span class="pr-2">Une lettre de l’État de New York</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

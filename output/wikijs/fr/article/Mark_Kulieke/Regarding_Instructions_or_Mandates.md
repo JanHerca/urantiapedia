@@ -10,6 +10,30 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Mark Kulieke<br>© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’effusion de Melchisédek</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="pr-2">Pour les adolescents, c'est un monde différent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Mark Kulieke, Green Bay, Wisconsin
@@ -48,3 +72,28 @@ Par exemple, je considère la déclaration suivante d’origine surhumaine comme
 
 Ce matériel n’avait pas sa place dans le livre. La majeure partie traitait de la manière de créer le livre, de le gérer, de le faire publier et, après la publication, de la manière de former et de gérer les groupes liés au livre. La majeure partie était limitée dans le temps, d’où sa destruction à différents moments au cours des 40 dernières années. Je connais au moins trois ou quatre moments où cette direction surhumaine a été détruite, le dernier étant en 1982, lorsque le dernier membre de la Commission de Contact est décédé. Seuls quelques fragments fréquemment cités ont survécu.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wayne_and_Ute_Ferrier/The_Melchizedek_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’effusion de Melchisédek</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/For_Teens_Its_A_Different_World">
+          <span class="pr-2">Pour les adolescents, c'est un monde différent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

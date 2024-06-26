@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1996_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, hiver 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_8">
+          <span class="pr-2">Lettres à la Fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Imaginez une publication qui combine la beauté artistique et le raffinement intellectuel du _The Journal_ avec les nouvelles du _The Bulletin_ et les meilleurs articles du _The Study Group Herald_. C'est ce qui vous attend en lisant ce numéro. Nous avons fusionné nos trois bulletins d’information précédents dans celui-ci, le premier magazine de la Fellowship.
@@ -21,3 +45,28 @@ De plus, vous verrez mentionné dans quelques reportages que la première impres
 
 Ce magazine de la Fraternité devrait arriver dans votre boîte aux lettres trois fois par an : au printemps, en automne et à la fin de l’année. Si vous avez quelque chose que vous aimeriez soumettre pour publication, veuillez l’envoyer au siège de The Fellowship (adresse ci-dessous). Nous sommes toujours à la recherche de bonnes photographies, de poésie, d’histoires et d’actualités. Partagez votre talent avec nous et nous lui donnerons le meilleur traitement possible.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1996_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, hiver 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_8">
+          <span class="pr-2">Lettres à la Fraternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

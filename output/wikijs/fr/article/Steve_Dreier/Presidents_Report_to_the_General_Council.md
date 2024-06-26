@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Steve Dreier<br>© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/News_from_Colombia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouvelles de Colombie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="pr-2">La Fellowship est maintenant sur le WWW</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Steve Dreier
@@ -120,3 +144,28 @@ Recherchez cette édition du _Le Livre d’Urantia_ dans votre librairie locale.
 
 [^1] Note d’Urantiapedia : À propos de la politique d’Urantiapedia concernant le système de référencement du _Le Livre d’Urantia_, consultez [notre documentation sur ce sujet](/fr/help/links#syst%C3%A8me-de-r%C3%A9f%C3%A9rence-mondial-unique-pour-le-livre-durantia).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/News_from_Colombia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouvelles de Colombie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="pr-2">La Fellowship est maintenant sur le WWW</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

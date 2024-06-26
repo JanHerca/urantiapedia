@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Janet_Farrington_and_Keith_Graham/Children_In_The_Urantia_Movement">
+          <span class="pr-2">Les enfants dans le mouvement Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Numéro 3. Pour les lecteurs du _Le Livre d’Urantia_. décembre 1992
@@ -55,3 +76,25 @@ Les documents écrits, les illustrations, les petites annonces, les avis ou les 
 
 Le comité consultatif de rédaction du STUDY GROUP HERALD : Leonard D. Massey (comité d’éducation) Melissa Wells (comité des publications), Mo Siegel (comité de vulgarisation nationale). Rédacteur en chef : Martin Greenhut. Directeur artistique : Georges Lallas. Rédactrices associées : Janet Farrington (Family Life), Adrienne Jarnagin (Classified, Bulletin Board et Calendar of Events). Typographie de Dan Ellis, AccuComp. Rédacteurs en chef : Allen Collins (bandes dessinées), Brent St Denis (Lighten Life News), Cece Forrester (périodiques du mouvement), David Glass (social), Mark Kulieke (des archives), Michael S. Smith (jeunes lecteurs), Chilufya M.K. Thompson (lecteurs internationaux), Stephen Zendt (courants ascendants). Autres contributeurs à ce numéro : Gwen Wenzel, Francyl Gawryn, Parrick Yesh, Jill Hull, Judith Dubuc, les auteurs de lettres de partout sur Urantia : John Hyde, Marta et David Elders, et Dianna Padgett. Relecteurs : Lynn Ellis, Beth Bartley, Mary Anne Uranowski. Dactylographie : Isaac Greenhut.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Janet_Farrington_and_Keith_Graham/Children_In_The_Urantia_Movement">
+          <span class="pr-2">Les enfants dans le mouvement Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

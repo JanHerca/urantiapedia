@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites annonces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/A_Prayer_for_Community_and_Love">
+          <span class="pr-2">Une prière pour la communauté et l’amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Les avis sont publiés gratuitement sous réserve de la discrétion de la rédaction. Écrivez au babillard STUDY GROUP HERALD, 529 Wrightroood Avenue, Chicago, IL 60614._
@@ -33,3 +57,28 @@ _Les avis sont publiés gratuitement sous réserve de la discrétion de la réda
 
 **À LA RECHERCHE D’UNE FAMILLE D’ÉCOLE À MAISON TERRE-À-TERRE** pour partager notre terre dans les montagnes du nord du Nouveau-Mexique et nous aider à démarrer un petit camp pour servir les adolescents dans le besoin. Préférez les gens ayant une compréhension du _Le Livre d’Urantia_, orientés vers le service et en contact avec le monde naturel. Contactez Mary Steigerwald, C.P. Boîte 16, Ojo Sarco, NM 87550.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Classifieds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Petites annonces</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/A_Prayer_for_Community_and_Love">
+          <span class="pr-2">Une prière pour la communauté et l’amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

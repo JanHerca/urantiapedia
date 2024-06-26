@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carolyn Kendall<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC'96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Calendar_2">
+          <span class="pr-2">Calendrier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Carolyn Kendall
@@ -47,3 +71,28 @@ Renn est né à Crystal Lake, dans l’Illinois et était membre des églises pr
 
 Elle laisse une fille, Betty MacDonald d’Albuquerque, Nouveau-Mexique et six petits-enfants. Elle est décédée avant son mari Leroy (décédé en 1950), son fils Richard (décédé en 1970) et sa petite-fille Corlin Renn Sherwood (décédée en 1993).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC96">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC'96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#printemps/été-1996-vol-6-n°7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps/Été 1996 — Vol. 6 n°7 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Calendar_2">
+          <span class="pr-2">Calendrier</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

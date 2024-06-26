@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Melissa Wells<br>© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus - L’homme, le héros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Bain/Two_Prayer_Poems">
+          <span class="pr-2">Deux poèmes de prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Par Mélissa Wells**
@@ -78,3 +102,28 @@ Je l’ai prié : « Puisque je ne peux pas échapper à ce problème, je vais y
 
 > « Quand ils eurent l’occasion de mettre à l’épreuve les promesses du Maitre, ils constatèrent qu’elles étaient vraies. Et, depuis ce jour, un nombre incalculable de personnes ont aussi mis à l’épreuve et prouvé la fiabilité de ces mêmes promesses. » ([LU 163:6.8](/fr/The_Urantia_Book/163#p6_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_James_F_Kelly/Jesus_The_Man_The_Hero">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus - L’homme, le héros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Bain/Two_Prayer_Poems">
+          <span class="pr-2">Deux poèmes de prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

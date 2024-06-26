@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dan Massey<br>© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essai photo IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="pr-2">Trois R : relation, religion et révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Dan Massey
@@ -46,3 +70,28 @@ Les informations d’inscription seront envoyées par courrier au début du prin
 
 Pour plus d’informations, contactez la Fellowship, 529 Wrightwood Avenue, Chicago, IL 60614, (773) 327-0424, (773) 327-6159 Fax.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Essai photo IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Massey/Three_Rs_Relationship_Religion_and_Revelation">
+          <span class="pr-2">Trois R : relation, religion et révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

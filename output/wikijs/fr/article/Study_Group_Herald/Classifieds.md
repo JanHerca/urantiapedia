@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Avec l’approbation de l’équipe éditoriale et moyennant la contrepartie d’un don de 20,00 $ au STUDY GROUP HERALD, un pouce de colonne de cette section classifiée sera mis à votre disposition pour vos avis. La taille maximale des avis est de 2 &frac12; pouces. Soumettez tous les avis de dons à The Study Group Herald, 529 Wrightwood Avenue, Chicago IL 60614. Faites les chèques à l’ordre de The FELLOWSHIP._
@@ -49,3 +73,28 @@ _Le STUDY GROUP HERALD n’accepte aucune responsabilité pour les produits ou s
 
 **MAINTENANT DISPONIBLE. NAISSANCE D’UNE RÉVÉLATION**, L’histoire des Cahiers d’Urantia Par Mark Kulieke. Contactez Mark par téléphone (414) 465-9864 ou envoyez 6,25 $ à Mark Kulieke, P.O. Boîte postale 9343, Green Bay, WI 54308-9343.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des lettres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Bulletin_Board">
+          <span class="pr-2">Tableau d’affichage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

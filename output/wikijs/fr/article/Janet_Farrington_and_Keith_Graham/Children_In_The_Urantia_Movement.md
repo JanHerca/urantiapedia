@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Janet Farrington et Keith Graham<br>© 1992 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1992_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, décembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Excerpts_from_the_letters">
+          <span class="pr-2">Extraits des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Janet Farrington et Keith Graham, Brier, Washington_
@@ -121,3 +145,28 @@ Il y a eu 37 réponses N/A (47\%), certaines accompagnées du commentaire « J'a
 > - 82 % des répondants ont déclaré que la Fraternité devrait s'intéresser à l’éducation spirituelle des enfants.
 > - 56 % ont déclaré qu'ils utiliseraient du matériel pour enfants s'il était disponible
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Issue_Content_1992_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Study Group Herald — Contenu du numéro, décembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Excerpts_from_the_letters">
+          <span class="pr-2">Extraits des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

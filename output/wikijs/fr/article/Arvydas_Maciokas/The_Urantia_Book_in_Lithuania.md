@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Arvydas Maciokas<br>© 1997 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Earlene_Green/Were_All_Connected">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nous sommes tous connectés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="pr-2">Essai photo IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Arvydas Maciokas, Ph.D.
@@ -89,3 +113,28 @@ Une caractéristique très précieuse de ce livre est qu'il introduit de nombreu
 
 Nous sommes heureux qu'un tel livre nous ait été donné grâce à la révélation et que la révélation ait eu lieu en Amérique ; c'est la seule nation libre ayant le sens raisonnable d’accepter cet enseignement global et de le diffuser dans le monde entier.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Earlene_Green/Were_All_Connected">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nous sommes tous connectés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC_96_Photo_Essay">
+          <span class="pr-2">Essai photo IC 96</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
