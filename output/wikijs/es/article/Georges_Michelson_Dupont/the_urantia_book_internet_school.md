@@ -104,7 +104,7 @@ Me gustaría terminar con unos pensamientos profundamente inspiradores que nuest
 
 <br style="clear:both;"/>
 
-> «En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto? Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida.» <a id="a104_332"></a>[[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
+> «En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto? Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida.» <a id="a106_332"></a>[[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
 
 Muchas gracias por su atención.
 Georges Michelson-DuPont

@@ -93,7 +93,7 @@ Jesús nunca le contó a la familia lo que le sucedió a Judas durante su visita
 <img src="/image/article/Study_Group_Herald/Jesus_Judas2.jpg">
 </figure>
 
-> Nota del Editor: Esta historia es de El Libro de Urantia: [LU 128:6.5-8](/es/The_Urantia_Book/128#p6_5)
+> Nota del Editor: Esta historia es de El Libro de Urantia: <a id="a95_60"></a>[LU 128:6.5-8](/es/The_Urantia_Book/128#p6_5)
 {.is-info}
 
 <figure class="table chapter-navigator">

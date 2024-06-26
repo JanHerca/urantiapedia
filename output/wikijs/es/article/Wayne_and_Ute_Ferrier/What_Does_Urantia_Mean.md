@@ -128,10 +128,10 @@ Lectura recomendada del Libro de Urantia: [Documentos 66](/es/The_Urantia_Book/6
 
 ## Notas
 
-[^1]: _El libro de Urantia_. Chicago: Fundación Urantia, 1955; [LU 77:3.1](/es/The_Urantia_Book/77#p3_1).
+[^1]: _El libro de Urantia_. Chicago: Fundación Urantia, 1955; <a id="a130_63"></a>[LU 77:3.1](/es/The_Urantia_Book/77#p3_1).
 [^2]: La Biblia. [Génesis, capítulo 11](/es/Bible/Genesis/11).
-[^3]: _El libro de Urantia_; [LU 77:4.1](/es/The_Urantia_Book/77#p4_1).
-[^4]: _El libro de Urantia_; [LU 77:4.10](/es/The_Urantia_Book/77#p4_10).
+[^3]: _El libro de Urantia_; <a id="a132_29"></a>[LU 77:4.1](/es/The_Urantia_Book/77#p4_1).
+[^4]: _El libro de Urantia_; <a id="a133_29"></a>[LU 77:4.10](/es/The_Urantia_Book/77#p4_10).
 [^5]: Friedrich, Johannes. _Lenguas extintas_. Westport, Connecticut: Editores de Greenwood Press, 1957; pág. 37-38.
-[^6]: _El libro de Urantia_; [LU 77:4.8](/es/The_Urantia_Book/77#p4_8).
+[^6]: _El libro de Urantia_; <a id="a135_29"></a>[LU 77:4.8](/es/The_Urantia_Book/77#p4_8).
 [^7]: Margueron, Jean-Claude. Mesopotamia. Cleveland: Compañía Editorial Mundial, 1965; pág. 180.

@@ -75,7 +75,7 @@ Adjuntos:
 
 ## Última página
 
-> Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. ([LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
+> Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. (<a id="a77_244"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
 
 
 <figure id="Figure_2" class="image urantiapedia">

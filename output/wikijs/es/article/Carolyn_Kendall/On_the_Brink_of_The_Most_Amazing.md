@@ -281,11 +281,11 @@ El *Libro de Urantia* ha tenido un número considerable de lectores entre las es
 
 Celebridades de la televisión y el cine han llamado o visitado a lo largo de los años, comenzando con Lew «Dr. Kildare» Ayers en 1956, que emocionó a la entonces secretaria general, Marian Rowley. Mantuvieron correspondencia durante varios años. Algunos artistas han mencionado en entrevistas que leyeron el libro, pero la mayoría parece preferir que sus nombres no se usen como un incentivo para que otros lean el libro.
 
-> *«Durante todo el viaje hacia el Paraíso, siempre habrá tiempo para el descanso y la diversión espiritual; y en la carrera de luz y de vida siempre hay tiempo para la adoración y los nuevos logros.»* (<a id="a284_203"></a>[LU 25:7.2](/es/The_Urantia_Book/25#p7_2))
+> *«Durante todo el viaje hacia el Paraíso, siempre habrá tiempo para el descanso y la diversión espiritual; y en la carrera de luz y de vida siempre hay tiempo para la adoración y los nuevos logros.»* (<a id="a283_203"></a>[LU 25:7.2](/es/The_Urantia_Book/25#p7_2))
 
 
 > **Proclamando el Renacimiento Espiritual Venidero en la Radio**
-> _«La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba;»_ (<a id="a288_289"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
+> _«La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba;»_ (<a id="a287_289"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
 
 > Antes de la generación de polémica entre la comunidad de lectores en 1983 con sus predicciones del estallido de la Tercera Guerra Mundial, Vern Grimsley se había establecido como el principal locutor de radio del enseñanzas de Jesús según *El Libro de Urantia*. Como había acordado con el Dr. William Sadler y Christy, Vern no mencionó *El Libro de Urantia* en sus transmisiones y simplemente proclamó la Paternidad de Dios y la Hermandad del Hombre, así como el renacimiento espiritual venidero en este planeta.
 > 

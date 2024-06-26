@@ -242,7 +242,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. **Creación**. «En el principio creó Dios los cielos y la tierra». [1:1](/es/Bible/Genesis/1#v1).
 2. **Imagen de Dios**. «Entonces dijo Dios: ‘Hagamos al hombre a nuestra imagen’.» [1:26](/es/Bible/Genesis/1#v26).
-3. **Voz en el Jardín**. «Y llamó Jehová Dios al hombre, y le dijo: ‘¿Dónde estás?’» [3:9](/es/Bible/Genesis/3#v9). (Ver Libro de Urantia <a id="s244_145"></a><a id="s244_159"></a>[LU 75:4.8](/es/The_Urantia_Book/75#p4_8).)
+3. **Voz en el Jardín**. «Y llamó Jehová Dios al hombre, y le dijo: ‘¿Dónde estás?’» [3:9](/es/Bible/Genesis/3#v9). (Ver Libro de Urantia <a id="s244_138"></a>[LU 75:4.8](/es/The_Urantia_Book/75#p4_8).)
 4. **La maldición**. «Con el sudor de tu frente comerás el pan». [3:19](/es/Bible/Genesis/3#v19).
 5. **Guardián del hermano**. «Entonces el Señor dijo a Caín: ‘¿Dónde está Abel tu hermano?’ Él dijo: ‘No sé; ¿soy yo guardián de mi hermano?’» [4:9](/es/Bible/Genesis/4#v9).
 6. **Traducción de Enoc**. «Enoc caminó con Dios, y desapareció, porque Dios se lo llevó». [5:24](/es/Bible/Genesis/5#v24).

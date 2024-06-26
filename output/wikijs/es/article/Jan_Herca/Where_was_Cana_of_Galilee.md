@@ -114,7 +114,7 @@ Pero, ¿significa esto que hemos descubierto la casa en cuestión? Estas vasijas
 
 ## ¿Qué dice _El Libro de Urantia_?
 
-_El Libro de Urantia_ realiza varias menciones a Caná, pero de ninguna de ellas se consigue descifrar cuál es la posición de la localidad. Tan sólo podemos observar que Jesús viaja desde Cafarnaúm a Caná con parte de su familia en un sólo día. Sin embargo, esto no nos dice mucho. Prácticamente todos los enclaves estaban a menos de un día de Cafarnaúm, aunque el que está especialmente cerca es Khirbet Kana (véase [LU 137:3](/es/The_Urantia_Book/137#p3_1)).
+_El Libro de Urantia_ realiza varias menciones a Caná, pero de ninguna de ellas se consigue descifrar cuál es la posición de la localidad. Tan sólo podemos observar que Jesús viaja desde Cafarnaúm a Caná con parte de su familia en un sólo día. Sin embargo, esto no nos dice mucho. Prácticamente todos los enclaves estaban a menos de un día de Cafarnaúm, aunque el que está especialmente cerca es Khirbet Kana (véase <a id="a116_416"></a>[LU 137:3](/es/The_Urantia_Book/137#p3_1)).
 
 Por tanto, ¿por cuál decantarse?
 

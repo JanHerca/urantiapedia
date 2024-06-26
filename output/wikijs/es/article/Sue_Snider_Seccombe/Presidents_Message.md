@@ -22,7 +22,7 @@ Estamos hechos con un dispositivo de localización incorporado que, si no seguim
 
 <br style="clear:both;"/>
 
-> La atracción de la gravedad espiritual del Hijo Eterno constituye el secreto inherente a la ascensión al Paraíso de las almas humanas sobrevivientes. ... El circuito de la gravedad espiritual tira literalmente del alma del hombre hacia el Paraíso. ([LU 7:3.2](/es/The_Urantia_Book/7#p3_2))
+> La atracción de la gravedad espiritual del Hijo Eterno constituye el secreto inherente a la ascensión al Paraíso de las almas humanas sobrevivientes. ... El circuito de la gravedad espiritual tira literalmente del alma del hombre hacia el Paraíso. (<a id="a24_251"></a>[LU 7:3.2](/es/The_Urantia_Book/7#p3_2))
 
 La asociación con Dios es irresistible. Tenemos una hambre innata de estar en sintonía con el plan divino. Nuestro GPS, especialmente en Urantia, a menudo está «recalculando».
 
@@ -36,7 +36,7 @@ Animo a todos los que sienten la atracción del Paraíso a reflejar activamente 
 
 A menudo he escuchado a miembros de nuestra comunidad decir que están a favor de la unidad espiritual, no de la uniformidad. Creo que todos podemos estar de acuerdo en esto: ninguno de nosotros está a favor de la uniformidad espiritual, ni siquiera organizativa. Me viene a la mente una imagen de clones insípidos, o chatbots andantes desprovistos de personalidad y pensamiento original. . . todo lo contrario de las infinitamente diversas formas de vida y personalidades que seguramente seguiremos encontrando durante todo el camino al Paraíso. La diversidad es tan fundamental para la creación como la unidad.
 
-> Captáis un poco la filosofía, y comprendéis a la divinidad en la adoración, el servicio social y la experiencia espiritual personal, pero la búsqueda de la belleza —la cosmología— la limitáis con demasiada frecuencia al estudio de los rudimentarios esfuerzos artísticos del hombre. La belleza, el arte, es sobre todo **una cuestión de unificación de contrastes**. La variedad es esencial para el concepto de la belleza. ([LU 56:10.3](/es/The_Urantia_Book/56#p10_3))
+> Captáis un poco la filosofía, y comprendéis a la divinidad en la adoración, el servicio social y la experiencia espiritual personal, pero la búsqueda de la belleza —la cosmología— la limitáis con demasiada frecuencia al estudio de los rudimentarios esfuerzos artísticos del hombre. La belleza, el arte, es sobre todo **una cuestión de unificación de contrastes**. La variedad es esencial para el concepto de la belleza. (<a id="a38_423"></a>[LU 56:10.3](/es/The_Urantia_Book/56#p10_3))
 
 Sabemos que la variedad es esencial, pero a veces (quizás a menudo) nos cuesta aceptar nuestras diferencias, y mucho menos verlas como activos que pueden ampliar nuestras perspectivas y aportar equilibrio y conocimiento a nuestro pensamiento.
 
@@ -47,7 +47,7 @@ Forjar sistemas sociales nuevos, más fuertes y hermosos a partir de la unificac
 <figcaption><em>Contrastes en la noche (azul y naranja)</em> de Paul Klee</figcaption>
 </figure>
 
-> «Vuestra unidad espiritual implica dos factores, que siempre se armonizarán en la vida de los creyentes individuales: En primer lugar, poseéis un motivo común para una vida de servicio; todos deseáis por encima de todo hacer la voluntad del Padre que está en los cielos. Y en segundo lugar, todos tenéis una meta común en la existencia; todos os proponéis encontrar al Padre que está en los cielos, mostrando así al universo que os habéis vuelto como él». ([LU 141:5.3](/es/The_Urantia_Book/141#p5_3))
+> «Vuestra unidad espiritual implica dos factores, que siempre se armonizarán en la vida de los creyentes individuales: En primer lugar, poseéis un motivo común para una vida de servicio; todos deseáis por encima de todo hacer la voluntad del Padre que está en los cielos. Y en segundo lugar, todos tenéis una meta común en la existencia; todos os proponéis encontrar al Padre que está en los cielos, mostrando así al universo que os habéis vuelto como él». (<a id="a49_459"></a>[LU 141:5.3](/es/The_Urantia_Book/141#p5_3))
 
 ## Referencias
 

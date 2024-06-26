@@ -63,7 +63,7 @@ Asegúrese de ver su hermosa actuación en el Parlamento de las Religiones del M
 
 https://www.youtube.com/watch?v=NurBEzUap5o
 
-> «Dedica tu vida a demostrar que el amor es la cosa más grande del mundo». <a id="a63_76"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
+> «Dedica tu vida a demostrar que el amor es la cosa más grande del mundo». <a id="a65_76"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
 
 Para obtener más información, visite: www.patobanton.com y www.facebook.com/groups/patobantonsspiritualfamily
 

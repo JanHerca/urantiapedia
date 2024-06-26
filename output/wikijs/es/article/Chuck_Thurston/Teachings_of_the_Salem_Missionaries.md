@@ -193,7 +193,7 @@ Creo que también es interesante ver que muchas de estas ideas reaparecen en las
 
 > «.... Y es un misterio cómo el Supremo consigue nutrir, proteger y perfeccionar a las criaturas sin obligarlas. Guía y dirige, pero sin imponerse. Favorece el progreso, pero sin oprimir.» <a id="a193_190"></a>[[LU 131:8.3](/es/The_Urantia_Book/131#p8_3)]
 
-> «... Es sabio el hombre que considera todas las partes desde el punto de vista de la totalidad....» [[LU 131:8.4](/es/The_Urantia_Book/131#p8_4)]
+> «... Es sabio el hombre que considera todas las partes desde el punto de vista de la totalidad....» <a id="a195_102"></a>[[LU 131:8.4](/es/The_Urantia_Book/131#p8_4)]
 
 > «... No podéis encontrar al Supremo, ni ir a un lugar donde no se encuentre...» <a id="a197_82"></a>[[LU 131:8.5](/es/The_Urantia_Book/131#p8_5)]
 

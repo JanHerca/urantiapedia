@@ -236,7 +236,7 @@ Hay algunas cosas que el dinero no puede comprar.
 
 > Otras muchas personas buscaban la curación por motivos totalmente egoístas. Una rica viuda de Tiro vino con su séquito buscando la curación de sus numerosas enfermedades; a medida que seguía a Jesús por toda Galilea, continuó ofreciéndole cada vez más dinero, como si el poder de Dios fuera algo que se pudiera vender al mejor postor. Pero ella nunca llegó a interesarse por el evangelio del reino; sólo buscaba la curación de sus dolencias físicas. (<a id="s236_453"></a>[LU 149:1.9](/es/The_Urantia_Book/149#p1_9))
 
-La ira es como una piedra arrojada al avispero. (<a id="s238_52"></a><a id="s238_69"></a>[LU 48:7.20](/es/The_Urantia_Book/48#p7_20))
+La ira es como una piedra arrojada al avispero. (<a id="s238_49"></a>[LU 48:7.20](/es/The_Urantia_Book/48#p7_20))
 
 > _«La ira es una manifestación material que representa, de una manera general, la medida en que la naturaleza espiritual no ha logrado dominar las naturalezas intelectual y física combinadas. La ira indica vuestra falta de amor fraternal tolerante, más vuestra falta de dignidad y de autocontrol. La ira merma la salud, envilece la mente, y obstaculiza al instructor espiritual del alma del hombre._ (<a id="s240_402"></a>[LU 149:4.2](/es/The_Urantia_Book/149#p4_2))
 

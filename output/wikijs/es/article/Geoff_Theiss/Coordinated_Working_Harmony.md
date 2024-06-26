@@ -22,7 +22,7 @@ En cambio, tenemos el desafío de vigorizarnos ante las dificultades y mostrar v
 
 No es una tarea fácil.
 
-En _El Libro de Urantia_ se nos recuerda cómo «Un grupo social de seres humanos en armonía y trabajo coordinado representa una fuerza mucho mayor que la simple suma de sus partes». ([LU 133:5.6](/es/The_Urantia_Book/133#p5_6)) La armonía de nuestros esfuerzos juntos _exige_ coordinación. _Requiere_ trabajo. Y ese esfuerzo sostenido te necesita.
+En _El Libro de Urantia_ se nos recuerda cómo «Un grupo social de seres humanos en armonía y trabajo coordinado representa una fuerza mucho mayor que la simple suma de sus partes». (<a id="a24_182"></a>[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)) La armonía de nuestros esfuerzos juntos _exige_ coordinación. _Requiere_ trabajo. Y ese esfuerzo sostenido te necesita.
 
 La Fellowship del Libro de Urantia (también conocida como la Comunidad) invierte importantes recursos en trabajar a través de todas las fronteras (internacionales y organizativas) para esforzarse por alcanzar los valores más elevados de colaboración eficaz. Necesitamos su apoyo para aprovechar estas increíbles oportunidades y desarrollar aún más nuestras asociaciones dentro del movimiento más amplio del Libro de Urantia, con los siguientes objetivos compartidos para 2024:
 
