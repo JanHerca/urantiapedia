@@ -53,7 +53,7 @@ Les Porteurs de Vie ont apporté un modèle évolutif à notre planète, un mond
 
 Ma propre expérience d’étude de PATTERN avec des amis a ouvert la voie à des concepts nouveaux et stimulants de réalité évolutive et de symétrie spirituelle.
 
-Un indice important que nous donnent les révélateurs, alors que nous luttons avec la physique théorique, la relativité espace-temps et la mécanique quantique, est la remarque qui apparaît dans le fascicule 42, section 1 « Énergie, esprit et matière », « _L'ultimaton, le première forme d'énergie mesurable, a le Paradis comme noyau._ » <a id="a31_336"></a>[[LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)] Ils semblent dire que le Paradis imprègne toute réalité matérielle. Son motif imprègne tout l’espace et le temps.
+Un indice important que nous donnent les révélateurs, alors que nous luttons avec la physique théorique, la relativité espace-temps et la mécanique quantique, est la remarque qui apparaît dans le fascicule 42, section 1 « Énergie, esprit et matière », « _L'ultimaton, le première forme d'énergie mesurable, a le Paradis comme noyau._ » <a id="a55_336"></a>[[LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)] Ils semblent dire que le Paradis imprègne toute réalité matérielle. Son motif imprègne tout l’espace et le temps.
 
 Notre place dans l’ordre de notre univers local est assurée grâce au septième don de notre Fils Créateur ici sur notre monde. Nous sommes devenus « le lieu où cela s’est produit ». Urantia est le sanctuaire sentimental de tout Nébadon, comme on nous le dit. Le modèle apparaît dans l'accomplissement de la souveraineté suprême pour notre Fils Créateur, qui a connu sept effusions en tant que divers êtres créés au sein de son univers, culminant dans la vie humaine de Josué ben Joseph, Jésus de Nazareth.
 

@@ -42,9 +42,9 @@ _par Gard Jameson_
 
 Il y a très peu de phrases dans _Le Livre d'Urantia_ qui contiennent seulement trois mots.
 
-Dans quatorze citations, nous entendons : ** « Dieu est amour. »** Dans le « Fascicule 56, Unité universelle », nous est dit par « un puissant messager ». . . , _à la demande_ du Corps Révélateur de Nébadon et _en collaboration avec_ un certain Melchisédek, _le prince planétaire vice-gérant d'Urantia_ » dans l'ouverture de l'article : **« Dieu est unité. »** (c'est nous qui soulignons, <a id="a20_389"></a>[LU 56:10.22](/fr/The_Urantia_Book/56#p10_22))
+Dans quatorze citations, nous entendons : ** « Dieu est amour. »** Dans le « Fascicule 56, Unité universelle », nous est dit par « un puissant messager ». . . , _à la demande_ du Corps Révélateur de Nébadon et _en collaboration avec_ un certain Melchisédek, _le prince planétaire vice-gérant d'Urantia_ » dans l'ouverture de l'article : **« Dieu est unité. »** (c'est nous qui soulignons, <a id="a44_389"></a>[LU 56:10.22](/fr/The_Urantia_Book/56#p10_22))
 
-Dans le « Fascicule 115, L'Être Suprême », nous entendons un Puissant Messager, peut-être le même : « Tandis que l'infini est d'un côté l'**UNITÉ**, de l'autre c'est la **DIVERSITÉ** sans fin ni limite." (<a id="a22_205"></a>[LU 115:3.4](/fr/The_Urantia_Book/115#p3_4)) Ces mots « UNITÉ » et « DIVERSITÉ » ont été mis en majuscule par la direction de la commission révélatrice.
+Dans le « Fascicule 115, L'Être Suprême », nous entendons un Puissant Messager, peut-être le même : « Tandis que l'infini est d'un côté l'**UNITÉ**, de l'autre c'est la **DIVERSITÉ** sans fin ni limite." (<a id="a46_205"></a>[LU 115:3.4](/fr/The_Urantia_Book/115#p3_4)) Ces mots « UNITÉ » et « DIVERSITÉ » ont été mis en majuscule par la direction de la commission révélatrice.
 
 Le message ne pourrait pas être plus clair : les réalités divines recherchent de plus grands degrés d’UNITÉ.
 

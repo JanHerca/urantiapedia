@@ -47,7 +47,7 @@ Qu’y a-t-il de si spécial dans ce que frère Laurence a fait ? Il semble avoi
 
 Les écrits de frère Laurence sont très simples comparés aux passages du _Livre d’Urantia_, mais ils ont touché tant d’esprits et de cœurs parce qu’il était une expérience vivante de la présence de Dieu dans tout ce qu’il faisait. Beaucoup de choses qu’il a dites ne sont pas très différentes de certaines déclarations du livre. Par exemple tiré du _Le Livre d'Urantia_ : 
 
-> Ceux qui connaissent Dieu ont expérimenté le fait de sa présence. Ces mortels connaissant Dieu possèdent, dans leur expérience personnelle, la seule preuve positive de l’existence du Dieu vivant qu’un être humain puisse offrir à un autre. L’existence de Dieu dépasse complètement toute possibilité de démonstration, si ce n’est par le contact entre la conscience de Dieu dans le mental humain et la présence de Dieu de l’Ajusteur de Pensée qui habite l’intellect mortel et qui est effusé sur l’homme à titre de don gratuit du Père Universel. (<a id="a25_545"></a>[LU 1:2.8](/fr/The_Urantia_Book/1#p2_8))
+> Ceux qui connaissent Dieu ont expérimenté le fait de sa présence. Ces mortels connaissant Dieu possèdent, dans leur expérience personnelle, la seule preuve positive de l’existence du Dieu vivant qu’un être humain puisse offrir à un autre. L’existence de Dieu dépasse complètement toute possibilité de démonstration, si ce n’est par le contact entre la conscience de Dieu dans le mental humain et la présence de Dieu de l’Ajusteur de Pensée qui habite l’intellect mortel et qui est effusé sur l’homme à titre de don gratuit du Père Universel. (<a id="a49_545"></a>[LU 1:2.8](/fr/The_Urantia_Book/1#p2_8))
 
 Notez cette différence de délivrance de la part du Frère Laurence : 
 
@@ -55,13 +55,13 @@ Notez cette différence de délivrance de la part du Frère Laurence :
 
 Voici une autre comparaison tirée du _Livre d'Urantia_ : 
 
-> « La prière ... est un débordement spontané de conscience de Dieu. » (<a id="a33_72"></a>[LU 91:8.10](/fr/The_Urantia_Book/91#p8_10))
+> « La prière ... est un débordement spontané de conscience de Dieu. » (<a id="a57_72"></a>[LU 91:8.10](/fr/The_Urantia_Book/91#p8_10))
 
 Et du frère Laurence : « Mes prières ne sont rien d'autre qu'un sentiment de la présence de Dieu ». 
 
 Frère Laurence dit aussi : « Je suis plus uni à Dieu dans mes emplois extérieurs que lorsque je les quitte pour le dévouement et la retraite. » 
 
-Comparez cela avec cette citation du Livre d'Urantia : « Le contact du mental mortel avec son Ajusteur intérieur, bien que souvent favorisé par une méditation dévouée, est plus fréquemment facilité par un service sincère et aimant dans un ministère désintéressé envers ses semblables. » <a id="a39_287"></a>[[LU 91:7.1](/fr/The_Urantia_Book/91#p7_1)]
+Comparez cela avec cette citation du Livre d'Urantia : « Le contact du mental mortel avec son Ajusteur intérieur, bien que souvent favorisé par une méditation dévouée, est plus fréquemment facilité par un service sincère et aimant dans un ministère désintéressé envers ses semblables. » <a id="a63_287"></a>[[LU 91:7.1](/fr/The_Urantia_Book/91#p7_1)]
 
 _Le Livre d'Urantia_ nous dit que nous serons connus par notre exemple de vie des fruits de l'esprit. Voici une observation du frère Laurence écrite par quelqu'un qui l'a connu : 
 
@@ -79,7 +79,7 @@ Beaucoup de ses déclarations reflètent certaines du _Livre d'Urantia_. Par exe
 
 Extrait du _Le Livre d'Urantia_ : 
 
-> On ne peut obtenir un poussin sans coquille d’œuf, et nulle coquille n’a de valeur après l’éclosion du poussin. (<a id="a57_115"></a>[LU 48:6.32](/fr/The_Urantia_Book/48#p6_32))
+> On ne peut obtenir un poussin sans coquille d’œuf, et nulle coquille n’a de valeur après l’éclosion du poussin. (<a id="a81_115"></a>[LU 48:6.32](/fr/The_Urantia_Book/48#p6_32))
 
 Frère Laurence indique à un moment donné que quelques-uns de ses associés pensaient qu'il devenait peut-être trop mystique avec ces exercices. Les deux hommes ont été accusés d’être mystiques, mais ils ont pourtant mené leur vie avec succès, avec beaucoup de joie et de foi. En fait, frère Laurence a ri lorsqu’on l’a accusé d’être un mystique. Il a dit : « Comment quelqu’un qui croit en Jésus peut-il ne pas être un mystique ? » 
 
@@ -99,7 +99,7 @@ J’ai découvert que nous pouvons nous établir dans un sens de la présence de
 
 Et plus tard dans ses efforts : 
 
-> « Habituellement, vous ne ressentirez aucune émotion profonde, mais vous ressentirez toujours une « paix qui dépasse toute compréhension ». Vous vous souvenez de cette déclaration du _Le Livre d'Urantia_ ? « _La véritable extase spirituelle est généralement associée à un grand calme extérieur et à un contrôle émotionnel presque parfait._ » » (<a id="a77_347"></a>[LU 91:7.3](/fr/The_Urantia_Book/91#p7_3))
+> « Habituellement, vous ne ressentirez aucune émotion profonde, mais vous ressentirez toujours une « paix qui dépasse toute compréhension ». Vous vous souvenez de cette déclaration du _Le Livre d'Urantia_ ? « _La véritable extase spirituelle est généralement associée à un grand calme extérieur et à un contrôle émotionnel presque parfait._ » » (<a id="a101_347"></a>[LU 91:7.3](/fr/The_Urantia_Book/91#p7_3))
 
 Après presque deux ans d'efforts constants, Frank Laubach a écrit ceci dans son journal : 
 
@@ -109,7 +109,7 @@ Cette pratique simple ne nécessite qu’une légère pression de la volonté, p
 
 Pourtant, cela transforme la vie en paradis. Chacun acquiert une nouvelle richesse et le monde entier semble teinté de gloire. Bien sûr, je ne sais pas ce que les autres pensent de moi, mais la joie que j'ai en moi ne peut être décrite. S’il n’y avait jamais eu d’autre récompense que celle-là, cela justifierait largement cette pratique à mes yeux. 
 
-> Même, pour qu’un homme approche la connaissance d’une personnalité divine, il faut qu’il consacre totalement à cet effort tous les dons de personnalité dont il est nanti. Une dévotion partielle et sans enthousiasme sera inefficace. ... On peut discuter des opinions sur Dieu, mais l’expérience en lui et avec lui existe au-dessus et au-delà de toute controverse humaine et de la simple logique intellectuelle. <a id="a87_412"></a>[[LU 1:6.5-6](/fr/The_Urantia_Book/1#p6_5)]
+> Même, pour qu’un homme approche la connaissance d’une personnalité divine, il faut qu’il consacre totalement à cet effort tous les dons de personnalité dont il est nanti. Une dévotion partielle et sans enthousiasme sera inefficace. ... On peut discuter des opinions sur Dieu, mais l’expérience en lui et avec lui existe au-dessus et au-delà de toute controverse humaine et de la simple logique intellectuelle. <a id="a111_412"></a>[[LU 1:6.5-6](/fr/The_Urantia_Book/1#p6_5)]
 
 J'ai essayé de proposer quelques suggestions basées sur des expériences personnelles et celles d'amis. Ici, quelques définitions peuvent être nécessaires. Par exemple, la méditation est généralement comprise comme impliquant la réduction au silence de la pensée afin que l'Ajusteur puisse communiquer avec l'individu. Le processus suggéré par Frère Laurence et Frank Laubach, plutôt qu’un vide mental, est un remplissage conscient de l’esprit par la présence de Dieu. Chacun définit la méditation en fonction de la manière dont il l’exprime personnellement, y compris la conversation, de sorte que les attentes varient selon les individus. 
 

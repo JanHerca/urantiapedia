@@ -35,7 +35,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 
 
-> Une métaphore vivante pour «… le feu divin de la volonté de service» (<a id="a13_72"></a>[LU 48:6.34](/fr/The_Urantia_Book/48#p6_34))
+> Une métaphore vivante pour «… le feu divin de la volonté de service» (<a id="a37_72"></a>[LU 48:6.34](/fr/The_Urantia_Book/48#p6_34))
 
 _Remarque : Ce qui suit est un discours donné au Conseil général en 1995 et à la Conférence internationale du Fellowship, 2008. _
 
@@ -55,7 +55,7 @@ Je descendais jusqu'au fond de la poubelle, remontant la terre sèche ainsi que 
 
 Après qu’un enfant ait dit : « J’ai économisé plus que vous », à un autre enfant, j’ai dû les empêcher de se disputer pour savoir lequel avait sauvé le plus de vers. La joie ressentie dans l’espace de 4 pieds sur 4 pieds lorsqu’un ver comateux remuait après avoir été injecté était mesurable. Et pour couronner le tout, un garçon de maternelle plutôt sérieux a dit, avec un visage parfaitement impassible : « Ça sent le champagne ! et bien sûr, le fruit en fermentation avait une touche de cet arôme. 
 
-Alors, qu’est-ce que cette expérience de la corbeille à vers a à voir avec le service ? Je doute que cela entre dans la catégorie évoquée dans le Fascicule 131 : « _Toutes les bonnes œuvres de véritable service viennent du Suprême._ » <a id="a33_235"></a>[[LU 131:8.3](/fr/The_Urantia_Book/131#p8_3)] Mais je pense aussi que nos amis célestes ont un sens de l'humour merveilleux et enjoué et ont de vifs « capteurs de joie ». 
+Alors, qu’est-ce que cette expérience de la corbeille à vers a à voir avec le service ? Je doute que cela entre dans la catégorie évoquée dans le Fascicule 131 : « _Toutes les bonnes œuvres de véritable service viennent du Suprême._ » <a id="a57_235"></a>[[LU 131:8.3](/fr/The_Urantia_Book/131#p8_3)] Mais je pense aussi que nos amis célestes ont un sens de l'humour merveilleux et enjoué et ont de vifs « capteurs de joie ». 
 
 Nous lisons dans le Fascicule 48 de Morontia Life ce que les réserves pastorales peuvent faire pour les mortels ascendants : elles peuvent allumer « … _un feu divin de la volonté de service._ » Cette phrase a vraiment attiré l'attention de mon âme, car l'énergie nécessaire pour sauver les vers est devenu une métaphore de ce «… _feu divin de la volonté de service._» 
 

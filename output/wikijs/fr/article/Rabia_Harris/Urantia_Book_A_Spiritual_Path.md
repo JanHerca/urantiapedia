@@ -107,7 +107,7 @@ Il est peut-être temps de commencer à utiliser de nouveaux mots pour nos liens
 
 Toutes les citations du _Livre d'Urantia_ : 
 
-[^1]: <a id="a60_6"></a>[LU 19:2.6](/fr/The_Urantia_Book/19#p2_6) ; 
-[^2]: <a id="a61_6"></a>[LU 195:10.18](/fr/The_Urantia_Book/195#p10_18) ; 
-[^3]: <a id="a62_6"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) 
+[^1]: <a id="a109_6"></a>[LU 19:2.6](/fr/The_Urantia_Book/19#p2_6) ; 
+[^2]: <a id="a110_6"></a>[LU 195:10.18](/fr/The_Urantia_Book/195#p10_18) ; 
+[^3]: <a id="a111_6"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) 
 

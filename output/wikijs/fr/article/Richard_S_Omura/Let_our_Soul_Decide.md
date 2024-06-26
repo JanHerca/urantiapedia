@@ -55,15 +55,15 @@ Ce sont toutes des philosophies valables, vraies et applicables, mais elles ne s
 
 Une révélation très pragmatique, nouvelle et originale du livre est le concept global de l'origine, de la croissance et du destin de l'âme. De nombreux lecteurs du Livre d'Urantia avec lesquels j'ai parlé avaient une idée fausse de ce qu'est l'âme. J'ai parlé à des gens qui pensaient que l'âme était une page vierge sans volonté, juste un embryon attendant de naître dans les mondes des maisons. C'est comme un embryon, selon *Le Livre d'Urantia* mais il a une volonté et il peut prendre des décisions, bien qu'avec l'assentiment de l'esprit.
 
-> Dieu le Suprême est lui-même un participant volitif et créateur de l’actualisation de sa propre déité. D’une manière homologue, l’âme morontielle humaine est un partenaire **volitif, cocréateur de sa propre immortalisation**. (<a id="a33_229"></a>[LU 117:3.7](/fr/The_Urantia_Book/117#p3_7))
+> Dieu le Suprême est lui-même un participant volitif et créateur de l’actualisation de sa propre déité. D’une manière homologue, l’âme morontielle humaine est un partenaire **volitif, cocréateur de sa propre immortalisation**. (<a id="a57_229"></a>[LU 117:3.7](/fr/The_Urantia_Book/117#p3_7))
 
 L'âme est votre partenaire co-créatif ! Aussi,
 
-> « Durant la vie dans la chair, l’âme en évolution a la faculté de renforcer les décisions supramatérielles du mental humain. Étant supramatérielle, l’âme ne fonctionne pas par elle-même sur le niveau matériel de l’expérience humaine. » (<a id="a37_239"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
+> « Durant la vie dans la chair, l’âme en évolution a la faculté de renforcer les décisions supramatérielles du mental humain. Étant supramatérielle, l’âme ne fonctionne pas par elle-même sur le niveau matériel de l’expérience humaine. » (<a id="a61_239"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
 
 En d’autres termes, au niveau matériel de l’expérience humaine, l’âme renforce l’esprit lorsque celui-ci prend des décisions supramatérielles. Par décisions « supermatérielles », je pense qu’ils entendent les décisions qui ont un impact sur notre carrière d’ascension ; ces décisions qui créent de la valeur dans le Suprême. Et l’âme ne peut pas fonctionner toute seule sur le plan matériel. Alors, de quoi a-t-il besoin pour fonctionner ici ? L'esprit!
 
-> « Sans la collaboration d’un esprit de la Déité tel que l’Ajusteur, cette âme subspirituelle ne peut pas non plus fonctionner au-dessus du niveau morontiel. De même, l’âme ne prend pas de décisions finales avant que la mort ou le transfert n’ait rompu son association matérielle avec le mental mortel, à moins que ce mental matériel n’ait librement et volontairement délégué l’autorité nécessaire à son âme morontielle fonctionnellement associée. » (<a id="a41_452"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
+> « Sans la collaboration d’un esprit de la Déité tel que l’Ajusteur, cette âme subspirituelle ne peut pas non plus fonctionner au-dessus du niveau morontiel. De même, l’âme ne prend pas de décisions finales avant que la mort ou le transfert n’ait rompu son association matérielle avec le mental mortel, à moins que ce mental matériel n’ait librement et volontairement délégué l’autorité nécessaire à son âme morontielle fonctionnellement associée. » (<a id="a65_452"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
 
 Même avant la mort ou la translation, l’âme peut prendre des décisions finales si et quand l’esprit lui délègue librement cette autorité. J'ai réfléchi à ce qu'ils entendent par décisions « finales ». Je crois qu'il s'agit de décisions morales finales que nous ne pouvons pas « reprendre », c'est-à-dire de décisions morales qui engagent l'action.
 

@@ -59,9 +59,9 @@ Pour Jésus, le royaume des cieux est une réalité présente, ici et maintenant
 
 Jésus a enseigné que nous vivons en présence d'un Père aimant ; Paul a enseigné que nous vivons au milieu d’une force maléfique qui cherche à nous contrôler. 
 
-La réforme à venir ébranlera les fondements mêmes du christianisme car elle remplacera finalement la métaphysique morose de la mort de Paul par la solide révélation de la vie que Jésus a vécue et enseignée pendant son séjour mortel en tant que Fils de l'homme et Fils de Dieu. (<a id="a40_278"></a>[[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1)]) 
+La réforme à venir ébranlera les fondements mêmes du christianisme car elle remplacera finalement la métaphysique morose de la mort de Paul par la solide révélation de la vie que Jésus a vécue et enseignée pendant son séjour mortel en tant que Fils de l'homme et Fils de Dieu. (<a id="a61_278"></a>[[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1)]) 
 
-Jésus a dit : « Vous devez aller prêcher l’amour de Dieu et le service de l’homme. Ce que le monde a le plus besoin de savoir, c’est que les hommes sont les fils de Dieu et que, par la foi, ils peuvent effectivement réaliser cette vérité ennoblissante et en faire l’expérience quotidienne. (<a id="a42_291"></a>[[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)]) 
+Jésus a dit : « Vous devez aller prêcher l’amour de Dieu et le service de l’homme. Ce que le monde a le plus besoin de savoir, c’est que les hommes sont les fils de Dieu et que, par la foi, ils peuvent effectivement réaliser cette vérité ennoblissante et en faire l’expérience quotidienne. (<a id="a63_291"></a>[[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)]) 
 
 ## Références
 

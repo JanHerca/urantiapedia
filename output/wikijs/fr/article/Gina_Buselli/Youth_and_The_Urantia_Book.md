@@ -95,7 +95,7 @@ Enfin, j'espère embrasser d'autres individus qui se sentent peut-être trop vie
 {.is-info}
 
 
-> Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables. ... L’âme des hommes a besoin d’exercice spirituel aussi bien que de nourriture spirituelle. <a id="a73_344"></a>[[LU 91:7.1-2](/fr/The_Urantia_Book/91#p7_1)]
+> Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables. ... L’âme des hommes a besoin d’exercice spirituel aussi bien que de nourriture spirituelle. <a id="a97_344"></a>[[LU 91:7.1-2](/fr/The_Urantia_Book/91#p7_1)]
 
 
 

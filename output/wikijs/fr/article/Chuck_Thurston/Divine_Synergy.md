@@ -48,9 +48,9 @@ Même sans un mot communément compris pour le désigner, cette idée selon laqu
 
 Le partenariat entre notre Fils Créateur et notre Mère Esprit Créatrice en est clairement un exemple majeur. 
 
-> « À la tête de toute personnalité dans Nébadon se trouve le Créateur et Maître Fils, Micaël, le père et souverain de l'univers. L'Esprit Mère de l'univers local, le Divin Ministre de Salvington, est coordonné en divinité et complémentaire en attributs créatifs. <a id="a26_264"></a>[[LU 37:0.1](/fr/The_Urantia_Book/37#p0_1)] 
+> « À la tête de toute personnalité dans Nébadon se trouve le Créateur et Maître Fils, Micaël, le père et souverain de l'univers. L'Esprit Mère de l'univers local, le Divin Ministre de Salvington, est coordonné en divinité et complémentaire en attributs créatifs. <a id="a50_264"></a>[[LU 37:0.1](/fr/The_Urantia_Book/37#p0_1)] 
 > 
-> « De cet univers central est également née l'attribution des prérogatives personnelles de création qu'un ministre divin de l'univers utilise en complément d'un Fils Créateur dans le travail de création de créatures à volonté vivante. » <a id="a28_238"></a>[[LU 14:6.35](/fr/The_Urantia_Book/14#p6_35)] 
+> « De cet univers central est également née l'attribution des prérogatives personnelles de création qu'un ministre divin de l'univers utilise en complément d'un Fils Créateur dans le travail de création de créatures à volonté vivante. » <a id="a52_238"></a>[[LU 14:6.35](/fr/The_Urantia_Book/14#p6_35)] 
 
 Notre existence même en tant qu’êtres vivants sur la scène universelle est une conséquence super-additive du potentiel créatif de leur union divine. Nous sommes plus qu’une somme prévisible d’efforts indépendants. La synergie de leurs natures complémentaires fait naître des réalités entièrement nouvelles. 
 
@@ -58,74 +58,74 @@ Compte tenu de la relation complémentaire de nos parents divinités de l’univ
 
 L'introduction du [Fascicule 34](/fr/The_Urantia_Book/34) nous donne une observation frappante du fonctionnement complémentaire de Micaël et de notre Esprit Mère de l'univers local : 
 
-> « Dans la création physique, le Fils de l’Univers fournit le modèle, tandis que l’Esprit de l’Univers déclenche la matérialisation des réalités physiques. Le Fils établit les plans de pouvoir, mais l’Esprit transforme ces créations énergétiques en substances physiques. » (<a id="a36_275"></a>[LU 34:0.3](/fr/The_Urantia_Book/34#p0_3))
+> « Dans la création physique, le Fils de l’Univers fournit le modèle, tandis que l’Esprit de l’Univers déclenche la matérialisation des réalités physiques. Le Fils établit les plans de pouvoir, mais l’Esprit transforme ces créations énergétiques en substances physiques. » (<a id="a60_275"></a>[LU 34:0.3](/fr/The_Urantia_Book/34#p0_3))
 
 Cette capacité de notre Esprit Mère Créatrice à fonctionner si intimement dans les processus de création physique est très maternelle. Ceci, ainsi que sa fourniture ultérieure de circuits mentaux, découlent tous deux de son origine en tant que progéniture directe de la Troisième Source et Centre : 
 
-> « Dès le début de son association avec le Fils Créateur, l’Esprit de l’Univers possède tous les attributs de l’Esprit Infini concernant le contrôle physique, y compris la pleine capacité d’antigravité. Quand l’Esprit de l’Univers a atteint son statut personnel, il exerce dans l’univers local un contrôle de la gravité mentale tout aussi plein et complet que le ferait l’Esprit Infini s’il était personnellement présent. » (<a id="a40_426"></a>[LU 34:2.2](/fr/The_Urantia_Book/34#p2_2))
+> « Dès le début de son association avec le Fils Créateur, l’Esprit de l’Univers possède tous les attributs de l’Esprit Infini concernant le contrôle physique, y compris la pleine capacité d’antigravité. Quand l’Esprit de l’Univers a atteint son statut personnel, il exerce dans l’univers local un contrôle de la gravité mentale tout aussi plein et complet que le ferait l’Esprit Infini s’il était personnellement présent. » (<a id="a64_426"></a>[LU 34:2.2](/fr/The_Urantia_Book/34#p2_2))
 
-Conformément à son origine dans l’Esprit Infini, nous apprenons également que notre Esprit Mère est une personnalité de Troisième Source. Contrairement à Micaël, qui a « éclaté » dans l'existence au moment de son origine <a id="a42_221"></a>[[LU 21:1.1](/fr/The_Urantia_Book/21#p1_1)], sa nature personnelle a émergé par étapes (voir <a id="a42_314"></a>[paper 17, section 6](/fr/The_Urantia_Book/17#p6) pour en savoir plus) et n'est devenue pleinement reconnaissable que récemment. à tous, après l'effusion finale de Micaël : 
+Conformément à son origine dans l’Esprit Infini, nous apprenons également que notre Esprit Mère est une personnalité de Troisième Source. Contrairement à Micaël, qui a « éclaté » dans l'existence au moment de son origine <a id="a66_221"></a>[[LU 21:1.1](/fr/The_Urantia_Book/21#p1_1)], sa nature personnelle a émergé par étapes (voir <a id="a66_314"></a>[paper 17, section 6](/fr/The_Urantia_Book/17#p6) pour en savoir plus) et n'est devenue pleinement reconnaissable que récemment. à tous, après l'effusion finale de Micaël : 
 
-> « ...mais, après que le Fils Créateur a été élevé à l’autorité suprême d’un Maitre Fils, il s’opère une telle augmentation des qualités personnelles de l’Esprit-Mère Créatif qu’il est reconnu personnellement par tous les individus qui le contactent. » (<a id="a44_255"></a>[LU 34:2.1](/fr/The_Urantia_Book/34#p2_1))
+> « ...mais, après que le Fils Créateur a été élevé à l’autorité suprême d’un Maitre Fils, il s’opère une telle augmentation des qualités personnelles de l’Esprit-Mère Créatif qu’il est reconnu personnellement par tous les individus qui le contactent. » (<a id="a68_255"></a>[LU 34:2.1](/fr/The_Urantia_Book/34#p2_1))
 
 Nous sommes également informés que les Esprits Créatifs sont « dans une classe à part » par rapport aux personnalités de la Source Première (comme nous et Micaël) qui sont encircuitées dans le circuit de la personnalité du Père : 
 
-> « Il y a de nombreux types de personnalités de la Troisième Source. L’Esprit Infini attribue la personnalité du type Troisième Source à bien des groupes qui ne sont pas inclus dans le circuit de personnalité du Père, comme certains directeurs de pouvoir. De même, l’Esprit Infini traite comme des personnalités de nombreux groupes d’êtres tels que les Esprits Créatifs, qui forment une classe par eux-mêmes dans leurs relations avec les créatures encircuitées du Père. » (<a id="a48_474"></a>[LU 9:8.11](/fr/The_Urantia_Book/9#p8_11))
+> « Il y a de nombreux types de personnalités de la Troisième Source. L’Esprit Infini attribue la personnalité du type Troisième Source à bien des groupes qui ne sont pas inclus dans le circuit de personnalité du Père, comme certains directeurs de pouvoir. De même, l’Esprit Infini traite comme des personnalités de nombreux groupes d’êtres tels que les Esprits Créatifs, qui forment une classe par eux-mêmes dans leurs relations avec les créatures encircuitées du Père. » (<a id="a72_474"></a>[LU 9:8.11](/fr/The_Urantia_Book/9#p8_11))
 
 Qu'est-ce que cela pourrait signifier ? À tout le moins, je pense que cela suggère encore une fois que l’influence de son Saint-Esprit sera différente, mais complémentaire de nos expériences avec l’Esprit de Vérité. 
 
 D’après l’indice ci-dessus concernant leurs différents rôles dans la création de l’univers, il semble plausible de supposer que le Saint-Esprit entretient une relation particulière avec les réalités physiques, tandis que l’Esprit de Vérité est davantage impliqué dans le modèle et la conception. Mais il y a aussi des différences spirituelles intrigantes à considérer, surtout après que l’univers qu’elles ont créé soit peuplé de mortels en évolution. Par exemple, avec l’arrivée des Ajusteurs de Pensée, nous disposons désormais d’une « triple dotation spirituelle » : 
 
-> « Depuis l’effusion de l’Esprit de Vérité, l’homme est sujet à l’enseignement et à la gouverne d’une triple dotation spirituelle : l’Esprit du Père, l’Ajusteur de Pensée ; l’esprit du Fils, l’Esprit de Vérité ; et l’esprit de l’Esprit, le Saint-Esprit. » (<a id="a54_258"></a>[LU 194:2.11](/fr/The_Urantia_Book/194#p2_11))
+> « Depuis l’effusion de l’Esprit de Vérité, l’homme est sujet à l’enseignement et à la gouverne d’une triple dotation spirituelle : l’Esprit du Père, l’Ajusteur de Pensée ; l’esprit du Fils, l’Esprit de Vérité ; et l’esprit de l’Esprit, le Saint-Esprit. » (<a id="a78_258"></a>[LU 194:2.11](/fr/The_Urantia_Book/194#p2_11))
 
 Bien que ces dons d’influence spirituelle édifiante soient unifiés dans une harmonie fonctionnelle, ils présentent également des différences complémentaires essentielles : 
 
 1. L’influence personnelle du Saint-Esprit est une présence omniprésente : 
 
-    « De cette nouvelle ségrégation personnelle du Créateur Conjoint, et à travers elle, procèdent les courants établis et les circuits ordonnés de pouvoir d’esprit et d’influence spirituelle destinés à imprégner tous les mondes et tous les êtres de l’univers local. » <a id="a60_269"></a>[[LU 34:1.2](/fr/The_Urantia_Book/34#p1_2)] 
+    « De cette nouvelle ségrégation personnelle du Créateur Conjoint, et à travers elle, procèdent les courants établis et les circuits ordonnés de pouvoir d’esprit et d’influence spirituelle destinés à imprégner tous les mondes et tous les êtres de l’univers local. » <a id="a84_269"></a>[[LU 34:1.2](/fr/The_Urantia_Book/34#p1_2)] 
     Définitions en ligne de pénétré : diffusé dans chaque partie, peut être perçu dans chaque partie, existe dans chaque partie, est présent partout.
-    « Elle est partout présente d’une manière égale et diffuse dans tout son univers » <a id="a62_87"></a>[[LU 34:3.3](/fr/The_Urantia_Book/34#p3_3)]
+    « Elle est partout présente d’une manière égale et diffuse dans tout son univers » <a id="a86_87"></a>[[LU 34:3.3](/fr/The_Urantia_Book/34#p3_3)]
 
 2. L’Esprit de Vérité est une présence compagne et enveloppante : 
 
-    « Ce nouveau don est l’esprit de la vérité vivante... Et vous connaîtrez cet esprit quand il viendra, comme vous m'avez connu... Dans les temps à venir, je serai avec vous et tous les autres hommes qui désirent ma présence, où que vous soyez, et avec chacun de vous en même temps. » <a id="a66_287"></a>[[LU 180:4.1](/fr/The_Urantia_Book/180#p4_1)] 
-    « Et comme le fragment spirituel du Père habite en vous, ainsi la présence spirituelle du Fils vous enveloppe » <a id="a67_116"></a>[[LU 6:5.7](/fr/The_Urantia_Book/6#p5_7)] 
+    « Ce nouveau don est l’esprit de la vérité vivante... Et vous connaîtrez cet esprit quand il viendra, comme vous m'avez connu... Dans les temps à venir, je serai avec vous et tous les autres hommes qui désirent ma présence, où que vous soyez, et avec chacun de vous en même temps. » <a id="a90_287"></a>[[LU 180:4.1](/fr/The_Urantia_Book/180#p4_1)] 
+    « Et comme le fragment spirituel du Père habite en vous, ainsi la présence spirituelle du Fils vous enveloppe » <a id="a91_116"></a>[[LU 6:5.7](/fr/The_Urantia_Book/6#p5_7)] 
 
-3. Et l'esprit du Père, bien sûr, est une présence intérieure : « Le Père céleste envoie son esprit habiter l'esprit des hommes » <a id="a69_130"></a>[[LU 137:8.7](/fr/The_Urantia_Book/137#p8_7)] 
+3. Et l'esprit du Père, bien sûr, est une présence intérieure : « Le Père céleste envoie son esprit habiter l'esprit des hommes » <a id="a93_130"></a>[[LU 137:8.7](/fr/The_Urantia_Book/137#p8_7)] 
 
 Il existe d’autres déclarations intéressantes qui décrivent des différences complémentaires entre le Saint-Esprit et l’Esprit de Vérité, par exemple : 
 
-> « La foi-clairvoyance, ou intuition spirituelle, est la dotation du mental cosmique en association avec l’Ajusteur de Pensée, lequel est le don du Père à l’homme. La raison spirituelle, ou intelligence de l’âme, est la dotation du Saint-Esprit, le don de l’Esprit Créatif à l’homme. » (<a id="a73_288"></a>[LU 101:3.2](/fr/The_Urantia_Book/101#p3_2))
+> « La foi-clairvoyance, ou intuition spirituelle, est la dotation du mental cosmique en association avec l’Ajusteur de Pensée, lequel est le don du Père à l’homme. La raison spirituelle, ou intelligence de l’âme, est la dotation du Saint-Esprit, le don de l’Esprit Créatif à l’homme. » (<a id="a97_288"></a>[LU 101:3.2](/fr/The_Urantia_Book/101#p3_2))
 
 Et ici: 
 
-> « l’action encircuitée du Saint-Esprit ». <a id="a77_44"></a>[[LU 113:4.6](/fr/The_Urantia_Book/113#p4_6)] La source spirituelle infinie du Saint-Esprit est le Dieu de l'action, l'activateur du modèle. (voir <a id="a77_191"></a>[LU 9:3.8](/fr/The_Urantia_Book/9#p3_8)) 
+> « l’action encircuitée du Saint-Esprit ». <a id="a101_44"></a>[[LU 113:4.6](/fr/The_Urantia_Book/113#p4_6)] La source spirituelle infinie du Saint-Esprit est le Dieu de l'action, l'activateur du modèle. (voir <a id="a101_191"></a>[LU 9:3.8](/fr/The_Urantia_Book/9#p3_8)) 
 > 
-> « la conscience du Fils par l’Esprit de Vérité ». <a id="a79_52"></a>[[LU 113:4.6](/fr/The_Urantia_Book/113#p4_6)] « Notre carrière de réalisation de Dieu commence par la reconnaissance de la divinité du Fils Créateur. » (voir <a id="a79_210"></a>[LU 0:8.9](/fr/The_Urantia_Book/0#p8_9)) 
+> « la conscience du Fils par l’Esprit de Vérité ». <a id="a103_52"></a>[[LU 113:4.6](/fr/The_Urantia_Book/113#p4_6)] « Notre carrière de réalisation de Dieu commence par la reconnaissance de la divinité du Fils Créateur. » (voir <a id="a103_210"></a>[LU 0:8.9](/fr/The_Urantia_Book/0#p8_9)) 
 
 Considérez ces commentaires qui décrivent le fonctionnement du Saint-Esprit : 
 
-> « Le Saint-Esprit — c’est le premier don supramental... Son ministère auprès d’un mental affamé d’adoration et assoiffé de sagesse crée la capacité de comprendre par soi-même le postulat de la survie humaine » <a id="a83_212"></a>[[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4)] 
+> « Le Saint-Esprit — c’est le premier don supramental... Son ministère auprès d’un mental affamé d’adoration et assoiffé de sagesse crée la capacité de comprendre par soi-même le postulat de la survie humaine » <a id="a107_212"></a>[[LU 92:0.4](/fr/The_Urantia_Book/92#p0_4)] 
 > 
-> « La première dotation supramentale de l’homme est la mise en circuit de sa personnalité dans le Saint-Esprit... cette influence agit pour élargir le point de vue des hommes sur l’éthique, la religion et la spiritualité. » <a id="a85_225"></a>[[LU 103:0.1](/fr/The_Urantia_Book/103#p0_1)] 
+> « La première dotation supramentale de l’homme est la mise en circuit de sa personnalité dans le Saint-Esprit... cette influence agit pour élargir le point de vue des hommes sur l’éthique, la religion et la spiritualité. » <a id="a109_225"></a>[[LU 103:0.1](/fr/The_Urantia_Book/103#p0_1)] 
 > 
-> « Lorsque le mental est ainsi doué du ministère du Saint-Esprit, il possède la capacité de choisir (consciemment ou inconsciemment) la présence spirituelle du Père Universel » <a id="a87_178"></a>[[LU 34:5.4](/fr/The_Urantia_Book/34#p5_4)] 
+> « Lorsque le mental est ainsi doué du ministère du Saint-Esprit, il possède la capacité de choisir (consciemment ou inconsciemment) la présence spirituelle du Père Universel » <a id="a111_178"></a>[[LU 34:5.4](/fr/The_Urantia_Book/34#p5_4)] 
 > 
-> « L’Esprit-Mère de Salvington vous connait pleinement, car le Saint-Esprit sur votre monde « sonde toutes choses », <a id="a89_118"></a>[[LU 28:5.22](/fr/The_Urantia_Book/28#p5_22)] 
+> « L’Esprit-Mère de Salvington vous connait pleinement, car le Saint-Esprit sur votre monde « sonde toutes choses », <a id="a113_118"></a>[[LU 28:5.22](/fr/The_Urantia_Book/28#p5_22)] 
 > 
-> « Le Saint-Esprit est en partie indépendant de l'attitude humaine » <a id="a91_70"></a>[[LU 34:5.5](/fr/The_Urantia_Book/34#p5_5)] 
+> « Le Saint-Esprit est en partie indépendant de l'attitude humaine » <a id="a115_70"></a>[[LU 34:5.5](/fr/The_Urantia_Book/34#p5_5)] 
 
 Comparez avec ces commentaires qui décrivent le fonctionnement de l’Esprit de Vérité : 
 
-> « Ce don divin n’est pas la lettre ou loi de la vérité ; il n’est pas non plus destiné à opérer en tant que forme ou expression de la vérité. Le nouvel instructeur est la *conviction de la vérité,* » <a id="a95_202"></a>[[LU 180:5.1](/fr/The_Urantia_Book/180#p5_1)] 
+> « Ce don divin n’est pas la lettre ou loi de la vérité ; il n’est pas non plus destiné à opérer en tant que forme ou expression de la vérité. Le nouvel instructeur est la *conviction de la vérité,* » <a id="a119_202"></a>[[LU 180:5.1](/fr/The_Urantia_Book/180#p5_1)] 
 > 
-> « L’esprit, que mon Père et moi nous enverrons dans le monde, n’est pas seulement l’Esprit de Vérité, mais aussi l’esprit de beauté idéaliste. » <a id="a97_147"></a>[[LU 155:6.11](/fr/The_Urantia_Book/155#p6_11)] 
+> « L’esprit, que mon Père et moi nous enverrons dans le monde, n’est pas seulement l’Esprit de Vérité, mais aussi l’esprit de beauté idéaliste. » <a id="a121_147"></a>[[LU 155:6.11](/fr/The_Urantia_Book/155#p6_11)] 
 > 
-> « La preuve de votre communion avec l’Esprit de Vérité ne se trouve donc pas dans votre conscience de cet esprit, mais plutôt dans votre expérience d’une communion accrue avec Micaël. » <a id="a99_188"></a>[[LU 194:2.4](/fr/The_Urantia_Book/194#p2_4)] 
+> « La preuve de votre communion avec l’Esprit de Vérité ne se trouve donc pas dans votre conscience de cet esprit, mais plutôt dans votre expérience d’une communion accrue avec Micaël. » <a id="a123_188"></a>[[LU 194:2.4](/fr/The_Urantia_Book/194#p2_4)] 
 > 
-> « L’Esprit de Vérité cherche en premier lieu à révéler la nature spirituelle du Père et le caractère moral du Fils. » <a id="a101_120"></a>[[LU 194:3.1](/fr/The_Urantia_Book/194#p3_1)] 
+> « L’Esprit de Vérité cherche en premier lieu à révéler la nature spirituelle du Père et le caractère moral du Fils. » <a id="a125_120"></a>[[LU 194:3.1](/fr/The_Urantia_Book/194#p3_1)] 
 > 
-> « l'Esprit de Vérité, qui dirige le contact amoureux d'un être humain avec un autre ». <a id="a103_89"></a>[[LU 180:5.11](/fr/The_Urantia_Book/180#p5_11)] 
+> « l'Esprit de Vérité, qui dirige le contact amoureux d'un être humain avec un autre ». <a id="a127_89"></a>[[LU 180:5.11](/fr/The_Urantia_Book/180#p5_11)] 
 
 Je vois quelques modèles qui ressortent dans ces descriptions. 
 
@@ -138,7 +138,7 @@ L’une des caractéristiques exceptionnelles de notre Esprit Mère est sa natur
 
 C’est peut-être un domaine inexploré pour beaucoup d’entre nous, mais je pense que c’est peut-être ce que Jésus avait à l’esprit lorsqu’il a dit : 
 
-> « Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit. » (<a id="a116_207"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
+> « Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit. » (<a id="a140_207"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
 
 En pointant du doigt notre conscience du corps, de l’esprit et de l’esprit, je pense que nous pouvons maintenant voir que Jésus anticipait notre prise de conscience de la triple dotation du Saint-Esprit, de l’Esprit de Vérité et de la présence intérieure du Père. 
 

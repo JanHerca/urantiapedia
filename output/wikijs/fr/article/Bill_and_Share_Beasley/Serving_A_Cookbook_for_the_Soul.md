@@ -59,7 +59,7 @@ En route pour un parc d'État de Caroline du Sud pendant quatre jours pour organ
 
 Soudain, nous nous sommes retrouvés au milieu de milliers d’éphémères, quelle délicieuse expérience ! Nous avons été complètement enveloppés par ces doux insectes qui vivent, s'accouplent et meurent, leur objectif atteint en à peine soixante-douze heures.
 
-__Ingrédient n°2 : L'éternité nous appelle, « La vie n’est que le travail d’un jour — exécutez-le bien »__ <a id="a37_107"></a>[[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)]
+__Ingrédient n°2 : L'éternité nous appelle, « La vie n’est que le travail d’un jour — exécutez-le bien »__ <a id="a61_107"></a>[[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)]
 
 Ensuite, une visite chez ma sœur à Richmond, en Virginie, pendant une canicule de plus de 100° et une climatisation en panne. Chaud et grincheux, les tempéraments changeants et bientôt les sœurs aimantes se sifflent ! Ça suffit, on s'en va !
 
@@ -85,7 +85,7 @@ Nous avons traversé les contreforts verdoyants de l'ouest de la Pennsylvanie et
 
 __Ingrédient n°7 : Il y a des gens dans tous les horizons qui attendent juste une opportunité de répondre à ce besoin intérieur de rendre le monde meilleur.__
 
-En tournant vers le sud, nous nous sommes retrouvés à Indianapolis dans le groupe d'étude de Mike avec Linda et Bob, qui avaient parcouru un long chemin pour y assister. En fait, ils sont toujours prêts à faire un effort supplémentaire dans toute entreprise Urantia valable. Quel privilège de partager intimement ce qui sort des pages du _Livre d'Urantia_ avec des lecteurs dévoués de longue date ! Nous avons également découvert d'autres lecteurs du coin qui ne se connaissent pas. Le moment est venu de se connecter. « La croissance spirituelle est mutuellement stimulée par l’association intime avec d’autres religionistes. » <a id="a63_629"></a>[[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)]
+En tournant vers le sud, nous nous sommes retrouvés à Indianapolis dans le groupe d'étude de Mike avec Linda et Bob, qui avaient parcouru un long chemin pour y assister. En fait, ils sont toujours prêts à faire un effort supplémentaire dans toute entreprise Urantia valable. Quel privilège de partager intimement ce qui sort des pages du _Livre d'Urantia_ avec des lecteurs dévoués de longue date ! Nous avons également découvert d'autres lecteurs du coin qui ne se connaissent pas. Le moment est venu de se connecter. « La croissance spirituelle est mutuellement stimulée par l’association intime avec d’autres religionistes. » <a id="a87_629"></a>[[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)]
 
 __Ingrédient n°8 : Définissez vos priorités, « frappez et la porte s'ouvrira ».__
 

@@ -46,7 +46,7 @@ Nous sommes plutôt mis au défi de nous revigorer face aux difficultés et de f
 
 Ce n’est pas une tâche facile.
 
-Le Livre d'Urantia nous rappelle comment « Un groupe social d'êtres humains travaillant en harmonie et de manière coordonnée représente une force bien plus grande que la simple somme de ses parties. » (<a id="a24_202"></a>[LU 133:5.6](/fr/The_Urantia_Book/133#p5_6)) L'harmonie de nos efforts communs _exige_ la coordination. Cela _nécessite_ du travail. Et cet effort soutenu a besoin de vous.
+Le Livre d'Urantia nous rappelle comment « Un groupe social d'êtres humains travaillant en harmonie et de manière coordonnée représente une force bien plus grande que la simple somme de ses parties. » (<a id="a48_202"></a>[LU 133:5.6](/fr/The_Urantia_Book/133#p5_6)) L'harmonie de nos efforts communs _exige_ la coordination. Cela _nécessite_ du travail. Et cet effort soutenu a besoin de vous.
 
 La Urantia Book Fellowship (alias la Fellowship) investit des ressources importantes dans le travail au-delà de toutes les frontières – internationales et organisationnelles – afin de tendre vers les valeurs les plus élevées d’une collaboration efficace. Nous avons besoin de votre soutien pour capitaliser sur ces incroyables opportunités de développer davantage nos partenariats au sein du mouvement plus large du _Livre d'Urantia_, avec les objectifs partagés suivants pour 2024 :
 

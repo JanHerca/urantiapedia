@@ -96,7 +96,7 @@ Auxiliaire:
 
 ## Dernière page
 
-> Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. (<a id="a77_237"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
+> Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. (<a id="a98_237"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
 
 
 <figure id="Figure_2" class="image urantiapedia">

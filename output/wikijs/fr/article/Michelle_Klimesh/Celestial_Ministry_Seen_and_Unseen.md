@@ -40,7 +40,7 @@ La source du ministère céleste dans le grand univers est la personne de l’Es
 
 L'Esprit Infini est : La source de tout esprit ; Personnellement conscient de chaque personne d'esprit dans toute la création ; Le Dieu de l'action ; Le créateur d'une vaste famille de ministres spirituels 
 
-> _Les personnalités spirituelles appartenant à la vaste famille de l’Esprit Divin et Infini sont dédiées pour toujours au service tutélaire de l’amour de Dieu et de la miséricorde du Fils auprès de toutes les créatures intelligentes des mondes évolutionnaires du temps et de l’espace. Ces êtres spirituels constituent l’échelle vivante par laquelle l’homme mortel s’élève du chaos jusqu’à la gloire._ <a id="a21_402"></a>[[LU 9:8.25](/fr/The_Urantia_Book/9#p8_25)] 
+> _Les personnalités spirituelles appartenant à la vaste famille de l’Esprit Divin et Infini sont dédiées pour toujours au service tutélaire de l’amour de Dieu et de la miséricorde du Fils auprès de toutes les créatures intelligentes des mondes évolutionnaires du temps et de l’espace. Ces êtres spirituels constituent l’échelle vivante par laquelle l’homme mortel s’élève du chaos jusqu’à la gloire._ <a id="a42_402"></a>[[LU 9:8.25](/fr/The_Urantia_Book/9#p8_25)] 
 
 Pendant quelques années durant mon enfance, j’ai pris l’habitude de remettre en question Dieu. Par exemple, je me demandais pourquoi ma mère avait passé trois jours à l'hôpital pour donner naissance à mon frère, alors que la chatte avait accouché facilement toute seule dans le garage. Si Dieu savait vraiment tout, pourquoi ne savait-il pas que la mâchoire qu’il m’avait fabriquée était trop petite pour le nombre de dents qui y poussaient ? Je soupçonnais que Dieu n’était pas aussi intelligent que les gens le prétendaient, et ce soupçon m’a exposé à des années de spéculation mentale sur la façon dont je dirigerais l’univers si j’étais Dieu. 
 
@@ -84,11 +84,11 @@ x 5,342 _billions de planètes habitées_
 
 10,7 sextillions d'anges ! Ajoutez-les aux 56 quadrillions travaillant aux niveaux de l'univers local, et gardez à l'esprit que l'Esprit Infini est personnellement conscient de chacun d'entre eux. Comment pouvons-nous ne pas être impressionnés par l’étendue de la puissance de Dieu ? 
 
-Avant de quitter le sujet de l’origine, revisitez la citation sur <a id="a65_66"></a>[LU 9:8.17](/fr/The_Urantia_Book/9#p8_17) qui décrit la famille de l’Esprit Infini comme une échelle vivante. Si l’on considère ce phénomène du point de vue du Paradis, il devient clair qu’une échelle envoyée à chaque mortel existant n’apparaît être une échelle que du point de vue humain. En réalité, la famille de l’Esprit Infini doit être une immense toile, une couverture d’amour et de miséricorde couvrant tout l’univers habité. Il n’y a aucun endroit où aucun d’entre nous ne puisse aller sans être entouré de ces enfants de miséricorde, nulle part où nous ne pourrions être où son amour ne se déverse sur nous et en nous. Nous ne sommes pas seuls; nous n’avons pas été livrés à nous-mêmes. Nous sommes constamment immergés dans l’amour et entourés de ministres, enfants de l’Esprit Infini. 
+Avant de quitter le sujet de l’origine, revisitez la citation sur <a id="a86_66"></a>[LU 9:8.17](/fr/The_Urantia_Book/9#p8_17) qui décrit la famille de l’Esprit Infini comme une échelle vivante. Si l’on considère ce phénomène du point de vue du Paradis, il devient clair qu’une échelle envoyée à chaque mortel existant n’apparaît être une échelle que du point de vue humain. En réalité, la famille de l’Esprit Infini doit être une immense toile, une couverture d’amour et de miséricorde couvrant tout l’univers habité. Il n’y a aucun endroit où aucun d’entre nous ne puisse aller sans être entouré de ces enfants de miséricorde, nulle part où nous ne pourrions être où son amour ne se déverse sur nous et en nous. Nous ne sommes pas seuls; nous n’avons pas été livrés à nous-mêmes. Nous sommes constamment immergés dans l’amour et entourés de ministres, enfants de l’Esprit Infini. 
 
 ## Nature 
 
-> _L’univers de votre origine se forge entre l’enclume de la justice et le marteau de la souffrance, mais ceux qui manient le marteau sont des enfants de miséricorde, la descendance spirituelle de l’Esprit Infini._ <a id="a69_215"></a>[[LU 9:1.8](/fr/The_Urantia_Book/9#p1_8)] 
+> _L’univers de votre origine se forge entre l’enclume de la justice et le marteau de la souffrance, mais ceux qui manient le marteau sont des enfants de miséricorde, la descendance spirituelle de l’Esprit Infini._ <a id="a90_215"></a>[[LU 9:1.8](/fr/The_Urantia_Book/9#p1_8)] 
 
 On nous dit que seuls des bienfaits peuvent résulter de nos efforts pour aimer et comprendre les anges. Quel genre de personnes sont ces enfants de l’Esprit Infini, qui nous ont sous leur garde ? 
 
@@ -100,7 +100,7 @@ On nous dit que les anges aiment le changement, le repos, le retour en arrière 
 
 Presque tous les ordres angéliques mettent de côté des réserves et des enregistreurs. De nombreuses commandes providentielles disposent également d’une division de transport. Mais au-delà de ces fonctions génériques, les ministres célestes semblent avant tout tournés vers l’enseignement. L’un des nombreux ordres d’anges qui s’occupent largement des mortels ascendants est décrit ainsi : 
 
-> Ces seconaphins tertiaires sont les économiseurs de temps, les abrégeurs d’espace, les détecteurs d’erreurs, les fidèles instructeurs et les éternels poteaux indicateurs — signes vivants de sécurité divine — placés par miséricorde aux carrefours du temps pour guider les pas des pèlerins anxieux dans les moments de grande perplexité et d’incertitude spirituelle. Bien avant d’atteindre le seuil de la perfection, vous commencerez à avoir accès aux instruments de la divinité et à prendre contact avec les techniques de la Déité. Depuis le moment où vous arriverez sur le monde initial des maisons jusqu’à ce que vous fermiez les yeux dans le sommeil havonien préparatoire à votre transit vers le Paradis, vous aurez de plus en plus recours aux secours d’urgence de ces êtres merveilleux, qui reflètent si pleinement et si libéralement la connaissance sure et la sagesse certaine des pèlerins surs et loyaux qui vous ont précédés dans le long voyage vers les portes de la perfection. (<a id="a81_987"></a>[LU 28:7.3](/fr/The_Urantia_Book/28#p7_3))
+> Ces seconaphins tertiaires sont les économiseurs de temps, les abrégeurs d’espace, les détecteurs d’erreurs, les fidèles instructeurs et les éternels poteaux indicateurs — signes vivants de sécurité divine — placés par miséricorde aux carrefours du temps pour guider les pas des pèlerins anxieux dans les moments de grande perplexité et d’incertitude spirituelle. Bien avant d’atteindre le seuil de la perfection, vous commencerez à avoir accès aux instruments de la divinité et à prendre contact avec les techniques de la Déité. Depuis le moment où vous arriverez sur le monde initial des maisons jusqu’à ce que vous fermiez les yeux dans le sommeil havonien préparatoire à votre transit vers le Paradis, vous aurez de plus en plus recours aux secours d’urgence de ces êtres merveilleux, qui reflètent si pleinement et si libéralement la connaissance sure et la sagesse certaine des pèlerins surs et loyaux qui vous ont précédés dans le long voyage vers les portes de la perfection. (<a id="a102_987"></a>[LU 28:7.3](/fr/The_Urantia_Book/28#p7_3))
 
 Que nous enseignent les ministres célestes ? La liste est ahurissante. 
 
@@ -163,7 +163,7 @@ Nous sommes entourés de ministres célestes qui s’intéressent au développem
 
 Pourquoi? Qu’est-ce que Dieu compte faire de cette assemblée ? 
 
-Les Perfecteurs de Sagesse, les Conseillers Divins, les Archanges, les Messagers Solitaires et Celui Sans Nom ni Numéro spéculent tous que nous sommes destinés au service dans les niveaux de l’espace extérieur. Un Puissant Messager déclare clairement que nous « sommes destinés à aller dans les futurs univers de l’espace extérieur pour y servir et révéler cette Déité Suprême ». <a id="a144_380"></a>[[LU 56:8.2](/fr/The_Urantia_Book/56#p8_2)] 
+Les Perfecteurs de Sagesse, les Conseillers Divins, les Archanges, les Messagers Solitaires et Celui Sans Nom ni Numéro spéculent tous que nous sommes destinés au service dans les niveaux de l’espace extérieur. Un Puissant Messager déclare clairement que nous « sommes destinés à aller dans les futurs univers de l’espace extérieur pour y servir et révéler cette Déité Suprême ». <a id="a165_380"></a>[[LU 56:8.2](/fr/The_Urantia_Book/56#p8_2)] 
 
 Franchement, à ce stade de ma vie, une destinée finale de service dans les mondes futurs de l’espace semble si éloignée de la réalité actuelle qu’elle en est presque incompréhensible. Quoi que Dieu ait prévu pour moi dans les âges à venir, la question qui m’intéresse le plus est de savoir ce que Dieu attend de moi aujourd’hui. 
 
@@ -189,7 +189,7 @@ Rappelez-vous l'histoire du jeune berger à qui un ange est apparu dans la nuit.
 > « Quand même je descendrais dans les profondeurs des ténèbres et de la mort elle-même, »
 > « Je ne douterai pas de toi et ne te craindrai pas, »
 > « Car je sais que, dans la plénitude des temps et la gloire de ton nom, »
-> « Tu m’élèveras pour m’assoir avec toi sur les remparts d’en haut. » (<a id="a170_72"></a>[LU 48:6.9-19](/fr/The_Urantia_Book/48#p6_9))
+> « Tu m’élèveras pour m’assoir avec toi sur les remparts d’en haut. » (<a id="a191_72"></a>[LU 48:6.9-19](/fr/The_Urantia_Book/48#p6_9))
 
 Nous reconnaissons ce texte comme le [23e psaume](/fr/Bible/Psalms/23) : 
 
@@ -218,7 +218,7 @@ Note de l'auteur : Un merci spécial à Jack Kane pour m'avoir donné des noms p
 > Micaëlle est une étudiante du _Livre d'Urantia_ depuis l'âge de 19 ans. Elle est membre de la société Golden Gate Circle du nord de la Californie, actuelle secrétaire générale du Fellowship et auteur de The Story of Everything, un condensé de la révélation.  
 {.is-info}
 
-> Une fois commissionnés, les séraphins peuvent être envoyés en mission n’importe où dans Nébadon et même dans Orvonton. Leur travail dans l’univers n’a ni entraves ni limitations. Ils sont étroitement associés aux créatures matérielles des mondes et sont toujours au service des ordres inférieurs de personnalités spirituelles, établissant le contact entre ces êtres du monde de l’esprit et les mortels des royaumes matériels. (<a id="a199_429"></a>[LU 38:5.4](/fr/The_Urantia_Book/38#p5_4))
+> Une fois commissionnés, les séraphins peuvent être envoyés en mission n’importe où dans Nébadon et même dans Orvonton. Leur travail dans l’univers n’a ni entraves ni limitations. Ils sont étroitement associés aux créatures matérielles des mondes et sont toujours au service des ordres inférieurs de personnalités spirituelles, établissant le contact entre ces êtres du monde de l’esprit et les mortels des royaumes matériels. (<a id="a220_429"></a>[LU 38:5.4](/fr/The_Urantia_Book/38#p5_4))
 
 ## Références
 

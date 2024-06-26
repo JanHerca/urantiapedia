@@ -46,7 +46,7 @@ Nous sommes dotés d'un dispositif de guidage intégré qui, si nous ne continuo
 
 <br style="clear:both;"/>
 
-> L’attraction de la gravité spirituelle du Fils Éternel constitue le secret inhérent à l’ascension au Paradis des âmes humaines qui survivent. ... Le circuit de gravité d’esprit tire littéralement l’âme des hommes vers le Paradis. (<a id="a24_233"></a>[LU 7:3.2](/fr/The_Urantia_Book/7#p3_2))
+> L’attraction de la gravité spirituelle du Fils Éternel constitue le secret inhérent à l’ascension au Paradis des âmes humaines qui survivent. ... Le circuit de gravité d’esprit tire littéralement l’âme des hommes vers le Paradis. (<a id="a48_233"></a>[LU 7:3.2](/fr/The_Urantia_Book/7#p3_2))
 
 Le partenariat avec Dieu est irrésistible. Nous avons naturellement soif d’être en phase avec le plan divin. Notre GPS, particulièrement sur Urantia, « recalcule » souvent.
 
@@ -60,7 +60,7 @@ J'encourage tous ceux qui ressentent l'attrait du Paradis à refléter activemen
 
 J'ai souvent entendu des membres de notre communauté dire qu'ils étaient en faveur de l'unité spirituelle et non de l'uniformité. Je pense que nous pouvons tous être d'accord sur ce point : aucun d'entre nous n'est en faveur d'une uniformité spirituelle, ou même organisationnelle. Une image me vient à l’esprit de clones insipides ou de chatbots ambulants dépourvus de personnalité et de pensée originale. . . tout le contraire des formes de vie et des personnalités infiniment diverses que nous sommes sûrs de continuer à rencontrer jusqu’au Paradis. La diversité est aussi fondamentale à la création que l’unité.
 
-> Vous saisissez quelque peu la philosophie et vous comprenez la divinité dans l’adoration, le service social et l’expérience spirituelle personnelle, mais vous limitez trop souvent la recherche de la beauté — la cosmologie — à l’étude des grossières tentatives artistiques humaines. La beauté, l’art, est largement une affaire **d’unification de contrastes**. La variété est essentielle au concept de beauté. (<a id="a38_411"></a>[LU 56:10.3](/fr/The_Urantia_Book/56#p10_3))
+> Vous saisissez quelque peu la philosophie et vous comprenez la divinité dans l’adoration, le service social et l’expérience spirituelle personnelle, mais vous limitez trop souvent la recherche de la beauté — la cosmologie — à l’étude des grossières tentatives artistiques humaines. La beauté, l’art, est largement une affaire **d’unification de contrastes**. La variété est essentielle au concept de beauté. (<a id="a62_411"></a>[LU 56:10.3](/fr/The_Urantia_Book/56#p10_3))
 
 Nous savons que la variété est essentielle, mais nous avons parfois (peut-être souvent) du mal à accepter nos différences, et encore moins à considérer ces différences comme des atouts susceptibles d’élargir nos perspectives et d’apporter un équilibre et des idées à notre réflexion.
 
@@ -71,7 +71,7 @@ Forger de nouveaux systèmes sociaux, plus forts et plus beaux à partir de l’
 <figcaption><em>Contrastes le soir (bleu et orange)</em> de Paul Klee</figcaption>
 </figure>
 
-> « Votre unité spirituelle implique deux facteurs qui s’harmonisent toujours dans la vie individuelle des croyants : premièrement, vous possédez un motif commun pour une vie de service ; chacun de vous désire par-dessus tout faire la volonté du Père qui est aux cieux. Et, deuxièmement, vous avez tous un but commun d’existence ; vous avez tous le dessein de trouver le Père qui est aux cieux, et de prouver, par là, à l’univers que vous êtes devenus semblables à lui. » (<a id="a49_473"></a>[LU 141:5.3](/fr/The_Urantia_Book/141#p5_3))
+> « Votre unité spirituelle implique deux facteurs qui s’harmonisent toujours dans la vie individuelle des croyants : premièrement, vous possédez un motif commun pour une vie de service ; chacun de vous désire par-dessus tout faire la volonté du Père qui est aux cieux. Et, deuxièmement, vous avez tous un but commun d’existence ; vous avez tous le dessein de trouver le Père qui est aux cieux, et de prouver, par là, à l’univers que vous êtes devenus semblables à lui. » (<a id="a73_473"></a>[LU 141:5.3](/fr/The_Urantia_Book/141#p5_3))
 
 ## Références
 
