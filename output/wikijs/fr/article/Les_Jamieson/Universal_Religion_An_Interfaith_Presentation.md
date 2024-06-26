@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Les Jamieson<br>© 2001 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Montrez-nous un miracle !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="pr-2">Eugénisme éthique : une modeste proposition pour le 21e siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis de nombreuses années, je souhaitais trouver un moyen de contribuer à favoriser une meilleure compréhension entre les religions. Lorsque Peter Laurence, un lecteur de longue date, m'a conduit au Conseil interconfessionnel de New York, j'ai trouvé très rafraîchissante leur approche globale et communautaire. Le Conseil Interconfessionnel invite à la participation de toutes les religions et confessions et crée des programmes conçus pour faciliter le dialogue et l’interaction entre elles, et j’ai été accepté comme représentant de la communauté locale du Livre d’Urantia, même s’ils n’avaient aucune idée de ce dont parlait le livre.
@@ -96,3 +120,28 @@ Pour en savoir plus sur les lecteurs impliqués dans le mouvement interconfessio
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Montrez-nous un miracle !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="pr-2">Eugénisme éthique : une modeste proposition pour le 21e siècle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Lawrence Schkade<br>© 2012 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, 606 de Satania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="pr-2">La Race et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté lors de la conférence Lone Star Roundup, Argyle, Texas, le 31 mars 2012_ 
@@ -147,6 +171,31 @@ En résumé, nous sommes dans une situation gagnant-gagnant. En faisant la volon
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, 606 de Satania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="pr-2">La Race et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques 
 

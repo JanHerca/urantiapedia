@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Philip Calabrese<br>© 2009 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dix leçons de moins du vignoble</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Sanders/The_Book_a_Poem">
+          <span class="pr-2">Le livre - un poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -98,6 +122,31 @@ Depuis sa publication en 1955, j'ai remarqué à plusieurs reprises [^16] que la
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dix leçons de moins du vignoble</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Sanders/The_Book_a_Poem">
+          <span class="pr-2">Le livre - un poème</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

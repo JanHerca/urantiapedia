@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Irwin Ginsburgh Ph.D.<br>© 1999 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/An_Expression_of_Cosmic_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une expression du culte cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="pr-2">Réflexions sur la citoyenneté cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -127,6 +151,31 @@ Parmi les futurs lecteurs du _Livre d'Urantia_, il y aura de plus en plus de sce
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/An_Expression_of_Cosmic_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une expression du culte cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="pr-2">Réflexions sur la citoyenneté cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

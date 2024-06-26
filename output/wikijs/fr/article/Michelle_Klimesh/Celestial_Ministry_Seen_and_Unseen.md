@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Micaëlle Klimesh<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach">
+          <span class="pr-2">Le Suprême et la Sensibilisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cet article est le reflet écrit des discussions plénières lors de la session d'étude d'été de la Fellowship à River Forest, dans l'Illinois, en juillet 2006._  
@@ -203,3 +224,25 @@ Note de l'auteur : Un merci spécial à Jack Kane pour m'avoir donné des noms p
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach">
+          <span class="pr-2">Le Suprême et la Sensibilisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

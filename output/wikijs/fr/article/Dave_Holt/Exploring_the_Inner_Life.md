@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Dave Holt<br>© 2013 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une cosmologie de la race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="pr-2">Foi spirituelle, incertitude et citoyenneté cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -110,6 +134,31 @@ Le développement d’une relation personnelle avec Dieu anticipe la prochaine �
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une cosmologie de la race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="pr-2">Foi spirituelle, incertitude et citoyenneté cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

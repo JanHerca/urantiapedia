@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 David Kantor<br>© 2003 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="pr-2">Quand la croyance devient foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cet essai est basé presque entièrement sur les idées trouvées dans le livre du théologien Paul Tillich, _Dynamics of Faith._
@@ -80,3 +104,28 @@ En raison de la nature religieuse de ces symboles, la responsabilité de leur pr
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="pr-2">Quand la croyance devient foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

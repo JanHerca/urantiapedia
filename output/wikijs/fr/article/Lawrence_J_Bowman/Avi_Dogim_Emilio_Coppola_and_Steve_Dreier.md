@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Larry Bowman<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="pr-2">Du Dieu Suprême au Dieu à trois personnes : sept niveaux de divinité totale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans les 65 ans d'histoire de la Fraternité Urantia/Urantia Book Fellowship, il n'y a probablement eu qu'une seule fois où le Conseil Général a perdu trois de ses membres par la mort dans un laps de temps très court. Ce moment s'est produit entre fin 2019 et début avril 2020, avec le décès d'Emilio Coppola, Avi Dogim et Stephen Dreier. 
@@ -59,3 +80,25 @@ Sur la couverture de ce numéro de Fellowship _Herald_, Stephen Sawyer a créé 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="pr-2">Du Dieu Suprême au Dieu à trois personnes : sept niveaux de divinité totale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

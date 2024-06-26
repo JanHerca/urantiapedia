@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Sara Blackstock<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Embouchure révélatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="pr-2">À la recherche de l'erreur si grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Note de l'éditeur : cet article est adapté d'un atelier donné par Sara Blackstock à l'Université de Californie à Santa Cruz lors de la session d'étude d'été 2001 de la bourse.)
@@ -124,3 +148,28 @@ Ces réalités n’ont pas besoin d’études avec des cordes et des aimants pou
 
 > La créature personnelle dotée de mental cosmique et habitée par un Ajusteur possède la faculté innée de reconnaitre et de réaliser la réalité de l’énergie, la réalité du mental et la réalité de l’esprit. (<a id="a124_207"></a>[16:9.1](/fr/The_Urantia_Book/16#p9_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Embouchure révélatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="pr-2">À la recherche de l'erreur si grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

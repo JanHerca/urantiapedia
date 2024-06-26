@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Byron Belitsos<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="pr-2">Missions magistrales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À l’approche de la fin du millénaire et de l’imminence de la crise de l’an 2000, le mot « apocalypse » va devenir essentiel dans le lexique de chacun, en particulier dans les médias. À l’origine – bibliquement – le terme apocalypse signifiait une révélation de secrets, un « dévoilement » de vérités cachées. Le « millénarisme apocalyptique » – une expression impossible à prononcer avec désinvolture par les médias (et donc beaucoup moins galvaudée) – fait référence au dévoilement des secrets cachés des temps, à la fin des temps historiques – plus précisément à la fin d’un millénaire. À la fin des temps, comme le dit le conte apocalyptique millénariste, le mal et la souffrance – toutes les choses et toutes les personnes que l’on trouve insupportables – connaîtront enfin une fin décisive dans une nouvelle utopie insoupçonnée. 
@@ -54,3 +78,28 @@ Nous constatons ainsi que la foi (la pratique spirituelle) et l'espérance sont 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="pr-2">Missions magistrales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

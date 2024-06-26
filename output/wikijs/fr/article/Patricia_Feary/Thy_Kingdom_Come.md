@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Patricia Feary<br>© 2003 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Anti_Terror_Treatise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traité antiterroriste</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -35,3 +56,25 @@ Poème soumis par Patricia Feary, Sacramento, Californie, 2003
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Anti_Terror_Treatise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traité antiterroriste</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

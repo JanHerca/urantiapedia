@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Révérend Gary Deinstadt<br>© 2013 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Dreier/Spiritual_Genetics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Génétique spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="pr-2">Une cosmologie de la race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La vraie religion doit toujours être simultanément l’éternel fondement et l’étoile directrice de toutes les civilisations durables. (<a id="a13_135"></a>[LU 92:7.15](/fr/The_Urantia_Book/92#p7_15))
@@ -148,6 +172,31 @@ Je ne fais qu’effleurer la surface ici. De toute évidence, certaines théolog
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Dreier/Spiritual_Genetics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Génétique spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="pr-2">Une cosmologie de la race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques  
 

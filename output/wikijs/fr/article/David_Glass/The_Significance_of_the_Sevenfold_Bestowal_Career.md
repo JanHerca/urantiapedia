@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Glass<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Start_of_a_Worthy_New_Tradition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le début d’une nouvelle tradition digne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be">
+          <span class="pr-2">Le Livre d'Urantia n'est plus ce qu'il était</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les sept effusions de Christ Micaël, contrairement aux sept effusions du Fils Éternel à Havona, sont à la portée de l'appréciation de l'esprit des hommes et des femmes urantiens contemporains. Une étude des Fascicules d'Urantia, en particulier du Fascicule 119, « Les effusions de Christ Micaël », révèle au lecteur que ce que notre monde a connu de la vie terrestre, des enseignements, de la mort et de la résurrection de Jésus, appelé « le Christ, » n'est qu'une infime partie de la pleine signification même des récits fragmentaires de la vie de Jésus qui ont été traditionnellement présentés dans et comme les quatre Évangiles du Nouveau Testament de la Bible chrétienne. Vu du point de vue des Cahiers d'Urantia, le début, l'accomplissement, la fin et la reprise de la vie terrestre de Jésus sur Urantia, ainsi que les récits partiels de ses six autres effusions de souveraineté non révélées jusqu'ici, ont une signification bien plus profonde et bien plus profonde. signification cosmiquement pertinente. 
@@ -58,3 +82,28 @@ La révélation révèle qu'il existe des potentiels absolus enfermés dans la n
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Start_of_a_Worthy_New_Tradition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le début d’une nouvelle tradition digne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be">
+          <span class="pr-2">Le Livre d'Urantia n'est plus ce qu'il était</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

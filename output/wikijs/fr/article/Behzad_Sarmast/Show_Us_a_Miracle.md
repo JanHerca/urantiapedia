@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Behzad Sarmast<br>© 2001 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une étude source de « l’instruction pour les enseignants et les croyants »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="pr-2">Religion universelle : une présentation interconfessionnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis toujours, la nature humaine a toujours associé la piété à quelque merveille miraculeuse. Il existe un besoin naturel d'une source d'autorité exceptionnelle qui puisse montrer la voie, mais des paroles sages et des enseignements exaltés ne suffiront pas à eux seuls - il doit également y avoir une démonstration de pouvoirs surnaturels. Cela était aussi vrai à l'époque de l'arrivée de Caligastia qu'aujourd'hui, et le monde s'attend toujours à ce que l'arrivée du prochain être céleste coïncide soit avec un phénomène prodigieux dans le ciel, soit avec une disparition miraculeuse des élus, soit avec quelque autre merveille. défie la raison.
@@ -70,3 +94,28 @@ J'ai vu un miracle !
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une étude source de « l’instruction pour les enseignants et les croyants »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="pr-2">Religion universelle : une présentation interconfessionnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

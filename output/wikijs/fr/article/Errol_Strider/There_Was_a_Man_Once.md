@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Errol Strider<br>© 2019 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorer la christologie du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="pr-2">Travailler avec l’Esprit Mère pour élever le monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il était une fois un homme, vraiment ça 
@@ -108,3 +132,28 @@ Du voyage intemporel de l’amour.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorer la christologie du Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="pr-2">Travailler avec l’Esprit Mère pour élever le monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

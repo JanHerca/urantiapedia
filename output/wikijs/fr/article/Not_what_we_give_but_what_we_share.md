@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les miracles de Jésus et la volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">Une démystification et une redéfinition du culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les versets suivants sont des extraits de « La Vision de Sir Launfal » de James Russell Lowell. Sir Launfal est revenu des croisades, mendiant, son arrogance brisée et avec seulement une seule croûte de pain à manger, lorsqu'un lépreux lui demande l'aumône.
@@ -53,3 +77,28 @@ Lui-même, son voisin affamé et moi.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les miracles de Jésus et la volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">Une démystification et une redéfinition du culte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

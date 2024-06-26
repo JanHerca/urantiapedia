@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Dave Holt<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre la relation entre l'amour et l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="pr-2">Témoignage d'un Urantien de deuxième génération</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aucune discipline spirituelle extrême n’est requise. Même une croissance ou un développement ultérieur de la conscience n’est peut-être pas nécessaire. Même si nous n’effectuerons pas de voyage astral pour y arriver, notre intention est de devenir des citoyens cosmiques tout en restant conscients de notre station terrestre. Il s’agit peut-être simplement d’une question de choix – simplement de prendre la décision de vivre en tant que citoyens du cosmos. « Nous sommes sur le point de devenir citoyens cosmiques, et de mieux connaître les autres planètes de notre communauté galactique. » [^1] 
@@ -145,6 +169,31 @@ _Le Livre d'Urantia_ enseigne que les chercheurs peuvent découvrir la vérité 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre la relation entre l'amour et l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="pr-2">Témoignage d'un Urantien de deuxième génération</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques 
 

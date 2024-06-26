@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Charles Laurence Olivea<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l’expérience versus religion de l’autorité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="pr-2">Le Livre d'Urantia, les concepts humains et la validation révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _L'article suivant a été présenté lors du discours en séance plénière lors de la session d'études d'été, à l'Université dominicaine, River Forest, Illinois, le 31 juillet 2009. _
@@ -115,3 +139,28 @@ C'est pour moi un étonnement récurrent, cher Père, que d'une manière ou d'un
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l’expérience versus religion de l’autorité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="pr-2">Le Livre d'Urantia, les concepts humains et la validation révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

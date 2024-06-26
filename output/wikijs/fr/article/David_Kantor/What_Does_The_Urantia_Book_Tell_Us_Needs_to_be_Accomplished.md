@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 David Kantor<br>© 2017 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michelle_Klimesh/Questions_About_Being_Human">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Questions sur le fait d'être humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God">
+          <span class="pr-2">Douze façons d’entendre Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il est très instructif de mettre de côté tout ce que nous avons appris sur l’origine de la révélation et les intentions supposées de ses auteurs et d’examiner ce que le livre lui-même a à dire sur les tâches les plus importantes à accomplir. Si nous parcourons le livre et notons chaque point où les auteurs nous suggèrent de faire telle ou telle chose particulière, nous nous retrouvons avec une liste de tâches qui peuvent être divisées en trois grandes catégories : 
@@ -110,3 +134,28 @@ _L'espoir et la préoccupation majeurs des révélateurs pourraient-ils être pl
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michelle_Klimesh/Questions_About_Being_Human">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Questions sur le fait d'être humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God">
+          <span class="pr-2">Douze façons d’entendre Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

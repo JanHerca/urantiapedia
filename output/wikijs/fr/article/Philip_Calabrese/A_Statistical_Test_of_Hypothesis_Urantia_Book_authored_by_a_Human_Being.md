@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Philip Calabrese<br>© 2013 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ambiances, musique et magie du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Tests statistiques en général.** Lors de l'exécution de tout test statistique, il faut disposer d'une distribution de probabilité a priori sur laquelle tester. Par exemple, sachant que le bois peut difficilement pousser sans aide pour prendre la forme d'une chaise à 4 pieds dans une forêt boisée, si nous rencontrons un tel morceau de bois dans la forêt, nous sommes alors en droit de conclure (statistiquement, pas logiquement) qu'il s'agissait d'un morceau de bois. conçu et construit par un agent intelligent plutôt que d'avoir évolué ou émergé pour devenir une chaise par des moyens totalement non intelligents. De même, si nous lançons une pièce 100 fois et que « face » apparaît moins de 33 fois, nous pourrions alors conclure statistiquement que la pièce est biaisée vers la face parce que la probabilité qu'une pièce **_fair_** produise 33 « face » ou moins. en 100 lancers, il y a 1 chance sur 5000. Le test est possible parce que nous avons une distribution a priori à tester concernant le nombre de « face » dans 100 lancers d’une pièce équitable. En supposant « l’hypothèse nulle » d’une pièce équitable, nous calculons la faible probabilité d’un échantillon d’au plus 33 faces en 100 lancers et concluons à « l’hypothèse alternative » selon laquelle la pièce est biaisée. 
@@ -252,3 +273,25 @@ Pour certaines personnes, ce simple test statistique ne sera pas une raison suff
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ambiances, musique et magie du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

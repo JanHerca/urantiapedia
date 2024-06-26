@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Micaëlle Klimesh<br>© 2017 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suaire de Turin et les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="pr-2">Que nous dit le Livre d’Urantia qui doit être accompli ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > J'ai ouvert l'atlas et j'ai demandé : 
@@ -91,3 +115,28 @@ _Cet article est le reflet écrit d'une présentation donnée à la Urantia Book
 > Micaëlle Klimesh, ancienne présidente de la Fellowship, auteur de L'histoire de tout, lit _Le Livre d'Urantia_ depuis 1974. Elle est membre et ancienne présidente du Golden Gate Circle ; participe à des groupes d'étude à San Ramon et Walnut Creek ; et réside alternativement à San Ramon, en Californie et à Spillville, Iowa.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suaire de Turin et les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="pr-2">Que nous dit le Livre d’Urantia qui doit être accompli ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

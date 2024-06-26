@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Derek Samaras<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JJ_Johnson/Personality_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Don de personnalité (avant et après)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="pr-2">Explorer la christologie du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Les ancêtres du peuple japonais ne furent pas chassés du continent asiatique avant l’an 12 000 av. J.-C. ; ils furent délogés par une puissante poussée des tribus chinoises nordiques descendant vers le sud le long de la côte. (<a id="a13_229"></a>[LU 79:6.3](/fr/The_Urantia_Book/79#p6_3))
@@ -107,3 +131,28 @@ Nous pouvons voir qui étaient ces gens, et plus important encore, nous pouvons 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JJ_Johnson/Personality_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Don de personnalité (avant et après)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="pr-2">Explorer la christologie du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

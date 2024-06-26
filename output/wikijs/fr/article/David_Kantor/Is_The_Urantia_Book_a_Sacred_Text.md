@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 David Kantor<br>© 2015 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et sa mission</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="pr-2">Soixante-quatre concepts originaux du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Note de l'auteur : Cet essai fournit un résumé des concepts présentés dans les livres répertoriés dans la bibliographie qui l'accompagne, en essayant de les relier au contexte évolutif dans lequel le Livre d'Urantia est lu, interprété et utilisé comme objet social._
@@ -217,6 +241,31 @@ Je suppose que cela en fait une sorte de texte sacré, quelque chose que je lis 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et sa mission</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="pr-2">Soixante-quatre concepts originaux du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques 
 

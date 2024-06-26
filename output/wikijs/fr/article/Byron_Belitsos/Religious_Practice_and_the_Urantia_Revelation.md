@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Byron Belitsos<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une démystification et une redéfinition du culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Karen_Larson/The_Gift_of_Tolerance">
+          <span class="pr-2">Le don de la tolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous, lecteurs-croyants du _Livre d'Urantia_, oublions parfois que la révélation d'Urantia est un mystère parfait, une inconnue totale pour les croyants religieux et les praticiens spirituels qui nous entourent. Notre vie religieuse découle d'un enseignement révélateur non reconnu et n'ayant pratiquement aucun lien pratique avec les religions évolutionnistes de la planète. Et parce que nous, en tant que mouvement religieux, en sommes à nos balbutiements, notre identité religieuse est une profonde énigme, même pour nous-mêmes. Bizarrement, nous sommes à la fois un mystère pour nous-mêmes et pour le reste du monde.
@@ -84,3 +108,28 @@ En réalité, tout se résume à l’individu assoiffé de vérité qui se tient
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une démystification et une redéfinition du culte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Karen_Larson/The_Gift_of_Tolerance">
+          <span class="pr-2">Le don de la tolérance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

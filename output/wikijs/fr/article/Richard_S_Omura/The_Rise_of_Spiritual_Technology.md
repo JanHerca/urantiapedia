@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Richard S. Omura<br>© 2004 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Souls_Expression">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expression de l'âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="pr-2">Méditation dans le Livre d'Urantia — À la manière de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -296,3 +320,28 @@ _Le Livre d'Urantia_ contient beaucoup d'autres « trésors » comme je l'ai men
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Souls_Expression">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expression de l'âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="pr-2">Méditation dans le Livre d'Urantia — À la manière de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Meredith J. Sprunger<br>© 2003 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercle fermé ou livre ouvert ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
+          <span class="pr-2">Un dialogue sur « Le Royaume des Cieux »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. » (<a id="a13_250"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
@@ -164,6 +188,31 @@ Ce ministère de sensibilisation ne sera pas facile. Ce n'est pas pour les âmes
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercle fermé ou livre ouvert ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
+          <span class="pr-2">Un dialogue sur « Le Royaume des Cieux »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

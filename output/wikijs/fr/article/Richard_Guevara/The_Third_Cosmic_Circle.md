@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Richard Guevara<br>© 2009 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une leçon d'une souris</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="pr-2">Devenir un évangélique missionnaire efficace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le troisième cercle cosmique est important pour les lecteurs du Livre d'Urantia. Tout comme une pierre de touche est utilisée pour déterminer la pureté de l'or, ce cercle d'acquisition détient une mystique similaire pour les lecteurs du Livre d'Urantia. C'est dans ce cercle que les ascendants reçoivent des bénéfices supplémentaires. C’est dans ce cercle, accessible alors qu’on est encore dans la chair, que la capacité spirituelle accrue commence à se manifester. 
@@ -192,3 +216,28 @@ Les divinités du Paradis ont créé un Maître Univers sensible à nos besoins 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une leçon d'une souris</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="pr-2">Devenir un évangélique missionnaire efficace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

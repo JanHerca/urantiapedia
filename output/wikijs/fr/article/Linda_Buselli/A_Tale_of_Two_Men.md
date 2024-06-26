@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Linda Buselli<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moi, frère – Les Cahiers d'Urantia et les questions de race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Derek_Samaras/Akhenaten">
+          <span class="pr-2">Akhénaton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté lors d'un discours en plénière lors de la session d'études d'été 2015._ 
@@ -106,3 +130,28 @@ Je peux ressentir ce que la foi enseigne ; Je peux sentir ce que la foi voit. Bi
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moi, frère – Les Cahiers d'Urantia et les questions de race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Derek_Samaras/Akhenaten">
+          <span class="pr-2">Akhénaton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

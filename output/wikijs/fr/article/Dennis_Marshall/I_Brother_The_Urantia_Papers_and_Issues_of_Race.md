@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Dennis Marshall<br>© 2018 La Bourse du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Soul_Synthesis_Hypothesis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’hypothèse de la synthèse de l’âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/A_Tale_of_Two_Men">
+          <span class="pr-2">Une histoire de deux hommes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Première impression 
@@ -111,3 +135,28 @@ Alors qu’en est-il de l’apparente injustice d’être né dans une race seco
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Soul_Synthesis_Hypothesis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’hypothèse de la synthèse de l’âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/A_Tale_of_Two_Men">
+          <span class="pr-2">Une histoire de deux hommes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

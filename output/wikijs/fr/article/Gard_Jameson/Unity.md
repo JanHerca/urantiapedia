@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gard Jameson<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Perry/The_Laborers_are_Few">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les ouvriers sont peu nombreux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="pr-2">Une éthique mondiale : le Parlement des religions du monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Gard_Jameson/36.jpg">
@@ -44,3 +68,27 @@ Que ceux qui ont du courage écoutent profondément la commission révélatrice 
 [^1] : Les révélateurs, également connus sous le nom de membres de la commission de révélation, étaient les personnalités surhumaines responsables de la planification et de la livraison des Cahiers d'Urantia, qui furent plus tard publiés sous le nom de _Le Livre d'Urantia_.
 [^2] : Au début du vingtième siècle, un petit nombre d'hommes et de femmes à Chicago, Illinois, États-Unis, connu sous le nom de Commission de Contact, était le groupe de discussion humain pour la matérialisation du texte des Cahiers d'Urantia.
 [^3] : Les membres du Forum, créé en 1923, se réunissaient chaque semaine pour écouter et discuter du matériel révélé qui aidait les Cahiers d'Urantia à être compréhensibles par l'esprit humain.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Perry/The_Laborers_are_Few">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les ouvriers sont peu nombreux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="pr-2">Une éthique mondiale : le Parlement des religions du monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

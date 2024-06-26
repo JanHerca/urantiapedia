@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Finlan<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'eugénisme et le Livre d'Urantia : une autre perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="pr-2">Câblage de la foi dans le cerveau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Matthew Block a ouvert une nouvelle ère dans l'érudition du Livre d'Urantia par sa découverte et sa documentation de l'utilisation des sources humaines. Dans son article le plus récent ([_The Fellowship Herald_, été 2001](/fr/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers)), il détaille comment _Jesus and Ourselves_ de Weatherhead a été utilisé dans la composition de « Instruction for Teachers and Believers ». <a id="a13_446"></a>[[LU 159:3.1-14](/fr/The_Urantia_Book/159#p3_1)]
@@ -59,3 +83,28 @@ En utilisant des auteurs comme Weatherhead, _Le Livre d'Urantia_ a sauvé une gr
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'eugénisme et le Livre d'Urantia : une autre perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="pr-2">Câblage de la foi dans le cerveau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

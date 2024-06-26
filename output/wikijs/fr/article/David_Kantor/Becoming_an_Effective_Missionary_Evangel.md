@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Kantor<br>© 2009 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Guevara/The_Third_Cosmic_Circle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le troisième cercle cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="pr-2">Le spectre illimité de l’éducation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > ...Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. ... (<a id="a13_253"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
@@ -193,3 +217,28 @@ Que votre aventure d’évangéliste missionnaire efficace soit sublime.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Guevara/The_Third_Cosmic_Circle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le troisième cercle cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="pr-2">Le spectre illimité de l’éducation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

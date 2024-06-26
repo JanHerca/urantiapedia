@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Glass<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Casting_Pearls_Before_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Couler des perles avant la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Une loi que le Maître a partagée avec nous tous ; 
@@ -45,3 +66,25 @@ David E. Glass Plano, Texas
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Casting_Pearls_Before_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Couler des perles avant la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

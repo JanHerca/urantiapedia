@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Richard Goodman<br>© 2014 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origine, nature, ministère et destinée des ajusteurs de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Prayer_Why_Bother">
+          <span class="pr-2">Prière ? Pourquoi s'embêter ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté le 17 mai 2014, lors de la mini-conférence de la First Society à Chicago. _
@@ -58,3 +82,28 @@ Le grand comédien et pionnier du sarcasme cinématographique, Groucho Marx, a f
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origine, nature, ministère et destinée des ajusteurs de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Prayer_Why_Bother">
+          <span class="pr-2">Prière ? Pourquoi s'embêter ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

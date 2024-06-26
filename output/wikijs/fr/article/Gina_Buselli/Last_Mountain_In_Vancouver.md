@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Gina Buselli<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugénisme éthique : une modeste proposition pour le 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mon cher ami
@@ -58,3 +79,25 @@ Prier pour toi,
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugénisme éthique : une modeste proposition pour le 21e siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

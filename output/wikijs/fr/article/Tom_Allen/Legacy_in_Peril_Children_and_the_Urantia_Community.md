@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Tom Allen<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur l'avenir de notre communauté Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="pr-2">Mettre en action les enseignements du Livre d’Urantia à travers la philosophie intégrale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Parce que j'ai pour vocation de comparer des citations célèbres avec des passages du _Livre d'Urantia_, il est logique que je commence cet article par une comparaison. Je suis une infirmière autorisée. Aux États-Unis, il y a environ 2,7 millions d'infirmières. Seulement 9 pour cent de ces infirmières ont moins de 30 ans. Il existe actuellement une très grave pénurie d’infirmières. Cette simple statistique laisse présager une grave pénurie d’infirmières, aux proportions encore plus grandes et désastreuses dans un avenir proche, parce que les jeunes ne choisissent pas les soins infirmiers comme cheminement de carrière.
@@ -57,3 +81,28 @@ Le jour viendra où nous surmonterons notre lenteur à présenter les plus beaux
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur l'avenir de notre communauté Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="pr-2">Mettre en action les enseignements du Livre d’Urantia à travers la philosophie intégrale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

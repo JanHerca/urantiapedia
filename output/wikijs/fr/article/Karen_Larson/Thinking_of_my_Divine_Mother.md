@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Karen Larson<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De deux esprits : humain et divin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Divine_Synergy">
+          <span class="pr-2">Synergie Divine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -46,3 +70,28 @@ En vieillissant.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De deux esprits : humain et divin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Divine_Synergy">
+          <span class="pr-2">Synergie Divine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

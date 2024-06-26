@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Richard Daunt<br>© 2014 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la recherche de la suprématie : comment les maîtres séraphins et les êtres humains pourraient-ils collaborer ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="pr-2">Origine, nature, ministère et destinée des ajusteurs de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Présenté à la _The Urantia Book_ Society of Greater New York, le 28 septembre 1913 
@@ -124,3 +148,28 @@ Il est également nécessaire de noter les changements dans les langues non angl
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la recherche de la suprématie : comment les maîtres séraphins et les êtres humains pourraient-ils collaborer ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="pr-2">Origine, nature, ministère et destinée des ajusteurs de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

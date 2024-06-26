@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Carolyn Kendall<br>© 2014 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="pr-2">Le voyage après la mort mortelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsqu'un nouveau lecteur demande pourquoi le _Livre d'Urantia_ est descendu de Dieu ou des anges, notre réponse est généralement une ou plusieurs raisons parmi plusieurs : Pour révéler la vraie nature de Dieu, le Père céleste ; révéler la vérité sur la vie et la mission de Jésus de Nazareth ; fournir un récit complet de l'évolution de l'univers et de notre monde ; pour décrire la vie merveilleuse qui nous attend après la mort ; ou simplement, pour sauver les âmes. Nous pourrions ajouter qu’un autre objectif louable de la Révélation Urantia est d’inspirer la société humaine à s’engager sur la voie de l’illumination sociale et spirituelle et de propulser ce monde vers les étapes planétaires de lumière et de vie. 
@@ -179,6 +200,28 @@ Christy a poursuivi en énumérant comment nous pouvons tous rendre un plus gran
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="pr-2">Le voyage après la mort mortelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

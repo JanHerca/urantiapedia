@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Arlene et Buck Weimer<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministère Céleste : Origine, Nature et Destin Vus et Invisibles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="pr-2">Devinez qui viendra ensuite ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté lors de la session d'été de la bourse en juillet 2007._  
@@ -100,3 +124,28 @@ La sensibilisation est le ministère du partage de l’Évangile, et chaque indi
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministère Céleste : Origine, Nature et Destin Vus et Invisibles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="pr-2">Devinez qui viendra ensuite ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Charles Laurence Olivea<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="pr-2">La nouvelle révélation de Jésus vivant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il est très probable que notre mouvement continuera à se décentraliser sous de nombreuses formes alors que le monde connaît ses vicissitudes nationales et planétaires. Il y aura sans aucun doute une augmentation du nombre d'expériences quant à la meilleure manière de diffuser le _Livre d'Urantia_ et ses enseignements à différents niveaux. Les meilleurs peuvent persister comme exemples de ce dont le monde aura besoin pour se réformer.
@@ -78,3 +99,25 @@ Nous jouerons probablement un rôle plus déterminant dans l'influence sur la so
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="pr-2">La nouvelle révélation de Jésus vivant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Larry Mullins<br>© 2004 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steven_Hecht/A_Trace_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une trace de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 1923, Arthur Nash publie un livre intitulé La règle d'or en affaires. Pendant la Première Guerre mondiale, Nash a acheté et repris la direction d'un petit « magasin de misère » de vêtements à Cincinnati. Gardez à l’esprit que ces petits ateliers étaient composés de travailleurs inefficaces qui ne pouvaient pas trouver d’emploi dans de meilleurs ateliers de fabrication de vêtements. Les salaires étaient très bas et les conditions de travail extrêmement mauvaises. La femme la mieux payée du magasin recevait sept dollars par semaine, ce qui était extrêmement bas même à cette époque-là.
@@ -50,3 +71,25 @@ Nash a déclaré qu'il n'aurait jamais continué dans le monde des affaires sans
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steven_Hecht/A_Trace_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une trace de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

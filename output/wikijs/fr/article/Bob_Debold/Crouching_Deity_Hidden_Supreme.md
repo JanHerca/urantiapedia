@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Bob Debold<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le problème des affaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Adam_Aon_Lawrence/We_Are_the_Creatures_Who_Carry_the_Life">
+          <span class="pr-2">Nous sommes les créatures qui portent la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -318,6 +342,31 @@ Enfin, nous terminons sur ces mots spéciaux du Puissant Messager qui nous inspi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le problème des affaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Adam_Aon_Lawrence/We_Are_the_Creatures_Who_Carry_the_Life">
+          <span class="pr-2">Nous sommes les créatures qui portent la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques 
 

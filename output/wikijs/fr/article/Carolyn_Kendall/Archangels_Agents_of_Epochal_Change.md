@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Carolyn Kendall<br>© 2007 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aspects humains étonnants de la révélation d’époque – Vérité contre vérité. Fait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="pr-2">IC 08—Le frisson du service aimant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ ouvre une connaissance des archanges bien plus grande que la conception populaire de ces êtres. Les archanges de la révélation constituent un grand ordre de travailleurs de l'univers local chargés d'un large éventail de fonctions vitales et de devoirs importants : ils facilitent l'implantation de la vie sur les planètes habitées ; ils déclenchent la résurrection de milliards inimaginables de mortels sur les mondes habités ; ils exploitent des circuits de communication vitale entre les planètes individuelles et les mondes-sièges situés au-dessus ; et ils accompagnent le système et les Paradise Sons dans leurs missions de don sans réserve, ainsi que leurs visites judiciaires. Il existe des projets et des programmes encore plus surprenants dans lesquels ils s'engagent. Nous aurions pu, en fait, intituler notre sujet « Archanges et Fils Magistraux », car ce sont eux qui devraient constituer le prochain ordre à visiter notre planète avec une révélation élargie de la vérité. Les archanges sont l'avant-garde et les bras droits des Avonals du Paradis dans leurs missions magistrales.
@@ -146,3 +170,28 @@ Si nous cherchons sincèrement à respecter ces normes, nous serons mieux prépa
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aspects humains étonnants de la révélation d’époque – Vérité contre vérité. Fait</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="pr-2">IC 08—Le frisson du service aimant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

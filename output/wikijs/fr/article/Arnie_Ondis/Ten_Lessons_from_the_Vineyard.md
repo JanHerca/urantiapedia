@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Arnie Ondis<br>© 2009 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La joie dans la poubelle à vers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
+          <span class="pr-2">Découvertes du système solaire qui corroborent le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le 7ème Festival Métaphysique Annuel de la Côte d’Émeraude, qui a eu lieu les 21 et 22 mars à Navarre, en Floride, m’a offert une merveilleuse opportunité de partager la révélation Urantia avec d’autres. J'aimerais partager avec vous certaines des leçons – valeurs – que j'ai expérimentées tout au long du chemin, dans l'espoir que cela puisse vous être utile lorsque des opportunités vous seront présentées pour promouvoir le _Livre d'Urantia_. 
@@ -70,3 +94,28 @@ Soit la lumière.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La joie dans la poubelle à vers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
+          <span class="pr-2">Découvertes du système solaire qui corroborent le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Chuck Thurston<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_Culligan/Unity_Not_Uniformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'unité et non l'uniformité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
+          <span class="pr-2">Pensez-y : nécessaire ou inutile ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Chuck_Thurston/27.jpg">
@@ -113,3 +137,27 @@ Bien d’autres pourraient être ajoutés à cette liste, mais nous espérons qu
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_Culligan/Unity_Not_Uniformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'unité et non l'uniformité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
+          <span class="pr-2">Pensez-y : nécessaire ou inutile ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

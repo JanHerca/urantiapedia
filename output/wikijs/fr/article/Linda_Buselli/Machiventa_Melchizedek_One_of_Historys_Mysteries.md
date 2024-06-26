@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Linda Buselli<br>© 2011 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La puissance du nom de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-2-2011-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 2, 2011 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
+          <span class="pr-2">« Plus près, mon Dieu, de toi » Se rapprocher de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté sous forme d'atelier lors de la session d'études d'été de la bourse, du 7 au 9 juillet 2006, à l'Université dominicaine, River Forest, Illinois. _
@@ -162,3 +186,28 @@ Je crois que nous pouvons tous espérer le rencontrer sur les mondes des maisons
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La puissance du nom de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-2-2011-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 2, 2011 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
+          <span class="pr-2">« Plus près, mon Dieu, de toi » Se rapprocher de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

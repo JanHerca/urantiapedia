@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Larry Mullins<br>© 2012 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l'expérience contre religion de l'autorité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">La cosmologie à la lumière du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -32,3 +56,28 @@ Lena Sadler était une grande urantienne. Son importance, comme celle de nombreu
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l'expérience contre religion de l'autorité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">La cosmologie à la lumière du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

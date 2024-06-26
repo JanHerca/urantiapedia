@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Joshua Wilson<br>© 2020 Elianne Obadia, pour l'édition<br>© 2020 La Fellowship du Livre d'Urantia</ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michael_Hill/Growing_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultiver le Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="pr-2">AUJOURD'HUI est le jour de la JOIE !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout le monde a une mère biologique. Et, pour favoriser un plus grand amour au sein du cercle familial, il y a beaucoup à gagner à découvrir et à connaître le _divin féminin_. 
@@ -140,3 +164,28 @@ Les philosophes de l’univers ont déclaré qu’il existe de multiples, nombre
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Michael_Hill/Growing_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultiver le Suprême</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="pr-2">AUJOURD'HUI est le jour de la JOIE !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

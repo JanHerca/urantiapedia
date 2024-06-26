@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Steve McIntosh<br>© 2012 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souls on Purpose : le projet Personal Creed et le Core Drive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="pr-2">Urantia, 606 de Satania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La session d'études d'été 2012 mettra en vedette Steve McIntosh comme conférencier principal. Son livre de 2007, Integral Consciousness and the Future of Evolution (Paragon House), ainsi que son prochain livre, Evolution's Purpose: An Integral Interpretation of the Scientific Story of Our Origins (Select Books 2012), présentent une philosophie spirituelle de l'évolution qui a de nombreuses affinités avec les enseignements du _Le Livre d'Urantia_. Ce qui suit est un extrait de Evolution’s Purpose, qui sera disponible le 14 août 2012. Cet extrait est tiré du dernier chapitre, intitulé « La promesse d’une nouvelle vision évolutionnaire du monde ». Le chapitre dans son ensemble décrit les contours de la perspective intégrale ou évolutionniste émergente, y compris la manière dont cette perspective peut être appliquée à la croissance personnelle et à l’action politique. Ce bref extrait se concentre sur la composante spirituelle de cette vision du monde émergente. Veuillez noter que les mots « traditionnel », « moderniste » et « postmoderne » sont utilisés comme termes définis pour décrire les principaux segments de population qui composent la culture du monde développé. 
@@ -58,3 +82,28 @@ Et tandis que la perspective évolutionniste s’efforce de discerner les enseig
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souls on Purpose : le projet Personal Creed et le Core Drive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="pr-2">Urantia, 606 de Satania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

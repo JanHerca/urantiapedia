@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 David Glass<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les concepts de confiance et d'espoir dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions">
+          <span class="pr-2">48 Chromosomes : posons-nous les bonnes questions ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 *par David Glass*
@@ -35,3 +59,28 @@ Une famille universelle d'amitié.<br>
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les concepts de confiance et d'espoir dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions">
+          <span class="pr-2">48 Chromosomes : posons-nous les bonnes questions ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

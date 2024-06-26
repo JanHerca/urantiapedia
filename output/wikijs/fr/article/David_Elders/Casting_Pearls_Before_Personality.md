@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Elders<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les racines de la moralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/A_Good_Way_For_Us_To_Live_Our_Lives">
+          <span class="pr-2">Une bonne façon pour nous de vivre notre vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -53,3 +77,28 @@ Nous terminons donc là où nous avons commencé. Chaque être humain construit 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les racines de la moralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/A_Good_Way_For_Us_To_Live_Our_Lives">
+          <span class="pr-2">Une bonne façon pour nous de vivre notre vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

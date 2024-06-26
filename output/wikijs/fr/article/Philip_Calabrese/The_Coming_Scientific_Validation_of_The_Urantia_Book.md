@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Dr Philip Calabrese<br>© 2006 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/What_is_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que la personnalité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (La présentation suivante a été faite lors de la conférence Fellowship International à Villanova en août 2005.)
@@ -604,6 +625,28 @@ Chaque Maître Esprit possède son propre superunivers. Nous appartenons au sept
 - Article obtenu sur [Le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/) 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/What_is_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que la personnalité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

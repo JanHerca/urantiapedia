@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Stephen Zendt<br>© 2000 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prédictions scientifiques du Livre d'Urantia — Partie II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="pr-2">La science de la parentalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jésus a commencé à utiliser des paraboles avec cette déclaration (<a id="a13_66"></a>[LU 151:1.1](/fr/The_Urantia_Book/151#p1_1)) et a ensuite raconté à la multitude l'histoire du semeur de graines. Plus tard, l'apôtre Matthieu lui demanda : « _Pourquoi parles-tu en paraboles à ceux qui recherchent la vérité ? » Et Jésus répondit : « ... ceux qui désirent réellement entrer dans le royaume puissent discerner la signification de l’enseignement et trouver ainsi le salut, tandis que ceux qui nous écoutent uniquement pour nous prendre au piège soient d’autant plus confondus, en ce sens qu’ils verront sans voir et entendront sans entendre._ » (<a id="a13_627"></a>[LU 151:1.3-4](/fr/The_Urantia_Book/151#p1_3)) Je suis fasciné par cette narration que le Maître utilise avec tant de perspicacité. Je crois que les paraboles de Jésus sont des expressions de son génie et de véritables œuvres d'art. Pendant de nombreuses années, j’ai chéri l’histoire du fils prodigue, car elle me parlait profondément à une époque où je me sentais comme un enfant prodigue. Demandez à beaucoup de gens, et ils se souviendront des paraboles plus que de tout autre élément de l'enseignement de Jésus.
@@ -42,3 +66,28 @@ Pendant que vous vous entraînez à perfectionner vos compétences en écriture,
 > Stephen Zendt, lecteur depuis 1971 et hôte d'un groupe d'étude à San Francisco, est actuellement membre du Conseil général, du Fellowship Education Committee, et crée un comité Wrightwood sur les paraboles. Il a travaillé sur divers projets en tant que voix de narration, notamment _Le Livre d'Urantia_ sur bande.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prédictions scientifiques du Livre d'Urantia — Partie II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="pr-2">La science de la parentalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Phillip Marriott<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Voices_from_Our_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voix de notre communauté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Unity_Not_Uniformity_Crossword_Puzzle">
+          <span class="pr-2">L'unité et non l'uniformité Mots croisés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Phillip_Marriott/46.jpg">
@@ -87,3 +111,28 @@ Le livre le résume le mieux avec ces articles finaux :
 
 - [Article de la newsletter en ligne](https://anzura.urantia-association.org/2023/06/25/unity-harmony-within-diversity-of-experience-and-belief)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Voices_from_Our_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voix de notre communauté</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Unity_Not_Uniformity_Crossword_Puzzle">
+          <span class="pr-2">L'unité et non l'uniformité Mots croisés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

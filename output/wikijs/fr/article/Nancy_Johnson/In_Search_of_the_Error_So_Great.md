@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Nancy Johnson<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Câblage de la foi dans le cerveau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="pr-2">Les miracles de Jésus et la volonté du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Présenté pour la première fois à la Conférence internationale du Fellowship de 1990, Snowmass, CO.)
@@ -177,3 +201,28 @@ _Le Livre d'Urantia_ nous dit que notre réalité durable est que nous sommes de
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Câblage de la foi dans le cerveau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="pr-2">Les miracles de Jésus et la volonté du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

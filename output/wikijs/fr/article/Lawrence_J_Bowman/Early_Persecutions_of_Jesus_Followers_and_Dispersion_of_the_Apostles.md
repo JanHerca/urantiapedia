@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Lawrence J. Bowman<br>© 2016 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Écoutez les grands-parents et les YaYA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="pr-2">Réflexions sur les dons de personnalité et l'ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Considérez les passages suivants du _Le Livre d'Urantia_ :
@@ -245,6 +269,31 @@ c49 | L’affrontement de Pierre avec Paul à Antioche
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Écoutez les grands-parents et les YaYA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="pr-2">Réflexions sur les dons de personnalité et l'ajusteur de pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

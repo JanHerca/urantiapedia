@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Bill Rocap<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Devinez qui viendra ensuite ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Painter/You_Be_The_Book">
+          <span class="pr-2">Tu es le livre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque j’ai assisté au Parlement des religions du monde à Barcelone il y a quelques étés, cela a déclenché pour moi une exploration de l’islam. J'ai acheté un Coran et à mon retour, je l'ai lu et j'ai commencé à contacter des musulmans en ligne. En utilisant une approche bienveillante, j'ai rencontré des gens en leur demandant de partager un peu de leur cheminement spirituel. À ce jour, j’ai pu écrire un petit volume sur les rencontres mémorables que j’ai eu la chance de vivre. L’une de ces rencontres a eu lieu avec une famille du sud de la Turquie, qui m’a finalement imploré de lui rendre visite. 
@@ -66,3 +90,28 @@ Je nage dans les réflexions inexprimées de cette expérience. Je reste profond
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Devinez qui viendra ensuite ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Painter/You_Be_The_Book">
+          <span class="pr-2">Tu es le livre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

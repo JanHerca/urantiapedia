@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Bobbie Dreier et Francis Oliver Lynn<br>© 2016 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="pr-2">Écoutez les grands-parents et les YaYA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## De Bobbie... 
@@ -110,3 +131,25 @@ Même si les défis liés aux engagements concurrents et au fait de ne pas vivre
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="pr-2">Écoutez les grands-parents et les YaYA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Dick Bain<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi les révélateurs du Corps Urantia des Révélateurs de Vérité ont utilisé des auteurs de source humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/Progress_Project">
+          <span class="pr-2">Projet d'avancement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Dick_Bain/31.jpg">
@@ -39,3 +63,27 @@ Je crois qu'il est utile d'étudier et de discuter du Livre d'Urantia avec d'aut
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi les révélateurs du Corps Urantia des Révélateurs de Vérité ont utilisé des auteurs de source humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/Progress_Project">
+          <span class="pr-2">Projet d'avancement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

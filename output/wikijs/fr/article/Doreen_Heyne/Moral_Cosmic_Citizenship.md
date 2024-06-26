@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Doreen Heyne<br>© 2008 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« La loi, c’est la vie elle-même… »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="pr-2">Les racines de la moralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté sous forme d'atelier lors de la session d'études d'été 2007 à l'Université dominicaine, River Forest, Illinois_  
@@ -115,6 +139,31 @@ Avons-nous un pied dans nos débuts tribaux et un pied qui tâtonne dans le noir
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« La loi, c’est la vie elle-même… »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="pr-2">Les racines de la moralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

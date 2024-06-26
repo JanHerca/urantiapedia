@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 David Glass<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre avec l'Esprit de Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="pr-2">De deux esprits : humain et divin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Chers amis, J'ai écrit un poème inspiré d'un bref et célèbre vers du célèbre poète anglais victorien, Robert Browning, « Pippa Passes ». Le poème que j'ai écrit prend comme base celui de Browning, à partir duquel j'ai composé mon propre poème. Mon poème est destiné à exprimer l'idée que, quel que soit le niveau de l'univers auquel nous nous trouvons, que ce soit sur terre ou dans une sphère supérieure, nous resterons toujours conscients de la réalité des relations de personnalité et des identités de groupe que nous avons établies ici. Terre. Les relations véritables et réelles que nous formons et développons ici – que ce soit en tant qu'amis ou camarades, en famille ou en groupe de travail en équipe – continueront à nous relier, chacun à chacun et tous ensemble, à mesure que nous poursuivrons le plan de Dieu, pour mieux le comprendre, et ainsi cultiver davantage la communion fraternelle que nous avons formée sur Terre. 
@@ -62,3 +86,28 @@ Jusqu'à ce que le règne de Dieu sur Terre soit comme celui ci-dessus.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre avec l'Esprit de Vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="pr-2">De deux esprits : humain et divin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

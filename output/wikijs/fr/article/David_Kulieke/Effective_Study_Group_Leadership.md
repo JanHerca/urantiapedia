@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 David Kulieke<br>© 2015 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="pr-2">Pouvons-nous avoir une norme universelle de moralité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le discours suivant a été prononcé lors du Symposium du groupe d'étude de l'AUI, du 11 au 15 juin 2014 à Madison, WI. _
@@ -187,3 +208,25 @@ Les groupes d’étude sont des lieux très, très importants et les hôtes des 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="pr-2">Pouvons-nous avoir une norme universelle de moralité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

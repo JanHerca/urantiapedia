@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Bill and Share Beasley<br>© 2006 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prophétie et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/What_is_Personality">
+          <span class="pr-2">Qu'est-ce que la personnalité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Est-ce que toutes les factures sont réglées sur le paiement automatique ? »
@@ -142,3 +166,28 @@ __Ingrédient n°23 : Mais attendez, il y a d'autres leçons ! Tôt ou tard, nou
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prophétie et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/What_is_Personality">
+          <span class="pr-2">Qu'est-ce que la personnalité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

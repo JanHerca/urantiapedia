@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Sharon Porter<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sharon_Porter/Mother_and_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mère et père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="pr-2">Vivre avec l'Esprit de Vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -29,3 +53,28 @@ Merci <br>
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sharon_Porter/Mother_and_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mère et père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="pr-2">Vivre avec l'Esprit de Vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

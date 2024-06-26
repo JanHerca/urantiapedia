@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Michael Painter<br>© 2017 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que trouverons-nous dans l’espace ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="pr-2">Le Suaire de Turin et les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Avez-vous déjà observé deux inconnus qui se rencontrent pour la première fois ? Ils suivent un processus commun. Chacun pose des questions à l'autre. Les sujets habituels sont s'ils sont mariés ou célibataires, ont-ils des enfants, quel genre de travail ils font, où ils ont grandi, etc. Le but de cette interrogation mutuelle est d'essayer de trouver un terrain d'entente. Pourquoi? Lorsque nous avons quelque chose en commun avec une autre personne, nous ressentons un lien avec elle. Nous voulons poursuivre la conversation pour mieux les connaître et voir s'il existe une possibilité d'amitié à un certain niveau. À l’inverse, lorsque nous ne trouvons aucun point commun, nous nous sentons éloignés de cette personne. Les symptômes affectifs du manque de connexion avec quelqu’un sont la tension, l’inconfort, le désir de s’éloigner d’eux et même la peur à des degrés divers. À titre d’exemple, considérez à quel point il est difficile de s’engager ne serait-ce que dans une conversation civile, et encore moins de développer une amitié, lorsque vous rencontrez quelqu’un dont les opinions politiques sont opposées aux vôtres. Il faut un réel effort aux deux personnes pour rester courtois et essayer de trouver un terrain d’entente. Pourquoi s'embêter? Ne sont-ils pas simplement des personnes égarées, immatures ou mal informées qui refusent de voir la vérité lorsque vous la leur présentez ? 
@@ -42,3 +66,28 @@ Le but de l’interconfessionnel est un exemple classique d’« unité, mais pa
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que trouverons-nous dans l’espace ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="pr-2">Le Suaire de Turin et les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

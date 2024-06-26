@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Dave Holt<br>© 2015 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/Effective_Study_Group_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leadership efficace des groupes d’étude : éclairer la voie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="pr-2">Destin du Maître Michaels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les gens jettent des pierres sur notre brillante ville située sur la colline. Est-ce que nous aussi, portant nos lourdes pierres, nous préparons à les affronter sur un champ de bataille ? La plupart des observateurs s’accordent sur le fait que les différences et désaccords moraux sont à l’origine de l’inimitié qui fait rage entre l’Islam et l’Occident. Les sondages qui mesurent l’opinion publique le confirment. 
@@ -150,3 +174,28 @@ Wattles, Jeff. La règle d'or. New York/Oxford : Oxford University Press, 1996.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kulieke/Effective_Study_Group_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leadership efficace des groupes d’étude : éclairer la voie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="pr-2">Destin du Maître Michaels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

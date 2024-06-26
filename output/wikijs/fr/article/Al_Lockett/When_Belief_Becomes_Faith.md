@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Al Lockett<br>© 2003 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sauvegarder les symboles de la foi urantienne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="pr-2">Les modèles de révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La croyance peut exister sans la foi ; mais la foi ne peut exister sans la croyance. La croyance peut exister sans Dieu ; mais la foi ne peut exister sans Dieu.
@@ -86,3 +110,28 @@ Alors que nous observons et vivons dans un monde où Dieu existe, nous ne pouvon
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sauvegarder les symboles de la foi urantienne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="pr-2">Les modèles de révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

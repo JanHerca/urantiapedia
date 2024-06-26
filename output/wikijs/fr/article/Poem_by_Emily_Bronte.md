@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La double nature de la suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aucune âme lâche n'est à moi 
@@ -56,3 +77,25 @@ Et ce que tu es ne pourra jamais être détruit.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La double nature de la suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

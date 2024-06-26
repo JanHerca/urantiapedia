@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Steve Dreier<br>© 2013 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gary_Deinstadt/Religion_of_One">
+          <span class="pr-2">Religion d'Un</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit est un discours en séance plénière prononcé lors de_ la Conférence internationale de la _Fellowship du Livre d'Urantia à l'Université Villanova à Philadelphie, Pennsylvanie, en 2005._ 
@@ -101,3 +122,25 @@ La personnalité est centrale. Je ne pense pas que nous nous y concentrions suff
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gary_Deinstadt/Religion_of_One">
+          <span class="pr-2">Religion d'Un</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

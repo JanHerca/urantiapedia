@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Steven Hecht<br>© 2003 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Prayer_from_another_world">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière d'un autre monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="pr-2">Sauvegarder les symboles de la foi urantienne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -62,3 +86,28 @@ Ensuite, le Maître a mis en garde ses auditeurs contre l’idée selon laquelle
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Prayer_from_another_world">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière d'un autre monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="pr-2">Sauvegarder les symboles de la foi urantienne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

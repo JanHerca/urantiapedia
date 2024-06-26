@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Stephen<br>© 2000 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'éthique du contrôle génétique et de l'ingénierie sociale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Remarque : l'auteur nous a demandé de cacher son identité complète pour protéger son statut professionnel et ses relations. Nous accédons à sa demande. - Rédacteurs)_
@@ -34,3 +55,25 @@ Nous pouvons également bénéficier de la sensibilité du public dans un sens p
 J'ai exposé mes points centraux. Il y a un point conséquent important qui implique également la sensibilité du public. Plus tôt, j'ai cité le passage sur les cinq valeurs de la révélation, mais je n'ai pas cité la cinquième valeur, qui est la suivante : « _Présenter les données cosmiques d’une manière qui éclaire les enseignements spirituels contenus dans la révélation qui les accompagne._ » (<a id="a33_396"></a>[LU 101:4.10](/fr/The_Urantia_Book/101#p4_10)). Il s’agit d’un argument convaincant contre la publication séparée des Cahiers de Jésus (ou d’une partie de ceux-ci) : ils ne sont pas accompagnés des données cosmiques nécessaires pour donner un sens à une grande partie du contenu : Qui sont les Anciens des Jours ? Qu’entend-on par « acquérir la souveraineté parfaite » ? Quelles étaient les « affaires de… la rébellion de Lucifer » qu’il devait « démêler » ? Qu’est-ce qu’un Ajusteur de Pensée Personnalisé, une forme morontielle, une vie de don ? Certains diront que ces questions inciteront les nouveaux lecteurs à acheter le livre en entier, et quelques-uns le feront sans doute. Mais d’autres ignoreront ou interpréteront mal ces termes importants. Le fait est que les « données cosmiques » « accompagnant » ici les « enseignements spirituels » sont insuffisantes. Si nous voulons proposer ces termes à de nouveaux lecteurs, nous devons leur raconter toute l’histoire.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'éthique du contrôle génétique et de l'ingénierie sociale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Stephen Zendt<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi des cinquante prochaines années...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="pr-2">Modèle d'unité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Avez-vous réfléchi à la manière dont vous vous inscrivez dans l’ordre des choses ? Avez-vous une idée de votre place dans le domaine plus large de l’évolution cosmique ? Quelle fonction remplissez-vous en tant que personnalité ? J'aimerais vous inviter à l'étude complexe mais richement satisfaisante des nombreuses choses que la révélation Urantia a à dire sur le _modèle_.
@@ -57,3 +81,28 @@ C’est pourquoi l’étude du MODÈLE est vitale pour notre appréciation et no
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi des cinquante prochaines années...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="pr-2">Modèle d'unité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

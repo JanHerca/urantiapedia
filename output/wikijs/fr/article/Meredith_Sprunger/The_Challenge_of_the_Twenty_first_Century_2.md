@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith J. Sprunger<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="pr-2">Face au changement millénaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (La présentation suivante a été donnée lors de la conférence régionale du Midwest tenue à Fall Creek, dans le parc d'État de l'Illinois, les 7 et 8 octobre 1995.) 
@@ -54,3 +75,25 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
 
 - Cet article a également été publié (en format court) ici : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html (et il est également disponible dans Urantiapedia ici : [Le Défi du 21ème Siècle](/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="pr-2">Face au changement millénaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

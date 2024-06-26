@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Carolyn Kendall<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suprême et la Sensibilisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bill_Rocap/A_Missionary_Experience_in_Turkey">
+          <span class="pr-2">Une expérience missionnaire en Turquie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Présenté le dimanche 22 juillet 2007, session d'études d'été sur la bourse, Université dominicaine, River Grove, IL_  
@@ -205,3 +229,28 @@ Document disponible : « Chronologie : personnalités, événements et tendances
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Suprême et la Sensibilisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bill_Rocap/A_Missionary_Experience_in_Turkey">
+          <span class="pr-2">Une expérience missionnaire en Turquie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

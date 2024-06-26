@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Dave Holt<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emilio Coppola, Avi Dogim, Steve Dreier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hill/Growing_the_Supreme">
+          <span class="pr-2">Cultiver le Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comment pouvons-nous comprendre dans notre esprit que le Dieu absolu et immuable peut aussi être un Dieu grandissant et évolutif, se manifestant de nouvelles manières ? Lors de conversations avec mon cousin catholique, il a eu beaucoup de mal à unifier ces idées apparemment contradictoires sur la Divinité, pour ne pas dire que je ne l'ai pas fait. Nous pouvons y parvenir si nous commençons à accepter l’idée fondamentale selon laquelle non seulement la vie continue d’évoluer, mais que Dieu évolue également pour répondre aux besoins provoqués par les changements survenus sur la terre, dans l’univers et les transformations initiées par les êtres humains. C'est pourquoi _Le Livre d'Urantia_ (L'LU) nous offre sa nouvelle vision, une révélation d'un Être Suprême. « *L’action,* l’exécution des décisions, est essentielle pour atteindre, par évolution, la conscience de parenté progressive avec *l’actualisation cosmique* de l’Être Suprême. » <a id="a13_946"></a>[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17)
@@ -43,3 +67,28 @@ Nous, en tant qu'artistes, musiciens, écrivains et autres, qui cherchons à ré
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emilio Coppola, Avi Dogim, Steve Dreier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hill/Growing_the_Supreme">
+          <span class="pr-2">Cultiver le Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

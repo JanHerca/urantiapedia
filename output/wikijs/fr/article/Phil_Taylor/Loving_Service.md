@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Phil Taylor<br>© 2007 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science-fiction pour les agondontaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/The_Kingdom_and_the_Supreme">
+          <span class="pr-2">Le Royaume et le Suprême – Aperçus pour simplifier la compréhension du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a quinze ans, j'ai pris la décision de servir. J'avais été bénévole en tant que directeur de construction chez Habitat pour l'humanité pendant un an, un emploi à temps plein pour quatre dollars de l'heure. J'étais menuisier et gagnais de bien meilleurs salaires ailleurs, mais j'ai décidé d'accepter ce travail pour une raison : ; après une méditation priante, il est devenu évident que telle était la volonté de mon Père Paradisiaque. L’idée qui m’était venue à l’esprit était qu’une telle opportunité me fournirait une précieuse formation en leadership ; et voyant cette pensée comme une idée de mon expert en sinistres, j'ai accepté le poste. Je ne savais pas encore comment j'allais payer le loyer ; mais si c’était la volonté du Père, alors je savais que quelque chose s’arrangerait.
@@ -65,3 +89,28 @@ L'année prochaine, la Bourse du Livre d'Urantia accueillera la Conférence Inte
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science-fiction pour les agondontaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/The_Kingdom_and_the_Supreme">
+          <span class="pr-2">Le Royaume et le Suprême – Aperçus pour simplifier la compréhension du Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

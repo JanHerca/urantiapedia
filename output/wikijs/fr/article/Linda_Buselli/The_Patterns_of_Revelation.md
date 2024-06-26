@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Linda Buselli<br>© 2003 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand la croyance devient foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
+          <span class="pr-2">La difficulté d’être objectif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour un lecteur du Livre d'Urantia, le sujet de la révélation a de nombreuses significations et de nombreux niveaux au sein de chaque signification. La plupart des religions modernes ont déjà leurs saintes écritures, les considèrent comme inviolables et ne s’attendent pas vraiment à ce que de nouvelles « écritures » soient révélées. Pourtant, au cours du siècle dernier, un éveil spirituel a balayé le monde, apportant avec lui non seulement le Livre d'Urantia, mais un certain nombre d'autres écrits considérés comme de nouvelles révélations de Dieu. Quel est cet éveil spirituel et quelle est la place du Livre d'Urantia dans celui-ci ?
@@ -78,3 +102,28 @@ _Le Livre d'Urantia,_ comme les révélations précédentes, est un dépositaire
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand la croyance devient foi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
+          <span class="pr-2">La difficulté d’être objectif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

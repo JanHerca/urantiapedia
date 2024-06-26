@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Sara Blackstock<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voyage en Inde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="pr-2">Un héritage en péril</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Note de l'éditeur : tous les mots en gras indiquent l'accent mis par l'auteur.)
@@ -83,3 +107,28 @@ Si nous pouvons permettre et guider nos enfants à développer leur propre relig
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voyage en Inde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="pr-2">Un héritage en péril</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

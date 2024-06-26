@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Angela Thurston<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Socialisation cosmique et citoyenneté planétaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="pr-2">Le problème des affaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je m'appelle Angela Thurston et j'ai vingt-cinq ans. À bien des égards, je sais que l’éducation que mes frères et sœurs et moi avons reçue n’était pas unique ; de nombreux enfants ont la chance de grandir avec _Le Livre d'Urantia_ dans leur foyer et dans le cadre de leurs routines familiales. Certains de ces enfants adhèrent au livre, d’autres non. Ce n’est pas mon intention d’exposer les facteurs critiques qui ont conduit mes deux jeunes frères et sœurs et moi-même à accepter le livre comme étant la vérité et à nous identifier sans réserve comme Urantiens dans nos vies de jeunes adultes. Notre libre arbitre exclut ce modèle. Cependant, il y a des façons dont je crois que notre expérience de grandir dans une maison et une communauté urantienne était, sinon unique, du moins un exemple positif. J’en expliquerai quelques-uns dans l’article qui suit. 
@@ -66,3 +90,28 @@ Tous les enfants de huit ans immergés dans les enseignements du _Livre d'Uranti
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Socialisation cosmique et citoyenneté planétaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="pr-2">Le problème des affaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

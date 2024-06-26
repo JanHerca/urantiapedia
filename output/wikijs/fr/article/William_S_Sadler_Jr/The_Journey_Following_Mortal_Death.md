@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 William S. « Bill » Sadler, Jr.<br>© 2014 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réhabilitation d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="pr-2">À la recherche de la suprématie : comment les maîtres séraphins et les êtres humains pourraient-ils collaborer ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce qui suit est la transcription d'une visite effectuée par William S. « Bill » Sadler, Jr. à un groupe d'étude en 1959 ou 1960, lorsque Bill visitait divers groupes d'étude en Californie, en Oklahoma et ailleurs. Les transcriptions d'autres sessions enregistrées se trouvent dans les archives du site Web de la Fellowship. 
@@ -259,3 +283,28 @@ Non. Le journal le dit, et maintenant le finalitaire est face à face avec le d�
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La réhabilitation d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="pr-2">À la recherche de la suprématie : comment les maîtres séraphins et les êtres humains pourraient-ils collaborer ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

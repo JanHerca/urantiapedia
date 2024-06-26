@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Bro. Joshua J. Wilson<br>© 2021 Elianne Obadia, pour l'édition<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Séjourneur de l'âme : Jardinier de nos cœurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Huggins/Foxy_Parents">
+          <span class="pr-2">Parents rusés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -118,3 +142,28 @@ Disponible sur demande en écrivant à musical@cox.net.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Séjourneur de l'âme : Jardinier de nos cœurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Huggins/Foxy_Parents">
+          <span class="pr-2">Parents rusés</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

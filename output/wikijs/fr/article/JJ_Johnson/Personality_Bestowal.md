@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 JJ Johnson<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Joyaux de sagesse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Derek_Samaras/Ancient_Japan_Jomon_Culture">
+          <span class="pr-2">Japon ancien : culture Jōmon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introduction
@@ -214,6 +238,31 @@ Reçu gratuitement, donner gratuitement... Références du _Livre d'Urantia_ de 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Joyaux de sagesse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Derek_Samaras/Ancient_Japan_Jomon_Culture">
+          <span class="pr-2">Japon ancien : culture Jōmon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques 
 

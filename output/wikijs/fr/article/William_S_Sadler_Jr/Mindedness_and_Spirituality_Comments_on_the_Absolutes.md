@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1950 William « Bill » Sadler Jr.<br>© 2016 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur les dons de personnalité et l'ajusteur de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="pr-2">Pourquoi devriez-vous soutenir une organisation Urantia comme la Urantia Book Fellowship ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Transcrit d'un enregistrement sur bande de Bill Sadler Jr. lors d'un groupe d'étude. Légèrement modifié pour plus de lisibilité._ 
@@ -131,3 +155,28 @@ Les 21 Anciens des Jours ont été créés et commandés, je pense que c'est l'e
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur les dons de personnalité et l'ajusteur de pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="pr-2">Pourquoi devriez-vous soutenir une organisation Urantia comme la Urantia Book Fellowship ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stephen Dreier<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deux cosmologies — L'astronomie et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="pr-2">La double nature de la suprématie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'immortalité est une préoccupation fondamentale de la vie humaine. La vie personnelle, avec ses relations, ses valeurs et ses souvenirs, survit-elle à la mort physique, ou prend-elle fin soudainement et définitivement ? La question revêt une profonde signification personnelle et philosophique. 
@@ -68,3 +92,28 @@ Nous ne sommes qu'au début de cette aventure de découverte. Il existe un nombr
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deux cosmologies — L'astronomie et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="pr-2">La double nature de la suprématie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

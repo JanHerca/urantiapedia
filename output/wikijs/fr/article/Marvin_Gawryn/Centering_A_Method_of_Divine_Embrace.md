@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Marvin Gawryn<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur le Mouvement Urantia en 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="pr-2">L'eugénisme et le Livre d'Urantia : une autre perspective</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quand j'ai commencé à lire _Le Livre d'Urantia_ il y a de nombreuses années, la possibilité qu'il promettait et qui m'excitait le plus était que je pourrais avoir une relation directe avec Dieu. Il affirmait que j'étais un enfant de Dieu et que je pouvais réellement expérimenter cette vérité quotidiennement. Comment pouvons-nous expérimenter de manière vivante la filiation avec notre Père chaque jour ? Comment pouvons-nous jouir d’une communion intime avec nos Ajusteurs intérieurs, d’une amitié constante et pleine d’affection avec Dieu ? Après tout, Jésus a dit : « _Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à *sentir la présence de Dieu.*_ » <a id="a13_724"></a>[LU 155:6.12](/fr/The_Urantia_Book/155#p6_12)
@@ -103,3 +127,28 @@ Tous ces merveilleux résultats, je crois, découlent naturellement de la simple
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur le Mouvement Urantia en 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="pr-2">L'eugénisme et le Livre d'Urantia : une autre perspective</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

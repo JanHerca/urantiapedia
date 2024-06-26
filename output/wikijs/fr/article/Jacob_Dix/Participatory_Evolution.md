@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jacob Dix<br>© 2007 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mise à jour de l'année 2006 sur la validation scientifique à venir du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Man">
+          <span class="pr-2">Personnalité et homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque les Dieux dans l’unité projetèrent Havona éternel, « _le modèle éternel de participation coordonnée à la création – le partage_ » fut révélé pour toujours. Et les Fils et Filles de Dieu ont depuis lors tenté de « _reproduire dans le temps l’univers central de perfection éternelle._ » Pour y parvenir, le Père « _s’associe en fait avec nous au moyen de son propre esprit._ » <a id="a13_383"></a>[[LU 54:2.1](/fr/The_Urantia_Book/54#p2_1)]
@@ -77,3 +101,28 @@ Cette éthique de la vie ne s'applique pas seulement aux relations individuelles
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mise à jour de l'année 2006 sur la validation scientifique à venir du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Man">
+          <span class="pr-2">Personnalité et homme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

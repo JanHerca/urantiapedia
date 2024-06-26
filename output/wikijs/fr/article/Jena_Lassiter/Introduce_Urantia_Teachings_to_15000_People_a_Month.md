@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jena Lassiter<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Divine_Synergy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Synergie Divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="pr-2">Chronologie de la mort, de la résurrection et de l'ascension de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Beaucoup d’entre nous ont présenté les enseignements à des personnes que nous connaissons. Nos vies sont plus riches grâce à notre compréhension des enseignements du _Livre d'Urantia_. Beaucoup d’entre nous croient qu’il y aurait plus de joie et de paix dans le monde si tout le monde sur la planète pouvait voir que nos vies physiques ici font partie d’un voyage plus vaste en tant qu’êtres spirituels. Je suis tellement inspiré par les enseignements que j'ai essayé de présenter le livre à mes amis et à ma famille dans l'espoir qu'ils puissent vivre une transformation similaire. 
@@ -57,3 +81,28 @@ Une formation sera disponible afin que les modérateurs sachent vraiment écoute
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Divine_Synergy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Synergie Divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="pr-2">Chronologie de la mort, de la résurrection et de l'ascension de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

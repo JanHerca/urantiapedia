@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Dave Holt<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antti_Roine/Science_Cannot_Replace_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science ne peut pas remplacer la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je ne suis qu'un roseau..
@@ -50,3 +71,25 @@ Par Dave Holt, Concord, Californie
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Antti_Roine/Science_Cannot_Replace_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science ne peut pas remplacer la religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

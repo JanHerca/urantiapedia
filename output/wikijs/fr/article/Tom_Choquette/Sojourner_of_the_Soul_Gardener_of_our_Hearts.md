@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Tom Choquette<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À notre Mère Esprit, le Saint-Esprit, le Donateur d'Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclame la Fête des Fêtes : le 18 mai</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -86,3 +110,28 @@ Tom Choquette à la Conférence Internationale de la Bourse du Livre d'Urantia 2
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À notre Mère Esprit, le Saint-Esprit, le Donateur d'Esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclame la Fête des Fêtes : le 18 mai</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

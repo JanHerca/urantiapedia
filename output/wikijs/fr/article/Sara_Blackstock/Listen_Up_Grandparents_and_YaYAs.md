@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Sara Blackstock<br>© 2016 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cercle d'esprits apparentés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="pr-2">Premières persécutions des disciples de Jésus et dispersion des apôtres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les parents d'aujourd'hui et ceux à venir qui ont trouvé les enseignements du _Livre d'Urantia_ essentiels à leur développement spirituel ONT BESOIN de votre expérience, de vos suggestions, de votre mentorat. Transmettre ce que l’on a appris est en réalité un principe que l’on retrouve à tous les niveaux de notre carrière universelle. Beaucoup d'entre nous qui sommes des « LUers » de longue date étaient seuls alors que nous essayions de transmettre les vérités du _Livre d'Urantia_ à nos enfants. Nous l’avons fait par le siège de notre pantalon avec différents niveaux de succès. Il existe désormais une génération de grands-parents, ainsi que la jeune génération que vous avez élevée, qui peuvent bénéficier de manière mesurable de votre volonté de partager certaines de vos expériences. 
@@ -36,3 +60,28 @@ Merci au nom des parents actuels et futurs parents pour votre temps et vos répo
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cercle d'esprits apparentés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="pr-2">Premières persécutions des disciples de Jésus et dispersion des apôtres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

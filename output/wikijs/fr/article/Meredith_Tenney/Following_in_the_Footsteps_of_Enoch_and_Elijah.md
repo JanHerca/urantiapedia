@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Meredith Tenney<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="pr-2">L’inévitable (et nécessaire) « religion organisée » basée sur le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour la plupart d’entre nous, la fusion des ajusteurs semble un rêve lointain et inaccessible ; un objectif noble et inaccessible qui n’est pas réalisable au cours de cette vie. Beaucoup considèrent qu’il ne vaut guère la peine de penser à la fusion des Ajusteurs, et encore moins d’y travailler, estimant que la réalisation de cet objectif divin nécessiterait au moins un millénaire. Nous rejetons le magnifique potentiel d’union avec nos ajusteurs de pensée comme un fantasme égoïste trop improbable pour perdre du temps à le contempler, plutôt que comme le chemin du salut éternel que chacun de nous est invité à emprunter. Parce que l'union avec nos ajusteurs est généralement considérée comme impossible dans cette vie, il y a une pénurie d'ateliers ou de discussions axés sur les étapes de la fusion des ajusteurs, mais ce n'est pas un rêve invraisemblable et est plus à portée de main que nous ne le pensons. 
@@ -140,3 +161,25 @@ Même si Jésus a exercé son ministère à une époque où de nombreuses person
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="pr-2">L’inévitable (et nécessaire) « religion organisée » basée sur le Livre d’Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

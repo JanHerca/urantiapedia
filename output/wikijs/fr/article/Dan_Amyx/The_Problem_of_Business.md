@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Dan Amyx<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage d'un Urantien de deuxième génération</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Divinité accroupie / Suprême caché</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout au long de ma vie, certains aspects des affaires m'ont troublé. J’ai observé que de riches sociétés internationales nuisaient à l’environnement, causaient des problèmes culturels dans les pays en développement et causaient même des morts, tout cela par manque d’argent. Pour certaines personnes, cela pourrait suggérer que l’argent et les affaires sont mauvais ou mauvais. Mais ce n’est pas l’argent qui est le problème, c’est son administration ; l’exercice du pouvoir financier sans éthique ni moralité. Bien sûr, de nombreuses entreprises respectent la loi, mais elles trouvent souvent des « failles » qui leur permettent de faire ce qu’elles veulent, sans se soucier des conséquences périphériques. En d’autres termes, les entreprises font généralement ce qu’elles peuvent faire, et non ce qui est juste. Je pense que cela s’explique en partie par le fait que pendant des siècles, les affaires ont été traitées comme une entité distincte de notre vie quotidienne. C’est considéré comme amoral, sans morale ni bonne ni mauvaise – simplement sans. Cela a permis à des hommes et des femmes qui vivent normalement leur vie de manière éthique ou morale de prendre un congé sabbatique de tout comportement approprié pendant qu'ils mènent leurs affaires. 
@@ -69,3 +93,28 @@ Nous ne pouvons pas changer le monde maintenant, mais nous pouvons changer le mo
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage d'un Urantien de deuxième génération</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Divinité accroupie / Suprême caché</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

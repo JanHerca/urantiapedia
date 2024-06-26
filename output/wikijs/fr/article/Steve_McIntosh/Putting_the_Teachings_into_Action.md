@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Steve McIntosh<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un héritage en péril</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Antti_Roine/Science_Cannot_Replace_Religion">
+          <span class="pr-2">La science ne peut pas remplacer la religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un nombre croissant de lecteurs du Livre d’Urantia découvrent la puissance d’une nouvelle philosophie évolutionniste qui complète les enseignements du livre et offre des opportunités significatives pour leur application. Connue sous le nom de « philosophie intégrale », cette nouvelle vision du monde promet d’avoir un impact majeur sur l’histoire du 21e siècle.
@@ -242,3 +266,28 @@ Il est vrai que le mouvement en faveur d’une fédération mondiale intégrale 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un héritage en péril</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Antti_Roine/Science_Cannot_Replace_Religion">
+          <span class="pr-2">La science ne peut pas remplacer la religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

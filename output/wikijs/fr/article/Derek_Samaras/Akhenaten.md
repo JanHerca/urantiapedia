@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Derek Samaras<br>© 2018 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/A_Tale_of_Two_Men">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une histoire de deux hommes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="pr-2">Les nouveaux enseignants/dirigeants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Akhénaton (Ikhenaton) 
@@ -149,3 +173,28 @@ J'ai sélectionné quelques-uns de mes passages préférés du livre des Proverb
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/A_Tale_of_Two_Men">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une histoire de deux hommes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="pr-2">Les nouveaux enseignants/dirigeants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

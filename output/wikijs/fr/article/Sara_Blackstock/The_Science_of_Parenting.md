@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sara Blackstock<br>© 2000 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Je vais leur raconter une histoire»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">L'éthique du contrôle génétique et de l'ingénierie sociale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La parentalité a toujours été un étrange mélange de tradition et de mythe (qui n'est souvent pas différent du hasard). Les parents s’efforcent d’exprimer l’une des émotions les plus puissantes et les plus enracinées – l’amour parental – à et à travers leurs enfants. Nous voilà - des milliers et des milliers de livres et de méthodes plus tard, et des milliards de conseils de grands-parents et d'autres membres de la famille et amis bien intentionnés - toujours dans la confusion sur la façon de « faire » ce travail le plus difficile qui, une fois terminé, bien apporte beaucoup de joie et de satisfaction. Cela contribue au bien-être de la famille et de la communauté et, lorsque cela ne semble pas bien fonctionner, cela entraîne de la culpabilité et de grandes épreuves dans la famille et la communauté.
@@ -58,3 +82,28 @@ Je ne suis pas un scientifique. Je travaille avec des centaines d'enfants par jo
 > Sara Blackstock a travaillé avec des enfants pendant la majeure partie de sa vie. Actuellement, elle est directrice d'une grande garderie et son travail pour le mouvement Urantia tourne autour de son intérêt pour les familles et les enfants. Sara a un fils adulte qui a été élevé avec _Le Livre d'Urantia_. Elle se consacre à allumer l’étincelle de Dieu chez les enfants et les jeunes.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Je vais leur raconter une histoire»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">L'éthique du contrôle génétique et de l'ingénierie sociale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

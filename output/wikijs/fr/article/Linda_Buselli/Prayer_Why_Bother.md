@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Linda Buselli<br>© 2014 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Goodman/Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a plus de trente ans, en tant que l'un des rédacteurs originaux du _Urantian Journal_, j'ai décidé de faire un numéro sur la prière, et j'ai demandé à un certain nombre de personnes de la communauté Urantia de soumettre des articles sur le sujet. Toutes les personnes à qui j’ai posé la question avaient l’air gênées et balbutiaient pratiquement la même réponse : « _Euh, je ne prie pas, j’adore._ » Les gens ont finalement fait don d’articles, mais seulement s’ils pouvaient écrire sur l’adoration aussi bien que sur la prière. Personne n’était suffisamment à l’aise avec le sujet de la prière en soi pour l’aborder. Et une personne, un lecteur très respecté, a déclaré : « _La prière ? Pourquoi s'embêter? De toute façon, Dieu sait déjà tout._ » 
@@ -110,3 +131,25 @@ Nous pouvons vivre avec une conscience priante de partenariat avec Dieu tout au 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_Goodman/Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

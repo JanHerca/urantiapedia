@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Sue Haskell, Paula Thompson et Abert Einstein Lassiter<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kurt_Cira/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="pr-2">L'art du langage universel : conversations sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Paula_Thompson_et_al/22.jpg">
@@ -107,3 +131,27 @@ Les réponses se trouvent dans la Révélation Urantia. Nous les avons. Sommes-n
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kurt_Cira/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="pr-2">L'art du langage universel : conversations sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

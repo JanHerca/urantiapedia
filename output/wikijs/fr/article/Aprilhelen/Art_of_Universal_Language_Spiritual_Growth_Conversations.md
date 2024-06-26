@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Aprilhelen Lovesyou<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson_et_al/An_Amazing_Event_is_Coming_for_UB_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un événement étonnant arrive pour les lecteurs du Livre d’Urantia (et peut-être pour le monde !)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Schlundt/Walls_Doors_and_Windows_The_Psychology_of_Disseminating_UB">
+          <span class="pr-2">Murs, portes et fenêtres : la psychologie de la diffusion des enseignements du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Aprilhelen/24.jpg">
@@ -119,3 +143,27 @@ Si vous souhaitez me contacter, contactez-nous à aprilhelen@urantiabook.org
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson_et_al/An_Amazing_Event_is_Coming_for_UB_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un événement étonnant arrive pour les lecteurs du Livre d’Urantia (et peut-être pour le monde !)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Schlundt/Walls_Doors_and_Windows_The_Psychology_of_Disseminating_UB">
+          <span class="pr-2">Murs, portes et fenêtres : la psychologie de la diffusion des enseignements du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

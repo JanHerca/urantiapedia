@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Charles Montgomery<br>© 2001 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion universelle : une présentation interconfessionnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gina_Buselli/Last_Mountain_In_Vancouver">
+          <span class="pr-2">Dernière montagne à Vancouver</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -96,3 +120,28 @@ On nous dit que, sur les mondes établis dans la lumière et la vie, « _la repr
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion universelle : une présentation interconfessionnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gina_Buselli/Last_Mountain_In_Vancouver">
+          <span class="pr-2">Dernière montagne à Vancouver</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Martin Greenhut<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Laissez votre âme décider</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="pr-2">Les concepts de confiance et d'espoir dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je suis diplômé du Talmudical Academy High School et du Yeshiva College de New York. J'ai également fréquenté l'Institut des professeurs d'hébreu à la Yeshiva pendant six ans. Pendant toute ma jeunesse, j'ai été intensément actif dans la vie juive et j'ai été un étudiant orthodoxe de Yeshiva jusqu'à ma dernière année d'université, lorsque j'ai choisi d'abandonner mon orthodoxie et la ségrégation qui en résulte du reste du monde. Je suis devenu ce qu’on appelle aujourd’hui en Israël « un juif laïc ». Cela signifie simplement que j'ai abandonné mes engagements et mes pratiques orthodoxes et que j'ai vécu comme un agnostique... pas hostile à la religion... mais simplement incapable de m'identifier aux diverses doctrines sectaires. Je croyais que si Dieu existait, il n'aimerait aucun peuple sur terre plus que les autres et n'exclurait certainement personne du salut éternel simplement parce qu'il était né dans la mauvaise religion.
@@ -31,3 +55,28 @@ La révélation de l'amour de Dieu dans la vie humaine du Fils de l'homme contin
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Laissez votre âme décider</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="pr-2">Les concepts de confiance et d'espoir dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

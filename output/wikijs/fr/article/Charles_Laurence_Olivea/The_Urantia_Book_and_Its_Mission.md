@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Charles Laurence Olivea<br>© 2015 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destin du Maître Michaels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text">
+          <span class="pr-2">Le Livre d'Urantia est-il un texte sacré ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Préface 
@@ -146,3 +170,28 @@ La vérité, la beauté et la bonté prévaudront encore.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destin du Maître Michaels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text">
+          <span class="pr-2">Le Livre d'Urantia est-il un texte sacré ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

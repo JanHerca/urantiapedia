@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Henry Begemann<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Missions magistrales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="pr-2">Où vas-tu, femme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Note Urantiapedia_ : _Cet article a déjà paru dans_ [_6-0-6 Newsletter septembre 1986_](/fr/article/Henry_Begemann/Springtime_a_study_of_the_future_2)
 >
@@ -120,3 +144,28 @@ De cette manière et de bien d'autres, nous pourrions nous préparer pour «_l'�
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Missions magistrales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="pr-2">Où vas-tu, femme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

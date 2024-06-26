@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Michael Hill<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pamela_Chaddock/Thy_Kin_Dom_Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ton Kin-Dom Viens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Allen/Another_and_Greater_John_or_Joan_the_Baptist">
+          <span class="pr-2">Un autre et plus grand Jean (ou Jeanne) le Baptiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Michael_Hill/07.jpg">
@@ -47,3 +71,27 @@ Michael Hill vit dans une petite ferme à Alsea, dans l'Oregon.
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pamela_Chaddock/Thy_Kin_Dom_Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ton Kin-Dom Viens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Allen/Another_and_Greater_John_or_Joan_the_Baptist">
+          <span class="pr-2">Un autre et plus grand Jean (ou Jeanne) le Baptiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

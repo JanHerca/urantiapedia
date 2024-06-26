@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Paul Premsagar, MD<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrage - Une méthode d'étreinte divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="pr-2">Embouchure révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Fellowship Herald de l’été 2001 a publié un article intitulé « Eugénisme éthique : une proposition modeste pour le 21e siècle » écrit par Charles (Chick) Montgomery. J'écris ceci en réponse à cela, soulignant les points sur lesquels je ne suis pas d'accord avec Chick sur la base de ma compréhension de l'enseignement du _Le Livre d'Urantia_. Ce qui suit n’est pas une réfutation, mais une autre perspective. J'ai utilisé des citations du _Livre d'Urantia_ pour soutenir mes arguments.
@@ -94,3 +118,28 @@ Le message central du _Livre d'Urantia_ est la paternité de Dieu et la fraterni
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrage - Une méthode d'étreinte divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="pr-2">Embouchure révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

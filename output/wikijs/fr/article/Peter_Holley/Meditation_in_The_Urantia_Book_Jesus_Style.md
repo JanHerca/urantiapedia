@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Peter Holley<br>© 2004 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'essor de la technologie spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="pr-2">L'art du mariage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Note de l'éditeur : tous les mots en gras indiquent l'emphase ajoutée par l'auteur.
@@ -254,6 +278,31 @@ Dans ce domaine, comme dans la plupart des autres, nous ne pouvons pas trop nous
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'essor de la technologie spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="pr-2">L'art du mariage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

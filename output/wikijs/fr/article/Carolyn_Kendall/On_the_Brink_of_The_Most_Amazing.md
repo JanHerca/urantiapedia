@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Carolyn Kendall<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="pr-2">Laissez votre âme décider</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > *L'article suivant est basé en grande partie sur les souvenirs de Carolyn Kendall, membre du Forum de 1951 à 1956. D'autres personnes familières avec les événements décrits ci-dessous peuvent se souvenir des choses différemment. Les lecteurs sont invités à commenter ou à ajouter leurs propres souvenirs de ces événements en écrivant au Fellowship Herald.*
@@ -366,3 +387,25 @@ L'article suivant met en évidence les inquiétudes parfois exprimées quant à 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="pr-2">Laissez votre âme décider</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Kantor<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi de l’éducation basée sur la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il n'est pas rare d'entendre un lecteur du _Livre d'Urantia_ exprimer l'idéal de pouvoir aider nos amis invisibles d'une manière ou d'une autre dans leur travail. Trop souvent, il suffit d'imaginer ce que serait d'être réserviste. Mais il existe dans notre monde des besoins spirituels très profonds et des potentiels de service cosmiquement impérieux, dont les répercussions s’étendent bien au-delà de cette vie. 
@@ -140,3 +161,25 @@ L’histoire de votre carrière dans l’univers montrera-t-elle que vous étiez
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi de l’éducation basée sur la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

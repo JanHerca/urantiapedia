@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 James Perry<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les nouveaux enseignants/dirigeants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="pr-2">L'être suprême dans ma vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Marion et moi aimerions partager quelques aperçus du mariage que nous avons découverts après 52 ans de vie commune. Nous espérons que ces informations vous inspireront lorsque vous commencerez votre vie conjugale. La cérémonie de mariage, avec tous ses préparatifs et avec la famille et les amis réunis pour célébrer, est le début de votre vie ensemble. 
@@ -40,3 +64,28 @@ Reggie et Sherry, voulez-vous avoir un mariage insubmersible et incassable ? App
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les nouveaux enseignants/dirigeants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="pr-2">L'être suprême dans ma vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

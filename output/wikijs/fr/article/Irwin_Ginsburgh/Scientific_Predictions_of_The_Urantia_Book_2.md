@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Irwin Ginsburgh, Ph.D.<br>© 2000 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reformulé dans une phraséologie moderne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="pr-2">«Je vais leur raconter une histoire»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cet article discute de sept découvertes prédites par _Le Livre d'Urantia_, et dix-huit autres qui sont actuellement en cours de développement. C’est tout à fait miraculeux et au-delà des capacités humaines, d’autant plus que bon nombre de découvertes sont nouvelles et ne constituent pas des extensions de la science connue.
@@ -166,6 +190,31 @@ La révélation n’est peut-être pas une vérité absolue, mais elle est adapt
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reformulé dans une phraséologie moderne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="pr-2">«Je vais leur raconter une histoire»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Références
 

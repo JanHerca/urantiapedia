@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Dave Holt<br>© 2009 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="pr-2">Le rôle des émotions et des sentiments dans un monde évolutif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La migration de la race rouge à travers le pont terrestre du détroit de Béring a commencé il y a 100 000 ans. Il a fallu plusieurs générations et plusieurs vies pour le réaliser. Au cours de la dernière période glaciaire, lorsque les calottes glaciaires ont absorbé de grandes quantités d’eau, une baisse de 300 pieds du niveau de la mer a créé une masse terrestre exposée de mille milles de large du nord au sud. Les premiers groupes du peuple Sangik qui ont traversé la Béringie jusqu'à l'Alaska actuel étaient des tribus nomades, déracinées par les guerres et à la recherche d'un abri sûr. Mais ils n’étaient pas des bergers et n’amenaient pas, par exemple, de chevaux en Amérique comme le feront plus tard les Espagnols. C'était une époque de cultures de chasseurs-cueilleurs, _des chasseurs qui pratiquaient l'agriculture dans une faible mesure._ <a id="a13_852"></a>[[LU 79:5.7](/fr/The_Urantia_Book/79#p5_7)] 
@@ -265,6 +286,28 @@ Il y a 500 000 ans | La dispensation du Prince Planétaire commence. La race rou
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="pr-2">Le rôle des émotions et des sentiments dans un monde évolutif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jean-Pierre Heudier<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/At_Home_In_The_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la maison dans l'univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers">
+          <span class="pr-2">Voyage en Inde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Note de l'éditeur : les mots en gras indiquent l'emphase ajoutée par l'auteur.)
@@ -87,3 +111,28 @@ Nous invitons toute personne intéressée par la formation d'ateliers qui aborde
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/At_Home_In_The_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la maison dans l'univers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers">
+          <span class="pr-2">Voyage en Inde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

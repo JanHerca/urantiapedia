@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Gary Deinstadt<br>© 2016 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi devriez-vous soutenir une organisation Urantia comme la Urantia Book Fellowship ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/K_Brendi_Poppel/Healing_Meditation">
+          <span class="pr-2">Méditation de guérison</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -57,3 +81,28 @@ Ainsi, de cette expérience, j'ai appris :
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi devriez-vous soutenir une organisation Urantia comme la Urantia Book Fellowship ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/K_Brendi_Poppel/Healing_Meditation">
+          <span class="pr-2">Méditation de guérison</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Père Robert Schuer<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’inévitable (et nécessaire) « religion organisée » basée sur le Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JJ_Johnson/Personality_Bestowal">
+          <span class="pr-2">Don de personnalité (avant et après)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un érudit bien-aimé du Livre d'Urantia et un prêtre ordonné depuis 60 ans 
@@ -66,3 +90,28 @@ Un érudit bien-aimé du Livre d'Urantia et un prêtre ordonné depuis 60 ans
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’inévitable (et nécessaire) « religion organisée » basée sur le Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JJ_Johnson/Personality_Bestowal">
+          <span class="pr-2">Don de personnalité (avant et après)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

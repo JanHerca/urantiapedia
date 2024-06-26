@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Tom Allen<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AUJOURD'HUI est le jour de la JOIE !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="pr-2">Engendrer ou ne pas engendrer, telle est la question : épreuve 20 contre épreuve 120</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les fascicules d'Urantia révèlent que chacun des sept superunivers a un but majeur dans l'expression de sa totalité. Le but principal du retardataire Orvonton est de nous accorder à tous une miséricorde somptueuse. <a id="a13_215"></a>[[LU 15:14.2-3](/fr/The_Urantia_Book/15#p14_2)] Parce que cette généreuse confération d'amour et de miséricorde englobe le « sens du tout », Dieu le Suprême est susceptible, dans un avenir lointain, d'exercer son pouvoir Tout-Puissant personnel et souverain en tant qu'Être Suprême. d'Uversa. Cela fait d'Uversa une place très spéciale dans le grand univers. 
@@ -106,6 +130,31 @@ https://www.youtube.com/watch?v=Pv42QFIAxaI
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AUJOURD'HUI est le jour de la JOIE !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="pr-2">Engendrer ou ne pas engendrer, telle est la question : épreuve 20 contre épreuve 120</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

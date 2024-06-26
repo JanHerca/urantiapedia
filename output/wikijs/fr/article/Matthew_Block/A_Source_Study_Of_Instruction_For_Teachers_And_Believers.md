@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Matthew Block<br>© 2001 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="pr-2">Montrez-nous un miracle !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cet essai explore la relation entre une section du _Livre d'Urantia_, « La vie et les enseignements de Jésus » — <a id="a13_113"></a>[section 3 of Paper 159](/fr/The_Urantia_Book/159#p3) — et un livre précédemment publié, _Jesus and Ourselves_ de Leslie D. Weatherhead,[^1] qui était clairement son source principale. Il s'agit du premier d'une série d'essais et de livres que je prépare et qui soumettent diverses sections et articles de la partie IV à une nouvelle méthode d'étude, celle de l'analyse comparative avec leurs textes sources respectifs. Cette approche a été rendue possible par la découverte récente qu'une grande partie du contenu de centaines de sections de la partie IV provenait d'un nombre relativement restreint de livres américains et britanniques publiés entre les années 1880 et les années 1930. Nous espérons que ces études de sources, qui identifient les livres sources et leurs auteurs et retracent leurs parallélismes textuels avec le matériel de la Partie IV, contribueront à une compréhension grandement améliorée de « La vie et les enseignements de Jésus », à la fois de ses sections individuelles et de ses dans son ensemble.
@@ -262,6 +283,28 @@ Le seul cas <a id="a251_12"></a>[LU 159:3](/fr/The_Urantia_Book/159#p3) d'écart
 - Peut également être obtenu auprès des [archives de la bourse](https://archive.urantiabook.org/sources/weatherhead_block_commentary.htm)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-3-numéro-1-2001-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, numéro 1, 2001 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="pr-2">Montrez-nous un miracle !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

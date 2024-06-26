@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Philip Calabrese, Ph.D.<br>© 2007 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 08—Le frisson du service aimant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacob_Dix/Participatory_Evolution">
+          <span class="pr-2">Évolution participative</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’un des moyens scientifiques de valider une prétendue révélation divine, bien que ce ne soit pas le seul, ni nécessairement le meilleur, consiste à tester statistiquement la cosmologie qui lui est associée. C'est peut-être la seule façon de convaincre un scientifique que le Livre d'Urantia vaut la peine d'être lu pour la science utile, bien que transitionnelle, qu'il contient. Dans le cas du _Le Livre d’Urantia_, la cosmologie associée est censée être « d’une immense valeur » pour nous durant cette étape transitoire du développement scientifique de la Terre par rapport aux âges à venir.
@@ -87,6 +111,31 @@ La question évidente est la suivante : que se passera-t-il si ces vastes calott
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 08—Le frisson du service aimant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jacob_Dix/Participatory_Evolution">
+          <span class="pr-2">Évolution participative</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

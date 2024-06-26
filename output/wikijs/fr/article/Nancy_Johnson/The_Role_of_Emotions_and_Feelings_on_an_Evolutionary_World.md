@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Nancy Johnson<br>© 2009 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la recherche de l’Onamonalonton historique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="pr-2">La joie dans la poubelle à vers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je me suis souvent demandé pourquoi il n’y avait jamais eu de conférence traitant spécifiquement du rôle des émotions et des sentiments dans l’évolution. Il se peut que je n’étais tout simplement pas au courant d’un tel événement dans une autre région. 
@@ -124,3 +148,28 @@ Nous avons la chance d’avoir reçu une révélation contenant autant d’instr
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À la recherche de l’Onamonalonton historique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="pr-2">La joie dans la poubelle à vers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

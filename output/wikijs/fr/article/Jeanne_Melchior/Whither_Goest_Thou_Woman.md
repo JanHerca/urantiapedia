@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jeanne Melchior<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le printemps : une étude du futur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="pr-2">Les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En plus d'être un lecteur de longue date du _Livre d'Urantia_, j'enseigne l'anglais, la lecture et la communication depuis plus de vingt ans. Au cours de cette période, certains des changements les plus profonds que j’ai vu se produire concernent le genre. Parmi les locuteurs de la langue anglaise, il existe une prise de conscience accrue de la nécessité d’un usage impartial ; et des mots comme « homme » et « humanité » sont désormais communément remplacés par « humanité » afin de refléter la présence de plus de cinquante pour cent de la population, tandis que le pronom masculin générique est en voie de disparition rapide. 
@@ -56,3 +80,28 @@ J’attends le jour où, clairement et sans équivoque, Dieu commencera à parle
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le printemps : une étude du futur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="pr-2">Les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

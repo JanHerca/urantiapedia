@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Philip Calabrese<br>© 2012 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » oublié : Dr Lena Celestia (Kellogg) Sadler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Selon _Le Livre d'Urantia_[^1] beaucoup de nos concepts scientifiques fondamentaux contemporains ont grandement besoin d'être révisés ou de fondements complètement nouveaux.[^2] La théorie du Big Bang (BB), la soi-disant interprétation standard de la mécanique quantique, et ainsi que la théorie de la relativité d'Einstein, toutes ont besoin d'être révisées ou renversées. 
@@ -509,3 +530,25 @@ T = 1/H~0~ = [(3.262) \* (3.00) \* 10^11^ yr / 72] = 1.36 \* 10^10^ yr = 13.6 mi
 [^13] : Sheldon Goldstein, « Bohmian Mechanics », octobre 2001 ; révisé le 19 mai 2006. Stanford Encyclopedia of Philosophy, http://plato.stanford.edu/entries/qm-bohm/
 
 [^14] : Les termes « choix » et « volition » sont ici utilisés comme synonymes par opposition au niveau mathématique de la réalité qui est logiquement déterminé et non une question de choix.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » oublié : Dr Lena Celestia (Kellogg) Sadler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

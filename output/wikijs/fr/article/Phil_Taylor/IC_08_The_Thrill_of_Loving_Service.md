@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Phil Taylor<br>© 2007 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Archanges – Agents du changement d’époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="pr-2">Mise à jour de l'année 2006 sur la validation scientifique à venir du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Ici, vous partagez ensemble la connaissance de ma résurrection d’entre les morts, mais elle n’a rien d’étrange. J’ai le pouvoir d’abandonner ma vie et de la reprendre ; le Père donne un tel pouvoir à ses Fils du Paradis. Vous devriez plutôt avoir le cœur ému de savoir que les morts d’un âge ont entrepris l’ascension éternelle peu après que j’eus quitté le tombeau neuf de Joseph d’Arimathie. J’ai vécu ma vie dans la chair pour vous montrer comment, par un service aimant, vous pouvez révéler Dieu à vos semblables, de même qu’en vous aimant et en vous servant, je suis devenu une révélation de Dieu pour vous. J’ai vécu parmi vous en tant que Fils de l’Homme pour que vous, et tous les autres hommes, puissiez savoir que vous êtes en vérité les fils de Dieu. Donc, allez maintenant dans le monde entier prêcher à tous les hommes cet évangile du royaume des cieux. Aimez tous les hommes comme je vous ai aimés ; servez vos compagnons mortels comme je vous ai servis. Vous avez reçu libéralement, donnez libéralement. Restez à Jérusalem seulement pendant que je vais auprès du Père et jusqu’à ce que je vous envoie l’Esprit de Vérité. Il vous conduira dans un plus vaste domaine de vérité, et je vous accompagnerai dans le monde entier. Je suis avec vous toujours, et je vous laisse ma paix. » (<a id="a13_1300"></a>[LU 193:0.5](/fr/The_Urantia_Book/193#p0_5))
@@ -73,3 +97,28 @@ Le but de cette dernière étape de la programmation est d'améliorer et d'élar
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Archanges – Agents du changement d’époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="pr-2">Mise à jour de l'année 2006 sur la validation scientifique à venir du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

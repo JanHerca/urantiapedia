@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Berkeley Elliott<br>© 2006 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servir – Un livre de recettes pour l’âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book">
+          <span class="pr-2">La prochaine validation scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _L'article suivant contient des extraits d'un discours prononcé par l'auteur le 22 juillet 1973._
@@ -100,3 +124,28 @@ Nous savons : « _Nulle créature personnelle ne peut être contrainte à courir
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servir – Un livre de recettes pour l’âme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book">
+          <span class="pr-2">La prochaine validation scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

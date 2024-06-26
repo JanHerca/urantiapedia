@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Richard S. Omura<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À l’aube de l’époque la plus étonnante et la plus passionnante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="pr-2">Les Cahiers d'Urantia d'un point de vue juif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Ne serait-il pas formidable si nous pouvions quitter chaque groupe d'étude et présentation du *Livre d'Urantia* avec un sentiment d'espoir retrouvé, d'autonomisation, de revigoration spirituelle et d'augmentation de notre sentiment de bien-être ?** Il y a un certain j'en ai parfois l'impression, mais à mon avis, ce n'est pas suffisant. Ce qui est triste, c'est lorsqu'un nouveau venu assiste à une présentation très spécifique sur *Le Livre d'Urantia* seulement pour découvrir qu'il ou elle ne peut pas s'y identifier du tout parce qu'elle est trop intellectuelle et ne fait pas appel à l'âme.
@@ -63,3 +87,28 @@ Assurez-vous de prier à ce sujet aujourd’hui. Dirigons depuis notre âme dans
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À l’aube de l’époque la plus étonnante et la plus passionnante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="pr-2">Les Cahiers d'Urantia d'un point de vue juif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

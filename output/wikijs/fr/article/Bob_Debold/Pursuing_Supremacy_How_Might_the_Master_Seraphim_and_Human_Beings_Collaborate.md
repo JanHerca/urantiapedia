@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Bob Debold<br>© 2014 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le voyage après la mort mortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="pr-2">Le langage urantien et la préservation du sens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 S’il n’y avait pas _Le Livre d’Urantia_, je ne connaîtrais certainement pas l’existence des maîtres séraphins ; J'aurais difficilement pu passer les vingt dernières années à tenter de comprendre les idées entourant la Suprématie, ni même à briser les descriptions conceptuellement riches de l'origine des sept absolus de l'infini de la Source et Centre Premiers - l'histoire la plus complète et la plus rationnelle de la Genèse - pour tous ces les concepts auraient été totalement hors de ma portée. Ma transition d’une religion traditionnelle et institutionnelle à une religion personnelle et révélatrice a commencé (du moins à ma connaissance) il y a environ cinquante ans maintenant. Mais la principale raison pour laquelle j’ai développé une profonde racine personnelle dans les journaux est sans aucun doute le résultat direct de certaines expériences sublimes de la religion traditionnelle (le catholicisme) au cours de mes années de formation. Attention : ces causes inspirantes ne sont pas le résultat de la haute attitude spirituelle que cette religion institutionnelle particulière m'a apportée. Non, au contraire, parmi une marée montante de faits et de concepts cognitivement dissonants qui sont devenus plus évidents à mesure que je vieillissais, les distorsions implicites et évidentes de l’histoire d’Adam et Ève se sont démarquées. En raison du récit biblique reliant la genèse de l’humanité à une fable, je n’aurais pas été intéressé par l’affirmation de la personne qui m’a présenté _Le Livre d’Urantia_ selon laquelle il décrit le couple biblique original comme « _huit pieds de haut et violet._ » 
@@ -149,6 +173,31 @@ Et enfin, ce sera grâce à une compréhension intellectuelle, morontielle et sp
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le voyage après la mort mortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-14-numéro-1-2014-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, numéro 1, 2014 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="pr-2">Le langage urantien et la préservation du sens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques 
 

@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Commodore Robert Stanley Bates, Marine marchande des États-Unis<br>© 2018 La Fellowship du Livre d'Urantia<br>© 2018 Batek Éditions Marines </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'être suprême dans ma vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le récit légendaire de Platon sur une civilisation insulaire engloutie qu’il a appelée l’Atlantide – ou ce que certains appellent Eden – fascine les aventuriers depuis des siècles. Mais la recherche archéologique sophistiquée de cette culture perdue a dû attendre notre époque, avec sa technologie numérique et ses capacités avancées de recherche sous-marine. 
@@ -323,6 +344,28 @@ Les plans pour la troisième expédition comprennent de nombreuses enquêtes sup
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'être suprême dans ma vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Sheila Keene-Lund<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia, les concepts humains et la validation révélatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="pr-2">Socialisation cosmique et citoyenneté planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 1990, j'ai demandé à Ammachi, un gourou indien, si je ressentirais un jour de la dévotion au cours de ma vie. Sa réponse : « Aime Dieu parce que Dieu seul t’aime vraiment » m’a catapulté dans des montagnes russes spirituelles qui ont duré de nombreuses années. Cela m'a conduit à découvrir _Le Livre d'Urantia_, à en être intrigué, puis à le rejeter, puis à revenir à ses pages dans un défi personnel pour détecter ses défauts et le réfuter. Mais les aventures mentales et spirituelles déclenchées par ma quête de dévotion ont abouti à l’adoption par la foi d’une révélation d’époque et, finalement, à l’écriture d’un livre qui réconcilie son message surhumain avec un large éventail de connaissances et de croyances humaines. 
@@ -75,6 +99,31 @@ L’esprit est la clé pour atteindre des significations et des valeurs spiritue
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia, les concepts humains et la validation révélatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="pr-2">Socialisation cosmique et citoyenneté planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques 
 

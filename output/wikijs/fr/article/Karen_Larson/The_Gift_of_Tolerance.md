@@ -9,6 +9,27 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Karen Lee Larsen<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pratique religieuse et révélation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ nous enseigne que le libre arbitre est l'un des plus grands cadeaux que le Père ait donné à toutes ses créatures. « _Nul autre être, nulle force, nul créateur ou agent dans le vaste univers des univers ne peuvent interférer à un degré quelconque dans la souveraineté absolue du libre arbitre humain opérant dans les domaines d’option concernant la destinée éternelle de la personnalité du mortel qui choisit. Quant à la survie éternelle, Dieu a décrété que la volonté matérielle et humaine était souveraine, et ce décret est absolu._ » <a id="a13_557"></a>[[LU 5:6.8](/fr/The_Urantia_Book/5#p6_8)]
@@ -64,3 +85,25 @@ Il les appelle des « cadeaux ». Peut-être que la tolérance ne se résume pas
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pratique religieuse et révélation Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

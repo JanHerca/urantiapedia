@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Charlene Morrow<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la suppression des obstacles à une discussion civilisée sur l’eugénisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/K_Brendi_Poppel/Time_and_time_out">
+          <span class="pr-2">Temps et temps mort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 *Charlène Morrow, Edmond OK*
@@ -69,3 +93,28 @@ Une journée seul avec Dieu<br>
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la suppression des obstacles à une discussion civilisée sur l’eugénisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/K_Brendi_Poppel/Time_and_time_out">
+          <span class="pr-2">Temps et temps mort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

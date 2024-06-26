@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Cece Forrester<br>© 2007 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Burns/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La règle d'or</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phil_Taylor/Loving_Service">
+          <span class="pr-2">Service affectueux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cette conférence a été préparée pour la mini-conférence de la First Society, le 30 avril 2006, et présentée à nouveau lors de la session d'études d'été de la Fellowship, le 7 juillet 2006. Elle a été révisée en vue de sa publication.
@@ -109,6 +133,31 @@ Bandes dessinées | Superman | DC Comics | Créé par Jerry Siegel et Joe Shuste
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Burns/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La règle d'or</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Phil_Taylor/Loving_Service">
+          <span class="pr-2">Service affectueux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

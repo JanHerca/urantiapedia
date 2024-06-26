@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Alison Gardner<br>© 2002 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Not_what_we_give_but_what_we_share">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas ce que nous donnons... mais ce que nous partageons...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="pr-2">Pratique religieuse et révélation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -188,3 +212,28 @@ C'est l'individu lui-même qui doit se libérer de ces interruptions profanes, d
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Not_what_we_give_but_what_we_share">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas ce que nous donnons... mais ce que nous partageons...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-4-numéro-1-2002-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, numéro 1, 2002 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="pr-2">Pratique religieuse et révélation Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

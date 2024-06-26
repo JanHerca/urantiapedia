@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Paula Thompson<br>© 2016 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit et spiritualité, commentaires sur les absolus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gary_Deinstadt/Top_Down">
+          <span class="pr-2">De haut en bas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Eh bien, parce que si vous lisez _Le Livre d’Urantia_, vous savez ce que signifie avoir spirituellement faim et vous savez de première main quelle différence la révélation fait lorsque l’âme est vraiment nourrie. 
@@ -37,3 +61,28 @@ Pour faire un don en ligne, rendez-vous sur le site Web de la Fellowship, http:/
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esprit et spiritualité, commentaires sur les absolus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gary_Deinstadt/Top_Down">
+          <span class="pr-2">De haut en bas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

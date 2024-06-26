@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Robert Burns<br>© 2007 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="pr-2">Science-fiction pour les agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Règle d’Or est un principe approuvé par toutes les grandes religions du monde ; Pourtant, ce principe simple n’est appliqué à aucun degré de ce qui est possible dans les communautés du monde entier. Aussi simple et directe que soit la règle d’or, beaucoup ont du mal à la mettre en pratique de manière cohérente. Vivre selon les normes de la Règle d’or nécessite des efforts cohérents et conscients qui doivent être déployés dans nos affaires personnelles, familiales, professionnelles et communautaires/organisationnelles. Pourtant, Jésus nous a donné cette règle pour nous aider à trouver la joie, le plaisir et le plaisir et non pour être un fardeau. « _En vous donnant ce nouveau commandement, je ne charge vos âmes d’aucun fardeau supplémentaire ; je vous apporte plutôt une nouvelle joie et je vous donne la possibilité d’éprouver un nouveau plaisir en connaissant les délices d’effuser l’affection de votre cœur sur vos semblables. Même en supportant extérieurement des afflictions, je suis sur le point d’éprouver la joie suprême d’effuser mon amour sur vous et vos compagnons mortels._ » <a id="a13_1100"></a>[[LU 180:1.2](/fr/The_Urantia_Book/180#p1_2)] Lorsque nous alignons notre volonté pour faire celle de notre Père le ferons, nous expérimentons de nouveaux plaisirs et délices.
@@ -53,3 +77,28 @@ Le Maître nous demande de la loyauté et non des sacrifices, car il veut notre 
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/George_Park/Personality_and_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personnalité et homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-8-numéro-1-2007-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, numéro 1, 2007 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="pr-2">Science-fiction pour les agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

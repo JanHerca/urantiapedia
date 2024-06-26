@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Behzad Sarmast<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Face au changement millénaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="pr-2">Le printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Des milliers d’années avant l’arrivée de Micaël sur Urantia, les missionnaires de Machiventa Melchizédek ont prédit l’arrivée imminente d’un Fils du Paradis sur Urantia. De même, Van et ses associés préparèrent le monde civilisé à l’arrivée d’Adam et Ève, discernant correctement leur arrivée imminente. L’histoire montre que de telles visites divines sont toujours prédites et que le ciel donne suffisamment de signes pour « préparer le chemin » pour de tels dons célestes – aujourd’hui ce n’est pas différent. 
@@ -92,3 +116,28 @@ Continuez votre vie, continuez le travail que Micaël nous a confié, mais ne n�
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Face au changement millénaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-2-1999-printemps">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, 1999 (printemps) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="pr-2">Le printemps : une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

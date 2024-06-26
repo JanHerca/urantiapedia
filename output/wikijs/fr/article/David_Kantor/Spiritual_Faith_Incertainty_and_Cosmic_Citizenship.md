@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 David Kantor<br>© 2013 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorer la vie intérieure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="pr-2">Ambiances, musique et magie du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Note de l'auteur : Cet essai tente d'explorer_ _Le Livre d'Urantia_ _un aperçu de l'aventure de la foi dans le contexte de certaines des observations de Paul Tillich sur la foi dans son ouvrage classique_ « La dynamique de la foi » _—en particulier les vues de Tillich sur le doute et l'incertitude. comme éléments inévitables de la quête de foi.
@@ -175,3 +199,28 @@ Puissent nos bienfaiteurs spirituels bénir chacun de nous avec des défis et de
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorer la vie intérieure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="pr-2">Ambiances, musique et magie du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

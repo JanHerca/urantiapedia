@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 David Elders<br>© 2000 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Penser à demain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="pr-2">Prédictions scientifiques du Livre d'Urantia — Partie II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'un des aspects les plus provocateurs et les plus mystérieux du _Livre d'Urantia_ est l'affirmation des révélateurs selon laquelle ils ont greffé la vérité nouvellement révélée sur les « _concepts humains existants les plus élevés relatifs aux sujets à présenter._ » (<a id="a13_269"></a>[LU 0:12.11](/fr/The_Urantia_Book/0#p12_11)) Un lecteur de longue date. L'auteur du livre, Matthew Block, a consacré une décennie à identifier, lorsque cela était possible, les auteurs humains dont la pensée et l'expression auraient pu être utilisées dans la construction de cette révélation. Son travail infatigable portera bientôt des fruits qui serviront pendant des siècles à approfondir notre appréciation et notre compréhension du processus par lequel l’humanité est élevée par la révélation, à la fois personnelle et d’époque. À la veille de la publication du travail fondateur de Block consistant à découvrir, compiler, comparer et démontrer les liens entre le livre et nombre de ces auteurs de sources humaines, il pourrait être utile d'explorer la manière dont les révélateurs eux-mêmes nous ont préparés à cela. découverte anticipée de ces auteurs humains et ce que cela pourrait signifier (le premier volume de Matthieu, Sources du _Livre d'Urantia_ : Fascicules 99-103, sera publié plus tard cette année).
@@ -66,3 +90,28 @@ Il y a deux mille ans, certains voyaient le Fils Créateur de Dieu dans la perso
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Penser à demain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="pr-2">Prédictions scientifiques du Livre d'Urantia — Partie II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

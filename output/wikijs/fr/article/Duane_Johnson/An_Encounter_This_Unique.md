@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Duane Johnson<br>© 2020 La Bourse du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engendrer ou ne pas engendrer, telle est la question : épreuve 20 contre épreuve 120</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Contrasting_Jesus_and_Paul">
+          <span class="pr-2">Comparer Jésus et Paul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je ne risque pas d’oublier une rencontre aussi unique : 
@@ -62,3 +86,28 @@ nous sommes les petits et Dieu tient ses promesses.
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engendrer ou ne pas engendrer, telle est la question : épreuve 20 contre épreuve 120</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/Contrasting_Jesus_and_Paul">
+          <span class="pr-2">Comparer Jésus et Paul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

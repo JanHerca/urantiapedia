@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Halbert Katzen, JD<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La signification de la carrière d’effusion septuple de Christ Micaël</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="pr-2">« La loi, c’est la vie elle-même… »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ n'est plus ce qu'il était. Il fait désormais preuve d’une qualité de crédibilité unique et extraordinaire. La bonne nouvelle est que le livre fait plus que résister à l’épreuve du temps ; sa crédibilité ne cesse de s'améliorer avec le temps. En termes simples, il n'existe aucun autre document sur la planète qui aborde aussi spécifiquement un si large éventail de questions historiques et scientifiques et qui présente également une tendance particulière à corroborer des affirmations qui étaient en contradiction avec ou n'étaient pas encore prises en compte par la science et l'érudition. a été publié. 
@@ -145,3 +169,28 @@ Depuis le début de ce projet, ma vie s’est ouverte de manière presque miracu
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La signification de la carrière d’effusion septuple de Christ Micaël</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-9-numéro-1-2008-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, numéro 1, 2008 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="pr-2">« La loi, c’est la vie elle-même… »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

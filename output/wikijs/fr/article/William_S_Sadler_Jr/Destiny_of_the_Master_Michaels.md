@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. « Bill » Sadler<br>© 2015 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pouvons-nous avoir une norme universelle de moralité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="pr-2">Le Livre d'Urantia et sa mission</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit est la transcription d'une visite effectuée par William S. « Bill » Sadler, Jr. à un groupe d'étude californien en 1959 ou 1960. Il était le fils des Drs. William et Lena Sadler, et membre du Forum ainsi que membre de la Commission de Contact pour la révélation Urantia. Il fut témoin de l'arrivée de la série d'articles augmentés et posa les questions qui provoquèrent les articles suprêmes du Livre d'Urantia._
@@ -307,3 +331,28 @@ Nous pensons avoir trouvé davantage de Dieu. Il était toujours là. Nous avion
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pouvons-nous avoir une norme universelle de moralité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-15-numéro-1-2015-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, numéro 1, 2015 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="pr-2">Le Livre d'Urantia et sa mission</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

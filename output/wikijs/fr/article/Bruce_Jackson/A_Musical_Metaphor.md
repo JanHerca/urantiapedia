@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dr Bruce Jackson<br>© 2017 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">Le temple de la fraternité spirituelle et la plus grande signification des groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Que se passerait-il si je me présentais devant un groupe de lecteurs du Livre d'Urantia et prétendais que je pourrais nous sortir de l'obscurité et transformer notre révélation en une nouvelle religion mondiale ? Je suis certain qu’ils me montreraient poliment mais rapidement la porte. Il y a environ 200 ans, nous serions devenus mormons. Que s'est-il passé? 
@@ -78,3 +102,28 @@ Même si cette métaphore musicale suggère comment le mouvement Urantia peut se
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">Le temple de la fraternité spirituelle et la plus grande signification des groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

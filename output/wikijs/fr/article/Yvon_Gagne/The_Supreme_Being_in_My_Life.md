@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Yvon Gagné<br>© 2018 Matthew Block, pour la traduction du français<br>© 2018 Le Livre d'Urantia Bourse</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insubmersible et incassable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project">
+          <span class="pr-2">Le projet Eden-Atlantide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'article suivant provient des archives de la bourse. 
@@ -89,3 +113,28 @@ La conscience du Suprême fait de nous des piliers spirituels au service du Corp
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insubmersible et incassable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-18-numéro-1-2018-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, numéro 1, 2018 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project">
+          <span class="pr-2">Le projet Eden-Atlantide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

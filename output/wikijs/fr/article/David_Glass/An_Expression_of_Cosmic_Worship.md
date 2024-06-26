@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 David Glass<br>© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille : lieu de naissance des citoyens cosmiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book">
+          <span class="pr-2">Deux cosmologies — L'astronomie et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -49,3 +73,28 @@ Depuis qu’il a découvert le livre en 1972, les poèmes et articles de David G
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille : lieu de naissance des citoyens cosmiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book">
+          <span class="pr-2">Deux cosmologies — L'astronomie et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

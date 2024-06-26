@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Richard Bain<br>© 2021 La Bourse du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Song_for_Papas_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chanson pour la famille de papa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Karen_Larson/Thinking_of_my_Divine_Mother">
+          <span class="pr-2">Je pense à ma Divine Mère, alias le Saint-Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -141,3 +165,28 @@ Alors, lorsque nous rencontrerons enfin Christ Micaël en personne, ressemblera-
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Song_for_Papas_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chanson pour la famille de papa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Karen_Larson/Thinking_of_my_Divine_Mother">
+          <span class="pr-2">Je pense à ma Divine Mère, alias le Saint-Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

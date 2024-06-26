@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Richard S. Omura<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le monde ne touche pas à sa fin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="pr-2">Conscience divine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans le « Discours sur la religion », Josué ben Joseph (Jésus) parle à ses apôtres de la religion de l'autorité par rapport à la religion de l'expérience spirituelle. Il qualifie les religions traditionnelles de religions d’autorité, fondées sur l’assentiment intellectuel. 
@@ -70,3 +94,28 @@ Josué : « Maintenant, ne vous y trompez pas, mon Père répondra toujours à l
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le monde ne touche pas à sa fin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="pr-2">Conscience divine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Meredith Tenney, Sharon Porter, Mary Huggins et Elisabeth Callahan<br>© 2019 La Bourse du Livre d'Urantia</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il était une fois un homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Voies d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -93,3 +117,28 @@ Depuis le début du millénaire actuel, un collectif croissant de femmes du mouv
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il était une fois un homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Voies d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

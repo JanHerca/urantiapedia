@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Charles Laurence Olivea<br>© 2013 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gary_Deinstadt/Religion_of_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion d'Un</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="pr-2">Explorer la vie intérieure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'article suivant fait partie de la série Wrightwood du Fellowship Forum pour les lecteurs du _Le Livre d'Urantia_, « Perspectives sur la race dans le _Le Livre d'Urantia_ », du 1er au 3 mai 1992 et du 30 avril au 2 mai 1993. 
@@ -301,3 +325,28 @@ Ce qui précède a été présenté par un Puissant Messager qui a été appelé
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gary_Deinstadt/Religion_of_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion d'Un</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-13-numéro-1-2013-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, numéro 1, 2013 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="pr-2">Explorer la vie intérieure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

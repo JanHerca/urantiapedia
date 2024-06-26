@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Dr. Antti Roble<br>© 2005 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mettre en action les enseignements du Livre d’Urantia à travers la philosophie intégrale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">Un chant de roseau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -43,3 +67,28 @@ Il y a deux mille ans, des lâches criaient « Libérez Barabbas » et « Crucif
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mettre en action les enseignements du Livre d’Urantia à travers la philosophie intégrale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-6-numéro-1-2005-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, numéro 1, 2005 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">Un chant de roseau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

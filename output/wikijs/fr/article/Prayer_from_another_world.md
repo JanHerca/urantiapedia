@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une jeune fille juive trouve Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="pr-2">Réflexions sur la Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Glorieux Père et Mère, unifiés en un seul parent,
@@ -34,3 +58,28 @@ dateCreated: 2023-6-21T8:13:38Z
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une jeune fille juive trouve Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-1-2003-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 1, 2003 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="pr-2">Réflexions sur la Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

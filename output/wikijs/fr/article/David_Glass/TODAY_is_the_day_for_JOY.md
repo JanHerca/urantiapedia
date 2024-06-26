@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Glass<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoration de la Mère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
+          <span class="pr-2">Versa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Toutes ces vérités seront valables pour toute journée qui explore AUJOURD’HUI l’amour divin de Dieu ! 
@@ -117,3 +141,28 @@ Tôt ou tard, toutes les personnalités de l'univers commencent à réaliser que
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoration de la Mère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
+          <span class="pr-2">Versa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
