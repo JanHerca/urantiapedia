@@ -122,9 +122,9 @@ Copyright © 1993, Todos los derechos reservados.
 
 ***Columnas***
 
-- **Interfaz**: Sobre pensamientos posibles e imposibles...5
+- **Interfaz**: Sobre pensamientos posibles e imposibles
 - **_El Libro de Urantia_ y la Renovación Espiritual**
-	Mi experiencia de expansión mental con _El libro de Urantia_ ...... 7
+	Mi experiencia de expansión mental con _El libro de Urantia_
 - **Cultura y Valores**
 	Reflexiones sobre el alma
 - **Adoración y Sociedad**

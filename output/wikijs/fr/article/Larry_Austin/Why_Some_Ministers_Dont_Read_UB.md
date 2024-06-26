@@ -73,7 +73,7 @@ En résumé, certaines des raisons pour lesquelles de nombreux ministres ne lise
 
 Une fois que nous nous consacrerons de tout cœur à évaluer le livre sur ses mérites internes – à évaluer son message de vérité en ce qui concerne notre expérience spirituelle intérieure – une nouvelle vision de la réalité s'ouvrira et une explosion d'émerveillement et de joie enthousiastes surprendra l'esprit et élargira l'esprit. cœur avec une perspicacité spirituelle qui fait naître une compréhension merveilleusement dynamique de qui nous sommes et de notre destin. Si vous êtes un ministre, prenez un risque de foi audacieux et lisez _Le Livre d'Urantia_. _Votre vie ne sera plus jamais la même!_
 
->_Le révérend Dr Larry Austin est un pasteur presbytérien de la région de Détroit et fondateur de Day Spring Ministries, qui fournit des services de conseil à l'Église, de pastorale et d'éducation. _
+>_Le révérend Dr Larry Austin est un pasteur presbytérien de la région de Détroit et fondateur de Day Spring Ministries, qui fournit des services de conseil à l'Église, de pastorale et d'éducation._
 {.is-info}
 
 

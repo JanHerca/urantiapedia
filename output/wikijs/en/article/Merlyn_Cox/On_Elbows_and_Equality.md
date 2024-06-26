@@ -73,7 +73,7 @@ When I was in Egypt, my guide pointed out that the emancipation of women took pl
 
 The least we can say is that the Jewish attitude toward women in Jesus' day was not that different from other countries, and probably superior to most.
 
-Paul, being a pharisee of pharisees, was thoroughly conditioned to such ideas. If you're offended by the text from Ephesians, read again I Corinthians 11: “If a woman is not to wear a veil she might as well have her hair cut off.... A man has no need to cover his head, because man is the image of God and the mirror of his glory, whereas woman reflects the glory of man.”
+Paul, being a pharisee of pharisees, was thoroughly conditioned to such ideas. If you're offended by the text from Ephesians, read again [I Corinthians 11](/en/Bible/1_Corinthians/11#v6): “If a woman is not to wear a veil she might as well have her hair cut off.... A man has no need to cover his head, because man is the image of God and the mirror of his glory, whereas woman reflects the glory of man.”
 
 Further: “..man was not created for woman's sake, but woman for the sake of man. Therefore it is a woman's duty to have a sign of authority on her head, our of regard for the angels."
 

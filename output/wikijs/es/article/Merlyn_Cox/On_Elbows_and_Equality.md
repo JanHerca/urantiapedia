@@ -74,7 +74,7 @@ Cuando estuve en Egipto, mi guía me señaló que la emancipación de la mujer t
 
 Lo menos que podemos decir es que la actitud judía hacia las mujeres en los días de Jesús no era tan diferente de la de otros países, y probablemente superior a la de la mayoría.
 
-Pablo, siendo un fariseo de fariseos, estaba completamente condicionado a tales ideas. Si te ofende el texto de Efesios, lee nuevamente 1 Corintios 11: «Si la mujer no lleva velo, más vale que se corte el cabello... El hombre no tiene necesidad de cubrirse la cabeza, porque el hombre es imagen de Dios y espejo de su gloria, mientras que la mujer refleja la gloria del hombre».
+Pablo, siendo un fariseo de fariseos, estaba completamente condicionado a tales ideas. Si te ofende el texto de Efesios, lee nuevamente [1 Corintios 11](/es/Bible/1_Corinthians/11#v6): «Si la mujer no lleva velo, más vale que se corte el cabello... El hombre no tiene necesidad de cubrirse la cabeza, porque el hombre es imagen de Dios y espejo de su gloria, mientras que la mujer refleja la gloria del hombre».
 
 Además: «... el hombre no fue creado por causa de la mujer, sino la mujer por causa del hombre. Por eso es deber de la mujer tener sobre su cabeza un signo de autoridad, nuestro de respeto a los ángeles.»
 

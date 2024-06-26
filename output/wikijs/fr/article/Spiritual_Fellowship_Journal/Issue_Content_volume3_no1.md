@@ -122,9 +122,9 @@ Copyright © 1993, Tous droits réservés.
 
 ***Colonnes***
 
-- **Interface** : Sur les pensées possibles et impossibles ..5
+- **Interface** : Sur les pensées possibles et impossibles
 - **_Le Livre d'Urantia_ et le renouveau spirituel**
-	Mon expérience d'expansion mentale avec _Le Livre d'Urantia_ ...... 7
+	Mon expérience d'expansion mentale avec _Le Livre d'Urantia_
 - **Culture et valeurs**
 	Réflexions sur l'âme
 - **Culte et société**

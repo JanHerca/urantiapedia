@@ -127,7 +127,7 @@ L’image des figures d’autorité évolue. Les organisations de service public
 
 Le clergé progressiste a introduit des concepts comme le _Servant Leadership_ [^2] et parle moins de _nourrir_ le troupeau que de _servir_ le troupeau. Je dois dire, d’un point de vue profane, que les structures organisationnelles de la plupart des religions organisées sont à la traîne par rapport aux entreprises progressistes. La plupart sont encore patriarcales et autoritaires. Mais certaines Églises s’orientent vers des changements importants. Les presbytériens modifient leur structure de gestion du XVIe siècle, un modèle qui a été copié par de nombreuses organisations. Il est enfin en train d'être modifié pour devenir un modèle plus participatif, représentatif et axé sur l'équipe. Les _Personnes_ sont ouvertement reconnues par de nombreuses organisations comme leurs _ressources les plus importantes_.
 
-## _Les gens_ sont _l'atout le plus important
+## _Les gens_ sont l'atout le plus important
 
 Dans _Le Livre d'Urantia_, le processus d'autonomisation est souvent décrit comme une condition préalable au ministère de Jésus. Extrait de 159 : 3.3 (Jésus parle) :
 

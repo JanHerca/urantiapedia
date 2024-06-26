@@ -121,9 +121,9 @@ Copyright © 1993, All Rights Reserved.
 
 ***Columns***
 
-- **Interface**: On Possible and Impossible Thoughts ..5
+- **Interface**: On Possible and Impossible Thoughts
 - **_The Urantia Book_ and Spiritual Renewal**
-	My Mind Expanding Experience with _The Urantia Book_ ...... 7
+	My Mind Expanding Experience with _The Urantia Book_
 - **Culture and Values**
 	Reflections on the Soul
 - **Worship and Society**

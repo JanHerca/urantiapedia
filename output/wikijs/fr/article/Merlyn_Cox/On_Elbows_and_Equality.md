@@ -74,7 +74,7 @@ Lors de mon séjour en Égypte, mon guide m'a fait remarquer que l'émancipation
 
 Le moins que l'on puisse dire, c'est que l'attitude juive envers les femmes à l'époque de Jésus n'était pas si différente de celle des autres pays, et probablement supérieure à la plupart.
 
-Paul, étant un pharisien parmi les pharisiens, était complètement conditionné à de telles idées. Si vous êtes offensé par le texte d'Ephésiens, relisez I Corinthiens 11 : « Si une femme ne doit pas porter de voile, autant qu'elle se fasse couper les cheveux.... Un homme n'a pas besoin de se couvrir la tête, car l’homme est l’image de Dieu et le miroir de sa gloire, tandis que la femme reflète la gloire de l’homme.
+Paul, étant un pharisien parmi les pharisiens, était complètement conditionné à de telles idées. Si vous êtes offensé par le texte d'Ephésiens, relisez [I Corinthiens 11](/fr/Bible/1_Corinthians/11#v6) : « Si une femme ne doit pas porter de voile, autant qu'elle se fasse couper les cheveux.... Un homme n'a pas besoin de se couvrir la tête, car l’homme est l’image de Dieu et le miroir de sa gloire, tandis que la femme reflète la gloire de l’homme.
 
 Plus loin : « …l’homme n’a pas été créé pour l’amour de la femme, mais la femme pour l’amour de l’homme. C'est donc le devoir de la femme d'avoir sur la tête un signe d'autorité, notre respect pour les anges. »
 
