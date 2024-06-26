@@ -57,7 +57,7 @@ Je serai toujours reconnaissant pour ma dernière interaction avec Steve sur Ura
 
 Dans *Le Livre d'Urantia il est écrit :*
 
-> ...Jésus ... lui dit : « Femme, où sont tes accusateurs ? N’est-il resté personne pour te lapider ? » La femme leva les yeux et répondit : « Personne, mon Seigneur. » Alors Jésus dit : « Je connais ton cas, et je ne te condamne pas non plus. Va ton chemin en paix. » ([LU 162:3.5](/fr/The_Urantia_Book/162#p3_5))
+> ...Jésus ... lui dit : « Femme, où sont tes accusateurs ? N’est-il resté personne pour te lapider ? » La femme leva les yeux et répondit : « Personne, mon Seigneur. » Alors Jésus dit : « Je connais ton cas, et je ne te condamne pas non plus. Va ton chemin en paix. » (<a id="a59_270"></a>[LU 162:3.5](/fr/The_Urantia_Book/162#p3_5))
 
 Steve avait les larmes aux yeux lorsqu’il dit : « Jésus *connaissait* cette femme. Il savait que le péché n'était pas le sien. Dans cette petite différence dans le récit, dit-il, nous voyons le caractère incomparable du Maître. Comme il connaît et aime chacun de nous pleinement et intimement. 
 

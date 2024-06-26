@@ -83,7 +83,7 @@ Ce qui suit est une modification des lignes directrices du Center for Attitudina
 9. Toutes les informations partagées en groupe sont confidentielles.
 10. Nous convenons de garder à l'esprit que nous avons toujours la possibilité de viser la paix plutôt que le conflit, de soutenir l'amour plutôt que la peur.
 
-> « _L’idéalisation de la vérité, de la beauté et de la bonté, et la tentative de les servir ne sont pas un substitut à l’expérience religieuse authentique — la réalité spirituelle._ » ([LU 196:3.23](/fr/The_Urantia_Book/196#p3_23))
+> « _L’idéalisation de la vérité, de la beauté et de la bonté, et la tentative de les servir ne sont pas un substitut à l’expérience religieuse authentique — la réalité spirituelle._ » (<a id="a85_186"></a>[LU 196:3.23](/fr/The_Urantia_Book/196#p3_23))
 
 
 

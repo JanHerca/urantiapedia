@@ -167,7 +167,7 @@ Ce que nous avons retenu de Salt Lake, c'est un fort sentiment de communauté, e
 
 Quelques expériences ont sonné un changement dans la culture du mouvement Urantia. L'un est l’intérêt que nous avons constaté de la part des chercheurs de vérité pour _Le Livre d'Urantia_ après notre retour de Snow Bird. Jamais auparavant nous n’avions ressenti un tel niveau d’intrigue de la part des jeunes lors d’une conférence. Il était très clair que les années de travail qui ont été consacrées à la diffusion des enseignements du _Livre d'Urantia_ et du programme des Chercheurs de Vérité commencent à porter leurs fruits.
 
-Nous sommes ravis qu’IC 11 ait été un tel succès. Notre mission est désormais de prendre cette inspiration et de la mettre au service de nos semblables. Comme le dit le Livre d'Urantia : « Suivre Jésus signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maître de service désintéressé pour l’homme. » [[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)] Nous pouvons chacun faire quelque chose chaque jour pour favoriser une vie consacrée de manière désintéressée au service. Et lorsque nous le faisons, nous trouvons Dieu chez les autres et les autres trouvent Dieu en nous. Notre génération est appelée à servir et nous espérons que nos mentors nous soutiendront, main dans la main, alors que nous relevons le merveilleux défi de faire avancer cette révélation. C'est notre engagement !!
+Nous sommes ravis qu’IC 11 ait été un tel succès. Notre mission est désormais de prendre cette inspiration et de la mettre au service de nos semblables. Comme le dit le Livre d'Urantia : « Suivre Jésus signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maître de service désintéressé pour l’homme. » <a id="a169_338"></a>[[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)] Nous pouvons chacun faire quelque chose chaque jour pour favoriser une vie consacrée de manière désintéressée au service. Et lorsque nous le faisons, nous trouvons Dieu chez les autres et les autres trouvent Dieu en nous. Notre génération est appelée à servir et nous espérons que nos mentors nous soutiendront, main dans la main, alors que nous relevons le merveilleux défi de faire avancer cette révélation. C'est notre engagement !!
 
 Un autre développement étonnant est l’approbation d’un comité permanent des jeunes et des jeunes adultes de la Fellowship. Il s’agit du premier nouveau comité permanent au cours des 56 ans d’histoire du Fellowship, et nous sommes honorés par la grande opportunité et la responsabilité de soutenir les jeunes dans leur quête de vérité spirituelle.
 
@@ -288,7 +288,7 @@ Michelle Klimesh, coordinatrice
 
 Pipeline de Lumière
 
-> « De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a290_162"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 ## Lancement de la traduction turque du Livre d'Urantia
 

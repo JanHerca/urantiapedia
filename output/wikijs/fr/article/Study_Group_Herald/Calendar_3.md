@@ -46,7 +46,7 @@ Du 22 au 24 mars, Whole Life Expo, Seattle, Washington. Personne-ressource : Pau
 
 3-8 août, Conférence internationale 1996, Flagstaff, Arizona. Thème : « Foi vivante ». Contact : La Fellowship (312) 327-0424.
 
-« ... Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d’appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d’agir plus efficacement. » ([LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
+« ... Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d’appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d’agir plus efficacement. » (<a id="a48_270"></a>[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
 
 ## La décision
 

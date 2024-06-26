@@ -57,9 +57,9 @@ Les problèmes particuliers de l’Irlande du Nord nous ont amenés à examiner 
 
 &nbsp; | &nbsp;
 --- | ---
-[LU 70:1.2](/fr/The_Urantia_Book/70#p1_2) | La guerre est/les interassociations humaines
-[LU 99:0.2](/fr/The_Urantia_Book/99#p0_2) | Mais les exigences religieuses/culturelles
-[LU 133:1.4](/fr/The_Urantia_Book/133#p1_4) | Ganid, moi/le contraire.
+<a id="a59_0"></a>[LU 70:1.2](/fr/The_Urantia_Book/70#p1_2) | La guerre est/les interassociations humaines
+<a id="a60_0"></a>[LU 99:0.2](/fr/The_Urantia_Book/99#p0_2) | Mais les exigences religieuses/culturelles
+<a id="a61_0"></a>[LU 133:1.4](/fr/The_Urantia_Book/133#p1_4) | Ganid, moi/le contraire.
 
 
 

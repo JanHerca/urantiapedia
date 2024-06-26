@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 Par Paula J. Thompson, Boulder, Colorado
 
-« Le royaume des cieux n’est ni un ordre social, ni un ordre économique ; il est une fraternité exclusivement spirituelle d’individus connaissant Dieu. » (Livre d’Urantia, [LU 99:3.2](/fr/The_Urantia_Book/99#p3_2))
+« Le royaume des cieux n’est ni un ordre social, ni un ordre économique ; il est une fraternité exclusivement spirituelle d’individus connaissant Dieu. » (Livre d’Urantia, <a id="a39_172"></a>[LU 99:3.2](/fr/The_Urantia_Book/99#p3_2))
 
 Le premier Parlement des religions du monde a eu lieu en 1893 au Palmer House Hotel de Chicago. La liste des religions représentées lors de cet événement historique se lit comme un Who's Who des religions du XXe siècle.
 

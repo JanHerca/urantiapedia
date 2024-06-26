@@ -95,7 +95,7 @@ La personnalité est centrale. Je ne pense pas que nous nous y concentrions suff
 
 > Steve Dreier étudie le _Livre d'Urantia_ depuis 1971. Il a participé à de nombreuses conférences du _Livre d'Urantia_ et a occupé divers rôles organisationnels au sein de la Communauté du Livre d'Urantia. Steve et Bobbie Dreier, également un étudiant de longue date du _Livre d'Urantia_, ont récemment célébré leur 50e anniversaire.  
 
-> « Le respect de soi ne peut dépasser l’amour que l’on éprouve pour son prochain ; l’un est la mesure de la capacité de l’autre. » ([LU 156:5.14](/fr/The_Urantia_Book/156#p5_14))
+> « Le respect de soi ne peut dépasser l’amour que l’on éprouve pour son prochain ; l’un est la mesure de la capacité de l’autre. » (<a id="a97_133"></a>[LU 156:5.14](/fr/The_Urantia_Book/156#p5_14))
 
 ## Références
 

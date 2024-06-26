@@ -45,7 +45,7 @@ _Oakland Park, Floride_
 
 ---
 
-> « _Nous ne pouvons juger une religion par le statut de la civilisation qui l’accompagne ; nous ferions mieux d’apprécier la vraie nature d’une civilisation d’après la pureté et la noblesse de sa religion. Beaucoup d’éducateurs religieux parmi les plus remarquables du monde furent pratiquement des illettrés. La sagesse du monde n’est pas nécessaire pour manifester une foi salvatrice dans les réalités éternelles._ » ([LU 102:8.2](/fr/The_Urantia_Book/102#p8_2))
+> « _Nous ne pouvons juger une religion par le statut de la civilisation qui l’accompagne ; nous ferions mieux d’apprécier la vraie nature d’une civilisation d’après la pureté et la noblesse de sa religion. Beaucoup d’éducateurs religieux parmi les plus remarquables du monde furent pratiquement des illettrés. La sagesse du monde n’est pas nécessaire pour manifester une foi salvatrice dans les réalités éternelles._ » (<a id="a47_421"></a>[LU 102:8.2](/fr/The_Urantia_Book/102#p8_2))
 
 
 

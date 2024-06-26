@@ -40,7 +40,7 @@ La valeur de ce Journal ou de tout autre support d'expression est sa capacité �
 
 La simplicité est boudée par les sophistes et les prophètes des mots des derniers jours, mais considérez ceci : l'Orchestre philharmonique de New York a enregistré un jour huit minutes sous le titre « 480 secondes de silence ». Le chant naturel du vent dansant sur les instruments sur la scène en plein air s'est en effet vendu à un million d'exemplaires. Si les sons du silence peuvent littéralement pénétrer le monde de la musique, pensez au concert que quelques mots simples peuvent accomplir sur les cordes vocales. Nous pouvons partager le plus grand nombre possible de personnes en ne permettant pas à nos paroles d'interférer avec notre ministère et notre service.
 
-> « _On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour._ » ([LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
+> « _On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour._ » (<a id="a42_128"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
 
 _Thomas Mèches_
 _Florence, Arizona_

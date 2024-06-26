@@ -117,7 +117,7 @@ la puissance et la sagesse divines jusqu'au
 fin, jusqu'à ce que la dernière lutte terrestre soit terminée.
 
 Adapté de l’avertissement d’un Ajusteur 
-([LU 110:7.10](/fr/The_Urantia_Book/110#p7_10))
+(<a id="a119_1"></a>[LU 110:7.10](/fr/The_Urantia_Book/110#p7_10))
 
 ---
 La poésie de mon âme est tirée de 

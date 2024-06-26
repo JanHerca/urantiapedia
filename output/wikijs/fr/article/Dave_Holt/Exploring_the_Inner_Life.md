@@ -12,11 +12,11 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 
 
-> En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu — ([LU 111:5.1](/fr/The_Urantia_Book/111#p5_1))
+> En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu — (<a id="a14_155"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1))
 
 La vie intérieure ou intérieure est un paysage de souvenirs, d'évaluations du passé, de questions sur notre expérience de vie et de peurs face à l'avenir. Nous pouvons identifier des émotions, des idées, des espoirs et des rêves en reconnaissant quelques-unes de ces caractéristiques topographiques. Les groupes religieux proposent généralement un guide pour vous aider à traverser ces montagnes, un Sherpa pour vous faire traverser l'Himalaya, et j'ai été guidé à travers des passages difficiles par divers sentiers. On promet souvent aux chercheurs de vérité qu’ils recevront une aide divine en empruntant un chemin particulier préconisé par les guides de sentiers. Dans cet article, je mettrai l’accent sur l’exploration de la vie intérieure en partenariat personnel avec un guide spirituel ou Dieu, connu comme l’Ajusteur de Pensée des lecteurs du Livre d’Urantia, un partenariat qui peut être formé quel que soit le chemin religieux officiel sur lequel vous vous trouvez. 
 
-> Le Père désire que toutes ses créatures soient en communion personnelle avec lui. ([LU 5:1.8](/fr/The_Urantia_Book/5#p1_8))
+> Le Père désire que toutes ses créatures soient en communion personnelle avec lui. (<a id="a18_85"></a>[LU 5:1.8](/fr/The_Urantia_Book/5#p1_8))
 
 L'idée selon laquelle un guide spirituel ou un gardien est à notre disposition dans notre vie intérieure était autrefois enseignée dans le cadre de la **tradition contemplative** du christianisme. Au fur et à mesure que j’ai vécu le christianisme de ma jeunesse dans l’Église protestante, celui-ci avait perdu de son influence. L’absence de l’enseignement de Jésus selon lequel « le royaume de Dieu est en vous » a été l’un des facteurs qui ont conduit à la « mort de Dieu » dans les années 1960. La culture chrétienne occidentale, si axée sur la préservation de l’autorité de l’Église, ne comprenait plus les enseignements relatifs à l’expérience spirituelle personnelle. Pour cette raison, de nombreux Occidentaux se sont tournés vers les traditions religieuses orientales et les mouvements New Age, dont certains sont basés sur des découvertes psychologiques modernes qui se combinent harmonieusement avec les enseignements spirituels. 
 
@@ -26,7 +26,7 @@ Le culte contemplatif (comme la méditation) a toujours fait partie intégrante 
 
 Il est également toujours enseigné dans les enseignements spirituels des Amérindiens, par exemple lorsque les jeunes sont guidés à travers le rituel de la Vision Quest. Une voie de « nouvelle pensée » populaire aux États-Unis est _Un cours en miracles_. Le « Cours » conseille de rechercher la direction du Saint-Esprit dans ses pratiques de prière et de méditation. 
 
-Certains commentateurs chrétiens parlent encore du christianisme comme d'une « amitié transformatrice avec Jésus »[^3]. Jésus a enseigné : _« En prêchant l'évangile du royaume, vous enseignez simplement l'amitié avec Dieu. »_ [LU 159:3.9](/fr/The_Urantia_Book/159#p3_9) La vie intérieure est connecté à une religion d’expérience personnelle, identifiée comme « vraie religion » dans _Le Livre d’Urantia_. C’est la religion que Jésus avait l’intention d’établir. Il est « _l'auteur et le consommateur de notre foi. »_ [LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) ([Hébreux 12:2](/fr/Bible/Hebrews/12#v2)) 
+Certains commentateurs chrétiens parlent encore du christianisme comme d'une « amitié transformatrice avec Jésus »[^3]. Jésus a enseigné : _« En prêchant l'évangile du royaume, vous enseignez simplement l'amitié avec Dieu. »_ <a id="a28_226"></a>[LU 159:3.9](/fr/The_Urantia_Book/159#p3_9) La vie intérieure est connecté à une religion d’expérience personnelle, identifiée comme « vraie religion » dans _Le Livre d’Urantia_. C’est la religion que Jésus avait l’intention d’établir. Il est « _l'auteur et le consommateur de notre foi. »_ <a id="a28_517"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) ([Hébreux 12:2](/fr/Bible/Hebrews/12#v2)) 
 
 ## Sera-t-il douloureux d’explorer sa vie intérieure ? 
 
@@ -54,13 +54,13 @@ Pourquoi es-tu abattue, ô mon âme ? Et pourquoi es-tu troublé, inquiet en moi
 
 Nos premiers pas vers un progrès spirituel peuvent impliquer de guérir la douleur acquise lors d’expériences antérieures, qu’elle soit le résultat de nos propres faux pas ou qu’elle nous ait été injustement infligée par d’autres. Si on le lui demande, le guide spirituel, Jésus (par le ministère de l’Esprit de Vérité), ou l’Ajusteur de Pensée, participera à notre thérapie. 
 
-> Pourquoi n’encouragez-vous pas l’aide divin à vous réconforter en vous montrant clairement le panorama éternel de la vie universelle ... ?  ([LU 111:7.3](/fr/The_Urantia_Book/111#p7_3))
+> Pourquoi n’encouragez-vous pas l’aide divin à vous réconforter en vous montrant clairement le panorama éternel de la vie universelle ... ?  (<a id="a56_143"></a>[LU 111:7.3](/fr/The_Urantia_Book/111#p7_3))
 
 Cela peut être difficile parce que nous devons alors nous tenir devant cet esprit tout-puissant dans la prière et admettre honnêtement notre douleur, ainsi que la honte ou le regret que nous pouvons ressentir face à notre propre faiblesse. La Bible contient un adage chrétien important à propos de cette première étape du renouveau (en pensant ici au « Christ » comme guide spirituel ou enseignant) : « Si quelqu’un est en Christ, il est une nouvelle création. Les choses anciennes sont passées ; voici, toutes choses sont devenues nouvelles. »[^8] 
 
 Le sentiment d’être réconforté peut être notre première expérience de Dieu comme ami. Dans les termes du Livre d'Urantia, nous pensons au « Consolateur » comme à l'Esprit de Vérité accordé sur terre à la fin de la vie de Jésus, l'effusion de Micaël. 
 
-Certaines étapes du projet de réalisation de soi, ou de réalisation de soi, peuvent être suspendues jusqu'à ce que le contrôle des dégâts soit en place et que la guérison ait commencé. En réalité, beaucoup d’entre nous existent à différents moments du continuum entre les déficiences psychologiques et la réalisation de soi. _« Le facteur différent dans la présence spirituelle, ou réaction, est le différentiel fluctuant dans sa reconnaissance et sa réception par les créatures volontaires. »_ [LU 13:4.4](/fr/The_Urantia_Book/13#p4_4) 
+Certaines étapes du projet de réalisation de soi, ou de réalisation de soi, peuvent être suspendues jusqu'à ce que le contrôle des dégâts soit en place et que la guérison ait commencé. En réalité, beaucoup d’entre nous existent à différents moments du continuum entre les déficiences psychologiques et la réalisation de soi. _« Le facteur différent dans la présence spirituelle, ou réaction, est le différentiel fluctuant dans sa reconnaissance et sa réception par les créatures volontaires. »_ <a id="a62_495"></a>[LU 13:4.4](/fr/The_Urantia_Book/13#p4_4) 
 
 Il est préférable, à mon avis, de prendre d’abord soin de notre propre arrière-cour au mieux de nos capacités, d’arroser le jardin de notre cœur avant d’aller servir les autres. 
 
@@ -72,15 +72,15 @@ La psychologie jungienne souligne que l’esprit supraconscient peut travailler 
 
 Jung a utilisé « l'imagination active » comme technique de thérapie impliquant une invitation à l'inconscient à faire partie de l'esprit quotidien.[^10] Nous pouvons nous en inspirer pour écrire notre voyage mythologique, trouvant des mythes héroïques dans notre propre histoire de vie. Ceux qui sont écrivains, artistes, sculpteurs ou musiciens comprendront cet usage de l’artisanat : « Souvent les mains savent résoudre une énigme avec laquelle l’intellect a lutté en vain. »[^11] Un des objectifs qui se dégage naturellement de la poursuite d'une vie intérieure est le désir de vivre de manière créative. Nous pouvons consciemment chercher dans notre vie de prière à unifier les apports du supraconscient avec notre propre pensée créatrice, quelles que soient les formes que peut prendre notre créativité. Un véritable mélange de notre expérience et de nos idées avec les ministères de la sagesse divine est possible, voire souhaitable. 
 
-Il s'agit de « l'expansion de la volonté » discutée dans _Le Livre d'Urantia_, Fascicule 111 : « _...un tel choix élève la volonté de la créature... à cet état supérieur où la personnalité du fils créé communie avec la personnalité du Père-esprit._ » [LU 111:5.5](/fr/The_Urantia_Book/111#p5_5). 
+Il s'agit de « l'expansion de la volonté » discutée dans _Le Livre d'Urantia_, Fascicule 111 : « _...un tel choix élève la volonté de la créature... à cet état supérieur où la personnalité du fils créé communie avec la personnalité du Père-esprit._ » <a id="a74_251"></a>[LU 111:5.5](/fr/The_Urantia_Book/111#p5_5). 
 
-> Pourquoi ne pas permettre à l’Ajusteur de spiritualiser vos pensées, ... ? ([LU 111:7.3](/fr/The_Urantia_Book/111#p7_3))
+> Pourquoi ne pas permettre à l’Ajusteur de spiritualiser vos pensées, ... ? (<a id="a76_78"></a>[LU 111:7.3](/fr/The_Urantia_Book/111#p7_3))
 
 Outre l’activité créatrice évidente qu’implique l’art de créer un poème, une histoire ou une symphonie, qu’entend-on d’autre par créativité dans ce sens « divin » ? Si vous êtes ou avez été parent, vous vous souviendrez probablement à quel point votre énergie créatrice a été consacrée au projet visant à jeter les bases du bon caractère de vos enfants.  
 
 ## Pouvons-nous savoir si nous avons eu un réel contact avec le guide spirituel intérieur ? 
 
-_Le Livre d'Urantia_ dit : « _Vous êtes tout à fait incapable de distinguer les fruits de votre propre intellect matériel de ceux des activités conjointes de votre âme et de votre Ajusteur._ » [LU 110:4.2](/fr/The_Urantia_Book/110#p4_2) Malgré un tel découragement, nous sommes toujours encouragés continuer à faire des efforts. _Le Livre d'Urantia_ suggère que nous adoptions un objectif de développement d'une communion ininterrompue, « _La prière... souvent la prière creuse des chenaux plus larges et plus profonds par lesquels les dons divins peuvent affluer vers le cœur et l’âme de ceux qui se souviennent ainsi de maintenir, par la prière sincère et la véritable adoration, une communion ininterrompue avec leur Auteur..._ » [LU 194:3.20](/fr/The_Urantia_Book/194#p3_20)
+_Le Livre d'Urantia_ dit : « _Vous êtes tout à fait incapable de distinguer les fruits de votre propre intellect matériel de ceux des activités conjointes de votre âme et de votre Ajusteur._ » <a id="a82_193"></a>[LU 110:4.2](/fr/The_Urantia_Book/110#p4_2) Malgré un tel découragement, nous sommes toujours encouragés continuer à faire des efforts. _Le Livre d'Urantia_ suggère que nous adoptions un objectif de développement d'une communion ininterrompue, « _La prière... souvent la prière creuse des chenaux plus larges et plus profonds par lesquels les dons divins peuvent affluer vers le cœur et l’âme de ceux qui se souviennent ainsi de maintenir, par la prière sincère et la véritable adoration, une communion ininterrompue avec leur Auteur..._ » <a id="a82_733"></a>[LU 194:3.20](/fr/The_Urantia_Book/194#p3_20)
 
 J'ai choisi cette règle empirique pour moi-même : chaque fois que je mets des mots sur une expérience de vie intérieure, je me souviens que ce sont mes mots. Mais j’ai observé, généralement rétrospectivement, des moments de ma vie où j’ai dû recevoir une aide ou une inspiration divine. J’ai vu les « fruits » du contact spirituel dans ma propre vie : moins d’énergie consommée par la peur, un optimisme élargi et la possession d’un point de vue plein d’espoir. Dans mes souvenirs, je reconnais que j’ai dépassé le point de vue plus restrictif et craintif que j’avais auparavant.  
 
@@ -92,13 +92,13 @@ Lorsque le sujet des traditions contemplatives d'Orient est abordé, nous entend
 
 ## Quelles sont les conséquences sociales ou culturelles du partage de la vie intérieure avec Dieu ? 
 
-> Les progrès de la vraie civilisation sont tous nés dans ce monde intérieur de l’humanité. Seule la vie intérieure est vraiment créative. ([LU 111:4.3](/fr/The_Urantia_Book/111#p4_3))
+> Les progrès de la vraie civilisation sont tous nés dans ce monde intérieur de l’humanité. Seule la vie intérieure est vraiment créative. (<a id="a94_140"></a>[LU 111:4.3](/fr/The_Urantia_Book/111#p4_3))
 
-> C’est seulement aux niveaux supérieurs du mental superconscient ... l’on trouve ces concepts supérieurs ... qui contribueront à bâtir une civilisation meilleure et plus durable. ([LU 111:4.5](/fr/The_Urantia_Book/111#p4_5))
+> C’est seulement aux niveaux supérieurs du mental superconscient ... l’on trouve ces concepts supérieurs ... qui contribueront à bâtir une civilisation meilleure et plus durable. (<a id="a96_181"></a>[LU 111:4.5](/fr/The_Urantia_Book/111#p4_5))
 
-> Il est éternellement vrai que le passé est inchangeable et que seul l’avenir peut être modifié par le ministère de la créativité du moi intérieur au moment présent. ([LU 111:4.12](/fr/The_Urantia_Book/111#p4_12))
+> Il est éternellement vrai que le passé est inchangeable et que seul l’avenir peut être modifié par le ministère de la créativité du moi intérieur au moment présent. (<a id="a98_168"></a>[LU 111:4.12](/fr/The_Urantia_Book/111#p4_12))
 
-> ... l’idéalisme spirituel est l’énergie qui élève réellement la culture humaine et la fait progresser d’un niveau d’accomplissement au suivant. ([LU 81:6.27](/fr/The_Urantia_Book/81#p6_27))
+> ... l’idéalisme spirituel est l’énergie qui élève réellement la culture humaine et la fait progresser d’un niveau d’accomplissement au suivant. (<a id="a100_147"></a>[LU 81:6.27](/fr/The_Urantia_Book/81#p6_27))
 
 Le développement d’une relation personnelle avec Dieu anticipe la prochaine étape évolutive de la conscience humaine. En franchissant consciemment cette prochaine étape, nous commençons à créer une véritable fraternité sur la planète. Nous pourrons alors commencer à viser un idéal plus grand et plus élevé : l’avènement d’une ère de paix et de bonne volonté, une ère d’harmonie spirituelle.   
 

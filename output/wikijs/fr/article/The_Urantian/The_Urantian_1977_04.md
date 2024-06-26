@@ -57,7 +57,7 @@ Les personnalités modèles semblent être les premières de leur ordre - comme 
 
 Les familles génétiques et les familles de groupes d'étude sont toutes deux les ateliers de Notre Père. Ils permettent l’ajustement du soi aux autres soi. Ils permettent de cultiver l'amour de notre Père à travers lequel les Ajusteurs de Pensée, l'Esprit de Vérité et nos autres bienfaiteurs spirituels peuvent nous aider à élever l'humanité.
 
-Le foyer offre la première occasion de favoriser la dévotion fraternelle entre les membres. Le groupe d’étude 5, dont les membres cherchent loyalement à vivre un service aimant, se retrouve également confronté à des relations amoureuses similaires. En parlant avec ses apôtres de l’amour et de la famille, Jésus a déclaré : « _Les gens d’une autre époque comprendront mieux l’évangile du royaume s’il est présenté en termes exprimant les relations de famille — quand l’homme comprendra la religion comme l’enseignement de la paternité de Dieu et de la fraternité humaine, la filiation avec Dieu._” ([LU 142:7.4](/fr/The_Urantia_Book/142#p7_4)) Nous sommes le peuple d'un autre âge.
+Le foyer offre la première occasion de favoriser la dévotion fraternelle entre les membres. Le groupe d’étude 5, dont les membres cherchent loyalement à vivre un service aimant, se retrouve également confronté à des relations amoureuses similaires. En parlant avec ses apôtres de l’amour et de la famille, Jésus a déclaré : « _Les gens d’une autre époque comprendront mieux l’évangile du royaume s’il est présenté en termes exprimant les relations de famille — quand l’homme comprendra la religion comme l’enseignement de la paternité de Dieu et de la fraternité humaine, la filiation avec Dieu._” (<a id="a59_599"></a>[LU 142:7.4](/fr/The_Urantia_Book/142#p7_4)) Nous sommes le peuple d'un autre âge.
 
 Les groupes d’étude matures, comme les « vraies » familles, promeuvent l’amour fraternel et l’accomplissement de la « règle d’or » en favorisant activement la fraternité de la révélation humaine sur terre. Il s’agit d’une réalisation précieuse. Mais Jésus exhorte ses disciples à aimer les hommes comme il nous aime – à aimer avec une affection aussi bien paternelle que fraternelle. Si nous devons représenter Jésus auprès de notre famille humaine, il attend de nous que nous manifestions les réactions suprêmes d’une foi paternelle assurée par l’affection et d’un amour parfait.
 
@@ -69,7 +69,7 @@ Les groupes d’étude matures, comme les « vraies » familles, promeuvent l’
 
 Contrairement aux nombreuses âmes vaillantes qui ont promu la vérité spirituelle au cours des époques passées, nous, les diffuseurs mortels de la révélation URANTIA, avons de nombreux avantages, certains accordés, comme l'Esprit de Vérité, et d'autres acquis, comme les communications de masse, et le pouvoir. pour voir l'histoire avec le recul. En raison de nos avantages, nos responsabilités sont, dans un sens, plus grandes, et c'est pour cette raison que l'auteur estime que la commission révélatrice nous a délibérément fourni un contexte historique sur lequel fonder nos décisions futures.
 
-L'une des déclarations les plus significatives pour évaluer ce qui a été fait et ce qui devrait et ne devrait pas être fait pour faire progresser la vérité spirituelle est : « _La religion de la révélation doit toujours être limitée par la capacité de réceptivité de l'homme._ » ([LU 92:4.1](/fr/The_Urantia_Book/92#p4_1) )
+L'une des déclarations les plus significatives pour évaluer ce qui a été fait et ce qui devrait et ne devrait pas être fait pour faire progresser la vérité spirituelle est : « _La religion de la révélation doit toujours être limitée par la capacité de réceptivité de l'homme._ » (<a id="a71_280"></a>[LU 92:4.1](/fr/The_Urantia_Book/92#p4_1) )
 
 Plusieurs pensées peuvent nous venir à l’esprit. Devons-nous seulement donner ce que le trafic peut supporter ? Compromis? Vendu? C’est loin d’être l’intention de l’auteur de Melchisédek. Il nous donne plutôt une leçon dérivée de la longue lutte évolutive visant à élever la vie spirituelle de la civilisation urantienne. Pour illustrer cela, regardons l’expérience de ceux qui ont initié ou ont été les enseignants d’une révélation d’époque antérieure.
 
@@ -79,7 +79,7 @@ Plusieurs pensées peuvent nous venir à l’esprit. Devons-nous seulement donne
 
 ## Le nouveau culte – modèle et symbole
 
-> « _...un culte — un symbolisme de rites, de slogans ou de buts — ..._ » ([LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
+> « _...un culte — un symbolisme de rites, de slogans ou de buts — ..._ » (<a id="a81_75"></a>[LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
 
 Qu'est-ce qu'un modèle ? Au niveau le plus bas de notre perception, nous le voyons comme un phénomène spatio-temporel, le tissage de relations en un sens. Esthétiquement, c'est le rapport des couleurs, des textures, des sons. Psychologiquement, c'est la relation de motivations, de désirs, d'actions. Spirituellement, c’est « indicible » sauf à travers des symboles.
 
@@ -95,7 +95,7 @@ En prenant arbitrairement un objet de notre expérience sensorielle, une pierre,
 
 Parce qu'il serait impossible de traiter de manière adéquate un sujet aussi complexe et difficile que le modèle dans un court article, je me suis demandé quelle était pour moi la signification principale et la valeur pratique du modèle. En premier lieu, elle est liée à la perfection. La présence du modèle est la validation et la justification du mandat divin : « Soyez parfait, comme je suis parfait ». Comment notre Père aimant pourrait-il exiger que ses enfants soient parfaits si cette perfection n’était pas déjà présente comme potentiel ?
 
-La perfection qui nous est demandée ici et maintenant n’est pas la perfection absolue. Il existe une variété dans la perfection (voir _Le Livre d'URANTIA_, [LU 0:1.19](/fr/The_Urantia_Book/0#p1_19)). Le modèle a également sa variété en phases. Le Paradis est l'absolu du modèle, Havona la perfection du modèle. Le suprême
+La perfection qui nous est demandée ici et maintenant n’est pas la perfection absolue. Il existe une variété dans la perfection (voir _Le Livre d'URANTIA_, <a id="a97_156"></a>[LU 0:1.19](/fr/The_Urantia_Book/0#p1_19)). Le modèle a également sa variété en phases. Le Paradis est l'absolu du modèle, Havona la perfection du modèle. Le suprême
 
 Les créateurs projettent un modèle dans le temps et dans l’espace à des niveaux toujours décroissants, mais le modèle reste néanmoins un modèle ; c'est toujours relativement parfait. La miséricorde de notre Père Universel garantit qu'il y a toujours un équilibre parfait entre ce qui est exigé de nous et ce qui est notre potentiel, modèle. Et en même temps il y a la perspective sans fin : « . . . comme je suis parfait. Un mandat du Dieu d’amour doit être caractérisé par cet amour. Ce qu'il exige de ses fils, il le leur a déjà donné en potentiel. Le père dit au frère aîné du fils prodigue : « . . . tout ce que j'ai est à toi. Son mandat est vraiment notre plus grand privilège.
 
@@ -113,7 +113,7 @@ Il était peut-être inévitable qu'en relisant la vie de notre Père de l'Unive
 
 — _Marian Hauck_
 
-> « _Dieu est la première vérité et le dernier fait, et c’est pourquoi toute vérité prend origine en lui, tandis que tous les faits existent relativement à lui. Dieu est la vérité absolue. On peut connaitre Dieu en tant que vérité, mais pour comprendre Dieu — pour l’expliquer — il faut explorer le fait de l’univers des univers._ » ([LU 102:6.6](/fr/The_Urantia_Book/102#p6_6))
+> « _Dieu est la première vérité et le dernier fait, et c’est pourquoi toute vérité prend origine en lui, tandis que tous les faits existent relativement à lui. Dieu est la vérité absolue. On peut connaitre Dieu en tant que vérité, mais pour comprendre Dieu — pour l’expliquer — il faut explorer le fait de l’univers des univers._ » (<a id="a115_334"></a>[LU 102:6.6](/fr/The_Urantia_Book/102#p6_6))
 
 
 

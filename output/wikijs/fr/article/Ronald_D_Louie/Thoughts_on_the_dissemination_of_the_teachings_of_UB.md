@@ -35,9 +35,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> « _Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle._ » ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> « _Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle._ » (<a id="a37_184"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
-Ces mots annoncent une nouvelle ère à venir et soulignent l’anticipation selon laquelle la civilisation est appelée à connaître des changements majeurs d’une portée globale. On nous dit également que la « _... réorganisation sociale, morale, économique et politique du monde_ » ([LU 99:3.3](/fr/The_Urantia_Book/99#p3_3)) ne peut avoir lieu que sous la direction et l'inspiration des âmes nées de l'esprit qui auront été transformé par la renaissance spirituelle à venir.
+Ces mots annoncent une nouvelle ère à venir et soulignent l’anticipation selon laquelle la civilisation est appelée à connaître des changements majeurs d’une portée globale. On nous dit également que la « _... réorganisation sociale, morale, économique et politique du monde_ » (<a id="a39_279"></a>[LU 99:3.3](/fr/The_Urantia_Book/99#p3_3)) ne peut avoir lieu que sous la direction et l'inspiration des âmes nées de l'esprit qui auront été transformé par la renaissance spirituelle à venir.
 
 Sans aucun doute, les enseignements du _Livre d'URANTIA_, la cinquième révélation d'époque sur cette planète, joueront un rôle critique dans l'augmentation du développement évolutif progressif qui a lieu. En examinant certains des problèmes auxquels est actuellement confronté le développement sociétal évolutionniste, nous pouvons avoir un aperçu du rôle des enseignements dans la transformation efficace de la civilisation.
 
@@ -61,7 +61,7 @@ _Le Livre d'URANTIA_ est cette révélation opportune de la vérité qui étendr
 
 De grands progrès peuvent être attendus dans le domaine du réservoir mondial de connaissances accumulées. La fonction des enseignements d'URANTIA serait d'augmenter, de corréler et d'intégrer le corps de connaissances existant à travers l'interaction de ceux qui partagent cette nouvelle vision. On nous dit :
 
-> « _Intellectuellement, socialement et spirituellement, lorsque deux créatures morales emploient la technique de l’association, elles font plus que doubler leur potentiel personnel d’aboutissement universel ; c’est plutôt au quadruple qu’elles portent leur réussite et leurs possibilités d’accomplissement._ » ([LU 43:8.11](/fr/The_Urantia_Book/43#p8_11))
+> « _Intellectuellement, socialement et spirituellement, lorsque deux créatures morales emploient la technique de l’association, elles font plus que doubler leur potentiel personnel d’aboutissement universel ; c’est plutôt au quadruple qu’elles portent leur réussite et leurs possibilités d’accomplissement._ » (<a id="a63_312"></a>[LU 43:8.11](/fr/The_Urantia_Book/43#p8_11))
 
 Ce même principe synergique s’appliquerait également à l’amélioration et à la croissance de la connaissance mondiale en tant que résultat direct de l’échange éducatif qui se produirait lorsque des individus dirigés par l’esprit et issus de divers segments d’une culture se rassembleraient dans la quête commune de la recherche d’un tout unifié.
 

@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Par Martin Greenhut, Monterey, Massachusetts_
 
-« ...UN JOUR DE PLUS POUR FAIRE LA VOLONTÉ DU PÈRE ET EXPÉRIMENTER LA JOIE DE SAVOIR QUE NOUS SOMMES SES FILS » ([LU 177:5.6](/fr/The_Urantia_Book/177#p5_6) — Jésus parlant de son dernier jour libre sur terre.)
+« ...UN JOUR DE PLUS POUR FAIRE LA VOLONTÉ DU PÈRE ET EXPÉRIMENTER LA JOIE DE SAVOIR QUE NOUS SOMMES SES FILS » (<a id="a39_113"></a>[LU 177:5.6](/fr/The_Urantia_Book/177#p5_6) — Jésus parlant de son dernier jour libre sur terre.)
 
 Lorsque nous devons faire face à certaines circonstances paralysantes liées à des corps humains malades et vieillissants, la véritable nature de l’état mortel se présente à nous dans sa plénitude. Nos corps, comme les animaux de trait qui se sont épuisés au cours d’une vie de stress laborieux et de violences physiques, deviennent des organismes faibles et encombrants qui nécessitent une attention et des soins démesurés. Notre esprit doit s’appuyer sur la force qu’il a acquise pour faire face au vaisseau physique qui se flétrit.
 

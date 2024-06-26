@@ -239,11 +239,11 @@ Alors que je vivais à Pueblo, l’un des membres de notre groupe d'étude souff
 
 Le Boulder Women’s Corps, un groupe de lectrices du Livre d’Urantia appartenant à plusieurs groupes d’étude, a été créé pour rendre service aux femmes et aux enfants. Je me sens toujours proche de ces femmes parce que nous avons imaginé, créé et accompli ensemble des actes de service très significatifs.
 
-_Le Livre d'Urantia_ déclare : « L'une des leçons les plus importantes à apprendre au cours de votre carrière mortelle est le travail d'équipe. Les sphères de perfection sont occupées par ceux qui maîtrisent cet art de travailler avec d’autres êtres. [[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)] Devenir une équipe de service avec votre groupe d'étude peut être l’une des choses les plus précieuses que les lecteurs du Livre d'Urantia puissent faire ensemble.
+_Le Livre d'Urantia_ déclare : « L'une des leçons les plus importantes à apprendre au cours de votre carrière mortelle est le travail d'équipe. Les sphères de perfection sont occupées par ceux qui maîtrisent cet art de travailler avec d’autres êtres. <a id="a241_251"></a>[[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)] Devenir une équipe de service avec votre groupe d'étude peut être l’une des choses les plus précieuses que les lecteurs du Livre d'Urantia puissent faire ensemble.
 
 Jésus a envoyé les apôtres par paires pour une raison. Peut-être que partager l’expérience ajoute du sens et de la valeur. Même si tous les membres de votre groupe d’étude ne sont pas motivés à faire ce genre de choses ensemble, il y en aura probablement plusieurs qui seront prêts à vous rejoindre. Personnellement, j’ai remarqué que le service effectué en groupe est en quelque sorte plus satisfaisant. Tous ces projets ont été vécus parce qu’une personne passionnée est venue au groupe et a demandé « Veux-tu m'aider ? Peut-être connaissez-vous un besoin dans votre propre communauté que vous pourriez transmettre à votre groupe. Le service de groupe peut être une excellente expérience de groupe d’étude.
 
-> « Le fait d’être attentif et sensible aux besoins humains crée un bonheur authentique et durable ; ... » ([LU 140:5.16](/fr/The_Urantia_Book/140#p5_16))
+> « Le fait d’être attentif et sensible aux besoins humains crée un bonheur authentique et durable ; ... » (<a id="a245_108"></a>[LU 140:5.16](/fr/The_Urantia_Book/140#p5_16))
 
 ## Servir tranquillement en Corée du Sud
 
@@ -276,7 +276,7 @@ De plus, le service dévoué de Sy a attiré l’attention à la fois de la Fond
 
 C'est vraiment incroyable ce qu’on peut faire en servant tranquillement.
 
-> « Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement. » ([LU 132:7.9](/fr/The_Urantia_Book/132#p7_9))
+> « Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement. » (<a id="a278_112"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9))
 
 
 ## Deux sièges ouverts au Conseil général de la Fellowship

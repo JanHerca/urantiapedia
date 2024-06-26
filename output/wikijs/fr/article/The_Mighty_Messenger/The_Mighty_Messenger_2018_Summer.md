@@ -85,7 +85,7 @@ Nous espérons que vous nous rejoindrez dans cette activité !
 
 ### Culte
 
-Le thème du culte pour SSS’18 est la relation entre culte et service. « L'adoration est la technique qui consiste à se tourner vers l’Un pour trouver l’inspiration au service du plus grand nombre » ([LU 143:7.6](/fr/The_Urantia_Book/143#p7_6)). Le Comité du Culte a prévu plusieurs événements afin de créer un moment « imprégné d’une atmosphère de communion ». Vous pouvez assister chaque jour à une méditation contemplative tranquille dans la chapelle africaine avant le petit-déjeuner et le dîner ; rassemblez-vous pour contempler ensemble notre Père céleste avant les séances plénières. Dimanche, nous nous rassemblerons et partagerons une matinée spéciale de culte avec des activités connexes.
+Le thème du culte pour SSS’18 est la relation entre culte et service. « L'adoration est la technique qui consiste à se tourner vers l’Un pour trouver l’inspiration au service du plus grand nombre » (<a id="a87_199"></a>[LU 143:7.6](/fr/The_Urantia_Book/143#p7_6)). Le Comité du Culte a prévu plusieurs événements afin de créer un moment « imprégné d’une atmosphère de communion ». Vous pouvez assister chaque jour à une méditation contemplative tranquille dans la chapelle africaine avant le petit-déjeuner et le dîner ; rassemblez-vous pour contempler ensemble notre Père céleste avant les séances plénières. Dimanche, nous nous rassemblerons et partagerons une matinée spéciale de culte avec des activités connexes.
 
 ### C'est un Gala de l’Univers Convivial
 
@@ -257,7 +257,7 @@ Par _Avi Dogim_
 
 Alors que Jésus commençait son œuvre publique, il dit aux apôtres :
 
-> _Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement *semblables.* L’unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d’esprit du Père céleste. Votre harmonie apostolique doit naitre du fait que l’espoir spirituel de chacun de vous est identique par son origine, sa nature et sa destinée._ ([LU 141:5.1](/fr/The_Urantia_Book/141#p5_1))
+> _Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour être spirituellement *semblables.* L’unité spirituelle dérive de la conscience que chacun de vous est habité, et de plus en plus dominé, par le don d’esprit du Père céleste. Votre harmonie apostolique doit naitre du fait que l’espoir spirituel de chacun de vous est identique par son origine, sa nature et sa destinée._ (<a id="a259_436"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1))
 
 On a beaucoup parlé dernièrement de « l’unité » dans les cercles de la Fraternité Urantia. Il y a eu des réunions entre les représentants de la Fellowship et de l’AUI pour explorer le sujet. Et le sujet dans cette affaire était la possible fusion des deux organisations.
 

@@ -85,7 +85,7 @@ De profession, Sue est consultante en études de marché et a été modératrice
 
 Ces compétences seront utiles au Conseil général.
 
-> Le service social résulte d’une manière morale de penser et religieuse de vivre. ([LU 5:5.4](/fr/The_Urantia_Book/5#p5_4))
+> Le service social résulte d’une manière morale de penser et religieuse de vivre. (<a id="a87_84"></a>[LU 5:5.4](/fr/The_Urantia_Book/5#p5_4))
 
 ## Liens externes
 

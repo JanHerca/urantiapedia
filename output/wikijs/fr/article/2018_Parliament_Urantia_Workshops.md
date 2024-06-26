@@ -63,7 +63,7 @@ Ne manquez pas d'assister à leur magnifique performance au Parlement des Religi
 
 https://www.youtube.com/watch?v=NurBEzUap5o
 
-> « Consacre ta vie à prouver que l’amour est la plus grande chose du monde. » ([LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
+> « Consacre ta vie à prouver que l’amour est la plus grande chose du monde. » (<a id="a65_80"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
 
 Pour en savoir plus, rendez-vous sur : www.patobanton.com et www.facebook.com/groups/patobantonsspiritualfamily
 

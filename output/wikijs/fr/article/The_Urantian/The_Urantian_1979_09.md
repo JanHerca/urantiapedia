@@ -40,7 +40,7 @@ _Le Livre d'URANTIA_ nous dit :
 
 > « _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s’imposent si l’on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s’installera pas paisiblement pour un millénaire. Il faut que la race humaine s’adapte à une série de modifications, d’ajustements et de rajustements. L’humanité est en marche vers une nouvelle destinée planétaire non révélée._»
 > 
-> « _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel ; il faut qu’elle fonctionne dynamiquement au milieu de conditions toujours changeantes et d’ajustements économiques sans fin._ » ([LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
+> « _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel ; il faut qu’elle fonctionne dynamiquement au milieu de conditions toujours changeantes et d’ajustements économiques sans fin._ » (<a id="a42_244"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
 
 [Lire la suite](/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service)
 
@@ -83,7 +83,7 @@ Merci.
 ---
 
 
-> « _La pierre de touche pour toute philosophie religieuse consiste à savoir si elle fait ou ne fait pas la distinction entre la réalité du monde matériel et celle du monde spirituel, tout en reconnaissant en même temps leur unification dans l’effort intellectuel et le service social._ » ([LU 101:7.5](/fr/The_Urantia_Book/101#p7_5))
+> « _La pierre de touche pour toute philosophie religieuse consiste à savoir si elle fait ou ne fait pas la distinction entre la réalité du monde matériel et celle du monde spirituel, tout en reconnaissant en même temps leur unification dans l’effort intellectuel et le service social._ » (<a id="a85_290"></a>[LU 101:7.5](/fr/The_Urantia_Book/101#p7_5))
 
 
 

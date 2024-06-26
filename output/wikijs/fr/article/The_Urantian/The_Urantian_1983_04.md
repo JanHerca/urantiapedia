@@ -45,7 +45,7 @@ Il semble y avoir deux manières principales par lesquelles la science et la tec
 — _James Johnston_ 
 _Tolède, Ohio_
 
-> « _Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir._ » ([LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
+> « _Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir._ » (<a id="a47_211"></a>[LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
 
 
 

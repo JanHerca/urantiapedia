@@ -74,7 +74,7 @@ Eh bien, parce que si vous lisez _Le Livre d'Urantia_, vous savez ce que signifi
 
 De plus, vous avez probablement fait l’expérience d’une recherche ardente de sens et savez à quel point il est agréable de trouver des enseignements spirituels qui ont réellement un sens. Vous vous souvenez probablement de ce que l’on ressent en se demandant : « Dieu est-il vraiment ainsi ? » « Qui suis-je et quelle est ma place ? » « Quelle est la valeur et le but de ma vie ? » « Pourquoi Dieu laisse-t-il le mal exister ? » « Pourquoi Dieu laisse-t-il souffrir les bonnes personnes ? » Vous savez à quel point cela peut être déroutant lorsque, dans un processus de remise en question sincère, on est confronté d’un côté à la rigidité du fondamentalisme dogmatique et de l’autre au vide d’une science laïque infidèle.
 
-Jésus a bien décrit la douleur de la recherche lorsqu’il a dit de manière poignante : « _Le monde est rempli d’âmes affamées qui vivent dans la famine en présence même du pain de vie ; les hommes meurent en cherchant le Dieu qui habite pourtant en eux. Ils recherchent les trésors du royaume avec un cœur plein de désirs et une démarche fatiguée, alors qu’ils sont tous à portée immédiate de la foi vivante._” [[LU 159:3.8](/fr/The_Urantia_Book/159#p3_8)]
+Jésus a bien décrit la douleur de la recherche lorsqu’il a dit de manière poignante : « _Le monde est rempli d’âmes affamées qui vivent dans la famine en présence même du pain de vie ; les hommes meurent en cherchant le Dieu qui habite pourtant en eux. Ils recherchent les trésors du royaume avec un cœur plein de désirs et une démarche fatiguée, alors qu’ils sont tous à portée immédiate de la foi vivante._” <a id="a76_410"></a>[[LU 159:3.8](/fr/The_Urantia_Book/159#p3_8)]
 
 Ceux d’entre nous qui ont la chance de recevoir cette incroyable révélation dans leur vie savent ce que l’on ressent lorsque l’on a des réponses satisfaisantes et logiques aux questions les plus déroutantes de la vie. Nous qui lisons le Livre d'Urantia n’avons pas à craindre la mort, ni à voir le monde comme un désordre sans espoir, ni à penser à Dieu comme à un monarque offensé, un dirigeant sévère et tout-puissant dont le principal plaisir est de détecter ses sujets dans des actes répréhensibles et pour veiller à ce qu’ils soient punis de manière adéquate. Nous avons reçu un cadeau précieux en étant pleinement libérés de ces croyances abrutissantes.
 
@@ -136,7 +136,7 @@ Les conseillers Paul M. Anderson de Boston et Guillermo Deoto de Floride, élus 
 **Avi Dogim** est un lecteur depuis les années 1970 et a depuis servi le Mouvement à de nombreux titres. Il est membre fondateur de la New York Society, ancien président des comités des membres et des publications de la Fellowship, ancien président de la Fellowship et membre actuel du comité judiciaire. Il estime que même si la Communauté a déjà fait beaucoup pour diffuser les enseignements du Livre d'Urantia, elle a le potentiel d'accomplir bien plus grâce à un travail d'équipe de plus en plus efficace.
 
 
-> « Et conduis-nous, d’instant en instant, dans la voie du service aimant. » ([LU 144:5.62](/fr/The_Urantia_Book/144#p5_62))
+> « Et conduis-nous, d’instant en instant, dans la voie du service aimant. » (<a id="a138_78"></a>[LU 144:5.62](/fr/The_Urantia_Book/144#p5_62))
 
 
 ## Sociétés au travail 

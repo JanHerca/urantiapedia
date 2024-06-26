@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-«_Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux._» ([LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)) Ainsi parla Jésus aux apôtres dans le sermon d'ordination ; et depuis plus de 1900 ans, les hommes ont exécuté cette injonction selon leur propre illumination et capacité conceptuelle.
+«_Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux._» (<a id="a37_159"></a>[LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)) Ainsi parla Jésus aux apôtres dans le sermon d'ordination ; et depuis plus de 1900 ans, les hommes ont exécuté cette injonction selon leur propre illumination et capacité conceptuelle.
 
 Nous, en tant qu'Urantiens, sommes individuellement confrontés au défi de savoir comment laisser notre « lumière briller tellement » que d'autres, en la voyant, puissent être tentés de emboîter le pas, chacun selon sa propre compréhension.
 

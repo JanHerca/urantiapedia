@@ -56,7 +56,7 @@ Amérique du Sud...
 
 Le Comité international des bourses est heureux d'annoncer une nouvelle affiliation organisationnelle formelle avec le groupe éducatif Casa de FAD à Rio de Janeiro, au Brésil. (Voir Adhésion.)
 
-Fad était l’individu responsable de la Faculté de diffusion et de conservation des connaissances à l’époque du Prince Planétaire. (Voir [LU 66:5.4](/fr/The_Urantia_Book/66#p5_4)). 
+Fad était l’individu responsable de la Faculté de diffusion et de conservation des connaissances à l’époque du Prince Planétaire. (Voir <a id="a58_136"></a>[LU 66:5.4](/fr/The_Urantia_Book/66#p5_4)). 
 
 La mission du groupe brésilien est de poursuivre le travail de ce premier collège sous la direction du Dr Elyr Dos Santos Silva, un étudiant dévoué de la révélation. Le groupe possède un bureau, une salle de réunion et une petite bibliothèque/librairie au centre-ville de Rio de Janeiro.
 

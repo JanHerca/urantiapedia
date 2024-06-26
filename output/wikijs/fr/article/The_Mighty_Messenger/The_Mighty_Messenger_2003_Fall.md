@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-> « Le grand espoir d’Urantia réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles. » ([LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
+> « Le grand espoir d’Urantia réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles. » (<a id="a30_290"></a>[LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
 
 ## Litiges liés au droit d'auteur et _Le Livre d'Urantia_
 

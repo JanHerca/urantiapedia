@@ -41,9 +41,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Par _Duane Johnson_
 
-> « L’art prouve que l’homme n’est pas une machine, mais ne prouve pas qu’il soit spirituellement immortel. L’art est la morontia du mortel, le domaine intermédiaire entre l’homme matériel et l’homme spirituel. La poésie est un effort pour échapper aux réalités matérielles et s’approcher des valeurs spirituelles. » ([LU 195:7.15](/fr/The_Urantia_Book/195#p7_15))
+> « L’art prouve que l’homme n’est pas une machine, mais ne prouve pas qu’il soit spirituellement immortel. L’art est la morontia du mortel, le domaine intermédiaire entre l’homme matériel et l’homme spirituel. La poésie est un effort pour échapper aux réalités matérielles et s’approcher des valeurs spirituelles. » (<a id="a43_318"></a>[LU 195:7.15](/fr/The_Urantia_Book/195#p7_15))
 
-> Le fait de reconnaitre consciemment des valeurs spirituelles est une expérience qui transcende l’idéation. Aucun langage humain n’a de mot pour désigner la « sensation », le « sentiment », « l’intuition » ou « l’expérience » que nous avons choisi d’appeler la conscience de Dieu. ([LU 103:1.6](/fr/The_Urantia_Book/103#p1_6))
+> Le fait de reconnaitre consciemment des valeurs spirituelles est une expérience qui transcende l’idéation. Aucun langage humain n’a de mot pour désigner la « sensation », le « sentiment », « l’intuition » ou « l’expérience » que nous avons choisi d’appeler la conscience de Dieu. (<a id="a45_283"></a>[LU 103:1.6](/fr/The_Urantia_Book/103#p1_6))
 
 Les révélateurs du _Livre d'Urantia_ ne semblent jamais se lasser de déclarer combien il est difficile pour nous de saisir la vraie nature de la réalité spirituelle. Les limites de nos sens ainsi que les limites de l’esprit humain, qu’il nous est donné de comprendre, nous empêchent de comprendre une grande partie de la réalité plus large dont nous faisons partie. 
 
@@ -53,9 +53,9 @@ Les révélateurs du _Livre d'Urantia_ ne semblent jamais se lasser de déclarer
 
 Il est vrai que nous avons tous bénéficié de la discussion et de l’analyse, dans notre prose la plus éloquente, de chaque article du Livre d’Urantia, passage par passage, au sein de groupes d’étude. Nous parvenons à mieux comprendre en lisant des articles et des commentaires dans des publications liées à Urantia et sur les réseaux sociaux. Nous apprenons beaucoup, mais nous repartons également avec une meilleure compréhension du fait que, comme pourrait le dire l’auteur-compositeur Stephen Stills : « Il se passe quelque chose ici, mais ce que c'est n'est pas tout à fait clair. »
 
-Pour cette raison, nous nous tournons vers les arts pour préfigurer ces réalités de l’univers supérieur. (voir [LU 48:7.23](/fr/The_Urantia_Book/48#p7_23))
+Pour cette raison, nous nous tournons vers les arts pour préfigurer ces réalités de l’univers supérieur. (voir <a id="a55_111"></a>[LU 48:7.23](/fr/The_Urantia_Book/48#p7_23))
 
-Le poète en chacun de nous semble savoir intuitivement que les mots ne peuvent pas transmettre de manière adéquate des idées, des idéaux et des significations spirituelles. C'est pourquoi j'en suis venu à considérer la poésie comme une tentative d'articuler l’ineffable. Les poètes utilisent un langage symbolique et métaphorique dans le but d’élever notre esprit humain au niveau de l’esprit cosmique afin de mieux comprendre « les réalités améliorées du temps et les réalités plus durables de l’éternité ». ([LU 101:9.8](/fr/The_Urantia_Book/101#p9_8))
+Le poète en chacun de nous semble savoir intuitivement que les mots ne peuvent pas transmettre de manière adéquate des idées, des idéaux et des significations spirituelles. C'est pourquoi j'en suis venu à considérer la poésie comme une tentative d'articuler l’ineffable. Les poètes utilisent un langage symbolique et métaphorique dans le but d’élever notre esprit humain au niveau de l’esprit cosmique afin de mieux comprendre « les réalités améliorées du temps et les réalités plus durables de l’éternité ». (<a id="a57_510"></a>[LU 101:9.8](/fr/The_Urantia_Book/101#p9_8))
 
 À cette fin, Byron Belitsos a publié en 1982 _Ardent Ascent_, un recueil de poésie de poètes dont les vies ont été touchées et inspirées par _Le Livre d'Urantia_.
 

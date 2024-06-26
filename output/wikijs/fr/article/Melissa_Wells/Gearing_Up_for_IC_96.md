@@ -40,7 +40,7 @@ dateCreated: 2023-10-23T10:55:6Z
 </figure>
 
 
-> « De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers. » ([LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
+> « De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers. » (<a id="a42_315"></a>[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
 
 **Par Mélissa Wells**
 **Raleigh, Caroline du Nord**

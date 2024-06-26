@@ -35,15 +35,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> « _... une véritable famille — une bonne famille — révèle aux parents procréateurs l’attitude du Créateur envers ses enfants, tandis qu’en même temps, ces véritables parents dépeignent à leurs enfants la première d’une longue série ascendante de divulgations concernant l’amour parental paradisiaque de tous les enfants de l’univers._ » ([LU 84:7.30](/fr/The_Urantia_Book/84#p7_30))
+> « _... une véritable famille — une bonne famille — révèle aux parents procréateurs l’attitude du Créateur envers ses enfants, tandis qu’en même temps, ces véritables parents dépeignent à leurs enfants la première d’une longue série ascendante de divulgations concernant l’amour parental paradisiaque de tous les enfants de l’univers._ » (<a id="a37_340"></a>[LU 84:7.30](/fr/The_Urantia_Book/84#p7_30))
 
 Nous avons souvent été perplexes face au problème de présenter à nos enfants la relation amoureuse que nous entretenons avec notre Père Universel, notre Créateur Michael, et les nombreuses personnalités de leur famille universelle. Nous avons découvert qu’avant de pouvoir enseigner à nos enfants comment prier et adorer, nous devions comprendre ces choses par nous-mêmes.
 
 Qu'est-ce que la prière ? Qu’est-ce que l’adoration ? Ces mots font référence à l'expression personnelle et spontanée de notre attitude envers nos parents univers. La prière est un entretien spirituel avec notre Père Universel et ses fils et filles.
 
-> « _« La prière est le souffle de l’âme et devrait vous inciter à persévérer dans vos tentatives pour mieux connaitre la volonté du Père._ » ([LU 144:2.3](/fr/The_Urantia_Book/144#p2_3))
+> « _« La prière est le souffle de l’âme et devrait vous inciter à persévérer dans vos tentatives pour mieux connaitre la volonté du Père._ » (<a id="a43_143"></a>[LU 144:2.3](/fr/The_Urantia_Book/144#p2_3))
 
-L'adoration est « _... une réaction naturelle et spontanée, en reconnaissant la personnalité incomparable du Père, et à cause de sa nature digne d’être aimée et de ses attributs adorables._ » ([LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))
+L'adoration est « _... une réaction naturelle et spontanée, en reconnaissant la personnalité incomparable du Père, et à cause de sa nature digne d’être aimée et de ses attributs adorables._ » (<a id="a45_193"></a>[LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))
 
 La raison pour laquelle il nous est si difficile d’enseigner à nos enfants comment prier est simplement parce qu’une telle technique n’existe pas. Ce qui existe, c'est la relation personnelle entre chaque enfant et sa famille universelle. Une fois cette relation établie dans l’esprit de nos enfants, alors la communication entre eux et notre créateur commencera automatiquement. La clé pour apprendre à nos enfants à prier est d’établir qu’ils sont liés à notre Père Univers et à sa famille.
 

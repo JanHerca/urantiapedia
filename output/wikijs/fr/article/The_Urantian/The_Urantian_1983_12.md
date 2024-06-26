@@ -34,9 +34,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Le rôle de la raison dans la recherche de la volonté du père
 
-La prière est le moyen le plus important de découvrir la volonté de Dieu ; mais trouver la volonté du Père n'est pas seulement une question d'écoute, d'ouverture intérieure. Qu’est-ce qui est impliqué d’autre ? La recherche de la volonté de Dieu relève des « lois des requêtes dominantes » énoncées dans _Le Livre d'URANTIA_. La deuxième de ces conditions affirme : « _Il faut avoir honnêtement épuisé toutes les possibilités humaines d’ajustement. Il faut avoir été industrieux._” ([LU 91:9.3](/fr/The_Urantia_Book/91#p9_3))
+La prière est le moyen le plus important de découvrir la volonté de Dieu ; mais trouver la volonté du Père n'est pas seulement une question d'écoute, d'ouverture intérieure. Qu’est-ce qui est impliqué d’autre ? La recherche de la volonté de Dieu relève des « lois des requêtes dominantes » énoncées dans _Le Livre d'URANTIA_. La deuxième de ces conditions affirme : « _Il faut avoir honnêtement épuisé toutes les possibilités humaines d’ajustement. Il faut avoir été industrieux._” (<a id="a36_483"></a>[LU 91:9.3](/fr/The_Urantia_Book/91#p9_3))
 
-Que signifie être assidu à procéder à des ajustements humains ? Si je suis engagé dans la recherche de la volonté du Père, je dois faire de mon mieux avec tous les canaux humains d'illumination pertinents avant de pouvoir espérer une révélation venant de l'intérieur pour augmenter mes efforts. La raison nous aide à discerner ce que nous devons faire ; L'une des trois réalités auxquelles notre esprit répond intrinsèquement est : « _Le devoir — le domaine de réalité de la morale en philosophie, le cadre de la raison, la reconnaissance de ce qui est relativement juste ou injuste. C’est la forme judiciaire de la discrimination cosmique._ » ([LU 16:6.7](/fr/The_Urantia_Book/16#p6_7))
+Que signifie être assidu à procéder à des ajustements humains ? Si je suis engagé dans la recherche de la volonté du Père, je dois faire de mon mieux avec tous les canaux humains d'illumination pertinents avant de pouvoir espérer une révélation venant de l'intérieur pour augmenter mes efforts. La raison nous aide à discerner ce que nous devons faire ; L'une des trois réalités auxquelles notre esprit répond intrinsèquement est : « _Le devoir — le domaine de réalité de la morale en philosophie, le cadre de la raison, la reconnaissance de ce qui est relativement juste ou injuste. C’est la forme judiciaire de la discrimination cosmique._ » (<a id="a38_645"></a>[LU 16:6.7](/fr/The_Urantia_Book/16#p6_7))
 
 Ainsi, une phase essentielle d’un processus de prière responsable est l’utilisation de la raison, ce qui implique de tirer des déductions pratiques à partir des faits, d’acquérir la sagesse du groupe et d’examiner de manière critique les pensées qui proviennent de nos moments de prière.
 
@@ -58,7 +58,7 @@ _(Réimprimé de « Familia », paroisse de l'Ascension, Chicago, mensuel fami
 
 > « _La raison, la sagesse et la foi sont les plus hautes réalisations humaines de l'homme. La raison introduit l'homme au monde des faits, aux choses ; la sagesse l'introduit dans un monde de vérité, dans des relations ; la foi l’initie à un monde de divinité, d’expérience spirituelle._”
 > 
-> « _La foi entraîne très volontiers la raison aussi loin que la raison peut aller et va ensuite avec sagesse jusqu'à la pleine limite philosophique ; et puis il ose se lancer dans un voyage universel sans limites et sans fin en seule compagnie de la VÉRITÉ._ » ([LU 103:9.6-7](/fr/The_Urantia_Book/103#p9_6))
+> « _La foi entraîne très volontiers la raison aussi loin que la raison peut aller et va ensuite avec sagesse jusqu'à la pleine limite philosophique ; et puis il ose se lancer dans un voyage universel sans limites et sans fin en seule compagnie de la VÉRITÉ._ » (<a id="a60_263"></a>[LU 103:9.6-7](/fr/The_Urantia_Book/103#p9_6))
 
 
 

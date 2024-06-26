@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/009.jpg">
 </figure>
 
-> Vous pouvez à peine imaginer combien vos ancêtres préhumains ont frisé, à plusieurs reprises, la destruction totale. Si la grenouille ancestrale de toute l’humanité avait sauté cinq centimètres de moins dans une certaine occasion, tout le cours de l’évolution aurait été notablement changé. ([LU 62:3.9](/fr/The_Urantia_Book/62#p3_9))
+> Vous pouvez à peine imaginer combien vos ancêtres préhumains ont frisé, à plusieurs reprises, la destruction totale. Si la grenouille ancestrale de toute l’humanité avait sauté cinq centimètres de moins dans une certaine occasion, tout le cours de l’évolution aurait été notablement changé. (<a id="a41_294"></a>[LU 62:3.9](/fr/The_Urantia_Book/62#p3_9))
 
 ## Liens externes
 

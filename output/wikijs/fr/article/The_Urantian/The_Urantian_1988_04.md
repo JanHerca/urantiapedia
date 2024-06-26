@@ -49,7 +49,7 @@ _Espoo, Finlande_
 
 ## Demander l'Esprit et d'autres bonnes choses !
 
-Il s'agit d'une combinaison d'un cycle de prière de onze jours et d'un partage de mes idées sur la relation entre l'enseignement de l'Église catholique concernant les sept dons du Saint-Esprit (énumérés dans [Isaïe, chapitre 11](/fr/Bible/Isaiah/11)) , l'enseignement du _Le Livre d'URANTIA_ sur les sept esprits mentaux adjoints ([LU 36:5.1-17](/fr/The_Urantia_Book/36#p5_1)), et l'enseignement pentecôtiste sur les dons charismatiques de l'Esprit ([I Corinthiens 12:8-12](/fr/Bible/1_Corinthians/12#v8)). Bien sûr, la relation possible entre les sept dons et les sept adjudants vient à l'esprit puisque les noms sont si proches. L'ajout des cadeaux charismatiques était un bonus de dernière minute. Je ne pensais pas que cela était possible, même si je le voulais. Soudain, ils se sont catégorisés, pour ainsi dire, et se sont glissés dans des endroits inattendus. Ils m'ont pris par surprise !
+Il s'agit d'une combinaison d'un cycle de prière de onze jours et d'un partage de mes idées sur la relation entre l'enseignement de l'Église catholique concernant les sept dons du Saint-Esprit (énumérés dans [Isaïe, chapitre 11](/fr/Bible/Isaiah/11)) , l'enseignement du _Le Livre d'URANTIA_ sur les sept esprits mentaux adjoints (<a id="a51_331"></a>[LU 36:5.1-17](/fr/The_Urantia_Book/36#p5_1)), et l'enseignement pentecôtiste sur les dons charismatiques de l'Esprit ([I Corinthiens 12:8-12](/fr/Bible/1_Corinthians/12#v8)). Bien sûr, la relation possible entre les sept dons et les sept adjudants vient à l'esprit puisque les noms sont si proches. L'ajout des cadeaux charismatiques était un bonus de dernière minute. Je ne pensais pas que cela était possible, même si je le voulais. Soudain, ils se sont catégorisés, pour ainsi dire, et se sont glissés dans des endroits inattendus. Ils m'ont pris par surprise !
 
 Le cycle de prière commence le jeudi de l’Ascension et se termine à la Pentecôte. Les neuf jours intermédiaires sont la « neuvaine » – neuf jours demandant la libération de l’Esprit. Dans la neuvaine traditionnelle, sept jours sur neuf sont consacrés à demander une plus grande mesure de chacun des sept dons. Ici, j'ai expliqué chaque don, chaque ministère et un peu de chaque charisme dans l'espoir que vous trouverez des moyens d'agir pour vous ouvrir plus pleinement au Saint-Esprit. Il faut toujours agir. La foi comme une graine de moutarde ne peut faire de grandes choses que si elle est plantée !
 
@@ -60,7 +60,7 @@ _Garretson, Dakota du Sud_
 
 ---
 
-> « _La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre._ » ([LU 101:8.1](/fr/The_Urantia_Book/101#p8_1))
+> « _La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre._ » (<a id="a62_108"></a>[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1))
 
 
 

@@ -118,7 +118,7 @@ Michael Challis, président
 _La bourse du Livre d'Urantia_
 Du président
 
-> « ...dans tous les rapports collectifs, nous établissons invariablement une fonction précise de commandement. » — Jésus » ([LU 181:2.16](/fr/The_Urantia_Book/181#p2_16))
+> « ...dans tous les rapports collectifs, nous établissons invariablement une fonction précise de commandement. » — Jésus » (<a id="a120_125"></a>[LU 181:2.16](/fr/The_Urantia_Book/181#p2_16))
 
 ## Leçons du pipeline
 
@@ -295,7 +295,7 @@ Par _Barbara Maier_
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005877.jpg">
 </figure>
 
-Du 17 au 20 septembre 2015, 90 étudiants du _Livre d'Urantia_ ont répondu à l’appel de leur Esprit et sont venus à l’événement inaugural de l’UCPNW nouvellement créé. Au camp Kiwanis rustique et confortable de Mt Hood, dans l’Oregon, nous avons passé quatre jours à mettre en œuvre nos thèmes : Apprendre à se connaître et vivre les fruits de l’Esprit. Un comité de planification dédié composé de 8 personnes a passé 10 mois à utiliser des stratégies informatiques pour créer cet événement et rétablir la connexion pour se développer localement et soutenir régionalement dans les 5 régions de l’Alaska, de la Colombie-Britannique, de l’Idaho, de l’Oregon et de Washington. Les principes motivants de ce Rassemblement venaient du principe suivant : « Si seulement vous pouviez connaître vos semblables, vous finiriez par tomber amoureux d’eux ». ([LU 100:4.5](/fr/The_Urantia_Book/100#p4_5)) et Jésus a enseigné que le service envers ses semblables est le concept le plus élevé de la fraternité des croyants spirituels. ([LU 188:4.9](/fr/The_Urantia_Book/188#p4_9))
+Du 17 au 20 septembre 2015, 90 étudiants du _Livre d'Urantia_ ont répondu à l’appel de leur Esprit et sont venus à l’événement inaugural de l’UCPNW nouvellement créé. Au camp Kiwanis rustique et confortable de Mt Hood, dans l’Oregon, nous avons passé quatre jours à mettre en œuvre nos thèmes : Apprendre à se connaître et vivre les fruits de l’Esprit. Un comité de planification dédié composé de 8 personnes a passé 10 mois à utiliser des stratégies informatiques pour créer cet événement et rétablir la connexion pour se développer localement et soutenir régionalement dans les 5 régions de l’Alaska, de la Colombie-Britannique, de l’Idaho, de l’Oregon et de Washington. Les principes motivants de ce Rassemblement venaient du principe suivant : « Si seulement vous pouviez connaître vos semblables, vous finiriez par tomber amoureux d’eux ». (<a id="a297_846"></a>[LU 100:4.5](/fr/The_Urantia_Book/100#p4_5)) et Jésus a enseigné que le service envers ses semblables est le concept le plus élevé de la fraternité des croyants spirituels. (<a id="a297_1020"></a>[LU 188:4.9](/fr/The_Urantia_Book/188#p4_9))
 
 Les groupes d’âge allaient de 90 ans à l’école primaire, bien que l’âge moyen se situe principalement au milieu de la cinquantaine. Beaucoup ont pris l’avion ou fait du covoiturage sur de longues distances. Nous étions répartis à parts égales entre hommes et femmes. Pour beaucoup, c'était leur premier événement Urantia et leur première rencontre régionale. Nous avons donné des bourses d'études, fourni des services au camp Kiwanis, eu beaucoup de bénévoles et sommes repartis remplis à ras bord.
 

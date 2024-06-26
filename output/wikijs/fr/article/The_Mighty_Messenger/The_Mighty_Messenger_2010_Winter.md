@@ -146,7 +146,7 @@ Le Prix David Zebedee a été conçu pour la première fois lors du Parlement de
 
 Cela semblait un titre approprié pour cette récompense de service, surtout compte tenu de ce que David Zebedee a dit à Jésus : 
 
-> _Poursuis ton œuvre, Maitre. Ne laisse pas les sectaires s’emparer de toi, et ne mets jamais en doute que mes messagers te suivront. Mes hommes ne perdront jamais le contact avec toi. Par eux, tu auras des nouvelles du royaume dans les autres parties du pays et, par eux, nous aurons tous de tes nouvelles. Rien de ce qui peut m’arriver n’interrompra ce service, car j’ai nommé un premier remplaçant, et un deuxième, et même un troisième. Je ne suis ni un instructeur ni un prédicateur, mais j’ai à cœur de faire cela, et rien ne peut m’arrêter. »_ ([LU 154:5.3](/fr/The_Urantia_Book/154#p5_3))
+> _Poursuis ton œuvre, Maitre. Ne laisse pas les sectaires s’emparer de toi, et ne mets jamais en doute que mes messagers te suivront. Mes hommes ne perdront jamais le contact avec toi. Par eux, tu auras des nouvelles du royaume dans les autres parties du pays et, par eux, nous aurons tous de tes nouvelles. Rien de ce qui peut m’arriver n’interrompra ce service, car j’ai nommé un premier remplaçant, et un deuxième, et même un troisième. Je ne suis ni un instructeur ni un prédicateur, mais j’ai à cœur de faire cela, et rien ne peut m’arrêter. »_ (<a id="a148_552"></a>[LU 154:5.3](/fr/The_Urantia_Book/154#p5_3))
 
 ## Joyeux anniversaire, Jésus
 
@@ -239,7 +239,7 @@ Plus important encore, nous travaillerons au cœur de ce qu’est Truthseekers 
 Le coût du programme Truthseekers, du mardi après-midi au dimanche après-midi, est de 495,00 $. Le prix comprend la pension, l’hébergement, le transport et toutes les activités. Notre tranche d'âge est de 15 à 19 ans à quelques exceptions près. Comme pour tous nos programmes, les anciens chercheurs de vérité sont toujours les bienvenus, quel que soit leur âge. Veuillez vous inscrire en ligne sur le site Web de la bourse. Si vous avez des questions, n’hésitez pas à m'appeler moi-même, Tom Choquette au 425-218-2216 ou Fred Harris au 850-528-3393. Nous n’avons jamais refusé une personne intéressée par manque de fonds. Des bourses et des bourses partielles sont disponibles. Prends soin de toi. Fais attention. À bientôt. Amour, Tom
 
 
-> « Dans mon univers, comme dans l’univers des univers de mon Père, ... dans tous les rapports collectifs, nous établissons invariablement une fonction précise de commandement. » ([LU 181:2.16](/fr/The_Urantia_Book/181#p2_16))
+> « Dans mon univers, comme dans l’univers des univers de mon Père, ... dans tous les rapports collectifs, nous établissons invariablement une fonction précise de commandement. » (<a id="a241_180"></a>[LU 181:2.16](/fr/The_Urantia_Book/181#p2_16))
 
 ## La société Alaska célèbre son 25e anniversaire
 
@@ -442,7 +442,7 @@ Programmes de radio Internet hebdomadaires animés par les lecteurs du Livre d'U
 > Salon de discussion modéré disponible pour les utilisateurs enregistrés
 {.is-info}
 
-> Selon ce qu’un homme pense dans son cœur, tel il est. ([LU 131:2.8](/fr/The_Urantia_Book/131#p2_8))
+> Selon ce qu’un homme pense dans son cœur, tel il est. (<a id="a444_57"></a>[LU 131:2.8](/fr/The_Urantia_Book/131#p2_8))
 
 ## Évènements à venir…
 

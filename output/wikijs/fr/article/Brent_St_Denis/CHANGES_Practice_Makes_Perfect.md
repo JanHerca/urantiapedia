@@ -59,7 +59,7 @@ Je ne peux pas trouver Dieu demain, et je ne le trouverai pas non plus hier. Je 
 
 ## « G » – La volonté de Dieu
 
-Je suis convaincu que le _Livre d'Urantia_ a raison lorsqu'il déclare que « l'accomplissement de la volonté de Dieu n'est rien de plus ou de moins qu'une démonstration de la volonté d'une créature de partager sa vie intérieure avec Dieu - avec le Dieu même qui a créé une telle créature. vie de sens-valeur intérieure possible. ([LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)) Je tiens à souligner pour vous les mots « volonté de création ».
+Je suis convaincu que le _Livre d'Urantia_ a raison lorsqu'il déclare que « l'accomplissement de la volonté de Dieu n'est rien de plus ou de moins qu'une démonstration de la volonté d'une créature de partager sa vie intérieure avec Dieu - avec le Dieu même qui a créé une telle créature. vie de sens-valeur intérieure possible. (<a id="a61_329"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)) Je tiens à souligner pour vous les mots « volonté de création ».
 
 ## « E » – Ego
 

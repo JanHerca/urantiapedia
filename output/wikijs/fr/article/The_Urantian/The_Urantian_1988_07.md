@@ -38,7 +38,7 @@ _Note de l'éditeur : Cet article est apparu dans d'autres publications écrite
 
 Puisque les lecteurs du _Livre d'URANTIA_ sont sûrement intéressés par le sujet de la prophétie, il peut être opportun et utile d'étudier plus en profondeur ce que dit notre livre à propos d'un avenir relativement proche.
 
-Les choses les plus significatives que Jésus a dites à ce sujet se trouvent dans la section 2 du fascicule 176, dans laquelle il dit : « _Les choses que vous méprisez maintenant touchent à leur fin, mais ce sera un nouveau commencement à partir duquel l'Évangile du royaume ira au monde entier et ce salut se répandra chez tous les peuples. Et lorsque le royaume aura porté pleinement ses fruits, soyez assuré que le Père céleste ne manquera pas de vous visiter avec une révélation élargie de la vérité... _ » ([LU 176:2.3](/fr/The_Urantia_Book/176#p2_3))
+Les choses les plus significatives que Jésus a dites à ce sujet se trouvent dans la section 2 du fascicule 176, dans laquelle il dit : « _Les choses que vous méprisez maintenant touchent à leur fin, mais ce sera un nouveau commencement à partir duquel l'Évangile du royaume ira au monde entier et ce salut se répandra chez tous les peuples. Et lorsque le royaume aura porté pleinement ses fruits, soyez assuré que le Père céleste ne manquera pas de vous visiter avec une révélation élargie de la vérité... _ » (<a id="a40_511"></a>[LU 176:2.3](/fr/The_Urantia_Book/176#p2_3))
 
 [Lire la suite](/fr/article/Henry_Begemann/Springtime_A_study_of_the_future_3)
 
@@ -56,7 +56,7 @@ _Bartlesville, Oklahoma_
 
 ---
 
-> « _Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante._ » ([LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
+> « _Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante._ » (<a id="a58_279"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
 
 
 

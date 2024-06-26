@@ -41,7 +41,7 @@ Rejoignez-nous alors que nous contemplons profondément ce que signifie vivre fi
 
 Jésus dit :
 
-> « ...bien construire les fondements pour la croissance d’un noble caractère imprégné de dotations spirituelles ... Pour produire les fruits de l’esprit, il faut que vous soyez nés de l’esprit. C’est l’esprit qui doit vous enseigner et vous diriger si vous voulez vivre une vie de plénitude spirituelle parmi vos compagnons. » ([LU 156:5.2](/fr/The_Urantia_Book/156#p5_2))
+> « ...bien construire les fondements pour la croissance d’un noble caractère imprégné de dotations spirituelles ... Pour produire les fruits de l’esprit, il faut que vous soyez nés de l’esprit. C’est l’esprit qui doit vous enseigner et vous diriger si vous voulez vivre une vie de plénitude spirituelle parmi vos compagnons. » (<a id="a43_329"></a>[LU 156:5.2](/fr/The_Urantia_Book/156#p5_2))
 
 Nous partagerons la communauté, la nature, la prière, l’étude et le service avec nos frères croyants tout en étant entourés des magnifiques fers plats de Boulder, Colorado.
 

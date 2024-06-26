@@ -38,7 +38,7 @@ dateCreated: 2023-10-23T10:55:6Z
 _Stephen Zendt_
 _San Francisco, Californie, éditeur_
 
-> « _Mais la véritable prière atteint bel et bien la réalité. Même quand les courants aériens sont ascendants, nul oiseau ne peut prendre son essor sans déployer ses ailes. La prière élève l’homme parce qu’elle est une technique de progrès par utilisation des courants spirituels ascendants de l’univers._ » ([LU 91:8.9](/fr/The_Urantia_Book/91#p8_9))
+> « _Mais la véritable prière atteint bel et bien la réalité. Même quand les courants aériens sont ascendants, nul oiseau ne peut prendre son essor sans déployer ses ailes. La prière élève l’homme parce qu’elle est une technique de progrès par utilisation des courants spirituels ascendants de l’univers._ » (<a id="a40_309"></a>[LU 91:8.9](/fr/The_Urantia_Book/91#p8_9))
 
 **Mes semblables créatures**
 
@@ -74,7 +74,7 @@ Aide-nous à créer la Fraternité.
 Esther Hoover Zendt et Stephen Zendt
 </p>
 
-> « _Jésus déplorait de trouver si peu d’esprit d’actions de grâce dans les prières et le culte de ses disciples._ » ([LU 146:2.15](/fr/The_Urantia_Book/146#p2_15))
+> « _Jésus déplorait de trouver si peu d’esprit d’actions de grâce dans les prières et le culte de ses disciples._ » (<a id="a76_118"></a>[LU 146:2.15](/fr/The_Urantia_Book/146#p2_15))
 
 ## Une prière de remerciement du Groupe Urantien, Ad 1987
 

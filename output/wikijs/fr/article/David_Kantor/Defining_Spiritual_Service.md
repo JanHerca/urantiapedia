@@ -119,7 +119,7 @@ Le service désintéressé est l’attitude que Jésus nous met au défi d’ado
 
 En nous engageant dans le processus de service désintéressé, nous créons temporairement un contexte vivant dans lequel les forces spirituelles qui nous entourent peuvent fonctionner plus efficacement.
 
-Le service entrepris par les gens dans notre monde d’aujourd’hui constitue un point central pour que le pouvoir spirituel soit administré directement dans la vie des gens. « La religion n’est qu’un humanisme exalté jusqu’à ce qu’elle soit rendue divine par la découverte de la réalité de la présence de Dieu dans l’expérience personnelle. » ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+Le service entrepris par les gens dans notre monde d’aujourd’hui constitue un point central pour que le pouvoir spirituel soit administré directement dans la vie des gens. « La religion n’est qu’un humanisme exalté jusqu’à ce qu’elle soit rendue divine par la découverte de la réalité de la présence de Dieu dans l’expérience personnelle. » (<a id="a121_342"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 Une autre vision du service consiste à le considérer comme un mécanisme génétique par lequel la bonté divine est reproduite et propagée à travers l’organisme vivant du Suprême.
 

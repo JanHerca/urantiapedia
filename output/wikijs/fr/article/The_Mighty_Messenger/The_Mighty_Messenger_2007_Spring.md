@@ -117,7 +117,7 @@ Si vous souhaitez contribuer à ce travail, les dons peuvent être faits en lign
 
 Nous apprécions profondément votre aide financière continue. Michelle Klimesh, coordonnatrice des pipelines
 
-> Les actes d’aujourd’hui forment la destinée de demain. ([LU 48:7.26](/fr/The_Urantia_Book/48#p7_26))
+> Les actes d’aujourd’hui forment la destinée de demain. (<a id="a119_58"></a>[LU 48:7.26](/fr/The_Urantia_Book/48#p7_26))
 
 ## GC visite Phoenix
 

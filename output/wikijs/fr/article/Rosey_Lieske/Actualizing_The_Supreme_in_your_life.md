@@ -60,7 +60,7 @@ Au-delà des hypothèses et de la raison, on se heurte simplement à la nature d
 
 Nous trouvons cette déclaration dans le fascicule 115.
 
-> « _Les domaines du fini existent en vertu du dessein éternel de Dieu. Les créatures finies, supérieures et inférieures, peuvent proposer des théories, et elles l’ont fait, sur la nécessité du fini dans l’économie cosmique, mais, en dernière analyse, le fini existe parce que Dieu l’a ainsi voulu._ » ([LU 115:1.4](/fr/The_Urantia_Book/115#p1_4))
+> « _Les domaines du fini existent en vertu du dessein éternel de Dieu. Les créatures finies, supérieures et inférieures, peuvent proposer des théories, et elles l’ont fait, sur la nécessité du fini dans l’économie cosmique, mais, en dernière analyse, le fini existe parce que Dieu l’a ainsi voulu._ » (<a id="a62_303"></a>[LU 115:1.4](/fr/The_Urantia_Book/115#p1_4))
 
 Bien sûr, lorsque Dieu veut et agit, des réactions considérables et abondantes se produisent dans la formation et le déplacement de la réalité. Au cours de l'étude, nous prenons conscience des relations esprit/non-esprit — comme avec le Père Esprit « Je suis » et « le point d'appui matériel de l'infini » Paradis — des relations éternité/non-éternité, qui deviennent une réalité existentielle/expérientielle ; et nous lisons des réalités personnelles/non personnelles. En Dieu, et résultant de sa volonté, ces séparations fonctionnelles et complètes se produisent ; des séparations qui, à première vue, semblent si simples et, après réflexion, révèlent une beauté infinie de but reflétant la nature de Dieu.
 
@@ -86,7 +86,7 @@ Cette réalité de l'expérience – organisée, synthétisée et unifiée dans 
 
 Ces relations sont magnifiquement résumées :
 
-> « _Le Suprême est symétriquement inclusif. La Source-Centre Première est potentielle dans les trois grands Absolus ; elle est actuelle dans le Paradis, dans le Fils et dans l’Esprit ; mais le Suprême est à la fois actuel et potentiel, un être de suprématie personnelle et de pouvoir tout-puissant, sensible à la fois à l’effort des créatures et au dessein du Créateur. Il agit par lui-même sur l’univers et réagit en lui-même à l’ensemble de l’univers ; il est simultanément le créateur suprême et la suprême créature. La Déité de Suprématie exprime ainsi la totalité du fini tout entier._ » ([LU 117:1.9](/fr/The_Urantia_Book/117#p1_9))
+> « _Le Suprême est symétriquement inclusif. La Source-Centre Première est potentielle dans les trois grands Absolus ; elle est actuelle dans le Paradis, dans le Fils et dans l’Esprit ; mais le Suprême est à la fois actuel et potentiel, un être de suprématie personnelle et de pouvoir tout-puissant, sensible à la fois à l’effort des créatures et au dessein du Créateur. Il agit par lui-même sur l’univers et réagit en lui-même à l’ensemble de l’univers ; il est simultanément le créateur suprême et la suprême créature. La Déité de Suprématie exprime ainsi la totalité du fini tout entier._ » (<a id="a88_595"></a>[LU 117:1.9](/fr/The_Urantia_Book/117#p1_9))
 
 Le Suprême a pour tâche de synthétiser et de mobiliser tous ces efforts et tous ces objectifs, luttant pour sa propre réalisation et acquérant la souveraineté étape par étape. Il fonctionne immédiatement dans nos vies comme unificateur de notre expérience en Dieu le Septuple. Il est la profondeur même de la divinité que nous comprendrons jamais. Nous pouvons atteindre le Père, mais nous comprendrons le Suprême. Et il est en fin de compte notre seule approche de ces processus et mentalités qui transcendent le temps et l’espace et de ceux qui sont de nature parfaite et/ou éternelle. Lorsque nous prenons du recul et sommes témoins de nos processus de pensée innés – corrélant, triant et unifiant constamment notre expérience – il est facile de voir que les fonctions de la suprématie dans nos vies sont si élémentaires qu’elles sont presque imperceptibles. Comme l’eau pour pêcher – une fiabilité de réaction aussi cosmiquement favorable et globale que le soleil et l’air.
 
@@ -98,7 +98,7 @@ Mais comment pouvons-nous stimuler en nous les plus grandes capacités pour la r
 
 Prenant en considération le caractère unique des capacités individuelles et les constructions de circonstances qui nous disent à chacun : « C'est la voie », les variables d'un tel point de vue fonctionnel sont des idées menant à des actions basées sur la foi, l'amour et le service, des valeurs spirituelles suprêmes réfléchies. de la volonté de Dieu.
 
-> « _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s’en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu._ » ([LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
+> « _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s’en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu._ » (<a id="a100_446"></a>[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
 
 Notre tâche est de perfectionner notre intention dans le mouvement du Suprême. Créer un alignement de volonté par des décisions basées sur le désir d’alignement. La réalisation expérientielle de la volonté de Dieu dans nos vies est basée sur la prise de décision et tout cela a une plus grande signification lorsque nous considérons notre place dans le Suprême.
 
@@ -114,7 +114,7 @@ Ainsi, notre relation la plus importante est avec le fragment divin, et notre as
 
 En tant que Fils de la Foi, nos réactions de foi envers le fragment du Père déterminent le contenu de notre expérience de survie et la profondeur de la traduction de notre âme au niveau morontiel intermédiaire.
 
-La foi existe à plusieurs niveaux. « Peu de personnes sont à la hauteur de la foi qu'elles ont réellement » ([LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)), et la foi, étant notre lien de survie, doit fonctionner aux niveaux élémentaires de la Suprématie elle-même.
+La foi existe à plusieurs niveaux. « Peu de personnes sont à la hauteur de la foi qu'elles ont réellement » (<a id="a116_109"></a>[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)), et la foi, étant notre lien de survie, doit fonctionner aux niveaux élémentaires de la Suprématie elle-même.
 
 La foi est une décision humaine et un don divin, accessible et reconnaissable. L’influence du Fils Éternel dans la Réalité est une influence de gravité spirituelle, attirant toute foi et tout désir de foi vers la lumière de la Réalité. La foi ne peut pas rester dans l'esprit ; il voyage directement au cœur de toute réalité, affectant le développement de notre âme et la souveraineté du Suprême. Il est le carburant humain du potentiel divin, simulant la présence de Dieu à tous les niveaux de notre être.
 
@@ -126,7 +126,7 @@ En tant qu'embryons spirituels, nous ne pouvons tout simplement pas espérer êt
 
 Les pensées et les expériences constituent finalement un recueil de valeurs spirituelles – la substance à partir de laquelle l’Ajusteur tisse les fils vivants de nos âmes présentes et futures.
 
-> « _L’esprit divin établit le contact avec l’homme mortel, non par des sentiments ou des émotions, mais dans le domaine de la pensée la plus élevée et la plus spiritualisée. Ce sont vos pensées, et non vos sentiments, qui vous conduisent vers Dieu._ » ([LU 101:1.3](/fr/The_Urantia_Book/101#p1_3))
+> « _L’esprit divin établit le contact avec l’homme mortel, non par des sentiments ou des émotions, mais dans le domaine de la pensée la plus élevée et la plus spiritualisée. Ce sont vos pensées, et non vos sentiments, qui vous conduisent vers Dieu._ » (<a id="a128_254"></a>[LU 101:1.3](/fr/The_Urantia_Book/101#p1_3))
 
 On dit que c’est par le biais de la pensée que nous nous engageons dans la construction de notre destin. Les pensées tracent un chemin de la matière à l’esprit – du potentiel à l’actuel. Les pensées se développent, colorent et changent le monde et l'âme. Le seul domaine auquel nous avons clairement accès dans notre état embryonnaire est l’esprit.
 
@@ -150,7 +150,7 @@ La foi devient la technique permettant d'engager l'infini dans les luttes du fin
 
 Examinons maintenant leur relation avec le Suprême dans la Triodité de l'Actualité. Nous constatons que :
 
-> « _La beauté universelle est la récognition du reflet de l’Ile du Paradis dans la création matérielle, tandis que la vérité éternelle est le ministère spécial des Fils du Paradis, qui non seulement s’effusent sur les races mortelles, mais encore répandent leur Esprit de Vérité sur tous les peuples. La divine bonté ressort encore plus pleinement dans le ministère aimant des multiples personnalités de l’Esprit Infini. Mais l’amour, la somme totale de ces trois qualités, est la perception que l’homme a de Dieu en tant que son Père spirituel._ » ([LU 56:10.17](/fr/The_Urantia_Book/56#p10_17))
+> « _La beauté universelle est la récognition du reflet de l’Ile du Paradis dans la création matérielle, tandis que la vérité éternelle est le ministère spécial des Fils du Paradis, qui non seulement s’effusent sur les races mortelles, mais encore répandent leur Esprit de Vérité sur tous les peuples. La divine bonté ressort encore plus pleinement dans le ministère aimant des multiples personnalités de l’Esprit Infini. Mais l’amour, la somme totale de ces trois qualités, est la perception que l’homme a de Dieu en tant que son Père spirituel._ » (<a id="a152_551"></a>[LU 56:10.17](/fr/The_Urantia_Book/56#p10_17))
 
 Ensuite, nous revenons à l'homme – reconnaissant Dieu comme amour, mobilisant le potentiel de Dieu par la foi et le manifestant par le service.
 

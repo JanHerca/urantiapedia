@@ -36,7 +36,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 > Éd. Remarque : _Cette chronique est dédiée au rapport sur les rituels et les célébrations utilisés par les lecteurs du Livre d'Urantia et leurs familles. C'est agréable de partager les nombreuses joies de la vie. Pensez à écrire sur vos rituels et célébrations familiales spéciales pour cette chronique et envoyez-les (avec des photos !) à l'éditeur de la vie familiale._
-> «  Dans cette œuvre de transmission du flambeau culturel à la génération suivante, le foyer restera toujours l’institution fondamentale. » ([LU 81:6.23](/fr/The_Urantia_Book/81#p6_23))
+> «  Dans cette œuvre de transmission du flambeau culturel à la génération suivante, le foyer restera toujours l’institution fondamentale. » (<a id="a38_142"></a>[LU 81:6.23](/fr/The_Urantia_Book/81#p6_23))
 {.is-info}
 
 <figure id="Figure_1" class="image urantiapedia">

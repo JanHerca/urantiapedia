@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Rapporté par David Glass, Fort Worth, Texas_
 
-> « _Jésus reprit alors la parole et dit : « Maintenant que vous êtes ambassadeurs du royaume de mon Père, vous êtes devenus une classe d’hommes séparés et distincts de tous les autres habitants de la terre. Vous n’existez plus maintenant en tant qu’hommes parmi les hommes, mais en tant que citoyens éclairés d’un autre pays céleste parmi les créatures ignorantes de ce monde enténébré. Il ne suffit plus que vous viviez comme avant cette heure ; il vous faut, désormais, vivre comme ceux qui ont gouté les gloires d’une vie meilleure et ont été renvoyés sur terre comme ambassadeurs du Souverain de ce monde nouveau et meilleur._ » ([LU 140:3.1](/fr/The_Urantia_Book/140#p3_1))
+> « _Jésus reprit alors la parole et dit : « Maintenant que vous êtes ambassadeurs du royaume de mon Père, vous êtes devenus une classe d’hommes séparés et distincts de tous les autres habitants de la terre. Vous n’existez plus maintenant en tant qu’hommes parmi les hommes, mais en tant que citoyens éclairés d’un autre pays céleste parmi les créatures ignorantes de ce monde enténébré. Il ne suffit plus que vous viviez comme avant cette heure ; il vous faut, désormais, vivre comme ceux qui ont gouté les gloires d’une vie meilleure et ont été renvoyés sur terre comme ambassadeurs du Souverain de ce monde nouveau et meilleur._ » (<a id="a39_635"></a>[LU 140:3.1](/fr/The_Urantia_Book/140#p3_1))
 
 ## La première société d’Oklahoma
 

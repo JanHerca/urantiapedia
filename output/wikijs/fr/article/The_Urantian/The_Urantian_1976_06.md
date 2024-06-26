@@ -70,7 +70,7 @@ Je pense qu’il est important de se rappeler qu’on nous répète sans cesse d
 
 ## Guidage des plus hauts
 
-Quarante ans se sont écoulés depuis que la Cinquième Révélation d’Époque a été donnée à notre monde. Peu à peu, une nouvelle génération prend la barre de nos nations. Considérez qu’au cours de cette période, nous avons assisté à une autre guerre mondiale et à plusieurs autres engagements militaires majeurs. Cela devrait nous inciter à nous rappeler que «_Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle._» ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)).
+Quarante ans se sont écoulés depuis que la Cinquième Révélation d’Époque a été donnée à notre monde. Peu à peu, une nouvelle génération prend la barre de nos nations. Considérez qu’au cours de cette période, nous avons assisté à une autre guerre mondiale et à plusieurs autres engagements militaires majeurs. Cela devrait nous inciter à nous rappeler que «_Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle._» (<a id="a72_535"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)).
 
 Nous devrions donc réfléchir au rôle particulier que joue le Très Haut Assistant sur notre planète en dirigeant les douze corps des maîtres séraphins de la supervision planétaire. La tâche consistant à coordonner les talents multiples des différents groupes dans des moments comme ceux-ci mérite notre plus grande admiration et notre plus grande appréciation, car presque toutes les institutions que nous sommes parvenus à accepter subissent de profondes transformations qui nous mèneront en temps voulu à un monde réglé. dans la lumière et dans la vie.
 
@@ -107,7 +107,7 @@ A présent, parlons-en en famille.
 
 > « Quand les hommes sont à la recherche de Dieu, ils recherchent tout. Quand ils trouvent Dieu, ils ont tout trouvé. La recherche de Dieu est une effusion illimitée d’amour accompagnée de la découverte surprenante d’un nouvel amour plus grand à effuser.... 
 > 
-> Tout véritable amour vient de Dieu, et l’homme reçoit l’affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. ([LU 117:6.9-10](/fr/The_Urantia_Book/117#p6_9)).
+> Tout véritable amour vient de Dieu, et l’homme reçoit l’affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. (<a id="a109_140"></a>[LU 117:6.9-10](/fr/The_Urantia_Book/117#p6_9)).
 
 
 

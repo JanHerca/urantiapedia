@@ -45,7 +45,7 @@ _Kansas-City. Missouri_
 
 ---
 
-> « _Toutes les religions enseignent l’adoration de la Déité et quelque doctrine de salut humain. ... La religion de Jésus *est* le salut qui sauve du moi, elle délivre les créatures des maux de leur isolement dans le temps et dans l’éternité._ » ([LU 5:4.5](/fr/The_Urantia_Book/5#p4_5))
+> « _Toutes les religions enseignent l’adoration de la Déité et quelque doctrine de salut humain. ... La religion de Jésus *est* le salut qui sauve du moi, elle délivre les créatures des maux de leur isolement dans le temps et dans l’éternité._ » (<a id="a47_248"></a>[LU 5:4.5](/fr/The_Urantia_Book/5#p4_5))
 
 
 

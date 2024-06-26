@@ -34,7 +34,7 @@ sachant qu'il a été préparé pour vous.
 
 David Holt
 
-> Toute la vie ultérieure d’un être humain est immensément influencée par tout ce qui se passe pendant les premières années de l’existence. ([LU 177:2.5](/fr/The_Urantia_Book/177#p2_5))
+> Toute la vie ultérieure d’un être humain est immensément influencée par tout ce qui se passe pendant les premières années de l’existence. (<a id="a36_141"></a>[LU 177:2.5](/fr/The_Urantia_Book/177#p2_5))
 
 ## Références
 

@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> « _De même que l’on peut assimiler la prière à la recharge des batteries spirituelles de l’âme, de même on peut comparer l’adoration au fait d’accorder l’écoute de l’âme sur la fréquence des communications universelles de l’esprit infini du Père Universel._ » ([LU 144:4.8](/fr/The_Urantia_Book/144#p4_8))
+> « _De même que l’on peut assimiler la prière à la recharge des batteries spirituelles de l’âme, de même on peut comparer l’adoration au fait d’accorder l’écoute de l’âme sur la fréquence des communications universelles de l’esprit infini du Père Universel._ » (<a id="a34_263"></a>[LU 144:4.8](/fr/The_Urantia_Book/144#p4_8))
 
 ## En harmonie cosmique
 
@@ -46,7 +46,7 @@ Et la prière, c'est entrer en contact avec la sagesse de l'univers, la rendre a
 
 ## Enfants — Prière et culte
 
-> « _...une véritable famille — une bonne famille — révèle aux parents procréateurs l’attitude du Créateur envers ses enfants, tandis qu’en même temps, ces véritables parents dépeignent à leurs enfants la première d’une longue série ascendante de divulgations concernant l’amour parental paradisiaque de tous les enfants de l’univers._ » ([LU 84:7.30](/fr/The_Urantia_Book/84#p7_30))
+> « _...une véritable famille — une bonne famille — révèle aux parents procréateurs l’attitude du Créateur envers ses enfants, tandis qu’en même temps, ces véritables parents dépeignent à leurs enfants la première d’une longue série ascendante de divulgations concernant l’amour parental paradisiaque de tous les enfants de l’univers._ » (<a id="a48_339"></a>[LU 84:7.30](/fr/The_Urantia_Book/84#p7_30))
 
 Nous avons souvent été perplexes face au problème de présenter à nos enfants la relation amoureuse que nous entretenons avec notre Père Universel, notre Créateur Michael, et les nombreuses personnalités de leur famille universelle. Nous avons découvert qu’avant de pouvoir enseigner à nos enfants comment prier et adorer, nous devions comprendre ces choses par nous-mêmes.
 
@@ -56,13 +56,13 @@ Qu'est-ce que la prière ? Qu’est-ce que l’adoration ? Ces mots font référ
 
 —_Nicholas W. Scalzo_
 
-> « _Quand une collectivité s’adonne à une prière en commun pour le relèvement moral et l’élévation spirituelle, ces dévotions réagissent sur les individus qui composent le groupe ; leur participation les rend tous meilleurs._ » ([LU 91:5.2](/fr/The_Urantia_Book/91#p5_2))
+> « _Quand une collectivité s’adonne à une prière en commun pour le relèvement moral et l’élévation spirituelle, ces dévotions réagissent sur les individus qui composent le groupe ; leur participation les rend tous meilleurs._ » (<a id="a58_230"></a>[LU 91:5.2](/fr/The_Urantia_Book/91#p5_2))
 
 ## Un tonique spirituel
 
-La véritable adoration va directement à Dieu le Père, et il est la source de toutes choses, y compris l’énergie. « _... l'énergie... en tant que phénomène universel est inhérente au Père Universel._ » ([LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)) L'adoration est une méthode pour puiser dans cette énergie. La technique nécessite un oubli total de soi ; cela n’implique aucune motivation personnelle. « _Il n'y a absolument aucune demande personnelle ou autre élément d'intérêt personnel dans le vrai culte..._ » ([LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))
+La véritable adoration va directement à Dieu le Père, et il est la source de toutes choses, y compris l’énergie. « _... l'énergie... en tant que phénomène universel est inhérente au Père Universel._ » (<a id="a62_202"></a>[LU 42:1.2](/fr/The_Urantia_Book/42#p1_2)) L'adoration est une méthode pour puiser dans cette énergie. La technique nécessite un oubli total de soi ; cela n’implique aucune motivation personnelle. « _Il n'y a absolument aucune demande personnelle ou autre élément d'intérêt personnel dans le vrai culte..._ » (<a id="a62_512"></a>[LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))
 
-S'étouffe celui qui voudrait volontairement étouffer l'envie d'adorer et exclure cette énergie, cette vie donnée gratuitement par Dieu. C'est comme la limitation de liberté subie par celui qui ne veut pas soumettre sa volonté à celle de Dieu. Cette personne conserve le contrôle total de ses décisions et de son destin dans la mesure très limitée que ses propres capacités et sa sagesse lui permettent ; tandis que s'il se livre à la volonté du Père, il perd cette fausse liberté mais gagne une prison aux murs d'infini et d'éternité. La mesure la plus efficace pour acquérir cette vraie liberté, ainsi que la puissance et l’énergie qui résultent du fait d’être en harmonie avec Dieu, est peut-être d’établir une relation consciente et aimante avec Lui : l’adoration. « _Et cet échange de force contre faiblesse, de courage contre la peur, de volonté de Dieu contre l'esprit de soi, constitue l'adoration._ » ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
+S'étouffe celui qui voudrait volontairement étouffer l'envie d'adorer et exclure cette énergie, cette vie donnée gratuitement par Dieu. C'est comme la limitation de liberté subie par celui qui ne veut pas soumettre sa volonté à celle de Dieu. Cette personne conserve le contrôle total de ses décisions et de son destin dans la mesure très limitée que ses propres capacités et sa sagesse lui permettent ; tandis que s'il se livre à la volonté du Père, il perd cette fausse liberté mais gagne une prison aux murs d'infini et d'éternité. La mesure la plus efficace pour acquérir cette vraie liberté, ainsi que la puissance et l’énergie qui résultent du fait d’être en harmonie avec Dieu, est peut-être d’établir une relation consciente et aimante avec Lui : l’adoration. « _Et cet échange de force contre faiblesse, de courage contre la peur, de volonté de Dieu contre l'esprit de soi, constitue l'adoration._ » (<a id="a64_910"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
 
 [Lire la suite](/fr/article/David_Kulieke/A_Spiritual_Tonic)
 
@@ -80,7 +80,7 @@ Si votre fils a besoin d'un poisson et demande bêtement un substitut nuisible p
 
 —_Ed Harrigan_
 
-> « _Priez comme Jésus l’enseignait à ses disciples — honnêtement, de façon désintéressée, avec équité et sans douter._ » ([LU 91:6.6](/fr/The_Urantia_Book/91#p6_6))
+> « _Priez comme Jésus l’enseignait à ses disciples — honnêtement, de façon désintéressée, avec équité et sans douter._ » (<a id="a82_123"></a>[LU 91:6.6](/fr/The_Urantia_Book/91#p6_6))
 
 ## Un fût de clous
 
@@ -90,7 +90,7 @@ Un clou ne tiendra que deux planches ensemble, mais un tonneau de clous contribu
 
 —_Sue Via Brazell_
 
-> « _D’où vient, alors, l’énergie permettant d’accomplir ces grandes choses ? Observez votre Maitre. À cette heure même, il est dans les collines, récupérant de la puissance pendant qu’ici nous dépensons de l’énergie. Le secret de tout ce problème git dans la communion spirituelle, dans l’adoration._ » ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
+> « _D’où vient, alors, l’énergie permettant d’accomplir ces grandes choses ? Observez votre Maitre. À cette heure même, il est dans les collines, récupérant de la puissance pendant qu’ici nous dépensons de l’énergie. Le secret de tout ce problème git dans la communion spirituelle, dans l’adoration._ » (<a id="a92_305"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
 
 ## A venir...
 
@@ -98,7 +98,7 @@ Comment pouvons-nous nous relier consciemment à l’Être Suprême dans notre v
 
 Les rédacteurs
 
-> « _Les accompagnements psychiques et spirituels de la prière de la foi sont immédiats, personnels et expérientiels. Il n’existe aucune autre technique permettant à chaque homme, indépendamment de tous autres accomplissements terrestres, d’approcher si efficacement et si immédiatement du seuil du royaume où il peut communiquer avec son Auteur, où la créature prend contact avec la réalité du Créateur, avec l’Ajusteur de Pensée intérieur._ » ([LU 91:6.7](/fr/The_Urantia_Book/91#p6_7))
+> « _Les accompagnements psychiques et spirituels de la prière de la foi sont immédiats, personnels et expérientiels. Il n’existe aucune autre technique permettant à chaque homme, indépendamment de tous autres accomplissements terrestres, d’approcher si efficacement et si immédiatement du seuil du royaume où il peut communiquer avec son Auteur, où la créature prend contact avec la réalité du Créateur, avec l’Ajusteur de Pensée intérieur._ » (<a id="a100_446"></a>[LU 91:6.7](/fr/The_Urantia_Book/91#p6_7))
 
 
 

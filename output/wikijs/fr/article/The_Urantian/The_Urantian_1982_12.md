@@ -49,7 +49,7 @@ _Phoenix, Arizona_
 
 ---
 
-> « _L’âme assoiffée de l’homme refuse d’être satisfaite tant qu’elle n’est pas parvenue à la réalisation personnelle du Dieu vivant. Quoi que Dieu puisse être de plus qu’une personnalité morale supérieure et parfaite, dans notre concept avide mais fini, il ne peut rien être de moins._ » ([LU 102:1.6](/fr/The_Urantia_Book/102#p1_6))
+> « _L’âme assoiffée de l’homme refuse d’être satisfaite tant qu’elle n’est pas parvenue à la réalisation personnelle du Dieu vivant. Quoi que Dieu puisse être de plus qu’une personnalité morale supérieure et parfaite, dans notre concept avide mais fini, il ne peut rien être de moins._ » (<a id="a51_290"></a>[LU 102:1.6](/fr/The_Urantia_Book/102#p1_6))
 
 
 

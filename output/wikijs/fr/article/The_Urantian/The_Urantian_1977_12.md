@@ -58,7 +58,7 @@ Habituellement, il y a un modèle de croissance avec des révélations successiv
 
 ## Amour — Humain et Divin
 
-Qu'est-ce que l'amour? « _L'amour est le désir de faire du bien aux autres._ » ([LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)) C'est le « _...secret d'association bénéfique entre les personnalités,_ » ([LU 12:9.2](/fr/The_Urantia_Book/12#p9_2)) et « _... cela évoque le concept le plus élevé de l'homme des relations mortelles de respect et de dévotion..._«  Cette  »_... affection incomparable du Dieu vivant pour ses créatures de l'univers_«  est la  »_... réalité suprême de l'univers... _ » ([LU 2:5.11](/fr/The_Urantia_Book/2#p5_11), [LU 177:2.3](/fr/The_Urantia_Book/177#p2_3)) « _... l'amour est la plus grande chose de l'univers..._ » ([LU 56:10.20](/fr/The_Urantia_Book/56#p10_20))
+Qu'est-ce que l'amour? « _L'amour est le désir de faire du bien aux autres._ » (<a id="a60_80"></a>[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)) C'est le « _...secret d'association bénéfique entre les personnalités,_ » (<a id="a60_202"></a>[LU 12:9.2](/fr/The_Urantia_Book/12#p9_2)) et « _... cela évoque le concept le plus élevé de l'homme des relations mortelles de respect et de dévotion..._«  Cette  »_... affection incomparable du Dieu vivant pour ses créatures de l'univers_«  est la  »_... réalité suprême de l'univers... _ » (<a id="a60_496"></a>[LU 2:5.11](/fr/The_Urantia_Book/2#p5_11), <a id="a60_539"></a>[LU 177:2.3](/fr/The_Urantia_Book/177#p2_3)) « _... l'amour est la plus grande chose de l'univers..._ » (<a id="a60_644"></a>[LU 56:10.20](/fr/The_Urantia_Book/56#p10_20))
 
 L'amour est soit humain, soit divin. L'amour humain peut être sexuel ou non sexuel. S'il est non sexuel, il est soit parental, soit fraternel. Tout amour véritable vient de Dieu.
 
@@ -88,7 +88,7 @@ J'ai réfléchi à l'énoncé de la question pendant plusieurs jours ; ensuite,
 — _Ron Schweitzer_
 
 
-> « _Le Dieu d’amour universel se manifeste infailliblement à chacune de ses créatures dans la pleine mesure de la capacité de cette créature de saisir spirituellement les qualités de vérité, de beauté et de bonté divines._ » ([LU 1:4.5](/fr/The_Urantia_Book/1#p4_5))
+> « _Le Dieu d’amour universel se manifeste infailliblement à chacune de ses créatures dans la pleine mesure de la capacité de cette créature de saisir spirituellement les qualités de vérité, de beauté et de bonté divines._ » (<a id="a90_227"></a>[LU 1:4.5](/fr/The_Urantia_Book/1#p4_5))
 
 
 

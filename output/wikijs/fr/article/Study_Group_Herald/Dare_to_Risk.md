@@ -70,7 +70,7 @@ Seule celle qui risque est libre.
 
 Auteur inconnu
 
-> « Ne l’oubliez pas — c’est votre foi personnelle dans les promesses extrêmement grandes et précieuses de Dieu qui vous garantit de recevoir en partage la nature divine. » ([LU 143:2.4](/fr/The_Urantia_Book/143#p2_4))
+> « Ne l’oubliez pas — c’est votre foi personnelle dans les promesses extrêmement grandes et précieuses de Dieu qui vous garantit de recevoir en partage la nature divine. » (<a id="a72_174"></a>[LU 143:2.4](/fr/The_Urantia_Book/143#p2_4))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/book.jpg">

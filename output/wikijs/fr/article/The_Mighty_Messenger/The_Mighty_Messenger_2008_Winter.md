@@ -35,9 +35,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 « J'espère que cela ne vous dérange pas que je le dise, mais votre conscience de Dieu se manifeste. » Avez-vous remarqué que _Le Livre d'Urantia_ place les définitions de la conscience de Dieu bien en évidence dans la dernière phrase de l’avant-propos et dans la première phrase du dernier paragraphe de tout le livre ?
 
-> « ...la réalité toujours progressante de l’expérience religieuse personnelle — la conscience de Dieu. » ([F:XII.13](/fr/The_Urantia_Book/0#p12_13))
+> « ...la réalité toujours progressante de l’expérience religieuse personnelle — la conscience de Dieu. » (<a id="a37_107"></a>[F:XII.13](/fr/The_Urantia_Book/0#p12_13))
 
-> « La conscience de Dieu est l’équivalent de l’intégration du moi à l’univers ... » ([LU 196:3.35](/fr/The_Urantia_Book/196#p3_35))
+> « La conscience de Dieu est l’équivalent de l’intégration du moi à l’univers ... » (<a id="a39_86"></a>[LU 196:3.35](/fr/The_Urantia_Book/196#p3_35))
 
 L’ensemble des enseignements est détenu dans les bras de la conscience divine. À chaque niveau de notre progrès, c’est cet effort continu pour repousser l’enveloppe de la conscience de soi, de l’âme et de l’esprit qui constitue la conscience de Dieu. C'est l’expérience et le fait de devenir plus réel.
 
@@ -303,7 +303,7 @@ La soirée a été une célébration animée du renouveau d’anciennes amitiés
 
 > **Êtes-vous membre de la Fellowship ?**
 > 
-> Dans le cas contraire, nous vous invitons à nous rejoindre. Avec chaque nouveau membre, nous atteignons un nouveau niveau d'unité de but tout en embrassant la diversité de notre service alors que nous nous associons les uns aux autres afin de partager un but commun dans la diffusion mondiale du _Le Livre d'Urantia_ et de ses enseignements. Comme Jésus l'a dit au philosophe grec : « Un groupe social d'êtres humains travaillant de manière coordonnée et en harmonie représente une force bien plus grande que la simple somme de ses parties. ([LU 133:5.6](/fr/The_Urantia_Book/133#p5_6))
+> Dans le cas contraire, nous vous invitons à nous rejoindre. Avec chaque nouveau membre, nous atteignons un nouveau niveau d'unité de but tout en embrassant la diversité de notre service alors que nous nous associons les uns aux autres afin de partager un but commun dans la diffusion mondiale du _Le Livre d'Urantia_ et de ses enseignements. Comme Jésus l'a dit au philosophe grec : « Un groupe social d'êtres humains travaillant de manière coordonnée et en harmonie représente une force bien plus grande que la simple somme de ses parties. (<a id="a305_544"></a>[LU 133:5.6](/fr/The_Urantia_Book/133#p5_6))
 > Alors venez nous rejoindre. Vous pouvez contacter le président des membres de la Fellowship, Lenny Cowles à Lighting@wispertel.net pour plus d'informations. Nous serons impatients de vous entendre.
 {.is-info}
 
@@ -359,7 +359,7 @@ Membres : Linda Buselli, présidente Lynda D'Arcangelo, David Glass, Nancy John
 bourse@urantiabook.org
 www.urantiabook.org
 
-> « la vraie bonté doit être inconsciente, » ([LU 140:8.26](/fr/The_Urantia_Book/140#p8_26))
+> « la vraie bonté doit être inconsciente, » (<a id="a361_46"></a>[LU 140:8.26](/fr/The_Urantia_Book/140#p8_26))
 
 ## Liens externes
 

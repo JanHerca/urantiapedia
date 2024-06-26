@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> « ...c’est pourquoi Joseph avait coutume d’emmener Jésus en promenade les après-midis de sabbat. Une de leurs excursions favorites consistait à grimper sur la haute colline voisine de leur maison, d’où ils avaient une vue panoramique sur toute la Galilée. » ([LU 123:5.12](/fr/The_Urantia_Book/123#p5_12))
+> « ...c’est pourquoi Joseph avait coutume d’emmener Jésus en promenade les après-midis de sabbat. Une de leurs excursions favorites consistait à grimper sur la haute colline voisine de leur maison, d’où ils avaient une vue panoramique sur toute la Galilée. » (<a id="a43_261"></a>[LU 123:5.12](/fr/The_Urantia_Book/123#p5_12))
 
 
 

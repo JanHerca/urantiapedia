@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/004.jpg">
 </figure>
 
-> De même qu’un papillon émerge du stade de la chenille, de même la vraie personnalité des êtres humains émergera sur les mondes des maisons en se révélant, pour la première fois, séparée de son ancien linceul de chair matérielle. ([LU 112:6.1](/fr/The_Urantia_Book/112#p6_1))
+> De même qu’un papillon émerge du stade de la chenille, de même la vraie personnalité des êtres humains émergera sur les mondes des maisons en se révélant, pour la première fois, séparée de son ancien linceul de chair matérielle. (<a id="a41_232"></a>[LU 112:6.1](/fr/The_Urantia_Book/112#p6_1))
 
 **Pour honorer un être cher décédé, envisagez de faire un don commémoratif à la Fellowship.**
 

@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> « Grâce à ces vieux souvenirs de Nazareth, de Capharnaüm, du mont Hermon et du lever et du coucher de soleil sur la scintillante mer de Galilée, il parvint à se calmer tout en fortifiant et en préparant son cœur humain à rencontrer le félon qui devait si prochainement le trahir. » ([LU 182:3.10](/fr/The_Urantia_Book/182#p3_10))
+> « Grâce à ces vieux souvenirs de Nazareth, de Capharnaüm, du mont Hermon et du lever et du coucher de soleil sur la scintillante mer de Galilée, il parvint à se calmer tout en fortifiant et en préparant son cœur humain à rencontrer le félon qui devait si prochainement le trahir. » (<a id="a43_285"></a>[LU 182:3.10](/fr/The_Urantia_Book/182#p3_10))
 
 
 

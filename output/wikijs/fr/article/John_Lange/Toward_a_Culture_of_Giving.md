@@ -81,5 +81,5 @@ Comité des finances : John Lange, président; Larry Geis, secrétaire; Dale Szt
 <figcaption>Migration murale, par Inkdwell Studio. Photo par Chuck Thurston</figcaption>
 </figure>
 
-> Nous vivons en Dieu et Dieu habite en nous. ([LU 131:10.4](/fr/The_Urantia_Book/131#p10_4))
+> Nous vivons en Dieu et Dieu habite en nous. (<a id="a83_47"></a>[LU 131:10.4](/fr/The_Urantia_Book/131#p10_4))
 

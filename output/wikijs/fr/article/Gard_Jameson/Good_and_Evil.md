@@ -37,9 +37,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Gard Jameson_ 
 
-> **(LU)** Mardus était le chef reconnu des cyniques de Rome ; il devint un grand ami du scribe de Damas. Jour après jour, il conversait avec Jésus et, soir après soir, il écoutait son enseignement divin. Parmi les plus importantes discussions avec Mardus, se trouve celle destinée à répondre à la question de ce cynique sincère sur le bien et le mal. Voici en substance, et transposée en langage du vingtième siècle, la réponse de Jésus : ([*The Urantia Book* [LU 132:2.1](/fr/The_Urantia_Book/132#p2_1)]
+> **(LU)** Mardus était le chef reconnu des cyniques de Rome ; il devint un grand ami du scribe de Damas. Jour après jour, il conversait avec Jésus et, soir après soir, il écoutait son enseignement divin. Parmi les plus importantes discussions avec Mardus, se trouve celle destinée à répondre à la question de ce cynique sincère sur le bien et le mal. Voici en substance, et transposée en langage du vingtième siècle, la réponse de Jésus : (<a id="a39_441"></a>[*The Urantia Book* [LU 132:2.1](/fr/The_Urantia_Book/132#p2_1)]
 
-> « Mon frère, le bien et le mal sont simplement des mots qui symbolisent les **niveaux relatifs** où l’homme comprend l’univers observable. Si l’on est éthiquement paresseux et socialement indifférent, on peut prendre pour critère du bien les **usages sociaux** courants. Si l’on est spirituellement indolent et moralement stagnant, on peut prendre pour critère du bien les **pratiques et traditions** **religieuses** des contemporains. Mais l’âme qui survit au temps et émerge dans l’éternité, doit faire un choix vivant et personnel entre le bien et le mal, tels qu’ils sont déterminés par les vraies valeurs des critères spirituels établis par l’esprit divin que le Père qui est aux cieux a envoyé habiter le cœur de l’homme. Cet esprit intérieur est le critère de la survie de la personnalité. » ([LU 132:2.2](/fr/The_Urantia_Book/132#p2_2))
+> « Mon frère, le bien et le mal sont simplement des mots qui symbolisent les **niveaux relatifs** où l’homme comprend l’univers observable. Si l’on est éthiquement paresseux et socialement indifférent, on peut prendre pour critère du bien les **usages sociaux** courants. Si l’on est spirituellement indolent et moralement stagnant, on peut prendre pour critère du bien les **pratiques et traditions** **religieuses** des contemporains. Mais l’âme qui survit au temps et émerge dans l’éternité, doit faire un choix vivant et personnel entre le bien et le mal, tels qu’ils sont déterminés par les vraies valeurs des critères spirituels établis par l’esprit divin que le Père qui est aux cieux a envoyé habiter le cœur de l’homme. Cet esprit intérieur est le critère de la survie de la personnalité. » (<a id="a41_802"></a>[LU 132:2.2](/fr/The_Urantia_Book/132#p2_2))
 
 \*\*\*
 
@@ -49,9 +49,9 @@ par _Gard Jameson_
 
 \*\*\*
 
-**(C)** Le problème du bien et du mal est l’un des plus grands problèmes de la vie. Comme l’a déclaré Épicure (par exemple à propos du sauvetage d’un enfant atteint d’une tumeur au cerveau) : « Dieu veut-il prévenir le mal, mais n’en est-il pas capable ? Alors il n'est pas omnipotent. Est-il capable, mais ne veut-il pas ? Alors il est malveillant. Comment concilier une Divinité toute-puissante et bonne avec la réalité de tant de mal : génocide, racisme, guerre, maladies horribles, grande dévastation naturelle ? Telles sont les questions qui captivent l’imagination des personnes réfléchies. Comme le suggère Flewelling, les gens irréfléchis et paresseux se rabattent sur des normes sociales et des tropes idéologiques, comme les « amis » de Job, qui fournissent une compréhension minimale du mal. Comme le dit *Le**Livre d'Urantia*, les valeurs sont connues *uniquement* dans le contexte d'une expérience personnelle vécue. « La vérité ne peut pas être définie avec des mots, seulement en vivant. » [[LU 132:3.2](/fr/The_Urantia_Book/132#p3_2)] Les valeurs existent en *temps réel* et sont exprimées par le caractère de la personne. C’est à travers les peines et les joies de la vie que nous recevons la capacité de discerner la lumière de la vérité, de la beauté et du bien, en grande partie grâce au contraste du mensonge, de la laideur et du mal. 
+**(C)** Le problème du bien et du mal est l’un des plus grands problèmes de la vie. Comme l’a déclaré Épicure (par exemple à propos du sauvetage d’un enfant atteint d’une tumeur au cerveau) : « Dieu veut-il prévenir le mal, mais n’en est-il pas capable ? Alors il n'est pas omnipotent. Est-il capable, mais ne veut-il pas ? Alors il est malveillant. Comment concilier une Divinité toute-puissante et bonne avec la réalité de tant de mal : génocide, racisme, guerre, maladies horribles, grande dévastation naturelle ? Telles sont les questions qui captivent l’imagination des personnes réfléchies. Comme le suggère Flewelling, les gens irréfléchis et paresseux se rabattent sur des normes sociales et des tropes idéologiques, comme les « amis » de Job, qui fournissent une compréhension minimale du mal. Comme le dit *Le**Livre d'Urantia*, les valeurs sont connues *uniquement* dans le contexte d'une expérience personnelle vécue. « La vérité ne peut pas être définie avec des mots, seulement en vivant. » <a id="a51_1005"></a>[[LU 132:3.2](/fr/The_Urantia_Book/132#p3_2)] Les valeurs existent en *temps réel* et sont exprimées par le caractère de la personne. C’est à travers les peines et les joies de la vie que nous recevons la capacité de discerner la lumière de la vérité, de la beauté et du bien, en grande partie grâce au contraste du mensonge, de la laideur et du mal. 
 
-*Le Livre d'Urantia* affirme de manière surprenante que l’éthique n'est pas fonction d'une norme externe. « Il enseignait la religion [l’expérience religieuse personnelle] comme une cause et l’éthique comme une conséquence. » [[LU 170:3.8](/fr/The_Urantia_Book/170#p3_8)] L'éthique est fonction d'un « choix vivant et personnel entre le bien et le mal, car ils sont déterminés par les vraies valeurs des normes spirituelles établies par l’esprit divin que le Père céleste a envoyé habiter dans le cœur ». de l’homme. » [[LU 132:2.2](/fr/The_Urantia_Book/132#p2_2)]
+*Le Livre d'Urantia* affirme de manière surprenante que l’éthique n'est pas fonction d'une norme externe. « Il enseignait la religion [l’expérience religieuse personnelle] comme une cause et l’éthique comme une conséquence. » <a id="a53_226"></a>[[LU 170:3.8](/fr/The_Urantia_Book/170#p3_8)] L'éthique est fonction d'un « choix vivant et personnel entre le bien et le mal, car ils sont déterminés par les vraies valeurs des normes spirituelles établies par l’esprit divin que le Père céleste a envoyé habiter dans le cœur ». de l’homme. » <a id="a53_519"></a>[[LU 132:2.2](/fr/The_Urantia_Book/132#p2_2)]
 
 Cette déclaration établit clairement que : il existe des valeurs vraies et absolues qui gouvernent l’univers ; les valeurs ne sont pas subjectives (« Tout le monde le fait » est le mot de passe facile de la paresse éthique). Une telle affirmation éthique va à l’encontre d’une grande partie de la théorie éthique courante dans la philosophie moderne et dans les couloirs de la jurisprudence, qui tendent à graviter vers un calcul utilitaire de la valeur, sans aucune référence à leur existence réelle, découvrable dans la subjectivité de l’individu. personne qui tente de vivre conformément à l’esprit divin qui l’habite. 
 
@@ -68,7 +68,7 @@ Est-il possible de voir les deux faces de cette médaille ? Du point de vue de D
 
 \*\*\*\*\*\*\* 
 
-> **(LU)** La **bonté**, de même que la vérité, **est toujours relative** et contraste infailliblement avec le mal. C’est la perception de ces qualités de bonté et de vérité qui permet aux âmes évoluantes des hommes de prendre ces décisions personnelles de choix essentielles à la survie éternelle. ([LU 132:2.3](/fr/The_Urantia_Book/132#p2_3))
+> **(LU)** La **bonté**, de même que la vérité, **est toujours relative** et contraste infailliblement avec le mal. C’est la perception de ces qualités de bonté et de vérité qui permet aux âmes évoluantes des hommes de prendre ces décisions personnelles de choix essentielles à la survie éternelle. (<a id="a70_300"></a>[LU 132:2.3](/fr/The_Urantia_Book/132#p2_3))
 
 \*\*\* 
 
@@ -80,7 +80,7 @@ Est-il possible de voir les deux faces de cette médaille ? Du point de vue de D
 
 La bonté est connue dans sa relation à la fois avec la possibilité et la réalité du mal. Nous apprenons profondément que le mal est une transgression de la loi divine. Nous vivons dans un univers de lois, où prédominent les lois physiques et spirituelles. Le mal naît souvent d’attitudes d’orgueil, d’arrogance, d’impatience, de méchanceté et de manque de sincérité, et la bonté naît d’attitudes d’humilité, de curiosité, de patience, de gentillesse et de sincérité. Le mal éloigne l’individu de tout ce qui est divin ; la bonté nous rapproche du Divin. 
 
-Dans le domaine spirituel, l’humanité possède le libre arbitre. Nous pouvons en fait « *faire un don à Dieu : consacrer notre libre arbitre à l’accomplissement de la volonté de Dieu* ». [[LU 112:0.10](/fr/The_Urantia_Book/112#p0_10)] La vie offre de nombreux choix. Nous choisissons chacun les valeurs selon lesquelles nous vivons. Ces choix reposent sur nos hypothèses de base concernant l’existence, ainsi que sur nos attitudes fondamentales à l’égard de la vie. 
+Dans le domaine spirituel, l’humanité possède le libre arbitre. Nous pouvons en fait « *faire un don à Dieu : consacrer notre libre arbitre à l’accomplissement de la volonté de Dieu* ». <a id="a82_186"></a>[[LU 112:0.10](/fr/The_Urantia_Book/112#p0_10)] La vie offre de nombreux choix. Nous choisissons chacun les valeurs selon lesquelles nous vivons. Ces choix reposent sur nos hypothèses de base concernant l’existence, ainsi que sur nos attitudes fondamentales à l’égard de la vie. 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/024.jpg">
@@ -89,9 +89,9 @@ Dans le domaine spirituel, l’humanité possède le libre arbitre. Nous pouvons
 
 \*\*\*\*\*\*\*
 
-> **(LU)** La personne spirituellement aveugle qui suit logiquement les prescriptions scientifiques, les usages sociaux et les dogmes religieux se trouve en grand danger de sacrifier son indépendance morale et de **perdre sa liberté spirituelle**. Une telle âme est destinée à devenir un perroquet intellectuel, un automate social et **l’esclave de l’autorité religieuse**. ([LU 132:2.4](/fr/The_Urantia_Book/132#p2_4))
+> **(LU)** La personne spirituellement aveugle qui suit logiquement les prescriptions scientifiques, les usages sociaux et les dogmes religieux se trouve en grand danger de sacrifier son indépendance morale et de **perdre sa liberté spirituelle**. Une telle âme est destinée à devenir un perroquet intellectuel, un automate social et **l’esclave de l’autorité religieuse**. (<a id="a91_375"></a>[LU 132:2.4](/fr/The_Urantia_Book/132#p2_4))
 
-> « **La bonté grandit toujours vers** des niveaux supérieurs où se trouve accrue la liberté de s’épanouir moralement et d’atteindre la personnalité spirituelle — la découverte de l’Ajusteur intérieur et l’identification avec lui. Une **expérience est bonne** quand elle élève l’appréciation de la beauté, accroit la volonté morale, rehausse le discernement de la vérité, développe l’aptitude à aimer et à servir ses semblables, exalte les idéaux spirituels et unifie les suprêmes mobiles humains du temps avec les plans éternels de l’Ajusteur intérieur. Tout cela conduit directement au désir accru de faire la volonté du Père, ce qui entretient la passion divine de trouver Dieu et de devenir davantage semblable à lui. » ([LU 132:2.5](/fr/The_Urantia_Book/132#p2_5))
+> « **La bonté grandit toujours vers** des niveaux supérieurs où se trouve accrue la liberté de s’épanouir moralement et d’atteindre la personnalité spirituelle — la découverte de l’Ajusteur intérieur et l’identification avec lui. Une **expérience est bonne** quand elle élève l’appréciation de la beauté, accroit la volonté morale, rehausse le discernement de la vérité, développe l’aptitude à aimer et à servir ses semblables, exalte les idéaux spirituels et unifie les suprêmes mobiles humains du temps avec les plans éternels de l’Ajusteur intérieur. Tout cela conduit directement au désir accru de faire la volonté du Père, ce qui entretient la passion divine de trouver Dieu et de devenir davantage semblable à lui. » (<a id="a93_725"></a>[LU 132:2.5](/fr/The_Urantia_Book/132#p2_5))
 
 \*\*\* 
 
@@ -107,14 +107,14 @@ Dans ces passages, nous découvrons la nature évolutive de l’expérience des 
 
 \*\*\*\*\*\*\* 
 
-> **(LU)** À mesure que vous vous élèverez sur l’échelle universelle de développement des créatures, vous trouverez un **accroissement de la bonté** et une diminution du mal en parfaite conformité avec votre capacité de faire l’expérience de la bonté et de discerner la vérité. L’aptitude à entretenir l’erreur ou à faire l’expérience du mal ne se perdra pas entièrement avant que l’âme humaine ascendante atteigne les niveaux spirituels finals. ([LU 132:2.6](/fr/The_Urantia_Book/132#p2_6))
+> **(LU)** À mesure que vous vous élèverez sur l’échelle universelle de développement des créatures, vous trouverez un **accroissement de la bonté** et une diminution du mal en parfaite conformité avec votre capacité de faire l’expérience de la bonté et de discerner la vérité. L’aptitude à entretenir l’erreur ou à faire l’expérience du mal ne se perdra pas entièrement avant que l’âme humaine ascendante atteigne les niveaux spirituels finals. (<a id="a109_447"></a>[LU 132:2.6](/fr/The_Urantia_Book/132#p2_6))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/025.jpg">
 <figcaption><em>Shutterstock 240616</em> </figcaption>
 </figure>
 
-> « **La bonté est vivante, relative**, toujours en progrès ; elle est invariablement une expérience personnelle et perpétuellement liée au discernement de la vérité et de la beauté. La bonté se trouve dans la récognition des valeurs positives de vérité du niveau spirituel qui doit, dans l’expérience humaine, faire contraste avec sa contrepartie négative — **les ombres du mal potentiel**. » ([LU 132:2.7](/fr/The_Urantia_Book/132#p2_7))
+> « **La bonté est vivante, relative**, toujours en progrès ; elle est invariablement une expérience personnelle et perpétuellement liée au discernement de la vérité et de la beauté. La bonté se trouve dans la récognition des valeurs positives de vérité du niveau spirituel qui doit, dans l’expérience humaine, faire contraste avec sa contrepartie négative — **les ombres du mal potentiel**. » (<a id="a116_395"></a>[LU 132:2.7](/fr/The_Urantia_Book/132#p2_7))
 
 \*\*\* 
 
@@ -128,7 +128,7 @@ C'était la position de [Socrate ](https://en.wikipedia.org/wiki/Socrates)as il 
 
 L’amour de la vérité et la volonté d’aller là où cela mène sont-ils souhaitables ? 
 
-L’humanité doit alors grandir dans un monde où l’erreur est présente et le mensonge possible. [Cf. [LU 3:5.10](/fr/The_Urantia_Book/3#p5_10) ] 
+L’humanité doit alors grandir dans un monde où l’erreur est présente et le mensonge possible. <a id="a130_94"></a>[Cf. [LU 3:5.10](/fr/The_Urantia_Book/3#p5_10) ] 
 
 La joie de la beauté est-elle désirable ? 
 
@@ -140,7 +140,7 @@ Alors devons-nous être toujours présents à la possibilité du mal.
 
 \*\*\*\*\*\*\* 
 
-> **(LU)** Jusqu’à ce que vous atteigniez les niveaux du Paradis, la **bonté sera toujours davantage une recherche qu’une possession**, plus un but qu’une expérience d’aboutissement. Mais, alors même que vous avez faim et soif de droiture, vous retirez une satisfaction croissante de l’accès partiel à la bonté. La présence du bien et du mal dans le monde est par elle-même une preuve positive de l’existence et de la réalité de la **volonté morale** de l’homme, la personnalité, qui identifie ainsi ces valeurs et se trouve également capable de choisir entre elles. ([LU 132:2.8](/fr/The_Urantia_Book/132#p2_8))
+> **(LU)** Jusqu’à ce que vous atteigniez les niveaux du Paradis, la **bonté sera toujours davantage une recherche qu’une possession**, plus un but qu’une expérience d’aboutissement. Mais, alors même que vous avez faim et soif de droiture, vous retirez une satisfaction croissante de l’accès partiel à la bonté. La présence du bien et du mal dans le monde est par elle-même une preuve positive de l’existence et de la réalité de la **volonté morale** de l’homme, la personnalité, qui identifie ainsi ces valeurs et se trouve également capable de choisir entre elles. (<a id="a142_568"></a>[LU 132:2.8](/fr/The_Urantia_Book/132#p2_8))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/026.jpg">
@@ -161,7 +161,7 @@ Notre volonté morale est indissolublement liée à l’idée d'être *une perso
 
 \*\*\*\*\*\*\* 
 
-> **(LU)** À l’époque où un ascendeur mortel atteint le Paradis, son aptitude à identifier le moi avec les vraies valeurs d’esprit s’est amplifiée au point qu’il a atteint la possession parfaite de la **lumière de la vie**. Une telle personnalité spirituelle, parvenue à la perfection, devient si complètement, divinement et spirituellement unifiée aux qualités positives et suprêmes de bonté, de beauté et de vérité qu’il ne reste aucune possibilité, à un esprit aussi droit, de projeter une ombre négative quelconque de mal potentiel lorsqu’il est exposé à l’éclat pénétrant de la lumière divine des Souverains infinis du Paradis. Chez toutes ces personnalités spirituelles, la bonté a cessé d’être partielle, opposée à un contraire et relative ; elle est devenue divinement complète et spirituellement parachevée ; elle s’approche de la pureté et de la perfection du Suprême. ([LU 132:2.9](/fr/The_Urantia_Book/132#p2_9))
+> **(LU)** À l’époque où un ascendeur mortel atteint le Paradis, son aptitude à identifier le moi avec les vraies valeurs d’esprit s’est amplifiée au point qu’il a atteint la possession parfaite de la **lumière de la vie**. Une telle personnalité spirituelle, parvenue à la perfection, devient si complètement, divinement et spirituellement unifiée aux qualités positives et suprêmes de bonté, de beauté et de vérité qu’il ne reste aucune possibilité, à un esprit aussi droit, de projeter une ombre négative quelconque de mal potentiel lorsqu’il est exposé à l’éclat pénétrant de la lumière divine des Souverains infinis du Paradis. Chez toutes ces personnalités spirituelles, la bonté a cessé d’être partielle, opposée à un contraire et relative ; elle est devenue divinement complète et spirituellement parachevée ; elle s’approche de la pureté et de la perfection du Suprême. (<a id="a163_880"></a>[LU 132:2.9](/fr/The_Urantia_Book/132#p2_9))
 
 \*\*\* 
 
@@ -178,7 +178,7 @@ Notre volonté morale est indissolublement liée à l’idée d'être *une perso
 
 \*\*\*\*\*\*\* 
 
-> **(LU)** La ***possibilité* du mal** est nécessaire au choix moral, mais l’actualisation du mal ne l’est pas. Une ombre n’a qu’une réalité relative. Le mal actuel n’est pas **nécessaire** en tant qu’expérience personnelle. Le mal potentiel agit tout aussi bien comme stimulant de la décision dans les domaines du progrès moral sur les niveaux inférieurs du développement spirituel. Le mal ne devient une réalité d’expérience personnelle que lorsqu’un mental doué de sens moral en fait le **choix**. ([LU 132:2.10](/fr/The_Urantia_Book/132#p2_10))
+> **(LU)** La ***possibilité* du mal** est nécessaire au choix moral, mais l’actualisation du mal ne l’est pas. Une ombre n’a qu’une réalité relative. Le mal actuel n’est pas **nécessaire** en tant qu’expérience personnelle. Le mal potentiel agit tout aussi bien comme stimulant de la décision dans les domaines du progrès moral sur les niveaux inférieurs du développement spirituel. Le mal ne devient une réalité d’expérience personnelle que lorsqu’un mental doué de sens moral en fait le **choix**. (<a id="a180_502"></a>[LU 132:2.10](/fr/The_Urantia_Book/132#p2_10))
 
 \*\*\* 
 

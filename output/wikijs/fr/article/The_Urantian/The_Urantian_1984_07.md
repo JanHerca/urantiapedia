@@ -47,7 +47,7 @@ _Silver Spring, Maryland_
 
 ---
 
-> « _Même grandement modifiés, les enseignements de Jésus ont survécu aux cultes des mystères de leur époque natale, à l’ignorance et à la superstition des âges de ténèbres ; et, en ce moment même, ils triomphent lentement du matérialisme, du machinisme et du laïcisme du vingtième siècle. Et de telles époques de grandes épreuves et de défaites menaçantes sont toujours des périodes de grande révélation._ » ([LU 195:9.3](/fr/The_Urantia_Book/195#p9_3))
+> « _Même grandement modifiés, les enseignements de Jésus ont survécu aux cultes des mystères de leur époque natale, à l’ignorance et à la superstition des âges de ténèbres ; et, en ce moment même, ils triomphent lentement du matérialisme, du machinisme et du laïcisme du vingtième siècle. Et de telles époques de grandes épreuves et de défaites menaçantes sont toujours des périodes de grande révélation._ » (<a id="a49_410"></a>[LU 195:9.3](/fr/The_Urantia_Book/195#p9_3))
 
 
 

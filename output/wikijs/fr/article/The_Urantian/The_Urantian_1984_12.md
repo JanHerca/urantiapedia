@@ -51,7 +51,7 @@ _Chicago, Illinois_
 
 Au cours des huit dernières années de publication du Journal URANTIEN de la Fraternité URANTIA, nous avons de temps en temps suggéré des sujets pour de futurs numéros afin de stimuler les écrivains de notre communauté à proposer leur travail pour publication. Une fois de plus, nous aimerions stimuler votre imagination et votre traitement de texte en vous demandant de participer activement au Journal dans les mois à venir. Voici notre question, basée sur la citation suivante du fascicule I du _Livre d'URANTIA_ :
 
-> « _La consécration aimante de la volonté humaine à l’exécution de la volonté du Père est le don le plus précieux de l’homme à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don réellement valable qu’il soit possible à l’homme de faire au Père du Paradis._ » ([LU 1:1.2](/fr/The_Urantia_Book/1#p1_2))
+> « _La consécration aimante de la volonté humaine à l’exécution de la volonté du Père est le don le plus précieux de l’homme à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don réellement valable qu’il soit possible à l’homme de faire au Père du Paradis._ » (<a id="a53_299"></a>[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2))
 
 **Question**
 
@@ -64,7 +64,7 @@ Chaleureusement,
 
 ---
 
-> « _Une personnalité qui connait Dieu et désire faire sa volonté, qui a de la clairvoyance spirituelle, est divinement stable et éternellement existante. La grande aventure de l’homme dans l’univers consiste dans le transit de son mental mortel de la stabilité de la statique mécanique à la divinité de la dynamique spirituelle, et il réalise cette transformation par la force et la persévérance de ses propres décisions de personnalité, dans chaque situation de la vie, en déclarant : « C’est ma volonté que ta volonté soit faite._ » ([LU 118:8.11](/fr/The_Urantia_Book/118#p8_11))
+> « _Une personnalité qui connait Dieu et désire faire sa volonté, qui a de la clairvoyance spirituelle, est divinement stable et éternellement existante. La grande aventure de l’homme dans l’univers consiste dans le transit de son mental mortel de la stabilité de la statique mécanique à la divinité de la dynamique spirituelle, et il réalise cette transformation par la force et la persévérance de ses propres décisions de personnalité, dans chaque situation de la vie, en déclarant : « C’est ma volonté que ta volonté soit faite._ » (<a id="a66_537"></a>[LU 118:8.11](/fr/The_Urantia_Book/118#p8_11))
 
 
 

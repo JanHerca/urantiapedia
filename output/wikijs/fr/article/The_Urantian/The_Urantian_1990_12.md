@@ -225,7 +225,7 @@ par Eileen Laurence
 
 Comme la plupart d’entre nous ici présents, je mène une vie professionnelle variée et bien remplie. J'interagis avec beaucoup de gens, dont la plupart ne sont pas des lecteurs du Livre d'Urantia, mais dont beaucoup participent activement à la vie religieuse, tant professionnellement que privéement. Alors que je m'acquitte de mes tâches quotidiennes en essayant de vivre les concepts du livre, j'ai commencé à me poser quelques questions fondamentales :
 
-1. Y a-t-il une différence entre la moralité et l’éthique ? Ils sont souvent utilisés dans la même phrase telle que « _les mœurs (religieuses, morales et éthiques) ainsi que la propriété, la fierté et la chevalerie, stabilisent l'institution du mariage et de la famille._ » ([LU 84:7.3](/fr/The_Urantia_Book/84#p7_3))
+1. Y a-t-il une différence entre la moralité et l’éthique ? Ils sont souvent utilisés dans la même phrase telle que « _les mœurs (religieuses, morales et éthiques) ainsi que la propriété, la fierté et la chevalerie, stabilisent l'institution du mariage et de la famille._ » (<a id="a227_275"></a>[LU 84:7.3](/fr/The_Urantia_Book/84#p7_3))
 2. S’il y a une différence entre moral et éthique, quelle est-elle ?
 3. Comment notre conception de la moralité et de l'éthique a-t-elle changé depuis l'apparition de cette cinquième révélation d'époque, _Le Livre d'Urantia_ ?
 4. Que fait-on dans notre société américaine actuelle pour répondre aux questions morales et éthiques concernant l'évolution de nos organisations commerciales, le lien entre le gouvernement et les médias, l'éthique et les maladies chroniques, l'éthique et les soins néonatals ? Quelqu’un prend-il le temps de partager ses réflexions sur l’éthique au sein de la communauté mondiale ?

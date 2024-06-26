@@ -64,7 +64,7 @@ Quand j'ai lu dans _Le Livre d’Urantia_ les difficultés rencontrées par Jés
 
 Lorsque j'ai perdu mon emploi et que j'ai dû relever le défi de trouver un autre poste, sans véritables pistes positives et avec deux enfants qui dépendaient absolument de moi pour leur bien-être, cela m'a encore une fois aidé de pouvoir compter sur mon héros pour me guider et m'inspirer.
 
-> « Tous les plans de Jésus pour sa carrière furent apparemment contrecarrés. À la façon dont les évènements se présentaient, l’avenir ne paraissait pas brillant. Pourtant Jésus ne vacilla pas et ne se découragea pas. Il continua à vivre au jour le jour, remplissant bien son devoir quotidien et s’acquittant fidèlement des responsabilités *immédiates* de sa position dans la société. » ([LU 126:5.4](/fr/The_Urantia_Book/126#p5_4))
+> « Tous les plans de Jésus pour sa carrière furent apparemment contrecarrés. À la façon dont les évènements se présentaient, l’avenir ne paraissait pas brillant. Pourtant Jésus ne vacilla pas et ne se découragea pas. Il continua à vivre au jour le jour, remplissant bien son devoir quotidien et s’acquittant fidèlement des responsabilités *immédiates* de sa position dans la société. » (<a id="a66_388"></a>[LU 126:5.4](/fr/The_Urantia_Book/126#p5_4))
 
 La manière dont mon prochain travail – le début d’une véritable carrière – s’est déroulé a montré que mon héros et ses assistants ont joué un rôle dans cette prochaine étape importante de ma vie.
 
@@ -72,9 +72,9 @@ La manière dont mon prochain travail – le début d’une véritable carrière
 
 Je n’aime pas que quiconque remette en question mes motivations ou mes actions. Dans la vie de famille, cela arrive souvent. Mais encore une fois, j’ai appris de Jésus comment gérer la suspicion et la méfiance.
 
-> « Une certitude intérieure véritable et authentique ne craint nullement une analyse extérieure, pas plus que la vérité n’est froissée par une critique honnête. ... Les hommes sincères ne craignent pas l’examen critique de leurs convictions profondes et de leurs nobles idéaux. » » ([LU 146:3.2](/fr/The_Urantia_Book/146#p3_2))
+> « Une certitude intérieure véritable et authentique ne craint nullement une analyse extérieure, pas plus que la vérité n’est froissée par une critique honnête. ... Les hommes sincères ne craignent pas l’examen critique de leurs convictions profondes et de leurs nobles idéaux. » » (<a id="a74_284"></a>[LU 146:3.2](/fr/The_Urantia_Book/146#p3_2))
 
-> « Soyons patients ; la vérité n’a rien à craindre d’un examen honnête. » ([LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
+> « Soyons patients ; la vérité n’a rien à craindre d’un examen honnête. » (<a id="a76_76"></a>[LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
 
 Lorsque ma mère a remis en question de manière critique mes raisons de me séparer de mon mari et de priver mes enfants d’une relation étroite avec leur père, je me suis senti impuissant à lui montrer ma version de l’histoire. Mais j'ai fait face à ses tirades de colère, je n’ai pas dépéri devant ses interprétations erronées des faits et j'ai pu doucement l’aider à comprendre que je ne faisais de mon mieux que dans une mauvaise situation. Pendant tout ce temps, pendant ces moments de conflit, je m’accrochais aux images de Jésus se tenant franc et représentant la vérité telle qu’il la connaissait. Et cela m'a donné la force d’affronter l’une des personnes les plus importantes de ma vie qui avait temporairement perdu confiance en moi.
 
@@ -82,9 +82,9 @@ Lorsque ma mère a remis en question de manière critique mes raisons de me sép
 
 Cela ne cesse de m’étonner de voir comment Jésus a pu gérer avec autant de succès les tentatives de ses ennemis de l’embarrasser en public. Une telle sagesse, une telle agilité, un raisonnement si clair sont pour moi une merveille. Et je l’aime d’autant plus que j'en ai si peu, sauf dans ma capacité à l’apprécier en lui.
 
-> « Jésus aurait manié la foule avec bonhommie et désarmé effectivement ses ennemis même les plus violents, ... Jésus avait depuis longtemps appris aux apôtres qu’une réponse douce détourne la fureur, » ([LU 150:9.3](/fr/The_Urantia_Book/150#p9_3))
+> « Jésus aurait manié la foule avec bonhommie et désarmé effectivement ses ennemis même les plus violents, ... Jésus avait depuis longtemps appris aux apôtres qu’une réponse douce détourne la fureur, » (<a id="a84_204"></a>[LU 150:9.3](/fr/The_Urantia_Book/150#p9_3))
 
-> « Sur ses amis comme sur ses ennemis, il exerçait une forte et particulière influence de fascination. Des multitudes le suivaient pendant des semaines, rien que pour entendre ses paroles bienveillantes et observer la simplicité de sa vie. Des hommes et des femmes dévoués aimaient Jésus d’une affection presque surhumaine, et mieux ils le connaissaient, plus ils l’aimaient, et tout ceci est resté vrai. Même aujourd’hui et dans tous les âges futurs, mieux un homme connaitra cet homme-Dieu, plus il l’aimera et voudra le suivre. » ([LU 149:2.14](/fr/The_Urantia_Book/149#p2_14))
+> « Sur ses amis comme sur ses ennemis, il exerçait une forte et particulière influence de fascination. Des multitudes le suivaient pendant des semaines, rien que pour entendre ses paroles bienveillantes et observer la simplicité de sa vie. Des hommes et des femmes dévoués aimaient Jésus d’une affection presque surhumaine, et mieux ils le connaissaient, plus ils l’aimaient, et tout ceci est resté vrai. Même aujourd’hui et dans tous les âges futurs, mieux un homme connaitra cet homme-Dieu, plus il l’aimera et voudra le suivre. » (<a id="a86_535"></a>[LU 149:2.14](/fr/The_Urantia_Book/149#p2_14))
 
 ## Jésus, mon ami
 
@@ -98,9 +98,9 @@ Mon témoignage préféré parmi ceux qui essaient de vivre selon la volonté de
 
 Je l’ai prié : « Puisque je ne peux pas échapper à ce problème, je vais y faire face, mais je veux savoir que tu seras vraiment là pour m'aider. Et depuis lors, je sais que je reçois l’aide d’une puissance bien plus grande que moi. Mon héros est le meilleur, et il peut être le vôtre aussi, juste sur demande.
 
-> « « À vous et à tous ceux qui suivront vos traces au long des âges, laissez-moi dire que je me tiens toujours auprès de vous. Mon appel et invitation sont, et seront toujours, venez à moi vous tous qui peinez et qui êtes lourdement chargés, venez à moi et je vous donnerai le repos. Acceptez mon joug et écoutez-moi, car je suis vrai et loyal, et vous trouverez auprès de moi le repos spirituel pour vos âmes. » » ([LU 163:6.7](/fr/The_Urantia_Book/163#p6_7))
+> « « À vous et à tous ceux qui suivront vos traces au long des âges, laissez-moi dire que je me tiens toujours auprès de vous. Mon appel et invitation sont, et seront toujours, venez à moi vous tous qui peinez et qui êtes lourdement chargés, venez à moi et je vous donnerai le repos. Acceptez mon joug et écoutez-moi, car je suis vrai et loyal, et vous trouverez auprès de moi le repos spirituel pour vos âmes. » » (<a id="a100_417"></a>[LU 163:6.7](/fr/The_Urantia_Book/163#p6_7))
 
-> « Quand ils eurent l’occasion de mettre à l’épreuve les promesses du Maitre, ils constatèrent qu’elles étaient vraies. Et, depuis ce jour, un nombre incalculable de personnes ont aussi mis à l’épreuve et prouvé la fiabilité de ces mêmes promesses. » ([LU 163:6.8](/fr/The_Urantia_Book/163#p6_8))
+> « Quand ils eurent l’occasion de mettre à l’épreuve les promesses du Maitre, ils constatèrent qu’elles étaient vraies. Et, depuis ce jour, un nombre incalculable de personnes ont aussi mis à l’épreuve et prouvé la fiabilité de ces mêmes promesses. » (<a id="a102_253"></a>[LU 163:6.8](/fr/The_Urantia_Book/163#p6_8))
 
 
 

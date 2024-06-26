@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Le processus d'identification
 
-_Le Livre d'URANTIA_ révèle que notre personnalité est d'une grandeur si majestueuse que, inchangée, elle peut fonctionner même aux frontières de l'absolu ! ([LU 112:0.15](/fr/The_Urantia_Book/112#p0_15)) Cette même personnalité que nous avons maintenant n'évolue pas jusqu'à ce niveau inimaginable, ni n'y grandit. La personnalité reste inchangée.
+_Le Livre d'URANTIA_ révèle que notre personnalité est d'une grandeur si majestueuse que, inchangée, elle peut fonctionner même aux frontières de l'absolu ! (<a id="a36_158"></a>[LU 112:0.15](/fr/The_Urantia_Book/112#p0_15)) Cette même personnalité que nous avons maintenant n'évolue pas jusqu'à ce niveau inimaginable, ni n'y grandit. La personnalité reste inchangée.
 
 Pour concilier cette vérité surnaturelle avec la réalité telle que nous la connaissons, il semble inévitable de conclure que la personnalité ne se connaît pas elle-même, ou, du moins, de manière très incomplète. Et il faut beaucoup, très longtemps, et même plus que du temps, à la personnalité pour acquérir cette véritable connaissance d'elle-même et atteindre ce niveau de réalisation de soi où l'on peut vraiment dire : je suis ce que je suis. (Les majuscules seraient ici présomptueuses.) Même les auteurs du _Livre d'URANTIA_ ne sont pas sûrs s'il existe une telle finalité pour un fils d'un Père Infini.
 
@@ -56,7 +56,7 @@ Une troisième interprétation est celle dans laquelle les manifestations de la 
 — _David Verre_
 _Bradenton, Floride_
 
-> « _Tôt ou tard, toutes les personnalités de l’univers commencent à se rendre compte que la recherche finale de l’éternité est l’exploration sans fin de l’infinité, le voyage de découverte qui n’aura jamais de fin dans l’absoluité de la Source-Centre Première. Tôt ou tard, nous nous rendons tous compte que la croissance des créatures est proportionnelle à leur identification avec le Père._ » ([LU 106:9.11](/fr/The_Urantia_Book/106#p9_11))
+> « _Tôt ou tard, toutes les personnalités de l’univers commencent à se rendre compte que la recherche finale de l’éternité est l’exploration sans fin de l’infinité, le voyage de découverte qui n’aura jamais de fin dans l’absoluité de la Source-Centre Première. Tôt ou tard, nous nous rendons tous compte que la croissance des créatures est proportionnelle à leur identification avec le Père._ » (<a id="a58_397"></a>[LU 106:9.11](/fr/The_Urantia_Book/106#p9_11))
 
 
 

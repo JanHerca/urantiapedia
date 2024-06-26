@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 « Qu'est-ce que la Fraternité URANTIA ? Une autre secte ? Cette question a été posée à plusieurs reprises à l'auteur de ce rapport. A cette question, une réponse négative a toujours été donnée : « Non, la Fraternité URANTIA n'est ni une église ni une secte. C’est simplement un groupe social qui a un objectif religieux.
 
-Il y a une place réelle dans la civilisation moderne pour un groupe de personnes religieuses qui sont « … prêtes à se dépouiller complètement de toute autorité ecclésiastique et à abandonner complètement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain._” ([LU 134:4.4](/fr/The_Urantia_Book/134#p4_4)). Le monde moderne n’a guère besoin d’une autre église, d’une autre secte. Nous souffrons actuellement d’une pléthore d’Églises et d’une multiplication des sectes.
+Il y a une place réelle dans la civilisation moderne pour un groupe de personnes religieuses qui sont « … prêtes à se dépouiller complètement de toute autorité ecclésiastique et à abandonner complètement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain._” (<a id="a39_281"></a>[LU 134:4.4](/fr/The_Urantia_Book/134#p4_4)). Le monde moderne n’a guère besoin d’une autre église, d’une autre secte. Nous souffrons actuellement d’une pléthore d’Églises et d’une multiplication des sectes.
 
 Mais si nous ne sommes pas une Église, en quoi différons-nous alors d’une Église ? Si nous pouvons clairement voir en quoi nous différons, alors nous pourrons peut-être maintenir ces différences. Et si nous parvenons à maintenir ces différences, alors nous pourrons peut-être préserver notre organisation en tant que Fraternité distincte ; nous pourrons peut-être éviter une éventuelle évolution vers une église.
 

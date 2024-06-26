@@ -32,11 +32,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-« _Elle se révèle à vous en passant par votre expérience personnelle. Il faut que ce passage la rehausse de manière à dévoiler une nouvelle beauté et de réels gains spirituels à tous ceux qui observent vos fruits spirituels, et que ces spectateurs soient ainsi amenés à glorifier le Père qui est aux cieux._ » ( [LU 176:3.7](/fr/The_Urantia_Book/176#p3_7))
+« _Elle se révèle à vous en passant par votre expérience personnelle. Il faut que ce passage la rehausse de manière à dévoiler une nouvelle beauté et de réels gains spirituels à tous ceux qui observent vos fruits spirituels, et que ces spectateurs soient ainsi amenés à glorifier le Père qui est aux cieux._ » ( <a id="a34_312"></a>[LU 176:3.7](/fr/The_Urantia_Book/176#p3_7))
 
 ## Un rayonnement intérieur
 
-«_Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux._» ([LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)) Ainsi parla Jésus aux apôtres dans le sermon d'ordination ; et depuis plus de 1900 ans, les hommes ont exécuté cette injonction selon leur propre illumination et capacité conceptuelle.
+«_Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux._» (<a id="a38_159"></a>[LU 140:3.13](/fr/The_Urantia_Book/140#p3_13)) Ainsi parla Jésus aux apôtres dans le sermon d'ordination ; et depuis plus de 1900 ans, les hommes ont exécuté cette injonction selon leur propre illumination et capacité conceptuelle.
 
 Nous, en tant qu'Urantiens, sommes individuellement confrontés au défi de savoir comment laisser notre « lumière briller tellement » que d'autres, en la voyant, puissent être tentés de emboîter le pas, chacun selon sa propre compréhension.
 
@@ -56,7 +56,7 @@ Bien sûr, nous avons tous nos propres « diables » responsables de nos problè
 
 —_Wesley James_
 
-> « _...les révélations de Dieu illuminent comme des éclairs sur terre dans la vie des hommes qui révèlent Dieu à leurs semblables._ » ([LU 132:7.6](/fr/The_Urantia_Book/132#p7_6))
+> « _...les révélations de Dieu illuminent comme des éclairs sur terre dans la vie des hommes qui révèlent Dieu à leurs semblables._ » (<a id="a58_136"></a>[LU 132:7.6](/fr/The_Urantia_Book/132#p7_6))
 
 ## Vivre dans la réalité
 
@@ -70,13 +70,13 @@ Dieu a un plan pour l'Univers des Univers. « Il connaît la fin depuis le débu
 
 —_Matthieu Rapaport_
 
-> « _Persévérez jusqu’à mon retour._ » ([LU 176:3.6](/fr/The_Urantia_Book/176#p3_6))
+> « _Persévérez jusqu’à mon retour._ » (<a id="a72_40"></a>[LU 176:3.6](/fr/The_Urantia_Book/176#p3_6))
 
 ## Semer des graines
 
-Au cours des 21 années écoulées depuis sa publication, _Le Livre d'URANTIA_ a trouvé son chemin entre les mains de plus de 60 000 personnes qui recherchent Dieu. La croissance des ventes du livre peut être comparée à la parabole du semeur, qui « _... jeta une bonne graine sur la terre ;... et bien qu'il ne sache pas comment cela arriva, la plante porta du fruit._ » ([LU 151:3.15](/fr/The_Urantia_Book/151#p3_15)) Depuis des débuts très modestes, les ventes ont augmenté jusqu'à atteindre aujourd'hui en moyenne près de 10 000 livres par an. En continuant à rendre le _Livre d'URANTIA_ aussi largement disponible que possible, à travers les bibliothèques, les librairies de détail, et en l'offrant en cadeau, nous pouvons contribuer à encourager une récolte abondante.
+Au cours des 21 années écoulées depuis sa publication, _Le Livre d'URANTIA_ a trouvé son chemin entre les mains de plus de 60 000 personnes qui recherchent Dieu. La croissance des ventes du livre peut être comparée à la parabole du semeur, qui « _... jeta une bonne graine sur la terre ;... et bien qu'il ne sache pas comment cela arriva, la plante porta du fruit._ » (<a id="a76_369"></a>[LU 151:3.15](/fr/The_Urantia_Book/151#p3_15)) Depuis des débuts très modestes, les ventes ont augmenté jusqu'à atteindre aujourd'hui en moyenne près de 10 000 livres par an. En continuant à rendre le _Livre d'URANTIA_ aussi largement disponible que possible, à travers les bibliothèques, les librairies de détail, et en l'offrant en cadeau, nous pouvons contribuer à encourager une récolte abondante.
 
-> « _N’oubliez pas que vous êtes uniquement mandatés pour aller prêcher la bonne nouvelle. Il ne faut pas attaquer les anciens modes de vie ; il faut introduire habilement le levain de la nouvelle vérité au milieu des anciennes croyances._ » ([LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
+> « _N’oubliez pas que vous êtes uniquement mandatés pour aller prêcher la bonne nouvelle. Il ne faut pas attaquer les anciens modes de vie ; il faut introduire habilement le levain de la nouvelle vérité au milieu des anciennes croyances._ » (<a id="a78_243"></a>[LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
 
 ## L'école de la Fraternité
 
@@ -92,7 +92,7 @@ La Fraternité URANTIA, au cours des vingt premières années de son existence, 
 
 Le _Livre d'URANTIA_ a-t-il changé votre conception de la prière ? Quelle est la valeur de la prière pour vous ? Est-ce une partie régulière de votre vie ? Si oui, pourquoi? Si non, quelles sont vos raisons ? Envoyez-nous vos pensées et vos sentiments sur ce sujet, car la « Prière » est considérée comme un futur sujet possible du Journal URANTIEN.
 
-> « _Vous avez reçu libéralement la vérité du ciel ; vous devriez donc la donner libéralement et, par ce don, cette vérité se multipliera et annoncera la lumière croissante de la grâce qui sauve, dès le moment où vous la dispenserez._ » ([LU 176:3.10](/fr/The_Urantia_Book/176#p3_10))
+> « _Vous avez reçu libéralement la vérité du ciel ; vous devriez donc la donner libéralement et, par ce don, cette vérité se multipliera et annoncera la lumière croissante de la grâce qui sauve, dès le moment où vous la dispenserez._ » (<a id="a94_238"></a>[LU 176:3.10](/fr/The_Urantia_Book/176#p3_10))
 
 
 

@@ -45,7 +45,7 @@ _Silver Spring, Maryland_
 
 ---
 
-> « _Il faut que la science politique reconstruise l’économie et l’industrie par les techniques qu’elle apprend des sciences sociales et par la clairvoyance et les motifs fournis par la vie religieuse. Dans toute reconstruction sociale, la religion apporte une fidélité stabilisatrice envers un objet transcendant, un but équilibrant situé au-delà et au-dessus de l’objectif temporel immédiat. Au milieu des confusions d’un environnement qui change rapidement, l’homme mortel a besoin d’être soutenu par une vaste perspective cosmique._ » ([LU 99:7.2](/fr/The_Urantia_Book/99#p7_2))
+> « _Il faut que la science politique reconstruise l’économie et l’industrie par les techniques qu’elle apprend des sciences sociales et par la clairvoyance et les motifs fournis par la vie religieuse. Dans toute reconstruction sociale, la religion apporte une fidélité stabilisatrice envers un objet transcendant, un but équilibrant situé au-delà et au-dessus de l’objectif temporel immédiat. Au milieu des confusions d’un environnement qui change rapidement, l’homme mortel a besoin d’être soutenu par une vaste perspective cosmique._ » (<a id="a47_540"></a>[LU 99:7.2](/fr/The_Urantia_Book/99#p7_2))
 
 
 

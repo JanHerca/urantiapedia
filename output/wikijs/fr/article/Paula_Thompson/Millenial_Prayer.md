@@ -97,7 +97,7 @@ Même ainsi, peut-il en être ainsi, Amen.
 > Et, quand notre carrière sera achevée, fais d’elle un honneur pour ton nom,
 > Un plaisir pour ton esprit de bonté et une satisfaction pour ceux qui soutiennent notre âme.
 > Que le bien éternel de tes enfants mortels ne soit pas celui que nous souhaitons, Ô notre Père aimant, mais celui que tu désires.
-> Ainsi soit-il. ([LU 144:5.55-72](/fr/The_Urantia_Book/144#p5_55))
+> Ainsi soit-il. (<a id="a99_18"></a>[LU 144:5.55-72](/fr/The_Urantia_Book/144#p5_55))
 
 ## Références
 

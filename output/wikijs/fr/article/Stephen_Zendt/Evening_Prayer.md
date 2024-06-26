@@ -37,7 +37,7 @@ Conduis-moi pour toujours vers la lumière.<br>
 
 ---
 
-> Le grand but de l’existence humaine consiste à se mettre au diapason de la divinité de l’Ajusteur intérieur. Le grand accomplissement de la vie de mortel est d’arriver à se consacrer vraiment et intelligemment aux buts éternels de l’esprit divin qui attend et travaille dans votre mental. Mais un effort dévoué et déterminé pour accomplir la destinée éternelle est entièrement compatible avec l’allégresse et la joie de vivre, et avec une carrière terrestre honorable et réussie. ([LU 110:3.4](/fr/The_Urantia_Book/110#p3_4))
+> Le grand but de l’existence humaine consiste à se mettre au diapason de la divinité de l’Ajusteur intérieur. Le grand accomplissement de la vie de mortel est d’arriver à se consacrer vraiment et intelligemment aux buts éternels de l’esprit divin qui attend et travaille dans votre mental. Mais un effort dévoué et déterminé pour accomplir la destinée éternelle est entièrement compatible avec l’allégresse et la joie de vivre, et avec une carrière terrestre honorable et réussie. (<a id="a39_483"></a>[LU 110:3.4](/fr/The_Urantia_Book/110#p3_4))
 
 ## Références
 

@@ -35,7 +35,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 
-« ... la foi de l’homme né de l’esprit confère l’assurance d’une communion vivante avec le Dieu éternel. » _Le Livre d’Urantia_ [LU 178:1.11](/fr/The_Urantia_Book/178#p1_11)
+« ... la foi de l’homme né de l’esprit confère l’assurance d’une communion vivante avec le Dieu éternel. » _Le Livre d’Urantia_ <a id="a37_128"></a>[LU 178:1.11](/fr/The_Urantia_Book/178#p1_11)
 
 **Par Michael Gillespie, Robin Robinson et Melissa Wells**
 

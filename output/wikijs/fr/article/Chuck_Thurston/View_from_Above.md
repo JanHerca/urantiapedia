@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> « ... les Maitres Esprits sont le canal septuple du fleuve de vie répandu sur toute la création » ([LU 36:6.7](/fr/The_Urantia_Book/36#p6_7))
+> « ... les Maitres Esprits sont le canal septuple du fleuve de vie répandu sur toute la création » (<a id="a43_101"></a>[LU 36:6.7](/fr/The_Urantia_Book/36#p6_7))
 
 
 

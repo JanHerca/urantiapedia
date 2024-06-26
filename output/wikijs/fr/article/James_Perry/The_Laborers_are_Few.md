@@ -32,7 +32,7 @@ Il est impératif pour nous tous de réfléchir aux raisons pour lesquelles nous
 
 <br style="clear:both;"/>
 
-> Vous pouvez faire une œuvre importante si vous ne vous attribuez pas d’importance. ([LU 48:6.37](/fr/The_Urantia_Book/48#p6_37))
+> Vous pouvez faire une œuvre importante si vous ne vous attribuez pas d’importance. (<a id="a34_86"></a>[LU 48:6.37](/fr/The_Urantia_Book/48#p6_37))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/James_Perry/37.jpg">

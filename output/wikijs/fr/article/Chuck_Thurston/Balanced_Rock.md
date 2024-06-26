@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> «  Toute la réalité est toujours en équilibre entre les potentiels et les actuels du cosmos, et ceux-ci sont éternellement harmonisés par l’esprit de divinité. » ([LU 94:6.3](/fr/The_Urantia_Book/94#p6_3))
+> «  Toute la réalité est toujours en équilibre entre les potentiels et les actuels du cosmos, et ceux-ci sont éternellement harmonisés par l’esprit de divinité. » (<a id="a43_165"></a>[LU 94:6.3](/fr/The_Urantia_Book/94#p6_3))
 
 
 

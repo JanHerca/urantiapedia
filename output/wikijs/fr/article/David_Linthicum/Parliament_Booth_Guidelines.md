@@ -85,11 +85,11 @@ Les bénévoles sont priés de garder le stand attrayant et soigné pendant leur
 
 ## Méthodes d'enseignement de Jésus
 
-> « Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. ... » ([LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
+> « Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. ... » (<a id="a87_389"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
-> « La technique habituelle des contacts sociaux de Jésus consistait à poser des questions pour faire sortir les gens de leur réserve et les amener à converser avec lui. Au début de l’entretien, c’était généralement lui qui posait des questions et, à la fin, c’étaient eux qui l’interrogeaient. ... À ces affligés mortels, il parlait invariablement de l’amour de Dieu et, par des méthodes diverses et variées, il les informait qu’ils étaient les enfants de ce Père céleste qui les aimait. » ([LU 132:4.2](/fr/The_Urantia_Book/132#p4_2))
+> « La technique habituelle des contacts sociaux de Jésus consistait à poser des questions pour faire sortir les gens de leur réserve et les amener à converser avec lui. Au début de l’entretien, c’était généralement lui qui posait des questions et, à la fin, c’étaient eux qui l’interrogeaient. ... À ces affligés mortels, il parlait invariablement de l’amour de Dieu et, par des méthodes diverses et variées, il les informait qu’ils étaient les enfants de ce Père céleste qui les aimait. » (<a id="a89_492"></a>[LU 132:4.2](/fr/The_Urantia_Book/132#p4_2))
 
-> « Ceux qui enseignent la religion de Jésus devraient approcher les autres religions en reconnaissant les vérités qu’elles détiennent en commun (et dont beaucoup proviennent directement ou indirectement du message de Jésus) tout en s’abstenant d’insister pareillement sur les différences. » ([LU 149:2.5](/fr/The_Urantia_Book/149#p2_5))
+> « Ceux qui enseignent la religion de Jésus devraient approcher les autres religions en reconnaissant les vérités qu’elles détiennent en commun (et dont beaucoup proviennent directement ou indirectement du message de Jésus) tout en s’abstenant d’insister pareillement sur les différences. » (<a id="a91_293"></a>[LU 149:2.5](/fr/The_Urantia_Book/149#p2_5))
 
 ## Exemples de discours dans les ascenseurs
 

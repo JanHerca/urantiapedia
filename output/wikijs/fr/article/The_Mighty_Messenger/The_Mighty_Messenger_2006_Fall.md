@@ -88,7 +88,7 @@ Notre communauté de croyants en révélation est en mouvement. Avec cinquante a
 
 Dire au revoir à quelqu’un comme John Hales, qui a été notre directeur au cours des 32 dernières années, ne pourrait jamais être facile. Il me serait impossible de remplir ses chaussures, mais je promets à tous ceux qui aiment la Communauté comme moi, que je consacrerai à ce poste tous mes efforts et que je mobiliserai tous les atouts personnels que je possède pour être à la hauteur de la confiance que vous m'accordez. placé entre mes mains.
 
-> Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu’il *a,* alors Dieu fait de cet homme plus qu’il n’est. ([LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
+> Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu’il *a,* alors Dieu fait de cet homme plus qu’il n’est. (<a id="a90_160"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
 
 ## Rencontrez vos nouveaux conseillers généraux
 
@@ -184,7 +184,7 @@ Nous avons expérimenté ces derniers mois de nouvelles idées. Nous envoyons de
 
 Votre soutien au Pipeline de Lumière permet à la révélation de circuler vers ces coins proverbiaux de la terre. Aidez nous s'il vous plaît! Les dons sont acceptés en ligne à http://urantiabook.org./support.htm ou par courrier à : _The Urantia Book_ Fellowship, P.O. Boîte postale 4583, Grand Central Station, New York, N Y. 10163.
 
-> Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire. ... ([LU 99:1.3](/fr/The_Urantia_Book/99#p1_3))
+> Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire. ... (<a id="a186_157"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3))
 
 **Voulez-vous travailler une heure chaque mois pour la révélation ?**
 
@@ -283,7 +283,7 @@ Certains souvenirs impérissables étaient le fait d'être à 15 000 pieds d'alt
 - **GC se réunira à Phoenix** - Le Conseil général de la Fellowship tiendra sa réunion de mi-année du 9 au 11 février 2007 à l’Inn Suites Tempe, près de l’aéroport de Phoenix. La réunion débutera le vendredi 9 février à 19 heures et se poursuivra jusqu’au samedi pour se terminer le dimanche 11 février à midi. La réunion du Conseil est ouverte aux observateurs et les lecteurs de la région de Phoenix sont invités à y assister. Les conseillers attendent avec impatience l’occasion de socialiser avec les membres de la Grand Canyon Society et de nombreux amis de la région de Phoenix.
 - **Urantia News - par email ?** Recevez-vous la mise à jour de la communauté de la fraternité ? Cette newsletter électronique est envoyée par courrier électronique environ une fois par mois et contient des informations actualisées sur le travail de la révélation. Si vous souhaitez vous abonner, vous pouvez le faire à http://urantiabook.org/subscribe.htm. Votre adresse e-mail est tout ce que vous devez saisir car vous recevez déjà Mighty Messenger.
 - **Œuvres d'art Urantia recherchées** - Le Comité des publications de la Fellowship recherche des œuvres d'art sur un thème du Livre d'Urantia à utiliser dans les prochains numéros du Fellowship Herald. Si vous avez des œuvres d'art que vous aimeriez soumettre pour une utilisation éventuelle, veuillez contacter la Communauté Urantia à Fellowship@urantiabook.org, ou envoyer une photo de votre travail à la Communauté Urantia, P.O. Boîte postale 4583, gare Grand Central, New York 10163.
-  _L’art est la morontia du mortel, le domaine intermédiaire entre l’homme matériel et l’homme spirituel._ [LU 195:7.15](/fr/The_Urantia_Book/195#p7_15) Partagez votre vision morontielle avec nous.
+  _L’art est la morontia du mortel, le domaine intermédiaire entre l’homme matériel et l’homme spirituel._ <a id="a285_107"></a>[LU 195:7.15](/fr/The_Urantia_Book/195#p7_15) Partagez votre vision morontielle avec nous.
 - **Nouveaux groupes d'études internationaux à Stockholm, Suède** - Contacter Michael MacIsaac, mmacisaac@gmail.com. Birmingham, Angleterre - Pato Banton Music Centre, 54-57 Key Hill, Hockley, B'ham, B18 5NX, Royaume-Uni
 
 

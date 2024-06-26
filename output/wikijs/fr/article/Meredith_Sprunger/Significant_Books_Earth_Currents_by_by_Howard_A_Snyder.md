@@ -52,7 +52,7 @@ Le centre et le sens de cette histoire sont Jésus-Christ. Les théologies chré
 
 
 
-> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. (<a id="a56_555"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. (<a id="a54_555"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 
 

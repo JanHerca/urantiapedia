@@ -56,7 +56,7 @@ Nous savons que nous sommes des amateurs et nous nous sentons tous très inaptes
 
 Nous, les Urantiens, alors que nous traversons la vie jour après jour, avons peut-être souvent été préoccupés par nos progrès dans l'introduction du Royaume de Dieu dans nos cœurs et dans ceux de nos semblables. Nous nous demandons peut-être si nous promouvons l’Évangile vivant de la paternité de Dieu et de la fraternité des hommes avec sagesse et bien. Mais si nous remettons en question notre service, alors nous devons en fait remettre en question les racines de ce service qui sont la loyauté et l’amour. Nous devons apprendre à faire les ajustements quotidiens nécessaires entre nos convictions personnelles et notre devoir envers la famille et les associés. Nous devons obtenir la satisfaction de parvenir à un mélange de plus en plus harmonieux de convictions personnelles et d’obligations familiales dans un concept magistral de solidarité de groupe basé sur la loyauté, l’équité, la tolérance et l’amour, comme Jésus l’a fait magnifiquement.
 
-«_Qu’est-ce que la loyauté ? C’est le fruit d’une appréciation intelligente de la fraternité universelle. On ne saurait beaucoup prendre sans rien donner. À mesure que vous vous élevez sur l’échelle de la personnalité, vous apprenez d’abord à être loyal, ensuite à aimer, ensuite à être filial, et alors vous pouvez être libre ; ce n’est pas avant d’être devenu un finalitaire, d’avoir atteint la perfection de la loyauté, que vous pourrez réaliser par vous-même la finalité de la liberté._ » ([LU 39:4.11](/fr/The_Urantia_Book/39#p4_11)) Et cette perfection de la loyauté est la première manière dont nous atteignons la perfection, en fait, c'est la seule façon pour nous d'atteindre la perfection au moment où nous sommes enrôlés dans le Corps de la Finalité.
+«_Qu’est-ce que la loyauté ? C’est le fruit d’une appréciation intelligente de la fraternité universelle. On ne saurait beaucoup prendre sans rien donner. À mesure que vous vous élevez sur l’échelle de la personnalité, vous apprenez d’abord à être loyal, ensuite à aimer, ensuite à être filial, et alors vous pouvez être libre ; ce n’est pas avant d’être devenu un finalitaire, d’avoir atteint la perfection de la loyauté, que vous pourrez réaliser par vous-même la finalité de la liberté._ » (<a id="a58_494"></a>[LU 39:4.11](/fr/The_Urantia_Book/39#p4_11)) Et cette perfection de la loyauté est la première manière dont nous atteignons la perfection, en fait, c'est la seule façon pour nous d'atteindre la perfection au moment où nous sommes enrôlés dans le Corps de la Finalité.
 
 [Lire la suite](/fr/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service)
 
@@ -70,7 +70,7 @@ Mais nous ne sommes pas des soldats armés. Nous apportons la bonne nouvelle de 
 
 ---
 
-> « _Si seulement vous vous aimez les uns les autres comme je vous aime, vous serez mes amis et je vous dirai toujours ce que le Père me révèle._ » ([LU 180:1.3](/fr/The_Urantia_Book/180#p1_3))
+> « _Si seulement vous vous aimez les uns les autres comme je vous aime, vous serez mes amis et je vous dirai toujours ce que le Père me révèle._ » (<a id="a72_149"></a>[LU 180:1.3](/fr/The_Urantia_Book/180#p1_3))
 > 
 > Jésus aux apôtres dans le discours d'adieu
 

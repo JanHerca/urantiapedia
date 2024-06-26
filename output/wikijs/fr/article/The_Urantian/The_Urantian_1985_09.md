@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Quel est le nouveau projet de philosophie de vie ?
 
-« _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme._ » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)) Quelles implications ce passage comporte-t-il ? Quelles questions cela soulève-t-il ?
+« _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme._ » (<a id="a36_341"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)) Quelles implications ce passage comporte-t-il ? Quelles questions cela soulève-t-il ?
 
 Le défi religieux. Quelle surprise de proposer celle-ci comme primaire ! Qu’auriez-vous répondu si on vous avait demandé quel est le principal défi religieux de cette époque ? La plupart des religieux trouveraient des réponses très différentes. Ne hochons pas précipitamment notre accord avec le texte et passons rapidement à la ligne édifiante suivante. Afin de savoir si nous sommes d’accord avec l’auteur, nous devons enquêter.
 
@@ -66,7 +66,7 @@ Un grand merci à tous ceux qui ont répondu aux questions que nous avons posée
 
 Cela ne conclut en aucun cas notre intention de publier des travaux axés sur les questions que nous avons soulevées. Si vous avez pris le temps d'examiner attentivement votre réponse, veuillez la mettre par écrit et l'envoyer au _The Journal_. Juste pour vous donner autre chose à penser, voici une autre question, cette fois tirée de la citation suivante du papier 4.
 
-> « _La bonté infinie du Père dépasse la compréhension du mental fini du temps. Pour exposer effectivement toutes les phases de bonté relative, il faut donc toujours fournir un contraste avec un mal (non un péché) servant de comparaison. La perspicacité imparfaite des mortels ne peut discerner la perfection de la bonté divine que parce que celle-ci se trouve associée en relation de contraste avec l’imperfection relative des relations du temps et de la matière dans les mouvements de l’espace._ » ([LU 4:3.6](/fr/The_Urantia_Book/4#p3_6))
+> « _La bonté infinie du Père dépasse la compréhension du mental fini du temps. Pour exposer effectivement toutes les phases de bonté relative, il faut donc toujours fournir un contraste avec un mal (non un péché) servant de comparaison. La perspicacité imparfaite des mortels ne peut discerner la perfection de la bonté divine que parce que celle-ci se trouve associée en relation de contraste avec l’imperfection relative des relations du temps et de la matière dans les mouvements de l’espace._ » (<a id="a68_501"></a>[LU 4:3.6](/fr/The_Urantia_Book/4#p3_6))
 
 _Question_
 
@@ -74,7 +74,7 @@ La nature du mal et la préoccupation quant à sa réalité constituent aujourd�
 
 ---
 
-> « _La différence caractéristique entre la religion évolutionnaire et la religion révélée consiste en une nouvelle qualité de sagesse divine qui s’ajoute à la sagesse humaine purement expérientielle._ » ([LU 100:6.9](/fr/The_Urantia_Book/100#p6_9))
+> « _La différence caractéristique entre la religion évolutionnaire et la religion révélée consiste en une nouvelle qualité de sagesse divine qui s’ajoute à la sagesse humaine purement expérientielle._ » (<a id="a76_205"></a>[LU 100:6.9](/fr/The_Urantia_Book/100#p6_9))
 
 
 

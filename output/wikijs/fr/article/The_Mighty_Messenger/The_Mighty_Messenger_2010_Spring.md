@@ -40,7 +40,7 @@ Les trois intervenants en plénière seront Michelle Klimesh, Andre Radatus et T
 
 Lara Amyx, membre du comité d'éducation et coordonnatrice du programme de la conférence, affirme que certains des animateurs d'ateliers ont indiqué qu’ils auront besoin d'une préparation préalable et d'une pré-inscription pour leurs sessions.
 
-Au-delà de l’étude, il y aura de nombreuses opportunités de vivre des expériences conçues pour « générer un sentiment de communion avec le divin ». [[LU 103:4.1](/fr/The_Urantia_Book/103#p4_1)] Selon Bobbie Dreier, responsable des activités de culte de la conférence, « le campus dispose de terrains spacieux et paisibles pour la réflexion et de belles chapelles pour la méditation, la prière et le culte. »
+Au-delà de l’étude, il y aura de nombreuses opportunités de vivre des expériences conçues pour « générer un sentiment de communion avec le divin ». <a id="a42_148"></a>[[LU 103:4.1](/fr/The_Urantia_Book/103#p4_1)] Selon Bobbie Dreier, responsable des activités de culte de la conférence, « le campus dispose de terrains spacieux et paisibles pour la réflexion et de belles chapelles pour la méditation, la prière et le culte. »
 
 Les séances plénières s'ouvriront dans un esprit de communion, avec des activités conçues pour nous conduire vers Dieu, et la conférence se terminera par une matinée de musique inspirante, de lecture de poésie, de méditation et un souvenir de notre frère créateur Michael.
 
@@ -54,7 +54,7 @@ Le comité d'éducation s'est réuni pour une réunion à Techny Towers il y a q
 
 Par _Michelle Klimesh_
 
-> _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s’imposent si l’on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s’installera pas paisiblement pour un millénaire. Il faut que la race humaine s’adapte à une série de modifications, d’ajustements et de rajustements. L’humanité est en marche vers une nouvelle destinée planétaire non révélée._ ([LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
+> _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s’imposent si l’on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s’installera pas paisiblement pour un millénaire. Il faut que la race humaine s’adapte à une série de modifications, d’ajustements et de rajustements. L’humanité est en marche vers une nouvelle destinée planétaire non révélée._ (<a id="a56_487"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Michelle_Klimesh.jpg">
@@ -183,7 +183,7 @@ La chose la plus puissante que j’ai entendue au Parlement était « Exploitez
 <img src="/image/article/The_Mighty_Messenger/2010_Spring/005729.jpg">
 </figure>
 
-> La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde. ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde. (<a id="a185_645"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
 ## Focus sur la jeunesse : il était temps !
 

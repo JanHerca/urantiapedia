@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Nonobstant que « _la capacité de compréhension intellectuelle de l'homme est épuisée par la conception maximale de l'Être Suprême_ » ([LU 115:3.4](/fr/The_Urantia_Book/115#p3_4)), je sais tout simplement que nous sommes liés parce que nous avons tous deux la même dernière désignation – ÊTRE. Même si, en tant qu'être humain, je ne suis qu'un grain de sable et que lui, en tant qu'Être suprême, est le Sahara de sable, nous sommes pourtant de la même famille.
+Nonobstant que « _la capacité de compréhension intellectuelle de l'homme est épuisée par la conception maximale de l'Être Suprême_ » (<a id="a34_134"></a>[LU 115:3.4](/fr/The_Urantia_Book/115#p3_4)), je sais tout simplement que nous sommes liés parce que nous avons tous deux la même dernière désignation – ÊTRE. Même si, en tant qu'être humain, je ne suis qu'un grain de sable et que lui, en tant qu'Être suprême, est le Sahara de sable, nous sommes pourtant de la même famille.
 
 En essayant de visualiser le Dieu fini et invisible que je n'ai pas encore discerné, j'imagine dans mon esprit la peinture du Vatican de Michel-Ange représentant un Dieu humain, semblable à un père, tendant la main pour toucher la main de l'homme, son fils terrestre. C'est comme si nous étions le bout des doigts du Suprême alors qu'il s'étend jusqu'à la lointaine Urantia du lointain Nébadon, aux limites extrêmes de la frontière du superunivers d'Orvonton et que nous actualisons de plus en plus les potentiels que Dieu nous a donnés. Nos consciences matérielles font partie du système nerveux de l'Être Suprême.
 

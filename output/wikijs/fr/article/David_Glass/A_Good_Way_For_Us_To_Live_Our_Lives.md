@@ -38,7 +38,7 @@ Et la vie d’en bas ressemble à la vie d’en haut.
 
 David E. Glass Plano, Texas
 
-> « Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu’il *a,* alors Dieu fait de cet homme plus qu’il n’est. » ([LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
+> « Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu’il *a,* alors Dieu fait de cet homme plus qu’il n’est. » (<a id="a40_164"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
 
 
 ## Références

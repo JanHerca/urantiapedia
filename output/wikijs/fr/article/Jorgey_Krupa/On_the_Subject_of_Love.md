@@ -85,7 +85,7 @@ Alors, où entre en jeu ma responsabilité envers les autres ? Je suis conscient
 
 La réponse est la suivante : je peux aimer avec intention. Mon intention peut être un exemple. Je peux avoir l’intention de montrer à tous ceux que je rencontre à quoi ressemble l’amour et j'espère que cela déclenchera une étincelle en eux et que cela suffira à les aider à le trouver en eux-mêmes et à apprendre à le mettre en œuvre dans leur propre vie à leur manière. Je ne peux pas les faire changer, mais je peux leur montrer à quoi ressemble la bonté de la croissance et je peux espérer qu’ils y parviendront d’une manière ou d’une autre.
 
-> L’acte est à nous, ses conséquences appartiennent à Dieu. ([LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
+> L’acte est à nous, ses conséquences appartiennent à Dieu. (<a id="a87_61"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/016.jpg">

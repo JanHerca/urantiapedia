@@ -12,7 +12,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 
 
-Notre _Livre d'Urantia_ nous enseigne que nous avons une Mère de l'Univers et un Père de l'Univers et qu'ils sont nos parents spirituels. Il indique qu’ils sont tous deux des créateurs égaux ainsi que des administrateurs égaux. « Un Fils Créateur… et un Esprit Créateur… vous ont créé, vous et votre univers… [et ils] s’occupent des créatures qu’ils ont elles-mêmes créées. » [[LU 8:3.4](/fr/The_Urantia_Book/8#p3_4)] 
+Notre _Livre d'Urantia_ nous enseigne que nous avons une Mère de l'Univers et un Père de l'Univers et qu'ils sont nos parents spirituels. Il indique qu’ils sont tous deux des créateurs égaux ainsi que des administrateurs égaux. « Un Fils Créateur… et un Esprit Créateur… vous ont créé, vous et votre univers… [et ils] s’occupent des créatures qu’ils ont elles-mêmes créées. » <a id="a14_376"></a>[[LU 8:3.4](/fr/The_Urantia_Book/8#p3_4)] 
 
 En tant qu’Urantiens, nous devons garder la proue de notre bateau bien orientée vers la vague du changement. Les auteurs avant-gardistes de notre livre nous ont apporté de nouvelles idées et idéaux de changement. 
 
@@ -30,7 +30,7 @@ Parfois, c’est comme si nous l’avions enfermée, cachée dans un placard et 
 
 Je crois que nos propres anges et nos anges spéciaux du progrès nous demandent cela : être plus équilibrés que dans d’autres mondes non déchirés par la rébellion. Là, ils aiment, honorent et respectent notre Mère de l’Univers et notre Père de l’Univers en tant que parents et créateurs spirituels universels. C'est la bonne nouvelle que notre bien-aimé _Livre d'Urantia_ nous enseigne. Nous sommes à la pêche aux âmes prêtes à rechercher la vérité avec ces enseignements ! 
 
-> « Les exécuteurs divins sont passés maitres dans l’art de manipuler ce qui existe dans l’intérêt de ce qui devrait être. » ([LU 25:3.5](/fr/The_Urantia_Book/25#p3_5))
+> « Les exécuteurs divins sont passés maitres dans l’art de manipuler ce qui existe dans l’intérêt de ce qui devrait être. » (<a id="a32_126"></a>[LU 25:3.5](/fr/The_Urantia_Book/25#p3_5))
 
 Il existe trois circuits spirituels distincts qui habitent notre monde et notre Univers. Ce sont : 1) Notre Mère Divine et son Saint-Esprit, 2) notre Père Divin et son Esprit de Vérité et 3) les Esprits Mentaux Adjudants. 
 

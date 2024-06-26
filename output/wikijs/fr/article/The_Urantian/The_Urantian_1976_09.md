@@ -32,15 +32,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> « _...L’attitude consistant à servir l’homme avec désintéressement et à adorer Dieu intelligemment devrait faire de tous les croyants au royaume de meilleurs citoyens du monde, tandis que l’attitude consistant à être un citoyen honnête et à se dévouer sincèrement à son devoir terrestre devrait aider à rendre de tels citoyens d’autant plus accessibles à l’appel de l’esprit à la filiation dans le royaume céleste._ » ([LU 178:1.8](/fr/The_Urantia_Book/178#p1_8))
+> « _...L’attitude consistant à servir l’homme avec désintéressement et à adorer Dieu intelligemment devrait faire de tous les croyants au royaume de meilleurs citoyens du monde, tandis que l’attitude consistant à être un citoyen honnête et à se dévouer sincèrement à son devoir terrestre devrait aider à rendre de tels citoyens d’autant plus accessibles à l’appel de l’esprit à la filiation dans le royaume céleste._ » (<a id="a34_421"></a>[LU 178:1.8](/fr/The_Urantia_Book/178#p1_8))
 
 ## Quelques réflexions sur le service
 
 Il était une fois, selon un mythe ancien, certains dieux décidèrent de visiter la terre, incognito, afin de participer à une grande fête. Déguisés en humains, ils se mêlèrent sans attirer l'attention jusqu'à ce qu'ils s'asseyent pour le festin. Là, lors du banquet, les dieux « ont fait sauter leur couverture ». Tandis que les hommes s'empiffraient avec gourmandise, on observait que les dieux se mettaient les morceaux les plus délicieux dans la bouche, une action qui n'était pas du tout habituelle chez les mortels.
 
-Le partage est divin. Le partage est l'un des modèles éternels de Dieu. De plus, _Le Livre d'URANTIA_ nous dit : « _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu…_ » ([LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)), pour inviter le Créateur pour participer à notre vie créative.
+Le partage est divin. Le partage est l'un des modèles éternels de Dieu. De plus, _Le Livre d'URANTIA_ nous dit : « _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu…_ » (<a id="a40_271"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1)), pour inviter le Créateur pour participer à notre vie créative.
 
-Quelle est la vie idéale ? Celui du service amoureux – service de Dieu et service de l’homme, l’un inséparable de l’autre. Dieu partage lui-même avec moi, et je peux choisir de répondre à ce don d'amour en vivant de la manière suggérée sur [LU 110:3.6](/fr/The_Urantia_Book/110#p3_6) du _Livre d'URANTIA_, et si magnifiquement démontrée par le Maître.
+Quelle est la vie idéale ? Celui du service amoureux – service de Dieu et service de l’homme, l’un inséparable de l’autre. Dieu partage lui-même avec moi, et je peux choisir de répondre à ce don d'amour en vivant de la manière suggérée sur <a id="a42_240"></a>[LU 110:3.6](/fr/The_Urantia_Book/110#p3_6) du _Livre d'URANTIA_, et si magnifiquement démontrée par le Maître.
 
 [Lire la suite](/fr/article/Marjorie_Reed/Some_Thoughts_On_Service)
 
@@ -68,9 +68,9 @@ Maintenant, après un certain temps et quelques ajustements de pensée, je pense
 
 —_Michael Peintre_
 
-> « _L’amour est la manifestation de l’impulsion vitale intérieure et divine. Il est fondé sur la compréhension, entretenu par le service désintéressé et accompli dans la sagesse._ » ([LU 174:1.5](/fr/The_Urantia_Book/174#p1_5))
+> « _L’amour est la manifestation de l’impulsion vitale intérieure et divine. Il est fondé sur la compréhension, entretenu par le service désintéressé et accompli dans la sagesse._ » (<a id="a70_184"></a>[LU 174:1.5](/fr/The_Urantia_Book/174#p1_5))
 
-> « _...car la fraternité et le service sont les pierres angulaires de l’évangile du royaume._ » ([LU 178:1.4](/fr/The_Urantia_Book/178#p1_4))
+> « _...car la fraternité et le service sont les pierres angulaires de l’évangile du royaume._ » (<a id="a72_98"></a>[LU 178:1.4](/fr/The_Urantia_Book/178#p1_4))
 
 ## Les cailloux frottants
 
@@ -108,7 +108,7 @@ Notre groupe d'introduction est ouvert à toute personne souhaitant discuter du 
 
 > « _... Le privilège de servir suit immédiatement la découverte de la loyauté. ... "_
 > 
-> « _Service — plus de service, service accru, service difficile, service aventureux, et enfin service divin et parfait — tel est le but du temps et la destination de l’espace._ » ([LU 28:6.17-18](/fr/The_Urantia_Book/28#p6_17)).
+> « _Service — plus de service, service accru, service difficile, service aventureux, et enfin service divin et parfait — tel est le but du temps et la destination de l’espace._ » (<a id="a110_181"></a>[LU 28:6.17-18](/fr/The_Urantia_Book/28#p6_17)).
 
 
 

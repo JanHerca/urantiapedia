@@ -54,9 +54,9 @@ _Pune, Inde_
 
 ## Révélation et réceptivité
 
-La révélation est aussi vieille que l’homme. En fait, cela le définit. Lorsque les adjudants de l'adoration et de la sagesse sont devenus pleinement actifs dans l'esprit d'Andon et de Fonta, le Porteur de Vie nous dit que « _l'esprit de la dignité de la volonté_ » ([LU 62:7.4](/fr/The_Urantia_Book/62#p7_4)) était arrivé sur Urantia. Les aborigènes étaient devenus des hommes. Et ici nous avons le message clair que la révélation n’est pas nécessairement une expérience de l’esprit conscient.
+La révélation est aussi vieille que l’homme. En fait, cela le définit. Lorsque les adjudants de l'adoration et de la sagesse sont devenus pleinement actifs dans l'esprit d'Andon et de Fonta, le Porteur de Vie nous dit que « _l'esprit de la dignité de la volonté_ » (<a id="a56_266"></a>[LU 62:7.4](/fr/The_Urantia_Book/62#p7_4)) était arrivé sur Urantia. Les aborigènes étaient devenus des hommes. Et ici nous avons le message clair que la révélation n’est pas nécessairement une expérience de l’esprit conscient.
 
-Dans _Le Livre d'URANTIA_, on nous parle beaucoup de la révélation, de sa nature et de sa fonction. Il existe deux formes, épochale et automatique. ([LU 101:4.4](/fr/The_Urantia_Book/101#p4_4)) Jusqu'à présent sur Urantia, il y a eu cinq révélations d'époque : le Prince Planétaire, Caligastia ; le Fils et la Fille Matériels, Adam et Ève ; le Fils d'Urgence, Machiventa Melchizédek ; le Fils Créateur, Jésus de Nazareth ; et les Cahiers URANTIA, La révélation d'époque est la fonction d'une agence, d'une personnalité ou d'un groupe céleste. La deuxième forme est l’auto-révélation ; c'est la communication consciente et inconsciente entre le supramortel et le mortel. L'auto-révélation vient de l'Ajusteur de Pensée et d'autres êtres ou circuits spirituels jusqu'à l'esprit mortel individuel. 
+Dans _Le Livre d'URANTIA_, on nous parle beaucoup de la révélation, de sa nature et de sa fonction. Il existe deux formes, épochale et automatique. (<a id="a58_149"></a>[LU 101:4.4](/fr/The_Urantia_Book/101#p4_4)) Jusqu'à présent sur Urantia, il y a eu cinq révélations d'époque : le Prince Planétaire, Caligastia ; le Fils et la Fille Matériels, Adam et Ève ; le Fils d'Urgence, Machiventa Melchizédek ; le Fils Créateur, Jésus de Nazareth ; et les Cahiers URANTIA, La révélation d'époque est la fonction d'une agence, d'une personnalité ou d'un groupe céleste. La deuxième forme est l’auto-révélation ; c'est la communication consciente et inconsciente entre le supramortel et le mortel. L'auto-révélation vient de l'Ajusteur de Pensée et d'autres êtres ou circuits spirituels jusqu'à l'esprit mortel individuel. 
 
 [Lire la suite](/fr/article/Helena_E_Sprague/Revelation_and_receptivity)
 
@@ -76,7 +76,7 @@ _Concord, Californie_
 
 Notre calendrier éditorial est tel que ce numéro du _The Journal_ a été rédigé bien trop tôt pour inclure des réponses à la première question que nous avons soumise à nos lecteurs. Espérons que cette question aura inspiré une réflexion que nous pourrons partager avec vous dans les prochains numéros. En attendant, nous essaierons d'aider à maintenir le flux mental avec une autre question, basée sur la citation suivante du fascicule 2 du _Livre d'URANTIA_ :
 
-> « _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine,_ » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> « _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine,_ » (<a id="a78_308"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 **Question**
 
@@ -88,7 +88,7 @@ Comme nous l'avons indiqué dans notre dernier numéro, même si notre intention
 
 ---
 
-> « _Une philosophie de la religion nait d’une croissance fondamentale des idées, accrue de la vie expérimentale, toutes deux modifiées par la tendance à imiter des compagnons. La solidité des conclusions philosophiques dépend de la pénétration, de l’honnêteté et de la discrimination dans la manière de penser en relation avec la sensibilité aux significations et la justesse d’évaluation. Les êtres moralement lâches n’atteignent jamais des niveaux élevés de pensée philosophique. Il faut du courage pour pénétrer de nouveaux plans d’expérience et pour tenter l’exploration des domaines inconnus de la vie intellectuelle._ » ([LU 101:7.2](/fr/The_Urantia_Book/101#p7_2))
+> « _Une philosophie de la religion nait d’une croissance fondamentale des idées, accrue de la vie expérimentale, toutes deux modifiées par la tendance à imiter des compagnons. La solidité des conclusions philosophiques dépend de la pénétration, de l’honnêteté et de la discrimination dans la manière de penser en relation avec la sensibilité aux significations et la justesse d’évaluation. Les êtres moralement lâches n’atteignent jamais des niveaux élevés de pensée philosophique. Il faut du courage pour pénétrer de nouveaux plans d’expérience et pour tenter l’exploration des domaines inconnus de la vie intellectuelle._ » (<a id="a90_628"></a>[LU 101:7.2](/fr/The_Urantia_Book/101#p7_2))
 
 
 

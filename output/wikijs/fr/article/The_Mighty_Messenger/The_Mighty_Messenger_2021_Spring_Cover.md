@@ -72,7 +72,7 @@ Broomfield, Colorado
 80021 États-Unis
 (303) 467-7858
 
-> Les hautes civilisations naissent d’une liaison sagace entre la richesse matérielle, la grandeur intellectuelle, la valeur morale, l’habileté sociale et la clairvoyance cosmique. ([LU 81:6.38](/fr/The_Urantia_Book/81#p6_38))
+> Les hautes civilisations naissent d’une liaison sagace entre la richesse matérielle, la grandeur intellectuelle, la valeur morale, l’habileté sociale et la clairvoyance cosmique. (<a id="a74_182"></a>[LU 81:6.38](/fr/The_Urantia_Book/81#p6_38))
 
 ## Liens externes
 

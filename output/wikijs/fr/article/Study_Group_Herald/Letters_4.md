@@ -138,12 +138,12 @@ Aux lecteurs internationaux,
 Méthode recommandée de lecture du _Livre d’Urantia_ :
 
 1. [LU 195](/fr/The_Urantia_Book/195) — [LU 196](/fr/The_Urantia_Book/196) Les deux derniers articles du livre intitulé « Après la Pentecôte » et « La foi de Jésus ».
-2. [LU 71:6](/fr/The_Urantia_Book/71#p6) — les trois paragraphes sur « La motivation du profit ».
-3. [LU 132:5](/fr/The_Urantia_Book/132#p5) intitulé « Conseiller l’homme riche ».
+2. <a id="a140_3"></a>[LU 71:6](/fr/The_Urantia_Book/71#p6) — les trois paragraphes sur « La motivation du profit ».
+3. <a id="a141_3"></a>[LU 132:5](/fr/The_Urantia_Book/132#p5) intitulé « Conseiller l’homme riche ».
 4. [LU 100](/fr/The_Urantia_Book/100), [LU 101](/fr/The_Urantia_Book/101), [LU 102](/fr/The_Urantia_Book/102), [LU 103](/fr/The_Urantia_Book/103) — les journaux intitulés « La religion dans l’humanité » Expérience », « La vraie nature de la religion », « Fondements de la foi religieuse » et « La réalité de l’expérience religieuse ». (Même si à première vue, cette séquence peut sembler sans continuité, elle donnera en fait au lecteur potentiel une idée de ce qu'est ce livre extrêmement complexe.)
-5. Partie IV, « La vie et les enseignements de Jésus » à partir de [LU 120:0.1](/fr/The_Urantia_Book/120#p0_1).
-6. Partie III, « L’histoire d’Urantia » commence le [LU 57:0.1](/fr/The_Urantia_Book/57#p0_1).
-7. Partie II, « L’univers local » démarre ou [LU 31:9.1](/fr/The_Urantia_Book/31#p9_1).
+5. Partie IV, « La vie et les enseignements de Jésus » à partir de <a id="a143_67"></a>[LU 120:0.1](/fr/The_Urantia_Book/120#p0_1).
+6. Partie III, « L’histoire d’Urantia » commence le <a id="a144_52"></a>[LU 57:0.1](/fr/The_Urantia_Book/57#p0_1).
+7. Partie II, « L’univers local » démarre ou <a id="a145_45"></a>[LU 31:9.1](/fr/The_Urantia_Book/31#p9_1).
 8. L’Univers Central et les Super univers.
 9. L’avant-propos — c'est probablement la partie du livre la plus difficile à comprendre.
 

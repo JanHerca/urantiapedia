@@ -43,7 +43,7 @@ La clarté et la portée de nos perceptions individuelles ainsi que la force et 
 
 Et même ce cycle maître, dont nous considérons la phase actuelle comme l’évolution du Suprême, ce vent va aussi tourner. Dans la plénitude des temps, lorsque tout l'univers des univers sera réglé dans la lumière et la vie, alors une vaste nouvelle phase commencera – une phase, sans aucun doute, de retour à l'imperfection du prochain âge de l'univers, quelque part dans l'espace extra-atmosphérique. les niveaux. Et à mesure que ces âges passent, nous jouirons d’une éternité de service parfait.
 
-> « _Ce qu’un fils désire et que le Père veut arrivera en toute certitude._ » ([LU 118:6.5](/fr/The_Urantia_Book/118#p6_5))
+> « _Ce qu’un fils désire et que le Père veut arrivera en toute certitude._ » (<a id="a45_79"></a>[LU 118:6.5](/fr/The_Urantia_Book/118#p6_5))
 
 
 -_John M. Andrews_

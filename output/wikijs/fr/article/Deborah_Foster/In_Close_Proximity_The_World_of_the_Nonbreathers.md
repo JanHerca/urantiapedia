@@ -38,21 +38,21 @@ dateCreated: 2023-10-23T10:55:6Z
 **Par Déborah Foster**
 **Ancrage, Alaska**
 
-> _La conduite planétaire des non-respirateurs présenterait plus que de l’intérêt pour vous, parce qu’une race de ces êtres habite une sphère très proche d’Urantia._ ([LU 49:3.6](/fr/The_Urantia_Book/49#p3_6))
+> _La conduite planétaire des non-respirateurs présenterait plus que de l’intérêt pour vous, parce qu’une race de ces êtres habite une sphère très proche d’Urantia._ (<a id="a40_167"></a>[LU 49:3.6](/fr/The_Urantia_Book/49#p3_6))
 
 Parmi les nombreuses déclarations intrigantes du _Livre d’Urantia_, celle concernant l’emplacement d’un monde de mortels sans respiration a toujours été la plus alléchante. Qu’est-ce que la proximité exactement ? Les auteurs utilisent-ils leurs référentiels ou les nôtres ? Les humains pourraient-ils trouver ce monde ?
 
 En regardant autour de nous, les étoiles les plus proches se trouvent dans le système Alpha Centauri, à environ 4,29 années-lumière (25 000 milliards de milles)[^1] de nous. Il s'agit d’un système triple étoile contenant Alpha Centauri A, Alpha Centauri B et Proxima Centauri. Et cela pourrait être un bon candidat pour l’emplacement d’Anova.
 
-> « _Le plus ancien monde habité de Satania, le monde numéro 1, est Anova, l’un des 44 satellites tournant autour d’une énorme planète obscure, mais exposée à la lumière différentielle de trois soleils voisins. Anova est dans un état avancé de civilisation progressive._ » ([LU 49:0.5](/fr/The_Urantia_Book/49#p0_5))
+> « _Le plus ancien monde habité de Satania, le monde numéro 1, est Anova, l’un des 44 satellites tournant autour d’une énorme planète obscure, mais exposée à la lumière différentielle de trois soleils voisins. Anova est dans un état avancé de civilisation progressive._ » (<a id="a46_274"></a>[LU 49:0.5](/fr/The_Urantia_Book/49#p0_5))
 
 Vingt-cinq mille milliards de kilomètres représentent un voyage, alors en regardant un peu plus près de chez nous, notre propre système solaire, nous lisons :
 
-> « _Dans votre système solaire, trois planètes seulement sont présentement appropriées pour héberger la vie._ » ([LU 15:6.15](/fr/The_Urantia_Book/15#p6_15))
+> « _Dans votre système solaire, trois planètes seulement sont présentement appropriées pour héberger la vie._ » (<a id="a50_114"></a>[LU 15:6.15](/fr/The_Urantia_Book/15#p6_15))
 
 Les auteurs nomment ces planètes et désignent les types de mortels qui les habiteraient. Vénus abriterait des super-respirateurs et Mars, avec sa fine atmosphère, abriterait des sous-respirateurs. L’autre planète, bien entendu, est Urantia. Le Melchisédek de l’École d’Administration Planétaire de Jérusem, qui a écrit le Fascicule 49 – Les Mondes Habités, nous dit ensuite :
 
-> « _Si des mortels habitaient une planète dépourvue d’air comme votre lune, ils appartiendraient à l’ordre distinct des non-respirateurs. Ce type représente une adaptation radicale ou extrême au milieu planétaire, et il est étudié séparément. Les mondes des non-respirateurs représentent le un-et-demi pour cent restant des mondes de Satania._ » ([LU 49:2.14](/fr/The_Urantia_Book/49#p2_14))
+> « _Si des mortels habitaient une planète dépourvue d’air comme votre lune, ils appartiendraient à l’ordre distinct des non-respirateurs. Ce type représente une adaptation radicale ou extrême au milieu planétaire, et il est étudié séparément. Les mondes des non-respirateurs représentent le un-et-demi pour cent restant des mondes de Satania._ » (<a id="a54_348"></a>[LU 49:2.14](/fr/The_Urantia_Book/49#p2_14))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/Europa.jpg">
@@ -78,7 +78,7 @@ Plusieurs caractéristiques font d’Europe le foyer des non-respirants :
 
 2\. Le satellite serait situé là où il existe un risque d’« orages électriques désastreux ».
 
-> « Ces mondes sont également sujets à de désastreux orages électriques, d’une nature inconnue sur Urantia. Pendant ces moments de formidables fluctuations énergétiques, les habitants doivent se réfugier dans leurs constructions spéciales d’isolement protecteur. » ([LU 49:3.3](/fr/The_Urantia_Book/49#p3_3))
+> « Ces mondes sont également sujets à de désastreux orages électriques, d’une nature inconnue sur Urantia. Pendant ces moments de formidables fluctuations énergétiques, les habitants doivent se réfugier dans leurs constructions spéciales d’isolement protecteur. » (<a id="a80_266"></a>[LU 49:3.3](/fr/The_Urantia_Book/49#p3_3))
 
 La rotation rapide de Jupiter, sur une période de 10 heures, crée un immense champ magnétique qui enveloppe la planète, ses lunes et l’espace environnant jusqu'à Saturne. S’il était visible depuis la Terre, ce champ, appelé magnétosphère, aurait l’air aussi grand que le soleil. Dans la magnétosphère se trouvent des nappes de courant électrique qui tournent au-dessus et au-dessous de l’équateur de la planète, un tore de plasma qui transporte 5 à 10 millions d’ampères de courant à 400 000 volts. Ces ceintures de radiations émettent suffisamment de radiations pour tuer des humains des centaines de fois.[^4]
 
@@ -86,7 +86,7 @@ La plus grande aurore jamais vue, longue de 18 000 milles, a été observée au-
 
 3\. Preuve de protection contre les météores, comme l’absence de cratères de météores.
 
-> « Des millions et des millions de météorites pénètrent quotidiennement l’atmosphère d’Urantia et arrivent à une vitesse de l’ordre de 320 kilomètres par seconde. Sur les mondes où l’on ne respire pas, les races évoluées doivent beaucoup se protéger des dommages météoriques en établissant des installations électriques qui consument ou détournent les météores. De grands dangers les menacent quand elles s’aventurent au-delà des zones protégées. » ([LU 49:3.3](/fr/The_Urantia_Book/49#p3_3))
+> « Des millions et des millions de météorites pénètrent quotidiennement l’atmosphère d’Urantia et arrivent à une vitesse de l’ordre de 320 kilomètres par seconde. Sur les mondes où l’on ne respire pas, les races évoluées doivent beaucoup se protéger des dommages météoriques en établissant des installations électriques qui consument ou détournent les météores. De grands dangers les menacent quand elles s’aventurent au-delà des zones protégées. » (<a id="a88_451"></a>[LU 49:3.3](/fr/The_Urantia_Book/49#p3_3))
 
 Avec des installations qui « consomment ou détournent les météores », le résultat de cette action serait un monde sans cratères sérieux et sans endroit vers lequel ces météores seraient dirigés. Europe a été comparée à une « boule de billard blanche marquée avec un feutre ».6 C'est le corps le plus lisse de notre système solaire. Presque tous les autres satellites de notre système solaire ont une apparence qui est une variation de notre propre lune, avec de nombreux cratères de différentes tailles dispersés sur toute leur surface. Mais sur Europe, seuls trois à douze cratères ont été cartographiés avec certitude.
 
@@ -98,7 +98,7 @@ Cela peut expliquer la forme particulière de la comète Shoemaker-Levy 9, qui s
 
 4\. Preuve de caractéristiques inhabituelles pouvant indiquer un esprit créatif au travail.
 
-> « Pendant ces moments de formidables fluctuations énergétiques, les habitants doivent se réfugier dans leurs constructions spéciales d’isolement protecteur. » ([LU 49:3.3](/fr/The_Urantia_Book/49#p3_3))
+> « Pendant ces moments de formidables fluctuations énergétiques, les habitants doivent se réfugier dans leurs constructions spéciales d’isolement protecteur. » (<a id="a100_162"></a>[LU 49:3.3](/fr/The_Urantia_Book/49#p3_3))
 
 La lune est couverte de stries claires et sombres entrecoupées de nombreuses taches sombres aléatoires. Les zones les plus sombres ont une apparence organique définitive pour le non-scientifique. Peut-être que ces stries sont la vie végétale d’Europe. Voici la description des traînées lumineuses par la NASA : « L’un des phénomènes géologiques les plus remarquables découverts par Voyager sont les traînées lumineuses qui apparaissent sur Europe. Celles-ci sont plus petites que les stries sombres, d’une largeur d’environ 10 kilomètres seulement, mais beaucoup plus uniformes. Vus sous un faible angle du Soleil, ils présentent un relief vertical inférieur à quelques centaines de mètres. Ces crêtes lumineuses sont mieux visibles lorsque le soleil est bas et ont tendance à être visibles sous des angles d’éclairage plus élevés. La chose la plus étonnante à propos des crêtes lumineuses est leur forme. Au lieu d’être droits, ils forment des coquilles Saint-Jacques ou des cuspides aux courbes douces qui se répètent régulièrement sur une échelle de 100 à quelques centaines de kilomètres. Sur certaines photos prises sous un faible angle de soleil, la surface d’Europe semble être recouverte d’un magnifique réseau de ces lignes courbes régulières. L’impression est si bizarre qu’on a tendance à ne pas croire la réalité de ce qu’on voit. Rien de comparable n’a jamais été vu sur aucune autre planète. »[^8]
 

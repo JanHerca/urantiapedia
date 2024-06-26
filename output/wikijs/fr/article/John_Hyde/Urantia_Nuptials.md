@@ -37,7 +37,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 _Rapporté par John Hyde, Richardson, Texas_
 
-> « De toutes les relations sociales instaurées pour développer le caractère, la plus efficace et la plus idéale est l’amitié affectueuse et compréhensive d’un homme et d’une femme réunis par un lien conjugal intelligent. Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort. (Rodan) » ([LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
+> « De toutes les relations sociales instaurées pour développer le caractère, la plus efficace et la plus idéale est l’amitié affectueuse et compréhensive d’un homme et d’une femme réunis par un lien conjugal intelligent. Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort. (Rodan) » (<a id="a39_416"></a>[LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
 
 Ces idéaux et aspirations ont été clairement exprimés au début de l’été 1991 lors de cérémonies réunissant Dianne Trouy et Terry Matheny au Texas, Karen Johnson et Tom Allen en Oklahoma, et Joan Batson et Larry Mullins au Colorado.
 

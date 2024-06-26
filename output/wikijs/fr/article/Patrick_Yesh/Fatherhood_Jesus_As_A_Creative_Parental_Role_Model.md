@@ -45,16 +45,16 @@ Bien sûr, en tant que modèle parental, la ligne directrice de Jésus était de
 
 Numéros de pages | Commence/finit par :
 --- | ---
-[LU 126:2.1-8](/fr/The_Urantia_Book/126#p2_1) | Tout s'est bien passé/obligation
-[LU 118:8.10](/fr/The_Urantia_Book/118#p8_10) | Petit à petit/famille
-[LU 127:4.1](/fr/The_Urantia_Book/127#p4_1) | À cette heure/ville
-[LU 127:6.12](/fr/The_Urantia_Book/127#p6_12) | Jésus est rapide/éternité
-[LU 128:2.4](/fr/The_Urantia_Book/128#p2_4) | Avant/suggestions
-[LU 128:7.13](/fr/The_Urantia_Book/128#p7_13) | Le lendemain/famille
-[LU 140:5.1](/fr/The_Urantia_Book/140#p5_1) | Extrait du Sermon/injustice
-[LU 141:3.3](/fr/The_Urantia_Book/141#p3_3) | Andrew/enfants
-[LU 142:7.4](/fr/The_Urantia_Book/142#p7_4) | Il a ensuite expliqué/parfait
-[LU 170:3.6](/fr/The_Urantia_Book/170#p3_6) | La justice/les camarades
+<a id="a47_0"></a>[LU 126:2.1-8](/fr/The_Urantia_Book/126#p2_1) | Tout s'est bien passé/obligation
+<a id="a48_0"></a>[LU 118:8.10](/fr/The_Urantia_Book/118#p8_10) | Petit à petit/famille
+<a id="a49_0"></a>[LU 127:4.1](/fr/The_Urantia_Book/127#p4_1) | À cette heure/ville
+<a id="a50_0"></a>[LU 127:6.12](/fr/The_Urantia_Book/127#p6_12) | Jésus est rapide/éternité
+<a id="a51_0"></a>[LU 128:2.4](/fr/The_Urantia_Book/128#p2_4) | Avant/suggestions
+<a id="a52_0"></a>[LU 128:7.13](/fr/The_Urantia_Book/128#p7_13) | Le lendemain/famille
+<a id="a53_0"></a>[LU 140:5.1](/fr/The_Urantia_Book/140#p5_1) | Extrait du Sermon/injustice
+<a id="a54_0"></a>[LU 141:3.3](/fr/The_Urantia_Book/141#p3_3) | Andrew/enfants
+<a id="a55_0"></a>[LU 142:7.4](/fr/The_Urantia_Book/142#p7_4) | Il a ensuite expliqué/parfait
+<a id="a56_0"></a>[LU 170:3.6](/fr/The_Urantia_Book/170#p3_6) | La justice/les camarades
 
 
 

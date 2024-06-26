@@ -45,7 +45,7 @@ Il est possible que nous n'ayons pas appliqué correctement ou pleinement les en
 — _Dan Massey_
 _Sherborn, Massachusetts_
 
-> « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, créée conjointement par le mental humain ..._ » ([LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))
+> « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, créée conjointement par le mental humain ..._ » (<a id="a47_240"></a>[LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))
 
 
 

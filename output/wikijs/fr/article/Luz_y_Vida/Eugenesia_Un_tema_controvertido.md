@@ -73,7 +73,7 @@ C'est un sujet difficile et délicat. Espérons que l’analyse du génome et la
 
 Mais aujourd’hui, j’ai aussi du mal, notamment parce que qui jugera de ce qu’il faut ou ne doit pas faire ? Ou qui décidera à qui l’appliquer ? Avec combien nos systèmes judiciaires sont encore défectueux et combien nous avons encore besoin que les hommes politiques soient les meilleurs, les plus loyaux citoyens prêts à servir (et non à se servir eux-mêmes), pour leur confier de telles décisions !
 
-Les révélateurs nous le disent déjà dans le paragraphe <a id="a75_56"></a>[LU 51:4.8](/fr/The_Urantia_Book/51#p4_8).
+Les révélateurs nous le disent déjà dans le paragraphe <a id="a75_55"></a>[LU 51:4.8](/fr/The_Urantia_Book/51#p4_8).
 
 ## Santiago
 

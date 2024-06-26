@@ -60,7 +60,7 @@ Beaucoup de ceux qui ont été réconfortés par les religions extrinsèques du 
 _Mario C.J. Harrington_
 _Pompano Beach, Floride_
 
-> « _Admettre que l’univers peut être connu et qu’il est intelligible, c’est admettre qu’il est construit par un mental et dirigé par une personnalité. Le mental de l’homme ne peut que percevoir les phénomènes mentaux dans un autre mental, qu’il soit humain ou suprahumain. Si la personnalité de l’homme peut faire l’expérience de l’univers, c’est qu’il y a un mental divin et une personnalité actuelle recélés quelque part dans cet univers._ » ([LU 1:6.7](/fr/The_Urantia_Book/1#p6_7))
+> « _Admettre que l’univers peut être connu et qu’il est intelligible, c’est admettre qu’il est construit par un mental et dirigé par une personnalité. Le mental de l’homme ne peut que percevoir les phénomènes mentaux dans un autre mental, qu’il soit humain ou suprahumain. Si la personnalité de l’homme peut faire l’expérience de l’univers, c’est qu’il y a un mental divin et une personnalité actuelle recélés quelque part dans cet univers._ » (<a id="a62_446"></a>[LU 1:6.7](/fr/The_Urantia_Book/1#p6_7))
 
 
 

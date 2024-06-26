@@ -91,7 +91,7 @@ Nous devrions nous demander qu'avons-nous appris dans ce processus, ce processus
 
 Peep a fait référence à l'incertitude du processus dont nous faisons partie avec une citation du _Livre d'Urantia_.
 
-> _Dans les âges planétaires plus avancés, ces séraphins font mieux apprécier aux hommes la vérité que l’incertitude est le secret d’une continuité satisfaisante. Ils aident les philosophes mortels à comprendre que, dans les circonstances où il est essentiel d’ignorer pour réussir, ce serait une bévue colossale de laisser les créatures connaitre l’avenir. Ils rehaussent le gout des hommes pour la douceur de l’incertitude, pour le romanesque et le charme d’un avenir imprécis et inconnu._ ([LU 39:5.9](/fr/The_Urantia_Book/39#p5_9))
+> _Dans les âges planétaires plus avancés, ces séraphins font mieux apprécier aux hommes la vérité que l’incertitude est le secret d’une continuité satisfaisante. Ils aident les philosophes mortels à comprendre que, dans les circonstances où il est essentiel d’ignorer pour réussir, ce serait une bévue colossale de laisser les créatures connaitre l’avenir. Ils rehaussent le gout des hommes pour la douceur de l’incertitude, pour le romanesque et le charme d’un avenir imprécis et inconnu._ (<a id="a93_493"></a>[LU 39:5.9](/fr/The_Urantia_Book/39#p5_9))
 
 Pouvons-nous tous reconnaître ce processus dont nous faisons partie et respirer la « douceur de l’incertitude » ? Avons-nous la volonté de dépasser nos comportements non coopératifs et de continuer à résoudre notre manque d’unité ? Avons-nous le courage de donner au Maître ce qu'il veut vraiment au sein de notre communauté ? Au nom de notre Maître, je prie pour que nous le fassions. Et je prie pour que ce soit aussi votre prière !
 

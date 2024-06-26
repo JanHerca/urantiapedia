@@ -93,7 +93,7 @@ Jésus n’a jamais raconté à la famille ce qui était arrivé à Jude lors de
 <img src="/image/article/Study_Group_Herald/Jesus_Judas2.jpg">
 </figure>
 
-> Éd. Remarque : Cette histoire est tirée du Livre d'Urantia : [LU 128:6.5-8](/fr/The_Urantia_Book/128#p6_5)
+> Éd. Remarque : Cette histoire est tirée du Livre d'Urantia : <a id="a95_63"></a>[LU 128:6.5-8](/fr/The_Urantia_Book/128#p6_5)
 {.is-info}
 
 <figure class="table chapter-navigator">

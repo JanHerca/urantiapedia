@@ -85,9 +85,9 @@ Les Whole Life Expos auront lieu ce printemps à Boston, Atlanta, Austin, West P
 <img src="/image/article/Study_Group_Herald/candle.jpg">
 </figure>
 
-> « De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers. » ([LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
+> « De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers. » (<a id="a87_315"></a>[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
 
-> « Si vous désirez vraiment trouver Dieu, vous ne pouvez éviter de voir naitre dans votre mental la conscience du Suprême. De même que Dieu est votre Père divin, de même le Suprême est votre Mère divine, en qui vous êtes nourri pendant toute votre vie de créature de l’univers. « Combien le Suprême est universel — on le trouve de tous côtés ! Les choses innombrables de la création dépendent de sa présence pour vivre, et nul ne se la voit refuser. » » ([LU 117:6.2](/fr/The_Urantia_Book/117#p6_2))
+> « Si vous désirez vraiment trouver Dieu, vous ne pouvez éviter de voir naitre dans votre mental la conscience du Suprême. De même que Dieu est votre Père divin, de même le Suprême est votre Mère divine, en qui vous êtes nourri pendant toute votre vie de créature de l’univers. « Combien le Suprême est universel — on le trouve de tous côtés ! Les choses innombrables de la création dépendent de sa présence pour vivre, et nul ne se la voit refuser. » » (<a id="a89_456"></a>[LU 117:6.2](/fr/The_Urantia_Book/117#p6_2))
 
 
 

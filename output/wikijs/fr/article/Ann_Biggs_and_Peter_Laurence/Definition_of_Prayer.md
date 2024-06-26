@@ -47,13 +47,13 @@ par _Ann Biggs et Peter Laurence_
 
 Notre groupe de York, en Pennsylvanie, s'est récemment joint à Stevie Shaefer's
 
-Groupe d'Alexandria, en Virginie, certains dimanches de chaque mois. Entre les deux groupes, nous avons une réunion chaque dimanche. En étudiant le fascicule 196, j'ai exprimé mon sentiment d'être submergé par [LU 196:0.10](/fr/The_Urantia_Book/196#p0_10), la prière de Jésus comme « une expression d'attitude spirituelle ».
+Groupe d'Alexandria, en Virginie, certains dimanches de chaque mois. Entre les deux groupes, nous avons une réunion chaque dimanche. En étudiant le fascicule 196, j'ai exprimé mon sentiment d'être submergé par <a id="a49_210"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10), la prière de Jésus comme « une expression d'attitude spirituelle ».
 
 Le lendemain, Peter Laurence a développé une série d'environ 24 questions à ce sujet, nous avons longuement discuté de chacune au téléphone, puis j'ai mis ces concepts et points de discussion sur des diapositives illustrées pour un atelier un dimanche. C’était stimulant et très utile en fait, de voir comment nous pouvons traiter la prière et la communion avec Dieu de la même manière que Jésus l’a fait. Nous avons déjà organisé quelques autres ateliers pour la New York Society, donc c'était assez fluide. C'est fantastique de travailler avec lui ; très doué avec les mots et capable de réfléchir « sur place », alors que j'aime généralement travailler tranquillement entre nos réunions, puis apporter ce que j'ai créé à notre prochaine séance.
 
 ## Définition de la prière
 
-[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10) Jésus n'a jamais prié comme un devoir religieux. Pour lui, la prière était
+<a id="a55_0"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10) Jésus n'a jamais prié comme un devoir religieux. Pour lui, la prière était
 
 1. une expression sincère d’attitude spirituelle - Qu’est-ce qu’une « attitude spirituelle » ?
 2. une déclaration de loyauté de l’âme - Loyauté à quoi ?

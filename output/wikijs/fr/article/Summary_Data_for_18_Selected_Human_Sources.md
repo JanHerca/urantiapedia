@@ -59,7 +59,7 @@ dateCreated: 2023-6-21T8:13:38Z
 Site Web de Matthew Block : [https://urantiabooksources.com/ ](https://urantiabooksources.com/) propose l’analyse la plus complète des informations sur les livres sources, y compris les titres des livres, les auteurs et bien plus encore. 
 
 
-> Quiconque est né de l’esprit de Dieu discernera désormais la parole de Dieu, indépendamment de son origine apparente. Il ne faut pas minimiser la vérité divine parce qu’elle vous est parvenue par un canal apparemment humain. ([LU 155:6.12](/fr/The_Urantia_Book/155#p6_12))
+> Quiconque est né de l’esprit de Dieu discernera désormais la parole de Dieu, indépendamment de son origine apparente. Il ne faut pas minimiser la vérité divine parce qu’elle vous est parvenue par un canal apparemment humain. (<a id="a61_228"></a>[LU 155:6.12](/fr/The_Urantia_Book/155#p6_12))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/057.jpg">

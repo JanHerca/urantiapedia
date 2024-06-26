@@ -96,7 +96,7 @@ Duane a également écrit un autre livre splendide basé sur les enseignements d
 
 La bourse a officiellement honoré Duane et Lucile Faw ainsi que Meredith et Irene Sprunger lors de notre conférence internationale en 2002 à Estes Park. Nous voulions tous les remercier pour toute une vie de service envers Dieu et l’homme et certainement envers la fraternité des croyants. Duane se distinguait dans tous les sens du terme, véritablement un officier et un gentleman. Le monde et notre mouvement Urantia ont perdu un grand trésor.
 
-> « ... ceux qui sont nés de l’esprit commencent immédiatement à montrer les fruits de l’esprit par leur service aimant auprès de leurs semblables » ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+> « ... ceux qui sont nés de l’esprit commencent immédiatement à montrer les fruits de l’esprit par leur service aimant auprès de leurs semblables » (<a id="a98_150"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
 ## Le Livre d'Urantia en Inde
 
@@ -250,7 +250,7 @@ bourse@urantiabook.org
 www.urantiabook.org
 
 
-> « nulle bonne action n’est jamais entièrement perdue ; » ([LU 48:6.7](/fr/The_Urantia_Book/48#p6_7))
+> « nulle bonne action n’est jamais entièrement perdue ; » (<a id="a252_60"></a>[LU 48:6.7](/fr/The_Urantia_Book/48#p6_7))
 
 ## Liens externes
 

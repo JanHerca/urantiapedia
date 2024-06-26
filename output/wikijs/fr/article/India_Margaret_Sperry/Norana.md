@@ -47,7 +47,7 @@ Il doit y avoir quelque chose que nous pouvons en tirer, que nous nous trouvions
 
 Le sens de l'humour de Norana plaisait à Jésus car lui aussi avait le sens de l'humour et il regrettait que ses apôtres en aient si peu, même s'ils pouvaient être de bonne humeur quand les choses allaient bien.
 
-Lorsqu'un apôtre l'a qualifiée de «_chien_» gentil, Norana a rétorqué qu'elle était au moins «_un chien croyant._» ([LU 156:1.5](/fr/The_Urantia_Book/156#p1_5))
+Lorsqu'un apôtre l'a qualifiée de «_chien_» gentil, Norana a rétorqué qu'elle était au moins «_un chien croyant._» (<a id="a49_116"></a>[LU 156:1.5](/fr/The_Urantia_Book/156#p1_5))
 
 Jésus écoutait, invisible, tous ces échanges. Nous aussi, nous avons sûrement des auditeurs invisibles alors que nous jouons notre rôle dans la pièce qui se déroule depuis l’apparition du libre arbitre sur notre terre.
 

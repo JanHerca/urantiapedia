@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> « _Toutefois un culte — un symbolisme de rites, de slogans ou de buts — ..._ » ([LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
+> « _Toutefois un culte — un symbolisme de rites, de slogans ou de buts — ..._ » (<a id="a37_82"></a>[LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
 
 Qu'est-ce qu'un modèle ? Au niveau le plus bas de notre perception, nous le voyons comme un phénomène spatio-temporel, le tissage de relations en un sens. Esthétiquement, c'est le rapport des couleurs, des textures, des sons. Psychologiquement, c'est la relation de motivations, de désirs, d'actions. Spirituellement, c’est « indicible » sauf à travers des symboles.
 

@@ -17,7 +17,7 @@ Remarque : les notes en annexe font référence au livre de Preston Thomas _The 
 
 Il y a beaucoup de déclarations pleines d’espoir et d’inspiration sur notre avenir dans _Le Livre d’Urantia_, mais peu peuvent égaler la promesse et l’opportunité prédites dans les lignes suivantes : 
 
-> La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. ... il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. ... il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. (<a id="a19_352"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
 Réfléchissons aux implications étonnantes de ces déclarations. Les révélateurs nous disent que notre monde a besoin de nouveaux enseignants de la religion de Jésus. Et ils prophétisent la venue de ces nouveaux enseignants, prédisant que ces nouveaux chefs religieux contribueront à apporter une renaissance spirituelle à notre « monde sombre et confus ». 
 
@@ -29,7 +29,7 @@ Dans de nombreux endroits, les révélateurs soulignent que le monde d’aujourd
 
 Oui, nous sommes confrontés à de graves problèmes, mais de grandes choses nous attendent, et nous sommes appelés à y participer ! Nous sommes appelés à nous joindre à une grande aventure ! Voici comment les révélateurs décrivent ce qui va se passer dans notre monde et les possibilités passionnantes qui se présentent dans notre avenir : 
 
-> **L’appel** à l’aventure consistant à construire une société humaine nouvelle et transformée, par la **renaissance spirituelle de la fraternité du royaume** de Jésus, devrait **passionner** tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. ([LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
+> **L’appel** à l’aventure consistant à construire une société humaine nouvelle et transformée, par la **renaissance spirituelle de la fraternité du royaume** de Jésus, devrait **passionner** tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. (<a id="a31_396"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
 
 Le temps d’une nouvelle révélation de Jésus est venu ! Les dirigeants de cette nouvelle révélation provoqueront la renaissance spirituelle de la fraternité du royaume de Jésus. Ils déclencheront une nouvelle grande renaissance spirituelle. Pour ceux qui se sentent enclins à contribuer à cette nouvelle révélation, trois exigences fondamentales sont énoncées.  
 
@@ -42,13 +42,13 @@ Les nouveaux enseignants-leaders doivent :
 
 Si nous cherchons à devenir membres de ce corps de nouveaux enseignants-leaders en formation, il est bon de réfléchir à chacune de ces exigences. Nous constaterons que, si la tâche est immense, les exigences le sont également. Ce qui suit peut être considéré comme un guide et un manuel de formation de base pour ceux qui aspirent à devenir de nouveaux enseignants-leaders. Alors que nous réfléchissons au rôle que nous pourrions jouer dans cette grande aventure, gardons à l’esprit ce que Jésus attend de ses disciples : 
 
-> Le Maitre de la vérité exigera une reddition de comptes conforme à la vérité confiée à vos soins. ([LU 176:3.7](/fr/The_Urantia_Book/176#p3_7))
+> Le Maitre de la vérité exigera une reddition de comptes conforme à la vérité confiée à vos soins. (<a id="a44_101"></a>[LU 176:3.7](/fr/The_Urantia_Book/176#p3_7))
 
 ## L'exigence de spiritualité 
 
 La première et la plus fondamentale exigence pour les nouveaux enseignants-leaders est qu’ils soient des « hommes et femmes spirituels ». Que signifie être « spirituel » ? 
 
-La spiritualité est le reflet de notre proximité avec Dieu ; c'est la mesure de notre harmonisation avec son esprit intérieur. C’est directement proportionnel à l’élimination des qualités égoïstes de l’amour. Et surtout, c’est aussi une mesure de l’efficacité de notre ministère spirituel. Voici comment les révélateurs l’expriment : _La spiritualité devient à la fois l’indicateur de la proximité de Dieu et la_ **_mesure de son utilité envers les autres_**. [[LU 100:2.4](/fr/The_Urantia_Book/100#p2_4)] (mon gras) 
+La spiritualité est le reflet de notre proximité avec Dieu ; c'est la mesure de notre harmonisation avec son esprit intérieur. C’est directement proportionnel à l’élimination des qualités égoïstes de l’amour. Et surtout, c’est aussi une mesure de l’efficacité de notre ministère spirituel. Voici comment les révélateurs l’expriment : _La spiritualité devient à la fois l’indicateur de la proximité de Dieu et la_ **_mesure de son utilité envers les autres_**. <a id="a50_460"></a>[[LU 100:2.4](/fr/The_Urantia_Book/100#p2_4)] (mon gras) 
 
 ### La naissance de l'Esprit 
 
@@ -56,53 +56,53 @@ La première étape essentielle pour devenir une personne spirituelle est de « 
 
 La « naissance de l’esprit » est le changement d’état d’esprit qui se produit lorsque nous choisissons de tout cœur de faire la volonté du Père. Lorsque nous faisons ce choix, son esprit intérieur naît à la lumière de notre foi. Jésus l'expliqua ainsi à Nicodème : 
 
-> L’esprit du Père qui est aux cieux demeure déjà en toi. Si tu veux te laisser conduire par cet esprit d’en haut, tu commenceras très bientôt à voir avec les yeux de l’esprit ; ensuite, si tu choisis de tout cœur la gouverne de l’esprit, tu naitras d’esprit, car le dessein unique de ta vie sera de faire la volonté de ton Père qui est aux cieux. ([LU 142:6.7](/fr/The_Urantia_Book/142#p6_7))
+> L’esprit du Père qui est aux cieux demeure déjà en toi. Si tu veux te laisser conduire par cet esprit d’en haut, tu commenceras très bientôt à voir avec les yeux de l’esprit ; ensuite, si tu choisis de tout cœur la gouverne de l’esprit, tu naitras d’esprit, car le dessein unique de ta vie sera de faire la volonté de ton Père qui est aux cieux. (<a id="a58_349"></a>[LU 142:6.7](/fr/The_Urantia_Book/142#p6_7))
 
 Il est important de réaliser que la naissance de l’esprit est un processus graduel et en grande partie inconscient. Lorsque le processus est terminé, il culmine avec un « anniversaire ». Voici comment les révélateurs le décrivent : 
 
-> La religion est fonctionnelle dans le mental humain. Elle est réalisée en expérience avant d’apparaitre dans la conscience humaine. Un enfant existe environ neuf mois avant de faire l’expérience de la *naissance.* Mais la « naissance » de la religion n’est pas soudaine ; c’est plutôt une émergence graduelle. Néanmoins, il y a tôt ou tard un « jour de naissance ». ([LU 103:2.1](/fr/The_Urantia_Book/103#p2_1))
+> La religion est fonctionnelle dans le mental humain. Elle est réalisée en expérience avant d’apparaitre dans la conscience humaine. Un enfant existe environ neuf mois avant de faire l’expérience de la *naissance.* Mais la « naissance » de la religion n’est pas soudaine ; c’est plutôt une émergence graduelle. Néanmoins, il y a tôt ou tard un « jour de naissance ». (<a id="a62_369"></a>[LU 103:2.1](/fr/The_Urantia_Book/103#p2_1))
 
 ### Montrer les fruits de l'Esprit 
 
 Puisque la naissance de l’esprit est un processus graduel qui est en grande partie inconscient, comment pouvons-nous savoir si nous sommes nés de l’esprit ? En termes simples, si nous naissons de l’esprit, nous commencerons à manifester les fruits de l’esprit dans notre vie quotidienne. Voici ce que Jésus a dit : 
 
-> ...mais ceux qui sont nés de l’esprit commencent immédiatement à montrer les fruits de l’esprit par leur service aimant auprès de leurs semblables. ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+> ...mais ceux qui sont nés de l’esprit commencent immédiatement à montrer les fruits de l’esprit par leur service aimant auprès de leurs semblables. (<a id="a68_151"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
-> Mais ne vous y trompez pas ; bien que le salut soit le don gratuit de Dieu et soit offert à tous ceux qui l’acceptent par la foi, il est suivi par l’expérience de porter les fruits de cette vie de l’esprit telle qu’elle est vécue dans la chair. [[LU 193:1.2](/fr/The_Urantia_Book/193#p1_2)] Si les croyants déclarés ne portent pas ces fruits de l'esprit divin dans leur vie, ils sont morts. [[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)]
+> Mais ne vous y trompez pas ; bien que le salut soit le don gratuit de Dieu et soit offert à tous ceux qui l’acceptent par la foi, il est suivi par l’expérience de porter les fruits de cette vie de l’esprit telle qu’elle est vécue dans la chair. <a id="a70_247"></a>[[LU 193:1.2](/fr/The_Urantia_Book/193#p1_2)] Si les croyants déclarés ne portent pas ces fruits de l'esprit divin dans leur vie, ils sont morts. <a id="a70_393"></a>[[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)]
 
 Nous devons également réaliser que le Père exige de ses fidèles disciples non seulement qu’ils portent les fruits de l’esprit, mais qu’ils grandissent et progressent dans la production de fruits spirituels. À mesure que nous poursuivons la volonté du Père, nous devons de plus en plus produire des fruits spirituels dans notre vie personnelle. Voici comment Jésus l’a exprimé : 
 
-> À mesure que vous progresserez vers le ciel dans le royaume de Dieu, il faudra de plus en plus que vous produisiez des fruits de l’esprit. ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+> À mesure que vous progresserez vers le ciel dans le royaume de Dieu, il faudra de plus en plus que vous produisiez des fruits de l’esprit. (<a id="a74_142"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
-> Mon Père demande aux enfants de la foi de porter beaucoup de fruits de l’esprit. ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+> Mon Père demande aux enfants de la foi de porter beaucoup de fruits de l’esprit. (<a id="a76_84"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
 ### Quels sont les fruits de l’Esprit ? 
 
 Quels sont les fruits de l'esprit ? Fondamentalement, ce sont les traits de caractère qui résultent de notre connexion avec l’esprit de Dieu qui nous habite. Ce sont les caractéristiques de l’Esprit qui circule à travers nous et que nous exprimons dans nos réactions de vie. La domination d’une vie humaine par l’esprit du Père s’accompagne toujours d’une croissance de ces perfections de caractère. Voici une liste de certains des fruits de l’esprit. La première liste que nous connaissons dans la Bible : 
 
-> ... car les fruits de l’esprit sont l’amour, la joie, la paix, la longanimité, la bienveillance, la bonté, la foi, la douceur et la tempérance. ([LU 34:6.13](/fr/The_Urantia_Book/34#p6_13))
+> ... car les fruits de l’esprit sont l’amour, la joie, la paix, la longanimité, la bienveillance, la bonté, la foi, la douceur et la tempérance. (<a id="a82_147"></a>[LU 34:6.13](/fr/The_Urantia_Book/34#p6_13))
 
 Jésus a présenté une deuxième liste lors d’une de ses dernières apparitions : 
 
-> Et voici les fruits de l’esprit divin produits dans la vie des mortels nés d’esprit et connaissant Dieu : service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+> Et voici les fruits de l’esprit divin produits dans la vie des mortels nés d’esprit et connaissant Dieu : service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. (<a id="a86_330"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
 En fait, les fruits de l’esprit sont essentiellement les traits de caractère dont Jésus a fait preuve au cours de sa vie parfaite sur terre. 
 
-> Quand un homme produit dans sa vie les « fruits de l’esprit », il exprime simplement les traits de caractère que le Maitre a manifestés dans sa propre vie terrestre. ([LU 194:3.1](/fr/The_Urantia_Book/194#p3_1))
+> Quand un homme produit dans sa vie les « fruits de l’esprit », il exprime simplement les traits de caractère que le Maitre a manifestés dans sa propre vie terrestre. (<a id="a90_169"></a>[LU 194:3.1](/fr/The_Urantia_Book/194#p3_1))
 
 Notre première tâche est donc de naître de l’esprit, mais cette naissance spirituelle doit être immédiatement suivie par la production de fruits spirituels. Nous devons porter de plus en plus et spontanément ce fruit spirituel tout au long de notre vie. C’est notre objectif omniprésent et la mesure de notre progrès spirituel. Au cours de notre vie, nous pouvons nous demander : « Est-ce que je manifeste de plus en plus les fruits de l’esprit dans ma vie quotidienne ? Si tel est le cas, nous pouvons être sûrs que nous progressons dans la formation spirituelle requise pour devenir un enseignant-leader efficace. Et dans ce long voyage spirituel, il est bon de se rappeler que : 
 
-> La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard. ([LU 100:1.4](/fr/The_Urantia_Book/100#p1_4))
+> La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard. (<a id="a94_126"></a>[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4))
 
 ### Grandir jusqu'à l'âge adulte spirituel 
 
 Nous ne pouvons pas rester immobiles dans le royaume. Nous devons aller de l’avant, et le résultat culminant d’une telle croissance et d’un tel avancement est l’âge adulte et la maturité spirituelle. En tant que nouveaux enseignants-leaders, nous devons comprendre que pour révéler efficacement Jésus, nous devrons atteindre l’âge adulte spirituel. Nous sommes appelés à être des exemples vivants de la spiritualité mature que peut atteindre un véritable disciple de Jésus. Voici ce qu’il a enseigné sur la croissance jusqu’à l’âge adulte et la maturité spirituelle : 
 
-> Vous pouvez entrer dans le royaume de Dieu comme un enfant, **mais le Père exige que vous grandissiez, par la grâce, jusqu’à la pleine stature d’un adulte spirituel**. ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+> Vous pouvez entrer dans le royaume de Dieu comme un enfant, **mais le Père exige que vous grandissiez, par la grâce, jusqu’à la pleine stature d’un adulte spirituel**. (<a id="a100_171"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
-> Une confiance d’enfant assure l’entrée de l’homme dans le royaume de l’ascension du ciel, mais le progrès dépend entièrement de l’exercice **vigoureux de la foi robuste et confiante de l’homme accompli**. ([LU 102:1.1](/fr/The_Urantia_Book/102#p1_1))
+> Une confiance d’enfant assure l’entrée de l’homme dans le royaume de l’ascension du ciel, mais le progrès dépend entièrement de l’exercice **vigoureux de la foi robuste et confiante de l’homme accompli**. (<a id="a102_208"></a>[LU 102:1.1](/fr/The_Urantia_Book/102#p1_1))
 
-> Jésus enseigna que la foi, la simple croyance enfantine, est la clef de la porte du royaume, mais il enseigna également qu’après avoir passé la porte, il y a les degrés successifs de droiture que chaque enfant croyant doit **gravir pour grandir jusqu’à la pleine stature des robustes fils de Dieu**. ([LU 170:3.2](/fr/The_Urantia_Book/170#p3_2))
+> Jésus enseigna que la foi, la simple croyance enfantine, est la clef de la porte du royaume, mais il enseigna également qu’après avoir passé la porte, il y a les degrés successifs de droiture que chaque enfant croyant doit **gravir pour grandir jusqu’à la pleine stature des robustes fils de Dieu**. (<a id="a104_303"></a>[LU 170:3.2](/fr/The_Urantia_Book/170#p3_2))
 
 (Voir Annexe 1.3 Progression en quatre étapes vers l’âge adulte spirituel) 
 
@@ -110,7 +110,7 @@ Nous ne pouvons pas rester immobiles dans le royaume. Nous devons aller de l’a
 
 L’âge adulte et la maturité spirituelle nous qualifient pour progresser vers un état de spiritualité encore plus élevé. C’est le niveau où Jésus, grâce à son esprit de Vérité qui l’habite, est capable de vivre à nouveau en nous. Les enseignants-leaders les plus performants atteindront cet état exalté. Cela fera d’eux des représentants et des ministres véritablement efficaces de Jésus. C’est ce niveau de spiritualité que les révélateurs appellent à : 
 
-> **Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels** nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> **Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels** nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. (<a id="a112_165"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 Les nouveaux enseignants-leaders sont appelés à atteindre ce niveau de spiritualité tel que leur vie reflète naturellement Jésus et son esprit intérieur. Tout comme Jésus a fourni une démonstration vivante de sa religion à son époque, nous sommes appelés à être des démonstrations vivantes de Jésus et de ses enseignements pour notre monde moderne. Nous devons être remplis de l’esprit de telle sorte que lorsque les autres nous voient, ils puissent voir Jésus ! 
 
@@ -147,9 +147,9 @@ Nous devons réaliser que notre plus grand pouvoir de susciter une régénérati
 
 Notons également que nous sommes appelés à nous consacrer exclusivement à la régénération spirituelle. Pourquoi exclusivement ? Voici le contexte dans lequel on retrouve l’exigence d’exclusivité : 
 
-> Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. (<a id="a149_320"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
-Nous voyons ainsi que la raison pour laquelle nous nous consacrons exclusivement à la régénération spirituelle vient du fait que le christianisme a de plus en plus négligé sa mission spirituelle et lui a substitué une focalisation sur les problèmes sociaux et matériels. Les disciples déclarés de Jésus ont été détournés de sa mission consistant à _« effectuer la transformation spirituelle des générations successives de l'humanité. »_ [[LU 195:9.10](/fr/The_Urantia_Book/195#p9_10)]
+Nous voyons ainsi que la raison pour laquelle nous nous consacrons exclusivement à la régénération spirituelle vient du fait que le christianisme a de plus en plus négligé sa mission spirituelle et lui a substitué une focalisation sur les problèmes sociaux et matériels. Les disciples déclarés de Jésus ont été détournés de sa mission consistant à _« effectuer la transformation spirituelle des générations successives de l'humanité. »_ <a id="a151_437"></a>[[LU 195:9.10](/fr/The_Urantia_Book/195#p9_10)]
 
 Nous devons éviter l’erreur du christianisme. Nous ne devons pas nous laisser distraire ou détourner de notre travail ; nous sommes appelés à une mission exclusivement spirituelle. En tant que nouveaux enseignants-leaders, nous devons concentrer nos efforts sur cet objectif clair : la régénération spirituelle de nos semblables. 
 
@@ -161,7 +161,7 @@ Nous pouvons faire notre premier pas en choisissant simplement de travailler pou
 
 Nous ajoutons de la puissance à nos efforts en priant pour que nous puissions être une force de régénération spirituelle chez les autres. Nous pouvons prier pour que Jésus revienne en nous et qu’il travaille à travers nous pour inspirer et élever spirituellement ceux que nous contactons. Voici l’idéal que les révélateurs nous appellent à respecter : 
 
-> Davantage encore que des conquérants, les disciples de Jésus devraient être pour l’humanité des sources débordantes d’inspiration et de vie rehaussée. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> Davantage encore que des conquérants, les disciples de Jésus devraient être pour l’humanité des sources débordantes d’inspiration et de vie rehaussée. (<a id="a163_154"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 ## L'exigence de dépendre uniquement de Jésus 
 
@@ -189,15 +189,15 @@ Un indice sur la deuxième raison de dépendre uniquement de Jésus et de ses en
 
 Ses enseignements sont mieux compris en observant la vie parfaite qu’il a vécue sur terre. La perfection de la personnalité et du caractère qu’il a développé au cours d’une vie terrestre éprouvante et éprouvante constitue un exemple idéal à imiter dans nos propres vies. La vie de Jésus est si précieuse parce qu’elle n’est pas seulement une construction théorique d’une philosophie morale idéale, mais plutôt une démonstration vivante du caractère spirituel qu’il a enseigné. Cette combinaison d’enseignement du personnage idéal et de fourniture d’un exemple concret de ce personnage est notre connaissance la plus précieuse. 
 
-> De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. (<a id="a191_158"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 (Voir Annexe 1.8 Le Jésus vivant)  
 
 ### Seuls Jésus et ses enseignements possèdent le pouvoir de triompher des menaces modernes qui pèsent sur la civilisation et d'apporter la renaissance spirituelle. 
 
-La troisième raison de l'exigence d'exclusivité est le fait que seuls Jésus et ses enseignements incomparables possèdent le pouvoir de provoquer la renaissance spirituelle. _Le Livre d'Urantia_ nous dit que le christianisme _« a vraiment été l'une des plus grandes puissances bénéfiques sur la terre »_ [[LU 195:10.12](/fr/The_Urantia_Book/195#p10_12)]. Il a fait son travail en faisant avancer le concept du Royaume de Jésus pendant 2000 ans, jusqu’à notre époque matérielle et laïque actuelle. Mais il en faut désormais davantage. Seuls Jésus et sa religion personnelle possèdent le pouvoir de nous aider à surmonter les trois grands problèmes auxquels notre monde est actuellement confronté : la non-progression spirituelle, la laïcité matérialiste et le changement social incessant. Seuls Jésus et ses enseignements possèdent le pouvoir de nous stabiliser en cette période de crise et de triompher de ces menaces modernes qui pèsent sur la civilisation. Ce n'est que grâce à Jésus et à ses enseignements que nous atteindrons la nouvelle renaissance spirituelle. Voici comment les révélateurs l’expriment : 
+La troisième raison de l'exigence d'exclusivité est le fait que seuls Jésus et ses enseignements incomparables possèdent le pouvoir de provoquer la renaissance spirituelle. _Le Livre d'Urantia_ nous dit que le christianisme _« a vraiment été l'une des plus grandes puissances bénéfiques sur la terre »_ <a id="a197_303"></a>[[LU 195:10.12](/fr/The_Urantia_Book/195#p10_12)]. Il a fait son travail en faisant avancer le concept du Royaume de Jésus pendant 2000 ans, jusqu’à notre époque matérielle et laïque actuelle. Mais il en faut désormais davantage. Seuls Jésus et sa religion personnelle possèdent le pouvoir de nous aider à surmonter les trois grands problèmes auxquels notre monde est actuellement confronté : la non-progression spirituelle, la laïcité matérialiste et le changement social incessant. Seuls Jésus et ses enseignements possèdent le pouvoir de nous stabiliser en cette période de crise et de triompher de ces menaces modernes qui pèsent sur la civilisation. Ce n'est que grâce à Jésus et à ses enseignements que nous atteindrons la nouvelle renaissance spirituelle. Voici comment les révélateurs l’expriment : 
 
-> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, **ce dont le monde a le plus besoin, c’est de Jésus**. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, **ce dont le monde a le plus besoin, c’est de Jésus**. (<a id="a199_140"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 (Voir l'Annexe 1.9 Résumé des raisons de l'exigence d'exclusivité) 
 
@@ -211,15 +211,15 @@ Nous avons discuté de plusieurs raisons pour lesquelles nous dépendons uniquem
 
 Dépendre de Jésus commence par notre vie intérieure. Nous devons constamment nous tourner vers Jésus intérieur pour obtenir de l’aide et des conseils, tant dans notre vie personnelle que dans notre ministère. 
 
-Jésus a dit : _« Je suis la vigne, vous êtes les sarments. »_ C'est une merveilleuse idée sur laquelle méditer. Souvenez-vous également de son enseignement : « demeurer en moi » et « vivre dans mon amour ». Il nous exhorte à _« communier librement avec moi » et à « maintenir cette connexion spirituelle vivante avec moi. »_ [[LU 180:2.1](/fr/The_Urantia_Book/180#p2_1)] Ces enseignements, lorsqu'ils sont suivis, renforcent notre vie intérieure et notre ministère. D’après mon expérience, l’idée selon laquelle nous pouvons maintenir un lien spirituel avec Jésus est assez puissante. 
+Jésus a dit : _« Je suis la vigne, vous êtes les sarments. »_ C'est une merveilleuse idée sur laquelle méditer. Souvenez-vous également de son enseignement : « demeurer en moi » et « vivre dans mon amour ». Il nous exhorte à _« communier librement avec moi » et à « maintenir cette connexion spirituelle vivante avec moi. »_ <a id="a213_325"></a>[[LU 180:2.1](/fr/The_Urantia_Book/180#p2_1)] Ces enseignements, lorsqu'ils sont suivis, renforcent notre vie intérieure et notre ministère. D’après mon expérience, l’idée selon laquelle nous pouvons maintenir un lien spirituel avec Jésus est assez puissante. 
 
 ### L'Esprit de Vérité est notre partenaire et notre guide 
 
 Il devrait être clair qu’une renaissance des enseignements réels de Jésus qui remplacent les enseignements chrétiens sur Jésus est une tâche gigantesque et ne sera pas facile. Cependant, nous pouvons trouver du réconfort et de l’encouragement dans le fait que nos efforts pour révéler Jésus ne seront pas solitaires. Nous n’entreprenons pas ce grand travail seuls. L’Esprit de Vérité sera notre partenaire à part entière, en fait notre partenaire directeur, dans cette grande entreprise. Le fait que l’Esprit de vérité de Jésus ait été répandu sur nous à la Pentecôte signifie que nous sommes spécialement équipés pour accomplir notre mission. En fait, notre nouvelle révélation de la vie et des enseignements de Jésus fait réellement partie de la mission continue de l’Esprit de Vérité visant à révéler Jésus à chaque nouvelle génération de mortels sur terre. Voici ce que nous disent les révélateurs : 
 
-> Ensuite, l’Esprit de Vérité **vint aider les croyants à témoigner des réalités des enseignements et de la vie de Jésus** telle qu’il la vécut dans la chair, et telle qu’il la vit maintenant de nouveau et à nouveau dans chaque croyant des générations successives de fils de Dieu imprégnés de l’esprit. ([LU 194:2.6](/fr/The_Urantia_Book/194#p2_6))
+> Ensuite, l’Esprit de Vérité **vint aider les croyants à témoigner des réalités des enseignements et de la vie de Jésus** telle qu’il la vécut dans la chair, et telle qu’il la vit maintenant de nouveau et à nouveau dans chaque croyant des générations successives de fils de Dieu imprégnés de l’esprit. (<a id="a219_304"></a>[LU 194:2.6](/fr/The_Urantia_Book/194#p2_6))
 
-> LCet esprit **fut effusé afin de qualifier les croyants pour prêcher plus efficacement l’évangile du royaume**, ... ([LU 194:3.5](/fr/The_Urantia_Book/194#p3_5))
+> LCet esprit **fut effusé afin de qualifier les croyants pour prêcher plus efficacement l’évangile du royaume**, ... (<a id="a221_119"></a>[LU 194:3.5](/fr/The_Urantia_Book/194#p3_5))
 
 Nous devons toujours nous rappeler et être fortifiés par le fait que notre révélation de Jésus sera accomplie en partenariat avec son Esprit de Vérité œuvrant en nous et à travers nous. Nous ne combattons pas seuls, mais plutôt en partenariat avec le Dieu de l'univers. L’esprit de Jésus nous aidera et nous guidera. Notre rôle est de maintenir notre lien spirituel avec lui et de devenir toujours plus réceptif à ses conseils spirituels. 
 
@@ -251,7 +251,7 @@ Alors que nous nous consacrons à cette entreprise, il est instructif de consid�
 
 ### Le Royaume de Jésus existe actuellement au sein de l’Église chrétienne 
 
-> L’Église dite chrétienne devient de cette manière la chrysalide où sommeille maintenant le concept du royaume selon Jésus. Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante. ([LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
+> L’Église dite chrétienne devient de cette manière la chrysalide où sommeille maintenant le concept du royaume selon Jésus. Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante. (<a id="a253_396"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
 
 Nous pouvons apprendre beaucoup de ces mots ; ils contiennent trois idées importantes : Premièrement, les révélateurs indiquent clairement que la fraternité du royaume de Jésus existe actuellement au sein de l’Église chrétienne. Deuxièmement, ils révèlent que cette fraternité divine est dans un état passif, endormie et submergée dans le christianisme. Et troisièmement, ils prophétisent que cette fraternité finira par s’éveiller et se manifester sous une forme plus élevée et plus avancée. 
 
@@ -259,13 +259,13 @@ Nous pouvons apprendre beaucoup de ces mots ; ils contiennent trois idées impor
 
 Cette prophétie indique une concentration particulière sur nos efforts. Cette fraternité endormie a actuellement besoin d’un réveil et d’une renaissance spirituelle. C’est nous qui sommes appelés à fournir une nouvelle révélation de Jésus qui réveillera ces chrétiens endormis à des niveaux plus élevés de vie spirituelle. Réaliser la renaissance spirituelle de la fraternité du royaume de Jésus sera notre première étape majeure dans l’initiation de la renaissance spirituelle. Voici encore l’appel des révélateurs : 
 
-> **L’appel** à l’aventure consistant à construire une société humaine nouvelle et transformée, par la **renaissance spirituelle de la fraternité du royaume de Jésus**, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. ([LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
+> **L’appel** à l’aventure consistant à construire une société humaine nouvelle et transformée, par la **renaissance spirituelle de la fraternité du royaume de Jésus**, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. (<a id="a261_392"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
 
 ### Les chrétiens unifiés contribueront à apporter la nouvelle révélation au monde 
 
 Le monde chrétien est actuellement divisé en de nombreuses dénominations, sectes et cultes. Le seul espoir d’une unification du christianisme réside dans un retour à l’évangile originel de Jésus sur la paternité de Dieu et la fraternité des hommes. Cela fait également partie de notre travail. En nous concentrant exclusivement sur les enseignements réels de Jésus, nous fournirons les bases de l’unification des différentes églises chrétiennes. Et à mesure que ce réveil de Jésus et de son évangile original arrive au christianisme, de nombreux croyants se joindront alors à nos efforts pour apporter cet évangile au monde en général. Selon _Le Livre d'Urantia_, c'est le grand espoir de notre monde : 
 
-> _Le ***grand espoir d’Urantia*** réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles._ ([LU 195:10.15](/fr/The_Urantia_Book/195#p10_15))
+> _Le ***grand espoir d’Urantia*** réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles._ (<a id="a267_294"></a>[LU 195:10.15](/fr/The_Urantia_Book/195#p10_15))
 
 ### L'Évangile du Royaume
 
@@ -273,21 +273,21 @@ Quel est ce « message salvateur » qui unirait spirituellement les différents 
 
 Le royaume que Jésus a enseigné est la volonté du Père dominante et transcendante dans le cœur du croyant. Nous entrons dans le royaume par la foi en l’enseignement de Jésus selon lequel Dieu est notre Père, puis en choisissant de faire la volonté de notre Père. Jésus nous a montré le chemin de la vie dans le royaume avec ses deux grandes prières : « Que ta volonté soit faite » et « Que ce ne soit pas ma volonté, mais la tienne ». 
 
-Lors de sa première apparition après la crucifixion, Jésus a fait comprendre à ses disciples rassemblés que « _La filiation avec Dieu par la foi est toujours la vérité salvatrice de l’Évangile du royaume_. » [[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)] Il a souligné que ce que le monde a le plus besoin de savoir, c'est que nous sommes tous des fils et des filles de Dieu et que, par la foi, nous pouvons réellement réaliser et expérimenter quotidiennement cette grande vérité. Dans notre travail, nous devons toujours apprendre aux autres à se considérer comme des fils et des filles de Dieu, notre Père céleste aimant.   
+Lors de sa première apparition après la crucifixion, Jésus a fait comprendre à ses disciples rassemblés que « _La filiation avec Dieu par la foi est toujours la vérité salvatrice de l’Évangile du royaume_. » <a id="a275_208"></a>[[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)] Il a souligné que ce que le monde a le plus besoin de savoir, c'est que nous sommes tous des fils et des filles de Dieu et que, par la foi, nous pouvons réellement réaliser et expérimenter quotidiennement cette grande vérité. Dans notre travail, nous devons toujours apprendre aux autres à se considérer comme des fils et des filles de Dieu, notre Père céleste aimant.   
 
 ### Le succès de notre mission 
 
 Nos efforts réussiront-ils ? Considérez ces déclarations prophétiques des révélateurs qui décrivent à la fois l’histoire et l’évolution future de la religion de Jésus sur notre planète : 
 
-> Les enseignements de Jésus, même s'ils ont été considérablement modifiés, ont survécu aux cultes mystérieux de leur époque de naissance, à l'ignorance et à la superstition des âges sombres, et triomphent encore lentement du matérialisme, du mécanisme et de la laïcité du XXe siècle. [[LU 195:9.3](/fr/The_Urantia_Book/195#p9_3)] (mon gras) 
+> Les enseignements de Jésus, même s'ils ont été considérablement modifiés, ont survécu aux cultes mystérieux de leur époque de naissance, à l'ignorance et à la superstition des âges sombres, et triomphent encore lentement du matérialisme, du mécanisme et de la laïcité du XXe siècle. <a id="a281_285"></a>[[LU 195:9.3](/fr/The_Urantia_Book/195#p9_3)] (mon gras) 
 > 
-> L’Église [chrétienne] n’est que le stade larvaire du royaume spirituel contrarié, qui la mènera à travers cet âge matériel et jusqu’à une dispensation plus spirituelle où les enseignements du Maître pourront bénéficier d’une plus grande opportunité de développement. [[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21)] (mon gras)   
+> L’Église [chrétienne] n’est que le stade larvaire du royaume spirituel contrarié, qui la mènera à travers cet âge matériel et jusqu’à une dispensation plus spirituelle où les enseignements du Maître pourront bénéficier d’une plus grande opportunité de développement. <a id="a283_269"></a>[[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21)] (mon gras)   
 
 Les citations suivantes sont deux de mes préférées. Ils prédisent la victoire sur les forces puissantes du matérialisme et de la laïcité, ainsi qu’un nouvel âge spirituel merveilleux à suivre : 
 
-> Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. [[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras) 
+> Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. <a id="a287_189"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras) 
 > 
-> Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. [[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras)  
+> Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. <a id="a289_177"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras)  
 
 ## Allons de l'avant 
 

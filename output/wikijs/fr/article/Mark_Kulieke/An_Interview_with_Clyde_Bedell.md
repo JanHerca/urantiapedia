@@ -98,7 +98,7 @@ _Clyde a d’abord raconté comment il en est venu à s'impliquer dans le Forum 
 
 « Je suis ému encore et encore par ce passage sur LU 95:7.3 :
 
-> « _Si les disciples de Jésus avaient pris plus au sérieux son injonction « d’aller dans le monde entier pour y prêcher l’évangile » et s’ils avaient été plus affables en le prêchant, moins stricts dans les exigences sociales collatérales inventées par eux-mêmes, alors bien des pays, y compris l’Arabie, auraient reçu avec joie le simple évangile du fils du charpentier._ » ([LU 95:7.3](/fr/The_Urantia_Book/95#p7_3))
+> « _Si les disciples de Jésus avaient pris plus au sérieux son injonction « d’aller dans le monde entier pour y prêcher l’évangile » et s’ils avaient été plus affables en le prêchant, moins stricts dans les exigences sociales collatérales inventées par eux-mêmes, alors bien des pays, y compris l’Arabie, auraient reçu avec joie le simple évangile du fils du charpentier._ » (<a id="a100_377"></a>[LU 95:7.3](/fr/The_Urantia_Book/95#p7_3))
 
 « L’Islam est le résultat de cet échec des missionnaires d’Abner. Deux mille ans plus tard. . . beaucoup... paient le prix des échecs des missionnaires d’Abner. Et je me demande dans combien d’années les gens paieront les pénalités et souffriront pour les échecs que nous avons à suivre les instructions de Jésus. . . pour répandre et diffuser cet évangile dans le monde maintenant et pour toujours. »
 

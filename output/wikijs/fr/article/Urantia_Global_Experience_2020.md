@@ -51,7 +51,7 @@ L'Association Urantia du Canada et _The Urantia Book Fellowship_ se sont associ�
 
 L’Expérience Globale Urantia est un rassemblement d’esprits dédiés au service de Dieu le Suprême à travers l’exploration de solutions pour l’évolution progressive de la civilisation. Nous croyons que le succès global de cette entreprise expérimentale repose sur notre unité spirituelle – notre motivation commune à exprimer la volonté de Dieu dans notre vie personnelle quotidienne ainsi que dans nos institutions sociales.
 
-Le format de cette réunion sera un peu différent des expériences passées. Plutôt qu’une série de conférences et d'ateliers, tous les participants s'engageront dans des groupes de discussion axés sur une variété de sujets tirés du _Le Livre d'Urantia_ (voir [Paper 71:4 Progressive Civilization](/fr/The_Urantia_Book/71#p4)). De ces discussions, nous espérons tirer des idées, des solutions et des objectifs communs.
+Le format de cette réunion sera un peu différent des expériences passées. Plutôt qu’une série de conférences et d'ateliers, tous les participants s'engageront dans des groupes de discussion axés sur une variété de sujets tirés du _Le Livre d'Urantia_ (voir <a id="a53_257"></a>[Paper 71:4 Progressive Civilization](/fr/The_Urantia_Book/71#p4)). De ces discussions, nous espérons tirer des idées, des solutions et des objectifs communs.
 
 Pour mettre en œuvre ces grands idéaux, nous avons besoin de votre aide. Nous acceptons actuellement les candidatures d'animateurs et de présentateurs d'exploration visionnaire, ainsi que de bénévoles.
 
@@ -146,17 +146,17 @@ Se sentir perdu? Accédez à notre plan du site.
 
 Notre comportement à Urantia Global
 
-> L'expérience est fondée sur la « règle d'or » « Traitez les autres comme vous aimeriez être traité » et « Aimez votre prochain comme vous-même », tandis que nous nous efforçons de nous élever jusqu'à la « règle de platine » : « Aimez les autres comme Dieu les aime. .» ([LU 140:5.3](/fr/The_Urantia_Book/140#p5_3))
+> L'expérience est fondée sur la « règle d'or » « Traitez les autres comme vous aimeriez être traité » et « Aimez votre prochain comme vous-même », tandis que nous nous efforçons de nous élever jusqu'à la « règle de platine » : « Aimez les autres comme Dieu les aime. .» (<a id="a148_272"></a>[LU 140:5.3](/fr/The_Urantia_Book/140#p5_3))
 
-> « Je vous donne donc ce nouveau commandement : Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples. » ([LU 180:1.1](/fr/The_Urantia_Book/180#p1_1))
+> « Je vous donne donc ce nouveau commandement : Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples. » (<a id="a150_225"></a>[LU 180:1.1](/fr/The_Urantia_Book/180#p1_1))
 
-> « Si seulement vous vous aimez les uns les autres comme je vous aime, vous serez mes amis et je vous dirai toujours ce que le Père me révèle. » ([LU 180:1.3](/fr/The_Urantia_Book/180#p1_3))
+> « Si seulement vous vous aimez les uns les autres comme je vous aime, vous serez mes amis et je vous dirai toujours ce que le Père me révèle. » (<a id="a152_147"></a>[LU 180:1.3](/fr/The_Urantia_Book/180#p1_3))
 
 ### Protocole de session
 
 De plus, nous demandons respectueusement aux participants de ne planifier aucune réunion de comité ou d'organisation pendant les séances du groupe de discussion ou de l’équipe de vision.
 
-> « Jouir de privilèges sans en abuser, disposer de la liberté sans licence, posséder le pouvoir en refusant fermement de l’utiliser pour des ambitions personnelles — tels sont les indices d’une haute civilisation. » ([LU 48:7.8](/fr/The_Urantia_Book/48#p7_8))
+> « Jouir de privilèges sans en abuser, disposer de la liberté sans licence, posséder le pouvoir en refusant fermement de l’utiliser pour des ambitions personnelles — tels sont les indices d’une haute civilisation. » (<a id="a158_218"></a>[LU 48:7.8](/fr/The_Urantia_Book/48#p7_8))
 
 ## Liens externes
 

@@ -43,7 +43,7 @@ par _Sue Snider Seccombe_
 
 Dans un souci de progrès et de croissance, la Communauté du Livre d'Urantia a créé notre comité ad hoc pour affiner la planification et clarifier les opportunités et stratégies futures. Nous avons réalisé 50 entretiens approfondis au cours de l’été avec des participants clés de la communauté des lecteurs du Livre d'Urantia et menons actuellement une étude de marché pour en savoir plus sur la prochaine vague de personnes susceptibles de découvrir le Livre d'Urantia et sur la meilleure façon de nous préparer à les servir.
 
-> « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » (<a id="a45_182"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 ## Comment nous servons notre communauté
 

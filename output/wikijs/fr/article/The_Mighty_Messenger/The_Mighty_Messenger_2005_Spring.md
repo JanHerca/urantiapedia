@@ -275,7 +275,7 @@ Membres : Linda Buselli, présidente Lynda D'Arcangelo, Laura Hay, Nancy Johnso
 bourse@urantiabook.org
 www.urantiabook.org
 
-> « Si nous sommes tentés d’exagérer notre importance, nous n’avons qu’à contempler l’infinité de la noblesse et de la grandeur de nos Créateurs ; notre propre glorification devient alors sublimement ridicule et frise même l’humour. L’une des fonctions de l’humour est de nous aider tous à nous prendre moins au sérieux. *L’humour est l’antidote divin contre l’exaltation de l’égo.* » ([LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
+> « Si nous sommes tentés d’exagérer notre importance, nous n’avons qu’à contempler l’infinité de la noblesse et de la grandeur de nos Créateurs ; notre propre glorification devient alors sublimement ridicule et frise même l’humour. L’une des fonctions de l’humour est de nous aider tous à nous prendre moins au sérieux. *L’humour est l’antidote divin contre l’exaltation de l’égo.* » (<a id="a277_386"></a>[LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
 
 ## Liens externes
 

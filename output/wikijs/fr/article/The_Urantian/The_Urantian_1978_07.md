@@ -34,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Contacter le Royaume intérieur
 
-> « _« Le royaume de Dieu est en vous. » C’est probablement la plus grande proclamation que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant._ » ([LU 195:10.4](/fr/The_Urantia_Book/195#p10_4))
+> « _« Le royaume de Dieu est en vous. » C’est probablement la plus grande proclamation que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant._ » (<a id="a36_186"></a>[LU 195:10.4](/fr/The_Urantia_Book/195#p10_4))
 
 Dans les enseignements de Jésus sur le « royaume de Dieu intérieur », il a transmis beaucoup de vérité et de sagesse concernant ce domaine intérieur de la réalité spirituelle, accessible par notre esprit, que le Père a accordé à chacun de nous. Et notre connaissance de la présence spirituelle intérieure du Père a été considérablement augmentée par notre cinquième révélation d'époque. Au centre du royaume intérieur habite un fragment spirituel réel et parfait du Dieu vivant. Le royaume spirituel intérieur est la source de l’inspiration et des idéaux par lesquels nos civilisations planétaires progressent, et les fragments spirituels de Dieu en nous sont les sources indispensables sur lesquelles nous puisons pour l’évolution de notre sagesse humaine.
 
@@ -49,9 +49,9 @@ _Le matériel ci-dessus est extrait d'un discours préparé pour la troisième c
 
 ## Apprendre la tolérance
 
-Le processus de spiritualisation de nos personnalités se déroule dans nos relations entre les hommes. « _Si une fois que vous comprenez votre prochain, vous deviendrez tolérant, et cette tolérance grandira en amitié et mûrira en amour._ » ([LU 100:4.4](/fr/The_Urantia_Book/100#p4_4)) Et, dit Jésus : « _L'amour est l'ancêtre de toute bonté spirituelle, le essence du vrai et du beau._” ([LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
+Le processus de spiritualisation de nos personnalités se déroule dans nos relations entre les hommes. « _Si une fois que vous comprenez votre prochain, vous deviendrez tolérant, et cette tolérance grandira en amitié et mûrira en amour._ » (<a id="a51_240"></a>[LU 100:4.4](/fr/The_Urantia_Book/100#p4_4)) Et, dit Jésus : « _L'amour est l'ancêtre de toute bonté spirituelle, le essence du vrai et du beau._” (<a id="a51_388"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
 
-On nous dit en outre que «_Il n'est pas si important d'aimer tous les hommes aujourd'hui que d'apprendre chaque jour à aimer un être humain de plus._» ([LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)) Maintenir la production sur l'amour implique que nous devons apprendre à tolérer une personne de plus chaque jour, ce qui implique que nous apprenons à comprendre une personne de plus chaque jour. La clé de la tolérance, de l'amour et de la bonté spirituelle est la _compréhension_ — une fonction de l'esprit.
+On nous dit en outre que «_Il n'est pas si important d'aimer tous les hommes aujourd'hui que d'apprendre chaque jour à aimer un être humain de plus._» (<a id="a53_152"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)) Maintenir la production sur l'amour implique que nous devons apprendre à tolérer une personne de plus chaque jour, ce qui implique que nous apprenons à comprendre une personne de plus chaque jour. La clé de la tolérance, de l'amour et de la bonté spirituelle est la _compréhension_ — une fonction de l'esprit.
 
 [Lire la suite](/fr/article/Mark_Kulieke/Learning_Tolerance)
 
@@ -62,7 +62,7 @@ _Evanston, Illinois_
 
 La vérité trouve son origine dans les relations avec la réalité. La vérité est une tentative de comprendre la plus grande relation qui existe dans l’univers : l’amour divin. La révélation la plus significative de l’amour et de la vérité à l’homme de notre monde est Jésus de Nazareth. Son Esprit de Vérité nous guide infailliblement vers toute vérité.
 
-D'un point de vue expérientiel, nous sympathisons souvent avec l'observation de Pilot : « _La vérité, qu'est-ce que la vérité — qui sait ?_ » ([LU 185:3.5](/fr/The_Urantia_Book/185#p3_5)) Dans notre expérience, nous procédons des faits (connaissances) à la vérité, à la sagesse dans le réalisation progressive de la réalité – Dieu. La vérité est une valeur universelle perçue par l'esprit stimulé par l'esprit et une expérience de l'âme. La découverte de la vérité est un plaisir suprême pour l'homme en évolution. L'expérience conduit l'homme à la faim de vérité.
+D'un point de vue expérientiel, nous sympathisons souvent avec l'observation de Pilot : « _La vérité, qu'est-ce que la vérité — qui sait ?_ » (<a id="a64_143"></a>[LU 185:3.5](/fr/The_Urantia_Book/185#p3_5)) Dans notre expérience, nous procédons des faits (connaissances) à la vérité, à la sagesse dans le réalisation progressive de la réalité – Dieu. La vérité est une valeur universelle perçue par l'esprit stimulé par l'esprit et une expérience de l'âme. La découverte de la vérité est un plaisir suprême pour l'homme en évolution. L'expérience conduit l'homme à la faim de vérité.
 
 La vérité est fondamentale à la fois pour la science et la philosophie, le fondement intellectuel de la religion. La vérité est cohérente et cohérente et constitue donc un critère d’action fiable. Elle est vécue avec des résultats très bénéfiques. Lorsque la vérité, la beauté et la bonté sont intégrées à l’expérience humaine, elles tendent à produire la santé et le bonheur. La vérité atteint sa plus haute expression dans la vie. La vérité est une réalité universelle vivante qui ne peut être emprisonnée dans un dogme, une croyance ou une expression philosophique.
 
@@ -73,7 +73,7 @@ _Fort Wayne, Indiana_
 
 ## Quête de la bonté
 
-La protection envers Dieu est une sorte de bonté : « la poursuite de l’idéal ». Il utilise différents muscles, il se nourrit d’amour. « _Jusqu'à ce que vous atteigniez les niveaux du Paradis, la bonté sera toujours plus une quête qu'une possession..._ » ([LU 132:2.8](/fr/The_Urantia_Book/132#p2_8)) La protection envers Dieu est une « _soif de perfection divine_ » ([LU 150:5.5](/fr/The_Urantia_Book/150#p5_5)) accomplie avec L'aide de Dieu avec toute la hiérarchie des êtres spirituels et l'expression de Dieu à l'intérieur de vous.
+La protection envers Dieu est une sorte de bonté : « la poursuite de l’idéal ». Il utilise différents muscles, il se nourrit d’amour. « _Jusqu'à ce que vous atteigniez les niveaux du Paradis, la bonté sera toujours plus une quête qu'une possession..._ » (<a id="a75_255"></a>[LU 132:2.8](/fr/The_Urantia_Book/132#p2_8)) La protection envers Dieu est une « _soif de perfection divine_ » (<a id="a75_367"></a>[LU 150:5.5](/fr/The_Urantia_Book/150#p5_5)) accomplie avec L'aide de Dieu avec toute la hiérarchie des êtres spirituels et l'expression de Dieu à l'intérieur de vous.
 
 La protection envers Dieu est la croissance totale, pour toujours, en avant, avec de la place pour vous et pour moi. Une croissance globale qui découvre les desseins de Dieu, petits et grands, les met en œuvre avec confiance et a soif de Dieu. Mes objectifs peuvent parfois sembler entrer en conflit avec les autres, mais nous y parvenons avec certitude, clarté d’objectif, amour pour Dieu comme priorité et grâce comme résultat.
 
@@ -108,7 +108,7 @@ Dans ce monde ivre de sophisme, nous voyons tous la nécessité d'une Fondation 
 _Thomas Mèches_
 _Florence, Arizona_
 
-> « _Dieu est la première vérité et le dernier fait, et c’est pourquoi toute vérité prend origine en lui ... Dieu est la vérité absolue._ » ([LU 102:6.6](/fr/The_Urantia_Book/102#p6_6))
+> « _Dieu est la première vérité et le dernier fait, et c’est pourquoi toute vérité prend origine en lui ... Dieu est la vérité absolue._ » (<a id="a110_141"></a>[LU 102:6.6](/fr/The_Urantia_Book/102#p6_6))
 
 
 

@@ -139,7 +139,7 @@ Le groupe étudiait le Fascicule 14, L’Univers Central et Divin, lorsque les M
 
 
 
-Dans les affaires comme dans la spiritualité, j'ai appris à ne pas préjuger ou sous-estimer la curiosité ou la ténacité des gens, le fonctionnement parfait de leurs Ajusteurs et les pouvoirs de trois grands esprits discerneurs de révélation : l’Esprit de Vérité de Michael ; le don de soi de l’Esprit Mère, les sensibilités de l’adjudant et la « réponse à la réalité » mentalement inhérente. ([LU 16:6.4](/fr/The_Urantia_Book/16#p6_4))
+Dans les affaires comme dans la spiritualité, j'ai appris à ne pas préjuger ou sous-estimer la curiosité ou la ténacité des gens, le fonctionnement parfait de leurs Ajusteurs et les pouvoirs de trois grands esprits discerneurs de révélation : l’Esprit de Vérité de Michael ; le don de soi de l’Esprit Mère, les sensibilités de l’adjudant et la « réponse à la réalité » mentalement inhérente. (<a id="a141_393"></a>[LU 16:6.4](/fr/The_Urantia_Book/16#p6_4))
 
 Parmi les autres personnes qui participent régulièrement au groupe figurent Dick et Peggy Johnson. et Eve McMahon. Bien que Larry soit l’hôte, il n’est pas nécessairement le leader. Le groupe a tendance à se diriger lui-même et dépend de la sagesse collective de ses membres, qui comptent ensemble environ 100 ans de lectorat. La plupart des membres de ce groupe participent à d’autres groupes d’étude dans la région de Phoenix.
 

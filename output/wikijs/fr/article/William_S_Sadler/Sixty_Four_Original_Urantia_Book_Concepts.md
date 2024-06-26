@@ -77,7 +77,7 @@ Dans cet article publié de manière informelle, le Dr William Sadler décrit 64
 
 32. **Identification du Saint-Esprit :** Souligner le Saint-Esprit comme la présence de l'Esprit-Mère de l'Univers Local, fille de l'Esprit Infini, est tout à fait nouveau et original dans les Cahiers d'Urantia. [Papier 34](/fr/The_Urantia_Book/34) 
 
-33. **Les Sept Esprits Mentaux Adjudants :** Tandis que la Bible fait mention de sept esprits et les identifie partiellement dans Isaïe, le récit d'Urantia est si complet et unique qu'il en fait virtuellement une présentation originale. [Paper 36:5](/fr/The_Urantia_Book/36#p5) 
+33. **Les Sept Esprits Mentaux Adjudants :** Tandis que la Bible fait mention de sept esprits et les identifie partiellement dans Isaïe, le récit d'Urantia est si complet et unique qu'il en fait virtuellement une présentation originale. <a id="a79_237"></a>[Paper 36:5](/fr/The_Urantia_Book/36#p5) 
 
 34. **Fils de Dieu de l'univers local :** Toute l'histoire des Fils de l'univers local est nouvelle et originale. [Papier 35](/fr/The_Urantia_Book/35) 
 
@@ -85,31 +85,31 @@ Dans cet article publié de manière informelle, le Dr William Sadler décrit 64
 
 36. **Les Sept Mondes des Maisons :** Alors que le Maître faisait allusion aux « _mondes des maisons_ », comme indiqué dans la Bible, l'histoire complète de leur nature et de leur objectif est à la fois nouvelle et originale. [Document 17](/fr/The_Urantia_Book/17) 
 
-37. **Le Concept Morontiel :** L'ensemble du concept morontiel de l'étape entre le matériel et le spirituel est nouveau et original dans _Le Livre d'Urantia_. [Papers 30:4](/fr/The_Urantia_Book/30#p4) ; [39:2](/fr/The_Urantia_Book/39#p2); [48](/fr/The_Urantia_Book/48) 
+37. **Le Concept Morontiel :** L'ensemble du concept morontiel de l'étape entre le matériel et le spirituel est nouveau et original dans _Le Livre d'Urantia_. <a id="a87_159"></a>[Papers 30:4](/fr/The_Urantia_Book/30#p4) ; <a id="a87_203"></a>[39:2](/fr/The_Urantia_Book/39#p2); [48](/fr/The_Urantia_Book/48) 
 
-38. **Artisans Célestes et Directeurs de Réversion :** Ces deux concepts sont nouveaux dans _Le Livre d'Urantia_. Le concept de jeu céleste et d’humour spirituel est tout sauf nouveau. [Papers 30:3](/fr/The_Urantia_Book/30#p3) ; [48:4](/fr/The_Urantia_Book/48#p4) 
+38. **Artisans Célestes et Directeurs de Réversion :** Ces deux concepts sont nouveaux dans _Le Livre d'Urantia_. Le concept de jeu céleste et d’humour spirituel est tout sauf nouveau. <a id="a89_185"></a>[Papers 30:3](/fr/The_Urantia_Book/30#p3) ; <a id="a89_229"></a>[48:4](/fr/The_Urantia_Book/48#p4) 
 
-39. **Concept de citoyenneté cosmique permanente :** Ceci est tout à fait original dans _Le Livre d'Urantia_. [Papers 30:2](/fr/The_Urantia_Book/32#p2) ; [31:5](/fr/The_Urantia_Book/31#p5); [37:9](/fr/The_Urantia_Book/37#p9) ; [40:10](/fr/The_Urantia_Book/40#p10). 
+39. **Concept de citoyenneté cosmique permanente :** Ceci est tout à fait original dans _Le Livre d'Urantia_. <a id="a91_110"></a>[Papers 30:2](/fr/The_Urantia_Book/32#p2) ; <a id="a91_154"></a>[31:5](/fr/The_Urantia_Book/31#p5); <a id="a91_190"></a>[37:9](/fr/The_Urantia_Book/37#p9) ; <a id="a91_227"></a>[40:10](/fr/The_Urantia_Book/40#p10). 
 
-40. **Les Médians d'Urantia :** Bien que l'Ancien Testament fasse référence aux « _Nephilim_ », la citation est si indéfinie qu'elle constitue l'histoire d'Urantia des Médians comme un récit nouveau et original. [Papers 30:2.89](/fr/The_Urantia_Book/30#p2_89) ; [66:4](/fr/The_Urantia_Book/6#p4); [77:6](/fr/The_Urantia_Book/77#p6) 
+40. **Les Médians d'Urantia :** Bien que l'Ancien Testament fasse référence aux « _Nephilim_ », la citation est si indéfinie qu'elle constitue l'histoire d'Urantia des Médians comme un récit nouveau et original. <a id="a93_212"></a>[Papers 30:2.89](/fr/The_Urantia_Book/30#p2_89) ; <a id="a93_262"></a>[66:4](/fr/The_Urantia_Book/6#p4); <a id="a93_297"></a>[77:6](/fr/The_Urantia_Book/77#p6) 
 
 41. **Le Gouvernement Planétaire Surhumain :** L'histoire des fonctions planétaires des Très-Hauts, du Corps de Réserve et des séraphins planétaires est originale, malgré l'allusion au travail des Très-Hauts dans la Bible. [Papier 114](/fr/The_Urantia_Book/114) 
 
 42. **Les milliards de mondes habités :** Au moment de l'arrivée des Cahiers d'Urantia, il n'existait aucune littérature traitant des mondes habités autres que notre monde. L'idée était nouvelle. Ces dernières années, nous avons fréquemment rencontré des spéculations concernant d’autres planètes habitées. L’exposé approfondi du sujet dans le Livre d’Urantia est original. [Articles 12](/fr/The_Urantia_Book/12), [15](/fr/The_Urantia_Book/15) 
 
-43. **Clarification du péché et de la rébellion :** La clarification unique du mal, du péché, de l'iniquité et de la rébellion est originale avec _Le Livre d'Urantia_. [Paper 2:2](/fr/The_Urantia_Book/2#p2) 
+43. **Clarification du péché et de la rébellion :** La clarification unique du mal, du péché, de l'iniquité et de la rébellion est originale avec _Le Livre d'Urantia_. <a id="a99_168"></a>[Paper 2:2](/fr/The_Urantia_Book/2#p2) 
 
-44. **Identité d'Adam et Ève :** Le récit de l'histoire légendaire d'Adam et Ève en tant que personnalités accordées, Fils et Filles Matériels, est original dans _Le Livre d'Urantia_. [37:9](/fr/The_Urantia_Book/37#p9) ; [74](/fr/The_Urantia_Book/74) 
+44. **Identité d'Adam et Ève :** Le récit de l'histoire légendaire d'Adam et Ève en tant que personnalités accordées, Fils et Filles Matériels, est original dans _Le Livre d'Urantia_. <a id="a101_184"></a>[37:9](/fr/The_Urantia_Book/37#p9) ; [74](/fr/The_Urantia_Book/74) 
 
-45. **Clarification de Melchisédek :** L'histoire de Melchisédek en tant qu'individu et comme désignation du nom d'un corps d'enseignants de l'univers présentée dans les fascicules d'Urantia est un concept nouveau et original. [Papers 45:4](/fr/The_Urantia_Book/45#p4) ; [93](/fr/The_Urantia_Book/93) 
+45. **Clarification de Melchisédek :** L'histoire de Melchisédek en tant qu'individu et comme désignation du nom d'un corps d'enseignants de l'univers présentée dans les fascicules d'Urantia est un concept nouveau et original. <a id="a103_227"></a>[Papers 45:4](/fr/The_Urantia_Book/45#p4) ; [93](/fr/The_Urantia_Book/93) 
 
 46. **Concept des Âges de Lumière et de Vie :** La réalisation de l'évolution des mortels telle que représentée par les Âges de lumière et de vie est tout à fait nouvelle et originale. [Papier 55](/fr/The_Urantia_Book/55) 
 
 47. **Une histoire unifiée d'Urantia (Terre) :** Nulle part ailleurs dans l'expression humaine vous ne pouvez trouver une histoire cohérente et unifiée de notre monde – son origine, sa nature et sa destinée. Pour la première fois, nous disposons d’une chronologie des affaires humaines. Partie III du _Le Livre d'Urantia_. 
 
-48. **Maladies :** Le livre présente une explication nouvelle et originale des maladies microbiennes. [Papers 65:2](/fr/The_Urantia_Book/65#p2) ; [76:5](/fr/The_Urantia_Book/76#p5); [90:3](/fr/The_Urantia_Book/90#p3) 
+48. **Maladies :** Le livre présente une explication nouvelle et originale des maladies microbiennes. <a id="a109_102"></a>[Papers 65:2](/fr/The_Urantia_Book/65#p2) ; <a id="a109_146"></a>[76:5](/fr/The_Urantia_Book/76#p5); <a id="a109_182"></a>[90:3](/fr/The_Urantia_Book/90#p3) 
 
-49. **Antigravité :** Tout le concept d'antigravité est unique et original dans les Cahiers d'Urantia. Ce n’est que récemment qu’un scientifique a promulgué une théorie de l’antigravité. [Papers 9:3](/fr/The_Urantia_Book/9#p3) ; [11](/fr/The_Urantia_Book/11) ; [15:8](/fr/The_Urantia_Book/15#p8); [42](/fr/The_Urantia_Book/42) 
+49. **Antigravité :** Tout le concept d'antigravité est unique et original dans les Cahiers d'Urantia. Ce n’est que récemment qu’un scientifique a promulgué une théorie de l’antigravité. <a id="a111_187"></a>[Papers 9:3](/fr/The_Urantia_Book/9#p3) ; [11](/fr/The_Urantia_Book/11) ; <a id="a111_261"></a>[15:8](/fr/The_Urantia_Book/15#p8); [42](/fr/The_Urantia_Book/42) 
 
 50. **Anniversaire de Jésus :** Pour la première fois à l'ère chrétienne, nous connaissons le véritable anniversaire de Jésus : le 21 août 7 av. [Papier 122](/fr/The_Urantia_Book/122) 
 
@@ -129,17 +129,17 @@ Dans cet article publié de manière informelle, le Dr William Sadler décrit 64
 
 58. **Explication des miracles involontaires :** Le livre présente une explication possible de nombreux miracles involontaires. [Papier 136](/fr/The_Urantia_Book/136) 
 
-59. **L'attitude de Jésus envers l'art, l'athlétisme et les femmes :** L'attitude du Maître envers l'art, l'athlétisme et les femmes n'est révélée nulle part ailleurs. Art–[Paper 142:4](/fr/The_Urantia_Book/142#p4), Athlétisme–[Paper 124:3](/fr/The_Urantia_Book/124#p3), Femmes–[Papers 133:2](/fr/The_Urantia_Book/133#p2), [LU 138:8](/fr/The_Urantia_Book/138#p8), [LU 143:5](/fr/The_Urantia_Book/143#p5), [149:2](/fr/The_Urantia_Book/149#p2) 
+59. **L'attitude de Jésus envers l'art, l'athlétisme et les femmes :** L'attitude du Maître envers l'art, l'athlétisme et les femmes n'est révélée nulle part ailleurs. Art–<a id="a131_172"></a>[Paper 142:4](/fr/The_Urantia_Book/142#p4), Athlétisme–<a id="a131_227"></a>[Paper 124:3](/fr/The_Urantia_Book/124#p3), Femmes–<a id="a131_278"></a>[Papers 133:2](/fr/The_Urantia_Book/133#p2), <a id="a131_323"></a>[LU 138:8](/fr/The_Urantia_Book/138#p8), <a id="a131_364"></a>[LU 143:5](/fr/The_Urantia_Book/143#p5), <a id="a131_405"></a>[149:2](/fr/The_Urantia_Book/149#p2) 
 
 60. **Le Sermon sur la Montagne :** Je ne connais bien sûr pas toute la littérature sur le Sermon sur la Montagne. Mais autant que je sache, l'interprétation de cette adresse dans _Le Livre d'Urantia_ est nouvelle et originale. [Papier 140](/fr/The_Urantia_Book/140) 
 
-61. **Le Corps évangélique des femmes :** Cette histoire est nouvelle, malgré la brève mention de cette question dans le Nouveau Testament. [Paper 150:1](/fr/The_Urantia_Book/150#p1) 
+61. **Le Corps évangélique des femmes :** Cette histoire est nouvelle, malgré la brève mention de cette question dans le Nouveau Testament. <a id="a135_140"></a>[Paper 150:1](/fr/The_Urantia_Book/150#p1) 
 
 62. **Rodan d'Alexandrie :** Toute cette histoire est originale avec _Le Livre d'Urantia_. [Papier 160](/fr/The_Urantia_Book/160) 
 
 63. **L'histoire d'Abner :** L'histoire unique du chef des apôtres de Jean-Baptiste est originale avec les Cahiers d'Urantia. [Articles 144](/fr/The_Urantia_Book/144), [162](/fr/The_Urantia_Book/162), [166](/fr/The_Urantia_Book/166), [167](/fr/The_Urantia_Book/167) 
 
-64. **Le Corps de Renseignement de David Zebedee :** Toute cette histoire se trouve exclusivement dans _Le Livre d'Urantia_. [Documents 149](/fr/The_Urantia_Book/149) ; [154:5](/fr/The_Urantia_Book/154#p5) ; [157:6](/fr/The_Urantia_Book/157#p6); [186:3](/fr/The_Urantia_Book/186#p3) 
+64. **Le Corps de Renseignement de David Zebedee :** Toute cette histoire se trouve exclusivement dans _Le Livre d'Urantia_. [Documents 149](/fr/The_Urantia_Book/149) ; <a id="a141_169"></a>[154:5](/fr/The_Urantia_Book/154#p5) ; <a id="a141_208"></a>[157:6](/fr/The_Urantia_Book/157#p6); <a id="a141_246"></a>[186:3](/fr/The_Urantia_Book/186#p3) 
 
 ## Références
 

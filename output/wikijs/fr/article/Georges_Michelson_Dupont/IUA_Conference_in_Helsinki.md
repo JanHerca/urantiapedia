@@ -37,7 +37,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Georges Michelson-Dupont_
 
-> _Et, lorsque l’âme ascendante de l’homme se tiendra devant le Juge Suprême, la décision d’importance éternelle ne sera pas déterminée par des succès matériels ni par des réussites quantitatives. Le verdict qui se réverbère à travers les cours suprêmes proclame : « Bravo, bon et *fidèle* serviteur ; tu as été fidèle en quelques points essentiels ; tu seras établi chef de réalités d’univers. »_ ([LU 25:1.6](/fr/The_Urantia_Book/25#p1_6))
+> _Et, lorsque l’âme ascendante de l’homme se tiendra devant le Juge Suprême, la décision d’importance éternelle ne sera pas déterminée par des succès matériels ni par des réussites quantitatives. Le verdict qui se réverbère à travers les cours suprêmes proclame : « Bravo, bon et *fidèle* serviteur ; tu as été fidèle en quelques points essentiels ; tu seras établi chef de réalités d’univers. »_ (<a id="a39_399"></a>[LU 25:1.6](/fr/The_Urantia_Book/25#p1_6))
 
 Chers amis,
 
@@ -59,7 +59,7 @@ Faits, significations et valeurs est le thème général de cette conférence in
 
 ## La Cinquième Révélation d'Époque : _Le Livre d'Urantia_
 
-Concernant la succession des Révélations Épochales, on nous dit qu’Urantia est une planète décimale et sujette à des expérimentations. On nous dit également que notre malheureux monde a souffert de trahison, d'impatience et de quarantaine et par conséquent nous savons que _« Urantia ne procède pas dans l'ordre normal. »_ [[LU 52:6.1](/fr/The_Urantia_Book/52#p6_1)].
+Concernant la succession des Révélations Épochales, on nous dit qu’Urantia est une planète décimale et sujette à des expérimentations. On nous dit également que notre malheureux monde a souffert de trahison, d'impatience et de quarantaine et par conséquent nous savons que _« Urantia ne procède pas dans l'ordre normal. »_ <a id="a61_323"></a>[[LU 52:6.1](/fr/The_Urantia_Book/52#p6_1)].
 
 Je suppose que les êtres spirituels chargés du bien-être de notre planète ont été confrontés au problème suivant : quelle sorte de révélation d'époque offriraient-ils à Urantia en tant que cinquième, en gardant à l'esprit que les deux premières ont échoué, que la troisième était une révélation d'urgence, et le quatrième est mort sur la croix avec les enseignements de Jésus et est devenu quelque peu déformé et occidentalisé.
 
@@ -102,7 +102,7 @@ Et avec le cinquième, nous ne savons pas quelles recherches et quelles techniqu
 
 ### Développement précoce des Cahiers d'Urantia
 
-Au début du vingtième siècle, le Dr William S. Sadler, un éminent médecin et psychiatre exerçant à Chicago, devint le chef reconnu du groupe connu sous le nom de Commission de Contact, qui reçut les messages et les instructions des révélateurs qui aboutirent au Livre d'Urantia. _ La Commission Révélatrice a fonctionné à travers une personnalité de contact humain dont l'identité restera à jamais dans l'obscurité. _« L'homme mortel est si enclin à vénérer, voire à déifier, ses extraordinaires compatriotes et ses supérieurs surhumains. »_ [[LU 114:3.1](/fr/The_Urantia_Book/114#p3_1)]
+Au début du vingtième siècle, le Dr William S. Sadler, un éminent médecin et psychiatre exerçant à Chicago, devint le chef reconnu du groupe connu sous le nom de Commission de Contact, qui reçut les messages et les instructions des révélateurs qui aboutirent au Livre d'Urantia. _ La Commission Révélatrice a fonctionné à travers une personnalité de contact humain dont l'identité restera à jamais dans l'obscurité. _« L'homme mortel est si enclin à vénérer, voire à déifier, ses extraordinaires compatriotes et ses supérieurs surhumains. »_ <a id="a104_542"></a>[[LU 114:3.1](/fr/The_Urantia_Book/114#p3_1)]
 
 La Commission de Contact était la seule personne au courant des méthodes utilisées pour produire les documents en langue anglaise. Ils ont juré de ne pas divulguer les détails des transactions. _Le Livre d'Urantia_; en raison de sa nature révélatrice, devait se suffire à lui-même, à sa nature et à son contenu.
 
@@ -194,17 +194,17 @@ Nous voyons que chaque révélation nécessite deux côtés, le côté révélat
 
 À la page 1569 du _Livre d'Urantia_, et juste avant le « Sermon sur l'ordination des Douze », on nous dit comment Jésus, dans un discours solennel à son Père céleste, présente ses apôtres :
 
-> « _« Mon Père, je t’amène maintenant ces hommes, mes messagers. Parmi nos enfants sur terre, j’ai choisi ces douze pour aller me représenter comme je suis venu te représenter. Aime-les et accompagne-les comme tu m’as aimé et accompagné. Et maintenant, mon Père, donne-leur la sagesse tandis que je place toutes les affaires du royaume à venir entre leurs mains. »_ » ([LU 140:2.2](/fr/The_Urantia_Book/140#p2_2))
+> « _« Mon Père, je t’amène maintenant ces hommes, mes messagers. Parmi nos enfants sur terre, j’ai choisi ces douze pour aller me représenter comme je suis venu te représenter. Aime-les et accompagne-les comme tu m’as aimé et accompagné. Et maintenant, mon Père, donne-leur la sagesse tandis que je place toutes les affaires du royaume à venir entre leurs mains. »_ » (<a id="a196_370"></a>[LU 140:2.2](/fr/The_Urantia_Book/140#p2_2))
 
 Et le récit continue
 
-> _...Un grand silence envahit la place, tandis qu’une foule d’êtres célestes contemplait d’en haut cette scène solennelle et sacrée — le Créateur d’un univers plaçant les affaires de la fraternité divine des hommes sous la direction de penseurs humains._ ([LU 140:2.3](/fr/The_Urantia_Book/140#p2_3))
+> _...Un grand silence envahit la place, tandis qu’une foule d’êtres célestes contemplait d’en haut cette scène solennelle et sacrée — le Créateur d’un univers plaçant les affaires de la fraternité divine des hommes sous la direction de penseurs humains._ (<a id="a200_257"></a>[LU 140:2.3](/fr/The_Urantia_Book/140#p2_3))
 
 Et ces douze hommes étaient-ils spécialement doués ?
 
 On nous dit :
 
-> _...C’est précisément pourquoi il choisit, comme représentants personnels, douze hommes du commun, qui étaient en majorité de rudes et virils pêcheurs._ ([LU 140:8.20](/fr/The_Urantia_Book/140#p8_20))
+> _...C’est précisément pourquoi il choisit, comme représentants personnels, douze hommes du commun, qui étaient en majorité de rudes et virils pêcheurs._ (<a id="a206_156"></a>[LU 140:8.20](/fr/The_Urantia_Book/140#p8_20))
 
 Concernant la présente révélation, le projet des Cahiers d'Urantia, les médians ont placé entre les mains des administrateurs de la Fondation Urantia l'entière responsabilité de la diffusion des enseignements et la pleine autorité pour la protection du _Livre d'Urantia_ comme il est indiqué dans sa Déclaration de Confiance. .
 
@@ -212,13 +212,13 @@ Certains individus nient cette autorité humaine sur la diffusion et la protecti
 
 Leur soi-disant « liberté » est plus importante pour eux que leur obligation envers le groupe ou leurs devoirs en tant que citoyens cosmiques. Ils devraient méditer sur la déclaration suivante de Jésus :
 
-> « _Dans mon univers, comme dans l’univers des univers de mon Père, nos fils-frères sont traités en tant qu’individus dans tous leurs rapports spirituels, mais, dans tous les rapports collectifs, nous établissons invariablement une fonction précise de commandement. Notre royaume est un domaine ordonné et, quand deux ou plusieurs créatures volitives agissent en coopération, l’autorité d’un chef est toujours prévue._ » (Jesus, [LU 181:2.16](/fr/The_Urantia_Book/181#p2_16))
+> « _Dans mon univers, comme dans l’univers des univers de mon Père, nos fils-frères sont traités en tant qu’individus dans tous leurs rapports spirituels, mais, dans tous les rapports collectifs, nous établissons invariablement une fonction précise de commandement. Notre royaume est un domaine ordonné et, quand deux ou plusieurs créatures volitives agissent en coopération, l’autorité d’un chef est toujours prévue._ » (Jesus, <a id="a214_430"></a>[LU 181:2.16](/fr/The_Urantia_Book/181#p2_16))
 
-Cette responsabilité sociale et historique exercée par la Fondation Urantia n’empiète pas sur les droits religieux des individus, ni ne s’y oppose. Le livre nous dit que _la religion est purement et entièrement une question d'expérience personnelle._ [[LU 138:2.1](/fr/The_Urantia_Book/138#p2_1)] La Fondation Urantia a toujours encouragé et encouragera toujours tous les individus à expérimenter, dans leur vie intérieure, les enseignements du _Le Livre d'Urantia_.
+Cette responsabilité sociale et historique exercée par la Fondation Urantia n’empiète pas sur les droits religieux des individus, ni ne s’y oppose. Le livre nous dit que _la religion est purement et entièrement une question d'expérience personnelle._ <a id="a216_251"></a>[[LU 138:2.1](/fr/The_Urantia_Book/138#p2_1)] La Fondation Urantia a toujours encouragé et encouragera toujours tous les individus à expérimenter, dans leur vie intérieure, les enseignements du _Le Livre d'Urantia_.
 
 Mais des situations de conflit social potentiel surviennent lorsque les individus placent l’importance de leur propre liberté avant celle de leurs semblables :
 
-> « _La liberté soumise à des règles collectives est le but légitime de l’évolution sociale. La liberté sans restrictions est le rêve chimérique et vain du mental d’humains instables et superficiels._ » ([LU 81:5.7](/fr/The_Urantia_Book/81#p5_7))
+> « _La liberté soumise à des règles collectives est le but légitime de l’évolution sociale. La liberté sans restrictions est le rêve chimérique et vain du mental d’humains instables et superficiels._ » (<a id="a220_204"></a>[LU 81:5.7](/fr/The_Urantia_Book/81#p5_7))
 
 Par conséquent, invoquer la liberté religieuse pour justifier toute tentative contre la protection du texte du _Le Livre d'Urantia_ démontre un comportement immature et égoïste.
 
@@ -266,13 +266,13 @@ C'est ma compréhension, ma croyance et ma conviction que tant que nous suivons 
 
 S’écarter de cette voie peut être très simple. Parfois, certaines personnes peuvent être tentées de s'écarter de la ligne de conduite initiale lorsqu'un argument ou la formulation d'un nouveau plan subtil est attrayant et présenté d'une manière qui fait appel aux émotions, ou est présenté d'une manière amicale et apparemment logique. Souvent, ces arguments ne tiennent pas compte du contexte historique. Mais nous sommes sur cette planète pour tester notre loyauté, notre foi et notre fiabilité.
 
-> _La loyauté – le dévouement au devoir le plus élevé – est-elle souhaitable ? Alors l’homme doit continuer au milieu des possibilités de trahison et de désertion. La valeur du dévouement consiste dûment dans le danger implicite de défaut._ ([LU 3:5.12](/fr/The_Urantia_Book/3#p5_12))
+> _La loyauté – le dévouement au devoir le plus élevé – est-elle souhaitable ? Alors l’homme doit continuer au milieu des possibilités de trahison et de désertion. La valeur du dévouement consiste dûment dans le danger implicite de défaut._ (<a id="a268_242"></a>[LU 3:5.12](/fr/The_Urantia_Book/3#p5_12))
 > 
-> _À première vue, il pourrait sembler qu'Urantia et ses mondes isolés associés sont très malchanceux d'être privés de la présence bienfaisante et de l'influence de personnalités surhumaines telles qu'un Prince Planétaire et un Fils et une Fille Matériels. Mais l'isolement de ces sphères offre à leurs races une opportunité unique d'exercer leur foi et de développer une qualité particulière de confiance dans la fiabilité cosmique qui ne dépend pas de la vue ou de toute autre considération matérielle. Il se pourrait qu'à terme, les créatures mortelles originaires des mondes mis en quarantaine à la suite d'une rébellion soient extrêmement chanceuses. Nous avons découvert que ces ascendants se voient très tôt confier de nombreuses missions spéciales dans des entreprises cosmiques où une foi incontestée et une confiance sublime sont essentielles à la réussite._ [[LU 50:7.1](/fr/The_Urantia_Book/50#p7_1)]
+> _À première vue, il pourrait sembler qu'Urantia et ses mondes isolés associés sont très malchanceux d'être privés de la présence bienfaisante et de l'influence de personnalités surhumaines telles qu'un Prince Planétaire et un Fils et une Fille Matériels. Mais l'isolement de ces sphères offre à leurs races une opportunité unique d'exercer leur foi et de développer une qualité particulière de confiance dans la fiabilité cosmique qui ne dépend pas de la vue ou de toute autre considération matérielle. Il se pourrait qu'à terme, les créatures mortelles originaires des mondes mis en quarantaine à la suite d'une rébellion soient extrêmement chanceuses. Nous avons découvert que ces ascendants se voient très tôt confier de nombreuses missions spéciales dans des entreprises cosmiques où une foi incontestée et une confiance sublime sont essentielles à la réussite._ <a id="a270_869"></a>[[LU 50:7.1](/fr/The_Urantia_Book/50#p7_1)]
 
 ## Les raisons d'un droit d'auteur
 
-Malheureusement, Urantia est marquée du sceau de la rébellion et de l'impatience : _L'impatience est un poison spirituel_... [[LU 48:7.20](/fr/The_Urantia_Book/48#p7_20)] dit un Archange de Nébadon.
+Malheureusement, Urantia est marquée du sceau de la rébellion et de l'impatience : _L'impatience est un poison spirituel_... <a id="a274_125"></a>[[LU 48:7.20](/fr/The_Urantia_Book/48#p7_20)] dit un Archange de Nébadon.
 
 L’histoire de notre planète montre que depuis la rébellion de Lucifer, toutes les révélations ont été sévèrement attaquées. La Cinquième Révélation d’Époque ne fait pas exception. Parce que celui-ci a été présenté sous forme de livre, les attaques sont dirigées contre le texte lui-même ainsi que contre les outils mis en place pour sa protection et sa diffusion. Il est donc de la plus haute importance que le texte soit protégé par un droit d'auteur jusqu'à sa diffusion mondiale.
 
@@ -300,7 +300,7 @@ Cinquièmement : le monde a besoin de la révélation entière. Comme Adam et È
 
 Et si ces arguments ne sont pas assez explicites, écoutez ce que Jésus a dit à ses apôtres comme une instruction très claire lors de sa dernière apparition :
 
-> « _« Je vous exhorte à vous rappeler toujours que votre mission parmi les hommes consiste à proclamer l’évangile du royaume — la réalité que Dieu est le Père des hommes et la vérité qu’ils sont ses fils. Proclamez la vérité entière de la bonne nouvelle, et non pas seulement une partie de l’évangile sauveur._ » ([LU 193:0.4](/fr/The_Urantia_Book/193#p0_4))
+> « _« Je vous exhorte à vous rappeler toujours que votre mission parmi les hommes consiste à proclamer l’évangile du royaume — la réalité que Dieu est le Père des hommes et la vérité qu’ils sont ses fils. Proclamez la vérité entière de la bonne nouvelle, et non pas seulement une partie de l’évangile sauveur._ » (<a id="a302_315"></a>[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4))
 
 Cette révélation est si puissante et si attractive qu'il est inévitable qu'elle attire, et continuera d'attirer des individus ou des groupes immatures, impatients et déséquilibrés qui, sous le faux prétexte de liberté religieuse ou de soi-disant service désintéressé, voudraient s'approprier la Livre d'Urantia_ pour leurs propres besoins, devant ainsi lutter contre le droit d'auteur afin de mettre le texte dans le domaine public avant que le livre ne soit sûr et traduit dans de nombreuses langues.
 
@@ -328,7 +328,7 @@ Nous devons comprendre et reconnaître que la lutte actuelle entre nos groupes d
 
 Le livre nous enseigne ce qui suit sur la concurrence :
 
-> _Dans les âges primitifs de tous les mondes, la compétition est indispensable au progrès de la civilisation. À mesure que l’évolution des hommes progresse, la coopération devient de plus en plus effective ; dans les civilisations avancées, elle est plus efficace que la compétition. Les hommes primitifs sont stimulés par la compétition. L’évolution primitive est caractérisée par la survie des êtres biologiquement valides, mais la meilleure manière de promouvoir les civilisations ultérieures est la coopération intelligente, la confrérie compréhensive et la fraternité spirituelle._ ([LU 71:5.3](/fr/The_Urantia_Book/71#p5_3))
+> _Dans les âges primitifs de tous les mondes, la compétition est indispensable au progrès de la civilisation. À mesure que l’évolution des hommes progresse, la coopération devient de plus en plus effective ; dans les civilisations avancées, elle est plus efficace que la compétition. Les hommes primitifs sont stimulés par la compétition. L’évolution primitive est caractérisée par la survie des êtres biologiquement valides, mais la meilleure manière de promouvoir les civilisations ultérieures est la coopération intelligente, la confrérie compréhensive et la fraternité spirituelle._ (<a id="a330_589"></a>[LU 71:5.3](/fr/The_Urantia_Book/71#p5_3))
 
 La deuxième étape du plan est toujours à l’œuvre. Les anglophones, hispanophones et francophones ne représentent que IS% de la population mondiale en termes de langue. Nous rencontrons d'extrêmes difficultés avec la distribution en Russie. 85% du monde n'a pas encore été exposé aux enseignements du _Livre d'Urantia_ et le lancement n'a même pas encore commencé. Il est utopique de penser qu'avec seulement un total de 350 000 exemplaires vendus dans très peu de pays, et avec seulement une poignée de traductions achevées, les enseignements du _Livre d'Urantia_ sont à l'abri d'être déformés ou présentés au monde d'une manière qui ne l'est pas. conformément aux intentions des révélateurs.
 
@@ -340,7 +340,7 @@ Les lecteurs et les groupes peuvent faire beaucoup, beaucoup, pour diffuser les 
 
 Une autre question que je voudrais aborder aujourd’hui est celle des marques déposées – le symbole des trois cercles concentriques et les noms « Urantia » et « Urantian » – en particulier le symbole des trois cercles concentriques.
 
-Tout d'abord, on nous dit que le symbole est _l'emblème matériel du gouvernement de la Trinité_ [[LU 53:5.4](/fr/The_Urantia_Book/53#p5_4)]. Ils étaient affichés comme « la bannière de Michel » sous laquelle les êtres fidèles se rassemblaient lorsqu'« il y avait une guerre dans le ciel lors de l'épisode de la rébellion de Lucifer.
+Tout d'abord, on nous dit que le symbole est _l'emblème matériel du gouvernement de la Trinité_ <a id="a342_96"></a>[[LU 53:5.4](/fr/The_Urantia_Book/53#p5_4)]. Ils étaient affichés comme « la bannière de Michel » sous laquelle les êtres fidèles se rassemblaient lorsqu'« il y avait une guerre dans le ciel lors de l'épisode de la rébellion de Lucifer.
 
 Ensuite, ils furent utilisés par Machiventa lors de sa révélation d'urgence sur terre et, en tant que tels, ils furent associés à la troisième révélation.
 
@@ -378,7 +378,7 @@ La publication et la distribution du _Livre d'Urantia_ sont une tâche commercia
 
 ### Promotion d'un environnement convivial pour la coopération
 
-> _L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du travail en équipe. Ceux qui ont dominé cet art de travailler avec d’autres êtres peuplent les sphères de perfection. Il y a peu de tâches dans l’univers pour les serviteurs isolés._ (Puissants Messager [LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
+> _L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du travail en équipe. Ceux qui ont dominé cet art de travailler avec d’autres êtres peuplent les sphères de perfection. Il y a peu de tâches dans l’univers pour les serviteurs isolés._ (Puissants Messager <a id="a380_296"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
 
 Le travail d'équipe est basé sur la confiance et le respect de l'autre. Nous sommes tous des lecteurs et croyants dévoués. Les administrateurs de la Fondation Urantia sont disposés à coopérer et à travailler en harmonie avec des individus ou des groupes qui croient en l'importance de la révélation pour notre planète et qui sont disposés à travailler en partenariat avec les révélateurs et en soutien à la Déclaration de confiance.
 
@@ -402,7 +402,7 @@ Une fois de plus, ce qui est le plus important est l'expérience directe du lect
 
 Voici la déclaration d'un Conseiller Divin d'Orvonton à propos du _Livre d'Urantia_.
 
-> _Nous sommes pleinement conscients des difficultés de la tâche qui nous a été assignée. Nous reconnaissons qu’il est impossible de traduire complètement le langage des concepts de divinité et d’éternité dans les symboles linguistiques des concepts limités du mental des mortels. Mais nous savons qu’un fragment de Dieu habite dans le mental humain et que l’Esprit de Vérité séjourne avec l’âme humaine. De plus, nous savons que ces forces spirituelles conspirent pour rendre l’homme matériel apte à saisir la réalité des valeurs spirituelles et à comprendre la philosophie des significations de l’univers. Mais, avec plus de certitude encore, nous savons que ces esprits de la Présence Divine peuvent aider l’homme à s’approprier spirituellement toute la vérité contribuant à rehausser la réalité toujours progressante de l’expérience religieuse personnelle — la conscience de Dieu._ ([LU 0:12.13](/fr/The_Urantia_Book/0#p12_13))
+> _Nous sommes pleinement conscients des difficultés de la tâche qui nous a été assignée. Nous reconnaissons qu’il est impossible de traduire complètement le langage des concepts de divinité et d’éternité dans les symboles linguistiques des concepts limités du mental des mortels. Mais nous savons qu’un fragment de Dieu habite dans le mental humain et que l’Esprit de Vérité séjourne avec l’âme humaine. De plus, nous savons que ces forces spirituelles conspirent pour rendre l’homme matériel apte à saisir la réalité des valeurs spirituelles et à comprendre la philosophie des significations de l’univers. Mais, avec plus de certitude encore, nous savons que ces esprits de la Présence Divine peuvent aider l’homme à s’approprier spirituellement toute la vérité contribuant à rehausser la réalité toujours progressante de l’expérience religieuse personnelle — la conscience de Dieu._ (<a id="a404_887"></a>[LU 0:12.13](/fr/The_Urantia_Book/0#p12_13))
 
 Concernant le soi-disant « matériel canalisé », il faut également rappeler que, selon le _Livre d'Urantia_ lui-même, les 196 articles représentent l'intégralité de la Révélation.
 
@@ -436,7 +436,7 @@ Par conséquent et une fois de plus, la Fondation Urantia est disposée à coop�
 
 > « Nous devons être des exemples vivants de cette nouvelle révélation, individuellement et collectivement. » Et en conclusion, la citation suivante tirée du _Livre d'Urantia_ :
 > 
-> _« Ce que vos yeux aperçoivent maintenant, ce petit début de douze hommes ordinaires, se multipliera et croitra jusqu’à ce que, finalement, toute la terre soit remplie des louanges de mon Père. C’est moins par les paroles que vous prononcerez, mais plutôt par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume. Je ne voudrais imposer à votre mental aucun fardeau trop lourd, mais je vais charger vos âmes de la responsabilité solennelle de me représenter dans le monde quand je vous quitterai bientôt, de même que je représente mon Père dans ma présente vie incarnée. »_ ([LU 140:1.7](/fr/The_Urantia_Book/140#p1_7))
+> _« Ce que vos yeux aperçoivent maintenant, ce petit début de douze hommes ordinaires, se multipliera et croitra jusqu’à ce que, finalement, toute la terre soit remplie des louanges de mon Père. C’est moins par les paroles que vous prononcerez, mais plutôt par la vie que vous vivrez, que les hommes sauront que vous avez été avec moi et que vous avez appris les réalités du royaume. Je ne voudrais imposer à votre mental aucun fardeau trop lourd, mais je vais charger vos âmes de la responsabilité solennelle de me représenter dans le monde quand je vous quitterai bientôt, de même que je représente mon Père dans ma présente vie incarnée. »_ (<a id="a438_646"></a>[LU 140:1.7](/fr/The_Urantia_Book/140#p1_7))
 
 Merci pour votre attention.
 

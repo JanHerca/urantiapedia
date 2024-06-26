@@ -20,11 +20,11 @@ Le 21 août 2017, les États-Unis ont connu une éclipse solaire très rare, dan
 
 Ces dates semblent-elles familières aux lecteurs du Livre d’Urantia ?
 
-Selon Le Livre d'Urantia, le 21 août 7 avant notre ère était la date de naissance de Jésus ([LU 122:8.1](/fr/The_Urantia_Book/122#p8_1)) et le 8 avril 30 avant notre ère, est le seul jour entier où le corps mortel de Jésus reposait dans le tombeau après sa mort le la croix ([LU 188:0.1](/fr/The_Urantia_Book/188#p0_1)). _La communauté du Livre d'Urantia_ connaît communément cette date comme le seul jour complet du « temps du tombeau » ([LU 188:0.1](/fr/The_Urantia_Book/188#p0_1)).
+Selon Le Livre d'Urantia, le 21 août 7 avant notre ère était la date de naissance de Jésus (<a id="a22_92"></a>[LU 122:8.1](/fr/The_Urantia_Book/122#p8_1)) et le 8 avril 30 avant notre ère, est le seul jour entier où le corps mortel de Jésus reposait dans le tombeau après sa mort le la croix (<a id="a22_275"></a>[LU 188:0.1](/fr/The_Urantia_Book/188#p0_1)). _La communauté du Livre d'Urantia_ connaît communément cette date comme le seul jour complet du « temps du tombeau » (<a id="a22_439"></a>[LU 188:0.1](/fr/The_Urantia_Book/188#p0_1)).
 
 Il serait très intéressant qu’une éclipse solaire totale se produise n’importe où sur la planète à l’une ou l’autre de ces deux dates importantes. Cependant, que ces _deux_ éclipses se produisent au-dessus des États-Unis à des _dates et _heures_ importantes_ à proximité d'un _lieu important_ est bien plus qu'intéressant. Certains diraient que ce n’est qu’une coïncidence, et c’est peut-être vrai, mais pourrait-il y avoir plus ? Cela ne pourrait-il pas également servir de signal d'alarme pour les adeptes du _Livre d'Urantia_ ?
 
-Dire que quelque chose est un « coïncident » pourrait également indiquer que cela est délibéré ou intentionnel. Peut-être sommes-nous trop prompts à écarter des événements comme celui-ci. Cela ne veut pas dire que quiconque devrait souscrire aux « signes et prodiges » ([LU 145:5.6](/fr/The_Urantia_Book/145#p5_6)) mais peut-être pouvons-nous reconnaître que ces événements d'éclipse inhabituels ont retenu l'attention de _millions_ de personnes à travers le monde. Quand quelque chose attire l'attention de millions de personnes, et qu'il se trouve qu'il coïncide avec des dates importantes du temps de Jésus ici, comme révélé dans _Le Livre d'Urantia_, n'est-ce pas digne de notre attention ? À tout le moins, cela représente une opportunité de sensibilisation pour faire connaître au public la signification de ces dates en tant qu'introduction au _Le Livre d'Urantia_.
+Dire que quelque chose est un « coïncident » pourrait également indiquer que cela est délibéré ou intentionnel. Peut-être sommes-nous trop prompts à écarter des événements comme celui-ci. Cela ne veut pas dire que quiconque devrait souscrire aux « signes et prodiges » (<a id="a26_270"></a>[LU 145:5.6](/fr/The_Urantia_Book/145#p5_6)) mais peut-être pouvons-nous reconnaître que ces événements d'éclipse inhabituels ont retenu l'attention de _millions_ de personnes à travers le monde. Quand quelque chose attire l'attention de millions de personnes, et qu'il se trouve qu'il coïncide avec des dates importantes du temps de Jésus ici, comme révélé dans _Le Livre d'Urantia_, n'est-ce pas digne de notre attention ? À tout le moins, cela représente une opportunité de sensibilisation pour faire connaître au public la signification de ces dates en tant qu'introduction au _Le Livre d'Urantia_.
 
 Voici quelques autres faits importants sur ces deux éclipses :
 
@@ -73,7 +73,7 @@ L'éclipse de 2017 s'est produite le _date de naissance de Jésus_, le 21 août.
 
 L'éclipse partielle au point de passage en 2017 a commencé à _11 h 52_ (soit vers midi).
 
-...et à midi, le 21 août de l'an 7 av. . . . Mary a accouché d'un enfant de sexe masculin ([LU 122:8.1](/fr/The_Urantia_Book/122#p8_1)).
+...et à midi, le 21 août de l'an 7 av. . . . Mary a accouché d'un enfant de sexe masculin (<a id="a75_91"></a>[LU 122:8.1](/fr/The_Urantia_Book/122#p8_1)).
 
 L'éclipse de 2024 survient à la date du seul jour complet du corps de Jésus dans le tombeau, le 8 avril.
 
@@ -81,9 +81,9 @@ L'éclipse partielle au point de passage en 2024 se termine à 15h18. (il est en
 
 Dans _Le Livre d'Urantia_, trois heures sont une heure significative.
 
-> Ce fut juste avant **trois heures** que Jésus, d’une voix forte, s’écria : « C’est fini ! Père, je remets mon esprit entre tes mains. » Après avoir ainsi parlé, il inclina la tête et abandonna la lutte pour la vie. ([LU 187:5.5](/fr/The_Urantia_Book/187#p5_5))
+> Ce fut juste avant **trois heures** que Jésus, d’une voix forte, s’écria : « C’est fini ! Père, je remets mon esprit entre tes mains. » Après avoir ainsi parlé, il inclina la tête et abandonna la lutte pour la vie. (<a id="a83_218"></a>[LU 187:5.5](/fr/The_Urantia_Book/187#p5_5))
 
-> LE corps mortel de Jésus reposa durant un jour et demi dans le tombeau de Joseph. Cette période entre sa mort sur la croix et sa résurrection est un chapitre de la carrière terrestre de Micaël qui nous est peu connu. Nous pouvons raconter la mise au tombeau du Fils de l’Homme et insérer dans ce récit les évènements associés à sa résurrection, mais nous ne pouvons fournir beaucoup de renseignements authentiques sur ce qui se passa réellement durant l’intervalle d’environ trente-six heures compris **entre le vendredi après-midi à trois heures et le dimanche matin à trois heures**. [soulignon ajutée] Cette période de la carrière du Maitre commença peu avant que les soldats romains l’eussent descendu de la croix. ([LU 188:0.1](/fr/The_Urantia_Book/188#p0_1))
+> LE corps mortel de Jésus reposa durant un jour et demi dans le tombeau de Joseph. Cette période entre sa mort sur la croix et sa résurrection est un chapitre de la carrière terrestre de Micaël qui nous est peu connu. Nous pouvons raconter la mise au tombeau du Fils de l’Homme et insérer dans ce récit les évènements associés à sa résurrection, mais nous ne pouvons fournir beaucoup de renseignements authentiques sur ce qui se passa réellement durant l’intervalle d’environ trente-six heures compris **entre le vendredi après-midi à trois heures et le dimanche matin à trois heures**. [soulignon ajutée] Cette période de la carrière du Maitre commença peu avant que les soldats romains l’eussent descendu de la croix. (<a id="a85_722"></a>[LU 188:0.1](/fr/The_Urantia_Book/188#p0_1))
 
 ## Pourquoi maintenant?
 

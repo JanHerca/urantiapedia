@@ -44,7 +44,7 @@ Rappelez-vous que _Le Livre d'URANTIA_ est la raison de la réunion, alors reste
 
 Il s'est avéré utile, mais pas essentiel, d'avoir un tableau où certaines notes ou informations spéciales peuvent être répertoriées, telles que la mission et le responsable du jour et de la prochaine fois. Ou bien, des recherches supplémentaires ou des références croisées sur l'article en cours de lecture peuvent être notées...
 
-L'un des objectifs de nos groupes d'étude, outre l'apprentissage réel du _Livre d'URANTIA_, s'exprime sur [LU 103:1.3](/fr/The_Urantia_Book/103#p1_3) : «_Bien que votre religion soit une affaire d’expérience personnelle, il est très important que vous soyez amené à connaitre un grand nombre d’autres expériences religieuses (les interprétations diverses de différents mortels) afin d’empêcher votre vie religieuse de devenir égocentrique — étroite, égoïste et insociable._ »
+L'un des objectifs de nos groupes d'étude, outre l'apprentissage réel du _Livre d'URANTIA_, s'exprime sur <a id="a46_106"></a>[LU 103:1.3](/fr/The_Urantia_Book/103#p1_3) : «_Bien que votre religion soit une affaire d’expérience personnelle, il est très important que vous soyez amené à connaitre un grand nombre d’autres expériences religieuses (les interprétations diverses de différents mortels) afin d’empêcher votre vie religieuse de devenir égocentrique — étroite, égoïste et insociable._ »
 
 —_Julia Fenderson_
 

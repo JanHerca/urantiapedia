@@ -45,7 +45,7 @@ _Denver, Colorado_
 
 ## La plus grande réussite humaine
 
-_Le Livre d'URANTIA_ discute souvent de l'importance de la famille dans la société humaine. Par exemple, nous trouvons des déclarations telles que : « _La famille est la plus grande réalisation purement humaine de l'homme..._ » et « _Telles les familles d’une race ou d’une nation, telle sa société. Si les familles sont bonnes, la société est également bonne._ » ([LU 84:6.8](/fr/The_Urantia_Book/84#p6_8); [LU 84:7.1](/fr/The_Urantia_Book/84#p7_1))
+_Le Livre d'URANTIA_ discute souvent de l'importance de la famille dans la société humaine. Par exemple, nous trouvons des déclarations telles que : « _La famille est la plus grande réalisation purement humaine de l'homme..._ » et « _Telles les familles d’une race ou d’une nation, telle sa société. Si les familles sont bonnes, la société est également bonne._ » (<a id="a47_365"></a>[LU 84:6.8](/fr/The_Urantia_Book/84#p6_8); <a id="a47_408"></a>[LU 84:7.1](/fr/The_Urantia_Book/84#p7_1))
 
 Il est clair cependant que dans la plupart des sociétés urantiennes modernes, la famille en tant qu’institution traverse des temps difficiles. Aux États-Unis, par exemple, le taux de divorce continue de monter en flèche, donnant lieu à des statistiques telles que la récente projection du Census Bureau selon laquelle la moitié de tous les enfants nés cette année aux États-Unis passeront une partie importante de leur enfance dans un foyer. avec un seul parent. Plus on approfondit les données actuelles sur la situation de la famille, plus le tableau d’ensemble devient négatif.
 
@@ -85,7 +85,7 @@ _Palo Alto, Californie_
 
 ## Culte
 
-> « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, ..._ » ([LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))
+> « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, ..._ » (<a id="a87_199"></a>[LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))
 
 Il n’existe pas d’amour humain aussi satisfaisant que celui d’un enfant humain pour un parent humain, et particulièrement d’un enfant connaissant Dieu pour un parent connaissant Dieu. Il y a quelque chose dans la manière, quelque chose dans les yeux, dans le visage, dans la voix.
 
@@ -96,7 +96,7 @@ Si nous devenons comme un petit enfant et si nous sommes capables de ce genre d'
 —_C. L. Van Sant_
 _Bartlesville, Oklahoma_
 
-> « _Durant tout cet âge glorieux, la recherche principale des mortels en progrès est la quête d’une meilleure compréhension et d’une réalisation plus complète des éléments compréhensibles de la Déité — la vérité, la beauté et la bonté. Cela représente l’effort des hommes pour discerner Dieu dans le mental, la matière et l’esprit._ » ([LU 56:10.2](/fr/The_Urantia_Book/56#p10_2))
+> « _Durant tout cet âge glorieux, la recherche principale des mortels en progrès est la quête d’une meilleure compréhension et d’une réalisation plus complète des éléments compréhensibles de la Déité — la vérité, la beauté et la bonté. Cela représente l’effort des hommes pour discerner Dieu dans le mental, la matière et l’esprit._ » (<a id="a98_337"></a>[LU 56:10.2](/fr/The_Urantia_Book/56#p10_2))
 
 
 

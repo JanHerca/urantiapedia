@@ -60,7 +60,7 @@ _Cet article, imprimé ici dans son intégralité, a été présenté à la Deux
 
 Dans notre monde et de nos jours, dans la vie de chaque personne d'esprit normal, une chose étrange et merveilleuse se produit, généralement juste avant son sixième anniversaire. Lorsqu’un esprit humain prend sa première décision morale, il se voit accorder une identité spirituelle. Un fragment de Dieu arrive du Paradis pour élire domicile dans cet esprit humain désormais préparé. Cet esprit est connu sous de nombreux noms : l'Ajusteur de Pensée, le Moniteur de Mystère, le Fragment du Père, le Don Divin. Entité prépersonnelle, cet esprit intérieur est de l’essence de la Divinité. La nature du Père est aussi la nature de cet esprit ; l'énergie même qui constitue la présence factuelle de l'Ajusteur de Pensée répond directement au Père du Paradis. L’Ajusteur de Pensée est la présence de Dieu en vous. Et bien plus encore : c'est aussi votre esprit.
 
-> « _Votre Ajusteur est le potentiel de votre nouvel et prochain ordre d’existence, le don anticipé de votre filiation éternelle avec Dieu. Par et avec le consentement de votre volonté, l’Ajusteur a le pouvoir de soumettre les tendances naturelles du mental matériel à l’action transformatrice des motivations et desseins de votre âme morontielle émergente._ » ([LU 108:5.4](/fr/The_Urantia_Book/108#p5_4))
+> « _Votre Ajusteur est le potentiel de votre nouvel et prochain ordre d’existence, le don anticipé de votre filiation éternelle avec Dieu. Par et avec le consentement de votre volonté, l’Ajusteur a le pouvoir de soumettre les tendances naturelles du mental matériel à l’action transformatrice des motivations et desseins de votre âme morontielle émergente._ » (<a id="a62_362"></a>[LU 108:5.4](/fr/The_Urantia_Book/108#p5_4))
 
 L’arrivée de l’Ajusteur de Pensée est l’occasion de la naissance de votre âme. Cet esprit est le père de votre âme et votre esprit matériel est la mère de votre âme. Pour le reste de votre vie sur Urantia, votre Ajusteur tentera de diriger votre libre arbitre mortel vers ces décisions spirituelles qui favoriseront la croissance de votre âme, dans le but que votre âme soit capable de survivre à votre mort dans le monde. chair. Votre Ajusteur de Pensée arrive avec une carrière modèle déjà formulée pour votre vie sur Urantia, élaborée à partir d'une connaissance de vos facteurs mentaux et ancestraux. Vous êtes toujours libre d'accepter ou de rejeter tout ou partie de ce plan. Jamais Dieu n’abroge ce précieux libre arbitre qu’il a accordé lui-même à ses enfants.
 
@@ -84,7 +84,7 @@ _Louisville, Colorado_
 
 ## Pensées d'un ajusteur de pensée
 
-> « _Nous croyons qu’en présence de ces faits, les Moniteurs s’offrent volontairement pour une affectation. Il est probable que plusieurs Ajusteurs se présenteront pour un poste. Peut-être les ordres personnalisés superviseurs choisissent-ils, dans le groupe de volontaires, celui qui est le mieux qualifié pour la tâche de spiritualiser et rendre éternelle la personnalité du candidat mortel._ » ([LU 108:1.7](/fr/The_Urantia_Book/108#p1_7))
+> « _Nous croyons qu’en présence de ces faits, les Moniteurs s’offrent volontairement pour une affectation. Il est probable que plusieurs Ajusteurs se présenteront pour un poste. Peut-être les ordres personnalisés superviseurs choisissent-ils, dans le groupe de volontaires, celui qui est le mieux qualifié pour la tâche de spiritualiser et rendre éternelle la personnalité du candidat mortel._ » (<a id="a86_398"></a>[LU 108:1.7](/fr/The_Urantia_Book/108#p1_7))
 
 Tout d’abord, vais-je me présenter. Je suis originaire de Divinington et je suis un Ajusteur de Pensée, un Moniteur de Mystères, un Don Divin ou toute autre désignation de mot qui peut m'être appliquée par les enfants du Père Universel. L'expérience m'appartient, j'ai déjà regardé à travers les yeux de créatures évolutionnaires et j'ai vu des paysages très différents de ceux d'Urantia. Des soleils jumeaux ont marché au-dessus de nous, et les cieux d'autres parties des superunivers sont modelés avec d'autres constellations, d'autres systèmes. Mais l'amour et le dessein du Père palpitaient toujours à travers le tout.
 
@@ -95,7 +95,7 @@ J'ai un numéro complet – si complet qu'il est inutile pour un usage banal. Je
 —_Marian Hauck_
 Aurore, Colorado
 
-> « _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu — le Dieu même qui a rendu possible la vie de cette créature, avec ses valeurs et ses significations intérieures._ » ([LU 111:5.1](/fr/The_Urantia_Book/111#p5_1))
+> « _En faisant la volonté de Dieu, une créature ne fait rien de plus ni de moins que de montrer son bon vouloir pour partager sa vie intérieure avec Dieu — le Dieu même qui a rendu possible la vie de cette créature, avec ses valeurs et ses significations intérieures._ » (<a id="a97_273"></a>[LU 111:5.1](/fr/The_Urantia_Book/111#p5_1))
 
 
 

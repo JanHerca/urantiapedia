@@ -62,7 +62,7 @@ Malheureusement, leur message n'est pas resté totalement permanent au milieu de
 
 c. **Ensuite, Machiventa a collaboré avec de nombreux prophètes et voyants** sur Terre, invisiblement présents d'environ 1866 avant JC à 30 après JC, pendant environ 1 900 ans, jusqu’à l’époque de l’arrivée et du ministère du Christ sur Terre.
 
-> _Durant les dix-neuf siècles suivants, ce Melchizédek collabora d’une façon continue avec de nombreux prophètes et voyants, s’efforçant ainsi de garder vivantes les vérités de Salem jusqu’à la plénitude des temps pour l’apparition de Micaël sur terre._ ([LU 93:10.4](/fr/The_Urantia_Book/93#p10_4))
+> _Durant les dix-neuf siècles suivants, ce Melchizédek collabora d’une façon continue avec de nombreux prophètes et voyants, s’efforçant ainsi de garder vivantes les vérités de Salem jusqu’à la plénitude des temps pour l’apparition de Micaël sur terre._ (<a id="a64_256"></a>[LU 93:10.4](/fr/The_Urantia_Book/93#p10_4))
 
 Au cours de cette période marquante de l’histoire de la Terre, de nombreux prophètes et voyants notables sont entrés en scène. Je suppose qu’il était probable que Melchisédek ait collaboré, de manière invisible, avec beaucoup d’entre eux et ait encouragé leurs efforts, particulièrement en ce qui concerne le concept de Dieu. Les personnes et événements hautement significatifs comprennent :
 
@@ -89,7 +89,7 @@ Les bases pour estimer le calendrier du gouverneur général Melchisédek, une p
 
 Les trois premières parties des fascicules d'Urantia furent achevées en 1935 après JC. Pour l’expression « il y a moins de mille ans », j’estime 985 ans, ce qui nous ramène à l’an 950 après JC. À cela j'ajoute cent ans pour la durée du mandat de Melchisédek comme gouverneur général d'Urantia, ce qui nous amène à 1050 après JC.
 
-> « _Il y a moins de mille ans, ce même Machiventa Melchizédek, jadis le sage de Salem, fut présent sous forme invisible sur Urantia pendant une période de cent ans, agissant comme gouverneur général résident de la planète. Si le présent système de direction des affaires planétaires se perpétue, Machiventa doit revenir dans un peu plus de mille ans et reprendre cette fonction._ » ([LU 93:10.10](/fr/The_Urantia_Book/93#p10_10))
+> « _Il y a moins de mille ans, ce même Machiventa Melchizédek, jadis le sage de Salem, fut présent sous forme invisible sur Urantia pendant une période de cent ans, agissant comme gouverneur général résident de la planète. Si le présent système de direction des affaires planétaires se perpétue, Machiventa doit revenir dans un peu plus de mille ans et reprendre cette fonction._ » (<a id="a91_384"></a>[LU 93:10.10](/fr/The_Urantia_Book/93#p10_10))
 
 _Début du mandat en tant que gouverneur général résident_
 
@@ -119,7 +119,7 @@ Les événements survenus au cours du mandat centenaire de Machiventa en tant qu
 
 e. **Prince Planétaire Vice-Gérant d'Urantia, époque actuelle**
 
-> Ce Melchizédek a été proclamé par la suite Prince Planétaire vice-gérant d’Urantia, avec quartier général sur Jérusem. Il a autorité pour agir au nom de Micaël, qui est effectivement le Prince Planétaire du monde où il a effectué son effusion terminale sous forme humaine. ([LU 45:4.16](/fr/The_Urantia_Book/45#p4_16))
+> Ce Melchizédek a été proclamé par la suite Prince Planétaire vice-gérant d’Urantia, avec quartier général sur Jérusem. Il a autorité pour agir au nom de Micaël, qui est effectivement le Prince Planétaire du monde où il a effectué son effusion terminale sous forme humaine. (<a id="a121_276"></a>[LU 45:4.16](/fr/The_Urantia_Book/45#p4_16))
 
 ## Réflexions sur la prière
 
@@ -133,9 +133,9 @@ Nous ne pouvons qu’imaginer la camaraderie étroite dont Michael et Machiventa
 
 Et il semble donc que la sélection par Michael du fils d'urgence très expérimenté et polyvalent, Machiventa Melchizédek, pour être notre prince planétaire vice-gérant actuel, était le choix parfait. Son quartier général est désormais à Jérusem.
 
-> Certains croient que Machiventa ne viendra pas prendre personnellement en mains les affaires d’Urantia avant la fin de la présente dispensation. D’autres estiment que le Prince vice-gérant ne peut venir, comme tel, avant que Micaël ne revienne sur Urantia comme il l’a promis lorsqu’il était encore dans la chair. D’autres encore, y compris le narrateur, s’attendent que Melchizédek apparaisse à tout moment. ([LU 114:1.4](/fr/The_Urantia_Book/114#p1_4))
+> Certains croient que Machiventa ne viendra pas prendre personnellement en mains les affaires d’Urantia avant la fin de la présente dispensation. D’autres estiment que le Prince vice-gérant ne peut venir, comme tel, avant que Micaël ne revienne sur Urantia comme il l’a promis lorsqu’il était encore dans la chair. D’autres encore, y compris le narrateur, s’attendent que Melchizédek apparaisse à tout moment. (<a id="a135_412"></a>[LU 114:1.4](/fr/The_Urantia_Book/114#p1_4))
 
-> Telle est l’histoire de Machiventa Melchizédek, l’un des plus extraordinaires personnages qui aient jamais été liés à l’histoire d’Urantia, et une personnalité qui peut être destinée à jouer un rôle important dans l’expérience future de votre monde anormal et peu commun. ([LU 93:10.11](/fr/The_Urantia_Book/93#p10_11))
+> Telle est l’histoire de Machiventa Melchizédek, l’un des plus extraordinaires personnages qui aient jamais été liés à l’histoire d’Urantia, et une personnalité qui peut être destinée à jouer un rôle important dans l’expérience future de votre monde anormal et peu commun. (<a id="a137_275"></a>[LU 93:10.11](/fr/The_Urantia_Book/93#p10_11))
 
 Mettons la main à la charrue du progrès mondial et avançons avec dévouement, foi, intelligence et confiance.
 

@@ -53,9 +53,9 @@ Si Jésus aimait faire de petites choses pour les gens, alors cela vaut sûremen
 
 —_Michael Peintre_
 
-> « _...L’amour est la manifestation de l’impulsion vitale intérieure et divine. Il est fondé sur la compréhension, entretenu par le service désintéressé et accompli dans la sagesse._ » ([LU 174:1.5](/fr/The_Urantia_Book/174#p1_5))
+> « _...L’amour est la manifestation de l’impulsion vitale intérieure et divine. Il est fondé sur la compréhension, entretenu par le service désintéressé et accompli dans la sagesse._ » (<a id="a55_187"></a>[LU 174:1.5](/fr/The_Urantia_Book/174#p1_5))
 
-> « _...la fraternité et le service sont les pierres angulaires de l’évangile du royaume._ » ([LU 178:1.4](/fr/The_Urantia_Book/178#p1_4))
+> « _...la fraternité et le service sont les pierres angulaires de l’évangile du royaume._ » (<a id="a57_94"></a>[LU 178:1.4](/fr/The_Urantia_Book/178#p1_4))
 
 
 

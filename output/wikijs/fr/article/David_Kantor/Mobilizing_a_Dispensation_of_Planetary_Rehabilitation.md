@@ -35,25 +35,25 @@ Il est possible que les dispenses fournissent également un moyen de synchronise
 
 ## La dispensation actuelle sur Urantia
 
-La dispensation actuelle sur Urantia est la dispensation de l'Esprit de Vérité accordé, le Consolateur, cette [[LU 34:4.5](/fr/The_Urantia_Book/34#p4_5)] « _force spirituelle qui attire toujours tous les chercheurs de vérité vers Celui qui est la personnification de la vérité dans l'univers local._ » Sur Urantia, ni l'expérience spirituelle personnelle ni le développement de la civilisation ne pourront plus jamais être les mêmes. 
+La dispensation actuelle sur Urantia est la dispensation de l'Esprit de Vérité accordé, le Consolateur, cette <a id="a37_110"></a>[[LU 34:4.5](/fr/The_Urantia_Book/34#p4_5)] « _force spirituelle qui attire toujours tous les chercheurs de vérité vers Celui qui est la personnification de la vérité dans l'univers local._ » Sur Urantia, ni l'expérience spirituelle personnelle ni le développement de la civilisation ne pourront plus jamais être les mêmes. 
 
 De puissantes forces spirituelles ont été libérées pour permettre l'accès des mortels individuels, y compris l'Esprit de Vérité et l'effusion universelle des Ajusteurs de Pensée. Mais l’efficacité de ces ressources pour la réhabilitation planétaire dépend de la participation coopérative des mortels individuels fonctionnant dans l’environnement matériel et interpersonnel de la planète. 
 
 Que pouvons-nous discerner concernant les intentions surhumaines pour la dispensation actuelle ? L’examen des objectifs de l’Esprit de Vérité qui nous guide éclaire la question sans aucun doute. 
 
-> «... il envoie à sa place l’Esprit de Vérité destiné à vivre dans l’homme et à reformuler le message de Jésus pour chaque nouvelle génération. Ainsi, chaque nouveau groupe de mortels apparaissant à la surface de la terre aura une nouvelle version mise à jour de l’évangile ; » ([LU 194:2.1](/fr/The_Urantia_Book/194#p2_1))
+> «... il envoie à sa place l’Esprit de Vérité destiné à vivre dans l’homme et à reformuler le message de Jésus pour chaque nouvelle génération. Ainsi, chaque nouveau groupe de mortels apparaissant à la surface de la terre aura une nouvelle version mise à jour de l’évangile ; » (<a id="a43_280"></a>[LU 194:2.1](/fr/The_Urantia_Book/194#p2_1))
 
-> « Cet esprit fut effusé afin de qualifier les croyants pour prêcher plus efficacement l’évangile du royaume, » ([LU 194:3.5](/fr/The_Urantia_Book/194#p3_5))
+> « Cet esprit fut effusé afin de qualifier les croyants pour prêcher plus efficacement l’évangile du royaume, » (<a id="a45_114"></a>[LU 194:3.5](/fr/The_Urantia_Book/194#p3_5))
 
-> « Ensuite, l’Esprit de Vérité vint aider les croyants à témoigner des réalités des enseignements et de la vie de Jésus telle qu’il la vécut dans la chair, et telle qu’il la vit maintenant de nouveau et à nouveau dans chaque croyant des générations successives de fils de Dieu imprégnés de l’esprit. » ([LU 194:2.6](/fr/The_Urantia_Book/194#p2_6))
+> « Ensuite, l’Esprit de Vérité vint aider les croyants à témoigner des réalités des enseignements et de la vie de Jésus telle qu’il la vécut dans la chair, et telle qu’il la vit maintenant de nouveau et à nouveau dans chaque croyant des générations successives de fils de Dieu imprégnés de l’esprit. » (<a id="a47_304"></a>[LU 194:2.6](/fr/The_Urantia_Book/194#p2_6))
 
-> « Les fruits de l’esprit, votre service sincère et aimant, sont le puissant levier social capable d’élever les races enténébrées, et cet Esprit de Vérité deviendra le point d’appui qui multipliera votre pouvoir. » ([LU 178:1.6](/fr/The_Urantia_Book/178#p1_6))
+> « Les fruits de l’esprit, votre service sincère et aimant, sont le puissant levier social capable d’élever les races enténébrées, et cet Esprit de Vérité deviendra le point d’appui qui multipliera votre pouvoir. » (<a id="a49_217"></a>[LU 178:1.6](/fr/The_Urantia_Book/178#p1_6))
 
-> « Par peur, vous fuyez maintenant devant les faits d’une expérience désagréable, mais, quand vous aurez été baptisés de l’Esprit de Vérité, vous irez bravement et joyeusement au-devant des nouvelles expériences où vous proclamerez la bonne nouvelle de la vie éternelle dans le royaume de Dieu. » ([LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
+> « Par peur, vous fuyez maintenant devant les faits d’une expérience désagréable, mais, quand vous aurez été baptisés de l’Esprit de Vérité, vous irez bravement et joyeusement au-devant des nouvelles expériences où vous proclamerez la bonne nouvelle de la vie éternelle dans le royaume de Dieu. » (<a id="a51_299"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
 La tâche principale de la dispensation actuelle est de favoriser une conscience mondiale du royaume. Dit Jésus, 
 
-> « Cependant, vous devriez comprendre ceci : quand l’évangile du royaume aura été proclamé dans le monde entier pour le salut de tous les peuples, et quand l’âge aura atteint sa plénitude, le Père vous enverra une autre effusion dispensationnelle, ou bien, alors, le Fils de l’Homme reviendra pour adjuger l’âge. » ([LU 176:2.5](/fr/The_Urantia_Book/176#p2_5))
+> « Cependant, vous devriez comprendre ceci : quand l’évangile du royaume aura été proclamé dans le monde entier pour le salut de tous les peuples, et quand l’âge aura atteint sa plénitude, le Père vous enverra une autre effusion dispensationnelle, ou bien, alors, le Fils de l’Homme reviendra pour adjuger l’âge. » (<a id="a55_317"></a>[LU 176:2.5](/fr/The_Urantia_Book/176#p2_5))
 
 Favoriser une appréciation mondiale du Royaume créera le fondement sur lequel la révélation de la prochaine dispensation aura lieu. Mais la réalisation de ce redressement planétaire dépendra fortement de l’engagement des mortels et du travail de plusieurs générations. 
 
@@ -63,7 +63,7 @@ Il a fourni de puissantes ressources spirituelles : l’Esprit de Vérité, la m
 
 Apprécions-nous pleinement que notre Fils Créateur nous demande personnellement de l’aider à réhabiliter cette planète isolée et frappée par le péché ? Comme il l’a instruit avec insistance aux soixante-dix, 
 
-> « 1. L’évangile du royaume doit être proclamé dans le monde entier, aux Gentils comme aux Juifs. » ([LU 163:4.2](/fr/The_Urantia_Book/163#p4_2))
+> « 1. L’évangile du royaume doit être proclamé dans le monde entier, aux Gentils comme aux Juifs. » (<a id="a65_102"></a>[LU 163:4.2](/fr/The_Urantia_Book/163#p4_2))
 
 ## Le caractère révolutionnaire de son enseignement 
 
@@ -89,7 +89,7 @@ Dans le domaine de l'être social, il accorde une grande valeur au fait de servi
 
 Les fruits de l’esprit ne sont ressentis que lorsque ces attitudes de personnalité sont réellement vécues. Le service aimant, le dévouement désintéressé, la loyauté courageuse, l’équité sincère, l’honnêteté éclairée, l’espoir éternel, la confiance confiante, le ministère miséricordieux, la bonté infaillible et la tolérance indulgente ne peuvent être expérimentés que dans les relations avec d’autres personnes. 
 
-Jésus n'enseignait ni une doctrine ni une idéologie. Il n’essayait pas non plus de fonder une religion. C'était notre Créateur, incarné, qui nous expliquait comment la réalité fonctionne dans un univers personnel ; comment grandir et s'épanouir en tant que personne dans un monde avec d'autres personnes. Il révélait la personnalité elle-même comme le fondement même de l'être. La dispensation qu’il inaugurait était celle dans laquelle [[LU 179:5.2](/fr/The_Urantia_Book/179#p5_2)] « l’individu asservi émerge de l’esclavage du cérémonialisme et de l’égoïsme pour entrer dans la joie spirituelle de la fraternité et de la communion des fils de la foi libérés du Dieu vivant ». 
+Jésus n'enseignait ni une doctrine ni une idéologie. Il n’essayait pas non plus de fonder une religion. C'était notre Créateur, incarné, qui nous expliquait comment la réalité fonctionne dans un univers personnel ; comment grandir et s'épanouir en tant que personne dans un monde avec d'autres personnes. Il révélait la personnalité elle-même comme le fondement même de l'être. La dispensation qu’il inaugurait était celle dans laquelle <a id="a91_437"></a>[[LU 179:5.2](/fr/The_Urantia_Book/179#p5_2)] « l’individu asservi émerge de l’esclavage du cérémonialisme et de l’égoïsme pour entrer dans la joie spirituelle de la fraternité et de la communion des fils de la foi libérés du Dieu vivant ». 
 
 C’était notre Créateur qui est venu « afin que nous ayons la vie et que nous l’ayons en abondance ». 
 
@@ -100,23 +100,23 @@ C’était notre Créateur qui est venu « afin que nous ayons la vie et que nou
 
 ## Participation 
 
-Mais notez que cet Esprit de Vérité [[LU 34:5.5](/fr/The_Urantia_Book/34#p5_5)] « est presque entièrement limité en fonction et en puissance par la réception personnelle par l'homme de ce qui constitue la somme et la substance de la mission du Fils d'effusion. » 
+Mais notez que cet Esprit de Vérité <a id="a102_36"></a>[[LU 34:5.5](/fr/The_Urantia_Book/34#p5_5)] « est presque entièrement limité en fonction et en puissance par la réception personnelle par l'homme de ce qui constitue la somme et la substance de la mission du Fils d'effusion. » 
 
 Quelle pourrait être cette « somme et substance » ? 
 
-> « Je suis venu proclamer l’établissement du royaume du Père. » ([LU 137:8.6](/fr/The_Urantia_Book/137#p8_6))
+> « Je suis venu proclamer l’établissement du royaume du Père. » (<a id="a106_66"></a>[LU 137:8.6](/fr/The_Urantia_Book/137#p8_6))
 
-> « Je suis venu prêcher la bonne nouvelle du royaume. » ([LU 137:8.14](/fr/The_Urantia_Book/137#p8_14))
+> « Je suis venu prêcher la bonne nouvelle du royaume. » (<a id="a108_58"></a>[LU 137:8.14](/fr/The_Urantia_Book/137#p8_14))
 
-> «  Je suis venu dans le monde pour révéler le Père et pour établir son royaume. » ([LU 145:3.9](/fr/The_Urantia_Book/145#p3_9))
+> «  Je suis venu dans le monde pour révéler le Père et pour établir son royaume. » (<a id="a110_85"></a>[LU 145:3.9](/fr/The_Urantia_Book/145#p3_9))
 
-> «  Je ne suis pas venu pour réformer les royaumes de ce monde, mais plutôt pour établir le royaume des cieux. » ([LU 140:6.6](/fr/The_Urantia_Book/140#p6_6))
+> «  Je ne suis pas venu pour réformer les royaumes de ce monde, mais plutôt pour établir le royaume des cieux. » (<a id="a112_115"></a>[LU 140:6.6](/fr/The_Urantia_Book/140#p6_6))
 
-Et à quoi pourrait ressembler notre « accueil personnel » de sa mission ? [[LU 140:6.6](/fr/The_Urantia_Book/140#p6_6)]
+Et à quoi pourrait ressembler notre « accueil personnel » de sa mission ? <a id="a114_74"></a>[[LU 140:6.6](/fr/The_Urantia_Book/140#p6_6)]
 
-> [Jesus] se consacrait en même temps à la tâche sublime de vivre sa propre vie terrestre mortelle en restant constamment soumis à la volonté de ce même Père du Paradis. ([LU 129:3.5](/fr/The_Urantia_Book/129#p3_5))
+> [Jesus] se consacrait en même temps à la tâche sublime de vivre sa propre vie terrestre mortelle en restant constamment soumis à la volonté de ce même Père du Paradis. (<a id="a116_171"></a>[LU 129:3.5](/fr/The_Urantia_Book/129#p3_5))
 
-Notre « réception personnelle » de sa mission – notre assimilation de sa religion – implique l’incarnation et l’expression à travers nos propres vies de ses objectifs spirituels personnels. À cet égard, nous devons noter que [LU 160:5.3](/fr/The_Urantia_Book/160#p5_3) « _Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l’humanité, de toutes les intelligences de l’univers. Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » 
+Notre « réception personnelle » de sa mission – notre assimilation de sa religion – implique l’incarnation et l’expression à travers nos propres vies de ses objectifs spirituels personnels. À cet égard, nous devons noter que <a id="a118_225"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3) « _Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l’humanité, de toutes les intelligences de l’univers. Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » 
 
 Non seulement notre réception personnelle de sa mission favorise le processus de réhabilitation planétaire ; nos personnalités deviennent plus réelles à mesure que nous nous engageons dans les tendances spirituelles et les objectifs de la dispensation actuelle. L’ascension à travers les cercles psychiques est directement liée à la maîtrise des défis de personnalité inhérents aux tâches du royaume. Ici, dans nos premières vies dans la chair, le service du royaume et la croissance personnelle sont tous fournis dans un ensemble de carrière intégré disponible au choix. 
 

@@ -46,7 +46,7 @@ _Hyderabad, Inde_
 
 ---
 
-> « _La vraie religion est une pénétration dans la réalité, l’enfant par la foi de la conscience morale, et non un simple assentiment intellectuel à un quelconque corps de doctrines dogmatiques. La vraie religion consiste à éprouver expérimentalement que « l’Esprit lui-même rend témoignage avec notre esprit que nous sommes les enfants de Dieu »._ » ([LU 101:2.13](/fr/The_Urantia_Book/101#p2_13))
+> « _La vraie religion est une pénétration dans la réalité, l’enfant par la foi de la conscience morale, et non un simple assentiment intellectuel à un quelconque corps de doctrines dogmatiques. La vraie religion consiste à éprouver expérimentalement que « l’Esprit lui-même rend témoignage avec notre esprit que nous sommes les enfants de Dieu »._ » (<a id="a48_352"></a>[LU 101:2.13](/fr/The_Urantia_Book/101#p2_13))
 
 
 

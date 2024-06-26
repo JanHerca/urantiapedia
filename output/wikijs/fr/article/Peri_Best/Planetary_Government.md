@@ -47,7 +47,7 @@ Nous sommes témoins d’événements sans précédent qui se déroulent dans le
 
 Personnellement, je crois que la racine du mal-être est au sein de la famille et particulièrement dans la relation homme/femme déséquilibrée et incomprise. Mais nous laisserons cette exploration pour un autre jour. Aujourd’hui, je propose que nous examinions le soin excessif que nos amis célestes accordent à notre monde et que nous recherchions des suggestions sur la manière dont nous pourrions aider.
 
-Lecture suggérée : [Fascicule 114](/fr/The_Urantia_Book/114) et pour avoir un aperçu de l’administration compatissante face à la rébellion, consultez le [Fascicule 119](/fr/The_Urantia_Book/119) - Les effusions de Christ Michel. [LU 114:0.4](/fr/The_Urantia_Book/114#p0_4) Urantia n'est pas sans une supervision appropriée et efficace de la part des dirigeants du système, de la constellation et de l’univers. Mais le gouvernement planétaire ne ressemble à aucun autre monde dans le système de Satania, même dans tout Nébadon.
+Lecture suggérée : [Fascicule 114](/fr/The_Urantia_Book/114) et pour avoir un aperçu de l’administration compatissante face à la rébellion, consultez le [Fascicule 119](/fr/The_Urantia_Book/119) - Les effusions de Christ Michel. <a id="a49_229"></a>[LU 114:0.4](/fr/The_Urantia_Book/114#p0_4) Urantia n'est pas sans une supervision appropriée et efficace de la part des dirigeants du système, de la constellation et de l’univers. Mais le gouvernement planétaire ne ressemble à aucun autre monde dans le système de Satania, même dans tout Nébadon.
 
 Ce caractère unique de votre plan de supervision est dû à un certain nombre de circonstances inhabituelles :
 
@@ -61,9 +61,9 @@ Ce caractère unique de votre plan de supervision est dû à un certain nombre d
 
 Depuis la Pentecôte, notre Prince Planétaire, Michel de Nébadon, a remis le gouvernement d'Urantia à Machiventa Melchizédek qui, à son tour, laisse de nombreuses tâches administratives au conseil des 24 anciens Urantiens (ils président également les conseils des 36 autres mondes dans le domaine spirituel quarantaine).
 
-Le siège du conseil des 24 est à Jérusem et ils ont été désignés comme agents personnels de Michael. ([LU 45:4.1](/fr/The_Urantia_Book/45#p4_1)) L'un des membres du conseil des 24 est l’actuel gouverneur général résident. Ils se relaient.
+Le siège du conseil des 24 est à Jérusem et ils ont été désignés comme agents personnels de Michael. (<a id="a63_102"></a>[LU 45:4.1](/fr/The_Urantia_Book/45#p4_1)) L'un des membres du conseil des 24 est l’actuel gouverneur général résident. Ils se relaient.
 
-> Ces vingt-quatre conseillers ont été recrutés parmi les huit races d’Urantia, et les derniers du groupe furent rassemblés à l’époque de l’appel de la résurrection fait par Micaël il y a dix-neuf-cents ans. Ce conseil consultatif d’Urantia est composé des membres suivants : ([LU 45:4.2](/fr/The_Urantia_Book/45#p4_2))
+> Ces vingt-quatre conseillers ont été recrutés parmi les huit races d’Urantia, et les derniers du groupe furent rassemblés à l’époque de l’appel de la résurrection fait par Micaël il y a dix-neuf-cents ans. Ce conseil consultatif d’Urantia est composé des membres suivants : (<a id="a65_277"></a>[LU 45:4.2](/fr/The_Urantia_Book/45#p4_2))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/009.jpg">

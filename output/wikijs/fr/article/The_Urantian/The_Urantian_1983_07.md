@@ -54,7 +54,7 @@ _Montréal Canada_
 
 ---
 
-> « _Sans Dieu, et à défaut de sa personne grandiose et centrale, il n’y aurait aucune personnalité dans la totalité du vaste univers des univers. *Dieu est personnalité.*_ » ([LU 1:5.7](/fr/The_Urantia_Book/1#p5_7))
+> « _Sans Dieu, et à défaut de sa personne grandiose et centrale, il n’y aurait aucune personnalité dans la totalité du vaste univers des univers. *Dieu est personnalité.*_ » (<a id="a56_176"></a>[LU 1:5.7](/fr/The_Urantia_Book/1#p5_7))
 
 
 

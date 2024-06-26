@@ -72,7 +72,7 @@ _Greenfield Park. Québec_
 
 ---
 
-> « _Le statut physique peut handicaper le mental, et la perversité mentale peut retarder l’aboutissement spirituel, mais, si un homme a choisi de toute son âme, aucun de ces obstacles ne peut triompher de sa volonté._ » ([LU 65:8.5](/fr/The_Urantia_Book/65#p8_5))
+> « _Le statut physique peut handicaper le mental, et la perversité mentale peut retarder l’aboutissement spirituel, mais, si un homme a choisi de toute son âme, aucun de ces obstacles ne peut triompher de sa volonté._ » (<a id="a74_222"></a>[LU 65:8.5](/fr/The_Urantia_Book/65#p8_5))
 
 
 

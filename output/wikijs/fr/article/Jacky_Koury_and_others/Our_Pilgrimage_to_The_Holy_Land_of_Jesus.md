@@ -73,7 +73,7 @@ L’un des exemples les plus dramatiques et émouvants d’une expérience du vo
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/021.jpg">
 </figure>
 
-Nous apprenons ensuite que Jésus était capable de se calmer avec de vieux souvenirs de scènes agréables de sa vie terrestre, notamment les levers et couchers de soleil sur « la mer scintillante de Galilée ». Le rappel de ces souvenirs le réconforta « car il rendit son cœur humain fort et prêt à rencontrer le traître qui devrait si tôt le trahir ». ([LU 182:3.10](/fr/The_Urantia_Book/182#p3_10))
+Nous apprenons ensuite que Jésus était capable de se calmer avec de vieux souvenirs de scènes agréables de sa vie terrestre, notamment les levers et couchers de soleil sur « la mer scintillante de Galilée ». Le rappel de ces souvenirs le réconforta « car il rendit son cœur humain fort et prêt à rencontrer le traître qui devrait si tôt le trahir ». (<a id="a75_351"></a>[LU 182:3.10](/fr/The_Urantia_Book/182#p3_10))
 
 La façon dont la lumière joue à la surface de l’eau, notamment au lever du soleil et en fin de journée, est en effet remarquable. La photo qui l’accompagne peut aider à donner une idée des souvenirs apaisants que Jésus gardait à l’esprit en cette terrible triste occasion. Diane avait organisé une sortie sur l’eau en bateau. C'était la fin de l’après-midi et le reflet des nuages dans l’eau était absolument époustouflant ! 
 

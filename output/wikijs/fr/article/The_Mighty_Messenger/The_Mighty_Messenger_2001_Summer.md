@@ -141,18 +141,18 @@ Nous avons ainsi pu faire l’expérience du _Livre d'Urantia_ en Colombie tel q
 Aimez-vous Quiz sur le Livre d'Urantia ?
 
 Les questions suivantes sont conçues pour vous divertir et vous mettre au défi concernant votre connaissance du _Le Livre d'Urantia_. Les réponses sont données par numéro de papier, section et paragraphe. Apprécier! Et pas de coup d’oeil à l’avance !
-1. Quand le circuit des archanges a-t-il fonctionné pour la première fois depuis Urantia ? ([LU 189:3.2](/fr/The_Urantia_Book/189#p3_2))
-2. Complétez les espaces « La paix d'Urantia sera beaucoup plus favorisée par <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>que par tous les sophismes sentimentaux d'une paix visionnaire planification." ([LU 70:3.4](/fr/The_Urantia_Book/70#p3_4))
-3. Combien d’apparitions morontielles Jésus a-t-il faites ? ([LU 193:3.1](/fr/The_Urantia_Book/193#p3_1))
-4. Nommez les sept esprits mentaux adjoints. ([LU 36:5.5-12](/fr/The_Urantia_Book/36#p5_5))
-5. Combien d’armées angéliques composent une armée angélique ? ([LU 38:6.2](/fr/The_Urantia_Book/38#p6_2))
-6. Qui est Gavalia ? ([LU 37:2.6](/fr/The_Urantia_Book/37#p2_6))
-7. Combien de changements dans votre forme morontielle subirez-vous à mesure que vous progressez dans la vie morontielle de Nébadon ? ([LU 48:1.5](/fr/The_Urantia_Book/48#p1_5))
-8. « <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> est l’antidote divin à l’exaltation de l’ego. » ([LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
-9. Qui les apôtres appelaient-ils le « chef » ? ([LU 139:1.2](/fr/The_Urantia_Book/139#p1_2))
-10. Nommez autant que possible des dix femmes sélectionnées et mandatées par Jésus comme premières membres du corps évangélique des femmes. ([LU 150:1.1](/fr/The_Urantia_Book/150#p1_1))
-11. « Seulement un <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp ;</u> peut rétablir les lignes de communication interplanétaires sur un monde aussi spirituellement isolé. ([LU 35:9.9](/fr/The_Urantia_Book/35#p9_9))
-12. Définissez un « agondonter ». ([LU 50:7.2](/fr/The_Urantia_Book/50#p7_2))
+1. Quand le circuit des archanges a-t-il fonctionné pour la première fois depuis Urantia ? (<a id="a143_92"></a>[LU 189:3.2](/fr/The_Urantia_Book/189#p3_2))
+2. Complétez les espaces « La paix d'Urantia sera beaucoup plus favorisée par <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>que par tous les sophismes sentimentaux d'une paix visionnaire planification." (<a id="a144_344"></a>[LU 70:3.4](/fr/The_Urantia_Book/70#p3_4))
+3. Combien d’apparitions morontielles Jésus a-t-il faites ? (<a id="a145_61"></a>[LU 193:3.1](/fr/The_Urantia_Book/193#p3_1))
+4. Nommez les sept esprits mentaux adjoints. (<a id="a146_46"></a>[LU 36:5.5-12](/fr/The_Urantia_Book/36#p5_5))
+5. Combien d’armées angéliques composent une armée angélique ? (<a id="a147_64"></a>[LU 38:6.2](/fr/The_Urantia_Book/38#p6_2))
+6. Qui est Gavalia ? (<a id="a148_22"></a>[LU 37:2.6](/fr/The_Urantia_Book/37#p2_6))
+7. Combien de changements dans votre forme morontielle subirez-vous à mesure que vous progressez dans la vie morontielle de Nébadon ? (<a id="a149_135"></a>[LU 48:1.5](/fr/The_Urantia_Book/48#p1_5))
+8. « <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> est l’antidote divin à l’exaltation de l’ego. » (<a id="a150_116"></a>[LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
+9. Qui les apôtres appelaient-ils le « chef » ? (<a id="a151_49"></a>[LU 139:1.2](/fr/The_Urantia_Book/139#p1_2))
+10. Nommez autant que possible des dix femmes sélectionnées et mandatées par Jésus comme premières membres du corps évangélique des femmes. (<a id="a152_141"></a>[LU 150:1.1](/fr/The_Urantia_Book/150#p1_1))
+11. « Seulement un <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp ;</u> peut rétablir les lignes de communication interplanétaires sur un monde aussi spirituellement isolé. (<a id="a153_246"></a>[LU 35:9.9](/fr/The_Urantia_Book/35#p9_9))
+12. Définissez un « agondonter ». (<a id="a154_35"></a>[LU 50:7.2](/fr/The_Urantia_Book/50#p7_2))
 
 
 ## SSS Santa Cruz « Doux et spécial »
@@ -170,7 +170,7 @@ Les soirées ont été remplies d'activités sociales parrainées par différent
 
 - **Octobre. 26-28, 2001 - Conférence Lone Star Roundup, Camp Buckner, Texas** : « Ramener l’esprit infini sur Terre » 
   Un examen des différentes fonctions de l’Esprit Infini, y compris le ministère angélique, l’esprit, le pouvoir de l’univers et l’aspect féminin ou « yin » de « l’Esprit Mère Infini » et comment nous pouvons ressentir cette présence dans nos vies. Rejoignez-nous « dans l’Esprit ». Pour plus d'informations, contactez Adrienne Jarnagin au (512) 756-1637 ou envoyez-lui un courriel à-aj@tstar.net.
-- **Nov. 2-4, 2001 – Retraite d'automne du Golden Gate Circle** : « Le Père Universel » Le Père Universel est une réalité spirituelle infinie ; il est « le Dieu souverain, éternel, immortel, invisible et seul vrai ». _Le Livre d'Urantia_, [LU 1:3.1](/fr/The_Urantia_Book/1#p3_1). 
+- **Nov. 2-4, 2001 – Retraite d'automne du Golden Gate Circle** : « Le Père Universel » Le Père Universel est une réalité spirituelle infinie ; il est « le Dieu souverain, éternel, immortel, invisible et seul vrai ». _Le Livre d'Urantia_, <a id="a172_239"></a>[LU 1:3.1](/fr/The_Urantia_Book/1#p3_1). 
   _Lieu_ : St. Dorothy's Rest, Camp Meeker, Californie (comté de Sonoma) 
   _Coût_. 85 $ plus le coût d'un repas par équipe de cuisine 
   _Contact_ : Dolores L. Nice, (650)369-6803 ou dlnice@worldnet.att.net
@@ -196,7 +196,7 @@ Téléphone : 773-327-0424. Télécopieur : 773-327-6159
 email : Fellowship@urantiabook.org
 site Web : http://www.ubfellowship.org
 
-> 25. La grandeur ne consiste pas tant à posséder de la force qu’à l’employer sagement et divinement. ([LU 48:7.27](/fr/The_Urantia_Book/48#p7_27))
+> 25. La grandeur ne consiste pas tant à posséder de la force qu’à l’employer sagement et divinement. (<a id="a198_103"></a>[LU 48:7.27](/fr/The_Urantia_Book/48#p7_27))
 
 
 ## Liens externes

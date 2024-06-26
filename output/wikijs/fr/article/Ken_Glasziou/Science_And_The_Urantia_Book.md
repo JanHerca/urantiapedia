@@ -60,7 +60,7 @@ ibid., (1987), 256(4), 84 .
 
 _Le Livre d'URANTIA_ associe la construction de montagnes sur la côte ouest de l'Amérique du Nord et du Sud à la dérive des continents. Aujourd’hui, personne ne doute que la formation de montagnes se produit aux confins des continents à la dérive, concomitamment à la subduction de la croûte océanique. Cependant, pratiquement personne ne croyait à la dérive des continents au moment de la rédaction (ou de la publication) du _Le Livre d'URANTIA_.
 
-Référence : _Le Livre URANTIA_, [LU 60:3.2](/fr/The_Urantia_Book/60#p3_2).
+Référence : _Le Livre URANTIA_, <a id="a62_32"></a>[LU 60:3.2](/fr/The_Urantia_Book/60#p3_2).
 
 ## Éléments stables
 

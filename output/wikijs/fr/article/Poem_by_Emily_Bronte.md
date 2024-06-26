@@ -50,7 +50,7 @@ Et ce que tu es ne pourra jamais être détruit.
 > Le poème, qui selon sa sœur Charlotte, sont les dernières lignes écrites par Emily Brontë, est sans titre.  
 {.is-info}
 
-> Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompensent vos efforts ! ([LU 32:5.7](/fr/The_Urantia_Book/32#p5_7))
+> Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompensent vos efforts ! (<a id="a52_288"></a>[LU 32:5.7](/fr/The_Urantia_Book/32#p5_7))
 
 ## Références
 

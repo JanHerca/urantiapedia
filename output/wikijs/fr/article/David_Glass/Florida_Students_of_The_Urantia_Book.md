@@ -99,7 +99,7 @@ Lee et Connie Lester et leur amie Norma qui se rendent à Englewood en voiture d
 
 Ce groupe d’étude a découvert « les concepts supérieurs du livre et comment ils forment une structure de croyance dans laquelle d’autres sujets abordés dans _Le Livre d’Urantia_ peuvent s'intégrer. Ils disent qu’avec les lectures ultérieures, une plus grande « image globale » apparaît et le livre dans son ensemble devient plus compréhensible. Connie et Lee lisent fréquemment ensemble et la révélation est une partie essentielle de leur vie commune. Ils ont été le canal personnel par lequel de nombreuses copies du _Livre d’Urantia_ sont passées entre les mains de nouveaux lecteurs.
 
-Les First United Sons of Englewood s’appellent également « Les Salières » car ils s’efforcent d’être le « sel de la terre, un sel à la saveur salvatrice ». ([LU 140:4.2](/fr/The_Urantia_Book/140#p4_2)) En ce qui concerne la désapprobation de leurs anciens associés, les Témoins de Jéhovah, Lee déclare que la fidélité à un enseignement supérieur nécessite « de s'y tenir, un véritable dévouement, une attitude non fantaisiste et un engagement personnel ».
+Les First United Sons of Englewood s’appellent également « Les Salières » car ils s’efforcent d’être le « sel de la terre, un sel à la saveur salvatrice ». (<a id="a101_157"></a>[LU 140:4.2](/fr/The_Urantia_Book/140#p4_2)) En ce qui concerne la désapprobation de leurs anciens associés, les Témoins de Jéhovah, Lee déclare que la fidélité à un enseignement supérieur nécessite « de s'y tenir, un véritable dévouement, une attitude non fantaisiste et un engagement personnel ».
 
 ## Les Ascendants Tropicaux 
 

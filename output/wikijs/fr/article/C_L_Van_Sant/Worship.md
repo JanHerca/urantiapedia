@@ -32,7 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-> « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, créée conjointement par le mental humain ..._ » ([LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))
+> « _L’expérience de l’adoration réside dans la tentative sublime de l’Ajusteur fiancé pour communiquer au Père divin les désirs inexprimables et les aspirations indicibles de l’âme humaine, créée conjointement par le mental humain ..._ » (<a id="a34_240"></a>[LU 5:3.8](/fr/The_Urantia_Book/5#p3_8))
 
 Il n’existe pas d’amour humain aussi satisfaisant que celui d’un enfant humain pour un parent humain, et particulièrement d’un enfant connaissant Dieu pour un parent connaissant Dieu. Il y a quelque chose dans la manière, quelque chose dans les yeux, dans le visage, dans la voix.
 
@@ -44,13 +44,13 @@ Personne n’est à blâmer pour cela. Nous savons si peu de choses sur Dieu. No
 
 Pour certains d’entre nous, il est difficile de définir ce qu’est l’adoration. Mais définir l’adoration nous aide grandement à nous libérer de la pratique. Il est clair que l’accent est différent de la prière. Dans la prière, nous demandons au Père, et bien qu'il soit le dispensateur de tous les bons dons, l'accent est mis sur nous-mêmes et sur nos besoins, pas sur lui. Dans l'adoration, nous donnons.
 
-> « _L’adoration se suffit à elle-même. ... Nous lui rendons cette dévotion et nous nous engageons dans cette adoration par une réaction naturelle et spontanée, en reconnaissant la personnalité incomparable du Père, et à cause de sa nature digne d’être aimée et de ses attributs adorables._ » ([LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))
+> « _L’adoration se suffit à elle-même. ... Nous lui rendons cette dévotion et nous nous engageons dans cette adoration par une réaction naturelle et spontanée, en reconnaissant la personnalité incomparable du Père, et à cause de sa nature digne d’être aimée et de ses attributs adorables._ » (<a id="a46_294"></a>[LU 5:3.3](/fr/The_Urantia_Book/5#p3_3))
 
 La prière elle-même est toujours précieuse. L'enfant peut toujours adresser une requête au parent. Mais même si l’adorateur ne demande rien pour lui-même, c’est l’adoration, plus que la prière, qui profite réellement à l’adorateur. L'adoration est si rafraîchissante... le repos de l'âme.
 
-L'adoration est l'occasion de passer quelques instants en communion intime avec la source de tout pouvoir, de toute vie et de tout amour. Bien que nous ne demandions rien pour nous-mêmes, nous constatons après le culte que nous retournons à nos problèmes avec « _... une tête plus claire et une main plus ferme..._ » ([LU 143:3.3](/fr/The_Urantia_Book/143#p3_3))
+L'adoration est l'occasion de passer quelques instants en communion intime avec la source de tout pouvoir, de toute vie et de tout amour. Bien que nous ne demandions rien pour nous-mêmes, nous constatons après le culte que nous retournons à nos problèmes avec « _... une tête plus claire et une main plus ferme..._ » (<a id="a50_318"></a>[LU 143:3.3](/fr/The_Urantia_Book/143#p3_3))
 
-Et ce n'est pas étonnant, car l'adoration « _... nous rend de plus en plus semblable à l'être adoré._ » ([LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)) Quel plus grand cadeau pouvons-nous recevoir du Père des lumières que cela ?
+Et ce n'est pas étonnant, car l'adoration « _... nous rend de plus en plus semblable à l'être adoré._ » (<a id="a52_105"></a>[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)) Quel plus grand cadeau pouvons-nous recevoir du Père des lumières que cela ?
 
 —_C. L. Van Sant_
 _Bartlesville, Oklahoma_

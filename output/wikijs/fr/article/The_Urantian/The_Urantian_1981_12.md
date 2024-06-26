@@ -74,7 +74,7 @@ Les premières associations qui nous viennent à l’esprit incluent les guerres
 — _Jeffrey Wattles_
 _Berkeley, Californie_
 
-> « _Après tout, la fraternité des hommes est basée sur la reconnaissance de la paternité de Dieu. La manière la plus rapide de réaliser la fraternité des hommes sur Urantia est d’effectuer la transformation spirituelle de l’humanité d’aujourd’hui. La seule technique pour accélérer la tendance naturelle de l’évolution sociale consiste à exercer une pression spirituelle par en haut, ce qui augmente le discernement moral tout en rehaussant la capacité de l’âme de tous les hommes de comprendre et d’aimer tous leurs semblables. La compréhension mutuelle et l’amour fraternel sont des civilisateurs transcendants et de puissants facteurs pour la réalisation mondiale de la fraternité des hommes._ » ([LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
+> « _Après tout, la fraternité des hommes est basée sur la reconnaissance de la paternité de Dieu. La manière la plus rapide de réaliser la fraternité des hommes sur Urantia est d’effectuer la transformation spirituelle de l’humanité d’aujourd’hui. La seule technique pour accélérer la tendance naturelle de l’évolution sociale consiste à exercer une pression spirituelle par en haut, ce qui augmente le discernement moral tout en rehaussant la capacité de l’âme de tous les hommes de comprendre et d’aimer tous leurs semblables. La compréhension mutuelle et l’amour fraternel sont des civilisateurs transcendants et de puissants facteurs pour la réalisation mondiale de la fraternité des hommes._ » (<a id="a76_701"></a>[LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
 
 
 

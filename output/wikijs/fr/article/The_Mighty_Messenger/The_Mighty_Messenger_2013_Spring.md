@@ -123,7 +123,7 @@ Merci au Comité YaYA pour avoir parrainé le comité auxiliaire Vie Familiale. 
 
 Au service affectueux, Sara Blackstock, Miranda Clendenning, Richard Daunt, Janet Graham (présidente)
 
-> Toute la vie ultérieure d’un être humain est immensément influencée par tout ce qui se passe pendant les premières années de l’existence. ([LU 177:2.5](/fr/The_Urantia_Book/177#p2_5))
+> Toute la vie ultérieure d’un être humain est immensément influencée par tout ce qui se passe pendant les premières années de l’existence. (<a id="a125_141"></a>[LU 177:2.5](/fr/The_Urantia_Book/177#p2_5))
 
 ## Le Conseil Général à Los Angeles
 
@@ -241,7 +241,7 @@ Par _Charles Laurence Olivea_ © 2013
 
 Cet énoncé de mission du Comité d’Éducation fait partie d’un effort visant à accorder une nouvelle importance ou une nouvelle valeur à l’idée d’une étude plus large et plus approfondie de la Cinquième Révélation d’Époque. Cela reflète l’exigence constitutionnelle de la Fraternité selon laquelle nous « favorisons l’étude approfondie du _Livre d’Urantia_… centrée sur les idéaux éducatifs de l’univers consistant à encourager le développement des étudiants-enseignants ».
 
-J'irais plus loin dans l’énoncé de mission et le mandat constitutionnel en suggérant qu’ils anticipent les normes qui émergent sur le Cinquième Monde des Maisons. « À peu près à ce stade, l’ascendeur mortel moyen commence à manifester un véritable enthousiasme expérientiel pour l’ascension de Havona. L’étude devient volontaire, le service désintéressé devient naturel et l’adoration spontanée. [[LU 47:7.5](/fr/The_Urantia_Book/47#p7_5)] (c'est nous qui soulignons)
+J'irais plus loin dans l’énoncé de mission et le mandat constitutionnel en suggérant qu’ils anticipent les normes qui émergent sur le Cinquième Monde des Maisons. « À peu près à ce stade, l’ascendeur mortel moyen commence à manifester un véritable enthousiasme expérientiel pour l’ascension de Havona. L’étude devient volontaire, le service désintéressé devient naturel et l’adoration spontanée. <a id="a243_396"></a>[[LU 47:7.5](/fr/The_Urantia_Book/47#p7_5)] (c'est nous qui soulignons)
 
 Pourquoi devrions-nous attendre le Cinquième Monde des Maisons ?
 
@@ -257,7 +257,7 @@ En tant que processus, il accorde une grande importance à la pensée critique, 
 
 Le temps doit être considéré comme notre « serviteur » et non comme notre « maître ». Nous ne devrions pas être pressés. Jésus en est un exemple. La notion d’« étude volontaire » suggère une volonté d’élargir ses connaissances et d’approfondir ses connaissances. Cela ne doit pas être considéré comme une simple tâche, mais comme une joie à atteindre dans l’art de vivre.
 
-Encore une fois, pour nous, cela signifie un désir intelligent d’écouter et de partager avec des esprits et des âmes semblables. La croissance personnelle nécessite tôt ou tard une interaction sociale. Une personne peut étudier seule, mais pour vraiment grandir, vos pouvoirs mentaux et spirituels doivent interagir (éventuellement) avec les autres de manière fraternelle ou fraternelle. Rappelez-vous que les relations entre personnalités – humaines ou divines – sont des fins en elles-mêmes ; tout le reste est secondaire. [[LU 112:2.4](/fr/The_Urantia_Book/112#p2_4)] Soyons à jamais inspirés par la grande déclaration : « L'univers entier est une vaste école ». [[LU 37:6.2](/fr/The_Urantia_Book/37#p6_2)]
+Encore une fois, pour nous, cela signifie un désir intelligent d’écouter et de partager avec des esprits et des âmes semblables. La croissance personnelle nécessite tôt ou tard une interaction sociale. Une personne peut étudier seule, mais pour vraiment grandir, vos pouvoirs mentaux et spirituels doivent interagir (éventuellement) avec les autres de manière fraternelle ou fraternelle. Rappelez-vous que les relations entre personnalités – humaines ou divines – sont des fins en elles-mêmes ; tout le reste est secondaire. <a id="a259_525"></a>[[LU 112:2.4](/fr/The_Urantia_Book/112#p2_4)] Soyons à jamais inspirés par la grande déclaration : « L'univers entier est une vaste école ». <a id="a259_666"></a>[[LU 37:6.2](/fr/The_Urantia_Book/37#p6_2)]
 
 
 ## Réservez la date pour IC'14 !

@@ -56,7 +56,7 @@ _Fort Smith, Arkansas_
 
 ---
 
-> « _La vérité est une valeur de réalité spirituelle dont seuls font l’expérience les êtres dotés d’esprit qui fonctionnent sur des niveaux supramatériels de conscience de l’univers, et qui, après avoir réalisé la vérité, permettent à son esprit animateur de vivre et de régner dans leur âme._ » ([LU 180:5.3](/fr/The_Urantia_Book/180#p5_3))
+> « _La vérité est une valeur de réalité spirituelle dont seuls font l’expérience les êtres dotés d’esprit qui fonctionnent sur des niveaux supramatériels de conscience de l’univers, et qui, après avoir réalisé la vérité, permettent à son esprit animateur de vivre et de régner dans leur âme._ » (<a id="a58_297"></a>[LU 180:5.3](/fr/The_Urantia_Book/180#p5_3))
 
 
 

@@ -48,7 +48,7 @@ Illustration de couverture de <figcaption><em>Stepping Stones</em> par Stephen S
 
 ## Références au _Le Livre d'Urantia_
 
-Vous pouvez voir des citations dans le texte des citations du Livre d'Urantia dans cette publication qui ressemblent à ceci : ([LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)). La partie « 62 :5.1 » peut être utilisée pour consulter un Livre d'Urantia dans le fascicule 62, section 5, paragraphe 1. La partie « 707.7 » peut être utilisée pour consulter un Livre d'Urantia publié par la Fondation Urantia avant 2009 à la page 707, paragraphe 7. Ces citations peuvent également inclure un lien URL intégré qui peut vous amener à la citation dans _Le Livre d'Urantia_.
+Vous pouvez voir des citations dans le texte des citations du Livre d'Urantia dans cette publication qui ressemblent à ceci : (<a id="a50_127"></a>[LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)). La partie « 62 :5.1 » peut être utilisée pour consulter un Livre d'Urantia dans le fascicule 62, section 5, paragraphe 1. La partie « 707.7 » peut être utilisée pour consulter un Livre d'Urantia publié par la Fondation Urantia avant 2009 à la page 707, paragraphe 7. Ces citations peuvent également inclure un lien URL intégré qui peut vous amener à la citation dans _Le Livre d'Urantia_.
 
 Ces citations montrent que la source de la citation provient du texte de référence standard du Livre d'Urantia. La séquence de notation entière peut être représentée comme (paper:section.paragraph [page.paragraph]). Pour plus d'informations, voir : https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book et https://urantiabook.org/text-standardization-Urantia-Book
 

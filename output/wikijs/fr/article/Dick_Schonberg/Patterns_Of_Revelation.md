@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Contrairement aux nombreuses âmes vaillantes qui ont promu la vérité spirituelle au cours des époques passées, nous, les diffuseurs mortels de la révélation URANTIA, avons de nombreux avantages, certains accordés, comme l'Esprit de Vérité, et d'autres acquis, comme les communications de masse, et le pouvoir. pour voir l'histoire avec le recul. En raison de nos avantages, nos responsabilités sont, dans un sens, plus grandes, et c'est pour cette raison que l'auteur estime que la commission révélatrice nous a délibérément fourni un contexte historique sur lequel fonder nos décisions futures.
 
-L'une des déclarations les plus significatives pour évaluer ce qui a été fait et ce qui devrait et ne devrait pas être fait pour faire progresser la vérité spirituelle est : « _La religion de la révélation doit toujours être limitée par la capacité de réceptivité de l'homme._ » ([LU 92:4.1](/fr/The_Urantia_Book/92#p4_1) )
+L'une des déclarations les plus significatives pour évaluer ce qui a été fait et ce qui devrait et ne devrait pas être fait pour faire progresser la vérité spirituelle est : « _La religion de la révélation doit toujours être limitée par la capacité de réceptivité de l'homme._ » (<a id="a39_280"></a>[LU 92:4.1](/fr/The_Urantia_Book/92#p4_1) )
 
 Plusieurs pensées peuvent nous venir à l’esprit. Devons-nous seulement donner ce que le trafic peut supporter ? Compromis? Vendu? C’est loin d’être l’intention de l’auteur de Melchisédek. Il nous donne plutôt une leçon dérivée de la longue lutte évolutive visant à élever la vie spirituelle de la civilisation urantienne. Pour illustrer cela, regardons l’expérience de ceux qui ont initié ou ont été les enseignants d’une révélation d’époque antérieure.
 
