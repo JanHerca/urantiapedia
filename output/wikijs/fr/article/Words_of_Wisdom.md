@@ -1,6 +1,6 @@
 ---
-title: "Paroles de sagesse""
-description: "»"
+title: "Paroles de sagesse"
+description: 
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Poetry, Fellowship Herald, article
