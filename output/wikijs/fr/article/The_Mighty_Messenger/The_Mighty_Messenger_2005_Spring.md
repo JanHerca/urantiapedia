@@ -65,7 +65,7 @@ Gene Narducy et Charlene Morrow ont été élus au Comité interconfessionnel et
 
 Le comité exécutif a formé une équipe de gestion du site Web pour déterminer les besoins actuels et futurs et formuler des recommandations. Malgré l’excellent travail effectué par notre webmaster, David Kantor, la gestion et le développement continus de nos systèmes de sites Web nécessiteront un niveau de coordination et d'apports techniques plus élevé que celui actuellement utilisé. Steve Dreier présidera le groupe et fera appel aux talents du lectorat pour l’aider.
 
-Après des mois de travail préliminaire sur la conception d'un logo pour la Bourse, Robert Burns a été nommé à la tête d'une équipe qui mènera le processus à bonne fin. L'équipe du logo a sollicité des candidatures auprès d'un certain nombre d'artistes et aboutira à un vote des membres sur cinq finalistes. L'artiste gagnant recevra une récompense de 2 500 $.
+Après des mois de travail préliminaire sur la conception d'un logo pour la Fellowship, Robert Burns a été nommé à la tête d'une équipe qui mènera le processus à bonne fin. L'équipe du logo a sollicité des candidatures auprès d'un certain nombre d'artistes et aboutira à un vote des membres sur cinq finalistes. L'artiste gagnant recevra une récompense de 2 500 $.
 
 Uversa Press rapporte que l’impression de 5 000 copies cartonnées du _Le Livre d'Urantia_ progresse à un rythme soutenu et devrait être terminée à temps pour IC'05. Comme indiqué précédemment, cette impression a été rendue possible grâce au généreux don d'un de nos amis et collègues lecteurs. John Hay a proposé un plan marketing ambitieux pour le livre qui, nous l’espérons, augmentera sa distribution.
 

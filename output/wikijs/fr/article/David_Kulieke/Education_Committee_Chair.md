@@ -47,11 +47,11 @@ Un objectif complémentaire a été d'aider à diffuser les enseignements du liv
 
 Le comité cherche à enrichir l’éducation sur _Le Livre d'Urantia_ de plusieurs autres manières. La première passe par les efforts sur le terrain. Les membres du comité visitent des groupes d'étude qui les invitent à présenter des ateliers de haute qualité tout en renforçant les méthodes d'étude efficaces décrites dans _Le Livre d'Urantia_ ainsi que dans les meilleures pratiques trouvées ailleurs. Cette année, deux membres du comité ont présenté un atelier sur l’intégration de la personnalité et les écoles de pensée, de sentiment et d'action du monde des maisons lors de séminaires et de conférences pour les sociétés de Chicago, de Floride et de New York, en plus de plusieurs groupes d'étude. Il y a eu environ 10 présentations de ce type récemment. Le Comité d’Éducation s’engage à aider à renforcer les communautés locales de lecteurs du Livre d’Urantia. Si un groupe ou une conférence souhaite que des membres du comité lui rendent visite, contactez-les à urantiaeducation@gmail.com.
 
-Ces dernières années, le comité a fourni du matériel éducatif téléchargeable sur son site Web, accessible à http://www.urantiabook.org/committees/education/index ou en allant au deuxième élément sous l’onglet Étude sur le site Web de la Bourse du Livre d'Urantia.
+Ces dernières années, le comité a fourni du matériel éducatif téléchargeable sur son site Web, accessible à http://www.urantiabook.org/committees/education/index ou en allant au deuxième élément sous l’onglet Étude sur le site Web de la Fellowship du Livre d'Urantia.
 
 Si un groupe ou une conférence souhaite que des membres du comité lui rendent visite, contactez-les à urantiaeducation@gmail.com. 
 
-Certains des documents disponibles sur le site Web du Comité d'éducation de la Bourse du Livre d'Urantia :
+Certains des documents disponibles sur le site Web du Comité d'éducation de la Fellowship du Livre d'Urantia :
 
 Sous Ressources :
 

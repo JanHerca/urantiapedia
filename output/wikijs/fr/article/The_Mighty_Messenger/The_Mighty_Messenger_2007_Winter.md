@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 Rejoignez-nous sous le soleil de Los Angeles du 2 au 6 juillet 2008, sur le campus de l’UCLA pour le
-Conférence internationale de la Bourse du Livre d’Urantia, « Le frisson du service aimant ». L'inscription commence le lundi 1er juillet et les participants seront accueillis par une réception organisée par _The Urantia Book_ Los Angeles Society (LULA). La plénière d'ouverture du mardi 2 juillet donnera le coup d'envoi d'une semaine passionnante d'adoration, de vérité, d'amitié, d'esprit et, par-dessus tout, de service.
+Conférence internationale de la Fellowship du Livre d’Urantia, « Le frisson du service aimant ». L'inscription commence le lundi 1er juillet et les participants seront accueillis par une réception organisée par _The Urantia Book_ Los Angeles Society (LULA). La plénière d'ouverture du mardi 2 juillet donnera le coup d'envoi d'une semaine passionnante d'adoration, de vérité, d'amitié, d'esprit et, par-dessus tout, de service.
 
 Le magnifique campus de l’UCLA se trouve à une courte distance en voiture de l’aéroport de LAX. Il existe une Super Shuttle pour $16, taxis are $20, et des voitures de location sont suggérées si vous souhaitez visiter Los Angeles lors de notre journée légère, le 4 juillet. Le campus est accessible aux personnes handicapées et est très facile à naviguer. 
 

@@ -41,7 +41,7 @@ Depuis début janvier, les lecteurs ont répondu à l’annonce de la publicatio
 
 Le livre sera à couverture souple, 6 &frac12; pouces par 9 &frac14; pouces, contenant environ 1 900 pages. Deux modèles de couverture différents seront produits. Une couverture est destinée à plaire aux libraires, avec des images d’un ange, de la planète Terre et de Jésus. Le second est plus conservateur, avec du texte uniquement sur la couverture.
 
-Cette édition reproduit le texte du domaine public de 1955 du _Livre d’Urantia_, à l’exception de la correction des erreurs d’orthographe et typographiques. Ces corrections sont documentées dans une brochure distincte, disponible sur demande auprès de la Bourse.
+Cette édition reproduit le texte du domaine public de 1955 du _Livre d’Urantia_, à l’exception de la correction des erreurs d’orthographe et typographiques. Ces corrections sont documentées dans une brochure distincte, disponible sur demande auprès de la Fellowship.
 
 ## Special Projects met la Fellowship sur Internet
 

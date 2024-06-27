@@ -61,7 +61,7 @@ Le poète en chacun de nous semble savoir intuitivement que les mots ne peuvent 
 
 Aujourd'hui, quarante ans plus tard, nous publions un autre volume de poésie intitulé _Sailing to Salvington : Poetry Inspired by the Fifth Epochal Revelation_. Les poètes inclus dans cette collection sont Jean Ascher, Byron Belitsos, Peri Best, James Cleveland, David Glass, Dave Holt, Bruce Jackson, Gard Jameson, Duane Johnson, K. Brendi Poppel et Errol Strider.
 
-Cette anthologie comprendra également vingt photographies et peintures, pour la plupart issues de la collection de peintures de Jésus de MO et Jennifer Siegel, qui ont eu la gentillesse de nous permettre de les inclure. L'inclusion de ces peintures en couleur augmente la valeur du livre, mais augmente également considérablement les coûts d'impression ; heureusement, le Comité des Subventions du Deuxième Miler de la Bourse du Livre d'Urantia a jugé bon d'aider à financer ce projet. 
+Cette anthologie comprendra également vingt photographies et peintures, pour la plupart issues de la collection de peintures de Jésus de MO et Jennifer Siegel, qui ont eu la gentillesse de nous permettre de les inclure. L'inclusion de ces peintures en couleur augmente la valeur du livre, mais augmente également considérablement les coûts d'impression ; heureusement, le Comité des Subventions du Deuxième Miler de la Fellowship du Livre d'Urantia a jugé bon d'aider à financer ce projet. 
 
 Bien entendu, nous sommes parfaitement conscients que la poésie a un marché limité. Pour avoir une idée du nombre d'exemplaires à imprimer, nous proposons des exemplaires en précommande de ce volume d'une valeur de vingt dollars pour seulement dix dollars.
 

@@ -1,6 +1,6 @@
 ---
 title: "Vivre les enseignements"
-description: "Une présentation par Larry et Joan Mullins à la Bourse Urantia d'Arizona le 7 mai 2005."
+description: "Une présentation par Larry et Joan Mullins à la Fellowship Urantia d'Arizona le 7 mai 2005."
 published: true
 date: 2023-09-29T14:02:03.086Z
 tags: Jesus, Jesus teachings, The Spiritual Fellowship Journal, Spiritual Fellowship, article

@@ -120,7 +120,7 @@ En raison d'une demande d'un lecteur-orfèvre d'utiliser le symbole ConcentricCi
 
 ## Autorisation d'afficher les traductions de la Fondation sur le site Web de la bourse
 
-Le Conseil d'administration a décidé d'accorder à la Bourse l'autorisation de reproduire le texte intégral de chacune des traductions de la Fondation sur le site Web de la Fondation avec les mentions de droits d'auteur respectives. Actuellement, la Communauté relie son site aux traductions de la Fondation Urantia.
+Le Conseil d'administration a décidé d'accorder à la Fellowship l'autorisation de reproduire le texte intégral de chacune des traductions de la Fondation sur le site Web de la Fondation avec les mentions de droits d'auteur respectives. Actuellement, la Communauté relie son site aux traductions de la Fondation Urantia.
 
 ## Le bureau de la Fondation en Russie
 

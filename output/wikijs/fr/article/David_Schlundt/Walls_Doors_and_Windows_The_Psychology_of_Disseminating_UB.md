@@ -139,7 +139,7 @@ Chaque personne a un ensemble complexe d’idées sur soi, le monde, la sociét�
 
 <br style="clear:both;"/>
 
-> David Schlundt est un étudiant de deuxième génération du _Livre d'Urantia_. Il est psychologue clinicien et professeur à l'Université Vanderbilt. En plus d’enseigner aux étudiants la santé et le comportement, il participe activement à la recherche. Il est vice-président de la Bourse du Livre d'Urantia.
+> David Schlundt est un étudiant de deuxième génération du _Livre d'Urantia_. Il est psychologue clinicien et professeur à l'Université Vanderbilt. En plus d’enseigner aux étudiants la santé et le comportement, il participe activement à la recherche. Il est vice-président de la Fellowship du Livre d'Urantia.
 {.is-info}
 
 ## Références

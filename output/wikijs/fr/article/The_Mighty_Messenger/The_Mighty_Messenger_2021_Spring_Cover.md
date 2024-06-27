@@ -62,7 +62,7 @@ DÉCLARATION DE NON-RESPONSABILITÉ
 
 Nous nous efforçons de publier une variété de points de vue, sachant que les étudiants du Livre d'Urantia peuvent différer considérablement dans leurs interprétations des enseignements.
 
-Les opinions et descriptions des auteurs ne reflètent pas nécessairement les points de vue de la Bourse ou les initiatives soutenues par la Bourse. Les articles sont publiés dans le but de permettre l’expression d'une diversité de points de vue au sein de la communauté des lecteurs.
+Les opinions et descriptions des auteurs ne reflètent pas nécessairement les points de vue de la Fellowship ou les initiatives soutenues par la Fellowship. Les articles sont publiés dans le but de permettre l’expression d'une diversité de points de vue au sein de la communauté des lecteurs.
 
 Mighty Messenger est une publication de
 

@@ -64,7 +64,7 @@ Les besoins spirituels des jeunes adultes d’aujourd’hui semblent devenir de 
 
 ## Il est temps de faire une mise au point
 
-Alors que nous nous préparons à aller de l’avant, nous utilisons les précieuses informations issues des entretiens approfondis pour proposer des recommandations visant à affiner le fonctionnement de la Bourse. D’une manière générale, ces recommandations se répartissent en trois catégories :
+Alors que nous nous préparons à aller de l’avant, nous utilisons les précieuses informations issues des entretiens approfondis pour proposer des recommandations visant à affiner le fonctionnement de la Fellowship. D’une manière générale, ces recommandations se répartissent en trois catégories :
 
 1. Concentrez-vous sur notre objectif principal
 

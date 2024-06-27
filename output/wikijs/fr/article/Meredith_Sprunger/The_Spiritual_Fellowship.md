@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
-Au cours des 45 dernières années, il y a eu des divergences d'opinions concernant la nature du mouvement Urantia. Certains l'ont considéré comme un mouvement religieux ; d'autres l'ont considéré comme un mouvement éducatif à vocation religieuse. Les organisations officielles – la Fondation Urantia, la Bourse du Livre d'Urantia et l'Association Urantia Internationale – ont toutes nié être des organisations religieuses. Ils ont perdu une grande partie de la dynamique du ministère de proximité et sont plutôt engagés dans des luttes de pouvoir politique.
+Au cours des 45 dernières années, il y a eu des divergences d'opinions concernant la nature du mouvement Urantia. Certains l'ont considéré comme un mouvement religieux ; d'autres l'ont considéré comme un mouvement éducatif à vocation religieuse. Les organisations officielles – la Fondation Urantia, la Fellowship du Livre d'Urantia et l'Association Urantia Internationale – ont toutes nié être des organisations religieuses. Ils ont perdu une grande partie de la dynamique du ministère de proximité et sont plutôt engagés dans des luttes de pouvoir politique.
 
 Il n'existe pas de groupe exclusivement dédié à la diffusion de la Cinquième Révélation d'Époque en tant que mission religieuse. Si la religion est fondamentalement une expérience individuelle de valeurs, cette expérience individuelle aboutit inévitablement à une expression sociale. Cette expression sociale est importante si l’on veut que notre société mondiale évolue dans une direction éclairée et positive.
 

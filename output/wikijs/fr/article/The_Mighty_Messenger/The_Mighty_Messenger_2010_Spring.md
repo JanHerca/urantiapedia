@@ -233,7 +233,7 @@ Nous livrons, nous avons visionné, nous avons socialisé, nous avons adoré
 
 - **7-9 mai 2010** - 10e Conférence annuelle multilingue, Mazatlan, Mexique. Pour plus d'informations, appelez (cellulaire) 0052 1 8115002958 ou envoyez un e-mail à Agustin Arellano Tirado à orvonton@gmail.com.
 - **1−5 juillet 2010** - Festival des Familles Unies Urantia, Montréal, PQ, Canada. Pour plus d’informations, allez sur www.urantiafamily.org.
-- **21−26 juillet 2010** - Session d'étude d'été de la Bourse du Livre d'Urantia, Chicago, IL. Pour plus d’informations, contactez Lara Amyx à lara10@bellsouth.net. Attention : formulaire d'inscription dans ce numéro.
+- **21−26 juillet 2010** - Session d'étude d'été de la Fellowship du Livre d'Urantia, Chicago, IL. Pour plus d’informations, contactez Lara Amyx à lara10@bellsouth.net. Attention : formulaire d'inscription dans ce numéro.
 - **29 juillet − août**. 1er janvier 2010 - LU The News Conference, « Education for Outreach » Boulder, CO Pour plus d'informations, www.ubthenews.com/Education_for_Outreach.htm.
 - **Août. 20−22, 2010** - Retraite « Cœur des montagnes », Valle Crucis, Caroline du Nord, près de Boone. Pour plus d’informations, rendez-vous à seretreat2010@yahoo.com.
 

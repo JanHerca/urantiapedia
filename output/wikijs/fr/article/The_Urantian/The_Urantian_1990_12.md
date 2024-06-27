@@ -70,7 +70,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 > Ceci est la deuxième des deux éditions spéciales prévues de _The Journal_ pour inclure certaines des conférences présentées dans la seconde moitié de la Conférence internationale de 1990 tenue à Snowmass/Aspen, Colorado, du 30 juin au 5 juillet 1990.
 > 
-> Les opinions, points de vue et/ou conclusions présentés dans ces exposés sont entièrement basés sur la compréhension et l'expérience religieuse personnelle de chaque auteur. Par conséquent, la Fellowship n'est pas en mesure de répondre aux questions ou commentaires reçus des lecteurs sur les conférences présentées. Cependant, sur demande écrite, la Bourse enverra des invitations à un échange d'informations ou à un dialogue approfondi sur l'un des sujets contenus dans ce numéro de _The Journal_ directement aux auteurs concernés.
+> Les opinions, points de vue et/ou conclusions présentés dans ces exposés sont entièrement basés sur la compréhension et l'expérience religieuse personnelle de chaque auteur. Par conséquent, la Fellowship n'est pas en mesure de répondre aux questions ou commentaires reçus des lecteurs sur les conférences présentées. Cependant, sur demande écrite, la Fellowship enverra des invitations à un échange d'informations ou à un dialogue approfondi sur l'un des sujets contenus dans ce numéro de _The Journal_ directement aux auteurs concernés.
 
 ## Conférence internationale de 1990 « Marcher avec Dieu » — Table des matières
 

@@ -80,7 +80,7 @@ Exiger qu’un représentant, qui est en association plus étroite avec les dona
 
 ## Repenser les priorités de dépenses
 
-Il m'a semblé curieux que, dans la malheureuse économie locale de l’Ouganda, l’argent dépensé en biens promotionnels soit extrême par rapport à ce que j'ai l’habitude de vivre lors de nombreuses autres conférences, à l’intérieur et à l’extérieur de la communauté du Livre d'Urantia. Ces dépenses excessives auraient pu être réaffectées pour aider davantage de participants à participer. Le livret qui a été produit pour les participants à la conférence (imprimé à partir du site Internet de la Bourse) pour guider les nouveaux dirigeants de groupes d'étude était un atout décent ; cependant, il aurait été préférable que les contacts répertoriés pour des conseils supplémentaires soient des étudiants chevronnés du Livre d'Urantia qui vivent les enseignements.
+Il m'a semblé curieux que, dans la malheureuse économie locale de l’Ouganda, l’argent dépensé en biens promotionnels soit extrême par rapport à ce que j'ai l’habitude de vivre lors de nombreuses autres conférences, à l’intérieur et à l’extérieur de la communauté du Livre d'Urantia. Ces dépenses excessives auraient pu être réaffectées pour aider davantage de participants à participer. Le livret qui a été produit pour les participants à la conférence (imprimé à partir du site Internet de la Fellowship) pour guider les nouveaux dirigeants de groupes d'étude était un atout décent ; cependant, il aurait été préférable que les contacts répertoriés pour des conseils supplémentaires soient des étudiants chevronnés du Livre d'Urantia qui vivent les enseignements.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/045.jpg">
@@ -144,7 +144,7 @@ L’expérience révélatrice en Ouganda a soulevé pour moi de grandes question
 - Qu'est-ce qui soutient réellement la croissance des étudiants sincères de la vérité qui se consacrent à ce livre ?
 - Comment pouvons-nous évaluer les besoins lorsque nous ne sommes pas allés dans un pays et que nous ne connaissons les gens que par le biais de la communication en ligne ?
 
-Ces questions vous intriguent ? Vous avez des expériences à partager et l’envie de servir le Comité International des Fellowships ? Nous apprécierons vos commentaires et votre dévouement. Vous pouvez envoyer un e-mail au bureau de la Bourse du Livre d'Urantia (à [urantiabook.org/Contact-Us](https://urantiabook.org/Contact-Us)) pour plus d'informations sur la façon de vous impliquer.
+Ces questions vous intriguent ? Vous avez des expériences à partager et l’envie de servir le Comité International des Fellowships ? Nous apprécierons vos commentaires et votre dévouement. Vous pouvez envoyer un e-mail au bureau de la Fellowship du Livre d'Urantia (à [urantiabook.org/Contact-Us](https://urantiabook.org/Contact-Us)) pour plus d'informations sur la façon de vous impliquer.
 
 ## Liens externes
 

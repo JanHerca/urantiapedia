@@ -58,7 +58,7 @@ dateCreated: 2023-10-23T10:55:6Z
 18-20 SEPTEMBRE | Retraite d’automne de la Golden Gate Society. San Ramon, Californie. Appelez Sara Blackstock au (510) 672-3340.
 2-4 OCTOBRE | Retraite d’automne de la Heart of America Society, Lac des Ozarks, MO. Personne-ressource : Pat Heinerikson (314) 365-3977.
 9-12 OCTOBRE | Conférence australienne. Centre de conférences Elanora-Sidney. Thème : « La nature humaine et les douze apôtres ». Contactez Trevor et Kathleen Swadling (02) 9137893.
-16-18 OCTOBRE | Conférence annuelle et réunion d’affaires de la Société de la Bourse de l’Ontario pour les lecteurs du Livre d’Urantia. Guelph, Ontario. Personne-ressource : Bob Jones (519) 657-8080.
+16-18 OCTOBRE | Conférence annuelle et réunion d’affaires de la Société de la Fellowship de l’Ontario pour les lecteurs du Livre d’Urantia. Guelph, Ontario. Personne-ressource : Bob Jones (519) 657-8080.
 16-18 OCTOBRE | Aventures dans la vie spirituelle, au MO Ranch Conference Center, Hunt, Texas (près de San Antonio) Contact : Skip/Carol Weatherford (713) 363-1652
 24 OCTOBRE | Événement de récolte d’automne à Austin, Texas, sponsorisé par le Groupe d’étude du Livre d’Urantia d’Austin. Contact : Tim/Kitty Traylor, 100 W Odell, Austin, TX 78752 (512) 451-9479.
 7-8 NOVEMBRE | Premier forum d’automne de la Société de l’Oklahoma. Personne-ressource : Warren Litchfield (405) 794-2978

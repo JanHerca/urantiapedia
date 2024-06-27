@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Bobbie Dreier_
 
-Je suis vraiment heureux qu’il y ait une conférence internationale (IC) cet été. Cela fait six ans depuis le précédent CI de la Bourse du Livre d'Urantia, et c'est beaucoup trop long. J'ai participé à tous les CI depuis mon premier en 1974, il y a près de cinquante ans. Souvent, l’atmosphère était si inspirante que je me souviens avoir eu l’impression que c’était à cela que ressemblaient les mondes des maisons. Tout le monde était amical et engageant, les conférences et les ateliers étaient passionnants, les enfants se déplaçaient librement parmi des inconnus, personne ne fermait les portes et à chaque réunion, je me faisais de nouveaux amis pour la vie qui sont devenus une famille. 
+Je suis vraiment heureux qu’il y ait une conférence internationale (IC) cet été. Cela fait six ans depuis le précédent CI de la Fellowship du Livre d'Urantia, et c'est beaucoup trop long. J'ai participé à tous les CI depuis mon premier en 1974, il y a près de cinquante ans. Souvent, l’atmosphère était si inspirante que je me souviens avoir eu l’impression que c’était à cela que ressemblaient les mondes des maisons. Tout le monde était amical et engageant, les conférences et les ateliers étaient passionnants, les enfants se déplaçaient librement parmi des inconnus, personne ne fermait les portes et à chaque réunion, je me faisais de nouveaux amis pour la vie qui sont devenus une famille. 
 
 Pour moi, la meilleure partie des conférences était de rencontrer de nouvelles personnes. J’avais l’impression de mieux connaître Dieu avec chaque personne que je connaissais. Quelle opportunité de rencontrer des gens du monde entier. Et comme c’est incroyable de faire partie d’une famille mondiale ! 
 

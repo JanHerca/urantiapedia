@@ -57,7 +57,7 @@ Ceux qui souhaitent s'inscrire doivent contacter M. Olivea à : CLOlivea@gmail.c
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005763.jpg">
 </figure>
 
-Le Comité d’Éducation de la Bourse du Livre d’Urantia recherche des enfants pour la session d’étude de l’été prochain. Le Comité souhaite que les séminaires soient un événement familial ; et pour contribuer à faire de cela une réalité, les parents doivent savoir que non seulement il y aura un programme complet pour les enfants, mais qu’il y aura également des événements et des activités pour les familles. De plus, l’inscription et l’hébergement des enfants seront gratuits !
+Le Comité d’Éducation de la Fellowship du Livre d’Urantia recherche des enfants pour la session d’étude de l’été prochain. Le Comité souhaite que les séminaires soient un événement familial ; et pour contribuer à faire de cela une réalité, les parents doivent savoir que non seulement il y aura un programme complet pour les enfants, mais qu’il y aura également des événements et des activités pour les familles. De plus, l’inscription et l’hébergement des enfants seront gratuits !
 
 À des fins de planification, le comité doit savoir combien d'enfants viendront aux séances ainsi que l’âge des enfants. Ainsi, lorsque les parents s'inscrivent, ils doivent en informer les organisateurs. Pour le bien des autres enfants qui seront présents, pensez à amener vos enfants ou petits-enfants. 
 

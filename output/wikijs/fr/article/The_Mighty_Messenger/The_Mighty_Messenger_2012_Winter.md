@@ -82,7 +82,7 @@ Mon souhait est que notre travail corresponde aux plans du Gouvernement Planéta
 
 Nous tous dans cet univers local de Nébadon, hauts et bas, travaillons pour notre Fils Créateur Michel de Nébadon. Prenons l’exemple de Van et Amadon qui ont fait preuve d'une foi et d'une patience suprêmes. Après tout, nous sommes des agondons.
 
-## Réunion de la Bourse du Livre d'Urantia et de la Fondation Urantia
+## Réunion de la Fellowship du Livre d'Urantia et de la Fondation Urantia
 
 Le lundi 22 octobre 2012, les représentants de la Fellowship du Livre d'Urantia et de la Fondation Urantia ont tenu une réunion conjointe conçue pour favoriser l’appréciation et la compréhension mutuelles, et pour explorer les possibilités d'activités coopératives interorganisationnelles accrues. Le rassemblement de quatorze personnes comprenait les présidents, vice-présidents et directeurs exécutifs des deux organisations.
 
@@ -90,7 +90,7 @@ Une atmosphère de bonne volonté a imprégné la réunion de six heures au cour
 
 La Fondation Urantia et la Fellowship du Livre d'Urantia s'engagent actuellement dans un certain nombre d'activités de coopération, notamment en parrainant le développement du Texte de référence standard et en distribuant des traductions du Livre d'Urantia à travers le programme Pipeline de Lumière. À la suite de cette réunion, les deux organisations explorent activement de nouvelles opportunités de service commun.
 
-_Dr. Lila Dogim_, Présidente de la Bourse du Livre d'Urantia
+_Dr. Lila Dogim_, Présidente de la Fellowship du Livre d'Urantia
 _Mo Siegel_, Président de la Fondation Urantia
 
 ## La 3ème table ronde informatique du Livre d'Urantia

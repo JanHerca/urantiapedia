@@ -77,7 +77,7 @@ Le samedi 22 août :
 	- 7ème = _EmotionArt avec l’LU,_ Agustín Arellano
 - 6h30 - 7h10 
 	- 8ème = 2ème atelier _Seraphic Transportation_, Jaime Rodríguez
-	- 9ème = _Message_ d'Andre Radatus, Président de la Bourse Internationale de la Urantia Book Fellowship
+	- 9ème = _Message_ d'Andre Radatus, Président de la Fellowship Internationale de la Urantia Book Fellowship
 - 7h30 - 8h40 11ème = 3ème atelier _Mythes, Traditions et Révélation Urantia_, Jaime Rey Albornoz
 
 Le dimanche 23 août

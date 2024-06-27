@@ -104,7 +104,7 @@ Ce sont quelques-unes de mes questions. J'ai mes propres opinions sur ce que pou
 Merci et puissions-nous avoir une réunion réfléchie et productive
 
 Lila Dogim,
-Président de la Bourse
+Président de la Fellowship
 
 ## Foire internationale du livre d'Istanbul 2014
 

@@ -50,7 +50,7 @@ Si vous avez d'autres questions, appelez le bureau de la Fellowship sans frais a
 
 ## Présentateurs recherchés pour SSS '06
 
-La session d'étude d'été de la Bourse du Livre d'Urantia se tiendra sur le campus de l’Université Dominicaine à River Forest, Illinois, une banlieue de Chicago, du mercredi 5 juillet au lundi 10 juillet. Les ateliers et les services pléniers/cultes associés auront lieu entre le vendredi matin 7 et le dimanche 9 vers midi.
+La session d'étude d'été de la Fellowship du Livre d'Urantia se tiendra sur le campus de l’Université Dominicaine à River Forest, Illinois, une banlieue de Chicago, du mercredi 5 juillet au lundi 10 juillet. Les ateliers et les services pléniers/cultes associés auront lieu entre le vendredi matin 7 et le dimanche 9 vers midi.
 
 Il s'agit d'une invitation destinée aux individus ou aux partenariats à envisager de préparer et d'animer un atelier pendant cette période. Le thème est : « Le ministère céleste – visible et invisible ».
 

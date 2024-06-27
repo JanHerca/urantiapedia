@@ -47,7 +47,7 @@ _La Fellowship du Livre d'Urantia_, par l’intermédiaire de Derek Samaras, a f
 
 Je crois que les chrétiens devraient connaître la vie disparue de Jésus. Les Philippins accueillent favorablement la nouvelle révélation, notamment sur la vie de Jésus, le Fils Créateur de notre univers.
 
-La Fondation Urantia, la Bourse du Livre d'Urantia et l’Association Urantia Internationale ont beaucoup soutenu la diffusion du Livre d'Urantia aux Philippines, ce pour quoi nous sommes vraiment reconnaissants. La Fellowship du Livre d'Urantia a parrainé la Convention nationale éducative 2019 avec le conférencier invité André Radatus. Le travail d'équipe entre les groupes s'exerce et devient source de réussite.
+La Fondation Urantia, la Fellowship du Livre d'Urantia et l’Association Urantia Internationale ont beaucoup soutenu la diffusion du Livre d'Urantia aux Philippines, ce pour quoi nous sommes vraiment reconnaissants. La Fellowship du Livre d'Urantia a parrainé la Convention nationale éducative 2019 avec le conférencier invité André Radatus. Le travail d'équipe entre les groupes s'exerce et devient source de réussite.
 
 _Pasko_ est une fête festive le 25 décembre célébrant la naissance de Jésus. Les coutumes des chrétiens, des préchrétiens, des non-chrétiens et d'autres traditions laïques sont toutes mélangées à cette occasion. Il y a plus de dix millions de Philippins vivant dans de nombreux pays en dehors des Philippines qui observent cette saison _Pasko_. 
 
