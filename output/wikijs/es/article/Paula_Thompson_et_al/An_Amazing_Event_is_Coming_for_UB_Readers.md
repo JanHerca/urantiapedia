@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Sue Haskell, Paula Thompson y Abert Einstein Lassiter<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kurt_Cira/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-22-número-1-2022-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 22, Número 1, 2022 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="pr-2">El arte del lenguaje universal: conversaciones sobre crecimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Paula_Thompson_et_al/22.jpg">
@@ -87,7 +111,7 @@ En El Libro de Urantia, las tres en punto es una hora significativa.
 
 ## ¿Porqué ahora?
 
-El cruce de los dos eclipses puede verse como un verdadero símbolo de la situación actual del mundo, «temblando al borde mismo de una de sus épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual» (%%0% %) y en la encrucijada del avance o la regresión.
+El cruce de los dos eclipses puede verse como un verdadero símbolo de la situación actual del mundo, «temblando al borde mismo de una de sus épocas más sorprendentes y fascinantes de reajuste social, aceleración moral e iluminación espiritual» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)) y en la encrucijada del avance o la regresión.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Paula_Thompson_et_al/23.jpg">
@@ -107,3 +131,27 @@ Las respuestas están en la Revelación Urantia. Los tenemos. ¿Estamos dispuest
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kurt_Cira/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-22-número-1-2022-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 22, Número 1, 2022 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="pr-2">El arte del lenguaje universal: conversaciones sobre crecimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

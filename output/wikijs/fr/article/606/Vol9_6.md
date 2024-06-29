@@ -161,7 +161,7 @@ Six-0-Six est, de loin, l'un des véhicules d'information et de forum les plus �
 
 Je n'ai pas le document en question devant moi, mais je tiens à remercier la personne qui a partagé le « rêve de l'arrivée d'un Ajusteur de Pensée » il y a quelques mois. Au moment où j'ai reçu cet article, j'étudiais à la Unity School, près de Kansas City, Missouri, États-Unis. J'ai photocopié l'article et l'ai partagé avec plus de 25 personnes !
 
-Votre newsletter circule autour de nos Incenders (groupe d'étude local) et parfois j'en perds une. Je le regrette toujours, car je reviens souvent aux articles précédents. J'ai recherché $m y$ d'anciens numéros pour celui avec le « cas contre la réincarnation » et celui comparant la figurine du vieil homme chinois avec VAN du _Le Livre d'URANTIA_, sans succès.
+Votre newsletter circule autour de nos Incenders (groupe d'étude local) et parfois j'en perds une. Je le regrette toujours, car je reviens souvent aux articles précédents. J'ai recherché dans mes anciens numéros celui avec le « cas contre la réincarnation ». et celui comparant la figurine du vieil homme chinois avec VAN du _Le Livre d'URANTIA_, sans succès.
 
 Ce serait apprécié plus que je ne peux le dire si vous pouviez photocopier les anciens numéros contenant les informations sur la réincarnation et me les envoyer. Numéro d'été ou d'automne 1987, je pense. Merci.
 

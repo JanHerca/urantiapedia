@@ -1,5 +1,5 @@
 ---
-title: "Legacy_and_Inspiration"
+title: "Legacy and Inspiration"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Neal Waldrop<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Montgomery/How_I_Found_the_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How I Found the Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Hirt/Poem">
+          <span class="pr-2">Poem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Neal_Waldrop/18.jpg">
@@ -108,3 +132,27 @@ With all this in mind, I counsel patience and persistence, mainly continuing to 
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Montgomery/How_I_Found_the_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How I Found the Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Hirt/Poem">
+          <span class="pr-2">Poem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

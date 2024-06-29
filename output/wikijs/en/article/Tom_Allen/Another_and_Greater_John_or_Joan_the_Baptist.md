@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Tom Allen<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Hill/Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Sawyer/Divine_Dignity">
+          <span class="pr-2">Divine Dignity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Tom Allen_
 
@@ -86,3 +110,27 @@ We should not be disheartened. Eventual success is guaranteed. And we have work 
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Hill/Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Sawyer/Divine_Dignity">
+          <span class="pr-2">Divine Dignity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

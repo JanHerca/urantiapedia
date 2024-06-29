@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
-<p class="tema v-card v-sheet--gris claro aclarar-3 px-2">© 2014 Georges Michelson-Dupont</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Georges Michelson-Dupont</p>
 
 _Por Georges Michelson-Dupont, fideicomisario, Fundación Urantia, Recloses, Francia_
 

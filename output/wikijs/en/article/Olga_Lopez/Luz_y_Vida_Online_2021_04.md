@@ -271,7 +271,7 @@ The courses themselves begin on **Monday, April 19** and last 10 weeks (except w
 
 To enroll, you must go to the school website ([http://ubis.urantia.org](http://ubis.urantia.org/)) and create a user account before requesting a course, as it is necessary to be authenticated as a UBIS user to request the inscription.
 
-Here is the list of courses that will be given in April: [https://www.urantia.org%%0%%
+Here is the list of courses that will be given in April: [https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos)
 
 
 ## About the Light and Life newsletter

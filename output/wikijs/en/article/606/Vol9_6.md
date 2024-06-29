@@ -180,7 +180,7 @@ Six-0-Six is, by far, one of the most thoroughly enlightening vehicles of inform
 
 I don't have the particular paper in front of me, but want to thank the person who shared the “dream of Thought Adjuster arrival” a few months ago. At the time I received this paper, I was attending Unity School, near Kansas City, Missouri, USA. I photocopied the article and shared it with more than 25 people!
 
-Your newsletter is circulated around our Incenders (local study group) and sometimes I lose one. I always regret that, because I often refer back to previous articles. I have searched $m y$ back issues for the one with the “case against reincarnation” and the one comparing the figurine of the old Chinese man with VAN of _The URANTIA Book_, unsuccessfully.
+Your newsletter is circulated around our Incenders (local study group) and sometimes I lose one. I always regret that, because I often refer back to previous articles. I have searched my back issues for the one with the “case against reincarnation” and the one comparing the figurine of the old Chinese man with VAN of _The URANTIA Book_, unsuccessfully.
 
 It would be appreciated more than I can say if you could photocopy the back issues with the information about reincarnation in it, and send it to me. Summer or Fall 1987 issue, I think. Thanks.
 

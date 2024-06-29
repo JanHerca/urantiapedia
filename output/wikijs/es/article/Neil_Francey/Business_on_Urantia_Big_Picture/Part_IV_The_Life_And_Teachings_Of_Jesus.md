@@ -612,7 +612,7 @@ Para que quede claro, la experiencia espiritual individual y personal de la reli
 > 1. La actitud lógica hacia las cosas de la realidad material.
 > 2. La apreciación estética de la belleza, en contraste con la fealdad.
 > 3. El reconocimiento ético de las obligaciones sociales y del deber político.
-> 4. Incluso el sentido de la moral humana, en sí mismo y por sí mismo, no es religioso. <a id="s614_89"></a>[UB 195:5.3-7](/es/The_Urantia_Book/195#p5_3) 
+> 4. Incluso el sentido de la moral humana, en sí mismo y por sí mismo, no es religioso. <a id="s614_89"></a>[LU 195:5.3-7](/es/The_Urantia_Book/195#p5_3) 
 
 Así como podemos arruinarnos financieramente, podemos quedarnos en bancarrota moral. El materialismo nos proporciona cosas, no siempre esenciales, y parece que siempre nos estamos quedando sin ellas. Meditando sobre las distintas fuentes de abastecimiento, encontramos la opción romántica y espontánea.
 

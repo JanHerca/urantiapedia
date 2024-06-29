@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gard Jameson<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Perry/The_Laborers_are_Few">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los trabajadores son pocos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="pr-2">Una ética global: el parlamento de las religiones del mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Gard_Jameson/36.jpg">
@@ -38,6 +62,31 @@ El mundo anhela _unidad de propósito_ y la paz resultante. Quizás «_los segui
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Perry/The_Laborers_are_Few">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los trabajadores son pocos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="pr-2">Una ética global: el parlamento de las religiones del mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

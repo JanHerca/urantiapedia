@@ -89,7 +89,7 @@ Se podría argumentar que ya existe una especie de iglesia Urantia. Considere: L
 
 > «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día.» (<a id="a89_274"></a>[LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
 
-> _Dick Bain es ingeniero eléctrico y editor de Innerface International. Es estudiante del Libro de Urantia desde hace mucho tiempo.
+> _Dick Bain es ingeniero eléctrico y editor de Innerface International. Es estudiante del_ Libro de Urantia _desde hace mucho tiempo._
 {.is-info}
 
 

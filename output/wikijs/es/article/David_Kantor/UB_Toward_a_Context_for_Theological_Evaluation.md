@@ -299,6 +299,6 @@ Mi propósito ha sido únicamente esbozar un contexto en el que _El Libro de Ura
 
 [^29]: Ibídem, 173.
 
-[^30]: Matthew Block, [«Algunas fuentes humanas de _El libro de Urantia_,»](/es/article/Matthew_Block/Some_Human_Sources_of_LU) _The Spiritual Fellowship Journal_ (primavera de 1993): 9-13. Existen importantes posibilidades para el análisis crítico textual y literario para futuros estudiantes.
+[^30]: Matthew Block, [«Algunas fuentes humanas de _El libro de Urantia_,»](/es/article/Matthew_Block/Some_Human_Sources_of_UB) _The Spiritual Fellowship Journal_ (primavera de 1993): 9-13. Existen importantes posibilidades para el análisis crítico textual y literario para futuros estudiantes.
 
 [^31]: _El libro de Urantia_, <a id="a303_30"></a>[LU 195:10.21](/es/The_Urantia_Book/195#p10_21).

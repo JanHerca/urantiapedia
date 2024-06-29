@@ -252,7 +252,7 @@ Olga López
 
 Sur un blog que je visite de temps en temps, il y a un article très intéressant sur les paroles du Notre Père et ses changements, ce qui m'a fait penser que ces changements ne sont jamais innocents et obéissent à un but.
 
-Si vous souhaitez lire l'entrée originale, vous pouvez la lire [ici](https://www.felixmoreno.com%%0%%.
+Si vous souhaitez lire l'entrée originale, vous pouvez la lire [ici](https://www.felixmoreno.com/es/index/144_0_padre_nuestro_deudas_pecados_y_ofensas.html).
 
 Quand je suis allée à l'école (école des religieuses), j'ai appris une version du Notre Père qui n'est pas celle priée dans les églises catholiques ces dernières années. En fait, je n'ai pas pu apprendre la nouvelle version (ou je n'ai pas eu assez de motivation pour le faire). Dans mon enfance, le Notre Père était le suivant :
 

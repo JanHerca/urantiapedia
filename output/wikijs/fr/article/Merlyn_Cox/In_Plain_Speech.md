@@ -45,7 +45,7 @@ Alors Jésus a enseigné en paraboles. Ce faisant, dit-il, ceux qui cherchaient 
 
 Cependant, Jésus a ajouté : « Permettez-moi de vous dire que, dans le royaume des cieux, il n’y a rien de caché qui ne doive être manifesté, point de secrets qui ne doivent finalement être connus. »(<a id="a45_199"></a>[LU 151:3.1](/fr/The_Urantia_Book/151#p3_1)).
 
-Alors qu'il préparait ses disciples à son départ, il dit : « C'est dans ce but que je vous ai parlé si clairement dès le début... comme d'un ami à un autre... » ([UB 180:6.1](/en/The_Urantia_Book/180#p6_1))
+Alors qu'il préparait ses disciples à son départ, il dit : « C'est dans ce but que je vous ai parlé si clairement dès le début... comme d'un ami à un autre... » ([LU 180:6.1](/fr/The_Urantia_Book/180#p6_1))
 
 > « Ici-bas, je vous ai enseigné par proverbes et parlé en paraboles. Je l’ai fait parce que spirituellement vous n’étiez que des enfants ; mais l’heure vient où je vous parlerai sans ambages du Père et de son royaume. Je le ferai parce que le Père lui-même vous aime et désire vous être plus pleinement révélé. L’homme mortel ne peut voir le Père qui est esprit ; c’est pourquoi je suis venu dans ce monde pour montrer le Père à vos yeux de créatures. Mais, quand votre croissance spirituelle sera accomplie, vous verrez alors le Père lui-même. » (<a id="a49_549"></a>[LU 180:6.8](/fr/The_Urantia_Book/180#p6_8))
 

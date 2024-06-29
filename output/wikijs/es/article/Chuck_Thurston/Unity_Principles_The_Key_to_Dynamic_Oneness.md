@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Chuck Thurston<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Barry_Culligan/Unity_Not_Uniformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidad, no uniformidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
+          <span class="pr-2">Pensar igual: ¿necesario o innecesario?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Chuck_Thurston/27.jpg">
@@ -113,3 +137,27 @@ Se podrían agregar muchos más a esta lista, pero es de esperar que estos ejemp
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Barry_Culligan/Unity_Not_Uniformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidad, no uniformidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary_2">
+          <span class="pr-2">Pensar igual: ¿necesario o innecesario?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

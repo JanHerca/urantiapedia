@@ -93,4 +93,4 @@ Our experience is limited but we would be happy if it can benefit those who, lik
 
 ## Remarks 
 
-[^1]: Editor's Note: You can access The Urantia Book in French also in Urantiapedia here: [Table of Contents](/fr/The_Urantia_Book/Index) and [Extended Table of Contents](/fr/The_Urantia_Book/Index_Extended)
+[^1]: Editor's Note: You can access The Urantia Book in French also in Urantiapedia here: [Table of Contents](/en/The_Urantia_Book/Index) and [Extended Table of Contents](/en/The_Urantia_Book/Index_Extended)

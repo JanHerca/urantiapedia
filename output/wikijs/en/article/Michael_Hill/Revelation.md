@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Michael Hill<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pamela_Chaddock/Thy_Kin_Dom_Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thy Kin-Dom Come</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Allen/Another_and_Greater_John_or_Joan_the_Baptist">
+          <span class="pr-2">Another and Greater John (or Joan) the Baptist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Michael_Hill/07.jpg">
@@ -47,3 +71,27 @@ Michael Hill lives on a small farm in Alsea, Oregon.
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pamela_Chaddock/Thy_Kin_Dom_Come">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thy Kin-Dom Come</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Allen/Another_and_Greater_John_or_Joan_the_Baptist">
+          <span class="pr-2">Another and Greater John (or Joan) the Baptist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

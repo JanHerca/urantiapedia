@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gard Jameson<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Perry/The_Laborers_are_Few">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Laborers are Few</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="pr-2">A Global Ethic: Parliament of the World's Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Gard_Jameson/36.jpg">
@@ -38,6 +62,31 @@ May those with courage listen deeply to the revelatory commission with both the 
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Perry/The_Laborers_are_Few">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Laborers are Few</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="pr-2">A Global Ethic: Parliament of the World's Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -39,9 +39,9 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <img src="/image/article/606/coin.jpg">
 </figure>
 
-Cuando era niño, mi hermano y yo solíamos jugar en el ático de la casa de $m y$ padres. Había una caja de zapatos llena de monedas viejas con las que jugábamos a comprar: «comprar» y «vender» cosas en el ático unos a otros. Sabíamos que no eran dinero real porque todas tenían la imagen de un helecho arborescente en un lado y un arco iris en el otro, y las monedas tenían diferentes inscripciones.
+Cuando era niño, mi hermano y yo solíamos jugar en el ático de la casa de mis padres. Había una caja de zapatos llena de monedas viejas con las que jugábamos a comprar: «comprar» y «vender» cosas en el ático unos a otros. Sabíamos que no eran dinero real porque todas tenían la imagen de un helecho arborescente en un lado y un arco iris en el otro, y las monedas tenían diferentes inscripciones.
 
-Muchos años después, comencé a leer _El Libro de URANTIA_, inspirándome cada vez más en sus enseñanzas. Entonces recordé, por alguna extraña razón, las monedas con las que $m y$ hermano y yo jugábamos, y aunque no presté mucha atención a las palabras inscritas en ellas, sentí que las ideas del Libro y las ideas de las monedas tenía algo en común.
+Muchos años después, comencé a leer _El Libro de URANTIA_, inspirándome cada vez más en sus enseñanzas. Entonces recordé, por alguna extraña razón, las monedas con las que mi hermano y yo jugábamos, y aunque no presté mucha atención a las palabras inscritas en ellas, sentí que las ideas del Libro y las ideas de las monedas tenía algo en común.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right" alt="coin">
 <img src="/image/article/606/coin2.jpg">

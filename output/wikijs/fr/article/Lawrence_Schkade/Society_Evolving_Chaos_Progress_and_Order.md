@@ -169,7 +169,7 @@ Même s'il est peu probable que nous atteignions la lumière et la vie sur Urant
 
 [^4]: https://www.slate.com/articles/health_and_science/science/2013/08/symmetry_in_the_universe_physics_says_you_shouldn_t_exist.html 
 
-[^5]: https://www.quickiwiki.com%%0%%
+[^5]: https://www.quickiwiki.com/en/Timeline_of_the_Big_Bang 
 
 [^6]: https://www.gotquestions.org/anthropic-principle.html 
 

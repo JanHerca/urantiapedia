@@ -1,5 +1,5 @@
 ---
-title: "Héritage_et_Inspiration"
+title: "Héritage et Inspiration"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z

@@ -16,9 +16,9 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <img src="/image/article/606/coin.jpg">
 </figure>
 
-Quand j'étais petit, mon frère et moi jouions dans le grenier de la maison de $m y$ parents. Il y avait une boîte à chaussures pleine de vieilles pièces de monnaie avec lesquelles nous jouions au magasin – nous « achetions » et « vendions » des choses dans le grenier les uns des autres. Nous savions qu'il ne s'agissait pas d'argent réel, car ils portaient tous l'image d'une fougère arborescente d'un côté et d'un arc-en-ciel de l'autre, et les pièces portaient des inscriptions différentes.
+Quand j'étais petit, mon frère et moi jouions dans le grenier de la maison de mes parents. Il y avait une boîte à chaussures pleine de vieilles pièces de monnaie avec lesquelles nous jouions au magasin – nous « achetions » et « vendions » des choses dans le grenier les uns des autres. Nous savions qu'il ne s'agissait pas d'argent réel, car ils portaient tous l'image d'une fougère arborescente d'un côté et d'un arc-en-ciel de l'autre, et les pièces portaient des inscriptions différentes.
 
-De nombreuses années plus tard, j'ai commencé à lire _Le Livre d'URANTIA_, de plus en plus inspiré par ses enseignements. Puis je me suis souvenu, pour une raison étrange, des pièces avec lesquelles mon frère $m y$ et moi jouions, et même si je ne prêtais pas beaucoup d'attention aux mots inscrits dessus, j'ai senti que les idées contenues dans le Livre et les idées sur les pièces avait quelque chose en commun.
+De nombreuses années plus tard, j'ai commencé à lire _Le Livre d'URANTIA_, de plus en plus inspiré par ses enseignements. Puis je me suis souvenu, pour une raison étrange, des pièces de monnaie avec lesquelles mon frère et moi jouions, et même si je ne prêtais pas beaucoup d'attention aux mots inscrits dessus, j'ai senti que les idées contenues dans le Livre et les idées sur les pièces avaient quelque chose en commun. .
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right" alt="coin">
 <img src="/image/article/606/coin2.jpg">

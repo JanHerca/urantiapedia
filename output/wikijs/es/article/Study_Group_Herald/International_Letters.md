@@ -47,7 +47,7 @@ Se ha vuelto más difícil obtener respuestas de lectores de todo el mundo y qui
 
 Zambia disfruta hoy de la libertad aportada por la nueva Tercera República, que afirma devolver la democracia al pueblo. Para aquellos de nosotros que hemos leído _El Libro de Urantia_, esto no alcanza al gobierno ideal de Jesús, que es más, mucho más. Tenemos cristianos en el gobierno, pero usted y yo podemos debatir sobre el mandato durante años. Necesitamos saber quién es un verdadero cristiano a la luz del evangelio de Jesús.
 
-Tengo fe en la obra de los espíritus ministradores del Espíritu Infinito, y sé que, al fin y al cabo, «a los que aman al Señor, todas las cosas les ayudan a bien» ([Romanos 8:28]%%0% %). Pero el proceso de atravesar esta vida sigue siendo un gran desafío para quienes verdaderamente aman a Dios. Hay mucho por hacer. La mies es mucha, pero los trabajadores muy pocos.
+Tengo fe en la obra de los espíritus ministradores del Espíritu Infinito, y sé que, al fin y al cabo, «a los que aman al Señor, todas las cosas les ayudan a bien» ([Romanos 8:28](/es/Bible/Romans/8#v28)). Pero el proceso de atravesar esta vida sigue siendo un gran desafío para quienes verdaderamente aman a Dios. Hay mucho por hacer. La mies es mucha, pero los trabajadores muy pocos.
 
 Espero que algún día Zambia acoja a un grupo de lectores del _Libro de Urantia_ de otros países. Sabes cómo desearías poder verlo en tu vida. Pero qué importa, mientras suceda. Uno debe simplemente hacer lo mejor hoy y dejar las consecuencias de mañana al Padre Infinito.
 

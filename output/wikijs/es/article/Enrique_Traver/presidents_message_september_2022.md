@@ -59,7 +59,7 @@ Cuando nuestro enfoque es excesivamente exigente, santurrón o crítico, interru
 
 Siempre podemos servir a Dios y a nuestros semejantes con entusiasmo y dedicación, pero nuestras posibilidades de éxito mejoran enormemente cuando nuestro enfoque es de amor, amistad y tolerancia. Como dijo Jesús:
 
-> _En el reino de mi Padre no habrá ni judíos ni gentiles, sino solo los que buscan la perfección mediante el servicio, pues declaro que aquel que quiera ser grande en el reino de mi Padre debe convertirse primero en el servidor de todos. Si estáis dispuestos a servir a vuestros semejantes, os sentaréis conmigo en mi reino, al igual que yo me sentaré dentro de poco con mi Padre en su reino por haber servido a semejanza de criatura._ [[LU 137:8.11](/en/The_Urantia_Book/137#p8_11)]
+> _En el reino de mi Padre no habrá ni judíos ni gentiles, sino solo los que buscan la perfección mediante el servicio, pues declaro que aquel que quiera ser grande en el reino de mi Padre debe convertirse primero en el servidor de todos. Si estáis dispuestos a servir a vuestros semejantes, os sentaréis conmigo en mi reino, al igual que yo me sentaré dentro de poco con mi Padre en su reino por haber servido a semejanza de criatura._ [[LU 137:8.11](/es/The_Urantia_Book/137#p8_11)]
 
 Sigamos trabajando con devoción y entusiasmo. Seamos pacientes, tolerantes y cariñosos.
 

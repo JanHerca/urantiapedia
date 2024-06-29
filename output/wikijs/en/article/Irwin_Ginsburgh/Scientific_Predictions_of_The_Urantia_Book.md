@@ -178,7 +178,7 @@ Score: Five presently unfilled predictions.
 
 The book discusses “dark matter” and “dark islands of space” and says that we will discover dark matter soon. Because dark matter cannot be seen (it emits no light), science knows little about it. Science thinks that some dark matter is different from normal matter, such as a dense, cooled star. Recently, science has found several good theoretical reasons for the existence of such matter. Serious efforts are being made to find such matter, and positive results can be expected in the future. This has a very good chance of coming true.
 
-<span id="ID2"></span>II.D.2.—Organization of Matter in a Superuniverse (Astronomy, [LU 15:2.10-25](/es/The_Urantia_Book/15#p2_10), <a id="a180_132"></a>[UB 15:3.1-16](/en/The_Urantia_Book/15#p3_1))
+<span id="ID2"></span>II.D.2.—Organization of Matter in a Superuniverse (Astronomy, [UB 15:2.10-25](/en/The_Urantia_Book/15#p2_10), <a id="a180_132"></a>[UB 15:3.1-16](/en/The_Urantia_Book/15#p3_1))
 
 The book describes the organization of matter in a superuniverse. Science knows about some of this information, but does not know it all. In fact, science does not know about superuniverses. The book says that science will discover some of this information soon. The table below compares the equivalent information from science and _The Urantia Book_. The first column lists the Urantia criteria for the number of inhabited worlds in parts of a superuniverse. The other columns are self-explanatory. There is a question as to whether the Milky Way galaxy is a local universe or a minor sector of a superuniverse.
 

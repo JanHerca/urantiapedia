@@ -47,7 +47,7 @@ Il est devenu plus difficile d’obtenir des réponses des lecteurs du monde ent
 
 La Zambie jouit aujourd’hui de la liberté apportée par la nouvelle Troisième République, prétendant ramener la démocratie au peuple. Pour ceux d’entre nous qui ont lu _Le Livre d’Urantia_, cela est loin du gouvernement idéal de Jésus, qui est bien plus. Nous avons des chrétiens au gouvernement, mais vous et moi pouvons débattre du terme pendant des siècles. Nous devons savoir qui est un vrai chrétien à la lumière de l’Évangile de Jésus.
 
-J’ai foi dans l’œuvre des esprits au service de l’Esprit Infini, et je sais qu’en fin de compte, « tout concourt au bien de ceux qui aiment le Seigneur » ([Romains 8 :28]%%0% %). Mais le processus de traverser cette vie reste très difficile pour ceux qui aiment vraiment Dieu. Il y a tellement de choses à faire. La récolte est abondante, mais les ouvriers sont si peu nombreux.
+J’ai foi dans l’œuvre des esprits au service de l’Esprit Infini, et je sais qu’en fin de compte, « tout concourt au bien de ceux qui aiment le Seigneur » ([Romains 8 :28](/fr/Bible/Romans/8#v28)). Mais le processus de traverser cette vie reste très difficile pour ceux qui aiment vraiment Dieu. Il y a tellement de choses à faire. La récolte est abondante, mais les ouvriers sont si peu nombreux.
 
 J'espère qu'un jour la Zambie accueillera un groupe de lecteurs du Livre d’Urantia venant d’autres pays. Vous savez à quel point vous aimeriez pouvoir le voir de votre vivant. Mais qu’importe, pourvu que cela arrive. Il faut simplement faire de son mieux aujourd’hui et laisser les conséquences de demain au Père Infini.
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 David Schlundt<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte del lenguaje universal: conversaciones sobre crecimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-22-número-1-2022-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 22, Número 1, 2022 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="pr-2">Por qué el Cuerpo de Reveladores de la Verdad de Urantia utilizó autores de fuentes humanas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/David_Schlundt/28.jpg">
@@ -121,3 +145,27 @@ Cada persona tiene un conjunto complicado de ideas sobre sí mismo, el mundo, la
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte del lenguaje universal: conversaciones sobre crecimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-22-número-1-2022-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 22, Número 1, 2022 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="pr-2">Por qué el Cuerpo de Reveladores de la Verdad de Urantia utilizó autores de fuentes humanas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

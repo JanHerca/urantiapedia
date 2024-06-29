@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Dick Bain<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why The Urantia Corps of Truth Revealers Used Human Source Authors</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/Progress_Project">
+          <span class="pr-2">Progress Project</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Dick_Bain/31.jpg">
@@ -39,3 +63,27 @@ I believe that it's valuable to study and discuss The Urantia Book with other pe
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why The Urantia Corps of Truth Revealers Used Human Source Authors</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/Progress_Project">
+          <span class="pr-2">Progress Project</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Cecilia Ann Bendall<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unity Principles—The Key to Dynamic Oneness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/A_Part_and_the_Whole">
+          <span class="pr-2">A Part and the Whole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Ann_Bendall/30.jpg">
@@ -80,6 +104,31 @@ And the fact that I am continually learning and will never know the truth is exh
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unity Principles—The Key to Dynamic Oneness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/A_Part_and_the_Whole">
+          <span class="pr-2">A Part and the Whole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

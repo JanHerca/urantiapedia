@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Ann Bendall<br>© 2020 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios de unidad: la clave para la unidad dinámica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Aprilhelen/A_Part_and_the_Whole">
+          <span class="pr-2">Una parte y el todo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Ann_Bendall/30.jpg">
@@ -80,6 +104,31 @@ Y el hecho de que estoy aprendiendo continuamente y nunca sabré la verdad es es
 ## Referencias
 
 - Artículo obtenido de [el sitio de The Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios de unidad: la clave para la unidad dinámica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Aprilhelen/A_Part_and_the_Whole">
+          <span class="pr-2">Una parte y el todo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

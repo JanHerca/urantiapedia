@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Phillip Marriott<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Voices_from_Our_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voces de nuestra comunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Unity_Not_Uniformity_Crossword_Puzzle">
+          <span class="pr-2">Crucigrama de unidad, no uniformidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Phillip_Marriott/46.jpg">
@@ -94,3 +118,28 @@ El libro lo resume mejor con estos artículos finales:
 
 - Artículo obtenido de [el sitio de The Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Voices_from_Our_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voces de nuestra comunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Unity_Not_Uniformity_Crossword_Puzzle">
+          <span class="pr-2">Crucigrama de unidad, no uniformidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

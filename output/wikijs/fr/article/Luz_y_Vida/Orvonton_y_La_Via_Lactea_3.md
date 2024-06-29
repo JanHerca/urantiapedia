@@ -110,7 +110,7 @@ Autrement dit, nous n’avons pas besoin de chercher le siège du superunivers d
 
 Est-ce que cela nous indique la longueur du superunivers ?
 
-Si l'on fait l'approximation d'un univers circulaire, avec c étant la vitesse de la lumière dans le vide (environ 300 000 km/s), si l'on suppose que 968 millions d'années-lumière est précisément la longueur du cercle, en appliquant %%0% % , nous donnerait un rayon d'env. 154 millions d'années-lumière ou, ce qui revient au même, 308 millions d'années-lumière de diamètre.
+Si l'on fait l'approximation d'un univers circulaire, avec c étant la vitesse de la lumière dans le vide (environ 300 000 km/s), si l'on suppose que 968 millions d'années-lumière est précisément la longueur du cercle, en appliquant $L = 2 \pi r$, nous donnerait un rayon d'env. 154 millions d'années-lumière ou, ce qui revient au même, 308 millions d'années-lumière de diamètre.
 
 En <a id="a114_3"></a>[LU 32:2.11](/fr/The_Urantia_Book/32#p2_11), le LU nous dit que de Jérusem au centre physique du superunivers d'Orvonton il y a plus de 200 000 a.l. (ce qui nous donnerait un diamètre de 400 000 a.l.) ce qui semble bien loin des 154 millions d'avant (385 fois moins), à moins de développer l'idée que, bien que l'univers fasse 154 millions d'a.l. en diamètre, la majorité de la masse des créations matérielles est concentrée dans un diamètre de ces 400 000 a.l, ce qui nous donnerait un modèle de répartition d'espace assigné comme des portions de fromage, mais de créations matérielles plutôt concentrées.
 

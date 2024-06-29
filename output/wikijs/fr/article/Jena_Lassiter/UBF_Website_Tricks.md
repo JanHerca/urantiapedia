@@ -39,7 +39,7 @@ par _Jena Lassiter_, UrantiaBook.org
 
 Comme beaucoup d'entre vous le savent déjà, en novembre dernier, l’équipe du site Web, s'appuyant sur des années de travail de personnes dévouées, a introduit des améliorations significatives et de nouvelles fonctionnalités sur le site Web de la Fellowship.
 
-Les principaux objectifs de ce site Web récemment repensé sont : la facilité d'utilisation et les fonctionnalités permettant de localiser rapidement les ressources d'intérêt (telles que les articles liés au Livre d'Urantia, les aides à l’étude, les publications de la Fellowship du Livre d'Urantia, les vidéos, les enregistrements audio, les brochures, les %%0% téléchargeables. % Versions du Livre d'Urantia en anglais et dans d'autres langues, et plus).
+Les principaux objectifs de ce site Web récemment repensé sont : la facilité d'utilisation et les fonctionnalités permettant de localiser rapidement les ressources d'intérêt (telles que les articles liés au Livre d'Urantia, les aides à l’étude, les publications de la Fellowship du Livre d'Urantia, les vidéos, les enregistrements audio, les brochures, les eBook du Livre d'Urantia en anglais et dans d'autres langues, et plus).
 
 Cette colonne est destinée à décrire certaines de ces fonctionnalités et comment y accéder.
 

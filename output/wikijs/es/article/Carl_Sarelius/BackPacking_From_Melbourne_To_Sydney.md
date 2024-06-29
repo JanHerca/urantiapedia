@@ -214,7 +214,7 @@ A la orilla de un hermoso río instalé mi tienda. Era el atardecer cuando estab
 
 Entonces un segundo dingo salió de detrás de la tienda y se detuvo frente a mí. Lo sé, un dingo es una cosa, pero dos son impredecibles. Me miró fijamente desde sólo dos brazos de distancia y yo le devolví la mirada sin moverme. Mientras miraba a su pareja a unos metros de distancia, pude entender sus pensamientos. «¿Por qué huir? ¿Qué pasa con la comida que podíamos oler en la tienda? ¿No deberíamos ir a buscarla?» Al no obtener respuesta de su compañero, decidió seguirlo. Me quedé quieto, observando hasta que desaparecieron sobre el banco. Salí de la tienda, seleccioné un palo fuerte y puse mis apestosos sándwiches en mi mochila.
 
-Abrí la hoja de mi navaja suiza, decidido a luchar contra cualquier intruso. Esta noche, sin dormir mucho, el más leve ruido llamó la atención y fue perturbado por $m y$ pensamientos sin respuesta. Los dos dingos... ¿podrían haber sido perros de granja? Pero no había granjas alrededor... y ciertamente parecían dingos.
+Abrí la hoja de mi navaja suiza, decidido a luchar contra cualquier intruso. Esta noche, sin dormir mucho, el más leve ruido llamó la atención y fue perturbado por mis pensamientos sin respuesta. Los dos dingos... ¿podrían haber sido perros de granja? Pero no había granjas alrededor... y ciertamente parecían dingos.
 
 _10 de abril - Área de Moruya_
 

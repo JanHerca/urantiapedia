@@ -38,7 +38,7 @@ by _Jena Lassiter_, UrantiaBook.org
 
 As many of you know by now, last November the Website Team, leveraging years of prior work by dedicated individuals, introduced significant enhancements and new capabilities into the Fellowship's website.
 
-Chief among the goals of this newly redesigned website are: ease of use and features to quickly locate resources of interest (such as Urantia Book related articles, study aids, Urantia Book Fellowship publications, videos, audio recordings, brochures, downloadable $e$ Book versions of the Urantia Book in English and other languages, and more).
+Chief among the goals of this newly redesigned website are: ease of use and features to quickly locate resources of interest (such as Urantia Book related articles, study aids, Urantia Book Fellowship publications, videos, audio recordings, brochures, downloadable eBook versions of the Urantia Book in English and other languages, and more).
 
 This column is intended to describe some of those features and how to access them.
 

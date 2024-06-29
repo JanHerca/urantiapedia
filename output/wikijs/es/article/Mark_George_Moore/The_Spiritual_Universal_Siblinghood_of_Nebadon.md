@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark George Moore y Framy Mâs<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una ética global: el parlamento de las religiones del mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Douglas_Burns/Fear_Not">
+          <span class="pr-2">No temáis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _por Mark George Moore/Framy Mâs_
 
@@ -39,3 +63,27 @@ y luego al Universal (Padre).<br>
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una ética global: el parlamento de las religiones del mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Douglas_Burns/Fear_Not">
+          <span class="pr-2">No temáis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

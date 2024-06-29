@@ -1333,7 +1333,7 @@ I would like to suggest, through Six-O-Six, that we start accumulating ideas and
 
 _The ***July/August 1989*** issue canned an interesting article from Tony Rudd d who had some interesting recollections on his life, inspired by both _The URANTIA: Book_ and his great grandfather_
 
-When I was a young lad, my brother and I used to play in the attic of $m y$ parents' house. There was a shoebox full of old coins we played shop with — “buying” and “selling” things in the attic from one another. We knew they weren't real money because they all had a picture of a tree fern on one side and a rainbow on the other, and with the coins bearing different inscriptions.
+When I was a young lad, my brother and I used to play in the attic of my parents' house. There was a shoebox full of old coins we played shop with — “buying” and “selling” things in the attic from one another. We knew they weren't real money because they all had a picture of a tree fern on one side and a rainbow on the other, and with the coins bearing different inscriptions.
 
 Read more in [Six-O-Six July/August 1989](/en/article/Tony_Rudd/Old_coins_in_a_shoebox)
 

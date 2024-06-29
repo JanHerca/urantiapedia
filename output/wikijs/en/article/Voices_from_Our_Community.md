@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President's Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2">
+          <span class="pr-2">Unity—Harmony Within Diversity of Experience and Belief</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Let's all join together and show the world a united front working to bring this world in the era of a true spiritual brotherhood under the guidance of God our Father and Michael (of Nebadon). — G C
 
@@ -33,3 +57,27 @@ Estoy conociendo al Padre realmente, y por Fe, igualmente espero que los hombres
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President's Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2">
+          <span class="pr-2">Unity—Harmony Within Diversity of Experience and Belief</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

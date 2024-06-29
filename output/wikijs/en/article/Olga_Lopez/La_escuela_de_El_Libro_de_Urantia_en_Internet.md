@@ -58,7 +58,7 @@ Starting in 2016, and since we now have a larger number of qualified teacher-fac
 I sincerely believe that, with the team we have, that goal will be achieved within a few years. In the meantime, we will continue working hard so that our goal is met and we serve the large number of Spanish-language readers around the world.
 
 - School website: http://ubis.urantia.org
-- Course schedule (it appears one month before the course starts, that is, in December, March and August): http://www.urantia.org%%0%%
+- Course schedule (it appears one month before the course starts, that is, in December, March and August): http://www.urantia.org/es/education/programacion-de-cursos
 
 ## References
 

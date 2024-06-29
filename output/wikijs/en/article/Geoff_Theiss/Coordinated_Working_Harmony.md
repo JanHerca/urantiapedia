@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Geoffrey Theiss<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Douglas_Burns/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fear Not</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="pr-2">President's Message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Geoff_Theiss/42.jpg">
@@ -44,3 +68,27 @@ https://urantiabook.org/Donate/
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Douglas_Burns/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fear Not</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="pr-2">President's Message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

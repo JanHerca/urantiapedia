@@ -1317,7 +1317,7 @@ Je voudrais suggérer, à travers Six-O-Six, que nous commencions à accumuler d
 
 _Le numéro de juillet/août 1989*** contenait un article intéressant de Tony Rudd qui avait des souvenirs intéressants sur sa vie, inspirés à la fois par _Le Livre d'URANTIA_ et par son arrière-grand-père_.
 
-Quand j'étais petit, mon frère et moi jouions dans le grenier de la maison de $m y$ parents. Il y avait une boîte à chaussures pleine de vieilles pièces de monnaie avec lesquelles nous jouions au magasin – nous « achetions » et « vendions » des choses dans le grenier les uns des autres. Nous savions qu'il ne s'agissait pas d'argent réel, car ils portaient tous l'image d'une fougère arborescente d'un côté et d'un arc-en-ciel de l'autre, et les pièces portaient des inscriptions différentes.
+Quand j'étais petit, mon frère et moi jouions dans le grenier de la maison de mes parents. Il y avait une boîte à chaussures pleine de vieilles pièces de monnaie avec lesquelles nous jouions au magasin – nous « achetions » et « vendions » des choses dans le grenier les uns des autres. Nous savions qu'il ne s'agissait pas d'argent réel, car ils portaient tous l'image d'une fougère arborescente d'un côté et d'un arc-en-ciel de l'autre, et les pièces portaient des inscriptions différentes.
 
 Lire la suite dans [Six-O-Six juillet/août 1989](/fr/article/Tony_Rudd/Old_coins_in_a_shoebox)
 

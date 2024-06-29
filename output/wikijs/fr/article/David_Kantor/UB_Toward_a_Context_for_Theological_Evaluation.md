@@ -148,7 +148,7 @@ Ce processus de découverte a été bien expliqué par Michael Buckley, professe
 
 Les articles du Livre d'Urantia, un tri et une coordination faisant autorité de plus de 2 000 ans des idées théologiques, philosophiques et scientifiques primaires de la civilisation occidentale, fournissent les moyens d'une redécouverte des significations essentielles. Ils fournissent également une base conceptuelle pour une compréhension de valeurs morales et spirituelles supérieures et conduisent à une revitalisation des symboles chrétiens fondamentaux dans l'expérience de l'individu.
 
-> Les articles du Livre d'Urantia, un tri et une coordination faisant autorité de plus de 2 000 ans des idées théologiques, philosophiques et scientifiques primaires de la civilisation occidentale, fournissent les moyens d'une redécouverte des significations essentielles. Ils fournissent également une base conceptuelle pour une compréhension de valeurs morales et spirituelles supérieures et conduisent à une revitalisation des symboles chrétiens fondamentaux au sein de l'expérience de l'individu._
+> Les articles du Livre d'Urantia, un tri et une coordination faisant autorité de plus de 2 000 ans des idées théologiques, philosophiques et scientifiques primaires de la civilisation occidentale, fournissent les moyens d'une redécouverte des significations essentielles. Ils fournissent également une base conceptuelle pour une compréhension de valeurs morales et spirituelles supérieures et conduisent à une revitalisation des symboles chrétiens fondamentaux au sein de l'expérience de l'individu.
 
 ## Critères de validation
 
@@ -299,6 +299,6 @@ Mon objectif était seulement de décrire un contexte dans lequel le _Livre d'Ur
 
 [^29]: Ibid, 173.
 
-[^30]: Matthew Block, [« Quelques sources humaines du _Livre d'Urantia_ »,](/fr/article/Matthew_Block/Some_Human_Sources_of_LU) _Journal de la Fraternité Spirituelle_ (Printemps 1993) : 9-13. Des possibilités importantes d’analyse textuelle et littéraire critique existent pour les futurs étudiants.
+[^30]: Matthew Block, [« Quelques sources humaines du _Livre d'Urantia_ »,](/fr/article/Matthew_Block/Some_Human_Sources_of_UB) _Journal de la Fraternité Spirituelle_ (Printemps 1993) : 9-13. Des possibilités importantes d’analyse textuelle et littéraire critique existent pour les futurs étudiants.
 
 [^31]: _Le Livre d'Urantia_, <a id="a303_29"></a>[LU 195:10.21](/fr/The_Urantia_Book/195#p10_21).

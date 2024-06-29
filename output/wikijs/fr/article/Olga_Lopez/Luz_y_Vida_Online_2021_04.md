@@ -270,7 +270,7 @@ Les cours eux-mêmes commencent le **lundi 19 avril** et durent 10 semaines (sau
 
 Pour vous inscrire, vous devez vous rendre sur le site de l'école ([http://ubis.urantia.org](http://ubis.urantia.org/)) et créer un compte utilisateur avant de demander un cours, car il est nécessaire d'être authentifié en tant qu'utilisateur UBIS pour demander l'inscription.
 
-Voici la liste des cours qui seront dispensés en avril : [https://www.urantia.org%%0%%
+Voici la liste des cours qui seront dispensés en avril : [https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos)
 
 
 ## À propos de la newsletter Luz y Vida

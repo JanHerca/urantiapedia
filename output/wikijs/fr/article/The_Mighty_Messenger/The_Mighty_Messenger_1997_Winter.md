@@ -34,7 +34,7 @@ par _Josephe DeCosmo_, Boynton Beach, Floride
 
 Dans les premiers paragraphes des fascicules d'Urantia, on nous dit que l’anglais a été choisi par la Commission de révélation d'Orvonton comme langue-véhicule pour la cinquième révélation d'époque : « Notre mandat nous exhorte à faire tous les efforts possibles pour transmettre nos significations en utilisant les symboles verbaux. de la langue anglaise » (<a id="a34_359"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)).
 
-Dans l’article « Sphères de Lumière et de Vie », il est dit : « Aucun monde évolutionnaire ne peut espérer progresser au-delà de la première étape de l’établissement dans la lumière tant qu’il n'a pas atteint une seule langue, une seule religion et une seule philosophie » (%%0% %).
+Dans l’article « Sphères de Lumière et de Vie », il est dit : « Aucun monde évolutionnaire ne peut espérer progresser au-delà de la première étape de l’établissement dans la lumière tant qu’il n'a pas atteint une seule langue, une seule religion et une seule philosophie » ([LU 55:3.22](/fr/The_Urantia_Book/55#p3_22)).
 
 Prises ensemble, ces deux déclarations suggèrent fortement que l’anglais pourrait bien être « la langue unique » qui unifiera le monde et permettra à Urantia de progresser vers et à travers les âges de lumière et de vie. L’anglais est déjà la langue internationale du commerce et des voyages aériens et maritimes.
 

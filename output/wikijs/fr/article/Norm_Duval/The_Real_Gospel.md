@@ -43,7 +43,7 @@ Dans le Nouveau Testament, il est dit que Jésus et les apôtres allaient de vil
 
 Et Jésus parcourait toutes les villes et tous les villages, enseignant dans leurs synagogues, et prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple. ([Matt. 9:35](/fr/Bible/Matthew/9#v35))
 
-Et c’est arrivé.  que Jésus parcourait chaque ville et village, __prêchant et annonçant la bonne nouvelle du royaume de Dieu__ : et les douze étaient avec lui.  ([Luc 8:1](/fr/Bible/Luke/8#v1); voir aussi [Matt 4:23](/fr/Bible/Matthew/4#v23); [Marc 1:14](/fr/Bible/Mark/1#v14), [Luc 4:43]%%3% %)
+Et c’est arrivé.  que Jésus parcourait chaque ville et village, __prêchant et annonçant la bonne nouvelle du royaume de Dieu__ : et les douze étaient avec lui.  ([Luc 8:1](/fr/Bible/Luke/8#v1); voir aussi [Matt 4:23](/fr/Bible/Matthew/4#v23); [Marc 1:14](/fr/Bible/Mark/1#v14), [Luc 4:43](/fr/Bible/Luke/4#v43))
 
 Nous pouvons déduire de ces deux versets que l’Évangile était quelque chose que __Jésus prêchait et enseignait réellement__. Ainsi, la question de savoir d’où vient l’Évangile trouve une réponse. __Cela vient de Jésus__.
 

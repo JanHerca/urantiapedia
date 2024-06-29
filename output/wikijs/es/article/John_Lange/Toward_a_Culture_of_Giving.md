@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 John Lange<br>© 2022 Chuck Thurston (fotos)<br>© 2022 The Urantia Book Fellowship</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Aprilhelen/Progress_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proyecto de progreso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-22-número-1-2022-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 22, Número 1, 2022 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/John_Lange/36.jpg">
@@ -83,3 +104,25 @@ Comité de Finanzas: John Lange, Presidente; Larry Geis, Secretario; Dale Sztejn
 
 > Vivimos en Dios y Dios habita en nosotros. (<a id="a83_46"></a>[LU 131:10.4](/es/The_Urantia_Book/131#p10_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Aprilhelen/Progress_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proyecto de progreso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-22-número-1-2022-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 22, Número 1, 2022 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Phillip Marriott<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Voices_from_Our_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voices from Our Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Unity_Not_Uniformity_Crossword_Puzzle">
+          <span class="pr-2">Unity Not Uniformity Crossword Puzzle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Phillip_Marriott/46.jpg">
@@ -93,3 +117,27 @@ The book best sums it up with these final papers:
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Voices_from_Our_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voices from Our Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Unity_Not_Uniformity_Crossword_Puzzle">
+          <span class="pr-2">Unity Not Uniformity Crossword Puzzle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

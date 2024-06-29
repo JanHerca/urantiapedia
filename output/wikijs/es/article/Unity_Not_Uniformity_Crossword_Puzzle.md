@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 La Fellowship del Libro de Urantia</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 La Fellowship del Libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidad – Armonía dentro de la diversidad de experiencias y creencias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/unity_crossword.jpg">
@@ -80,4 +101,25 @@ Adjuntos:
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/peace.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidad – Armonía dentro de la diversidad de experiencias y creencias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

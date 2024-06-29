@@ -57,7 +57,7 @@ Sydney has a few new members in its group and your editor visited our friends Pe
 
 ## “Thought For The Month” 
 
-> “Ever bear in mind—God and men need each other. They are mutually necessary to the full and final attainment of eternal personality experience in the divine destiny of universe finality.” _The URANTIA Book_ [LU 195:10.3](/es/The_Urantia_Book/195#p10_3)
+> “Ever bear in mind—God and men need each other. They are mutually necessary to the full and final attainment of eternal personality experience in the divine destiny of universe finality.” _The URANTIA Book_ [UB 195:10.3](/en/The_Urantia_Book/195#p10_3)
 
 ## Evidence of Things Unseen
 

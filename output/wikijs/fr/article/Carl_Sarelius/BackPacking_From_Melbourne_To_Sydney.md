@@ -194,7 +194,7 @@ Au bord d'une belle rivière, j'ai posé ma tente. C'était le coucher du soleil
 
 Maintenant, un deuxième dingo est venu de derrière la tente et s'est arrêté devant moi. Je sais, un dingo est une chose, mais deux sont imprévisibles. Il m'a regardé à seulement deux longueurs de bras et j'ai regardé en arrière sans bouger. En regardant son compagnon à quelques mètres, j'ai pu comprendre ses pensées. « Pourquoi s'enfuir - qu'en est-il de la nourriture que nous pouvions sentir dans la tente - ne devrions-nous pas aller la chercher ? » En l'absence de réponse de son compagnon, il décida de le suivre. Je restai assis, les regardant jusqu'à ce qu'ils disparaissent au-dessus de la berge. Je suis sorti de la tente, j'ai choisi un bâton solide et j'ai mis mes sandwichs malodorants dans mon sac.
 
-J'ai ouvert la lame de mon canif suisse, déterminé à combattre tout intrus. Cette nuit-là - pas beaucoup de sommeil - le moindre bruit appelait l'attention et était perturbé par $m y$ pensées sans réponse. Les deux dingos, auraient-ils pu être des chiens de ferme ? Mais pas de ferme aux alentours – et ils ressemblaient certainement à des dingos.
+J'ai ouvert la lame de mon canif suisse, déterminé à combattre tout intrus. Cette nuit-là - pas beaucoup de sommeil - le moindre bruit appelait mon attention et était dérangé par mes pensées sans réponse. Les deux dingos, auraient-ils pu être des chiens de ferme ? Mais pas de ferme aux alentours – et ils ressemblaient certainement à des dingos.
 
 _10 avril — Région de Moruya_
 

@@ -68,7 +68,7 @@ All human life, from the time we are born to the time we die, forms a course and
 
 > _An animal body is sown, it will be raised a spiritual body. There is an animal body (that is, our material body) and there is a spiritual body._ [1 Corinthians 15:44](/en/Bible/1_Corinthians/15#v44)
 
-According to _The Urantia Book_, the only beings in the universe who experience reincarnation are beings residing on a wonderful world headquarters: Jerusem (the New Jerusalem, described in the [Apocalypse of Saint John, chapter 21]%%0% %).
+According to _The Urantia Book_, the only beings in the universe who experience reincarnation are beings residing on a wonderful world headquarters: Jerusem (the New Jerusalem, described in the [Apocalypse of Saint John, chapter 21](/en/Bible/Revelation/21)).
 
 > _When, with the passing of time, the physical bodies of these unique creatures deteriorate from usage and age, their creators, in collaboration with the Life Carriers, fabricate new bodies in which the old spornagia re-establish their residences._ (<a id="a72_251"></a>[UB 46:7.4](/en/The_Urantia_Book/46#p7_4))
 

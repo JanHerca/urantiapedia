@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
-<p class="tema v-card v-sheet--gris claro aclarar-3 px-2">© 2010 Gard Jameson</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Gard Jameson</p>
 
 Hay muchas alegrías asociadas con formar parte de un grupo de lectores que tiene como objetivo principal un estudio exhaustivo de _El Libro de Urantia_. Un Grupo de Estudio tiene el potencial de «expandir la conciencia cósmica y mejorar la percepción espiritual». <a id="s12_264"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2) Y estos son los dos exaltados propósitos de la quinta revelación de época.
 

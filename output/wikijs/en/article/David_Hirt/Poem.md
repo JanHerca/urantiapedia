@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 David Hirt<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Legacy_and_Inspiration_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legacy and Inspiration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kurt_Cira/Prayer">
+          <span class="pr-2">Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 And everything is upside down, 
 like faces mirrored in a bowl: 
@@ -38,3 +62,27 @@ into the bowl reflecting you.
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Legacy_and_Inspiration_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legacy and Inspiration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-22-number-1-2022-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Number 1, 2022 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kurt_Cira/Prayer">
+          <span class="pr-2">Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

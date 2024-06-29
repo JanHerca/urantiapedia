@@ -44,7 +44,7 @@ Speculating about the pre-bestowal survey of Urantian religions, Massey says the
 
 Michael found gobs of material in the “supposedly sacred texts” (6,1) of the Jews which he used for preaching (some favorites were [Psalm 51.10](/en/Bible/Psalms/51#v10) and [Hosea 6.6](/en/Bible/Hosea/6#v6)) and for describing his mission on earth (especially [Isaiah 61](/en/Bible/Isaiah/61)).
 
-When asked a question about anger, he reeled off eleven straight Bible quotes on the subject ([LU 149:4.2](/es/The_Urantia_Book/149#p4_2)).
+When asked a question about anger, he reeled off eleven straight Bible quotes on the subject ([UB 149:4.2](/en/The_Urantia_Book/149#p4_2)).
 
 But Massey especially denigrates Judaism in comparison with his favorite mystery cult. Mithraism is “the religion of destiny,” (10,2) while “the Hebrews suffered under primitive tribal standards of socialization.” (6,2)
 

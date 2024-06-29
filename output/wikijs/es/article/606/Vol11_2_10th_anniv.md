@@ -1334,7 +1334,7 @@ Me gustaría sugerir que, a través de Six-O-Six, comencemos a acumular ideas e 
 
 _El número de ***julio/agosto de 1989*** incluyó un interesante artículo de Tony Rudd d, quien tenía algunos recuerdos interesantes sobre su vida, inspirados tanto en _El libro de URANTIA_ como en su bisabuelo_.
 
-Cuando era niño, mi hermano y yo solíamos jugar en el ático de la casa de $m y$ padres. Había una caja de zapatos llena de monedas viejas con las que jugábamos a comprar: «comprar» y «vender» cosas en el ático unos a otros. Sabíamos que no eran dinero real porque todas tenían la imagen de un helecho arborescente en un lado y un arco iris en el otro, y las monedas tenían diferentes inscripciones.
+Cuando era niño, mi hermano y yo solíamos jugar en el ático de la casa de mis padres. Había una caja de zapatos llena de monedas viejas con las que jugábamos a comprar: «comprar» y «vender» cosas en el ático unos a otros. Sabíamos que no eran dinero real porque todas tenían la imagen de un helecho arborescente en un lado y un arco iris en el otro, y las monedas tenían diferentes inscripciones.
 
 Lea más en [Six-O-Six julio/agosto de 1989](/es/article/Tony_Rudd/Old_coins_in_a_shoebox)
 

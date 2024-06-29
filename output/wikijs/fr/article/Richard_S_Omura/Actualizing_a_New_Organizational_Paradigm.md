@@ -56,7 +56,7 @@ J'ai exprimé mon point de vue selon lequel une organisation spirituelle basée 
 > 14. en outre, la religion formaliste crée la fâcheuse discrimination des castes religieuses, 
 > 15. elle devient un juge intolérant de l’orthodoxie, 
 > 16. elle ne réussit pas à retenir l’intérêt de la jeunesse aventureuse et elle perd graduellement le message sauveur de l’évangile de salut éternel.
-> 17. La religion officielle freine les hommes dans leurs activités spirituelles personnelles au lieu de les libérer pour un service plus élevé de bâtisseurs du royaume. [UB 99:6.3-4](/en/The_Urantia_Book/99#p6_3)
+> 17. La religion officielle freine les hommes dans leurs activités spirituelles personnelles au lieu de les libérer pour un service plus élevé de bâtisseurs du royaume. [LU 99:6.3-4](/fr/The_Urantia_Book/99#p6_3)
 
 Même si les dangers sont nombreux, j’estime qu’il faudra tôt ou tard s’engager dans cette voie. Actuellement, la Fondation Urantia répond aux besoins matériels du livre, en le publiant et en le distribuant. La bourse rassemble les lecteurs dans un contexte social et crée un environnement où les idées contenues dans le livre sont discutées intellectuellement et philosophiquement. Mais, hélas, il n’existe aucune organisation pour promouvoir et développer les concepts spirituels qui font tant partie intégrante du livre.
 

@@ -89,7 +89,7 @@ On pourrait faire valoir qu’une sorte d’église Urantia existe déjà. Consi
 
 > « Le grand espoir d’Urantia réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles. » (<a id="a89_290"></a>[LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
 
-> _Dick Bain est ingénieur électricien et rédacteur en chef d'Innerface International. Il est un étudiant de longue date du_Le Livre d'Urantia.
+> _Dick Bain est ingénieur électricien et rédacteur en chef d'Innerface International. Il est un étudiant de longue date du_ Le Livre d'Urantia.
 {.is-info}
 
 

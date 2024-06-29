@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Barry Culligan<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cristina_Seaborn/Letter_from_the_Editor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carta del editor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="pr-2">Principios de unidad: la clave para la unidad dinámica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Barry_Culligan/25.jpg">
@@ -50,3 +74,27 @@ La forma en que El Libro de Urantia habla de unidad espiritual sugiere que los c
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cristina_Seaborn/Letter_from_the_Editor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carta del editor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="pr-2">Principios de unidad: la clave para la unidad dinámica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -45,7 +45,7 @@ Urantia Foundation now has Facebook pages in Spanish and Portuguese. Please visi
 
 Spanish: https://www.facebook.com/FundacionUrantia/
 
-Portuguese: https://www.facebook.com/Funda%C3%%A7%C3%A3o-Ur%C3%A2ntia-511241532679451
+Portuguese: [https://www.facebook.com/Funda%C3%A7%C3%A3o-Ur%C3%A2ntia-511241532679451](https://www.facebook.com/Funda%C3%A7%C3%A3o-Ur%C3%A2ntia-511241532679451)
 
 Thank you!
 

@@ -113,7 +113,7 @@ Jésus s'est appuyé sur l’héritage des enseignements de Melchisédek lorsqu'
 > <img src="/image/article/Study_Group_Herald/priest.jpg">
 > </figure>
 > 
-> Dans la Bible, Melchisédek est mentionné dans Hébreux, dans la Genèse et dans les Psaumes, mais il existe également des références mineures dispersées dans le texte. Certains d’entre eux ne font pas référence à Melchisédek par son nom, mais plutôt au « Grand Prêtre », qui, selon les érudits, est attribué à Melchisédek. Il est également appelé Zadokin dans de nombreux passages davidiques. [I Kings 1:18](/en/Bible/1_Kings/1#v18) dit que Tsadok appartient à David. [I Chron. 5:11](/en/Bible/1_Chronicles/5#v11) dit que David a appelé Tsadok.
+> Dans la Bible, Melchisédek est mentionné dans Hébreux, dans la Genèse et dans les Psaumes, mais il existe également des références mineures dispersées dans le texte. Certains d’entre eux ne font pas référence à Melchisédek par son nom, mais plutôt au « Grand Prêtre », qui, selon les érudits, est attribué à Melchisédek. Il est également appelé Zadokin dans de nombreux passages davidiques. [I Kings 1:18](/fr/Bible/1_Kings/1#v18) dit que Tsadok appartient à David. [I Chron. 5:11](/fr/Bible/1_Chronicles/5#v11) dit que David a appelé Tsadok.
 
 ## Bibliographie
 

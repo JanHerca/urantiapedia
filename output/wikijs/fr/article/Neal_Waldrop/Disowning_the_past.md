@@ -157,7 +157,7 @@ Notant que « _...un culte religieux ne peut pas être fabriqué ; il doit grand
 
 > « _Les anciens cultes étaient trop égocentriques. Le nouveau culte doit résulter de la mise en œuvre de l’amour. Comme les anciens, il doit encourager les sentiments, satisfaire les émotions et promouvoir la fidélité, mais il doit faire davantage. Il faut qu’il facilite les progrès spirituels ; qu’il rehausse les significations cosmiques, augmente les valeurs morales, encourage le développement social et stimule un type élevé de vie religieuse personnelle._ » (<a id="a157_467"></a>[LU 87:7.7](/fr/The_Urantia_Book/87#p7_7))
 
-Soulignant l'importance de fonder le culte «_. . . sur la signification biologique, sociologique et religieuse du foyer_ », la Brilliant Evening Star appelle le culte à « _... reconnaître les vraies significations, exalter les belles relations et glorifier les bonnes valeurs de la vraie noblesse._ » (% %0%%) « Mais », dit-il,
+Soulignant l'importance de fonder le culte «_. . . sur la signification biologique, sociologique et religieuse du foyer_ », la Brilliant Evening Star appelle le culte à « _... reconnaître les vraies significations, exalter les belles relations et glorifier les bonnes valeurs de la vraie noblesse._ » ([LU 87:7.8](/fr/The_Urantia_Book/87#p7_8)) « Mais », dit-il,
 
 > « _un culte — un symbolisme de rites, de slogans ou de buts — ne fonctionnera pas s’il est trop complexe. Et il doit comporter l’exigence de la dévotion, la réponse de la loyauté._ » (<a id="a161_186"></a>[LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
 

@@ -283,7 +283,7 @@ Voici les cours qui seront proposés en espagnol :
 4. **Énergie physique : manifestation de l'activité divine**. Animateur : Raúl Framiñán. Niveau avancé. Durée : 6 semaines.
 5. **La Cène et ses discours d'adieu**. Animateur : Ulises Pédrique. Niveau avancé. Durée : 10 semaines.
 
-Pour plus d'informations sur les cours, vous pouvez visiter cette page : [https://www.urantia.org%%0%%
+Pour plus d'informations sur les cours, vous pouvez visiter cette page : [https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos)
 
 Si vous souhaitez demander un cours, vous devez d'abord créer un compte sur le site Web de l'école, [http://ubis.urantia.org](http://ubis.urantia.org/).. Cela peut être fait avant le début de l'inscription.
 

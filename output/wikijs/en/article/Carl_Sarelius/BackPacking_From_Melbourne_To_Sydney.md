@@ -213,7 +213,7 @@ On the shore of a beautiful river I put up my tent. It was sunset when I was rea
 
 Now a second dingo came from behind the tent and stopped in front of me. I know, one dingo is one thing, but two are unpredictable. He stared at me from only two arm lengths away and I stared back without a move. Whilst looking at his mate a few meters away, I could understand his thoughts. “Why run away — what about the food we could smell in the tent — shouldn't we go and get it?” When no answer from his mate, he decided to follow. I sat still, watching until they disappeared over the bank. I got out from the tent, selected a strong stick and put my smelly sandwiches in my pack.
 
-Opened the blade on my swiss pen knife, determined to fight off any intruder. This night — not much sleep — the lightest of noise called for attention and disturbed by $m y$ thoughts without answers. The two dingoes — could they have been farm dogs? But no farms around — and they certainly looked like dingoes.
+Opened the blade on my swiss pen knife, determined to fight off any intruder. This night — not much sleep — the lightest of noise called for attention and disturbed by my thoughts without answers. The two dingoes — could they have been farm dogs? But no farms around — and they certainly looked like dingoes.
 
 _April 10 — Moruya Area_
 

@@ -198,7 +198,7 @@ Parte de la solución es educar. Luego abrace la cultura para elevarse. Todo ell
 > 4. The nobility of work — duty.
 > 5. The motivation of goals — morality.
 > 6. The love of service — character.
-> 7. Cosmic insight — spiritual discernment. [UB 71:7.5-13](/en/The_Urantia_Book/71#p7_5) 
+> 7. Cosmic insight — spiritual discernment. [LU 71:7.5-13](/es/The_Urantia_Book/71#p7_5) 
 
 Este modelo de gobierno podría replicarse como un modelo de negocios basado en:
 1. Un grupo representativo de todos los empleados.

@@ -1,5 +1,5 @@
 ---
-title: "Mensaje del presidente"
+title: "Mensaje de la presidenta"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Sue Snider Seccombe<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Geoff_Theiss/Coordinated_Working_Harmony">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Armonía de trabajo coordinada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Voices_from_Our_Community">
+          <span class="pr-2">Voces de nuestra comunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## GPS: Nuestro sistema de posicionamiento de Dios
 
@@ -52,3 +76,27 @@ Forjar sistemas sociales nuevos, más fuertes y hermosos a partir de la unificac
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Geoff_Theiss/Coordinated_Working_Harmony">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Armonía de trabajo coordinada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Voices_from_Our_Community">
+          <span class="pr-2">Voces de nuestra comunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

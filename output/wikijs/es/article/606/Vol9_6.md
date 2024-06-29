@@ -181,7 +181,7 @@ Six-0-Six es, con diferencia, uno de los vehículos de información y foro para 
 
 No tengo el documento en particular frente a mí, pero quiero agradecer a la persona que compartió el «sueño de la llegada del Ajustador del Pensamiento» hace unos meses. En el momento en que recibí este artículo, asistía a la Unity School, cerca de Kansas City, Missouri, EE. UU. ¡Fotocopié el artículo y lo compartí con más de 25 personas!
 
-Su boletín circula por nuestros Incendiarios (grupo de estudio local) y a veces pierdo uno. Siempre lo lamento, porque a menudo hago referencia a artículos anteriores. He buscado en $m y$ números anteriores el que tiene el «caso contra la reencarnación» y el que compara la figura del anciano chino con VAN de _El Libro de URANTIA_, sin éxito.
+Su boletín circula por nuestros Incendiarios (grupo de estudio local) y a veces pierdo uno. Siempre lo lamento, porque a menudo hago referencia a artículos anteriores. He buscado en mis números anteriores el que tiene el «caso contra la reencarnación» y el que compara la figura del anciano chino con VAN de _El Libro de URANTIA_, sin éxito.
 
 Le agradecería más de lo que puedo decir si pudiera fotocopiar los números anteriores con la información sobre la reencarnación y enviármelos. Edición de verano u otoño de 1987, creo. Gracias.
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mark George Moore and Framy Mâs<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Global Ethic: Parliament of the World's Religions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Douglas_Burns/Fear_Not">
+          <span class="pr-2">Fear Not</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Mark George Moore/Framy Mâs_
 
@@ -39,3 +63,27 @@ and on to the Universal (Father).<br>
 ## References
 
 - Article obtained from [The Fellowship site](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jerry_Prentice/A_Global_Ethic_Parliament_of_the_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Global Ethic: Parliament of the World's Religions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-23-number-1-2023-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Number 1, 2023 (summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Douglas_Burns/Fear_Not">
+          <span class="pr-2">Fear Not</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -253,7 +253,7 @@ Olga Lopez
 
 In a blog that I visit from time to time there is a very interesting entry about the words of the Our Father and their changes, which has made me think that these changes are never innocent and obey a purpose.
 
-In case you want to read the original entry, you can read it [here](https://www.felixmoreno.com%%0%%.
+In case you want to read the original entry, you can read it [here](https://www.felixmoreno.com/es/index/144_0_padre_nuestro_deudas_pecados_y_ofensas.html).
 
 When I went to school (nuns' school), I learned a version of the Our Father that is not the one that is prayed in Catholic churches in recent years. In fact I have been unable to learn the new version (or I have not been motivated enough to do so). In my childhood, the Our Father was this:
 
@@ -383,7 +383,7 @@ The courses themselves begin on **Monday, April 25** and last 10 weeks (except w
 
 To enroll, you must go to the school website ([http://ubis.urantia.org](http://ubis.urantia.org/)) and create a user account before requesting a course, as it is necessary to be authenticated as a UBIS user to request the inscription.
 
-Here is the list of courses that will be given in April: [https://www.urantia.org%%0%%
+Here is the list of courses that will be given in April: [https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos)
 
 
 ## About the Light and Life newsletter

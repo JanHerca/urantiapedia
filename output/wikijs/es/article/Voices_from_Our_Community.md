@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="tema v-card v-sheet--gris claro aclarar-3 px-2">>© 2023 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje de la presidenta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2">
+          <span class="pr-2">Unidad – Armonía dentro de la diversidad de experiencias y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Unámonos todos y mostrémosle al mundo un frente unido trabajando para traer a este mundo a la era de una verdadera hermandad espiritual bajo la guía de Dios nuestro Padre y Miguel (de Nebadón). — G C
 
@@ -33,3 +57,27 @@ Estoy conociendo al Padre realmente, y por Fe, igualmente espero que los hombres
 ## Referencias
 
 - Artículo obtenido de [El sitio de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje de la presidenta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-23-número-1-2023-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 23, Número 1, 2023 (verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phillip_Marriott/Unity_Harmony_Within_Diversity_of_Experience_and_Belief_2">
+          <span class="pr-2">Unidad – Armonía dentro de la diversidad de experiencias y creencias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
