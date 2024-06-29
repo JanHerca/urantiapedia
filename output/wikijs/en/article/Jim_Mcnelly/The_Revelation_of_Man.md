@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Jim McNelly<br>© 1979 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>x
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Jim McNelly<br>© 1979 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
