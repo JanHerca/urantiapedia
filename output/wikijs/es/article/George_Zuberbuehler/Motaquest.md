@@ -202,7 +202,7 @@ Número de página| Comienza/termina con
 <a id="a201_0"></a>[LU 146:2.9](/es/The_Urantia_Book/146#p2_9) | Oración/indigente.
 <a id="a202_0"></a>[LU 72:11.4](/es/The_Urantia_Book/72#p11_4) | Aunque/en agresión...
 
-7\. **Los accidentes ciegos e imprevistos $n$ ocurren en el cosmos. Los seres celestes tampoco ayudan al ser inferior que se niega a actuar según su luz de verdad.**
+7\. **Los accidentes ciegos e imprevistos n ocurren en el cosmos. Los seres celestes tampoco ayudan al ser inferior que se niega a actuar según su luz de verdad.**
 
 Número de página| Comienza/termina con
 --- | ---

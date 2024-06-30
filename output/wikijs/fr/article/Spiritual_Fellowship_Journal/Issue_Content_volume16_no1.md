@@ -121,7 +121,7 @@ Fort Wayne, IN 46809
 merlyncox@earthlink.net
 MJSprunger@aol.com
 
-Don annuel suggéré — $\$ 10$.
+Don annuel suggéré — $\$ 10.
 
 ## Contenu
 

@@ -52,7 +52,7 @@ Plus je lisais, plus j’avais envie de le partager avec les autres. Je me suis 
 
 L’étude que j’ai faite pendant mon temps calme était merveilleuse, mais je voulais interagir avec d’autres lecteurs. J'avais rencontré plusieurs personnes avec qui je pouvais discuter des concepts du _Livre d’Urantia_ de manière enrichissante et je voulais être avec elles.
 
-L’envie d’étudier _Le Livre d’Urantia_ a changé ma vie et $I$ s'est finalement impliqué davantage dans un groupe d’étude.
+L’envie d’étudier _Le Livre d’Urantia_ a changé ma vie et je s'est finalement impliqué davantage dans un groupe d’étude.
 
 J'ai rencontré un homme gentil, intelligent, intéressant et qui avait une bonne expérience religieuse. Il connaissait bien la Bible et aimait lire _Le Livre d’Urantia_. Vous pouvez imaginer les conséquences de cette situation.
 

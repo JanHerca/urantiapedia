@@ -78,7 +78,7 @@ The Almighty is God Supreme working in energy-matter. The Overmind is the Suprem
 
 The Supreme Being is evolving. Will its evolution ever end? This question becomes more meaningful when we ask ourselves if our own evolution will ever end. Today we are children of the Supreme; we grow with it. But when we are finaliters of the seventh stage and go on to search for God the Ultimate, we could become children of the Ultimate. Our destiny is therefore not to remain at the finite level. God can't stop; if we don't have a final destination, neither does he. To understand how the Supreme works, the simile of the ants is useful: they function as a single animal, as a single mind.
 
-Everything exists in the universe, only on different levels. At the absolute level there is the here and now, the real and the potential. At the transcendental level space is transcended $y$ time. In trying to understand all this we find ourselves with the limitations of time and space. It is the transcendentals, not God the Absolute, who create the finite level. Human beings do not create ourselves, but are created by supermortal beings.
+Everything exists in the universe, only on different levels. At the absolute level there is the here and now, the real and the potential. At the transcendental level space and time are transcended. In trying to understand all this we find ourselves with the limitations of time and space. It is the transcendentals, not God the Absolute, who create the finite level. Human beings do not create ourselves, but are created by supermortal beings.
 
 The Supreme Being is destined to reach the maximum of the finite level. We will reach this maximum when we reach Paradise, but that does not mean that we are going to stay in it forever.
 

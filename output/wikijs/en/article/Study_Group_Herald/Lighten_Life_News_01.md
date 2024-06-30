@@ -126,7 +126,7 @@ They're being blown up, bashed with steel balls, sliced to pieces, filled with c
 
 The details of destruction are explliat Europ terms of the Conventional Forch it Europe agreement.
 
-It was signed yestend $y$ by formar adversaries, the North Atlantic Treaty Organimation nations and those of the Warsaw Pact.
+It was signed yesterday by formar adversaries, the North Atlantic Treaty Organimation nations and those of the Warsaw Pact.
 
 The Soviets, under the terms of the agreement, have to rid themselves of 16,500 tanks, 17,000 armored vehicles 15,000 pleces of erthlory, 8,000 combet aircraft and 1,450 helicoptets.
 

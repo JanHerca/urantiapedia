@@ -65,7 +65,7 @@ On Sunday morning, the last day of our activities, our hearts were divided: on t
 
 First of all I want to show my gratitude to Olga, for all the trouble she has taken with me (which has been a lot) both in the necessary paperwork, as a guide at the airports, as a translator during the event and several other things. At her side it is very easy to travel, I don't know how everything would have gone without her by my side... thank you from the bottom of my heart.
 
-I must congratulate UAI for choosing the venue for the symposium... at $30 Km$. from Chicago was Techny Towers, a spiritual retreat center that I loved. The lushness of the place made me feel at home from the first moment... tranquility and good company was what I needed.
+I must congratulate UAI for choosing the venue for the symposium... at 30 Km. from Chicago was Techny Towers, a spiritual retreat center that I loved. The lushness of the place made me feel at home from the first moment... tranquility and good company was what I needed.
 
 From the first moment, we all began to fraternize. The language was not an insurmountable obstacle, since there were many brothers who performed the role of translators, even without them we found a way to communicate. In total we must have been about 150 people... it was exciting, different races, different cultures, different languages but all united and sharing experiences during those days. There were only four of us Spaniards: Olga, Mariano, his wife Blanca and I... but I think we left the flag high, especially in the improvised “karaoke” on Saturday night, ha ha.
 

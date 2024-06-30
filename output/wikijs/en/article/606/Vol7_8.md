@@ -109,7 +109,7 @@ Keep basic format as is. Allow 6-0-6 to evolve to meet needs as required without
 
 Neil Francey, Brisbane
 
-I would like to see some aids and ideas to spread _The URANTIA Book_ and everything about its human origin in 1934 (because everybody is asking about $i t$ ). Your team is doing a great job! I am more thrilled than ever with the Big Blue Book!
+I would like to see some aids and ideas to spread _The URANTIA Book_ and everything about its human origin in 1934 (because everybody is asking about it). Your team is doing a great job! I am more thrilled than ever with the Big Blue Book!
 
 Joseph Hausler, Eumundi, Qld.
 

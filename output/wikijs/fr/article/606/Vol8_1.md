@@ -171,7 +171,7 @@ Fort Wayne, Indiana, États-Unis
 
 ## Premier stand australien du livre d’Urantia
 
-Le Groupe d'étude de Perth souhaite annoncer le premier stand australien du livre URANTIA au Festival Matilda 1987, Perry Lakes Parkland — du vendredi $23 r d$ au lundi 26 janvier.
+Le Groupe d'étude de Perth souhaite annoncer le premier stand australien du livre URANTIA au Festival Matilda 1987, Perry Lakes Parkland — du vendredi 23 au lundi 26 janvier.
 
 Le groupe d'étude de Perth, en tant qu'organisateur du stand _du livre URANTIA_, occupera une tente de 15 x 15 pieds sur la place des squatters du festival ; un espace consacré à... « les groupes et expositions communautaires, de loisirs, de collectionneurs, de musées, de touristes, sportifs, éducatifs, spirituels et philosophiques ».
 

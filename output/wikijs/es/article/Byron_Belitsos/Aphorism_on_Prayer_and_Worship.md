@@ -54,7 +54,7 @@ La consagración de la voluntad significa la voluntad de discernir continuamente
 
 «_Las palabras son irrelevantes para la oración..._» (<a id="a54_54"></a>[LU 91:8.12](/es/The_Urantia_Book/91#p8_12)) «Feliz es el espíritu que alcanza la perfecta informe en el momento de la oración.»[^3]
 
-«Preguntaron al abad Macario: ¿Cómo se debe orar? El anciano respondió: No hay necesidad de perder el tiempo con palabras; basta tomarnos las manos y decir: ‘Señor, según tu deseo y tu sabiduría, ten piedad’. [^4] « Y esta enseñanza de M lacarius, uno de los primeros maestros de la oración «pura» en la tradición del desierto del cristianismo, que está en el origen del desarrollo de la «Oración de Jesús» dentro de los hesicastas. tradición.
+«Preguntaron al abad Macario: ¿Cómo se debe orar? El anciano respondió: No hay necesidad de perder el tiempo con palabras; basta tomarnos las manos y decir: ‘Señor, según tu deseo y tu sabiduría, ten piedad’. [^4] « Y esta enseñanza de Macario, uno de los primeros maestros de la oración «pura» en la tradición del desierto del cristianismo, que está en el origen del desarrollo de la «Oración de Jesús» dentro de los hesicastas. tradición.
 
 La oración fiel finalmente vacía el corazón de todas las preocupaciones e incluso de todos los pensamientos, para que pueda ser colmado por la comunión con el Uno. Una vez que el niño ha pedido todo lo que quiere, una vez que entrega todos sus deseos a su padre, su mente está preparada para contemplarlo en silencio y asombro. En la antigua tradición hesicasta, uno simplemente invoca la presencia de Jesús para que entre silenciosamente en el corazón de uno, continuamente: [^5]
 

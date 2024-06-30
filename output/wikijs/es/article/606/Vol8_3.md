@@ -99,7 +99,7 @@ En esta segunda parte cita a algunos de los líderes religiosos de Asia y termin
 
 Parte II
 
-No creo que necesite citar _El Libro de URANTIA_ sobre lo que enseña como el desafío religioso de nuestro $8 g e$, pero me gustaría citar a varios líderes religiosos eminentes de Asia que presentaron sus pensamientos e ideales en la Conferencia Asiática sobre Religión y Paz:
+No creo que necesite citar _El Libro de URANTIA_ sobre lo que enseña como el desafío religioso de nuestra era, pero me gustaría citar a varios líderes religiosos eminentes de Asia que presentaron sus pensamientos e ideales en la Conferencia Asiática sobre Religión y Paz:
 
 «No es mediante el poder de los sistemas de seguridad militar como se puede lograr la verdadera seguridad en Asia; Sólo a través de la unidad espiritual de los pueblos religiosos de Asia se podrá alcanzar este objetivo».
 

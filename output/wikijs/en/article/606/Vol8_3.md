@@ -98,7 +98,7 @@ In this second part he quotes from some of Asia's religious leaders and finishes
 
 Part II
 
-I don't believe I need to quote from _The URANTIA Book_ on what it teaches as the religious challenge of our $8 g e$, but I would like to quote from a number of Asia's eminent religious leaders presenting their thoughts and ideals at the Asian Conference on Religion and Peace:
+I don't believe I need to quote from _The URANTIA Book_ on what it teaches as the religious challenge of our age, but I would like to quote from a number of Asia's eminent religious leaders presenting their thoughts and ideals at the Asian Conference on Religion and Peace:
 
 “It is not through the power of military security systems that true security can be achieved in Asia; it is only through the spiritual unity of religious peoples in Asia that this goal can be obtained.”
 

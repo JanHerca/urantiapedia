@@ -73,7 +73,7 @@ _Milford, Connecticut_
 
 ---
 
-Merci (Mark Kulieke) d’avoir pris le temps de compiler tous les faits et d’avoir trié votre mémoire en écrivant Naissance de $a$ Révélation. Il y a ceux d’entre nous, dans la population en général, qui sont très curieux des mystères de la vie et des détails dont vous parlez dans votre brochure. C’est passionnant de remonter le temps à travers vos paroles et d’avoir un aperçu des premiers jours.
+Merci (Mark Kulieke) d’avoir pris le temps de compiler tous les faits et d’avoir trié votre mémoire en écrivant Naissance de une Révélation. Il y a ceux d’entre nous, dans la population en général, qui sont très curieux des mystères de la vie et des détails dont vous parlez dans votre brochure. C’est passionnant de remonter le temps à travers vos paroles et d’avoir un aperçu des premiers jours.
 
 C'était également passionnant de lire sur vos Journées de l’enfance au Forum dans le numéro d’août 1993 du Herald. Le Pine Lodge à Beverly Shores semble être un endroit magique, avec les membres du Forum présents et, j'en suis sûr, de nombreux amis invisibles présents.
 

@@ -140,7 +140,7 @@ L'objet de ce document est l'évolution d'une planète jusqu'à ce qu'elle devie
 
 Si l’on part de ce que l’on connaît, l’être humain et son monde, on se retrouve face à une contradiction flagrante et à un mystère insondable.
 
-Qu'est-ce que l'être humain ? Selon ses manifestations quotidiennes, certains peuvent le considérer comme un être intermédiaire entre l'ange et la bête. Et c'est la merveille du _Livre d'Urantia_, qu'il nous fait remettre en question la nature des êtres humains et de la planète qu'ils habitent. $Y$ des possibilités de son évolution.
+Qu'est-ce que l'être humain ? Selon ses manifestations quotidiennes, certains peuvent le considérer comme un être intermédiaire entre l'ange et la bête. Et c'est la merveille du _Livre d'Urantia_, qu'il nous fait remettre en question la nature des êtres humains et de la planète qu'ils habitent. Et des possibilités de son évolution.
 
 En lisant les journaux et en étudiant l'Histoire, rien ne semble indiquer qu'entre la lutte quotidienne et interne de l'Homme et de sa société, le Bien puisse triompher du Mal. Cependant, malgré la capacité autodestructrice, la planète et la société subsistent, et dans certains domaines. de la planète, on voit la capacité évolutive du mortel humain et de sa société, ce qui donne à son tour des échantillons individuels d'une qualité impressionnante. C'est une démonstration qu'entre la lutte du Bien et du Mal, le Bien continue de triompher. Autrement dit, il y a plus de Bien en abondance. Pour les pessimistes nés, c’est une démonstration indéniable.
 

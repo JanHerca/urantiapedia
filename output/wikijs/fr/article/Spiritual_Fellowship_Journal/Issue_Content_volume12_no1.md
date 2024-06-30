@@ -100,7 +100,7 @@ PRESSE À PÉNUMBRE
 Journal de la communion spirituelle BOÎTE 11248
 BOULDER, CO 80301
 
-Don annuel suggéré : $\$ 10$. Veuillez libeller votre chèque à l'ordre de Penumbra Press.
+Don annuel suggéré : $\$ 10. Veuillez libeller votre chèque à l'ordre de Penumbra Press.
 
 ## Contenu
 

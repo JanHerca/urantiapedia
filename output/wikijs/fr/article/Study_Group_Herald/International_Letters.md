@@ -138,7 +138,7 @@ _APO AE 09803-1322_
 
 Chère Fraternité,
 
-Ci-joint mon chèque de $\$ 20$ USF car j'apprécie de recevoir la publication. Comme tant d’autres qui vous écrivent, je me sens isolé et déçu par le manque d’intérêt de mon entourage pour la vérité. Le Study Group Herald est mon seul lien avec les autres lecteurs du _Livre d’Urantia_ et mon espoir pour un monde meilleur.
+Ci-joint mon chèque de $\$ 20 USF car j'apprécie de recevoir la publication. Comme tant d’autres qui vous écrivent, je me sens isolé et déçu par le manque d’intérêt de mon entourage pour la vérité. Le Study Group Herald est mon seul lien avec les autres lecteurs du _Livre d’Urantia_ et mon espoir pour un monde meilleur.
 
 _Sharon Sadler_
 _Fruitvale, Colombie-Britannique, Canada_

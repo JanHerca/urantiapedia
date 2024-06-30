@@ -64,7 +64,7 @@ Le dimanche matin, dernier jour de nos activités, nous avons senti nos cœurs d
 
 Tout d'abord, je tiens à remercier Olga pour tous les efforts qu'elle a pris avec moi (ce qui a été beaucoup) tant dans la paperasse nécessaire, comme guide dans les aéroports, comme traductrice pendant l'événement et plusieurs autres choses. A ses côtés il est très facile de voyager, je ne sais pas comment tout se serait passé sans elle à mes côtés... merci du fond du cœur.
 
-Je dois féliciter l'AUI d'avoir choisi le lieu où se tenait le colloque... à $30 Km$. A Chicago se trouvait Techny Towers, un centre de retraite spirituelle que j'adorais. La richesse de l'endroit m'a fait me sentir chez moi dès le premier instant... la tranquillité et la bonne compagnie étaient ce dont j'avais besoin.
+Je dois féliciter l'AUI d'avoir choisi le lieu où se tenait le colloque... à 30 Km. A Chicago se trouvait Techny Towers, un centre de retraite spirituelle que j'adorais. La richesse de l'endroit m'a fait me sentir chez moi dès le premier instant... la tranquillité et la bonne compagnie étaient ce dont j'avais besoin.
 
 Dès le premier instant, nous avons tous commencé à fraterniser. La langue n'était pas un obstacle insurmontable, car il y avait beaucoup de frères qui jouaient le rôle de traducteurs, même sans eux nous trouvions un moyen de communiquer. Au total, nous devions être environ 150 personnes... c'était passionnant, des races différentes, des cultures différentes, des langues différentes mais tous unis et partageant des expériences pendant ces journées. Nous n'étions que quatre Espagnols : Olga, Mariano, sa femme Blanca et moi... mais je pense que nous avons laissé le drapeau haut, surtout au « karaoké » improvisé de samedi soir, ha ha.
 

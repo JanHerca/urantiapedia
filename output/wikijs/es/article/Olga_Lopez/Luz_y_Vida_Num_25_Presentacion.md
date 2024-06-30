@@ -52,7 +52,7 @@ Esperamos que podáis haceros una idea de lo vivido del 5 al 8 de mayo de 2011 e
 
 Como queremos que otros lectores aprovechen lo que se hizo en el Encuentro, en esta revista y en nuestra web publicaremos los materiales que han surgido de las actividades de grupo y de los debates posteriores, de modo que sea posible repetir la experiencia a menor escala en un grupo de estudio, o quién sabe si en otro encuentro celebrado en otro país.
 
-También, como cierre a este número, colocamos una noticia sobre las actividades que lleva a cabo la Asociación Urantia de España, relacionadas con la diseminación de $E l$ libro de Urantia. En esta ocasión estuvimos presentes en la bella ciudad de Sevilla, donde ofrecimos una presentación del libro a todos aquellos que respondieron a nuestra convocatoria.
+También, como cierre a este número, colocamos una noticia sobre las actividades que lleva a cabo la Asociación Urantia de España, relacionadas con la diseminación de _El Libro de Urantia_. En esta ocasión estuvimos presentes en la bella ciudad de Sevilla, donde ofrecimos una presentación del libro a todos aquellos que respondieron a nuestra convocatoria.
 
 ¡Espero que disfrutéis de la lectura!
 

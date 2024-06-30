@@ -170,7 +170,7 @@ That story has inspired our whole family for 30 years. When times are really tou
 
 This is an action because you usually have to work at it. It doesn't just pop into your head naturally as your first response, unless you have become very spiritual.
 
-Staying nonjudgmental means we have to be cautious about making judgments about other people, especially about their motives. I' $m$ sure that all of us, at one time or another have found ourselves accused of motives that were the exact opposite of what we were thinking. So we all understand the social danger.
+Staying nonjudgmental means we have to be cautious about making judgments about other people, especially about their motives. I'm sure that all of us, at one time or another have found ourselves accused of motives that were the exact opposite of what we were thinking. So we all understand the social danger.
 
 To be judgmental is to be quick to condemn, quick to assign motives, quick to assume a superior morality; quick to gossip, quick to mistrust. I think we can all imagine that life in the cosmos cannot proceed on this basis. So it is best we start learning the lesson now, that we begin to place a high value on _accuracy_. To give others the benefit of the doubt. To approach life situations with a nonjudgmental attitude.
 

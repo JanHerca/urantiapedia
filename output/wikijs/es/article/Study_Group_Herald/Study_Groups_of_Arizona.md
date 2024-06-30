@@ -110,7 +110,7 @@ Por Don Riesgo
 
 PRESCOTT — Este grupo comenzó a reunirse alrededor de 1975 y continuó de manera intermitente hasta aproximadamente 1982 . Desde 1985 nos hemos reunido con bastante regularidad, con varias de las mismas personas a lo largo de los años. Durante este último período, hemos tenido tan solo tres regulares y hasta 10 o 12. Actualmente somos siete los que asistimos cada semana.
 
-Desafortunadamente, nuestro grupo actual es todo masculino. Nos encantaría recibir alguna opinión desde el punto de vista de la rueca. Hemos intentado reclutar entre amigas sin suerte. Muchas de las que son buenas candidatas creemos que están demasiado involucradas con $A$ El curso de los milagros o con los grupos new age, que son muy fuertes en nuestra zona.
+Desafortunadamente, nuestro grupo actual es todo masculino. Nos encantaría recibir alguna opinión desde el punto de vista de la rueca. Hemos intentado reclutar entre amigas sin suerte. Muchas de las que son buenas candidatas creemos que están demasiado involucradas con El curso de los milagros o con los grupos new age, que son muy fuertes en nuestra zona.
 
 Dado que nuestra comunidad tiene alrededor del 40 por ciento de jubilados, también hay un fuerte sabor conservador. (Se podría interpretar eso como «fundamentalista»).
 

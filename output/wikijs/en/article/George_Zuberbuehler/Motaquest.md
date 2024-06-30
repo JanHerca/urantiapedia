@@ -201,7 +201,7 @@ Page Number| Begins/ends with
 <a id="a200_0"></a>[UB 146:2.9](/en/The_Urantia_Book/146#p2_9) | Prayer/destitute.
 <a id="a201_0"></a>[UB 72:11.4](/en/The_Urantia_Book/72#p11_4) | Although/in aggression...
 
-7\. **Blind and unforseen accidents do $n$ occur in the cosmos. Neither do the celesti beings assist the lower being who refuses act upon his light of truth.**
+7\. **Blind and unforseen accidents do n occur in the cosmos. Neither do the celesti beings assist the lower being who refuses act upon his light of truth.**
 
 Page Number| Begins/ends with
 --- | ---

@@ -135,7 +135,7 @@ Tableau des qualités positives | \$25
 Qui est qui dans _Le Livre d’Urantia_ | \$3
 CD de musique : « Sohre – Qui saura » | \$12
 
-10\% de réduction sur les commandes de $\$ 75$ ou plus
+10\% de réduction sur les commandes de $\$ 75 ou plus
 
 Envoyez les commandes à :
 Fondation Étoile du Matin

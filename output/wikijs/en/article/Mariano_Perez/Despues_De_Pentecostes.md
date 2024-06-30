@@ -64,7 +64,7 @@ Hellenized and paganized Christianity spread rapidly, at least intellectually, a
 
 ## Under The Roman Empire
 
-The Roman Empire did not have a satisfactory God for their worship and spiritual unification, therefore they had that vacuum that Christianity came to fill, which on the other hand accepted the empire. This Roman empire achieved something that had never been achieved before and that is that different races $y$ nations accepted the same religion.
+The Roman Empire did not have a satisfactory God for their worship and spiritual unification, therefore they had that vacuum that Christianity came to fill, which on the other hand accepted the empire. This Roman empire achieved something that had never been achieved before and that is that different races and nations accepted the same religion.
 
 The second century was the best period for a religion to progress in the Western world. Perhaps I am too late to prevent the moral decline of the Roman empire or its increasing racial deterioration, although we wonder what would have happened if instead of Greek Christianity Rome and the world had accepted the true gospel of the kingdom.
 

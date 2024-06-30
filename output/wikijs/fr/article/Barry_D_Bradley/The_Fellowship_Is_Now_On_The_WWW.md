@@ -61,7 +61,7 @@ Voici un échantillon de réponses provenant d’Internet :
 
 « S'il vous plaît, donnez-moi des informations sur qui a écrit _Le Livre d’Urantia_, où il a été trouvé et dans quelle langue l’original a-t-il été écrit.
 
-« Je suis étonné de trouver _Le Livre d’Urantia_ sur Interet. Je n’avais aucune idée qu’une telle chose existerait en matière de salut. Un de mes amis vient de me remettre ce gros livre bleu il y a des années avec peu ou pas d’attachement quant à savoir si je l’ai regardé ou non. J'ai lu la vie de Jésus et j'ai été prise au pied de la lettre. C'était il y a plus de cinq ans. J’aimerais trouver une raison impérieuse pour y revenir. $u$
+« Je suis étonné de trouver _Le Livre d’Urantia_ sur Interet. Je n’avais aucune idée qu’une telle chose existerait en matière de salut. Un de mes amis vient de me remettre ce gros livre bleu il y a des années avec peu ou pas d’attachement quant à savoir si je l’ai regardé ou non. J'ai lu la vie de Jésus et j'ai été prise au pied de la lettre. C'était il y a plus de cinq ans. J’aimerais trouver une raison impérieuse pour y revenir. »
 
 
 

@@ -65,7 +65,7 @@ Prayer is a prayer of the soul. More than asking for something to come to us by 
 
 Prayer means communion with God, and it should be an essential tool for everyone who relates to God. Prayer is power; therefore in a group it is much more effective.
 
-Prayer implies communication with the Adjuster, but it induces us to look in two directions: on the one hand, to the reserves of the subconscious $y$, on the other, to the limits of the superconscious, where the Adjuster dwells. In both the subconscious and the superconscious we have two important reserves of help.
+Prayer implies communication with the Adjuster, but it induces us to look in two directions: on the one hand, to the reserves of the subconscious and, on the other, to the limits of the superconscious, where the Adjuster dwells. In both the subconscious and the superconscious we have two important reserves of help.
 
 The act of praying is more important than what is asked for in prayer. One of our objectives should be to make the prayer continue. The more we pray, the more we will perfect our prayer and the more effective it will be. There will already be someone who will take care that the corresponding personalities act and that they move the appropriate springs. God does not work alone; he works with other people, including mortals like us.
 

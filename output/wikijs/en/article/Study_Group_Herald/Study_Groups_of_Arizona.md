@@ -109,7 +109,7 @@ By Don Risk
 
 PRESCOTT — This group started meeting around 1975 , and continued off and on until about 1982 . Since 1985, we have met quite regularly, with several of the same people through the years. During this latter period, we have had as few as three regulars and as many as 10 or 12 . Currently there are seven of us who attend every week.
 
-Unfortunately, our present group is all male. We'd love to have some input from the distaff point of view. We've tried to recruit among female friends without any luck Many of those who are good candidates are too involved, we think, with $A$ Course in Miracles or new age groups, which are very strong in our area.
+Unfortunately, our present group is all male. We'd love to have some input from the distaff point of view. We've tried to recruit among female friends without any luck Many of those who are good candidates are too involved, we think, with A Course in Miracles or new age groups, which are very strong in our area.
 
 Since our community is about 40 percent retirees, there is also a strong conservative flavor. (You could interpret that as “fundamentalist.”)
 

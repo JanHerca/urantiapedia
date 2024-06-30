@@ -70,7 +70,7 @@ Edición limitada **Fotografía/Impresión artística** (B/N) de Contact Commiss
 
 **Pasadores IC93 de dos colores**. Haga su pedido a la Fundación Jesusonian al 1 (800) 767-5683.
 
-**Camisetas IC93**. Por una donación de $\$ 10$ hay disponible un suministro limitado de estas camisetas. Tallas $L$ y $X L$ en aguamarina, rosa intenso y dorado intenso. Escriba a Fellowship, 529 Wrightwood Ave., Chicago, IL 60614 o llame al (312) 327. 0424.
+**Camisetas IC93**. Por una donación de $ 10 hay disponible un suministro limitado de estas camisetas. Tallas L y XL en aguamarina, rosa intenso y dorado intenso. Escriba a Fellowship, 529 Wrightwood Ave., Chicago, IL 60614 o llame al (312) 327. 0424.
 
 ***Conociendo a Dios***, un libro para niños de Kaye Cooper. Un libro de actividades espirituales para padres e hijos de 4 a 8 años. 8-1/2 x 11,28 páginas, \$5.95 incluye envío. Realice su pedido en Adventures in Spiritual Living Inc., Box 680867-H, Houston, TX 772680857.
 

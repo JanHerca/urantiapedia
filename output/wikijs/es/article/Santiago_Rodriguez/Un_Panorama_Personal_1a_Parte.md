@@ -80,14 +80,14 @@ Es cualquier interacción entre un «yo» activo e interrogante y cualquier otra
 
 Será a través del conocimiento y de la experiencia como nuestra mente (es la mente precisamente el sistema del que disponemos los seres humanos para interpretar y correlacionar todos estos hechos) organizará la realidad para nosotros mismos, lo que le otorgará sin duda cierto componente subjetivo, que permitirá a la misma realidad ser más rica y atractiva de lo que sería si sólo incluyera componentes objetivos.
 
-Y es precisamente el conocimiento total que tiene de la realidad cada personalidad lo que constituye la máxima realización, la máxima aspiración del ser; afán que nos llevará tanto personalmente como en forma de grupo a indagar $y$ profundizar en todo hecho observable o cognoscible que incluimos en el marco de la realidad.
+Y es precisamente el conocimiento total que tiene de la realidad cada personalidad lo que constituye la máxima realización, la máxima aspiración del ser; afán que nos llevará tanto personalmente como en forma de grupo a indagar y profundizar en todo hecho observable o cognoscible que incluimos en el marco de la realidad.
 
 Inmediatamente se ponen de manifiesto dos aspectos de la realidad:
 
 1. La realidad energética-material es uno de los aspectos de los que enseguida somos conscientes, pues nuestros sentidos nos dan amplia cuenta de ella. Lo que hemos llamado Ciencia y Conocimiento son las herramientas que nos permiten avanzar en profundidad y en extensión sobre este aspecto de la realidad. Somos perfectamente conscientes de que se trata de adquisiciones evolutivas, que se alcanzan de manera gradual. Igualmente somos conscientes de que la verdad total sobre esta realidad o aspecto de la realidad total no la conocemos al completo, hay personalidades que tienen conocimientos más o menos profundos sobre diferentes aspectos de aquélla. También encontramos lógico pensar que no en todas las épocas hemos estado igual de avanzados en la capacidad de describir, interpretar y aprovechar lo que la naturaleza nos ofrecía y lo que nos brindaba lo que hemos denominado el Conocimiento humano.
 2. También somos conscientes de que aparecen unas sensaciones o emociones que en su mayoría, aunque se originan en nuestro interior son producidas por agentes más o menos exógenos, como el miedo o temor, la euforia, la alegría, el placer, el dolor, la satisfacción, el orgullo, etc. Algunas de ellas motivadas por la realidad de la existencia de otras personalidades y otras mentes y de una relación interpersonal, como sería el caso de la conciencia moral.
 
-Podríamos decir que somos conscientes de un plano superior al energético-material pero no independiente de él. Este plano, a pesar de su subjetividad, es tan real como el anterior. Incluso podemos hablar de él con otras personalidades porque han tenido experiencias que suponemos si no similares a las nuestras, sí equivalentes; pues siendo experiencias personales se tornan subjetivas en cuanto a intensidad, duración e incluso en cuanto a implicaciones en nuestra vida después de ser vividas y experimentadas. No podemos cederlas ni intercambiarlas con otras personalidades, pero de alguna forma podemos comunicarlas $y$ explicarlas a nuestros semejantes, que las entenderán en mayor o menor medida según su grado de experiencia con ellas.
+Podríamos decir que somos conscientes de un plano superior al energético-material pero no independiente de él. Este plano, a pesar de su subjetividad, es tan real como el anterior. Incluso podemos hablar de él con otras personalidades porque han tenido experiencias que suponemos si no similares a las nuestras, sí equivalentes; pues siendo experiencias personales se tornan subjetivas en cuanto a intensidad, duración e incluso en cuanto a implicaciones en nuestra vida después de ser vividas y experimentadas. No podemos cederlas ni intercambiarlas con otras personalidades, pero de alguna forma podemos comunicarlas y explicarlas a nuestros semejantes, que las entenderán en mayor o menor medida según su grado de experiencia con ellas.
 
 ## Hemos de elegir una opción
 
@@ -107,7 +107,7 @@ La religión no es sino una concepción de la vida que te llevará a una forma d
 
 En toda época y cultura el hombre siempre ha pensado en Dios en términos de lo mejor que sabía, de sus ideas más profundas y de sus ideales más elevados. Toda criatura inteligente otorga el nombre de Dios a lo más elevado y mejor que es capaz de concebir mentalmente.
 
-Ahora hemos tomado conciencia de dos caras de la realidad total, este es el punto de partida de toda religión en cualquier época y en cualquier cultura, incluso del concepto anterior $y$ con el concepto siguiente entenderemos toda posible variante religiosa, incluso a nivel personal
+Ahora hemos tomado conciencia de dos caras de la realidad total, este es el punto de partida de toda religión en cualquier época y en cualquier cultura, incluso del concepto anterior y con el concepto siguiente entenderemos toda posible variante religiosa, incluso a nivel personal
 
 ### ¿En qué se diferencian las distintas religiones?
 

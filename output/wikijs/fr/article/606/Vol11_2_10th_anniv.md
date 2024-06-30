@@ -811,7 +811,7 @@ _En ***juin 1986***, un dessin animé avec des extraterrestres étranges est app
 
 « Depuis l'âge de 14 ans, Fil a créé son propre univers avec différentes créatures intelligentes différentes de la nôtre. Il a appelé cela son « Zoouniverse ».
 
-« Fil pensait que son imagination avait créé un cosmos assez vaste, jusqu'à ce qu'il tombe sur _Le Livre d'URANTIA_. Après qu'un ami en ait acheté un pour $\$ 5$ dans une librairie d'occasion et que Fil ait commencé à le lire, il s'est senti complètement dépassé. La réalité était encore plus grande que ce que ses rêves les plus fous auraient pu imaginer. Fil a maintenant rejoint les rangs des lecteurs enthousiastes de Melbourne et se demande si quelqu'un aimerait venir l'aider dans son étude du livre... "
+« Fil pensait que son imagination avait créé un cosmos assez vaste, jusqu'à ce qu'il tombe sur _Le Livre d'URANTIA_. Après qu'un ami en ait acheté un pour $\$ 5 dans une librairie d'occasion et que Fil ait commencé à le lire, il s'est senti complètement dépassé. La réalité était encore plus grande que ce que ses rêves les plus fous auraient pu imaginer. Fil a maintenant rejoint les rangs des lecteurs enthousiastes de Melbourne et se demande si quelqu'un aimerait venir l'aider dans son étude du livre... "
 
 <figure id="Figure_13" class="image urantiapedia" alt="art">
 <img src="/image/article/606/Fil_art.jpg">

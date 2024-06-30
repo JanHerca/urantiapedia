@@ -139,7 +139,7 @@ Les souscriptions, dons, changements d’adresse, articles et correspondance éd
 _Le Journal de la Fraternité Spirituelle_ BOÎTE 11248
 BOULDER, CO 80301
 
-Don annuel suggéré : $\$ 10$. Veuillez libeller votre chèque à l'ordre de Penumbra Press.
+Don annuel suggéré : $\$ 10. Veuillez libeller votre chèque à l'ordre de Penumbra Press.
 
 ## Contenu
 

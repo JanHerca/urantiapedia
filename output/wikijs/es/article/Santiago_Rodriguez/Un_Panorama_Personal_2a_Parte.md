@@ -122,7 +122,7 @@ Tenemos algo que es un don: La Personalidad, lo que permanece inmutable a pesar 
 
 Tenemos de momento un cuerpo material, o vehículo electroquímico de vida que soporta lo que nos constituye siendo parte de nosotros mismos.
 
-Tenemos otro don del Espíritu Infinito que es la Mente, que nos permitirá ser parte activa de la realidad. $Y$, por supuesto, ser conscientes de que poseemos y utilizamos nuestro libre albedrío.
+Tenemos otro don del Espíritu Infinito que es la Mente, que nos permitirá ser parte activa de la realidad. Y, por supuesto, ser conscientes de que poseemos y utilizamos nuestro libre albedrío.
 
 Tenemos un don divino espiritual (el Ajustador) que es un fragmento del propio Padre Universal, que reside en nosotros, en nuestra mente. Está llamado a ser parte de nosotros mismos en un futuro. La Mente material y el ente espiritual (Ajustador) que mora en nosotros, a medida que hacemos la voluntad del Padre y que vivimos experiencias religiosas, comienzan a traer a la existencia algo que no es ni material ni espiritual: EL ALMA de naturaleza nueva (morontial) que es, junto con la personalidad, lo que está destinado a la supervivencia.
 

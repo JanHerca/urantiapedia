@@ -47,7 +47,7 @@ And secondly: “There is much about the appearance of the Urantia Papers which 
 
 During Dr. Sadler's investigation of this phenomenon, he consulted men like Howard Thurston, the renowned sleightof-hand artist who devoted considerable time to exposing fraudulent mediums and psychics. He also conferred with Sir Hubert Wilkens, the noted scientist and explorer involved in investigating psychic phenomena. They agreed that the phenomena connected with this individual could not be classified with other types of psychic phenomena, such as automatic writing, telepathy, clairvoyance, trances, channeling, or split personality.
 
-There have been various guesses as to who the contact personality may have been, but nothing can be verified. On numerous occasions, Dr. Sadler told me that he didn't know how the materialization was accomplished. Almost everything known about the origin of _The Urantia Book_, he assured $m e$, is found within the book.
+There have been various guesses as to who the contact personality may have been, but nothing can be verified. On numerous occasions, Dr. Sadler told me that he didn't know how the materialization was accomplished. Almost everything known about the origin of _The Urantia Book_, he assured me, is found within the book.
 
 Dr. Sadler engaged handwriting experts to determine the origin of these papers. The experts assured him that it was not the handwriting of the contact personality or those associated with this person.
 

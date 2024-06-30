@@ -92,7 +92,7 @@ Les révélateurs nous soulignent que Jésus a « savouré » une vie normale, a
 
 Voyons comment il a guidé sa vie et nous aurons nous-mêmes le modèle à suivre. Il disposait d’un outil exceptionnel, mais il est aussi à notre portée. Cet outil n’est rien d’autre qu’une FOI SUBLIME ET SANS RÉSERVE EN DIEU.
 
-Il y a quelque chose qui le rend $y$ exceptionnel, c'est que, contrairement à ce qui se passe avec les outils que nous fabriquons, il s'avère que plus on l'utilise, au lieu de se casser ou de se détériorer, plus il devient puissant.
+Il y a quelque chose qui le rend et exceptionnel, c'est que, contrairement à ce qui se passe avec les outils que nous fabriquons, il s'avère que plus on l'utilise, au lieu de se casser ou de se détériorer, plus il devient puissant.
 
 La foi nous présente un dilemme analogue à celui qui est venu en premier, la poule ou l'œuf, et personnellement, je ne sais pas si nous arrivons d'abord à l'idée idéale de Dieu, et ensuite la foi émerge, ou si c'est l'inverse. Mais ce qui me semble clair, c'est qu'à un moment ou à un autre de notre vie, les deux concepts apparaissent, et l'essentiel est de ne pas les éloigner de vous car, surtout au début, ils semblent déroutants ou peu clairs.
 
@@ -120,7 +120,7 @@ Quelle était ou quelle est la religion de Jésus ? Il y a aussi une réponse si
 
 ## Concrétisation
 
-Si nous voulons vivre une vie pleine et satisfaisante $y$ riche en expériences (hojo ! Je ne voulais pas dire facile), nous devons parvenir à la conviction et prendre la décision que notre vie est religieuse, de l'idée de Dieu le Père et Fraternité parmi les êtres humains, et par la foi, avec l'aide de l'Ajusteur, qui nous révélera une partie des vérités, nous évoluerons de la vénération et de la peur primitives vers la Source et Centre Premier, pour atteindre une spiritualité spirituelle. communion avec Lui, qui nous permettra d'atteindre un état avancé et une conscience accrue de notre unité avec le Père.
+Si nous voulons vivre une vie pleine et satisfaisante et riche en expériences (hojo ! Je ne voulais pas dire facile), nous devons parvenir à la conviction et prendre la décision que notre vie est religieuse, de l'idée de Dieu le Père et Fraternité parmi les êtres humains, et par la foi, avec l'aide de l'Ajusteur, qui nous révélera une partie des vérités, nous évoluerons de la vénération et de la peur primitives vers la Source et Centre Premier, pour atteindre une spiritualité spirituelle. communion avec Lui, qui nous permettra d'atteindre un état avancé et une conscience accrue de notre unité avec le Père.
 
 La situation est très simple :
 

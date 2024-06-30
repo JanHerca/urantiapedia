@@ -64,7 +64,7 @@ La prière est une prière de l'âme. Plutôt que de demander que quelque chose 
 
 La prière signifie communion avec Dieu et devrait être un outil essentiel pour quiconque entretient une relation avec Dieu. La prière est pouvoir ; Par conséquent, en groupe, c’est beaucoup plus efficace.
 
-La prière implique la communication avec l'Ajusteur, mais elle nous amène à regarder dans deux directions : d'une part, vers les réserves du subconscient $y$, de l'autre, vers les limites du supraconscient, où réside l'Ajusteur. Tant dans le subconscient que dans le superconscient, nous disposons de deux réserves d’aide importantes.
+La prière implique la communication avec l'Ajusteur, mais elle nous amène à regarder dans deux directions : d'une part, vers les réserves du subconscient et, de l'autre, vers les limites du supraconscient, où réside l'Ajusteur. Tant dans le subconscient que dans le superconscient, nous disposons de deux réserves d’aide importantes.
 
 L’acte de prier est plus important que ce qui est demandé dans la prière. L'un de nos objectifs devrait être de rendre la prière continue. Plus nous prions, plus nous perfectionnons notre prière et plus elle sera efficace. Il y aura déjà quelqu'un chargé de veiller à ce que les personnalités correspondantes agissent et qu'elles actionnent les ressorts appropriés. Dieu n'agit pas seul ; Il travaille avec d'autres personnes, y compris des mortels comme nous.
 

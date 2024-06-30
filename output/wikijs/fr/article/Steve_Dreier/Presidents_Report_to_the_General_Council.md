@@ -96,7 +96,7 @@ Ce design de couverture convaincant a été préféré par les acheteurs de livr
 
 **3\. Enfin, _Le Livre d’Urantia_ est abordable.**
 
-Les éditions à couverture rigide d’autres éditeurs coûtent $\$ 48$. Now your customers can buy this world-class softcover version for only $\$ 18,95$.
+Les éditions à couverture rigide d’autres éditeurs coûtent $\$ 48. Now your customers can buy this world-class softcover version for only $\$ 18,95$.
 
 **4\. Ce livre nouvellement formaté utilise le texte original tout en introduisant des fonctionnalités largement supérieures et conviviales telles que :**
 - Texte en double colonne facile à lire

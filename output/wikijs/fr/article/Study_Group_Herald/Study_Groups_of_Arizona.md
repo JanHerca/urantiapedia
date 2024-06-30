@@ -110,7 +110,7 @@ Par Don Risk
 
 PRESCOTT — Ce groupe a commencé à se réunir vers 1975 et a continué de manière intermittente jusqu'en 1982 environ. Depuis 1985, nous nous sommes rencontrés assez régulièrement, avec plusieurs des mêmes personnes au fil des années. Au cours de cette dernière période, nous n’avons eu que trois habitués et jusqu'à 10 ou 12 . Actuellement, nous sommes sept à y assister chaque semaine.
 
-Malheureusement, notre groupe actuel est entièrement masculin. Nous aimerions avoir des commentaires du point de vue des quenouilles. Nous avons essayé de recruter parmi nos amies, sans succès. Beaucoup de celles qui sont de bonnes candidates sont trop impliquées, pensons-nous, dans le $A$ Cours en Miracles ou dans les nouvelles tranches d’âge, qui sont très fortes dans notre région.
+Malheureusement, notre groupe actuel est entièrement masculin. Nous aimerions avoir des commentaires du point de vue des quenouilles. Nous avons essayé de recruter parmi nos amies, sans succès. Beaucoup de celles qui sont de bonnes candidates sont trop impliquées, pensons-nous, dans le Cours en Miracles ou dans les nouvelles tranches d’âge, qui sont très fortes dans notre région.
 
 Puisque notre communauté compte environ 40 pour cent de retraités, il y a aussi une forte saveur conservatrice. (Vous pourriez interpréter cela comme « fondamentaliste ».)
 

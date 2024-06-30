@@ -52,7 +52,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 **Il y a une vie après la mort**. Pour ceux qui font face à la mort d’un être cher, Good Cheer Press a un magnifique magazine qui passe en revue la promesse du _Livre d’Urantia_ selon laquelle la foi en Dieu assure la vie éternelle dans un univers aimant et chaleureux. Il s’agit d’un message de bonne nouvelle positif, inspirant et édifiant pour consoler ceux qui sont perdus dans le chagrin et la solitude. Également utile pour ceux qui sont confrontés à leur propre mort.
 
-**Le pouvoir conceptuel du _Le Livre d’Urantia_**. Activités célestes anciennes et modernes vers un programme de salut planétaire. $\$ 6$. Écrivez à Ernest Moyer, P.O. Boîte postale 1206, Hanovre, PA 17331.
+**Le pouvoir conceptuel du _Le Livre d’Urantia_**. Activités célestes anciennes et modernes vers un programme de salut planétaire. $\$ 6. Écrivez à Ernest Moyer, P.O. Boîte postale 1206, Hanovre, PA 17331.
 
 ***Évolution de l’âme*** par le Dr William Sadler. Un nouvel ajout chez Good Cheer Press, P.O. Boîte 18764, Boulder, CO 80308.
 
@@ -70,7 +70,7 @@ dateCreated: 2023-10-23T10:55:6Z
 
 **Broches IC93 bicolores**. Commande auprès de la Jesusonian Foundation au 1 (800) 767-5683.
 
-**T-shirts IC93**. Pour un don de $\$ 10$, une quantité limitée de ces chemises est disponible. Tailles $L$ et $X L$ en aqua, rose vif et or lourd. Écrivez à la Fellowship, 529 Wrightwood Ave., Chicago, IL 60614 ou appelez le (312) 327. 0424.
+**T-shirts IC93**. Pour un don de $ 10, une quantité limitée de ces chemises est disponible. Tailles L et XL en aqua, rose vif et or lourd. Écrivez à la Fellowship, 529 Wrightwood Ave., Chicago, IL 60614 ou appelez le (312) 327. 0424.
 
 ***Apprendre à connaître Dieu***, un livre pour enfants de Kaye Cooper. Un livre d’activités spirituelles pour les parents et les enfants de 4 à 8 ans. 8-1/2 x 11,28 pages, 5,95 $ incluant les frais d’expédition. Commandez auprès de Adventures in Spiritual Living Inc., Box 680867-H, Houston, TX 772680857.
 

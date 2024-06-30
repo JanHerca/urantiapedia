@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-Lorsque les gens découvrent _Le Livre d'Urantia_ et commencent à le lire et à l'étudier, ils peuvent se poser la question suivante, en particulier les gens qui croient en la réincarnation : **qu'est-ce que $E l$ Le Livre d'Urantia a à dire sur la réincarnation ?**
+Lorsque les gens découvrent _Le Livre d'Urantia_ et commencent à le lire et à l'étudier, ils peuvent se poser la question suivante, en particulier les gens qui croient en la réincarnation : **qu'est-ce que Le Livre d'Urantia a à dire sur la réincarnation ?**
 
 Eh bien, concernant la réincarnation, dans une autre vie physique ici sur cette planète, _Le Livre d'Urantia_ a très peu à dire. Il dit simplement que nous ne nous réincarnerons plus ici, que les esprits des morts ne reviendront pas.
 

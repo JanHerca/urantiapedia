@@ -62,7 +62,7 @@ El cristianismo helenizado y paganizado se expandió rápidamente, al menos de f
 
 ## Bajo El Imperio Romano
 
-El imperio romano no tenía un Dios satisfactorio para su culto y unificación espiritual, por lo tanto tenían ese vacío que vino a llenar el cristianismo, el cual por otro lado aceptó el imperio. Este imperio romano consiguió algo que nunca antes se había logrado y es que diferentes razas $y$ naciones aceptaran una misma religión.
+El imperio romano no tenía un Dios satisfactorio para su culto y unificación espiritual, por lo tanto tenían ese vacío que vino a llenar el cristianismo, el cual por otro lado aceptó el imperio. Este imperio romano consiguió algo que nunca antes se había logrado y es que diferentes razas y naciones aceptaran una misma religión.
 
 El siglo II fue el mejor periodo para que una religión progresara en el mundo occidental. Quizá llego tarde para impedir la decadencia moral del imperio romano o su deterioro racial en aumento, aunque nos preguntamos qué hubiera pasado si en vez del cristianismo griego Roma y el mundo hubieran aceptado el verdadero evangelio del reino.
 

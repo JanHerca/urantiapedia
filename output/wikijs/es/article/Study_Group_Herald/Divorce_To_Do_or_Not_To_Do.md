@@ -52,7 +52,7 @@ Cuanto más leía, más quería compartirlo con los demás. Me aventuré a encon
 
 El estudio que hice en mi tiempo devocional fue maravilloso, pero quería interactuar con otros lectores. Había conocido a varias personas con las que podía discutir los conceptos de _El Libro de Urantia_ de manera satisfactoria y quería estar con ellas.
 
-El deseo de estudiar _El Libro de Urantia_ cambió mi vida y $I$ finalmente me involucré más en un grupo de estudio.
+El deseo de estudiar _El Libro de Urantia_ cambió mi vida y yo finalmente me involucré más en un grupo de estudio.
 
 Conocí a un hombre que era amable, inteligente, interesante y tenía una buena formación religiosa. Conocía bien la Biblia y le gustaba leer _El Libro de Urantia_. Puedes imaginar las consecuencias de esta situación.
 

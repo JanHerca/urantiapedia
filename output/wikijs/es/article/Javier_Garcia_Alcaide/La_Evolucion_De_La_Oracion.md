@@ -63,7 +63,7 @@ La oración es una plegaria del alma. Más que pedir que algo nos llegue por art
 
 La oración significa comunión con Dios, y debe ser una herramienta imprescindible para todo aquél que se relacione con Dios. La oración es poder; por ello en grupo es mucho más efectiva.
 
-La oración implica comunicación con el Ajustador, pero nos induce a mirar en dos direcciones: por un lado, a las reservas del subconsciente $y$, por otro, a los límites del superconsciente, donde habita el Ajustador. Tanto en el subconsciente como en el superconsciente tenemos dos importantes reservas de ayuda.
+La oración implica comunicación con el Ajustador, pero nos induce a mirar en dos direcciones: por un lado, a las reservas del subconsciente y, por otro, a los límites del superconsciente, donde habita el Ajustador. Tanto en el subconsciente como en el superconsciente tenemos dos importantes reservas de ayuda.
 
 Es más importante el acto de orar que lo que se pide en la oración. Uno de nuestros objetivos debe ser hacer que la oración sea continuada. Cuanto más oremos, más perfeccionaremos nuestra oración y más efectiva será. Ya habrá quien se encargue de que actúen las personalidades que correspondan y que éstas muevan los resortes oportunos. Dios no trabaja en solitario; trabaja con otras personas, entre ellas mortales como nosotros.
 

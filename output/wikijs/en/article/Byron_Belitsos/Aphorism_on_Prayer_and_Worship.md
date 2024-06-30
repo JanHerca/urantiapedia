@@ -53,7 +53,7 @@ Consecration of will means a willingness to continually discern the divine will.
 
 “_Words are irrelevant to praver..._” (<a id="a53_39"></a>[UB 91:8.12](/en/The_Urantia_Book/91#p8_12)) “Happy is the spirit that attains to perfect formlessness at the time of prayer.”[^3]
 
-“They asked Abbot Macarius: How should one pray? The old man answered: There is no need to waste time with words; it is enough to hold our your hands and say: 'Lord, according to your desire and to your wisdom, hare mercy.” [^4] “ And this teaching of $M$ lacarius, one of the first teachers of ”pure“ prayer in the desert tradition of Christianity, that is at the origin of the development of the ”Jesus Prayer" within the hesychast tradition.
+“They asked Abbot Macarius: How should one pray? The old man answered: There is no need to waste time with words; it is enough to hold our your hands and say: 'Lord, according to your desire and to your wisdom, hare mercy.” [^4] “ And this teaching of Macarius, one of the first teachers of ”pure“ prayer in the desert tradition of Christianity, that is at the origin of the development of the ”Jesus Prayer" within the hesychast tradition.
 
 Faithful prayer er entually empties the heart of all concerns and even all thoughts, so that it may be filled by communion with the One. Once the child has asked for all she wants, once she turns all her desires over to her father, her mind is prepared to contemplate him in silent awe. In the early hesychast tradition, one simply calls on Jesus' presence to enter silently into one's heart, continually: [^5]
 

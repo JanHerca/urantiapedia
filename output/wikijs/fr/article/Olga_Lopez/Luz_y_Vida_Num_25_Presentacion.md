@@ -53,7 +53,7 @@ Nous espérons que vous pourrez avoir une idée de ce qui a été vécu du 5 au 
 
 Comme nous souhaitons que d'autres lecteurs profitent de ce qui a été fait lors de la Rencontre, nous publierons dans cette revue et sur notre site Internet les matériaux issus des activités de groupe et des débats ultérieurs, afin qu'il soit possible de répéter l'expérience de manière plus approfondie. à plus petite échelle dans un groupe d'étude, ou qui sait si lors d'une autre réunion tenue dans un autre pays.
 
-Aussi, pour clôturer ce numéro, nous plaçons une nouvelle sur les activités menées par l'Association Urantia d'Espagne, liées à la diffusion du $E l$ Livre d'Urantia. A cette occasion, nous étions présents dans la belle ville de Séville, où nous avons offert une présentation du livre à tous ceux qui ont répondu à notre appel.
+Aussi, pour clôturer ce numéro, nous plaçons une nouvelle sur les activités menées par l'Association Urantia d'Espagne, liées à la diffusion du _L'Livre d'Urantia_. A cette occasion, nous étions présents dans la belle ville de Séville, où nous avons offert une présentation du livre à tous ceux qui ont répondu à notre appel.
 
 J'espère que tu aimes bien lire!
 

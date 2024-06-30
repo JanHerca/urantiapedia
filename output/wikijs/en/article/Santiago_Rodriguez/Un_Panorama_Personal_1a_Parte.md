@@ -82,14 +82,14 @@ It is any interaction between an active and questioning “I” and any other ac
 
 It will be through knowledge and experience how our mind (the mind is precisely the system that human beings have to interpret and correlate all these facts) will organize reality for ourselves, which will undoubtedly give it a certain subjective component, that will allow reality itself to be richer and more attractive than it would be if it only included objective components.
 
-And is precisely the total knowledge that each personality has of reality that constitutes the maximum achievement, the maximum aspiration of the being; eagerness that will lead us both personally and as a group to inquire $y$ deepen into all observable or knowable facts that we include in the framework of reality.
+And is precisely the total knowledge that each personality has of reality that constitutes the maximum achievement, the maximum aspiration of the being; eagerness that will lead us both personally and as a group to inquire and deepen into all observable or knowable facts that we include in the framework of reality.
 
 Two aspects of reality immediately become apparent:
 
 1. The energetic-material reality is one of the aspects that we are immediately aware of, since our senses give us a wide account of it. What we have called Science and Knowledge are the tools that allow us to advance in depth and in extension on this aspect of reality. We are perfectly aware that these are evolutionary acquisitions, which are reached gradually. We are also aware that we do not fully know the total truth about this reality or aspect of total reality, there are personalities who have more or less profound knowledge about different aspects of it. We also find it logical to think that not at all times have we been equally advanced in the ability to describe, interpret and take advantage of what nature offered us and what we have called human Knowledge.
 2. We are also aware that sensations or emotions appear that for the most part, although they originate within us, are produced by more or less exogenous agents, such as fear, euphoria, joy, pleasure, pain, etc. satisfaction, pride, etc. Some of them motivated by the reality of the existence of other personalities and other minds and of an interpersonal relationship, as would be the case of moral conscience.
 
-We could say that we are aware of a plane superior to the energetic-material but not independent of it. This shot, despite its subjectivity, is as real as the previous one. We can even talk about it with other personalities because they have had experiences that we suppose if not similar to ours, yes equivalent; Because being personal experiences, they become subjective in terms of intensity, duration and even in terms of implications in our life after being lived and experienced. We cannot transfer or exchange them with other personalities, but in some way we can communicate them $y$ explain them to our fellow men, who will understand them to a greater or lesser extent depending on their degree of experience with them.
+We could say that we are aware of a plane superior to the energetic-material but not independent of it. This shot, despite its subjectivity, is as real as the previous one. We can even talk about it with other personalities because they have had experiences that we suppose if not similar to ours, yes equivalent; Because being personal experiences, they become subjective in terms of intensity, duration and even in terms of implications in our life after being lived and experienced. We cannot transfer or exchange them with other personalities, but in some way we can communicate them and explain them to our fellow men, who will understand them to a greater or lesser extent depending on their degree of experience with them.
 
 ## We have to choose an option
 
@@ -109,7 +109,7 @@ Religion is nothing but a conception of life that will lead you to a certain way
 
 In every age and culture, man has always thought of God in terms of the best he knew, his deepest ideas, and his highest ideals. Every intelligent creature grants the name of God to the highest and best that it is capable of mentally conceiving.
 
-Now we have become aware of two sides of total reality, this is the starting point of all religion at any time and in any culture, even the previous concept $y$ with the following concept we will understand all possible religious variants, even at personal level
+Now we have become aware of two sides of total reality, this is the starting point of all religion at any time and in any culture, even the previous concept and with the following concept we will understand all possible religious variants, even at personal level
 
 ### How are different religions different?
 

@@ -34,7 +34,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 </figure>
 
 
-Recently one of the members of a local study group introduced his new pastor to The Urantia $B o o k$, a practice he has exercised for many years. The pastor seemed to show genuine interest, unlike most of his predecessors. He is a fellow pastor that I recently met and lives not far away, and I rejoiced at the thought that he might discover this amazing resource-in truth, a revelation.
+Recently one of the members of a local study group introduced his new pastor to _The Urantia Book_, a practice he has exercised for many years. The pastor seemed to show genuine interest, unlike most of his predecessors. He is a fellow pastor that I recently met and lives not far away, and I rejoiced at the thought that he might discover this amazing resource-in truth, a revelation.
 
 Of course I've learned over the years not to let my expectations soar too high. Only a few of those, including close friends that I felt were ready and open and with whom I shared the book, took more than a passing interest. Their reaction often turned to puzzlement and dismay, and occasionally even put a strain upon what I thought were enduring and unshakable bonds. Most of us have experienced this many times, and it may have slowed down our once unbounded enthusiasm and left us more than a little cautious.
 

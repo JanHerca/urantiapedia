@@ -41,7 +41,7 @@ La Fellowship a programmé sa session d’été 1997 à l’Université de la Co
 
 Le temps de juillet est presque parfait, avec un ciel ensoleillé et des températures dans les années 70 et basses années 80. La plupart des chambres de la tour résidentielle de 16 étages offrent une vue imprenable sur le détroit, les montagnes et les toits de Vancouver.
 
-La cafétéria propose des aliments multinationaux de très haute qualité. Avec des tarifs adultes quotidiens pour la chambre et trois repas à environ $\$ 45$ US, le coût de votre séjour sera des plus raisonnables.
+La cafétéria propose des aliments multinationaux de très haute qualité. Avec des tarifs adultes quotidiens pour la chambre et trois repas à environ $\$ 45 US, le coût de votre séjour sera des plus raisonnables.
 
 Le comité d’éducation a développé un nouveau format compact pour le séminaire d’été, en mettant l’accent sur la collaboration avec les lecteurs locaux pour développer le matériel du programme et sur la présentation de sujets éducatifs d’actualité sélectionnés à partir des commentaires fournis par les participants aux séminaires précédents. Le thème du séminaire de l’été prochain est « Les Trois R : relation, religion et révélation ». (Voir l’encadré à la page suivante.)
 

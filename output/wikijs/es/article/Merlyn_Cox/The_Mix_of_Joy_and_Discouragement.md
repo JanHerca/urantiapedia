@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
-Recientemente, uno de los miembros de un grupo de estudio local presentó a su nuevo pastor La Urantia $B o o k$, una práctica que ha ejercido durante muchos años. El pastor pareció mostrar un interés genuino, a diferencia de la mayoría de sus predecesores. Él es un compañero pastor que conocí recientemente y vive no muy lejos, y me regocijé al pensar que podría descubrir este recurso asombroso; en verdad, una revelación.
+Recientemente, uno de los miembros de un grupo de estudio local presentó a su nuevo pastor _El Libro de Urantia_, una práctica que ha ejercido durante muchos años. El pastor pareció mostrar un interés genuino, a diferencia de la mayoría de sus predecesores. Él es un compañero pastor que conocí recientemente y vive no muy lejos, y me regocijé al pensar que podría descubrir este recurso asombroso; en verdad, una revelación.
 
 Por supuesto, a lo largo de los años he aprendido a no dejar que mis expectativas se eleven demasiado. Sólo unos pocos de ellos, incluidos amigos cercanos que sentí que estaban listos y abiertos y con quienes compartí el libro, mostraron más que un interés pasajero. Su reacción a menudo se convertía en perplejidad y consternación, y en ocasiones incluso ponía tensión en lo que yo pensaba que eran vínculos duraderos e inquebrantables. La mayoría de nosotros hemos experimentado esto muchas veces, y es posible que haya frenado nuestro entusiasmo, antes ilimitado, y nos haya dejado más que un poco cautelosos.
 

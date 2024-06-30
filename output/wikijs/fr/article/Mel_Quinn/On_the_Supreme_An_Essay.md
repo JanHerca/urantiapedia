@@ -56,7 +56,7 @@ Le Père que je Suis aime son devenir fini, désire en faire partie, un avec tou
 
 La Perfection Infinie choisit d'exister dans les temples de l'âme de nos ressemblances humaines individuelles parce que c'est précisément à ce niveau quasi animal de l'existence personnelle que JE SUIS reprend le plus grand voyage jamais entrepris dans la plus grande histoire jamais racontée : la naissance du Volonté des âges, émergence dans la gloire du Suprême, le Dieu Puissant de l'Expérience.
 
-> _Nous suivons les nuages de gloire du Suprême dans ce développement. Plus important encore, nous continuons $i t$. Les trésors stockés de nos âmes, les significations et les valeurs de nos vies, sont livrés dans l'arc du Suprême alors qu'il s'élève au-dessus du monde et dans l'au-delà._
+> _Nous suivons les nuages de gloire du Suprême dans ce développement. Plus important encore, nous le poursuivons. Les trésors stockés de nos âmes, les significations et les valeurs de nos vies, sont livrés dans l'arc du Suprême alors qu'il s'élève au-dessus du monde et dans l'au-delà._
 
 Un grand amour met en œuvre cela et un grand objectif. Pour le Suprême, le devenir de Dieu, en union avec les existants finis, est l'achèvement suprême et glorieux, autrement impossible, du JE SUIS Originel — le « comment » ou le « plus » de son être, le tonnerre montant de l'éternité de Dieu.
 

@@ -93,7 +93,7 @@ Este trabajo ha sido realizado por Abdoul Karim DIALLO, con ocasión de la visit
 
 ### I - Introducción
 
-En la cadena de creación de seres dotados de voluntad, el hombre constituye el eslabón más débil. Creado en la periferia de la divinidad, al principio no tiene ninguna conciencia de Dios. Esta posición nos coloca en una situación que requiere una manifestación particular de Dios para que el espíritu pueda actuar en nosotros. Dios en efecto nos ha dotado de todo el equipo necesario para buscarle y encontrarle. Los Ayudantes, la mente y la personalidad son instrumentos para coordinarse mejor con la voluntad de Dios. Pero Dios ha ido más allá al habitar en la conciencia del hombre como Ajustador. Todas las religiones hablan de ello sin darle demasiada importancia. Sin embargo, esta presencia es esencial para comprender las verdaderas relaciones del hombre con su creador. Es en esa presencia en lo que me gustaría insistir en mi exposición, ya que es una situación inédita, una manifestación totalmente particular del amor de Dios por los hombres. Después de haberlos creado aquí abajo, Él los honra con su presencia y su sostén en todas las fases de la vida material, moroncial $y$ espiritual. Pero esto muchos hombres lo ignoran. Ni siquiera saberlo constituye la finalidad. Lo que el hombre precisa es de una fe ardiente y de una devoción a los valores supremos. Ello nos conduce a abordar las bases de la experiencia religiosa.
+En la cadena de creación de seres dotados de voluntad, el hombre constituye el eslabón más débil. Creado en la periferia de la divinidad, al principio no tiene ninguna conciencia de Dios. Esta posición nos coloca en una situación que requiere una manifestación particular de Dios para que el espíritu pueda actuar en nosotros. Dios en efecto nos ha dotado de todo el equipo necesario para buscarle y encontrarle. Los Ayudantes, la mente y la personalidad son instrumentos para coordinarse mejor con la voluntad de Dios. Pero Dios ha ido más allá al habitar en la conciencia del hombre como Ajustador. Todas las religiones hablan de ello sin darle demasiada importancia. Sin embargo, esta presencia es esencial para comprender las verdaderas relaciones del hombre con su creador. Es en esa presencia en lo que me gustaría insistir en mi exposición, ya que es una situación inédita, una manifestación totalmente particular del amor de Dios por los hombres. Después de haberlos creado aquí abajo, Él los honra con su presencia y su sostén en todas las fases de la vida material, moroncial y espiritual. Pero esto muchos hombres lo ignoran. Ni siquiera saberlo constituye la finalidad. Lo que el hombre precisa es de una fe ardiente y de una devoción a los valores supremos. Ello nos conduce a abordar las bases de la experiencia religiosa.
 
 ### II - Las Bases De La Experiencia Religiosa
 
@@ -193,7 +193,7 @@ El mundo vive actualmente las terribles consecuencias de la deslealtad de alguno
 
 - Como futuros educadores
 
-Seremos conducidos a asumir la gran responsabilidad de instruir $y$ educar espiritualmente a nuestros hermanos humanos.
+Seremos conducidos a asumir la gran responsabilidad de instruir y educar espiritualmente a nuestros hermanos humanos.
 
 Dicho esto, constatamos que de una punta a la otra del Cosmos, Dios lo ha dispuesto para que el más humilde de sus hijos (el hombre) pueda siempre hallarse en buena tutela, desde la cuna hasta su admisión en el Cuerpo de la Finalidad.
 

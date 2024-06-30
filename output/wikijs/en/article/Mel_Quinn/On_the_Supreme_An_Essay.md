@@ -55,7 +55,7 @@ The Father I Am loves his finite becoming, desires to be part of, one with all e
 
 Infinite Perfection chooses to exist in the soultemples of our individual human likenesses because it is precisely at this near-animal rung of personal existence that I AM takes up again the greatest journey ever undertaken in the greatest story ever told: the coming into being of the Will of the ages, the emergence into glory of the Supreme, the Mighty God of Experience.
 
-> _We trail the clouds of glory of the Supreme in this development. More significantly, we continue $i t$. The stored treasures of our souls, the meanings and values of our lives, are delivered into the arc of the Supreme as it rises over the world and into the beyond._
+> _We trail the clouds of glory of the Supreme in this development. More significantly, we continue it. The stored treasures of our souls, the meanings and values of our lives, are delivered into the arc of the Supreme as it rises over the world and into the beyond._
 
 Great love is enacting this, and great aim. For the Supreme, God's becoming, in union with finite existents is the all-glorious, otherwise not possible, supreme completion of Original I AM — the “how” or the “more” of his being, the rising thunderhead of God's eternity.
 

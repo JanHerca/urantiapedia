@@ -141,7 +141,7 @@ The object of this document is the evolution of a planet until it becomes a sphe
 
 If we start from what we know, the human being and his world, we find ourselves before a flagrant contradiction and an unfathomable mystery.
 
-What is the human being? According to its daily manifestations, there are those who can consider it an intermediate being between the angel and the beast. And that is the wonder of the _Urantia Book_, which makes us question the nature of the human being and the planet on which he lives. $Y$ of the chances of its evolution.
+What is the human being? According to its daily manifestations, there are those who can consider it an intermediate being between the angel and the beast. And that is the wonder of the _Urantia Book_, which makes us question the nature of the human being and the planet on which he lives. And of the chances of its evolution.
 
 From reading the newspapers and studying History, nothing seems to indicate that Good could triumph over Evil between the daily and internal struggle of Man and his society. However, despite the self-destructive capacity, the planet and society they subsist, and in certain areas of the planet the evolutionary capacity of human mortals and their society can be seen, which in turn gives individual samples of impressive quality. Which is a demonstration that between the fight of Good and Evil, Good continues to triumph. That is, there is more abundance of Good. For born pessimists it is an undeniable demonstration.
 

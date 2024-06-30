@@ -202,7 +202,7 @@ Numéro de page| Commence/se termine par
 <a id="a201_0"></a>[LU 146:2.9](/fr/The_Urantia_Book/146#p2_9) | Prière/dénuement.
 <a id="a202_0"></a>[LU 72:11.4](/fr/The_Urantia_Book/72#p11_4) | Bien que/en agression...
 
-7\. **Des accidents aveugles et imprévus se produisent $n$ dans le cosmos. Les êtres célestes n’aident pas non plus l’être inférieur qui refuse d’agir selon sa lumière de vérité.**
+7\. **Des accidents aveugles et imprévus se produisent n dans le cosmos. Les êtres célestes n’aident pas non plus l’être inférieur qui refuse d’agir selon sa lumière de vérité.**
 
 Numéro de page| Commence/se termine par
 --- | ---

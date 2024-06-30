@@ -42,7 +42,7 @@ Eduardo Altuzarra es miembro fundador de la Asociación Urantia de España, lega
 
 ## 1. ¿Cómo llegaste hasta «El Libro de Urantia» y por qué crees que lo encontraste?
 
-Comencé mi andadura con este libro porque un amigo nos dijo al grupo de Metafísica al que pertenecíamos por aquella época (1990, aproximadamente) que había encontrado un libro escrito en francés que se titulaba $L e$ Livre d'Urantia. Tomamos interés por él, escribimos a la dirección y contestaron que se encontraba en pleno periodo de traducción al idioma español para posteriormente publicarlo, y que cuando eso fuera realidad nos avisarían. Esperamos como tres años y por fin en 1993 tuvimos el libro en nuestras manos.
+Comencé mi andadura con este libro porque un amigo nos dijo al grupo de Metafísica al que pertenecíamos por aquella época (1990, aproximadamente) que había encontrado un libro escrito en francés que se titulaba Le Livre d'Urantia. Tomamos interés por él, escribimos a la dirección y contestaron que se encontraba en pleno periodo de traducción al idioma español para posteriormente publicarlo, y que cuando eso fuera realidad nos avisarían. Esperamos como tres años y por fin en 1993 tuvimos el libro en nuestras manos.
 
 No comencé a leerlo en aquellos momentos porque a primera vista tanto texto «empachó» mis ojos.
 

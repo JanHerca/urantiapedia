@@ -109,7 +109,7 @@ Cuando se dio permiso para publicar los Documentos de Urantia, los reveladores d
 
 En preparación para la publicación de _El Libro de Urantia_, la Fundación Urantia fue establecida mediante una Declaración de Fideicomiso bajo las leyes del Estado de Illinois el 11 de enero de 1950. La Fundación está administrada por una Junta Directiva de cinco miembros nombrados de por vida. términos. Los deberes y responsabilidades de los fideicomisarios están definidos en la Declaración de Fideicomiso. Entre las más importantes se encuentran la publicación de _El Libro de Urantia_ y la preservación de su texto inviolable a perpetuidad.
 
-Cuando la Fundación hizo un llamamiento a los miembros del Foro para obtener fondos para cubrir la primera tirada de 10.000 ejemplares, la respuesta fue inmediata. El coste de la primera edición rondaba los $\$ 75.000$. El libro está impreso en la planta de R. R. Donnelly and Sons Company en Crawfordsville, Indiana, y fue publicado por la Fundación Urantia el 12 de octubre de 1955.
+Cuando la Fundación hizo un llamamiento a los miembros del Foro para obtener fondos para cubrir la primera tirada de 10.000 ejemplares, la respuesta fue inmediata. El coste de la primera edición rondaba los $75.000. El libro está impreso en la planta de R. R. Donnelly and Sons Company en Crawfordsville, Indiana, y fue publicado por la Fundación Urantia el 12 de octubre de 1955.
 
 En 1962 se publicó una traducción francesa de _El Libro de Urantia_. En la primavera de 1993 se publicaron traducciones al finlandés y al español. Continúa el trabajo en las traducciones al holandés y al ruso, y en el horizonte están las traducciones al coreano, alemán, sueco, húngaro e italiano.
 

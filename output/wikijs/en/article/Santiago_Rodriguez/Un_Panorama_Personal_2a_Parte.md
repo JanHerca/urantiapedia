@@ -124,7 +124,7 @@ We have something that is a gift: Personality, which remains unchanged despite a
 
 At the moment we have a material body, or electrochemical life vehicle that supports what constitutes us as part of ourselves.
 
-We have another gift from the Infinite Spirit, which is the Mind, which will allow us to be an active part of reality. $Y$, of course, be aware that we have and use our free will.
+We have another gift from the Infinite Spirit, which is the Mind, which will allow us to be an active part of reality. And, of course, be aware that we have and use our free will.
 
 We have a divine spiritual gift (the Adjuster) that is a fragment of the Universal Father himself, who resides in us, in our mind. It is called to be part of ourselves in the future. The material Mind and the spiritual entity (Adjuster) that dwells in us, as we do the will of the Father and live religious experiences, begin to bring into existence something that is neither material nor spiritual: THE SOUL of a new nature ( morontia) which is, along with personality, what is destined for survival.
 

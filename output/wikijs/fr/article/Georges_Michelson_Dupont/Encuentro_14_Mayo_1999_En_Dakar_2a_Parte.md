@@ -94,7 +94,7 @@ Ce travail a été réalisé par Abdoul Karim DIALLO, à l'occasion de la visite
 
 ### I - Introduction
 
-Dans la chaîne de création des êtres dotés de volonté, l’homme est le maillon le plus faible. Créé à la périphérie de la divinité, il n'a initialement aucune conscience de Dieu. Cette position nous place dans une situation qui nécessite une manifestation particulière de Dieu pour que l'esprit puisse agir en nous. Dieu nous a en effet fourni tout l’équipement nécessaire pour Le chercher et Le trouver. Les Aides, l'esprit et la personnalité sont des instruments pour mieux se coordonner avec la volonté de Dieu. Mais Dieu est allé plus loin en habitant la conscience de l'homme en tant qu'Ajusteur. Toutes les religions en parlent sans trop lui accorder d’importance. Pourtant, cette présence est essentielle pour comprendre les véritables relations de l’homme avec son créateur. C'est sur cette présence que je voudrais insister dans mon exposé, car il s'agit d'une situation inédite, d'une manifestation tout à fait particulière de l'amour de Dieu pour les hommes. Après les avoir créés ici-bas, Il les honore de sa présence et de son soutien dans toutes les phases de la vie matérielle et morontielle $y$ spirituelle. Mais beaucoup d’hommes l’ignorent. Le but n’est même pas de savoir. Ce dont l’homme a besoin, c’est d’une foi ardente et d’un dévouement aux valeurs suprêmes. Cela nous amène à aborder les fondements de l’expérience religieuse.
+Dans la chaîne de création des êtres dotés de volonté, l’homme est le maillon le plus faible. Créé à la périphérie de la divinité, il n'a initialement aucune conscience de Dieu. Cette position nous place dans une situation qui nécessite une manifestation particulière de Dieu pour que l'esprit puisse agir en nous. Dieu nous a en effet fourni tout l’équipement nécessaire pour Le chercher et Le trouver. Les Aides, l'esprit et la personnalité sont des instruments pour mieux se coordonner avec la volonté de Dieu. Mais Dieu est allé plus loin en habitant la conscience de l'homme en tant qu'Ajusteur. Toutes les religions en parlent sans trop lui accorder d’importance. Pourtant, cette présence est essentielle pour comprendre les véritables relations de l’homme avec son créateur. C'est sur cette présence que je voudrais insister dans mon exposé, car il s'agit d'une situation inédite, d'une manifestation tout à fait particulière de l'amour de Dieu pour les hommes. Après les avoir créés ici-bas, Il les honore de sa présence et de son soutien dans toutes les phases de la vie matérielle, morontielle et spirituelle. Mais beaucoup d’hommes l’ignorent. Le but n’est même pas de savoir. Ce dont l’homme a besoin, c’est d’une foi ardente et d’un dévouement aux valeurs suprêmes. Cela nous amène à aborder les fondements de l’expérience religieuse.
 
 ### II - La base de l'expérience religieuse
 
@@ -194,7 +194,7 @@ Le monde subit actuellement les terribles conséquences de la déloyauté de cer
 
 - En tant que futurs éducateurs
 
-Nous serons amenés à assumer la grande responsabilité d’instruire $y$ spirituellement nos frères humains.
+Nous serons amenés à assumer la grande responsabilité d’instruire et d’éduquer spirituellement nos frères humains.
 
 Cela dit, nous voyons que d'un bout à l'autre du Cosmos, Dieu a fait en sorte que le plus humble de ses enfants (l'homme) puisse toujours être bien protégé, depuis le berceau jusqu'à son admission dans le Corps du But.
 

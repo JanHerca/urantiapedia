@@ -139,7 +139,7 @@ El objeto de dicho documento es la evolución de un planeta hasta convertirse en
 
 Si partimos de lo que conocemos, el ser humano y su mundo, nos hallamos ante una contradicción flagrante y un misterio insondable.
 
-¿Qué es el ser humano? Según sus manifestaciones cotidianas, hay quien lo puede considerar un ser intermedio entre el ángel y la bestia. Y ésa es la maravilla del _Libro de Urantia_, que nos hace cuestionarnos la naturaleza del ser humano y el planeta en que habita. $Y$ de las posibilidades de su evolución.
+¿Qué es el ser humano? Según sus manifestaciones cotidianas, hay quien lo puede considerar un ser intermedio entre el ángel y la bestia. Y ésa es la maravilla del _Libro de Urantia_, que nos hace cuestionarnos la naturaleza del ser humano y el planeta en que habita. Y de las posibilidades de su evolución.
 
 Por la lectura de los documentos y el estudio de la Historia nada parece indicar que entre la lucha diaria e interna del Hombre y su sociedad pudiera triunfar el Bien sobre el Mal. Sin embargo, a pesar de la capacidad autodestructora, el planeta y la sociedad subsisten, y en ciertas zonas del planeta se ve la capacidad evolutiva del mortal humano y su sociedad, que a su vez da muestras individuales de una calidad impresionante. Lo cual es una demostración que entre la lucha del Bien y el Mal sigue triunfando el Bien. Es decir, hay más abundancia de Bien. Para los pesimistas natos es una demostración innegable.
 

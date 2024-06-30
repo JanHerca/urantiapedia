@@ -72,7 +72,7 @@ _Milford, Connecticut_
 
 ---
 
-Thank you (Mark Kulieke) for taking the time to compile all the facts and for sorting your memory in writing Birth of $a$ Revelation. There are those of us in the general population who have a high level of curiosity about the mysteries of life and the details of which you speak in your booklet. It is thrilling to go back in time through your words and glimpse the early days.
+Thank you (Mark Kulieke) for taking the time to compile all the facts and for sorting your memory in writing Birth of a Revelation. There are those of us in the general population who have a high level of curiosity about the mysteries of life and the details of which you speak in your booklet. It is thrilling to go back in time through your words and glimpse the early days.
 
 It was also thrilling to read about your Childhood Days at the Forum in the August '93 issue of The Herald. The Pine Lodge at Beverly Shores sounds like a magical place, with the Forum members there and, I'm sure, many unseen friends in attendance.
 

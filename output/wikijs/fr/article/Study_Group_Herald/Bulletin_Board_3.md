@@ -77,7 +77,7 @@ Contactez Peggy Johnson, présidente du livre de recettes, Société du Grand Ca
 
 ---
 
-**POUR NOUS UN FILS EST DONNÉ**. 21 août 7 av. au 21 août 1994 après J.-C. - Participez à une célébration du 2000e anniversaire de la naissance de Jésus en Israël du 19 au 29 août. Un voyage prolongé en Égypte est prévu du 29 août au 5 septembre. - Le prix estimé du voyage en Israël est de $\$ 1886$ par personne et pour ceux qui vont en Egypte, un supplément de 1207\$ par personne. 126 personnes ont déjà réservé avec une chambre pour un total de 200 personnes. Contactez Berkeley Elliot, 14 SW 97th St., Oklahoma City, OK 73139 (405)8434900.
+**POUR NOUS UN FILS EST DONNÉ**. 21 août 7 av. au 21 août 1994 après J.-C. - Participez à une célébration du 2000e anniversaire de la naissance de Jésus en Israël du 19 au 29 août. Un voyage prolongé en Égypte est prévu du 29 août au 5 septembre. - Le prix estimé du voyage en Israël est de $\$ 1886 par personne et pour ceux qui vont en Egypte, un supplément de 1207\$ par personne. 126 personnes ont déjà réservé avec une chambre pour un total de 200 personnes. Contactez Berkeley Elliot, 14 SW 97th St., Oklahoma City, OK 73139 (405)8434900.
 
 ---
 

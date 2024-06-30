@@ -56,7 +56,7 @@ El Padre Yo Soy ama su devenir finito, desea ser parte, uno con todos los sujeto
 
 La Perfección Infinita elige existir en los templos del alma de nuestras semejanzas humanas individuales porque es precisamente en este peldaño casi animal de la existencia personal donde YO SOY emprende nuevamente el viaje más grande jamás emprendido en la historia más grande jamás contada: la llegada a la existencia del Voluntad de los siglos, el surgimiento a la gloria del Supremo, el Poderoso Dios de la Experiencia.
 
-> _Seguimos las nubes de gloria del Supremo en este desarrollo. Más significativamente, continuamos $i t$. Los tesoros almacenados en nuestras almas, los significados y valores de nuestras vidas, son entregados al arco del Supremo a medida que se eleva sobre el mundo y hacia el más allá._
+> _Seguimos las nubes de gloria del Supremo en este desarrollo. Más significativamente, las continuamos. Los tesoros almacenados en nuestras almas, los significados y valores de nuestras vidas, son entregados al arco del Supremo a medida que se eleva sobre el mundo y hacia el más allá._
 
 Un gran amor está realizando esto y un gran objetivo. Para el Supremo, el devenir de Dios, en unión con los existentes finitos, es la gloriosa culminación suprema, de otro modo imposible, del YO SOY Original: el «cómo» o el «más» de su ser, la creciente tormenta de la eternidad de Dios.
 

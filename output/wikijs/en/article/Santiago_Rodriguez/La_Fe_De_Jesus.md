@@ -83,7 +83,7 @@ After revealing to us the importance of religious experience, which accompanies 
 
 Many of us have read a “Trojan Horse” by Benítez, and surely we longed to reach the passages in which Jesus appeared, and we wanted to be there to ask him endless questions, and if we had him with us today we would surely satisfy our longing. to know and know the material aspect, up to the limit that our own mind was capable of understanding, but then we would be left with a kind of emptiness, a bigger question: What about the spiritual aspect? What do we have to do to be religious beings? How are we to approach the religious experience in our existence?
 
-Everyone, regardless of their beliefs, agrees that Jesus was a true teacher, but in reality he went further, it is true that he taught his contemporaries, since he lived with them, and many of his teachings will undoubtedly enlighten us on our journey. . But there is something more important for us, for all times $y$ ages, for all cultures and societies; the document itself exhorts us to look not so much for what he taught as for what he did, and above all how he did it; certainly the things he did are very enlightening, but they only reveal the result of some specific situations, which were the ones he had to live, but what is of true value regardless of all times or circumstances of life was his way of approaching and cope with the tasks of daily living. Without wishing at any time, no matter how hard or difficult it was, to abandon the fight of life in the flesh, and we all know that it was not easy for him.
+Everyone, regardless of their beliefs, agrees that Jesus was a true teacher, but in reality he went further, it is true that he taught his contemporaries, since he lived with them, and many of his teachings will undoubtedly enlighten us on our journey. . But there is something more important for us, for all times and ages, for all cultures and societies; the document itself exhorts us to look not so much for what he taught as for what he did, and above all how he did it; certainly the things he did are very enlightening, but they only reveal the result of some specific situations, which were the ones he had to live, but what is of true value regardless of all times or circumstances of life was his way of approaching and cope with the tasks of daily living. Without wishing at any time, no matter how hard or difficult it was, to abandon the fight of life in the flesh, and we all know that it was not easy for him.
 
 Let's pay all our attention and study in depth how Jesus lived, in addition to what he taught, because these will be the keys to living a full and satisfying life.
 
@@ -93,7 +93,7 @@ The revelators emphasize that Jesus “tasted” a normal life, with its ups and
 
 Let's see how he oriented his life, and we will have the model to follow for ourselves. He had an exceptional tool at his disposal, but one that is also within our reach. This tool is nothing other than a SUBLIME AND UNRESERVED FAITH IN GOD.
 
-There is something that makes it exceptional $y$ is that, contrary to what happens with the tools that we manufacture, it turns out that the more you use it, instead of breaking down or deteriorating, the more powerful it becomes.
+There is something that makes it exceptional and is that, contrary to what happens with the tools that we manufacture, it turns out that the more you use it, instead of breaking down or deteriorating, the more powerful it becomes.
 
 Faith presents us with a dilemma analogous to that of which came first, the chicken or the egg, and I personally am not clear if the idea-ideal of God is first reached, and then Faith emerges, or it is the other way around, but what does seem clear to me is that at one time or another in our lives, both concepts appear, and the key is not to separate them from you because, especially at first, they seem disconcerting or unclear.
 
@@ -121,7 +121,7 @@ What was or what is the religion of Jesus? It also has an easy answer: make the 
 
 ## Concreting
 
-If we want to live a full, satisfactory life $y$ abundant in experiences (jojo! I didn't want to say easy), we must come to the conviction and make the decision that our life be religious, of the idea of God the Father and the Brotherhood among human beings, and through faith, with the help of the Adjuster, who will reveal part of the truths to us, we will evolve from primitive veneration and fear towards the First Source and Center, to achieve a spiritual communion with Him , which will allow us to achieve an advanced state and a high awareness of our unity with the Father.
+If we want to live a full, satisfactory life and abundant in experiences (jojo! I didn't want to say easy), we must come to the conviction and make the decision that our life be religious, of the idea of God the Father and the Brotherhood among human beings, and through faith, with the help of the Adjuster, who will reveal part of the truths to us, we will evolve from primitive veneration and fear towards the First Source and Center, to achieve a spiritual communion with Him , which will allow us to achieve an advanced state and a high awareness of our unity with the Father.
 
 The situation is very simple:
 

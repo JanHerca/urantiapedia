@@ -171,7 +171,7 @@ Cette histoire a inspiré toute notre famille depuis 30 ans. Quand les temps son
 
 Il s’agit d’une action car il faut généralement y travailler. Cela ne vous vient pas naturellement à l’esprit comme première réponse, à moins que vous ne soyez devenu très spirituel.
 
-Ne pas porter de jugement signifie que nous devons être prudents lorsque nous portons des jugements sur les autres, en particulier sur leurs motivations. Je suis $m$ sûr que nous tous, à un moment ou à un autre, nous sommes retrouvés accusés de motifs qui étaient exactement à l'opposé de ce que nous pensions. Nous comprenons donc tous le danger social.
+Ne pas porter de jugement signifie que nous devons être prudents lorsque nous portons des jugements sur les autres, en particulier sur leurs motivations. Je suis sûr que nous tous, à un moment ou à un autre, nous sommes retrouvés accusés de motifs qui étaient exactement à l'opposé de ce que nous pensions. Nous comprenons donc tous le danger social.
 
 Porter un jugement, c'est être prompt à condamner, prompt à assigner des motifs, prompt à assumer une moralité supérieure ; prompt à bavarder, prompt à se méfier. Je pense que nous pouvons tous imaginer que la vie dans le cosmos ne peut pas se dérouler sur cette base. Il est donc préférable que nous commencions à apprendre la leçon maintenant, que nous commencions à accorder une grande valeur à la _précision_. Donner aux autres le bénéfice du doute. Aborder les situations de la vie avec une attitude sans jugement.
 

@@ -110,7 +110,7 @@ Mantenga el formato básico como está. Permita que 6-0-6 evolucione para satisf
 
 Neil Francey, Brisbane
 
-Me gustaría ver algunas ayudas e ideas para difundir _El Libro de URANTIA_ y todo lo relacionado con su origen humano en 1934 (porque todo el mundo pregunta por $i t$ ). ¡Tu equipo está haciendo un gran trabajo! ¡Estoy más emocionado que nunca con el Gran Libro Azul!
+Me gustaría ver algunas ayudas e ideas para difundir _El Libro de URANTIA_ y todo lo relacionado con su origen humano en 1934 (porque todo el mundo pregunta por ello). ¡Tu equipo está haciendo un gran trabajo! ¡Estoy más emocionado que nunca con el Gran Libro Azul!
 
 Joseph Hausler, Eumundi, Queensland.
 

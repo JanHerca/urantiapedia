@@ -45,7 +45,7 @@ De hecho, la fe bahá'í hizo su debut en el Parlamento de 1893. Un siglo despu�
 
 Hablando sólo en términos de extensión, es literalmente cierto que casi todas las religiones importantes del mundo han tomado conciencia de _El Libro de Urantia_ de alguna manera como resultado de este evento. Muchos de los que vinieron representando otras religiones nos hicieron saber que también leen y creen en _El Libro de Urantia_.
 
-La experiencia fue nada menos que mágica. Al segundo día dejé de decir: «Esa es una coincidencia interesante» y simplemente disfruté del gozo de ser totalmente guiado por el espíritu y los ángeles. Imaginé a los ángeles regocijándose por esta gran combinación de creencias. Sentí su satisfacción por el trabajo bien hecho y contemplé su trabajo de una manera que $I$ nunca antes había presenciado.
+La experiencia fue nada menos que mágica. Al segundo día dejé de decir: «Esa es una coincidencia interesante» y simplemente disfruté del gozo de ser totalmente guiado por el espíritu y los ángeles. Imaginé a los ángeles regocijándose por esta gran combinación de creencias. Sentí su satisfacción por el trabajo bien hecho y contemplé su trabajo de una manera que yo nunca antes había presenciado.
 
 Aquellos de nosotros que estábamos allí representando _El Libro de Urantia_ compartíamos una sensación similar de guía celestial intensificada. Nunca tuvimos que preocuparnos por reunirnos para comer o sesiones plenarias. Nuestro grupo terminaría sin esfuerzo sentado en la misma fila. Durante las comidas, nuestro grupo compartía historias de nuestros encuentros diarios, que incluso a nosotros a veces nos resultaban difíciles de creer.
 

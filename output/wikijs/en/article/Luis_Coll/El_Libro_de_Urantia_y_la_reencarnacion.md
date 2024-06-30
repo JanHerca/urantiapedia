@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 
 
-When people come across _The Urantia Book_ and begin to read and study it, they may ask themselves the following question, especially people who believe in reincarnation: **what does the $E l$ Urantia Book have to say about the reincarnation?**
+When people come across _The Urantia Book_ and begin to read and study it, they may ask themselves the following question, especially people who believe in reincarnation: **what does the Urantia Book have to say about the reincarnation?**
 
 Well, regarding reincarnation, in another physical life here on this planet, _The Urantia Book_ has very little to say. It simply says that we do not reincarnate here again, that the spirits of the dead do not return.
 

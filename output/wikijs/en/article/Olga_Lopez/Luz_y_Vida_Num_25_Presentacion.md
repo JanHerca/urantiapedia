@@ -54,7 +54,7 @@ We hope you can get an idea of what happened from May 5 to 8, 2011 at the Hotel 
 
 As we want other readers to take advantage of what was done at the Meeting, in this magazine and on our website we will publish the materials that have emerged from the group activities and subsequent discussions, so that it is possible to repeat the experience on a smaller scale in a study group, or who knows if in another meeting held in another country.
 
-Also, as a closing to this issue, we put a news item on the activities carried out by the Urantia Association of Spain, related to the dissemination of $E l$ Urantia Book. On this occasion we were present in the beautiful city of Seville, where we offered a book presentation to all those who responded to our call.
+Also, as a closing to this issue, we put a news item on the activities carried out by the Urantia Association of Spain, related to the dissemination of _The Urantia Book_. On this occasion we were present in the beautiful city of Seville, where we offered a book presentation to all those who responded to our call.
 
 I hope you enjoy reading!
 

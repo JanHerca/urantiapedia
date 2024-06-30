@@ -35,7 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
-Récemment, l'un des membres d'un groupe d'étude local a présenté à son nouveau pasteur L'Urantia $B o o k$, une pratique qu'il exerce depuis de nombreuses années. Le pasteur semblait manifester un réel intérêt, contrairement à la plupart de ses prédécesseurs. C'est un confrère pasteur que j'ai récemment rencontré et qui vit non loin de là, et je me suis réjoui à l'idée qu'il puisse découvrir cette ressource étonnante – en vérité, une révélation.
+Récemment, l'un des membres d'un groupe d'étude local a présenté à son nouveau pasteur _L'Livre d'Urantia_, une pratique qu'il exerce depuis de nombreuses années. Le pasteur semblait manifester un réel intérêt, contrairement à la plupart de ses prédécesseurs. C'est un confrère pasteur que j'ai récemment rencontré et qui vit non loin de là, et je me suis réjoui à l'idée qu'il puisse découvrir cette ressource étonnante – en vérité, une révélation.
 
 Bien sûr, j’ai appris au fil des années à ne pas laisser mes attentes trop élevées. Seuls quelques-uns d’entre eux, y compris des amis proches que je sentais prêts et ouverts et avec qui j’ai partagé le livre, ont manifesté plus qu’un intérêt passager. Leur réaction s’est souvent transformée en perplexité et en consternation, et parfois même a mis à rude épreuve ce que je pensais être des liens durables et inébranlables. La plupart d’entre nous ont vécu cela à plusieurs reprises, et cela a peut-être ralenti notre enthousiasme autrefois sans limite et nous a rendu plus que prudents.
 

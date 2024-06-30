@@ -90,7 +90,7 @@ Conservez le format de base tel quel. Permettre au 6-0-6 d’évoluer pour répo
 
 Neil Francey, Brisbane
 
-J'aimerais voir des aides et des idées pour diffuser _Le Livre d'URANTIA_ et tout ce qui concerne son origine humaine en 1934 (car tout le monde demande à propos de $i t$ ). Votre équipe fait un excellent travail ! Je suis plus que jamais ravie du Big Blue Book !
+J'aimerais voir des aides et des idées pour diffuser _Le Livre d'URANTIA_ et tout ce qui concerne son origine humaine en 1934 (parce que tout le monde le demande). Votre équipe fait un excellent travail ! Je suis plus que jamais ravie du Big Blue Book !
 
 Joseph Hausler, Eumundi, Queensland.
 

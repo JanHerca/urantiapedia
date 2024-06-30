@@ -69,7 +69,7 @@ Limited edition **Photo/Art print** (B/W) of the Contact Commission and 533 Dive
 
 **Two-color IC93 pins**. Order from the Jesusonian Foundation at 1 (800) 767-5683.
 
-**IC93 Tee Shirts**. For a donation of $\$ 10$ a limited supply of these shirts is available. Sizes $L$ and $X L$ in aqua, hot pink and heavy gold. Write the Fellowship, 529 Wrightwood Ave., Chicago, IL 60614 or call (312) 327. 0424 .
+**IC93 Tee Shirts**. For a donation of $ 10 a limited supply of these shirts is available. Sizes L and XL in aqua, hot pink and heavy gold. Write the Fellowship, 529 Wrightwood Ave., Chicago, IL 60614 or call (312) 327. 0424 .
 
 ***Getting To Know God***, a children's book by Kaye Cooper. A spiritual activity book for parents and children, ages 4 to 8 years. 8-1/2 x 11,28 pages, \$5.95 includes shipping. Order from Adventures in Spiritual Living Inc., Box 680867-H, Houston, TX 772680857 .
 

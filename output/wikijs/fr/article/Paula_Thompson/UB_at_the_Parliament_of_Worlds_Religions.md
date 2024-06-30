@@ -45,7 +45,7 @@ En fait, la foi bahá’íe a fait ses débuts au Parlement de 1893. Un siècle 
 
 Parlant uniquement en termes de sensibilisation, il est littéralement vrai que presque toutes les religions majeures du monde ont pris conscience du _Livre d’Urantia_ d’une manière ou d’une autre à la suite de cet événement. Beaucoup de ceux qui sont venus représenter d’autres confessions nous ont fait savoir qu'ils lisaient et croyaient également _Le Livre d’Urantia_.
 
-L’expérience était tout simplement magique. Le deuxième jour, j'ai arrêté de dire : « C'est une coïncidence intéressante » et j'ai simplement savouré la joie d’être entièrement dirigé par l’esprit et les anges. . imaginait les anges se réjouissant de ce grand mélange de croyances. J'ai ressenti leur satisfaction pour un travail bien fait et j'ai vu leur travail d’une manière que $I$ n’avais jamais vue auparavant.
+L’expérience était tout simplement magique. Le deuxième jour, j'ai arrêté de dire : « C'est une coïncidence intéressante » et j'ai simplement savouré la joie d’être entièrement dirigé par l’esprit et les anges. . imaginait les anges se réjouissant de ce grand mélange de croyances. J'ai ressenti leur satisfaction pour un travail bien fait et j'ai vu leur travail d’une manière que je n’avais jamais vue auparavant.
 
 Ceux d’entre nous qui étaient là pour représenter _Le Livre d’Urantia_ partageaient tous un sentiment similaire de guidance céleste accrue. Nous n’avons jamais eu à nous soucier de nous retrouver pour des repas ou des séances plénières. Notre groupe finirait sans effort par s'asseoir dans la même rangée. Lors des repas, notre groupe partageait des histoires de nos rencontres quotidiennes, que même nous avions parfois du mal à croire.
 

@@ -52,7 +52,7 @@ Finally, at the end of six weeks, mid-trimester time, Doud gave the students a j
 
 He came to this girl's paper and found that page after page was filled. She started, “I know you don't like me because I'm dumb. But I'm not as dumb as you think I am. You see, last summer I had an abortion.” And then she went on to tell the whole story. She poured out her pain in the paper-how she got pregnant and ran away from home, how her boyfriend had moved away from her out to the west coast. “If I can't be with my boyfriend” she wrote, “I'd just as soon be dead!” And she started listing all of the ways she'd considered using to take her own life.
 
-And Doud said, 'I'm sitting there on a Friday night, my ice-cream is melting, and I' $m$ reading this paper and think: My word! for six weeks, this girl has been sitting three feet away from me, and I've been more interested in Flannery O'Conner's southern gothic style and trying to shove it down her throat than I really have been about her."
+And Doud said, 'I'm sitting there on a Friday night, my ice-cream is melting, and I'm reading this paper and think: My word! for six weeks, this girl has been sitting three feet away from me, and I've been more interested in Flannery O'Conner's southern gothic style and trying to shove it down her throat than I really have been about her."
 
 This experience reconfirmed something for Guy Doud — that there is something more important, more valuable than reading, writing, and arithmetic; something even more important than computer literacy. He teaches human beings! As children of our Heavenly Father, we have a responsibility to affirm our worth. We have a responsibility to resurrect and restore the genuine value in those who see themselves as little more than human trash.
 

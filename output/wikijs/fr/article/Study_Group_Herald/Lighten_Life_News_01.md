@@ -127,7 +127,7 @@ Ils sont explosés, frappés avec des billes d’acier, coupés en morceaux, rem
 
 Les détails de la destruction sont des termes explicites de l’accord conventionnel Forch it Europe.
 
-Il a été signé hier $y$ par les anciens adversaires, les pays de l’Organisation du Traité de l’Atlantique Nord et ceux du Pacte de Varsovie.
+Il a été signé hier par d'anciens adversaires, les pays de l’Organisation du Traité de l’Atlantique Nord et ceux du Pacte de Varsovie.
 
 Les Soviétiques, aux termes de l’accord, doivent se débarrasser de 16 500 chars, 17 000 véhicules blindés, 15 000 avions d’aviation, 8 000 avions combet et 1 450 hélicoptères.
 

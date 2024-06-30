@@ -95,7 +95,7 @@ This work has been carried out by Abdoul Karim DIALLO, on the occasion of the vi
 
 ### Introduction
 
-In the chain of creation of beings endowed with will, man is the weakest link. Created on the periphery of divinity, he initially has no awareness of God. This position puts us in a situation that requires a particular manifestation of God so that the spirit can act in us. God has indeed endowed us with all the necessary equipment to seek and find him. The Helpers, the mind and the personality are instruments to better coordinate with the will of God. But God has gone further by indwelling man's consciousness as Adjuster. All religions talk about it without giving it too much importance. However, this presence is essential to understand the true relations of man with his creator. It is in this presence that I would like to insist in my exposition, since it is an unprecedented situation, a totally particular manifestation of God's love for men. After having created them here below, He honors them with his presence and his support in all the phases of material, morontia $y$ spiritual life. But this many men ignore it. Even knowing it is not the purpose. What man needs is a burning faith and devotion to the highest values. This leads us to address the bases of religious experience.
+In the chain of creation of beings endowed with will, man is the weakest link. Created on the periphery of divinity, he initially has no awareness of God. This position puts us in a situation that requires a particular manifestation of God so that the spirit can act in us. God has indeed endowed us with all the necessary equipment to seek and find him. The Helpers, the mind and the personality are instruments to better coordinate with the will of God. But God has gone further by indwelling man's consciousness as Adjuster. All religions talk about it without giving it too much importance. However, this presence is essential to understand the true relations of man with his creator. It is in this presence that I would like to insist in my exposition, since it is an unprecedented situation, a totally particular manifestation of God's love for men. After having created them here below, He honors them with his presence and his support in all the phases of material, morontial and spiritual life. But this many men ignore it. Even knowing it is not the purpose. What man needs is a burning faith and devotion to the highest values. This leads us to address the bases of religious experience.
 
 ### II - The Basis of Religious Experience
 
@@ -195,7 +195,7 @@ The world is currently experiencing the terrible consequences of the disloyalty 
 
 - As future educators
 
-We will be led to assume the great responsibility of instructing $y$ spiritually educate our human brothers.
+We will be led to assume the great responsibility of instructing and educating  spiritually our human brothers.
 
 Having said this, we verify that from one end of the Cosmos to the other, God has arranged it so that the humblest of his children (man) can always be in good care, from the cradle until his admission into the Body of the Finality.
 

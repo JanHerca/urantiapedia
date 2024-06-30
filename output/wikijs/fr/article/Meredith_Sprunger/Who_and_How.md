@@ -48,7 +48,7 @@ Et deuxièmement : « Il y a beaucoup de choses concernant l’apparition des Ca
 
 Au cours de son enquête sur ce phénomène, le Dr Sadler a consulté des hommes comme Howard Thurston, le célèbre artiste de tours de passe-passe qui a consacré un temps considérable à dénoncer les médiums et médiums frauduleux. Il s'est également entretenu avec Sir Hubert Wilkens, le célèbre scientifique et explorateur impliqué dans l’étude des phénomènes psychiques. Ils convinrent que les phénomènes liés à cet individu ne pouvaient être classés avec d’autres types de phénomènes psychiques, tels que l’écriture automatique, la télépathie, la clairvoyance, les transes, le canalisation ou la double personnalité.
 
-Il y a eu diverses suppositions quant à l’identité de la personnalité du contact, mais rien ne peut être vérifié. À de nombreuses reprises, le Dr Sadler m'a dit qu'il ne savait pas comment la matérialisation s'effectuait. Presque tout ce qui est connu sur l’origine du _Le Livre d’Urantia_, assura-t-il à $m e$, se trouve dans le livre.
+Il y a eu diverses suppositions quant à l’identité de la personnalité du contact, mais rien ne peut être vérifié. À de nombreuses reprises, le Dr Sadler m'a dit qu'il ne savait pas comment la matérialisation s'effectuait. Presque tout ce qui est connu sur l’origine du _Le Livre d’Urantia_, m'a-t-il assuré, se trouve dans le livre.
 
 Le Dr Sadler a engagé des experts en écriture pour déterminer l’origine de ces documents. Les experts lui ont assuré qu'il ne s'agissait pas de l’écriture manuscrite de la personnalité contact ou de celles associées à cette personne.
 

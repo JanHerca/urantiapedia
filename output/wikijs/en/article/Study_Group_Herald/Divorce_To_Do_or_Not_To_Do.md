@@ -51,7 +51,7 @@ The more I read, the more I wanted to share it with others. I ventured out to me
 
 The study I did in my quiet time was wonderful, but I wanted to have interaction with other readers. I had met several people with whom I could discuss the concepts of _The Urantia Book_ in a fulfilling way and I wanted to be with them.
 
-The craving to study _The Urantia Book_ changed my life and $I$ eventually became more involved in a study group.
+The craving to study _The Urantia Book_ changed my life and I eventually became more involved in a study group.
 
 I met a man who was kind, intelligent, interesting and had a good background in religion. He knew the Bible well and liked reading _The Urantia Book_. You can imagine the consequences of this situation.
 

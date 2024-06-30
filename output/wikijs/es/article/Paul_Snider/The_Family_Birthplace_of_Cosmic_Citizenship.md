@@ -171,7 +171,7 @@ Esa historia ha inspirado a toda nuestra familia durante 30 años. Cuando los ti
 
 Esta es una acción porque normalmente hay que trabajar en ello. No se te viene a la cabeza de forma natural como primera respuesta, a menos que te hayas vuelto muy espiritual.
 
-No juzgar significa que debemos ser cautelosos a la hora de emitir juicios sobre otras personas, especialmente sobre sus motivos. Estoy $m$ seguro de que todos nosotros, en un momento u otro, nos hemos visto acusados de motivos que eran exactamente lo contrario de lo que estábamos pensando. Entonces todos entendemos el peligro social.
+No juzgar significa que debemos ser cautelosos a la hora de emitir juicios sobre otras personas, especialmente sobre sus motivos. Estoy seguro de que todos nosotros, en un momento u otro, nos hemos visto acusados de motivos que eran exactamente lo contrario de lo que estábamos pensando. Entonces todos entendemos el peligro social.
 
 Ser crítico es ser rápido para condenar, rápido para asignar motivos, rápido para asumir una moralidad superior; rápido para chismear, rápido para desconfiar. Creo que todos podemos imaginar que la vida en el cosmos no puede desarrollarse sobre esta base. Por lo tanto, es mejor que comencemos a aprender la lección ahora, que comencemos a darle un alto valor a la _precisión_. Dar a otros el beneficio de la duda. Abordar situaciones de la vida con una actitud sin prejuicios.
 

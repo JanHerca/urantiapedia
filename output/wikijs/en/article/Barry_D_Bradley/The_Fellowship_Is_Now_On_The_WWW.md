@@ -60,7 +60,7 @@ Following is a sampling of responses from those on the Internet:
 
 “Please give me information on who wrote _The Urantia Book_, where it was found and in what language was the original written.”
 
-“I am amazed to find _The Urantia Book_ on the Interet. I had no idea there would be such a thing on the subject of salvation. I was just handed this big blue book by a friend of mine years ago with little or no attachment as to whether or not I looked at it. I read the life of Jesus and was taken by it literally. That was over five years ago. I would like to find a compelling reason to get back to it.” $u$
+“I am amazed to find _The Urantia Book_ on the Interet. I had no idea there would be such a thing on the subject of salvation. I was just handed this big blue book by a friend of mine years ago with little or no attachment as to whether or not I looked at it. I read the life of Jesus and was taken by it literally. That was over five years ago. I would like to find a compelling reason to get back to it.” 
 
 
 

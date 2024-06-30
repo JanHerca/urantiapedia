@@ -63,7 +63,7 @@ Le christianisme hellénisé et paganisé s'est développé rapidement, au moins
 
 ## Sous l'Empire romain
 
-L'Empire romain n'avait pas de Dieu satisfaisant pour son culte et son unification spirituelle, c'est pourquoi il avait ce vide que le christianisme est venu combler, qui, d'autre part, a accepté l'empire. Cet Empire romain a réalisé quelque chose qui n'avait jamais été réalisé auparavant : différentes races $y$ nations ont accepté la même religion.
+L'Empire romain n'avait pas de Dieu satisfaisant pour son culte et son unification spirituelle, c'est pourquoi il avait ce vide que le christianisme est venu combler, qui, d'autre part, a accepté l'empire. Cet Empire romain a réalisé quelque chose qui n'avait jamais été réalisé auparavant : différentes races et nations ont accepté la même religion.
 
 Le deuxième siècle a été la meilleure période pour qu’une religion progresse dans le monde occidental. Peut-être était-il trop tard pour empêcher le déclin moral de l’Empire romain ou sa détérioration raciale croissante, même si nous nous demandons ce qui se serait passé si, au lieu du christianisme grec, Rome et le monde avaient accepté le véritable évangile du royaume.
 

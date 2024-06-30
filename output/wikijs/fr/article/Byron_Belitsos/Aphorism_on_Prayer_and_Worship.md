@@ -54,7 +54,7 @@ La consécration de la volonté signifie une volonté de discerner continuelleme
 
 « _Les mots n'ont pas d'importance pour le praver..._ » (<a id="a54_57"></a>[LU 91:8.12](/fr/The_Urantia_Book/91#p8_12)) « Heureux l'esprit qui atteint l'informe parfaite au moment de la prière. »[^3]
 
-« Ils demandèrent à l'abbé Macaire : Comment doit-on prier ? Le vieil homme répondit : Il n'est pas nécessaire de perdre du temps avec des mots ; il suffit de nous tenir la main et de dire : « Seigneur, selon ton désir et selon ta sagesse, fais miséricorde au lièvre. » [^4] « Et cet enseignement de $M$ lacarius, l'un des premiers professeurs de prière « pure » dans la tradition désertique du christianisme, qui est à l'origine du développement de la « Prière de Jésus » au sein des hésychastes. tradition.
+« Ils demandèrent à l'abbé Macaire : Comment doit-on prier ? Le vieil homme répondit : Il n'est pas nécessaire de perdre du temps avec des mots ; il suffit de nous tenir la main et de dire : « Seigneur, selon ton désir et selon ta sagesse, fais miséricorde au lièvre. » [^4] « Et cet enseignement de Macarius, l'un des premiers professeurs de prière « pure » dans la tradition désertique du christianisme, qui est à l'origine du développement de la « Prière de Jésus » au sein des hésychastes. tradition.
 
 La prière fidèle vide finalement le cœur de toutes préoccupations et même de toutes pensées, pour qu'il soit rempli de communion avec l'Un. Une fois que l’enfant a demandé tout ce qu’elle veut, une fois qu’elle a confié tous ses désirs à son père, son esprit est prêt à le contempler avec un respect silencieux. Dans la première tradition hésychaste, on fait simplement appel à la présence de Jésus pour qu'elle entre silencieusement dans son cœur, continuellement : [^5]
 

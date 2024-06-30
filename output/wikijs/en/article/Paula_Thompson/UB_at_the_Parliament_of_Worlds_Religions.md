@@ -44,7 +44,7 @@ As a matter of fact, the Baha'i faith made its debut at the 1893 Parliament. A c
 
 Speaking only in terms of outreach, it is literally true that nearly every major faith in the world has become aware of _The Urantia Book_ in some way as a result of this event. Many who came representing other faiths made it known to us that they also read and believe _The Urantia Book_.
 
-The experience was nothingless than magical. By the second day I quit saying,“That's an interesting coincidence,” and just relished in the joy of being wholly led by the spirit and the angels. . imagined the angels rejoicing for this great blending of faiths. I felt their satisfaction for a job well done, and I beheld their work in a way that $I$ have never before witnessed.
+The experience was nothingless than magical. By the second day I quit saying,“That's an interesting coincidence,” and just relished in the joy of being wholly led by the spirit and the angels. . imagined the angels rejoicing for this great blending of faiths. I felt their satisfaction for a job well done, and I beheld their work in a way that I have never before witnessed.
 
 Those of us who were there representing _The Urantia Book_ all shared a similar sense of heightened celestial guidance. We never had to worry about meeting each other for meals or plenary sessions. Our group would effortlessly end up sitting in the same row. At meals our group would share stories of our daily encounters, which even we found hard to believe at times.
 

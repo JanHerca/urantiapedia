@@ -48,7 +48,7 @@ Y en segundo lugar: «Hay muchas cosas sobre la aparición de los Documentos de 
 
 Durante la investigación de este fenómeno, el Dr. Sadler consultó a hombres como Howard Thurston, el renombrado artista de prestidigitación que dedicó un tiempo considerable a exponer a médiums y psíquicos fraudulentos. También conversó con Sir Hubert Wilkens, el destacado científico y explorador involucrado en la investigación de fenómenos psíquicos. Coincidieron en que los fenómenos relacionados con este individuo no podían clasificarse con otros tipos de fenómenos psíquicos, como la escritura automática, la telepatía, la clarividencia, los trances, la canalización o la doble personalidad.
 
-Ha habido varias conjeturas sobre quién pudo haber sido la personalidad de contacto, pero no se puede verificar nada. En numerosas ocasiones, el Dr. Sadler me dijo que no sabía cómo se logró la materialización. Casi todo lo que se sabe sobre el origen de _El Libro de Urantia_, aseguró $m e$, se encuentra dentro del libro.
+Ha habido varias conjeturas sobre quién pudo haber sido la personalidad de contacto, pero no se puede verificar nada. En numerosas ocasiones, el Dr. Sadler me dijo que no sabía cómo se logró la materialización. Casi todo lo que se sabe sobre el origen de _El Libro de Urantia_, me aseguró, se encuentra dentro del libro.
 
 El Dr. Sadler contrató a expertos en caligrafía para determinar el origen de estos documentos. Los peritos le aseguraron que no se trataba de la letra de la personalidad de contacto ni de personas asociadas a esta persona.
 

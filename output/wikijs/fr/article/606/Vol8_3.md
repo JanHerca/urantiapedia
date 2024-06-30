@@ -79,7 +79,7 @@ Dans cette deuxième partie, il cite certains chefs religieux d'Asie et termine 
 
 Partie II
 
-Je ne crois pas avoir besoin de citer _Le Livre d'URANTIA_ sur ce qu'il enseigne comme le défi religieux de notre $8 g e$, mais j'aimerais citer un certain nombre d'éminents chefs religieux d'Asie présentant leurs pensées et leurs idéaux au Conférence asiatique sur la religion et la paix :
+Je ne crois pas avoir besoin de citer le _Livre d'URANTIA_ sur ce qu'il enseigne comme défi religieux de notre époque, mais j'aimerais citer un certain nombre d'éminents chefs religieux d'Asie présentant leurs pensées et leurs idéaux au Conférence asiatique sur la religion et la paix :
 
 « Ce n’est pas grâce à la puissance des systèmes de sécurité militaire que la véritable sécurité peut être assurée en Asie ; ce n’est que grâce à l’unité spirituelle des peuples religieux d’Asie que cet objectif peut être atteint.
 

@@ -51,7 +51,7 @@ Aux États-Unis, contrairement à de nombreuses autres confessions religieuses, 
 
 > _Aux États-Unis, les communautés chrétiennes orthodoxes ont de plus en plus de membres, contrairement à de nombreuses autres confessions religieuses, maintenant qu'elles émergent de leur appartenance ethnique du vieux monde. Il existe également un mouvement important de convertis du protestantisme vers l’orthodoxie._
 
-Les érudits et les journalistes accordent également davantage d’attention à l’Orthodoxie. Le best-seller $A$ History of God de Karen Armstrong (Knopf, 1993) accorde un traitement particulièrement sympathique à la tradition. Selon un article du _Utme Reader_ sur la renaissance actuelle de l'Orthodoxie, Armstrong note que l'Orthodoxie « est enracinée dans le mystère et le paradoxe, plutôt que dans des choses à faire et à ne pas faire légalistes... L'Orthodoxie orientale a une riche tradition de pratique mystique qu'Armstrong fait référence au « Yoga chrétien ».[^2]
+Les érudits et les journalistes accordent également davantage d’attention à l’Orthodoxie. Le best-seller A History of God de Karen Armstrong (Knopf, 1993) accorde un traitement particulièrement sympathique à la tradition. Selon un article du _Utme Reader_ sur la renaissance actuelle de l'Orthodoxie, Armstrong note que l'Orthodoxie « est enracinée dans le mystère et le paradoxe, plutôt que dans des choses à faire et à ne pas faire légalistes... L'Orthodoxie orientale a une riche tradition de pratique mystique qu'Armstrong fait référence au « Yoga chrétien ».[^2]
 
 ## Le Livre d'Urantia est-il protestant ?
 

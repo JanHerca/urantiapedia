@@ -190,7 +190,7 @@ Fort Wayne, Indiana, USA
 
 ## First Australian Urantia Book Booth
 
-The Perth Study Group wishes to announce the first Australian URANTIA Book Booth at the 1987 Matilda Festival, Perry Lakes Parkland — Friday $23 r d$ to Monday 26th of January.
+The Perth Study Group wishes to announce the first Australian URANTIA Book Booth at the 1987 Matilda Festival, Perry Lakes Parkland — Friday 23rd to Monday 26th of January.
 
 The Perth Study Group, es the organizer of _The URANTIA Book_ Booth, will occupy a 15 x 15 feet tent in the festival's Squatter's Square; an area devoted to... “community, hobby, collector's, museums, tourists, sporting, educational, spiritual, and philosophical groups and displays.”
 

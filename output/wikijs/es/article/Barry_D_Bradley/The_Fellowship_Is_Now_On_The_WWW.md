@@ -61,7 +61,7 @@ A continuación se muestra una muestra de respuestas de quienes están en Intern
 
 «Por favor, dame información sobre quién escribió _El Libro de Urantia_, dónde se encontró y en qué idioma se escribió el original».
 
-«Me sorprende encontrar _El Libro de Urantia_ en Internet. No tenía idea de que existiría tal cosa sobre el tema de la salvación. Un amigo mío me acaba de entregar este gran libro azul hace años con poco o ningún apego a si lo miré o no. Leí la vida de Jesús y me sentí tomado literalmente. Eso fue hace más de cinco años. Me gustaría encontrar una razón convincente para volver a ello». $u$
+«Me sorprende encontrar _El Libro de Urantia_ en Internet. No tenía idea de que existiría tal cosa sobre el tema de la salvación. Un amigo mío me acaba de entregar este gran libro azul hace años con poco o ningún apego a si lo miré o no. Leí la vida de Jesús y me sentí tomado literalmente. Eso fue hace más de cinco años. Me gustaría encontrar una razón convincente para volver a ello». 
 
 
 

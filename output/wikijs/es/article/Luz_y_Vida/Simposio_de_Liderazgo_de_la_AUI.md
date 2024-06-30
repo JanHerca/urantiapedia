@@ -63,7 +63,7 @@ El domingo por la mañana, el último día de nuestras actividades, sentíamos n
 
 Primero de todo quiero mostrar mi agradecimiento a Olga, por todas las molestias que se ha tomado conmigo (que han sido muchas) tanto en el papeleo necesario, como guía en los aeropuertos, como traductora durante el evento y varias cosas más. A su lado es muy fácil viajar, no sé como hubiera ido todo sin ella a mi lado... gracias de corazón.
 
-Debo felicitar a la AUI por la elección del lugar donde se desarrolló el simposio... a $30 Km$. de Chicago se encontraba  Techny Towers, un centro de retiro  espiritual que me encantó. La frondosidad  del lugar me hizo sentir como en casa desde el  primer momento... tranquilidad y buena compañía era lo que necesitaba.
+Debo felicitar a la AUI por la elección del lugar donde se desarrolló el simposio... a 30 Km. de Chicago se encontraba  Techny Towers, un centro de retiro  espiritual que me encantó. La frondosidad  del lugar me hizo sentir como en casa desde el  primer momento... tranquilidad y buena compañía era lo que necesitaba.
 
 Desde el primer momento, todos comenzamos a fraternizar. El idioma no fue ningún obstáculo  insalvable, pues hubo muchos hermanos que ejercieron el rol de traductores, incluso sin ellos encontrábamos la manera de comunicarnos. En total debíamos ser unas 150 personas ... era emocionante, diferentes razas, diferentes culturas, diferentes idiomas pero todos unidos y compartiendo experiencias durante esos días. Españoles solo estábamos cuatro: Olga, Mariano, su esposa Blanca y yo... pero creo que dejamos el pabellón alto, sobretodo en el improvisado «karaoke» del sábado noche, ja, ja.
 

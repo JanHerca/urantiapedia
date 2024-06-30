@@ -123,7 +123,7 @@ Nous avons quelque chose qui est un don : la personnalité, qui reste inchangée
 
 À l’heure actuelle, nous disposons d’un corps matériel, ou véhicule électrochimique de vie, qui soutient ce qui nous constitue en tant que partie de nous-mêmes.
 
-Nous avons un autre don de l’Esprit Infini qui est le Mental, qui nous permettra d’être une partie active de la réalité. $Y$, bien sûr, sachez que nous possédons et utilisons notre libre arbitre.
+Nous avons un autre don de l’Esprit Infini qui est le Mental, qui nous permettra d’être une partie active de la réalité. Et, bien sûr, sachez que nous possédons et utilisons notre libre arbitre.
 
 Nous avons un don spirituel divin (l'Ajusteur) qui est un fragment du Père Universel Lui-même, résidant en nous, dans notre esprit. Il est appelé à faire partie de nous-mêmes dans le futur. L'Esprit matériel et l'entité spirituelle (Ajusteur) qui habite en nous, alors que nous faisons la volonté du Père et vivons des expériences religieuses, commencent à faire exister quelque chose qui n'est ni matériel ni spirituel : L'ÂME d'une nouvelle nature (morontia) qui est, avec la personnalité, ce qui est destiné à la survie.
 
