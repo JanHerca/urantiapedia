@@ -33,12 +33,12 @@ A series by Dr. Ken Glasziou, 1996
 ## Index
 
 - [Part I: Introduction — Expectations](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/1)
-- ["Let There Be Light" — A Cosmic Overview](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/1#let-there-be-lighta-cosmic-overview)
 - [Part II: Urantia Book Statements that may fill Missing Information Gaps](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/2)
 - [Part III: Who Wrote The Urantia Papers?](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/3)
 - [Part IV: Science Topics of Interest in the Urantia Papers](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/4)
 - [Part V: Contentious Materials](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/5)
 - [Part VI: An Index of Archaeological and Historical Information found in Part IV of The Urantia Book](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/6)
+- [Some Conclusions](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/7)
 
 
 ## External links
