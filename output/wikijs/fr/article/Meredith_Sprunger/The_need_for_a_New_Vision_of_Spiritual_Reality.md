@@ -38,7 +38,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 La théologie contemporaine reconnaît à bien des égards la nécessité d’une vision plus pertinente de la réalité spirituelle. Le Dr Walter Brueggemann, professeur d'Ancien Testament au Columbia Theological Seminary, a publié un article intéressant et perspicace dans le numéro d'octobre 1995 de _Theology Today_ intitulé « Preaching as Reimagination ». Parmi les seize thèses qu’il présente et développe figurent les suivantes :
 
 - _Notre situation de prédication a changé, car on ne fait plus confiance aux anciens modes absolus de l'Église._
-- _ Parallèlement à l'échec des anciens modes d'articulation, nous sommes aujourd'hui confrontés à l'insuffisance de la compréhension historico-critique du texte biblique tel qu'il a été traditionnellement pratiqué._
+- _Parallèlement à l'échec des anciens modes d'articulation, nous sommes aujourd'hui confrontés à l'insuffisance de la compréhension historico-critique du texte biblique tel qu'il a été traditionnellement pratiqué._
 - _Nous savons maintenant (ou pensons savoir) que la transformation humaine (la façon dont les gens changent) ne se produit pas par le didactisme ou par une certitude excessive mais par le divertissement ludique d'une autre écriture de la réalité qui peut subvertir l'ancien texte donné et son interprétation et conduire à l'adoption d'un texte alternatif et à sa redescription de la réalité._
 - _L'invitation de la prédication (un peu comme la thérapie) est d'abandonner le scénario dans lequel on a eu confiance et d'entrer dans un scénario différent qui raconte différemment sa vie de manière imaginative._
 

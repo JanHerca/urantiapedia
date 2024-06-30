@@ -57,7 +57,7 @@ Dans _Une passion pour le possible : un message pour les églises américaines_,
 
 Tout livre qui contient les idées et les vérités spirituelles du _Livre d'Urantia_ mérite une lecture et une évaluation approfondies par les hommes et les femmes pensants d'aujourd'hui. Puissiez-vous avoir le courage de lire et d'étudier ce grand livre.
 
-> _Irène Sprunger est une lectrice de longue date du _Le Livre d'Urantia_. Elle est l'épouse de Meredith Sprunger, rédactrice en chef du Journal de la Fraternité Spirituelle, et siège à son conseil consultatif.
+> _Irène Sprunger est une lectrice de longue date du_ Le Livre d'Urantia. _Elle est l'épouse de Meredith Sprunger, rédactrice en chef du Journal de la Fraternité Spirituelle, et siège à son conseil consultatif._
 {.is-info}
 
 

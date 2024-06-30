@@ -143,7 +143,7 @@ Une tentative notable d’inscrire des systèmes aussi complexes dans une nouvel
 
 Notre pensée influence directement notre corps dans la mise en œuvre de nos intentions. Selon Peacocke, cela est à peu près analogue à la façon dont Dieu interagit avec le monde. La principale différence est que le « je » de la subjectivité personnelle, par définition, ne transcende pas ontologiquement notre corps, alors que la subjectivité de Dieu, par définition, transcende le monde naturel. Il est à noter que Peacocke parle de l'action personnelle de Dieu en termes d'influence « centrée » :
 
-> Lorsque nous agissons en tant qu'agents personnels, il existe une contrainte unificatrice, unificatrice et **centrée** sur l'activité de nos corps humains.... Dieu est ici conçu [aussi] comme un être unificateur, unificateur et **centrant. ** influence sur les événements dans le monde. [^8] [C'est nous qui soulignons]
+> Lorsque nous agissons en tant qu'agents personnels, il existe une contrainte unificatrice, unificatrice et **centrée** sur l'activité de nos corps humains.... Dieu est ici conçu [aussi] comme un être unificateur, unificateur et **centrant.** influence sur les événements dans le monde. [^8] [C'est nous qui soulignons]
 
 Pour Peacocke, le monde est « en » Dieu ; Dieu transcende la nature, mais agit sur elle comme une influence centrée et unificatrice – et en un certain sens, il en est le centre. En gardant cela à l'esprit, comment pouvons-nous concevoir Dieu comme étant d'une manière ou d'une autre « dans » chaque partie du cosmos tout en étant pleinement transcendant d'une manière ressemblant peut-être au modèle de Peacocke ?
 
