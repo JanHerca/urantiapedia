@@ -38,7 +38,7 @@ Les commandes les plus importantes de l'éditeur visuel sont présentées dans l
     - Italique (<kbd>CTRL</kbd> + <kbd>I</kbd>)
     - Souligné (<kbd>CTRL</kbd> + <kbd>U</kbd>)
     - Barré (<kbd>CTRL</kbd> + <kbd>MAJ</kbd> + <kbd>X</kbd>)
-    - Indice
+    - Index
     - Exposant
     - Marquer le texte avec des couleurs / Effacer le balisage
     - Alignement du texte

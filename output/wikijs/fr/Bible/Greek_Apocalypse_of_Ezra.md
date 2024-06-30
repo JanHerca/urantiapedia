@@ -44,7 +44,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 116-117
 
 ME Stone écrit : « La dépendance de l'écriture sur (vraisemblablement la version grecque de) 4 Esdras et son caractère chrétien indiquent une date dans le premier millénaire. Si Jacques a raison et qu'il s'agit de l'écriture mentionnée dans le Canon de Nicéphore (vers 850 après JC), alors une date comprise entre 150 et 850 après JC est probable. Sa provenance ne peut être discernée. (_Le Pseudepigrapha de l'Ancien Testament_, vol. 1, p. 563)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Greek_Apocalypse_of_Ezra/1)
 - [Chapitre 2](/fr/Bible/Greek_Apocalypse_of_Ezra/2)

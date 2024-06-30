@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_uf_news_online" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/urantia%20foundation%20news%20online" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -46,7 +46,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_uf_newsflash" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/newsflash" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -67,7 +67,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_uf_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/urantian%20news" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -94,7 +94,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/fellowship%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -115,7 +115,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_mighty_messenger" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/mighty%20messenger" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -136,7 +136,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_study_group_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/study%20group%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -157,7 +157,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_the_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/the%20urantian" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -227,7 +227,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_innerface" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/innerface%20international" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -254,7 +254,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_spiritual_fellowship_journal" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/the%20spiritual%20fellowship%20journal" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -281,7 +281,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_luz_y_vida" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/luz%20y%20vida" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>
@@ -326,7 +326,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/index/articles_606" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Indice</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 				<a href="/t/6-0-6" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Recherche</strong></div></span>

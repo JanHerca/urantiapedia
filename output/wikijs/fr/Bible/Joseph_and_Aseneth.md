@@ -36,7 +36,7 @@ Chr. Burchard écrit : « JosAsen semble être originaire de la diaspora juive d
 
 James Charlesworth écrit : « Que Joseph et Asenath soient une œuvre chrétienne du Ve siècle, basée sur un écrit juif, est une conclusion datée (P. Batiffol, _Le Livre de la Prière d'Asénath_ \[Studia Patristica 1-2\] Paris : Leroux, 1889-1890). Qu'il s'agisse d'une composition juive du début, peut-être de la fin du premier siècle après JC, est une perspective contemporaine (cf. C. Burchard, _Untersuchungen zu Joseph und Aseneth_ \[WUNT 8\] Tübingen : Mohr, 1965 ; voir en particulier pp. 148- 51 ; Philonenko, n° 1003 ; A.-M. Denis, n° 24, pp. 40-48). La plupart des chercheurs soutiennent aujourd'hui que la langue originale est le grec (Burchard, _Untersuch_., pp. 91-99 ; Philonenko, n° 1003, pp. 27-32). Les parallèles avec les manuscrits de la mer Morte ont évoqué la possibilité d'une influence des Esséniens, ou plus probablement des Thérapeutes ; certains chercheurs affirment une relation (P. Riessler, n° 62, p. 1303 ; KG Kuhn dans _The Scrolls and the New Testament_, éd. K. Stendhal. New York : Harper, 1957 ; pp. 75f. ; M. Delcor, 'Un roman d'amour d'origine thérapeute : le livre de Joseph et Asénath,' _BLE_ 63 \[1962\] 3-27); d'autres le nient (Philonenko, n° 1003, p. 105 ; Burchard, _Untersuch_., pp. 107-12). (_Le Pseudépigraphe et la Recherche Moderne_, p. 137)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Joseph_and_Aseneth/1)
 - [Chapitre 2](/fr/Bible/Joseph_and_Aseneth/2)

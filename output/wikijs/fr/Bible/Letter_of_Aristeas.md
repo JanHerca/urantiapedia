@@ -62,7 +62,7 @@ La structure de ce travail passionnant est la suivante :
 8. Le banquet (72 questions et réponses).
 9. La traduction du Livre.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Letter_of_Aristeas/1)
 - [Chapitre II](/fr/Bible/Letter_of_Aristeas/2)

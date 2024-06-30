@@ -43,7 +43,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 123-124
 
 WF Stinespring écrit : « Il y a des éléments chrétiens prononcés dans le Testament d'Isaac tel qu'il se présente aujourd'hui, et dans sa forme actuelle, il a pour fonction de souligner l'état de la mort d'Abraham et d'Isaac tel que commémoré dans l'Église copte. Il serait ainsi possible de considérer l’œuvre comme issue de l’Église chrétienne copte. La christianisation n’est cependant pas approfondie et il semble plus probable que la composition originale soit un produit du judaïsme égyptien. (_Le Pseudepigrapha de l'Ancien Testament_, vol. 1, p. 904)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Testament_of_Isaac/1)
 - [Chapitre 2](/fr/Bible/Testament_of_Isaac/2)

@@ -39,7 +39,7 @@ Ils manquent étrangement d’allusions historiques. Leur éclat n’est pas le 
 
 Pour ces éblouissantes odes mystérieuses, nous devons notre traduction à J. Rendel Harris, M.A., Hon. Membre du Clare College de Cambridge. Il dit à leur sujet : « Il ne semble y avoir rien sur lequel tout le monde semble être d’accord, sauf que les Odes sont d’une beauté singulière et d’une haute valeur spirituelle. »
 
-## Indice
+## Index
 
 - [Ode 1](/fr/Bible/The_Odes_of_Solomon/1)
 - [Ode 2](/fr/Bible/The_Odes_of_Solomon/2)

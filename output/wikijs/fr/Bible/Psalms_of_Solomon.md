@@ -41,7 +41,7 @@ Plus tard, ils se sont perdus pour des raisons inexplicables ; et n'ont été r�
 
 Outre la valeur littéraire du rythme de trompette de ces vers, nous avons ici un chapitre d’une histoire ancienne émouvante écrit par un témoin oculaire. Pompée vient de l'Ouest. Il utilise des béliers sur les fortifications. Ses soldats profanent l'autel. Il est tué en Egypte après une carrière effroyable. Dans le « juste » de ces psaumes, nous voyons les pharisiens ; dans les « pécheurs », nous voyons les Sadducéens. C’est l’épopée d’un grand peuple en proie à une grande crise.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Psalms_of_Solomon/1)
 - [Chapitre II](/fr/Bible/Psalms_of_Solomon/2)

@@ -34,7 +34,7 @@ _Tiré de « The Old Testament Pseudepigrapha, Volume 2 », James H. Charleswort
 
 DA Fiensy écrit : « Dans la liturgie chrétienne des Livres Sept et Huit des _Constitutions Apostoliques_ se trouvent seize prières qui peuvent être des vestiges de prières synagogales juives. Les prières louent les actes de Dieu dans la création et l'histoire et exaltent les attributs de Dieu dans des termes qui rappellent souvent philosophie hellénistique. Certaines prières ont des fonctions plus spécifiques : la prière 5 explique et défend l'observance du sabbat, et la prière 16 invoque la miséricorde de Dieu sur ceux qui sont morts. (_Le Pseudepigrapha de l'Ancien Testament_, vol. 2, p. 671)
 
-## Indice
+## Index
 
 - [Prière 1](/fr/Bible/Hellenistic_Synagogal_Prayers/1)
 - [Prière 2](/fr/Bible/Hellenistic_Synagogal_Prayers/2)

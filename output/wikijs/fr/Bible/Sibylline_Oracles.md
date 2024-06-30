@@ -36,7 +36,7 @@ Il y a très peu de connaissances sur le contenu réel des livres sibyllins orig
 
 Comme prophétie, les pseudo-sibyllines ne s'élèvent jamais au niveau de Nostradamus. Cependant, ils constituent une mine d’or pour les étudiants en mythologie classique et dans les croyances juives, gnostiques et chrétiennes du début du premier millénaire. Il convient de noter les passages apocalyptiques dispersés qui ressemblent parfois à une première ébauche du livre biblique de l'Apocalypse. Les pseudo-sibyllines ont été référencées par les premiers pères de l'Église et, dans un cas, ont une phrase de code chrétienne en premières lettres successives sur chaque ligne (un « acrostiche »). Ces livres, malgré leur contenu païen, ont été décrits comme faisant partie des Apocryphes, bien qu'ils n'apparaissent sur aucune des listes canoniques.
 
-## Indice
+## Index
 
 - [Préface](/fr/Bible/Sibylline_Oracles/Preface)
 - [Livre I](/fr/Bible/Sibylline_Oracles/1)

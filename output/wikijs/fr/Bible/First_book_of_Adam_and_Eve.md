@@ -61,7 +61,7 @@ Livre I. Les carrières d'Adam et Ève, depuis le jour où ils ont quitté l'Ede
 
 Livre IL L'histoire des patriarches qui vécurent avant le Déluge ; la demeure des enfants de Seth sur la montagne sainte, le mont Hermon, jusqu'à ce qu'ils soient attirés par Henun et par les filles de Caïn, pour qu'ils descendent de la montagne. La mort de Caïn, tué par Lémec l'aveugle ; et la vie des autres patriarches jusqu'à la naissance de Noé.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/First_book_of_Adam_and_Eve/1)
 - [Chapitre II](/fr/Bible/First_book_of_Adam_and_Eve/2)

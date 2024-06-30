@@ -40,7 +40,7 @@ Le cadre des observations dans les chambres de torture est implacable. Pour nos 
 
 Les anciens Pères de l'Église chrétienne ont soigneusement préservé ce livre (nous le tenons d'une traduction syrienne) comme un ouvrage de haute valeur morale et d'enseignement, et il était sans aucun doute familier à beaucoup des premiers martyrs chrétiens, qui étaient excités au point de martyre en le lisant.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/4_Maccabees/1)
 - [Chapitre II](/fr/Bible/4_Maccabees/2)

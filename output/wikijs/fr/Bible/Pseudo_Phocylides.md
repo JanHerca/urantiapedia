@@ -40,7 +40,7 @@ PW van der Horst écrit : « Ps-Phoc. utilise environ 30 mots (ou formes de mots
 
 PW van der Horst poursuit : « Les preuves cumulatives semblent privilégier une date comprise entre 50 avant JC et 100 après JC. De plus, si l'on prend en compte le fait que le poème a probablement été écrit à Alexandrie (voir ci-dessous), alors on peut suggérer que le La date la plus probable de son origine se situe dans la période pendant laquelle les relations entre Juifs et Grecs à Alexandrie n'étaient pas trop tendues. Dans la période particulière considérée, cela signifie les règnes des deux empereurs Auguste (30 avant JC-14 après JC) et Tibère (14-37 après JC). Il est difficile d’imaginer qu’après les pogroms anti-juifs d’Alexandrie sous le règne de Caligula (37-41 après J.-C.), un juif alexandrin ait pu maintenir une telle ouverture à l’égard de la culture païenne. Par conséquent, la date la plus probable semble se situer quelque part entre, disons, 30 avant JC et 40 après JC. Inutile de dire que cela ne signifie pas qu'une autre datation soit impossible. Mais c’est dans cette hypothèse que les caractéristiques du poème peuvent être mieux expliquées. (_Les phrases des pseudo-phocylides_, p. 82)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Pseudo_Phocylides/1)
 

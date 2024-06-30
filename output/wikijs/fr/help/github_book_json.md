@@ -61,7 +61,7 @@ La structure des fichiers JSON est la suivante :
 
 ```json
 {
-    "paper_index": "<indice papier, 0 à 196>",
+    "paper_index": "<index papier, 0 à 196>",
     "sections": [
         {
             "section_index": "<index de section, 0 si existe jusqu'à N>",

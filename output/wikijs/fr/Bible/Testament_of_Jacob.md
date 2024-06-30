@@ -33,7 +33,7 @@ _Tiré de « The Old Testament Pseudepigrapha, Volume 1 », James H. Charleswort
 
 James Charlesworth écrit : « Le texte copte du Testament de Jacob est plus court que le Testament d'Isaac et semble être une extension midrashique de Genèse 47 :29-50 :26. Le Seigneur envoie l'archange Michel vers Jacob afin de lui demander de préparer son testament pour ses fils. Jacob accepte la volonté de Dieu, contrairement au Testament d'Abraham, et prie. L'ange retourne au ciel ; Jacob appelle ses fils, puis monte au ciel et rencontre une multitude de bourreaux. Jacob monte plus haut et voit Abraham et Isaac, qui sont pleins de vie et de joie, et de bonnes choses préparées pour les justes. (_Le Pseudépigraphe et la Recherche Moderne_, p. 132)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Testament_of_Jacob/1)
 - [Chapitre 2](/fr/Bible/Testament_of_Jacob/2)

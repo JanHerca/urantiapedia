@@ -53,7 +53,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 220-222
 
 O.S. Wintermute écrit : « Grâce aux arguments précédents, nous pouvons fixer la date de cet écrit quelque part entre 100 avant JC et 175 après JC. En commentant l'utilisation par l'auteur du Mont Séir dans 3 : 2, nous avons spéculé sur la période historique au cours de laquelle un tel contexte serait le plus susceptible de se produire, concluant que les motifs d'une tradition pro-Édomite peuvent avoir persisté jusqu'à la chute de Jérusalem en 70 après JC. Si l'auteur de ce texte est responsable de la tradition qui place la vision du voyant sur le mont Sier , alors il a probablement écrit avant 70 après JC. (_Le Pseudepigrapha de l'Ancien Testament_, vol. 1, pp. 500-501)
 
-## Indice
+## Index
 
 - [Texte intégral](/fr/Bible/Apocalypse_of_Zephaniah/1)
 

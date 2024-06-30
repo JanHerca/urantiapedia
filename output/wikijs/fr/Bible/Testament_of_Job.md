@@ -49,7 +49,7 @@ Russell P. Spittler écrit (_Outside the Old Testament_, pp. 232-233) :
 
 James Charlesworth écrit : « Certains érudits datent l'ouvrage du premier siècle avant JC (CC Torrey, _Apoc. Lit._, p. 145 ; RH Pfeiffer, _IB_ 1 \[1952\] 425) ; M. Delcor (n° 971) pense que 17 : 12-18 est une allusion claire à l'invasion parthe en Palestine vers 40 avant JC. Philonenko (n° 980), conclut cependant que ce pseudépigraphon vient du premier siècle après JC, peut-être les Thérapeutes en Egypte. HC Kee (n° 976) date également la composition du premier siècle après JC, mais soutient qu'elle est clairement liée au mysticisme de la Merkabah. (_Le Pseudépigraphe et la Recherche Moderne_, p. 135)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Testament_of_Job/1)
 - [Chapitre 2](/fr/Bible/Testament_of_Job/2)

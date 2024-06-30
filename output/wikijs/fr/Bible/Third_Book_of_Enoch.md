@@ -37,7 +37,7 @@ Le plus souvent, le Livre d'Enoch fait référence à 1 Enoch, qui n'a survécu 
 
 Le nom « 3 Enoch » a été inventé par Hugo Odeberg pour sa première édition critique de 1928. Le texte imprimé le plus ancien de 3 Enoch semble être le Derus Pirqe Hekalot. Il couvre 3 : 1-12 : 5 et 15 : 1-2, et il est daté par Arthur Ernest Cowley vers 1650.
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Third_Book_of_Enoch/1)
 - [Chapitre 2](/fr/Bible/Third_Book_of_Enoch/2)

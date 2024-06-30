@@ -646,7 +646,7 @@ Voir les emojis pris en charge sur [Emoji Cheat sheet](https://www.webfx.com/too
 Voir [comment modifier la sortie](https://github.com/markdown-it/markdown-it-emoji#change-output) avec twemoji.
 
 
-## Indice
+## Index
 
 ### Onglet {.tabset}
 
@@ -657,7 +657,7 @@ Utilisez un symbole **tilde simple** avant et après la sélection de texte.
 https://github.com/markdown-it/markdown-it-sub
 
 #### Raccourcis
-- Sélectionnez du texte, puis cliquez sur le bouton ![Indice](https://docs.requarks.io/assets/ui/ui-markdown-sub.png =x30){.radius-4} de la barre d'outils .
+- Sélectionnez du texte, puis cliquez sur le bouton ![Index](https://docs.requarks.io/assets/ui/ui-markdown-sub.png =x30){.radius-4} de la barre d'outils .
 
 #### Exemples
 

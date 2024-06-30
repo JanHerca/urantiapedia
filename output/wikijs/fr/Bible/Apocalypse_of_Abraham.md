@@ -33,7 +33,7 @@ _Extrait de « L'Apocalypse d'Abraham », par G.H. Box [1919]_
 
 « L'Apocalypse d'Abraham » est une œuvre pseudépigraphique (un texte dont la paternité revendiquée est incertaine) basée sur des récits d'Abraham beaucoup plus anciens tirés de la Bible hébraïque (ou de l'Ancien Testament chrétien). Probablement composé entre 70 et 150 de notre ère à partir d'écrits et de traditions antérieurs, il est d'origine juive et fait partie de la littérature apocalyptique populaire d'abord au début du judaïsme, puis au début du christianisme. Il n'a survécu que dans les anciennes recensions slaves et il n'est pas considéré comme une écriture faisant autorité par les Juifs ou les chrétiens, bien qu'il l'était autrefois par la secte Bogomil (aujourd'hui disparue).
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Apocalypse_of_Abraham/1)
 - [Chapitre 2](/fr/Bible/Apocalypse_of_Abraham/2)

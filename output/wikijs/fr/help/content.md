@@ -322,7 +322,7 @@ Chaque page dans *Urantiapedia* a à la fois un titre et une URL. Les titres peu
 	- *La Bible* : 'Bible'
 	- Autres livres : 'livre'
 	- Sujet : «sujet»
-	- Indice : 'indice'
+	- Index : 'index'
 	- Article : 'article'
 	- Image : «image»
 	- Présentation : «diapositives»

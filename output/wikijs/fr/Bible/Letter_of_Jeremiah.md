@@ -43,7 +43,7 @@ Marjorie L. Kimbrough écrit : « La Lettre de Jérémie a été écrite au cour
 
 Daniel J. Harrington écrit : « La Lettre de Jérémie n'est pas un rapport objectif rédigé par un professeur de religion comparée. Il s’agit plutôt d’une polémique partisane contre les croyances et pratiques religieuses des autres peuples. Il est écrit du point de vue d'un Juif dont la religion interdisait la représentation physique de Dieu (voir Exode 20 :4-5 ; Deut. 5 :8-9). Que l'auteur ait eu une expérience directe du « culte des idoles » ou qu'il ait dérivé ses descriptions des idoles et de leurs temples à partir de textes bibliques et de rumeurs populaires, il ne montre aucune sympathie pour les religions qui représentaient leurs dieux par des statues. Pour lui, le Dieu d’Israël est le seul vrai Dieu, et ce que les autres adorent comme des dieux sont des créations humaines. Rien n’indique de la part de l’auteur que les adeptes de ces idoles aient pu les considérer simplement comme des signes ou des représentations de leurs divinités. (_Invitation aux Apocryphes_, p. 104)
 
-## Indice
+## Index
 
 - [Chapitre 1](/Bible/Letter_of_Jeremiah/1)
 

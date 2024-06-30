@@ -45,7 +45,7 @@ Louis F. Hartman écrit : « En apparence, au moins, le but premier de l'histoir
 
 David A. deSilva écrit : « Il est difficile de déterminer la date de cette histoire. Bien que le nom de Daniel n'ait été inclus que plus tard, l'histoire elle-même résonne bien avec la condition des Juifs tout au long de la plupart des périodes perse et hellénistique. La communauté juive envisagée dans l’histoire jouit d’un haut niveau d’autonomie gouvernementale au sein de la domination des Gentils, ce qui était le cas de plusieurs communautés de la diaspora ainsi que de la Judée pendant une grande partie de la période intertestamentaire. La probabilité d'un original sémitique suggérerait également une provenance en Palestine ou dans la diaspora orientale. L'allusion à la supériorité d'une fille de Juda, qui a courageusement résisté à la contrainte des anciens, par rapport aux filles d'Israël (c'est-à-dire les tribus du nord), qui ont cédé aux anciens dans le passé, suggère que l'auteur se serait considéré comme un Judaïte (Collins 1993 : 438). » (_Présentation des Apocryphes_, p. 233)
 
-## Indice
+## Index
 
 - [Chapitre 1](/Bible/Susanna/1)
 

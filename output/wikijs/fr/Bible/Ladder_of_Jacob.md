@@ -33,7 +33,7 @@ _Tiré de « The Old Testament Pseudepigrapha, Volume 2 », James H. Charleswort
 
 James Charlesworth écrit : « La date, la provenance et la langue originale de cette œuvre n'ont pas fait l'objet de recherches. Le caractère juif et les similitudes avec l'Apocalypse d'Abraham, les Odes de Salomon, l'Évangile de Thomas et l'Épître de Barnabas soulèvent la possibilité qu'il ne s'agisse pas d'une composition médiévale des Slaves mais plutôt d'un pseudépigraphon du IIe siècle après JC. quatre et cinq peuvent faire référence respectivement à la destruction de Jérusalem et à la persécution sous Domitien. Une provenance palestinienne pourrait être reflétée dans l'accent mis sur la terre (chp. 1) et le choix d'un texte de base (en particulier Gen 28 : 13-15). C'est improbable (voir James, _LAOT_, pp. 102f. ; contraste A. Vassiliev, _Anecdota Graeco-Byzantina_. Moscou : Universitatis Caesareae, 1893. Vol. 1, pp. xxix f. ; et H. Weinel dans Gunkel Festchrift, pp. . 172f.) que l'Échelle de Jacob est identique aux Ascensions de Jacob (_anabathmoi Jakobou_) dont Épiphane (_Haer_. 30.16) a rapporté qu'elles étaient utilisées par les Ébionites. H. Weinel a soutenu que l'œuvre est une combinaison de traditions juives, gnostiques et chrétiennes (p. 173). (_The Pseudepigrapha and Modern Research_, pp. 130-131)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Ladder_of_Jacob/1)
 - [Chapitre 2](/fr/Bible/Ladder_of_Jacob/2)

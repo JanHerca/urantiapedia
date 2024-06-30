@@ -35,7 +35,7 @@ Dans 3 Macchabées, le roi Ptolémée IV Philopator tente d'entrer dans le Secon
 
 3 Les Macchabées sont considérés comme faisant partie de l'Anagignoskomena biblique (deutérocanon) dans l'Église orthodoxe orientale et dans certaines Églises orthodoxes orientales : l'Église apostolique arménienne, l'Église syriaque orthodoxe et l'Église assyrienne d'Orient. Les juifs, les catholiques et les protestants ne le considèrent pas comme canonique, bien que certains (les frères moraves par exemple) l'incluent dans la section apocryphe de leur Bible. La scission remonte aux canons apostoliques approuvés par le concile de l'Église orientale à Trullo en 692 après JC, mais rejetés par le pape Serge I de l'Église occidentale. Trullo a établi que les trois premiers livres des Macchabées étaient canoniques dans l'Église orientale chalcédonienne.
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/3_Maccabees/1)
 - [Chapitre 2](/fr/Bible/3_Maccabees/2)

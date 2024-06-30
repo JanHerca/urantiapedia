@@ -41,7 +41,7 @@ J. Alberto Soggin écrit : « Comme nous l'avons vu, le livre proto-canonique ne
 
 Daniel J. Harrington écrit : « L’Esther hébraïque est canonique pour les juifs et les protestants. Dans les églises catholique romaine et grecque et orthodoxe russe, la version grecque élargie avec les ajouts est la forme canonique. Le statut canonique d’Esther a été débattu dans l’Antiquité tant parmi les juifs que parmi les chrétiens. C'est le seul livre de la Bible hébraïque qui ne figure pas parmi les manuscrits de la mer Morte. En effet, la version grecque révisée et augmentée d’Esther a très probablement été produite pour rendre le livre plus acceptable. (_Invitation aux Apocryphes_, p. 53)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Additions_to_Esther/1)
 - [Chapitre 2](/fr/Bible/Additions_to_Esther/2)

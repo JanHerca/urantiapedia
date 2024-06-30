@@ -35,7 +35,7 @@ _Extrait du Livre de la Grotte aux Trésors, par EA Wallis Budge [1927]_
 
 L’œuvre a probablement été écrite à l’origine en syriaque. Des manuscrits existent en syriaque, arabe, karshuni, éthiopien, arménien, géorgien et grec. Le plus ancien manuscrit survivant est daté du IXe siècle et il semble y avoir trois recensions majeures du texte.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Testament_of_Adam/1)
 - [Chapitre II](/fr/Bible/Testament_of_Adam/2)

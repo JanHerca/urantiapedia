@@ -33,7 +33,7 @@ _Tiré des Livres oubliés d'Eden, par Rutherford H. Platt, Jr. [1926]_
 
 Il s’agit de la deuxième partie du « Livre d’Adam et Ève » également connu sous le nom de « Le conflit d’Adam et Ève avec Satan ». Voir la [Première partie](/fr/Bible/First_book_of_Adam_and_Eve) pour les commentaires.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Second_book_of_Adam_and_Eve/1)
 - [Chapitre II](/fr/Bible/Second_book_of_Adam_and_Eve/2)

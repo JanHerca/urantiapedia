@@ -35,7 +35,7 @@ L’« Évangile de l’enfance arménienne » est un évangile apocryphe de l�
 
 Selon une source arménienne, des missionnaires ont apporté des textes apocryphes, dont « L'Enfance du Seigneur », en Arménie en 590 après JC. La première utilisation connue de cet évangile fut celle de la philosophe arménienne Anania Shirakatsi. La syntaxe arménienne du document semble être basée sur une base sémitique, ce qui suggère que le document est très probablement une traduction arménienne d'un texte syriaque aujourd'hui perdu.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Armenian_Infancy_Gospel/1)
 - [Chapitre II](/fr/Bible/Armenian_Infancy_Gospel/2)

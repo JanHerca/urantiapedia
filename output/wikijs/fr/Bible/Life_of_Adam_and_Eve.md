@@ -41,7 +41,7 @@ Ils diffèrent grandement par leur longueur et leur formulation, mais semblent p
 Bien que les versions survivantes aient été composées entre le début du IIIe et le Ve siècle après J.-C., les unités littéraires de l'œuvre sont considérées comme plus anciennes et principalement d'origine juive. Il existe un large consensus parmi les érudits sur le fait que l’original a été composé dans une langue sémitique au 1er siècle après JC.
 
 
-## Indice
+## Index
 
 - [Apocalypse de Moïse](/en/Bible/Life_of_Adam_and_Eve/Apocalypse_of_Moses) (version grecque de la vie d'Adam et Ève)
 - [La vie latine d'Adam et Eve](/fr/Bible/Life_of_Adam_and_Eve/Latin_Life_of_Adam_and_Eve)

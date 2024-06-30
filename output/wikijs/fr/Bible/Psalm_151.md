@@ -34,7 +34,7 @@ Le « Psaume 151 » est un court psaume que l'on trouve dans la plupart des exem
 
 Les églises orthodoxe orientale, copte orthodoxe, apostolique arménienne et orthodoxe syrienne acceptent le Psaume 151 comme canonique. Les catholiques, les protestants et la plupart des juifs le considèrent comme apocryphe. On le retrouve cependant dans certaines Bibles catholiques, comme certaines éditions de la Vulgate latine, ainsi que dans certaines traductions œcuméniques, comme la version standard révisée. Le Psaume 151 est cité une fois dans la forme extraordinaire du bréviaire romain, en réponse à la série des livres des Rois, le deuxième dans le bréviaire romain, avec 1 Samuel 17 :37 (grec 1-2 Rois = trad. 1 –2 Samuel ; grec 3-4 Rois = trad. 1-2 Rois) dans un texte légèrement différent de celui de la Vulgate. Athanase d'Alexandrie mentionne ce psaume comme étant « spécialement le Psaume de David » et comme étant adapté aux occasions dans lesquelles, « si faibles que vous soyez, vous êtes choisis pour une position d'autorité parmi les frères ».
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Psaume_151/1)
 

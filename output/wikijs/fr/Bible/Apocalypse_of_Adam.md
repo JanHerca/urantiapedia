@@ -32,7 +32,7 @@ _De la bibliothèque de Nag Hammadi, par George W. MacRae [1926]_
 
 L'Apocalypse d'Adam est un écrit apocalyptique gnostique séthien. Il s'agit du cinquième traité du Codex V de la bibliothèque de Nag Hammadi, transcrit en copte. La date de l'œuvre originale a été un point de discorde entre chercheurs car l'écriture manque de thèmes chrétiens et d'autres allusions explicites. Ainsi, le rédempteur gnostique dans le texte pourrait avoir été préchrétien et avoir influencé les écrits ultérieurs du Nouveau Testament. Le texte fournit une interprétation du récit de la création dans la Genèse, décrit la descente d'un éclaireur céleste de la connaissance et se termine par une prophétie apocalyptique.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Apocalypse_of_Adam/1)
 

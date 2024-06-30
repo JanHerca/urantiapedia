@@ -33,7 +33,7 @@ _Tiré des Livres oubliés d'Eden, par Rutherford H. Platt, Jr. [1926]_
 
 Voir le commentaire dans le [livre du premier testament](/fr/Bible/Testament_of_Reuben)
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Testament_of_Simeon/1)
 - [Chapitre II](/fr/Bible/Testament_of_Simeon/2)

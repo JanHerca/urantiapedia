@@ -77,7 +77,7 @@ Le livre de Cotton est préfacé par ces informations :
 > Enfin, nous souhaitons que vous compreniez que nous avons copié le texte avec cette exactitude scrupuleuse, que nous n'avons pas changé même ce qui aurait facilement pu être modifié pour le mieux.
 
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/5_Maccabees/1)
 - [Chapitre 2](/fr/Bible/5_Maccabees/2)

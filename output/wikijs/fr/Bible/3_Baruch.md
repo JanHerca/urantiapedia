@@ -39,7 +39,7 @@ James Charlesworth écrit : « À l’exception de l’existence de deux version
 
 Leonhard Rost écrit : « Nous pouvons difficilement traiter l'œuvre dans sa forme originale. En premier lieu, 4 :9-15 est sans aucun doute une interpolation chrétienne destinée à annuler la malédiction sur le raisin en tant que plante secrètement plantée par Satan au Paradis en faisant référence à l'importance du vin en tant qu'élément de l'Eucharistie. En deuxième lieu, la conclusion originale manque. Si le passage d'Origène cité plus haut fait bien référence à cette Apocaylpse \[_De principiis_ ii. 3. 6\], il parlait originellement de sept cieux ; alors que maintenant il n’en mentionne que cinq. L'élaboration du passage sur Michael en tant que médiateur des bonnes actions accomplies par les dévots explique probablement le changement de fin. Un passage similaire se produit dans l’Apocalypse de Paul – il est impossible de déterminer si cette dernière Apocalypse ou une tradition antérieure a été empruntée par l’Apocalypse de Baruch. (_Judaïsme en dehors du canon hébreu_, p. 117)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/3_Baruch/1)
 - [Chapitre 1b](/fr/Bible/3_Baruch/1b)

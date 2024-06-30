@@ -51,7 +51,7 @@ Raymond F. Surburg écrit : “ Dans la première partie (chapitres 1 à 4), Jé
 J. Riaud écrit : « L'auteur de cet écrit de consolation, probablement rédigé en hébreu, était très probablement un juif de Jérusalem ; il connaissait bien la topographie de cette ville, et son judaïsme se manifeste notamment dans l'interdiction des mariages avec des femmes étrangères (8 : 5-8). Il est loin d’être aisé de déterminer la date de sa composition. Celui proposé par Harris, à savoir. L'année 136 après J.-C. (c'est-à-dire : l'année 70, plus les 66 années du sommeil d'Abimélec), est peut-être trop précise. C'est d'ailleurs l'un des arguments en faveur de son hypothèse sur la composition : à savoir qu'après l'édit d'Hadrien expulsant les juifs de Jérusalem (132 après J.-C.), un juif-chrétien aurait voulu faire échapper à l'édit les juifs interdits en devenant chrétiens. . Mais l'explication de Harris ne doit pas être entièrement rejetée : il semblerait que les Paraleipomena aient été écrites à l'époque de cette génération qui vivait dans l'attente d'une reconstruction rapide du temple détruit en 70, et qui pouvait raisonnablement espérer que le second exil ne survivrait pas à la première, car la période de soixante-six ans approchait (cp. J. Licht, art. cit., p. 70). (En dehors de l'Ancien Testament, pp. 215-216)
 
 
-## Indice
+## Index
 
 - [Version longue](/fr/Bible/4_Baruch/Long_version)
 - [Version courte](/fr/Bible/4_Baruch/Short_version)

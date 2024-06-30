@@ -35,7 +35,7 @@ Le Testament d'Abraham est un texte pseudépigraphique de l'Ancien Testament. Pr
 
 Le Testament d’Abraham a probablement été écrit à l’origine en grec koine, par quelqu’un vivant en Égypte romaine. Son vocabulaire est similaire à celui utilisé dans les livres ultérieurs de la Septante et dans 3 Macchabées, écrits en Égypte.
 
-## Indice
+## Index
 
 - Version 1
 	- [Chapitre 1](/fr/Bible/Testament_of_Abraham/1)

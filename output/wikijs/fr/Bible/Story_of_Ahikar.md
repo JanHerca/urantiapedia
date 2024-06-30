@@ -41,7 +41,7 @@ L’histoire est évidemment une fiction et non une histoire. Le lecteur peut d'
 
 L'écriture se divise en quatre phases : (1) Le récit ; (2) L'Enseignement (une remarquable série de Proverbes) ; (3) Le voyage en Égypte ; (4) Les similitudes ou paraboles (avec lesquelles Ahikar complète l'éducation de son neveu égaré).
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Story_of_Ahikar/1)
 - [Chapitre II](/fr/Bible/Story_of_Ahikar/2)

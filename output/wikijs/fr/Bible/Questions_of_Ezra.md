@@ -62,7 +62,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 117-118
 
 M.E. Stone écrit : « Il n'y a pas suffisamment de preuves pour déterminer si l'écrit a été initialement composé en arménien ou s'il a été traduit en arménien à partir d'une autre langue. Des arguments possibles basés sur des considérations littéraires seront présentés dans la section suivante. Il ne semble pas de base claire pour établissant la date sauf pour dire que l'écriture est une composition chrétienne clairement basée sur des modèles juifs. Il n'y a aucune indication de provenance. (_Le Pseudépigraphe de l'Ancien Testament_, p. 592)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Questions_of_Ezra/1)
 - [Chapitre 2](/fr/Bible/Questions_of_Ezra/2)

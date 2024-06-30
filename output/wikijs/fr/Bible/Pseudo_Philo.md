@@ -40,7 +40,7 @@ Daniel J. Harrington écrit : « Les parallèles entre _LAB_, 4 Ezra (2 Esdras) 
 
 James Charlesworth écrit : « Il devient clair que le pseudo-Philo n’est pas aussi récent que l’avaient conclu les chercheurs précédents. Les traditions qui y sont enregistrées sont anciennes (cf. G. Vermes, _Scripture and Tradition in Judaism : Haggadic Studies_, 2d. ed. \[SPB 4\] Leiden : Brill, 1973 ; _passim_), et l'ouvrage lui-même est plutôt ancien, datant probablement d'environ 100 après JC (G. Delling, nos. 1190, 1191 ; C. Dietzfelbinger date Ps-Philo entre 70 et 135 après JC ; cf. son _Pseudo-Philo_, _Liber Antiquitatum Biblicarum._ Göttingen Ph.D., 1964 ; pp . 191-94 \[_N.V._\], et son n° 1192, p. 95 ; voir aussi la mise en garde de LH Feldman, n° 1205, pp. xxviii-xxxi) et peut-être avant 70 après JC P.-M (Bogaert, n° 619, vol. 1, p. 246 ; Harrington, n° 1198, 1202, 1203). L'auteur a probablement vécu en Palestine (cf. Delling, n° 1190, 1191 ; Dietzfelbinger, n° 1192, p. 96 ; Harrington, n° 1200) et a écrit en hébreu (J. Strugnell, n° 1391d, en particulier p. 207 ; Harrington, n° 1198, 1202, 1203 ; Dietzfelbinger, n° 1192, pp. 92f. ; mais cf. la mise en garde de Feldman concernant la possibilité du grec, n° 1205, pp. xxv-xxvii). Certains chercheurs ont plaidé en faveur d'une relation avec les manuscrits de la mer Morte (par exemple M. Philonenko, 'Remarques sur un hymne essénien de caractère gnostique', _Sem_ 11 \[1961\] 43-54 ; _idem_, 'Une paraphrase du cantique d'Anne ,' _RHPR_ 42 \[1962\] 157-68 ; _idem_, nos. 1207, 1208 ; cf. Feldman, no. 1205, pp. xxxviii-xliii). (_Le Pseudépigraphe et la Recherche Moderne_, p. 170)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Pseudo_Philo/1)
 - [Chapitre 2](/fr/Bible/Pseudo_Philo/2)

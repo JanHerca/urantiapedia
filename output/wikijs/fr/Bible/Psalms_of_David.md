@@ -40,7 +40,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 202-204
 
 James Charlesworth et JA Sanders écrivent : « La présence de ces psaumes dans le Psautier de Qumran (11QPs<sup>a</sup>) soulève la question de l'étendue du Psautier davidique avant la destruction de Jérusalem en 70 après JC. , bien sûr, le Psautier était sensiblement différent du présent recueil en hébreu ; mais quelle était la forme du Psautier ailleurs ? MH Goshen-Gottstein a soutenu que le Psautier était déjà rédigé (et canonisé) au deuxième siècle avant JC et que des extraits de celui-ci, ainsi que des compositions apocryphes, ont été placés dans 11QPs<sup>a</sup>, qui est donc le plus ancien « livre de prières juif ». Une interprétation similaire est défendue par P. Skehan, qui soutient que 11QPs<sup>a</sup> est une « édition de bibliothèque » de la « collection standard de 150 Psaumes ». La présence de psaumes « apocryphes » tels que la Prière de Manassé et les Psaumes de Salomon, considérés comme inspirés par de nombreux Juifs au tournant de l'époque, ainsi que la présence de psaumes apocryphes dans 11QPs<sup>a</sup > indiquent que la distinction entre les psaumes canoniques et apocryphes n'avait pas été clarifiée avant l'avènement du christianisme. (_Le Pseudepigrapha de l'Ancien Testament_, vol. 2, p. 610)
 
-## Indice
+## Index
 
 - [Psaume 152](/fr/Bible/Psalms_of_David/152)
 - [Psaume 153](/fr/Bible/Psalms_of_David/153)

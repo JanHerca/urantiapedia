@@ -52,7 +52,7 @@ Emil Schürer écrit : « Un ouvrage apocryphe contenant le récit du martyre d'
 
 Jonathan Knight commente la date de l'Ascension d'Isaïe : « Il est difficile de dater l'Ascension d'Isaïe avec précision mais il est utile de préciser certains paramètres qui peuvent déterminer toute décision. On soutient ici que la correspondance entre Pline et Trajan en c. 112 CE explique de nombreuses allusions dans la Première Vision. Cela signifie que l’apocalypse n’a probablement pas été écrite avant la deuxième décennie du deuxième siècle de notre ère, mais il est difficile de dire combien de temps plus tard elle est apparue. Il faudra peut-être attendre quelques années pour que la procédure de Pline soit adoptée par les gouverneurs d'autres parties de l'empire romain. Étant donné que la Première Vision fait allusion au mythe du retour de Néron (4.4), tout comme le Livre 5 des Oracles sibyllins (voir ci-dessous), le matériel peut avoir été écrit aussi tard que la Seconde Révolte juive contre Rome (132-135 CE). mais probablement pas plus tard qu'à la mort d'Hadrien (138 CE). Un certain nombre de différences par rapport à la littérature gnostique indiquent que l'Ascension d'Isaïe a été écrite avant 150 EC, date des premiers écrits gnostiques. L’apocalypse peut donc être provisoirement attribuée à la période 112-138 EC, et elle pourrait éventuellement provenir de la période précédant la Seconde Révolte. (_L'Ascension d'Isaïe_, p. 21)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Martyrdom_of_Isaiah/1)
 - [Chapitre 2](/fr/Bible/Martyrdom_of_Isaiah/2)

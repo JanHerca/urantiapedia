@@ -33,7 +33,7 @@ La capture d'écran montre les contrôles les plus importants de l'éditeur Mark
     - Italique
     - Barré
     - En-têtes
-    - Indice
+    - Index
     - Exposant
     - Citations et blocs
     - Liste non ordonnée

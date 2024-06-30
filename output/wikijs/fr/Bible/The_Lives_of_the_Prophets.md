@@ -37,7 +37,7 @@ Raymond F. Surburg écrit : « Les Vies des Prophètes est un récit des prophè
 
 James Charlesworth écrit : « Le texte original a probablement été composé à partir de traditions orales diverses et anciennes juste avant ou au premier siècle après JC (T. Schermann, _Peropheten- und Apostellegenden nebst Jüngerkatalogen des Dorotheus und verwandter Texte_ \[TU 31.3\] Leipzig : Hinrichs, 1907 ; pp. 119, 126 ; Torrey, _Lives_, p. 11 ; _idem, Apoc. Lit._, p. 135 ; RH Pfeiffer, _IB_ 1 \[1952\] 425). La langue originale est probablement l'hébreu (Schermann dans TU 31.3, pp. 130-33 ; Torrey, _Lives_, pp. 1, 7, 16f. ; _idem, Apoc. Lit._, pp. 135-40 ; Pfeiffer dans _IB_ 1 \ [1952\] 425. Schermann a noté qu'il pourrait être syriaque et Hall a plaidé pour un original syriaque, _JBL_ 7 \[1887\] 38f.), ou peut-être grec (cf. A.-M. Denis, no. 24, p. 89 ; ME Stone, n° 1229). L'auteur, qui était apparemment plutôt un compilateur de légendes - dont certaines lui ont manqué (cf. L. Ginzberg, _Legende_, _ad. loc. cit._) - vivait probablement à Jérusalem, car il existe des preuves convaincantes qu'il connaissait intimement avec la topographie et la géographie de Jérusalem, de Judée et de Palestine. Les légendes de Jérémie trahissent cependant une provenance égyptienne. Les ajouts chrétiens abondent dans les différentes recensions, mais les seuls anciens se trouvent dans la vie de Jérémie, versets 7-8 et 10 (cf. seulement des interpolations chrétiennes vaguement possibles dans Osée, v. 2, et dans Habacuc, v. 11-14).” (_The Pseudepigrapha and Modern Research_, pp. 178-177)
 
-## Indice
+## Index
 
 - [Texte intégral](/fr/Bible/The_Lives_of_the_Prophets/1)
 

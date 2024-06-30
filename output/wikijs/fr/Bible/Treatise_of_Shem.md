@@ -48,7 +48,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 182-184
 
 James Charlesworth écrit : « Il est significatif que le Traité de Sem ait été composé à peu près au moment où l'équinoxe de printemps (le début traditionnel de l'année, le début du printemps) s'est déplacé du Bélier aux Poissons, où il se trouve depuis lors, bien qu'il est sur le point d'emménager dans le Verseau. Ce changement, selon G. de Santillana, aurait suscité une forte « émotion astrologique » puisqu'une époque succédait à une autre. Il n’est cependant certainement pas certain que ce phénomène ait été perçu ou compris dans l’Antiquité. Si tel était le cas, alors le Traité de Sem serait un récit sans précédent de ce changement monumental, la précession des équinoxes. (_Le Pseudépigraphe de l'Ancien Testament_, vol. 1, p. 480)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Treatise_of_Shem/1)
 - [Chapitre 2](/fr/Bible/Treatise_of_Shem/2)

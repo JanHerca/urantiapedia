@@ -36,7 +36,7 @@ D.A. Fiensy écrit : « La date la plus tardive possible pour ce texte est le IX
 
 
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Revelation_of_Ezra/1)
 

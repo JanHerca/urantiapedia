@@ -49,7 +49,7 @@ Leonhard Rost écrit : « Il existe un consensus raisonnable parmi les érudits 
 
 AFJ Klijn écrit : « L'œuvre semble avoir été écrite après la chute de Jérusalem en 70 après JC, comme 4 Esdras, une apocalypse avec laquelle elle a un certain nombre de points communs, et la _Paraleipomena Jeremiou_ dans laquelle Baruch est également une figure importante. . L’ouvrage tente de répondre à la question brûlante de savoir pourquoi Dieu a permis la destruction de son temple. La réponse est que Dieu lui-même a envoyé ses anges pour détruire son sanctuaire et que le temps de cette tribulation sera court. En d'autres termes, la destruction du temple est l'acte final de Dieu avant le jour du jugement où les ennemis d'Israël seront punis et le peuple de Dieu sera justifié. Même si, comme l’indique l’Apocalypse, il ne reste plus que Dieu et la Loi, Israël peut s’attendre à être délivré de ses ennemis. » (_En dehors de l'Ancien Testament_, p. 194)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/2_Baruch/1)
 - [Chapitre 2](/fr/Bible/2_Baruch/2)

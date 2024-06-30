@@ -47,7 +47,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 197-199
 
 DC Duling écrit : « La vierge, la référence au Fils de Dieu, la tentation de Jésus, le règne de Jésus sur les démons, la crucifixion et le nom d'Emmanuel sont clairs. De plus, il y a la curieuse référence au nombre 644. Ce nombre est lié au nom d'Emmanuel dans le manuscrit P de 6:8, qui déclare en réponse à la question de Salomon au sujet d'un ange contrariant que celui qui contrarie Beelzeboul est « le saint et le saint ». nom précieux du Dieu tout-puissant, celui appelé _par les Hébreux_ par une rangée de nombres, dont la somme est 644, et chez les Grecs c'est Emmanouel. \[C'est moi qui souligne.\] Or, 11 : 6 parle d'Emmanuel souffrant comme de celui qui contrecarre Celui en forme de lion, et ajoute : « Lorsqu'il se déplace, il est évoqué au moyen de trois lettres. Les trois lettres utilisées pour le nombre 644 dans le manuscrit P de 6:8 sont cependant des lettres _grecques_ (_chi_, _mu_, _delta_). D'ailleurs le manuscrit P de 11 :6 ajoute : « Le 'Grand parmi les hommes' qui doit souffrir beaucoup de choses dont le nom est la formule 644, qui est Emmanouel. . .» Cela n'est jamais explicitement indiqué, mais les lettres _grecques_ du nom d'Emmanuel totalisent également 644 (TSol 6:8, n. i). (_Le Pseudepigrapha de l'Ancien Testament_, vol. 1, p. 955)
 
-## Indice
+## Index
 
 - [Texte intégral](/fr/Bible/Testament_of_Solomon/1)
 

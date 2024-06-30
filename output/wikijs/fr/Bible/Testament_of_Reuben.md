@@ -54,7 +54,7 @@ Les exemples de l'influence de ces écrits sur le Nouveau Testament sont notable
 
 Ainsi, le lecteur a devant lui dans ces pages ce qui est à la fois frappant par son style primitif et brutal et précieux comme certains des véritables livres sources de la Bible.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Testament_of_Reuben/1)
 - [Chapitre II](/fr/Bible/Testament_of_Reuben/2)

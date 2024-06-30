@@ -40,7 +40,7 @@ _Traduit de « The Old Testament Pseudepigrapha, Volume 2 », James H. Charleswo
 
 James Charlesworth écrit : « Il n’y a aucune raison de douter que le grec soit la langue originale. L’époque de la composition doit être antérieure au quatrième siècle, date du papyrus. Des parallèles avec des documents du IIe siècle (voir ci-dessous) indiquent que la prière pourrait remonter au IIe siècle après JC ; si la prière de Joseph date du premier siècle (comme le déclare JZ Smith dans sa contribution ci-dessus), alors la prière de Jacob peut aussi être aussi ancienne. Étant donné que le papyrus a été acquis au Caire, vénère le Sinaï et partage des idées avec de nombreux autres documents et papyrus égyptiens, il est raisonnable de supposer une provenance égyptienne. (_Le Pseudépigraphe de l'Ancien Testament_, vol. 2, p. 715)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Prayer_of_Jacob/1)
 

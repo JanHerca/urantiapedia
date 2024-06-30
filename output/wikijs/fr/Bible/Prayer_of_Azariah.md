@@ -47,7 +47,7 @@ Daniel J. Harrington écrit : « La langue de la prière d'Azariah est entièrem
 
 David A. deSilva écrit : « Le ou les auteurs anonymes étaient clairement très sensibles et familiers avec les traditions liturgiques des prières pénitentielles intertestamentaires, ainsi qu'avec les hymnes les plus festifs parmi les psaumes. La probabilité d'un original hébreu pour la prière d'Azaria et le chant des trois jeunes hommes, sinon le récit de connexion (Pr. Azar. 23-27), indique une provenance palestinienne. La datation des prières et des hymnes est notoirement difficile, mais cela peut être un reflet de la crise de l'hellénisation chez le Pr. Azar. 9, qui parle des pieux livrés aux apostats et à un roi suprêmement méchant (Harrington 1999 : 10 ; Metzger 1957 : 103 ; Moore 1992d : 19). L'utilisation des termes _anomon_ et _aposton_ dans le Pr. Azar. 9 rend cette suggestion un peu plus plausible. Le premier peut être utilisé pour désigner les Gentils, mais le second parle de ceux qui gardaient autrefois la Torah mais qui « se sont détournés » à un moment donné. La conjonction de Juifs déchus et d'un roi étranger qui ensemble agissent comme des « ennemis » envers les observateurs de la Torah évoque naturellement la période de 175 à 164 avant notre ère. Le Chant des Trois Jeunes Hommes, en revanche, ne fournit pas de telles réminiscences et pourrait être considérablement plus âgé que le reste de Daniel. Comme pour les autres ajouts, un _terminus ad quem_ de 100 avant notre ère, heure approximative de la traduction en grec (l'édition de la Septante), est approprié (Moore 1977 : 29). (_Présentation des Apocryphes_, p. 227)
 
-## Indice
+## Index
 
 - [Chapitre 1](/Bible/Prayer_of_Azariah/1)
 

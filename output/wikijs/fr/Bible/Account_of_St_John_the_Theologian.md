@@ -35,7 +35,7 @@ Aurelio de Santos Otero dit :
 
 «C'est l'un des apocryphes assomptionnistes qui a connu la plus grande diffusion, notamment en Orient byzantin. En Occident, on en conserve une traduction latine publiée en 1933 par Dom A. Wilmart. D'autres récits occidentaux dépendant de lui sont également conservés, par exemple le code. Ambrosiano L 58, qui dit mot pour mot : « Assumptio beatae Virginis Mariae qualiter facta sit, ex quodam libello apocrypho, qui lohanni evangelistae adscribitur, edocemur ». Le premier critique moderne à l'éditer fut Tischendorf, utilisant cinq codex différents.
 
-## Indice
+## Index
 
 - [Texte intégral](/fr/Bible/Account_of_St_John_the_Theologian/1)
 

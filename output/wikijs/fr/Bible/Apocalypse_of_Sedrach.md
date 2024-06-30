@@ -53,7 +53,7 @@ James Charlesworth écrit (_The Pseudepigrapha and Modern Research_, pp. 178-179
 
 S. Agourides écrit : « Une grande partie du contenu doctrinal de Sedrach est atypique du christianisme médiéval et de nombreux autres éléments de l'Apocalypse sont plus juifs que chrétiens (voir ci-dessous, « Provenance »). Lorsque le « Christ » est brièvement mentionné, le terme semble remplacer le nom de l'archange juif Michel. Bien qu’aucune date précise ne puisse être donnée, il semble que l’Apocalypse ait été composée à l’origine entre 150 et 500 après JC, et qu’elle ait été jointe au sermon sur l’amour et ait reçu sa forme définitive peu après l’an 1000. » (_Le Pseudepigrapha de l'Ancien Testament_, vol. 1, p. 606)
 
-## Indice
+## Index
 
 - [Chapitre 1](/fr/Bible/Apocalypse_of_Sedrach/1)
 - [Chapitre 2](/fr/Bible/Apocalypse_of_Sedrach/2)

@@ -37,7 +37,7 @@ Bien que la connaissance même de l'existence d'un tel livre ait été perdue pe
 
 L'écriture séduit le lecteur qui a envie de donner des ailes à ses pensées et de s'envoler vers des royaumes mystiques. Voici une étrange dramatisation de l’éternité – avec des vues sur la création, l’anthropologie et l’éthique. De même que le monde a été créé en six jours, son histoire s'accomplirait en 6 000 ans (ou 6 000 000 d'années), et cela serait suivi de 1 000 ans de repos (peut-être lorsque l'équilibre des forces morales contradictoires aura été atteint et que la vie humaine aura été rétablie atteint l'état idéal). À sa fin commencerait le 8ème Jour éternel, quand le temps ne devrait plus exister.
 
-## Indice
+## Index
 
 - [Chapitre I](/fr/Bible/Second_Book_of_Enoch/1)
 - [Chapitre II](/fr/Bible/Second_Book_of_Enoch/2)
