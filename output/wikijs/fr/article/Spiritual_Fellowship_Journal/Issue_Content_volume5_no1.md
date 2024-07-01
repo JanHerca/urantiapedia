@@ -120,7 +120,7 @@ Copyright © 1995, Tous droits réservés.
 - **La science du hasard**
 	Le fait de trouver des objets de valeur par hasard est fascinant. Cette faculté peut-elle être cultivée ? Carol Hay découvre que les progrès de la science permettent de créer des conditions dans lesquelles des événements fortuits sont plus susceptibles de se produire.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **Interface** : Juste une autre source ?
 - ***L'aventure a commencé***

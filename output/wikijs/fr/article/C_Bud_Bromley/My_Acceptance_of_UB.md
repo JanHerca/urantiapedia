@@ -101,7 +101,7 @@ Ce qui est important, c'est que les êtres humains soient captivés par l'amour 
 
 En conclusion, il me semble que l’unité dans le Christ devrait être plus importante que l’uniformité de la théologie. Les chrétiens mûrs, qu'ils soient ou non étudiants du Livre d'Urantia, devraient accepter d'être en désaccord de manière agréable et devraient être capables de travailler ensemble pour ce en quoi nous croyons tous, la paternité universelle de Dieu, et la fraternité universelle qui en résulte de l'humanité.
 
->_C. Bud Bromley est programmeur informatique et professeur d'université, aujourd'hui à la retraite. Bud est un étudiant du Livre d'Urantia depuis de nombreuses années.
+>_C. Bud Bromley est programmeur informatique et professeur d'université, aujourd'hui à la retraite. Bud est un étudiant du Livre d'Urantia depuis de nombreuses années._
 {.is-info}
 
 

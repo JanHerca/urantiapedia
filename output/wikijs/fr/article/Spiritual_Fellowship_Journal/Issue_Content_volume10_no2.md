@@ -154,7 +154,7 @@ Don annuel suggéré : 10 $.
 - **Révélation et Patience**
 	L’excès d’enseignement et l’excès d’illumination entraînent souvent confusion et consternation et tendent à priver les destinataires de l’illumination qu’ils possèdent.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - ***Énoncé de mission***
 - ***Interface : Pouvons-nous, devrions-nous nous organiser***

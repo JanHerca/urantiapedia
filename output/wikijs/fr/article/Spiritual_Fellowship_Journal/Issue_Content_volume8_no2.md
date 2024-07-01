@@ -162,7 +162,7 @@ Don annuel suggéré : 10 $.
 - **Religion et organisation religieuse**
     Dick Bain discute de la nature des organisations religieuses et des possibilités qu'elles impliquent à partir de la Cinquième Époque.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **Interface** : Et si des extraterrestres avaient atterri ?
 - **Creative Outreach** : Un groupe de soutien spirituel

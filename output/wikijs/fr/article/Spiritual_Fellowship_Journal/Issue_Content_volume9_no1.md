@@ -159,7 +159,7 @@ Don annuel suggéré : 10 $.
 - **Comprendre le mal dans l'expérience humaine.**
     Le problème ultime du théisme est l’énigme du mal. Le paradigme présenté dans les Fascicules d'Urantia fournit la meilleure réponse actuellement disponible pour l'humanité.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - ***Énoncé de mission***
 - ***Psaumes aujourd'hui***

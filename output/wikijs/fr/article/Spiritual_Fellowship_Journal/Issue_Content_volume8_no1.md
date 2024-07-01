@@ -175,7 +175,7 @@ Don annuel suggéré-\$10.
 - **L'avenir de la cinquième révélation d'époque**
     Il est maintenant temps de promouvoir la recherche pour découvrir un symbolisme approprié et une expression socioreligieuse de la Cinquième Révélation d’Époque.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **Interface** : Avons-nous vraiment besoin d'une autre église ?
 - **Creative Outreach** : Introduction à la nouvelle mission de la revue

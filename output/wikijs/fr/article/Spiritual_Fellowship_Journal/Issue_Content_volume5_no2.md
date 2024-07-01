@@ -120,7 +120,7 @@ Copyright © 1995, Tous droits réservés.
 - **Perspectives spirituelles sur le lieu de travail**
 	Puisque nous passons une grande partie de notre temps au travail, il est important que cette activité soit associée à des valeurs significatives dans notre vie. James Moravec présente un aperçu de la méthodologie permettant de rendre notre travail significatif et épanouissant.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **Interface** : Le Dieu caché
 - ***Le miracle de la guérison***

@@ -157,7 +157,7 @@ Don annuel suggéré : 10 $.
 - **La Commission au Ministre.**
     La caractéristique distinctive de la religion de l’Esprit est l’entralité du service et de l’évangélisation.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - ***Énoncé de mission***
 - ***Interface : une célébration de la basse technologie***

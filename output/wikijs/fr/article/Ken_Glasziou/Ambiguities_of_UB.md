@@ -79,7 +79,7 @@ Nous devons maintenant relire _Le Livre d'Urantia_ d'une manière plus savante, 
 
 > Le fait de la religion consiste entièrement dans l’expérience religieuse des êtres humains raisonnables et ordinaires. C’est le seul sens dans lequel la religion puisse jamais être considérée comme scientifique ou même psychologique. C’est ce même fait d’expérience humaine qui prouve que la révélation est révélation, à savoir que la révélation synthétise les sciences de la nature et la théologie religieuse, apparemment divergentes, en une philosophie de l’univers cohérente et logique, en une explication coordonnée et sans hiatus aussi bien de la science que de la religion, créant ainsi une harmonie du mental et la satisfaction à l’esprit. Elle répond, dans l’expérience humaine, aux interrogations du mental avide de savoir *comment* l’Infini met sa volonté et ses plans à exécution dans la matière, avec le mental et sur l’esprit. (<a id="a79_843"></a>[LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
 
-> _Ken T. Glasziou, M. Sc., Ph. D., est un chercheur scientifique à la retraite qui est actif dans le travail de l'Église en Australie. Il est l'auteur de Science et Religion ; Le nouvel âge au-delà de l'an 2000 après J.-C., _et_ le Christ ou le chaos : l'évolution d'une révélation.
+> _Ken T. Glasziou, M. Sc., Ph. D., est un chercheur scientifique à la retraite qui est actif dans le travail de l'Église en Australie. Il est l'auteur de_ Science et Religion ; Le nouvel âge au-delà de l'an 2000 après J.-C., _et_ le Christ ou le chaos : l'évolution d'une révélation.
 {.is-info}
 
 

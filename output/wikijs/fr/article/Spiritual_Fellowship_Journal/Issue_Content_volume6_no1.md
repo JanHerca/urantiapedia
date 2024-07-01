@@ -123,7 +123,7 @@ Copyright © 1996, Tous droits réservés.
 - **La mort, la dernière frontière**
 	L'euthanasie est une question complexe et controversée à laquelle notre société doit faire face alors que nous devenons de plus en plus sensibles à la souffrance humaine et aux nouveaux dilemmes éthiques.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **_Le Livre d'Urantia_ et le renouveau spirituel** : Mes expériences de pointe
 - ***Problèmes et réponses*** : Valeurs : apprenez-les ou perdez-les

@@ -154,7 +154,7 @@ Don annuel suggéré : 10 $.
 - **Les principes de l'enseignement de Jésus**
 	Nous qui aspirons à être des enseignants du _Livre d'Urantia_ ferions bien de considérer et d'adopter les principes utilisés par Jésus dans son enseignement car il était un enseignant accompli.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - ***Énoncé de mission***
 - ***Interface : en langage clair***

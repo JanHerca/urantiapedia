@@ -133,7 +133,7 @@ Copyright © 1993, Tous droits réservés.
 - **Styles d'écriture des articles dans _Le Livre d'Urantia_**
 	L'analyse de l'écriture montre, comme le dit le livre, que de nombreux auteurs ont été impliqués dans l'écriture du _Livre d'Urantia_.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **Interface** : Définir les termes de l'égalité
 - **L'interconfessionnel pourrait éclairer l'avenir de notre monde**

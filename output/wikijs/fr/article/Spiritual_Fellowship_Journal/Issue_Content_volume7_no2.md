@@ -134,7 +134,7 @@ Don annuel suggéré-\$10.
 
 ***Éditoriaux***
 
-- ** Tracer une nouvelle voie **
+- **Tracer une nouvelle voie**
     La nouvelle mission du Journal est de « promouvoir les discussions théologiques, philosophiques et politiques liées à un symbolisme approprié et à une expression socioreligieuse de la cinquième révélation éphochale ».
 - **Un nouveau paradigme spirituel est nécessaire**
     Le christianisme traditionnel est enraciné dans une orientation culturelle et religieuse préscientifique et dépassée. Seul un nouveau paradigme de réalité spirituelle peut apporter une renaissance spirituelle à l’Église et à la culture.
@@ -152,7 +152,7 @@ Don annuel suggéré-\$10.
 - **Ambiguïtés du _Le Livre d'Urantia_**
     Le Dr Kenneth Glasziou souligne que croire en la théorie de la dictée littérale concernant le _Livre d'Urantia_ est tout aussi erroné que croire en l'inspiration littérale de la Bible par les fondamentalistes chrétiens. Les lecteurs du _Livre d'Urantia_ devraient être assez sages pour ne pas commettre cette erreur.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **Interface** : Se disputer avec Nicodème
 - **Critique de livre** : Le bon livre

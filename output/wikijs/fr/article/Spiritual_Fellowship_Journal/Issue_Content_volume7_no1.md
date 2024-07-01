@@ -122,7 +122,7 @@ Copyright © 1997, Tous droits réservés.
 - **Résolution de problèmes par la prière**
 	La prière n'est pas un moyen de contourner les lois de l'univers. Cela peut fournir des informations grâce auxquelles nous utilisons ces lois pour résoudre des problèmes. Parfois, une aide surhumaine semble modifier le résultat des lois naturelles.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - ***Le Livre d'Urantia et le Renouveau Spirituel*** :
 	_Mon voyage spirituel_

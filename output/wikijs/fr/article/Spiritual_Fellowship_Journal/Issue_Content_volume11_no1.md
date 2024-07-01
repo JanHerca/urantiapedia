@@ -156,7 +156,7 @@ Don annuel suggéré : 10 $.
 - **Maîtrise de l'esprit**
     La réalisation la plus importante de l’expérience humaine est la maîtrise de notre esprit grâce à la direction de l’Esprit qui nous habite.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - ***Énoncé de mission***
 - ***Interface : Vue Depuis les Tranchées***

@@ -125,7 +125,7 @@ Copyright © 1996, Tous droits réservés.
 - **Sur les valeurs**
 	Les valeurs – la vérité, la beauté et la bonté – sont des « octets » de la Divinité. À mesure que nous nous identifions à ces valeurs et cherchons à les vivre, nous devenons plus réels.
 
-***Colonnes et fonctionnalités***
+***Colonnes et thèmes d'intérêt***
 
 - **_Le Livre d'Urantia_ et le Renouveau Spirituel** :
 	Rencontre avec _Le Livre d'Urantia_

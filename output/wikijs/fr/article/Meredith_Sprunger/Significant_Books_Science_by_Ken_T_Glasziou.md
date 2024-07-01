@@ -82,3 +82,5 @@ Des exemplaires peuvent être obtenus en écrivant à : David Biggs, G4040 Beech
     </tbody>
   </table>
 </figure>
+
+<br>
