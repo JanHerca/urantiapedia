@@ -33,12 +33,12 @@ Una serie del Dr. Ken Glasziou, 1996
 ## Índice
 
 - [Parte I: Introducción — Expectativas](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/1)
-- [«Hágase la luz» — Una visión general cósmica](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/1#let-there-be-lighta-cosmic-overview)
 - [Parte II: Declaraciones del Libro de Urantia que pueden llenar los vacíos de información que faltan](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/2)
 - [Parte III: ¿Quién escribió los documentos de Urantia?](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/3)
 - [Parte IV: Temas científicos de interés en los documentos de Urantia](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/4)
 - [Parte V: Materiales contenciosos](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/5)
 - [Parte VI: Índice de información arqueológica e histórica que se encuentra en la Parte IV de El libro de Urantia](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/6)
+- [Algunas Conclusiones](/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/7)
 
 
 ## Enlaces externos

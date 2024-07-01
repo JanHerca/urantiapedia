@@ -46,7 +46,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. **La Encarnación** es el corazón teológico del cristianismo, y la Biblia sostiene esta doctrina.
 2. «Y el Verbo se hizo carne y habitó entre nosotros». [Jn 1:14](/es/Bible/John/1#v14). Este es el tema principal de toda la enseñanza del Nuevo Testamento.
 3. Naturalmente, el siguiente paso es la proclamación: «No hay otro nombre bajo el cielo, dado a los hombres, en el que podamos ser salvos». [Hch 4:12](/es/Bible/Acts_of_the_Apostles/4#v12).
-4. Si bien el Libro de Urantia valida la encarnación, declara que el evangelio del reino es «la paternidad de Dios y la hermandad del hombre». [LU 194:4.4](/es/El_Libro_de_Urantia/194#p4_4)
+4. Si bien el Libro de Urantia valida la encarnación, declara que el evangelio del reino es «la paternidad de Dios y la hermandad del hombre». [LU 194:4.4](/es/The_Urantia_Book/194#p4_4)
 5. En Antioquía enfatizaron la humanidad de Jesús; en Alejandría, la divinidad del Maestro.
 6. [El docetismo](https://en.wikipedia.org/wiki/Docetism) enseñó que la humanidad de Jesús no era más que «aparente», una especie de fantasma.
 7. La Biblia podría considerarse como una encarnación: una unión de lo humano y lo divino.

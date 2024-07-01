@@ -128,9 +128,9 @@ En ce qui concerne *La Bible*, comme il s'agit d'un livre principal massivement 
 - https://urantiapedia.org/en/Bible/Genesis
 - https://urantiapedia.org/en/Bible/Genesis/Index
 - https://urantiapedia.org/en/Bible/Genesis/2
-- https://urantiapedia.org/fr/Bible/Jean
-- https://urantiapedia.org/fr/Bible/Jean/Index
-- https://urantiapedia.org/fr/Bible/Jean/2
+- https://urantiapedia.org/fr/Bible/John
+- https://urantiapedia.org/fr/Bible/John/Index
+- https://urantiapedia.org/fr/Bible/John/2
 
 Noms de livres valides à utiliser dans l'URL :
 
@@ -344,7 +344,7 @@ Exemples d'URL :
 - https://urantiapedia.org/id/Bible/Genesis/2
 - https://urantiapedia.org/lt/Bible/John
 - https://urantiapedia.org/ro/Bible/John/Index
-- https://urantiapedia.org/fr/Bible/Jean/2
+- https://urantiapedia.org/fr/Bible/John/2
 - https://urantiapedia.org/en/book/The_Universe_Around_Us
 - https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
 - https://urantiapedia.org/en/book/The_Universe_Around_Us/3

@@ -188,7 +188,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 21. **Confession de Pierre**. « Mais qui dites-vous que je suis ? » Et Pierre répondit : 'Le Christ de Dieu.'" [9:20](/fr/Bible/Luke/9#v20).
 22. **Regard en arrière**. «'Quiconque met la main à la charrue et regarde en arrière n'est pas digne du royaume de Dieu.'» [9:62](/fr/Bible/Luke/9#v62).
 23. **Le bon Samaritain**. «'Lequel de ces trois, pensez-vous, s'est avéré le voisin de l'homme qui est tombé parmi les voleurs ?' Il a dit, 'Celui qui lui a fait miséricorde.' Et Jésus lui dit : 'Va et fais de même.'» [10:36,37](/fr/Bible/Luke/10#v36).
-24. **Troublé par des bagatelles**. «'Marthe, Marthe, tu es inquiète et inquiète de beaucoup de choses; une seule est nécessaire. Marie a choisi la bonne part, qui ne lui sera pas ôtée.'» [10:41,42](/fr/Bible/Luc/10#v41).
+24. **Troublé par des bagatelles**. «'Marthe, Marthe, tu es inquiète et inquiète de beaucoup de choses; une seule est nécessaire. Marie a choisi la bonne part, qui ne lui sera pas ôtée.'» [10:41,42](/fr/Bible/Luke/10#v41).
 25. **Celui qui cherche trouve**. «'Car quiconque demande reçoit, et celui qui cherche trouve, et on ouvrira à celui qui frappe.'» [11:10](/fr/Bible/Luke/11#v10).
 26. **Négliger les questions importantes**. «'Mais malheur à vous les pharisiens ! car vous donnez la dîme de la menthe, de la rue et de toute herbe, et vous négligez la justice et l'amour de Dieu.'» [11:42](/fr/Bible/Luke/11#v42).
 27. **Les cheveux de votre tête**. «'Même les cheveux de votre tête sont tous comptés. Ne craignez rien, vous valez plus que beaucoup de moineaux.'» [12:7](/fr/Bible/Luke/12#v7).

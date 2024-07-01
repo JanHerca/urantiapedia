@@ -33,12 +33,12 @@ Une série du Dr Ken Glasziou, 1996
 ## Index
 
 - [Partie I : Introduction — Attentes](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/1)
-- [« Que la lumière soit » — Un aperçu cosmique](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/1#let-there-be-lighta-cosmic-overview)
 - [Partie II : Déclarations du Livre d'Urantia qui peuvent combler les lacunes d'informations manquantes](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/2)
 - [Partie III : Qui a écrit les Cahiers d'Urantia ?](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/3)
 - [Partie IV : Sujets scientifiques d'intérêt dans les Cahiers d'Urantia](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/4)
 - [Partie V : Documents litigieux](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/5)
 - [Partie VI : Un index des informations archéologiques et historiques trouvées dans la partie IV du Livre d'Urantia](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/6)
+- [Quelques conclusions](/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book/7)
 
 
 ## Liens externes

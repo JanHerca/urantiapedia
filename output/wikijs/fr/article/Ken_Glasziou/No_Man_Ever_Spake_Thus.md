@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 
 
-Les auditeurs de Jésus étaient à plusieurs reprises « _étonnés de sa parole, car il enseignait comme quelqu'un ayant autorité et non comme les scribes._ » ([Marc 1:22](fr/Bible/Marc/1#v22); <a id="a37_190"></a>[LU 145:2.11](/fr/The_Urantia_Book/145#p2_11))
+Les auditeurs de Jésus étaient à plusieurs reprises « _étonnés de sa parole, car il enseignait comme quelqu'un ayant autorité et non comme les scribes._ » ([Marc 1:22](fr/Bible/Mark/1#v22); <a id="a37_190"></a>[LU 145:2.11](/fr/The_Urantia_Book/145#p2_11))
 
 Pouvons-nous bien méditer avec étonnement sur les mots que nous pouvons découvrir dans _Le Livre d'Urantia_ car sûrement « aucun homme n'a jamais écrit ainsi ». La section du livre qui suit n’est qu’une parmi une multitude qui doit nous forcer à nous demander : « Quelqu’un pourrait-il jamais écrire ainsi. »
 

@@ -171,7 +171,7 @@ Jeremías vivió 100 años después de Isaías, durante la captura y destrucció
 ## VII. Textos seleccionados
 
 1. **El inicio de la obra de Jeremías**. ‘«Antes que te formase en el vientre te conocí, y antes que nacieras te santifiqué; te nombré profeta a las naciones.’» [1:5](/es/Bible/Jeremiah/1#v5) .
-	(**Nota**: Este texto recuerda las enseñanzas del Libro de Urantia, respecto a que los Ajustadores del Pensamiento obtienen proyecciones anticipadas sobre sus posibles sujetos humanos, como se encuentra en [LU 108:1.2](/es/El_Libro_de_Urantia/108#p1_2))
+	(**Nota**: Este texto recuerda las enseñanzas del Libro de Urantia, respecto a que los Ajustadores del Pensamiento obtienen proyecciones anticipadas sobre sus posibles sujetos humanos, como se encuentra en [LU 108:1.2](/es/The_Urantia_Book/108#p1_2))
 2. **Cisternas rotas**. «‘Dos males ha hecho mi pueblo: me han abandonado a mí, fuente de agua viva, y se han cavado cisternas, cisternas rotas, que no retienen agua.’» [2:13](/es/Bible/Jeremiah/2#v13).
 3. **¿Qué pasó?**. «‘Desde el más pequeño hasta el más grande de ellos, todos codician ganancias injustas; y desde el profeta hasta el sacerdote, todos obran con mentira. Han sanado ligeramente la herida de mi pueblo, diciendo: »Paz, paz«, cuando había no hay paz.’» [6:13,14](/es/Bible/Jeremiah/6#v13).
 4. **Sin paz**. «‘Esperábamos paz, pero nada bueno vino, tiempo de curación, sino he aquí terror.’» [8:15](/es/Bible/Jeremiah/8#v15).

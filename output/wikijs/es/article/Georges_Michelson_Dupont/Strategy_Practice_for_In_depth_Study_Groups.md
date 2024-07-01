@@ -321,7 +321,7 @@ La siguiente cita de la Biblia contiene un error. _«Es_ por _el Hijo_ que _Dios
 
 Se corrige autorizadamente con la siguiente frase: «. . . Es por los Hijos de Dios que fueron hechos los universos. . . «. <a id="s321_123"></a>[LU 1:0.1](/es/The_Urantia_Book/1#p0_1)
 
-> «La idea bárbara de apaciguar a un Dios enojado, de propiciar a un Señor ofendido, de ganarse el favor de la Deidad mediante sacrificios y penitencias e incluso mediante el derramamiento de sangre, representa una religión totalmente pueril y primitiva, una filosofía indigna de una época ilustrada. de la ciencia y la verdad». [LU 4:5.4](/es/El_Libro_de_Urantia/4#p5_4)
+> «La idea bárbara de apaciguar a un Dios enojado, de propiciar a un Señor ofendido, de ganarse el favor de la Deidad mediante sacrificios y penitencias e incluso mediante el derramamiento de sangre, representa una religión totalmente pueril y primitiva, una filosofía indigna de una época ilustrada. de la ciencia y la verdad». [LU 4:5.4](/es/The_Urantia_Book/4#p5_4)
 
 El Divino Consejero denuncia aquí el dogma cristiano de la muerte de Cristo en la cruz para la remisión de los pecados de los hombres.
 

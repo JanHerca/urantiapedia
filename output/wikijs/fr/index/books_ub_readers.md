@@ -44,7 +44,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Science, anthropologie et archéologie dans le Livre d'Urantia</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ken Glasziou</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_Le_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>

@@ -41,7 +41,7 @@ Este ejemplo conecta páginas: el prólogo de _El Libro de Urantia_, con las pá
 O, por ejemplo, las ayudas de estudio y los artículos están en Markdown. Este es un extracto del primer capítulo del Cuaderno I de William Sadler:
 
 ```markdown
-**REFERENCIA**: [UB 1:0.1](/es/El_Libro_de_Urantia/1#p0_1) — “El Padre Universal es...”
+**REFERENCIA**: [UB 1:0.1](/es/The_Urantia_Book/1#p0_1) — “El Padre Universal es...”
 ```
 
 Este ejemplo conecta una página (un capítulo de un libro) con un párrafo (ancla) en _El Libro de Urantia_. Usamos para eso la forma estándar para un ancla con un carácter `#`, y el uso de un identificador único (en este caso `p0_1`). Cada párrafo o encabezado de un documento de _El Libro de Urantia_ tiene un identificador único y un ancla que sigue este patrón: `p<índice_sección>_<índice_párrafo>`, que sigue la convención habitual `<documento>:<sección>.<párrafo> ` para nombrar párrafos en el Libro.
