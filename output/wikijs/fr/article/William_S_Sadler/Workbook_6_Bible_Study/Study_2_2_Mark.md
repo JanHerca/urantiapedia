@@ -173,7 +173,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 8. Toutes les religions du Proche-Orient avaient cette idée de «mystère» - en fait, elles étaient connues sous le nom de «cultes du mystère».
 9. L'aveuglement et l'obstination du peuple juif n'étaient pas de la stupidité, mais une sorte de jugement divin qui les avait dépassés, comme Dieu endurcissant le cœur de Pharaon.
 10. Il y avait une première trace d'antisémitisme ou plutôt d'antijudaïsme dans l'évangile de Marc.
-11. Quand tout est dit et fait, vous ne pouvez pas vous empêcher de sentir que Marc ** sait ** vraiment que Jésus était le Messie - pas le Juif, mais le Chrétien.
+11. Quand tout est dit et fait, vous ne pouvez pas vous empêcher de sentir que Marc **sait** vraiment que Jésus était le Messie - pas le Juif, mais le Chrétien.
 12. Marc est l'un des livres les plus «précieux» jamais écrits, mais il ne nous donne pas un récit complet de la vie de Jésus.
 
 ## VIII. Textes sélectionnés

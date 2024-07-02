@@ -132,14 +132,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 8. Environ cent ans avant les réformes de Josias, Ézéchias avait effectué des réformes similaires.
 9. C'était l'époque où les Juifs de toute la Palestine recevaient la permission d'abattre des animaux pour se nourrir, sans les services des Lévites aux autels.
 10. Jusqu'à cette époque, tous les animaux étaient d'abord offerts en sacrifice, puis des portions consommées comme nourriture.
-11. Le Deutéronome était quelque chose de nouveau dans les écrits sacrés. Il a exalté le sacerdoce et soutenu le temple de Jérusalem comme le ** seul ** lieu de culte sacrificiel. En même temps, il sonnait avec le ton des prophètes, bien que Moïse en soit la figure centrale.
+11. Le Deutéronome était quelque chose de nouveau dans les écrits sacrés. Il a exalté le sacerdoce et soutenu le temple de Jérusalem comme le **seul** lieu de culte sacrificiel. En même temps, il sonnait avec le ton des prophètes, bien que Moïse en soit la figure centrale.
 
 ## VIII. Théologie
 
 1. La principale exigence du Deutéronome est la « fidélité à Yahweh ».
 2. «Le Seigneur est Dieu, il n'y a personne d'autre que lui.» [4:35](/fr/Bible/Deuteronomy/4#v35).
 3. Jamais auparavant un Dieu n'a pris une «nation pour lui». [4:32-34](/fr/Bible/Deuteronomy/4#v32).
-4. Yahweh n'est pas seulement un Dieu gracieux et aimant, mais aussi un Dieu ** jaloux **.
+4. Yahweh n'est pas seulement un Dieu gracieux et aimant, mais aussi un Dieu **jaloux**.
 5. La terre appartenait à Dieu. Ils doivent obéir à Dieu «afin que leurs jours se prolongent dans le pays».
 6. Les raisons du choix d'Israël étaient **mystérieuses**\- seulement que Yahweh avait promis aux Patriarches.
 7. La deuxième pensée majeure du Deutéronome est que Dieu a dirigé les destinées d'Israël. "Quand ils ont mal agi, il les a punis. Quand ils ont bien agi, il les a délivrés.

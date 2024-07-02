@@ -105,7 +105,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 8. Les grandes histoires de Samson ont à voir avec les exploits toujours récurrents des Philistins.
 9. Le Cantique de Deborah illustre le zèle dynamique du Yahviste de ces temps.
 10. L'éthique et la morale de ces jours n'étaient pas élevées. Les hommes étaient intelligents et perfides et assassinés à la moindre provocation. Samson a rendu visite à une prostituée.
-11. Quels que soient les autres attributs que Yahweh puisse avoir, il est toujours un Dieu ** jaloux **.
+11. Quels que soient les autres attributs que Yahweh puisse avoir, il est toujours un Dieu **jaloux**.
 12. La philosophie des Juges est toujours le vieux concept juif : obéir à Dieu et prospérer, désobéir et souffrir.
 
 (La morale de l'époque peut être jugée par l'histoire de la concubine mourant de mauvais traitements, puis découpée et les parties envoyées à l'étranger dans le pays comme un appel à venger l'outrage.)

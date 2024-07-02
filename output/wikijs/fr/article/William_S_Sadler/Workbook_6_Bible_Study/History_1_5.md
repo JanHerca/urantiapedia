@@ -106,7 +106,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- c. Il a presque complètement négligé le Cantique des Cantiques et l'Apocalypse.
 	- d. Il voulait affirmer l'infaillibilité de la Bible, mais a été contraint d'admettre des erreurs mineures.
 	- e. Calvin s'inquiétait de la façon négligente dont Paul citait les Écritures. Voir Éph. 4:8. «Quand il est monté en haut, il a conduit une armée de captifs et il a fait des dons aux hommes.» C'est Ps. 68:18, qui se lit comme suit: «Tu es monté sur la haute montagne, entraînant des captifs à ta suite et recevant des dons parmi les hommes.»
-	- F. Si la Bible était «inspirée», Calvin pensait que Paul aurait dû citer le passage ** textuellement **.
+	- F. Si la Bible était «inspirée», Calvin pensait que Paul aurait dû citer le passage **textuellement**.
 	- g. Il pensait la même chose à propos de [Heb 2:7](/fr/Bible/Hebrews/2#v7) et [Ps 8:5](/fr/Bible/Psalms/8#v5).
 	- h. Calvin pensait que II Peter était «inférieur» - mais a dit que cela pouvait s'expliquer par le fait que Peter l'avait écrit dans sa «vieillesse».
 	- i. Calvin a interprété la Bible, en général, de deux manières :

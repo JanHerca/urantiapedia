@@ -48,7 +48,7 @@ Je me demande souvent ce que pensent nos superviseurs spirituels de l'état du m
 
 > _Des croyants individuels, ressentant le besoin d'une action indépendante, ont lancé des projets conçus pour transcender l'influence des conflits non résolus entre les dirigeants, et c'est peut-être la prochaine étape de l'évolution : un réseau de fondations privées dédiées à des projets spécifiques, un semis de révélation à la base. services indépendants de toute organisation faîtière._
 
-Sommes-nous prêts ? Je pense que l’escalade du conflit, la lutte pour le contrôle du livre sont la preuve que nous ne sommes pas préparés. De plus, je crois que si nous continuons dans cette voie, nos organisations finiront par devenir obsolètes et pourraient involontairement institutionnaliser une religion *** autour *** du livre.
+Sommes-nous prêts ? Je pense que l’escalade du conflit, la lutte pour le contrôle du livre sont la preuve que nous ne sommes pas préparés. De plus, je crois que si nous continuons dans cette voie, nos organisations finiront par devenir obsolètes et pourraient involontairement institutionnaliser une religion ***autour*** du livre.
 
 Il n’existe pas de solutions toutes faites. Dans nos meilleurs moments, nous rêvons d’une communauté unifiée, libre de la lutte pour le contrôle du texte, partageant les fruits de l’esprit avec un monde en difficulté. Dans nos moments les plus perspicaces, nous envisageons un partenariat actif avec le gouvernement planétaire, fournissant un soutien administratif en vue de la préparation du prochain âge spirituel. Dans nos moments les plus privés, chacun de nous recherche sincèrement un plus grand service envers notre Fils Créateur et envers le Suprême.
 

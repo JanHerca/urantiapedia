@@ -169,7 +169,7 @@ Par exemple, Matthew Block est un lecteur qui a fait un excellent travail pour t
 
 ### Autres livres de lecteurs
 
-Les lecteurs peuvent également ajouter à * Urantipedia * leurs propres livres écrits s'ils souhaitent les partager en tant que licence publique. La façon de les ajouter est comme pour tout autre livre, dans le chemin `book`, avec une page pour le titre, l'auteur, l'avis de droit d'auteur et la date, une page pour l'index et une page par chapitre. Les livres, bien sûr, doivent avoir une relation avec *Le Livre d'Urantia* et fournir une sorte d'aide à la compréhension du livre, et non des romans ou tout autre travail inspiré avec peu de relations avec le livre.
+Les lecteurs peuvent également ajouter à *Urantipedia* leurs propres livres écrits s'ils souhaitent les partager en tant que licence publique. La façon de les ajouter est comme pour tout autre livre, dans le chemin `book`, avec une page pour le titre, l'auteur, l'avis de droit d'auteur et la date, une page pour l'index et une page par chapitre. Les livres, bien sûr, doivent avoir une relation avec *Le Livre d'Urantia* et fournir une sorte d'aide à la compréhension du livre, et non des romans ou tout autre travail inspiré avec peu de relations avec le livre.
 
 Le modèle d'URL pour ces livres est le suivant : `https://urantiapedia.org/en/book/[AUTEUR]/[book_title]` pour les livres dont l'auteur est connu ou `https://urantiapedia.org/en/book/[book_title]` pour les livres anonymes. Sachez que le titre du livre dans l'URL est recommandé d'être en anglais même si la langue d'origine dans laquelle le livre est écrit n'est pas l'anglais. Vérifiez plus à ce sujet dans une section ci-dessous.
 

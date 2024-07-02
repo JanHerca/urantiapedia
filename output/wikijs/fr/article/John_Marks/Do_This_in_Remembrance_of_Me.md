@@ -122,7 +122,7 @@ Bien entendu, les vraies religions ne peuvent pas être simplement fabriquées. 
 
 [^2]: Une excellente revue du rôle du rituel dans la religion est l'article d'Evan M. Zuesse « Ritual » dans _The Encyclopedia of Religion_, Mircea Eliade, rédacteur en chef (New York : Macmillan, 1987), vol. 12, p. 405-422
 
-[^3]: Par exemple, [Matt. 9:10-17](/fr/Bible/Matthew/9#v10); [12:1-14](/fr/Bible/Matthew/12#v1) ; [Marc 2:15-28](/fr/Bible/Mark/2#v15) ; [3:1-6](/fr/Mark/Bible/3#v1) ; [Luc 5:29-39](/fr/Bible/Luke/5#v29) ; [6:1-11](/fr/Bible/Luke/6#v1). <a id="a124_237"></a>[LU 147:5.1](/fr/The_Urantia_Book/147#p5_1) - <a id="a124_283"></a>[LU 147:8.6](/fr/The_Urantia_Book/147#p8_6)
+[^3]: Par exemple, [Matt. 9:10-17](/fr/Bible/Matthew/9#v10); [12:1-14](/fr/Bible/Matthew/12#v1) ; [Marc 2:15-28](/fr/Bible/Mark/2#v15) ; [3:1-6](/fr/Bible/Mark/3#v1) ; [Luc 5:29-39](/fr/Bible/Luke/5#v29) ; [6:1-11](/fr/Bible/Luke/6#v1). <a id="a124_237"></a>[LU 147:5.1](/fr/The_Urantia_Book/147#p5_1) - <a id="a124_283"></a>[LU 147:8.6](/fr/The_Urantia_Book/147#p8_6)
 
 [^4]: Voir <a id="a126_11"></a>[LU 120:3.6-7](/fr/The_Urantia_Book/120#p3_6), points 5 et 6 ; cf. <a id="a126_78"></a>[LU 151:3.2-16](/fr/The_Urantia_Book/151#p3_2).
 

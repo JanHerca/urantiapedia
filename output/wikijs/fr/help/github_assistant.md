@@ -66,7 +66,7 @@ Ce projet est public. N'importe qui peut télécharger les fichiers. Vous avez d
 
 ### Téléchargement de tout le projet
 
-Pour tout télécharger, allez à la page principale du [projet dans GitHub](https://github.com/JanHerca/urantiapedia) et dans le bouton vert qui dit *Code*, cliquez et sélectionnez l'option *Download ZIP*. Le navigateur commencera à télécharger un fichier ZIP avec le contenu le plus à jour. Enregistrez-le dans n'importe quel dossier ou vérifiez votre dossier * Téléchargements * pour localiser le fichier.
+Pour tout télécharger, allez à la page principale du [projet dans GitHub](https://github.com/JanHerca/urantiapedia) et dans le bouton vert qui dit *Code*, cliquez et sélectionnez l'option *Download ZIP*. Le navigateur commencera à télécharger un fichier ZIP avec le contenu le plus à jour. Enregistrez-le dans n'importe quel dossier ou vérifiez votre dossier *Téléchargements* pour localiser le fichier.
 
 Sachez que le téléchargement peut être long car le projet contient une bonne quantité de fichiers. Vous devez disposer d'au moins 2 à 3 GB d'espace libre sur votre ordinateur.
 

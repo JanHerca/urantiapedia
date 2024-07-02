@@ -33,7 +33,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 - **L'état du mouvement Urantia, Janet Farrington Graham**
-- ** Des objectifs, pas des croyances : culte et service, Rosey Lieske **
+- **Des objectifs, pas des croyances : culte et service, Rosey Lieske**
 - **La mythologie du _Le Livre d'Urantia_, Richard I. Bain**
 - **Œcuménisme planétaire, Jay Newbern**
 - **Révélation et patience, Steven R. Johnson**

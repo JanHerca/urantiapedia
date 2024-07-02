@@ -75,7 +75,7 @@ Je crois que dans les temps à venir, _Le Livre d'Urantia_ pourrait atteindre un
 
 Je crois qu'aujourd'hui nous sommes dans la phase d'évolution des enseignants enseignants de la communauté Urantia. Nous devons leur donner les outils nécessaires pour réussir à présenter le livre à de nombreux types de personnes différentes dans des situations très différentes. De quels meilleurs outils pourrions-nous les équiper que l'enseignement
 
-> _Richard Bain est ingénieur électricien et rédacteur en chef d'Innerface International. Il étudie depuis longtemps le Livre d'Urantia.
+> _Richard Bain est ingénieur électricien et rédacteur en chef d'Innerface International. Il étudie depuis longtemps le Livre d'Urantia._
 {.is-info}
 
 > _Un jour, une réforme dans l’Église chrétienne pourrait avoir un impact assez profond pour revenir aux purs enseignements religieux de Jésus, source et aboutissement de notre foi._ (<a id="a80_184"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))

@@ -88,10 +88,10 @@ Pour copier les versets d'e-Sword vers des fichiers bibliques, nous pouvons util
 3. Maintenant, dans e-Sword, sélectionnez le menu *Bible* puis *Copy versets*. La fenêtre *Copier les versets* s'ouvre.
 4. Dans les sélecteurs supérieurs, sélectionnez le livre, dans cet exemple *Genesis*, et sélectionnez le premier verset (généralement celui par défaut) et le dernier verset du dernier chapitre (généralement pas celui par défaut).
 5. Comme format de sortie, laissez la première option sélectionnée, la valeur par défaut, qui crée des textes comme `Gen 1: 1 The verse text`.
-6. Cliquez maintenant sur * Copier *, puis collez Visual Studio Code sous le titre.
+6. Cliquez maintenant sur *Copier*, puis collez Visual Studio Code sous le titre.
 7. Le texte collé doit être modifié pour suivre les conventions de format LaTeX. On va faire ça très vite avec trois remplacements.
 8. Dans Visual Studio Code, sélectionnez le menu *Édition > Remplacer*.
-9. Dans la zone *Rechercher*, tapez `^... ` (n'oubliez pas d'ajouter un espace final). Dans la zone * Remplacer *, tapez `\par ` (faites également attention à ajouter un espace final). Assurez-vous que le bouton *Utiliser une expression régulière* est cliqué. Cliquez maintenant sur le bouton * Remplacer tout *.
+9. Dans la zone *Rechercher*, tapez `^... ` (n'oubliez pas d'ajouter un espace final). Dans la zone *Remplacer*, tapez `\par ` (faites également attention à ajouter un espace final). Assurez-vous que le bouton *Utiliser une expression régulière* est cliqué. Cliquez maintenant sur le bouton * Remplacer tout *.
 10. Ensuite, dans la zone *Rechercher*, tapez `\\par ([0-9]*):([1]) ` (veillez à ajouter l'espace final). Dans la zone *Remplacer*, tapez `\n\chapter{$1}\n\n\par $2` (sachez qu'il n'y a plus d'espace supplémentaire). Cliquez sur *Remplacer tout*. Cela créera les balises de chapitre.
 11. Enfin, dans la zone *Rechercher*, tapez `\\par ([0-9]*):([0-9]*) ` (attention à ajouter l'espace final). Dans la zone *Remplacer*, tapez `\par $2` (sans espace final). Cliquez sur *Remplacer tout*. Cela définira le format correct pour les paragraphes.
 12. C'est tout. Vous devez maintenant répéter ce processus avec chaque livre de la Bible. C'est une tâche ennuyeuse mais cela prend moins d'une heure pour avoir tous les livres de la Bible dans le bon format pris en charge dans *Urantiapedia*.

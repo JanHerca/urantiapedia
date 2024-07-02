@@ -160,6 +160,6 @@ Las Acciones de Fe son movimientos dramáticos que quienes nos conocen no podrí
 
 [^3]: Frankl, Víktor. La búsqueda de sentido del hombre. Washington Square Press, 1985, págs. 133-134
 
-[^4]: _El libro de Urantia_, Pathways Edition, 1994, págs. 31 $& 43$
+[^4]: _El libro de Urantia_, Pathways Edition, 1994, págs. 31 & 43
 
 [^5]: Sprunger, Meredith J. Psicología espiritual (p. 97). Wilmette: Jemenon, 1992

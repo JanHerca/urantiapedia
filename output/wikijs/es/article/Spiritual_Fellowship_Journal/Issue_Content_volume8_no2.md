@@ -123,6 +123,7 @@ Tom Choquette
 Steve Dreyer
 David y Rebeca Kantor
 Dianne La Brecque
+Rosey Lieske
 Victor McGonnegal
 Sue Tennant
 

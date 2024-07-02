@@ -149,7 +149,7 @@ Quant aux quatre premières questions, permettez-moi de vous présenter le point
 
 Quant à la dernière question, sur les rôles que vous attendez de votre ministre, permettez-moi de vous donner une liste de neuf types de rôles et de responsabilités délégués à un ministre typique dans une petite église : [^2]
 
-1. ** Liturgique ** — dans ce rôle, le ministre est prêtre et prédicateur. Il préside les services religieux, les cérémonies telles que les mariages et les funérailles, ainsi que les rituels religieux.
+1. **Liturgique** — dans ce rôle, le ministre est prêtre et prédicateur. Il préside les services religieux, les cérémonies telles que les mariages et les funérailles, ainsi que les rituels religieux.
 2. En tant qu'**enseignant**, elle assume la responsabilité d'apporter des informations à la communauté et de traiter ces informations d'un point de vue religieux. Ce rôle comprend, sans toutefois s'y limiter, l'information et l'interprétation religieuses.
 3. En tant que **Donateur de soins pastoraux**, il conseille les individus, les couples et les familles en difficulté et il s'occupe des familles en cas de maladie, d'accident et de décès.
 4. **Administratrice** — dans ce rôle, elle coordonne les groupes et les activités au sein de la congrégation.

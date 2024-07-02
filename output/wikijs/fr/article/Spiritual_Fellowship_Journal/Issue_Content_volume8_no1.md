@@ -114,7 +114,7 @@ Jack Williams
 
 <ins>Consultants éditoriaux</ins>
 Larry et Joan Mullins
-Joe Contremaître
+Joe Foreman
 Don Green
 Merritt Corne
 André Radatus
@@ -126,7 +126,7 @@ Victor McGonnegal
 Sue Tennant
 David Biggs
 Rosey Lieske
-Dianne La Brèque
+Dianne La Brecque
 
 _Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an conjointement par la Communauté chrétienne des étudiants du _Livre d'Urantia_ à Fort Wayne, Indiana et le Christ Michael Corps for Publishing and Outreach à Boulder, Colorado.
 
@@ -151,7 +151,7 @@ Don annuel suggéré-\$10.
 
 ***Éditoriaux***
 
-- ** Sensibilisation équilibrée **
+- **Sensibilisation équilibrée**
     Ce que nous essayons maintenant de faire dans le Journal, c'est d'élargir et d'équilibrer notre programme de sensibilisation et nos discussions.
 - **Temps de transition**
     À l’approche du troisième millénaire, les visions apocalyptiques sont omniprésentes.
@@ -183,7 +183,7 @@ Don annuel suggéré-\$10.
 - ***Le Livre d'Urantia et le Renouveau Spirituel*** :
     Mon introduction à Jésus
 - ***Série de sermons*** (pt.4) : Partager notre expérience spirituelle
-- *** Sensibilisation aux jeunes Urantiens ***
+- ***Sensibilisation aux jeunes Urantiens***
 
 > **Note d'Urantiapedia** : Ce numéro se termine par le même document intitulé [« Préambule suggestif pour la constitution d'une organisation religieuse basée sur la cinquième révélation d'époque »](/fr/article/Spiritual_Fellowship_Journal/Constitution_of_a_Religious_Organization) qui a été inclus dans un numéro précédent. Pour éviter les répétitions, un lien est fourni.
 {.is-info}

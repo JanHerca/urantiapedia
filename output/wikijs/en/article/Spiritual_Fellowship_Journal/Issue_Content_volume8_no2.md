@@ -121,7 +121,8 @@ David Biggs
 Tom Choquette
 Steve Dreier
 David & Rebecca Kantor
-Dianne La Brecque Rosey Lieske
+Dianne La Brecque
+Rosey Lieske
 Victor McGonnegal
 Sue Tennant
 

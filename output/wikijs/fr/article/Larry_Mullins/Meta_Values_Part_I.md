@@ -160,6 +160,6 @@ Comment pouvons-nous, Urantiens, être sûrs que nos actions sont motivées par 
 
 [^3]: Frankl, Viktor. La recherche de sens de l'homme. Washington Square Press, 1985, pages 133-134.
 
-[^4]: _Le Livre d'Urantia_, Pathways Edition, 1994, pp. 31 $& 43$
+[^4]: _Le Livre d'Urantia_, Pathways Edition, 1994, pp. 31 & 43
 
 [^5]: Sprunger, Meredith J. Psychologie spirituelle (p. 97). Wilmette : Jéménon, 1992

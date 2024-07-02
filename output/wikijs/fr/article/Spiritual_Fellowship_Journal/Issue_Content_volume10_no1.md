@@ -161,7 +161,7 @@ Don annuel suggéré : 10 $.
 
 - ***Énoncé de mission***
 - ***Interface : une célébration de la basse technologie***
-- *** Sensibilisation créative : en sa présence ***
+- ***Sensibilisation créative : en sa présence***
 - ***Série de sermons*** (pt.7) : **La résurrection de la valeur**
 - ***Critique de livre : Les pouvoirs en place***
 - ***Psaumes aujourd'hui***

@@ -118,7 +118,7 @@ Si ce mouvement visant à construire une organisation religieuse urantienne se d
 
 Je crois que nous avons beaucoup à apprendre des religions et des institutions religieuses du monde. Ils ont développé des symboles, des rituels et de la musique psychologiquement satisfaisants au fil des siècles et des millénaires. Je ne crois pas que nous devrions nous contenter de la simple imitation, mais nous devrions profiter à la fois des erreurs et des leçons durement acquises de toutes ces sources, et sélectionner et adapter les meilleures d'entre elles pour répondre à nos besoins. Isaac Newton a déclaré qu'il se tenait sur les épaules des géants scientifiques qui l'ont précédé. Il ne fait aucun doute que nous nous tiendrons également sur les épaules de géants – les géants spirituels des âges passés.
 
-> _Richard Bain est ingénieur électricien et rédacteur en chef d'Innerface International. Il est un étudiant de longue date du Livre d'Urantia.
+> _Richard Bain est ingénieur électricien et rédacteur en chef d'Innerface International. Il est un étudiant de longue date du Livre d'Urantia._
 {.is-info}
 
 

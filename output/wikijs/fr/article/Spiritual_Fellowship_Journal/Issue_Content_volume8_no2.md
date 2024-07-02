@@ -112,7 +112,7 @@ Jack Williams
 
 <ins>Consultants éditoriaux</ins>
 Larry et Joan Mullins
-Joe Contremaître
+Joe Foreman
 Don Green
 Merritt Corne
 André Radatus
@@ -122,7 +122,8 @@ David Biggs
 Tom Choquette
 Steve Dreier
 David et Rebecca Kantor
-Dianne La BrecqueRosey Lieske
+Dianne La Brecque
+Rosey Lieske
 Victor McGonnegal
 Sue Tennant
 
