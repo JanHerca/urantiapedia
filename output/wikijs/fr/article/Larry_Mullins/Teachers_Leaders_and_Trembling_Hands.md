@@ -86,3 +86,5 @@ Comme l'a déclaré le Maître sur <a id="a61_32"></a>[LU 155:6.5](/fr/The_Urant
     </tbody>
   </table>
 </figure>
+
+<br>

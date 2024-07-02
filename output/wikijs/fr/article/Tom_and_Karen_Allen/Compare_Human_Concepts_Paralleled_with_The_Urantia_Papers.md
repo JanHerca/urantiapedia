@@ -40,7 +40,7 @@ _L'un des objectifs importants de la révélation, nous dit-on dans les Fascicul
 > « Aucune erreur n’est plus courante et plus stupide que de faire appel à la logique dans des cas qui dépassent sa compétence. »
 > — Samuel Butler, écrivain (1835-1902)
 
-> _ Il est à peu près impossible à la logique humaine et à la raison finie d’harmoniser le concept de l’immanence divine, un Dieu intérieur faisant partie de chaque individu, avec l’idée de la transcendance de Dieu, la domination divine de l’univers des univers._ (<a id="a42_265"></a>[LU 5:5.6](/fr/The_Urantia_Book/5#p5_6))
+> _Il est à peu près impossible à la logique humaine et à la raison finie d’harmoniser le concept de l’immanence divine, un Dieu intérieur faisant partie de chaque individu, avec l’idée de la transcendance de Dieu, la domination divine de l’univers des univers._ (<a id="a42_265"></a>[LU 5:5.6](/fr/The_Urantia_Book/5#p5_6))
 
 ---
 
@@ -109,7 +109,7 @@ _L'un des objectifs importants de la révélation, nous dit-on dans les Fascicul
 
 > _Durant les sept années de cette affectation, ce Fils Instructeur de la Trinité ne fut jamais tout à fait persuadé de l’identité de son associé séraphique. Il est vrai que, durant cette période, tous les séraphins furent considérés avec un intérêt et un soin particuliers. Nous savions parfaitement que notre Souverain bien-aimé était au loin dans l’univers, sous la forme d’un séraphin, mais nous ne pûmes jamais être certains de son identité. Il ne fut jamais identifié positivement avant l’époque de son attachement à la mission d’effusion de ce Fils Instructeur de la Trinité. Au cours de cette période, les séraphins suprêmes furent toujours traités avec une sollicitude spéciale, de crainte que l’un de nous ne découvre qu’à son insu, il avait été l’hôte recevant le Souverain de l’univers en mission d’effusion sous forme d’une créature. »._ (<a id="a109_852"></a>[LU 119:4.4](/fr/The_Urantia_Book/119#p4_4))
 
---
+---
 
 > « Chaque lendemain a deux poignées. Nous pouvons nous en emparer avec la poignée de l’anxiété ou avec la poignée de la foi.
 > —Henry Ward Beecher (1813-87)

@@ -1,6 +1,6 @@
 ---
 title: "La famille – Berceau de la citoyenneté cosmique"
-description: "Discours plénière, _Urantia Book_ Fellowship, Conférence internationale, 1999"
+description: "Discours plénière, Urantia Book Fellowship, Conférence internationale, 1999"
 published: true
 date: 2023-09-29T14:02:03.086Z
 tags: The Spiritual Fellowship Journal, Spiritual Fellowship, article

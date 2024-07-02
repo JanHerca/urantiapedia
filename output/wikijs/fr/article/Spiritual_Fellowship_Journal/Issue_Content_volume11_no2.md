@@ -149,7 +149,7 @@ Don annuel suggéré : $\$ 10. Veuillez libeller votre chèque à l'ordre de Pen
 	« J’en ai fini avec les grandes choses et les grands projets, les grandes institutions et les grands succès. Je suis pour ces forces humaines minuscules, invisibles et aimantes qui travaillent d'individu à individu, rampant à travers les recoins du monde comme autant de radicelles, ou comme le capillaire suintant de l'eau, mais qui, si on leur en donne le temps, déchireront les monuments les plus durs du monde. fierté humaine.
 - ***Livres importants***
 	- ***L'art des possibilités*** — Rosamund Stone Zander
-	- *** Pratiquer sa présence *** — Frank Laubach
+	- ***Pratiquer sa présence*** — Frank Laubach
 
 ***Des articles***
 

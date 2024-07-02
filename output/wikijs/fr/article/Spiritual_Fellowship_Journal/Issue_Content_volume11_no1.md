@@ -160,7 +160,7 @@ Don annuel suggéré : 10 $.
 
 - ***Énoncé de mission***
 - ***Interface : Vue Depuis les Tranchées***
-- *** Sensibilisation créative : enseignants, dirigeants et mains tremblantes ***
+- ***Sensibilisation créative : enseignants, dirigeants et mains tremblantes***
 - ***Série de sermons*** (pt. 9) : ***Une question de priorités***
 - ***L'Ascendance de la Cinquième Révélation d'Époque***
 - ***Psaumes aujourd'hui***
