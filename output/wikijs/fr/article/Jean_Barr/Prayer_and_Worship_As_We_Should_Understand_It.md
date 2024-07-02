@@ -132,7 +132,7 @@ Encore une fois, on nous dit que Dieu répond à la prière de l'homme :
 
 _Et l'adoration est la gratitude pour tout ce que nous avons, savons et sommes._
 
-> _Jean Barr est un ministre ordonné, a occupé des postes de direction dans le secteur des assurances pendant plus de 30 ans et est maintenant président de la Michael's Foundation, Inc., de Dallas, et responsable du marketing dans une société de soins gérés. _
+> _Jean Barr est un ministre ordonné, a occupé des postes de direction dans le secteur des assurances pendant plus de 30 ans et est maintenant président de la Michael's Foundation, Inc., de Dallas, et responsable du marketing dans une société de soins gérés._
 {.is-info}
 
 

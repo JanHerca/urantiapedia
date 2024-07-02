@@ -33,7 +33,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 
 
-> (L'article suivant, rédigé par Kenneth Glasziou, Qkl., Australie, est paru dans [Innerface International, novembre/décembre 1997] (/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions). Il est reproduit avec autorisation.)
+> (L'article suivant, rédigé par Kenneth Glasziou, Qkl., Australie, est paru dans [Innerface International, novembre/décembre 1997](/fr/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions). Il est reproduit avec autorisation.)
 {.is-info}
 
 > « Originellement, il y avait douze concepts distincts et divins de la vie transmissible. Ce nombre 12, avec ses subdivisions et ses multiples, se retrouve dans tous les modèles fondamentaux de vie des sept superunivers. Il existe aussi sept types architecturaux de modèles vitaux, sept combinaisons fondamentales des configurations de reproduction de la matière vivante. Les modèles de vie d’Orvonton sont organisés sous la forme de douze porteurs d’hérédité. Les différents ordres de créatures volitives sont organisés suivant les nombres 12, 24, 48, 96, 192, 384 et 768. Sur Urantia, les cellules sexuelles de la reproduction humaine comportent quarante-huit unités de contrôle archétypal — les déterminateurs de caractéristiques. » (<a id="a38_738"></a>[LU 36:2.11](/fr/The_Urantia_Book/36#p2_11))

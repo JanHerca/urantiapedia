@@ -48,7 +48,7 @@ Psychic Circles | Chakras | Sacraments | Sefirot
 6 | 2 Personal <br>Relationships | Communion - Honor <br>One Another | 9 Yesod - Foundation
 5 | 3 Self Self-esteem | Confirmation - Honor <br>Yourself, Honor Code | 8 & 7 Hod & Nezah <br>Majesty & Endurance
 4 | 4 Love | Marriage | 6 Tif’eret - Beauty 
-3 | Accept Divine Will | 5 Will Will to God | Confession - Surrender <br>Judgement & Mercy | 5 & 4 Gevurah, Hesed
+3 Accept Divine Will | 5 Will Will to God | Confession - Surrender <br>Judgement & Mercy | 5 & 4 Gevurah, Hesed
 2 | 6 Mind, Clarity | Ordination | 3 & 2 Binah, Hokhmah <br>Understanding, Wisdom 
 1 Adjuster Contact | 7 Oneness | Extreme Unction <br>From Physical to <br>Spiritual | 1 Keter - Divine Energy   
 

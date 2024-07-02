@@ -73,7 +73,7 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
-- Cet article a également été publié (en format court) ici : https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html (et il est également disponible dans Urantiapedia ici : [Le Défi du 21ème Siècle](/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
+- Cet article a également été publié (en format court) ici : [Innerface archive](https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3).html (et il est également disponible dans Urantiapedia ici : [Le Défi du 21ème Siècle](/fr/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
 
 
 

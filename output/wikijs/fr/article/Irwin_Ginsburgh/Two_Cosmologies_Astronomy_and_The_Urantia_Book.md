@@ -146,8 +146,8 @@ Parmi les futurs lecteurs du _Livre d'Urantia_, il y aura de plus en plus de sce
 
 ## Liens externes
 
-* Cet article dans _The Fellowship Herald_ : https://urantia-book.org/archive/newsletters/herald/
-* Traduction par Agustín Arellano Tirado sur le site de _Asociación Urantia de Chile_ : http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html
+* [Cet article dans _The Fellowship Herald_](https://urantia-book.org/archive/newsletters/herald/)
+* [Traduction par Agustín Arellano Tirado sur le site de _Asociación Urantia de Chile_](http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html)
 
 
 

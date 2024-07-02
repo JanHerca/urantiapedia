@@ -49,7 +49,7 @@ Cercles psychiques | Chakras | Sacrements | Séfirot
 6 | 2 Relations personnelles et relations | Communion - Honneur les uns aux autres | 9 Yessod - Fondation
 5 | 3 Estime de soi | Confirmation - Honneur à vous-même, code d'honneur | 8 & 7 Hod & Nezah <br>Majesté & Endurance
 4 | 4 Amour | Mariage | 6 Tif'eret - Beauté 
-3 | Acceptez la volonté divine | 5 Volonté à Dieu | Confession - Abandon au jugement et à la miséricorde | 5 et 4 Guevoura, Hesed
+3 Acceptez la volonté divine | 5 Volonté à Dieu | Confession - Abandon au <br>jugement et à la miséricorde | 5 et 4 Guevoura, Hesed
 2 | 6 Esprit, Clarté | Ordination | 3 & 2 Binah, Hokhmah et Compréhension, Sagesse 
 1 contact de réglage | 7 Unité | Extrême-Onction <br>Du physique au spirituel | 1 Keter - Énergie divine   
 

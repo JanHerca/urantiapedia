@@ -48,7 +48,7 @@ Círculos Psíquicos | Chakras | Sacramentos | Sefirot
 6 | 2 Relaciones personales personales | Comunión - Honrarse unos a otros | 9 Yesod - Fundación
 5 | 3 Autoestima | Confirmación - Honra a ti mismo, código de honor | 8 y 7 Hod y Nezah <br>Majestad y Resistencia
 4 | 4 Amor | Matrimonio | 6 Tif'eret - Belleza
-3 | Aceptar Voluntad Divina | 5 Voluntad Voluntad a Dios | Confesión - Entrega - Juicio y Misericordia | 5 y 4 Gueburá, Jesed
+3 Aceptar Voluntad Divina | 5 Voluntad Voluntad a Dios | Confesión - Entrega - <br>Juicio y Misericordia | 5 y 4 Gueburá, Jesed
 2 | 6 Mente, Claridad | Ordenación | 3 & 2 Binah, Hokhmah <br>Entendimiento, Sabiduría
 1 contacto de ajuste | 7 Unidad | Extremaunción <br>De lo físico a lo <br>espiritual | 1 Keter - Energía Divina
 
