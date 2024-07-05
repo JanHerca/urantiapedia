@@ -149,12 +149,12 @@ A tabela abaixo não está completa. Existem mais sites que estamos considerando
 | The Urantia Foundation       |            |                    |                    |                    |
 | - News Online                | 640        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - News Flash                 |  24        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| - Urantian                   |  63        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Urantian                   |  63        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Fellowship                   |            |                    |                    |                    |
-| - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - Study Group Herald         | 129        | :heavy_check_mark: | :heavy_check_mark: |                    |
-| - The Urantian               | 264        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - Study Group Herald         | 129        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - The Urantian               | 264        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | IUA                          |            |                    |                    |                    |
 | - Journal                    |  99        | :heavy_check_mark: | :heavy_check_mark: |                    |
 | - Tidings                    | 364        | :heavy_check_mark: | :heavy_check_mark: |                    |
