@@ -92,7 +92,9 @@ Seamos, pues, felices y valientes soldados de los círculos.
 
 20 de agosto de 1964
 
+## Referencias
 
+* [Esta comunicación también se encuentra en el sitio web de la Fellowship](https://archive.urantiabook.org/archive/history/doc991.htm)
 
 <figure class="table chapter-navigator">
   <table>

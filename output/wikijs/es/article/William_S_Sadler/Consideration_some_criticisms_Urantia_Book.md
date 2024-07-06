@@ -580,4 +580,5 @@ Y por último, pero no menos importante, **[la técnica de recibir los Documento
 ## Referencias
 
 Estudio obtenido de:
-- https://www.urantia.org/study/consideration-some-criticisms-urantia-book
+- [Sitio web de la Fundación Urantia](https://www.urantia.org/study/consideration-some-criticisms-urantia-book)
+- [Sitio web de la Fellowship](https://archive.urantiabook.org/archive/history/sadcrit.htm)

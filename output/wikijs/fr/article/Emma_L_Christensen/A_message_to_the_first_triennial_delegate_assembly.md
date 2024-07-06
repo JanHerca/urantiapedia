@@ -92,7 +92,9 @@ Soyons donc des soldats heureux et vaillants des cercles.
 
 20 août 1964
 
+## Références
 
+* [Cette communication se trouve également sur le site Web de la Fellowship](https://archive.urantiabook.org/archive/history/doc991.htm)
 
 <figure class="table chapter-navigator">
   <table>

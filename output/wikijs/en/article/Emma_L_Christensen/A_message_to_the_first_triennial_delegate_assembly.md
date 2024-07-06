@@ -91,6 +91,10 @@ Let us, therefore, be happy and valiant soldiers of the circles.
 
 August 20, 1964
 
+## References
+
+* [This communication also found in Fellowship website](https://archive.urantiabook.org/archive/history/doc991.htm)
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

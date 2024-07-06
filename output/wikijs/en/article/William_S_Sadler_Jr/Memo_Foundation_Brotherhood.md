@@ -82,3 +82,4 @@ William S. Sadler, Jr.
 ## References
 
 * [This article in The Urantia Book Fellowship archives](https://archive.urantiabook.org/archive/history/memo_1.htm)
+* [Original document in The Urantia Book Fellowship archives](https://archive.urantiabook.org/archive/originals/sadler_memo0458.pdf)

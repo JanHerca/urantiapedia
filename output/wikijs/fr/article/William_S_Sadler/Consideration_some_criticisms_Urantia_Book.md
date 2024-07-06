@@ -573,3 +573,9 @@ En réponse à cette critique, je soumets 74 concepts et doctrines qui sont nouv
 74. **[Le Corps de la Finalité.](/fr/The_Urantia_Book/31)** La destinée réelle des ascendeurs mortels dans le corps de la Finalité est un concept nouveau et original de la destinée mortelle.
 
 Et enfin, mais non des moindres, **[la technique consistant à recevoir les fascicules d'Urantia en réponse aux questions](https://www.urantia.org/urantia -foundation/history)** était une méthode entièrement nouvelle et unique pour transmettre informations de la part d'intelligences surhumaines. Le livre lui-même est original dans son origine et unique dans sa transmission.
+
+## Références
+
+Étude obtenue auprès de :
+- [Site Web de la Fondation Urantia](https://www.urantia.org/study/consideration-some-criticisms-urantia-book)
+- [Site Web de la Fellowship](https://archive.urantiabook.org/archive/history/sadcrit.htm)

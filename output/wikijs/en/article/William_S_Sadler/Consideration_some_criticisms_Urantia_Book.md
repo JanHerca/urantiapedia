@@ -580,4 +580,5 @@ And last, but not least, **[the technique of receiving the Urantia Papers in ans
 ## References
 
 Study obtained from:
-- https://www.urantia.org/study/consideration-some-criticisms-urantia-book
+- [Urantia Foundation website](https://www.urantia.org/study/consideration-some-criticisms-urantia-book)
+- [Fellowship website](https://archive.urantiabook.org/archive/history/sadcrit.htm)

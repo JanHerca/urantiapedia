@@ -82,3 +82,4 @@ William S. Sadler, Jr.
 ## Referencias
 
 * [Este artículo en los archivos de la Fellowship de El Libro de Urantia](https://archive.urantiabook.org/archive/history/memo_1.htm)
+* [Documento original en los archivos de la Fellowship de El Libro de Urantia](/en/article/William_S_Sadler_Jr/Memo_Foundation_Brotherhood)
