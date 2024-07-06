@@ -336,9 +336,27 @@ The vast majority of the Brotherhood have concurred in this sort of quiet and gr
 
 One thing should be made clear: Nothing is done to interfere with the energetic and enthusiastic efforts of any individuals to introduce _The Urantia Book_ to his varied contacts and human associations.
 
+## Notes from The Fellowship edition
+
+> Editor's note: The following document was submitted to the court by Urantia Foundation in the Maaherra case and was represented as having been written by Dr. Sadler.
+> 
+> The version reproduced below was digitized from a xerox copy of what is believed to be a typewritten original. The assumption of originality is based on the nature of hand-written notes which appear in the margins. There is no signature nor is there any indication anywhere on them that Dr. Sadler is indeed the author. Larry Mullins refers to this history as “History 2.” Larry Mullins comments, “Although Urantia Foundation and others continue to refer to this document as “written by Dr. Sadler,” it almost certainly was not. After careful examination, the 30 page original appears to be the long lost, unfinished “history” of Emma Louise Christensen. This history was known to exist, but could not be found after her death in 1982. “Christy,” as she was known, apparently used “History 1” as a template, inserted a few pages authored by Dr. Sadler but never published, and added her own observations. The “History 2” document, as submitted to the Court, had no cover page, but began with what was “page 2” of “History 1.””
+> 
+> “The pages were obviously renumbered, in some cases having two conflicting page numbers. “History 2” is a hybrid that is obviously the product of an inexperienced writer and editor. Dr. Sadler was an accomplished author. There are awkward shifts from second to third person, and long passages refer to Dr. Sadler in the third person. In one place (page 7 of the original) the writer inserted a comment, “The doctor continues his narrative:” — Dr. Sadler never wrote about himself in this manner. The information in “History 2” is helpful, but must be regarded with some caution and weighed against other information.” \[End of comment by Larry Mullins.\]
+> 
+> There are two additional versions of the history below which are dated 1960 and attributed to Marian Rowley. Marian's histories are apparently condensations of the more extensive history reproduced below and contain her comments in which she notes the items which she intends to omit from the original in her “official history”. The condensation by Marian Rowley is the history which Larry Mullins refers to as “History 1.” While Mullins holds that “History 2” was an expanded version of “History 1,” Marian Rowley's notes indicate that “History 1” was actually a condensation of “History 2.” In spite of the fact that Marian indicates her source document was an edited version of “Dr.'s” history, the critique of the authorship of “History 2” presented by Larry Mullins leads to other conclusions. To study this matter in greater detail, see:
+> 
+> - [Marian Rowley's draft of a history; June 1960](https://archive.urantiabook.org/archive/history/marians_history_draft.htm)    
+>   - [See PDF reproduction of original](https://archive.urantiabook.org/archive/originals/marian_draft_history.pdf) PDF
+> - [Marian Rowley's completed history, June 1960](https://archive.urantiabook.org/archive/history/marians_history_final.htm)   (This corresponds to Larry Mullins' “History 1”)
+>   - [See PDF reproduction of origina](https://archive.urantiabook.org/archive/originals/marian_completed_history.pdf) PDF (Compare Marian's completed history with her draft noted above as well as with the history attributed to Dr. Sadler from the same time period which is reproduced below.)
+> - [See Marian's comparison of the two histories](https://archive.urantiabook.org/archive/originals/marian_history_comparison.pdf) PDF
+{.is-info}
+
 ## External links
 
 * [Article in Urantia Foundation](https://www.urantia.org/urantia-foundation/history)
+* [Article in The Urantia Book Fellowship](https://archive.urantiabook.org/archive/history/histumov.htm)
 
 ## Notes
 

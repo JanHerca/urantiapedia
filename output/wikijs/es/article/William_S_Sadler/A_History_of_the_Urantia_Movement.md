@@ -336,11 +336,29 @@ La gran mayoría de la Hermandad ha estado de acuerdo con esta forma silenciosa 
 
 Una cosa debe quedar clara: No se hace nada por interferir con los energéticos y entusiastas esfuerzos de cualesquiera individuos por introducir _El Libro de Urantia_ a sus variados contactos y asociaciones humanas. 
 
-## External links
+## Notas de la edición de la Fellowship
+
+> Nota del editor: El siguiente documento fue presentado al tribunal por la Fundación Urantia en el caso Maaherra y se afirmó que había sido escrito por el Dr. Sadler.
+>
+> La versión que se reproduce a continuación fue digitalizada a partir de una copia fotocopiada de lo que se cree que es un original mecanografiado. La presunción de originalidad se basa en la naturaleza de las notas manuscritas que aparecen en los márgenes. No hay ninguna firma ni ninguna indicación en ellos de que el Dr. Sadler sea efectivamente el autor. Larry Mullins se refiere a esta historia como «Historia 2». Larry Mullins comenta: «Aunque la Fundación Urantia y otros continúan refiriéndose a este documento como «escrito por el Dr. Sadler», es casi seguro que no lo fue. Después de un examen cuidadoso, el original de 30 páginas parece ser la «historia» inacabada y perdida hace mucho tiempo de Emma Louise Christensen. Se sabía que esta historia existía, pero no se pudo encontrar después de su muerte en 1982. «Christy», como se la conocía, aparentemente usó la «Historia 1» como plantilla, insertó algunas páginas escritas por el Dr. Sadler pero nunca publicadas. y añadió sus propias observaciones. El documento de «Historia 2», tal como se presentó ante el Tribunal, no tenía portada, sino que comenzaba con lo que era la «página 2» de «Historia 1».»
+>
+> «Las páginas obviamente fueron renumeradas, teniendo en algunos casos dos números de página contradictorios. «Historia 2» es un híbrido que obviamente es producto de un escritor y editor sin experiencia. El Dr. Sadler fue un autor consumado. Hay cambios incómodos de la segunda a la tercera persona y pasajes largos se refieren al Dr. Sadler en tercera persona. En un lugar (página 7 del original), el escritor insertó un comentario: «El médico continúa su narración»: El Dr. Sadler nunca escribió sobre sí mismo de esta manera. La información contenida en «Historia 2» es útil, pero debe considerarse con cierta cautela y sopesarse con otra información». \[Fin del comentario de Larry Mullins.\]
+>
+> Hay dos versiones adicionales de la historia a continuación, fechadas en 1960 y atribuidas a Marian Rowley. Las historias de Marian son aparentemente condensaciones de la historia más extensa que se reproduce a continuación y contienen sus comentarios en los que señala los elementos que pretende omitir del original en su «historia oficial». La condensación de Marian Rowley es la historia a la que Larry Mullins se refiere como «Historia 1». Mientras Mullins sostiene que «Historia 2» era una versión ampliada de «Historia 1», las notas de Marian Rowley indican que «Historia 1» era en realidad una condensación de «Historia 2». A pesar de que Marian indica que su documento fuente era una versión editada de la historia del «Dr.», la crítica a la autoría de «Historia 2» presentada por Larry Mullins lleva a otras conclusiones. Para estudiar este asunto con mayor detalle, ver:
+>
+> - [Borrador de una historia de Marian Rowley; Junio ​​de 1960](https://archive.urantiabook.org/archive/history/marians_history_draft.htm)
+> - [Ver reproducción en PDF del original](https://archive.urantiabook.org/archive/originals/marian_draft_history.pdf) PDF
+> - [Historia completa de Marian Rowley, junio de 1960](https://archive.urantiabook.org/archive/history/marians_history_final.htm) (Esto corresponde a «Historia 1» de Larry Mullins”)
+> - [Ver reproducción en PDF del original](https://archive.urantiabook.org/archive/originals/marian_completed_history.pdf) PDF (Compare la historia completa de Marian con su borrador mencionado anteriormente, así como con la historia atribuida al Dr. Sadler del mismo período de tiempo que se reproduce a continuación.)
+> - [Ver la comparación de Marian de las dos historias](https://archive.urantiabook.org/archive/originals/marian_history_comparison.pdf) PDF
+{.is-info}
+
+## Enlaces externos
 
 * [Artículo en la Fundación Urantia](https://www.urantia.org/urantia-foundation/history)
-
-* [Traducción en Agrupación Autónoma Urantia Chile](http://www.urantiachile.org/?modulo=articulos)
+* [Artículo en la Fellowship](https://archive.urantiabook.org/archive/history/histumov.htm)
+* [Traducción de Ángel Sánchez-Escobar](https://web.archive.org/web/19991001193139/http://209.24.252.35/documents/doc291.htm) Esta traducción ya no está disponible en el sitio de la Fellowship (enlace a Wayback Machine).
+* [Traducción en Agrupación Autónoma Urantia Chile](https://web.archive.org/web/20220529132204/http://www.urantiachile.org/?modulo=articulos) El sitio web ya no está disponible (enlace a Wayback Machine).
 
 ## Notas
 
