@@ -46,7 +46,7 @@ The year 1986 was an exceptional year for international contact within the Urant
 
 As a matter of fact the first non-U.S. Urantia Brotherhood society was chartered in Pieksamiki, nearly 10 years ago in 1989. Both my wife Marlene and I attended this celebration and we will always remember those exceptional and intense moments of brotherly relationship. (Including the welcome of the mosquitoes when we were walking around the lake.)
 
-After the dramatic and painful events that led to the de-licensing of Urantia Brotherhood, the Finnish Urantia society was the first to rally courageously behind Urantia Foundation in loyal support of its Declaration of Trust. I take this opportunity to thank you, on behalf of Urantia Foundation, for your steadfastness and faithfulness.
+After the dramatic and painful events that led to the de-licensing of Urantia Brotherhood, the Finnish Urantia society was the first to rally courageously behind Urantia Foundation in loyal support of its [Declaration of Trust](/en/article/Declaration_of_Trust). I take this opportunity to thank you, on behalf of Urantia Foundation, for your steadfastness and faithfulness.
 
 I would also like to thank the previous and current Presidents of the Finnish Association, Raimo Ala-Hynnila and Kalevi Eklof, the entire Finnish Preparatory Committee who have worked hard and well to organize and make this event happen: Sinikka Lilja, Seppo Niskanen, Eija Seppanen, Kari Kuosmanen, Tuula Parviainen, Hannu Stenroos, Tapio Pulli, and Seppo Kanerva, and the some 160 attendees coming from 15 countries including the United States, Belgium, Holland, Sweden, France, Russia, Australia, Estonia, Canada, Norway, Great Britain, Malta, Colombia, Peru, and Finland.
 
@@ -171,7 +171,7 @@ Dr Sadler also said:
 
 From 1937 until 195S, the text of _The Urantia Book_ was prepared for printing and publishing. After 40 years of careful preparation of the project, and after training so many people, it would appear somewhat strange that the midwayers would just drop the Urantia Papers on Urantia without providing for the care and charge of its protection, dissemination, and translation. We know that in every cosmic project someone is in charge of the ultimate decisions, someone who takes the final responsibility. Who could imagine for one moment that so important a project for our planet would be launched without provision for human watch-care?
 
-Therefore, I assume with the blessing of the midwayers, Urantia Foundation was created by a Declaration of Trust under the laws of the State of Illinois on January 11, 1950 which states its goals, objectives, and functions. Urantia Foundation received the plates of the text from the Contact Commissioners as the “Trust Estate.” A copyright on _The Urantia Book_ was obtained and the three Concentric Circles Symbol, and the names “Urantia” and “Urantian” were registered as trademarks to identify the future _Urantia Book_ with Urantia Foundation, who was the custodian of the book and legal owner of the copyright.
+Therefore, I assume with the blessing of the midwayers, Urantia Foundation was created by a [Declaration of Trust](/en/article/Declaration_of_Trust) under the laws of the State of Illinois on January 11, 1950 which states its goals, objectives, and functions. Urantia Foundation received the plates of the text from the Contact Commissioners as the “Trust Estate.” A copyright on _The Urantia Book_ was obtained and the three Concentric Circles Symbol, and the names “Urantia” and “Urantian” were registered as trademarks to identify the future _Urantia Book_ with Urantia Foundation, who was the custodian of the book and legal owner of the copyright.
 
 In addition, the social body was in its stage of preparation and was formed in 1955 as the Urantia Brotherhood.
 
@@ -205,7 +205,7 @@ We are told:
 
 > _...And this is just why he chose as his personal representatives twelve commonplace men, the majority of whom were rugged, virile, and manly fishermen._ <a id="a205_156"></a>[[UB 140:8.20](/en/The_Urantia_Book/140#p8_20)]
 
-Concerning the present revelation, the Urantia Papers project, the midwayers placed in the hands of the Trustees ofUrantia Foundation the complete responsibility for the dissemination of the teachings and the full authority for the protection of _The Urantia Book_ as it is stated in its Declaration of Trust.
+Concerning the present revelation, the Urantia Papers project, the midwayers placed in the hands of the Trustees ofUrantia Foundation the complete responsibility for the dissemination of the teachings and the full authority for the protection of _The Urantia Book_ as it is stated in its [Declaration of Trust](/en/article/Declaration_of_Trust).
 
 Some individuals deny this human authority over the dissemination and protection of the revelation, which we agree to be a gift to mankind, but we add that it has been placed under the protection of Urantia Foundation, invoking their “spiritual liberty,” or their direct relationship with God. They claim that they are free to do whatever they want with the revelation because it is a gift from our unseen friends to humankind.
 

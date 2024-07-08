@@ -105,7 +105,7 @@ As a longtime reader of the book, she has translated and produced many secondary
 
 ## Urantia Foundation in the Next Hundred Years
 
-Georges Michelson-Dupont and Mo Siegel presented their visions of what Urantia Foundation might become by 2122 and beyond. Robust discussions followed, including the importance of adhering to the Declaration of Trust and seeding _The Urantia Book_ and its teachings globally.
+Georges Michelson-Dupont and Mo Siegel presented their visions of what Urantia Foundation might become by 2122 and beyond. Robust discussions followed, including the importance of adhering to the [Declaration of Trust](/en/article/Declaration_of_Trust) and seeding _The Urantia Book_ and its teachings globally.
 
 Both shared their long-term visions that Urantia Foundation would evolve into the largest Urantia Book teaching center in the world. They expressed their beliefs that the Foundation should not become a social group nor dictate how people express their individual and cultural adaptations of the revelation. The hope is that the future Urantia Foundation looks more like Harvard University than the Vatican. Continuing this conversation at multiple board meetings was heartily agreed upon by all.
 

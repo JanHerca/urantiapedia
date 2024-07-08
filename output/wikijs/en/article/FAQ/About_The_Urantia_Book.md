@@ -38,7 +38,7 @@ _The Urantia Book_ was written “to expand cosmic consciousness and enhance spi
 
 Urantia Foundation was established in 1950 to be the publisher and custodian of the inviolate text of _The Urantia Book_. The Foundation is also responsible for ensuring that the teachings are disseminated throughout the world, and it seeks to achieve this with the help of readers and social organizations. 
 
-From an organizational perspective, Urantia Foundation is a non-profit edu­cational foundation that operates under a Declaration of Trust. It has been publishing the original English edition of _The Urantia Book_ since 1955.
+From an organizational perspective, Urantia Foundation is a non-profit edu­cational foundation that operates under a [Declaration of Trust](/en/article/Declaration_of_Trust). It has been publishing the original English edition of _The Urantia Book_ since 1955.
 
 Urantia Foundation’s main activities are publishing, distributing, and trans­lating _The Urantia Boo_k. The Foundation endeavors to make _The Urantia Book_ available in libraries and bookstores and from major distributors, including Amazon. Regarding translations, the Founda­tion’s Trustees and staff seek to provide editions that are accurate, attractive, and moving, wording that is as beautiful and appealing to native speakers as if the original text were written in their language. 
 

@@ -35,7 +35,7 @@ _Trustee, Gard Jameson Speaks at IUA Conference in Helsinki_
 
 I wish to thank the Finnish community for this wonderful conference experience, I wish to thank the European community for their participation in this conference. Gathering with you people from France, England, Scotland, The Netherlands, Norway, Belgium, Malta, Sweden, Finland, Estonia, Russia, Spain, Columbia, Peru, Australia, Canada and the U.S. in this beautiful conference setting is a small taste of the future age of light and life. It should give us hope for the future of the planet and of the revelation.
 
-In this talk I would like to give you a clear picture of the Trustees' role. And, I would like to suggest that we who believe this revelation are all trustees. There are essentially two functions provided for in the Declaration of Trust,
+In this talk I would like to give you a clear picture of the Trustees' role. And, I would like to suggest that we who believe this revelation are all trustees. There are essentially two functions provided for in the [Declaration of Trust](/en/article/Declaration_of_Trust),
 
 1. Dissemination of the Fifth Epochal Revelation, and
 2. Providing for the integrity of the inviolate text.

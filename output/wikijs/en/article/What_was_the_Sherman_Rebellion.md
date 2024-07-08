@@ -44,7 +44,7 @@ Given the defense which Clyde mounts as well as his indignation expressed in the
 
 Information related to the “excommunication” to which Sherman refers—that of Robert Burton—may be found scattered throughout the entries on the [history timeline](/en/book/David_Kantor/Historic_Timeline_in_Revelation/1966_1980) prior to 1972. Among other things, Robert Burton was charged with being one who “preaches the doctrines of the Lucifer Manifesto of unbridled liberty, and disrespect of, and rebellion against, rightfully constituted leadership, in this case, of the custodians of the fifth major epochal revelation accusing or insinuating that they have participated in fraud, autocratic rule, suppression of free expression, violation of the principles of fairness and justice, and improper conduct of policy discussion, alleging secrecy and insinuating wrongdoing...”
 
-[See list of formal charges brought against Robert Burton](/en/article/Requesting_Explusion_of_Robert_Burton)
+[See list of formal charges brought against Robert Burton](/en/article/Fellowship/Requesting_Expulsion_of_Robert_Burton)
 
 [See report of events at hearing](https://archive.urantiabook.org/archive/history/burton_report120472.htm)  Robert Burton subsequently referred to himself as “the first excommunicated reformer of the 533 Urantia Institution.”
 

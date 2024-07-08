@@ -41,7 +41,7 @@ The same section remarks that the early Christian cult was the most effective, a
 
 > “_...even the restatement of the religion of Jesus must develop a new and appropriate symbolism...predicated on the Fatherhood of God and...the Brotherhood of Man._” (<a id="a41_169"></a>[UB 87:7.6](/en/The_Urantia_Book/87#p7_6))
 
-The Declaration of Trust that created the Urantia Foundation proclaims that the principal objectives are to promote the true teachings of Jesus, the Fatherhood of God and the Brotherhood of Man through “the fostering of a religion, a philosophy, and a cosmology...”
+[The Declaration of Trust](/en/article/Declaration_of_Trust) that created the Urantia Foundation proclaims that the principal objectives are to promote the true teachings of Jesus, the Fatherhood of God and the Brotherhood of Man through “the fostering of a religion, a philosophy, and a cosmology...”
 
 Probably all religions have their roots in a cult of some sort. If we are to follow the recommendations of the book and the above principal objectives, the early formation of a Urantia cult is now an urgent imperative. So how did the paranoia associated with antipathy towards cults and religious organization develop in the Urantia movement?
 

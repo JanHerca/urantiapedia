@@ -36,7 +36,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Urantia Foundation staff, Illinois, United States_
 
-On November 15, Urantia Foundation announced the launch of the Mustard Seed Grants Program (MSGP). Thanks to the generosity of Gard and Florence Jameson, Urantia Foundation is now endowing a grant-making program that awards financial assistance to eligible projects which support the Foundation's Declaration of Trust and mission to seed _The Urantia Book_ and its teachings globally.
+On November 15, Urantia Foundation announced the launch of the Mustard Seed Grants Program (MSGP). Thanks to the generosity of Gard and Florence Jameson, Urantia Foundation is now endowing a grant-making program that awards financial assistance to eligible projects which support the Foundation's [Declaration of Trust](/en/article/Declaration_of_Trust) and mission to seed _The Urantia Book_ and its teachings globally.
 
 Gard described his intent in starting the fund and his vision for its future results: “Like the mustard seed, this fund will be a blessing to many individuals and groups who are working to share the good news of the fifth epochal revelation globally and to bring an era of light and life to our troubled planet. The grants will be of varying size; the ones that will surprise many will be the small grants that grew in their blessing, much like the mustard seed!”
 

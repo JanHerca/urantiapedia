@@ -69,7 +69,7 @@ The board reappointed Ralph Zehr, associate trustee emeritus, to actively contin
 
 ## Safeguarding and Preserving _The Urantia Book_
 
-The Declaration of Trust that established Urantia Foundation states the following: “It shall be the primary duty of the Trustees to perpetually preserve inviolate the text of _The Urantia Book_.” The Declaration of Trust also mandates the safeguarding of the original inviolate text, its media for printing, al future printings, and all translations. Three copies of all printed books and translations thereof are stored in a salt mine. Today, translations and formatted books (media for printing) are stored digitally. Because of the change in media, we are developing a new system to protect physical books and digital files. This system is expected to be in place within the next three months.
+The [Declaration of Trust](/en/article/Declaration_of_Trust) that established Urantia Foundation states the following: “It shall be the primary duty of the Trustees to perpetually preserve inviolate the text of _The Urantia Book_.” The Declaration of Trust also mandates the safeguarding of the original inviolate text, its media for printing, al future printings, and all translations. Three copies of all printed books and translations thereof are stored in a salt mine. Today, translations and formatted books (media for printing) are stored digitally. Because of the change in media, we are developing a new system to protect physical books and digital files. This system is expected to be in place within the next three months.
 
 ## Help Wanted
 

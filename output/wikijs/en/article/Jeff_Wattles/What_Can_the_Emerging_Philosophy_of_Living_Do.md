@@ -42,7 +42,7 @@ _By Jeff Wattles, Ohio, United States_
 
 _Editor's Note: Jeff Wattles will be co-hosting “Teacher Training for Experiential Education in Truth, Beauty, and Goodness” with Gard Jameson, chairman of the Urantia Foundation Education Committee. This seminar will be held in Chicago from Thursday evening, November 9, to Sunday afternoon, November 12, 2017. Jeff and Gard are seeking participants who are interested in philosophy, personal growth, education, or wisdom in working with _The Urantia Book_. If you are interested in attending, please contact Jeff directly at jwattles@kent.edu._
 
-What sublime goals are to be accomplished by promoting a religion, a philosophy, and a cosmology commensurate with man's intellectual and cultural development? For an astonishing answer, see Urantia Foundation's Declaration of Trust, Article II.
+What sublime goals are to be accomplished by promoting a religion, a philosophy, and a cosmology commensurate with man's intellectual and cultural development? For an astonishing answer, see Urantia Foundation's [Declaration of Trust](/en/article/Declaration_of_Trust), Article II.
 
 These three intellectual and cultural stimuli will bless the peoples of our world with the most high-leverage teachings of _The Urantia Book_—presented with evolutionary wisdom and in accordance with their capacity of receptivity.
 

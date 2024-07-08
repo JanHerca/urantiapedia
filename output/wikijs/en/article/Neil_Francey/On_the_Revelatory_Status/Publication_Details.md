@@ -73,7 +73,7 @@ On October 1, 1956, Urantia Brotherhood Corporation was brought into existence a
 
 After publication the Book found only a small audience, as it had no popular appeal. In the twenty-first century, it continues to be subject to very slow growth. This may be intentional by higher authorities, a material restriction, or a natural revelatory progression on a mortal realm.
 
-The Declaration of Trust requires the Urantia Foundation to keep the text inviolate and to publish it in perpetuity. In a sense it has to avoid becoming a secular organization, or be influenced by secular interests. Its foundations should always be based on the teachings it has been charged to uphold.
+The [Declaration of Trust](/en/article/Declaration_of_Trust) requires the Urantia Foundation to keep the text inviolate and to publish it in perpetuity. In a sense it has to avoid becoming a secular organization, or be influenced by secular interests. Its foundations should always be based on the teachings it has been charged to uphold.
 
 <figure class="table chapter-navigator">
   <table>

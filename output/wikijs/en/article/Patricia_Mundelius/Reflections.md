@@ -42,7 +42,7 @@ I became a Trustee for Urantia Foundation in 1990, but in a personal sense, I fe
 
 As personal messengers, we are free to follow our hearts. And as individuals, there has been much success spreading the teachings. It is a joy for all of us to hear these inspiring stories.
 
-However, when one becomes a trustee with a capital “T”, I think a different standard does apply. The Declaration of Trust defines the activities of the Trustees clearly. These include formal responsibility for publishing the book while protecting the integrity of the text and spreading the teachings all over the world in a way that is appropriate for each country. The Trustees are ever aware that they are not only responsible to the current generation of readers and nonreaders but also to the generations to come. The Fifth Epochal Revelation will bring light for centuries. The Trustees are ever mindful of their duty to help, not harm or hinder the spread of the Revelation.
+However, when one becomes a trustee with a capital “T”, I think a different standard does apply. The [Declaration of Trust](/en/article/Declaration_of_Trust) defines the activities of the Trustees clearly. These include formal responsibility for publishing the book while protecting the integrity of the text and spreading the teachings all over the world in a way that is appropriate for each country. The Trustees are ever aware that they are not only responsible to the current generation of readers and nonreaders but also to the generations to come. The Fifth Epochal Revelation will bring light for centuries. The Trustees are ever mindful of their duty to help, not harm or hinder the spread of the Revelation.
 
 > “I feel a new breeze of understanding among the various reader groups.”
 > 

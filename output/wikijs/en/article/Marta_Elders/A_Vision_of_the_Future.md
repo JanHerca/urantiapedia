@@ -69,7 +69,7 @@ Double our treasury within the next decade.
 
 A. Continue building Urantia Foundation into one of the most dignified and trust worthy non-profit organizations in the world. Do our best to live, as an organization and as individuals, the principles taught in _The Urantia Book_.
 
-B. Expand the administrative infrastructure of global book sales to distribute books economically and effectively around the world. Simultaneously support the growth of Continental Committees and ensure their financial and organizational success using the model of Urantia Foundation Europe as the first functioning Continental Board Committee outside the United States. Ensure these committees maintain the values and principles as guided by the Declaration of Trust and the Board of Trustees.
+B. Expand the administrative infrastructure of global book sales to distribute books economically and effectively around the world. Simultaneously support the growth of Continental Committees and ensure their financial and organizational success using the model of Urantia Foundation Europe as the first functioning Continental Board Committee outside the United States. Ensure these committees maintain the values and principles as guided by the [Declaration of Trust](/en/article/Declaration_of_Trust) and the Board of Trustees.
 
 C. Continue growing the Foundation's infrastructure to support book sales, translations, global growth needs, fund raising, web activities, education, and reader services.
 

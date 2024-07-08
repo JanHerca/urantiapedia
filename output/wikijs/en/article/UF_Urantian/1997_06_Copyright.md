@@ -40,7 +40,7 @@ The United States Court of Appeals for the Ninth Circuit ruled that URANTIA Foun
 
 As a result of the appellate court's ruling, and because other organizations and individuals published the book while the decision of the lower court was being appealed, we and our advisors have some difficult decisions to make. We desire to be wise, fair, and just and to act in the best interest of both URANTIA Foundation and the Fifth Epochal Revelation.
 
-The objects for which the Foundation was created and the duties of the Trustees of URANTIA Foundation remain unchanged. These objects and duties were established in 1950 by the Declaration of Trust Creating URANTIA Foundation.
+The objects for which the Foundation was created and the duties of the Trustees of URANTIA Foundation remain unchanged. These objects and duties were established in 1950 by the [Declaration of Trust Creating URANTIA Foundation](/en/article/Declaration_of_Trust).
 
 We thank all of you who have supported the Foundation during these difficult years. And now, during this time of inquiry and deliberation, we ask for your prayers, your patience, and your input.
 

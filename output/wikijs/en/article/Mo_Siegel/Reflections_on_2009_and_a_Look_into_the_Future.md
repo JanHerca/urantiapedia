@@ -132,7 +132,7 @@ In preparation for the years ahead, the Expanded Board spent half of their Janua
 
 ## VISION STATEMENT
 
-The Principal and Concordant Objects from the Declaration of Trust are our vision statement.
+The Principal and Concordant Objects from the [Declaration of Trust](/en/article/Declaration_of_Trust) are our vision statement.
 
 PRINCIPAL OBJECT: The object for which this Foundation is created is the promotion, improvement, and expansion among the peoples of the world of the comprehension and understanding of Cosmology and the relation of the planet on which we live to the Universe, of the genesis and destiny of Man and his relation to God, and of the true teachings of Jesus Christ; and for the inculcation and encouragement of the realization and appreciation of the Fatherhood of God and the Brotherhood of Man—in order to increase and enhance the comfort, happiness, and well being of Man, as an individual and as a member of society, through the fostering of a religion, a philosophy, and a cosmology which are commensurate with Man's intellectual and cultural development.
 

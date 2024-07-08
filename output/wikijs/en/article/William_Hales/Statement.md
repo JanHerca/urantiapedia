@@ -32,7 +32,7 @@ Two of the three individuals happened to be trustees of the Urantia Foundation, 
 
 Also, in 1955 the Urantia Brotherhood came into being by the execution of a proper document signed by 36 Forum members who became the Charter Members of Urantia Brotherhood. The constitution and by-laws were a part of the official documents signed by the 36 Forum members.
 
-The Declaration of Trust of the Urantia Foundation sets forth the purposes and the responsibilities of the trustees.
+[The Declaration of Trust](/en/article/Declaration_of_Trust) of the Urantia Foundation sets forth the purposes and the responsibilities of the trustees.
 
 The constitution and by-laws of Urantia Brotherhood clearly set forth its purpose.
 

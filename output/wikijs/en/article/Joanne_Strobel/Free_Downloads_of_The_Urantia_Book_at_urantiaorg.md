@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Joanne Strobel, Urantia Foundation, Illinois, United States_
 
-Urantia Foundation has been providing free electronic downloads of _The Urantia Book_ and its translations for almost eight years, since 2010. The primary reason why we provide them for free is our commitment to dissemination. In Article II of the Foundation's Declaration of Trust it says:
+Urantia Foundation has been providing free electronic downloads of _The Urantia Book_ and its translations for almost eight years, since 2010. The primary reason why we provide them for free is our commitment to dissemination. In Article II of the Foundation's [Declaration of Trust](/en/article/Declaration_of_Trust) it says:
 <br style="clear:both;"/>
 
 > The concordant objects for which the Foundation is created are to perpetually preserve inviolate the text of _The Urantia Book_ and to disseminate the principles, teachings, and doctrines of _The Urantia Book_.

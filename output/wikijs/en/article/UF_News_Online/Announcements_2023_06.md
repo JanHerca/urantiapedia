@@ -37,7 +37,7 @@ Do you have an idea for an educational program that will bring the fifth epochal
 
 Urantia Foundation is pleased to announce that the second round of funding applications will open on Monday, July 10.
 
-The MSGP awards financial assistance to eligible projects which support the Foundation’s Declaration of Trust and mission to “seed” _The Urantia Book_ and its teachings globally. Funds will be granted to support projects that further education and outreach in tangible and measurable ways, and across all regions of the globe.
+The MSGP awards financial assistance to eligible projects which support the Foundation’s [Declaration of Trust](/en/article/Declaration_of_Trust) and mission to “seed” _The Urantia Book_ and its teachings globally. Funds will be granted to support projects that further education and outreach in tangible and measurable ways, and across all regions of the globe.
 
 Watch your inbox for the Round 2 Call for Proposals!
 

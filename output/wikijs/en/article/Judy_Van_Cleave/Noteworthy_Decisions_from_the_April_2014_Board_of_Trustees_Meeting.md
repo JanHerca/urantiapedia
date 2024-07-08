@@ -45,7 +45,7 @@ _By Judy Van Cleave, trustee, secretary, Urantia Foundation, Boise, Idaho, Unite
 
 ## 1. International Vice President
 
-In January 2014, for the first time in the history of Urantia Foundation, the trustees added a second vice president position to the Foundation's organizational structure. The Declaration of Trust and bylaws long ago provided for multiple vice presidents. We chose to act because of the growing need to be globally responsive. Trustee Georges MichelsonDupont of France was elected to the position.
+In January 2014, for the first time in the history of Urantia Foundation, the trustees added a second vice president position to the Foundation's organizational structure. The [Declaration of Trust](/en/article/Declaration_of_Trust) and bylaws long ago provided for multiple vice presidents. We chose to act because of the growing need to be globally responsive. Trustee Georges MichelsonDupont of France was elected to the position.
 
 At the April 2014 meeting, the board clarified that Marilynn Kulieke, the first vice president, would assume the duties of the president if the president were unable to perform his duties. Marilynn would serve as president until the president was able to resume performing his duties or a new president was elected.
 

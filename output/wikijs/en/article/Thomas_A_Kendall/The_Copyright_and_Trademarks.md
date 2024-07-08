@@ -32,7 +32,7 @@ It should be obvious from the August 1942 message that the name Urantia was to b
 
 ## The Copyright
 
-The Contact Commissioners were informed that _The Urantia Book_ must be copyrighted. The 1942 message mentions copyright. The successors of the Contact Commissioners, the Trustees of Urantia Foundation, understood that there must be a copyright. The Foundation was established in 1950 under a Declaration of Trust. The concordant object in the trust document is to maintain the text of _The Urantia Book_ inviolate. A copyright is the means to accomplish this task.
+The Contact Commissioners were informed that _The Urantia Book_ must be copyrighted. The 1942 message mentions copyright. The successors of the Contact Commissioners, the Trustees of Urantia Foundation, understood that there must be a copyright. The Foundation was established in 1950 under a [Declaration of Trust](/en/article/Declaration_of_Trust). The concordant object in the trust document is to maintain the text of _The Urantia Book_ inviolate. A copyright is the means to accomplish this task.
 
 In 1980, the Federal District Court in Michigan ruled that the Foundation's claim to copyright of _The Urantia Book_ was valid. The declared intent of the infringer in filing suit was to get the copyright annulled to the end that no one would own the rights to the book.
 
