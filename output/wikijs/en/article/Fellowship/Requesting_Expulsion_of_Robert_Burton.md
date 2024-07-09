@@ -1,12 +1,14 @@
 ---
-title: "Petition from the Executive Committee of Urantia Brotherhood To the Membership Committee of First Urantia Society Requesting Explusion of Robert Burton"
-description: 
+title: "Requesting Explusion of Robert Burton"
+description: "Petition from the Executive Committee of Urantia Brotherhood To the Membership Committee of First Urantia Society "
 published: true
 date: 2023-09-29T14:02:03.086Z
-tags: The Urantia Book, article
+tags: Fellowship, article
 editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1971 Fellowship</p>
 
 The Executive Committee of Urantia Brotherhood respectfully submit the following petition for the expulsion of Robert Burton from membership in First Urantia Society, and ipso facto from membership in Urantia Brotherhood.
 

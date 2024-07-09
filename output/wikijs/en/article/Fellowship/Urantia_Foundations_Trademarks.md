@@ -14,6 +14,7 @@ From The Synergist, Summer, 1989
 Issues related to Urantia Foundation's suit against CUBS
 
 Here are the facts about Urantia Foundation's trademarks as recorded in the official records of the US Patent Office (the government agency which issues service marks and trademarks) along with some analysis:
+
 In July of 1971, more than 15 years after The Urantia Book was published, Urantia Foundation applied to the US Patent Office to register the word “Urantia” as a service mark (a trademark registration was subsequently applied for and granted under similar circumstances) subject to the exclusive control of Urantia Foundation to identify its “religious educational services.” In this application the Foundation correctly stated the purpose of the Urantia Foundation as being ...
 
 ... the promotion, improvement, and expansion among the peoples of the world in the comprehension and understanding of Cosmology and the relation of the planet on which we live to the Universe, of the genesis and destiny of Man and his relation to God, and of the true teachings of Jesus Christ; and for the inculcation and encouragement of the realization and appreciation of the Fatherhood of God and the Brotherhood of Man in order to increase and enhance the comfort, happiness and well-being of Man, as an individual and as a member of society, through the fostering of a religion, a philosophy, and a cosmology which are commensurate with Man's intellectual and cultural development.

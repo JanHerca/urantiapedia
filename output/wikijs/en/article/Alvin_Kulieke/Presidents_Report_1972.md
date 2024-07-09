@@ -1,0 +1,71 @@
+---
+title: "1972 Annual Report to the General Council of Urantia Brotherhood"
+description: 
+published: true
+date: 2023-09-29T14:02:03.086Z
+tags: Fellowship, article
+editor: markdown
+dateCreated: 2023-09-29T14:02:03.086Z
+---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1972 Alvin L. Kulieke</p>
+
+July 23, 1972
+by
+Alvin L. Kulieke, President
+
+Greetings to the General Council from the officers and members of the Executive Committee... I address you this way since I would first like to mention some of the actions taken by these groups.
+
+We started the year by considering an article by Dr. Sprunger for publication in some appropriate journal. The article was later modified somewhat by the author and submitted for publication. I believe it is an excellent article, but as yet it has not been accepted by those magazines to which it was sent. Last September we also began consideration of the Advisory Committee proposals that were submitted last August. After several months of discussion and appraisal, these 45 proposals were grouped into several categories: Those suggestions that we were already doing; those that coincided with present plans to carry out as early as possible; those to be considered for action when appropriate, and those that were considered not feasible.
+
+During the year we approved sending 75 gift books to 75 libraries as recommended by the Domestic Extension Committee.
+
+Periodically items for the Urantia Brotherhood Bulletin were suggested to the Publications Committee.
+
+We spelled out our policy concerning the granting of discounts on the retail price of the Urantia Book. For your information, the action taken is this: A discount of 40% on the retail price of the Urantia Books is extended to bookstores, libraries, and accredited schools ordering in any quantity, and to Urantia Societies and Urantia Brotherhood members when ordering in quantities of 10 or more. The granting of this 40% discount to other individuals is to be at the discretion of two or more officers of the Urantia Brotherhood. If bookstore requests a drop shipment, the discount rate will be reduced to 30%. This motion supersedes those of January 2, 1968, and October 6, 1969.
+
+The Executive Committee designated Christy to take steps to employ a secretary to be used by both the Brotherhood and the Foundation, each organization to share equally in paying the salary. So far we have had part time help, but a permanent secretary has not yet been employed.
+
+The Finance Committee presented a proposed budget in November that was adopted in December. The total budget is $11,985.00. The Executive Committee also approved a letter prepared by the Finance Committee to be sent to Urantia Brotherhood members and friends, requesting pledges or donations. The Executive Committee recommended that the President send a letter to all members of the Brotherhood spelling out the financial needs of the Brotherhood.
+
+We approved the recommendation of the Committee on Education for a continuance of the Wednesday seminars for another year, while consideration is being given to offering courses for credit in another year. We also approved the proposal of the Committee on Education to hold a Summer Study Session July 21 and 22, and set the date for the General Council meeting on July 23 at 10 A.M.
+
+In January we appointed Paul Snider of Englishtown, N.J., and John Hales of Brooklyn, N.Y., Field Representatives.
+
+It. was necessary to fill two vacancies: Mrs. Lillian A. Wallin to fill the vacancy on the Finance Committee and Hoite Caston on the Domestic Extension committee, both to replace Nola Smith who has retired to Arizona.
+
+Several office equipment items were approved for purchase.
+
+We approved the following as members-at-large: Barbara Newsom, Lawrence, Kansas; Roland Siegfried, Cincinnati, Ohio; Mrs. Frances Sarfaty, now in Iowa; Mrs. Bettina Gray, Berkeley, Calif;. Joel Rehnstrom, Helsinki, Finland; Mrs. Mary Snider, Englishtown, N.J;. Dard Aller, Lakeville, Conn;. Mo Siegel, Boulder, Colorado; James Johnston, Deland, Florida; Charles Laurence Olivea, Washington Depot, Conn.
+
+At each monthly meeting each Committee Chairman and each officer are called upon for a report. We share our experiences, our ideas, and suggestions, and these can be mutually stimulating. Then, of course, some of the suggestions or proposals eventually lead to formal action. Most of the members of the Executive Committee are fully employed and all of them are very busy people. Nevertheless, the attendance at the monthly Executive Committee meetings has been excellent. I would like to extend my personal thanks and feel they should be commended for their devotion. A great deal of time is spent by chairmen in their own committees, by the officers, each carrying out his own duties or responsibilities, and by all of them as we meet month after month and consider problems and plans during somewhat lengthy meetings.
+
+Following each Executive Committee meeting, the Urantia Brotherhood Corporation Board of Directors meets. Both groups are identical. The principal agenda item of this meeting is the Treasurer's report and the report of the number of books sold. We are now concerned about handling the large-number of books that are shipped in and shipped out of this building. We are trying to work out an arrangement to have some sent directly from Donnelley's, but this problem has not yet been resolved.
+
+The officers have told you about some of their activities and experiences. Things are happening here daily, with numerous visitors seeking to know “more about Urantia,” or some just wanting to see the place and personnel. Some say they wondered whether we are real. Christy keeps saying she would not want to be at any other place in the world. Edith Cook is largely involved with Foundation work. Marian Rowley, you know, gave up her paying job in order to spend more time at her non-paying job. She takes care of many letters and a great number of details which are part of the Secretary-General's responsibilities. She is largely involved with the work of all the committees and seeing that things are brought up at the appropriate time. I spend one or two evenings a week with Christy, discussing many things about the Brotherhood and answering letters—letters which range from those written by some weird, far-out individuals to many which are expressions of the writer's delight and appreciation for having come upon the Urantia Book, and include sincere requests for various kinds of information. The letters which I write, Christy takes in shorthand and Anne Rawson types and mails them. Christy also writes many letters on her own. Frequently as we answer letters we feel a personal contact would be beneficial and we refer these to the appropriate Field Representative.
+
+Anne is our gracious receptionist in addition to her secretarial responsibilities and both Edith and Anne try to work on the index that we need to finalize and publish. Leone Sadler, with the help of her sister Helen Carlson, spends evenings taking care of the orders for Urantia Books and other items, and also handling the billing for the bookstores.
+
+This gives you a sketchy picture of what goes on regularly here at headquarters, without any description of the many additional meetings that are held here.
+
+This Urantia year started for me with my son in critical condition from a brain hemorrhage in an intensive care unit in a hospital. After five weeks we were able to take him home just partially recovered. Now, about a year and three neural surgeons later, yet without any surgery, we are thankful to report that he appears to be about completely recovered with the prognosis quite encouraging about the probability that the problem will not recur. He has been trying to get a job and is planning to start college in a short time, just a year late.
+
+I regret that I have been unable to travel to visit societies. We did get a quick trip to England during our spring vacation, a trip we promised our son and considered it part of his therapy. I would like to visit all Urantia Societies and many study groups.
+
+I appreciate the privilege of being associated with headquarters and seeing on one hand interest in the Urantia Book increasing and on the other hand some weird reactions to it. We were warned that many strange movements or persons would try to attach themselves to the Urantia movement and that it would require great wisdom to keep this Fifth Epochal Revelation from being contaminated by spurious efforts on the part of many who are not concerned about the real purpose of this revelation, but have only a personal selfish interest. However, for the most part our contacts are with those who are genuinely interested in the soul-saving message of the book.
+
+Each year we can look back with some gratification as we meet people or hear from them or hear about them — people who have just become aware of the satisfaction and inspiration that come from learning about the teachings of this revelation. We also look back with some disappointment as we observe a considerable number of individuals who cast the book aside, or in some cases cannot be induced to look into the book. But even though there may not be many new Urantia enthusiasts among our own acquaintances, we are aware of an increasing number of new readers, and even learn about whole new study groups. For the last four semesters, ever since we introduced a course in contemporary religions, I have talked to about twelve classes of high school seniors about the Urantia Book. As might be expected the reaction has been varied, but the seed has been sown. I know a number of students were intrigued and have signed out books to read.
+
+As we continue to disseminate the teachings of the book, it becomes obvious that some people read only with their minds and intellectually— possibly enjoy the mental exercise that some parts require, but very little of the spiritual message gets through to them. Except for some philosophical satisfaction, which is an important consequence of reading the Urantia Book, these people miss the real essence of its teachings. Their lives are unaffected by it. But we know it is the spiritual impact of Jesus' words that is going to change the world. When the members of the human race begin to realize that God is the Father of each one and then get into the habit of conversing with him, then will the world move slowly in the direction of the Magisterial Son or Teacher Son Age.
+
+Now we have another year ahead of us. I consider the General Council the inner core of the Urantia movement. We should feel a closeness — a unity — as we have a common source of information and inspiration, and our ultimate goals should be similar — if not identical. We need to do all we can to support each other. We need to be loyal to the Brotherhood organization. Each has a different role to play. Each one of us is different — thank goodness — and the locale or environment or circumstances under which each of us functions is diverse from that of the others. Each has certain talents, abilities, educational experiences, and other personal traits that equip him to do certain tasks or services perhaps better than anyone else. The stage manager or lighting technician or even the wardrobe mistress may be just as important in a theater as the leading actress. But at all costs the play must go on, and the better each will perform his role, the greater success the fifth revelation will have.
+
+I remember back in the days of the Forum, before the Urantia Papers became the Urantia Book, we were told that we were undergoing a test of time. One year followed another, and yet there was no word to publish the book. We could not take a book or papers with us, nor could we discuss it — or even mention it -to anyone except Forum members. Some did not pass this test of time delay. Others have come to take their places. Those of us who are still here are examples of quite a number who did well on this test. But we were also warned about a test of unity, that was probably more insidious, and more difficult than that of time. I believe this test is still going on, and to pass it should require all the care and control we can muster, as well as a continuous devotion of our time and attention to prayer and meditation, wherein we strive to learn the Father's will for us and then devote all our energies toward doing that will.
+
+I keep mentioning the words of Jesus to his apostles about unity, for I feel this is of great importance to us here and now. “What I require of you, my apostles, is spirit unity — and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny.”
+
+We who are presently leaders of the Urantia Brotherhood must remain united in purpose and dedication. Remember that this whole Urantia revelation has been given to us. We did not produce it. And we should continually realize that we are not alone. A celestial host is working by our side. We may wonder, even as we might about the apostles, whether there was any circumstancing in our being here. Whether there was or not, we should be eternally grateful for the wonderful opportunity we have in being associated with the beginnings of this Fifth Epochal Revelation. Let us be resolved then that our best efforts, our best thinking, and best planning be devoted to this cause and that we together dedicate our wills to the doing of the will of our Father as we strive to help this revelation permeate to all the people on the globe who will open their minds and hearts to its enthralling message of survival and eternal progress to Paradise.
+
+## References
+
+* [This article in The Urantia Book Fellowship archives](https://archive.urantiabook.org/archive/admin/doc294.htm)
