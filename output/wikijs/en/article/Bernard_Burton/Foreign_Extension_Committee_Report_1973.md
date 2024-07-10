@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1973 Bernar Burton</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1973 Bernard Burton</p>
 
 August- 1973
 
