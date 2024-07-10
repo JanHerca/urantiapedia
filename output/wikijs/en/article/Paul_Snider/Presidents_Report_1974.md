@@ -18,7 +18,7 @@ Area designations for Field Representatives removed.
 
 Money will be put aside to establish employee benefit program.
 
-Book sales will be withheld from certain "stores" which although legally licensed to sell books, are engaged in illegal or other activities inimical to the interests of Urantia Brotherhood.
+Book sales will be withheld from certain “stores” which although legally licensed to sell books, are engaged in illegal or other activities inimical to the interests of Urantia Brotherhood.
 
 **New Study Aids and Other Products**
 
@@ -48,7 +48,7 @@ Visits to Fort Wayne, Los Angeles, Oklahoma, and Orvonton Societies, and some st
 
 Relationship with Urantia Foundation
 
-Clarified the Brotherhood function as "sales agent" for The Urantia Book.
+Clarified the Brotherhood function as “sales agent” for The Urantia Book.
 
 Asked Urantians in meetings and personal discussions to work to protect the copyright and to maintain the integrity of the Book in their local areas.
 
@@ -120,7 +120,7 @@ To enhance all decisions relating to the commitment of resources and evaluation 
 
 To provide a focus within the framework of the mission defined in Article 2 for the coordination and unification of the work of Urantia Brotherhood throughout the world.
 
-Long range strategic goals serve as "homing devices" for the many decisions which will have to be made in the years ahead .
+Long range strategic goals serve as “homing devices” for the many decisions which will have to be made in the years ahead .
 
 **Short Term Planning**
 
