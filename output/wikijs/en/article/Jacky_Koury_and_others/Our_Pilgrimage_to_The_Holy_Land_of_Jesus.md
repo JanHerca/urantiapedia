@@ -3,7 +3,7 @@ title: "Our Pilgrimage to The Holy Land of Jesus"
 description: "The Mighty Messenger — Spring 2019 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
-tags: Jesus' places, Mighty Messenger, article
+tags: Jesus places, Mighty Messenger, article
 editor: markdown
 dateCreated: 2023-6-21T8:13:38Z
 ---

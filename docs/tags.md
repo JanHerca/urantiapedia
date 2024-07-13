@@ -180,8 +180,8 @@ Jesus
 Jesus life
 Jesus teachings
 Jesus times
-Jesus' followers
-Jesus' places
+Jesus followers
+Jesus places
 Joy
 Journal
 Judaism

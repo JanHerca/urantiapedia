@@ -42,7 +42,7 @@ Furthermore, the spread of the Fifth Epochal Revelation differs enormously from 
 
 ## A Unique Time in History
 
-From a Urantia Papers' perspective, we are at a unique time in history, a time of overlap between revelations. It resembles the time when John the Baptist was still preaching but Jesus had already been baptized. The old heritage of Melchizedek was still powerful, but the new power of the Father in Michael had emerged from its chrysalis and was quickly drying its wings. Questions arise now about the Urantia Papers supplanting the Bible's authority that would have arisen then, such as: “What shall become of John and his followers and the ways of the old prophets? And what will emerge among Jesus' followers?”
+From a Urantia Papers' perspective, we are at a unique time in history, a time of overlap between revelations. It resembles the time when John the Baptist was still preaching but Jesus had already been baptized. The old heritage of Melchizedek was still powerful, but the new power of the Father in Michael had emerged from its chrysalis and was quickly drying its wings. Questions arise now about the Urantia Papers supplanting the Bible's authority that would have arisen then, such as: “What shall become of John and his followers and the ways of the old prophets? And what will emerge among Jesus followers?”
 
 Today, Christianity has little witness of the new spirituality which will emerge from the spiritual potentials and leadership inspired by the Fifth Epochal Revelation.
 

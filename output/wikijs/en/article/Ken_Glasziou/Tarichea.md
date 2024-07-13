@@ -3,7 +3,7 @@ title: "Tarichea"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
-tags: Archaeology, Jesus, Jesus' places, Innerface International, article
+tags: Archaeology, Jesus, Jesus places, Innerface International, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:38Z
 ---

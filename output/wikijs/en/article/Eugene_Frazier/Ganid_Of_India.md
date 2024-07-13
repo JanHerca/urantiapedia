@@ -46,7 +46,7 @@ While in Rome, Ganid was an assistant to the Master as he went among his people.
 
 ## Lessons In Mercy
 
-It often takes a dramatic situation in life to bring a deeper understanding of the ideals to which a faith son or daughter is committed. The violent incidents at Fair Havens and near Tarentum, and the meeting with the women of Corinth were lessons that mercy is needed where punishment would normally be given. Even many of Jesus' followers today find the meaning of non-resistance unsettling: even though millions claim to believe his teaching on this subject, there is very little evidence of mass practice.
+It often takes a dramatic situation in life to bring a deeper understanding of the ideals to which a faith son or daughter is committed. The violent incidents at Fair Havens and near Tarentum, and the meeting with the women of Corinth were lessons that mercy is needed where punishment would normally be given. Even many of Jesus followers today find the meaning of non-resistance unsettling: even though millions claim to believe his teaching on this subject, there is very little evidence of mass practice.
 
 By the time Ganid and Jesus parted, the young man's total devotion to his Master and his teaching had ripened. In Antioch, Ganid had put his beliefs into action by talking to a disheartened man about the Father's love. He told Jesus. “_‘I will remember your teaching, but most of all, I will never forget you.’_” (<a id="a50_314"></a>[UB 133:9.4](/en/The_Urantia_Book/133#p9_4)) he told Jesus. He was true to this promise.
 

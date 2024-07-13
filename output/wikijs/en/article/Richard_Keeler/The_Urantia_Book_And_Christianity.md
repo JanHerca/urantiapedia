@@ -77,7 +77,7 @@ I think that the Wikipedia article will help many people who are searching for t
 
 _RESPONSE TO WIKIPEDIA by Paul Tsekar (Yaounde, Cameroon)_
 
-Christianity is an organization established by Jesus' followers after his departure from this world and was founded with the good intention to perpetuate Jesus' teachings and to make them popular in the world. Christianity has suffered much over the years, first from persecution by Jewish leaders and later by some political and religious leaders. Some religious leaders have used Christianity - and even made changes to The Bible — as a means to exercise power over their believers.
+Christianity is an organization established by Jesus followers after his departure from this world and was founded with the good intention to perpetuate Jesus' teachings and to make them popular in the world. Christianity has suffered much over the years, first from persecution by Jewish leaders and later by some political and religious leaders. Some religious leaders have used Christianity - and even made changes to The Bible — as a means to exercise power over their believers.
 
 These manipulations of Christianity and the twisting of Jesus' teachings have continued to this day. Take the Jehovah Witnesses for example. Their Bible, which is called the New World Version, is about 50\% different from the Bible. Why? In order to make the Bible agree with their beliefs and doctrines. Numerous Christian denominations exist, each with its own doctrines, which explains why there is so much disunity among Christians.
 

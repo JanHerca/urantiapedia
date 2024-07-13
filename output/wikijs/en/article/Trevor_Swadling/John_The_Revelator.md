@@ -3,7 +3,7 @@ title: "John the Revelator"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: Jesus' followers, Revelation, Bible—Revelation, 6-0-6, article
+tags: Jesus followers, Revelation, Bible—Revelation, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---

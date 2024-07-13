@@ -137,7 +137,7 @@ He told his disciples that the kingdom of God is within you, that you do not hav
 
 Again and again Jesus warned against the formulation of creeds and the establishment of traditions as a means of guiding believers. “Lead men into the kingdom,” he said, “and the great and living truths of the kingdom will presently drive out all serious error. Your business is to reveal God to the individual as their heavenly Father, to lead men and women to become God-conscious—and to present them to God as his faith children.” (<a id="a137_435"></a>[UB 141:6.2](/en/The_Urantia_Book/141#p6_2))
 
-The only reward to Jesus' followers—in this world, spiritual joy and divine communion; in the next world, eternal life in the progress of divine spirit realities of the Father.
+The only reward to Jesus followers—in this world, spiritual joy and divine communion; in the next world, eternal life in the progress of divine spirit realities of the Father.
 
 Jesus was a teacher, not a preacher. He came to present spiritual truths to material minds. He came to do the Father's will and only his Father's will. And because of this singleness of purpose he was not anxiously bothered by evil in the world. He paid no attention to public opinion and was not influenced by praise. He was never excited, vexed, or disconcerted, sometimes saddened, but never discouraged. And he was always unselfish.
 
