@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 Chris Moseley<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Chris Moseley<br>© 1996 Asociación Internacional Urantia (IUA)</p>
 
 Chris Moseley, Reino Unido (Editor de The Ascender - boletín informativo británico para lectores del Libro de URANTIA)
 

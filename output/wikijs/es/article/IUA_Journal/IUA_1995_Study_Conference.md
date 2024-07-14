@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
-<p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1995 Asociación Internacional Urantia (IUA)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Asociación Internacional Urantia (IUA)</p>
 
 La Conferencia de Estudio de la IUA de 1995 seguirá siendo una experiencia imborrable en la memoria de los aproximadamente 200 participantes. El espíritu de bondad, amistad y esfuerzo concertado era casi tangible. El Capítulo local de la IUA, los Espíritus Afines del Sur, realmente lograron que todos sintieran ese mismo espíritu. Los organizadores merecen ser felicitados; y un participante agradecido se quedó preguntándose cómo podría organizarse una conferencia futura de una manera que estuviera a la par con los excelentes arreglos de Nashville.
 
