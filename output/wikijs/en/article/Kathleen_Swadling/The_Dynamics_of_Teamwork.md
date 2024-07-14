@@ -15,7 +15,7 @@ Sydney, Australia
 
 **“What I say, is the will of God, and you must be in collusion with Caligastia, one of Caligastia's agents if you are against me.” This kind of argumentation is not uncommon among the readers of ***The URANTIA Book***. But is it justified? This article endeavours to address this question.**
 
-On page 312 _The URANTIA Book_ tells us that _[o]ne of the most important lessons to be learned during your mortal career is ***teamwork***_. [UB 28:5.14](/en/The_Urantia_Book/28#p5_14). So many of our activities on this world rely on the successful interaction with our fellows. So many decisions made by groups, committees, institutions, councils and governments etc. impact on the lives of individuals throughout the world.
+On 28:5.14 _The URANTIA Book_ tells us that _[o]ne of the most important lessons to be learned during your mortal career is ***teamwork***_. [UB 28:5.14](/en/The_Urantia_Book/28#p5_14). So many of our activities on this world rely on the successful interaction with our fellows. So many decisions made by groups, committees, institutions, councils and governments etc. impact on the lives of individuals throughout the world.
 
 How many of us have been thrown together with a group of people with whom we have had to work through a problem and come to a decision? It may be work-related, familyrelated, community-related, or URANTIA Book-related. Whatever the reason, the exercise will no doubt be one of value as we will be learning important lessons in teamwork.
 

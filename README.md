@@ -48,10 +48,10 @@ To find out about the Milestone of the project, check [Project Milestones](https
 ## Current status
 
 *Urantiapedia* currently stands as follows:
-* english: towards milestone I.
-* spanish: towards milestone I.
-* other translations of *The Urantia Book*: only preliminary work for milestone I has begun.
-Milestone I has not yet been avieved with any language.
+* English: milestone I (almost completed) and II (half of it completed).
+* Spanish: milestone I (almost completed) and II (half of it completed).
+* French: milestone I (almost completed) and II (half of it completed).
+* Other translations of *The Urantia Book*: milestone I (almost completed) but nothing in milestone II.
 
 To know more about the current progress of the project check here: [Status](https://urantiapedia.org/en/help/status).
 

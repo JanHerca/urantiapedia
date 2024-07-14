@@ -3,7 +3,7 @@ title: "Reflections on the Concept of the Supreme"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: IUA, Journal, article
+tags: The Supreme, IUA, Journal, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
