@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Seppo Niskanen<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carole_Jett/Mr_and_Mrs_Zebedee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El señor y la señora Zebedeo: una pareja extraordinaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="pr-2">«Sectas no, por favor, somos británicos»: una historia concisa del movimiento URANTIA británico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Seppo Niskanen
 Helsinki, Finlandia
@@ -44,3 +68,28 @@ La oración es un excelente promotor del crecimiento en diversos ámbitos. Una o
 La sensibilidad y la capacidad de respuesta crean una felicidad duradera porque nos protegen de los pensamientos negativos y egoístas, y del egoísmo y el egocentrismo. Si dirigimos nuestros pensamientos hacia otras personas y buscamos servirles, no tenemos ninguna posibilidad de preocuparnos por nuestras propias adversidades. Y sucede, no pocas veces, que nuestras propias adversidades adquieren entonces sus dimensiones adecuadas y descubrimos que, después de todo, somos bastante afortunados.
 
 _La persona feliz y eficaz está motivada, no por el miedo a hacer el mal, sino por el amor a hacer el bien._ [LU 140:4.6](/es/The_Urantia_Book/140#p4_6). Con demasiada frecuencia sucumbimos a la indecisión sobre si debemos hacer esto o aquello, y si hago esto uno se siente ofendido, y si hago aquello, mi excelencia pasa desapercibida. La salida es nuevamente ser positiva: quiero hacer el bien, es mi voluntad que se haga la voluntad de Dios. La felicidad, entonces, es un subproducto si mis acciones están motivadas con rectitud. La felicidad es, podríamos decir, una recompensa por hacer el bien, por hacer la voluntad del Padre. La búsqueda de la felicidad no es el propósito de hacer lo correcto. Si nuestra motivación exclusiva es la de buscar nuestra felicidad y suerte personal, es probable que nunca lleguemos a alcanzarla. Si nos motiva la búsqueda de la felicidad de nuestro prójimo, llegará un momento en el que descubriremos que nosotros mismos hemos encontrado la felicidad.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carole_Jett/Mr_and_Mrs_Zebedee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El señor y la señora Zebedeo: una pareja extraordinaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="pr-2">«Sectas no, por favor, somos británicos»: una historia concisa del movimiento URANTIA británico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

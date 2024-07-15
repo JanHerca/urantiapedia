@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Lauri Korpelainen<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Jernigan/The_Remarkable_Ikhnaton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El notable Ikhenaton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="pr-2">Methinkus a Agnosticus sobre la realidad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lauri Korpelainen
 Helsinki, Finlandia
@@ -88,3 +112,27 @@ La elección del nombre para un niño era una cuestión muy seria para los judí
 _El Libro de URANTIA_ nos dice que Zebedeo era amigo del padre de Jesús ([LU 129:1.2](/es/The_Urantia_Book/129#p1_2)). Se informa que Salomé, la esposa de Zebedeo, era pariente de Anás, el que alguna vez fue Sumo Sacerdote en Jerusalén ([LU 129:1.5](/es/The_Urantia_Book/129#p1_5)). Estas nociones excluyen toda posibilidad de que la familia Zebedeo hubiera tenido vínculos de sangre con la familia de José. Esto es contrario a lo que se creía tradicionalmente en las primeras iglesias, y esta creencia puede haber tenido su origen en el hecho de que una de las tías de Jesús era Salomé, homónima de la esposa de Zebedeo.
 
 Una confusión similar en cuanto a las relaciones familiares parece haber ocurrido en el caso de Clopas. Se sabía positivamente que su hijo, Simeón, había sido uno de los primos de Jesús y, por tanto, había pertenecido a la «Sagrada Familia». Pero había cierta reticencia a considerar a su esposa María como una de las hermanas de la madre de Jesús, y por eso hubo que concebir una leyenda que expusiera a Clopas como hermano de José.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Jernigan/The_Remarkable_Ikhnaton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El notable Ikhenaton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="pr-2">Methinkus a Agnosticus sobre la realidad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

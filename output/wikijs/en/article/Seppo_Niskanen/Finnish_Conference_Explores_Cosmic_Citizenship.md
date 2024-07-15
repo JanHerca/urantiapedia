@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Seppo Niskanen<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carole_Jett/US_Urantia_Association_USUAs_First_Birthday">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United States URANTIA Association - USUA's First Birthday</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="pr-2">Britain Cries Out for Cooperation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Seppo Niskanen, Helsinki, Finland
 
@@ -45,3 +69,27 @@ The most momentous and crucial problems of life are, in a certain sense, unsolva
 All of us enjoy a direct communion with God. If we so desire, we may communicate with him either through prayer or in worship. You only need to put your problems before God in a prayer and it will help you to solve them and to grow out of them. All our petitions will be answered, even though the answers are not what we possibly expected them to be. If some of our petitions cannot be answered right now, the answer will be waiting for us somewhere along our ascension careers, as soon as we are able to appreciate and comprehend it.
 
 These were only a sample of the findings and ideas which were articulated at the Conference. I hope the Journal readers found them edifying.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carole_Jett/US_Urantia_Association_USUAs_First_Birthday">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United States URANTIA Association - USUA's First Birthday</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="pr-2">Britain Cries Out for Cooperation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

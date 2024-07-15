@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Richard Jernigan<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Junio 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="pr-2">La hermana de María María</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Richard Jernigan
 Dallas, Texas, EE.UU.
@@ -50,3 +74,27 @@ Grant, Michael. _La Historia del Antiguo Israel_. Hijos de Charles Scribner, 198
 Lambdin, T. O. «Tell el—Amarna», Diccionario del intérprete de la Biblia. Prensa de Abingdon, 1962.
 
 Wilson, J. A. «Akh-en-Aton» y «Egypt», _Diccionario del intérprete de la Biblia_. Prensa de Abingdon, 1962.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Junio 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="pr-2">La hermana de María María</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

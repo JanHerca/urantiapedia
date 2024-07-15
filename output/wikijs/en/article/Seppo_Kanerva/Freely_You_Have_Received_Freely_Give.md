@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Seppo Kanerva<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stoicism — lts Time Has Come...Back</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -39,3 +60,24 @@ The apostle Matthew was equally generous; he, too, gave for the work of the king
 > _He [Matthew] gave practically the whole of his modest fortune to the work of the Master and his apostles, but they never knew of this generosity, saye Jesus, who knew all about it. Matthew ... knew his presence among them was more or less of a trial, he was strongly tempted to let them know that his funds often supplied them with their daily bread, but he did not yield._ [UB 139:7.8](/en/The_Urantia_Book/139#p7_8)
 
 These recounts and teachings may be of guidance when each of us comes to think and ponder whether to donate funds, or give a contribution in the form of voluntary work for the benefit of any one of the numerous projects of the movement: translations, printings, travel expenses, mailings, article writing, study group hosting, and so on.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stoicism — lts Time Has Come...Back</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

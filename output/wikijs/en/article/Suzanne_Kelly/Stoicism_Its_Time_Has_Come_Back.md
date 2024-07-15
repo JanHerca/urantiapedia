@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Suzanne Kelly<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marriage, Parenting and Their Products</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/Freely_You_Have_Received_Freely_Give">
+          <span class="pr-2">Freely You Have Received, Freely Give</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Suzanne Kelly, Texas
 
@@ -51,3 +75,27 @@ If we would but accept the central concept of the Stoic teaching, i.e. “ration
 To relate further on this personal assumption of free will, man's desire for immortality may be evidence of man's capacity for it. If there is an appetite for life everlasting, the chances are that the appetite will not go unsatisfied. Unfortunately the “recorded” Stoic thought stopped speculating before they came to these conclusions.
 
 In summary, the philosophy of Stoicism might be desirable in this day and age especially in the areas of politics and personal duty. For the Stoic the sole good in human life is virtue, the acquisition of which depends on the individual free will. If a man acquires virtue and lives in harmony with nature, he is thereby freed from spiritual dependence on material factors. In Stoicism the desire for material things comes only from false judgement, which can be overcome by knowledge. The pursuit of virtue is an end in itself. Nothing else matters to the Stoic. Because they felt that all emotions should be avoided, it made their doctrine seem cold and brittle. But the Stoic was a firm believer in the fatherhood of God and the brotherhood of man. This universalism gives it a more exalted note than the at first sight of narrow insistence on being virtuous. It is this embryo of Stoic philosophy reflected in the brotherhood of man and the fatherhood of God that will inevitably redeem mankind and begin to solve his social and political problems.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marriage, Parenting and Their Products</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/Freely_You_Have_Received_Freely_Give">
+          <span class="pr-2">Freely You Have Received, Freely Give</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

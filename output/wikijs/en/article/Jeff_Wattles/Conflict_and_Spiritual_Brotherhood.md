@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Jeffrey Wattles<br>© 1997 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — March 1997 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Carrie_Prentice/But_How_Can_That_Be_True">
+          <span class="pr-2">But How Can That Be True?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jeffrey Wattles, Ohio USA
 
@@ -117,3 +141,27 @@ An expert on church growth, addressing a group of URANTIA Book readers, was aske
 In the history of Christianity there have been betrayals of truth and goodness that caused conflicts; matters even got to a point where further growth was incompatible with unity [UB 92:5.15](/en/The_Urantia_Book/92#p5_15). All this makes it even more striking that all Jesus' followers are called to spiritual brotherhood, even with those whose theologies contain offensive elements and with people whose groups have done harm to interests of one's own group.
 
 Once I joined with a very diverse group of readers to re-live the Edenic Sabbath outlined on page [UB 74:4.6](/en/The_Urantia_Book/74#p4_6). After the scheduled period of worship I had planned to give a brief talk (the “intellectual” stimulation for the day) on the topic of spiritual unity; but for a time after the worship was concluded, we were in such a state of unity that to discourse about the topic would have been absurd. Clearly, spiritual unity among members of all religions is to be found in the worship of God [[UB 63:5.1](/en/The_Urantia_Book/63#p5_1); [UB 64:6.1](/en/The_Urantia_Book/64#p6_1); [UB 92:5.16](/en/The_Urantia_Book/92#p5_16); [UB 92:7.4](/en/The_Urantia_Book/92#p7_4); [UB 99:5.7](/en/The_Urantia_Book/99#p5_7); [UB 103:4.1](/en/The_Urantia_Book/103#p4_1)]. In searching _The URANTIA Book_ in quest of guidance for realizing spiritual unity, one finds that what is most emphasized is improving the individual's relationship with God. Jesus has shown the way of spiritual brotherhood by the love that pervaded his thoughts, words, and deeds. He demonstrated in his life what he proclaimed in his gospel: the spiritual brotherhood, the kingdom of heaven [[UB 152:3.2](/en/The_Urantia_Book/152#p3_2); [UB 153:2.5](/en/The_Urantia_Book/153#p2_5)]. Once again, the gospel is found to be the key to the solution of another human problem.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — March 1997 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Carrie_Prentice/But_How_Can_That_Be_True">
+          <span class="pr-2">But How Can That Be True?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

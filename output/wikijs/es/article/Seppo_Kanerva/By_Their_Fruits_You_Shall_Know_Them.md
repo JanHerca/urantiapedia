@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Seppo Kanerva<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Sectas no, por favor, somos británicos»: una historia concisa del movimiento URANTIA británico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Seppo Kanerva
 Helsinki, Finlandia
@@ -94,3 +115,25 @@ _«Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar 
 Uno de los pasajes más matutinos del _Libro de URANTIA_ es la declaración del Jesús morontial del 16 de mayo del 30 d.C. en Tiro. Dijo Jesús:
 
 _... pero aquellos que nacen del espíritu empiezan a manifestar inmediatamente los frutos del espíritu en el servicio amoroso a sus semejantes. Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera. Si unos creyentes declarados no producen estos frutos del espíritu divino en sus vidas, están muertos; el Espíritu de la Verdad no está en ellos; son unas ramas inútiles de la vid viviente, y pronto serán cortadas. Mi Padre pide a los hijos de la fe que produzcan muchos frutos del espíritu. Por consiguiente, si no sois fecundos, él cavará alrededor de vuestras raíces y cortará vuestras ramas estériles. A medida que progreséis hacia el cielo en el reino de Dios, deberéis producir cada vez más los frutos del espíritu..._ [LU 193:2.2](/es/The_Urantia_Book/193#p2_2)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Sectas no, por favor, somos británicos»: una historia concisa del movimiento URANTIA británico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

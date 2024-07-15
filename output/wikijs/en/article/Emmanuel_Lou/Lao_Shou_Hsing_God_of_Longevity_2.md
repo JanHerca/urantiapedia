@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Emmanuel Lou<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Methinkus to Agnosticus on the Reality of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/The_Family">
+          <span class="pr-2">The Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Urantiapedia Note: This article was also published in ANZURA 6-0-6 magazine, [Vol 8 No 4 July 1987](/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity)_
 {.is-info}
@@ -60,4 +84,28 @@ So how to pronounce 'Van'? I would like to suggest the pronunciation which may h
 
 <figure id="Figure_2" class="image urantiapedia" alt="chinese gods">
 <img src="/image/article/IUA_Journal/chinese_gods.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Methinkus to Agnosticus on the Reality of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/The_Family">
+          <span class="pr-2">The Family</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

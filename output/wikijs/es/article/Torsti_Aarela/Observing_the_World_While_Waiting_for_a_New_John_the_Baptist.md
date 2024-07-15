@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Torsti Äärelä<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carole_Jett/Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">canalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Torsti Äärelä
 Helsinki, Finlandia
@@ -128,3 +149,25 @@ Los cristianos tienden a decir: «Cristo ha hecho esto y aquello por mí, despu�
 > _Tarde o temprano deberá surgir otro Juan el Bautista más grande, que proclamará que «el reino de Dios está cerca» —que propondrá un retorno al elevado concepto espiritual de Jesús, el cual proclamó que el reino es la voluntad de su Padre celestial, dominante y trascendente, en el corazón del creyente— y hará todo esto sin referirse para nada a la iglesia visible en la Tierra, ni a la esperada segunda venida de Cristo._ ([LU 170:5.19](/es/The_Urantia_Book/170#p5_19))
 
 Por último, pero no menos importante, puedo afirmar que difícilmente estaremos presentes para ver roto el monopolio de la participación de la santidad, en la medida en que posiblemente nos gustaría que esto sucediera. Pero el progreso es constante. Seguimos anticipando tiempos mejores, como se promete en el libro.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carole_Jett/Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">canalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

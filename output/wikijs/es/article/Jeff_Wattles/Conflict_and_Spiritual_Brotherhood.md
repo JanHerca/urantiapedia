@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Jeffrey Wattles<br>© 1997 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Marzo 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Carrie_Prentice/But_How_Can_That_Be_True">
+          <span class="pr-2">¿Pero cómo puede ser eso cierto?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jeffrey Wattles, Ohio, EE.UU.
 
@@ -117,3 +141,27 @@ A un experto en crecimiento de la iglesia, dirigiéndose a un grupo de lectores 
 En la historia del cristianismo ha habido traiciones a la verdad y al bien que provocaron conflictos; Las cosas llegaron incluso a un punto en el que un mayor crecimiento era incompatible con la unidad [LU 92:5.15](/es/The_Urantia_Book/92#p5_15). Todo esto hace aún más llamativo que todos los seguidores de Jesús estén llamados a la hermandad espiritual, incluso con aquellos cuyas teologías contienen elementos ofensivos y con personas cuyos grupos han perjudicado los intereses del propio grupo.
 
 Una vez me uní a un grupo muy diverso de lectores para revivir el sábado edénico descrito en la página [LU 74:4.6](/es/The_Urantia_Book/74#p4_6). Después del período de adoración programado, tenía planeado dar una breve charla (el estímulo «intelectual» del día) sobre el tema de la unidad espiritual; pero durante un tiempo después de concluir el culto, estábamos en tal estado de unidad que hablar sobre el tema hubiera sido absurdo. Claramente, la unidad espiritual entre los miembros de todas las religiones se encuentra en la adoración a Dios [[LU 63:5.1](/es/The_Urantia_Book/63#p5_1); [LU 64:6.1](/es/The_Urantia_Book/64#p6_1); [LU 92:5.16](/es/The_Urantia_Book/92#p5_16); [LU 92:7.4](/es/The_Urantia_Book/92#p7_4); [LU 99:5.7](/es/The_Urantia_Book/99#p5_7); [LU 103:4.1](/es/The_Urantia_Book/103#p4_1)]. Al buscar en _El Libro de URANTIA_ guía para realizar la unidad espiritual, uno encuentra que lo que más se enfatiza es mejorar la relación del individuo con Dios. Jesús ha mostrado el camino de la hermandad espiritual mediante el amor que impregnaba sus pensamientos, palabras y obras. Demostró en su vida lo que proclamó en su evangelio: la hermandad espiritual, el reino de los cielos [[LU 152:3.2](/es/The_Urantia_Book/152#p3_2); [LU 153:2.5](/es/The_Urantia_Book/153#p2_5)]. Una vez más, se descubre que el evangelio es la clave para la solución de otro problema humano.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1997_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Marzo 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Carrie_Prentice/But_How_Can_That_Be_True">
+          <span class="pr-2">¿Pero cómo puede ser eso cierto?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

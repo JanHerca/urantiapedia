@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Jacques Dupont<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/IUA_1995_Study_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de estudio de la IUA de 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pekka_Markus/Reflections_on_the_Concept_of_the_Supreme">
+          <span class="pr-2">Reflexiones sobre el concepto de Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Jacques Dupont
 Recierra, Francia
@@ -97,3 +121,28 @@ Por eso el gran mandamiento nos invita a amar primero a Dios con todo nuestro co
 
 Amor para todos ustedes.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/IUA_1995_Study_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de estudio de la IUA de 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pekka_Markus/Reflections_on_the_Concept_of_the_Supreme">
+          <span class="pr-2">Reflexiones sobre el concepto de Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

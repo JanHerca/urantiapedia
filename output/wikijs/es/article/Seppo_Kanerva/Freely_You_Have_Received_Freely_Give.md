@@ -1,5 +1,5 @@
 ---
-title: "Gratis lo recibiste, gratis lo das"
+title: "Habéis recibido gratuitamente, dad gratuitamente"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Seppo Kanerva<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estoicismo: ha llegado la hora... de su vuelta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -39,3 +60,24 @@ El apóstol Mateo fue igualmente generoso; él también dio para la obra del rei
 > _Mateo ... Entregó prácticamente la totalidad de su modesta fortuna a la obra del Maestro y sus apóstoles, pero ellos nunca se enteraron de esta generosidad, salvo Jesús, que estaba al corriente de todo. Mateo ... se daba cuenta de que su presencia entre ellos era más o menos una prueba, sentía la fuerte tentación de hacerles saber que con su dinero se compraba a menudo su pan cotidiano, pero no lo hizo._ ([LU 139:7.8](/es/The_Urantia_Book/139#p7_8))
 
 Estos relatos y enseñanzas pueden servirnos de guía cuando cada uno de nosotros piense y reflexione sobre si donar fondos o dar una contribución en forma de trabajo voluntario en beneficio de cualquiera de los numerosos proyectos del movimiento: traducciones, impresiones, gastos de viaje, envíos por correo, redacción de artículos, alojamiento de grupos de estudio, etc.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estoicismo: ha llegado la hora... de su vuelta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 George Horton Foster<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lee_Armstrong/Meditation_for_the_Morning">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación para la mañana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="pr-2">Los bajones espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 George Horton Foster
 Chino Valley, Arizona, EE.UU.
@@ -22,3 +46,27 @@ Para ayudar a comprender y mantener mi resolución, deseo afirmar: Es mi volunta
 Pero además de esto, tengo la más profunda esperanza de que durante eones y eones permanezca consciente de mí mismo y sea un participante contribuyente en la evolución continua de este maravilloso universo. Quiero crecer, aprender, crear y estar de servicio. Ésta es mi expresión de resolución y de esperanza.
 
 Se espera que el lector encuentre lo anterior significativo y quizás útil para desarrollar una declaración personal para un uso similar.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lee_Armstrong/Meditation_for_the_Morning">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación para la mañana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="pr-2">Los bajones espirituales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

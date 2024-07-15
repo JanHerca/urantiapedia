@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Pekka Markus<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Meditation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="pr-2">The Matter of Leptoquarks</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Pekka Markus
 Oulu, Finland
@@ -52,3 +76,27 @@ Before I sign off, I present a picture of what the quest for Infinity might be l
 The question remains:
 
 Does the Supreme Being have even a chance of getting onto the level of the Absolutes?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Meditation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="pr-2">The Matter of Leptoquarks</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

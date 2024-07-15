@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Chuck Van Sant<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antero_Huovinen/How_Big_Is_Orvonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Big Is Orvonton?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lee_Armstrong/Meditation_for_the_Morning">
+          <span class="pr-2">Meditation for the Morning</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chuck Van Sant
 Bartlesville, Oklahoma, U.S.A. 
@@ -19,4 +43,28 @@ I made the assumption that the macrocosm was proof of the microcosm, that the ev
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/ultimatons2.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Antero_Huovinen/How_Big_Is_Orvonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Big Is Orvonton?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lee_Armstrong/Meditation_for_the_Morning">
+          <span class="pr-2">Meditation for the Morning</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

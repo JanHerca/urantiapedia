@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Carole Jett<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Horton_Foster/Interpretation_Of_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interpretation Of Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="pr-2">Are You a Happy Man?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Carole Jett
 Los Angeles, California, U.S.A.
@@ -50,3 +74,28 @@ The resurrected Jesus' farewell to his Bethsaida home and headquarters was the f
 A reflection of Zebedee's and Salome's parenting can be viewed through the behavior of their sons, who proved themselves honorable to the end. _James lived his life to the full, and when the end came, he bore himself with such grace and fortitude that even his accuser and informer, who attended his trial and execution, was so touched that he rushed away from the scene of James's death to join himself to the disciples of Jesus_. [UB 139:3.9](/en/The_Urantia_Book/139#p3_9). Their youngest son John: _This “son of thunder” became the “apostle of love”; and at Ephesus, when the aged bishop was no longer able to stand in the pulpit and preach but had to be carried to church in a chair, and when at the close of the service he was asked to say a few words to the believers. for years his only utterance was, “My little children, love one another.”_ [UB 139:4.6](/en/The_Urantia_Book/139#p4_6). And David the dependable with his vast organizational skills and trusted messengers bade farewell to Jesus saying: _“Master, I have had great joy in my service with you. My brothers are your apostles, but I have delighted to do the lesser things as they should be done, and I shall miss you with all my heart when you are gone.”_ [UB 182:2.10](/en/The_Urantia_Book/182#p2_10)
 
 And so, I feel indebtedness to these two remarkable people. They gave of themselves fully and freely to our Creator, Christ Michael. And someday I hope to consult the morontia registry to pay them a visit feeling confident I will be received graciously.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Horton_Foster/Interpretation_Of_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interpretation Of Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="pr-2">Are You a Happy Man?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

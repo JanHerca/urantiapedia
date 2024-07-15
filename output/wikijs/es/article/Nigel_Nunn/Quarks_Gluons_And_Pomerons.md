@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Nigel Nunn<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1995_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Diciembre 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Study_And_Worship">
+          <span class="pr-2">Estudio y adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Nigel Nunn
 Canberra, Australia
@@ -68,3 +92,28 @@ Una posible explicación involucra un objeto casi olvidado llamado «pomeron». 
 ¿Podemos los lectores del Libro de Urantia especular que en realidad se trata de un ultimáton que se está desprendiendo?
 
 ¿Ha detectado la raza humana su primer ultimáton aislado?
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1995_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Diciembre 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Study_And_Worship">
+          <span class="pr-2">Estudio y adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

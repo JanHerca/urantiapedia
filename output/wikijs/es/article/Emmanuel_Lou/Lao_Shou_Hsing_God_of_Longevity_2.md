@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Emmanuel Lou<br>© Asociación Urantia Internacional (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Methinkus a Agnosticus sobre la realidad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/The_Family">
+          <span class="pr-2">La familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Nota de Urantiapedia: Este artículo también se publicó en la revista ANZURA 6-0-6, [Vol 8 No 4 julio 1987](/es/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity)_
 {.is-info}
@@ -60,4 +84,28 @@ Entonces, ¿cómo se pronuncia «Van»? Me gustaría sugerir una pronunciación 
 
 <figure id="Figure_2" class="image urantiapedia" alt="chinese gods"> 
 <img src="/image/article/IUA_Journal/chinese_gods.jpg"> 
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Methinkus a Agnosticus sobre la realidad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/The_Family">
+          <span class="pr-2">La familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Chris Moseley<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Niskanen/Finnish_Conference_Explores_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conferencia finlandesa explora la ciudadanía cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="pr-2">Matrimonio, paternidad y sus productos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chris Moseley, Reino Unido (Editor de The Ascender - boletín informativo británico para lectores del Libro de URANTIA)
 
@@ -26,3 +50,27 @@ ES MEJOR<br>
 QUE<br>
 CONFLICTO<br>
 </p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Niskanen/Finnish_Conference_Explores_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conferencia finlandesa explora la ciudadanía cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="pr-2">Matrimonio, paternidad y sus productos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 George Horton Foster<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lee_Armstrong/Meditation_for_the_Morning">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation for the Morning</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="pr-2">The Spiritual Downs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 George Horton Foster
 Chino Valley, Arizona, U.S.A.
@@ -22,3 +46,27 @@ To help understand and maintain my resolve, I wish to affirm: It is my will that
 But in addition to this, it is my most profound hope that for eons and eons I will remain consciously self-aware, and will be a contributing participant in the continuing evolution of this marvelous universe. I want to grow, to learn, to create, and to be of service. This is my expression of resolve and of hope.
 
 It is hoped that the reader will find the above meaningful and perhaps helpful in developing a personal statement for similar use.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lee_Armstrong/Meditation_for_the_Morning">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation for the Morning</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="pr-2">The Spiritual Downs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

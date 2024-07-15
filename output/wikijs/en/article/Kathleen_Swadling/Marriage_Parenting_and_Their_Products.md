@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Kathleen Swadling<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Britain Cries Out for Cooperation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="pr-2">Stoicism — lts Time Has Come...Back</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Kathleen Swadling, Sydney, Australia
 
@@ -130,3 +154,27 @@ So back to that “catch 22 ” situation—the individual problem is the world'
 > _... ethics, sociology, eugenics, philosophy, the fine arts, religion, and cosmology._
 
 Having focused on some of these problems which _The URANTIA Book_ has warned us about, and having looked to the book for guidance, my advice now is that all of us who recognise the severity of these problems look to our own skills and abilities and see what we can do to influence change in our own sphere of influence. If we feel our civilisation is in grave danger and the number of youths occupying themselves with materialistic pursuits in place of the arts is getting to that critical point which _The URANTIA Book_ mentions, then we, as individuals, should take some sort of action in whatever way we can. I do not for one minute believe it is the role of any organised group of religionists or _URANTIA Book_ readers to take any action of this kind other than assisting with the spiritual transformation of individuals. Action taken in the secular world is something each individual needs to work out for his or herself. The mores of our society will change for the better when a handful of forward looking, spiritually enlightened men and women initiate changes to administration and education, when they are willing to get involved, to use the democratic process to lobby and to pressure our institutions of power and control. The powers to be need to be made to see the dangers facing our society; the silent moral majority need to be encouraged to speak out—to cry out for our children and for our children's children.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Britain Cries Out for Cooperation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="pr-2">Stoicism — lts Time Has Come...Back</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

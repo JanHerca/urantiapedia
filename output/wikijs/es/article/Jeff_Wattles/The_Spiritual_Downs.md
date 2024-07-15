@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Jeffrey Wattles<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Horton_Foster/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cathy_Hoffman/A_Short_Biography">
+          <span class="pr-2">Una breve biografía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jeffrey Wattles
 Stow, Ohio, EE.UU.
@@ -72,3 +96,27 @@ Como dijo Oseas: «Siembra justicia y cosecha bondad, haz barbecho: es tiempo de
 Verdaderamente el amor más genuino que podemos sentir por otro es el amor que el Padre nos da para dar. Cuando sentimos amor incondicional, es tanto un regalo de Dios como nuestra propia movilización de la personalidad, o tal vez podamos verlos como dos descripciones del mismo acto.
 
 Si afrontamos nuestros problemas sin ansiedad, si persistimos en buscar la voluntad y el camino del Padre, y si elegimos los caminos de la rectitud, incluso cuando no nos sintamos completamente motivados para hacerlo, seguramente llegaremos a vivir en esa nueva y fresca forma en que Jesús vivió para nosotros, el amor incondicional por nuestro Padre y nuestros hermanos y hermanas. Las caídas espirituales pueden ser como doblar un trampolín, el preludio a un logro y gracia más sólidos y a la entrada en el agua de la vida.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Horton_Foster/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cathy_Hoffman/A_Short_Biography">
+          <span class="pr-2">Una breve biografía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Chris Moseley<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Eres un hombre feliz?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/By_Their_Fruits_You_Shall_Know_Them">
+          <span class="pr-2">Por sus frutos los conoceréis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Chris Moseley
 Londres, Inglaterra 
@@ -26,3 +50,28 @@ No me atrevería a especular sobre si la lentitud del crecimiento del movimiento
 En los últimos años se han hecho dos cosas para tratar de garantizar que _El Libro de URANTIA_ conserve lectores en Gran Bretaña. En primer lugar, en 1987 creamos un pequeño boletín. The Ascender, como foro de contacto entre aquellos lectores que deseen mantenerse en contacto con el hacer de los demás. La experiencia nos dice que esos lectores son una minoría, pero no importa. En segundo lugar, al establecer una oficina de la Fundación UrANTIA en este país, nos hemos asegurado de que los libros estén fácilmente disponibles en las librerías en todo momento. Todavía tenemos que hacer avances importantes en la red de bibliotecas británicas, lo que sigue siendo un desafío para el futuro. Teniendo en cuenta que en nuestra oficina tenemos un volumen de ventas regular de libros, el número de lectores está creciendo, pero de forma silenciosa y discreta: crece como una robusta cosecha de setas en un suelo oscuro y húmedo.
 
 En otros países el movimiento del _Libro de URANTIA_ parece estar progresando a pasos agigantados. Sólo podemos mirar con admiración. Esperamos que algún día en nuestras vidas nosotros también tengamos un número de lectores floreciente y activo. Por supuesto, ser pequeño tiene ventajas; No hemos llegado al punto de ningún cisma serio entre nuestros lectores. Pero también hay desventajas: todavía no estamos calificados para unirnos a la IUA. Pero ese momento seguramente llegará.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Eres un hombre feliz?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/By_Their_Fruits_You_Shall_Know_Them">
+          <span class="pr-2">Por sus frutos los conoceréis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Chuck Van Sant<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cuestión de los leptoquarks o la gestión de la materia por el Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/The_Dynamics_of_Teamwork">
+          <span class="pr-2">La dinámica del trabajo en equipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Chuck Van Sant
 Bertlesville, Oklahoma, EE.UU.
@@ -60,3 +84,28 @@ Esto plantea otra pregunta. Tenemos cosas en el mundo real sobre las cuales colg
 Estos tres, los ultimatones, resuelven una serie de otros problemas de física, astronomía y cosmología. Uno de ellos es el de la «materia oscura». Los científicos de los tres campos creen que el noventa por ciento del universo es invisible. Otros problemas sin resolver son el bajo recuento de neutrinos solares y la «masa perdida del universo». (Somos bombardeados por miles de millones de neutrinos libres cada segundo. La materia no es obstáculo para un neutrino libre. Pasa a través de él. La ciencia aún no sabe que _sólo responden a la gravedad del Paraíso_.)
 
 Finalmente, la atracción de estas partículas entre sí es sin duda la poderosa fuerza de la que «no sabemos nada» en Urantia, y la lógica sugiere una energía proporcional a la masa multiplicada por el cubo de luz. Si dividir el átomo involucra el cuadrado de la velocidad de la luz, podríamos esperar que dividir el protón involucra su cubo. Y, después de todo, vivimos en un universo trinitario. Consideremos cuán poderosa debe ser esta fuente de energía y cuán universal es el combustible. Como sabemos que los ultimátones en sí no pueden convertirse en energía pura, esta debe ser la fuerza física más poderosa de los siete superuniversos. Otro regalo más de los reveladores.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cuestión de los leptoquarks o la gestión de la materia por el Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/The_Dynamics_of_Teamwork">
+          <span class="pr-2">La dinámica del trabajo en equipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Pekka Markus<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Meditation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="pr-2">La cuestión de los leptoquarks o la gestión de la materia por el Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Pekka Markus
 Oulu, Finlandia
@@ -52,3 +76,27 @@ Antes de cerrar sesión, presento una imagen de cómo podría ser la búsqueda d
 La pregunta sigue siendo:
 
 ¿Tiene el Ser Supremo alguna posibilidad de llegar al nivel de los Absolutos?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Meditation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="pr-2">La cuestión de los leptoquarks o la gestión de la materia por el Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

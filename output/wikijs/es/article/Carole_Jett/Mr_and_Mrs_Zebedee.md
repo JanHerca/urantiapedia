@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Carole Jett<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Horton_Foster/Interpretation_Of_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interpretación de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="pr-2">¿Eres un hombre feliz?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Carole Jett
 Los Ángeles, California, EE.UU.
@@ -50,3 +74,28 @@ La despedida de Jesús resucitado de su hogar y cuartel general en Betsaida fue 
 Un reflejo de la paternidad de Zebedeo y Salomé se puede ver a través del comportamiento de sus hijos, quienes demostraron ser honorables hasta el final. _Santiago vivió su vida de manera plena, y cuando llegó el final, se comportó con tanta gracia y entereza que incluso su acusador y delator, que asistió a su juicio y ejecución, se conmovió hasta tal punto que abandonó precipitadamente el espectáculo de la muerte de Santiago para unirse a los discípulos de Jesús_. [LU 139:3.9](/es/The_Urantia_Book/139#p3_9). Su hijo menor, Juan: _Este «hijo del trueno» se convirtió en el «apóstol del amor». En Éfeso, siendo ya un obispo anciano que no se podía mantener de pie en el púlpito para predicar, y tenían que llevarlo a la iglesia en una silla, cuando al final de los oficios le pedían que dijera algunas palabras para los creyentes, durante años se limitó a repetir: «Hijos míos, amaos los unos a los otros»_ [LU 139:4.6](/es/The_Urantia_Book/139#p4_6). Y David el confiable con sus vastas habilidades organizativas y mensajeros confiables se despidió de Jesús diciendo: _«Maestro, he tenido la gran alegría de servir contigo. Mis hermanos son tus apóstoles, pero yo he disfrutado haciendo las cosas menores tal como debían hacerse, y te echaré de menos con todo mi corazón cuando te hayas ido.»_ [LU 182:2.10](/es/The_Urantia_Book/182#p2_10)
 
 Y por eso me siento en deuda con estas dos personas extraordinarias. Se entregaron total y libremente a nuestro Creador, Cristo Miguel. Y algún día espero consultar el registro morontial para hacerles una visita sintiendo la confianza de que seré recibido amablemente.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Horton_Foster/Interpretation_Of_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interpretación de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="pr-2">¿Eres un hombre feliz?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Chris Moseley<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Finnish_Conference_Explores_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Finnish Conference Explores Cosmic Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="pr-2">Marriage, Parenting and Their Products</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Chris Moseley, UK (Editor of The Ascender - Britain's newsletter for URANTIA Book readers)
 
@@ -26,3 +50,27 @@ IS BETTER<br>
 THAN<br>
 CONFLICT<br>
 </p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Finnish_Conference_Explores_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Finnish Conference Explores Cosmic Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="pr-2">Marriage, Parenting and Their Products</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 George Horton Foster<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Study_And_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study And Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carole_Jett/Mr_and_Mrs_Zebedee">
+          <span class="pr-2">Mr. and Mrs. Zebedee — A Most Remarkable Couple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By George Horton Foster
 Chino Valley, Arizona, U.S.A.
@@ -35,3 +59,28 @@ The process as described in the book is very complicated and variable, and much 
 <img src="/image/article/IUA_Journal/interpretation-of-personality.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Study_And_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study And Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carole_Jett/Mr_and_Mrs_Zebedee">
+          <span class="pr-2">Mr. and Mrs. Zebedee — A Most Remarkable Couple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

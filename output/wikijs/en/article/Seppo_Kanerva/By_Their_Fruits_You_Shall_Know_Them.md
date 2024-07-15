@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Seppo Kanerva<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“No Sects Please, We're British”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Seppo Kanerva
 Helsinki, Finland
@@ -94,3 +115,25 @@ _To “follow Jesus” means to personally share his religious faith and to ente
 One of the most moring passages in _The URANTIA Book_ is the morontia Jesus' statement of May I6, A.D. 30 at Tyre. Said Jesus:
 
 _... those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust. merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; they are useless branches on the living vine, and they soon will be taken away. My Father requires of the children of faith that they bear much spirit fruit... Increasingly, must you yield the fruits of the spirit as you progress heavenward in the kingdom of God..._ [UB 193:2.2](/en/The_Urantia_Book/193#p2_2)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“No Sects Please, We're British”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

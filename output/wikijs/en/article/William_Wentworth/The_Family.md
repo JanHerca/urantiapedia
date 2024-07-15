@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 William Wentworth<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lao Shou Hsing—God of Longevity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carole_Jett/Channeling">
+          <span class="pr-2">Channeling</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 William Wentworth
 Towamba, New South Wales, Australia 
@@ -42,3 +66,27 @@ _The URANTIA Book_ recognises the threat, but confines itself to generalisations
 But that said, the authors do seem to be implying that the step up in spiritual idealism which civilisation urgently requires can be built only upon a foundation of moral enlightenment growing out of traditional family life.
 
 Thinkers and groups offering public support for the traditional family are beginning to emerge. They are widely ridiculed by intellectuals as backward and unsophisticated. But there is profound support for the traditional family among ordinary people, and some readers of _The URANTIA Book_ might like to give sincere thought to joining them. Those who do will need courage, as the anti-family forces are well entrenched socially, astute politically, and adept in the public use of abuse and ridicule.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lao Shou Hsing—God of Longevity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carole_Jett/Channeling">
+          <span class="pr-2">Channeling</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Cathy Hoffman<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Spiritual Downs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Nielsen/The_Value_of_Loyalty">
+          <span class="pr-2">The Value of Loyalty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cathy Hoffman
 Melbourne, Australia
@@ -82,3 +106,27 @@ When I was younger, surer and strong, I came to God through myself; not so young
 I had made a decision. There has to come a stopping-point for the mind when evidence requirement is exhausted. A time when the demand for “proof” yields to another faculty of faith. I made the decision, not to give up the honourable mind-search, but to exercise with it the faculty of faith.
 
 So I had faith in Christ Jesus.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Spiritual Downs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Nielsen/The_Value_of_Loyalty">
+          <span class="pr-2">The Value of Loyalty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

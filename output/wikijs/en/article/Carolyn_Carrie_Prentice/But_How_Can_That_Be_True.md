@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Carolyn Prentice<br>© 1997 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Conflict_and_Spiritual_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflict and Spiritual Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Perry/The_Nature_of_God_Its_Revelation_in_Jesus_The_Son_of_Man">
+          <span class="pr-2">The Nature of God: Its Revelation in Jesus, The Son of Man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Carolyn Prentice, Minnesota, USA
 
@@ -38,3 +62,27 @@ Instead of feeling cheated that women never get a Creator Son bestowed in their 
 What would a universe be like if we all had the same roles? God loves us all and created us each to play our unique parts, male or female — apparently forever. The perfect Havona residents are hungry for experience — and yet that is not their role; they are existential. Angels, although they advance, will always be angels. The Creative Mother Spirit cannot leave her local universe. The Creator Son cannot bestow himself as a woman. All beings have some unique, secret experience on the sacred spheres of Paradise which can never be shared by unlike beings [[UB 13:1.1](/en/The_Urantia_Book/13#p1_1)]. We Urantians will be father-indwelt, other beings will be spirit-indwelt, and still others are merely what they are.
 
 So I finally have come to peace with those parts of _The URANTIA Book_. I'm sure that I will have other battles. The key is to keep studying, keep reading, keep praying. Go forward with faith that you will eventually understand. What is remarkable is that _The URANTIA Book_ can withstand such criticism, resentment, and scrutiny, and still emerge intact as a coherent and consistent guiding light, a source for dependable truth in a confused world.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Conflict_and_Spiritual_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflict and Spiritual Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Perry/The_Nature_of_God_Its_Revelation_in_Jesus_The_Son_of_Man">
+          <span class="pr-2">The Nature of God: Its Revelation in Jesus, The Son of Man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

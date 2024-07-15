@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Nigel Nunn<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pekka_Markus/Reflections_on_the_Concept_of_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on the Concept of the Supreme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_L_Van_Sant/Ultimatons">
+          <span class="pr-2">Ultimatons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Nigel Nunn
 Canberra, Australia
@@ -158,3 +182,28 @@ When the above absorb the gigavolts we throw at them in accelerators, they rearr
 Physicists have been trying to catalogue atomic splinters roiling in the immeasurable spaces of the Plank domain. Trying to predict probabilities, note quanta, explore chaos. But a pattern of hints has been appearing.
 
 This cataloguing of leptoquark fragments may remain healthy and stimulating work for a few more generations of graduate students and postdocs, but perhaps it will not be long before such work is seen, along with much else in science, as _mere stamp collecting_.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pekka_Markus/Reflections_on_the_Concept_of_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on the Concept of the Supreme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_L_Van_Sant/Ultimatons">
+          <span class="pr-2">Ultimatons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

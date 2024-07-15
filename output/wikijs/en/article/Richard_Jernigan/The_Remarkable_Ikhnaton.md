@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Richard Jernigan<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — June 1996 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="pr-2">Mary's Sister Mary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Richard Jernigan
 Dallas, Texas, USA
@@ -50,3 +74,27 @@ Grant, Michael. _The History of Ancient Israel_. Charles Scribner's Sons, 1984.
 Lambdin, T. O. “Tell el—Amarna,” _Interpreter's Dictionary of the Bible_. Abingdon Press, 1962 .
 
 Wilson, J. A. “Akh-en-Aton” and “Egypt,” _Interpreter's Dictionary of the Bible_. Abingdon Press, 1962.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1996_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — June 1996 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="pr-2">Mary's Sister Mary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

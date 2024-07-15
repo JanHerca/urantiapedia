@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carole Jett<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/The_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Torsti_Aarela/Observing_the_World_While_Waiting_for_a_New_John_the_Baptist">
+          <span class="pr-2">Observing the World While Waiting for a New John the Baptist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Carole Jett
 Los Angeles, California, USA
@@ -21,3 +45,27 @@ In [Paper 67, “The Planetary Rebellion,”](/en/The_Urantia_Book/67) the subje
 
 
 It seems quite clear that universal broadcasts work in a somewhat similar manner as our earthly broadcasts — non-personal.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/The_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Torsti_Aarela/Observing_the_World_While_Waiting_for_a_New_John_the_Baptist">
+          <span class="pr-2">Observing the World While Waiting for a New John the Baptist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

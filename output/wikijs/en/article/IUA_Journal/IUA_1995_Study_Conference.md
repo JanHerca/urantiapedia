@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1995_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 1995 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Meditation">
+          <span class="pr-2">Meditation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The 1995 IUA Study Conference will remain an indelible experience in the memories of the some 200 participants. The spirit of kindredness, friendliness, and concerted effort was almost tangible. The local IUA Chapter, the Southern Kindred Spirits truly managed to make everybody sense that very spirit. The organisers deserve to be congratulated; and a thankful participant was just left wondering, how could any future conference be organised in a manner that would be par with the excellent arrangements at Nashville.
 
@@ -29,3 +53,27 @@ Sunday, 6 August, was devoted to studies of Paper 3. But the day was inaugurated
 The last day of the Study Conference, Monday 7 August, was opened by a plenary session where Tonia Baney talked on _Social Dimensions of Study: Leadership and Teamwork_. This inspiring presentation was followed by Meditative Reading, which was titled _Review and Prospect: Considering the Father's Matchless Personality, Lovable Nature, and Adorable Attributes_. The reading was a wrapup of the four days of intensive study. Patricia Mundelius, the Foundation President, who had opened the Conference on Friday, made the closing remarks, thanked the organisers and participants, and wished everybody welcome to next year's Conference, which will be held in Nashville again, and the venue will be the same: the Vanderbilt University campus.
 
 The new Conference format worked excellently, and even if it requires a great deal of advance preparation and much effort from the part of the organisers, it is truly a scheme which helps a Conference keep focussed and assures that the attendees have an access to rewarding and inspiring in-depth study events The format may very warmly be recommended as a pattern for any conference organisers to think over, and possibly to improve.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1995_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 1995 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Meditation">
+          <span class="pr-2">Meditation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

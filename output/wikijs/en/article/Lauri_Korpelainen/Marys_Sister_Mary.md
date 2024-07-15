@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Lauri Korpelainen<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Jernigan/The_Remarkable_Ikhnaton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Remarkable Ikhnaton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="pr-2">Methinkus to Agnosticus on the Reality of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lauri Korpelainen
 Helsinki, Finland
@@ -88,3 +112,27 @@ The selection of a name for a child was a very serious issue for the Jews of tho
 The URANTIA Book tells us that Zebedee was a friend of Jesus' father ([UB 129:1.2](/en/The_Urantia_Book/129#p1_2)). Salome, Zebedee's wife, is reported to have been a relative of Annas, the onetime High Priest in Jerusalem ([UB 129:1.5](/en/The_Urantia_Book/129#p1_5)). These notions exclude every possibility that the Zebedee family had had blood ties with Joseph's family. This is contrary to what was traditionally believed in the early churches, and this belief may have had its origins in the fact that one of Jesus' aunts was Salome, a namesake with Zebedee's wife.
 
 A similar confusion regarding family relations seems to have happened in the case of Clopas. His son, Simeon, was positively known to have been one of Jesus' cousins, and hence to have belonged to the “Holy Family.” But there was some reluctancy to regard his wife Mary as one of the sisters of Jesus' mother, and that is why a legend had to be conceived expounding Clopas as Joseph's brother.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Jernigan/The_Remarkable_Ikhnaton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Remarkable Ikhnaton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Kelly/Methinkus_to_Agnosticus_on_the_Reality_of_God">
+          <span class="pr-2">Methinkus to Agnosticus on the Reality of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

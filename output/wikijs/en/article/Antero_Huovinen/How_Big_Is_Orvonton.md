@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Antero Huovinen<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1996_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — March 1996 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_L_Van_Sant/Chuck_Adjusts_His_View_of_the_Ultimatons">
+          <span class="pr-2">Chuck Adjusts His View of the Ultimatons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Antero Huovinen
 Lahti, Finland
@@ -77,6 +101,31 @@ Simple calculations like these, of course, have nothing to do with astronomy pro
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/IUA_Journal/superuniverse_sketch_02.jpg">
+</figure>
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1996_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — March 1996 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/C_L_Van_Sant/Chuck_Adjusts_His_View_of_the_Ultimatons">
+          <span class="pr-2">Chuck Adjusts His View of the Ultimatons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>
 
 ## Notes

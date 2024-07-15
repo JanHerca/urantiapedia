@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Torsti Äärelä<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carole_Jett/Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Channeling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Torsti Äärelä
 Helsinki, Finland
@@ -128,3 +149,25 @@ Christians are prone to say: “Christ has done this and has done that for me, a
 > _Sooner or later another and greater John the Baptist is due to arise proclaiming “the kingdom of God is at hand”—meaning a return to the high spiritual concept of Jesus, who proclaimed that the kingdom is the will of his heavenly Father dominant and transcendent in the heart of the believer—and doing all this without in any way referring either to the visible church on earth or to the anticipated second coming of Christ._ [UB 170:5.19](/en/The_Urantia_Book/170#p5_19)
 
 Last but not least, I may state that we shall hardly be around to see the monopoly of the partaking of holiness broken, to the extent that we would possibly like to see it happen. But the progress is steady. We remain in anticipation of better times, as promised in the book.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carole_Jett/Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Channeling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

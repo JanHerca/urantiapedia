@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Jeffrey Wattles<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Horton_Foster/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cathy_Hoffman/A_Short_Biography">
+          <span class="pr-2">A Short Biography</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jeffrey Wattles
 Stow, Ohio, USA
@@ -72,3 +96,27 @@ As Hosea said: “Sow righteousness and reap a harvest of kindness, break up you
 Truly the most genuine love we can ever feel for another is the love which the Father gives us to give. When we feel wholehearted love it is as much a gift from God as it is our own personality mobilization—or perhaps we can see these as two descriptions for the same act.
 
 If we deal with our problems without anxiety, if we persist in seeking the Father's will and way, and if we choose the paths of righteousness, even when we don't quite feel completely motivated to do so, we will surely come to live in that fresh new way Jesus lived for us, wholehearted love for our Father and our brothers and sisters. The spiritual downs can be like the bending of a diving board, the prelude to more solid attainment and grace and entry into the water of life.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Horton_Foster/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cathy_Hoffman/A_Short_Biography">
+          <span class="pr-2">A Short Biography</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

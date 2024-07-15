@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Nigel Nunn<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1995_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — December 1995 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Study_And_Worship">
+          <span class="pr-2">Study And Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Nigel Nunn
 Canberra, Australia
@@ -68,3 +92,28 @@ A possible explanation involves an almost forgotten object called a “pomeron�
 Can we _URANTIA Book_ readers speculate that it is in fact an ultimaton that is being detached?
 
 Has the human race detected its first isolated ultimaton?
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1995_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — December 1995 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Study_And_Worship">
+          <span class="pr-2">Study And Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

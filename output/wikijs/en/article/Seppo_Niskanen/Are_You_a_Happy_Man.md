@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Seppo Niskanen<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carole_Jett/Mr_and_Mrs_Zebedee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mr. and Mrs. Zebedee — A Most Remarkable Couple</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="pr-2">“No Sects Please, We're British”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Seppo Niskanen
 Helsinki, Finland
@@ -44,3 +68,28 @@ Prayer is an outstanding promotor of growth in various domains. A genuine prayer
 Sensitivity and responsiveness create lasting happiness because they protect us from negative and selfish thoughts, and from egotism, ego-centricity. If we directionise our thoughts towards other people and seek to serve them, we have no chance of becoming worrisome about our own adversities. And it happens, not infrequently, that our own adversities then assume their proper dimensions, and we find that we are, after all, actually quite lucky.
 
 _The happy and effective person is motivated, not by fear of wrongdoing, but by love of right doing._ [UB 140:4.6](/en/The_Urantia_Book/140#p4_6). All too often we succumb to indecision whether we should do this or that, and if I do this that one feels offended, and if I do that, my excellence goes unnoticed. The way out is again to be positive: I want to do right, it is my will that God's will be done. Happiness, then, is a by-product if my actions are righteously motivated. Happiness is, we might say, a reward for doing right, doing the will of the Father. The quest for happiness is not the purpose of our doing right. If our exclusive motivation is that of seeking our personal happiness and luck, it is bound to happen that we shall never get thereto. If we are motivated by a search for our fellow man's happiness, there will come a moment when we find that we ourselves have found happiness.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carole_Jett/Mr_and_Mrs_Zebedee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mr. and Mrs. Zebedee — A Most Remarkable Couple</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Moseley/No_Sects_Please_Were_British">
+          <span class="pr-2">“No Sects Please, We're British”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

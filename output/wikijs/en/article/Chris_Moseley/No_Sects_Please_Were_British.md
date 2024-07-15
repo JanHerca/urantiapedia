@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Chris Moseley<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are You a Happy Man?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/By_Their_Fruits_You_Shall_Know_Them">
+          <span class="pr-2">By Their Fruits You Shall Know Them</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Chris Moseley
 London, England 
@@ -26,3 +50,28 @@ I wouldn't dare to speculate as to whether the slowness of the movement's growth
 Two things have been done in the past few years to try and ensure that _The URANTIA Book_ retains a readership in Britain. Firstly, in 1987, we set up a little newsletter. The Ascender, as a forum for contact between those readers who wish to keep in touch with one another's doings. Experience tells us that those readers are in a minority, but no matter. Secondly, by setting up an office of URANTIA Foundation in this country, we have made sure that books are easily available from bookshops at all times. We have yet to make serious inroads into the British library network-that remains a challenge for the future. Considering that we have a regular turnover of book sales from our office, the readership is indeed growing - but silently, discreetly: it's growing like a sturdy crop of mushrooms in dark, damp soil.
 
 In other countries _The URANTIA Book_ movement seems to be progressing in leaps and bounds. We can only look on with admiration. We hope that one day in our own lifetimes we too will have a flourishing and active readership. There are advantages in being small, of course; we have not reached the point of any serious schism among our readers. But there are disadvantages too: we have not yet qualified to join the IUA. But that time will surely come.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Are_You_a_Happy_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are You a Happy Man?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Kanerva/By_Their_Fruits_You_Shall_Know_Them">
+          <span class="pr-2">By Their Fruits You Shall Know Them</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Carolyn Prentice<br>© 1997 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Conflict_and_Spiritual_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflicto y hermandad espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/The_Nature_of_God_Its_Revelation_in_Jesus_The_Son_of_Man">
+          <span class="pr-2">La Naturaleza de Dios: Su Revelación en Jesús, el Hijo del Hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Carolyn Prentice, Minnesota, EE.UU.
 
@@ -38,3 +62,27 @@ En lugar de sentirme engañada porque a las mujeres nunca se les otorga un Hijo 
 ¿Cómo sería un universo si todos tuviéramos los mismos roles? Dios nos ama a todos y nos creó a cada uno para desempeñar nuestro papel único, masculino o femenino, aparentemente para siempre. Los perfectos residentes de Havona están ávidos de experiencia y, sin embargo, ese no es su papel; son existenciales. Los ángeles, aunque avancen, siempre serán ángeles. El Espíritu Materno Creativo no puede abandonar su universo local. El Hijo Creador no puede entregarse como mujer. Todos los seres tienen alguna experiencia única y secreta en las esferas sagradas del Paraíso que nunca podrá ser compartida por seres diferentes [[LU 13:1.1](/es/The_Urantia_Book/13#p1_1)]. Nosotros, los urantianos, estaremos habitados por el padre, otros seres estarán habitados por el espíritu, y otros más serán simplemente lo que son.
 
 Así que finalmente he llegado a la paz con esas partes del _El Libro de URANTIA_. Estoy seguro de que tendré otras batallas. La clave es seguir estudiando, seguir leyendo, seguir orando. Avanza con fe en que eventualmente lo entenderás. Lo que es notable es que El Libro de URANTIA puede resistir tales críticas, resentimientos y escrutinio, y aun así emerger intacto como una luz guía coherente y consistente, una fuente de verdad confiable en un mundo confuso.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/Conflict_and_Spiritual_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflicto y hermandad espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1997 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/The_Nature_of_God_Its_Revelation_in_Jesus_The_Son_of_Man">
+          <span class="pr-2">La Naturaleza de Dios: Su Revelación en Jesús, el Hijo del Hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

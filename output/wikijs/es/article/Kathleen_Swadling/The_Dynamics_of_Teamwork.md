@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Kathleen Swadling<br>© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_L_Van_Sant/Ultimatons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ultimatones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por Kathleen Swadling
 Sydney, Australia
@@ -32,3 +53,25 @@ _El Libro de URANTIA_ nos da excelentes ejemplos de cómo manejar los conflictos
 ¿Qué es lo que causa animosidad y odio por puntos de vista diferentes? ¿Por qué algunos jugadores buscan destruirse unos a otros? Un factor contribuyente podría ser que a menudo los individuos de un equipo tienen sus propias agendas. Pueden estar en su misión personal según alguna revelación interior y buscan utilizar al grupo para lograr sus misiones personales. Si tienes uno o más en el grupo con este tipo de motivación, seguramente tendrás problemas, especialmente si la agenda personal no está en armonía con la del grupo. Entre los religiosos puede suceder que aquellos con agendas personales estén muy apegados a su punto de vista y se tomen a sí mismos tan en serio que estén decididos a creer que su misión es vital para el mundo. Si esta persona posiblemente esté al borde del fanatismo, puede sentir que cualquiera que se interponga en su camino debe ser malvado o incluso pecador, ya que está bloqueando algo muy importante para lo que él cree que es el plan de Dios. Puede ser imposible discutir con este tipo de personas; no se puede discutir con un idealista o un fanático, ya que resulta difícil razonar con ellos y el conflicto o la separación de algún tipo se vuelve inevitable. La persona ha perdido ese sentido de trabajo y de confianza con sus semejantes.
 
 Vuelvo a mi pregunta original: **¿Cómo podemos seguir siendo hermanos y hermanas en el espíritu mientras tenemos diferentes puntos de vista sobre temas que nos preocupan fuertemente?** Todo vuelve al individuo y a cómo nosotros, como individuos, respondemos a situaciones. Si uno está motivado por un amor genuino hacia sus semejantes, tiene el deseo de hacer el bien a los demás, es capaz de respetar el espíritu de los demás, ve a sus semejantes como hijos e hijas de Dios y, por lo tanto, a sus hermanos o hermanas en el espíritu, entonces Se hará a toda costa un esfuerzo por permanecer unidos en el espíritu, a pesar de la posible falta de armonía de pensamiento. Si uno está motivado por la importancia de sus propias opiniones por encima de la actitud hacia los demás, entonces la victoria de la propia opinión se tendrá en mayor consideración que la relación. La uniformidad de pensamiento será considerada más importante que la unidad de espíritu. Esta actitud frena inevitablemente el surgimiento de la Hermandad del Hombre. Realmente creo que es tan simple como eso. El problema del mundo es el problema del individuo. Necesitamos fortalecer nuestro carácter tomando decisiones para abrazar la verdad en nuestras vidas y vivirla verdaderamente. Necesitamos desarrollar hábitos religiosos y estudiar la religión de Jesús para ayudarnos a estar bien con nuestro espíritu que mora en nosotros. A su vez, si lo hacemos con sinceridad y sabiduría, los frutos de nuestra vida serán fragantes y atractivos, y nuestro deseo de ser amigables con nuestros semejantes será un factor primordial en nuestro trato grupal entre nosotros. Nuestro carácter necesita convertirse en la base firme de nuestras almas para que seamos siempre coherentes en nuestras actitudes unos hacia los otros.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/C_L_Van_Sant/Ultimatons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ultimatones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Jeffrey Wattles<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Quarks_Gluons_And_Pomerons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quarks, Gluons And Pomerons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Horton_Foster/Interpretation_Of_Personality">
+          <span class="pr-2">Interpretation Of Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Jeffrey Wattles,
 Stow, Ohio, U.S.A.
@@ -22,3 +46,28 @@ How could we find the universe friendly without such a coordinated realization? 
 Each Paper has its own sequence of thoughts, its own movement, as it leads the mind according to the author's design; and as we study the sequence of teachings, we come alive with the gesture, the dance, of the Paper. Jesus' word helps us understand the author's way of beginning in the introductory paragraphs of Paper 1. _Do not undertake to show men the beauties of the temple until you have first taken them into the temple. Introduce men to God and as the sons of God before you discourse on the doctrines of the fatherhood of God and the sonship of men_ ([UB 141:6.4](/en/The_Urantia_Book/141#p6_4)). Accordingly, we are introduced: _The Universal Father is the God of all creation, the First Source and Center of all things and beings_. [UB 1:0.1](/en/The_Urantia_Book/1#p0_1). There follows a lesson on thinking of God as a creator, controller, and infinite upholder. The next paragraph gives a tacit lesson on feeling: we _are beings who can know God, receive the divine affection, and love him in return_. [UB 1:0.2](/en/The_Urantia_Book/1#p0_2) The next paragraphs give the fundamental lesson on doing (cf [UB 48:5.6](/en/The_Urantia_Book/48#p5_6))-about our transcendent goal and our supreme ambition, our first duty and our destiny. (To compress an account of the movement of the following sections would be like running through an art gallery.)
 
 We who aspire to spiritual brotherhood, even to spiritual unity, are ashamed when our relation to the Father is too faint to outshine the shadows of evil that obscure our relationships with one another. As we slowly grow from being spirit-born and spirit-taught to being spirit-led and finally spirit-filled, worship is our way to strike step with eternity. Brotherhood has its complex social dimensions as well as its spiritual core; the more that core is realized, the greater is the hope that study and dialogue can further illumine social difficulties. Returning as one poor in spirit to where no knowledge or wisdom or art can lead us forward, not resisting even the evil within, the soul's craving can initiate a call beyond the mind's ambition, and with the wings of the spirit, we take flight. Are we solitary individuals as we worship the one we call our...? Prayer, unfolding the heart's needs before the one who transforms and answers them, prepares our worship. But only when concerns for book and brotherhood relax into a flourishing primary relationship with God are the destinies of book and brotherhood secure.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Quarks_Gluons_And_Pomerons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quarks, Gluons And Pomerons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-december-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — December 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Horton_Foster/Interpretation_Of_Personality">
+          <span class="pr-2">Interpretation Of Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

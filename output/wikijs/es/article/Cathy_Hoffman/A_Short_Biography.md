@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Cathy Hoffman<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los bajones espirituales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Nielsen/The_Value_of_Loyalty">
+          <span class="pr-2">El valor de la lealtad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cathy Hoffman
 Melbourne, Australia
@@ -82,3 +106,27 @@ Cuando era más joven, más seguro y fuerte, llegué a Dios a través de mí mis
 Había tomado una decisión. Tiene que llegar un punto de parada para la mente cuando se agota el requisito de evidencia. Un momento en el que la exigencia de «pruebas» cede ante otra facultad de la fe. Tomé la decisión de no abandonar la honorable búsqueda mental, sino ejercitar con ella la facultad de la fe.
 
 Entonces tuve fe en Cristo Jesús.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeff_Wattles/The_Spiritual_Downs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los bajones espirituales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Nielsen/The_Value_of_Loyalty">
+          <span class="pr-2">El valor de la lealtad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

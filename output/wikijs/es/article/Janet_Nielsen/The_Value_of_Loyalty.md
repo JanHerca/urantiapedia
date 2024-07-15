@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Janet Nielsen<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cathy_Hoffman/A_Short_Biography">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una breve biografía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Janet Nielsen
 Portland, Oregón, EE.UU.
@@ -31,3 +52,24 @@ Hay muchas citas destacadas enumeradas en la Concordancia bajo «lealtad». Desp
 > _¿Qué es la lealtad? Es el fruto de una apreciación inteligente de la fraternidad universal; uno no puede recibir mucho sin dar nada. A medida que ascendéis la escala de la personalidad, primero aprendéis a ser leales, luego a amar, después a ser filiales, y entonces podréis ser libres; pero hasta que no seáis finalitarios, hasta que no hayáis alcanzado la perfección de la lealtad, no podréis daros cuenta por vosotros mismos de la finalidad de la libertad._ ([LU 39:4.11](/es/The_Urantia_Book/39#p4_11))
 
 > _7. *La lealtad* —la devoción al deber más elevado— ¿es deseable? Entonces el hombre debe caminar entre las posibilidades de traición y de deserción. El valor de la devoción al deber consiste en el peligro implícito de incumplirlo._ ([LU 3:5.12](/es/The_Urantia_Book/3#p5_12))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cathy_Hoffman/A_Short_Biography">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una breve biografía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-marzo-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Marzo 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

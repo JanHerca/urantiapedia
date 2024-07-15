@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Suzanne Kelly<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La hermana de María María</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity_2">
+          <span class="pr-2">Lao Shou Hsing, dios de la longevidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Susana Kelly
 Euless, Texas, EE.UU.
@@ -128,3 +152,27 @@ _¿Es ***lealtad***—devoción al deber más elevado—deseable?_
 Finalmente debo admitir que el hombre adora primero a Dios porque es grande. A medida que su conocimiento evoluciona, adora a Dios porque descubre una parte de Dios en sí mismo. Y por último adora a Dios porque está en Dios.
 
 (Las partes en cursiva de este documento son citas directas de _El Libro de URANTIA_: [LU 0:3.23](/es/The_Urantia_Book/0#p3_23); [LU 0:3.25](/es/The_Urantia_Book/0#p3_25); [LU 3:5.5](/es/The_Urantia_Book/3#p5_5); [LU 3:5.7](/es/The_Urantia_Book/3#p5_7))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La hermana de María María</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity_2">
+          <span class="pr-2">Lao Shou Hsing, dios de la longevidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

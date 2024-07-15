@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Kathleen Swadling<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_L_Van_Sant/Ultimatons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ultimatons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Kathleen Swadling
 Sydney, Australia
@@ -32,3 +53,25 @@ _The URANTIA Book_ gives us excellent examples of how to handle conflict. The fi
 What is it that causes animosity and hatred over differing views? Why do some players seek to destroy one another? One contributing factor could be that often individuals in a team have their own agendas. They may be on their personal mission according to some inner revelation, and they seek to use the group to attain their personal missions. You get one or more in the group with this kind of motivation and you are bound to have problems, especially if the personal agenda is not in harmony with that of the group. Amongst religionists it can happen that the ones with personal agendas can be very attached to their viewpoint and take themselves so seriously that they are intent on the belief that their mission is vital to the world. If this person is possibly verging on the brink of fanaticism, he or she may feel that anyone who stands in his way must be evil or even sinful as they are blocking something very important to what he believes to be God's plan. These kinds of people can be impossible to argue with; you cannot argue with an idealist or a fanatic, as it becomes difficult to reason with them, and conflict or separation of some kind becomes inevitable. The person has lost that sense of working and trusting with their fellows.
 
 I return to my original question: **How do we remain brothers and sisters in the spirit while we hold differing points of view over issues we feel strongly about?** It all comes back to the individual and how we, as individuals respond to situations. If one is motivated by a genuine love towards one's fellows, has a desire to do good to others, is able to respect the spirit in others, sees his fellows as sons and daughters of God, therefore his brothers or sisters in the spirit, then an effort to remain united in the spirit, despite the possible disharmony of thought, will be made at all cost. If one is motivated by self-importance of one's own opinions over and above one's attitude towards one's fellows, then the victory of one's opinion will be held in higher regard than the relationship. The uniformity of thought will be considered more important than the unity of spirit. This attitude inevitably holds back the emergence of the Brotherhood of Man. I really believe it is as simple as that. The world's problem is the individual's problem. We need to strengthen our characters by making decisions to embrace truth in our lives and truly live it. We need to develop religious habits and study the religion of Jesus to help us get right with our indwelling spirit. In turn, if done sincerely and wisely, the fruits of our lives will be fragrant and attractive and our desire to be friendly to our fellows will be an overriding factor in our group dealings with one another. Our characters need to become the firm foundation for our souls so that we are forever consistent in our attitudes to one another.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/C_L_Van_Sant/Ultimatons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ultimatons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

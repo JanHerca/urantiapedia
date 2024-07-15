@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Suzanne Kelly<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mary's Sister Mary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity_2">
+          <span class="pr-2">Lao Shou Hsing—God of Longevity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Suzanne Kelly
 Euless, Texas, USA
@@ -128,3 +152,27 @@ Do you see now, Agnosticus, the wherewithal of my faith, source of my happiness 
 I must finally concede that man first worships God because he is great. As his knowledge evolves he worships God because he discovers a part of God in himself. And lastly he worships God because he is in God.
 
 (The italicized portions of this paper are direct quotes from _The URANTIA Book_: [UB 0:3.23](/en/The_Urantia_Book/0#p3_23); [UB 0:3.25](/en/The_Urantia_Book/0#p3_25); [UB 3:5.5](/en/The_Urantia_Book/3#p5_5); [UB 3:5.7](/en/The_Urantia_Book/3#p5_7))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lauri_Korpelainen/Marys_Sister_Mary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mary's Sister Mary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-june-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — June 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity_2">
+          <span class="pr-2">Lao Shou Hsing—God of Longevity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

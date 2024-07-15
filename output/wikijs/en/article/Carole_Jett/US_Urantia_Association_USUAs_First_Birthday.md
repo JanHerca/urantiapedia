@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carole Jett<br>© 1996 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1996_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 1996 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Finnish_Conference_Explores_Cosmic_Citizenship">
+          <span class="pr-2">Finnish Conference Explores Cosmic Citizenship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Carole Jett, Secretary USUA
 
@@ -19,3 +43,27 @@ The USUA celebrated its first birthday at the 1996 IUA Conference in Nashville. 
 Our newsletter, The USUA Messenger will be forthcoming every two months. Anyone outside the United States interested in receiving it should contact **Morris Kaplowitz, 11512 Hearthstone Court, Reston, Virginia 22091,email: mokap@nicom.com**.
 
 In closing, the USUA was blessed with many who gave donations and conference reservation money. We far surpassed our fund raising expectations, a fund raising effort that only materialized the second day into the conference. Someone out there is looking after us. Thank you! His love is boundless and shines through the eyes and lives in the hearts of us lowly individual mortals.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/1996_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal — September 1996 — Content</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1996 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Seppo_Niskanen/Finnish_Conference_Explores_Cosmic_Citizenship">
+          <span class="pr-2">Finnish Conference Explores Cosmic Citizenship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

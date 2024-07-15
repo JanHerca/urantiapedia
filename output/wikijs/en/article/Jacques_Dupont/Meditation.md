@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Jacques Dupont<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/IUA_1995_Study_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation Entering the Age of Discretion — IUA 1995 Study Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pekka_Markus/Reflections_on_the_Concept_of_the_Supreme">
+          <span class="pr-2">Reflections on the Concept of the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Jacques Dupont
 Recloses, France
@@ -97,3 +121,28 @@ That is why the great commandment invites us to first love God with all our hear
 
 Love to you all.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/IUA_Journal/IUA_1995_Study_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation Entering the Age of Discretion — IUA 1995 Study Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pekka_Markus/Reflections_on_the_Concept_of_the_Supreme">
+          <span class="pr-2">Reflections on the Concept of the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1995_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Septiembre / 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Meditation">
+          <span class="pr-2">Meditación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La Conferencia de Estudio de la IUA de 1995 seguirá siendo una experiencia imborrable en la memoria de los aproximadamente 200 participantes. El espíritu de bondad, amistad y esfuerzo concertado era casi tangible. El Capítulo local de la IUA, los Espíritus Afines del Sur, realmente lograron que todos sintieran ese mismo espíritu. Los organizadores merecen ser felicitados; y un participante agradecido se quedó preguntándose cómo podría organizarse una conferencia futura de una manera que estuviera a la par con los excelentes arreglos de Nashville.
 
@@ -29,3 +53,27 @@ El domingo 6 de agosto se dedicó a los estudios del Documento 3. Pero el día f
 El último día de la Conferencia de Estudio, el lunes 7 de agosto, se abrió con una sesión plenaria donde Tonia Baney habló sobre _Dimensiones sociales del estudio: liderazgo y trabajo en equipo_. Esta inspiradora presentación fue seguida por una lectura meditativa, que se tituló _Revisión y perspectiva: considerando la incomparable personalidad, la naturaleza adorable y los atributos adorables del Padre_. La lectura fue un resumen de los cuatro días de estudio intensivo. Patricia Mundelius, presidenta de la Fundación, que inauguró la Conferencia el viernes, pronunció las palabras de clausura, agradeció a los organizadores y participantes y deseó a todos bienvenidos a la Conferencia del próximo año, que se celebrará nuevamente en Nashville y el lugar será el mismo. : el campus de la Universidad de Vanderbilt.
 
 El nuevo formato de la Conferencia funcionó excelentemente, e incluso si requiere mucha preparación previa y mucho esfuerzo por parte de los organizadores, es verdaderamente un esquema que ayuda a la Conferencia a mantenerse enfocada y asegura que los asistentes tengan acceso a experiencias gratificantes y inspiradores eventos de estudio en profundidad El formato puede recomendarse calurosamente como modelo para que cualquier organizador de conferencias reflexione y posiblemente mejore.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/IUA_Journal/1995_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la IUA — Septiembre / 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-/-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre / 1995 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Meditation">
+          <span class="pr-2">Meditación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

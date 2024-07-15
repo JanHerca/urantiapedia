@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Carole Jett<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/The_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Torsti_Aarela/Observing_the_World_While_Waiting_for_a_New_John_the_Baptist">
+          <span class="pr-2">Observando el mundo mientras se espera un nuevo Juan Bautista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Carole Jett
 Los Ángeles, California, Estados Unidos
@@ -21,3 +45,27 @@ En [Documento 67, «La Rebelión Planetaria»,](/es/The_Urantia_Book/67) se disc
 
 
 Parece bastante claro que las transmisiones universales funcionan de manera algo similar a nuestras transmisiones terrenales: no personales.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/The_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La familia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-junio-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Junio 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Torsti_Aarela/Observing_the_World_While_Waiting_for_a_New_John_the_Baptist">
+          <span class="pr-2">Observando el mundo mientras se espera un nuevo Juan Bautista</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

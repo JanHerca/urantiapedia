@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Kathleen Swadling<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gran Bretaña clama por cooperación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="pr-2">Estoicismo: ha llegado la hora... de su vuelta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Kathleen Swadling, Sídney, Australia
 
@@ -130,3 +154,27 @@ Así que volvamos a esa situación complicada: el problema individual es el prob
 > _... ética, sociología, eugenesia, filosofía, bellas artes, religión y cosmología._
 
 Después de habernos centrado en algunos de estos problemas sobre los cuales el _Libro de URANTIA_ nos ha advertido, y haber buscado orientación en el libro, mi consejo ahora es que todos los que reconocemos la gravedad de estos problemas miremos nuestras propias capacidades y capacidades y veamos qué podemos hacer para influir en el cambio en nuestra propia esfera de influencia. Si sentimos que nuestra civilización está en grave peligro y el número de jóvenes que se ocupan de actividades materialistas en lugar de las artes está llegando al punto crítico que menciona el _Libro de URANTIA_, entonces nosotros, como individuos, deberíamos tomar algún tipo de acción en cualquier aspecto. manera que podamos. No creo ni por un minuto que sea función de ningún grupo organizado de religiosos o lectores del Libro de Urantia tomar ninguna acción de este tipo que no sea ayudar con la transformación espiritual de los individuos. Las acciones tomadas en el mundo secular son algo que cada individuo necesita desarrollar por sí mismo. Las costumbres de nuestra sociedad cambiarán para mejor cuando un puñado de hombres y mujeres con visión de futuro y espiritualmente iluminados inicien cambios en la administración y la educación, cuando estén dispuestos a involucrarse, a utilizar el proceso democrático para ejercer lobby y presionar a nuestras instituciones de poder y control. Es necesario hacer que los futuros poderes sean conscientes de los peligros que afronta nuestra sociedad; Es necesario alentar a la mayoría moral silenciosa a hablar, a clamar por nuestros hijos y por los hijos de nuestros hijos.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gran Bretaña clama por cooperación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/Stoicism_Its_Time_Has_Come_Back">
+          <span class="pr-2">Estoicismo: ha llegado la hora... de su vuelta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

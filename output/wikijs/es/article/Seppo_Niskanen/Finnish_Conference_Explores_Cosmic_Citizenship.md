@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Seppo Niskanen<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carole_Jett/US_Urantia_Association_USUAs_First_Birthday">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primer cumpleaños de la Asociación Urantia de Estados Unidos USUA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="pr-2">Gran Bretaña clama por cooperación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Seppo Niskanen, Helsinki, Finlandia
 
@@ -45,3 +69,27 @@ Los problemas más trascendentales y cruciales de la vida son, en cierto sentido
 Todos nosotros disfrutamos de una comunión directa con Dios. Si así lo deseamos, podemos comunicarnos con él ya sea mediante la oración o la adoración. Sólo necesitas presentar tus problemas ante Dios en una oración y eso te ayudará a resolverlos y superarlos. Todas nuestras peticiones serán respondidas, aunque las respuestas no sean las que posiblemente esperábamos que fueran. Si algunas de nuestras peticiones no pueden ser respondidas en este momento, la respuesta nos estará esperando en algún momento de nuestras carreras de ascensión, tan pronto como seamos capaces de apreciarla y comprenderla.
 
 Estos fueron sólo una muestra de los hallazgos e ideas que se articularon en la Conferencia. Espero que los lectores del Journal los encuentren edificantes.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carole_Jett/US_Urantia_Association_USUAs_First_Birthday">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primer cumpleaños de la Asociación Urantia de Estados Unidos USUA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Moseley/Britain_Cries_Out_for_Cooperation">
+          <span class="pr-2">Gran Bretaña clama por cooperación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

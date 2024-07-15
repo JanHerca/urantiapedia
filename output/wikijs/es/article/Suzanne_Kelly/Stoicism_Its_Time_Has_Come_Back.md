@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Suzanne Kelly<br>© 1996 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matrimonio, paternidad y sus productos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/Freely_You_Have_Received_Freely_Give">
+          <span class="pr-2">Habéis recibido gratuitamente, dad gratuitamente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Suzanne Kelly, Texas
 
@@ -51,3 +75,27 @@ Si aceptáramos el concepto central de la enseñanza estoica, es decir, el «pri
 Para profundizar en esta suposición personal del libre albedrío, el deseo del hombre de inmortalidad puede ser evidencia de su capacidad para lograrla. Si hay apetito por la vida eterna, lo más probable es que ese apetito no quede insatisfecho. Desgraciadamente el pensamiento estoico «grabado» dejó de especular antes de llegar a estas conclusiones.
 
 En resumen, la filosofía del estoicismo podría ser deseable hoy en día, especialmente en las áreas de la política y el deber personal. Para el estoico el único bien en la vida humana es la virtud, cuya adquisición depende del libre albedrío individual. Si un hombre adquiere virtud y vive en armonía con la naturaleza, se libera de la dependencia espiritual de los factores materiales. En el estoicismo, el deseo de cosas materiales proviene únicamente de un juicio falso, que puede ser superado por el conocimiento. La búsqueda de la virtud es un fin en sí mismo. Nada más le importa al estoico. Como sentían que debían evitarse todas las emociones, su doctrina parecía fría y frágil. Pero el estoico creía firmemente en la paternidad de Dios y la hermandad del hombre. Este universalismo le da una nota más exaltada que la, a primera vista, estrecha insistencia en ser virtuoso. Es este embrión de filosofía estoica reflejado en la hermandad del hombre y la paternidad de Dios lo que inevitablemente redimirá a la humanidad y comenzará a resolver sus problemas sociales y políticos.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Marriage_Parenting_and_Their_Products">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Matrimonio, paternidad y sus productos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-septiembre-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Septiembre 1996 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/Freely_You_Have_Received_Freely_Give">
+          <span class="pr-2">Habéis recibido gratuitamente, dad gratuitamente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

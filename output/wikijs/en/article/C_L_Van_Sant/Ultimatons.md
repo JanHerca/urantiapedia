@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Chuck Van Sant<br>© 1995 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Matter of Leptoquarks</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/The_Dynamics_of_Teamwork">
+          <span class="pr-2">The Dynamics of Teamwork</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Chuck Van Sant
 Bertlesville, Oklahoma, U.S.A.
@@ -60,3 +84,28 @@ This raises another question. We have things in the real world on which to hang 
 These three, the ultimatons, resolve a number of other problems of physics, astronomy, and cosmology. One of them is with “dark matter.” Scientists in all three fields believe that ninety per cent of the universe is unseen. Other unsolved problems are the low count of solar neutrinos and the “missing mass of the universe.” (We are bombarded by billions of free neutrinos every second. Matter holds no obstacle to a free neutrino. It passes right through. Science does not know yet that _they are responsive only to Paradise gravity_.)
 
 Finally, the attraction of these particles for each other is undoubtedly the powerful force we “know nothing about” on Urantia, and logic suggests an energy proportional to the mass times the cube of light. If splitting the atom involves the square of the speed of light, we might expect that splitting the proton involves its cube. And we do, after all, live in a trinitarian universe. Consider how powerful an energy source this must be, and how universal the fuel. Since we know that ultimatons themselves cannot be converted to pure energy, this must be the most powerful physical force in the seven superuniverses. Just another gift from the revelators.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/The_Matter_of_Leptoquarks">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Matter of Leptoquarks</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-september-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — September 1995 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/The_Dynamics_of_Teamwork">
+          <span class="pr-2">The Dynamics of Teamwork</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 James Perry<br>© 1997 International Urantia Association (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Carrie_Prentice/But_How_Can_That_Be_True">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">But How Can That Be True?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Adapted from a speech given in August, 1995, at an IUA Conference in Nashville, Tenn., USA_
 James Perry, M.D. Nth Carolina, USA
@@ -87,3 +108,24 @@ And now, let me say that Jesus lived a really human life beginning from an infan
 
 
 > _Salvation is the free gift of God, but those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine, and they soon will be taken away. My Father requires of the children of faith that they bear much spirit fruit. If, therefore, you are not fruitful, he will dig about your roots and cut away your unfruitful branches. Increasingly, must you yield the fruits of the spirit as you progress heavenward in the kingdom of God_ [UB 193:2.2](/en/The_Urantia_Book/193#p2_2)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Carrie_Prentice/But_How_Can_That_Be_True">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">But How Can That Be True?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_iua_journal#journal-march-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — March 1997 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
