@@ -92,7 +92,7 @@ It is recommended the use of Visual Studio Code.
 2. Alternatively, in Windows you can open the context menu of the root folder and select "Open with Code".
 3. Open a terminal using Terminal > New Terminal. Ensure that terminal is opened in root folder of the project. 
 4. To install dependencies execute: `npm install`. Wait until all of them are installed.
-5. The project is set up with a default launch configuration. Press F5 to execute or in the terminal execute `npm start`.
+5. The project is set up with a default launch configuration. Press F5 to execute or in the terminal execute `npm run start`.
 6. The application opens. By default a Dev Tools window is opened for debugging. You can ignore it or close it if not developing.
 
 ![](/image/uptools.png)

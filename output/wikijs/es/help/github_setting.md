@@ -91,7 +91,7 @@ Las *Urantiapedia Tools* es una aplicación de escritorio desarrollada en JavaSc
 2. Opcionalmente, en Windows puedes abrir el menú contextual de la carpeta raíz y seleccionar "Abrir con Code".
 3. Abre un terminal usando Terminal > New Terminal. Asegúrate de que el terminal está abierto en la carpeta raíz del proyecto. 
 4. Para instalar las dependencias ejecuta: `npm install`. Espera hasta que todas se instalan.
-5. El proyecto se configura con una configuración de ejecución por defecto. Presiona F5 para ejecutar la aplicación o en el terminal ejecuta `npm start`.
+5. El proyecto se configura con una configuración de ejecución por defecto. Presiona F5 para ejecutar la aplicación o en el terminal ejecuta `npm run start`.
 6. La aplicación se abre. Por defecto se abre una ventana Dev Tools para poder depurar. Si no estás desarrollando puedes ignorarla o cerrarla.
 
 ![](/image/uptools.png)

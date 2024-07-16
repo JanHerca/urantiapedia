@@ -92,7 +92,7 @@ Recomenda-se o uso do Visual Studio Code.
 2. Alternativamente, no Windows, você pode abrir o menu de contexto da pasta raiz e selecionar "Abrir com código".
 3. Abra um terminal usando Terminal > Novo Terminal. Certifique-se de que o terminal esteja aberto na pasta raiz do projeto.
 4. Para instalar as dependências execute: `npm install`. Aguarde até que todos estejam instalados.
-5. O projeto é configurado com uma configuração de inicialização padrão. Pressione F5 para executar ou no terminal execute `npm start`.
+5. O projeto é configurado com uma configuração de inicialização padrão. Pressione F5 para executar ou no terminal execute `npm run start`.
 6. O aplicativo é aberto. Por padrão, uma janela Dev Tools é aberta para depuração. Você pode ignorá-lo ou fechá-lo se não estiver desenvolvendo.
 
 ![](/image/uptools.png)
