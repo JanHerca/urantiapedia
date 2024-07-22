@@ -3,19 +3,14 @@ title: "News from Estonia: First conference for children about The Urantia Book"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: IUA, Journal, article
+tags: Urantia Movement Event, IUA, Journal, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Peep Söber<br>© 2000 Urantia Association International (IUA)</p>
 
-
-
-
-# News from Estonia: First Conference for Children about _The Urantia Book_ 
-
-PEEP SÕBER, ESTONIA
+Peep Sõber, Estonia
 
 From 4th to 5 th of December in Tallinn we had a conference for children introducing _The Urantia Book_ and its teachings. A seminar named “Secrets of Universe” was prepared by our youth organization-Successful Children Organization (SCO) in co-operation with our readers.
 
@@ -23,7 +18,7 @@ Producer of SCO, Veikko Raagmets, was a leader of a youth organization during th
 
 SCO deals with after-school activities, mostly educational camps for children 12-18 years old from all over Estonia. Their main task is to successfully master the challenges of living. According to SCO the signs of successful living include, in addition to economic independence, many important factors such as peace of mind, good health, appreciation of the natural environment, harmonious relations with the people around us, the existence of goals and ideals, intellectually honest self-awareness, self-respect, self acceptance and Higher Consciousness. In addition to many courses there is some activity with entertainment, sports, fine arts, and the natural environment.
 
-The SCO is not a political or religious organization and it does not cooperate with a political party, a working church or a sect. It has about 1000 members joined into 60 clubs. It has a small membership fee. All members have been introduced to _The Urantia Book_ by an introductory lecture, since it is the ideological basis of SCO. The membership allows every member to participate free in at least three different educational camps during one year. The SCO is financed partly by state and other funds. The Speaker of the Estonian Parliament is its patron. You can get more information from the web site: www.online.ee / elorg/
+The SCO is not a political or religious organization and it does not cooperate with a political party, a working church or a sect. It has about 1000 members joined into 60 clubs. It has a small membership fee. All members have been introduced to _The Urantia Book_ by an introductory lecture, since it is the ideological basis of SCO. The membership allows every member to participate free in at least three different educational camps during one year. The SCO is financed partly by state and other funds. The Speaker of the Estonian Parliament is its patron. You can get more information from the web site: www.online.ee/~elorg/
 
 And now the time was ready to broaden the world view of SCO members by _The Urantia Book_ teachings. The aims for this seminar were: to make children conscious of the structure and administration of the universe, the origin and destiny of man, and the connection between religion, philosophy and science; to give a new concept of time, eternity and Deity; to give some practical advice how to use knowledge of philosophy and religion in daily life. But the main task was to help participants to discover their personal truth. We let children freely decide whether or not they believed our message. We were not intrusive.
 
@@ -47,7 +42,7 @@ Some years ago Trustee Georges MichelsonDupont said that there is a good soil fo
 
 by Peep Sõber
 
-On the 8th of April, 70 Urantia Book readers gathered in Tallinn to celebrate a conference organized by the Estonian Urantia Association. The objective of the conference was two-pronged: first, to provide new readers with useful knowledge concerning various methods of studying the book; and second, to form new study groups with them. The first lecture was given by Peep Sõber on “My Personal Experience with Reading the Book.” Thereupon three more lectures were given that made full use of a video projector. Youth organization leader Veikko Raagmets gave an overall introduction to the book, whereupon our Vice-President Ruth Kask gave a talk on the Seven Adjutant-Mind Spirits. The fourth presentation was given by Ruth and Peep with angels and midwayers as our subject matter.
+On the 8th of April, 70 _Urantia Book_ readers gathered in Tallinn to celebrate a conference organized by the Estonian Urantia Association. The objective of the conference was two-pronged: first, to provide new readers with useful knowledge concerning various methods of studying the book; and second, to form new study groups with them. The first lecture was given by Peep Sõber on “My Personal Experience with Reading the Book.” Thereupon three more lectures were given that made full use of a video projector. Youth organization leader Veikko Raagmets gave an overall introduction to the book, whereupon our Vice-President Ruth Kask gave a talk on the Seven Adjutant-Mind Spirits. The fourth presentation was given by Ruth and Peep with angels and midwayers as our subject matter.
 
 The last discourse was spoken by Professor of Mathematics Vello Reeben, from Tartu University. The theme of his talk was “Cosmology: I Have More Confidence in _The Urantia Book_ Than in Academic Sciences.” He voiced strongly worded criticism about the modern Big Bang theory and referred to the findings of a number of scientists, like H. Arp, H. Alfen, and F. Hoyle, who have rejected the notion of a Big Bang as the beginning of universe existence. He likewise reported on several scientific discoveries which give credence to notions of the crucial significance of the number seven in the universe
 

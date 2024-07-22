@@ -3,7 +3,7 @@ title: "Internet Site and Internet School in Spanish"
 description: 
 published: true
 date: 2023-9-16T10:55:6Z
-tags: IUA, Journal, article
+tags: UBIS, IUA, Journal, article
 editor: markdown
 dateCreated: 2023-9-16T10:55:6Z
 ---
