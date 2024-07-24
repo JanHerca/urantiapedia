@@ -14,7 +14,9 @@ dateCreated: 2023-9-16T10:55:6Z
 <img src="/image/article/IUA_Journal/Seppo_Kanerva.jpg">
 </figure>
 
-_Seppo Kanerva, Finland esus'eartbly life was devoted to one great purpose-doing the Father's will, living the human life religiously and by faith_. [[UB 196:0.14](/en/The_Urantia_Book/196#p0_14)] _Never lose sight of the fact that the supreme spiritual purpose of the Michael bestowal was to enbance the_ ***revelation of God***. [[UB 120:4.4](/en/The_Urantia_Book/120#p4_4)]
+Seppo Kanerva, Finland 
+
+_Jesus' earthly life was devoted to one great purpose-doing the Father's will, living the human life religiously and by faith_. [[UB 196:0.14](/en/The_Urantia_Book/196#p0_14)] _Never lose sight of the fact that the supreme spiritual purpose of the Michael bestowal was to enbance the_ ***revelation of God***. [[UB 120:4.4](/en/The_Urantia_Book/120#p4_4)]
 
 Jesus, the incarnated Christ Michael, is a Paradise Son of the Michael order, a Creator Son, and we are instructed that each Creator Son has to win and earn the unchallenged authority to rule his local universe, a congregation of ten million inhabited worlds, thousands of architectural spheres and trillions of mortal and celestial beings. The last phase in a Creator Son's gaining full sovereignty over his creation is the seventh bestowal, an incarnation, which happens only once during his career and always in the likeness of a human, the lowest creature with survival potentials and capacity.
 
