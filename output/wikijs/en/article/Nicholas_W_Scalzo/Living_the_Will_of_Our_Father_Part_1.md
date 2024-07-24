@@ -22,6 +22,8 @@ In the next few days, not only will we explore the reality of having a fragment 
 
 We are told by a Divine Counselor:
 
+<br style="clear:both;"/>
+
 > _Those who know God have experienced the fact of bis presence; such God-knowing mortals bold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God-consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father._ [[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)]
 
 
