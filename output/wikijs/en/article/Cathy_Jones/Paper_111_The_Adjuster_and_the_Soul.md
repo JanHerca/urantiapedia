@@ -42,9 +42,9 @@ Many ancient Nile valley carvings have been discovered by archeologists. A relie
 
 The Egyptians believed this ka guided them into better paths of life and especially influenced their fortunes in the hereafter. Upon death this spirit genius was expected to be waiting for him on the other side of the Great River. First, only kings were supposed to have kas, but later it was believed that all righteous men possessed them.
 
-> _One Egptian ruler, speaking of the ka within bis heart said “I did not disregard its speech, I feared to transgress its guidance. I prospered thereby greatly; I was thus successful by reason of that which it caused me to do; I was distinguished by its guidance.”_ [1216.0]
+> _One Egptian ruler, speaking of the ka within bis heart said “I did not disregard its speech, I feared to transgress its guidance. I prospered thereby greatly; I was thus successful by reason of that which it caused me to do; I was distinguished by its guidance.”_ [UB 111:0.6](/en/The_Urantia_Book/111#p0_6)
 
-Many believed that the ka was _an oracle from God in everybody_ [1216.0]. _They also believed they were to spend eternity in gladness of heart in the favor of the God that is in you_ [1216.0].
+Many believed that the ka was _an oracle from God in everybody_. _They also believed they were to spend eternity in gladness of heart in the favor of the God that is in you_ [UB 111:0.6](/en/The_Urantia_Book/111#p0_6)
 
 Have you heard of the “evil eye”? The term, still in use today, was believed by many of our ancestors to be the soul looking out upon the world through human eyes. They feared the malevolence of the evil eye.
 
@@ -120,7 +120,7 @@ Very simply said:
 
 > _Peace in this life, survival in death, perfection in the next life, service in eternity—all these are acbieved (in the spirit) now when the creature personality consents chooses — to subject the creature will to the Father's will._ [[UB 111:5.4](/en/The_Urantia_Book/111#p5_4)]
 
->We do not **surrender** our will, but choose to **consecrate** our will, causing an expansion of will, a glorification of will, a perfecting of will—raising our will from the temporal level to that higher estate wherein the creature son communes with the personality of the spirit Father, the birth of another eternal partnership of the will of man and the will of God ([UB 111:5.5](/en/The_Urantia_Book/111#p5_5)).
+We do not **surrender** our will, but choose to **consecrate** our will, causing an expansion of will, a glorification of will, a perfecting of will—raising our will from the temporal level to that higher estate wherein the creature son communes with the personality of the spirit Father, the birth of another eternal partnership of the will of man and the will of God ([UB 111:5.5](/en/The_Urantia_Book/111#p5_5)).
 
 ## Man is faced with a paradox.
 
@@ -132,7 +132,7 @@ Very simply said:
 
 On [UB 111:7.1](/en/The_Urantia_Book/111#p7_1) of _The Urantia Book_, the Solitary Messenger tells us “The Adjuster's Problem.” This is one of the most beautiful and personal sections of the book. Please take time to read it in its entirety. I will give you just a glimpse. He tells us:
 
-_The higher human races of Urantia are complexly admixed; they are a blend of many races and stocks of different origin. This composite nature renders it exceedingly diffecult for the Monitors to work efficiently during life and adds definitely to the problems of both the Adjuster and the guardian seraphim after death. Not long since I was present on Salvington and beard a guardian of destiny present a formal statement in extenuation of the difficulties of ministering to ber mortal subject. This seraphim said:_
+> _The higher human races of Urantia are complexly admixed; they are a blend of many races and stocks of different origin. This composite nature renders it exceedingly diffecult for the Monitors to work efficiently during life and adds definitely to the problems of both the Adjuster and the guardian seraphim after death. Not long since I was present on Salvington and beard a guardian of destiny present a formal statement in extenuation of the difficulties of ministering to ber mortal subject. This seraphim said:_
 > 
 > _“Much of my difficulty was due to the unending conflict between the two natures of my subject: the urge of ambition opposed by animal indolence; the ideals of a superior people crossed by the instincts of an inferior race; the bigh purposes of a great mind antagonized by the urge of a primitive inberitance; the long-distance view of a far-seeing Monitor counteracted by the nearsightedness of a creature of time; the progressive plans of an ascending being modified by the desires and longings of a material nature; the flashes of universe intelligence cancelled by the chemical-energy mandates of the evolving race; the urge of angels opposed by the emotions of an animal; the training of an intellect annulled by the tendencies of instinct; the experience of the individual opposed by the accumulated propensities of the race; the aims of the best overshadowed by the drift of the worst; the flight of genius neutralized by the gravity of mediocrity; the progress of the good retarded by the inertia of the bad; the art of the beautiful besmirched by the presence of evil; the buoyancy of bealth neutralized by the debility of disease; the fountain of faith polluted by the poisons of fear; the spring of joy embittered by the waters of sorrow; the gladness of anticipation disillusioned by the bitterness of realization; the joys of living ever threatened by the sorrows of death. Such a life on such a planet! And yet, because of the ever-present help and urge of the Thought Adjuster, this soul did acbieve a fair degree of happiness and success and bas even now ascended to the judgment balls of mansonia. ”_ [[UB 111:7.4-5](/en/The_Urantia_Book/111#p7_4)]
 
