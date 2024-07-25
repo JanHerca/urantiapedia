@@ -25,28 +25,28 @@ Au cours des quelques jours à venir, non seulement nous allons explorer la réa
 
 <br style="clear:both;"/>
 
-> _Ceux qui connaissent Dieu ont expérimenté le fait de sa présence. Ces mortels connaissant Dieu possèdent dans leur expérience personnelle la seule preuve positive de l'existence du Dieu vivant qu'un être bumain puisse offrir à un autre. L'existence de Dieu dépasse complètement toute possibilité de démonstration, si ce n'est par le contact entre la conscience de Dieu dans le mental humain et la présence de Dieu de l'Ajusteur de Pensée qui babite l'intellect mortel et qui est effusé sur l'bomme à titre de don gratuit du Père Universel._ [[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)]
+> _Ceux qui connaissent Dieu ont expérimenté le fait de sa présence. Ces mortels connaissant Dieu possèdent dans leur expérience personnelle la seule preuve positive de l'existence du Dieu vivant qu'un être bumain puisse offrir à un autre. L'existence de Dieu dépasse complètement toute possibilité de démonstration, si ce n'est par le contact entre la conscience de Dieu dans le mental humain et la présence de Dieu de l'Ajusteur de Pensée qui babite l'intellect mortel et qui est effusé sur l'bomme à titre de don gratuit du Père Universel._ [[LU 1:2.8](/fr/The_Urantia_Book/1#p2_8)]
 
 
-> _Votre message au monde sera : Cherchez d'abord le royaum e de Dieu et sa droiture ... car le ***royaume*** que vous prêchez est ***Dieu en vous***._ [[UB 140:1.5](/en/The_Urantia_Book/140#p1_5); emphasis mine]
+> _Votre message au monde sera : Cherchez d'abord le royaum e de Dieu et sa droiture ... car le ***royaume*** que vous prêchez est ***Dieu en vous***._ [[LU 140:1.5](/fr/The_Urantia_Book/140#p1_5); emphasis mine]
 
 Ce matin, dans ces salles sanctifiées, il y a des hommes et des femmes qui ont fait l'expérience du fait de la présence de Dieu et qui le connaissent vraiment. Ces mortels conscients de Dieu ont trouvé Dieu en euxmêmes. Ils ont dépassé la croyance et effectivement et consciemment, ils en sont venus à le connaitre car ils ont fait l'expérience de Dieu. Ces mortels connaissant Dieu partageront leur vie personnelle avec nous pour nous offrir la seule preuve possible de l'existence de Dieu. En tant que mortels connaissant Dieu nous ouvrirons notre âme les uns aux autres pour montrer la croissance spirituelle qui s'est produite dans notre vie. Et, en vivant la volonté de notre Père au quotidien, nous partagerons la façon dont nous avons contacté personnellement et consciemment la présence de Dieu qui est l'Esprit de Dieu qui habite notre intellect de mortel — la conscience de Dieu.
 
-Ce matin, je serai le premier de nombreux intervenants à partager sa vie avec vous, une vie et une expérience personnelle de vivre la volonté de notre Père. Nous aimons notre Père, comme vous-mêmes l'aimez. Nous ne sommes que des hommes et des femmes qui essaient de le servir au mieux comme de servir au mieux nos frères et soeurs dans la chair. Le ciel sait que nous ne sommes pas parfaits, surtout moi; mais nous tentons de l'être. C'est pourquoi aujourd'hui nous sommes ici pour partager et apprendre les uns des autres ce que signifie «_Soyez parfaits, comme moi-même je suis parfait._ » [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3); [UB 1:5.1](/en/The_Urantia_Book/1#p5_1); [UB 7:4.7](/en/The_Urantia_Book/7#p4_7); [UB 26:4.12](/en/The_Urantia_Book/26#p4_12) etc.]. Nous espérons que dans les ateliers, vous pourrez partager vos expériences spirituelles avec d'autres, tout comme nous, les orateurs, nous partageons notre vie avec vous.
+Ce matin, je serai le premier de nombreux intervenants à partager sa vie avec vous, une vie et une expérience personnelle de vivre la volonté de notre Père. Nous aimons notre Père, comme vous-mêmes l'aimez. Nous ne sommes que des hommes et des femmes qui essaient de le servir au mieux comme de servir au mieux nos frères et soeurs dans la chair. Le ciel sait que nous ne sommes pas parfaits, surtout moi; mais nous tentons de l'être. C'est pourquoi aujourd'hui nous sommes ici pour partager et apprendre les uns des autres ce que signifie «_Soyez parfaits, comme moi-même je suis parfait._ » [[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3); [LU 1:5.1](/fr/The_Urantia_Book/1#p5_1); [LU 7:4.7](/fr/The_Urantia_Book/7#p4_7); [LU 26:4.12](/fr/The_Urantia_Book/26#p4_12) etc.]. Nous espérons que dans les ateliers, vous pourrez partager vos expériences spirituelles avec d'autres, tout comme nous, les orateurs, nous partageons notre vie avec vous.
 
 Il faut que Dieu soit le **premier** dans notre vie. Notre désir suprême doit être de le connaitre ; de vivre notre vie comme il la vivrait si nous le laissions faire sa volonté, à sa manière; ce doit être de le servir toujours pour sa gloire, de nous aimer les uns les autres comme il nous aime et comme nous l'aimons. Et nous saurions qu'en faisant sa volonté, à sa manière, c'est lui qui, en fait, vit notre vie en divers moments, et d'une manière divinement parfaite. Nous avons été témoins de l'oeuvre de Dieu, nous avons vu sa perfection dans l'action, et nous le connaissons comme part réelle de nous-mêmes.
 
 ## Les diverses fonctions des Changeurs de Pensée, des Ajusteurs de Pensée et des Contrôleurs de Pensée
 
-> _Bien que le Père Universel réside personnellement au Paradis, au centre même de l'univers, il est présent de manière effective aussi sur les mondes de l'espace dans le mental de ses innombrables enfants du temps, car il les habite sous l'aspect des Moniteurs de Mystère._ [[UB 107:0.1](/en/The_Urantia_Book/107#p0_1)]
+> _Bien que le Père Universel réside personnellement au Paradis, au centre même de l'univers, il est présent de manière effective aussi sur les mondes de l'espace dans le mental de ses innombrables enfants du temps, car il les habite sous l'aspect des Moniteurs de Mystère._ [[LU 107:0.1](/fr/The_Urantia_Book/107#p0_1)]
 
-> _Les Ajusteurs sont l'actualité de l'amour du Père incarné dans l'âme des hommes..._ [[UB 107:0.2](/en/The_Urantia_Book/107#p0_2)]
+> _Les Ajusteurs sont l'actualité de l'amour du Père incarné dans l'âme des hommes..._ [[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2)]
 
 L'Ajusteur est l'amour de Dieu dans le coeur et l'âme des hommes. Dieu vous aime — c'est pourquoi il vient vous habiter et vous aider dans votre vie. Alors que nous croissons il demeure le même, mais alors que nous faisons l'expérience de la vie il fonctionne en raison de l'expérience que nous avons.
 
 Un Messager Solitaire, l'une des autorités de l'Esprit Infini, nous dit dans _Le Livre d'Urantia_ :
 
-> _Sur les mondes évolutionnaires, les créatures volitives [comme nous] traversent trois stades d'existence dans leur développement général. Depuis l'arrivée de l'Ajusteur jusqu'à la pleine croissance relative d'environ vingt ans d'age sur Urantia, les Moniteurs sont parfois appelés ***Changeurs de Pensée***._ [[UB 107:0.7](/en/The_Urantia_Book/107#p0_7); emphasis mine]
+> _Sur les mondes évolutionnaires, les créatures volitives [comme nous] traversent trois stades d'existence dans leur développement général. Depuis l'arrivée de l'Ajusteur jusqu'à la pleine croissance relative d'environ vingt ans d'age sur Urantia, les Moniteurs sont parfois appelés ***Changeurs de Pensée***._ [[LU 107:0.7](/fr/The_Urantia_Book/107#p0_7); emphasis mine]
 
 Le Messager Solitaire du _Livre d'Urantia_ nous dit tout d'abord, que nous sommes habités par Dieu sous la forme de l'Ajusteur de Pensée. Ensuite, il nous dit que depuis la petite enfance jusqu'à l'âge de vingt ans environ on se réfère parfois à cet Esprit de Dieu en nous, à cet Ajusteur de Pensée, comme **Changeur de Pensée**. C'est parce que l'Esprit de Dieu en nous tous, quand nous sommes enfants, fonctionne en changeant (ou en échangeant) une de nos pensées inférieures en une autre qui est plus semblable à lui, qui est plus semblable à Dieu. Il rend aussi nos bonnes idées encore meilleures. Il nous encourage à faire la chose juste.
 
@@ -54,7 +54,7 @@ Je vois parmi cet auditoire ceux d'entre vous qui ont plus de cinq ans mais moin
 
 Le Messager Solitaire poursuit :
 
-> _Depuis cette époque [d'environ vingt ans] jusqu'à l'age du ***discernement***, environ quarante ans, les Moniteurs de Mystère s'appellent **Ajusteurs de Pensée**._ [[UB 107:0.7](/en/The_Urantia_Book/107#p0_7), emphasis mine]
+> _Depuis cette époque [d'environ vingt ans] jusqu'à l'age du ***discernement***, environ quarante ans, les Moniteurs de Mystère s'appellent **Ajusteurs de Pensée**._ [[LU 107:0.7](/fr/The_Urantia_Book/107#p0_7), emphasis mine]
 
 Je vois dans l'auditoire ceux d'entre vous qui ont plus de vingt ans mais n'ont pas encore atteint l'âge du discernement d'environ quarante ans. Voulez-vous bien vous lever tous? Les fragments de Dieu en vous fonctionnent en tant qu'**Ajusteurs de Pensée**. Pensez à votre Ajusteur de Pensée comme à quelqu'un qui ajuste vos pensées. Il syntonise vos pensées dans votre mental de sorte qu'elles soient plus proches des pensées qu'il aurait s'il vivait votre vie.
 
@@ -64,7 +64,7 @@ Tandis qu'ils se rassoient, donnons la main à toutes ces soeurs et à tous ces 
 
 Ensuite le Messager Solitaire nous dit encore:
 
-> _Depuis l'acquisition du discernement [environ quarante ans et plus] jusqu'à la délivrance de la chair,[ jusqu'à ce qu'ils quittent notre planète et commencent l'ascension vers le Paradis] on les appelle souvent ***Contrôleurs de Pensée***._ [[UB 107:0.7](/en/The_Urantia_Book/107#p0_7)]
+> _Depuis l'acquisition du discernement [environ quarante ans et plus] jusqu'à la délivrance de la chair,[ jusqu'à ce qu'ils quittent notre planète et commencent l'ascension vers le Paradis] on les appelle souvent ***Contrôleurs de Pensée***._ [[LU 107:0.7](/fr/The_Urantia_Book/107#p0_7)]
 
 Et maintenant, vous tous, qui avez plus de quarante ans, qui avez atteint l'âge du discernement et qui avez été habités depuis plus de trente-quatre ans par l'Esprit de Dieu — connu sous le doux nom de **Contrôleur de Pensée** — voulez-vous bien vous lever ?
 
@@ -80,7 +80,7 @@ Il sait comment vous allez vivre votre vie avant même de vous habiter.
 
 ## Premier choix moral : Décider entre le bien et le mal l'arrivée du Changeur de Pensée
 
-On nous dit que le Changeur de Pensée ne pouvait pas habiter votre mental avant que vous n'ayez manifesté une tendance _à l'adoration et_ [dénoté ] _le fonctionnement de la sagesse en montrant son aptitude à choisir entre les valeurs émergentes du bien et du mal — à faire un choix moral._ [[UB 108:2.2](/en/The_Urantia_Book/108#p2_2)].
+On nous dit que le Changeur de Pensée ne pouvait pas habiter votre mental avant que vous n'ayez manifesté une tendance _à l'adoration et_ [dénoté ] _le fonctionnement de la sagesse en montrant son aptitude à choisir entre les valeurs émergentes du bien et du mal — à faire un choix moral._ [[LU 108:2.2](/fr/The_Urantia_Book/108#p2_2)].
 
 Après votre naissance, le Père vous a fait don de la personnalité et vous a fait ce que vous êtes. Plus tard, probablement avant votre sixième anniversaire, votre mental a été dûment préparé et encircuité dans le Saint Esprit. Puis, quand l'esprit de sagesse a fonctionné dans votre mental, votre Changeur de Pensée ou Ajusteur est arrivé dans votre mental au moment où vous avez pris votre première décision morale.
 
@@ -186,13 +186,13 @@ Et faire la volonté de Dieu c'est très facile. Croyezmoi. C'est comme de respi
 
 Cette déclaration a changé ma vie quand sa véritable signification m'est apparu pour la première fois au début de l'année 1970:
 
-> _Combien ils sont heureux de communiquer avec leur sujet par des canaux plus ou moins directs ! Quelle immense joie ils éprouvent à se passer de symboles et d'autres méthodes détournées pour ***adresser directement leurs messages comme des éclairs*** à l'intellect de leur partenaire humain!_ [[UB 108:6.7](/en/The_Urantia_Book/108#p6_7); emphasis mine]
+> _Combien ils sont heureux de communiquer avec leur sujet par des canaux plus ou moins directs ! Quelle immense joie ils éprouvent à se passer de symboles et d'autres méthodes détournées pour ***adresser directement leurs messages comme des éclairs*** à l'intellect de leur partenaire humain!_ [[LU 108:6.7](/fr/The_Urantia_Book/108#p6_7); emphasis mine]
 
 En raison de cet enseignement du _Livre d'Urantia_, j'étais déterminé, dans mon désir suprême de servir Dieu, à permettre à mon Ajusteur de **projeter** ses messages directement dans mon intellect humain. Je centrais mes études sur les méthodes utilisées par Jésus pour déterminer et choisir la volonté du Père. Toute cette étude, ces prières, cette détermination et cette suprême consécration à connaitre Dieu et à être comme lui, à faire sa volonté suivre son chemin, et vivre ma vie au service de son Fils Micaël, tout cela culmina en la prise de conscience mentale de la possibilité réelle d'être guidé par mon propre Ajusteur et d'agir sous sa direction.
 
-J'appris à aimer plus mon Ajusteur, à coopérer plus pleinement avec lui, et à le chérir plus affectueusement simplement parce que mon Ajusteur était profondément intéressé à mon bien-être temporel et à mes accomplissements sur terre. ([UB 110:1.3](/en/The_Urantia_Book/110#p1_3)).
+J'appris à aimer plus mon Ajusteur, à coopérer plus pleinement avec lui, et à le chérir plus affectueusement simplement parce que mon Ajusteur était profondément intéressé à mon bien-être temporel et à mes accomplissements sur terre. ([LU 110:1.3](/fr/The_Urantia_Book/110#p1_3)).
 
-J'appris du Messager Solitaire que : _Il est parfois possible d'avoir votre mental illuminé, d'entendre la voix divine qui parle continuellement en vous et de devenir partiellement conscient de la sagesse, de la vérité, de la bonté et de la beauté de la personnalité potentielle qui vous babite constamment._ [[UB 109:5.2](/en/The_Urantia_Book/109#p5_2)]
+J'appris du Messager Solitaire que : _Il est parfois possible d'avoir votre mental illuminé, d'entendre la voix divine qui parle continuellement en vous et de devenir partiellement conscient de la sagesse, de la vérité, de la bonté et de la beauté de la personnalité potentielle qui vous babite constamment._ [[LU 109:5.2](/fr/The_Urantia_Book/109#p5_2)]
 
 Imaginez-cela! Il dit que ***l'on peut entendre la voix divine qui parle continuellementen vous.***
 
@@ -200,7 +200,7 @@ C'est pourquoi je voulais entendre sa voix. Je ne serais pas satisfait à moins.
 
 Mais cela, pensais-je c'est pour quelqu'un de parfait comme Jésus, le Fils de Dieu. Ce n'était pas possible pour moi. Je me dis : «Qui suis-je, dans cette vie banale, pour être béni au point que l'Esprit de Dieu me parle ou même communique en quelque façon avec moi? Je ne suis pas parfait- demandez à ma femme. Je ne suis pas un saint. Jésus était un Fils Créateur ; moi, je suis né de l'autre côté du port de New York, de l'autre côté du pont Verazzano. » Mais je savais, comme l'avait dit Jésus, que j'étais aussi un fils de Dieu et que l'Esprit Saint en témoignerait. Si je l'acceptais, moi aussi j'étais ouvert à l'audition de la voix divine.
 
-J'avais aussi appris que: _Cet Ajusteur triompha réellement dans le mental bumain de Jésus — ce mental qui maintint, dans chacune des situations récurrentes de la vie, une consécration dévouée à la volonté du Père en disant: «Que ta volonté soit faite, et non la mienne. »_ [[UB 109:6.5](/en/The_Urantia_Book/109#p6_5)]. Il devait donc aussi être possible à chacun d'entre nous de connaitre consciemment la volonté de Dieu dans ***chacune des situations récurrentes*** de la vie.
+J'avais aussi appris que: _Cet Ajusteur triompha réellement dans le mental bumain de Jésus — ce mental qui maintint, dans chacune des situations récurrentes de la vie, une consécration dévouée à la volonté du Père en disant: «Que ta volonté soit faite, et non la mienne. »_ [[LU 109:6.5](/fr/The_Urantia_Book/109#p6_5)]. Il devait donc aussi être possible à chacun d'entre nous de connaitre consciemment la volonté de Dieu dans ***chacune des situations récurrentes*** de la vie.
 
 Pourquoi pas ? Tout ce qu'il faut faire c'est maintenir une ***consécration dévouée à la volonté du Père.***
 
@@ -213,7 +213,7 @@ Puis, je lis que le Messager Solitaire avait dit :
 > 1. _En choisissant de répondre à l'appel de la gouverne divine, en basant sincèrement votre vie humaine sur votre plus haute conscience de la ***vérité***, de la ***beauté*** et de la ***bonté***, et ensuite en coordonnant ces qualités de divinité par la ***sagesse***, l'***adoration***, la ***foi*** et l'***amour***._
 > 2. _En ***aimant Dieu*** et en désirant lui ressembler — par la récognition sincère de la paternité divine et l'adoration aimante du Parent céleste._
 > 3. _En ***aimant les hommes*** et en désirant sincèrement les servir — par la récognition de tout coeur de la fraternité humaine doublée d'une affection sage et intelligente pour chacun de vos compagnons mortels._
-> 4. _En ***acceptant joyeusement la citoyenneté cosmique*** — en reconnaissant honnêtement vos obligations progressives envers l'Être Suprême ..._ [[UB 110:3.6](/en/The_Urantia_Book/110#p3_6) 8; emphasis mine]
+> 4. _En ***acceptant joyeusement la citoyenneté cosmique*** — en reconnaissant honnêtement vos obligations progressives envers l'Être Suprême ..._ [[LU 110:3.6](/fr/The_Urantia_Book/110#p3_6) 8; emphasis mine]
 
 Ne pouvons-nous pas comprendre que notre choix de consécration à la communion avec Dieu implique de rechercher sa volonté dans notre mental en tant que la plus haute conscience de la **vérité**, de la **beauté**, et de la **bonté**, implique d'aimer Dieu et de désirer être semblable à lui et aussi d' aimer l'homme et de désirer sincèrement le servir tout en acceptant joyeusement, en même temps, notre **citoyenneté cosmique et nos obligations envers l'Être Suprême** ?
 
@@ -221,7 +221,7 @@ C'est une véritable révélation, mais elle doit encore être testée consciemm
 
 Allons-nous partager notre vie intérieure avec Dieu? Allons-nous l'imiter alors que nous apprenons à comprendre ses pensées sur la manière dont nous devrions vivre? Dirons-nous, Je veux choisir de connaitre ta volonté, mon Père ?
 
-> _Ce choix de la créature n'est pas un abandon de la volonté. Il est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté. Un tel choix élève la volonté de la créature du niveau de signification temporelle à cet état supérieur où la personnalité du fils créé communie avec la personnalité du Père-esprit._ [[UB 111:5.5](/en/The_Urantia_Book/111#p5_5)]
+> _Ce choix de la créature n'est pas un abandon de la volonté. Il est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté. Un tel choix élève la volonté de la créature du niveau de signification temporelle à cet état supérieur où la personnalité du fils créé communie avec la personnalité du Père-esprit._ [[LU 111:5.5](/fr/The_Urantia_Book/111#p5_5)]
 
 C'est bien ce que nous voulons tous, n'est-ce pas ? Permets-nous de consacrer notre volonté à ta gloire, Père!
 
