@@ -39,7 +39,7 @@ dateCreated: 2023-9-16T10:55:6Z
 {.is-info}
 
 > **Editor's Note:** This article included in “IUA Journal”, February 2016, was first published in “_The Urantia Book_ Fellowship Herald”, Volume 14, Number 1, 2014 (Summer). Please follow this link to access the original article: [The Rehabilitation of Urantia](/en/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia).
-{is-info}
+{.is-info}
 
 ## References
 
